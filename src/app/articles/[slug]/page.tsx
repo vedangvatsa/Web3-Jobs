@@ -49,15 +49,6 @@ export default function ArticlePage({ params }: ArticlePageProps) {
               <p className="text-xl text-muted-foreground">{article.description}</p>
             </header>
             
-            <Image
-              src={article.image}
-              alt={article.title}
-              width={1200}
-              height={600}
-              className="w-full h-auto rounded-xl shadow-lg mb-12"
-              data-ai-hint={article.slug.replace(/-/g, ' ')}
-            />
-            
             <div className="prose prose-lg max-w-none text-foreground prose-h2:text-3xl prose-h2:font-bold prose-h2:mb-4 prose-h2:mt-10 prose-h3:text-2xl prose-h3:font-bold prose-p:leading-relaxed prose-a:text-primary hover:prose-a:text-primary/80 prose-ul:list-none prose-ul:p-0">
                 <ArticleRenderer content={article.content} />
             </div>
