@@ -11,25 +11,35 @@ interface TocEntry {
   title: string;
 }
 
+function getHeadingsFromContent(content: ArticleContent): TocEntry[] {
+    return content
+        .filter(block => block.type === 'h2' || block.type === 'h3')
+        .map(block => {
+        if (block.type === 'h2' || block.type === 'h3') {
+            const title = block.children.map(c => c.value).join('');
+            const id = title.toLowerCase().replace(/\s+/g, '-').replace(/[?]/g, '');
+            return {
+            level: block.type === 'h2' ? 2 : 3,
+            id,
+            title
+            };
+        }
+        return null;
+        }).filter((h): h is TocEntry => h !== null);
+}
+
+
 export function TableOfContents({ content }: { content: ArticleContent }) {
   const [activeId, setActiveId] = useState<string | null>(null);
-
-  const headings = content
-    .filter(block => block.type === 'h2' || block.type === 'h3')
-    .map(block => {
-      if (block.type === 'h2' || block.type === 'h3') {
-        const title = block.children.map(c => c.value).join('');
-        const id = title.toLowerCase().replace(/\s+/g, '-').replace(/[?]/g, '');
-        return {
-          level: block.type === 'h2' ? 2 : 3,
-          id,
-          title
-        };
-      }
-      return null;
-    }).filter((h): h is TocEntry => h !== null);
+  const [headings, setHeadings] = useState<TocEntry[]>([]);
 
   useEffect(() => {
+    setHeadings(getHeadingsFromContent(content));
+  }, [content])
+
+  useEffect(() => {
+    if (headings.length === 0) return;
+
     const handleScroll = () => {
       let currentId: string | null = null;
       for (let i = headings.length - 1; i >= 0; i--) {
@@ -51,14 +61,18 @@ export function TableOfContents({ content }: { content: ArticleContent }) {
     };
   }, [headings]);
   
+  if (headings.length === 0) {
+      return null;
+  }
+  
   return (
-    <nav>
+    <nav className="border-l border-border pl-4">
       <ul className="space-y-2">
         {headings.map(heading => (
           <li key={heading.id} className={cn(
-              "text-sm text-muted-foreground hover:text-foreground transition-colors",
+              "text-sm text-muted-foreground transition-colors hover:text-foreground",
               heading.level === 3 && "pl-4",
-              activeId === heading.id && "text-primary font-semibold"
+              activeId === heading.id && "text-primary font-bold"
           )}>
             <a href={`#${heading.id}`}
               onClick={(e) => {
