@@ -1,7 +1,5 @@
-'use client';
 
 import { CheckCircle2 } from 'lucide-react';
-import { Fragment } from 'react';
 import type { Article } from '@/types';
 
 const articles: Article[] = [
@@ -577,67 +575,4 @@ export function getArticles() {
 
 export function getArticle(slug: string) {
   return articles.find(article => article.slug === slug);
-}
-
-// Function to render content based on the structured data
-export function renderArticleContent(content: Article['content']) {
-  if (!content) return null;
-
-  return content.map((block, index) => {
-    switch (block.type) {
-      case 'p':
-        return (
-          <p key={index} className="mb-4 leading-relaxed">
-            {block.children.map((child, childIndex) => {
-              if (child.type === 'link') {
-                return (
-                  <a key={childIndex} href={child.href} className="text-primary underline hover:no-underline">
-                    {child.value}
-                  </a>
-                );
-              }
-              return <Fragment key={childIndex}>{child.value}</Fragment>;
-            })}
-          </p>
-        );
-      case 'h2':
-        return (
-          <h2 key={index} className="text-2xl font-bold mt-8 mb-4 text-foreground">
-            {block.children.map(child => child.value).join('')}
-          </h2>
-        );
-      case 'h3':
-        return (
-          <h3 key={index} className="text-xl font-bold mt-6 mb-3 text-foreground">
-            {block.children.map(child => child.value).join('')}
-          </h3>
-        );
-      case 'ul':
-        return (
-          <ul key={index} className="space-y-3 mb-4">
-            {block.children.map((li, liIndex) => (
-              <li key={liIndex} className="flex items-start">
-                {li.children[0].type === 'icon' && (
-                  <li.children[0].component className="w-5 h-5 text-primary mt-1 mr-3 flex-shrink-0" />
-                )}
-                <span className="flex-grow">
-                  {li.children.slice(1).map((child, childIndex) => {
-                    if (child.type === 'link') {
-                      return (
-                        <a key={childIndex} href={child.href} className="text-primary underline hover:no-underline">
-                          {child.value}
-                        </a>
-                      );
-                    }
-                    return <Fragment key={childIndex}>{child.value}</Fragment>;
-                  })}
-                </span>
-              </li>
-            ))}
-          </ul>
-        );
-      default:
-        return null;
-    }
-  });
 }
