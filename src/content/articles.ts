@@ -99,6 +99,7 @@ const articles: Article[] = [
       },
       { type: 'h2', children: [{ type: 'text', value: 'Sector 2: DeFi Leaders - The New Financial System' }] },
       { type: 'p', children: [{ type: 'text', value: 'DeFi is one of the most exciting areas, building everything from decentralized exchanges and lending protocols to stablecoins. Jobs here need a mix of tech skill and financial knowledge. The pace is incredibly fast, and the stakes are high, with protocols often handling billions of dollars in assets.' }] },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1642774632903-b3b64832873f?q=80&w=800&h=450&auto=format&fit=crop', alt: 'Glowing financial chart', 'data-ai-hint': 'finance chart' },
       { type: 'h3', children: [{ type: 'text', value: 'Key Players:' }] },
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Uniswap Labs: The team behind the biggest decentralized exchange (DEX). Often looking for elite smart contract engineers and frontend engineers to work on its main trading protocol and user interface.' }] },
@@ -109,6 +110,7 @@ const articles: Article[] = [
       },
       { type: 'h2', children: [{ type: 'text', value: 'Sector 3: Infrastructure & Developer Tooling' }] },
       { type: 'p', children: [{ type: 'text', value: 'This sector provides the \'picks and shovels\' for the Web3 gold rush. These companies build the services that make it easier for developers to build dApps, from node infrastructure to analytics platforms. Working here means your work helps thousands of other developers.' }] },
+       { type: 'image', src: 'https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=800&h=450&auto=format&fit=crop', alt: 'A toolbox with tools', 'data-ai-hint': 'toolbox tools' },
       { type: 'h3', children: [{ type: 'text', value: 'Key Players:' }] },
       { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'Alchemy: A top blockchain developer platform providing node infrastructure, APIs, and tools. Hires for backend, frontend, and developer advocacy roles.' }]},
@@ -268,6 +270,7 @@ const articles: Article[] = [
       },
       { type: 'h2', children: [{ type: 'text', value: '2. Marketing Manager: The Storyteller' }] },
       { type: 'p', children: [{ type: 'text', value: 'Web3 marketing is a totally different game. The audience is very skeptical of traditional advertising and values authenticity and education above all else. A Web3 marketer\'s job isn\'t to \'sell\' a product but to \'share\' a vision. It\'s about building a movement and educating the market.' }] },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1455849318743-b2233052fcff?q=80&w=800&h=450&auto=format&fit=crop', alt: 'A person telling a story around a campfire', 'data-ai-hint': 'storytelling campfire' },
       { type: 'h3', children: [{ type: 'text', value: 'Responsibilities:' }] },
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Content Strategy: Creating and running a content plan that teaches the market about your project\'s value. This includes blog posts, video tutorials, Twitter threads, and newsletters.' }] },
@@ -277,6 +280,7 @@ const articles: Article[] = [
       },
       { type: 'h2', children: [{ type: 'text', value: '3. Product Manager: The Conductor' }] },
       { type: 'p', children: [{ type: 'text', value: 'In Web3, a Product Manager decides the \'what\' and \'why\' of a decentralized product. They have to balance the needs of many different groups: users, token holders, developers, and the wider community. This role requires a unique ability to think about systems, incentives, and user experience all at once.' }] },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=800&h=450&auto=format&fit=crop', alt: 'A conductor leading an orchestra', 'data-ai-hint': 'conductor orchestra' },
       { type: 'h3', children: [{ type: 'text', value: 'Responsibilities:' }] },
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Roadmap & Vision: Owning the product roadmap, setting the strategic direction, and breaking it down into a prioritized list of features.' }] },
@@ -557,7 +561,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Focus on Output, Not Presence: Remote-first cultures tend to be more asynchronous and results-oriented. What matters is the quality of your work and your contributions, not how many hours you spend sitting in an office.' }] },
         ]
       },
-      { type: 'image', src: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=800&h=450&auto=format&fit=crop', alt: 'A world map with connected dots', 'data-ai-hint': 'world map network', caption: 'Web3 enables a truly global and remote workforce, breaking down geographical barriers.' },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=800&h=450&auto=format&fit=crop', alt: 'A person working remotely on a laptop', 'data-ai-hint': 'remote work laptop' },
       { type: 'h2', children: [{ type: 'text', value: 'Where to Find Remote Web3 Jobs' }] },
       { type: 'p', children: [{ type: 'text', value: 'Your job search strategy needs to be as modern as the roles you\'re applying for. The best opportunities are often found in crypto-native online spaces.' }]},
        { type: 'h3', children: [{ type: 'text', value: '1. Specialized Job Boards:' }] },
@@ -1081,3 +1085,6 @@ export function getArticles() {
 export function getArticle(slug: string) {
   return articles.find(article => article.slug === slug);
 }
+
+
+    
