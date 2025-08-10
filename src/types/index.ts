@@ -1,3 +1,4 @@
+
 export interface Job {
   id: string;
   title: string;
@@ -27,10 +28,19 @@ type ListItem = {
   children: (StyledText | Link)[];
 };
 
+// Represents a paragraph within a blockquote
+type BlockquoteParagraph = {
+    type: 'p';
+    children: (StyledText | Link)[];
+}
+
 // A block of content can be a paragraph, heading, list, image, or blockquote
 type ContentBlock = {
-  type: 'p' | 'h2' | 'h3' | 'ul' | 'blockquote';
+  type: 'p' | 'h2' | 'h3' | 'ul';
   children: (StyledText | Link | ListItem)[];
+} | {
+    type: 'blockquote';
+    children: BlockquoteParagraph[];
 } | {
   type: 'image';
   src: string;
