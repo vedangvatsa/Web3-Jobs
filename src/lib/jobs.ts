@@ -26,7 +26,7 @@ export async function getJobs(): Promise<Job[]> {
           const title = item.title?.trim();
           const company = item.content?.trim();
           
-          if (id && !seenIds.has(id) && title && company && item.link) {
+          if (id && !seenIds.has(id) && title && company && item.link && title.split(' ').length <= 7) {
             seenIds.add(id);
             allJobs.push({
               id,
