@@ -15,7 +15,7 @@ export function Header() {
     return (
         <header className="sticky top-0 z-30 w-full border-b bg-background/80 backdrop-blur-sm">
             <div className="container mx-auto flex h-20 items-center justify-between px-4">
-                <Link href="/" className="text-xl font-bold tracking-tight text-foreground">
+                <Link href="/" className="text-xl font-bold tracking-tight text-foreground" aria-label="Hashtag Web3 Homepage">
                     Hashtag Web3
                 </Link>
                 

@@ -22,7 +22,7 @@ export function Footer() {
               </a>
               <a href="https://x.com/hashtag_web3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
                 <Twitter size={20} />
-                <span className="sr-only">X</span>
+                <span className="sr-only">X (formerly Twitter)</span>
               </a>
               <a href="https://instagram.com/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
                 <Instagram size={20} />
