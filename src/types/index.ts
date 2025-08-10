@@ -12,8 +12,7 @@ export type ArticleContent = {
   children: (
     | { type: 'text'; value: string }
     | { type: 'link'; href: string; value: string }
-    | { type: 'icon'; component: React.ComponentType<{ className?: string }> }
-    | { type: 'li'; children: ({ type: 'icon'; component: React.ComponentType<{ className?: string }> } | { type: 'text'; value: string } | { type: 'link'; href: string; value: string })[] }
+    | { type: 'li'; children: ({ type: 'text'; value: string } | { type: 'link'; href: string; value: string })[] }
   )[];
 }[];
 

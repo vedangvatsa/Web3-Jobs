@@ -48,7 +48,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
               <p className="text-lg text-muted-foreground">{article.description}</p>
             </header>
             
-            <div className="prose prose-lg max-w-none text-foreground prose-h2:text-foreground prose-h3:text-foreground prose-strong:text-foreground prose-a:text-primary hover:prose-a:text-primary/80">
+            <div className="prose prose-lg max-w-none text-foreground prose-h2:text-foreground prose-h3:text-foreground prose-strong:text-foreground prose-a:text-primary hover:prose-a:text-primary/80 prose-ul:list-none prose-ul:p-0 prose-li:p-0">
                 <ArticleRenderer content={article.content} />
             </div>
           </article>

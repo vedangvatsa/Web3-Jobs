@@ -2,6 +2,7 @@
 'use client';
 
 import type { Article } from '@/types';
+import { CheckCircle2 } from 'lucide-react';
 import { Fragment } from 'react';
 
 // Function to render content based on the structured data
@@ -41,7 +42,9 @@ export function ArticleRenderer({ content }: { content: Article['content'] }) {
         return (
           <ul key={index}>
             {block.children.map((li, liIndex) => (
-              <li key={liIndex}>
+              <li key={liIndex} className="flex gap-x-3">
+                 <CheckCircle2 className="mt-1 h-5 w-5 flex-none text-primary" aria-hidden="true" />
+                 <span>
                  {li.children.map((child, childIndex) => {
                     if (child.type === 'link') {
                       return (
@@ -50,12 +53,9 @@ export function ArticleRenderer({ content }: { content: Article['content'] }) {
                         </a>
                       );
                     }
-                     if (child.type === 'icon') {
-                        // Icons are handled by prose list styling now
-                        return null;
-                    }
                     return <Fragment key={childIndex}>{child.value}</Fragment>;
                   })}
+                  </span>
               </li>
             ))}
           </ul>

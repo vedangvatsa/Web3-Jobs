@@ -1,5 +1,4 @@
 
-import { CheckCircle2 } from 'lucide-react';
 import type { Article } from '@/types';
 
 const articles: Article[] = [
@@ -39,7 +38,6 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               {
                 type: 'text',
                 value: 'DeFi (Decentralized Finance): Rebuilding traditional financial systems on the blockchain.',
@@ -49,7 +47,6 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               {
                 type: 'text',
                 value: 'NFTs (Non-Fungible Tokens): Unique digital assets representing ownership of art, collectibles, or even real estate.',
@@ -59,7 +56,6 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               {
                 type: 'text',
                 value: "DAOs (Decentralized Autonomous Organizations): Community-led entities with no central leadership, governed by code and community votes.",
@@ -69,7 +65,6 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               {
                 type: 'text',
                 value: 'Infrastructure: The base-layer protocols, scaling solutions, and developer tools that power the ecosystem.',
@@ -102,14 +97,12 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               { type: 'text', value: 'Blockchain Fundamentals: Understand how blockchains like Ethereum work, including concepts like consensus mechanisms, smart contracts, and gas fees.' },
             ],
           },
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               { type: 'text', value: 'Solidity & Smart Contract Development: For developers, proficiency in Solidity (the primary language for Ethereum) is a must. Learning how to write, test, and deploy secure smart contracts is critical. Resources like ' },
               { type: 'link', href: 'https://cryptozombies.io/', value: 'CryptoZombies' },
               { type: 'text', value: ' are a great place to start.' },
@@ -118,7 +111,6 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               { type: 'text', value: 'Frontend Development (with a Web3 twist): Skills in React.js or other modern frameworks are still in high demand. Web3 frontends require interaction with blockchain data, so experience with libraries like ' },
               { type: 'link', href: 'https://ethers.org/', value: 'Ethers.js' },
               { type: 'text', value: ' or ' },
@@ -138,7 +130,6 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               {
                 type: 'text',
                 value: 'Community Management: Web3 is community-centric. The ability to engage with users on platforms like Discord and Twitter is a valuable skill for roles in marketing, support, and operations.',
@@ -148,7 +139,6 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               {
                 type: 'text',
                 value: 'Technical Writing & Content Creation: Explaining complex technical concepts in simple terms is a superpower. Roles for technical writers, content marketers, and developer advocates are abundant.',
@@ -158,7 +148,6 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               {
                 type: 'text',
                 value: 'Adaptability & Eagerness to Learn: The Web3 space evolves rapidly. Employers look for candidates who are curious, adaptable, and constantly learning.',
@@ -187,21 +176,18 @@ const articles: Article[] = [
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               { type: 'text', value: 'Contribute to a DAO: Find a DAO that aligns with your interests and start contributing. This could be anything from participating in governance discussions to helping with marketing or coding a new feature.' },
             ],
           },
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               { type: 'text', value: 'Build a Simple dApp: Create a small decentralized application. It doesn’t have to be complex; a simple voting dApp, a basic NFT minting site, or a small DeFi tool can showcase your abilities.' },
             ],
           },
           {
             type: 'li',
             children: [
-              { type: 'icon', component: CheckCircle2 },
               { type: 'text', value: 'Participate in Hackathons: Platforms like ' },
               { type: 'link', href: 'https://ethglobal.com/', value: 'ETHGlobal' },
               { type: 'text', value: ' host regular hackathons that are a great way to learn, network, and build something cool in a short amount of time.' },
@@ -240,34 +226,34 @@ const articles: Article[] = [
       { type: 'h2', children: [{ type: 'text', value: 'Layer 1 & 2 Protocols' }] },
       { type: 'p', children: [{ type: 'text', value: "These companies build and maintain the foundational blockchain infrastructure. Working at a Layer 1 or Layer 2 protocol company means you're contributing to the core technology that powers the entire Web3 ecosystem. These roles are often highly technical and offer the chance to work on cutting-edge computer science problems." }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Ethereum Foundation: While not a traditional company, the Ethereum Foundation offers grants and fellowships for developers, researchers, and community builders working on the core Ethereum protocol.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Solana Labs: Known for its high-performance blockchain, Solana Labs is frequently hiring for roles in Rust engineering, developer relations, and marketing.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Polygon Labs: As a leading Layer 2 scaling solution for Ethereum, Polygon is always looking for talent in areas like zero-knowledge proofs, smart contract development, and business development.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Arbitrum (Offchain Labs): A major player in the optimistic rollup space, Offchain Labs hires for roles in software engineering, research, and ecosystem growth to expand the Arbitrum network.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Ethereum Foundation: While not a traditional company, the Ethereum Foundation offers grants and fellowships for developers, researchers, and community builders working on the core Ethereum protocol.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Solana Labs: Known for its high-performance blockchain, Solana Labs is frequently hiring for roles in Rust engineering, developer relations, and marketing.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Polygon Labs: As a leading Layer 2 scaling solution for Ethereum, Polygon is always looking for talent in areas like zero-knowledge proofs, smart contract development, and business development.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Arbitrum (Offchain Labs): A major player in the optimistic rollup space, Offchain Labs hires for roles in software engineering, research, and ecosystem growth to expand the Arbitrum network.' }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'DeFi (Decentralized Finance) Leaders' }] },
       { type: 'p', children: [{ type: 'text', value: 'DeFi is one of the most vibrant sectors in Web3, with companies building everything from decentralized exchanges to lending protocols. These companies are at the forefront of financial innovation.' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Uniswap Labs: The team behind the leading decentralized exchange, Uniswap, is often looking for top-tier smart contract engineers, frontend developers, and product managers.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Aave: A pioneering decentralized lending protocol, Aave hires for roles in smart contract security, risk management, and user experience design.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'MakerDAO: One of the oldest and largest DAOs, MakerDAO is the issuer of the DAI stablecoin. They offer bounties and hire for roles in governance, engineering, and marketing.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Uniswap Labs: The team behind the leading decentralized exchange, Uniswap, is often looking for top-tier smart contract engineers, frontend developers, and product managers.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Aave: A pioneering decentralized lending protocol, Aave hires for roles in smart contract security, risk management, and user experience design.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'MakerDAO: One of the oldest and largest DAOs, MakerDAO is the issuer of the DAI stablecoin. They offer bounties and hire for roles in governance, engineering, and marketing.' }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'NFT and Gaming Innovators' }] },
       { type: 'p', children: [{ type: 'text', value: 'The world of NFTs and blockchain gaming is exploding with creativity. Companies in this space are blending culture, technology, and finance to create new forms of entertainment and digital ownership.' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'OpenSea: As the largest NFT marketplace, OpenSea is constantly hiring for roles across the board, from security engineers to customer support specialists.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Yuga Labs: The creators of the Bored Ape Yacht Club, Yuga Labs is a powerhouse in the NFT space and is always looking for creative talent, brand managers, and game developers for their metaverse projects.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Immutable: A Layer 2 scaling solution for NFTs and blockchain games on Ethereum, Immutable hires for roles in game design, software engineering, and partner management.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'OpenSea: As the largest NFT marketplace, OpenSea is constantly hiring for roles across the board, from security engineers to customer support specialists.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Yuga Labs: The creators of the Bored Ape Yacht Club, Yuga Labs is a powerhouse in the NFT space and is always looking for creative talent, brand managers, and game developers for their metaverse projects.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Immutable: A Layer 2 scaling solution for NFTs and blockchain games on Ethereum, Immutable hires for roles in game design, software engineering, and partner management.' }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Infrastructure and Developer Tools' }] },
       { type: 'p', children: [{ type: 'text', value: 'These companies build the picks and shovels of the Web3 gold rush. They provide essential services like node infrastructure, data indexing, and smart contract development environments.' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Chainlink: As the leading decentralized oracle network, Chainlink is crucial for connecting smart contracts to real-world data. They hire for engineering, research, and integration roles.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Alchemy: A leading blockchain developer platform, Alchemy provides APIs and infrastructure that make it easier to build dApps. They are often hiring for software engineers, product managers, and developer advocates.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'The Graph: An indexing protocol for querying networks like Ethereum and IPFS, The Graph is essential for dApp development. They hire for roles in engineering, community management, and data science.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Chainlink: As the leading decentralized oracle network, Chainlink is crucial for connecting smart contracts to real-world data. They hire for engineering, research, and integration roles.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Alchemy: A leading blockchain developer platform, Alchemy provides APIs and infrastructure that make it easier to build dApps. They are often hiring for software engineers, product managers, and developer advocates.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'The Graph: An indexing protocol for querying networks like Ethereum and IPFS, The Graph is essential for dApp development. They hire for roles in engineering, community management, and data science.' }] },
         ]
       },
     ]
@@ -282,10 +268,10 @@ const articles: Article[] = [
       { type: 'h2', children: [{ type: 'text', value: 'Factors Influencing Web3 Developer Salaries' }] },
       { type: 'p', children: [{ type: 'text', value: 'Several factors can impact your salary as a Web3 developer:' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Experience Level: From junior to senior and lead roles, experience is the most significant factor.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Specialization: Expertise in areas like smart contract security, zero-knowledge proofs, or protocol development commands a premium.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Location: While many Web3 jobs are remote, salaries can still vary based on the company\'s location and the cost of living in major tech hubs.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Company Type: Well-funded startups and established protocols often offer higher salaries and more generous equity packages than smaller, early-stage projects.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Experience Level: From junior to senior and lead roles, experience is the most significant factor.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Specialization: Expertise in areas like smart contract security, zero-knowledge proofs, or protocol development commands a premium.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Location: While many Web3 jobs are remote, salaries can still vary based on the company\'s location and the cost of living in major tech hubs.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Company Type: Well-funded startups and established protocols often offer higher salaries and more generous equity packages than smaller, early-stage projects.' }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Salary Ranges by Role' }] },
@@ -293,24 +279,24 @@ const articles: Article[] = [
       { type: 'h3', children: [{ type: 'text', value: 'Smart Contract Developer' }] },
       { type: 'p', children: [{ type: 'text', value: 'Specializes in writing, testing, and deploying smart contracts on blockchains like Ethereum. Proficiency in Solidity and a deep understanding of security best practices are essential.' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Junior: $90,000 - $140,000' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Mid-Level: $140,000 - $200,000' }] },
-          { type: 'li', children: [{ type: 'icon', component:CheckCircle2 }, { type: 'text', value: 'Senior: $200,000 - $300,000+' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Junior: $90,000 - $140,000' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Mid-Level: $140,000 - $200,000' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Senior: $200,000 - $300,000+' }] },
         ]
       },
       { type: 'h3', children: [{ type: 'text', value: 'Blockchain / Protocol Developer' }] },
       { type: 'p', children: [{ type: 'text', value: 'Works on the core infrastructure of Layer 1 or Layer 2 blockchains. This role often requires expertise in languages like Go, Rust, or C++ and a strong background in distributed systems and cryptography.' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Mid-Level: $160,000 - $250,000' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Senior: $250,000 - $400,000+' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Mid-Level: $160,000 - $250,000' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Senior: $250,000 - $400,000+' }] },
         ]
       },
       { type: 'h3', children: [{ type: 'text', value: 'Frontend / dApp Developer' }] },
       { type: 'p', children: [{ type: 'text', value: 'Builds the user interfaces for decentralized applications. Requires strong skills in frameworks like React, as well as experience with libraries like Ethers.js or Web3.js to interact with the blockchain.' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Junior: $80,000 - $120,000' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Mid-Level: $120,000 - $180,000' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Senior: $180,000 - $250,000+' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Junior: $80,000 - $120,000' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Mid-Level: $120,000 - $180,000' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Senior: $180,000 - $250,000+' }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Beyond the Base Salary: The Total Compensation Package' }] },
@@ -327,33 +313,33 @@ const articles: Article[] = [
       { type: 'h2', children: [{ type: 'text', value: 'Step 1: Master the Fundamentals' }] },
       { type: 'p', children: [{ type: 'text', value: "Before you write a single line of code, it's essential to have a solid grasp of the underlying principles of blockchain technology." }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Learn Basic Cryptography: Understand concepts like public/private key cryptography and hash functions." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Understand Blockchain Architecture: Study how blocks are linked, the role of consensus mechanisms (Proof-of-Work vs. Proof-of-Stake), and the concept of a distributed ledger." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Deep Dive into Ethereum: As the largest smart contract platform, Ethereum is the best place to start. Read the Ethereum whitepaper and learn about the Ethereum Virtual Machine (EVM), gas, and transactions." }] },
+          { type: 'li', children: [{ type: 'text', value: "Learn Basic Cryptography: Understand concepts like public/private key cryptography and hash functions." }] },
+          { type: 'li', children: [{ type: 'text', value: "Understand Blockchain Architecture: Study how blocks are linked, the role of consensus mechanisms (Proof-of-Work vs. Proof-of-Stake), and the concept of a distributed ledger." }] },
+          { type: 'li', children: [{ type: 'text', value: "Deep Dive into Ethereum: As the largest smart contract platform, Ethereum is the best place to start. Read the Ethereum whitepaper and learn about the Ethereum Virtual Machine (EVM), gas, and transactions." }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Step 2: Learn Smart Contract Development' }] },
       { type: 'p', children: [{ type: 'text', value: "This is where you'll start coding. Smart contracts are the backbone of most dApps." }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Learn Solidity: This is the most popular language for writing smart contracts on Ethereum and other EVM-compatible chains. Use resources like the official Solidity documentation and CryptoZombies." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Master a Development Environment: Get comfortable with tools like Foundry or Hardhat. These frameworks make it easier to compile, test, and deploy your smart contracts." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Write, Test, and Deploy: Start with simple contracts and gradually move to more complex ones. Writing comprehensive tests is crucial for ensuring your code is secure and functions as expected." }] },
+          { type: 'li', children: [{ type: 'text', value: "Learn Solidity: This is the most popular language for writing smart contracts on Ethereum and other EVM-compatible chains. Use resources like the official Solidity documentation and CryptoZombies." }] },
+          { type: 'li', children: [{ type: 'text', value: "Master a Development Environment: Get comfortable with tools like Foundry or Hardhat. These frameworks make it easier to compile, test, and deploy your smart contracts." }] },
+          { type: 'li', children: [{ type: 'text', value: "Write, Test, and Deploy: Start with simple contracts and gradually move to more complex ones. Writing comprehensive tests is crucial for ensuring your code is secure and functions as expected." }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Step 3: Build Decentralized Applications (dApps)' }] },
       { type: 'p', children: [{ type: 'text', value: "Once you're comfortable with smart contracts, it's time to build the user-facing part of your applications." }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Learn Frontend Development: If you don't already know it, learn a JavaScript framework like React.js. This is the most common choice for dApp frontends." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Integrate with the Blockchain: Learn to use libraries like Ethers.js or Web3.js. These libraries allow your frontend to read data from the blockchain and prompt users to sign transactions with their wallets (e.g., MetaMask)." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Build a Full-Stack dApp: Combine your frontend and smart contract skills to build a complete project. This is the best way to solidify your learning and create a portfolio piece." }] },
+          { type: 'li', children: [{ type: 'text', value: "Learn Frontend Development: If you don't already know it, learn a JavaScript framework like React.js. This is the most common choice for dApp frontends." }] },
+          { type: 'li', children: [{ type: 'text', value: "Integrate with the Blockchain: Learn to use libraries like Ethers.js or Web3.js. These libraries allow your frontend to read data from the blockchain and prompt users to sign transactions with their wallets (e.g., MetaMask)." }] },
+          { type: 'li', children: [{ type: 'text', value: "Build a Full-Stack dApp: Combine your frontend and smart contract skills to build a complete project. This is the best way to solidify your learning and create a portfolio piece." }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Step 4: Advanced Topics and Specialization' }] },
       { type: 'p', children: [{ type: 'text', value: "After you've mastered the basics, you can specialize in a number of advanced areas:" }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Smart Contract Security: Learn about common vulnerabilities (like reentrancy attacks) and how to audit smart contracts for security flaws." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Layer 2 Scaling Solutions: Explore technologies like optimistic rollups and ZK-rollups that are making Ethereum more scalable." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Protocol Development: For those with a strong computer science background, contributing to the core development of a blockchain protocol can be a rewarding path. This often requires learning languages like Rust or Go." }] },
+          { type: 'li', children: [{ type: 'text', value: "Smart Contract Security: Learn about common vulnerabilities (like reentrancy attacks) and how to audit smart contracts for security flaws." }] },
+          { type: 'li', children: [{ type: 'text', value: "Layer 2 Scaling Solutions: Explore technologies like optimistic rollups and ZK-rollups that are making Ethereum more scalable." }] },
+          { type: 'li', children: [{ type: 'text', value: "Protocol Development: For those with a strong computer science background, contributing to the core development of a blockchain protocol can be a rewarding path. This often requires learning languages like Rust or Go." }] },
         ]
       },
     ]
@@ -390,18 +376,18 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "A smart contract auditor meticulously examines smart contract code to identify vulnerabilities, design flaws, and potential attack vectors. They produce detailed reports outlining their findings and provide recommendations for remediation. The goal is to find and fix security holes before they can be exploited by malicious actors. It's a highly analytical role that requires a deep understanding of both software development and security principles." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Essential Skills for Auditors' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Deep Solidity Knowledge: You must have an expert-level understanding of Solidity and the Ethereum Virtual Machine (EVM). This includes knowing the nuances of the language and common pitfalls.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Security Mindset: You need to think like an attacker. Understanding common smart contract vulnerabilities like reentrancy, integer overflows, and access control issues is crucial. The Smart Contract Weakness Classification (SWC) registry is an excellent resource." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Attention to Detail: Auditing requires a painstaking, line-by-line review of code. A single missed detail could have catastrophic consequences." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Strong Communication Skills: You must be able to clearly articulate complex technical issues in written reports and communicate effectively with development teams." }] },
+          { type: 'li', children: [{ type: 'text', value: 'Deep Solidity Knowledge: You must have an expert-level understanding of Solidity and the Ethereum Virtual Machine (EVM). This includes knowing the nuances of the language and common pitfalls.' }] },
+          { type: 'li', children: [{ type: 'text', value: "Security Mindset: You need to think like an attacker. Understanding common smart contract vulnerabilities like reentrancy, integer overflows, and access control issues is crucial. The Smart Contract Weakness Classification (SWC) registry is an excellent resource." }] },
+          { type: 'li', children: [{ type: 'text', value: "Attention to Detail: Auditing requires a painstaking, line-by-line review of code. A single missed detail could have catastrophic consequences." }] },
+          { type: 'li', children: [{ type: 'text', value: "Strong Communication Skills: You must be able to clearly articulate complex technical issues in written reports and communicate effectively with development teams." }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Auditing Tools and Resources' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Static Analysis Tools: Tools like Slither can automatically detect a wide range of common vulnerabilities.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Fuzzing Tools: Fuzzers like Echidna automatically generate random inputs to a contract to find edge cases and unexpected behavior.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Static Analysis Tools: Tools like Slither can automatically detect a wide range of common vulnerabilities.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Fuzzing Tools: Fuzzers like Echidna automatically generate random inputs to a contract to find edge cases and unexpected behavior.' }] },
       ]},
-    ],
+    ]
   },
   {
     slug: 'defi-jobs-guide',
@@ -417,7 +403,7 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: 'DeFi quants are responsible for designing and modeling the economic and financial mechanisms of a protocol. They use mathematical models and data analysis to design things like automated market maker (AMM) curves, optimize liquidity, and manage risk. A strong background in mathematics, statistics, and finance is essential.' }] },
       { type: 'h3', children: [{ type: 'text', value: 'Risk Manager' }] },
       { type: 'p', children: [{ type: 'text', value: "Risk management is critical in DeFi. Risk managers are responsible for identifying, assessing, and mitigating the various risks associated with a protocol, including smart contract risk, market risk, and governance risk. This role requires a blend of technical understanding and financial acumen." }] },
-    ],
+    ]
   },
   {
     slug: 'nft-marketplace-careers',
@@ -428,17 +414,17 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "Non-Fungible Tokens (NFTs) have captured the world's imagination, creating a vibrant new market for digital art, collectibles, and gaming assets. This has led to the rise of NFT marketplaces and platforms, which are now hiring for a wide range of roles. Whether you are a creative, a technologist, or a community builder, there's a place for you in the NFT ecosystem." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Technical Roles' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Smart Contract Developer: These developers write the code for NFT contracts (typically using the ERC-721 or ERC-1155 standards) and the marketplace's logic for bidding, buying, and selling." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Full-Stack Engineer: These engineers build the user interface and backend systems for the NFT marketplace, ensuring a smooth and intuitive user experience." }] },
+          { type: 'li', children: [{ type: 'text', value: "Smart Contract Developer: These developers write the code for NFT contracts (typically using the ERC-721 or ERC-1155 standards) and the marketplace's logic for bidding, buying, and selling." }] },
+          { type: 'li', children: [{ type: 'text', value: "Full-Stack Engineer: These engineers build the user interface and backend systems for the NFT marketplace, ensuring a smooth and intuitive user experience." }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Creative and Curation Roles' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Curation Manager: Many marketplaces have curated sections to highlight high-quality art and artists. Curation managers are responsible for identifying emerging talent and featuring their work." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Artist Relations: These professionals build relationships with artists, help onboard them to the platform, and provide support." }] },
+          { type: 'li', children: [{ type: 'text', value: "Curation Manager: Many marketplaces have curated sections to highlight high-quality art and artists. Curation managers are responsible for identifying emerging talent and featuring their work." }] },
+          { type: 'li', children: [{ type: 'text', value: "Artist Relations: These professionals build relationships with artists, help onboard them to the platform, and provide support." }] },
         ]
       },
-    ],
+    ]
   },
   {
     slug: 'web3-community-manager-jobs',
@@ -449,13 +435,13 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "In the world of Web3, community isn't just a marketing buzzword—it's the core of the project. A strong, engaged community can make or break a dApp, protocol, or DAO. This makes the role of a community manager one of the most important and in-demand jobs in the crypto space. This guide will walk you through what it takes to succeed as a Web3 community manager." }] },
       { type: 'h2', children: [{ type: 'text', value: 'The Responsibilities of a Web3 Community Manager' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Foster Engagement: Your primary goal is to create a vibrant and welcoming environment on platforms like Discord and Telegram. This includes starting conversations, answering questions, and making users feel valued." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Act as the Voice of the Community: You are the bridge between the users and the core team. You need to gather feedback, identify issues, and advocate for the community's needs." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Host Events: This can include AMAs (Ask Me Anything) with the team, community calls, online gaming sessions, or educational workshops." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Manage Moderation: Ensure that the community remains a safe and productive space by enforcing rules and managing a team of moderators." }] },
+          { type: 'li', children: [{ type: 'text', value: "Foster Engagement: Your primary goal is to create a vibrant and welcoming environment on platforms like Discord and Telegram. This includes starting conversations, answering questions, and making users feel valued." }] },
+          { type: 'li', children: [{ type: 'text', value: "Act as the Voice of the Community: You are the bridge between the users and the core team. You need to gather feedback, identify issues, and advocate for the community's needs." }] },
+          { type: 'li', children: [{ type: 'text', value: "Host Events: This can include AMAs (Ask Me Anything) with the team, community calls, online gaming sessions, or educational workshops." }] },
+          { type: 'li', children: [{ type: 'text', value: "Manage Moderation: Ensure that the community remains a safe and productive space by enforcing rules and managing a team of moderators." }] },
         ]
       },
-    ],
+    ]
   },
   {
     slug: 'technical-writing-for-web3',
@@ -468,12 +454,12 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "Good documentation is essential for adoption. Developers need clear, accurate, and comprehensive guides to build on a new protocol. Users need simple explanations of how a dApp works. Investors need well-written whitepapers to understand a project's vision. In short, technical writers are crucial for the growth and success of the entire ecosystem." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Types of Web3 Technical Writing' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Developer Documentation: Creating API docs, tutorials, and guides for developers.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Blog Posts and Articles: Explaining technical concepts, project updates, or industry trends to a broader audience.' }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: 'Whitepapers: Writing detailed, in-depth documents that outline the architecture, vision, and tokenomics of a new project.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Developer Documentation: Creating API docs, tutorials, and guides for developers.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Blog Posts and Articles: Explaining technical concepts, project updates, or industry trends to a broader audience.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Whitepapers: Writing detailed, in-depth documents that outline the architecture, vision, and tokenomics of a new project.' }] },
         ]
       },
-    ],
+    ]
   },
   {
     slug: 'web3-marketing-guide',
@@ -484,12 +470,12 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "Marketing in the Web3 space is unlike any other industry. The audience is skeptical of traditional advertising, values authenticity, and is deeply community-oriented. To succeed, Web3 marketers need to throw out the old playbook and embrace new strategies that are native to the crypto culture. This guide explores the key principles of effective Web3 marketing." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Key Principles of Web3 Marketing' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Community-First: Your community is your most powerful marketing channel. Focus on building a strong, engaged community, and they will become your biggest advocates." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Education over Hype: The most successful projects focus on educating their audience about their technology and vision. Avoid empty hype and provide real value through content." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Transparency and Authenticity: Be open and honest with your community. In a space built on transparency, trust is your most valuable asset." }] },
+          { type: 'li', children: [{ type: 'text', value: "Community-First: Your community is your most powerful marketing channel. Focus on building a strong, engaged community, and they will become your biggest advocates." }] },
+          { type: 'li', children: [{ type: 'text', value: "Education over Hype: The most successful projects focus on educating their audience about their technology and vision. Avoid empty hype and provide real value through content." }] },
+          { type: 'li', children: [{ type: 'text', value: "Transparency and Authenticity: Be open and honest with your community. In a space built on transparency, trust is your most valuable asset." }] },
         ]
       },
-    ],
+    ]
   },
   {
     slug: 'remote-web3-jobs',
@@ -502,12 +488,12 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "The decentralized nature of blockchain technology fosters a culture of remote work. With teams and communities spread across the globe, a remote-first approach is a natural fit. This allows companies to tap into a global talent pool and gives employees the flexibility to work from anywhere." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Where to Find Remote Web3 Jobs' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Specialized Job Boards: This very website is a great place to start! Many job boards allow you to filter for remote positions." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Company Career Pages: If you have a dream project you want to work for, check their career page directly. Many list remote openings." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Twitter and Discord: Networking is key. Follow projects and people you admire, and you'll often see job postings that aren't listed anywhere else." }] },
+          { type: 'li', children: [{ type: 'text', value: "Specialized Job Boards: This very website is a great place to start! Many job boards allow you to filter for remote positions." }] },
+          { type: 'li', children: [{ type: 'text', value: "Company Career Pages: If you have a dream project you want to work for, check their career page directly. Many list remote openings." }] },
+          { type: 'li', children: [{ type: 'text', value: "Twitter and Discord: Networking is key. Follow projects and people you admire, and you'll often see job postings that aren't listed anywhere else." }] },
         ]
       },
-    ],
+    ]
   },
   {
     slug: 'web3-internships-for-students',
@@ -518,20 +504,20 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "For students looking to break into the Web3 industry, an internship can be an invaluable experience. It's a chance to apply your skills to real-world projects, learn from experienced professionals, and build a network in this fast-growing space. This guide will walk you through how to find and secure a Web3 internship." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Why Pursue a Web3 Internship?' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Gain Hands-On Experience: There's no better way to learn than by doing. An internship allows you to work on real products and protocols." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Build Your Portfolio: The projects you work on during your internship will become valuable additions to your portfolio." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Network with Professionals: You'll have the opportunity to connect with people who can become mentors and future colleagues." }] },
+          { type: 'li', children: [{ type: 'text', value: "Gain Hands-On Experience: There's no better way to learn than by doing. An internship allows you to work on real products and protocols." }] },
+          { type: 'li', children: [{ type: 'text', value: "Build Your Portfolio: The projects you work on during your internship will become valuable additions to your portfolio." }] },
+          { type: 'li', children: [{ type: 'text', value: "Network with Professionals: You'll have the opportunity to connect with people who can become mentors and future colleagues." }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'How to Prepare for a Web3 Internship' }] },
       { type: 'p', children: [{ type: 'text', value: "Even without professional experience, you can build a strong profile." }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Learn the Basics: Take online courses to learn about blockchain, Ethereum, and Solidity." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Build Small Projects: Create a simple dApp or contribute to an open-source project to demonstrate your skills." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Get Involved in the Community: Join a DAO or participate in a hackathon. This shows your passion and initiative." }] },
+          { type: 'li', children: [{ type: 'text', value: "Learn the Basics: Take online courses to learn about blockchain, Ethereum, and Solidity." }] },
+          { type: 'li', children: [{ type: 'text', value: "Build Small Projects: Create a simple dApp or contribute to an open-source project to demonstrate your skills." }] },
+          { type: 'li', children: [{ type: 'text', value: "Get Involved in the Community: Join a DAO or participate in a hackathon. This shows your passion and initiative." }] },
         ]
       },
-    ],
+    ]
   },
   {
     slug: 'web3-gaming-jobs',
@@ -542,12 +528,12 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "Blockchain technology is revolutionizing the gaming industry. By enabling true ownership of in-game assets (as NFTs) and creating player-driven economies, Web3 is paving the way for a new generation of games. This has created a surge in demand for talent in the Web3 gaming space. This guide explores the various career paths available in this exciting field." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Key Roles in Web3 Gaming' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Game Developer: These developers use game engines like Unity or Unreal Engine and integrate them with blockchain technology. They need skills in both traditional game development and smart contracts." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Game Designer: Web3 game designers are responsible for the core gameplay mechanics, but they also need to think about how to integrate NFTs and tokenomics in a way that enhances the player experience." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Token Economy Designer: This is a new and critical role in Web3 gaming. These professionals design the in-game economy, including the supply, distribution, and utility of the game's tokens and NFTs. A background in economics or game theory is highly valuable." }] },
+          { type: 'li', children: [{ type: 'text', value: "Game Developer: These developers use game engines like Unity or Unreal Engine and integrate them with blockchain technology. They need skills in both traditional game development and smart contracts." }] },
+          { type: 'li', children: [{ type: 'text', value: "Game Designer: Web3 game designers are responsible for the core gameplay mechanics, but they also need to think about how to integrate NFTs and tokenomics in a way that enhances the player experience." }] },
+          { type: 'li', children: [{ type: 'text', value: "Token Economy Designer: This is a new and critical role in Web3 gaming. These professionals design the in-game economy, including the supply, distribution, and utility of the game's tokens and NFTs. A background in economics or game theory is highly valuable." }] },
         ]
       },
-    ],
+    ]
   },
   {
     slug: 'dao-governance-careers',
@@ -560,12 +546,12 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "DAO governance is the process by which a DAO makes decisions. This includes everything from managing the treasury to approving new features for a protocol. It's a complex process that requires careful coordination, communication, and a deep understanding of the DAO's mission." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Key Roles in DAO Governance' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Governance Facilitator: These individuals help to streamline the governance process. They might be responsible for organizing community calls, summarizing proposals, or ensuring that the voting process runs smoothly." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "DAO Delegate: Many DAOs have a delegation system, where token holders can delegate their voting power to a trusted community member. Delegates are responsible for staying informed about proposals and voting on behalf of their constituents." }] },
-          { type: 'li', children: [{ type: 'icon', component: CheckCircle2 }, { type: 'text', value: "Treasury Manager: DAOs often have large treasuries that need to be managed effectively. Treasury managers are responsible for proposing and executing strategies for diversification, investment, and funding for the DAO's operations." }] },
+          { type: 'li', children: [{ type: 'text', value: "Governance Facilitator: These individuals help to streamline the governance process. They might be responsible for organizing community calls, summarizing proposals, or ensuring that the voting process runs smoothly." }] },
+          { type: 'li', children: [{ type: 'text', value: "DAO Delegate: Many DAOs have a delegation system, where token holders can delegate their voting power to a trusted community member. Delegates are responsible for staying informed about proposals and voting on behalf of their constituents." }] },
+          { type: 'li', children: [{ type: 'text', value: "Treasury Manager: DAOs often have large treasuries that need to be managed effectively. Treasury managers are responsible for proposing and executing strategies for diversification, investment, and funding for the DAO's operations." }] },
         ]
       },
-    ],
+    ]
   },
 ];
 
