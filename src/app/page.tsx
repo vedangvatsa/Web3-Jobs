@@ -1,10 +1,12 @@
 
 import { JobBoard } from '@/components/job-board';
-import { Button } from '@/components/ui/button';
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
+import { getJobs } from '@/lib/jobs';
 
-export default function Home() {
+export default async function Home() {
+  const initialJobs = await getJobs();
+
   return (
     <div className="flex flex-col min-h-screen bg-background">
       <Header />
@@ -19,7 +21,7 @@ export default function Home() {
             </p>
           </section>
 
-          <JobBoard />
+          <JobBoard initialJobs={initialJobs} />
         </div>
       </main>
       <Footer />

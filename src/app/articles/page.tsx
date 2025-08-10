@@ -30,7 +30,7 @@ export default function ArticlesPage() {
           </section>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {articles.map((article) => (
+            {articles.map((article, index) => (
               <Link key={article.slug} href={`/articles/${article.slug}`} className="block group">
                 <Card className="flex flex-col h-full rounded-xl shadow-sm transition-all duration-300 group-hover:shadow-lg border overflow-hidden">
                   <CardHeader className="p-0">
@@ -40,6 +40,7 @@ export default function ArticlesPage() {
                       width={600}
                       height={400}
                       className="w-full h-48 object-cover transition-transform duration-300 group-hover:scale-105"
+                      priority={index < 3} // Prioritize loading for the first 3 images
                       data-ai-hint={article.slug.replace(/-/g, ' ')}
                     />
                   </CardHeader>

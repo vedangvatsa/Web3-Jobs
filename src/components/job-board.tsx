@@ -1,7 +1,7 @@
 'use client';
 
 import type { Job } from '@/types';
-import { useState, useMemo, useEffect, useTransition } from 'react';
+import { useState, useMemo, useTransition } from 'react';
 import { Input } from '@/components/ui/input';
 import { JobCard } from './job-card';
 import { Loader2, Search } from 'lucide-react';
@@ -20,26 +20,9 @@ function JobBoardSkeleton() {
     );
 }
 
-export function JobBoard() {
-  const [jobs, setJobs] = useState<Job[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
+export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [isPending, startTransition] = useTransition();
-
-  useEffect(() => {
-    async function fetchJobs() {
-      try {
-        const response = await fetch('/api/jobs');
-        const data = await response.json();
-        setJobs(data);
-      } catch (error) {
-        console.error("Failed to fetch jobs:", error);
-      } finally {
-        setIsLoading(false);
-      }
-    }
-    fetchJobs();
-  }, []);
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     startTransition(() => {
@@ -49,19 +32,16 @@ export function JobBoard() {
 
   const filteredJobs = useMemo(() => {
     if (!searchQuery) {
-      return jobs;
+      return initialJobs;
     }
     const lowercasedQuery = searchQuery.toLowerCase();
-    return jobs.filter(
+    return initialJobs.filter(
       (job) =>
         job.title.toLowerCase().includes(lowercasedQuery) ||
         job.company.toLowerCase().includes(lowercasedQuery)
     );
-  }, [jobs, searchQuery]);
+  }, [initialJobs, searchQuery]);
 
-  if (isLoading) {
-    return <JobBoardSkeleton />;
-  }
 
   return (
     <div>

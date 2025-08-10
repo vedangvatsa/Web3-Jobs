@@ -9,6 +9,7 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import { JsonLd } from 'react-schemaorg';
 import { Article as ArticleSchema } from 'schema-dts';
+import Image from 'next/image';
 
 interface ArticlePageProps {
   params: {
@@ -112,6 +113,15 @@ export default function ArticlePage({ params }: ArticlePageProps) {
 
                     <article>
                         <header className="mb-12">
+                             <Image
+                                src={article.image}
+                                alt={article.title}
+                                width={800}
+                                height={450}
+                                className="w-full h-auto rounded-lg shadow-md mb-8"
+                                priority
+                                data-ai-hint={article.slug.replace(/-/g, ' ')}
+                            />
                             <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl text-primary mb-4 leading-tight">
                                 {article.title}
                             </h1>
