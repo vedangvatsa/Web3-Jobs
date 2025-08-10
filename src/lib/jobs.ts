@@ -40,7 +40,7 @@ export async function getJobs(): Promise<Job[]> {
         });
       }
     } catch (error) {
-      console.error(`Failed to fetch or parse feed: ${feedUrl}`, error);
+      console.warn(`Could not fetch or parse feed: ${feedUrl}`, error);
       // Continue to next feed if one fails
     }
   });

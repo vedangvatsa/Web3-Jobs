@@ -1,6 +1,6 @@
 import { getJobs } from '@/lib/jobs';
 import { JobBoard } from '@/components/job-board';
-import { Search, Briefcase, RefreshCw } from 'lucide-react';
+import { Button } from '@/components/ui/button';
 
 export const revalidate = 21600; // Revalidate every 6 hours
 
@@ -9,36 +9,37 @@ export default async function Home() {
 
   return (
     <div className="flex flex-col min-h-screen bg-background">
-      <header className="sticky top-0 z-30 w-full border-b bg-background/95 backdrop-blur-sm">
-        <div className="container mx-auto flex h-16 items-center space-x-4 px-4 sm:justify-between sm:space-x-0">
-          <div className="flex gap-3 items-center">
-            <div className="flex items-center justify-center w-8 h-8 rounded-lg bg-primary text-primary-foreground">
-                <Briefcase className="w-5 h-5" />
-            </div>
-            <h1 className="text-xl font-bold tracking-tight text-foreground">
-              Web3 Jobs
-            </h1>
-          </div>
+      <header className="sticky top-0 z-30 w-full bg-background/80 backdrop-blur-sm">
+        <div className="container mx-auto flex h-20 items-center justify-between px-4">
+          <h1 className="text-xl font-bold tracking-tight text-foreground">
+            Hashtag Web3
+          </h1>
+          <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
+            <a href="#" className="text-muted-foreground transition-colors hover:text-foreground">Feed</a>
+            <a href="#" className="text-muted-foreground transition-colors hover:text-foreground">Discuss</a>
+            <a href="#" className="text-muted-foreground transition-colors hover:text-foreground">Academy</a>
+            <Button>Post a Job</Button>
+          </nav>
         </div>
       </header>
       <main className="flex-1">
-        <div className="container mx-auto px-4 py-8 md:py-12">
+        <div className="container mx-auto px-4 py-8 md:py-16">
           <section className="text-center mb-12">
-            <h2 className="font-headline text-4xl font-extrabold tracking-tight lg:text-5xl">
-              Find Your Next Web3 Opportunity
+            <h2 className="text-4xl font-extrabold tracking-tight lg:text-5xl text-primary">
+              Find your next Web3 Job
             </h2>
-            <p className="mt-4 text-xl text-muted-foreground max-w-3xl mx-auto">
-              The latest jobs in blockchain, crypto, and Web3, aggregated from top sources so you don't have to.
+            <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
+              The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
             </p>
           </section>
 
           <JobBoard jobs={jobs} />
         </div>
       </main>
-      <footer className="py-6 md:px-8 md:py-0 border-t">
+      <footer className="py-6 md:px-8 md:py-0 mt-12">
         <div className="container flex flex-col items-center justify-center gap-4 md:h-24 md:flex-row">
-          <p className="text-sm text-center text-muted-foreground md:text-left">
-            Built for the decentralized future.
+          <p className="text-xs text-center text-muted-foreground md:text-left">
+            &copy; {new Date().getFullYear()} Hashtag Web3. All Rights Reserved.
           </p>
         </div>
       </footer>
