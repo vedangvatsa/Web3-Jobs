@@ -150,9 +150,9 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Location: While Web3 is remote-first, salaries can still be affected by location, especially for companies that have physical offices. But the trend is toward location-agnostic pay, with companies paying competitive rates to get the best talent from anywhere.' }]},
         ]
       },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&h=450&auto=format&fit=crop', alt: 'A chart showing upward salary trends', 'data-ai-hint': 'salary chart', caption: 'Web3 developer salaries often outpace their Web2 counterparts.' },
       { type: 'h2', children: [{ type: 'text', value: 'Salary Ranges by Role (Annual Base Salary Estimates)' }] },
       { type: 'p', children: [{ type: 'text', value: 'These are typical base salary estimates for the US market, which is often a benchmark. Keep in mind that the real game-changer and wealth-builder often comes from the equity and token parts of the compensation package. These numbers can vary a lot based on the factors mentioned above.' }] },
-      { type: 'image', src: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=800&h=450&auto=format&fit=crop', alt: 'A chart showing upward salary trends', 'data-ai-hint': 'salary chart', caption: 'Web3 developer salaries often outpace their Web2 counterparts.' },
       { type: 'h3', children: [{ type: 'text', value: 'Smart Contract Developer (Solidity)' }] },
       { type: 'p', children: [{ type: 'text', value: 'This is the most common Web3 developer role, focused on building application logic on EVM-compatible chains.' }]},
       { type: 'ul', children: [
@@ -221,6 +221,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'The Ethereum Virtual Machine (EVM): This is the core of Ethereum. Understand its architecture, how it works, the idea of gas and opcodes, and how it runs smart contract code.' }] },
         ]
       },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1639322537228-f72ae2c32ed7?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'ethereum crypto', alt: 'Ethereum logo glowing', caption: 'Ethereum is the best place to start your Web3 development journey.'},
       { type: 'h2', children: [{ type: 'text', value: 'Step 3: Learn Smart Contract Development' }] },
       { type: 'p', children: [{ type: 'text', value: 'This is where you\'ll start coding on the blockchain. Smart contracts are the backend logic of any dApp. The learning curve here is steep because it demands a security-first mindset.' }] },
       { type: 'ul', children: [
@@ -333,6 +334,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Skepticism and Curiosity: A great auditor is naturally skeptical. They don\'t trust comments or assumptions; they verify everything. They are endlessly curious about how systems can fail.' }]},
         ]
       },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1518481850456-e8f01119b796?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'hacker code', alt: 'A hacker looking at code', caption: 'Auditors must think like attackers to find vulnerabilities.'},
       { type: 'h2', children: [{ type: 'text', value: 'How to Become a Smart Contract Auditor: The Path' }] },
       { type: 'p', children: [{ type: 'text', value: 'The path to becoming an auditor is tough and requires a lot of dedication. You can\'t just take a course and become an auditor; you have to prove your skills through demonstrated ability in public.' }] },
       { type: 'ul', children: [
@@ -373,6 +375,7 @@ const articles: Article[] = [
       ]},
       { type: 'h2', children: [{ type: 'text', value: '2. Quantitative Analyst ("Quant"): The Economist' }] },
       { type: 'p', children: [{ type: 'text', value: 'DeFi protocols are complex economic systems. Quants are responsible for designing, modeling, and validating the economic and financial mechanisms that make these protocols work. This role sits at the intersection of finance, data science, and game theory, and is essential for ensuring the protocol is both profitable and sustainable. They are the economic theorists of the new financial world.' }] },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1665686306574-1ace09918530?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'data science', alt: 'A person analyzing complex data charts', caption: 'Quants model the complex economic systems that underpin DeFi.'},
       { type: 'h3', children: [{ type: 'text', value: 'Core Responsibilities:' }] },
       { type: 'ul', children: [
         {type: 'li', children: [{type: 'text', value: 'Mechanism Design: Designing the mathematical curve for an Automated Market Maker (AMM), creating a new model for calculating interest rates in a lending protocol, or structuring a novel derivative product.'}]},
@@ -411,6 +414,7 @@ const articles: Article[] = [
       { type: 'p', children: [{type: 'text', value: 'NFT marketplaces produce a massive amount of on-chain and off-chain data. Data engineers build pipelines to ingest and analyze this data to understand market trends, user behavior, and to power features like personalized recommendations and fraud detection.' }]},
       { type: 'h2', children: [{ type: 'text', value: '2. Creative and Curation Roles: The Tastemakers' }] },
       { type: 'p', children: [{ type: 'text', value: 'An NFT platform\'s success is deeply connected to its cultural relevance and the quality of the work it features. In a sea of millions of NFTs, discovery is a huge challenge. This has created a new class of jobs for those with a strong creative eye and a deep understanding of art and culture.' }] },
+       { type: 'image', src: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'art gallery', alt: 'An art gallery with people looking at paintings.', caption: 'Curators in the NFT space are the new digital tastemakers.'},
        { type: 'h3', children: [{ type: 'text', value: 'Curation Manager:' }] },
       { type: 'p', children: [{type: 'text', value: 'Curation managers are the tastemakers responsible for highlighting high-quality art and emerging artists on the platform\'s front page or in featured collections. They often have a background in traditional art curation, and they bring that expertise to the digital world. Their job is to tell stories and create context around the art.'}]},
        { type: 'h3', children: [{ type: 'text', value: 'Artist Relations / Partnerships:' }] },
@@ -452,6 +456,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Strategic Thinking: A great community manager doesn\'t just react; they\'re proactive. They think about how to align community initiatives with broader project goals, such as user growth, retention, and governance participation.' }] },
         ]
       },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'people talking', alt: 'A group of people talking and collaborating.', caption: 'Great community managers are expert communicators and empathetic listeners.'},
       { type: 'h2', children: [{ type: 'text', value: 'Career Path and Advancement' }] },
       { type: 'p', children: [{ type: 'text', value: 'A community manager role is an excellent entry point into Web3, but it\'s also a career path with significant growth potential. The skills you learn are highly transferable.' }] },
        { type: 'ul', children: [
@@ -488,6 +493,7 @@ const articles: Article[] = [
       { type: 'p', children: [{type: 'text', value: 'This content is aimed at a broader, semi-technical audience. The goal is to explain project updates, new features, or industry trends in a way that is accessible but still technically accurate. This is crucial for marketing and community building.'}]},
        { type: 'h3', children: [{ type: 'text', value: '3. Whitepapers:' }] },
       { type: 'p', children: [{type: 'text', value: 'This is the foundational document for a new project. It\'s a highly detailed, in-depth paper that outlines the project\'s vision, architecture, and tokenomics. Writing a whitepaper requires a very deep understanding of the subject matter and is often a collaborative effort between founders and technical writers.'}]},
+      { type: 'image', src: 'https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'code documentation', alt: 'A code editor showing documentation.', caption: 'Technical writing in Web3 spans everything from API docs to long-form blog posts.'},
       { type: 'h3', children: [{ type: 'text', value: '4. Governance Proposals:'}]},
       { type: 'p', children: [{type: 'text', value: 'In DAOs, all changes are made through public proposals. A well-written proposal clearly outlines the problem, the proposed solution, and the rationale behind it. The ability to write persuasive, data-driven proposals is a highly valued skill.' }]},
       { type: 'h2', children: [{ type: 'text', value: 'How to Build Your Portfolio and Get Hired' }] },
@@ -524,6 +530,7 @@ const articles: Article[] = [
       { type: 'p', children: [{type: 'text', value: 'Content is the foundation of Web3 marketing. It\'s how you educate your audience, build trust, and establish thought leadership. The goal is to create content that is so valuable that people actively seek it out and share it. This includes long-form blog posts explaining your technology, Twitter threads that break down complex concepts, and video tutorials that show users how to use your product.'}]},
       { type: 'h3', children: [{ type: 'text', value: '2. Community Building (The Engine):' }] },
       { type: 'p', children: [{type: 'text', value: 'This is the core of the whole operation. It\'s where your most passionate users gather. The goal is to create a vibrant, positive-sum environment. This means having a well-organized Discord, hosting regular community calls and events, and empowering your most passionate members through ambassador programs. Your community members can become your most effective marketers.'}]},
+       { type: 'image', src: 'https://images.unsplash.com/photo-1664575196079-8ac971f49356?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'social media', alt: 'A person on a phone using social media', caption: 'Community building on platforms like Discord and Twitter is central to Web3 marketing.'},
       { type: 'h3', children: [{ type: 'text', value: '3. Crypto-Native Growth Hacking:' }] },
       { type: 'p', children: [{type: 'text', value: 'These are techniques unique to the Web3 space that can drive explosive growth when used correctly. They\'re powerful because they align the incentives of the project with the incentives of the user.'}]},
       { type: 'ul', children: [
@@ -570,6 +577,7 @@ const articles: Article[] = [
       { type: 'p', children: [{type: 'text', value: 'Twitter is the public square of the Web3 world. It\'s the single most important platform for networking and finding opportunities. Many of the best job opportunities are posted here first. Follow founders, developers, and key team members of projects you admire. Engage genuinely in conversations to build your reputation and visibility. A well-curated Twitter profile can be a powerful career tool.'}]},
        { type: 'h3', children: [{ type: 'text', value: '3. Discord & DAOs:' }] },
       { type: 'p', children: [{type: 'text', value: 'Joining the community Discord servers of projects and DAOs is a powerful, insider strategy. Most have dedicated #hiring or #jobs channels. More importantly, becoming a valuable community member is often a more effective strategy than a cold application. Helping others, participating in governance, and contributing in small ways is how you get noticed by the core team. This is the essence of \'proof of work\'.'}]},
+       { type: 'image', src: 'https://images.unsplash.com/photo-1616469829933-22837402c317?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'social media community', alt: 'A phone showing a social media feed.', caption: 'Platforms like Twitter and Discord are key for finding remote Web3 jobs.'},
        { type: 'h3', children: [{ type: 'text', value: '4. Hackathons:' }]},
        { type: 'p', children: [{type: 'text', value: 'Online hackathons, such as those run by ETHGlobal, are a fantastic way to meet people, learn new skills, build a project for your portfolio, and get on the radar of sponsoring companies. Many developers have been hired directly out of hackathons.' }]},
       { type: 'h2', children: [{ type: 'text', value: 'How to Position Yourself for a Remote Role' }] },
@@ -655,6 +663,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Balancing: You must balance the game to be fair and fun, avoiding a \'pay-to-win\' dynamic that can alienate players. This is a particularly difficult challenge when assets can be freely traded.' }] },
         ]
       },
+       { type: 'image', src: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'esports gaming', alt: 'People playing in a gaming competition.', caption: 'Game designers must balance fun with complex in-game economies.'},
        { type: 'h3', children: [{ type: 'text', value: '3. Token Economy Designer (Tokenomist):' }] },
        { type: 'p', children: [{type: 'text', value: 'This is a new and critical role unique to Web3 gaming. These professionals are the \'central bankers\' or \'federal reserve\' of the in-game economy. A background in economics, finance, or game theory is highly valuable for this role.'}]},
       { type: 'ul', children: [
@@ -697,6 +706,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Platform Building: Top delegates often build their own \'platforms\', outlining their philosophies on key issues like treasury management and risk, so token holders can choose a delegate that aligns with their views.' }]},
         ]
       },
+       { type: 'image', src: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'strategy meeting', alt: 'A group of people in a strategy meeting.', caption: 'DAO delegates and facilitators are key to effective decentralized decision-making.'},
        { type: 'h3', children: [{ type: 'text', value: '3. Treasury Manager:' }] },
       { type: 'p', children: [{type: 'text', value: 'DAOs often have enormous treasuries, sometimes worth billions of dollars. Managing this treasury effectively is critical for the long-term sustainability of the organization. Treasury managers are responsible for the financial strategy of the DAO.'}]},
        { type: 'ul', children: [
@@ -737,6 +747,7 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: 'Why they ask it: They want to see if you\'re a realist, not just a blind optimist. It shows you can think critically about the industry\'s weaknesses.' }] },
       { type: 'p', children: [{ type: 'text', value: 'How to answer it: Pick a real problem. Good examples include user experience (UX) hurdles like seed phrases and gas fees, the scalability problem, regulatory uncertainty, or the prevalence of scams. Explain why it\'s a problem and, ideally, offer some thoughts on potential solutions. This shows you\'re a problem-solver.' }] },
       { type: 'h2', children: [{ type: 'text', value: 'Technical Questions (For Developers & Engineers)' }] },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'code editor', alt: 'A code editor showing complex code.', caption: 'Technical interviews will test your deep knowledge of the underlying technology.'},
       { type: 'h3', children: [{ type: 'text', value: '1. Explain the difference between `call`, `delegatecall`, and `staticcall`.' }] },
       { type: 'p', children: [{ type: 'text', value: 'Why they ask it: This is a fundamental Solidity question that tests your understanding of how smart contracts interact. It\'s especially important for security.' }] },
       { type: 'p', children: [{ type: 'text', value: 'How to answer it: Explain that `call` executes code of another contract in that contract\'s context. `delegatecall` executes code of another contract, but in the *calling* contract\'s context (meaning `msg.sender` and storage are from the caller). This is powerful for upgradeable contracts but dangerous if not understood. `staticcall` is like `call`, but it\'s read-only and will revert if any state change is attempted. Mentioning the security risks of `delegatecall` (e.g., storage collisions) will get you bonus points.' }] },
@@ -780,6 +791,7 @@ const articles: Article[] = [
         { type: 'li', children: [{ type: 'text', value: 'Technologies: Ethereum, Solana, EVM, Foundry, Hardhat, The Graph, IPFS' }] },
         { type: 'li', children: [{ type: 'text', value: 'Libraries: Ethers.js, Viem, Wagmi, RainbowKit, OpenZeppelin Contracts' }] },
       ]},
+      { type: 'image', src: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'code portfolio', alt: 'A laptop showing a code portfolio on GitHub.', caption: 'Pin your best projects to the top of your GitHub profile.'},
       { type: 'h3', children: [{ type: 'text', value: '3. Projects Section: Show, Don\'t Tell' }] },
       { type: 'p', children: [{ type: 'text', value: 'This is the most important section of your resume. It\'s far more important than your work experience, especially if you\'re new to the space. For each project, you should have:' }] },
       { type: 'ul', children: [
@@ -828,6 +840,7 @@ const articles: Article[] = [
         { type: 'li', children: [{ type: 'text', value: 'Solana CLI and JSON RPC API: You need to be comfortable interacting with the Solana network from the command line and understand how to use its RPC API to get data and send transactions from a client application.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Frontend Integration: Just like in the EVM world, you\'ll need to know how to connect a frontend (usually React/TypeScript) to your on-chain programs. The `@solana/web3.js` library is the key tool here.' }] },
       ]},
+      { type: 'image', src: 'https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'rust code', alt: 'A code editor showing Rust code.', caption: 'Proficiency in Rust and the Anchor framework are essential for Solana development.'},
       { type: 'h2', children: [{ type: 'text', value: 'Types of Jobs and Key Companies' }] },
       { type: 'p', children: [{ type: 'text', value: 'The Solana job market is booming, with roles available across DeFi, NFTs, infrastructure, and more.' }] },
       { type: 'h3', children: [{ type: 'text', value: 'DeFi:' }] },
@@ -878,6 +891,7 @@ const articles: Article[] = [
         { type: 'li', children: [{ type: 'text', value: 'Censorship-Resistant Models: Storing AI models on decentralized file storage systems like IPFS and registering them on a blockchain can make them resistant to censorship or removal by any single entity.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Tokenized AI Models: An AI model could be represented as an NFT or a set of fungible tokens, allowing for collective ownership and governance over the model itself. The community could vote on how the model is used or upgraded.' }] },
       ]},
+      { type: 'image', src: 'https://images.unsplash.com/photo-1677756119517-756a188d2d94?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'decentralized AI', alt: 'A network of interconnected AI nodes.', caption: 'Web3 can help decentralize the development and ownership of AI models.'},
       { type: 'h2', children: [{ type: 'text', value: 'Emerging Job Opportunities and Skills' }] },
       { type: 'p', children: [{ type: 'text', value: 'This new field requires a rare combination of skills. Professionals who can bridge the gap between these two complex domains will be in extremely high demand.' }] },
       { type: 'ul', children: [
@@ -913,6 +927,7 @@ const articles: Article[] = [
         { type: 'li', children: [{ type: 'text', value: 'RainbowKit / ConnectKit: These are UI component libraries built on top of Wagmi that provide a beautiful, pre-built \'Connect Wallet\' modal. They handle all the different wallet types and connection flows, saving you a huge amount of development time.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Next.js: The dominant framework for building modern, performant React frontends. Its features like server-side rendering and static site generation are perfect for building fast dApps.' }] },
       ]},
+      { type: 'image', src: 'https://images.unsplash.com/photo-1618422168196-7d3a4a42c164?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'react code', alt: 'A code editor showing React code.', caption: 'Libraries like Viem and Wagmi are essential for modern frontend dApp development.'},
       { type: 'h2', children: [{ type: 'text', value: 'Infrastructure & Node Providers' }] },
       { type: 'p', children: [{ type: 'text', value: 'You need a way to read data from and write data to the blockchain. Unless you\'re running your own node (which is complex), you\'ll use a node provider.' }] },
       { type: 'ul', children: [
@@ -953,6 +968,7 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: 'You need to be able to see your product not as a set of features, but as a complex, interconnected system. You must be able to reason about feedback loops, incentives, and unintended consequences.' }] },
       { type: 'h3', children: [{ type: 'text', value: '3. Data-Driven Decision Making (with On-Chain Data)' }] },
       { type: 'p', children: [{ type: 'text', value: 'Great PMs are data-driven. In Web3, this means being proficient with on-chain analytics tools. You need to be able to write basic SQL queries on a platform like Dune Analytics to understand user behavior, track key metrics, and make informed decisions.' }] },
+      { type: 'image', src: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'data analytics', alt: 'A dashboard showing data analytics.', caption: 'Web3 PMs must be adept at using on-chain data to make decisions.'},
       { type: 'h3', children: [{ type: 'text', value: '4. Exceptional Communication (Especially Written)' }] },
       { type: 'p', children: [{ type: 'text', value: 'In a remote-first, asynchronous world, clear written communication is a superpower. You need to be able to write detailed product specifications, persuasive governance proposals, and clear blog posts that explain complex topics to a wide audience.' }] },
       { type: 'h3', children: [{ type: 'text', value: '5. Community and Empathy' }] },
@@ -994,6 +1010,7 @@ const articles: Article[] = [
         { type: 'li', children: [{ type: 'text', value: 'Flipside Crypto: Another popular platform that allows you to query data from multiple blockchains using SQL.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Nansen: A more advanced, paid platform that provides labeled wallets and sophisticated analytics, often used by professional traders and funds.' }] },
       ]},
+      { type: 'image', src: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'sql code', alt: 'A code editor showing SQL queries.', caption: 'Mastering SQL on platforms like Dune Analytics is the most critical skill for a Web3 data analyst.'},
       { type: 'h3', children: [{ type: 'text', value: '3. Data Visualization' }] },
       { type: 'p', children: [{ type: 'text', value: 'The ability to turn your data into a clear and compelling visualization is critical. Platforms like Dune have built-in charting capabilities, but you should also be comfortable with tools like Tableau, Power BI, or Python libraries like Matplotlib and Seaborn for more advanced visualizations.' }] },
       { type: 'h3', children: [{ type: 'text', value: '4. Blockchain Knowledge' }] },
@@ -1032,6 +1049,7 @@ const articles: Article[] = [
         { type: 'li', children: [{ type: 'text', value: 'Empathy: You must have a genuine desire to help other developers. You need to be able to understand their problems, feel their frustrations, and be patient and supportive.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Community-Minded: You need to enjoy being a part of a community. You should be comfortable spending time on Discord, Twitter, and at live events, building relationships and helping people.' }] },
       ]},
+      { type: 'image', src: 'https://images.unsplash.com/photo-1543269664-56d93c1b41a6?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'developer community', alt: 'Two developers collaborating and talking.', caption: 'DevRel requires a unique combination of technical skill and strong communication.'},
       { type: 'h2', children: [{ type: 'text', value: 'Building a Career in Web3 DevRel' }] },
       { type: 'p', children: [{ type: 'text', value: 'There are two common paths into a DevRel role:' }] },
       { type: 'h3', children: [{ type: 'text', value: 'Path 1: The Engineer who Loves to Write/Speak' }] },
@@ -1066,6 +1084,7 @@ const articles: Article[] = [
         { type: 'li', children: [{ type: 'text', value: 'Exceptional Communication Skills: You will need to work very closely with engineers and product managers to understand the technical constraints and possibilities. The ability to articulate your design decisions clearly is crucial.' }] },
         { type: 'li', children: [{ type: 'text', value: 'A Passion for Clarity and Simplicity: Your primary job is to take something incredibly complex and make it feel simple. You must have a passion for simplifying concepts and creating intuitive user flows.' }] },
       ]},
+      { type: 'image', src: 'https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=800&h=450&auto=format&fit=crop', 'data-ai-hint': 'ui design', alt: 'A designer working on a UI/UX wireframe.', caption: 'Web3 designers must be masters of clarity and simplicity.'},
       { type: 'h2', children: [{ type: 'text', value: 'How to Build a Portfolio and Get Started' }] },
       { type: 'p', children: [{ type: 'text', value: 'Since Web3 design is a new field, your portfolio is your chance to show that you can think critically about its unique challenges.' }] },
       { type: 'ul', children: [
@@ -1086,5 +1105,7 @@ export function getArticle(slug: string) {
   return articles.find(article => article.slug === slug);
 }
 
+
+    
 
     
