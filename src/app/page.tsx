@@ -33,41 +33,6 @@ export default async function Home() {
           </section>
 
           <JobBoard jobs={jobs} />
-
-          <section className="mt-20 py-16 bg-card border rounded-lg">
-            <div className="container mx-auto text-center">
-                <h3 className="text-3xl font-bold">Why Use Our Aggregator?</h3>
-                <div className="mt-10 grid grid-cols-1 md:grid-cols-3 gap-10 max-w-5xl mx-auto">
-                <div className="flex flex-col items-center">
-                    <div className="p-4 bg-primary/10 rounded-full mb-4">
-                    <Search className="h-8 w-8 text-primary" />
-                    </div>
-                    <h4 className="font-semibold text-lg">All-in-One Search</h4>
-                    <p className="text-muted-foreground mt-1 text-sm">
-                    No more juggling tabs. We bring the best web3 jobs to you in one place.
-                    </p>
-                </div>
-                <div className="flex flex-col items-center">
-                    <div className="p-4 bg-primary/10 rounded-full mb-4">
-                    <Briefcase className="h-8 w-8 text-primary" />
-                    </div>
-                    <h4 className="font-semibold text-lg">Quality Listings</h4>
-                    <p className="text-muted-foreground mt-1 text-sm">
-                    Curated feeds ensure you see relevant, high-quality engineering and non-technical roles.
-                    </p>
-                </div>
-                <div className="flex flex-col items-center">
-                    <div className="p-4 bg-primary/10 rounded-full mb-4">
-                    <RefreshCw className="h-8 w-8 text-primary" />
-                    </div>
-                    <h4 className="font-semibold text-lg">Always Fresh</h4>
-                    <p className="text-muted-foreground mt-1 text-sm">
-                    Our board is updated every 6 hours so you never miss a new opportunity.
-                    </p>
-                </div>
-                </div>
-            </div>
-          </section>
         </div>
       </main>
       <footer className="py-6 md:px-8 md:py-0 border-t">
