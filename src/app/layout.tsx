@@ -33,9 +33,6 @@ export const metadata: Metadata = {
     description: siteConfig.description,
     creator: "@shadcn",
   },
-  icons: {
-    icon: "/favicon.ico",
-  },
   alternates: {
     canonical: siteConfig.url,
   },
@@ -56,8 +53,8 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body className={cn('min-h-screen bg-background font-body antialiased')}>
-        {children}
+      <body className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}>
+        <div className="flex-grow">{children}</div>
         <Toaster />
       </body>
     </html>

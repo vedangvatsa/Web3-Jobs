@@ -1,12 +1,7 @@
-import { getJobs } from '@/lib/jobs';
 import { JobBoard } from '@/components/job-board';
 import { Button } from '@/components/ui/button';
 
-export const revalidate = 21600; // Revalidate every 6 hours
-
-export default async function Home() {
-  const jobs = await getJobs();
-
+export default function Home() {
   return (
     <div className="flex flex-col min-h-screen bg-background">
       <header className="sticky top-0 z-30 w-full bg-background/80 backdrop-blur-sm">
@@ -35,7 +30,7 @@ export default async function Home() {
             </p>
           </section>
 
-          <JobBoard jobs={jobs} />
+          <JobBoard />
         </div>
       </main>
       <footer className="py-6 md:px-8 md:py-0 mt-12">

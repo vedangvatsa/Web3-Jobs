@@ -20,13 +20,25 @@ function JobBoardSkeleton() {
     );
 }
 
-export function JobBoard({ jobs }: { jobs: Job[] }) {
+export function JobBoard() {
+  const [jobs, setJobs] = useState<Job[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
-  const [isMounted, setIsMounted] = useState(false);
   const [isPending, startTransition] = useTransition();
 
   useEffect(() => {
-    setIsMounted(true);
+    async function fetchJobs() {
+      try {
+        const response = await fetch('/api/jobs');
+        const data = await response.json();
+        setJobs(data);
+      } catch (error) {
+        console.error("Failed to fetch jobs:", error);
+      } finally {
+        setIsLoading(false);
+      }
+    }
+    fetchJobs();
   }, []);
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -47,7 +59,7 @@ export function JobBoard({ jobs }: { jobs: Job[] }) {
     );
   }, [jobs, searchQuery]);
 
-  if (!isMounted) {
+  if (isLoading) {
     return <JobBoardSkeleton />;
   }
 
