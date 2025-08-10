@@ -210,7 +210,7 @@ const articles: Article[] = [
           {
             type: 'text',
             value:
-              ", is an excellent resource, aggregating listings from across the ecosystem. Other popular platforms include CryptoJobsList, Web3.career, and company-specific career pages. Networking on Twitter and Discord is also a highly effective way to discover unlisted opportunities and connect directly with hiring managers.",
+              ", is an excellent resource for finding listings from across the ecosystem. Networking on Twitter and Discord is also a highly effective way to discover unlisted opportunities and connect directly with hiring managers.",
           },
         ],
       },
@@ -488,7 +488,7 @@ const articles: Article[] = [
       { type: 'p', children: [{ type: 'text', value: "The decentralized nature of blockchain technology fosters a culture of remote work. With teams and communities spread across the globe, a remote-first approach is a natural fit. This allows companies to tap into a global talent pool and gives employees the flexibility to work from anywhere." }] },
       { type: 'h2', children: [{ type: 'text', value: 'Where to Find Remote Web3 Jobs' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'text', value: "Specialized Job Boards: This very website is a great place to start! Many job boards allow you to filter for remote positions." }] },
+          { type: 'li', children: [{ type: 'text', value: "Specialized job boards are the best place to find opportunities. This very website is a great place to start! Many job boards allow you to filter for remote positions." }] },
           { type: 'li', children: [{ type: 'text', value: "Company Career Pages: If you have a dream project you want to work for, check their career page directly. Many list remote openings." }] },
           { type: 'li', children: [{ type: 'text', value: "Twitter and Discord: Networking is key. Follow projects and people you admire, and you'll often see job postings that aren't listed anywhere else." }] },
         ]

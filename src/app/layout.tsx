@@ -4,8 +4,8 @@ import { cn } from '@/lib/utils';
 import './globals.css';
 
 const siteConfig = {
-  name: "Web3 Job Aggregator",
-  description: "Aggregated job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
+  name: "Hashtag Web3",
+  description: "The best job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
   url: "https://web3-jobs.example.com",
 };
 
@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
   keywords: ["web3 jobs", "blockchain jobs", "crypto jobs", "developer jobs", "web3 careers"],
-  authors: [{ name: "Web3 Job Aggregator" }],
-  creator: "Web3 Job Aggregator",
+  authors: [{ name: "Hashtag Web3" }],
+  creator: "Hashtag Web3",
   metadataBase: new URL(siteConfig.url),
   openGraph: {
     type: "website",
