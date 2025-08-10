@@ -6,6 +6,8 @@ const FEEDS = [
   'https://politepol.com/fd/HI6pMDlyEO7j.xml',
   'https://politepol.com/fd/sDzglCq7RCpG.xml',
   'https://politepol.com/fd/bs9i34afSjHS.xml',
+  'https://politepol.com/fd/oiXKHETnrDap.xml',
+  'https://politepol.com/fd/Ane01VX84MOk.xml',
 ];
 
 const parser = new Parser();
