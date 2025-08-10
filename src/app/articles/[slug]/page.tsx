@@ -58,7 +58,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
                         <div className="prose prose-lg max-w-full text-foreground 
                             prose-h2:text-3xl prose-h2:font-bold prose-h2:mb-4 prose-h2:mt-12 
                             prose-h3:text-2xl prose-h3:font-bold 
-                            prose-p:leading-relaxed 
+                            prose-p:leading-relaxed prose-p:mb-6
                             prose-a:text-primary hover:prose-a:text-primary/80 
                             prose-ul:list-none prose-ul:p-0 
                             prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:pl-6 prose-blockquote:italic prose-blockquote:text-muted-foreground">
