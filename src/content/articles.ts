@@ -2,12 +2,13 @@
 
 import { CheckCircle2 } from 'lucide-react';
 import { Fragment } from 'react';
-import { Article } from '@/types';
+import type { Article } from '@/types';
 
 const articles: Article[] = [
   {
     slug: 'how-to-get-a-job-in-web3',
     title: 'How to Get a Job in Web3: A Comprehensive Guide',
+    image: 'https://placehold.co/600x400.png',
     description: 'Your ultimate guide to landing a job in the exciting world of Web3. From developing skills to acing the interview, we cover it all.',
     content: [
       {
@@ -234,6 +235,7 @@ const articles: Article[] = [
   {
     slug: 'top-web3-companies-hiring',
     title: 'Top Web3 Companies Hiring Now',
+    image: 'https://placehold.co/600x400.png',
     description: 'Discover the leading Web3 companies that are actively hiring. Explore opportunities at top-tier protocols, dApps, and infrastructure providers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 ecosystem is booming, and the demand for talent has never been higher. From foundational protocols to innovative decentralized applications (dApps), companies are scaling their teams to build the future of the internet. This article highlights some of the top Web3 companies that are consistently hiring across various roles, including engineering, marketing, product, and design. Whether you are a seasoned professional or just starting, these are the organizations to watch.' }] },
@@ -275,6 +277,7 @@ const articles: Article[] = [
   {
     slug: 'web3-developer-salary-guide',
     title: 'Web3 Developer Salary Guide 2024',
+    image: 'https://placehold.co/600x400.png',
     description: 'Curious about Web3 developer salaries? Our 2024 guide covers salary expectations for blockchain, smart contract, and dApp developers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Web3 development is one of the most lucrative fields in the tech industry today. The high demand for skilled blockchain engineers, combined with a limited talent pool, has driven salaries to impressive heights. This guide breaks down the typical salary ranges for various Web3 developer roles in 2024, the factors that influence compensation, and how you can maximize your earning potential in this exciting space.' }] },
@@ -319,6 +322,7 @@ const articles: Article[] = [
   {
     slug: 'blockchain-developer-roadmap',
     title: 'The Ultimate Blockchain Developer Roadmap',
+    image: 'https://placehold.co/600x400.png',
     description: "Your step-by-step roadmap to becoming a skilled blockchain developer. Learn the languages, tools, and concepts you need to succeed in Web3 development.",
     content: [
       { type: 'p', children: [{ type: 'text', value: "Becoming a blockchain developer can seem daunting, but with a structured learning path, it's an achievable goal. This roadmap breaks down the journey into manageable steps, guiding you from foundational concepts to advanced topics. Whether your goal is to build dApps, work on core protocols, or become a smart contract security expert, this guide will provide the clarity you need to navigate the learning process." }] },
@@ -359,6 +363,7 @@ const articles: Article[] = [
   {
     slug: 'non-technical-roles-in-crypto',
     title: 'Exploring Non-Technical Roles in Crypto',
+    image: 'https://placehold.co/600x400.png',
     description: "You don't have to be a coder to work in Web3. Discover the wide range of non-technical roles available in the crypto industry, from marketing to community management.",
     content: [
       { type: 'p', children: [{ type: 'text', value: "The crypto and Web3 space is not just for developers. As the industry matures, the demand for non-technical professionals is exploding. If you're passionate about the future of the internet but don't write code, there are numerous opportunities to build a rewarding career. This article explores some of the most in-demand non-technical roles in the crypto industry." }] },
@@ -379,6 +384,7 @@ const articles: Article[] = [
   {
     slug: 'guide-to-smart-contract-auditing',
     title: 'A Guide to Smart Contract Auditing Careers',
+    image: 'https://placehold.co/600x400.png',
     description: 'Learn how to become a smart contract auditor. This guide covers the skills, tools, and career path for one of the most critical roles in Web3 security.',
     content: [
       { type: 'p', children: [{ type: 'text', value: "In the high-stakes world of decentralized finance, a single vulnerability in a smart contract can lead to the loss of millions of dollars. This is where smart contract auditors come in. As the guardians of the Web3 ecosystem, auditors play a critical role in ensuring the security and reliability of dApps. This guide provides a comprehensive overview of the smart contract auditing career path, from the necessary skills to the tools of the trade." }] },
@@ -402,6 +408,7 @@ const articles: Article[] = [
   {
     slug: 'defi-jobs-guide',
     title: 'The Rise of Decentralized Finance (DeFi) Jobs',
+    image: 'https://placehold.co/600x400.png',
     description: 'Explore career opportunities in the booming DeFi sector. From quantitative analysts to protocol engineers, find your place in the future of finance.',
     content: [
       { type: 'p', children: [{ type: 'text', value: "Decentralized Finance (DeFi) is one of the fastest-growing sectors in the Web3 ecosystem. By rebuilding traditional financial services on the blockchain, DeFi is creating a more open, transparent, and accessible financial system. This explosive growth has led to a surge in demand for talented individuals to build and manage these new financial primitives. This article explores the diverse range of career opportunities available in DeFi." }] },
@@ -417,6 +424,7 @@ const articles: Article[] = [
   {
     slug: 'nft-marketplace-careers',
     title: 'NFT Marketplace Careers: From Artist to Engineer',
+    image: 'https://placehold.co/600x400.png',
     description: 'The world of NFTs is more than just digital art. Discover the variety of careers available in the NFT space, including roles in engineering, curation, and community.',
     content: [
       { type: 'p', children: [{ type: 'text', value: "Non-Fungible Tokens (NFTs) have captured the world's imagination, creating a vibrant new market for digital art, collectibles, and gaming assets. This has led to the rise of NFT marketplaces and platforms, which are now hiring for a wide range of roles. Whether you are a creative, a technologist, or a community builder, there's a place for you in the NFT ecosystem." }] },
@@ -437,6 +445,7 @@ const articles: Article[] = [
   {
     slug: 'web3-community-manager-jobs',
     title: 'Community Manager Roles in Web3 and Crypto',
+    image: 'https://placehold.co/600x400.png',
     description: 'Learn what it takes to be a successful community manager in Web3. This guide covers the responsibilities, skills, and career path for this crucial role.',
     content: [
       { type: 'p', children: [{ type: 'text', value: "In the world of Web3, community isn't just a marketing buzzword—it's the core of the project. A strong, engaged community can make or break a dApp, protocol, or DAO. This makes the role of a community manager one of the most important and in-demand jobs in the crypto space. This guide will walk you through what it takes to succeed as a Web3 community manager." }] },
@@ -453,6 +462,7 @@ const articles: Article[] = [
   {
     slug: 'technical-writing-for-web3',
     title: 'Technical Writing for Web3: A Lucrative Niche',
+    image: 'https://placehold.co/600x400.png',
     description: 'Explore the high-demand field of technical writing in the Web3 and crypto space. Learn how your writing skills can land you a top-paying job.',
     content: [
       { type: 'p', children: [{ type: 'text', value: "The Web3 ecosystem is filled with groundbreaking but complex technology. This creates a massive need for skilled technical writers who can bridge the gap between complex code and human understanding. If you have a talent for writing and a passion for technology, a career in Web3 technical writing can be both intellectually stimulating and financially rewarding." }] },
@@ -470,6 +480,7 @@ const articles: Article[] = [
   {
     slug: 'web3-marketing-guide',
     title: 'Web3 Marketing: Strategies for a Decentralized World',
+    image: 'https://placehold.co/600x400.png',
     description: 'Learn how to market a Web3 project. This guide covers the unique challenges and opportunities of marketing in the crypto and blockchain space.',
     content: [
       { type: 'p', children: [{ type: 'text', value: "Marketing in the Web3 space is unlike any other industry. The audience is skeptical of traditional advertising, values authenticity, and is deeply community-oriented. To succeed, Web3 marketers need to throw out the old playbook and embrace new strategies that are native to the crypto culture. This guide explores the key principles of effective Web3 marketing." }] },
@@ -485,6 +496,7 @@ const articles: Article[] = [
   {
     slug: 'remote-web3-jobs',
     title: 'How to Find Remote Web3 Jobs',
+    image: 'https://placehold.co/600x400.png',
     description: 'The ultimate guide to finding a remote job in the Web3 and crypto industry. Learn where to look, how to apply, and what companies are hiring remotely.',
     content: [
       { type: 'p', children: [{ type: 'text', value: "The Web3 industry is remote-native. The ethos of decentralization extends to the way companies operate, with many being fully distributed teams. This opens up a world of opportunities for talent, regardless of their location. This guide will show you how to find and land a remote job in the exciting world of Web3." }] },
@@ -502,6 +514,7 @@ const articles: Article[] = [
   {
     slug: 'web3-internships-for-students',
     title: 'Web3 Internships for Students: A Guide to Getting Started',
+    image: 'https://placehold.co/600x400.png',
     description: "Your guide to landing a Web3 internship. Learn how to get the experience you need to kickstart your career in the blockchain industry.",
     content: [
       { type: 'p', children: [{ type: 'text', value: "For students looking to break into the Web3 industry, an internship can be an invaluable experience. It's a chance to apply your skills to real-world projects, learn from experienced professionals, and build a network in this fast-growing space. This guide will walk you through how to find and secure a Web3 internship." }] },
@@ -525,6 +538,7 @@ const articles: Article[] = [
   {
     slug: 'web3-gaming-jobs',
     title: 'The Ultimate Guide to Web3 Gaming Jobs',
+    image: 'https://placehold.co/600x400.png',
     description: 'Explore the exciting world of Web3 gaming careers. From game developers to economy designers, find out how to get a job in the blockchain gaming industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: "Blockchain technology is revolutionizing the gaming industry. By enabling true ownership of in-game assets (as NFTs) and creating player-driven economies, Web3 is paving the way for a new generation of games. This has created a surge in demand for talent in the Web3 gaming space. This guide explores the various career paths available in this exciting field." }] },
@@ -540,6 +554,7 @@ const articles: Article[] = [
   {
     slug: 'dao-governance-careers',
     title: 'Careers in DAO Governance',
+    image: 'https://placehold.co/600x400.png',
     description: "Explore the emerging field of DAO governance. Learn about the roles and responsibilities of DAO contributors, from governance facilitators to delegates.",
     content: [
       { type: 'p', children: [{ type: 'text', value: "Decentralized Autonomous Organizations (DAOs) are a new way of organizing people and capital. They are community-led entities with no central authority, where decisions are made through a process of proposals and voting. This has created a new field of work centered around DAO governance. This guide explores the career opportunities available for those interested in shaping the future of these decentralized organizations." }] },
@@ -626,5 +641,3 @@ export function renderArticleContent(content: Article['content']) {
     }
   });
 }
-
-    
