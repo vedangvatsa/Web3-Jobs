@@ -1,3 +1,4 @@
+
 import { JobBoard } from '@/components/job-board';
 import { Button } from '@/components/ui/button';
 import { Footer } from '@/components/footer';
@@ -10,9 +11,9 @@ export default function Home() {
       <main className="flex-1">
         <div className="container mx-auto px-4 py-8 md:py-16">
           <section className="text-center mb-12">
-            <h2 className="text-4xl font-extrabold tracking-tight lg:text-5xl text-primary">
+            <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl text-primary">
               Find your next Web3 Job
-            </h2>
+            </h1>
             <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
               The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
             </p>
