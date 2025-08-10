@@ -1,5 +1,6 @@
 import { JobBoard } from '@/components/job-board';
 import { Button } from '@/components/ui/button';
+import { Footer } from '@/components/footer';
 
 export default function Home() {
   return (
@@ -33,13 +34,7 @@ export default function Home() {
           <JobBoard />
         </div>
       </main>
-      <footer className="py-6 md:px-8 md:py-0 mt-12">
-        <div className="container flex flex-col items-center justify-center gap-4 md:h-24 md:flex-row">
-          <p className="text-xs text-center text-muted-foreground md:text-left">
-            &copy; {new Date().getFullYear()} Hashtag Web3. All Rights Reserved.
-          </p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }
