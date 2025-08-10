@@ -618,3 +618,5 @@ export function getArticles() {
 export function getArticle(slug: string) {
   return articles.find(article => article.slug === slug);
 }
+
+    
