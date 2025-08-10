@@ -13,7 +13,7 @@ export function ArticleRenderer({ content }: { content: Article['content'] }) {
     switch (block.type) {
       case 'p':
         return (
-          <p key={index}>
+          <p key={index} className="mb-6">
             {block.children.map((child, childIndex) => {
               if (child.type === 'link') {
                 return (
@@ -40,11 +40,11 @@ export function ArticleRenderer({ content }: { content: Article['content'] }) {
         );
       case 'ul':
         return (
-          <ul key={index}>
+          <ul key={index} className="space-y-4 my-6">
             {block.children.map((li, liIndex) => (
-              <li key={liIndex} className="flex gap-x-3">
-                 <CheckCircle2 className="mt-1 h-5 w-5 flex-none text-primary" aria-hidden="true" />
-                 <span>
+              <li key={liIndex} className="flex gap-x-4">
+                 <CheckCircle2 className="mt-1 h-6 w-6 flex-none text-primary" aria-hidden="true" />
+                 <span className="flex-1">
                  {li.children.map((child, childIndex) => {
                     if (child.type === 'link') {
                       return (

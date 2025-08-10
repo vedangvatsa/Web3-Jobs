@@ -27,20 +27,20 @@ export default function ArticlesPage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {articles.map((article) => (
-            <Link key={article.slug} href={`/articles/${article.slug}`} className="block transform transition-all duration-300 hover:-translate-y-1">
-              <Card className="flex flex-col h-full rounded-xl shadow-sm hover:shadow-md border-transparent hover:border-border overflow-hidden">
+            <Link key={article.slug} href={`/articles/${article.slug}`} className="block group">
+              <Card className="flex flex-col h-full rounded-xl shadow-sm transition-all duration-300 group-hover:shadow-lg border overflow-hidden">
                 <CardHeader className="p-0">
                   <Image
                     src={article.image}
                     alt={article.title}
                     width={600}
                     height={400}
-                    className="w-full h-48 object-cover"
+                    className="w-full h-48 object-cover transition-transform duration-300 group-hover:scale-105"
                     data-ai-hint={article.slug.replace(/-/g, ' ')}
                   />
                 </CardHeader>
-                <CardContent className="flex-grow pt-6 flex flex-col">
-                  <CardTitle className="text-lg leading-tight font-semibold mb-2">{article.title}</CardTitle>
+                <CardContent className="flex-grow p-6 flex flex-col">
+                  <CardTitle className="text-xl leading-tight font-semibold mb-2 group-hover:text-primary transition-colors duration-300">{article.title}</CardTitle>
                   <p className="text-sm text-muted-foreground flex-grow">{article.description}</p>
                 </CardContent>
               </Card>

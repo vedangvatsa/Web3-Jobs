@@ -5,6 +5,7 @@ import { Metadata } from 'next';
 import { ArticleRenderer } from '@/components/article-renderer';
 import Link from 'next/link';
 import { ChevronLeft } from 'lucide-react';
+import Image from 'next/image';
 
 interface ArticlePageProps {
   params: {
@@ -41,14 +42,23 @@ export default function ArticlePage({ params }: ArticlePageProps) {
             Back to Articles
           </Link>
           <article>
-            <header className="mb-8">
-              <h1 className="text-3xl font-extrabold tracking-tight lg:text-4xl text-primary mb-3">
+            <header className="mb-12">
+              <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl text-primary mb-4">
                 {article.title}
               </h1>
-              <p className="text-lg text-muted-foreground">{article.description}</p>
+              <p className="text-xl text-muted-foreground">{article.description}</p>
             </header>
             
-            <div className="prose prose-lg max-w-none text-foreground prose-h2:text-foreground prose-h3:text-foreground prose-strong:text-foreground prose-a:text-primary hover:prose-a:text-primary/80 prose-ul:list-none prose-ul:p-0 prose-li:p-0">
+            <Image
+              src={article.image}
+              alt={article.title}
+              width={1200}
+              height={600}
+              className="w-full h-auto rounded-xl shadow-lg mb-12"
+              data-ai-hint={article.slug.replace(/-/g, ' ')}
+            />
+            
+            <div className="prose prose-lg max-w-none text-foreground prose-h2:text-3xl prose-h2:font-bold prose-h2:mb-4 prose-h2:mt-10 prose-h3:text-2xl prose-h3:font-bold prose-p:leading-relaxed prose-a:text-primary hover:prose-a:text-primary/80 prose-ul:list-none prose-ul:p-0">
                 <ArticleRenderer content={article.content} />
             </div>
           </article>
