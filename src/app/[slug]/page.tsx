@@ -28,7 +28,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const article = await getArticle(params.slug);
   if (!article) {
-    return {};
+    notFound();
   }
 
   const siteUrl = 'https://web3-jobs.example.com';
@@ -192,6 +192,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 height={630}
                 className="rounded-lg shadow-xl mb-8"
                 priority
+                data-ai-hint={`${article.slug.replace(/-/g, ' ')}`}
               />
               <div className="prose prose-lg dark:prose-invert max-w-none">
                 {article.content.map(renderBlock)}
