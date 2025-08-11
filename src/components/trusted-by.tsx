@@ -12,23 +12,23 @@ export function TrustedBy() {
     ];
 
     return (
-        <section className="pb-12">
-            <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <section className="pb-8">
+            <div className="mx-auto max-w-4xl px-4">
                 <div className="flex flex-col items-center">
-                    <h2 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase">
+                    <h2 className="text-center text-xs font-semibold text-muted-foreground tracking-wider uppercase">
                         Jobs from
                     </h2>
 
-                    <div className="mt-8 flow-root">
-                        <div className="-my-2 -mx-4 flex flex-wrap items-center justify-center sm:-mx-6 lg:-mx-8">
+                    <div className="mt-4 flow-root">
+                        <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center">
                             {logos.map((logo) => (
-                                <div key={logo.name} className="py-4 px-6 sm:px-6 lg:px-8">
+                                <div key={logo.name} className="p-2">
                                     <Image 
                                       src={logo.src}
                                       alt={logo.name} 
-                                      width={130} 
-                                      height={32}
-                                      className="h-8 w-auto transition-opacity opacity-60 hover:opacity-100"
+                                      width={100} 
+                                      height={24}
+                                      className="h-6 w-auto transition-opacity opacity-50 hover:opacity-100"
                                       unoptimized
                                     />
                                     <span className="sr-only">{logo.name}</span>
