@@ -35,7 +35,7 @@ export default async function Home() {
                                 <Send className="h-6 w-6 text-primary" />
                             </div>
                             <p className="text-sm sm:text-base font-semibold text-secondary-foreground text-left">
-                               Join 56,000+ subscribers on one of the largest Web3 job feeds.
+                               Get top Web3 jobs in your inbox. 56k+ subscribers.
                             </p>
                         </div>
                     </div>
