@@ -27,11 +27,22 @@ export default async function Home() {
           </section>
 
           <div className="max-w-2xl mx-auto mb-8">
-            <Link href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="block">
-                <div className="rounded-lg bg-secondary/70 p-4 text-center transition-colors hover:bg-secondary">
-                    <p className="text-sm font-semibold text-secondary-foreground">
-                       Join 56,000+ subscribers on one of the largest Web3 job feeds on Telegram.
-                    </p>
+            <Link href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="block w-full group">
+                <div className="w-full rounded-lg bg-secondary/70 p-4 transition-all duration-300 group-hover:bg-secondary group-hover:shadow-lg">
+                    <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
+                        <div className="flex items-center gap-3">
+                            <div className="bg-primary/10 p-2 rounded-full">
+                                <Send className="h-6 w-6 text-primary" />
+                            </div>
+                            <p className="text-sm sm:text-base font-semibold text-secondary-foreground text-left">
+                               Join 56,000+ subscribers on one of the largest Web3 job feeds.
+                            </p>
+                        </div>
+                        <Button variant="ghost" size="sm" className="bg-background/80 group-hover:bg-background">
+                            Join Channel
+                            <Send className="ml-2 h-4 w-4" />
+                        </Button>
+                    </div>
                 </div>
             </Link>
           </div>
