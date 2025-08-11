@@ -6,7 +6,7 @@ const articles: Article[] = [
   {
     slug: 'what-is-web3',
     title: 'What is Web3? A Beginner\'s Guide to the Decentralized Internet',
-    image: 'https://placehold.co/1200x630.png',
+    image: 'https://images.unsplash.com/photo-1639755498878-444218386e58?q=80&w=1200&h=630&auto=format&fit=crop',
     description: 'Explore the fundamentals of Web3, the next evolution of the internet built on blockchain technology, decentralization, and user empowerment.',
     content: [
       {
@@ -121,7 +121,7 @@ const articles: Article[] = [
   {
     slug: 'guide-to-defi',
     title: 'An Introduction to Decentralized Finance (DeFi)',
-    image: 'https://placehold.co/1200x630.png',
+    image: 'https://images.unsplash.com/photo-1642155518939-479e085e1c09?q=80&w=1200&h=630&auto=format&fit=crop',
     description: 'Learn how DeFi is rebuilding traditional financial systems like lending, borrowing, and trading on the blockchain, without the need for intermediaries.',
     content: [
       {
