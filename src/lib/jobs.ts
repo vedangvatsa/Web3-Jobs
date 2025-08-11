@@ -14,30 +14,31 @@ const parser = new Parser();
 
 export async function getJobs(): Promise<Job[]> {
   const allJobs: Job[] = [];
-  const seenIds = new Set<string>();
+  const seenJobs = new Set<string>();
 
   const feedPromises = FEEDS.map(async (feedUrl) => {
     try {
       const feed = await parser.parseURL(feedUrl);
       if (feed?.items) {
         feed.items.forEach((item) => {
-          const id = item.guid || item.link;
-
-          // Per instructions: title is job title, description is company
-          // In rss-parser, item.content is the description.
           const title = item.title?.trim();
           const company = item.content?.trim();
-          
-          if (id && !seenIds.has(id) && title && company && item.link && title.split(' ').length <= 7) {
-            seenIds.add(id);
-            allJobs.push({
-              id,
-              title,
-              company,
-              link: item.link,
-              date: item.isoDate || new Date().toISOString(),
-              source: feed.title || feedUrl,
-            });
+          const link = item.link;
+
+          if (title && company && link && title.split(' ').length <= 7) {
+            const jobKey = `${title.toLowerCase()}|${company.toLowerCase()}`;
+            
+            if (!seenJobs.has(jobKey)) {
+              seenJobs.add(jobKey);
+              allJobs.push({
+                id: item.guid || link,
+                title,
+                company,
+                link,
+                date: item.isoDate || new Date().toISOString(),
+                source: feed.title || feedUrl,
+              });
+            }
           }
         });
       }
