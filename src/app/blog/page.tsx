@@ -25,7 +25,7 @@ export default async function BlogIndexPage() {
           <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
             {articles.map((article) => (
               <Card key={article.slug} className="h-full transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl">
-                <Link href={`/blog/${article.slug}`} className="block h-full">
+                <Link href={`/${article.slug}`} className="block h-full">
                   <CardHeader>
                       <CardTitle className="text-xl">{article.title}</CardTitle>
                       <CardDescription className="pt-2">{article.description}</CardDescription>
