@@ -2,8 +2,10 @@
 
 import type { Job } from '@/types';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { formatDistanceToNow } from 'date-fns';
 
 export function JobCard({ job }: { job: Job }) {
+  const postedAt = formatDistanceToNow(new Date(job.date), { addSuffix: true });
 
   return (
     <a href={job.link} target="_blank" rel="noopener noreferrer" className="block transform transition-all duration-200 hover:-translate-y-0.5">
