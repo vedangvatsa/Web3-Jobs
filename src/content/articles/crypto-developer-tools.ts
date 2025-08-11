@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'crypto-developer-tools',
     title: 'The Essential Toolkit for Crypto Developers in 2024',
-    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642104794232-4218b620436a?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A curated list of the best tools for blockchain and dApp development. We cover everything from smart contract frameworks to frontend libraries and security analyzers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Building in Web3 requires a specialized set of tools that are very different from traditional web development. The right toolkit can dramatically speed up your workflow, improve the security of your code, and make the entire development process more enjoyable. The tooling ecosystem is evolving at a breakneck pace, with new and better tools emerging all the time.' }] },

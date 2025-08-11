@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'blockchain-developer-roadmap',
     title: 'The Ultimate Blockchain Developer Roadmap',
-    image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Your comprehensive, step-by-step roadmap to becoming a skilled blockchain developer. Learn the languages, tools, and concepts you need to succeed.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Trying to become a blockchain developer can feel like you\'re exploring a huge, new territory. The tech is new, the world around it is changing at a crazy pace, and it can be tough to learn. But, if you have a plan and stick to it, it\'s a very rewarding and doable goal. This is one of the few fields where people can go from knowing nothing to landing a high-paying job pretty quickly, as long as they\'re dedicated.' }] },

@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-developer-salary-guide',
     title: 'Web3 Developer Salary Guide: An In-Depth Analysis',
-    image: 'https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1640622300473-97743583c0f6?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A comprehensive guide to Web3 developer salaries. We cover salary expectations, equity, tokens, and negotiation strategies for blockchain developers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Web3 development is one of the highest-paying fields in tech right now. The high demand for a very specific set of skills combined with a small talent pool has pushed salaries way up. But figuring out compensation in this space can be tricky, since it\'s often more than just a base salary.' }] },
@@ -14,7 +14,7 @@ export const article: Article = {
       { type: 'p', children: [{ type: 'text', value: 'A few key things can have a big impact on your salary as a Web3 developer. Unlike traditional tech, where years of experience is the main thing, Web3 pay is more complex:' }] },
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Experience & Proven Results: This is measured less in years and more in what you\'ve done. Your GitHub, past projects, open-source contributions, and on-chain activity are your resume. A developer with two years of experience who has shipped a secure DeFi protocol is much more valuable than one with five years of experience in a different field.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Specialization & Niche Skills: Expertise in high-stakes areas comes with a big premium. The highest salaries often go to developers with proven skills in smart contract security, auditing, Zero-Knowledge (ZK) proof engineering, and core protocol development (e.g., in Rust or Go).' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Specialization & Niche Skills: Expertise in high-stakes areas comes with a big premium. The highest salaries often go to to developers with proven skills in smart contract security, auditing, Zero-Knowledge (ZK) proof engineering, and core protocol development (e.g., in Rust or Go).' }] },
           { type: 'li', children: [{ type: 'text', value: 'Company Type & Funding: Well-funded startups and established protocols (like Layer 1 foundations or top DeFi projects) usually offer the highest base salaries. Early-stage startups might offer a lower base but a much bigger share of equity or tokens, which is a higher-risk, higher-reward deal.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Location: While Web3 is remote-first, salaries can still be affected by location, especially for companies that have physical offices. But the trend is toward location-agnostic pay, with companies paying competitive rates to get the best talent from anywhere.' }]},
         ]

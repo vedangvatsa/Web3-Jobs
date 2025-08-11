@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'technical-writing-for-web3',
     title: 'Technical Writing for Web3: A Guide to a Lucrative Niche',
-    image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1579820010410-c10411aaaa88?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the high-demand field of technical writing in the Web3 and crypto space. Learn how your writing skills can land you a top-paying job.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 ecosystem is built on amazing but incredibly complex technology. This creates a huge and constant need for skilled technical writers who can act as translators, bridging the gap between the complex world of code and human understanding. Good writing isn\'t just a \'nice to have\' in Web3; it\'s critical for adoption, security, and growth.' }] },

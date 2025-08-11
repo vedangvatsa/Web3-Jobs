@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'defi-jobs-guide',
     title: 'The In-Depth Guide to Decentralized Finance (DeFi) Jobs',
-    image: 'https://images.unsplash.com/photo-1640826514546-75c1289c5f87?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642680453396-5b4d7647c54e?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An exploration of career opportunities in the booming DeFi sector. From quantitative analysts to protocol engineers, find your place in the future of finance.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Finance (DeFi) is one of the most vibrant, innovative, and well-funded areas in the entire Web3 ecosystem. Its huge goal is to rebuild the global financial system on open, permissionless blockchains, cutting out the need for traditional middlemen like banks and brokers. This has created a new financial world and a matching demand for a new kind of professional who can mix finance, technology, and game theory.' }] },

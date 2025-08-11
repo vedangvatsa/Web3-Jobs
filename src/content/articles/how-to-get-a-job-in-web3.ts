@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'how-to-get-a-job-in-web3',
     title: 'How to Get a Job in Web3: A Comprehensive Guide',
-    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1638913971873-b6339ea4984e?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Your ultimate guide to landing a job in the exciting world of Web3. From developing skills to acing the interview, we cover it all.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 world is growing fast, opening up a ton of new jobs for tech pros, creatives, and strategists. These aren\'t your typical tech roles. They often need a mix of skills: a solid grasp of blockchain, a belief in decentralized ideas, and a real passion for community-led projects. This space isn\'t a tiny niche anymore; it\'s the next version of the internet, and companies are desperate for talent. That\'s a huge plus for anyone willing to jump in and learn.' }] },

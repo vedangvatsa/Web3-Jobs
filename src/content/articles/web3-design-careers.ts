@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-design-careers',
     title: 'A Guide to UX/UI Design Careers in Web3',
-    image: 'https://images.unsplash.com/photo-1587440871875-191322ee64b0?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Discover the unique challenges and opportunities for designers in the Web3 space. Learn how to design user-friendly dApps and build a career in crypto UX/UI.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'For a long time, user experience (UX) and user interface (UI) design were afterthoughts in Web3. The industry was so focused on solving deep technical challenges that the user-facing experience was often clunky, confusing, and unforgiving. This created a massive barrier to adoption. That is finally changing.' }] },

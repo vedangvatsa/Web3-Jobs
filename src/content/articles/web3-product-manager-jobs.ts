@@ -4,13 +4,13 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-product-manager-jobs',
     title: 'A Guide to Product Management in Web3',
-    image: 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Learn what it takes to be a Product Manager in the Web3 space. We cover the unique challenges, skills, and mindset required for this critical role.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The role of a Product Manager (PM) in Web3 is one of the most challenging, complex, and rewarding positions in the industry. Traditional PM skills are still valuable, but they are not enough. A Web3 PM must be a unique blend of product strategist, systems thinker, community diplomat, and technical translator.' }] },
       { type: 'p', children: [{ type: 'text', value: 'They are responsible for answering the fundamental questions of \'what should we build?\' and \'why?\' in a world of decentralized stakeholders, complex technical constraints, and open, adversarial environments. This guide explores what makes the Web3 PM role so different and what skills you need to succeed in it.' }] },
       { type: 'blockquote', children: [{ type: 'p', children: [{ type: 'text', value: 'A great Web3 PM doesn\'t just manage a product; they cultivate an ecosystem. They must balance the needs of users, token holders, developers, and the core team.', style: 'italic' }] }] },
-      { type: 'h2', children: [{ type: 'text', value: 'The Unique Challenges of Web3 Product Management' }] },
+      { type: 'h2', children: [{ type: 'text', value: 'The Unique Challenges of Web3 ProductManagement' }] },
       { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'You Don\'t Have a \'User\'. You Have Stakeholders: In Web2, you optimize for the user. In Web3, you have multiple, often conflicting, stakeholders. Token holders want the price to go up. Liquidity providers want low fees. Traders want high volume. A PM must navigate these competing interests.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Your Product is a Complex Economic System: A DeFi protocol isn\'t just a piece of software; it\'s a micro-economy. A PM must understand game theory, mechanism design, and tokenomics. A bad decision can\'t just create a bad user experience; it can break the entire economic model of the protocol.' }] },

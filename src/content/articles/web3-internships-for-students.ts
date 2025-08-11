@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-internships-for-students',
     title: 'Web3 Internships for Students: A Guide to Getting Started',
-    image: 'https://images.unsplash.com/photo-1573497491208-6b1acb260507?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Your comprehensive guide to landing a Web3 internship. Learn how to get the experience you need to kickstart your career in the blockchain industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'For students and recent graduates, the Web3 industry is a frontier of opportunity. An internship in this space isn\'t just a line on a resume; it\'s a launchpad into a career at the forefront of technology and finance. Unlike traditional internships where you might be stuck doing boring tasks, Web3 internships often give you the chance to work on real products, contribute to open-source code, and have a real impact.' }] },
