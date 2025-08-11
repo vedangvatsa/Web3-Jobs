@@ -67,7 +67,7 @@ const renderNode = (node: any, key: number) => {
             if (node.style === 'italic') return <em key={key}>{node.value}</em>;
             return node.value;
         case 'link':
-            return <a key={key} href={node.href} className="text-primary hover:underline">{node.value}</a>;
+            return <Link key={key} href={node.href} className="text-primary hover:underline">{node.value}</Link>;
         default:
             return null;
     }
@@ -124,7 +124,7 @@ const renderBlock = (block: ContentBlock, index: number) => {
                                 <CardTitle className="text-lg">{point.title}</CardTitle>
                             </CardHeader>
                             <CardContent>
-                                <p className="text-muted-foreground">{point.description}</p>
+                                <p className="text-muted-foreground">{point.description.map(renderNode)}</p>
                             </CardContent>
                         </Card>
                     )

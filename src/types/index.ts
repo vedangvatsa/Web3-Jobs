@@ -38,7 +38,7 @@ type BlockquoteParagraph = {
 type KeyPoint = {
     icon: string;
     title: string;
-    description: string;
+    description: (StyledText | Link)[];
 }
 
 // A block of content can be a paragraph, heading, list, image, or blockquote

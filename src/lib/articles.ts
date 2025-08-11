@@ -78,10 +78,10 @@ const articles: Article[] = [
       {
         type: 'keyPoints',
         points: [
-            { icon: 'decentralization', title: 'Decentralization', description: 'Instead of data being stored on servers owned by one company, it is spread across a network of computers around the world. This makes the system strong, resistant to control, and removes single points of failure.' },
-            { icon: 'blockchain', title: 'Blockchain & Crypto', description: 'Blockchains are the base of Web3, acting as a clear and unchangeable public record. Cryptocurrencies like Bitcoin and Ethereum provide the money layer, giving rewards for network members and allowing value to be sent without middlemen.' },
-            { icon: 'trustless', title: 'Verifiable & Trustless', description: 'The word "trustless" does not mean you can not trust anyone; it means you do not have to. The rules of an application are written in open-source smart contracts on the blockchain, letting anyone check the rules. This removes the need to trust a central company to be fair.' },
-            { icon: 'ownership', title: 'Self-Custody & Digital Ownership', description: 'Through crypto wallets, users have full control over their items and identity. This idea of "self-custody" means your digital property can not be taken, frozen, or blocked by a third party, giving you true digital freedom.' },
+            { icon: 'decentralization', title: 'Decentralization', description: [{ type: 'text', value: 'Instead of data being stored on servers owned by one company, it is spread across a network of computers around the world. This makes the system strong, resistant to control, and removes single points of failure.' }] },
+            { icon: 'blockchain', title: 'Blockchain & Crypto', description: [{ type: 'text', value: 'Blockchains are the base of Web3, acting as a clear and unchangeable public record. Cryptocurrencies like Bitcoin and Ethereum provide the money layer, giving rewards for network members and allowing value to be sent without middlemen.' }] },
+            { icon: 'trustless', title: 'Verifiable & Trustless', description: [{ type: 'text', value: 'The word "trustless" does not mean you can not trust anyone; it means you do not have to. The rules of an application are written in open-source smart contracts on the blockchain, letting anyone check the rules. This removes the need to trust a central company to be fair.' }] },
+            { icon: 'ownership', title: 'Self-Custody & Digital Ownership', description: [{ type: 'text', value: 'Through crypto wallets, users have full control over their items and identity. This idea of "self-custody" means your digital property can not be taken, frozen, or blocked by a third party, giving you true digital freedom.' }] },
         ]
       },
       {
@@ -102,10 +102,10 @@ const articles: Article[] = [
       {
         type: 'keyPoints',
         points: [
-            { icon: 'defi', title: 'DeFi (Decentralized Finance)', description: 'A whole other financial system being built on the blockchain. It includes services like lending, borrowing, trading, and insurance that are open to anyone with an internet connection, without traditional banks.' },
-            { icon: 'nfts', title: 'NFTs (Non-Fungible Tokens)', description: 'Provably unique digital items that show ownership of anything from art and collectibles to in-game items and real-world things. NFTs are giving creators a new way to make money from their work and connect with their communities directly.' },
-            { icon: 'daos', title: 'DAOs (Decentralized Autonomous Organizations)', description: 'Internet-based groups run by their members. Decisions are made by voting with special tokens, and money is managed clearly on the blockchain. DAOs are used to run everything from DeFi protocols to investment funds and social clubs.' },
-            { icon: 'decentralized-social', title: 'Decentralized Social Media', description: 'Platforms like Farcaster and Lens Protocol are building social networks where users own their data and social connections. This means you can take your followers and content with you from one application to another, breaking the "walled gardens" of Web2.' },
+            { icon: 'defi', title: 'DeFi (Decentralized Finance)', description: [{ type: 'text', value: 'A whole other financial system being built on the blockchain. You can learn more in our '}, { type: 'link', href: '/guide-to-defi', value: 'Introduction to DeFi'}, { type: 'text', value: '. It includes services like lending, borrowing, and trading that are open to anyone with an internet connection, without traditional banks.' }] },
+            { icon: 'nfts', title: 'NFTs (Non-Fungible Tokens)', description: [{ type: 'text', value: 'Provably unique digital items that show ownership of anything from art and collectibles to in-game items and real-world things. NFTs are giving creators a new way to make money from their work and connect with their communities directly.' }] },
+            { icon: 'daos', title: 'DAOs (Decentralized Autonomous Organizations)', description: [{ type: 'text', value: 'Internet-based groups run by their members. Decisions are made by voting with special tokens, and money is managed clearly on the blockchain. DAOs are used to run everything from DeFi protocols to investment funds and social clubs.' }] },
+            { icon: 'decentralized-social', title: 'Decentralized Social Media', description: [{ type: 'text', value: 'Platforms like Farcaster and Lens Protocol are building social networks where users own their data and social connections. This means you can take your followers and content with you from one application to another, breaking the "walled gardens" of Web2.' }] },
         ]
       },
       {
@@ -121,10 +121,10 @@ const articles: Article[] = [
       {
         type: 'keyPoints',
         points: [
-            { icon: 'ux', title: 'User Experience (UX)', description: 'The current user experience in Web3 can be hard and scary. Managing wallets, seed phrases, and paying for "gas" (transaction fees) is a big problem for the average internet user. Getting started needs to be as easy as Web2.' },
-            { icon: 'scalability', title: 'Scalability', description: 'Popular blockchains like Ethereum can only handle a limited number of transactions per second right now. This creates slow-downs and high fees when many people are using it. Layer 2 scaling solutions are being worked on to fix this, but it is still a major issue.' },
-            { icon: 'security', title: 'Security & Scams', description: 'The self-custody nature of Web3 puts a lot of responsibility on the user. Phishing attacks, smart contract flaws, and smart scams are common, and unlike traditional finance, there is often no central power to undo bad transactions.' },
-            { icon: 'regulation', title: 'Regulation', description: 'Governments and rule-making bodies around the world are still trying to figure out how to handle this new technology. The lack of clear rules creates doubt for builders, investors, and users, which could slow down new ideas.' },
+            { icon: 'ux', title: 'User Experience (UX)', description: [{ type: 'text', value: 'The current user experience in Web3 can be hard and scary. Managing wallets, seed phrases, and paying for "gas" (transaction fees) is a big problem for the average internet user. Getting started needs to be as easy as Web2.' }] },
+            { icon: 'scalability', title: 'Scalability', description: [{ type: 'text', value: 'Popular blockchains like Ethereum can only handle a limited number of transactions per second right now. This creates slow-downs and high fees when many people are using it. Layer 2 scaling solutions are being worked on to fix this, but it is still a major issue.' }] },
+            { icon: 'security', title: 'Security & Scams', description: [{ type: 'text', value: 'The self-custody nature of Web3 puts a lot of responsibility on the user. Phishing attacks, smart contract flaws, and smart scams are common, and unlike traditional finance, there is often no central power to undo bad transactions.' }] },
+            { icon: 'regulation', title: 'Regulation', description: [{ type: 'text', value: 'Governments and rule-making bodies around the world are still trying to figure out how to handle this new technology. The lack of clear rules creates doubt for builders, investors, and users, which could slow down new ideas.' }] },
         ]
       },
       {
@@ -153,7 +153,9 @@ const articles: Article[] = [
       {
         type: 'p',
         children: [
-          { type: 'text', value: 'Decentralized Finance, or DeFi, is perhaps the most lively and game-changing area in the Web3 world. It presents a bold new way of thinking about the global financial system, built not on secret boardroom talks but on open, clear, and programmable code. DeFi uses blockchain technology to create a parallel financial world that is open to all, available everywhere, and works without the need for traditional middlemen like banks, brokers, or insurance companies. Instead, it uses smart contracts, which are self-running agreements written in code on a blockchain, to create and manage a wide range of financial products and services. This guide will look at the problems DeFi tries to solve, its main parts, and give a clear view of the huge chances and big risks in this new financial area.' },
+          { type: 'text', value: 'Decentralized Finance, or DeFi, is perhaps the most lively and game-changing area in the Web3 world. It presents a bold new way of thinking about the global financial system, built not on secret boardroom talks but on open, clear, and programmable code. DeFi uses blockchain technology to create a parallel financial world that is open to all, available everywhere, and works without the need for traditional middlemen like banks, brokers, or insurance companies. Instead, it uses smart contracts, which are self-running agreements written in code on a blockchain, to create and manage a wide range of financial products and services. This guide will look at the problems DeFi tries to solve, its main parts, and give a clear view of the huge chances and big risks in this new financial area. If you are new to the space, you might want to read our ' },
+          { type: 'link', href: '/what-is-web3', value: 'guide to Web3' },
+          { type: 'text', value: ' first.' }
         ],
       },
       {
@@ -194,10 +196,10 @@ const articles: Article[] = [
       {
         type: 'keyPoints',
         points: [
-          { icon: 'decentralization', title: 'Decentralized Exchanges (DEXs)', description: 'Platforms like Uniswap, Curve, and PancakeSwap let users trade digital assets directly from their wallets. Instead of traditional order books, most DEXs use Automated Market Makers (AMMs), which are smart contracts that hold pools of assets and make trades based on a math formula.' },
-          { icon: 'blockchain', title: 'Lending & Borrowing Protocols', description: 'Protocols like Aave and Compound act as decentralized money markets. Users can lend their crypto assets to earn interest or put up their assets as collateral to borrow other assets. Interest rates are set by a formula based on supply and demand in the protocol.' },
-          { icon: 'trustless', title: 'Stablecoins', description: 'The foundation of DeFi. Stablecoins are cryptocurrencies made to keep a stable value by linking to an outside asset, usually the US Dollar. Coins like USDC, USDT, and the decentralized DAI are key for reducing the price swings of other crypto assets and act as a reliable way to trade.' },
-          { icon: 'ownership', title: 'Liquid Staking', description: 'Protocols like Lido and Rocket Pool solve the problem of staked assets (crypto locked up to help secure a network) not being usable. They let users stake their tokens and get a liquid, tokenized version back (e.g., stETH for ETH). This token can then be used in other DeFi protocols, freeing up money.' },
+          { icon: 'decentralization', title: 'Decentralized Exchanges (DEXs)', description: [{ type: 'text', value: 'Platforms like Uniswap, Curve, and PancakeSwap let users trade digital assets directly from their wallets. Instead of traditional order books, most DEXs use Automated Market Makers (AMMs), which are smart contracts that hold pools of assets and make trades based on a math formula.' }] },
+          { icon: 'blockchain', title: 'Lending & Borrowing Protocols', description: [{ type: 'text', value: 'Protocols like Aave and Compound act as decentralized money markets. Users can lend their crypto assets to earn interest or put up their assets as collateral to borrow other assets. Interest rates are set by a formula based on supply and demand in the protocol.' }] },
+          { icon: 'trustless', title: 'Stablecoins', description: [{ type: 'text', value: 'The foundation of DeFi. Stablecoins are cryptocurrencies made to keep a stable value by linking to an outside asset, usually the US Dollar. Coins like USDC, USDT, and the decentralized DAI are key for reducing the price swings of other crypto assets and act as a reliable way to trade.' }] },
+          { icon: 'ownership', title: 'Liquid Staking', description: [{ type: 'text', value: 'Protocols like Lido and Rocket Pool solve the problem of staked assets (crypto locked up to help secure a network) not being usable. They let users stake their tokens and get a liquid, tokenized version back (e.g., stETH for ETH). This token can then be used in other DeFi protocols, freeing up money.' }] },
         ]
       },
       {
