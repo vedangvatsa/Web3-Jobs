@@ -1,5 +1,5 @@
 ---
-title: 'Careers: Job Opportunities in Decentralized Finance'
+title: 'Job Opportunities in Decentralized Finance'
 image: 'https://images.unsplash.com/photo-1459180129673-eefb56f79b45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJlZXJ8ZW58MHx8fHwxNzU0OTUzMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'A deep dive into the career landscape of Decentralized Finance (DeFi). Explore the key roles, from smart contract engineering to quantitative analysis, and learn what it takes to work in this innovative sector.'
 category: 'Career Guides'
