@@ -6,8 +6,7 @@ import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
-import { Send, Rss } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Rss } from 'lucide-react';
 
 export default async function Home() {
   const initialJobs = await getJobs();
@@ -27,7 +26,8 @@ export default async function Home() {
           </section>
 
           <div className="max-w-6xl mx-auto">
-             <div className="text-center mb-6">
+            <TrustedBy />
+             <div className="text-center my-6 p-4 rounded-lg bg-secondary/50">
                 <Link
                   href="https://t.me/web3hiring"
                   target="_blank"
@@ -38,7 +38,6 @@ export default async function Home() {
                   <span>Join our Telegram feed with <strong>56,000+</strong> subscribers.</span>
                 </Link>
              </div>
-            <TrustedBy />
             <JobBoard initialJobs={initialJobs} />
           </div>
         </div>
