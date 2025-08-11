@@ -1,5 +1,5 @@
 ---
-title: 'From Web2 to Web3 A Transition Guide for Developers'
+title: 'From Web2 to Web3: A Transition Guide for Developers'
 image: 'https://images.unsplash.com/photo-1528901166007-3784c7dd3653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxEZXZlbG9wZXJzfGVufDB8fHx8MTc1NDk1MzcxN3ww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Are you a Web2 developer curious about a career in Web3? This guide breaks down the key mindset shifts, the essential new technologies to learn, and a practical roadmap for making the transition.'
 category: 'Getting Started'
@@ -90,7 +90,7 @@ Here is a structured, step-by-step path to make the transition.
 
 **Goal:** Build a full-stack DApp and start thinking about security.
 
-1.  **Learn The Graph (Optional but Recommended):** Learn how to create a simple subgraph to index the events from the ERC-20 token contract you built in Month 2. Update your frontend to fetch data from the subgraph instead of directly from the chain.
+1.  **Learn The Graph (Optional but Recommended):** Learn how to create a simple subgraph to index the events from the ERC-20 token you built in Month 2. Update your frontend to fetch data from the subgraph instead of directly from the chain.
 2.  **Start Learning Security:** This is a career-long journey, but you can start now.
     -   Read about the most common smart contract vulnerabilities (reentrancy, integer overflows, oracle manipulation).
     -   Study the Secureum bootcamp materials or the Ethernaut CTF (Capture The Flag) challenges.
