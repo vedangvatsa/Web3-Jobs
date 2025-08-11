@@ -15,13 +15,25 @@ A career in DeFi is not for the faint of heart. It's a high-stakes environment w
 
 The DeFi ecosystem is a complex tapestry of interconnected protocols, each serving a specific function. Understanding these categories is key to finding your niche.
 
-| DeFi Category | Description | Example Protocols |
-| :--- | :--- | :--- |
-| **Decentralized Exchanges (DEXs)** | Platforms for peer-to-peer trading of crypto assets without a central order book. | Uniswap, Curve, dYdX |
-| **Lending & Borrowing** | Protocols that allow users to lend their assets to earn interest or borrow against their collateral. | Aave, Compound, MakerDAO |
-| **Asset Management / Yield** | "Yield aggregators" that automatically move user funds between different DeFi protocols to maximize returns. | Yearn Finance, Convex Finance |
-| **Derivatives** | Platforms for creating synthetic assets, options, and futures on the blockchain. | Synthetix, GMX, Perpetual Protocol |
-| **Infrastructure & Oracles** | Services that provide essential data (like real-world asset prices) to smart contracts. | Chainlink, The Graph |
+### Decentralized Exchanges (DEXs)
+**Description:** Platforms for peer-to-peer trading of crypto assets without a central order book.
+**Example Protocols:** Uniswap, Curve, dYdX
+
+### Lending & Borrowing
+**Description:** Protocols that allow users to lend their assets to earn interest or borrow against their collateral.
+**Example Protocols:** Aave, Compound, MakerDAO
+
+### Asset Management / Yield
+**Description:** "Yield aggregators" that automatically move user funds between different DeFi protocols to maximize returns.
+**Example Protocols:** Yearn Finance, Convex Finance
+
+### Derivatives
+**Description:** Platforms for creating synthetic assets, options, and futures on the blockchain.
+**Example Protocols:** Synthetix, GMX, Perpetual Protocol
+
+### Infrastructure & Oracles
+**Description:** Services that provide essential data (like real-world asset prices) to smart contracts.
+**Example Protocols:** Chainlink, The Graph
 
 Jobs can be found at the protocol level (working for the DAO or company that builds the protocol) or in the surrounding ecosystem (at venture capital firms, security audit firms, or data analytics platforms that focus on DeFi).
 
