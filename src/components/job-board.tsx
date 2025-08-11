@@ -45,7 +45,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
 
   return (
     <div>
-      <div className="mb-10 max-w-2xl mx-auto">
+      <div className="mb-10 max-w-2xl mx-auto pt-8">
         <div className="relative">
             <Input
             placeholder="Search by role, company, keyword..."

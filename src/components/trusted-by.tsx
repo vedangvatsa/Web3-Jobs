@@ -12,7 +12,7 @@ export function TrustedBy() {
     ];
 
     return (
-        <section className="py-12 sm:py-16 lg:py-20">
+        <section className="pb-12">
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-col items-center">
                     <h2 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase">
