@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'solana-developer-careers',
     title: 'Careers in the Solana Ecosystem: A Developer\'s Guide',
-    image: 'https://images.unsplash.com/photo-1641579281162-429993318265?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1641828833935-24b56b824d5e?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A deep dive into the Solana developer ecosystem. Learn about the skills, tools, and job opportunities available for Rust developers on this high-speed blockchain.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'While Ethereum might be the largest smart contract platform, the Solana ecosystem has carved out a major niche for itself by focusing on one thing: speed. Its high transaction throughput and low fees have made it a favorite for applications that require high performance, like DeFi, payments, and certain types of games. This has created a booming job market for developers with the right skills, especially those proficient in Rust.' }] },

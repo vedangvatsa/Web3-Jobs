@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'non-technical-roles-in-crypto',
     title: 'Exploring Non-Technical Roles in Crypto',
-    image: 'https://images.unsplash.com/photo-1639322537504-6427a16b0a28?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642427749670-f20e2e76f8c8?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'You don\'t have to be a coder to work in Web3. This guide explores the wide range of non-technical roles available, from marketing to community, product and beyond.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'There\'s a big myth that the crypto and Web3 space is only for developers. That couldn\'t be more wrong. As the industry grows up, the demand for non-technical pros isn\'t just growing; it\'s exploding. These jobs are the glue that allows projects to grow, succeed, and reach regular people.' }] },

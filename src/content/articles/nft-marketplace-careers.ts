@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'nft-marketplace-careers',
     title: 'NFT Marketplace Careers: A Guide to the Creator Economy',
-    image: 'https://images.unsplash.com/photo-1622737133809-d95047b9e673?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1640622308238-705973cd5542?w=600&h=400&auto=format&fit=crop',
     description: 'The world of NFTs is more than just digital art. This guide explores the variety of careers available in the NFT space, including roles in engineering, curation, and community.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Non-Fungible Tokens (NFTs) have gone from a niche tech concept to a global cultural phenomenon. They\'ve reshaped the digital world, creating a vibrant new economy for art, collectibles, music, and gaming assets. This explosion has led to the rise of NFT marketplaces, which are the busy hubs of this new creator economy. These platforms aren\'t just simple websites; they are complex centers of technology, culture, and finance.' }] },

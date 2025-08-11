@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-devrel-careers',
     title: 'A Guide to Developer Relations (DevRel) in Web3',
-    image: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1579820010410-c10411aaaa88?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the crucial role of Developer Relations in the Web3 ecosystem. Learn about the skills needed to support and grow a community of blockchain developers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In any technology platform, developers are the lifeblood. They are the ones who build the applications that attract users and create value. In Web3, this is even more true. A protocol or blockchain with no developers is just a ghost town. This is why the role of Developer Relations, or DevRel, is one of the most critical and strategic functions in the entire ecosystem.' }] },

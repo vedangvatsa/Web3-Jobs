@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-gaming-jobs',
     title: 'The Ultimate Guide to Web3 Gaming Jobs',
-    image: 'https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1580234811497-9df7fd2f357e?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the exciting world of Web3 gaming careers. From game developers to economy designers, find out how to get a job in the blockchain gaming industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Blockchain technology is set to shake up the multi-billion dollar gaming industry. By enabling true ownership of in-game assets (as NFTs), creating player-driven economies, and allowing for games to interact with each other, Web3 is creating a new kind of gaming that gives more power and value to the players.' }] },

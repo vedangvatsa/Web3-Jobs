@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'crypto-data-analyst-jobs',
     title: 'How to Become a Data Analyst in the Crypto Industry',
-    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A career guide for data analysts in Web3. Learn about the tools (like Dune Analytics), skills (like SQL), and opportunities for data professionals in crypto.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Blockchains are public, transparent databases. Every transaction, every trade, and every vote is recorded on-chain for the entire world to see. This has created an unprecedented explosion of open data and a massive demand for data analysts who can turn this raw information into actionable insights. In Web3, data isn\'t just a byproduct; it\'s a core part of the ecosystem.' }] },

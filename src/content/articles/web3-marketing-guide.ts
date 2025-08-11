@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-marketing-guide',
     title: 'Web3 Marketing: A Guide to Strategies for a Decentralized World',
-    image: 'https://images.unsplash.com/photo-1642427749670-f20e2e76f8c8?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Learn how to market a Web3 project in this in-depth guide. We cover the unique challenges and opportunities of marketing in the crypto and blockchain space.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Marketing in the Web3 space is totally different from traditional Web2 marketing. The audience is hyper-intelligent, deeply skeptical of advertising, and values authenticity and community above all else. The old playbook of paid ads, gated content, and slick campaigns isn\'t just ineffective; it can actually hurt a project\'s reputation. To succeed, Web3 marketers have to throw out the old rules and embrace a new set of strategies native to the crypto culture.' }] },
