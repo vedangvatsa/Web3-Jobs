@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-developer-salary-guide',
     title: 'Web3 Developer Salary Guide: An In-Depth Analysis',
-    image: 'https://images.unsplash.com/photo-1640622300473-97743583c0f6?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A comprehensive guide to Web3 developer salaries. We cover salary expectations, equity, tokens, and negotiation strategies for blockchain developers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Web3 development is one of the highest-paying fields in tech right now. The high demand for a very specific set of skills combined with a small talent pool has pushed salaries way up. But figuring out compensation in this space can be tricky, since it\'s often more than just a base salary.' }] },
