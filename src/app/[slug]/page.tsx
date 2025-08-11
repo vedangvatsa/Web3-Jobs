@@ -82,20 +82,6 @@ const renderBlock = (block: any, index: number) => {
       return <ul key={index} className="list-disc list-inside mb-4 pl-4 space-y-2">{block.children.map((li: any, i: number) => <li key={i}>{li.children.map(renderNode)}</li>)}</ul>;
     case 'blockquote':
         return <blockquote key={index} className="border-l-4 border-primary pl-4 italic my-6"><div className="flex flex-col gap-y-2">{block.children.map((p:any, i: number) => <p key={i}>{p.children.map(renderNode)}</p>)}</div></blockquote>
-    case 'image':
-      return (
-        <figure key={index} className="my-8">
-            <Image
-                src={block.src}
-                alt={block.alt}
-                width={800}
-                height={400}
-                className="rounded-lg shadow-lg mx-auto"
-                data-ai-hint={block['data-ai-hint']}
-            />
-            {block.caption && <figcaption className="text-center text-muted-foreground text-sm mt-2">{block.caption}</figcaption>}
-        </figure>
-      );
     case 'cta':
         return (
             <div key={index} className="my-8 text-center">
