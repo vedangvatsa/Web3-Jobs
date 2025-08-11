@@ -16,7 +16,7 @@ A career in DeFi is not for the faint of heart. It's a high-stakes environment w
 The DeFi ecosystem is a complex tapestry of interconnected protocols, each serving a specific function. Understanding these categories is key to finding your niche.
 
 | DeFi Category | Description | Example Protocols |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | **Decentralized Exchanges (DEXs)** | Platforms for peer-to-peer trading of crypto assets without a central order book. | Uniswap, Curve, dYdX |
 | **Lending & Borrowing** | Protocols that allow users to lend their assets to earn interest or borrow against their collateral. | Aave, Compound, MakerDAO |
 | **Asset Management / Yield** | "Yield aggregators" that automatically move user funds between different DeFi protocols to maximize returns. | Yearn Finance, Convex Finance |
