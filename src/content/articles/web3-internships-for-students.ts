@@ -30,7 +30,7 @@ export const article: Article = {
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Become a Super-User: Deeply immerse yourself in the ecosystem. Use different DeFi protocols, buy and sell NFTs, and participate in DAO governance votes. You need to be a product expert.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Create Content: Start a blog or Twitter account where you write about what you\'re learning. Explain a DeFi protocol in simple terms, analyze a DAO\'s governance, or review a new NFT project. This content becomes your portfolio and demonstrates your expertise.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Get Involved in a Community: Join the Discord server of a project you like and become a helpful, active member. Answer questions from new users, summarize governance proposals, or provide thoughtful product feedback. This is how you get noticed and build a reputation.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Get Involved in a Community: Join the Discord server of a project you like and become a helpful, active member. Answer questions from new users, summarize a governance proposal, or provide thoughtful product feedback. This is how you get noticed and build a reputation.' }] },
         ]
       },
       { type: 'h2', children: [{ type: 'text', value: 'Where to Find Web3 Internships' }] },
