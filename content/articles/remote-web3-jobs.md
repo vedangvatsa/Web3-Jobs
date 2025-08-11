@@ -26,13 +26,11 @@ Your job search for a remote Web3 role will take place on platforms that are spe
 
 ### Top Job Boards for Remote Web3 Roles
 
-| Platform | Description | Best For |
-| --- | --- | --- |
-| **Web3 Career** | A leading job board with a huge number of listings, filterable by category, location (including remote), and contract type. | All roles, from technical to non-technical. |
-| **CryptoJobsList** | One of the oldest and most well-known crypto job boards with a strong focus on remote positions. | A wide variety of roles, good for seeing what's out there. |
-| **Bankless Jobs** | A job board from the popular Bankless media outlet, featuring curated opportunities from top-tier projects. | High-signal roles, often from well-established DeFi and NFT projects. |
-| **ETHGlobal Jobs** | A platform focused on the Ethereum ecosystem, great for finding roles with a technical focus. | Developers, protocol engineers, and security researchers. |
-| **Specific Project Websites** | Don't underestimate the power of going directly to the source. If you admire a project, check their website for a "Careers" or "Contribute" page. | Targeted applications to projects you're passionate about. |
+- **Web3 Career**: A leading job board with a huge number of listings, filterable by category, location (including remote), and contract type. Best for all roles, from technical to non-technical.
+- **CryptoJobsList**: One of the oldest and most well-known crypto job boards with a strong focus on remote positions. Best for a wide variety of roles, good for seeing what's out there.
+- **Bankless Jobs**: A job board from the popular Bankless media outlet, featuring curated opportunities from top-tier projects. Best for high-signal roles, often from well-established DeFi and NFT projects.
+- **ETHGlobal Jobs**: A platform focused on the Ethereum ecosystem, great for finding roles with a technical focus. Best for developers, protocol engineers, and security researchers.
+- **Specific Project Websites**: Don't underestimate the power of going directly to the source. If you admire a project, check their website for a "Careers" or "Contribute" page. Best for targeted applications to projects you're passionate about.
 
 ### The Unofficial Job Board Twitter and Discord
 

@@ -94,12 +94,12 @@ Similar to Rust, Go is another language favored for building the core infrastruc
 
 **Should you learn it?** If you are interested in the low-level details of how a blockchain network operates and want to contribute to the core clients that power these networks, Go is a fantastic and highly-respected choice.
 
-| Language | Primary Use | Learning Curve | Key Ecosystems |
-| --- | --- | --- | --- |
-| **Solidity** | Smart Contracts | Easy | Ethereum, EVM Chains |
-| **Rust** | Blockchains (L1s) | Hard | Solana, Polkadot, Near |
-| **JavaScript/TS** | Frontends (dApps) | Easy | All |
-| **Python** | Data Analysis, Scripting | Easy | Ethereum, EVM Chains |
-| **Go** | Blockchain Clients | Medium | Ethereum, Cosmos |
+### Language Summary
+
+- **Solidity:** For Smart Contracts. Easy learning curve. Used in Ethereum & EVM Chains.
+- **Rust:** For Blockchains (L1s). Hard learning curve. Used in Solana, Polkadot, Near.
+- **JavaScript/TS:** For Frontends (dApps). Easy learning curve. Used in all ecosystems.
+- **Python:** For Data Analysis & Scripting. Easy learning curve. Used in Ethereum & EVM Chains.
+- **Go:** For Blockchain Clients. Medium learning curve. Used in Ethereum, Cosmos.
 
 Your path into Web3 development will be defined by the language you choose. For most, the journey will start with Solidity and JavaScript, the powerful duo that lets you build full-stack decentralized applications. For those with a passion for performance and systems, Rust and Go offer a path to working on the foundational layer of the new internet. And for the data-inclined, Python provides the tools to uncover insights from the transparent world of on-chain data. Choose the path that excites you most, and start building.

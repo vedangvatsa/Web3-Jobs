@@ -61,12 +61,25 @@ This created a "race to the bottom." As traders flocked to zero-royalty platform
 
 Today, the NFT ecosystem is fragmented. There is no single, universally accepted approach to royalties. However, several solutions and models have emerged.
 
-| Approach | How it Works | Pros | Cons |
-| --- | --- | --- | --- |
-| **Voluntary (The Dominant Model)** | Marketplaces allow collectors to choose whether or not to pay the creator's suggested royalty. | Upholds "true ownership" principle; lower fees for traders. | Devastating for creator income; unreliable. |
-| **Allowlist Enforcement** | The NFT contract includes code that only allows the token to be transferred through marketplaces that are on an "allowlist" of royalty-honoring platforms. | Gives creators more control; can effectively enforce royalties. | Criticized as being anti-decentralization; requires ongoing maintenance of the allowlist. |
-| **Community and Brand** | Creators build a strong community and brand, making collectors *want* to pay royalties to support the artist and maintain their status within the community. | Aligns incentives; builds long-term value. | Difficult to achieve; relies on social pressure, not code. |
-| **Evolving Standards** | New token standards are being proposed that attempt to bake royalty enforcement more deeply into the token's logic. | Could provide a more robust technical solution. | Requires widespread adoption by wallets and marketplaces to be effective. |
+### Voluntary (The Dominant Model)
+- **How it Works:** Marketplaces allow collectors to choose whether or not to pay the creator's suggested royalty.
+- **Pros:** Upholds "true ownership" principle; lower fees for traders.
+- **Cons:** Devastating for creator income; unreliable.
+
+### Allowlist Enforcement
+- **How it Works:** The NFT contract includes code that only allows the token to be transferred through marketplaces that are on an "allowlist" of royalty-honoring platforms.
+- **Pros:** Gives creators more control; can effectively enforce royalties.
+- **Cons:** Criticized as being anti-decentralization; requires ongoing maintenance of the allowlist.
+
+### Community and Brand
+- **How it Works:** Creators build a strong community and brand, making collectors *want* to pay royalties to support the artist and maintain their status within the community.
+- **Pros:** Aligns incentives; builds long-term value.
+- **Cons:** Difficult to achieve; relies on social pressure, not code.
+
+### Evolving Standards
+- **How it Works:** New token standards are being proposed that attempt to bake royalty enforcement more deeply into the token's logic.
+- **Pros:** Could provide a more robust technical solution.
+- **Cons:** Requires widespread adoption by wallets and marketplaces to be effective.
 
 ## What Can Creators Do?
 

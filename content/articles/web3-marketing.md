@@ -43,14 +43,12 @@ Web3 is a culture. It has its own language, its own humor, and its own aesthetic
 
 So, how do these principles translate into actionable strategies? Here are the pillars of a successful Web3 marketing plan.
 
-| Strategy | Description | Key Channels |
-| --- | --- | --- |
-| **Community Building** | Creating and nurturing a home for your users and fans. This is the foundation of everything. | Discord, Telegram, Twitter |
-| **Content Marketing** | Educating your audience and establishing your project as a thought leader. | Blog (Mirror.xyz, Paragraph), Twitter, YouTube |
-| **Meme-onomics** | Leveraging humor and cultural inside jokes to build brand affinity and viral loops. | Twitter, Farcaster, Discord |
-| **Influencer Marketing** | Collaborating with respected figures in the space to build credibility. | Twitter, YouTube, Podcasts |
-| **Partnerships (Biz-Dev)** | Integrating with other Web3 projects to tap into their communities and create mutual value. | N/A |
-| **Public Relations (PR)** | Getting coverage in crypto-native media outlets. | Coindesk, The Defiant, Bankless |
+- **Community Building:** Creating and nurturing a home for your users and fans. This is the foundation of everything. Key Channels: Discord, Telegram, Twitter.
+- **Content Marketing:** Educating your audience and establishing your project as a thought leader. Key Channels: Blog (Mirror.xyz, Paragraph), Twitter, YouTube.
+- **Meme-onomics:** Leveraging humor and cultural inside jokes to build brand affinity and viral loops. Key Channels: Twitter, Farcaster, Discord.
+- **Influencer Marketing:** Collaborating with respected figures in the space to build credibility. Key Channels: Twitter, YouTube, Podcasts.
+- **Partnerships (Biz-Dev):** Integrating with other Web3 projects to tap into their communities and create mutual value. Key Channels: N/A.
+- **Public Relations (PR):** Getting coverage in crypto-native media outlets. Key Channels: Coindesk, The Defiant, Bankless.
 
 ### A Deeper Dive into Key Channels
 
