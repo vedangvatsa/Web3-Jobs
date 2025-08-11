@@ -11,8 +11,26 @@ const articles: Article[] = [
       {
         type: 'p',
         children: [
-          { type: 'text', value: 'Web3 represents a paradigm shift from the centralized internet we know today (Web2) to a decentralized ecosystem powered by blockchain technology. At its core, it\'s an attempt to restructure the internet, moving power from large corporations to individual users. This guide will break down the core concepts of Web3 and explain why it matters.' },
+          { type: 'text', value: 'Web3 represents a fundamental paradigm shift from the centralized, corporate-controlled internet (Web2) to a decentralized ecosystem powered by blockchains. At its core, it’s an ambitious attempt to re-architect the web, shifting power from a handful of tech giants to individual users and creators. This guide will break down the core concepts of Web3, explore its philosophical underpinnings, and explain why it promises a more open and equitable digital future.' },
         ],
+      },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'The Journey from Web1 to Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'To understand Web3, we must first look at its predecessors:' }
+        ],
+      },
+      {
+        type: 'ul',
+        children: [
+          { type: 'li', children: [{ type: 'text', value: 'Web1 (The Read-Only Web, ~1991-2004): ', style: 'bold' }, { type: 'text', value: 'This was the era of static web pages. Content was created by a select few and consumed by the masses. Interaction was minimal. Think of it as a giant, digital encyclopedia.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Web2 (The Read-Write Web, ~2004-Present): ', style: 'bold' }, { type: 'text', value: 'The rise of social media and user-generated content. Platforms like Facebook, Twitter, and YouTube made it easy for anyone to create and share, but this came at a cost. Our data became the product, stored and monetized in centralized corporate silos.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Web3 (The Read-Write-Own Web): ', style: 'bold' }, { type: 'text', value: 'Web3 introduces a crucial third element: ownership. By leveraging blockchain technology, users can truly own their data, digital assets (like NFTs), and identity. It combines the read/write interactivity of Web2 with the decentralized ethos of Web1.' }] },
+        ]
       },
       {
         type: 'h2',
@@ -21,10 +39,10 @@ const articles: Article[] = [
       {
         type: 'ul',
         children: [
-          { type: 'li', children: [{ type: 'text', value: 'Decentralization: ', style: 'bold' }, { type: 'text', value: 'Instead of data being stored on servers owned by companies like Google or Facebook, it\'s distributed across a peer-to-peer network of computers. This means no single entity has control, which prevents censorship and single points of failure.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Blockchain & Crypto: ', style: 'bold' }, { type: 'text', value: 'Transactions and state changes are recorded on a public, immutable ledger (the blockchain). Cryptocurrencies like Ethereum (ETH) are used as native digital money and to pay for computational resources.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'User-Owned: ', style: 'bold' }, { type: 'text', value: 'Users have true ownership of their digital assets and data, not corporations. This is often managed through self-custodial crypto wallets like MetaMask or Phantom. Your identity and assets are your own.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Permissionless: ', style: 'bold' }, { type: 'text', value: 'Anyone can build on or use the Web3 network. You don\'t need permission from a central authority to create a new app or service, fostering an environment of open innovation.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Decentralization: ', style: 'bold' }, { type: 'text', value: 'Instead of data being stored on servers owned by a single company, it\'s distributed across a global network of computers. This creates a resilient, censorship-resistant foundation where no single entity has control.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Blockchain & Crypto: ', style: 'bold' }, { type: 'text', value: 'Blockchains like Ethereum act as a global "state machine." They are transparent, immutable ledgers that track transactions and the state of applications. Cryptocurrencies are the native economic layer, enabling value transfer and incentivizing network participants.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Verifiable & Trustless: ', style: 'bold' }, { type: 'text', value: 'Because the logic is encoded in open-source smart contracts on a public blockchain, users can verify the rules of an application themselves. You don\'t have to trust a company; you just have to trust the code.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Self-Custody & Digital Ownership: ', style: 'bold' }, { type: 'text', value: 'Users manage their own assets and identity through cryptographic wallets (e.g., MetaMask). This is the key to true ownership. Your assets are in your wallet, not on a company\'s database, and only you can access them with your private keys.' }] },
         ],
       },
       {
@@ -35,35 +53,53 @@ const articles: Article[] = [
         caption: 'Web3 distributes control, moving away from centralized authorities.'
       },
       {
-        type: 'h3',
-        children: [{ type: 'text', value: 'Web3 vs. Web2: What\'s the Difference?' }],
-      },
-      {
-        type: 'p',
-        children: [
-            { type: 'text', value: 'In Web2, large tech companies act as intermediaries. They provide services in exchange for your data, which they monetize. You interact on their platforms, subject to their rules and algorithms. Web3 removes these intermediaries. You interact directly with the protocol, and your digital identity is portable across different applications. ' }
-        ],
-      },
-      {
         type: 'blockquote',
         children: [
             {
                 type: 'p',
                 children: [
-                    { type: 'text', value: "Think of it this way: In Web2, you are the product. In Web3, you are the owner." }
+                    { type: 'text', value: "In Web2, you are the product. In Web3, you are the owner." }
                 ]
             }
         ]
       },
       {
         type: 'h2',
-        children: [{ type: 'text', value: 'Challenges and Criticisms' }],
+        children: [{ type: 'text', value: 'What Does Web3 Actually Look Like?' }],
+      },
+       {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Web3 isn\'t just a theory; it\'s a rapidly growing ecosystem of applications:' }
+        ],
+      },
+      {
+        type: 'ul',
+        children: [
+            { type: 'li', children: [{ type: 'text', value: 'DeFi (Decentralized Finance): ', style: 'bold' }, { type: 'text', value: 'Financial services like lending, borrowing, and trading built on open protocols. (See our separate guide on DeFi for more!)'}] },
+            { type: 'li', children: [{ type: 'text', value: 'NFTs (Non-Fungible Tokens): ', style: 'bold' }, { type: 'text', value: 'Provably unique digital assets representing ownership of art, collectibles, in-game items, or even real-world assets.'}] },
+            { type: 'li', children: [{ type: 'text', value: 'DAOs (Decentralized Autonomous Organizations): ', style: 'bold' }, { type: 'text', value: 'Internet-native organizations where members vote on decisions and manage collective resources using tokens.'}] },
+            { type: 'li', children: [{ type: 'text', value: 'Decentralized Social Media: ', style: 'bold' }, { type: 'text', value: 'Platforms like Farcaster and Lens Protocol aim to give users control over their social graph and content, free from the whims of a central algorithm.'}] },
+        ]
+      },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'The Challenges on the Horizon' }],
       },
       {
         type: 'p',
         children: [
-          { type: 'text', value: 'Web3 is not without its challenges. The user experience can be complex for newcomers, transaction fees (known as "gas fees") can be high on popular networks, and the technology is still maturing. Scalability is a major hurdle that developers are actively working to solve through solutions like Layer 2s. Furthermore, the space has seen its share of scams and hacks, highlighting the need for caution and robust security.' }
+          { type: 'text', value: 'Web3 is not a utopia. The path to a decentralized future is fraught with significant challenges:' }
         ],
+      },
+       {
+        type: 'ul',
+        children: [
+            { type: 'li', children: [{ type: 'text', value: 'User Experience (UX): ', style: 'bold' }, { type: 'text', value: 'Using Web3 applications can be daunting. Managing wallets, seed phrases, and gas fees is a major hurdle for mainstream adoption.'}] },
+            { type: 'li', children: [{ type: 'text', value: 'Scalability: ', style: 'bold' }, { type: 'text', value: 'Blockchains like Ethereum can only process a limited number of transactions per second, leading to high fees during peak demand. Solutions like Layer 2 rollups are actively being developed to address this.'}] },
+            { type: 'li', children: [{ type: 'text', value: 'Security & Scams: ', style: 'bold' }, { type: 'text', value: 'The self-custody nature of Web3 means users are fully responsible for their security. Phishing attacks, smart contract bugs, and scams are rampant.'}] },
+            { type: 'li', children: [{ type: 'text', value: 'Regulation: ', style: 'bold' }, { type: 'text', value: 'Governments around the world are still figuring out how to approach this new technology, creating an uncertain regulatory landscape.'}] },
+        ]
       },
        {
         type: 'p',
@@ -82,20 +118,46 @@ const articles: Article[] = [
       {
         type: 'p',
         children: [
-          { type: 'text', value: 'Decentralized Finance, or DeFi, is a fast-growing sector of the crypto industry. It aims to recreate the entire traditional financial system—from lending and borrowing to insurance and trading—using decentralized, permissionless blockchain technology. It uses smart contracts—self-executing contracts with the terms of the agreement directly written into code—to create financial services that are open, transparent, and accessible to anyone with an internet connection.' },
+          { type: 'text', value: 'Decentralized Finance (DeFi) is one of the most innovative and disruptive sectors within the Web3 ecosystem. It leverages blockchain technology to build a parallel financial system that is open, permissionless, and transparent. Instead of relying on traditional intermediaries like banks, brokerages, and insurers, DeFi uses smart contracts—self-executing code on a blockchain—to create and manage financial products and services.' },
         ],
       },
       {
         type: 'h2',
-        children: [{ type: 'text', value: 'Key DeFi Applications' }],
+        children: [{ type: 'text', value: 'Why DeFi? The Problems with Traditional Finance' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'To appreciate DeFi, it helps to understand the issues it seeks to solve in Traditional Finance (TradFi):' },
+        ],
       },
       {
         type: 'ul',
         children: [
-          { type: 'li', children: [{ type: 'text', value: 'Decentralized Exchanges (DEXs): ', style: 'bold' }, { type: 'text', value: 'Platforms like Uniswap and Sushiswap allow users to trade digital assets directly from their wallets. Instead of a central order book, they use Automated Market Makers (AMMs) to facilitate trades.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Lending & Borrowing: ', style: 'bold' }, { type: 'text', value: 'Protocols like Aave and Compound let users lend out their crypto to earn interest or borrow assets by providing collateral. Interest rates are determined algorithmically based on supply and demand.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Stablecoins: ', style: 'bold' }, { type: 'text', value: 'Cryptocurrencies like USDC and DAI that are pegged to a stable asset (like the US dollar) to minimize volatility and serve as a reliable medium of exchange within the DeFi ecosystem.' }] },
-           { type: 'li', children: [{ type: 'text', value: 'Yield Farming: ', style: 'bold' }, { type: 'text', value: 'A more advanced strategy where users provide liquidity to DeFi protocols in exchange for rewards, often in the form of the protocol\'s governance token. This is a key driver of liquidity in the DeFi space.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Centralization & Gatekeeping: ', style: 'bold' }, { type: 'text', value: 'TradFi is controlled by a few large institutions. They decide who gets access to financial services, often excluding billions of people worldwide.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Inefficiency & Cost: ', style: 'bold' }, { type: 'text', value: 'Transactions can be slow, taking days to settle, and involve numerous middlemen who all take a cut, increasing costs for the end-user.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Opacity & Lack of Transparency: ', style: 'bold' }, { type: 'text', value: 'The inner workings of financial institutions are often a black box, leading to systemic risks as seen in the 2008 financial crisis.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Censorship: ', style: 'bold' }, { type: 'text', value: 'A central authority can freeze your account or block your transactions at will.' }] },
+        ]
+      },
+       {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'DeFi offers a compelling alternative by being globally accessible, transparent by default, and controlled by code rather than by corporate entities.' },
+        ],
+      },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'The Core Components of the DeFi Stack' }],
+      },
+      {
+        type: 'ul',
+        children: [
+          { type: 'li', children: [{ type: 'text', value: 'Decentralized Exchanges (DEXs): ', style: 'bold' }, { type: 'text', value: 'Platforms like Uniswap and Curve allow users to trade digital assets directly from their wallets without a central intermediary. They use Automated Market Makers (AMMs)—pools of assets governed by an algorithm—to facilitate trades instead of traditional order books.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Lending & Borrowing Protocols: ', style: 'bold' }, { type: 'text', value: 'Protocols like Aave and Compound allow users to lend their crypto to earn interest or borrow assets by supplying collateral. Interest rates are determined algorithmically based on real-time supply and demand.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Stablecoins: ', style: 'bold' }, { type: 'text', value: 'The bedrock of DeFi. These are cryptocurrencies like USDC and DAI, which are pegged to a stable asset (like the US dollar) to minimize volatility and serve as a reliable medium of exchange.' }] },
+           { type: 'li', children: [{ type: 'text', value: 'Liquid Staking: ', style: 'bold' }, { type: 'text', value: 'Protocols like Lido allow users to stake their assets (e.g., ETH) to help secure the network and earn rewards, while receiving a liquid token representation (e.g., stETH) that can be used elsewhere in DeFi. This unlocks liquidity that would otherwise be locked up.' }] },
+           { type: 'li', children: [{ type: 'text', value: 'Derivatives & Synthetics: ', style: 'bold' }, { type: 'text', value: 'Platforms like Synthetix and GMX enable the creation of synthetic assets that track the price of real-world assets (like stocks or commodities) and allow for on-chain perpetual futures trading.' }] },
         ],
       },
        {
@@ -103,32 +165,33 @@ const articles: Article[] = [
         src: 'https://placehold.co/800x400.png',
         alt: 'An illustration of DeFi concepts like lending and trading.',
         'data-ai-hint': 'financial technology blockchain',
-        caption: 'DeFi applications are rebuilding finance on the blockchain.'
+        caption: 'DeFi applications are often called "money legos" because they can be combined in novel ways.'
       },
       {
         type: 'h2',
-        children: [{ type: 'text', value: 'The Risks and Rewards' }],
-      },
-      {
-        type: 'h3',
-        children: [{ type: 'text', value: 'Rewards' }],
-      },
-      {
-        type: 'p',
-        children: [
-          { type: 'text', value: 'DeFi offers unparalleled accessibility—anyone can access these financial services without needing a bank account. It also provides transparency, as all transactions are public on the blockchain. The potential for high yields on lending and liquidity provision is a major draw for investors.' }
-        ],
-      },
-      {
-        type: 'h3',
-        children: [{ type: 'text', value: 'Risks' }],
+        children: [{ type: 'text', value: 'The Unavoidable Risks of an Open System' }],
       },
        {
         type: 'p',
         children: [
-          { type: 'text', value: 'However, the risks are significant. Smart contract bugs can lead to catastrophic losses of funds, as has been seen in numerous hacks. "Impermanent loss" is a unique risk for liquidity providers in AMMs. Additionally, the regulatory landscape is still uncertain, and the high volatility of crypto assets can lead to rapid liquidations for borrowers. It is crucial to do your own research and never invest more than you are willing to lose.' }
+          { type: 'text', value: 'While revolutionary, DeFi is the "Wild West" of finance, and the risks are substantial and varied:' }
         ],
       },
+       {
+        type: 'ul',
+        children: [
+          { type: 'li', children: [{ type: 'text', value: 'Smart Contract Risk: ', style: 'bold' }, { type: 'text', value: 'Bugs or vulnerabilities in a protocol\'s code can be exploited by hackers, leading to a complete loss of funds. Audits help but are not a guarantee of safety.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Impermanent Loss: ', style: 'bold' }, { type: 'text', value: 'A unique risk for liquidity providers in AMMs, where the value of their deposited assets can decrease relative to just holding them in their wallet due to price volatility.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Volatility & Liquidation: ', style: 'bold' }, { type: 'text', value: 'The high volatility of crypto assets can lead to rapid liquidations for borrowers if the value of their collateral drops below a certain threshold.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'MEV (Maximal Extractable Value): ', style: 'bold' }, { type: 'text', value: 'Advanced traders can exploit the order of transactions in a block to profit at the expense of ordinary users through strategies like front-running and sandwich attacks.' }] },
+        ]
+      },
+      {
+        type: 'p',
+        children: [
+            { type: 'text', value: 'DeFi represents a profound shift in how we think about financial services. It is a world of immense opportunity and significant risk. As the technology matures and the user experience improves, it has the potential to create a more inclusive and efficient global financial system. However, it demands caution, education, and a clear understanding of the dangers involved. Always do your own research and never invest more than you are willing to lose.' }
+        ]
+      }
     ],
   },
 ];
@@ -142,3 +205,5 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   // In a real app, this would fetch a single article
   return articles.find((article) => article.slug === slug);
 }
+
+    
