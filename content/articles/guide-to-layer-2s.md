@@ -1,6 +1,6 @@
 ---
 title: 'A Guide to Layer 2 Scaling Solutions: The Future of Ethereum'
-image: 'https://placehold.co/1200x630.png'
+image: 'https://images.unsplash.com/photo-1620321023374-d1a68fbc720d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxFdGhlcmV1bXxlbnwwfHx8fDE3NTQ5NTU2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Why are Layer 2s like Arbitrum, Optimism, and Polygon so important? This guide explains the different types of L2s (rollups, sidechains) and how they make Ethereum faster and cheaper.'
 category: 'Technology Deep Dives'
 ---
