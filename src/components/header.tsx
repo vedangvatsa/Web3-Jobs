@@ -6,7 +6,6 @@ import Link from 'next/link';
 
 export function Header() {
     const navLinks = [
-        { href: "/articles", label: "Articles" },
         { href: "https://t.me/web3hiring", label: "Feed", target: "_blank" },
         { href: "https://t.me/hashtagweb3", label: "Discuss", target: "_blank" },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank" },
