@@ -1,5 +1,5 @@
 ---
-title: 'How to Land Your First Web3 Job A Step-by-Step Guide'
+title: 'How to Land Your First Web3 Job'
 image: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8am9ifGVufDB8fHx8MTc1NDk1MTE5OHww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Your ultimate guide to breaking into the Web3 industry. Learn how to build the right skills, create a standout portfolio, network effectively, and ace the interview.'
 category: 'Career Guides'
