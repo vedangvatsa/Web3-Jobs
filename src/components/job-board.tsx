@@ -31,13 +31,13 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
 
   return (
     <div>
-      <div className="mb-12">
+      <div className="mb-8 max-w-4xl mx-auto">
         <div className="relative">
             <Input
             placeholder="Search by role, company, keyword..."
             value={searchQuery}
             onChange={handleSearchChange}
-            className="w-full text-base pl-12 h-14 rounded-full shadow-lg focus-visible:ring-offset-4"
+            className="w-full text-base pl-12 h-12 rounded-full shadow-lg focus-visible:ring-offset-4"
             />
             <Search className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground"/>
         </div>
@@ -57,7 +57,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
             </div>
 
             {!isPending && filteredJobs.length === 0 && (
-                <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full">
+                <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full mt-8">
                     <h3 className="text-xl font-semibold">No Jobs Found</h3>
                     <p className="text-muted-foreground mt-2">Try adjusting your search query.</p>
                 </div>

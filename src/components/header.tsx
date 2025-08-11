@@ -18,28 +18,28 @@ export function Header() {
 
     return (
         <header className="sticky top-0 z-30 w-full border-b bg-background/80 backdrop-blur-sm">
-            <div className="container mx-auto flex h-20 items-center justify-between px-4">
+            <div className="container mx-auto flex h-16 items-center justify-between px-4">
                 <Link href="/" className="text-xl font-bold tracking-tight text-foreground" aria-label="Hashtag Web3 Homepage">
                     Hashtag Web3
                 </Link>
                 
                 {/* Desktop Navigation */}
-                <nav className="hidden md:flex items-center gap-8 text-base font-medium">
+                <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
                     {navLinks.map((link) => (
                         <a key={link.label} href={link.href} target={link.target} rel={link.target ? "noopener noreferrer" : undefined} className="text-muted-foreground transition-colors hover:text-foreground">
                             {link.label}
                         </a>
                     ))}
-                    <div className="flex items-center gap-5">
+                    <div className="flex items-center gap-4">
                          {socialLinks.map((link) => (
                             <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
-                                <link.icon size={22} />
+                                <link.icon size={20} />
                                 <span className="sr-only">{link.label}</span>
                             </a>
                         ))}
                     </div>
                     <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
-                        <Button size="lg">Post a Job</Button>
+                        <Button>Post a Job</Button>
                     </a>
                 </nav>
 
@@ -57,12 +57,6 @@ export function Header() {
                                 <Link href="/" className="text-lg font-bold tracking-tight text-foreground" aria-label="Hashtag Web3 Homepage">
                                     Hashtag Web3
                                 </Link>
-                                <SheetClose asChild>
-                                    <Button variant="ghost" size="icon">
-                                        <X className="h-5 w-5" />
-                                        <span className="sr-only">Close menu</span>
-                                    </Button>
-                                </SheetClose>
                             </div>
                             <nav className="flex-grow flex flex-col p-4">
                                 <div className="flex-grow space-y-2">
