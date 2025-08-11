@@ -57,9 +57,11 @@ export function Header() {
                                 <Link href="/" className="text-lg font-bold tracking-tight text-foreground" aria-label="Hashtag Web3 Homepage">
                                     Hashtag Web3
                                 </Link>
-                                <SheetClose>
-                                    <X className="h-6 w-6 text-muted-foreground" />
-                                    <span className="sr-only">Close</span>
+                                <SheetClose asChild>
+                                    <Button variant="ghost" className="h-6 w-6 p-0">
+                                      <X className="h-6 w-6 text-muted-foreground" />
+                                      <span className="sr-only">Close</span>
+                                    </Button>
                                 </SheetClose>
                             </div>
                             <nav className="flex-grow flex flex-col p-4">
