@@ -1,7 +1,7 @@
 ---
-title: 'Beyond the Hype Understanding Web3 Company Culture'
+title: 'Understanding Web3 Company Culture'
 image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxDb21wYW55JTIwQ3VsdHVyZXxlbnwwfHx8fDE3NTQ5NTEyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080'
-description: 'What is it really like to work in Web3? Explore the unique cultural traits of crypto companies, from radical transparency and remote work to community governance.'
+description: 'What is it really like to work in Web3? Explore the unique cultural traits of crypto companies, from radical transparency and remote work, to community governance.'
 category: 'Industry Insights'
 ---
 
