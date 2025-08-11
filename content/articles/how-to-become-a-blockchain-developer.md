@@ -1,5 +1,5 @@
 ---
-title: 'How to Become a Blockchain Developer in 2024 (A Step-by-Step Roadmap)'
+title: 'How to Become a Blockchain Developer in 2025 (A Step-by-Step Roadmap)'
 image: 'https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTc1NDk1NDQyM3ww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Your complete roadmap to becoming a blockchain developer. This guide covers the essential skills, languages, tools, and projects you need to build a successful career in Web3 engineering.'
 category: 'Getting Started'
