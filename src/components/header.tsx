@@ -12,8 +12,8 @@ export function Header() {
     ];
 
     const socialLinks = [
-        { href: "https://x.com/hashtag_web3", label: "X", icon: Twitter },
-        { href: "https://linkedin.com/company/hashtagweb3", label: "LinkedIn", icon: Linkedin },
+        { href: "https://x.com/hashtag_web3", label: "X", icon: Twitter, 'aria-label': 'Follow us on X' },
+        { href: "https://linkedin.com/company/hashtagweb3", label: "LinkedIn", icon: Linkedin, 'aria-label': 'Follow us on LinkedIn' },
     ]
 
     return (
@@ -32,7 +32,7 @@ export function Header() {
                     ))}
                     <div className="flex items-center gap-4">
                          {socialLinks.map((link) => (
-                            <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
+                            <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
                                 <link.icon size={20} />
                                 <span className="sr-only">{link.label}</span>
                             </a>
@@ -73,7 +73,7 @@ export function Header() {
                                 </a>
                                 <div className="flex items-center justify-center gap-6 mt-6">
                                      {socialLinks.map((link) => (
-                                        <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
+                                        <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
                                             <link.icon size={24} />
                                             <span className="sr-only">{link.label}</span>
                                         </a>

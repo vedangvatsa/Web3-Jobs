@@ -2,6 +2,7 @@
 
 import type { Job } from '@/types';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import type { JobPosting } from 'schema-dts';
 
 export function JobCard({ job }: { job: Job }) {
   return (
