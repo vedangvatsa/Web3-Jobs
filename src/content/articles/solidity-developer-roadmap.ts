@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'solidity-developer-roadmap',
     title: 'The Ultimate Solidity Developer Roadmap: From Beginner to Expert',
-    image: 'https://images.unsplash.com/photo-1621523199595-e7a8379134d2?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://placehold.co/600x400.png',
     description: 'A step-by-step guide to becoming a Solidity developer in 2024. This roadmap covers everything from the basics of Ethereum to advanced smart contract security patterns.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Solidity is the programming language of the Ethereum Virtual Machine (EVM), the heart of the world\'s largest smart contract platform. Becoming a proficient Solidity developer is one of the most direct paths to a high-impact, high-paying career in the Web3 ecosystem. However, the path is steep, and the stakes are incredibly high. A single bug can lead to the loss of millions of dollars in user funds. This roadmap provides a structured, step-by-step guide to navigate the journey from a complete beginner to a seasoned Solidity expert.' }] },
@@ -90,3 +90,4 @@ export const article: Article = {
     ]
 };
 
+    

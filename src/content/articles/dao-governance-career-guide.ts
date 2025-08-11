@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'dao-governance-career-guide',
     title: 'DAO Governance Explained: A Career Guide for the New Digital Nation-States',
-    image: 'https://images.unsplash.com/photo-1518974591523-d9551c69f848?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://placehold.co/600x400.png',
     description: 'A comprehensive guide to careers in DAO governance. Learn about the roles, skills, and opportunities in shaping the future of decentralized organizations.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Autonomous Organizations (DAOs) are one of the most powerful and transformative concepts to emerge from the Web3 ecosystem. They represent a fundamental shift in how organizations are structured, managed, and governed. Instead of a traditional top-down hierarchy, DAOs are digital communities that coordinate and make decisions through a transparent, on-chain voting process using governance tokens.' }] },
@@ -59,3 +59,5 @@ export const article: Article = {
       { type: 'p', children: [{ type: 'text', value: 'A career in DAO governance is a chance to be at the forefront of a new form of human organization. It is challenging, but for those who are passionate about building the future of governance, the opportunity is immense.' }] },
     ]
 };
+
+    

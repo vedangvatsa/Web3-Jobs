@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-resume-guide',
     title: 'How to Build a Web3 Resume That Gets You Hired',
-    image: 'https://images.unsplash.com/photo-1639322537504-6427a16b0a28?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://placehold.co/600x400.png',
     description: 'A practical guide to creating a standout Web3 resume. Learn how to showcase your projects, skills, and on-chain activity to land your dream job.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In the Web3 world, your resume is more than just a document—it\'s a collection of your public work, contributions, and on-chain activity. While a traditional PDF resume is still often required, it serves a different purpose. It\'s a guide that points recruiters to the most important evidence of your skills: your projects, your GitHub, and your public engagement.' }] },
@@ -48,3 +48,5 @@ export const article: Article = {
       ]},
     ]
 };
+
+    

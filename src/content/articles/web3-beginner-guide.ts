@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-beginner-guide',
     title: 'Web3 for Beginners: Understanding the Core Concepts for Your First Job',
-    image: 'https://images.unsplash.com/photo-1639762681057-408e52192e50?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://placehold.co/600x400.png',
     description: 'A foundational guide for anyone new to Web3. We break down the core concepts like blockchain, smart contracts, and wallets to prepare you for your first job in the industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The world of Web3 can seem intimidating from the outside. It\'s an ecosystem filled with new jargon, complex technology, and a fast-paced culture. However, at its core, Web3 is built on a handful of powerful, interconnected ideas. A solid grasp of these foundational concepts is the first and most important step toward launching a successful career in this space, whether you are a developer, a marketer, a designer, or a community manager.' }] },
@@ -48,3 +48,5 @@ export const article: Article = {
       { type: 'p', children: [{ type: 'text', value: 'In this entire process, no company or bank was involved in holding your funds or approving the loan. It was all handled by transparent, open-source code running on a decentralized network. That is the power of Web3.' }] },
     ]
 };
+
+    

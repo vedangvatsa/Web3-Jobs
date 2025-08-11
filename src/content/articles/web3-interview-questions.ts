@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-interview-questions',
     title: 'Top Web3 Interview Questions (And How to Answer Them)',
-    image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://placehold.co/600x400.png',
     description: 'A guide to acing your Web3 interview. We cover common questions for technical and non-technical roles, from smart contracts to DeFi concepts.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'So you\'ve landed a Web3 interview. Congratulations! Now comes the hard part. Web3 interviews are a different beast. They\'re less about abstract algorithm puzzles and more about practical knowledge, your security-first mindset, and your genuine passion for the decentralized world. Whether you\'re a developer or aiming for a non-technical role, preparation is everything.' }] },
@@ -40,3 +40,5 @@ export const article: Article = {
       { type: 'p', children: [{ type: 'text', value: 'How to answer it: Go beyond vanity metrics like Twitter followers. Focus on on-chain metrics that show real usage and product-market fit. Good examples include Total Value Locked (TVL), daily active users, transaction volume, and user retention rate (e.g., what percentage of users who use the protocol in week 1 are still using it in week 4?). Mentioning tools like Dune Analytics shows you know how to get this data.' }] },
     ]
 };
+
+    

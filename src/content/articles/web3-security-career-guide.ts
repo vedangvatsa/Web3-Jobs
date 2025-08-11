@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-security-career-guide',
     title: 'How to Launch a Career in Web3 Security: A Guide for 2024',
-    image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://placehold.co/600x400.png',
     description: 'A deep dive into the high-demand field of Web3 security. This guide covers the essential skills, tools, and mindsets needed for roles from smart contract auditing to threat intelligence.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In the world of Web3, security is not just a feature; it is the foundation upon which the entire ecosystem is built. With billions of dollars locked in smart contracts, the cost of a single security vulnerability can be catastrophic. This has created an unprecedented demand for a new class of professional: the Web3 security expert. These individuals are the guardians of the decentralized economy, working to protect users, protocols, and infrastructure from a constantly evolving landscape of threats.' }] },
@@ -66,3 +66,5 @@ export const article: Article = {
       ]},
     ]
 };
+
+    
