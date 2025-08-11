@@ -45,7 +45,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
 
   return (
     <div>
-      <div className="mb-10 max-w-2xl mx-auto pt-8">
+      <div className="mb-12 max-w-2xl mx-auto pt-8">
         <div className="relative">
             <Input
             placeholder="Search by role, company, keyword..."
@@ -64,7 +64,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
                 </div>
             )}
             
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {filteredJobs.map((job) => (
                     <JobCard key={job.id} job={job} />
                 ))}
