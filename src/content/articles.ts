@@ -445,7 +445,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Transition to Product or Marketing: Your deep, firsthand understanding of the user makes you a very strong candidate for roles in product management or marketing. You know the customer better than anyone.' }] },
         ]
       },
-    ]
+    ],
   },
   {
     slug: 'technical-writing-for-web3',
@@ -483,7 +483,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Specialize in a Niche: As you learn, you may find a particular area of Web3 that you are passionate about, such as DeFi, NFTs, or ZK technology. Becoming a subject matter expert in a specific niche can make you a highly sought-after writer.' }]},
         ]
       },
-    ]
+    ],
   },
   {
     slug: 'web3-marketing-guide',
@@ -524,7 +524,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Focusing on Price and Speculation: While price is important, a marketing strategy that focuses only on the token price will attract the wrong kind of user and create a toxic, short-term oriented community.' }]},
         ]
       },
-    ]
+    ],
   },
   {
     slug: 'remote-web3-jobs',
@@ -563,7 +563,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Demonstrate Passion and Engagement: Companies want to hire people who are genuinely passionate about Web3. Your activity on Twitter, your contributions to DAOs, and the side projects you work on are all signals of this passion.' }]},
         ]
       },
-    ]
+    ],
   },
   {
     slug: 'web3-internships-for-students',
@@ -606,7 +606,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'University Blockchain Clubs: Get involved with your university\'s blockchain club. These clubs often have direct connections with companies and are a primary channel for recruiting interns.' }]},
         ]
       },
-    ]
+    ],
   },
   {
     slug: 'web3-gaming-jobs',
@@ -831,7 +831,7 @@ const articles: Article[] = [
   {
     slug: 'ai-in-web3',
     title: 'The Convergence of AI and Web3: A New Frontier',
-    image: 'https://images.unsplash.com/photo-1678442434829-8134d13f998b?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1696253922752-322030e75556?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An exploration of the intersection of Artificial Intelligence and Web3. Learn about AI-powered dApps, decentralized machine learning, and future job opportunities.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Two of the most powerful technological forces of our time are AI and Web3. On their own, each is already reshaping industries. But what happens when they converge? The intersection of AI and Web3 promises a new wave of innovation, creating more intelligent, autonomous, and decentralized systems. This is a new and exciting frontier, with massive potential for developers, researchers, and entrepreneurs.' }] },
