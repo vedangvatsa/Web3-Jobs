@@ -32,6 +32,11 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Web3 (The Read-Write-Own Web): ', style: 'bold' }, { type: 'text', value: 'Web3 introduces a crucial third element: ownership. By leveraging blockchain technology, users can truly own their data, digital assets (like NFTs), and identity. It combines the read/write interactivity of Web2 with the decentralized ethos of Web1.' }] },
         ]
       },
+       {
+        type: 'cta',
+        text: 'Learn Web3 for free',
+        href: 'https://academy.hashtagweb3.com'
+      },
       {
         type: 'h2',
         children: [{ type: 'text', value: 'The Core Pillars of Web3' }],
@@ -82,6 +87,11 @@ const articles: Article[] = [
             { type: 'li', children: [{ type: 'text', value: 'Decentralized Social Media: ', style: 'bold' }, { type: 'text', value: 'Platforms like Farcaster and Lens Protocol aim to give users control over their social graph and content, free from the whims of a central algorithm.'}] },
         ]
       },
+       {
+        type: 'cta',
+        text: 'Join AI & Web3 Community',
+        href: 'https://t.me/addlist/gkBHozFQkTllOTdl'
+      },
       {
         type: 'h2',
         children: [{ type: 'text', value: 'The Challenges on the Horizon' }],
@@ -106,6 +116,11 @@ const articles: Article[] = [
         children: [
           { type: 'text', value: 'Despite these hurdles, the potential for a more equitable, open, and user-centric internet continues to drive development and attract talent from all over the world. The journey is just beginning.' }
         ],
+      },
+      {
+        type: 'cta',
+        text: 'Find Your Next Web3 Job',
+        href: 'https://t.me/web3hiring'
       }
     ],
   },
@@ -160,6 +175,11 @@ const articles: Article[] = [
            { type: 'li', children: [{ type: 'text', value: 'Derivatives & Synthetics: ', style: 'bold' }, { type: 'text', value: 'Platforms like Synthetix and GMX enable the creation of synthetic assets that track the price of real-world assets (like stocks or commodities) and allow for on-chain perpetual futures trading.' }] },
         ],
       },
+      {
+        type: 'cta',
+        text: 'Web3 Job Feed',
+        href: 'https://t.me/web3hiring'
+      },
        {
         type: 'image',
         src: 'https://placehold.co/800x400.png',
@@ -205,5 +225,3 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   // In a real app, this would fetch a single article
   return articles.find((article) => article.slug === slug);
 }
-
-    
