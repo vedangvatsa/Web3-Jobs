@@ -13,7 +13,7 @@ export function TrustedBy() {
 
     return (
         <section className="pb-8">
-            <div className="mx-auto max-w-4xl px-4">
+            <div className="mx-auto px-4">
                 <div className="flex flex-col items-center">
                     <h2 className="text-center text-xs font-semibold text-muted-foreground tracking-wider uppercase">
                         Jobs from companies like:
@@ -23,12 +23,12 @@ export function TrustedBy() {
                         <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center">
                             {logos.map((logo) => (
                                 <div key={logo.name} className="p-2">
-                                    <div className="relative h-8 w-24">
+                                    <div className="relative h-6 w-24">
                                         <Image 
                                           src={logo.src}
                                           alt={logo.name} 
                                           fill
-                                          className="object-contain transition-opacity hover:opacity-80"
+                                          className="object-contain"
                                           unoptimized
                                         />
                                     </div>
