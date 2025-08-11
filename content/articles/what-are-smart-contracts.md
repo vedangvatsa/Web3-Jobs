@@ -1,5 +1,5 @@
 ---
-title: 'What Are Smart Contracts The Automation Engine of Web3'
+title: 'What Are Smart Contracts: The Automation Engine of Web3'
 image: 'https://images.unsplash.com/photo-1639815188546-c43c240ff4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Discover how smart contracts work, why they are the essential building blocks of decentralized applications, and their impact on industries from finance to law.'
 category: 'Technology Deep Dives'
