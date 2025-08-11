@@ -5,7 +5,7 @@ const articles: Article[] = [
   {
     slug: 'what-is-web3',
     title: 'What is Web3? A Beginner\'s Guide to the Decentralized Internet',
-    image: 'https://images.unsplash.com/photo-1639755498878-444218386e58?q=80&w=1200&h=630&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1665597704311-d7304eaf70ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3ZWIzfGVufDB8fHx8MTc1NDk0ODU1MXww&ixlib=rb-4.1.0&q=80&w=1080',
     description: 'Explore the fundamentals of Web3, the next evolution of the internet built on blockchain technology, decentralization, and user empowerment.',
     content: [
       {
