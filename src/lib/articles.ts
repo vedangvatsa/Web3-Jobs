@@ -178,7 +178,7 @@ const articles: Article[] = [
         type: 'ul',
         children: [
           { type: 'li', children: [{ type: 'text', value: 'Centralization and Gatekeeping: ', style: 'bold' }, { type: 'text', value: 'TradFi is controlled by a few powerful groups that act as gatekeepers. They decide who can get financial services, often leaving out billions of people, especially in developing countries, who don\'t have the right papers or money.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Inefficiency and Cost: ', style: 'bold' }, { type: 'text', value: 'The system is built on old technology, leading to slow transaction times (often taking days) and high costs. Many middlemen, each taking a fee, make everything from sending money overseas to getting a loan more expensive.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Inefficiency and Cost: ', style: 'bold' }, { type: 'text', value: 'The system is built on old technology, leading to slow transaction times (often taking days) and high costs. Many middlemen, each taking a fee, make everything from sending money overseas to get a loan more expensive.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Opacity and Systemic Risk: ', style: 'bold' }, { type: 'text', value: 'The way large financial groups work is often hidden. This lack of clearness can hide big risks, as shown by the 2008 financial crisis, where the complex and hidden nature of derivatives led to a global crash.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Censorship and Control: ', style: 'bold' }, { type: 'text', value: 'In a central system, a government or company can freeze your assets, block your transactions, or kick you off a platform, with little you can do. Your financial freedom depends on their okay.' }] },
         ]
@@ -599,7 +599,7 @@ const articles: Article[] = [
 
       { type: 'h2', children: [{ type: 'text', value: '10. Technical Writer / Content Creator' }] },
       { type: 'p', children: [{ type: 'text', style: 'italic', value: 'The educators who make complex topics understandable.' }] },
-      { type: 'p', children: [{ type:- 'text', value: 'Web3 is complex, and clear, concise documentation is essential for developers and users alike. Technical writers are responsible for creating the documentation, tutorials, and guides that help people understand and use a project. This role is critical for fostering a healthy developer ecosystem.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'Web3 is complex, and clear, concise documentation is essential for developers and users alike. Technical writers are responsible for creating the documentation, tutorials, and guides that help people understand and use a project. This role is critical for fostering a healthy developer ecosystem.' }] },
       { type: 'h3', children: [{ type: 'text', value: 'Key Responsibilities:' }] },
       { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'Writing clear and comprehensive documentation for APIs and smart contracts.' }] },
@@ -615,7 +615,7 @@ const articles: Article[] = [
   {
     slug: 'how-to-land-first-web3-job',
     title: 'How to Land Your First Web3 Job: A Step-by-Step Guide',
-    image: 'https://placehold.co/1200x630.png',
+    image: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8am9ifGVufDB8fHx8MTc1NDk1MTE5OHww&ixlib=rb-4.1.0&q=80&w=1080',
     description: 'Your ultimate guide to breaking into the Web3 industry. Learn how to build the right skills, create a standout portfolio, network effectively, and ace the interview.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 industry is exploding with innovation and opportunity, but for newcomers, it can feel like an impenetrable fortress guarded by complex jargon and a tight-knit community. How do you get your foot in the door? The good news is that the industry is desperate for talent, and a traditional tech background is not always required. What matters most are demonstrable skills, a genuine passion for the space, and a willingness to learn and adapt at lightning speed. This guide will provide a practical, step-by-step roadmap for anyone looking to transition into Web3. We\'ll cover how to build foundational knowledge, what skills to acquire, how to create a portfolio that gets noticed, and how to navigate the unique cultural landscape of the Web3 job market.' }] },
@@ -813,7 +813,7 @@ const articles: Article[] = [
   {
     slug: 'web3-company-culture',
     title: 'Beyond the Hype: Understanding Web3 Company Culture',
-    image: 'https://placehold.co/1200x630.png',
+    image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxDb21wYW55JTIwQ3VsdHVyZXxlbnwwfHx8fDE3NTQ5NTEyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080',
     description: 'What is it really like to work in Web3? Explore the unique cultural traits of crypto companies, from radical transparency and remote work to community governance.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Working in Web3 is unlike working in any other industry. The technology is not the only thing that\'s different; the culture itself is a unique blend of open-source ethos, financial markets, and internet-native communities. Companies (and DAOs) in this space operate with a set of values and norms that can be jarring to those coming from traditional tech or corporate environments. Understanding this culture is not just a "nice to have"—it\'s essential for thriving in a Web3 career. This guide explores the defining characteristics of Web3 company culture, from its obsession with transparency and meritocracy to its remote-first, async-native way of working. We\'ll look at what to expect, how to adapt, and what kind of mindset succeeds in this fast-paced, chaotic, and incredibly exciting environment.' }] },
