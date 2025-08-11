@@ -1,6 +1,6 @@
 ---
 title: "Web3 Gaming (GameFi): The Quest for True Digital Ownership"
-image: "https://placehold.co/1200x630.png"
+image: "https://images.unsplash.com/photo-1522069213448-443a614da9b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnYW1lfGVufDB8fHx8MTc1NDk1NTczN3ww&ixlib=rb-4.1.0&q=80&w=1080"
 description: "An introduction to Web3 gaming. Discover how NFTs and crypto tokens are creating player-owned economies and changing the business model of the video game industry."
 category: "Industry Insights"
 ---
