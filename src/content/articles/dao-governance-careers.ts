@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'dao-governance-careers',
     title: 'Careers in DAO Governance: A Deep Dive',
-    image: 'https://images.unsplash.com/photo-1554224155-169544356368?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1554224154-260328c644b4?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the emerging field of DAO governance. Learn about the roles and responsibilities of DAO contributors, from governance facilitators to delegates.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Autonomous Organizations (DAOs) represent a huge shift in how we organize people and money. They are internet-native, community-led organizations with no central authority, where decisions are made collectively through proposals and voting on a blockchain. This new way of structuring companies has created an entirely new field of work centered around DAO governance.' }] },

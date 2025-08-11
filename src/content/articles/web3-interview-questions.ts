@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-interview-questions',
     title: 'Top Web3 Interview Questions (And How to Answer Them)',
-    image: 'https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A guide to acing your Web3 interview. We cover common questions for technical and non-technical roles, from smart contracts to DeFi concepts.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'So you\'ve landed a Web3 interview. Congratulations! Now comes the hard part. Web3 interviews are a different beast. They\'re less about abstract algorithm puzzles and more about practical knowledge, your security-first mindset, and your genuine passion for the decentralized world. Whether you\'re a developer or aiming for a non-technical role, preparation is everything.' }] },

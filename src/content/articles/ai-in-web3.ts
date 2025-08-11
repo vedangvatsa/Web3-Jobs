@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'ai-in-web3',
     title: 'The Convergence of AI and Web3: A New Frontier',
-    image: 'https://images.unsplash.com/photo-1696253922752-322030e75556?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1677756119517-756a188d2d94?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An exploration of the intersection of Artificial Intelligence and Web3. Learn about AI-powered dApps, decentralized machine learning, and future job opportunities.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Two of the most powerful technological forces of our time are AI and Web3. On their own, each is already reshaping industries. But what happens when they converge? The intersection of AI and Web3 promises a new wave of innovation, creating more intelligent, autonomous, and decentralized systems. This is a new and exciting frontier, with massive potential for developers, researchers, and entrepreneurs.' }] },
