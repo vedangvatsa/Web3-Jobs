@@ -14,7 +14,7 @@ export const article: Article = {
       { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'You Don\'t Have a \'User\'. You Have Stakeholders: In Web2, you optimize for the user. In Web3, you have multiple, often conflicting, stakeholders. Token holders want the price to go up. Liquidity providers want low fees. Traders want high volume. A PM must navigate these competing interests.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Your Product is a Complex Economic System: A DeFi protocol isn\'t just a piece of software; it\'s a micro-economy. A PM must understand game theory, mechanism design, and tokenomics. A bad decision can\'t just create a bad user experience; it can break the entire economic model of the protocol.' }] },
-        { type: 'li', children: [{ type: 'text', value: 'Your Roadmap is Public and Debated: In a DAO, you can\'t just decide on a roadmap in a closed meeting. You often need to write public proposals, debate them in a forum with the community, and get stakeholder buy-in before you can start building. This requires strong communication and persuasion skills.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'Your Roadmap is Public and Debated: In a DAO, you can\'t just decide on a roadmap in a closed meeting. You often need to write public proposals, debate them in a forum with the community, and get stakeholder buy-in before you can start building. This requires strong communication and persuasion skills. Learn more in our ' }, { type: 'link', href: '/articles/dao-governance-career-guide', value: 'guide to DAO governance' }, { type: 'text', value: '.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Immutability and Security are Paramount: You can\'t just \'ship and iterate\' when a bug can lead to the loss of millions of dollars. The technical bar is much higher. A PM needs to have a deep technical understanding and work closely with engineers and auditors to prioritize security above all else.' }] },
       ]},
       { type: 'h2', children: [{ type: 'text', value: 'The Web3 PM Skill Stack' }] },
@@ -23,7 +23,7 @@ export const article: Article = {
       { type: 'h3', children: [{ type: 'text', value: '2. Systems Thinking' }] },
       { type: 'p', children: [{ type: 'text', value: 'You need to be able to see your product not as a set of features, but as a complex, interconnected system. You must be able to reason about feedback loops, incentives, and unintended consequences.' }] },
       { type: 'h3', children: [{ type: 'text', value: '3. Data-Driven Decision Making (with On-Chain Data)' }] },
-      { type: 'p', children: [{ type: 'text', value: 'Great PMs are data-driven. In Web3, this means being proficient with on-chain analytics tools. You need to be able to write basic SQL queries on a platform like Dune Analytics to understand user behavior, track key metrics, and make informed decisions.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'Great PMs are data-driven. In Web3, this means being proficient with on-chain analytics tools. You need to be able to write basic SQL queries on a platform like Dune Analytics to understand user behavior, track key metrics, and make informed decisions. We cover this in our ' }, { type: 'link', href: '/articles/crypto-data-analyst-jobs', value: 'crypto data analyst guide' }, { type: 'text', value: '.' }] },
       { type: 'h3', children: [{ type: 'text', value: '4. Exceptional Communication (Especially Written)' }] },
       { type: 'p', children: [{ type: 'text', value: 'In a remote-first, asynchronous world, clear written communication is a superpower. You need to be able to write detailed product specifications, persuasive governance proposals, and clear blog posts that explain complex topics to a wide audience.' }] },
       { type: 'h3', children: [{ type: 'text', value: '5. Community and Empathy' }] },
@@ -35,5 +35,17 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'Start Contributing: Find a DAO you admire and start contributing. Participate in governance discussions. Provide well-researched product feedback. Write a proposal to improve a small feature. This is how you build a portfolio of \'proof of work\' without having a formal PM job.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Create Content: Start a blog or Twitter thread series where you do product breakdowns of existing dApps. Analyze what they do well and what they could improve. This demonstrates your product sense to potential employers.' }] },
       ]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };

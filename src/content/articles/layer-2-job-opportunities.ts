@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'layer-2-job-opportunities',
     title: 'Layer 2 Scaling Solutions: A Guide to Jobs on Arbitrum, Optimism, and Polygon',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://images.unsplash.com/photo-1642104792644-53b523a7368d?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An in-depth guide to career opportunities within the Layer 2 ecosystem. Learn about the roles and skills in demand at leading L2s like Arbitrum, Optimism, and Polygon.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The single biggest challenge for the Ethereum ecosystem has been scalability. As the network grew in popularity, transaction fees (gas) became prohibitively expensive for many users and applications. Layer 2 scaling solutions (L2s) are the answer to this problem. They are separate blockchains that run "on top" of Ethereum, processing transactions quickly and cheaply, and then posting a summary of those transactions back to the main Ethereum chain for security.' }] },
@@ -19,7 +19,7 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'In-Demand Roles at Layer 2 Companies' }] },
       { type: 'p', children: [{ type: 'text', value: 'The teams building these L2 solutions, like Offchain Labs (Arbitrum), OP Labs (Optimism), and Polygon Labs, are in a fierce competition for top talent. Here are some of the most sought-after roles:' }] },
       { type: 'h3', children: [{ type: 'text', value: '1. Protocol Engineer' }] },
-      { type: 'p', children: [{ type: 'text', value: 'This is the most common and critical role. Protocol engineers work on the core software of the L2 itself. This is a deeply technical backend role that requires expertise in systems programming and distributed systems.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'This is the most common and critical role. Protocol engineers work on the core software of the L2 itself. This is a deeply technical backend role that requires expertise in systems programming and distributed systems. It follows the ' }, { type: 'link', href: '/articles/solidity-developer-roadmap', value: 'Solidity Developer Roadmap' }, { type: 'text', value: ' but at an advanced level.' }] },
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Required Languages: Strong proficiency in Go, Rust, or C++. These are the languages that most blockchain nodes and clients are written in.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Key Responsibilities: Implementing new features in the node software, optimizing performance, improving the consensus mechanism, and fixing complex bugs.' }] },
@@ -27,7 +27,7 @@ export const article: Article = {
       { type: 'h3', children: [{ type: 'text', value: '2. Cryptography / ZK Researcher' }] },
       { type: 'p', children: [{ type: 'text', value: 'This is a highly specialized, research-focused role, particularly for ZK-rollup teams. These individuals have a deep academic background in mathematics and cryptography and are responsible for designing and implementing the next generation of zero-knowledge proof systems.' }] },
       { type: 'h3', children: [{ type: 'text', value: '3. Developer Relations (DevRel) Engineer' }] },
-      { type: 'p', children: [{ type: 'text', value: 'The success of an L2 depends entirely on its ability to attract developers to build on it. The DevRel team is the bridge to that community. A DevRel engineer must be a strong developer themselves, with excellent communication skills. They write documentation, create tutorials, build demo applications, and help developers at hackathons.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'The success of an L2 depends entirely on its ability to attract developers to build on it. The DevRel team is the bridge to that community. A DevRel engineer must be a strong developer themselves, with excellent communication skills. They write documentation, create tutorials, build demo applications, and help developers at hackathons. Learn more in our ' }, { type: 'link', href: '/articles/web3-devrel-careers', value: 'guide to DevRel careers' }, { type: 'text', value: '.' }] },
       { type: 'h3', children: [{ type: 'text', value: '4. Business Development & Partnerships' }] },
       { type: 'p', children: [{ type: 'text', value: 'This is a non-technical role focused on ecosystem growth. The BD team is responsible for bringing established dApps and new projects to the L2. This involves building relationships, negotiating partnerships, and developing co-marketing initiatives. A deep network in the Web3 space is crucial for this role.' }] },
       { type: 'h2', children: [{ type: 'text', value: 'How to Position Yourself for an L2 Career' }] },
@@ -37,7 +37,17 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'Build on an L2: The best way to understand an L2 is to use it. Deploy a personal project to Arbitrum, Optimism, or Polygon. This hands-on experience is invaluable and gives you something concrete to talk about in an interview.' }] },
         { type: 'li', children: [{ type: 'text', value: 'For Non-Technical Roles: Become an expert in the ecosystem. Use the dApps, participate in the governance of the L2s (both Arbitrum and Optimism have DAOs), and write content (blog posts or Twitter threads) analyzing the different L2 solutions. This demonstrates your expertise and passion.' }] },
       ]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };
-
-    

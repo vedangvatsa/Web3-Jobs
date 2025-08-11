@@ -11,10 +11,10 @@ export const article: Article = {
       { type: 'p', children: [{ type: 'text', value: 'An auditor\'s job is to meticulously pick apart smart contract code to find vulnerabilities, design flaws, and potential attack methods before they can be used by bad actors. It is one of the most respected, intellectually challenging, and well-paid career paths in all of Web3. The demand for top-tier auditors is way higher than the supply, creating a massive opportunity for those with the right skills and mindset.' }] },
       { type: 'blockquote', children: [{ type: 'p', children: [{ type: 'text', value: 'This isn\'t a role for the faint of heart; it demands precision, paranoia, and a relentless desire for perfection. But for those who are passionate about security and solving complex puzzles, it\'s an amazing opportunity to make a huge impact on the whole ecosystem.', style: 'italic' }] }] },
       { type: 'h2', children: [{ type: 'text', value: 'The Auditor’s Mindset and Skills' }] },
-      { type: 'p', children: [{ type: 'text', value: 'Becoming a top-tier auditor requires a unique mix of deep technical skill and a specific way of thinking. It\'s not just about what you know, but how you think.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'Becoming a top-tier auditor requires a unique mix of deep technical skill and a specific way of thinking. It\'s not just about what you know, but how you think. This is a key part of all ' }, { type: 'link', href: '/articles/web3-security-career-guide', value: 'Web3 security careers' }, { type: 'text', value: '.' }] },
       { type: 'h3', children: [{ type: 'text', value: 'Core Technical Skills' }] },
       { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'text', value: 'Expert-Level Solidity and EVM Knowledge: You must have a masterful understanding of Solidity and the EVM. This goes beyond just writing contracts; it means understanding low-level opcodes, memory layout, and the subtle details of how the EVM runs code.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Expert-Level Solidity and EVM Knowledge: You must have a masterful understanding of Solidity and the EVM. This goes beyond just writing contracts; it means understanding low-level opcodes, memory layout, and the subtle details of how the EVM runs code. Our ' }, { type: 'link', href: '/articles/solidity-developer-roadmap', value: 'Solidity Developer Roadmap' }, { type: 'text', value: ' can get you started.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Deep Understanding of DeFi Primitives: You can\'t audit what you don\'t understand. You need deep knowledge of Automated Market Makers (AMMs), lending protocols, vaults, derivatives, and other common financial tools. You need to understand their economic assumptions and where they can go wrong.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Proficiency with Testing Frameworks: You must be an expert in modern testing tools like Foundry or Hardhat to write comprehensive tests, including fuzz tests and formal verification.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Knowledge of Common Attack Vectors: You need to have an encyclopedic knowledge of past exploits and common vulnerability patterns, such as reentrancy, oracle manipulation, and integer overflow/underflow.' }]},
@@ -44,5 +44,17 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'Automated Testing: Using static and dynamic analysis tools to automatically detect common issues.' }]},
         { type: 'li', children: [{ type: 'text', value: 'Writing the Report: Documenting all findings, classifying them by severity (Critical, High, Medium, Low), and providing clear recommendations for how to fix them.' }]},
       ]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ],
 };

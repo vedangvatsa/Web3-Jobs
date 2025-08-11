@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'dao-governance-career-guide',
     title: 'DAO Governance Explained: A Career Guide for the New Digital Nation-States',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://images.unsplash.com/photo-1641838823927-8799c43b0185?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A comprehensive guide to careers in DAO governance. Learn about the roles, skills, and opportunities in shaping the future of decentralized organizations.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Autonomous Organizations (DAOs) are one of the most powerful and transformative concepts to emerge from the Web3 ecosystem. They represent a fundamental shift in how organizations are structured, managed, and governed. Instead of a traditional top-down hierarchy, DAOs are digital communities that coordinate and make decisions through a transparent, on-chain voting process using governance tokens.' }] },
@@ -41,9 +41,9 @@ export const article: Article = {
        { type: 'h2', children: [{ type: 'text', 'value': 'The Skillset of a Governance Professional' }] },
        { type: 'p', children: [{ type: 'text', value: 'Success in DAO governance requires a T-shaped skillset: a broad understanding of many domains and deep expertise in at least one.' }] },
        { type: 'ul', children: [
-        { type: 'li', children: [{ type: 'text', value: 'Exceptional Written Communication: Almost all DAO governance happens in writing, on public forums. The ability to write clearly, concisely, and persuasively is the most important skill.' }] },
-        { type: 'li', children: [{ type: 'text', value: 'Technical and Economic Literacy: You don\'t need to be a developer or an economist, but you must be ableto understand technical and financial concepts to participate in complex debates about protocol changes or treasury management.' }] },
-        { type: 'li', children: [{ type: 'text', value: 'Community and Social Skills: You need to be able to build relationships, navigate disagreements, and foster consensus in a diverse, global, and often anonymous community.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'Exceptional Written Communication: Almost all DAO governance happens in writing, on public forums. The ability to write clearly, concisely, and persuasively is the most important skill. This is a key part of ' }, { type: 'link', href: '/articles/technical-writing-for-web3', value: 'technical writing in Web3' }, { type: 'text', value: '.'}] },
+        { type: 'li', children: [{ type: 'text', value: 'Technical and Economic Literacy: You don\'t need to be a developer or an economist, but you must be able to understand technical and financial concepts to participate in complex debates about protocol changes or treasury management.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'Community and Social Skills: You need to be able to build relationships, navigate disagreements, and foster consensus in a diverse, global, and often anonymous community. These skills are also essential for ' }, { type: 'link', href: '/articles/web3-community-manager-jobs', value: 'Web3 Community Managers' }, { type: 'text', value: '.'}] },
         { type: 'li', children: [{ type: 'text', value: 'Deep Domain Expertise: To be a top-tier contributor, you need to be a true expert in a specific area. This could be DeFi risk management, tokenomics, smart contract security, or legal frameworks for DAOs.' }] },
       ]},
       { type: 'h2', children: [{ type: 'text', value: 'How to Build a Career in DAO Governance' }] },
@@ -57,7 +57,17 @@ export const article: Article = {
       { type: 'h3', children: [{ type: 'text', value: 'Step 4: Become a Delegate' }] },
       { type: 'p', children: [{ type: 'text', value: 'Once you are a respected community member, you can apply to become a delegate. Create a delegate profile that outlines your qualifications, your philosophy, and your commitment to the DAO. Getting endorsed by other respected community members is key.' }] },
       { type: 'p', children: [{ type: 'text', value: 'A career in DAO governance is a chance to be at the forefront of a new form of human organization. It is challenging, but for those who are passionate about building the future of governance, the opportunity is immense.' }] },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };
-
-    

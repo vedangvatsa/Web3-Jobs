@@ -13,7 +13,7 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'Why is Technical Writing so Critical in Web3?' }] },
       { type: 'p', children: [{ type: 'text', value: 'In traditional software, good documentation is important. In Web3, it\'s essential. The stakes are higher, and the concepts are more abstract, making clear communication absolutely necessary.' }] },
       { type: 'ul', children: [
-        {type: 'li', children: [{type: 'text', value: 'Developer Adoption: Developers are the lifeblood of any platform. If they can\'t quickly and easily understand how to use your protocol or API from your documentation, they will simply move on to a competitor with a better developer experience.'}]},
+        {type: 'li', children: [{type: 'text', value: 'Developer Adoption: Developers are the lifeblood of any platform. If they can\'t quickly and easily understand how to use your protocol or API from your documentation, they will simply move on to a competitor with a better developer experience. This is the focus of ' }, { type: 'link', href: '/articles/web3-devrel-careers', value: 'Developer Relations (DevRel)' }, { type: 'text', value: '.' }]},
         {type: 'li', children: [{type: 'text', value: 'User Trust and Safety: In a world where users are interacting directly with financial protocols, they need to understand how a dApp works before they are willing to risk their funds. A well-written guide or FAQ can build that trust and prevent costly user errors.'}]},
         {type: 'li', children: [{type: 'text', value: 'Open-Source Ethos: Web3 is built on the principles of open source. Good documentation is a cornerstone of this ethos, as it allows new contributors to understand the codebase, get involved, and help the project grow.'}]},
         {type: 'li', children: [{type: 'text', value: 'Scaling the Team: Internal documentation is just as important as external documentation. Clear, well-maintained internal docs allow teams to onboard new engineers faster and collaborate more effectively.' }]},
@@ -27,7 +27,7 @@ export const article: Article = {
        { type: 'h3', children: [{ type: 'text', value: '3. Whitepapers:' }] },
       { type: 'p', children: [{type: 'text', value: 'This is the foundational document for a new project. It\'s a highly detailed, in-depth paper that outlines the project\'s vision, architecture, and tokenomics. Writing a whitepaper requires a very deep understanding of the subject matter and is often a collaborative effort between founders and technical writers.'}]},
       { type: 'h3', children: [{ type: 'text', value: '4. Governance Proposals:'}]},
-      { type: 'p', children: [{type: 'text', value: 'In DAOs, all changes are made through public proposals. A well-written proposal clearly outlines the problem, the proposed solution, and the rationale behind it. The ability to write persuasive, data-driven proposals is a highly valued skill.' }]},
+      { type: 'p', children: [{type: 'text', value: 'In DAOs, all changes are made through public proposals. A well-written proposal clearly outlines the problem, the proposed solution, and the rationale behind it. The ability to write persuasive, data-driven proposals is a highly valued skill in ' }, { type: 'link', href: '/articles/dao-governance-career-guide', value: 'DAO governance roles' }, { type: 'text', value: '.' }]},
       { type: 'h2', children: [{ type: 'text', value: 'How to Build Your Portfolio and Get Hired' }] },
       { type: 'p', children: [{ type: 'text', value: 'Like other roles in Web3, getting hired as a technical writer is all about your \'proof of work\'. A portfolio of high-quality writing samples is essential.' }]},
       { type: 'ul', children: [
@@ -36,6 +36,18 @@ export const article: Article = {
           { type: 'li', children: [{ type: 'text', value: 'Take on Freelance Bounties: Many DAOs and projects offer bounties for specific documentation tasks. Platforms like Gitcoin and Layer3 are good places to look for these. Completing a few paid bounties is a great way to build experience and your reputation.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Specialize in a Niche: As you learn, you may find a particular area of Web3 that you are passionate about, such as DeFi, NFTs, or ZK technology. Becoming a subject matter expert in a specific niche can make you a highly sought-after writer.' }]},
         ]
+      },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
       },
     ],
 };

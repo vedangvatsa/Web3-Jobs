@@ -17,7 +17,7 @@ export const article: Article = {
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Engine Proficiency: Expert in a major game engine like Unity (C#) or Unreal Engine (C++). This is the foundational skill.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Smart Contract Integration: Must know how to write code (e.g., in C# or using a Javascript bridge) that interacts with smart contracts on the blockchain. This includes things like checking a player\'s wallet for a specific NFT to grant them access to a character, or triggering an on-chain transaction when a player crafts a new item.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Wallet Integration: Must be able to integrate user wallets into the game in a seamless and user-friendly way. This is a major UX challenge in Web3 gaming.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Wallet Integration: Must be able to integrate user wallets into the game in a seamless and user-friendly way. This is a major UX challenge in Web3 gaming. Our ' }, { type: 'link', href: '/articles/web3-design-careers', value: 'guide for Web3 designers' }, { type: 'text', value: ' has more on this.' }] },
         ]
       },
       { type: 'h3', children: [{ type: 'text', value: '2. Game Designer:' }] },
@@ -29,7 +29,7 @@ export const article: Article = {
         ]
       },
        { type: 'h3', children: [{ type: 'text', value: '3. Token Economy Designer (Tokenomist):' }] },
-       { type: 'p', children: [{type: 'text', value: 'This is a new and critical role unique to Web3 gaming. These professionals are the \'central bankers\' or \'federal reserve\' of the in-game economy. A background in economics, finance, or game theory is highly valuable for this role.'}]},
+       { type: 'p', children: [{type: 'text', value: 'This is a new and critical role unique to Web3. These professionals are the \'central bankers\' or \'federal reserve\' of the in-game economy. A background in economics, finance, or game theory is highly valuable for this role.'}]},
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Tokenomics: You will design the supply, distribution, and utility of the game\'s tokens and NFTs. This includes deciding on the total supply, the emission schedule, and what the tokens can be used for (e.g., governance, staking, in-game currency).' }] },
           { type: 'li', children: [{ type: 'text', value: 'Sink & Faucet Design: You need to design mechanisms to bring currency into the game (\'faucets\', e.g., rewards for winning a match) and take it out (\'sinks\', e.g., currency needed to craft a new item) in order to maintain a stable and sustainable economy.' }] },
@@ -37,6 +37,18 @@ export const article: Article = {
         ]
       },
       { type: 'h3', children: [{ type: 'text', value: '4. Smart Contract Engineer:'}]},
-      { type: 'p', children: [{type: 'text', value: 'This is a specialized backend role focused purely on the on-chain logic. They write the smart contracts that define the rules of the game assets, such as the NFT contracts, the token contracts, and any contracts for staking or crafting.' }]},
+      { type: 'p', children: [{type: 'text', value: 'This is a specialized backend role focused purely on the on-chain logic. They write the smart contracts that define the rules of the game assets, such as the NFT contracts, the token contracts, and any contracts for staking or crafting. Check out our ' }, { type: 'link', href: '/articles/solidity-developer-roadmap', value: 'Solidity Developer Roadmap' }, { type: 'text', value: ' to learn more.' }]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ],
 };

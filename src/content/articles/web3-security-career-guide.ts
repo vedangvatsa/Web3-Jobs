@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-security-career-guide',
     title: 'How to Launch a Career in Web3 Security: A Guide for 2024',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://images.unsplash.com/photo-1562813733-b31f71025d54?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A deep dive into the high-demand field of Web3 security. This guide covers the essential skills, tools, and mindsets needed for roles from smart contract auditing to threat intelligence.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In the world of Web3, security is not just a feature; it is the foundation upon which the entire ecosystem is built. With billions of dollars locked in smart contracts, the cost of a single security vulnerability can be catastrophic. This has created an unprecedented demand for a new class of professional: the Web3 security expert. These individuals are the guardians of the decentralized economy, working to protect users, protocols, and infrastructure from a constantly evolving landscape of threats.' }] },
@@ -13,7 +13,7 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'The Web3 Security Landscape: More Than Just Auditing' }] },
       { type: 'p', children: [{ type: 'text', value: 'While smart contract auditing is the most well-known security role, the field is much broader. Security is a continuous process, not a one-time event. Here are some of the key specializations within Web3 security:' }] },
       { type: 'ul', children: [
-        { type: 'li', children: [{ type: 'text', value: 'Smart Contract Auditing: The meticulous, line-by-line review of smart contract code to identify vulnerabilities before deployment. Auditors often work for specialized firms or as independent consultants.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'Smart Contract Auditing: The meticulous, line-by-line review of smart contract code to identify vulnerabilities before deployment. Auditors often work for specialized firms or as independent consultants. See our ' }, { type: 'link', href: '/articles/guide-to-smart-contract-auditing', value: 'guide to smart contract auditing' }, { type: 'text', value: ' for more.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Application Security (AppSec): This role involves working directly with development teams throughout the software development lifecycle to design and build secure applications from the ground up.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Protocol Security / Economic Security: This specialization focuses on the economic incentives and mechanism design of a protocol. The goal is to identify ways the protocol\'s economic rules could be manipulated, such as through oracle price manipulation or flash loan attacks.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Threat Intelligence and Incident Response: These professionals are the digital firefighters. They monitor on-chain activity for emerging threats, analyze new attack techniques, and respond to active exploits to minimize damage.' }] },
@@ -64,7 +64,17 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'Independent Research: Find a protocol you\'re interested in and do an informal security review. Document your findings in a high-quality blog post. This demonstrates initiative and your ability to communicate your findings.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Bug Bounties: If you find a critical vulnerability in a live protocol, you can submit it through a bug bounty platform like Immunefi and potentially earn a massive payout. This is the ultimate proof of skill.' }] },
       ]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };
-
-    

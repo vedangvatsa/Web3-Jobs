@@ -22,7 +22,7 @@ export const article: Article = {
       { type: 'p', children: [{type: 'text', value: 'You\'re often the first point of contact for new users. A key part of your role is to create a smooth onboarding experience, helping newcomers understand the project, navigate the community platforms, and find the information they need. This can involve creating written guides, video tutorials, and organizing regular new member orientation calls.' }]},
       { type: 'h2', children: [{ type: 'text', value: 'Skills and Qualities of a Great CM' }] },
        { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'text', value: 'Exceptional Communication: You must be an excellent writer and a clear, articulate speaker. The ability to explain complex topics simply is critical.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Exceptional Communication: You must be an excellent writer and a clear, articulate speaker. The ability to explain complex topics simply is critical. This is a skill shared with roles in ' }, { type: 'link', href: '/articles/web3-devrel-careers', value: 'Developer Relations' }, { type: 'text', value: '.'}] },
           { type: 'li', children: [{ type: 'text', value: 'High Emotional Intelligence (EQ): You need to be empathetic, patient, and have a genuine desire to help people. You will often have to handle difficult conversations and conflicts with grace.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Resilience and Patience: Community management can be a 24/7 job. The ability to remain calm, patient, and professional under pressure, especially during times of market volatility or project crises, is essential.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Technical Aptitude: You must have a deep understanding of the project you are representing and the underlying Web3 technology. You don\'t need to be a developer, but you need to be able to answer technical questions accurately.' }] },
@@ -34,8 +34,20 @@ export const article: Article = {
        { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Senior CM -> Head of Community: The most direct path involves taking on more strategic responsibility, managing a larger team of community managers, and owning the overall community strategy and budget.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Transition to Developer Relations (DevRel): If you\'re technically inclined, your experience managing a community is a perfect foundation for a role in supporting a community of developers, helping them build on your platform.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Transition to Product or Marketing: Your deep, firsthand understanding of the user makes you a very strong candidate for roles in product management or marketing. You know the customer better than anyone.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Transition to Product or Marketing: Your deep, firsthand understanding of the user makes you a very strong candidate for roles in product management. You know the customer better than anyone. See our ' }, { type: 'link', href: '/articles/web3-product-manager-jobs', value: 'guide on Web3 PM roles' }, { type: 'text', value: '.' }] },
         ]
+      },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
       },
     ],
 };

@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-beginner-guide',
     title: 'Web3 for Beginners: Understanding the Core Concepts for Your First Job',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://images.unsplash.com/photo-1642104792644-53b523a7368d?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A foundational guide for anyone new to Web3. We break down the core concepts like blockchain, smart contracts, and wallets to prepare you for your first job in the industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The world of Web3 can seem intimidating from the outside. It\'s an ecosystem filled with new jargon, complex technology, and a fast-paced culture. However, at its core, Web3 is built on a handful of powerful, interconnected ideas. A solid grasp of these foundational concepts is the first and most important step toward launching a successful career in this space, whether you are a developer, a marketer, a designer, or a community manager.' }] },
@@ -21,7 +21,7 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'Concept 2: What is a Smart Contract?' }] },
       { type: 'p', children: [{ type: 'text', value: 'If a blockchain is a special kind of database, a smart contract is a special kind of program that runs on that database. It is a piece of code that lives on the blockchain and automatically executes when certain conditions are met. Think of it as a digital vending machine.' }] },
       { type: 'p', children: [{ type: 'text', value: 'With a vending machine, you insert money (the condition), and the machine automatically dispenses your chosen snack (the execution). There is no need for a human cashier. A smart contract works in a similar way: "if this happens, then do that." Because they live on the blockchain, their execution is guaranteed, transparent, and cannot be stopped or censored.' }] },
-      { type: 'p', children: [{ type: 'text', value: 'This simple idea is incredibly powerful. It allows developers to create complex applications, like decentralized exchanges or lending protocols, that can run entirely on their own without the need for a company or intermediary to manage them.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'This simple idea is incredibly powerful. It allows developers to create complex applications, like decentralized exchanges or lending protocols, that can run entirely on their own without the need for a company or intermediary to manage them. For more on this, check out our ' }, { type: 'link', href: '/articles/solidity-developer-roadmap', value: 'Solidity developer roadmap' }, { type: 'text', value: '.' }] },
       { type: 'h2', children: [{ type: 'text', value: 'Concept 3: What is a Wallet?' }] },
       { type: 'p', children: [{ type: 'text', value: 'In Web3, your wallet is your identity, your login, and your bank account, all rolled into one. It is a software program that allows you to interact with the blockchain. The most important thing to understand is that you, and only you, are in control of your wallet. This is called "self-custody."' }] },
       { type: 'h3', children: [{ type: 'text', value: 'Key Components:' }] },
@@ -46,7 +46,17 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: '4. The smart contract, now holding your ETH as collateral, automatically allows you to borrow another asset, according to the rules written in its code.' }] },
       ]},
       { type: 'p', children: [{ type: 'text', value: 'In this entire process, no company or bank was involved in holding your funds or approving the loan. It was all handled by transparent, open-source code running on a decentralized network. That is the power of Web3.' }] },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };
-
-    

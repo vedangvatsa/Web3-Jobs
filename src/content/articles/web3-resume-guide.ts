@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-resume-guide',
     title: 'How to Build a Web3 Resume That Gets You Hired',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A practical guide to creating a standout Web3 resume. Learn how to showcase your projects, skills, and on-chain activity to land your dream job.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In the Web3 world, your resume is more than just a document—it\'s a collection of your public work, contributions, and on-chain activity. While a traditional PDF resume is still often required, it serves a different purpose. It\'s a guide that points recruiters to the most important evidence of your skills: your projects, your GitHub, and your public engagement.' }] },
@@ -36,7 +36,7 @@ export const article: Article = {
       { type: 'h3', children: [{ type: 'text', value: '4. Contributions & Public Activity' }] },
       { type: 'p', children: [{ type: 'text', value: 'This section is unique to Web3 and can really make you stand out. It shows you\'re an active participant in the ecosystem.' }] },
       { type: 'ul', children: [
-        { type: 'li', children: [{ type: 'text', value: 'DAO Contributions: List any DAOs you are an active member of. Mention any proposals you\'ve voted on, discussions you\'ve participated in, or bounties you\'ve completed.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'DAO Contributions: List any DAOs you are an active member of. Mention any proposals you\'ve voted on, discussions you\'ve participated in, or bounties you\'ve completed. This is crucial for roles in ' }, { type: 'link', href: '/articles/dao-governance-career-guide', value: 'DAO governance' }, { type: 'text', value: '.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Open-Source Contributions: Link to any pull requests you\'ve had merged into open-source projects.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Hackathons & Auditing Contests: Mention any hackathons (e.g., ETHGlobal) or competitive auditing contests (e.g., Code4rena) you\'ve participated in, and what you built or found.' }] },
       ]},
@@ -46,7 +46,17 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'Soft Skills: Don\'t list things like \'Team Player\' or \'Hard Worker\'. Demonstrate these qualities through your project descriptions and contributions.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Irrelevant Experience: Your summer job as a lifeguard probably isn\'t relevant unless you can tie it to a key skill (e.g., responsibility, risk assessment).' }] },
       ]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };
-
-    

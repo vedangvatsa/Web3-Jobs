@@ -8,7 +8,7 @@ export const article: Article = {
     description: 'Discover the unique challenges and opportunities for designers in the Web3 space. Learn how to design user-friendly dApps and build a career in crypto UX/UI.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'For a long time, user experience (UX) and user interface (UI) design were afterthoughts in Web3. The industry was so focused on solving deep technical challenges that the user-facing experience was often clunky, confusing, and unforgiving. This created a massive barrier to adoption. That is finally changing.' }] },
-      { type: 'p', children: [{ type: 'text', value: 'As the industry matures, there is a huge and growing demand for skilled designers who can bridge the gap between complex blockchain technology and everyday users. Designing for Web3 presents a unique set of challenges that requires a new way of thinking, but it\'s also a greenfield opportunity to define the user patterns for the next generation of the internet.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'As the industry matures, there is a huge and growing demand for skilled designers who can bridge the gap between complex blockchain technology and everyday users. Designing for Web3 presents a unique set of challenges that requires a new way of thinking, but it\'s also a greenfield opportunity to define the user patterns for the next generation of the internet. It is one of the key ' }, { type: 'link', href: '/articles/non-technical-roles-in-crypto', value: 'non-technical roles in crypto' }, { type: 'text', value: '.' }]},
       { type: 'blockquote', children: [{ type: 'p', children: [{ type: 'text', value: 'Great design in Web3 isn\'t just about making things look pretty; it\'s about building trust, providing clarity, and making complex actions feel simple and safe.', style: 'italic' }] }] },
       { type: 'h2', children: [{ type: 'text', value: 'The Unique Challenges of Web3 Design' }] },
       { type: 'p', children: [{ type: 'text', value: 'Designers in Web3 have to solve problems that don\'t exist in the traditional web world.' }] },
@@ -21,7 +21,7 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'Key Skills for a Web3 Designer' }] },
       { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'Strong UX/UI Fundamentals: All the core skills of a great designer are still essential: user research, wire-framing, prototyping, interaction design, and visual design.' }] },
-        { type: 'li', children: [{ type: 'text', value: 'Technical Curiosity: You don\'t need to be a developer, but you need to be genuinely curious about how the technology works. You need to understand the basics of blockchains, smart contracts, and transactions to design for them effectively.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'Technical Curiosity: You don\'t need to be a developer, but you need to be genuinely curious about how the technology works. You need to understand the basics of blockchains, smart contracts, and transactions to design for them effectively. Our ' }, { type: 'link', href: '/articles/web3-beginner-guide', value: 'Web3 for beginners guide' }, { type: 'text', value: ' is a great place to start.'}] },
         { type: 'li', children: [{ type: 'text', value: 'Exceptional Communication Skills: You will need to work very closely with engineers and product managers to understand the technical constraints and possibilities. The ability to articulate your design decisions clearly is crucial.' }] },
         { type: 'li', children: [{ type: 'text', value: 'A Passion for Clarity and Simplicity: Your primary job is to take something incredibly complex and make it feel simple. You must have a passion for simplifying concepts and creating intuitive user flows.' }] },
       ]},
@@ -33,5 +33,17 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'Contribute to an Open-Source Project: Many Web3 projects are open source. You can contribute to their design system, suggest UI improvements, or help with user research. This shows you are a proactive and collaborative team member.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Immerse Yourself in the Space: Become a power user of crypto applications. The only way to understand the user\'s pain points is to experience them yourself. Join communities on Discord and Twitter and listen to what users are complaining about. The best design ideas come from a deep understanding of the problem.' }] },
       ]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };

@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-interview-questions',
     title: 'Top Web3 Interview Questions (And How to Answer Them)',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A guide to acing your Web3 interview. We cover common questions for technical and non-technical roles, from smart contracts to DeFi concepts.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'So you\'ve landed a Web3 interview. Congratulations! Now comes the hard part. Web3 interviews are a different beast. They\'re less about abstract algorithm puzzles and more about practical knowledge, your security-first mindset, and your genuine passion for the decentralized world. Whether you\'re a developer or aiming for a non-technical role, preparation is everything.' }] },
@@ -26,7 +26,7 @@ export const article: Article = {
       { type: 'p', children: [{ type: 'text', value: 'Why they ask it: This is a fundamental Solidity question that tests your understanding of how smart contracts interact. It\'s especially important for security.' }] },
       { type: 'p', children: [{ type: 'text', value: 'How to answer it: Explain that `call` executes code of another contract in that contract\'s context. `delegatecall` executes code of another contract, but in the *calling* contract\'s context (meaning `msg.sender` and storage are from the caller). This is powerful for upgradeable contracts but dangerous if not understood. `staticcall` is like `call`, but it\'s read-only and will revert if any state change is attempted. Mentioning the security risks of `delegatecall` (e.g., storage collisions) will get you bonus points.' }] },
       { type: 'h3', children: [{ type: 'text', value: '2. What is reentrancy and how do you prevent it?' }] },
-      { type: 'p', children: [{ type: 'text', value: 'Why they ask it: This is the most famous smart contract vulnerability. Not knowing this is a major red flag. It shows you haven\'t studied security.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'Why they ask it: This is the most famous smart contract vulnerability. Not knowing this is a major red flag. It shows you haven\'t studied security. Our ' }, { type: 'link', href: '/articles/web3-security-career-guide', value: 'Web3 security guide' }, { type: 'text', value: ' goes into more detail.' }] },
       { type: 'p', children: [{ type: 'text', value: 'How to answer it: Describe a reentrancy attack as one where an attacker\'s fallback function calls back into your contract before your first function has finished executing, allowing them to drain funds by re-running a withdrawal function. The primary prevention method is the Checks-Effects-Interactions pattern. Explain it: perform all your checks first (e.g., check the user\'s balance), then make the effects of the transaction (e.g., update their balance in storage), and only *then* interact with the external contract (e.g., send them the ETH). Also mention reentrancy guards (like OpenZeppelin\'s `nonReentrant` modifier) as another common solution.' }] },
       { type: 'h3', children: [{ type: 'text', value: '3. How would you design a simple up-gradable contract?' }] },
       { type: 'p', children: [{ type: 'text', value: 'Why they ask it: Smart contracts are immutable, so upgrades are a critical and complex part of real-world development. This question tests your understanding of common design patterns.' }] },
@@ -38,7 +38,17 @@ export const article: Article = {
       { type: 'h3', children: [{ type: 'text', value: '2. What are the key metrics you would track for a new DeFi protocol?' }] },
       { type: 'p', children: [{ type: 'text', value: 'Why they ask it: This tests your analytical and strategic thinking. Can you identify what truly matters for a project\'s success?' }] },
       { type: 'p', children: [{ type: 'text', value: 'How to answer it: Go beyond vanity metrics like Twitter followers. Focus on on-chain metrics that show real usage and product-market fit. Good examples include Total Value Locked (TVL), daily active users, transaction volume, and user retention rate (e.g., what percentage of users who use the protocol in week 1 are still using it in week 4?). Mentioning tools like Dune Analytics shows you know how to get this data.' }] },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };
-
-    

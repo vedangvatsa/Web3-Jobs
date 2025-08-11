@@ -11,7 +11,7 @@ export const article: Article = {
       { type: 'p', children: [{ type: 'text', value: 'Here, we\'ll look at the top Web3 companies that are almost always hiring for different kinds of jobs. This is more than a list; it\'s a way to understand the different parts of Web3 and the kinds of roles they offer. We\'ll cover the big names in Layer 1 and Layer 2 infrastructure, the pioneers in Decentralized Finance (DeFi), the innovators in NFTs and gaming, and the critical companies that provide developer tools. Knowing this landscape will help you focus your job search.' }] },
       { type: 'blockquote', children: [{ type: 'p', children: [{ type: 'text', value: 'By knowing who\'s hiring and for what, you can smartly position yourself to grab the amazing opportunities this tech shift offers.', style: 'italic' }] }] },
       { type: 'h2', children: [{ type: 'text', value: 'Sector 1: L1 & L2 Protocols - The Foundation' }] },
-      { type: 'p', children: [{ type: 'text', value: 'These are the companies and foundations that build and maintain the core blockchain infrastructure. Working at a Layer 1 (L1) or Layer 2 (L2) protocol means you\'re building the base technology that powers the whole Web3 ecosystem. These jobs are often super technical, dealing with tough problems in distributed systems, cryptography, and consensus algorithms. The work is tough but has a huge impact, since millions of users and thousands of apps depend on these networks being stable and secure.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'These are the companies and foundations that build and maintain the core blockchain infrastructure. Working at a Layer 1 (L1) or Layer 2 (L2) protocol means you\'re building the base technology that powers the whole Web3 ecosystem. These jobs are often super technical, dealing with tough problems in distributed systems, cryptography, and consensus algorithms. The work is tough but has a huge impact, since millions of users and thousands of apps depend on these networks being stable and secure. Explore our ' }, { type: 'link', href: '/articles/layer-2-job-opportunities', value: 'guide to L2 jobs' }, { type: 'text', value: ' for more detail.' }] },
       { type: 'h3', children: [{ type: 'text', value: 'Key Players:' }] },
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Ethereum Foundation: The core of the Ethereum ecosystem. Always looking for top-notch researchers and core developers (Go, Rust, Python). Jobs here are research-focused and all about the long-term health of the protocol.' }] },
@@ -37,7 +37,7 @@ export const article: Article = {
       { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'Alchemy: A top blockchain developer platform providing node infrastructure, APIs, and tools. Hires for backend, frontend, and developer advocacy roles.' }]},
         { type: 'li', children: [{ type: 'text', value: 'Infura: Another major infrastructure provider, part of the ConsenSys family. A vital part of the Ethereum ecosystem, they often hire for infrastructure and backend engineers.' }]},
-        { type: 'li', children: [{ type: 'text', value: 'Dune Analytics: An open platform for querying and visualizing blockchain data with SQL. They hire data engineers, backend engineers, and data scientists to build their powerful analytics tools.' }]},
+        { type: 'li', children: [{ type: 'text', value: 'Dune Analytics: An open platform for querying and visualizing blockchain data with SQL. They hire data engineers, backend engineers, and data scientists to build their powerful analytics tools. It is a key tool for ' }, { type: 'link', href: '/articles/crypto-data-analyst-jobs', value: 'crypto data analysts' }, { type: 'text', value: '.' }]},
         { type: 'li', children: [{ type: 'text', value: 'Tenderly: A full development platform offering debugging, simulation, and monitoring tools for smart contracts. They look for engineers who are passionate about making life better for developers.' }]},
       ]},
       { type: 'h2', children: [{ type: 'text', value: 'Sector 4: NFT and Gaming Innovators' }] },
@@ -50,6 +50,18 @@ export const article: Article = {
           { type: 'li', children: [{ type: 'text', value: 'Magic Eden: A leading multi-chain NFT marketplace that started on Solana and has expanded to Ethereum and Bitcoin. They hire for a range of roles in engineering, product, and marketing.' }]},
         ]
       },
-      { type: 'p', children: [{ type: 'text', value: 'This list is just a starting point. The Web3 ecosystem is huge and always growing. The key is to find the area that matches your passions and skills and start diving in. By following these companies, getting involved in their communities, and understanding their products, you\'ll be ready when the right opportunity comes along.' }]}
+      { type: 'p', children: [{ type: 'text', value: 'This list is just a starting point. The Web3 ecosystem is huge and always growing. The key is to find the area that matches your passions and skills and start diving in. By following these companies, getting involved in their communities, and understanding their products, you\'ll be ready when the right opportunity comes along.' }]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ],
 };

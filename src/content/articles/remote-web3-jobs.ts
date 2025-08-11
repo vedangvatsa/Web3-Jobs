@@ -22,7 +22,7 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'Where to Find Remote Web3 Jobs' }] },
       { type: 'p', children: [{ type: 'text', value: 'Your job search strategy needs to be as modern as the roles you\'re applying for. The best opportunities are often found in crypto-native online spaces.' }]},
        { type: 'h3', children: [{ type: 'text', value: '1. Specialized Job Boards:' }] },
-      { type: 'p', children: [{type: 'text', value: 'This is the most direct and efficient place to start your search. These platforms are specifically designed for the crypto industry, and nearly all listings are remote by default. This very website is an excellent example. Other popular options include CryptoJobsList, Web3.career, and the Pallet network of job boards.'}]},
+      { type: 'p', children: [{type: 'text', value: 'This is the most direct and efficient place to start your search. These platforms are specifically designed for the crypto industry, and nearly all listings are remote by default. This very website is an excellent example. Check out our main page for the latest ' }, { type: 'link', href: '/', value: 'remote Web3 jobs' }, { type: 'text', value: '.' }]},
        { type: 'h3', children: [{ type: 'text', value: '2. Twitter (X):' }] },
       { type: 'p', children: [{type: 'text', value: 'Twitter is the public square of the Web3 world. It\'s the single most important platform for networking and finding opportunities. Many of the best job opportunities are posted here first. Follow founders, developers, and key team members of projects you admire. Engage genuinely in conversations to build your reputation and visibility. A well-curated Twitter profile can be a powerful career tool.'}]},
        { type: 'h3', children: [{ type: 'text', value: '3. Discord & DAOs:' }] },
@@ -32,11 +32,23 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'How to Position Yourself for a Remote Role' }] },
       { type: 'p', children: [{ type: 'text', value: 'Succeeding in a remote job search—and in the role itself—requires a specific set of skills and habits.' }]},
        { type: 'ul', children: [
-          { type: 'li', children: [{ type: 'text', value: 'Build a Public Portfolio: Your GitHub (for developers) or a personal website/blog (for non-technical roles) is your resume. It needs to showcase your skills and your passion for the space.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Build a Public Portfolio: Your GitHub (for developers) or a personal website/blog (for non-technical roles) is your resume. It needs to showcase your skills and your passion for the space. Our ' }, { type: 'link', href: '/articles/web3-resume-guide', value: 'Web3 resume guide' }, { type: 'text', value: ' can help.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Master Asynchronous Communication: Remote teams rely heavily on written communication (in tools like Slack, Discord, and Notion). You must be a clear, concise, and effective writer. The ability to articulate complex ideas in a document is a superpower in a remote environment.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Be Proactive and Self-Motivated: In a remote environment, no one is looking over your shoulder. You must have the discipline to manage your own time, set your own goals, and deliver results without constant supervision. High levels of autonomy and initiative are expected.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Demonstrate Passion and Engagement: Companies want to hire people who are genuinely passionate about Web3. Your activity on Twitter, your contributions to DAOs, and the side projects you work on are all signals of this passion.' }]},
         ]
+      },
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
       },
     ],
 };

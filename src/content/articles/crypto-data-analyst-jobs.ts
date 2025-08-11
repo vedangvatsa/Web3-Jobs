@@ -8,7 +8,7 @@ export const article: Article = {
     description: 'A career guide for data analysts in Web3. Learn about the tools (like Dune Analytics), skills (like SQL), and opportunities for data professionals in crypto.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Blockchains are public, transparent databases. Every transaction, every trade, and every vote is recorded on-chain for the entire world to see. This has created an unprecedented explosion of open data and a massive demand for data analysts who can turn this raw information into actionable insights. In Web3, data isn\'t just a byproduct; it\'s a core part of the ecosystem.' }] },
-      { type: 'p', children: [{ type: 'text', value: 'A career as a data analyst in the crypto industry is an opportunity to work at the intersection of data science, finance, and technology. You get to analyze the data behind the new digital economy. This guide covers the key skills, tools, and career paths for data professionals in Web3.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'A career as a data analyst in the crypto industry is an opportunity to work at the intersection of data science, finance, and technology. You get to analyze the data behind the new digital economy. This guide covers the key skills, tools, and career paths for data professionals in Web3, one of the many ' }, { type: 'link', href: '/articles/non-technical-roles-in-crypto', value: 'non-technical roles in crypto' }, {type: 'text', value: '.'}] },
       { type: 'blockquote', children: [{ type: 'p', children: [{ type: 'text', value: 'In a world of open data, the ability to find the signal in the noise is a superpower. Web3 data analysts are the storytellers of the on-chain world.', style: 'italic' }] }] },
       { type: 'h2', children: [{ type: 'text', value: 'The Role of a Web3 Data Analyst' }] },
       { type: 'p', children: [{ type: 'text', value: 'A Web3 data analyst does more than just run reports. They are detectives and strategists who help protocols understand their users, assess their performance, and make better decisions. Their work falls into a few key areas:' }] },
@@ -16,7 +16,7 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'Product Analytics: They help product teams understand how users are interacting with a dApp. What features are most popular? Where do users get stuck? What is the retention rate of new users? Their insights directly influence the product roadmap.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Growth & Marketing: They analyze user acquisition channels to see what is most effective. They might analyze the results of an airdrop or track the growth of a community on different platforms.' }] },
         { type: 'li', children: [{ type: 'text', value: 'DeFi / Economic Analysis: For DeFi protocols, they analyze key economic metrics like Total Value Locked (TVL), trading volume, and liquidity pool performance. They might also model the risk of different assets or analyze the behavior of liquidators.' }] },
-        { type: 'li', children: [{ type: 'text', value: 'Governance: They analyze voting patterns in DAOs to understand token holder engagement and identify potential issues like voter apathy or the concentration of voting power.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'Governance: They analyze voting patterns in DAOs to understand token holder engagement and identify potential issues like voter apathy or the concentration of voting power. This often overlaps with a career in ' }, { type: 'link', href: '/articles/dao-governance-career-guide', value: 'DAO governance' }, { type: 'text', value: '.'}] },
       ]},
       { type: 'h2', children: [{ type: 'text', value: 'Essential Skills and Tools' }] },
       { type: 'h3', children: [{ type: 'text', value: '1. SQL is Everything' }] },
@@ -31,13 +31,25 @@ export const article: Article = {
       { type: 'h3', children: [{ type: 'text', value: '3. Data Visualization' }] },
       { type: 'p', children: [{ type: 'text', value: 'The ability to turn your data into a clear and compelling visualization is critical. Platforms like Dune have built-in charting capabilities, but you should also be comfortable with tools like Tableau, Power BI, or Python libraries like Matplotlib and Seaborn for more advanced visualizations.' }] },
       { type: 'h3', children: [{ type: 'text', value: '4. Blockchain Knowledge' }] },
-      { type: 'p', children: [{ type: 'text', value: 'You need to understand the data you are working with. This means understanding how blockchains work, the difference between an externally owned account and a contract account, how to read a transaction on Etherscan, and the basics of how DeFi protocols like Uniswap or Aave function.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'You need to understand the data you are working with. This means understanding how blockchains work, the difference between an externally owned account and a contract account, how to read a transaction on Etherscan, and the basics of how DeFi protocols like Uniswap or Aave function. Our ' }, { type: 'link', href: '/articles/web3-beginner-guide', value: 'beginner\'s guide to Web3' }, { type: 'text', value: ' is a great place to start.'}] },
       { type: 'h2', children: [{ type: 'text', value: 'How to Build Your Portfolio' }] },
       { type: 'p', children: [{ type: 'text', value: 'In the world of open data, your portfolio is your public work. It\'s the most effective way to demonstrate your skills.' }] },
       { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'Become a Dune Wizard: This is the best advice for any aspiring Web3 data analyst. Start by forking existing queries to understand how they work. Then, start creating your own dashboards. Analyze a protocol you find interesting. Build a dashboard that tracks the key metrics for a popular NFT collection. A strong Dune profile with a few popular dashboards is a golden ticket to a job interview.' }] },
         { type: 'li', children: [{ type: 'text', value: 'Participate in Data Bounties: Many protocols and DAOs offer bounties for specific data analysis tasks. Platforms like Flipside Crypto run structured bounty programs that are a great way to get paid to learn.' }] },
-        { type: 'li', children: [{ type: 'text', value: 'Publish Your Analysis: Don\'t just create a dashboard; write a blog post or a Twitter thread that explains your findings. This demonstrates your communication skills and your ability to tell a story with data.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'Publish Your Analysis: Don\'t just create a dashboard; write a blog post or a Twitter thread that explains your findings. This demonstrates your communication skills and your ability to tell a story with data. It\'s a form of ' }, { type: 'link', href: '/articles/technical-writing-for-web3', value: 'technical writing for Web3' }, { type: 'text', value: '.' }] },
       ]},
+      {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };

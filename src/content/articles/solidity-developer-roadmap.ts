@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'solidity-developer-roadmap',
     title: 'The Ultimate Solidity Developer Roadmap: From Beginner to Expert',
-    image: 'https://placehold.co/600x400.png',
+    image: 'https://images.unsplash.com/photo-1639762681057-408e52192e50?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A step-by-step guide to becoming a Solidity developer in 2024. This roadmap covers everything from the basics of Ethereum to advanced smart contract security patterns.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Solidity is the programming language of the Ethereum Virtual Machine (EVM), the heart of the world\'s largest smart contract platform. Becoming a proficient Solidity developer is one of the most direct paths to a high-impact, high-paying career in the Web3 ecosystem. However, the path is steep, and the stakes are incredibly high. A single bug can lead to the loss of millions of dollars in user funds. This roadmap provides a structured, step-by-step guide to navigate the journey from a complete beginner to a seasoned Solidity expert.' }] },
@@ -13,7 +13,7 @@ export const article: Article = {
       { type: 'p', children: [{ type: 'text', value: 'Before writing a single line of Solidity, you must understand the environment in which your code will run. Jumping directly into the language without understanding the context is like trying to build a skyscraper without knowing the laws of physics. This foundational knowledge is what separates a code monkey from a true engineer.' }] },
       { type: 'h3', children: [{ type: 'text', value: '1. Master Blockchain Fundamentals' }] },
       { type: 'ul', children: [
-        { type: 'li', children: [{ type: 'text', value: 'What is a Blockchain? Understand the core concepts of a distributed ledger, blocks, transactions, and cryptographic hashing.' }] },
+        { type: 'li', children: [{ type: 'text', value: 'What is a Blockchain? Understand the core concepts of a distributed ledger, blocks, transactions, and cryptographic hashing. Our ' }, { type: 'link', href: '/articles/web3-beginner-guide', value: 'beginner\'s guide to Web3' }, { type: 'text', value: ' is a great place to start.'}] },
         { type: 'li', children: [{ type: 'text', value: 'Consensus Mechanisms: Learn the difference between Proof of Work (PoW) and Proof of Stake (PoS). Why did Ethereum move to PoS? What are the security and economic implications?' }] },
         { type: 'li', children: [{ type: 'text', value: 'Public Key Cryptography: Understand how public/private key pairs work to secure accounts and sign transactions. This is the bedrock of user identity in Web3.' }] },
       ]},
@@ -52,7 +52,7 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'ERC-1155: The multi-token standard. Understand its gas-saving benefits and when to use it over ERC-721.' }] },
        ]},
        { type: 'h3', children: [{ type: 'text', value: '2. Learn Smart Contract Security' }] },
-       { type: 'p', children: [{ type: 'text', value: 'This is the most critical part of the entire roadmap. Security is not a feature; it is a prerequisite.' }] },
+       { type: 'p', children: [{ type: 'text', value: 'This is the most critical part of the entire roadmap. Security is not a feature; it is a prerequisite. Our ' }, { type: 'link', href: '/articles/guide-to-smart-contract-auditing', value: 'smart contract auditing guide' }, { type: 'text', value: ' is a must-read.'}] },
        { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'Common Vulnerabilities: Study past hacks on platforms like Rekt News. Deeply understand attack vectors like Reentrancy, Oracle Manipulation, Integer Overflow/Underflow, and Unchecked External Calls.' }] },
         { type: 'li', children: [{ type: 'text', value: 'The Checks-Effects-Interactions Pattern: This should be tattooed on your brain. It is the single most important design pattern for preventing reentrancy.' }] },
@@ -87,7 +87,17 @@ export const article: Article = {
           { type: 'li', children: [{ type: 'text', value: 'Participate in Auditing Contests: Compete on platforms like Code4rena. Finding a valid, high-severity bug in a real protocol is one of the highest-signal achievements a developer can have.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Specialize: Find a niche that fascinates you and go deeper than anyone else. This could be ZK-rollups, MEV (Maximal Extractable Value), account abstraction, or advanced DeFi derivatives. Become the go-to expert in a specific domain.' }] },
        ]},
+       {
+        type: 'h2',
+        children: [{ type: 'text', value: 'Stay Ahead in Web3' }],
+      },
+      {
+        type: 'p',
+        children: [
+          { type: 'text', value: 'Don\'t miss the latest opportunities. ' },
+          { type: 'link', href: 'https://t.me/web3hiring', value: 'Subscribe to our Telegram channel for Web3 jobs' },
+          { type: 'text', value: ' and get the best roles delivered directly to you.' },
+        ],
+      },
     ]
 };
-
-    
