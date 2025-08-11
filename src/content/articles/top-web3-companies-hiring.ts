@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'top-web3-companies-hiring',
     title: 'Top Web3 Companies Actively Hiring Now',
-    image: 'https://images.unsplash.com/photo-1518432835214-3d3a76a5168e?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1638913971873-b6339ea4984e?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An in-depth look at the leading Web3 companies that are actively scaling their teams. Explore opportunities at top-tier protocols, dApps, and infrastructure providers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 world is always building, and the need for talented people has never been greater. Even when the market is up or down, the demand for skilled engineers, product managers, marketers, and designers to build the decentralized future doesn\'t go away. If you\'re looking to get into this space, knowing where to look is the first step.' }] },
