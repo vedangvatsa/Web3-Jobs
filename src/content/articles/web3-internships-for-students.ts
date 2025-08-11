@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-internships-for-students',
     title: 'Web3 Internships for Students: A Guide to Getting Started',
-    image: 'https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=600&h=400&auto=format&fit=crop',
+    image: '/images/web3-internships-for-students.png',
     description: 'Your comprehensive guide to landing a Web3 internship. Learn how to get the experience you need to kickstart your career in the blockchain industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'For students and recent graduates, the Web3 industry is a frontier of opportunity. An internship in this space isn\'t just a line on a resume; it\'s a launchpad into a career at the forefront of technology and finance. Unlike traditional internships where you might be stuck doing boring tasks, Web3 internships often give you the chance to work on real products, contribute to open-source code, and have a real impact.' }] },
@@ -12,7 +12,7 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'Why Pursue a Web3 Internship?' }] },
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Gain Hands-On, High-Impact Experience: There\'s no better way to learn than by doing. In a Web3 internship, you will likely work on real products and protocols that are often managing significant value. This is real-world experience that you can\'t get in a classroom.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Build a \'Proof-of-Work\' Portfolio: The projects you contribute to during your internship become powerful additions to your portfolio. In Web3, your GitHub profile and on-chain history are often more valuable than your academic credentials. Our ' }, { type: 'link', href: '/articles/web3-resume-guide', value: 'resume guide' }, { type: 'text', value: ' explains how to structure this.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Build a \'Proof-of-Work\' Portfolio: The projects you contribute to during your internship become powerful additions to your portfolio. In Web3, your GitHub profile and on-chain history are often more valuable than your academic credentials. Our ' }, { type: 'link', href: '/articles/web3-resume-guide', value: 'resume guide' }, { type: 'text', value: ' can help.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Network with Industry Pioneers: You\'ll have the opportunity to connect with and learn from people who are building the foundational layers of the new internet. The relationships you build can be invaluable for your future career.' }] },
           { type: 'li', children: [{ type: 'text', value: 'High Compensation: Web3 internships are often very well-paid, with compensation that is highly competitive with top tech companies.' }]},
         ]

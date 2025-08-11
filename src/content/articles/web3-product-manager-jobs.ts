@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-product-manager-jobs',
     title: 'A Guide to Product Management in Web3',
-    image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=600&h=400&auto=format&fit=crop',
+    image: '/images/web3-product-manager-jobs.png',
     description: 'Learn what it takes to be a Product Manager in the Web3 space. We cover the unique challenges, skills, and mindset required for this critical role.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The role of a Product Manager (PM) in Web3 is one of the most challenging, complex, and rewarding positions in the industry. Traditional PM skills are still valuable, but they are not enough. A Web3 PM must be a unique blend of product strategist, systems thinker, community diplomat, and technical translator.' }] },

@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-design-careers',
     title: 'A Guide to UX/UI Design Careers in Web3',
-    image: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=600&h=400&auto=format&fit=crop',
+    image: '/images/web3-design-careers.png',
     description: 'Discover the unique challenges and opportunities for designers in the Web3 space. Learn how to design user-friendly dApps and build a career in crypto UX/UI.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'For a long time, user experience (UX) and user interface (UI) design were afterthoughts in Web3. The industry was so focused on solving deep technical challenges that the user-facing experience was often clunky, confusing, and unforgiving. This created a massive barrier to adoption. That is finally changing.' }] },
@@ -25,7 +25,7 @@ export const article: Article = {
         { type: 'li', children: [{ type: 'text', value: 'Exceptional Communication Skills: You will need to work very closely with engineers and product managers to understand the technical constraints and possibilities. The ability to articulate your design decisions clearly is crucial.' }] },
         { type: 'li', children: [{ type: 'text', value: 'A Passion for Clarity and Simplicity: Your primary job is to take something incredibly complex and make it feel simple. You must have a passion for simplifying concepts and creating intuitive user flows.' }] },
       ]},
-      { type: 'h2', children: [{ type: 'text', value: 'How to Build a Portfolio and Get Started' }] },
+      { type: 'h2', children: [{ type: 'text', value: 'How to Build Your Portfolio and Get Started' }] },
       { type: 'p', children: [{ type: 'text', value: 'Since Web3 design is a new field, your portfolio is your chance to show that you can think critically about its unique challenges.' }] },
       { type: 'ul', children: [
         { type: 'li', children: [{ type: 'text', value: 'Do Unsolicited Redesigns: Find a dApp that you think has a poor user experience. Do a case study where you analyze its flaws and create a detailed redesign. Explain the rationale behind your design choices in a blog post or a portfolio piece. This is a powerful way to demonstrate your skills.' }] },

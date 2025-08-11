@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'guide-to-smart-contract-auditing',
     title: 'A Deep Dive into Smart Contract Auditing Careers',
-    image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=600&h=400&auto=format&fit=crop',
+    image: '/images/guide-to-smart-contract-auditing.png',
     description: 'A guide on becoming a smart contract auditor. This covers the skills, tools, mindset, and career path for one of the most critical roles in Web3 security.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In the high-stakes world of DeFi, where protocols can handle billions of dollars, a single bug isn\'t just a problem—it\'s a disaster. Smart contract auditors are the guardians of the Web3 ecosystem, like digital forensic accountants and elite cybersecurity experts rolled into one. They are the last line of defense against huge financial losses.' }] },

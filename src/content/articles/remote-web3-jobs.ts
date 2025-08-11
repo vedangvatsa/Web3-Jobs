@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'remote-web3-jobs',
     title: 'The Ultimate Guide to Finding Remote Web3 Jobs',
-    image: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=600&h=400&auto=format&fit=crop',
+    image: '/images/remote-web3-jobs.png',
     description: 'A guide to finding a remote job in the Web3 and crypto industry. Learn where to look, how to apply, and what companies are hiring remotely.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 industry isn\'t just remote-friendly; it\'s remote-native. The core idea of decentralization—spreading power and control away from a central point—naturally extends to how companies in the space operate. The most innovative projects are often fully distributed teams, with members working together across every time zone on the planet. This isn\'t a trend; it\'s a core feature of the industry.' }] },
