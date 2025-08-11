@@ -27,7 +27,7 @@ export default async function Home() {
 
           <div className="max-w-6xl mx-auto">
             <TrustedBy />
-             <div className="text-center my-6 p-4 rounded-lg bg-secondary/50">
+             <div className="text-center my-4">
                 <Link
                   href="https://t.me/web3hiring"
                   target="_blank"
