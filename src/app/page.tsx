@@ -23,9 +23,9 @@ export default async function Home() {
             </p>
           </section>
 
+          <TrustedBy />
           <JobBoard initialJobs={initialJobs} />
         </div>
-        <TrustedBy />
       </main>
       <Footer />
     </div>
