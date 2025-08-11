@@ -1,6 +1,6 @@
 ---
 title: "How to Secure Your Crypto: A Guide to Wallets and Best Practices"
-image: "https://placehold.co/1200x630.png"
+image: "https://images.unsplash.com/photo-1635602739175-bab409a6e94c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzZWN1cmV8ZW58MHx8fHwxNzU0OTU1Njc1fDA&ixlib=rb-4.1.0&q=80&w=1080"
 description: "Learn how to protect your digital assets. This guide covers the difference between hot and cold wallets, the importance of seed phrases, and the essential security habits for every crypto user."
 category: "Getting Started"
 ---
