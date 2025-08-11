@@ -5,7 +5,6 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import Image from 'next/image';
 import { Metadata } from 'next';
-import { ArticleJsonLd } from 'react-schemaorg';
 import type { Article as ArticleSchema } from 'schema-dts';
 
 type ArticlePageProps = {
@@ -132,7 +131,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   return (
     <>
-      <ArticleJsonLd schema={articleSchema} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <div className="flex flex-col min-h-screen bg-background">
         <Header />
         <main className="flex-1">
