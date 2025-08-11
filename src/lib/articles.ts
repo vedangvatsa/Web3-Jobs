@@ -18,7 +18,7 @@ export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
 
     return {
       slug,
-      ...(matterResult.data as { title: string; image: string; description: string }),
+      ...(matterResult.data as { title: string; image: string; description: string; category: string }),
     };
   });
 
@@ -40,7 +40,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
     return {
       slug,
       content,
-      ...(matterResult.data as { title: string; image: string; description: string }),
+      ...(matterResult.data as { title: string; image: string; description: string; category: string }),
     };
   } catch (err) {
     // If the file doesn't exist, return undefined

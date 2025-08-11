@@ -1,7 +1,8 @@
 ---
-title: 'Web3 Developer Salary: How Much Can You Earn?'
+title: 'Web3 Developer Salary How Much Can You Earn?'
 image: 'https://placehold.co/1200x630.png'
 description: 'A comprehensive guide to Web3 developer salaries. Explore average compensation by role, experience, and location, and learn what skills command the highest pay in the blockchain industry.'
+category: 'Career Guides'
 ---
 
 The Web3 space is not just a technological frontier; it's a new economic landscape, and for developers, it can be a particularly lucrative one. As venture capital continues to pour into blockchain startups and established companies build out their Web3 divisions, the demand for skilled talent has skyrocketed. This intense demand, coupled with a relative scarcity of experienced blockchain developers, has driven salaries to levels that often surpass their Web2 counterparts. But how much can a Web3 developer actually earn?

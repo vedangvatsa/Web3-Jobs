@@ -1,7 +1,8 @@
 ---
-title: 'DeFi Careers: Job Opportunities in Decentralized Finance'
+title: 'DeFi Careers Job Opportunities in Decentralized Finance'
 image: 'https://placehold.co/1200x630.png'
 description: 'A deep dive into the career landscape of Decentralized Finance (DeFi). Explore the key roles, from smart contract engineering to quantitative analysis, and learn what it takes to work in this innovative sector.'
+category: 'Career Guides'
 ---
 
 Decentralized Finance, or DeFi, is the beating heart of the Web3 revolution. It's a bold and ambitious movement to rebuild the entire financial system on open, permissionless blockchains. Instead of relying on traditional intermediaries like banks, brokerages, and insurers, DeFi uses smart contracts to create a transparent, global, and accessible alternative for lending, borrowing, trading, and earning yield.
@@ -10,7 +11,7 @@ This financial paradigm shift has created a vibrant and rapidly growing job mark
 
 A career in DeFi is not for the faint of heart. It's a high-stakes environment where a single bug in a smart contract can lead to the loss of millions of dollars. The market is volatile, the technology is complex, and the landscape changes on a weekly basis. But for those who are passionate about finance, technology, and building a more open economic system, it offers some of the most challenging and rewarding career opportunities in the world. This guide will explore the key job roles within the DeFi ecosystem, the skills required to land them, and the unique challenges and opportunities of working in this space.
 
-## The Landscape of DeFi: Where the Jobs Are
+## The Landscape of DeFi Where the Jobs Are
 
 The DeFi ecosystem is a complex tapestry of interconnected protocols, each serving a specific function. Understanding these categories is key to finding your niche.
 

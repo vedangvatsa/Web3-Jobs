@@ -1,7 +1,8 @@
 ---
-title: 'From Web2 to Web3: A Transition Guide for Developers'
+title: 'From Web2 to Web3 A Transition Guide for Developers'
 image: 'https://placehold.co/1200x630.png'
 description: 'Are you a Web2 developer curious about a career in Web3? This guide breaks down the key mindset shifts, the essential new technologies to learn, and a practical roadmap for making the transition.'
+category: 'Getting Started'
 ---
 
 You're a seasoned Web2 developer. You've mastered React, you can spin up a REST API in your sleep, and you know your way around AWS or Google Cloud. But you keep hearing about Web3, and your curiosity is piqued. You see the explosive growth, the passionate communities, and the mind-boggling innovation happening in the world of blockchain, and you're wondering: "What would it take for me to make the leap?"
@@ -10,7 +11,7 @@ The good news is that your existing skills are incredibly valuable. The Web3 spa
 
 This guide is designed for you, the experienced Web2 developer. We'll skip the basic "what is a blockchain" explanations and dive straight into the practicalities of the transition. We'll cover the core mental models you need to adopt, the key differences in the tech stack, a recommended learning path, and how to position your existing experience to land your first Web3 role.
 
-## The Core Mindset Shift: From Centralized to Decentralized
+## The Core Mindset Shift From Centralized to Decentralized
 
 This is the most important and often most difficult part of the transition. You have to unlearn some of your most deeply ingrained architectural patterns.
 
@@ -24,7 +25,7 @@ This is the most important and often most difficult part of the transition. You 
 
 > **Mental Model #1:** Stop thinking of your application as a client-server model. Start thinking of it as a client interacting with a shared, global, and transparent state machine (the blockchain).
 
-## The Web3 Tech Stack: What's New and What's Familiar
+## The Web3 Tech Stack What's New and What's Familiar
 
 Let's map your existing Web2 knowledge to the Web3 stack. You'll find that you already know a good portion of it.
 

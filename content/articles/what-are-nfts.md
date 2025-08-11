@@ -1,12 +1,13 @@
 ---
-title: 'What Are NFTs? A Practical Guide for Creators and Collectors'
+title: 'What Are NFTs A Practical Guide for Creators and Collectors'
 image: 'https://images.unsplash.com/photo-1652159043552-6c25eb2ea21d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'From digital art to in-game items, understand what Non-Fungible Tokens (NFTs) are, how they work, and why they represent a paradigm shift in digital ownership.'
+category: 'Getting Started'
 ---
 
 The term "NFT" exploded into the mainstream, leaving many to wonder what these "Non-Fungible Tokens" actually are. Are they just overpriced JPEGs of apes and pixelated characters? Or do they represent a fundamental shift in how we think about ownership in the digital world? The truth, as is often the case, lies somewhere in between. At its core, an NFT is a unique digital certificate of ownership, recorded on a [blockchain](/what-is-a-blockchain), that can be tied to a digital or even a physical asset. This guide will demystify NFTs, exploring the technology behind them, their most compelling use cases, and the opportunities and challenges they present for creators, collectors, and job seekers in the burgeoning [Web3](/what-is-web3) ecosystem.
 
-## Fungible vs. Non-Fungible: What's the Difference?
+## Fungible vs. Non-Fungible What's the Difference?
 
 To grasp the concept of an NFT, you must first understand the idea of fungibility. An asset is "fungible" if it is interchangeable with another identical unit. A dollar bill is a perfect example. If you and a friend exchange one-dollar bills, you both still have a dollar; nothing of value has been lost or gained. The same applies to cryptocurrencies like Bitcoin—one Bitcoin is identical to and has the same value as another Bitcoin.
 
@@ -24,7 +25,7 @@ NFTs are not the assets themselves (e.g., the JPEG file); they are pointers to t
 
 This combination of technologies ensures that an NFT's ownership is transparent, verifiable by anyone, and secured by the immense computational power of the blockchain network. It creates digital scarcity, allowing for the first time a way to prove you are the sole owner of a specific digital file.
 
-## Beyond Art: Real-World Use Cases and Job Opportunities
+## Beyond Art Real-World Use Cases and Job Opportunities
 
 While digital art has dominated the headlines, the potential applications for NFTs span numerous industries, creating a diverse range of job opportunities for those looking to enter the Web3 space.
 
