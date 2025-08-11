@@ -100,14 +100,11 @@ const renderBlock = (block: ContentBlock, index: number) => {
       );
     case 'cta':
       return (
-        <div
-          key={index}
-          className="my-8 p-6 bg-card/50 rounded-lg flex justify-center"
-        >
+        <div key={index} className="my-8">
           <Button
             size="lg"
             asChild
-            className="bg-accent hover:bg-accent/90 text-accent-foreground"
+            className="w-full bg-accent hover:bg-accent/90 text-accent-foreground text-lg py-6"
           >
             <Link href={block.href} target="_blank" rel="noopener noreferrer">
               {block.text}
