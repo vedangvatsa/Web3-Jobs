@@ -54,6 +54,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: siteConfig.url,
   },
+  icons: null,
 };
 
 export default function RootLayout({
