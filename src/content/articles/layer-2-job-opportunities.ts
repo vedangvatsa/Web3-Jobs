@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'layer-2-job-opportunities',
     title: 'Layer 2 Scaling Solutions: A Guide to Jobs on Arbitrum, Optimism, and Polygon',
-    image: 'https://images.unsplash.com/photo-1640822522352-a044a8a38575?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642104704074-af0f4871d464?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An in-depth guide to career opportunities within the Layer 2 ecosystem. Learn about the roles and skills in demand at leading L2s like Arbitrum, Optimism, and Polygon.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The single biggest challenge for the Ethereum ecosystem has been scalability. As the network grew in popularity, transaction fees (gas) became prohibitively expensive for many users and applications. Layer 2 scaling solutions (L2s) are the answer to this problem. They are separate blockchains that run "on top" of Ethereum, processing transactions quickly and cheaply, and then posting a summary of those transactions back to the main Ethereum chain for security.' }] },
