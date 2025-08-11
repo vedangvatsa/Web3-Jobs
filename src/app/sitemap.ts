@@ -21,7 +21,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const articles = await getAllArticles();
   const articleRoutes = articles.map(article => ({
-    url: `${siteUrl}/blog/${article.slug}`,
+    url: `${siteUrl}/${article.slug}`,
     lastModified: new Date(), // In a real app, you'd use the article's publish date
     changeFrequency: 'monthly',
     priority: 0.7

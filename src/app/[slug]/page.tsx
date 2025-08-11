@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       title: article.title,
       description: article.description,
       type: 'article',
-      url: `${siteUrl}/blog/${article.slug}`,
+      url: `${siteUrl}/${article.slug}`,
       images: [
         {
           url: article.image,
@@ -125,7 +125,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     },
     mainEntityOfPage: {
         '@type': 'WebPage',
-        '@id': `https://web3-jobs.example.com/blog/${article.slug}`
+        '@id': `https://web3-jobs.example.com/${article.slug}`
     }
   };
 
