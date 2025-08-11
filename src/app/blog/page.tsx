@@ -95,7 +95,7 @@ export default function BlogIndexPage() {
         <div className="container mx-auto px-4 py-8">
           <section className="text-center mb-12 max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-              Our Blog
+              The Web3 Playbook
             </h1>
             <p className="mt-4 text-lg text-muted-foreground">
               Insights, guides, and news from the world of Web3.
