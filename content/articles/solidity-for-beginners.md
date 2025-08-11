@@ -1,14 +1,15 @@
 ---
-title: 'Solidity for Beginners: Your First Smart Contract'
+title: 'Solidity for Beginners Your First Smart Contract'
 image: 'https://placehold.co/1200x630.png'
 description: 'A step-by-step tutorial for beginners on how to write, compile, and deploy your very first Solidity smart contract. Learn the fundamental concepts of the most popular blockchain programming language.'
+category: 'Getting Started'
 ---
 
 So, you want to become a Web3 developer. You've heard about the exciting world of decentralized applications (dApps), DeFi, and NFTs, and you're ready to start building. The journey for most aspiring blockchain developers begins with one language: Solidity. As the primary language for programming smart contracts on Ethereum and other EVM-compatible blockchains, Solidity is the key that unlocks the door to Web3 development.
 
 But where do you start? The world of smart contracts can seem intimidating, with its talk of gas fees, immutability, and the Ethereum Virtual Machine (EVM). This guide is designed to cut through the complexity and provide a gentle, step-by-step introduction to Solidity. We'll walk you through the process of setting up your development environment, explain the core concepts of the language, and guide you in writing, compiling, and deploying your very first, simple smart contract. By the end of this tutorial, you'll have a foundational understanding of Solidity and a tangible project to show for it.
 
-## What You'll Need: Your Development Environment
+## What You'll Need Your Development Environment
 
 Before we write any code, we need a place to write and test it. While professional developers use complex local setups with tools like Hardhat or Foundry, we can start with a much simpler, web-based tool called **Remix IDE**.
 

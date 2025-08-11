@@ -1,7 +1,8 @@
 ---
-title: 'The Rise of DAOs: How to Get a Job in a Decentralized Organization'
+title: 'The Rise of DAOs How to Get a Job in a Decentralized Organization'
 image: 'https://placehold.co/1200x630.png'
 description: 'DAOs are transforming how we work. Learn what a Decentralized Autonomous Organization is, what kinds of jobs they offer, and the practical steps you can take to land a role in one.'
+category: 'Industry Insights'
 ---
 
 The traditional corporate structure has been the default model for organizing work for over a century: a top-down hierarchy with C-level executives, middle managers, and employees. But what if there was another way? What if a company could be run by a community, with decisions made transparently by its members and rules enforced by code? This is the revolutionary promise of the DAO, or Decentralized Autonomous Organization.
@@ -42,7 +43,7 @@ The idea that DAOs only need developers is a common misconception. As these orga
 6.  **Treasury Manager:** As DAOs manage treasuries worth millions or even billions of dollars, they need skilled individuals to manage these assets. This can involve diversifying the treasury, developing yield farming strategies, and financial reporting.
 7.  **Contributor / B Bounty Hunter:** Many DAOs don't have traditional full-time roles. Instead, they offer grants or "bounties" for specific tasks. This could be anything from designing a logo to writing documentation or building a new feature. This is the most common way to start working for a DAO.
 
-## The Path to a DAO Job: A Step-by-Step Guide
+## The Path to a DAO Job A Step-by-Step Guide
 
 Landing a job in a DAO is less about submitting a resume and more about demonstrating your value. The process is a journey of participation and contribution, often called "proof of work."
 

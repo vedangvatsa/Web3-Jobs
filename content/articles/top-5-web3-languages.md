@@ -2,6 +2,7 @@
 title: 'The Top 5 Programming Languages for Web3 Development'
 image: 'https://placehold.co/1200x630.png'
 description: 'An essential guide for aspiring blockchain developers. We break down the top 5 programming languages for Web3—Solidity, Rust, JavaScript, Python, and Go—and explain their use cases, pros, and cons.'
+category: 'Technology Deep Dives'
 ---
 
 The world of Web3 development is a landscape of rapid innovation, and at its foundation lies the code that powers decentralized applications and blockchains themselves. For aspiring developers looking to enter this space, a crucial first question is: "Which programming language should I learn?"
@@ -10,7 +11,7 @@ Unlike Web2 development, where a few languages dominate the stack, the Web3 ecos
 
 This guide will break down the top five most important programming languages in the Web3 space. For each language, we'll explore its primary use case, its pros and cons, the ecosystems it's used in, and the career opportunities it unlocks.
 
-## 1. Solidity: The King of Smart Contracts
+## 1. Solidity The King of Smart Contracts
 
 If you want to build applications on Ethereum or any of the dozens of EVM-compatible blockchains, you need to know Solidity. It is, without a doubt, the most in-demand language for Web3 application developers.
 
@@ -27,7 +28,7 @@ If you want to build applications on Ethereum or any of the dozens of EVM-compat
 
 **Should you learn it?** Yes. For 90% of aspiring Web3 application developers, Solidity is the mandatory starting point. It opens the door to the largest and most active part of the Web3 job market.
 
-## 2. Rust: The Language of High-Performance Blockchains
+## 2. Rust The Language of High-Performance Blockchains
 
 While Solidity dominates the application layer, Rust is quickly becoming the language of choice for building the underlying infrastructure—the blockchains themselves.
 
@@ -44,7 +45,7 @@ While Solidity dominates the application layer, Rust is quickly becoming the lan
 
 **Should you learn it?** If you have a strong computer science background, are interested in systems programming, and want to work on the core infrastructure of blockchains, learning Rust is a fantastic long-term career investment.
 
-## 3. JavaScript / TypeScript: The Universal Language of the Frontend
+## 3. JavaScript / TypeScript The Universal Language of the Frontend
 
 Your existing JavaScript and TypeScript skills are not just relevant in Web3; they are absolutely essential. Every decentralized application needs a user-friendly frontend, and that's where JavaScript reigns supreme.
 
@@ -60,7 +61,7 @@ Your existing JavaScript and TypeScript skills are not just relevant in Web3; th
 
 **Should you learn it?** If you're a frontend developer, you already have the key skill. Your next step is to learn a Web3 library like Ethers.js. If you're new to programming, JavaScript is an excellent gateway into Web3 development because you can start by building interfaces for existing protocols.
 
-## 4. Python: The Data Scientist's and Scripter's Choice
+## 4. Python The Data Scientist's and Scripter's Choice
 
 Python may not be the star of the show for writing smart contracts, but it plays a critical supporting role, especially in the areas of data analysis, testing, and scripting.
 
@@ -76,7 +77,7 @@ Python may not be the star of the show for writing smart contracts, but it plays
 
 **Should you learn it?** If your interest lies in data, analytics, or security research, Python is an excellent choice. It's also a great language for backend developers who need to build services that interact with the blockchain.
 
-## 5. Go (Golang): The Infrastructure Builder's Language
+## 5. Go (Golang) The Infrastructure Builder's Language
 
 Similar to Rust, Go is another language favored for building the core infrastructure of blockchain networks.
 

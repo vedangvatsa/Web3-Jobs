@@ -1,12 +1,13 @@
 ---
-title: 'What Is a Blockchain? The Ultimate Guide for Beginners'
+title: 'What Is a Blockchain The Ultimate Guide for Beginners'
 image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0ODU1MXww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Understand the core concepts of blockchain technology, how it works, and why it''s the foundational layer for cryptocurrencies and Web3.'
+category: 'Getting Started'
 ---
 
 You've probably heard the term "blockchain" mentioned alongside Bitcoin, Ethereum, or the broader [Web3](/what-is-web3) ecosystem. It's often described as a revolutionary technology, but what exactly is it? At its heart, a blockchain is a new kind of database, a distributed digital ledger. But that simple definition doesn’t capture its true power. A blockchain's uniqueness lies in how it structures, secures, and shares data. It's an unchangeable, transparent, and decentralized record of transactions, making it a powerful tool for creating systems that don't require trust in a central authority. This guide will break down the technology, explain its key features, and explore its impact far beyond digital currencies.
 
-## The Problem a Blockchain Solves: The Double-Spend Dilemma
+## The Problem a Blockchain Solves The Double-Spend Dilemma
 
 Before we can understand the solution, we must first understand the problem. In the digital world, anything can be copied. If you have a file, a photo, or a song, you can make infinite perfect duplicates. This is fine for most things, but it's a catastrophic problem for digital money.
 
@@ -14,7 +15,7 @@ Imagine you have a digital dollar. What stops you from spending it, and then spe
 
 The creator of Bitcoin, the pseudonymous Satoshi Nakamoto, solved the double-spend problem without a central authority. The solution was the blockchain, a system that allows a network of disconnected people to agree on a single, shared history of transactions.
 
-## How a Blockchain Works: Blocks, Chains, and Hashing
+## How a Blockchain Works Blocks, Chains, and Hashing
 
 Imagine a digital notebook that is copied and spread across thousands of computers. Every time a new entry, or transaction, is made, it gets added to a new page, called a "block." Once a block is filled with transactions, it's added to the end of the notebook, forming a "chain." Here's a closer look at the components:
 
@@ -36,7 +37,7 @@ If a hacker tried to alter a transaction in an old block, the hash of that block
 
 > A blockchain is like a digital book where each new page is glued to the previous one with a cryptographic seal. Breaking one seal breaks the entire book.
 
-### 4. Consensus Mechanisms: How Nodes Agree
+### 4. Consensus Mechanisms How Nodes Agree
 
 But how does the network decide which new block to add to the chain? This is managed by a "consensus mechanism." It's a set of rules that all participants must follow to validate transactions and add new blocks.
 
@@ -60,7 +61,7 @@ Not all blockchains are the same. They can be broadly categorized based on who c
 - **Private Blockchains**: These are permissioned networks, controlled by a single organization. The central authority determines who can join the network and what rights they have. They are often used by businesses for internal processes, offering the benefits of immutability and traceability without full decentralization. They are faster and more scalable but sacrifice censorship resistance.
 - **Consortium Blockchains**: A hybrid model where a pre-selected group of organizations or individuals controls the network. It's more decentralized than a private blockchain but not as open as a public one. These are often used for collaboration between different companies in the same industry, for example, a group of banks sharing a ledger for interbank settlements.
 
-## Beyond Cryptocurrency: The Power of Smart Contracts
+## Beyond Cryptocurrency The Power of Smart Contracts
 
 While Bitcoin introduced blockchain to the world, the technology's potential goes far beyond digital money. The real revolution came with the advent of Ethereum, which introduced the concept of [smart contracts](/what-are-smart-contracts). These are self-executing programs with the terms of the agreement directly written into code. They run on the blockchain, making them transparent, immutable, and unstoppable.
 

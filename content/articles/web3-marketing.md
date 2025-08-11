@@ -1,7 +1,8 @@
 ---
-title: 'Web3 Marketing: A Guide to Growth in a Decentralized World'
+title: 'Web3 Marketing A Guide to Growth in a Decentralized World'
 image: 'https://placehold.co/1200x630.png'
 description: 'Learn how marketing works in the Web3 space. This guide covers the key strategies, from community building and content marketing to "meme-onomics" and building a brand in a trustless environment.'
+category: 'Industry Insights'
 ---
 
 How do you market a product in a world that is inherently skeptical of advertising, resistant to central authorities, and fluent in a language of complex memes and inside jokes? This is the unique challenge and opportunity of Web3 marketing. Traditional marketing playbooks, reliant on paid ads, SEO optimization, and email campaigns, often fall flat in the crypto-native landscape.

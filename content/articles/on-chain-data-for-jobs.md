@@ -2,6 +2,7 @@
 title: 'How to Use On-Chain Data to Find Your Next Web3 Job'
 image: 'https://placehold.co/1200x630.png'
 description: 'Go beyond traditional job boards. This guide teaches you how to leverage on-chain data and analytics tools like Dune and Nansen to identify growing ecosystems, find promising projects, and get a competitive edge in your Web3 job search.'
+category: 'Career Guides'
 ---
 
 In the traditional job market, your search is limited by the information companies choose to share. You look at job boards, read press releases, and try to gauge a company's health through carefully curated public statements. In Web3, the rules are different. Thanks to the transparent nature of the blockchain, a vast treasure trove of real-time, unbiased data is available to anyone with the skills to analyze it. This is "on-chain data."
@@ -10,7 +11,7 @@ On-chain data is the public record of all activity happening on a blockchain. It
 
 Instead of waiting for a project to post a job opening, you can analyze on-chain data to see which projects are growing the fastest, attracting the most users, and generating the most revenue. This data-driven approach can help you discover promising projects before they even have a formal hiring process and give you a massive competitive edge. This guide will show you how to use on-chain analytics tools to become a "Web3-native" job hunter.
 
-## The Alpha: Why On-Chain Data Matters for Job Seekers
+## The Alpha Why On-Chain Data Matters for Job Seekers
 
 Using on-chain data gives you several distinct advantages:
 
