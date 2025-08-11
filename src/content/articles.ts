@@ -311,7 +311,7 @@ const articles: Article[] = [
           { type: 'li', children: [{ type: 'text', value: 'Expert-Level Solidity and EVM Knowledge: You must have a masterful understanding of Solidity and the EVM. This goes beyond just writing contracts; it means understanding low-level opcodes, memory layout, and the subtle details of how the EVM runs code.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Deep Understanding of DeFi Primitives: You can\'t audit what you don\'t understand. You need deep knowledge of Automated Market Makers (AMMs), lending protocols, vaults, derivatives, and other common financial tools. You need to understand their economic assumptions and where they can go wrong.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Proficiency with Testing Frameworks: You must be an expert in modern testing tools like Foundry or Hardhat to write comprehensive tests, including fuzz tests and formal verification.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Knowledge of Common Attack Vectors: You need to have an encyclopedic knowledge of past exploits and common vulnerability patterns, such as reentrancy, oracle manipulation, integer overflow/underflow, and front-running.' }]},
+          { type: 'li', children: [{ type: 'text', value: 'Knowledge of Common Attack Vectors: You need to have an encyclopedic knowledge of past exploits and common vulnerability patterns, such as reentrancy, oracle manipulation, and integer overflow/underflow.' }]},
         ]
       },
       { type: 'h3', children: [{ type: 'text', value: 'The Auditor\'s Mindset' }] },
