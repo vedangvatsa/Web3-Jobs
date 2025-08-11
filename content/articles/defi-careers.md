@@ -1,5 +1,5 @@
 ---
-title: 'Careers Job Opportunities in Decentralized Finance'
+title: 'Careers: Job Opportunities in Decentralized Finance'
 image: 'https://images.unsplash.com/photo-1459180129673-eefb56f79b45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJlZXJ8ZW58MHx8fHwxNzU0OTUzMjEzfDA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'A deep dive into the career landscape of Decentralized Finance (DeFi). Explore the key roles, from smart contract engineering to quantitative analysis, and learn what it takes to work in this innovative sector.'
 category: 'Career Guides'
@@ -11,29 +11,29 @@ This financial paradigm shift has created a vibrant and rapidly growing job mark
 
 A career in DeFi is not for the faint of heart. It's a high-stakes environment where a single bug in a smart contract can lead to the loss of millions of dollars. The market is volatile, the technology is complex, and the landscape changes on a weekly basis. But for those who are passionate about finance, technology, and building a more open economic system, it offers some of the most challenging and rewarding career opportunities in the world. This guide will explore the key job roles within the DeFi ecosystem, the skills required to land them, and the unique challenges and opportunities of working in this space.
 
-## The Landscape of DeFi Where the Jobs Are
+## The Landscape of DeFi: Where the Jobs Are
 
 The DeFi ecosystem is a complex tapestry of interconnected protocols, each serving a specific function. Understanding these categories is key to finding your niche.
 
 ### Decentralized Exchanges (DEXs)
-**Description:** Platforms for peer-to-peer trading of crypto assets without a central order book.
-**Example Protocols:** Uniswap, Curve, dYdX
+- **Description:** Platforms for peer-to-peer trading of crypto assets without a central order book.
+- **Example Protocols:** Uniswap, Curve, dYdX
 
 ### Lending & Borrowing
-**Description:** Protocols that allow users to lend their assets to earn interest or borrow against their collateral.
-**Example Protocols:** Aave, Compound, MakerDAO
+- **Description:** Protocols that allow users to lend their assets to earn interest or borrow against their collateral.
+- **Example Protocols:** Aave, Compound, MakerDAO
 
 ### Asset Management / Yield
-**Description:** "Yield aggregators" that automatically move user funds between different DeFi protocols to maximize returns.
-**Example Protocols:** Yearn Finance, Convex Finance
+- **Description:** "Yield aggregators" that automatically move user funds between different DeFi protocols to maximize returns.
+- **Example Protocols:** Yearn Finance, Convex Finance
 
 ### Derivatives
-**Description:** Platforms for creating synthetic assets, options, and futures on the blockchain.
-**Example Protocols:** Synthetix, GMX, Perpetual Protocol
+- **Description:** Platforms for creating synthetic assets, options, and futures on the blockchain.
+- **Example Protocols:** Synthetix, GMX, Perpetual Protocol
 
 ### Infrastructure & Oracles
-**Description:** Services that provide essential data (like real-world asset prices) to smart contracts.
-**Example Protocols:** Chainlink, The Graph
+- **Description:** Services that provide essential data (like real-world asset prices) to smart contracts.
+- **Example Protocols:** Chainlink, The Graph
 
 Jobs can be found at the protocol level (working for the DAO or company that builds the protocol) or in the surrounding ecosystem (at venture capital firms, security audit firms, or data analytics platforms that focus on DeFi).
 
