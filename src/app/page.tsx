@@ -6,7 +6,7 @@ import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
-import { Send } from 'lucide-react';
+import { Send, Rss } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 export default async function Home() {
@@ -27,6 +27,17 @@ export default async function Home() {
           </section>
 
           <div className="max-w-6xl mx-auto">
+             <div className="text-center mb-6">
+                <Link
+                  href="https://t.me/web3hiring"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-muted-foreground hover:text-primary transition-colors group inline-flex items-center gap-2"
+                >
+                  <Rss className="h-4 w-4 transition-transform group-hover:scale-110" />
+                  <span>Join <strong>56,000+</strong> subscribers on one of the largest Web3 job feeds on Telegram.</span>
+                </Link>
+             </div>
             <TrustedBy />
             <JobBoard initialJobs={initialJobs} />
           </div>
