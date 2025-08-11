@@ -1,6 +1,6 @@
 ---
 title: 'How to Use On-Chain Data to Find Your Next Web3 Job'
-image: 'https://placehold.co/1200x630.png'
+image: 'https://images.unsplash.com/photo-1545987796-200677ee1011?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8RGF0YXxlbnwwfHx8fDE3NTQ5NTM3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Go beyond traditional job boards. This guide teaches you how to leverage on-chain data and analytics tools like Dune and Nansen to identify growing ecosystems, find promising projects, and get a competitive edge in your Web3 job search.'
 category: 'Career Guides'
 ---
