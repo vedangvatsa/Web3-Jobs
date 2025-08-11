@@ -38,10 +38,6 @@ export default async function Home() {
                                Join 56,000+ subscribers on one of the largest Web3 job feeds.
                             </p>
                         </div>
-                        <div className="bg-background/80 group-hover:bg-background rounded-md px-3 py-2 text-sm font-medium flex items-center gap-2">
-                            <span>Join Channel</span>
-                            <Send className="h-4 w-4" />
-                        </div>
                     </div>
                 </div>
             </Link>
