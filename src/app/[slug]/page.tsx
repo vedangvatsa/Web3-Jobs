@@ -98,10 +98,12 @@ const renderBlock = (block: any, index: number) => {
       );
     case 'cta':
         return (
-            <div key={index} className="my-8 p-6 bg-secondary rounded-lg text-center">
-                <Link href={block.href} target="_blank" rel="noopener noreferrer">
-                    <Button size="lg">{block.text}</Button>
-                </Link>
+            <div key={index} className="my-8 text-center">
+                <Button size="lg" asChild className="bg-accent hover:bg-accent/90 text-accent-foreground">
+                  <Link href={block.href} target="_blank" rel="noopener noreferrer">
+                      {block.text}
+                  </Link>
+                </Button>
             </div>
         )
     default:
