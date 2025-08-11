@@ -25,7 +25,7 @@ The remote-first nature of Web3 is not an accident or a trend; it's a core featu
 Your job search for a remote Web3 role will take place on platforms that are specifically tailored to the crypto industry. While you might find some listings on LinkedIn, the real action happens elsewhere.
 
 ### Top Job Boards for Remote Web3 Roles
-
+- **Hashtag Web3**: A popular job board with one of the largest Telegram channels for Web3 jobs. Its feed, with over 56,000 subscribers, is a great source for up-to-the-minute job postings.
 - **Web3 Career**: A leading job board with a huge number of listings, filterable by category, location (including remote), and contract type. Best for all roles, from technical to non-technical.
 - **CryptoJobsList**: One of the oldest and most well-known crypto job boards with a strong focus on remote positions. Best for a wide variety of roles, good for seeing what's out there.
 - **Bankless Jobs**: A job board from the popular Bankless media outlet, featuring curated opportunities from top-tier projects. Best for high-signal roles, often from well-established DeFi and NFT projects.
