@@ -1,3 +1,4 @@
+
 import Parser from 'rss-parser';
 import type { Job } from '@/types';
 
@@ -12,6 +13,13 @@ const FEEDS = [
 
 const parser = new Parser();
 
+// Helper function to strip HTML and clean the company name
+function cleanCompany(company: string | undefined): string | undefined {
+    if (!company) return undefined;
+    // Strip HTML tags and then take only the first line.
+    return company.replace(/<[^>]*>?/gm, '').split('\n')[0].trim();
+}
+
 export async function getJobs(): Promise<Job[]> {
   const allJobs: Job[] = [];
   const seenJobs = new Set<string>();
@@ -22,7 +30,7 @@ export async function getJobs(): Promise<Job[]> {
       if (feed?.items) {
         feed.items.forEach((item) => {
           const title = item.title?.trim();
-          const company = item.content?.trim();
+          const company = cleanCompany(item.content);
           const link = item.link;
 
           if (title && company && link && title.split(' ').length <= 7) {
