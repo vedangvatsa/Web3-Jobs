@@ -1,6 +1,6 @@
 ---
 title: 'What Are Smart Contracts? The Automation Engines of Web3'
-image: 'https://images.unsplash.com/photo-1617396900799-f4ec2b43c7ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNXx8YmxvY2tjaGFpbnxlbnwwfHx8fDE3NTQ5NDkzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080'
+image: 'https://placehold.co/1200x630.png'
 description: 'Discover how smart contracts work, why they are essential for DeFi and NFTs, and how they are enabling a new wave of decentralized applications.'
 ---
 
