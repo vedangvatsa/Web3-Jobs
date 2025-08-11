@@ -116,10 +116,11 @@ const renderBlock = (block: ContentBlock, index: number) => {
             <div key={index} className="my-8 grid gap-6 md:grid-cols-2">
                 {block.points.map((point, pointIndex) => {
                     const Icon = iconMap[point.icon];
+                    if (!Icon) return null;
                     return (
                         <Card key={pointIndex} className="bg-card/50">
                             <CardHeader className="flex flex-row items-center gap-4">
-                                {Icon && <Icon className="h-8 w-8 text-primary" />}
+                                <Icon className="h-8 w-8 text-primary" />
                                 <CardTitle className="text-lg">{point.title}</CardTitle>
                             </CardHeader>
                             <CardContent>
