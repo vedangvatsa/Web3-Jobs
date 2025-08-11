@@ -1,6 +1,6 @@
 ---
 title: 'Remote Web3 Jobs: Find and Land a Position from Anywhere'
-image: 'https://placehold.co/1200x630.png'
+image: 'https://images.unsplash.com/photo-1589591830600-7ba977995a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8UmVtb3RlJTIwam9ic3xlbnwwfHx8fDE3NTQ5NTQxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'The ultimate guide to finding a remote job in the Web3 industry. Learn where to look, what skills you need, and how to succeed in a globally distributed, asynchronous work environment.'
 category: 'Career Guides'
 ---
