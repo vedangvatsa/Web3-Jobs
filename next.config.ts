@@ -33,6 +33,9 @@ const nextConfig: NextConfig = {
         pathname: '/**',
       }
     ],
+    domains: [
+      'web3-jobs.example.com'
+    ],
   },
 };
 
