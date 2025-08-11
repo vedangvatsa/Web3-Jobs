@@ -4,7 +4,6 @@ import { JobBoard } from '@/components/job-board';
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
-import { TrustedBy } from '@/components/trusted-by';
 
 export default async function Home() {
   const initialJobs = await getJobs();
@@ -22,8 +21,6 @@ export default async function Home() {
               The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
             </p>
           </section>
-
-          <TrustedBy />
 
           <JobBoard initialJobs={initialJobs} />
         </div>

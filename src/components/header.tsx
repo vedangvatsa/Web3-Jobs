@@ -1,6 +1,6 @@
 
 import { Button } from '@/components/ui/button';
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger, DropdownMenuSeparator } from '@/components/ui/dropdown-menu';
 import { Menu } from 'lucide-react';
 import Link from 'next/link';
 
@@ -33,29 +33,29 @@ export function Header() {
 
                 {/* Mobile Navigation */}
                 <div className="md:hidden">
-                    <Sheet>
-                        <SheetTrigger asChild>
+                    <DropdownMenu>
+                        <DropdownMenuTrigger asChild>
                             <Button variant="ghost" size="icon">
                                 <Menu className="h-6 w-6" />
                                 <span className="sr-only">Toggle navigation menu</span>
                             </Button>
-                        </SheetTrigger>
-                        <SheetContent side="right">
-                            <div className="grid gap-4 py-6">
-                                <Link href="/" className="text-lg font-bold tracking-tight text-foreground">
-                                    Hashtag Web3
-                                </Link>
-                                {navLinks.map((link) => (
-                                    <a key={link.label} href={link.href} target={link.target} rel={link.target ? "noopener noreferrer" : undefined} className="text-muted-foreground transition-colors hover:text-foreground">
+                        </DropdownMenuTrigger>
+                        <DropdownMenuContent align="end" className="w-56">
+                            {navLinks.map((link) => (
+                                <DropdownMenuItem key={link.label} asChild>
+                                    <a href={link.href} target={link.target} rel={link.target ? "noopener noreferrer" : undefined}>
                                         {link.label}
                                     </a>
-                                ))}
+                                </DropdownMenuItem>
+                            ))}
+                            <DropdownMenuSeparator />
+                             <DropdownMenuItem asChild>
                                 <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
                                     <Button className="w-full">Post a Job</Button>
                                 </a>
-                            </div>
-                        </SheetContent>
-                    </Sheet>
+                            </DropdownMenuItem>
+                        </DropdownMenuContent>
+                    </DropdownMenu>
                 </div>
             </div>
       </header>
