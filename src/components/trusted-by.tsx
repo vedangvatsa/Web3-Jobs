@@ -24,14 +24,14 @@ export function TrustedBy() {
                            {logos.map((item) => (
                                 <div
                                     key={item.name}
-                                    className="py-4 px-6 sm:px-6 lg:px-8 text-muted-foreground/60 hover:text-foreground transition-colors"
+                                    className="py-4 px-6 sm:px-6 lg:px-8"
                                 >
                                     <Image 
                                       src={item.src} 
                                       alt={item.name} 
                                       width={item.width} 
                                       height={item.height}
-                                      className="h-6 w-auto"
+                                      className="h-7 w-auto transition-opacity opacity-60 hover:opacity-100"
                                       unoptimized
                                     />
                                     <span className="sr-only">{item.name}</span>
