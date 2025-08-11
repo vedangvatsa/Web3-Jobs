@@ -129,7 +129,7 @@ const articles: Article[] = [
   {
     slug: 'web3-developer-salary-guide',
     title: 'Web3 Developer Salary Guide: An In-Depth Analysis',
-    image: 'https://images.unsplash.com/photo-1640826514546-75c1289c5f87?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A comprehensive guide to Web3 developer salaries. We cover salary expectations, equity, tokens, and negotiation strategies for blockchain developers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Web3 development is one of the highest-paying fields in tech right now. The high demand for a very specific set of skills combined with a small talent pool has pushed salaries way up. But figuring out compensation in this space can be tricky, since it\'s often more than just a base salary.' }] },
@@ -343,7 +343,7 @@ const articles: Article[] = [
   {
     slug: 'defi-jobs-guide',
     title: 'The In-Depth Guide to Decentralized Finance (DeFi) Jobs',
-    image: 'https://images.unsplash.com/photo-1642104793539-2699a7385974?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1640826514546-75c1289c5f87?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An exploration of career opportunities in the booming DeFi sector. From quantitative analysts to protocol engineers, find your place in the future of finance.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Finance (DeFi) is one of the most vibrant, innovative, and well-funded areas in the entire Web3 ecosystem. Its huge goal is to rebuild the global financial system on open, permissionless blockchains, cutting out the need for traditional middlemen like banks and brokers. This has created a new financial world and a matching demand for a new kind of professional who can mix finance, technology, and game theory.' }] },
@@ -488,7 +488,7 @@ const articles: Article[] = [
   {
     slug: 'web3-marketing-guide',
     title: 'Web3 Marketing: A Guide to Strategies for a Decentralized World',
-    image: 'https://images.unsplash.com/photo-1554224155-8d044b4a15e6?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642427749670-f20e2e76f8c8?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Learn how to market a Web3 project in this in-depth guide. We cover the unique challenges and opportunities of marketing in the crypto and blockchain space.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Marketing in the Web3 space is totally different from traditional Web2 marketing. The audience is hyper-intelligent, deeply skeptical of advertising, and values authenticity and community above all else. The old playbook of paid ads, gated content, and slick campaigns isn\'t just ineffective; it can actually hurt a project\'s reputation. To succeed, Web3 marketers have to throw out the old rules and embrace a new set of strategies native to the crypto culture.' }] },
@@ -529,7 +529,7 @@ const articles: Article[] = [
   {
     slug: 'remote-web3-jobs',
     title: 'The Ultimate Guide to Finding Remote Web3 Jobs',
-    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1586953208448-b95a6902d152?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A guide to finding a remote job in the Web3 and crypto industry. Learn where to look, how to apply, and what companies are hiring remotely.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 industry isn\'t just remote-friendly; it\'s remote-native. The core idea of decentralization—spreading power and control away from a central point—naturally extends to how companies in the space operate. The most innovative projects are often fully distributed teams, with members working together across every time zone on the planet. This isn\'t a trend; it\'s a core feature of the industry.' }] },
@@ -611,7 +611,7 @@ const articles: Article[] = [
   {
     slug: 'web3-gaming-jobs',
     title: 'The Ultimate Guide to Web3 Gaming Jobs',
-    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the exciting world of Web3 gaming careers. From game developers to economy designers, find out how to get a job in the blockchain gaming industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Blockchain technology is set to shake up the multi-billion dollar gaming industry. By enabling true ownership of in-game assets (as NFTs), creating player-driven economies, and allowing for games to interact with each other, Web3 is creating a new kind of gaming that gives more power and value to the players.' }] },
@@ -650,7 +650,7 @@ const articles: Article[] = [
   {
     slug: 'dao-governance-careers',
     title: 'Careers in DAO Governance: A Deep Dive',
-    image: 'https://images.unsplash.com/photo-1642104793539-2699a7385974?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1554224155-169544356368?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the emerging field of DAO governance. Learn about the roles and responsibilities of DAO contributors, from governance facilitators to delegates.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Autonomous Organizations (DAOs) represent a huge shift in how we organize people and money. They are internet-native, community-led organizations with no central authority, where decisions are made collectively through proposals and voting on a blockchain. This new way of structuring companies has created an entirely new field of work centered around DAO governance.' }] },
@@ -906,7 +906,7 @@ const articles: Article[] = [
   {
     slug: 'web3-product-manager-jobs',
     title: 'A Guide to Product Management in Web3',
-    image: 'https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Learn what it takes to be a Product Manager in the Web3 space. We cover the unique challenges, skills, and mindset required for this critical role.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The role of a Product Manager (PM) in Web3 is one of the most challenging, complex, and rewarding positions in the industry. Traditional PM skills are still valuable, but they are not enough. A Web3 PM must be a unique blend of product strategist, systems thinker, community diplomat, and technical translator.' }] },
@@ -942,7 +942,7 @@ const articles: Article[] = [
   {
     slug: 'crypto-data-analyst-jobs',
     title: 'How to Become a Data Analyst in the Crypto Industry',
-    image: 'https://images.unsplash.com/photo-1554224155-8d044b4a15e6?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642839434449-f027d1b37856?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A career guide for data analysts in Web3. Learn about the tools (like Dune Analytics), skills (like SQL), and opportunities for data professionals in crypto.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Blockchains are public, transparent databases. Every transaction, every trade, and every vote is recorded on-chain for the entire world to see. This has created an unprecedented explosion of open data and a massive demand for data analysts who can turn this raw information into actionable insights. In Web3, data isn\'t just a byproduct; it\'s a core part of the ecosystem.' }] },
