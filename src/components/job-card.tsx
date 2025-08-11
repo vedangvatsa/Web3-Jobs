@@ -1,18 +1,24 @@
 'use client';
 
 import type { Job } from '@/types';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
+import { formatDistanceToNow } from 'date-fns';
 
 export function JobCard({ job }: { job: Job }) {
+  const postedAt = formatDistanceToNow(new Date(job.date), { addSuffix: true });
+
   return (
-    <a href={job.link} target="_blank" rel="noopener noreferrer" className="block transform transition-all duration-300 hover:-translate-y-1">
+    <a href={job.link} target="_blank" rel="noopener noreferrer" className="block transform transition-all duration-200 hover:-translate-y-0.5">
       <Card className="flex flex-col h-full rounded-xl shadow-md hover:shadow-lg border-transparent hover:border-border/60">
         <CardHeader className="pb-2 pt-4 px-4">
           <CardTitle className="text-base leading-snug font-semibold">{job.title}</CardTitle>
         </CardHeader>
-        <CardContent className="flex-grow pt-0 pb-4 px-4">
+        <CardContent className="flex-grow pt-0 pb-3 px-4">
           <p className="text-sm text-muted-foreground">{job.company}</p>
         </CardContent>
+        <CardFooter className="px-4 pb-3">
+            <p className="text-xs text-muted-foreground/80">{postedAt}</p>
+        </CardFooter>
       </Card>
     </a>
   );
