@@ -8,6 +8,9 @@ import { Metadata } from 'next';
 import type { Article as ArticleSchema } from 'schema-dts';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { ArrowRight, CheckCircle, Code, DollarSign, Globe, Group, GanttChartSquare, Landmark, Layers, Lock, TestTube, ThumbsDown, Zap } from 'lucide-react';
+import type { ContentBlock } from '@/types';
 
 type ArticlePageProps = {
   params: {
@@ -70,7 +73,23 @@ const renderNode = (node: any, key: number) => {
     }
 };
 
-const renderBlock = (block: any, index: number) => {
+const iconMap: { [key: string]: React.ComponentType<any> } = {
+  decentralization: Globe,
+  blockchain: Layers,
+  trustless: Lock,
+  ownership: Code,
+  defi: Landmark,
+  nfts: GanttChartSquare,
+  daos: Group,
+  'decentralized-social': MessageSquare,
+  ux: ThumbsDown,
+  scalability: Zap,
+  security: Lock,
+  regulation: TestTube,
+};
+
+
+const renderBlock = (block: ContentBlock, index: number) => {
   switch (block.type) {
     case 'h2':
       return <h2 key={index} className="text-3xl font-bold mt-8 mb-4">{block.children.map(renderNode)}</h2>;
@@ -90,6 +109,25 @@ const renderBlock = (block: any, index: number) => {
                       {block.text}
                   </Link>
                 </Button>
+            </div>
+        )
+    case 'keyPoints':
+        return (
+            <div key={index} className="my-8 grid gap-6 md:grid-cols-2">
+                {block.points.map((point, pointIndex) => {
+                    const Icon = iconMap[point.icon];
+                    return (
+                        <Card key={pointIndex} className="bg-card/50">
+                            <CardHeader className="flex flex-row items-center gap-4">
+                                {Icon && <Icon className="h-8 w-8 text-primary" />}
+                                <CardTitle className="text-lg">{point.title}</CardTitle>
+                            </CardHeader>
+                            <CardContent>
+                                <p className="text-muted-foreground">{point.description}</p>
+                            </CardContent>
+                        </Card>
+                    )
+                })}
             </div>
         )
     default:

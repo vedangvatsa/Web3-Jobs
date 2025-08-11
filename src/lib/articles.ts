@@ -1,5 +1,6 @@
 
 import type { Article } from '@/types';
+import { MessageSquare } from 'lucide-react';
 
 const articles: Article[] = [
   {
@@ -42,13 +43,13 @@ const articles: Article[] = [
         children: [{ type: 'text', value: 'The Core Pillars of Web3' }],
       },
       {
-        type: 'ul',
-        children: [
-          { type: 'li', children: [{ type: 'text', value: 'Decentralization: ', style: 'bold' }, { type: 'text', value: 'Instead of data being stored on servers owned by a single company, it\'s distributed across a global network of computers. This creates a resilient, censorship-resistant foundation where no single entity has control.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Blockchain & Crypto: ', style: 'bold' }, { type: 'text', value: 'Blockchains like Ethereum act as a global "state machine." They are transparent, immutable ledgers that track transactions and the state of applications. Cryptocurrencies are the native economic layer, enabling value transfer and incentivizing network participants.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Verifiable & Trustless: ', style: 'bold' }, { type: 'text', value: 'Because the logic is encoded in open-source smart contracts on a public blockchain, users can verify the rules of an application themselves. You don\'t have to trust a company; you just have to trust the code.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Self-Custody & Digital Ownership: ', style: 'bold' }, { type: 'text', value: 'Users manage their own assets and identity through cryptographic wallets (e.g., MetaMask). This is the key to true ownership. Your assets are in your wallet, not on a company\'s database, and only you can access them with your private keys.' }] },
-        ],
+        type: 'keyPoints',
+        points: [
+            { icon: 'decentralization', title: 'Decentralization', description: 'Data is distributed across a global network, creating a resilient, censorship-resistant foundation where no single entity has control.' },
+            { icon: 'blockchain', title: 'Blockchain & Crypto', description: 'Blockchains are transparent, immutable ledgers that track transactions, while cryptocurrencies provide the native economic layer.' },
+            { icon: 'trustless', title: 'Verifiable & Trustless', description: 'Users can verify the rules of an application themselves via open-source smart contracts, removing the need to trust a central company.' },
+            { icon: 'ownership', title: 'Self-Custody & Digital Ownership', description: 'Users manage their own assets and identity through cryptographic wallets, ensuring true ownership that cannot be revoked.' },
+        ]
       },
       {
         type: 'blockquote',
@@ -72,12 +73,12 @@ const articles: Article[] = [
         ],
       },
       {
-        type: 'ul',
-        children: [
-            { type: 'li', children: [{ type: 'text', value: 'DeFi (Decentralized Finance): ', style: 'bold' }, { type: 'text', value: 'Financial services like lending, borrowing, and trading built on open protocols. (See our separate guide on DeFi for more!)'}] },
-            { type: 'li', children: [{ type: 'text', value: 'NFTs (Non-Fungible Tokens): ', style: 'bold' }, { type: 'text', value: 'Provably unique digital assets representing ownership of art, collectibles, in-game items, or even real-world assets.'}] },
-            { type: 'li', children: [{ type: 'text', value: 'DAOs (Decentralized Autonomous Organizations): ', style: 'bold' }, { type: 'text', value: 'Internet-native organizations where members vote on decisions and manage collective resources using tokens.'}] },
-            { type: 'li', children: [{ type: 'text', value: 'Decentralized Social Media: ', style: 'bold' }, { type: 'text', value: 'Platforms like Farcaster and Lens Protocol aim to give users control over their social graph and content, free from the whims of a central algorithm.'}] },
+        type: 'keyPoints',
+        points: [
+            { icon: 'defi', title: 'DeFi (Decentralized Finance)', description: 'Financial services like lending, borrowing, and trading built on open protocols, available to anyone with an internet connection.' },
+            { icon: 'nfts', title: 'NFTs (Non-Fungible Tokens)', description: 'Provably unique digital assets representing ownership of art, collectibles, in-game items, or even real-world assets.' },
+            { icon: 'daos', title: 'DAOs (Decentralized Autonomous Organizations)', description: 'Internet-native organizations where members vote on decisions and manage collective resources using governance tokens.' },
+            { icon: 'decentralized-social', title: 'Decentralized Social Media', description: 'Platforms where users control their own data and social graph, free from the whims of a central algorithm or censorship.' },
         ]
       },
        {
@@ -95,13 +96,13 @@ const articles: Article[] = [
           { type: 'text', value: 'Web3 is not a utopia. The path to a decentralized future is fraught with significant challenges:' }
         ],
       },
-       {
-        type: 'ul',
-        children: [
-            { type: 'li', children: [{ type: 'text', value: 'User Experience (UX): ', style: 'bold' }, { type: 'text', value: 'Using Web3 applications can be daunting. Managing wallets, seed phrases, and gas fees is a major hurdle for mainstream adoption.'}] },
-            { type: 'li', children: [{ type: 'text', value: 'Scalability: ', style: 'bold' }, { type: 'text', value: 'Blockchains like Ethereum can only process a limited number of transactions per second, leading to high fees during peak demand. Solutions like Layer 2 rollups are actively being developed to address this.'}] },
-            { type: 'li', children: [{ type: 'text', value: 'Security & Scams: ', style: 'bold' }, { type: 'text', value: 'The self-custody nature of Web3 means users are fully responsible for their security. Phishing attacks, smart contract bugs, and scams are rampant.'}] },
-            { type: 'li', children: [{ type: 'text', value: 'Regulation: ', style: 'bold' }, { type: 'text', value: 'Governments around the world are still figuring out how to approach this new technology, creating an uncertain regulatory landscape.'}] },
+      {
+        type: 'keyPoints',
+        points: [
+            { icon: 'ux', title: 'User Experience (UX)', description: 'Using Web3 can be daunting. Managing wallets, seed phrases, and gas fees is a major hurdle for mainstream adoption.' },
+            { icon: 'scalability', title: 'Scalability', description: 'Blockchains like Ethereum can only process a limited number of transactions per second, leading to high fees. Layer 2 solutions are actively being developed to address this.' },
+            { icon: 'security', title: 'Security & Scams', description: 'The self-custody nature of Web3 means users are responsible for their security. Phishing, smart contract bugs, and scams are rampant.' },
+            { icon: 'regulation', title: 'Regulation', description: 'Governments worldwide are still figuring out how to approach this new technology, creating an uncertain regulatory landscape.' },
         ]
       },
        {
@@ -159,14 +160,13 @@ const articles: Article[] = [
         children: [{ type: 'text', value: 'The Core Components of the DeFi Stack' }],
       },
       {
-        type: 'ul',
-        children: [
-          { type: 'li', children: [{ type: 'text', value: 'Decentralized Exchanges (DEXs): ', style: 'bold' }, { type: 'text', value: 'Platforms like Uniswap and Curve allow users to trade digital assets directly from their wallets without a central intermediary. They use Automated Market Makers (AMMs)—pools of assets governed by an algorithm—to facilitate trades instead of traditional order books.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Lending & Borrowing Protocols: ', style: 'bold' }, { type: 'text', value: 'Protocols like Aave and Compound allow users to lend their crypto to earn interest or borrow assets by supplying collateral. Interest rates are determined algorithmically based on real-time supply and demand.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Stablecoins: ', style: 'bold' }, { type: 'text', value: 'The bedrock of DeFi. These are cryptocurrencies like USDC and DAI, which are pegged to a stable asset (like the US dollar) to minimize volatility and serve as a reliable medium of exchange.' }] },
-           { type: 'li', children: [{ type: 'text', value: 'Liquid Staking: ', style: 'bold' }, { type: 'text', value: 'Protocols like Lido allow users to stake their assets (e.g., ETH) to help secure the network and earn rewards, while receiving a liquid token representation (e.g., stETH) that can be used elsewhere in DeFi. This unlocks liquidity that would otherwise be locked up.' }] },
-           { type: 'li', children: [{ type: 'text', value: 'Derivatives & Synthetics: ', style: 'bold' }, { type: 'text', value: 'Platforms like Synthetix and GMX enable the creation of synthetic assets that track the price of real-world assets (like stocks or commodities) and allow for on-chain perpetual futures trading.' }] },
-        ],
+        type: 'keyPoints',
+        points: [
+          { icon: 'decentralization', title: 'Decentralized Exchanges (DEXs)', description: 'Platforms like Uniswap allow users to trade assets directly from their wallets using Automated Market Makers (AMMs) instead of traditional order books.' },
+          { icon: 'blockchain', title: 'Lending & Borrowing', description: 'Protocols like Aave and Compound allow users to lend crypto to earn interest or borrow assets by supplying collateral, with algorithmically set rates.' },
+          { icon: 'trustless', title: 'Stablecoins', description: 'The bedrock of DeFi. Cryptocurrencies like USDC and DAI are pegged to stable assets (e.g., USD) to minimize volatility and serve as a reliable medium of exchange.' },
+          { icon: 'ownership', title: 'Liquid Staking', description: 'Protocols like Lido unlock liquidity by allowing users to stake assets to secure the network while receiving a liquid token representation that can be used elsewhere in DeFi.' },
+        ]
       },
       {
         type: 'cta',
