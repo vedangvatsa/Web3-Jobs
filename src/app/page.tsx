@@ -13,12 +13,12 @@ export default async function Home() {
     <div className="flex flex-col min-h-screen bg-background">
       <Header />
       <main className="flex-1">
-        <div className="container mx-auto px-4 py-8 md:py-16">
-          <section className="text-center mb-12">
-            <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl text-primary">
+        <div className="container mx-auto px-4 py-12 md:py-20">
+          <section className="text-center mb-16">
+            <h1 className="text-5xl font-extrabold tracking-tight lg:text-6xl text-primary">
               Find your next Web3 Job
             </h1>
-            <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
+            <p className="mt-6 text-xl text-muted-foreground max-w-3xl mx-auto">
               The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
             </p>
           </section>
