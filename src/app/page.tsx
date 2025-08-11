@@ -14,7 +14,7 @@ export default async function Home() {
       <Header />
       <main className="flex-1">
         <div className="container mx-auto px-4 py-8 md:py-12">
-          <section className="text-center mb-10 max-w-4xl mx-auto">
+          <section className="text-center mb-10 max-w-6xl mx-auto">
             <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-primary">
               Find your next Web3 Job
             </h1>
@@ -23,7 +23,7 @@ export default async function Home() {
             </p>
           </section>
 
-          <div className="max-w-4xl mx-auto">
+          <div className="max-w-6xl mx-auto">
             <TrustedBy />
             <JobBoard initialJobs={initialJobs} />
           </div>
