@@ -42,12 +42,6 @@ type ContentBlock = {
     type: 'blockquote';
     children: BlockquoteParagraph[];
 } | {
-  type: 'image';
-  src: string;
-  alt: string;
-  caption?: string;
-  'data-ai-hint'?: string;
-} | {
     type: 'cta',
     text: string;
     href: string;

@@ -51,13 +51,6 @@ const articles: Article[] = [
         ],
       },
       {
-        type: 'image',
-        src: 'https://placehold.co/800x400.png',
-        alt: 'A diagram showing the difference between centralized Web2 and decentralized Web3.',
-        'data-ai-hint': 'decentralized network diagram',
-        caption: 'Web3 distributes control, moving away from centralized authorities.'
-      },
-      {
         type: 'blockquote',
         children: [
             {
@@ -179,13 +172,6 @@ const articles: Article[] = [
         type: 'cta',
         text: 'Web3 Job Feed',
         href: 'https://t.me/web3hiring'
-      },
-       {
-        type: 'image',
-        src: 'https://placehold.co/800x400.png',
-        alt: 'An illustration of DeFi concepts like lending and trading.',
-        'data-ai-hint': 'financial technology blockchain',
-        caption: 'DeFi applications are often called "money legos" because they can be combined in novel ways.'
       },
       {
         type: 'h2',
