@@ -35,6 +35,7 @@ export default function ArticlesPage() {
                 <Card className="flex flex-col h-full rounded-xl shadow-sm transition-all duration-300 group-hover:shadow-lg border overflow-hidden">
                   <CardHeader className="p-0">
                     <Image
+                      key={article.slug}
                       src={article.image}
                       alt={article.title}
                       width={600}

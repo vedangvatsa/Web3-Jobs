@@ -5,7 +5,7 @@ const articles: Article[] = [
   {
     slug: 'how-to-get-a-job-in-web3',
     title: 'How to Get a Job in Web3: A Comprehensive Guide',
-    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642104793539-2699a7385974?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Your ultimate guide to landing a job in the exciting world of Web3. From developing skills to acing the interview, we cover it all.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 world is growing fast, opening up a ton of new jobs for tech pros, creatives, and strategists. These aren\'t your typical tech roles. They often need a mix of skills: a solid grasp of blockchain, a belief in decentralized ideas, and a real passion for community-led projects. This space isn\'t a tiny niche anymore; it\'s the next version of the internet, and companies are desperate for talent. That\'s a huge plus for anyone willing to jump in and learn.' }] },
@@ -78,7 +78,7 @@ const articles: Article[] = [
   {
     slug: 'top-web3-companies-hiring',
     title: 'Top Web3 Companies Actively Hiring Now',
-    image: 'https://images.unsplash.com/photo-1642104793539-2699a7385974?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An in-depth look at the leading Web3 companies that are actively scaling their teams. Explore opportunities at top-tier protocols, dApps, and infrastructure providers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 world is always building, and the need for talented people has never been greater. Even when the market is up or down, the demand for skilled engineers, product managers, marketers, and designers to build the decentralized future doesn\'t go away. If you\'re looking to get into this space, knowing where to look is the first step.' }] },
@@ -131,7 +131,7 @@ const articles: Article[] = [
   {
     slug: 'web3-developer-salary-guide',
     title: 'Web3 Developer Salary Guide: An In-Depth Analysis',
-    image: 'https://images.unsplash.com/photo-1640388339174-a2c3a5e84898?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1554224155-8d044b4a15e6?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A comprehensive guide to Web3 developer salaries. We cover salary expectations, equity, tokens, and negotiation strategies for blockchain developers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Web3 development is one of the highest-paying fields in tech right now. The high demand for a very specific set of skills combined with a small talent pool has pushed salaries way up. But figuring out compensation in this space can be tricky, since it\'s often more than just a base salary.' }] },
@@ -192,7 +192,7 @@ const articles: Article[] = [
   {
     slug: 'blockchain-developer-roadmap',
     title: 'The Ultimate Blockchain Developer Roadmap',
-    image: 'https://images.unsplash.com/photo-1542314831-068cd1dbb526?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Your comprehensive, step-by-step roadmap to becoming a skilled blockchain developer. Learn the languages, tools, and concepts you need to succeed.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Trying to become a blockchain developer can feel like you\'re exploring a huge, new territory. The tech is new, the world around it is changing at a crazy pace, and it can be tough to learn. But, if you have a plan and stick to it, it\'s a very rewarding and doable goal. This is one of the few fields where people can go from knowing nothing to landing a high-paying job pretty quickly, as long as they\'re dedicated.' }] },
@@ -247,7 +247,7 @@ const articles: Article[] = [
   {
     slug: 'non-technical-roles-in-crypto',
     title: 'Exploring Non-Technical Roles in Crypto',
-    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'You don\'t have to be a coder to work in Web3. This guide explores the wide range of non-technical roles available, from marketing to community, product and beyond.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'There\'s a big myth that the crypto and Web3 space is only for developers. That couldn\'t be more wrong. As the industry grows up, the demand for non-technical pros isn\'t just growing; it\'s exploding. These jobs are the glue that allows projects to grow, succeed, and reach regular people.' }] },
@@ -303,7 +303,7 @@ const articles: Article[] = [
   {
     slug: 'guide-to-smart-contract-auditing',
     title: 'A Deep Dive into Smart Contract Auditing Careers',
-    image: 'https://images.unsplash.com/photo-1559030623-0226b2151145?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1591696205602-2f950c417cb1?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A guide on becoming a smart contract auditor. This covers the skills, tools, mindset, and career path for one of the most critical roles in Web3 security.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In the high-stakes world of DeFi, where protocols can handle billions of dollars, a single bug isn\'t just a problem—it\'s a disaster. Smart contract auditors are the guardians of the Web3 ecosystem, like digital forensic accountants and elite cybersecurity experts rolled into one. They are the last line of defense against huge financial losses.' }] },
@@ -349,7 +349,7 @@ const articles: Article[] = [
   {
     slug: 'defi-jobs-guide',
     title: 'The In-Depth Guide to Decentralized Finance (DeFi) Jobs',
-    image: 'https://images.unsplash.com/photo-1642774632903-b3b64832873f?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1642104793539-2699a7385974?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An exploration of career opportunities in the booming DeFi sector. From quantitative analysts to protocol engineers, find your place in the future of finance.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Finance (DeFi) is one of the most vibrant, innovative, and well-funded areas in the entire Web3 ecosystem. Its huge goal is to rebuild the global financial system on open, permissionless blockchains, cutting out the need for traditional middlemen like banks and brokers. This has created a new financial world and a matching demand for a new kind of professional who can mix finance, technology, and game theory.' }] },
@@ -388,7 +388,7 @@ const articles: Article[] = [
   {
     slug: 'nft-marketplace-careers',
     title: 'NFT Marketplace Careers: A Guide to the Creator Economy',
-    image: 'https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1622547748225-3fc4abd2ac00?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'The world of NFTs is more than just digital art. This guide explores the variety of careers available in the NFT space, including roles in engineering, curation, and community.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Non-Fungible Tokens (NFTs) have gone from a niche tech concept to a global cultural phenomenon. They\'ve reshaped the digital world, creating a vibrant new economy for art, collectibles, music, and gaming assets. This explosion has led to the rise of NFT marketplaces, which are the busy hubs of this new creator economy. These platforms aren\'t just simple websites; they are complex centers of technology, culture, and finance.' }] },
@@ -406,7 +406,7 @@ const articles: Article[] = [
       { type: 'h2', children: [{ type: 'text', value: '2. Creative and Curation Roles: The Tastemakers' }] },
       { type: 'p', children: [{ type: 'text', value: 'An NFT platform\'s success is deeply connected to its cultural relevance and the quality of the work it features. In a sea of millions of NFTs, discovery is a huge challenge. This has created a new class of jobs for those with a strong creative eye and a deep understanding of art and culture.' }] },
        { type: 'h3', children: [{ type: 'text', value: 'Curation Manager:' }] },
-      { type: 'p', children: [{type: 'text', value: 'Curation managers are the tastemakers responsible for highlighting high-quality art and emerging artists on the platform\'s front page or in featured collections. They often have a background in traditional art curation, and they bring that expertise to the digital world. Their job is to tell stories and create context around the art.'}]},
+      { type: 'p', children: [{type: 'text', value: 'Curation managers are the tastemakers responsible for highlighting high-quality art and emerging artists on the platform\'s front page or in featured collections. They often have a background in a traditional art curation, and they bring that expertise to the digital world. Their job is to tell stories and create context around the art.'}]},
        { type: 'h3', children: [{ type: 'text', value: 'Artist Relations / Partnerships:' }] },
       { type: 'p', children: [{type: 'text', value: 'These professionals are the main point of contact for artists and creators. They build relationships, help onboard high-profile creators to the platform, and provide white-glove support for their drops. They also create partnerships with brands, galleries, and other organizations looking to get into the NFT space.'}]},
       { type: 'h2', children: [{ type: 'text', value: '3. Community and Support Roles: The Connectors' }] },
@@ -420,7 +420,7 @@ const articles: Article[] = [
   {
     slug: 'web3-community-manager-jobs',
     title: 'The In-Depth Guide to Community Manager Roles in Web3',
-    image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A guide on what it takes to be a successful community manager in Web3. This covers the responsibilities, skills, and career path for this crucial role.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In Web3, community isn\'t just part of the project—it *is* the project. A strong, engaged, and vibrant community is the single most important factor in the long-term success of a dApp, a protocol, or a DAO. This fact has turned the role of the Community Manager from a junior marketing job into one of the most critical and strategic positions in any Web3 organization.' }] },
@@ -459,7 +459,7 @@ const articles: Article[] = [
   {
     slug: 'technical-writing-for-web3',
     title: 'Technical Writing for Web3: A Guide to a Lucrative Niche',
-    image: 'https://images.unsplash.com/photo-1456324504439-367cee3b3c32?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1453928582365-b6ad33cb124e?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the high-demand field of technical writing in the Web3 and crypto space. Learn how your writing skills can land you a top-paying job.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 ecosystem is built on amazing but incredibly complex technology. This creates a huge and constant need for skilled technical writers who can act as translators, bridging the gap between the complex world of code and human understanding. Good writing isn\'t just a \'nice to have\' in Web3; it\'s critical for adoption, security, and growth.' }] },
@@ -498,7 +498,7 @@ const articles: Article[] = [
   {
     slug: 'web3-marketing-guide',
     title: 'Web3 Marketing: A Guide to Strategies for a Decentralized World',
-    image: 'https://images.unsplash.com/photo-1642104793539-2699a7385974?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Learn how to market a Web3 project in this in-depth guide. We cover the unique challenges and opportunities of marketing in the crypto and blockchain space.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Marketing in the Web3 space is totally different from traditional Web2 marketing. The audience is hyper-intelligent, deeply skeptical of advertising, and values authenticity and community above all else. The old playbook of paid ads, gated content, and slick campaigns isn\'t just ineffective; it can actually hurt a project\'s reputation. To succeed, Web3 marketers have to throw out the old rules and embrace a new set of strategies native to the crypto culture.' }] },
@@ -540,7 +540,7 @@ const articles: Article[] = [
   {
     slug: 'remote-web3-jobs',
     title: 'The Ultimate Guide to Finding Remote Web3 Jobs',
-    image: 'https://images.unsplash.com/photo-1554224155-8d044b4a15e6?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A guide to finding a remote job in the Web3 and crypto industry. Learn where to look, how to apply, and what companies are hiring remotely.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'The Web3 industry isn\'t just remote-friendly; it\'s remote-native. The core idea of decentralization—spreading power and control away from a central point—naturally extends to how companies in the space operate. The most innovative projects are often fully distributed teams, with members working together across every time zone on the planet. This isn\'t a trend; it\'s a core feature of the industry.' }] },
@@ -580,7 +580,7 @@ const articles: Article[] = [
   {
     slug: 'web3-internships-for-students',
     title: 'Web3 Internships for Students: A Guide to Getting Started',
-    image: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Your comprehensive guide to landing a Web3 internship. Learn how to get the experience you need to kickstart your career in the blockchain industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'For students and recent graduates, the Web3 industry is a frontier of opportunity. An internship in this space isn\'t just a line on a resume; it\'s a launchpad into a career at the forefront of technology and finance. Unlike traditional internships where you might be stuck doing boring tasks, Web3 internships often give you the chance to work on real products, contribute to open-source code, and have a real impact.' }] },
@@ -606,7 +606,7 @@ const articles: Article[] = [
        { type: 'h3', children: [{ type: 'text', value: 'For Aspiring Non-Technical Roles (Product, Marketing, etc.):' }] },
       { type: 'ul', children: [
           { type: 'li', children: [{ type: 'text', value: 'Become a Super-User: Deeply immerse yourself in the ecosystem. Use different DeFi protocols, buy and sell NFTs, and participate in DAO governance votes. You need to be a product expert.' }] },
-          { type: 'li', children: [{ type: 'text', value: 'Create Content: Start a blog or a Twitter account where you write about what you\'re learning. Explain a DeFi protocol in simple terms, analyze a DAO\'s governance, or review a new NFT project. This content becomes your portfolio and demonstrates your expertise.' }] },
+          { type: 'li', children: [{ type: 'text', value: 'Create Content: Start a blog or Twitter account where you write about what you\'re learning. Explain a DeFi protocol in simple terms, analyze a DAO\'s governance, or review a new NFT project. This content becomes your portfolio and demonstrates your expertise.' }] },
           { type: 'li', children: [{ type: 'text', value: 'Get Involved in a Community: Join the Discord server of a project you like and become a helpful, active member. Answer questions from new users, summarize governance proposals, or provide thoughtful product feedback. This is how you get noticed and build a reputation.' }] },
         ]
       },
@@ -624,7 +624,7 @@ const articles: Article[] = [
   {
     slug: 'web3-gaming-jobs',
     title: 'The Ultimate Guide to Web3 Gaming Jobs',
-    image: 'https://images.unsplash.com/photo-1655934333333-3433919e8c33?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1580234811497-9df7fd2f357e?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the exciting world of Web3 gaming careers. From game developers to economy designers, find out how to get a job in the blockchain gaming industry.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Blockchain technology is set to shake up the multi-billion dollar gaming industry. By enabling true ownership of in-game assets (as NFTs), creating player-driven economies, and allowing for games to interact with each other, Web3 is creating a new kind of gaming that gives more power and value to the players.' }] },
@@ -664,7 +664,7 @@ const articles: Article[] = [
   {
     slug: 'dao-governance-careers',
     title: 'Careers in DAO Governance: A Deep Dive',
-    image: 'https://images.unsplash.com/photo-1556155092-490a1ba16284?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the emerging field of DAO governance. Learn about the roles and responsibilities of DAO contributors, from governance facilitators to delegates.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Autonomous Organizations (DAOs) represent a huge shift in how we organize people and money. They are internet-native, community-led organizations with no central authority, where decisions are made collectively through proposals and voting on a blockchain. This new way of structuring companies has created an entirely new field of work centered around DAO governance.' }] },
@@ -712,7 +712,7 @@ const articles: Article[] = [
   {
     slug: 'web3-interview-questions',
     title: 'Top Web3 Interview Questions (And How to Answer Them)',
-    image: 'https://images.unsplash.com/photo-1549923746-c502d488b3ea?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A guide to acing your Web3 interview. We cover common questions for technical and non-technical roles, from smart contracts to DeFi concepts.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'So you\'ve landed a Web3 interview. Congratulations! Now comes the hard part. Web3 interviews are a different beast. They\'re less about abstract algorithm puzzles and more about practical knowledge, your security-first mindset, and your genuine passion for the decentralized world. Whether you\'re a developer or aiming for a non-technical role, preparation is everything.' }] },
@@ -752,7 +752,7 @@ const articles: Article[] = [
   {
     slug: 'web3-resume-guide',
     title: 'How to Build a Web3 Resume That Gets You Hired',
-    image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A practical guide to creating a standout Web3 resume. Learn how to showcase your projects, skills, and on-chain activity to land your dream job.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In the Web3 world, your resume is more than just a document—it\'s a collection of your public work, contributions, and on-chain activity. While a traditional PDF resume is still often required, it serves a different purpose. It\'s a guide that points recruiters to the most important evidence of your skills: your projects, your GitHub, and your public engagement.' }] },
@@ -800,7 +800,7 @@ const articles: Article[] = [
   {
     slug: 'solana-developer-careers',
     title: 'Careers in the Solana Ecosystem: A Developer\'s Guide',
-    image: 'https://images.unsplash.com/photo-1642104793539-2699a7385974?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1680537753580-928de4314488?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A deep dive into the Solana developer ecosystem. Learn about the skills, tools, and job opportunities available for Rust developers on this high-speed blockchain.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'While Ethereum might be the largest smart contract platform, the Solana ecosystem has carved out a major niche for itself by focusing on one thing: speed. Its high transaction throughput and low fees have made it a favorite for applications that require high performance, like DeFi, payments, and certain types of games. This has created a booming job market for developers with the right skills, especially those proficient in Rust.' }] },
@@ -849,7 +849,7 @@ const articles: Article[] = [
   {
     slug: 'ai-in-web3',
     title: 'The Convergence of AI and Web3: A New Frontier',
-    image: 'https://images.unsplash.com/photo-1688511730638-78a784de9173?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1678442434829-8134d13f998b?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An exploration of the intersection of Artificial Intelligence and Web3. Learn about AI-powered dApps, decentralized machine learning, and future job opportunities.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Two of the most powerful technological forces of our time are AI and Web3. On their own, each is already reshaping industries. But what happens when they converge? The intersection of AI and Web3 promises a new wave of innovation, creating more intelligent, autonomous, and decentralized systems. This is a new and exciting frontier, with massive potential for developers, researchers, and entrepreneurs.' }] },
@@ -885,7 +885,7 @@ const articles: Article[] = [
   {
     slug: 'crypto-developer-tools',
     title: 'The Essential Toolkit for Crypto Developers in 2024',
-    image: 'https://images.unsplash.com/photo-1518895949257-7621c3c786d7?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A curated list of the best tools for blockchain and dApp development. We cover everything from smart contract frameworks to frontend libraries and security analyzers.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Building in Web3 requires a specialized set of tools that are very different from traditional web development. The right toolkit can dramatically speed up your workflow, improve the security of your code, and make the entire development process more enjoyable. The tooling ecosystem is evolving at a breakneck pace, with new and better tools emerging all the time.' }] },
@@ -963,7 +963,7 @@ const articles: Article[] = [
   {
     slug: 'crypto-data-analyst-jobs',
     title: 'How to Become a Data Analyst in the Crypto Industry',
-    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'A career guide for data analysts in Web3. Learn about the tools (like Dune Analytics), skills (like SQL), and opportunities for data professionals in crypto.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Blockchains are public, transparent databases. Every transaction, every trade, and every vote is recorded on-chain for the entire world to see. This has created an unprecedented explosion of open data and a massive demand for data analysts who can turn this raw information into actionable insights. In Web3, data isn\'t just a byproduct; it\'s a core part of the ecosystem.' }] },
