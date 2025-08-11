@@ -6,6 +6,8 @@ import { Footer } from '@/components/footer';
 import Image from 'next/image';
 import { Metadata } from 'next';
 import type { Article as ArticleSchema } from 'schema-dts';
+import { Button } from '@/components/ui/button';
+import Link from 'next/link';
 
 type ArticlePageProps = {
   params: {
@@ -94,6 +96,14 @@ const renderBlock = (block: any, index: number) => {
             {block.caption && <figcaption className="text-center text-muted-foreground text-sm mt-2">{block.caption}</figcaption>}
         </figure>
       );
+    case 'cta':
+        return (
+            <div key={index} className="my-8 p-6 bg-secondary rounded-lg text-center">
+                <Link href={block.href} target="_blank" rel="noopener noreferrer">
+                    <Button size="lg">{block.text}</Button>
+                </Link>
+            </div>
+        )
     default:
       return null;
   }

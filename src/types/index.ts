@@ -47,6 +47,10 @@ type ContentBlock = {
   alt: string;
   caption?: string;
   'data-ai-hint'?: string;
+} | {
+    type: 'cta',
+    text: string;
+    href: string;
 };
 
 // The entire content of an article is an array of these blocks
