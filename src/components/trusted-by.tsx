@@ -16,7 +16,7 @@ export function TrustedBy() {
             <div className="mx-auto max-w-4xl px-4">
                 <div className="flex flex-col items-center">
                     <h2 className="text-center text-xs font-semibold text-muted-foreground tracking-wider uppercase">
-                        Jobs from
+                        Jobs from companies like:
                     </h2>
 
                     <div className="mt-4 flow-root">
