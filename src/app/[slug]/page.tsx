@@ -55,6 +55,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 const renderNode = (node: any, key: number) => {
+    if (!node) return null;
     switch (node.type) {
         case 'text':
             if (node.style === 'bold') return <strong key={key}>{node.value}</strong>;
