@@ -1,6 +1,6 @@
 ---
 title: 'What is a DAO? A Guide to Decentralized Autonomous Organizations'
-image: 'https://placehold.co/1200x630.png'
+image: 'https://images.unsplash.com/photo-1483135349295-9e3c48106ee6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYW98ZW58MHx8fHwxNzU0OTU1NzU0fDA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Learn what a DAO is and how these internet-native organizations are changing how we work, invest, and build communities. Explore the key concepts of DAOs, from token voting to treasury management.'
 category: 'Getting Started'
 ---
