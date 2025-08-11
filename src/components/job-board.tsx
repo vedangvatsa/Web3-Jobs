@@ -5,20 +5,6 @@ import { useState, useMemo, useTransition } from 'react';
 import { Input } from '@/components/ui/input';
 import { JobCard } from './job-card';
 import { Loader2, Search } from 'lucide-react';
-import { Skeleton } from './ui/skeleton';
-
-function JobBoardSkeleton() {
-    return (
-        <div>
-            <div className="mb-8 max-w-2xl mx-auto">
-                <Skeleton className="h-12 w-full rounded-full" />
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {[...Array(9)].map((_, i) => <Skeleton key={i} className="h-28 rounded-xl" />)}
-            </div>
-        </div>
-    );
-}
 
 export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
   const [searchQuery, setSearchQuery] = useState('');
@@ -45,7 +31,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
 
   return (
     <div>
-      <div className="mb-12 max-w-2xl mx-auto pt-8">
+      <div className="mb-12">
         <div className="relative">
             <Input
             placeholder="Search by role, company, keyword..."
@@ -64,7 +50,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
                 </div>
             )}
             
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {filteredJobs.map((job) => (
                     <JobCard key={job.id} job={job} />
                 ))}
