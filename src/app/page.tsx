@@ -35,7 +35,7 @@ export default async function Home() {
                   className="text-sm text-muted-foreground hover:text-primary transition-colors group inline-flex items-center gap-2"
                 >
                   <Rss className="h-4 w-4 transition-transform group-hover:scale-110" />
-                  <span>Join <strong>56,000+</strong> subscribers on one of the largest Web3 job feeds on Telegram.</span>
+                  <span>Join our Telegram feed with <strong>56,000+</strong> subscribers.</span>
                 </Link>
              </div>
             <TrustedBy />
