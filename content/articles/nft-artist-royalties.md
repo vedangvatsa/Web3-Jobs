@@ -1,5 +1,5 @@
 ---
-title: 'NFT Artist Royalties A Deep Dive for Creators'
+title: "A Creator's Guide to NFT Royalties"
 image: 'https://placehold.co/1200x630.png'
 description: 'Understand how NFT royalties work, the technical standards like EIP-2981, the ongoing debate about enforcement, and how creators can protect their secondary sale earnings.'
 category: 'Technology Deep Dives'
@@ -21,7 +21,7 @@ The core idea is simple and elegant. When an artist mints an NFT, the smart cont
 
 This process, in theory, is seamless, transparent, and unstoppable, all enforced by the impartial logic of the code. It removes the need for trusted intermediaries and ensures creators are compensated for the long-term value they create.
 
-## The Technical Standard EIP-2981
+## The Technical Standard: EIP-2981
 
 To make royalties work across the ecosystem, a common standard was needed. This came in the form of **EIP-2981: NFT Royalty Standard**. An EIP (Ethereum Improvement Proposal) is a design document that proposes a new feature or process for the Ethereum ecosystem.
 
@@ -40,7 +40,7 @@ Let's break this down:
 
 This standard was a major step forward. It created a reliable way for any marketplace to discover and calculate the correct royalty for any NFT that implemented the standard, without needing custom integrations for every single project.
 
-## The Problem Royalties are Not Enforceable On-Chain
+## The Problem: Royalties are Not Enforceable On-Chain
 
 Here we arrive at the core of the conflict. The EIP-2981 standard, and other similar methods, are **voluntary**. There is nothing in the core ERC-721 NFT standard that *forces* the transfer of royalty fees.
 
