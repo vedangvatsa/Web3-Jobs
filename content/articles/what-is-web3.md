@@ -1,6 +1,6 @@
 ---
 title: "What is Web3? A Beginner's Guide to the Decentralized Internet"
-image: "https://placehold.co/1200x630.png"
+image: "https://images.unsplash.com/photo-1641932269869-46d52e20d8a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWIzfGVufDB8fHx8MTc1NDk0ODU1MXww&ixlib=rb-4.1.0&q=80&w=1080"
 description: "An introduction to Web3, the next evolution of the internet. This guide explains the core concepts of decentralization, blockchain technology, and user ownership that define Web3."
 category: "Getting Started"
 ---
