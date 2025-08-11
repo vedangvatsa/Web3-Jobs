@@ -1,5 +1,5 @@
 ---
-title: 'Solidity for Beginners Your First Smart Contract'
+title: 'Solidity for Beginners: Your First Smart Contract'
 image: 'https://placehold.co/1200x630.png'
 description: 'A step-by-step tutorial for beginners on how to write, compile, and deploy your very first Solidity smart contract. Learn the fundamental concepts of the most popular blockchain programming language.'
 category: 'Getting Started'
