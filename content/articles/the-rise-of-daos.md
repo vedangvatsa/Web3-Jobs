@@ -19,13 +19,27 @@ To understand how to get a job at a DAO, you first need to grasp the core concep
 -   **Autonomous:** DAOs operate based on pre-written rules encoded in smart contracts. These contracts self-execute when certain conditions are met, reducing the need for human intermediaries to manage the organization's core functions.
 -   **Organization:** It's a collective of people working together towards a common goal, just like any other company or organization.
 
-| Feature | Traditional Company | Decentralized Autonomous Organization (DAO) |
-| --- | --- | --- |
-| **Structure** | Hierarchical (Top-down) | Flat or fluid (Community-driven) |
-| **Governance** | Board of Directors / C-Suite | Token-holder voting |
-| **Transparency**| Opaque (Internal decisions) | Radically transparent (Public proposals & on-chain voting) |
-| **Operations** | Manual, human-managed | Automated by smart contracts |
-| **Treasury** | Held in a bank, controlled by execs | Held in a multi-sig wallet, controlled by the community |
+### Traditional Company vs. DAO
+
+#### Structure
+- **Traditional Company:** Hierarchical (Top-down)
+- **DAO:** Flat or fluid (Community-driven)
+
+#### Governance
+- **Traditional Company:** Board of Directors / C-Suite
+- **DAO:** Token-holder voting
+
+#### Transparency
+- **Traditional Company:** Opaque (Internal decisions)
+- **DAO:** Radically transparent (Public proposals & on-chain voting)
+
+#### Operations
+- **Traditional Company:** Manual, human-managed
+- **DAO:** Automated by smart contracts
+
+#### Treasury
+- **Traditional Company:** Held in a bank, controlled by execs
+- **DAO:** Held in a multi-sig wallet, controlled by the community
 
 A DAO's treasury is controlled by its members. To spend funds, a proposal must be created and voted upon by the DAO's token holders. If the proposal passes, the smart contract automatically executes the transaction. This creates a highly transparent and democratic way of managing collective resources.
 

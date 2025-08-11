@@ -15,13 +15,19 @@ This guide is designed for you, the experienced Web2 developer. We'll skip the b
 
 This is the most important and often most difficult part of the transition. You have to unlearn some of your most deeply ingrained architectural patterns.
 
-| Web2 Paradigm (Centralized) | Web3 Paradigm (Decentralized) | Implications |
-| --- | --- | --- |
-| **The Backend is a Black Box** | **The Backend is a Public Utility** | Your "backend" (the smart contracts) is open-source, transparent, and can be called by anyone. You don't own the backend; you deploy code to a shared, global computer. |
-| **Trust the Server** | **Trust, but Verify (on-chain)** | You cannot trust a central server to be the single source of truth. The blockchain itself is the source of truth, and your application must be designed to read from and react to its state. |
-| **Data is Mutable** | **Data is Immutable** | Once data is written to the blockchain, it's there forever. There are no "UPDATE" or "DELETE" statements. This has massive implications for how you handle data and application logic. Mistakes are permanent. |
-| **State is Hidden** | **State is Public** | All state variables in your smart contracts are publicly readable by default. There is no concept of a "private" database field. |
-| **Security is about Protecting the Server** | **Security is about Protecting User Assets** | A bug in a Web2 app might lead to downtime or a data leak. A bug in a smart contract can lead to the direct, irreversible loss of millions of dollars of users' funds. The stakes are exponentially higher. |
+### Web2 Paradigm (Centralized)
+-   **The Backend is a Black Box**: Your "backend" is proprietary and hidden.
+-   **Trust the Server**: The server is the single source of truth.
+-   **Data is Mutable**: You can easily update or delete data in your database.
+-   **State is Hidden**: Data is stored in private databases.
+-   **Security is about Protecting the Server**: Focus is on preventing unauthorized access to your infrastructure.
+
+### Web3 Paradigm (Decentralized)
+-   **The Backend is a Public Utility**: Your "backend" (smart contracts) is open, transparent, and can be used by anyone.
+-   **Trust, but Verify (on-chain)**: The blockchain itself is the source of truth. Your app must react to its public state.
+-   **Data is Immutable**: Once data is on the blockchain, it's permanent. No `UPDATE` or `DELETE` commands.
+-   **State is Public**: All data in your smart contracts is publicly readable.
+-   **Security is about Protecting User Assets**: A bug can lead to the direct, irreversible loss of users' funds.
 
 > **Mental Model #1:** Stop thinking of your application as a client-server model. Start thinking of it as a client interacting with a shared, global, and transparent state machine (the blockchain).
 

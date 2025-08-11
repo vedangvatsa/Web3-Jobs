@@ -13,14 +13,13 @@ The answer, of course, is complex. Salaries can vary dramatically based on a mul
 
 Before diving into specific numbers, it's important to understand the variables that determine your earning potential. Unlike the more mature Web2 job market, Web3 compensation is highly dynamic.
 
-| Factor | Description | Impact on Salary |
-| --- | --- | --- |
-| **Experience Level** | Junior, Mid-Level, Senior, or Lead/Principal. This is the most significant factor. | **High** |
-| **Specialization** | Smart Contract Dev, Frontend Dev, Protocol Engineer, Security Auditor. | **High** |
-| **Tech Stack** | Expertise in Solidity, Rust, Go, etc. Knowledge of specific L1s/L2s. | **High** |
-| **Company Type** | Early-stage startup vs. well-funded protocol vs. established tech company. | **Medium** |
-| **Location** | Major tech hubs (SF, NY) vs. remote vs. other international locations. | **Medium** |
-| **Compensation Mix** | Base salary vs. equity vs. token incentives. | **Variable** |
+- **Experience Level**: Junior, Mid-Level, Senior, or Lead/Principal. This is the most significant factor. **Impact on Salary: High**
+- **Specialization**: Smart Contract Dev, Frontend Dev, Protocol Engineer, Security Auditor. **Impact on Salary: High**
+- **Tech Stack**: Expertise in Solidity, Rust, Go, etc. Knowledge of specific L1s/L2s. **Impact on Salary: High**
+- **Company Type**: Early-stage startup vs. well-funded protocol vs. established tech company. **Impact on Salary: Medium**
+- **Location**: Major tech hubs (SF, NY) vs. remote vs. other international locations. **Impact on Salary: Medium**
+- **Compensation Mix**: Base salary vs. equity vs. token incentives. **Impact on Salary: Variable**
+
 
 ### A Note on Equity and Token Compensation
 
