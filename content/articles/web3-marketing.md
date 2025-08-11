@@ -1,5 +1,5 @@
 ---
-title: 'Web3 Marketing A Guide to Growth in a Decentralized World'
+title: 'Web3 Marketing: A Guide to Growth in a Decentralized World'
 image: 'https://placehold.co/1200x630.png'
 description: 'Learn how marketing works in the Web3 space. This guide covers the key strategies, from community building and content marketing to "meme-onomics" and building a brand in a trustless environment.'
 category: 'Industry Insights'
