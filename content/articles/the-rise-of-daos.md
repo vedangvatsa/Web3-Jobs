@@ -1,6 +1,6 @@
 ---
 title: 'The Rise of DAOs: How to Get a Job in a Decentralized Organization'
-image: 'https://placehold.co/1200x630.png'
+image: 'https://images.unsplash.com/photo-1664526937033-fe2c11f1be25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxEZWNlbnRyYWxpemVkfGVufDB8fHx8MTc1NDk1NDM2OXww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'DAOs are transforming how we work. Learn what a Decentralized Autonomous Organization is, what kinds of jobs they offer, and the practical steps you can take to land a role in one.'
 category: 'Industry Insights'
 ---
@@ -40,8 +40,8 @@ The idea that DAOs only need developers is a common misconception. As these orga
 3.  **Core Developer / Smart Contract Engineer:** The technical backbone of the DAO. They build and maintain the smart contracts that power the organization, work on the protocol itself, and ensure the security of the treasury.
 4.  **Product Manager:** Even decentralized products need a vision and a roadmap. PMs in DAOs gather feedback from the community, identify user needs, and work with developers to prioritize features and improvements.
 5.  **Marketing & Communications (MarComms):** Storytellers who communicate the DAO's mission and progress to the wider world. This includes writing blog posts, managing the Twitter account, creating content, and building relationships with other projects.
-6.  **Treasury Manager:** As DAOs manage treasuries worth millions or even billions of dollars, they need skilled individuals to manage these assets. This can involve diversifying the treasury, developing yield farming strategies, and financial reporting.
-7.  **Contributor / B Bounty Hunter:** Many DAOs don't have traditional full-time roles. Instead, they offer grants or "bounties" for specific tasks. This could be anything from designing a logo to writing documentation or building a new feature. This is the most common way to start working for a DAO.
+6.  **Treasury Manager:** As DAOs manage treasuries worth millions or even billions of dollars, a skilled individual is needed to manage these assets. This can involve diversifying the treasury, developing yield farming strategies, and financial reporting.
+7.  **Contributor / Bounty Hunter:** Many DAOs don't have traditional full-time roles. Instead, they offer grants or "bounties" for specific tasks. This could be anything from designing a logo to writing documentation or building a new feature. This is the most common way to start working for a DAO.
 
 ## The Path to a DAO Job: A Step-by-Step Guide
 
