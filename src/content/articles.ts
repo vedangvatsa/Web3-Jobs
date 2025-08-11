@@ -343,7 +343,7 @@ const articles: Article[] = [
   {
     slug: 'defi-jobs-guide',
     title: 'The In-Depth Guide to Decentralized Finance (DeFi) Jobs',
-    image: 'https://images.unsplash.com/photo-1642104793539-2699a7385974?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1640826514546-75c1289c5f87?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'An exploration of career opportunities in the booming DeFi sector. From quantitative analysts to protocol engineers, find your place in the future of finance.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Finance (DeFi) is one of the most vibrant, innovative, and well-funded areas in the entire Web3 ecosystem. Its huge goal is to rebuild the global financial system on open, permissionless blockchains, cutting out the need for traditional middlemen like banks and brokers. This has created a new financial world and a matching demand for a new kind of professional who can mix finance, technology, and game theory.' }] },
@@ -650,7 +650,7 @@ const articles: Article[] = [
   {
     slug: 'dao-governance-careers',
     title: 'Careers in DAO Governance: A Deep Dive',
-    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=600&h=400&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1639755498265-5735aa838c6c?q=80&w=600&h=400&auto=format&fit=crop',
     description: 'Explore the emerging field of DAO governance. Learn about the roles and responsibilities of DAO contributors, from governance facilitators to delegates.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'Decentralized Autonomous Organizations (DAOs) represent a huge shift in how we organize people and money. They are internet-native, community-led organizations with no central authority, where decisions are made collectively through proposals and voting on a blockchain. This new way of structuring companies has created an entirely new field of work centered around DAO governance.' }] },
@@ -1055,3 +1055,5 @@ export function getArticles() {
 export function getArticle(slug: string) {
   return articles.find(article => article.slug === slug);
 }
+
+    
