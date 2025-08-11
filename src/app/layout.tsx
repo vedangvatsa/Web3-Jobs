@@ -63,7 +63,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
-       <head />
       <body className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}>
         <div className="flex-grow">{children}</div>
         <Toaster />

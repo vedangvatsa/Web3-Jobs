@@ -5,6 +5,9 @@ import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
+import Link from 'next/link';
+import { Send } from 'lucide-react';
+import { Button } from '@/components/ui/button';
 
 export default async function Home() {
   const initialJobs = await getJobs();
@@ -22,6 +25,16 @@ export default async function Home() {
               The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
             </p>
           </section>
+
+          <div className="max-w-2xl mx-auto mb-8">
+            <Link href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="block">
+                <div className="rounded-lg bg-secondary/70 p-4 text-center transition-colors hover:bg-secondary">
+                    <p className="text-sm font-semibold text-secondary-foreground">
+                       Join 56,000+ subscribers on one of the largest Web3 job feeds on Telegram.
+                    </p>
+                </div>
+            </Link>
+          </div>
 
           <div className="max-w-6xl mx-auto">
             <TrustedBy />
