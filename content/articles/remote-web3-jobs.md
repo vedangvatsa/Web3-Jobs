@@ -1,5 +1,5 @@
 ---
-title: 'Remote Web3 Jobs Find and Land a Position from Anywhere'
+title: 'Remote Web3 Jobs: Find and Land a Position from Anywhere'
 image: 'https://placehold.co/1200x630.png'
 description: 'The ultimate guide to finding a remote job in the Web3 industry. Learn where to look, what skills you need, and how to succeed in a globally distributed, asynchronous work environment.'
 category: 'Career Guides'
@@ -32,7 +32,7 @@ Your job search for a remote Web3 role will take place on platforms that are spe
 - **ETHGlobal Jobs**: A platform focused on the Ethereum ecosystem, great for finding roles with a technical focus. Best for developers, protocol engineers, and security researchers.
 - **Specific Project Websites**: Don't underestimate the power of going directly to the source. If you admire a project, check their website for a "Careers" or "Contribute" page. Best for targeted applications to projects you're passionate about.
 
-### The Unofficial Job Board Twitter and Discord
+### The Unofficial Job Board: Twitter and Discord
 
 Many of the best opportunities are never posted on a job board. They emerge organically within communities.
 -   **Twitter:** Follow founders, developers, and VCs in the space. They will often tweet about open roles at their companies or in their portfolio companies. Curate a "Web3 Jobs" list to track these opportunities.
