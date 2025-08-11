@@ -9,7 +9,7 @@ import type { Article as ArticleSchema } from 'schema-dts';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { ArrowRight, CheckCircle, Code, DollarSign, Globe, Group, GanttChartSquare, Landmark, Layers, Lock, TestTube, ThumbsDown, Zap } from 'lucide-react';
+import { ArrowRight, CheckCircle, Code, DollarSign, GanttChartSquare, Globe, Group, Landmark, Layers, Lock, MessageSquare, TestTube, ThumbsDown, Zap } from 'lucide-react';
 import type { ContentBlock } from '@/types';
 
 type ArticlePageProps = {
@@ -60,7 +60,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 const renderNode = (node: any, key: number) => {
-    if (!node) return null;
+    if (!node || !node.type) return null;
     switch (node.type) {
         case 'text':
             if (node.style === 'bold') return <strong key={key}>{node.value}</strong>;
