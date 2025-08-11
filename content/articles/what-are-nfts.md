@@ -1,5 +1,5 @@
 ---
-title: 'What Are NFTs A Practical Guide for Creators and Collectors'
+title: 'What Are NFTs: A Practical Guide for Creators and Collectors'
 image: 'https://images.unsplash.com/photo-1652159043552-6c25eb2ea21d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'From digital art to in-game items, understand what Non-Fungible Tokens (NFTs) are, how they work, and why they represent a paradigm shift in digital ownership.'
 category: 'Getting Started'
