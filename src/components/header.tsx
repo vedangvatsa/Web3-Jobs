@@ -25,10 +25,14 @@ export function Header() {
                 
                 <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
                     {navLinks.map((link) => (
-                         <Link key={link.label} href={link.href} passHref legacyBehavior>
-                           <a target={link.target} rel={link.target ? "noopener noreferrer" : undefined} className="text-muted-foreground transition-colors hover:text-foreground">
-                               {link.label}
-                           </a>
+                         <Link
+                            key={link.label}
+                            href={link.href}
+                            target={link.target}
+                            rel={link.target ? "noopener noreferrer" : undefined}
+                            className="text-muted-foreground transition-colors hover:text-foreground"
+                         >
+                           {link.label}
                        </Link>
                     ))}
                     <div className="flex items-center gap-4">
@@ -39,7 +43,7 @@ export function Header() {
                             </a>
                         ))}
                     </div>
-                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
+                    <a href="https.t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
                         <Button size="sm">Post a Job</Button>
                     </a>
                 </nav>
@@ -68,11 +72,14 @@ export function Header() {
                                 <div className="flex-grow space-y-2">
                                 {navLinks.map((link) => (
                                     <SheetClose key={link.label} asChild>
-                                         <Link href={link.href} passHref legacyBehavior>
-                                            <a target={link.target} rel={link.target ? "noopener noreferrer" : undefined} className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
-                                                <link.icon className="h-5 w-5" />
-                                                <span>{link.label}</span>
-                                            </a>
+                                         <Link
+                                            href={link.href}
+                                            target={link.target}
+                                            rel={link.target ? "noopener noreferrer" : undefined}
+                                            className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
+                                        >
+                                            <link.icon className="h-5 w-5" />
+                                            <span>{link.label}</span>
                                         </Link>
                                     </SheetClose>
                                 ))}
