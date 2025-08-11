@@ -43,7 +43,7 @@ export const article: Article = {
       { type: 'h2', children: [{ type: 'text', value: 'The Roadmap: How to Build Your Security Career' }] },
       { type: 'p', children: [{ type: 'text', value: 'The path to becoming a respected security professional is a marathon, not a sprint. It is paved with continuous learning and a portfolio of demonstrated work.' }] },
       { type: 'h3', children: [{ type: 'text', value: 'Step 1: Become a Strong Developer First' }] },
-      { type: 'p', children: [{ type: 'text', value: 'The overwhelming consensus from top auditors is that you cannot secure what you cannot build. Before you specialize in security, you must first become a competent and confident Solidity developer. Build several complex dApps from scratch to understand the developer\'s perspective and the practical challenges of building on the EVM.' }] },
+      { type: 'p', children: [{ type: 'text', value: 'The overwhelming consensus from top auditors is that you cannot secure what you cannot build. Before you specialize in security, you must first become a competent and confident Solidity developer. Build several complex dApps from scratch to understand the developer\'s perspective and the practical challenges of building on the EVM. Our ' }, { type: 'link', href: '/articles/solidity-developer-roadmap', value: 'Solidity Developer Roadmap' }, { type: 'text', value: ' can help.' }] },
       { type: 'h3', children: [{ type: 'text', value: 'Step 2: Immerse Yourself in Security Content' }] },
       { type: 'p', children: [{ type: 'text', value: 'Become an obsessive consumer of security knowledge. Your goal is to build the mental database of patterns and anti-patterns.' }] },
       { type: 'ul', children: [
