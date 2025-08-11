@@ -1,8 +1,9 @@
 import { MetadataRoute } from 'next';
+import { getAllArticles } from '@/lib/articles';
 
 const siteUrl = 'https://web3-jobs.example.com';
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticRoutes = [
     {
       url: siteUrl,
@@ -10,7 +11,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'daily',
       priority: 1,
     },
+    {
+      url: `${siteUrl}/blog`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8
+    }
   ];
 
-  return [...staticRoutes];
+  const articles = await getAllArticles();
+  const articleRoutes = articles.map(article => ({
+    url: `${siteUrl}/blog/${article.slug}`,
+    lastModified: new Date(), // In a real app, you'd use the article's publish date
+    changeFrequency: 'monthly',
+    priority: 0.7
+  }));
+
+  return [...staticRoutes, ...articleRoutes];
 }
