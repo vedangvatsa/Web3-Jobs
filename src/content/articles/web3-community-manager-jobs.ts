@@ -4,7 +4,7 @@ import type { Article } from '@/types';
 export const article: Article = {
     slug: 'web3-community-manager-jobs',
     title: 'The In-Depth Guide to Community Manager Roles in Web3',
-    image: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=600&h=400&auto=format&fit=crop',
+    image: '/images/web3-community-manager-jobs.png',
     description: 'A guide on what it takes to be a successful community manager in Web3. This covers the responsibilities, skills, and career path for this crucial role.',
     content: [
       { type: 'p', children: [{ type: 'text', value: 'In Web3, community isn\'t just part of the project—it *is* the project. A strong, engaged, and vibrant community is the single most important factor in the long-term success of a dApp, a protocol, or a DAO. This fact has turned the role of the Community Manager from a junior marketing job into one of the most critical and strategic positions in any Web3 organization.' }] },
