@@ -1,4 +1,5 @@
 
+
 export interface Job {
   id: string;
   title: string;
@@ -34,8 +35,14 @@ type BlockquoteParagraph = {
     children: (StyledText | Link)[];
 }
 
+type KeyPoint = {
+    icon: string;
+    title: string;
+    description: string;
+}
+
 // A block of content can be a paragraph, heading, list, image, or blockquote
-type ContentBlock = {
+export type ContentBlock = {
   type: 'p' | 'h2' | 'h3' | 'ul';
   children: (StyledText | Link | ListItem)[];
 } | {
@@ -45,6 +52,9 @@ type ContentBlock = {
     type: 'cta',
     text: string;
     href: string;
+} | {
+    type: 'keyPoints',
+    points: KeyPoint[];
 };
 
 // The entire content of an article is an array of these blocks
