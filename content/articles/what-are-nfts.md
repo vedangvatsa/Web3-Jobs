@@ -1,6 +1,6 @@
 ---
 title: 'What Are NFTs? A Guide to Unique Digital Assets'
-image: 'https://placehold.co/1200x630.png'
+image: 'https://images.unsplash.com/photo-1652159043552-6c25eb2ea21d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Explore the world of Non-Fungible Tokens (NFTs), from digital art and collectibles to gaming assets and real-world ownership.'
 ---
 
