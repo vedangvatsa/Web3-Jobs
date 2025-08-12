@@ -1,5 +1,5 @@
 ---
-title: 'Top 10 In-Demand Roles in the Web3 Industry'
+title: 'The Top 10 Most In-Demand Jobs in Web3'
 image: 'https://images.unsplash.com/photo-1543269664-56d93c1b41a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8am9ic3xlbnwwfHx8fDE3NTQ5NTE2NjN8MA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Explore the most sought-after jobs in the Web3 ecosystem, from Solidity development to community management, and discover the skills you need to succeed.'
 category: 'Career Guides'

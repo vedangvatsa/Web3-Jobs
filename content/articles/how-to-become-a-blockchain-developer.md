@@ -1,5 +1,5 @@
 ---
-title: 'How to Become a Blockchain Developer in 2025 (A Step-by-Step Roadmap)'
+title: 'Your Roadmap to Becoming a Blockchain Developer in 2025'
 image: 'https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTc1NDk1NDQyM3ww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Your complete roadmap to becoming a blockchain developer. This guide covers the essential skills, languages, tools, and projects you need to build a successful career in Web3 engineering.'
 category: 'Getting Started'
@@ -51,7 +51,7 @@ The best way to learn is by building. Follow this project progression to build y
     -   **Task:** Create a simple generative art NFT collection. Write a contract that allows users to mint one of your NFTs. Display the minted NFTs on your frontend.
 4.  **Project 4: A Decentralized Staking dApp**
     -   **Goal:** Understand basic DeFi mechanics.
-    -   **Task:** Build a contract where users can deposit the ERC-20 token you created in Project 2. The contract should reward them with more tokens over time. This is a foundational DeFi primitive.
+    -   **Task:** Build a contract where users can deposit the ERC-20 token you created in Project 2. The contract should reward them with more tokens over time as a reward. This is a foundational DeFi primitive.
 5.  **Project 5: Contribute to an Open-Source Project**
     -   **Goal:** Get real-world experience and build your reputation.
     -   **Task:** Find a Web3 project on GitHub. Start by fixing a small bug, improving documentation, or adding a simple feature. This is one of the most powerful signals you can send to potential employers.
