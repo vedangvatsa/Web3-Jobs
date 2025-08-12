@@ -5,6 +5,7 @@ import { cn } from '@/lib/utils';
 import './globals.css';
 import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
+import { ContentSecurity } from '@/components/content-security';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -63,7 +64,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
-      <body className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}>
+      <body 
+        className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
+      >
+        <ContentSecurity />
         <div className="flex-grow">{children}</div>
         <Toaster />
         <Analytics />
