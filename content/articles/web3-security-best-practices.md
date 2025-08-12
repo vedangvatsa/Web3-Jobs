@@ -1,6 +1,6 @@
 ---
 title: "Web3 Security Best Practices for Developers"
-image: "https://images.unsplash.com/photo-1526374965328-5f61d48c093c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZWN1cml0eXxlbnwwfHx8fDE3NTUwMTMwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1595666944516-bbb485958fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWNoJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzU1MDA3MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080"
 description: "A crucial guide for Web3 developers. Learn the essential security best practices for writing smart contracts, from the Checks-Effects-Interactions pattern to preventing reentrancy."
 category: "Technology Deep Dives"
 ---
