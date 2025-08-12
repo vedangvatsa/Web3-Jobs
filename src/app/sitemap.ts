@@ -1,3 +1,4 @@
+
 import { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
 

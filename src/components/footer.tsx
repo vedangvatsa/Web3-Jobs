@@ -1,3 +1,4 @@
+
 import { Instagram, Linkedin, Mail, Twitter } from 'lucide-react';
 
 export function Footer() {
@@ -16,19 +17,19 @@ export function Footer() {
           
           <div className="flex items-center justify-start md:justify-end">
             <div className="flex gap-5">
-              <a href="https://linkedin.com/company/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
+              <a href="https://linkedin.com/company/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Follow us on LinkedIn">
                 <Linkedin size={20} />
                 <span className="sr-only">LinkedIn</span>
               </a>
-              <a href="https://x.com/hashtag_web3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
+              <a href="https://x.com/hashtag_web3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Follow us on X">
                 <Twitter size={20} />
                 <span className="sr-only">X (formerly Twitter)</span>
               </a>
-              <a href="https://instagram.com/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
+              <a href="https://instagram.com/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Follow us on Instagram">
                 <Instagram size={20} />
                 <span className="sr-only">Instagram</span>
               </a>
-               <a href="mailto:hi@hashtagweb3.com" className="text-muted-foreground transition-colors hover:text-foreground">
+               <a href="mailto:hi@hashtagweb3.com" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Email us">
                 <Mail size={20} />
                 <span className="sr-only">Email</span>
               </a>
