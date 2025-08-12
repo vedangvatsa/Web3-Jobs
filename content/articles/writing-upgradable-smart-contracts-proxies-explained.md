@@ -1,6 +1,6 @@
 ---
 title: "Writing Upgradable Smart Contracts: Proxies Explained"
-image: "https://placehold.co/1080x810.png"
+image: "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "software update upgrade"
 description: "Smart contracts are immutable, so how do you fix bugs or add new features? This guide explains the Transparent Proxy Pattern, the industry standard for making your contracts upgradable."
 category: "Technology Deep Dives"
