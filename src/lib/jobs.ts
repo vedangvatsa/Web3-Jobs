@@ -45,7 +45,7 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
     },
     {
         "company": "CoinDCX",
-        "title": "Assistant Manager – YouTube Channel Operations",
+        "title": "Assistant Manager - YouTube Channel Operations",
         "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MywgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ=="
     },
     {
