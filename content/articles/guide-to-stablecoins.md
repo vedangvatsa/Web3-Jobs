@@ -1,6 +1,6 @@
 ---
 title: "A Guide to Stablecoins: The Backbone of the Crypto Economy"
-image: "https://images.unsplash.com/photo-1621865324225-54074d320a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkb2xsYXJ8ZW58MHx8fHwxNzU1MDEyNDU2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1657408056887-c8c627f7574a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdGFibGVjb2lufGVufDB8fHx8MTc1NTAwNzE3MXww&ixlib=rb-4.1.0&q=80&w=1080"
 description: "What are stablecoins and why are they so important? This guide explores the different types of stablecoins, from fiat-collateralized to algorithmic, and their role in DeFi."
 category: "Technology Deep Dives"
 ---
