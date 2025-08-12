@@ -22,7 +22,7 @@ If you're a PM from the Web2 world, you need to unlearn some core assumptions. T
 
 To thrive as a Web3 PM, you need to augment your traditional product skills with a new set of crypto-native competencies.
 
-1.  **Deep Ecosystem Knowledge:** You must be a "power user" of Web3. You need to have personally used DeFi protocols, collected NFTs, and participated in DAOs. This hands-on experience is non-negotiable for building user empathy.
+1.  **Deep Ecosystem Knowledge:** You must be a "power user" of Web3. You need to have personally used [DeFi protocols](/what-is-defi), collected [NFTs](/what-are-nfts), and participated in [DAOs](/what-is-a-dao). This hands-on experience is non-negotiable for building user empathy.
 2.  **Technical Literacy:** You don't need to be a Solidity engineer, but you must understand the fundamentals of how a blockchain works, the constraints of the EVM, and the basics of smart contract security. You need to be able to have intelligent conversations with your developers about gas optimization and on-chain vs. off-chain architecture.
 3.  **Tokenomics and Mechanism Design:** Many Web3 products are, at their core, micro-economies. You need to understand how to design incentive systems using tokens that encourage positive behavior (like providing liquidity) and discourage negative behavior. A background in economics or game theory is a massive advantage.
 4.  **Exceptional Communication:** You will spend a significant amount of your time communicating in public forums, on community calls, and in detailed written proposals. The ability to clearly articulate complex technical and economic concepts to a diverse, global audience is paramount.
@@ -39,6 +39,6 @@ What does the job actually look like?
 
 1.  **Immerse Yourself:** Become an active user of the products you admire. Join their Discords, read their documentation, and vote in their governance.
 2.  **Build Your Public Portfolio:** Write a detailed product critique of an existing DeFi protocol. Create a Dune Dashboard analyzing user behavior. Draft a mock proposal for a feature you think a project should build. Your public "proof of work" is your best resume.
-3.  **Specialize:** The Web3 space is vast. Become an expert in a specific niche, whether it's NFT financialization, liquid staking derivatives, or decentralized identity. Deep domain expertise is highly valued.
+3.  **Specialize:** The Web3 space is vast. Become an expert in a specific niche, whether it's NFT financialization, liquid staking derivatives, or [decentralized identity](/decentralized-identity-explained). Deep domain expertise is highly valued.
 
 The role of the Web3 Product Manager is one of the most challenging and rewarding in the industry. It's an opportunity to move beyond building apps and start designing entire economies, to manage products that are owned by their users, and to have a real stake in the open, permissionless future of the internet.

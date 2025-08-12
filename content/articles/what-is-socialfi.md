@@ -12,7 +12,7 @@ SocialFi is the concept of a decentralized social network where users have full 
 ### Key Features of SocialFi Platforms
 
 - **Decentralized Identity:** Your profile is tied to your crypto wallet (e.g., your ENS name), not an email address. You own your identity and can take it with you across different applications.
-- **Data Ownership:** Your posts, social graph (who you follow), and content are stored on a decentralized network (like IPFS) or directly on-chain. You, not the platform, control your data.
+- **Data Ownership:** Your posts, your social graph (who you follow), and your content are stored on a decentralized network (like IPFS) or directly on-chain. You, not the platform, control your data.
 - **Censorship Resistance:** With no central authority, it becomes nearly impossible for a single entity to delete content or ban users.
 - **Monetization for Creators:** SocialFi platforms integrate crypto-native monetization tools. Creators can turn their posts into NFTs, receive tips directly in crypto, or create token-gated content for their biggest fans, all without exorbitant platform fees.
 
