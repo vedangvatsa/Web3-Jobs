@@ -29,7 +29,7 @@ const companies = [
 ];
 
 const promotedEvents = [
-    { name: 'ETH Oxford', src: '/logo/eth-oxford.png'},
+    { name: 'ETH Oxford', src: '/logo/ETHOxford.png'},
     { name: 'Token 2049', src: '/logo/token2049.png'},
     { name: 'Malaysia Blockchain Week', src: '/logo/malaysiablockchainweek.png'},
     { name: 'Taipei Blockchain Week', src: '/logo/taipeiblockchainweek.png'},
