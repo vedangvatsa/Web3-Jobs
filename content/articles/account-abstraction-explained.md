@@ -1,6 +1,6 @@
 ---
 title: "Account Abstraction Explained: The Future of Crypto Wallets"
-image: "https://images.unsplash.com/photo-1639762681057-40c042a353c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3YWxsZXR8ZW58MHx8fHwxNzU1MDEyNzE4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1637597383775-cf7b69e0a9c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcnlwdG8lMjB3YWxsZXR8ZW58MHx8fHwxNzU1MDA1MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080"
 description: "Account Abstraction (EIP-4337) is set to revolutionize Web3 UX. Learn how it will make crypto wallets as easy to use as email, enabling features like social recovery and paying gas in any token."
 category: "Technology Deep Dives"
 ---
