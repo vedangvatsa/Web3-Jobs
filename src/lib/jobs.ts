@@ -28,45 +28,51 @@ function removeEmojis(text: string | undefined): string | undefined {
 }
 
 export async function getJobs(): Promise<Job[]> {
-  const allJobs: Job[] = [];
-  const seenJobs = new Set<string>();
-
-  const feedPromises = FEEDS.map(async (feedUrl) => {
+  const allJobsPromises = FEEDS.map(async (feedUrl) => {
     try {
       const feed = await parser.parseURL(feedUrl);
       if (feed?.items) {
-        feed.items.forEach((item) => {
+        return feed.items.map((item) => {
           const title = removeEmojis(item.title?.trim());
           const company = cleanCompany(item.content);
           const link = item.link;
 
           if (title && company && link && title.split(' ').length <= 7) {
-            const jobKey = `${title.toLowerCase()}|${company.toLowerCase()}`;
-            
-            if (!seenJobs.has(jobKey)) {
-              seenJobs.add(jobKey);
-              allJobs.push({
-                id: item.guid || link,
-                title,
-                company,
-                link,
-                date: item.isoDate || new Date().toISOString(),
-                source: feed.title || feedUrl,
-              });
-            }
+            return {
+              id: item.guid || link,
+              title,
+              company,
+              link,
+              date: item.isoDate || new Date().toISOString(),
+              source: feed.title || feedUrl,
+            };
           }
-        });
+          return null;
+        }).filter((job): job is Job => job !== null);
       }
     } catch (error) {
       console.warn(`Could not fetch or parse feed: ${feedUrl}`, error);
-      // Continue to next feed if one fails
+    }
+    return [];
+  });
+
+  const allJobsNested = await Promise.all(allJobsPromises);
+  const allJobsFlat = allJobsNested.flat();
+
+  // Deduplicate jobs, keeping the most recent one
+  const jobMap = new Map<string, Job>();
+  allJobsFlat.forEach(job => {
+    const jobKey = `${job.title.toLowerCase()}|${job.company.toLowerCase()}`;
+    const existingJob = jobMap.get(jobKey);
+    if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
+      jobMap.set(jobKey, job);
     }
   });
 
-  await Promise.all(feedPromises);
+  const uniqueJobs = Array.from(jobMap.values());
 
   // Sort by date descending (newest first)
-  allJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-  return allJobs;
+  return uniqueJobs;
 }
