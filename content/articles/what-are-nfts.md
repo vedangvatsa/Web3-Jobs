@@ -5,7 +5,7 @@ description: 'From digital art to in-game items, understand what Non-Fungible To
 category: 'Getting Started'
 ---
 
-The term "NFT" exploded into the mainstream, leaving many to wonder what these "Non-Fungible Tokens" actually are. Are they just overpriced JPEGs of apes and pixelated characters? Or do they represent a fundamental shift in how we think about ownership in the digital world? The truth, as is often the case, lies somewhere in between. At its core, an NFT is a unique digital certificate of ownership, recorded on a [blockchain](/what-is-a-blockchain), that can be tied to a digital or even a physical asset. This guide will demystify NFTs, exploring the technology behind them, their most compelling use cases, and the opportunities and challenges they present for creators, collectors, and job seekers in the burgeoning [Web3](/what-is-web3) ecosystem.
+The term "NFT" exploded into the mainstream, leaving many to wonder what these "Non-Fungible Tokens" actually are. Are they just overpriced JPEGs of apes and pixelated characters? Or do they represent a fundamental shift in how we think about ownership in the digital world? The truth, as is often the case, lies somewhere in between. At its core, an NFT is a unique digital certificate of ownership, recorded on a blockchain, that can be tied to a digital or even a physical asset. This guide will demystify NFTs, exploring the technology behind them, their most compelling use cases, and the opportunities and challenges they present for creators, collectors, and job seekers in the burgeoning Web3 ecosystem.
 
 ## Fungible vs. Non-Fungible What's the Difference?
 
@@ -20,7 +20,7 @@ To grasp the concept of an NFT, you must first understand the idea of fungibilit
 NFTs are not the assets themselves (e.g., the JPEG file); they are pointers to those assets that live on a blockchain. Here’s a breakdown of the key components:
 
 - **The Blockchain Ledger:** Most NFTs are built on the Ethereum blockchain, which acts as a decentralized public ledger. When an NFT is created (a process called "minting"), a unique token is generated and recorded on the blockchain. This entry contains information like who created it, who owns it, and a history of all its transactions.
-- **Smart Contracts:** NFTs are governed by [smart contracts](/what-are-smart-contracts), which are self-executing programs that handle the token's logic. They define the rules of the NFT, such as enforcing creator royalties (a percentage of all future sales paid back to the original artist) or determining its unique attributes.
+- **Smart Contracts:** NFTs are governed by smart contracts, which are self-executing programs that handle the token's logic. They define the rules of the NFT, such as enforcing creator royalties (a percentage of all future sales paid back to the original artist) or determining its unique attributes.
 - **Metadata:** The smart contract for an NFT contains metadata. This is the data that links the token to the actual asset. It typically includes the name of the NFT, a description, and a link to the digital file (like an image or video) which is often stored on a decentralized file system like IPFS (InterPlanetary File System) to ensure it can't be easily altered or removed.
 
 This combination of technologies ensures that an NFT's ownership is transparent, verifiable by anyone, and secured by the immense computational power of the blockchain network. It creates digital scarcity, allowing for the first time a way to prove you are the sole owner of a specific digital file.

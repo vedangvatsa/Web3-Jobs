@@ -5,7 +5,7 @@ description: 'Understand the core concepts of blockchain technology, how it work
 category: 'Getting Started'
 ---
 
-You've probably heard the term "blockchain" mentioned alongside Bitcoin, Ethereum, or the broader [Web3](/what-is-web3) ecosystem. It's often described as a revolutionary technology, but what exactly is it? At its heart, a blockchain is a new kind of database, a distributed digital ledger. But that simple definition doesn’t capture its true power. A blockchain's uniqueness lies in how it structures, secures, and shares data. It's an unchangeable, transparent, and decentralized record of transactions, making it a powerful tool for creating systems that don't require trust in a central authority. This guide will break down the technology, explain its key features, and explore its impact far beyond digital currencies.
+You've probably heard the term "blockchain" mentioned alongside Bitcoin, Ethereum, or the broader Web3 ecosystem. It's often described as a revolutionary technology, but what exactly is it? At its heart, a blockchain is a new kind of database, a distributed digital ledger. But that simple definition doesn’t capture its true power. A blockchain's uniqueness lies in how it structures, secures, and shares data. It's an unchangeable, transparent, and decentralized record of transactions, making it a powerful tool for creating systems that don't require trust in a central authority. This guide will break down the technology, explain its key features, and explore its impact far beyond digital currencies.
 
 ## The Problem a Blockchain Solves The Double-Spend Dilemma
 
@@ -63,15 +63,15 @@ Not all blockchains are the same. They can be broadly categorized based on who c
 
 ## Beyond Cryptocurrency The Power of Smart Contracts
 
-While Bitcoin introduced blockchain to the world, the technology's potential goes far beyond digital money. The real revolution came with the advent of Ethereum, which introduced the concept of [smart contracts](/what-are-smart-contracts). These are self-executing programs with the terms of the agreement directly written into code. They run on the blockchain, making them transparent, immutable, and unstoppable.
+While Bitcoin introduced blockchain to the world, the technology's potential goes far beyond digital money. The real revolution came with the advent of Ethereum, which introduced the concept of smart contracts. These are self-executing programs with the terms of the agreement directly written into code. They run on the blockchain, making them transparent, immutable, and unstoppable.
 
 Smart contracts have unlocked a new wave of applications:
 
-- **Decentralized Finance (DeFi)**: Building an entire alternative financial system for lending, borrowing, and trading without banks. Check out our [full guide to DeFi](/guide-to-defi).
+- **Decentralized Finance (DeFi)**: Building an entire alternative financial system for lending, borrowing, and trading without banks.
 - **Supply Chain Management**: Tracking goods from production to sale, ensuring authenticity and preventing fraud by creating an unchangeable record of a product's journey. A company can track a shipment of coffee beans from the farm to the store, with every step recorded on the blockchain.
 - **Voting Systems**: Creating secure and transparent voting platforms where every vote is recorded on the blockchain, making the results verifiable and tamper-proof.
 - **Digital Identity**: Allowing individuals to own and control their own digital identity, rather than relying on third-party providers like Google or Facebook. Users can choose what information to share and with whom, a concept known as Self-Sovereign Identity (SSI).
-- **Non-Fungible Tokens (NFTs)**: Creating verifiable, unique digital items. [NFTs](/what-are-nfts) represent ownership of anything from art and music to in-game assets and real-world property.
+- **Non-Fungible Tokens (NFTs)**: Creating verifiable, unique digital items. NFTs represent ownership of anything from art and music to in-game assets and real-world property.
 
 ## The Challenges Facing Blockchain Technology
 
