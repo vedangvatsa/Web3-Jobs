@@ -1,8 +1,9 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Rss, MessageSquare, GraduationCap, X, Newspaper, Users, Award } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, X, Newspaper } from 'lucide-react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export function Header() {
     const navLinks = [
@@ -19,8 +20,8 @@ export function Header() {
     return (
         <header className="sticky top-0 z-30 w-full border-b bg-background/80 backdrop-blur-sm">
             <div className="container mx-auto flex h-14 items-center justify-between px-4">
-                <Link href="/" className="text-xl font-bold tracking-tight text-foreground" aria-label="Hashtag Web3 Homepage">
-                    Hashtag Web3
+                <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
+                    <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" priority />
                 </Link>
                 
                 <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
@@ -58,8 +59,8 @@ export function Header() {
                         </SheetTrigger>
                         <SheetContent side="right" className="w-[300px] flex flex-col bg-card p-0">
                            <div className="p-6 flex items-center justify-between border-b">
-                                <Link href="/" className="text-lg font-bold tracking-tight text-foreground" aria-label="Hashtag Web3 Homepage">
-                                    Hashtag Web3
+                                <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
+                                    <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" />
                                 </Link>
                                 <SheetClose asChild>
                                     <Button variant="ghost" size="icon">
