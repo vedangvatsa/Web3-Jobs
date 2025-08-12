@@ -1,6 +1,6 @@
 ---
 title: "What is MEV? An Introduction to Maximal Extractable Value"
-image: "https://images.unsplash.com/photo-1642139599180-858a7489c3e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2JvdHxlbnwwfHx8fDE3NTUwMTI1NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1649877508777-1554357604eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8dGF4JTIwdGVjaHxlbnwwfHx8fDE3NTUwMDcxMjF8MA&ixlib=rb-4.1.0&q=80&w=1080"
 description: "Dive into the world of MEV (Maximal Extractable Value), the invisible tax of the blockchain. Learn what it is, how it works, and its impact on everyday crypto users."
 category: "Technology Deep Dives"
 ---
