@@ -210,6 +210,21 @@ export default function CommunityPage() {
                     </CardContent>
                 </Card>
             </section>
+
+            <section className="mb-16 bg-secondary/40 rounded-lg p-8">
+              <div className="text-center">
+                <h2 className="text-3xl font-bold text-primary mb-2">Stay Ahead with Our News Feed</h2>
+                <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
+                  Get the latest updates, trends, and insights from the Web3 space. Join over 11,000 subscribers on our Telegram channel.
+                </p>
+                <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer">
+                  <Button size="lg">
+                    <Newspaper className="mr-2 h-5 w-5"/>
+                    Join News Feed
+                  </Button>
+                </a>
+              </div>
+            </section>
           
           <section className="mb-16">
              <div className="max-w-5xl mx-auto">
