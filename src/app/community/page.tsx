@@ -15,7 +15,7 @@ const stats = [
 ];
 
 const companies = [
-  { name: 'JP Morgan', src: '/logo/jpmorgan.png' },
+  { name: 'JP Morgan', src: '/logo/JP_Morgan.png' },
   { name: 'Binance', src: '/logo/binance.png' },
   { name: 'Aptos', src: '/logo/aptos.png' },
   { name: 'Ripple', src: '/logo/ripple.png' },
@@ -70,7 +70,7 @@ const channels = [
 const caseStudies = [
   {
     title: 'Demo Day with Onepiece Labs & Sei',
-    image: 'https://images.unsplash.com/photo-1665413791837-e07049386349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZW1vJTIwZGF5fGVufDB8fHx8MTc1NjM5OTIyNnww&ixlib=rb-4.1.0&q=80&w=1080',
+    image: 'https://images.unsplash.com/photo-1665413791837-e07043386349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZW1vJTIwZGF5fGVufDB8fHx8MTc1NjM5OTIyNnww&ixlib=rb-4.1.0&q=80&w=1080',
     data_ai_hint: 'demo day',
     points: [
       'LinkedIn post received 953 likes.',
