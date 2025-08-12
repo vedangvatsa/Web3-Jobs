@@ -1,12 +1,11 @@
 
-
 import { JobBoard } from '@/components/job-board';
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
-import { Rss, Newspaper } from 'lucide-react';
+import { Rss } from 'lucide-react';
 
 export default async function Home() {
   const initialJobs = await getJobs();
@@ -36,16 +35,6 @@ export default async function Home() {
                 >
                   <Rss className="h-4 w-4 transition-transform group-hover:scale-110" />
                   <span>Join our hiring feed with <strong className="text-primary">56,000+</strong> subscribers.</span>
-                </Link>
-                <br />
-                <Link
-                  href="https://t.me/web3newsfeed"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-sm text-muted-foreground hover:text-primary transition-colors group inline-flex items-center gap-2"
-                >
-                  <Newspaper className="h-4 w-4 transition-transform group-hover:scale-110" />
-                  <span>Join our news feed with <strong className="text-primary">11,000+</strong> subscribers.</span>
                 </Link>
              </div>
             <JobBoard initialJobs={initialJobs} />
