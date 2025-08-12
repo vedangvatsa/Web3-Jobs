@@ -1,6 +1,6 @@
 ---
 title: "A Day in the Life of a DeFi Quant"
-image: "https://placehold.co/1080x810.png"
+image: "https://images.unsplash.com/photo-1518281420975-50db6e5d0a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaWZlfGVufDB8fHx8MTc1NTAzNjYxNnww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "data analysis finance"
 description: "Ever wondered what a DeFi quantitative analyst actually does? We pull back the curtain on a typical day for a 'quant' working at the cutting edge of decentralized finance."
 category: "Career Guides"
