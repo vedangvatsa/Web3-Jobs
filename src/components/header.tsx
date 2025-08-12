@@ -1,3 +1,4 @@
+
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
 import { Menu, Linkedin, Twitter, Rss, MessageSquare, GraduationCap, X, Newspaper } from 'lucide-react';
@@ -43,7 +44,7 @@ export function Header() {
                             </a>
                         ))}
                     </div>
-                    <a href="https.t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
                         <Button size="sm">Post a Job</Button>
                     </a>
                 </nav>
