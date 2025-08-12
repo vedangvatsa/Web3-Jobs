@@ -1,6 +1,6 @@
 ---
 title: "How to Negotiate Your Web3 Salary and Compensation"
-image: "https://images.unsplash.com/photo-1554224155-169544351742?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0YXhlc3xlbnwwfHx8fDE3NTUxNjIyNDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnl8ZW58MHx8fHwxNzU1MDA4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
 description: "A practical guide to negotiating your Web3 job offer. Learn how to evaluate token packages, understand vesting schedules, and maximize your total compensation in a crypto-native world."
 category: "Career Guides"
 ---
