@@ -62,26 +62,31 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     notFound();
   }
   
+  const siteUrl = 'https://web3-jobs.example.com';
   const articleSchema: ArticleSchema = {
     '@type': 'Article',
     headline: article.title,
     description: article.description,
     image: article.image,
+    datePublished: new Date().toISOString(),
+    dateModified: new Date().toISOString(),
     author: {
         '@type': 'Organization',
         name: 'Hashtag Web3',
+        url: siteUrl,
     },
     publisher: {
         '@type': 'Organization',
         name: 'Hashtag Web3',
+        url: siteUrl,
         logo: {
             '@type': 'ImageObject',
-            url: 'https://web3-jobs.example.com/logo.png'
+            url: `${siteUrl}/logo.png`
         }
     },
     mainEntityOfPage: {
         '@type': 'WebPage',
-        '@id': `https://web3-jobs.example.com/${article.slug}`
+        '@id': `${siteUrl}/${article.slug}`
     }
   };
 
