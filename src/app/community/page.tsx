@@ -112,10 +112,10 @@ export default function CommunityPage() {
           
           <section className="text-center mb-16 max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-6xl font-extrabold tracking-tighter text-primary">
-              Promote with Hashtag Web3
+              Our Ecosystem
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground">
-              Access one of the most active global Web3 networks. If you’re looking to amplify your brand, promote events, or share your latest innovations, we provide the community, audience, and credibility to make an impact.
+              Hashtag Web3 is more than a platform; it's a thriving ecosystem. Discover how our interconnected network of communities, news channels, and educational resources creates unparalleled value for Web3 professionals and projects.
             </p>
           </section>
 
