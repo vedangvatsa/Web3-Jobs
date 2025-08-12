@@ -44,11 +44,6 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
         "link": "https://bitso.com/jobs?gh_jid=6676381003"
     },
     {
-        "company": "CoinDCX",
-        "title": "Assistant Manager - YouTube Channel Operations",
-        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MywgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ%3D%3D"
-    },
-    {
         "company": "VALR",
         "title": "Financial Crime Compliance Analyst",
         "link": "https://valr.careers.hibob.com/jobs/04b1c6b5-2226-4cc6-a05e-0d82bcde1aba"
@@ -167,16 +162,6 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
         "company": "Ripple",
         "title": "Senior Manager - Salesforce Developer",
         "link": "https://ripple.com/careers/all-jobs/job/7138108?gh_jid=7138108"
-    },
-    {
-        "company": "CoinDCX",
-        "title": "Specialist - Growth",
-        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ%3D%3D"
-    },
-    {
-        "company": "CoinDCX",
-        "title": "Assistant Manager - Events & Partner Marketing",
-        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ%3D%3D"
     },
     {
         "company": "Ripple",
