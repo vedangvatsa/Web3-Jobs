@@ -29,7 +29,7 @@ DAOs flip this model on its head by using blockchain technology to create a more
 ### How a DAO Works: The Life Cycle
 
 1.  **Creation & Smart Contracts:** A core team of developers writes the initial smart contracts that will govern the DAO. These contracts define the DAO's rules, such as how voting works and what is required to pass a proposal.
-2.  **Funding & Token Issuance:** To raise funds, the DAO will typically issue a "governance token." These tokens might be sold to raise capital for the DAO's treasury, or they might be distributed to early users and contributors.
+2.  **Funding & Token Issuance:** To raise funds, the DAO will typically issue a "governance token." These tokens might be sold to raise capital for the DAO's treasury, or they might be airdropped to early users and contributors.
 3.  **Governance:** Once the DAO is operational, decisions are made through a proposal system.
     - Any member (or a member who holds a certain number of tokens) can create a proposal.
     - Proposals are then debated and discussed by the community, usually in a forum like Discord or Discourse.
