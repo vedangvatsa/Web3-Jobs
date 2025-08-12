@@ -1,6 +1,6 @@
 ---
 title: "The Role of a Tokenomics Designer: Architecting Digital Economies"
-image: "https://images.unsplash.com/photo-1518281420975-50db6e5d0a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaWZlfGVufDB8fHx8MTc1NTAzNjYxNnww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlY29ub215fGVufDB8fHx8MTc1NTAzNzYzOXww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "digital economy design"
 description: "A deep dive into one of the most unique and important roles in Web3. Learn what a tokenomics designer does, the skills they need, and how they architect the economic incentives of a protocol."
 category: "Career Guides"
