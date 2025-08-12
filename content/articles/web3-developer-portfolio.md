@@ -7,7 +7,7 @@ category: "Career Guides"
 
 In the Web3 job market, your resume is secondary. Your LinkedIn profile is an afterthought. The single most important asset in your job search as a developer is your portfolio—specifically, your GitHub profile. Hiring managers and technical recruiters in this space are looking for tangible proof of your skills. They want to see that you can write clean, secure Solidity code, that you can build intuitive frontends that interact with the blockchain, and that you have a genuine passion for the technology that extends beyond your day job.
 
-A well-crafted portfolio of personal projects is the ultimate signal that you have what it takes. This guide provides a practical, step-by-step roadmap for building a Web3 developer portfolio that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational smart contracts to a full-stack dApp.
+A well-crafted portfolio of personal projects is the ultimate signal that you have what it takes. This guide provides a practical, step-by-step roadmap for [building a Web3 developer portfolio](/building-web3-portfolio) that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational smart contracts to a full-stack dApp.
 
 ### Foundational Principles for Your Portfolio
 
@@ -31,7 +31,7 @@ Follow this progression to build your skills and your portfolio from the ground 
 
 #### Project 2: An NFT Collection
 
-- **What it is:** A collection of unique, non-fungible tokens that conform to the ERC-721 standard.
+- **What it is:** A collection of unique, [non-fungible tokens](/what-are-nfts) that conform to the ERC-721 standard.
 - **Why it matters:** This project shows that you understand the other major token standard and can work with metadata, a key component of NFTs. It's also a great way to showcase a bit of creativity.
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, IPFS (for metadata storage), Hardhat/Foundry.
 - **Bonus Steps:**

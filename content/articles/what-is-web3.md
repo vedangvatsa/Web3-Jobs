@@ -25,7 +25,7 @@ Web3 is built on a set of core principles that differentiate it from the central
 
 #### 1. Decentralization
 
-Instead of applications and data being hosted on centralized servers owned by a single company, Web3 applications (or "dApps") are built on **blockchains**. A blockchain is a peer-to-peer network of computers that work together to maintain a shared, secure database.
+Instead of applications and data being hosted on centralized servers owned by a single company, Web3 applications (or "dApps") are built on **[blockchains](/what-is-a-blockchain)**. A blockchain is a peer-to-peer network of computers that work together to maintain a shared, secure database.
 
 - **Why it matters:** This means there is no single point of failure or control. No single company or government can turn off an application or censor information. Power is returned to the edges of the network—to the users.
 
@@ -33,14 +33,14 @@ Instead of applications and data being hosted on centralized servers owned by a 
 
 In Web3, you, the user, are in control of your data and your digital assets. This is made possible through cryptocurrency wallets and blockchain technology.
 
-- **How it works:** When you create a crypto wallet (like MetaMask), you are given a unique set of cryptographic keys. This wallet becomes your digital identity. The assets you own—whether it's cryptocurrency like Ethereum or a digital collectible like an NFT—are tied to your wallet. You have self-custody, meaning only you can access and control your assets.
+- **How it works:** When you create a crypto [wallet](/choosing-a-crypto-wallet) (like MetaMask), you are given a unique set of cryptographic keys. This wallet becomes your digital identity. The assets you own—whether it's cryptocurrency like Ethereum or a digital collectible like an NFT—are tied to your wallet. You have self-custody, meaning only you can access and control your assets.
 - **Why it matters:** This flips the Web2 model on its head. Instead of platforms owning your data, you own it. You can take your assets and your reputation with you wherever you go on the web.
 
 #### 3. Verifiable and Trustless
 
 Web3 operates on the principle of "don't trust, verify." Because blockchains are transparent public ledgers, anyone can audit the code of a dApp or verify the history of transactions.
 
-- **How it works:** Instead of trusting a company to act honestly, you trust the code. **Smart contracts**—self-executing programs that run on the blockchain—automate agreements and transactions without the need for a trusted intermediary.
+- **How it works:** Instead of trusting a company to act honestly, you trust the code. **[Smart contracts](/what-are-smart-contracts)**—self-executing programs that run on the blockchain—automate agreements and transactions without the need for a trusted intermediary.
 - **Why it matters:** This creates a more fair and transparent environment where the rules are the same for everyone.
 
 ### What Can You Build on Web3?
@@ -55,7 +55,7 @@ The building blocks of Web3—decentralization, ownership, and verifiability—u
 
 Web3 is still in its early, experimental phase, and it faces significant challenges.
 - **User Experience (UX):** Interacting with dApps can be complicated and is not yet as seamless as using Web2 applications.
-- **Scalability:** Blockchains can be slow and expensive to use, although this is rapidly improving with the development of Layer 2 scaling solutions.
+- **Scalability:** Blockchains can be slow and expensive to use, although this is rapidly improving with the development of [Layer 2 scaling solutions](/guide-to-layer-2s).
 - **Education:** The concepts behind Web3 are new and can be difficult for people to grasp.
 
 Despite these hurdles, Web3 represents a hopeful and ambitious vision for a better internet. It's a movement to rebuild the web on a foundation of open protocols and user ownership, creating a more equitable and creative digital world. For developers, entrepreneurs, and creators, it's an opportunity to build the next generation of applications and to give ownership back to the users.
