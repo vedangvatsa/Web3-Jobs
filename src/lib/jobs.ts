@@ -334,11 +334,6 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
         "link": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/4650502101"
     },
     {
-        "company": "CoinDCX",
-        "title": "KAM - Off-role",
-        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI1OSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ=="
-    },
-    {
         "company": "Circle",
         "title": "Senior Counsel, Transactions, EMEA",
         "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/London---remote-first-in-UK/Senior-Counsel--Transactions--EMEA_JR100531"
