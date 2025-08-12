@@ -20,6 +20,13 @@ function cleanCompany(company: string | undefined): string | undefined {
     return company.replace(/<[^>]*>?/gm, '').split('\n')[0].trim();
 }
 
+// Helper function to remove emojis from a string
+function removeEmojis(text: string | undefined): string | undefined {
+  if (!text) return undefined;
+  // This regex removes most common emojis.
+  return text.replace(/([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g, '').trim();
+}
+
 export async function getJobs(): Promise<Job[]> {
   const allJobs: Job[] = [];
   const seenJobs = new Set<string>();
@@ -29,7 +36,7 @@ export async function getJobs(): Promise<Job[]> {
       const feed = await parser.parseURL(feedUrl);
       if (feed?.items) {
         feed.items.forEach((item) => {
-          const title = item.title?.trim();
+          const title = removeEmojis(item.title?.trim());
           const company = cleanCompany(item.content);
           const link = item.link;
 
