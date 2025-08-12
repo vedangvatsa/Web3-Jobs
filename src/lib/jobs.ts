@@ -381,7 +381,7 @@ export async function getJobs(): Promise<Job[]> {
           const company = cleanCompany(item.content);
           const link = item.link;
 
-          if (title && company && link && title.split(' ').length <= 7) {
+          if (title && company && link) {
             return {
               id: item.guid || link,
               title,
@@ -417,7 +417,7 @@ export async function getJobs(): Promise<Job[]> {
   // Deduplicate jobs, keeping the most recent one
   const jobMap = new Map<string, Job>();
   allJobsFlat.forEach(job => {
-    const jobKey = `${job.title.toLowerCase()}|${job.company.toLowerCase()}`;
+    const jobKey = job.link;
     const existingJob = jobMap.get(jobKey);
     if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
       jobMap.set(jobKey, job);
