@@ -380,24 +380,28 @@ export async function getJobs(): Promise<Job[]> {
     return [];
   });
 
-  let allJobsNested = await Promise.all(allJobsPromises);
-  let allJobsFlat = allJobsNested.flat();
-
-  // Add the static jobs
+  const allJobsNested = await Promise.all(allJobsPromises);
+  
+  // Process static jobs
   const processedStaticJobs: Job[] = staticJobs.map((job) => ({
       ...job,
-      id: job.link,
+      id: job.link, // Use link as a unique ID
       date: new Date().toISOString(),
       source: 'Hashtag Web3 Direct'
   }));
 
-  let combinedJobs = [...allJobsFlat, ...processedStaticJobs];
+  // Combine all jobs
+  let combinedJobs = [...allJobsNested.flat(), ...processedStaticJobs];
 
   // Deduplicate jobs, keeping the most recent one
   const jobMap = new Map<string, Job>();
+  
   combinedJobs.forEach(job => {
-    const jobKey = job.link;
+    // Normalize key for deduplication: company name + job title (both lowercase)
+    const jobKey = `${job.company.toLowerCase()}-${job.title.toLowerCase()}`;
     const existingJob = jobMap.get(jobKey);
+
+    // If job doesn't exist, or if the new job is more recent, add/update it
     if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
       jobMap.set(jobKey, job);
     }
@@ -405,8 +409,10 @@ export async function getJobs(): Promise<Job[]> {
 
   const uniqueJobs = Array.from(jobMap.values());
 
-  // Sort by date descending (newest first)
+  // Final sort by date descending (newest first)
   uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   return uniqueJobs;
 }
+
+    
