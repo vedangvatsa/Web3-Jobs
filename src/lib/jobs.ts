@@ -46,7 +46,7 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
     {
         "company": "CoinDCX",
         "title": "Assistant Manager - YouTube Channel Operations",
-        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MywgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ=="
+        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MywgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ%3D%3D"
     },
     {
         "company": "VALR",
@@ -171,12 +171,12 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
     {
         "company": "CoinDCX",
         "title": "Specialist - Growth",
-        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ=="
+        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ%3D%3D"
     },
     {
         "company": "CoinDCX",
         "title": "Assistant Manager - Events & Partner Marketing",
-        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ=="
+        "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI3MCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ%3D%3D"
     },
     {
         "company": "Ripple",
@@ -376,7 +376,7 @@ export async function getJobs(): Promise<Job[]> {
           const company = cleanCompany(item.content);
           const link = item.link;
 
-          if (title && company && link) {
+          if (title && company && link && title.split(' ').length <= 7) {
             return {
               id: item.guid || link,
               title,
@@ -395,7 +395,7 @@ export async function getJobs(): Promise<Job[]> {
     return [];
   });
 
-  const allJobsNested = await Promise.all(allJobsPromises);
+  let allJobsNested = await Promise.all(allJobsPromises);
   let allJobsFlat = allJobsNested.flat();
 
   // Add the static jobs
@@ -406,12 +406,11 @@ export async function getJobs(): Promise<Job[]> {
       source: 'Hashtag Web3 Direct'
   }));
 
-  allJobsFlat = [...allJobsFlat, ...processedStaticJobs];
-
+  let combinedJobs = [...allJobsFlat, ...processedStaticJobs];
 
   // Deduplicate jobs, keeping the most recent one
   const jobMap = new Map<string, Job>();
-  allJobsFlat.forEach(job => {
+  combinedJobs.forEach(job => {
     const jobKey = job.link;
     const existingJob = jobMap.get(jobKey);
     if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
