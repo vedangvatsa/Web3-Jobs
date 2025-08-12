@@ -51,7 +51,7 @@ For marketing, community, or operations roles, your portfolio is a collection of
 -   **Content & Thought Leadership:** Write a series of high-quality blog posts or Twitter threads analyzing a specific sector of Web3 (e.g., "The State of Decentralized Derivatives" or "A Deep Dive into NFT Financialization").
 -   **Data Analysis Dashboards:** Create a comprehensive Dune Analytics dashboard for a protocol you admire. Track key metrics like daily active users, trading volume, and governance participation. Share your insights on Twitter.
 -   **Community Building:** Become a highly respected contributor in a DAO. Take on a project, like revamping their onboarding documentation or organizing community calls. Document your contributions and impact.
--   **Go-to-Market Strategy:** Create a detailed, public marketing and growth strategy for a new, hypothetical Web3 project. This demonstrates your strategic thinking and understanding of the Web3 marketing landscape.
+-   **Go-to-Market Strategy:** Create a detailed, public marketing and growth strategy for a new, hypothetical Web3 project. This demonstrates your strategic thinking and an understanding of the Web3 marketing landscape.
 
 ## Presenting Your Portfolio
 

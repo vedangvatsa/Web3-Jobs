@@ -53,7 +53,7 @@ Blockchains like Bitcoin and Ethereum are transparent, not anonymous. Every tran
 
 ### 2. Blockchain Scalability (ZK-Rollups)
 
-This is the most impactful use case for ZKPs today. As we explored in our [guide to Layer 2s](/guide-to-layer-2s), **ZK-Rollups** use zero-knowledge proofs to help scale Ethereum.
+This is the most impactful use case for ZKPs today. As we explored in our guide to Layer 2s, **ZK-Rollups** use zero-knowledge proofs to help scale Ethereum.
 
 - **How it Works:**
   1. A Layer 2 network processes thousands of transactions off-chain, where it's fast and cheap.
