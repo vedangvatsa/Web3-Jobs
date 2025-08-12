@@ -1,14 +1,13 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Rss, MessageSquare, GraduationCap, X, Newspaper } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Rss, MessageSquare, GraduationCap, X, Newspaper, Users } from 'lucide-react';
 import Link from 'next/link';
 
 export function Header() {
     const navLinks = [
         { href: "/blog", label: "Blog", icon: Newspaper },
-        { href: "https://t.me/web3hiring", label: "Feed", target: "_blank", icon: Rss },
-        { href: "https://t.me/hashtagweb3", label: "Discuss", target: "_blank", icon: MessageSquare },
+        { href: "/community", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
 
