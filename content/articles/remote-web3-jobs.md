@@ -35,7 +35,7 @@ Your job search for a remote Web3 role will take place on platforms that are spe
 ### The Unofficial Job Board: Twitter and Discord
 
 Many of the best opportunities are never posted on a job board. They emerge organically within communities.
--   **Twitter:** Follow founders, developers, and VCs in the space. They will often tweet about open roles at their companies or in their portfolio companies. Curate a "Web3 Jobs" list to track these opportunities.
+-   **Twitter:** Follow founders, developers, and VCs in the space. They will often tweet about an open role at their companies or in their portfolio companies. Curate a "Web3 Jobs" list to track these opportunities.
 -   **Discord:** As we covered in our [guide to getting a job in a DAO](/the-rise-of-daos), becoming an active, contributing member of a project's Discord is the single best way to find a job. Opportunities are often posted in a `#jobs` channel or emerge from conversations with the core team.
 
 ## The Essential Skills for Remote Web3 Success
