@@ -1,7 +1,7 @@
 ---
 title: "Gas Optimization Techniques for Solidity Developers"
-image: "https://placehold.co/1080x810.png"
-data-ai-hint: "gasoline pump fuel"
+image: "https://images.unsplash.com/photo-1622186477895-f2af6a0f5a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmZWV8ZW58MHx8fHwxNzU1MDM2ODM3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+data-ai-hint: "gas optimization techniques"
 description: "A practical guide for Ethereum developers on how to write more gas-efficient smart contracts. Learn techniques to reduce the execution cost of your Solidity code."
 category: "Technology Deep Dives"
 ---
