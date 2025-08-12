@@ -1,6 +1,6 @@
 ---
 title: "Decentralized Identity Explained: The Quest for Self-Sovereign Data"
-image: "https://images.unsplash.com/photo-1579168765467-b2e3e5c70def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpZGVudGl0eXxlbnwwfHx8fDE3NTUwMTI4MTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1634322259580-4441b0dd5f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpZGVudGl0eXxlbnwwfHx8fDE3NTUwMDUyODB8MA&ixlib=rb-4.1.0&q=80&w=1080"
 description: "Learn about Decentralized Identity (DID) and Self-Sovereign Identity (SSI). Discover how Web3 is building a future where you own and control your personal data."
 category: "Industry Insights"
 ---
