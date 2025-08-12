@@ -7,6 +7,9 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 import type { Article as ArticleSchema } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
+import { Button } from '@/components/ui/button';
+import { Rss } from 'lucide-react';
+import { Card, CardContent } from '@/components/ui/card';
 
 type ArticlePageProps = {
   params: {
@@ -118,9 +121,25 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 priority
                 data-ai-hint={`${article.slug.replace(/-/g, ' ')}`}
               />
-              <div className="prose prose-lg dark:prose-invert max-w-none">
+              <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
                 <ArticleContent content={article.content} />
               </div>
+
+              <Card className="bg-secondary/40 border-dashed">
+                <CardContent className="p-8 text-center">
+                    <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
+                    <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
+                        Get the best Web3, crypto, and blockchain jobs delivered directly to you. Join our Telegram channel with over 56,000 subscribers.
+                    </p>
+                    <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
+                        <Button size="lg">
+                            <Rss className="mr-2 h-5 w-5" />
+                            Join Web3 Jobs Feed
+                        </Button>
+                    </a>
+                </CardContent>
+              </Card>
+
             </div>
           </article>
         </main>
