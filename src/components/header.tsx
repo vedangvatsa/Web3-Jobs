@@ -7,7 +7,7 @@ import Link from 'next/link';
 export function Header() {
     const navLinks = [
         { href: "/blog", label: "Blog", icon: Newspaper },
-        { href: "/community", label: "Ecosystem", icon: Award },
+        { href: "/community", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
 

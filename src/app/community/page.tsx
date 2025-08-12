@@ -112,7 +112,7 @@ export default function CommunityPage() {
           
           <section className="text-center mb-16 max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-6xl font-extrabold tracking-tighter text-primary">
-              Our Ecosystem
+              Connecting The Web3 Ecosystem
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground">
               Hashtag Web3 is more than a platform; it's a thriving ecosystem. Discover how our interconnected network of communities, news channels, and educational resources creates unparalleled value for Web3 professionals and projects.
