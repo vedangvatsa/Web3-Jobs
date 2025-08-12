@@ -32,7 +32,7 @@ const promotedEvents = [
     { name: 'ETH Oxford', src: '/logo/eth-oxford.png'},
     { name: 'Token 2049', src: '/logo/token2049.png'},
     { name: 'Malaysia Blockchain Week', src: '/logo/malaysia-blockchain-week.png'},
-    { name: 'Taipei Blockchain Week', src: '/logo/taipei-blockchain-week.png'},
+    { name: 'Taipei Blockchain Week', src: '/logo/taipeiblockchainweek.png'},
 ];
 
 const promotedContent = [
