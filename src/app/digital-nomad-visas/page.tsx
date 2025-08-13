@@ -148,20 +148,26 @@ export default function DigitalNomadVisasPage() {
                         
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                             {filteredVisas.map(visa => <VisaCard key={visa.country} visa={visa} />)}
-                            
-                            <Card className="flex flex-col items-center justify-center text-center p-6 bg-primary/5 border-primary/20 hover:shadow-2xl hover:-translate-y-1.5 transition-all duration-300">
-                                <div className="p-3 bg-primary/10 rounded-full mb-4">
-                                    <Briefcase className="h-8 w-8 text-primary"/>
-                                </div>
-                                <h3 className="text-xl font-bold text-primary mb-2">Ready to Make the Move?</h3>
-                                <p className="text-muted-foreground mb-4 text-sm">Now that you know where you can go, find the perfect remote Web3 job to take with you.</p>
-                                <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
-                                    <Button>
-                                        Find a Remote Web3 Job <ArrowRight className="ml-2 h-4 w-4"/>
-                                    </Button>
-                                </a>
-                            </Card>
                         </div>
+
+                        {filteredVisas.length > 0 && (
+                             <Card className="mt-8 col-span-full bg-primary/5 border-primary/20">
+                                <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
+                                    <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
+                                        <Briefcase className="h-8 w-8 text-primary"/>
+                                    </div>
+                                    <div>
+                                        <h3 className="text-xl font-bold text-primary mb-1">Ready to Make the Move?</h3>
+                                        <p className="text-muted-foreground">Now that you know where you can go, find the perfect remote Web3 job to take with you.</p>
+                                    </div>
+                                    <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
+                                        <Button size="lg">
+                                            Find a Remote Web3 Job <ArrowRight className="ml-2 h-4 w-4"/>
+                                        </Button>
+                                    </a>
+                                </CardContent>
+                            </Card>
+                        )}
                         
                         {filteredVisas.length === 0 && (
                             <div className="text-center py-16 text-muted-foreground bg-card rounded-lg mt-8">
