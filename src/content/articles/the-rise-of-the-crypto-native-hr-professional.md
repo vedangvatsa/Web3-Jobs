@@ -1,6 +1,6 @@
 ---
 title: "The Rise of the Crypto-Native HR Professional"
-image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxDb21wYW55JTIwQ3VsdHVyZXxlbnwwfHx8fDE3NTQ5NTEyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxodW1hbiUyMHJlc291cmNlfGVufDB8fHx8MTc1NTA2MjI3M3ww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "human resources team"
 description: "HR in Web3 is different. Discover the unique challenges and opportunities for People Ops leaders in a world of remote work, token compensation, and DAO contributors."
 category: "Career Guides"
