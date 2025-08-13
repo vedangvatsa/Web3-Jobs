@@ -1,6 +1,6 @@
 ---
 title: "Answering 'Why Web3?': Crafting Your Personal Narrative for Interviews"
-image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8am9ifGVufDB8fHx8MTc1NDk1MTE5OHww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1686771416537-bf4a4f263d88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8aW50ZXJ2aWV3fGVufDB8fHx8MTc1NTAzNjg4Nnww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "job interview question"
 description: "The most important question in a Web3 interview is 'Why are you here?'. This guide helps you craft a compelling and authentic story about your passion for the decentralized web."
 category: "Career Guides"
