@@ -21,7 +21,8 @@ export interface Article {
 export interface DigitalNomadVisa {
   country: string;
   continent: 'Europe' | 'Asia' | 'North America' | 'South America' | 'Africa' | 'Oceania';
-  minIncome: number; // Monthly income in USD
+  minIncome: number; // Annual income in USD
   description: string;
+  visaLength: string;
   requirements: string[];
 }
