@@ -1,7 +1,7 @@
 ---
 title: "How to Become a Web3 Legal Consultant"
 image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZWdhbHxlbnwwfHx8fDE3NTUwMzcxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "how to become a web3 legal consultant"
+data-ai-hint: "law legal books"
 description: "A guide for legal professionals looking to transition into the fast-growing Web3 space. Learn what skills are in demand and how to navigate the complex regulatory landscape of crypto."
 category: "Career Guides"
 ---
