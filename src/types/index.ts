@@ -17,3 +17,12 @@ export interface Article {
   content: string;
   category: string;
 }
+
+export interface DigitalNomadVisa {
+  country: string;
+  continent: 'Europe' | 'Asia' | 'North America' | 'South America' | 'Africa' | 'Oceania';
+  minIncome: number; // Monthly income in USD
+  description: string;
+  requirements: string[];
+  link: string;
+}
