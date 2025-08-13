@@ -1,5 +1,6 @@
 
-import { Footer } from '@/components/footer';
+'use client'
+
 import { Header } from '@/components/header';
 import { SalaryCalculatorForm } from '@/components/salary-calculator-form';
 
@@ -10,7 +11,6 @@ export default function SalaryCalculatorPage() {
       <main className="flex-1">
         <SalaryCalculatorForm />
       </main>
-      <Footer />
     </div>
   );
 }

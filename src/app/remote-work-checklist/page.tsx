@@ -2,7 +2,6 @@
 'use client';
 
 import * as React from 'react';
-import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -259,7 +258,6 @@ export default function RemoteWorkChecklistPage() {
           </div>
         </div>
       </main>
-      <Footer />
     </div>
   );
 }
