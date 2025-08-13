@@ -1,4 +1,6 @@
 
+'use server';
+
 import type { Article } from '@/types';
 import fs from 'fs';
 import path from 'path';
