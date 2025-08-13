@@ -17,6 +17,32 @@ export const visaData: DigitalNomadVisa[] = [
         link: 'https://e-albania.al/eAlbaniaServices/UseService.aspx?service_code=15433'
     },
     {
+        country: 'Anguilla',
+        continent: 'North America',
+        minIncome: 0,
+        description: 'Anguilla\'s "Work. Life. Bliss." program targets remote workers, families, and students, allowing them to stay on the island for up to 12 months.',
+        requirements: [
+            'No explicit minimum income required, but must be self-sufficient.',
+            'Proof of employment or business ownership.',
+            'Health insurance coverage.',
+            'Clean criminal record.'
+        ],
+        link: 'https://ivisitanguilla.com/work-life-bliss/'
+    },
+    {
+        country: 'Antigua and Barbuda',
+        continent: 'North America',
+        minIncome: 4167,
+        description: 'The Antigua Nomad Digital Residence (NDR) program allows remote workers to live in the country for up to 2 years, enjoying a beautiful Caribbean lifestyle.',
+        requirements: [
+            'Proof of remote work for a company outside Antigua and Barbuda.',
+            'Expected annual income of at least $50,000 USD (approx. $4,167/month).',
+            'Health insurance coverage.',
+            'Clean criminal record.'
+        ],
+        link: 'https://nomad.cg.gov.ag/'
+    },
+    {
         country: 'Argentina',
         continent: 'South America',
         minIncome: 2500,
@@ -42,6 +68,69 @@ export const visaData: DigitalNomadVisa[] = [
         link: 'https://www.investinarmenia.am/en/business-residency-programs'
     },
     {
+        country: 'Aruba',
+        continent: 'North America',
+        minIncome: 2500,
+        description: 'Aruba\'s "One Happy Workation" program allows for a stay of up to 90 days. While not a long-term visa, it\'s an attractive option for short-term remote work stays.',
+        requirements: [
+            'Hold a passport from an eligible country.',
+            'Proof of remote work for a non-Aruban company.',
+            'Sufficient funds to support the stay (approx. $2,500/month recommended).',
+            'No local income tax for this program.'
+        ],
+        link: 'https://www.aruba.com/us/one-happy-workation'
+    },
+    {
+        country: 'Bahamas',
+        continent: 'North America',
+        minIncome: 0,
+        description: 'The Bahamas Extended Access Travel Stay (BEATS) program allows professionals and students to work or study remotely from the islands for up to one year.',
+        requirements: [
+            'Valid passport and proof of remote work or student status.',
+            'Sufficient funds to support yourself during your stay.',
+            'Health insurance.',
+            'No specific minimum income is required.'
+        ],
+        link: 'https://www.gbpa.com/beats/'
+    },
+    {
+        country: 'Barbados',
+        continent: 'North America',
+        minIncome: 4167,
+        description: 'The "Barbados Welcome Stamp" allows remote workers to live on the island for 12 months, with an option to renew. It\'s one of the most popular Caribbean digital nomad programs.',
+        requirements: [
+            'Proof of remote employment or self-employment.',
+            'Annual income of at least $50,000 USD (approx. $4,167/month).',
+            'Health insurance valid in Barbados.',
+        ],
+        link: 'https://www.visitbarbados.org/barbados-welcome-stamp'
+    },
+    {
+        country: 'Belize',
+        continent: 'North America',
+        minIncome: 6250,
+        description: 'Belize\'s "Work Where You Vacation" program allows a stay of up to 6 months. It\'s aimed at professionals who want to enjoy the country\'s natural beauty while working remotely.',
+        requirements: [
+            'Proof of employment with a foreign company or freelance business.',
+            'Annual income of at least $75,000 USD for individuals, or $100,000 for couples/families.',
+            'Health insurance coverage.'
+        ],
+        link: 'https://www.belizetourismboard.org/work-where-you-vacation/'
+    },
+    {
+        country: 'Bermuda',
+        continent: 'North America',
+        minIncome: 0,
+        description: 'The "Work From Bermuda" certificate allows remote workers to live and work in this self-governing British territory for one year. No minimum income is specified, but the cost of living is high.',
+        requirements: [
+            'Proof of remote employment or enrollment in higher education.',
+            'Sufficient funds to support your stay.',
+            'Health insurance.',
+            'Clean criminal record.'
+        ],
+        link: 'https://www.gotobermuda.com/work-from-bermuda'
+    },
+    {
         country: 'Brazil',
         continent: 'South America',
         minIncome: 1500,
@@ -53,6 +142,30 @@ export const visaData: DigitalNomadVisa[] = [
             'Health insurance valid in Brazil.'
         ],
         link: 'https://www.gov.br/mre/pt-br/consulado-atlanta/consular-services/visas/temporary-visas/digital-nomad-visa-vitem-xiv'
+    },
+    {
+        country: 'Cabo Verde',
+        continent: 'Africa',
+        minIncome: 1500,
+        description: 'The Cabo Verde Remote Working Program allows a stay of six months, which can be renewed for another six months. It targets remote workers from Europe, North America, and ECOWAS countries.',
+        requirements: [
+            'Proof of remote work and sufficient funds.',
+            'Average bank balance of at least €1,500 over the last 6 months for individuals.',
+            'Valid passport and travel insurance.',
+        ],
+        link: 'https://www.cvremoteworking.com/'
+    },
+    {
+        country: 'Cayman Islands',
+        continent: 'North America',
+        minIncome: 8333,
+        description: 'The Global Citizen Concierge Program (GCCP) is a premium option, allowing high-earning individuals to live and work remotely in the Cayman Islands for up to two years.',
+        requirements: [
+            'Proof of employment with a foreign entity.',
+            'Annual income of at least $100,000 USD for individuals, with higher tiers for couples and families.',
+            'Notarized bank reference and proof of health insurance.',
+        ],
+        link: 'https://www.visitcaymanislands.com/en-us/global-citizen'
     },
     {
         country: 'Colombia',
@@ -93,7 +206,19 @@ export const visaData: DigitalNomadVisa[] = [
         ],
         link: 'https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833'
     },
-     {
+    {
+        country: 'Curacao',
+        continent: 'North America',
+        minIncome: 0,
+        description: 'The @HOME in Curaçao program allows remote workers to stay on the island for up to six months, with a possible six-month extension.',
+        requirements: [
+            'Proof of remote work or ability to support oneself financially.',
+            'No specific minimum income is listed.',
+            'Valid passport and health insurance.',
+        ],
+        link: 'https://www.athomeincuracao.com/'
+    },
+    {
         country: 'Cyprus',
         continent: 'Europe',
         minIncome: 3500,
@@ -120,6 +245,30 @@ export const visaData: DigitalNomadVisa[] = [
             'The application process is complex and often requires an agency.'
         ],
         link: 'https://www.mzv.cz/jnp/en/information_for_aliens/long_stay_visa/business_purpose.html'
+    },
+    {
+        country: 'Dominica',
+        continent: 'North America',
+        minIncome: 4167,
+        description: 'Dominica\'s "Work in Nature" (WIN) visa allows a stay of up to 18 months, targeting professionals who want to work surrounded by the island\'s lush nature.',
+        requirements: [
+            'Proof of remote work.',
+            'Expected annual income of $50,000 USD or sufficient means to support oneself.',
+            'Health insurance.',
+        ],
+        link: 'https://windominica.gov.dm/'
+    },
+    {
+        country: 'Ecuador',
+        continent: 'South America',
+        minIncome: 1350,
+        description: 'Ecuador offers a professional, technical, or artisanal visa (Rentista) for up to two years. It\'s a great option for those seeking adventure in a biodiverse country.',
+        requirements: [
+            'Proof of a stable income from foreign sources.',
+            'Minimum monthly income of three unified basic salaries (approx. $1,350 USD).',
+            'Clean criminal record and health insurance.',
+        ],
+        link: 'https://www.gob.ec/miduvi/tramites/emision-visa-residencia-temporal-rentista'
     },
     {
         country: 'Estonia',
@@ -175,13 +324,25 @@ export const visaData: DigitalNomadVisa[] = [
         link: 'https://workfromgreece.gr/'
     },
     {
+        country: 'Grenada',
+        continent: 'North America',
+        minIncome: 3083,
+        description: 'Grenada\'s Remote Employment Act of 2021 allows a one-year stay, renewable for another year. It caters to those looking for a quiet Caribbean work-life balance.',
+        requirements: [
+            'Proof of remote work for a non-Grenadian company.',
+            'Annual income of at least $37,000 USD.',
+            'Valid passport and health insurance.',
+        ],
+        link: 'https://www.grenadaitc.gov.gd/'
+    },
+    {
         country: 'Hungary',
         continent: 'Europe',
-        minIncome: 2110,
-        description: 'Hungary\'s "White Card" is a residence permit for digital nomads from third countries. It allows a stay of one year, extendable for one more. The program is primarily aimed at single applicants under 40.',
+        minIncome: 3000,
+        description: 'Hungary\'s "White Card" is a residence permit for digital nomads from third countries. It allows a stay of one year, extendable for one more. It targets high-income remote workers.',
         requirements: [
             'Proof of remote work contract outside of Hungary.',
-            'Monthly income of at least €2,110 for the last 6 months.',
+            'Monthly income of at least €3,000 for the last 6 months.',
             'Cannot have shares in a Hungarian company.',
             'Proof of accommodation.'
         ],
@@ -218,7 +379,7 @@ export const visaData: DigitalNomadVisa[] = [
         country: 'Japan',
         continent: 'Asia',
         minIncome: 5250, // Approx.
-        description: 'Japan introduced a digital nomad visa in 2024 for citizens of 49 countries that have tax treaties with Japan. It allows a stay of up to six months, but cannot be extended.',
+        description: 'Japan introduced a digital nomad visa in 2024 for citizens of 49 countries that have tax treaties with Japan. It allows a stay of up to six months, but cannot be renewed.',
         requirements: [
             'Citizen of a visa-exempt country with a tax treaty with Japan (e.g., EU, USA, UK, Australia).',
             'Annual income of at least ¥10 million (approx. $63,000 USD or $5,250/month).',
@@ -254,15 +415,27 @@ export const visaData: DigitalNomadVisa[] = [
     {
         country: 'Malta',
         continent: 'Europe',
-        minIncome: 2700,
+        minIncome: 3500,
         description: 'Malta\'s Nomad Residence Permit is for non-EU nationals and allows a stay of one year, which can be renewed. Malta offers an English-speaking environment and a sunny Mediterranean climate.',
         requirements: [
             'Proof of remote work for a foreign company or as a partner/shareholder of a foreign company.',
-            'Gross monthly income of at least €2,700.',
+            'Gross monthly income of at least €3,500.',
             'Valid travel document and health insurance.',
             'Rental or purchase agreement for accommodation.'
         ],
         link: 'https://nomad.residencymalta.gov.mt/'
+    },
+    {
+        country: 'Mauritius',
+        continent: 'Africa',
+        minIncome: 1500,
+        description: 'The Mauritius Premium Travel Visa is a one-year renewable visa for remote workers. It offers a tropical lifestyle with no local income tax obligations.',
+        requirements: [
+            'Proof of remote work and funds from outside Mauritius.',
+            'Minimum monthly income of $1,500 for an individual.',
+            'Proof of accommodation and health insurance.',
+        ],
+        link: 'https://residency.mu/premium-visa/'
     },
     {
         country: 'Mexico',
@@ -279,17 +452,29 @@ export const visaData: DigitalNomadVisa[] = [
     {
         country: 'Montenegro',
         continent: 'Europe',
-        minIncome: 1450,
+        minIncome: 1350,
         description: 'Montenegro has launched its digital nomad program, allowing a stay of up to two years, with a possible extension of another two. After four years, nomads can apply for temporary residency.',
         requirements: [
             'Proof of remote work for a foreign company or as an entrepreneur.',
-            'Monthly income of at least €1,450.',
+            'Monthly income of at least €1,350.',
             'Proof of accommodation.',
             'Valid travel document and health insurance.'
         ],
         link: 'https://www.invest.gov.me/en/news/live-and-work-in-montenegro-digital-nomad-visa-now-available/'
     },
-     {
+    {
+        country: 'Namibia',
+        continent: 'Africa',
+        minIncome: 2000,
+        description: 'Namibia launched a digital nomad visa in 2022, allowing a stay of up to six months. It is ideal for those wanting to explore the country\'s unique landscapes and wildlife.',
+        requirements: [
+            'Proof of remote work for a foreign employer.',
+            'Minimum monthly income of $2,000 for the applicant, plus additional for dependents.',
+            'Health insurance and clean criminal record.',
+        ],
+        link: 'https://nipdb.com/nomad-visa/'
+    },
+    {
         country: 'Norway',
         continent: 'Europe',
         minIncome: 3150,
@@ -301,6 +486,30 @@ export const visaData: DigitalNomadVisa[] = [
             'Relevant qualifications for your profession.'
         ],
         link: 'https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/skilled-worker-who-wishes-to-be-self-employed-with-own-business-or-a-sole-proprietorship/'
+    },
+    {
+        country: 'Panama',
+        continent: 'North America',
+        minIncome: 3000,
+        description: 'Panama\'s Short-Stay Visa for Remote Workers is valid for nine months and renewable once. It offers a low cost of living and a strategic location in the Americas.',
+        requirements: [
+            'Proof of remote work for a foreign company.',
+            'Annual income of at least $36,000 USD (or $3,000/month).',
+            'Health insurance valid in Panama.',
+        ],
+        link: 'https://www.embassyofpanama.org/visas-1'
+    },
+    {
+        country: 'Peru',
+        continent: 'South America',
+        minIncome: 1000,
+        description: 'Peru launched a visa with a one-year duration (renewable) for remote workers. It requires a relatively low monthly income and offers access to the country\'s rich history and culture.',
+        requirements: [
+            'Proof of remote work for a company outside Peru.',
+            'Minimum monthly income of $1,000 USD.',
+            'Health insurance.',
+        ],
+        link: 'https://www.gob.pe/institucion/migraciones/informes-publicaciones/3522227-visa-de-nomada-digital'
     },
     {
         country: 'Portugal',
@@ -327,6 +536,42 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation and health insurance.'
         ],
         link: 'https://evisa.mae.ro/VisaDetails'
+    },
+    {
+        country: 'Saint Lucia',
+        continent: 'North America',
+        minIncome: 0,
+        description: 'The "Live It" program in Saint Lucia offers a multiple-entry visa for up to one year. It is aimed at individuals who want to work remotely while enjoying the island.',
+        requirements: [
+            'Proof of remote work and sufficient funds for the stay.',
+            'No specific minimum income is stated.',
+            'Valid passport.',
+        ],
+        link: 'https://www.stlucia.org/en/live-it/'
+    },
+    {
+        country: 'Seychelles',
+        continent: 'Africa',
+        minIncome: 0,
+        description: 'The Seychelles Workcation Program allows visitors to stay and work remotely for up to one year. It requires proof of being a remote worker or business owner.',
+        requirements: [
+            'Valid passport and proof of remote work/business ownership.',
+            'Proof of funds/income.',
+            'Health and travel insurance.',
+        ],
+        link: 'https://seychelles.govtas.com/en/application-selection'
+    },
+    {
+        country: 'South Africa',
+        continent: 'Africa',
+        minIncome: 3000,
+        description: 'South Africa has recently introduced a digital nomad visa, allowing a stay of up to one year with the possibility of renewal for up to three years.',
+        requirements: [
+            'Proof of remote work for a foreign employer.',
+            'Annual income of at least R57,000 (approx. $3,000/month).',
+            'Sufficient funds and health insurance.',
+        ],
+        link: 'http://www.dha.gov.za/index.php/notices/1760-notice-digital-nomad-visa'
     },
     {
         country: 'South Korea',
@@ -356,6 +601,18 @@ export const visaData: DigitalNomadVisa[] = [
         link: 'https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Visado-de-Teletrabajo-de-caracter-internacional.aspx'
     },
     {
+        country: 'Thailand',
+        continent: 'Asia',
+        minIncome: 2222,
+        description: 'Thailand has recently introduced a "Digital Nomad Visa" under the Long-Term Resident (LTR) scheme, valid for up to 10 years. It provides tax advantages and simplifies residency.',
+        requirements: [
+            'Proof of remote work for a foreign company.',
+            'Personal income of at least $80,000/year for the past two years, OR $40,000/year if you have a Master\'s degree or own IP.',
+            'Health insurance with at least $50,000 coverage.',
+        ],
+        link: 'https://ltr.boi.go.th/index.html'
+    },
+    {
         country: 'UAE (Dubai)',
         continent: 'Asia',
         minIncome: 3500,
@@ -369,10 +626,23 @@ export const visaData: DigitalNomadVisa[] = [
         ],
         link: 'https://www.visitdubai.com/en/invest-in-dubai/live-and-work/visas-and-entry/work-remotely-from-dubai'
     },
+    {
+        country: 'Uruguay',
+        continent: 'South America',
+        minIncome: 0,
+        description: 'Uruguay offers a permit for digital nomads that lasts for six months and can be renewed. It\'s notable for not having a specific income requirement, although applicants must prove they can support themselves.',
+        requirements: [
+            'A sworn statement declaring you have the means to support yourself.',
+            'No specified minimum income.',
+            'Clean criminal record.',
+        ],
+        link: 'https://www.gub.uy/tramites/residencia-temporaria-nomadas-trabajadores-remotos'
+    },
 ];
 
 export async function getVisas(): Promise<DigitalNomadVisa[]> {
     // Sort alphabetically by country
     return visaData.sort((a, b) => a.country.localeCompare(b.country));
 }
- 
+
+    
