@@ -1,7 +1,7 @@
 ---
 title: "Breaking into Web3: A Guide for Non-Technical Professionals"
-image: "https://images.unsplash.com/photo-1500930540495-e92875696a16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxndWlkZXxlbnwwfHx8fDE3NTUwMzY5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "guide professional"
+image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8am9ifGVufDB8fHx8MTc1NDk1MTE5OHww&ixlib=rb-4.1.0&q=80&w=1080"
+data-ai-hint: "business people networking"
 description: "You don't need to be a coder to have a successful career in Web3. This guide outlines the most in-demand non-technical roles and how you can leverage your existing skills to break into the crypto industry."
 category: "Career Guides"
 ---
