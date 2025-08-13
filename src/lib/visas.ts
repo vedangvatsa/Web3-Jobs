@@ -41,7 +41,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Income details are reviewed on a case-by-case basis, generally around $2,500/month.',
             'Valid passport and clean criminal record.'
         ],
-        link: 'https://www.migraciones.gob.ar/novedades/dn_02_22.pdf'
+        link: 'https://www.migraciones.gob.ar/accesible/index.dnm'
     },
     {
         country: 'Armenia',
@@ -160,7 +160,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Monthly income of at least $2,000 USD.',
             'Travel health insurance for the entire stay.'
         ],
-        link: 'https://agenda.ge/en/news/2021/2513'
+        link: 'https://georgia.com/remotely-from-georgia/'
     },
     {
         country: 'Germany',
@@ -187,16 +187,16 @@ export const visaData: DigitalNomadVisa[] = [
             'Clean criminal record.',
             'Health insurance.'
         ],
-        link: 'https://work-from-greece.com/'
+        link: 'https://workfromgreece.gr/'
     },
     {
         country: 'Hungary',
         continent: 'Europe',
-        minIncome: 2000,
+        minIncome: 3000,
         description: 'Hungary\'s "White Card" is a residence permit for digital nomads from third countries. It allows a stay of one year, extendable for one more.',
         requirements: [
             'Proof of remote work contract outside of Hungary.',
-            'Monthly income of at least €2,000 for the last 6 months.',
+            'Monthly income of at least €3,000 for the last 6 months.',
             'Cannot have shares in a Hungarian company.',
             'Proof of accommodation.'
         ],
@@ -213,7 +213,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Monthly income of 1,000,000 ISK (approx. $7,000 USD) for a single applicant.',
             'Health insurance valid in Iceland.'
         ],
-        link: 'https://island.is/en/get_a_visa_for_remote_workers'
+        link: 'https://island.is/en/get-a-visa-for-remote-workers'
     },
     {
         country: 'Italy',
@@ -227,7 +227,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation.',
             'Higher education diploma or proof of 5 years of professional experience.'
         ],
-        link: 'https://www.poliziadistato.it/articolo/normativa-sullingresso-degli-stranieri-in-italia-per-lavoro'
+        link: 'https://www.italia.it/en/useful-info/the-digital-nomad-visa-for-italy'
     },
     {
         country: 'Japan',
@@ -244,15 +244,15 @@ export const visaData: DigitalNomadVisa[] = [
     {
         country: 'Latvia',
         continent: 'Europe',
-        minIncome: 3000,
+        minIncome: 3200,
         description: 'Latvia\'s digital nomad visa allows remote workers to live in the country for one year, with a possible renewal for a second year. It\'s one of the newer European options.',
         requirements: [
             'Citizen of an OECD country.',
             'Proof of remote work for a foreign employer or as a self-employed person registered in an OECD country.',
-            'Monthly income of at least 2.5 times the Latvian average wage (approx. €3,000).',
+            'Monthly income of at least 2.5 times the Latvian average wage (approx. €3,200).',
             'Valid health insurance.'
         ],
-        link: 'https://www.pmlp.gov.lv/en/foreigner-e-request-residence-permit'
+        link: 'https://www.pmlp.gov.lv/en/latvia-digital-nomad-visa'
     },
     {
         country: 'Malaysia',
@@ -390,4 +390,3 @@ export async function getVisas(): Promise<DigitalNomadVisa[]> {
     // Sort alphabetically by country
     return visaData.sort((a, b) => a.country.localeCompare(b.country));
 }
-
