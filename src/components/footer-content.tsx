@@ -5,7 +5,7 @@ import { Instagram, Linkedin, Mail, Twitter } from 'lucide-react';
 import Link from 'next/link';
 import type { Article } from '@/types';
 
-export function StaticFooter({ latestArticles }: { latestArticles: Omit<Article, 'content'>[] }) {
+export function FooterContent({ latestArticles }: { latestArticles: Omit<Article, 'content'>[] }) {
   const resourceLinks = [
     { href: "/interview-questions", label: "Interview Questions" },
     { href: "/salary-calculator", label: "Salary Calculator" },
