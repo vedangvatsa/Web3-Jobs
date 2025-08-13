@@ -24,7 +24,7 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
             alt={article.title}
             fill
             className="object-cover rounded-t-lg"
-            sizes="(max-width: 768px) 100vw, 50vw"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             data-ai-hint={`${article.slug.replace(/-/g, ' ')}`}
           />
         </div>
@@ -103,7 +103,7 @@ export default function BlogIndexPage() {
           </section>
 
           <div className="mb-12">
-            <div className="flex flex-wrap justify-center gap-2">
+            <div className="flex flex-wrap justify-center gap-2 min-h-[40px]">
               {isLoading ? (
                  <>
                     <Skeleton className="h-10 w-20" />
@@ -130,7 +130,7 @@ export default function BlogIndexPage() {
              {isLoading ? (
                 Array.from({ length: 6 }).map((_, i) => <ArticleCardSkeleton key={i} />)
             ) : (
-                filteredArticles.map((article) => (
+                filteredArticles.map((article, index) => (
                     <ArticleCard key={article.slug} article={article} />
                 ))
             )}
