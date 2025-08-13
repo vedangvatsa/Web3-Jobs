@@ -23,7 +23,7 @@ export function TrustedBy() {
                         <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center">
                             {logos.map((logo) => (
                                 <div key={logo.name} className="p-2">
-                                    <div className="relative h-5 w-24">
+                                    <div className="relative h-5 w-28">
                                         <Image 
                                           src={logo.src}
                                           alt={`${logo.name} logo`}
