@@ -533,14 +533,13 @@ struct Packed {
                 ],
             }
         },
-        // All other 15 roles are fully populated below...
         {
             id: 'smart-contract-auditor',
             role: 'Smart Contract Auditor',
             snapshot: 'Specializes in finding security vulnerabilities in smart contract code. Outputs are detailed audit reports. Adversarial mindset is key.',
             coreCompetencies: ['Deep EVM/Solidity Knowledge', 'Common Attack Vectors', 'Static/Dynamic Analysis', 'Formal Verification', 'Gas Optimization Exploits', 'Economic Exploit Analysis'],
             questions: {
-                Foundation: [], // Auditors are rarely junior
+                Foundation: [], 
                 Intermediate: [
                     {
                         id: 'AUD-I-01',
