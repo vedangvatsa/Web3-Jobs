@@ -69,9 +69,14 @@ function getFlagEmoji(countryName: string): string {
 }
 
 const countryMap: Record<string, string> = {
-    "EE": "Estonia", "PT": "Portugal", "ES": "Spain", "HR": "Croatia", "AE": "UAE (Dubai)",
-    "JP": "Japan", "KR": "South Korea", "CO": "Colombia", "BR": "Brazil", "CR": "Costa Rica",
-    "MX": "Mexico", "DE": "Germany",
+    "AL": "Albania", "AD": "Andorra", "AR": "Argentina", "AM": "Armenia",
+    "BR": "Brazil", "CO": "Colombia", "CR": "Costa Rica", "HR": "Croatia",
+    "CY": "Cyprus", "CZ": "Czech Republic", "EE": "Estonia", "GE": "Georgia",
+    "DE": "Germany", "GR": "Greece", "HU": "Hungary", "IS": "Iceland",
+    "IT": "Italy", "JP": "Japan", "LV": "Latvia", "MY": "Malaysia",
+    "MT": "Malta", "MX": "Mexico", "ME": "Montenegro", "NO": "Norway",
+    "PT": "Portugal", "RO": "Romania", "KR": "South Korea", "ES": "Spain",
+    "AE": "UAE (Dubai)",
 };
 
 export default function DigitalNomadVisasPage() {
