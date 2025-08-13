@@ -6,6 +6,7 @@ import './globals.css';
 import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
 import { ContentSecurity } from '@/components/content-security';
+import { Footer } from '@/components/footer';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -71,7 +72,10 @@ export default function RootLayout({
         className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
       >
         <ContentSecurity />
-        <div className="flex-grow">{children}</div>
+        <div className="flex-grow flex flex-col">
+            <main className="flex-1">{children}</main>
+            <Footer />
+        </div>
         <Toaster />
         <Analytics />
       </body>

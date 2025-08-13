@@ -1,6 +1,5 @@
 
 import { JobBoard } from '@/components/job-board';
-import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
@@ -14,8 +13,8 @@ export default async function Home() {
     <div className="flex flex-col min-h-screen bg-background">
       <Header />
       <main className="flex-1">
-        <div className="container mx-auto py-8">
-          <div className="max-w-6xl mx-auto px-4">
+        <div className="container mx-auto py-8 px-4">
+          <div className="max-w-6xl mx-auto">
             <section className="text-center mb-8">
               <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
                 Find your next Web3 Job
@@ -40,7 +39,6 @@ export default async function Home() {
           </div>
         </div>
       </main>
-      <Footer />
     </div>
   );
 }

@@ -2,7 +2,6 @@
 'use client';
 
 import * as React from 'react';
-import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -105,80 +104,77 @@ export default function DigitalNomadVisasPage() {
     return (
         <div className="flex flex-col min-h-screen bg-secondary/30">
             <Header />
-            <main className="flex-1">
-                <div className="container mx-auto px-4 py-8 md:py-16">
-                    <section className="text-center mb-12 max-w-4xl mx-auto">
-                        <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-                            <Globe className="h-10 w-10 text-primary" />
-                        </div>
-                        <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-                            Work from Anywhere Visa List
-                        </h1>
-                        <p className="mt-4 text-lg text-muted-foreground">
-                            A detailed reference of countries offering digital nomad visas. Your guide to becoming a global Web3 professional.
-                        </p>
-                    </section>
-
-                    <div className="max-w-7xl mx-auto">
-                         <Card className="p-4 mb-8 sticky top-20 z-10 shadow-lg backdrop-blur-sm bg-background/80">
-                            <div className="flex flex-col md:flex-row gap-4">
-                                <div className="relative flex-grow">
-                                    <Input
-                                        placeholder="Search by country, requirements, etc..."
-                                        value={searchTerm}
-                                        onChange={(e) => setSearchTerm(e.target.value)}
-                                        className="w-full text-base pl-10 h-11"
-                                    />
-                                    <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground"/>
-                                </div>
-                                <div className="flex flex-wrap items-center gap-2">
-                                     {continents.map(continent => (
-                                        <Button 
-                                            key={continent} 
-                                            variant={selectedContinent === continent ? 'default' : 'outline'}
-                                            onClick={() => setSelectedContinent(continent)}
-                                            className="rounded-full"
-                                        >
-                                            {continent}
-                                        </Button>
-                                    ))}
-                                </div>
-                            </div>
-                        </Card>
-                        
-                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                            {filteredVisas.map(visa => <VisaCard key={visa.country} visa={visa} />)}
-                        </div>
-
-                        {filteredVisas.length > 0 && (
-                             <Card className="mt-8 col-span-full bg-primary/5 border-primary/20">
-                                <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-                                    <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-                                        <Briefcase className="h-8 w-8 text-primary"/>
-                                    </div>
-                                    <div>
-                                        <h3 className="text-xl font-bold text-primary mb-1">Ready to Make the Move?</h3>
-                                        <p className="text-muted-foreground">Now that you know where you can go, find the perfect remote Web3 job to take with you.</p>
-                                    </div>
-                                    <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
-                                        <Button size="lg">
-                                            Find a Remote Web3 Job <ArrowRight className="ml-2 h-4 w-4"/>
-                                        </Button>
-                                    </a>
-                                </CardContent>
-                            </Card>
-                        )}
-                        
-                        {filteredVisas.length === 0 && (
-                            <div className="text-center py-16 text-muted-foreground bg-card rounded-lg mt-8">
-                                <p className="font-medium text-lg">No countries found for your search.</p>
-                                <p className="text-sm mt-2">Try adjusting your search filters.</p>
-                            </div>
-                        )}
+            <div className="container mx-auto px-4 py-8 md:py-16">
+                <section className="text-center mb-12 max-w-4xl mx-auto">
+                    <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
+                        <Globe className="h-10 w-10 text-primary" />
                     </div>
+                    <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
+                        Work from Anywhere Visa List
+                    </h1>
+                    <p className="mt-4 text-lg text-muted-foreground">
+                        A detailed reference of countries offering digital nomad visas. Your guide to becoming a global Web3 professional.
+                    </p>
+                </section>
+
+                <div className="max-w-7xl mx-auto">
+                        <Card className="p-4 mb-8 sticky top-20 z-10 shadow-lg backdrop-blur-sm bg-background/80">
+                        <div className="flex flex-col md:flex-row gap-4">
+                            <div className="relative flex-grow">
+                                <Input
+                                    placeholder="Search by country, requirements, etc..."
+                                    value={searchTerm}
+                                    onChange={(e) => setSearchTerm(e.target.value)}
+                                    className="w-full text-base pl-10 h-11"
+                                />
+                                <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground"/>
+                            </div>
+                            <div className="flex flex-wrap items-center gap-2">
+                                    {continents.map(continent => (
+                                    <Button 
+                                        key={continent} 
+                                        variant={selectedContinent === continent ? 'default' : 'outline'}
+                                        onClick={() => setSelectedContinent(continent)}
+                                        className="rounded-full"
+                                    >
+                                        {continent}
+                                    </Button>
+                                ))}
+                            </div>
+                        </div>
+                    </Card>
+                    
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        {filteredVisas.map(visa => <VisaCard key={visa.country} visa={visa} />)}
+                    </div>
+
+                    {filteredVisas.length > 0 && (
+                            <Card className="mt-8 col-span-full bg-primary/5 border-primary/20">
+                            <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
+                                <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
+                                    <Briefcase className="h-8 w-8 text-primary"/>
+                                </div>
+                                <div>
+                                    <h3 className="text-xl font-bold text-primary mb-1">Ready to Make the Move?</h3>
+                                    <p className="text-muted-foreground">Now that you know where you can go, find the perfect remote Web3 job to take with you.</p>
+                                </div>
+                                <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
+                                    <Button size="lg">
+                                        Find a Remote Web3 Job <ArrowRight className="ml-2 h-4 w-4"/>
+                                    </Button>
+                                </a>
+                            </CardContent>
+                        </Card>
+                    )}
+                    
+                    {filteredVisas.length === 0 && (
+                        <div className="text-center py-16 text-muted-foreground bg-card rounded-lg mt-8">
+                            <p className="font-medium text-lg">No countries found for your search.</p>
+                            <p className="text-sm mt-2">Try adjusting your search filters.</p>
+                        </div>
+                    )}
                 </div>
-            </main>
-            <Footer />
+            </div>
         </div>
     );
 }
