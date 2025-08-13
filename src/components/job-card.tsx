@@ -1,11 +1,19 @@
+
 'use client';
 
 import type { Job } from '@/types';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { formatDistanceToNow } from 'date-fns';
+import { useState, useEffect } from 'react';
 
 export function JobCard({ job }: { job: Job }) {
-  const postedAt = formatDistanceToNow(new Date(job.date), { addSuffix: true });
+  const [isClient, setIsClient] = useState(false);
+
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
+
+  const postedAt = isClient ? formatDistanceToNow(new Date(job.date), { addSuffix: true }) : '';
 
   return (
     <a href={job.link} target="_blank" rel="noopener noreferrer" className="block transform transition-all duration-200 hover:-translate-y-0.5">
