@@ -41,7 +41,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Income details are reviewed on a case-by-case basis, generally around $2,500/month.',
             'Valid passport and clean criminal record.'
         ],
-        link: 'https://www.migraciones.gob.ar/accesible/index.dnm'
+        link: 'https://www.cancilleria.gob.ar/en/services/visa/digital-nomad-visa'
     },
     {
         country: 'Armenia',
@@ -54,7 +54,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Open a local bank account.',
             'Provide an address in Armenia.'
         ],
-        link: 'https://workfromarmenia.com/'
+        link: 'https://www.investinarmenia.am/en/business-residency-programs'
     },
     {
         country: 'Brazil',
@@ -92,7 +92,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Stable monthly income of at least $3,000 USD (or $4,000 for a family).',
             'Health insurance covering the duration of the stay.'
         ],
-        link: 'https://www.visitcostarica.com/en/costa-rica/planning-your-trip/entry-requirements'
+        link: 'https://www.migracion.go.cr/Paginas/Teletrabajo.aspx'
     },
     {
         country: 'Croatia',
@@ -120,7 +120,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Health insurance.',
             'Clean criminal record.'
         ],
-        link: 'https://moi.gov.cy/moi/crmd/crmd.nsf/All/003853142B284458C225877E003881A2'
+        link: 'https://moi.gov.cy/en/frequently-asked-questions-for-digital-nomad-visa'
     },
     {
         country: 'Czech Republic',
@@ -134,7 +134,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Clean criminal record.',
             'It is a complex process often requiring a visa agency.'
         ],
-        link: 'https://www.mvcr.cz/mvcren/article/a-visa-for-a-stay-of-over-90-days-long-term.aspx'
+        link: 'https://www.mzv.cz/jnp/en/information_for_aliens/long_stay_visa/business_purpose.html'
     },
     {
         country: 'Estonia',
@@ -147,7 +147,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Valid travel document.',
             'Health insurance for Estonia.'
         ],
-        link: 'https://www.e-resident.gov.ee/nomad-visa/'
+        link: 'https://www.politsei.ee/en/instructions/digital-nomad'
     },
     {
         country: 'Georgia',
@@ -160,7 +160,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Monthly income of at least $2,000 USD.',
             'Travel health insurance for the entire stay.'
         ],
-        link: 'https://georgia.com/remotely-from-georgia/'
+        link: 'https://immigration.gov.ge/en/page/remotelyfromgeorgia'
     },
     {
         country: 'Germany',
@@ -227,7 +227,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation.',
             'Higher education diploma or proof of 5 years of professional experience.'
         ],
-        link: 'https://www.italia.it/en/useful-info/the-digital-nomad-visa-for-italy'
+        link: 'https://www.poliziadistato.it/articolo/visto-per-nomadi-digitali-e-lavoratori-da-remoto-altamente-qualificati-articolo-27-del-d-lgs-286-98-come-modificato-dalla-legge-n-25-2024'
     },
     {
         country: 'Japan',
@@ -302,7 +302,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation.',
             'Valid travel document and health insurance.'
         ],
-        link: 'https://www.gov.me/en/article/programme-attracting-digital-nomads-in-montenegro-adopted'
+        link: 'https://www.invest.gov.me/en/news/live-and-work-in-montenegro-digital-nomad-visa-now-available/'
     },
      {
         country: 'Norway',
@@ -390,3 +390,5 @@ export async function getVisas(): Promise<DigitalNomadVisa[]> {
     // Sort alphabetically by country
     return visaData.sort((a, b) => a.country.localeCompare(b.country));
 }
+
+    
