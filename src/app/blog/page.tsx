@@ -1,7 +1,4 @@
 
-'use client';
-
-import { useState, useMemo, useEffect } from 'react';
 import { Card, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
 import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
@@ -9,10 +6,9 @@ import Link from 'next/link';
 import Image from 'next/image';
 import type { Article } from '@/types';
 import { Button } from '@/components/ui/button';
-import { Skeleton } from '@/components/ui/skeleton';
+import { getAllArticles } from '@/lib/articles';
+import { BlogCategoryFilter } from '@/components/blog-category-filter';
 
-// Since we can't use top-level async in client components,
-// we'll fetch data in a useEffect hook.
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
   return (
@@ -38,55 +34,16 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
   );
 }
 
-function ArticleCardSkeleton() {
-  return (
-    <div className="flex flex-col space-y-3">
-      <Skeleton className="h-[200px] w-full rounded-t-xl" />
-      <div className="space-y-2 p-4">
-        <Skeleton className="h-4 w-1/4" />
-        <Skeleton className="h-6 w-full" />
-        <Skeleton className="h-4 w-3/4" />
-        <Skeleton className="h-4 w-1/2" />
-      </div>
-    </div>
-  )
-}
 
-export default function BlogIndexPage() {
-  const [articles, setArticles] = useState<Omit<Article, 'content'>[]>([]);
-  const [categories, setCategories] = useState<string[]>([]);
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
-  const [isLoading, setIsLoading] = useState(true);
+export default async function BlogIndexPage({ searchParams }: { searchParams?: { category?: string }}) {
+  const allArticles = await getAllArticles();
+  const categories = ['All', ...[...new Set(allArticles.map(a => a.category))].sort()];
+  
+  const selectedCategory = searchParams?.category;
 
-  useEffect(() => {
-    // This is a workaround to fetch data in a client component.
-    // In a real app, you might use a library like SWR or React Query,
-    // or fetch data in a parent server component.
-    const fetchArticles = async () => {
-      try {
-        const response = await fetch('/api/articles');
-        if (!response.ok) {
-          throw new Error('Failed to fetch articles');
-        }
-        const fetchedArticles: Article[] = await response.json();
-        setArticles(fetchedArticles);
-        const uniqueCategories = [...new Set(fetchedArticles.map(a => a.category))];
-        setCategories(['All', ...uniqueCategories.sort()]);
-      } catch (error) {
-        console.error(error);
-      } finally {
-        setIsLoading(false);
-      }
-    };
-    fetchArticles();
-  }, []);
-
-  const filteredArticles = useMemo(() => {
-    if (!selectedCategory || selectedCategory === 'All') {
-      return articles;
-    }
-    return articles.filter((article) => article.category === selectedCategory);
-  }, [articles, selectedCategory]);
+  const filteredArticles = selectedCategory && selectedCategory !== 'All' 
+    ? allArticles.filter((article) => article.category === selectedCategory)
+    : allArticles;
 
   return (
     <div className="flex flex-col min-h-screen bg-background">
@@ -103,37 +60,13 @@ export default function BlogIndexPage() {
           </section>
 
           <div className="mb-12">
-            <div className="flex flex-wrap justify-center gap-2 min-h-[40px]">
-              {isLoading ? (
-                 <>
-                    <Skeleton className="h-10 w-20" />
-                    <Skeleton className="h-10 w-24" />
-                    <Skeleton className="h-10 w-32" />
-                    <Skeleton className="h-10 w-28" />
-                 </>
-              ) : (
-                categories.map((category) => (
-                  <Button
-                    key={category}
-                    variant={selectedCategory === category || (selectedCategory === null && category === 'All') ? 'default' : 'outline'}
-                    onClick={() => setSelectedCategory(category)}
-                    className="rounded-full"
-                  >
-                    {category}
-                  </Button>
-                ))
-              )}
-            </div>
+            <BlogCategoryFilter categories={categories} />
           </div>
 
           <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-             {isLoading ? (
-                Array.from({ length: 6 }).map((_, i) => <ArticleCardSkeleton key={i} />)
-            ) : (
-                filteredArticles.map((article, index) => (
-                    <ArticleCard key={article.slug} article={article} />
-                ))
-            )}
+            {filteredArticles.map((article) => (
+                <ArticleCard key={article.slug} article={article} />
+            ))}
           </div>
         </div>
       </main>
