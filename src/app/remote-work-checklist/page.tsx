@@ -21,7 +21,6 @@ import {
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 import { Separator } from '@/components/ui/separator';
-import { Footer } from '@/components/footer';
 
 const checklistData = {
   sections: [
@@ -259,7 +258,6 @@ export default function RemoteWorkChecklistPage() {
           </div>
         </div>
       </main>
-      <Footer />
     </div>
   );
 }
