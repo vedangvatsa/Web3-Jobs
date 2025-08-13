@@ -155,7 +155,7 @@ export default function DigitalNomadVisasPage() {
                                 </div>
                                 <h3 className="text-xl font-bold text-primary mb-2">Ready to Make the Move?</h3>
                                 <p className="text-muted-foreground mb-4 text-sm">Now that you know where you can go, find the perfect remote Web3 job to take with you.</p>
-                                <a href="/">
+                                <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
                                     <Button>
                                         Find a Remote Web3 Job <ArrowRight className="ml-2 h-4 w-4"/>
                                     </Button>
