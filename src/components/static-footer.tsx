@@ -72,8 +72,6 @@ export function StaticFooter({ latestArticles }: { latestArticles: Omit<Article,
           </div>
 
         </div>
-        <div className="mt-8 border-t pt-4 text-center text-xs text-muted-foreground">
-        </div>
       </div>
     </footer>
   );
