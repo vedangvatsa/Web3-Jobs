@@ -11,7 +11,7 @@ export function ContentSecurity() {
     document.addEventListener('copy', preventDefault);
     document.addEventListener('selectstart', preventDefault);
     
-    // Apply user-select none to body
+    // Apply user-select none to body to prevent text selection
     document.body.style.webkitUserSelect = 'none';
     document.body.style.mozUserSelect = 'none';
     document.body.style.msUserSelect = 'none';
@@ -22,7 +22,7 @@ export function ContentSecurity() {
       document.removeEventListener('copy', preventDefault);
       document.removeEventListener('selectstart', preventDefault);
 
-      // Clean up body style
+      // Clean up body style on component unmount
       document.body.style.webkitUserSelect = '';
       document.body.style.mozUserSelect = '';
       document.body.style.msUserSelect = '';
