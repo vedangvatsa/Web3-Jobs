@@ -6,7 +6,8 @@ import './globals.css';
 import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
 import { ContentSecurity } from '@/components/content-security';
-import { Footer } from '@/components/footer';
+import { FooterContent } from '@/components/footer-content';
+import { getAllArticles } from '@/lib/articles';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -58,11 +59,13 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const latestArticles = (await getAllArticles()).slice(0, 4);
+
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
@@ -75,7 +78,7 @@ export default function RootLayout({
         <div className="flex-grow">
             {children}
         </div>
-        <Footer />
+        <FooterContent latestArticles={latestArticles} />
         <Toaster />
         <Analytics />
       </body>

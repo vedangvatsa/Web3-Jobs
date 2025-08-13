@@ -1,5 +1,4 @@
 
-import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
