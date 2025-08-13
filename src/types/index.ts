@@ -24,5 +24,4 @@ export interface DigitalNomadVisa {
   minIncome: number; // Monthly income in USD
   description: string;
   requirements: string[];
-  link: string;
 }

@@ -13,8 +13,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation in Albania.',
             'Health insurance for Albania.',
             'Clean criminal record.'
-        ],
-        link: 'https://e-albania.al/eAlbaniaServices/UseService.aspx?service_code=15433'
+        ]
     },
     {
         country: 'Anguilla',
@@ -26,8 +25,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of employment or business ownership.',
             'Health insurance coverage.',
             'Clean criminal record.'
-        ],
-        link: 'https://ivisitanguilla.com/work-life-bliss/'
+        ]
     },
     {
         country: 'Antigua and Barbuda',
@@ -39,8 +37,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Expected annual income of at least $50,000 USD (approx. $4,167/month).',
             'Health insurance coverage.',
             'Clean criminal record.'
-        ],
-        link: 'https://nomad.cg.gov.ag/'
+        ]
     },
     {
         country: 'Argentina',
@@ -51,8 +48,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Work remotely for a foreign company or clients.',
             'Provide a CV, proof of work, and demonstrate sufficient funds (approx. $2,500/month).',
             'Valid passport and clean criminal record.'
-        ],
-        link: 'https://www.cancilleria.gob.ar/en/services/visa/digital-nomad-visa'
+        ]
     },
     {
         country: 'Armenia',
@@ -64,8 +60,7 @@ export const visaData: DigitalNomadVisa[] = [
             'No minimum income requirement to register as a sole proprietor.',
             'Open a local bank account.',
             'Provide an address in Armenia.'
-        ],
-        link: 'https://www.investinarmenia.am/en/business-residency-programs'
+        ]
     },
     {
         country: 'Aruba',
@@ -77,8 +72,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a non-Aruban company.',
             'Sufficient funds to support the stay (approx. $2,500/month recommended).',
             'No local income tax for this program.'
-        ],
-        link: 'https://www.aruba.com/us/one-happy-workation'
+        ]
     },
     {
         country: 'Bahamas',
@@ -90,8 +84,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Sufficient funds to support yourself during your stay.',
             'Health insurance.',
             'No specific minimum income is required.'
-        ],
-        link: 'https://www.gbpa.com/beats/'
+        ]
     },
     {
         country: 'Barbados',
@@ -102,8 +95,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote employment or self-employment.',
             'Annual income of at least $50,000 USD (approx. $4,167/month).',
             'Health insurance valid in Barbados.',
-        ],
-        link: 'https://www.visitbarbados.org/barbados-welcome-stamp'
+        ]
     },
     {
         country: 'Belize',
@@ -114,8 +106,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of employment with a foreign company or freelance business.',
             'Annual income of at least $75,000 USD for individuals, or $100,000 for couples/families.',
             'Health insurance coverage.'
-        ],
-        link: 'https://www.belizetourismboard.org/work-where-you-vacation/'
+        ]
     },
     {
         country: 'Bermuda',
@@ -127,8 +118,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Sufficient funds to support your stay.',
             'Health insurance.',
             'Clean criminal record.'
-        ],
-        link: 'https://www.gotobermuda.com/work-from-bermuda'
+        ]
     },
     {
         country: 'Brazil',
@@ -140,8 +130,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Monthly income of at least $1,500 USD from foreign sources, OR a bank balance of at least $18,000.',
             'Clean criminal record.',
             'Health insurance valid in Brazil.'
-        ],
-        link: 'https://www.gov.br/mre/pt-br/consulado-atlanta/consular-services/visas/temporary-visas/digital-nomad-visa-vitem-xiv'
+        ]
     },
     {
         country: 'Cabo Verde',
@@ -152,8 +141,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work and sufficient funds.',
             'Average bank balance of at least €1,500 over the last 6 months for individuals.',
             'Valid passport and travel insurance.',
-        ],
-        link: 'https://www.cvremoteworking.com/'
+        ]
     },
     {
         country: 'Cayman Islands',
@@ -164,8 +152,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of employment with a foreign entity.',
             'Annual income of at least $100,000 USD for individuals, with higher tiers for couples and families.',
             'Notarized bank reference and proof of health insurance.',
-        ],
-        link: 'https://www.visitcaymanislands.com/en-us/global-citizen'
+        ]
     },
     {
         country: 'Colombia',
@@ -177,8 +164,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a foreign company or as a freelancer.',
             'Monthly income of at least 3 million Colombian Pesos (approx. $700 USD).',
             'Health insurance with coverage in Colombia.'
-        ],
-        link: 'https://www.cancilleria.gov.co/en/procedures_services/visa/v-nomadas-digitales'
+        ]
     },
     {
         country: 'Costa Rica',
@@ -189,8 +175,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a foreign entity.',
             'Stable monthly income of at least $3,000 USD (or $4,000 for a family).',
             'Health insurance covering the duration of the stay.'
-        ],
-        link: 'https://www.migracion.go.cr/Paginas/Teletrabajo.aspx'
+        ]
     },
     {
         country: 'Croatia',
@@ -203,8 +188,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation in Croatia (e.g., rental agreement).',
             'Health insurance valid in Croatia.',
             'Clean criminal record check from home country.'
-        ],
-        link: 'https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833'
+        ]
     },
     {
         country: 'Curacao',
@@ -215,8 +199,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work or ability to support oneself financially.',
             'No specific minimum income is listed.',
             'Valid passport and health insurance.',
-        ],
-        link: 'https://www.athomeincuracao.com/'
+        ]
     },
     {
         country: 'Cyprus',
@@ -229,8 +212,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation.',
             'Health insurance.',
             'Clean criminal record.'
-        ],
-        link: 'https://moi.gov.cy/en/frequently-asked-questions-for-digital-nomad-visa'
+        ]
     },
     {
         country: 'Czech Republic',
@@ -243,8 +225,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation.',
             'Clean criminal record.',
             'The application process is complex and often requires an agency.'
-        ],
-        link: 'https://www.mzv.cz/jnp/en/information_for_aliens/long_stay_visa/business_purpose.html'
+        ]
     },
     {
         country: 'Dominica',
@@ -255,8 +236,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work.',
             'Expected annual income of $50,000 USD or sufficient means to support oneself.',
             'Health insurance.',
-        ],
-        link: 'https://windominica.gov.dm/'
+        ]
     },
     {
         country: 'Ecuador',
@@ -267,8 +247,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of a stable income from foreign sources.',
             'Minimum monthly income of three unified basic salaries (approx. $1,350 USD).',
             'Clean criminal record and health insurance.',
-        ],
-        link: 'https://www.gob.ec/miduvi/tramites/emision-visa-residencia-temporal-rentista'
+        ]
     },
     {
         country: 'Estonia',
@@ -280,8 +259,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Gross monthly income of at least €4,500 for the last 6 months.',
             'Valid travel document.',
             'Health insurance for Estonia.'
-        ],
-        link: 'https://www.politsei.ee/en/instructions/digital-nomad'
+        ]
     },
     {
         country: 'Georgia',
@@ -293,8 +271,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work.',
             'Monthly income of at least $2,000 USD.',
             'Travel health insurance for the entire stay.'
-        ],
-        link: 'https://immigration.gov.ge/en/page/remotelyfromgeorgia'
+        ]
     },
     {
         country: 'Germany',
@@ -306,8 +283,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Portfolio and letters of intent from clients (especially German clients).',
             'German health insurance.',
             'Proof of accommodation (Anmeldung) in Germany.'
-        ],
-        link: 'https://www.make-it-in-germany.com/en/visa-residence/types/digital-nomad-visa'
+        ]
     },
     {
         country: 'Greece',
@@ -320,8 +296,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of sufficient funds.',
             'Clean criminal record.',
             'Health insurance.'
-        ],
-        link: 'https://workfromgreece.gr/'
+        ]
     },
     {
         country: 'Grenada',
@@ -332,8 +307,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a non-Grenadian company.',
             'Annual income of at least $37,000 USD.',
             'Valid passport and health insurance.',
-        ],
-        link: 'https://www.grenadaitc.gov.gd/'
+        ]
     },
     {
         country: 'Hungary',
@@ -345,8 +319,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Monthly income of at least €3,000 for the last 6 months.',
             'Cannot have shares in a Hungarian company.',
             'Proof of accommodation.'
-        ],
-        link: 'http://www.bmbah.hu/index.php?option=com_k2&view=item&id=1716:digital-nomad&lang=en'
+        ]
     },
     {
         country: 'Iceland',
@@ -358,8 +331,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a foreign company.',
             'Monthly income of 1,000,000 ISK (approx. $7,763 USD) for a single applicant.',
             'Health insurance valid in Iceland.'
-        ],
-        link: 'https://island.is/en/get-a-visa-for-remote-workers'
+        ]
     },
     {
         country: 'Italy',
@@ -372,8 +344,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Health insurance covering all risks in Italy.',
             'Proof of accommodation.',
             'Higher education diploma or proof of 5 years of professional experience.'
-        ],
-        link: 'https://www.poliziadistato.it/articolo/visto-per-nomadi-digitali-e-lavoratori-da-remoto-altamente-qualificati-articolo-27-del-d-lgs-286-98-come-modificato-dalla-legge-n-25-2024'
+        ]
     },
     {
         country: 'Japan',
@@ -384,8 +355,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Citizen of a visa-exempt country with a tax treaty with Japan (e.g., EU, USA, UK, Australia).',
             'Annual income of at least ¥10 million (approx. $63,000 USD or $5,250/month).',
             'Private health insurance.',
-        ],
-        link: 'https://www.mofa.go.jp/ca/fna/page22e_001028.html'
+        ]
     },
     {
         country: 'Latvia',
@@ -397,8 +367,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a foreign employer or as a self-employed person registered in an OECD country.',
             'Monthly income of at least 2.5 times the Latvian average wage (approx. €3,843).',
             'Valid health insurance.'
-        ],
-        link: 'https://www.pmlp.gov.lv/en/latvia-digital-nomad-visa'
+        ]
     },
     {
         country: 'Malaysia',
@@ -409,8 +378,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work (freelancer, independent contractor, or remote employee).',
             'Annual income of over $24,000 USD (approx. $2,000/month).',
             'Valid passport and health insurance.',
-        ],
-        link: 'https://mdec.my/derantau/foreign'
+        ]
     },
     {
         country: 'Malta',
@@ -422,8 +390,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Gross monthly income of at least €3,500.',
             'Valid travel document and health insurance.',
             'Rental or purchase agreement for accommodation.'
-        ],
-        link: 'https://nomad.residencymalta.gov.mt/'
+        ]
     },
     {
         country: 'Mauritius',
@@ -434,8 +401,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work and funds from outside Mauritius.',
             'Minimum monthly income of $1,500 for an individual.',
             'Proof of accommodation and health insurance.',
-        ],
-        link: 'https://residency.mu/premium-visa/'
+        ]
     },
     {
         country: 'Mexico',
@@ -446,8 +412,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of economic solvency.',
             'A monthly income of approx. $2,762 USD over the last six months, OR a bank account balance of approx. $46,000 USD over the last year.',
             'Must be applied for from a Mexican consulate outside of Mexico.'
-        ],
-        link: 'https://consulmex.sre.gob.mx/toronto/index.php/en/services/visas/temporary-resident-visa'
+        ]
     },
     {
         country: 'Montenegro',
@@ -459,8 +424,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Monthly income of at least €1,350.',
             'Proof of accommodation.',
             'Valid travel document and health insurance.'
-        ],
-        link: 'https://www.invest.gov.me/en/news/live-and-work-in-montenegro-digital-nomad-visa-now-available/'
+        ]
     },
     {
         country: 'Namibia',
@@ -471,8 +435,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a foreign employer.',
             'Minimum monthly income of $2,000 for the applicant, plus additional for dependents.',
             'Health insurance and clean criminal record.',
-        ],
-        link: 'https://nipdb.com/nomad-visa/'
+        ]
     },
     {
         country: 'Norway',
@@ -484,8 +447,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of annual income of at least €37,680 (approx. €3,150/month).',
             'Proof of accommodation.',
             'Relevant qualifications for your profession.'
-        ],
-        link: 'https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/skilled-worker-who-wishes-to-be-self-employed-with-own-business-or-a-sole-proprietorship/'
+        ]
     },
     {
         country: 'Panama',
@@ -496,8 +458,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a foreign company.',
             'Annual income of at least $36,000 USD (or $3,000/month).',
             'Health insurance valid in Panama.',
-        ],
-        link: 'https://www.embassyofpanama.org/visas-1'
+        ]
     },
     {
         country: 'Peru',
@@ -508,8 +469,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a company outside Peru.',
             'Minimum monthly income of $1,000 USD.',
             'Health insurance.',
-        ],
-        link: 'https://www.gob.pe/institucion/migraciones/informes-publicaciones/3522227-visa-de-nomada-digital'
+        ]
     },
     {
         country: 'Portugal',
@@ -522,8 +482,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of accommodation for at least 12 months.',
             'Clean criminal record.',
             'Private health insurance valid in the Schengen area.'
-        ],
-        link: 'https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa'
+        ]
     },
     {
         country: 'Romania',
@@ -534,8 +493,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a company registered outside Romania for at least 3 years.',
             'Monthly income of at least three times the Romanian average gross salary (approx. €3,900).',
             'Proof of accommodation and health insurance.'
-        ],
-        link: 'https://evisa.mae.ro/VisaDetails'
+        ]
     },
     {
         country: 'Saint Lucia',
@@ -546,8 +504,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work and sufficient funds for the stay.',
             'No specific minimum income is stated.',
             'Valid passport.',
-        ],
-        link: 'https://www.stlucia.org/en/live-it/'
+        ]
     },
     {
         country: 'Seychelles',
@@ -558,8 +515,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Valid passport and proof of remote work/business ownership.',
             'Proof of funds/income.',
             'Health and travel insurance.',
-        ],
-        link: 'https://seychelles.govtas.com/en/application-selection'
+        ]
     },
     {
         country: 'South Africa',
@@ -570,8 +526,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a foreign employer.',
             'Annual income of at least R57,000 (approx. $3,000/month).',
             'Sufficient funds and health insurance.',
-        ],
-        link: 'http://www.dha.gov.za/index.php/notices/1760-notice-digital-nomad-visa'
+        ]
     },
     {
         country: 'South Korea',
@@ -583,8 +538,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Annual income must be at least twice the South Korean GNI per capita (approx. $65,000 USD/year or $5,500/month).',
             'Clean criminal record.',
             'Private health insurance with at least 100 million won coverage.'
-        ],
-        link: 'https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761458'
+        ]
     },
     {
         country: 'Spain',
@@ -597,8 +551,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Income of at least 200% of the Spanish minimum wage (approx. €2,762/month).',
             'Clean criminal record for the past 5 years.',
             'Comprehensive public or private health insurance.'
-        ],
-        link: 'https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Visado-de-Teletrabajo-de-caracter-internacional.aspx'
+        ]
     },
     {
         country: 'Thailand',
@@ -609,8 +562,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Proof of remote work for a foreign company.',
             'Personal income of at least $80,000/year for the past two years, OR $40,000/year if you have a Master\'s degree or own IP.',
             'Health insurance with at least $50,000 coverage.',
-        ],
-        link: 'https://ltr.boi.go.th/index.html'
+        ]
     },
     {
         country: 'UAE (Dubai)',
@@ -623,8 +575,7 @@ export const visaData: DigitalNomadVisa[] = [
             'Monthly salary of at least $3,500 USD (or equivalent).',
             'Last month\'s payslip and 3 months of bank statements.',
             'Health insurance with UAE coverage.'
-        ],
-        link: 'https://www.visitdubai.com/en/invest-in-dubai/live-and-work/visas-and-entry/work-remotely-from-dubai'
+        ]
     },
     {
         country: 'Uruguay',
@@ -635,8 +586,7 @@ export const visaData: DigitalNomadVisa[] = [
             'A sworn statement declaring you have the means to support yourself.',
             'No specified minimum income.',
             'Clean criminal record.',
-        ],
-        link: 'https://www.gub.uy/tramites/residencia-temporaria-nomadas-trabajadores-remotos'
+        ]
     },
 ];
 
