@@ -66,7 +66,6 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
             <link rel="preload" href={inter.style.fontFamily} as="font" type="font/woff2" crossOrigin="anonymous" />
-            <link rel="stylesheet" href="/globals.css" media="print" onLoad={(e) => (e.currentTarget.media = 'all')} />
         </head>
       <body 
         className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
