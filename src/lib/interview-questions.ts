@@ -46,7 +46,7 @@ export const interviewData = {
                 'Security Best Practices',
                 'Gas Optimization',
                 'Testing (Unit, Forking)',
-                'Debuggi ng',
+                'Debugging',
                 'ERC Standards',
                 'Upgradability Patterns'
             ],
@@ -104,19 +104,15 @@ export const interviewData = {
                                 'The most common use case is for access control, like an `onlyOwner` check.',
                                 'Other uses include input validation or adding a reentrancy guard.'
                             ],
-                            example: `
-// Solidity ^0.8.x
+                            example: `// Solidity ^0.8.x
 address public owner;
-
 modifier onlyOwner() {
     require(msg.sender == owner, "Not the owner");
     _; // Function body executes here
 }
-
 function changeOwner(address _newOwner) public onlyOwner {
     owner = _newOwner;
-}
-`
+}`
                         },
                         commonPitfalls: [
                             'Forgetting the `_` placeholder, which prevents the function body from executing.',
@@ -176,6 +172,44 @@ function changeOwner(address _newOwner) public onlyOwner {
                             5: 'Clearly explains fungibility and the key functional differences between the standards.'
                         },
                         expectedTime: '90 seconds'
+                    },
+                    {
+                        id: 'SOL-F-04',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the purpose of `view` and `pure` functions?',
+                        idealAnswer: {
+                            coreIdea: 'They are function-mutability specifiers that indicate whether a function reads from or modifies the blockchain state.',
+                            keyPoints: [
+                                '`view` functions promise not to modify the state. They can read state variables, but cannot write to them.',
+                                '`pure` functions promise not to even read the state. They only operate on their input parameters and local variables.',
+                                'Both `view` and `pure` functions do not consume gas when called externally (i.e., from outside the blockchain) because they do not create a transaction.',
+                                'When called internally (from another function within the same contract), they do consume a small amount of gas.'
+                            ],
+                        },
+                        commonPitfalls: [
+                            'Thinking `view` and `pure` functions never cost gas.',
+                            'Using `view` when `pure` would suffice.',
+                            'Forgetting to label functions correctly, which can lead to compilation warnings or inefficient gas usage.'
+                        ],
+                        whyThisMatters: [
+                            'Correctly using `view` and `pure` is a signal of a disciplined developer and can save gas.',
+                            'It clearly communicates the function\'s intent to other developers and auditors.'
+                        ],
+                        followUps: [
+                            'Can a `view` function call a `pure` function? What about the other way around?',
+                            'What happens if you try to modify a state variable inside a `view` function?'
+                        ],
+                        redFlags: [
+                            'Not understanding the difference between them.',
+                            'Believing they are interchangeable.',
+                        ],
+                        scoringRubric: {
+                            1: 'Cannot define `view` or `pure`.',
+                            3: 'Knows they relate to not modifying state, but confuses the difference between reading and not reading state.',
+                            5: 'Clearly defines both, explains the gas implications of external vs. internal calls, and understands the hierarchy.'
+                        },
+                        expectedTime: '90 seconds'
                     }
                 ],
                 Intermediate: [
@@ -192,8 +226,7 @@ function changeOwner(address _newOwner) public onlyOwner {
                                 '3. **Interactions:** Last, call any external contracts or send Ether.',
                                 'By updating the state *before* the external call, the contract\'s state is consistent even if the external contract calls back (re-enters). The re-entrant call will fail the initial "check" because the state has already been updated.'
                             ],
-                            example: `
-// Vulnerable to reentrancy
+                            example: `// Vulnerable to reentrancy
 function withdraw_bad() public {
     uint amount = balances[msg.sender];
     require(amount > 0);
@@ -212,8 +245,7 @@ function withdraw_good() public {
     // 3. Interaction
     (bool success, ) = msg.sender.call{value: amount}("");
     require(success);
-}
-`
+}`
                         },
                         commonPitfalls: [
                             'Performing checks after interactions.',
@@ -280,6 +312,56 @@ function withdraw_good() public {
                             5: 'Clearly explains the separation of state and logic, the role of `delegatecall`, and can discuss the trade-offs.'
                         },
                         expectedTime: '120 seconds'
+                    },
+                    {
+                        id: 'SOL-I-03',
+                        difficulty: 'Intermediate',
+                        category: 'Gas Optimization',
+                        question: 'When packing structs for gas efficiency, how should you order the variables? Give an example.',
+                        idealAnswer: {
+                            coreIdea: 'Variables in a struct should be ordered from the smallest data type to the largest, so the EVM can pack smaller variables into a single 256-bit storage slot.',
+                            keyPoints: [
+                                'The EVM operates on 32-byte (256-bit) words. Writing to a new storage slot is very expensive (`SSTORE` opcode).',
+                                'If multiple variables can fit into a single 32-byte slot, the compiler will "pack" them together.',
+                                'To enable packing, declare variables smaller than 32 bytes next to each other. The optimal order is by size (e.g., `uint64`, `uint64`, `uint128`, `uint256`).'
+                            ],
+                            example: `// Inefficient: Uses 3 storage slots
+struct Unpacked {
+    uint128 a; // Slot 1
+    uint256 b; // Slot 2
+    uint128 c; // Slot 3
+}
+
+// Efficient: Uses 2 storage slots
+struct Packed {
+    uint128 a; // Slot 1 (gets packed with c)
+    uint128 c; // Slot 1
+    uint256 b; // Slot 2
+}`
+                        },
+                        commonPitfalls: [
+                            'Thinking variable order doesn\'t matter.',
+                            'Applying this logic to memory/calldata variables, where it is often less efficient due to EVM word alignment.',
+                            'Not knowing the sizes of common data types (`address` is 20 bytes, `bool` is 1 byte, etc).'
+                        ],
+                        whyThisMatters: [
+                            'Storage optimization is a major source of gas savings.',
+                            'Demonstrates a deeper understanding of how the EVM works under the hood.'
+                        ],
+                        followUps: [
+                            'Does this packing apply to constants?',
+                            'How are dynamic arrays and mappings handled in storage?',
+                        ],
+                        redFlags: [
+                            'Randomly ordering variables in structs.',
+                            'Being unaware of storage slot packing.',
+                        ],
+                        scoringRubric: {
+                            1: 'Is unaware of struct packing.',
+                            3: 'Knows that smaller variables should be grouped but cannot explain why or give a clear example.',
+                            5: 'Clearly explains storage slots, packing, and provides a correct example of optimal ordering.'
+                        },
+                        expectedTime: '90 seconds'
                     }
                 ],
                 Advanced: [
@@ -324,6 +406,43 @@ function withdraw_good() public {
                             5: 'Clearly explains the Merkle tree approach, its gas efficiency, and the on-chain vs. off-chain components.'
                         },
                         expectedTime: '180 seconds'
+                    },
+                    {
+                        id: 'SOL-A-02',
+                        difficulty: 'Advanced',
+                        category: 'Knowledge',
+                        question: 'What is the "CREATE2" opcode and what are its primary use cases?',
+                        idealAnswer: {
+                            coreIdea: 'CREATE2 is an opcode that allows for the creation of a contract at a deterministic address, an address that can be known in advance of deployment.',
+                            keyPoints: [
+                                'A normal `CREATE` opcode generates an address based on the deployer\'s address and their nonce. This is not predictable.',
+                                '`CREATE2` generates an address based on the deployer\'s address, a `salt` (an arbitrary value), and the `init_code` hash of the contract being deployed.',
+                                'Because the address is predictable, it allows for counterfactual deployment: you can interact with an address (e.g., send funds to it) before the contract has actually been deployed there.',
+                                'Primary use cases include state channels, Layer 2 scaling solutions, and upgradeable proxy factories where a single factory can deploy many instances to predictable addresses.'
+                            ],
+                        },
+                        commonPitfalls: [
+                            'Confusing the inputs for CREATE vs CREATE2.',
+                            'Not understanding the concept of counterfactual deployment.'
+                        ],
+                        whyThisMatters: [
+                            'CREATE2 is a powerful, low-level feature that enables many advanced architectural patterns.',
+                            'It is fundamental to the operation of many scaling and state-channel systems.'
+                        ],
+                        followUps: [
+                            'How could CREATE2 be used to build a more user-friendly smart contract wallet?',
+                            'What are the security implications of being able to re-deploy a contract to the same address after it has self-destructed?'
+                        ],
+                        redFlags: [
+                            'Not knowing that contract addresses can be pre-determined.',
+                            'Having no idea what use cases it enables.'
+                        ],
+                        scoringRubric: {
+                            1: 'Has not heard of CREATE2.',
+                            3: 'Knows it creates a predictable address but cannot explain how or why that is useful.',
+                            5: 'Clearly explains how the address is derived and provides strong examples of its use cases, like state channels.'
+                        },
+                        expectedTime: '120 seconds'
                     }
                 ],
                 Expert: [
@@ -368,6 +487,48 @@ function withdraw_good() public {
                             5: 'Clearly defines both variables, explains the phishing attack vector with precision, and states the best practice.'
                         },
                         expectedTime: '120 seconds'
+                    },
+                    {
+                        id: 'SOL-E-02',
+                        difficulty: 'Expert',
+                        category: 'Risk',
+                        question: 'What is Maximal Extractable Value (MEV) and how can a "sandwich attack" affect a user of a DEX?',
+                        idealAnswer: {
+                            coreIdea: 'MEV is the profit a block producer can make by reordering, inserting, or censoring transactions within a block. A sandwich attack is a common MEV strategy that exploits this power.',
+                            keyPoints: [
+                                'Block producers (validators) have the power to decide the order of transactions in a block.',
+                                'MEV "searchers" are bots that monitor the public mempool for profitable opportunities.',
+                                'A **Sandwich Attack** unfolds as follows:',
+                                '1. A searcher sees a large user buy order for Token A on a DEX in the mempool.',
+                                '2. The searcher **front-runs** the user by placing their own buy order for Token A with a higher gas fee, ensuring it executes first. This slightly increases the price.',
+                                '3. The user\'s original buy order executes at a slightly worse price (higher slippage) than they expected.',
+                                '4. The searcher then **back-runs** the user by immediately selling their Token A, capitalizing on the price increase they caused. The user\'s trade is "sandwiched".',
+                            ],
+                        },
+                        commonPitfalls: [
+                            'Thinking MEV is only about front-running.',
+                            'Not understanding the role of the mempool.',
+                            'Believing MEV is always a bad thing (e.g., arbitrage is a form of MEV that improves market efficiency).'
+                        ],
+                        whyThisMatters: [
+                            'MEV is a fundamental and unavoidable reality of transparent blockchains.',
+                            'It represents an "invisible tax" on users and impacts dApp design, especially for DEXs.'
+                        ],
+                        followUps: [
+                            'What are some strategies to mitigate sandwich attacks for users and for DEX designers?',
+                            'What is Flashbots and how does it attempt to democratize MEV and reduce its negative externalities?',
+                            'How do encrypted mempools change the MEV game?',
+                        ],
+                        redFlags: [
+                            'Being unaware of MEV.',
+                            'Not understanding how transaction ordering can be manipulated.',
+                        ],
+                        scoringRubric: {
+                            1: 'Has not heard of MEV.',
+                            3: 'Understands front-running but cannot clearly explain the mechanics of a sandwich attack.',
+                            5: 'Clearly explains MEV, the sandwich attack sequence, and can discuss mitigation strategies and the broader implications.'
+                        },
+                        expectedTime: '180 seconds'
                     }
                 ],
             }
@@ -408,3 +569,5 @@ function withdraw_good() public {
     },
     disclaimer: "This question bank is for educational purposes only and is not a substitute for a comprehensive, real-world interview process. It is not legal or financial advice. All code snippets are examples and should not be used in production without extensive testing and auditing."
 };
+
+    
