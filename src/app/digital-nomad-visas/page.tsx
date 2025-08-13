@@ -10,6 +10,7 @@ import { Button } from '@/components/ui/button';
 import { Search, Globe, Briefcase, ArrowRight, Wallet, CalendarDays, FileCheck2 } from 'lucide-react';
 import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
+import { Footer } from '@/components/footer';
 
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
     return (
