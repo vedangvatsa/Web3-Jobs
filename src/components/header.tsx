@@ -1,7 +1,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, X, Newspaper, Calculator, FileText, Globe } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, X, Newspaper, Calculator, FileText, Globe, ListChecks } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 
@@ -11,6 +11,7 @@ export function Header() {
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
         { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
+        { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
         { href: "/community", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
