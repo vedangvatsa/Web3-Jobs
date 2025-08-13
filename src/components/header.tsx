@@ -62,12 +62,6 @@ export function Header() {
                                 <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
                                     <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" />
                                 </Link>
-                                <SheetClose asChild>
-                                    <Button variant="ghost" size="icon">
-                                        <X className="h-5 w-5" />
-                                        <span className="sr-only">Close</span>
-                                    </Button>
-                                </SheetClose>
                             </div>
                             <nav className="flex-grow flex flex-col p-4">
                                 <div className="flex-grow space-y-2">
