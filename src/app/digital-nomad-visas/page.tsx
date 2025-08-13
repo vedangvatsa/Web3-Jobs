@@ -21,7 +21,7 @@ import { visaData } from '@/lib/visas';
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
     return (
         <AccordionItem value={visa.country}>
-            <AccordionTrigger className="text-lg font-medium hover:no-underline">
+            <AccordionTrigger className="text-lg font-medium hover:no-underline px-6">
                 <div className="flex items-center gap-4">
                     <span className="text-2xl">{getFlagEmoji(visa.country)}</span>
                     <div className="text-left">
@@ -30,24 +30,24 @@ function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
                     </div>
                 </div>
             </AccordionTrigger>
-            <AccordionContent className="pt-2 pb-4">
+            <AccordionContent className="pt-2 pb-4 px-6">
                 <p className="text-muted-foreground mb-4">{visa.description}</p>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-6">
                     <div>
-                        <h4 className="font-semibold mb-2 flex items-center gap-2"><CheckCircle className="text-green-500 h-5 w-5"/>Requirements</h4>
-                        <ul className="list-disc pl-5 space-y-1 text-sm text-muted-foreground">
+                        <h4 className="font-semibold mb-3 flex items-center gap-2 text-primary"><CheckCircle className="h-5 w-5"/>Key Requirements</h4>
+                        <ul className="list-disc pl-5 space-y-1.5 text-sm text-muted-foreground">
                             {visa.requirements.map((req, i) => <li key={i}>{req}</li>)}
                         </ul>
                     </div>
                     <div className="space-y-4">
                         <div>
-                             <h4 className="font-semibold mb-2 flex items-center gap-2"><CircleDollarSign className="text-blue-500 h-5 w-5"/>Minimum Income</h4>
-                             <p className="text-sm text-muted-foreground">Approx. ${visa.minIncome.toLocaleString()} USD per month.</p>
+                             <h4 className="font-semibold mb-2 flex items-center gap-2 text-primary"><CircleDollarSign className="h-5 w-5"/>Minimum Income</h4>
+                             <p className="text-sm text-muted-foreground">Approx. <strong>${visa.minIncome.toLocaleString()} USD</strong> per month required.</p>
                         </div>
                         <div>
-                             <h4 className="font-semibold mb-2 flex items-center gap-2"><LinkIcon className="text-gray-500 h-5 w-5"/>Official Link</h4>
+                             <h4 className="font-semibold mb-2 flex items-center gap-2 text-primary"><LinkIcon className="h-5 w-5"/>Official Link</h4>
                              <a href={visa.link} target="_blank" rel="noopener noreferrer" className="text-sm text-primary hover:underline break-all">
-                                Go to application page
+                                Go to official application page
                             </a>
                         </div>
                     </div>
@@ -105,7 +105,7 @@ export default function DigitalNomadVisasPage() {
                         </p>
                     </section>
 
-                    <div className="max-w-3xl mx-auto">
+                    <div className="max-w-4xl mx-auto">
                         <div className="relative mb-8">
                             <Input
                                 placeholder="Search by country or continent..."
@@ -125,8 +125,9 @@ export default function DigitalNomadVisasPage() {
                         </Card>
                         
                         {visas.length === 0 && (
-                            <div className="text-center py-12 text-muted-foreground">
-                                <p>No visas found for your search term.</p>
+                            <div className="text-center py-16 text-muted-foreground bg-secondary/30 rounded-lg mt-8">
+                                <p className="font-medium">No countries found for your search.</p>
+                                <p className="text-sm">Try searching for "Europe" or "Spain".</p>
                             </div>
                         )}
                     </div>
@@ -136,4 +137,3 @@ export default function DigitalNomadVisasPage() {
         </div>
     );
 }
-
