@@ -1,3 +1,4 @@
+
 'use client';
 
 import type { Job } from '@/types';
@@ -43,7 +44,7 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
         </div>
       </div>
       
-        <div className="transition-opacity duration-300">
+        <div className="transition-opacity duration-300 min-h-[500px]">
             {isPending && (
                 <div className="flex justify-center items-center mb-4">
                     <Loader2 className="h-6 w-6 animate-spin text-primary"/>
