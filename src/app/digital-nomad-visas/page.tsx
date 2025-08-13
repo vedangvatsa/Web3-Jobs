@@ -4,35 +4,52 @@
 import * as React from 'react';
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
-import { Search, Globe, Briefcase, ArrowRight } from 'lucide-react';
+import { Search, Globe, Briefcase, ArrowRight, Wallet, CalendarDays, FileCheck2 } from 'lucide-react';
 import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
 
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
     return (
-        <Card className="flex flex-col h-full transform transition-all duration-300 hover:shadow-2xl hover:-translate-y-1.5">
-            <CardHeader className="flex flex-row items-center justify-between pb-2">
+        <Card className="flex flex-col h-full transform transition-all duration-300 hover:shadow-2xl hover:-translate-y-1.5 bg-card">
+            <CardHeader className="flex flex-row items-start justify-between pb-4">
                 <div className="flex items-center gap-3">
                     <span className="text-4xl">{getFlagEmoji(visa.country)}</span>
-                    <CardTitle className="text-xl font-bold">{visa.country}</CardTitle>
+                    <div>
+                        <CardTitle className="text-xl font-bold">{visa.country}</CardTitle>
+                        <Badge variant="outline" className="mt-1">{visa.continent}</Badge>
+                    </div>
                 </div>
-                <Badge variant="outline">{visa.continent}</Badge>
             </CardHeader>
             <CardContent className="flex-grow flex flex-col justify-between">
                 <div>
                     <p className="text-muted-foreground mb-4 text-sm">{visa.description}</p>
-                    <div className="space-y-3">
-                        <div>
-                            <h4 className="font-semibold text-sm mb-1 text-primary">Minimum Income</h4>
-                            <p className="text-sm">Approx. <strong>${visa.minIncome.toLocaleString()} USD</strong> / month</p>
+                    <div className="space-y-4">
+                        <div className="flex items-start gap-3">
+                            <Wallet className="h-5 w-5 text-primary mt-0.5 shrink-0" />
+                            <div>
+                                <h4 className="font-semibold text-sm text-primary">Minimum Income</h4>
+                                <p className="text-sm">Approx. <strong>${visa.minIncome.toLocaleString()} USD</strong> / month</p>
+                            </div>
                         </div>
-                        <div>
-                            <h4 className="font-semibold text-sm mb-1 text-primary">Visa Length</h4>
-                            <p className="text-sm">{visa.visaLength}</p>
+                         <div className="flex items-start gap-3">
+                            <CalendarDays className="h-5 w-5 text-primary mt-0.5 shrink-0" />
+                            <div>
+                                <h4 className="font-semibold text-sm text-primary">Visa Length</h4>
+                                <p className="text-sm">{visa.visaLength}</p>
+                            </div>
+                        </div>
+                        <div className="flex items-start gap-3">
+                            <FileCheck2 className="h-5 w-5 text-primary mt-0.5 shrink-0" />
+                            <div>
+                                <h4 className="font-semibold text-sm text-primary">Key Requirements</h4>
+                                <ul className="list-disc pl-4 mt-1 space-y-1 text-xs">
+                                    {visa.requirements.map((req, i) => <li key={i}>{req}</li>)}
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -40,7 +57,6 @@ function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
         </Card>
     );
 }
-
 
 function getFlagEmoji(countryName: string): string {
     const countryCode = Object.keys(countryMap).find(code => countryMap[code] === countryName);
@@ -69,22 +85,25 @@ const countryMap: Record<string, string> = {
     "AE": "UAE (Dubai)", "UY": "Uruguay", "VN": "Vietnam"
 };
 
-
 export default function DigitalNomadVisasPage() {
-    const [visas, setVisas] = React.useState<DigitalNomadVisa[]>([]);
     const [searchTerm, setSearchTerm] = React.useState('');
+    const [selectedContinent, setSelectedContinent] = React.useState('All');
     
-    React.useEffect(() => {
-        const sortedVisas = visaData.sort((a, b) => a.country.localeCompare(b.country));
-        const filtered = sortedVisas.filter(visa => 
-            visa.country.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            visa.continent.toLowerCase().includes(searchTerm.toLowerCase())
-        );
-        setVisas(filtered);
-    }, [searchTerm]);
+    const continents = ['All', 'Europe', 'Asia', 'North America', 'South America', 'Africa', 'Oceania'];
+
+    const filteredVisas = React.useMemo(() => {
+        return visaData.filter(visa => {
+            const matchesContinent = selectedContinent === 'All' || visa.continent === selectedContinent;
+            const matchesSearch = searchTerm === '' || 
+                visa.country.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                visa.description.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                visa.requirements.join(' ').toLowerCase().includes(searchTerm.toLowerCase());
+            return matchesContinent && matchesSearch;
+        }).sort((a, b) => a.country.localeCompare(b.country));
+    }, [searchTerm, selectedContinent]);
 
     return (
-        <div className="flex flex-col min-h-screen bg-background">
+        <div className="flex flex-col min-h-screen bg-secondary/30">
             <Header />
             <main className="flex-1">
                 <div className="container mx-auto px-4 py-8 md:py-16">
@@ -101,18 +120,34 @@ export default function DigitalNomadVisasPage() {
                     </section>
 
                     <div className="max-w-7xl mx-auto">
-                        <div className="relative mb-8 max-w-lg mx-auto">
-                            <Input
-                                placeholder="Search by country or continent..."
-                                value={searchTerm}
-                                onChange={(e) => setSearchTerm(e.target.value)}
-                                className="w-full text-base pl-10 h-11 rounded-full shadow-sm"
-                            />
-                            <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground"/>
-                        </div>
+                         <Card className="p-4 mb-8 sticky top-20 z-10 shadow-lg backdrop-blur-sm bg-background/80">
+                            <div className="flex flex-col md:flex-row gap-4">
+                                <div className="relative flex-grow">
+                                    <Input
+                                        placeholder="Search by country, requirements, etc..."
+                                        value={searchTerm}
+                                        onChange={(e) => setSearchTerm(e.target.value)}
+                                        className="w-full text-base pl-10 h-11"
+                                    />
+                                    <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground"/>
+                                </div>
+                                <div className="flex flex-wrap items-center gap-2">
+                                     {continents.map(continent => (
+                                        <Button 
+                                            key={continent} 
+                                            variant={selectedContinent === continent ? 'default' : 'outline'}
+                                            onClick={() => setSelectedContinent(continent)}
+                                            className="rounded-full"
+                                        >
+                                            {continent}
+                                        </Button>
+                                    ))}
+                                </div>
+                            </div>
+                        </Card>
                         
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                            {visas.map(visa => <VisaCard key={visa.country} visa={visa} />)}
+                            {filteredVisas.map(visa => <VisaCard key={visa.country} visa={visa} />)}
                             
                             <Card className="flex flex-col items-center justify-center text-center p-6 bg-primary/5 border-primary/20 hover:shadow-2xl hover:-translate-y-1.5 transition-all duration-300">
                                 <div className="p-3 bg-primary/10 rounded-full mb-4">
@@ -128,10 +163,10 @@ export default function DigitalNomadVisasPage() {
                             </Card>
                         </div>
                         
-                        {visas.length === 0 && (
-                            <div className="text-center py-16 text-muted-foreground bg-secondary/30 rounded-lg mt-8">
+                        {filteredVisas.length === 0 && (
+                            <div className="text-center py-16 text-muted-foreground bg-card rounded-lg mt-8">
                                 <p className="font-medium text-lg">No countries found for your search.</p>
-                                <p className="text-sm mt-2">Try searching for "Europe" or "Spain".</p>
+                                <p className="text-sm mt-2">Try adjusting your search filters.</p>
                             </div>
                         )}
                     </div>
