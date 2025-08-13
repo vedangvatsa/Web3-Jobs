@@ -5,6 +5,7 @@ import { cn } from '@/lib/utils';
 import './globals.css';
 import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
+import { ContentSecurity } from '@/components/content-security';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -65,11 +66,12 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
             <link rel="preload" href={inter.style.fontFamily} as="font" type="font/woff2" crossOrigin="anonymous" />
-            <link rel="stylesheet" href="/globals.css" media="print" />
+            <link rel="stylesheet" href="/globals.css" media="print" onLoad="this.media='all'" />
         </head>
       <body 
         className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
       >
+        <ContentSecurity />
         <div className="flex-grow">{children}</div>
         <Toaster />
         <Analytics />
