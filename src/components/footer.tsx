@@ -1,22 +1,31 @@
 
 import { Instagram, Linkedin, Mail, Twitter } from 'lucide-react';
+import { getAllArticles } from '@/lib/articles';
+import Link from 'next/link';
 
-export function Footer() {
+export async function Footer() {
+  const latestArticles = (await getAllArticles()).slice(0, 4);
+
+  const resourceLinks = [
+    { href: "/interview-questions", label: "Interview Questions" },
+    { href: "/salary-calculator", label: "Salary Calculator" },
+    { href: "/invoice-generator", label: "Invoice Generator" },
+    { href: "/digital-nomad-visas", label: "Digital Nomad Visas" },
+    { href: "/remote-work-checklist", label: "Remote Checklist" },
+  ];
+
   return (
     <footer className="w-full border-t bg-background">
-      <div className="container mx-auto px-4 py-8">
-        <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
-          <div>
+      <div className="container mx-auto px-4 py-12">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+          <div className="md:col-span-1">
             <h3 className="text-xl font-bold tracking-tight text-foreground">
               Hashtag Web3
             </h3>
             <p className="mt-2 text-sm text-muted-foreground">
               The best place for top talent to discover exclusive opportunities at leading Web3 companies.
             </p>
-          </div>
-          
-          <div className="flex items-center justify-start md:justify-end">
-            <div className="flex gap-5">
+             <div className="flex gap-5 mt-4">
               <a href="https://linkedin.com/company/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Follow us on LinkedIn">
                 <Linkedin size={20} />
                 <span className="sr-only">LinkedIn</span>
@@ -35,6 +44,36 @@ export function Footer() {
               </a>
             </div>
           </div>
+          
+          <div className="md:col-span-1">
+            <h4 className="font-semibold text-foreground mb-3">Resources</h4>
+            <ul className="space-y-2">
+              {resourceLinks.map(link => (
+                <li key={link.label}>
+                  <Link href={link.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          <div className="md:col-span-2">
+             <h4 className="font-semibold text-foreground mb-3">Recent Articles</h4>
+             <ul className="space-y-2">
+              {latestArticles.map(article => (
+                <li key={article.slug}>
+                   <Link href={`/${article.slug}`} className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                    {article.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+        </div>
+        <div className="mt-8 border-t pt-4 text-center text-xs text-muted-foreground">
+            © {new Date().getFullYear()} Hashtag Web3. All rights reserved.
         </div>
       </div>
     </footer>
