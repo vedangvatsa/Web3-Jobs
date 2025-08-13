@@ -70,7 +70,6 @@ export default async function BlogIndexPage({ searchParams }: { searchParams?: {
           </div>
         </div>
       </main>
-      <Footer />
     </div>
   );
 }

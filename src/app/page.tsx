@@ -5,6 +5,8 @@ import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
+import { Footer } from '@/components/footer';
+
 
 export default async function Home() {
   const initialJobs = await getJobs();
