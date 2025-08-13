@@ -32,7 +32,6 @@ import {
 import { Slider } from '@/components/ui/slider';
 import { Calculator, Sparkles } from 'lucide-react';
 import { useState, useEffect } from 'react';
-import { Checkbox } from '@/components/ui/checkbox';
 
 const salarySchema = z.object({
   role: z.string().min(1, 'Please select a role'),
@@ -46,7 +45,6 @@ const salarySchema = z.object({
   companySize: z.enum(['1_10', '11_50', '51_200', '201_plus'], {
       required_error: "Please select a company size"
   }),
-  skills: z.array(z.string()).optional(),
 });
 
 type SalaryFormData = z.infer<typeof salarySchema>;
@@ -90,28 +88,16 @@ const calculateSalary = (data: SalaryFormData): number => {
       '201_plus': 1.1,
   }
 
-  const skillBonus = (data.skills || []).reduce((acc, skill) => {
-      const bonuses: Record<string, number> = { 'rust': 0.1, 'zk': 0.12, 'ai_ml': 0.08 };
-      return acc + (bonuses[skill] || 0);
-  }, 0);
-
   const base = baseSalaries[data.role] || 75000;
   let estimatedSalary =
     base *
     experienceMultiplier *
     locationMultiplier[data.location] *
     companyTypeMultiplier[data.companyType] *
-    companySizeMultiplier[data.companySize] *
-    (1 + skillBonus);
+    companySizeMultiplier[data.companySize];
 
   return Math.round(estimatedSalary / 1000) * 1000;
 };
-
-const skillOptions = [
-    { id: 'rust', label: 'Rust Programming' },
-    { id: 'zk', label: 'ZK-Proofs / Cryptography' },
-    { id: 'ai_ml', label: 'AI / Machine Learning' },
-]
 
 export function SalaryCalculatorForm() {
   const [estimatedSalary, setEstimatedSalary] = useState<number | null>(null);
@@ -124,7 +110,6 @@ export function SalaryCalculatorForm() {
       location: 'north_america',
       companyType: 'series_a',
       companySize: '11_50',
-      skills: [],
     },
   });
 
@@ -340,55 +325,6 @@ export function SalaryCalculatorForm() {
                                 )}
                             />
                         </div>
-                        
-                        <FormField
-                            control={form.control}
-                            name="skills"
-                            render={() => (
-                                <FormItem>
-                                <div>
-                                    <FormLabel className="text-base">Specialized Skills (optional bonus)</FormLabel>
-                                    <FormDescription>
-                                    Select skills that command a premium in the market.
-                                    </FormDescription>
-                                </div>
-                                {skillOptions.map((item) => (
-                                    <FormField
-                                    key={item.id}
-                                    control={form.control}
-                                    name="skills"
-                                    render={({ field }) => {
-                                        return (
-                                        <FormItem
-                                            key={item.id}
-                                            className="flex flex-row items-start space-x-3 space-y-0"
-                                        >
-                                            <FormControl>
-                                            <Checkbox
-                                                checked={field.value?.includes(item.id)}
-                                                onCheckedChange={(checked) => {
-                                                return checked
-                                                    ? field.onChange([...(field.value || []), item.id])
-                                                    : field.onChange(
-                                                        field.value?.filter(
-                                                        (value) => value !== item.id
-                                                        )
-                                                    )
-                                                }}
-                                            />
-                                            </FormControl>
-                                            <FormLabel className="font-normal">
-                                            {item.label}
-                                            </FormLabel>
-                                        </FormItem>
-                                        )
-                                    }}
-                                    />
-                                ))}
-                                <FormMessage />
-                                </FormItem>
-                            )}
-                        />
                     </form>
                   </Form>
                 </CardContent>
