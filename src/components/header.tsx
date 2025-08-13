@@ -1,20 +1,29 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, X, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu"
 
 export function Header() {
     const navLinks = [
         { href: "/blog", label: "Blog", icon: Newspaper },
+        { href: "/community", label: "Community", icon: Users },
+        { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
+    ];
+
+    const resourcesLinks = [
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
         { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
-        { href: "/community", label: "Community", icon: Users },
-        { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
 
     const socialLinks = [
@@ -30,7 +39,33 @@ export function Header() {
                 </Link>
                 
                 <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
-                    {navLinks.map((link) => (
+                    {navLinks.slice(0,1).map((link) => ( // Blog link
+                         <Link
+                            key={link.label}
+                            href={link.href}
+                            className="text-muted-foreground transition-colors hover:text-foreground"
+                         >
+                           {link.label}
+                       </Link>
+                    ))}
+
+                    <DropdownMenu>
+                        <DropdownMenuTrigger className="flex items-center gap-1 text-muted-foreground transition-colors hover:text-foreground text-sm font-medium focus:outline-none">
+                            Resources <ChevronDown className="h-4 w-4" />
+                        </DropdownMenuTrigger>
+                        <DropdownMenuContent>
+                            {resourcesLinks.map(link => (
+                                <DropdownMenuItem key={link.label} asChild>
+                                    <Link href={link.href} className="flex items-center gap-2">
+                                        <link.icon className="h-4 w-4 text-muted-foreground" />
+                                        {link.label}
+                                    </Link>
+                                </DropdownMenuItem>
+                            ))}
+                        </DropdownMenuContent>
+                    </DropdownMenu>
+
+                     {navLinks.slice(1).map((link) => ( // Community and Academy links
                          <Link
                             key={link.label}
                             href={link.href}
@@ -41,6 +76,7 @@ export function Header() {
                            {link.label}
                        </Link>
                     ))}
+
                     <div className="flex items-center gap-4">
                          {socialLinks.map((link) => (
                             <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
@@ -70,7 +106,7 @@ export function Header() {
                             </div>
                             <nav className="flex-grow flex flex-col p-4">
                                 <div className="flex-grow space-y-2">
-                                {navLinks.map((link) => (
+                                {[...navLinks.slice(0,1), ...resourcesLinks, ...navLinks.slice(1)].map((link) => (
                                     <SheetClose key={link.label} asChild>
                                          <Link
                                             href={link.href}
