@@ -4,6 +4,7 @@
 import * as React from 'react';
 import { Header } from '@/components/header';
 import { InvoiceForm } from '@/components/invoice-form';
+import { Footer } from '@/components/footer';
 
 export default function InvoiceGeneratorPage() {
   return (
@@ -12,6 +13,7 @@ export default function InvoiceGeneratorPage() {
       <main className="flex-1">
         <InvoiceForm />
       </main>
+      <Footer />
     </div>
   );
 }
