@@ -31,6 +31,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         priority: 0.7,
     },
     {
+      url: `${siteUrl}/digital-nomad-visas`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${siteUrl}/community`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
