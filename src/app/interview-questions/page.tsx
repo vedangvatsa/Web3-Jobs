@@ -32,6 +32,7 @@ import {
 import { interviewData, Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
+import { Footer } from '@/components/footer';
 
 const difficultyColors: { [key: string]: string } = {
   Foundation: 'bg-green-500/10 text-green-700 border-green-400/50',

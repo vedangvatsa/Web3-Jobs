@@ -1,4 +1,6 @@
 
+'use client';
+
 import { Header } from '@/components/header';
 import { SalaryCalculatorForm } from '@/components/salary-calculator-form';
 
