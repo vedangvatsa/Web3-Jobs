@@ -9,7 +9,6 @@ const FEEDS = [
   'https://politepol.com/fd/bs9i34afSjHS.xml',
   'https://politepol.com/fd/oiXKHETnrDap.xml',
   'https://politepol.com/fd/Ane01VX84MOk.xml',
-  'https://politepol.com/fd/gG8gJ7wV2YjA.xml',
 ];
 
 const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
