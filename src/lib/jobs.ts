@@ -110,16 +110,6 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
     },
     {
         "company": "Coinbase",
-        "title": "AI Growth Lead (AI Automation DRI)",
-        "link": "https://www.coinbase.com/careers/positions/7155982?gh_jid=7155982"
-    },
-    {
-        "company": "Coinbase",
-        "title": "AI Growth Lead (AI Automation DRI)",
-        "link": "https://www.coinbase.com/careers/positions/7008466?gh_jid=7008466"
-    },
-    {
-        "company": "Coinbase",
         "title": "Compliance QA Analyst IV",
         "link": "https://www.coinbase.com/careers/positions/7140867?gh_jid=7140867"
     },
@@ -139,34 +129,14 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
         "link": "https://job-boards.greenhouse.io/bitgo/jobs/8113473002"
     },
     {
-        "company": "BitGo",
-        "title": "Software Engineer (Full-Stack) - Access & Notifications",
-        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8114204002"
-    },
-    {
-        "company": "BitGo",
-        "title": "Software Engineer (Full-Stack) - Access & Notifications",
-        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8108788002"
-    },
-    {
         "company": "Coinbase",
         "title": "TMS Compliance Analyst 4",
         "link": "https://www.coinbase.com/careers/positions/7078159?gh_jid=7078159"
     },
     {
-        "company": "Coinbase",
-        "title": "TMS Compliance Analyst 4",
-        "link": "https://www.coinbase.com/careers/positions/7078204?gh_jid=7078204"
-    },
-    {
         "company": "Ripple",
         "title": "Senior Manager - Salesforce Developer",
         "link": "https://ripple.com/careers/all-jobs/job/7138108?gh_jid=7138108"
-    },
-    {
-        "company": "Ripple",
-        "title": "Senior Manager - Salesforce Developer",
-        "link": "https://ripple.com/careers/all-jobs/job/7138120?gh_jid=7138120"
     },
     {
         "company": "Anchorage",
@@ -314,11 +284,6 @@ const staticJobs: Omit<Job, 'id' | 'date' | 'source'>[] = [
         "link": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/4650516101"
     },
     {
-        "company": "BCB Group",
-        "title": "Senior Full Stack Engineer",
-        "link": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/4650502101"
-    },
-    {
         "company": "Circle",
         "title": "Senior Counsel, Transactions, EMEA",
         "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/London---remote-first-in-UK/Senior-Counsel--Transactions--EMEA_JR100531"
@@ -361,7 +326,8 @@ export async function getJobs(): Promise<Job[]> {
           const company = cleanCompany(item.content);
           const link = item.link;
 
-          if (title && company && link && title.split(' ').length <= 7) {
+          // Added filter to exclude bounties
+          if (title && company && link && title.split(' ').length <= 7 && !title.toLowerCase().includes('bounty')) {
             return {
               id: item.guid || link,
               title,
@@ -374,10 +340,11 @@ export async function getJobs(): Promise<Job[]> {
           return null;
         }).filter((job): job is Job => job !== null);
       }
+      return []; // Return empty array if feed.items is not available
     } catch (error) {
       console.warn(`Could not fetch or parse feed: ${feedUrl}`, error);
+      return []; // Return empty array on fetch/parse error
     }
-    return [];
   });
 
   const allJobsNested = await Promise.all(allJobsPromises);
@@ -393,15 +360,13 @@ export async function getJobs(): Promise<Job[]> {
   // Combine all jobs
   let combinedJobs = [...allJobsNested.flat(), ...processedStaticJobs];
 
-  // Deduplicate jobs, keeping the most recent one
+  // Deduplicate jobs based on a normalized key (company + title), keeping the most recent.
   const jobMap = new Map<string, Job>();
   
   combinedJobs.forEach(job => {
-    // Normalize key for deduplication: company name + job title (both lowercase)
-    const jobKey = `${job.company.toLowerCase()}-${job.title.toLowerCase()}`;
+    const jobKey = `${job.company.toLowerCase().trim()}-${job.title.toLowerCase().trim()}`;
     const existingJob = jobMap.get(jobKey);
 
-    // If job doesn't exist, or if the new job is more recent, add/update it
     if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
       jobMap.set(jobKey, job);
     }
@@ -414,5 +379,3 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
-
-    
