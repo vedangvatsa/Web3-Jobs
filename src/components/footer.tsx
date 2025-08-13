@@ -73,7 +73,6 @@ export async function Footer() {
 
         </div>
         <div className="mt-8 border-t pt-4 text-center text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Hashtag Web3. All rights reserved.
         </div>
       </div>
     </footer>
