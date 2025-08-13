@@ -1,4 +1,5 @@
 
+'use client';
 
 import * as React from 'react';
 import { Header } from '@/components/header';
@@ -31,6 +32,7 @@ import {
 import { interviewData, Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
+import { Footer } from '@/components/footer';
 
 const difficultyColors: { [key: string]: string } = {
   Foundation: 'bg-green-500/10 text-green-700 border-green-400/50',
@@ -149,101 +151,104 @@ export default function InterviewQuestionBankPage() {
   return (
     <div className="flex flex-col min-h-screen bg-secondary/30">
       <Header />
-      <div className="container mx-auto px-4 py-8 md:py-16">
-        <section className="text-center mb-12 max-w-4xl mx-auto">
-            <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-              <BookOpen className="h-10 w-10 text-primary" />
-          </div>
-          <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-            Web3 Interview Question Bank
-          </h1>
-          <p className="mt-4 text-lg text-muted-foreground">
-            200+ role-specific questions with ideal answers, difficulty tags, and rubrics.
-          </p>
-          <p className="text-xs text-muted-foreground mt-2">Last updated: June 2024</p>
-        </section>
+      <main className="flex-grow">
+          <div className="container mx-auto px-4 py-8 md:py-16">
+            <section className="text-center mb-12 max-w-4xl mx-auto">
+                <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
+                  <BookOpen className="h-10 w-10 text-primary" />
+              </div>
+              <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
+                Web3 Interview Question Bank
+              </h1>
+              <p className="mt-4 text-lg text-muted-foreground">
+                200+ role-specific questions with ideal answers, difficulty tags, and rubrics.
+              </p>
+              <p className="text-xs text-muted-foreground mt-2">Last updated: June 2024</p>
+            </section>
 
-        <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
-          <aside className="md:col-span-3 md:sticky top-24 self-start">
-            <Card>
-              <CardHeader>
-                  <CardTitle>Quick Navigation</CardTitle>
-              </CardHeader>
-              <CardContent>
-                  <ul className="space-y-2 text-sm">
-                      {interviewData.roles.map(role => (
-                          <li key={role.id}>
-                              <a href={`#${role.id}`} className="text-muted-foreground hover:text-primary transition-colors">{role.role}</a>
-                          </li>
-                      ))}
-                      <li>
-                          <a href="#appendix-a" className="text-muted-foreground hover:text-primary transition-colors">Appendix A: Behavioral</a>
-                      </li>
-                        <li>
-                          <a href="#appendix-b" className="text-muted-foreground hover:text-primary transition-colors">Appendix B: Scoring Guide</a>
-                      </li>
-                  </ul>
-              </CardContent>
-            </Card>
-          </aside>
-
-          <div className="md:col-span-9">
-            <Card className="mb-8">
-              <CardHeader>
-                  <CardTitle>How to use this bank</CardTitle>
-              </CardHeader>
-              <CardContent className="space-y-2 text-muted-foreground">
-                  <p>This question bank is a reference for both hiring managers and candidates.</p>
-                  <ul className="list-disc pl-5 space-y-1">
-                      <li>Use difficulty tags to tailor questions to the role's seniority.</li>
-                      <li>Use "Follow-ups" to probe for depth and differentiate between good and great candidates.</li>
-                      <li>"Red Flags" and "Common Pitfalls" highlight frequent misconceptions or unsafe patterns.</li>
-                      <li>The scoring rubric provides a framework for consistent evaluation across interviews.</li>
-                  </ul>
-              </CardContent>
-            </Card>
-
-            {interviewData.roles.map(role => (
-              <RoleSection key={role.id} roleData={role} />
-            ))}
-
-            <div id="appendix-a" className="pt-8">
-              <h2 className="text-2xl font-bold mb-4">Appendix A: Universal Behavioral Questions</h2>
-              <Card>
-                  <CardContent className="pt-6">
-                      <ul className="list-decimal pl-5 space-y-3 text-muted-foreground">
-                          {interviewData.appendixA.map((item, i) => (
-                              <li key={i}>
-                                  <p className="font-semibold text-foreground">{item.question}</p>
-                                  <p className="text-sm italic">{item.pattern}</p>
+            <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
+              <aside className="md:col-span-3 md:sticky top-24 self-start">
+                <Card>
+                  <CardHeader>
+                      <CardTitle>Quick Navigation</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                      <ul className="space-y-2 text-sm">
+                          {interviewData.roles.map(role => (
+                              <li key={role.id}>
+                                  <a href={`#${role.id}`} className="text-muted-foreground hover:text-primary transition-colors">{role.role}</a>
                               </li>
                           ))}
+                          <li>
+                              <a href="#appendix-a" className="text-muted-foreground hover:text-primary transition-colors">Appendix A: Behavioral</a>
+                          </li>
+                            <li>
+                              <a href="#appendix-b" className="text-muted-foreground hover:text-primary transition-colors">Appendix B: Scoring Guide</a>
+                          </li>
                       </ul>
                   </CardContent>
-              </Card>
-            </div>
+                </Card>
+              </aside>
 
-              <div id="appendix-b" className="pt-8">
-              <h2 className="text-2xl font-bold mb-4">Appendix B: Scoring Guide</h2>
-                <Card>
-                  <CardContent className="pt-6 space-y-2 text-muted-foreground">
-                      <p>{interviewData.appendixB.description}</p>
+              <div className="md:col-span-9">
+                <Card className="mb-8">
+                  <CardHeader>
+                      <CardTitle>How to use this bank</CardTitle>
+                  </CardHeader>
+                  <CardContent className="space-y-2 text-muted-foreground">
+                      <p>This question bank is a reference for both hiring managers and candidates.</p>
                       <ul className="list-disc pl-5 space-y-1">
-                          {interviewData.appendixB.guide.map((item, i) => (
-                              <li key={i}><strong className="text-foreground">{item.score}:</strong> {item.meaning}</li>
-                          ))}
+                          <li>Use difficulty tags to tailor questions to the role's seniority.</li>
+                          <li>Use "Follow-ups" to probe for depth and differentiate between good and great candidates.</li>
+                          <li>"Red Flags" and "Common Pitfalls" highlight frequent misconceptions or unsafe patterns.</li>
+                          <li>The scoring rubric provides a framework for consistent evaluation across interviews.</li>
                       </ul>
                   </CardContent>
-              </Card>
-            </div>
+                </Card>
 
-              <div className="pt-8">
-              <p className="text-xs text-center text-muted-foreground">{interviewData.disclaimer}</p>
-            </div>
+                {interviewData.roles.map(role => (
+                  <RoleSection key={role.id} roleData={role} />
+                ))}
 
+                <div id="appendix-a" className="pt-8">
+                  <h2 className="text-2xl font-bold mb-4">Appendix A: Universal Behavioral Questions</h2>
+                  <Card>
+                      <CardContent className="pt-6">
+                          <ul className="list-decimal pl-5 space-y-3 text-muted-foreground">
+                              {interviewData.appendixA.map((item, i) => (
+                                  <li key={i}>
+                                      <p className="font-semibold text-foreground">{item.question}</p>
+                                      <p className="text-sm italic">{item.pattern}</p>
+                                  </li>
+                              ))}
+                          </ul>
+                      </CardContent>
+                  </Card>
+                </div>
+
+                  <div id="appendix-b" className="pt-8">
+                  <h2 className="text-2xl font-bold mb-4">Appendix B: Scoring Guide</h2>
+                    <Card>
+                      <CardContent className="pt-6 space-y-2 text-muted-foreground">
+                          <p>{interviewData.appendixB.description}</p>
+                          <ul className="list-disc pl-5 space-y-1">
+                              {interviewData.appendixB.guide.map((item, i) => (
+                                  <li key={i}><strong className="text-foreground">{item.score}:</strong> {item.meaning}</li>
+                              ))}
+                          </ul>
+                      </CardContent>
+                  </Card>
+                </div>
+
+                  <div className="pt-8">
+                  <p className="text-xs text-center text-muted-foreground">{interviewData.disclaimer}</p>
+                </div>
+
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
+      </main>
+      <Footer />
     </div>
   );
 }
