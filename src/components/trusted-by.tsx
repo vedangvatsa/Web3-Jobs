@@ -8,7 +8,7 @@ export function TrustedBy() {
         { name: 'Binance', src: '/logo/binance.png' },
         { name: 'LBank', src: '/logo/lbank.png' },
         { name: 'AltLayer', src: '/logo/altlayer.png' },
-        { name: 'Glassnode', src: '/logo/glassnode.png' },
+        { name: 'dYdX', src: '/logo/dydx.png' },
     ];
 
     return (
