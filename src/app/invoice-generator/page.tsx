@@ -24,9 +24,6 @@ import {
   Trash2,
   Plus,
   Image as ImageIcon,
-  DollarSign,
-  Bitcoin,
-  Percent,
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import jsPDF from 'jspdf';
@@ -77,6 +74,17 @@ const currencyOptions = [
   { value: 'USDT', label: 'USDT (₮)' },
 ];
 
+const currencySymbols: Record<string, string> = {
+    USD: '$',
+    EUR: '€',
+    GBP: '£',
+    BTC: '₿',
+    ETH: 'Ξ',
+    USDC: '$',
+    USDT: '₮'
+};
+
+
 export default function InvoiceGeneratorPage() {
   const { toast } = useToast();
   const form = useForm<InvoiceFormData>({
@@ -122,6 +130,12 @@ export default function InvoiceGeneratorPage() {
     control: form.control,
     name: 'amountPaid',
   });
+   const watchedCurrency = useWatch({
+    control: form.control,
+    name: 'currency',
+  });
+  const currencySymbol = currencySymbols[watchedCurrency] || '$';
+
 
   const subtotal = React.useMemo(
     () =>
@@ -134,12 +148,9 @@ export default function InvoiceGeneratorPage() {
 
   const total = React.useMemo(() => {
     const taxAmount = subtotal * ((watchedTax || 0) / 100);
-    return (
-      subtotal +
-      taxAmount -
-      (watchedDiscount || 0) +
-      (watchedShipping || 0)
-    );
+    const discountAmount = watchedDiscount || 0;
+    const shippingAmount = watchedShipping || 0;
+    return subtotal + taxAmount - discountAmount + shippingAmount;
   }, [subtotal, watchedTax, watchedDiscount, watchedShipping]);
 
   const balanceDue = React.useMemo(
@@ -162,130 +173,36 @@ export default function InvoiceGeneratorPage() {
     try {
       const doc = new jsPDF();
       
-      // Set font styles
       const setHeaderStyle = () => doc.setFont('helvetica', 'bold').setFontSize(22);
       const setLabelStyle = () => doc.setFont('helvetica', 'bold').setFontSize(10);
       const setNormalStyle = () => doc.setFont('helvetica', 'normal').setFontSize(10);
       
-      // Logo and Invoice Header
       if (data.logo) {
-        doc.addImage(data.logo, 'PNG', 14, 15, 40, 40);
-      }
-      setHeaderStyle();
-      doc.text('INVOICE', 196, 22, { align: 'right' });
-      setNormalStyle();
-      doc.text(`# ${data.invoiceNumber}`, 196, 28, { align: 'right' });
-      
-      // Addresses
-      setLabelStyle();
-      doc.text('FROM:', 14, 70);
-      setNormalStyle();
-      doc.text(data.from, 14, 76, { maxWidth: 80 });
+        const img = new Image();
+        img.src = data.logo;
+        img.onload = () => {
+            const MAX_WIDTH = 40;
+            const MAX_HEIGHT = 40;
+            let width = img.width;
+            let height = img.height;
 
-      setLabelStyle();
-      doc.text('BILL TO:', 105, 70);
-      setNormalStyle();
-      doc.text(data.billTo, 105, 76, { maxWidth: 80 });
-
-      if (data.shipTo) {
-        setLabelStyle();
-        doc.text('SHIP TO:', 105, 95);
-        setNormalStyle();
-        doc.text(data.shipTo, 105, 101, { maxWidth: 80 });
-      }
-
-      // Invoice Details
-      const detailsX = 196;
-      let detailsY = 45;
-      const addDetail = (label: string, value: string | undefined) => {
-        if(value) {
-            setLabelStyle();
-            doc.text(label, detailsX, detailsY, { align: 'right' });
-            detailsY += 6;
-            setNormalStyle();
-            doc.text(value, detailsX, detailsY, { align: 'right' });
-            detailsY += 8;
+            if (width > height) {
+                if (width > MAX_WIDTH) {
+                    height *= MAX_WIDTH / width;
+                    width = MAX_WIDTH;
+                }
+            } else {
+                if (height > MAX_HEIGHT) {
+                    width *= MAX_HEIGHT / height;
+                    height = MAX_HEIGHT;
+                }
+            }
+            doc.addImage(img, 'PNG', 14, 15, width, height);
+            generatePdfContent(doc, data);
         }
+      } else {
+        generatePdfContent(doc, data);
       }
-
-      addDetail('Date', format(data.date, 'PPP'));
-      addDetail('Payment Terms', data.paymentTerms);
-      if(data.dueDate) addDetail('Due Date', format(data.dueDate, 'PPP'));
-      addDetail('PO Number', data.poNumber);
-
-      // Line Items Table
-      const tableStartY = 130;
-      doc.setFillColor(34, 43, 54);
-      doc.rect(14, tableStartY, 182, 10, 'F');
-      setLabelStyle();
-      doc.setTextColor(255, 255, 255);
-      doc.text('ITEM', 20, tableStartY + 7);
-      doc.text('QTY', 125, tableStartY + 7);
-      doc.text('RATE', 145, tableStartY + 7);
-      doc.text('AMOUNT', 180, tableStartY + 7, { align: 'right' });
-      
-      setNormalStyle();
-      doc.setTextColor(0,0,0);
-      let currentY = tableStartY + 16;
-      data.lineItems.forEach(item => {
-          doc.text(item.description, 20, currentY, { maxWidth: 100 });
-          doc.text(item.quantity.toString(), 125, currentY);
-          doc.text(item.rate.toFixed(2), 145, currentY);
-          doc.text((item.quantity * item.rate).toFixed(2), 180, currentY, { align: 'right' });
-          currentY += 8;
-      });
-
-      // Totals
-      currentY = Math.max(currentY, 180);
-      const totalsX = 196;
-      const addTotalLine = (label: string, value: string) => {
-          setLabelStyle();
-          doc.text(label, totalsX - 30, currentY, { align: 'right' });
-          setNormalStyle();
-          doc.text(value, totalsX, currentY, { align: 'right' });
-          currentY += 7;
-      }
-      
-      addTotalLine('Subtotal', `${subtotal.toFixed(2)}`);
-      if (data.tax) addTotalLine(`Tax (${data.tax}%)`, `${(subtotal * (data.tax / 100)).toFixed(2)}`);
-      if (data.discount) addTotalLine('Discount', `-${data.discount.toFixed(2)}`);
-      if (data.shipping) addTotalLine('Shipping', `${data.shipping.toFixed(2)}`);
-      
-      doc.setDrawColor(221, 221, 221);
-      doc.line(150, currentY, 196, currentY);
-      currentY += 7;
-
-      setLabelStyle();
-      addTotalLine('Total', `${data.currency} ${total.toFixed(2)}`);
-      
-      if(data.amountPaid) {
-        addTotalLine('Amount Paid', `-${data.amountPaid.toFixed(2)}`);
-        currentY += 3;
-        doc.setFillColor(245, 245, 245);
-        doc.rect(150, currentY - 7, 46, 10, 'F');
-        setLabelStyle();
-        doc.text('Balance Due', totalsX - 30, currentY, { align: 'right' });
-        doc.text(`${data.currency} ${balanceDue.toFixed(2)}`, totalsX, currentY, { align: 'right' });
-      }
-      
-      // Notes and Terms
-      let bottomY = currentY + 20;
-      if (data.notes) {
-          setLabelStyle();
-          doc.text('Notes', 14, bottomY);
-          setNormalStyle();
-          doc.text(data.notes, 14, bottomY + 6, { maxWidth: 182 });
-          bottomY += 20;
-      }
-      if (data.terms) {
-          setLabelStyle();
-          doc.text('Terms', 14, bottomY);
-          setNormalStyle();
-          doc.text(data.terms, 14, bottomY + 6, { maxWidth: 182 });
-      }
-
-      doc.save(`invoice-${data.invoiceNumber}.pdf`);
-      toast({ title: 'Success', description: 'Invoice downloaded successfully.' });
     } catch (e) {
       console.error(e);
       toast({
@@ -296,6 +213,128 @@ export default function InvoiceGeneratorPage() {
       });
     }
   });
+
+  const generatePdfContent = (doc: jsPDF, data: InvoiceFormData) => {
+    const setHeaderStyle = () => doc.setFont('helvetica', 'bold').setFontSize(22);
+    const setLabelStyle = () => doc.setFont('helvetica', 'bold').setFontSize(10);
+    const setNormalStyle = () => doc.setFont('helvetica', 'normal').setFontSize(10);
+
+    setHeaderStyle();
+    doc.text('INVOICE', 196, 22, { align: 'right' });
+    setNormalStyle();
+    doc.text(`# ${data.invoiceNumber}`, 196, 28, { align: 'right' });
+    
+    setLabelStyle();
+    doc.text('FROM:', 14, 70);
+    setNormalStyle();
+    doc.text(data.from, 14, 76, { maxWidth: 80 });
+
+    setLabelStyle();
+    doc.text('BILL TO:', 105, 70);
+    setNormalStyle();
+    doc.text(data.billTo, 105, 76, { maxWidth: 80 });
+
+    if (data.shipTo) {
+      setLabelStyle();
+      doc.text('SHIP TO:', 105, 95);
+      setNormalStyle();
+      doc.text(data.shipTo, 105, 101, { maxWidth: 80 });
+    }
+
+    const detailsX = 196;
+    let detailsY = 45;
+    const addDetail = (label: string, value: string | undefined) => {
+      if(value) {
+          setLabelStyle();
+          doc.text(label, detailsX, detailsY, { align: 'right' });
+          detailsY += 6;
+          setNormalStyle();
+          doc.text(value, detailsX, detailsY, { align: 'right' });
+          detailsY += 8;
+      }
+    }
+
+    addDetail('Date', format(data.date, 'PPP'));
+    addDetail('Payment Terms', data.paymentTerms);
+    if(data.dueDate) addDetail('Due Date', format(data.dueDate, 'PPP'));
+    addDetail('PO Number', data.poNumber);
+
+    const tableStartY = 130;
+    doc.setFillColor(34, 43, 54);
+    doc.rect(14, tableStartY, 182, 10, 'F');
+    setLabelStyle();
+    doc.setTextColor(255, 255, 255);
+    doc.text('ITEM', 20, tableStartY + 7);
+    doc.text('QTY', 125, tableStartY + 7);
+    doc.text('RATE', 145, tableStartY + 7);
+    doc.text('AMOUNT', 180, tableStartY + 7, { align: 'right' });
+    
+    setNormalStyle();
+    doc.setTextColor(0,0,0);
+    let currentY = tableStartY + 16;
+    data.lineItems.forEach(item => {
+        doc.text(item.description, 20, currentY, { maxWidth: 100 });
+        doc.text(item.quantity.toString(), 125, currentY);
+        doc.text(item.rate.toFixed(2), 145, currentY);
+        doc.text((item.quantity * item.rate).toFixed(2), 180, currentY, { align: 'right' });
+        currentY += 8;
+    });
+
+    currentY = Math.max(currentY, 180);
+    const totalsX = 196;
+    const addTotalLine = (label: string, value: string) => {
+        setLabelStyle();
+        doc.text(label, totalsX - 30, currentY, { align: 'right' });
+        setNormalStyle();
+        doc.text(value, totalsX, currentY, { align: 'right' });
+        currentY += 7;
+    }
+    
+    const localSubtotal = data.lineItems.reduce((acc, i) => acc + i.quantity * i.rate, 0);
+    const localTaxAmount = localSubtotal * ((data.tax || 0) / 100);
+    const localTotal = localSubtotal + localTaxAmount - (data.discount || 0) + (data.shipping || 0);
+    const localBalanceDue = localTotal - (data.amountPaid || 0);
+    
+    addTotalLine('Subtotal', `${localSubtotal.toFixed(2)}`);
+    if (data.tax) addTotalLine(`Tax (${data.tax}%)`, `${localTaxAmount.toFixed(2)}`);
+    if (data.discount) addTotalLine('Discount', `-${data.discount.toFixed(2)}`);
+    if (data.shipping) addTotalLine('Shipping', `${data.shipping.toFixed(2)}`);
+    
+    doc.setDrawColor(221, 221, 221);
+    doc.line(150, currentY, 196, currentY);
+    currentY += 7;
+
+    setLabelStyle();
+    addTotalLine('Total', `${data.currency} ${localTotal.toFixed(2)}`);
+    
+    if(data.amountPaid) {
+      addTotalLine('Amount Paid', `-${data.amountPaid.toFixed(2)}`);
+      currentY += 3;
+      doc.setFillColor(245, 245, 245);
+      doc.rect(150, currentY - 7, 46, 10, 'F');
+      setLabelStyle();
+      doc.text('Balance Due', totalsX - 30, currentY, { align: 'right' });
+      doc.text(`${data.currency} ${localBalanceDue.toFixed(2)}`, totalsX, currentY, { align: 'right' });
+    }
+    
+    let bottomY = currentY + 20;
+    if (data.notes) {
+        setLabelStyle();
+        doc.text('Notes', 14, bottomY);
+        setNormalStyle();
+        doc.text(data.notes, 14, bottomY + 6, { maxWidth: 182 });
+        bottomY += 20;
+    }
+    if (data.terms) {
+        setLabelStyle();
+        doc.text('Terms', 14, bottomY);
+        setNormalStyle();
+        doc.text(data.terms, 14, bottomY + 6, { maxWidth: 182 });
+    }
+
+    doc.save(`invoice-${data.invoiceNumber}.pdf`);
+    toast({ title: 'Success', description: 'Invoice downloaded successfully.' });
+  }
 
   return (
     <div className="flex flex-col min-h-screen bg-secondary/40">
@@ -490,32 +529,32 @@ export default function InvoiceGeneratorPage() {
                     <div className="space-y-4">
                         <div className="flex justify-between items-center">
                             <Label>Subtotal</Label>
-                            <p>${subtotal.toFixed(2)}</p>
+                            <p>{currencySymbol}{subtotal.toFixed(2)}</p>
                         </div>
                         <div className="flex justify-between items-center">
                             <Label>Tax (%)</Label>
                             <Input type="number" {...form.register('tax', { valueAsNumber: true })} className="w-24"/>
                         </div>
                         <div className="flex justify-between items-center">
-                            <Label>Discount ($)</Label>
+                            <Label>Discount</Label>
                             <Input type="number" {...form.register('discount', { valueAsNumber: true })} className="w-24"/>
                         </div>
                         <div className="flex justify-between items-center">
-                            <Label>Shipping ($)</Label>
+                            <Label>Shipping</Label>
                             <Input type="number" {...form.register('shipping', { valueAsNumber: true })} className="w-24"/>
                         </div>
                         <hr />
                         <div className="flex justify-between items-center font-bold text-lg">
                             <Label>Total</Label>
-                            <p>${total.toFixed(2)}</p>
+                            <p>{currencySymbol}{total.toFixed(2)}</p>
                         </div>
                          <div className="flex justify-between items-center">
-                            <Label>Amount Paid ($)</Label>
+                            <Label>Amount Paid</Label>
                             <Input type="number" {...form.register('amountPaid', { valueAsNumber: true })} className="w-24"/>
                         </div>
                          <div className="flex justify-between items-center p-4 bg-secondary rounded-lg">
                             <Label className="font-bold text-lg">Balance Due</Label>
-                            <p className="font-bold text-lg">${balanceDue.toFixed(2)}</p>
+                            <p className="font-bold text-lg">{currencySymbol}{balanceDue.toFixed(2)}</p>
                         </div>
                     </div>
                   </div>
@@ -555,3 +594,5 @@ export default function InvoiceGeneratorPage() {
     </div>
   );
 }
+
+    
