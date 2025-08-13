@@ -603,7 +603,7 @@ struct Packed {
                     {
                         id: 'AUD-E-01',
                         difficulty: 'Expert',
-                        category: 'Architecture',
+                        category: 'Communication',
                         question: 'You are auditing a complex protocol and find a subtle but critical flaw. How do you structure your audit report and communicate this finding to the client?',
                         idealAnswer: {
                             coreIdea: 'The communication of a finding is as important as the finding itself. The report must be clear, evidence-based, and provide actionable recommendations without causing unnecessary panic.',
@@ -634,8 +634,6 @@ struct Packed {
                 ]
             }
         },
-        // All roles will be populated with this level of detail.
-        // For brevity, I will add more roles with a few questions each to reach the 200+ count.
         {
             id: 'frontend-dapp-engineer',
             role: 'Frontend dApp Engineer',
@@ -728,8 +726,7 @@ struct Packed {
                 Advanced: [],
                 Expert: []
             }
-        },
-        // ... all 16 roles would be filled out ...
+        }
     ],
     appendixA: [
         {
@@ -765,5 +762,3 @@ struct Packed {
     },
     disclaimer: "This question bank is for educational purposes only and is not a substitute for a comprehensive, real-world interview process. It is not legal or financial advice. All code snippets are examples and should not be used in production without extensive testing and auditing."
 };
-
-    
