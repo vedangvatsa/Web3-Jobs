@@ -1,7 +1,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, X, Newspaper, Calculator } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, X, Newspaper, Calculator, FileText } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 
@@ -9,6 +9,7 @@ export function Header() {
     const navLinks = [
         { href: "/blog", label: "Blog", icon: Newspaper },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
+        { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/community", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
