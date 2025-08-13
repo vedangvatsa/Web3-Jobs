@@ -1,6 +1,6 @@
 ---
 title: "How to Present Your Web3 Portfolio to Get Noticed"
-image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxQb3J0Zm9saW98ZW58MHx8fHwxNzU0OTUxNjI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1493612276216-ee3925520721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8cG9ydGZvbGlvfGVufDB8fHx8MTc1NTA2MjExNnww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "job interview portfolio"
 description: "A great portfolio is useless if no one sees it. This guide provides actionable tips on how to present your Web3 projects to recruiters and hiring managers to make a lasting impression."
 category: "Career Guides"
