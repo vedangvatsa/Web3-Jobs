@@ -44,12 +44,6 @@ function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
                              <h4 className="font-semibold mb-2 flex items-center gap-2 text-primary"><CircleDollarSign className="h-5 w-5"/>Minimum Income</h4>
                              <p className="text-sm text-muted-foreground">Approx. <strong>${visa.minIncome.toLocaleString()} USD</strong> per month required.</p>
                         </div>
-                        <div>
-                             <h4 className="font-semibold mb-2 flex items-center gap-2 text-primary"><LinkIcon className="h-5 w-5"/>Official Link</h4>
-                             <a href={visa.link} target="_blank" rel="noopener noreferrer" className="text-sm text-primary hover:underline break-all">
-                                Go to official application page
-                            </a>
-                        </div>
                     </div>
                 </div>
             </AccordionContent>
@@ -69,15 +63,22 @@ function getFlagEmoji(countryName: string): string {
 }
 
 const countryMap: Record<string, string> = {
-    "AL": "Albania", "AD": "Andorra", "AR": "Argentina", "AM": "Armenia",
-    "BR": "Brazil", "CO": "Colombia", "CR": "Costa Rica", "HR": "Croatia",
-    "CY": "Cyprus", "CZ": "Czech Republic", "EE": "Estonia", "GE": "Georgia",
-    "DE": "Germany", "GR": "Greece", "HU": "Hungary", "IS": "Iceland",
-    "IT": "Italy", "JP": "Japan", "LV": "Latvia", "MY": "Malaysia",
-    "MT": "Malta", "MX": "Mexico", "ME": "Montenegro", "NO": "Norway",
-    "PT": "Portugal", "RO": "Romania", "KR": "South Korea", "ES": "Spain",
-    "AE": "UAE (Dubai)",
+    "AL": "Albania", "AD": "Andorra", "AR": "Argentina", "AM": "Armenia", "AU": "Australia",
+    "AG": "Antigua and Barbuda", "AW": "Aruba", "BS": "Bahamas", "BB": "Barbados", "BZ": "Belize",
+    "BM": "Bermuda", "BR": "Brazil", "BG": "Bulgaria", "KH": "Cambodia", "CV": "Cabo Verde",
+    "KY": "Cayman Islands", "CO": "Colombia", "CR": "Costa Rica", "HR": "Croatia", "CW": "Curacao",
+    "CY": "Cyprus", "CZ": "Czech Republic", "DM": "Dominica", "EC": "Ecuador", "EG": "Egypt",
+    "SV": "El Salvador", "EE": "Estonia", "FR": "France", "GE": "Georgia", "DE": "Germany",
+    "GR": "Greece", "GD": "Grenada", "HU": "Hungary", "IS": "Iceland", "IN": "India",
+    "ID": "Indonesia", "IE": "Ireland", "IT": "Italy", "JP": "Japan", "LV": "Latvia", "MY": "Malaysia",
+    "MT": "Malta", "MU": "Mauritius", "MX": "Mexico", "ME": "Montenegro", "MS": "Montserrat", "MA": "Morocco",
+    "NA": "Namibia", "NL": "Netherlands", "NZ": "New Zealand", "MK": "North Macedonia", "NO": "Norway",
+    "PA": "Panama", "PY": "Paraguay", "PE": "Peru", "PH": "Philippines", "PL": "Poland", "PT": "Portugal",
+    "PR": "Puerto Rico", "RO": "Romania", "LC": "Saint Lucia", "RS": "Serbia", "SC": "Seychelles",
+    "ZA": "South Africa", "KR": "South Korea", "ES": "Spain", "LK": "Sri Lanka", "TW": "Taiwan",
+    "TH": "Thailand", "TR": "Turkey", "AE": "UAE (Dubai)", "UY": "Uruguay", "VN": "Vietnam"
 };
+
 
 export default function DigitalNomadVisasPage() {
     const [visas, setVisas] = React.useState<DigitalNomadVisa[]>([]);
