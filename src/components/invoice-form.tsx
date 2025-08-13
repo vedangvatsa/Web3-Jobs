@@ -327,7 +327,8 @@ export function InvoiceForm() {
       doc.setFont('helvetica', 'bold');
       doc.text(data.fromName, margin, y+=15);
       doc.setFont('helvetica', 'normal');
-      doc.splitTextToSize(data.fromAddress, (docWidth/2) - margin - 10 ).forEach(line => { doc.text(line, margin, y+=12); });
+      const fromAddressLines = doc.splitTextToSize(data.fromAddress, (docWidth/2) - margin - 20 );
+      fromAddressLines.forEach((line: string) => { doc.text(line, margin, y+=12); });
       doc.text(data.fromEmail || '', margin, y+=12);
       doc.text(data.fromPhone || '', margin, y+=12);
       
@@ -339,7 +340,8 @@ export function InvoiceForm() {
       doc.setFont('helvetica', 'bold');
       doc.text(data.toName, docWidth - margin, y+=15, { align: 'right'});
       doc.setFont('helvetica', 'normal');
-      doc.splitTextToSize(data.toAddress, (docWidth/2) - margin - 10).forEach(line => { doc.text(line, docWidth - margin, y+=12, { align: 'right'}); });
+      const toAddressLines = doc.splitTextToSize(data.toAddress, (docWidth/2) - margin - 20);
+      toAddressLines.forEach((line: string) => { doc.text(line, docWidth - margin, y+=12, { align: 'right'}); });
       doc.text(data.toEmail || '', docWidth - margin, y+=12, { align: 'right'});
       doc.text(data.toPhone || '', docWidth - margin, y+=12, { align: 'right'});
 
@@ -390,8 +392,8 @@ export function InvoiceForm() {
 
       // Totals
       const totalsX = docWidth - margin - 200;
-      const addTotalLine = (label: string, value: string, isBold = false) => {
-        doc.setFont('helvetica', isBold ? 'bold' : 'normal');
+      const addTotalLine = (label: string, value: string) => {
+        doc.setFont('helvetica', 'normal');
         doc.text(label, totalsX, y, { align: 'left'});
         doc.text(value, docWidth - margin, y, { align: 'right'});
         y += 18;
@@ -410,11 +412,12 @@ export function InvoiceForm() {
       y += 5;
       doc.setDrawColor(29, 40, 58);
       doc.line(totalsX - 10, y, docWidth - margin, y);
-      y += 5;
+      y += 10;
       
       doc.setFontSize(12);
       doc.setFont('helvetica', 'bold');
-      addTotalLine('Total:', `${localCurrencySymbol}${localTotal.toFixed(2)}`, true);
+      doc.text('Total:', totalsX, y, { align: 'left' });
+      doc.text(`${localCurrencySymbol}${localTotal.toFixed(2)}`, docWidth - margin, y, { align: 'right' });
       y += 30;
 
       // Notes & Payment Details
