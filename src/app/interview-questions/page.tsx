@@ -31,7 +31,8 @@ import {
   BookOpen
 } from 'lucide-react';
 import { interviewData, Role } from '@/lib/interview-questions';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { cn } from '@/lib/utils';
 
 const difficultyColors: { [key: string]: string } = {
   Foundation: 'bg-green-500/10 text-green-700 border-green-400/50',
