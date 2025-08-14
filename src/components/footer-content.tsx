@@ -59,7 +59,7 @@ export function FooterContent({ latestArticles }: { latestArticles: Omit<Article
           </div>
 
           <div className="md:col-span-2">
-             <h4 className="font-semibold text-foreground mb-3">Recent Articles</h4>
+             <h4 className="font-semibold text-foreground mb-3">Recent from the Playbook</h4>
              <ul className="space-y-2">
               {latestArticles.map(article => (
                 <li key={article.slug}>

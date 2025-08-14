@@ -17,6 +17,7 @@ import {
   Download,
   Link as LinkIcon,
   ArrowRight,
+  ListChecks,
 } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
@@ -145,7 +146,7 @@ export default function RemoteWorkChecklistPage() {
             doc.setFontSize(12);
             doc.setFont('helvetica', 'normal');
             doc.setTextColor(100, 116, 139); // muted-foreground
-            doc.text('Be productive, secure, and connected from anywhere. - Web3 Edition', docWidth / 2, y, { align: 'center' });
+            doc.text('A guide to optimizing your setup for productivity, security, and well-being in a Web3 career.', docWidth / 2, y, { align: 'center' });
             y += 40;
 
             checklistData.sections.forEach(section => {
@@ -200,11 +201,14 @@ export default function RemoteWorkChecklistPage() {
       <main className="flex-1">
         <div className="container mx-auto px-4 py-8 md:py-16">
           <section className="text-center mb-12 max-w-4xl mx-auto">
+             <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
+                <ListChecks className="h-10 w-10 text-primary" />
+            </div>
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
               Remote Work Readiness Checklist
             </h1>
             <p className="mt-4 text-lg text-muted-foreground">
-              Be productive, secure, and connected from anywhere. – Web3 Edition
+             Working remotely in Web3 requires a professional setup to ensure you're productive, secure, and connected. This checklist covers the key areas to prepare you for success in a distributed work environment.
             </p>
             <Button onClick={handleDownloadPdf} className="mt-6">
               <Download className="mr-2 h-4 w-4" />
