@@ -1,5 +1,5 @@
 
-import { Card, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 import Link from 'next/link';
@@ -35,7 +35,7 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
 }
 
 
-export default async function BlogIndexPage({ searchParams }: { searchParams?: { category?: string }}) {
+export default async function PlaybookIndexPage({ searchParams }: { searchParams?: { category?: string }}) {
   const allArticles = await getAllArticles();
   const categories = ['All', ...[...new Set(allArticles.map(a => a.category))].sort()];
   

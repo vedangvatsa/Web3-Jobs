@@ -13,7 +13,7 @@ import {
 
 export function Header() {
     const mainNavLinks = [
-        { href: "/blog", label: "Playbook", icon: Newspaper },
+        { href: "/playbook", label: "Playbook", icon: Newspaper },
         { href: "/community", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
@@ -35,7 +35,7 @@ export function Header() {
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
         { href: "/community", label: "Community", icon: Users },
-        { href: "/blog", label: "Playbook", icon: Newspaper },
+        { href: "/playbook", label: "Playbook", icon: Newspaper },
     ];
 
 
@@ -53,7 +53,7 @@ export function Header() {
                 
                 <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
                      <Link
-                        href="/blog"
+                        href="/playbook"
                         className="text-muted-foreground transition-colors hover:text-foreground"
                      >
                        Playbook

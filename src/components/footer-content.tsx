@@ -68,6 +68,11 @@ export function FooterContent({ latestArticles }: { latestArticles: Omit<Article
                   </Link>
                 </li>
               ))}
+                 <li>
+                    <Link href="/playbook" className="text-sm font-semibold text-primary hover:text-primary/80 transition-colors">
+                        View all &rarr;
+                    </Link>
+                 </li>
             </ul>
           </div>
 
