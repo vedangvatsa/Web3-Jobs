@@ -539,7 +539,29 @@ struct Packed {
             snapshot: 'Specializes in finding security vulnerabilities in smart contract code. Outputs are detailed audit reports. Adversarial mindset is key.',
             coreCompetencies: ['Deep EVM/Solidity Knowledge', 'Common Attack Vectors', 'Static/Dynamic Analysis', 'Formal Verification', 'Gas Optimization Exploits', 'Economic Exploit Analysis'],
             questions: {
-                Foundation: [], 
+                Foundation: [
+                     {
+                        id: 'AUD-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the primary purpose of a smart contract audit?',
+                        idealAnswer: {
+                            coreIdea: 'The primary purpose is to identify security vulnerabilities, design flaws, and potential economic exploits in smart contract code before it is deployed to production, where it will manage user funds.',
+                            keyPoints: [
+                                'It is an independent review by third-party security experts.',
+                                'It aims to find issues that developers, who have a constructive mindset, might miss.',
+                                'The output is an audit report that lists findings, their severity, and recommendations for fixes.',
+                                'A secondary purpose is to provide a signal of trust and security to potential users and investors.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking an audit is a guarantee that a contract is 100% bug-free.', 'Believing an audit is just about running automated tools.'],
+                        whyThisMatters: ['Understanding the goal of an audit is the first step to being a good auditor.', 'It sets the context for all other security-related work.'],
+                        followUps: ['What is the difference between a manual audit and using a static analysis tool?', 'What are some well-known audit firms in the space?'],
+                        redFlags: ['Stating that an audit "proves" a contract is safe.', 'Underestimating the role of manual code review.'],
+                        scoringRubric: { 1: 'Doesn\'t know.', 3: 'Says "to find bugs" without mentioning security or user funds.', 5: 'Clearly explains the goal of identifying vulnerabilities to protect user funds and build trust.' },
+                        expectedTime: '60 seconds'
+                    }
+                ], 
                 Intermediate: [
                     {
                         id: 'AUD-I-01',
@@ -687,8 +709,57 @@ struct Packed {
                         expectedTime: '120 seconds'
                     }
                 ],
-                Advanced: [],
-                Expert: []
+                Advanced: [
+                    {
+                        id: 'FE-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Architecture',
+                        question: 'How would you design a frontend to display a user\'s entire NFT collection, including images and metadata, across multiple contracts?',
+                        idealAnswer: {
+                            coreIdea: 'Reading this data on-the-fly from the chain is too slow. The correct approach is to use an indexing service API, like Reservoir, SimpleHash, or a custom-built solution with The Graph.',
+                            keyPoints: [
+                                '**The Problem:** Finding all NFTs owned by a user would require querying the `Transfer` events of every single NFT contract, which is impossible on the client side.',
+                                '**Solution Architecture:**',
+                                '1. **Data Source:** Use a specialized NFT API provider (like Reservoir, Alchemy NFT API, or SimpleHash). These services index all NFT data across the chain and provide a simple REST or GraphQL API.',
+                                '2. **API Call:** On the frontend, make a single API call to this service, passing in the user\'s address. E.g., `GET /users/{address}/tokens/v6`.',
+                                '3. **Data Transformation:** The API returns a clean JSON object containing an array of all NFTs the user owns, including the contract address, token ID, name, image URL, and attributes.',
+                                '4. **Rendering:** Map over this array in the React component to display the NFTs. Implement pagination or infinite scroll to handle large collections efficiently.',
+                                '5. **Alternative:** If a third-party API is not desirable, you would need to host your own indexer using The Graph protocol, but this is a much heavier lift.'
+                            ]
+                        },
+                        commonPitfalls: ['Proposing to query the blockchain directly.', 'Not thinking about performance issues like pagination.', 'Failing to consider where the NFT metadata (images) is hosted.'],
+                        whyThisMatters: ['Demonstrates an understanding of the practical limitations of direct blockchain queries.', 'Shows knowledge of the Web3 frontend stack beyond just Ethers.js.'],
+                        followUps: ['How would you handle broken image links or metadata that doesn\'t conform to the standard?', 'What are the pros and cons of using a centralized API provider like Reservoir vs. a decentralized one like The Graph?'],
+                        redFlags: ['Suggesting a solution that involves iterating through contracts on the client.', 'Having no awareness of indexing solutions.'],
+                        scoringRubric: { 1: 'Proposes an unworkable on-chain solution.', 3: 'Understands direct queries are bad but doesn\'t know the specific tools/APIs to use.', 5: 'Immediately identifies the need for an indexing API, names specific examples, and can discuss the data flow.'},
+                        expectedTime: '150 seconds'
+                    }
+                ],
+                Expert: [
+                     {
+                        id: 'FE-E-01',
+                        difficulty: 'Expert',
+                        category: 'Design',
+                        question: 'You are building a dApp that requires users to sign messages for off-chain actions (e.g., voting, placing orders on an off-chain order book). Describe the EIP-712 standard and explain why it is superior to signing a simple string with `personal_sign`.',
+                        idealAnswer: {
+                            coreIdea: 'EIP-712 is a standard for signing typed structured data. It is vastly superior to `personal_sign` because it presents the data to the user in a readable, structured format, preventing phishing attacks where the user is tricked into signing a malicious but unreadable hexadecimal string.',
+                            keyPoints: [
+                                '**The Problem with `personal_sign`:** It just signs a hash of a string. Wallets display this to the user as an opaque hex string, e.g., `0x...`. The user has no way of knowing what they are actually agreeing to.',
+                                '**How EIP-712 Works:**',
+                                '1. **Structured Data:** The dApp defines a data structure with named and typed fields (e.g., `domain`, `message`, `types`).',
+                                '2. **Readable in Wallet:** When `eth_signTypedData_v4` is called, wallets like MetaMask can parse this structure and display it to the user in a human-readable format (e.g., "Sign message: From: 0x123, To: 0x456, Amount: 100").',
+                                '3. **Domain Separator:** It includes a `domain` separator that ties the signature to a specific dApp, preventing a signature from being replayed and used on a different, malicious dApp.',
+                                '**Why it Matters:** It turns signing from a blind action into an informed one, dramatically improving security and user trust. It is the gold standard for off-chain message signing.'
+                            ]
+                        },
+                        commonPitfalls: ['Not knowing what EIP-712 is.', 'Thinking `personal_sign` is "good enough".', 'Failing to mention the domain separator and replay protection.'],
+                        whyThisMatters: ['This is a critical security and UX primitive for building sophisticated dApps.', 'Shows expert-level knowledge of wallet interactions and user safety.'],
+                        followUps: ['How does the backend verify an EIP-712 signature?', 'What is "blind signing" and why should it always be avoided?'],
+                        redFlags: ['Advocating for the use of `personal_sign` for structured data.', 'Being unaware of the phishing risks associated with signing opaque data.'],
+                        scoringRubric: { 1: 'Does not know what EIP-712 is.', 3: 'Understands it makes signatures more readable but cannot explain why that is important for security or mention the domain separator.', 5: 'Clearly explains the security benefits over `personal_sign`, the role of the domain separator, and the overall improvement in user experience.'},
+                        expectedTime: '180 seconds'
+                    }
+                ]
             }
         },
         {
@@ -697,7 +768,28 @@ struct Packed {
             snapshot: 'Defines the product vision and roadmap in a decentralized context. Balances user needs, technical constraints, and community governance.',
             coreCompetencies: ['User Research', 'Roadmapping', 'Tokenomics Understanding', 'Community Governance', 'Technical Literacy', 'Data Analysis'],
              questions: {
-                Foundation: [],
+                Foundation: [
+                    {
+                        id: 'PM-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is a DAO, and how does it differ from a traditional company in terms of product decision-making?',
+                        idealAnswer: {
+                            coreIdea: 'A DAO is a Decentralized Autonomous Organization, an internet-native organization owned and managed by its members. Product decisions are made collectively through a transparent governance process, not top-down by executives.',
+                            keyPoints: [
+                                '**Traditional Company:** A product manager gets roadmap approval from a small group of stakeholders (CEO, Head of Product). The process is internal and opaque.',
+                                '**DAO:** A product manager must build consensus within a global, public community. Major decisions are made via governance proposals that are debated and voted on by token holders.',
+                                'The PM\'s role shifts from a decider to a facilitator and persuader. They must be able to articulate the "why" of a feature to a diverse audience and incorporate community feedback.',
+                            ]
+                        },
+                        commonPitfalls: ['Defining a DAO in purely technical terms without understanding the social implications.', 'Underestimating the difficulty of community-led governance.'],
+                        whyThisMatters: ['This is the fundamental context shift for a Web3 PM.', 'Demonstrates understanding of the unique stakeholder environment.'],
+                        followUps: ['What are the pros and cons of DAO-based governance for product development?', 'How would you handle a situation where the community votes against a feature you strongly believe in?'],
+                        redFlags: ['Believing the PM can dictate the roadmap without community input.', 'Dismissing governance as just a formality.'],
+                        scoringRubric: { 1: 'Cannot define a DAO.', 3: 'Defines a DAO but cannot articulate how it changes the PM role.', 5: 'Clearly explains the shift from top-down decision-making to community consensus building.'},
+                        expectedTime: '90 seconds'
+                    }
+                ],
                 Intermediate: [
                     {
                         id: 'PM-I-01',
@@ -722,8 +814,60 @@ struct Packed {
                         expectedTime: '150 seconds'
                     }
                 ],
-                Advanced: [],
-                Expert: []
+                Advanced: [
+                     {
+                        id: 'PM-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Design',
+                        question: 'Your protocol is suffering from low liquidity. Design a tokenomics incentive program to attract liquidity providers. What are the risks?',
+                        idealAnswer: {
+                            coreIdea: 'The standard approach is a liquidity mining program, where Liquidity Providers (LPs) are rewarded with the protocol\'s native governance token in addition to trading fees. However, this must be designed carefully to avoid creating a "mercenary capital" problem.',
+                            keyPoints: [
+                                '**Program Design:**',
+                                '1. **Target Pools:** Identify the most critical trading pairs that need liquidity.',
+                                '2. **Emission Rate:** Allocate a certain number of tokens from the treasury to be distributed as rewards per day/week.',
+                                '3. **Vesting/Lockups (Optional but recommended):** Consider vesting or locking the emitted token rewards to encourage long-term alignment and prevent immediate selling pressure.',
+                                '**Risks:**',
+                                '1. **Inflation:** The new token emissions will inflate the supply, which can suppress the token price if not met with corresponding demand or value accrual.',
+                                '2. **Mercenary Capital:** Yield farmers will provide liquidity only to earn and immediately sell the rewards, creating constant sell pressure and leaving as soon as a better yield appears elsewhere.',
+                                '3. **Impermanent Loss:** LPs are still exposed to impermanent loss, and the token rewards must be high enough to compensate for this risk.',
+                            ]
+                        },
+                        commonPitfalls: ['Suggesting just "giving away tokens" without thinking about the economic consequences.', 'Not understanding the concept of mercenary capital.', 'Forgetting about impermanent loss.'],
+                        whyThisMatters: ['This tests the PM\'s understanding of tokenomics and incentive design, which is a core Web3 product skill.', 'Shows the ability to think about second-order effects of product decisions.'],
+                        followUps: ['How could you evolve this program to reward loyal LPs more than short-term farmers?', 'What metrics would you track on a Dune dashboard to measure the success of this program?'],
+                        redFlags: ['Being unaware of the risks of liquidity mining.', 'Proposing a plan with an unsustainably high inflation rate.'],
+                        scoringRubric: { 1: 'Cannot explain liquidity mining.', 3: 'Describes the basic concept but fails to identify the major risks like inflation and mercenary capital.', 5: 'Provides a clear plan and thoughtfully discusses the risks and potential mitigation strategies (like vesting).'},
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'PM-E-01',
+                        difficulty: 'Expert',
+                        category: 'Strategy',
+                        question: 'You are the PM for a new Layer 2 network. What is your go-to-market strategy to attract both developers and users to your ecosystem, competing against established L2s like Arbitrum and Optimism?',
+                        idealAnswer: {
+                            coreIdea: 'A successful GTM strategy requires a multi-pronged approach focusing on a unique value proposition, developer experience (DevEx), and bootstrapping a core community. Competing on fees alone is not enough.',
+                            keyPoints: [
+                                '**Phase 1: Differentiate & Build for Developers**',
+                                '1. **Technical Niche:** Define a clear technical advantage. Are we the fastest for a specific use case (e.g., gaming)? The cheapest for DeFi transactions? The most EVM-compatible ZK-rollup?',
+                                '2. **Superior DevEx:** Provide best-in-class documentation, SDKs, and tutorials. Make it incredibly easy for developers to migrate their dApps.',
+                                '3. **Grant Program:** Launch a well-funded grant program to pay high-quality developer teams to build foundational protocols (a native DEX, lending protocol, etc.) on your network. A network is useless without dApps.',
+                                '**Phase 2: Bootstrap Users & Liquidity**',
+                                '1. **Airdrop:** Design a targeted airdrop to active users of other L2s and dApps to incentivize them to bridge assets and try your network.',
+                                '2. **Liquidity Mining:** Launch a token incentive program (as discussed in PM-A-01) for the foundational DeFi protocols to attract capital and create a functional on-chain economy.',
+                                '3. **Narrative & Community:** Build a strong narrative around your niche (e.g., "The Home for On-Chain Gaming"). Foster an active, helpful community on Discord and Twitter to support new users and developers.',
+                            ]
+                        },
+                        commonPitfalls: ['Focusing only on users and not developers.', 'Suggesting a purely marketing-based approach without considering the need for a technical edge.', 'Underestimating the network effects of established L2s.'],
+                        whyThisMatters: ['This is a CEO-level question that tests strategic thinking about building a multi-sided platform.', 'It requires understanding the entire Web3 ecosystem and the flywheels of growth.'],
+                        followUps: ['How would you measure the success of your grant program?', 'How would you design the airdrop to avoid Sybil attacks (one person using many wallets)?'],
+                        redFlags: ['Having no clear plan to attract developers first.', 'Believing that a small technical improvement is enough to win without a strong go-to-market plan.'],
+                        scoringRubric: { 1: 'Suggests simple marketing like "run some ads".', 3: 'Identifies the need to attract both users and devs but provides a generic plan.', 5: 'Provides a sophisticated, phased strategy that addresses the cold-start problem by focusing on a niche, developer experience, and targeted incentives.'},
+                        expectedTime: '240 seconds'
+                    }
+                ]
             }
         }
     ],
