@@ -90,7 +90,7 @@ const caseStudies = [
   },
   {
     title: 'Founder Interview with Obortech',
-    image: 'https://images.unsplash.com/photo-1556742059-43a5c9f26832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbnRlcnZpZXd8ZW58MHx8fHwxNzU2Mzk5Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: '/images/obortechinterview.png',
     data_ai_hint: 'founder interview',
     points: [
         'LinkedIn announcement achieved 925 likes and 23,000 impressions.',
@@ -275,3 +275,5 @@ export default function CommunityPage() {
     </div>
   );
 }
+
+    
