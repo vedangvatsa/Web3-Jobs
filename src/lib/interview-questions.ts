@@ -560,6 +560,27 @@ struct Packed {
                         redFlags: ['Stating that an audit "proves" a contract is safe.', 'Underestimating the role of manual code review.'],
                         scoringRubric: { 1: 'Doesn\'t know.', 3: 'Says "to find bugs" without mentioning security or user funds.', 5: 'Clearly explains the goal of identifying vulnerabilities to protect user funds and build trust.' },
                         expectedTime: '60 seconds'
+                    },
+                    {
+                        id: 'AUD-F-02',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is a "slither" and what kind of issues can it find?',
+                        idealAnswer: {
+                            coreIdea: 'Slither is a static analysis framework for Solidity, developed by Trail of Bits. It analyzes source code without running it to find potential vulnerabilities and code quality issues.',
+                            keyPoints: [
+                                'It has a suite of pre-built "detectors" for common vulnerabilities like reentrancy, uninitialized storage pointers, and use of `tx.origin`.',
+                                'It provides a "printer" framework for outputting information about the contract, such as its inheritance graph or function summaries.',
+                                'It can be integrated into CI/CD pipelines to automatically scan code on every commit.',
+                                'It is a powerful tool but is not a substitute for manual review, as it can have false positives and cannot detect complex economic logic flaws.'
+                            ],
+                        },
+                        commonPitfalls: ['Thinking Slither is a dynamic analysis tool.', 'Believing that a "clean" Slither run means the contract is secure.'],
+                        whyThisMatters: ['It is a standard tool in every auditor\'s toolkit.', 'Knowing its capabilities and limitations is essential for an efficient audit process.'],
+                        followUps: ['Name two other static analysis tools.', 'Describe a vulnerability that Slither would likely miss.'],
+                        redFlags: ['Has never heard of Slither.', 'Confuses it with tools like Mythril (dynamic analysis) or Echidna (fuzzing).'],
+                        scoringRubric: { 1: 'Does not know what Slither is.', 3: 'Knows it\'s a security tool but is unclear on what it does or its category (static analysis).', 5: 'Clearly defines Slither, its uses, and its limitations.' },
+                        expectedTime: '90 seconds'
                     }
                 ], 
                 Intermediate: [
@@ -587,6 +608,27 @@ struct Packed {
                             5: 'Immediately identifies fee-on-transfer and rebasing as primary concerns and explains the potential issues.'
                         },
                         expectedTime: '90 seconds'
+                    },
+                    {
+                        id: 'AUD-I-02',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What is the signature replay attack and how can it be prevented?',
+                        idealAnswer: {
+                            coreIdea: 'A signature replay attack occurs when an attacker intercepts a valid, signed message and "replays" it in a different context or at a later time to trigger an unauthorized action. It is prevented using nonces and domain separators.',
+                            keyPoints: [
+                                '**Prevention Mechanisms:**',
+                                '1. **Nonce:** A per-user, incrementing number. The contract tracks each user\'s nonce. A signed message must include the user\'s current nonce. When the message is processed, the contract checks the nonce and then increments it, ensuring the same signature cannot be used again.',
+                                '2. **Domain Separator (EIP-712):** A unique hash identifying the specific contract and chain. This prevents a signature created for one dApp from being replayed on another.',
+                                '3. **Deadline/Expiry:** Including a timestamp or block number after which the signature is no longer valid.'
+                            ]
+                        },
+                        commonPitfalls: ['Only mentioning nonces without domain separators.', 'Not understanding why both are needed for full protection.'],
+                        whyThisMatters: ['This is a critical vulnerability in systems that use off-chain signatures for actions like permit-style approvals or meta-transactions.'],
+                        followUps: ['Explain EIP-2612 (Permit) and how it uses these concepts.', 'How can a user "cancel" a signature they have given out?'],
+                        redFlags: ['Not being aware of signature replay as a vulnerability.', 'Suggesting that simply checking the signature is enough.'],
+                        scoringRubric: { 1: 'Is unaware of the attack.', 3: 'Mentions nonces as a solution but cannot explain domain separators or the full context.', 5: 'Clearly explains the attack and describes multiple prevention mechanisms (nonce, EIP-712, deadline).' },
+                        expectedTime: '120 seconds'
                     }
                 ],
                 Advanced: [
@@ -618,6 +660,27 @@ struct Packed {
                             5: 'Clearly and correctly lays out the entire sandwich attack sequence and can discuss mitigation strategies.'
                         },
                         expectedTime: '180 seconds'
+                    },
+                    {
+                        id: 'AUD-A-02',
+                        difficulty: 'Advanced',
+                        category: 'Practical',
+                        question: 'What is fuzzing (or property-based testing) in the context of smart contracts? Name a tool used for it.',
+                        idealAnswer: {
+                            coreIdea: 'Fuzzing is an automated testing technique where a tool generates a large number of random inputs for a function to find edge cases that violate a defined property or cause the code to crash.',
+                            keyPoints: [
+                                'Unlike unit testing, where you provide specific inputs, fuzzing explores a much wider input space automatically.',
+                                'You define an **invariant** or **property** that should always be true (e.g., "the total supply of the token should never decrease" or "no user can withdraw more than they deposited").',
+                                'The fuzzer then calls your functions with random data for thousands or millions of iterations, trying to find a sequence of calls that breaks the invariant.',
+                                'Popular tools for this are **Echidna** (from Trail of Bits) and the built-in fuzzing capabilities of **Foundry**.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing fuzzing with static analysis or formal verification.', 'Thinking it can find all bugs.'],
+                        whyThisMatters: ['It is a powerful technique for finding subtle bugs and edge cases that are difficult to predict with manual testing.', 'Shows a commitment to deep, automated testing beyond simple unit tests.'],
+                        followUps: ['Describe a good invariant for a simple AMM contract.', 'What are the limitations of fuzzing?'],
+                        redFlags: ['Not knowing what fuzzing is.', 'Unable to name a relevant tool.'],
+                        scoringRubric: { 1: 'Does not know what fuzzing is.', 3: 'Understands it\'s about random inputs but cannot explain invariants or name a tool.', 5: 'Clearly defines property-based testing, explains how invariants work, and names Foundry or Echidna as the tool.' },
+                        expectedTime: '120 seconds'
                     }
                 ],
                 Expert: [
@@ -651,6 +714,27 @@ struct Packed {
                             5: 'Provides a professional, detailed, and empathetic approach covering both the technical report and the human communication aspect.'
                         },
                         expectedTime: '180 seconds'
+                    },
+                    {
+                        id: 'AUD-E-02',
+                        difficulty: 'Expert',
+                        category: 'Architecture',
+                        question: 'Describe how "unbounded loops" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don\'t consume transaction gas.',
+                        idealAnswer: {
+                            coreIdea: 'Even though view functions don\'t consume transaction gas when called externally, they still consume computational resources on the node processing the call. An attacker can craft a view function call with an unbounded loop that is so computationally expensive it will time out or crash the node, effectively creating a DoS attack on third-party services (like block explorers or dApp frontends) that rely on that node.',
+                            keyPoints: [
+                                'An external call to a `view` function is typically handled by a single public RPC node (e.g., from Alchemy or Infura).',
+                                'If a contract has a `view` function like `getAllOwners()` that loops through an array of unknown size, an attacker can make this array extremely large.',
+                                'When a dApp frontend or an indexing service calls this `getAllOwners()` function, the node will attempt to execute the loop. This can take an enormous amount of time and CPU, causing the request to time out.',
+                                'If many services rely on this call, the attacker can effectively make the dApp unusable for everyone by overloading the public nodes that serve its data. This is a DoS attack at the infrastructure layer, not the consensus layer.'
+                            ],
+                        },
+                        commonPitfalls: ['Thinking that since `view` calls are "free," they can\'t be a problem.', 'Focusing only on on-chain transaction gas costs.'],
+                        whyThisMatters: ['This demonstrates a sophisticated understanding of the entire Web3 stack, including the role of off-chain infrastructure like RPC nodes.', 'It shows the ability to think about attack vectors beyond direct loss of funds.'],
+                        followUps: ['What is a better pattern for retrieving a large list of items from a contract?', 'How do services like Etherscan protect themselves from this?'],
+                        redFlags: ['Insisting that `view` functions can never be part of an attack because they are gasless.', 'Having no concept of off-chain infrastructure.'],
+                        scoringRubric: { 1: 'Does not understand the question.', 3: 'Recognizes that a long loop is bad but cannot articulate the specific DoS vector against off-chain services.', 5: 'Clearly explains the DoS attack on RPC nodes and distinguishes it from a consensus-level attack.' },
+                        expectedTime: '180 seconds'
                     }
                 ]
             }
@@ -681,6 +765,30 @@ struct Packed {
                         redFlags: ['Not knowing what a provider is.'],
                         scoringRubric: { 1: 'Incorrect.', 3: 'Understands it connects to the blockchain but confuses it with a signer.', 5: 'Clearly distinguishes between provider (read) and signer (write/sign).'},
                         expectedTime: '60 seconds'
+                    },
+                    {
+                        id: 'FE-F-02',
+                        difficulty: 'Foundation',
+                        category: 'Practical',
+                        question: 'How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?',
+                        idealAnswer: {
+                            coreIdea: 'You use the `formatUnits` function (from Ethers.js or Viem) along with the token\'s `decimals` value.',
+                            keyPoints: [
+                                'ERC-20 token amounts are stored as large integers to avoid floating-point errors. You need to know the token\'s `decimals` (usually 18 for tokens like ETH or USDC, but can be different) to convert it to a human-readable format.',
+                                'You first fetch the token\'s decimals from its contract.',
+                                'Then, you use `ethers.utils.formatUnits(balance, decimals)` or `viem.formatUnits(balance, decimals)` to get a formatted string representation (e.g., "123.45").',
+                            ],
+                            example: `// Ethers.js
+import { ethers } from "ethers";
+const balance = 1000000000000000000n; // 1 ETH in wei
+const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
+                        },
+                        commonPitfalls: ['Trying to divide the BigInt by 10**18 directly in JavaScript, which can lead to precision loss.', 'Assuming all tokens have 18 decimals.'],
+                        whyThisMatters: ['Correctly handling token balances is a fundamental task for any DeFi frontend.'],
+                        followUps: ['How would you do the reverse operation (parsing units)?', 'Where do you get the `decimals` value from?'],
+                        redFlags: ['Treating the raw `uint256` balance as the display value.', 'Not being aware of the `decimals` property.'],
+                        scoringRubric: { 1: 'Does not know how to format the balance.', 3: 'Knows it needs to be divided but is unsure of the correct method or the role of decimals.', 5: 'Correctly identifies the need for `formatUnits` and the token\'s decimals value.' },
+                        expectedTime: '90 seconds'
                     }
                 ],
                 Intermediate: [
@@ -707,6 +815,27 @@ struct Packed {
                         redFlags: ['Not knowing what a nonce is or why a transaction would be stuck.'],
                         scoringRubric: { 1: 'Is unaware of stuck transactions.', 3: 'Understands the cause (low gas) but not the solution (resubmitting with same nonce).', 5: 'Clearly explains the cause, the role of the nonce, and how to implement both "Speed Up" and "Cancel" functionality.'},
                         expectedTime: '120 seconds'
+                    },
+                    {
+                        id: 'FE-I-02',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What is the purpose of a "dead-man\'s switch" in a smart contract?',
+                        idealAnswer: {
+                            coreIdea: 'A dead-man\'s switch is a mechanism that triggers an action if a specific condition is NOT met within a certain timeframe, essentially acting as a fail-safe.',
+                            keyPoints: [
+                                'It is designed to activate if the contract owner or operator becomes inactive (e.g., loses their keys).',
+                                'A common implementation involves the owner having to call a "keep-alive" function periodically.',
+                                'If the "keep-alive" function is not called before a deadline, the switch is triggered, and a secondary action, like transferring ownership to a backup address or unlocking funds for beneficiaries, is executed.',
+                                'This is useful for inheritance planning, multisig recovery, or ensuring a protocol doesn\'t become frozen if an admin key is lost.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing it with a timelock.', 'Thinking it\'s a common pattern for everyday use.'],
+                        whyThisMatters: ['Demonstrates knowledge of more advanced, safety-critical smart contract patterns.', 'Shows an understanding of the operational risks of key management.'],
+                        followUps: ['How would you implement a simple dead-man\'s switch?', 'What are the gas implications of this pattern?'],
+                        redFlags: ['Not knowing what a dead-man\'s switch is.'],
+                        scoringRubric: { 1: 'Has not heard of the concept.', 3: 'Understands the general idea of a fail-safe but cannot explain the implementation pattern.', 5: 'Clearly explains the keep-alive mechanism and provides relevant use cases.' },
+                        expectedTime: '90 seconds'
                     }
                 ],
                 Advanced: [
@@ -733,6 +862,27 @@ struct Packed {
                         redFlags: ['Suggesting a solution that involves iterating through contracts on the client.', 'Having no awareness of indexing solutions.'],
                         scoringRubric: { 1: 'Proposes an unworkable on-chain solution.', 3: 'Understands direct queries are bad but doesn\'t know the specific tools/APIs to use.', 5: 'Immediately identifies the need for an indexing API, names specific examples, and can discuss the data flow.'},
                         expectedTime: '150 seconds'
+                    },
+                    {
+                        id: 'FE-A-02',
+                        difficulty: 'Advanced',
+                        category: 'Knowledge',
+                        question: 'What is a "diamond proxy" (EIP-2535), and how does it differ from a standard transparent proxy?',
+                        idealAnswer: {
+                            coreIdea: 'A diamond proxy is an advanced upgradeable proxy pattern that allows a single proxy contract to use logic from multiple implementation contracts (called "facets").',
+                            keyPoints: [
+                                '**Standard Proxy:** A single proxy contract points to a single logic contract.',
+                                '**Diamond Proxy:** A single proxy contract can have multiple facets. When a function is called on the diamond, it looks up which facet is responsible for that function signature and `delegatecall`s to it.',
+                                'This allows for modular development where different parts of a large system can be upgraded independently.',
+                                'It also helps to overcome the 24kb contract size limit by splitting the logic across multiple implementation contracts.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing it with a simple multisig.', 'Not understanding how the function selector routing works.'],
+                        whyThisMatters: ['It is a powerful pattern for building very large, complex, and modular on-chain systems.', 'Shows knowledge of cutting-edge smart contract architecture.'],
+                        followUps: ['What are the trade-offs of using a diamond proxy in terms of gas and complexity?', 'How does the "diamond loupe" feature work?'],
+                        redFlags: ['Has never heard of the diamond standard.', 'Believing a proxy can only have one implementation.'],
+                        scoringRubric: { 1: 'Does not know what a diamond proxy is.', 3: 'Understands it allows multiple logic contracts but cannot explain how or why.', 5: 'Clearly explains the function selector lookup, modularity, and contract size benefits.' },
+                        expectedTime: '120 seconds'
                     }
                 ],
                 Expert: [
@@ -758,6 +908,27 @@ struct Packed {
                         redFlags: ['Advocating for the use of `personal_sign` for structured data.', 'Being unaware of the phishing risks associated with signing opaque data.'],
                         scoringRubric: { 1: 'Does not know what EIP-712 is.', 3: 'Understands it makes signatures more readable but cannot explain why that is important for security or mention the domain separator.', 5: 'Clearly explains the security benefits over `personal_sign`, the role of the domain separator, and the overall improvement in user experience.'},
                         expectedTime: '180 seconds'
+                    },
+                    {
+                        id: 'FE-E-02',
+                        difficulty: 'Expert',
+                        category: 'Knowledge',
+                        question: 'What is EIP-4337 (Account Abstraction) and what are the roles of the `UserOperation`, `Bundler`, and `Paymaster`?',
+                        idealAnswer: {
+                            coreIdea: 'EIP-4337 is a specification that achieves Account Abstraction without a core protocol change, enabling smart contract wallets with advanced features like gas abstraction and social recovery.',
+                            keyPoints: [
+                                'It introduces a higher-level mempool for `UserOperation` objects, which are pseudo-transaction objects.',
+                                '`UserOperation`: A struct sent by a user that describes their desired action. It gets sent to a separate mempool.',
+                                '`Bundler`: A node that bundles multiple `UserOperation`s from the mempool into a single transaction and sends it to a global `EntryPoint` contract on-chain.',
+                                '`Paymaster`: An optional smart contract that can agree to pay for a user\'s gas fees. This enables "gasless" transactions, where a dApp can sponsor its users\' transactions to improve UX.',
+                                'The goal is to make a user\'s wallet itself a smart contract, unlocking features not possible with simple EOAs (Externally Owned Accounts).'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking EIP-4337 is a change to the Ethereum consensus layer.', 'Not understanding the relationship between the bundler and the paymaster.'],
+                        whyThisMatters: ['Account Abstraction is considered the next major step in improving Web3 user experience.', 'Understanding its components is key to building next-generation dApps.'],
+                        followUps: ['How does social recovery work in a smart contract wallet?', 'What are the challenges for bundlers in terms of DoS resistance?'],
+                        redFlags: ['Not having heard of Account Abstraction or EIP-4337.', 'Confusing it with simple meta-transactions.'],
+                        scoringRubric: { 1: 'Is not aware of EIP-4337.', 3: 'Understands the high-level goal of better wallets but cannot define the specific roles.', 5: 'Clearly defines UserOperation, Bundler, and Paymaster and explains how they work together to enable gas abstraction.' }
                     }
                 ]
             }
@@ -788,6 +959,27 @@ struct Packed {
                         redFlags: ['Believing the PM can dictate the roadmap without community input.', 'Dismissing governance as just a formality.'],
                         scoringRubric: { 1: 'Cannot define a DAO.', 3: 'Defines a DAO but cannot articulate how it changes the PM role.', 5: 'Clearly explains the shift from top-down decision-making to community consensus building.'},
                         expectedTime: '90 seconds'
+                    },
+                    {
+                        id: 'PM-F-02',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is "Total Value Locked" (TVL) and why is it an important metric for a DeFi protocol?',
+                        idealAnswer: {
+                            coreIdea: 'TVL represents the total value of all assets deposited by users into a DeFi protocol\'s smart contracts. It is a key indicator of the protocol\'s adoption and perceived trust.',
+                            keyPoints: [
+                                'It measures the total capital that is currently being utilized within a protocol for activities like lending, staking, or providing liquidity.',
+                                'A higher TVL generally indicates greater user trust and a stronger network effect.',
+                                'It is often used as a primary metric to compare the market share and health of different DeFi protocols.',
+                                'However, TVL can be misleading as it can be inflated by a protocol\'s own token rewards (high yield farming incentives).'
+                            ],
+                        },
+                        commonPitfalls: ['Confusing TVL with market cap.', 'Thinking high TVL always means a protocol is safe or profitable.'],
+                        whyThisMatters: ['TVL is the most commonly cited metric in DeFi and a PM must understand what it represents and its limitations.'],
+                        followUps: ['What other metrics would you use alongside TVL to get a more complete picture of a protocol\'s health?', 'How can a protocol\'s tokenomics design artificially inflate its TVL?'],
+                        redFlags: ['Not knowing what TVL is.', 'Being unable to explain its significance.'],
+                        scoringRubric: { 1: 'Cannot define TVL.', 3: 'Knows it relates to value but is unclear on its meaning or importance.', 5: 'Clearly defines TVL, explains its role as a measure of trust, and can articulate its limitations.' },
+                        expectedTime: '90 seconds'
                     }
                 ],
                 Intermediate: [
@@ -812,6 +1004,26 @@ struct Packed {
                         redFlags: ['Describing a purely Web2-style product process.', 'Ignoring the role of the DAO and token holders.'],
                         scoringRubric: { 1: 'Does not understand the role of governance.', 3: 'Mentions needing to talk to the community but doesn\'t describe the formal proposal and voting process.', 5: 'Clearly lays out the entire governance lifecycle from temperature check to vote.'},
                         expectedTime: '150 seconds'
+                    },
+                    {
+                        id: 'PM-I-02',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What is impermanent loss and how would you explain it to a non-technical user?',
+                        idealAnswer: {
+                            coreIdea: 'Impermanent loss is the difference in value between holding two tokens in an AMM liquidity pool versus just holding them in your wallet. It happens when the price of the tokens in the pool changes.',
+                            keyPoints: [
+                                '**Simple Analogy:** "Imagine you put $50 of ETH and $50 of USDC into a pool. If the price of ETH doubles, the pool has to rebalance, so you end up with less ETH and more USDC than you started with. If you withdraw at that moment, the total value of your assets might be less than if you had just held your original ETH and USDC. This difference is the impermanent loss. It becomes a permanent loss only if you withdraw at that unfavorable time."',
+                                'It is caused by the AMM\'s algorithm always selling the token that is going up in price and buying the one that is going down to maintain a 50/50 value balance.',
+                                'Liquidity providers are compensated for this risk by earning trading fees.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking it\'s a permanent loss from the start.', 'Being unable to explain it simply.', 'Believing trading fees always outweigh impermanent loss.'],
+                        whyThisMatters: ['This is a fundamental risk in DeFi that every PM in the space must understand and be able to communicate clearly to users.'],
+                        followUps: ['What types of liquidity pools are most/least exposed to impermanent loss?', 'How do concentrated liquidity AMMs (like Uniswap V3) affect impermanent loss?'],
+                        redFlags: ['Not knowing what impermanent loss is.', 'Making the explanation overly complex and mathematical.'],
+                        scoringRubric: { 1: 'Cannot define impermanent loss.', 3: 'Understands it has to do with price changes but the explanation is confusing.', 5: 'Provides a clear, simple definition or analogy and correctly identifies that it\'s a risk compensated by fees.' },
+                        expectedTime: '120 seconds'
                     }
                 ],
                 Advanced: [
@@ -839,6 +1051,28 @@ struct Packed {
                         redFlags: ['Being unaware of the risks of liquidity mining.', 'Proposing a plan with an unsustainably high inflation rate.'],
                         scoringRubric: { 1: 'Cannot explain liquidity mining.', 3: 'Describes the basic concept but fails to identify the major risks like inflation and mercenary capital.', 5: 'Provides a clear plan and thoughtfully discusses the risks and potential mitigation strategies (like vesting).'},
                         expectedTime: '180 seconds'
+                    },
+                    {
+                        id: 'PM-A-02',
+                        difficulty: 'Advanced',
+                        category: 'Design',
+                        question: 'You are designing a new NFT marketplace. What is your strategy regarding creator royalties?',
+                        idealAnswer: {
+                            coreIdea: 'NFT royalty enforcement is a contentious issue. A successful strategy requires a clear stance and mechanisms that align incentives for creators and traders, as royalties are generally not enforceable on-chain.',
+                            keyPoints: [
+                                '**Stance:** Acknowledge that royalties are largely voluntary. The strategy should be to strongly incentivize paying them.',
+                                '**Product Features:**',
+                                '1. **Clear UI:** Prominently display the creator\'s set royalty percentage. Make paying it the default, easy option. Show collectors if they have a history of honoring royalties.',
+                                '2. **Creator Tools:** Offer tools for creators to enforce royalties via a smart contract blocklist/allowlist (e.g., OpenSea\'s Operator Filter Registry), but be transparent about the centralization tradeoffs.',
+                                '3. **Incentives:** Create a system that provides benefits to collectors who pay royalties, such as access to future airdrops, exclusive content from the creator, or a special badge on their profile.',
+                                '**Go-to-Market:** Build a brand as a creator-friendly marketplace to attract top artists, which in turn attracts collectors.'
+                            ]
+                        },
+                        commonPitfalls: ['Assuming royalties can be forced at the smart contract level for all sales.', 'Ignoring the needs and motivations of traders who seek low fees.'],
+                        whyThisMatters: ['The royalty debate is a core issue in the NFT space. A PM must have a nuanced understanding of the technical, economic, and cultural factors at play.'],
+                        followUps: ['What are the pros and cons of using an on-chain enforcement mechanism?', 'How do you compete with zero-royalty marketplaces like Blur?'],
+                        redFlags: ['Being unaware of the royalty debate.', 'Believing EIP-2981 enforces royalty payments.'],
+                        scoringRubric: { 1: 'Is unaware that royalty enforcement is an issue.', 3: 'Understands the debate but doesn\'t have a clear product strategy.', 5: 'Clearly articulates a multi-pronged strategy that considers UI, creator tools, and incentives.' }
                     }
                 ],
                 Expert: [
@@ -866,8 +1100,173 @@ struct Packed {
                         redFlags: ['Having no clear plan to attract developers first.', 'Believing that a small technical improvement is enough to win without a strong go-to-market plan.'],
                         scoringRubric: { 1: 'Suggests simple marketing like "run some ads".', 3: 'Identifies the need to attract both users and devs but provides a generic plan.', 5: 'Provides a sophisticated, phased strategy that addresses the cold-start problem by focusing on a niche, developer experience, and targeted incentives.'},
                         expectedTime: '240 seconds'
+                    },
+                    {
+                        id: 'PM-E-02',
+                        difficulty: 'Expert',
+                        category: 'Risk',
+                        question: 'Describe the "Lindy Effect" and how it applies to evaluating the risk of a DeFi protocol.',
+                        idealAnswer: {
+                            coreIdea: 'The Lindy Effect is a theory that the future life expectancy of a non-perishable thing like a technology is proportional to its current age. For DeFi, it means that the longer a protocol has been live and operating without a critical bug, the more likely it is to be secure and continue to exist in the future.',
+                            keyPoints: [
+                                'A protocol that has been live for 3+ years (e.g., Uniswap, Aave) has been battle-tested against countless potential attackers and market conditions. Its continued existence is a strong signal of its robustness.',
+                                'A new protocol, even with multiple audits, is inherently riskier because its code and economic model have not yet been proven "in the wild".',
+                                'As a PM, this means you should be more cautious when integrating with or building on top of new, unproven protocols. You should weight the "Lindy" factor heavily in your risk assessment.',
+                                'It is a heuristic for trust in a trust-minimized environment. The longer something has survived, the more implicit trust it has earned.'
+                            ],
+                        },
+                        commonPitfalls: ['Not knowing the term.', 'Dismissing it as irrelevant compared to audits.'],
+                        whyThisMatters: ['It is a key mental model used by experienced participants to assess risk in a rapidly changing ecosystem.', 'It shows a deep, nuanced understanding of how trust is built over time in Web3.'],
+                        followUps: ['Can you name a protocol that failed despite having audits, proving the Lindy Effect?', 'How does this concept conflict with the need for innovation?'],
+                        redFlags: ['Having no framework for assessing protocol risk beyond a simple audit checkmark.'],
+                        scoringRubric: { 1: 'Has not heard of the Lindy Effect.', 3: 'Understands the general concept of "older is better" but can\'t articulate it as the Lindy Effect.', 5: 'Clearly explains the Lindy Effect and applies it directly to the risk assessment of DeFi protocols.' },
+                        expectedTime: '120 seconds'
                     }
                 ]
+            }
+        },
+        {
+            id: 'community-manager',
+            role: 'Community Lead / Community Manager',
+            snapshot: 'The heart and soul of a Web3 project. Manages Discord, fosters culture, and serves as the bridge between users and the core team.',
+            coreCompetencies: ['Communication', 'Empathy', 'Crisis Management', 'Content Creation', 'Deep Project Knowledge', 'Moderation'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'on-chain-data-analyst',
+            role: 'On-chain Data Analyst',
+            snapshot: 'The on-chain detective. Uses tools like Dune Analytics to query, analyze, and visualize blockchain data to drive strategy.',
+            coreCompetencies: ['SQL Mastery', 'Data Visualization', 'Blockchain Data Structures', 'Statistical Analysis', 'Dune/Nansen Proficiency'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'defi-protocol-engineer',
+            role: 'DeFi Protocol Engineer',
+            snapshot: 'A specialized smart contract developer with deep knowledge of financial primitives and economic security. Builds complex DeFi systems.',
+            coreCompetencies: ['Advanced Solidity', 'Financial Primitives (AMMs, Lending)', 'Economic Security', 'Gas Optimization', 'Formal Verification'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'l2-rollups-engineer',
+            role: 'L2 / Rollups Engineer',
+            snapshot: 'Works on the scaling infrastructure for blockchains. Implements and optimizes rollup technology, sequencers, and bridges.',
+            coreCompetencies: ['Distributed Systems', 'Cryptography', 'Go/Rust', 'EVM Deep Knowledge', 'Protocol Design'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'zero-knowledge-engineer',
+            role: 'Zero-Knowledge Engineer',
+            snapshot: 'Works at the cutting edge of cryptography, building privacy and scaling solutions using ZK-SNARKs and ZK-STARKs.',
+            coreCompetencies: ['Advanced Cryptography', 'Circom/Cairo', 'Rust/C++', 'Mathematical Proficiency', 'ZKP Theory'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'token-economist',
+            role: 'Token Economist / Tokenomics Designer',
+            snapshot: 'Architects the economic and incentive systems of a protocol. A blend of economist, game theorist, and strategist.',
+            coreCompetencies: ['Economics', 'Game Theory', 'Mechanism Design', 'Financial Modeling', 'Behavioral Psychology'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'backend-web3-engineer',
+            role: 'Backend Web3 Engineer',
+            snapshot: 'Builds and maintains the off-chain infrastructure that supports dApps, such as indexers, APIs, and relayers.',
+            coreCompetencies: ['Node.js/Go/Rust', 'Databases (SQL/NoSQL)', 'API Design', 'Infrastructure (Docker, K8s)', 'Ethers.js/Viem'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'cryptography-engineer',
+            role: 'Cryptography Engineer',
+            snapshot: 'A highly specialized role focused on designing and implementing the cryptographic protocols that secure a blockchain.',
+            coreCompetencies: ['Applied Cryptography', 'Mathematical Proofs', 'Protocol Security', 'Low-level Programming (C++/Rust)'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'dao-operations',
+            role: 'DAO Operations / Governance',
+            snapshot: 'Manages the day-to-day functioning of a DAO. Facilitates governance, manages projects, and ensures smooth operation.',
+            coreCompetencies: ['Project Management', 'Communication', 'Governance Processes', 'Treasury Management', 'Community Facilitation'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'security-devsecops',
+            role: 'Security / DevSecOps for Web3',
+            snapshot: 'Secures the full stack of a Web3 company, from the smart contracts to the cloud infrastructure and frontend.',
+            coreCompetencies: ['Smart Contract Auditing', 'Infrastructure Security', 'CI/CD Pipelines', 'Incident Response', 'Threat Modeling'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'nft-gamefi-pm',
+            role: 'NFT / GameFi Product Manager',
+            snapshot: 'A specialized PM focused on the unique challenges of NFT collections and blockchain-based games.',
+            coreCompetencies: ['Game Design', 'Virtual Economies', 'Community Building', 'NFT Standards', 'Live-ops Management'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'legal-compliance',
+            role: 'Legal / Compliance Associate, Web3',
+            snapshot: 'Navigates the complex and evolving regulatory landscape of crypto. Advises on securities law, AML, and corporate structuring.',
+            coreCompetencies: ['Securities Law (Howey Test)', 'AML/KYC Regulations', 'DAO Legal Wrappers', 'IP Law for NFTs', 'Privacy Law'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
             }
         }
     ],
