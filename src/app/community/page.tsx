@@ -54,12 +54,12 @@ const promotedContent = [
 
 const hiredCompanies = [
     { name: 'Swell Network', src: '/logo/swell.png' },
-    { name: 'dYdX', src: '/logo/dydx.png' },
+    { name: 'Circle', src: '/logo/circle.png' },
     { name: 'Glassnode', src: '/logo/glassnode.png' },
     { name: 'LiquidX', src: '/logo/liquidx.png' },
     { name: 'Truflation', src: '/logo/truflation.png' },
     { name: 'DePHY', src: '/logo/dephy.png' },
-    { name: 'Circle', src: '/logo/circle.png' },
+    { name: 'dYdX', src: '/logo/dydx.png' },
     { name: 'Funtoken', src: '/logo/funtoken.png' },
     { name: 'LBank', src: '/logo/lbank.png' },
     { name: 'Zerion', src: '/logo/zerion.png' },
@@ -101,7 +101,7 @@ const caseStudies = [
   },
     {
     title: 'AltLayer Rollup Day',
-    image: 'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2xsdXB8ZW58MHx8fHwxNzU2Mzk5MzU0fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: '/images/altlayerrollupday.png',
     data_ai_hint: 'rollup day',
     points: [
         'LinkedIn post reached 28,000 followers with 600 likes and 50 comments.',
@@ -182,7 +182,7 @@ export default function CommunityPage() {
               {caseStudies.map(study => (
                 <Card key={study.title} className="overflow-hidden">
                    <div className="relative h-56 w-full">
-                     <Image src={study.image} alt={study.title} fill className="object-cover" data-ai-hint={study.data_ai_hint} />
+                     <Image src={study.image} alt={study.title} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
                    </div>
                    <CardHeader>
                         <CardTitle>{study.title}</CardTitle>
