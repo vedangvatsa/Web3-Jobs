@@ -565,7 +565,7 @@ struct Packed {
                         id: 'AUD-F-02',
                         difficulty: 'Foundation',
                         category: 'Knowledge',
-                        question: 'What is a "slither" and what kind of issues can it find?',
+                        question: 'What is "slither" and what kind of issues can it find?',
                         idealAnswer: {
                             coreIdea: 'Slither is a static analysis framework for Solidity, developed by Trail of Bits. It analyzes source code without running it to find potential vulnerabilities and code quality issues.',
                             keyPoints: [
@@ -960,6 +960,26 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                         redFlags: ['Answers are focused on vanity metrics like "number of Discord members".', 'Does not mention fostering a sense of ownership.'],
                         scoringRubric: { 1: 'Describes a basic social media manager role.', 3: 'Understands the community aspect but focuses on tactical tasks rather than strategic goals.', 5: 'Articulates a clear strategic vision for community as a core asset and driver of project success.' },
                         expectedTime: '90 seconds'
+                    },
+                    {
+                        id: 'CM-F-02',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is a DAO, and how does it relate to a community?',
+                        idealAnswer: {
+                            coreIdea: 'A DAO (Decentralized Autonomous Organization) is an internet-native organization where control is distributed among its members. The community IS the organization.',
+                            keyPoints: [
+                                'Unlike a traditional company, a DAO\'s rules are encoded in smart contracts on a blockchain.',
+                                'Decisions are made through proposals and voting by members, who typically hold a governance token.',
+                                'The community is not just an audience; they are the stakeholders, governors, and often the contributors who run the organization.'
+                            ]
+                        },
+                        commonPitfalls: ['Describing a DAO as just a group chat.', 'Not understanding the role of tokens in governance.'],
+                        whyThisMatters: ['Many Web3 communities are DAOs or have DAO-like properties. The CM must understand this structure.'],
+                        followUps: ['What are some challenges in DAO governance?', 'How do you encourage participation in governance?'],
+                        redFlags: ['Unable to explain decentralization or governance.', 'Thinks a DAO is the same as a Facebook group.'],
+                        scoringRubric: { 1: 'Does not know what a DAO is.', 3: 'Explains it is a decentralized group but misses the autonomous/governance aspects.', 5: 'Clearly defines DAO, mentioning smart contracts, governance, and shared ownership.' },
+                        expectedTime: '60 seconds'
                     }
                 ],
                 Intermediate: [
@@ -984,6 +1004,26 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                         redFlags: ['Suggesting to delete all negative messages.', 'Becoming defensive or argumentative with users.'],
                         scoringRubric: { 1: 'Suggests ignoring or censoring the FUD.', 3: 'Offers a reasonable but reactive plan (e.g., answer questions).', 5: 'Provides a proactive, multi-step plan that includes empathy, containment, and transparent communication.' },
                         expectedTime: '120 seconds'
+                    },
+                    {
+                        id: 'CM-I-02',
+                        difficulty: 'Intermediate',
+                        category: 'Strategy',
+                        question: 'What are three key metrics you would use to track the health of a Discord community?',
+                        idealAnswer: {
+                            coreIdea: 'Healthy communities are measured by engagement and quality of interaction, not just size. Metrics should reflect this.',
+                            keyPoints: [
+                                '1. **Active Members Ratio (DAU/MAU):** What percentage of members are active on a daily or weekly basis? A high ratio indicates a sticky, engaged community, not just a large, dormant one.',
+                                '2. **Message Quality & Sentiment:** Are conversations productive and positive? This is qualitative but can be tracked by looking at the ratio of helpful answers to questions, the complexity of topics discussed, and general sentiment.',
+                                '3. **Conversion to Contribution:** How many community members are moving up the ladder from passive lurker to active contributor (e.g., participating in governance, submitting a bounty, helping others)? This shows the community is a successful funnel for talent.'
+                            ]
+                        },
+                        commonPitfalls: ['Focusing solely on total member count.', 'Not being able to name specific engagement metrics.', 'Failing to mention qualitative aspects.'],
+                        whyThisMatters: ['Shows that the candidate thinks about community health in a sophisticated, data-informed way.'],
+                        followUps: ['What tools would you use to track these metrics?', 'How would you use these metrics to change your community strategy?'],
+                        redFlags: ['Only suggesting "number of members" as a metric.'],
+                        scoringRubric: { 1: 'Cannot name any meaningful metrics.', 3: 'Names basic metrics like member count or number of messages.', 5: 'Provides nuanced metrics that focus on engagement quality and user journey, not just vanity numbers.' },
+                        expectedTime: '90 seconds'
                     }
                 ],
                 Advanced: [
@@ -1008,6 +1048,27 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                         redFlags: ['No clear plan for identifying or rewarding contributors.', 'Thinking that community management doesn\'t need to scale.'],
                         scoringRubric: { 1: 'Has no ideas on how to scale community efforts.', 3: 'Suggests asking for volunteers but has no formal structure or incentive plan.', 5: 'Designs a clear, structured program with roles, responsibilities, and a sustainable incentive model.' },
                         expectedTime: '150 seconds'
+                    },
+                    {
+                        id: 'CM-A-02',
+                        difficulty: 'Advanced',
+                        category: 'Risk',
+                        question: 'A community member has a detailed and well-reasoned governance proposal that the core team strongly disagrees with. How do you handle this situation?',
+                        idealAnswer: {
+                            coreIdea: 'The CM must act as a neutral facilitator, ensuring the community member is heard and the process is fair, while also clearly communicating the core team\'s perspective without being dismissive.',
+                            keyPoints: [
+                                '1. **Acknowledge and Platform:** Do not shut down the conversation. Publicly acknowledge the effort put into the proposal and ensure it gets a fair hearing in the governance forum and on a community call.',
+                                '2. **Facilitate Debate:** Encourage a robust but respectful debate. Ensure both sides are arguing with data and principles, not emotion.',
+                                '3. **Present the Team\'s View:** Work with the core team to write a clear, public response explaining their reasoning for disagreeing. This response should be respectful and address the proposal\'s points directly.',
+                                '4. **Trust the Process:** Ultimately, the CM\'s role is to uphold the governance process. If the proposal goes to a vote, the CM ensures the vote is conducted fairly, regardless of the team\'s preference. The community\'s decision is final.'
+                            ]
+                        },
+                        commonPitfalls: ['Ignoring the proposal.', 'Using the team\'s influence to shut down the discussion.', 'Taking sides emotionally.'],
+                        whyThisMatters: ['This is a major test of a CM\'s ability to navigate the tension between the core team and the decentralized community.', 'It shows whether they are a "company shill" or a true community advocate and neutral facilitator.'],
+                        followUps: ['What if the proposal is malicious but cleverly disguised?', 'What happens if the community votes against the team\'s wishes? How do you manage the aftermath?'],
+                        redFlags: ['Suggesting to simply ignore or ban the user.', 'Showing an inability to remain neutral.'],
+                        scoringRubric: { 1: 'Suggests censoring the member.', 3: 'Allows the discussion but doesn\'t have a clear plan for managing the conflict.', 5: 'Provides a clear framework for facilitating a difficult conversation, respecting the community member, and upholding the integrity of the governance process.' },
+                        expectedTime: '180 seconds'
                     }
                 ],
                 Expert: [
@@ -1036,6 +1097,28 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                         redFlags: ['Unable to articulate any difference in the role based on project maturity.'],
                         scoringRubric: { 1: 'Thinks the job is the same regardless of scale.', 3: 'Understands that the community gets bigger but can\'t articulate how the CM\'s strategic focus must change.', 5: 'Clearly explains the evolution from a product-focused cultivator to a governance-focused facilitator and system-builder.' },
                         expectedTime: '180 seconds'
+                    },
+                    {
+                        id: 'CM-E-02',
+                        difficulty: 'Expert',
+                        category: 'Design',
+                        question: 'Design a framework for managing a DAO\'s treasury to fund community initiatives. How would you structure the process from idea to execution?',
+                        idealAnswer: {
+                            coreIdea: 'A robust grants framework should be structured, transparent, and empower the community to make funding decisions, while protecting the treasury from frivolous spending.',
+                            keyPoints: [
+                                '1. **Grants Committee:** Establish a grants committee, elected by the DAO, to do the initial review and vetting of proposals. This prevents full token-holder votes on every small idea.',
+                                '2. **Proposal Lifecycle:** Define a clear lifecycle: `Draft` -> `Discussion` -> `Committee Review` -> `Temperature Check (Snapshot)` -> `On-Chain Vote`.',
+                                '3. **Budgeting:** Propose a quarterly budget for the grants program that is approved by the DAO. This allocates a specific amount of the treasury for community initiatives.',
+                                '4. **Milestone-Based Payments:** For larger grants, structure payments based on the successful delivery of milestones. This reduces risk. The committee would be responsible for verifying milestone completion before releasing the next tranche of funds.',
+                                '5. **Transparency & Reporting:** All funded projects must provide regular public updates. The grants committee provides a quarterly report to the DAO on how funds were spent and the ROI of the initiatives.'
+                            ]
+                        },
+                        commonPitfalls: ['Proposing that every small grant goes to a full DAO vote.', 'Having no process for vetting proposals.', 'Not including any accountability or reporting for funded projects.'],
+                        whyThisMatters: ['Treasury management and capital allocation are the most important functions of a DAO.', 'This question tests the ability to design robust, decentralized governance processes.'],
+                        followUps: ['How do you prevent the grants committee from becoming a centralized point of failure?', 'What tools would you use to manage this process?'],
+                        redFlags: ['Suggesting a process with no accountability or oversight.', 'Failing to consider the operational burden of voting on every small grant.'],
+                        scoringRubric: { 1: 'Suggests a chaotic, unstructured process.', 3: 'Proposes a basic grant program but misses key elements like a committee or milestone payments.', 5: 'Designs a sophisticated, multi-stage governance framework that balances decentralization with efficiency and accountability.' },
+                        expectedTime: '240 seconds'
                     }
                 ]
             }
@@ -1165,6 +1248,18 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             role: 'Legal / Compliance Associate, Web3',
             snapshot: 'Navigates the complex and evolving regulatory landscape of crypto. Advises on securities law, AML, and corporate structuring.',
             coreCompetencies: ['Securities Law (Howey Test)', 'AML/KYC Regulations', 'DAO Legal Wrappers', 'IP Law for NFTs', 'Privacy Law'],
+            questions: {
+                Foundation: [],
+                Intermediate: [],
+                Advanced: [],
+                Expert: []
+            }
+        },
+        {
+            id: 'product-manager-web3',
+            role: 'Product Manager, Web3',
+            snapshot: 'Defines the what and why of a decentralized product, balancing user needs, technical constraints, and community governance.',
+            coreCompetencies: ['User Research', 'Roadmapping', 'Technical Literacy', 'Tokenomics', 'Community Communication', 'Data Analysis'],
             questions: {
                 Foundation: [],
                 Intermediate: [],
