@@ -12,8 +12,8 @@ import {
 } from "@/components/ui/dropdown-menu"
 
 export function Header() {
-    const navLinks = [
-        { href: "/blog", label: "Blog", icon: Newspaper },
+    const mainNavLinks = [
+        { href: "/blog", label: "Playbook", icon: Newspaper },
         { href: "/community", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
@@ -25,6 +25,19 @@ export function Header() {
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
     ];
+    
+    // Specific order for the mobile menu
+    const mobileNavLinks = [
+        { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
+        { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
+        { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
+        { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
+        { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
+        { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
+        { href: "/community", label: "Community", icon: Users },
+        { href: "/blog", label: "Playbook", icon: Newspaper },
+    ];
+
 
     const socialLinks = [
         { href: "https://x.com/hashtag_web3", label: "X", icon: Twitter, 'aria-label': 'Follow us on X' },
@@ -39,15 +52,12 @@ export function Header() {
                 </Link>
                 
                 <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
-                    {navLinks.slice(0,1).map((link) => ( // Blog link
-                         <Link
-                            key={link.label}
-                            href={link.href}
-                            className="text-muted-foreground transition-colors hover:text-foreground"
-                         >
-                           {link.label}
-                       </Link>
-                    ))}
+                     <Link
+                        href="/blog"
+                        className="text-muted-foreground transition-colors hover:text-foreground"
+                     >
+                       Playbook
+                   </Link>
 
                     <DropdownMenu>
                         <DropdownMenuTrigger className="flex items-center gap-1 text-muted-foreground transition-colors hover:text-foreground text-sm font-medium focus:outline-none">
@@ -65,7 +75,7 @@ export function Header() {
                         </DropdownMenuContent>
                     </DropdownMenu>
 
-                     {navLinks.slice(1).map((link) => ( // Community and Academy links
+                     {mainNavLinks.slice(1).map((link) => (
                          <Link
                             key={link.label}
                             href={link.href}
@@ -106,7 +116,7 @@ export function Header() {
                             </div>
                             <nav className="flex-grow flex flex-col p-4">
                                 <div className="flex-grow space-y-2">
-                                {[...navLinks.slice(0,1), ...resourcesLinks, ...navLinks.slice(1)].map((link) => (
+                                {mobileNavLinks.map((link) => (
                                     <SheetClose key={link.label} asChild>
                                          <Link
                                             href={link.href}
