@@ -189,7 +189,7 @@ export default function CommunityPage() {
 
           <section className="mb-16">
              <div className="max-w-4xl mx-auto">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Events Promoted</h3>
+                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
                     {promotedEvents.map((logo) => (
                         <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
