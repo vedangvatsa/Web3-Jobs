@@ -75,6 +75,8 @@ const hiredCompanies = [
     { name: 'Jaya Talent', src: '/logo/jayatalent.png' },
     { name: 'Funtoken', src: '/logo/funtoken.png' },
     { name: 'Alemx', src: '/logo/alemx.png' },
+    { name: 'Peanut', src: '/logo/peanut.png' },
+    { name: 'Trilitech', src: '/logo/trilitech.png' },
 ]
 
 const channels = [
