@@ -1,4 +1,6 @@
 
+'use client';
+
 import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -32,6 +34,14 @@ const promotedEvents = [
     { name: 'Token 2049', src: '/logo/token2049.png'},
     { name: 'Malaysia Blockchain Week', src: '/logo/malaysiablockchainweek.png'},
     { name: 'Taipei Blockchain Week', src: '/logo/taipeiblockchainweek.png'},
+    { name: 'EDCON', src: '/logo/edcon.png'},
+    { name: 'ETHBrussels', src: '/logo/ethbrussels.png'},
+    { name: 'ETHVietnam', src: '/logo/ethvietnam.png'},
+    { name: 'IEEE', src: '/logo/ieee.png'},
+    { name: 'Istanbul Blockchain Week', src: '/logo/istanbul.png'},
+    { name: 'Harvard', src: '/logo/harvard.png'},
+    { name: 'Onepiece Labs', src: '/logo/onepiece-labs.png'},
+    { name: 'PBS', src: '/logo/pbs.png'},
 ];
 
 const promotedContent = [
