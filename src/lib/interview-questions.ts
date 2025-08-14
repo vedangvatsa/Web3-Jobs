@@ -820,7 +820,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                         id: 'FE-I-02',
                         difficulty: 'Intermediate',
                         category: 'Knowledge',
-                        question: 'What is the purpose of a "dead-man\'s switch" in a smart contract?',
+                        question: 'What is a "dead-man\'s switch" in a smart contract?',
                         idealAnswer: {
                             coreIdea: 'A dead-man\'s switch is a mechanism that triggers an action if a specific condition is NOT met within a certain timeframe, essentially acting as a fail-safe.',
                             keyPoints: [
@@ -839,7 +839,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                     }
                 ],
                 Advanced: [
-                    {
+                     {
                         id: 'FE-A-01',
                         difficulty: 'Advanced',
                         category: 'Architecture',
@@ -927,200 +927,9 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                         commonPitfalls: ['Thinking EIP-4337 is a change to the Ethereum consensus layer.', 'Not understanding the relationship between the bundler and the paymaster.'],
                         whyThisMatters: ['Account Abstraction is considered the next major step in improving Web3 user experience.', 'Understanding its components is key to building next-generation dApps.'],
                         followUps: ['How does social recovery work in a smart contract wallet?', 'What are the challenges for bundlers in terms of DoS resistance?'],
-                        redFlags: ['Not having heard of Account Abstraction or EIP-4337.', 'Confusing it with simple meta-transactions.'],
-                        scoringRubric: { 1: 'Is not aware of EIP-4337.', 3: 'Understands the high-level goal of better wallets but cannot define the specific roles.', 5: 'Clearly defines UserOperation, Bundler, and Paymaster and explains how they work together to enable gas abstraction.' }
-                    }
-                ]
-            }
-        },
-        {
-            id: 'product-manager-web3',
-            role: 'Product Manager, Web3',
-            snapshot: 'Defines the product vision and roadmap in a decentralized context. Balances user needs, technical constraints, and community governance.',
-            coreCompetencies: ['User Research', 'Roadmapping', 'Tokenomics Understanding', 'Community Governance', 'Technical Literacy', 'Data Analysis'],
-             questions: {
-                Foundation: [
-                    {
-                        id: 'PM-F-01',
-                        difficulty: 'Foundation',
-                        category: 'Knowledge',
-                        question: 'What is a DAO, and how does it differ from a traditional company in terms of product decision-making?',
-                        idealAnswer: {
-                            coreIdea: 'A DAO is a Decentralized Autonomous Organization, an internet-native organization owned and managed by its members. Product decisions are made collectively through a transparent governance process, not top-down by executives.',
-                            keyPoints: [
-                                '**Traditional Company:** A product manager gets roadmap approval from a small group of stakeholders (CEO, Head of Product). The process is internal and opaque.',
-                                '**DAO:** A product manager must build consensus within a global, public community. Major decisions are made via governance proposals that are debated and voted on by token holders.',
-                                'The PM\'s role shifts from a decider to a facilitator and persuader. They must be able to articulate the "why" of a feature to a diverse audience and incorporate community feedback.',
-                            ]
-                        },
-                        commonPitfalls: ['Defining a DAO in purely technical terms without understanding the social implications.', 'Underestimating the difficulty of community-led governance.'],
-                        whyThisMatters: ['This is the fundamental context shift for a Web3 PM.', 'Demonstrates understanding of the unique stakeholder environment.'],
-                        followUps: ['What are the pros and cons of DAO-based governance for product development?', 'How would you handle a situation where the community votes against a feature you strongly believe in?'],
-                        redFlags: ['Believing the PM can dictate the roadmap without community input.', 'Dismissing governance as just a formality.'],
-                        scoringRubric: { 1: 'Cannot define a DAO.', 3: 'Defines a DAO but cannot articulate how it changes the PM role.', 5: 'Clearly explains the shift from top-down decision-making to community consensus building.'},
-                        expectedTime: '90 seconds'
-                    },
-                    {
-                        id: 'PM-F-02',
-                        difficulty: 'Foundation',
-                        category: 'Knowledge',
-                        question: 'What is "Total Value Locked" (TVL) and why is it an important metric for a DeFi protocol?',
-                        idealAnswer: {
-                            coreIdea: 'TVL represents the total value of all assets deposited by users into a DeFi protocol\'s smart contracts. It is a key indicator of the protocol\'s adoption and perceived trust.',
-                            keyPoints: [
-                                'It measures the total capital that is currently being utilized within a protocol for activities like lending, staking, or providing liquidity.',
-                                'A higher TVL generally indicates greater user trust and a stronger network effect.',
-                                'It is often used as a primary metric to compare the market share and health of different DeFi protocols.',
-                                'However, TVL can be misleading as it can be inflated by a protocol\'s own token rewards (high yield farming incentives).'
-                            ],
-                        },
-                        commonPitfalls: ['Confusing TVL with market cap.', 'Thinking high TVL always means a protocol is safe or profitable.'],
-                        whyThisMatters: ['TVL is the most commonly cited metric in DeFi and a PM must understand what it represents and its limitations.'],
-                        followUps: ['What other metrics would you use alongside TVL to get a more complete picture of a protocol\'s health?', 'How can a protocol\'s tokenomics design artificially inflate its TVL?'],
-                        redFlags: ['Not knowing what TVL is.', 'Being unable to explain its significance.'],
-                        scoringRubric: { 1: 'Cannot define TVL.', 3: 'Knows it relates to value but is unclear on its meaning or importance.', 5: 'Clearly defines TVL, explains its role as a measure of trust, and can articulate its limitations.' },
-                        expectedTime: '90 seconds'
-                    }
-                ],
-                Intermediate: [
-                    {
-                        id: 'PM-I-01',
-                        difficulty: 'Intermediate',
-                        category: 'Strategy',
-                        question: 'You want to add a new fee-generating feature to a DeFi protocol. Your developers say it\'s technically feasible. What are your next steps before starting development?',
-                        idealAnswer: {
-                            coreIdea: 'In Web3, technical feasibility is not enough. The next steps involve community buy-in and governance, as the users are also the owners.',
-                            keyPoints: [
-                                '1. **Community Temperature Check:** Draft an informal proposal and post it on the project\'s governance forum (e.g., Discourse). The goal is to gather initial feedback, address concerns, and build consensus.',
-                                '2. **Formal Proposal:** Based on the feedback, write a formal, detailed governance proposal. This should include the technical specification, the potential revenue impact, and any trade-offs.',
-                                '3. **Engage in Debate:** Actively participate in the discussion on the forum and on community calls, answering questions and defending the proposal with data.',
-                                '4. **Snapshot Vote:** If consensus seems strong, move the proposal to a formal, binding on-chain or off-chain (Snapshot) vote.',
-                                '5. **Development:** Only begin development once the proposal has been approved by the token holders (the DAO).',
-                            ]
-                        },
-                        commonPitfalls: ['Assuming the PM can just add the feature to the roadmap and start building.', 'Underestimating the importance of community consensus.'],
-                        whyThisMatters: ['This is the core difference between Web2 and Web3 product management.', 'Demonstrates an understanding that you are building *with* a community, not just *for* them.'],
-                        followUps: ['What do you do if a controversial proposal fails to pass the vote?', 'How do you balance the desires of large token holders ("whales") vs. smaller users?'],
-                        redFlags: ['Describing a purely Web2-style product process.', 'Ignoring the role of the DAO and token holders.'],
-                        scoringRubric: { 1: 'Does not understand the role of governance.', 3: 'Mentions needing to talk to the community but doesn\'t describe the formal proposal and voting process.', 5: 'Clearly lays out the entire governance lifecycle from temperature check to vote.'},
+                        redFlags: ['Not have heard of Account Abstraction or EIP-4337.', 'Confusing it with simple meta-transactions.'],
+                        scoringRubric: { 1: 'Is not aware of EIP-4337.', 3: 'Understands the high-level goal of better wallets but cannot define the specific roles.', 5: 'Clearly defines UserOperation, Bundler, and Paymaster and explains how they work together to enable gas abstraction.' },
                         expectedTime: '150 seconds'
-                    },
-                    {
-                        id: 'PM-I-02',
-                        difficulty: 'Intermediate',
-                        category: 'Knowledge',
-                        question: 'What is impermanent loss and how would you explain it to a non-technical user?',
-                        idealAnswer: {
-                            coreIdea: 'Impermanent loss is the difference in value between holding two tokens in an AMM liquidity pool versus just holding them in your wallet. It happens when the price of the tokens in the pool changes.',
-                            keyPoints: [
-                                '**Simple Analogy:** "Imagine you put $50 of ETH and $50 of USDC into a pool. If the price of ETH doubles, the pool has to rebalance, so you end up with less ETH and more USDC than you started with. If you withdraw at that moment, the total value of your assets might be less than if you had just held your original ETH and USDC. This difference is the impermanent loss. It becomes a permanent loss only if you withdraw at that unfavorable time."',
-                                'It is caused by the AMM\'s algorithm always selling the token that is going up in price and buying the one that is going down to maintain a 50/50 value balance.',
-                                'Liquidity providers are compensated for this risk by earning trading fees.'
-                            ]
-                        },
-                        commonPitfalls: ['Thinking it\'s a permanent loss from the start.', 'Being unable to explain it simply.', 'Believing trading fees always outweigh impermanent loss.'],
-                        whyThisMatters: ['This is a fundamental risk in DeFi that every PM in the space must understand and be able to communicate clearly to users.'],
-                        followUps: ['What types of liquidity pools are most/least exposed to impermanent loss?', 'How do concentrated liquidity AMMs (like Uniswap V3) affect impermanent loss?'],
-                        redFlags: ['Not knowing what impermanent loss is.', 'Making the explanation overly complex and mathematical.'],
-                        scoringRubric: { 1: 'Cannot define impermanent loss.', 3: 'Understands it has to do with price changes but the explanation is confusing.', 5: 'Provides a clear, simple definition or analogy and correctly identifies that it\'s a risk compensated by fees.' },
-                        expectedTime: '120 seconds'
-                    }
-                ],
-                Advanced: [
-                     {
-                        id: 'PM-A-01',
-                        difficulty: 'Advanced',
-                        category: 'Design',
-                        question: 'Your protocol is suffering from low liquidity. Design a tokenomics incentive program to attract liquidity providers. What are the risks?',
-                        idealAnswer: {
-                            coreIdea: 'The standard approach is a liquidity mining program, where Liquidity Providers (LPs) are rewarded with the protocol\'s native governance token in addition to trading fees. However, this must be designed carefully to avoid creating a "mercenary capital" problem.',
-                            keyPoints: [
-                                '**Program Design:**',
-                                '1. **Target Pools:** Identify the most critical trading pairs that need liquidity.',
-                                '2. **Emission Rate:** Allocate a certain number of tokens from the treasury to be distributed as rewards per day/week.',
-                                '3. **Vesting/Lockups (Optional but recommended):** Consider vesting or locking the emitted token rewards to encourage long-term alignment and prevent immediate selling pressure.',
-                                '**Risks:**',
-                                '1. **Inflation:** The new token emissions will inflate the supply, which can suppress the token price if not met with corresponding demand or value accrual.',
-                                '2. **Mercenary Capital:** Yield farmers will provide liquidity only to earn and immediately sell the rewards, creating constant sell pressure and leaving as soon as a better yield appears elsewhere.',
-                                '3. **Impermanent Loss:** LPs are still exposed to impermanent loss, and the token rewards must be high enough to compensate for this risk.',
-                            ]
-                        },
-                        commonPitfalls: ['Suggesting just "giving away tokens" without thinking about the economic consequences.', 'Not understanding the concept of mercenary capital.', 'Forgetting about impermanent loss.'],
-                        whyThisMatters: ['This tests the PM\'s understanding of tokenomics and incentive design, which is a core Web3 product skill.', 'Shows the ability to think about second-order effects of product decisions.'],
-                        followUps: ['How could you evolve this program to reward loyal LPs more than short-term farmers?', 'What metrics would you track on a Dune dashboard to measure the success of this program?'],
-                        redFlags: ['Being unaware of the risks of liquidity mining.', 'Proposing a plan with an unsustainably high inflation rate.'],
-                        scoringRubric: { 1: 'Cannot explain liquidity mining.', 3: 'Describes the basic concept but fails to identify the major risks like inflation and mercenary capital.', 5: 'Provides a clear plan and thoughtfully discusses the risks and potential mitigation strategies (like vesting).'},
-                        expectedTime: '180 seconds'
-                    },
-                    {
-                        id: 'PM-A-02',
-                        difficulty: 'Advanced',
-                        category: 'Design',
-                        question: 'You are designing a new NFT marketplace. What is your strategy regarding creator royalties?',
-                        idealAnswer: {
-                            coreIdea: 'NFT royalty enforcement is a contentious issue. A successful strategy requires a clear stance and mechanisms that align incentives for creators and traders, as royalties are generally not enforceable on-chain.',
-                            keyPoints: [
-                                '**Stance:** Acknowledge that royalties are largely voluntary. The strategy should be to strongly incentivize paying them.',
-                                '**Product Features:**',
-                                '1. **Clear UI:** Prominently display the creator\'s set royalty percentage. Make paying it the default, easy option. Show collectors if they have a history of honoring royalties.',
-                                '2. **Creator Tools:** Offer tools for creators to enforce royalties via a smart contract blocklist/allowlist (e.g., OpenSea\'s Operator Filter Registry), but be transparent about the centralization tradeoffs.',
-                                '3. **Incentives:** Create a system that provides benefits to collectors who pay royalties, such as access to future airdrops, exclusive content from the creator, or a special badge on their profile.',
-                                '**Go-to-Market:** Build a brand as a creator-friendly marketplace to attract top artists, which in turn attracts collectors.'
-                            ]
-                        },
-                        commonPitfalls: ['Assuming royalties can be forced at the smart contract level for all sales.', 'Ignoring the needs and motivations of traders who seek low fees.'],
-                        whyThisMatters: ['The royalty debate is a core issue in the NFT space. A PM must have a nuanced understanding of the technical, economic, and cultural factors at play.'],
-                        followUps: ['What are the pros and cons of using an on-chain enforcement mechanism?', 'How do you compete with zero-royalty marketplaces like Blur?'],
-                        redFlags: ['Being unaware of the royalty debate.', 'Believing EIP-2981 enforces royalty payments.'],
-                        scoringRubric: { 1: 'Is unaware that royalty enforcement is an issue.', 3: 'Understands the debate but doesn\'t have a clear product strategy.', 5: 'Clearly articulates a multi-pronged strategy that considers UI, creator tools, and incentives.' }
-                    }
-                ],
-                Expert: [
-                    {
-                        id: 'PM-E-01',
-                        difficulty: 'Expert',
-                        category: 'Strategy',
-                        question: 'You are the PM for a new Layer 2 network. What is your go-to-market strategy to attract both developers and users to your ecosystem, competing against established L2s like Arbitrum and Optimism?',
-                        idealAnswer: {
-                            coreIdea: 'A successful GTM strategy requires a multi-pronged approach focusing on a unique value proposition, developer experience (DevEx), and bootstrapping a core community. Competing on fees alone is not enough.',
-                            keyPoints: [
-                                '**Phase 1: Differentiate & Build for Developers**',
-                                '1. **Technical Niche:** Define a clear technical advantage. Are we the fastest for a specific use case (e.g., gaming)? The cheapest for DeFi transactions? The most EVM-compatible ZK-rollup?',
-                                '2. **Superior DevEx:** Provide best-in-class documentation, SDKs, and tutorials. Make it incredibly easy for developers to migrate their dApps.',
-                                '3. **Grant Program:** Launch a well-funded grant program to pay high-quality developer teams to build foundational protocols (a native DEX, lending protocol, etc.) on your network. A network is useless without dApps.',
-                                '**Phase 2: Bootstrap Users & Liquidity**',
-                                '1. **Airdrop:** Design a targeted airdrop to active users of other L2s and dApps to incentivize them to bridge assets and try your network.',
-                                '2. **Liquidity Mining:** Launch a token incentive program (as discussed in PM-A-01) for the foundational DeFi protocols to attract capital and create a functional on-chain economy.',
-                                '3. **Narrative & Community:** Build a strong narrative around your niche (e.g., "The Home for On-Chain Gaming"). Foster an active, helpful community on Discord and Twitter to support new users and developers.',
-                            ]
-                        },
-                        commonPitfalls: ['Focusing only on users and not developers.', 'Suggesting a purely marketing-based approach without considering the need for a technical edge.', 'Underestimating the network effects of established L2s.'],
-                        whyThisMatters: ['This is a CEO-level question that tests strategic thinking about building a multi-sided platform.', 'It requires understanding the entire Web3 ecosystem and the flywheels of growth.'],
-                        followUps: ['How would you measure the success of your grant program?', 'How would you design the airdrop to avoid Sybil attacks (one person using many wallets)?'],
-                        redFlags: ['Having no clear plan to attract developers first.', 'Believing that a small technical improvement is enough to win without a strong go-to-market plan.'],
-                        scoringRubric: { 1: 'Suggests simple marketing like "run some ads".', 3: 'Identifies the need to attract both users and devs but provides a generic plan.', 5: 'Provides a sophisticated, phased strategy that addresses the cold-start problem by focusing on a niche, developer experience, and targeted incentives.'},
-                        expectedTime: '240 seconds'
-                    },
-                    {
-                        id: 'PM-E-02',
-                        difficulty: 'Expert',
-                        category: 'Risk',
-                        question: 'Describe the "Lindy Effect" and how it applies to evaluating the risk of a DeFi protocol.',
-                        idealAnswer: {
-                            coreIdea: 'The Lindy Effect is a theory that the future life expectancy of a non-perishable thing like a technology is proportional to its current age. For DeFi, it means that the longer a protocol has been live and operating without a critical bug, the more likely it is to be secure and continue to exist in the future.',
-                            keyPoints: [
-                                'A protocol that has been live for 3+ years (e.g., Uniswap, Aave) has been battle-tested against countless potential attackers and market conditions. Its continued existence is a strong signal of its robustness.',
-                                'A new protocol, even with multiple audits, is inherently riskier because its code and economic model have not yet been proven "in the wild".',
-                                'As a PM, this means you should be more cautious when integrating with or building on top of new, unproven protocols. You should weight the "Lindy" factor heavily in your risk assessment.',
-                                'It is a heuristic for trust in a trust-minimized environment. The longer something has survived, the more implicit trust it has earned.'
-                            ],
-                        },
-                        commonPitfalls: ['Not knowing the term.', 'Dismissing it as irrelevant compared to audits.'],
-                        whyThisMatters: ['It is a key mental model used by experienced participants to assess risk in a rapidly changing ecosystem.', 'It shows a deep, nuanced understanding of how trust is built over time in Web3.'],
-                        followUps: ['Can you name a protocol that failed despite having audits, proving the Lindy Effect?', 'How does this concept conflict with the need for innovation?'],
-                        redFlags: ['Having no framework for assessing protocol risk beyond a simple audit checkmark.'],
-                        scoringRubric: { 1: 'Has not heard of the Lindy Effect.', 3: 'Understands the general concept of "older is better" but can\'t articulate it as the Lindy Effect.', 5: 'Clearly explains the Lindy Effect and applies it directly to the risk assessment of DeFi protocols.' },
-                        expectedTime: '120 seconds'
                     }
                 ]
             }
@@ -1131,10 +940,104 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             snapshot: 'The heart and soul of a Web3 project. Manages Discord, fosters culture, and serves as the bridge between users and the core team.',
             coreCompetencies: ['Communication', 'Empathy', 'Crisis Management', 'Content Creation', 'Deep Project Knowledge', 'Moderation'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'CM-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Strategy',
+                        question: 'What do you believe is the primary goal of a community manager in a Web3 project?',
+                        idealAnswer: {
+                            coreIdea: 'The primary goal is to foster a self-sustaining, positive, and engaged community that feels a sense of ownership, turning passive users into active contributors and advocates.',
+                            keyPoints: [
+                                'It\'s not just about answering questions or moderating chat. It\'s about cultivating a strong culture.',
+                                'Key activities include: welcoming new members, facilitating productive discussions, creating engaging content/events, and acting as the voice of the community to the core team.',
+                                'A great community provides a moat for the project that is difficult for competitors to replicate.'
+                            ]
+                        },
+                        commonPitfalls: ['Describing the role as purely social media management or customer support.', 'Focusing only on member count instead of engagement quality.'],
+                        whyThisMatters: ['This question reveals if the candidate understands the strategic importance of community in Web3, versus a more traditional marketing view.'],
+                        followUps: ['How would you measure the "health" of a community?', 'What are some projects you think have excellent communities, and why?'],
+                        redFlags: ['Answers are focused on vanity metrics like "number of Discord members".', 'Does not mention fostering a sense of ownership.'],
+                        scoringRubric: { 1: 'Describes a basic social media manager role.', 3: 'Understands the community aspect but focuses on tactical tasks rather than strategic goals.', 5: 'Articulates a clear strategic vision for community as a core asset and driver of project success.' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'CM-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Practical',
+                        question: 'The project\'s Discord server is being overwhelmed with FUD (Fear, Uncertainty, and Doubt) after a market downturn. What are your immediate steps?',
+                        idealAnswer: {
+                            coreIdea: 'The strategy is to respond with empathy, transparency, and calm leadership, while actively managing the conversation to prevent panic from spiraling.',
+                            keyPoints: [
+                                '1. **Acknowledge & Empathize:** Publicly acknowledge the market situation and the community\'s concerns. Show empathy. "We understand it\'s a tough time in the market and many of you are concerned."',
+                                '2. **Create a Dedicated Channel:** Funnel the conversation into a specific channel (e.g., `#market-discussion`) to contain the FUD and not let it dominate all channels.',
+                                '3. **Be Transparent & Visible:** Increase communication from the core team. Provide updates on development progress to show that the team is still building regardless of market price.',
+                                '4. **Host an AMA:** Schedule an impromptu AMA with the founders to address concerns directly and project confidence.',
+                                '5. **Moderate, Don\'t Censor:** Remove clear spam or personal attacks, but allow for legitimate concern and criticism. Overly aggressive censorship will backfire and make the team look like they are hiding something.'
+                            ]
+                        },
+                        commonPitfalls: ['Ignoring the FUD and hoping it goes away.', 'Banning users who express concern.', 'Making price predictions or giving financial advice.'],
+                        whyThisMatters: ['Crisis management is a core competency for a Web3 CM.', 'How a project handles downturns is a major test of its community and leadership.'],
+                        followUps: ['How do you differentiate between legitimate FUD and a coordinated attack?', 'What is your long-term strategy to build a resilient community that can withstand market volatility?'],
+                        redFlags: ['Suggesting to delete all negative messages.', 'Becoming defensive or argumentative with users.'],
+                        scoringRubric: { 1: 'Suggests ignoring or censoring the FUD.', 3: 'Offers a reasonable but reactive plan (e.g., answer questions).', 5: 'Provides a proactive, multi-step plan that includes empathy, containment, and transparent communication.' },
+                        expectedTime: '120 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'CM-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Design',
+                        question: 'Design a program to identify and empower "super-contributors" within your community to help you scale your efforts.',
+                        idealAnswer: {
+                            coreIdea: 'A successful program formalizes a path for passionate members to take on more responsibility and be rewarded for it, creating a scalable, decentralized community moderation and growth engine.',
+                            keyPoints: [
+                                '**Program Name:** "Protocol Ambassadors" or "Community Champions".',
+                                '1. **Identification:** Systematically track helpful and active members. Look for those who consistently answer questions, provide thoughtful feedback, and embody the project\'s culture.',
+                                '2. **Formal Roles & Responsibilities:** Create tiered roles (e.g., "Chat Helper", "Content Creator", "Language Moderator"). Give them specific responsibilities and the necessary permissions (e.g., Discord roles).',
+                                '3. **Incentives & Rewards:** Reward them for their contributions. This can include a mix of monthly stipends (paid in stablecoins or the native token), exclusive access to the team, special swag, or a unique NFT badge.',
+                                '4. **Communication:** Create a private Discord channel for the ambassadors to coordinate with each other and the core team.',
+                            ]
+                        },
+                        commonPitfalls: ['Relying on volunteers without any rewards, which leads to burnout.', 'Giving too much power to unvetted members too quickly.'],
+                        whyThisMatters: ['A single CM cannot scale to manage a community of thousands.', 'This demonstrates the ability to think about building decentralized, scalable systems for community management.'],
+                        followUps: ['How would you handle a situation where an ambassador becomes toxic or inactive?', 'What tools would you use to track contributor activity?'],
+                        redFlags: ['No clear plan for identifying or rewarding contributors.', 'Thinking that community management doesn\'t need to scale.'],
+                        scoringRubric: { 1: 'Has no ideas on how to scale community efforts.', 3: 'Suggests asking for volunteers but has no formal structure or incentive plan.', 5: 'Designs a clear, structured program with roles, responsibilities, and a sustainable incentive model.' },
+                        expectedTime: '150 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'CM-E-01',
+                        difficulty: 'Expert',
+                        category: 'Strategy',
+                        question: 'How does the role of a Community Manager change pre-product-market-fit versus post-product-market-fit?',
+                        idealAnswer: {
+                            coreIdea: 'The role evolves from cultivating a small group of true believers into managing a large, diverse digital nation-state, with a greater focus on scalable systems and governance.',
+                            keyPoints: [
+                                '**Pre-Product-Market Fit (Cultivating the Spark):**',
+                                '- The focus is on **quality over quantity**. The goal is to build a tight-knit community of early adopters who can provide high-quality feedback.',
+                                '- The CM is deeply involved in **product feedback**, acting as an extension of the product team.',
+                                '- The vibe is more like a **private club or research group**.',
+                                '**Post-Product-Market Fit (Managing the Nation):**',
+                                '- The focus is on **scalability**. The CM builds systems (like the ambassador program) to handle growth.',
+                                '- The role shifts more towards **facilitating governance**, helping the now large and diverse community make complex decisions.',
+                                '- The CM becomes a **public figurehead**, representing the DAO and its culture to the wider world.',
+                                '- The primary challenge becomes **maintaining the core culture** as thousands of new, less-informed users join.'
+                            ]
+                        },
+                        commonPitfalls: ['Believing the role stays the same at all stages.', 'Not understanding the shift from product feedback to governance facilitation.'],
+                        whyThisMatters: ['This is a senior-level question that tests strategic understanding of a project\'s entire lifecycle.', 'It separates candidates who are tactical operators from those who are strategic leaders.'],
+                        followUps: ['What are the biggest risks when a community scales too quickly?', 'How do you transition a community from being led by the core team to being truly community-led?'],
+                        redFlags: ['Unable to articulate any difference in the role based on project maturity.'],
+                        scoringRubric: { 1: 'Thinks the job is the same regardless of scale.', 3: 'Understands that the community gets bigger but can\'t articulate how the CM\'s strategic focus must change.', 5: 'Clearly explains the evolution from a product-focused cultivator to a governance-focused facilitator and system-builder.' },
+                        expectedTime: '180 seconds'
+                    }
+                ]
             }
         },
         {
