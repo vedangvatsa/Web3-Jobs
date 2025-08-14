@@ -1914,7 +1914,7 @@ LIMIT 100;`
                 ],
                 Expert: [
                     {
-                        id: 'ZK-E-01',
+                        id: 'BE-E-01',
                         difficulty: 'Expert',
                         category: 'Knowledge',
                         question: 'What is a "re-org" (chain reorganization) and how must a backend indexer be designed to handle it?',
@@ -2093,7 +2093,7 @@ LIMIT 100;`
                         whyThisMatters: ['Low voter turnout is a major existential risk for DAOs.', 'This question tests the candidate\'s understanding of practical governance challenges.'],
                         followUps: ['What are the pros and cons of delegation?', 'How do you balance making it easy to vote with ensuring voters are well-informed?'],
                         redFlags: ['Has no ideas for improving participation.', 'Suggests making voting mandatory.'],
-                        scoringRubric: { 1: 'Is unaware of voter apathy as a problem.', 3: 'Identifies the problem but has weak or generic solutions.', 5: 'Identifies multiple causes and proposes specific, practical solutions like delegation and Snapshot.' },
+                        scoringRubric: { 1: 'Is unaware of voter apathy as a problem.', 3: 'Identifies the problem but has weak or generic solutions.', 5: 'Provides multiple, specific, practical solutions like delegation and Snapshot.' },
                         expectedTime: '180 seconds'
                     }
                 ],
