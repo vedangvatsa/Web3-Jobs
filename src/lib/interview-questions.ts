@@ -1129,10 +1129,109 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             snapshot: 'The on-chain detective. Uses tools like Dune Analytics to query, analyze, and visualize blockchain data to drive strategy.',
             coreCompetencies: ['SQL Mastery', 'Data Visualization', 'Blockchain Data Structures', 'Statistical Analysis', 'Dune/Nansen Proficiency'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'DA-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the difference between an Externally Owned Account (EOA) and a Contract Account?',
+                        idealAnswer: {
+                            coreIdea: 'EOAs are controlled by users with private keys, while Contract Accounts are controlled by their code.',
+                            keyPoints: [
+                                'An EOA is what people typically call a "wallet" (like MetaMask). It has a private key that can sign transactions to initiate actions.',
+                                'A Contract Account is a smart contract deployed on the blockchain. It does not have a private key and can only execute code when it is called by an EOA or another contract.',
+                                'In a transaction table, you can often distinguish them because an EOA will appear in the `from` field, but a contract address might appear in the `to` field when it is being interacted with.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking contracts can start transactions on their own.'],
+                        whyThisMatters: ['This is the most fundamental distinction in Ethereum account types and is crucial for understanding transaction data.'],
+                        followUps: ['How can you identify if an address is a contract or an EOA using data?', 'What is account abstraction (EIP-4337)?'],
+                        redFlags: ['Not knowing the difference.', 'Confusing the roles of each account type.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands one is a user and one is a contract but can\'t explain the technical difference.', 5: 'Clearly explains the role of private keys and transaction initiation.' },
+                        expectedTime: '60 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'DA-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Practical',
+                        question: 'You want to calculate the Daily Active Users (DAU) for Uniswap. How would you write a SQL query in Dune to do this?',
+                        idealAnswer: {
+                            coreIdea: 'You need to query the `uniswap.transactions` table, count the distinct number of `from` addresses, and group them by day.',
+                            keyPoints: [
+                                'Use `COUNT(DISTINCT "from")` to count unique wallets.',
+                                'Cast the `block_time` to a date using `DATE_TRUNC(\'day\', block_time)`.',
+                                'Group by this truncated date.',
+                                'Order the results by date to see the trend.'
+                            ],
+                            example: `SELECT 
+    date_trunc('day', block_time) AS day,
+    count(distinct "from") AS dau
+FROM
+    uniswap_v3."transactions"
+GROUP BY
+    1
+ORDER BY
+    1 DESC
+LIMIT 100;`
+                        },
+                        commonPitfalls: ['Counting all transactions instead of distinct users (`COUNT(*)` vs `COUNT(DISTINCT ...)`).', 'Forgetting to truncate the timestamp to group by day.'],
+                        whyThisMatters: ['DAU is one of the most basic and important metrics for any protocol. This is a fundamental query for any on-chain analyst.'],
+                        followUps: ['How would you modify this to calculate Monthly Active Users (MAU)?', 'This query includes bots. How might you try to filter for "real" users?'],
+                        redFlags: ['Unable to write a basic SELECT/GROUP BY query.', 'Not knowing to use `DISTINCT`.'],
+                        scoringRubric: { 1: 'Cannot write the query.', 3: 'Writes a query that is syntactically close but logically flawed (e.g., misses `DISTINCT`).', 5: 'Writes a correct and clean query and can explain each part.' },
+                        expectedTime: '120 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'DA-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Design',
+                        question: 'What is Total Value Locked (TVL) and how is it a potentially misleading metric?',
+                        idealAnswer: {
+                            coreIdea: 'TVL measures the total value of assets deposited in a DeFi protocol, but it can be easily manipulated and does not reflect actual usage or revenue.',
+                            keyPoints: [
+                                '**What it is:** TVL represents the collateral locked in DeFi protocols. It\'s a measure of the capital base.',
+                                '**Why it\'s misleading:**',
+                                '1. **Double Counting:** A single dollar can be counted multiple times as it moves through "money lego" protocols. (e.g., Deposit ETH in Lido to get stETH, deposit stETH in Aave, borrow USDC, deposit USDC in Curve). The same initial capital is counted at each step.',
+                                '2. **Mercenary Capital:** High token incentives can attract large amounts of "mercenary" TVL that provides no real value and leaves as soon as the incentives dry up.',
+                                '3. **Doesn\'t equal Usage:** A protocol can have high TVL but very few users or transactions.',
+                                'Better metrics to look at in conjunction with TVL are **protocol revenue**, **daily active users**, and the **TVL-to-market cap ratio**.'
+                            ]
+                        },
+                        commonPitfalls: ['Taking TVL at face value as the most important metric.', 'Not understanding how assets can be rehypothecated and double-counted.'],
+                        whyThisMatters: ['Demonstrates a sophisticated understanding of DeFi metrics and the ability to think critically about data, not just report it.'],
+                        followUps: ['Which protocols do you think have a "healthier" TVL than others, and why?', 'How would you calculate protocol revenue?'],
+                        redFlags: ['Believing TVL is the ultimate measure of a protocol\'s success.', 'Unable to explain why it can be a vanity metric.'],
+                        scoringRubric: { 1: 'Does not know what TVL is.', 3: 'Can define TVL but thinks it is the most important metric.', 5: 'Clearly defines TVL and articulates multiple reasons why it is a flawed or incomplete metric.' },
+                        expectedTime: '150 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'DA-E-01',
+                        difficulty: 'Expert',
+                        category: 'Practical',
+                        question: 'How do you decode the `data` field of a transaction to identify the function that was called and its parameters?',
+                        idealAnswer: {
+                            coreIdea: 'The `data` field contains the function selector and the ABI-encoded arguments. You need the contract\'s ABI to decode it.',
+                            keyPoints: [
+                                'The first 4 bytes (8 hex characters) of the `data` field are the **function selector**. This is derived from the first 4 bytes of the Keccak-256 hash of the function\'s signature (e.g., `transfer(address,uint256)`).',
+                                'The rest of the `data` field contains the function arguments, which are **ABI-encoded**. This means they are serialized into 32-byte words.',
+                                'To decode it, you need the contract\'s ABI (Application Binary Interface), which is a JSON file describing the contract\'s functions.',
+                                'In a tool like Dune, you can use built-in functions like `erc20.parse_token_transfer` or manually match the function selector from a table of known function hashes (`ethereum.signatures`). For complex, custom functions, you might need to use off-chain tools like Python with Web3.py.'
+                            ]
+                        },
+                        commonPitfalls: ['Not knowing the `data` field is structured.', 'Thinking you can read the arguments without the ABI.'],
+                        whyThisMatters: ['This is a core skill for advanced on-chain analysis, allowing the analyst to go beyond pre-decoded tables and analyze any contract interaction.'],
+                        followUps: ['What is the difference between an indexed and non-indexed event topic?', 'How would you find all transactions that called a specific function on a contract?'],
+                        redFlags: ['Has no idea what the transaction `data` field contains.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands that it contains the function and arguments but cannot explain how to decode it.', 5: 'Clearly explains the function selector, ABI encoding, and the process of decoding using an ABI.' },
+                        expectedTime: '180 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1141,10 +1240,104 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
             snapshot: 'A specialized smart contract developer with deep knowledge of financial primitives and economic security. Builds complex DeFi systems.',
             coreCompetencies: ['Advanced Solidity', 'Financial Primitives (AMMs, Lending)', 'Economic Security', 'Gas Optimization', 'Formal Verification'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'DEFI-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is an AMM (Automated Market Maker) and how does the constant product formula (`x * y = k`) work?',
+                        idealAnswer: {
+                            coreIdea: 'An AMM is a type of decentralized exchange (DEX) that allows users to trade against a pool of tokens instead of a traditional order book. The constant product formula is the algorithm that determines the price.',
+                            keyPoints: [
+                                '`x` is the reserve of Token A, `y` is the reserve of Token B.',
+                                '`k` is a constant that must remain the same (before fees).',
+                                'When a user adds Token A to the pool (`x` increases), a proportional amount of Token B must be removed (`y` decreases) to keep `k` constant.',
+                                'The price of a token at any given moment is the ratio of the reserves (`y / x`).'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing an AMM with an order book exchange.', 'Unable to explain how a trade changes the reserves.'],
+                        whyThisMatters: ['This is the foundational concept of the most popular type of DEX, like Uniswap. It is DeFi 101.'],
+                        followUps: ['What is slippage in this context?', 'What is the role of liquidity providers?'],
+                        redFlags: ['Not knowing what an AMM is.', 'Failing to grasp the basic `x*y=k` concept.'],
+                        scoringRubric: { 1: 'Cannot explain an AMM.', 3: 'Understands it\'s a DEX but struggles with the formula.', 5: 'Clearly explains the constant product formula and its effect on token price during a swap.' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'DEFI-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What is impermanent loss and who is affected by it?',
+                        idealAnswer: {
+                            coreIdea: 'Impermanent loss is the difference in value between holding two tokens in an AMM liquidity pool versus just holding them in your wallet. It affects liquidity providers (LPs).',
+                            keyPoints: [
+                                'It occurs when the price of the tokens in the pool changes from the time you deposited them.',
+                                'The greater the price change, the larger the impermanent loss.',
+                                'The "loss" is "impermanent" because if the token prices return to their original ratio, the loss disappears. However, if you withdraw your liquidity while there is a price divergence, the loss becomes permanent.',
+                                'LPs are compensated for this risk by earning trading fees. The hope is that the fees earned will be greater than any impermanent loss incurred.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking it\'s a permanent loss from the start.', 'Believing it means you have less money in USD terms (it\'s a loss relative to HODLing).', 'Not understanding that it happens in both price directions (up or down).'],
+                        whyThisMatters: ['It is the primary financial risk that liquidity providers face.', 'A DeFi engineer must understand the risks their users are taking on.'],
+                        followUps: ['How do concentrated liquidity AMMs (like Uniswap V3) affect impermanent loss?', 'What are some strategies to mitigate impermanent loss?'],
+                        redFlags: ['Confusing it with simple investment loss.', 'Being unable to explain who it affects.'],
+                        scoringRubric: { 1: 'Has not heard of it.', 3: 'Knows it affects LPs but cannot explain why or how it happens.', 5: 'Clearly defines IL as a loss relative to HODLing and explains its relationship to price divergence and trading fees.' },
+                        expectedTime: '120 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'DEFI-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Risk',
+                        question: 'Describe how a flash loan works and how it can be used to attack a protocol.',
+                        idealAnswer: {
+                            coreIdea: 'A flash loan is an uncollateralized loan that must be borrowed and repaid within the same blockchain transaction. They are a powerful tool for arbitrage but also for exploiting economic vulnerabilities in protocols.',
+                            keyPoints: [
+                                '**How it works:** Protocols like Aave allow anyone to borrow massive amounts of capital with zero collateral, under the condition that it is returned by the end of the transaction. If it\'s not returned, the entire transaction reverts.',
+                                '**Attack Vector:** An attacker can use this massive, temporary capital to manipulate markets and exploit vulnerable protocols.',
+                                '**Example (Oracle Manipulation):**',
+                                '1. Attacker borrows $1M USDC via a flash loan.',
+                                '2. They use the $1M USDC to buy a low-liquidity token on a DEX, causing its price to spike.',
+                                '3. They use that now artificially-inflated token as collateral on a lending protocol with a weak oracle.',
+                                '4. They borrow a different asset against this collateral.',
+                                '5. They repay the $1M USDC flash loan, all in one atomic transaction. They are left with a profit from the asset they borrowed.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking a flash loan can last longer than one transaction.', 'Not understanding that atomicity is what makes it risk-free for the lender.'],
+                        whyThisMatters: ['Flash loans are a unique DeFi primitive and the primary tool used in many major economic exploits.', 'Engineers must design protocols that are resistant to flash loan-based attacks.'],
+                        followUps: ['Are flash loans inherently bad?', 'What are some "good" use cases for flash loans? (e.g., arbitrage, collateral swapping)'],
+                        redFlags: ['Not knowing what a flash loan is.', 'Unable to construct a plausible attack scenario.'],
+                        scoringRubric: { 1: 'Does not know what a flash loan is.', 3: 'Understands it\'s a quick loan but can\'t explain the attack vector or atomicity.', 5: 'Clearly explains the concept of atomicity and provides a detailed example of a flash loan-based exploit.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'DEFI-E-01',
+                        difficulty: 'Expert',
+                        category: 'Design',
+                        question: 'You are designing a new lending protocol. What are the pros and cons of using an isolated lending model vs. a shared pool model?',
+                        idealAnswer: {
+                            coreIdea: 'The choice between isolated lending and a shared pool model is a fundamental design trade-off between capital efficiency and risk contagion.',
+                            keyPoints: [
+                                '**Shared Pool Model (e.g., Aave, Compound):**',
+                                '- **Pros:** High capital efficiency. All deposited assets are in one big pool and can be used as collateral to borrow any other asset.',
+                                '- **Cons:** High risk contagion. If one low-quality asset in the pool becomes insolvent or is exploited, it can drain the entire protocol and cause losses for all lenders, even those who didn\'t interact with the risky asset.',
+                                '**Isolated Lending Model (e.g., Silo, Euler):**',
+                                '- **Pros:** Risk is isolated. Each lending market is a distinct pair (e.g., ETH-USDC). A bad debt event in one pool does not affect any other pool. This allows the protocol to list riskier, long-tail assets without endangering the entire system.',
+                                '- **Cons:** Lower capital efficiency. Liquidity is fragmented across many pools. A user cannot use their collateral from one pool to borrow an asset from a different pool.'
+                            ]
+                        },
+                        commonPitfalls: ['Only being familiar with the shared pool model.', 'Not understanding the risk contagion aspect of shared pools.'],
+                        whyThisMatters: ['This is a core architectural decision for any lending protocol.', 'It shows a deep understanding of DeFi risk management and protocol design trade-offs.'],
+                        followUps: ['How could you design a hybrid system that gets some of the benefits of both?', 'What kind of assets are better suited for an isolated lending model?'],
+                        redFlags: ['Being unaware that different lending models exist.', 'Unable to articulate the trade-offs between capital efficiency and risk.'],
+                        scoringRubric: { 1: 'Is only aware of one model.', 3: 'Can describe both models but struggles to explain the pros and cons.', 5: 'Clearly articulates the capital efficiency vs. risk contagion trade-off and can name examples of each.' },
+                        expectedTime: '240 seconds'
+                    }
+                ]
             }
         },
         {
