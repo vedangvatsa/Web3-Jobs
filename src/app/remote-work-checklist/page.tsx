@@ -208,7 +208,7 @@ export default function RemoteWorkChecklistPage() {
               Remote Work Readiness Checklist
             </h1>
             <p className="mt-4 text-lg text-muted-foreground">
-             Working remotely in Web3 requires a professional setup to ensure you're productive, secure, and connected. This checklist covers the key areas to prepare you for success in a distributed work environment.
+             Working remotely in Web3 requires a professional setup to ensure you're productive, secure, and connected. This comprehensive checklist covers the key areas to prepare you for success in a distributed work environment. Tick off each item as you go, and download the list as a PDF to keep handy.
             </p>
             <Button onClick={handleDownloadPdf} className="mt-6">
               <Download className="mr-2 h-4 w-4" />

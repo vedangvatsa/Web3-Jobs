@@ -2,7 +2,7 @@
 import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Newspaper, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare } from 'lucide-react';
+import { Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Newspaper, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare, Send } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 
@@ -252,19 +252,9 @@ export default function CommunityPage() {
              <h2 className="text-3xl font-bold text-primary mb-2">Connect with our representative</h2>
              <p className="text-muted-foreground mb-8">Share your requirements, and we’ll recommend the most effective strategy.</p>
              <div className="flex justify-center gap-4">
-                <a href="https://x.com/hashtag_web3" target="_blank" rel="noopener noreferrer">
-                    <Button variant="outline" size="lg">
-                        <Twitter className="mr-2 h-5 w-5"/> X (Twitter)
-                    </Button>
-                </a>
-                 <a href="mailto:hi@hashtagweb3.com">
-                    <Button variant="outline" size="lg">
-                         <Mail className="mr-2 h-5 w-5"/> Email
-                    </Button>
-                </a>
-                 <a href="https://linkedin.com/company/hashtagweb3" target="_blank" rel="noopener noreferrer">
-                    <Button variant="outline" size="lg">
-                         <Linkedin className="mr-2 h-5 w-5"/> LinkedIn
+                <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
+                    <Button size="lg">
+                        <Send className="mr-2 h-5 w-5"/> Contact on Telegram
                     </Button>
                 </a>
              </div>
