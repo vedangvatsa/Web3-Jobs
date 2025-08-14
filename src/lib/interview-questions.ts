@@ -619,7 +619,7 @@ struct Packed {
                             keyPoints: [
                                 '**Prevention Mechanisms:**',
                                 '1. **Nonce:** A per-user, incrementing number. The contract tracks each user\'s nonce. A signed message must include the user\'s current nonce. When the message is processed, the contract checks the nonce and then increments it, ensuring the same signature cannot be used again.',
-                                '2. **Domain Separator (EIP-712):** A unique hash identifying the specific contract and chain. This prevents a signature created for one dApp from being replayed on another.',
+                                '2. **Domain Separator (EIP-712):** A unique hash identifying the specific contract and chain. This prevents a signature created for one dApp from being replayed on a different, malicious one.',
                                 '3. **Deadline/Expiry:** Including a timestamp or block number after which the signature is no longer valid.'
                             ]
                         },
@@ -1064,7 +1064,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                             ]
                         },
                         commonPitfalls: ['Ignoring the proposal.', 'Using the team\'s influence to shut down the discussion.', 'Taking sides emotionally.'],
-                        whyThisMatters: ['This is a major test of a CM\'s ability to navigate the tension between the core team and the decentralized community.', 'It shows whether they are a "company shill" or a true community advocate and neutral facilitator.'],
+                        whyThisMatters: ['This is a major test of a CM\'s ability to navigate the tension between the core team and the decentralized community.', 'It shows whether they are a "company shill" or a true community advocate and a neutral facilitator.'],
                         followUps: ['What if the proposal is malicious but cleverly disguised?', 'What happens if the community votes against the team\'s wishes? How do you manage the aftermath?'],
                         redFlags: ['Suggesting to simply ignore or ban the user.', 'Showing an inability to remain neutral.'],
                         scoringRubric: { 1: 'Suggests censoring the member.', 3: 'Allows the discussion but doesn\'t have a clear plan for managing the conflict.', 5: 'Provides a clear framework for facilitating a difficult conversation, respecting the community member, and upholding the integrity of the governance process.' },
@@ -1149,6 +1149,27 @@ const formattedBalance = ethers.formatUnits(balance, 18); // "1.0"`
                         redFlags: ['Not knowing the difference.', 'Confusing the roles of each account type.'],
                         scoringRubric: { 1: 'Does not know.', 3: 'Understands one is a user and one is a contract but can\'t explain the technical difference.', 5: 'Clearly explains the role of private keys and transaction initiation.' },
                         expectedTime: '60 seconds'
+                    },
+                    {
+                        id: 'DA-F-02',
+                        difficulty: 'Foundation',
+                        category: 'Practical',
+                        question: 'What are the core tables you would query in Dune Analytics to analyze ERC-721 (NFT) transfer activity?',
+                        idealAnswer: {
+                            coreIdea: 'You would primarily use the `erc721.evt_Transfer` table, and potentially join it with `prices.usd` to get USD values.',
+                            keyPoints: [
+                                '`erc721.evt_Transfer`: This table contains a row for every ERC-721 `Transfer` event emitted on the blockchain.',
+                                'Key columns include: `contract_address`, `from`, `to`, `tokenId`, and `evt_block_time`.',
+                                'To analyze sales, you would often need to join this with a marketplace-specific table, like `opensea.trades`, to get the sale price.',
+                                '`prices.usd`: This table can be used to convert any crypto price (like ETH) to USD at the time of the transaction.'
+                            ]
+                        },
+                        commonPitfalls: ['Looking for a single "nft_sales" table that doesn\'t exist in the raw data.', 'Not understanding that transfers are events.'],
+                        whyThisMatters: ['Shows a practical understanding of how on-chain data is structured in major analytics platforms.'],
+                        followUps: ['How would you differentiate a sale from a simple wallet-to-wallet transfer?'],
+                        redFlags: ['Does not know that on-chain activity is analyzed by looking at events.'],
+                        scoringRubric: { 1: 'Does not know where to start.', 3: 'Knows to look for "transfers" but is unsure of the specific tables or structure.', 5: 'Correctly identifies `erc721.evt_Transfer` and can describe its key columns and how to use them.' },
+                        expectedTime: '90 seconds'
                     }
                 ],
                 Intermediate: [
@@ -1182,6 +1203,29 @@ LIMIT 100;`
                         redFlags: ['Unable to write a basic SELECT/GROUP BY query.', 'Not knowing to use `DISTINCT`.'],
                         scoringRubric: { 1: 'Cannot write the query.', 3: 'Writes a query that is syntactically close but logically flawed (e.g., misses `DISTINCT`).', 5: 'Writes a correct and clean query and can explain each part.' },
                         expectedTime: '120 seconds'
+                    },
+                    {
+                        id: 'DA-I-02',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What is a "sybil attack" in the context of airdrops, and how can on-chain data be used to detect it?',
+                        idealAnswer: {
+                            coreIdea: 'A sybil attack is when a single entity creates a large number of fake wallets to farm an airdrop multiple times. On-chain data can be used to find patterns that suggest these wallets are all controlled by the same person.',
+                            keyPoints: [
+                                'The goal of the attacker is to get a disproportionate share of the token allocation.',
+                                '**Detection techniques using on-chain data:**',
+                                '- **Funding Source:** All the wallets were funded from the same central wallet around the same time.',
+                                '- **Activity Patterns:** All wallets perform the exact same sequence of actions to qualify for the airdrop.',
+                                '- **Withdrawal Pattern:** After the airdrop, all wallets send their tokens to the same central deposit address (e.g., on an exchange).',
+                                '- **Graph Analysis:** Using graph analysis to visualize the flow of funds can make these clustered relationships obvious.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking it\'s impossible to detect.', 'Only focusing on the funding source.'],
+                        whyThisMatters: ['Airdrop farming and sybil attacks are a major problem for projects.', 'This demonstrates the candidate\'s ability to think like a detective and use data to uncover non-obvious behavior.'],
+                        followUps: ['What are some ways a sophisticated sybil attacker might try to hide their tracks?', 'If you identify a cluster of sybil wallets, what would you recommend the project do?'],
+                        redFlags: ['Being unaware of sybil attacks.', 'Having no ideas on how to detect them using data.'],
+                        scoringRubric: { 1: 'Is unaware of the concept.', 3: 'Can define a sybil attack but has limited ideas on detection.', 5: 'Clearly defines the attack and provides multiple, concrete data-driven methods for identifying sybil clusters.' },
+                        expectedTime: '150 seconds'
                     }
                 ],
                 Advanced: [
@@ -1207,6 +1251,27 @@ LIMIT 100;`
                         redFlags: ['Believing TVL is the ultimate measure of a protocol\'s success.', 'Unable to explain why it can be a vanity metric.'],
                         scoringRubric: { 1: 'Does not know what TVL is.', 3: 'Can define TVL but thinks it is the most important metric.', 5: 'Clearly defines TVL and articulates multiple reasons why it is a flawed or incomplete metric.' },
                         expectedTime: '150 seconds'
+                    },
+                    {
+                        id: 'DA-A-02',
+                        difficulty: 'Advanced',
+                        category: 'Knowledge',
+                        question: 'Explain what a "trace" is in blockchain data and how it differs from a simple transaction.',
+                        idealAnswer: {
+                            coreIdea: 'A trace provides a detailed, step-by-step execution path of a transaction, including all internal calls between contracts. A simple transaction record only shows the top-level `from` and `to` addresses.',
+                            keyPoints: [
+                                'A single transaction can trigger a cascade of internal calls. For example, a user calls a yield aggregator contract, which then calls a Uniswap contract, which then calls a token contract.',
+                                'The standard transaction receipt only shows the user calling the aggregator.',
+                                'Traces (or internal transactions) expose this entire call stack, showing every contract interaction and value transfer that happened "inside" the top-level transaction.',
+                                'Analyzing traces is essential for understanding complex DeFi interactions, MEV, or debugging contract logic.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing traces with event logs.', 'Not understanding the concept of internal calls.'],
+                        whyThisMatters: ['This is an advanced data concept. The ability to work with traces separates junior from senior on-chain analysts.'],
+                        followUps: ['What kind of analysis would require traces instead of just event logs?', 'What tools or nodes are required to get access to full trace data? (e.g., Erigon, Parity-Tracer)'],
+                        redFlags: ['Does not know what a trace or internal transaction is.'],
+                        scoringRubric: { 1: 'Is unaware of traces.', 3: 'Understands it shows "more detail" but cannot articulate the concept of internal calls.', 5: 'Clearly explains the difference between a transaction and a trace and provides a concrete example of a complex DeFi interaction.' },
+                        expectedTime: '180 seconds'
                     }
                 ],
                 Expert: [
@@ -1230,6 +1295,33 @@ LIMIT 100;`
                         redFlags: ['Has no idea what the transaction `data` field contains.'],
                         scoringRubric: { 1: 'Does not know.', 3: 'Understands that it contains the function and arguments but cannot explain how to decode it.', 5: 'Clearly explains the function selector, ABI encoding, and the process of decoding using an ABI.' },
                         expectedTime: '180 seconds'
+                    },
+                    {
+                        id: 'DA-E-02',
+                        difficulty: 'Expert',
+                        category: 'Strategy',
+                        question: 'A protocol wants to measure "user stickiness" or retention. Design a cohort analysis to show this. What would be your x-axis, y-axis, and key insight?',
+                        idealAnswer: {
+                            coreIdea: 'A cohort analysis groups users by when they first interacted with the protocol and then tracks their activity over subsequent weeks or months. This is the best way to measure true retention.',
+                            keyPoints: [
+                                '**Query Design:**',
+                                '1. First, create a CTE (Common Table Expression) to find the first transaction date for every user (`MIN(block_time)` grouped by `from`). This defines their cohort (e.g., "January 2024 Cohort").',
+                                '2. Join this back to the main transaction table.',
+                                '3. Calculate the time difference between each subsequent transaction and their first transaction date to determine activity in Week 1, Week 2, etc.',
+                                '4. Pivot the data to create the cohort chart.',
+                                '**Chart:**',
+                                '- **X-axis:** Time since first interaction (Week 0, Week 1, Week 2...).',
+                                '- **Y-axis:** Retention Rate % ( (Active users in Week N from cohort) / (Total users in cohort) ).',
+                                '- **Series:** Each line on the chart would represent a different cohort (e.g., Jan, Feb, Mar).',
+                                '**Key Insight:** We can see if product changes are improving retention over time. For example, if the March cohort has a higher Week 4 retention than the January cohort, it suggests recent changes are making the product stickier.'
+                            ]
+                        },
+                        commonPitfalls: ['Proposing a simple DAU chart, which doesn\'t show retention.', 'Struggling with the SQL logic needed for cohorting.'],
+                        whyThisMatters: ['This is a standard but powerful analysis from Web2 that is highly applicable to Web3. It shows the candidate can go beyond simple vanity metrics to measure what really matters: whether users are sticking around.'],
+                        followUps: ['What defines an "active" user for this protocol?', 'How might a large airdrop skew the results of this analysis?'],
+                        redFlags: ['Does not know what a cohort analysis is.', 'Cannot explain how to group users by their join date.'],
+                        scoringRubric: { 1: 'Cannot explain cohort analysis.', 3: 'Understands the concept but struggles to articulate how to implement it in SQL.', 5: 'Clearly and correctly describes the entire process from data querying to chart design and how to interpret the results.' },
+                        expectedTime: '240 seconds'
                     }
                 ]
             }
@@ -1261,6 +1353,27 @@ LIMIT 100;`
                         redFlags: ['Not knowing what an AMM is.', 'Failing to grasp the basic `x*y=k` concept.'],
                         scoringRubric: { 1: 'Cannot explain an AMM.', 3: 'Understands it\'s a DEX but struggles with the formula.', 5: 'Clearly explains the constant product formula and its effect on token price during a swap.' },
                         expectedTime: '90 seconds'
+                    },
+                    {
+                        id: 'DEFI-F-02',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is Total Value Locked (TVL)?',
+                        idealAnswer: {
+                            coreIdea: 'TVL represents the total value of all assets deposited by users into a DeFi protocol. It\'s a key metric used to gauge the size and adoption of a protocol.',
+                            keyPoints: [
+                                'Assets can include tokens deposited for lending, liquidity provision in an AMM, or collateral for minting stablecoins.',
+                                'It is typically measured in USD.',
+                                'A higher TVL generally indicates greater trust and usage of the protocol.',
+                                'However, it can be a vanity metric if the capital is "mercenary" and only there for high temporary rewards.'
+                            ],
+                        },
+                        commonPitfalls: ['Confusing TVL with market cap or trading volume.'],
+                        whyThisMatters: ['TVL is the most commonly cited metric for the overall health of the DeFi ecosystem and individual protocols.'],
+                        followUps: ['Why might TVL be a misleading metric?', 'Where would you go to find the TVL for various protocols? (e.g., DeFiLlama)'],
+                        redFlags: ['Does not know what TVL stands for or what it represents.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Can define it but is unclear on what assets it includes.', 5: 'Clearly defines TVL and can also mention its limitations as a metric.' },
+                        expectedTime: '60 seconds'
                     }
                 ],
                 Intermediate: [
@@ -1284,6 +1397,28 @@ LIMIT 100;`
                         redFlags: ['Confusing it with simple investment loss.', 'Being unable to explain who it affects.'],
                         scoringRubric: { 1: 'Has not heard of it.', 3: 'Knows it affects LPs but cannot explain why or how it happens.', 5: 'Clearly defines IL as a loss relative to HODLing and explains its relationship to price divergence and trading fees.' },
                         expectedTime: '120 seconds'
+                    },
+                    {
+                        id: 'DEFI-I-02',
+                        difficulty: 'Intermediate',
+                        category: 'Design',
+                        question: 'You are designing a lending protocol. Why is it critical to use a reliable price oracle? What are the risks of using a single, on-chain source like a Uniswap pool for price data?',
+                        idealAnswer: {
+                            coreIdea: 'Price oracles are critical for lending protocols to determine the value of collateral and check if loans are under-collateralized and need to be liquidated. Using a manipulatable price source is a major security risk.',
+                            keyPoints: [
+                                '**Why it\'s critical:** The protocol must know the real-time USD value of collateral to maintain solvency. If it undervalues collateral, it can\'t issue loans. If it overvalues collateral, it will issue loans that are actually under-collateralized, leading to bad debt.',
+                                '**Risks of a single DEX pool oracle:**',
+                                '1. **Price Manipulation:** An attacker can use a flash loan to execute a huge trade on the DEX pool, momentarily spiking the price of the collateral asset.',
+                                '2. **Attack:** The attacker then uses the artificially-inflated asset as collateral to borrow a large amount of another asset from the lending protocol and absconds with the funds, leaving the protocol with worthless collateral.',
+                                '**Better solution:** Use a decentralized oracle network like Chainlink, which aggregates prices from dozens of off-chain and on-chain sources, making it resistant to manipulation from a single source.'
+                            ]
+                        },
+                        commonPitfalls: ['Not understanding the link between collateral value and protocol solvency.', 'Thinking that a DEX price is always the "true" price.'],
+                        whyThisMatters: ['Oracle manipulation is one of the most common and costly attack vectors in DeFi history.'],
+                        followUps: ['What is a TWAP oracle and how does it try to solve this problem?', 'What are the trade-offs of using Chainlink vs an on-chain oracle?'],
+                        redFlags: ['Not seeing the risk in using a single DEX as a price source.', 'Unable to explain what an oracle is.'],
+                        scoringRubric: { 1: 'Does not understand the role of oracles.', 3: 'Knows oracles are for prices but cannot explain the manipulation risk.', 5: 'Clearly explains the risk of price manipulation via flash loans and recommends a robust solution like Chainlink.' },
+                        expectedTime: '150 seconds'
                     }
                 ],
                 Advanced: [
@@ -1311,6 +1446,27 @@ LIMIT 100;`
                         redFlags: ['Not knowing what a flash loan is.', 'Unable to construct a plausible attack scenario.'],
                         scoringRubric: { 1: 'Does not know what a flash loan is.', 3: 'Understands it\'s a quick loan but can\'t explain the attack vector or atomicity.', 5: 'Clearly explains the concept of atomicity and provides a detailed example of a flash loan-based exploit.' },
                         expectedTime: '180 seconds'
+                    },
+                    {
+                        id: 'DEFI-A-02',
+                        difficulty: 'Advanced',
+                        category: 'Design',
+                        question: 'Explain the architecture of a concentrated liquidity AMM like Uniswap V3. How does it improve capital efficiency?',
+                        idealAnswer: {
+                            coreIdea: 'Uniswap V3 allows liquidity providers to "concentrate" their capital within specific price ranges, rather than providing it across the entire price curve from zero to infinity. This dramatically improves capital efficiency.',
+                            keyPoints: [
+                                '**The Problem with V2:** In a standard `x*y=k` AMM, most of the liquidity sits unused because the assets trade within a relatively narrow price band. The capital that supports prices from $0.01 to $0.50 for an asset trading at $100 is essentially wasted.',
+                                '**V3 Solution:** LPs can choose a specific price range to provide liquidity for (e.g., for ETH-USDC, provide liquidity only between $3000 and $4000).',
+                                '**Capital Efficiency:** This means the same amount of capital can support a much larger volume of trades within that range, leading to higher fee earnings for LPs.',
+                                '**Trade-offs:** If the price moves outside an LP\'s chosen range, their position becomes inactive and stops earning fees. It also makes impermanent loss more pronounced.'
+                            ]
+                        },
+                        commonPitfalls: ['Not understanding the concept of providing liquidity across an infinite price curve in V2.', 'Confusing concentrated liquidity with a traditional order book.'],
+                        whyThisMatters: ['Concentrated liquidity was a major innovation in DeFi and is the current industry standard for AMMs.', 'Shows a deep understanding of modern DeFi architecture.'],
+                        followUps: ['How does this affect impermanent loss for LPs?', 'What are the challenges of building a market making strategy on Uniswap V3?'],
+                        redFlags: ['Unable to explain the difference between V2 and V3 liquidity provisioning.', 'Not understanding the concept of capital efficiency.'],
+                        scoringRubric: { 1: 'Does not know the difference between V2 and V3.', 3: 'Understands the concept of price ranges but struggles to explain why it improves capital efficiency.', 5: 'Clearly explains the inefficiency of the infinite price curve and how V3 solves it, while also noting the trade-offs.' },
+                        expectedTime: '180 seconds'
                     }
                 ],
                 Expert: [
@@ -1327,7 +1483,7 @@ LIMIT 100;`
                                 '- **Cons:** High risk contagion. If one low-quality asset in the pool becomes insolvent or is exploited, it can drain the entire protocol and cause losses for all lenders, even those who didn\'t interact with the risky asset.',
                                 '**Isolated Lending Model (e.g., Silo, Euler):**',
                                 '- **Pros:** Risk is isolated. Each lending market is a distinct pair (e.g., ETH-USDC). A bad debt event in one pool does not affect any other pool. This allows the protocol to list riskier, long-tail assets without endangering the entire system.',
-                                '- **Cons:** Lower capital efficiency. Liquidity is fragmented across many pools. A user cannot use their collateral from one pool to borrow an asset from a different pool.'
+                                '- **Cons:** Lower capital efficiency. Liquidity is fragmented across many pools. A user cannot use their collateral from one pool to borrow an asset from a a different pool.'
                             ]
                         },
                         commonPitfalls: ['Only being familiar with the shared pool model.', 'Not understanding the risk contagion aspect of shared pools.'],
@@ -1336,6 +1492,27 @@ LIMIT 100;`
                         redFlags: ['Being unaware that different lending models exist.', 'Unable to articulate the trade-offs between capital efficiency and risk.'],
                         scoringRubric: { 1: 'Is only aware of one model.', 3: 'Can describe both models but struggles to explain the pros and cons.', 5: 'Clearly articulates the capital efficiency vs. risk contagion trade-off and can name examples of each.' },
                         expectedTime: '240 seconds'
+                    },
+                    {
+                        id: 'DEFI-E-02',
+                        difficulty: 'Expert',
+                        category: 'Knowledge',
+                        question: 'What is a Liquid Staking Derivative (LSD) and what role does it play in DeFi?',
+                        idealAnswer: {
+                            coreIdea: 'An LSD is a token that represents ETH that has been staked in the Ethereum Proof-of-Stake consensus mechanism. It allows stakers to get liquidity on their staked ETH, which would otherwise be locked.',
+                            keyPoints: [
+                                '**The Problem:** Staking ETH directly requires locking it up, making it illiquid and unable to be used in DeFi.',
+                                '**The Solution (e.g., Lido, Rocket Pool):** Users deposit ETH into a liquid staking protocol and receive a derivative token in return (e.g., stETH from Lido).',
+                                '**DeFi Integration:** This stETH token is a standard ERC-20 that can be traded, used as collateral in lending protocols, or used for yield farming, all while still earning the underlying ETH staking rewards.',
+                                '**Role in DeFi:** LSDs have become a foundational "money lego". They massively increase the capital efficiency of the entire ecosystem by allowing staked assets to be productive in DeFi.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing liquid staking with simple staking.', 'Not understanding why it improves capital efficiency.'],
+                        whyThisMatters: ['LSDs are one of the largest and most important sectors in all of DeFi. Understanding them is critical for any senior DeFi engineer.'],
+                        followUps: ['What are the centralization risks associated with a dominant LSD provider like Lido?', 'How does the peg of an LSD like stETH to ETH be maintained? What happens if it de-pegs?'],
+                        redFlags: ['Not knowing what an LSD is.', 'Unable to explain its purpose.'],
+                        scoringRubric: { 1: 'Does not know what an LSD is.', 3: 'Understands it\'s related to staking but can\'t explain the liquidity or capital efficiency aspects.', 5: 'Clearly defines LSDs, explains their role as a DeFi primitive, and can discuss the risks and benefits.' },
+                        expectedTime: '180 seconds'
                     }
                 ]
             }
@@ -1346,10 +1523,101 @@ LIMIT 100;`
             snapshot: 'Works on the scaling infrastructure for blockchains. Implements and optimizes rollup technology, sequencers, and bridges.',
             coreCompetencies: ['Distributed Systems', 'Cryptography', 'Go/Rust', 'EVM Deep Knowledge', 'Protocol Design'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'L2-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the primary goal of a Layer 2 (L2) scaling solution?',
+                        idealAnswer: {
+                            coreIdea: 'The primary goal is to increase the transaction throughput (scalability) and reduce the transaction costs of a Layer 1 blockchain like Ethereum, without sacrificing its security or decentralization.',
+                            keyPoints: [
+                                'L2s achieve this by processing transactions off-chain in a separate execution environment.',
+                                'They then bundle or "roll up" many transactions into a single batch and post a compressed version of this data back to the L1.',
+                                'The L1 is only responsible for data availability and security, while the L2 handles the expensive computation.',
+                            ]
+                        },
+                        commonPitfalls: ['Thinking L2s are entirely separate blockchains.', 'Not understanding that L2s inherit their security from the L1.'],
+                        whyThisMatters: ['This is the fundamental "why" behind the entire L2 ecosystem.'],
+                        followUps: ['What is the "blockchain trilemma" and how do L2s attempt to solve it?', 'Name two major L2s on Ethereum.'],
+                        redFlags: ['Does not know what an L2 is.', 'Confuses L2s with sidechains.'],
+                        scoringRubric: { 1: 'Incorrect.', 3: 'Knows L2s are for scaling but can\'t explain how.', 5: 'Clearly explains the off-chain execution model and inheriting security from L1.' },
+                        expectedTime: '60 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'L2-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What is the key difference between an Optimistic Rollup and a ZK-Rollup?',
+                        idealAnswer: {
+                            coreIdea: 'The key difference is their security model and how they prove the validity of off-chain transactions to the L1. Optimistic Rollups use fraud proofs (innocent until proven guilty), while ZK-Rollups use validity proofs (guilty until proven innocent).',
+                            keyPoints: [
+                                '**Optimistic Rollups (e.g., Arbitrum, Optimism):** Assume all transactions are valid by default. There is a "challenge period" (e.g., 7 days) where anyone can submit a "fraud proof" to challenge a transaction. If the proof is valid, the fraudulent transaction is reverted.',
+                                '**ZK-Rollups (e.g., zkSync, Polygon zkEVM):** Proactively generate a cryptographic "validity proof" (a SNARK or STARK) for every batch of transactions. This proof mathematically guarantees that all transactions are valid. The L1 just needs to verify this single, small proof.',
+                                '**Main Trade-off:** Optimistic rollups have a long withdrawal period (the 7-day challenge window), while ZK-rollup withdrawals are nearly instant. However, ZK-rollups are more computationally intensive and technologically complex.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing fraud proofs with validity proofs.', 'Not understanding the implication for withdrawal times.'],
+                        whyThisMatters: ['This is the most important distinction in the L2 space and defines the major architectural trade-offs.'],
+                        followUps: ['Why would a project choose to build on an Optimistic Rollup today, given the advantages of ZK-Rollups?', 'What is a "sequencer" in the context of a rollup?'],
+                        redFlags: ['Cannot differentiate between the two.', 'Believing both have the same security model.'],
+                        scoringRubric: { 1: 'Does not know the difference.', 3: 'Can name them but struggles to explain the proof mechanisms.', 5: 'Clearly explains the fraud proof vs. validity proof models and their trade-offs regarding withdrawal times and complexity.' },
+                        expectedTime: '150 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'L2-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Architecture',
+                        question: 'What is a "sequencer" in a rollup, and what are the centralization concerns associated with it?',
+                        idealAnswer: {
+                            coreIdea: 'A sequencer is the node responsible for ordering transactions, creating blocks on the L2, and posting the compressed data to the L1. In most current rollups, the sequencer is a single, centralized entity run by the rollup team, which introduces risks.',
+                            keyPoints: [
+                                '**Responsibilities:** Transaction ordering, block production, posting to L1.',
+                                '**Centralization Risks:**',
+                                '1. **Censorship:** A centralized sequencer could refuse to include a user\'s transactions in a block.',
+                                '2. **MEV Extraction:** The sequencer has ultimate control over transaction ordering, allowing it to extract all the MEV from the system.',
+                                '3. **Liveness Failure:** If the centralized sequencer goes down, the entire rollup halts. Users cannot make new transactions.',
+                                '**Mitigations:** Most rollups have a "force inclusion" mechanism on L1 that allows users to bypass a censoring sequencer, but this is slow and expensive. The long-term solution is decentralized sequencer networks.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking the sequencer also validates transactions (in ZK-rollups, that\'s the prover).', 'Not being aware of the censorship or liveness risks.'],
+                        whyThisMatters: ['This is the biggest centralization problem facing L2s today.', 'Shows a deep understanding of the practical realities and risks of current rollup implementations.'],
+                        followUps: ['What are some proposed designs for decentralized sequencers?', 'How does a shared sequencer model like Espresso work?'],
+                        redFlags: ['Believing current rollups are fully decentralized.', 'Not knowing what a sequencer does.'],
+                        scoringRubric: { 1: 'Does not know what a sequencer is.', 3: 'Defines the sequencer but cannot articulate the centralization risks.', 5: 'Clearly explains the sequencer\'s role and provides a detailed breakdown of censorship, MEV, and liveness risks.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'L2-E-01',
+                        difficulty: 'Expert',
+                        category: 'Knowledge',
+                        question: 'Explain the concept of "Data Availability" (DA) and the "Data Availability Problem". How do modular DA layers like Celestia aim to solve this?',
+                        idealAnswer: {
+                            coreIdea: 'Data Availability is the guarantee that the transaction data for a rollup has been published and is available for anyone to inspect. The DA Problem is that posting this data to Ethereum L1 is the biggest cost for rollups. Modular DA layers aim to provide a cheaper alternative.',
+                            keyPoints: [
+                                '**Why DA Matters:** For an optimistic rollup, nodes must be able to download the transaction data to check for fraud. If the data is not available, a malicious sequencer could post an invalid state root and nobody could create a fraud proof to challenge it.',
+                                '**The DA Problem:** Posting `calldata` to Ethereum is expensive and accounts for ~80-90% of a rollup\'s total cost.',
+                                '**Modular DA Solution (e.g., Celestia):**',
+                                '1. Celestia is a blockchain optimized for one thing: ordering and making data available. It does not handle smart contract execution.',
+                                '2. Rollups can post their transaction data to Celestia instead of Ethereum L1 at a fraction of the cost.',
+                                '3. Celestia uses a technique called **Data Availability Sampling (DAS)**, which allows light nodes to verify that all the data is available by just sampling a few small pieces of it. This allows the network to scale securely.',
+                                'This creates a "modular stack": Execution on the L2, Settlement on Ethereum, and Data Availability on Celestia.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing data availability with data storage.', 'Thinking Celestia is a general-purpose L1.'],
+                        whyThisMatters: ['The modular blockchain thesis is at the forefront of scalability research.', 'Shows an expert-level understanding of the entire blockchain stack and its bottlenecks.'],
+                        followUps: ['What are the security trade-offs of using a separate DA layer instead of Ethereum?', 'How did EIP-4844 (Proto-Danksharding) on Ethereum address the DA problem?'],
+                        redFlags: ['Not understanding why rollups need to post data to an L1.', 'Being unaware of the concept of a modular blockchain.'],
+                        scoringRubric: { 1: 'Does not know what data availability is.', 3: 'Understands the cost issue but cannot explain the security implications or the modular solution.', 5: 'Clearly explains the DA problem, the security requirements, and how modular DA layers with DAS work.' },
+                        expectedTime: '240 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1358,10 +1626,101 @@ LIMIT 100;`
             snapshot: 'Works at the cutting edge of cryptography, building privacy and scaling solutions using ZK-SNARKs and ZK-STARKs.',
             coreCompetencies: ['Advanced Cryptography', 'Circom/Cairo', 'Rust/C++', 'Mathematical Proficiency', 'ZKP Theory'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'ZK-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'In simple terms, what is a Zero-Knowledge Proof (ZKP)?',
+                        idealAnswer: {
+                            coreIdea: 'A ZKP is a cryptographic method where one party (the prover) can prove to another party (the verifier) that they know a piece of information, without revealing the information itself.',
+                            keyPoints: [
+                                'It must satisfy three properties: **Completeness** (a true statement can always be proven), **Soundness** (a false statement cannot be proven), and **Zero-Knowledge** (the verifier learns nothing except that the statement is true).',
+                                'A common analogy is Ali Baba\'s cave, where someone proves they know a secret password to a magic door without revealing the password.',
+                            ]
+                        },
+                        commonPitfalls: ['Getting lost in technical jargon.', 'Unable to explain the core "proof without revealing" concept simply.'],
+                        whyThisMatters: ['This is the foundational concept of the entire field.'],
+                        followUps: ['What are the two main applications of ZKPs in Web3 today? (Scaling and Privacy)'],
+                        redFlags: ['Cannot explain the concept in simple terms.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands it\'s about privacy but can\'t explain the prover/verifier model.', 5: 'Clearly explains the core concept and can provide an analogy like Ali Baba\'s cave.' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'ZK-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What is the difference between a ZK-SNARK and a ZK-STARK?',
+                        idealAnswer: {
+                            coreIdea: 'They are two different types of validity proofs, with different trade-offs in terms of proof size, prover/verifier time, and cryptographic assumptions.',
+                            keyPoints: [
+                                '**ZK-SNARK (Succinct Non-Interactive Argument of Knowledge):**',
+                                '- **Pros:** Very small proof size, making them cheap to verify on-chain.',
+                                '- **Cons:** Requires a "trusted setup" for each circuit, which is a potential centralization vector. They are also not quantum-resistant.',
+                                '**ZK-STARK (Scalable Transparent Argument of Knowledge):**',
+                                '- **Pros:** Does not require a trusted setup ("transparent"). It is also quantum-resistant.',
+                                '- **Cons:** Larger proof size, making them more expensive to verify on-chain compared to SNARKs.',
+                                '**In short:** SNARKs are smaller but require trust; STARKs are bigger but are trustless and quantum-safe.'
+                            ]
+                        },
+                        commonPitfalls: ['Mixing up the properties of each.', 'Not understanding what a trusted setup is.'],
+                        whyThisMatters: ['The choice between SNARKs and STARKs is a major architectural decision for ZK systems.'],
+                        followUps: ['What is a "trusted setup" ceremony and why is it a potential vulnerability?', 'Which systems use SNARKs vs. STARKs today?'],
+                        redFlags: ['Cannot differentiate between them.', 'Does not know what "transparent" means in the context of STARKs.'],
+                        scoringRubric: { 1: 'Does not know the difference.', 3: 'Knows they are different proof types but confuses their properties.', 5: 'Clearly explains the trade-offs regarding proof size, trusted setup, and quantum resistance.' },
+                        expectedTime: '150 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'ZK-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Practical',
+                        question: 'What is an "arithmetic circuit" in the context of ZKPs?',
+                        idealAnswer: {
+                            coreIdea: 'An arithmetic circuit is a way of representing a computation as a series of basic arithmetic operations (addition and multiplication). This is the first step in converting a program into a format that a ZK proof system can understand.',
+                            keyPoints: [
+                                'A ZKP system cannot directly prove a statement about a program written in a language like Python or JavaScript.',
+                                'The program\'s logic must first be converted into a system of mathematical equations.',
+                                'An arithmetic circuit breaks down the computation into a sequence of "gates," where each gate is either an addition or multiplication operation.',
+                                'This circuit is then converted into a polynomial equation system (e.g., R1CS - Rank-1 Constraint System), which is what the ZKP system actually proves.',
+                                'Languages like Circom are used to write these circuits.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking ZKPs work on source code directly.', 'Not understanding the transformation process.'],
+                        whyThisMatters: ['This is the fundamental process of how a computation is made "provable". Any ZK engineer must understand this workflow.'],
+                        followUps: ['What is R1CS and how does it relate to a circuit?', 'What are some of the challenges of writing efficient circuits?'],
+                        redFlags: ['Has no knowledge of the circuit/program transformation.', 'Confuses it with an electrical circuit.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands a program needs to be converted but can\'t explain circuits.', 5: 'Clearly explains that computation must be flattened into arithmetic gates and then into polynomial constraints.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'ZK-E-01',
+                        difficulty: 'Expert',
+                        category: 'Knowledge',
+                        question: 'What is the Fiat-Shamir transformation and why is it important for making proofs non-interactive?',
+                        idealAnswer: {
+                            coreIdea: 'The Fiat-Shamir transformation is a cryptographic technique used to convert an interactive proof system (which requires back-and-forth communication between the prover and verifier) into a non-interactive proof system (where the prover can generate a single proof string that anyone can verify).',
+                            keyPoints: [
+                                'In an interactive proof, the verifier sends random challenges to the prover at various steps.',
+                                'The key insight of Fiat-Shamir is to replace the verifier\'s random challenges with the output of a cryptographic hash function.',
+                                'The prover simulates the entire interaction by themselves. At each step where they would receive a challenge from the verifier, they instead calculate a hash of all the public data and the messages they\'ve generated so far in the proof. The output of this hash serves as the "random" challenge.',
+                                'This allows the prover to generate a complete proof in one go, which can be posted on a blockchain or sent to a verifier to be checked asynchronously.',
+                                'It is a foundational technique that makes SNARKs and STARKs practical for use in systems like blockchains.'
+                            ]
+                        },
+                        commonPitfalls: ['Being unable to explain how the hash function replaces the verifier.'],
+                        whyThisMatters: ['This is a core concept in modern cryptography and is fundamental to how practical ZKPs work.'],
+                        followUps: ['What are the security assumptions of the Fiat-Shamir heuristic? (i.e., the Random Oracle Model)'],
+                        redFlags: ['Has never heard of the transformation.', 'Does not understand the difference between interactive and non-interactive proofs.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands the goal is to make proofs non-interactive but cannot explain the mechanism.', 5: 'Clearly explains how a hash function is used to replace the verifier\'s random challenges, enabling non-interactivity.' },
+                        expectedTime: '240 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1370,10 +1729,106 @@ LIMIT 100;`
             snapshot: 'Architects the economic and incentive systems of a protocol. A blend of economist, game theorist, and strategist.',
             coreCompetencies: ['Economics', 'Game Theory', 'Mechanism Design', 'Financial Modeling', 'Behavioral Psychology'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'TOK-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What are the three most important components of a tokenomics model?',
+                        idealAnswer: {
+                            coreIdea: 'The three core components are Supply, Distribution, and Utility.',
+                            keyPoints: [
+                                '**Supply:** How many tokens will exist? Is the supply fixed (like BTC) or inflationary (like ETH)? This determines the scarcity of the asset.',
+                                '**Distribution:** Who gets the tokens initially? How are they allocated between the team, investors, and the community? This determines the initial decentralization.',
+                                '**Utility:** What can you *do* with the token? Does it have a purpose beyond speculation, such as governance, staking, or paying fees? This creates organic demand.'
+                            ]
+                        },
+                        commonPitfalls: ['Only focusing on supply.', 'Confusing utility with price speculation.'],
+                        whyThisMatters: ['This is the basic framework for analyzing any crypto asset.'],
+                        followUps: ['Give an example of a project with good utility.', 'What is a "vesting schedule" and why is it important for distribution?'],
+                        redFlags: ['Cannot name these three components.', 'Has a purely speculative view of token value.'],
+                        scoringRubric: { 1: 'Cannot answer.', 3: 'Names one or two components but cannot explain them well.', 5: 'Clearly defines and explains Supply, Distribution, and Utility.' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'TOK-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Design',
+                        question: 'Describe a "vote-escrowed" (ve) token model. What problem does it try to solve?',
+                        idealAnswer: {
+                            coreIdea: 'The ve-token model, pioneered by Curve, is designed to align long-term incentives by rewarding users who lock their governance tokens for longer periods of time with greater voting power and a larger share of protocol revenue.',
+                            keyPoints: [
+                                '**The Problem:** Standard governance tokens give the same voting power to short-term speculators as they do to long-term believers. This can lead to short-term oriented governance.',
+                                '**How it works:**',
+                                '1. Users lock their base token (e.g., CRV) for a chosen period (e.g., 1 week to 4 years).',
+                                '2. They receive a non-transferable `veToken` (e.g., `veCRV`) in return.',
+                                '3. The longer the lock-up period, the more `veTokens` they receive per base token.',
+                                '4. This `veToken` balance, which decays over time, is used for voting and claiming fees, not the original token.',
+                                '**Result:** It incentivizes long-term commitment and gives more power to those with the most skin in the game.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking veTokens are transferable.', 'Not understanding the time-decay aspect.'],
+                        whyThisMatters: ['This is one of the most important and widely adopted innovations in tokenomics design.', 'It demonstrates a sophisticated understanding of incentive alignment.'],
+                        followUps: ['What are the potential downsides of a ve-model?', 'How did Uniswap V3 positions (NFTs) offer an alternative form of long-term alignment?'],
+                        redFlags: ['Has not heard of ve-tokenomics.', 'Cannot explain why locking tokens is beneficial for governance.'],
+                        scoringRubric: { 1: 'Is unaware of the model.', 3: 'Understands it involves locking but can\'t explain the benefits or mechanics.', 5: 'Clearly explains how the model aligns long-term incentives and can describe the mechanics of locking and voting power.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'TOK-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Risk',
+                        question: 'What is a "death spiral" in the context of an algorithmic stablecoin that uses a two-token model (e.g., Terra/Luna)?',
+                        idealAnswer: {
+                            coreIdea: 'A death spiral is a reflexive, self-reinforcing feedback loop where the price of a stablecoin de-pegs, causing mass creation of the collateral token, which crashes its price, which in turn further erodes confidence in the stablecoin, leading to a total collapse.',
+                            keyPoints: [
+                                '**The Mechanism:** The algorithmic stablecoin (e.g., UST) is designed to be redeemable for $1 worth of the volatile collateral token (e.g., LUNA).',
+                                '**The Spiral:**',
+                                '1. The stablecoin (UST) loses its peg and falls to $0.98 due to market pressure.',
+                                '2. Arbitrageurs see an opportunity: they buy UST for $0.98 and redeem it for $1.00 worth of LUNA, which they immediately sell for a profit.',
+                                '3. This redemption process mints a huge amount of new LUNA, increasing its supply and crashing its price.',
+                                '4. As the price of LUNA (the collateral) plummets, confidence in the system collapses. More people sell UST, pushing its price even lower.',
+                                '5. This triggers even more redemptions, more LUNA minting, and a faster crash, until both tokens are worthless.'
+                            ]
+                        },
+                        commonPitfalls: ['Not understanding the reflexive relationship between the two tokens.'],
+                        whyThisMatters: ['This was the mechanism behind one of the largest collapses in crypto history.', 'It shows a deep understanding of the inherent risks in under-collateralized and algorithmic stablecoin designs.'],
+                        followUps: ['Can this type of system ever be sustainable?', 'How do over-collateralized stablecoins like DAI avoid this problem?'],
+                        redFlags: ['Is unaware of the Terra/Luna collapse.', 'Cannot explain the feedback loop between the two assets.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands it was a collapse but cannot explain the mechanics.', 5: 'Clearly and accurately describes the reflexive feedback loop and the arbitrage mechanism that drives the spiral.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'TOK-E-01',
+                        difficulty: 'Expert',
+                        category: 'Design',
+                        question: 'You are designing the tokenomics for a new Layer 1 blockchain. What are the key parameters you would need to define for its staking and inflation model to balance security and sustainability?',
+                        idealAnswer: {
+                            coreIdea: 'The goal is to design an inflation and fee model that provides enough rewards to incentivize a sufficient percentage of the token supply to be staked for security, without creating excessive inflation that devalues the token for holders.',
+                            keyPoints: [
+                                '**Key Parameters to Define:**',
+                                '1. **Target Staking Ratio:** What percentage of the total supply do we want to be staked for the network to be considered secure? (e.g., 67%).',
+                                '2. **Inflation Rate:** Design a dynamic inflation rate. The rate should be high when the staking ratio is below the target (to encourage more staking) and low when the ratio is above the target.',
+                                '3. **Fee Burn Mechanism (e.g., EIP-1559):** A portion of transaction fees should be burned. This creates a deflationary pressure that can offset inflation, especially during periods of high network usage.',
+                                '4. **Validator Commission:** What percentage of staking rewards can validators take as a commission? This needs to be high enough to make running a validator profitable but low enough not to deter delegators.',
+                                '5. **Unbonding Period:** How long should tokens be locked after a user unstakes? A longer period (e.g., 21 days) increases security by making it harder to attack the network, but it reduces liquidity and is worse for UX.',
+                                '**Balancing Act:** It\'s a constant trade-off. High inflation provides high security but hurts token value. Low inflation is good for value but might not be enough to secure the network. The fee burn mechanism is crucial for finding a long-term equilibrium.'
+                            ]
+                        },
+                        commonPitfalls: ['Suggesting a fixed, static inflation rate.', 'Not considering the role of fee burns.', 'Ignoring the unbonding period as a security parameter.'],
+                        whyThisMatters: ['This is the core economic design problem for any Proof-of-Stake network.', 'It demonstrates the ability to think about a complex, multi-variable system and its trade-offs.'],
+                        followUps: ['How would you model the potential outcomes of your chosen parameters?', 'What are the risks of a liquid staking derivative on your new L1?'],
+                        redFlags: ['Failing to understand the relationship between staking rewards, inflation, and security.', 'Proposing a simplistic model with no dynamic adjustments.'],
+                        scoringRubric: { 1: 'Does not understand the basic concepts.', 3: 'Can discuss inflation and staking but cannot structure a coherent model.', 5: 'Designs a sophisticated, dynamic model and clearly articulates the trade-offs between each parameter.' },
+                        expectedTime: '300 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1382,10 +1837,108 @@ LIMIT 100;`
             snapshot: 'Builds and maintains the off-chain infrastructure that supports dApps, such as indexers, APIs, and relayers.',
             coreCompetencies: ['Node.js/Go/Rust', 'Databases (SQL/NoSQL)', 'API Design', 'Infrastructure (Docker, K8s)', 'Ethers.js/Viem'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'BE-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'Why does a dApp need a backend server? Can\'t everything be done on the client and the blockchain?',
+                        idealAnswer: {
+                            coreIdea: 'While simple dApps can run without a backend, most complex applications need one for tasks that are impractical or impossible to do on-chain or on the client, such as data indexing, notifications, and managing private keys.',
+                            keyPoints: [
+                                '**Data Indexing:** Querying historical data directly from the blockchain is very slow. A backend is needed to index on-chain data into a fast database that the frontend can query easily.',
+                                '**Notifications:** Blockchains cannot "push" data to users. A backend server is needed to monitor the chain for events and send notifications (e.g., via email or push notification) to users.',
+                                '**Complex Computations:** Running complex or private computations off-chain before submitting a result to the chain is often more efficient.',
+                                '**Managing Keys:** For services that need to submit transactions on behalf of users or the protocol, a secure backend is needed to manage the private keys.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking a backend is *always* required.', 'Not being able to name specific examples of off-chain tasks.'],
+                        whyThisMatters: ['This question tests the candidate\'s understanding of the full dApp architecture and the limitations of the blockchain.'],
+                        followUps: ['What is The Graph and how does it relate to this?', 'Describe how you would build a service to notify a user when their loan is close to liquidation.'],
+                        redFlags: ['Believing everything can or should be done on-chain.'],
+                        scoringRubric: { 1: 'Cannot explain the need for a backend.', 3: 'Gives vague reasons like "performance".', 5: 'Provides specific, concrete examples like indexing, notifications, and key management.' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'BE-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Architecture',
+                        question: 'You need to build an API to serve data about NFT ownership. Would you query the blockchain directly in your API handlers or use an intermediary indexing service? Explain your reasoning.',
+                        idealAnswer: {
+                            coreIdea: 'You should absolutely use an intermediary indexing service. Querying the blockchain directly from API handlers is slow, unreliable, and will not scale.',
+                            keyPoints: [
+                                '**Why Direct Queries Fail:**',
+                                '- **Slow:** RPC calls to a node can be slow, especially for historical data. An API handler would time out.',
+                                '- **Rate Limits:** Public RPC providers have strict rate limits that a production API would quickly exceed.',
+                                '- **Complex Logic:** Calculating current ownership requires processing all historical `Transfer` events, which is too complex for a single API call.',
+                                '**The Indexing Solution:**',
+                                '1. An **indexer** (either a self-hosted one using The Graph or a third-party API like Reservoir) listens to all on-chain events in real-time.',
+                                '2. It processes these events and stores the computed state (e.g., current owner of each NFT) in a fast, traditional database (like PostgreSQL).',
+                                '3. Your backend API then queries this database, which is extremely fast and scalable.'
+                            ]
+                        },
+                        commonPitfalls: ['Suggesting direct RPC calls.', 'Not understanding the performance difference between an RPC call and a database query.'],
+                        whyThisMatters: ['This is a fundamental architectural decision for any Web3 backend.', 'Shows an understanding of building scalable and performant off-chain systems.'],
+                        followUps: ['What are the pros and cons of building your own indexer with The Graph vs. using a third-party API?', 'How would you ensure your indexed data is correct and hasn\'t missed any blocks?'],
+                        redFlags: ['Advocating for querying the node directly in the API.', 'Not knowing what an indexer is.'],
+                        scoringRubric: { 1: 'Suggests direct RPC calls.', 3: 'Knows direct calls are bad but is vague on the solution.', 5: 'Clearly explains why direct calls fail and details the architecture of using an indexer and a database.' },
+                        expectedTime: '150 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'BE-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Design',
+                        question: 'Design a reliable system for submitting transactions to the blockchain from a backend service (a "relayer"). What are the key challenges you need to handle?',
+                        idealAnswer: {
+                            coreIdea: 'A reliable relayer needs to handle nonce management, gas price estimation, and transaction monitoring/re-submission to ensure transactions are mined in a timely and cost-effective manner.',
+                            keyPoints: [
+                                '**Key Components:**',
+                                '1. **Transaction Queue:** Use a robust queue (like RabbitMQ or a database table) to manage pending transactions.',
+                                '2. **Nonce Manager:** The biggest challenge. You must strictly track the nonce for the relayer\'s address to prevent conflicts. A dedicated service or a database row with a transaction lock is needed to ensure only one process can get the next nonce at a time.',
+                                '3. **Gas Price Oracle:** A service that monitors network conditions and recommends optimal gas prices (`maxFeePerGas`, `maxPriorityFeePerGas`) for timely inclusion.',
+                                '4. **Transaction Monitor:** After a transaction is submitted, a separate process must monitor its status. If it gets "stuck" (doesn\'t get mined), the system needs to automatically re-submit it with a higher gas price and the same nonce.',
+                                '5. **Error Handling & Alerting:** The system needs robust logging and alerting for when transactions fail or get stuck for too long.'
+                            ]
+                        },
+                        commonPitfalls: ['Underestimating the difficulty of nonce management.', 'Not having a plan for stuck transactions.', 'Suggesting a simple `await provider.sendTransaction()` in a loop.'],
+                        whyThisMatters: ['Building a relayer is a very common but difficult backend task.', 'This question separates candidates with real production experience from those with only theoretical knowledge.'],
+                        followUps: ['How would you handle a situation where your node goes down and you lose track of the last successful nonce?', 'How can you parallelize transaction submission from a single wallet?'],
+                        redFlags: ['Believing nonce management is trivial.', 'Having no strategy for handling stuck or failed transactions.'],
+                        scoringRubric: { 1: 'Proposes a naive, unworkable solution.', 3: 'Identifies some challenges like gas or nonces but doesn\'t have a robust architectural design.', 5: 'Designs a comprehensive, resilient system covering the queue, nonce management, gas oracle, and monitoring/resubmission.' },
+                        expectedTime: '240 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'ZK-E-01',
+                        difficulty: 'Expert',
+                        category: 'Knowledge',
+                        question: 'What is a "re-org" (chain reorganization) and how must a backend indexer be designed to handle it?',
+                        idealAnswer: {
+                            coreIdea: 'A re-org is when a blockchain node discovers a new, longer valid chain, causing it to discard the blocks from its previous canonical chain. A robust indexer must be able to detect re-orgs and roll back its database state to a point before the divergence.',
+                            keyPoints: [
+                                '**How it happens:** Due to network latency, two miners might solve a block at roughly the same time, creating a temporary fork. The network eventually converges on one, longer chain.',
+                                '**The Problem for Indexers:** An indexer might process several blocks from the "losing" chain. When the re-org happens, the data it has indexed is now from orphaned blocks and is incorrect.',
+                                '**Design Solution:**',
+                                '1. **Store Block Hashes:** The indexer must store the `blockHash` along with every piece of data it indexes.',
+                                '2. **Detect Re-orgs:** While processing a new block, the indexer checks if the new block\'s `parentHash` matches the hash of the last block it processed. If not, a re-org has occurred.',
+                                '3. **Rollback State:** The indexer must delete all data from its database that was associated with the now-orphaned block hashes until it finds a common ancestor block.',
+                                '4. **Re-index:** After rolling back, it can start indexing the blocks from the new, correct chain.',
+                                'For this reason, services often wait for a few blocks ("confirmations") before considering a transaction final.'
+                            ]
+                        },
+                        commonPitfalls: ['Not knowing what a re-org is.', 'Thinking transactions are final after one block.', 'Not having a strategy for rolling back state.'],
+                        whyThisMatters: ['This is a critical reliability issue for any service that provides on-chain data.', 'Demonstrates an expert understanding of how blockchains work at a fundamental level.'],
+                        followUps: ['How many blocks of confirmation are generally considered safe on Ethereum?', 'How does Proof-of-Stake finality change the calculus for re-orgs?'],
+                        redFlags: ['Is unaware of re-orgs.', 'Has no design for handling them, which would lead to a permanently corrupted database.'],
+                        scoringRubric: { 1: 'Does not know what a re-org is.', 3: 'Understands the concept but has no clear idea how to handle it in an indexer.', 5: 'Clearly explains re-orgs and designs a robust system for detection and state rollback.' },
+                        expectedTime: '240 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1394,10 +1947,97 @@ LIMIT 100;`
             snapshot: 'A highly specialized role focused on designing and implementing the cryptographic protocols that secure a blockchain.',
             coreCompetencies: ['Applied Cryptography', 'Mathematical Proofs', 'Protocol Security', 'Low-level Programming (C++/Rust)'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'CRY-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the difference between symmetric and asymmetric cryptography?',
+                        idealAnswer: {
+                            coreIdea: 'Symmetric cryptography uses the same key for both encryption and decryption, while asymmetric cryptography uses a pair of keys: a public key for encryption and a private key for decryption.',
+                            keyPoints: [
+                                '**Symmetric (e.g., AES):** Fast and efficient. The challenge is securely sharing the single secret key between parties.',
+                                '**Asymmetric (e.g., RSA, ECDSA):** Slower but solves the key distribution problem. The public key can be shared openly, while the private key remains secret. This is the foundation of blockchain wallets.'
+                            ]
+                        },
+                        commonPitfalls: ['Mixing up which key does what in asymmetric crypto.'],
+                        whyThisMatters: ['This is the most fundamental concept in modern cryptography.'],
+                        followUps: ['Which type is used for digital signatures and how does that work?', 'Why don\'t we use asymmetric cryptography for everything?'],
+                        redFlags: ['Cannot differentiate between the two.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands the single vs. dual key concept but is fuzzy on details.', 5: 'Clearly explains both systems and their primary trade-offs (speed vs. key distribution).' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'CRY-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What is a cryptographic hash function, and what are its key properties?',
+                        idealAnswer: {
+                            coreIdea: 'A hash function is a mathematical algorithm that takes an input of any size and produces a fixed-size, unique output string (a "hash").',
+                            keyPoints: [
+                                '**Key Properties:**',
+                                '1. **Deterministic:** The same input will always produce the same output.',
+                                '2. **Pre-image Resistance:** It should be computationally infeasible to find the original input given only the hash output.',
+                                '3. **Second Pre-image Resistance (Collision Resistance):** It should be computationally infeasible to find two different inputs that produce the same hash output.',
+                                '4. **Avalanche Effect:** A tiny change in the input should produce a drastically different output hash.',
+                                'These properties are what make blockchains tamper-evident.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing hashing with encryption.', 'Not being able to name the key properties.'],
+                        whyThisMatters: ['Hash functions are a fundamental building block of blockchains, used in everything from block creation to Merkle trees.'],
+                        followUps: ['What is a Merkle tree and how does it use hashing?', 'What hash function does Bitcoin use?'],
+                        redFlags: ['Thinks hashing is reversible.', 'Does not understand collision resistance.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Can explain it produces a unique output but cannot name the security properties.', 5: 'Clearly defines a hash function and correctly lists its key cryptographic properties.' },
+                        expectedTime: '120 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'CRY-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Knowledge',
+                        question: 'What is Elliptic Curve Cryptography (ECC) and why is it preferred over RSA for blockchains?',
+                        idealAnswer: {
+                            coreIdea: 'ECC is a type of asymmetric cryptography based on the algebraic structure of elliptic curves over finite fields. It is preferred over RSA because it offers the same level of security with much smaller key sizes.',
+                            keyPoints: [
+                                'The security of RSA relies on the difficulty of factoring large numbers, while ECC relies on the difficulty of the Elliptic Curve Discrete Logarithm Problem (ECDLP).',
+                                'For a similar level of security, an ECC key can be much smaller. For example, a 256-bit ECC key provides comparable security to a 3072-bit RSA key.',
+                                '**Why this matters for blockchains:** Smaller key sizes mean smaller signatures and faster computations, which translates to less data stored on-chain and less gas consumed per transaction. This efficiency is critical in a resource-constrained environment like a blockchain.'
+                            ]
+                        },
+                        commonPitfalls: ['Not understanding the key size vs. security trade-off.', 'Unable to explain why smaller keys are beneficial.'],
+                        whyThisMatters: ['ECC is the basis of the digital signature algorithm (ECDSA) used by Bitcoin and Ethereum. Understanding why it was chosen is crucial.'],
+                        followUps: ['What is ECDSA?', 'What are some of the potential vulnerabilities or concerns with ECC (e.g., patent issues, potential for backdoors in certain curves)?'],
+                        redFlags: ['Has never heard of ECC.', 'Cannot explain the benefit of smaller key sizes.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Knows ECC is used but cannot explain why it is better than RSA.', 5: 'Clearly explains the security-to-key-size ratio advantage and its importance for blockchain efficiency.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'CRY-E-01',
+                        difficulty: 'Expert',
+                        category: 'Knowledge',
+                        question: 'What is a "pairing-based" cryptosystem and what new capabilities does it enable?',
+                        idealAnswer: {
+                            coreIdea: 'Pairing-based cryptography uses a mathematical map called a bilinear pairing on elliptic curves. This pairing allows for operations that are not possible with standard ECC, most notably enabling more advanced ZK-SNARK constructions.',
+                            keyPoints: [
+                                'A bilinear pairing takes two points from two different elliptic curve groups and maps them to a third group, with special properties that allow for multiplication of exponents in the clear.',
+                                'This "multiplicative" property is what allows for the construction of succinct and efficiently verifiable zero-knowledge proofs (ZK-SNARKs).',
+                                'While standard ECDSA is sufficient for signatures, pairing-friendly curves (like BLS12-381) are required for many advanced ZK systems.',
+                                'Other capabilities include BLS signatures (which are aggregatable) and identity-based encryption.'
+                            ]
+                        },
+                        commonPitfalls: ['Unable to explain what a pairing enables (the multiplicative property).'],
+                        whyThisMatters: ['This is at the cutting edge of applied cryptography in Web3. It is the foundation for most modern ZK-Rollups and privacy systems.'],
+                        followUps: ['What is the difference between a BLS signature and an ECDSA signature?', 'Why are pairing-friendly curves often considered less secure or "exotic" compared to standard curves?'],
+                        redFlags: ['Has not heard of pairings.', 'Confuses them with standard ECC.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Knows pairings are related to ZKPs but cannot explain why.', 5: 'Clearly explains that pairings enable a multiplicative operation which is the key to building many ZK-SNARKs.' },
+                        expectedTime: '240 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1406,10 +2046,111 @@ LIMIT 100;`
             snapshot: 'Manages the day-to-day functioning of a DAO. Facilitates governance, manages projects, and ensures smooth operation.',
             coreCompetencies: ['Project Management', 'Communication', 'Governance Processes', 'Treasury Management', 'Community Facilitation'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'DAO-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the purpose of a DAO\'s governance token?',
+                        idealAnswer: {
+                            coreIdea: 'A governance token grants its holders voting rights, allowing them to participate in the decision-making process of the DAO.',
+                            keyPoints: [
+                                'It represents a share of control over the protocol.',
+                                'Holders can create proposals and vote on proposals submitted by others.',
+                                'Proposals can cover anything from changing a parameter in a smart contract to allocating funds from the treasury.',
+                                'The weight of a member\'s vote is often proportional to the number of tokens they hold.'
+                            ],
+                        },
+                        commonPitfalls: ['Thinking the token is just for speculation.', 'Confusing governance rights with direct profit-sharing.'],
+                        whyThisMatters: ['This is the core mechanism of DAO governance.'],
+                        followUps: ['What are the potential problems with 1-token-1-vote governance?', 'What is a "quorum" in a DAO vote?'],
+                        redFlags: ['Does not know what a governance token is used for.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Says "for voting" but cannot elaborate.', 5: 'Clearly explains the concept of voting rights, proposal creation, and weighted voting.' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'DAO-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Strategy',
+                        question: 'What are some common causes of voter apathy in DAOs, and how would you try to increase participation?',
+                        idealAnswer: {
+                            coreIdea: 'Voter apathy is caused by a combination of high complexity, low individual impact, and lack of incentives. Increasing participation requires simplifying the process and creating better incentives.',
+                            keyPoints: [
+                                '**Causes:**',
+                                '- **High Complexity:** Proposals are often too technical or long for the average token holder to understand.',
+                                '- **Low Impact:** Small token holders feel their vote doesn\'t matter.',
+                                '- **Lack of Incentive:** Voting costs gas and time with no direct reward.',
+                                '**Solutions:**',
+                                '- **Delegation:** Allow users to delegate their voting power to a trusted community member (a "delegate") who can vote on their behalf.',
+                                '- **Clear Summaries:** Create easy-to-understand summaries of complex proposals (e.g., TL;DRs).',
+                                '- **Gasless Voting:** Use off-chain voting tools like Snapshot for "temperature check" votes before the final, binding on-chain vote.',
+                                '- **Incentives:** Some DAOs experiment with rewards for active voters.'
+                            ]
+                        },
+                        commonPitfalls: ['Blaming the users for being lazy.', 'Suggesting solutions that increase centralization.'],
+                        whyThisMatters: ['Low voter turnout is a major existential risk for DAOs.', 'This question tests the candidate\'s understanding of practical governance challenges.'],
+                        followUps: ['What are the pros and cons of delegation?', 'How do you balance making it easy to vote with ensuring voters are well-informed?'],
+                        redFlags: ['Has no ideas for improving participation.', 'Suggests making voting mandatory.'],
+                        scoringRubric: { 1: 'Is unaware of voter apathy as a problem.', 3: 'Identifies the problem but has weak or generic solutions.', 5: 'Identifies multiple causes and proposes specific, practical solutions like delegation and Snapshot.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'DAO-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Design',
+                        question: 'Describe how a DAO can use a multisig wallet for treasury management. What are the pros and cons compared to fully on-chain governance?',
+                        idealAnswer: {
+                            coreIdea: 'A multisig wallet is a smart contract that requires multiple signers to approve a transaction. DAOs use it as a practical and secure way to manage their treasury, balancing speed and safety.',
+                            keyPoints: [
+                                '**How it works:** A DAO can set up a Gnosis Safe with, for example, a 4-of-7 signature requirement. The 7 signers are trusted community members. To spend treasury funds, a proposal is made, and at least 4 of the 7 signers must approve the transaction.',
+                                '**Pros:**',
+                                '- **More Nimble:** Faster for operational spending than a full on-chain vote for every transaction.',
+                                '- **Gas-Efficient:** Cheaper than on-chain voting.',
+                                '- **Security:** Protects against a single key being compromised.',
+                                '**Cons:**',
+                                '- **Centralization:** It introduces a trusted, centralized committee. The DAO members must trust the multisig signers not to collude or act maliciously.',
+                                '- **Scalability:** It doesn\'t scale to thousands of voters.',
+                                '**Common Pattern:** DAOs often use a hybrid approach: major strategic decisions go to a full on-chain vote, while smaller, operational grants are managed by an elected multisig committee.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking a multisig is the same as on-chain governance.', 'Not understanding the trust assumptions.'],
+                        whyThisMatters: ['This is the most common treasury management pattern for DAOs.', 'Shows an understanding of the practical trade-offs between decentralization and operational efficiency.'],
+                        followUps: ['How would you design a process for electing and rotating multisig signers?', 'What is a "Rage Quit" mechanism and how does it protect minority token holders?'],
+                        redFlags: ['Does not know what a multisig is.', 'Unable to articulate the pros and cons.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands what a multisig is but cannot explain its role in DAO governance.', 5: 'Clearly explains the pros and cons and describes the common hybrid model.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'DAO-E-01',
+                        difficulty: 'Expert',
+                        category: 'Knowledge',
+                        question: 'What is a "legal wrapper" for a DAO, and why might a DAO choose to use one?',
+                        idealAnswer: {
+                            coreIdea: 'A legal wrapper is a traditional legal entity (like a foundation or LLC) that is controlled by the DAO. It is used to provide legal personhood for the DAO, enabling it to interact with the real world and providing liability protection for its members.',
+                            keyPoints: [
+                                '**The Problem:** Without a legal entity, a DAO might be treated as a "general partnership" by default in many jurisdictions. This means every member could be held personally and fully liable for the actions of the DAO.',
+                                '**The Solution:** The DAO can vote to create a legal entity (e.g., a foundation in the Cayman Islands or a Limited Cooperative Association in the US). This entity can then:',
+                                '- **Limit Liability:** Protects members from personal liability.',
+                                '- **Sign Contracts:** Enter into real-world contracts (e.g., for services, employment, office space).',
+                                '- **Hold IP:** Own intellectual property like trademarks and copyrights.',
+                                '- **Pay Taxes:** Provide a clear framework for paying taxes.',
+                                'The legal entity is controlled by the DAO through its on-chain governance.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking a DAO doesn\'t need to interact with the legal system.', 'Confusing the DAO with its legal wrapper.'],
+                        whyThisMatters: ['This is at the forefront of DAO governance and operations, bridging the gap between the decentralized world and the traditional legal system.'],
+                        followUps: ['What are some of the popular jurisdictions for creating DAO legal wrappers?', 'What are the challenges in ensuring the legal entity truly remains under the control of the on-chain governance?'],
+                        redFlags: ['Believing that DAOs exist in a legal vacuum.', 'Not understanding the concept of personal liability for members of a general partnership.'],
+                        scoringRubric: { 1: 'Is unaware of the legal issues.', 3: 'Understands the liability problem but is unaware of the legal wrapper solution.', 5: 'Clearly explains the liability problem and how a legal wrapper solves it, providing concrete examples of what it enables.' },
+                        expectedTime: '240 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1418,10 +2159,105 @@ LIMIT 100;`
             snapshot: 'Secures the full stack of a Web3 company, from the smart contracts to the cloud infrastructure and frontend.',
             coreCompetencies: ['Smart Contract Auditing', 'Infrastructure Security', 'CI/CD Pipelines', 'Incident Response', 'Threat Modeling'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'SEC-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the single most important security risk for a dApp frontend?',
+                        idealAnswer: {
+                            coreIdea: 'The most critical risk is a frontend compromise that tricks users into signing malicious transactions or giving away their assets.',
+                            keyPoints: [
+                                'An attacker could compromise the website\'s domain, hosting, or code repository.',
+                                'They could then replace the legitimate smart contract address with a malicious one, causing users to send funds to the attacker.',
+                                'Alternatively, they could change the UI to ask for a malicious approval (e.g., `setApprovalForAll`) that gives the attacker control over all of the user\'s NFTs or tokens.',
+                                'This is why users should always verify contract addresses and be wary of suspicious signature requests.'
+                            ]
+                        },
+                        commonPitfalls: ['Only focusing on smart contract bugs.', 'Not considering the off-chain components.'],
+                        whyThisMatters: ['Many major "hacks" are actually frontend exploits, not smart contract bugs.', 'A DevSecOps role requires thinking about the whole stack, not just the on-chain part.'],
+                        followUps: ['What measures can be taken to protect against this?', 'How can IPFS be used to host a more secure frontend?'],
+                        redFlags: ['Does not see the frontend as a major attack surface.'],
+                        scoringRubric: { 1: 'Cannot identify any risks.', 3: 'Mentions generic web security issues but not crypto-specific ones.', 5: 'Clearly explains the specific risk of tricking users into signing malicious transactions.' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'SEC-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Design',
+                        question: 'You are setting up a CI/CD pipeline for a smart contract project. What security checks would you integrate?',
+                        idealAnswer: {
+                            coreIdea: 'A secure CI/CD pipeline should automatically run a suite of security analysis tools on every commit or pull request to catch vulnerabilities early.',
+                            keyPoints: [
+                                '1. **Linting:** Use a linter like `solhint` to enforce code style and catch common low-level issues.',
+                                '2. **Static Analysis (SAST):** Integrate a tool like `Slither`. This will scan the code for known vulnerability patterns without executing it.',
+                                '3. **Unit & Fuzz Testing:** Run the full test suite using `Foundry` or `Hardhat`. This should include comprehensive unit tests and fuzz tests for key functions.',
+                                '4. **Coverage Reports:** Generate a test coverage report and fail the build if coverage drops below a certain threshold (e.g., 95%).',
+                                '5. **Secret Scanning:** Use a tool to scan for accidentally committed private keys or API keys.'
+                            ]
+                        },
+                        commonPitfalls: ['Only suggesting unit tests.', 'Not including static analysis.', 'Forgetting about secret scanning.'],
+                        whyThisMatters: ['Automating security checks is a core part of the DevSecOps philosophy.', 'It creates a baseline level of security and prevents simple bugs from making it to production.'],
+                        followUps: ['How would you handle a high number of false positives from a tool like Slither?', 'At what point in the development cycle would you recommend a full manual audit?'],
+                        redFlags: ['Has no concept of a secure CI/CD pipeline.', 'Unable to name specific security tools for each stage.'],
+                        scoringRubric: { 1: 'Suggests only running tests.', 3: 'Mentions one or two tools but cannot design a comprehensive pipeline.', 5: 'Designs a multi-stage pipeline including linting, static analysis, testing, and secret scanning.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'SEC-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Practical',
+                        question: 'What is an "incident response plan" for a DeFi protocol, and what are the key components?',
+                        idealAnswer: {
+                            coreIdea: 'An incident response plan is a pre-defined set of procedures for what to do when a security exploit is discovered. The goal is to mitigate the damage, communicate clearly, and recover as quickly as possible.',
+                            keyPoints: [
+                                '**Key Components:**',
+                                '1. **War Room:** A designated, secure communication channel (e.g., a private Signal group) for the core team and security researchers to coordinate.',
+                                '2. **Triage & Mitigation:** The first step is to confirm the exploit and, if possible, pause the contracts to prevent further losses. This requires having a pausable mechanism built into the contracts from the start.',
+                                '3. **Communication:** A designated spokesperson to handle public communication. The strategy is usually to first announce that an issue is being investigated, and then provide a full post-mortem after the facts are known.',
+                                '4. **Post-Mortem:** A detailed, transparent report explaining what happened, how it happened, the financial impact, and what steps will be taken to prevent it from happening again.',
+                                '5. **Recovery:** A plan for compensating affected users if funds were lost.'
+                            ]
+                        },
+                        commonPitfalls: ['Focusing only on the technical fix.', 'Underestimating the importance of communication.', 'Not having a plan *before* an incident happens.'],
+                        whyThisMatters: ['How a team responds to a hack is a defining moment.', 'A good plan can save a project\'s reputation, while a bad one can destroy it.'],
+                        followUps: ['Who should be in the war room?', 'What are the pros and cons of having a "pause" function in a smart contract?'],
+                        redFlags: ['No clear plan.', 'Advocating for hiding the hack from the community.'],
+                        scoringRubric: { 1: 'Has no plan.', 3: 'Focuses only on fixing the bug but not on communication or mitigation.', 5: 'Provides a comprehensive plan covering war room, mitigation, communication, and post-mortem.' },
+                        expectedTime: '240 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'SEC-E-01',
+                        difficulty: 'Expert',
+                        category: 'Design',
+                        question: 'What is a "timelock" contract and how does it improve the security and predictability of protocol governance?',
+                        idealAnswer: {
+                            coreIdea: 'A timelock is a smart contract that forces a delay between when a governance proposal is passed and when its code can be executed. This gives the community time to react to potentially malicious or dangerous proposals.',
+                            keyPoints: [
+                                '**How it works:** Administrative control of a protocol is given to a Timelock contract, not directly to an EOA or multisig.',
+                                '1. A governance proposal to, for example, upgrade a contract, is passed.',
+                                '2. The passed proposal is then submitted to the Timelock contract, which queues it.',
+                                '3. The transaction cannot be executed until a pre-defined delay (e.g., 48 hours) has passed.',
+                                '**Benefits:**',
+                                '- **Security:** It gives users a window of time to exit the protocol if they see a malicious upgrade has been approved (e.g., one that would drain funds).',
+                                '- **Predictability:** It allows teams and users to prepare for upcoming changes.',
+                                '- **Trust:** It signals that the team cannot make instantaneous, arbitrary changes to the protocol, which builds user trust.'
+                            ]
+                        },
+                        commonPitfalls: ['Confusing a timelock with a vesting schedule.', 'Thinking the delay is for technical reasons, not security/governance reasons.'],
+                        whyThisMatters: ['Timelocks are a standard and critical component of secure, decentralized governance.', 'Demonstrates an expert-level understanding of protocol safety mechanisms.'],
+                        followUps: ['What are the potential downsides of a long timelock delay?', 'How would you design a timelock that allows for emergency cancellations?'],
+                        redFlags: ['Does not know what a timelock is.', 'Unable to explain its security benefits.'],
+                        scoringRubric: { 1: 'Is unaware of timelocks.', 3: 'Understands it creates a delay but can\'t explain the security implications.', 5: 'Clearly explains how a timelock prevents immediate malicious upgrades and gives users time to exit.' },
+                        expectedTime: '180 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1430,10 +2266,105 @@ LIMIT 100;`
             snapshot: 'A specialized PM focused on the unique challenges of NFT collections and blockchain-based games.',
             coreCompetencies: ['Game Design', 'Virtual Economies', 'Community Building', 'NFT Standards', 'Live-ops Management'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'GAME-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the key value proposition of using NFTs for in-game assets compared to traditional game databases?',
+                        idealAnswer: {
+                            coreIdea: 'The key value proposition is true digital ownership. NFTs allow players to own their in-game assets in a way that is independent of the game itself.',
+                            keyPoints: [
+                                '**Traditional:** In-game items are just entries in a company\'s private database. The company can delete them, change them, or ban your account at any time. You don\'t truly own them.',
+                                '**NFTs:** The item is a token on a public blockchain, held in the player\'s personal crypto wallet. The game developer cannot take it away. The player can sell it on any open marketplace, or even potentially use it in other games in the future.'
+                            ],
+                        },
+                        commonPitfalls: ['Only focusing on the ability to sell items for real money.'],
+                        whyThisMatters: ['This is the fundamental "why" of Web3 gaming.'],
+                        followUps: ['What are some of the user experience challenges this creates for mainstream gamers?', 'What does "interoperability" mean for game assets?'],
+                        redFlags: ['Unable to explain the concept of true ownership.', 'Thinks NFTs are only about speculation.'],
+                        scoringRubric: { 1: 'Cannot explain the difference.', 3: 'Focuses only on the "play-to-earn" aspect.', 5: 'Clearly articulates the concept of true digital ownership and its implications.' },
+                        expectedTime: '90 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'GAME-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Design',
+                        question: 'You are designing an NFT mint. What are three common minting mechanics you could consider?',
+                        idealAnswer: {
+                            coreIdea: 'There are several standard mechanics to manage the demand and distribution of an NFT mint.',
+                            keyPoints: [
+                                '1. **Allowlist / Whitelist:** A list of specific wallet addresses are given early or guaranteed access to mint, often at a lower price. This rewards early community members and prevents gas wars.',
+                                '2. **Public Sale (Fixed Price):** A simple first-come, first-served sale at a fixed price. Can lead to "gas wars" where everyone tries to mint at once, driving up network fees.',
+                                '3. **Dutch Auction:** The mint price starts high and gradually decreases over time until the collection is sold out. This is a price discovery mechanism designed to find the market-clearing price.',
+                                '4. **Free Mint:** The NFTs are free to mint (plus gas fees). This is used to build a wide community quickly, with the project planning to earn revenue from secondary market royalties.'
+                            ]
+                        },
+                        commonPitfalls: ['Only knowing about public sales.', 'Not understanding the purpose of an allowlist.'],
+                        whyThisMatters: ['The mint mechanic is a critical part of a project\'s go-to-market strategy.', 'Shows practical knowledge of the NFT space.'],
+                        followUps: ['What are the pros and cons of a Dutch Auction vs. a fixed-price sale?', 'How would you technically implement an allowlist? (e.g., Merkle Tree)'],
+                        redFlags: ['Is only aware of one type of mint.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Can name one or two mechanics but can\'t explain their purpose.', 5: 'Names at least three mechanics and clearly explains the strategic reason for using each one.' },
+                        expectedTime: '120 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'GAME-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Strategy',
+                        question: 'The "Play-to-Earn" (P2E) model has been heavily criticized. What were its main flaws, and what is the "Play-and-Own" model that is emerging to replace it?',
+                        idealAnswer: {
+                            coreIdea: 'P2E created unsustainable economies that felt more like a job ("grind") than a game. The "Play-and-Own" model prioritizes creating a fun game first, with ownership as a feature that enhances the experience, not as the primary goal.',
+                            keyPoints: [
+                                '**Flaws of P2E (e.g., Axie Infinity):**',
+                                '- **Unsustainable Inflation:** The game economy relied on a constant influx of new players buying the assets sold by older players. When new player growth slowed, the token price crashed.',
+                                '- **Focus on Earning, Not Fun:** The gameplay often became a repetitive grind for rewards, which is not enjoyable for most players.',
+                                '- **Extraction:** It attracted extractors and bots, not genuine players.',
+                                '**The "Play-and-Own" Model:**',
+                                '- **Fun First:** The primary goal is to build a high-quality, engaging game that people would want to play even without any rewards.',
+                                '- **Ownership as a Bonus:** The ability to truly own and trade your assets is a powerful feature that enhances the game, but it is not the core loop.',
+                                '- **Sustainable Economy:** The economy is designed to be more balanced, often with "sinks" that remove currency from the game to balance the "faucets" that create it.'
+                            ]
+                        },
+                        commonPitfalls: ['Defending the old P2E model without acknowledging its flaws.', 'Not being able to articulate the "fun first" philosophy of the new model.'],
+                        whyThisMatters: ['This is the most important strategic conversation in the Web3 gaming space today.', 'Shows the candidate is up-to-date with the evolution of the industry and thinks critically about sustainable design.'],
+                        followUps: ['How would you design a token sink for an in-game economy?', 'Can a game be successful without any "earn" component at all?'],
+                        redFlags: ['Believes P2E economies are sustainable.', 'Does not understand the importance of game design and fun.'],
+                        scoringRubric: { 1: 'Is unaware of the criticisms of P2E.', 3: 'Can criticize P2E but struggles to define the "Play-and-Own" alternative.', 5: 'Clearly articulates the flaws of P2E and the "fun first" philosophy of the Play-and-Own model.' },
+                        expectedTime: '240 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'GAME-E-01',
+                        difficulty: 'Expert',
+                        category: 'Design',
+                        question: 'You are designing the economy for a new Web3 game. How would you balance the on-chain and off-chain components for performance and decentralization?',
+                        idealAnswer: {
+                            coreIdea: 'The optimal design is a hybrid approach. Keep high-value, low-frequency actions on-chain to leverage the security and ownership benefits of the blockchain, while keeping high-frequency, low-value actions off-chain for performance and good UX.',
+                            keyPoints: [
+                                '**On-Chain (Slow, Secure, Decentralized):**',
+                                '- **Asset Ownership:** The core NFTs representing valuable items (characters, land, rare weapons) must be on-chain.',
+                                '- **Key Economic Actions:** Major actions like crafting a rare item, breeding new characters, or trading on the marketplace should be on-chain transactions.',
+                                '- **Governance:** Voting on game balance changes should be on-chain.',
+                                '**Off-Chain (Fast, Centralized, Good UX):**',
+                                '- **Game State:** The moment-to-moment gameplay logic (e.g., player position, combat calculations) should be handled by a traditional game server.',
+                                '- **Soft Currency:** Low-value in-game currencies (like "gold") can be managed off-chain in a standard database and only "bridged" to the chain when the user wants to cash out.',
+                                '- **Matchmaking & Social:** Player matchmaking, chat, and friend lists should be off-chain.',
+                                '**The Bridge:** A reliable system is needed to bridge the state between the off-chain game server and the on-chain smart contracts.'
+                            ]
+                        },
+                        commonPitfalls: ['Suggesting everything should be on-chain.', 'Not having a clear reason for why certain components are on-chain vs. off-chain.'],
+                        whyThisMatters: ['This is the core architectural challenge of Web3 game design.', 'It shows the candidate can think through complex trade-offs between decentralization, performance, and user experience.'],
+                        followUps: ['What are the security risks of this hybrid model?', 'How would you prevent a player from hacking the off-chain server to give themselves an advantage?'],
+                        redFlags: ['Proposing a "fully on-chain" game without understanding the performance implications.', 'Unable to articulate the trade-offs.'],
+                        scoringRubric: { 1: 'Does not understand the need for off-chain components.', 3: 'Understands the hybrid model but has a weak rationale for the separation.', 5: 'Clearly defines what should go on-chain vs. off-chain and provides a strong justification based on trade-offs.' },
+                        expectedTime: '300 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1442,10 +2373,110 @@ LIMIT 100;`
             snapshot: 'Navigates the complex and evolving regulatory landscape of crypto. Advises on securities law, AML, and corporate structuring.',
             coreCompetencies: ['Securities Law (Howey Test)', 'AML/KYC Regulations', 'DAO Legal Wrappers', 'IP Law for NFTs', 'Privacy Law'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'LEG-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Knowledge',
+                        question: 'What is the "Howey Test" and why is it relevant to crypto?',
+                        idealAnswer: {
+                            coreIdea: 'The Howey Test is a four-prong test created by the U.S. Supreme Court to determine if a transaction qualifies as an "investment contract" and is therefore subject to securities laws. It is the primary framework the SEC uses to analyze whether a crypto token is a security.',
+                            keyPoints: [
+                                'The four prongs are:',
+                                '1. An investment of money',
+                                '2. In a common enterprise',
+                                '3. With a reasonable expectation of profits',
+                                '4. To be derived from the efforts of others.',
+                                'Many crypto tokens, especially those sold in ICOs to fund development, risk meeting all four prongs and being classified as unregistered securities.'
+                            ]
+                        },
+                        commonPitfalls: ['Not being able to name the four prongs.', 'Thinking it only applies to stocks.'],
+                        whyThisMatters: ['This is the single most important legal concept in the US crypto space. Any legal or compliance professional must know it inside and out.'],
+                        followUps: ['How might a project design its token launch to minimize the risk of being classified as a security?', 'What is the significance of the recent Ripple ruling?'],
+                        redFlags: ['Has not heard of the Howey Test.', 'Unable to list its core components.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Knows it relates to securities but cannot explain the test.', 5: 'Clearly defines the test, lists all four prongs, and explains its relevance to token sales.' },
+                        expectedTime: '120 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'LEG-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Knowledge',
+                        question: 'What are the primary AML/KYC obligations for a centralized crypto exchange?',
+                        idealAnswer: {
+                            coreIdea: 'Centralized exchanges operating in most jurisdictions are considered Money Service Businesses (MSBs) or Virtual Asset Service Providers (VASPs) and are subject to the same AML/KYC regulations as traditional financial institutions.',
+                            keyPoints: [
+                                '1. **Customer Identification Program (CIP):** They must perform KYC (Know Your Customer) to verify the identity of their users (e.g., collecting government ID and proof of address).',
+                                '2. **Transaction Monitoring:** They must monitor transactions for suspicious activity that could indicate money laundering or terrorist financing.',
+                                '3. **Reporting:** They are required to file Suspicious Activity Reports (SARs) with financial intelligence units (like FinCEN in the US) for certain transactions.',
+                                '4. **Sanctions Screening:** They must screen users and transactions against global sanctions lists (like the OFAC list).'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking crypto is completely unregulated.', 'Confusing AML with general data privacy.'],
+                        whyThisMatters: ['This is the core of compliance for any centralized crypto company.'],
+                        followUps: ['How do these obligations apply to a decentralized protocol like Uniswap?', 'What is the "Travel Rule" for crypto transactions?'],
+                        redFlags: ['Believes exchanges have no compliance obligations.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Understands they need to do KYC but cannot list other obligations.', 5: 'Lists and explains the core pillars of a crypto AML program (CIP, monitoring, reporting, screening).' },
+                        expectedTime: '150 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'LEG-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Design',
+                        question: 'A DAO wants to hire a full-time developer and pay them a salary. What are the legal and operational challenges, and how could a "DAO legal wrapper" help solve them?',
+                        idealAnswer: {
+                            coreIdea: 'The challenge is that a DAO is not a recognized legal entity, making it impossible to sign an employment contract or manage payroll. A legal wrapper provides the necessary legal personhood to solve this.',
+                            keyPoints: [
+                                '**The Challenges:**',
+                                '- **No Legal Personhood:** The DAO itself cannot sign an employment agreement.',
+                                '- **Liability:** Without a legal structure, the DAO could be deemed a general partnership, making all token holders personally liable for its debts and obligations.',
+                                '- **Payroll & Taxes:** It\'s unclear how to handle payroll taxes and employment obligations for a contributor paid from a decentralized treasury.',
+                                '**The Legal Wrapper Solution:**',
+                                '1. The DAO votes to establish a traditional legal entity (e.g., a foundation or LLC) that it controls.',
+                                '2. This legal entity can then enter into a standard employment contract with the developer.',
+                                '3. The DAO can send funds from its treasury to the legal entity\'s bank account to cover the fiat salary and payroll taxes.',
+                                '4. The legal entity shields the DAO members from personal liability.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking DAOs can just sign contracts directly.', 'Not understanding the liability risk of a general partnership.'],
+                        whyThisMatters: ['This is a critical issue for any DAO that wants to mature and interact with the traditional world.', 'It shows an understanding of how to bridge the gap between Web3 and the existing legal system.'],
+                        followUps: ['What are some popular jurisdictions for these legal wrappers?', 'What are the risks of the legal wrapper not acting in accordance with the DAO\'s votes?'],
+                        redFlags: ['Does not see any legal issue with a DAO hiring an employee.', 'Is unaware of the concept of a legal wrapper.'],
+                        scoringRubric: { 1: 'Does not see a problem.', 3: 'Identifies the problems but is unaware of the legal wrapper solution.', 5: 'Clearly explains the challenges and how a legal wrapper provides a solution for contracts, liability, and payroll.' },
+                        expectedTime: '240 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'LEG-E-01',
+                        difficulty: 'Expert',
+                        category: 'Knowledge',
+                        question: 'Explain the legal distinction between a "utility token" and a "security token." What are the key factors a regulator would consider?',
+                        idealAnswer: {
+                            coreIdea: 'The distinction, which is often blurry, hinges on the token\'s primary purpose and the expectations of its purchasers. A utility token is primarily for use within a network, while a security token primarily represents an investment in an enterprise.',
+                            keyPoints: [
+                                '**Utility Token:**',
+                                '- **Purpose:** Its main function is to grant access to a product or service (e.g., FIL for storage on Filecoin).',
+                                '- **Marketing:** Marketed as a product for users, not as an investment for speculators.',
+                                '- **State of Network:** Ideally, the network is live and functional at the time of the token sale, so the token has immediate utility.',
+                                '**Security Token:**',
+                                '- **Purpose:** Represents an ownership stake, a debt, or a right to future profits.',
+                                '- **Expectation of Profit:** Purchasers are primarily motivated by the expectation of profit from the efforts of the development team.',
+                                '- **Marketing:** Often marketed with language about price appreciation and investment returns.',
+                                '**Regulators focus on the economic realities of the transaction, not what the project calls its token. They apply the Howey Test to determine if it\'s a security.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking that calling a token a "utility token" is a magical legal shield.', 'Not focusing on the expectation of the purchaser.'],
+                        whyThisMatters: ['This is the central regulatory battle in crypto. The classification has massive legal and compliance implications.'],
+                        followUps: ['Can a token start as a security and later become a utility token (the "Hinman test" theory)?', 'How does airdropping a token instead of selling it affect the analysis?'],
+                        redFlags: ['Believes the name "utility token" is all that matters.', 'Does not anchor their analysis in the Howey Test.'],
+                        scoringRubric: { 1: 'Is unaware of the distinction.', 3: 'Understands the basic difference but cannot articulate the key factors.', 5: 'Clearly explains the distinction based on purpose and expectation of profit, referencing the Howey Test and the importance of economic reality.' },
+                        expectedTime: '240 seconds'
+                    }
+                ]
             }
         },
         {
@@ -1454,10 +2485,105 @@ LIMIT 100;`
             snapshot: 'Defines the what and why of a decentralized product, balancing user needs, technical constraints, and community governance.',
             coreCompetencies: ['User Research', 'Roadmapping', 'Technical Literacy', 'Tokenomics', 'Community Communication', 'Data Analysis'],
             questions: {
-                Foundation: [],
-                Intermediate: [],
-                Advanced: [],
-                Expert: []
+                Foundation: [
+                    {
+                        id: 'PM-F-01',
+                        difficulty: 'Foundation',
+                        category: 'Strategy',
+                        question: 'How is being a Product Manager in Web3 different from Web2?',
+                        idealAnswer: {
+                            coreIdea: 'The core PM skills are the same, but the context is radically different. The key shifts are from managing users to managing owners, from centralized roadmaps to community governance, and from private data to public on-chain data.',
+                            keyPoints: [
+                                '**Users vs. Owners:** Your users are often token holders with a financial stake and a say in governance. This makes the relationship more complex and political.',
+                                '**Roadmap:** You can\'t just set a roadmap. You need to build consensus with the community and often get major features approved via governance proposals.',
+                                '**Data:** You don\'t have access to rich, private user analytics. You must learn to use public on-chain data (e.g., from Dune) to understand user behavior.',
+                                '**Composability:** Your product is an open "money lego." You have to think about how other developers will build on top of your protocol.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking the job is exactly the same.', 'Not mentioning the role of governance or the community.'],
+                        whyThisMatters: ['This is a foundational question to see if the candidate understands the fundamental paradigm shift required to be a PM in Web3.'],
+                        followUps: ['Which of these differences excites you the most?', 'Which do you think will be the most challenging for you?'],
+                        redFlags: ['Unable to articulate any significant differences.', 'Downplays the importance of the community.'],
+                        scoringRubric: { 1: 'Sees no difference.', 3: 'Mentions one difference, like crypto payments.', 5: 'Clearly explains multiple key differences, focusing on ownership, governance, and open data.' },
+                        expectedTime: '120 seconds'
+                    }
+                ],
+                Intermediate: [
+                    {
+                        id: 'PM-I-01',
+                        difficulty: 'Intermediate',
+                        category: 'Design',
+                        question: 'You want to gather user feedback for a new DeFi feature. How would you do it in a world where your users are pseudonymous?',
+                        idealAnswer: {
+                            coreIdea: 'You have to meet the users where they are and combine qualitative and quantitative methods, while respecting the pseudonymous nature of the community.',
+                            keyPoints: [
+                                '1. **Qualitative (Community):**',
+                                '   - **Governance Forums & Discord:** Start a discussion thread in the official channels to get initial feedback on the concept.',
+                                '   - **Community Calls:** Host a community call to present the idea and have a live Q&A session.',
+                                '   - **User Interviews:** Actively recruit engaged community members for 1-on-1 feedback calls. You can offer a small token reward for their time.',
+                                '2. **Quantitative (On-chain Data):**',
+                                '   - **Wallet Analysis:** Analyze the on-chain behavior of your current users. What other protocols do they use? How large are their wallets? This can help you build user personas (e.g., "DeFi Degen", "Retail User").',
+                                '   - **A/B Testing (with Feature Flags):** For larger protocols, you can use feature flags to roll out a new feature to a small subset of users and compare their on-chain behavior to a control group.'
+                            ]
+                        },
+                        commonPitfalls: ['Suggesting traditional methods like email surveys, which don\'t work for pseudonymous users.', 'Only relying on on-chain data and ignoring qualitative feedback.'],
+                        whyThisMatters: ['User research is a core PM skill, but it needs to be adapted for the Web3 context.', 'Shows the candidate can think creatively about gathering insights.'],
+                        followUps: ['How do you ensure the feedback you get is representative and not just from the loudest voices?', 'How would you build a "user persona" in Web3?'],
+                        redFlags: ['Has no idea how to approach user research with pseudonymous users.', 'Suggests methods that violate user privacy.'],
+                        scoringRubric: { 1: 'Does not know.', 3: 'Suggests only one method (e.g., "ask in Discord").', 5: 'Proposes a multi-pronged approach combining qualitative community feedback with quantitative on-chain analysis.' },
+                        expectedTime: '180 seconds'
+                    }
+                ],
+                Advanced: [
+                    {
+                        id: 'PM-A-01',
+                        difficulty: 'Advanced',
+                        category: 'Strategy',
+                        question: 'What is a "product moat" in Web3? How do you build a defensible product when your code is open source and can be easily forked?',
+                        idealAnswer: {
+                            coreIdea: 'In Web3, a product moat is not built on proprietary code, but on intangible assets like liquidity, brand, community, and integrations.',
+                            keyPoints: [
+                                '**The Problem:** Anyone can copy your smart contract code (a "fork").',
+                                '**Building a Moat:**',
+                                '1. **Liquidity:** For DeFi protocols, having the deepest liquidity is a powerful moat. Traders will always go where the best prices and lowest slippage are. This creates a network effect.',
+                                '2. **Community & Brand:** A strong, vibrant community and a trusted brand are very difficult to fork. Users are loyal to the community and the brand they trust.',
+                                '3. **Integrations:** Being integrated into many other protocols creates high switching costs. If your stablecoin is the most widely accepted collateral in DeFi, it\'s very hard to displace.',
+                                '4. **Team & Governance:** A world-class team and a robust, fair governance process can be a moat. The community trusts the team to continue innovating and steering the protocol effectively.'
+                            ]
+                        },
+                        commonPitfalls: ['Thinking that a feature is a moat.', 'Not understanding that code can be forked.'],
+                        whyThisMatters: ['This is a fundamental strategic question for any Web3 project.', 'It tests the candidate\'s ability to think about long-term competitive advantage in an open-source world.'],
+                        followUps: ['Analyze the moat of Uniswap vs. Sushiswap.', 'Is first-mover advantage a strong moat in Web3?'],
+                        redFlags: ['Believes that having a better feature is enough to win.', 'Does not understand the power of liquidity as a moat.'],
+                        scoringRubric: { 1: 'Does not understand what a moat is.', 3: 'Mentions brand or community but cannot explain the other, more powerful moats.', 5: 'Clearly explains that moats are not based on code and details several key moats like liquidity, brand, and integrations.' },
+                        expectedTime: '240 seconds'
+                    }
+                ],
+                Expert: [
+                    {
+                        id: 'PM-E-01',
+                        difficulty: 'Expert',
+                        category: 'Design',
+                        question: 'You are the PM for a new protocol. You need to launch a governance token. Design the token distribution strategy, considering the team, investors, and the community. Justify your allocation percentages.',
+                        idealAnswer: {
+                            coreIdea: 'A good token distribution must balance rewarding the core team and early investors with ensuring the majority of the supply goes to the community over time to achieve credible decentralization.',
+                            keyPoints: [
+                                '**Example Allocation:**',
+                                '- **Community/Ecosystem: 50-60%** This is the largest and most important bucket. The majority should be reserved for the community, distributed over many years via liquidity mining, grants, and airdrops. This ensures long-term community ownership.',
+                                '- **Core Team & Advisors: 15-20%** This is standard to reward the builders. It MUST be subject to a long vesting schedule (e.g., 4-year vest with a 1-year cliff) to ensure long-term alignment.',
+                                '- **Investors (Seed, VCs): 15-20%** Rewards early backers. Also must be subject to a similar vesting schedule.',
+                                '- **Foundation/Treasury: 5-10%** A portion reserved for a foundation for operational expenses, audits, and legal costs.',
+                                '**Justification:** This structure signals that the project is committed to eventual community ownership, while still providing strong incentives for the team and investors who took the initial risk. The long vesting schedules prevent insiders from dumping on the community early on.'
+                            ]
+                        },
+                        commonPitfalls: ['Giving too large a share to the team/investors.', 'Having no vesting schedule.', 'Not reserving the largest portion for the community.'],
+                        whyThisMatters: ['Token distribution is one of the most critical and scrutinized decisions a project makes.', 'It reflects the project\'s values and its commitment to decentralization.'],
+                        followUps: ['How would you design an airdrop to reward genuine early users while filtering out sybil attackers?', 'What are the pros and cons of a "fair launch" with no team or investor allocation?'],
+                        redFlags: ['Proposes an allocation that is heavily skewed towards insiders.', 'Does not see the importance of vesting schedules.'],
+                        scoringRubric: { 1: 'Does not know how to approach this.', 3: 'Provides an allocation but with poor justification or problematic percentages.', 5: 'Designs a well-reasoned allocation with clear justifications for each stakeholder group and strong vesting terms for insiders.' },
+                        expectedTime: '300 seconds'
+                    }
+                ]
             }
         }
     ],
