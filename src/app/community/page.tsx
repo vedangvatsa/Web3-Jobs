@@ -60,11 +60,21 @@ const hiredCompanies = [
     { name: 'Truflation', src: '/logo/truflation.png' },
     { name: 'DePHY', src: '/logo/dephy.png' },
     { name: 'dYdX', src: '/logo/dydx.png' },
-    { name: 'Funtoken', src: '/logo/funtoken.png' },
     { name: 'LBank', src: '/logo/lbank.png' },
     { name: 'Zerion', src: '/logo/zerion.png' },
     { name: 'Mercuryo', src: '/logo/mercuryo.png' },
     { name: 'Watches.io', src: '/logo/watches.png' },
+    { name: 'Koii', src: '/logo/koii.png' },
+    { name: 'Zeebu', src: '/logo/zeebu.png' },
+    { name: 'VNTR', src: '/logo/vntr.png' },
+    { name: 'Scallop', src: '/logo/scallop.png' },
+    { name: 'Quantstamp', src: '/logo/quantstamp.png' },
+    { name: 'Overmind', src: '/logo/overmind.png' },
+    { name: 'KCEX', src: '/logo/kcex.png' },
+    { name: 'Galxe', src: '/logo/galxe.png' },
+    { name: 'Jaya Talent', src: '/logo/jayatalent.png' },
+    { name: 'Funtoken', src: '/logo/funtoken.png' },
+    { name: 'Alemx', src: '/logo/alemx.png' },
 ]
 
 const channels = [
