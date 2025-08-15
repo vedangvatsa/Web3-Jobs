@@ -12,7 +12,7 @@ const stats = [
   { value: '100,000+', label: 'Web3 Professionals' },
   { value: '55M+', label: 'Job Board Views' },
   { value: '40k', label: 'Avg. Listeners per Space' },
-  { value: '35M', label: 'Annual LinkedIn Impressions' },
+  { value: '35M+', label: 'LinkedIn impressions' },
 ];
 
 const companies = [
@@ -212,17 +212,20 @@ export default function CommunityPage() {
              </Card>
           </section>
 
-          <section className="mb-16">
-            <h2 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">
-                Our global network includes industry leaders from
-            </h2>
-            <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-4">
-                {companies.map((logo) => (
-                    <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
-                        <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
-                    </div>
-                ))}
-            </div>
+          <section className="mb-16 bg-white rounded-lg py-8">
+             <div className="max-w-4xl mx-auto">
+                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">
+                    Our global network includes industry leaders from
+                </h3>
+                <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-4">
+                    {companies.map((logo) => (
+                        <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
+                            <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
+                        </div>
+                    ))}
+                </div>
+                <p className="text-center text-xs text-muted-foreground mt-4">and many more...</p>
+             </div>
           </section>
 
           <section className="mb-16">
@@ -271,7 +274,7 @@ export default function CommunityPage() {
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
                     {partnersLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
+                        <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
                             <img src={logo.src} alt={`${logo.name} logo`} className="object-contain w-full h-full" />
                         </div>
                     ))}
@@ -284,11 +287,12 @@ export default function CommunityPage() {
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">As seen on</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6">
                     {mediaLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
+                        <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
                             <Image src={logo.src} alt={logo.name} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
+                <p className="text-center text-xs text-muted-foreground mt-4">and many more...</p>
              </div>
           </section>
 
@@ -322,11 +326,12 @@ export default function CommunityPage() {
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Job roles promoted for</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6">
                     {hiredCompanies.map((logo) => (
-                        <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
+                        <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
+                <p className="text-center text-xs text-muted-foreground mt-4">and many more...</p>
              </div>
           </section>
 
