@@ -34,7 +34,10 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: siteConfig.url,
-    title: siteConfig.name,
+    title: {
+        default: siteConfig.name,
+        template: `%s | ${siteConfig.name}`,
+    },
     description: siteConfig.description,
     siteName: siteConfig.name,
     images: [
@@ -48,7 +51,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: siteConfig.name,
+    title: {
+        default: siteConfig.name,
+        template: `%s | ${siteConfig.name}`,
+    },
     description: siteConfig.description,
     creator: "@hashtag_web3",
     images: [`${siteConfig.url}/og-image.png`],
