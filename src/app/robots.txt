@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://web3-jobs.example.com/sitemap.xml
+Sitemap: https://jobs.hashtagweb3.com/sitemap.xml

@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     notFound();
   }
 
-  const siteUrl = 'https://web3-jobs.example.com';
+  const siteUrl = 'https://jobs.hashtagweb3.com';
 
   return {
     title: article.title,
@@ -65,7 +65,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     notFound();
   }
   
-  const siteUrl = 'https://web3-jobs.example.com';
+  const siteUrl = 'https://jobs.hashtagweb3.com';
   const articleSchema: ArticleSchema = {
     '@type': 'Article',
     headline: article.title,

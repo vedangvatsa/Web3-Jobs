@@ -2,7 +2,7 @@
 import { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
 
-const siteUrl = 'https://web3-jobs.example.com';
+const siteUrl = 'https://jobs.hashtagweb3.com';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticRoutes = [
