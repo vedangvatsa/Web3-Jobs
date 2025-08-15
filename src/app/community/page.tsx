@@ -4,7 +4,7 @@
 import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Newspaper, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare, Send } from 'lucide-react';
+import { Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Newspaper, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare, Send, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
@@ -220,7 +220,7 @@ export default function CommunityPage() {
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">
                     Our global network includes industry leaders from
                 </h3>
-                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-7 gap-x-8 gap-y-6 items-center justify-center">
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 gap-x-8 gap-y-6 items-center justify-center">
                     {companies.map((logo) => (
                         <div key={logo.name} className="relative h-10 w-full" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
@@ -275,7 +275,7 @@ export default function CommunityPage() {
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
-                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-x-12 gap-y-8 items-center justify-center">
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 lg:grid-cols-8 gap-x-12 gap-y-8 items-center justify-center">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized />
@@ -359,6 +359,23 @@ export default function CommunityPage() {
                 </a>
              </div>
           </section>
+
+          <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
+            <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
+                <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
+                    <Rss className="h-8 w-8 text-primary"/>
+                </div>
+                <div>
+                    <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
+                    <p className="text-muted-foreground">Join our Telegram channel with over 56,000 subscribers to get the latest job postings.</p>
+                </div>
+                <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
+                    <Button size="lg">
+                        Join Job Feed <ArrowRight className="ml-2 h-4 w-4"/>
+                    </Button>
+                </a>
+            </CardContent>
+          </Card>
 
         </div>
       </main>
