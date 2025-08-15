@@ -16,17 +16,27 @@ const stats = [
 ];
 
 const companies = [
-  { name: 'JP Morgan', src: '/logo/JP_Morgan.png' },
-  { name: 'Binance', src: '/logo/binance.png' },
-  { name: 'Aptos', src: '/logo/aptos.png' },
-  { name: 'Ripple', src: '/logo/ripple.png' },
-  { name: 'Consensys', src: '/logo/consensys.png' },
-  { name: 'Microsoft', src: '/logo/microsoft.png' },
-  { name: 'Citi', src: '/logo/citi.png' },
-  { name: 'Blackrock', src: '/logo/blackrock.png' },
-  { name: 'Polygon', src: '/logo/polygon.png' },
-  { name: 'EY', src: '/logo/ey.png' },
-  { name: 'Google', src: '/logo/google.png' },
+    { name: 'Algorand', src: '/logo/companies/algorand.png' },
+    { name: 'Animoca Brands', src: '/logo/companies/Animoca-Brands.png' },
+    { name: 'Aptos', src: '/logo/companies/aptos.png' },
+    { name: 'Ava Labs', src: '/logo/companies/ava.png' },
+    { name: 'Blackrock', src: '/logo/companies/blackrock.png' },
+    { name: 'Bloomberg', src: '/logo/companies/bloomberg.png' },
+    { name: 'Chainalysis', src: '/logo/companies/Chainalysis.png' },
+    { name: 'Circle', src: '/logo/companies/circle.png' },
+    { name: 'Citi', src: '/logo/companies/citi.png' },
+    { name: 'Consensys', src: '/logo/companies/consensys.png' },
+    { name: 'EY', src: '/logo/companies/ey.png' },
+    { name: 'Gemini', src: '/logo/companies/gemini.png' },
+    { name: 'Google', src: '/logo/companies/google.png' },
+    { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png' },
+    { name: 'KPMG', src: '/logo/companies/KPMG.png' },
+    { name: 'McKinsey', src: '/logo/companies/mckinsey.png' },
+    { name: 'Microsoft', src: '/logo/companies/microsoft.png' },
+    { name: 'Polygon', src: '/logo/companies/polygon.png' },
+    { name: 'PwC', src: '/logo/companies/pwc.png' },
+    { name: 'R3', src: '/logo/companies/r3.png' },
+    { name: 'Ripple', src: '/logo/companies/ripple.png' },
 ];
 
 const partnersLogos = [
@@ -97,39 +107,33 @@ const mediaLogos = [
     { name: 'media-42', src: '/logo/media/fd7e246f812a15af9fe590ce48ab163ceccee6f8.png' },
 ];
 
-const promotedContent = [
-    { name: 'Kucoin', src: '/logo/kucoin.png'},
-    { name: 'Gate.io', src: '/logo/gateio.png'},
-    { name: 'Bitget', src: '/logo/bitget.png'},
-    { name: 'Onepiece Labs', src: '/logo/onepiece-labs.png'},
-    { name: 'Manta Network', src: '/logo/manta-network.png'},
-]
-
 const hiredCompanies = [
-    { name: 'Swell Network', src: '/logo/swell.png' },
-    { name: 'Circle', src: '/logo/circle.png' },
-    { name: 'Glassnode', src: '/logo/glassnode.png' },
-    { name: 'LiquidX', src: '/logo/liquidx.png' },
-    { name: 'Truflation', src: '/logo/truflation.png' },
-    { name: 'DePHY', src: '/logo/dephy.png' },
-    { name: 'dYdX', src: '/logo/dydx.png' },
-    { name: 'LBank', src: '/logo/lbank.png' },
-    { name: 'Zerion', src: '/logo/zerion.png' },
-    { name: 'Mercuryo', src: '/logo/mercuryo.png' },
-    { name: 'Watches.io', src: '/logo/watches.png' },
-    { name: 'Koii', src: '/logo/koii.png' },
-    { name: 'Zeebu', src: '/logo/zeebu.png' },
-    { name: 'VNTR', src: '/logo/vntr.png' },
-    { name: 'Scallop', src: '/logo/scallop.png' },
-    { name: 'Quantstamp', src: '/logo/quantstamp.png' },
-    { name: 'Overmind', src: '/logo/overmind.png' },
-    { name: 'KCEX', src: '/logo/kcex.png' },
-    { name: 'Galxe', src: '/logo/galxe.png' },
-    { name: 'Jaya Talent', src: '/logo/jayatalent.png' },
-    { name: 'Funtoken', src: '/logo/funtoken.png' },
-    { name: 'Alemx', src: '/logo/alemx.png' },
-    { name: 'Peanut', src: '/logo/peanut.png' },
-    { name: 'Trilitech', src: '/logo/trilitech.png' },
+    { name: 'Alemx', src: '/logo/job/alemx.png' },
+    { name: 'Binance', src: '/logo/job/binance.png' },
+    { name: 'Bitget', src: '/logo/job/bitget.png' },
+    { name: 'Circle', src: '/logo/job/circle.png' },
+    { name: 'Coinbase', src: '/logo/job/coinbase.png' },
+    { name: 'DePHY', src: '/logo/job/dephy.png' },
+    { name: 'dYdX', src: '/logo/job/dydx.png' },
+    { name: 'Funtoken', src: '/logo/job/funtoken.png' },
+    { name: 'Galxe', src: '/logo/job/galxe.png' },
+    { name: 'Glassnode', src: '/logo/job/glassnode.png' },
+    { name: 'Jaya Talent', src: '/logo/job/jayatalent.png' },
+    { name: 'KCEX', src: '/logo/job/kcex.png' },
+    { name: 'LBank', src: '/logo/job/lbank.png' },
+    { name: 'LiquidX', src: '/logo/job/liquidx.png' },
+    { name: 'Mercuryo', src: '/logo/job/mercuryo.png' },
+    { name: 'Overmind', src: '/logo/job/overmind.png' },
+    { name: 'Peanut', src: '/logo/job/peanut.png' },
+    { name: 'Quantstamp', src: '/logo/job/quantstamp.png' },
+    { name: 'Scallop', src: '/logo/job/scallop.png' },
+    { name: 'Swell Network', src: '/logo/job/swell.png' },
+    { name: 'Trilitech', src: '/logo/job/trilitech.png' },
+    { name: 'Truflation', src: '/logo/job/truflation.png' },
+    { name: 'VNTR', src: '/logo/job/vn.png' },
+    { name: 'Watches.io', src: '/logo/job/watches.png' },
+    { name: 'Zeebu', src: '/logo/job/zeebu.png' },
+    { name: 'Zerion', src: '/logo/job/zerion.png' },
 ]
 
 const channels = [
@@ -214,7 +218,7 @@ export default function CommunityPage() {
             </h2>
             <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-4">
                 {companies.map((logo) => (
-                    <div key={logo.name} className="relative h-6 w-32" title={logo.name}>
+                    <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
                         <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
                     </div>
                 ))}
@@ -280,7 +284,7 @@ export default function CommunityPage() {
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">As seen on</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6">
                     {mediaLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-6 w-32" title={logo.name}>
+                        <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
                             <Image src={logo.src} alt={logo.name} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
@@ -318,7 +322,7 @@ export default function CommunityPage() {
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Job roles promoted for</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6">
                     {hiredCompanies.map((logo) => (
-                        <div key={logo.name} className="relative h-6 w-32" title={logo.name}>
+                        <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
