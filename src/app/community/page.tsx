@@ -214,7 +214,7 @@ export default function CommunityPage() {
             </h2>
             <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-4">
                 {companies.map((logo) => (
-                    <div key={logo.name} className="relative h-6 w-28" title={logo.name}>
+                    <div key={logo.name} className="relative h-6 w-32" title={logo.name}>
                         <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
                     </div>
                 ))}
@@ -353,5 +353,3 @@ export default function CommunityPage() {
     </div>
   );
 }
-
-    
