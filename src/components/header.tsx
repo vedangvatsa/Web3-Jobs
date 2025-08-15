@@ -1,7 +1,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -42,6 +42,7 @@ export function Header() {
     const socialLinks = [
         { href: "https://x.com/hashtag_web3", label: "X", icon: Twitter, 'aria-label': 'Follow us on X' },
         { href: "https://linkedin.com/company/hashtagweb3", label: "LinkedIn", icon: Linkedin, 'aria-label': 'Follow us on LinkedIn' },
+        { href: "https://t.me/hashtagweb3", label: "Telegram", icon: Send, 'aria-label': 'Join us on Telegram' },
     ]
 
     return (
