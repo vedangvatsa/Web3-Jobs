@@ -59,6 +59,7 @@ const partnersLogos = [
     { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png'},
     { name: 'Token 2049', src: '/logo/partners/token2049.png'},
     { name: 'WBS', src: '/logo/partners/wbs.png'},
+    { name: 'OBC', src: '/logo/partners/obc.png' },
 ];
 
 const mediaLogos = [
@@ -215,18 +216,18 @@ export default function CommunityPage() {
           </section>
 
           <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-4xl mx-auto">
+             <div className="max-w-6xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">
                     Our global network includes industry leaders from
                 </h3>
-                <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-4">
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-7 gap-x-8 gap-y-6 items-center justify-center">
                     {companies.map((logo) => (
-                        <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
+                        <div key={logo.name} className="relative h-10 w-full" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
-                <p className="text-center text-xs text-muted-foreground mt-4">and many more...</p>
+                <p className="text-center text-xs text-muted-foreground mt-6">and many more...</p>
              </div>
           </section>
 
@@ -272,11 +273,11 @@ export default function CommunityPage() {
           </section>
 
           <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-4xl mx-auto">
+             <div className="max-w-6xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
-                <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-x-12 gap-y-8 items-center justify-center">
                     {partnersLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
+                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized />
                         </div>
                     ))}
@@ -285,16 +286,16 @@ export default function CommunityPage() {
           </section>
           
           <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-5xl mx-auto">
+             <div className="max-w-6xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">As seen on</h3>
-                <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6">
+                <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-7 lg:grid-cols-9 gap-x-10 gap-y-8 items-center justify-center">
                     {mediaLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
+                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
                             <Image src={logo.src} alt={logo.name} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
-                <p className="text-center text-xs text-muted-foreground mt-4">and many more...</p>
+                <p className="text-center text-xs text-muted-foreground mt-6">and many more...</p>
              </div>
           </section>
 
@@ -324,16 +325,16 @@ export default function CommunityPage() {
             </section>
           
           <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-5xl mx-auto">
+             <div className="max-w-6xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Job roles promoted for</h3>
-                <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6">
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-x-10 gap-y-8 items-center justify-center">
                     {hiredCompanies.map((logo) => (
-                        <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
+                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
-                <p className="text-center text-xs text-muted-foreground mt-4">and many more...</p>
+                <p className="text-center text-xs text-muted-foreground mt-6">and many more...</p>
              </div>
           </section>
 
