@@ -17,7 +17,7 @@ const inter = Inter({
 const siteConfig = {
   name: "Hashtag Web3",
   description: "The best job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
-  url: "https://web3-jobs.example.com",
+  url: "https://jobs.hashtagweb3.com",
 };
 
 export const metadata: Metadata = {

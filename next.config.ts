@@ -24,7 +24,7 @@ const nextConfig: NextConfig = {
       }
     ],
     domains: [
-      'web3-jobs.example.com'
+      'jobs.hashtagweb3.com'
     ],
   },
 };
