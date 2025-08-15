@@ -30,23 +30,25 @@ const companies = [
 ];
 
 const partnersLogos = [
-    { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png'},
-    { name: 'Token 2049', src: '/logo/partners/token2049.png'},
-    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png'},
-    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png'},
+    { name: 'Altlayer', src: '/logo/partners/altlayer.png'},
+    { name: 'BFF', src: '/logo/partners/bff.png'},
+    { name: 'Coinfest', src: '/logo/partners/coinfest.png'},
+    { name: 'Date', src: '/logo/partners/date.png'},
     { name: 'EDCON', src: '/logo/partners/edcon.png'},
     { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png'},
+    { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png'},
     { name: 'ETHVietnam', src: '/logo/partners/ethvietnam.png'},
-    { name: 'IEEE', src: '/logo/partners/ieee.png'},
-    { name: 'Istanbul Blockchain Week', src: '/logo/partners/istanbul.png'},
     { name: 'Harvard', src: '/logo/partners/harvard.png'},
-    { name: 'Onepiece Labs', src: '/logo/partners/onepiece-labs.png'},
+    { name: 'IBW', src: '/logo/partners/ibw.png'},
+    { name: 'IEEE', src: '/logo/partners/ieee.png'},
+    { name: 'Istanbul', src: '/logo/partners/istanbul.png'},
+    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png'},
+    { name: 'OBC', src: '/logo/partners/obc.png'},
+    { name: 'Onepiece Labs', src: '/logo/partners/onepiece.png'},
     { name: 'PBS', src: '/logo/partners/pbs.png'},
-    { name: 'Kucoin', src: '/logo/partners/kucoin.png'},
-    { name: 'Gate.io', src: '/logo/partners/gateio.png'},
-    { name: 'Bitget', src: '/logo/partners/bitget.png'},
-    { name: 'Manta Network', src: '/logo/partners/manta-network.png'},
-    { name: 'Swell Network', src: '/logo/partners/swell.png'},
+    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png'},
+    { name: 'Token 2049', src: '/logo/partners/token2049.png'},
+    { name: 'WBS', src: '/logo/partners/wbs.png'},
 ];
 
 const mediaLogos = [
