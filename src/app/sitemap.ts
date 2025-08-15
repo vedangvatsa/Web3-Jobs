@@ -13,7 +13,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 1,
     },
     {
-      url: `${siteUrl}/playbook`,
+      url: `${siteUrl}/blog`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8
@@ -63,9 +63,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     changeFrequency: 'monthly',
     priority: 0.7
   }));
-
-  // Rename /blog to /playbook in the sitemap logic if necessary in the future
-  // For now, the route path remains /blog
 
   return [...staticRoutes, ...articleRoutes];
 }
