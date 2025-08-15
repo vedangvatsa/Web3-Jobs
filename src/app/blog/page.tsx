@@ -8,6 +8,7 @@ import type { Article } from '@/types';
 import { Button } from '@/components/ui/button';
 import { getAllArticles } from '@/lib/articles';
 import { BlogCategoryFilter } from '@/components/blog-category-filter';
+import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
@@ -45,18 +46,20 @@ export default async function PlaybookIndexPage({ searchParams }: { searchParams
     ? allArticles.filter((article) => article.category === selectedCategory)
     : allArticles;
 
+  const headlines = [
+      "The Web3 Playbook",
+      "Career Guides",
+      "Technology Deep Dives",
+      "Industry Insights"
+  ];
+
   return (
     <div className="flex flex-col min-h-screen bg-background">
       <Header />
       <main className="flex-1">
         <div className="container mx-auto px-4 py-8">
           <section className="text-center mb-12 max-w-4xl mx-auto">
-            <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-              The Playbook
-            </h1>
-            <p className="mt-4 text-lg text-muted-foreground">
-              Your essential guide to navigating and succeeding in the Web3 ecosystem. Explore in-depth articles on careers, technology, and industry insights.
-            </p>
+             <TransitioningHeadline phrases={headlines} />
           </section>
 
           <div className="mb-12">

@@ -22,6 +22,7 @@ import {
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 import { Separator } from '@/components/ui/separator';
+import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 const checklistData = {
   sections: [
@@ -194,6 +195,13 @@ export default function RemoteWorkChecklistPage() {
             });
         }
     };
+    
+    const headlines = [
+        "Remote Work Readiness Checklist",
+        "Optimize Your WFH Setup",
+        "Succeed in a Distributed Team",
+        "Your Guide to Remote Success"
+    ];
 
   return (
     <div className="flex flex-col min-h-screen bg-secondary/30">
@@ -204,12 +212,7 @@ export default function RemoteWorkChecklistPage() {
              <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
                 <ListChecks className="h-10 w-10 text-primary" />
             </div>
-            <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-              Remote Work Readiness Checklist
-            </h1>
-            <p className="mt-4 text-lg text-muted-foreground">
-             Working remotely in Web3 requires a professional setup to ensure you're productive, secure, and connected. This comprehensive checklist covers the key areas to prepare you for success in a distributed work environment. Tick off each item as you go, and download the list as a PDF to keep handy.
-            </p>
+            <TransitioningHeadline phrases={headlines} />
             <Button onClick={handleDownloadPdf} className="mt-6">
               <Download className="mr-2 h-4 w-4" />
               Download as PDF

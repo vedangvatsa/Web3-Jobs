@@ -5,9 +5,17 @@ import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
+import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 export default async function Home() {
   const initialJobs = await getJobs();
+  const headlines = [
+      "Find Your Next Web3 Job",
+      "Discover Top Crypto Roles",
+      "Work in Blockchain",
+      "Explore DeFi Careers",
+      "Join a DAO Today"
+  ];
 
   return (
     <div className="flex flex-col min-h-screen bg-background">
@@ -16,12 +24,7 @@ export default async function Home() {
         <div className="container mx-auto py-8 px-4">
             <section className="text-center mb-8">
                 <div className="max-w-6xl mx-auto">
-                    <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-                        Find your next Web3 Job
-                    </h1>
-                    <p className="mt-4 text-base md:text-lg text-muted-foreground max-w-3xl mx-auto">
-                        The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
-                    </p>
+                    <TransitioningHeadline phrases={headlines} />
                 </div>
             </section>
             <div className="max-w-6xl mx-auto">
