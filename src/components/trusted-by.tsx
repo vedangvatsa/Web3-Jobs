@@ -8,6 +8,7 @@ export function TrustedBy() {
         { name: 'Coinbase', src: '/logo/job/coinbase.png' },
         { name: 'Bitget', src: '/logo/job/bitget.png' },
         { name: 'Binance', src: '/logo/job/binance.png' },
+        { name: 'Circle', src: '/logo/job/circle.png' },
     ];
 
     return (
