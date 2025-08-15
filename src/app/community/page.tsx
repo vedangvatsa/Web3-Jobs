@@ -11,9 +11,9 @@ import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 const stats = [
   { value: '100,000+', label: 'Web3 Professionals' },
-  { value: '55M+', label: 'Job Board Views' },
+  { value: '55M+', label: 'LinkedIn impressions' },
   { value: '40k', label: 'Avg. Listeners per Space' },
-  { value: '35M+', label: 'LinkedIn impressions' },
+  { value: '35M+', label: 'Job Board Views' },
 ];
 
 const companies = [
@@ -132,7 +132,7 @@ const hiredCompanies = [
     { name: 'Trilitech', src: '/logo/job/trilitech.png' },
     { name: 'Truflation', src: '/logo/job/truflation.png' },
     { name: 'VNTR', src: '/logo/job/vn.png' },
-    { name: 'Watches.io', src: '/logo/job/watches.png' },
+    { name: 'Watches.io', src: '/logo/job/watches.io.png' },
     { name: 'Zeebu', src: '/logo/job/zeebu.png' },
     { name: 'Zerion', src: '/logo/job/zerion.png' },
 ]
@@ -182,6 +182,27 @@ const caseStudies = [
   }
 ]
 
+const communityPhotos = [
+    { src: '/logo/gallary/2025-08-14 18.05.08-min.jpg', alt: 'Community event photo 1' },
+    { src: '/logo/gallary/2025-08-14 18.05.12-min.jpg', alt: 'Community event photo 2' },
+    { src: '/logo/gallary/2025-08-14 18.05.15-min.jpg', alt: 'Community event photo 3' },
+    { src: '/logo/gallary/2025-08-14 18.05.18-min.jpg', alt: 'Community event photo 4' },
+    { src: '/logo/gallary/2025-08-14 18.05.20-min.jpg', alt: 'Community event photo 5' },
+    { src: '/logo/gallary/2025-08-14 18.05.24-min.jpg', alt: 'Community event photo 6' },
+    { src: '/logo/gallary/2025-08-14 18.05.27-min.jpg', alt: 'Community event photo 7' },
+    { src: '/logo/gallary/2025-08-14 18.05.30-min.jpg', alt: 'Community event photo 8' },
+    { src: '/logo/gallary/2025-08-14 18.05.33-min.jpg', alt: 'Community event photo 9' },
+    { src: '/logo/gallary/2025-08-14 18.05.35-min.jpg', alt: 'Community event photo 10' },
+    { src: '/logo/gallary/2025-08-14 18.05.44-min.jpg', alt: 'Community event photo 11' },
+    { src: '/logo/gallary/2025-08-14 18.05.47-min.jpg', alt: 'Community event photo 12' },
+    { src: '/logo/gallary/2025-08-14 18.05.50-min.jpg', alt: 'Community event photo 13' },
+    { src: '/logo/gallary/2025-08-14 22.30.59.jpg', alt: 'Community event photo 14' },
+    { src: '/logo/gallary/2025-08-14 22.31.02.jpg', alt: 'Community event photo 15' },
+    { src: '/logo/gallary/2025-08-14 22.32.30.jpg', alt: 'Community event photo 16' },
+    { src: '/logo/gallary/2025-08-14 22.38.14.jpg', alt: 'Community event photo 17' },
+    { src: '/logo/gallary/2025-08-14 22.38.17.jpg', alt: 'Community event photo 18' }
+];
+
 export default function CommunityPage() {
     const headlines = [
       "Connecting The Web3 Ecosystem",
@@ -222,7 +243,7 @@ export default function CommunityPage() {
                 </h3>
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 gap-x-8 gap-y-6 items-center justify-center">
                     {companies.map((logo) => (
-                        <div key={logo.name} className="relative h-10 w-full" title={logo.name}>
+                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
@@ -268,6 +289,25 @@ export default function CommunityPage() {
                         </ul>
                    </CardContent>
                 </Card>
+              ))}
+            </div>
+          </section>
+
+          <section className="mb-16">
+            <h2 className="text-3xl font-bold text-center text-primary mb-2">Community Moments</h2>
+            <p className="text-center text-muted-foreground mb-8">Highlights from events, partnerships, and community activities.</p>
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+              {communityPhotos.map((photo, index) => (
+                <div key={index} className="group relative aspect-square overflow-hidden rounded-lg">
+                  <Image
+                    src={photo.src}
+                    alt={photo.alt}
+                    fill
+                    className="object-cover transition-transform duration-300 group-hover:scale-105"
+                    sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 25vw"
+                    unoptimized
+                  />
+                </div>
               ))}
             </div>
           </section>
