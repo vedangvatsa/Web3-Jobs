@@ -315,7 +315,7 @@ export default function CommunityPage() {
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
-                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 lg:grid-cols-8 gap-x-12 gap-y-8 items-center justify-center">
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized />
@@ -328,7 +328,7 @@ export default function CommunityPage() {
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">As seen on</h3>
-                <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-7 lg:grid-cols-9 gap-x-10 gap-y-8 items-center justify-center">
+                <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {mediaLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
                             <Image src={logo.src} alt={logo.name} fill className="object-contain" unoptimized/>
@@ -367,7 +367,7 @@ export default function CommunityPage() {
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Job roles promoted for</h3>
-                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-x-10 gap-y-8 items-center justify-center">
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {hiredCompanies.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
