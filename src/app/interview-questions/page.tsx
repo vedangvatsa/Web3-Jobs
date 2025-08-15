@@ -169,7 +169,6 @@ export default function InterviewQuestionBankPage() {
                   <BookOpen className="h-10 w-10 text-primary" />
               </div>
               <TransitioningHeadline phrases={headlines} />
-              <p className="text-xs text-muted-foreground mt-2">Last updated: June 2024</p>
             </section>
 
             <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
