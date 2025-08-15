@@ -50,11 +50,37 @@ const partnersLogos = [
 ];
 
 const mediaLogos = [
-    { name: 'Forbes', src: '/logo/media/forbes.png' },
-    { name: 'TechCrunch', src: '/logo/media/techcrunch.png' },
-    { name: 'Bloomberg', src: '/logo/media/bloomberg.png' },
-    { name: 'CoinDesk', src: '/logo/media/coindesk.png' },
-    { name: 'Cointelegraph', src: '/logo/media/cointelegraph.png' },
+    { name: 'media-0', src: '/logo/media/0df9cd95ce02d767feb771e713b387514e9b6590.png' },
+    { name: 'media-1', src: '/logo/media/1ce9a019ef58063c68fd5f64d36199068838804e.png' },
+    { name: 'media-2', src: '/logo/media/2c3fa745faeb2bd3a97ef271a7210d82b8f193fb.png' },
+    { name: 'media-3', src: '/logo/media/2d6ff9bae82b907d41d85b0e2b145a4202f656ba.png' },
+    { name: 'media-4', src: '/logo/media/2eaefd517b11a4f8139fa0998f0321073e6aaa26.png' },
+    { name: 'media-5', src: '/logo/media/3f5ed1e4e5acf2a1aa699648e9a8284f895f5b9e.png' },
+    { name: 'media-6', src: '/logo/media/7c7a5cb7d0a5dde8c873b68c2fa7a5748a9f2821.png' },
+    { name: 'media-7', src: '/logo/media/9f54a3a611014d6c5b03d4e87059095e1710c84c.png' },
+    { name: 'media-8', src: '/logo/media/13b366f03bf16e31432f997be9d974ace71f5483.png' },
+    { name: 'media-9', src: '/logo/media/14b6543adc2530b43e59f255852262af6294a874.png' },
+    { name: 'media-10', src: '/logo/media/47a5b11c5f367ffff6d46d4eeff2020ba76b4ec2.png' },
+    { name: 'media-11', src: '/logo/media/60db47ab2a1ee5695d364da223d9267d15a68733.png' },
+    { name: 'media-12', src: '/logo/media/61f451fcff223b9ec852f65ee7232906e1e6bfe1.png' },
+    { name: 'media-13', src: '/logo/media/454f781c4d44411f1cfb964a8e1e6b5768ec883c.png' },
+    { name: 'media-14', src: '/logo/media/543ac1c6ea4d10859ddb62f62a7932d9c3318005.png' },
+    { name: 'media-15', src: '/logo/media/564b865018722f2f3f1f43875bc4112822bacbe4.png' },
+    { name: 'media-16', src: '/logo/media/565e76c27070ab0c4da9be1dc106d777c910a938.png' },
+    { name: 'media-17', src: '/logo/media/653a53899adfcbeafc81de62baa881d1c2d27c5a.png' },
+    { name: 'media-18', src: '/logo/media/914ed4188944a17b5f4b541374670571c6316e69.png' },
+    { name: 'media-19', src: '/logo/media/2038d630d6fdd84ee6b82d19374e8c1dedd4bc25.png' },
+    { name: 'media-20', src: '/logo/media/5295a00d73a662c02e46e2c6d01fdd59a8250ffa.png' },
+    { name: 'media-21', src: '/logo/media/7412a040ffa99d458d711f293b7f4ec8aae67fb4.png' },
+    { name: 'media-22', src: '/logo/media/599823393b4fadc2f1c9d50b93027ebfc2f6a1f4.png' },
+    { name: 'media-23', src: '/logo/media/a75e3d52b7b04cb4c7a52d6cbc2f62e4976e38ec.png' },
+    { name: 'media-24', src: '/logo/media/a87caeb08ded3f7dfb78586def381c2660ebd362.png' },
+    { name: 'media-25', src: '/logo/media/a96dc8c251ff32063535679a0de8bef0d74e865e.png' },
+    { name: 'media-26', src: '/logo/media/a2007f6f9ccc4f08bf6b72f304f9035546d523ec.png' },
+    { name: 'media-27', src: '/logo/media/ab398280457925b507d0a326afeaa805fcdce44f.png' },
+    { name: 'media-28', src: '/logo/media/b4b3e299ec3e8ca0006c5da7ae64cb64662bcfc2.png' },
+    { name: 'media-29', src: '/logo/media/b4be4520b04c9259cf99e85be4be79aa7ac536d6.png' },
+    { name: 'media-30', src: '/logo/media/bacc530863613b9324c1cc7e82a54fa3148edb98.png' },
 ];
 
 const promotedContent = [
@@ -241,7 +267,7 @@ export default function CommunityPage() {
                 <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6">
                     {mediaLogos.map((logo) => (
                         <div key={logo.name} className="relative h-6 w-32" title={logo.name}>
-                            <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
+                            <Image src={logo.src} alt={logo.name} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
@@ -313,3 +339,5 @@ export default function CommunityPage() {
     </div>
   );
 }
+
+    
