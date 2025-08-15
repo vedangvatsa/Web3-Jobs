@@ -544,7 +544,7 @@ export function InvoiceForm() {
                     <CardContent className="space-y-4">
                         <div className="space-y-2">
                             {fields.map((item, index) => (
-                              <div key={item.id} className="grid grid-cols-12 gap-2 items-end">
+                              <div key={item.id} className="grid grid-cols-12 gap-2 items-center">
                                 <div className="col-span-12 sm:col-span-6 space-y-1">
                                     {index === 0 && <Label>Description</Label>}
                                     <Input {...form.register(`lineItems.${index}.description`)} placeholder="Service..." />

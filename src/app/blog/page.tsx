@@ -14,8 +14,8 @@ import { Rss, Briefcase, ArrowRight } from 'lucide-react';
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
   return (
-    <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl">
-      <Link href={`/${article.slug}`} className="block h-full">
+    <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl h-full">
+      <Link href={`/${article.slug}`} className="block h-full flex flex-col">
         <div className="relative w-full h-48">
           <Image
             src={article.image}

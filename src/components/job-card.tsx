@@ -16,7 +16,7 @@ export function JobCard({ job }: { job: Job }) {
   const postedAt = isClient ? formatDistanceToNow(new Date(job.date), { addSuffix: true }) : '';
 
   return (
-    <a href={job.link} target="_blank" rel="noopener noreferrer" className="block transform transition-all duration-200 hover:-translate-y-0.5">
+    <a href={job.link} target="_blank" rel="noopener noreferrer" className="block transform transition-all duration-200 hover:-translate-y-0.5 h-full">
       <Card className="flex flex-col h-full rounded-xl shadow-md hover:shadow-lg border-transparent hover:border-border/60">
         <CardHeader className="pb-2 pt-4 px-4">
           <CardTitle className="text-base leading-snug font-semibold">{job.title}</CardTitle>
