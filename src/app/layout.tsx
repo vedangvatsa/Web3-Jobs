@@ -22,7 +22,7 @@ const siteConfig = {
 
 export const metadata: Metadata = {
   title: {
-    default: `${siteConfig.name} - Find your next Web3 Job`,
+    default: siteConfig.name,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
@@ -34,6 +34,8 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: siteConfig.url,
+    title: siteConfig.name,
+    description: siteConfig.description,
     siteName: siteConfig.name,
     images: [
       {
@@ -46,6 +48,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
+    title: siteConfig.name,
+    description: siteConfig.description,
     creator: "@hashtag_web3",
     images: [`${siteConfig.url}/og-image.png`],
   },
@@ -64,6 +68,11 @@ export default async function RootLayout({
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
             <link rel="preload" href={inter.style.fontFamily} as="font" type="font/woff2" crossOrigin="anonymous" />
+            <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+            <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+            <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+            <link rel="manifest" href="/site.webmanifest" />
+            <link rel="shortcut icon" href="/favicon.ico" />
         </head>
       <body 
         className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
