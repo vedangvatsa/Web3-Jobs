@@ -49,6 +49,14 @@ const partnersLogos = [
     { name: 'Swell Network', src: '/logo/partners/swell.png'},
 ];
 
+const mediaLogos = [
+    { name: 'Forbes', src: '/logo/media/forbes.png' },
+    { name: 'TechCrunch', src: '/logo/media/techcrunch.png' },
+    { name: 'Bloomberg', src: '/logo/media/bloomberg.png' },
+    { name: 'CoinDesk', src: '/logo/media/coindesk.png' },
+    { name: 'Cointelegraph', src: '/logo/media/cointelegraph.png' },
+];
+
 const promotedContent = [
     { name: 'Kucoin', src: '/logo/kucoin.png'},
     { name: 'Gate.io', src: '/logo/gateio.png'},
@@ -226,6 +234,19 @@ export default function CommunityPage() {
                 </div>
              </div>
           </section>
+          
+          <section className="mb-16 bg-white rounded-lg py-8">
+             <div className="max-w-5xl mx-auto">
+                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">As seen on</h3>
+                <div className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6">
+                    {mediaLogos.map((logo) => (
+                        <div key={logo.name} className="relative h-6 w-32" title={logo.name}>
+                            <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
+                        </div>
+                    ))}
+                </div>
+             </div>
+          </section>
 
             <section className="mb-16">
                 <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
@@ -292,5 +313,3 @@ export default function CommunityPage() {
     </div>
   );
 }
-
-    
