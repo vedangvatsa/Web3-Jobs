@@ -267,7 +267,7 @@ export default function CommunityPage() {
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
                     {partnersLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
+                        <div key={logo.name} className="relative h-8 w-32" title={logo.name}>
                             <img src={logo.src} alt={`${logo.name} logo`} className="object-contain w-full h-full" />
                         </div>
                     ))}
