@@ -18,6 +18,7 @@ import {
   Link as LinkIcon,
   ArrowRight,
   ListChecks,
+  Rss
 } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
@@ -246,22 +247,22 @@ export default function RemoteWorkChecklistPage() {
               ))}
             </div>
              <Separator />
-            <Card className="mt-8 col-span-full bg-primary/5 border-primary/20">
+             <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
                 <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
                     <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-                        <Briefcase className="h-8 w-8 text-primary"/>
+                        <Rss className="h-8 w-8 text-primary"/>
                     </div>
                     <div>
-                        <h3 className="text-xl font-bold text-primary mb-1">Ready to Work Remotely?</h3>
-                        <p className="text-muted-foreground">You've got the checklist, now find the perfect remote Web3 job to match.</p>
+                        <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
+                        <p className="text-muted-foreground">Join our Telegram channel with over 56,000 subscribers to get the latest job postings.</p>
                     </div>
                     <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
                         <Button size="lg">
-                            Find a Remote Web3 Job <ArrowRight className="ml-2 h-4 w-4"/>
+                            Join Job Feed <ArrowRight className="ml-2 h-4 w-4"/>
                         </Button>
                     </a>
                 </CardContent>
-            </Card>
+              </Card>
           </div>
         </div>
       </main>
