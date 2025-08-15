@@ -3,12 +3,12 @@ import Image from 'next/image';
 
 export function TrustedBy() {
     const logos = [
-        { name: 'Coinbase', src: '/logo/coinbase.png' },
-        { name: 'Bitget', src: '/logo/bitget.png' },
-        { name: 'Binance', src: '/logo/binance.png' },
-        { name: 'LBank', src: '/logo/lbank.png' },
-        { name: 'AltLayer', src: '/logo/altlayer.png' },
-        { name: 'Circle', src: '/logo/circle.png' },
+        { name: 'Google', src: '/logo/job/google.png' },
+        { name: 'Microsoft', src: '/logo/job/microsoft.png' },
+        { name: 'Binance', src: '/logo/job/binance.png' },
+        { name: 'Coinbase', src: '/logo/job/coinbase.png' },
+        { name: 'JP Morgan', src: '/logo/job/jpmorgan.png' },
+        { name: 'Polygon', src: '/logo/job/polygon.png' },
     ];
 
     return (
