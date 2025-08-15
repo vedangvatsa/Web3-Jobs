@@ -132,7 +132,7 @@ const hiredCompanies = [
     { name: 'Trilitech', src: '/logo/job/trilitech.png' },
     { name: 'Truflation', src: '/logo/job/truflation.png' },
     { name: 'VNTR', src: '/logo/job/vn.png' },
-    { name: 'Watches.io', src: '/logo/job/watches.io.png' },
+    { name: 'Watches.io', src: '/logo/job/watches.png' },
     { name: 'Zeebu', src: '/logo/job/zeebu.png' },
     { name: 'Zerion', src: '/logo/job/zerion.png' },
 ]
@@ -237,7 +237,7 @@ export default function CommunityPage() {
           </section>
 
           <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-6xl mx-auto">
+             <div className="max-w-6xl mx-auto px-4">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">
                     Our global network includes industry leaders from
                 </h3>
@@ -313,7 +313,7 @@ export default function CommunityPage() {
           </section>
 
           <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-6xl mx-auto">
+             <div className="max-w-6xl mx-auto px-8">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
                     {partnersLogos.map((logo) => (
@@ -326,7 +326,7 @@ export default function CommunityPage() {
           </section>
           
           <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-6xl mx-auto">
+             <div className="max-w-6xl mx-auto px-8">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">As seen on</h3>
                 <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {mediaLogos.map((logo) => (
@@ -365,7 +365,7 @@ export default function CommunityPage() {
             </section>
           
           <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-6xl mx-auto">
+             <div className="max-w-6xl mx-auto px-8">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Job roles promoted for</h3>
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {hiredCompanies.map((logo) => (
