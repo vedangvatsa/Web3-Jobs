@@ -7,6 +7,7 @@ import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
 import { ContentSecurity } from '@/components/content-security';
 import { Footer } from '@/components/footer';
+import Script from 'next/script';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -75,6 +76,18 @@ export default async function RootLayout({
         <head>
             <link rel="icon" href="/favicon.ico" sizes="any" />
         </head>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-6FG9SLQP24"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-6FG9SLQP24');
+          `}
+        </Script>
       <body 
         className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
       >
