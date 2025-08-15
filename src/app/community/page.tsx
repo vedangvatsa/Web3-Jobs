@@ -29,19 +29,21 @@ const companies = [
   { name: 'Google', src: '/logo/google.png' },
 ];
 
-const promotedEvents = [
-    { name: 'ETH Oxford', src: '/logo/ETHOxford.png'},
-    { name: 'Token 2049', src: '/logo/token2049.png'},
-    { name: 'Malaysia Blockchain Week', src: '/logo/malaysiablockchainweek.png'},
-    { name: 'Taipei Blockchain Week', src: '/logo/taipeiblockchainweek.png'},
-    { name: 'EDCON', src: '/logo/edcon.png'},
-    { name: 'ETHBrussels', src: '/logo/ethbrussels.png'},
-    { name: 'ETHVietnam', src: '/logo/ethvietnam.png'},
-    { name: 'IEEE', src: '/logo/ieee.png'},
-    { name: 'Istanbul Blockchain Week', src: '/logo/istanbul.png'},
-    { name: 'Harvard', src: '/logo/harvard.png'},
-    { name: 'Onepiece Labs', src: '/logo/onepiece-labs.png'},
-    { name: 'PBS', src: '/logo/pbs.png'},
+const partnersLogos = [
+    { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png'},
+    { name: 'Token 2049', src: '/logo/partners/token2049.png'},
+    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png'},
+    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png'},
+    { name: 'EDCON', src: '/logo/partners/edcon.png'},
+    { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png'},
+    { name: 'ETHVietnam', src: '/logo/partners/ethvietnam.png'},
+    { name: 'IEEE', src: '/logo/partners/ieee.png'},
+    { name: 'Istanbul Blockchain Week', src: '/logo/partners/istanbul.png'},
+    { name: 'Harvard', src: '/logo/partners/harvard.png'},
+    { name: 'Onepiece Labs', src: '/logo/partners/onepiece-labs.png'},
+    { name: 'PBS', src: '/logo/partners/pbs.png'},
+    // To add a new partner, add a new line here following the format.
+    // For example: { name: 'New Partner', src: '/logo/partners/new-partner.png' },
 ];
 
 const promotedContent = [
@@ -213,7 +215,7 @@ export default function CommunityPage() {
              <div className="max-w-4xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
-                    {promotedEvents.map((logo) => (
+                    {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
                             <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
                         </div>
