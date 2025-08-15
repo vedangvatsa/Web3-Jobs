@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/button';
 import { Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Newspaper, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare, Send } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 const stats = [
   { value: '100,000+', label: 'Web3 Professionals' },
@@ -53,7 +54,6 @@ const partnersLogos = [
     { name: 'IEEE', src: '/logo/partners/ieee.png'},
     { name: 'Istanbul', src: '/logo/partners/istanbul.png'},
     { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png'},
-    { name: 'OBC', src: '/logo/partners/obc.png'},
     { name: 'Onepiece Labs', src: '/logo/partners/onepiece.png'},
     { name: 'PBS', src: '/logo/partners/pbs.png'},
     { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png'},
@@ -142,7 +142,7 @@ const channels = [
   { icon: Rss, title: 'Telegram Channels', description: '54,000 subscribers for Web3 job postings (one of the largest) and 11,000 for our news feed.' },
   { icon: Newspaper, title: 'Newsletter', description: 'Delivered to 15,000 subscribers, averaging 5,700 views per issue, primarily from Europe and Asia.' },
   { icon: BotMessageSquare, title: 'Social Messaging', description: 'Regional WhatsApp groups with over 26,000 members including top VCs and founders.' },
-  { icon: Linkedin, title: 'Professional Social Circle', description: '31,000 followers on LinkedIn for broad professional outreach; 35 million annual post impressions.' },
+  { icon: Linkedin, title: 'Professional Social Circle', description: '31,000 followers on LinkedIn for broad professional outreach; 35M+ annual post impressions.' },
 ]
 
 const caseStudies = [
@@ -182,6 +182,13 @@ const caseStudies = [
 ]
 
 export default function CommunityPage() {
+    const headlines = [
+      "Connecting The Web3 Ecosystem",
+      "A Thriving Global Network",
+      "Unparalleled Reach & Value",
+      "Your Partner in Growth"
+    ];
+
   return (
     <div className="flex flex-col min-h-screen bg-background">
       <Header />
@@ -189,12 +196,7 @@ export default function CommunityPage() {
         <div className="container mx-auto px-4 py-8 md:py-16">
           
           <section className="text-center mb-16 max-w-4xl mx-auto">
-            <h1 className="text-4xl md:text-6xl font-extrabold tracking-tighter text-primary">
-              Connecting The Web3 Ecosystem
-            </h1>
-            <p className="mt-6 text-lg md:text-xl text-muted-foreground">
-              Hashtag Web3 is more than a platform; it's a thriving ecosystem. Discover how our interconnected network of communities, news channels, and educational resources creates unparalleled value for Web3 professionals and projects.
-            </p>
+             <TransitioningHeadline phrases={headlines} />
           </section>
 
           <section className="mb-16">
@@ -275,7 +277,7 @@ export default function CommunityPage() {
                 <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
-                            <img src={logo.src} alt={`${logo.name} logo`} className="object-contain w-full h-full" />
+                            <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized />
                         </div>
                     ))}
                 </div>

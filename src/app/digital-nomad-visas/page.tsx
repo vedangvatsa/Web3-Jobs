@@ -11,6 +11,7 @@ import { Search, Globe, Briefcase, ArrowRight, Wallet, CalendarDays, FileCheck2 
 import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
 import { Footer } from '@/components/footer';
+import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
     return (
@@ -102,6 +103,13 @@ export default function DigitalNomadVisasPage() {
         }).sort((a, b) => a.country.localeCompare(b.country));
     }, [searchTerm, selectedContinent]);
 
+    const headlines = [
+        "Work From Anywhere Visa List",
+        "Your Guide to Global Web3",
+        "Digital Nomad Visa Database",
+        "Live and Work Globally"
+    ];
+
     return (
         <div className="flex flex-col min-h-screen bg-secondary/30">
             <Header />
@@ -111,12 +119,7 @@ export default function DigitalNomadVisasPage() {
                         <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
                             <Globe className="h-10 w-10 text-primary" />
                         </div>
-                        <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-                            Work from Anywhere Visa List
-                        </h1>
-                        <p className="mt-4 text-lg text-muted-foreground">
-                            A detailed reference of countries offering digital nomad visas. Your guide to becoming a global Web3 professional.
-                        </p>
+                        <TransitioningHeadline phrases={headlines} />
                     </section>
 
                     <div className="max-w-7xl mx-auto">

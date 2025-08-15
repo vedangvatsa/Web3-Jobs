@@ -32,6 +32,7 @@ import {
 import { Slider } from '@/components/ui/slider';
 import { Calculator, Sparkles, Briefcase, ArrowRight } from 'lucide-react';
 import { useState, useEffect } from 'react';
+import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 const salarySchema = z.object({
   role: z.string().min(1, 'Please select a role'),
@@ -130,17 +131,18 @@ export function SalaryCalculatorForm() {
     setEstimatedSalary(salary);
     setIsCalculated(true);
   };
+    
+  const headlines = [
+      "Web3 Salary Calculator",
+      "Estimate Your Earnings",
+      "Know Your Worth in Web3",
+      "Crypto Salary Insights"
+  ];
 
   return (
         <div className="container mx-auto px-4 py-8 md:py-16">
           <section className="text-center mb-12 max-w-4xl mx-auto">
-            <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-              Web3 Salary Calculator
-            </h1>
-            <p className="mt-4 text-lg text-muted-foreground">
-              Estimate your potential earnings in the Web3 industry based on
-              your role, experience, and other key factors.
-            </p>
+            <TransitioningHeadline phrases={headlines} />
           </section>
 
           <div className="max-w-4xl mx-auto">

@@ -33,6 +33,7 @@ import { interviewData, Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
 import { Footer } from '@/components/footer';
+import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 const difficultyColors: { [key: string]: string } = {
   Foundation: 'bg-green-500/10 text-green-700 border-green-400/50',
@@ -148,6 +149,13 @@ const RoleSection = ({ roleData }: { roleData: Role }) => {
 
 
 export default function InterviewQuestionBankPage() {
+   const headlines = [
+      "Web3 Interview Question Bank",
+      "Ace Your Next Interview",
+      "200+ Role-Specific Questions",
+      "Land Your Dream Web3 Job"
+    ];
+
   return (
     <div className="flex flex-col min-h-screen bg-secondary/30">
       <Header />
@@ -157,12 +165,7 @@ export default function InterviewQuestionBankPage() {
                 <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
                   <BookOpen className="h-10 w-10 text-primary" />
               </div>
-              <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-primary">
-                Web3 Interview Question Bank
-              </h1>
-              <p className="mt-4 text-lg text-muted-foreground">
-                200+ role-specific questions with ideal answers, difficulty tags, and rubrics.
-              </p>
+              <TransitioningHeadline phrases={headlines} />
               <p className="text-xs text-muted-foreground mt-2">Last updated: June 2024</p>
             </section>
 
