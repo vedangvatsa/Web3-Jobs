@@ -6,6 +6,16 @@ import { useState, useMemo, useTransition } from 'react';
 import { Input } from '@/components/ui/input';
 import { JobCard } from './job-card';
 import { Loader2, Search } from 'lucide-react';
+import { Skeleton } from '@/components/ui/skeleton';
+
+function JobCardSkeleton() {
+    return (
+        <div className="flex flex-col space-y-3">
+            <Skeleton className="h-[125px] w-full rounded-xl" />
+        </div>
+    )
+}
+
 
 export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
   const [searchQuery, setSearchQuery] = useState('');
@@ -46,13 +56,13 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
       
         <div className="transition-opacity duration-300 min-h-[500px]">
             {isPending && (
-                <div className="flex justify-center items-center mb-4">
-                    <Loader2 className="h-6 w-6 animate-spin text-primary"/>
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {[...Array(9)].map((_, i) => <JobCardSkeleton key={i} />)}
                 </div>
             )}
             
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                {filteredJobs.map((job) => (
+                {!isPending && filteredJobs.map((job) => (
                     <JobCard key={job.id} job={job} />
                 ))}
             </div>
