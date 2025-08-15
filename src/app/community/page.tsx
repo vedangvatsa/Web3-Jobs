@@ -89,7 +89,7 @@ const channels = [
   { icon: Twitter, title: 'Twitter & Spotify', description: 'Twitter Spaces with guests like a Pink Floyd member got up to 42k avg listeners. 50k tuned-in to our podcasts.' },
   { icon: Rss, title: 'Telegram Channels', description: '54,000 subscribers for Web3 job postings (one of the largest) and 11,000 for our news feed.' },
   { icon: Newspaper, title: 'Newsletter', description: 'Delivered to 15,000 subscribers, averaging 5,700 views per issue, primarily from Europe and Asia.' },
-  { icon: BotMessageSquare, title: 'Social Messaging', description: 'Regional WhatsApp communities with over 26,000 members including top VCs and founders.' },
+  { icon: BotMessageSquare, title: 'Social Messaging', description: 'Regional WhatsApp groups with over 26,000 members including top VCs and founders.' },
   { icon: Linkedin, title: 'Professional Social Circle', description: '31,000 followers on LinkedIn for broad professional outreach; 35 million annual post impressions.' },
 ]
 
@@ -220,7 +220,7 @@ export default function CommunityPage() {
                 <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-10 w-36" title={logo.name}>
-                            <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
+                            <img src={logo.src} alt={`${logo.name} logo`} className="object-contain w-full h-full" />
                         </div>
                     ))}
                 </div>
@@ -292,7 +292,5 @@ export default function CommunityPage() {
     </div>
   );
 }
-
-    
 
     
