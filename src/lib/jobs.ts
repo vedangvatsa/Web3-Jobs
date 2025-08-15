@@ -8,11 +8,10 @@ import path from 'path';
 
 const FEEDS = [
   'https://politepol.com/fd/JEeZwG4KK7uT.xml',
-  'https://politepol.com/fd/HI6pMDlyEO7j.xml',
   'https://politepol.com/fd/sDzglCq7RCpG.xml',
   'https://politepol.com/fd/bs9i34afSjHS.xml',
-  'https://politepol.com/fd/oiXKHETnrDap.xml',
-  'https://politepol.com/fd/Ane01VX84MOk.xml',
+  'https://politepol.com/fd/oiXKHETnrDap.xml', // a16z
+  'https://politepol.com/fd/Ane01VX84MOk.xml', // Pantera
 ];
 
 const jobsCachePath = path.join(process.cwd(), 'content', 'jobs.json');
