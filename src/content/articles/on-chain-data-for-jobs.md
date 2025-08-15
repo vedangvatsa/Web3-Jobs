@@ -58,7 +58,7 @@ You don't need to be a data scientist to get started. Several powerful, user-fri
 
 ## A Step-by-Step Strategy for On-Chain Job Hunting
 
-1.  **Form a Thesis:** Pick a sector of Web3 that interests you. Is it [DeFi on Solana](/defi-careers)? [Gaming on Arbitrum](/exploring-web3-gaming)? [SocialFi on Base](/what-is-socialfi)? Focusing your search will make your analysis more effective.
+1.  **Form a Thesis:** Pick a sector of Web3 that interests you. Is it [DeFi](/defi-careers)? [Gaming](/exploring-web3-gaming)? [SocialFi](/what-is-socialfi)? Focusing your search will make your analysis more effective.
 2.  **Use DeFiLlama to Get a High-Level View:** Identify the top 5-10 protocols in your chosen sector based on TVL and revenue. Note any fast-growing newcomers.
 3.  **Dive Deep with Dune:** For each of your target protocols, find their main dashboard on Dune. Analyze their user growth, transaction volume, and other key metrics over the last 3-6 months. Are the trends healthy?
 4.  **Follow the Smart Money with Nansen:** Check if your target protocols are attracting capital from well-known funds or investors. This provides an additional layer of validation.

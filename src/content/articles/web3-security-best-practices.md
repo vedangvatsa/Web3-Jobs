@@ -19,7 +19,7 @@ This is arguably the most important design pattern in Solidity for preventing a 
     2.  **Effects:** Second, update the state of your contract (e.g., `balances[msg.sender] = 0`).
     3.  **Interactions:** Last, interact with any external contracts (e.g., `(bool sent, ) = msg.sender.call{value: amount}("")`).
 
-By updating the state *before* sending funds, you ensure that even if the external contract calls back, the state of your contract is already correct, and the attacker cannot withdraw funds multiple times.
+By updating the state *before* the external call, you ensure that even if the external contract calls back, the state of your contract is already correct, and the attacker cannot withdraw funds multiple times.
 
 ### 2. Use `call` for External Calls, Not `transfer` or `send`
 

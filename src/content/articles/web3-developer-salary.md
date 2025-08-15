@@ -89,7 +89,7 @@ While Web3 is a remote-first industry, geography can still play a role, particul
 
 -   **Tier 1 Hubs (San Francisco, New York):** Tend to offer the highest base salaries to compete for top talent in high-cost-of-living areas.
 -   **Tier 2 Hubs (Austin, Denver, London, Berlin):** Offer competitive salaries, though they may be slightly lower than Tier 1 hubs.
--   **Fully Remote (Location Agnostic):** Many Web3 companies offer a single salary band for a given role, regardless of the employee's location. This has become increasingly common and is a major draw for talent outside of traditional tech hubs.
+-   **Fully Remote (Location Agnostic):** Many Web3 companies offer a single salary band for a given role, regardless of the employee's location. This has become increasingly common and is a major draw for talent.
 
 ## How to Maximize Your Earning Potential
 

@@ -27,8 +27,8 @@ By making every wallet a programmable smart contract, AA enables a host of featu
 
 1.  **Social Recovery:** This is one of the most powerful features. Instead of relying on a seed phrase, you can designate "guardians" (friends, family members, or trusted institutions) who can help you recover your account if you lose your primary device. This is a much more intuitive and forgiving security model.
 2.  **Gas Abstraction (Paymaster):** Smart Contract Wallets can use a "paymaster" to handle gas fees. This means:
-    -   **Pay gas in any token:** You can pay for a transaction using the same token you're transacting with (e.g., pay gas in USDC when sending USDC).
-    -   **Gasless transactions:** dApps can choose to sponsor their users' transactions, paying the gas fees on their behalf to create a frictionless onboarding experience.
+    - **Pay gas in any token:** You can pay for a transaction using the same token you're transacting with (e.g., pay gas in USDC when sending USDC).
+    - **Gasless transactions:** dApps can choose to sponsor their users' transactions, paying the gas fees on their behalf to create a frictionless onboarding experience.
 3.  **Transaction Batching:** You can bundle multiple operations into a single transaction. For example, you could approve a token swap and execute the swap in one click, instead of two separate transactions.
 4.  **Custom Security Rules:** You can program your own security policies into your wallet. You could set daily transfer limits, whitelist trusted applications, or require multi-factor authentication for large transactions.
 
