@@ -81,6 +81,18 @@ const mediaLogos = [
     { name: 'media-28', src: '/logo/media/b4b3e299ec3e8ca0006c5da7ae64cb64662bcfc2.png' },
     { name: 'media-29', src: '/logo/media/b4be4520b04c9259cf99e85be4be79aa7ac536d6.png' },
     { name: 'media-30', src: '/logo/media/bacc530863613b9324c1cc7e82a54fa3148edb98.png' },
+    { name: 'media-31', src: '/logo/media/da7cff558c507e346c999223832c127a6ea96d5b.png' },
+    { name: 'media-32', src: '/logo/media/decc1fcda37e13f7000b974cf66fa5285d7417e0.png' },
+    { name: 'media-33', src: '/logo/media/e4f8dbfe5586e79cba894b2d15c00a70d3254ea2.png' },
+    { name: 'media-34', src: '/logo/media/e5e35aa3421404362c95a346d0f514d946611f90.png' },
+    { name: 'media-35', src: '/logo/media/e43df0a520f87e2398f60a37a2d6d942117be644.png' },
+    { name: 'media-36', src: '/logo/media/e66de1e638ae92a896922fa50b25417a3ca95aa7.png' },
+    { name: 'media-37', src: '/logo/media/e156110f2796b1b6bd7db2be08c985b66a7e1308.png' },
+    { name: 'media-38', src: '/logo/media/f76f8b0b56265c2227186f7cafb3b3a3dfb55437.png' },
+    { name: 'media-39', src: '/logo/media/f430e277178ec58fc097a3078c13028fabf80403.png' },
+    { name: 'media-40', src: '/logo/media/fa66e3f8d7cff979cba7ec1d7ad575212a1b8f3d.png' },
+    { name: 'media-41', src: '/logo/media/fb4bf9ef0e989c9795e066c4502ba75b3a567467.png' },
+    { name: 'media-42', src: '/logo/media/fd7e246f812a15af9fe590ce48ab163ceccee6f8.png' },
 ];
 
 const promotedContent = [
