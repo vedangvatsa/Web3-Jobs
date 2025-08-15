@@ -42,8 +42,11 @@ const partnersLogos = [
     { name: 'Harvard', src: '/logo/partners/harvard.png'},
     { name: 'Onepiece Labs', src: '/logo/partners/onepiece-labs.png'},
     { name: 'PBS', src: '/logo/partners/pbs.png'},
-    // To add a new partner, add a new line here following the format.
-    // For example: { name: 'New Partner', src: '/logo/partners/new-partner.png' },
+    { name: 'Kucoin', src: '/logo/partners/kucoin.png'},
+    { name: 'Gate.io', src: '/logo/partners/gateio.png'},
+    { name: 'Bitget', src: '/logo/partners/bitget.png'},
+    { name: 'Manta Network', src: '/logo/partners/manta-network.png'},
+    { name: 'Swell Network', src: '/logo/partners/swell.png'},
 ];
 
 const promotedContent = [
@@ -289,3 +292,5 @@ export default function CommunityPage() {
     </div>
   );
 }
+
+    
