@@ -209,7 +209,7 @@ export default function CommunityPage() {
             </div>
           </section>
 
-          <section className="mb-16">
+          <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-4xl mx-auto">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
                 <div className="flex flex-wrap items-center justify-center gap-x-12 gap-y-6">
