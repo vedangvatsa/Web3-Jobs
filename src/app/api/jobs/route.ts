@@ -1,7 +1,8 @@
+
 import { getJobs } from '@/lib/jobs';
 import { NextResponse } from 'next/server';
 
-export const revalidate = 3600; // Revalidate every hour
+export const revalidate = 21600; // Revalidate every 6 hours
 
 export async function GET() {
   try {
