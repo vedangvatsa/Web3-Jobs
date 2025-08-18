@@ -1,5 +1,469 @@
 [
   {
+    "id": "https://recruiterflow.com/coinswitch/jobs/554",
+    "title": "Compliance Intern",
+    "company": "CoinSwitch Kuber",
+    "link": "https://recruiterflow.com/coinswitch/jobs/554",
+    "date": "2025-08-18T19:00:25.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI4MywgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "title": "Head - Risk",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI4MywgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "date": "2025-08-18T19:00:22.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622047004",
+    "title": "Solutions Architect - Hong Kong",
+    "company": "LayerZero Labs",
+    "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622047004",
+    "date": "2025-08-18T18:45:25.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/4656821101",
+    "title": "Finance Analyst",
+    "company": "BCB Group",
+    "link": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/4656821101",
+    "date": "2025-08-18T18:45:22.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/554?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Compliance Intern",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/554?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T15:19:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/75?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Software Development Engineer - II (Front End)",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/75?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T14:14:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/2?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Software Development Engineer II - Backend",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/2?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T13:59:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/538?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Sr Associate Finance",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/538?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T13:44:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/344?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Lead Finance",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/344?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T13:29:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/57?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Security Engineer I (Application Security)",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/57?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T13:14:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/498?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "TechOps Engineer",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/498?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T12:59:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/521?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Talent Acquisition ( 6 months contract )",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/521?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T12:44:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/548?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "HR Operations",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/548?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T12:29:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/546?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Legal Intern",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/546?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T12:14:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/534?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Manager Business Development",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/534?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T11:59:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/550?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Senior Business Associate ( Lemonn )",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/550?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T11:44:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/549?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Associate Manager - Compliance",
+    "company": "CoinSwitch",
+    "link": "https://recruiterflow.com/coinswitch/jobs/549?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-18T11:29:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719190-senior-manager-analytics-engineering#content",
+    "title": "Senior Manager, Analytics Engineering",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719190-senior-manager-analytics-engineering#content",
+    "date": "2025-08-18T07:48:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719189-senior-fullstack-engineer-frontend-leaning#content",
+    "title": "Senior Fullstack Engineer (Frontend Leaning)",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719189-senior-fullstack-engineer-frontend-leaning#content",
+    "date": "2025-08-18T07:33:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719188-senior-fullstack-engineer-backend-leaning#content",
+    "title": "Senior Fullstack Engineer (Backend Leaning)",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719188-senior-fullstack-engineer-backend-leaning#content",
+    "date": "2025-08-18T07:18:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719191-senior-protocol-engineer#content",
+    "title": "Senior Protocol Engineer",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719191-senior-protocol-engineer#content",
+    "date": "2025-08-18T07:03:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719193-staff-data-engineer-blockchain-data#content",
+    "title": "Staff Data Engineer, Blockchain Data",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719193-staff-data-engineer-blockchain-data#content",
+    "date": "2025-08-18T06:48:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719192-smart-contract-engineer#content",
+    "title": "Smart Contract Engineer",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719192-smart-contract-engineer#content",
+    "date": "2025-08-18T06:33:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719194-staff-developer-advocate#content",
+    "title": "Staff Developer Advocate",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719194-staff-developer-advocate#content",
+    "date": "2025-08-18T06:18:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719195-staff-machine-learning-engineer#content",
+    "title": "Staff Machine Learning Engineer",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719195-staff-machine-learning-engineer#content",
+    "date": "2025-08-18T06:03:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719186-head-of-community#content",
+    "title": "Head of Community",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719186-head-of-community#content",
+    "date": "2025-08-18T05:48:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719187-senior-data-scientist#content",
+    "title": "Senior Data Scientist",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719187-senior-data-scientist#content",
+    "date": "2025-08-18T05:33:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719185-growth-analyst-southeast-asia#content",
+    "title": "Growth Analyst, Southeast Asia",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719185-growth-analyst-southeast-asia#content",
+    "date": "2025-08-18T05:18:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719184-base-creator-success-manager-us#content",
+    "title": "Base Creator Success Manager, US",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719184-base-creator-success-manager-us#content",
+    "date": "2025-08-18T05:03:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719183-base-country-lead-poland#content",
+    "title": "Base Country Lead, Poland",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/56719183-base-country-lead-poland#content",
+    "date": "2025-08-18T04:48:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/avail-2-f795bc57-68fb-419f-a2d5-8e48c5d6b404/jobs/56718347-frontend-engineer#content",
+    "title": "Frontend Engineer",
+    "company": "Avail",
+    "link": "https://jobs.dragonfly.xyz/companies/avail-2-f795bc57-68fb-419f-a2d5-8e48c5d6b404/jobs/56718347-frontend-engineer#content",
+    "date": "2025-08-18T04:33:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/avail-2-f795bc57-68fb-419f-a2d5-8e48c5d6b404/jobs/56718346-growth-marketing-manager#content",
+    "title": "Growth Marketing Manager",
+    "company": "Avail",
+    "link": "https://jobs.dragonfly.xyz/companies/avail-2-f795bc57-68fb-419f-a2d5-8e48c5d6b404/jobs/56718346-growth-marketing-manager#content",
+    "date": "2025-08-18T04:03:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622042004",
+    "title": "Partner Marketing Manager",
+    "company": "LayerZero Labs",
+    "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622042004",
+    "date": "2025-08-17T13:57:58.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/crossmint-2/jobs/56647754-customer-success-engineer-nyc-mia#content",
+    "title": "Customer Success Engineer (NYC / MIA)",
+    "company": "Crossmint",
+    "link": "https://jobs.arbitrum.io/companies/crossmint-2/jobs/56647754-customer-success-engineer-nyc-mia#content",
+    "date": "2025-08-17T13:35:10.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7172350?gh_jid=7172350",
+    "title": "Staff Software Engineer, Customer Onboarding Platform",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7172350?gh_jid=7172350",
+    "date": "2025-08-17T11:31:28.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622041004",
+    "title": "Vertical Marketing Manager - Institutions",
+    "company": "LayerZero Labs",
+    "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622041004",
+    "date": "2025-08-17T11:16:27.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Partner-Enablement-Specialist--APAC_JR100538",
+    "title": "Partner Enablement Specialist, APAC",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Partner-Enablement-Specialist--APAC_JR100538",
+    "date": "2025-08-17T11:01:28.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/56682369-site-reliability-engineer#content",
+    "title": "Site Reliability Engineer",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/56682369-site-reliability-engineer#content",
+    "date": "2025-08-16T15:55:36.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/amber-group-2/jobs/56682369-site-reliability-engineer#content",
+    "title": "Site Reliability Engineer",
+    "company": "Amber Group",
+    "link": "https://jobs.paradigm.xyz/companies/amber-group-2/jobs/56682369-site-reliability-engineer#content",
+    "date": "2025-08-16T15:53:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/56682352-accountant#content",
+    "title": "Accountant",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/56682352-accountant#content",
+    "date": "2025-08-16T15:40:36.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/amber-group-2/jobs/56682357-human-resources-generalist#content",
+    "title": "Human Resources Generalist",
+    "company": "Amber Group",
+    "link": "https://jobs.paradigm.xyz/companies/amber-group-2/jobs/56682357-human-resources-generalist#content",
+    "date": "2025-08-16T15:38:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/56682357-human-resources-generalist#content",
+    "title": "Human Resources Generalist",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/56682357-human-resources-generalist#content",
+    "date": "2025-08-16T15:25:36.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/amber-group-2/jobs/56682352-accountant#content",
+    "title": "Accountant",
+    "company": "Amber Group",
+    "link": "https://jobs.paradigm.xyz/companies/amber-group-2/jobs/56682352-accountant#content",
+    "date": "2025-08-16T15:23:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/56682355-regulatory-compliance#content",
+    "title": "Regulatory Compliance",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/56682355-regulatory-compliance#content",
+    "date": "2025-08-16T15:10:36.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/amber-group-2/jobs/56682355-regulatory-compliance#content",
+    "title": "Regulatory Compliance",
+    "company": "Amber Group",
+    "link": "https://jobs.paradigm.xyz/companies/amber-group-2/jobs/56682355-regulatory-compliance#content",
+    "date": "2025-08-16T15:08:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/bit-2-797391ea-14a1-4342-8d8d-384331b4e1cc/jobs/56682189-database-administrator#content",
+    "title": "Database Administrator",
+    "company": "BIT",
+    "link": "https://jobs.dragonfly.xyz/companies/bit-2-797391ea-14a1-4342-8d8d-384331b4e1cc/jobs/56682189-database-administrator#content",
+    "date": "2025-08-16T14:55:36.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/56676306-u-s-customer-support#content",
+    "title": "U.S. Customer Support",
+    "company": "Polymarket",
+    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/56676306-u-s-customer-support#content",
+    "date": "2025-08-16T14:50:51.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/bit-2-797391ea-14a1-4342-8d8d-384331b4e1cc/jobs/56682190-blockchain-security-engineer#content",
+    "title": "Blockchain Security Engineer",
+    "company": "BIT",
+    "link": "https://jobs.dragonfly.xyz/companies/bit-2-797391ea-14a1-4342-8d8d-384331b4e1cc/jobs/56682190-blockchain-security-engineer#content",
+    "date": "2025-08-16T14:40:36.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/bit-2-797391ea-14a1-4342-8d8d-384331b4e1cc/jobs/56682185#content",
+    "title": "产品经理",
+    "company": "BIT",
+    "link": "https://jobs.dragonfly.xyz/companies/bit-2-797391ea-14a1-4342-8d8d-384331b4e1cc/jobs/56682185#content",
+    "date": "2025-08-16T14:25:36.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/bit-2-797391ea-14a1-4342-8d8d-384331b4e1cc/jobs/56682182-digital-advertising-specialist#content",
+    "title": "Digital Advertising Specialist",
+    "company": "BIT",
+    "link": "https://jobs.dragonfly.xyz/companies/bit-2-797391ea-14a1-4342-8d8d-384331b4e1cc/jobs/56682182-digital-advertising-specialist#content",
+    "date": "2025-08-16T14:10:36.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/56667261-vertical-marketing-manager-institutions#content",
+    "title": "Vertical Marketing Manager - Institutions",
+    "company": "LayerZero",
+    "link": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/56667261-vertical-marketing-manager-institutions#content",
+    "date": "2025-08-16T13:52:00.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/56667259-solutions-architect-hong-kong#content",
+    "title": "Solutions Architect - Hong Kong",
+    "company": "LayerZero",
+    "link": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/56667259-solutions-architect-hong-kong#content",
+    "date": "2025-08-16T13:37:00.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/56667250-partner-marketing-manager#content",
+    "title": "Partner Marketing Manager",
+    "company": "LayerZero",
+    "link": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/56667250-partner-marketing-manager#content",
+    "date": "2025-08-16T13:22:00.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/gelato-2-df45f506-44af-4a53-8484-0ba1893277c6/jobs/56648855-web3-senior-frontend-engineer-react#content",
+    "title": "Web3 Senior Frontend Engineer (React)",
+    "company": "Gelato",
+    "link": "https://jobs.arbitrum.io/companies/gelato-2-df45f506-44af-4a53-8484-0ba1893277c6/jobs/56648855-web3-senior-frontend-engineer-react#content",
+    "date": "2025-08-16T10:38:01.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/gelato-2-df45f506-44af-4a53-8484-0ba1893277c6/jobs/56648855-web3-senior-frontend-engineer-react#content",
+    "title": "Web3 Senior Frontend Engineer (React)",
+    "company": "Gelato",
+    "link": "https://jobs.dragonfly.xyz/companies/gelato-2-df45f506-44af-4a53-8484-0ba1893277c6/jobs/56648855-web3-senior-frontend-engineer-react#content",
+    "date": "2025-08-16T10:32:22.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/crossmint-2/jobs/56647757-head-of-product-strategy-nyc#content",
+    "title": "️Head of Product Strategy (NYC)",
+    "company": "Crossmint",
+    "link": "https://jobs.arbitrum.io/companies/crossmint-2/jobs/56647757-head-of-product-strategy-nyc#content",
+    "date": "2025-08-16T07:23:29.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/noble-2-2a331327-fd6c-4210-bb9e-4c4f96b8884e/jobs/56647764-solidity-engineer#content",
+    "title": "Solidity Engineer",
+    "company": "Noble",
+    "link": "https://jobs.paradigm.xyz/companies/noble-2-2a331327-fd6c-4210-bb9e-4c4f96b8884e/jobs/56647764-solidity-engineer#content",
+    "date": "2025-08-16T07:14:58.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://crossmint.notion.site/Customer-Success-Engineer-NYC-MIA-245c78fe43d8804bb420d87b5bba5ff8?pvs=25&utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
+    "title": "Customer Success Engineer (NYC / MIA)",
+    "company": "Crossmint",
+    "link": "https://crossmint.notion.site/Customer-Success-Engineer-NYC-MIA-245c78fe43d8804bb420d87b5bba5ff8?pvs=25&utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
+    "date": "2025-08-16T06:53:29.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
     "id": "https://jobs.dragonfly.xyz/companies/thesis/jobs/56628055-junior-finops-accountant#content",
     "title": "Junior FinOps Accountant",
     "company": "Thesis",
@@ -62,6 +526,14 @@
     "link": "https://www.coinbase.com/careers/positions/7167862?gh_jid=7167862",
     "date": "2025-08-15T14:18:21.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/977184cf-3f52-4252-a91f-5a312914f759?utm_source=jobs.a16z.com",
+    "title": "Senior/Staff Fraud Engineer",
+    "company": "Worldcoin",
+    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/977184cf-3f52-4252-a91f-5a312914f759?utm_source=jobs.a16z.com",
+    "date": "2025-08-15T14:18:18.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://jobs.lever.co/anchorage/f758d39e-4a3f-4f05-8682-0742a50601e7?lever-source%5B%5D=jobs.panteracapital.com",
@@ -176,6 +648,14 @@
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
+    "id": "https://jobs.ashbyhq.com/skymavis/8d8328c3-b02d-44df-a29b-ddce85c1ca0d?utm_source=jobs.a16z.com",
+    "title": "Cloud Security Engineer",
+    "company": "Sky Mavis",
+    "link": "https://jobs.ashbyhq.com/skymavis/8d8328c3-b02d-44df-a29b-ddce85c1ca0d?utm_source=jobs.a16z.com",
+    "date": "2025-08-15T07:59:14.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/Lido.fi/74b1a7bb-c906-4876-85a1-a191bc7be70a?utm_source=jobs.a16z.com",
     "title": "Institutional Growth Lead  USA",
     "company": "Lido",
@@ -190,6 +670,14 @@
     "link": "https://alchemypay.org/careers/?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
     "date": "2025-08-15T06:27:11.000Z",
     "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI4MCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "title": "Associate Director - Markets",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI4MCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "date": "2025-08-14T22:30:50.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
     "id": "https://jobs.ashbyhq.com/mystenlabs/e75711eb-f829-4d11-bbe0-914267d954ef?utm_source=jobs.a16z.com",
@@ -229,6 +717,14 @@
     "company": "CoinSwitch Kuber",
     "link": "https://recruiterflow.com/coinswitch/jobs/552",
     "date": "2025-08-14T18:41:07.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/skymavis/864d4c75-7df2-4826-9f96-add51fe9c60d?utm_source=jobs.a16z.com",
+    "title": "Application (Web2) Security Engineer",
+    "company": "Sky Mavis",
+    "link": "https://jobs.ashbyhq.com/skymavis/864d4c75-7df2-4826-9f96-add51fe9c60d?utm_source=jobs.a16z.com",
+    "date": "2025-08-14T18:26:07.000Z",
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
@@ -670,5 +1166,69 @@
     "link": "https://jobs.avax.network/companies/mirai-chain/jobs/55412922-senior-unity-developer#content",
     "date": "2025-07-29T22:58:13.000Z",
     "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/shadow-2/jobs/34554976-founding-engineer-full-stack#content",
+    "title": "Founding Engineer - Full Stack",
+    "company": "Shadow",
+    "link": "https://jobs.paradigm.xyz/companies/shadow-2/jobs/34554976-founding-engineer-full-stack#content",
+    "date": "2025-07-18T13:14:00.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/rift-exchange/jobs/48379687-protocol-engineer#content",
+    "title": "Protocol Engineer",
+    "company": "rift.exchange",
+    "link": "https://jobs.paradigm.xyz/companies/rift-exchange/jobs/48379687-protocol-engineer#content",
+    "date": "2025-06-30T13:20:26.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/d3-2/jobs/47060400-senior-product-designer#content",
+    "title": "Senior Product Designer",
+    "company": "D3",
+    "link": "https://jobs.paradigm.xyz/companies/d3-2/jobs/47060400-senior-product-designer#content",
+    "date": "2025-06-30T13:05:26.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.metadao.fi/?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Founding Engineer",
+    "company": "MetaDAO",
+    "link": "https://jobs.metadao.fi/?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-06-30T12:50:26.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/succinct/jobs/39721546-content-marketing#content",
+    "title": "Content Marketing",
+    "company": "Succinct",
+    "link": "https://jobs.paradigm.xyz/companies/succinct/jobs/39721546-content-marketing#content",
+    "date": "2025-06-30T12:35:26.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/privy-2/jobs/35868294-fullstack-engineer#content",
+    "title": "Fullstack Engineer",
+    "company": "Privy",
+    "link": "https://jobs.paradigm.xyz/companies/privy-2/jobs/35868294-fullstack-engineer#content",
+    "date": "2025-06-30T12:05:26.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/renegade/jobs/24597509-full-stack-engineer#content",
+    "title": "Full-Stack Engineer",
+    "company": "Renegade",
+    "link": "https://jobs.paradigm.xyz/companies/renegade/jobs/24597509-full-stack-engineer#content",
+    "date": "2025-06-30T11:35:26.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/ellipsis-labs/jobs/23952633-senior-product-engineer#content",
+    "title": "Senior Product Engineer",
+    "company": "Ellipsis Labs",
+    "link": "https://jobs.paradigm.xyz/companies/ellipsis-labs/jobs/23952633-senior-product-engineer#content",
+    "date": "2025-06-30T11:20:26.000Z",
+    "source": "Jobs | Paradigm Job Board"
   }
 ]
