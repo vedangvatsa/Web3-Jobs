@@ -62,7 +62,6 @@ function writeJobsToCache(jobs: Job[]) {
 
 export async function getJobs(): Promise<Job[]> {
   const cachedJobs = readJobsFromCache();
-  const existingJobLinks = new Set(cachedJobs.map(job => job.link));
 
   const allJobsPromises = FEEDS.map(async (feedUrl) => {
     try {
@@ -73,8 +72,7 @@ export async function getJobs(): Promise<Job[]> {
           const company = cleanCompany(item.content);
           const link = item.link;
 
-          // Added filter to exclude bounties
-          if (link && !existingJobLinks.has(link) && title && company && title.split(' ').length <= 7 && !title.toLowerCase().includes('bounty')) {
+          if (link && title && company && title.split(' ').length <= 7 && !title.toLowerCase().includes('bounty')) {
             return {
               id: item.guid || link,
               title,
@@ -107,14 +105,19 @@ export async function getJobs(): Promise<Job[]> {
       jobMap.set(job.link, job);
     }
   });
+  
+  let uniqueJobs = Array.from(jobMap.values());
 
-  const uniqueJobs = Array.from(jobMap.values());
+  // Filter out jobs older than 3 weeks (21 days)
+  const threeWeeksAgo = new Date();
+  threeWeeksAgo.setDate(threeWeeksAgo.getDate() - 21);
+  const recentJobs = uniqueJobs.filter(job => new Date(job.date) >= threeWeeksAgo);
 
   // Final sort by date descending (newest first)
-  uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  recentJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   // Write back to cache
-  writeJobsToCache(uniqueJobs);
+  writeJobsToCache(recentJobs);
 
-  return uniqueJobs;
+  return recentJobs;
 }
