@@ -15,7 +15,6 @@ const FEEDS = [
 ];
 
 const jobsCachePath = path.join(process.cwd(), 'content', 'jobs.json');
-const THREE_WEEKS_IN_MS = 21 * 24 * 60 * 60 * 1000;
 
 const parser = new Parser();
 
@@ -99,10 +98,6 @@ export async function getJobs(): Promise<Job[]> {
   const newJobs = newJobsNested.flat();
 
   let combinedJobs = [...cachedJobs, ...newJobs];
-
-  // Filter out jobs older than 3 weeks
-  const cutOffDate = new Date(Date.now() - THREE_WEEKS_IN_MS);
-  combinedJobs = combinedJobs.filter(job => new Date(job.date) > cutOffDate);
 
   // Deduplicate jobs based on link, keeping the most recent.
   const jobMap = new Map<string, Job>();
