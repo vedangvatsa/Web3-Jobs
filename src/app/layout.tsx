@@ -75,23 +75,27 @@ export default async function RootLayout({
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
             <link rel="icon" href="/favicon.ico" sizes="any" />
+            <Script
+              id="gtag-script"
+              strategy="afterInteractive"
+              src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
+            />
+            <script
+              id="gtag-inline-script"
+              dangerouslySetInnerHTML={{
+                __html: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-FYBLPS87X0');
+                `,
+              }}
+            />
         </head>
       <body 
         className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
       >
-        <Script
-          id="google-tag-manager-js"
-          strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
-        />
-        <Script id="google-tag-manager-init" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-FYBLPS87X0');
-          `}
-        </Script>
+        
         <ContentSecurity />
         <div className="flex-grow">
             {children}
