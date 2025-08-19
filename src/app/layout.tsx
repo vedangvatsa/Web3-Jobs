@@ -74,20 +74,21 @@ export default async function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
+            <Script
+              async
+              src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
+            ></Script>
+            <Script id="google-analytics">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+              
+                gtag('config', 'G-FYBLPS87X0');
+              `}
+            </Script>
             <link rel="icon" href="/favicon.ico" sizes="any" />
         </head>
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-FYBLPS87X0');
-          `}
-        </Script>
       <body 
         className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
       >
