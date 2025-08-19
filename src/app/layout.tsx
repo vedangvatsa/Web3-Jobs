@@ -77,7 +77,7 @@ export default async function RootLayout({
             <link rel="icon" href="/favicon.ico" sizes="any" />
         </head>
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-6FG9SLQP24"
+          src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -85,7 +85,7 @@ export default async function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-6FG9SLQP24');
+            gtag('config', 'G-FYBLPS87X0');
           `}
         </Script>
       <body 
