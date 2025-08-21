@@ -32,25 +32,6 @@ function removeEmojis(text: string | undefined): string | undefined {
   return text.replace(/([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g, '').trim();
 }
 
-// Helper function to normalize URL by removing tracking parameters
-function normalizeUrl(url: string | undefined): string | undefined {
-    if (!url) return undefined;
-    try {
-        const urlObj = new URL(url);
-        urlObj.searchParams.delete('utm_source');
-        urlObj.searchParams.delete('utm_medium');
-        urlObj.searchParams.delete('utm_campaign');
-        urlObj.searchParams.delete('utm_term');
-        urlObj.searchParams.delete('utm_content');
-        urlObj.searchParams.delete('gh_src');
-        return urlObj.toString();
-    } catch (error) {
-        // if it's not a valid URL, return it as is.
-        return url;
-    }
-}
-
-
 // Reads jobs from the JSON cache file
 function readJobsFromCache(): Job[] {
     if (!fs.existsSync(jobsCachePath)) {
@@ -116,15 +97,14 @@ export async function getJobs(): Promise<Job[]> {
 
   const combinedJobs = [...cachedJobs, ...newJobs];
 
-  // Deduplicate jobs based on a normalized link, keeping the most recent.
+  // Deduplicate jobs based on a composite key of company and title, keeping the most recent.
   const jobMap = new Map<string, Job>();
   combinedJobs.forEach(job => {
-    const normalizedLink = normalizeUrl(job.link);
-    if (!normalizedLink) return;
+    const jobKey = `${job.company.toLowerCase()}|${job.title.toLowerCase()}`;
+    const existingJob = jobMap.get(jobKey);
 
-    const existingJob = jobMap.get(normalizedLink);
     if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
-      jobMap.set(normalizedLink, { ...job, link: normalizedLink });
+        jobMap.set(jobKey, job);
     }
   });
   
