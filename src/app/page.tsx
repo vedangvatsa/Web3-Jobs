@@ -7,6 +7,8 @@ import Link from 'next/link';
 import { Rss } from 'lucide-react';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 
+export const revalidate = 21600; // Revalidate every 6 hours
+
 export default async function Home() {
   const initialJobs = await getJobs();
   const headlines = [
