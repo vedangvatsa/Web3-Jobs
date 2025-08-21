@@ -32,6 +32,25 @@ function removeEmojis(text: string | undefined): string | undefined {
   return text.replace(/([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g, '').trim();
 }
 
+// Helper function to normalize URL by removing tracking parameters
+function normalizeUrl(url: string | undefined): string | undefined {
+    if (!url) return undefined;
+    try {
+        const urlObj = new URL(url);
+        urlObj.searchParams.delete('utm_source');
+        urlObj.searchParams.delete('utm_medium');
+        urlObj.searchParams.delete('utm_campaign');
+        urlObj.searchParams.delete('utm_term');
+        urlObj.searchParams.delete('utm_content');
+        urlObj.searchParams.delete('gh_src');
+        return urlObj.toString();
+    } catch (error) {
+        // if it's not a valid URL, return it as is.
+        return url;
+    }
+}
+
+
 // Reads jobs from the JSON cache file
 function readJobsFromCache(): Job[] {
     if (!fs.existsSync(jobsCachePath)) {
@@ -95,14 +114,17 @@ export async function getJobs(): Promise<Job[]> {
   const newJobsNested = await Promise.all(allJobsPromises);
   const newJobs = newJobsNested.flat();
 
-  let combinedJobs = [...cachedJobs, ...newJobs];
+  const combinedJobs = [...cachedJobs, ...newJobs];
 
-  // Deduplicate jobs based on link, keeping the most recent.
+  // Deduplicate jobs based on a normalized link, keeping the most recent.
   const jobMap = new Map<string, Job>();
   combinedJobs.forEach(job => {
-    const existingJob = jobMap.get(job.link);
+    const normalizedLink = normalizeUrl(job.link);
+    if (!normalizedLink) return;
+
+    const existingJob = jobMap.get(normalizedLink);
     if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
-      jobMap.set(job.link, job);
+      jobMap.set(normalizedLink, { ...job, link: normalizedLink });
     }
   });
   
@@ -111,13 +133,13 @@ export async function getJobs(): Promise<Job[]> {
   // Filter out jobs older than 3 weeks (21 days)
   const threeWeeksAgo = new Date();
   threeWeeksAgo.setDate(threeWeeksAgo.getDate() - 21);
-  const recentJobs = uniqueJobs.filter(job => new Date(job.date) >= threeWeeksAgo);
+  uniqueJobs = uniqueJobs.filter(job => new Date(job.date) >= threeWeeksAgo);
 
   // Final sort by date descending (newest first)
-  recentJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   // Write back to cache
-  writeJobsToCache(recentJobs);
+  writeJobsToCache(uniqueJobs);
 
-  return recentJobs;
+  return uniqueJobs;
 }
