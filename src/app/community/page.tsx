@@ -380,6 +380,19 @@ export default function CommunityPage() {
               </div>
             </section>
           
+            <section className="mb-16">
+                <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
+                    <CardContent className="p-8 text-center">
+                        <p className="text-xl font-medium italic">“I had a great experience with their Web3 job Telegram channel. As a subscriber, I found highly relevant opportunities that stood out from other platforms. In less than two weeks, I completed all interviews, from HR to C-level, in a smooth process. Highly recommend it for anyone exploring or advancing a Web3 career.”</p>
+                        <div className="mt-6 mb-2">
+                            <Image src="/logo/quotes/fatima.png" alt="Fatima Zahra Sadir" width={64} height={64} className="rounded-full mx-auto" />
+                        </div>
+                        <p className="font-semibold">Fatima Zahra Sadir</p>
+                        <p className="text-sm text-muted-foreground">Product Owner, Zeebu</p>
+                    </CardContent>
+                </Card>
+            </section>
+
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Job roles promoted for</h3>
