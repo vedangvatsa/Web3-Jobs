@@ -391,6 +391,9 @@ export default function CommunityPage() {
           <section className="mb-16">
                 <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
                     <CardContent className="p-8 text-center">
+                        <div className="mb-4">
+                            <Image src="/logo/quotes/zhanna.png" alt="Zhanna Manzyk" width={80} height={80} className="rounded-full mx-auto" />
+                        </div>
                         <p className="text-xl font-medium italic">“Our agency has been using the job board for the past year, and we’ve tripled our speed in closing roles thanks to their high-quality talent pool.”</p>
                         <p className="mt-4 font-semibold">Zhanna Manzyk</p>
                         <p className="text-sm text-muted-foreground">CEO, Jaya Talent</p>
