@@ -60,6 +60,10 @@ const partnersLogos = [
     { name: 'Token 2049', src: '/logo/partners/token2049.png'},
     { name: 'WBS', src: '/logo/partners/wbs.png'},
     { name: 'OBC', src: '/logo/partners/obc.png' },
+    { name: 'ETH Enugu', src: '/logo/partners/ethenugu.png'},
+    { name: 'FBS', src: '/logo/partners/fbs.png'},
+    { name: 'LBS', src: '/logo/partners/lbs.png'},
+    { name: 'The Metaverse Institute', src: '/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png'},
 ];
 
 const mediaLogos = [
