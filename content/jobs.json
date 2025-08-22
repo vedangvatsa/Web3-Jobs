@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://jobs.paradigm.xyz/companies/op-labs/jobs/57089413-enterprise-sales-lead-payments#content",
+    "title": "Enterprise Sales Lead, Payments",
+    "company": "OP Labs",
+    "link": "https://jobs.paradigm.xyz/companies/op-labs/jobs/57089413-enterprise-sales-lead-payments#content",
+    "date": "2025-08-22T12:55:18.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/op-labs/jobs/57089412-enterprise-sales-lead-institutions#content",
+    "title": "Enterprise Sales Lead, Institutions",
+    "company": "OP Labs",
+    "link": "https://jobs.paradigm.xyz/companies/op-labs/jobs/57089412-enterprise-sales-lead-institutions#content",
+    "date": "2025-08-22T12:40:18.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/op-labs/jobs/57089411-enterprise-sales-lead-cex#content",
+    "title": "Enterprise Sales Lead, CeX",
+    "company": "OP Labs",
+    "link": "https://jobs.paradigm.xyz/companies/op-labs/jobs/57089411-enterprise-sales-lead-cex#content",
+    "date": "2025-08-22T12:25:18.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/57097396-general-manager-platform#content",
+    "title": "General Manager, Platform",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/57097396-general-manager-platform#content",
+    "date": "2025-08-22T12:07:56.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/57098356-member-of-compliance-singapore#content",
+    "title": "Member of Compliance, Singapore",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/57098356-member-of-compliance-singapore#content",
+    "date": "2025-08-22T12:00:07.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/57097399-senior-accounting-manager#content",
+    "title": "Senior Accounting Manager",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/57097399-senior-accounting-manager#content",
+    "date": "2025-08-22T11:52:56.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/moonpay/jobs/57091430-associate-general-counsel-regulatory#content",
+    "title": "Associate General Counsel, Regulatory",
+    "company": "MoonPay",
+    "link": "https://jobs.paradigm.xyz/companies/moonpay/jobs/57091430-associate-general-counsel-regulatory#content",
+    "date": "2025-08-22T11:50:34.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/57091050-site-reliability-engineer#content",
+    "title": "Site Reliability Engineer",
+    "company": "Alchemy",
+    "link": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/57091050-site-reliability-engineer#content",
+    "date": "2025-08-22T11:37:56.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/57091049-enterprise-account-executive#content",
+    "title": "Enterprise Account Executive",
+    "company": "Alchemy",
+    "link": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/57091049-enterprise-account-executive#content",
+    "date": "2025-08-22T11:22:56.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/doublezero/jobs/57084592-data-engineer#content",
+    "title": "Data Engineer",
+    "company": "DoubleZero",
+    "link": "https://jobs.dragonfly.xyz/companies/doublezero/jobs/57084592-data-engineer#content",
+    "date": "2025-08-22T11:00:07.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/ejara/jobs/57081131-senior-front-end-angular-and-reactjs#content",
+    "title": "Senior Front-end [Angular and ReactJs]",
+    "company": "Ejara",
+    "link": "https://jobs.dragonfly.xyz/companies/ejara/jobs/57081131-senior-front-end-angular-and-reactjs#content",
+    "date": "2025-08-22T10:55:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/utorg-2/jobs/57004798-senior-qa-engineer-mobile#content",
+    "title": "Senior QA Engineer (Mobile)",
+    "company": "Utorg",
+    "link": "https://jobs.dragonfly.xyz/companies/utorg-2/jobs/57004798-senior-qa-engineer-mobile#content",
+    "date": "2025-08-22T10:45:07.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/chainalysis-careers/22e500b9-b5ca-404a-a364-1193eda6d9e3?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
     "title": "Senior Accountant, Revenue",
     "company": "Chainalysis",
@@ -5453,14 +5549,6 @@
     "company": "Chainstack",
     "link": "https://jobs.avax.network/companies/chainstack/jobs/55601457-frontend-engineer-vue-js#content",
     "date": "2025-08-01T14:45:07.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/mirai-chain/jobs/55556769-sr-mobile-developer#content",
-    "title": "Sr. Mobile Developer",
-    "company": "Mirai Chain",
-    "link": "https://jobs.avax.network/companies/mirai-chain/jobs/55556769-sr-mobile-developer#content",
-    "date": "2025-08-01T10:26:26.000Z",
     "source": "Jobs | Avalanche Job Board"
   }
 ]
