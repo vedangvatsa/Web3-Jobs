@@ -329,7 +329,10 @@ export default function CommunityPage() {
                 <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
                     <CardContent className="p-8 text-center">
                         <p className="text-xl font-medium italic">“Their Web3 Jobs Telegram channel has proven to be the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new opportunities the moment they are available on the market, significantly improving the visibility of my applications.”</p>
-                        <p className="mt-4 font-semibold">Suki Cheung</p>
+                        <div className="mt-6 mb-2">
+                            <Image src="/logo/quotes/suki.png" alt="Suki Cheung" width={64} height={64} className="rounded-full mx-auto" />
+                        </div>
+                        <p className="font-semibold">Suki Cheung</p>
                         <p className="text-sm text-muted-foreground">Community Lead, Trust Wallet</p>
                     </CardContent>
                 </Card>
@@ -353,7 +356,10 @@ export default function CommunityPage() {
                 <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
                     <CardContent className="p-8 text-center">
                         <p className="text-2xl font-medium italic">“We’ve got many mails, there’s a new one per 5 mins”</p>
-                        <p className="mt-4 font-semibold">Kris Lai</p>
+                         <div className="mt-6 mb-2">
+                            <Image src="/logo/quotes/kris.png" alt="Kris Lai" width={64} height={64} className="rounded-full mx-auto" />
+                        </div>
+                        <p className="font-semibold">Kris Lai</p>
                         <p className="text-sm text-muted-foreground">CEO, Scallop</p>
                     </CardContent>
                 </Card>
@@ -391,11 +397,11 @@ export default function CommunityPage() {
           <section className="mb-16">
                 <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
                     <CardContent className="p-8 text-center">
-                        <div className="mb-4">
-                            <Image src="/logo/quotes/zhanna.png" alt="Zhanna Manzyk" width={80} height={80} className="rounded-full mx-auto" />
-                        </div>
                         <p className="text-xl font-medium italic">“Our agency has been using the job board for the past year, and we’ve tripled our speed in closing roles thanks to their high-quality talent pool.”</p>
-                        <p className="mt-4 font-semibold">Zhanna Manzyk</p>
+                        <div className="mt-6 mb-2">
+                            <Image src="/logo/quotes/zhanna.png" alt="Zhanna Manzyk" width={64} height={64} className="rounded-full mx-auto" />
+                        </div>
+                        <p className="font-semibold">Zhanna Manzyk</p>
                         <p className="text-sm text-muted-foreground">CEO, Jaya Talent</p>
                     </CardContent>
                 </Card>
