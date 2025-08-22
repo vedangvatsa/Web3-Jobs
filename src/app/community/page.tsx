@@ -312,16 +312,6 @@ export default function CommunityPage() {
             </div>
           </section>
 
-           <section className="mb-16">
-                <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
-                    <CardContent className="p-8 text-center">
-                        <p className="text-xl font-medium italic">“Their Web3 Jobs Telegram channel has proven to be the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new opportunities the moment they are available on the market, significantly improving the visibility of my applications.”</p>
-                        <p className="mt-4 font-semibold">Suki Cheung</p>
-                        <p className="text-sm text-muted-foreground">Community Lead, Trust Wallet</p>
-                    </CardContent>
-                </Card>
-            </section>
-
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
                  <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
@@ -334,6 +324,16 @@ export default function CommunityPage() {
                 </div>
              </div>
           </section>
+
+           <section className="mb-16">
+                <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
+                    <CardContent className="p-8 text-center">
+                        <p className="text-xl font-medium italic">“Their Web3 Jobs Telegram channel has proven to be the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new opportunities the moment they are available on the market, significantly improving the visibility of my applications.”</p>
+                        <p className="mt-4 font-semibold">Suki Cheung</p>
+                        <p className="text-sm text-muted-foreground">Community Lead, Trust Wallet</p>
+                    </CardContent>
+                </Card>
+            </section>
           
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
