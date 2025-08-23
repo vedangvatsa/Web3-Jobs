@@ -1,6 +1,6 @@
 ---
 title: "How Formal Verification Improves Smart Contract Security"
-image: "https://placehold.co/1200x630.png"
+image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
 data-ai-hint: "security code verification"
 description: "A deep dive into formal verification, the cutting-edge technique used to mathematically prove the correctness of smart contracts and eliminate entire classes of bugs."
 category: "Technology Deep Dives"
