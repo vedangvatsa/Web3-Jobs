@@ -49,7 +49,7 @@ The Cosmos Hub is the first blockchain that was launched in the Cosmos network. 
 
 -   **Language:** The primary language is **Go**. Developers need to be proficient in Go to build custom modules.
 -   **Flexibility:** The Cosmos SDK provides immense flexibility. Developers have full control over the validator set, the governance model, and the core economic properties of their chain.
--.  **Sovereignty:** Each app-chain is a sovereign network. It is not dependent on the governance or technical roadmap of a parent chain like Ethereum. This is a powerful advantage for applications that require a high degree of control.
+-   **Sovereignty:** Each app-chain is a sovereign network. It is not dependent on the governance or technical roadmap of a parent chain like Ethereum. This is a powerful advantage for applications that require a high degree of control.
 
 ### The Cosmos Vision: An Ecosystem of Sovereign, Interoperable Chains
 
