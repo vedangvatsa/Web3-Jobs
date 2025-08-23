@@ -1,6 +1,6 @@
 ---
 title: "Common Smart Contract Vulnerabilities Explained"
-image: "https://placehold.co/1200x630.png"
+image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
 data-ai-hint: "security vulnerability lock"
 description: "A developer's guide to the most common security flaws in Solidity smart contracts, from reentrancy to integer overflows. Learn how to identify and prevent these critical vulnerabilities."
 category: "Technology Deep Dives"
