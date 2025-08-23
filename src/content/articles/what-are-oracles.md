@@ -20,7 +20,7 @@ Oracles solve this by fetching the data off-chain, coming to a consensus on its 
 ### Types of Oracles
 
 - **Centralized Oracles:** A single entity is responsible for providing the data. This is efficient but introduces a single point of failure. If the oracle is hacked or provides bad data, the smart contract that relies on it will fail.
-- **Decentralized Oracles:** To solve the problem of trust, decentralized oracles use a network of independent, reputable oracle nodes to retrieve and validate data.
+- **Decentralized Oracles:** To solve the problem of trust, decentralized oracles use a network of independent nodes to retrieve and validate data.
 
 ### How Decentralized Oracles Work: The Chainlink Model
 
