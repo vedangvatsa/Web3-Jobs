@@ -1,6 +1,6 @@
 ---
 title: 'Your Roadmap to Becoming a Blockchain Developer in 2025'
-image: 'https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTc1NDk1NDQyM3ww&ixlib=rb-4.1.0&q=80&w=1080'
+image: 'https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTc1NDk1NDQyM3ww&lib=rb-4.0.3'
 description: 'Your complete roadmap to becoming a blockchain developer. This guide covers the essential skills, languages, tools, and projects you need to build a successful career in Web3 engineering.'
 category: 'Getting Started'
 ---
@@ -47,7 +47,7 @@ The best way to learn is by building. Follow this project progression to build y
     -   **Task:** Write a contract that allows you to store a number and retrieve it. Deploy it on a testnet using Remix or Hardhat.
 2.  **Project 2: Your Own ERC-20 Token**
     -   **Goal:** Understand token standards.
-    -   **Task:** Write and deploy your own simple cryptocurrency. Build a basic frontend using React and Ethers.js that lets a user connect their wallet and see their balance of your token.
+    -   **Task:** Write and deploy your own simple cryptocurrency. Build a basic frontend using React and Ethers.js that allows users to connect their wallet and see their balance of your token.
 3.  **Project 3: An NFT Collection**
     -   **Goal:** Learn the ERC-721 standard.
     -   **Task:** Create a simple generative art NFT collection. Write a contract that allows users to mint one of your NFTs. Display the minted NFTs on your frontend.
