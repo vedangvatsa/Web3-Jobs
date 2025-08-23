@@ -97,11 +97,10 @@ export async function getJobs(): Promise<Job[]> {
 
   const combinedJobs = [...cachedJobs, ...newJobs];
 
-  // Deduplicate jobs based on the link, keeping the most recent.
+  // Deduplicate jobs based on a composite key of title and company, keeping the most recent.
   const jobMap = new Map<string, Job>();
   combinedJobs.forEach(job => {
-      // Use link as the primary key for deduplication for higher accuracy
-      const key = job.link;
+      const key = `${job.title.toLowerCase().trim()}-${job.company.toLowerCase().trim()}`;
       const existingJob = jobMap.get(key);
       if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
           jobMap.set(key, job);
