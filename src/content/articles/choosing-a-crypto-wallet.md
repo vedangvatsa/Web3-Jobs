@@ -19,7 +19,7 @@ This is the most fundamental distinction between wallets.
   - **Pros:** Full control over your funds, censorship-resistant. This is the only way to truly own your crypto.
   - **Cons:** High personal responsibility. If you lose your seed phrase, your funds are gone forever.
 
-**For anyone serious about participating in Web3, a non-custodial wallet is essential.** For more on this, see our [guide to securing your crypto](/securing-your-crypto).
+**For anyone serious about participating in Web3, a non-custodial wallet is essential.**
 
 ### Hot Wallets vs. Cold Wallets: The Security Spectrum
 

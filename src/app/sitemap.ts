@@ -5,6 +5,14 @@ import { getAllArticles } from '@/lib/articles';
 const siteUrl = 'https://jobs.hashtagweb3.com';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+  const articles = await getAllArticles();
+  const articleRoutes: MetadataRoute.Sitemap = articles.map(article => ({
+    url: `${siteUrl}/${article.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly',
+    priority: 0.7
+  }));
+
   const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: siteUrl,
@@ -55,14 +63,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.9,
     }
   ];
-
-  const articles = await getAllArticles();
-  const articleRoutes: MetadataRoute.Sitemap = articles.map(article => ({
-    url: `${siteUrl}/${article.slug}`,
-    lastModified: new Date(), // In a real app, you'd use the article's publish date
-    changeFrequency: 'monthly',
-    priority: 0.7
-  }));
 
   return [...staticRoutes, ...articleRoutes];
 }
