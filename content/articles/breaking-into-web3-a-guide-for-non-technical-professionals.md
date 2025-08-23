@@ -1,6 +1,6 @@
 ---
 title: "Breaking into Web3: A Guide for Non-Technical Professionals"
-image: "https://placehold.co/1080x810.png"
+image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
 data-ai-hint: "business people networking"
 description: "You don't need to be a coder to have a successful career in Web3. This guide outlines the most in-demand non-technical roles and how you can leverage your existing skills to break into the crypto industry."
 category: "Career Guides"
@@ -47,6 +47,6 @@ The key is to combine your existing expertise with a deep, genuine understanding
 3.  **Network Authentically:** Connect with people on Twitter and in Discord. Don't just ask for a job; ask for advice. Show genuine curiosity about their work.
 4.  **Tailor Your Resume:** Reframe your Web2 experience using the language of Web3.
     *   *Instead of:* "Managed a social media calendar for a consumer brand."
-    *   *Try:* "Cultivated an online community and executed content strategies to drive user engagement."
+    *   *Try:* "Cultivated an online community and executed content strategies to drive user engagement and growth."
 
 You don't need to be a coder to be a builder in Web3. The industry needs passionate, skilled people from all backgrounds to help build the future of the internet. By combining your existing skills with a deep dive into the culture and technology of the space, you can

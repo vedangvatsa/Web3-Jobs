@@ -1,6 +1,6 @@
 ---
 title: "How to Become a Web3 Legal Consultant"
-image: "https://placehold.co/1080x810.png"
+image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "law legal books"
 description: "A guide for legal professionals looking to transition into the fast-growing Web3 space. Learn what skills are in demand and how to navigate the complex regulatory landscape of crypto."
 category: "Career Guides"
