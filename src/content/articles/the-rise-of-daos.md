@@ -7,7 +7,9 @@ category: 'Industry Insights'
 
 The traditional corporate structure has been the default model for organizing work for over a century: a top-down hierarchy with C-level executives, middle managers, and employees. But what if there was another way? What if a company could be run by a community, with decisions made transparently by its members and rules enforced by code? This is the revolutionary promise of the DAO, or Decentralized Autonomous Organization.
 
-DAOs are one of the most exciting and fast-growing sectors in the Web3 ecosystem. They are internet-native organizations where control is spread out amongst its members instead of being centralized in a single entity. They use [smart contracts](/what-are-smart-contracts) on a blockchain to automate rules and facilitate collective decision-making, often through token-based voting. From managing massive DeFi protocols to funding public goods and curating NFT collections, DAOs are creating new models for collaboration and governance.
+DAOs are one of an internet-native organization that is owned and managed by its members. They use [smart contracts](/what-are-smart-contracts) on a blockchain to create a transparent and tamper-proof set of rules, and they are governed by the votes of their members, often through the use of governance tokens.
+
+From managing massive DeFi protocols to funding public goods and curating NFT collections, DAOs are creating new models for collaboration and governance.
 
 More importantly for job seekers, they are creating a new type of job market. Working for a DAO is fundamentally different from a traditional job. It's often more flexible, more transparent, and more meritocratic. This guide will explore [what DAOs are](/what-is-a-dao), the types of roles they offer, the skills you need to succeed, and a step-by-step plan for finding and landing your first DAO job.
 
