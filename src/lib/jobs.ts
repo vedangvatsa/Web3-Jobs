@@ -7,32 +7,31 @@ import fs from 'fs';
 import path from 'path';
 
 const FEEDS = [
-  'https://politepol.com/fd/JEeZwG4KK7uT.xml',
-  'https://politepol.com/fd/sDzglCq7RCpG.xml',
-  'https://politepol.com/fd/bs9i34afSjHS.xml',
+  'https://politepol.com/fd/JEeZwG4KK7uT.xml', // Dragonfly
+  'https://politepol.com/fd/sDzglCq7RCpG.xml', // Paradigm
+  'https://politepol.com/fd/bs9i34afSjHS.xml', // Arbitrum
   'https://politepol.com/fd/oiXKHETnrDap.xml', // a16z
   'https://politepol.com/fd/Ane01VX84MOk.xml', // Pantera
+  'https://politepol.com/fd/HI6pMDlyEO7j.xml'  // Avalanche
 ];
 
 const jobsCachePath = path.join(process.cwd(), 'content', 'jobs.json');
 
 const parser = new Parser();
 
-// Helper function to strip HTML and clean the company name
+// Helper to clean company names
 function cleanCompany(company: string | undefined): string | undefined {
     if (!company) return undefined;
-    // Strip HTML tags and then take only the first line.
     return company.replace(/<[^>]*>?/gm, '').split('\n')[0].trim();
 }
 
-// Helper function to remove emojis from a string
+// Helper to remove emojis
 function removeEmojis(text: string | undefined): string | undefined {
   if (!text) return undefined;
-  // This regex removes most common emojis.
   return text.replace(/([\u2700-\u27BF]|[\uE000-\uF8FF]|\uD83C[\uDC00-\uDFFF]|\uD83D[\uDC00-\uDFFF]|[\u2011-\u26FF]|\uD83E[\uDD10-\uDDFF])/g, '').trim();
 }
 
-// Reads jobs from the JSON cache file
+// Helper to read jobs from cache
 function readJobsFromCache(): Job[] {
     if (!fs.existsSync(jobsCachePath)) {
         return [];
@@ -46,7 +45,7 @@ function readJobsFromCache(): Job[] {
     }
 }
 
-// Writes jobs to the JSON cache file
+// Helper to write jobs to cache
 function writeJobsToCache(jobs: Job[]) {
     try {
         const directory = path.dirname(jobsCachePath);
@@ -72,7 +71,7 @@ export async function getJobs(): Promise<Job[]> {
           const company = cleanCompany(item.content);
           const link = item.link;
 
-          if (link && title && company && title.split(' ').length <= 7 && !title.toLowerCase().includes('bounty')) {
+          if (link && title && company && title.split(' ').length <= 8 && !title.toLowerCase().includes('bounty')) {
             return {
               id: item.guid || link,
               title,
@@ -97,7 +96,6 @@ export async function getJobs(): Promise<Job[]> {
 
   const combinedJobs = [...cachedJobs, ...newJobs];
 
-  // Deduplicate jobs based on a composite key of title and company, keeping the most recent.
   const jobMap = new Map<string, Job>();
   combinedJobs.forEach(job => {
       const key = `${job.title.toLowerCase().trim()}-${job.company.toLowerCase().trim()}`;
@@ -109,15 +107,12 @@ export async function getJobs(): Promise<Job[]> {
   
   let uniqueJobs = Array.from(jobMap.values());
 
-  // Filter out jobs older than 3 weeks (21 days)
   const threeWeeksAgo = new Date();
   threeWeeksAgo.setDate(threeWeeksAgo.getDate() - 21);
   uniqueJobs = uniqueJobs.filter(job => new Date(job.date) >= threeWeeksAgo);
 
-  // Final sort by date descending (newest first)
   uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-  // Write back to cache
   writeJobsToCache(uniqueJobs);
 
   return uniqueJobs;
