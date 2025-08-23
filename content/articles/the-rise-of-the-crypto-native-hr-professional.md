@@ -1,6 +1,6 @@
 ---
 title: "The Rise of the Crypto-Native HR Professional"
-image: "https://placehold.co/1080x810.png"
+image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "human resources team"
 description: "HR in Web3 is different. Discover the unique challenges and opportunities for People Ops leaders in a world of remote work, token compensation, and DAO contributors."
 category: "Career Guides"
@@ -22,7 +22,7 @@ The demand for crypto-native People Ops leaders is surging as Web3 startups and 
 
 3.  **From Employees to Contributors:**
     *   **The Challenge:** Many DAOs don't have "employees" in the traditional sense. They have a fluid network of part-time, pseudonymous "contributors" who are paid on a per-project basis via bounties and grants. How do you recruit, onboard, and retain talent in this flexible, "headless" environment?
-    *   **The Solution:** Web3 People Ops focuses on building a strong "contributor funnel." They create clear pathways for community members to start contributing to the DAO, beginning with small bounties and progressing to larger, grant-funded projects. The focus is on reputation and proof-of-work, not resumes.
+    *   **The Solution:** Web3 People Ops focuses on building a "contributor funnel." They create clear pathways for community members to start contributing to the DAO, beginning with small bounties and progressing to larger, grant-funded projects. The focus is on reputation and proof-of-work, not resumes.
 
 ### Key Responsibilities of a Web3 People Ops Leader
 
