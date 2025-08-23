@@ -39,7 +39,7 @@ As DeFi becomes more prominent, it has come under the scrutiny of bodies like th
 **3. Personal Liability Risk (Especially for DAO Contributors)**
 
 The legal status of [DAOs](/what-is-a-dao) is a major unknown.
--   **The Risk:** In the absence of a formal legal structure (a "legal wrapper"), a DAO could be classified as a "general partnership." In a general partnership, all members can be held personally liable for the actions and debts of the organization.
+-   **The Risk:** In the absence of a formal legal structure (a "legal wrapper"), a DAO could be deemed a "general partnership." In a general partnership, all members can be held personally liable for the actions and debts of the organization.
 -   **The Impact:** This means that if you are an active, voting member of a DAO that gets sued, you could potentially be named in the lawsuit. This is a significant and often misunderstood risk for DAO contributors.
 
 ### How to Navigate the Regulatory Risk as a Job Seeker
