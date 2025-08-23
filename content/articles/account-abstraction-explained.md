@@ -1,18 +1,19 @@
 ---
 title: "Account Abstraction Explained: The Future of Crypto Wallets"
 image: "https://images.unsplash.com/photo-1637597383775-cf7b69e0a9c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcnlwdG8lMjB3YWxsZXR8ZW58MHx8fHwxNzU1MDA1MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+data-ai-hint: "crypto wallet"
 description: "Account Abstraction (EIP-4337) is set to revolutionize Web3 UX. Learn how it will make crypto wallets as easy to use as email, enabling features like social recovery and paying gas in any token."
 category: "Technology Deep Dives"
 ---
 
 One of the biggest hurdles to Web3 mass adoption is the clunky user experience (UX) of crypto wallets. Managing seed phrases, paying gas fees in ETH, and the fear of a single mistake leading to lost funds are major pain points for newcomers. **Account Abstraction (AA)** is a game-changing technical upgrade for Ethereum that promises to solve these problems.
 
-At its core, Account Abstraction aims to make crypto wallets more flexible, programmable, and user-friendly by blurring the lines between a simple user wallet and a smart contract. It turns every user account into a smart contract, unlocking a world of powerful new features.
+At its core, Account Abstraction aims to make crypto wallets more flexible, programmable, and user-friendly by blurring the lines between a simple user wallet and a smart contract. It turns every user account into a [smart contract](/what-are-smart-contracts), unlocking a world of powerful new features.
 
 ### The Problem with Today's Wallets (Externally Owned Accounts)
 
 Currently, there are two types of accounts on Ethereum:
-1.  **Externally Owned Accounts (EOAs):** This is the standard crypto wallet (like MetaMask) controlled by a private key. It's simple, but rigid. The rules are hard-coded into the Ethereum protocol itself.
+1.  **Externally Owned Accounts (EOAs):** This is the standard [crypto wallet (like MetaMask)](/choosing-a-crypto-wallet) controlled by a private key. It's simple, but rigid. The rules are hard-coded into the Ethereum protocol itself.
 2.  **Contract Accounts:** These are smart contracts (like a multi-sig wallet) controlled by their code. They are flexible, but they can't initiate transactions themselves; they must be "called" by an EOA.
 
 This separation is the source of many UX challenges. You must always hold ETH in your EOA to pay for gas, even if you want to transact with USDC. If you lose your seed phrase, your funds are gone forever.
@@ -39,6 +40,6 @@ EIP-4337 achieves Account Abstraction without requiring a change to the core Eth
 - Specialized actors called "Bundlers" pick up these operations, bundle them together, and send them to a global "EntryPoint" smart contract on the main chain.
 - The EntryPoint contract then validates the `UserOperations` and executes them.
 
-This clever design allows for the immediate rollout of Account Abstraction on Ethereum and all EVM-compatible Layer 2s.
+This clever design allows for the immediate rollout of Account Abstraction on Ethereum and all EVM-compatible [Layer 2s](/guide-to-layer-2s).
 
 Account Abstraction is a monumental step forward for the usability of Web3. By abstracting away the most painful parts of the user experience—seed phrases and gas fees—it paves the way for applications that are as easy to use as their Web2 counterparts, finally opening the door to the next billion users.
