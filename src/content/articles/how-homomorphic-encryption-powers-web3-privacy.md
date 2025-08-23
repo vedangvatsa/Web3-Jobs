@@ -1,6 +1,6 @@
 ---
 title: "How Homomorphic Encryption Powers Web3 Privacy"
-image: "https://placehold.co/1200x630.png"
+image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "encryption privacy data"
 description: "A deep dive into Homomorphic Encryption (HE), a revolutionary cryptographic technique that allows for computation on encrypted data, enabling privacy-preserving smart contracts."
 category: "Technology Deep Dives"

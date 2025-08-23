@@ -1,6 +1,6 @@
 ---
 title: "Understanding Reentrancy Attacks in Web3 Smart Contracts"
-image: "https://placehold.co/1200x630.png"
+image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
 data-ai-hint: "security lock hack"
 description: "A detailed guide to reentrancy, one of the most notorious and destructive vulnerabilities in smart contract history. Learn how it works, why it's so dangerous, and how to prevent it."
 category: "Technology Deep Dives"

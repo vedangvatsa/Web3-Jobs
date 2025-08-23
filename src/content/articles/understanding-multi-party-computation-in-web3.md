@@ -1,6 +1,6 @@
 ---
 title: "Understanding Multi-Party Computation in Web3"
-image: "https://placehold.co/1200x630.png"
+image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "computation security keys"
 description: "A guide to Multi-Party Computation (MPC), a powerful cryptographic technique that is revolutionizing digital asset security and private computation in Web3."
 category: "Technology Deep Dives"
