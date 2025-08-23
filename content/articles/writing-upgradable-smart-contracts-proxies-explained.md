@@ -46,8 +46,6 @@ That's it. The upgrade is complete. Users continue to interact with the same, un
 
 You should never try to write your own proxy contracts from scratch. It is a complex and high-risk task. The industry standard is to use the **OpenZeppelin Upgrades Plugins**.
 
-These plugins integrate with development frameworks like Hardhat and Foundry and handle all the complexity for you.
-
 *   **@openzeppelin/hardhat-upgrades**
 *   **@openzeppelin/foundry-upgrades**
 
