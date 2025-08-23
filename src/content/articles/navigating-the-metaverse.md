@@ -19,7 +19,7 @@ While definitions vary, a true metaverse, as envisioned by technologists, is exp
 - **Synchronous and Live:** While asynchronous interaction will be possible, the metaverse is a living experience, with events and interactions happening simultaneously for everyone.
 - **An Unlimited Number of Concurrent Users:** Everyone should be able to be a part of the metaverse at the same time, with their own sense of "presence."
 - **A Fully Functioning Economy:** Individuals and businesses should be able to create, own, invest, sell, and be rewarded for an incredibly wide range of "work" that produces value recognized by others.
-- **Interoperability:** Digital assets and identities should be able to move seamlessly from one virtual world to another. Your avatar, your car, or your digital art should not be trapped in a single platform.
+- **Interoperability:** Digital assets and identities should be ableto move seamlessly from one virtual world to another. Your avatar, your car, or your digital art should not be trapped in a single platform.
 - **A Mix of Platforms and Experiences:** It won't be a single, monolithic world built by one company. It will be a network of countless different experiences built by creators, companies, and communities, much like the World Wide Web today.
 
 ## Why Web3 is the Foundation for an Open Metaverse
