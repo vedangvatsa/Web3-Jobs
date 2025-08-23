@@ -98,8 +98,10 @@ export async function getJobs(): Promise<Job[]> {
 
   const jobMap = new Map<string, Job>();
   combinedJobs.forEach(job => {
-      const key = `${job.title.toLowerCase().trim()}-${job.company.toLowerCase().trim()}`;
+      const normalize = (str: string) => str.toLowerCase().replace(/[^a-z0-9]/g, '');
+      const key = `${normalize(job.title)}-${normalize(job.company)}`;
       const existingJob = jobMap.get(key);
+
       if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
           jobMap.set(key, job);
       }
