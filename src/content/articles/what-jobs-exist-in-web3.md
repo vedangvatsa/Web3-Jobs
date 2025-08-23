@@ -1,7 +1,7 @@
 ---
-title: 'What Jobs Exist in Web3? The Top 10 Most In-Demand Roles'
-image: '/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg'
-data-ai-hint: 'job opportunity empty chair'
+title: "What Jobs Exist in Web3? A Guide to the Top Roles"
+image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
+data-ai-hint: "job opportunity empty chair"
 description: 'Explore the most sought-after jobs in the Web3 ecosystem, from Solidity development to community management, and discover the skills you need to succeed in the decentralized economy.'
 category: 'Career Guides'
 ---

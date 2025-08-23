@@ -1,7 +1,7 @@
 ---
-title: 'Web3 Developer Salary: A Comprehensive Guide'
+title: 'Web3 Developer Salary: A Comprehensive Guide for 2025'
 image: 'https://images.unsplash.com/photo-1668554245893-2430d0077217?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTc1NDk1NDQyM3ww&ixlib=rb-4.1.0&q=80&w=1080'
-description: 'A comprehensive guide to Web3 developer salaries. Explore average compensation by role, experience, and location, and learn what skills command the highest pay in the blockchain industry.'
+description: 'A comprehensive guide to Web3 developer salaries for 2025. Explore average compensation by role, experience, and location, and learn what skills command the highest pay in the blockchain industry.'
 category: 'Career Guides'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Web3 Jobs in Demand: The Roles Shaping the Future"
+title: "The Most In-Demand Web3 Jobs"
 image: "/images/mathew-schwartz-iGheu30xAi8-unsplash.jpg"
 data-ai-hint: "web3 jobs chart"
 description: "A look at the most in-demand jobs in the Web3 ecosystem. From smart contract engineers to community managers, discover the roles that companies are actively hiring for."
@@ -19,7 +19,7 @@ These are the core engineering roles that build the infrastructure and applicati
 - **Key Skills:** Mastery of **Solidity**, a deep understanding of the **EVM (Ethereum Virtual Machine)**, and a security-first mindset. Experience with frameworks like **Foundry** or **Hardhat** is essential.
 
 **2. Frontend / Full-Stack Engineer**
-- **Why they're in demand:** A brilliant smart contract is useless if the user interface is unusable. As Web3 targets mainstream adoption, the need for skilled frontend developers who can create intuitive and safe user experiences has skyrocketed. They are the crucial bridge between the complexity of the blockchain and the end-user.
+- **Why they're in demand:** A brilliant smart contract is useless if the user interface is unusable. As Web3 applications target mainstream adoption, the need for skilled frontend developers who can create intuitive and safe user experiences has skyrocketed. They are the crucial bridge between the complexity of the blockchain and the end-user.
 - **Key Skills:** Expertise in **React (especially Next.js)** and **TypeScript**. They must have deep experience with Web3 libraries like **Ethers.js** or **Viem** for connecting to wallets and interacting with smart contracts.
 
 **3. Protocol Engineer**
