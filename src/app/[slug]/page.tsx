@@ -2,7 +2,6 @@
 import { getArticle, getAllArticles } from '@/lib/articles';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/header';
-import { Footer } from '@/components/footer';
 import Image from 'next/image';
 import { Metadata } from 'next';
 import type { Article as ArticleSchema } from 'schema-dts';
@@ -143,7 +142,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </div>
           </article>
         </main>
-        <Footer />
       </div>
     </>
   );
