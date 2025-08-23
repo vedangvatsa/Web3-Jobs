@@ -32,7 +32,7 @@ The core of an auditor's job is the **security review** or **audit**. This is a 
 To be a great auditor, you must think like an attacker. You have to constantly ask, "How could I break this?"
 
 -   **Deep Solidity and EVM Knowledge:** You must understand not just the syntax of Solidity, but the low-level workings of the Ethereum Virtual Machine (EVM). You need to know how storage is laid out, how gas is calculated, and the nuances of every opcode.
--   **Adversarial Mindset:** You must be ableto look at a system and instinctively identify its weakest points. This is a creative and often counter-intuitive process.
+-   **Adversarial Mindset:** You must be able to look at a system and instinctively identify its weakest points. This is a creative and often counter-intuitive process.
 -   **Knowledge of Common Vulnerabilities:** You need to have an encyclopedic knowledge of known attack vectors, such as reentrancy, integer overflows, oracle manipulation, signature replay attacks, and access control issues. Studying past hacks is essential.
 -   **Excellent Written Communication:** The final deliverable of an audit is a written report. You must be able to communicate complex technical vulnerabilities clearly and concisely to developers.
 -   **Unrelenting Attention to Detail:** Auditing requires a level of meticulousness that is almost obsessive. A single missed detail could be the difference between a secure protocol and a multi-million dollar exploit.
