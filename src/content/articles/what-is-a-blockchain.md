@@ -63,7 +63,7 @@ Not all blockchains are the same. They can be broadly categorized based on who c
 
 ## Beyond Cryptocurrency The Power of Smart Contracts
 
-While Bitcoin introduced blockchain to the world, the technology's potential goes far beyond digital money. The real revolution came with the advent of Ethereum, which introduced the concept of [smart contracts](/what-are-smart-contracts). These are self-executing programs with the terms of the agreement directly written into code. They run on the blockchain, making them transparent, immutable, and unstoppable.
+While Bitcoin introduced blockchain to the world, the technology's potential goes far beyond digital money. The real revolution came with the advent of Ethereum, which introduced the concept of smart contracts. These are self-executing programs with the terms of the agreement directly written into code. They run on the blockchain, making them transparent, immutable, and unstoppable.
 
 Smart contracts have unlocked a new wave of applications:
 

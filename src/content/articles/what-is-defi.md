@@ -1,6 +1,6 @@
 ---
 title: 'What is DeFi? A Beginner''s Guide to Decentralized Finance'
-image: 'https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmaW5hbmNlfGVufDB8fHx8MTc1NDk1NTgxNXww&ixlib=rb-4.1.0&q=80&w=1080'
+image: 'https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmaW5hbmNlfGVufDB8fHx8MTc1NDk1NTgxNXww&lib=rb-4.0.3'
 description: 'Learn the fundamentals of Decentralized Finance (DeFi). This guide explains how DeFi is rebuilding traditional finance on the blockchain, covering key concepts like DEXs, lending, and yield farming.'
 category: 'Getting Started'
 ---
