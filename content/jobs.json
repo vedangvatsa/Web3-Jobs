@@ -1,5 +1,117 @@
 [
   {
+    "id": "https://jobs.dragonfly.xyz/companies/utorg-2/jobs/57163787-junior-business-development-manager-onboarding-specialist#content",
+    "title": "Junior Business Development Manager (Onboarding Specialist)",
+    "company": "Utorg",
+    "link": "https://jobs.dragonfly.xyz/companies/utorg-2/jobs/57163787-junior-business-development-manager-onboarding-specialist#content",
+    "date": "2025-08-23T10:37:29.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146771-commissioning-manager#content",
+    "title": "Commissioning Manager",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146771-commissioning-manager#content",
+    "date": "2025-08-22T20:37:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146765-staff-software-engineer-sdn-networking#content",
+    "title": "Staff Software Engineer, SDN Networking",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146765-staff-software-engineer-sdn-networking#content",
+    "date": "2025-08-22T20:22:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146761-senior-software-engineer-sdn-networking#content",
+    "title": "Senior Software Engineer, SDN Networking",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146761-senior-software-engineer-sdn-networking#content",
+    "date": "2025-08-22T20:07:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146762-senior-staff-software-engineer-sdn-networking#content",
+    "title": "Senior Staff Software Engineer, SDN Networking",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146762-senior-staff-software-engineer-sdn-networking#content",
+    "date": "2025-08-22T19:52:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146766-bms-controls-engineer#content",
+    "title": "BMS Controls Engineer",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146766-bms-controls-engineer#content",
+    "date": "2025-08-22T19:37:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/matter-labs/jobs/57141360-people-talent-coordinator-fixed-term-contract#content",
+    "title": "People & Talent Coordinator - Fixed-Term Contract",
+    "company": "Matter Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/matter-labs/jobs/57141360-people-talent-coordinator-fixed-term-contract#content",
+    "date": "2025-08-22T19:33:09.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146763-software-engineer-ii-sdn-networking#content",
+    "title": "Software Engineer II, SDN Networking",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146763-software-engineer-ii-sdn-networking#content",
+    "date": "2025-08-22T19:22:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/57136347-associate-general-counsel#content",
+    "title": "Associate General Counsel",
+    "company": "Monad",
+    "link": "https://jobs.paradigm.xyz/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/57136347-associate-general-counsel#content",
+    "date": "2025-08-22T19:20:34.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/57136347-associate-general-counsel#content",
+    "title": "Associate General Counsel",
+    "company": "Monad",
+    "link": "https://jobs.dragonfly.xyz/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/57136347-associate-general-counsel#content",
+    "date": "2025-08-22T19:18:09.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146764-staff-software-engineer-managed-orchestration-kubernetes#content",
+    "title": "Staff Software Engineer, Managed Orchestration (Kubernetes)",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146764-staff-software-engineer-managed-orchestration-kubernetes#content",
+    "date": "2025-08-22T19:07:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146760-senior-software-engineer-managed-orchestration-kubernetes#content",
+    "title": "Senior Software Engineer, Managed Orchestration (Kubernetes)",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146760-senior-software-engineer-managed-orchestration-kubernetes#content",
+    "date": "2025-08-22T18:52:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146753-principal-software-engineer-sdn-networking#content",
+    "title": "Principal Software Engineer, SDN Networking",
+    "company": "Crusoe",
+    "link": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/57146753-principal-software-engineer-sdn-networking#content",
+    "date": "2025-08-22T18:37:42.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/companies/chainalysis/jobs/57064402-senior-accountant-revenue#content",
+    "title": "Senior Accountant, Revenue",
+    "company": "Chainalysis",
+    "link": "https://jobs.paradigm.xyz/companies/chainalysis/jobs/57064402-senior-accountant-revenue#content",
+    "date": "2025-08-22T13:59:45.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://jobs.dragonfly.xyz/companies/animoca-brands/jobs/57112984-senior-manager-crypto-accounting#content",
     "title": "Senior Manager, Crypto Accounting",
     "company": "Animoca Brands",
@@ -72,6 +184,14 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.dragonfly.xyz/companies/op-labs/jobs/57089413-enterprise-sales-lead-payments#content",
+    "title": "Enterprise Sales Lead, Payments",
+    "company": "OP Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/op-labs/jobs/57089413-enterprise-sales-lead-payments#content",
+    "date": "2025-08-22T11:45:07.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
     "id": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/57091050-site-reliability-engineer#content",
     "title": "Site Reliability Engineer",
     "company": "Alchemy",
@@ -80,12 +200,28 @@
     "source": "Jobs | Arbitrum Job Board"
   },
   {
+    "id": "https://jobs.dragonfly.xyz/companies/op-labs/jobs/57089412-enterprise-sales-lead-institutions#content",
+    "title": "Enterprise Sales Lead, Institutions",
+    "company": "OP Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/op-labs/jobs/57089412-enterprise-sales-lead-institutions#content",
+    "date": "2025-08-22T11:30:07.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
     "id": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/57091049-enterprise-account-executive#content",
     "title": "Enterprise Account Executive",
     "company": "Alchemy",
     "link": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/57091049-enterprise-account-executive#content",
     "date": "2025-08-22T11:22:56.000Z",
     "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/op-labs/jobs/57089411-enterprise-sales-lead-cex#content",
+    "title": "Enterprise Sales Lead, CeX",
+    "company": "OP Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/op-labs/jobs/57089411-enterprise-sales-lead-cex#content",
+    "date": "2025-08-22T11:15:07.000Z",
+    "source": "Jobs | Dragonfly Job Board"
   },
   {
     "id": "https://jobs.dragonfly.xyz/companies/doublezero/jobs/57084592-data-engineer#content",
@@ -112,11 +248,11 @@
     "source": "Jobs | Dragonfly Job Board"
   },
   {
-    "id": "https://jobs.ashbyhq.com/chainalysis-careers/22e500b9-b5ca-404a-a364-1193eda6d9e3?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "id": "https://jobs.paradigm.xyz/companies/chainalysis/jobs/57064399-senior-accountant-revenue#content",
     "title": "Senior Accountant, Revenue",
     "company": "Chainalysis",
-    "link": "https://jobs.ashbyhq.com/chainalysis-careers/22e500b9-b5ca-404a-a364-1193eda6d9e3",
-    "date": "2025-08-21T19:46:59.000Z",
+    "link": "https://jobs.paradigm.xyz/companies/chainalysis/jobs/57064399-senior-accountant-revenue#content",
+    "date": "2025-08-21T19:31:59.000Z",
     "source": "Jobs | Paradigm Job Board"
   },
   {
@@ -158,6 +294,14 @@
     "link": "https://www.comeet.com/jobs/starkware/C6.00E/technical-product-marketing-manager--remote/75.95D",
     "date": "2025-08-21T13:29:41.000Z",
     "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://www.comeet.com/jobs/starkware/C6.00E/technical-product-marketing-manager--remote/75.95D?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "title": "Technical Product Marketing Manager- Remote",
+    "company": "StarkWare",
+    "link": "https://www.comeet.com/jobs/starkware/C6.00E/technical-product-marketing-manager--remote/75.95D?utm_source=Paradigm+job+board&utm_medium=getro.com&gh_src=Paradigm+job+board",
+    "date": "2025-08-21T13:19:15.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/57023708-revenue-accounting-manager#content",
@@ -510,6 +654,14 @@
     "link": "https://jobs.paradigm.xyz/companies/paradigm-2/jobs/56862157-forward-deployed-engineer#content",
     "date": "2025-08-19T13:59:36.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/56864207-senior-payroll-specialist#content",
+    "title": "Senior Payroll Specialist",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/56864207-senior-payroll-specialist#content",
+    "date": "2025-08-19T12:59:05.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.dragonfly.xyz/companies/crusoe-2/jobs/56838726-category-manager-electrical#content",
@@ -1160,6 +1312,14 @@
     "source": "Jobs | Arbitrum Job Board"
   },
   {
+    "id": "https://alchemypay.org/careers/?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
+    "title": "Business Development Manager",
+    "company": "Alchemy Pay",
+    "link": "https://alchemypay.org/careers/?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
+    "date": "2025-08-15T06:27:11.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
     "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTI4MCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
     "title": "Associate Director - Markets",
     "company": "CoinDCX",
@@ -1302,6 +1462,14 @@
     "link": "https://jobs.paradigm.xyz/companies/across-protocol-2/jobs/56434958-sr-smart-contract-engineer#content",
     "date": "2025-08-14T10:12:10.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/across-protocol-2/jobs/56434958-sr-smart-contract-engineer#content",
+    "title": "Sr. Smart Contract Engineer",
+    "company": "Across Protocol",
+    "link": "https://jobs.arbitrum.io/companies/across-protocol-2/jobs/56434958-sr-smart-contract-engineer#content",
+    "date": "2025-08-14T09:58:20.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/across-protocol-2/jobs/56434956-senior-product-manager-protocol#content",
@@ -3552,14 +3720,6 @@
     "source": "Manual Add"
   },
   {
-    "id": "https://recruiterflow.com/coinswitch/jobs/549",
-    "title": "Associate Manager - Compliance",
-    "company": "CoinSwitch Kuber",
-    "link": "https://recruiterflow.com/coinswitch/jobs/549",
-    "date": "2025-08-10T12:00:00.000Z",
-    "source": "Manual Add"
-  },
-  {
     "id": "https://job-boards.greenhouse.io/carta/jobs/6668008003",
     "title": "Accounts Receivable Accountant",
     "company": "Carta",
@@ -5424,14 +5584,6 @@
     "source": "Manual Add"
   },
   {
-    "id": "https://recruiterflow.com/coinswitch/jobs/546",
-    "title": "Legal Intern",
-    "company": "CoinSwitch Kuber",
-    "link": "https://recruiterflow.com/coinswitch/jobs/546",
-    "date": "2025-08-10T12:00:00.000Z",
-    "source": "Manual Add"
-  },
-  {
     "id": "https://jobs.ashbyhq.com/Deel/12869726-a594-4474-b489-4b0e0e369abd?utm_source=jobs.a16z.com",
     "title": "Senior Product Manager, Deel IT",
     "company": "Deel",
@@ -5557,14 +5709,6 @@
     "company": "Xangle",
     "link": "https://jobs.avax.network/companies/xangle/jobs/55763945-research-associate-intern#content",
     "date": "2025-08-04T17:06:11.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/chainstack/jobs/55601457-frontend-engineer-vue-js#content",
-    "title": "Frontend Engineer (Vue.js)",
-    "company": "Chainstack",
-    "link": "https://jobs.avax.network/companies/chainstack/jobs/55601457-frontend-engineer-vue-js#content",
-    "date": "2025-08-01T14:45:07.000Z",
     "source": "Jobs | Avalanche Job Board"
   }
 ]
