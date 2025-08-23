@@ -14,11 +14,22 @@ export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
   const fileNames = fs.readdirSync(articlesDirectory);
   const allArticlesData = fileNames
     .map((fileName) => {
+      if (!fileName.endsWith('.md')) {
+        return null;
+      }
       const slug = fileName.replace(/\.md$/, '');
       
       const fullPath = path.join(articlesDirectory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const matterResult = matter(fileContents);
+
+      if (typeof matterResult.data.title !== 'string' || 
+          typeof matterResult.data.image !== 'string' ||
+          typeof matterResult.data.description !== 'string' ||
+          typeof matterResult.data.category !== 'string') {
+            console.warn(`Article with slug "${slug}" is missing frontmatter.`);
+            return null;
+      }
 
       return {
         slug,
