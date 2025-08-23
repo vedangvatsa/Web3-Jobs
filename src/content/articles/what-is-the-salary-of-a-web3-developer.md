@@ -1,5 +1,5 @@
 ---
-title: "What Is the Salary of a Web3 Developer? A Detailed Breakdown"
+title: "A Web3 Developer Salary Breakdown"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "developer salary"
 description: "A detailed breakdown of Web3 developer salaries. Explore the earning potential for different roles, from smart contract engineering to security auditing, and the factors that influence compensation."

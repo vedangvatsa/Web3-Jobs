@@ -1,5 +1,5 @@
 ---
-title: "Web3 Jobs and the Regulatory Unknown"
+title: "Web3 Careers and the Regulatory Unknown"
 image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
 data-ai-hint: "regulation law books"
 description: "An analysis of how regulatory uncertainty impacts careers in Web3. We explore the key legal risks, from securities law to sanctions, and what it means for job seekers."
