@@ -1,7 +1,6 @@
 
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Header } from '@/components/header';
-import { Footer } from '@/components/footer';
 import Link from 'next/link';
 import Image from 'next/image';
 import type { Article } from '@/types';
