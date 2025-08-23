@@ -8,6 +8,7 @@ import { Inter } from 'next/font/google';
 import { ContentSecurity } from '@/components/content-security';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
+import type { WebSite } from 'schema-dts';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -71,9 +72,24 @@ export default async function RootLayout({
   children: React.ReactNode;
 }>) {
 
+  const websiteSchema: WebSite = {
+    '@type': 'WebSite',
+    name: siteConfig.name,
+    url: siteConfig.url,
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: `${siteConfig.url}/blog?q={search_term_string}`,
+      'query-input': 'required name=search_term_string',
+    },
+  };
+
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
+            <script
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+            />
             <link rel="icon" href="/favicon.ico" sizes="any" />
             <Script
               id="gtag-script"
