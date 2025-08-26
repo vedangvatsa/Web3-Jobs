@@ -2135,7 +2135,7 @@ LIMIT 100;`
                             coreIdea: 'A legal wrapper is a traditional legal entity (like a foundation or LLC) that is controlled by the DAO. It is used to provide legal personhood for the DAO, enabling it to interact with the real world and providing liability protection for its members.',
                             keyPoints: [
                                 'The Problem: Without a legal entity, a DAO might be treated as a "general partnership" by default in many jurisdictions. This means every member could be held personally and fully liable for the actions of the DAO.',
-                                'The Solution: The DAO can vote to establish a traditional legal entity (e.g., a foundation in the Cayman Islands or a Limited Cooperative Association in the US). This entity can then:',
+                                'The Solution: The DAO votes to establish a traditional legal entity (e.g., a foundation in the Cayman Islands or a Limited Cooperative Association in the US). This entity can then:',
                                 '- Limit Liability: Protects members from personal liability.',
                                 '- Sign Contracts: Enter into real-world contracts (e.g., for services, employment, office space).',
                                 '- Hold IP: Own intellectual property like trademarks and copyrights.',
