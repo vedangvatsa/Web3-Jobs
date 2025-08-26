@@ -1272,7 +1272,7 @@ const MANUAL_JOBS: Job[] = [
     },
     {
         "id": "https://current.com/careers/open-positions/?id=7164939&gh_jid=7164939",
-        "title": "Senior Data Analyst, Banking",
+        "title": "Data Analyst, Banking",
         "company": "Current",
         "link": "https://current.com/careers/open-positions/?id=7164939&gh_jid=7164939",
         "date": "2025-08-15T12:00:00Z",
@@ -3191,6 +3191,390 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
+        "id": "https://jobs.ashbyhq.com/Deel/a8c52399-43ce-4e22-9451-ef8d20f518dd?utm_source=jobs.a16z.com",
+        "title": "Payroll Expert | Brazil",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/a8c52399-43ce-4e22-9451-ef8d20f518dd?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://recruiterflow.com/coinswitch/jobs/549",
+        "title": "Associate Manager - Compliance",
+        "company": "CoinSwitch Kuber",
+        "link": "https://recruiterflow.com/coinswitch/jobs/549",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/carta/jobs/6668008003",
+        "title": "Accounts Receivable Accountant",
+        "company": "Carta",
+        "link": "https://job-boards.greenhouse.io/carta/jobs/6668008003",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513?utm_source=jobs.a16z.com",
+        "title": "Client Services Intern, London",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/20de3e06-b144-4bcc-bdd0-19304295ae16?utm_source=jobs.a16z.com",
+        "title": "Payroll Expert | Brazil",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/20de3e06-b144-4bcc-bdd0-19304295ae16?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Solana%20Foundation/6be29283-a2e0-48f4-b388-d06f48e240b3?utm_source=jobs.a16z.com",
+        "title": "Solana Program Engineer",
+        "company": "Solana Foundation",
+        "link": "https://jobs.ashbyhq.com/Solana%20Foundation/6be29283-a2e0-48f4-b388-d06f48e240b3?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/72badd5f-65c5-43e7-889e-ad6315cdd9d2?utm_source=jobs.a16z.com",
+        "title": "Payroll Associate | Brazil",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/72badd5f-65c5-43e7-889e-ad6315cdd9d2?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/0b0fc350-cc06-42ee-bfc7-b9b02f6e9e10?utm_source=jobs.a16z.com",
+        "title": "Senior Manager, Account Executive, Mobility, Enterprise | North America",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/0b0fc350-cc06-42ee-bfc7-b9b02f6e9e10?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/1e2cb7b5-8ec3-4e1e-a64f-599d2e762b3a?utm_source=jobs.a16z.com",
+        "title": "Payroll Expert | Mexico",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/1e2cb7b5-8ec3-4e1e-a64f-599d2e762b3a?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Bastion/eecdd936-e6df-442a-9538-73fc72fa7af5?utm_source=jobs.a16z.com",
+        "title": "Chief of Staff to the COO",
+        "company": "Bastion",
+        "link": "https://jobs.ashbyhq.com/Bastion/eecdd936-e6df-442a-9538-73fc72fa7af5?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Talos-Trading/4111bcc1-c02d-4122-a1bc-839eda0fefa4?utm_source=jobs.a16z.com",
+        "title": "Client Services Intern, Singapore",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/4111bcc1-c02d-4122-a1bc-839eda0fefa4?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/28db7efc-7956-40a8-b3d2-761f813cb78d?utm_source=jobs.a16z.com",
+        "title": "Legal Counsel | Nordics",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/28db7efc-7956-40a8-b3d2-761f813cb78d?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/ef92db32-3e2a-4ec0-ad40-6ac083322366?utm_source=jobs.a16z.com",
+        "title": "Payroll Expert | Mexico",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/ef92db32-3e2a-4ec0-ad40-6ac083322366?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/563d8d3a-0c59-4660-b540-6d2f78abe8ad?utm_source=jobs.a16z.com",
+        "title": "Payroll Expert | Brazil",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/563d8d3a-0c59-4660-b540-6d2f78abe8ad?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/eigen-labs/555aa727-9756-47ef-bd3d-61401c2bc86b?utm_source=jobs.a16z.com",
+        "title": "Senior Accountant",
+        "company": "EigenLayer",
+        "link": "https://jobs.ashbyhq.com/eigen-labs/555aa727-9756-47ef-bd3d-61401c2bc86b?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.lever.co/plaid/bd309130-9ff0-4d84-8878-20a05f0c1e58?lever-source%5B%5D=jobs.a16z.com",
+        "title": "Senior Software Engineer - Python Tooling & Developer Infrastructure",
+        "company": "Plaid",
+        "link": "https://jobs.lever.co/plaid/bd309130-9ff0-4d84-8878-20a05f0c1e58?lever-source%5B%5D=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.lever.co/plaid/a31952af-be3d-4495-9638-888673c40424?lever-source%5B%5D=jobs.a16z.com",
+        "title": "Sales Engineer Manager - SMB",
+        "company": "Plaid",
+        "link": "https://jobs.lever.co/plaid/a31952af-be3d-4495-9638-888673c40424?lever-source%5B%5D=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://stripe.com/jobs/search?gh_jid=7104344",
+        "title": "Developer Experience Engineer, Privy",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=7104344",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.lever.co/plaid/98247648-3415-4a74-a28e-1ec425b0ad71?lever-source%5B%5D=jobs.a16z.com",
+        "title": "Sales Engineer - SMB",
+        "company": "Plaid",
+        "link": "https://jobs.lever.co/plaid/98247648-3415-4a74-a28e-1ec425b0ad71?lever-source%5B%5D=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4586390005",
+        "title": "Senior Design Lead",
+        "company": "UniSwap",
+        "link": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4586390005",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602673004",
+        "title": "Compliance Risk Manager - Investments",
+        "company": "Mercury",
+        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602673004",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602671004",
+        "title": "Senior Internal Auditor",
+        "company": "Mercury",
+        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602671004",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://stripe.com/jobs/search?gh_jid=7091957",
+        "title": "Founding Product Manager",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=7091957",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/valon/jobs/4589062006",
+        "title": "Forward Deployed Engineer",
+        "company": "Valon",
+        "link": "https://job-boards.greenhouse.io/valon/jobs/4589062006",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://www.cedar.com/open-roles/?gh_jid=7118065",
+        "title": "Sr. Group Lead, Implementation",
+        "company": "Cedar",
+        "link": "https://www.cedar.com/open-roles/?gh_jid=7118065",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602375004",
+        "title": "Senior IT Auditor",
+        "company": "Mercury",
+        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602375004",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602361004",
+        "title": "Compliance Training Program Manager",
+        "company": "Mercury",
+        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602361004",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/addi/d4e5cf76-da8c-4af7-93eb-4237e0905d1b?utm_source=jobs.a16z.com",
+        "title": "Fraud Trainer",
+        "company": "ADDI",
+        "link": "https://jobs.ashbyhq.com/addi/d4e5cf76-da8c-4af7-93eb-4237e0905d1b?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/phantom/a7429fbb-7aa4-4901-916a-8ab06e0d091c?utm_source=jobs.a16z.com",
+        "title": "Product Marketer",
+        "company": "Phantom",
+        "link": "https://jobs.ashbyhq.com/phantom/a7429fbb-7aa4-4901-916a-8ab06e0d091c?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602192004",
+        "title": "Senior Card Fraud Investigator",
+        "company": "Mercury",
+        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602192004",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/momentmarkets/jobs/4806433007",
+        "title": "People Operations Associate",
+        "company": "Moment",
+        "link": "https://job-boards.greenhouse.io/momentmarkets/jobs/4806433007",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/valon/jobs/4588927006",
+        "title": "Counsel",
+        "company": "Valon",
+        "link": "https://job-boards.greenhouse.io/valon/jobs/4588927006",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://stripe.com/jobs/search?gh_jid=7104148",
+        "title": "Security Engineer, Privy",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=7104148",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://www.crossriver.com/greenhouse?gh_jid=6644889003",
+        "title": "Associate, Talent Management Specialist",
+        "company": "Cross River",
+        "link": "https://www.crossriver.com/greenhouse?gh_jid=6644889003",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4590829005",
+        "title": "Senior Data Scientist",
+        "company": "UniSwap",
+        "link": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4590829005",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/propel/jobs/8098808002",
+        "title": "Senior Growth Marketing Manager",
+        "company": "Propel",
+        "link": "https://job-boards.greenhouse.io/propel/jobs/8098808002",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/avalabs/jobs/5601116004",
+        "title": "Senior Software Engineer, Core Web",
+        "company": "Ava Labs",
+        "link": "https://job-boards.greenhouse.io/avalabs/jobs/5601116004",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/valon/jobs/4588897006",
+        "title": "Default Analyst - Bankruptcy",
+        "company": "Valon",
+        "link": "https://job-boards.greenhouse.io/valon/jobs/4588897006",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.lever.co/plaid/a0d99be2-3c2f-459b-b09e-658c7e484120?lever-source%5B%5D=jobs.a16z.com",
+        "title": "Engineering Manager, Product Foundations",
+        "company": "Plaid",
+        "link": "https://jobs.lever.co/plaid/a0d99be2-3c2f-459b-b09e-658c7e484120?lever-source%5B%5D=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Adaptive/13157967-3db1-4360-9be5-2313706f74be?utm_source=jobs.a16z.com",
+        "title": "Growth Engineer",
+        "company": "Adaptive",
+        "link": "https://jobs.ashbyhq.com/Adaptive/13157967-3db1-4360-9be5-2313706f74be?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/78f2ad3e-3730-45ad-91d1-605f80706fd8?utm_source=jobs.a16z.com",
+        "title": "Associate Operations Manager, GTM Strategy",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/78f2ad3e-3730-45ad-91d1-605f80706fd8?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/18bd79de-2958-412e-b19c-94d13ecc78e7?utm_source=jobs.a16z.com",
+        "title": "Staff Mechanical Engineer, Device",
+        "company": "Worldcoin",
+        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/18bd79de-2958-412e-b19c-94d13ecc78e7?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/method/a379babd-9e7d-483e-a052-6e8dbd0f1cbc?utm_source=jobs.a16z.com",
+        "title": "Design Engineer",
+        "company": "Method",
+        "link": "https://jobs.ashbyhq.com/method/a379babd-9e7d-483e-a052-6e8dbd0f1cbc?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.lever.co/greenlight/f4babda9-189f-43c3-8bdc-66cfbe8d4a61?lever-source%5B%5D=jobs.a16z.com",
+        "title": "Marketing Technology Manager",
+        "company": "Greenlight",
+        "link": "https://jobs.lever.co/greenlight/f4babda9-189f-43c3-8bdc-66cfbe8d4a61?lever-source%5B%5D=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4591397005",
+        "title": "Deal Desk Analyst",
+        "company": "Pave",
+        "link": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4591397005",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/0be386af-bae2-4e0e-a7d3-3b104cf9e753?utm_source=jobs.a16z.com",
+        "title": "Accountant I",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/0be386af-bae2-4e0e-a7d3-3b104cf9e753?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://jobs.ashbyhq.com/Deel/2a38cb22-52ee-4b13-bb04-0d0b1e1841f1?utm_source=jobs.a16z.com",
+        "title": "Senior Customer Success Manager, Enterprise | EMEA",
+        "company": "Deel",
+        "link": "https://jobs.ashbyhq.com/Deel/2a38cb22-52ee-4b13-bb04-0d0b1e1841f1?utm_source=jobs.a16z.com",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
+        "id": "https://stripe.com/jobs/search?gh_jid=7088619",
+        "title": "Backend Engineer, Privy",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=7088619",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
         "id": "https://jobs.lever.co/plaid/664479d6-fecc-423c-8763-2d0986c137e1?lever-source%5B%5D=jobs.a16z.com",
         "title": "Product Marketing Manager - Europe",
         "company": "Plaid",
@@ -3256,7 +3640,7 @@ const MANUAL_JOBS: Job[] = [
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/d61d48f4-0ae2-4f9f-bbe5-a9116c2bb79b?utm_source=jobs.a16z.com",
-        "title": "Senior Payroll Associate, Australian Payroll",
+        "title": "Senior Payroll Associate, Australian Payroll | Philippines & India",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/d61d48f4-0ae2-4f9f-bbe5-a9116c2bb79b?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
@@ -3994,50 +4378,45 @@ function cleanTitle(text: string | undefined): string | undefined {
 
 
 export async function getJobs(): Promise<Job[]> {
+  const jobMap = new Map<string, Job>();
+
+  // Prioritize manual jobs by adding them to the map first
+  MANUAL_JOBS.forEach(job => {
+      const uniqueKey = job.link; // Use link as the primary unique identifier
+      jobMap.set(uniqueKey, job);
+  });
+
   const allJobsPromises = FEEDS.map(async (feedUrl) => {
     try {
       const feed = await parser.parseURL(feedUrl);
       if (feed?.items) {
-        return feed.items.map((item) => {
+        feed.items.forEach((item) => {
           const title = cleanTitle(item.title);
           const company = cleanCompany(item.content);
           const link = item.link;
 
           if (link && title && company && title.split(' ').length <= 8 && !title.toLowerCase().includes('bounty')) {
-            return {
-              id: item.guid || link,
-              title,
-              company,
-              link,
-              date: item.isoDate || new Date().toISOString(),
-              source: feed.title || feedUrl,
-            };
+            const uniqueKey = link;
+            // Only add the job from the feed if it hasn't been manually added
+            if (!jobMap.has(uniqueKey)) {
+                jobMap.set(uniqueKey, {
+                    id: item.guid || link,
+                    title,
+                    company,
+                    link,
+                    date: item.isoDate || new Date().toISOString(),
+                    source: feed.title || feedUrl,
+                });
+            }
           }
-          return null;
-        }).filter((job): job is Job => job !== null);
+        });
       }
-      return [];
     } catch (error) {
       console.warn(`Could not fetch or parse feed: ${feedUrl}`, error);
-      return [];
     }
   });
 
-  const newJobsNested = await Promise.all(allJobsPromises);
-  const fetchedJobs = newJobsNested.flat();
-  
-  // Combine manually added jobs with fetched jobs
-  const allJobs = [...MANUAL_JOBS, ...fetchedJobs];
-
-  const jobMap = new Map<string, Job>();
-  allJobs.forEach(job => {
-      const uniqueKey = job.link; // Use link as the primary unique identifier
-      const existingJob = jobMap.get(uniqueKey);
-
-      if (!existingJob || new Date(job.date) > new Date(existingJob.date)) {
-          jobMap.set(uniqueKey, job);
-      }
-  });
+  await Promise.all(allJobsPromises);
   
   let uniqueJobs = Array.from(jobMap.values());
 
@@ -4049,5 +4428,3 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
-
-  
