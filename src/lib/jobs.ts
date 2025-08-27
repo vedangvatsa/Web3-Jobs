@@ -315,13 +315,9 @@ export async function getJobs(): Promise<Job[]> {
   
   let uniqueJobs = Array.from(jobMap.values());
 
-  const ninetyDaysAgo = new Date();
-  ninetyDaysAgo.setDate(ninetyDaysAgo.getDate() - 90);
-  uniqueJobs = uniqueJobs.filter(job => new Date(job.date) >= ninetyDaysAgo);
-
   uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   return uniqueJobs;
 }
 
-    
+  
