@@ -52,20 +52,20 @@ type SalaryFormData = z.infer<typeof salarySchema>;
 
 const calculateSalary = (data: SalaryFormData): number => {
   const baseSalaries: Record<string, number> = {
-    'smart-contract-dev': 85000,
-    'frontend-dev': 75000,
-    'protocol-engineer': 100000,
-    'security-auditor': 110000,
-    'product-manager': 80000,
-    'ux-ui-designer': 68000,
-    'technical-writer': 65000,
-    'marketing-manager': 58000,
-    'community-manager': 55000,
-    'data-analyst': 68000,
-    'devrel': 80000,
+    'smart-contract-dev': 80000,
+    'frontend-dev': 70000,
+    'protocol-engineer': 95000,
+    'security-auditor': 105000,
+    'product-manager': 75000,
+    'ux-ui-designer': 62000,
+    'technical-writer': 60000,
+    'marketing-manager': 52000,
+    'community-manager': 50000,
+    'data-analyst': 65000,
+    'devrel': 75000,
   };
 
-  const experienceMultiplier = 1 + data.experience * 0.06;
+  const experienceMultiplier = 1 + data.experience * 0.05;
 
   const locationMultiplier: Record<string, number> = {
     north_america: 1.15,
@@ -89,7 +89,7 @@ const calculateSalary = (data: SalaryFormData): number => {
       '201_plus': 1.1,
   }
 
-  const base = baseSalaries[data.role] || 70000;
+  const base = baseSalaries[data.role] || 65000;
   let estimatedSalary =
     base *
     experienceMultiplier *
@@ -389,3 +389,5 @@ export function SalaryCalculatorForm() {
         </div>
     );
 }
+
+    
