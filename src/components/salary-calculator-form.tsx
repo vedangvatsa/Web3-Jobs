@@ -63,6 +63,9 @@ const calculateSalary = (data: SalaryFormData): number => {
     'community-manager': 50000,
     'data-analyst': 65000,
     'devrel': 75000,
+    'business-development': 68000,
+    'partnerships-manager': 70000,
+    'social-media-manager': 55000,
   };
 
   const experienceMultiplier = 1 + data.experience * 0.05;
@@ -195,6 +198,9 @@ export function SalaryCalculatorForm() {
                                             <SelectItem value="product-manager">
                                                 Product Manager
                                             </SelectItem>
+                                             <SelectItem value="partnerships-manager">
+                                                Partnerships Manager
+                                            </SelectItem>
                                             <SelectItem value="ux-ui-designer">
                                                 UX/UI Designer
                                             </SelectItem>
@@ -204,6 +210,9 @@ export function SalaryCalculatorForm() {
                                             <SelectItem value="marketing-manager">
                                                 Marketing Manager
                                             </SelectItem>
+                                             <SelectItem value="social-media-manager">
+                                                Social Media Manager
+                                            </SelectItem>
                                             <SelectItem value="community-manager">
                                                 Community Manager
                                             </SelectItem>
@@ -212,6 +221,9 @@ export function SalaryCalculatorForm() {
                                             </SelectItem>
                                             <SelectItem value="devrel">
                                                 Developer Relations (DevRel)
+                                            </SelectItem>
+                                            <SelectItem value="business-development">
+                                                Business Development / Sales
                                             </SelectItem>
                                         </SelectContent>
                                     </Select>
@@ -389,5 +401,3 @@ export function SalaryCalculatorForm() {
         </div>
     );
 }
-
-    
