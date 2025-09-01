@@ -832,7 +832,7 @@ const MANUAL_JOBS: Job[] = [
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7173211",
-        "title": "Mobile Engineer (Android)",
+        "title": "Senior Mobile Engineer (Android)",
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7173211",
         "date": "2025-08-15T12:00:00Z",
@@ -2888,7 +2888,7 @@ const MANUAL_JOBS: Job[] = [
     },
     {
         "id": "https://stripe.com/jobs/search?gh_jid=7126646",
-        "title": "Staff Software Engineer, Search - Data Platform",
+        "title": "Staff Engineer, Search - Data Platform",
         "company": "Stripe",
         "link": "https://stripe.com/jobs/search?gh_jid=7126646",
         "date": "2025-08-15T12:00:00Z",
@@ -4199,14 +4199,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7003361",
-        "title": "Corporate Development M&A Integration team",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7003361",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://stripe.com/jobs/search?gh_jid=7079621",
         "title": "Product Marketing Manager, Industries",
         "company": "Stripe",
@@ -4699,14 +4691,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Engineering Manager, Compliance Observability",
         "company": "Stripe",
         "link": "https://stripe.com/jobs/search?gh_jid=7061518",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7099651",
-        "title": "Account Executive, Enterprise",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7099651",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
