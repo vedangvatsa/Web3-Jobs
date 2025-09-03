@@ -11,9 +11,9 @@ import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 const stats = [
   { value: '100,000+', label: 'Web3 Professionals' },
-  { value: '55M+', label: 'LinkedIn impressions' },
+  { value: '55M+', label: 'Job Post Views' },
   { value: '40k', label: 'Avg. Listeners per Space' },
-  { value: '35M+', label: 'Job Board Views' },
+  { value: '35M+', label: 'LinkedIn Post Impressions' },
 ];
 
 const companies = [
@@ -441,5 +441,3 @@ export default function CommunityPage() {
     </div>
   );
 }
-
-    
