@@ -8,7 +8,7 @@ export default function Web3CareerQuizPage() {
   return (
     <div className="flex flex-col min-h-screen bg-secondary/30">
       <Header />
-      <main className="flex-1 flex items-center">
+      <main className="flex-1 flex items-center justify-center p-4">
         <Web3CareerQuiz />
       </main>
     </div>

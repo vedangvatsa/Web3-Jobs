@@ -66,7 +66,7 @@ export const quizData: QuizQuestion[] = [
     id: 6,
     question: "Your favorite part of a project is:",
     options: {
-      a: "The initial brainstorming and 'big picture' vision.",
+      a: "The initial brainstorming and big picture vision.",
       b: "The hands-on process of actually creating the thing.",
     },
     weights: {
@@ -90,8 +90,8 @@ export const quizData: QuizQuestion[] = [
     id: 8,
     question: "Which statement resonates more with you?",
     options: {
-      a: "\"The story and the 'why' are what truly matter.\"",
-      b: "\"The data doesn't lie.\"",
+      a: "The story and the 'why' are what truly matter.",
+      b: "The data doesn't lie.",
     },
     weights: {
       a: { weaver: 1, strategist: 1 },
@@ -115,7 +115,7 @@ export const quizData: QuizQuestion[] = [
     question: "When evaluating a new Web3 project, you first look at:",
     options: {
       a: "The quality of their code on GitHub.",
-      b: "The engagement and 'vibe' in their Discord community.",
+      b: "The engagement and vibe in their Discord community.",
     },
     weights: {
       a: { builder: 2, analyst: 1 },
