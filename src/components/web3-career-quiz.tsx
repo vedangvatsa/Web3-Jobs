@@ -8,7 +8,7 @@ import { Progress } from '@/components/ui/progress';
 import { quizData, getResult } from '@/lib/quiz';
 import type { QuizResult } from '@/types';
 import { motion, AnimatePresence } from 'framer-motion';
-import { BrainCircuit, Lightbulb, BarChart, Users, Zap, ArrowRight } from 'lucide-react';
+import { BrainCircuit, Lightbulb, BarChart, Users, Zap, ArrowRight, Rss } from 'lucide-react';
 import Link from 'next/link';
 
 const icons: { [key: string]: React.ElementType } = {
@@ -91,8 +91,24 @@ export function Web3CareerQuiz() {
                 </div>
             </div>
           </CardContent>
-          <CardFooter className="flex-col gap-4">
-            <Button onClick={handleRestart} size="lg">Take Assessment Again</Button>
+          <CardFooter className="flex-col gap-4 !pt-6">
+            <Card className="mt-6 w-full bg-primary/5 border-primary/20">
+              <CardContent className="p-6 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
+                  <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
+                      <Rss className="h-8 w-8 text-primary"/>
+                  </div>
+                  <div>
+                      <h3 className="text-lg font-bold text-primary mb-1">Find Your Role</h3>
+                      <p className="text-sm text-muted-foreground">Now that you know your archetype, find the perfect job on our Telegram channel with over 56,000 subscribers.</p>
+                  </div>
+                  <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
+                      <Button>
+                          Join Job Feed <ArrowRight className="ml-2 h-4 w-4"/>
+                      </Button>
+                  </a>
+              </CardContent>
+            </Card>
+            <Button onClick={handleRestart} variant="outline" className="mt-4">Take Assessment Again</Button>
             <p className="text-xs text-muted-foreground pt-4">This is a fun guide, not definitive career advice. Explore all roles to find your true passion!</p>
           </CardFooter>
         </Card>
@@ -112,7 +128,7 @@ export function Web3CareerQuiz() {
               {currentQuestionIndex + 1} / {totalQuestions}
             </span>
           </div>
-          <CardDescription>A short personality assessment to discover your Web3 archetype and the roles that match.</CardDescription>
+          <CardDescription>Discover your Web3 personality archetype and the roles that match.</CardDescription>
           <Progress value={progress} className="w-full pt-2" />
         </CardHeader>
         <CardContent>
