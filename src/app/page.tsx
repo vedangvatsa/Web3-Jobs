@@ -58,7 +58,7 @@ export default async function Home() {
                       className="text-sm text-muted-foreground hover:text-primary transition-colors group inline-flex items-center gap-2"
                       >
                       <Rss className="h-4 w-4 transition-transform group-hover:scale-110" />
-                      <span>Join our hiring feed with <strong className="text-primary">56,000+</strong> subscribers.</span>
+                      <span>Join our hiring feed with <strong className="text-primary">58,000+</strong> subscribers.</span>
                       </Link>
                   </div>
                   <JobBoard initialJobs={initialJobs} />

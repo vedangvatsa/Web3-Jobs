@@ -160,7 +160,7 @@ export default function DigitalNomadVisasPage() {
                                     </div>
                                     <div>
                                         <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
-                                        <p className="text-muted-foreground">Join our Telegram channel with over 56,000 subscribers to get the latest job postings.</p>
+                                        <p className="text-muted-foreground">Join our Telegram channel with over 58,000 subscribers to get the latest job postings.</p>
                                     </div>
                                     <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
                                         <Button size="lg">
