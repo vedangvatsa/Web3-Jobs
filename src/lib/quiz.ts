@@ -98,6 +98,102 @@ export const quizData: QuizQuestion[] = [
       b: { analyst: 2 },
     },
   },
+  {
+    id: 9,
+    question: "Which Web3 sector fascinates you more?",
+    options: {
+      a: "DeFi: Rebuilding the financial system with code.",
+      b: "NFTs & Gaming: Creating new forms of digital culture and ownership.",
+    },
+    weights: {
+      a: { builder: 1, analyst: 1, strategist: 1 },
+      b: { weaver: 2 },
+    },
+  },
+  {
+    id: 10,
+    question: "When evaluating a new Web3 project, you first look at:",
+    options: {
+      a: "The quality of their code on GitHub.",
+      b: "The engagement and 'vibe' in their Discord community.",
+    },
+    weights: {
+      a: { builder: 2, analyst: 1 },
+      b: { weaver: 2 },
+    },
+  },
+  {
+    id: 11,
+    question: "You see a complex governance proposal in a DAO. Your reaction is to:",
+    options: {
+      a: "Analyze its potential economic impact and long-term consequences.",
+      b: "Wait to see what trusted community members are saying about it.",
+    },
+    weights: {
+      a: { strategist: 2, analyst: 1 },
+      b: { weaver: 1 },
+    },
+  },
+  {
+    id: 12,
+    question: "What's a more exciting challenge?",
+    options: {
+      a: "Designing a secure system to manage billions of dollars in assets.",
+      b: "Designing a go-to-market strategy to onboard the next million users.",
+    },
+    weights: {
+      a: { builder: 1, strategist: 1 },
+      b: { weaver: 2, strategist: 1 },
+    },
+  },
+  {
+    id: 13,
+    question: "When it comes to risk, you prefer:",
+    options: {
+      a: "Calculated risks based on models and data analysis.",
+      b: "High-level strategic risks with asymmetric upside.",
+    },
+    weights: {
+      a: { analyst: 2 },
+      b: { strategist: 2 },
+    },
+  },
+  {
+    id: 14,
+    question: "Your ideal work environment is:",
+    options: {
+      a: "A small, focused team shipping code and features at a rapid pace.",
+      b: "A large, distributed network of contributors collaborating on shared goals.",
+    },
+    weights: {
+      a: { builder: 2 },
+      b: { weaver: 2, strategist: 1 },
+    },
+  },
+  {
+    id: 15,
+    question: "Which task sounds more interesting?",
+    options: {
+      a: "Writing a detailed specification for a new protocol feature.",
+      b: "Writing a deep-dive analysis of on-chain user behavior.",
+    },
+    weights: {
+      a: { strategist: 1, builder: 1 },
+      b: { analyst: 2 },
+    },
+  },
+  {
+    id: 16,
+    question: "You believe the key to Web3's success is:",
+    options: {
+      a: "Building killer applications with a seamless user experience.",
+      b: "Building vibrant, resilient communities with strong governance.",
+    },
+    weights: {
+      a: { builder: 1, strategist: 1 },
+      b: { weaver: 2 },
+    },
+  },
 ];
 
 const results: Record<string, QuizResult> = {
@@ -141,7 +237,7 @@ const results: Record<string, QuizResult> = {
       'Values objectivity and proof',
     ],
     roles: [
-      { title: 'On-Chain Data Analyst', description: 'Uses tools like Dune to analyze blockchain data.', link: '/on-chain-analyst-job' },
+      { title: 'On-Chain Data Analyst', description: 'Uses tools like Dune to analyze blockchain data.', link: '/web3-data-analyst-jobs' },
       { title: 'Smart Contract Auditor', description: 'Finds security vulnerabilities in smart contracts.', link: '/smart-contract-auditor-career' },
       { title: 'Quantitative Analyst', description: 'Models the financial risks of DeFi protocols.', link: '/defi-careers' },
     ],
