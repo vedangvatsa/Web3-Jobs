@@ -8,7 +8,7 @@ import { Progress } from '@/components/ui/progress';
 import { quizData, getResult } from '@/lib/quiz';
 import type { QuizResult } from '@/types';
 import { motion, AnimatePresence } from 'framer-motion';
-import { BrainCircuit, Lightbulb, BarChart, Users, Zap, Check, ArrowRight } from 'lucide-react';
+import { BrainCircuit, Lightbulb, BarChart, Users, Zap, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 
 const icons: { [key: string]: React.ElementType } = {
@@ -92,7 +92,7 @@ export function Web3CareerQuiz() {
             </div>
           </CardContent>
           <CardFooter className="flex-col gap-4">
-            <Button onClick={handleRestart} size="lg">Take the Quiz Again</Button>
+            <Button onClick={handleRestart} size="lg">Take Assessment Again</Button>
             <p className="text-xs text-muted-foreground pt-4">This is a fun guide, not definitive career advice. Explore all roles to find your true passion!</p>
           </CardFooter>
         </Card>
@@ -107,12 +107,12 @@ export function Web3CareerQuiz() {
       <Card className="shadow-xl">
         <CardHeader>
           <div className="flex items-center justify-between mb-2">
-            <CardTitle className="text-2xl font-bold flex items-center gap-2"><BrainCircuit className="text-primary"/> Web3 Career Archetype Quiz</CardTitle>
+            <CardTitle className="text-2xl font-bold flex items-center gap-2"><BrainCircuit className="text-primary"/> Archetype Assessment</CardTitle>
             <span className="text-sm font-medium text-muted-foreground">
               {currentQuestionIndex + 1} / {totalQuestions}
             </span>
           </div>
-          <CardDescription>A short quiz to discover your Web3 personality archetype and the roles that match.</CardDescription>
+          <CardDescription>A short personality assessment to discover your Web3 archetype and the roles that match.</CardDescription>
           <Progress value={progress} className="w-full pt-2" />
         </CardHeader>
         <CardContent>

@@ -22,7 +22,7 @@ export function Header() {
 
     const resourcesLinks = [
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
-        { href: "/web3-career-quiz", label: "Career Archetype Quiz", icon: BrainCircuit },
+        { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
         { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
@@ -31,7 +31,7 @@ export function Header() {
     
     // Specific order for the mobile menu
     const mobileNavLinks = [
-        { href: "/web3-career-quiz", label: "Career Archetype Quiz", icon: BrainCircuit },
+        { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
