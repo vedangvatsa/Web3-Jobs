@@ -128,7 +128,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 <CardContent className="p-8 text-center">
                     <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
                     <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
-                        Get the best Web3, crypto, and blockchain jobs delivered directly to you. Join our Telegram channel with over 56,000 subscribers.
+                        Get the best Web3, crypto, and blockchain jobs delivered directly to you. Join our Telegram channel with over 58,000 subscribers.
                     </p>
                     <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
                         <Button size="lg">

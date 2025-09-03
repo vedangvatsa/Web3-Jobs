@@ -8,7 +8,7 @@ import { Progress } from '@/components/ui/progress';
 import { quizData, getResult } from '@/lib/quiz';
 import type { QuizResult } from '@/types';
 import { motion, AnimatePresence } from 'framer-motion';
-import { BrainCircuit, Lightbulb, BarChart, Users, Zap, ArrowRight, Rss } from 'lucide-react';
+import { BrainCircuit, Lightbulb, BarChart, Users, Zap, ArrowRight, Rss, Linkedin, Twitter } from 'lucide-react';
 import Link from 'next/link';
 
 const icons: { [key: string]: React.ElementType } = {
@@ -49,6 +49,11 @@ export function Web3CareerQuiz() {
   
   if (showResult && result) {
     const ResultIcon = icons[result.archetype.toLowerCase()] || BrainCircuit;
+    const shareText = encodeURIComponent(`I took the Web3 Archetype Assessment and my result is: ${result.archetype}! Find out your Web3 personality:`);
+    const shareUrl = encodeURIComponent('https://jobs.hashtagweb3.com/web3-career-quiz');
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}&via=hashtag_web3`;
+    const linkedinUrl = `https://www.linkedin.com/shareArticle?mini=true&url=${shareUrl}&title=${encodeURIComponent(`My Web3 Archetype: ${result.archetype}`)}&summary=${shareText}`;
+
     return (
       <motion.div 
         initial={{ opacity: 0, scale: 0.9 }}
@@ -92,6 +97,14 @@ export function Web3CareerQuiz() {
             </div>
           </CardContent>
           <CardFooter className="flex-col gap-4 !pt-6">
+            <div className="flex items-center gap-4">
+              <Button onClick={() => window.open(twitterUrl, '_blank')} variant="outline">
+                  <Twitter className="h-4 w-4 mr-2" /> Share on X
+              </Button>
+               <Button onClick={() => window.open(linkedinUrl, '_blank')} variant="outline">
+                  <Linkedin className="h-4 w-4 mr-2" /> Share on LinkedIn
+              </Button>
+            </div>
             <Card className="mt-6 w-full bg-primary/5 border-primary/20">
               <CardContent className="p-6 flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
                   <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
@@ -99,7 +112,7 @@ export function Web3CareerQuiz() {
                   </div>
                   <div>
                       <h3 className="text-lg font-bold text-primary mb-1">Find Your Role</h3>
-                      <p className="text-sm text-muted-foreground">Now that you know your archetype, find the perfect job on our Telegram channel with over 56,000 subscribers.</p>
+                      <p className="text-sm text-muted-foreground">Now that you know your archetype, find the perfect job on our Telegram channel with over 58,000 subscribers.</p>
                   </div>
                   <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
                       <Button>
