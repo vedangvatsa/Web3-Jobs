@@ -254,7 +254,7 @@ const results: Record<string, QuizResult> = {
     roles: [
       { title: 'Community Manager', description: 'Manages the Discord and acts as the heart of the project.', link: '/web3-community-manager-career' },
       { title: 'Marketing / Growth Lead', description: 'Tells the project\'s story and builds partnerships.', link: '/web3-marketing-jobs' },
-      { title: 'Developer Relations (DevRel)', description: 'Supports and grows the developer ecosystem.', link: '/technical-writer-web3-jobs' },
+      { title: 'Developer Relations (DevRel)', description: 'Supports and grows the developer ecosystem.', link: '/what-is-a-web3-devrel-engineer' },
     ],
   },
 };
