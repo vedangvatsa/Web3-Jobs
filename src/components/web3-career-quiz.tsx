@@ -8,7 +8,7 @@ import { Progress } from '@/components/ui/progress';
 import { quizData, getResult } from '@/lib/quiz';
 import type { QuizResult } from '@/types';
 import { motion, AnimatePresence } from 'framer-motion';
-import { BrainCircuit, Lightbulb, BarChart, Users, Zap, ArrowRight, Rss, Linkedin, Twitter } from 'lucide-react';
+import { BrainCircuit, Lightbulb, BarChart, Users, Zap, ArrowRight, Rss, Twitter } from 'lucide-react';
 import Link from 'next/link';
 
 const icons: { [key: string]: React.ElementType } = {
@@ -52,7 +52,6 @@ export function Web3CareerQuiz() {
     const shareText = encodeURIComponent(`I took the Web3 Archetype Assessment and my result is: ${result.archetype}! Find out your Web3 personality:`);
     const shareUrl = encodeURIComponent('https://jobs.hashtagweb3.com/web3-career-quiz');
     const twitterUrl = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}&via=hashtag_web3`;
-    const linkedinUrl = `https://www.linkedin.com/shareArticle?mini=true&url=${shareUrl}&title=${encodeURIComponent(`My Web3 Archetype: ${result.archetype}`)}&summary=${shareText}`;
 
     return (
       <motion.div 
@@ -100,9 +99,6 @@ export function Web3CareerQuiz() {
             <div className="flex items-center gap-4">
               <Button onClick={() => window.open(twitterUrl, '_blank')} variant="outline">
                   <Twitter className="h-4 w-4 mr-2" /> Share on X
-              </Button>
-               <Button onClick={() => window.open(linkedinUrl, '_blank')} variant="outline">
-                  <Linkedin className="h-4 w-4 mr-2" /> Share on LinkedIn
               </Button>
             </div>
             <Card className="mt-6 w-full bg-primary/5 border-primary/20">
