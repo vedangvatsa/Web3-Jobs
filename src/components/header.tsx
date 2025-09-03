@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -22,6 +22,7 @@ export function Header() {
 
     const resourcesLinks = [
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
+        { href: "/web3-career-quiz", label: "Career Quiz", icon: BrainCircuit },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
         { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
@@ -30,6 +31,7 @@ export function Header() {
     
     // Specific order for the mobile menu
     const mobileNavLinks = [
+        { href: "/web3-career-quiz", label: "Career Quiz", icon: BrainCircuit },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
@@ -135,7 +137,7 @@ export function Header() {
                                 </div>
                             </nav>
                              <div className="mt-auto p-6 border-t space-y-4">
-                                <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
+                                <a href="httpst.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
                                     <Button className="w-full text-base h-12">Post a Job</Button>
                                 </a>
                                 <div className="flex items-center justify-center gap-6 pt-2">

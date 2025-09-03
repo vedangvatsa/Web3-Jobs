@@ -26,3 +26,29 @@ export interface DigitalNomadVisa {
   visaLength: string;
   requirements: string[];
 }
+
+export interface QuizQuestion {
+  id: number;
+  question: string;
+  options: {
+    a: string;
+    b: string;
+  };
+  weights: {
+    a: { [key: string]: number };
+    b: { [key: string]: number };
+  };
+}
+
+export interface Web3RoleProfile {
+    title: string;
+    description: string;
+    link: string;
+}
+
+export interface QuizResult {
+    archetype: string;
+    description: string;
+    traits: string[];
+    roles: Web3RoleProfile[];
+}
