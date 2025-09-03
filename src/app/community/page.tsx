@@ -142,12 +142,12 @@ const hiredCompanies = [
 ]
 
 const channels = [
-  { icon: Users, title: 'Networking Community', description: '19,000 member Telegram group with spam-bot-moderated topics for community-driven content.' },
+  { icon: Users, title: 'Networking Community', description: '21,000 member Telegram group with spam-bot-moderated topics for community-driven content.' },
   { icon: Twitter, title: 'Twitter & Spotify', description: 'Twitter Spaces with guests like a Pink Floyd member got up to 42k avg listeners. 50k tuned-in to our podcasts.' },
-  { icon: Rss, title: 'Telegram Channels', description: '54,000 subscribers for Web3 job postings (one of the largest) and 11,000 for our news feed.' },
+  { icon: Rss, title: 'Telegram Channels', description: '58,000 subscribers for Web3 job postings (one of the largest) and 13,000 for our news feed.' },
   { icon: Newspaper, title: 'Newsletter', description: 'Delivered to 15,000 subscribers, averaging 5,700 views per issue, primarily from Europe and Asia.' },
   { icon: BotMessageSquare, title: 'Social Messaging', description: 'Regional WhatsApp groups with over 26,000 members including top VCs and founders.' },
-  { icon: Linkedin, title: 'Professional Social Circle', description: '31,000 followers on LinkedIn for broad professional outreach; 35M+ annual post impressions.' },
+  { icon: Linkedin, title: 'Professional Social Circle', description: '35,000 followers on LinkedIn for broad professional outreach; 35M+ annual post impressions.' },
 ]
 
 const caseStudies = [
@@ -373,7 +373,7 @@ export default function CommunityPage() {
               <div className="text-center">
                 <h2 className="text-3xl font-bold text-primary mb-2">Stay Ahead with Our News Feed</h2>
                 <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-                  Get the latest updates, trends, and insights from the Web3 space. Join over 11,000 subscribers on our Telegram channel.
+                  Get the latest updates, trends, and insights from the Web3 space. Join over 13,000 subscribers on our Telegram channel.
                 </p>
                 <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer">
                   <Button size="lg">
@@ -441,3 +441,5 @@ export default function CommunityPage() {
     </div>
   );
 }
+
+    
