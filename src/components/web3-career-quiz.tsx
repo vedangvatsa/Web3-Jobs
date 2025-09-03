@@ -79,10 +79,7 @@ export function Web3CareerQuiz() {
                         <Card key={role.title} className="bg-secondary/50">
                             <CardContent className="p-4">
                                 <h5 className="font-bold">{role.title}</h5>
-                                <p className="text-xs text-muted-foreground mb-2">{role.description}</p>
-                                <Link href={role.link}>
-                                  <Button variant="link" size="sm" className="p-0 h-auto">Learn More <ArrowRight className="ml-1 h-3 w-3"/></Button>
-                                </Link>
+                                <p className="text-xs text-muted-foreground">{role.description}</p>
                             </CardContent>
                         </Card>
                     ))}
@@ -104,13 +101,14 @@ export function Web3CareerQuiz() {
     <div className="container mx-auto px-4 py-8 md:py-16 max-w-2xl">
       <Card className="shadow-xl">
         <CardHeader>
-          <div className="flex items-center justify-between mb-4">
+          <div className="flex items-center justify-between mb-2">
             <CardTitle className="text-2xl font-bold flex items-center gap-2"><BrainCircuit className="text-primary"/> Web3 Career Quiz</CardTitle>
             <span className="text-sm font-medium text-muted-foreground">
               {currentQuestionIndex + 1} / {totalQuestions}
             </span>
           </div>
-          <Progress value={progress} className="w-full" />
+          <CardDescription>A short quiz to discover your Web3 personality archetype and the roles that match.</CardDescription>
+          <Progress value={progress} className="w-full pt-2" />
         </CardHeader>
         <CardContent>
             <AnimatePresence mode="wait">
