@@ -107,7 +107,7 @@ export function Web3CareerQuiz() {
       <Card className="shadow-xl">
         <CardHeader>
           <div className="flex items-center justify-between mb-2">
-            <CardTitle className="text-2xl font-bold flex items-center gap-2"><BrainCircuit className="text-primary"/> Web3 Career Quiz</CardTitle>
+            <CardTitle className="text-2xl font-bold flex items-center gap-2"><BrainCircuit className="text-primary"/> Web3 Career Archetype Quiz</CardTitle>
             <span className="text-sm font-medium text-muted-foreground">
               {currentQuestionIndex + 1} / {totalQuestions}
             </span>
