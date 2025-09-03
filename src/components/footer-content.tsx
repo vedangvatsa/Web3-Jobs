@@ -8,6 +8,7 @@ import type { Article } from '@/types';
 export function FooterContent({ latestArticles }: { latestArticles: Omit<Article, 'content'>[] }) {
   const resourceLinks = [
     { href: "/interview-questions", label: "Interview Questions" },
+    { href: "/web3-career-quiz", label: "Career Quiz" },
     { href: "/salary-calculator", label: "Salary Calculator" },
     { href: "/invoice-generator", label: "Invoice Generator" },
     { href: "/digital-nomad-visas", label: "Digital Nomad Visas" },
