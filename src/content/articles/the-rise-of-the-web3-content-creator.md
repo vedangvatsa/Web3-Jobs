@@ -67,7 +67,7 @@ This is the most important step. Don't wait for permission. Start creating and p
 
 Once you have built a reputation and an audience, several monetization paths open up.
 -   **Freelancing:** Your public portfolio can lead to freelance gigs writing content for Web3 projects, DAOs, or media outlets.
--   **Full-Time Roles:** Many content creators are hired for full-time "Content Marketing" or "[Developer Relations](/technical-writer-web3-jobs)" roles at top protocols.
+-   **Full-Time Roles:** Many content creators are hired for full-time "Content Marketing" or "[Developer Relations](/what-is-a-web3-devrel-engineer)" roles at top protocols.
 -   **Direct Monetization:**
     -   **Subscriptions:** Offer a paid tier for your newsletter or podcast with exclusive content.
     -   **NFTs:** Turn your articles or artwork into collectible NFTs. Platforms like Mirror make this seamless.
