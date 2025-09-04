@@ -32,7 +32,7 @@ The key is to combine your existing expertise with a deep, genuine understanding
 
 4.  **Technical Writer:**
     *   **What they do:** Make the complex simple. They write the documentation, guides, and tutorials that are essential for both developers and users to understand and use a protocol.
-    -   **Who it's for:** Writers with a technical aptitude. The ability to read code (even if you can't write it) is a major plus. See our guide to [technical writing careers in Web3](/technical-writer-web3-jobs).
+    *   **Who it's for:** Writers with a technical aptitude. The ability to read code (even if you can't write it) is a major plus.
 
 5.  **Operations / Generalist:**
     *   **What they do:** The "glue" that holds a startup together. This can involve everything from finance and HR to project management and business development.
