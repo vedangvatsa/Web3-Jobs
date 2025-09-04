@@ -1,4 +1,3 @@
-
 'use client';
 
 export function ArticleContent({ content }: { content: string }) {
