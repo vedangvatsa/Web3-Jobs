@@ -283,6 +283,26 @@ export default function CommunityPage() {
               ))}
             </div>
           </section>
+
+           <section className="mb-16">
+            <Card className="bg-secondary/40 border-dashed">
+              <CardContent className="p-8 text-center">
+                <div className="mx-auto bg-primary/10 p-3 rounded-full w-fit mb-4">
+                  <MessageSquare className="h-8 w-8 text-primary" />
+                </div>
+                <h3 className="text-2xl font-bold text-primary mb-2">Join the Conversation</h3>
+                <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
+                  Our main Telegram group is a vibrant hub for Web3 professionals to network, share insights, and discuss the latest trends.
+                </p>
+                <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
+                  <Button size="lg">
+                    <Send className="mr-2 h-5 w-5" />
+                    Join Main Telegram Group
+                  </Button>
+                </a>
+              </CardContent>
+            </Card>
+          </section>
           
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Case Studies</h2>
