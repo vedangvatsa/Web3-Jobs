@@ -1,4 +1,5 @@
 
+
 import { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
 
@@ -73,6 +74,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
+    },
+    {
+      url: `${siteUrl}/news`,
+      lastModified: new Date(),
+      changeFrequency: 'hourly',
+      priority: 0.9,
     }
   ];
 

@@ -1,4 +1,5 @@
 
+
 export interface Job {
   id: string;
   title: string;
@@ -81,4 +82,13 @@ export interface ResumeData {
   }[];
   web3Skills: string;
   generalSkills: string;
+}
+
+export interface NewsItem {
+  title: string;
+  link: string;
+  pubDate: string;
+  creator: string;
+  contentSnippet: string;
+  source: string;
 }
