@@ -4,7 +4,7 @@
 import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Newspaper, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare, Send, ArrowRight } from 'lucide-react';
+import { Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Newspaper, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare, Send, ArrowRight, Smartphone } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
@@ -207,6 +207,15 @@ const communityPhotos = [
     { src: '/logo/gallary/2025-08-14 22.38.17.jpg', alt: 'Community event photo 18' }
 ];
 
+const whatsappGroups = [
+    { region: 'Europe', link: 'https://chat.whatsapp.com/JrUfhcam2piAb1MHtfBNKB' },
+    { region: 'North America', link: 'https://chat.whatsapp.com/HT7gVlIjNDEFyT7QX3opiM' },
+    { region: 'Africa', link: 'https://chat.whatsapp.com/Hb4kyFWPkxgGxwSTUSWAqM' },
+    { region: 'Asia (Excl. India)', link: 'https://chat.whatsapp.com/HHL6j40XlF6GefkOimSltG' },
+    { region: 'South America', link: 'https://chat.whatsapp.com/CLIkN0RbHoxLBtJo9DIpBD' },
+    { region: 'India', link: 'https://chat.whatsapp.com/JrUfhcam2piAb1MHtfBNKB' },
+];
+
 export default function CommunityPage() {
     const headlines = [
       "Connecting The Web3 Ecosystem",
@@ -293,6 +302,20 @@ export default function CommunityPage() {
                         </ul>
                    </CardContent>
                 </Card>
+              ))}
+            </div>
+          </section>
+
+          <section className="mb-16">
+            <h2 className="text-3xl font-bold text-center text-primary mb-2">Join Our Regional WhatsApp Groups</h2>
+            <p className="text-center text-muted-foreground mb-8 max-w-3xl mx-auto">Connect with awesome Web3 folks in your region. Please note: You will only be approved for the group that matches your WhatsApp number's country code.</p>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
+              {whatsappGroups.map((group) => (
+                <a href={group.link} key={group.region} target="_blank" rel="noopener noreferrer">
+                  <Button variant="outline" className="w-full h-12 text-base">
+                    <Smartphone className="mr-2 h-5 w-5" /> {group.region}
+                  </Button>
+                </a>
               ))}
             </div>
           </section>
