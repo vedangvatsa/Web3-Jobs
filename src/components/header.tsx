@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -15,7 +15,8 @@ import {
 
 export function Header() {
     const mainNavLinks = [
-        { href: "/blog", label: "Playbook", icon: Newspaper },
+        { href: "/blog", label: "Playbook", icon: BookOpen },
+        { href: "/news", label: "News", icon: Newspaper },
         { href: "/community", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
@@ -30,8 +31,9 @@ export function Header() {
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
     ];
     
-    // Specific order for the mobile menu
     const mobileNavLinks = [
+        { href: "/blog", label: "Playbook", icon: BookOpen },
+        { href: "/news", label: "News", icon: Newspaper },
         { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
@@ -41,7 +43,6 @@ export function Header() {
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
         { href: "/community", label: "Community", icon: Users },
-        { href: "/blog", label: "Playbook", icon: Newspaper },
     ];
 
 
@@ -59,12 +60,17 @@ export function Header() {
                 </Link>
                 
                 <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
-                     <Link
-                        href="/blog"
-                        className="text-muted-foreground transition-colors hover:text-foreground"
-                     >
-                       Playbook
-                   </Link>
+                     {mainNavLinks.slice(0,2).map((link) => (
+                         <Link
+                            key={link.label}
+                            href={link.href}
+                            target={link.target}
+                            rel={link.target ? "noopener noreferrer" : undefined}
+                            className="text-muted-foreground transition-colors hover:text-foreground"
+                         >
+                           {link.label}
+                       </Link>
+                    ))}
 
                     <DropdownMenu>
                         <DropdownMenuTrigger className="flex items-center gap-1 text-muted-foreground transition-colors hover:text-foreground text-sm font-medium focus:outline-none">
@@ -82,7 +88,7 @@ export function Header() {
                         </DropdownMenuContent>
                     </DropdownMenu>
 
-                     {mainNavLinks.slice(1).map((link) => (
+                     {mainNavLinks.slice(2).map((link) => (
                          <Link
                             key={link.label}
                             href={link.href}
