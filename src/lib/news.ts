@@ -21,12 +21,13 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
       const feed = await parser.parseURL(feedInfo.url);
       if (feed?.items) {
         feed.items.forEach((item) => {
-          if (item.title && item.link && item.pubDate && item.creator && item.contentSnippet) {
+          // Make creator optional to handle feeds that don't provide it.
+          if (item.title && item.link && item.pubDate && item.contentSnippet) {
             allItems.push({
               title: item.title,
               link: item.link,
               pubDate: item.pubDate,
-              creator: item.creator,
+              creator: item.creator || item.author || feedInfo.source, // Fallback to author or source name
               contentSnippet: item.contentSnippet.substring(0, 150) + '...',
               source: feedInfo.source,
             });

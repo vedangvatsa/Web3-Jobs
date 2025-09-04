@@ -32,7 +32,7 @@ export default async function NewsPage() {
             </div>
             <TransitioningHeadline phrases={headlines} />
             <p className="text-muted-foreground mt-4">
-              Aggregated news from Decrypt, Cointelegraph, and Coindesk. Updated hourly.
+              Aggregated news from top crypto sources. Updated hourly.
             </p>
           </section>
 
@@ -45,7 +45,8 @@ export default async function NewsPage() {
                       <Badge variant={
                         item.source === 'Decrypt' ? 'destructive' :
                         item.source === 'Cointelegraph' ? 'secondary' :
-                        'default'
+                        item.source === 'Blockchain.News' ? 'default' :
+                        'outline'
                       }>
                         {item.source}
                       </Badge>
