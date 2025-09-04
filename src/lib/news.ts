@@ -7,7 +7,8 @@ import type { NewsItem } from '@/types';
 const FEEDS = [
   { url: 'https://decrypt.co/feed', source: 'Decrypt' },
   { url: 'https://cointelegraph.com/rss', source: 'Cointelegraph' },
-  { url: 'https://www.coindesk.com/arc/outboundfeeds/rss/', source: 'Coindesk' }
+  { url: 'https://www.coindesk.com/arc/outboundfeeds/rss/', source: 'Coindesk' },
+  { url: 'https://blockchain.news/RSS/', source: 'Blockchain.News' }
 ];
 
 const parser = new Parser();
