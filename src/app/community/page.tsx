@@ -297,7 +297,7 @@ export default function CommunityPage() {
                 <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
                   <Button size="lg">
                     <Send className="mr-2 h-5 w-5" />
-                    Join Main Telegram Group
+                    Discussion & Updates Group on Telegram
                   </Button>
                 </a>
               </CardContent>
