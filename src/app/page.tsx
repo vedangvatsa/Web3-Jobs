@@ -1,4 +1,3 @@
-
 import { JobBoard } from '@/components/job-board';
 import { Header } from '@/components/header';
 import { getJobs } from '@/lib/jobs';

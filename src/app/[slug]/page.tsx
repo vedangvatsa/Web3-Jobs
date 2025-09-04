@@ -141,8 +141,4 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
             </div>
           </article>
-        </main>
-      </div>
-    </>
-  );
-}
+        </main
