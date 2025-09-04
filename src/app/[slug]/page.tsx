@@ -93,56 +93,54 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   };
 
   return (
-    <>
+    <div className="flex flex-col min-h-screen bg-background">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
-      <div className="flex flex-col min-h-screen bg-background">
-        <Header />
-        <main className="flex-1">
-          <article className="container mx-auto px-4 py-8">
-            <div className="max-w-3xl mx-auto">
-              <header className="mb-8">
-                <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">
-                  {article.title}
-                </h1>
-                <p className="text-lg text-muted-foreground">
-                  {article.description}
-                </p>
-              </header>
-              <Image
-                src={article.image}
-                alt={article.title}
-                width={1200}
-                height={630}
-                className="rounded-lg shadow-xl mb-8"
-                priority
-                data-ai-hint={`${article.slug.replace(/-/g, ' ')}`}
-              />
-              <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
-                <ArticleContent content={article.content} />
-              </div>
-
-              <Card className="bg-secondary/40 border-dashed">
-                <CardContent className="p-8 text-center">
-                    <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
-                    <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
-                        Get the best Web3, crypto, and blockchain jobs delivered directly to you. Join our Telegram channel with over 58,000 subscribers.
-                    </p>
-                    <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
-                        <Button size="lg">
-                            <Rss className="mr-2 h-5 w-5" />
-                            Join Web3 Jobs Feed
-                        </Button>
-                    </a>
-                </CardContent>
-              </Card>
-
+      <Header />
+      <main className="flex-1">
+        <article className="container mx-auto px-4 py-8">
+          <div className="max-w-3xl mx-auto">
+            <header className="mb-8">
+              <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">
+                {article.title}
+              </h1>
+              <p className="text-lg text-muted-foreground">
+                {article.description}
+              </p>
+            </header>
+            <Image
+              src={article.image}
+              alt={article.title}
+              width={1200}
+              height={630}
+              className="rounded-lg shadow-xl mb-8"
+              priority
+              data-ai-hint={`${article.slug.replace(/-/g, ' ')}`}
+            />
+            <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
+              <ArticleContent content={article.content} />
             </div>
-          </article>
-        </main>
-      </div>
-    </>
+
+            <Card className="bg-secondary/40 border-dashed">
+              <CardContent className="p-8 text-center">
+                  <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
+                  <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
+                      Get the best Web3, crypto, and blockchain jobs delivered directly to you. Join our Telegram channel with over 58,000 subscribers.
+                  </p>
+                  <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
+                      <Button size="lg">
+                          <Rss className="mr-2 h-5 w-5" />
+                          Join Web3 Jobs Feed
+                      </Button>
+                  </a>
+              </CardContent>
+            </Card>
+
+          </div>
+        </article>
+      </main>
+    </div>
   );
 }
