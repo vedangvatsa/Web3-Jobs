@@ -18,13 +18,13 @@ const inter = Inter({
 
 const siteConfig = {
   name: "Hashtag Web3",
-  description: "The best job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
+  description: "Find the best Web3 jobs in crypto, blockchain, and DeFi. Your top resource for discovering remote careers at leading DAOs and crypto startups.",
   url: "https://jobs.hashtagweb3.com",
 };
 
 export const metadata: Metadata = {
   title: {
-    default: siteConfig.name,
+    default: `${siteConfig.name}: The #1 Web3 Job Board`,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: siteConfig.url,
     title: {
-        default: siteConfig.name,
+        default: `${siteConfig.name}: The #1 Web3 Job Board`,
         template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: {
-        default: siteConfig.name,
+        default: `${siteConfig.name}: The #1 Web3 Job Board`,
         template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
@@ -96,7 +96,7 @@ export default async function RootLayout({
               strategy="afterInteractive"
               src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
             />
-            <script
+            <Script
               id="gtag-inline-script"
               dangerouslySetInnerHTML={{
                 __html: `

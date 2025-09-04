@@ -59,7 +59,7 @@ A stablecoin is a cryptocurrency whose value is pegged to a real-world asset, ty
 
 ### 4. Yield Farming
 
-Yield farming is the practice of strategically moving your crypto assets between different DeFi protocols to maximize your "yield" or returns.
+[Yield farming](/what-is-yield-farming) is the practice of strategically moving your crypto assets between different DeFi protocols to maximize your "yield" or returns.
 
 - **How it works:** A "yield farmer" might lend their stablecoins on Aave to earn interest, then take the interest-bearing tokens they receive and deposit them into another protocol to earn additional rewards.
 - **Why it matters:** Yield farming drives liquidity to new protocols and allows sophisticated users to generate high returns, though it comes with significant risks.
