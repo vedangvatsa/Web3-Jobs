@@ -3,10 +3,11 @@ import { getNewsFeed } from '@/lib/news';
 import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
 import Link from 'next/link';
-import { ExternalLink, Rss, Newspaper } from 'lucide-react';
+import { ExternalLink, Rss, Newspaper, ArrowRight } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { formatDistanceToNow } from 'date-fns';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
+import { Button } from '@/components/ui/button';
 
 export const revalidate = 3600; // Revalidate every hour
 
@@ -53,9 +54,9 @@ export default async function NewsPage() {
                       </time>
                     </div>
                     <CardTitle className="text-xl">
-                      <Link href={item.link} target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                      <a href={item.link} target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                         {item.title}
-                      </Link>
+                      </a>
                     </CardTitle>
                   </CardHeader>
                   <CardContent>
@@ -63,13 +64,30 @@ export default async function NewsPage() {
                   </CardContent>
                   <CardFooter className="flex justify-between items-center">
                     <p className="text-xs text-muted-foreground font-medium">{item.creator}</p>
-                    <Link href={item.link} target="_blank" rel="noopener noreferrer" className="flex items-center text-sm text-primary font-semibold hover:underline">
+                    <a href={item.link} target="_blank" rel="noopener noreferrer" className="flex items-center text-sm text-primary font-semibold hover:underline">
                       Read More <ExternalLink className="ml-1 h-4 w-4" />
-                    </Link>
+                    </a>
                   </CardFooter>
                 </Card>
               ))}
             </div>
+
+            <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
+                <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
+                    <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
+                        <Rss className="h-8 w-8 text-primary"/>
+                    </div>
+                    <div>
+                        <h3 className="text-xl font-bold text-primary mb-1">Stay Ahead with Our News Feed</h3>
+                        <p className="text-muted-foreground">Get the latest updates, trends, and insights from the Web3 space, delivered directly to your Telegram.</p>
+                    </div>
+                    <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
+                        <Button size="lg">
+                            Join News Feed <ArrowRight className="ml-2 h-4 w-4"/>
+                        </Button>
+                    </a>
+                </CardContent>
+            </Card>
           </div>
         </div>
       </main>
