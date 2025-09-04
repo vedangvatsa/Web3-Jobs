@@ -1,6 +1,6 @@
 ---
 title: 'What Are Smart Contracts: The Automation Engine of Web3'
-image: 'https://images.unsplash.com/photo-1639815188546-c43c240ff4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0OTMwMXww&lib=rb-4.0.3'
+image: 'https://images.unsplash.com/photo-1639815188546-c43c240ff4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Discover how smart contracts work, why they are the essential building blocks of decentralized applications, and their impact on industries from finance to law.'
 category: 'Getting Started'
 ---
@@ -37,7 +37,7 @@ Smart contracts are the core component of almost all decentralized applications 
 
 ## Limitations and Risks
 
-Despite their potential, smart contracts are not a panacea. Their greatest strength—immutability—is also their greatest weakness. A bug or security vulnerability coded into a smart contract is permanent and can be exploited by hackers, often leading to a catastrophic and irreversible loss of funds. The infamous DAO hack of 2016 is a stark reminder of this risk. Consequently, the role of the smart contract security auditor, who meticulously reviews code for potential flaws, has become one of the most critical and in-demand jobs in the Web3 space. Furthermore, connecting smart contracts to real-world data (e.g., weather, price feeds) requires trusted ["oracles,"](/what-are-oracles) which can introduce a point of centralization and a potential vector for attack.
+Despite their potential, smart contracts are not a panacea. Their greatest strength—immutability—is also their greatest weakness. A bug or security vulnerability coded into a smart contract is permanent and can be exploited by hackers, often leading to a catastrophic and irreversible loss of funds. The infamous [DAO hack of 2016](https://www.coindesk.com/learn/the-dao-hack-what-it-was-and-how-it-changed-ethereum/) is a stark reminder of this risk. Consequently, the role of the smart contract security auditor, who meticulously reviews code for potential flaws, has become one of the most critical and in-demand jobs in the Web3 space. Furthermore, connecting smart contracts to real-world data (e.g., weather, price feeds) requires trusted ["oracles,"](/what-are-oracles) which can introduce a point of centralization and a potential vector for attack.
 
 ## The Future is Programmatic
 

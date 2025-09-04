@@ -1,6 +1,6 @@
 ---
 title: 'A Developer''s Guide to Transitioning from Web2 to Web3'
-image: 'https://images.unsplash.com/photo-1528901166007-3784c7dd3653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxEZXZlbG9wZXJzfGVufDB8fHx8MTc1NDk1MzcxN3ww&lib=rb-4.0.3'
+image: 'https://images.unsplash.com/photo-1528901166007-3784c7dd3653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxEZXZlbG9wZXJzfGVufDB8fHx8MTc1NDk1MzcxN3ww&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Are you a Web2 developer curious about a career in Web3? This guide breaks down the key mindset shifts, the essential new technologies to learn, and a practical roadmap for making the transition.'
 category: 'Getting Started'
 ---
@@ -51,13 +51,13 @@ This is the biggest departure from Web2. Your backend is no longer a private ser
 -   **Language:** **Solidity** is the primary language for the Ethereum Virtual Machine (EVM), which powers Ethereum and most other major blockchains (like Polygon, Avalanche, and BNB Chain). It's a statically-typed, curly-brace language that will feel somewhat familiar to developers who know Java, C++, or TypeScript. **Learning [Solidity](/top-5-web3-languages) is essential for backend work.**
 -   **Development Environments:** Instead of Node.js with Express, you'll use a specialized Web3 development environment.
     -   **Hardhat (JavaScript/TypeScript-based):** The most popular choice, especially for those coming from a Node.js background. It allows you to write tests, compile contracts, and manage deployments.
-    -   **Foundry (Solidity-based):** A newer, faster, and increasingly popular choice. With Foundry, you write your tests directly in Solidity, which many find more intuitive.
+    -   **Foundry (Solidity-based):** A newer, faster, and increasingly popular choice. With Foundry, you write your tests directly in Solidity, which many find more intuitive. You can learn more in our [introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit).
 
 ### The "Database" (Data Indexing)
 
 Querying data directly from the blockchain is slow and inefficient. For complex queries (e.g., "show me all the NFTs a user owns"), you need an indexing layer.
 
--   **The Graph:** This is the de facto standard for indexing and querying blockchain data. You write a "subgraph" that defines which smart contract events to listen to and how to store that data. Your frontend can then query this data using a standard **GraphQL** API. If you know GraphQL, you're at a huge advantage here.
+-   **The Graph:** This is the de facto standard for indexing and querying blockchain data. You write a "subgraph" that defines which smart contract events to listen to and how to store that data. Your frontend can then query this data using a standard **GraphQL** API. If you know GraphQL, you're at a huge advantage here. Learn more in our [subgraph development guide](/your-first-subgraph-indexing-blockchain-data-with-the-graph).
 
 ## A Practical Learning Roadmap for Web2 Developers
 
@@ -78,7 +78,7 @@ Here is a structured, step-by-step path to make the transition.
 
 **Goal:** Learn to write, test, and deploy your own basic smart contracts.
 
-1.  **Learn Solidity:** Go through a comprehensive tutorial like CryptoZombies or [Speed Run Ethereum](/solidity-for-beginners). Focus on understanding:
+1.  **Learn Solidity:** Go through a comprehensive tutorial like [CryptoZombies](https://cryptozombies.io/) or [Speed Run Ethereum](https://speedrunethereum.com/). Focus on understanding:
     -   Data types (`uint256`, `address`, `bytes32`).
     -   The difference between `storage`, `memory`, and `calldata`.
     -   Function visibility (`public`, `private`, `internal`, `external`).
@@ -93,7 +93,7 @@ Here is a structured, step-by-step path to make the transition.
 1.  **Learn The Graph (Optional but Recommended):** Learn how to create a simple subgraph to index the events from the ERC-20 token you built in Month 2. Update your frontend to fetch data from the subgraph instead of directly from the chain.
 2.  **Start Learning Security:** This is a career-long journey, but you can start now.
     -   Read about the most common smart contract vulnerabilities (reentrancy, integer overflows, oracle manipulation).
-    -   Study the Secureum bootcamp materials or the Ethernaut CTF (Capture The Flag) challenges.
+    -   Study the [Secureum bootcamp materials](https://secureum.xyz/auditing-101/) or the [Ethernaut CTF](https://ethernaut.openzeppelin.com/) (Capture The Flag) challenges.
 3.  **Project:** Build a simple staking contract. Users should be able to deposit your ERC-20 token into the contract and earn more tokens over time as a reward. This is a foundational DeFi primitive and a great portfolio project.
 
 ## How to Leverage Your Web2 Experience

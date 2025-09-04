@@ -85,7 +85,7 @@ To run these tests, you would simply run `forge test` in your terminal.
 
 ### Getting Started with Foundry
 
-1.  **Installation:** The first step is to install Foundry. You can do this by running a single command found in the official Foundry Book documentation.
+1.  **Installation:** The first step is to install Foundry. You can do this by running a single command found in the official [Foundry Book](https://book.getfoundry.sh/getting-started/installation) documentation.
 2.  **Start a Project:** Use `forge init my-project` to create a new Foundry project.
 3.  **The Foundry Book:** The official documentation, known as the "Foundry Book," is an excellent, comprehensive resource for learning everything about the toolkit.
 
