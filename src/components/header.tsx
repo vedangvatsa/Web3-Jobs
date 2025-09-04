@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -25,6 +25,7 @@ export function Header() {
         { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
         { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
+        { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
     ];
@@ -36,6 +37,7 @@ export function Header() {
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
         { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
+        { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
         { href: "/community", label: "Community", icon: Users },

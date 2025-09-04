@@ -1,5 +1,4 @@
 
-
 export interface Job {
   id: string;
   title: string;
@@ -51,4 +50,35 @@ export interface QuizResult {
     description: string;
     traits: string[];
     roles: Web3RoleProfile[];
+}
+
+export interface ResumeData {
+  name: string;
+  title: string;
+  email: string;
+  phone?: string;
+  website?: string;
+  github?: string;
+  twitter?: string;
+  ens?: string;
+  summary: string;
+  contributions: {
+    project: string;
+    role: string;
+    description: string;
+    link?: string;
+  }[];
+  experience: {
+    company: string;
+    role: string;
+    date: string;
+    description: string;
+  }[];
+  education: {
+    institution: string;
+    degree: string;
+    date: string;
+  }[];
+  web3Skills: string;
+  generalSkills: string;
 }

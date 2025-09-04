@@ -11,6 +11,7 @@ export function FooterContent({ latestArticles }: { latestArticles: Omit<Article
     { href: "/web3-career-quiz", label: "Archetype Assessment" },
     { href: "/salary-calculator", label: "Salary Calculator" },
     { href: "/invoice-generator", label: "Invoice Generator" },
+    { href: "/resume-builder", label: "Resume Builder" },
     { href: "/digital-nomad-visas", label: "Digital Nomad Visas" },
     { href: "/remote-work-checklist", label: "Remote Checklist" },
   ];
