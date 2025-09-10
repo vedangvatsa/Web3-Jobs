@@ -66,6 +66,9 @@ const calculateSalary = (data: SalaryFormData): number => {
     'business-development': 68000,
     'partnerships-manager': 70000,
     'social-media-manager': 55000,
+    'legal-compliance': 80000,
+    'quant-analyst': 100000,
+    'vc-analyst': 85000,
   };
 
   const experienceMultiplier = 1 + data.experience * 0.05;
@@ -224,6 +227,15 @@ export function SalaryCalculatorForm() {
                                             </SelectItem>
                                             <SelectItem value="business-development">
                                                 Business Development / Sales
+                                            </SelectItem>
+                                            <SelectItem value="legal-compliance">
+                                                Legal / Compliance Associate
+                                            </SelectItem>
+                                            <SelectItem value="quant-analyst">
+                                                Quantitative Analyst (Quant)
+                                            </SelectItem>
+                                            <SelectItem value="vc-analyst">
+                                                VC / Investment Analyst
                                             </SelectItem>
                                         </SelectContent>
                                     </Select>
