@@ -7,7 +7,7 @@ category: "Technology Deep Dives"
 
 In Web3, the stakes for developers are astronomically high. A single bug in a smart contract doesn't just cause a 404 error; it can lead to the irreversible loss of millions of dollars in user funds. The immutability of the blockchain means there are no do-overs. Security is not a feature; it is the absolute prerequisite for building anything in this space.
 
-This guide outlines the most critical security best practices that every smart contract developer must know. It covers common attack vectors and the defensive programming patterns needed to mitigate them.
+This guide outlines the most critical security best practices that every [smart contract developer](/how-to-become-a-blockchain-developer) must know. It covers common attack vectors and the defensive programming patterns needed to mitigate them.
 
 ### 1. The Checks-Effects-Interactions Pattern
 
@@ -38,7 +38,7 @@ Before Solidity version 0.8.0, arithmetic operations did not revert on overflow 
 
 ### 4. Avoid Transaction-Ordering Dependence (Front-running)
 
-Never assume that the order of transactions in the mempool will be the order they are executed in a block. Malicious actors can see your transaction and pay a higher gas fee to get their own transaction executed first.
+Never assume that the order of transactions in the mempool will be the order they are executed in a block. Malicious actors can see your transaction and pay a higher gas fee to get their own transaction executed first. This is a form of [MEV (Maximal Extractable Value)](/what-is-mev).
 
 - **The Problem:** If you create a puzzle in a smart contract where the first person to submit the correct answer wins a prize, a front-running bot will see the correct answer in the mempool and copy it, stealing the prize.
 - **The Solution:** Use a commit-reveal scheme. In the first transaction, the user submits a hash of their answer. In the second transaction, after the commit phase is over, they reveal their answer. This prevents bots from seeing the solution in advance.

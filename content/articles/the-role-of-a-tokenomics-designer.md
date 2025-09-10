@@ -39,7 +39,7 @@ This is a highly specialized and in-demand role that requires a unique T-shaped 
 
 **How to Get Started:**
 
-*   **Study the Greats:** Read the whitepapers and tokenomics documentation of major protocols like Ethereum, MakerDAO, and Uniswap.
+*   **Study the Greats:** Read the whitepapers and [tokenomics documentation](/understanding-tokenomics) of major protocols like Ethereum, MakerDAO, and Uniswap.
 *   **Write Public Analysis:** Start a blog or Twitter account where you publish detailed critiques of other projects' token models. Identify their strengths and weaknesses.
 *   **Create Your Own Models:** Build a financial model for a hypothetical protocol. Make your assumptions clear and publish your work. This becomes your portfolio.
 

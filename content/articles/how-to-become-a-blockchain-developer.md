@@ -13,7 +13,7 @@ This comprehensive guide provides a step-by-step roadmap for aspiring blockchain
 
 Before you write a single line of code, you must understand the environment you're building for. Rushing this step is a common mistake that leads to building insecure or inefficient applications.
 
-- **What is a Blockchain?** Truly understand the concepts of decentralization, immutability, and consensus mechanisms (Proof of Work vs. Proof of Stake).
+- **What is a Blockchain?** Truly understand the concepts of decentralization, immutability, and consensus mechanisms (Proof of Work vs. Proof of Stake). You can start with our [guide to blockchain technology](/what-is-a-blockchain).
 - **Public Key Cryptography:** Learn how public and private keys work. Understand what a digital signature is and why it's fundamental to transaction security.
 - **How Ethereum Works:** Study the architecture of the Ethereum blockchain. Understand the roles of nodes, the EVM (Ethereum Virtual Machine), and the concept of "state."
 
@@ -24,6 +24,8 @@ Your choice of language will depend on what you want to build, but for most dApp
 - **Solidity:** This is the most popular language for writing smart contracts on Ethereum and other EVM-compatible chains. Its syntax will feel familiar to developers with a JavaScript or C++ background. This is your top priority.
 - **JavaScript/TypeScript:** Essential for building the front-end of your dApps. You'll use it with libraries like Ethers.js or Viem to interact with your smart contracts.
 - **Rust (Advanced):** If you're interested in building the core blockchain infrastructure itself (Layer 1s), Rust is the language of choice for high-performance chains like Solana and Polkadot. It has a steep learning curve but opens up elite-level opportunities.
+
+You can learn more about which language to choose in our [breakdown of the top 5 Web3 languages](/top-5-web3-languages).
 
 ### Step 3: Get Familiar with the Developer Toolkit
 
