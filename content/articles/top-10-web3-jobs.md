@@ -13,13 +13,13 @@ The Web3 revolution is well underway, and it's creating a tidal wave of new care
 This is perhaps the most quintessential Web3 role. Smart contract developers are the engineers who build the core logic of decentralized applications (dApps). They write, test, and deploy the immutable code that powers everything from DeFi protocols to NFT marketplaces.
 
 ### Key Responsibilities:
-- Writing secure, efficient, and gas-optimized smart contracts in languages like Solidity or Rust.
+- Writing secure, efficient, and gas-optimized smart contracts in languages like [Solidity](/solidity-for-beginners) or Rust.
 - Developing and maintaining dApp backends.
 - Collaborating with frontend developers to integrate smart contracts with user interfaces.
 - Conducting rigorous testing and participating in security audits.
 
 ### Essential Skills:
-Deep understanding of blockchain principles, proficiency in Solidity, experience with development frameworks like Hardhat or Foundry, and a security-first mindset.
+Deep understanding of blockchain principles, proficiency in Solidity, experience with development frameworks like Hardhat or [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit), and a security-first mindset.
 
 ## 2. Community Manager
 *The heart and soul of a Web3 project.*
@@ -33,7 +33,7 @@ In Web3, community isn't just a marketing channel; it's the project. Community m
 - Creating content (memes, tutorials, updates) to keep the community informed and engaged.
 
 ### Essential Skills:
-Excellent communication skills, high emotional intelligence, deep knowledge of the project, and expertise in managing online communities. Being "terminally online" is often a prerequisite.
+Excellent communication skills, high emotional intelligence, deep knowledge of the project, and expertise in managing online communities. Being "terminally online" is often a prerequisite. Explore our [guide to becoming a Web3 CM](/web3-community-manager-career).
 
 ## 3. Frontend / Web3 Developer
 *The builders of the user-facing gateway to dApps.*
@@ -61,7 +61,7 @@ Web3 Product Managers guide the vision and development of a product. They must d
 - Prioritizing features and managing the development lifecycle.
 
 ### Essential Skills:
-A mix of technical understanding, business acumen, user empathy, and leadership. Experience with agile methodologies and a deep knowledge of the DeFi or NFT space is highly valuable.
+A mix of technical understanding, business acumen, user empathy, and leadership. Experience with agile methodologies and a deep knowledge of the DeFi or NFT space is highly valuable. Learn more about the [Web3 PM career path](/web3-product-manager-jobs).
 
 ## 5. Marketing Manager
 *The storytellers who build the brand and drive adoption.*
@@ -94,7 +94,7 @@ Expert-level understanding of the Ethereum Virtual Machine (EVM), deep knowledge
 ## 7. Protocol Designer / Researcher
 *The theorists and economists who design the systems.*
 
-These are the big thinkers who design the economic and governance models (often called "tokenomics") that underpin a protocol. They use principles from game theory, economics, and computer science to create systems with the right incentives to ensure long-term stability and growth.
+These are the big thinkers who design the economic and governance models (often called "[tokenomics](/understanding-tokenomics)") that underpin a protocol. They use principles from game theory, economics, and computer science to create systems with the right incentives to ensure long-term stability and growth.
 
 ### Key Responsibilities:
 - Researching and analyzing existing protocols.
@@ -117,7 +117,7 @@ One of the biggest hurdles for Web3 adoption is its often-clunky user experience
 - Simplifying complex interactions like transaction signing and gas fees.
 
 ### Essential Skills:
-Proficiency in design tools like Figma, a strong portfolio, and a deep sense of empathy for the user. Understanding the unique challenges of Web3 UX is key.
+Proficiency in design tools like Figma, a strong portfolio, and a deep sense of empathy for the user. Understanding the unique challenges of [Web3 UX](/web3-ux-design) is key.
 
 ## 9. Data Analyst / Scientist
 *The detectives who find insights in on-chain data.*
@@ -145,4 +145,4 @@ Web3 is complex, and clear, concise documentation is essential for developers an
 - Working closely with the development team to ensure accuracy.
 
 ### Essential Skills:
-Excellent writing and communication skills, the ability to understand complex technical topics, and a knack for explaining them simply. A technical background is often required.
+Excellent writing and communication skills, the ability to understand complex technical topics, and a knack for explaining them simply. A technical background is often required. Learn more about [becoming a Web3 technical writer](/becoming-a-web3-technical-writer).

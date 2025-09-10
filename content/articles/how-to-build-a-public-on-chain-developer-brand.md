@@ -20,9 +20,9 @@ The foundational principle of building a brand in Web3 is "Show, Don't Tell." Ev
 -   **Web3 Proof:** "I successfully facilitated a contentious governance proposal in the Uniswap DAO, leading to a consensus. [Link to the forum discussion]."
 
 -   **Web2 Claim:** "I am a proficient Solidity developer."
--   **Web3 Proof:** "I wrote a gas-optimized staking contract that has been forked 50 times on GitHub and holds a small amount of real value on a testnet. [Link to GitHub repo] [Link to Etherscan]."
+-   **Web3 Proof:** "I wrote a gas-optimized staking contract that was forked 50 times on GitHub and holds a small amount of real value on a testnet. [Link to GitHub repo] [Link to Etherscan]."
 
-This verifiable "proof of work" is the bedrock of your brand. It's authentic, credible, and cannot be faked.
+This verifiable "proof of work" is the bedrock of your brand. It's authentic, credible, and cannot be faked. For more on this, see our guide on [how to get a Web3 job with no experience](/how-to-get-a-job-with-no-experience).
 
 ### Step 1: Curate Your On-Chain Identity
 
@@ -30,7 +30,7 @@ Your public wallet address, preferably linked to an ENS name (e.g., `yourname.et
 
 -   **Get an ENS Name:** Register an Ethereum Name Service domain. It's the equivalent of having a professional email address.
 -   **Be a User:** Your on-chain history tells a story. Use the major DeFi protocols. Collect NFTs from artists you admire. Vote in governance proposals. This shows you are an active, engaged participant, not just a tourist.
--   **Maintain a Clean "Main" Wallet:** Use your main, public-facing wallet for high-signal activities. Use separate "burner" wallets for interacting with unaudited or risky protocols. Your public wallet should reflect your knowledge and good judgment.
+-   **Maintain a Clean "Main" Wallet:** Use your main, public-facing wallet for high-signal activities. Use separate "burner" wallets for interacting with unaudited or risky protocols. Your public wallet should reflect your knowledge and good judgment. Learn more in our [guide to securing your crypto](/securing-your-crypto).
 
 ### Step 2: Your GitHub is Your Temple
 
@@ -43,7 +43,7 @@ For a developer, GitHub is the single most important pillar of your professional
     -   Clear instructions on how to set it up and run it locally.
     -   A link to a live demo if possible.
 -   **Show, Don't Just Tell (with Tests):** Nothing signals professionalism more than a comprehensive test suite. It shows you are a rigorous engineer who cares about security and code quality. Aim for high test coverage on your key projects.
--   **Contribute to Open Source:** Making a meaningful contribution to a reputable Web3 project is one of the most powerful signals you can send. It shows you can navigate a large codebase, collaborate with a team, and write professional-quality code. Start small by fixing a bug or improving documentation.
+-   **Contribute to Open Source:** Making a meaningful contribution to a reputable Web3 project is one of the most powerful signals you can send. It shows you can navigate a large codebase, collaborate with a team, and write professional-quality code. Start small by fixing a typo in the documentation or adding a missing test case.
 
 ### Step 3: Create Content to Showcase Your Expertise
 

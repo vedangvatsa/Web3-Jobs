@@ -29,11 +29,11 @@ This phase is about deep immersion and building a foundational understanding of 
     -   **Read the Foundational Texts:** Read the Bitcoin and Ethereum whitepapers. Read landmark blog posts like "Why Decentralization Matters" by Chris Dixon.
     -   **Curate Your Information Diet:** Listen to podcasts like Bankless and Unchained daily. Curate a Twitter feed of the top thinkers and builders in the space.
 2.  **Become a Power User (This is Non-Negotiable):**
-    -   **Get a Wallet:** Set up MetaMask and a hardware wallet. Learn to manage your own keys.
+    -   **Get a Wallet:** Set up MetaMask and a hardware wallet. Learn to [manage your own keys securely](/securing-your-crypto).
     -   **Use DeFi:** Make a swap on Uniswap, lend assets on Aave, and explore a yield aggregator. Experience the UX pain points firsthand.
-    -   **Join a DAO:** Pick a DAO that interests you, join the Discord, and just listen. Read the governance forums.
+    -   **Join a DAO:** Pick a [DAO](/what-is-a-dao) that interests you, join the Discord, and just listen. Read the governance forums.
 3.  **Learn the Technical & Economic Fundamentals:**
-    -   **Technical Literacy:** You don't need to code, but you must understand the basics. Learn what the EVM is, how gas works, what a Layer 2 is, and the difference between a `call` and a `delegatecall`.
+    -   **Technical Literacy:** You don't need to code, but you must understand the basics. Learn what the EVM is, how gas works, what a [Layer 2](/guide-to-layer-2s) is, and the difference between a `call` and a `delegatecall`.
     -   **Tokenomics 101:** Learn the basics of [tokenomics](/understanding-tokenomics). Understand supply and demand, vesting schedules, and different utility models (governance, staking, etc.).
 
 ### Phase 2: Building Your "Proof of Work" Portfolio (The Next 6 Months)

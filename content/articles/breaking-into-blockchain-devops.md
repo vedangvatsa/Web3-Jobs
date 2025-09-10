@@ -25,7 +25,7 @@ While the core principles of DevOps (automation, collaboration, and iteration) r
 **2. The Deployment Target is an Immutable Blockchain**
 -   **Web2:** You can easily roll back a bad deployment.
 -   **Web3:** Smart contract deployments are immutable. A bug deployed to the blockchain is permanent. This makes the deployment process infinitely more high-stakes.
--   **Secure CI/CD:** Your key responsibility is building a "hermetically sealed," secure continuous integration and deployment pipeline for smart contracts. This includes:
+-   **Secure CI/CD:** Your key responsibility is building a "hermetically sealed," secure continuous integration and deployment pipeline for [smart contracts](/what-are-smart-contracts). This includes:
     -   **Automated Security Scans:** Integrating static analysis tools (like Slither) and fuzz testing into the pipeline to catch bugs before deployment.
     -   **Private Key Management:** Using a secure system like HashiCorp Vault or a cloud KMS to manage the private keys used for deploying contracts. These keys must never be exposed in plaintext in a CI/CD environment.
 
@@ -47,10 +47,10 @@ While the core principles of DevOps (automation, collaboration, and iteration) r
 
 ### How to Transition into Blockchain DevOps
 
-1.  **Learn the Fundamentals:** You must understand the basics of blockchain technology. Learn how a transaction works, what the EVM is, and the difference between a Layer 1 and a Layer 2.
+1.  **Learn the Fundamentals:** You must understand the basics of blockchain technology. Learn how a transaction works, what the EVM is, and the difference between a [Layer 1 and a Layer 2](/guide-to-layer-2s).
 2.  **Get Your Hands Dirty:** The best way to learn is by doing.
     -   **Run a Node:** Set up your own Ethereum node on a testnet. Go through the process of syncing it and connecting to it. This is your "Hello, World!" project.
-    -   **Deploy a Contract:** Learn the basics of Solidity and use a framework like Hardhat or Foundry to deploy a simple smart contract to your testnet node.
+    -   **Deploy a Contract:** Learn the basics of Solidity and use a framework like Hardhat or [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) to deploy a simple smart contract to your testnet node.
 3.  **Build a Secure Pipeline:** In a personal project, build a full CI/CD pipeline for a simple smart contract using GitHub Actions.
     -   Create a job that compiles the contract.
     -   Create a job that runs the tests.
