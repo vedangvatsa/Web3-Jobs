@@ -328,6 +328,22 @@ export default async function CommunityPage() {
             </div>
           </section>
 
+          <div className="py-16 bg-secondary/40 my-16 rounded-lg">
+              <div className="container mx-auto px-4">
+                  <section>
+                      <div className="text-center mb-8">
+                          <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><Briefcase /> Latest Jobs</h2>
+                      </div>
+                      <JobListings jobs={latestJobs} />
+                      <div className="text-center mt-8">
+                          <Button variant="outline" asChild>
+                              <Link href="/">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                          </Button>
+                      </div>
+                  </section>
+              </div>
+          </div>
+
            <section className="mb-16">
             <Card className="bg-secondary/40 border-dashed">
               <CardContent className="p-8 text-center">
@@ -383,6 +399,24 @@ export default async function CommunityPage() {
               ))}
             </div>
           </section>
+          
+          <div className="py-16 bg-secondary/40 my-16 rounded-lg">
+            <div className="container mx-auto px-4">
+                <section>
+                    <div className="text-center mb-8">
+                        <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><Newspaper /> News Feed</h2>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        {latestNews.map((item, index) => <NewsCard key={index} item={item} />)}
+                    </div>
+                    <div className="text-center mt-8">
+                        <Button variant="outline" asChild>
+                            <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                        </Button>
+                    </div>
+                </section>
+            </div>
+          </div>
 
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Community Moments</h2>
@@ -442,6 +476,24 @@ export default async function CommunityPage() {
                 <p className="text-center text-xs text-muted-foreground mt-6">and many more...</p>
              </div>
           </section>
+
+           <div className="py-16 bg-secondary/40 my-16 rounded-lg">
+            <div className="container mx-auto px-4">
+                <section>
+                    <div className="text-center mb-8">
+                        <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><BookOpen /> From the Playbook</h2>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                        {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
+                    </div>
+                     <div className="text-center mt-8">
+                        <Button variant="outline" asChild>
+                            <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                        </Button>
+                    </div>
+                </section>
+            </div>
+          </div>
 
             <section className="mb-16">
                 <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
@@ -522,60 +574,10 @@ export default async function CommunityPage() {
                 </a>
              </div>
           </section>
-
         </div>
-
-        <div className="py-16 bg-secondary/40 mt-16">
-            <div className="container mx-auto px-4">
-                <section>
-                    <div className="text-center mb-8">
-                        <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><Briefcase /> Latest Jobs</h2>
-                    </div>
-                    <JobListings jobs={latestJobs} />
-                    <div className="text-center mt-8">
-                        <Button variant="outline" asChild>
-                            <Link href="/">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                        </Button>
-                    </div>
-                </section>
-            </div>
-        </div>
-
-        <div className="py-16">
-            <div className="container mx-auto px-4">
-                <section>
-                    <div className="text-center mb-8">
-                        <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><BookOpen /> From the Playbook</h2>
-                    </div>
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                        {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
-                    </div>
-                     <div className="text-center mt-8">
-                        <Button variant="outline" asChild>
-                            <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                        </Button>
-                    </div>
-                </section>
-            </div>
-        </div>
-
-        <div className="py-16 bg-secondary/40">
-          <div className="container mx-auto px-4">
-            <div className="text-center mb-8">
-                <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><Newspaper /> News Feed</h2>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {latestNews.map((item, index) => <NewsCard key={index} item={item} />)}
-            </div>
-            <div className="text-center mt-8">
-                <Button variant="outline" asChild>
-                    <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                </Button>
-            </div>
-          </div>
-        </div>
-        
       </main>
     </div>
   );
 }
+
+    
