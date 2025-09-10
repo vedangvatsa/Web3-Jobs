@@ -76,8 +76,8 @@ const calculateSalary = (data: SalaryFormData): number => {
   const locationMultiplier: Record<string, number> = {
     north_america: 1.15,
     europe: 1.0,
-    asia: 0.8,
-    other: 0.7,
+    asia: 0.7,
+    other: 0.6,
   };
 
   const companyTypeMultiplier: Record<string, number> = {
