@@ -1,6 +1,7 @@
 ---
 title: 'How to Transition from Web2 to Web3: A Developer''s Guide'
 image: 'https://images.unsplash.com/photo-1528901166007-3784c7dd3653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxEZXZlbG9wZXJzfGVufDB8fHx8MTc1NDk1MzcxN3ww&ixlib=rb-4.1.0&q=80&w=1080'
+data-ai-hint: 'developer transition'
 description: 'Are you a Web2 developer curious about a career in Web3? This guide breaks down the key mindset shifts, the essential new technologies to learn, and a practical roadmap for making the transition.'
 category: 'Career Guides'
 ---
