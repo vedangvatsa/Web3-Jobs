@@ -8,7 +8,7 @@ category: "Career Guides"
 
 There's a common misconception that to work in Web3, you need to be a blockchain developer. While the demand for technical talent is high, the reality is that the Web3 ecosystem is desperate for skilled professionals across a wide range of non-technical disciplines. As startups and protocols mature, they need marketers, product managers, writers, community builders, and operations experts to help them grow.
 
-For professionals with backgrounds in marketing, finance, law, or operations, Web3 presents an exciting new frontier. This guide will highlight the most in-demand non-technical roles and provide a roadmap for how you can translate your existing skills into a successful Web3 career.
+For professionals with backgrounds in marketing, finance, law, or operations, Web3 presents an exciting new frontier. This guide will highlight the most [in-demand non-technical roles](/best-web3-jobs-for-non-developers) and provide a roadmap for how you can translate your existing skills into a successful Web3 career.
 
 ### Your Web2 Skills are More Valuable Than You Think
 
@@ -40,10 +40,10 @@ The key is to combine your existing expertise with a deep, genuine understanding
 
 ### Your Roadmap for Making the Transition
 
-1.  **Immerse Yourself:** You must become a user. This is non-negotiable. Use a DeFi protocol, buy an NFT, and join a DAO. Your first-hand experience is your most important credential.
+1.  **Immerse Yourself:** You must become a user. This is non-negotiable. Use a [DeFi protocol](/what-is-defi), buy an [NFT](/what-are-nfts), and join a [DAO](/what-is-a-dao). Your first-hand experience is your most important credential.
 2.  **Build a "Proof of Work" Portfolio:** Your resume is less important than your public contributions.
     *   **Start a Blog or Twitter Account:** Write about your journey learning Web3. Analyze the marketing strategy of a project you admire.
-    *   **Contribute to a DAO:** This is the single best way to get hired. Find a DAO that interests you, join their Discord, and start helping out. Summarize a community call, help answer questions, or contribute to a marketing bounty.
+    *   **Contribute to a DAO:** This is the single best way to [get hired](/how-to-get-a-job-with-no-experience). Find a DAO that interests you, join their Discord, and start helping out. Summarize a community call, help answer questions, or contribute to a marketing bounty.
 3.  **Network Authentically:** Connect with people on Twitter and in Discord. Don't just ask for a job; ask for advice. Show genuine curiosity about their work.
 4.  **Tailor Your Resume:** Reframe your Web2 experience using the language of Web3.
     *   *Instead of:* "Managed a social media calendar for a consumer brand."

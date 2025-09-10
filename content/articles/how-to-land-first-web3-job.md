@@ -64,7 +64,7 @@ Networking in Web3 is less about formal events and more about building genuine r
 
 ## Step 6: Ace the Interview
 
-Web3 interviews are often multi-staged and can be intense. Expect a mix of cultural, technical, and take-home assignments.
+Web3 interviews are often multi-staged and can be intense. Expect a mix of cultural, technical, and take-home assignments. You can prepare using our [Web3 Interview Question Bank](/interview-questions).
 
 - **Be Passionate:** You must be able to articulate why you are passionate about Web3 and the specific project you are interviewing for.
 - **Demonstrate Ownership:** Web3 teams are often small and remote. Show that you are a self-starter who can take initiative and get things done without constant supervision.

@@ -14,7 +14,7 @@ This guide provides a step-by-step framework for how to start contributing to DA
 
 ### The Mindset: Permissionless Contribution
 
-The most important mindset shift is from "asking for a job" to "providing value permissionlessly." In the DAO world, you don't climb a corporate ladder; you build a public reputation based on your contributions. Your "proof of work" is your resume.
+The most important mindset shift is from "asking for a job" to "providing value permissionlessly." In the DAO world, you don't climb a corporate ladder; you build a public reputation based on your contributions. Your ["proof of work"](/how-to-build-a-public-on-chain-developer-brand) is your resume.
 
 ### Step 1: Find Your Tribe (Choosing a DAO)
 
@@ -57,6 +57,6 @@ If you consistently deliver value through bounties and community participation, 
 
 -   **Join a Guild or Working Group:** Most DAOs have semi-formal working groups for specific functions (e.g., Marketing Guild, Treasury Guild). Your track record will make you a strong candidate to join one of these groups, which often come with a monthly stipend for ongoing work.
 -   **Write a Grant Proposal:** You might see a larger, more complex problem that needs to be solved. You can write a formal proposal to the DAO's governance, requesting a 3-6 month grant to work on the project. A successful grant proposal is a major accomplishment.
--   **Get Hired Full-Time:** As DAOs professionalize, many are creating full-time, salaried roles for their most critical functions. Your history as a trusted, high-impact contributor makes you the ideal candidate for these positions.
+-   **Get Hired Full-Time:** As DAOs professionalize, many are creating full-time, salaried roles for their most critical functions. Your history as a trusted, high-impact contributor makes you the ideal candidate for these positions. Check out our guide on the [freelance vs. full-time Web3 career paths](/freelance-vs-full-time-web3-career).
 
 The path to a career in a DAO is a journey of escalating engagement. It starts with a single, helpful comment and can lead to a full-time role shaping the future of a decentralized protocol. It's a meritocratic system that is open to anyone, regardless of their background, who is willing to put in the work and prove their value to the community.

@@ -8,7 +8,7 @@ category: "Career Guides"
 
 In the fast-paced world of Web3, it’s easy to get caught up in the hype. A new NFT project is minting, a new DeFi protocol is offering astronomical yields, and the fear of missing out (FOMO) is palpable. The temptation is to "ape in"—to invest quickly without doing your own research. This is often a recipe for disaster.
 
-One of the most powerful features of Web3 is its transparency. The code for most smart contracts is public and verifiable on a block explorer like Etherscan. While a full security audit requires deep expertise, anyone can learn to perform a basic "smell test" to spot the most obvious red flags. Learning how to do a high-level reading of a smart contract is a critical skill for protecting yourself in the Web3 world.
+One of the most powerful features of Web3 is its transparency. The code for most [smart contracts](/what-are-smart-contracts) is public and verifiable on a block explorer like Etherscan. While a full [security audit](/smart-contract-auditor-career) requires deep expertise, anyone can learn to perform a basic "smell test" to spot the most obvious red flags. Learning how to do a high-level reading of a smart contract is a critical skill for protecting yourself in the Web3 world.
 
 This guide is for the non-developer—the investor, the collector, the community member—who wants to learn how to do a basic safety check on a smart contract. We'll cover where to find the code, what to look for, and the common red flags that should make you think twice before connecting your wallet.
 
@@ -51,12 +51,12 @@ Look for functions that set important parameters. These are often named with pre
 If the contract holds funds (e.g., from a mint), there will be a function for the owner to withdraw them.
 -   **Search for:** `withdraw`, `claim`
 -   **What to look for:** A simple `withdraw` function that sends the contract's balance to the owner is normal. Be wary of complex logic or functions that can withdraw specific tokens you have approved.
--   **Verdict:** This requires careful inspection. If the logic seems overly complex or unclear, it could be a red flag.
+-   **Verdict:** This requires careful inspection. If the logic seems overly complex or unclear, it could be a way to hide malicious logic.
 
 **4. Are there any suspicious external calls?**
 Look for `.call`, `.delegatecall`, or `.staticcall`. These are used to interact with other contracts.
 -   **Search for:** `delegatecall`
--   **What to look for:** `delegatecall` is extremely powerful and dangerous. It executes code from another contract *in the context of the current contract*. An unauthorized `delegatecall` can give an attacker complete control. Unless you are looking at a well-understood proxy contract, this is a **MAJOR RED FLAG.**
+-   **What to look for:** `delegatecall` is extremely powerful and dangerous. It executes code from another contract *in the context of the current contract*. An unauthorized `delegatecall` can give an attacker complete control. Unless you are looking at a well-understood [proxy contract](/writing-upgradable-smart-contracts-proxies-explained), this is a **MAJOR RED FLAG.**
 
 **5. Is the code overly complex or obfuscated?**
 -   **What to look for:** Does the code have strange variable names? Is it thousands of lines long for a simple NFT mint? Does it use a lot of low-level assembly code?

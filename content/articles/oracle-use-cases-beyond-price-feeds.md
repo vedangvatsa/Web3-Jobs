@@ -63,7 +63,7 @@ Oracles can act as "attestation" services, verifying real-world facts that can b
 - **The Concept:** You could use an oracle to create a verifiable, on-chain credential.
 - **How Oracles Enable It:**
     - **Social Graph Verification:** An oracle could verify that your Twitter account has over 10,000 followers or that your GitHub account has contributed to a certain open-source repository. This attestation could then be used to grant you access to a specific DAO or dApp.
-    - **KYC/AML Attestation:** A trusted, regulated entity could perform a KYC check on a user off-chain. They could then use an oracle to issue a simple on-chain attestation (a "yes/no") that this wallet has been verified, without revealing any of the user's personal data on the blockchain. DeFi protocols could then use this to offer compliant services.
+    - **KYC/AML Attestation:** A trusted, regulated entity could perform a KYC check on a user off-chain. They could then use an oracle to issue a simple on-chain attestation (a "yes/no") that this wallet has been verified, without revealing any of the user's personal data on the blockchain. [DeFi protocols](/what-is-defi) could then use this to offer compliant services.
 - **Why it matters:** This allows for the creation of rich, portable reputation systems that are not controlled by any single platform, bridging the gap between our real-world and on-chain lives.
 
 ### Conclusion: The Unseen Bridge to the Future

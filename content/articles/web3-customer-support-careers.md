@@ -24,7 +24,7 @@ The core of the job is the same as any support role: helping users solve their p
 -   **Troubleshooting Technical Issues:** Helping users with a wide range of issues, such as:
     -   "My transaction is stuck."
     -   "I can't see my tokens in my wallet."
-    -   "How do I bridge my assets to a Layer 2?"
+    -   "How do I bridge my assets to a [Layer 2](/guide-to-layer-2s)?"
 -   **Creating Support Documentation:** Writing and maintaining a comprehensive knowledge base with FAQs, tutorials, and step-by-step guides to help users self-serve.
 -   **Identifying and Flagging Scams:** Actively monitoring community channels for scammers and phishing links and warning the community.
 -   **Synthesizing User Feedback:** Acting as the "voice of the user" by systematically collecting, categorizing, and reporting user pain points to the product and engineering teams.
@@ -35,11 +35,11 @@ The core of the job is the same as any support role: helping users solve their p
 -   **Excellent Communication Skills:** You need to be able to explain complex technical concepts in simple, easy-to-understand language.
 -   **Strong Problem-Solving Abilities:** You need to be a good detective, able to ask the right questions to diagnose a user's problem.
 -   **Technical Aptitude:** You must have a deep, practical understanding of the Web3 ecosystem. You need to know how to use a block explorer, understand the difference between a wallet and a contract, and know how to debug a failed transaction.
--   **Security Mindset:** You must be an expert on common scams and security best practices.
+-   **Security Mindset:** You must be an expert on common scams and [security best practices](/securing-your-crypto).
 
 ### How to Get a Job in Web3 Customer Support
 
-This is one of an excellent entry-level role for those looking to break into the Web3 industry.
+This is one of an excellent entry-level role for those looking to [break into the Web3 industry](/how-to-get-a-job-with-no-experience).
 
 1.  **Become a Power User:** You must be an experienced and confident user of Web3 technology yourself. You cannot guide others through a process you haven't done yourself.
 2.  **Become a Community Helper:** The best way to get hired is to start doing the job for free. Find a project you love, join their Discord, and become one of the most helpful people in the community.

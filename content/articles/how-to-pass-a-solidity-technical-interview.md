@@ -15,7 +15,7 @@ Passing this interview requires more than just knowing the syntax; it requires t
 A typical Solidity interview process involves several stages:
 
 1.  **The Foundational Screen:** This is often a non-technical or semi-technical call with a recruiter or hiring manager. They will ask high-level questions to gauge your passion and basic knowledge. (e.g., "Why are you interested in Web3?", "Explain what a smart contract is.")
-2.  **The Technical Take-Home Assignment:** Many companies will give you a small project to build on your own time. This is used to assess your coding style, your ability to write tests, and your documentation skills.
+2.  **The Technical Take-Home Assignment:** Many companies will give you a small project to build on your own time. This is used to assess your coding style, your ability to write tests, and your documentation skills. You can review some [common take-home assignments here](/common-take-home-assignments-for-web3-developer-roles).
 3.  **The Core Technical Interview:** This is the main event. It will be a live session with one or more engineers and will involve a mix of conceptual questions and a live coding challenge.
 4.  **The Systems Design / Architecture Interview:** For senior roles, you may be asked to design the architecture for a simple DeFi protocol or another dApp. This tests your ability to think about the entire system, including on-chain and off-chain components.
 
@@ -44,6 +44,7 @@ This is what separates a good Solidity developer from a great one. You must have
     -   **Integer Overflow/Underflow:** Know why this is no longer an issue in Solidity 0.8.0+ but was critical before.
     -   **Oracle Manipulation:** Understand how flash loans can be used to manipulate prices.
     -   **Incorrect Access Control:** The importance of modifiers like `onlyOwner`.
+    - You can review more in our guide to [common smart contract vulnerabilities](/common-smart-contract-vulnerabilities-explained).
 -   **Security Tools:** Be familiar with tools like Slither (static analysis) and Echidna (fuzzing).
 
 **4. Gas Optimization**
@@ -51,6 +52,7 @@ Demonstrating your ability to write gas-efficient code is a major plus.
 -   **Storage Packing:** Know how to order variables in a struct to save on `SSTORE` operations.
 -   **Minimize State Writes:** Understand the pattern of reading from storage into memory, performing operations, and then writing back once.
 -   **Use Custom Errors:** Know why custom errors are cheaper than `require` strings.
+- You can find more detail in our [guide to Solidity gas optimization](/gas-optimization-techniques-for-solidity-developers).
 
 **5. Standard Patterns & EIPs**
 -   **Token Standards:** Be an expert on ERC-20, ERC-721, and ERC-1155.

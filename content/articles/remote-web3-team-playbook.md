@@ -8,7 +8,7 @@ category: "Career Guides"
 
 The Web3 industry is built on a remote-first foundation. The decentralized ethos of the space naturally extends to its workforce, creating globally distributed teams that collaborate across dozens of time zones. This presents a unique set of challenges and opportunities. Managing a remote Web3 team is fundamentally different from managing a co-located or even a traditional remote team.
 
-To succeed, Web3 teams must master the art of asynchronous communication, foster a culture of extreme ownership, and build robust systems for collaboration that do not rely on real-time meetings. This playbook outlines the essential strategies and best practices for running a high-performing remote team in the unique context of Web3.
+To succeed, Web3 teams must master the art of asynchronous communication, foster a culture of extreme ownership, and build robust systems for collaboration that do not rely on real-time meetings. This playbook outlines the essential strategies and best practices for running a high-performing remote team in the unique context of Web3. For more, check out our guide on [how to succeed in a remote Web3 job](/remote-work-in-web3).
 
 ### Core Principle 1: Asynchronous by Default
 
