@@ -64,9 +64,10 @@ This section should come **before** your traditional work experience. It's what 
 
 **Example for a Non-Technical Professional:**
 
--   **Marketing Guild Contributor, BanklessDAO** `[Link to proposal]`
-    -   Led a 3-person team to launch a marketing campaign for a new DAO product, resulting in a 40% increase in sign-ups.
-    -   Wrote and passed a governance proposal to secure a $5,000 budget for the campaign.
+-   **DAO Governance Analysis** `[Link to proposal]`
+    -   Authored a 2,000-word analysis of Uniswap's fee switch proposal, which was retweeted by key community members and referenced in two podcast episodes.
+-   **Community Contribution - [Project Y]** `[Link to summaries]`
+    -   Acted as lead scribe for weekly community calls, producing high-quality summaries for the community.
 
 #### 4. Professional Experience
 
@@ -80,9 +81,7 @@ List your traditional work experience here. Your goal is to reframe your accompl
 
 Divide your skills into relevant subcategories.
 
--   **Blockchain & Web3:** Solidity, Foundry, Ethers.js, The Graph, EIP-712, Tokenomics, DAO Governance, Dune Analytics.
+-   **Web3 / Blockchain:** Solidity, Foundry, Ethers.js, The Graph, EIP-712, Tokenomics, DAO Governance, Dune Analytics.
 -   **Technical & General:** JavaScript, React, Next.js, Python, SQL, Figma, Project Management.
 
 By building your resume around verifiable proof of work and tailoring your language to the industry's culture, you move beyond simply telling people what you can do—you show them. In the transparent and meritocratic world of Web3, this is the most powerful way to stand out and land the job.
-
-    

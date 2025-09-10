@@ -65,5 +65,3 @@ These are highly specialized roles that command premium salaries due to the dept
 -   **Key Skills:** A combination of strong technical skills and excellent communication/teaching abilities. Many DevRel professionals are former engineers.
 
 The Web3 job market is a dynamic and rapidly evolving space. While the roles listed here are currently the most sought-after, new specializations are emerging all the time. For those willing to learn and adapt, the opportunities to build a high-impact career are virtually limitless.
-
-    
