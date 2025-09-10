@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Web3 Decentralized Storage Expert"
-image: "https://images.unsplash.com/photo-1593433693255-a2f1c8a147b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwc3RvcmFnZXxlbnwwfHx8fDE3NTUxMjA5OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-data-ai-hint: "data storage server"
+image: "/images/linus-mimietz-gvptKmonylk-unsplash.jpg"
+data-ai-hint: "career choice person"
 description: "A career guide to the world of decentralized storage. Learn about the leading protocols like IPFS and Arweave, and the engineering roles available in this foundational Web3 sector."
 category: "Career Guides"
 ---
