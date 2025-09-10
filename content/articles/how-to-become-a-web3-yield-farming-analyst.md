@@ -1,6 +1,6 @@
 ---
 title: "How to Become a Web3 Yield Farming Analyst"
-image: "/images/david-shares-3yA5TBI1iT4-unsplash.jpg"
+image: "/images/javier-quesada-qYfwGVNJqSA-unsplash.jpg"
 data-ai-hint: "crypto yield data"
 description: "A career guide for the emerging role of Yield Farming Analyst. Learn the skills needed to analyze DeFi strategies, assess risk, and maximize returns in the world of decentralized finance."
 category: "Career Guides"

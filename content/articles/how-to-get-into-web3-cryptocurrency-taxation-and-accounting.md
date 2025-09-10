@@ -1,6 +1,6 @@
 ---
 title: "How to Get Into Web3 Cryptocurrency Taxation and Accounting"
-image: "/images/mikael-blomkvist-b4a0i3aD4pM-unsplash.jpg"
+image: "/images/kari-shea-1SAnrIxw5OY-unsplash.jpg"
 data-ai-hint: "accounting tax calculator"
 description: "A career guide for accounting and tax professionals looking to specialize in the complex world of cryptocurrency. Learn the key issues and how to build a career in this niche field."
 category: "Career Guides"
