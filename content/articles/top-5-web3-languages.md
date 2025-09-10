@@ -1,7 +1,7 @@
 ---
 title: 'The Top 5 Programming Languages for Web3 Development'
 image: 'https://images.unsplash.com/photo-1619410283995-43d9134e7656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwcm9ncmFtbWluZ3xlbnwwfHx8fDE3NTQ5NTQzMzB8MA&ixlib=rb-4.1.0&q=80&w=1080'
-description: 'An essential guide for aspiring blockchain developers. We break down the top 5 programming languages for Web3—Solidity, Rust, JavaScript, Python, and Go—and explain their use cases, pros, and cons.'
+description: 'An essential guide for aspiring blockchain developers. We break down the top five programming languages for Web3—Solidity, Rust, JavaScript, Python, and Go—and explain their use cases, pros, and cons.'
 category: 'Technology Deep Dives'
 ---
 
@@ -70,7 +70,7 @@ Python may not be the star of the show for writing smart contracts, but it plays
 -   **Why it's Important:** Blockchains generate a massive amount of public data. Python, with its powerful data science libraries like Pandas and Matplotlib, is the preferred language for analyzing this on-chain data. Many testing frameworks also use Python to script complex interactions with smart contracts.
 -   **Pros:**
     -   **Easy to Learn:** Python's simple syntax makes it great for beginners.
-    -   **Powerful Data Science Stack:** The best language for anyone interested in a career as an on-chain data analyst.
+    -   **Powerful Data Science Stack:** The best language for anyone interested in a career as an [on-chain data analyst](/on-chain-analyst-job).
     -   **Strong Web3 Libraries:** Libraries like Web3.py provide robust tools for interacting with the Ethereum blockchain.
 -   **Cons:**
     -   **Limited Use in Smart Contracts:** While some platforms have experimented with Python-like languages for smart contracts (e.g., Vyper), it has not seen widespread adoption. Its primary role is off-chain.

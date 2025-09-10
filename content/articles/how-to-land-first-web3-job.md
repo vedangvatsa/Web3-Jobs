@@ -52,7 +52,7 @@ Your resume needs to speak the language of Web3. It's less about where you worke
 - **On-Chain Activity:** Your wallet address (ENS name preferred) can serve as a resume. It shows your history of interacting with dApps, collecting NFTs, and participating in governance.
 - **Proof of X:** This is your collection of "proof of work." It could be links to your Dune dashboards, your blog posts, the Discord community you moderate, or the DAO you contribute to.
 
-> **Resume Tip:** Replace the generic "Objective" statement with a section titled "Web3 Journey." Briefly explain what got you excited about the space and what you've done to immerse yourself in it. See our full [guide to writing a Web3 resume](/how-to-write-a-web3-resume).
+> **Resume Tip:** Replace the generic "Objective" statement with a section titled "Web3 Journey." Briefly explain what got you excited about the space and what you've done to immerse yourself in it. See our full [guide to writing a Web3 resume](/how-to-build-a-web3-resume).
 
 ## Step 5: Network Authentically
 
@@ -64,7 +64,7 @@ Networking in Web3 is less about formal events and more about building genuine r
 
 ## Step 6: Ace the Interview
 
-Web3 interviews are often multi-staged and can be intense. Expect a mix of cultural, technical, and take-home assignments. You can prepare using our [Web3 Interview Question Bank](/interview-questions).
+Web3 interviews are often multi-staged and can be intense. Expect a mix of cultural, technical, and take-home assignments. You can prepare using our [Web3 Interview Question Bank](/web3-interview-questions).
 
 - **Be Passionate:** You must be able to articulate why you are passionate about Web3 and the specific project you are interviewing for.
 - **Demonstrate Ownership:** Web3 teams are often small and remote. Show that you are a self-starter who can take initiative and get things done without constant supervision.
