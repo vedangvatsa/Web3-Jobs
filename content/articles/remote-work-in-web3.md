@@ -33,7 +33,7 @@ Since your colleagues will be in different time zones, you can't rely on real-ti
 
 **2. A High Degree of Autonomy (The "Manager of One")**
 
-In a remote setting, you won't have a manager looking over your shoulder. You are expected to be a self-starter who can take ownership of a problem and drive it to completion.
+In a remote setting, you won't have a manager looking over your shoulder. You are expected to be a self-starter who can take a ownership of a problem and drive it to completion.
 -   **Initiative:** Do you wait to be told what to do, or do you identify problems and propose solutions? In Web3, initiative is highly valued.
 -   **Time Management:** Can you manage your own schedule and deliver high-quality work on time without constant supervision? This requires discipline and strong organizational skills.
 
