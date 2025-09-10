@@ -21,11 +21,11 @@ Before you even think about applying for jobs, you need to understand the world 
 
 Web3 is interdisciplinary. While you'll want to specialize (the vertical bar of the "T"), you need a broad understanding of the entire ecosystem (the horizontal bar). No matter your desired role, you should be able to explain these core concepts:
 
-- What is a blockchain and why is decentralization important?
-- The difference between Layer 1s (e.g., Ethereum) and Layer 2s (e.g., Arbitrum, Optimism).
-- The basics of DeFi: DEXs, lending protocols, stablecoins.
-- What NFTs are and their various use cases beyond art.
-- The function of DAOs and on-chain governance.
+- What is a [blockchain](/what-is-a-blockchain) and why is decentralization important?
+- The difference between Layer 1s (e.g., Ethereum) and [Layer 2s](/guide-to-layer-2s) (e.g., Arbitrum, Optimism).
+- The basics of [DeFi](/what-is-defi): DEXs, lending protocols, stablecoins.
+- What [NFTs are](/what-are-nfts) and their various use cases beyond art.
+- The function of [DAOs](/what-is-a-dao) and on-chain governance.
 
 Resources like Bankless, The Defiant, and project-specific blogs are excellent places to start.
 
@@ -34,7 +34,7 @@ Resources like Bankless, The Defiant, and project-specific blogs are excellent p
 Once you have a lay of the land, it's time to specialize. Your path will depend on your background and interests.
 
 ### For Aspiring Developers:
-Your goal is to become a proficient smart contract or frontend developer. Focus on learning the core technologies. Resources like CryptoZombies, Speed Run Ethereum, and university courses from builders like Patrick Collins are invaluable.
+Your goal is to become a proficient smart contract or frontend developer. Focus on learning the core technologies. Resources like CryptoZombies, Speed Run Ethereum, and our [guide on how to become a blockchain developer](/how-to-become-a-blockchain-developer) are invaluable.
 
 ### For Non-Technical Roles (Marketing, Community, Ops):
 Your "proof of work" is different. It's about demonstrating your understanding and ability to add value.
@@ -52,7 +52,7 @@ Your resume needs to speak the language of Web3. It's less about where you worke
 - **On-Chain Activity:** Your wallet address (ENS name preferred) can serve as a resume. It shows your history of interacting with dApps, collecting NFTs, and participating in governance.
 - **Proof of X:** This is your collection of "proof of work." It could be links to your Dune dashboards, your blog posts, the Discord community you moderate, or the DAO you contribute to.
 
-> **Resume Tip:** Replace the generic "Objective" statement with a section titled "Web3 Journey." Briefly explain what got you excited about the space and what you've done to immerse yourself in it.
+> **Resume Tip:** Replace the generic "Objective" statement with a section titled "Web3 Journey." Briefly explain what got you excited about the space and what you've done to immerse yourself in it. See our full [guide to writing a Web3 resume](/how-to-write-a-web3-resume).
 
 ## Step 5: Network Authentically
 
