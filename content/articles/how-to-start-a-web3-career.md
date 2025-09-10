@@ -38,18 +38,18 @@ Your first month should be dedicated entirely to learning and cultural immersion
 After your first month of immersion, you should have a better sense of which parts of Web3 excite you most. Now it's time to start developing a specific skill that is valuable to the ecosystem.
 
 -   **If you're interested in development:** Start learning the basics of [Solidity](/solidity-for-beginners) using a free resource like CryptoZombies.
--   **If you're interested in marketing:** Start a blog or Twitter account where you explain the concepts you're learning in simple terms. This demonstrates your communication skills.
+-   **If you're interested in marketing:** Start a blog or Twitter account where you explain the concepts you're learning in simple terms. This demonstrates your communication skills and becomes your public portfolio.
 -   **If you're interested in community:** Find a project you admire, join their Discord, and just start being helpful. Answer questions from other new users. This is a powerful way to get noticed.
 -   **If you're interested in data:** Learn some basic SQL and start playing with on-chain data using a tool like Dune Analytics.
 
-The key is to start building your "proof of work." In Web3, what you've done matters more than what your resume says.
+The key is to create "proof of work." In Web3, what you've done matters more than what your resume says.
 
 ### Step 3: Your First Contribution - Join a DAO
 
 [DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao) are community-led organizations and they are the best place for a beginner to get real-world experience.
 
 1.  **Find a DAO:** Look for a DAO that aligns with your interests. For example, if you're a writer, you could join BanklessDAO.
-2.  **Join the Discord and Find a "Guild":** Most DAOs have working groups or "guilds" for different functions (e.g., Marketing Guild, Writers Guild, Treasury Guild). Join the one that matches the skill you want to develop.
+2.  **Join a Guild:** Most DAOs have working groups or "guilds" for different functions (e.g., Marketing Guild, Writers Guild, Treasury Guild). Join the one that matches the skill you want to develop.
 3.  **Do a "Bounty":** Many DAOs offer small, paid tasks called bounties. This could be anything from writing a short article to designing a graphic or testing a new feature. Completing a bounty is your first piece of professional Web3 experience. It's verifiable and a powerful signal to future employers.
 
 ### Step 4: Frame Your Story and Start Networking
@@ -59,6 +59,4 @@ Now that you have some foundational knowledge, hands-on experience, and hopefull
 -   **Update Your Resume and LinkedIn:** Reframe your Web2 experience using the language of Web3. A "social media manager" becomes a "community builder." Add a new section to your resume called "Web3 Contributions" and link directly to your work.
 -   **Network Authentically:** Don't just DM people asking for a job. Engage with their posts on Twitter. Ask thoughtful questions in their project's Discord. Build a reputation as a curious and helpful community member.
 
-The path to a Web3 career is a marathon, not a sprint. It's a journey of continuous learning and active participation. Unlike traditional industries, the barriers to entry are low, and the opportunities are immense. By immersing yourself in the culture, developing a valuable skill, and building a public portfolio of your contributions, you can successfully launch a fulfilling career at the forefront of the internet's next great evolution.
-
-    
+The path to a Web3 career is a marathon, not a sprint. It's a journey of active participation and continuous learning. Unlike traditional industries, the barriers to entry are low, and the opportunities are immense. By immersing yourself in the culture, developing a valuable skill, and building a public portfolio of your contributions, you can successfully launch a fulfilling career at the forefront of the internet's next great evolution.
