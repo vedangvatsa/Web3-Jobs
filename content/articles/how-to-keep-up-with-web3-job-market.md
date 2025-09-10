@@ -1,6 +1,6 @@
 ---
 title: "How to Keep Up with the Rapidly Growing Web3 Job Market"
-image: "/images/jason-goodman-Oalh2MojUuk-unsplash.jpg"
+image: "/images/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
 data-ai-hint: "person running fast"
 description: "The Web3 space moves at lightning speed. This guide provides practical strategies and resources for staying up-to-date with the latest trends, technologies, and job opportunities in the crypto industry."
 category: "Career Guides"
