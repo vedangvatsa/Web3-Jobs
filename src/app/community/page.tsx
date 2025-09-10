@@ -38,9 +38,9 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
 
 function NewsCard({ item }: { item: NewsItem }) {
     return (
-        <Card className="bg-secondary/50 border-0">
+        <Card className="bg-secondary/50 border-0 hover:bg-secondary/80 transition-colors">
             <CardContent className="p-4">
-                <a href={item.link} target="_blank" rel="noopener noreferrer" className="block hover:bg-accent/20 rounded-md p-3">
+                <a href={item.link} target="_blank" rel="noopener noreferrer" className="block rounded-md p-3">
                     <p className="text-xs text-primary font-semibold">{item.source}</p>
                     <h4 className="font-semibold leading-snug text-foreground">{item.title}</h4>
                     <p className="text-xs text-muted-foreground mt-1">{new Date(item.pubDate).toLocaleDateString()}</p>
@@ -265,7 +265,7 @@ const headlines = [
 ];
 
 export default async function CommunityPage() {
-  const latestJobs = (await getJobs()).slice(0, 3);
+  const latestJobs = (await getJobs()).slice(0, 6);
   const latestArticles = (await getAllArticles()).slice(0, 3);
   const latestNews = (await getNewsFeed()).slice(0, 4);
 
@@ -523,52 +523,50 @@ export default async function CommunityPage() {
                 </a>
              </div>
           </section>
-
         </div>
-        <div className="py-16 bg-secondary/40 mt-16">
+
+        <section className="py-16 bg-secondary/40 mt-16">
+          <div className="container mx-auto px-4">
+            <div className="flex justify-between items-center mb-8">
+              <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
+              <Button variant="ghost" asChild>
+                  <Link href="/">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
+              </Button>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
+              {latestJobs.map(job => <JobCard key={job.id} job={job} />)}
+            </div>
+          </div>
+        </section>
+
+        <section className="py-16">
             <div className="container mx-auto px-4">
-
-            {/* Jobs Section */}
-            <section className="mb-16">
-                <div className="flex justify-between items-center mb-6">
-                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
-                <Button variant="ghost" asChild>
-                    <Link href="/">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                </Button>
-                </div>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                {latestJobs.map(job => <JobCard key={job.id} job={job} />)}
-                </div>
-            </section>
-
-            {/* Blog Section */}
-            <section className="mb-16">
-                <div className="flex justify-between items-center mb-6">
+                <div className="flex justify-between items-center mb-8">
                 <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
                 <Button variant="ghost" asChild>
                     <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
                 </Button>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
                 {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
                 </div>
-            </section>
-
-            {/* News Section */}
-            <section>
-                <div className="flex justify-between items-center mb-6">
-                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> News Feed</h2>
-                <Button variant="ghost" asChild>
-                    <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                </Button>
-                </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                 {latestNews.map((item, index) => <NewsCard key={index} item={item} />)}
-                </div>
-            </section>
-
             </div>
-        </div>
+        </section>
+
+        <section className="py-16 bg-secondary/40">
+          <div className="container mx-auto px-4">
+            <div className="flex justify-between items-center mb-8">
+              <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> News Feed</h2>
+              <Button variant="ghost" asChild>
+                  <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
+              </Button>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {latestNews.map((item, index) => <NewsCard key={index} item={item} />)}
+            </div>
+          </div>
+        </section>
+        
       </main>
     </div>
   );
