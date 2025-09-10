@@ -71,4 +71,4 @@ Divide your skills into relevant subcategories.
 -   **Web3 / Blockchain:** Solidity, Foundry, Ethers.js, The Graph, EIP-712, Tokenomics, DAO Governance, Dune Analytics.
 -   **Technical & General:** JavaScript, React, Next.js, Python, SQL, Figma, Project Management.
 
-By building your resume around verifiable proof of work and tailoring your language to the industry's culture, you move beyond simply telling people what you can do—you show them. In the transparent and meritocratic world of Web3, this is the most powerful way to stand out. Find more tips in our guide on [how to write a Web3 resume](/how-to-write-a-web3-resume).
+By building your resume around verifiable proof of work and tailoring your language to the industry's culture, you move beyond simply telling people what you can do—you show them. In the transparent and meritocratic world of Web3, this is the most powerful way to stand out.
