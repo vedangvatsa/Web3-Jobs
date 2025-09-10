@@ -21,7 +21,7 @@ The primary fuel for any hiring boom is capital, and the Web3 space has seen an 
 
 ### Driver 2: The Rise of DAOs and Protocol Treasuries
 
-A phenomenon unique to Web3 is the rise of the **DAO (Decentralized Autonomous Organization)**. Many of the largest DeFi protocols are governed by DAOs that control treasuries worth hundreds of millions or even billions of dollars.
+A phenomenon unique to Web3 is the rise of the **[DAO (Decentralized Autonomous Organization)](/what-is-a-dao)**. Many of the largest DeFi protocols are governed by DAOs that control treasuries worth hundreds of millions or even billions of dollars.
 
 -   **A New Kind of Company:** These DAOs function like companies, but their "shareholders" are the global community of token holders. They have a constant need for talent to build, maintain, and grow the protocol.
 -   **Funding Contributors:** DAOs use their treasuries to fund development and operations. This is often done through grants and bounties, creating a vibrant freelance economy. A skilled contributor can make a full-time living by working for multiple DAOs on a project-by-project basis, a model of work that barely exists in the traditional tech world.
@@ -32,7 +32,7 @@ A phenomenon unique to Web3 is the rise of the **DAO (Decentralized Autonomous O
 The Web3 stack is incredibly complex and is evolving at a breakneck pace. This creates a continuous demand for specialists with deep, niche expertise that is rare and highly valuable.
 
 -   **Smart Contract Security:** As the value locked in DeFi protocols grows, the demand for smart contract security auditors who can prevent catastrophic hacks becomes ever more intense.
--   **Zero-Knowledge Proofs:** The development of ZK-Rollups and other privacy-preserving technologies has created a massive demand for cryptographers and engineers who understand the complex mathematics behind ZK-proofs.
+-   **Zero-Knowledge Proofs:** The development of ZK-Rollups and other privacy-preserving technologies has created a massive demand for cryptographers and engineers who understand the complex mathematics behind [ZK-proofs](/zero-knowledge-proofs-explained).
 -   **Protocol Research:** The competitive landscape requires protocols to constantly innovate. This creates roles for researchers who can design the next generation of AMMs, lending protocols, and governance systems.
 -   **On-Chain Data Analysis:** The transparency of blockchains has created a new field of data science focused on analyzing on-chain data to understand user behavior and market trends.
 
@@ -45,5 +45,3 @@ Web3 is expanding far beyond its initial roots in finance. The application of bl
 -   **DePIN (Decentralized Physical Infrastructure Networks):** These projects use tokens to incentivize the creation of real-world infrastructure, from wireless networks to energy grids, creating a need for hardware engineers and operations experts.
 
 The Web3 job market is not a fleeting trend. It is the result of fundamental technological and organizational shifts that are creating a new, parallel economy. The combination of massive funding, the innovative structure of DAOs, and a constant need for specialized talent has created a robust and rapidly expanding landscape of opportunity. For those with the right skills and the willingness to learn, the Web3 industry offers the chance to build a career with unparalleled impact and reward.
-
-    
