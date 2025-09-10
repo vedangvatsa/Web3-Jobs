@@ -310,7 +310,9 @@ export default async function CommunityPage() {
           </section>
 
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-8">Multi-Channel Presence</h2>
+            <div className="text-center mb-12">
+                 <TransitioningHeadline phrases={["Multi-Channel Presence", "Our Global Channels", "Connect With Us"]} />
+            </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
               {channels.map((channel) => (
                 <Card key={channel.title} className="text-center">
@@ -328,9 +330,9 @@ export default async function CommunityPage() {
             </div>
           </section>
 
-          <section className="my-16">
-              <div className="text-center mb-8">
-                  <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><Briefcase /> Latest Jobs</h2>
+           <section className="my-16">
+              <div className="text-center mb-12">
+                   <TransitioningHeadline phrases={["Latest Jobs", "Hottest Roles", "Your Next Career"]} />
               </div>
               <JobListings jobs={latestJobs} />
               <div className="text-center mt-8">
@@ -361,8 +363,10 @@ export default async function CommunityPage() {
           </section>
           
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-2">Case Studies</h2>
-            <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
+            <div className="text-center mb-12">
+                <TransitioningHeadline phrases={["Case Studies", "Success Stories", "Our Impact"]} />
+                <p className="text-center text-muted-foreground mt-4">We’ve helped many companies find the right audience.</p>
+            </div>
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
               {caseStudies.map(study => (
                 <Card key={study.title} className="overflow-hidden">
@@ -383,7 +387,9 @@ export default async function CommunityPage() {
           </section>
           
           <section className="mb-16">
-             <h2 className="text-3xl font-bold text-center text-primary mb-8">Listen to our Podcasts</h2>
+             <div className="text-center mb-12">
+                <TransitioningHeadline phrases={["Listen to our Podcasts", "Audio Insights", "Web3 On Air"]} />
+             </div>
              <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
                 <Card>
                     <CardHeader><CardTitle>Arabic Podcast</CardTitle></CardHeader>
@@ -419,8 +425,10 @@ export default async function CommunityPage() {
           </section>
 
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-2">Join Our Regional WhatsApp Groups</h2>
-            <p className="text-center text-muted-foreground mb-8 max-w-3xl mx-auto">Connect with awesome Web3 folks in your region. Please note: You will only be approved for the group that matches your WhatsApp number's country code.</p>
+            <div className="text-center mb-12">
+                <TransitioningHeadline phrases={["Join Our Regional Groups", "Connect Locally", "Global Network"]} />
+                <p className="text-center text-muted-foreground mt-4 max-w-3xl mx-auto">Connect with awesome Web3 folks in your region. Please note: You will only be approved for the group that matches your WhatsApp number's country code.</p>
+            </div>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
               {whatsappGroups.map((group) => (
                 <a href={group.link} key={group.region} target="_blank" rel="noopener noreferrer">
@@ -433,8 +441,8 @@ export default async function CommunityPage() {
           </section>
 
            <section className="my-16">
-              <div className="text-center mb-8">
-                  <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><Newspaper /> News Feed</h2>
+              <div className="text-center mb-12">
+                  <TransitioningHeadline phrases={["News Feed", "The Latest Updates", "Crypto Insights"]} />
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {latestNews.map((item, index) => <NewsCard key={index} item={item} />)}
@@ -447,8 +455,10 @@ export default async function CommunityPage() {
           </section>
           
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-2">Community Moments</h2>
-            <p className="text-center text-muted-foreground mb-8">Highlights from events, partnerships, and community activities.</p>
+            <div className="text-center mb-12">
+                <TransitioningHeadline phrases={["Community Moments", "Event Highlights", "Our Global Presence"]} />
+                <p className="text-center text-muted-foreground mt-4">Highlights from events, partnerships, and community activities.</p>
+            </div>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
               {communityPhotos.map((photo, index) => (
                 <div key={index} className="group relative aspect-square overflow-hidden rounded-lg">
@@ -467,7 +477,9 @@ export default async function CommunityPage() {
 
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
+                <div className="text-center mb-12">
+                    <TransitioningHeadline phrases={["Our Partners", "Trusted By The Best", "Ecosystem Collaborators"]} />
+                </div>
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
@@ -493,7 +505,9 @@ export default async function CommunityPage() {
           
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">As seen on</h3>
+                <div className="text-center mb-12">
+                    <TransitioningHeadline phrases={["As Seen On", "Media Features", "In The News"]} />
+                </div>
                 <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {mediaLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
@@ -506,8 +520,8 @@ export default async function CommunityPage() {
           </section>
 
           <section className="my-16">
-              <div className="text-center mb-8">
-                  <h2 className="text-3xl font-bold text-primary flex items-center justify-center gap-3"><BookOpen /> From the Playbook</h2>
+              <div className="text-center mb-12">
+                  <TransitioningHeadline phrases={["From the Playbook", "Latest Articles", "Web3 Insights"]} />
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                   {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
@@ -562,7 +576,9 @@ export default async function CommunityPage() {
 
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Job roles promoted for</h3>
+                 <div className="text-center mb-12">
+                    <TransitioningHeadline phrases={["Job Roles Promoted", "Featured Opportunities", "Careers We Support"]} />
+                </div>
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {hiredCompanies.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
@@ -588,7 +604,9 @@ export default async function CommunityPage() {
             </section>
 
           <section className="text-center py-16 bg-primary/5 rounded-lg">
-             <h2 className="text-3xl font-bold text-primary mb-2">Connect with our representative</h2>
+            <div className="text-center mb-12">
+                <TransitioningHeadline phrases={["Connect with our Representative", "Let's Grow Together", "Start Your Campaign"]} />
+            </div>
              <p className="text-muted-foreground mb-8">Share your requirements, and we’ll recommend the most effective strategy.</p>
              <div className="flex justify-center gap-4">
                 <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
@@ -603,3 +621,5 @@ export default async function CommunityPage() {
     </div>
   );
 }
+
+    
