@@ -1,15 +1,18 @@
 ---
-title: 'The Rise of DAOs: How to Get a Job in a Decentralized Organization'
+title: 'The Rise of DAOs: A Guide to Decentralized Organizations'
 image: 'https://images.unsplash.com/photo-1664526937033-fe2c11f1be25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxEZWNlbnRyYWxpemVkfGVufDB8fHx8MTc1NDk1NDM2OXww&ixlib=rb-4.1.0&q=80&w=1080'
+data-ai-hint: 'decentralized autonomous organization'
 description: 'DAOs are transforming how we work. Learn what a Decentralized Autonomous Organization is, what kinds of jobs they offer, and the practical steps you can take to land a role in one.'
 category: 'Industry Insights'
 ---
 
 The traditional corporate structure has been the default model for organizing work for over a century: a top-down hierarchy with C-level executives, middle managers, and employees. But what if there was another way? What if a company could be run by a community, with decisions made transparently by its members and rules enforced by code? This is the revolutionary promise of the DAO, or Decentralized Autonomous Organization.
 
-DAOs are one of the most exciting and fast-growing sectors in the Web3 ecosystem. They are internet-native organizations where control is spread out amongst its members instead of being centralized in a single entity. They use smart contracts on a blockchain to automate rules and facilitate collective decision-making, often through token-based voting. From managing massive DeFi protocols to funding public goods and curating NFT collections, DAOs are creating new models for collaboration and governance.
+DAOs are one of an internet-native organization that is owned and managed by its members. They use [smart contracts](/what-are-smart-contracts) on a blockchain to create a transparent and tamper-proof set of rules, and they are governed by the votes of their members, often through the use of governance tokens.
 
-More importantly for job seekers, they are creating a new type of job market. Working for a DAO is fundamentally different from a traditional job. It's often more flexible, more transparent, and more meritocratic. This guide will explore what DAOs are, the types of roles they offer, the skills you need to succeed, and a step-by-step plan for finding and landing your first DAO job.
+From managing massive DeFi protocols to funding public goods and curating NFT collections, DAOs are creating new models for collaboration and governance.
+
+More importantly for job seekers, they are creating a new type of job market. Working for a DAO is fundamentally different from a traditional job. It's often more flexible, more transparent, and more meritocratic. This guide will explore [what DAOs are](/what-is-a-dao), the types of roles they offer, the skills you need to succeed, and a step-by-step plan for finding and landing your first DAO job.
 
 ## What Exactly is a DAO?
 
@@ -70,7 +73,7 @@ This is the most important step. You need to start adding value before you ask f
 
 ### Step 4: Build Relationships
 
-As you contribute, make an effort to get to know the other members, especially the active contributors and core team.
+As you contribute, make an effort to get to know the other members, especially the active contributors and the core team.
 -   **Be Active on Community Calls:** Turn your camera on, ask smart questions, and participate in breakout rooms.
 -   **Connect on Twitter:** Follow key contributors and engage with their content.
 -   **Be a Good Hang:** DAOs are social entities. Be friendly, collaborative, and easy to work with.

@@ -1,6 +1,7 @@
 ---
-title: "How to Negotiate Your Web3 Salary and Compensation"
+title: "How to Negotiate Your Web3 Salary and Compensation Package"
 image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnl8ZW58MHx8fHwxNzU1MDA4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+data-ai-hint: "salary money negotiation"
 description: "A practical guide to negotiating your Web3 job offer. Learn how to evaluate token packages, understand vesting schedules, and maximize your total compensation in a crypto-native world."
 category: "Career Guides"
 ---
@@ -33,7 +34,7 @@ Your offer will likely consist of three main parts. Your goal is to understand t
 
 ### A Framework for Negotiation
 
-1.  **Do Your Research:** Before you even get to the offer stage, research typical salary bands for your role and experience level. Use resources like our [Web3 Developer Salary Guide](/web3-developer-salary) and talk to others in the industry to get a sense of the market rate.
+1.  **Do Your Research:** Before you even get to the offer stage, research typical salary bands for your role and experience level. Use resources like our [Web3 Developer Salary Guide](/web3-developer-salaries-2025) and talk to others in the industry to get a sense of the market rate.
 
 2.  **Decide on Your Personal Risk Profile:** How much of your compensation are you comfortable with being in volatile, high-upside assets?
     -   **Lower Risk:** Negotiate for a higher base salary and a smaller token package.

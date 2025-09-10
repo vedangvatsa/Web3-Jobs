@@ -1,5 +1,5 @@
 ---
-title: "How to Become a Web3 Smart Contract Developer"
+title: "How to Become a Smart Contract Developer"
 image: "/images/tommy-texter-T42j_xLOqw0-unsplash.jpg"
 data-ai-hint: "smart contract developer"
 description: "Your complete guide to becoming a smart contract developer. Learn the essential skills, languages, tools, and projects you need to build a successful career in Web3."

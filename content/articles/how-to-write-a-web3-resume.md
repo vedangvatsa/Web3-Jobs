@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Web3 Resume That Gets Noticed"
+title: "The Perfect Web3 Resume: How to Stand Out"
 image: "/images/thisisengineering-83udtzyaTS4-unsplash.jpg"
 data-ai-hint: "resume cv job"
 description: "Your traditional resume isn't enough for the crypto space. Learn how to craft a Web3-native resume that highlights your on-chain activity, DAO contributions, and proof of work to land your dream job."
@@ -18,7 +18,7 @@ The single most important rule for a Web3 resume is to **provide verifiable proo
 
 -   **Don't just say you're a good writer.** Link to your blog on Mirror or your Twitter threads analyzing protocols.
 -   **Don't just say you can code.** Link to your GitHub profile, which should be filled with personal projects and open-source contributions.
--   **Don't just say you're an active community member.** Link to your contributions in a DAO or a governance forum.
+-   **Don't just say you're an active community member.** Link to your contributions in a [DAO](/how-to-contribute-to-daos-and-get-paid) or a governance forum.
 
 ### Structuring Your Web3 Resume
 

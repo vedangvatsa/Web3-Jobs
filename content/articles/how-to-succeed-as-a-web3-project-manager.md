@@ -1,8 +1,8 @@
 ---
-title: "How to Succeed as a Web3 Project Manager"
+title: "A Career Guide for Web3 Product Managers"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 data-ai-hint: "product manager career"
-description: "Web3 needs product managers. Learn about the unique challenges and opportunities of being a PM in a decentralized world, from managing community-led roadmaps to designing token-based economies."
+description: "Web3 needs product managers. Learn about the unique challenges of being a PM in a decentralized world, from managing community-led roadmaps to designing token-based economies."
 category: "Career Guides"
 ---
 

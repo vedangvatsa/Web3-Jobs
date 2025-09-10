@@ -1,5 +1,5 @@
 ---
-title: "Web3 Jobs for Beginners: Your Roadmap to a Career"
+title: "Web3 Jobs for Beginners: A Roadmap to Your First Role"
 image: "/images/markus-spiske-hvSr_CVecVI-unsplash.jpg"
 data-ai-hint: "career roadmap journey"
 description: "A step-by-step guide for complete beginners looking to get a job in Web3. Learn the foundational skills and first steps to take to land an entry-level role in the crypto industry."
@@ -58,7 +58,7 @@ The key is to create "proof of work"—public, verifiable evidence of your skill
 Once you have some experience and a small portfolio of work, you can start looking for more formal roles.
 
 -   **Network Authentically:** The relationships you build in Discord servers and on Twitter are your professional network. Don't just ask for a job; build genuine connections by being a valuable contributor.
--   **Tailor Your Resume:** Reframe your traditional experience using the language of Web3. A "social media manager" becomes a "community builder." Most importantly, add a "Web3 Contributions" section to your [resume](/how-to-write-a-web3-resume) and link directly to your work.
+-   **Tailor Your Resume:** Reframe your traditional experience using the language of Web3. A "social media manager" becomes a "community builder." Most importantly, add a "Web3 Contributions" section to your resume and link directly to your work.
 -   **Entry-Level Roles to Look For:**
     -   Community Moderator
     -   Marketing Assistant
