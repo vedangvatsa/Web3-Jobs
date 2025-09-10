@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute to DAOs and Get Paid in Tokens"
+title: "How to Contribute to a DAO and Get Paid"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "dao crypto tokens"
 description: "A practical guide to starting your career in a DAO. Learn how to find the right DAO, make your first contribution, take on bounties, and get paid for your work in the decentralized economy."
@@ -55,7 +55,7 @@ Once you've made a few initial contributions, you're ready to take on a paid "bo
 
 If you consistently deliver value through bounties and community participation, you will become a trusted member of the DAO. This is where larger opportunities open up.
 
--   **Join a Guild or Working Group:** Most DAOs have semi-formal working groups for specific functions (e.g., Marketing Guild, Treasury Guild). Your track record will make you a strong candidate to join one of these groups, which often come with a monthly stipend for ongoing work.
+-   **Join a Guild or Working Group:** Most DAOs have semi-formal working groups for specific functions (e.g., Marketing Guild, Treasury Guild). Your track record will make you a strong candidate to join one of these groups, which often come with a regular monthly stipend for ongoing work.
 -   **Write a Grant Proposal:** You might see a larger, more complex problem that needs to be solved. You can write a formal proposal to the DAO's governance, requesting a 3-6 month grant to work on the project. A successful grant proposal is a major accomplishment.
 -   **Get Hired Full-Time:** As DAOs professionalize, many are creating full-time, salaried roles for their most critical functions. Your history as a trusted, high-impact contributor makes you the ideal candidate for these positions. Check out our guide on the [freelance vs. full-time Web3 career paths](/freelance-vs-full-time-web3-career).
 

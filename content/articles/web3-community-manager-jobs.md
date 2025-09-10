@@ -1,6 +1,7 @@
 ---
-title: "So You Want to Be a Web3 Community Manager?"
+title: "The Web3 Community Manager: A Career Guide"
 image: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzU1MTYxNjQxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+data-ai-hint: "web3 community manager"
 description: "The ultimate guide to the most important non-technical role in crypto. Learn what a Web3 community manager does, the skills required, and how to land a job at the heart of a decentralized project."
 category: "Career Guides"
 ---

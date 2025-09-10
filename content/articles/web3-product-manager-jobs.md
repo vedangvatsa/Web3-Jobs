@@ -1,6 +1,7 @@
 ---
-title: "The Rise of the Web3 Product Manager: A Career Guide"
+title: "The Web3 Product Manager: A Career Guide"
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9kdWN0JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NTUxNjEwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+data-ai-hint: "web3 product manager"
 description: "Web3 needs product managers. Learn about the unique challenges and opportunities of being a PM in a decentralized world, from managing community-led roadmaps to designing token-based economies."
 category: "Career Guides"
 ---
@@ -38,7 +39,7 @@ What does the job actually look like?
 ### How to Become a Web3 Product Manager
 
 1.  **Immerse Yourself:** Become an active user of the products you admire. Join their Discords, read their documentation, and vote in their governance.
-2.  **Build Your Public Portfolio:** Write a detailed product critique of an existing DeFi protocol. Create a Dune Dashboard analyzing user behavior. Draft a mock proposal for a feature you think a project should build. Your public "proof of work" is your best resume.
+2.  **Build Your Public Portfolio:** Write a detailed product critique of an existing DeFi protocol. Create a Dune Dashboard analyzing user behavior. Draft a mock proposal for a feature you think a project should build. Your public "[proof of work](/how-to-build-a-public-on-chain-developer-brand)" is your best resume.
 3.  **Specialize:** The Web3 space is vast. Become an expert in a specific niche, whether it's NFT financialization, liquid staking derivatives, or [decentralized identity](/decentralized-identity-explained). Deep domain expertise is highly valued.
 
 The role of the Web3 Product Manager is one of the most challenging and rewarding in the industry. It's an opportunity to move beyond building apps and start designing entire economies, to manage products that are owned by their users, and to have a real stake in the open, permissionless future of the internet.

@@ -1,5 +1,5 @@
 ---
-title: "From Side Hustle to Career: The World of Web3 Gigs"
+title: "From Web3 Side Hustle to a Full-Time Career"
 image: "/images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg"
 data-ai-hint: "side hustle laptop"
 description: "A guide to the world of Web3 freelancing. Learn how to find and complete bounties, build a reputation in DAOs, and turn part-time contributions into a full-time career."
