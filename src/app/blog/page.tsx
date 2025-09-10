@@ -1,3 +1,4 @@
+
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Header } from '@/components/header';
 import Link from 'next/link';
@@ -90,7 +91,7 @@ export default async function PlaybookIndexPage({ searchParams }: { searchParams
             </div>
 
             <div className="max-w-7xl mx-auto">
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
                   {filteredArticles.map((article) => (
                       <ArticleCard key={article.slug} article={article} />
                   ))}
