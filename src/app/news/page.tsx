@@ -19,7 +19,6 @@ function NewsCardSkeleton() {
       <CardHeader>
         <div className="flex items-center justify-between gap-2 mb-2">
           <Skeleton className="h-5 w-20 rounded-full" />
-          <Skeleton className="h-4 w-24" />
         </div>
         <Skeleton className="h-6 w-3/4" />
       </CardHeader>
@@ -95,9 +94,6 @@ export default function NewsPage() {
                         }>
                           {item.source}
                         </Badge>
-                        <time className="text-xs text-muted-foreground">
-                          {formatDistanceToNow(new Date(item.pubDate), { addSuffix: true })}
-                        </time>
                       </div>
                       <CardTitle className="text-xl">
                         <a href={item.link} target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
