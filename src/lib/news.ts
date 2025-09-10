@@ -21,7 +21,6 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
       const feed = await parser.parseURL(feedInfo.url);
       if (feed?.items) {
         feed.items.forEach((item) => {
-          // Make creator optional to handle feeds that don't provide it.
           if (item.title && item.link && item.pubDate && item.contentSnippet) {
             allItems.push({
               title: item.title,
