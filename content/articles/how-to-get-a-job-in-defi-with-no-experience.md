@@ -8,7 +8,7 @@ category: "Career Guides"
 
 Decentralized Finance (DeFi) is the engine room of Web3, a multi-billion dollar ecosystem dedicated to rebuilding the financial system on open blockchains. It's also one of the most exciting and intellectually challenging sectors to work in. But for newcomers, the barrier to entry can seem incredibly high. Job descriptions are filled with jargon like "impermanent loss," "MEV," and "yield farming." How can you possibly get a job in this space with no prior "crypto" experience?
 
-The secret is that DeFi, like the rest of Web3, runs on a culture of **"proof of work."** Your public contributions and demonstrated knowledge are far more valuable than your resume. This guide provides a step-by-step roadmap for how anyone, regardless of their background, can build the skills and portfolio needed to [land their first job in DeFi](/how-to-get-a-job-in-defi).
+The secret is that DeFi, like the rest of Web3, runs on a culture of **"proof of work."** Your public contributions and demonstrated knowledge are far more valuable than your resume. This guide provides a step-by-step roadmap for how anyone, regardless of their background, can build the skills and portfolio needed to [land their first job in DeFi](/defi-careers).
 
 ### Step 1: Deep Immersion - Become a Degen
 
@@ -57,4 +57,4 @@ Your public portfolio is your entry ticket to the network.
 -   **Contribute to DAOs:** Your thoughtful governance comments will get you noticed by DAO delegates and core contributors. This often leads to invitations to join working groups or even grant-funded projects.
 -   **Engage Authentically:** Don't just DM people asking for a job. Build genuine relationships by discussing their work, offering feedback, and being a helpful member of the community.
 
-Breaking into DeFi requires initiative and a deep intellectual curiosity. It's a field that rewards those who are passionate enough to learn in public and contribute permissionlessly. By following this roadmap, you can build a powerful "proof of work" portfolio that will make your lack of formal "experience" irrelevant.
+Breaking into DeFi requires initiative and a deep intellectual curiosity. It's a field that rewards those who are passionate enough to learn in public and contribute permissionlessly. By following this roadmap, you can build a powerful "proof of work" portfolio that will
