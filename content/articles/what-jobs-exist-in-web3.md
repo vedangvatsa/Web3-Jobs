@@ -1,5 +1,5 @@
 ---
-title: "What Jobs Exist in Web3? The Top 10 Most In-Demand Roles"
+title: "What Jobs Exist in Web3? A Guide to the Top Roles"
 image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
 data-ai-hint: "job opportunity empty chair"
 description: "Explore the most sought-after jobs in the Web3 ecosystem, from Solidity development to community management, and discover the skills you need to succeed in the decentralized economy."
@@ -11,7 +11,7 @@ The Web3 revolution is well underway, and it's creating a tidal wave of new care
 ## 1. Smart Contract Developer
 *The architects of the decentralized world.*
 
-This is perhaps the most quintessential Web3 role. Smart contract developers are the engineers who build the core logic of decentralized applications (dApps). They write, test, and deploy the immutable code that powers everything from DeFi protocols to NFT marketplaces.
+This is perhaps the most quintessential Web3 role. [Smart contract developers](/smart-contract-jobs) are the engineers who build the core logic of decentralized applications (dApps). They write, test, and deploy the immutable code that powers everything from [DeFi protocols](/what-is-defi) to [NFT marketplaces](/what-are-nfts).
 
 ### Key Responsibilities:
 - Writing secure, efficient, and gas-optimized smart contracts in languages like Solidity or Rust.
@@ -20,7 +20,7 @@ This is perhaps the most quintessential Web3 role. Smart contract developers are
 - Conducting rigorous testing and participating in security audits.
 
 ### Essential Skills:
-Deep understanding of blockchain principles, proficiency in Solidity, experience with development frameworks like Hardhat or Foundry, and a security-first mindset.
+Deep understanding of blockchain principles, proficiency in [Solidity](/solidity-for-beginners), experience with development frameworks like Hardhat or Foundry, and a security-first mindset.
 
 ## 2. Community Manager
 *The heart and soul of a Web3 project.*
@@ -48,12 +48,12 @@ While smart contract developers build the backend, frontend developers create th
 - Ensuring the application is secure and user-friendly.
 
 ### Essential Skills:
-Strong proficiency in JavaScript/TypeScript, React, and CSS. Experience with Web3 libraries and a good understanding of how users interact with dApps are crucial.
+Strong proficiency in JavaScript/TypeScript, React, and CSS. Experience with Web3 libraries and a good understanding of how users interact with dApps are crucial. Learn more in our [Web2 to Web3 transition guide](/from-web2-to-web3).
 
 ## 4. Product Manager
 *The strategists who define the "what" and "why" of a project.*
 
-Web3 Product Managers guide the vision and development of a product. They must deeply understand user needs, the competitive landscape, and the unique technical constraints and opportunities of blockchain technology. They define the product roadmap and work closely with developers, designers, and marketers to bring it to life.
+[Web3 Product Managers](/web3-product-manager-jobs) guide the vision and development of a product. They must deeply understand user needs, the competitive landscape, and the unique technical constraints and opportunities of blockchain technology. They define the product roadmap and work closely with developers, designers, and marketers to bring it to life.
 
 ### Key Responsibilities:
 - Conducting user research and market analysis.
@@ -81,7 +81,7 @@ Strong writing skills, creativity, a deep understanding of crypto culture and me
 ## 6. Smart Contract Security Auditor
 *The guardians who protect projects from catastrophic failure.*
 
-Given that smart contract exploits can lead to the loss of millions of dollars, security auditors are among the most critical and well-compensated professionals in Web3. They perform meticulous code reviews to identify vulnerabilities before a contract is deployed.
+Given that [smart contract exploits](/common-smart-contract-vulnerabilities-explained) can lead to the loss of millions of dollars, security auditors are among the most critical and well-compensated professionals in Web3. They perform meticulous code reviews to identify vulnerabilities before a contract is deployed.
 
 ### Key Responsibilities:
 - Manually reviewing smart contract code for common vulnerabilities.
@@ -95,7 +95,7 @@ Expert-level understanding of the Ethereum Virtual Machine (EVM), deep knowledge
 ## 7. Protocol Designer / Researcher
 *The theorists and economists who design the systems.*
 
-These are the big thinkers who design the economic and governance models (often called "tokenomics") that underpin a protocol. They use principles from game theory, economics, and computer science to create systems with the right incentives to ensure long-term stability and growth.
+These are the big thinkers who design the economic and governance models (often called "[tokenomics](/understanding-tokenomics)") that underpin a protocol. They use principles from game theory, economics, and computer science to create systems with the right incentives to ensure long-term stability and growth.
 
 ### Key Responsibilities:
 - Researching and analyzing existing protocols.
@@ -118,7 +118,7 @@ One of the biggest hurdles for Web3 adoption is its often-clunky user experience
 - Simplifying complex interactions like transaction signing and gas fees.
 
 ### Essential Skills:
-Proficiency in design tools like Figma, a strong portfolio, and a deep sense of empathy for the user. Understanding the unique challenges of Web3 UX is key.
+Proficiency in design tools like Figma, a strong portfolio, and a deep sense of empathy for the user. Understanding the unique challenges of [Web3 UX](/web3-ux-design) is key.
 
 ## 9. Data Analyst / Scientist
 *The detectives who find insights in on-chain data.*
@@ -146,4 +146,4 @@ Web3 is complex, and clear, concise documentation is essential for developers an
 - Working closely with the development team to ensure accuracy.
 
 ### Essential Skills:
-Excellent writing and communication skills, the ability to understand complex technical topics, and a knack for explaining them simply. A technical background is often required.
+Excellent writing and communication skills, the ability to understand complex technical topics, and a knack for explaining them simply. A technical background is often required. Learn more about [becoming a Web3 technical writer](/becoming-a-web3-technical-writer).
