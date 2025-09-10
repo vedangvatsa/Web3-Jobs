@@ -48,7 +48,7 @@ Your personal website is the brochure; your GitHub is the detailed specification
 
 3.  **A Clean Profile:**
     *   Use a professional profile picture.
-    -   Write a clear bio that links to your personal website and Twitter.
+    *   Write a clear bio that links to your personal website and Twitter.
     *   Keep your activity graph green with consistent contributions.
 
 ### Your Public Content: Demonstrating Expertise

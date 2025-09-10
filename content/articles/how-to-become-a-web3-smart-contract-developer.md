@@ -3,7 +3,7 @@ title: "How to Become a Smart Contract Developer"
 image: "/images/tommy-texter-T42j_xLOqw0-unsplash.jpg"
 data-ai-hint: "smart contract developer"
 description: "Your complete guide to becoming a smart contract developer. Learn the essential skills, languages, tools, and projects you need to build a successful career in Web3."
-category: "Career Guides"
+category: "Getting Started"
 ---
 
 Becoming a smart contract developer is one of the most exciting and lucrative career paths in technology today. As the world transitions towards a more decentralized internet, the demand for engineers who can build secure and efficient decentralized applications (dApps) has skyrocketed. But for newcomers, the path can seem daunting. What languages do you need to learn? What tools are essential? And what kind of projects should you build to prove your skills?
@@ -65,4 +65,4 @@ The best way to learn is by building. Follow this project progression to build y
 - **Twitter & Farcaster:** Follow and interact with builders in the space. Share what you're learning.
 - **Hackathons:** Participate in hackathons like those hosted by ETHGlobal. They are a great way to learn fast, meet people, and win grants.
 
-The journey to becoming a smart contract developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building, you'll acquire the skills and portfolio
+The journey to becoming a smart contract developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building, you'll acquire the skills and portfolio needed to land a high-impact role in this revolutionary industry.
