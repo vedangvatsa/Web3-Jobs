@@ -2,7 +2,6 @@
 'use client';
 
 import * as React from 'react';
-import { getNewsFeed } from '@/lib/news';
 import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
 import Link from 'next/link';
