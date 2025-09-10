@@ -1,5 +1,5 @@
 ---
-title: "Building a Web3 Portfolio That Gets You Hired"
+title: "How to Build a Strong Web3 Portfolio to Get Hired"
 image: "/images/alex-knight-2EJCSULRwC8-unsplash.jpg"
 data-ai-hint: "portfolio website design"
 description: "In Web3, your GitHub is your resume. This guide covers the essential projects you need in your portfolio to land a job as a blockchain developer, from simple tokens to full-stack dApps."
@@ -8,13 +8,13 @@ category: "Career Guides"
 
 In the Web3 job market, your resume is secondary. Your LinkedIn profile is an afterthought. The single most important asset in your job search as a developer is your portfolio—specifically, your GitHub profile. Hiring managers and technical recruiters in this space are looking for tangible proof of your skills. They want to see that you can write clean, secure Solidity code, that you can build intuitive frontends that interact with the blockchain, and that you have a genuine passion for the technology that extends beyond your day job.
 
-A well-crafted portfolio of personal projects is the ultimate signal that you have what it takes. This guide provides a practical, step-by-step roadmap for [building a Web3 developer portfolio](/web3-developer-portfolio) that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational smart contracts to a full-stack dApp.
+A well-crafted portfolio of personal projects is the ultimate signal that you have what it takes. This guide provides a practical, step-by-step roadmap for [building a Web3 portfolio](/building-web3-portfolio) that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational smart contracts to a full-stack dApp.
 
 ### Foundational Principles for Your Portfolio
 
 - **Quality over Quantity:** Three high-quality, well-documented projects are infinitely better than ten half-finished ones.
 - **Detailed READMEs are Non-Negotiable:** Every project repository MUST have a detailed `README.md` file. Explain what the project is, the technical challenges you faced, how to run it locally, and include screenshots or a link to a live demo. A great README shows that you are a strong communicator.
-- **Write Tests!** Nothing signals professionalism more than a comprehensive test suite. Your tests show that you are a serious engineer who cares about code quality and security. Use Hardhat or Foundry to write thorough tests for every smart contract.
+- **Write Tests!** Nothing signals professionalism more than a comprehensive test suite. Your tests show that you are a serious engineer who cares about code quality and security. Use Hardhat or [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) to write thorough tests for every smart contract.
 - **Show Your Progress:** Your GitHub activity graph should be green. Consistent commits show dedication and a passion for building.
 
 ### The Portfolio Project Roadmap
@@ -24,7 +24,7 @@ Follow this progression to build your skills and your portfolio from the ground 
 #### Project 1: Your Own ERC-20 Token
 
 - **What it is:** A simple, fungible cryptocurrency that conforms to the ERC-20 standard.
-- **Why it matters:** This is the "Hello, World!" of smart contract development. It demonstrates that you understand token standards, can work with established interfaces (like OpenZeppelin's ERC20 implementation), and can write basic Solidity.
+- **Why it matters:** This is the "Hello, World!" of smart contract development. It demonstrates that you understand token standards, can work with established interfaces (like OpenZeppelin's ERC20 implementation), and can write basic [Solidity](/solidity-for-beginners).
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, Hardhat/Foundry.
 - **Bonus Steps:**
   - Deploy it to a public testnet like Sepolia.

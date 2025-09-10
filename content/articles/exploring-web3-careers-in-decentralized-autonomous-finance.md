@@ -1,5 +1,5 @@
 ---
-title: "Exploring Web3 Careers in Decentralized Finance (DeFi)"
+title: "Exploring Web3 Careers in Decentralized Autonomous Finance (DeFi)"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "decentralized finance defi"
 description: "A deep dive into the career landscape of Decentralized Finance (DeFi). Explore the key roles, from smart contract engineering to quantitative analysis, and learn what it takes to work in this innovative sector."
