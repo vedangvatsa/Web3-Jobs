@@ -5,14 +5,14 @@ description: 'A strong portfolio is essential for landing a Web3 job. Learn what
 category: 'Career Guides'
 ---
 
-In the Web3 world, your portfolio is more than just a collection of past work—it's your proof of competence, passion, and understanding. Unlike the traditional tech industry, where resumes and credentials often take center stage, Web3 is a "show, don't tell" culture. Hiring managers want to see what you've actually built, contributed to, and interacted with on-chain. A well-crafted portfolio is the single most important asset for anyone looking to land a job in this space, whether you're a developer, designer, or community builder. This guide provides a practical framework for building a standout Web3 portfolio, with specific project ideas tailored to different roles and skill levels. We'll cover what to build, how to present it, and how to leverage your on-chain activity as a living resume.
+In the Web3 world, your portfolio is more than just a collection of past work—it's your proof of competence, passion, and understanding. Unlike the traditional tech industry, where resumes and credentials often take center stage, Web3 is a "show, don't tell" culture. Hiring managers want to see what you've actually built, contributed to, and interacted with on-chain. A well-crafted portfolio is the single most important asset for anyone looking to [land a job in this space](/how-to-land-first-web3-job), whether you're a developer, designer, or community builder. This guide provides a practical framework for building a standout Web3 portfolio, with specific project ideas tailored to different roles and skill levels. We'll cover what to build, how to present it, and how to leverage your on-chain activity as a living resume.
 
 ## The Three Pillars of a Web3 Portfolio
 
 A powerful Web3 portfolio rests on three key pillars. You should aim to have something to show for each.
 
 1.  **Your GitHub: The Code** - For technical roles, this is your bedrock. It showcases your coding skills, your understanding of Web3 principles, and your ability to ship projects. It should be active and well-organized.
-2.  **Your On-Chain Identity: The Activity** - Your public wallet address (ideally an ENS name like "yourname.eth") is a transparent record of your journey. It shows which protocols you've used, which DAOs you've voted in, and which NFTs you've collected.
+2.  **Your On-Chain Identity: The Activity** - Your public wallet address (ideally an ENS name like "yourname.eth") is a transparent record of your journey. It shows which protocols you've used, which [DAOs](/what-is-a-dao) you've voted in, and which NFTs you've collected.
 3.  **Your Public Content: The Expertise** - This is your proof of knowledge. It includes blog posts, Twitter threads, Dune dashboards, or any other content that demonstrates your expertise and ability to communicate complex ideas.
 
 ## Portfolio Projects for Smart Contract Developers
@@ -25,7 +25,7 @@ Your goal is to demonstrate a deep understanding of Solidity, security best prac
 -   Verifiable Lottery: A smart contract for a lottery system where the winner is chosen in a provably random and fair way.
 
 ### Intermediate Projects:
--   ERC-721 NFT Collection: Create your own NFT collection with unique minting mechanics (e.g., allowlist, bonding curve).
+-   ERC-721 [NFT Collection](/what-are-nfts): Create your own NFT collection with unique minting mechanics (e.g., allowlist, bonding curve).
 -   On-Chain Governance System: Build a basic DAO where token holders can create and vote on proposals.
 -   Decentralized Staking Protocol: A contract where users can stake one token to earn rewards in another.
 
@@ -51,11 +51,11 @@ For marketing, community, or operations roles, your portfolio is a collection of
 -   **Content & Thought Leadership:** Write a series of high-quality blog posts or Twitter threads analyzing a specific sector of Web3 (e.g., "The State of Decentralized Derivatives" or "A Deep Dive into NFT Financialization").
 -   **Data Analysis Dashboards:** Create a comprehensive Dune Analytics dashboard for a protocol you admire. Track key metrics like daily active users, trading volume, and governance participation. Share your insights on Twitter.
 -   **Community Building:** Become a highly respected contributor in a DAO. Take on a project, like revamping their onboarding documentation or organizing community calls. Document your contributions and impact.
--   **Go-to-Market Strategy:** Create a detailed, public marketing and growth strategy for a new, hypothetical Web3 project. This demonstrates your strategic thinking and an understanding of the Web3 marketing landscape.
+-   **Go-to-Market Strategy:** Create a detailed, public marketing and growth strategy for a new, hypothetical Web3 project. This demonstrates your strategic thinking and an understanding of the [Web3 marketing landscape](/web3-marketing).
 
 ## Presenting Your Portfolio
 
-How you present your work matters. Don't just send a list of links. Create a simple, clean personal website that acts as the central hub for your portfolio.
+How you [present your work](/how-to-present-your-web3-portfolio-to-get-noticed) matters. Don't just send a list of links. Create a simple, clean personal website that acts as the central hub for your portfolio.
 
 -   Use an ENS name for your website (e.g., yourname.eth.limo).
 -   Clearly link to your GitHub, Twitter, and wallet address.

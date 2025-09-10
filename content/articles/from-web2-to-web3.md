@@ -9,7 +9,7 @@ You're a seasoned Web2 developer. You've mastered React, you can spin up a REST 
 
 The good news is that your existing skills are incredibly valuable. The Web3 space is desperate for experienced developers who know how to build robust, scalable applications. However, transitioning from Web2 to Web3 is more than just learning a new programming language or framework. It requires a fundamental shift in how you think about architecture, security, and the very nature of an application.
 
-This guide is designed for you, the experienced Web2 developer. We'll skip the basic "what is a blockchain" explanations and dive straight into the practicalities of the transition. We'll cover the core mental models you need to adopt, the key differences in the tech stack, a recommended learning path, and how to position your existing experience to land your first Web3 role.
+This guide is designed for you, the experienced Web2 developer. We'll skip the basic ["what is a blockchain"](/what-is-a-blockchain) explanations and dive straight into the practicalities of the transition. We'll cover the core mental models you need to adopt, the key differences in the tech stack, a recommended learning path, and how to position your existing experience to [land your first Web3 role](/how-to-land-first-web3-job).
 
 ## The Core Mindset Shift From Centralized to Decentralized
 
@@ -23,7 +23,7 @@ This is the most important and often most difficult part of the transition. You 
 -   **Security is about Protecting the Server**: Focus is on preventing unauthorized access to your infrastructure.
 
 ### Web3 Paradigm (Decentralized)
--   **The Backend is a Public Utility**: Your "backend" (smart contracts) is open, transparent, and can be used by anyone.
+-   **The Backend is a Public Utility**: Your "backend" ([smart contracts](/what-are-smart-contracts)) is open, transparent, and can be used by anyone.
 -   **Trust, but Verify (on-chain)**: The blockchain itself is the source of truth. Your app must react to its public state.
 -   **Data is Immutable**: Once data is on the blockchain, it's permanent. No `UPDATE` or `DELETE` commands.
 -   **State is Public**: All data in your smart contracts is publicly readable.
@@ -48,16 +48,16 @@ This is where you'll feel most at home. The user-facing part of a Web3 applicati
 
 This is the biggest departure from Web2. Your backend is no longer a private server you control, but a set of smart contracts deployed on a public blockchain.
 
--   **Language:** **Solidity** is the primary language for the Ethereum Virtual Machine (EVM), which powers Ethereum and most other major blockchains (like Polygon, Avalanche, and BNB Chain). It's a statically-typed, curly-brace language that will feel somewhat familiar to developers who know Java, C++, or TypeScript. **Learning Solidity is essential for backend work.**
+-   **Language:** **Solidity** is the primary language for the Ethereum Virtual Machine (EVM), which powers Ethereum and most other major blockchains (like Polygon, Avalanche, and BNB Chain). It's a statically-typed, curly-brace language that will feel somewhat familiar to developers who know Java, C++, or TypeScript. **Learning [Solidity](/top-5-web3-languages) is essential for backend work.**
 -   **Development Environments:** Instead of Node.js with Express, you'll use a specialized Web3 development environment.
     -   **Hardhat (JavaScript/TypeScript-based):** The most popular choice, especially for those coming from a Node.js background. It allows you to write tests, compile contracts, and manage deployments.
-    -   **Foundry (Solidity-based):** A newer, faster, and increasingly popular choice. With Foundry, you write your tests directly in Solidity, which many find more intuitive.
+    -   **Foundry (Solidity-based):** A newer, faster, and increasingly popular choice. With Foundry, you write your tests directly in Solidity, which many find more intuitive. You can learn more in our [introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit).
 
 ### The "Database" (Data Indexing)
 
 Querying data directly from the blockchain is slow and inefficient. For complex queries (e.g., "show me all the NFTs a user owns"), you need an indexing layer.
 
--   **The Graph:** This is the de facto standard for indexing and querying blockchain data. You write a "subgraph" that defines which smart contract events to listen to and how to store that data. Your frontend can then query this data using a standard **GraphQL** API. If you know GraphQL, you're at a huge advantage here.
+-   **The Graph:** This is the de facto standard for indexing and querying blockchain data. You write a "subgraph" that defines which smart contract events to listen to and how to store that data. Your frontend can then query this data using a standard **GraphQL** API. If you know GraphQL, you're at a huge advantage here. Learn more in our [subgraph development guide](/your-first-subgraph-indexing-blockchain-data-with-the-graph).
 
 ## A Practical Learning Roadmap for Web2 Developers
 
@@ -78,7 +78,7 @@ Here is a structured, step-by-step path to make the transition.
 
 **Goal:** Learn to write, test, and deploy your own basic smart contracts.
 
-1.  **Learn Solidity:** Go through a comprehensive tutorial like CryptoZombies or Speed Run Ethereum. Focus on understanding:
+1.  **Learn Solidity:** Go through a comprehensive tutorial like [CryptoZombies](https://cryptozombies.io/) or [Speed Run Ethereum](https://speedrunethereum.com/). Focus on understanding:
     -   Data types (`uint256`, `address`, `bytes32`).
     -   The difference between `storage`, `memory`, and `calldata`.
     -   Function visibility (`public`, `private`, `internal`, `external`).
@@ -92,8 +92,8 @@ Here is a structured, step-by-step path to make the transition.
 
 1.  **Learn The Graph (Optional but Recommended):** Learn how to create a simple subgraph to index the events from the ERC-20 token you built in Month 2. Update your frontend to fetch data from the subgraph instead of directly from the chain.
 2.  **Start Learning Security:** This is a career-long journey, but you can start now.
-    -   Read about the most common smart contract vulnerabilities (reentrancy, integer overflows, oracle manipulation).
-    -   Study the Secureum bootcamp materials or the Ethernaut CTF (Capture The Flag) challenges.
+    -   Read about the most common [smart contract vulnerabilities](/common-smart-contract-vulnerabilities-explained) (reentrancy, integer overflows, oracle manipulation).
+    -   Study the [Secureum bootcamp materials](https://secureum.xyz/auditing-101/) or the [Ethernaut CTF](https://ethernaut.openzeppelin.com/) (Capture The Flag) challenges.
 3.  **Project:** Build a simple staking contract. Users should be able to deposit your ERC-20 token into the contract and earn more tokens over time as a reward. This is a foundational DeFi primitive and a great portfolio project.
 
 ## How to Leverage Your Web2 Experience

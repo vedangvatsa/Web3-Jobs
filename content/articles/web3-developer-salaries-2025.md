@@ -8,7 +8,7 @@ category: "Career Guides"
 
 The Web3 space is not just a technological frontier; it's a new economic landscape, and for developers, it can be a particularly lucrative one. As venture capital continues to pour into blockchain startups and established companies build out their Web3 divisions, the demand for skilled talent has skyrocketed. This intense demand, coupled with a relative scarcity of experienced blockchain developers, has driven salaries to levels that often surpass their Web2 counterparts. But how much can a Web3 developer actually earn in 2025?
 
-The answer, of course, is complex. Salaries can vary dramatically based on a multitude of factors, including your specific role, years of experience, programming language expertise, the type of company you work for, and even your geographic location. This guide will provide a detailed breakdown of Web3 developer salaries, drawing on industry reports, job board data, and anecdotal evidence from the ecosystem. We'll explore the compensation packages for different roles, the skills that command premium pay, and how factors like equity and token compensation play a crucial role in your total earnings.
+The answer, of course, is complex. Salaries can vary dramatically based on a multitude of factors, including your specific role, years of experience, programming language expertise, the type of company you work for, and even your geographic location. This guide will provide a detailed breakdown of Web3 developer salaries, drawing on industry reports, job board data, and anecdotal evidence from the ecosystem. We'll explore the compensation packages for different roles, the skills that command premium pay, and how factors like equity and token compensation play a crucial role in your total earnings. You can also use our interactive [Web3 Salary Calculator](/salary-calculator) to get a personalized estimate.
 
 ## The Key Factors Influencing Your Web3 Salary
 
@@ -89,7 +89,7 @@ While Web3 is a remote-first industry, geography can still play a role, particul
 
 -   **Tier 1 Hubs (San Francisco, New York):** Tend to offer the highest base salaries to compete for top talent in high-cost-of-living areas.
 -   **Tier 2 Hubs (Austin, Denver, London, Berlin):** Offer competitive salaries, though they may be slightly lower than Tier 1 hubs.
--   **Fully Remote (Location Agnostic):** Many Web3 companies offer a single salary band for a given role, regardless of the employee's location. This has become increasingly common and is a major draw for talent outside of traditional tech hubs.
+-   **Fully Remote (Location Agnostic):** Many Web3 companies offer a single salary band for a given role, regardless of the employee's location. This has become increasingly common and is a major draw for talent.
 
 ## How to Maximize Your Earning Potential
 
@@ -97,7 +97,7 @@ If you're looking to command a top-tier salary in the Web3 space, here are some 
 
 1.  **Specialize in a High-Demand Niche:** Focus on becoming an expert in a specific area like DeFi, ZK (Zero-Knowledge) proofs, or security auditing. Generalists are valuable, but specialists often command higher pay.
 2.  **Master a High-Value Language:** If you have the aptitude, learning Rust can open doors to some of the most challenging and well-compensated roles in the industry.
-3.  **Build a Strong Public Portfolio:** Your GitHub is your resume. Contribute to open-source projects, build your own dApps, and participate in hackathons. A strong portfolio is undeniable proof of your skills.
+3.  **Build a Strong Public Portfolio:** Your GitHub is your resume. Contribute to open-source projects, build your own dApps, and participate in hackathons. A strong [portfolio](/building-a-web3-portfolio) is undeniable proof of your skills.
 4.  **Become a Security Expert:** Even if you're not a full-time auditor, demonstrating a deep understanding of smart contract security will make you a more valuable hire for any team.
 5.  **Negotiate Your Entire Compensation Package:** Don't just focus on the base salary. [Understand how to negotiate your Web3 salary](/web3-salary-negotiation) by evaluating the token package, the vesting schedule, and the potential upside.
 

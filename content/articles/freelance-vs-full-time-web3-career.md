@@ -1,12 +1,12 @@
 ---
 title: "Freelance vs Full-Time: Which Web3 Career Path is Right for You?"
-image: "/images/thisisengineering-32PpagSzeGs-unsplash.jpg"
+image: "/images/thisisengineering-yhCHx8Mc-Kc-unsplash.jpg"
 data-ai-hint: "career path choice"
 description: "Weigh the pros and cons of being a freelance contributor versus a full-time employee in the Web3 ecosystem. This guide helps you decide which path aligns with your skills, goals, and lifestyle."
 category: "Career Guides"
 ---
 
-The Web3 job market is not just creating new roles; it's creating new ways of working. Unlike the traditional tech industry, where the default path is a full-time, salaried position, Web3 offers a vibrant and legitimate alternative: working as a freelance contributor. DAOs, in particular, have fostered a culture of "bounty hunting" and grant-based work, allowing skilled individuals to contribute to multiple projects without being tied to a single employer.
+The Web3 job market is not just creating new roles; it's creating new ways of working. Unlike the traditional tech industry, where the default path is a full-time, salaried position, Web3 offers a vibrant and legitimate alternative: working as a freelance contributor. [DAOs](/what-is-a-dao), in particular, have fostered a culture of "bounty hunting" and grant-based work, allowing skilled individuals to contribute to multiple projects without being tied to a single employer.
 
 This choice between a full-time role and a freelance path is one of the most significant career decisions a Web3 professional can make. Both offer unique advantages and come with distinct challenges. One path provides stability and deep focus, while the other offers flexibility and variety. There is no single "right" answer—the best path depends entirely on your personality, career goals, risk tolerance, and lifestyle preferences.
 
@@ -25,7 +25,7 @@ This path is most similar to a traditional tech job. You are hired by a single c
 
 #### Cons of a Full-Time Role:
 
--   **Less Flexibility:** While most Web3 jobs are remote, a full-time role still comes with expectations around availability, meetings, and being aligned with the team's core working hours.
+-   **Less Flexibility:** While most Web3 jobs are [remote](/remote-web3-jobs), a full-time role still comes with expectations around availability, meetings, and being aligned with the team's core working hours.
 -   **Concentrated Risk:** Your financial success (especially the value of your token package) is tied to the fate of a single project. If the project fails, a significant portion of your net worth could be wiped out.
 -   **Slower Pace of Learning (Breadth):** While you'll gain deep knowledge of one project, you may have less exposure to the wider ecosystem and new technologies compared to a freelancer who works on multiple projects.
 
@@ -37,7 +37,7 @@ This path is most similar to a traditional tech job. You are hired by a single c
 
 ### The Freelance Web3 Contributor (The "DAO-pilled" Path)
 
-This path involves working for multiple DAOs and protocols on a project-by-project basis. You are your own boss, getting paid for specific tasks, known as "bounties," or for longer-term projects through grants.
+This path involves working for multiple DAOs and protocols on a project-by-project basis. You are your own boss, getting paid for specific tasks, known as "bounties," or for longer-term projects through grants. You can learn more in our guide on [how to contribute to DAOs and get paid](/how-to-contribute-to-daos-and-get-paid).
 
 #### Pros of a Freelance Role:
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Resume for Web3 Jobs That Gets Noticed"
+title: "How to Write a Web3 Resume That Gets Noticed"
 image: "/images/thisisengineering-83udtzyaTS4-unsplash.jpg"
 data-ai-hint: "resume cv job"
 description: "Your traditional resume isn't enough for the crypto space. Learn how to craft a Web3-native resume that highlights your on-chain activity, DAO contributions, and proof of work to land your dream job."
@@ -8,9 +8,9 @@ category: "Career Guides"
 
 In the hyper-competitive Web3 job market, your resume is the first touchpoint a recruiter or hiring manager has with your professional identity. But here's the secret: a traditional Web2 resume, with its list of past employers and corporate-speak bullet points, often falls flat. The Web3 industry operates on a different set of values, and your resume needs to reflect that.
 
-Hiring managers in this space are looking for more than just a list of job titles; they are looking for verifiable proof of your skills, a genuine passion for the decentralized ecosystem, and a cultural fit with the industry's "show, don't tell" ethos. Your resume must be a bridge between your traditional experience and your crypto-native "proof of work."
+Hiring managers in this space are looking for more than just a list of job titles; they are looking for verifiable proof of your skills, a genuine passion for the decentralized ecosystem, and a cultural fit with the industry's "show, don't tell" ethos. Your resume must be a bridge between your traditional experience and your crypto-native "[proof of work](/how-to-build-a-public-on-chain-developer-brand)."
 
-This guide will provide a detailed, step-by-step process for crafting the perfect Web3 resume. We'll cover how to structure it, what unique sections to include, and how to frame your experience to capture the attention of Web3 recruiters and land you an interview.
+This guide will provide a detailed, step-by-step process for crafting the perfect Web3 resume. We'll cover how to structure it, what unique sections to include, and how to frame your experience to capture the attention of Web3 recruiters and land you an interview. Our [AI Resume Builder](/resume-builder) can also help you get started.
 
 ### The Foundational Principle: Link Your Proof
 
