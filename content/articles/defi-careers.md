@@ -5,7 +5,7 @@ description: 'A deep dive into the career landscape of Decentralized Finance (De
 category: 'Career Guides'
 ---
 
-Decentralized Finance, or DeFi, is the beating heart of the Web3 revolution. It's a bold and ambitious movement to rebuild the entire financial system on open, permissionless blockchains. Instead of relying on traditional intermediaries like banks, brokerages, and insurers, DeFi uses smart contracts to create a transparent, global, and accessible alternative for lending, borrowing, trading, and earning yield.
+Decentralized Finance, or [DeFi](/what-is-defi), is the beating heart of the Web3 revolution. It's a bold and ambitious movement to rebuild the entire financial system on open, permissionless blockchains. Instead of relying on traditional intermediaries like banks, brokerages, and insurers, DeFi uses smart contracts to create a transparent, global, and accessible alternative for lending, borrowing, trading, and earning yield.
 
 This financial paradigm shift has created a vibrant and rapidly growing job market. DeFi protocols, which collectively manage tens of billions of dollars in value, are in a fierce competition for talent. They need builders, thinkers, strategists, and communicators who can navigate the unique intersection of finance and cutting-edge technology.
 
@@ -33,7 +33,7 @@ The DeFi ecosystem is a complex tapestry of interconnected protocols, each servi
 
 ### Infrastructure & Oracles
 - **Description:** Services that provide essential data (like real-world asset prices) to smart contracts.
-- **Example Protocols:** Chainlink, The Graph
+- **Example Protocols:** [Chainlink](/what-are-oracles), The Graph
 
 Jobs can be found at the protocol level (working for the DAO or company that builds the protocol) or in the surrounding ecosystem (at venture capital firms, security audit firms, or data analytics platforms that focus on DeFi).
 
@@ -86,7 +86,7 @@ No matter your role, you should be able to explain:
 -   The function of an Automated Market Maker (AMM).
 -   The difference between overcollateralized and undercollateralized loans.
 -   What Impermanent Loss is.
--   The concept of Maximal Extractable Value (MEV) and why it matters.
+-   The concept of [Maximal Extractable Value (MEV)](/what-is-mev) and why it matters.
 -   The role of oracles in DeFi.
 
 ### Deep Expertise (The Vertical Bar of the "T")
@@ -113,9 +113,10 @@ Breaking into DeFi can be challenging due to the steep learning curve. The path 
     -   Follow DeFi researchers and builders on Twitter.
     -   Listen to podcasts like Bankless and The Defiant to stay up-to-date.
 
-3.  **Build a Relevant Portfolio:** Your portfolio needs to demonstrate your specific interest in DeFi.
+3.  **Build a Relevant Portfolio:** Your [portfolio](/building-web3-portfolio) needs to demonstrate your specific interest in DeFi.
     -   **For Developers:** Build your own simplified version of a DeFi primitive, like a basic AMM or a staking contract. Participate in a DeFi-focused hackathon.
     -   **For Quants:** Create a Dune Analytics dashboard analyzing a protocol's key metrics. Write a blog post modeling the risks of a new stablecoin.
     -   **For PMs:** Write a detailed product critique of a popular DeFi protocol, identifying UX friction points and proposing solutions.
 
 A career in DeFi is an opportunity to work at the absolute cutting edge of finance and technology. You'll be challenged daily, you'll learn at an incredible pace, and you'll be contributing to a new financial infrastructure that has the potential to be more open and equitable than the system it seeks to replace.
+    
