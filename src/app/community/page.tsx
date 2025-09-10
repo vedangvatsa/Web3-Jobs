@@ -385,6 +385,42 @@ export default async function CommunityPage() {
               ))}
             </div>
           </section>
+          
+          <section className="mb-16">
+             <h2 className="text-3xl font-bold text-center text-primary mb-8">Listen to our Podcasts</h2>
+             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                <Card>
+                    <CardHeader><CardTitle>Arabic Podcast</CardTitle></CardHeader>
+                    <CardContent>
+                        <iframe 
+                            style={{borderRadius: "12px"}}
+                            src="https://open.spotify.com/embed/show/0DqMDHVcPVCN8ilIvBe5BC?utm_source=generator&theme=0" 
+                            width="100%" 
+                            height="152" 
+                            frameBorder="0" 
+                            allowFullScreen
+                            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+                            loading="lazy">
+                        </iframe>
+                    </CardContent>
+                </Card>
+                <Card>
+                    <CardHeader><CardTitle>Hindi Podcast</CardTitle></CardHeader>
+                    <CardContent>
+                        <iframe 
+                            style={{borderRadius: "12px"}}
+                            src="https://open.spotify.com/embed/show/5ERVI5RrEVVNGGyLdViKy7?utm_source=generator&theme=0" 
+                            width="100%" 
+                            height="152" 
+                            frameBorder="0" 
+                            allowFullScreen
+                            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+                            loading="lazy">
+                        </iframe>
+                    </CardContent>
+                </Card>
+             </div>
+          </section>
 
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Join Our Regional WhatsApp Groups</h2>
@@ -579,5 +615,3 @@ export default async function CommunityPage() {
     </div>
   );
 }
-
-    
