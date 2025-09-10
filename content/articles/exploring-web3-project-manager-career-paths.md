@@ -1,6 +1,6 @@
 ---
 title: "Exploring Web3 Project Manager Career Paths"
-image: "/images/co-media-XLxSj39I14A-unsplash.jpg"
+image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "project manager career"
 description: "A deep dive into the career paths for Project Managers in Web3. Learn how traditional project management skills are adapted for the unique environment of decentralized projects and DAOs."
 category: "Career Guides"
