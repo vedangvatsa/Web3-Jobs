@@ -19,7 +19,7 @@ Twitter (or X) is the central nervous system of the Web3 world. It's where news 
     -   `NFT Artists & Collectors`: For tracking cultural trends.
     -   `L2 Engineers`: For the latest on scalability.
     -   `VCs & Analysts`: For market trends and investment theses.
--   **Engage, Don't Just Lurk:** The value of Twitter comes from participation. Ask thoughtful questions in the replies. Share your own takeaways from an article you read. Building a public voice is part of building your brand.
+-   **Engage, Don't Just Lurk:** The value of Twitter comes from participation. Ask thoughtful questions in the replies. Share your own takeaways from an article you read. Building a public voice is part of [building your brand](/how-to-build-a-public-on-chain-developer-brand).
 
 ### 2. Go Deep with Newsletters and Blogs
 
