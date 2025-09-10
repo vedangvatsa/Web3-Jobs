@@ -1,4 +1,7 @@
 
+'use client';
+
+import * as React from 'react';
 import { getNewsFeed } from '@/lib/news';
 import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
@@ -8,11 +11,51 @@ import { Badge } from '@/components/ui/badge';
 import { formatDistanceToNow } from 'date-fns';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { Button } from '@/components/ui/button';
+import { Skeleton } from '@/components/ui/skeleton';
+import type { NewsItem } from '@/types';
 
-export const revalidate = 3600; // Revalidate every hour
+function NewsCardSkeleton() {
+  return (
+    <Card>
+      <CardHeader>
+        <div className="flex items-center justify-between gap-2 mb-2">
+          <Skeleton className="h-5 w-20 rounded-full" />
+          <Skeleton className="h-4 w-24" />
+        </div>
+        <Skeleton className="h-6 w-3/4" />
+      </CardHeader>
+      <CardContent>
+        <Skeleton className="h-4 w-full mb-2" />
+        <Skeleton className="h-4 w-5/6" />
+      </CardContent>
+      <CardFooter>
+        <Skeleton className="h-5 w-28" />
+      </CardFooter>
+    </Card>
+  );
+}
 
-export default async function NewsPage() {
-  const newsItems = await getNewsFeed();
+export default function NewsPage() {
+  const [newsItems, setNewsItems] = React.useState<NewsItem[]>([]);
+  const [loading, setLoading] = React.useState(true);
+
+  React.useEffect(() => {
+    async function fetchNews() {
+      try {
+        const response = await fetch('/api/news');
+        if (!response.ok) {
+          throw new Error('Failed to fetch news');
+        }
+        const data = await response.json();
+        setNewsItems(data);
+      } catch (error) {
+        console.error(error);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchNews();
+  }, []);
 
   const headlines = [
       "Web3 News Feed",
@@ -32,45 +75,49 @@ export default async function NewsPage() {
             </div>
             <TransitioningHeadline phrases={headlines} />
             <p className="text-muted-foreground mt-4">
-              Aggregated news from top crypto sources. Updated hourly.
+              Aggregated news from top crypto sources. Updated frequently.
             </p>
           </section>
 
           <div className="max-w-4xl mx-auto">
             <div className="space-y-6">
-              {newsItems.map((item, index) => (
-                <Card key={index} className="transition-all duration-300 hover:shadow-lg">
-                  <CardHeader>
-                    <div className="flex items-center justify-between gap-2 mb-2">
-                      <Badge variant={
-                        item.source === 'Decrypt' ? 'destructive' :
-                        item.source === 'Cointelegraph' ? 'secondary' :
-                        item.source === 'Blockchain.News' ? 'default' :
-                        'outline'
-                      }>
-                        {item.source}
-                      </Badge>
-                      <time className="text-xs text-muted-foreground">
-                        {formatDistanceToNow(new Date(item.pubDate), { addSuffix: true })}
-                      </time>
-                    </div>
-                    <CardTitle className="text-xl">
-                      <a href={item.link} target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                        {item.title}
+              {loading ? (
+                [...Array(10)].map((_, i) => <NewsCardSkeleton key={i} />)
+              ) : (
+                newsItems.map((item, index) => (
+                  <Card key={index} className="transition-all duration-300 hover:shadow-lg">
+                    <CardHeader>
+                      <div className="flex items-center justify-between gap-2 mb-2">
+                        <Badge variant={
+                          item.source === 'Decrypt' ? 'destructive' :
+                          item.source === 'Cointelegraph' ? 'secondary' :
+                          item.source === 'Coindesk' ? 'default' :
+                          'outline'
+                        }>
+                          {item.source}
+                        </Badge>
+                        <time className="text-xs text-muted-foreground">
+                          {formatDistanceToNow(new Date(item.pubDate), { addSuffix: true })}
+                        </time>
+                      </div>
+                      <CardTitle className="text-xl">
+                        <a href={item.link} target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                          {item.title}
+                        </a>
+                      </CardTitle>
+                    </CardHeader>
+                    <CardContent>
+                      <p className="text-muted-foreground text-sm">{item.contentSnippet}</p>
+                    </CardContent>
+                    <CardFooter className="flex justify-between items-center">
+                      <p className="text-xs text-muted-foreground font-medium">{item.creator}</p>
+                      <a href={item.link} target="_blank" rel="noopener noreferrer" className="flex items-center text-sm text-primary font-semibold hover:underline">
+                        Read More <ExternalLink className="ml-1 h-4 w-4" />
                       </a>
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <p className="text-muted-foreground text-sm">{item.contentSnippet}</p>
-                  </CardContent>
-                  <CardFooter className="flex justify-between items-center">
-                    <p className="text-xs text-muted-foreground font-medium">{item.creator}</p>
-                    <a href={item.link} target="_blank" rel="noopener noreferrer" className="flex items-center text-sm text-primary font-semibold hover:underline">
-                      Read More <ExternalLink className="ml-1 h-4 w-4" />
-                    </a>
-                  </CardFooter>
-                </Card>
-              ))}
+                    </CardFooter>
+                  </Card>
+                ))
+              )}
             </div>
 
             <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
