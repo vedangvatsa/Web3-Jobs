@@ -35,7 +35,7 @@ A tokenomics designer uses a mix of qualitative and quantitative tools to design
 This is a highly specialized and in-demand role that requires a unique T-shaped skillset.
 
 *   **Deep Expertise:** You need a deep understanding of economics and game theory. Many of the top tokenomics designers have backgrounds in academia or quantitative finance.
-*   **Broad Knowledge:** You also need a broad, practical understanding of the entire Web3 ecosystem, from the technical constraints of the EVM to the cultural dynamics of DAOs.
+*   **Broad Knowledge:** You also need a broad, practical understanding of the entire Web3 ecosystem, from the technical constraints of the EVM to the cultural dynamics of [DAOs](/what-is-a-dao).
 
 **How to Get Started:**
 
@@ -43,4 +43,4 @@ This is a highly specialized and in-demand role that requires a unique T-shaped 
 *   **Write Public Analysis:** Start a blog or Twitter account where you publish detailed critiques of other projects' token models. Identify their strengths and weaknesses.
 *   **Create Your Own Models:** Build a financial model for a hypothetical protocol. Make your assumptions clear and publish your work. This becomes your portfolio.
 
-The role of the tokenomics designer is one of the most challenging and impactful in all of Web3. It's a chance to be a true architect, designing the foundational economic rules for the next generation of the internet.
+The role of the tokenomics designer is one of the most challenging and impactful in all of Web3. It's a
