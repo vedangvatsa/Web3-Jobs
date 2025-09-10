@@ -13,13 +13,13 @@ This guide outlines the most critical security best practices that every [smart 
 
 This is arguably the most important design pattern in Solidity for preventing a common and devastating vulnerability: **reentrancy**.
 
-- **The Problem (Reentrancy):** A reentrancy attack occurs when a malicious external contract calls back into your contract before the first function call has finished executing. This can allow the attacker to drain funds by repeatedly calling a withdrawal function before the balance is updated.
+- **The Problem (Reentrancy):** A [reentrancy attack](/understanding-reentrancy-attacks-in-web3-smart-contracts) occurs when a malicious external contract calls back into your contract before the first function call has finished executing. This can allow the attacker to drain funds by repeatedly calling a withdrawal function before the balance is updated.
 - **The Solution:** Structure your functions in this specific order:
     1.  **Checks:** First, perform all validation checks (e.g., `require(msg.sender == owner)`).
     2.  **Effects:** Second, update the state of your contract (e.g., `balances[msg.sender] = 0`).
     3.  **Interactions:** Last, interact with any external contracts (e.g., `(bool sent, ) = msg.sender.call{value: amount}("")`).
 
-By updating the state *before* the external call, you ensure that even if the external contract calls back, the state of your contract is already correct, and the attacker cannot withdraw funds multiple times.
+By updating the state *before* sending funds, you ensure that even if the external contract calls back, the state of your contract is already correct, and the attacker cannot withdraw funds multiple times.
 
 ### 2. Use `call` for External Calls, Not `transfer` or `send`
 
