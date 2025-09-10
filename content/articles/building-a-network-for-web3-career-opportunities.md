@@ -21,7 +21,7 @@ This is the golden rule of Web3 networking. Don't be the person who slides into 
 Your public content is the most scalable way to build a network. It allows people to get to know you, your skills, and your way of thinking, at scale.
 
 -   **Twitter (X):** This is the public square of Web3. Use it to share what you're learning, engage in thoughtful discussions, and post your work. A high-quality Twitter thread that breaks down a complex topic can be seen by thousands of people, including the founders of top protocols.
--   **Blog (Mirror/Substack):** A personal blog is your space to go deep. Write detailed analyses of projects you're interested in. Share your perspective on market trends. This becomes a portfolio of your expertise that you can share with potential employers and collaborators.
+-   **Blog (Mirror/Substack):** A personal blog is your space to go deep. Write detailed analyses of projects you're interested in. Share your perspective on market trends. This becomes a portfolio of your expertise that you can share with potential collaborators and employers.
 
 ### Principle 3: Participate in the Arenas of Creation
 
