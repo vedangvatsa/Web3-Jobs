@@ -10,7 +10,7 @@ export default async function PlaybookIndexPage() {
   const allArticles = await getAllArticles();
   const categories = ['All', ...[...new Set(allArticles.map(a => a.category))].sort()];
   
-  const siteUrl = 'https://jobs.hashtagweb3.com';
+  const siteUrl = 'https://hashtagweb3.com';
   const blogSchema: CollectionPage = {
     '@type': 'CollectionPage',
     name: 'The Web3 Playbook | Hashtag Web3',

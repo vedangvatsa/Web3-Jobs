@@ -20,14 +20,14 @@ export default async function JobsPage() {
       "Join a DAO Today"
   ];
   
-  const siteUrl = 'https://jobs.hashtagweb3.com/jobs';
+  const siteUrl = 'https://hashtagweb3.com/jobs';
   const pageSchema: WebPage = {
     '@type': 'WebPage',
     url: siteUrl,
     name: "Web3 Jobs | Hashtag Web3",
     isPartOf: {
       '@type': 'WebSite',
-      url: 'https://jobs.hashtagweb3.com',
+      url: 'https://hashtagweb3.com',
       name: 'Hashtag Web3'
     },
     description: "The best job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
