@@ -86,6 +86,7 @@ export default async function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
+            <link rel="icon" href="/favicon.ico" sizes="any" />
             <script
               type="application/ld+json"
               dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
