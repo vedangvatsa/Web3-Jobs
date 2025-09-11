@@ -227,24 +227,24 @@ const caseStudies = [
 ]
 
 const communityPhotos = [
-    { src: '/logo/gallary/2025-08-14 18.05.08-min.jpg', alt: 'Community event photo 1' },
-    { src: '/logo/gallary/2025-08-14 18.05.12-min.jpg', alt: 'Community event photo 2' },
-    { src: '/logo/gallary/2025-08-14 18.05.15-min.jpg', alt: 'Community event photo 3' },
-    { src: '/logo/gallary/2025-08-14 18.05.18-min.jpg', alt: 'Community event photo 4' },
-    { src: '/logo/gallary/2025-08-14 18.05.20-min.jpg', alt: 'Community event photo 5' },
-    { src: '/logo/gallary/2025-08-14 18.05.24-min.jpg', alt: 'Community event photo 6' },
-    { src: '/logo/gallary/2025-08-14 18.05.27-min.jpg', alt: 'Community event photo 7' },
-    { src: '/logo/gallary/2025-08-14 18.05.30-min.jpg', alt: 'Community event photo 8' },
-    { src: '/logo/gallary/2025-08-14 18.05.33-min.jpg', alt: 'Community event photo 9' },
-    { src: '/logo/gallary/2025-08-14 18.05.35-min.jpg', alt: 'Community event photo 10' },
-    { src: '/logo/gallary/2025-08-14 18.05.44-min.jpg', alt: 'Community event photo 11' },
-    { src: '/logo/gallary/2025-08-14 18.05.47-min.jpg', alt: 'Community event photo 12' },
-    { src: '/logo/gallary/2025-08-14 18.05.50-min.jpg', alt: 'Community event photo 13' },
-    { src: '/logo/gallary/2025-08-14 22.30.59.jpg', alt: 'Community event photo 14' },
-    { src: '/logo/gallary/2025-08-14 22.31.02.jpg', alt: 'Community event photo 15' },
-    { src: '/logo/gallary/2025-08-14 22.32.30.jpg', alt: 'Community event photo 16' },
-    { src: '/logo/gallary/2025-08-14 22.38.14.jpg', alt: 'Community event photo 17' },
-    { src: '/logo/gallary/2025-08-14 22.38.17.jpg', alt: 'Community event photo 18' }
+    { src: '/logo/gallery/2025-08-14 18.05.08-min.jpg', alt: 'Community event photo 1' },
+    { src: '/logo/gallery/2025-08-14 18.05.12-min.jpg', alt: 'Community event photo 2' },
+    { src: '/logo/gallery/2025-08-14 18.05.15-min.jpg', alt: 'Community event photo 3' },
+    { src: '/logo/gallery/2025-08-14 18.05.18-min.jpg', alt: 'Community event photo 4' },
+    { src: '/logo/gallery/2025-08-14 18.05.20-min.jpg', alt: 'Community event photo 5' },
+    { src: '/logo/gallery/2025-08-14 18.05.24-min.jpg', alt: 'Community event photo 6' },
+    { src: '/logo/gallery/2025-08-14 18.05.27-min.jpg', alt: 'Community event photo 7' },
+    { src: '/logo/gallery/2025-08-14 18.05.30-min.jpg', alt: 'Community event photo 8' },
+    { src: '/logo/gallery/2025-08-14 18.05.33-min.jpg', alt: 'Community event photo 9' },
+    { src: '/logo/gallery/2025-08-14 18.05.35-min.jpg', alt: 'Community event photo 10' },
+    { src: '/logo/gallery/2025-08-14 18.05.44-min.jpg', alt: 'Community event photo 11' },
+    { src: '/logo/gallery/2025-08-14 18.05.47-min.jpg', alt: 'Community event photo 12' },
+    { src: '/logo/gallery/2025-08-14 18.05.50-min.jpg', alt: 'Community event photo 13' },
+    { src: '/logo/gallery/2025-08-14 22.30.59.jpg', alt: 'Community event photo 14' },
+    { src: '/logo/gallery/2025-08-14 22.31.02.jpg', alt: 'Community event photo 15' },
+    { src: '/logo/gallery/2025-08-14 22.32.30.jpg', alt: 'Community event photo 16' },
+    { src: '/logo/gallery/2025-08-14 22.38.14.jpg', alt: 'Community event photo 17' },
+    { src: '/logo/gallery/2025-08-14 22.38.17.jpg', alt: 'Community event photo 18' }
 ];
 
 const whatsappGroups = [
@@ -386,44 +386,6 @@ export default async function CommunityPage() {
             </div>
           </section>
           
-          <section className="mb-16">
-             <div className="text-center mb-12">
-                <TransitioningHeadline phrases={["Listen to our Podcasts", "Audio Insights", "Web3 On Air"]} />
-             </div>
-             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-                <Card>
-                    <CardHeader><CardTitle>Arabic Podcast</CardTitle></CardHeader>
-                    <CardContent>
-                        <iframe 
-                            style={{borderRadius: "12px"}}
-                            src="https://open.spotify.com/embed/show/0DqMDHVcPVCN8ilIvBe5BC?utm_source=generator&theme=0" 
-                            width="100%" 
-                            height="152" 
-                            frameBorder="0" 
-                            allowFullScreen
-                            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-                            loading="lazy">
-                        </iframe>
-                    </CardContent>
-                </Card>
-                <Card>
-                    <CardHeader><CardTitle>Hindi Podcast</CardTitle></CardHeader>
-                    <CardContent>
-                        <iframe 
-                            style={{borderRadius: "12px"}}
-                            src="https://open.spotify.com/embed/show/5ERVI5RrEVVNGGyLdViKy7?utm_source=generator&theme=0" 
-                            width="100%" 
-                            height="152" 
-                            frameBorder="0" 
-                            allowFullScreen
-                            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-                            loading="lazy">
-                        </iframe>
-                    </CardContent>
-                </Card>
-             </div>
-          </section>
-
           <section className="mb-16">
             <div className="text-center mb-12">
                 <TransitioningHeadline phrases={["Join Our Regional Groups", "Connect Locally", "Global Network"]} />
