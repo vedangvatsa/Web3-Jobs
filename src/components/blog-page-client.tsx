@@ -121,29 +121,31 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
       </section>
 
       <div className="max-w-7xl mx-auto">
-        <div className="mb-8 space-y-4">
-            <div className="relative">
-                <Input
-                    placeholder="Search articles by title or keyword..."
-                    value={searchQuery}
-                    onChange={handleSearchChange}
-                    className="w-full text-base pl-10 h-11 rounded-full shadow-sm"
-                />
-                <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground"/>
-            </div>
-            <div className="flex flex-wrap justify-center gap-2">
-                {categories.map((category) => (
-                    <Button
-                    key={category}
-                    variant={selectedCategory === category ? 'default' : 'outline'}
-                    onClick={() => handleCategoryClick(category)}
-                    className="rounded-full"
-                    >
-                    {category}
-                    </Button>
-                ))}
-            </div>
-        </div>
+        <Card className="p-4 mb-8 sticky top-20 z-10 shadow-lg backdrop-blur-sm bg-background/80 border-b">
+          <div className="flex flex-col gap-4">
+              <div className="relative">
+                  <Input
+                      placeholder="Search articles by title or keyword..."
+                      value={searchQuery}
+                      onChange={handleSearchChange}
+                      className="w-full text-base pl-10 h-11 rounded-full shadow-sm"
+                  />
+                  <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground"/>
+              </div>
+              <div className="flex flex-wrap justify-center gap-2">
+                  {categories.map((category) => (
+                      <Button
+                      key={category}
+                      variant={selectedCategory === category ? 'default' : 'outline'}
+                      onClick={() => handleCategoryClick(category)}
+                      className="rounded-full text-xs h-8"
+                      >
+                      {category}
+                      </Button>
+                  ))}
+              </div>
+          </div>
+        </Card>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 min-h-[600px]">
             {isPending ? (
