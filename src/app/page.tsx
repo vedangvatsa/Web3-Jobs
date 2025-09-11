@@ -57,128 +57,128 @@ const stats = [
 ];
 
 const companies = [
-    { name: 'Algorand', src: '/logo/companies/algorand.png' },
-    { name: 'Animoca Brands', src: '/logo/companies/Animoca-Brands.png' },
-    { name: 'Aptos', src: '/logo/companies/aptos.png' },
-    { name: 'Ava Labs', src: '/logo/companies/ava.png' },
-    { name: 'Blackrock', src: '/logo/companies/blackrock.png' },
-    { name: 'Bloomberg', src: '/logo/companies/bloomberg.png' },
-    { name: 'Chainalysis', src: '/logo/companies/Chainalysis.png' },
-    { name: 'Circle', src: '/logo/companies/circle.png' },
-    { name: 'Citi', src: '/logo/companies/citi.png' },
-    { name: 'Consensys', src: '/logo/companies/consensys.png' },
-    { name: 'EY', src: '/logo/companies/ey.png' },
-    { name: 'Gemini', src: '/logo/companies/gemini.png' },
-    { name: 'Google', src: '/logo/companies/google.png' },
-    { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png' },
-    { name: 'KPMG', src: '/logo/companies/KPMG.png' },
-    { name: 'McKinsey', src: '/logo/companies/mckinsey.png' },
-    { name: 'Microsoft', src: '/logo/companies/microsoft.png' },
-    { name: 'Polygon', src: '/logo/companies/polygon.png' },
-    { name: 'PwC', src: '/logo/companies/pwc.png' },
-    { name: 'R3', src: '/logo/companies/r3.png' },
-    { name: 'Ripple', src: '/logo/companies/ripple.png' },
+    { name: 'Algorand', src: '/logos/companies/algorand.png' },
+    { name: 'Animoca Brands', src: '/logos/companies/Animoca-Brands.png' },
+    { name: 'Aptos', src: '/logos/companies/aptos.png' },
+    { name: 'Ava Labs', src: '/logos/companies/ava.png' },
+    { name: 'Blackrock', src: '/logos/companies/blackrock.png' },
+    { name: 'Bloomberg', src: '/logos/companies/bloomberg.png' },
+    { name: 'Chainalysis', src: '/logos/companies/Chainalysis.png' },
+    { name: 'Circle', src: '/logos/companies/circle.png' },
+    { name: 'Citi', src: '/logos/companies/citi.png' },
+    { name: 'Consensys', src: '/logos/companies/consensys.png' },
+    { name: 'EY', src: '/logos/companies/ey.png' },
+    { name: 'Gemini', src: '/logos/companies/gemini.png' },
+    { name: 'Google', src: '/logos/companies/google.png' },
+    { name: 'JP Morgan', src: '/logos/companies/JP_Morgan.png' },
+    { name: 'KPMG', src: '/logos/companies/KPMG.png' },
+    { name: 'McKinsey', src: '/logos/companies/mckinsey.png' },
+    { name: 'Microsoft', src: '/logos/companies/microsoft.png' },
+    { name: 'Polygon', src: '/logos/companies/polygon.png' },
+    { name: 'PwC', src: '/logos/companies/pwc.png' },
+    { name: 'R3', src: '/logos/companies/r3.png' },
+    { name: 'Ripple', src: '/logos/companies/ripple.png' },
 ];
 
 const partnersLogos = [
-    { name: 'Altlayer', src: '/logo/partners/altlayer.png'},
-    { name: 'BFF', src: '/logo/partners/bff.png'},
-    { name: 'Coinfest', src: '/logo/partners/coinfest.png'},
-    { name: 'Date', src: '/logo/partners/date.png'},
-    { name: 'EDCON', src: '/logo/partners/edcon.png'},
-    { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png'},
-    { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png'},
-    { name: 'ETHVietnam', src: '/logo/partners/ethvietnam.png'},
-    { name: 'Harvard', src: '/logo/partners/harvard.png'},
-    { name: 'IBW', src: '/logo/partners/ibw.png'},
-    { name: 'IEEE', src: '/logo/partners/ieee.png'},
-    { name: 'Istanbul', src: '/logo/partners/istanbul.png'},
-    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png'},
-    { name: 'Onepiece Labs', src: '/logo/partners/onepiece.png'},
-    { name: 'PBS', src: '/logo/partners/pbs.png'},
-    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png'},
-    { name: 'Token 2049', src: '/logo/partners/token2049.png'},
-    { name: 'WBS', src: '/logo/partners/wbs.png'},
-    { name: 'OBC', src: '/logo/partners/obc.png' },
-    { name: 'ETH Enugu', src: '/logo/partners/ethenugu.png'},
-    { name: 'FBS', src: '/logo/partners/fbs.png'},
-    { name: 'LBS', src: '/logo/partners/lbs.png'},
-    { name: 'The Metaverse Institute', src: '/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png'},
+    { name: 'Altlayer', src: '/logos/partners/altlayer.png'},
+    { name: 'BFF', src: '/logos/partners/bff.png'},
+    { name: 'Coinfest', src: '/logos/partners/coinfest.png'},
+    { name: 'Date', src: '/logos/partners/date.png'},
+    { name: 'EDCON', src: '/logos/partners/edcon.png'},
+    { name: 'ETHBrussels', src: '/logos/partners/ethbrussels.png'},
+    { name: 'ETH Oxford', src: '/logos/partners/ETHOxford.png'},
+    { name: 'ETHVietnam', src: '/logos/partners/ethvietnam.png'},
+    { name: 'Harvard', src: '/logos/partners/harvard.png'},
+    { name: 'IBW', src: '/logos/partners/ibw.png'},
+    { name: 'IEEE', src: '/logos/partners/ieee.png'},
+    { name: 'Istanbul', src: '/logos/partners/istanbul.png'},
+    { name: 'Malaysia Blockchain Week', src: '/logos/partners/malaysiablockchainweek.png'},
+    { name: 'Onepiece Labs', src: '/logos/partners/onepiece.png'},
+    { name: 'PBS', src: '/logos/partners/pbs.png'},
+    { name: 'Taipei Blockchain Week', src: '/logos/partners/taipeiblockchainweek.png'},
+    { name: 'Token 2049', src: '/logos/partners/token2049.png'},
+    { name: 'WBS', src: '/logos/partners/wbs.png'},
+    { name: 'OBC', src: '/logos/partners/obc.png' },
+    { name: 'ETH Enugu', src: '/logos/partners/ethenugu.png'},
+    { name: 'FBS', src: '/logos/partners/fbs.png'},
+    { name: 'LBS', src: '/logos/partners/lbs.png'},
+    { name: 'The Metaverse Institute', src: '/logos/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png'},
 ];
 
 const mediaLogos = [
-    { name: 'media-0', src: '/logo/media/0df9cd95ce02d767feb771e713b387514e9b6590.png' },
-    { name: 'media-1', src: '/logo/media/1ce9a019ef58063c68fd5f64d36199068838804e.png' },
-    { name: 'media-2', src: '/logo/media/2c3fa745faeb2bd3a97ef271a7210d82b8f193fb.png' },
-    { name: 'media-3', src: '/logo/media/2d6ff9bae82b907d41d85b0e2b145a4202f656ba.png' },
-    { name: 'media-4', src: '/logo/media/2eaefd517b11a4f8139fa0998f0321073e6aaa26.png' },
-    { name: 'media-5', src: '/logo/media/3f5ed1e4e5acf2a1aa699648e9a8284f895f5b9e.png' },
-    { name: 'media-6', src: '/logo/media/7c7a5cb7d0a5dde8c873b68c2fa7a5748a9f2821.png' },
-    { name: 'media-7', src: '/logo/media/9f54a3a611014d6c5b03d4e87059095e1710c84c.png' },
-    { name: 'media-8', src: '/logo/media/13b366f03bf16e31432f997be9d974ace71f5483.png' },
-    { name: 'media-9', src: '/logo/media/14b6543adc2530b43e59f255852262af6294a874.png' },
-    { name: 'media-10', src: '/logo/media/47a5b11c5f367ffff6d46d4eeff2020ba76b4ec2.png' },
-    { name: 'media-11', src: '/logo/media/60db47ab2a1ee5695d364da223d9267d15a68733.png' },
-    { name: 'media-12', src: '/logo/media/61f451fcff223b9ec852f65ee7232906e1e6bfe1.png' },
-    { name: 'media-13', src: '/logo/media/454f781c4d44411f1cfb964a8e1e6b5768ec883c.png' },
-    { name: 'media-14', src: '/logo/media/543ac1c6ea4d10859ddb62f62a7932d9c3318005.png' },
-    { name: 'media-15', src: '/logo/media/564b865018722f2f3f1f43875bc4112822bacbe4.png' },
-    { name: 'media-16', src: '/logo/media/565e76c27070ab0c4da9be1dc106d777c910a938.png' },
-    { name: 'media-17', src: '/logo/media/653a53899adfcbeafc81de62baa881d1c2d27c5a.png' },
-    { name: 'media-18', src: '/logo/media/914ed4188944a17b5f4b541374670571c6316e69.png' },
-    { name: 'media-19', src: '/logo/media/2038d630d6fdd84ee6b82d19374e8c1dedd4bc25.png' },
-    { name: 'media-20', src: '/logo/media/5295a00d73a662c02e46e2c6d01fdd59a8250ffa.png' },
-    { name: 'media-21', src: '/logo/media/7412a040ffa99d458d711f293b7f4ec8aae67fb4.png' },
-    { name: 'media-22', src: '/logo/media/599823393b4fadc2f1c9d50b93027ebfc2f6a1f4.png' },
-    { name: 'media-23', src: '/logo/media/a75e3d52b7b04cb4c7a52d6cbc2f62e4976e38ec.png' },
-    { name: 'media-24', src: '/logo/media/a87caeb08ded3f7dfb78586def381c2660ebd362.png' },
-    { name: 'media-25', src: '/logo/media/a96dc8c251ff32063535679a0de8bef0d74e865e.png' },
-    { name: 'media-26', src: '/logo/media/a2007f6f9ccc4f08bf6b72f304f9035546d523ec.png' },
-    { name: 'media-27', src: '/logo/media/ab398280457925b507d0a326afeaa805fcdce44f.png' },
-    { name: 'media-28', src: '/logo/media/b4b3e299ec3e8ca0006c5da7ae64cb64662bcfc2.png' },
-    { name: 'media-29', src: '/logo/media/b4be4520b04c9259cf99e85be4be79aa7ac536d6.png' },
-    { name: 'media-30', src: '/logo/media/bacc530863613b9324c1cc7e82a54fa3148edb98.png' },
-    { name: 'media-31', src: '/logo/media/da7cff558c507e346c999223832c127a6ea96d5b.png' },
-    { name: 'media-32', src: '/logo/media/decc1fcda37e13f7000b974cf66fa5285d7417e0.png' },
-    { name: 'media-33', src: '/logo/media/e4f8dbfe5586e79cba894b2d15c00a70d3254ea2.png' },
-    { name: 'media-34', src: '/logo/media/e5e35aa3421404362c95a346d0f514d946611f90.png' },
-    { name: 'media-35', src: '/logo/media/e43df0a520f87e2398f60a37a2d6d942117be644.png' },
-    { name: 'media-36', src: '/logo/media/e66de1e638ae92a896922fa50b25417a3ca95aa7.png' },
-    { name: 'media-37', src: '/logo/media/e156110f2796b1b6bd7db2be08c985b66a7e1308.png' },
-    { name: 'media-38', src: '/logo/media/f76f8b0b56265c2227186f7cafb3b3a3dfb55437.png' },
-    { name: 'media-39', src: '/logo/media/f430e277178ec58fc097a3078c13028fabf80403.png' },
-    { name: 'media-40', src: '/logo/media/fa66e3f8d7cff979cba7ec1d7ad575212a1b8f3d.png' },
-    { name: 'media-41', src: '/logo/media/fb4bf9ef0e989c9795e066c4502ba75b3a567467.png' },
-    { name: 'media-42', src: '/logo/media/fd7e246f812a15af9fe590ce48ab163ceccee6f8.png' },
+    { name: 'media-0', src: '/logos/media/0df9cd95ce02d767feb771e713b387514e9b6590.png' },
+    { name: 'media-1', src: '/logos/media/1ce9a019ef58063c68fd5f64d36199068838804e.png' },
+    { name: 'media-2', src: '/logos/media/2c3fa745faeb2bd3a97ef271a7210d82b8f193fb.png' },
+    { name: 'media-3', src: '/logos/media/2d6ff9bae82b907d41d85b0e2b145a4202f656ba.png' },
+    { name: 'media-4', src: '/logos/media/2eaefd517b11a4f8139fa0998f0321073e6aaa26.png' },
+    { name: 'media-5', src: '/logos/media/3f5ed1e4e5acf2a1aa699648e9a8284f895f5b9e.png' },
+    { name: 'media-6', src: '/logos/media/7c7a5cb7d0a5dde8c873b68c2fa7a5748a9f2821.png' },
+    { name: 'media-7', src: '/logos/media/9f54a3a611014d6c5b03d4e87059095e1710c84c.png' },
+    { name: 'media-8', src: '/logos/media/13b366f03bf16e31432f997be9d974ace71f5483.png' },
+    { name: 'media-9', src: '/logos/media/14b6543adc2530b43e59f255852262af6294a874.png' },
+    { name: 'media-10', src: '/logos/media/47a5b11c5f367ffff6d46d4eeff2020ba76b4ec2.png' },
+    { name: 'media-11', src: '/logos/media/60db47ab2a1ee5695d364da223d9267d15a68733.png' },
+    { name: 'media-12', src: '/logos/media/61f451fcff223b9ec852f65ee7232906e1e6bfe1.png' },
+    { name: 'media-13', src: '/logos/media/454f781c4d44411f1cfb964a8e1e6b5768ec883c.png' },
+    { name: 'media-14', src: '/logos/media/543ac1c6ea4d10859ddb62f62a7932d9c3318005.png' },
+    { name: 'media-15', src: '/logos/media/564b865018722f2f3f1f43875bc4112822bacbe4.png' },
+    { name: 'media-16', src: '/logos/media/565e76c27070ab0c4da9be1dc106d777c910a938.png' },
+    { name: 'media-17', src: '/logos/media/653a53899adfcbeafc81de62baa881d1c2d27c5a.png' },
+    { name: 'media-18', src: '/logos/media/914ed4188944a17b5f4b541374670571c6316e69.png' },
+    { name: 'media-19', src: '/logos/media/2038d630d6fdd84ee6b82d19374e8c1dedd4bc25.png' },
+    { name: 'media-20', src: '/logos/media/5295a00d73a662c02e46e2c6d01fdd59a8250ffa.png' },
+    { name: 'media-21', src: '/logos/media/7412a040ffa99d458d711f293b7f4ec8aae67fb4.png' },
+    { name: 'media-22', src: '/logos/media/599823393b4fadc2f1c9d50b93027ebfc2f6a1f4.png' },
+    { name: 'media-23', src: '/logos/media/a75e3d52b7b04cb4c7a52d6cbc2f62e4976e38ec.png' },
+    { name: 'media-24', src: '/logos/media/a87caeb08ded3f7dfb78586def381c2660ebd362.png' },
+    { name: 'media-25', src: '/logos/media/a96dc8c251ff32063535679a0de8bef0d74e865e.png' },
+    { name: 'media-26', src: '/logos/media/a2007f6f9ccc4f08bf6b72f304f9035546d523ec.png' },
+    { name: 'media-27', src: '/logos/media/ab398280457925b507d0a326afeaa805fcdce44f.png' },
+    { name: 'media-28', src: '/logos/media/b4b3e299ec3e8ca0006c5da7ae64cb64662bcfc2.png' },
+    { name: 'media-29', src: '/logos/media/b4be4520b04c9259cf99e85be4be79aa7ac536d6.png' },
+    { name: 'media-30', src: '/logos/media/bacc530863613b9324c1cc7e82a54fa3148edb98.png' },
+    { name: 'media-31', src: '/logos/media/da7cff558c507e346c999223832c127a6ea96d5b.png' },
+    { name: 'media-32', src: '/logos/media/decc1fcda37e13f7000b974cf66fa5285d7417e0.png' },
+    { name: 'media-33', src: '/logos/media/e4f8dbfe5586e79cba894b2d15c00a70d3254ea2.png' },
+    { name: 'media-34', src: '/logos/media/e5e35aa3421404362c95a346d0f514d946611f90.png' },
+    { name: 'media-35', src: '/logos/media/e43df0a520f87e2398f60a37a2d6d942117be644.png' },
+    { name: 'media-36', src: '/logos/media/e66de1e638ae92a896922fa50b25417a3ca95aa7.png' },
+    { name: 'media-37', src: '/logos/media/e156110f2796b1b6bd7db2be08c985b66a7e1308.png' },
+    { name: 'media-38', src: '/logos/media/f76f8b0b56265c2227186f7cafb3b3a3dfb55437.png' },
+    { name: 'media-39', src: '/logos/media/f430e277178ec58fc097a3078c13028fabf80403.png' },
+    { name: 'media-40', src: '/logos/media/fa66e3f8d7cff979cba7ec1d7ad575212a1b8f3d.png' },
+    { name: 'media-41', src: '/logos/media/fb4bf9ef0e989c9795e066c4502ba75b3a567467.png' },
+    { name: 'media-42', src: '/logos/media/fd7e246f812a15af9fe590ce48ab163ceccee6f8.png' },
 ];
 
 const hiredCompanies = [
-    { name: 'Alemx', src: '/logo/job/alemx.png' },
-    { name: 'Binance', src: '/logo/job/binance.png' },
-    { name: 'Bitget', src: '/logo/job/bitget.png' },
-    { name: 'Circle', src: '/logo/job/circle.png' },
-    { name: 'Coinbase', src: '/logo/job/coinbase.png' },
-    { name: 'DePHY', src: '/logo/job/dephy.png' },
-    { name: 'dYdX', src: '/logo/job/dydx.png' },
-    { name: 'Funtoken', src: '/logo/job/funtoken.png' },
-    { name: 'Galxe', src: '/logo/job/galxe.png' },
-    { name: 'Glassnode', src: '/logo/job/glassnode.png' },
-    { name: 'Jaya Talent', src: '/logo/job/jayatalent.png' },
-    { name: 'KCEX', src: '/logo/job/kcex.png' },
-    { name: 'LBank', src: '/logo/job/lbank.png' },
-    { name: 'LiquidX', src: '/logo/job/liquidx.png' },
-    { name: 'Mercuryo', src: '/logo/job/mercuryo.png' },
-    { name: 'Overmind', src: '/logo/job/overmind.png' },
-    { name: 'Peanut', src: '/logo/job/peanut.png' },
-    { name: 'Quantstamp', src: '/logo/job/quantstamp.png' },
-    { name: 'Scallop', src: '/logo/job/scallop.png' },
-    { name: 'Swell Network', src: '/logo/job/swell.png' },
-    { name: 'Trilitech', src: '/logo/job/trilitech.png' },
-    { name: 'Truflation', src: '/logo/job/truflation.png' },
-    { name: 'VNTR', src: '/logo/job/vn.png' },
-    { name: 'Watches.io', src: '/logo/job/watches.png' },
-    { name: 'Zeebu', src: '/logo/job/zeebu.png' },
-    { name: 'Zerion', src: '/logo/job/zerion.png' },
+    { name: 'Alemx', src: '/logos/job/alemx.png' },
+    { name: 'Binance', src: '/logos/job/binance.png' },
+    { name: 'Bitget', src: '/logos/job/bitget.png' },
+    { name: 'Circle', src: '/logos/job/circle.png' },
+    { name: 'Coinbase', src: '/logos/job/coinbase.png' },
+    { name: 'DePHY', src: '/logos/job/dephy.png' },
+    { name: 'dYdX', src: '/logos/job/dydx.png' },
+    { name: 'Funtoken', src: '/logos/job/funtoken.png' },
+    { name: 'Galxe', src: '/logos/job/galxe.png' },
+    { name: 'Glassnode', src: '/logos/job/glassnode.png' },
+    { name: 'Jaya Talent', src: '/logos/job/jayatalent.png' },
+    { name: 'KCEX', src: '/logos/job/kcex.png' },
+    { name: 'LBank', src: '/logos/job/lbank.png' },
+    { name: 'LiquidX', src: '/logos/job/liquidx.png' },
+    { name: 'Mercuryo', src: '/logos/job/mercuryo.png' },
+    { name: 'Overmind', src: '/logos/job/overmind.png' },
+    { name: 'Peanut', src: '/logos/job/peanut.png' },
+    { name: 'Quantstamp', src: '/logos/job/quantstamp.png' },
+    { name: 'Scallop', src: '/logos/job/scallop.png' },
+    { name: 'Swell Network', src: '/logos/job/swell.png' },
+    { name: 'Trilitech', src: '/logos/job/trilitech.png' },
+    { name: 'Truflation', src: '/logos/job/truflation.png' },
+    { name: 'VNTR', src: '/logos/job/vn.png' },
+    { name: 'Watches.io', src: '/logos/job/watches.png' },
+    { name: 'Zeebu', src: '/logos/job/zeebu.png' },
+    { name: 'Zerion', src: '/logos/job/zerion.png' },
 ]
 
 const channels = [
@@ -227,24 +227,24 @@ const caseStudies = [
 ]
 
 const communityPhotos = [
-    { src: '/logo/gallery/2025-08-14 18.05.08-min.jpg', alt: 'Community event photo 1' },
-    { src: '/logo/gallery/2025-08-14 18.05.12-min.jpg', alt: 'Community event photo 2' },
-    { src: '/logo/gallery/2025-08-14 18.05.15-min.jpg', alt: 'Community event photo 3' },
-    { src: '/logo/gallery/2025-08-14 18.05.18-min.jpg', alt: 'Community event photo 4' },
-    { src: '/logo/gallery/2025-08-14 18.05.20-min.jpg', alt: 'Community event photo 5' },
-    { src: '/logo/gallery/2025-08-14 18.05.24-min.jpg', alt: 'Community event photo 6' },
-    { src: '/logo/gallery/2025-08-14 18.05.27-min.jpg', alt: 'Community event photo 7' },
-    { src: '/logo/gallery/2025-08-14 18.05.30-min.jpg', alt: 'Community event photo 8' },
-    { src: '/logo/gallery/2025-08-14 18.05.33-min.jpg', alt: 'Community event photo 9' },
-    { src: '/logo/gallery/2025-08-14 18.05.35-min.jpg', alt: 'Community event photo 10' },
-    { src: '/logo/gallery/2025-08-14 18.05.44-min.jpg', alt: 'Community event photo 11' },
-    { src: '/logo/gallery/2025-08-14 18.05.47-min.jpg', alt: 'Community event photo 12' },
-    { src: '/logo/gallery/2025-08-14 18.05.50-min.jpg', alt: 'Community event photo 13' },
-    { src: '/logo/gallery/2025-08-14 22.30.59.jpg', alt: 'Community event photo 14' },
-    { src: '/logo/gallery/2025-08-14 22.31.02.jpg', alt: 'Community event photo 15' },
-    { src: '/logo/gallery/2025-08-14 22.32.30.jpg', alt: 'Community event photo 16' },
-    { src: '/logo/gallery/2025-08-14 22.38.14.jpg', alt: 'Community event photo 17' },
-    { src: '/logo/gallery/2025-08-14 22.38.17.jpg', alt: 'Community event photo 18' }
+    { src: '/logos/gallery/2025-08-14 18.05.08-min.jpg', alt: 'Community event photo 1' },
+    { src: '/logos/gallery/2025-08-14 18.05.12-min.jpg', alt: 'Community event photo 2' },
+    { src: '/logos/gallery/2025-08-14 18.05.15-min.jpg', alt: 'Community event photo 3' },
+    { src: '/logos/gallery/2025-08-14 18.05.18-min.jpg', alt: 'Community event photo 4' },
+    { src: '/logos/gallery/2025-08-14 18.05.20-min.jpg', alt: 'Community event photo 5' },
+    { src: '/logos/gallery/2025-08-14 18.05.24-min.jpg', alt: 'Community event photo 6' },
+    { src: '/logos/gallery/2025-08-14 18.05.27-min.jpg', alt: 'Community event photo 7' },
+    { src: '/logos/gallery/2025-08-14 18.05.30-min.jpg', alt: 'Community event photo 8' },
+    { src: '/logos/gallery/2025-08-14 18.05.33-min.jpg', alt: 'Community event photo 9' },
+    { src: '/logos/gallery/2025-08-14 18.05.35-min.jpg', alt: 'Community event photo 10' },
+    { src: '/logos/gallery/2025-08-14 18.05.44-min.jpg', alt: 'Community event photo 11' },
+    { src: '/logos/gallery/2025-08-14 18.05.47-min.jpg', alt: 'Community event photo 12' },
+    { src: '/logos/gallery/2025-08-14 18.05.50-min.jpg', alt: 'Community event photo 13' },
+    { src: '/logos/gallery/2025-08-14 22.30.59.jpg', alt: 'Community event photo 14' },
+    { src: '/logos/gallery/2025-08-14 22.31.02.jpg', alt: 'Community event photo 15' },
+    { src: '/logos/gallery/2025-08-14 22.32.30.jpg', alt: 'Community event photo 16' },
+    { src: '/logos/gallery/2025-08-14 22.38.14.jpg', alt: 'Community event photo 17' },
+    { src: '/logos/gallery/2025-08-14 22.38.17.jpg', alt: 'Community event photo 18' }
 ];
 
 const whatsappGroups = [
@@ -457,7 +457,7 @@ export default async function CommunityPage() {
                     <CardContent className="p-8 text-center">
                         <p className="text-xl font-medium italic">“Their Web3 Jobs Telegram channel has proven to be the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new opportunities the moment they are available on the market, significantly improving the visibility of my applications.”</p>
                         <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/suki.png" alt="Suki Cheung" width={64} height={64} className="rounded-full mx-auto" />
+                            <Image src="/logos/quotes/suki.png" alt="Suki Cheung" width={64} height={64} className="rounded-full mx-auto" />
                         </div>
                         <p className="font-semibold">Suki Cheung</p>
                         <p className="text-sm text-muted-foreground">Community Lead, Trust Wallet</p>
@@ -481,26 +481,12 @@ export default async function CommunityPage() {
              </div>
           </section>
 
-          <section className="my-16">
-              <div className="text-center mb-12">
-                  <TransitioningHeadline phrases={["From the Playbook", "Latest Articles", "Web3 Insights"]} />
-              </div>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                  {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
-              </div>
-               <div className="text-center mt-8">
-                  <Button variant="outline" asChild>
-                      <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                  </Button>
-              </div>
-          </section>
-
             <section className="mb-16">
                 <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
                     <CardContent className="p-8 text-center">
                         <p className="text-2xl font-medium italic">“We’ve got many mails, there’s a new one per 5 mins”</p>
                          <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/kris.png" alt="Kris Lai" width={64} height={64} className="rounded-full mx-auto" />
+                            <Image src="/logos/quotes/kris.png" alt="Kris Lai" width={64} height={64} className="rounded-full mx-auto" />
                         </div>
                         <p className="font-semibold">Kris Lai</p>
                         <p className="text-sm text-muted-foreground">CEO, Scallop</p>
@@ -528,7 +514,7 @@ export default async function CommunityPage() {
                     <CardContent className="p-8 text-center">
                         <p className="text-xl font-medium italic">“I had a great experience with their Web3 job Telegram channel. As a subscriber, I found highly relevant opportunities that stood out from other platforms. In less than two weeks, I completed all interviews, from HR to C-level, in a smooth process. Highly recommend it for anyone exploring or advancing a Web3 career.”</p>
                         <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/fatima.png" alt="Fatima Zahra Sadir" width={64} height={64} className="rounded-full mx-auto" />
+                            <Image src="/logos/quotes/fatima.png" alt="Fatima Zahra Sadir" width={64} height={64} className="rounded-full mx-auto" />
                         </div>
                         <p className="font-semibold">Fatima Zahra Sadir</p>
                         <p className="text-sm text-muted-foreground">Product Owner, Zeebu</p>
@@ -557,7 +543,7 @@ export default async function CommunityPage() {
                     <CardContent className="p-8 text-center">
                         <p className="text-xl font-medium italic">“Our agency has been using the job board for the past year, and we’ve tripled our speed in closing roles thanks to their high-quality talent pool.”</p>
                         <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/zhanna.png" alt="Zhanna Manzyk" width={64} height={64} className="rounded-full mx-auto" />
+                            <Image src="/logos/quotes/zhanna.png" alt="Zhanna Manzyk" width={64} height={64} className="rounded-full mx-auto" />
                         </div>
                         <p className="font-semibold">Zhanna Manzyk</p>
                         <p className="text-sm text-muted-foreground">CEO, Jaya Talent</p>
