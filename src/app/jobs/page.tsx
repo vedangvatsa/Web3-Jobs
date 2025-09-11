@@ -8,7 +8,7 @@ import { Rss } from 'lucide-react';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import type { WebPage } from 'schema-dts';
 
-export const revalidate = 21600; // Revalidate every 6 hours
+export const revalidate = 43200; // Revalidate every 12 hours
 
 export default async function JobsPage() {
   const initialJobs = await getJobs();

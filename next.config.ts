@@ -24,9 +24,6 @@ const nextConfig: NextConfig = {
         pathname: '/**',
       },
     ],
-    domains: [
-      'hashtagweb3.com'
-    ],
   },
 };
 
