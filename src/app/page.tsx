@@ -352,12 +352,14 @@ export default async function CommunityPage() {
                 <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
                   Our main Telegram group is a vibrant hub for Web3 professionals to network, share insights, and discuss the latest trends.
                 </p>
-                <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
-                  <Button size="lg">
-                    <Send className="mr-2 h-5 w-5" />
-                    Discussion & Updates Group on Telegram
-                  </Button>
-                </a>
+                <div className="flex justify-center">
+                    <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
+                        <Button size="lg">
+                            <Send className="mr-2 h-5 w-5" />
+                            Discussion & Updates Group on Telegram
+                        </Button>
+                    </a>
+                </div>
               </CardContent>
             </Card>
           </section>
