@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -15,6 +15,7 @@ import {
 
 export function Header() {
     const mainNavLinks = [
+        { href: "/jobs", label: "Jobs", icon: Briefcase },
         { href: "/blog", label: "Playbook", icon: BookOpen },
         { href: "/news", label: "News", icon: Newspaper },
         { href: "/community", label: "Community", icon: Users },
@@ -32,6 +33,7 @@ export function Header() {
     ];
     
     const mobileNavLinks = [
+        { href: "/jobs", label: "Jobs", icon: Briefcase },
         { href: "/blog", label: "Playbook", icon: BookOpen },
         { href: "/news", label: "News", icon: Newspaper },
         { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
@@ -60,7 +62,7 @@ export function Header() {
                 </Link>
                 
                 <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
-                     {mainNavLinks.slice(0,2).map((link) => (
+                     {mainNavLinks.slice(0,3).map((link) => (
                          <Link
                             key={link.label}
                             href={link.href}
@@ -88,7 +90,7 @@ export function Header() {
                         </DropdownMenuContent>
                     </DropdownMenu>
 
-                     {mainNavLinks.slice(2).map((link) => (
+                     {mainNavLinks.slice(3).map((link) => (
                          <Link
                             key={link.label}
                             href={link.href}
