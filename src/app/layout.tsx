@@ -90,7 +90,6 @@ export default async function RootLayout({
               type="application/ld+json"
               dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
             />
-            <link rel="icon" href="/favicon.ico" sizes="any" />
             <Script
               id="gtag-script"
               strategy="afterInteractive"
