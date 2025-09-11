@@ -7,6 +7,12 @@ import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, F
 import Link from 'next/link';
 import Image from 'next/image';
 import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "@/components/ui/accordion"
+import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
@@ -31,22 +37,6 @@ export function Header() {
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
     ];
-    
-    const mobileNavLinks = [
-        { href: "/jobs", label: "Jobs", icon: Briefcase },
-        { href: "/blog", label: "Playbook", icon: BookOpen },
-        { href: "/news", label: "News", icon: Newspaper },
-        { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
-        { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
-        { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
-        { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
-        { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
-        { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
-        { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
-        { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
-        { href: "/", label: "Community", icon: Users },
-    ];
-
 
     const socialLinks = [
         { href: "https://x.com/hashtag_web3", label: "X", icon: Twitter, 'aria-label': 'Follow us on X' },
@@ -129,9 +119,9 @@ export function Header() {
                                     <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" />
                                 </Link>
                             </div>
-                            <nav className="flex-grow flex flex-col p-4">
+                            <nav className="flex-grow flex flex-col p-4 overflow-y-auto">
                                 <div className="flex-grow space-y-2">
-                                {mobileNavLinks.map((link) => (
+                                {mainNavLinks.map((link) => (
                                     <SheetClose key={link.label} asChild>
                                          <Link
                                             href={link.href}
@@ -144,10 +134,30 @@ export function Header() {
                                         </Link>
                                     </SheetClose>
                                 ))}
+                                 <Accordion type="single" collapsible className="w-full">
+                                    <AccordionItem value="resources" className="border-b-0">
+                                        <AccordionTrigger className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground no-underline">
+                                             <Users className="h-5 w-5" />
+                                            <span>Resources</span>
+                                        </AccordionTrigger>
+                                        <AccordionContent className="pl-8">
+                                            <div className="flex flex-col space-y-1 mt-1">
+                                                {resourcesLinks.map(link => (
+                                                    <SheetClose key={link.label} asChild>
+                                                        <Link href={link.href} className="flex items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
+                                                            <link.icon className="h-4 w-4" />
+                                                            {link.label}
+                                                        </Link>
+                                                    </SheetClose>
+                                                ))}
+                                            </div>
+                                        </AccordionContent>
+                                    </AccordionItem>
+                                </Accordion>
                                 </div>
                             </nav>
                              <div className="mt-auto p-6 border-t space-y-4">
-                                <a href="httpst.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
+                                <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
                                     <Button className="w-full text-base h-12">Post a Job</Button>
                                 </a>
                                 <div className="flex items-center justify-center gap-6 pt-2">
