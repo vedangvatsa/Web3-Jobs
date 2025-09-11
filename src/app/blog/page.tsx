@@ -3,6 +3,7 @@ import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { BlogPageClient } from '@/components/blog-page-client';
 import type { CollectionPage } from 'schema-dts';
+import { Suspense } from 'react';
 
 
 export default async function PlaybookIndexPage() {
@@ -36,7 +37,9 @@ export default async function PlaybookIndexPage() {
       <div className="flex flex-col min-h-screen bg-background">
         <Header />
         <main className="flex-1">
-          <BlogPageClient allArticles={allArticles} categories={categories} />
+          <Suspense fallback={<div>Loading...</div>}>
+            <BlogPageClient allArticles={allArticles} categories={categories} />
+          </Suspense>
         </main>
       </div>
     </>
