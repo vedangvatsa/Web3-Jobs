@@ -44,6 +44,10 @@ export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
 export async function getArticle(slug: string): Promise<Article | undefined> {
   const fullPath = path.join(articlesDirectory, `${slug}.md`);
   
+  if (!fs.existsSync(fullPath)) {
+    return undefined;
+  }
+
   try {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const matterResult = matter(fileContents);
@@ -67,7 +71,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
       ...(matterResult.data as { title: string; image: string; description: string; category: string }),
     };
   } catch (err) {
-    // If the file doesn't exist, return undefined
+    console.error(`Error reading or processing article ${slug}:`, err);
     return undefined;
   }
 }
