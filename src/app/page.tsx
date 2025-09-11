@@ -107,6 +107,12 @@ const partnersLogos = [
 ];
 
 const mediaLogos = [
+    { name: 'Business Standard', src: '/logo/media/business-standard.png' },
+    { name: 'Coinedition', src: '/logo/media/coinedition.png' },
+    { name: 'Decrypt', src: '/logo/media/decrypt.png' },
+    { name: 'Outlook', src: '/logo/media/outlook.png' },
+    { name: 'TheStreet', src: '/logo/media/thestreet.svg' },
+    { name: 'Yahoo', src: '/logo/media/yahoo.png' },
     { name: 'media-0', src: '/logo/media/0df9cd95ce02d767feb771e713b387514e9b6590.png' },
     { name: 'media-1', src: '/logo/media/1ce9a019ef58063c68fd5f64d36199068838804e.png' },
     { name: 'media-2', src: '/logo/media/2c3fa745faeb2bd3a97ef271a7210d82b8f193fb.png' },
