@@ -1,0 +1,33 @@
+
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Remote Work Readiness Checklist',
+  description: 'A comprehensive checklist to optimize your remote work setup for productivity, security, and well-being in a Web3 career.',
+  openGraph: {
+    title: 'Remote Work Readiness Checklist | Hashtag Web3',
+    description: 'Optimize your remote setup. Our checklist covers everything from ergonomics to security for Web3 professionals.',
+    images: [
+      {
+        url: 'https://hashtagweb3.com/og-image-checklist.png',
+        width: 1200,
+        height: 630,
+        alt: 'Remote Work Checklist',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Remote Work Readiness Checklist | Hashtag Web3',
+    description: 'Optimize your remote setup for a successful Web3 career.',
+    images: ['https://hashtagweb3.com/og-image-checklist.png'],
+  },
+};
+
+export default function RemoteWorkChecklistLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return <>{children}</>;
+}
