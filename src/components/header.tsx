@@ -18,7 +18,7 @@ export function Header() {
         { href: "/jobs", label: "Jobs", icon: Briefcase },
         { href: "/blog", label: "Playbook", icon: BookOpen },
         { href: "/news", label: "News", icon: Newspaper },
-        { href: "/community", label: "Community", icon: Users },
+        { href: "/", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
 
@@ -44,7 +44,7 @@ export function Header() {
         { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
-        { href: "/community", label: "Community", icon: Users },
+        { href: "/", label: "Community", icon: Users },
     ];
 
 
