@@ -3,7 +3,7 @@
 import { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
 
-const siteUrl = 'https://jobs.hashtagweb3.com';
+const siteUrl = 'https://hashtagweb3.com';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = await getAllArticles();
