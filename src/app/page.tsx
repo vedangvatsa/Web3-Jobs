@@ -11,6 +11,7 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter }
 import Image from 'next/image';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { JobListings } from '@/components/job-listings';
+import { MediaCarousel } from '@/components/media-carousel';
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
   return (
@@ -475,17 +476,7 @@ export default async function CommunityPage() {
           
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
-                <div className="text-center mb-12">
-                    <TransitioningHeadline phrases={["As Seen On", "Media Features", "In The News"]} />
-                </div>
-                <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
-                    {mediaLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={logo.name} fill className="object-contain" unoptimized/>
-                        </div>
-                    ))}
-                </div>
-                <p className="text-center text-xs text-muted-foreground mt-6">and many more...</p>
+               <MediaCarousel logos={mediaLogos} />
              </div>
           </section>
 
@@ -560,9 +551,7 @@ export default async function CommunityPage() {
             </section>
 
           <section className="text-center py-16 bg-primary/5 rounded-lg">
-            <div className="text-center mb-12">
-                <TransitioningHeadline phrases={["Connect with our Representative", "Let's Grow Together", "Start Your Campaign"]} />
-            </div>
+             <h2 className="text-3xl font-bold text-primary mb-2">Connect with our representative</h2>
              <p className="text-muted-foreground mb-8">Share your requirements, and we’ll recommend the most effective strategy.</p>
              <div className="flex justify-center gap-4">
                 <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
@@ -576,8 +565,30 @@ export default async function CommunityPage() {
         <div className="py-16 bg-secondary/40 mt-16">
             <div className="container mx-auto px-4">
 
-            {/* Blog Section */}
+            {/* Jobs Section */}
             <section className="mb-16">
+                <div className="flex justify-between items-center mb-6">
+                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
+                <Button variant="ghost" asChild>
+                    <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                </Button>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                 {latestJobs.map((job) => (
+                    <Card key={job.id} className="transform transition-all duration-200 hover:-translate-y-1">
+                      <a href={job.link} target="_blank" rel="noopener noreferrer" className="block p-4 h-full">
+                        <CardHeader className="p-0">
+                          <CardTitle className="text-base font-semibold">{job.title}</CardTitle>
+                          <CardDescription>{job.company}</CardDescription>
+                        </CardHeader>
+                      </a>
+                    </Card>
+                  ))}
+                </div>
+            </section>
+
+            {/* Blog Section */}
+            <section>
                 <div className="flex justify-between items-center mb-6">
                 <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
                 <Button variant="ghost" asChild>
@@ -588,6 +599,20 @@ export default async function CommunityPage() {
                 {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
                 </div>
             </section>
+
+            {/* News Section */}
+             <section className="mt-16">
+                <div className="flex justify-between items-center mb-6">
+                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> News Feed</h2>
+                <Button variant="ghost" asChild>
+                    <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                </Button>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                 {latestNews.map((item, index) => <NewsCard key={index} item={item} />)}
+                </div>
+            </section>
+
             </div>
         </div>
       </main>
