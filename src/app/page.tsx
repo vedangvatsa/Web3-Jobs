@@ -493,7 +493,7 @@ export default async function CommunityPage() {
                 </Card>
             </section>
 
-            <section className="mb-16 bg-secondary/40 rounded-lg p-8">
+            <section className="mb-16">
               <div className="text-center">
                 <h2 className="text-3xl font-bold text-primary mb-2">Stay Ahead with Our News Feed</h2>
                 <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
@@ -561,6 +561,23 @@ export default async function CommunityPage() {
                 </a>
              </div>
           </section>
+        </div>
+        
+        <div className="py-16 bg-secondary/40 mt-16">
+          <div className="container mx-auto px-4">
+            {/* Blog Section */}
+            <section>
+              <div className="flex justify-between items-center mb-6">
+                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
+                <Button variant="ghost" asChild>
+                  <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                </Button>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
+              </div>
+            </section>
+          </div>
         </div>
       </main>
     </div>
