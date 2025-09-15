@@ -40,7 +40,7 @@ export default function NewsPage() {
   React.useEffect(() => {
     async function fetchNews() {
       try {
-        const response = await fetch('/api/news');
+        const response = await fetch(`/api/news?_=${new Date().getTime()}`);
         if (!response.ok) {
           throw new Error('Failed to fetch news');
         }
