@@ -1,4 +1,3 @@
-
 import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
@@ -274,7 +273,7 @@ const headlines = [
 
 export default async function CommunityPage() {
   const latestJobs = (await getJobs()).slice(0, 27);
-  const latestArticles = (await getAllArticles()).slice(0, 15);
+  const latestArticles = (await getAllArticles()).slice(0, 3);
   const latestNews = (await getNewsFeed()).slice(0, 10);
 
   return (
