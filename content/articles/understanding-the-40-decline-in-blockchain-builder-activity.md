@@ -22,27 +22,34 @@ Ethereum, Solana, and Cosmos Network Stack lead in both developer engagement and
 | Foundry              | 575                | 2,211          | -4.3%            | -12.5%              |
 | Cosmos Network       | 559                | 4,803          | -16.9%           | 6.3%                |
 
+
 ### Macro Trends and Insights
 
 #### 1. Declining Activity, But Resilient Core
 
-Most major chains have seen a decline in both weekly active developers and commits over the past 6-12 months. Ethereum, despite a 15% drop in active devs and a 28% drop in commits over the past year, still leads by a wide margin, reflecting its foundational role in Web3. Solana and Cosmos ecosystems also show double-digit declines, which may reflect broader market cycles or developer migration.
+Most major chains have seen a decline in both weekly active developers and commits over the past 6-12 months.
+Ethereum, despite a 15% drop in active devs and a 28% drop in commits over the past year, still leads by a wide margin, reflecting its foundational role in Web3.
+Solana and Cosmos ecosystems also show double-digit declines, which may reflect broader market cycles or developer migration.
 
 #### 2. Bear Market Resilience
 
-Even with declines, the number of weekly active developers remains significantly higher than during the last bear market in 2020, indicating a maturing and committed developer base. Artemis data shows 6,000-7,000 weekly active developers ecosystem-wide since early 2023, with daily active devs near 1,700.
+Even with declines, the number of weekly active developers remains significantly higher than during the last bear market in 2020, indicating a maturing and committed developer base.
+Artemis data shows 6,000-7,000 weekly active developers ecosystem-wide since early 2023, with daily active devs near 1,700.
 
 #### 3. Commits as Productivity Proxy
 
-Artemis uses weekly commits as a proxy for productivity, with over 50,000 weekly commits tracked across the crypto ecosystem. Discrepancies in reported numbers (e.g., Artemis vs. Token Terminal) stem from differences in data sources and inclusion criteria, such as sub-ecosystem and application-level activity.
+Artemis uses weekly commits as a proxy for productivity, with over 50,000 weekly commits tracked across the crypto ecosystem.
+Discrepancies in reported numbers (e.g., Artemis vs. Token Terminal) stem from differences in data sources and inclusion criteria, such as sub-ecosystem and application-level activity.
 
 #### 4. Ecosystem Diversification
 
-The Polkadot ecosystem exemplifies how activity is not always concentrated on the main chain; parachains and appchains often drive more usage and innovation. Artemis’s expanded analytics for Polkadot and its parachains highlight the importance of cross-chain and multi-chain development.
+The Polkadot ecosystem exemplifies how activity is not always concentrated on the main chain; parachains and appchains often drive more usage and innovation.
+Artemis’s expanded analytics for Polkadot and its parachains highlight the importance of cross-chain and multi-chain development.
 
 #### 5. Developer Activity as a Leading Indicator
 
-Sustained developer activity is a leading indicator of future value creation, as developer engagement precedes user adoption and ecosystem growth. The cyclical nature of commits (e.g., holiday dips) and event-driven spikes (e.g., major upgrades, crises) reflects the responsiveness and adaptability of the crypto developer community.
+Sustained developer activity is a leading indicator of future value creation, as developer engagement precedes user adoption and ecosystem growth.
+The cyclical nature of commits (e.g., holiday dips) and event-driven spikes (e.g., major upgrades, crises) reflects the responsiveness and adaptability of the crypto developer community.
 
 ### The Alarming Drop in Blockchain Developer Activity
 Data from crypto metrics aggregator Artemis Terminal reveals a stark reality: weekly active developers in the crypto space have fallen from approximately 12,000 in April 2024 to just 7,290 by March 2025—a 40% decrease in a single year. Even more concerning, this figure dipped below 5,270 in late December 2024 before slightly recovering in January.
@@ -120,7 +127,6 @@ PitchBook analyst Robert Le projects crypto venture capital funding to reach $18
 #### 2. Q1 2025 Funding Surge
 
 The first quarter of 2025 saw $4.8 billion in crypto VC funding, the highest since Q3 2022. This quarter alone represented 60% of the total VC capital deployed in all of 2024, suggesting a potential turning point.
-
 
 #### 3. Institutional Involvement
 
