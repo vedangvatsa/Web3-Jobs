@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Decline in Blockchain Dev Activity"
-image: "/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
+image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "developer decline graph"
 description: "An analysis of the 40% decline in blockchain developer activity, exploring the shift in VC funding, the rise of AI, and what it means for the future of crypto."
 category: "Industry Insights"
@@ -12,49 +12,11 @@ The exodus of developer talent from crypto projects comes at a critical juncture
 
 Ethereum, Solana, and Cosmos Network Stack lead in both developer engagement and code commits, but all major chains have experienced recent declines in activity. Developer activity is a critical metric for ecosystem health, often preceding value creation and innovation.
 
-### Top Ecosystems by Blockchain Developer Activity (April 2025)
-
-| Ecosystem            | Weekly Active Devs | Weekly Commits | 1Y Change (Devs) | 1Y Change (Commits) |
-| :------------------- | :----------------- | :------------- | :--------------- | :------------------ |
-| Ethereum             | 2,469              | 30,855         | -15.0%           | -28.0%              |
-| Solana               | 716                | 3,921          | -19.0%           | -25.5%              |
-| Cosmos Network Stack | 666                | 7,031          | -24.1%           | -9.6%               |
-| Foundry              | 575                | 2,211          | -4.3%            | -12.5%              |
-| Cosmos Network       | 559                | 4,803          | -16.9%           | 6.3%                |
-
-
-### Macro Trends and Insights
-
-#### 1. Declining Activity, But Resilient Core
-
-Most major chains have seen a decline in both weekly active developers and commits over the past 6-12 months.
-Ethereum, despite a 15% drop in active devs and a 28% drop in commits over the past year, still leads by a wide margin, reflecting its foundational role in Web3.
-Solana and Cosmos ecosystems also show double-digit declines, which may reflect broader market cycles or developer migration.
-
-#### 2. Bear Market Resilience
-
-Even with declines, the number of weekly active developers remains significantly higher than during the last bear market in 2020, indicating a maturing and committed developer base.
-Artemis data shows 6,000-7,000 weekly active developers ecosystem-wide since early 2023, with daily active devs near 1,700.
-
-#### 3. Commits as Productivity Proxy
-
-Artemis uses weekly commits as a proxy for productivity, with over 50,000 weekly commits tracked across the crypto ecosystem.
-Discrepancies in reported numbers (e.g., Artemis vs. Token Terminal) stem from differences in data sources and inclusion criteria, such as sub-ecosystem and application-level activity.
-
-#### 4. Ecosystem Diversification
-
-The Polkadot ecosystem exemplifies how activity is not always concentrated on the main chain; parachains and appchains often drive more usage and innovation.
-Artemis’s expanded analytics for Polkadot and its parachains highlight the importance of cross-chain and multi-chain development.
-
-#### 5. Developer Activity as a Leading Indicator
-
-Sustained developer activity is a leading indicator of future value creation, as developer engagement precedes user adoption and ecosystem growth.
-The cyclical nature of commits (e.g., holiday dips) and event-driven spikes (e.g., major upgrades, crises) reflects the responsiveness and adaptability of the crypto developer community.
-
 ### The Alarming Drop in Blockchain Developer Activity
 Data from crypto metrics aggregator Artemis Terminal reveals a stark reality: weekly active developers in the crypto space have fallen from approximately 12,000 in April 2024 to just 7,290 by March 2025—a 40% decrease in a single year. Even more concerning, this figure dipped below 5,270 in late December 2024 before slightly recovering in January.
 
 This decline isn’t isolated to a few projects. According to Artemis data, the crypto space encompasses over 1,500 ecosystems, many with multiple sub-ecosystems, suggesting the downturn is widespread. Other sources confirm similar numbers, with some reporting the decline at 38.6% year-over-year.
+
 
 For specific platforms like Solana, the trend is particularly concerning. Despite Solana’s strong price performance, its core developer count has been declining since 2022, while competitor Ethereum has maintained steady growth in its developer base. This disparity highlights how market performance doesn’t necessarily correlate with developer retention.
 
@@ -63,12 +25,14 @@ Why does developer activity matter so much? Developers are the lifeblood of bloc
 
 Binji Pande, a contributor to the Ethereum-based layer-2 network Optimism, explains that the decline indicates “attention has shifted, incentives have dried up, and speculation is moving faster than utility in the crypto space”. Pande argues that the industry has become “rife with narrative-led development when there should be more development-led narratives”.
 
+
 This sentiment is echoed by other developers who suggest the industry needs to return to basics and support applications that demonstrate the futuristic potential of crypto. Without active developers, protocols stagnate, security vulnerabilities go unpatched, and new features stop emerging.
 
 ### The Venture Capital Factor: Following the Money
 The developer exodus coincides with significant changes in venture capital funding patterns. According to Stephen Flanders‘ analysis, the overwhelming consensus is that “crypto beyond bitcoin, stablecoins, and pump.fun is simply put extremely cooked”.
 
 Flanders places much of the blame on venture capitalists: “I think the VCs are mostly to blame, who, without their rape train of low float high fdv L1s, have mostly retreated from the space”. His analysis shows that even in 2024, when Bitcoin reached $100,000, VC investment barely surpassed the “barren 2023” levels.
+
 
 Looking at early-stage funding (angel, pre-seed, and seed rounds), the situation appears even more dire, particularly concerning since these rounds typically fund the most innovative ideas.
 
@@ -127,6 +91,7 @@ PitchBook analyst Robert Le projects crypto venture capital funding to reach $18
 #### 2. Q1 2025 Funding Surge
 
 The first quarter of 2025 saw $4.8 billion in crypto VC funding, the highest since Q3 2022. This quarter alone represented 60% of the total VC capital deployed in all of 2024, suggesting a potential turning point.
+
 
 #### 3. Institutional Involvement
 
