@@ -13,6 +13,8 @@ import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { JobListings } from '@/components/job-listings';
 import { MediaCarousel } from '@/components/media-carousel';
 
+export const revalidate = 43200; // Revalidate every 12 hours
+
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
   return (
     <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl h-full">
@@ -489,34 +491,6 @@ export default async function CommunityPage() {
                         </div>
                         <p className="font-semibold">Kris Lai</p>
                         <p className="text-sm text-muted-foreground">CEO, Scallop</p>
-                    </CardContent>
-                </Card>
-            </section>
-
-            <section className="mb-16">
-              <div className="text-center">
-                <h2 className="text-3xl font-bold text-primary mb-2">Stay Ahead with Our News Feed</h2>
-                <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-                  Get the latest updates, trends, and insights from the Web3 space. Join over 13,000 subscribers on our Telegram channel.
-                </p>
-                <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer">
-                  <Button size="lg">
-                    <Newspaper className="mr-2 h-5 w-5"/>
-                    Join News Feed
-                  </Button>
-                </a>
-              </div>
-            </section>
-          
-            <section className="mb-16">
-                <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
-                    <CardContent className="p-8 text-center">
-                        <p className="text-xl font-medium italic">“I had a great experience with their Web3 job Telegram channel. As a subscriber, I found highly relevant opportunities that stood out from other platforms. In less than two weeks, I completed all interviews, from HR to C-level, in a smooth process. Highly recommend it for anyone exploring or advancing a Web3 career.”</p>
-                        <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/fatima.png" alt="Fatima Zahra Sadir" width={64} height={64} className="rounded-full mx-auto" />
-                        </div>
-                        <p className="font-semibold">Fatima Zahra Sadir</p>
-                        <p className="text-sm text-muted-foreground">Product Owner, Zeebu</p>
                     </CardContent>
                 </Card>
             </section>
