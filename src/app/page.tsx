@@ -1,3 +1,4 @@
+
 import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
@@ -21,7 +22,7 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
         <div className="relative w-full h-40">
           <Image
             src={article.image}
-            alt={article.title}
+            alt={`${article.title} - Hashtag Web3 article`}
             fill
             className="object-cover rounded-t-lg"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -235,24 +236,24 @@ const caseStudies = [
 ]
 
 const communityPhotos = [
-    { src: '/logo/gallery/2025-08-14 18.05.08-min.jpg', alt: 'Community event photo 1' },
-    { src: '/logo/gallery/2025-08-14 18.05.12-min.jpg', alt: 'Community event photo 2' },
-    { src: '/logo/gallery/2025-08-14 18.05.15-min.jpg', alt: 'Community event photo 3' },
-    { src: '/logo/gallery/2025-08-14 18.05.18-min.jpg', alt: 'Community event photo 4' },
-    { src: '/logo/gallery/2025-08-14 18.05.20-min.jpg', alt: 'Community event photo 5' },
-    { src: '/logo/gallery/2025-08-14 18.05.24-min.jpg', alt: 'Community event photo 6' },
-    { src: '/logo/gallery/2025-08-14 18.05.27-min.jpg', alt: 'Community event photo 7' },
-    { src: '/logo/gallery/2025-08-14 18.05.30-min.jpg', alt: 'Community event photo 8' },
-    { src: '/logo/gallery/2025-08-14 18.05.33-min.jpg', alt: 'Community event photo 9' },
-    { src: '/logo/gallery/2025-08-14 18.05.35-min.jpg', alt: 'Community event photo 10' },
-    { src: '/logo/gallery/2025-08-14 18.05.44-min.jpg', alt: 'Community event photo 11' },
-    { src: '/logo/gallery/2025-08-14 18.05.47-min.jpg', alt: 'Community event photo 12' },
-    { src: '/logo/gallery/2025-08-14 18.05.50-min.jpg', alt: 'Community event photo 13' },
-    { src: '/logo/gallery/2025-08-14 22.30.59.jpg', alt: 'Community event photo 14' },
-    { src: '/logo/gallery/2025-08-14 22.31.02.jpg', alt: 'Community event photo 15' },
-    { src: '/logo/gallery/2025-08-14 22.32.30.jpg', alt: 'Community event photo 16' },
-    { src: '/logo/gallery/2025-08-14 22.38.14.jpg', alt: 'Community event photo 17' },
-    { src: '/logo/gallery/2025-08-14 22.38.17.jpg', alt: 'Community event photo 18' }
+    { src: '/logo/gallery/2025-08-14 18.05.08-min.jpg', alt: 'Hashtag Web3 community event photo 1' },
+    { src: '/logo/gallery/2025-08-14 18.05.12-min.jpg', alt: 'Hashtag Web3 community event photo 2' },
+    { src: '/logo/gallery/2025-08-14 18.05.15-min.jpg', alt: 'Hashtag Web3 community event photo 3' },
+    { src: '/logo/gallery/2025-08-14 18.05.18-min.jpg', alt: 'Hashtag Web3 community event photo 4' },
+    { src: '/logo/gallery/2025-08-14 18.05.20-min.jpg', alt: 'Hashtag Web3 community event photo 5' },
+    { src: '/logo/gallery/2025-08-14 18.05.24-min.jpg', alt: 'Hashtag Web3 community event photo 6' },
+    { src: '/logo/gallery/2025-08-14 18.05.27-min.jpg', alt: 'Hashtag Web3 community event photo 7' },
+    { src: '/logo/gallery/2025-08-14 18.05.30-min.jpg', alt: 'Hashtag Web3 community event photo 8' },
+    { src: '/logo/gallery/2025-08-14 18.05.33-min.jpg', alt: 'Hashtag Web3 community event photo 9' },
+    { src: '/logo/gallery/2025-08-14 18.05.35-min.jpg', alt: 'Hashtag Web3 community event photo 10' },
+    { src: '/logo/gallery/2025-08-14 18.05.44-min.jpg', alt: 'Hashtag Web3 community event photo 11' },
+    { src: '/logo/gallery/2025-08-14 18.05.47-min.jpg', alt: 'Hashtag Web3 community event photo 12' },
+    { src: '/logo/gallery/2025-08-14 18.05.50-min.jpg', alt: 'Hashtag Web3 community event photo 13' },
+    { src: '/logo/gallery/2025-08-14 22.30.59.jpg', alt: 'Hashtag Web3 community event photo 14' },
+    { src: '/logo/gallery/2025-08-14 22.31.02.jpg', alt: 'Hashtag Web3 community event photo 15' },
+    { src: '/logo/gallery/2025-08-14 22.32.30.jpg', alt: 'Hashtag Web3 community event photo 16' },
+    { src: '/logo/gallery/2025-08-14 22.38.14.jpg', alt: 'Hashtag Web3 community event photo 17' },
+    { src: '/logo/gallery/2025-08-14 22.38.17.jpg', alt: 'Hashtag Web3 community event photo 18' }
 ];
 
 const whatsappGroups = [
@@ -309,7 +310,7 @@ export default async function CommunityPage() {
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 gap-x-8 gap-y-6 items-center justify-center">
                     {companies.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
+                            <Image src={logo.src} alt={`Logo of ${logo.name}, a Hashtag Web3 network company`} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
@@ -381,7 +382,7 @@ export default async function CommunityPage() {
               {caseStudies.map(study => (
                 <Card key={study.title} className="overflow-hidden">
                    <div className="relative h-56 w-full">
-                     <Image src={study.image} alt={study.title} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
+                     <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
                    </div>
                    <CardHeader>
                         <CardTitle>{study.title}</CardTitle>
@@ -455,7 +456,7 @@ export default async function CommunityPage() {
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized />
+                            <Image src={logo.src} alt={`Logo of ${logo.name}, a Hashtag Web3 partner`} fill className="object-contain" unoptimized />
                         </div>
                     ))}
                 </div>
@@ -467,7 +468,7 @@ export default async function CommunityPage() {
                     <CardContent className="p-8 text-center">
                         <p className="text-xl font-medium italic">“Their Web3 Jobs Telegram channel has proven to be the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new opportunities the moment they are available on the market, significantly improving the visibility of my applications.”</p>
                         <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/suki.png" alt="Suki Cheung" width={64} height={64} className="rounded-full mx-auto" />
+                            <Image src="/logo/quotes/suki.png" alt="Photo of Suki Cheung" width={64} height={64} className="rounded-full mx-auto" />
                         </div>
                         <p className="font-semibold">Suki Cheung</p>
                         <p className="text-sm text-muted-foreground">Community Lead, Trust Wallet</p>
@@ -486,7 +487,7 @@ export default async function CommunityPage() {
                     <CardContent className="p-8 text-center">
                         <p className="text-2xl font-medium italic">“We’ve got many mails, there’s a new one per 5 mins”</p>
                          <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/kris.png" alt="Kris Lai" width={64} height={64} className="rounded-full mx-auto" />
+                            <Image src="/logo/quotes/kris.png" alt="Photo of Kris Lai" width={64} height={64} className="rounded-full mx-auto" />
                         </div>
                         <p className="font-semibold">Kris Lai</p>
                         <p className="text-sm text-muted-foreground">CEO, Scallop</p>
@@ -502,7 +503,7 @@ export default async function CommunityPage() {
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {hiredCompanies.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`${logo.name} logo`} fill className="object-contain" unoptimized/>
+                            <Image src={logo.src} alt={`Logo of ${logo.name}, where Hashtag Web3 promotes jobs`} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
@@ -515,7 +516,7 @@ export default async function CommunityPage() {
                     <CardContent className="p-8 text-center">
                         <p className="text-xl font-medium italic">“Our agency has been using the job board for the past year, and we’ve tripled our speed in closing roles thanks to their high-quality talent pool.”</p>
                         <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/zhanna.png" alt="Zhanna Manzyk" width={64} height={64} className="rounded-full mx-auto" />
+                            <Image src="/logo/quotes/zhanna.png" alt="Photo of Zhanna Manzyk" width={64} height={64} className="rounded-full mx-auto" />
                         </div>
                         <p className="font-semibold">Zhanna Manzyk</p>
                         <p className="text-sm text-muted-foreground">CEO, Jaya Talent</p>
@@ -538,9 +539,22 @@ export default async function CommunityPage() {
         
         <div className="py-16 bg-secondary/40 mt-16">
           <div className="container mx-auto px-4">
+            {/* Jobs Section */}
+            <section className="mb-16">
+                <div className="flex justify-between items-center mb-6">
+                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
+                <Button variant="ghost" asChild>
+                    <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                </Button>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {latestJobs.map(job => <JobCard key={job.id} job={job} />)}
+                </div>
+            </section>
+
             {/* Blog Section */}
             <section>
-              <div className="flex justify-between items-center mb-6">
+                <div className="flex justify-between items-center mb-6">
                 <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
                 <Button variant="ghost" asChild>
                   <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
@@ -550,7 +564,21 @@ export default async function CommunityPage() {
                 {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
               </div>
             </section>
-          </div>
+
+            {/* News Section */}
+             <section className="mt-16">
+                <div className="flex justify-between items-center mb-6">
+                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> News Feed</h2>
+                <Button variant="ghost" asChild>
+                    <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                </Button>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                 {latestNews.map((item, index) => <NewsCard key={index} item={item} />)}
+                </div>
+            </section>
+
+            </div>
         </div>
       </main>
     </div>

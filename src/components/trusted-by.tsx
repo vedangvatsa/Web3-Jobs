@@ -26,7 +26,7 @@ export function TrustedBy() {
                                     <div className="relative h-6 w-32">
                                         <Image 
                                           src={logo.src}
-                                          alt={`${logo.name} logo`}
+                                          alt={`Logo of ${logo.name}`}
                                           fill
                                           className="object-contain"
                                           unoptimized

@@ -20,7 +20,7 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
         <div className="relative w-full h-48">
           <Image
             src={article.image}
-            alt={article.title}
+            alt={`${article.title} - Hashtag Web3 Playbook`}
             fill
             className="object-cover rounded-t-lg"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

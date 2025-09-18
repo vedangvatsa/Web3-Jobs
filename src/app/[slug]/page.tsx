@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
           url: article.image,
           width: 1200,
           height: 630,
-          alt: article.title,
+          alt: `${article.title} - Hashtag Web3`,
         },
       ],
     },
@@ -112,7 +112,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </header>
             <Image
               src={article.image}
-              alt={article.title}
+              alt={`${article.title} - Hashtag Web3 article cover`}
               width={1200}
               height={630}
               className="rounded-lg shadow-xl mb-8"
