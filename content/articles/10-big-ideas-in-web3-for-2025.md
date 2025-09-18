@@ -1,6 +1,6 @@
 ---
 title: "10 Big Ideas in Web3 for 2025"
-image: "/images/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
+image: "https://images.unsplash.com/photo-1665597704311-d7304eaf70ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWIzfGVufDB8fHx8MTc1ODE4MTYyNXww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "web3 future trends"
 description: "The Web3 ecosystem continues to evolve rapidly, and 2025 is shaping up to be a landmark year. Here, we explore the big ideas expected to drive Web3 in 2025."
 category: "Industry Insights"
