@@ -1,3 +1,4 @@
+
 'use client';
 
 import * as React from 'react';
@@ -48,7 +49,7 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
                     <div className="relative h-12 w-full" title={logo.name}>
                         <Image 
                             src={logo.src} 
-                            alt={`${logo.name} logo`} 
+                            alt={`Logo of ${logo.name} where Hashtag Web3 has been featured`} 
                             fill 
                             className="object-contain" 
                             unoptimized

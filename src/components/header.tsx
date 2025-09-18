@@ -39,9 +39,9 @@ export function Header() {
     ];
 
     const socialLinks = [
-        { href: "https://x.com/hashtag_web3", label: "X", icon: Twitter, 'aria-label': 'Follow us on X' },
-        { href: "https://linkedin.com/company/hashtagweb3", label: "LinkedIn", icon: Linkedin, 'aria-label': 'Follow us on LinkedIn' },
-        { href: "https://t.me/hashtagweb3", label: "Telegram", icon: Send, 'aria-label': 'Join us on Telegram' },
+        { href: "https://x.com/hashtag_web3", label: "X", icon: Twitter, 'aria-label': 'Follow Hashtag Web3 on X' },
+        { href: "https://linkedin.com/company/hashtagweb3", label: "LinkedIn", icon: Linkedin, 'aria-label': 'Follow Hashtag Web3 on LinkedIn' },
+        { href: "https://t.me/hashtagweb3", label: "Telegram", icon: Send, 'aria-label': 'Join Hashtag Web3 on Telegram' },
     ]
 
     return (
