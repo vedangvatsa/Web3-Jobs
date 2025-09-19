@@ -131,7 +131,9 @@ const mediaLogos = [
     { name: 'media-17', src: '/logo/media/653a53899adfcbeafc81de62baa881d1c2d27c5a.png' },
     { name: 'media-18', src: '/logo/media/914ed4188944a17b5f4b541374670571c6316e69.png' },
     { name: 'media-19', src: '/logo/media/2038d630d6fdd84ee6b82d19374e8c1dedd4bc25.png' },
+    { name: 'media-20', src: '/logo/media/5295a00d73a662c02e46e2c6d01fdd59a8250ffa.png' },
 ];
+
 
 const hiredCompanies = [
     { name: 'Alemx', src: '/logo/job/alemx.png' },
@@ -244,7 +246,7 @@ const headlines = [
     "Your Partner in Growth"
 ];
 
-export function CommunityPageContent({ 
+export function HomePageContent({ 
     latestJobs,
     latestArticles,
     latestNews
