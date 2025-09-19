@@ -13,6 +13,7 @@ import { JobCard } from '@/components/job-card';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
 import Image from 'next/image';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
+import { MediaCarousel } from './media-carousel';
 
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
@@ -411,14 +412,7 @@ export function CommunityPageContent({
 
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
-                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
-                    {partnersLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`Logo of ${logo.name}, a Hashtag Web3 partner`} fill className="object-contain" unoptimized />
-                        </div>
-                    ))}
-                </div>
+                <MediaCarousel logos={mediaLogos} />
              </div>
           </section>
 
@@ -437,15 +431,14 @@ export function CommunityPageContent({
           
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">As seen on</h3>
-                <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
-                    {mediaLogos.map((logo) => (
+                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
+                    {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`Logo of ${logo.name} media outlet, where Hashtag Web3 has been featured`} fill className="object-contain" unoptimized/>
+                            <Image src={logo.src} alt={`Logo of ${logo.name}, a Hashtag Web3 partner`} fill className="object-contain" unoptimized />
                         </div>
                     ))}
                 </div>
-                <p className="text-center text-xs text-muted-foreground mt-6">and many more...</p>
              </div>
           </section>
 
@@ -504,17 +497,30 @@ export function CommunityPageContent({
         </div>
         <div className="py-16 bg-secondary/40 mt-16">
             <div className="container mx-auto px-4">
-                <section>
-                    <div className="flex justify-between items-center mb-6">
-                    <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
-                    <Button variant="ghost" asChild>
-                    <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                    </Button>
+                <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                    <div className="lg:col-span-1">
+                        <h2 className="text-3xl font-bold text-primary mb-4 flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
+                        <div className="space-y-4">
+                            {latestJobs.slice(0, 5).map(job => <JobCard key={job.id} job={job} />)}
+                        </div>
+                        <Button variant="outline" className="mt-6 w-full" asChild>
+                           <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                        </Button>
+                    </div>
+                    <div className="lg:col-span-2">
+                         <section>
+                            <div className="flex justify-between items-center mb-6">
+                                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
+                                <Button variant="ghost" asChild>
+                                <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                                </Button>
+                            </div>
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
+                            </div>
+                        </section>
+                    </div>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                    {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
-                </div>
-                </section>
             </div>
         </div>
       </>
