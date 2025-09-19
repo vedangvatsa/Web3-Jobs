@@ -11,7 +11,7 @@ export const revalidate = 43200; // Revalidate every 12 hours
 
 export default async function Page() {
   const latestJobs = (await getJobs());
-  const latestArticles = (await getAllArticles()).slice(0, 6);
+  const latestArticles = (await getAllArticles()).slice(0, 12);
   const latestNews = (await getNewsFeed()).slice(0, 10);
   
   const siteUrl = 'https://hashtagweb3.com';
