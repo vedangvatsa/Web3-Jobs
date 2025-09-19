@@ -111,49 +111,12 @@ const partnersLogos = [
 ];
 
 const mediaLogos = [
-    { name: 'media-0', src: '/logo/media/0df9cd95ce02d767feb771e713b387514e9b6590.png' },
-    { name: 'media-1', src: '/logo/media/1ce9a019ef58063c68fd5f64d36199068838804e.png' },
-    { name: 'media-2', src: '/logo/media/2c3fa745faeb2bd3a97ef271a7210d82b8f193fb.png' },
-    { name: 'media-3', src: '/logo/media/2d6ff9bae82b907d41d85b0e2b145a4202f656ba.png' },
-    { name: 'media-4', src: '/logo/media/2eaefd517b11a4f8139fa0998f0321073e6aaa26.png' },
-    { name: 'media-5', src: '/logo/media/3f5ed1e4e5acf2a1aa699648e9a8284f895f5b9e.png' },
-    { name: 'media-6', src: '/logo/media/7c7a5cb7d0a5dde8c873b68c2fa7a5748a9f2821.png' },
-    { name: 'media-7', src: '/logo/media/9f54a3a611014d6c5b03d4e87059095e1710c84c.png' },
-    { name: 'media-8', src: '/logo/media/13b366f03bf16e31432f997be9d974ace71f5483.png' },
-    { name: 'media-9', src: '/logo/media/14b6543adc2530b43e59f255852262af6294a874.png' },
-    { name: 'media-10', src: '/logo/media/47a5b11c5f367ffff6d46d4eeff2020ba76b4ec2.png' },
-    { name: 'media-11', src: '/logo/media/60db47ab2a1ee5695d364da223d9267d15a68733.png' },
-    { name: 'media-12', src: '/logo/media/61f451fcff223b9ec852f65ee7232906e1e6bfe1.png' },
-    { name: 'media-13', src: '/logo/media/454f781c4d44411f1cfb964a8e1e6b5768ec883c.png' },
-    { name: 'media-14', src: '/logo/media/543ac1c6ea4d10859ddb62f62a7932d9c3318005.png' },
-    { name: 'media-15', src: '/logo/media/564b865018722f2f3f1f43875bc4112822bacbe4.png' },
-    { name: 'media-16', src: '/logo/media/565e76c27070ab0c4da9be1dc106d777c910a938.png' },
-    { name: 'media-17', src: '/logo/media/653a53899adfcbeafc81de62baa881d1c2d27c5a.png' },
-    { name: 'media-18', src: '/logo/media/914ed4188944a17b5f4b541374670571c6316e69.png' },
-    { name: 'media-19', src: '/logo/media/2038d630d6fdd84ee6b82d19374e8c1dedd4bc25.png' },
-    { name: 'media-20', src: '/logo/media/5295a00d73a662c02e46e2c6d01fdd59a8250ffa.png' },
-    { name: 'media-21', src: '/logo/media/7412a040ffa99d458d711f293b7f4ec8aae67fb4.png' },
-    { name: 'media-22', src: '/logo/media/599823393b4fadc2f1c9d50b93027ebfc2f6a1f4.png' },
-    { name: 'media-23', src: '/logo/media/a75e3d52b7b04cb4c7a52d6cbc2f62e4976e38ec.png' },
-    { name: 'media-24', src: '/logo/media/a87caeb08ded3f7dfb78586def381c2660ebd362.png' },
-    { name: 'media-25', src: '/logo/media/a96dc8c251ff32063535679a0de8bef0d74e865e.png' },
-    { name: 'media-26', src: '/logo/media/a2007f6f9ccc4f08bf6b72f304f9035546d523ec.png' },
-    { name: 'media-27', src: '/logo/media/ab398280457925b507d0a326afeaa805fcdce44f.png' },
-    { name: 'media-28', src: '/logo/media/b4b3e299ec3e8ca0006c5da7ae64cb64662bcfc2.png' },
-    { name: 'media-29', src: '/logo/media/b4be4520b04c9259cf99e85be4be79aa7ac536d6.png' },
-    { name: 'media-30', src: '/logo/media/bacc530863613b9324c1cc7e82a54fa3148edb98.png' },
-    { name: 'media-31', src: '/logo/media/da7cff558c507e346c999223832c127a6ea96d5b.png' },
-    { name: 'media-32', src: '/logo/media/decc1fcda37e13f7000b974cf66fa5285d7417e0.png' },
-    { name: 'media-33', src: '/logo/media/e4f8dbfe5586e79cba894b2d15c00a70d3254ea2.png' },
-    { name: 'media-34', src: '/logo/media/e5e35aa3421404362c95a346d0f514d946611f90.png' },
-    { name: 'media-35', src: '/logo/media/e43df0a520f87e2398f60a37a2d6d942117be644.png' },
-    { name: 'media-36', src: '/logo/media/e66de1e638ae92a896922fa50b25417a3ca95aa7.png' },
-    { name: 'media-37', src: '/logo/media/e156110f2796b1b6bd7db2be08c985b66a7e1308.png' },
-    { name: 'media-38', src: '/logo/media/f76f8b0b56265c2227186f7cafb3b3a3dfb55437.png' },
-    { name: 'media-39', src: '/logo/media/f430e277178ec58fc097a3078c13028fabf80403.png' },
-    { name: 'media-40', src: '/logo/media/fa66e3f8d7cff979cba7ec1d7ad575212a1b8f3d.png' },
-    { name: 'media-41', src: '/logo/media/fb4bf9ef0e989c9795e066c4502ba75b3a567467.png' },
-    { name: 'media-42', src: '/logo/media/fd7e246f812a15af9fe590ce48ab163ceccee6f8.png' },
+    { name: 'Business Standard', src: '/logo/media/business-standard.png' },
+    { name: 'CoinEdition', src: '/logo/media/coinedition.png' },
+    { name: 'Decrypt', src: '/logo/media/decrypt.png' },
+    { name: 'Outlook', src: '/logo/media/outlook.png' },
+    { name: 'TheStreet', src: '/logo/media/thestreet.svg' },
+    { name: 'Yahoo', src: '/logo/media/yahoo.png' },
 ];
 
 const hiredCompanies = [
@@ -231,24 +194,24 @@ const caseStudies = [
 ]
 
 const communityPhotos = [
-    { src: '/logo/gallery/2025-08-14 18.05.08-min.jpg', alt: 'Hashtag Web3 community event photo 1' },
-    { src: '/logo/gallery/2025-08-14 18.05.12-min.jpg', alt: 'Hashtag Web3 community event photo 2' },
-    { src: '/logo/gallery/2025-08-14 18.05.15-min.jpg', alt: 'Hashtag Web3 community event photo 3' },
-    { src: '/logo/gallery/2025-08-14 18.05.18-min.jpg', alt: 'Hashtag Web3 community event photo 4' },
-    { src: '/logo/gallery/2025-08-14 18.05.20-min.jpg', alt: 'Hashtag Web3 community event photo 5' },
-    { src: '/logo/gallery/2025-08-14 18.05.24-min.jpg', alt: 'Hashtag Web3 community event photo 6' },
-    { src: '/logo/gallery/2025-08-14 18.05.27-min.jpg', alt: 'Hashtag Web3 community event photo 7' },
-    { src: '/logo/gallery/2025-08-14 18.05.30-min.jpg', alt: 'Hashtag Web3 community event photo 8' },
-    { src: '/logo/gallery/2025-08-14 18.05.33-min.jpg', alt: 'Hashtag Web3 community event photo 9' },
-    { src: '/logo/gallery/2025-08-14 18.05.35-min.jpg', alt: 'Hashtag Web3 community event photo 10' },
-    { src: '/logo/gallery/2025-08-14 18.05.44-min.jpg', alt: 'Hashtag Web3 community event photo 11' },
-    { src: '/logo/gallery/2025-08-14 18.05.47-min.jpg', alt: 'Hashtag Web3 community event photo 12' },
-    { src: '/logo/gallery/2025-08-14 18.05.50-min.jpg', alt: 'Hashtag Web3 community event photo 13' },
-    { src: '/logo/gallery/2025-08-14 22.30.59.jpg', alt: 'Hashtag Web3 community event photo 14' },
-    { src: '/logo/gallery/2025-08-14 22.31.02.jpg', alt: 'Hashtag Web3 community event photo 15' },
-    { src: '/logo/gallery/2025-08-14 22.32.30.jpg', alt: 'Hashtag Web3 community event photo 16' },
-    { src: '/logo/gallery/2025-08-14 22.38.14.jpg', alt: 'Hashtag Web3 community event photo 17' },
-    { src: '/logo/gallery/2025-08-14 22.38.17.jpg', alt: 'Hashtag Web3 community event photo 18' }
+    { src: '/logo/gallery/2025-08-14-18.05.08-min.jpg', alt: 'Hashtag Web3 community event photo 1' },
+    { src: '/logo/gallery/2025-08-14-18.05.12-min.jpg', alt: 'Hashtag Web3 community event photo 2' },
+    { src: '/logo/gallery/2025-08-14-18.05.15-min.jpg', alt: 'Hashtag Web3 community event photo 3' },
+    { src: '/logo/gallery/2025-08-14-18.05.18-min.jpg', alt: 'Hashtag Web3 community event photo 4' },
+    { src: '/logo/gallery/2025-08-14-18.05.20-min.jpg', alt: 'Hashtag Web3 community event photo 5' },
+    { src: '/logo/gallery/2025-08-14-18.05.24-min.jpg', alt: 'Hashtag Web3 community event photo 6' },
+    { src: '/logo/gallery/2025-08-14-18.05.27-min.jpg', alt: 'Hashtag Web3 community event photo 7' },
+    { src: '/logo/gallery/2025-08-14-18.05.30-min.jpg', alt: 'Hashtag Web3 community event photo 8' },
+    { src: '/logo/gallery/2025-08-14-18.05.33-min.jpg', alt: 'Hashtag Web3 community event photo 9' },
+    { src: '/logo/gallery/2025-08-14-18.05.35-min.jpg', alt: 'Hashtag Web3 community event photo 10' },
+    { src: '/logo/gallery/2025-08-14-18.05.44-min.jpg', alt: 'Hashtag Web3 community event photo 11' },
+    { src: '/logo/gallery/2025-08-14-18.05.47-min.jpg', alt: 'Hashtag Web3 community event photo 12' },
+    { src: '/logo/gallery/2025-08-14-18.05.50-min.jpg', alt: 'Hashtag Web3 community event photo 13' },
+    { src: '/logo/gallery/2025-08-14-22.30.59.jpg', alt: 'Hashtag Web3 community event photo 14' },
+    { src: '/logo/gallery/2025-08-14-22.31.02.jpg', alt: 'Hashtag Web3 community event photo 15' },
+    { src: '/logo/gallery/2025-08-14-22.32.30.jpg', alt: 'Hashtag Web3 community event photo 16' },
+    { src: '/logo/gallery/2025-08-14-22.38.14.jpg', alt: 'Hashtag Web3 community event photo 17' },
+    { src: '/logo/gallery/2025-08-14-22.38.17.jpg', alt: 'Hashtag Web3 community event photo 18' }
 ];
 
 const whatsappGroups = [
@@ -498,16 +461,7 @@ export function CommunityPageContent({
         <div className="py-16 bg-secondary/40 mt-16">
             <div className="container mx-auto px-4">
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                    <div className="lg:col-span-1">
-                        <h2 className="text-3xl font-bold text-primary mb-4 flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
-                        <div className="space-y-4">
-                            {latestJobs.slice(0, 5).map(job => <JobCard key={job.id} job={job} />)}
-                        </div>
-                        <Button variant="outline" className="mt-6 w-full" asChild>
-                           <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                        </Button>
-                    </div>
-                    <div className="lg:col-span-2">
+                     <div className="lg:col-span-3">
                          <section>
                             <div className="flex justify-between items-center mb-6">
                                 <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
@@ -515,7 +469,7 @@ export function CommunityPageContent({
                                 <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
                                 </Button>
                             </div>
-                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                                 {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
                             </div>
                         </section>
@@ -526,3 +480,5 @@ export function CommunityPageContent({
       </>
   );
 }
+
+    
