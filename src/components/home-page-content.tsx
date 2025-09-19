@@ -118,22 +118,7 @@ const mediaLogos = [
     { name: 'media-4', src: '/logo/media/2eaefd517b11a4f8139fa0998f0321073e6aaa26.png' },
     { name: 'media-5', src: '/logo/media/3f5ed1e4e5acf2a1aa699648e9a8284f895f5b9e.png' },
     { name: 'media-6', src: '/logo/media/7c7a5cb7d0a5dde8c873b68c2fa7a5748a9f2821.png' },
-    { name: 'media-7', src: '/logo/media/9f54a3a611014d6c5b03d4e87059095e1710c84c.png' },
-    { name: 'media-8', src: '/logo/media/13b366f03bf16e31432f997be9d974ace71f5483.png' },
-    { name: 'media-9', src: '/logo/media/14b6543adc2530b43e59f255852262af6294a874.png' },
-    { name: 'media-10', src: '/logo/media/47a5b11c5f367ffff6d46d4eeff2020ba76b4ec2.png' },
-    { name: 'media-11', src: '/logo/media/60db47ab2a1ee5695d364da223d9267d15a68733.png' },
-    { name: 'media-12', src: '/logo/media/61f451fcff223b9ec852f65ee7232906e1e6bfe1.png' },
-    { name: 'media-13', src: '/logo/media/454f781c4d44411f1cfb964a8e1e6b5768ec883c.png' },
-    { name: 'media-14', src: '/logo/media/543ac1c6ea4d10859ddb62f62a7932d9c3318005.png' },
-    { name: 'media-15', src: '/logo/media/564b865018722f2f3f1f43875bc4112822bacbe4.png' },
-    { name: 'media-16', src: '/logo/media/565e76c27070ab0c4da9be1dc106d777c910a938.png' },
-    { name: 'media-17', src: '/logo/media/653a53899adfcbeafc81de62baa881d1c2d27c5a.png' },
-    { name: 'media-18', src: '/logo/media/914ed4188944a17b5f4b541374670571c6316e69.png' },
-    { name: 'media-19', src: '/logo/media/2038d630d6fdd84ee6b82d19374e8c1dedd4bc25.png' },
-    { name: 'media-20', src: '/logo/media/5295a00d73a662c02e46e2c6d01fdd59a8250ffa.png' },
 ];
-
 
 const hiredCompanies = [
     { name: 'Alemx', src: '/logo/job/alemx.png' },
@@ -498,3 +483,5 @@ export function HomePageContent({
 }
 
     
+
+  
