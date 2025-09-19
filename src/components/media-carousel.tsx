@@ -1,3 +1,4 @@
+
 'use client';
 
 import * as React from 'react';
@@ -21,7 +22,7 @@ interface MediaCarouselProps {
 
 export function MediaCarousel({ logos }: MediaCarouselProps) {
   const plugin = React.useRef(
-    Autoplay({ delay: 2000, stopOnInteraction: true })
+    Autoplay({ delay: 1000, stopOnInteraction: true })
   );
 
   return (
@@ -63,3 +64,5 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
     </div>
   );
 }
+
+    
