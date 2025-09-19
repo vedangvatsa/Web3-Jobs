@@ -1,3 +1,4 @@
+'use client';
 
 import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
@@ -264,15 +265,18 @@ const headlines = [
     "Your Partner in Growth"
 ];
 
-export default async function CommunityPage() {
-  const latestJobs = (await getJobs()).slice(0, 3);
-  const latestArticles = (await getAllArticles()).slice(0, 3);
-  const latestNews = (await getNewsFeed()).slice(0, 4);
+export function CommunityPageContent({ 
+    latestJobs,
+    latestArticles,
+    latestNews
+}: { 
+    latestJobs: Job[],
+    latestArticles: Omit<Article, 'content'>[],
+    latestNews: NewsItem[]
+}) {
 
   return (
-    <div className="flex flex-col min-h-screen bg-background">
-      <Header />
-      <main className="flex-1">
+    <>
         <div className="container mx-auto px-4 py-8 md:py-16">
           
           <section className="text-center mb-16 max-w-4xl mx-auto">
@@ -499,49 +503,19 @@ export default async function CommunityPage() {
         </div>
         <div className="py-16 bg-secondary/40 mt-16">
             <div className="container mx-auto px-4">
-
-            {/* Jobs Section */}
-            <section className="mb-16">
-                <div className="flex justify-between items-center mb-6">
-                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
-                <Button variant="ghost" asChild>
-                    <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                </Button>
+                <section>
+                    <div className="flex justify-between items-center mb-6">
+                    <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
+                    <Button variant="ghost" asChild>
+                    <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                    </Button>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                {latestJobs.map(job => <JobCard key={job.id} job={job} />)}
+                    {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
                 </div>
-            </section>
-
-            {/* Blog Section */}
-            <section>
-                <div className="flex justify-between items-center mb-6">
-                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
-                <Button variant="ghost" asChild>
-                  <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                </Button>
-              </div>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
-              </div>
-            </section>
-
-            {/* News Section */}
-             <section className="mt-16">
-                <div className="flex justify-between items-center mb-6">
-                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> News Feed</h2>
-                <Button variant="ghost" asChild>
-                    <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                </Button>
-                </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                 {latestNews.map((item, index) => <NewsCard key={index} item={item} />)}
-                </div>
-            </section>
-
+                </section>
             </div>
         </div>
-      </main>
-    </div>
+      </>
   );
 }
