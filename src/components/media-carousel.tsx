@@ -1,4 +1,3 @@
-
 'use client';
 
 import * as React from 'react';
@@ -22,7 +21,7 @@ interface MediaCarouselProps {
 
 export function MediaCarousel({ logos }: MediaCarouselProps) {
   const plugin = React.useRef(
-    Autoplay({ delay: 1000, stopOnInteraction: true })
+    Autoplay({ delay: 2000, stopOnInteraction: false })
   );
 
   return (
@@ -35,8 +34,6 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
         <Carousel
         plugins={[plugin.current]}
         className="w-full"
-        onMouseEnter={plugin.current.stop}
-        onMouseLeave={plugin.current.reset}
         opts={{
             align: "start",
             loop: true,
@@ -64,5 +61,3 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
     </div>
   );
 }
-
-    
