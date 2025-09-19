@@ -12,6 +12,7 @@ import Image from 'next/image';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { JobListings } from '@/components/job-listings';
 import { MediaCarousel } from '@/components/media-carousel';
+import { JobCard } from '@/components/job-card';
 
 export const revalidate = 43200; // Revalidate every 12 hours
 
@@ -60,53 +61,53 @@ const stats = [
 ];
 
 const companies = [
-    { name: 'Algorand', src: '/logo/companies/algorand.png' },
-    { name: 'Animoca Brands', src: '/logo/companies/Animoca-Brands.png' },
-    { name: 'Aptos', src: '/logo/companies/aptos.png' },
-    { name: 'Ava Labs', src: '/logo/companies/ava.png' },
-    { name: 'Blackrock', src: '/logo/companies/blackrock.png' },
-    { name: 'Bloomberg', src: '/logo/companies/bloomberg.png' },
-    { name: 'Chainalysis', src: '/logo/companies/Chainalysis.png' },
-    { name: 'Circle', src: '/logo/companies/circle.png' },
-    { name: 'Citi', src: '/logo/companies/citi.png' },
-    { name: 'Consensys', src: '/logo/companies/consensys.png' },
-    { name: 'EY', src: '/logo/companies/ey.png' },
-    { name: 'Gemini', src: '/logo/companies/gemini.png' },
-    { name: 'Google', src: '/logo/companies/google.png' },
-    { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png' },
-    { name: 'KPMG', src: '/logo/companies/KPMG.png' },
-    { name: 'McKinsey', src: '/logo/companies/mckinsey.png' },
-    { name: 'Microsoft', src: '/logo/companies/microsoft.png' },
-    { name: 'Polygon', src: '/logo/companies/polygon.png' },
-    { name: 'PwC', src: '/logo/companies/pwc.png' },
-    { name: 'R3', src: '/logo/companies/r3.png' },
-    { name: 'Ripple', src: '/logo/companies/ripple.png' },
+    { name: 'Algorand', src: '/logo/companies/algorand.png', alt: 'Logo of Algorand, a Hashtag Web3 network company' },
+    { name: 'Animoca Brands', src: '/logo/companies/Animoca-Brands.png', alt: 'Logo of Animoca Brands, a Hashtag Web3 network company' },
+    { name: 'Aptos', src: '/logo/companies/aptos.png', alt: 'Logo of Aptos, a Hashtag Web3 network company' },
+    { name: 'Ava Labs', src: '/logo/companies/ava.png', alt: 'Logo of Ava Labs, a Hashtag Web3 network company' },
+    { name: 'Blackrock', src: '/logo/companies/blackrock.png', alt: 'Logo of Blackrock, a Hashtag Web3 network company' },
+    { name: 'Bloomberg', src: '/logo/companies/bloomberg.png', alt: 'Logo of Bloomberg, a Hashtag Web3 network company' },
+    { name: 'Chainalysis', src: '/logo/companies/Chainalysis.png', alt: 'Logo of Chainalysis, a Hashtag Web3 network company' },
+    { name: 'Circle', src: '/logo/companies/circle.png', alt: 'Logo of Circle, a Hashtag Web3 network company' },
+    { name: 'Citi', src: '/logo/companies/citi.png', alt: 'Logo of Citi, a Hashtag Web3 network company' },
+    { name: 'Consensys', src: '/logo/companies/consensys.png', alt: 'Logo of Consensys, a Hashtag Web3 network company' },
+    { name: 'EY', src: '/logo/companies/ey.png', alt: 'Logo of EY, a Hashtag Web3 network company' },
+    { name: 'Gemini', src: '/logo/companies/gemini.png', alt: 'Logo of Gemini, a Hashtag Web3 network company' },
+    { name: 'Google', src: '/logo/companies/google.png', alt: 'Logo of Google, a Hashtag Web3 network company' },
+    { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png', alt: 'Logo of JP Morgan, a Hashtag Web3 network company' },
+    { name: 'KPMG', src: '/logo/companies/KPMG.png', alt: 'Logo of KPMG, a Hashtag Web3 network company' },
+    { name: 'McKinsey', src: '/logo/companies/mckinsey.png', alt: 'Logo of McKinsey, a Hashtag Web3 network company' },
+    { name: 'Microsoft', src: '/logo/companies/microsoft.png', alt: 'Logo of Microsoft, a Hashtag Web3 network company' },
+    { name: 'Polygon', src: '/logo/companies/polygon.png', alt: 'Logo of Polygon, a Hashtag Web3 network company' },
+    { name: 'PwC', src: '/logo/companies/pwc.png', alt: 'Logo of PwC, a Hashtag Web3 network company' },
+    { name: 'R3', src: '/logo/companies/r3.png', alt: 'Logo of R3, a Hashtag Web3 network company' },
+    { name: 'Ripple', src: '/logo/companies/ripple.png', alt: 'Logo of Ripple, a Hashtag Web3 network company' },
 ];
 
 const partnersLogos = [
-    { name: 'Altlayer', src: '/logo/partners/altlayer.png'},
-    { name: 'BFF', src: '/logo/partners/bff.png'},
-    { name: 'Coinfest', src: '/logo/partners/coinfest.png'},
-    { name: 'Date', src: '/logo/partners/date.png'},
-    { name: 'EDCON', src: '/logo/partners/edcon.png'},
-    { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png'},
-    { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png'},
-    { name: 'ETHVietnam', src: '/logo/partners/ethvietnam.png'},
-    { name: 'Harvard', src: '/logo/partners/harvard.png'},
-    { name: 'IBW', src: '/logo/partners/ibw.png'},
-    { name: 'IEEE', src: '/logo/partners/ieee.png'},
-    { name: 'Istanbul', src: '/logo/partners/istanbul.png'},
-    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png'},
-    { name: 'Onepiece Labs', src: '/logo/partners/onepiece.png'},
-    { name: 'PBS', src: '/logo/partners/pbs.png'},
-    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png'},
-    { name: 'Token 2049', src: '/logo/partners/token2049.png'},
-    { name: 'WBS', src: '/logo/partners/wbs.png'},
-    { name: 'OBC', src: '/logo/partners/obc.png' },
-    { name: 'ETH Enugu', src: '/logo/partners/ethenugu.png'},
-    { name: 'FBS', src: '/logo/partners/fbs.png'},
-    { name: 'LBS', src: '/logo/partners/lbs.png'},
-    { name: 'The Metaverse Institute', src: '/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png'},
+    { name: 'Altlayer', src: '/logo/partners/altlayer.png', alt: 'Logo of Altlayer, a Hashtag Web3 partner'},
+    { name: 'BFF', src: '/logo/partners/bff.png', alt: 'Logo of BFF, a Hashtag Web3 partner'},
+    { name: 'Coinfest', src: '/logo/partners/coinfest.png', alt: 'Logo of Coinfest, a Hashtag Web3 partner'},
+    { name: 'Date', src: '/logo/partners/date.png', alt: 'Logo of Date, a Hashtag Web3 partner'},
+    { name: 'EDCON', src: '/logo/partners/edcon.png', alt: 'Logo of EDCON, a Hashtag Web3 partner'},
+    { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png', alt: 'Logo of ETHBrussels, a Hashtag Web3 partner'},
+    { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png', alt: 'Logo of ETH Oxford, a Hashtag Web3 partner'},
+    { name: 'ETHVietnam', src: '/logo/partners/ethvietnam.png', alt: 'Logo of ETHVietnam, a Hashtag Web3 partner'},
+    { name: 'Harvard', src: '/logo/partners/harvard.png', alt: 'Logo of Harvard, a Hashtag Web3 partner'},
+    { name: 'IBW', src: '/logo/partners/ibw.png', alt: 'Logo of IBW, a Hashtag Web3 partner'},
+    { name: 'IEEE', src: '/logo/partners/ieee.png', alt: 'Logo of IEEE, a Hashtag Web3 partner'},
+    { name: 'Istanbul', src: '/logo/partners/istanbul.png', alt: 'Logo of Istanbul, a Hashtag Web3 partner'},
+    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png', alt: 'Logo of Malaysia Blockchain Week, a Hashtag Web3 partner'},
+    { name: 'Onepiece Labs', src: '/logo/partners/onepiece.png', alt: 'Logo of Onepiece Labs, a Hashtag Web3 partner'},
+    { name: 'PBS', src: '/logo/partners/pbs.png', alt: 'Logo of PBS, a Hashtag Web3 partner'},
+    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png', alt: 'Logo of Taipei Blockchain Week, a Hashtag Web3 partner'},
+    { name: 'Token 2049', src: '/logo/partners/token2049.png', alt: 'Logo of Token 2049, a Hashtag Web3 partner'},
+    { name: 'WBS', src: '/logo/partners/wbs.png', alt: 'Logo of WBS, a Hashtag Web3 partner'},
+    { name: 'OBC', src: '/logo/partners/obc.png' , alt: 'Logo of OBC, a Hashtag Web3 partner'},
+    { name: 'ETH Enugu', src: '/logo/partners/ethenugu.png', alt: 'Logo of ETH Enugu, a Hashtag Web3 partner'},
+    { name: 'FBS', src: '/logo/partners/fbs.png', alt: 'Logo of FBS, a Hashtag Web3 partner'},
+    { name: 'LBS', src: '/logo/partners/lbs.png', alt: 'Logo of LBS, a Hashtag Web3 partner'},
+    { name: 'The Metaverse Institute', src: '/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png', alt: 'Logo of The Metaverse Institute, a Hashtag Web3 partner'},
 ];
 
 const mediaLogos = [
@@ -159,35 +160,35 @@ const mediaLogos = [
     { name: 'media-40', src: '/logo/media/fa66e3f8d7cff979cba7ec1d7ad575212a1b8f3d.png' },
     { name: 'media-41', src: '/logo/media/fb4bf9ef0e989c9795e066c4502ba75b3a567467.png' },
     { name: 'media-42', src: '/logo/media/fd7e246f812a15af9fe590ce48ab163ceccee6f8.png' },
-];
+].map(logo => ({...logo, alt: `Logo of ${logo.name} media outlet, where Hashtag Web3 has been featured`}));
 
 const hiredCompanies = [
-    { name: 'Alemx', src: '/logo/job/alemx.png' },
-    { name: 'Binance', src: '/logo/job/binance.png' },
-    { name: 'Bitget', src: '/logo/job/bitget.png' },
-    { name: 'Circle', src: '/logo/job/circle.png' },
-    { name: 'Coinbase', src: '/logo/job/coinbase.png' },
-    { name: 'DePHY', src: '/logo/job/dephy.png' },
-    { name: 'dYdX', src: '/logo/job/dydx.png' },
-    { name: 'Funtoken', src: '/logo/job/funtoken.png' },
-    { name: 'Galxe', src: '/logo/job/galxe.png' },
-    { name: 'Glassnode', src: '/logo/job/glassnode.png' },
-    { name: 'Jaya Talent', src: '/logo/job/jayatalent.png' },
-    { name: 'KCEX', src: '/logo/job/kcex.png' },
-    { name: 'LBank', src: '/logo/job/lbank.png' },
-    { name: 'LiquidX', src: '/logo/job/liquidx.png' },
-    { name: 'Mercuryo', src: '/logo/job/mercuryo.png' },
-    { name: 'Overmind', src: '/logo/job/overmind.png' },
-    { name: 'Peanut', src: '/logo/job/peanut.png' },
-    { name: 'Quantstamp', src: '/logo/job/quantstamp.png' },
-    { name: 'Scallop', src: '/logo/job/scallop.png' },
-    { name: 'Swell Network', src: '/logo/job/swell.png' },
-    { name: 'Trilitech', src: '/logo/job/trilitech.png' },
-    { name: 'Truflation', src: '/logo/job/truflation.png' },
-    { name: 'VNTR', src: '/logo/job/vn.png' },
-    { name: 'Watches.io', src: '/logo/job/watches.png' },
-    { name: 'Zeebu', src: '/logo/job/zeebu.png' },
-    { name: 'Zerion', src: '/logo/job/zerion.png' },
+    { name: 'Alemx', src: '/logo/job/alemx.png', alt: 'Logo of Alemx, a company hiring on Hashtag Web3' },
+    { name: 'Binance', src: '/logo/job/binance.png', alt: 'Logo of Binance, a company hiring on Hashtag Web3' },
+    { name: 'Bitget', src: '/logo/job/bitget.png', alt: 'Logo of Bitget, a company hiring on Hashtag Web3' },
+    { name: 'Circle', src: '/logo/job/circle.png', alt: 'Logo of Circle, a company hiring on Hashtag Web3' },
+    { name: 'Coinbase', src: '/logo/job/coinbase.png', alt: 'Logo of Coinbase, a company hiring on Hashtag Web3' },
+    { name: 'DePHY', src: '/logo/job/dephy.png', alt: 'Logo of DePHY, a company hiring on Hashtag Web3' },
+    { name: 'dYdX', src: '/logo/job/dydx.png', alt: 'Logo of dYdX, a company hiring on Hashtag Web3' },
+    { name: 'Funtoken', src: '/logo/job/funtoken.png', alt: 'Logo of Funtoken, a company hiring on Hashtag Web3' },
+    { name: 'Galxe', src: '/logo/job/galxe.png', alt: 'Logo of Galxe, a company hiring on Hashtag Web3' },
+    { name: 'Glassnode', src: '/logo/job/glassnode.png', alt: 'Logo of Glassnode, a company hiring on Hashtag Web3' },
+    { name: 'Jaya Talent', src: '/logo/job/jayatalent.png', alt: 'Logo of Jaya Talent, a company hiring on Hashtag Web3' },
+    { name: 'KCEX', src: '/logo/job/kcex.png', alt: 'Logo of KCEX, a company hiring on Hashtag Web3' },
+    { name: 'LBank', src: '/logo/job/lbank.png', alt: 'Logo of LBank, a company hiring on Hashtag Web3' },
+    { name: 'LiquidX', src: '/logo/job/liquidx.png', alt: 'Logo of LiquidX, a company hiring on Hashtag Web3' },
+    { name: 'Mercuryo', src: '/logo/job/mercuryo.png', alt: 'Logo of Mercuryo, a company hiring on Hashtag Web3' },
+    { name: 'Overmind', src: '/logo/job/overmind.png', alt: 'Logo of Overmind, a company hiring on Hashtag Web3' },
+    { name: 'Peanut', src: '/logo/job/peanut.png', alt: 'Logo of Peanut, a company hiring on Hashtag Web3' },
+    { name: 'Quantstamp', src: '/logo/job/quantstamp.png', alt: 'Logo of Quantstamp, a company hiring on Hashtag Web3' },
+    { name: 'Scallop', src: '/logo/job/scallop.png', alt: 'Logo of Scallop, a company hiring on Hashtag Web3' },
+    { name: 'Swell Network', src: '/logo/job/swell.png', alt: 'Logo of Swell Network, a company hiring on Hashtag Web3' },
+    { name: 'Trilitech', src: '/logo/job/trilitech.png', alt: 'Logo of Trilitech, a company hiring on Hashtag Web3' },
+    { name: 'Truflation', src: '/logo/job/truflation.png', alt: 'Logo of Truflation, a company hiring on Hashtag Web3' },
+    { name: 'VNTR', src: '/logo/job/vn.png', alt: 'Logo of VNTR, a company hiring on Hashtag Web3' },
+    { name: 'Watches.io', src: '/logo/job/watches.png', alt: 'Logo of Watches.io, a company hiring on Hashtag Web3' },
+    { name: 'Zeebu', src: '/logo/job/zeebu.png', alt: 'Logo of Zeebu, a company hiring on Hashtag Web3' },
+    { name: 'Zerion', src: '/logo/job/zerion.png', alt: 'Logo of Zerion, a company hiring on Hashtag Web3' },
 ]
 
 const channels = [
@@ -310,7 +311,7 @@ export default async function CommunityPage() {
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 gap-x-8 gap-y-6 items-center justify-center">
                     {companies.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`Logo of ${logo.name}, a Hashtag Web3 network company`} fill className="object-contain" unoptimized/>
+                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
@@ -456,7 +457,7 @@ export default async function CommunityPage() {
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`Logo of ${logo.name}, a Hashtag Web3 partner`} fill className="object-contain" unoptimized />
+                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized />
                         </div>
                     ))}
                 </div>
@@ -503,7 +504,7 @@ export default async function CommunityPage() {
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {hiredCompanies.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`Logo of ${logo.name}, where Hashtag Web3 promotes jobs`} fill className="object-contain" unoptimized/>
+                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
@@ -584,3 +585,5 @@ export default async function CommunityPage() {
     </div>
   );
 }
+
+  
