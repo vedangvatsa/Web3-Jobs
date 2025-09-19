@@ -2,7 +2,7 @@
 import { getNewsFeed } from '@/lib/news';
 import { NextResponse } from 'next/server';
 
-export const revalidate = 3600; // Revalidate every hour
+export const revalidate = 0; // Revalidate on every request
 
 export async function GET() {
   try {
