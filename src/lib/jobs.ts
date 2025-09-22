@@ -2768,7 +2768,7 @@ const MANUAL_JOBS: Job[] = [
     },
     {
         "id": "https://stripe.com/jobs/search?gh_jid=7139182",
-        "title": "Strategy & Operations, Card Networks",
+        "title": "Strategy and Operations, Card Networks",
         "company": "Stripe",
         "link": "https://stripe.com/jobs/search?gh_jid=7139182",
         "date": "2025-08-15T12:00:00Z",
@@ -4319,10 +4319,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://point.com/hiring?gh_jid=8092962002",
-        "title": "Lead Recruiter/Manager",
+        "id": "https://point.com/hiring?gh_jid=8080976002",
+        "title": "Post Closing Servicing Specialist (Contract)",
         "company": "Point",
-        "link": "https://point.com/hiring?gh_jid=8092962002",
+        "link": "https://point.com/hiring?gh_jid=8080976002",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -4779,11 +4779,12 @@ export async function getJobs(): Promise<Job[]> {
   
   let uniqueJobs = Array.from(jobMap.values());
 
+  uniqueJobs = uniqueJobs.filter(job => 
+    job.company.toLowerCase() !== 'crusoe' && 
+    !(job.company.toLowerCase() === 'interop labs' && job.title.toLowerCase().includes('interested in working with us'))
+  );
+
   uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   return uniqueJobs;
 }
-
-  
-
-    
