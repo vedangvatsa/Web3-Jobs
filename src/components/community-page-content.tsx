@@ -1,3 +1,4 @@
+
 'use client';
 
 import { Header } from '@/components/header';
@@ -307,7 +308,7 @@ export function CommunityPageContent({
                 <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
                   Our main Telegram group is a vibrant hub for Web3 professionals to network, share insights, and discuss the latest trends.
                 </p>
-                <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer" className="inline-block">
                   <Button size="lg">
                     <Send className="mr-2 h-5 w-5" />
                     Discussion & Updates Group on Telegram
@@ -468,7 +469,7 @@ export function CommunityPageContent({
                                 <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
                                 </Button>
                             </div>
-                            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                                 {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
                             </div>
                         </section>
