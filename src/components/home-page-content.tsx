@@ -111,13 +111,16 @@ const partnersLogos = [
 ];
 
 const mediaLogos = [
-    { name: 'media-0', src: '/logo/media/0df9cd95ce02d767feb771e713b387514e9b6590.png' },
-    { name: 'media-1', src: '/logo/media/1ce9a019ef58063c68fd5f64d36199068838804e.png' },
-    { name: 'media-2', src: '/logo/media/2c3fa745faeb2bd3a97ef271a7210d82b8f193fb.png' },
-    { name: 'media-3', src: '/logo/media/2d6ff9bae82b907d41d85b0e2b145a4202f656ba.png' },
-    { name: 'media-4', src: '/logo/media/2eaefd517b11a4f8139fa0998f0321073e6aaa26.png' },
-    { name: 'media-5', src: '/logo/media/3f5ed1e4e5acf2a1aa699648e9a8284f895f5b9e.png' },
-    { name: 'media-6', src: '/logo/media/7c7a5cb7d0a5dde8c873b68c2fa7a5748a9f2821.png' },
+    { name: 'Business Standard', src: '/logo/media/business-standard.png' },
+    { name: 'CoinEdition', src: '/logo/media/coinedition.png' },
+    { name: 'Decrypt', src: '/logo/media/decrypt.png' },
+    { name: 'Outlook', src: '/logo/media/outlook.png' },
+    { name: 'TheStreet', src: '/logo/media/thestreet.svg' },
+    { name: 'Yahoo', src: '/logo/media/yahoo.png' },
+    { name: 'Barcelona', src: '/logo/media/barcelona.png' },
+    { name: 'British', src: '/logo/media/british.png' },
+    { name: 'England', src: '/logo/media/england.png' },
+    { name: 'Korean', src: '/logo/media/korean.png' },
 ];
 
 const hiredCompanies = [
@@ -195,24 +198,24 @@ const caseStudies = [
 ]
 
 const communityPhotos = [
-    { src: '/logo/gallery/2025-08-14 18.05.08-min.jpg', alt: 'Hashtag Web3 community event photo 1' },
-    { src: '/logo/gallery/2025-08-14 18.05.12-min.jpg', alt: 'Hashtag Web3 community event photo 2' },
-    { src: '/logo/gallery/2025-08-14 18.05.15-min.jpg', alt: 'Hashtag Web3 community event photo 3' },
-    { src: '/logo/gallery/2025-08-14 18.05.18-min.jpg', alt: 'Hashtag Web3 community event photo 4' },
-    { src: '/logo/gallery/2025-08-14 18.05.20-min.jpg', alt: 'Hashtag Web3 community event photo 5' },
-    { src: '/logo/gallery/2025-08-14 18.05.24-min.jpg', alt: 'Hashtag Web3 community event photo 6' },
-    { src: '/logo/gallery/2025-08-14 18.05.27-min.jpg', alt: 'Hashtag Web3 community event photo 7' },
-    { src: '/logo/gallery/2025-08-14 18.05.30-min.jpg', alt: 'Hashtag Web3 community event photo 8' },
-    { src: '/logo/gallery/2025-08-14 18.05.33-min.jpg', alt: 'Hashtag Web3 community event photo 9' },
-    { src: '/logo/gallery/2025-08-14 18.05.35-min.jpg', alt: 'Hashtag Web3 community event photo 10' },
-    { src: '/logo/gallery/2025-08-14 18.05.44-min.jpg', alt: 'Hashtag Web3 community event photo 11' },
-    { src: '/logo/gallery/2025-08-14 18.05.47-min.jpg', alt: 'Hashtag Web3 community event photo 12' },
-    { src: '/logo/gallery/2025-08-14 18.05.50-min.jpg', alt: 'Hashtag Web3 community event photo 13' },
-    { src: '/logo/gallery/2025-08-14 22.30.59.jpg', alt: 'Hashtag Web3 community event photo 14' },
-    { src: '/logo/gallery/2025-08-14 22.31.02.jpg', alt: 'Hashtag Web3 community event photo 15' },
-    { src: '/logo/gallery/2025-08-14 22.32.30.jpg', alt: 'Hashtag Web3 community event photo 16' },
-    { src: '/logo/gallery/2025-08-14 22.38.14.jpg', alt: 'Hashtag Web3 community event photo 17' },
-    { src: '/logo/gallery/2025-08-14 22.38.17.jpg', alt: 'Hashtag Web3 community event photo 18' }
+    { src: '/logo/gallery/2025-08-14%2018.05.08-min.jpg', alt: 'Hashtag Web3 community event photo 1' },
+    { src: '/logo/gallery/2025-08-14%2018.05.12-min.jpg', alt: 'Hashtag Web3 community event photo 2' },
+    { src: '/logo/gallery/2025-08-14%2018.05.15-min.jpg', alt: 'Hashtag Web3 community event photo 3' },
+    { src: '/logo/gallery/2025-08-14%2018.05.18-min.jpg', alt: 'Hashtag Web3 community event photo 4' },
+    { src: '/logo/gallery/2025-08-14%2018.05.20-min.jpg', alt: 'Hashtag Web3 community event photo 5' },
+    { src: '/logo/gallery/2025-08-14%2018.05.24-min.jpg', alt: 'Hashtag Web3 community event photo 6' },
+    { src: '/logo/gallery/2025-08-14%2018.05.27-min.jpg', alt: 'Hashtag Web3 community event photo 7' },
+    { src: '/logo/gallery/2025-08-14%2018.05.30-min.jpg', alt: 'Hashtag Web3 community event photo 8' },
+    { src: '/logo/gallery/2025-08-14%2018.05.33-min.jpg', alt: 'Hashtag Web3 community event photo 9' },
+    { src: '/logo/gallery/2025-08-14%2018.05.35-min.jpg', alt: 'Hashtag Web3 community event photo 10' },
+    { src: '/logo/gallery/2025-08-14%2018.05.44-min.jpg', alt: 'Hashtag Web3 community event photo 11' },
+    { src: '/logo/gallery/2025-08-14%2018.05.47-min.jpg', alt: 'Hashtag Web3 community event photo 12' },
+    { src: '/logo/gallery/2025-08-14%2018.05.50-min.jpg', alt: 'Hashtag Web3 community event photo 13' },
+    { src: '/logo/gallery/2025-08-14%2022.30.59.jpg', alt: 'Hashtag Web3 community event photo 14' },
+    { src: '/logo/gallery/2025-08-14%2022.31.02.jpg', alt: 'Hashtag Web3 community event photo 15' },
+    { src: '/logo/gallery/2025-08-14%2022.32.30.jpg', alt: 'Hashtag Web3 community event photo 16' },
+    { src: '/logo/gallery/2025-08-14%2022.38.14.jpg', alt: 'Hashtag Web3 community event photo 17' },
+    { src: '/logo/gallery/2025-08-14%2022.38.17.jpg', alt: 'Hashtag Web3 community event photo 18' }
 ];
 
 const whatsappGroups = [
@@ -309,7 +312,7 @@ export function HomePageContent({
                 <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
                   Our main Telegram group is a vibrant hub for Web3 professionals to network, share insights, and discuss the latest trends.
                 </p>
-                <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer" className="inline-block">
                   <Button size="lg">
                     <Send className="mr-2 h-5 w-5" />
                     Discussion & Updates Group on Telegram
@@ -470,7 +473,7 @@ export function HomePageContent({
                                 <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
                                 </Button>
                             </div>
-                            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                                 {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
                             </div>
                         </section>
