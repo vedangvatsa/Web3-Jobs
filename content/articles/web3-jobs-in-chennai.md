@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Chennai: A Guide to the Rise of a SaaS and Blockchain Hub"
-image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
+image: "/images/india web3 jobs.jpg"
 data-ai-hint: "chennai city india"
 description: "A guide to the Web3 job market in Chennai. Learn about the city's emergence as a hub for SaaS, enterprise blockchain, and its growing community of Web3 developers and entrepreneurs."
 category: "Career Guides"
