@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Indonesia: Riding the Wave of Southeast Asia's Crypto Adoption"
-image: "https://images.unsplash.com/photo-1572937747883-a442a22a781b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRvbmVzaWF8ZW58MHx8fHwxNzE2NDAxOTc4fDA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1558591811-995a9a5f453c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRvbmVzaWF8ZW58MHx8fHwxNzE2NDAxOTc4fDA&ixlib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "indonesia city skyline"
 description: "A guide to the Web3 job market in Indonesia. Learn about the country's rapid crypto adoption, the key players, in-demand roles, and typical salary ranges."
 category: "Career Guides"

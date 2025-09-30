@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in India: The Ultimate 2025 Career Guide"
-image: "https://images.unsplash.com/photo-1506461883276-594a18b8c23a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYSUyMGNpdHl8ZW58MHx8fHwxNzE2NDAxOTYyfDA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1579781403213-a9d68379c656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYSUyMGNpdHl8ZW58MHx8fHwxNzE2NDAxOTYyfDA&ixlib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "india city skyline"
 description: "Your complete guide to building a career in India's booming Web3 ecosystem. Discover the key hubs, in-demand roles, salary expectations, and how to land your first job."
 category: "Career Guides"
