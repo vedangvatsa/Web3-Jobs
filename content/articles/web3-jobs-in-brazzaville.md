@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Brazzaville: A Guide to the Republic of the Congo's Tech Scene"
-image: "/images/africa web3 jobs-2.jpg"
+image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "brazzaville congo city"
 description: "A career guide to the emerging Web3 job market in Brazzaville. Explore how the capital of the Republic of the Congo is beginning to engage with blockchain technology, with a focus on FinTech and natural resources."
 category: "Career Guides"
