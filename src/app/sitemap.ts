@@ -277,7 +277,27 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "web3-jobs-in-seattle",
     "web3-jobs-in-denver",
     "web3-jobs-in-boston",
-    "web3-jobs-in-atlanta"
+    "web3-jobs-in-atlanta",
+    "web3-jobs-in-lagos",
+    "web3-jobs-in-nairobi",
+    "web3-jobs-in-cape-town",
+    "web3-jobs-in-johannesburg",
+    "web3-jobs-in-cairo",
+    "web3-jobs-in-accra",
+    "web3-jobs-in-kigali",
+    "web3-jobs-in-addis-ababa",
+    "web3-jobs-in-dakar",
+    "web3-jobs-in-casablanca",
+    "web3-jobs-in-tunis",
+    "web3-jobs-in-abidjan",
+    "web3-jobs-in-dar-es-salaam",
+    "web3-jobs-in-kampala",
+    "web3-jobs-in-luanda",
+    "web3-jobs-in-lusaka",
+    "web3-jobs-in-harare",
+    "web3-jobs-in-gaborone",
+    "web3-jobs-in-windhoek",
+    "web3-jobs-in-port-louis"
   ];
   
   const articleRoutes: MetadataRoute.Sitemap = articleSlugs.map(slug => ({
