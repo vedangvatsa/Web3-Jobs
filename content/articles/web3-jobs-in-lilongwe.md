@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Lilongwe: A Guide to Malawi's Tech Frontier"
-image: "/images/africa web3 jobs-2.jpg"
+image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "lilongwe malawi city"
 description: "A career guide to the nascent Web3 job market in Lilongwe. Explore how Malawi's capital is beginning to embrace blockchain for financial inclusion and agricultural innovation."
 category: "Career Guides"

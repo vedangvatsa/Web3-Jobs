@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Lome: A Guide to Togo's FinTech-Forward Tech Scene"
-image: "/images/africa web3 jobs-2.jpg"
+image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "lome togo city"
 description: "A career guide to the Web3 job market in Lome. Explore how Togo's capital is leveraging its status as a FinTech hub to drive innovation in blockchain and digital payments."
 category: "Career Guides"

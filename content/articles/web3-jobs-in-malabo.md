@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Malabo: A Guide to Equatorial Guinea's Digital Future"
-image: "/images/africa web3 jobs-2.jpg"
+image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "malabo equatorial guinea city"
 description: "A career guide to the emerging Web3 job market in Malabo. Explore how Equatorial Guinea's capital is beginning to look at blockchain for economic diversification and transparency."
 category: "Career Guides"
