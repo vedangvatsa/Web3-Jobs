@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Indonesia: Riding the Wave of Southeast Asia's Crypto Adoption"
-image: "https://images.unsplash.com/photo-1588821323132-5355a79a831f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmRvbmVzaWF8ZW58MHx8fHwxNzE2NDAxOTc4fDA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1588821323132-5355a79a831f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmRvbmVzaWF8ZW58MHx8fHwxNzE2NDAxOTc4fDA&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "indonesia city skyline"
 description: "A guide to the Web3 job market in Indonesia. Learn about the country's rapid crypto adoption, the key players, in-demand roles, and typical salary ranges."
 category: "Career Guides"
@@ -43,5 +43,7 @@ The Web3 job market in Indonesia is rapidly growing, with salaries that are comp
     - **Manage a Gaming Guild:** Start and manage a local gaming guild or community. Document your process and the growth of your community.
     - **Create Local Content:** Start a YouTube channel, blog, or Twitter account in Bahasa Indonesia that explains Web3 concepts to a local audience.
 4.  **Network with Local Hubs:** Connect with the key communities and companies in Jakarta and Bali. Attend local meetups and crypto events to build your network. The Indonesian Web3 scene is highly social and relationship-driven.
+
+### Find Your Web3 Job in Indonesia
 
 To find the latest Web3 jobs in Indonesia and across Southeast Asia, explore the listings on our [Web3 job board](/jobs). With its passionate user base and rapid growth, Indonesia offers a unique and exciting opportunity to be at the forefront of Web3 adoption.

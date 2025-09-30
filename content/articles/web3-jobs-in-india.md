@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in India: The Ultimate 2025 Career Guide"
-image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYSUyMGNpdHl8ZW58MHx8fHwxNzE2NDAxOTYyfDA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1599839955364-e523aa786f68?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200"
 data-ai-hint: "india city skyline"
 description: "Your complete guide to building a career in India's booming Web3 ecosystem. Discover the key hubs, in-demand roles, salary expectations, and how to land your first job."
 category: "Career Guides"
@@ -52,4 +52,6 @@ The fierce competition for Web3 talent in India has led to highly competitive sa
 
 3.  **Target Global Remote Roles:** While the local job market is strong, many of the highest-paying opportunities for Indian talent are with international, remote-first companies and DAOs. They are actively hiring in India to access its deep talent pool and are often willing to pay global-rate salaries.
 
-Ready to start your Web3 career journey in India? Check out our [Web3 job board](/jobs) for the latest openings from top companies hiring in the region and globally. With its incredible talent and unstoppable energy, the Indian Web3 ecosystem is one of the most exciting places to be building the future of the internet.
+### Find Your Web3 Job in India
+
+Check out our [Web3 job board](/jobs) for the latest openings from top companies hiring in the region and globally. With its incredible talent and unstoppable energy, the Indian Web3 ecosystem is one of the most exciting places to be building the future of the internet.

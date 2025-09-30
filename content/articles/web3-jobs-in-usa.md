@@ -54,4 +54,6 @@ The US commands the highest salaries for Web3 roles globally, a reflection of th
 3.  **Be Active and Build a Network on Twitter (X):** Twitter is the primary social network and information hub for the US crypto scene. Building a strong professional brand and a network of contacts on the platform is not optional; it is essential. Engage with top builders, share your work, and provide value to the conversation.
 4.  **Relocate to a Hub (If Possible):** While many jobs are remote, being physically present in New York, the Bay Area, or another major hub provides an undeniable advantage for networking and career advancement.
 
+### Find Your US-Based Web3 Job
+
 To find your next high-impact role in the world's leading Web3 market, browse the thousands of open positions on our [Web3 job board](/jobs). The US remains the premier destination for ambitious professionals who want to work on the most challenging problems and build at the very frontier of the decentralized internet.

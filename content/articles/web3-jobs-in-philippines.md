@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in the Philippines: A Hub for GameFi and Community Talent"
-image: "https://images.unsplash.com/photo-1590612641492-f045c441583a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaGlsaXBwaW5lc3xlbnwwfHx8fDE3MTY0MDE5OTV8MA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1590612641492-f045c441583a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaGlsaXBwaW5lc3xlbnwwfHx8fDE3MTY0MDE5OTV8MA&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "philippines city skyline"
 description: "Dive into the Philippines' unique Web3 job market. This guide focuses on the country's dominance in Web3 gaming, community management, and the skills needed to build a career in this dynamic space."
 category: "Career Guides"
@@ -41,5 +41,7 @@ The Philippines offers a strong and experienced talent pool, particularly for co
 2.  **Build a Reputation for Reliability and Empathy:** In community and support roles, being responsive, patient, and reliable is paramount. Build a public reputation as a trusted community member in the projects you admire. Help new users, answer questions, and be a positive force. This "proof of work" is your best resume.
 3.  **Engage with the GameFi Ecosystem:** Immerse yourself in the world of Web3 gaming. Play the games, join the guilds (like YGG Pilipinas), and follow the top players and influencers. Understanding the player's perspective and the dynamics of in-game economies is a key advantage for any role in this sector.
 4.  **Network at Local Events:** Manila has a growing Web3 event scene. Attend meetups and conferences like the Philippine Blockchain Week to connect with local and international teams who are hiring.
+
+### Find Your Web3 Job in the Philippines
 
 To find the latest community, support, and development roles in the Philippines and the broader GameFi ecosystem, visit our [Web3 job board](/jobs). With its passionate community and deep expertise in Web3 gaming, the Philippines offers a unique and exciting entry point into a career in the decentralized world.

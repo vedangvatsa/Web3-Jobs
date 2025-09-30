@@ -51,4 +51,6 @@ Reflecting its focus on infrastructure, the most in-demand roles in Germany are 
     - **Go to Major Events:** Berlin hosts world-class conferences and hackathons like ETHBerlin, DappCon, and Safe{Con}. These are essential for networking.
 4.  **Emphasize Security and Reliability:** Demonstrate a security-first mindset in your projects and your interview answers. Show that you value writing robust, well-tested, and reliable code.
 
+### Find Your Web3 Job in Germany
+
 To explore the latest career opportunities in Germany's dynamic crypto scene and across Europe, visit our global [Web3 job board](/jobs). With its deep focus on engineering excellence and its vibrant international community, Germany, and especially Berlin, remains the top destination for anyone serious about building the foundational layer of Web3.

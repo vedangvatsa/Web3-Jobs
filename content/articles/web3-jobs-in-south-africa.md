@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in South Africa: Exploring Careers in a Growing Crypto Hub"
-image: "https://images.unsplash.com/photo-1603584836645-566b74a3a3b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb3V0aCUyMGFmcmljYXxlbnwwfHx8fDE3MTY0MjAwMjd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1603584836645-566b74a3a3b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb3V0aCUyMGFmcmljYXxlbnwwfHx8fDE3MTY0MjAwMjd8MA&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "south africa city skyline"
 description: "A career guide to the Web3 job market in South Africa. Discover the landscape of crypto adoption, key local projects, in-demand roles, and salary expectations."
 category: "Career Guides"
@@ -46,5 +46,7 @@ The demand for Web3 professionals in South Africa is growing steadily, with sala
     - **Follow Local Leaders:** Connect with South African Web3 founders, investors, and community leaders on Twitter and LinkedIn.
 3.  **Build a Global-Standard Portfolio:** Many of the best-paying jobs are remote roles with international companies. Your "proof of work" (your GitHub, your public writing, your DAO contributions) must be high-quality enough to compete on a global stage.
 4.  **Highlight Fintech or TradFi Experience:** Given the market's focus on finance and compliance, any experience you have in the traditional banking or fintech sectors is highly valuable and should be highlighted on your resume.
+
+### Find Your Web3 Job in South Africa
 
 Explore the latest Web3 opportunities in South Africa and beyond on our comprehensive [Web3 job board](/jobs). With its unique blend of financial maturity, technical talent, and regulatory clarity, South Africa is poised to be a major player in the future of the decentralized economy.
