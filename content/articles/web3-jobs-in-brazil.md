@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Brazil: A Guide to Latin America's Crypto Powerhouse"
-image: "https://images.unsplash.com/photo-1547038577-da849e4a9544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhZXJpYWwtcGhvdG9ncmFwaHktb2YtY2l0eXNjYXBlLW5lYXItc2VhLTdGNjVIZFAwLUUwfGVufDB8fHx8MTcyNTAyMjM3OXww&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1547038577-da849e4a9544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhZXJpYWwtcGhvdG9ncmFwaHktb2YtY2l0eXNjYXBlLW5lYXItc2VhLTdGNjVIZFAwLUUwfGVufDB8fHx8MTcyNTAyMjM3OXww&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "brazil city skyline"
 description: "Discover how to build a career in Brazil's burgeoning Web3 industry. This guide covers the market landscape, in-demand roles, and salary insights for one of Latin America's top crypto hubs."
 category: "Career Guides"
@@ -45,5 +45,7 @@ The demand for skilled Web3 professionals in Brazil is intense, leading to salar
     - **Meetups:** Join local meetups to connect with builders, founders, and investors in a more intimate setting.
 3.  **Focus on Local Problem-Solving:** Demonstrate an understanding of the specific challenges and opportunities within the Brazilian market. Frame your skills in the context of solving problems like financial inclusion, inflation, and cross-border commerce for Brazilian users.
 4.  **Create a "Proof of Work" Portfolio:** Your public contributions are your best resume. Write content in Portuguese about a project you admire, build a dApp that solves a local problem, or become an active, helpful member of a Brazilian DAO or community.
+
+### Find Your Web3 Job in Brazil
 
 Ready to find your place in Latin America's most exciting Web3 ecosystem? Head over to our [Web3 job board](/jobs) to browse the latest local and remote opportunities for professionals in Brazil.

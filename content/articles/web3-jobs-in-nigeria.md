@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Nigeria: A Guide to Africa's Leading Crypto Nation"
-image: "https://images.unsplash.com/photo-1594969244519-21d5a45b378c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuaWdlcmlhfGVufDB8fHx8MTcxNjQwMTgzN3ww&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1594969244519-21d5a45b378c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuaWdlcmlhfGVufDB8fHx8MTcxNjQwMTgzN3ww&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "nigeria city skyline"
 description: "Explore the explosive growth of Web3 in Nigeria. This guide covers the career opportunities, in-demand skills, and salary insights for Africa's most dynamic crypto job market."
 category: "Career Guides"
@@ -45,5 +45,7 @@ The Nigerian Web3 job market is highly competitive, with a strong demand for bot
     - **Major Events:** Attend events like ETHNigeria and other major conferences in Lagos and Abuja. These are prime networking opportunities.
     - **Local Meetups:** Participate in smaller, local meetups to build deeper relationships with other builders and founders in your city.
 4.  **Emphasize Your Understanding of the Local Context:** When interviewing with international companies, your understanding of the Nigerian market is a huge asset. Be prepared to talk about the specific needs of Nigerian users and how Web3 can solve them.
+
+### Find Your Web3 Job in Nigeria
 
 To find your place in Africa's most exciting tech scene, check out the latest remote and local opportunities on our [Web3 job board](/jobs). The Nigerian Web3 ecosystem is a testament to the power of decentralized technology to create real-world solutions, and it offers a chance to build a high-impact career at the heart of this transformation.
