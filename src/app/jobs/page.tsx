@@ -6,7 +6,7 @@ import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
-import type { WebPage } from 'schema-dts';
+import type { WebPage, JobPosting } from 'schema-dts';
 
 export const revalidate = 0; // Revalidate on every request
 
@@ -20,24 +20,49 @@ export default async function JobsPage() {
       "Join a DAO Today"
   ];
   
-  const siteUrl = 'https://hashtagweb3.com/jobs';
+  const siteUrl = 'https://hashtagweb3.com';
   const pageSchema: WebPage = {
     '@type': 'WebPage',
-    url: siteUrl,
+    url: `${siteUrl}/jobs`,
     name: "Web3 Jobs | Hashtag Web3",
     isPartOf: {
       '@type': 'WebSite',
-      url: 'https://hashtagweb3.com',
+      url: siteUrl,
       name: 'Hashtag Web3'
     },
     description: "The best job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
   };
+
+  const jobPostingsSchema: JobPosting[] = initialJobs.map(job => ({
+    '@type': 'JobPosting',
+    title: job.title,
+    description: `A new job opportunity: ${job.title} at ${job.company}.`,
+    datePosted: new Date(job.date).toISOString(),
+    hiringOrganization: {
+      '@type': 'Organization',
+      name: job.company,
+    },
+    employmentType: 'FULL_TIME', // Assuming full time, can be adjusted if data is available
+    jobLocation: {
+      '@type': 'Place',
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: 'Remote'
+      }
+    },
+    url: job.link,
+    validThrough: new Date(new Date(job.date).setDate(new Date(job.date).getDate() + 30)).toISOString(), // Expires in 30 days
+  }));
 
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingsSchema) }}
       />
       <div className="flex flex-col min-h-screen bg-background">
         <Header />
