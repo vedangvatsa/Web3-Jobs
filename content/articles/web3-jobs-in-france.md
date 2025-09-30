@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in France: A Guide to Europe's Rising Crypto Star"
-image: "https://images.unsplash.com/photo-1502602898657-3e91760c0337?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcmFuY2V8ZW58MHx8fHwxNzE2NDAxOTQ1fDA&lib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1549144511-f099e773c147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmcmFuY2V8ZW58MHx8fHwxNzU5MjY5MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "france paris city"
 description: "A career guide to the Web3 job market in France. Discover why Paris is becoming a major European hub for blockchain innovation, from DeFi to luxury brand NFTs."
 category: "Career Guides"
