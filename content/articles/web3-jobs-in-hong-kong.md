@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Hong Kong: A Guide to the Gateway Between East and West"
-image: "https://images.unsplash.com/photo-1513622790293-d0244026391a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob25nJTIwa29uZ3xlbnwwfHx8fDE3MTY0MjAwOTZ8MA&lib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1563428989904-e33150595353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxob25nJTIwa29uZyUyMHNreWxpbmV8ZW58MHx8fHwxNzE2NTQ2MjcwfDA&ixlib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "hong kong city skyline"
 description: "A career guide to the Web3 job market in Hong Kong. Learn how the city is re-emerging as a major crypto hub, with a focus on regulated ETFs, DeFi, and bridging capital between Asia and the world."
 category: "Career Guides"
