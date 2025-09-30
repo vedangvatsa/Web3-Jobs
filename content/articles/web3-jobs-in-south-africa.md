@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in South Africa: Exploring Careers in a Growing Crypto Hub"
-image: "https://images.unsplash.com/photo-1577985051121-041b112d8d34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb3V0aCUyMGFmcmljYXxlbnwwfHx8fDE3MTY0MjAwMjd8MA&lib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1548942944-7e5d59f3659a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb3V0aCUyMGFmcmljYXxlbnwwfHx8fDE3NTkyNjkxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "south africa city skyline"
 description: "A career guide to the Web3 job market in South Africa. Discover the landscape of crypto adoption, key local projects, in-demand roles, and salary expectations."
 category: "Career Guides"
