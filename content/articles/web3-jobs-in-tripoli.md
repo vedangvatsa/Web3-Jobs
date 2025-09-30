@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Tripoli: A Guide to Libya's Digital Frontier"
-image: "/images/africa web3 jobs-2.jpg"
+image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "tripoli libya city"
 description: "A career guide to the Web3 job market in Tripoli. Explore how, amidst economic challenges, Libyans are turning to crypto for financial access, creating a unique and resilient grassroots ecosystem."
 category: "Career Guides"

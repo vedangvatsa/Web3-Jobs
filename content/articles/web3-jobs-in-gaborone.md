@@ -41,4 +41,4 @@ The formal Web3 job market in Gaborone is still small, with most opportunities f
 
 ### Your Next Step: Find a Web3 Job
 
-Ready to build a career in one of Africa's most stable and strategic tech hubs? Our [Web3 job board](/jobs) is the best place to discover remote and local opportunities with companies hiring talent from Botswana and across the continent. Explore the listings today and find your place in the future of decentralized technology.
+Ready to build a career in one of Africa's most stable and strategic tech hubs? Our [Web3 job board](/jobs) features opportunities from companies hiring in Gaborone and for remote roles across the globe. Explore the listings today and find your place in the future of decentralized technology.
