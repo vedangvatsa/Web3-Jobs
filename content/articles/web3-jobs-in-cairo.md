@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Cairo: A Guide to Egypt's Rising Tech Scene"
-image: "/images/africa web3 jobs.jpg"
+image: "/images/africa web3 jobs-2.jpg"
 data-ai-hint: "cairo egypt city"
 description: "A career guide to the Web3 job market in Cairo. Explore how Egypt's capital is becoming a key hub for blockchain talent, driven by a massive youth population and a surge in tech adoption."
 category: "Career Guides"
