@@ -1,7 +1,7 @@
 ---
 title: "Web3 Jobs in South Korea: A Guide to a Gaming and Entertainment Powerhouse"
 image: "https://images.unsplash.com/photo-1530467946328-3d8a8850a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb3V0aCUyMGtvcmVhJTIwc2VvdWx8ZW58MHx8fHwxNzE2NTQ2Mzg4fDA&ixlib=rb-4.0.3&q=80&w=1080"
-data-ai-hint: "south korea city skyline"
+data-ai-hint: "south korea city"
 description: "Explore the Web3 job market in South Korea, a global leader in blockchain gaming, NFTs, and entertainment. This guide covers the key local players, in-demand roles, and salary benchmarks."
 category: "Career Guides"
 ---
