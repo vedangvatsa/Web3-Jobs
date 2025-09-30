@@ -257,7 +257,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "why-web3-has-fastest-growing-job-market",
     "writing-upgradable-smart-contracts-proxies-explained",
     "your-first-subgraph-indexing-blockchain-data-with-the-graph",
-    "zero-knowledge-proofs-explained"
+    "zero-knowledge-proofs-explained",
+    "web3-jobs-in-bangalore",
+    "web3-jobs-in-hyderabad",
+    "web3-jobs-in-pune",
+    "web3-jobs-in-delhi-ncr",
+    "web3-jobs-in-mumbai",
+    "web3-jobs-in-chennai",
+    "web3-jobs-in-kolkata",
+    "web3-jobs-in-ahmedabad",
+    "web3-jobs-in-jaipur",
+    "web3-jobs-in-kochi"
   ];
   
   const articleRoutes: MetadataRoute.Sitemap = articleSlugs.map(slug => ({
