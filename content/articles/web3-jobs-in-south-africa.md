@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in South Africa: Exploring Careers in a Growing Crypto Hub"
-image: "https://images.unsplash.com/photo-1590510632362-e952613e5b9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfGFsbHx8fHx8fHx8fDE3MjYwNDEzOTV8&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1552937075-967cf58b74a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb3V0aCUyMGFmcmljYXxlbnwwfHx8fDE3NTkyNjk0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "south africa cape town"
 description: "A career guide to the Web3 job market in South Africa. Discover the landscape of crypto adoption, key local projects, in-demand roles, and salary expectations."
 category: "Career Guides"
@@ -50,3 +50,6 @@ The demand for Web3 professionals in South Africa is growing steadily, with sala
 ### Find Your Web3 Job in South Africa
 
 Explore the latest Web3 opportunities in South Africa and beyond on our comprehensive [Web3 job board](/jobs). With its unique blend of financial maturity, technical talent, and regulatory clarity, South Africa is poised to be a major player in the future of the decentralized economy.
+
+### Find Your Web3 Job in South Africa
+To explore career opportunities in this growing market, head over to our [Web3 job board](/jobs) to browse the latest local and remote roles from top companies hiring in the region.
