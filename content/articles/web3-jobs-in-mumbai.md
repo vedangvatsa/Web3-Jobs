@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Mumbai: A Guide to India's Financial Crypto Hub"
-image: "https://images.unsplash.com/photo-1603415526960-f427c55c0c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYXxlbnwwfHx8fDE3MjYxNDUzODR8MA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "mumbai city india"
 description: "A career guide to the Web3 job market in Mumbai. Discover how India's financial capital is becoming a major center for DeFi, institutional crypto, and FinTech innovation."
 category: "Career Guides"
@@ -49,9 +49,6 @@ The job market in Mumbai is particularly strong for professionals who have a hyb
     -   *Project Idea:* Create a Dune dashboard that tracks the key financial metrics for a specific DeFi sector.
 4.  **Network in FinTech and Crypto Circles:** Attend events that bring together both the traditional finance and Web3 communities. Your ability to speak both languages will make you a valuable connector and a highly sought-after candidate.
 
-### Find Your Web3 Job in Mumbai
-
-To find your next role at the intersection of finance and decentralization, explore the latest opportunities on our [Web3 job board](/jobs). Mumbai offers a unique and high-stakes environment for ambitious professionals who want to be at the forefront of building the new global financial system.
 ### Your Next Step: Find a Web3 Job
 
 Ready to take the next step in your career? Our [Web3 job board](/jobs) is the premier platform for discovering opportunities in Mumbai and beyond. We feature curated roles from leading companies, DAOs, and protocols that are actively hiring top talent. Whether you're a developer, marketer, or product manager, your next role in the decentralized economy is waiting for you. Explore our listings today and find your place in the future of the internet.

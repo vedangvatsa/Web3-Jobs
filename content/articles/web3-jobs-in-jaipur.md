@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Jaipur: A Guide to the Pink City's Tech Scene"
-image: "https://images.unsplash.com/photo-1603415526960-f427c55c0c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYXxlbnwwfHx8fDE3MjYxNDUzODR8MA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "jaipur city india"
 description: "A career guide to the Web3 job market in Jaipur. Explore the Pink City's emerging role in the Web3 space, with a focus on its growing startup scene and opportunities for remote talent."
 category: "Career Guides"
@@ -43,9 +43,6 @@ The job market in Jaipur is primarily for remote roles or with a small number of
     - Presenting such a project at a local tech meetup can be a powerful way to demonstrate your skills and vision.
 4.  **Network Nationally:** Stay connected with the larger Indian Web3 scene. Travel to conferences in Bangalore, Delhi, and Mumbai to build your network and learn from the broader community.
 
-### Find Your Web3 Job in Jaipur
-
-To find the latest remote roles available to professionals in Jaipur, and to see listings from local companies as they emerge, keep a close watch on our [Web3 job board](/jobs). Jaipur offers the exciting prospect of being a pioneer in a new tech frontier, with the chance to shape the culture and direction of Web3 in one of India's most beautiful cities.
 ### Your Next Step: Find a Web3 Job
 
 Ready to take the next step in your career? Our [Web3 job board](/jobs) is the premier platform for discovering opportunities in Jaipur and beyond. We feature curated roles from leading companies, DAOs, and protocols that are actively hiring top talent. Whether you're a developer, marketer, or product manager, your next role in the decentralized economy is waiting for you. Explore our listings today and find your place in the future of the internet.
