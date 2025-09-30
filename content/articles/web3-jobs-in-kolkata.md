@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Kolkata: A Guide to the Cultural Capital's Crypto Scene"
-image: "https://images.unsplash.com/photo-1603415526960-f427c55c0c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYXxlbnwwfHx8fDE3MjYxNDUzODR8MA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "kolkata city india"
 description: "Explore the growing Web3 job market in Kolkata. This guide covers the city's emerging role in the Indian blockchain ecosystem, with a focus on community, marketing, and creative talent."
 category: "Career Guides"
@@ -45,9 +45,6 @@ The job market in Kolkata is strongest for non-technical roles, particularly tho
 3.  **Network at National Events:** While the local scene is growing, it's important to connect with the broader Indian ecosystem. Travel to major events like ETHIndia in Bangalore to network with the teams and founders who are actively hiring.
 4.  **Target Remote Roles:** The best and highest-paying opportunities for Kolkata-based professionals are often remote roles with global companies. Build a strong online presence and a public portfolio of work to make yourself an attractive candidate for these positions.
 
-### Find Your Web3 Job in Kolkata
-
-To discover the latest remote and local opportunities for professionals in Kolkata, visit our [Web3 job board](/jobs). While still in its early days, Kolkata's passionate community and creative energy make it an exciting place to be a part of the next wave of Web3 adoption in India.
 ### Your Next Step: Find a Web3 Job
 
 Ready to take the next step in your career? Our [Web3 job board](/jobs) is the premier platform for discovering opportunities in Kolkata and beyond. We feature curated roles from leading companies, DAOs, and protocols that are actively hiring top talent. Whether you're a developer, marketer, or product manager, your next role in the decentralized economy is waiting for you. Explore our listings today and find your place in the future of the internet.

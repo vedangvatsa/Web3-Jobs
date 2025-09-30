@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Pune: A Guide to India's Rising Tech City"
-image: "https://images.unsplash.com/photo-1603415526960-f427c55c0c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYXxlbnwwfHx8fDE3MjYxNDUzODR8MA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "pune city india"
 description: "A guide to the Web3 job market in Pune. Discover the city's growing role in the Indian crypto ecosystem, from its strong developer community to its vibrant startup culture."
 category: "Career Guides"
@@ -45,9 +45,6 @@ The demand for skilled Web3 professionals in Pune is growing rapidly, with compa
 3.  **Focus on Continuous Learning:** The Pune community is very focused on education. Show that you are a dedicated learner. Participate in online bootcamps, contribute to open-source projects, and be able to talk intelligently about the latest developments in areas like Layer 2 scaling or account abstraction.
 4.  **Network with Mumbai's Financial Scene:** Use Pune's proximity to Mumbai to your advantage. Attend fintech and DeFi-focused events in Mumbai to connect with the financial side of the Web3 industry.
 
-### Find Your Web3 Job in Pune
-
-To find the latest Web3 roles in Pune and from remote companies hiring in India, check out our [Web3 job board](/jobs). With its strong sense of community, deep talent pool, and dynamic startup energy, Pune offers a fantastic environment for building a successful and rewarding career in Web3.
 ### Your Next Step: Find a Web3 Job
 
 Ready to take the next step in your career? Our [Web3 job board](/jobs) is the premier platform for discovering opportunities in Pune and beyond. We feature curated roles from leading companies, DAOs, and protocols that are actively hiring top talent. Whether you're a developer, marketer, or product manager, your next role in the decentralized economy is waiting for you. Explore our listings today and find your place in the future of the internet.

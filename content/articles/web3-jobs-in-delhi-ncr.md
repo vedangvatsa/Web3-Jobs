@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Delhi NCR: A Guide to the Capital's Crypto Ecosystem"
-image: "https://images.unsplash.com/photo-1603415526960-f427c55c0c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYXxlbnwwfHx8fDE3MjYxNDUzODR8MA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "delhi city india"
 description: "Explore the Web3 job market in Delhi NCR. This guide covers the region's unique strengths in policy, media, and marketing, and the career opportunities available in India's capital region."
 category: "Career Guides"
@@ -45,9 +45,6 @@ The job market in Delhi NCR is particularly strong for non-technical and busines
 3.  **Network at Policy and Business Events:** While developer meetups are common, also focus on attending events that bring together policymakers, investors, and business leaders. Events organized by industry bodies like BACC (Blockchain and Crypto Assets Council) are invaluable for networking.
 4.  **Understand the Regulatory Landscape:** Develop a deep understanding of the regulatory conversation in India. Be able to speak intelligently about the government's stance, the key legal issues, and the future of crypto policy in the country. This knowledge is a significant asset for almost any role in the NCR.
 
-### Find Your Web3 Job in Delhi NCR
-
-To find your next role in India's capital of crypto business and policy, explore the latest opportunities on our [Web3 job board](/jobs). With its unique strengths in marketing, media, and regulation, Delhi NCR offers a high-impact career path for professionals looking to shape the public face and future of Web3 in India.
 ### Your Next Step: Find a Web3 Job
 
 Ready to take the next step in your career? Our [Web3 job board](/jobs) is the premier platform for discovering opportunities in Delhi NCR and beyond. We feature curated roles from leading companies, DAOs, and protocols that are actively hiring top talent. Whether you're a developer, marketer, or product manager, your next role in the decentralized economy is waiting for you. Explore our listings today and find your place in the future of the internet.
