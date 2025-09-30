@@ -26,7 +26,7 @@ The Nigerian Web3 job market is highly competitive, with a strong demand for bot
     *   **Mid-Level:** NGN 700,000 - 1,500,000 per month
     *   **Senior:** NGN 1,500,000 - 3,000,000+ per month
 
-*(Note: These figures can be much higher for senior talent working remotely for well-funded international protocols, often paid in USD or stablecoins.)*
+*(Note: These figures can be much higher for senior talent working remotely for well-funded international protocols, who are often paid in USD or stablecoins.)*
 
 ### How to Get a Web3 Job in Nigeria
 
