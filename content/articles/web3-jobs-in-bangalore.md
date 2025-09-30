@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Bangalore: A Guide to India's Silicon Valley"
-image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
+image: "/images/india web3 jobs.jpg"
 data-ai-hint: "bangalore city india"
 description: "An in-depth guide to the Web3 job market in Bangalore. Explore why India's Silicon Valley is a global leader in blockchain development, the key companies hiring, and salary insights."
 category: "Career Guides"

@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Delhi NCR: A Guide to the Capital's Crypto Ecosystem"
-image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
+image: "/images/india web3 jobs.jpg"
 data-ai-hint: "delhi city india"
 description: "Explore the Web3 job market in Delhi NCR. This guide covers the region's unique strengths in policy, media, and marketing, and the career opportunities available in India's capital region."
 category: "Career Guides"

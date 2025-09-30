@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Ahmedabad: A Guide to Gujarat's Tech Scene"
-image: "https://images.unsplash.com/photo-1549339396-51f92496096c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmbGFnfGVufDB8fHx8MTcyNjM4MDY4NHww&ixlib=rb-4.0.3&q=80&w=1080"
+image: "/images/india web3 jobs.jpg"
 data-ai-hint: "ahmedabad city india"
 description: "Explore the Web3 job market in Ahmedabad. This guide covers the city's emerging blockchain ecosystem, focusing on enterprise solutions, local startups, and career opportunities in Gujarat's largest city."
 category: "Career Guides"
