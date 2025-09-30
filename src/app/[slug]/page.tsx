@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       url: `${siteUrl}/${article.slug}`,
       images: [
         {
-          url: article.image,
+          url: article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`,
           width: 1200,
           height: 630,
           alt: `${article.title} - Hashtag Web3`,
@@ -52,7 +52,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       card: 'summary_large_image',
       title: article.title,
       description: article.description,
-      images: [article.image],
+      images: [article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`],
     },
   };
 }
@@ -65,11 +65,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
   
   const siteUrl = 'https://hashtagweb3.com';
+  const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;
+
   const articleSchema: ArticleSchema = {
     '@type': 'Article',
     headline: article.title,
     description: article.description,
-    image: article.image,
+    image: imageUrl,
     datePublished: new Date().toISOString(),
     dateModified: new Date().toISOString(),
     author: {
