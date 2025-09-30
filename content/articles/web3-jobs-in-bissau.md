@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Bissau: A Guide to Guinea-Bissau's Digital Frontier"
-image: "/images/africa web3 jobs-2.jpg"
+image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "bissau guinea bissau city"
 description: "A career guide to the emerging Web3 job market in Bissau. Explore the potential for blockchain technology in Guinea-Bissau, with a focus on financial inclusion and social impact."
 category: "Career Guides"
@@ -29,7 +29,7 @@ There is no formal Web3 job market in Bissau today. The career path for a Bissau
 *   **Impact Project Manager / Consultant:** Professionals with a background in international development or NGO work who can understand and apply blockchain technology are in a unique position. They can work as consultants for large organizations looking to pilot Web3 projects in the region.
     *   **Contract-based:** Compensation is typically project-based and follows international development sector standards.
 
-*   **Community Educator (Portuguese/Creole):** There is a huge need for educators who can explain Web3 concepts to the local population in their own languages, helping to drive grassroots adoption and prevent scams. This is often a self-started or grant-funded role.
+*   **Community Educator (Portuguese/Creole):** There is a huge need for local leaders who can educate communities about Web3 in their own languages, helping to drive grassroots adoption and protect against scams. This is often a self-started or grant-funded role.
 
 ### How to Build a Web3 Career in Bissau
 

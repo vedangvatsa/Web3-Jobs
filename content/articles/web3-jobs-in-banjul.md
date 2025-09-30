@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Banjul: A Guide to The Gambia's Digital Ambitions"
-image: "/images/africa web3 jobs-2.jpg"
+image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "banjul gambia city"
 description: "A career guide to the emerging Web3 job market in Banjul. Explore how The Gambia, with its ambitious leadership and focus on FinTech, is positioning itself as a future blockchain hub."
 category: "Career Guides"
