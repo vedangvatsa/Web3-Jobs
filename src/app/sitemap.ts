@@ -190,6 +190,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "web3-interview-questions",
     "web3-jobs-and-regulatory-unknown",
     "web3-jobs-for-beginners",
+    "web3-jobs-in-australia",
+    "web3-jobs-in-brazil",
+    "web3-jobs-in-germany",
+    "web3-jobs-in-india",
+    "web3-jobs-in-indonesia",
+    "web3-jobs-in-nigeria",
+    "web3-jobs-in-philippines",
+    "web3-jobs-in-south-africa",
+    "web3-jobs-in-uk",
+    "web3-jobs-in-usa",
+    "web3-jobs-in-vietnam",
     "web3-market-maturation",
     "web3-marketing-jobs",
     "web3-marketing",
@@ -236,7 +247,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "why-web3-has-fastest-growing-job-market",
     "writing-upgradable-smart-contracts-proxies-explained",
     "your-first-subgraph-indexing-blockchain-data-with-the-graph",
-    "zero-knowledge-proofs-explained"
+    "zero-knowledge-proofs-explained",
+    "web3-jobs-in-canada",
+    "web3-jobs-in-singapore",
+    "web3-jobs-in-hong-kong",
+    "web3-jobs-in-uae",
+    "web3-jobs-in-south-korea",
+    "web3-jobs-in-japan",
+    "web3-jobs-in-france",
+    "web3-jobs-in-turkey",
+    "web3-jobs-in-argentina",
+    "web3-jobs-in-russia"
   ];
   
   const articleRoutes: MetadataRoute.Sitemap = articleSlugs.map(slug => ({
