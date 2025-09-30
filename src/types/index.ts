@@ -18,6 +18,15 @@ export interface Article {
   category: string;
 }
 
+export interface NewsItem {
+  title: string;
+  link: string;
+  pubDate: string;
+  creator: string;
+  contentSnippet: string;
+  source: string;
+}
+
 export interface DigitalNomadVisa {
   country: string;
   continent: 'Europe' | 'Asia' | 'North America' | 'South America' | 'Africa' | 'Oceania';
@@ -82,13 +91,4 @@ export interface ResumeData {
   }[];
   web3Skills: string;
   generalSkills: string;
-}
-
-export interface NewsItem {
-  title: string;
-  link: string;
-  pubDate: string;
-  creator: string;
-  contentSnippet: string;
-  source: string;
 }
