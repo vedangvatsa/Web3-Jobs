@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Argentina: A Guide to Latin America's Resilient Crypto Hub"
-image: "https://images.unsplash.com/photo-1579295362103-83801452097e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcmdlbnRpbmElMjBidWVub3MlMjBhaXJlc3xlbnwwfHx8fDE3MTY1NDYxNjB8MA&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcmdlbnRpbmF8ZW58MHx8fHwxNzU5MjY4ODQ0fDA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "argentina city buenos aires"
 description: "Explore the Web3 job market in Argentina, a nation where crypto is a real-world necessity. This guide covers the key players, in-demand roles, and how to build a career in this passionate ecosystem."
 category: "Career Guides"
