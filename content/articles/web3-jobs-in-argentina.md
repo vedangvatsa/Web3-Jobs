@@ -41,7 +41,7 @@ The job market for Argentinian talent is global. While local salaries can be mod
 3.  **Network Within the Buenos Aires Scene:**
     - **Attend Meetups:** Go to the frequent developer and community meetups in Buenos Aires.
     - **Major Conferences:** Participate in ETHLatam and other major regional conferences. The local scene is tight-knit, and personal connections are very important.
-4.  **Target Remote-First Global Companies:** The biggest opportunities for Argentinian talent are often with international protocols that hire globally. Frame yourself as a world-class engineer who can compete on a global level. Fluency in English is non-negotiable for these roles.
+4.  **Target Remote-First Global Companies:** The biggest opportunities for Argentinian talent are often with international, remote-first companies that are happy to hire top talent from Argentina. Frame yourself as a world-class engineer who can compete on a global level. Fluency in English is non-negotiable for these roles.
 
 ### Find Your Web3 Job in Argentina
 

@@ -14,7 +14,7 @@ The South Korean crypto market is mature and sophisticated, with a strong focus 
 
 South Korea's Web3 scene is unique and characterized by several key trends:
 
-- **A Global Leader in Web3 Gaming (GameFi):** South Korea is arguably the most important market in the world for blockchain gaming. The country's established gaming giants are leveraging their immense resources and IP to build the next generation of AAA-quality Web3 games.
+- **A Global Leader in Web3 Gaming (GameFi):** South Korea is arguably the most important market in the world for blockchain gaming. The country has a deep talent pool of experienced game developers, artists, designers, and project managers from its thriving traditional gaming industry. This has made it a hotbed for new Web3 gaming studios and a magnet for international venture capital focused on GameFi.
 - **Strong Mainstream and Corporate Adoption:** Unlike many other countries, Web3 in South Korea is not a niche interest. Major corporations in gaming, entertainment (K-pop), and mobile services are actively building and integrating Web3 features, driving mainstream adoption.
 - **Dominated by Local Platforms:** The market has a strong preference for local platforms and ecosystems. Exchanges like Upbit and Bithumb dominate trading volume, and social media is led by local players like KakaoTalk.
 - **Regulatory Dynamics:** The regulatory environment is active and evolving. While the government is supportive of the underlying technology, it maintains strict oversight, particularly concerning the classification of "Play-to-Earn" (P2E) games.
