@@ -1,18 +1,25 @@
 
-
 import { MetadataRoute } from 'next';
-import { getAllArticles } from '@/lib/articles';
+import fs from 'fs';
+import path from 'path';
 
 const siteUrl = 'https://hashtagweb3.com';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const articles = await getAllArticles();
-  const articleRoutes: MetadataRoute.Sitemap = articles.map(article => ({
-    url: `${siteUrl}/${article.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly',
-    priority: 0.7
-  }));
+  const articlesDirectory = path.join(process.cwd(), 'content/articles');
+  const fileNames = fs.readdirSync(articlesDirectory);
+  
+  const articleRoutes: MetadataRoute.Sitemap = fileNames
+    .filter(fileName => fileName.endsWith('.md'))
+    .map(fileName => {
+      const slug = fileName.replace(/\.md$/, '');
+      return {
+        url: `${siteUrl}/${slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.7
+      };
+    });
 
   const staticRoutes: MetadataRoute.Sitemap = [
     {
@@ -32,6 +39,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8
+    },
+    {
+      url: `${siteUrl}/news`,
+      lastModified: new Date(),
+      changeFrequency: 'hourly',
+      priority: 0.9,
     },
     {
         url: `${siteUrl}/salary-calculator`,
@@ -74,12 +87,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
-    },
-    {
-      url: `${siteUrl}/news`,
-      lastModified: new Date(),
-      changeFrequency: 'hourly',
-      priority: 0.9,
     }
   ];
 
