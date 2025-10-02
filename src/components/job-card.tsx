@@ -24,8 +24,7 @@ export function JobCard({ job }: { job: Job }) {
         <CardContent className="flex-grow pt-0 pb-3 px-4">
           <p className="text-sm text-muted-foreground">{job.company}</p>
         </CardContent>
-        <CardFooter className="flex justify-between items-center text-xs text-muted-foreground pt-0 pb-3 px-4">
-          <span>{job.source}</span>
+        <CardFooter className="flex justify-end items-center text-xs text-muted-foreground pt-0 pb-3 px-4">
           {postedAt ? (
             <span>{postedAt}</span>
           ) : (
