@@ -1,7 +1,7 @@
 'use client';
 
 import * as React from 'react';
-import { useForm, useWatch } from 'react-hook-form';
+import { useForm, useFieldArray, useWatch } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { z } from 'zod';
 import { Button } from '@/components/ui/button';
@@ -9,27 +9,29 @@ import { Card, CardHeader, CardTitle, CardContent, CardDescription } from '@/com
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
-import { Download, Milestone, ArrowRight, Briefcase } from 'lucide-react';
+import { Download, Milestone, ArrowRight, Briefcase, Plus, Trash2 } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 import { Popover, PopoverContent, PopoverTrigger } from './ui/popover';
 import { Calendar } from './ui/calendar';
 import { format } from 'date-fns';
 
-const milestonePeriodSchema = z.object({
-  focus: z.string().min(1),
-  goals: z.string().min(1),
-  metrics: z.string().min(1),
+const milestoneItemSchema = z.object({
+  description: z.string().min(1, 'Milestone description is required'),
+  metric: z.string().min(1, 'Success metric is required'),
+});
+
+const objectiveSchema = z.object({
+  title: z.string().min(1, 'Objective title is required'),
+  milestones: z.array(milestoneItemSchema).min(1, 'At least one milestone is required'),
 });
 
 const milestonesSchema = z.object({
   employeeName: z.string().min(1),
   role: z.string().min(1),
   manager: z.string().min(1),
-  startDate: z.date(),
-  period30: milestonePeriodSchema,
-  period60: milestonePeriodSchema,
-  period90: milestonePeriodSchema,
+  period: z.string().min(1, 'Tracking period is required'),
+  objectives: z.array(objectiveSchema).min(1, 'At least one objective is required'),
 });
 
 type MilestonesData = z.infer<typeof milestonesSchema>;
@@ -39,35 +41,35 @@ export function EmployeeMilestonesForm() {
   const form = useForm<MilestonesData>({
     resolver: zodResolver(milestonesSchema),
     defaultValues: {
-      employeeName: "",
-      role: "",
-      manager: "",
-      startDate: new Date(),
-      period30: {
-        focus: "Learning & Immersion",
-        goals: "• Complete all company onboarding modules.\n• Meet with key team members across 3 departments.\n• Understand the core protocol architecture and value proposition.\n• Ship first small, non-critical pull request.",
-        metrics: "• Onboarding checklist 100% complete.\n• PR merged."
-      },
-      period60: {
-        focus: "Contribution & Execution",
-        goals: "• Take ownership of a medium-sized feature.\n• Contribute to product planning for the next sprint.\n• Write one piece of internal documentation.",
-        metrics: "• Feature shipped to staging.\n• Documentation page published in Notion."
-      },
-      period90: {
-        focus: "Ownership & Initiative",
-        goals: "• Independently lead the design and implementation of a new feature.\n• Propose a process improvement for the team.\n• Mentor one new team member or community contributor.",
-        metrics: "• Feature successfully launched to production.\n• Process improvement adopted by the team."
-      },
+      employeeName: "Jane Doe",
+      role: "Senior Engineer",
+      manager: "John Smith",
+      period: `Q3 ${new Date().getFullYear()}`,
+      objectives: [
+        {
+          title: "Launch New Feature 'X'",
+          milestones: [
+            { description: 'Finalize technical specification document.', metric: 'Spec approved by lead engineer.' },
+            { description: 'Complete backend development for core APIs.', metric: 'All API endpoints deployed to staging.' },
+            { description: 'Ship feature to 100% of production users.', metric: 'Feature flag fully rolled out.' },
+          ]
+        },
+        {
+          title: "Improve Protocol Gas Efficiency",
+          milestones: [
+            { description: 'Identify top 3 most gas-intensive functions.', metric: 'Gas usage report published.' },
+            { description: 'Implement optimizations for identified functions.', metric: 'PRs merged for all 3 functions.' },
+            { description: 'Achieve a 15% average reduction in gas costs.', metric: 'Confirmed via on-chain analysis.' },
+          ]
+        }
+      ],
     },
   });
   
-  React.useEffect(() => {
-    form.reset({
-        ...form.getValues(),
-        startDate: new Date(),
-    })
-  }, [form]);
-
+  const { fields, append, remove } = useFieldArray({
+    control: form.control,
+    name: "objectives"
+  });
 
   const handleDownload = form.handleSubmit((data) => {
     try {
@@ -77,7 +79,7 @@ export function EmployeeMilestonesForm() {
       let y = margin;
 
       doc.setFontSize(22).setFont('helvetica', 'bold').setTextColor('#111827');
-      doc.text('30-60-90 Day Plan', margin, y);
+      doc.text('Employee Performance Milestones', margin, y);
       y += 30;
       
       const addShortField = (label: string, value: string) => {
@@ -91,43 +93,37 @@ export function EmployeeMilestonesForm() {
       addShortField('Employee:', data.employeeName || '____________________');
       addShortField('Role:', data.role || '____________________');
       addShortField('Manager:', data.manager || '____________________');
-      addShortField('Start Date:', data.startDate ? format(data.startDate, 'PPP') : '____________________');
-      y += 15;
+      addShortField('Period:', data.period || '____________________');
+      y += 20;
 
-      const addSection = (title: string, focus: string, goals: string, metrics: string) => {
+      data.objectives.forEach((objective, index) => {
           if (y > doc.internal.pageSize.getHeight() - 150) { doc.addPage(); y = margin; }
-          doc.setFontSize(16).setFont('helvetica', 'bold').setTextColor(41, 106, 187);
-          doc.text(title, margin, y);
+          doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor(41, 106, 187);
+          doc.text(`Key Objective ${index + 1}: ${objective.title}`, margin, y);
           y += 25;
           
-          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#111827');
-          doc.text('Focus Area:', margin, y);
-          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
-          const focusLines = doc.splitTextToSize(focus, contentWidth);
-          doc.text(focusLines, margin, y += 15);
-          y += focusLines.length * 12 + 10;
-
-          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#111827');
-          doc.text('Key Goals:', margin, y);
-          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
-          const goalsLines = doc.splitTextToSize(goals, contentWidth);
-          doc.text(goalsLines, margin, y += 15);
-          y += goalsLines.length * 12 + 10;
-
-          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#111827');
-          doc.text('Success Metrics:', margin, y);
-          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
-          const metricsLines = doc.splitTextToSize(metrics, contentWidth);
-          doc.text(metricsLines, margin, y += 15);
-          y += metricsLines.length * 12 + 25;
-      }
-      
-      addSection('First 30 Days', data.period30.focus, data.period30.goals, data.period30.metrics);
-      addSection('Days 31-60', data.period60.focus, data.period60.goals, data.period60.metrics);
-      addSection('Days 61-90', data.period90.focus, data.period90.goals, data.period90.metrics);
+          objective.milestones.forEach((milestone, mIndex) => {
+              if (y > doc.internal.pageSize.getHeight() - 60) { doc.addPage(); y = margin; }
+              doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#111827');
+              doc.text(`- Milestone ${mIndex + 1}:`, margin, y);
+              
+              doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
+              const descLines = doc.splitTextToSize(milestone.description, contentWidth - 10);
+              doc.text(descLines, margin + 10, y += 15);
+              y += descLines.length * 12 + 5;
+              
+              doc.setFontSize(10).setFont('helvetica', 'bold').setTextColor('#374151');
+              doc.text('Success Metric:', margin + 10, y);
+              doc.setFontSize(10).setFont('helvetica', 'italic').setTextColor('#374151');
+              const metricLines = doc.splitTextToSize(milestone.metric, contentWidth - 100);
+              doc.text(metricLines, margin + 100, y);
+              y += metricLines.length * 12 + 15;
+          });
+          y += 10;
+      });
 
 
-      doc.save('30-60-90-Day-Plan.pdf');
+      doc.save('Employee-Milestones.pdf');
       toast({ title: "Success!", description: "Milestones plan downloaded as PDF." });
     } catch (error) {
       console.error(error);
@@ -135,29 +131,33 @@ export function EmployeeMilestonesForm() {
     }
   });
 
-  const watchedForm = useWatch({ control: form.control });
+  const ObjectiveForm = ({ objectiveIndex }: { objectiveIndex: number }) => {
+    const { fields: milestoneFields, append: appendMilestone, remove: removeMilestone } = useFieldArray({
+      control: form.control,
+      name: `objectives.${objectiveIndex}.milestones`
+    });
 
-  const MilestonePeriodForm = ({ period, title }: { period: 'period30' | 'period60' | 'period90', title: string}) => (
-      <Card>
-          <CardHeader>
-              <CardTitle className="text-xl">{title}</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-4">
-              <div className="space-y-2">
-                  <Label>Focus Area</Label>
-                  <Input placeholder="e.g. Learning & Immersion" {...form.register(`${period}.focus`)} />
-              </div>
-              <div className="space-y-2">
-                  <Label>Key Goals</Label>
-                  <Textarea placeholder="• Bulleted list of primary objectives..." {...form.register(`${period}.goals`)} rows={5} />
-              </div>
-              <div className="space-y-2">
-                  <Label>Success Metrics</Label>
-                  <Textarea placeholder="• How will success for the above goals be measured?" {...form.register(`${period}.metrics`)} rows={3} />
-              </div>
-          </CardContent>
-      </Card>
-  );
+    return (
+        <Card className="bg-secondary/30 p-4">
+            <div className="flex justify-between items-center mb-4">
+                 <Input placeholder="Key Objective Title" {...form.register(`objectives.${objectiveIndex}.title`)} className="text-lg font-semibold"/>
+                 <Button variant="ghost" size="icon" onClick={() => remove(objectiveIndex)}><Trash2 className="h-4 w-4 text-destructive"/></Button>
+            </div>
+            <div className="space-y-3 pl-4">
+              {milestoneFields.map((field, mIndex) => (
+                <div key={field.id} className="p-3 border-l-2 border-primary/50 bg-background rounded-r-lg space-y-2 relative">
+                    <Textarea placeholder="Specific milestone or task..." {...form.register(`objectives.${objectiveIndex}.milestones.${mIndex}.description`)} rows={2} />
+                    <Input placeholder="Success Metric..." {...form.register(`objectives.${objectiveIndex}.milestones.${mIndex}.metric`)} />
+                    <Button variant="ghost" size="icon" className="absolute top-1 right-1" onClick={() => removeMilestone(mIndex)}><Trash2 className="h-4 w-4 text-destructive/70"/></Button>
+                </div>
+              ))}
+              <Button type="button" variant="outline" size="sm" onClick={() => appendMilestone({ description: '', metric: '' })}>
+                <Plus className="mr-2 h-4 w-4"/> Add Milestone
+              </Button>
+            </div>
+        </Card>
+    );
+  };
 
   return (
     <div className="container mx-auto py-12">
@@ -167,7 +167,7 @@ export function EmployeeMilestonesForm() {
                   <Milestone className="h-10 w-10 text-primary" />
                 </div>
                 <CardTitle className="text-3xl">Employee Milestones Tracker</CardTitle>
-                <CardDescription>Create a structured 30-60-90 day plan for new hires.</CardDescription>
+                <CardDescription>Set and track key objectives and milestones for career development.</CardDescription>
             </CardHeader>
             <CardContent>
                 <form className="space-y-6">
@@ -179,16 +179,20 @@ export function EmployeeMilestonesForm() {
                             <Input placeholder="Employee Name" {...form.register('employeeName')} />
                             <Input placeholder="Role" {...form.register('role')} />
                             <Input placeholder="Manager's Name" {...form.register('manager')} />
-                            <Popover>
-                                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.startDate ? format(watchedForm.startDate, 'PPP') : <span>Pick a start date</span>}</Button></PopoverTrigger>
-                                <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.startDate} onSelect={(d) => d && form.setValue('startDate', d)} initialFocus /></PopoverContent>
-                            </Popover>
+                            <Input placeholder="Tracking Period (e.g. Q3 2024)" {...form.register('period')} />
                         </CardContent>
                     </Card>
+
+                    <div className="space-y-4">
+                        {fields.map((field, index) => (
+                            <ObjectiveForm key={field.id} objectiveIndex={index} />
+                        ))}
+                    </div>
+
+                    <Button type="button" variant="secondary" className="w-full" onClick={() => append({ title: '', milestones: [{description: '', metric: ''}] })}>
+                        <Plus className="mr-2 h-4 w-4"/> Add New Objective
+                    </Button>
                     
-                    <MilestonePeriodForm period="period30" title="First 30 Days" />
-                    <MilestonePeriodForm period="period60" title="Days 31-60" />
-                    <MilestonePeriodForm period="period90" title="Days 61-90" />
                 </form>
             </CardContent>
         </Card>
@@ -214,3 +218,5 @@ export function EmployeeMilestonesForm() {
     </div>
   );
 }
+
+      
