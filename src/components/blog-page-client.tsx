@@ -24,7 +24,7 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
             fill
             className="object-cover rounded-t-lg"
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-            data-ai-hint={`${article.slug.replace(/-/g, ' ')}`}
+            data-ai-hint={`${article['data-ai-hint'] || ''}`}
           />
         </div>
         <CardHeader className="flex-grow">
