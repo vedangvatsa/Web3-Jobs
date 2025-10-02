@@ -16,7 +16,7 @@ const cultureGuideSchema = z.object({
   companyName: z.string().min(1, "Company Name is required"),
   mission: z.string().min(1, "Mission is required"),
   vision: z.string().min(1, "Vision is required"),
-  values: z.array(z.object({ name: z.string(), description: z.string() })).min(1),
+  values: z.array(z.object({ name: z.string().min(1), description: z.string().min(1) })).min(1),
   communication: z.string().min(1, "Communication style is required"),
   rituals: z.string().min(1, "Team rituals are required"),
 });
@@ -57,45 +57,41 @@ export function CompanyCultureGuideForm() {
       doc.text(`${data.companyName} Culture Guide`, margin, y);
       y += 40;
 
-      const addSection = (title: string, fillableLines: number = 3) => {
+      const addSection = (title: string, text: string) => {
+        if (y > doc.internal.pageSize.getHeight() - 100) { doc.addPage(); y = margin; }
         doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
         doc.text(title, margin, y);
         y += 20;
-        doc.setDrawColor(209, 213, 219); // gray-300
-        for(let i=0; i < fillableLines; i++) {
-            doc.line(margin, y, contentWidth + margin, y);
-            y += 20;
-        }
-        y += 10;
+        doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
+        const lines = doc.splitTextToSize(text, contentWidth);
+        doc.text(lines, margin, y);
+        y += lines.length * 15 + 20;
       }
       
-      const addValueSection = (count: number) => {
-        doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
-        doc.text('Our Core Values', margin, y);
-        y += 20;
-        for (let i = 0; i < count; i++) {
-          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
-          doc.text(`Value #${i+1}:`, margin, y);
-          y += 15;
-          doc.setDrawColor(209, 213, 219);
-          doc.line(margin + 50, y-5, contentWidth + margin, y-5);
-          y += 10;
-          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#4B5563');
-          doc.text(`Description:`, margin, y);
-          y+= 15;
-          doc.line(margin, y, contentWidth + margin, y); y += 15;
-          doc.line(margin, y, contentWidth + margin, y); y += 25;
-        }
-      }
+      addSection('Our Mission', data.mission);
+      addSection('Our Vision', data.vision);
 
-      addSection('Our Mission', 3);
-      addSection('Our Vision', 3);
-      addValueSection(3);
-      addSection('How We Communicate', 4);
-      addSection('Our Team Rituals', 4);
+      if (y > doc.internal.pageSize.getHeight() - 100) { doc.addPage(); y = margin; }
+      doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
+      doc.text('Our Core Values', margin, y);
+      y += 20;
+      data.values.forEach(value => {
+        if (y > doc.internal.pageSize.getHeight() - 50) { doc.addPage(); y = margin; }
+        doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
+        doc.text(value.name, margin, y);
+        y += 15;
+        doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
+        const descLines = doc.splitTextToSize(value.description, contentWidth);
+        doc.text(descLines, margin, y);
+        y += descLines.length * 15 + 10;
+      });
+      y+= 10;
+
+      addSection('How We Communicate', data.communication);
+      addSection('Our Team Rituals', data.rituals);
       
-      doc.save(`${data.companyName}-Culture-Guide-Template.pdf`);
-      toast({ title: "Success!", description: "Culture guide template downloaded as PDF." });
+      doc.save(`${data.companyName.replace(/ /g, '-')}-Culture-Guide.pdf`);
+      toast({ title: "Success!", description: "Culture guide downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });

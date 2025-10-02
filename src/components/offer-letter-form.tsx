@@ -56,11 +56,12 @@ export function OfferLetterForm() {
   });
 
   React.useEffect(() => {
+    const today = new Date();
     form.reset({
         ...form.getValues(),
-        date: new Date(),
-        startDate: new Date(new Date().setDate(new Date().getDate() + 14)),
-        offerExpiryDate: new Date(new Date().setDate(new Date().getDate() + 7)),
+        date: today,
+        startDate: new Date(new Date().setDate(today.getDate() + 14)),
+        offerExpiryDate: new Date(new Date().setDate(today.getDate() + 7)),
     })
   }, [form]);
 
@@ -78,10 +79,10 @@ export function OfferLetterForm() {
       y += 40;
 
       doc.setFontSize(11).setFont('helvetica', 'bold');
-      doc.text(data.candidateName || 'Candidate Name', margin, y);
+      doc.text(data.candidateName || '[Candidate Name]', margin, y);
       y += 15;
       doc.setFont('helvetica', 'normal');
-      const address = data.candidateAddress || 'Candidate Address';
+      const address = data.candidateAddress || '[Candidate Address]';
       const addressLines = doc.splitTextToSize(address, contentWidth);
       doc.text(addressLines, margin, y);
       y += addressLines.length * 15 + 25;
@@ -106,7 +107,7 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
       doc.setFontSize(11).setFont('helvetica', 'normal');
       const lines1 = doc.splitTextToSize(bodyText1, contentWidth);
       doc.text(lines1, margin, y);
-      y += lines1.length * 15 + 15;
+      y += lines1.length * 12 + 15;
       
       const lines2 = doc.splitTextToSize(bodyText2, contentWidth);
       doc.text(lines2, margin, y);
@@ -123,8 +124,8 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
       y += 15;
       doc.text(data.companyName, margin, y);
 
-      doc.save('Offer_Letter_Template.pdf');
-      toast({ title: "Success!", description: "Offer Letter template downloaded as PDF." });
+      doc.save('Offer_Letter.pdf');
+      toast({ title: "Success!", description: "Offer Letter downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
