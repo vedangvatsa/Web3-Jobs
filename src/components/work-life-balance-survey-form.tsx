@@ -13,14 +13,21 @@ import { Download, Scale, Briefcase, ArrowRight } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 import { Slider } from './ui/slider';
+import { Separator } from './ui/separator';
 
 const wlbSurveySchema = z.object({
-  workload: z.number().min(1).max(5),
-  hours: z.number().min(1).max(5),
+  workloadManageable: z.number().min(1).max(5),
+  workWithinHours: z.number().min(1).max(5),
+  pressureToWorkLate: z.number().min(1).max(5),
   flexibility: z.number().min(1).max(5),
-  stress: z.number().min(1).max(5),
-  support: z.number().min(1).max(5),
-  improvement: z.string().optional(),
+  autonomy: z.number().min(1).max(5),
+  stressLevels: z.number().min(1).max(5),
+  managerSupport: z.number().min(1).max(5),
+  comfortableTakingTimeOff: z.number().min(1).max(5),
+  wellbeingResources: z.number().min(1).max(5),
+  improvementSuggestion: z.string().optional(),
+  negativeImpacts: z.string().optional(),
+  finalComments: z.string().optional(),
 });
 
 type WlbSurveyData = z.infer<typeof wlbSurveySchema>;
@@ -30,12 +37,18 @@ export function WorkLifeBalanceSurveyForm() {
   const form = useForm<WlbSurveyData>({
     resolver: zodResolver(wlbSurveySchema),
     defaultValues: {
-      workload: 4,
-      hours: 3,
+      workloadManageable: 4,
+      workWithinHours: 3,
+      pressureToWorkLate: 2,
       flexibility: 5,
-      stress: 2,
-      support: 4,
-      improvement: "More clearly defined project scopes would help in managing workload expectations.",
+      autonomy: 4,
+      stressLevels: 4,
+      managerSupport: 5,
+      comfortableTakingTimeOff: 5,
+      wellbeingResources: 3,
+      improvementSuggestion: "More clearly defined project scopes would help in managing workload expectations.",
+      negativeImpacts: "The expectation of being available on chat outside of standard working hours.",
+      finalComments: "I appreciate the focus on work-life balance and the flexibility offered."
     },
   });
 
@@ -58,23 +71,47 @@ export function WorkLifeBalanceSurveyForm() {
       doc.text('Work-Life Balance Survey', margin, y);
       y += 40;
 
-      const addSection = (title: string, content: string | number, isRating = false) => {
-          doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
-          doc.text(title, margin, y);
-          y += 18;
-          doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
+      const addSectionTitle = (title: string) => {
+        if (y > doc.internal.pageSize.getHeight() - 100) { doc.addPage(); y = margin; }
+        doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
+        doc.text(title, margin, y);
+        y += 25;
+      }
+      
+      const addQuestion = (title: string, content: string | number, isRating = false) => {
+          if (y > doc.internal.pageSize.getHeight() - 60) { doc.addPage(); y = margin; }
+          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
+          const titleLines = doc.splitTextToSize(title, contentWidth);
+          doc.text(titleLines, margin, y);
+          y += titleLines.length * 12 + 8;
+          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#4B5563');
           let displayContent = isRating && typeof content === 'number' ? `${content}/5 - ${ratings[content as keyof typeof ratings]}` : String(content);
+          if (!content && !isRating) displayContent = "No response provided.";
           const lines = doc.splitTextToSize(displayContent, contentWidth);
           doc.text(lines, margin, y);
-          y += lines.length * 15 + 20;
+          y += lines.length * 12 + 18;
       }
 
-      addSection("My current workload is manageable.", data.workload, true);
-      addSection("I am able to complete my work within my scheduled hours.", data.hours, true);
-      addSection("I have the flexibility I need to balance my work and personal life.", data.flexibility, true);
-      addSection("My work-related stress levels are acceptable.", data.stress, true);
-      addSection("I feel supported by my manager in maintaining a healthy work-life balance.", data.support, true);
-      if (data.improvement) addSection("What one change could improve your work-life balance?", data.improvement);
+      addSectionTitle("Workload & Hours");
+      addQuestion("My current workload is manageable.", data.workloadManageable, true);
+      addQuestion("I am able to complete my work within my scheduled working hours.", data.workWithinHours, true);
+      addQuestion("I feel pressure to work long hours or on weekends.", data.pressureToWorkLate, true);
+
+      addSectionTitle("Flexibility & Autonomy");
+      addQuestion("I have the flexibility I need to balance my work and personal life.", data.flexibility, true);
+      addQuestion("I have sufficient autonomy over how I schedule my work day.", data.autonomy, true);
+      
+      addSectionTitle("Well-being & Support");
+      addQuestion("My work-related stress levels are acceptable.", data.stressLevels, true);
+      addQuestion("I feel supported by my manager in maintaining a healthy work-life balance.", data.managerSupport, true);
+      addQuestion("I feel comfortable taking time off when I need it without feeling guilty.", data.comfortableTakingTimeOff, true);
+      addQuestion("The company provides adequate resources and support for my well-being.", data.wellbeingResources, true);
+
+      addSectionTitle("Qualitative Feedback");
+      addQuestion("What is the one thing that could be done to improve your work-life balance?", data.improvementSuggestion || "N/A");
+      addQuestion("Are there any company policies or cultural norms that negatively impact your work-life balance?", data.negativeImpacts || "N/A");
+      addQuestion("Please share any other comments or suggestions regarding work-life balance.", data.finalComments || "N/A");
+
 
       doc.save('Work-Life-Balance-Survey.pdf');
       toast({ title: "Success!", description: "Survey downloaded as PDF." });
@@ -84,6 +121,13 @@ export function WorkLifeBalanceSurveyForm() {
     }
   });
 
+  const RatingQuestion = ({ name, label, defaultValue }: { name: keyof WlbSurveyData; label: string; defaultValue: number }) => (
+    <div className="space-y-2">
+      <Label>{label} ({form.watch(name)})</Label>
+      <Slider defaultValue={[defaultValue]} max={5} min={1} step={1} onValueChange={(v) => form.setValue(name, v[0])}/>
+    </div>
+  );
+
   return (
     <div className="container mx-auto py-12">
         <Card className="max-w-4xl mx-auto">
@@ -92,32 +136,54 @@ export function WorkLifeBalanceSurveyForm() {
                   <Scale className="h-10 w-10 text-primary" />
                 </div>
                 <CardTitle className="text-3xl">Work-Life Balance Survey Builder</CardTitle>
-                <CardDescription>Generate a quick survey to assess and improve your team's work-life balance.</CardDescription>
+                <CardDescription>Generate a survey to assess and improve your team's work-life balance.</CardDescription>
             </CardHeader>
             <CardContent>
                 <form className="space-y-8">
                     <p className="text-sm text-muted-foreground text-center">Rate the following statements on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).</p>
-                    <div className="space-y-2">
-                        <Label>1. My current workload is manageable. ({form.watch('workload')})</Label>
-                        <Slider defaultValue={[4]} max={5} min={1} step={1} onValueChange={(v) => form.setValue('workload', v[0])}/>
+                    
+                    <div>
+                      <h3 className="text-lg font-semibold mb-4">Workload & Hours</h3>
+                      <div className="space-y-6">
+                        <RatingQuestion name="workloadManageable" label="1. My current workload is manageable." defaultValue={4}/>
+                        <RatingQuestion name="workWithinHours" label="2. I am able to complete my work within my scheduled hours." defaultValue={3}/>
+                        <RatingQuestion name="pressureToWorkLate" label="3. I feel pressure to work long hours or on weekends." defaultValue={2}/>
+                      </div>
                     </div>
-                    <div className="space-y-2">
-                        <Label>2. I am able to complete my work within my scheduled hours. ({form.watch('hours')})</Label>
-                        <Slider defaultValue={[3]} max={5} min={1} step={1} onValueChange={(v) => form.setValue('hours', v[0])}/>
+                    
+                    <Separator />
+
+                    <div>
+                      <h3 className="text-lg font-semibold mb-4">Flexibility & Autonomy</h3>
+                       <div className="space-y-6">
+                          <RatingQuestion name="flexibility" label="4. I have the flexibility I need to balance my work and personal life." defaultValue={5}/>
+                          <RatingQuestion name="autonomy" label="5. I have sufficient autonomy over how I schedule my work day." defaultValue={4}/>
+                       </div>
                     </div>
-                    <div className="space-y-2">
-                        <Label>3. I have the flexibility I need to balance my work and personal life. ({form.watch('flexibility')})</Label>
-                        <Slider defaultValue={[5]} max={5} min={1} step={1} onValueChange={(v) => form.setValue('flexibility', v[0])}/>
+
+                    <Separator />
+
+                    <div>
+                      <h3 className="text-lg font-semibold mb-4">Well-being & Support</h3>
+                       <div className="space-y-6">
+                        <RatingQuestion name="stressLevels" label="6. My work-related stress levels are acceptable." defaultValue={4}/>
+                        <RatingQuestion name="managerSupport" label="7. I feel supported by my manager in maintaining a healthy work-life balance." defaultValue={5}/>
+                        <RatingQuestion name="comfortableTakingTimeOff" label="8. I feel comfortable taking time off when I need it." defaultValue={5}/>
+                        <RatingQuestion name="wellbeingResources" label="9. The company provides adequate resources to support my well-being." defaultValue={3}/>
+                       </div>
                     </div>
-                    <div className="space-y-2">
-                        <Label>4. My work-related stress levels are acceptable. ({form.watch('stress')})</Label>
-                        <Slider defaultValue={[2]} max={5} min={1} step={1} onValueChange={(v) => form.setValue('stress', v[0])}/>
+                    
+                    <Separator />
+
+                     <div>
+                      <h3 className="text-lg font-semibold mb-4">Open-Ended Feedback</h3>
+                       <div className="space-y-6">
+                          <Textarea placeholder="What is the one thing that could be done to improve your work-life balance?" {...form.register('improvementSuggestion')} rows={3} />
+                          <Textarea placeholder="Are there any company policies or cultural norms that negatively impact your work-life balance?" {...form.register('negativeImpacts')} rows={3} />
+                          <Textarea placeholder="Please share any other comments or suggestions regarding work-life balance." {...form.register('finalComments')} rows={3} />
+                       </div>
                     </div>
-                    <div className="space-y-2">
-                        <Label>5. I feel supported by my manager in maintaining a healthy work-life balance. ({form.watch('support')})</Label>
-                        <Slider defaultValue={[4]} max={5} min={1} step={1} onValueChange={(v) => form.setValue('support', v[0])}/>
-                    </div>
-                    <Textarea placeholder="What is the one thing that could be done to improve your work-life balance?" {...form.register('improvement')} rows={4} />
+
                 </form>
             </CardContent>
         </Card>
@@ -143,3 +209,5 @@ export function WorkLifeBalanceSurveyForm() {
     </div>
   );
 }
+
+    
