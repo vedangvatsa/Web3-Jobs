@@ -1,5 +1,6 @@
 
 import { MetadataRoute } from 'next';
+import { interviewData } from '@/lib/interview-questions';
 
 const siteUrl = 'https://hashtagweb3.com';
 
@@ -325,6 +326,25 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.7
   }));
 
+  const interviewQuestionRoutes: MetadataRoute.Sitemap = interviewData.roles.map(role => ({
+    url: `${siteUrl}/interview-questions#${role.id}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.9,
+  }));
+  
+  interviewQuestionRoutes.push({
+    url: `${siteUrl}/interview-questions#appendix-a`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.9,
+  }, {
+    url: `${siteUrl}/interview-questions#appendix-b`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.9,
+  });
+
   const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: siteUrl,
@@ -448,5 +468,4 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   ];
 
-  return [...staticRoutes, ...articleRoutes];
-}
+  return [...staticRoutes, ...articleRoutes, ...
