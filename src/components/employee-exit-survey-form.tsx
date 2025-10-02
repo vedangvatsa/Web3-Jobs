@@ -36,10 +36,18 @@ export function EmployeeExitSurveyForm() {
   const form = useForm<SurveyData>({
     resolver: zodResolver(surveySchema),
     defaultValues: {
-        lastDay: new Date(),
+        lastDay: undefined, // Will be set on client
         recommend: 'Yes',
     },
   });
+
+  // Set dates on client side to avoid hydration errors
+  React.useEffect(() => {
+    form.reset({
+        ...form.getValues(),
+        lastDay: new Date(),
+    })
+  }, [form]);
 
   const handleDownload = form.handleSubmit((data) => {
     try {
@@ -81,6 +89,8 @@ export function EmployeeExitSurveyForm() {
     }
   });
 
+  const watchedForm = useWatch({ control: form.control });
+
   return (
     <div className="container mx-auto py-12">
         <Card className="max-w-4xl mx-auto">
@@ -98,8 +108,8 @@ export function EmployeeExitSurveyForm() {
                         <Input placeholder="Job Title" {...form.register('jobTitle')} />
                         <Input placeholder="Department" {...form.register('department')} />
                          <Popover>
-                            <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{format(form.watch('lastDay'), 'PPP')}</Button></PopoverTrigger>
-                            <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={form.watch('lastDay')} onSelect={(d) => d && form.setValue('lastDay', d)} initialFocus /></PopoverContent>
+                            <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.lastDay ? format(watchedForm.lastDay, 'PPP') : (<span>Pick a date</span>)}</Button></PopoverTrigger>
+                            <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.lastDay} onSelect={(d) => d && form.setValue('lastDay', d)} initialFocus /></PopoverContent>
                         </Popover>
                     </div>
                     <Textarea placeholder="What is your primary reason for leaving?" {...form.register('reasonForLeaving')} />

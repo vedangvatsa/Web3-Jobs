@@ -37,20 +37,28 @@ export function InterviewFeedbackForm() {
   const form = useForm<FeedbackData>({
     resolver: zodResolver(feedbackSchema),
     defaultValues: {
-        candidateName: "Satoshi Nakamoto",
-        position: "Lead Protocol Engineer",
-        interviewerName: "Your Name",
-        interviewDate: new Date().toISOString().split('T')[0],
-        technicalSkills: 5,
-        problemSolving: 5,
-        communication: 3,
-        cultureFit: 4,
-        overallRecommendation: "Strong Hire",
-        strengths: "Deep, fundamental understanding of distributed systems and cryptography. Visionary thinking.",
-        weaknesses: "Can be elusive. Communication is concise, but could be more collaborative.",
-        notes: "Candidate is clearly a 10x engineer with the potential to change the industry. We should hire immediately.",
+      candidateName: "Satoshi Nakamoto",
+      position: "Lead Protocol Engineer",
+      interviewerName: "Your Name",
+      interviewDate: undefined, // Will be set on client
+      technicalSkills: 5,
+      problemSolving: 5,
+      communication: 3,
+      cultureFit: 4,
+      overallRecommendation: "Strong Hire",
+      strengths: "Deep, fundamental understanding of distributed systems and cryptography. Visionary thinking.",
+      weaknesses: "Can be elusive. Communication is concise, but could be more collaborative.",
+      notes: "Candidate is clearly a 10x engineer with the potential to change the industry. We should hire immediately.",
     },
   });
+
+  // Set date on client side to avoid hydration errors
+  React.useEffect(() => {
+    form.reset({
+        ...form.getValues(),
+        interviewDate: new Date().toISOString().split('T')[0],
+    })
+  }, [form]);
 
   const handleDownload = form.handleSubmit((data) => {
     try {
