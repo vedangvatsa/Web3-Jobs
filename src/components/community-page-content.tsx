@@ -87,7 +87,7 @@ const companies = [
     { name: 'Gemini', src: '/logo/companies/gemini.png', alt: 'Gemini logo' },
     { name: 'Google', src: '/logo/companies/google.png', alt: 'Google logo' },
     { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png', alt: 'JP Morgan logo' },
-    { name: 'KPMG', src: '/logo/companies/kpmg.png', alt: 'KPMG logo' },
+    { name: 'KPMG', src: '/logo/companies/KPMG.png', alt: 'KPMG logo' },
     { name: 'McKinsey', src: '/logo/companies/mckinsey.png', alt: 'McKinsey logo' },
     { name: 'Microsoft', src: '/logo/companies/microsoft.png', alt: 'Microsoft logo' },
     { name: 'Polygon', src: '/logo/companies/polygon.png', alt: 'Polygon logo' },
