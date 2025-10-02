@@ -1,3 +1,4 @@
+
 'use client';
 
 import { Button } from '@/components/ui/button';
@@ -65,12 +66,9 @@ export function Header() {
                 </Link>
                 
                 <nav className="hidden lg:flex items-center gap-6 text-sm font-medium">
-                     <SheetClose asChild>
-                        <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
-                            <Briefcase className="h-5 w-5" />
-                            <span>Post a Job</span>
-                        </a>
-                     </SheetClose>
+                     <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
+                        Post a Job
+                     </a>
                      {mainNavLinks.slice(0,3).map((link) => (
                          <Link
                             key={link.label}
