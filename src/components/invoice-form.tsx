@@ -1,4 +1,3 @@
-
 'use client';
 
 import * as React from 'react';
@@ -109,7 +108,7 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
             <div className="flex justify-between items-start mb-8">
                 <div>
                     {data.logo ? (
-                         <img src={data.logo} alt="logo" className="h-16 w-auto object-contain" />
+                         <img src={data.logo} alt="Company Logo" className="h-16 w-auto object-contain" />
                     ) : (
                         <h2 className="text-2xl font-bold text-primary">{data.fromName || "Your Company"}</h2>
                     )}

@@ -1,5 +1,4 @@
 
-
 'use client';
 
 import { Header } from '@/components/header';
@@ -74,99 +73,99 @@ const stats = [
 ];
 
 const companies = [
-    { name: 'Algorand', src: '/logo/companies/algorand.png' },
-    { name: 'Animoca Brands', src: '/logo/companies/Animoca-Brands.png' },
-    { name: 'Aptos', src: '/logo/companies/aptos.png' },
-    { name: 'Ava Labs', src: '/logo/companies/ava.png' },
-    { name: 'Blackrock', src: '/logo/companies/blackrock.png' },
-    { name: 'Bloomberg', src: '/logo/companies/bloomberg.png' },
-    { name: 'Chainalysis', src: '/logo/companies/Chainalysis.png' },
-    { name: 'Circle', src: '/logo/companies/circle.png' },
-    { name: 'Citi', src: '/logo/companies/citi.png' },
-    { name: 'Consensys', src: '/logo/companies/consensys.png' },
-    { name: 'EY', src: '/logo/companies/ey.png' },
-    { name: 'Gemini', src: '/logo/companies/gemini.png' },
-    { name: 'Google', src: '/logo/companies/google.png' },
-    { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png' },
-    { name: 'KPMG', src: '/logo/companies/KPMG.png' },
-    { name: 'McKinsey', src: '/logo/companies/mckinsey.png' },
-    { name: 'Microsoft', src: '/logo/companies/microsoft.png' },
-    { name: 'Polygon', src: '/logo/companies/polygon.png' },
-    { name: 'PwC', src: '/logo/companies/pwc.png' },
-    { name: 'R3', src: '/logo/companies/r3.png' },
-    { name: 'Ripple', src: '/logo/companies/ripple.png' },
+    { name: 'Algorand', src: '/logo/companies/algorand.png', alt: 'Algorand logo' },
+    { name: 'Animoca Brands', src: '/logo/companies/Animoca-Brands.png', alt: 'Animoca Brands logo' },
+    { name: 'Aptos', src: '/logo/companies/aptos.png', alt: 'Aptos logo' },
+    { name: 'Ava Labs', src: '/logo/companies/ava.png', alt: 'Ava Labs logo' },
+    { name: 'Blackrock', src: '/logo/companies/blackrock.png', alt: 'Blackrock logo' },
+    { name: 'Bloomberg', src: '/logo/companies/bloomberg.png', alt: 'Bloomberg logo' },
+    { name: 'Chainalysis', src: '/logo/companies/Chainalysis.png', alt: 'Chainalysis logo' },
+    { name: 'Circle', src: '/logo/companies/circle.png', alt: 'Circle logo' },
+    { name: 'Citi', src: '/logo/companies/citi.png', alt: 'Citi logo' },
+    { name: 'Consensys', src: '/logo/companies/consensys.png', alt: 'Consensys logo' },
+    { name: 'EY', src: '/logo/companies/ey.png', alt: 'EY logo' },
+    { name: 'Gemini', src: '/logo/companies/gemini.png', alt: 'Gemini logo' },
+    { name: 'Google', src: '/logo/companies/google.png', alt: 'Google logo' },
+    { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png', alt: 'JP Morgan logo' },
+    { name: 'KPMG', src: '/logo/companies/KPMG.png', alt: 'KPMG logo' },
+    { name: 'McKinsey', src: '/logo/companies/mckinsey.png', alt: 'McKinsey logo' },
+    { name: 'Microsoft', src: '/logo/companies/microsoft.png', alt: 'Microsoft logo' },
+    { name: 'Polygon', src: '/logo/companies/polygon.png', alt: 'Polygon logo' },
+    { name: 'PwC', src: '/logo/companies/pwc.png', alt: 'PwC logo' },
+    { name: 'R3', src: '/logo/companies/r3.png', alt: 'R3 logo' },
+    { name: 'Ripple', src: '/logo/companies/ripple.png', alt: 'Ripple logo' },
 ];
 
 const partnersLogos = [
-    { name: 'Altlayer', src: '/logo/partners/altlayer.png'},
-    { name: 'BFF', src: '/logo/partners/bff.png'},
-    { name: 'Coinfest', src: '/logo/partners/coinfest.png'},
-    { name: 'Date', src: '/logo/partners/date.png'},
-    { name: 'EDCON', src: '/logo/partners/edcon.png'},
-    { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png'},
-    { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png'},
-    { name: 'ETHVietnam', src: '/logo/partners/ethvietnam.png'},
-    { name: 'Harvard', src: '/logo/partners/harvard.png'},
-    { name: 'IBW', src: '/logo/partners/ibw.png'},
-    { name: 'IEEE', src: '/logo/partners/ieee.png'},
-    { name: 'Istanbul', src: '/logo/partners/istanbul.png'},
-    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png'},
-    { name: 'Onepiece Labs', src: '/logo/partners/onepiece.png'},
-    { name: 'PBS', src: '/logo/partners/pbs.png'},
-    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png'},
-    { name: 'Token 2049', src: '/logo/partners/token2049.png'},
-    { name: 'WBS', src: '/logo/partners/wbs.png'},
-    { name: 'OBC', src: '/logo/partners/obc.png' },
-    { name: 'ETH Enugu', src: '/logo/partners/ethenugu.png'},
-    { name: 'FBS', src: '/logo/partners/fbs.png'},
-    { name: 'LBS', src: '/logo/partners/lbs.png'},
-    { name: 'The Metaverse Institute', src: '/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png'},
+    { name: 'Altlayer', src: '/logo/partners/altlayer.png', alt: 'Altlayer logo'},
+    { name: 'BFF', src: '/logo/partners/bff.png', alt: 'BFF logo'},
+    { name: 'Coinfest', src: '/logo/partners/coinfest.png', alt: 'Coinfest logo'},
+    { name: 'Date', src: '/logo/partners/date.png', alt: 'Date logo'},
+    { name: 'EDCON', src: '/logo/partners/edcon.png', alt: 'EDCON logo'},
+    { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png', alt: 'ETHBrussels logo'},
+    { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png', alt: 'ETH Oxford logo'},
+    { name: 'ETHVietnam', src: '/logo/partners/ethvietnam.png', alt: 'ETHVietnam logo'},
+    { name: 'Harvard', src: '/logo/partners/harvard.png', alt: 'Harvard logo'},
+    { name: 'IBW', src: '/logo/partners/ibw.png', alt: 'IBW logo'},
+    { name: 'IEEE', src: '/logo/partners/ieee.png', alt: 'IEEE logo'},
+    { name: 'Istanbul', src: '/logo/partners/istanbul.png', alt: 'Istanbul logo'},
+    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png', alt: 'Malaysia Blockchain Week logo'},
+    { name: 'Onepiece Labs', src: '/logo/partners/onepiece.png', alt: 'Onepiece Labs logo'},
+    { name: 'PBS', src: '/logo/partners/pbs.png', alt: 'PBS logo'},
+    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png', alt: 'Taipei Blockchain Week logo'},
+    { name: 'Token 2049', src: '/logo/partners/token2049.png', alt: 'Token 2049 logo'},
+    { name: 'WBS', src: '/logo/partners/wbs.png', alt: 'WBS logo'},
+    { name: 'OBC', src: '/logo/partners/obc.png', alt: 'OBC logo' },
+    { name: 'ETH Enugu', src: '/logo/partners/ethenugu.png', alt: 'ETH Enugu logo'},
+    { name: 'FBS', src: '/logo/partners/fbs.png', alt: 'FBS logo'},
+    { name: 'LBS', src: '/logo/partners/lbs.png', alt: 'LBS logo'},
+    { name: 'The Metaverse Institute', src: '/logo/partners/The-Metaverse-Institute-partners-with-Hashtag-Web3.png', alt: 'The Metaverse Institute logo'},
 ];
 
 const mediaLogos = [
-    { name: 'Business Standard', src: '/logo/media/business-standard.png' },
-    { name: 'CoinEdition', src: '/logo/media/coinedition.png' },
-    { name: 'Decrypt', src: '/logo/media/decrypt.png' },
-    { name: 'Outlook', src: '/logo/media/outlook.png' },
-    { name: 'TheStreet', src: '/logo/media/thestreet.svg' },
-    { name: 'Yahoo', src: '/logo/media/yahoo.png' },
-    { name: 'Barcelona', src: '/logo/media/barcelona.png' },
-    { name: 'British', src: '/logo/media/british.png' },
-    { name: 'England', src: '/logo/media/england.png' },
-    { name: 'Korean', src: '/logo/media/korean.png' },
+    { name: 'Business Standard', src: '/logo/media/business-standard.png', alt: 'Business Standard logo' },
+    { name: 'CoinEdition', src: '/logo/media/coinedition.png', alt: 'CoinEdition logo' },
+    { name: 'Decrypt', src: '/logo/media/decrypt.png', alt: 'Decrypt logo' },
+    { name: 'Outlook', src: '/logo/media/outlook.png', alt: 'Outlook logo' },
+    { name: 'TheStreet', src: '/logo/media/thestreet.svg', alt: 'TheStreet logo' },
+    { name: 'Yahoo', src: '/logo/media/yahoo.png', alt: 'Yahoo logo' },
+    { name: 'Barcelona', src: '/logo/media/barcelona.png', alt: 'Barcelona logo' },
+    { name: 'British', src: '/logo/media/british.png', alt: 'British logo' },
+    { name: 'England', src: '/logo/media/england.png', alt: 'England logo' },
+    { name: 'Korean', src: '/logo/media/korean.png', alt: 'Korean logo' },
 ];
 
 const hiredCompanies = [
-    { name: 'Alemx', src: '/logo/job/alemx.png' },
-    { name: 'Antier', src: '/logo/job/Antier.svg' },
-    { name: 'Binance', src: '/logo/job/binance.png' },
-    { name: 'Bitget', src: '/logo/job/bitget.png' },
-    { name: 'Circle', src: '/logo/job/circle.png' },
-    { name: 'Coinbase', src: '/logo/job/coinbase.png' },
-    { name: 'DePHY', src: '/logo/job/dephy.png' },
-    { name: 'dYdX', src: '/logo/job/dydx.png' },
-    { name: 'Funtoken', src: '/logo/job/funtoken.png' },
-    { name: 'Galxe', src: '/logo/job/galxe.png' },
-    { name: 'Glassnode', src: '/logo/job/glassnode.png' },
-    { name: 'Jaya Talent', src: '/logo/job/jayatalent.png' },
-    { name: 'KCEX', src: '/logo/job/kcex.png' },
-    { name: 'LBank', src: '/logo/job/lbank.png' },
-    { name: 'LiquidX', src: '/logo/job/liquidx.png' },
-    { name: 'Longhash', src: '/logo/job/longhash.png'},
-    { name: 'Mercuryo', src: '/logo/job/mercuryo.png' },
-    { name: 'Overmind', src: '/logo/job/overmind.png' },
-    { name: 'Peanut', src: '/logo/job/peanut.png' },
-    { name: 'Quantstamp', src: '/logo/job/quantstamp.png' },
-    { name: 'Rho', src: '/logo/job/rho.png'},
-    { name: 'Scallop', src: '/logo/job/scallop.png' },
-    { name: 'Swell Network', src: '/logo/job/swell.png' },
-    { name: 'THA', src: '/logo/job/THA.avif'},
-    { name: 'Trilitech', src: '/logo/job/trilitech.png' },
-    { name: 'Truflation', src: '/logo/job/truflation.png' },
-    { name: 'VNTR', src: '/logo/job/vn.png' },
-    { name: 'Watches.io', src: '/logo/job/watches.png' },
-    { name: 'Zeebu', src: '/logo/job/zeebu.png' },
-    { name: 'Zerion', src: '/logo/job/zerion.png' },
+    { name: 'Alemx', src: '/logo/job/alemx.png', alt: 'Alemx logo' },
+    { name: 'Antier', src: '/logo/job/Antier.svg', alt: 'Antier logo' },
+    { name: 'Binance', src: '/logo/job/binance.png', alt: 'Binance logo' },
+    { name: 'Bitget', src: '/logo/job/bitget.png', alt: 'Bitget logo' },
+    { name: 'Circle', src: '/logo/job/circle.png', alt: 'Circle logo' },
+    { name: 'Coinbase', src: '/logo/job/coinbase.png', alt: 'Coinbase logo' },
+    { name: 'DePHY', src: '/logo/job/dephy.png', alt: 'DePHY logo' },
+    { name: 'dYdX', src: '/logo/job/dydx.png', alt: 'dYdX logo' },
+    { name: 'Funtoken', src: '/logo/job/funtoken.png', alt: 'Funtoken logo' },
+    { name: 'Galxe', src: '/logo/job/galxe.png', alt: 'Galxe logo' },
+    { name: 'Glassnode', src: '/logo/job/glassnode.png', alt: 'Glassnode logo' },
+    { name: 'Jaya Talent', src: '/logo/job/jayatalent.png', alt: 'Jaya Talent logo' },
+    { name: 'KCEX', src: '/logo/job/kcex.png', alt: 'KCEX logo' },
+    { name: 'LBank', src: '/logo/job/lbank.png', alt: 'LBank logo' },
+    { name: 'LiquidX', src: '/logo/job/liquidx.png', alt: 'LiquidX logo' },
+    { name: 'Longhash', src: '/logo/job/longhash.png', alt: 'Longhash logo'},
+    { name: 'Mercuryo', src: '/logo/job/mercuryo.png', alt: 'Mercuryo logo' },
+    { name: 'Overmind', src: '/logo/job/overmind.png', alt: 'Overmind logo' },
+    { name: 'Peanut', src: '/logo/job/peanut.png', alt: 'Peanut logo' },
+    { name: 'Quantstamp', src: '/logo/job/quantstamp.png', alt: 'Quantstamp logo' },
+    { name: 'Rho', src: '/logo/job/rho.png', alt: 'Rho logo'},
+    { name: 'Scallop', src: '/logo/job/scallop.png', alt: 'Scallop logo' },
+    { name: 'Swell Network', src: '/logo/job/swell.png', alt: 'Swell Network logo' },
+    { name: 'THA', src: '/logo/job/THA.avif', alt: 'THA logo'},
+    { name: 'Trilitech', src: '/logo/job/trilitech.png', alt: 'Trilitech logo' },
+    { name: 'Truflation', src: '/logo/job/truflation.png', alt: 'Truflation logo' },
+    { name: 'VNTR', src: '/logo/job/vn.png', alt: 'VNTR logo' },
+    { name: 'Watches.io', src: '/logo/job/watches.png', alt: 'Watches.io logo' },
+    { name: 'Zeebu', src: '/logo/job/zeebu.png', alt: 'Zeebu logo' },
+    { name: 'Zerion', src: '/logo/job/zerion.png', alt: 'Zerion logo' },
 ]
 
 const channels = [
@@ -292,7 +291,7 @@ export function CommunityPageContent({
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 gap-x-8 gap-y-6 items-center justify-center">
                     {companies.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`Logo of ${logo.name}, a Hashtag Web3 network company`} fill className="object-contain" unoptimized/>
+                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
@@ -378,15 +377,15 @@ export function CommunityPageContent({
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Community Moments</h2>
             <p className="text-center text-muted-foreground mb-8">Highlights from events, partnerships, and community activities.</p>
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            <div className="columns-2 md:columns-3 lg:columns-4 gap-4 space-y-4">
               {communityPhotos.map((photo, index) => (
-                <div key={index} className="group relative aspect-square overflow-hidden rounded-lg">
+                <div key={index} className="overflow-hidden rounded-lg break-inside-avoid">
                   <Image
                     src={photo.src}
                     alt={photo.alt}
-                    fill
-                    className="object-cover transition-transform duration-300 group-hover:scale-105"
-                    sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 25vw"
+                    width={400}
+                    height={400}
+                    className="object-cover w-full h-auto"
                     unoptimized
                   />
                 </div>
@@ -419,7 +418,7 @@ export function CommunityPageContent({
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`Logo of ${logo.name}, a Hashtag Web3 partner`} fill className="object-contain" unoptimized />
+                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized />
                         </div>
                     ))}
                 </div>
@@ -445,7 +444,7 @@ export function CommunityPageContent({
                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-10 gap-y-8 items-center justify-center">
                     {hiredCompanies.map((logo) => (
                         <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={`Logo of ${logo.name}, a company hiring on Hashtag Web3`} fill className="object-contain" unoptimized/>
+                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized/>
                         </div>
                     ))}
                 </div>
@@ -477,33 +476,53 @@ export function CommunityPageContent({
                 </a>
              </div>
           </section>
-
         </div>
+        
         <div className="py-16 bg-secondary/40 mt-16">
             <div className="container mx-auto px-4">
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                     <div className="lg:col-span-3">
+                     <div className="lg:col-span-2">
                          <section>
                             <div className="flex justify-between items-center mb-6">
-                                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
+                                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
                                 <Button variant="ghost" asChild>
-                                <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                                <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
                                 </Button>
                             </div>
-                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                                {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                {latestJobs.slice(0, 6).map(job => <JobCard key={job.id} job={job} />)}
                             </div>
                         </section>
                     </div>
+                    <div>
+                      <section>
+                        <div className="flex justify-between items-center mb-6">
+                          <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> Latest News</h2>
+                           <Button variant="ghost" asChild>
+                            <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                          </Button>
+                        </div>
+                        <div className="space-y-4">
+                            {latestNews.slice(0, 5).map(item => <NewsCard key={item.link} item={item} />)}
+                        </div>
+                      </section>
+                    </div>
+                </div>
+                <div className="mt-16">
+                    <section>
+                        <div className="flex justify-between items-center mb-6">
+                            <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
+                            <Button variant="ghost" asChild>
+                            <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                            </Button>
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                            {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
+                        </div>
+                    </section>
                 </div>
             </div>
         </div>
       </>
   );
 }
-
-    
-
-  
-
-
