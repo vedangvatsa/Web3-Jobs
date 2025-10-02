@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, BarChart, Smile, Scale } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -35,17 +35,21 @@ export function Header() {
         { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
         { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
+        { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
     ];
 
     const employerLinks = [
         { href: "/jd-builder", label: "JD Builder", icon: ClipboardEdit },
-        { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/offer-letter-customizer", label: "Offer Letter Customizer", icon: FileSignature },
-        { href: "/employee-exit-survey", label: "Employee Exit Survey", icon: UserMinus },
-        { href: "/interview-feedback-template", label: "Interview Feedback", icon: Mic },
         { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks },
+        { href: "/interview-feedback-template", label: "Interview Feedback", icon: Mic },
+        { href: "/employee-exit-survey", label: "Employee Exit Survey", icon: UserMinus },
+        { href: "/tools/employee-milestones-tracker", label: "Milestones Tracker", icon: Milestone },
+        { href: "/tools/employee-engagement-survey", label: "Engagement Survey", icon: Smile },
+        { href: "/tools/work-life-balance-survey", label: "Work-Life Balance Survey", icon: Scale },
+        { href: "/tools/company-culture-guide", label: "Company Culture Guide", icon: Users },
     ];
 
     const socialLinks = [
