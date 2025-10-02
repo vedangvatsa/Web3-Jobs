@@ -119,7 +119,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               height={630}
               className="rounded-lg shadow-xl mb-8"
               priority
-              data-ai-hint={`${article.slug.replace(/-/g, ' ')}`}
+              data-ai-hint={`${article['data-ai-hint'] || ''}`}
             />
             <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
               <ArticleContent content={article.content} />

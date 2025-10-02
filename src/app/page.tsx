@@ -3,7 +3,7 @@ import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
 import { getNewsFeed } from '@/lib/news';
-import type { Article, NewsItem } from '@/types';
+import type { Article, NewsItem, Job } from '@/types';
 import type { WebPage } from 'schema-dts';
 import { CommunityPageContent } from '@/components/community-page-content';
 
