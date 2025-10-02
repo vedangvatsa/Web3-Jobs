@@ -1,4 +1,3 @@
-
 'use client';
 
 import * as React from 'react';
@@ -39,9 +38,9 @@ export function EmployeeEngagementSurveyForm() {
       recognition: 6,
       feedback: 7,
       growth: 8,
-      proudOf: "Launching our latest feature on time and seeing the positive community reaction.",
-      improvement: "Cross-team communication on major project dependencies could be more streamlined.",
-      finalThoughts: "Overall, I'm really happy with the team's direction and the challenges we're working on.",
+      proudOf: "",
+      improvement: "",
+      finalThoughts: "",
     },
   });
 
@@ -56,28 +55,51 @@ export function EmployeeEngagementSurveyForm() {
       doc.text('Employee Engagement Pulse Survey', margin, y);
       y += 40;
 
-      const addSection = (title: string, content: string | number) => {
-          doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
-          doc.text(title, margin, y);
-          y += 18;
-          doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
-          const lines = doc.splitTextToSize(String(content), contentWidth);
-          doc.text(lines, margin, y);
-          y += lines.length * 15 + 20;
+      const addRatingQuestion = (title: string) => {
+        doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
+        const titleLines = doc.splitTextToSize(title, contentWidth);
+        doc.text(titleLines, margin, y);
+        y += titleLines.length * 12 + 8;
+        
+        doc.setFontSize(10).setFont('helvetica', 'normal');
+        let radioX = margin;
+        for (let i = 1; i <= 10; i++) {
+          doc.circle(radioX, y, 5);
+          doc.text(String(i), radioX - 2, y + 15);
+          radioX += 30;
+        }
+        y += 35;
+      }
+      
+      const addOpenEndedQuestion = (title: string, lines: number) => {
+         doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
+         const titleLines = doc.splitTextToSize(title, contentWidth);
+         doc.text(titleLines, margin, y);
+         y += titleLines.length * 12 + 15;
+         doc.setDrawColor(229, 231, 235);
+         for(let i=0; i<lines; i++){
+            doc.line(margin, y, contentWidth + margin, y);
+            y += 20;
+         }
+         y += 10;
       }
 
-      addSection("On a scale of 1-10, how satisfied are you with your role?", `${data.satisfaction}/10`);
-      addSection("On a scale of 1-10, how likely are you to recommend working here to a friend?", `${data.recommend}/10`);
-      addSection("On a scale of 1-10, how well do you feel your work aligns with the company's goals?", `${data.alignment}/10`);
-      addSection("On a scale of 1-10, how well do you feel recognized for your contributions?", `${data.recognition}/10`);
-      addSection("On a scale of 1-10, how satisfied are you with the feedback you receive?", `${data.feedback}/10`);
-      addSection("On a scale of 1-10, how satisfied are you with your opportunities for growth?", `${data.growth}/10`);
-      if (data.proudOf) addSection("What is something you're proud of from the last quarter?", data.proudOf);
-      if (data.improvement) addSection("What is one thing that could be improved?", data.improvement);
-      if (data.finalThoughts) addSection("Any final thoughts or comments?", data.finalThoughts);
+      addRatingQuestion("On a scale of 1-10, how satisfied are you with your role?");
+      addRatingQuestion("On a scale of 1-10, how likely are you to recommend working here to a friend?");
+      addRatingQuestion("On a scale of 1-10, how well do you feel your work aligns with the company's goals?");
+      addRatingQuestion("On a scale of 1-10, how well do you feel recognized for your contributions?");
+      addRatingQuestion("On a scale of 1-10, how satisfied are you with the feedback you receive?");
+      addRatingQuestion("On a scale of 1-10, how satisfied are you with your opportunities for growth?");
+      
+      doc.addPage();
+      y = margin;
 
-      doc.save('Employee_Engagement_Survey.pdf');
-      toast({ title: "Success!", description: "Survey downloaded as PDF." });
+      addOpenEndedQuestion("What is something you're proud of from the last quarter?", 3);
+      addOpenEndedQuestion("What is one thing that could be improved?", 3);
+      addOpenEndedQuestion("Any final thoughts or comments?", 4);
+
+      doc.save('Employee_Engagement_Survey_Template.pdf');
+      toast({ title: "Success!", description: "Survey template downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
@@ -135,7 +157,7 @@ export function EmployeeEngagementSurveyForm() {
                     <Briefcase className="h-8 w-8 text-primary"/>
                 </div>
                 <div>
-                    <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3
+                    <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3>
                     <p className="text-muted-foreground">Find candidates who are passionate and engaged by posting on the #1 Web3 job board.</p>
                 </div>
                 <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
@@ -148,4 +170,3 @@ export function EmployeeEngagementSurveyForm() {
     </div>
   );
 }
-
