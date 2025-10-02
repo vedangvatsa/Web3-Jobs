@@ -145,6 +145,16 @@ export function Header() {
                                     <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" />
                                 </Link>
                             </div>
+                             <div className="p-4 border-b">
+                                <div className="flex items-center justify-center gap-6">
+                                     {socialLinks.map((link) => (
+                                        <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
+                                            <link.icon size={24} />
+                                            <span className="sr-only">{link.label}</span>
+                                        </a>
+                                    ))}
+                                </div>
+                             </div>
                             <nav className="flex-grow flex flex-col p-4 overflow-y-auto">
                                 <div className="flex-grow space-y-2">
                                 {mainNavLinks.map((link) => (
@@ -162,7 +172,7 @@ export function Header() {
                                 ))}
                                  <Accordion type="single" collapsible className="w-full">
                                     <AccordionItem value="resources" className="border-b-0">
-                                        <AccordionTrigger className="p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground no-underline [&[data-state=open]>svg]:rotate-180">
+                                        <AccordionTrigger className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground no-underline [&[data-state=open]>svg]:rotate-180">
                                             <div className="flex items-center gap-4">
                                                 <Users className="h-5 w-5" />
                                                 <span>Resources</span>
@@ -194,25 +204,14 @@ export function Header() {
                                         </AccordionContent>
                                     </AccordionItem>
                                 </Accordion>
+                                 <SheetClose asChild>
+                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
+                                        <Briefcase className="h-5 w-5" />
+                                        <span>Post a Job</span>
+                                    </a>
+                                 </SheetClose>
                                 </div>
-                                <div className="mt-4 px-3">
-                                    <SheetClose asChild>
-                                        <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
-                                            <Button className="w-full text-base h-11">Post a Job</Button>
-                                        </a>
-                                    </SheetClose>
-                                 </div>
                             </nav>
-                             <div className="mt-auto p-6 border-t space-y-4">
-                                <div className="flex items-center justify-center gap-6 pt-2">
-                                     {socialLinks.map((link) => (
-                                        <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
-                                            <link.icon size={24} />
-                                            <span className="sr-only">{link.label}</span>
-                                        </a>
-                                    ))}
-                                </div>
-                             </div>
                         </SheetContent>
                     </Sheet>
                 </div>
