@@ -20,6 +20,7 @@ import {
 import { Download, Trash2, Plus, Briefcase, Target, CheckSquare, Sparkles, Bot, ArrowRight, ClipboardEdit } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { motion, AnimatePresence } from 'framer-motion';
+import jsPDF from 'jspdf';
 
 const jobDescriptionSchema = z.object({
   jobTitle: z.string().min(1, 'Job title is required'),
@@ -122,34 +123,87 @@ export function JDBuilderForm() {
 
   const handleDownload = form.handleSubmit((data) => {
     try {
-        let content = ``;
-        content += `# ${data.jobTitle}\n\n`;
-        content += `**${data.companyName}** | ${data.location} | ${data.jobType}\n`;
-        if (data.salaryRange) content += `**Salary:** ${data.salaryRange}\n`;
-        
-        content += `\n## About ${data.companyName}\n${data.aboutCompany}\n`;
-        content += `\n## About the Role\n${data.aboutRole}\n`;
-        
-        content += `\n## Responsibilities\n`;
-        data.responsibilities.forEach(r => content += `- ${r.value}\n`);
-        
-        content += `\n## Qualifications\n`;
-        data.qualifications.forEach(q => content += `- ${q.value}\n`);
+        const doc = new jsPDF('p', 'pt', 'a4');
+        const margin = 40;
+        const docWidth = doc.internal.pageSize.getWidth();
+        const contentWidth = docWidth - margin * 2;
+        let y = margin;
 
-        if (data.preferredQualifications && data.preferredQualifications.some(q => q.value)) {
-            content += `\n## Preferred Qualifications\n`;
-            data.preferredQualifications.forEach(q => { if(q.value) content += `- ${q.value}\n` });
+        const addSection = (title: string, items: { value?: string }[]) => {
+            if (items.some(item => item.value)) {
+                y += 10;
+                doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor(29, 40, 58);
+                doc.text(title, margin, y, { maxWidth: contentWidth });
+                y += 6;
+                doc.setDrawColor(229, 231, 235);
+                doc.line(margin, y, docWidth - margin, y);
+                y += 15;
+                doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor(55, 65, 81);
+                items.forEach(item => {
+                    if (item.value) {
+                        const lines = doc.splitTextToSize(`• ${item.value}`, contentWidth - 10);
+                        if (y + (lines.length * 12) > doc.internal.pageSize.getHeight() - margin) {
+                            doc.addPage();
+                            y = margin;
+                        }
+                        doc.text(lines, margin + 10, y);
+                        y += (lines.length * 12) + 4;
+                    }
+                });
+                y += 10;
+            }
+        };
+
+        // Title
+        doc.setFontSize(22).setFont('helvetica', 'bold').setTextColor(29, 40, 58);
+        const titleLines = doc.splitTextToSize(data.jobTitle, contentWidth);
+        doc.text(titleLines, margin, y);
+        y += titleLines.length * 22;
+
+        // Sub-header
+        doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor(75, 85, 99);
+        const subHeader = `${data.companyName} | ${data.location} | ${data.jobType}`;
+        doc.text(subHeader, margin, y);
+        y += 15;
+        if(data.salaryRange) {
+            doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor(75, 85, 99);
+            doc.text(`Salary: ${data.salaryRange}`, margin, y);
+            y += 15;
         }
-
-        const blob = new Blob([content], { type: 'text/markdown;charset=utf-8' });
-        const link = document.createElement('a');
-        link.href = URL.createObjectURL(blob);
-        link.download = `${data.jobTitle.replace(/ /g, '-')}-JD.md`;
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
+        y += 15;
         
-        toast({ title: "Success!", description: "Job description downloaded as Markdown." });
+        // About Company
+        doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor(29, 40, 58);
+        doc.text(`About ${data.companyName}`, margin, y);
+        y += 6;
+        doc.setDrawColor(229, 231, 235);
+        doc.line(margin, y, docWidth - margin, y);
+        y += 15;
+        doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor(55, 65, 81);
+        const aboutCompanyLines = doc.splitTextToSize(data.aboutCompany, contentWidth);
+        doc.text(aboutCompanyLines, margin, y);
+        y += aboutCompanyLines.length * 12 + 10;
+        
+        // About Role
+        doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor(29, 40, 58);
+        doc.text('About the Role', margin, y);
+        y += 6;
+        doc.setDrawColor(229, 231, 235);
+        doc.line(margin, y, docWidth - margin, y);
+        y += 15;
+        doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor(55, 65, 81);
+        const aboutRoleLines = doc.splitTextToSize(data.aboutRole, contentWidth);
+        doc.text(aboutRoleLines, margin, y);
+        y += aboutRoleLines.length * 12 + 10;
+        
+        // Sections
+        addSection('Responsibilities', data.responsibilities);
+        addSection('Qualifications', data.qualifications);
+        addSection('Preferred Qualifications', data.preferredQualifications);
+
+        doc.save(`${data.jobTitle.replace(/ /g, '-')}-JD.pdf`);
+        
+        toast({ title: "Success!", description: "Job description downloaded as PDF." });
     } catch (error) {
         console.error(error);
         toast({ variant: 'destructive', title: "Error", description: "Failed to generate file." });
@@ -178,7 +232,7 @@ export function JDBuilderForm() {
         <h1 className="text-3xl font-bold">Web3 Job Description Builder</h1>
         <p className="opacity-80 mt-1">Attract top talent with a perfectly crafted job description.</p>
         <Button size="lg" className="mt-4 bg-white text-primary hover:bg-white/90" onClick={handleDownload}>
-          <Download className="mr-2 h-4 w-4" /> Download as Markdown
+          <Download className="mr-2 h-4 w-4" /> Download as PDF
         </Button>
       </div>
 
