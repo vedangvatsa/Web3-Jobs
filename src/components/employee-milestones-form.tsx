@@ -16,14 +16,20 @@ import { Popover, PopoverContent, PopoverTrigger } from './ui/popover';
 import { Calendar } from './ui/calendar';
 import { format } from 'date-fns';
 
+const milestonePeriodSchema = z.object({
+  focus: z.string().min(1),
+  goals: z.string().min(1),
+  metrics: z.string().min(1),
+});
+
 const milestonesSchema = z.object({
   employeeName: z.string().min(1),
   role: z.string().min(1),
   manager: z.string().min(1),
   startDate: z.date(),
-  goals30: z.string().min(1),
-  goals60: z.string().min(1),
-  goals90: z.string().min(1),
+  period30: milestonePeriodSchema,
+  period60: milestonePeriodSchema,
+  period90: milestonePeriodSchema,
 });
 
 type MilestonesData = z.infer<typeof milestonesSchema>;
@@ -37,9 +43,21 @@ export function EmployeeMilestonesForm() {
       role: "",
       manager: "",
       startDate: new Date(),
-      goals30: "• Complete onboarding and security training.\n• Successfully ship first small feature.\n• Understand the core protocol architecture.",
-      goals60: "• Take ownership of a medium-sized feature.\n• Make a significant contribution to a core part of the codebase.\n• Present a feature demo to the team.",
-      goals90: "• Independently lead the design and implementation of a new feature.\n• Actively participate in governance discussions.\n• Mentor one junior engineer.",
+      period30: {
+        focus: "Learning & Immersion",
+        goals: "• Complete all company onboarding modules.\n• Meet with key team members across 3 departments.\n• Understand the core protocol architecture and value proposition.\n• Ship first small, non-critical pull request.",
+        metrics: "• Onboarding checklist 100% complete.\n• PR merged."
+      },
+      period60: {
+        focus: "Contribution & Execution",
+        goals: "• Take ownership of a medium-sized feature.\n• Contribute to product planning for the next sprint.\n• Write one piece of internal documentation.",
+        metrics: "• Feature shipped to staging.\n• Documentation page published in Notion."
+      },
+      period90: {
+        focus: "Ownership & Initiative",
+        goals: "• Independently lead the design and implementation of a new feature.\n• Propose a process improvement for the team.\n• Mentor one new team member or community contributor.",
+        metrics: "• Feature successfully launched to production.\n• Process improvement adopted by the team."
+      },
     },
   });
   
@@ -55,48 +73,62 @@ export function EmployeeMilestonesForm() {
     try {
       const doc = new jsPDF('p', 'pt', 'a4');
       const margin = 50;
-      let y = margin;
-      
       const contentWidth = doc.internal.pageSize.getWidth() - margin * 2;
+      let y = margin;
 
       doc.setFontSize(22).setFont('helvetica', 'bold').setTextColor('#111827');
       doc.text('30-60-90 Day Plan', margin, y);
       y += 30;
       
-      const addShortField = (label: string) => {
+      const addShortField = (label: string, value: string) => {
           doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
           doc.text(label, margin, y);
-          doc.setDrawColor(209, 213, 219);
-          doc.line(margin + doc.getTextWidth(label) + 10, y, contentWidth + margin, y);
-          y += 25;
+          doc.setFont('helvetica', 'bold');
+          doc.text(value, margin + doc.getTextWidth(label) + 5, y);
+          y += 20;
       }
 
-      addShortField('Employee:');
-      addShortField('Role:');
-      addShortField('Manager:');
-      addShortField('Start Date:');
+      addShortField('Employee:', data.employeeName || '____________________');
+      addShortField('Role:', data.role || '____________________');
+      addShortField('Manager:', data.manager || '____________________');
+      addShortField('Start Date:', data.startDate ? format(data.startDate, 'PPP') : '____________________');
       y += 15;
 
-
-      const addSection = (title: string, lines: number = 5) => {
-          doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
+      const addSection = (title: string, focus: string, goals: string, metrics: string) => {
+          if (y > doc.internal.pageSize.getHeight() - 150) { doc.addPage(); y = margin; }
+          doc.setFontSize(16).setFont('helvetica', 'bold').setTextColor(41, 106, 187);
           doc.text(title, margin, y);
           y += 25;
-          doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
-          doc.setDrawColor(229, 231, 235);
-          for(let i=0; i<lines; i++){
-              doc.line(margin, y, contentWidth + margin, y);
-              y += 20;
-          }
-          y += 15;
+          
+          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#111827');
+          doc.text('Focus Area:', margin, y);
+          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
+          const focusLines = doc.splitTextToSize(focus, contentWidth);
+          doc.text(focusLines, margin, y += 15);
+          y += focusLines.length * 12 + 10;
+
+          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#111827');
+          doc.text('Key Goals:', margin, y);
+          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
+          const goalsLines = doc.splitTextToSize(goals, contentWidth);
+          doc.text(goalsLines, margin, y += 15);
+          y += goalsLines.length * 12 + 10;
+
+          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#111827');
+          doc.text('Success Metrics:', margin, y);
+          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
+          const metricsLines = doc.splitTextToSize(metrics, contentWidth);
+          doc.text(metricsLines, margin, y += 15);
+          y += metricsLines.length * 12 + 25;
       }
       
-      addSection('First 30 Days: Learning & Foundational Contributions');
-      addSection('Days 31-60: Increased Ownership & Impact');
-      addSection('Days 61-90: Leadership & Autonomy');
+      addSection('First 30 Days', data.period30.focus, data.period30.goals, data.period30.metrics);
+      addSection('Days 31-60', data.period60.focus, data.period60.goals, data.period60.metrics);
+      addSection('Days 61-90', data.period90.focus, data.period90.goals, data.period90.metrics);
 
-      doc.save('30-60-90-Day-Plan-Template.pdf');
-      toast({ title: "Success!", description: "Milestones plan template downloaded as PDF." });
+
+      doc.save('30-60-90-Day-Plan.pdf');
+      toast({ title: "Success!", description: "Milestones plan downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
@@ -104,6 +136,28 @@ export function EmployeeMilestonesForm() {
   });
 
   const watchedForm = useWatch({ control: form.control });
+
+  const MilestonePeriodForm = ({ period, title }: { period: 'period30' | 'period60' | 'period90', title: string}) => (
+      <Card>
+          <CardHeader>
+              <CardTitle className="text-xl">{title}</CardTitle>
+          </CardHeader>
+          <CardContent className="space-y-4">
+              <div className="space-y-2">
+                  <Label>Focus Area</Label>
+                  <Input placeholder="e.g. Learning & Immersion" {...form.register(`${period}.focus`)} />
+              </div>
+              <div className="space-y-2">
+                  <Label>Key Goals</Label>
+                  <Textarea placeholder="• Bulleted list of primary objectives..." {...form.register(`${period}.goals`)} rows={5} />
+              </div>
+              <div className="space-y-2">
+                  <Label>Success Metrics</Label>
+                  <Textarea placeholder="• How will success for the above goals be measured?" {...form.register(`${period}.metrics`)} rows={3} />
+              </div>
+          </CardContent>
+      </Card>
+  );
 
   return (
     <div className="container mx-auto py-12">
@@ -117,18 +171,24 @@ export function EmployeeMilestonesForm() {
             </CardHeader>
             <CardContent>
                 <form className="space-y-6">
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <Input placeholder="Employee Name" {...form.register('employeeName')} />
-                        <Input placeholder="Role" {...form.register('role')} />
-                        <Input placeholder="Manager's Name" {...form.register('manager')} />
-                        <Popover>
-                            <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.startDate ? format(watchedForm.startDate, 'PPP') : <span>Pick a start date</span>}</Button></PopoverTrigger>
-                            <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.startDate} onSelect={(d) => d && form.setValue('startDate', d)} initialFocus /></PopoverContent>
-                        </Popover>
-                    </div>
-                    <Textarea placeholder="Goals for the first 30 days..." {...form.register('goals30')} rows={5} />
-                    <Textarea placeholder="Goals for days 31-60..." {...form.register('goals60')} rows={5} />
-                    <Textarea placeholder="Goals for days 61-90..." {...form.register('goals90')} rows={5} />
+                    <Card>
+                        <CardHeader>
+                            <CardTitle>Basic Information</CardTitle>
+                        </CardHeader>
+                        <CardContent className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <Input placeholder="Employee Name" {...form.register('employeeName')} />
+                            <Input placeholder="Role" {...form.register('role')} />
+                            <Input placeholder="Manager's Name" {...form.register('manager')} />
+                            <Popover>
+                                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.startDate ? format(watchedForm.startDate, 'PPP') : <span>Pick a start date</span>}</Button></PopoverTrigger>
+                                <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.startDate} onSelect={(d) => d && form.setValue('startDate', d)} initialFocus /></PopoverContent>
+                            </Popover>
+                        </CardContent>
+                    </Card>
+                    
+                    <MilestonePeriodForm period="period30" title="First 30 Days" />
+                    <MilestonePeriodForm period="period60" title="Days 31-60" />
+                    <MilestonePeriodForm period="period90" title="Days 61-90" />
                 </form>
             </CardContent>
         </Card>
