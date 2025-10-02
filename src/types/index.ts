@@ -1,5 +1,4 @@
 
-
 export interface Job {
   id: string;
   title: string;
@@ -31,8 +30,8 @@ export interface DigitalNomadVisa {
   country: string;
   continent: 'Europe' | 'Asia' | 'North America' | 'South America' | 'Africa' | 'Oceania';
   minIncome: number; // Monthly income in USD
+  visaLength?: string; // Add optional visaLength
   description: string;
-  visaLength: string;
   requirements: string[];
 }
 
@@ -45,7 +44,7 @@ export interface QuizQuestion {
   };
   weights: {
     a: { [key: string]: number };
-    b: { [key: string]: number };
+    b: { [key:string]: number };
   };
 }
 
@@ -91,4 +90,17 @@ export interface ResumeData {
   }[];
   web3Skills: string;
   generalSkills: string;
+}
+
+export interface JobDescriptionData {
+    jobTitle: string;
+    companyName: string;
+    location: string;
+    jobType: string;
+    salaryRange?: string;
+    aboutCompany: string;
+    aboutRole: string;
+    responsibilities: { value: string }[];
+    qualifications: { value: string }[];
+    preferredQualifications?: { value?: string }[];
 }

@@ -236,7 +236,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "web3-jobs-in-nigeria",
     "web3-jobs-in-port-louis",
     "web3-jobs-in-pretoria",
-c"web3-jobs-in-pune",
+    "web3-jobs-in-pune",
     "web3-jobs-in-rabat",
     "web3-jobs-in-tripoli",
     "web3-jobs-in-tunis",
@@ -341,6 +341,12 @@ c"web3-jobs-in-pune",
         priority: 0.7,
     },
     {
+        url: `${siteUrl}/jd-builder`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.7,
+    },
+    {
       url: `${siteUrl}/digital-nomad-visas`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
@@ -363,6 +369,12 @@ c"web3-jobs-in-pune",
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
+    },
+    {
+      url: `${siteUrl}/employee-onboarding-checklist`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
     }
   ];
 
