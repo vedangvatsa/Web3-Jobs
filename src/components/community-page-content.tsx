@@ -1,5 +1,4 @@
 
-
 'use client';
 
 import { Header } from '@/components/header';
@@ -15,6 +14,8 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter }
 import Image from 'next/image';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { MediaCarousel } from './media-carousel';
+import { useState, useEffect } from 'react';
+import { Skeleton } from '@/components/ui/skeleton';
 
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
@@ -41,13 +42,23 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
 }
 
 function NewsCard({ item }: { item: NewsItem }) {
+    const [formattedDate, setFormattedDate] = useState('');
+
+    useEffect(() => {
+        setFormattedDate(new Date(item.pubDate).toLocaleDateString());
+    }, [item.pubDate]);
+
     return (
         <Card className="bg-secondary/50 border-0">
             <CardContent className="p-4">
                 <a href={item.link} target="_blank" rel="noopener noreferrer" className="block hover:bg-accent/20 rounded-md p-3">
                     <p className="text-xs text-primary font-semibold">{item.source}</p>
                     <h4 className="font-semibold leading-snug text-foreground">{item.title}</h4>
-                    <p className="text-xs text-muted-foreground mt-1">{new Date(item.pubDate).toLocaleDateString()}</p>
+                    {formattedDate ? (
+                        <p className="text-xs text-muted-foreground mt-1">{formattedDate}</p>
+                    ) : (
+                        <Skeleton className="h-4 w-20 mt-1" />
+                    )}
                 </a>
             </CardContent>
         </Card>
@@ -76,7 +87,7 @@ const companies = [
     { name: 'Gemini', src: '/logo/companies/gemini.png' },
     { name: 'Google', src: '/logo/companies/google.png' },
     { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png' },
-    { name: 'KPMG', src: '/logo/companies/KPMG.png' },
+    { name: 'KPMG', src: '/logo/companies/kpmg.png' },
     { name: 'McKinsey', src: '/logo/companies/mckinsey.png' },
     { name: 'Microsoft', src: '/logo/companies/microsoft.png' },
     { name: 'Polygon', src: '/logo/companies/polygon.png' },
@@ -487,8 +498,3 @@ export function CommunityPageContent({
 }
 
     
-
-  
-
-
-
