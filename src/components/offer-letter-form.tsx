@@ -38,22 +38,33 @@ export function OfferLetterForm() {
   const { toast } = useToast();
   const form = useForm<OfferLetterData>({
     resolver: zodResolver(offerLetterSchema),
+    // Set initial dates to null to avoid server/client mismatch
     defaultValues: {
       companyName: "Your Web3 Company",
       companyAddress: "123 Blockchain Ave, Decentraland",
       candidateName: "Jane Doe",
       candidateAddress: "456 Crypto Street, Ether City",
-      date: new Date(),
+      date: undefined, // Will be set on client
       jobTitle: "Senior Solidity Developer",
-      startDate: new Date(new Date().setDate(new Date().getDate() + 14)),
+      startDate: undefined, // Will be set on client
       salary: "$150,000 USD per year + 0.1% token allocation",
       vestingDetails: "Tokens vest over 4 years with a 1-year cliff.",
       reportingTo: "Head of Engineering",
-      offerExpiryDate: new Date(new Date().setDate(new Date().getDate() + 7)),
+      offerExpiryDate: undefined, // Will be set on client
       senderName: "John Smith",
       senderTitle: "CEO",
     },
   });
+
+  // Set dates on client side to avoid hydration errors
+  React.useEffect(() => {
+    form.reset({
+        ...form.getValues(),
+        date: new Date(),
+        startDate: new Date(new Date().setDate(new Date().getDate() + 14)),
+        offerExpiryDate: new Date(new Date().setDate(new Date().getDate() + 7)),
+    })
+  }, [form]);
 
   const watchedForm = useWatch({ control: form.control });
 
@@ -158,22 +169,22 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
                              <div className="space-y-1">
                                 <Label>Offer Date</Label>
                                 <Popover>
-                                    <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{format(form.watch('date'), 'PPP')}</Button></PopoverTrigger>
-                                    <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={form.watch('date')} onSelect={(d) => d && form.setValue('date', d)} initialFocus /></PopoverContent>
+                                    <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.date ? format(watchedForm.date, 'PPP') : <span>Pick a date</span>}</Button></PopoverTrigger>
+                                    <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.date} onSelect={(d) => d && form.setValue('date', d)} initialFocus /></PopoverContent>
                                 </Popover>
                             </div>
                             <div className="space-y-1">
                                 <Label>Start Date</Label>
                                 <Popover>
-                                    <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{format(form.watch('startDate'), 'PPP')}</Button></PopoverTrigger>
-                                    <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={form.watch('startDate')} onSelect={(d) => d && form.setValue('startDate', d)} /></PopoverContent>
+                                    <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.startDate ? format(watchedForm.startDate, 'PPP') : <span>Pick a date</span>}</Button></PopoverTrigger>
+                                    <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.startDate} onSelect={(d) => d && form.setValue('startDate', d)} /></PopoverContent>
                                 </Popover>
                             </div>
                             <div className="space-y-1">
                                 <Label>Offer Expiry Date</Label>
                                 <Popover>
-                                    <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{format(form.watch('offerExpiryDate'), 'PPP')}</Button></PopoverTrigger>
-                                    <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={form.watch('offerExpiryDate')} onSelect={(d) => d && form.setValue('offerExpiryDate', d)} /></PopoverContent>
+                                    <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.offerExpiryDate ? format(watchedForm.offerExpiryDate, 'PPP') : <span>Pick a date</span>}</Button></PopoverTrigger>
+                                    <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.offerExpiryDate} onSelect={(d) => d && form.setValue('offerExpiryDate', d)} /></PopoverContent>
                                 </Popover>
                             </div>
                         </CardContent>
