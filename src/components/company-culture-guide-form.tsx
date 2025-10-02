@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent, CardDescription } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
-import { Download, Users, Plus, Trash2, ArrowRight, Briefcase } from 'lucide-react';
+import { Download, Users, Plus, Trash2, ArrowRight, Briefcase, MessageSquare, CheckCircle, Target, Zap, Settings } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 
@@ -18,6 +18,11 @@ const cultureGuideSchema = z.object({
   vision: z.string().min(1, "Vision is required"),
   values: z.array(z.object({ name: z.string().min(1), description: z.string().min(1) })).min(1),
   communication: z.string().min(1, "Communication style is required"),
+  decisionMaking: z.string().optional(),
+  feedbackCulture: z.string().optional(),
+  hiringPhilosophy: z.string().optional(),
+  meetingPhilosophy: z.string().optional(),
+  tools: z.string().optional(),
   rituals: z.string().min(1, "Team rituals are required"),
 });
 
@@ -37,6 +42,11 @@ export function CompanyCultureGuideForm() {
         { name: 'Community-First', description: 'We build with and for our community. Their success is our success.' },
       ],
       communication: 'We are an async-first team. We prioritize clear, written communication in Notion and Discord over meetings. Meetings are for high-bandwidth discussions, not status updates.',
+      decisionMaking: 'Decisions are made through a consensus-seeking process, with major protocol changes ratified by a community vote.',
+      feedbackCulture: 'We practice radical candor and provide continuous, constructive feedback. We have bi-weekly 1-on-1s and quarterly performance reviews.',
+      hiringPhilosophy: 'We hire for passion, initiative, and a "proof of work" portfolio over traditional credentials. We value T-shaped individuals with deep expertise and broad curiosity.',
+      meetingPhilosophy: 'Meetings are rare, have a clear agenda, a designated facilitator, and always end with clear action items. Cameras are on to foster connection.',
+      tools: 'Our core stack: Discord for communication, Notion for documentation, Figma for design, GitHub for code, and Asana for project management.',
       rituals: 'Weekly all-hands call on Mondays. Bi-weekly sprint demos. Quarterly in-person team offsites.',
     },
   });
@@ -57,7 +67,8 @@ export function CompanyCultureGuideForm() {
       doc.text(`${data.companyName} Culture Guide`, margin, y);
       y += 40;
 
-      const addSection = (title: string, text: string) => {
+      const addSection = (title: string, text: string | undefined) => {
+        if (!text) return;
         if (y > doc.internal.pageSize.getHeight() - 100) { doc.addPage(); y = margin; }
         doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
         doc.text(title, margin, y);
@@ -88,6 +99,11 @@ export function CompanyCultureGuideForm() {
       y+= 10;
 
       addSection('How We Communicate', data.communication);
+      addSection('How We Make Decisions', data.decisionMaking);
+      addSection('How We Give Feedback', data.feedbackCulture);
+      addSection('Our Hiring Philosophy', data.hiringPhilosophy);
+      addSection('Our Meeting Philosophy', data.meetingPhilosophy);
+      addSection('Tools We Use', data.tools);
       addSection('Our Team Rituals', data.rituals);
       
       doc.save(`${data.companyName.replace(/ /g, '-')}-Culture-Guide.pdf`);
@@ -97,6 +113,17 @@ export function CompanyCultureGuideForm() {
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
     }
   });
+
+  const SectionCard = ({ title, icon: Icon, children }: { title: string, icon: React.ElementType, children: React.ReactNode }) => (
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2"><Icon className="text-primary"/> {title}</CardTitle>
+        </CardHeader>
+        <CardContent className="space-y-4">
+          {children}
+        </CardContent>
+      </Card>
+  )
 
   return (
     <div className="container mx-auto py-12">
@@ -111,25 +138,35 @@ export function CompanyCultureGuideForm() {
             <CardContent>
                 <form className="space-y-6">
                     <Input placeholder="Company Name" {...form.register('companyName')} />
-                    <Textarea placeholder="Company Mission" {...form.register('mission')} rows={3}/>
-                    <Textarea placeholder="Company Vision" {...form.register('vision')} rows={3}/>
                     
-                    <Card>
-                        <CardHeader><CardTitle className="text-lg">Core Values</CardTitle></CardHeader>
-                        <CardContent className="space-y-4">
-                            {fields.map((field, index) => (
-                                <div key={field.id} className="p-4 border rounded-lg space-y-2 relative">
-                                    <Input placeholder="Value Name (e.g., Transparency)" {...form.register(`values.${index}.name`)} />
-                                    <Textarea placeholder="Value Description" {...form.register(`values.${index}.description`)} />
-                                     <Button variant="ghost" size="icon" className="absolute top-1 right-1" onClick={() => remove(index)}><Trash2 className="h-4 w-4 text-destructive"/></Button>
-                                </div>
-                            ))}
-                            <Button type="button" variant="outline" onClick={() => append({ name: '', description: '' })}><Plus className="mr-2 h-4 w-4"/> Add Value</Button>
-                        </CardContent>
-                    </Card>
+                    <SectionCard title="Mission & Vision" icon={Target}>
+                      <Textarea placeholder="Company Mission" {...form.register('mission')} rows={3}/>
+                      <Textarea placeholder="Company Vision" {...form.register('vision')} rows={3}/>
+                    </SectionCard>
+                    
+                    <SectionCard title="Core Values" icon={CheckCircle}>
+                        {fields.map((field, index) => (
+                            <div key={field.id} className="p-4 border rounded-lg space-y-2 relative bg-secondary/30">
+                                <Input placeholder="Value Name (e.g., Transparency)" {...form.register(`values.${index}.name`)} />
+                                <Textarea placeholder="Value Description" {...form.register(`values.${index}.description`)} />
+                                  <Button variant="ghost" size="icon" className="absolute top-1 right-1" onClick={() => remove(index)}><Trash2 className="h-4 w-4 text-destructive"/></Button>
+                            </div>
+                        ))}
+                        <Button type="button" variant="outline" onClick={() => append({ name: '', description: '' })}><Plus className="mr-2 h-4 w-4"/> Add Value</Button>
+                    </SectionCard>
+                    
+                    <SectionCard title="Ways of Working" icon={Zap}>
+                       <Textarea placeholder="Describe your communication style (e.g., async-first, tools used)..." {...form.register('communication')} rows={4} />
+                       <Textarea placeholder="How are decisions made? (e.g. consensus-driven, top-down)..." {...form.register('decisionMaking')} rows={4} />
+                       <Textarea placeholder="How do you handle feedback? (e.g. radical candor, 360 reviews)..." {...form.register('feedbackCulture')} rows={4} />
+                       <Textarea placeholder="Describe your philosophy on meetings..." {...form.register('meetingPhilosophy')} rows={4} />
+                       <Textarea placeholder="Describe your team rituals (e.g., daily stand-ups, weekly all-hands)..." {...form.register('rituals')} rows={4} />
+                    </SectionCard>
 
-                    <Textarea placeholder="Describe your communication style (e.g., async-first, tools used)..." {...form.register('communication')} rows={4} />
-                    <Textarea placeholder="Describe your team rituals (e.g., daily stand-ups, weekly all-hands)..." {...form.register('rituals')} rows={4} />
+                    <SectionCard title="People & Tools" icon={Settings}>
+                      <Textarea placeholder="What do you look for in new team members?" {...form.register('hiringPhilosophy')} rows={4} />
+                      <Textarea placeholder="What are the main tools you use? (e.g. Slack, Notion, Figma)..." {...form.register('tools')} rows={4} />
+                    </SectionCard>
                 </form>
             </CardContent>
         </Card>
