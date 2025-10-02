@@ -92,7 +92,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "how-to-build-a-public-on-chain-developer-brand",
     "how-to-build-a-simple-amm-on-an-l2",
     "how-to-build-a-strong-web3-portfolio",
-    "how-to-build-a-web3-resume-that-stands-out",
     "how-to-choose-a-crypto-wallet",
     "how-to-contribute-to-daos-and-get-paid",
     "how-to-get-a-job-in-defi-with-no-experience",
@@ -156,7 +155,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "the-role-of-web3-business-development-professionals",
     "the-role-of-web3-developer-advocates-in-community-building",
     "the-role-of-web3-technical-writers-in-blockchain-projects",
-    "the-web3-talent-migration",
     "tokenomics-for-compensation",
     "top-10-web3-developer-skills",
     "top-10-web3-jobs",
@@ -468,4 +466,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   ];
 
-  return [...staticRoutes, ...articleRoutes, ...
+  return [...staticRoutes, ...articleRoutes, ...interviewQuestionRoutes];
+}
