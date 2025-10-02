@@ -140,13 +140,8 @@ export function Header() {
                             </Button>
                         </SheetTrigger>
                         <SheetContent side="right" className="w-[300px] flex flex-col bg-card p-0">
-                           <div className="p-6 flex items-center justify-between border-b">
-                                <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
-                                    <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" />
-                                </Link>
-                            </div>
-                             <div className="p-4 border-b">
-                                <div className="flex items-center justify-center gap-6">
+                           <div className="p-4 flex items-center justify-start border-b">
+                                <div className="flex items-center gap-6">
                                      {socialLinks.map((link) => (
                                         <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
                                             <link.icon size={24} />
@@ -216,6 +211,6 @@ export function Header() {
                     </Sheet>
                 </div>
             </div>
-      </header>
-    );
+        </header>
+    )
 }
