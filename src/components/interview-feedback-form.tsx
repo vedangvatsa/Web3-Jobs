@@ -13,6 +13,7 @@ import { Download, Mic, User, Briefcase, ArrowRight, Rss } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 import { Slider } from './ui/slider';
+import { RadioGroup, RadioGroupItem } from './ui/radio-group';
 
 const feedbackSchema = z.object({
   candidateName: z.string().min(1),
