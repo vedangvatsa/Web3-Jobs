@@ -250,6 +250,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "web3-jobs-in-nairobi",
     "web3-jobs-in-new-york",
     "web3-jobs-in-nigeria",
+    "web3-jobs-in-philippines",
     "web3-jobs-in-port-louis",
     "web3-jobs-in-pretoria",
     "web3-jobs-in-pune",
@@ -399,6 +400,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
     {
       url: `${siteUrl}/employee-onboarding-checklist`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+     {
+      url: `${siteUrl}/offer-letter-customizer`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: `${siteUrl}/employee-exit-survey`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: `${siteUrl}/interview-feedback-template`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,

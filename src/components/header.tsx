@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -17,6 +17,8 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
+  DropdownMenuLabel,
+  DropdownMenuSeparator,
 } from "@/components/ui/dropdown-menu"
 
 export function Header() {
@@ -28,15 +30,21 @@ export function Header() {
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
 
-    const resourcesLinks = [
+    const jobSeekerLinks = [
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
         { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
-        { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
-        { href: "/jd-builder", label: "JD Builder", icon: ClipboardEdit },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
+    ];
+
+    const employerLinks = [
+        { href: "/jd-builder", label: "JD Builder", icon: ClipboardEdit },
+        { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
+        { href: "/offer-letter-customizer", label: "Offer Letter Customizer", icon: FileSignature },
+        { href: "/employee-exit-survey", label: "Employee Exit Survey", icon: UserMinus },
+        { href: "/interview-feedback-template", label: "Interview Feedback", icon: Mic },
         { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks },
     ];
 
@@ -70,8 +78,20 @@ export function Header() {
                         <DropdownMenuTrigger className="flex items-center gap-1 text-muted-foreground transition-colors hover:text-foreground text-sm font-medium focus:outline-none">
                             Resources <ChevronDown className="h-4 w-4" />
                         </DropdownMenuTrigger>
-                        <DropdownMenuContent>
-                            {resourcesLinks.map(link => (
+                        <DropdownMenuContent className="w-64">
+                             <DropdownMenuLabel>For Job Seekers</DropdownMenuLabel>
+                             <DropdownMenuSeparator />
+                            {jobSeekerLinks.map(link => (
+                                <DropdownMenuItem key={link.label} asChild>
+                                    <Link href={link.href} className="flex items-center gap-2">
+                                        <link.icon className="h-4 w-4 text-muted-foreground" />
+                                        {link.label}
+                                    </Link>
+                                </DropdownMenuItem>
+                            ))}
+                            <DropdownMenuLabel className="pt-2">For Employers</DropdownMenuLabel>
+                             <DropdownMenuSeparator />
+                            {employerLinks.map(link => (
                                 <DropdownMenuItem key={link.label} asChild>
                                     <Link href={link.href} className="flex items-center gap-2">
                                         <link.icon className="h-4 w-4 text-muted-foreground" />
@@ -142,9 +162,21 @@ export function Header() {
                                              <Users className="h-5 w-5" />
                                             <span>Resources</span>
                                         </AccordionTrigger>
-                                        <AccordionContent className="pl-8">
+                                        <AccordionContent className="pl-4">
+                                            <h4 className="px-2 py-1.5 text-sm font-semibold">For Job Seekers</h4>
                                             <div className="flex flex-col space-y-1 mt-1">
-                                                {resourcesLinks.map(link => (
+                                                {jobSeekerLinks.map(link => (
+                                                    <SheetClose key={link.label} asChild>
+                                                        <Link href={link.href} className="flex items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
+                                                            <link.icon className="h-4 w-4" />
+                                                            {link.label}
+                                                        </Link>
+                                                    </SheetClose>
+                                                ))}
+                                            </div>
+                                             <h4 className="px-2 py-1.5 mt-2 text-sm font-semibold">For Employers</h4>
+                                            <div className="flex flex-col space-y-1 mt-1">
+                                                {employerLinks.map(link => (
                                                     <SheetClose key={link.label} asChild>
                                                         <Link href={link.href} className="flex items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
                                                             <link.icon className="h-4 w-4" />
