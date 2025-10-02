@@ -1,4 +1,5 @@
 
+
 'use client';
 
 import { Header } from '@/components/header';
@@ -87,7 +88,7 @@ const companies = [
     { name: 'Gemini', src: '/logo/companies/gemini.png' },
     { name: 'Google', src: '/logo/companies/google.png' },
     { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png' },
-    { name: 'KPMG', src: '/logo/companies/kpmg.png' },
+    { name: 'KPMG', src: '/logo/companies/KPMG.png' },
     { name: 'McKinsey', src: '/logo/companies/mckinsey.png' },
     { name: 'Microsoft', src: '/logo/companies/microsoft.png' },
     { name: 'Polygon', src: '/logo/companies/polygon.png' },
@@ -159,6 +160,7 @@ const hiredCompanies = [
     { name: 'Rho', src: '/logo/job/rho.png'},
     { name: 'Scallop', src: '/logo/job/scallop.png' },
     { name: 'Swell Network', src: '/logo/job/swell.png' },
+    { name: 'THA', src: '/logo/job/THA.avif'},
     { name: 'Trilitech', src: '/logo/job/trilitech.png' },
     { name: 'Truflation', src: '/logo/job/truflation.png' },
     { name: 'VNTR', src: '/logo/job/vn.png' },
@@ -499,3 +501,9 @@ export function CommunityPageContent({
       </>
   );
 }
+
+    
+
+  
+
+
