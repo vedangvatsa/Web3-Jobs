@@ -30,7 +30,7 @@ export function Header() {
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
 
-    const jobSeekerLinks = [
+    const employeeLinks = [
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
         { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
@@ -83,9 +83,9 @@ export function Header() {
                             Resources <ChevronDown className="h-4 w-4" />
                         </DropdownMenuTrigger>
                         <DropdownMenuContent className="w-64">
-                             <DropdownMenuLabel>For Job Seekers</DropdownMenuLabel>
+                             <DropdownMenuLabel>For Employees</DropdownMenuLabel>
                              <DropdownMenuSeparator />
-                            {jobSeekerLinks.map(link => (
+                            {employeeLinks.map(link => (
                                 <DropdownMenuItem key={link.label} asChild>
                                     <Link href={link.href} className="flex items-center gap-2">
                                         <link.icon className="h-4 w-4 text-muted-foreground" />
@@ -167,9 +167,9 @@ export function Header() {
                                             <span>Resources</span>
                                         </AccordionTrigger>
                                         <AccordionContent className="pl-4">
-                                            <h4 className="px-2 py-1.5 text-sm font-semibold">For Job Seekers</h4>
+                                            <h4 className="px-2 py-1.5 text-sm font-semibold">For Employees</h4>
                                             <div className="flex flex-col space-y-1 mt-1">
-                                                {jobSeekerLinks.map(link => (
+                                                {employeeLinks.map(link => (
                                                     <SheetClose key={link.label} asChild>
                                                         <Link href={link.href} className="flex items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
                                                             <link.icon className="h-4 w-4" />
