@@ -65,7 +65,7 @@ export function Header() {
                     <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" priority />
                 </Link>
                 
-                <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
+                <nav className="hidden lg:flex items-center gap-6 text-sm font-medium">
                      {mainNavLinks.slice(0,3).map((link) => (
                          <Link
                             key={link.label}
@@ -131,7 +131,7 @@ export function Header() {
                     </a>
                 </nav>
 
-                <div className="md:hidden">
+                <div className="lg:hidden">
                     <Sheet>
                         <SheetTrigger asChild>
                             <Button variant="ghost" size="icon">
