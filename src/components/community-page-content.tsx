@@ -87,7 +87,7 @@ const companies = [
     { name: 'Gemini', src: '/logo/companies/gemini.png' },
     { name: 'Google', src: '/logo/companies/google.png' },
     { name: 'JP Morgan', src: '/logo/companies/JP_Morgan.png' },
-    { name: 'KPMG', src: '/logo/companies/KPMG.png' },
+    { name: 'KPMG', src: '/logo/companies/kpmg.png' },
     { name: 'McKinsey', src: '/logo/companies/mckinsey.png' },
     { name: 'Microsoft', src: '/logo/companies/microsoft.png' },
     { name: 'Polygon', src: '/logo/companies/polygon.png' },
@@ -137,6 +137,7 @@ const mediaLogos = [
 
 const hiredCompanies = [
     { name: 'Alemx', src: '/logo/job/alemx.png' },
+    { name: 'Antier', src: '/logo/job/Antier.svg' },
     { name: 'Binance', src: '/logo/job/binance.png' },
     { name: 'Bitget', src: '/logo/job/bitget.png' },
     { name: 'Circle', src: '/logo/job/circle.png' },
@@ -498,5 +499,3 @@ export function CommunityPageContent({
       </>
   );
 }
-
-    
