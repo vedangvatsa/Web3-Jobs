@@ -1,8 +1,9 @@
+
 'use client';
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -33,6 +34,7 @@ export function Header() {
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
         { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
+        { href: "/jd-builder", label: "JD Builder", icon: ClipboardEdit },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
         { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks },
