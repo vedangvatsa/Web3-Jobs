@@ -480,34 +480,6 @@ export function CommunityPageContent({
         
         <div className="py-16 bg-secondary/40 mt-16">
             <div className="container mx-auto px-4">
-                <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                     <div className="lg:col-span-2">
-                         <section>
-                            <div className="flex justify-between items-center mb-6">
-                                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase /> Latest Jobs</h2>
-                                <Button variant="ghost" asChild>
-                                <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                                </Button>
-                            </div>
-                            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                                {latestJobs.slice(0, 6).map(job => <JobCard key={job.id} job={job} />)}
-                            </div>
-                        </section>
-                    </div>
-                    <div>
-                      <section>
-                        <div className="flex justify-between items-center mb-6">
-                          <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> Latest News</h2>
-                           <Button variant="ghost" asChild>
-                            <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                          </Button>
-                        </div>
-                        <div className="space-y-4">
-                            {latestNews.slice(0, 5).map(item => <NewsCard key={item.link} item={item} />)}
-                        </div>
-                      </section>
-                    </div>
-                </div>
                 <div className="mt-16">
                     <section>
                         <div className="flex justify-between items-center mb-6">
