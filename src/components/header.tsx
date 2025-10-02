@@ -1,4 +1,3 @@
-
 'use client';
 
 import { Button } from '@/components/ui/button';
@@ -36,6 +35,7 @@ export function Header() {
         { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
         { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
+        { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks },
     ];
 
     const socialLinks = [
