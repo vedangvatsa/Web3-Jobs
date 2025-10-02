@@ -66,9 +66,6 @@ export function Header() {
                 </Link>
                 
                 <nav className="hidden lg:flex items-center gap-6 text-sm font-medium">
-                     <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground">
-                        Post a Job
-                     </a>
                      {mainNavLinks.slice(0,3).map((link) => (
                          <Link
                             key={link.label}
