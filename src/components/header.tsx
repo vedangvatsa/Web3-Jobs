@@ -162,9 +162,11 @@ export function Header() {
                                 ))}
                                  <Accordion type="single" collapsible className="w-full">
                                     <AccordionItem value="resources" className="border-b-0">
-                                        <AccordionTrigger className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground no-underline [&[data-state=open]>svg]:rotate-180">
-                                            <Users className="h-5 w-5" />
-                                            <span>Resources</span>
+                                        <AccordionTrigger className="p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground no-underline [&[data-state=open]>svg]:rotate-180">
+                                            <div className="flex items-center gap-4">
+                                                <Users className="h-5 w-5" />
+                                                <span>Resources</span>
+                                            </div>
                                         </AccordionTrigger>
                                         <AccordionContent className="pl-4">
                                             <h4 className="px-2 py-1.5 text-sm font-semibold">For Employees</h4>
@@ -194,9 +196,11 @@ export function Header() {
                                 </Accordion>
                                 </div>
                                 <div className="mt-4 px-3">
-                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
-                                        <Button className="w-full text-base h-11">Post a Job</Button>
-                                    </a>
+                                    <SheetClose asChild>
+                                        <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
+                                            <Button className="w-full text-base h-11">Post a Job</Button>
+                                        </a>
+                                    </SheetClose>
                                  </div>
                             </nav>
                              <div className="mt-auto p-6 border-t space-y-4">
