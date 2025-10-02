@@ -152,6 +152,12 @@ export function Header() {
                              </div>
                             <nav className="flex-grow flex flex-col p-4 overflow-y-auto">
                                 <div className="flex-grow space-y-2">
+                                 <SheetClose asChild>
+                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
+                                        <Briefcase className="h-5 w-5" />
+                                        <span>Post a Job</span>
+                                    </a>
+                                 </SheetClose>
                                 {mainNavLinks.map((link) => (
                                     <SheetClose key={link.label} asChild>
                                          <Link
@@ -199,12 +205,6 @@ export function Header() {
                                         </AccordionContent>
                                     </AccordionItem>
                                 </Accordion>
-                                 <SheetClose asChild>
-                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
-                                        <Briefcase className="h-5 w-5" />
-                                        <span>Post a Job</span>
-                                    </a>
-                                 </SheetClose>
                                 </div>
                             </nav>
                         </SheetContent>
