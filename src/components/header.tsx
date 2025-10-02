@@ -162,8 +162,8 @@ export function Header() {
                                 ))}
                                  <Accordion type="single" collapsible className="w-full">
                                     <AccordionItem value="resources" className="border-b-0">
-                                        <AccordionTrigger className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground no-underline">
-                                             <Users className="h-5 w-5" />
+                                        <AccordionTrigger className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground no-underline [&[data-state=open]>svg]:rotate-180">
+                                            <Users className="h-5 w-5" />
                                             <span>Resources</span>
                                         </AccordionTrigger>
                                         <AccordionContent className="pl-4">
@@ -193,11 +193,13 @@ export function Header() {
                                     </AccordionItem>
                                 </Accordion>
                                 </div>
+                                <div className="mt-4 px-3">
+                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
+                                        <Button className="w-full text-base h-11">Post a Job</Button>
+                                    </a>
+                                 </div>
                             </nav>
                              <div className="mt-auto p-6 border-t space-y-4">
-                                <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="w-full">
-                                    <Button className="w-full text-base h-12">Post a Job</Button>
-                                </a>
                                 <div className="flex items-center justify-center gap-6 pt-2">
                                      {socialLinks.map((link) => (
                                         <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
@@ -212,5 +214,5 @@ export function Header() {
                 </div>
             </div>
       </header>
-    )
+    );
 }
