@@ -1,4 +1,5 @@
 
+
 'use client';
 
 import { Header } from '@/components/header';
@@ -154,6 +155,7 @@ const hiredCompanies = [
     { name: 'Overmind', src: '/logo/job/overmind.png' },
     { name: 'Peanut', src: '/logo/job/peanut.png' },
     { name: 'Quantstamp', src: '/logo/job/quantstamp.png' },
+    { name: 'Rho', src: '/logo/job/rho.png' },
     { name: 'Scallop', src: '/logo/job/scallop.png' },
     { name: 'Swell Network', src: '/logo/job/swell.png' },
     { name: 'Trilitech', src: '/logo/job/trilitech.png' },
@@ -496,3 +498,9 @@ export function CommunityPageContent({
       </>
   );
 }
+
+    
+
+  
+
+
