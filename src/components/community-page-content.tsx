@@ -1,5 +1,4 @@
 
-
 'use client';
 
 import { Header } from '@/components/header';
@@ -151,11 +150,12 @@ const hiredCompanies = [
     { name: 'KCEX', src: '/logo/job/kcex.png' },
     { name: 'LBank', src: '/logo/job/lbank.png' },
     { name: 'LiquidX', src: '/logo/job/liquidx.png' },
+    { name: 'Longhash', src: '/logo/job/longhash.png'},
     { name: 'Mercuryo', src: '/logo/job/mercuryo.png' },
     { name: 'Overmind', src: '/logo/job/overmind.png' },
     { name: 'Peanut', src: '/logo/job/peanut.png' },
     { name: 'Quantstamp', src: '/logo/job/quantstamp.png' },
-    { name: 'Rho', src: '/logo/job/rho.png' },
+    { name: 'Rho', src: '/logo/job/rho.png'},
     { name: 'Scallop', src: '/logo/job/scallop.png' },
     { name: 'Swell Network', src: '/logo/job/swell.png' },
     { name: 'Trilitech', src: '/logo/job/trilitech.png' },
@@ -500,7 +500,3 @@ export function CommunityPageContent({
 }
 
     
-
-  
-
-
