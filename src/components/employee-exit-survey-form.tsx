@@ -1,7 +1,7 @@
 'use client';
 
 import * as React from 'react';
-import { useForm, useFieldArray } from 'react-hook-form';
+import { useForm, useWatch } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { z } from 'zod';
 import { Button } from '@/components/ui/button';
@@ -9,7 +9,7 @@ import { Card, CardHeader, CardTitle, CardContent, CardDescription } from '@/com
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
-import { Download, ListChecks, UserMinus, Briefcase, ArrowRight, Rss } from 'lucide-react';
+import { Download, UserMinus, Briefcase, ArrowRight, Rss } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 import { RadioGroup, RadioGroupItem } from './ui/radio-group';
@@ -74,7 +74,7 @@ export function EmployeeExitSurveyForm() {
       addSection('Employee Name:', data.employeeName);
       addSection('Job Title:', data.jobTitle);
       addSection('Department:', data.department);
-      addSection('Last Day of Employment:', format(data.lastDay, 'PPP'));
+      addSection('Last Day of Employment:', data.lastDay ? format(data.lastDay, 'PPP') : 'N/A');
       addSection('Primary reason for leaving:', data.reasonForLeaving);
       addSection('What did you like most about working here?', data.likes);
       addSection('What did you like least about working here?', data.dislikes);
@@ -149,3 +149,4 @@ export function EmployeeExitSurveyForm() {
     </div>
   );
 }
+    
