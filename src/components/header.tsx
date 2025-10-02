@@ -140,7 +140,7 @@ export function Header() {
                             </Button>
                         </SheetTrigger>
                         <SheetContent side="right" className="w-[300px] flex flex-col bg-card p-0">
-                           <div className="p-4 flex items-center justify-start border-b">
+                           <div className="p-4 flex items-center justify-center border-b bg-secondary/50">
                                 <div className="flex items-center gap-6">
                                      {socialLinks.map((link) => (
                                         <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
@@ -212,5 +212,5 @@ export function Header() {
                 </div>
             </div>
         </header>
-    )
+    );
 }
