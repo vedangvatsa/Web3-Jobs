@@ -40,15 +40,15 @@ export function InterviewFeedbackForm() {
       candidateName: "",
       position: "",
       interviewerName: "",
-      interviewDate: new Date().toISOString().split('T')[0],
+      interviewDate: "",
       technicalSkills: 3,
       problemSolving: 3,
       communication: 3,
       cultureFit: 3,
       overallRecommendation: "Hire",
-      strengths: "",
-      weaknesses: "",
-      notes: "",
+      strengths: "• Strong grasp of Solidity fundamentals.\n• Excellent written communication skills.",
+      weaknesses: "• Lacks deep experience in DeFi security.\n• Could be more proactive in leading discussions.",
+      notes: "Candidate showed great passion for the space and a strong desire to learn.",
     },
   });
 
@@ -84,21 +84,28 @@ export function InterviewFeedbackForm() {
       addShortField('Interview Date:');
       y+= 15;
       
-      const addRatingQuestion = (title: string) => {
+      const addRatingQuestion = (title: string, subtext: string) => {
+        if (y > doc.internal.pageSize.getHeight() - 70) { doc.addPage(); y = margin; }
         doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
         doc.text(title, margin, y);
-        y += 18;
+        y += 14;
+        doc.setFontSize(9).setFont('helvetica', 'italic').setTextColor('#6b7280');
+        const subtextLines = doc.splitTextToSize(subtext, contentWidth);
+        doc.text(subtextLines, margin, y);
+        y += subtextLines.length * 10 + 8;
+        
         doc.setFontSize(10).setFont('helvetica', 'normal');
         let radioX = margin;
         for (let i = 1; i <= 5; i++) {
           doc.circle(radioX, y, 6);
           doc.text(String(i), radioX - 2, y + 18);
-          radioX += 40;
+          radioX += 60;
         }
         y += 35;
       }
 
       const addOpenEndedQuestion = (title: string, lines: number) => {
+         if (y > doc.internal.pageSize.getHeight() - (lines * 20 + 40)) { doc.addPage(); y = margin; }
          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
          doc.text(title, margin, y);
          y += 20;
@@ -112,28 +119,30 @@ export function InterviewFeedbackForm() {
       
       doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
       doc.text('Candidate Ratings', margin, y); y+=20;
-      addRatingQuestion('Technical Skills');
-      addRatingQuestion('Problem-Solving');
-      addRatingQuestion('Communication');
-      addRatingQuestion('Culture Fit / Alignment');
-      y+=10;
-
+      doc.setFontSize(9).setTextColor('#6b7280').text('1 = Poor, 3 = Average, 5 = Excellent', margin, y); y+=25;
+      
+      addRatingQuestion('Technical Skills', 'How would you rate the candidate\'s technical proficiency for this role?');
+      addRatingQuestion('Problem-Solving Ability', 'Assess the candidate\'s ability to analyze problems and formulate solutions.');
+      addRatingQuestion('Communication Skills', 'Evaluate clarity of thought, listening skills, and articulation.');
+      addRatingQuestion('Culture Fit / Alignment', 'Does the candidate align with the company\'s values, mission, and work style?');
+      
       doc.addPage();
       y = margin;
 
-      addOpenEndedQuestion('Candidate\'s key strengths:', 5);
-      addOpenEndedQuestion('Candidate\'s areas for improvement:', 5);
-      addOpenEndedQuestion('Additional Notes:', 4);
+      addOpenEndedQuestion('Key Strengths: (List 2-3 specific strengths with examples)', 5);
+      addOpenEndedQuestion('Key Weaknesses/Areas for Growth: (List 1-2 specific areas with examples)', 5);
+      addOpenEndedQuestion('Additional Notes: (Any other observations or comments)', 4);
       
       doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
       doc.text('Overall Recommendation:', margin, y);
-      y += 20;
+      y += 25;
       doc.setFontSize(10).setFont('helvetica', 'normal');
-      doc.rect(margin, y-8, 12, 12); doc.text('Strong Hire', margin + 20, y);
-      doc.rect(margin + 120, y-8, 12, 12); doc.text('Hire', margin + 140, y);
-      doc.rect(margin + 220, y-8, 12, 12); doc.text('No Hire', margin + 240, y);
-      doc.rect(margin + 320, y-8, 12, 12); doc.text('Strong No Hire', margin + 340, y);
-      y += 30;
+      let checkboxX = margin;
+      const options = ["Strong Hire", "Hire", "No Hire", "Strong No Hire"];
+      options.forEach(option => {
+          doc.rect(checkboxX, y-8, 12, 12); doc.text(option, checkboxX + 20, y);
+          checkboxX += 120;
+      });
 
       doc.save('Interview_Feedback_Template.pdf');
       toast({ title: "Success!", description: "Feedback form template downloaded as PDF." });
@@ -162,7 +171,9 @@ export function InterviewFeedbackForm() {
                         <Input type="date" {...form.register('interviewDate')} />
                     </div>
                      <Card>
-                        <CardHeader><CardTitle className="text-lg">Ratings (1-5)</CardTitle></CardHeader>
+                        <CardHeader>
+                          <CardTitle className="text-lg">Ratings (1 = Poor, 5 = Excellent)</CardTitle>
+                        </CardHeader>
                         <CardContent className="space-y-6 pt-4">
                             <div className="space-y-2">
                                 <Label>Technical Skills: {form.watch('technicalSkills')}</Label>
