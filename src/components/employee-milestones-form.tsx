@@ -1,8 +1,7 @@
-
 'use client';
 
 import * as React from 'react';
-import { useForm } from 'react-hook-form';
+import { useForm, useWatch } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { z } from 'zod';
 import { Button } from '@/components/ui/button';
@@ -34,9 +33,9 @@ export function EmployeeMilestonesForm() {
   const form = useForm<MilestonesData>({
     resolver: zodResolver(milestonesSchema),
     defaultValues: {
-      employeeName: "Satoshi Nakamoto",
-      role: "Protocol Engineer",
-      manager: "John Smith",
+      employeeName: "",
+      role: "",
+      manager: "",
       startDate: new Date(),
       goals30: "• Complete onboarding and security training.\n• Successfully ship first small feature.\n• Understand the core protocol architecture.",
       goals60: "• Take ownership of a medium-sized feature.\n• Make a significant contribution to a core part of the codebase.\n• Present a feature demo to the team.",
@@ -64,32 +63,40 @@ export function EmployeeMilestonesForm() {
       doc.text('30-60-90 Day Plan', margin, y);
       y += 30;
       
-      doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
-      doc.text(`Employee: ${data.employeeName}`, margin, y);
-      y += 15;
-      doc.text(`Role: ${data.role}`, margin, y);
-      y += 15;
-      doc.text(`Manager: ${data.manager}`, margin, y);
-      y += 15;
-      doc.text(`Start Date: ${format(data.startDate, 'MMMM d, yyyy')}`, margin, y);
-      y += 30;
+      const addShortField = (label: string) => {
+          doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
+          doc.text(label, margin, y);
+          doc.setDrawColor(209, 213, 219);
+          doc.line(margin + doc.getTextWidth(label) + 10, y, contentWidth + margin, y);
+          y += 25;
+      }
 
-      const addSection = (title: string, content: string) => {
+      addShortField('Employee:');
+      addShortField('Role:');
+      addShortField('Manager:');
+      addShortField('Start Date:');
+      y += 15;
+
+
+      const addSection = (title: string, lines: number = 5) => {
           doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
           doc.text(title, margin, y);
-          y += 20;
+          y += 25;
           doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
-          const lines = doc.splitTextToSize(content, contentWidth);
-          doc.text(lines, margin, y);
-          y += lines.length * 15 + 25;
+          doc.setDrawColor(229, 231, 235);
+          for(let i=0; i<lines; i++){
+              doc.line(margin, y, contentWidth + margin, y);
+              y += 20;
+          }
+          y += 15;
       }
       
-      addSection('First 30 Days: Learning & Foundational Contributions', data.goals30);
-      addSection('Days 31-60: Increased Ownership & Impact', data.goals60);
-      addSection('Days 61-90: Leadership & Autonomy', data.goals90);
+      addSection('First 30 Days: Learning & Foundational Contributions');
+      addSection('Days 31-60: Increased Ownership & Impact');
+      addSection('Days 61-90: Leadership & Autonomy');
 
-      doc.save('30-60-90-Day-Plan.pdf');
-      toast({ title: "Success!", description: "Milestones plan downloaded as PDF." });
+      doc.save('30-60-90-Day-Plan-Template.pdf');
+      toast({ title: "Success!", description: "Milestones plan template downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
@@ -134,7 +141,7 @@ export function EmployeeMilestonesForm() {
                     <Briefcase className="h-8 w-8 text-primary"/>
                 </div>
                 <div>
-                    <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3
+                    <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3>
                     <p className="text-muted-foreground">Find the right candidate to achieve these milestones by posting on the #1 Web3 job board.</p>
                 </div>
                 <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">

@@ -36,17 +36,20 @@ export function EmployeeExitSurveyForm() {
   const form = useForm<SurveyData>({
     resolver: zodResolver(surveySchema),
     defaultValues: {
-        lastDay: undefined, // Will be set on client
+        lastDay: new Date(),
         recommend: 'Yes',
+        employeeName: '',
+        jobTitle: '',
+        department: '',
+        reasonForLeaving: '',
+        likes: '',
+        dislikes: '',
+        feedback: '',
     },
   });
 
-  // Set dates on client side to avoid hydration errors
   React.useEffect(() => {
-    form.reset({
-        ...form.getValues(),
-        lastDay: new Date(),
-    })
+    form.setValue('lastDay', new Date());
   }, [form]);
 
   const handleDownload = form.handleSubmit((data) => {
@@ -56,33 +59,53 @@ export function EmployeeExitSurveyForm() {
       const contentWidth = doc.internal.pageSize.getWidth() - margin * 2;
       let y = margin;
 
-      const addSection = (title: string, content: string | undefined) => {
-          if(!content) return;
-          doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
+      const addSection = (title: string, lines: number) => {
+          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#111827');
           doc.text(title, margin, y);
-          y += 18;
-          doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
-          const lines = doc.splitTextToSize(content, contentWidth);
-          doc.text(lines, margin, y);
-          y += lines.length * 15 + 20;
+          y += 20;
+          doc.setDrawColor(209, 213, 219); // gray-300
+          for(let i=0; i<lines; i++){
+              doc.line(margin, y, contentWidth + margin, y);
+              y += 20;
+          }
+          y+=15;
       }
       
+      const addShortField = (label: string) => {
+          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
+          doc.text(label, margin, y);
+          doc.setDrawColor(209, 213, 219);
+          doc.line(margin + doc.getTextWidth(label) + 10, y, contentWidth + margin, y);
+          y += 25;
+      }
+
       doc.setFontSize(18).setFont('helvetica', 'bold').setTextColor('#111827');
       doc.text('Employee Exit Survey', margin, y);
       y += 30;
+      
+      addShortField('Employee Name:');
+      addShortField('Job Title:');
+      addShortField('Department:');
+      addShortField('Last Day of Employment:');
+      y += 15;
+      
+      addSection('Primary reason for leaving:', 3);
+      addSection('What did you like most about working here?', 4);
+      addSection('What did you like least about working here?', 4);
 
-      addSection('Employee Name:', data.employeeName);
-      addSection('Job Title:', data.jobTitle);
-      addSection('Department:', data.department);
-      addSection('Last Day of Employment:', data.lastDay ? format(data.lastDay, 'PPP') : 'N/A');
-      addSection('Primary reason for leaving:', data.reasonForLeaving);
-      addSection('What did you like most about working here?', data.likes);
-      addSection('What did you like least about working here?', data.dislikes);
-      addSection('Would you recommend working here to a friend?', data.recommend);
-      addSection('Any additional feedback or suggestions for improvement?', data.feedback);
+      doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
+      doc.text('Would you recommend working here to a friend?', margin, y);
+      y += 20;
+      doc.setFontSize(10).setFont('helvetica', 'normal');
+      doc.circle(margin + 10, y, 5); doc.text('Yes', margin + 20, y+4);
+      doc.circle(margin + 70, y, 5); doc.text('No', margin + 80, y+4);
+      doc.circle(margin + 120, y, 5); doc.text('Maybe', margin + 130, y+4);
+      y += 30;
 
-      doc.save('Employee_Exit_Survey.pdf');
-      toast({ title: "Success!", description: "Survey downloaded as PDF." });
+      addSection('Any additional feedback or suggestions for improvement?', 5);
+
+      doc.save('Employee_Exit_Survey_Template.pdf');
+      toast({ title: "Success!", description: "Survey template downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });

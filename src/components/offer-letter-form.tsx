@@ -1,7 +1,7 @@
 'use client';
 
 import * as React from 'react';
-import { useForm } from 'react-hook-form';
+import { useForm, useWatch } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { z } from 'zod';
 import { Button } from '@/components/ui/button';
@@ -38,25 +38,23 @@ export function OfferLetterForm() {
   const { toast } = useToast();
   const form = useForm<OfferLetterData>({
     resolver: zodResolver(offerLetterSchema),
-    // Set initial dates to null to avoid server/client mismatch
     defaultValues: {
       companyName: "Your Web3 Company",
       companyAddress: "123 Blockchain Ave, Decentraland",
-      candidateName: "Jane Doe",
-      candidateAddress: "456 Crypto Street, Ether City",
-      date: undefined, // Will be set on client
+      candidateName: "",
+      candidateAddress: "",
+      date: new Date(),
       jobTitle: "Senior Solidity Developer",
-      startDate: undefined, // Will be set on client
+      startDate: new Date(new Date().setDate(new Date().getDate() + 14)),
       salary: "$150,000 USD per year + 0.1% token allocation",
       vestingDetails: "Tokens vest over 4 years with a 1-year cliff.",
       reportingTo: "Head of Engineering",
-      offerExpiryDate: undefined, // Will be set on client
+      offerExpiryDate: new Date(new Date().setDate(new Date().getDate() + 7)),
       senderName: "John Smith",
       senderTitle: "CEO",
     },
   });
 
-  // Set dates on client side to avoid hydration errors
   React.useEffect(() => {
     form.reset({
         ...form.getValues(),
@@ -80,15 +78,16 @@ export function OfferLetterForm() {
       y += 40;
 
       doc.setFontSize(11).setFont('helvetica', 'bold');
-      doc.text(data.candidateName, margin, y);
+      doc.text(data.candidateName || 'Candidate Name', margin, y);
       y += 15;
       doc.setFont('helvetica', 'normal');
-      const addressLines = doc.splitTextToSize(data.candidateAddress, contentWidth);
+      const address = data.candidateAddress || 'Candidate Address';
+      const addressLines = doc.splitTextToSize(address, contentWidth);
       doc.text(addressLines, margin, y);
       y += addressLines.length * 15 + 25;
       
       doc.setFontSize(11).setFont('helvetica', 'bold');
-      doc.text(`Dear ${data.candidateName},`, margin, y);
+      doc.text(`Dear ${data.candidateName || '[Candidate Name]'},`, margin, y);
       y += 25;
       
       const bodyText1 = `On behalf of ${data.companyName}, I am delighted to offer you the position of ${data.jobTitle}. We were incredibly impressed with your skills and experience and believe you will be a valuable asset to our team.`;
@@ -111,7 +110,7 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
       
       const lines2 = doc.splitTextToSize(bodyText2, contentWidth);
       doc.text(lines2, margin, y);
-      y += lines2.length * 15 + 40;
+      y += lines2.length * 12 + 40;
 
       doc.text('Sincerely,', margin, y);
       y += 40;
@@ -124,9 +123,8 @@ This offer is open until ${format(data.offerExpiryDate, 'MMMM d, yyyy')}. Please
       y += 15;
       doc.text(data.companyName, margin, y);
 
-
-      doc.save('Offer_Letter.pdf');
-      toast({ title: "Success!", description: "Offer Letter downloaded as PDF." });
+      doc.save('Offer_Letter_Template.pdf');
+      toast({ title: "Success!", description: "Offer Letter template downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });

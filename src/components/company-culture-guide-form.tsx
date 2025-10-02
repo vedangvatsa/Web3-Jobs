@@ -1,4 +1,3 @@
-
 'use client';
 
 import * as React from 'react';
@@ -58,35 +57,45 @@ export function CompanyCultureGuideForm() {
       doc.text(`${data.companyName} Culture Guide`, margin, y);
       y += 40;
 
-      const addSection = (title: string, content: string | { name: string; description: string }[]) => {
+      const addSection = (title: string, fillableLines: number = 3) => {
         doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
         doc.text(title, margin, y);
         y += 20;
-        doc.setFontSize(11).setFont('helvetica', 'normal').setTextColor('#374151');
-        if (typeof content === 'string') {
-            const lines = doc.splitTextToSize(content, contentWidth);
-            doc.text(lines, margin, y);
-            y += lines.length * 15 + 20;
-        } else {
-            content.forEach(item => {
-                doc.setFont('helvetica', 'bold');
-                doc.text(item.name, margin, y);
-                doc.setFont('helvetica', 'normal');
-                const descLines = doc.splitTextToSize(item.description, contentWidth);
-                doc.text(descLines, margin, y + 15);
-                y += (descLines.length * 15) + 30;
-            });
+        doc.setDrawColor(209, 213, 219); // gray-300
+        for(let i=0; i < fillableLines; i++) {
+            doc.line(margin, y, contentWidth + margin, y);
+            y += 20;
+        }
+        y += 10;
+      }
+      
+      const addValueSection = (count: number) => {
+        doc.setFontSize(14).setFont('helvetica', 'bold').setTextColor('#111827');
+        doc.text('Our Core Values', margin, y);
+        y += 20;
+        for (let i = 0; i < count; i++) {
+          doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
+          doc.text(`Value #${i+1}:`, margin, y);
+          y += 15;
+          doc.setDrawColor(209, 213, 219);
+          doc.line(margin + 50, y-5, contentWidth + margin, y-5);
+          y += 10;
+          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#4B5563');
+          doc.text(`Description:`, margin, y);
+          y+= 15;
+          doc.line(margin, y, contentWidth + margin, y); y += 15;
+          doc.line(margin, y, contentWidth + margin, y); y += 25;
         }
       }
 
-      addSection('Our Mission', data.mission);
-      addSection('Our Vision', data.vision);
-      addSection('Our Core Values', data.values);
-      addSection('How We Communicate', data.communication);
-      addSection('Our Team Rituals', data.rituals);
+      addSection('Our Mission', 3);
+      addSection('Our Vision', 3);
+      addValueSection(3);
+      addSection('How We Communicate', 4);
+      addSection('Our Team Rituals', 4);
       
-      doc.save(`${data.companyName}-Culture-Guide.pdf`);
-      toast({ title: "Success!", description: "Culture guide downloaded as PDF." });
+      doc.save(`${data.companyName}-Culture-Guide-Template.pdf`);
+      toast({ title: "Success!", description: "Culture guide template downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
@@ -137,7 +146,7 @@ export function CompanyCultureGuideForm() {
                     <Briefcase className="h-8 w-8 text-primary"/>
                 </div>
                 <div>
-                    <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3
+                    <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3>
                     <p className="text-muted-foreground">Now that your culture is defined, find candidates who are a perfect fit by posting on the #1 Web3 job board.</p>
                 </div>
                 <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">

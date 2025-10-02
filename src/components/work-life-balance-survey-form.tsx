@@ -1,4 +1,3 @@
-
 'use client';
 
 import * as React from 'react';
@@ -46,9 +45,9 @@ export function WorkLifeBalanceSurveyForm() {
       managerSupport: 5,
       comfortableTakingTimeOff: 5,
       wellbeingResources: 3,
-      improvementSuggestion: "More clearly defined project scopes would help in managing workload expectations.",
-      negativeImpacts: "The expectation of being available on chat outside of standard working hours.",
-      finalComments: "I appreciate the focus on work-life balance and the flexibility offered."
+      improvementSuggestion: "",
+      negativeImpacts: "",
+      finalComments: ""
     },
   });
 
@@ -78,43 +77,66 @@ export function WorkLifeBalanceSurveyForm() {
         y += 25;
       }
       
-      const addQuestion = (title: string, content: string | number, isRating = false) => {
+      const addRatingQuestion = (title: string) => {
           if (y > doc.internal.pageSize.getHeight() - 60) { doc.addPage(); y = margin; }
           doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
           const titleLines = doc.splitTextToSize(title, contentWidth);
           doc.text(titleLines, margin, y);
           y += titleLines.length * 12 + 8;
-          doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#4B5563');
-          let displayContent = isRating && typeof content === 'number' ? `${content}/5 - ${ratings[content as keyof typeof ratings]}` : String(content);
-          if (!content && !isRating) displayContent = "No response provided.";
-          const lines = doc.splitTextToSize(displayContent, contentWidth);
-          doc.text(lines, margin, y);
-          y += lines.length * 12 + 18;
+          
+          doc.setFontSize(10).setFont('helvetica', 'normal');
+          let radioX = margin;
+          doc.text('Strongly Disagree', radioX, y);
+          doc.text('Strongly Agree', contentWidth + margin, y, { align: 'right'});
+          y += 15;
+          radioX = margin + 80;
+          for (let i = 1; i <= 5; i++) {
+            doc.circle(radioX, y, 6);
+            doc.text(String(i), radioX - 2, y + 18);
+            radioX += 50;
+          }
+          y += 35;
+      }
+      
+      const addOpenEndedQuestion = (title: string, lines: number) => {
+         if (y > doc.internal.pageSize.getHeight() - (lines * 20 + 40)) { doc.addPage(); y = margin; }
+         doc.setFontSize(11).setFont('helvetica', 'bold').setTextColor('#374151');
+         const titleLines = doc.splitTextToSize(title, contentWidth);
+         doc.text(titleLines, margin, y);
+         y += titleLines.length * 12 + 15;
+         doc.setDrawColor(229, 231, 235);
+         for(let i=0; i<lines; i++){
+            doc.line(margin, y, contentWidth + margin, y);
+            y += 20;
+         }
+         y += 10;
       }
 
       addSectionTitle("Workload & Hours");
-      addQuestion("My current workload is manageable.", data.workloadManageable, true);
-      addQuestion("I am able to complete my work within my scheduled working hours.", data.workWithinHours, true);
-      addQuestion("I feel pressure to work long hours or on weekends.", data.pressureToWorkLate, true);
+      addRatingQuestion("1. My current workload is manageable.");
+      addRatingQuestion("2. I am able to complete my work within my scheduled working hours.");
+      addRatingQuestion("3. I feel pressure to work long hours or on weekends.");
 
       addSectionTitle("Flexibility & Autonomy");
-      addQuestion("I have the flexibility I need to balance my work and personal life.", data.flexibility, true);
-      addQuestion("I have sufficient autonomy over how I schedule my work day.", data.autonomy, true);
+      addRatingQuestion("4. I have the flexibility I need to balance my work and personal life.");
+      addRatingQuestion("5. I have sufficient autonomy over how I schedule my work day.");
+      
+      doc.addPage();
+      y = margin;
       
       addSectionTitle("Well-being & Support");
-      addQuestion("My work-related stress levels are acceptable.", data.stressLevels, true);
-      addQuestion("I feel supported by my manager in maintaining a healthy work-life balance.", data.managerSupport, true);
-      addQuestion("I feel comfortable taking time off when I need it without feeling guilty.", data.comfortableTakingTimeOff, true);
-      addQuestion("The company provides adequate resources and support for my well-being.", data.wellbeingResources, true);
+      addRatingQuestion("6. My work-related stress levels are acceptable.");
+      addRatingQuestion("7. I feel supported by my manager in maintaining a healthy work-life balance.");
+      addRatingQuestion("8. I feel comfortable taking time off when I need it without feeling guilty.");
+      addRatingQuestion("9. The company provides adequate resources and support for my well-being.");
 
       addSectionTitle("Qualitative Feedback");
-      addQuestion("What is the one thing that could be done to improve your work-life balance?", data.improvementSuggestion || "N/A");
-      addQuestion("Are there any company policies or cultural norms that negatively impact your work-life balance?", data.negativeImpacts || "N/A");
-      addQuestion("Please share any other comments or suggestions regarding work-life balance.", data.finalComments || "N/A");
+      addOpenEndedQuestion("What is the one thing that could be done to improve your work-life balance?", 4);
+      addOpenEndedQuestion("Are there any company policies or cultural norms that negatively impact your work-life balance?", 4);
+      addOpenEndedQuestion("Please share any other comments or suggestions regarding work-life balance.", 4);
 
-
-      doc.save('Work-Life-Balance-Survey.pdf');
-      toast({ title: "Success!", description: "Survey downloaded as PDF." });
+      doc.save('Work-Life-Balance-Survey-Template.pdf');
+      toast({ title: "Success!", description: "Survey template downloaded as PDF." });
     } catch (error) {
       console.error(error);
       toast({ variant: 'destructive', title: "Error", description: "Failed to generate PDF." });
