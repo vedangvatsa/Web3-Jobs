@@ -34,7 +34,12 @@ export interface Role {
     };
 }
 
-export const interviewData = {
+export const interviewData: {
+    roles: Role[];
+    appendixA: { question: string; pattern: string; }[];
+    appendixB: { description: string; guide: { score: number; meaning: string; }[]; };
+    disclaimer: string;
+} = {
     roles: [
         {
             id: 'solidity-developer',
@@ -613,7 +618,7 @@ struct Packed {
                         id: 'AUD-I-02',
                         difficulty: 'Intermediate',
                         category: 'Knowledge',
-                        question: 'What is the signature replay attack and how can it be prevented?',
+                        question: 'What is a signature replay attack and how can it be prevented?',
                         idealAnswer: {
                             coreIdea: 'A signature replay attack occurs when an attacker intercepts a valid, signed message and "replays" it in a different context or at a later time to trigger an unauthorized action. It is prevented using nonces and domain separators.',
                             keyPoints: [
@@ -727,7 +732,7 @@ struct Packed {
                                 'If a contract has a `view` function like `getAllOwners()` that loops through an array of unknown size, an attacker can make this array extremely large.',
                                 'When a dApp frontend or an indexing service calls this `getAllOwners()` function, the node will attempt to execute the loop. This can take an enormous amount of time and CPU, causing the request to time out.',
                                 'If many services rely on this call, the attacker can effectively make the dApp unusable for everyone by overloading the public nodes that serve its data. This is a DoS attack at the infrastructure layer, not the consensus layer.'
-                            ],
+                            ]
                         },
                         commonPitfalls: ['Thinking that since `view` calls are "free," they can\'t be a problem.', 'Focusing only on on-chain transaction gas costs.'],
                         whyThisMatters: ['This demonstrates a sophisticated understanding of the entire Web3 stack, including the role of off-chain infrastructure like RPC nodes.', 'It shows the ability to think about attack vectors beyond direct loss of funds.'],
