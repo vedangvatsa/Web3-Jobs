@@ -1,6 +1,84 @@
 This file provides structured summaries of key website content for Large Language Models.
 
 ---
+about: The #1 Web3 job board and career resource. Find the best Web3 jobs in crypto, blockchain, and DeFi. Your top resource for discovering remote careers at leading DAOs and crypto startups.
+---
+page: /jobs
+title: Web3 Jobs
+description: The best job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
+---
+page: /blog
+title: The Web3 Playbook
+description: In-depth articles and guides on Web3 careers, technology, and industry insights.
+---
+page: /news
+title: Web3 News Feed
+description: The latest news and headlines from the world of Web3, cryptocurrency, and blockchain technology, aggregated from top industry sources.
+---
+page: /interview-questions
+title: Web3 Interview Question Bank
+description: The ultimate resource for Web3 interview preparation. Explore hundreds of real questions for roles in Solidity, DeFi, Product Management, and more.
+---
+page: /web3-career-quiz
+title: Web3 Archetype Assessment
+description: Take our quick assessment to discover your Web3 personality archetype and the career paths that match your skills and interests.
+---
+page: /salary-calculator
+title: Web3 Salary Calculator
+description: Estimate your salary in the Web3 industry based on your role, experience, and location. Get a data-driven salary estimate for developer, marketing, and PM roles.
+---
+page: /invoice-generator
+title: Free Invoice Generator
+description: A free and simple invoice generator for freelancers and contractors. No registration required. Download your invoice as a PDF instantly.
+---
+page: /resume-builder
+title: Web3 Resume Builder
+description: Create a professional, crypto-native resume that stands out to recruiters. Build and download your Web3 resume for free.
+---
+page: /jd-builder
+title: Web3 Job Description Builder
+description: Easily create professional job descriptions for Web3 roles. Our free builder helps you outline responsibilities, qualifications, and more to attract top talent.
+---
+page: /digital-nomad-visas
+title: Digital Nomad Visa List
+description: A comprehensive, searchable list of digital nomad visas for Web3 professionals looking to work from anywhere in the world.
+---
+page: /remote-work-checklist
+title: Remote Work Readiness Checklist
+description: A comprehensive checklist to optimize your remote work setup for productivity, security, and well-being in a Web3 career.
+---
+page: /employee-onboarding-checklist
+title: Web3 Employee Onboarding Checklist
+description: A comprehensive checklist for successfully onboarding new hires into a Web3 company, covering culture, security, and role-specific training.
+---
+page: /offer-letter-customizer
+title: Web3 Offer Letter Customizer
+description: Generate professional offer letters for Web3 roles. Easily customize details like salary, token allocation, and vesting schedules to attract top talent.
+---
+page: /employee-exit-survey
+title: Employee Exit Survey Tool
+description: A free tool to generate a comprehensive employee exit survey. Gather valuable feedback from departing team members to improve your company culture.
+---
+page: /interview-feedback-template
+title: Interview Feedback Template
+description: A free tool to generate standardized interview feedback forms. Help your hiring team make better, less biased decisions with a structured template.
+---
+page: /tools/employee-milestones-tracker
+title: Employee Milestones Tracker
+description: A free tool to help you create a structured plan for tracking employee milestones and career progression. Set clear goals for 30, 60, and 90 days.
+---
+page: /tools/employee-engagement-survey
+title: Employee Engagement Pulse Survey
+description: A free tool to generate a quick and effective employee engagement pulse survey. Measure team morale, satisfaction, and identify areas for improvement.
+---
+page: /tools/work-life-balance-survey
+title: Work-Life Balance Survey Builder
+description: A free tool to generate a survey to assess work-life balance within your team. Understand workload, stress levels, and identify areas to prevent burnout.
+---
+page: /tools/company-culture-guide
+title: Company Culture Guide Builder
+description: A free tool to help you define and document your company culture. Create a comprehensive guide to share your values, communication norms, and team rituals.
+---
 slug: 10-big-ideas-in-web3-for-2025
 title: 10 Big Ideas in Web3 for 2025
 description: The Web3 ecosystem continues to evolve rapidly, and 2025 is shaping up to be a landmark year. Here, we explore the big ideas expected to drive Web3 in 2025.
@@ -597,10 +675,6 @@ slug: the-role-of-web3-technical-writers-in-blockchain-projects
 title: The Role of Web3 Technical Writers in Blockchain Projects
 description: An in-depth look at the vital role of technical writers in the Web3 ecosystem. Learn what they do, why they are essential for developer adoption, and how to start a career in the field.
 ---
-slug: the-web3-talent-migration
-title: The Web3 Talent Migration: Why People Are Moving
-description: A deep dive into the 'Web3 brain drain.' We explore the motivations driving top talent from traditional tech and finance to pursue careers in the crypto industry.
----
 slug: tokenomics-for-compensation
 title: Using Tokenomics for Web3 Compensation
 description: A guide to understanding and designing token-based compensation packages. Learn about vesting schedules, cliffs, and how to use tokens to align incentives for your team.
@@ -808,6 +882,14 @@ description: Discover how to build a career in Brazil's burgeoning Web3 industry
 slug: web3-jobs-in-brazzaville
 title: Web3 Jobs in Brazzaville: A Guide to the Republic of the Congo's Tech Scene
 description: A career guide to the emerging Web3 job market in Brazzaville. Explore how the capital of the Republic of the Congo is beginning to engage with blockchain technology, with a focus on FinTech and natural resources.
+---
+slug: web3-jobs-in-cairo
+title: Web3 Jobs in Cairo: A Guide to Egypt's Rising Tech Scene
+description: A career guide to the Web3 job market in Cairo. Explore how Egypt's capital is becoming a key hub for blockchain talent, driven by a massive youth population and a surge in tech adoption.
+---
+slug: web3-jobs-in-canada
+title: Web3 Jobs in Canada: A Guide to the Northern Crypto Hub
+description: Your guide to a Web3 career in Canada. Explore the country's growing crypto scene, from the Ethereum roots in Toronto to the gaming hub in Vancouver, and get insights on roles and salaries.
 ---
 slug: web3-jobs-in-cape-town
 title: Web3 Jobs in Cape Town: A Guide to South Africa's Creative Tech Hub
