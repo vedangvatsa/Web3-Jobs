@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Company Culture Guide Builder',
   description: 'A free tool to help you define and document your company culture. Create a comprehensive guide to share your values, communication norms, and team rituals.',
   openGraph: {
-    title: 'Company Culture Guide Builder | Hashtag Web3',
+    title: 'Company Culture Guide Builder',
     description: 'Define and share your company culture. Our free tool helps you create a professional culture guide.',
     images: [
       {

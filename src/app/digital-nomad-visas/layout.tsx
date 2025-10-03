@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Digital Nomad Visa List',
   description: 'A comprehensive, searchable list of digital nomad visas for Web3 professionals looking to work from anywhere in the world.',
    openGraph: {
-    title: 'Digital Nomad Visa List | Hashtag Web3',
+    title: 'Digital Nomad Visa List',
     description: 'Find the perfect country to work from with our comprehensive list of digital nomad visas.',
     images: [
       {

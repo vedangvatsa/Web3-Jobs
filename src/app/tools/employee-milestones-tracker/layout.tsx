@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Employee Milestones Tracker',
   description: 'A free tool to help you create a structured plan for tracking employee milestones and career progression. Set clear goals for 30, 60, and 90 days.',
   openGraph: {
-    title: 'Employee Milestones Tracker | Hashtag Web3',
+    title: 'Employee Milestones Tracker',
     description: 'Plan and track employee growth with our free milestones tracker template.',
     images: [
       {

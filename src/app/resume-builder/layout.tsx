@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Web3 Resume Builder',
   description: 'Create a professional, crypto-native resume that stands out to recruiters. Build and download your Web3 resume for free.',
   openGraph: {
-    title: 'Web3 Resume Builder | Hashtag Web3',
+    title: 'Web3 Resume Builder',
     description: 'Craft a resume tailored for the Web3 job market. Our free builder helps you highlight your on-chain experience.',
     images: [
       {
