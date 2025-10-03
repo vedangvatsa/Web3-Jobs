@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Employee Engagement Pulse Survey',
   description: 'A free tool to generate a quick and effective employee engagement pulse survey. Measure team morale, satisfaction, and identify areas for improvement.',
   openGraph: {
-    title: 'Employee Engagement Pulse Survey | Hashtag Web3',
+    title: 'Employee Engagement Pulse Survey',
     description: 'Quickly gauge team morale and satisfaction with our free pulse survey generator.',
     images: [
       {

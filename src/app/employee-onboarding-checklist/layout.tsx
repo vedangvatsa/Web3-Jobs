@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Web3 Employee Onboarding Checklist',
   description: 'A comprehensive checklist for successfully onboarding new hires into a Web3 company, covering culture, security, and role-specific training.',
   openGraph: {
-    title: 'Web3 Employee Onboarding Checklist | Hashtag Web3',
+    title: 'Web3 Employee Onboarding Checklist',
     description: 'Ensure a smooth onboarding for your new Web3 hires with our comprehensive checklist.',
     images: [
       {

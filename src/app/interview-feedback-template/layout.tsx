@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Interview Feedback Template',
   description: 'A free tool to generate standardized interview feedback forms. Help your hiring team make better, less biased decisions with a structured template.',
   openGraph: {
-    title: 'Interview Feedback Template | Hashtag Web3',
+    title: 'Interview Feedback Template',
     description: 'Standardize your hiring process and reduce bias with our free interview feedback template.',
     images: [
       {

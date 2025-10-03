@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Web3 Interview Question Bank',
   description: 'The ultimate resource for Web3 interview preparation. Explore hundreds of real questions for roles in Solidity, DeFi, Product Management, and more.',
   openGraph: {
-    title: 'Web3 Interview Question Bank | Hashtag Web3',
+    title: 'Web3 Interview Question Bank',
     description: 'Ace your next Web3 interview. Our question bank covers everything from Solidity to DeFi, for technical and non-technical roles.',
     images: [
       {

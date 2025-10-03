@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Employee Exit Survey Tool',
   description: 'A free tool to generate a comprehensive employee exit survey. Gather valuable feedback from departing team members to improve your company culture.',
   openGraph: {
-    title: 'Employee Exit Survey Tool | Hashtag Web3',
+    title: 'Employee Exit Survey Tool',
     description: 'Understand why employees leave and how you can improve. Create a professional exit survey with our free tool.',
     images: [
       {
