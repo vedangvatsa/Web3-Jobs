@@ -1,4 +1,3 @@
-
 'use client';
 
 import { Button } from '@/components/ui/button';
@@ -6,6 +5,8 @@ import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/s
 import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, BarChart, Smile, Scale } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
+import Script from 'next/script';
+import type { SiteNavigationElement } from 'schema-dts';
 import {
   Accordion,
   AccordionContent,
@@ -56,10 +57,28 @@ export function Header() {
         { href: "https://x.com/hashtag_web3", label: "X", icon: Twitter, 'aria-label': 'Follow Hashtag Web3 on X' },
         { href: "https://linkedin.com/company/hashtagweb3", label: "LinkedIn", icon: Linkedin, 'aria-label': 'Follow Hashtag Web3 on LinkedIn' },
         { href: "https://t.me/hashtagweb3", label: "Telegram", icon: Send, 'aria-label': 'Join Hashtag Web3 on Telegram' },
-    ]
+    ];
+
+    const siteUrl = 'https://hashtagweb3.com';
+    const navigationSchema: SiteNavigationElement = {
+        '@type': 'SiteNavigationElement',
+        name: 'Main Navigation',
+        about: 'Main navigation links for Hashtag Web3',
+        hasPart: mainNavLinks.map(link => ({
+            '@type': 'WebPage',
+            name: link.label,
+            url: link.href.startsWith('http') ? link.href : `${siteUrl}${link.href}`,
+        }))
+    };
+
 
     return (
         <header className="sticky top-0 z-30 w-full border-b bg-background/80 backdrop-blur-sm">
+             <Script
+              id="site-navigation-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{ __html: JSON.stringify(navigationSchema) }}
+            />
             <div className="container mx-auto flex h-14 items-center justify-between px-4">
                 <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
                     <Image src="/logo/HashtagWeb3.png" alt="Hashtag Web3 Logo" width={140} height={24} className="h-6 w-auto" priority />
