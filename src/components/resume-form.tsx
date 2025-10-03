@@ -119,7 +119,7 @@ export function ResumeForm() {
             doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
             const summaryLines = doc.splitTextToSize(data.summary, docWidth - margin * 2);
             doc.text(summaryLines, margin, y);
-            y += summaryLines.length * 12 + 15;
+            y += summaryLines.length * 12 + 20;
 
             // Web3 Contributions
             doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
@@ -130,17 +130,17 @@ export function ResumeForm() {
                 doc.text(c.project, margin, y);
                 doc.setFontSize(10).setFont('helvetica', 'italic').setTextColor('#4B5563');
                 doc.text(c.role, margin + doc.getTextWidth(c.project) + 5, y);
-                y += 12;
+                y += 15;
                 doc.setFontSize(10).setFont('helvetica', 'normal').setTextColor('#374151');
                 const descLines = doc.splitTextToSize(c.description, docWidth - margin * 2);
                 doc.text(descLines, margin, y);
-                y += descLines.length * 12;
+                y += descLines.length * 12 + 5;
                 if(c.link) {
                     doc.setTextColor('#2563EB');
                     doc.textWithLink(c.link, margin, y, { url: c.link });
                     y += 12;
                 }
-                y += 5;
+                y += 10;
             });
             y += 10;
             
@@ -155,7 +155,7 @@ export function ResumeForm() {
                 doc.setFont('helvetica', 'normal').setTextColor('#4B5563');
                 doc.text(e.company, margin + roleWidth + 5, y);
                 doc.text(e.date, docWidth - margin, y, { align: 'right' });
-                y += 12;
+                y += 15;
                 doc.setFontSize(10).setTextColor('#374151');
                 const descLines = doc.splitTextToSize(e.description, docWidth - margin * 2);
                 doc.text(descLines, margin, y);
@@ -171,7 +171,7 @@ export function ResumeForm() {
                 doc.text(ed.degree, margin, y);
                 doc.setFont('helvetica', 'normal').setTextColor('#4B5563');
                 doc.text(ed.date, docWidth - margin, y, { align: 'right' });
-                y += 12;
+                y += 15;
                 doc.setFont('helvetica', 'italic').setTextColor('#374151');
                 doc.text(ed.institution, margin, y);
                 y += 20;
@@ -181,18 +181,20 @@ export function ResumeForm() {
             doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
             doc.text('Skills', margin, y);
             y += 15;
-            doc.setFontSize(10).setFont('helvetica', 'bold').setTextColor('#4B5563');
-            doc.text('Web3 / Blockchain:', margin, y);
-            doc.setFont('helvetica', 'normal').setTextColor('#374151');
-            const web3SkillsLines = doc.splitTextToSize(data.web3Skills, docWidth - margin * 2 - 100);
-            doc.text(web3SkillsLines, margin + 100, y);
-            y += web3SkillsLines.length * 12 + 10;
             
-            doc.setFontSize(10).setFont('helvetica', 'bold').setTextColor('#4B5563');
-            doc.text('Technical / General:', margin, y);
-            doc.setFont('helvetica', 'normal').setTextColor('#374151');
-            const generalSkillsLines = doc.splitTextToSize(data.generalSkills, docWidth - margin * 2 - 100);
-            doc.text(generalSkillsLines, margin + 100, y);
+            const addSkillsSection = (label: string, skills: string) => {
+                if(y > doc.internal.pageSize.getHeight() - 50) { doc.addPage(); y = margin; }
+                doc.setFontSize(10).setFont('helvetica', 'bold').setTextColor('#4B5563');
+                doc.text(label, margin, y, { align: 'right' });
+                doc.setFont('helvetica', 'normal').setTextColor('#374151');
+                const skillLines = doc.splitTextToSize(skills, docWidth - margin - (margin + 100));
+                doc.text(skillLines, margin + 105, y);
+                y += skillLines.length * 12 + 10;
+            };
+
+            addSkillsSection('Web3 / Blockchain:', data.web3Skills);
+            addSkillsSection('Technical / General:', data.generalSkills);
+
 
             doc.save(`${data.name.replace(' ','-')}-Web3-Resume.pdf`);
             toast({ title: "Success!", description: "Your resume has been downloaded." });
