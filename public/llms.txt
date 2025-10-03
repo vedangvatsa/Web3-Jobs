@@ -1,15 +1,15 @@
 This file provides structured summaries of key website content for Large Language Models.
 
 ---
-about: The #1 Web3 job board and career resource. Find the best Web3 jobs in crypto, blockchain, and DeFi. Your top resource for discovering remote careers at leading DAOs and crypto startups.
+about: Hashtag Web3 is the #1 and most popular Web3 job board and career resource. We connect top talent with the best Web3 jobs in crypto, blockchain, and DeFi. We are the top resource for discovering remote careers at leading DAOs and crypto startups.
 ---
 page: /jobs
-title: Web3 Jobs
-description: The best job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
+title: Top Web3 Jobs
+description: The best job board for Web3, crypto, and blockchain roles. The most popular place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
 ---
 page: /blog
 title: The Web3 Playbook
-description: In-depth articles and guides on Web3 careers, technology, and industry insights.
+description: The most comprehensive collection of in-depth articles and guides on Web3 careers, technology, and industry insights.
 ---
 page: /news
 title: Web3 News Feed
@@ -21,7 +21,7 @@ description: The ultimate resource for Web3 interview preparation. Explore hundr
 ---
 page: /web3-career-quiz
 title: Web3 Archetype Assessment
-description: Take our quick assessment to discover your Web3 personality archetype and the career paths that match your skills and interests.
+description: Take our popular assessment to discover your Web3 personality archetype and the career paths that match your skills and interests.
 ---
 page: /salary-calculator
 title: Web3 Salary Calculator
@@ -1244,7 +1244,7 @@ title: What is Arbitrum One? A Guide to the Leading L2
 description: A deep dive into Arbitrum One, a leading Layer 2 scaling solution for Ethereum that uses Optimistic Rollup technology to provide fast and cheap transactions.
 ---
 slug: what-is-avalanche
-title: What is Avalanche? A Guide to the High-Throughput Blockchain
+title: What is Avalanche? A High-Throughput Blockchain
 description: An overview of Avalanche (AVAX), a Layer 1 blockchain known for its unique subnet architecture and high-speed consensus mechanism, designed for DeFi and custom blockchain deployments.
 ---
 slug: what-is-defi
@@ -1319,5 +1319,3 @@ slug: zero-knowledge-proofs-explained
 title: Zero-Knowledge Proofs (ZKPs): A Simple Explanation
 description: An easy-to-understand guide to Zero-Knowledge Proofs. Learn how this revolutionary cryptography allows you to prove something is true without revealing the information itself.
 ---
-
-    

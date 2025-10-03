@@ -24,7 +24,7 @@ const siteConfig = {
 
 export const metadata: Metadata = {
   title: {
-    default: `${siteConfig.name}: The #1 Web3 Job Board`,
+    default: `Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles`,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: siteConfig.url,
     title: {
-        default: `${siteConfig.name}: The #1 Web3 Job Board`,
+        default: `Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles`,
         template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: {
-        default: `${siteConfig.name}: The #1 Web3 Job Board`,
+        default: `Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles`,
         template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
