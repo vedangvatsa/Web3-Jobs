@@ -1,4 +1,3 @@
-
 'use client';
 
 import { Header } from '@/components/header';
@@ -16,6 +15,8 @@ import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { MediaCarousel } from './media-carousel';
 import { useState, useEffect } from 'react';
 import { Skeleton } from '@/components/ui/skeleton';
+import type { WebSite } from 'schema-dts';
+import Script from 'next/script';
 
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
@@ -259,9 +260,33 @@ export function CommunityPageContent({
     latestArticles: Omit<Article, 'content'>[],
     latestNews: NewsItem[]
 }) {
+  const siteUrl = 'https://hashtagweb3.com';
+
+  const mainPages = [
+    { name: 'Web3 Jobs', url: `${siteUrl}/jobs` },
+    { name: 'Web3 News', url: `${siteUrl}/news` },
+    { name: 'Web3 Playbook', url: `${siteUrl}/blog` },
+    { name: 'Web3 Academy', url: 'https://academy.hashtagweb3.com/' },
+  ];
+
+  const websiteSchema: WebSite = {
+    '@type': 'WebSite',
+    name: 'Hashtag Web3',
+    url: siteUrl,
+    hasPart: mainPages.map(page => ({
+        '@type': 'WebPage',
+        name: page.name,
+        url: page.url,
+    })),
+  };
 
   return (
     <>
+      <Script
+        id="website-schema"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+      />
         <div className="container mx-auto px-4 py-8 md:py-16">
           
           <section className="text-center mb-16 max-w-4xl mx-auto">
