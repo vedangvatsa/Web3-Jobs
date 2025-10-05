@@ -115,7 +115,9 @@ export function EmployeeEngagementSurveyForm() {
                   <Smile className="h-10 w-10 text-primary" />
                 </div>
                 <CardTitle className="text-3xl">Employee Engagement Pulse Survey</CardTitle>
-                <CardDescription>Quickly gauge team morale and identify areas for improvement.</CardDescription>
+                <CardDescription className="max-w-2xl mx-auto">
+                    Quickly gauge team morale, satisfaction, and overall engagement with this pulse survey. Regular feedback is key to building a thriving culture and identifying potential issues before they become major problems.
+                </CardDescription>
             </CardHeader>
             <CardContent>
                 <form className="space-y-8">

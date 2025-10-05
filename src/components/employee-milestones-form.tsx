@@ -167,13 +167,16 @@ export function EmployeeMilestonesForm() {
                   <Milestone className="h-10 w-10 text-primary" />
                 </div>
                 <CardTitle className="text-3xl">Employee Milestones Tracker</CardTitle>
-                <CardDescription>Set and track key objectives and milestones for career development.</CardDescription>
+                <CardDescription className="max-w-2xl mx-auto">
+                  A structured 30-60-90 day plan is crucial for aligning new hires with company goals and ensuring their success. This tool helps managers and employees collaboratively define key objectives and measurable milestones for the initial period of employment.
+                </CardDescription>
             </CardHeader>
             <CardContent>
                 <form className="space-y-6">
                     <Card>
                         <CardHeader>
                             <CardTitle>Basic Information</CardTitle>
+                            <CardDescription>Start by filling in the essential details for this milestone plan.</CardDescription>
                         </CardHeader>
                         <CardContent className="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <Input placeholder="Employee Name" {...form.register('employeeName')} />
@@ -190,7 +193,7 @@ export function EmployeeMilestonesForm() {
                     </div>
 
                     <Button type="button" variant="secondary" className="w-full" onClick={() => append({ title: '', milestones: [{description: '', metric: ''}] })}>
-                        <Plus className="mr-2 h-4 w-4"/> Add New Objective
+                        <Plus className="mr-2 h-4 w-4"/> Add New Key Objective
                     </Button>
                     
                 </form>
@@ -205,8 +208,8 @@ export function EmployeeMilestonesForm() {
                     <Briefcase className="h-8 w-8 text-primary"/>
                 </div>
                 <div>
-                    <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3>
-                    <p className="text-muted-foreground">Find the right candidate to achieve these milestones by posting on the #1 Web3 job board.</p>
+                    <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire Top Talent?</h3>
+                    <p className="text-muted-foreground">Find the right candidate to achieve these milestones by posting on the #1 Web3 job board and reaching over 100,000 professionals.</p>
                 </div>
                 <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
                     <Button size="lg">
