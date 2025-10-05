@@ -160,7 +160,9 @@ export function InterviewFeedbackForm() {
                   <Mic className="h-10 w-10 text-primary" />
                 </div>
                 <CardTitle className="text-3xl">Interview Feedback Template</CardTitle>
-                <CardDescription>Standardize your hiring process and make better decisions.</CardDescription>
+                <CardDescription className="max-w-2xl mx-auto">
+                    A structured feedback form is essential for a fair and effective hiring process. It helps reduce bias by ensuring all candidates are evaluated against the same criteria and provides clear, actionable data for debrief sessions.
+                </CardDescription>
             </CardHeader>
             <CardContent>
                 <form className="space-y-6">
@@ -172,7 +174,8 @@ export function InterviewFeedbackForm() {
                     </div>
                      <Card>
                         <CardHeader>
-                          <CardTitle className="text-lg">Ratings (1 = Poor, 5 = Excellent)</CardTitle>
+                          <CardTitle className="text-lg">Ratings</CardTitle>
+                          <CardDescription>Rate the candidate on a scale of 1 (Poor) to 5 (Excellent) for each category.</CardDescription>
                         </CardHeader>
                         <CardContent className="space-y-6 pt-4">
                             <div className="space-y-2">
@@ -193,9 +196,9 @@ export function InterviewFeedbackForm() {
                             </div>
                         </CardContent>
                     </Card>
-                    <Textarea placeholder="Candidate's key strengths..." {...form.register('strengths')} rows={4}/>
-                    <Textarea placeholder="Candidate's areas for improvement..." {...form.register('weaknesses')} rows={4}/>
-                    <Textarea placeholder="Any other notes or observations..." {...form.register('notes')} rows={4}/>
+                    <Textarea placeholder="Candidate's key strengths (provide specific examples)..." {...form.register('strengths')} rows={4}/>
+                    <Textarea placeholder="Candidate's areas for improvement or weaknesses (provide examples)..." {...form.register('weaknesses')} rows={4}/>
+                    <Textarea placeholder="Any other notes, observations, or red flags..." {...form.register('notes')} rows={4}/>
                      <div>
                         <Label className="mb-2 block font-semibold">Overall Recommendation</Label>
                         <RadioGroup onValueChange={(val: "Strong Hire" | "Hire" | "No Hire" | "Strong No Hire") => form.setValue('overallRecommendation', val)} defaultValue={form.getValues('overallRecommendation')} className="flex flex-wrap gap-4">

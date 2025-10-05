@@ -114,10 +114,11 @@ export function CompanyCultureGuideForm() {
     }
   });
 
-  const SectionCard = ({ title, icon: Icon, children }: { title: string, icon: React.ElementType, children: React.ReactNode }) => (
+  const SectionCard = ({ title, icon: Icon, description, children }: { title: string, icon: React.ElementType, description: string, children: React.ReactNode }) => (
       <Card>
         <CardHeader>
           <CardTitle className="flex items-center gap-2"><Icon className="text-primary"/> {title}</CardTitle>
+          <CardDescription>{description}</CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">
           {children}
@@ -133,39 +134,41 @@ export function CompanyCultureGuideForm() {
                   <Users className="h-10 w-10 text-primary" />
                 </div>
                 <CardTitle className="text-3xl">Company Culture Guide Builder</CardTitle>
-                <CardDescription>Define and document your company's values and ways of working.</CardDescription>
+                <CardDescription className="max-w-2xl mx-auto">
+                    A strong, well-defined culture is the foundation of any successful company, especially in a remote-first Web3 environment. This tool helps you articulate and document your company's core principles, creating a guide to align your team and attract the right talent.
+                </CardDescription>
             </CardHeader>
             <CardContent>
                 <form className="space-y-6">
                     <Input placeholder="Company Name" {...form.register('companyName')} />
                     
-                    <SectionCard title="Mission & Vision" icon={Target}>
-                      <Textarea placeholder="Company Mission" {...form.register('mission')} rows={3}/>
-                      <Textarea placeholder="Company Vision" {...form.register('vision')} rows={3}/>
+                    <SectionCard title="Mission & Vision" icon={Target} description="Define your company's ultimate purpose and long-term aspiration.">
+                      <Textarea placeholder="What is your company's core purpose? What problem are you solving?" {...form.register('mission')} rows={3}/>
+                      <Textarea placeholder="What is the future you are trying to build? What does success look like in 5-10 years?" {...form.register('vision')} rows={3}/>
                     </SectionCard>
                     
-                    <SectionCard title="Core Values" icon={CheckCircle}>
+                    <SectionCard title="Core Values" icon={CheckCircle} description="List the fundamental beliefs and principles that guide your team's behavior.">
                         {fields.map((field, index) => (
                             <div key={field.id} className="p-4 border rounded-lg space-y-2 relative bg-secondary/30">
                                 <Input placeholder="Value Name (e.g., Transparency)" {...form.register(`values.${index}.name`)} />
-                                <Textarea placeholder="Value Description" {...form.register(`values.${index}.description`)} />
+                                <Textarea placeholder="Describe what this value looks like in practice at your company." {...form.register(`values.${index}.description`)} />
                                   <Button variant="ghost" size="icon" className="absolute top-1 right-1" onClick={() => remove(index)}><Trash2 className="h-4 w-4 text-destructive"/></Button>
                             </div>
                         ))}
                         <Button type="button" variant="outline" onClick={() => append({ name: '', description: '' })}><Plus className="mr-2 h-4 w-4"/> Add Value</Button>
                     </SectionCard>
                     
-                    <SectionCard title="Ways of Working" icon={Zap}>
-                       <Textarea placeholder="Describe your communication style (e.g., async-first, tools used)..." {...form.register('communication')} rows={4} />
-                       <Textarea placeholder="How are decisions made? (e.g. consensus-driven, top-down)..." {...form.register('decisionMaking')} rows={4} />
-                       <Textarea placeholder="How do you handle feedback? (e.g. radical candor, 360 reviews)..." {...form.register('feedbackCulture')} rows={4} />
-                       <Textarea placeholder="Describe your philosophy on meetings..." {...form.register('meetingPhilosophy')} rows={4} />
-                       <Textarea placeholder="Describe your team rituals (e.g., daily stand-ups, weekly all-hands)..." {...form.register('rituals')} rows={4} />
+                    <SectionCard title="Ways of Working" icon={Zap} description="Detail the practical philosophies that define your day-to-day operations.">
+                       <Textarea placeholder="Describe your communication style (e.g., async-first, tools used, expectations for response times)..." {...form.register('communication')} rows={4} />
+                       <Textarea placeholder="How are decisions made? (e.g. consensus-driven, top-down, responsible individuals)..." {...form.register('decisionMaking')} rows={4} />
+                       <Textarea placeholder="How do you handle feedback? (e.g. radical candor, 360 reviews, continuous feedback)..." {...form.register('feedbackCulture')} rows={4} />
+                       <Textarea placeholder="Describe your philosophy on meetings (e.g., when they are necessary, format, length)..." {...form.register('meetingPhilosophy')} rows={4} />
+                       <Textarea placeholder="What are your team's recurring rituals? (e.g., daily stand-ups, weekly all-hands, offsites)..." {...form.register('rituals')} rows={4} />
                     </SectionCard>
 
-                    <SectionCard title="People & Tools" icon={Settings}>
-                      <Textarea placeholder="What do you look for in new team members?" {...form.register('hiringPhilosophy')} rows={4} />
-                      <Textarea placeholder="What are the main tools you use? (e.g. Slack, Notion, Figma)..." {...form.register('tools')} rows={4} />
+                    <SectionCard title="People & Tools" icon={Settings} description="Outline your approach to hiring and the tools that power your team.">
+                      <Textarea placeholder="What do you look for in new team members? What qualities define a successful hire?" {...form.register('hiringPhilosophy')} rows={4} />
+                      <Textarea placeholder="What are the main tools you use for communication, project management, and design?" {...form.register('tools')} rows={4} />
                     </SectionCard>
                 </form>
             </CardContent>

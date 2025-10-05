@@ -158,7 +158,9 @@ export function WorkLifeBalanceSurveyForm() {
                   <Scale className="h-10 w-10 text-primary" />
                 </div>
                 <CardTitle className="text-3xl">Work-Life Balance Survey Builder</CardTitle>
-                <CardDescription>Generate a survey to assess and improve your team's work-life balance.</CardDescription>
+                <CardDescription className="max-w-2xl mx-auto">
+                  Use this anonymous survey to get an honest assessment of your team's work-life balance. Understanding workload, stress levels, and support systems is key to preventing burnout and building a sustainable, high-performing team.
+                </CardDescription>
             </CardHeader>
             <CardContent>
                 <form className="space-y-8">
