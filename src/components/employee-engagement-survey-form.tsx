@@ -12,6 +12,7 @@ import { Download, Smile, Briefcase, ArrowRight } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 import { Slider } from './ui/slider';
+import { Separator } from './ui/separator';
 
 const engagementSurveySchema = z.object({
   satisfaction: z.number().min(1).max(10),
@@ -142,6 +143,7 @@ export function EmployeeEngagementSurveyForm() {
                         <Label>On a scale of 1-10, how satisfied are you with your opportunities for professional growth? ({form.watch('growth')})</Label>
                         <Slider defaultValue={[8]} max={10} min={1} step={1} onValueChange={(v) => form.setValue('growth', v[0])}/>
                     </div>
+                     <Separator />
                     <Textarea placeholder="What is something you're proud of accomplishing in the last quarter?" {...form.register('proudOf')} rows={3} />
                     <Textarea placeholder="What is one thing we could do to improve your experience here?" {...form.register('improvement')} rows={3} />
                     <Textarea placeholder="Any other thoughts or comments?" {...form.register('finalThoughts')} rows={3} />
@@ -170,3 +172,4 @@ export function EmployeeEngagementSurveyForm() {
     </div>
   );
 }
+    
