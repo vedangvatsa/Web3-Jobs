@@ -14,7 +14,7 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter }
 import Image from 'next/image';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { MediaCarousel } from './media-carousel';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { Skeleton } from '@/components/ui/skeleton';
 import type { WebSite } from 'schema-dts';
 import Script from 'next/script';
@@ -25,6 +25,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel"
+import Autoplay from "embla-carousel-autoplay"
 
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
@@ -270,6 +271,10 @@ export function CommunityPageContent({
 }) {
   const siteUrl = 'https://hashtagweb3.com';
 
+  const plugin = useRef(
+    Autoplay({ delay: 2000, stopOnInteraction: false })
+  );
+
   const mainPages = [
     { name: 'Web3 Jobs', url: `${siteUrl}/jobs` },
     { name: 'Web3 News', url: `${siteUrl}/news` },
@@ -410,7 +415,12 @@ export function CommunityPageContent({
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Community Moments</h2>
             <p className="text-center text-muted-foreground mb-8">Highlights from events, partnerships, and community activities.</p>
-            <Carousel className="w-full max-w-5xl mx-auto">
+            <Carousel 
+              className="w-full max-w-5xl mx-auto"
+              plugins={[plugin.current]}
+              onMouseEnter={() => plugin.current.stop()}
+              onMouseLeave={() => plugin.current.play()}
+            >
               <CarouselContent>
                 {communityPhotos.map((photo, index) => (
                   <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
