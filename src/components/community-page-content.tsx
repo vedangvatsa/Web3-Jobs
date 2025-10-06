@@ -1,3 +1,4 @@
+
 'use client';
 
 import { Header } from '@/components/header';
@@ -17,6 +18,13 @@ import { useState, useEffect } from 'react';
 import { Skeleton } from '@/components/ui/skeleton';
 import type { WebSite } from 'schema-dts';
 import Script from 'next/script';
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from "@/components/ui/carousel"
 
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
@@ -402,20 +410,30 @@ export function CommunityPageContent({
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Community Moments</h2>
             <p className="text-center text-muted-foreground mb-8">Highlights from events, partnerships, and community activities.</p>
-            <div className="columns-2 md:columns-3 lg:columns-4 gap-4 space-y-4">
-              {communityPhotos.map((photo, index) => (
-                <div key={index} className="overflow-hidden rounded-lg break-inside-avoid">
-                  <Image
-                    src={photo.src}
-                    alt={photo.alt}
-                    width={400}
-                    height={400}
-                    className="object-cover w-full h-auto"
-                    unoptimized
-                  />
-                </div>
-              ))}
-            </div>
+            <Carousel className="w-full max-w-5xl mx-auto">
+              <CarouselContent>
+                {communityPhotos.map((photo, index) => (
+                  <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
+                    <div className="p-1">
+                      <Card className="overflow-hidden">
+                        <CardContent className="flex aspect-square items-center justify-center p-0">
+                          <Image
+                            src={photo.src}
+                            alt={photo.alt}
+                            width={500}
+                            height={500}
+                            className="object-cover w-full h-full"
+                            unoptimized
+                          />
+                        </CardContent>
+                      </Card>
+                    </div>
+                  </CarouselItem>
+                ))}
+              </CarouselContent>
+              <CarouselPrevious className="hidden sm:flex" />
+              <CarouselNext className="hidden sm:flex" />
+            </Carousel>
           </section>
 
           <section className="mb-16">
