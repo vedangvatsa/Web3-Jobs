@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Create and download professional offer letters for your next Web3 hire. Free and easy to use.',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-offer-letter.png',
+        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
         width: 1200,
         height: 630,
         alt: 'Web3 Offer Letter Customizer',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Web3 Offer Letter Customizer | Hashtag Web3',
     description: 'Create professional offer letters for Web3 roles in seconds.',
-    images: ['https://hashtagweb3.com/og-image-offer-letter.png'],
+    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
   },
 };
 

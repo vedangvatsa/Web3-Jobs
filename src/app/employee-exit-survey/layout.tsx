@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Understand why employees leave and how you can improve. Create a professional exit survey with our free tool.',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-exit-survey.png',
+        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
         width: 1200,
         height: 630,
         alt: 'Employee Exit Survey Tool',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Employee Exit Survey Tool | Hashtag Web3',
     description: 'Create professional employee exit surveys in seconds.',
-    images: ['https://hashtagweb3.com/og-image-exit-survey.png'],
+    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
   },
 };
 

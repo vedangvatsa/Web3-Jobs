@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Craft the perfect job description to attract top Web3 talent with our free and easy-to-use builder.',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-jd-builder.png',
+        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
         width: 1200,
         height: 630,
         alt: 'Web3 Job Description Builder',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Web3 Job Description Builder | Hashtag Web3',
     description: 'Craft the perfect job description to attract top Web3 talent.',
-    images: ['https://hashtagweb3.com/og-image-jd-builder.png'],
+    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
   },
 };
 
