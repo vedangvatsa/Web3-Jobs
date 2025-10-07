@@ -1,13 +1,21 @@
 
+
 import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
 import { getNewsFeed } from '@/lib/news';
 import type { Article, NewsItem, Job } from '@/types';
-import type { WebPage } from 'schema-dts';
 import { CommunityPageContent } from '@/components/community-page-content';
+import { Metadata } from 'next';
+import type { WebPage } from 'schema-dts';
+
 
 export const revalidate = 43200; // Revalidate every 12 hours
+
+export const metadata: Metadata = {
+  title: 'Hashtag Web3 | A Global Web3 Community & Job Board',
+  description: 'Join the Hashtag Web3 global community. Network with professionals, access exclusive career resources and tools, and stay ahead in the world of crypto, blockchain, and Web3 technology.',
+};
 
 export default async function Page() {
   const latestJobs = (await getJobs());
