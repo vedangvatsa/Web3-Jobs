@@ -47,10 +47,10 @@ export function Header() {
         { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks },
         { href: "/interview-feedback-template", label: "Interview Feedback", icon: Mic },
         { href: "/employee-exit-survey", label: "Employee Exit Survey", icon: UserMinus },
-        { href: "/tools/employee-milestones-tracker", label: "Milestones Tracker", icon: Milestone },
-        { href: "/tools/employee-engagement-survey", label: "Engagement Survey", icon: Smile },
-        { href: "/tools/work-life-balance-survey", label: "Work-Life Balance Survey", icon: Scale },
-        { href: "/tools/company-culture-guide", label: "Company Culture Guide", icon: Users },
+        { href: "/employee-milestones-tracker", label: "Milestones Tracker", icon: Milestone },
+        { href: "/employee-engagement-survey", label: "Engagement Survey", icon: Smile },
+        { href: "/work-life-balance-survey", label: "Work-Life Balance Survey", icon: Scale },
+        { href: "/company-culture-guide", label: "Company Culture Guide", icon: Users },
     ];
 
     const socialLinks = [
