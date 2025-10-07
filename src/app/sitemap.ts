@@ -114,7 +114,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "how-to-get-started-as-a-web3-ux-designer",
     "how-to-keep-up-with-web3-job-market",
     "how-to-land-high-paying-gigs",
-    "how-to-land-your-first-web3-job",
     "how-to-make-money-with-web3",
     "how-to-navigate-a-career-in-web3-socialfi-development",
     "how-to-pass-a-solidity-technical-interview",
