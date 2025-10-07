@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Find the perfect country to work from with our comprehensive list of digital nomad visas.',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-visas.png',
+        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
         width: 1200,
         height: 630,
         alt: 'Digital Nomad Visa List',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Digital Nomad Visa List | Hashtag Web3',
     description: 'Find the perfect country to work from with our comprehensive list of digital nomad visas.',
-    images: ['https://hashtagweb3.com/og-image-visas.png'],
+    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
   },
 };
 

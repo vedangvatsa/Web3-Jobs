@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Optimize your remote setup. Our checklist covers everything from ergonomics to security for Web3 professionals.',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-checklist.png',
+        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
         width: 1200,
         height: 630,
         alt: 'Remote Work Checklist',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Remote Work Readiness Checklist | Hashtag Web3',
     description: 'Optimize your remote setup for a successful Web3 career.',
-    images: ['https://hashtagweb3.com/og-image-checklist.png'],
+    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
   },
 };
 

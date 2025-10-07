@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Plan and track employee growth with our free milestones tracker template.',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-milestones-tracker.png',
+        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
         width: 1200,
         height: 630,
         alt: 'Employee Milestones Tracker',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Employee Milestones Tracker | Hashtag Web3',
     description: 'Create structured 30-60-90 day plans for your employees.',
-    images: ['https://hashtagweb3.com/og-image-milestones-tracker.png'],
+    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
   },
 };
 

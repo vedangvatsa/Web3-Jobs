@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Ensure a smooth onboarding for your new Web3 hires with our comprehensive checklist.',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-onboarding-checklist.png',
+        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
         width: 1200,
         height: 630,
         alt: 'Web3 Employee Onboarding Checklist',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Web3 Employee Onboarding Checklist | Hashtag Web3',
     description: 'The ultimate checklist for onboarding new talent in the Web3 space.',
-    images: ['https://hashtagweb3.com/og-image-onboarding-checklist.png'],
+    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
   },
 };
 

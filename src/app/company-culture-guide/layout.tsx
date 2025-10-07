@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     description: 'Define and share your company culture. Our free tool helps you create a professional culture guide.',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-culture-guide.png',
+        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
         width: 1200,
         height: 630,
         alt: 'Company Culture Guide Builder',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Company Culture Guide Builder | Hashtag Web3',
     description: 'Create a professional company culture guide in seconds.',
-    images: ['https://hashtagweb3.com/og-image-culture-guide.png'],
+    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
   },
 };
 
