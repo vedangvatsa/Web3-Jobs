@@ -420,6 +420,9 @@ export function CommunityPageContent({
               plugins={[plugin.current]}
               onMouseEnter={() => plugin.current.stop()}
               onMouseLeave={() => plugin.current.play()}
+               opts={{
+                loop: true,
+              }}
             >
               <CarouselContent>
                 {communityPhotos.map((photo, index) => (
