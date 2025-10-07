@@ -1,6 +1,6 @@
 ---
-title: "From Web3 Side Hustle to a Full-Time Career"
-image: "/images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg"
+title: "Hidden Freelance Jobs That Pay You in Crypto"
+image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
 data-ai-hint: "side hustle laptop"
 description: "A guide to the world of Web3 freelancing. Learn how to find and complete bounties, build a reputation in DAOs, and turn part-time contributions into a full-time career."
 category: "Career Guides"
@@ -60,3 +60,5 @@ Consistently completing bounties is how you build a reputation within a DAO. As 
 5.  **The Full-Time Offer:** After months of consistent, high-impact work, the DAO or the core team behind it may approach you with an offer for a full-time, salaried position. At this point, the interview is just a formality; your proof of work has already spoken for itself.
 
 The path from a side hustle to a career in Web3 is a journey of active participation. It's about finding a community you believe in, demonstrating your value through tangible contributions, and building a reputation as a reliable and skilled operator. In this new world of work, you don't have to ask for permission to get started. The door is open; you just have to walk through it and start building.
+
+Find your next freelance gig or full-time role on our [Web3 Job Board](/jobs).
