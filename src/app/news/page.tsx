@@ -11,7 +11,7 @@ import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { Button } from '@/components/ui/button';
 import { Skeleton } from '@/components/ui/skeleton';
 import type { NewsItem } from '@/types';
-import type { WebPage, NewsArticle } from 'schema-dts';
+import type { WebPage, NewsArticle, WithContext } from 'schema-dts';
 
 function NewsCardSkeleton() {
   return (
@@ -63,10 +63,12 @@ export default function NewsPage() {
   ];
   
   const siteUrl = 'https://hashtagweb3.com';
-  const pageSchema: WebPage = {
+  
+  const pageSchema: WithContext<WebPage> = {
+    '@context': 'https://schema.org',
     '@type': 'WebPage',
     url: `${siteUrl}/news`,
-    name: "Web3 News | Hashtag Web3",
+    name: "Web3 News Feed | Hashtag Web3",
     isPartOf: {
       '@type': 'WebSite',
       url: siteUrl,
@@ -75,7 +77,8 @@ export default function NewsPage() {
     description: "The latest news and headlines from the world of Web3, cryptocurrency, and blockchain technology, aggregated from top industry sources.",
   };
 
-  const newsArticlesSchema: NewsArticle[] = newsItems.map(item => ({
+  const newsArticlesSchema: WithContext<NewsArticle>[] = newsItems.map(item => ({
+    '@context': 'https://schema.org',
     '@type': 'NewsArticle',
     headline: item.title,
     url: item.link,
