@@ -1,10 +1,6 @@
 
 'use client';
 
-import { Header } from '@/components/header';
-import { getAllArticles } from '@/lib/articles';
-import { getJobs } from '@/lib/jobs';
-import { getNewsFeed } from '@/lib/news';
 import type { Job, Article, NewsItem } from '@/types';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
@@ -269,37 +265,12 @@ export function CommunityPageContent({
     latestArticles: Omit<Article, 'content'>[],
     latestNews: NewsItem[]
 }) {
-  const siteUrl = 'https://hashtagweb3.com';
-
   const plugin = useRef(
     Autoplay({ delay: 2000, stopOnInteraction: false })
   );
-
-  const mainPages = [
-    { name: 'Web3 Jobs', url: `${siteUrl}/jobs` },
-    { name: 'Web3 News', url: `${siteUrl}/news` },
-    { name: 'Web3 Playbook', url: `${siteUrl}/blog` },
-    { name: 'Web3 Academy', url: 'https://academy.hashtagweb3.com/' },
-  ];
-
-  const websiteSchema: WebSite = {
-    '@type': 'WebSite',
-    name: 'Hashtag Web3',
-    url: siteUrl,
-    hasPart: mainPages.map(page => ({
-        '@type': 'WebPage',
-        name: page.name,
-        url: page.url,
-    })),
-  };
-
+  
   return (
     <div className="py-16 bg-background">
-      <Script
-        id="website-schema"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
-      />
         <div className="container mx-auto px-4 py-8 md:py-16">
           
           <section className="text-center mb-16 max-w-4xl mx-auto">
