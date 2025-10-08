@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     images: [
       {
-        url: `${siteConfig.url}/logo/previews/Hashtag%20Web3%20Community.jpeg`,
+        url: `${siteConfig.url}/og-image.png`,
         width: 1200,
         height: 630,
         alt: siteConfig.name,
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     },
     description: siteConfig.description,
     creator: "@hashtag_web3",
-    images: [`${siteConfig.url}/logo/previews/Hashtag%20Web3%20Community.jpeg`],
+    images: [`${siteConfig.url}/og-image.png`],
   },
   alternates: {
     canonical: '/',
