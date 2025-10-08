@@ -1852,5 +1852,3 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
-
-    
