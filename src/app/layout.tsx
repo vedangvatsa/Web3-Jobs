@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
   keywords: ["web3 jobs", "blockchain jobs", "crypto jobs", "developer jobs", "web3 careers", "solidity jobs", "smart contract jobs", "defi jobs", "dao jobs", "remote web3 jobs", "blockchain developer salary"],
-  authors: [{ name: "Hashtag Web3", url: siteCode.url }],
+  authors: [{ name: "Hashtag Web3", url: siteConfig.url }],
   creator: "Hashtag Web3",
   openGraph: {
     type: "website",
