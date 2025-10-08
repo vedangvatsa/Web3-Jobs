@@ -11,6 +11,19 @@ const nextConfig: NextConfig = {
     ignoreDuringBuilds: true,
   },
   async headers() {
+    const cspHeader = `
+      default-src 'self';
+      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://vercel.ai;
+      style-src 'self' 'unsafe-inline';
+      img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos;
+      font-src 'self';
+      object-src 'none';
+      base-uri 'self';
+      form-action 'self';
+      frame-ancestors 'none';
+      connect-src 'self' https://vitals.vercel-insights.com;
+    `.replace(/\s{2,}/g, ' ').trim();
+
     return [
       {
         // Apply these headers to all routes in your application.
@@ -20,6 +33,10 @@ const nextConfig: NextConfig = {
             key: 'X-Frame-Options',
             value: 'SAMEORIGIN',
           },
+           {
+            key: 'Content-Security-Policy',
+            value: cspHeader,
+          }
         ],
       },
       {
