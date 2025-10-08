@@ -1,3 +1,4 @@
+
 'use server';
 
 import Parser from 'rss-parser';
@@ -18,14 +19,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Partner Marketer",
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5628728004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/2b9a141e-0669-4197-aa52-2b07d9fadc96?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Software Engineer - Platform",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/2b9a141e-0669-4197-aa52-2b07d9fadc96?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -58,14 +51,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Senior Communications Manager, Walrus",
         "company": "Mysten Labs",
         "link": "https://jobs.ashbyhq.com/mystenlabs/7faf0127-1e2d-4a2e-808c-24868daa9a3a?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/9006a802-8d9c-43a3-b566-dca55ce73819?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Senior Revenue Accountant",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/9006a802-8d9c-43a3-b566-dca55ce73819?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -106,14 +91,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Senior Staff Engineer, Spark",
         "company": "Lightspark",
         "link": "https://jobs.ashbyhq.com/lightspark/e207e505-6b0c-4f1f-ae97-6e75dbd9fbeb?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/valon/jobs/4589818006",
-        "title": "Director, Product Management (Consumer)",
-        "company": "Valon",
-        "link": "https://job-boards.greenhouse.io/valon/jobs/4589818006",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -230,14 +207,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://jobs.lever.co/plaid/9d15c09f-d352-4c9d-aeb5-408b883cc2e8?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Sales Engineer - Enterprise",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/9d15c09f-d352-4c9d-aeb5-408b883cc2e8?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5625060004",
         "title": "Senior Program Manager - Financial Crimes",
         "company": "Mercury",
@@ -258,14 +227,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Staff Machine Learning Platform Engineer",
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7178471",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/eed2fec0-67fe-4a1d-a237-3b9b5bf9f114?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Product Marketing Manager - Industry",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/eed2fec0-67fe-4a1d-a237-3b9b5bf9f114?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -838,14 +799,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://jobs.lever.co/anchorage/56aedded-c959-4488-b265-5cc42a182dca?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Communications Manager",
-        "company": "Anchorage",
-        "link": "https://jobs.lever.co/anchorage/56aedded-c959-4488-b265-5cc42a182dca?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5616373004",
         "title": "Senior Model Risk Manager",
         "company": "Mercury",
@@ -978,14 +931,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "VP, Privacy Compliance",
         "company": "Cross River",
         "link": "https://www.crossriver.com/greenhouse?gh_jid=6675219003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/1e5eec65-94f7-4d0a-9269-857f35503850?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Senior Database Administrator",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/1e5eec65-94f7-4d0a-9269-857f35503850?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -1374,14 +1319,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://jobs.lever.co/greenlight/6c134303-b93d-47c9-b326-61b9180b26f8?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Senior Security GRC Analyst",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/6c134303-b93d-47c9-b326-61b9180b26f8?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/cruxclimate/2b291beb-a097-4426-8f5b-914b8903f29a?utm_source=jobs.a16z.com",
         "title": "Sr. Manager, Capital Markets - Transactions",
         "company": "Crux",
@@ -1550,478 +1487,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://jobs.lever.co/greenlight/f90ad92a-f882-4bec-8a27-cc22d7da843b?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Account Executive, Financial Institutions",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/f90ad92a-f882-4bec-8a27-cc22d7da843b?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/tryjeeves/485c59da-634e-4be4-89c4-bd7413237bf6?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Account Executive",
-        "company": "Jeeves",
-        "link": "https://jobs.lever.co/tryjeeves/485c59da-634e-4be4-89c4-bd7413237bf6?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/tryjeeves/dc80fea9-3432-44ba-9f52-aa33f713b137?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Sales Development Representative",
-        "company": "Jeeves",
-        "link": "https://jobs.lever.co/tryjeeves/dc80fea9-3432-44ba-9f52-aa33f713b137?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Talos-Trading/40521504-758c-4302-96c6-41f4f6b5110d?utm_source=jobs.a16z.com",
-        "title": "Software Engineer Intern, Connectivity",
-        "company": "Talos",
-        "link": "https://jobs.ashbyhq.com/Talos-Trading/40521504-758c-4302-96c6-41f4f6b5110d?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/addi/e66ee272-aaaa-42d7-8904-9ac029adca3d?utm_source=jobs.a16z.com",
-        "title": "Fraud Quality & Continuous Improvement Analyst",
-        "company": "ADDI",
-        "link": "https://jobs.ashbyhq.com/addi/e66ee272-aaaa-42d7-8904-9ac029adca3d?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/041ad8e6-892f-4a92-b086-4fb159d86962?utm_source=jobs.a16z.com",
-        "title": "Senior Partnerships Manager | ANZ",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/041ad8e6-892f-4a92-b086-4fb159d86962?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/e86d4330-54e8-4bdc-8398-70cb5f751eed?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | Argentina",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/e86d4330-54e8-4bdc-8398-70cb5f751eed?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/a8c52399-43ce-4e22-9451-ef8d20f518dd?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | Brazil",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/a8c52399-43ce-4e22-9451-ef8d20f518dd?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://recruiterflow.com/coinswitch/jobs/549",
-        "title": "Associate Manager - Compliance",
-        "company": "CoinSwitch Kuber",
-        "link": "https://recruiterflow.com/coinswitch/jobs/549",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/carta/jobs/6668008003",
-        "title": "Accounts Receivable Accountant",
-        "company": "Carta",
-        "link": "https://job-boards.greenhouse.io/carta/jobs/6668008003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513?utm_source=jobs.a16z.com",
-        "title": "Client Services Intern, London",
-        "company": "Talos",
-        "link": "https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/20de3e06-b144-4bcc-bdd0-19304295ae16?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | Brazil",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/20de3e06-b144-4bcc-bdd0-19304295ae16?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Solana%20Foundation/6be29283-a2e0-48f4-b388-d06f48e240b3?utm_source=jobs.a16z.com",
-        "title": "Solana Program Engineer",
-        "company": "Solana Foundation",
-        "link": "https://jobs.ashbyhq.com/Solana%20Foundation/6be29283-a2e0-48f4-b388-d06f48e240b3?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/72badd5f-65c5-43e7-889e-ad6315cdd9d2?utm_source=jobs.a16z.com",
-        "title": "Payroll Associate | Brazil",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/72badd5f-65c5-43e7-889e-ad6315cdd9d2?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/0b0fc350-cc06-42ee-bfc7-b9b02f6e9e10?utm_source=jobs.a16z.com",
-        "title": "Senior Manager, Account Executive, Mobility, Enterprise | North America",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/0b0fc350-cc06-42ee-bfc7-b9b02f6e9e10?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/1e2cb7b5-8ec3-4e1e-a64f-599d2e762b3a?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | Mexico",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/1e2cb7b5-8ec3-4e1e-a64f-599d2e762b3a?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Bastion/eecdd936-e6df-442a-9538-73fc72fa7af5?utm_source=jobs.a16z.com",
-        "title": "Chief of Staff to the COO",
-        "company": "Bastion",
-        "link": "https://jobs.ashbyhq.com/Bastion/eecdd936-e6df-442a-9538-73fc72fa7af5?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Talos-Trading/4111bcc1-c02d-4122-a1bc-839eda0fefa4?utm_source=jobs.a16z.com",
-        "title": "Client Services Intern, Singapore",
-        "company": "Talos",
-        "link": "https://jobs.ashbyhq.com/Talos-Trading/4111bcc1-c02d-4122-a1bc-839eda0fefa4?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/28db7efc-7956-40a8-b3d2-761f813cb78d?utm_source=jobs.a16z.com",
-        "title": "Legal Counsel | Nordics",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/28db7efc-7956-40a8-b3d2-761f813cb78d?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/ef92db32-3e2a-4ec0-ad40-6ac083322366?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | Mexico",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/ef92db32-3e2a-4ec0-ad40-6ac083322366?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/563d8d3a-0c59-4660-b540-6d2f78abe8ad?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | Brazil",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/563d8d3a-0c59-4660-b540-6d2f78abe8ad?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/eigen-labs/555aa727-9756-47ef-bd3d-61401c2bc86b?utm_source=jobs.a16z.com",
-        "title": "Senior Accountant",
-        "company": "EigenLayer",
-        "link": "https://jobs.ashbyhq.com/eigen-labs/555aa727-9756-47ef-bd3d-61401c2bc86b?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/a31952af-be3d-4495-9638-888673c40424?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Sales Engineer Manager - SMB",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/a31952af-be3d-4495-9638-888673c40424?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/98247648-3415-4a74-a28e-1ec425b0ad71?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Sales Engineer - SMB",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/98247648-3415-4a74-a28e-1ec425b0ad71?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4586390005",
-        "title": "Senior Design Lead",
-        "company": "UniSwap",
-        "link": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4586390005",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602673004",
-        "title": "Compliance Risk Manager - Investments",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602673004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602671004",
-        "title": "Senior Internal Auditor",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602671004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/valon/jobs/4589062006",
-        "title": "Forward Deployed Engineer",
-        "company": "Valon",
-        "link": "https://job-boards.greenhouse.io/valon/jobs/4589062006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://www.cedar.com/open-roles/?gh_jid=7118065",
-        "title": "Sr. Group Lead, Implementation",
-        "company": "Cedar",
-        "link": "https://www.cedar.com/open-roles/?gh_jid=7118065",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602375004",
-        "title": "Senior IT Auditor",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602375004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602361004",
-        "title": "Compliance Training Program Manager",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602361004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/addi/d4e5cf76-da8c-4af7-93eb-4237e0905d1b?utm_source=jobs.a16z.com",
-        "title": "Fraud Trainer",
-        "company": "ADDI",
-        "link": "https://jobs.ashbyhq.com/addi/d4e5cf76-da8c-4af7-93eb-4237e0905d1b?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/phantom/a7429fbb-7aa4-4901-916a-8ab06e0d091c?utm_source=jobs.a16z.com",
-        "title": "Product Marketer",
-        "company": "Phantom",
-        "link": "https://jobs.ashbyhq.com/phantom/a7429fbb-7aa4-4901-916a-8ab06e0d091c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5602192004",
-        "title": "Senior Card Fraud Investigator",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5602192004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/momentmarkets/jobs/4806433007",
-        "title": "People Operations Associate",
-        "company": "Moment",
-        "link": "https://job-boards.greenhouse.io/momentmarkets/jobs/4806433007",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/valon/jobs/4588927006",
-        "title": "Counsel",
-        "company": "Valon",
-        "link": "https://job-boards.greenhouse.io/valon/jobs/4588927006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://www.crossriver.com/greenhouse?gh_jid=6644889003",
-        "title": "Associate, Talent Management Specialist",
-        "company": "Cross River",
-        "link": "https://www.crossriver.com/greenhouse?gh_jid=6644889003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4590829005",
-        "title": "Senior Data Scientist",
-        "company": "UniSwap",
-        "link": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4590829005",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/propel/jobs/8098808002",
-        "title": "Senior Growth Marketing Manager",
-        "company": "Propel",
-        "link": "https://job-boards.greenhouse.io/propel/jobs/8098808002",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/avalabs/jobs/5601116004",
-        "title": "Senior Software Engineer, Core Web",
-        "company": "Ava Labs",
-        "link": "https://job-boards.greenhouse.io/avalabs/jobs/5601116004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/valon/jobs/4588897006",
-        "title": "Default Analyst - Bankruptcy",
-        "company": "Valon",
-        "link": "https://job-boards.greenhouse.io/valon/jobs/4588897006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Adaptive/13157967-3db1-4360-9be5-2313706f74be?utm_source=jobs.a16z.com",
-        "title": "Growth Engineer",
-        "company": "Adaptive",
-        "link": "https://jobs.ashbyhq.com/Adaptive/13157967-3db1-4360-9be5-2313706f74be?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/78f2ad3e-3730-45ad-91d1-605f80706fd8?utm_source=jobs.a16z.com",
-        "title": "Associate Operations Manager, GTM Strategy",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/78f2ad3e-3730-45ad-91d1-605f80706fd8?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/18bd79de-2958-412e-b19c-94d13ecc78e7?utm_source=jobs.a16z.com",
-        "title": "Staff Mechanical Engineer, Device",
-        "company": "Worldcoin",
-        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/18bd79de-2958-412e-b19c-94d13ecc78e7?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/method/a379babd-9e7d-483e-a052-6e8dbd0f1cbc?utm_source=jobs.a16z.com",
-        "title": "Design Engineer",
-        "company": "Method",
-        "link": "https://jobs.ashbyhq.com/method/a379babd-9e7d-483e-a052-6e8dbd0f1cbc?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/f4babda9-189f-43c3-8bdc-66cfbe8d4a61?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Marketing Technology Manager",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/f4babda9-189f-43c3-8bdc-66cfbe8d4a61?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4591397005",
-        "title": "Deal Desk Analyst",
-        "company": "Pave",
-        "link": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4591397005",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/0be386af-bae2-4e0e-a7d3-3b104cf9e753?utm_source=jobs.a16z.com",
-        "title": "Accountant I",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/0be386af-bae2-4e0e-a7d3-3b104cf9e753?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/2a38cb22-52ee-4b13-bb04-0d0b1e1841f1?utm_source=jobs.a16z.com",
-        "title": "Senior Customer Success Manager, Enterprise | EMEA",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/2a38cb22-52ee-4b13-bb04-0d0b1e1841f1?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/664479d6-fecc-423c-8763-2d0986c137e1?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Product Marketing Manager - Europe",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/664479d6-fecc-423c-8763-2d0986c137e1?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/710aeb62-d457-4424-84b6-4ee133fafe37?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Growth Marketing Manager - Europe",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/710aeb62-d457-4424-84b6-4ee133fafe37?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://www.crossriver.com/greenhouse?gh_jid=6666584003",
-        "title": "Analyst, MPL Accounting",
-        "company": "Cross River",
-        "link": "https://www.crossriver.com/greenhouse?gh_jid=6666584003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/7cebc6de-d064-4a84-8d07-c05d7786562c?utm_source=jobs.a16z.com",
-        "title": "Payroll Analyst | Mexico",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/7cebc6de-d064-4a84-8d07-c05d7786562c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/blackbird/jobs/4588662006",
-        "title": "Field Operations Contractor",
-        "company": "Blackbird",
-        "link": "https://job-boards.greenhouse.io/blackbird/jobs/4588662006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/74accf80-9949-4bc9-8b6a-dce116b5d51d?utm_source=jobs.a16z.com",
-        "title": "Sales Lead, South Korea",
-        "company": "Worldcoin",
-        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/74accf80-9949-4bc9-8b6a-dce116b5d51d?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/d61d48f4-0ae2-4f9f-bbe5-a9116c2bb79b?utm_source=jobs.a16z.com",
-        "title": "Senior Payroll Associate, Australia Payroll | Philippines & India",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/d61d48f4-0ae2-4f9f-bbe5-a9116c2bb79b?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Talos-Trading/9335b34f-a930-497f-bece-bca4c19506c1?utm_source=jobs.a16z.com",
-        "title": "Corporate Strategy, Manager",
-        "company": "Talos",
-        "link": "https://jobs.ashbyhq.com/Talos-Trading/9335b34f-a930-497f-bece-bca4c19506c1?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/b02322bd-c9c8-4067-bf60-1bb4cf98b8bd?utm_source=jobs.a16z.com",
-        "title": "Payroll Service Delivery Manager",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/b02322bd-c9c8-4067-bf60-1bb4cf98b8bd?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/sentilink/43b1d0bd-94de-4d8a-aaea-cae67e03da2a?utm_source=jobs.a16z.com",
-        "title": "Data Science Manager",
-        "company": "SentiLink",
-        "link": "https://jobs.ashbyhq.com/sentilink/43b1d0bd-94de-4d8a-aaea-cae67e03da2a?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/tryjeeves/e6594e1f-1387-4556-a98c-7a31e9e03b4f?lever-source%5B%5D=jobs.a16z.com",
         "title": "Graphic Designer (Video & Social)",
         "company": "Jeeves",
@@ -2082,14 +1547,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Payroll Specialist | Mexico",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/88ac445b-635d-45d1-8ad7-1e4aadb6317a?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/529e32e5-d849-498f-b313-29b6cc99e593?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Account Executive - Named: FinTech",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/529e32e5-d849-498f-b313-29b6cc99e593?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2395,3 +1852,5 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
+
+    
