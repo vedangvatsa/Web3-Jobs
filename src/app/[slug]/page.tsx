@@ -31,9 +31,19 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
   const siteUrl = 'https://hashtagweb3.com';
 
+  const keywords = [
+    'web3', 
+    'crypto', 
+    'blockchain', 
+    ...article.title.toLowerCase().split(' '),
+    ...article.category.toLowerCase().split(' '),
+    ...(article['data-ai-hint']?.toLowerCase().split(' ') || [])
+  ].filter((v, i, a) => a.indexOf(v) === i); // Remove duplicates
+
   return {
     title: article.title,
     description: article.description,
+    keywords: keywords,
     openGraph: {
       title: article.title,
       description: article.description,
