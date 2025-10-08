@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Web3 Archetype Assessment',
     description: 'What\'s your Web3 personality? Take our assessment to find out.',
+    url: 'https://hashtagweb3.com/web3-career-quiz',
     images: [
       {
         url: 'https://hashtagweb3.com/og-image-quiz.png',

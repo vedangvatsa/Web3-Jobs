@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/salary-calculator',
     images: [
       {
-        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
+        url: 'https://hashtagweb3.com/og-image-tools.png',
         width: 1200,
         height: 630,
         alt: 'Web3 Salary Calculator',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Web3 Salary Calculator | Hashtag Web3',
     description: 'Estimate your potential salary in the crypto industry.',
-    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
+    images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };
 
