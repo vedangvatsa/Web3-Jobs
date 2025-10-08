@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles',
   description: 'The best job board for Web3, crypto, and blockchain roles. Discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.',
+  alternates: {
+    canonical: '/jobs',
+  },
   openGraph: {
     title: 'Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles',
     description: 'The best job board for Web3, crypto, and blockchain roles. Discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.',
+    url: 'https://hashtagweb3.com/jobs',
     images: [
       {
         url: 'https://hashtagweb3.com/og-image-jobs.png',

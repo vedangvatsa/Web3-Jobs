@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Digital Nomad Visa List',
   description: 'A comprehensive, searchable list of digital nomad visas for Web3 professionals looking to work from anywhere in the world.',
+  alternates: {
+    canonical: '/digital-nomad-visas',
+  },
    openGraph: {
     title: 'Digital Nomad Visa List',
     description: 'Find the perfect country to work from with our comprehensive list of digital nomad visas.',
+    url: 'https://hashtagweb3.com/digital-nomad-visas',
     images: [
       {
         url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',

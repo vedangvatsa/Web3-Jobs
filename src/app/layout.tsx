@@ -23,15 +23,15 @@ const siteConfig = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteConfig.url),
   title: {
     default: `Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles`,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
   keywords: ["web3 jobs", "blockchain jobs", "crypto jobs", "developer jobs", "web3 careers", "solidity jobs", "smart contract jobs", "defi jobs", "dao jobs", "remote web3 jobs", "blockchain developer salary"],
-  authors: [{ name: "Hashtag Web3", url: siteConfig.url }],
+  authors: [{ name: "Hashtag Web3", url: siteCode.url }],
   creator: "Hashtag Web3",
-  metadataBase: new URL(siteConfig.url),
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
     images: [`${siteConfig.url}/logo/previews/Hashtag%20Web3%20Community.jpeg`],
   },
   alternates: {
-    canonical: siteConfig.url,
+    canonical: '/',
   },
   icons: {
     icon: '/icon.png',

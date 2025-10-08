@@ -30,6 +30,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   const siteUrl = 'https://hashtagweb3.com';
+  const articleUrl = `${siteUrl}/${article.slug}`;
 
   const keywords = [
     'web3', 
@@ -44,11 +45,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     title: article.title,
     description: article.description,
     keywords: keywords,
+    alternates: {
+      canonical: articleUrl,
+    },
     openGraph: {
       title: article.title,
       description: article.description,
       type: 'article',
-      url: `${siteUrl}/${article.slug}`,
+      url: articleUrl,
       images: [
         {
           url: article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`,
