@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Employee Exit Survey Tool',
   description: 'A free tool to generate a comprehensive employee exit survey. Gather valuable feedback from departing team members to improve your company culture.',
+  alternates: {
+    canonical: '/employee-exit-survey',
+  },
   openGraph: {
     title: 'Employee Exit Survey Tool',
     description: 'Understand why employees leave and how you can improve. Create a professional exit survey with our free tool.',
+    url: 'https://hashtagweb3.com/employee-exit-survey',
     images: [
       {
         url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',

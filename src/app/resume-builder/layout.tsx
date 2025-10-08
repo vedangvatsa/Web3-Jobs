@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Web3 Resume Builder',
   description: 'Create a professional, crypto-native resume that stands out to recruiters. Build and download your Web3 resume for free.',
+  alternates: {
+    canonical: '/resume-builder',
+  },
   openGraph: {
     title: 'Web3 Resume Builder',
     description: 'Craft a resume tailored for the Web3 job market. Our free builder helps you highlight your on-chain experience.',
+    url: 'https://hashtagweb3.com/resume-builder',
     images: [
       {
         url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',

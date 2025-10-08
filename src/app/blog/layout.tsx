@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'The Web3 Playbook',
   description: 'Your complete guide to the world of Web3. Explore in-depth articles on careers, technology, and industry insights to navigate the decentralized economy.',
+  alternates: {
+    canonical: '/blog',
+  },
   openGraph: {
     title: 'The Web3 Playbook | Hashtag Web3',
     description: 'Explore in-depth articles on careers, technology, and industry insights to navigate the decentralized economy.',
+    url: 'https://hashtagweb3.com/blog',
     images: [
       {
         url: 'https://hashtagweb3.com/og-image-blog.png',

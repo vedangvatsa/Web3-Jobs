@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Web3 Job Description Builder',
   description: 'Easily create professional job descriptions for Web3 roles. Our free builder helps you outline responsibilities, qualifications, and more to attract top talent.',
+  alternates: {
+    canonical: '/jd-builder',
+  },
   openGraph: {
     title: 'Web3 Job Description Builder',
     description: 'Craft the perfect job description to attract top Web3 talent with our free and easy-to-use builder.',
+    url: 'https://hashtagweb3.com/jd-builder',
     images: [
       {
         url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',

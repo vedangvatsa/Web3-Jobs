@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Web3 Offer Letter Customizer',
   description: 'Generate professional offer letters for Web3 roles. Easily customize details like salary, token allocation, and vesting schedules to attract top talent.',
+  alternates: {
+    canonical: '/offer-letter-customizer',
+  },
   openGraph: {
     title: 'Web3 Offer Letter Customizer',
     description: 'Create and download professional offer letters for your next Web3 hire. Free and easy to use.',
+    url: 'https://hashtagweb3.com/offer-letter-customizer',
     images: [
       {
         url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',

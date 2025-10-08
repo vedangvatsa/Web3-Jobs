@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Web3 News Feed',
   description: 'The latest news and headlines from the world of Web3, cryptocurrency, and blockchain technology, aggregated from top industry sources.',
+  alternates: {
+    canonical: '/news',
+  },
   openGraph: {
     title: 'Web3 News Feed | Hashtag Web3',
     description: 'Stay updated with the latest in Web3. Our news feed aggregates top stories from across the crypto industry.',
+    url: 'https://hashtagweb3.com/news',
     images: [
       {
         url: 'https://hashtagweb3.com/og-image-news.png',

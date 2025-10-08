@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Company Culture Guide Builder',
   description: 'A free tool to help you define and document your company culture. Create a comprehensive guide to share your values, communication norms, and team rituals.',
+  alternates: {
+    canonical: '/company-culture-guide',
+  },
   openGraph: {
     title: 'Company Culture Guide Builder',
     description: 'Define and share your company culture. Our free tool helps you create a professional culture guide.',
+    url: 'https://hashtagweb3.com/company-culture-guide',
     images: [
       {
         url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',

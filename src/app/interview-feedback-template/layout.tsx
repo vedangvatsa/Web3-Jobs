@@ -4,9 +4,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Interview Feedback Template',
   description: 'A free tool to generate standardized interview feedback forms. Help your hiring team make better, less biased decisions with a structured template.',
+  alternates: {
+    canonical: '/interview-feedback-template',
+  },
   openGraph: {
     title: 'Interview Feedback Template',
     description: 'Standardize your hiring process and reduce bias with our free interview feedback template.',
+    url: 'https://hashtagweb3.com/interview-feedback-template',
     images: [
       {
         url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
