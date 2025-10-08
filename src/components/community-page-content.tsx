@@ -1,3 +1,4 @@
+
 'use client';
 
 import { Header } from '@/components/header';
@@ -293,7 +294,7 @@ export function CommunityPageContent({
   };
 
   return (
-    <>
+    <div className="py-16 bg-background">
       <Script
         id="website-schema"
         type="application/ld+json"
@@ -579,8 +580,6 @@ export function CommunityPageContent({
                 </div>
             </div>
         </div>
-      </>
+      </div>
   );
 }
-
-    
