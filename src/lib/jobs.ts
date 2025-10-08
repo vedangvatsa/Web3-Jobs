@@ -1,4 +1,3 @@
-
 'use server';
 
 import Parser from 'rss-parser';
@@ -75,14 +74,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Head of Engineering",
         "company": "Spade",
         "link": "https://job-boards.greenhouse.io/spade/jobs/4598919005",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7185423",
-        "title": "Advertising Operations Associate",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7185423",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -343,42 +334,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7158739",
-        "title": "Sales Program Manager, AMER",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7158739",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7182037",
         "title": "Senior Software Engineer",
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7182037",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7174279",
-        "title": "Software Engineer, Distributed Caching Platform",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7174279",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7168716",
-        "title": "Backend/API Engineer, Money as a Service",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7168716",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7181979",
-        "title": "Billing Solutions Architect",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7181979",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -543,42 +502,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7182535",
-        "title": "Partner Development Manager (French Speaking)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7182535",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/anchorage/fad0bc38-3f55-4bfb-ab95-4815acc5f376?lever-source%5B%5D=jobs.a16z.com",
         "title": "Revenue Accounting Manager",
         "company": "Anchorage",
         "link": "https://jobs.lever.co/anchorage/fad0bc38-3f55-4bfb-ab95-4815acc5f376?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7155893",
-        "title": "Account Executive, Product Sales, Link",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7155893",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7154004",
-        "title": "Integration Reliability Engineer, Technical Operations, Local Payment Methods",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7154004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7174967",
-        "title": "Manager Enablement Lead, EMEA",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7174967",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -595,14 +522,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Senior Analytics Engineer II",
         "company": "Carta",
         "link": "https://job-boards.greenhouse.io/carta/jobs/6688699003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7169392",
-        "title": "Risk Ops Tech Enablement Programs, Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7169392",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -759,50 +678,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7179677",
-        "title": "Partner Development Manager (Alliances & Channels)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7179677",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7179658",
-        "title": "Partner Development Manager (Alliances & Channels)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7179658",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/1c85e4c7-b6b9-444c-b922-4335a468a09c?utm_source=jobs.a16z.com",
-        "title": "Customer Success Manager I | EMEA",
+        "title": "Customer Success Manager I | French Speaking",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/1c85e4c7-b6b9-444c-b922-4335a468a09c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7179780",
-        "title": "Strategic Programs Lead, Operations & GTM",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7179780",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7165710",
-        "title": "Manager, Solutions Architects (Revenue Suite)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7165710",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7176655",
-        "title": "Partner Development Manager, Revenue and Finance Automation",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7176655",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -823,954 +702,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7142550",
-        "title": "Team Lead Technical Operations, Stripe Delivery Center",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7142550",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=6740752",
-        "title": "Solutions Architect, Startup & SMB",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=6740752",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7173883",
-        "title": "GTM Risk and Compliance Specialist",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7173883",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7177614",
-        "title": "Program Strategist, GTM Risk",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7177614",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7177599",
-        "title": "GTM Enterprise Risk Program Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7177599",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/01bda57e-9cd8-4bb4-a0d2-d7e5bb629ac1?utm_source=jobs.a16z.com",
-        "title": "Accountant",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/01bda57e-9cd8-4bb4-a0d2-d7e5bb629ac1?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/6fc542d6-604b-4a87-a3c5-65b0813f58e9?utm_source=jobs.a16z.com",
-        "title": "CRM Marketing Manager | Global",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/6fc542d6-604b-4a87-a3c5-65b0813f58e9?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/c8f85cff-0969-4209-bd5b-8c15a0f1047d?utm_source=jobs.a16z.com",
-        "title": "Senior Partner Marketing Manager | Campaigns",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/c8f85cff-0969-4209-bd5b-8c15a0f1047d?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/1d5013ce-a07f-4c80-bfe8-a5c4e4f19d54?utm_source=jobs.a16z.com",
-        "title": "Account Executive, Mid-Market | Japan",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/1d5013ce-a07f-4c80-bfe8-a5c4e4f19d54?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://branchinternational.applytojob.com/apply/gJW9tV73A0/Team-Lead-Lending-Lab",
-        "title": "Team Lead, Lending Lab",
-        "company": "Branch International",
-        "link": "https://branchinternational.applytojob.com/apply/gJW9tV73A0/Team-Lead-Lending-Lab",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/e9dd08ab-1dff-4a70-a28a-e019c951f12a?utm_source=jobs.a16z.com",
-        "title": "Senior CRM Marketing Manager | Global",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/e9dd08ab-1dff-4a70-a28a-e019c951f12a?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/5824dfcd-da25-456b-b4bb-e11783251922?utm_source=jobs.a16z.com",
-        "title": "Account Executive, Deel IT, SMB | EMEA",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/5824dfcd-da25-456b-b4bb-e11783251922?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/c9c9e93a-6277-4ffb-9f21-5f92dc6230aa?utm_source=jobs.a16z.com",
-        "title": "Senior Full Stack Engineer",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/c9c9e93a-6277-4ffb-9f21-5f92dc6230aa?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/valon/jobs/4593958006",
-        "title": "Business Operations Senior Associate - Valon Mortgage",
-        "company": "Valon",
-        "link": "https://job-boards.greenhouse.io/valon/jobs/4593958006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/valon/jobs/4593821006",
-        "title": "Part Time Workplace Experience Manager (20 Hours Per Week)",
-        "company": "Valon",
-        "link": "https://job-boards.greenhouse.io/valon/jobs/4593821006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7174299",
-        "title": "Software Engineer, Security Cloud Expansion",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7174299",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/valon/jobs/4589810006",
-        "title": "Director, Product Management (Default)",
-        "company": "Valon",
-        "link": "https://job-boards.greenhouse.io/valon/jobs/4589810006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=6482046",
-        "title": "Communications - International Programs and Campaigns",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=6482046",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7136797",
-        "title": "Global Partnerships Counsel, APAC",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7136797",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/70b5eab7-1a0f-4f79-bfc1-2fd2a7b88bbc?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Strategic Sourcing Manager",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/70b5eab7-1a0f-4f79-bfc1-2fd2a7b88bbc?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7179634",
-        "title": "Bridge - Operations Associate",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7179634",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/271f17e7-26fa-432a-bd32-8c5c6b27fd8f?utm_source=jobs.a16z.com",
-        "title": "Senior Operations Manager",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/271f17e7-26fa-432a-bd32-8c5c6b27fd8f?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/withclutch/031bc8bd-0e66-416d-986e-dc22ede440a4?utm_source=jobs.a16z.com",
-        "title": "Engagement Manager",
-        "company": "Clutch",
-        "link": "https://jobs.ashbyhq.com/withclutch/031bc8bd-0e66-416d-986e-dc22ede440a4?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://branchinternational.applytojob.com/apply/5bIK2HNHXW/Backend-Engineer-Data",
-        "title": "Backend Engineer - Data",
-        "company": "Branch International",
-        "link": "https://branchinternational.applytojob.com/apply/5bIK2HNHXW/Backend-Engineer-Data",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/d9547ed8-c10d-4c0a-b1b6-9b531e59ed82?utm_source=jobs.a16z.com",
-        "title": "Senior Segment Marketing Manager | Start-ups",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/d9547ed8-c10d-4c0a-b1b6-9b531e59ed82?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/3afe47c5-f8ff-4fcb-8946-f23c54896b2c?utm_source=jobs.a16z.com",
-        "title": "Senior ABM & Lifecycle Paid Ads Manager | Global Remote",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/3afe47c5-f8ff-4fcb-8946-f23c54896b2c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/98eadb41-140e-4cff-851c-e650b861b1a8?utm_source=jobs.a16z.com",
-        "title": "Sales Develoment Representative, SMB | CEE",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/98eadb41-140e-4cff-851c-e650b861b1a8?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/1a0defb6-c88b-444c-a128-fcc0d44e6b69?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | South Africa",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/1a0defb6-c88b-444c-a128-fcc0d44e6b69?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/902d9221-d4c0-4756-ab99-c62fe62a6ef1?utm_source=jobs.a16z.com",
-        "title": "Senior QA Automation Engineer | LATAM",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/902d9221-d4c0-4756-ab99-c62fe62a6ef1?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/cruxclimate/c94b274f-490b-444f-86cf-a2dc8a82e439?utm_source=jobs.a16z.com",
-        "title": "Director of Demand Generation",
-        "company": "Crux",
-        "link": "https://jobs.ashbyhq.com/cruxclimate/c94b274f-490b-444f-86cf-a2dc8a82e439?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/eef5c286-e727-4a37-ad15-629022a02950?utm_source=jobs.a16z.com",
-        "title": "Senior Full Stack Engineer",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/eef5c286-e727-4a37-ad15-629022a02950?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/method/e125e1f5-fb12-40b3-886c-93f43b6af4d4?utm_source=jobs.a16z.com",
-        "title": "Recruiter",
-        "company": "Method",
-        "link": "https://jobs.ashbyhq.com/method/e125e1f5-fb12-40b3-886c-93f43b6af4d4?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7139225",
-        "title": "Product Support Specialist",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7139225",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7021605",
-        "title": "Senior Leadership Recruiter, Engineering",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7021605",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/abada796-8467-4982-8af4-11183fc2288b?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Staff Product Security Engineer",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/abada796-8467-4982-8af4-11183fc2288b?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/valon/jobs/4593693006",
-        "title": "Sr. Manager of Mortgage Lending Underwriting",
-        "company": "Valon",
-        "link": "https://job-boards.greenhouse.io/valon/jobs/4593693006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/627b694b-0f18-4ac2-8e26-06e580d32526?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Senior Product Manager, Safety Products",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/627b694b-0f18-4ac2-8e26-06e580d32526?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://www.crossriver.com/greenhouse?gh_jid=6682943003",
-        "title": "Analyst, Consumer Compliance, Monitoring & Oversight",
-        "company": "Cross River",
-        "link": "https://www.crossriver.com/greenhouse?gh_jid=6682943003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/propel/jobs/8120147002",
-        "title": "State Partnerships Manager (Mid-Atlantic/Southeast)",
-        "company": "Propel",
-        "link": "https://job-boards.greenhouse.io/propel/jobs/8120147002",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7165781",
-        "title": "Head of Consumer Marketing, Link",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7165781",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7154047",
-        "title": "Staff Engineer, RFA Forward Deployed Engineering",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7154047",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5620422004",
-        "title": "Senior Technical Treasury Specialist",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5620422004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://capitolis.com/careers/job/?gh_jid=6680105003",
-        "title": "DevSecOps",
-        "company": "Capitolis",
-        "link": "https://capitolis.com/careers/job/?gh_jid=6680105003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://www.crossriver.com/greenhouse?gh_jid=6683762003",
-        "title": "Digital Banking Relationship Manager",
-        "company": "Cross River",
-        "link": "https://www.crossriver.com/greenhouse?gh_jid=6683762003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/carta/jobs/6670931003",
-        "title": "Lead Product Manager, Valuations",
-        "company": "Carta",
-        "link": "https://job-boards.greenhouse.io/carta/jobs/6670931003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/sentilink/f2d43754-09ee-4af5-ac2b-c4f3ded8b5b2?utm_source=jobs.a16z.com",
-        "title": "Employee Success Partner",
-        "company": "SentiLink",
-        "link": "https://jobs.ashbyhq.com/sentilink/f2d43754-09ee-4af5-ac2b-c4f3ded8b5b2?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/lightspark/2528b3a1-5409-46af-bd06-f9cc507e9a7b?utm_source=jobs.a16z.com",
-        "title": "VP of Global Sales",
-        "company": "Lightspark",
-        "link": "https://jobs.ashbyhq.com/lightspark/2528b3a1-5409-46af-bd06-f9cc507e9a7b?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://loft.teamtailor.com/jobs/6317688-jovem-aprendiz-atendimento-plataforma",
-        "title": "Jovem Aprendiz - Atendimento Plataforma",
-        "company": "Loft",
-        "link": "https://loft.teamtailor.com/jobs/6317688-jovem-aprendiz-atendimento-plataforma",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://recruiterflow.com/coinswitch/jobs/554",
-        "title": "Compliance Intern",
-        "company": "CoinSwitch Kuber",
-        "link": "https://recruiterflow.com/coinswitch/jobs/554",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/55eecfac-b1cc-4660-a728-ae840bc9a267?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Staff Software Engineer, Product",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/55eecfac-b1cc-4660-a728-ae840bc9a267?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=6882221",
-        "title": "Vendor Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=6882221",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/phantom/a609ddf0-c696-4f4f-8124-2df8f1043d20?utm_source=jobs.a16z.com",
-        "title": "Customer Support Specialist - Contractor",
-        "company": "Phantom",
-        "link": "https://jobs.ashbyhq.com/phantom/a609ddf0-c696-4f4f-8124-2df8f1043d20?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/sardine/d6b999f1-7526-4637-9603-2fdef69c711e?utm_source=jobs.a16z.com",
-        "title": "Senior Information Security Engineer",
-        "company": "Sardine",
-        "link": "https://jobs.ashbyhq.com/sardine/d6b999f1-7526-4637-9603-2fdef69c711e?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/phantom/5a9b7126-6846-4919-9813-18c461282464?utm_source=jobs.a16z.com",
-        "title": "Senior Customer Support Agent (Cards & Banking, Live Chat)",
-        "company": "Phantom",
-        "link": "https://jobs.ashbyhq.com/phantom/5a9b7126-6846-4919-9813-18c461282464?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/sardine/6da78a92-8f90-447a-8624-edb7fbadfb25?utm_source=jobs.a16z.com",
-        "title": "Technical Product Manager - Banking Core Integration",
-        "company": "Sardine",
-        "link": "https://jobs.ashbyhq.com/sardine/6da78a92-8f90-447a-8624-edb7fbadfb25?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/mystenlabs/e75711eb-f829-4d11-bbe0-914267d954ef?utm_source=jobs.a16z.com",
-        "title": "Senior Developer Relations Engineer",
-        "company": "Mysten Labs",
-        "link": "https://jobs.ashbyhq.com/mystenlabs/e75711eb-f829-4d11-bbe0-914267d954ef?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/sardine/13c882a7-0a59-429e-9c08-451af7c73643?utm_source=jobs.a16z.com",
-        "title": "Senior Application Security Engineer",
-        "company": "Sardine",
-        "link": "https://jobs.ashbyhq.com/sardine/13c882a7-0a59-429e-9c08-451af7c73643?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/972fa070-017c-4c49-bce0-70b632282ce9?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Event Marketing",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/972fa070-017c-4c49-bce0-70b632282ce9?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7168922",
-        "title": "Manager, Sales Development",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7168922",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5618900004",
-        "title": "Senior Customer Support Strategic Program Manager",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5618900004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/1aa616e2-2952-4759-9a12-8ec0e20ef7c0?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Attorney - Corporate Contracts (Contractor)",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/1aa616e2-2952-4759-9a12-8ec0e20ef7c0?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7172254",
-        "title": "Finance & Strategy Analyst, Go-to-Market",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7172254",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622047004",
-        "title": "Solutions Architect - Hong Kong",
-        "company": "LayerZero Labs",
-        "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622047004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622042004",
-        "title": "Partner Marketing Manager",
-        "company": "LayerZero Labs",
-        "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622042004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622041004",
-        "title": "Vertical Marketing Manager - Institutions",
-        "company": "LayerZero Labs",
-        "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5622041004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5619112004",
-        "title": "Senior Data Scientist - Finance",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5619112004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/yuno/0fc2492b-abc6-42a2-aa68-1e0cf6c9dd80?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Technical Account Manager",
-        "company": "Yuno",
-        "link": "https://jobs.lever.co/yuno/0fc2492b-abc6-42a2-aa68-1e0cf6c9dd80?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://current.com/careers/open-positions/?id=7162614&gh_jid=7162614",
-        "title": "Senior Product Manager, Data",
-        "company": "Current",
-        "link": "https://current.com/careers/open-positions/?id=7162614&gh_jid=7162614",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/f7f9de12-923f-4402-85dc-67f117d66542?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Financial Systems Lead",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/f7f9de12-923f-4402-85dc-67f117d66542?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://current.com/careers/open-positions/?id=7162038&gh_jid=7162038",
-        "title": "Data Analyst, Banking",
-        "company": "Current",
-        "link": "https://current.com/careers/open-positions/?id=7162038&gh_jid=7162038",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/3b6318ca-cfa3-43ef-8acc-2baeebc1a10c?lever-source%5B%5D=jobs.a16z.com",
-        "title": "TechOps Site Support",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/3b6318ca-cfa3-43ef-8acc-2baeebc1a10c?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5618835004",
-        "title": "Senior Growth Editor",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5618835004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://www.cedar.com/open-roles/?gh_jid=7145153",
-        "title": "Sr. Manager, Value Analytics",
-        "company": "Cedar",
-        "link": "https://www.cedar.com/open-roles/?gh_jid=7145153",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://www.cedar.com/open-roles/?gh_jid=7141871",
-        "title": "Sr. Integration Support Engineer",
-        "company": "Cedar",
-        "link": "https://www.cedar.com/open-roles/?gh_jid=7141871",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/81a488bd-f046-412c-8a1e-09286409da68?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | Slovenia",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/81a488bd-f046-412c-8a1e-09286409da68?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/52770635-c4dc-4412-a7ad-e8efa075f86f?utm_source=jobs.a16z.com",
-        "title": "Project Manager, Accounting | EMEA",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/52770635-c4dc-4412-a7ad-e8efa075f86f?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/c068595b-fee3-4112-aa99-718832656a3a?utm_source=jobs.a16z.com",
-        "title": "Senior Quality Assurance Engineer",
-        "company": "Worldcoin",
-        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/c068595b-fee3-4112-aa99-718832656a3a?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/338c15fa-c117-4fd9-99e3-35b5ef9138c1?utm_source=jobs.a16z.com",
-        "title": "Solutions Engineer, Global Payroll | North America",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/338c15fa-c117-4fd9-99e3-35b5ef9138c1?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/phantom/f14bb44e-3cea-4f3a-b8b1-3ad0d2ccee8f?utm_source=jobs.a16z.com",
-        "title": "Head of Product",
-        "company": "Phantom",
-        "link": "https://jobs.ashbyhq.com/phantom/f14bb44e-3cea-4f3a-b8b1-3ad0d2ccee8f?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/977184cf-3f52-4252-a91f-5a312914f759?utm_source=jobs.a16z.com",
-        "title": "Senior/Staff Fraud Engineer",
-        "company": "Worldcoin",
-        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/977184cf-3f52-4252-a91f-5a312914f759?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7161271",
-        "title": "Entity Controller",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7161271",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/yuno/9fa075c5-ebf5-4de5-a2ae-fb1d129cbf68?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Sales Development Representative Intern (US)",
-        "company": "Yuno",
-        "link": "https://jobs.lever.co/yuno/9fa075c5-ebf5-4de5-a2ae-fb1d129cbf68?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/yuno/f70c808f-4326-4e0e-a20c-792baddc869d?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Sales Development Representative - Early in Career (Europe)",
-        "company": "Yuno",
-        "link": "https://jobs.lever.co/yuno/f70c808f-4326-4e0e-a20c-792baddc869d?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/yuno/cc7bf36d-7736-43d6-b791-b0b9e35b492f?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Sales Development Representative - Early in Career (China)",
-        "company": "Yuno",
-        "link": "https://jobs.lever.co/yuno/cc7bf36d-7736-43d6-b791-b0b9e35b492f?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5617989004",
-        "title": "Senior Data Scientist - Compliance",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5617989004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/d485de06-90e2-498e-bcd7-15c7d4810e7b?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Technical Operations Engineer",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/d485de06-90e2-498e-bcd7-15c7d4810e7b?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7158188",
-        "title": "Portfolio Oversight & Analytics Manager, Stripe Capital",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7158188",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/548daa80-934c-4a4f-8e46-551dd0bcf347?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Mid-Market Account Executive - Europe",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/548daa80-934c-4a4f-8e46-551dd0bcf347?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/dfinity/jobs/8114249002",
-        "title": "Marketing Campaign Manager - Caffeine.ai",
-        "company": "DFINITY",
-        "link": "https://job-boards.greenhouse.io/dfinity/jobs/8114249002",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/mercury/jobs/5617333004",
-        "title": "Senior Onboarding L&D Specialist",
-        "company": "Mercury",
-        "link": "https://job-boards.greenhouse.io/mercury/jobs/5617333004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7172093",
-        "title": "Data Engineer, People Solutions",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7172093",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7095463",
-        "title": "Credit Risk Strategy Analyst, Portfolio and Policy Management",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7095463",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/yuno/08c6d583-5bba-4c56-81c2-9fd9991d7110?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Senior Product Manager - Core Team",
-        "company": "Yuno",
-        "link": "https://jobs.lever.co/yuno/08c6d583-5bba-4c56-81c2-9fd9991d7110?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/yuno/9b6ac200-8517-4443-be93-87a33a191715?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Product Analyst - Integrations Team",
-        "company": "Yuno",
-        "link": "https://jobs.lever.co/yuno/9b6ac200-8517-4443-be93-87a33a191715?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7142155",
-        "title": "SEO Marketing Manager, Stripe Docs",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7142155",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7142153",
-        "title": "SEO Content Marketing Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7142153",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/3e1ccef2-446b-40a2-a65a-179d3bc6ab8c?utm_source=jobs.a16z.com",
-        "title": "Account Executive, SMB | France",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/3e1ccef2-446b-40a2-a65a-179d3bc6ab8c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/5ed54eed-d24d-415e-afee-849d6d2d2636?utm_source=jobs.a16z.com",
-        "title": "Team Lead, Payroll Implementation | LATAM",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/5ed54eed-d24d-415e-afee-849d6d2d2636?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/9ecbd973-951a-4f73-975e-33abb71bb61e?utm_source=jobs.a16z.com",
-        "title": "Associate Payroll Enablement Manager",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/9ecbd973-951a-4f73-975e-33abb71bb61e?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/6d904840-7357-420c-83cd-07f05aedd40c?utm_source=jobs.a16z.com",
-        "title": "Workday Partner Director | USA",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/6d904840-7357-420c-83cd-07f05aedd40c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/0a68db1a-de33-4713-ae2a-48cfa42963c8?utm_source=jobs.a16z.com",
-        "title": "Sales Lead, South Cone",
-        "company": "Worldcoin",
-        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/0a68db1a-de33-4713-ae2a-48cfa42963c8?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://careers.kula.ai/dapperlabs/12160",
-        "title": "Lead Producer, Sports (LiveOps)",
-        "company": "Dapper Labs",
-        "link": "https://careers.kula.ai/dapperlabs/12160",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/ddb9a1d5-e4f8-40c8-b723-b3f7800993b1?utm_source=jobs.a16z.com",
-        "title": "Alliance Director, Workday Practice | USA",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/ddb9a1d5-e4f8-40c8-b723-b3f7800993b1?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://careers.kula.ai/dapperlabs/12161",
-        "title": "Junior Compliance Analyst - Blockchain | Fintech | NFT",
-        "company": "Dapper Labs",
-        "link": "https://careers.kula.ai/dapperlabs/12161",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/7c696bb1-12e2-400f-a217-4f19abebae99?utm_source=jobs.a16z.com",
-        "title": "Sales Lead, Singapore",
-        "company": "Worldcoin",
-        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/7c696bb1-12e2-400f-a217-4f19abebae99?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/sentilink/925dc9a0-297b-4397-8aa8-dddaf5f947b6?utm_source=jobs.a16z.com",
-        "title": "Head of Talent Acquisition",
-        "company": "SentiLink",
-        "link": "https://jobs.ashbyhq.com/sentilink/925dc9a0-297b-4397-8aa8-dddaf5f947b6?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/method/b069aab5-083e-4212-9ec7-114d42a344e7?utm_source=jobs.a16z.com",
-        "title": "VP of Finance & Operations",
-        "company": "Method",
-        "link": "https://jobs.ashbyhq.com/method/b069aab5-083e-4212-9ec7-114d42a344e7?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/oplabs/61311a2d-3f2a-4b2f-828e-b53f26e2a696?utm_source=jobs.a16z.com",
-        "title": "Partner Operations Lead",
-        "company": "OP Labs",
-        "link": "https://jobs.ashbyhq.com/oplabs/61311a2d-3f2a-4b2f-828e-b53f26e2a696?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/7671a095-15d8-4ae9-9f99-ee0a9f8b91ef?utm_source=jobs.a16z.com",
-        "title": "Head of Market, South Cone",
-        "company": "Worldcoin",
-        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/7671a095-15d8-4ae9-9f99-ee0a9f8b91ef?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7161441",
-        "title": "Commercial Counsel",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7161441",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7141826",
-        "title": "Major Financial Crimes & Insider Risk Investigator",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7141826",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/earnin/jobs/7166893",
-        "title": "Senior Mobile Engineer (Android)",
-        "company": "Earnin",
-        "link": "https://job-boards.greenhouse.io/earnin/jobs/7166893",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/anchorage/e0e6319d-586b-4ee1-a063-b8324805ddd7?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Member of Compliance, Blockchain Intelligence",
-        "company": "Anchorage",
-        "link": "https://jobs.lever.co/anchorage/e0e6319d-586b-4ee1-a063-b8324805ddd7?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7115730",
-        "title": "Solutions Architect, Billing",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7115730",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7164002",
-        "title": "Communications Operations Lead",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7164002",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7161275",
-        "title": "Accounting Technologist, Business Systems Program Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7161275",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://recruiterflow.com/coinswitch/jobs/552",
-        "title": "Senior Business Associate ( CoinSwitch )",
-        "company": "CoinSwitch Kuber",
-        "link": "https://recruiterflow.com/coinswitch/jobs/552",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/bb349fda-7b81-48c2-aabe-c1990999d648?utm_source=jobs.a16z.com",
         "title": "Front-End Engineer | LATAM",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/bb349fda-7b81-48c2-aabe-c1990999d648?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7126816",
-        "title": "Product Designer, Money Management",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7126816",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -1795,14 +730,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Senior Product Manager, Platform/Identity",
         "company": "Clutch",
         "link": "https://jobs.ashbyhq.com/withclutch/edf02fbf-b06c-413b-87b4-75a0e16c733c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/7c741ef1-6854-4435-b9ce-e470ec82e11e?utm_source=jobs.a16z.com",
-        "title": "Customer Success Manager I | French Speaking",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/7c741ef1-6854-4435-b9ce-e470ec82e11e?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -1879,54 +806,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7144207",
-        "title": "Financial Crimes Program Manager (Governance & Testing)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7144207",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7161356",
-        "title": "Staff Engineer, Connect Risk & Compliance",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7161356",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7116966",
-        "title": "Employee Relations Specialist, EMEA",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7116966",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7015087",
-        "title": "Product Manager, Usage Based Billing",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7015087",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7054200",
-        "title": "Engineering Program Manager, Connect",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7054200",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7159265",
-        "title": "Events Marketing Manager, Industry",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7159265",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/8c6e1b32-ca9c-4519-bca9-e348876ebdc5?utm_source=jobs.a16z.com",
         "title": "Customer Support Country Specialist, Payroll",
         "company": "Deel",
@@ -1959,42 +838,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7142057",
-        "title": "Vendor Manager, Risk Operations",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7142057",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7164051",
-        "title": "Staff Product Designer, Developer AI",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7164051",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/earnin/jobs/7156230",
-        "title": "Senior Marketing Strategist, Product",
-        "company": "Earnin",
-        "link": "https://job-boards.greenhouse.io/earnin/jobs/7156230",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/anchorage/56aedded-c959-4488-b265-5cc42a182dca?lever-source%5B%5D=jobs.a16z.com",
         "title": "Communications Manager",
         "company": "Anchorage",
         "link": "https://jobs.lever.co/anchorage/56aedded-c959-4488-b265-5cc42a182dca?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7144205",
-        "title": "Regulatory Compliance Program Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7144205",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2027,30 +874,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Deal Desk Analyst",
         "company": "Carta",
         "link": "https://job-boards.greenhouse.io/carta/jobs/6673539003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7060508",
-        "title": "People Specialist, APAC",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7060508",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7157231",
-        "title": "Accounting Analyst - MaaS Accounting",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7157231",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7142689",
-        "title": "Complex Financial Crimes Investigator (Crypto)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7142689",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2119,34 +942,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7139223",
-        "title": "Terminal Logistics Program Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7139223",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/4210ab0f-d495-4157-9679-944d65db9917?utm_source=jobs.a16z.com",
         "title": "Account Executive, Mid-Market | North America",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/4210ab0f-d495-4157-9679-944d65db9917?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7013220",
-        "title": "Velocity Grower Sales Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7013220",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7155899",
-        "title": "Implementation Consultant, Billing",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7155899",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2203,14 +1002,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Analista de Experiência",
         "company": "Loft",
         "link": "https://loft.teamtailor.com/jobs/6296482-analista-de-experiencia",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7155907",
-        "title": "Integration Engineer, Stablecoin",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7155907",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2327,34 +1118,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7115178",
-        "title": "Technical Program Manager, MMS",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7115178",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/yuno/3db63d5e-4285-4cfa-9c39-69f5d19eaf0f?lever-source%5B%5D=jobs.a16z.com",
         "title": "Technical Account Manager",
         "company": "Yuno",
         "link": "https://jobs.lever.co/yuno/3db63d5e-4285-4cfa-9c39-69f5d19eaf0f?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7120764",
-        "title": "Product Counsel, Lending",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7120764",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=6816274",
-        "title": "Finance & Strategy Analyst",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=6816274",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2367,26 +1134,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7141980",
-        "title": "Chief of Staff, Global Partnerships",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7141980",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://www.crossriver.com/greenhouse?gh_jid=6675196003",
         "title": "Analyst, Asset Management Loan Servicing",
         "company": "Cross River",
         "link": "https://www.crossriver.com/greenhouse?gh_jid=6675196003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7026055",
-        "title": "F&S Specialist",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7026055",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2487,22 +1238,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7144975",
-        "title": "Design Engineer, Presence",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7144975",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7138537",
-        "title": "Pricing Analyst - Deal Pricing Tooling & Analytics",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7138537",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://recruiterflow.com/coinswitch/jobs/550",
         "title": "Senior Business Associate ( Lemonn )",
         "company": "CoinSwitch Kuber",
@@ -2523,22 +1258,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Data Engineer",
         "company": "Nansen",
         "link": "https://job-boards.greenhouse.io/nansen/jobs/5614418004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7140002",
-        "title": "Account Executive, SSMB",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7140002",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7130486",
-        "title": "India / APAC Tax Analyst - Tax, APAC",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7130486",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2615,14 +1334,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7120602",
-        "title": "Manager, Partner Solutions Architect",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7120602",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/1358c175-3049-4faf-aa88-73781512dfaf?utm_source=jobs.a16z.com",
         "title": "World Spaces Manager",
         "company": "Worldcoin",
@@ -2635,30 +1346,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "World Spaces Manager",
         "company": "Worldcoin",
         "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/ef9d4dfc-ea4f-4965-9469-546ea4df467c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7139182",
-        "title": "Strategy and Operations, Card Networks",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7139182",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7128659",
-        "title": "Proposal Lead",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7128659",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7099419",
-        "title": "Solutions Architect, Platforms",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7099419",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2695,38 +1382,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=6802726",
-        "title": "Product Strategy & Operations - Global & Local Payment Methods",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=6802726",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7137787",
-        "title": "Security Investigations Analyst - SIRE",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7137787",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=6735940",
-        "title": "Account Executive, SMB (New Business)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=6735940",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7130559",
-        "title": "Sales Manager, Funded Startups - German Speaking",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7130559",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/cruxclimate/2b291beb-a097-4426-8f5b-914b8903f29a?utm_source=jobs.a16z.com",
         "title": "Sr. Manager, Capital Markets - Transactions",
         "company": "Crux",
@@ -2755,14 +1410,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "VP of Enterprise Sales",
         "company": "OP Labs",
         "link": "https://jobs.ashbyhq.com/oplabs/bae3b733-ac0f-4236-be75-6ef3e9127842?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7126646",
-        "title": "Staff Engineer, Search - Data Platform",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7126646",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2823,14 +1470,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7125206",
-        "title": "University Recruiter (Fixed Term Contract)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7125206",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7125771",
         "title": "Senior Software Development Engineer Test (Mobile Automation)",
         "company": "Earnin",
@@ -2855,34 +1494,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7108249",
-        "title": "Account Executive, Enterprise (Sao Paulo, Brazil)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7108249",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.morpho.org/o/legal-manager-1",
         "title": "Legal Manager",
         "company": "Morpho Labs",
         "link": "https://jobs.morpho.org/o/legal-manager-1",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7131826",
-        "title": "Sales Manager, Platforms",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7131826",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7140921",
-        "title": "Account Executive, SMB (Existing Business)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7140921",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2895,42 +1510,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7135264",
-        "title": "Accounting Analyst - Product Accounting - Processing Cost",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7135264",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7075436",
-        "title": "Product Manager, Connect",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7075436",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=6703365",
-        "title": "Tech Operations, Integration Reliability Engineer",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=6703365",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/529c3fe4-f606-44f9-86a7-7ffa8cfb1da4?utm_source=jobs.a16z.com",
         "title": "IT Engineer, Deel IT | LATAM",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/529c3fe4-f606-44f9-86a7-7ffa8cfb1da4?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7124531",
-        "title": "Staff Engineer, Usage Based Billing",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7124531",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -2967,22 +1550,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7134912",
-        "title": "Strategy and Operations Lead, Self Serve",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7134912",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7125760",
-        "title": "GTM Operations Territory Lead",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7125760",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/greenlight/f90ad92a-f882-4bec-8a27-cc22d7da843b?lever-source%5B%5D=jobs.a16z.com",
         "title": "Account Executive, Financial Institutions",
         "company": "Greenlight",
@@ -3015,14 +1582,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7088616",
-        "title": "Backend Engineer",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7088616",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/addi/e66ee272-aaaa-42d7-8904-9ac029adca3d?utm_source=jobs.a16z.com",
         "title": "Fraud Quality & Continuous Improvement Analyst",
         "company": "ADDI",
@@ -3035,14 +1594,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Senior Partnerships Manager | ANZ",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/041ad8e6-892f-4a92-b086-4fb159d86962?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7091959",
-        "title": "Staff Frontend Engineer",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7091959",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -3183,14 +1734,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7104344",
-        "title": "Developer Experience Engineer, Privy",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7104344",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/plaid/98247648-3415-4a74-a28e-1ec425b0ad71?lever-source%5B%5D=jobs.a16z.com",
         "title": "Sales Engineer - SMB",
         "company": "Plaid",
@@ -3219,14 +1762,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Senior Internal Auditor",
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5602671004",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7091957",
-        "title": "Founding Product Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7091957",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -3299,14 +1834,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Counsel",
         "company": "Valon",
         "link": "https://job-boards.greenhouse.io/valon/jobs/4588927006",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7104148",
-        "title": "Security Engineer, Privy",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7104148",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -3415,14 +1942,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7088619",
-        "title": "Backend Engineer, Privy",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7088619",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/plaid/664479d6-fecc-423c-8763-2d0986c137e1?lever-source%5B%5D=jobs.a16z.com",
         "title": "Product Marketing Manager - Europe",
         "company": "Plaid",
@@ -3443,22 +1962,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Analyst, MPL Accounting",
         "company": "Cross River",
         "link": "https://www.crossriver.com/greenhouse?gh_jid=6666584003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7126390",
-        "title": "Manager, Customer Success",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7126390",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7100525",
-        "title": "Integration Reliability Engineer, Technical Operations",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7100525",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -3559,22 +2062,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7120766",
-        "title": "Specialist Solutions Architect, Crypto & Stablecoins",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7120766",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7123614",
-        "title": "Investor Relations",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7123614",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://loft.teamtailor.com/jobs/6249498-senior-application-security",
         "title": "Senior Application Security",
         "company": "Loft",
@@ -3591,30 +2078,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7120985",
-        "title": "Specialist Solutions Architect, Crypto & Stablecoins",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7120985",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7121678",
-        "title": "Specialist Solutions Architect, Banking as a Service",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7121678",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7125626",
-        "title": "Risk Partnerships Manager, Payment Networks",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7125626",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/88ac445b-635d-45d1-8ad7-1e4aadb6317a?utm_source=jobs.a16z.com",
         "title": "Payroll Specialist | Mexico",
         "company": "Deel",
@@ -3623,26 +2086,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7118945",
-        "title": "Accounts Receivable Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7118945",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/plaid/529e32e5-d849-498f-b313-29b6cc99e593?lever-source%5B%5D=jobs.a16z.com",
         "title": "Account Executive - Named: FinTech",
         "company": "Plaid",
         "link": "https://jobs.lever.co/plaid/529e32e5-d849-498f-b313-29b6cc99e593?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7121581",
-        "title": "Monetization Operation Analyst",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7121581",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -3719,14 +2166,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7120248",
-        "title": "Manager, Account Executive - Enterprise Hunter (Central and East)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7120248",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://loft.teamtailor.com/jobs/6242454-executivo-de-contas-crm",
         "title": "Executivo de Contas | CRM",
         "company": "Loft",
@@ -3783,14 +2222,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7030272",
-        "title": "Risk Partner Manager, Issuing & Capital",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7030272",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://loft.teamtailor.com/jobs/6249530-lead-analytics-engineer",
         "title": "Lead Analytics Engineer",
         "company": "Loft",
@@ -3799,338 +2230,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7117907",
-        "title": "Data Scientist",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7117907",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.lever.co/tryjeeves/220ad848-413c-4d2c-ab1a-776bcfcc8028?lever-source%5B%5D=jobs.a16z.com",
         "title": "Head of Marketing",
         "company": "Jeeves",
         "link": "https://jobs.lever.co/tryjeeves/220ad848-413c-4d2c-ab1a-776bcfcc8028?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7090524",
-        "title": "People Strategy and Enablement Project Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7090524",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/anchorage/55fdb6b9-2a68-470e-8c45-7b3b7e18548f?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Member of Marketing, Growth",
-        "company": "Anchorage",
-        "link": "https://jobs.lever.co/anchorage/55fdb6b9-2a68-470e-8c45-7b3b7e18548f?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7113720",
-        "title": "Product Marketing Copywriter",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7113720",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7116537",
-        "title": "Partner Development Manager, Card Networks",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7116537",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://current.com/careers/open-positions/?id=7116300&gh_jid=7116300",
-        "title": "Engineering Manager, iOS",
-        "company": "Current",
-        "link": "https://current.com/careers/open-positions/?id=7116300&gh_jid=7116300",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/greenlight/73caaa27-1507-4dc1-a78a-e967945f58f3?lever-source%5B%5D=jobs.a16z.com",
-        "title": "IT Manager",
-        "company": "Greenlight",
-        "link": "https://jobs.lever.co/greenlight/73caaa27-1507-4dc1-a78a-e967945f58f3?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Bastion/8599db9d-d6c7-431d-aaf9-59bd02c05deb?utm_source=jobs.a16z.com",
-        "title": "Finance Operations Lead",
-        "company": "Bastion",
-        "link": "https://jobs.ashbyhq.com/Bastion/8599db9d-d6c7-431d-aaf9-59bd02c05deb?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Solana%20Foundation/6a09defd-28a1-4a6f-9ff9-52c7d008e5e8?utm_source=jobs.a16z.com",
-        "title": "Executive Assistant / Personal Assistant",
-        "company": "Solana Foundation",
-        "link": "https://jobs.ashbyhq.com/Solana%20Foundation/6a09defd-28a1-4a6f-9ff9-52c7d008e5e8?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Bastion/c8370c4d-34cb-422a-a4a3-566620270f25?utm_source=jobs.a16z.com",
-        "title": "Talent Network",
-        "company": "Bastion",
-        "link": "https://jobs.ashbyhq.com/Bastion/c8370c4d-34cb-422a-a4a3-566620270f25?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/withclutch/caf8c2a9-f49e-4f94-bdb8-5cd925781d20?utm_source=jobs.a16z.com",
-        "title": "Senior Security Engineer II",
-        "company": "Clutch",
-        "link": "https://jobs.ashbyhq.com/withclutch/caf8c2a9-f49e-4f94-bdb8-5cd925781d20?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://recruiterflow.com/coinswitch/jobs/548",
-        "title": "HR Operations",
-        "company": "CoinSwitch Kuber",
-        "link": "https://recruiterflow.com/coinswitch/jobs/548",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/2c6754c4-23dd-4a2a-811c-e615a4a88466?utm_source=jobs.a16z.com",
-        "title": "Sales Development Representative, Deel IT | DACH",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/2c6754c4-23dd-4a2a-811c-e615a4a88466?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/provable/45f1dae1-d41d-4c07-9d70-f8dee17e4b84?utm_source=jobs.a16z.com",
-        "title": "Product Manager",
-        "company": "Provable",
-        "link": "https://jobs.ashbyhq.com/provable/45f1dae1-d41d-4c07-9d70-f8dee17e4b84?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://careers.kula.ai/dapperlabs/10268",
-        "title": "Lead Producer, Sports (LiveOps)",
-        "company": "Dapper Labs",
-        "link": "https://careers.kula.ai/dapperlabs/10268",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/7e71681c-0b6a-4d55-9a17-7757fbace4f9?lever-source%5B%5D=jobs.a16z.com",
-        "title": "People Development Program Manager",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/7e71681c-0b6a-4d55-9a17-7757fbace4f9?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/plaid/3ebad86d-125a-4aa9-a5a8-1d71a804d659?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Accounting Manager",
-        "company": "Plaid",
-        "link": "https://jobs.lever.co/plaid/3ebad86d-125a-4aa9-a5a8-1d71a804d659?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/flockhomes/jobs/4590486005",
-        "title": "Revenue Operations Specialist",
-        "company": "Flock Homes",
-        "link": "https://job-boards.greenhouse.io/flockhomes/jobs/4590486005",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://loft.teamtailor.com/jobs/6244234-analista-de-inadimplencia-junior",
-        "title": "Analista de Inadimplência Junior",
-        "company": "Loft",
-        "link": "https://loft.teamtailor.com/jobs/6244234-analista-de-inadimplencia-junior",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7075323",
-        "title": "Product Manager, Finance Systems",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7075323",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7091121",
-        "title": "Technical Recruiter (Fixed Term Contract)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7091121",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7110218",
-        "title": "Policy & Technical Accountant",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7110218",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/anchorage/0f13c760-a28f-4750-8b6f-2b6d5e5b10cf?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Member of Trading Operations",
-        "company": "Anchorage",
-        "link": "https://jobs.lever.co/anchorage/0f13c760-a28f-4750-8b6f-2b6d5e5b10cf?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.lever.co/anchorage/715ee69a-3e40-44de-a74e-74a111536659?lever-source%5B%5D=jobs.a16z.com",
-        "title": "Director, Product Marketing",
-        "company": "Anchorage",
-        "link": "https://jobs.lever.co/anchorage/715ee69a-3e40-44de-a74e-74a111536659?lever-source%5B%5D=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/earnin/jobs/7106869",
-        "title": "Head of Machine Learning",
-        "company": "Earnin",
-        "link": "https://job-boards.greenhouse.io/earnin/jobs/7106869",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7102805",
-        "title": "Revenue Analytics Manager",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7102805",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7079621",
-        "title": "Product Marketing Manager, Industries",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7079621",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7110035",
-        "title": "Sales Development Representative, Greater China",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7110035",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/23e13df1-49dd-4c38-ba5a-ffba33638fad?utm_source=jobs.a16z.com",
-        "title": "MarComm Manager, Thailand",
-        "company": "Worldcoin",
-        "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/23e13df1-49dd-4c38-ba5a-ffba33638fad?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/2683da47-2d3b-49b5-afa4-d8ecb2c76ddf?utm_source=jobs.a16z.com",
-        "title": "Payroll Implementation Manager | Mexico",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/2683da47-2d3b-49b5-afa4-d8ecb2c76ddf?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/0efd5a8d-997e-4544-a7cc-6bc5ff91e3fd?utm_source=jobs.a16z.com",
-        "title": "Payroll Expert | Denmark",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/0efd5a8d-997e-4544-a7cc-6bc5ff91e3fd?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/69b152c5-1db8-4466-8676-d8168324dd50?utm_source=jobs.a16z.com",
-        "title": "Team Lead, Payroll Implementation | EMEA",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/69b152c5-1db8-4466-8676-d8168324dd50?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Bastion/5b7e2bb5-bba3-40c4-bb44-5b2528f9dcc8?utm_source=jobs.a16z.com",
-        "title": "Senior Software Engineer",
-        "company": "Bastion",
-        "link": "https://jobs.ashbyhq.com/Bastion/5b7e2bb5-bba3-40c4-bb44-5b2528f9dcc8?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/733b85a8-5624-44b0-a392-00e0e1235a0b?utm_source=jobs.a16z.com",
-        "title": "Payroll Implementation Manager | Slovakia",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/733b85a8-5624-44b0-a392-00e0e1235a0b?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/ef4257ca-db1f-457c-8231-20c23be10435?utm_source=jobs.a16z.com",
-        "title": "Payroll Implementation Manager| Poland",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/ef4257ca-db1f-457c-8231-20c23be10435?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/7e379662-e76f-41ab-aea0-9e7a01a839fe?utm_source=jobs.a16z.com",
-        "title": "Payroll Implementation Manager | Czech Republic",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/7e379662-e76f-41ab-aea0-9e7a01a839fe?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7113608",
-        "title": "Technical Solutions Engineer",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7113608",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7114694",
-        "title": "Manager, Risk Operations Enablement",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7114694",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/flockhomes/jobs/4589912005",
-        "title": "Exchange Manager",
-        "company": "Flock Homes",
-        "link": "https://job-boards.greenhouse.io/flockhomes/jobs/4589912005",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7106660",
-        "title": "Sales Development Representative (French-speaking)",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7106660",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://current.com/careers/open-positions/?id=7096727&gh_jid=7096727",
-        "title": "Director of Risk (Bank Fraud)",
-        "company": "Current",
-        "link": "https://current.com/careers/open-positions/?id=7096727&gh_jid=7096727",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -4175,14 +2278,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://stripe.com/jobs/search?gh_jid=7091859",
-        "title": "Product Manager, Link - Local Payment Methods",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7091859",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5596786004",
         "title": "HR Generalist",
         "company": "LayerZero Labs",
@@ -4203,14 +2298,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Backend Senior Software Engineer",
         "company": "NG.CASH",
         "link": "https://people-job-posts.vercel.app/jobs/4204472005",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://stripe.com/jobs/search?gh_jid=7061518",
-        "title": "Engineering Manager, Compliance Observability",
-        "company": "Stripe",
-        "link": "https://stripe.com/jobs/search?gh_jid=7061518",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -4245,7 +2332,7 @@ function cleanCompany(company: string | undefined): string | undefined {
 function cleanTitle(text: string | undefined): string | undefined {
   if (!text) return undefined;
   // This regex removes a wide range of symbols, emojis, and non-standard characters
-  return text.replace(/[^a-z0-9\s.,-–—_()|/\\&+#@:'’`´~!?$%[\]{}]/gi, '').trim();
+  return text.replace(/[^a-z0-9\\s.,-–—_()|/\\&+#@:'’`´~!?$%[\\]{}]/gi, '').trim();
 }
 
 
@@ -4308,4 +2395,3 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
-
