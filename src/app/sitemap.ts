@@ -192,10 +192,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "the-ultimate-packing-list-for-digital-nomads-working-in-tech",
     "the-web3-talent-migration",
     "tokenomics-for-compensation",
-    "top-5-web3-languages",
     "top-10-crypto-friendly-countries",
     "top-10-web3-developer-skills",
     "top-10-web3-jobs",
+    "top-5-web3-languages",
     "top-companies-hiring-for-web3-roles",
     "top-opportunities-in-web3-for-crypto-native-talent",
     "top-web3-job-opportunities-for-non-developers",
@@ -516,3 +516,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [...staticRoutes, ...articleRoutes, ...interviewQuestionRoutes];
 }
+
+    
