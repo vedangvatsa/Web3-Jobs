@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/employee-engagement-survey',
     images: [
       {
-        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
+        url: 'https://hashtagweb3.com/og-image-tools.png',
         width: 1200,
         height: 630,
         alt: 'Employee Engagement Pulse Survey Tool',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Employee Engagement Pulse Survey | Hashtag Web3',
     description: 'Create an effective employee engagement survey in seconds.',
-    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
+    images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };
 
