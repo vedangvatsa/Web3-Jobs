@@ -1,11 +1,8 @@
 
-'use client';
-
 import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
 import { getJobs } from '@/lib/jobs';
 import { getNewsFeed } from '@/lib/news';
-import type { Job, Article, NewsItem } from '@/types';
 import { CommunityPageContent } from '@/components/community-page-content';
 import { Metadata } from 'next';
 import type { WebPage } from 'schema-dts';
@@ -22,7 +19,7 @@ export const metadata: Metadata = {
 };
 
 export default async function Page() {
-  const latestJobs = (await getJobs());
+  const latestJobs = await getJobs();
   const latestArticles = (await getAllArticles()).slice(0, 12);
   const latestNews = (await getNewsFeed()).slice(0, 10);
   
