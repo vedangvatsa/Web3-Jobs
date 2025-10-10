@@ -35,3 +35,22 @@ The agent then repeats this loop, sensing the new state of the environment after
 ### The Future is Agentic
 
 The rise of smart agents represents the next evolution of software. We are moving from a world where we use software as a tool to a world where we delegate tasks to autonomous agents who act on our behalf. This will unlock a new wave of productivity and automation, but it also raises important questions about trust, security, and control that we must solve to safely harness the power of these new digital assistants.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is a Smart Agent in AI?
+A Smart Agent is an AI system that can operate autonomously to achieve a specific goal. Unlike a traditional program that just follows instructions, you give an agent a high-level objective, and it figures out the steps to complete it. This represents a shift from simple automation to **[AI-driven agency](/ai-driven-agency-from-automation-to-autonomy)**.
+
+### 2. How do Smart Agents work?
+They operate on a "sense-think-act" loop. They **sense** the environment (e.g., read a website), **think** by using an AI model to make a plan, and then **act** by using tools (e.g., executing code or clicking a button).
+
+### 3. How are Smart Agents different from chatbots?
+A chatbot is reactive; it responds to your prompts. A Smart Agent is **proactive**; it takes initiative to achieve a goal. You might ask a chatbot "What's the weather?", but you would tell an agent "Book me a flight if the weather is good."
+
+### 4. What is a "multi-agent system"?
+A **[multi-agent system](/multi-agent-systems-and-ai)** is a more advanced concept where a team of specialized AI agents collaborate to solve a complex problem that would be difficult for a single agent to handle alone.
+
+### 5. How does this relate to Web3 and crypto?
+The **[convergence of Web3 and AI](/web3-and-ai)** is a major trend. Smart Agents can be given crypto wallets to become autonomous economic actors, able to trade on DeFi protocols, vote in DAOs, and interact with the decentralized economy on your behalf.

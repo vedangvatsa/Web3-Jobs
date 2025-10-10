@@ -65,3 +65,22 @@ However, the potential benefits are immense. By making real estate more fraction
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is real estate tokenization?
+Real estate tokenization is the process of creating a digital token on a blockchain that represents ownership in a physical property. This allows for fractional ownership, increased liquidity, and greater transparency in the real estate market. This is a key part of the broader trend of tokenizing [Real-World Assets (RWAs)](/exploring-opportunities-in-web3-real-estate-tokenization).
+
+### 2. How does tokenization make real estate more accessible?
+By dividing ownership into many small digital tokens, it allows smaller investors to buy a "fraction" of a property. Instead of needing millions to buy a building, you could potentially invest a few thousand dollars for a small share.
+
+### 3. What are the key jobs in Web3 real estate?
+The key roles include **Tokenization Platform Developers** who build the tech, **Legal & Compliance Specialists** who structure the deals, **Asset Managers** who manage the physical properties, and **DeFi Integration Specialists** who get the tokens accepted as collateral in [DeFi protocols](/what-is-defi).
+
+### 4. What skills do I need to work in this field?
+You need a hybrid skillset. A background in either real estate (finance, law, asset management) or Web3 (smart contract development) is essential. The most valuable professionals are those who can bridge both worlds.
+
+### 5. What are the biggest challenges facing real estate tokenization?
+The main hurdles are regulatory uncertainty (especially around securities law), the difficulty of reliably valuing physical properties on-chain, and building trust with the traditionally conservative real estate industry.

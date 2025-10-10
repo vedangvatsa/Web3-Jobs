@@ -64,3 +64,22 @@ Prompt engineering is not a replacement for traditional programming. We will sti
 Mastering the art of clear, precise, and creative communication with AI is the most leveraged skill you can build today. It's the key that unlocks the power of this new technological paradigm, and it will be the foundation for countless careers in the coming decade.
 
 Ready to take your skills to the next level? Explore jobs in AI and Web3 on our [Web3 Job Board](/jobs).
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Prompt Engineering?
+Prompt Engineering is the skill of designing effective inputs ("prompts") to guide Large Language Models (LLMs) to produce accurate, reliable, and desired outputs. It's the art of communicating with an AI.
+
+### 2. Is Prompt Engineering a type of coding?
+Not in the traditional sense. You don't use a formal programming language like Python or Java. Instead, the "programming language" is natural language (like English). However, it requires a similar logical and structured way of thinking.
+
+### 3. Why is this skill so demanding?
+It requires a unique blend of creativity, logic, and precision. A great prompt engineer knows how to provide the right context, use examples ("few-shot prompting"), and structure their prompts to get consistently high-quality results from an AI.
+
+### 4. Will Prompt Engineering replace developers?
+No. It's a new skill that will augment developers, making them more productive. We will still need engineers to build the core AI models and the complex applications that integrate them. This is especially true for hybrid roles like the [AI/Web3 Engineer](/ai-and-web3-engineering-careers).
+
+### 5. How can I learn Prompt Engineering?
+The best way is through hands-on practice. Use a powerful LLM like ChatGPT or Claude and try to get it to perform complex tasks. Iterate on your prompts to improve the output. Study advanced techniques like "Chain of Thought" prompting to enhance the AI's reasoning abilities.

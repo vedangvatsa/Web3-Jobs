@@ -63,3 +63,22 @@ In the final week of onboarding, the focus shifts to their specific role.
 -   **Patience and Investment:** Successfully onboarding non-technical talent is an investment. It takes time and resources, but the payoff is immense. A skilled professional who has been given the time to become truly crypto-native can bring a level of strategic thinking and execution that can transform a project.
 
 By taking a structured, empathetic, and immersive approach, Web3 projects can successfully bridge the context gap and empower talented professionals from all backgrounds to thrive in the decentralized world.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Why is onboarding for non-technical roles in Web3 so important?
+It's crucial because new hires are not just learning a new job, but an entirely new industry with its own technology, culture, and language. A structured onboarding process is key to bridging this knowledge gap and ensuring long-term success, helping to [close the Web3 talent gap](/closing-the-web3-talent-gap).
+
+### 2. What is the most important part of the onboarding process?
+Hands-on immersion. You must give your new hire a wallet and a small budget and require them to use dApps. Experiencing the user journey firsthand, including the pain points, is the most valuable lesson. This practical experience is a core part of the [Web3 employee onboarding checklist](/employee-onboarding-checklist).
+
+### 3. What is a "rabbit hole" assignment?
+This is an assignment for the first week where the new hire's only job is to learn. You provide them with a curated list of essential articles (like "[What is Web3?](/what-is-web3)"), podcasts, and project documents to get them up to speed on the fundamentals.
+
+### 4. How can I help a new non-technical hire feel comfortable asking questions?
+Create a safe and encouraging environment. Assign them an "onboarding buddy" from a technical team for 1-on-1 questions and create a dedicated `#newbie-questions` channel in your team's communication platform where no question is considered "stupid."
+
+### 5. How should I structure the first 30 days?
+A good structure is: **Week 1:** Deep immersion and cultural onboarding. **Week 2:** Product and protocol deep dive. **Week 3:** Making their first small, tangible contribution. **Week 4:** Focusing on their specific role and setting 90-day goals.

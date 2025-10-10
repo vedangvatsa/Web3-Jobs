@@ -68,3 +68,22 @@ Solana's declining developer activity is a warning sign that the ecosystem is fa
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. Is developer activity on Solana really declining?
+Yes, according to data from multiple on-chain analytics platforms, the number of weekly active developers on Solana has seen a sustained decline since its peak in late 2022. This contrasts with the more stable or growing developer counts in the Ethereum ecosystem.
+
+### 2. What caused this decline?
+It's a combination of factors. The collapse of FTX, a major supporter and builder in the Solana ecosystem, was a huge blow. This was compounded by past network stability issues and, most importantly, the rise of EVM-compatible **[Layer 2s](/guide-to-layer-2s)** on Ethereum, which offer an easier path for most developers.
+
+### 3. Is Rust a problem for Solana?
+Solana's primary language, Rust, is powerful but has a steep learning curve. This creates a barrier to entry compared to **[Solidity](/solidity-for-beginners)**, which is easier to learn and is the language most Web3 developers already know. Our guide to [building on Solana with Rust](/building-your-first-dapp-on-solana-with-rust) offers a starting point.
+
+### 4. What is the difference between Solana and Ethereum?
+[Solana](/what-is-solana) is a Layer 1 blockchain optimized for high speed and low cost, making different trade-offs on decentralization compared to [Ethereum](/what-is-ethereum). Ethereum's scaling strategy now focuses on using Layer 2s to handle high throughput, while the main chain provides maximum security.
+
+### 5. Is Solana a "dead" chain?
+No. Despite the decline in developer numbers, Solana still has a passionate community, a vibrant DeFi and NFT ecosystem, and is actively working on technical improvements like the Firedancer client to improve stability. However, the developer trend is a significant challenge it must overcome.

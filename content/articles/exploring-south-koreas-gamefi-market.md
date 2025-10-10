@@ -38,7 +38,7 @@ The primary challenge facing the GameFi market in South Korea is regulation. The
 The job market is incredibly strong for professionals with experience in the traditional gaming industry.
 
 -   **Game Developer (Unity/Unreal Engine):** This is the most in-demand role. Developers with strong skills in C++ or C# and experience working on large-scale multiplayer games are highly sought after.
--   **Game Economy Designer:** A specialized and critical role. These are the professionals who design the intricate in-game economies, balancing the token "faucets" and "sinks" to create a sustainable and engaging player experience.
+-   **Game Economy Designer:** A specialized and critical role. These are the professionals who design the intricate in-game economies, balancing the token "saucets" and "sinks" to create a sustainable and engaging player experience.
 -   **Business Development (IP Partnerships):** Roles focused on securing partnerships with major entertainment and anime/manga IP holders to bring new worlds and characters into the Web3 gaming space.
 -   **Legal and Compliance Specialists:** Professionals who can navigate the complex regulatory landscape of the Korean gaming market are invaluable.
 
@@ -67,3 +67,22 @@ South Korea is at the forefront of defining the future of interactive entertainm
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. Why is South Korea a leader in Web3 gaming?
+South Korea's dominance comes from its deep-rooted gaming culture, a massive and sophisticated player base, and the fact that its major traditional game publishers (like WeMade and Nexon) have heavily invested in [Web3 gaming](/exploring-web3-gaming).
+
+### 2. What are the most in-demand jobs in the Korean GameFi market?
+The most sought-after roles are experienced **Game Developers** (Unity/Unreal), **Game Economy Designers**, and **Business Development** professionals who can secure partnerships with major entertainment IP holders.
+
+### 3. What is the biggest challenge for GameFi in South Korea?
+The biggest challenge is **regulation**. The government has strict rules against "Play-to-Earn" (P2E) games that allow for direct cashing out of in-game earnings, classifying it as a form of gambling. This forces many companies to release different versions of their games for domestic and international markets.
+
+### 4. Do I need to speak Korean to get a job in Web3 in South Korea?
+Yes. For the vast majority of roles, especially non-technical ones, professional fluency in Korean is a mandatory requirement. The industry operates almost entirely in Korean.
+
+### 5. How can I get started in the Korean GameFi industry?
+The best path is to first gain experience in the traditional gaming industry in South Korea. Building a career at a major publisher provides the skills and network that are directly transferable to Web3. Attending major local conferences like G-STAR is also crucial for networking.

@@ -60,3 +60,22 @@ The developer activity slowdown is not an alarm bell signaling the death of Web3
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. Is the number of Web3 developers decreasing?
+Yes, recent data shows a [decline in the number of weekly active developers](/understanding-the-40-decline-in-blockchain-builder-activity) in the crypto space compared to the peak of the last bull market. However, the number of core, long-term builders remains strong.
+
+### 2. Why is developer activity slowing down?
+It's a combination of factors: the end of the speculative bull market has caused "tourist" developers to leave, VC funding has become more concentrated, and the industry's focus has shifted from launching new apps to maturing the underlying infrastructure.
+
+### 3. Is this slowdown a bad sign for the future of Web3?
+Not necessarily. Many see it as a healthy and natural phase of maturation. The "noise" of the bull market has faded, allowing serious builders to focus on creating sustainable, long-term value. This is a common pattern in [crypto market cycles](/how-to-survive-a-crypto-bear-market).
+
+### 4. How does the rise of AI affect this?
+The explosive growth of AI has captured significant attention and venture capital, some of which might have otherwise gone to Web3. This has created a competitive landscape for both funding and talent, as some developers [migrate from Web3 to AI](/ai-and-web3-hybrid-careers).
+
+### 5. What is happening with developer activity on specific chains like Solana?
+Chains like [Solana have seen a notable developer decline](/solanas-developer-activity-decline), partly due to the collapse of its biggest champion, FTX, and the strong competition from Ethereum's EVM-compatible Layer 2s, which offer an easier transition for many developers.

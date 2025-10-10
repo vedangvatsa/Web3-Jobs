@@ -58,3 +58,22 @@ These assignments test your ability to connect a frontend to smart contracts.
 *   **Don't Over-Engineer:** It's a test, not a production system. Focus on writing clean, correct, and well-tested code that meets the requirements.
 
 By preparing for these common scenarios, you can approach your next Web3 take-home assignment with confidence and showcase the skills that will get you hired.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Why do Web3 companies give take-home assignments?
+Companies use them to test your practical coding skills, your approach to security, and your ability to build a small project from end to end. It's a way to see your actual work, which is more valuable than a resume.
+
+### 2. How important are tests in a take-home assignment?
+Extremely important. For a smart contract assignment, submitting code without a comprehensive test suite is a major red flag. It shows a lack of professionalism and a poor security mindset.
+
+### 3. What is the most common smart contract assignment?
+Building a simple DeFi primitive is very common. A staking contract is a classic example because it tests your understanding of ERC-20 interactions, state management, and reward calculation logic.
+
+### 4. What if the assignment has a security vulnerability?
+Sometimes, companies will intentionally give you a vulnerable piece of code to see if you can spot it. Always review your own code with a security-first mindset and document any potential [vulnerabilities](/common-smart-contract-vulnerabilities-explained) and how you mitigated them.
+
+### 5. What are they looking for in a frontend assignment?
+They are testing your ability to use libraries like Ethers.js or Viem to interact with the blockchain. This includes connecting a wallet, reading on-chain data, and sending transactions. A clean UI and good error handling are also key. For more, check our guide on [passing a Solidity technical interview](/how-to-pass-a-solidity-technical-interview).

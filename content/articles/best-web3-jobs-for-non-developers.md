@@ -60,8 +60,27 @@ Since you don't have code to show on GitHub, your portfolio is your collection o
 
 1.  **Immerse Yourself:** This is the non-negotiable first step. [Become a user](/how-to-land-first-web3-job). Use DeFi, buy an NFT, join a DAO. You cannot contribute to a culture you don't understand.
 2.  **Become a Scribe or Analyst:** Find a project you admire and join their community call. Take detailed notes and post a well-written summary on their Discord or governance forum. This is an incredibly valuable contribution that gets you noticed immediately.
-3.  **Write in Public:** Start a blog on Mirror or Substack, or a Twitter thread series. Pick a complex Web3 topic you've just learned and explain it in simple terms. This showcases your communication skills. Or, write a detailed analysis of a project's marketing or product strategy.
+3.  **Write in Public:** Start a blog on Mirror or Substack, or a Twitter thread series. Pick a complex Web3 topic you've just learned and explain it in simple terms. This showcases your communication skills.
 4.  **Create a Dune Dashboard:** If you have any data skills, learn some basic SQL and create a dashboard on Dune Analytics that tracks a protocol's key metrics. This is a massive signal of your analytical abilities.
 5.  **Join a DAO and Contribute:** This is the single best way to get hired. Find a DAO, join a working group that aligns with your skills (e.g., Marketing Guild), and start picking up small tasks or "bounties." This is your verifiable, on-chain work experience.
 
 You don't need to be a developer to build the future of the internet. The Web3 space needs your non-technical skills. By immersing yourself in the culture, adapting your existing expertise, and building a public portfolio of your "proof of work," you can position yourself for a high-impact and rewarding career in one of the fastest-growing industries in the world.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the most in-demand non-technical role in Web3?
+Community Manager is arguably the most critical and in-demand role. Because Web3 projects are community-owned and governed, a skilled [Community Manager](/web3-community-manager-career) who can foster a healthy and engaged community is invaluable.
+
+### 2. Can I get a marketing job in Web3 without a technical background?
+Yes. While technical literacy is important, [Web3 marketing jobs](/web3-marketing-jobs) prioritize cultural fluency, storytelling, and community-building skills over a deep technical background. Your ability to create authentic content is key.
+
+### 3. How can I gain experience if I haven't worked in crypto before?
+The best way is through "permissionless contribution." Start by joining a [DAO (Decentralized Autonomous Organization)](/how-to-contribute-to-daos-and-get-paid) and contributing to a working group that matches your skills. This public "proof of work" is more valuable than a traditional resume.
+
+### 4. Are there jobs for designers in Web3?
+Absolutely. User Experience (UX) is a major hurdle for Web3 adoption, so skilled designers are desperately needed. A designer who can simplify complex wallet interactions and transaction flows is a huge asset. Read our [Web3 UX Design guide](/web3-ux-design) to learn more.
+
+### 5. How do I transition from a Web2 job to a Web3 job?
+Start by immersing yourself in the culture. Then, reframe your existing skills for a Web3 context and build a portfolio of public contributions (writing, data analysis, community help) to demonstrate your passion and expertise. Our guide on [breaking into Web3 for non-technical professionals](/breaking-into-web3-a-guide-for-non-technical-professionals) offers a full roadmap.

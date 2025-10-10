@@ -45,3 +45,22 @@ A Web3 Compliance Officer faces a unique challenge: how do you apply regulations
 4.  **Network with Web3 Legal and Compliance Teams:** Connect with professionals already in the space to understand their challenges and learn about opportunities.
 
 A career as a Web3 Compliance Officer is a chance to be at the center of one of the most important conversations in the industry: how to balance the ideals of decentralization with the realities of the existing legal system. It's a high-impact role for compliance professionals who are intellectually curious and eager to shape the future of finance.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Web3 Compliance Officer do?
+A Web3 Compliance Officer helps crypto companies and DAOs navigate the complex world of financial regulation. They are responsible for designing and implementing programs for Anti-Money Laundering (AML), sanctions screening, and ensuring the project's token is not in violation of [securities laws](/how-to-become-a-web3-legal-consultant).
+
+### 2. Why is compliance so challenging in Web3?
+The core challenge is applying regulations designed for centralized financial institutions to decentralized, pseudonymous protocols. For example, how do you perform "Know Your Customer" (KYC) on a user who is only interacting via a crypto wallet? This is a key area of focus for the [growing need for regulatory experts](/the-growing-need-for-web3-blockchain-regulatory-experts).
+
+### 3. What skills are needed for this role?
+A Web3 Compliance Officer needs a strong background in traditional financial compliance (especially AML/KYC), combined with a deep technical literacy of how blockchains and DeFi work. They must be comfortable with risk assessment in an ambiguous legal environment.
+
+### 4. How can I transition from a traditional compliance job to Web3?
+Start by immersing yourself in the Web3 ecosystem as a user. Then, get up to speed on the specific regulatory challenges in crypto, such as the SEC's application of the Howey Test and OFAC's sanctions on crypto mixers. Following crypto-focused legal experts and building a public profile of your analysis can be very effective.
+
+### 5. What is the difference between a Web3 Compliance Officer and a Web3 Lawyer?
+There is significant overlap. A Compliance Officer is often focused on the operational implementation of AML and other compliance programs, while a [Web3 Lawyer](/legal-careers-in-web3) may focus more on broader legal strategy, such as corporate structuring for DAOs and securities law analysis.

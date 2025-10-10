@@ -40,3 +40,22 @@ Building an NFT marketplace requires a full-stack skill set, bridging on-chain a
     -   Implement the functionality for a user to buy an NFT. This will involve the user approving the marketplace contract to spend their ERC-20 tokens, and then calling the `buy` function.
 
 A career as an NFT Marketplace Developer is an opportunity to work at the intersection of technology, art, and culture. By mastering the key on-chain and off-chain technologies, you can build the platforms that will power the future of the creator economy.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does an NFT Marketplace Developer do?
+An NFT Marketplace Developer is a full-stack Web3 engineer who builds the platforms for creating and trading NFTs. This involves writing the **[smart contracts](/what-are-smart-contracts)** for the marketplace logic and building the user-facing frontend.
+
+### 2. What are the essential technical skills for this role?
+On the backend, you need expertise in **Solidity** and the **ERC-721** and **ERC-1155** NFT standards. On the frontend, you need mastery of **React/Next.js** and Web3 libraries like **Ethers.js** or **Viem**.
+
+### 3. What is a "subgraph" and why is it important for NFT marketplaces?
+Reading NFT ownership and metadata directly from the blockchain is very slow. A subgraph, built using **[The Graph protocol](/your-first-subgraph-indexing-blockchain-data-with-the-graph)**, is an indexed and queryable dataset that provides a fast and efficient API for the marketplace's frontend.
+
+### 4. What is a good portfolio project to become an NFT developer?
+The classic portfolio path is to first build your own **[NFT collection](/what-are-nfts)** and a simple minting site. Then, as a capstone project, build your own basic NFT marketplace contract and a frontend to interact with it.
+
+### 5. What are the career opportunities in the NFT space beyond development?
+The NFT ecosystem has a wide range of jobs. Our guide to **[NFT jobs](/nft-jobs-explained)** covers roles like Community Manager, Artist, Marketing Lead, and Game Economy Designer, all of which are critical to the success of an NFT project.

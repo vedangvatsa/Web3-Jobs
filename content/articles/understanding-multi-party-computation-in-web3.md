@@ -63,3 +63,22 @@ MPC can be used for more than just signatures. It can allow multiple parties to 
 The biggest challenge for MPC is its complexity. The underlying cryptography is highly advanced, and implementing it securely is difficult. However, as the technology matures and becomes more battle-tested, it is rapidly becoming the gold standard for institutional-grade digital asset security.
 
 MPC represents a paradigm shift from the on-chain, smart contract-based security of multisigs to a more flexible, private, and efficient off-chain cryptographic model. It provides an elegant solution to the problem of single-point-of-failure keys, enabling a new generation of secure, user-friendly, and interoperable applications across the Web3 ecosystem.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Multi-Party Computation (MPC)?
+MPC is a cryptographic technique that allows multiple parties to jointly compute a function using their private inputs, without revealing those inputs to each other. In Web3, it's primarily used to manage private keys by splitting a single key into multiple "shares."
+
+### 2. How is MPC different from a multisig wallet?
+A multisig wallet is a **[smart contract](/what-are-smart-contracts)** that requires multiple on-chain signatures to approve a transaction. MPC is an **off-chain** cryptographic process where multiple parties use their key "shares" to create a single on-chain signature. This makes MPC faster, cheaper, and more private than a multisig.
+
+### 3. What are the benefits of using MPC for key management?
+MPC offers several advantages: it's faster and cheaper (only one on-chain transaction), more private (the security policy is not public), and blockchain-agnostic (it can be used with non-smart-contract chains like Bitcoin).
+
+### 4. What is the main use case for MPC in Web3 today?
+The primary use case is **institutional custody**. Large exchanges and custodians use MPC to secure user assets because it allows them to create complex, off-chain security policies without the cost and speed limitations of on-chain multisigs.
+
+### 5. Can MPC be used to improve user wallets?
+Yes. MPC is a key technology for enabling **[Account Abstraction](/account-abstraction-explained)** and social recovery. It can allow a user to split their key between their phone, laptop, and a trusted friend, removing the single point of failure of a seed phrase.

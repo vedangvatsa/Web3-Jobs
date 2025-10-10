@@ -40,3 +40,22 @@ AI systems often require large amounts of data, which can create privacy risks.
 -   **In Practice:** This involves using privacy-preserving techniques like federated learning (where the model is trained on data locally, without the data ever leaving the user's device) and differential privacy.
 
 Building responsible AI is not a barrier to innovation; it is a prerequisite for it. By embedding these principles into the entire lifecycle of an AI system, we can build trust with users, mitigate risks, and ensure that the powerful tools we are creating are used to build a better and more equitable future.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Responsible AI?
+Responsible AI is a governance framework for building artificial intelligence systems that are safe, trustworthy, and aligned with human values. Its core principles include fairness, transparency, accountability, security, and privacy.
+
+### 2. Why is fairness a major issue in AI?
+AI models learn from data. If the data reflects historical biases (e.g., biased lending practices), the AI will learn and amplify those biases, leading to unfair outcomes. A key part of Responsible AI is auditing for and mitigating this bias.
+
+### 3. What is the "black box" problem in AI?
+The "black box" problem refers to the fact that the decision-making processes of many complex AI models are opaque and difficult for humans to understand. "Explainable AI" (XAI) is a field dedicated to making these models more transparent and interpretable.
+
+### 4. How can we ensure accountability for AI actions?
+Establishing clear lines of human accountability is a major challenge. This involves creating strong [AI governance models](/ai-accountability-governance-models), ensuring there is always meaningful human oversight, and having the ability to intervene or override an AI's decisions.
+
+### 5. How does this relate to the convergence of AI and Web3?
+The [combination of AI and Web3](/web3-and-ai) offers powerful tools for building more responsible AI. For example, a blockchain can provide a transparent and immutable audit trail for an AI's training data and decisions, enhancing its accountability.

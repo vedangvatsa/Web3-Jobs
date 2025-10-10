@@ -69,3 +69,22 @@ Making money in Web3 requires a shift from the traditional mindset of "applying 
 -   **Embracing the Culture:** You must immerse yourself in the space to understand the needs of the projects and the language of the community.
 
 The decentralized economy is open to anyone who is willing to learn and contribute. By leveraging your existing skills and embracing the "proof of work" ethos, you can build a sustainable and rewarding career in this exciting new industry.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Do I need to be a developer to make money in Web3?
+No, absolutely not. While development is a high-paying field, there are numerous opportunities for non-technical professionals. Roles in **[community management](/web3-community-manager-career)**, **[marketing](/web3-marketing-jobs)**, **content creation**, and **design** are in high demand.
+
+### 2. How can I get started with no experience?
+The best way to start is by contributing to a **[DAO (Decentralized Autonomous Organization)](/how-to-contribute-to-daos-and-get-paid)**. You can take on small, paid "bounties" for tasks like writing, design, or community moderation. This is the best way to build a "proof of work" portfolio.
+
+### 3. What is the most accessible entry-level role?
+**Community management** is often the most common entry point. By being an active and helpful member of a project's Discord, you can get noticed and often transition into a paid moderator or community manager role.
+
+### 4. Can I earn a full-time income through freelance Web3 gigs?
+Yes. Many people make a full-time living by working as contributors to one or more DAOs. This path offers a high degree of flexibility but requires discipline and good financial management. Our guide on [freelance vs. full-time Web3 careers](/freelance-vs-full-time-web3-career) explores this in detail.
+
+### 5. Are Web3 jobs well-paid?
+Yes, the [earning potential in Web3 is very high](/decoding-web3-salary), often exceeding comparable roles in traditional tech. This is due to a massive demand for a small pool of specialized talent.

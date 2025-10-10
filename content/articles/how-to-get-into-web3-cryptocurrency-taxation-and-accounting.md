@@ -39,3 +39,22 @@ Traditional accounting principles were not designed for bearer assets that can b
 5.  **Build a Public Profile:** Start a blog or a Twitter account where you write about complex crypto tax issues. This will establish you as a thought leader and attract clients.
 
 A career in crypto accounting is for professionals who love solving complex puzzles and are comfortable with ambiguity. It's a chance to become a leading expert in a rapidly growing field that is in desperate need of your skills.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How is crypto taxed in the US?
+In the United States, the IRS treats cryptocurrency as **property**, not currency. This means it's subject to capital gains tax. You realize a taxable event whenever you sell, trade, or spend your crypto. For a more detailed overview, see our [beginner's guide to crypto taxes](/crypto-taxes-guide).
+
+### 2. What is the biggest challenge in crypto accounting?
+The biggest challenge is **tracking the cost basis** for every transaction. Since every trade between different cryptocurrencies is a taxable event, accurately calculating the capital gain or loss for active users with thousands of transactions is nearly impossible without specialized software.
+
+### 3. What kind of tools do crypto accountants use?
+Crypto accountants rely on specialized software like **CoinLedger, Koinly, and TokenTax**. These platforms connect to a client's various exchange accounts and wallets to automatically aggregate transaction data and calculate gains and losses.
+
+### 4. How is DeFi income (like staking or yield farming) taxed?
+The guidance is still evolving. Income from activities like [staking](/how-to-become-a-web3-staking-specialist) or [yield farming](/what-is-yield-farming) is often treated as ordinary income at the time it is earned. However, the specifics are complex, and this is a key area where expert advice is needed.
+
+### 5. How can I start a career in crypto accounting?
+The first step is to have a strong foundation in traditional accounting (a CPA is highly recommended). After that, you must immerse yourself in the Web3 world as a user to understand the products. Finally, master the specialized tax software and build a public profile as an expert in the niche.

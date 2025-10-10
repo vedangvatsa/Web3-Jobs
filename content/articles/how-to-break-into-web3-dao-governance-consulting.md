@@ -14,7 +14,7 @@ A Governance Consultant, often called a "Governance Facilitator," addresses crit
 
 -   **Mechanism Design:** Designing the core voting and proposal systems for a DAO. This involves choosing between different models like 1-token-1-vote, quadratic voting, or conviction voting.
 -   **Process Facilitation:** Actively managing the governance process by moderating forums, organizing community calls, and ensuring that proposals move smoothly from discussion to an on-chain vote.
--   **Delegate Program Management:** Many DAOs use a delegate system (where token holders can delegate their vote to a trusted expert). A consultant helps to recruit, support, and manage these delegates.
+-   **Delegate Program Management:** Many DAOs use a delegate system (where token holders can delegate their voting power to a trusted expert). A consultant helps to recruit, support, and manage these delegates.
 -   **Research and Analysis:** Analyzing the effectiveness of a DAO's current governance model and proposing data-driven improvements.
 
 ### How to Get Started
@@ -25,3 +25,22 @@ A Governance Consultant, often called a "Governance Facilitator," addresses crit
 4.  **Publish Your Analysis:** Start a blog or a Substack where you publish your analysis of different DAO governance systems. A strong portfolio of public research is your best resume.
 
 A career in DAO governance consulting is for those who are fascinated by the challenge of building new models of human coordination at scale. It's a chance to be a foundational architect of the political systems of the new internet.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a DAO Governance Consultant do?
+A DAO Governance Consultant helps [Decentralized Autonomous Organizations (DAOs)](/what-is-a-dao) design and manage their decision-making processes. This includes designing voting systems, facilitating proposals, and analyzing the effectiveness of the governance model. This is the core responsibility of a [Web3 Governance Lead](/what-is-a-web3-governance-lead).
+
+### 2. What skills are needed for this role?
+This role requires a unique blend of skills, including a deep understanding of **political science**, **game theory**, and **economics**. Strong communication and facilitation skills are also essential for managing community discussions.
+
+### 3. How do DAOs make decisions?
+DAOs make decisions through a formal proposal and voting process. Members, typically holders of a governance token, can vote on proposals that dictate the future of the protocol.
+
+### 4. What is a "delegate" in a DAO?
+A delegate is a trusted community member to whom other token holders can "delegate" their voting power. This allows for more informed decision-making, as delegates are expected to have a deep understanding of the protocol and to vote thoughtfully on behalf of their constituents.
+
+### 5. How can I get experience in DAO governance?
+The best way to get started is to actively participate. Join a DAO, read all the governance proposals, and start contributing to the discussion forums. The next step is to become a delegate yourself and build a public track record of your voting decisions.

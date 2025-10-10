@@ -56,3 +56,22 @@ Security is paramount. You need automated tools to help you find vulnerabilities
 -   **Slither:** A static analysis framework developed by Trail of Bits. It automatically scans your Solidity code to find known vulnerability patterns, logic errors, and code quality issues. Running Slither should be a standard part of your CI/CD pipeline.
 
 Mastering this toolkit is the key to becoming an effective and professional Web3 developer. These tools not only make your development process more efficient but also instill the best practices for security and performance that are essential for building in the high-stakes environment of the decentralized web.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Which development environment should I learn, Foundry or Hardhat?
+For new developers, we recommend starting with **[Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit)**. Its speed and ability to write tests in Solidity offer a superior developer experience. However, since many existing projects use Hardhat, being familiar with both is a major advantage.
+
+### 2. What is a smart contract library and why should I use one?
+A smart contract library, like **OpenZeppelin Contracts**, provides secure, audited, and reusable code for standard components like ERC-20 and ERC-721 tokens. You should always use these libraries instead of writing standard components from scratch to reduce security risks.
+
+### 3. Why do I need an indexing protocol like The Graph?
+Reading data directly from the blockchain for a dApp's frontend is very slow and inefficient. An indexing protocol like **[The Graph](/your-first-subgraph-indexing-blockchain-data-with-the-graph)** processes blockchain data into a fast, queryable API, which is essential for building a responsive user interface.
+
+### 4. What is a static analysis tool?
+A static analysis tool like **Slither** automatically scans your smart contract source code for known vulnerabilities and bad practices without actually executing the code. It's an essential first step in the [smart contract security](/web3-security-best-practices) process.
+
+### 5. What are the most important skills for a Web3 developer?
+Beyond mastering these tools, the most important skills include a deep understanding of **[Solidity](/solidity-for-beginners)**, smart contract security, gas optimization, and Layer 2 scaling solutions. You can find a full list in our guide to the [top 10 Web3 developer skills](/top-10-web3-developer-skills).

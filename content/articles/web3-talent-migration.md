@@ -41,3 +41,22 @@ For many, the move to Web3 is driven by a dissatisfaction with the current state
 -   **A Culture of Meritocracy:** The Web3 space is heavily influenced by open-source culture. What you've built in public (your "proof of work") matters more than your resume or your pedigree. This meritocratic and transparent environment is attractive to those who want to be judged on the quality of their work, not their credentials.
 
 The Web3 talent migration is more than just a search for higher salaries. It's a search for meaning, impact, and ownership. It's a movement of builders who are not content to simply optimize the systems of the past, but are driven to architect the foundations of the future. While the path is riskier and the environment more volatile, the opportunity to be at the forefront of the next great technological paradigm shift is, for many, a calling that is too powerful to ignore.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Why are so many people leaving jobs at big tech companies for Web3?
+The primary drivers are a desire for **greater impact**, the **intellectual challenge** of working on unsolved problems, the allure of the **ownership economy** through token compensation, and a **philosophical alignment** with the principles of decentralization.
+
+### 2. Is it just about the money?
+While **[Web3 compensation is very high](/decoding-web3-salary)**, most top talent is motivated by more than just salary. The opportunity to have a direct ownership stake in a network and to work on foundational technology for the next internet is a powerful, non-financial incentive.
+
+### 3. What is the "ownership economy"?
+The ownership economy refers to the Web3 model where users and builders are also owners of the networks they participate in. This is primarily achieved through **[token-based compensation](/tokenomics-for-compensation)**, which gives employees a direct financial stake in the project's success.
+
+### 4. Isn't a career in Web3 very risky?
+Yes, a **[Web3 career has more risk](/web3-career-legitimacy)** than a traditional tech job due to market volatility and regulatory uncertainty. The talent migration represents a collective bet by these professionals that the potential rewards—in terms of impact, learning, and financial upside—outweigh these risks.
+
+### 5. How can I make the transition to Web3?
+The best way is to immerse yourself in the ecosystem and build a public "proof of work" portfolio. Our guide on **[how to get a Web3 job with no experience](/how-to-get-a-job-with-no-experience)** provides a detailed roadmap for making the leap.

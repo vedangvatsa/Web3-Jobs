@@ -64,3 +64,22 @@ Because tracking every transaction manually is nearly impossible, a new category
 - **Popular Tools:** CoinLedger, Koinly, TokenTax.
 
 Navigating crypto taxes is a critical responsibility for every participant in the ecosystem. While the rules can be complex, understanding the fundamentals of how crypto is treated as property, what constitutes a taxable event, and the difference between short-term and long-term gains will put you on the right path. Always keep good records, and when in doubt, use specialized software and consult a tax professional.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Is buying crypto a taxable event?
+No. In the U.S., buying crypto with fiat currency (like USD) is not a taxable event. You only incur a taxable event when you sell, trade, or spend your crypto.
+
+### 2. Do I have to pay taxes if I trade one crypto for another?
+Yes. Trading one cryptocurrency for another (e.g., Bitcoin for Ethereum) is a taxable event. You must calculate the capital gain or loss on the crypto you disposed of at the time of the trade.
+
+### 3. What's the difference between short-term and long-term capital gains?
+If you hold a crypto asset for one year or less before selling, your profit is a short-term capital gain, taxed at your normal income tax rate. If you hold it for more than one year, it's a long-term capital gain, which is taxed at a lower rate.
+
+### 4. How do I track all my crypto transactions for tax purposes?
+Manually tracking transactions across multiple wallets and exchanges is very difficult. It's highly recommended to use specialized crypto tax software like CoinLedger, Koinly, or TokenTax, which can automate this process. For more, see our guide on [how to get into crypto taxation and accounting](/how-to-get-into-web3-cryptocurrency-taxation-and-accounting).
+
+### 5. What if I work a remote job and get paid in crypto?
+If you are a [digital nomad](/crypto-guide-for-digital-nomads) or remote worker paid in crypto, your income is generally taxed based on your citizenship and residency status. This is a very complex area, and it is essential to consult with a tax professional who specializes in both crypto and expatriate taxes.

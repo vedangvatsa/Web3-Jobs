@@ -1,6 +1,6 @@
 ---
 title: "Tips from a Web3 Recruiter: How to Get Hired"
-image: "https://images.unsplash.com/photo-1556742212-5b321f3c261b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNydWl0ZXJ8ZW58MHx8fHwxNzU1MTYxOTk3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1556742212-5b321f3c261b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNydWl0ZXJ8ZW58MHx8fHwxNzU1MTYxOTk3fDA&lib=rb-4.1.0&q=80&w=1080"
 description: "Get insider tips from a Web3 headhunter. Learn what recruiters are looking for, the biggest red flags on a resume, and how to stand out in a competitive market."
 category: "Career Guides"
 ---
@@ -50,4 +50,23 @@ For roles in marketing, product, or community, we're looking for "T-shaped" indi
 3.  **Communicate Clearly:** Web3 teams are often remote and asynchronous. Your ability to communicate complex ideas clearly and concisely, especially in writing, is critical. Your take-home assignment is often as much a test of your communication skills as your technical skills.
 4.  **Be Honest About What You Don't Know:** The space moves too fast for anyone to be an expert in everything. It's better to say "I don't have deep experience with that, but here's how I would go about learning it" than to try and bluff your way through.
 
-The Web3 job market is competitive, but it's also a meritocracy. By demonstrating your passion, building a strong public portfolio of work, and preparing diligently for the interview process, you can stand out from the crowd and land a role at the forefront of the new internet.
+The Web3 job market is competitive, but it's a meritocracy. By demonstrating your passion, building a strong public portfolio of work, and preparing diligently for the interview process, you can stand out from the crowd and land a role at the forefront of the new internet.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the most important thing a Web3 recruiter looks for?
+**Genuine passion**. We want to see that you are intellectually curious about the space and not just chasing a high salary. The best way to show this is with a strong "proof of work" portfolio—your public projects, writing, and contributions.
+
+### 2. What's the biggest red flag on a resume?
+A resume with zero links. Your resume should be a gateway to your public work. If you claim to be a developer, link to your GitHub. If you're a writer, link to your blog. A resume without verifiable proof is a major red flag. This is a core part of **[how to write a Web3 resume](/how-to-write-a-web3-resume)**.
+
+### 3. How do you evaluate non-technical candidates?
+We look for deep users of the technology. A product manager applying for a DeFi role should be able to talk in detail about their own experiences using different protocols. We also look for public content (blog posts, Twitter threads) that showcases their strategic thinking.
+
+### 4. What's the secret to acing a Web3 interview?
+**Preparation**. Research the project deeply. Use their product. Read their documentation and governance forums. Go into the interview with specific, insightful questions that show you've done your homework. Our guide on **[how to stand out in interviews](/how-to-stand-out-in-crypto-job-interviews)** has more tips.
+
+### 5. What if I don't have any formal crypto job experience?
+Your "proof of work" is your experience. **[Contributing to a DAO](/how-to-contribute-to-daos-and-get-paid)**, building personal projects, or publishing high-quality analysis are all forms of experience that recruiters value highly, often more than a traditional job title.

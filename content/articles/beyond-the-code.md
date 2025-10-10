@@ -53,7 +53,26 @@ You don't need to be a coder to have "proof of work." Your portfolio is your col
 
 1.  **Immerse Yourself:** This is the non-negotiable first step. [Become a user](/how-to-land-first-web3-job). Use DeFi, buy an NFT, join a DAO. You cannot contribute to a culture you don't understand.
 2.  **Become a Scribe or Analyst:** Find a project you admire and join their community call. Take detailed notes and post a well-written summary on their Discord or governance forum. This is an incredibly valuable contribution that gets you noticed immediately.
-3.  **Write in Public:** Start a blog on Mirror or a Twitter thread series. Pick a complex Web3 topic you've just learned and explain it in simple terms. This showcases your communication skills. Or, write a detailed analysis of a project's marketing or product strategy.
+3.  **Write in Public:** Start a blog on Mirror or a Twitter thread series. Pick a complex Web3 topic you've just learned and explain it in simple terms. This showcases your communication skills.
 4.  **Join a DAO and Contribute:** This is the single best way to get hired. Find a DAO, join a working group that aligns with your skills (e.g., Marketing Guild), and start picking up small tasks or "bounties." This is your verifiable, on-chain work experience.
 
 You don't need to be a developer to build the future of the internet. The Web3 space needs your non-technical skills. By immersing yourself in the culture, adapting your existing expertise, and building a public portfolio of your "proof of work," you can position yourself for a high-impact and rewarding career in one of the fastest-growing industries in the world.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What are the best non-technical jobs in Web3?
+The most in-demand roles include **[Community Manager](/web3-community-manager-career)**, **Marketing Manager**, **Product Manager**, and **UX/UI Designer**. These roles are critical for driving adoption and building a strong user base.
+
+### 2. Can I get a Web3 job without any crypto experience?
+Yes, but you need to show initiative. The best way to [break into Web3 with no experience](/how-to-get-a-job-with-no-experience) is to immerse yourself in the culture, learn the fundamentals, and build a "proof of work" portfolio through public contributions like writing or community participation.
+
+### 3. What is a "proof of work" portfolio for a non-technical professional?
+It's a collection of your public contributions that showcase your skills. This could be insightful Twitter threads, analysis of a project's marketing strategy on a blog, detailed notes from a DAO community call, or a [Dune Analytics dashboard](/on-chain-analyst-job) you built.
+
+### 4. How important is community management in Web3?
+It's arguably the most important non-technical function. In Web3, the community is the product, the marketing team, and the support desk. A great community manager is essential for fostering a healthy and engaged ecosystem.
+
+### 5. How can I start contributing to a DAO?
+Join the Discord of a [DAO](/what-is-a-dao) that interests you. Start by listening and learning. Then, look for small ways to help, like answering questions from new members or summarizing a community call. This can lead to paid bounties and even full-time roles.

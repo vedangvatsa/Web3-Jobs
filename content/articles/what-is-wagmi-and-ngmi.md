@@ -26,3 +26,22 @@ NGMI is the opposite of WAGMI. It's a term of judgment, often used dismissively 
 -   **What it means:** It's a blunt way of saying, "You don't get it." It implies that the person or entity is on the wrong side of history and will miss out on the opportunities that Web3 presents.
 
 Together, WAGMI and NGMI form a cultural binary, separating the "in-group" of believers from the "out-group" of skeptics. While they can sometimes be used in a gatekeeping way, at their core, they represent the powerful sense of shared belief and conviction that drives the Web3 community forward.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does WAGMI mean in crypto?
+WAGMI stands for "We're All Gonna Make It." It's an optimistic rallying cry used to express a shared belief in the long-term success of Web3 and its community.
+
+### 2. What does NGMI mean?
+NGMI stands for "Not Gonna Make It." It's a term used to dismiss someone who makes a poor decision, shows a lack of understanding of crypto principles, or is overly skeptical about the space.
+
+### 3. Where did these terms come from?
+These terms originated in the online fitness and self-improvement communities, particularly on forums like 4chan, and were later adopted by the crypto community.
+
+### 4. How are WAGMI and NGMI used?
+They are used to quickly express a sense of community solidarity (WAGMI) or to pass judgment (NGMI). For example, "That project has a great team and a real use case, WAGMI." Or, "He sold all his Bitcoin because of a small dip? NGMI." You can learn more in our **[guide to Web3 slang](/meaning-of-crypto-and-web3-slangs-and-acronyms)**.
+
+### 5. What does it mean to have "paper hands"?
+Having "paper hands" is a classic NGMI behavior. It refers to someone who panics and sells their assets at the first sign of a price drop, lacking the conviction to **[HODL](/what-is-hodl-in-crypto)** for the long term.

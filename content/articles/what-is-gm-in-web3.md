@@ -21,3 +21,22 @@ While it seems trivial, "gm" is more than just a greeting; it's a cultural ritua
 -   **Permissionless Participation:** Anyone can say "gm." It's a small, easy way for anyone to participate in the culture, from a famous founder to a brand new community member.
 
 The "gm" culture is a perfect example of the unique blend of positivity and community that defines the best parts of the Web3 space. It's a small but significant tradition that binds the decentralized world together, one good morning at a time. The corresponding sign-off, "gn" (good night), serves a similar purpose, bookending the constant cycle of the global crypto community.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does 'gm' mean in crypto?
+'gm' is a simple acronym for "good morning." It's used as a daily greeting on platforms like Twitter and Discord to signal participation in the global Web3 community.
+
+### 2. Why is 'gm' so popular in Web3 culture?
+It's more than just a greeting; it's a cultural ritual. Saying 'gm' is a way to express optimism, foster a sense of community, and show that you are an active participant in the space. It's one of the most common pieces of **[crypto slang](/meaning-of-crypto-and-web3-slangs-and-acronyms)**.
+
+### 3. What is the appropriate response to 'gm'?
+The most common response is simply to say "gm" back.
+
+### 4. Is there a nighttime equivalent to 'gm'?
+Yes, the community often uses "gn" (good night) to sign off, continuing the cycle of global, 24/7 interaction.
+
+### 5. What does 'WAGMI' mean?
+WAGMI stands for "We're All Gonna Make It." It's another popular, optimistic rallying cry in the crypto community, expressing a shared belief in the future success of Web3. You can learn more in our **[guide to WAGMI/NGMI](/what-is-wagmi-and-ngmi)**.

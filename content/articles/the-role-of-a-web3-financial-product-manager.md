@@ -36,3 +36,22 @@ While a generalist Web3 PM might work on a wallet or an NFT marketplace, a Finan
     -   Write a governance proposal for a major DeFi DAO suggesting an improvement to their risk parameters.
 
 The role of the Web3 Financial Product Manager is one of the most challenging and rewarding in the industry. It's an opportunity to be an architect of a new, more open and efficient financial system, designing the products that will power the future of money.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is a Web3 Financial Product Manager?
+A Web3 Financial Product Manager is a specialized PM who focuses on building **[DeFi (Decentralized Finance)](/what-is-defi)** products. They combine skills in product management, finance, and economics to design and manage on-chain financial protocols like exchanges and lending platforms.
+
+### 2. How is this role different from a general Web3 Product Manager?
+While a general **[Web3 PM](/web3-product-manager-jobs)** might work on a wallet or an NFT platform, a Financial PM works on the core "money legos" of DeFi. They need a much deeper understanding of financial primitives, risk management, and **[tokenomics](/understanding-tokenomics)**.
+
+### 3. What skills are most important for a Web3 FPM?
+A deep knowledge of both traditional finance and DeFi is essential. They also need strong analytical skills to model risk and a deep appreciation for protocol security. Practical experience as a DeFi "power user" is a must.
+
+### 4. Who are the target users for the products an FPM builds?
+The users are often financially sophisticated. They can range from retail "degens" who are expert **[yield farmers](/what-is-yield-farming)** to large financial institutions and trading firms.
+
+### 5. How can I transition into this role?
+The best path is to start with a background in either traditional finance (e.g., as a quant) or as a PM at a fintech company. Then, you must become a DeFi power user and build a public portfolio of your analysis (e.g., writing critiques of protocol designs or building financial dashboards on Dune) to demonstrate your expertise.

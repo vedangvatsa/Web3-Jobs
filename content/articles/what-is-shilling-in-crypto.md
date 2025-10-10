@@ -37,3 +37,22 @@ Being able to identify shilling is a critical part of [Doing Your Own Research (
 No. There is a fine line between genuine enthusiasm for a project you believe in and disingenuous shilling. A person who writes a detailed, well-researched analysis of a project, including both its strengths and weaknesses, is not a shill. A person who tweets rocket emojis and vague promises of "100x gains" probably is.
 
 In the decentralized and often anonymous world of Web3, it's essential to be skeptical. Treat every promotion with a healthy dose of caution and always do your own research before investing.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does it mean to "shill" a crypto project?
+Shilling is the act of promoting a cryptocurrency or NFT, often in an overly enthusiastic or disingenuous way, to create hype and drive up the price for personal gain.
+
+### 2. How can I spot a shill?
+Look for red flags like a lack of substance in their promotion, a sense of extreme urgency, unrealistic price predictions ("100x!"), and a failure to mention any risks. A shill's primary goal is to generate **[FOMO](/meaning-of-crypto-and-web3-slangs-and-acronyms)** (Fear Of Missing Out).
+
+### 3. Is it illegal to shill crypto?
+In many jurisdictions, yes. Promoting a financial asset without disclosing that you are being paid to do so can be illegal. However, enforcement in the global, pseudonymous world of crypto is difficult.
+
+### 4. What is a "pump and dump" scheme?
+This is a common tactic associated with shilling. A group of insiders will buy a token at a low price, "pump" up the price by generating massive hype and shilling, and then "dump" (sell) their holdings on the new, unsuspecting buyers, causing the price to crash.
+
+### 5. What's the best defense against shilling?
+**[DYOR (Do Your Own Research)](/what-is-dyor-in-crypto)**. This is the golden rule of crypto. Be skeptical of hype, investigate the project's team and technology for yourself, and make your own informed decisions.

@@ -61,3 +61,22 @@ Career growth in Web3 is a proactive process. It's about constantly learning, st
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. How can I ensure long-term career growth in Web3?
+The key is **continuous learning**. The industry moves incredibly fast. Dedicate time each week to stay on top of new technologies and trends. Our guide on [Web3 career growth and development](/web3-career-growth-and-development) offers more strategies for building a sustainable career.
+
+### 2. Should I be a generalist or a specialist?
+As the [Web3 market matures](/web3-market-maturation), the demand for deep specialists is increasing. While a broad understanding is useful, developing a "spike" of expertise in a high-demand niche (like ZK-proofs or DAO governance) is the best way to maximize your value.
+
+### 3. How do I move into a leadership role in Web3?
+Leadership in Web3 is about influence, not authority. You become a leader by earning the respect of the community. This involves mentoring others, taking the initiative to solve un-owned problems, and demonstrating your expertise through high-quality public contributions.
+
+### 4. Why is networking important for a long-term career?
+In the small and tight-knit Web3 world, your reputation and your network are everything. Building genuine, long-term relationships by [providing value to the community](/building-a-network-for-web3-career-opportunities) will lead to a steady stream of future opportunities.
+
+### 5. What are the future skills that will be most in demand?
+Looking ahead, the most valuable skills will be at the intersection of multiple fields. Hybrid roles like the **[AI/DAO Facilitator](/future-of-work-in-web3)**, who combines AI knowledge with governance expertise, or the **ZK Systems Engineer**, who combines advanced math and low-level programming, will be in high demand.

@@ -112,3 +112,22 @@ for (uint256 i = 0; i < length; i++) {
 **Warning:** Only use this if you are absolutely sure the arithmetic is safe. An unexpected overflow can be a major security vulnerability.
 
 Gas optimization is a deep and complex topic, but applying these fundamental techniques can lead to significant savings. It requires a developer to think not just about what the code does, but how the EVM actually
+
+---
+
+## Frequently Asked Questions
+
+### 1. Why is gas optimization important for Solidity developers?
+Gas optimization is critical because every operation on the Ethereum blockchain costs users real money. Writing gas-efficient code makes your dApp cheaper to use, which improves the user experience and can give your project a competitive advantage. It's one of the [top 10 skills for Web3 developers](/top-10-web3-developer-skills).
+
+### 2. What is the most expensive operation in Solidity?
+Writing to storage (using the `SSTORE` opcode) is by far the most expensive operation. A key optimization technique is to minimize the number of times your contract writes to state variables.
+
+### 3. What is "struct packing"?
+Struct packing is the practice of ordering variables within a `struct` from smallest to largest data type. This allows the EVM to "pack" multiple smaller variables into a single 256-bit storage slot, saving significant gas on storage writes.
+
+### 4. What's the difference between `calldata` and `memory`?
+`calldata` is a read-only data location for function arguments, while `memory` is a writable data location. Using `calldata` for external function parameters is cheaper because it avoids an unnecessary data copying step.
+
+### 5. How do L2s relate to gas optimization?
+[Layer 2 (L2) scaling solutions](/guide-to-layer-2s) are the ultimate form of gas optimization. By moving transaction execution off the main Ethereum chain, they can offer transaction fees that are 10-100x cheaper, making applications much more affordable for users.

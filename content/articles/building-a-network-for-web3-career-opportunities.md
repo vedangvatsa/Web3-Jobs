@@ -45,3 +45,22 @@ While Web3 is internet-native, in-person events are incredibly high-leverage net
 4.  **The "Warm" DM:** Once you've established this context, you can send a direct message. But again, don't ask for a job. Ask for feedback on a piece of your own work or ask a specific, insightful question about one of their projects.
 
 Building a network in Web3 is a marathon, not a sprint. It's a process of demonstrating value, sharing knowledge, and building genuine relationships. By consistently contributing to the ecosystem, you'll build a reputation that makes you a magnet for the best career opportunities in the space.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What's the best way to network in Web3 if I'm a beginner?
+The best way is to provide value first. Join the Discord of a project you like and start being helpful. Answer questions from other new members or summarize a community call. This "permissionless contribution" is the fastest way to [build a reputation and a network](/how-to-contribute-to-daos-and-get-paid).
+
+### 2. Is it okay to cold DM people for a job?
+It's generally not effective. A much better strategy is the "warm DM." First, engage with their public content, then send a message that provides value or asks an insightful question about their work. Our guide on [how to cold contact someone](/how-to-cold-contact-and-get-a-response) provides a full framework for this.
+
+### 3. How can I build a network as a non-technical person?
+Your public content is your network-building tool. Start a blog or Twitter account where you write analyses of projects, explain complex concepts simply, or share your strategic insights. This public "proof of knowledge" will attract followers and collaborators. This is a key part of [building your public brand](/how-to-build-a-public-on-chain-developer-brand).
+
+### 4. Are in-person conferences important for networking?
+Yes, very. While Web3 is remote-first, major conferences are incredibly high-leverage opportunities to meet a large number of people in a short amount of time. The informal "hallway track" conversations are often more valuable than the official talks.
+
+### 5. How does a DAO help with networking?
+A [DAO (Decentralized Autonomous Organization)](/what-is-a-dao) is a community of people working together. By joining a working group within a DAO, you collaborate on projects with other skilled professionals, building deep, trust-based relationships that often lead directly to career opportunities.

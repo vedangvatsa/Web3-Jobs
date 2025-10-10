@@ -1,6 +1,6 @@
 ---
 title: "Building a Killer Web3 Developer Portfolio"
-image: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0Zm9saW98ZW58MHx8fHwxNzU1MTYxODk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0Zm9saW98ZW58MHx8fHwxNzU1MTYxODk4fDA&lib=rb-4.1.0&q=80&w=1080"
 description: "In Web3, your GitHub is your resume. This guide covers the essential projects you need in your portfolio to land a job as a blockchain developer, from simple tokens to full-stack dApps."
 category: "Career Guides"
 ---
@@ -69,3 +69,22 @@ Follow this progression to build your skills and your portfolio from the ground 
   - Start small. Your first contribution could be fixing a typo in the documentation or adding a missing test case.
 
 Your portfolio is a living document that tells the story of your journey as a Web3 developer. By building these projects, you're not just learning to code; you're creating the evidence that will unlock your first (or next) job in this exciting industry. Start building today.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Why is a portfolio so important for a Web3 developer?
+In Web3, "proof of work" is everything. A strong portfolio on GitHub is the most direct way to prove your skills to a hiring manager, and it's often valued more highly than a traditional resume. It's a key part of **[building your on-chain brand](/how-to-build-a-public-on-chain-developer-brand)**.
+
+### 2. What are the essential projects for a beginner's portfolio?
+A great starting portfolio includes: an **ERC-20 token**, an **[NFT](/what-are-nfts) collection**, and a simple **DeFi staking dApp**. These projects cover the foundational standards and concepts of Web3 development.
+
+### 3. How important are tests in my portfolio projects?
+Extremely important. A comprehensive test suite for your smart contracts signals professionalism and a strong **[security mindset](/web3-security-best-practices)**. Many recruiters will look at your tests before they look at your contract code.
+
+### 4. How can I make my portfolio stand out?
+Go beyond tutorials. Build a more complex capstone project like a simple DAO or an auction contract. The most powerful way to stand out is to make a meaningful contribution to a well-known, open-source Web3 project.
+
+### 5. I have my portfolio, how should I present it?
+Create a simple, clean personal website that acts as a central hub for your work. On your resume, feature a "Portfolio" section at the top with a link to this website and your GitHub. Our guide on **[how to present your portfolio](/how-to-present-your-web3-portfolio-to-get-noticed)** has more detailed tips.

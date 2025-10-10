@@ -42,17 +42,17 @@ Hot wallets are software wallets that run on your computer or phone and are conn
 
 ### Cold Wallets (Offline)
 
-Cold wallets, also known as hardware wallets, are physical devices that store your private keys completely offline.
+Cold wallets, also known as hardware wallets, are a small, physical device that stores your private keys completely offline.
 
 - **Examples:** Ledger, Trezor.
-- **How they work:** When you want to make a transaction, you connect the hardware wallet to your computer. The transaction is prepared on the computer, but the final, critical step of signing the transaction with your private key happens on the secure, isolated hardware device itself. Your private keys never touch the internet.
+- **How they work:** When you want to make a transaction, you connect the hardware wallet to your computer (usually via USB). The transaction is prepared on your computer, but the final, critical step of signing the transaction with your private key happens on the secure, isolated hardware device itself. Your private keys never touch the internet.
 - **Pros:**
   - **Highest Security:** This is the most secure way to store your crypto. It's almost impossible for a hacker to access your keys remotely.
 - **Cons:**
   - **Less Convenient:** They are more cumbersome to use for frequent transactions.
   - **Cost:** You have to purchase the physical device.
 
-**Best For:** Storing the majority of your crypto assets for the long term. Think of it as your savings account or a vault.
+**Best For:** Storing the majority of your crypto holdings for the long term. Think of it as your savings account or a vault.
 
 ## Essential Crypto Security Habits
 
@@ -65,3 +65,22 @@ Cold wallets, also known as hardware wallets, are physical devices that store yo
 - **Never Give Out Your Private Keys or Seed Phrase:** It bears repeating. This is the golden rule of crypto.
 
 Navigating Web3 securely requires a shift in mindset. You must adopt a healthy level of skepticism and diligence. By understanding the tools at your disposal, like hardware wallets, and adopting simple but effective security habits, you can protect yourself from the vast majority of threats and confidently explore the exciting world of decentralized applications.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is a seed phrase and why is it so important?
+A seed phrase (or secret recovery phrase) is a list of 12-24 words that acts as the master key to your non-custodial crypto wallet. Anyone with your seed phrase can steal your funds. You must write it down, store it offline, and NEVER share it with anyone.
+
+### 2. What is the difference between a hot wallet and a cold wallet?
+A **hot wallet** (like MetaMask) is software connected to the internet, making it convenient but vulnerable. A **cold wallet** (like a Ledger or Trezor) is a physical hardware device that stores your keys offline, providing the highest level of security. Our [guide to choosing a wallet](/how-to-choose-a-crypto-wallet) explains this in more detail.
+
+### 3. What is the single best thing I can do to secure my crypto?
+Use a **hardware wallet** for the majority of your assets. This keeps your private keys completely offline and safe from online threats.
+
+### 4. What is a phishing attack in crypto?
+A phishing attack is when a scammer tricks you into visiting a fake website that looks like a legitimate dApp. They then trick you into signing a malicious transaction that drains your wallet. Always use bookmarks to navigate to crypto sites.
+
+### 5. What are smart contract approvals and why should I revoke them?
+When you use a dApp, you often give its smart contract "approval" to spend your tokens. Sometimes this approval is for an unlimited amount. It's a good security practice to periodically use a tool like Revoke.cash to cancel old approvals for dApps you no longer use, minimizing your risk.

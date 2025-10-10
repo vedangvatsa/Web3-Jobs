@@ -43,3 +43,22 @@ What does the job actually look like?
 3.  **Specialize:** The Web3 space is vast. Become an expert in a specific niche, whether it's NFT financialization, liquid staking derivatives, or [decentralized identity](/decentralized-identity-explained). Deep domain expertise is highly valued.
 
 The role of the Web3 Product Manager is one of the most challenging and rewarding in the industry. It's an opportunity to move beyond building apps and start designing entire economies, to manage products that are owned by their users, and to have a real stake in the open, permissionless future of the internet.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How is a Web3 Product Manager different from a Web2 PM?
+A Web3 PM's role is fundamentally different. They build for **owners, not just users**, must navigate **community governance** instead of setting a roadmap unilaterally, and analyze **public on-chain data** instead of private user databases.
+
+### 2. What skills are most important for a Web3 PM?
+The key skills are a hybrid of traditional and crypto-native abilities. This includes deep **ecosystem knowledge** (being a power user), **technical literacy**, an understanding of **[tokenomics](/understanding-tokenomics)** and mechanism design, and exceptional **written communication** for community engagement.
+
+### 3. Do I need to be a developer to be a Web3 PM?
+No, but you must be technically literate. You need to understand how a blockchain works and be able to have intelligent conversations with your engineers about the trade-offs of different architectures.
+
+### 4. How can I get a job as a Web3 PM with no direct crypto experience?
+The best way is to build a public "proof of work" portfolio. Write detailed product critiques of existing dApps, create Dune Analytics dashboards to analyze user behavior, or write a mock governance proposal for a feature you think a DAO should build. Our **[Web3 Product Manager Roadmap](/web3-product-manager-roadmap)** provides a full guide.
+
+### 5. What does a "community-led roadmap" mean?
+It means that major product decisions are not made by the PM alone. They must be proposed to, debated by, and ultimately approved by the community of token holders through a formal governance process. A Web3 PM's job is as much about persuasion and consensus-building as it is about traditional product planning.

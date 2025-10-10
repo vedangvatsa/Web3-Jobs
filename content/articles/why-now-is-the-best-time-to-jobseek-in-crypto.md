@@ -67,3 +67,22 @@ A bear market is a filter. It filters out the weak projects and the short-term s
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. Are companies still hiring in a crypto bear market?
+Yes. While some speculative projects may conduct layoffs, well-funded, serious projects use the bear market as a prime opportunity to hire top talent. The competition for these roles is often lower than during a bull market.
+
+### 2. Is it a good time to enter the Web3 job market as a beginner?
+A bear market is the perfect time for a beginner to enter the space. There is less noise and hype, making it easier to focus on learning the fundamentals. Your commitment to learning during the "hard times" is a powerful signal of genuine interest. Our guide on **[how to start a Web3 career](/how-to-start-a-web3-career)** is a great resource.
+
+### 3. How can I find the projects that are built to last?
+Look for projects with strong financial backing from reputable VCs, a clear long-term vision, and a team that continues to ship product regardless of market conditions. Performing deep due diligence on a project is crucial; our guide on **[how to research a blockchain startup](/how-to-research-a-blockchain-startup)** can help.
+
+### 4. How does a bear market affect salary and compensation?
+While the USD value of token-based compensation may be lower in a bear market, base salaries often remain competitive. A job offer received during a bear market is a strong signal that a company is hiring for the long term and values your skills.
+
+### 5. What should I do to prepare for a job search during a bear market?
+Focus on building your "proof of work" portfolio. This is the perfect time to go deep on learning a new skill, contribute to an open-source project, or write in-depth analyses. This demonstrates your long-term conviction and makes you a much stronger candidate. Read our full guide on **[how to survive a crypto bear market](/how-to-survive-a-crypto-bear-market)** for more strategies.

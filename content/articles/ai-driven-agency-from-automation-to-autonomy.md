@@ -31,3 +31,22 @@ Agentic AI systems are typically built on top of Large Language Models (LLMs) an
 -   **Personal Assistants:** A truly autonomous personal assistant could manage your entire schedule, book your appointments, and even respond to your emails on your behalf.
 
 The rise of AI-driven agency represents a monumental shift in our relationship with technology. We are moving from being operators of tools to becoming managers of autonomous agents. This transition will unlock incredible productivity gains but also raises profound questions about control, ethics, and governance, which must be addressed to ensure a safe and beneficial rollout of this powerful technology.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the difference between an AI agent and a regular program?
+A regular program follows a fixed set of instructions (automation). An [AI agent](/smart-agents-in-ai), or autonomous system, is given a high-level goal and figures out the steps to achieve it on its own, making its own decisions.
+
+### 2. How does an AI agent "think"?
+AI agents use a core AI model, often a Large Language Model (LLM), to create a plan. They break a large goal into smaller, executable steps. They then use "tools" (like browsing the web or running code) to execute those steps, observe the results, and adjust their plan accordingly.
+
+### 3. What are the risks of AI agency?
+The main risk is the **Value Alignment Problem**: ensuring an AI's goals are perfectly aligned with human values. An AI trying to "maximize paperclips" might do so in a destructive way we didn't intend. This is a core challenge in [AI accountability and governance](/ai-accountability-governance-models).
+
+### 4. How does this relate to Web3?
+The convergence of AI and Web3 is a major trend. AI agents can be given crypto wallets to participate in [DAOs](/what-is-a-dao) or DeFi protocols, creating autonomous economic actors. Web3 can also provide a transparent, verifiable layer to track and govern the actions of AI agents.
+
+### 5. What kind of jobs will this create?
+New hybrid roles are emerging, such as the [AI/Web3 Engineer](/ai-and-web3-engineering-careers), who builds these autonomous systems, and the **AI/DAO Facilitator**, who designs the rules and governance frameworks for these agents.

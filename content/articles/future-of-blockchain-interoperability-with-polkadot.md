@@ -46,7 +46,7 @@ The real magic of Polkadot is how these parachains communicate. This is enabled 
 
 ### Polkadot vs. Other Interoperability Solutions
 
--   **Cosmos:** The Cosmos ecosystem has a similar "hub and spoke" vision with its "Cosmos Hub" and "Zones." A key difference is that in Cosmos, each Zone is responsible for its own security. In Polkadot, all parachains share security from the central Relay Chain.
+-   **Cosmos:** The Cosmos ecosystem has a similar "hub and spoke" vision with its "Cosmos Hub" and "Zones." A key difference is that in [Cosmos](/exploring-cosmos-sdk-for-web3-development), each Zone is responsible for its own security. In Polkadot, all parachains share security from the central Relay Chain.
 -   **LayerZero & CCIP:** These are messaging protocols designed to connect existing, monolithic blockchains (like Ethereum and Avalanche). Polkadot, by contrast, is a framework for building new, interoperable blockchains from the ground up.
 
 ### The Challenges and the Future
@@ -57,3 +57,22 @@ Polkadot's vision is ambitious and technologically complex.
 -   **Ecosystem Growth:** While the technology is powerful, Polkadot's ecosystem of dApps and users has not yet grown to the size of Ethereum's.
 
 Despite these challenges, Polkadot represents one of the most compelling and comprehensive solutions to the problem of blockchain interoperability. Its architecture provides a scalable and secure framework for a future where a diverse ecosystem of specialized blockchains can communicate and share value seamlessly. As the Web3 world continues to expand into a multichain reality, the principles of shared security and native interoperability pioneered by Polkadot will be more important than ever.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Polkadot?
+Polkadot is a [Layer 1 blockchain](/what-is-a-layer-1-blockchain) protocol designed to enable interoperability between multiple different blockchains. It uses a "hub and spoke" model with a central Relay Chain providing security to a network of connected, specialized "parachains."
+
+### 2. What is a parachain?
+A parachain is an application-specific blockchain that is connected to and secured by the Polkadot Relay Chain. Each parachain can be optimized for a particular use case, such as DeFi, gaming, or identity.
+
+### 3. What is the difference between Polkadot and Cosmos?
+Both aim to create an "internet of blockchains," but they have different security models. In Polkadot, all parachains share security from the central Relay Chain. In [Cosmos](/exploring-cosmos-sdk-for-web3-development), each independent blockchain (or "Zone") is responsible for its own security.
+
+### 4. What is XCM?
+XCM (Cross-Consensus Message Format) is the "language" that allows parachains on Polkadot to communicate with each other. It enables more than just token transfers; it allows for true cross-chain smart contract calls and data sharing.
+
+### 5. What programming language is used for Polkadot development?
+The primary language for building parachains and working within the Polkadot ecosystem is **Rust**. This is one of the [top 5 languages for Web3 development](/top-5-web3-languages) due to its performance and safety features.

@@ -66,3 +66,22 @@ The best way to learn is by building. Follow this project progression to build y
 - **Hackathons:** Participate in hackathons like those hosted by ETHGlobal. They are a great way to learn fast, meet people, and win grants.
 
 The journey to becoming a blockchain developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building, you'll acquire the skills and portfolio needed to land a high-impact role in this revolutionary industry.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What programming language should I learn first?
+For most aspiring Web3 developers, **[Solidity](/solidity-for-beginners)** is the best language to learn first. It's the most popular language for writing smart contracts on Ethereum and other major blockchains, and it has the largest community and the most learning resources.
+
+### 2. Do I need a computer science degree to be a blockchain developer?
+No, a formal degree is not required. The Web3 space is a meritocracy. A strong portfolio of projects on your GitHub is far more important than your educational background. However, a strong understanding of computer science fundamentals is a major advantage.
+
+### 3. How long does it take to become a blockchain developer?
+This depends on your prior experience. For an experienced developer from Web2, the transition can take 3-6 months of focused effort. For a complete beginner, a realistic timeline is 12-18 months.
+
+### 4. How do I build a portfolio with no experience?
+The best way is to follow a project-based learning path. Start with a simple storage contract, then an ERC-20 token, then an NFT collection, and finally a simple DeFi application. Our full [Blockchain Developer Roadmap](/blockchain-developer-roadmap) provides a detailed guide.
+
+### 5. Are blockchain developer jobs well-paid?
+Yes, they are among the [highest-paying jobs in all of tech](/highest-paying-web3-jobs). The high demand for a small pool of specialized talent has created very competitive salary packages.
