@@ -156,3 +156,22 @@ New governance models like liquid democracy, which blends direct and representat
 ## 10. App Stores for Decentralized Applications
 
 The emergence of app stores dedicated to dApps will improve discovery and distribution, providing a gateway for mainstream users to explore the Web3 ecosystem in a more familiar and trusted way.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How will AI agents work on the blockchain?
+AI agents in Web3 will operate as autonomous entities with their own crypto wallets. This allows them to own assets, sign transactions, and participate in decentralized protocols without human intervention. They can be used for tasks like optimizing DeFi strategies, managing decentralized infrastructure networks (DePINs), and even participating in governance.
+
+### 2. Why is making Web3 user-friendly so important for its future?
+For Web3 to achieve mass adoption, it must be accessible to non-technical users. The current complexity around wallet management, gas fees, and security is a major barrier. The "Hiding the Wires" trend focuses on abstracting this complexity away, creating seamless experiences similar to Web2 apps, which is crucial for onboarding the next billion users.
+
+### 3. What role will stablecoins play in enterprise adoption of Web3?
+Stablecoins are key for enterprise adoption because they offer the benefits of blockchain (fast, low-cost, global transactions) without the price volatility of other cryptocurrencies. Businesses can use stablecoins for cross-border payments, treasury management, and payroll, reducing reliance on slow and expensive traditional banking rails.
+
+### 4. How does tokenizing assets like biometric data or government bonds create new value?
+Tokenization allows illiquid, real-world assets to be represented as divisible, tradable tokens on a blockchain. For biometric data, it empowers individuals to own and monetize their information securely. For government bonds, it increases accessibility for smaller investors and allows these stable assets to be used as high-quality collateral within DeFi protocols, unlocking new financial possibilities.
+
+### 5. What is a "rollup-centric" future for Ethereum?
+An Ethereum "rollup-centric" future means that the majority of user transactions will happen on Layer 2 scaling solutions, known as rollups (like Arbitrum and Optimism), instead of directly on the main Ethereum blockchain. The main chain's role will shift to providing security and data availability, while the rollups handle the bulk of the transaction execution, resulting in a much more scalable and low-cost network for everyone.
