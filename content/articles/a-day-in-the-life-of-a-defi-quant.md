@@ -47,7 +47,7 @@ The analysis is complete, but the work isn't done. In DeFi, you have to convince
 
 The DeFi space moves at light speed. The final part of the day is dedicated to keeping up.
 
-*   **Tools:** Twitter, research blogs from other protocols, academic papers on arXiv.
+*   **Tools:** Twitter, research blogs from other top teams, academic papers on arXiv.
 *   **Tasks:**
     *   **Reading:** Review the latest research from other top teams on topics like MEV mitigation, novel AMM designs, or new risk management frameworks.
     - **Experimenting:** Spin up a local fork of a new protocol to test its mechanics and understand its potential vulnerabilities.
