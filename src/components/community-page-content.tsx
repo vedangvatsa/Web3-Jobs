@@ -484,33 +484,29 @@ export function CommunityPageContent({
         
         <div className="py-16 bg-secondary/40 mt-16">
             <div className="container mx-auto px-4">
-                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                    <div className="lg:col-span-1">
-                        <section>
-                            <div className="flex justify-between items-center mb-6">
-                                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase/> Latest Jobs</h2>
-                            </div>
-                            <div className="space-y-4">
-                                {latestJobs.slice(0, 5).map(job => <JobCard key={job.id} job={job} />)}
-                            </div>
-                             <Button variant="outline" className="mt-6 w-full" asChild>
-                               <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                            </Button>
-                        </section>
-                    </div>
-                    <div className="lg:col-span-2">
-                         <section>
-                            <div className="flex justify-between items-center mb-6">
-                                <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> Latest News</h2>
-                            </div>
-                            <div className="space-y-2">
-                                {latestNews.map((item, i) => <NewsCard key={i} item={item} />)}
-                            </div>
-                            <Button variant="outline" className="mt-6 w-full" asChild>
-                               <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                            </Button>
-                        </section>
-                    </div>
+                 <div className="space-y-12">
+                    <section>
+                        <div className="flex justify-between items-center mb-6">
+                            <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase/> Latest Jobs</h2>
+                        </div>
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
+                            {latestJobs.slice(0, 15).map(job => <JobCard key={job.id} job={job} />)}
+                        </div>
+                         <Button variant="outline" className="mt-6 w-full" asChild>
+                           <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                        </Button>
+                    </section>
+                    <section>
+                        <div className="flex justify-between items-center mb-6">
+                            <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> Latest News</h2>
+                        </div>
+                        <div className="space-y-2">
+                            {latestNews.map((item, i) => <NewsCard key={i} item={item} />)}
+                        </div>
+                        <Button variant="outline" className="mt-6 w-full" asChild>
+                           <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                        </Button>
+                    </section>
                 </div>
 
                 <div className="mt-16">
