@@ -54,3 +54,22 @@ Actuaries model risk and uncertainty. In Web3, they are needed to build the soph
 3.  **Build a Portfolio:** Start a blog or Substack where you publish your own risk assessments of different DeFi protocols. This public work is your best resume.
 
 The Web3 insurance sector is still in its infancy, but it is poised for explosive growth as the industry matures. For risk management professionals who are willing to embrace the complexity of this new financial system, it offers a chance to be a pioneer in a critically important field.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Web3 insurance?
+Web3 insurance is a new type of insurance designed to protect users of **[DeFi protocols](/what-is-defi)** from risks that are unique to the blockchain space, such as smart contract hacks or stablecoin de-pegging events.
+
+### 2. How does decentralized insurance work?
+Protocols like Nexus Mutual operate as a community-owned "mutual." Users contribute capital to a shared pool and can buy coverage. When a hack occurs, the members of the mutual vote on whether to pay out the claim.
+
+### 3. What kind of risks can be insured in Web3?
+The most common type of coverage is for **smart contract risk**, which protects against bugs in a protocol's code. Other types of coverage are emerging for risks like **oracle failure** and **stablecoin de-peg** events.
+
+### 4. What jobs are available in Web3 insurance?
+Key roles include **Smart Contract Risk Analysts** who assess the technical risk of a protocol, **Economic Risk Analysts** who model the financial risks, and **Actuaries** who price the insurance products.
+
+### 5. What skills do I need for a career in this field?
+You need a hybrid skillset. A strong background in traditional finance, insurance, or risk management is essential. This must be combined with a deep, practical understanding of **[DeFi](/defi-careers)** and **[smart contract security](/smart-contract-auditor-career)**.

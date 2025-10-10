@@ -29,3 +29,22 @@ Web3's approach is different. Instead of restricting access through centralized 
 -   **Content Licensing Manager:** Professionals who work with creators and companies to license their content using these new Web3-native tools.
 
 The application of Web3 to digital rights management is still in its early days, but it holds the promise of a more transparent, efficient, and creator-centric system. It's an exciting field for professionals who are passionate about protecting the rights of creators in the digital age.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How does Web3 help with copyright protection?
+Web3 uses the **[blockchain](/what-is-a-blockchain)** to create a public, immutable record of ownership and creation. This makes it easier for creators to prove when they created a work and who currently owns the rights to it.
+
+### 2. How are NFTs used for digital rights?
+[NFTs](/what-are-nfts) can act as a digital certificate of ownership or a license for a piece of content. The terms of the license can be embedded directly into the NFT's **[smart contract](/what-are-smart-contracts)**, automating things like royalty payments.
+
+### 3. What is a "programmable license"?
+A programmable license is a license whose terms are enforced by a smart contract. For example, an artist could sell an NFT that grants the buyer the right to use an image in a commercial project. The smart contract could automatically collect a percentage of the revenue from that project and send it to the artist.
+
+### 4. What new jobs is this creating?
+This field is creating demand for **[Web3 IP lawyers](/how-to-become-a-web3-blockchain-patent-and-ip-expert)** who can draft these new types of licenses, as well as developers who can build the on-chain rights management protocols.
+
+### 5. What are the challenges?
+The biggest challenges are legal and social, not just technical. The legal system is still catching up to this new technology, and there are ongoing debates about the best way to structure **[NFT royalties and rights](/nft-artist-royalties)** to be fair to both creators and collectors.

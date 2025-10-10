@@ -63,3 +63,22 @@ It's crucial to be transparent with candidates and employees about the nature of
 -   **Provide Tax Guidance:** Receiving and selling tokens has significant tax implications. While you can't give tax advice, you should provide resources and encourage employees to consult with a crypto-aware tax professional.
 
 Token-based compensation is a paradigm shift. It transforms employees into owners and aligns the entire team around a shared mission. By designing a thoughtful and transparent plan with long-term vesting, projects can attract the best talent in the world and build a dedicated team that is motivated to create lasting value.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is token-based compensation?
+It's a form of compensation where employees receive a project's native cryptocurrency (tokens) in addition to a salary. This gives them a direct ownership stake in the network they are building. For a complete overview, see our guide on **[solving token compensation](/solving-token-compensation-for-web3-employment)**.
+
+### 2. What is a "vesting schedule" and a "cliff"?
+A vesting schedule is the timeline over which an employee earns their tokens. A "cliff" is an initial period (usually 1 year) where no tokens are earned. This system ensures long-term commitment.
+
+### 3. How are tokens different from stock options?
+Stock options give you a stake in a centralized company. Tokens give you a stake in a decentralized protocol. Tokens are often more liquid and can have on-chain utility (like governance), which is a key part of **[Web3's impact on corporate structures](/web3-corporate-structures)**.
+
+### 4. How do I evaluate the token portion of a job offer?
+Don't just look at the current USD value. You must analyze the project's **[tokenomics](/understanding-tokenomics)**, the token's utility, the vesting schedule, and the overall potential of the project. Our guide on **[Web3 salary negotiation](/web3-salary-negotiation)** has more tips.
+
+### 5. How are DAO contributors paid?
+DAOs often pay contributors for freelance work through "bounties" (for small tasks) or "grants" (for larger projects). This is a more flexible, project-based model. Learn more in our guide on **[how to contribute to a DAO and get paid](/how-to-contribute-to-daos-and-get-paid)**.

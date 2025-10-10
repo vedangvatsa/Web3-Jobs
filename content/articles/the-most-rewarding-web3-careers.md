@@ -47,3 +47,22 @@ The Web3 space offers these rewards in spades. It's a chance to work on the fron
 -   **Path to get there:** Get involved with a project like Gitcoin. [Contribute to a cause you believe in](/web3-for-good-careers-in-social-impact-daos) and start building a reputation within that community.
 
 A career in Web3 offers more than just a high salary. It offers a chance to be intellectually challenged, to have a tangible impact on the world, and to be a co-owner of the new internet you are helping to build. For those motivated by more than just money, it can be the most rewarding career path imaginable.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Are Web3 careers financially rewarding?
+Yes, Web3 is known for having some of the **[highest-paying jobs in tech](/highest-paying-web3-jobs)**. However, a "rewarding" career is also about impact and personal growth, not just money.
+
+### 2. What is a Protocol Engineer?
+A Protocol Engineer is a type of **[infrastructure engineer](/building-a-career-as-a-web3-blockchain-infrastructure-engineer)** who works on the core code of a blockchain itself. It's a deeply technical and high-impact role.
+
+### 3. What does a Developer Relations (DevRel) engineer do?
+A **[DevRel engineer](/what-is-a-web3-devrel-engineer)** is a developer who acts as a teacher and evangelist for a protocol. They create tutorials, write documentation, and support the community of developers building on their platform.
+
+### 4. What are "Public Goods DAOs"?
+These are **[DAOs](/the-rise-of-daos)** that are focused on funding "public goods"—projects that benefit the community, such as open-source software, academic research, or environmental initiatives. A career in this space is often called **["Web3 for Good."](/web3-for-good-careers-in-social-impact-daos)**
+
+### 5. How do I find a rewarding career in Web3?
+The key is to align your work with your passion. If you love security, pursue a career as an **[auditor](/smart-contract-auditor-career)**. If you love helping others, look into DevRel. Finding the right fit is about understanding your own motivations and the needs of the ecosystem.

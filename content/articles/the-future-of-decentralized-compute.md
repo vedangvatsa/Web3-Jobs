@@ -31,3 +31,22 @@ Decentralized compute networks use a blockchain and a native token to create a t
 -   **Render Network:** A decentralized network specifically for GPU rendering. It allows 3D artists and animation studios to tap into a global network of idle GPUs to render complex graphics much faster and cheaper than with traditional methods.
 
 Decentralized Compute is a core part of the "DePIN" (Decentralized Physical Infrastructure Networks) narrative. While still in its early stages, it holds the promise of creating a more open, resilient, and competitive market for the foundational resource of the digital age: computation.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Decentralized Compute?
+Decentralized Compute refers to peer-to-peer networks that create a marketplace for computational power. It's a Web3 alternative to centralized cloud providers like AWS, aiming to be more open, resilient, and cost-effective.
+
+### 2. How does it work?
+Users who need computing power pay providers who have spare capacity using the network's native cryptocurrency. A blockchain and [smart contracts](/what-are-smart-contracts) are used to manage this marketplace in a trustless way.
+
+### 3. What is DePIN?
+DePIN stands for **Decentralized Physical Infrastructure Networks**. It's a broad category in Web3 that uses token incentives to build and operate real-world infrastructure. Decentralized Compute is a major sub-category of DePIN, along with decentralized storage, wireless networks, and energy grids.
+
+### 4. How is the work verified in a decentralized compute network?
+Verifying that a computation was done correctly without having to re-do it is a major challenge. Many networks are exploring advanced cryptographic methods like **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained)** to allow providers to mathematically prove the correctness of their work.
+
+### 5. What are the main benefits of Decentralized Compute?
+The main benefits are **censorship resistance** (no central party can shut down your application), **cost efficiency** (by creating a more competitive market for compute), and **resilience** (by removing single points of failure).

@@ -73,3 +73,22 @@ Ask yourself these questions to help clarify which path is right for you:
 It's important to remember that this isn't a binary choice. Many Web3 professionals find a happy medium. You might have a stable, full-time "anchor" role but still contribute to a DAO or take on small freelance projects in your spare time to learn new skills and build your reputation. Conversely, a successful freelancer might decide to join one of their clients full-time after building a strong relationship and gaining conviction in the project.
 
 Whether you choose to be a dedicated employee or a sovereign freelancer, the Web3 space offers unprecedented opportunities to define your own career. By understanding the trade-offs and aligning your choice with your personal goals, you can build a fulfilling and successful career in the decentralized economy.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What are the main benefits of a full-time Web3 job?
+A full-time role offers **stability**, a predictable salary, benefits, and the opportunity to have a **deep impact** on a single project. It also provides a structured environment for mentorship and career growth, which is great for junior professionals.
+
+### 2. What are the main benefits of being a Web3 freelancer?
+Freelancing offers maximum **flexibility and autonomy**. You get to work on a diverse range of projects, which accelerates learning, and you can diversify your income streams. This path is ideal for experienced professionals who are highly self-motivated.
+
+### 3. How do Web3 freelancers find work?
+Most freelance work in Web3 comes from **DAOs (Decentralized Autonomous Organizations)**. They find work by completing "bounties" (small, paid tasks) or by receiving grants for larger projects. Our guide on [how to make money in Web3](/how-to-make-money-with-web3) has more details on this.
+
+### 4. Is the compensation different for freelance vs. full-time roles?
+Yes. Full-time roles usually offer a stable base salary plus a large, vesting token grant for long-term alignment. Freelance work is project-based, often paid in stablecoins or the protocol's native token upon completion, making income more variable.
+
+### 5. How can I decide which path is right for me?
+It depends on your personality and goals. If you value stability and deep focus, a full-time role is likely a better fit. If you prioritize flexibility and variety, freelancing is a great option. Our guide on [whether a Web3 career is right for you](/is-a-career-in-web3-right-for-you) can help you self-assess.

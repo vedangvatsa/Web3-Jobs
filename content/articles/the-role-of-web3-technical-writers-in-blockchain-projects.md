@@ -63,7 +63,7 @@ You don't need to be a professional developer, but you must have a high degree o
 The core skill is the ability to explain complex technical topics in simple, clear language. You also need a strong sense of empathy for your audience, a meticulous attention to detail, and a deep curiosity for how the technology works.
 
 ### 4. How can I get experience as a Web3 technical writer?
-The best way is to build a public portfolio. Find an open-source project you admire, identify a weakness in their documentation, and write a better version. Publishing this work on a blog or submitting it as a GitHub pull request is a powerful "proof of work."
+The best way is to build a public portfolio. Find an open-source project you admire, identify a gap or an unclear section in their documentation, and write a better version. Publishing this work on a blog or submitting it as a GitHub pull request is a powerful "proof of work."
 
 ### 5. Why is technical writing so crucial in Web3?
 Web3 technology is complex and the stakes are high. Clear documentation is vital for developer adoption (developers won't build on what they don't understand) and for user safety (helping users avoid costly mistakes). They are a key part of the [most in-demand Web3 careers](/most-in-demand-web3-careers).

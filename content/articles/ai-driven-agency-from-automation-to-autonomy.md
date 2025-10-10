@@ -46,7 +46,7 @@ AI agents use a core AI model, often a Large Language Model (LLM), to create a p
 The main risk is the **Value Alignment Problem**: ensuring an AI's goals are perfectly aligned with human values. An AI trying to "maximize paperclips" might do so in a destructive way we didn't intend. This is a core challenge in [AI accountability and governance](/ai-accountability-governance-models).
 
 ### 4. How does this relate to Web3?
-The convergence of AI and Web3 is a major trend. AI agents can be given crypto wallets to participate in [DAOs](/what-is-a-dao) or DeFi protocols, creating autonomous economic actors. Web3 can also provide a transparent, verifiable layer to track and govern the actions of AI agents.
+The [convergence of AI and Web3](/web3-and-ai) is a major trend. AI agents can be given crypto wallets to participate in [DAOs](/what-is-a-dao) or DeFi protocols, creating autonomous economic actors. Web3 can also provide a transparent, verifiable layer to track and govern the actions of AI agents.
 
 ### 5. What kind of jobs will this create?
 New hybrid roles are emerging, such as the [AI/Web3 Engineer](/ai-and-web3-engineering-careers), who builds these autonomous systems, and the **AI/DAO Facilitator**, who designs the rules and governance frameworks for these agents.

@@ -56,3 +56,22 @@ The title "Smart Contract Developer" covers several distinct roles and specializ
 4.  **Contribute to Open Source:** Find a reputable Web3 project on GitHub and make a contribution. Fixing a bug or adding a test case is a powerful signal to potential employers.
 
 A career in smart contract development is one of the most challenging and rewarding paths in technology. It demands a high level of rigor, a constant commitment to learning, and a deep understanding of security. For those who can meet this high bar, the opportunities are immense.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a smart contract developer do?
+A smart contract developer writes, tests, and deploys the on-chain code that powers decentralized applications (dApps). It's a highly specialized engineering role that requires a deep understanding of blockchain technology and security. Learn more in our guide on [how to become a smart contract developer](/how-to-become-a-web3-smart-contract-developer).
+
+### 2. What is the average salary for a smart contract developer?
+Salaries are among the highest in tech. Senior smart contract developers at top protocols can command base salaries of **$190,000 to $280,000+**, often with substantial token grants on top. Our [Web3 developer salary guide](/web3-developer-salaries-2025) has more detailed information.
+
+### 3. What skills are most important for this role?
+The most important skill is a **security-first mindset**. A deep knowledge of **[Solidity](/solidity-for-beginners)**, the EVM, and common attack vectors like [reentrancy](/understanding-reentrancy-attacks-in-web3-smart-contracts) is essential.
+
+### 4. What is a "Protocol Engineer"?
+A Protocol Engineer is an even more specialized role. They build the core blockchain infrastructure itself (the Layer 1 or Layer 2), rather than the applications that run on it. This requires expertise in low-level languages like Rust or Go.
+
+### 5. How do I build a portfolio for a smart contract job?
+Your portfolio should showcase your ability to build secure and efficient contracts. Good projects include building your own DeFi primitives like a staking dApp, a simple AMM, or contributing to a well-known open-source Web3 project on GitHub. Our [Web3 developer portfolio guide](/web3-developer-portfolio) offers a full roadmap.

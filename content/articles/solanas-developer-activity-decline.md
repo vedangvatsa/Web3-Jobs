@@ -80,7 +80,7 @@ Yes, according to data from multiple on-chain analytics platforms, the number of
 It's a combination of factors. The collapse of FTX, a major supporter and builder in the Solana ecosystem, was a huge blow. This was compounded by past network stability issues and, most importantly, the rise of EVM-compatible **[Layer 2s](/guide-to-layer-2s)** on Ethereum, which offer an easier path for most developers.
 
 ### 3. Is Rust a problem for Solana?
-Solana's primary language, Rust, is powerful but has a steep learning curve. This creates a barrier to entry compared to **[Solidity](/solidity-for-beginners)**, which is easier to learn and is the language most Web3 developers already know. Our guide to [building on Solana with Rust](/building-your-first-dapp-on-solana-with-rust) offers a starting point.
+Solana's primary language, Rust, is powerful but has a steep learning curve. This creates a barrier to entry compared to **[Solidity](/solidity-for-beginners)**, which is easier to learn and is the language most Web3 developers already know. Our guide on [building with Solana and Rust](/building-your-first-dapp-on-solana-with-rust) offers a starting point.
 
 ### 4. What is the difference between Solana and Ethereum?
 [Solana](/what-is-solana) is a Layer 1 blockchain optimized for high speed and low cost, making different trade-offs on decentralization compared to [Ethereum](/what-is-ethereum). Ethereum's scaling strategy now focuses on using Layer 2s to handle high throughput, while the main chain provides maximum security.
