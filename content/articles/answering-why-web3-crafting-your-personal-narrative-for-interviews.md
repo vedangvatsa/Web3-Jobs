@@ -63,7 +63,7 @@ By structuring your answer around The Spark, The Journey, and The Vision, you ca
 
 ## Frequently Asked Questions
 
-### 1. What's a "rabbit hole story"?
+### 1. What's a "rabbit hole" story?
 It's the personal story of how you first got interested in Web3. It's not just about what you know, but *why* you care. Sharing a specific "aha!" moment makes your passion feel authentic.
 
 ### 2. Should I mention making money in my answer?
