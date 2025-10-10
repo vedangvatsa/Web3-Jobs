@@ -1,6 +1,6 @@
 ---
 title: "Account Abstraction Explained: The Future of Crypto Wallets"
-image: "https://images.unsplash.com/photo-1637597383775-cf7b69e0a9c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcnlwdG8lMjB3YWxsZXR8ZW58MHx8fHwxNzU1MDA1MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1637597383775-cf7b69e0a9c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcnlwdG8lMjB3YWxsZXR8ZW58MHx8fHwxNzU1MDA1MzEzfDA&lib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "crypto wallet"
 description: "Account Abstraction (EIP-4337) is set to revolutionize Web3 UX. Learn how it will make crypto wallets as easy to use as email, enabling features like social recovery and paying gas in any token."
 category: "Technology Deep Dives"
@@ -43,3 +43,22 @@ EIP-4337 achieves Account Abstraction without requiring a change to the core Eth
 This clever design allows for the immediate rollout of Account Abstraction on Ethereum and all EVM-compatible [Layer 2s](/guide-to-layer-2s).
 
 Account Abstraction is a monumental step forward for the usability of Web3. By abstracting away the most painful parts of the user experience—seed phrases and gas fees—it paves the way for applications that are as easy to use as their Web2 counterparts, finally opening the door to the next billion users.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the main problem Account Abstraction solves?
+Account Abstraction primarily solves the poor user experience of traditional crypto wallets (Externally Owned Accounts). It eliminates the need for users to manage seed phrases and allows for more flexible features like paying gas fees in any token.
+
+### 2. Does Account Abstraction mean I don't need a wallet anymore?
+No, you still need a wallet, but it will be a "smart contract wallet" instead of an EOA. These new wallets are much more powerful and user-friendly, offering features like social recovery, which is a major improvement over seed phrases.
+
+### 3. What is a "paymaster"?
+A paymaster is a smart contract that can sponsor a user's transaction fees. This means a dApp could pay for its users' gas, creating a "gasless" experience and removing a major point of friction for new users.
+
+### 4. Is Account Abstraction secure?
+Yes. Smart contract wallets have been around for a while (e.g., Gnosis Safe) and have a strong security track record. EIP-4337 is designed to make them the default standard. A smart contract wallet can even be more secure than a traditional wallet because you can program custom security rules, such as daily spending limits or multi-factor authentication.
+
+### 5. How does this help with Web3 adoption?
+By making crypto wallets as easy and forgiving to use as a standard Web2 account (like an email login), Account Abstraction removes one of the biggest barriers to entry for mainstream users, which is essential for [why
