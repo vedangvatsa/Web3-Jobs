@@ -1,6 +1,6 @@
 ---
 title: 'What Are Smart Contracts: The Automation Engine of Web3'
-image: 'https://images.unsplash.com/photo-1639815188546-c43c240ff4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0OTMwMXww&ixlib=rb-4.1.0&q=80&w=1080'
+image: 'https://images.unsplash.com/photo-1639815188546-c43c240ff4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0OTMwMXww&lib=rb-4.1.0&q=80&w=1080'
 description: 'Discover how smart contracts work, why they are the essential building blocks of decentralized applications, and their impact on industries from finance to law.'
 category: 'Technology Deep Dives'
 ---
@@ -42,3 +42,21 @@ Despite their potential, smart contracts are not a panacea. Their greatest stren
 ## The Future is Programmatic
 
 Smart contracts represent a fundamental shift in how we create and enforce agreements. They enable the creation of systems that are more transparent, efficient, and equitable. While the technology is still maturing and the risks are significant, the ability to automate complex multi-party workflows without relying on a trusted intermediary is a profound innovation. As development tools improve and security best practices become more standardized, smart contracts will become the invisible, programmatic glue that holds together the next generation of the internet, creating a new digital economy and a wealth of opportunities for those who can build and secure it.
+---
+
+## Frequently Asked Questions
+
+### 1. Are smart contracts legally binding?
+In most jurisdictions, the legal status of smart contracts is still evolving. While they can enforce agreements with mathematical certainty, they are not always recognized as legally binding contracts in a traditional court of law.
+
+### 2. Can a smart contract be changed?
+No. A key feature of smart contracts on a [blockchain](/what-is-a-blockchain) is immutability. Once deployed, the code cannot be altered. To "change" a contract, developers must deploy a new version and migrate users and data to it. This is why [upgradability patterns](/writing-upgradable-smart-contracts-proxies-explained) are so important.
+
+### 3. What programming language is used to write smart contracts?
+The most popular language for smart contracts on [Ethereum](/what-is-ethereum) and other EVM-compatible chains is **[Solidity](/solidity-for-beginners)**. Other languages include Vyper (Python-like) and Rust (for chains like Solana).
+
+### 4. What is the biggest risk of using a smart contract?
+The biggest risk is a security vulnerability in the code. Because contracts are immutable, a bug can be exploited by hackers to steal funds, and the transaction cannot be reversed. This is why [smart contract security auditing](/smart-contract-auditor-career) is a critical and highly-paid profession in Web3.
+
+### 5. How can I learn to become a smart contract developer?
+The best way to start is by learning Solidity. There are many free online resources. A structured path is to follow a roadmap, like our [guide to becoming a blockchain developer](/how-to-become-a-blockchain-developer), which will take you from the basics to building your own full-stack dApp.

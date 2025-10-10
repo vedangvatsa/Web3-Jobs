@@ -184,3 +184,21 @@ contract SimpleStorage {
 *Note: I've added a `retrieve` function and some comments (`@notice`, `@dev`) which are part of a documentation standard called NatSpec. This is a good habit to get into early! The `view` keyword in the `retrieve` function means it only reads from the blockchain state and doesn't modify it, so it doesn't cost any gas to call.*
 
 This simple contract is the "Hello, World!" of Web3. From here, you can explore more complex data types, function modifiers, and contract interactions. But every complex DeFi protocol or NFT marketplace is built upon these same core principles: storing state and defining functions to change that state according to a set of rules. Your journey as a Web3 developer has officially begun.
+---
+
+## Frequently Asked Questions
+
+### 1. What is Solidity?
+Solidity is the most popular programming language for writing [smart contracts](/what-are-smart-contracts) on Ethereum and other EVM-compatible blockchains. It's a high-level, contract-oriented language with a syntax similar to JavaScript and C++.
+
+### 2. What is the EVM?
+The Ethereum Virtual Machine (EVM) is the runtime environment for smart contracts on Ethereum. It's a sandboxed virtual machine that executes contract code exactly as written, and its state is agreed upon by all nodes in the network.
+
+### 3. What tools do I need to start learning Solidity?
+For beginners, the Remix IDE is the best tool. It's a web-based IDE that lets you write, compile, and deploy contracts in a simulated environment without any complex setup. More advanced developers use local frameworks like [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) or Hardhat.
+
+### 4. What are state variables and functions?
+State variables are data that is permanently stored on the blockchain within a contract. Functions are the executable units of code that can read or modify these state variables. Modifying a state variable requires a transaction and costs gas.
+
+### 5. What is the best way to become a professional Solidity developer?
+The best way is to build projects. Follow our [blockchain developer roadmap](/blockchain-developer-roadmap) which outlines a series of projects to build your skills, from a simple token to a full-stack dApp. A strong portfolio on GitHub is the best resume for a Web3 developer.

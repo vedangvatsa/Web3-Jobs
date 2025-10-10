@@ -48,3 +48,21 @@ The problems of the centralized internet—data monopolies, censorship, and plat
 Web3 is not dead. It is being stress-tested. The hype and the get-rich-quick schemes of the last cycle are dying, and that is a healthy and necessary process. What is left is a core of dedicated, long-term builders who are focused on solving the hard problems of scalability, user experience, and security.
 
 The journey to a decentralized internet is a marathon, not a sprint. We are likely still in the early, "dial-up" era of Web3. It's clunky, it's difficult to use, and its ultimate form is not yet clear. But the foundational infrastructure is being laid, the core technology is advancing at a breakneck pace, and the fundamental vision of a user-owned internet is more compelling than ever. Web3 is not dead; it's just getting started.
+---
+
+## Frequently Asked Questions
+
+### 1. What is the "blockchain trilemma" that slows down Web3?
+The blockchain trilemma states that it's extremely difficult for a blockchain to be simultaneously decentralized, secure, and scalable. Most [Layer 1 blockchains](/what-is-a-layer-1-blockchain) have to make trade-offs. For example, Ethereum has prioritized decentralization and security, which has historically made it less scalable.
+
+### 2. How are developers solving the scalability problem?
+The primary solution is through [Layer 2 (L2) scaling solutions](/guide-to-layer-2s). These are separate blockchains that run on top of a Layer 1 like Ethereum, processing transactions quickly and cheaply before bundling them up and posting the data back to the secure main chain.
+
+### 3. Is the Web3 job market still strong during a bear market?
+Yes. While some speculative projects may fail, the well-funded, serious projects use bear markets as a time to hire top talent. The competition for jobs can be lower, and it's a great time to join a team with a long-term vision. Learn more about [why a bear market is a great time to job seek](/why-now-is-the-best-time-to-jobseek-in-crypto).
+
+### 4. What is the biggest barrier to mainstream Web3 adoption?
+The biggest barrier is widely considered to be poor user experience (UX). The complexity of wallets, seed phrases, and gas fees is still too high for the average user. Technologies like [Account Abstraction](/account-abstraction-explained) are being developed to solve this.
+
+### 5. Has the "brain drain" from Web2 to Web3 stopped?
+No. While the frenzied pace of hiring has slowed from the bull market peak, top talent from major tech companies continues to migrate to Web3, drawn by the intellectual challenges and the opportunity for greater impact. You can read more in our analysis of the [Web3 talent migration](/the-web3-talent-migration).

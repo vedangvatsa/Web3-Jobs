@@ -1,6 +1,6 @@
 ---
 title: 'What Is a Blockchain? The Ultimate Guide for Beginners'
-image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0ODU1MXww&ixlib=rb-4.1.0&q=80&w=1080'
+image: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0ODU1MXww&lib=rb-4.1.0&q=80&w=1080'
 description: 'Understand the core concepts of blockchain technology, how it works, and why it''s the foundational layer for cryptocurrencies and Web3.'
 category: 'Getting Started'
 ---
@@ -87,3 +87,21 @@ Despite its immense potential, blockchain is not a silver bullet. The technology
 Blockchain technology is still young and evolving. It represents a fundamental paradigm shift in how we build digital systems, moving from a model of centralized trust to one of distributed verification. It allows us to create applications and networks that are more open, fair, and resistant to control by any single entity.
 
 The journey will be long, and many of the most exciting use cases may not have even been invented yet. However, the core innovation, the ability for a group of strangers to agree on a set of facts without needing to trust each other, is a profound breakthrough. It's a technology that replaces trust in institutions with trust in mathematics and code, and it's poised to reshape industries far beyond finance.
+---
+
+## Frequently Asked Questions
+
+### 1. What's the main difference between a blockchain and a regular database?
+A regular database is centralized and controlled by a single administrator who can change or delete data. A blockchain is a decentralized database that is maintained by a network of computers. Its key feature is immutability—once data is recorded, it cannot be altered.
+
+### 2. Is blockchain the same as Bitcoin?
+No. Bitcoin is the first and most famous application of blockchain technology. Blockchain is the underlying technology that allows Bitcoin to function as a decentralized digital currency. There are now thousands of other blockchains and cryptocurrencies, like [Ethereum](/what-is-ethereum), each with different features.
+
+### 3. What is a "block" in a blockchain?
+A block is a collection of transactions that are bundled together and added to the chain. Each block contains the transaction data, a timestamp, and a cryptographic hash that links it to the previous block, creating a secure and unbroken chain.
+
+### 4. Why is blockchain considered secure?
+Blockchain security comes from a combination of decentralization, cryptographic hashing, and consensus mechanisms. It is computationally infeasible to alter a transaction without being detected by the entire network, making it highly resistant to tampering and fraud.
+
+### 5. What are the main career paths in the blockchain industry?
+The industry needs a wide range of talent. Key roles include [smart contract developers](/smart-contract-jobs) who write the on-chain code, frontend developers who build dApp interfaces, [community managers](/web3-community-manager-career) who foster the ecosystem, and many more. Our guide on [how to start a Web3 career](/how-to-start-a-web3-career) is a great place to begin exploring.

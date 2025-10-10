@@ -1,6 +1,6 @@
 ---
 title: 'What is DeFi? A Beginner''s Guide to Decentralized Finance'
-image: 'https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmaW5hbmNlfGVufDB8fHx8MTc1NDk1NTgxNXww&ixlib=rb-4.1.0&q=80&w=1080'
+image: 'https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmaW5hbmNlfGVufDB8fHx8MTc1NDk1NTgxNXww&lib=rb-4.1.0&q=80&w=1080'
 description: 'Learn the fundamentals of Decentralized Finance (DeFi). This guide explains how DeFi is rebuilding traditional finance on the blockchain, covering key concepts like DEXs, lending, and yield farming.'
 category: 'Getting Started'
 ---
@@ -72,3 +72,21 @@ While powerful, DeFi is still the "wild west" of finance. It's an experimental t
 - **Volatility:** The value of the underlying crypto assets is extremely volatile.
 
 DeFi is one of the most important innovations to emerge from the Web3 movement. It's a bold attempt to build a financial system that is more open, transparent, and accessible than the one we have today. While the risks are real and the technology is still maturing, DeFi provides a compelling vision for the future of money.
+---
+
+## Frequently Asked Questions
+
+### 1. Is DeFi safe?
+DeFi is an experimental and high-risk field. While top protocols are heavily audited, bugs and hacks are a constant threat. Users should do their own research ([DYOR](/what-is-dyor-in-crypto)), start with small amounts, and never invest more than they are willing to lose.
+
+### 2. How do DeFi protocols make money?
+Most DeFi protocols generate revenue by charging a small fee on their service. For example, a decentralized exchange like Uniswap charges a fee on every trade, which is paid to liquidity providers. Some protocols also capture a portion of this fee for their own treasury.
+
+### 3. Do I need a lot of money to use DeFi?
+No. Thanks to [Layer 2 scaling solutions](/guide-to-layer-2s), transaction fees are now very low, allowing anyone to experiment with DeFi with just a few dollars.
+
+### 4. What is a "DEX"?
+A DEX is a Decentralized Exchange. It's a key component of DeFi that allows users to trade crypto assets peer-to-peer without a central intermediary. Learn more about how they work in our [guide to building a simple AMM](/how-to-build-a-simple-amm-on-an-l2).
+
+### 5. How can I get a job in DeFi?
+A career in DeFi requires a blend of financial and technical knowledge. The best way to start is by becoming a power user of the protocols yourself. From there, you can explore specialized roles like [smart contract engineer](/defi-careers), [quantitative analyst](/a-day-in-the-life-of-a-defi-quant), or [product manager](/web3-product-manager-jobs).
