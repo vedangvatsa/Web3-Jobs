@@ -85,7 +85,7 @@ Verifiable Credentials are a foundational technology for building a more user-ce
 A DID (Decentralized Identifier) is your unique address on the network—it's who you are. A Verifiable Credential (VC) is a specific claim made about you by someone else (the Issuer), such as "this person has a degree." Your DID is the subject of the VC. You can learn more in our [guide to decentralized identity](/decentralized-identity-explained).
 
 ### 2. Who stores the Verifiable Credential?
-The Holder (you) stores their own VCs in a private digital wallet, often called an "identity wallet." This gives you full control over when and with whom you share your credentials.
+The Holder (you) stores their own VCs in a private digital wallet, often called an "identity wallet" or [crypto wallet](/how-to-choose-a-crypto-wallet). This gives you full control over when and with whom you share your credentials.
 
 ### 3. How does a Verifier trust a Verifiable Credential?
 A Verifier trusts a VC by checking its cryptographic signature. They can see that the credential was signed by a specific Issuer (e.g., a university). If the Verifier trusts that Issuer, they can trust the claim being made in the credential.
@@ -94,4 +94,4 @@ A Verifier trusts a VC by checking its cryptographic signature. They can see tha
 While your DID is public, the Verifiable Credentials associated with it are held privately in your wallet. Furthermore, by using [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained), you can prove a fact from a credential (e.g., "I am over 18") without revealing the underlying personal data (your actual birthdate).
 
 ### 5. Can a Verifiable Credential be revoked?
-Yes. The W3C standard includes specifications for revocation. An Issuer can publish a list of revoked credentials on-chain. Before accepting a credential, a Verifier can check this
+Yes. The W3C standard includes specifications for revocation. An Issuer can publish a list of revoked credentials on-chain. Before accepting a credential, a Verifier can check this to ensure it's still valid.

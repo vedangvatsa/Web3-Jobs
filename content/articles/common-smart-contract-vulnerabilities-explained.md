@@ -154,3 +154,22 @@ When your contract calls another contract, you must check if the call was succes
     ```
 
 Smart contract security is a deep and ever-evolving field. While this guide covers some of the most common vulnerabilities, a security-first mindset requires constant learning, rigorous testing, and a healthy dose of paranoia. By understanding how things can break, you can learn to build systems that are robust, resilient, and worthy of your users' trust.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the most famous smart contract vulnerability?
+**[Reentrancy](/understanding-reentrancy-attacks-in-web3-smart-contracts)** is by far the most famous, as it was the vulnerability used in the 2016 DAO hack that led to the split of Ethereum and Ethereum Classic. It remains a common and critical bug.
+
+### 2. What is the Checks-Effects-Interactions pattern?
+This is the golden rule of Solidity security. It's a design pattern that says you should structure your functions to first perform all **Checks** (validations), then apply all **Effects** (state changes), and only then perform **Interactions** (external calls). This is a primary defense against reentrancy.
+
+### 3. Are my contracts safe from integer overflows if I use a recent Solidity version?
+Yes. As of Solidity version 0.8.0, the compiler automatically includes checks for integer overflow and underflow. Any transaction that would cause one will automatically revert. All new projects should use `pragma solidity ^0.8.0;`.
+
+### 4. What is a flash loan attack?
+A flash loan attack is often related to oracle manipulation. An attacker uses a [flash loan](/what-is-mev) to borrow a huge amount of capital, uses it to manipulate the price of an asset on a decentralized exchange, and then uses that manipulated price to exploit a different protocol, all within a single transaction.
+
+### 5. How can I learn more about smart contract security?
+The best way to learn is by practicing. Work through hands-on challenges like the Ethernaut and Damn Vulnerable DeFi. For those serious about a career, pursuing a role as a [smart contract auditor](/smart-contract-auditor-career) is the ultimate path.

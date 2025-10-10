@@ -84,3 +84,22 @@ Once you have the fundamentals down, it's time to specialize to increase your va
 The journey to becoming a blockchain developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building in public, you'll acquire the skills and portfolio needed to land a high-impact role in this revolutionary industry.
 
 Ready to find your first developer role? Check out the latest openings on our [Web3 Job Board](/jobs).
+
+---
+
+## Frequently Asked Questions
+
+### 1. What's the best programming language to learn for blockchain development?
+For application development on Ethereum and EVM-compatible chains, **[Solidity](/solidity-for-beginners)** is the essential language. For building the core blockchain protocols themselves, **Rust** is increasingly the standard. Our guide on the [top 5 Web3 languages](/top-5-web3-languages) can help you decide.
+
+### 2. How long does it take to become a blockchain developer?
+For an experienced Web2 developer, a focused transition can take 3-6 months to become job-ready. For a complete beginner, a more realistic timeline is 12-18 months of consistent learning and building.
+
+### 3. Do I need a computer science degree?
+No, a formal degree is not a requirement. A strong portfolio of projects on GitHub that demonstrates your skills is far more important to [Web3 recruiters](/web3-recruiter-tips) than your educational background.
+
+### 4. What are the most important skills for a blockchain developer?
+The most critical skills are **[smart contract security](/web3-security-best-practices)**, a deep understanding of the EVM, and the ability to write gas-efficient code. For a full breakdown, see our guide on the [top 10 essential skills](/essential-skills-for-web3-developers).
+
+### 5. How do I build a portfolio if I have no experience?
+The best way is through project-based learning. Follow our roadmap: build a simple token, then an NFT, then a staking dApp. Each project builds on the last and demonstrates a new skill. You can find more ideas in our guide to [building a Web3 portfolio](/building-web3-portfolio).

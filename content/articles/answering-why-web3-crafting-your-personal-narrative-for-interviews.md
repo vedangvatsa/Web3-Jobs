@@ -58,3 +58,22 @@ This is where you connect your personal journey to the specific opportunity you'
     *   "What excites me most about this role is the opportunity to work on [specific feature on their roadmap]. I believe this is critical for a mainstream audience, and my experience in [your experience] would be directly applicable here."
 
 By structuring your answer around The Spark, The Journey, and The Vision, you can craft a powerful story that is both authentic to you and perfectly tailored to the role. It will show that you're not just looking for a job, but that you're on a mission and this company is the next logical step on your journey.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What's a "rabbit hole story"?
+It's the personal story of how you first got interested in Web3. It's not just about what you know, but *why* you care. Sharing a specific "aha!" moment makes your passion feel authentic.
+
+### 2. Should I mention making money in my answer?
+It's best to avoid focusing on financial gain. While everyone is aware of the financial opportunities, hiring managers are looking for people motivated by the technology and the mission. A purely financial motivation can be a [red flag for recruiters](/web3-recruiter-tips).
+
+### 3. How do I show my "proof of work"?
+Your proof of work is the tangible evidence of your passion. This can include personal coding projects on GitHub, insightful blog posts, contributions to a [DAO](/how-to-contribute-to-daos-and-get-paid), or even a well-curated Twitter feed where you discuss Web3 topics.
+
+### 4. What if I don't have a dramatic "aha!" moment?
+That's okay. Your story doesn't have to be dramatic. It just has to be authentic. Maybe your journey was a gradual process of reading articles and listening to podcasts. The key is to show a consistent and growing intellectual curiosity.
+
+### 5. How do I prepare for other common interview questions?
+Your "Why Web3?" story is the most important, but you should be prepared for a range of questions. Our [Web3 Interview Question Bank](/web3-interview-questions) provides a comprehensive list of questions for both technical and non-technical roles.

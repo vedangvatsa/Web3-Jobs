@@ -99,10 +99,10 @@ While Hardhat remains a powerful and popular choice, Foundry represents a signif
 The main advantage is Solidity-native testing. With Foundry, you write your tests in [Solidity](/solidity-for-beginners), the same language as your smart contracts. This eliminates the need for context switching between Solidity and JavaScript, making the development process faster and more intuitive.
 
 ### 2. What is fuzz testing in Foundry?
-Fuzz testing, or "fuzzing," is a powerful feature where Foundry automatically bombards your functions with a huge number of random inputs. This helps you discover unexpected edge cases and potential vulnerabilities that you might miss with traditional unit testing.
+Fuzz testing, or "fuzzing," is a powerful feature where Foundry automatically bombards your functions with a huge number of random inputs. This helps you discover unexpected edge cases and potential [vulnerabilities](/common-smart-contract-vulnerabilities-explained) that you might miss with traditional unit testing.
 
 ### 3. Is Foundry faster than Hardhat?
-Yes, significantly. Because Foundry is written in Rust and executes tests directly in an EVM implementation without a JavaScript layer, both compilation and test execution are typically much faster than in JavaScript-based frameworks like Hardhat.
+Yes, significantly. Because Foundry is written in Rust and executes tests directly in an EVM implementation without a JavaScript layer, both compilation and test execution are typically much faster than in JavaScript-based frameworks like Hardhat. It's one of the [essential tools for Web3 developers](/essential-web3-developer-tools).
 
 ### 4. Can I use my existing JavaScript libraries with Foundry?
 No, the testing environment in Foundry is purely Solidity-based. You will use Solidity libraries like `forge-std` for testing assertions and interacting with the VM, rather than JavaScript libraries like Ethers.js or Chai.

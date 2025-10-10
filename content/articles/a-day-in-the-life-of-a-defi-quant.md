@@ -59,16 +59,16 @@ A day in the life of a DeFi quant is a constant balancing act between rigorous d
 ## Frequently Asked Questions
 
 ### 1. What is a "quant" in the context of DeFi?
-A DeFi "quant," or quantitative analyst, is a professional who uses mathematical models and data analysis to understand and manage the economic risks of decentralized finance protocols. They are a blend of data scientist, financial engineer, and strategist.
+A DeFi "quant," or quantitative analyst, is a professional who uses mathematical models and data analysis to understand and manage the economic risks of decentralized finance protocols. They are a blend of data scientist, financial engineer, and strategist, making it one of the [most in-demand Web3 careers](/most-in-demand-web3-careers).
 
 ### 2. What tools does a DeFi quant use most often?
-A typical toolkit includes on-chain analytics platforms like **Dune Analytics** for querying blockchain data with SQL, and **Python** (with libraries like Pandas and Jupyter) for more complex modeling and simulation.
+A typical toolkit includes on-chain analytics platforms like **Dune Analytics** for querying blockchain data with SQL, and **Python** (with libraries like Pandas and Jupyter) for more complex modeling and simulation. This is a specialization of the [on-chain analyst job](/on-chain-analyst-job).
 
 ### 3. Is coding a necessary skill for a DeFi quant?
 Yes, proficiency in coding is essential. Strong **SQL** skills are non-negotiable for data extraction, and **Python** is the standard for financial modeling, simulation, and data analysis.
 
 ### 4. What is "impermanent loss"?
-Impermanent loss is a key risk for anyone providing liquidity to a [Decentralized Exchange (DEX)](/how-to-build-a-simple-amm-on-an-l2). It's the potential loss one incurs due to price divergence of assets in a liquidity pool compared to simply holding the assets. Quants spend a lot of time modeling this risk.
+Impermanent loss is a key risk for anyone providing liquidity to a [Decentralized Exchange (DEX)](/how-to-build-a-career-as-a-web3-decentralized-exchange-developer). It's the potential loss one incurs due to price divergence of assets in a liquidity pool compared to simply holding the assets. Quants spend a lot of time modeling this risk.
 
 ### 5. How can I become a DeFi quant?
 The path typically involves a strong background in a quantitative field (like finance, economics, or computer science), expertise in Python and SQL, and a deep, practical understanding of how [DeFi protocols](/what-is-defi) work. Building a public portfolio of on-chain analysis on a platform like Dune is an excellent way to start.
