@@ -49,16 +49,16 @@ Account Abstraction is a monumental step forward for the usability of Web3. By a
 ## Frequently Asked Questions
 
 ### 1. What is the main problem Account Abstraction solves?
-Account Abstraction primarily solves the poor user experience of traditional crypto wallets (Externally Owned Accounts). It eliminates the need for users to manage seed phrases and allows for more flexible features like paying gas fees in any token.
+Account Abstraction primarily solves the poor user experience of traditional crypto wallets (Externally Owned Accounts). It eliminates the need for users to manage seed phrases and allows for more flexible features like paying gas fees in any token. It's a key part of improving [Web3 UX Design](/web3-ux-design).
 
 ### 2. Does Account Abstraction mean I don't need a wallet anymore?
-No, you still need a wallet, but it will be a "smart contract wallet" instead of an EOA. These new wallets are much more powerful and user-friendly, offering features like social recovery, which is a major improvement over seed phrases.
+No, you still need a wallet, but it will be a "smart contract wallet" instead of an EOA. These new wallets are much more powerful and user-friendly, offering features like social recovery, which is a major improvement over seed phrases for [securing your crypto](/securing-your-crypto).
 
 ### 3. What is a "paymaster"?
-A paymaster is a smart contract that can sponsor a user's transaction fees. This means a dApp could pay for its users' gas, creating a "gasless" experience and removing a major point of friction for new users.
+A paymaster is a smart contract that can sponsor a user's transaction fees. This means a dApp could pay for its users' gas, creating a "gasless" experience and removing a major point of friction for new users by abstracting away [gas fees](/understanding-gas-fees-and-optimization-in-ethereum).
 
 ### 4. Is Account Abstraction secure?
 Yes. Smart contract wallets have been around for a while (e.g., Gnosis Safe) and have a strong security track record. EIP-4337 is designed to make them the default standard. A smart contract wallet can even be more secure than a traditional wallet because you can program custom security rules, such as daily spending limits or multi-factor authentication.
 
 ### 5. How does this help with Web3 adoption?
-By making crypto wallets as easy and forgiving to use as a standard Web2 account (like an email login), Account Abstraction removes one of the biggest barriers to entry for mainstream users, which is essential for [why
+By making crypto wallets as easy and forgiving to use as a standard Web2 account (like an email login), Account Abstraction removes one of the biggest barriers to entry for mainstream users, which is essential for solving the [Web3 adoption problem](/why-web3-adoption-is-slow).

@@ -83,7 +83,7 @@ Excellent asynchronous written communication is arguably the most critical non-t
 No. While developers are in high demand, there is a massive need for non-technical roles. Our guide on the [best Web3 jobs for non-developers](/best-web3-jobs-for-non-developers) covers roles like community management, marketing, and product management, which are all critical to a project's success.
 
 ### 3. How can I learn about Web3 security if I'm not an auditor?
-Start by studying past hacks and exploits. Reading post-mortems and understanding common vulnerabilities like reentrancy and phishing will give you a strong security mindset. It's also crucial to learn how to [secure your own crypto assets](/securing-your-crypto) with hardware wallets and best practices.
+Start by studying past hacks and exploits. Reading post-mortems and understanding [common vulnerabilities](/common-smart-contract-vulnerabilities-explained) like reentrancy and phishing will give you a strong security mindset. It's also crucial to learn how to [secure your own crypto assets](/securing-your-crypto) with hardware wallets and best practices.
 
 ### 4. What is "cultural fluency" in Web3?
 Cultural fluency means understanding the unique language, memes, and values of the crypto community. It's knowing what terms like ["gm"](/what-is-gm-in-web3), ["WAGMI"](/what-is-wagmi-and-ngmi), and "FUD" mean, and understanding the core principles of decentralization and self-sovereignty.

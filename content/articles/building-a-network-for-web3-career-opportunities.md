@@ -60,7 +60,7 @@ It's generally not effective. A much better strategy is the "warm DM." First, en
 Your public content is your network-building tool. Start a blog or Twitter account where you write analyses of projects, explain complex concepts simply, or share your strategic insights. This public "proof of knowledge" will attract followers and collaborators. This is a key part of [building your public brand](/how-to-build-a-public-on-chain-developer-brand).
 
 ### 4. Are in-person conferences important for networking?
-Yes, very. While Web3 is remote-first, major conferences are incredibly high-leverage opportunities to meet a large number of people in a short amount of time. The informal "hallway track" conversations are often more valuable than the official talks.
+Yes, very. While Web3 is [remote-first](/remote-work-in-web3), major conferences are incredibly high-leverage opportunities to meet a large number of people in a short amount of time. The informal "hallway track" conversations are often more valuable than the official talks.
 
 ### 5. How does a DAO help with networking?
 A [DAO (Decentralized Autonomous Organization)](/what-is-a-dao) is a community of people working together. By joining a working group within a DAO, you collaborate on projects with other skilled professionals, building deep, trust-based relationships that often lead directly to career opportunities.

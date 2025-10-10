@@ -60,3 +60,22 @@ Despite its immense potential, Web3 gaming is still in its early days and faces 
 ## The Future of Interactive Entertainment
 
 Web3 gaming represents a monumental shift in the relationship between developers and players. It's a move away from a one-way, extractive model towards a collaborative ecosystem where players are co-owners and co-creators of the game worlds they inhabit. While the technology and game design are still maturing, the core promise of true digital ownership is a powerful one. As developers learn to seamlessly integrate blockchain elements into high-quality, fun experiences, Web3 gaming is poised to become a dominant force in the future of interactive entertainment.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Web3 gaming (GameFi)?
+Web3 gaming, also known as GameFi, integrates [blockchain](/what-is-a-blockchain) technology into video games. This primarily involves using [NFTs](/what-are-nfts) to represent in-game items, giving players true ownership of their digital assets.
+
+### 2. What's the difference between "Play-to-Earn" and "Play-and-Own"?
+Play-to-Earn (P2E) models focus on players earning crypto rewards as the primary incentive to play. The newer "Play-and-Own" model prioritizes creating a fun game first, with the ownership of NFT assets being a feature that enhances the experience, rather than being the sole purpose of playing.
+
+### 3. What are the key jobs in the Web3 gaming industry?
+The key roles include **Game Developers** (Unity/Unreal), **Smart Contract Engineers**, and **Game Economy Designers**. Our guide on [breaking into Web3 game development jobs](/breaking-into-web3-game-development-jobs) provides more detail.
+
+### 4. What are Web3 gaming guilds?
+[Gaming guilds](/web3-gaming-guilds) are organizations that buy in-game NFTs and lend them to players (called "scholars") who can't afford the upfront cost. In return, the guild takes a share of the scholar's earnings, creating a powerful onboarding and community model.
+
+### 5. What are the biggest challenges for Web3 gaming?
+The main challenges are improving the user experience to make it accessible for mainstream gamers, building sustainable in-game economies, and ensuring games are fun to play, not just a way to earn money. This is a key part of solving the [Web3 adoption problem](/why-web3-adoption-is-slow).
