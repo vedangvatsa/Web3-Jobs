@@ -90,6 +90,25 @@ Web3 culture is less corporate and more community-oriented. It's okay to let you
 
 By following these do's and don'ts, you can transform your resume from a simple historical document into a powerful marketing tool that effectively showcases your skills, passion, and unique value to the Web3 ecosystem.
 
+---
+
+## Frequently Asked Questions
+
+### 1. Why is linking my GitHub so important on a Web3 resume?
+In Web3, "proof of work" is critical. Your GitHub is a verifiable, public portfolio of your coding skills and contributions. Recruiters will often check it before anything else to see what you've actually built.
+
+### 2. Should I include my real name or a pseudonym on my resume?
+This depends on your comfort level, but including your professional pseudonym and your ENS name (e.g., `yourname.eth`) is a strong cultural signal that you are a native participant in the space. Many people use both their real name and their established Web3 identity.
+
+### 3. What kind of metrics should I use to quantify my impact?
+Move beyond traditional Web2 metrics. Instead of just "grew user base," use Web3-native metrics like "Increased monthly active wallets by 30%" or "Drove a $10M increase in Total Value Locked (TVL)." This shows you understand what drives value in a decentralized protocol.
+
+### 4. Is a one-page resume still the standard in Web3?
+Yes, absolutely. Recruiters are even busier in the fast-paced crypto world. Your resume should be a concise, one-page gateway to your public "proof of work"—your GitHub, your blog, and your on-chain contributions. The goal is to get them to click your links.
+
+### 5. How can I show "experience" if I haven't had a formal Web3 job?
+Create a "Web3 Contributions" section on your resume and place it above your traditional work history. This is where you list your public "proof of work": contributions to DAOs, open-source code on GitHub, hackathon projects, or insightful articles you've written. This is often more valuable to a Web3 recruiter than a traditional job title.
+
 <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
   <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
     <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
