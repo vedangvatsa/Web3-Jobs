@@ -62,3 +62,22 @@ The official Ethereum roadmap has fully embraced a "rollup-centric" future. The 
 The role of the Ethereum mainnet will evolve. Instead of being the primary execution layer, it will serve as the decentralized **settlement and data availability layer** for all the rollups built on top of it. Upgrades like EIP-4844 (Proto-Danksharding) are specifically designed to make it cheaper for rollups to post their data to the L1, which in turn makes L2 transactions even cheaper for the end-user.
 
 This modular design—where execution happens on L2s and settlement on L1—allows Ethereum to scale massively without compromising on the decentralization and security that make it valuable in the first place. For developers and users, this means the era of high fees and slow transactions is coming to an end. The future of Ethereum is fast, cheap, and being built on Layer 2.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the main difference between an Optimistic and a ZK-Rollup?
+The main difference is their security model. Optimistic Rollups assume transactions are valid and use a "fraud proof" system where anyone can challenge a fraudulent transaction during a 7-day window. ZK-Rollups use "validity proofs" ([zero-knowledge proofs](/zero-knowledge-proofs-explained)) to mathematically prove the correctness of every transaction batch upfront, allowing for much faster finality.
+
+### 2. Why are Layer 2s better than just increasing Ethereum's block size?
+Simply increasing the block size on Ethereum's base layer would lead to higher hardware requirements for running a node, which could harm decentralization. [Layer 2s](/guide-to-layer-2s) allow for scaling by moving execution off-chain while still relying on the main chain for security, which is a more sustainable long-term solution.
+
+### 3. Are my funds on a Layer 2 as secure as they are on Ethereum?
+Yes, rollups are designed to inherit the full security of the Ethereum mainnet. In an Optimistic Rollup, a fraudulent transaction can be challenged and reverted. In a ZK-Rollup, a fraudulent transaction cannot be included in the first place because it would be impossible to generate a valid proof for it. This is a key difference compared to less secure scaling solutions like [sidechains](/sidechains-vs-layer-2s).
+
+### 4. What does "EVM-compatible" mean and why is it important?
+EVM stands for Ethereum Virtual Machine. An "EVM-compatible" Layer 2 means that developers can deploy their existing Solidity [smart contracts](/what-are-smart-contracts) to the L2 with little to no code changes. This is a massive advantage as it allows the L2 to tap into Ethereum's vast ecosystem of developers and tools.
+
+### 5. Do I still have to pay gas fees on a Layer 2?
+Yes, but they are significantly lower (often 10-100x cheaper) than on the Ethereum mainnet. You still need to pay a small fee to the L2 sequencer for processing your transaction and for the cost of posting the data to the L1. For more details, see our [guide to gas fees](/understanding-gas-fees-and-optimization-in-ethereum).
