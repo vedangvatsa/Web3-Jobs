@@ -58,7 +58,7 @@ You don't need to be a coder to be a builder in Web3. The industry needs passion
 ### 1. What are the best non-technical jobs in Web3?
 Some of the [best non-developer roles](/best-web3-jobs-for-non-developers) include Community Manager, Marketing Manager, Product Manager, UX/UI Designer, and Operations. These roles are essential for a project's growth and user adoption.
 
-### 2. How do I get experience if I've never worked in crypto?
+### 2. How do I get experience if I've never worked in crypto before?
 Build a "proof of work" portfolio. This means demonstrating your skills in public. You can write insightful blog posts, create data dashboards, or, most effectively, start [contributing to a DAO](/how-to-contribute-to-daos-and-get-paid) in a role that matches your skills (e.g., a marketing or writing guild).
 
 ### 3. What is the most important skill for a non-technical Web3 professional?

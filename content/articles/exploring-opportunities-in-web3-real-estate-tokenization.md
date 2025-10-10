@@ -49,7 +49,7 @@ However, the potential benefits—increased liquidity, fractional ownership, and
 ## Frequently Asked Questions
 
 ### 1. What is real estate tokenization?
-Real estate tokenization is the process of converting ownership rights of a physical property into digital tokens on a blockchain. This allows for fractional ownership, making the asset more liquid and accessible.
+Real estate tokenization is the process of creating a digital token on a blockchain that represents ownership in a physical property. This allows for fractional ownership, making the asset more liquid and accessible.
 
 ### 2. How does tokenization help with real estate investing?
 It lowers the barrier to entry. Instead of needing millions to buy a commercial building, an investor could buy a single token representing a small fraction of the property. This opens up real estate investing to a much broader audience.

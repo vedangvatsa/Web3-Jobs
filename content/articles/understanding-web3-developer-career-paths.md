@@ -30,7 +30,7 @@ These developers are responsible for building the user interface that connects t
 
 #### 3. Protocol Engineer (L1/L2 Core Developer)
 
-This is an elite, systems-level role. Protocol engineers build the blockchains themselves—the Layer 1 and Layer 2 networks that dApps are built on.
+This is an elite, systems-level role. Protocol engineers build the blockchains themselves – the Layer 1 and Layer 2 networks that dApps are built on.
 
 -   **What they do:** Work on consensus mechanisms, the virtual machine (EVM), peer-to-peer networking, and other core infrastructure components.
 -   **Core Skills:** Proficiency in systems languages like **Rust** or **Go**. A deep academic background in computer science, especially distributed systems and cryptography, is often required.

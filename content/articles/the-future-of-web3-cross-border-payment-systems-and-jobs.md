@@ -40,3 +40,22 @@ As companies and individuals start to adopt this new payment rail, a range of ne
 ### The Road Ahead
 
 The transition to a Web3-powered global payment system will be a long one. It faces significant hurdles, from regulatory uncertainty to the challenge of building user-friendly applications. However, the efficiency gains are so massive that the transition is inevitable. For professionals with a background in finance, compliance, or payments technology, this space represents a massive opportunity to be at the forefront of building a more open and efficient global financial system.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How does Web3 make cross-border payments better?
+Web3 uses **[stablecoins](/guide-to-stablecoins)** and fast blockchains to create a global payment rail that is much faster, cheaper, and more transparent than the traditional banking system which relies on slow and expensive intermediaries.
+
+### 2. What is a stablecoin?
+A stablecoin is a type of cryptocurrency whose value is pegged to a stable asset, usually the US dollar. This makes it ideal for payments as it is not subject to the price volatility of other cryptocurrencies like Bitcoin.
+
+### 3. What is a "payment rail"?
+A payment rail is the underlying infrastructure used to send and receive money. The traditional system uses rails like SWIFT and correspondent banks. Web3 offers a new, alternative rail built on public blockchains.
+
+### 4. What kind of jobs are available in this sector?
+The key roles are **Protocol Engineers** who build the payment systems, **Business Development Managers** who build on-ramp/off-ramp partnerships, **[Compliance Officers](/exploring-career-paths-for-web3-compliance-officers)** who navigate regulations, and **Product Managers** who design user-friendly payment apps.
+
+### 5. What is the biggest challenge for Web3 payments?
+The biggest challenges are **regulatory uncertainty** and building a global network of **on-ramps and off-ramps** that allow users to easily convert between crypto and their local fiat currency.

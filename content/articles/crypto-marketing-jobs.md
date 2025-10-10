@@ -61,7 +61,7 @@ The [Community Manager](/web3-community-manager-career) is often considered the 
 Exceptional writing and communication skills are paramount. Additionally, a deep understanding of crypto culture (including memes), community-building instincts, and resilience are essential.
 
 ### 4. How can I get a marketing job in Web3 with no crypto experience?
-Build a "proof-of-work" portfolio. Start a blog or Twitter account and create content that analyzes Web3 marketing strategies. The best way to get hired is to [contribute to a DAO's](/how-to-contribute-to-daos-and-get-paid) marketing working group, which provides verifiable experience.
+Build a "proof-of-work" portfolio. Start a blog or Twitter account and create content that analyzes Web3 marketing strategies. The best way to get practical experience is to [contribute to a DAO's](/how-to-contribute-to-daos-and-get-paid) marketing working group, which provides verifiable experience.
 
 ### 5. What does a "Web3 go-to-market playbook" look like?
 A Web3 GTM strategy is community-led. It involves building an engaged community pre-launch, rewarding early members, and using token incentives to drive organic growth post-launch. For more details, see our guide on the [Web3 Go-To-Market Playbook](/web3-go-to-market-playbook).

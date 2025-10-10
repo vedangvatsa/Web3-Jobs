@@ -42,7 +42,7 @@ A great DevRel is not just a great coder or a great communicator; they are both.
 
 The path to DevRel often starts with being an active and helpful member of a developer community.
 
-1.  **Build on the Protocol:** The first step is to be a user of the product you want to represent. Build a small project using their SDK or API.
+1.  **Build on the Protocol:** The first step is to be a user of the product you want to represent. Build a small project using their SDK.
 2.  **Identify and Fill Gaps:** As you're building, pay close attention to the developer experience. Where is the documentation confusing? What tutorial is missing?
 3.  **Create the Content:** Write the blog post or record the video tutorial that you wish you had when you were starting. Share it with the community.
 4.  **Be an Exemplary Community Member:** Hang out in the project's Discord and help other developers who are struggling. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) and helpfulness will get you noticed by the core team.

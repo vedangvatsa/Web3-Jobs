@@ -1,6 +1,6 @@
 ---
 title: "Navigating the Web3 Investment Analyst Career Path"
-image: "https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbnZlc3R8ZW58MHx8fHwxNzU1MDM2NDUzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbnZlc3R8ZW58MHx8fHwxNzU1MDM2NDUzfDA&lib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "investment finance stock"
 description: "A guide for aspiring crypto investors. Learn what a Web3 investment analyst does, the skills needed to succeed, and how to break into a role at a crypto venture capital fund."
 category: "Career Guides"
@@ -46,7 +46,7 @@ The path to a crypto VC job is rarely straightforward. It's about demonstrating 
 3.  **Build a Portfolio of Public Work:** Your public analyses are your resume.
     *   Create insightful Dune dashboards.
     *   Write a detailed investment thesis on a project you admire and publish it.
-    *   Become an active and respected contributor to a DAO's governance forum.
+    -   Become an active and respected contributor to a [DAO's](/what-is-a-dao) governance forum.
 4.  **Network Strategically:** Build relationships with analysts and associates at funds you admire. Don't ask for a job; ask for feedback on your analysis.
 
 A career as a Web3 Investment Analyst is a demanding but incredibly rewarding path. It's a chance to be at the center of the action, supporting the founders who are building the foundational infrastructure of the next web.
@@ -56,7 +56,7 @@ A career as a Web3 Investment Analyst is a demanding but incredibly rewarding pa
 ## Frequently Asked Questions
 
 ### 1. What does a Web3 Investment Analyst do?
-A Web3 Investment Analyst works for a venture capital fund and is responsible for finding, researching, and performing due diligence on early-stage crypto projects. This involves analyzing a project's technology, team, tokenomics, and market potential. This is a key role in the [Web3 VC space](/web3-vc-jobs).
+A Web3 Investment Analyst works for a venture capital fund and is responsible for finding, researching, and performing due diligence on early-stage crypto projects. This involves analyzing a project's technology, team, tokenomics, and market potential, and then writing a detailed investment memo to present to the fund's partners. This is a key role in the [Web3 VC space](/web3-vc-jobs).
 
 ### 2. What skills are most important for this career?
 The most important skills are a deep and insatiable curiosity, strong analytical and critical thinking abilities, and excellent written communication for crafting investment memos. A strong network and technical literacy are also crucial.
@@ -65,7 +65,7 @@ The most important skills are a deep and insatiable curiosity, strong analytical
 A Web3 analyst must understand unique concepts like **[tokenomics](/understanding-tokenomics)** and be able to perform **[on-chain data analysis](/on-chain-analyst-job)** using tools like Dune. They invest in decentralized protocols, not just private companies, and must be deeply embedded in the crypto community.
 
 ### 4. How can I become a Web3 VC analyst?
-The best path is to build a public portfolio of your "proof of work." This means publishing your own research and investment theses on a blog or Twitter. Creating insightful Dune dashboards is also a very powerful way to demonstrate your analytical skills. For more, see our guide on [how to get started as a Web3 VC analyst](/how-to-get-started-as-a-web3-cryptocurrency-venture-capital-analyst).
+The best path is to build a public "proof of work" portfolio. This means publishing your own research and investment theses on a blog or Twitter. Creating insightful Dune dashboards is also a very powerful way to demonstrate your analytical skills. For more, see our guide on [how to get started as a VC analyst](/how-to-get-started-as-a-web3-cryptocurrency-venture-capital-analyst).
 
 ### 5. Do I need a finance degree?
 A finance or computer science degree is helpful but not required. Many of the best analysts are self-taught and have proven their expertise through their public research and contributions to the ecosystem. A demonstrable passion and a strong portfolio are more important than credentials.

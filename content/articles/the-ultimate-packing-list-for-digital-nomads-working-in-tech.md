@@ -68,7 +68,7 @@ Your packing list is a living document that you will refine over time based on y
       <h3 className="text-xl font-bold text-primary mb-1">Ready to Start Your Nomad Journey?</h3>
       <p className="text-muted-foreground">The digital nomad lifestyle starts with a remote job. Explore thousands of location-independent roles on our Web3 job board.</p>
     </div>
-    <a href="/jobs" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
+    <a href="/jobs?remote=true" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
       <Button size="lg">
         Explore Remote Jobs <ArrowRight className="ml-2 h-4 w-4"/>
       </Button>

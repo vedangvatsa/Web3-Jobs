@@ -1,6 +1,6 @@
 ---
 title: "Web3 Marketing Jobs: From Community to CMO"
-image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NTAwOTAwOXww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NTAwOTAwOXww&lib=rb-4.1.0&q=80&w=1080"
 description: "The complete guide to landing a marketing job in Web3. Learn about the different roles, from meme-lord to content strategist, and the skills you need to build a brand in a decentralized world."
 category: "Career Guides"
 ---
@@ -31,11 +31,11 @@ The "marketing team" in a Web3 project is a constellation of specialized roles.
 
 ### How to Get Hired: Your Proof-of-Work Portfolio
 
-Your resume is secondary. Your "proof of work" is everything.
+Your resume is secondary. Your "[proof of work](/how-to-build-a-public-on-chain-developer-brand)" is everything.
 
 - **Become a Super-User:** You cannot market a product you don't understand. Deeply immerse yourself in DeFi, NFTs, and the specific niche you want to work in.
 - **Build a Public Voice:** Start a Twitter account or blog focused on your area of expertise. Write a thread analyzing a project's marketing strategy. Create a meme that gets traction. This is your public portfolio.
-- **Contribute to a DAO:** This is the ultimate way to get noticed. Join a marketing-focused working group in a DAO. Volunteer to help with the newsletter, write a blog post, or organize a community event. Your contributions are public, verifiable, and the best resume you could possibly have.
+- **Contribute to a DAO:** This is the ultimate way to get noticed. Join a marketing-focused working group in a [DAO](/the-rise-of-daos). Volunteer to help with the newsletter, write a blog post, or organize a community event. Your contributions are public, verifiable, and the best resume you could possibly have.
 
 ### Essential Skills for Web3 Marketers
 
@@ -45,3 +45,22 @@ Your resume is secondary. Your "proof of work" is everything.
 - **Resilience:** The market is volatile, and communities can be demanding. You need thick skin and the ability to navigate chaotic situations with grace.
 
 A career in Web3 marketing is an opportunity to be at the forefront of a cultural and technological shift. It's a chance to build brands that are co-owned by their communities and to write the playbook for the next generation of marketing.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How is Web3 marketing different from traditional marketing?
+[Web3 marketing](/web3-marketing) is fundamentally different. It prioritizes community building, authentic content, and cultural relevance over paid advertising. The goal is to cultivate a community of owners, not just to acquire customers.
+
+### 2. What is the most important role on a Web3 marketing team?
+The [Community Manager](/web3-community-manager-career) is often considered the most crucial role. They are responsible for fostering the community, which is the heart of any Web3 project's growth and success.
+
+### 3. What skills are most important for a Web3 marketer?
+Exceptional writing and communication skills are paramount. Additionally, a deep understanding of crypto culture (including memes), community-building instincts, and resilience are essential.
+
+### 4. How can I get a marketing job in Web3 with no crypto experience?
+Build a "proof-of-work" portfolio. Start a blog or Twitter account and create content that analyzes Web3 marketing strategies. The best way to get practical experience is to [contribute to a DAO's](/how-to-contribute-to-daos-and-get-paid) marketing working group, which provides verifiable experience.
+
+### 5. What does a "Web3 go-to-market playbook" look like?
+A Web3 GTM strategy is community-led. It involves building an engaged community pre-launch, rewarding early members, and using token incentives to drive organic growth post-launch. For more details, see our guide on the [Web3 Go-To-Market Playbook](/web3-go-to-market-playbook).
