@@ -31,3 +31,27 @@ Doing your own research doesn't mean you need to become a cybersecurity expert, 
 5.  **Review the Code:** For technical users, the code on GitHub should be public. Has the project been audited by a reputable [security firm](/smart-contract-auditor-career)?
 
 The principle of DYOR is a core tenet of the Web3 ethos of self-sovereignty and personal responsibility. It can be time-consuming, but taking the time to research a project thoroughly is the single best way to protect yourself and make intelligent decisions in the decentralized economy.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does DYOR stand for?
+DYOR stands for **Do Your Own Research**. It is a fundamental principle in the crypto world, reminding investors and users to thoroughly investigate a project for themselves rather than relying on hype or others' opinions.
+
+### 2. Why is DYOR so important in crypto?
+The crypto space is largely unregulated and filled with scams, hype, and complex technology. DYOR is crucial for protecting yourself from "rug pulls" (where developers abandon a project and steal funds), misleading promotions or **["shilling"](/what-is-shilling-in-crypto)**, and projects with flawed technology or economics.
+
+### 3. What should I look for when researching a crypto project?
+A good DYOR process involves several steps:
+*   **Investigate the team:** Are they experienced and reputable?
+*   **Analyze the [tokenomics](/understanding-tokenomics):** Does the token have a real purpose and a fair distribution?
+*   **Evaluate the technology:** Does the project solve a real problem in a novel way?
+*   **Assess the community:** Is the community active, engaged, and knowledgeable?
+*   For more details, check out our guide on **[how to research a blockchain startup](/how-to-research-a-blockchain-startup)**.
+
+### 4. What is a "whitepaper"?
+A whitepaper is a detailed document that outlines a project's goals, technology, and architecture. Reading the whitepaper is a critical first step in doing your own research.
+
+### 5. How can I verify a smart contract's security?
+While a full security audit requires deep technical expertise, a basic step is to check if the project's code has been audited by a reputable security firm. You can also learn the basics of **[how to read a smart contract](/how-to-read-smart-contracts-before-you-ape)** to spot common red flags yourself.

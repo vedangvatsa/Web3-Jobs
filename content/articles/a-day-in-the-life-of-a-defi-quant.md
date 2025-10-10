@@ -53,3 +53,22 @@ The DeFi space moves at light speed. The final part of the day is dedicated to k
     - **Experimenting:** Spin up a local fork of a new protocol to test its mechanics and understand its potential vulnerabilities.
 
 A day in the life of a DeFi quant is a constant balancing act between rigorous data analysis, financial modeling, risk management, and community politics. It's a role that demands a rare combination of technical depth, financial acumen, and communication skills, offering an unparalleled opportunity to work on some of the most challenging and important problems in the new financial landscape.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is a "quant" in the context of DeFi?
+A DeFi "quant," or quantitative analyst, is a professional who uses mathematical models and data analysis to understand and manage the economic risks of decentralized finance protocols. They are a blend of data scientist, financial engineer, and strategist.
+
+### 2. What tools does a DeFi quant use most often?
+A typical toolkit includes on-chain analytics platforms like **Dune Analytics** for querying blockchain data with SQL, and **Python** (with libraries like Pandas and Jupyter) for more complex modeling and simulation.
+
+### 3. Is coding a necessary skill for a DeFi quant?
+Yes, proficiency in coding is essential. Strong **SQL** skills are non-negotiable for data extraction, and **Python** is the standard for financial modeling, simulation, and data analysis.
+
+### 4. What is "impermanent loss"?
+Impermanent loss is a key risk for anyone providing liquidity to a [Decentralized Exchange (DEX)](/how-to-build-a-simple-amm-on-an-l2). It's the potential loss one incurs due to price divergence of assets in a liquidity pool compared to simply holding the assets. Quants spend a lot of time modeling this risk.
+
+### 5. How can I become a DeFi quant?
+The path typically involves a strong background in a quantitative field (like finance, economics, or computer science), expertise in Python and SQL, and a deep, practical understanding of how [DeFi protocols](/what-is-defi) work. Building a public portfolio of on-chain analysis on a platform like Dune is an excellent way to start.

@@ -52,3 +52,22 @@ Decentralized social media is moving beyond a niche experiment and becoming a vi
 -   **Why it matters:** [SocialFi](/what-is-socialfi) represents one of the best opportunities for a breakout, mainstream Web3 application. It tackles a clear problem—the centralized control of social media—with a compelling, user-owned solution.
 
 These trends paint a picture of an industry that is maturing rapidly. The focus is shifting from pure speculation to building sustainable infrastructure, solving real-world problems, and creating a more scalable and user-friendly decentralized internet. For those watching the space, 2025 promises to be a pivotal year of growth and innovation.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the biggest Web3 trend to watch right now?
+The **[convergence of AI and Web3](/web3-and-ai)** is arguably the most exciting new frontier. This includes everything from using blockchains to verify AI computations (ZKML) to deploying AI agents to manage DAOs.
+
+### 2. What is a "modular blockchain"?
+A modular blockchain separates its core functions—execution, settlement, and data availability—into specialized layers. This is a key scalability trend, with **[Layer 2 rollups](/guide-to-layer-2s)** handling execution and new data availability layers (like Celestia) helping to lower costs.
+
+### 3. What are Real-World Assets (RWAs)?
+RWAs are traditional, off-chain assets (like real estate or government bonds) that are represented as tokens on a blockchain. The tokenization of RWAs is a major trend aimed at bridging the gap between DeFi and traditional finance.
+
+### 4. What is "re-staking"?
+Re-staking is a new DeFi primitive that allows ETH that is already staked to secure the Ethereum network to be "re-used" to secure other protocols. It's a powerful but complex new mechanism that introduces both new yield opportunities and new risks.
+
+### 5. What is SocialFi?
+**[SocialFi](/what-is-socialfi)** refers to decentralized social media protocols like Farcaster and Lens. They aim to create user-owned social networks where users control their data and identity, representing a major potential growth area for Web3.

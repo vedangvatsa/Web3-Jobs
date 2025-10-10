@@ -66,3 +66,22 @@ A PM in the oracle space defines the roadmap for new data products and services.
 3.  **Engage with the Community:** The oracle space is highly collaborative. Join the Chainlink Discord, participate in discussions, and attend hackathons to meet the teams and other builders in the ecosystem.
 
 A career in the oracle sector is an opportunity to work on the foundational data layer of Web3. It's a field that is essential for the growth and security of the entire decentralized economy, offering challenging and high-impact roles for a wide range of professionals.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is a blockchain oracle?
+A blockchain oracle is a service that connects [smart contracts](/what-are-smart-contracts) to real-world, off-chain data. They are the essential bridge that allows a decentralized application to react to external information like asset prices or weather data.
+
+### 2. Why are oracles necessary?
+Blockchains are deterministic systems that cannot fetch external data on their own. Oracles solve this "oracle problem" by retrieving, verifying, and delivering off-chain data to the blockchain in a secure and reliable way. Learn more in our [introduction to oracles](/what-are-oracles).
+
+### 3. What are the main career paths in the oracle space?
+Key roles include **Node Operators** who manage the infrastructure, **Software Engineers** who build the core protocol, **Business Development Managers** who forge data partnerships, and **Product Managers** who design new oracle services.
+
+### 4. What are some use cases for oracles besides price feeds?
+Oracles are used for a wide range of applications, including **parametric insurance** (triggered by real-world events), **[dynamic NFTs](/creating-dynamic-nfts-a-step-by-step-guide)** (which change based on external data), and providing **verifiable randomness** for Web3 gaming.
+
+### 5. What skills are needed to work on oracles?
+Technical roles require expertise in **DevOps**, systems programming (Go/Rust), and **Solidity**. Non-technical roles require a deep understanding of the Web3 ecosystem and strong skills in partnerships, sales, or product strategy.

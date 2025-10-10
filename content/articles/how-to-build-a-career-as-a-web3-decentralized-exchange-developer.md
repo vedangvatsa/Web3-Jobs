@@ -32,3 +32,22 @@ A career as a **DEX Developer** is for those who are passionate about both finan
 4.  **Contribute:** Find a DEX project on GitHub and make a contribution. You could help improve the documentation, add a new test case, or even propose a minor feature.
 
 Building a career as a DEX developer is a challenging path that requires a rare combination of technical and financial expertise. For those who can meet this high bar, it's an opportunity to work on the foundational trading infrastructure of the new decentralized economy.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Decentralized Exchange (DEX) Developer do?
+A DEX Developer is a specialized [smart contract engineer](/smart-contract-jobs) who builds and maintains the on-chain protocols for decentralized trading. They design and implement complex systems like Automated Market Makers (AMMs) and manage the security of contracts that hold billions in assets.
+
+### 2. What is an Automated Market Maker (AMM)?
+An AMM is the core engine of most DEXs. Instead of a traditional order book, users trade against a pool of tokens, with prices determined by a mathematical formula (like `x * y = k`). Understanding AMMs is a fundamental skill for a DEX developer. Our guide on [building a simple AMM](/how-to-build-a-simple-amm-on-an-l2) offers a practical introduction.
+
+### 3. What technical skills are most important for a DEX developer?
+Expert-level **Solidity**, a deep understanding of the **EVM** for gas optimization, and a paranoid **security-first mindset** are the most critical skills. Given the financial nature of the work, a strong grasp of economic principles is also essential.
+
+### 4. Why is MEV important for DEXs?
+[MEV (Maximal Extractable Value)](/what-is-mev) is a major force on DEXs. Strategies like sandwich attacks can give users a worse price on their trades. A good DEX developer must design their protocol to mitigate the negative effects of MEV.
+
+### 5. How can I get started as a DEX developer?
+First, become an expert in Solidity and DeFi fundamentals. Then, the best way to learn is to deconstruct the open-source code of a major DEX like Uniswap V2. Your key portfolio project should be building your own simplified AMM to demonstrate your understanding.

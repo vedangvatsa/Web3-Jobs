@@ -53,3 +53,22 @@ For many people, their only exposure to "crypto" is through negative headlines a
 The good news is that the Web3 community is acutely aware of these challenges and is working tirelessly to solve them. The brightest minds in the space are focused on improving UX, scaling the infrastructure, and building applications that solve real-world problems.
 
 The transition to Web3 will not happen overnight. It will be a gradual process, much like the transition from dial-up to broadband. But as the technology matures and the user experience improves, the powerful benefits of a user-owned internet will become increasingly compelling. The question is not *if* mainstream adoption will happen, but *when*, and what killer application will be the one to finally open the floodgates.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the biggest barrier to Web3 adoption?
+The single biggest barrier is **poor user experience (UX)**. The complexity of managing wallets and seed phrases, understanding gas fees, and navigating dApps is still too high for the average user. Improving the UX is a major focus for the industry, with technologies like **[Account Abstraction](/account-abstraction-explained)** leading the way.
+
+### 2. Why are blockchains so slow and expensive?
+Blockchains face a "scalability trilemma," a difficult trade-off between decentralization, security, and scalability. To solve this, developers are building **[Layer 2 (L2) scaling solutions](/guide-to-layer-2s)** that process transactions much faster and cheaper.
+
+### 3. Hasn't Web3 been around for a while? Why aren't there more users?
+While Bitcoin was created in 2009, the "application layer" of Web3, powered by smart contracts, only really began with **[Ethereum](/what-is-ethereum)** in 2015. The industry is still very young and is working on building the core infrastructure before a "killer app" can emerge.
+
+### 4. Is the lack of regulation holding back adoption?
+Yes. **[Regulatory uncertainty](/web3-jobs-and-regulatory-unknown)** makes it risky for large companies to fully embrace the technology and can confuse consumers. Clearer regulations are seen as a key step toward mainstream adoption.
+
+### 5. Is Web3 a "solution in search of a problem"?
+Critics often argue this, but proponents believe Web3 solves fundamental problems of the current internet, such as data monopolies, censorship, and lack of user ownership. The challenge is building applications that demonstrate this value in a seamless and compelling way.

@@ -47,3 +47,22 @@ This is one of the most accessible roles for those looking to break into the ind
 5.  **Engage with the Community:** Share your work in the project's Discord. Get feedback. You'll quickly build a reputation as someone who understands the protocol and can communicate it effectively, which often leads directly to job opportunities.
 
 If you are a clear thinker, a precise writer, and have a passion for making the complex understandable, a career as a technical writer could be your perfect entry point into the world of Web3.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Web3 Technical Writer do?
+A Web3 Technical Writer creates clear and accurate documentation for blockchain projects. This includes developer docs, API references, user tutorials, and in-depth articles explaining how a protocol works. For a full overview, see our [guide to the Web3 technical writer role](/the-role-of-web3-technical-writers-in-blockchain-projects).
+
+### 2. Do I need to be a coder to be a technical writer?
+You don't need to be a professional developer, but you must have a high degree of technical literacy. The ability to read and understand code (especially **[Solidity](/solidity-for-beginners)**) is essential for accurately documenting smart contracts.
+
+### 3. What skills are most important for this role?
+The core skill is the ability to explain complex technical topics in simple, clear language. You also need a strong sense of empathy for your audience (whether developers or non-technical users), a meticulous attention to detail, and a deep curiosity for how the technology works.
+
+### 4. How can I get experience as a Web3 technical writer?
+The best way is to build a public portfolio. Find an open-source project you admire, identify a gap or an unclear section in their documentation, and write a better version. Publishing this work on a blog or submitting it as a GitHub pull request is a powerful "proof of work."
+
+### 5. Why is technical writing so crucial in Web3?
+Web3 technology is complex and the stakes are high. Clear documentation is vital for developer adoption (developers won't build on what they don't understand) and for user safety (helping users avoid costly mistakes). They are a key part of the [most in-demand Web3 careers](/most-in-demand-web3-careers).

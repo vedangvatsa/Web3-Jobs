@@ -38,7 +38,7 @@ This phase is about deep immersion and building a foundational understanding of 
 
 ### Phase 2: Building Your "Proof of Work" Portfolio (The Next 6 Months)
 
-In Web3, your public contributions are your resume. In this phase, you will build a portfolio that demonstrates your skills and passion, making you an attractive candidate even without formal PM experience in crypto.
+In Web3, your public contributions are your resume. In this phase, you will build a portfolio that demonstrates your product thinking in a Web3 context, making you an attractive candidate even without formal PM experience in crypto.
 
 **Objective:** Create a public portfolio of work that showcases your product thinking in a Web3 context.
 
@@ -71,3 +71,22 @@ With a strong foundation of knowledge and a portfolio of public work, you are no
     -   Demonstrate your passion and your deep, authentic curiosity.
 
 The path to becoming a Web3 Product Manager is a marathon, not a sprint. It's a journey of continuous learning, active participation, and building in public. For those who are passionate about product and excited by the challenge of building a new, decentralized internet, it is one of the most rewarding and impactful career paths in technology today.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Web3 Product Manager do?
+A Web3 PM guides the vision and roadmap of a decentralized product. This involves conducting user research with pseudonymous users, building consensus within a community of token holders, and working with developers to ship features. For an overview, see our [Web3 Product Manager Career Guide](/web3-product-manager-jobs).
+
+### 2. Do I need a technical background to be a Web3 PM?
+You don't need to be a developer, but a high degree of **technical literacy** is required. You must understand how the blockchain works, the basics of smart contracts, and the constraints of the technology to be effective.
+
+### 3. How can I get Web3 PM experience if I'm currently in Web2?
+Build a "proof of work" portfolio. The best way is to become an active contributor to a **[DAO (Decentralized Autonomous Organization)](/how-to-contribute-to-daos-and-get-paid)**. Writing a detailed governance proposal is a perfect demonstration of PM skills in a Web3 context.
+
+### 4. What is the biggest difference between being a PM in Web2 vs. Web3?
+The biggest difference is that you are building for **owners, not just users**. Your users are often token holders who have a direct say in the product's future through governance, which fundamentally changes the role from a top-down decision-maker to a community facilitator.
+
+### 5. What are the key skills I should learn?
+Beyond core product management skills, you need to learn **[tokenomics](/understanding-tokenomics)**, mechanism design, and how to analyze on-chain data using tools like Dune Analytics. Deep, hands-on experience using DeFi protocols is also non-negotiable.

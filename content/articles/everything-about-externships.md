@@ -80,3 +80,22 @@ An externship is a powerful, low-stakes tool for career exploration. It provides
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is an externship?
+An externship is a short-term, unpaid, observational experience, similar to job shadowing. Its primary goal is career exploration, allowing you to get an inside look at a profession without the long-term commitment of an internship.
+
+### 2. How is an externship different from an internship?
+Externships are short (a day to a few weeks), unpaid, and focused on observation. Internships, like a [Web3 internship](/web3-internship-101), are longer (a semester or summer), usually paid, and involve completing specific projects and tasks as a temporary member of the team.
+
+### 3. What are the benefits of doing an externship?
+The main benefits are gaining career clarity by "trying on" a job, networking with professionals in the field, and building your resume by demonstrating proactive career development.
+
+### 4. How can I find an externship?
+The best place to start is your university's career services office, as many have formal programs. You can also create your own opportunity through strategic networking and [cold outreach](/how-to-cold-contact-and-get-a-response) to professionals in fields that interest you.
+
+### 5. Are externships only for students?
+While most common for university students, the principle of an externship—short-term job shadowing—can be used by anyone looking to make a career change.

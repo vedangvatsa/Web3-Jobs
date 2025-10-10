@@ -44,3 +44,22 @@ This allows the government to maintain central control while leveraging the exis
 | **Issuance**      | Controlled by the central bank's monetary policy.           | Controlled by a predictable, programmatic algorithm.     |
 
 The e-CNY represents a future where money is more efficient but also more controlled. It offers a powerful and clear counterpoint to the Web3 vision of a decentralized, open, and permissionless financial system. As CBDCs become more common around the world, the tension between these two models will be one of the most important narratives shaping the future of finance.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Is the Digital Yuan a cryptocurrency?
+No. While it is a digital currency, it is not a cryptocurrency. The e-CNY is centralized and controlled by China's central bank. Cryptocurrencies like [Bitcoin](/what-is-a-blockchain) are decentralized and not controlled by any single entity.
+
+### 2. Does the e-CNY use blockchain technology?
+No, the e-CNY does not run on a public blockchain. It uses a centralized digital ledger technology controlled by the People's Bank of China.
+
+### 3. What is a CBDC?
+A CBDC, or [Central Bank Digital Currency](/cbdc), is a digital form of a country's official currency. Unlike cryptocurrencies, a CBDC is issued and backed by the central bank, just like physical cash.
+
+### 4. What is "programmable money"?
+Programmable money means that rules can be attached to the currency itself. With the e-CNY, the government could issue funds that have an expiration date or can only be used for specific purchases, a feature made possible by centrally controlled [smart contracts](/what-are-smart-contracts).
+
+### 5. How is the e-CNY different from using Alipay or WeChat Pay?
+While Alipay and WeChat Pay are digital payment platforms, they are private companies that move money held in the traditional banking system. The e-CNY is the money itself, a direct liability of the central bank, which aims to reduce reliance on these private tech giants.

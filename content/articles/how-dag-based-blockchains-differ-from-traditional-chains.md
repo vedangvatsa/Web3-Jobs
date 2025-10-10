@@ -59,3 +59,22 @@ While promising, the DAG model also comes with its own significant challenges.
 DAGs are not a "blockchain killer." They are an alternative data structure that makes a different set of trade-offs. They often prioritize raw throughput and low fees at the cost of smart contract complexity and, in some cases, decentralization.
 
 While the blockchain structure remains the dominant model for decentralized applications today, DAGs represent a fascinating and important area of research. They offer a different approach to solving the scalability trilemma and are particularly well-suited for use cases like micropayments and IoT data transfer. As the Web3 ecosystem continues to evolve, it's likely that we will see a multichain future where both blockchains and DAGs coexist, each serving the applications for which they are best designed.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is a DAG?
+A DAG, or Directed Acyclic Graph, is a data structure where transactions are linked together in a graph-like web, rather than a linear chain. This allows for parallel transaction processing, which can lead to higher scalability compared to a traditional [blockchain](/what-is-a-blockchain).
+
+### 2. How is a DAG different from a blockchain?
+A blockchain is a linear chain of blocks, where each block contains multiple transactions and is added sequentially. A DAG is a graph of individual transactions, where each new transaction confirms one or more previous ones. There are no "blocks" in the same sense.
+
+### 3. What are the advantages of a DAG-based system?
+The main potential advantages are **higher scalability** (more transactions per second) due to parallel processing, and often **low or zero transaction fees**, making them suitable for micropayments.
+
+### 4. What are the disadvantages of a DAG?
+The biggest challenge for DAGs is **transaction ordering**. The lack of a clear, linear order makes it much more difficult to implement complex [smart contracts](/what-are-smart-contracts) compared to an EVM-based blockchain. Many DAGs have also historically relied on centralized components to ensure finality.
+
+### 5. Are there any major projects that use DAGs?
+Yes, notable projects include **Hedera (HBAR)**, which uses a hashgraph consensus model, **Fantom (FTM)**, which uses a DAG for its consensus layer, and **IOTA (MIOTA)**, which is designed for the Internet of Things.

@@ -38,3 +38,22 @@ Your reputation as an auditor is built on public, verifiable work.
 -   **Write in Public:** Start a blog or Twitter account where you publish your analysis of vulnerabilities you've found or your thoughts on new security patterns.
 
 Breaking into smart contract auditing is a difficult journey that requires immense dedication. However, for those with a passion for security and a meticulous eye
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a smart contract auditor do?
+A smart contract auditor is a security researcher who specializes in finding vulnerabilities in blockchain code. They perform deep code reviews and use specialized tools to identify potential bugs and economic exploits before a protocol is deployed. For a full overview, see our [Smart Contract Auditor Career Guide](/smart-contract-auditor-career).
+
+### 2. Do I need to be a developer to become an auditor?
+Yes, absolutely. You cannot effectively find flaws in a system you don't deeply understand. A strong foundation as a [smart contract developer](/how-to-become-a-web3-smart-contract-developer) is a prerequisite for a career in auditing.
+
+### 3. What is the most important skill for an auditor?
+An **adversarial mindset**. A developer's job is to make things work; an auditor's job is to think of all the creative ways to break them. This involves constantly looking for edge cases and potential attack vectors.
+
+### 4. How can I get experience in security auditing?
+The best way to get real-world experience is to participate in competitive auditing contests on platforms like **Code4rena (C4)**. Finding a valid, high-severity bug in a public contest is the ultimate "proof of work" and the best way to get noticed by top security firms.
+
+### 5. What are some common smart contract vulnerabilities I should learn?
+You need to master the classics. This includes **[reentrancy attacks](/understanding-reentrancy-attacks-in-web3-smart-contracts)**, integer overflows/underflows, access control issues, and oracle manipulation. Our guide to [common vulnerabilities](/common-smart-contract-vulnerabilities-explained) is a great place to start.

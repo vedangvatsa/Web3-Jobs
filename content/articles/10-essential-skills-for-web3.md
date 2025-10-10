@@ -71,3 +71,22 @@ Web3 has its own unique culture, language, and set of values. Understanding this
 -   **How to get it:** There are no shortcuts. You have to spend time in the ecosystem. Follow the conversations on Twitter, join Discords, and participate in the culture.
 
 By focusing on developing this blend of technical and soft skills, you can position yourself as a top candidate and build a successful, long-term career in the exciting and fast-growing world of Web3.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the most important non-technical skill for a Web3 career?
+Excellent asynchronous written communication is arguably the most critical non-technical skill. Since most Web3 teams are [remote and globally distributed](/remote-work-in-web3), the ability to communicate complex ideas clearly in writing is essential for collaboration.
+
+### 2. Do I need to be a developer to get a job in Web3?
+No. While developers are in high demand, there is a massive need for non-technical roles. Our guide on the [best Web3 jobs for non-developers](/best-web3-jobs-for-non-developers) covers roles like community management, marketing, and product management, which are all critical to a project's success.
+
+### 3. How can I learn about Web3 security if I'm not an auditor?
+Start by studying past hacks and exploits. Reading post-mortems and understanding common vulnerabilities like reentrancy and phishing will give you a strong security mindset. It's also crucial to learn how to [secure your own crypto assets](/securing-your-crypto) with hardware wallets and best practices.
+
+### 4. What is "cultural fluency" in Web3?
+Cultural fluency means understanding the unique language, memes, and values of the crypto community. It's knowing what terms like ["gm"](/what-is-gm-in-web3), ["WAGMI"](/what-is-wagmi-and-ngmi), and "FUD" mean, and understanding the core principles of decentralization and self-sovereignty.
+
+### 5. Where can I find a roadmap for learning the technical skills?
+Our [Blockchain Developer Roadmap](/blockchain-developer-roadmap) provides a comprehensive, step-by-step guide for aspiring engineers, covering everything from foundational concepts to advanced project-based learning.

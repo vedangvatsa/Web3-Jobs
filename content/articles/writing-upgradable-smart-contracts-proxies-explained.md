@@ -1,6 +1,6 @@
 ---
 title: "Writing Upgradable Smart Contracts: Proxies Explained"
-image: "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&lib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "software update upgrade"
 description: "Smart contracts are immutable, so how do you fix bugs or add new features? This guide explains the Transparent Proxy Pattern, the industry standard for making your contracts upgradable."
 category: "Technology Deep Dives"
@@ -76,3 +76,22 @@ You should never try to write your own proxy contracts from scratch. It is a com
 *   **Centralization:** The ability to upgrade a contract introduces a new trust assumption. Users must trust that the owner of the proxy (usually the development team or a multisig) will not upgrade the contract to a malicious version. For mature protocols, it is common to transfer ownership of the proxy to a community-governed DAO or to a timelock contract to decentralize this power.
 
 Upgradability is a powerful tool that allows projects to evolve and adapt over time. By using standard, battle-tested solutions like the OpenZeppelin Upgrades Plugins, developers can build robust dApps that are both secure and future-proof.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Why do smart contracts need to be upgradable?
+[Smart contracts](/what-are-smart-contracts) are immutable, meaning their code cannot be changed after deployment. Upgradability patterns are necessary to fix bugs, add new features, and respond to changing market conditions without requiring a costly and complex data migration to a completely new contract.
+
+### 2. How does the proxy pattern work?
+The proxy pattern separates a contract's state from its logic. Users interact with a **Proxy Contract**, which holds all the data but delegates all function calls to a separate **Implementation Contract** using `delegatecall`. To upgrade, you simply deploy a new implementation contract and tell the proxy to point to the new address.
+
+### 3. What is `delegatecall`?
+`delegatecall` is a special EVM opcode. It allows one contract (the proxy) to execute the code of another contract (the implementation) but in the context of its own state. This means the implementation contract can modify the proxy's storage.
+
+### 4. What are the risks of upgradable contracts?
+The main risk is **centralization**. The owner of the proxy has the power to change the contract's logic at any time, which introduces a trust assumption. To mitigate this, ownership is often transferred to a community-governed [DAO](/what-is-a-dao) or a timelock. Another risk is **storage collisions**, where changes to state variables in a new implementation corrupt the contract's storage.
+
+### 5. Should I write my own proxy contract?
+No, never. You should always use a battle-tested, audited library like **OpenZeppelin Upgrades Plugins**. These tools handle the complexity of deploying and managing proxies safely and are the industry standard.

@@ -38,3 +38,22 @@ A more radical approach, where the AI system is governed by a [Decentralized Aut
 The most likely future for AI governance is a hybrid model that combines elements of all three. A core development team might be overseen by an internal ethics board, which is in turn subject to audits from external regulators, while the day-to-day operational parameters of the AI are fine-tuned by a community-led DAO.
 
 Ultimately, building accountable AI is not just a technical problem; it's a social and political one. It requires a multi-stakeholder approach to ensure that as these systems become more powerful, they remain aligned with human values and serve the broader public good.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the "accountability gap" in AI?
+The accountability gap refers to the difficulty in assigning responsibility when an autonomous AI system causes harm. Traditional legal frameworks are designed for human actors, making it unclear who is at fault: the developer, the owner, or the AI itself.
+
+### 2. How can a DAO help with AI governance?
+A [Decentralized Autonomous Organization (DAO)](/what-is-a-dao) can provide a framework for community-led governance of an AI. Token holders could vote on the AI's rules, parameters, and ethical guidelines, creating a more democratic and transparent system of oversight than a traditional corporate board.
+
+### 3. What are the main challenges in governing AI?
+The main challenges include the **Value Alignment Problem** (ensuring AI goals align with human values), **Unpredictable Behavior** (AI developing unintended behaviors), and the **"Black Box" Problem** (not understanding how an AI makes its decisions).
+
+### 4. What is the difference between AI automation and autonomy?
+Automation involves programming a system to perform a specific, repetitive task. [Autonomy, or agency](/ai-driven-agency-from-automation-to-autonomy), is about giving a system a high-level goal and allowing it to figure out the steps to achieve it on its own, making its own decisions along the way.
+
+### 5. How does Web3 relate to AI accountability?
+Web3 technologies, like blockchain, can create a transparent and immutable audit trail for an AI's actions and training data. This can help improve the traceability and [responsibility of AI systems](/building-responsible-ai-systems), making it easier to understand their decision-making process.

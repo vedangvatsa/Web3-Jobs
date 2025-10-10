@@ -21,3 +21,22 @@ DeSci leverages the tools of Web3—from [DAOs](/what-is-a-dao) to [NFTs](/what-
 4.  **Incentivizing Collaboration:** By using token-based systems, DeSci can create new incentives for peer review, data sharing, and collaboration between researchers across different institutions.
 
 DeSci is a young but rapidly growing field. It represents a fundamental rethinking of how we conduct and fund scientific research, with the potential to break down traditional barriers and accelerate the pace of human discovery. It's a key part of the broader "[Web3 for Good](/web3-for-good-careers-in-social-impact-daos)" movement.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is DeSci?
+DeSci, short for Decentralized Science, is a movement that uses Web3 tools to create a more open, transparent, and collaborative system for scientific research. It aims to solve problems like funding bottlenecks and restricted access to scientific knowledge.
+
+### 2. How does DeSci democratize research funding?
+DeSci uses **[DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao)** to allow a global community to collectively fund and govern scientific research. This is a shift away from traditional, centralized grant-making institutions.
+
+### 3. How can blockchain technology improve scientific research?
+By storing research data, methodologies, and results on a **[blockchain](/what-is-a-blockchain)**, DeSci creates a transparent, immutable, and verifiable record. This helps to ensure the reproducibility and integrity of scientific findings.
+
+### 4. How do NFTs fit into DeSci?
+[NFTs](/what-are-nfts) can be used to represent ownership of intellectual property (IP) generated from research. This can create new markets for funding and commercializing scientific discoveries.
+
+### 5. Is DeSci part of a larger trend in Web3?
+Yes. DeSci is a key component of the broader **"ReFi" (Regenerative Finance)** and **"[Web3 for Good](/web3-for-good-careers-in-social-impact-daos)"** movements, which focus on using blockchain technology to solve real-world social and environmental problems.

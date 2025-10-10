@@ -55,3 +55,22 @@ The jobs of the metaverse are being created today. For those looking to build a 
 -   **Build a Portfolio:** Create your own virtual assets. Design a piece of digital clothing, build a small virtual environment, or create your own custom avatar. Your portfolio is your proof of skill.
 
 The future of work will not be confined to the physical world. The metaverse is opening up a new frontier of economic activity and professional opportunity. For those who are willing to learn the new skills and embrace this new paradigm, the chance to build a career in these emerging virtual worlds is immense.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the metaverse?
+The metaverse is a vision for a persistent, shared, 3D virtual space where users can interact with each other and with digital objects. It's often described as the next evolution of the internet, blending our digital and physical lives. You can learn more in our [guide to navigating the metaverse](/navigating-the-metaverse).
+
+### 2. How does the metaverse relate to Web3?
+Web3 provides the foundational technology for an "open metaverse." Using [NFTs](/what-are-nfts), users can truly own their digital assets (like virtual land or avatars). Using [crypto](/what-is-defi), these virtual worlds can have their own fully functioning economies.
+
+### 3. What are the key jobs in the metaverse?
+Emerging roles include **Metaverse Architect** (who designs the virtual worlds), **Digital Fashion Designer** (who creates clothing for avatars), **Virtual Event Manager**, and **Metaverse Economist** (who designs the in-game economies).
+
+### 4. What skills do I need for a career in the metaverse?
+The skills are diverse. Technical roles require expertise in 3D modeling and game engines like Unreal Engine. Creative roles require design and artistic talent. Economic roles require a deep understanding of [tokenomics](/understanding-tokenomics) and game theory.
+
+### 5. How is working in the metaverse different from a remote job?
+A remote job might involve video calls, but working in the metaverse involves **immersive co-presence**—interacting with colleagues as avatars in a shared virtual space. It allows for more natural collaboration and interaction with 3D data. This is a key part of the [future of work in Web3](/future-of-work-in-web3).

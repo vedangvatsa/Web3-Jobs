@@ -44,3 +44,22 @@ The path to a crypto VC job is rarely straightforward. It's about demonstrating 
 4.  **Network Strategically:** Build relationships with analysts and associates at funds you admire. Don't just ask for a job; ask for feedback on your analysis.
 
 A career as a Web3 Investment Analyst is a demanding but incredibly rewarding path. It's a chance to be at the center of the action, supporting the founders who are building the foundational infrastructure of the next web.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Web3 VC Analyst do?
+A Web3 VC Analyst sources and performs due diligence on early-stage crypto startups and protocols. This involves analyzing a project's technology, team, tokenomics, and market potential, and then writing a detailed investment memo to present to the fund's partners. For more details, see our guide on the [Web3 investment analyst career path](/navigating-the-web3-investment-analyst-career-path).
+
+### 2. What skills are most important for this role?
+The key skills are **insatiable intellectual curiosity**, **strong analytical ability**, and **excellent written communication**. You also need to be technically literate and a skilled networker.
+
+### 3. How can I get a job as a crypto VC with no direct experience?
+Build a public "proof of work" portfolio. This is the most effective strategy. Start a blog or Twitter account where you publish high-quality research and investment theses on projects. This demonstrates your analytical skills and passion, which is more valuable than a traditional resume.
+
+### 4. What is "on-chain data analysis"?
+This involves using tools like Dune Analytics to query public blockchain data to analyze a project's user activity, growth, and financial health. This is a critical skill for a Web3 analyst, as explained in our [on-chain analyst career guide](/on-chain-analyst-job).
+
+### 5. Why is tokenomics important for a VC analyst?
+A project's **[tokenomics](/understanding-tokenomics)**—its economic model—is crucial for its long-term success. An analyst must be able to evaluate if a token has real utility, a fair distribution, and a sustainable economic design.

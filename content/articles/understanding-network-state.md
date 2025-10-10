@@ -38,3 +38,22 @@ The concept of a single, shared, and trusted state machine that is not controlle
 -   **Trustlessness:** It allows users to interact with each other and with applications without needing to trust a central intermediary, because the state of the system is guaranteed by the cryptographic and economic security of the entire network.
 
 The network state is the ultimate source of truth in a decentralized ecosystem. It's a global, shared hard drive, secured by thousands of computers, that anyone can read from and that anyone can write to, provided they follow the rules of the protocol.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the "network state" in a blockchain?
+The network state is a complete snapshot of the entire blockchain system at a specific moment. For [Ethereum](/what-is-ethereum), this includes all account balances, smart contract code, and the data stored within every smart contract. Think of it as the blockchain's global hard drive.
+
+### 2. How does the network state change?
+The state is changed by **transactions**. When a user sends a transaction and it's included in a new block, every node in the network executes it, resulting in a "state transition" that updates the balances or contract data.
+
+### 3. Why is a shared network state important?
+A shared state is the key to **interoperability** and **composability** in Web3. Because all applications live on the same shared state machine, they can interact with each other seamlessly and trustlessly. This is what allows different [DeFi](/what-is-defi) protocols to be combined like "money legos."
+
+### 4. Who controls the network state?
+No single entity controls the state. It is maintained and secured by a decentralized network of nodes (computers) that all come to an agreement on the state's validity through a **[consensus mechanism](/understanding-web3-consensus-mechanism-architects)**.
+
+### 5. What is the difference between a blockchain and a traditional database?
+A traditional database is centralized and controlled by a single administrator who can alter or delete data. A blockchain is a decentralized database where the network state is immutable—once data is recorded, it cannot be changed. This creates a transparent and trustworthy record. For more, see our full guide on **[what a blockchain is](/what-is-a-blockchain)**.

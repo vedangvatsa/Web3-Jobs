@@ -94,3 +94,22 @@ The Web3 industry offers a vast landscape of opportunities. The key to starting 
 No matter the path you choose, the journey starts with immersion. [Dive down the rabbit hole](/how-to-start-a-web3-career), become a user, and start contributing to the communities that excite you. In Web3, your passion and your "proof of work" are your most valuable credentials.
 
 Ready to explore specific roles? Head over to our [Web3 Job Board](/jobs) to see thousands of openings across all these categories and more.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What are the main career categories in Web3?
+Web3 careers can be broadly split into **technical roles** (like Smart Contract Developer, Protocol Engineer) and **non-technical roles** (like Community Manager, Marketing Manager, Product Manager). Both are essential for a project's success.
+
+### 2. Do I need to be a developer to work in Web3?
+No, not at all. There is a huge demand for non-technical professionals. Our guide on the **[best non-technical jobs in Web3](/best-web3-jobs-for-non-developers)** covers roles in marketing, community, design, and operations.
+
+### 3. What is a "Smart Contract Developer"?
+A Smart Contract Developer is an engineer who writes the on-chain code for decentralized applications using languages like **[Solidity](/solidity-for-beginners)**. It is one of the **[most in-demand Web3 careers](/most-in-demand-web3-careers)**.
+
+### 4. What does a Web3 Community Manager do?
+A **[Web3 Community Manager](/web3-community-manager-career)** is the heart of a project. They manage the Discord and Telegram communities, foster a positive culture, and act as the bridge between the users and the development team.
+
+### 5. How can I choose the right career path for me?
+The best way is to understand your own skills and interests. If you love technology and building, a technical path is right for you. If you are a great communicator and strategist, a non-technical role might be a better fit. Our **[Web3 Archetype Assessment](/web3-career-quiz)** can help you find a path that matches your personality.

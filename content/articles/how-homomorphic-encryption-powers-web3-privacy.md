@@ -59,3 +59,22 @@ However, significant breakthroughs in both hardware (with specialized FHE accele
 ### Conclusion: The Future of On-Chain Privacy
 
 Homomorphic Encryption is one of the most exciting and potentially transformative technologies in the Web3 space. It offers a path to a future where we can have the security and decentralization of a public blockchain without sacrificing the privacy of our sensitive data. While the challenges are still significant, the ability to compute on encrypted data will unlock a new generation of dApps, from private DeFi and confidential voting systems to secure medical data analysis. As the technology matures, FHE will become an essential tool in the Web3 developer's toolkit for building a truly private and user-centric internet.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Homomorphic Encryption (HE)?
+Homomorphic Encryption is a form of encryption that allows for computations to be performed directly on encrypted data. The result, when decrypted, is the same as if the computation had been performed on the unencrypted data.
+
+### 2. How is HE different from Zero-Knowledge Proofs (ZKPs)?
+[ZKPs](/zero-knowledge-proofs-explained) allow you to *prove* a statement about private data is true without revealing the data. HE allows you to *compute* on the private data itself. They are both key technologies for [Web3 privacy engineering](/building-career-paths-for-web3-privacy-engineers).
+
+### 3. What is Fully Homomorphic Encryption (FHE)?
+FHE is the "holy grail" of this technology. It allows for an unlimited number of any type of computation (additions and multiplications) to be performed on encrypted data, enabling any program to be run confidentially.
+
+### 4. What are the main use cases for HE in Web3?
+The primary use case is **confidential smart contracts**. This could enable private voting in DAOs, confidential DeFi transactions that are resistant to MEV, and other privacy-preserving applications.
+
+### 5. What is the biggest challenge for Homomorphic Encryption?
+The biggest challenge is **performance**. Computations on encrypted data are currently much slower and more resource-intensive than on plaintext data. However, ongoing research in both hardware and software is rapidly improving its efficiency.

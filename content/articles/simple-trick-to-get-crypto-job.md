@@ -98,3 +98,22 @@ This "simple trick" requires effort, initiative, and a genuine desire to add val
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the "simple trick" to getting a crypto job?
+The trick is to **start doing the job before you get it**. Find a project you admire, identify a small problem or gap, and create a public solution for it. This "permissionless contribution" is the most powerful way to demonstrate your skills and passion.
+
+### 2. How does this strategy work?
+It works by creating "proof of work." Instead of just telling a recruiter you have a skill, you are showing them. It proves your initiative, competence, and genuine interest in the project, which de-risks you as a candidate. This is a core part of the advice from [Web3 recruiters](/web3-recruiter-tips).
+
+### 3. I'm not a developer. How can I use this strategy?
+This strategy works for any role. If you're a marketer, write a marketing plan for the project. If you're a designer, redesign a clunky user flow. If you're a community manager, create a helpful FAQ document for their Discord.
+
+### 4. Where do I find problems to solve?
+Lurk in the project's Discord and governance forums. What are users constantly complaining about or asking questions about? Read their documentation—is it confusing? Use their product—where do you get stuck? These are all sources of opportunity.
+
+### 5. After I create my solution, what's next?
+Share your work publicly in the project's community channels (Discord, Twitter) and tag the team. Frame it as a helpful contribution. After you get a response, you can make a more direct outreach about potential roles. This method is much more effective than a [cold contact](/how-to-cold-contact-and-get-a-response).

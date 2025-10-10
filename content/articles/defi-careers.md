@@ -119,4 +119,22 @@ Breaking into DeFi can be challenging due to the steep learning curve. The path 
     -   **For PMs:** Write a detailed product critique of a popular DeFi protocol, identifying UX friction points and proposing solutions.
 
 A career in DeFi is an opportunity to work at the absolute cutting edge of finance and technology. You'll be challenged daily, you'll learn at an incredible pace, and you'll be contributing to a new financial infrastructure that has the potential to be more open and equitable than the system it seeks to replace.
-    
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Decentralized Finance (DeFi)?
+DeFi is a new financial system built on blockchain technology that allows for peer-to-peer transactions without traditional intermediaries like banks. For a full breakdown, read our guide, "[What is DeFi?](/what-is-defi)".
+
+### 2. What are the top job roles in DeFi?
+The most in-demand roles are **Smart Contract Engineer**, **Quantitative Analyst (Quant)**, **Protocol Researcher**, **Security Auditor**, and **Product Manager**. These roles require a deep understanding of both finance and technology.
+
+### 3. What skills do I need for a career in DeFi?
+You need a "T-shaped" skillset: a broad knowledge of the DeFi ecosystem (AMMs, lending, etc.) and deep expertise in a specific area like Solidity development, financial modeling, or security.
+
+### 4. How can I get a job in DeFi with no experience?
+The best way is to immerse yourself in the ecosystem. Become a power user of DeFi protocols to understand them firsthand. Then, build a public portfolio of "proof of work"—this could be a personal coding project, a data analysis dashboard, or an in-depth research article. Our guide on [getting a DeFi job with no experience](/how-to-get-a-job-in-defi-with-no-experience) offers a complete roadmap.
+
+### 5. What is a DeFi "Quant"?
+A DeFi Quantitative Analyst, or "quant," is responsible for modeling the economic risks and incentives of a protocol. It's a highly analytical role that combines finance, data science, and game theory. We explore this in detail in our "[A Day in the Life of a DeFi Quant](/a-day-in-the-life-of-a-defi-quant)" article.

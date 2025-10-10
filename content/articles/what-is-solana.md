@@ -33,3 +33,22 @@ Solana's focus on performance has led to certain trade-offs and challenges:
 - **Uptime:** The network has experienced several outages in its history, where the chain has halted due to bugs or network stress. While reliability has improved significantly, this remains a concern for some users.
 
 Solana represents a different approach to solving the blockchain trilemma. By prioritizing scalability, it has created a platform that enables a new class of high-performance dApps. While it faces ongoing challenges, its vibrant developer ecosystem and commitment to speed make it one of the most important and closely-watched projects in the Web3 space.
+
+---
+
+## Frequently Asked Questions
+
+### 1. Is Solana an L1 or L2?
+Solana is a **[Layer 1 (L1) blockchain](/what-is-a-layer-1-blockchain)**. This means it is a foundational blockchain with its own consensus mechanism and security, not a Layer 2 solution built on top of another chain like Ethereum. For an overview of how it compares to other L1s, see our guide on the **[Solana blockchain](/understanding-the-solana-blockchain)**.
+
+### 2. What makes Solana different from Ethereum?
+The main difference is its architectural approach to the **[blockchain trilemma](/is-web3-dead)**. [Ethereum](/what-is-ethereum) prioritizes decentralization and security, using L2s for scalability. Solana is designed for high speed and low cost from the ground up on its L1, using innovations like Proof-of-History.
+
+### 3. What is Proof-of-History (PoH)?
+PoH is not a consensus mechanism but a cryptographic clock. It creates a verifiable, timestamped order of transactions before they are processed by the network's Proof-of-Stake consensus. This allows for parallel processing and is a key reason for Solana's high speed.
+
+### 4. What language is used to develop on Solana?
+The primary language for Solana smart contract (or "program") development is **Rust**. This is a powerful but more difficult language than Solidity, which has been a barrier to entry for some developers. Our guide on **[building with Solana and Rust](/building-your-first-dapp-on-solana-with-rust)** provides an introduction.
+
+### 5. Why has Solana's developer activity declined?
+Solana's **[developer activity has seen a decline](/solanas-developer-activity-decline)** due to several factors, including the collapse of its biggest supporter (FTX), past network stability issues, and strong competition from Ethereum's EVM-compatible Layer 2s, which offer an easier development environment for most Web3 builders.

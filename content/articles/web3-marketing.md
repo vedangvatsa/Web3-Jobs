@@ -1,6 +1,6 @@
 ---
 title: 'Web3 Marketing: A Guide to Growth in a Decentralized World'
-image: 'https://images.unsplash.com/photo-1560472354-b33ff0c44a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NDg4MzkwNnww&ixlib=rb-4.1.0&q=80&w=1080'
+image: 'https://images.unsplash.com/photo-1560472354-b33ff0c44a43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NDg4MzkwNnww&lib=rb-4.1.0&q=80&w=1080'
 description: 'Learn how marketing works in the Web3 space. This guide covers the key strategies, from community building and content marketing to "meme-onomics" and building a brand in a trustless environment.'
 category: 'Industry Insights'
 ---
@@ -99,3 +99,22 @@ A successful Web3 marketer is a unique hybrid of different roles.
 -   **Data Analyst:** You should be comfortable with on-chain analytics tools and be able to make data-driven decisions.
 
 Web3 marketing is a challenging but incredibly rewarding field. It's an opportunity to throw out the old rulebook and experiment with new models of brand building and community growth. By focusing on providing genuine value, fostering a strong sense of community, and communicating with authenticity, you can help build the next generation of iconic, decentralized brands.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How is Web3 marketing different from Web2 marketing?
+The biggest difference is the shift from a product-first to a **community-first** approach. Web3 marketing focuses on building an engaged community of owners and advocates, rather than just acquiring customers through paid ads. Authenticity and education are far more important than traditional advertising.
+
+### 2. What are the most important marketing channels in Web3?
+The most important channels are community-native platforms. **Discord** serves as the project's town hall, **Twitter** is the public square for news and culture, and long-form content platforms like **Mirror.xyz** are used for deep-dive educational posts.
+
+### 3. What skills do I need for a career in Web3 marketing?
+You need a T-shaped skillset: deep expertise in a marketing discipline (like content or community) combined with a broad understanding of crypto culture, technology, and **[tokenomics](/understanding-tokenomics)**. Excellent writing skills are non-negotiable. Our guide to **[crypto marketing jobs](/crypto-marketing-jobs)** provides a full overview.
+
+### 4. How do you measure success in Web3 marketing?
+Instead of just looking at clicks and conversions, Web3 marketers focus on community health and on-chain metrics. Key KPIs include **Discord active members**, **governance participation rate**, and **daily active on-chain users**. This often requires skills in **[on-chain data analysis](/on-chain-analyst-job)**.
+
+### 5. What is a Web3 "go-to-market playbook"?
+A **[Web3 GTM playbook](/web3-go-to-market-playbook)** is a strategy for launching a project. It typically involves building a community before the product launch, rewarding early believers (often with an airdrop), and then using token incentives to drive post-launch growth and network effects.

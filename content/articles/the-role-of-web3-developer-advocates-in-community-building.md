@@ -48,3 +48,22 @@ The path to DevRel often starts with being an active and helpful member of a dev
 4.  **Be an Exemplary Community Member:** Hang out in the project's Discord and help other developers who are struggling. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) and helpfulness will get you noticed by the core team.
 
 The Developer Advocate role is a high-impact position that sits at the very center of a protocol's growth strategy. For developers who are passionate about teaching, communication, and community, it offers a dynamic and rewarding career at the heart of the Web3 ecosystem.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is a Web3 Developer Advocate or DevRel Engineer?
+A DevRel is a hybrid role that blends engineering, marketing, and community management. Their primary mission is to support and grow the ecosystem of third-party developers building on a protocol. This is a key role among the [most in-demand Web3 careers](/most-in-demand-web3-careers).
+
+### 2. What are the main responsibilities of a DevRel?
+A DevRel's key responsibilities include creating educational content (documentation, tutorials), providing technical support to developers in the community, and acting as a feedback loop between the developer community and the core product team.
+
+### 3. What skills do I need for a DevRel career?
+You need a rare combination of **strong technical skills** (you must be a competent developer) and **exceptional communication skills**. A passion for teaching and a community-minded attitude are also essential.
+
+### 4. How is this role different from a traditional marketing role?
+A DevRel is a marketer *for developers*. Their "customers" are other engineers. Their content is technical, and their goal is to improve the Developer Experience (DX) and make it easier for others to build, rather than driving consumer sales.
+
+### 5. How can I get a job as a Web3 DevRel?
+The best way is to become an active and helpful member of a developer community. Start by building a project on a protocol you admire. Then, create content (like a tutorial or blog post) that fills a gap in their existing documentation. Your public contributions are the best way to get noticed by the core team. For a full overview, see our [guide to the Web3 DevRel role](/what-is-a-web3-devrel-engineer).

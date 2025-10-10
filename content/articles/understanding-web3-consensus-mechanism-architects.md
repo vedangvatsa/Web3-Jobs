@@ -25,3 +25,22 @@ The professionals who work on this problem are **Consensus Mechanism Architects*
 -   **Academic Research:** Most professionals in this role have a background in academic research, often with a Master's degree or PhD in a relevant field.
 
 The role of a Consensus Mechanism Architect is one of the most prestigious and challenging in all of Web3. These are the individuals who are designing the foundational rules for the decentralized economies of the future.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is a consensus mechanism?
+A consensus mechanism is the set of rules a **[blockchain](/what-is-a-blockchain)** uses to achieve agreement among its distributed nodes about the correct state of the ledger. The two most famous examples are Proof-of-Work (used by Bitcoin) and Proof-of-Stake (used by Ethereum).
+
+### 2. What does a Consensus Mechanism Architect do?
+This is a highly specialized **[protocol engineer](/building-a-career-as-a-web3-blockchain-infrastructure-engineer)** who designs and analyzes the consensus algorithms that secure a blockchain. Their work involves a deep understanding of distributed systems, game theory, and cryptography.
+
+### 3. What skills are needed for this role?
+This is one of the most demanding roles in Web3. It typically requires a PhD or Master's degree in Computer Science or a related field, with a focus on distributed systems and cryptography.
+
+### 4. What is the "blockchain trilemma"?
+The **[blockchain trilemma](/is-web3-dead)** is a concept that states it is very difficult for a blockchain to be simultaneously decentralized, secure, and scalable. A consensus architect's job is to navigate these trade-offs when designing a protocol.
+
+### 5. Why is this role important?
+The consensus mechanism is the heart of a blockchain's security and performance. A flaw in its design could lead to catastrophic failure. These architects are responsible for designing the systems that secure billions of dollars in value.

@@ -1,6 +1,6 @@
 ---
 title: "Web3 Data Analyst: The On-Chain Detective"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1NTE2MTc1N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1NTE2MTc1N3ww&lib=rb-4.1.0&q=80&w=1080"
 description: "A guide to one of the hottest jobs in crypto. Learn how Web3 data analysts use on-chain data to drive strategy and what skills you need to become an on-chain detective."
 category: "Career Guides"
 ---
@@ -51,3 +51,22 @@ This role is incredibly accessible, even for those without a formal data science
 5.  **Share Your Work:** Tweet your dashboards and tag the projects you're analyzing. Write a blog post or a Twitter thread explaining the key insights from your analysis. The best analysts build a public reputation for their high-quality work, and projects often hire directly from the community of "Dune wizards."
 
 The Web3 Data Analyst role is a perfect fit for anyone who loves solving puzzles, uncovering hidden patterns, and telling stories with data. It's a career that puts you at the center of the action, providing the critical intelligence that helps projects navigate the complex and exciting world of crypto.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Web3 Data Analyst do?
+A Web3 Data Analyst queries public blockchain data to uncover insights about user behavior, protocol health, and market trends. They are "on-chain detectives" who help projects make data-driven decisions. For a full overview, see our **[On-Chain Analyst Job Guide](/on-chain-analyst-job)**.
+
+### 2. What is the most important skill for a Web3 Data Analyst?
+**SQL proficiency** is the single most important technical skill. The job revolves around writing SQL queries on platforms like Dune Analytics to analyze decoded blockchain data.
+
+### 3. What is Dune Analytics?
+Dune is a community-driven analytics platform that allows anyone to write SQL queries against public blockchain data and build shareable dashboards. It is the most important tool in the on-chain analyst's toolkit and the best place to build a portfolio.
+
+### 4. Do I need a data science degree to get this job?
+No. While a quantitative background is helpful, many of the best on-chain analysts are self-taught. A strong public portfolio of high-quality Dune dashboards is far more valuable than a degree. This makes it one of the more accessible **[non-developer jobs in Web3](/top-web3-job-opportunities-for-non-developers)**.
+
+### 5. How do I get started as an on-chain analyst?
+The path is very clear: 1. Learn SQL. 2. Learn blockchain fundamentals. 3. Master Dune Analytics by studying existing dashboards and building your own. 4. Share your analysis publicly on Twitter to build a reputation.

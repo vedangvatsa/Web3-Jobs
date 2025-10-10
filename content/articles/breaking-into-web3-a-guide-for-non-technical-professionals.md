@@ -50,3 +50,22 @@ The key is to combine your existing expertise with a deep, genuine understanding
     *   *Try:* "Cultivated an online community and executed content strategies to drive user engagement and growth."
 
 You don't need to be a coder to be a builder in Web3. The industry needs passionate, skilled people from all backgrounds to help build the future of the internet. By combining your existing skills with a deep dive into the culture and technology of the space, you can
+
+---
+
+## Frequently Asked Questions
+
+### 1. What are the best non-technical jobs in Web3?
+Some of the [best non-developer roles](/best-web3-jobs-for-non-developers) include Community Manager, Marketing Manager, Product Manager, UX/UI Designer, and Operations. These roles are essential for a project's growth and user adoption.
+
+### 2. How do I get experience if I've never worked in crypto?
+Build a "proof of work" portfolio. This means demonstrating your skills in public. You can write insightful blog posts, create data dashboards, or, most effectively, start [contributing to a DAO](/how-to-contribute-to-daos-and-get-paid) in a role that matches your skills (e.g., a marketing or writing guild).
+
+### 3. What is the most important skill for a non-technical Web3 professional?
+Excellent written communication is critical. Because most teams are [remote and asynchronous](/remote-work-in-web3), the ability to communicate complex ideas clearly in writing (on Discord, Notion, etc.) is paramount.
+
+### 4. Do I need to be a crypto expert to get my first job?
+No, but you need to be genuinely curious and have a foundational understanding. The first step is to [immerse yourself in the culture](/how-to-start-a-web3-career): use the products, listen to the podcasts, and follow the conversations on Twitter. Your demonstrated passion is your best asset.
+
+### 5. How should I frame my Web2 experience on a Web3 resume?
+Translate your accomplishments into the language of Web3. Instead of focusing on corporate metrics, highlight your experience in community building, remote collaboration, and driving user-led growth. Our [Web3 resume guide](/how-to-build-a-web3-resume-that-stands-out) has detailed tips on this.

@@ -81,4 +81,21 @@ Breaking into this highly specialized field requires a commitment to interdiscip
 
 The convergence of AI and Web3 is creating one of the most intellectually stimulating and potentially impactful fields in technology. It's a chance to build systems that are not only intelligent but also transparent, verifiable, and owned by their users. For those willing to embrace the complexity and master both domains, a career at this intersection offers the opportunity to be a true pioneer, architecting the foundational systems for a more decentralized and intelligent future.
 
-    
+---
+
+## Frequently Asked Questions
+
+### 1. What are the main hybrid roles in AI and Web3?
+The key emerging roles are the **Decentralized AI Engineer**, who builds the technical systems; the **On-Chain AI Data Scientist**, who analyzes blockchain data with ML; the **AI/Web3 Product Manager**, who defines the strategy; and the **AI Ethics & Governance Lead**, who ensures responsible development.
+
+### 2. How can Web3 improve AI?
+Web3 offers tools to make AI more transparent and fair. By using a [blockchain](/what-is-a-blockchain), we can create verifiable records of an AI's training data, and by using crypto, we can create data marketplaces that compensate users for their information. This is a core theme in the [Web3 and AI convergence](/web3-and-ai).
+
+### 3. How can AI improve Web3?
+AI can make decentralized systems smarter and more efficient. For example, AI can power more sophisticated [oracles](/what-are-oracles), automate DAO governance, and enhance on-chain security by detecting threats in real-time.
+
+### 4. What skills are needed for an AI/Web3 Engineer?
+This role requires a hybrid skillset. You need proficiency in both the AI stack (Python, PyTorch) and the Web3 stack (Solidity, Ethers.js, etc.). Our [AI/Web3 Engineering career guide](/ai-and-web3-engineering-careers) provides a detailed breakdown.
+
+### 5. How can I get started in this field?
+The best approach is to master one field and then learn the other. If you're an AI expert, start learning the basics of smart contracts. If you're a Web3 developer, take an online course in machine learning. Then, build a portfolio project that combines both skills to demonstrate your unique value.

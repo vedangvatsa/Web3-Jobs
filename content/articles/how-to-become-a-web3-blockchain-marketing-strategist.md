@@ -35,3 +35,22 @@ A Web3 Marketing Strategist is responsible for a project's entire go-to-market p
 3.  **Contribute to a DAO:** [Join a marketing-focused guild](/how-to-contribute-to-daos-and-get-paid) in a DAO. This is the best way to get real-world, verifiable experience.
 
 A career as a Web3 Marketing Strategist is an opportunity to write the playbook for the next generation of marketing. It's a field that rewards creativity, community-building instincts, and a deep, authentic passion for the decentralized world.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Web3 Marketing Strategist do?
+A Web3 Marketing Strategist is responsible for a project's overall go-to-market strategy. This includes defining the brand narrative, creating a content strategy, fostering community growth, and analyzing on-chain metrics to drive adoption. It's a key role detailed in our guide to [crypto marketing jobs](/crypto-marketing-jobs).
+
+### 2. How is Web3 marketing different from traditional marketing?
+[Web3 marketing](/web3-marketing) is community-led and focuses on organic growth through content and culture, rather than paid advertising. Authenticity and understanding crypto-native channels like Twitter and Discord are paramount.
+
+### 3. What are the most important skills for a Web3 marketer?
+The most important skills are **exceptional writing**, deep **cultural fluency** (understanding the memes and language of crypto), and strong **community-building** instincts. Technical literacy is also a major plus.
+
+### 4. How do you measure success in Web3 marketing?
+Instead of just clicks and impressions, Web3 marketers track on-chain metrics like **Daily Active Wallets**, **Total Value Locked (TVL)**, and **Governance Participation Rate**. Using tools like [Dune Analytics](/on-chain-analyst-job) is a key skill.
+
+### 5. How can I get a job in Web3 marketing with no experience?
+Build a public "proof of work" portfolio. Start a blog or Twitter account and create content that showcases your understanding of the space. The best way to get practical experience is to [join a marketing guild in a DAO](/how-to-contribute-to-daos-and-get-paid) and start contributing to real projects.

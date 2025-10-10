@@ -1,5 +1,5 @@
 ---
-title: "A Comprehensive Guide to Web3 Career Salary Negotiation"
+title: "How to Negotiate Your Web3 Salary and Compensation Package"
 image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnl8ZW58MHx8fHwxNzU1MDA4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
 description: "A practical guide to negotiating your Web3 job offer. Learn how to evaluate token packages, understand vesting schedules, and maximize your total compensation in a crypto-native world."
 category: "Career Guides"
@@ -15,7 +15,7 @@ Your offer will likely consist of three main parts. Your goal is to understand t
 
 1.  **Base Salary:**
     -   **What it is:** The guaranteed, stable income you receive in fiat currency (e.g., USD, EUR).
-    -   **What to consider:** This is your risk-free component. It should be high enough to cover your living expenses and financial obligations comfortably, regardless of what happens in the volatile crypto markets. Don't be so enamored with the potential of a token package that you accept a base salary you can't live on. You can use our [Web3 Salary Calculator](/salary-calculator) to get a baseline.
+    -   **What to consider:** This is your risk-free component. It should be high enough to cover your living expenses and financial obligations comfortably, regardless of what happens in the volatile crypto markets. Don't be so enamored with the potential of a token package that you accept a base salary you can't live on.
 
 2.  **Equity (Stock Options):**
     -   **What it is:** The right to purchase shares of the company (the legal, centralized entity) at a predetermined price. This is common in traditional startups and is often included in Web3 companies that have raised venture capital.
@@ -53,4 +53,23 @@ Your offer will likely consist of three main parts. Your goal is to understand t
 
 5.  **Think About the Whole Picture:** Remember that compensation is more than just salary and tokens. Consider other benefits like health insurance, remote work stipends, and conference travel budgets.
 
-Negotiating your Web3 job offer is your first opportunity to demonstrate your value and strategic thinking. By doing your homework, asking intelligent questions, and understanding the unique interplay between salary, equity, and tokens, you can secure a compensation package that not only rewards you for your skills but also gives you a meaningful stake in the future of the decentralized internet.
+Negotiating your Web3 job offer is your first opportunity to demonstrate your value and strategic thinking. By doing your homework, asking intelligent questions, and understanding the unique interplay between salary, equity, and tokens, you can secure a compensation package that rewards you for your skills and gives you a meaningful stake in the future of the decentralized internet.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What are the key components of a Web3 compensation package?
+A Web3 offer typically includes three parts: a **base salary** in fiat currency, a **token grant** of the project's native crypto, and sometimes **equity** (stock options) in the company. Our full guide on **[understanding Web3 salaries](/understanding-web3-job-salaries-and-negotiation)** explains this in detail.
+
+### 2. What is a "vesting schedule"?
+A vesting schedule is the timeline over which you earn your token or equity grant. A common schedule is a **4-year vest with a 1-year cliff**. This means you get nothing if you leave before one year, 25% on your one-year anniversary, and the rest incrementally over the next three years. This is a key part of **[token compensation design](/tokenomics-for-compensation)**.
+
+### 3. How should I evaluate the token portion of my offer?
+Don't just look at the current USD value. You need to analyze the project's **[tokenomics](/understanding-tokenomics)**. What is the token's utility? What is the total supply and inflation rate? Is there a clear mechanism for value to accrue to the token?
+
+### 4. Should I prioritize a higher base salary or a larger token grant?
+This depends on your personal risk tolerance. A higher base salary is safer and more predictable. A larger token grant has a higher potential upside but is also much riskier due to market volatility.
+
+### 5. What are some good questions to ask during a salary negotiation?
+Ask specific, detailed questions. For tokens, ask about the vesting schedule, the total allocation for the team, and the fully diluted valuation of the network. For equity, ask what percentage of the company your grant represents. This shows you are a serious, long-term thinker.

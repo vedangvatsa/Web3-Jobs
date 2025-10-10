@@ -50,3 +50,22 @@ Effective remote collaboration relies on a shared set of tools.
 ### Conclusion
 
 Running a remote team in Web3 is a unique challenge that requires a deliberate and thoughtful approach. It's a system built on trust, transparency, and a deep commitment to written communication. By embracing asynchronous work, fostering a culture of extreme ownership, and being intentional about building personal connections, you can create a high-performing, resilient, and globally-diverse team that is perfectly suited to build the future of the decentralized internet.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does "asynchronous communication" mean?
+Asynchronous communication is communication that doesn't happen in real-time. It's the primary mode of operation for global, [remote Web3 teams](/remote-work-in-web3). It means prioritizing clear, detailed written communication (in tools like Notion or Discord) over live meetings, so colleagues in different time zones can stay aligned.
+
+### 2. What is the most important skill for working on a remote Web3 team?
+Excellent written communication. Your ability to articulate complex ideas clearly and concisely in writing is essential for effective asynchronous collaboration.
+
+### 3. How do remote Web3 teams build a strong culture?
+Culture must be built intentionally. This includes having a structured **[onboarding process](/onboarding-non-technical-talent-in-web3)**, holding regular in-person offsites to build personal bonds, and creating virtual "water cooler" spaces for non-work-related social interaction.
+
+### 4. What tools are essential for a remote Web3 team?
+The standard stack includes **Discord/Slack** for communication, **Notion** for documentation and project management, **GitHub** for code collaboration, and tools like **Snapshot** for DAO governance.
+
+### 5. How can I prepare for a remote Web3 job?
+Develop your "soft skills" for remote work. Become a master of asynchronous communication, demonstrate your ability to work autonomously on personal projects, and get comfortable with the tools of the trade like Discord and Notion. Our **[remote work readiness checklist](/remote-work-checklist)** can help you prepare your setup.

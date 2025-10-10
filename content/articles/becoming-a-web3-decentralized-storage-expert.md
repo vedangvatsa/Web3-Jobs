@@ -36,3 +36,21 @@ Two main protocols dominate the decentralized storage space:
 3.  **Contribute to the Ecosystem:** The development of IPFS (and its reference implementation, Kubo) is open source. Find an issue on GitHub and submit a pull request.
 
 A career in decentralized storage is an opportunity to work on the foundational infrastructure of Web3. It's a field for systems
+---
+
+## Frequently Asked Questions
+
+### 1. Why can't we just store files on the blockchain?
+Storing large files directly on a [Layer 1 blockchain](/what-is-a-layer-1-blockchain) like Ethereum is extremely expensive because every node in the network must process and store that data. Decentralized storage networks are specialized and much cheaper solutions for this problem.
+
+### 2. What's the main difference between IPFS and Arweave?
+The main difference is the persistence model. **IPFS** is a distribution system; data is only stored as long as at least one node "pins" it. **Arweave** is a permanent storage system; you pay a one-time, upfront fee to store data forever.
+
+### 3. What is "content addressing"?
+Traditional web URLs are "location-addressed" (they point to a file at a specific server location). IPFS uses "content addressing," where a file is addressed by a unique hash of its content (a CID). This makes the system more resilient, as the file can be retrieved from any node that has it.
+
+### 4. What kind of skills do I need to work in decentralized storage?
+For core protocol roles, you'll need expertise in a systems language like **Go** or **Rust** and a deep understanding of distributed systems. For application-level roles, you'll need standard [Web3 developer skills](/essential-skills-for-web3-developers) and experience with the APIs of protocols like IPFS or Arweave.
+
+### 5. What is a "pinning service"?
+A pinning service is a third-party service (like Pinata) that ensures your files on IPFS remain available. You pay the service to "pin" your content on their highly-available IPFS nodes, guaranteeing it won't be garbage collected and will always be accessible.

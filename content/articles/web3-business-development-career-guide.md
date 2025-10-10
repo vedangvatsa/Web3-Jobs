@@ -35,15 +35,14 @@ This role is fundamentally different from a traditional sales or business develo
 -   **Strategic Thinking:** You must be able to see the bigger picture, understand the competitive landscape, and identify the partnerships that will have the most strategic impact on your project's long-term success.
 -   **Technical Literacy:** You need to be able to "speak the language" of the engineers on both sides of the partnership to understand what is technically feasible. You should be able to read technical documentation and understand the basics of smart contract interactions.
 -   **Strong Communication and Negotiation Skills:** You need to be able to articulate a clear value proposition, build consensus between multiple stakeholders, and negotiate agreements that are a win-win for both parties.
--   **Deep Crypto-Native Knowledge:** You must be deeply immersed in the Web3 culture and have a strong understanding of the major players, protocols, and narratives in your specific ecosystem.
+-   **Deep Crypto-Native Knowledge:** You must be deeply immersed in the Web3 culture and have a strong understanding of the major players and narratives in your specific ecosystem.
 
 ### How to Get a Job in Web3 BizDev
 
 1.  **Build a Public Presence:** Your Twitter account is your resume. Use it to share your analysis of the market, highlight interesting projects, and engage in thoughtful conversations. Show that you are a knowledgeable and well-connected member of the ecosystem.
 2.  **Become a Super-Connector:** Start making valuable introductions within your existing network. Connecting two people who can benefit from knowing each other is a great way to build a reputation as a valuable node in the ecosystem.
 3.  **Specialize in a Niche:** Become an expert in a specific sector (e.g., DeFi, Web3 Gaming, L2s, DePIN). This will make you a go-to person for that ecosystem and will make it easier to identify high-value partnership opportunities.
-4.  **Leverage Your Web2 Experience:** If you have a background in traditional sales, partnerships, or corporate strategy, highlight your experience in building relationships and closing deals. Then, demonstrate that you have done the work to understand the unique context of Web3.
-5.  **Create Your Own "Proof of Work":** Write a detailed partnership strategy for a project you admire. Identify three potential partners and outline the rationale and potential value of each integration. Publish this as a blog post.
+4.  **Leverage Your Web2 Experience:** If you have a background in traditional sales or partnerships, highlight your experience in building relationships and closing deals. Then, demonstrate that you have done the work to understand the unique context of Web3.
 
 A career in Web3 BizDev is perfect for social, strategic thinkers who love the fast pace of the crypto world. It's a chance to be at the center of the action, weaving together the different threads of the decentralized ecosystem to create a stronger and more valuable whole.
 
@@ -63,3 +62,22 @@ A career in Web3 BizDev is perfect for social, strategic thinkers who love the f
     </a>
   </CardContent>
 </Card>
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Web3 Business Development professional do?
+A Web3 BizDev professional is responsible for creating strategic partnerships and integrations between their project and others in the ecosystem. Their goal is to drive growth and create network effects, not to make direct sales. For a full overview, see our guide on the **[role of a Web3 BizDev professional](/the-role-of-web3-business-development-professionals)**.
+
+### 2. How is Web3 BizDev different from traditional sales?
+It's about **collaboration, not conversion**. Instead of selling a product, you are building positive-sum relationships and technical integrations. The role requires deep technical and ecosystem knowledge, and your reputation is your most important asset.
+
+### 3. What are some examples of a Web3 partnership?
+A common example is a **DeFi integration**, where a lending protocol agrees to accept another protocol's token as collateral. Another example is a **gaming partnership**, where a Web3 game integrates with an NFT marketplace to drive user acquisition.
+
+### 4. What skills are most important for this role?
+The most important skills are **exceptional networking ability**, **strategic thinking**, and **deep crypto-native knowledge**. You must be able to understand the technology well enough to identify valuable integration opportunities.
+
+### 5. How can I get a job in Web3 BizDev?
+The best way is to build a public presence and a strong network. Become an expert in a specific niche, share your analysis on Twitter, and start making valuable introductions for people in your network. Your reputation as a knowledgeable "super-connector" is your best resume.
