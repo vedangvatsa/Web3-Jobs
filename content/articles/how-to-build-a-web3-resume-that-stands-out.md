@@ -72,3 +72,20 @@ Divide your skills into relevant subcategories.
 -   **Technical & General:** JavaScript, React, Next.js, Python, SQL, Figma, Project Management.
 
 By building your resume around verifiable proof of work and tailoring your language to the industry's culture, you move beyond simply telling people what you can do—you show them. In the transparent and meritocratic world of Web3, this is the most powerful way to stand out. Find more tips in our guide on [how to write a Web3 resume](/how-to-write-a-web3-resume).
+---
+## Frequently Asked Questions
+
+### 1. Should my Web3 resume be one page?
+Yes, absolutely. Recruiters are busy. A clean, concise, one-page resume that links out to a more detailed portfolio is the most effective format.
+
+### 2. Is a cover letter necessary for Web3 jobs?
+Often, yes. But don't write a generic one. Your cover letter should be a short, compelling note that shows you've researched the project deeply and can articulate exactly why you are a good fit for their specific mission and challenges.
+
+### 3. Should I include my real name or a pseudonym?
+This is a personal choice. If you have built a strong public reputation under a pseudonym, it's perfectly acceptable and even common to use it. Many people use a format like "Real Name (aka @pseudonym)". The most important thing is consistency in your online identity. Learn more about [staying anonymous in crypto](/how-to-stay-anonymous-as-a-developer-in-crypto).
+
+### 4. How do I show experience if I've never had a formal Web3 job?
+Your experience is your public "proof of work." The "Web3 Contributions" section of your resume is where you showcase this. List your personal projects, your open-source contributions, your hackathon wins, your insightful blog posts, or your work as a DAO contributor. This is often more valuable than a formal job title.
+
+### 5. Where can I find a good template for a Web3 resume?
+You can use our free [AI Resume Builder](/resume-builder) to get started with a professional, crypto-native template. It's designed with all the sections and best practices mentioned in this guide.

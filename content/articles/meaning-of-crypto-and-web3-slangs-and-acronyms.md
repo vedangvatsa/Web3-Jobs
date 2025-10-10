@@ -82,3 +82,20 @@ This glossary is just the beginning. The language of crypto is constantly evolvi
     </a>
   </CardContent>
 </Card>
+---
+## Frequently Asked Questions
+
+### 1. What does WAGMI mean?
+WAGMI stands for "We're All Gonna Make It." It's a popular, optimistic phrase in the crypto community expressing a shared belief in the future success of Web3. You can learn more in our [full WAGMI/NGMI guide](/what-is-wagmi-and-ngmi).
+
+### 2. Why do people say 'gm' on Twitter?
+"gm" simply means "Good Morning." It's a daily ritual in the Web3 community to signal presence, positivity, and a sense of global connection. Our [guide to 'gm'](/what-is-gm-in-web3) explains the culture behind it.
+
+### 3. What is the difference between FOMO and FUD?
+FOMO stands for "Fear Of Missing Out," the anxiety that drives people to buy into a hyped project. FUD stands for "Fear, Uncertainty, and Doubt," which refers to negative sentiment spread to cause a project's price to drop.
+
+### 4. What does it mean to be a 'degen'?
+A 'degen' (short for degenerate) is a term for a crypto trader who takes on very high-risk investment strategies, often with a focus on experimental DeFi protocols. While it sounds negative, it's often used as a badge of honor among power users. Dive deeper in our [explanation of a degen](/what-is-a-degen-in-web3).
+
+### 5. What is the most important acronym to know?
+DYOR: "Do Your Own Research." This is the golden rule of crypto, reminding you to always investigate a project for yourself and never invest based on hype alone. Learn how to [DYOR](/what-is-dyor-in-crypto) effectively.
