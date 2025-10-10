@@ -13,7 +13,7 @@ At its core, Account Abstraction aims to make crypto wallets more flexible, prog
 ### The Problem with Today's Wallets (Externally Owned Accounts)
 
 Currently, there are two types of accounts on Ethereum:
-1.  **Externally Owned Accounts (EOAs):** This is the standard [crypto wallet (like MetaMask)](/choosing-a-crypto-wallet) controlled by a private key. It's simple, but rigid. The rules are hard-coded into the Ethereum protocol itself.
+1.  **Externally Owned Accounts (EOAs):** This is the standard [crypto wallet (like MetaMask)](/how-to-choose-a-crypto-wallet) controlled by a private key. It's simple, but rigid. The rules are hard-coded into the Ethereum protocol itself.
 2.  **Contract Accounts:** These are smart contracts (like a multi-sig wallet) controlled by their code. They are flexible, but they can't initiate transactions themselves; they must be "called" by an EOA.
 
 This separation is the source of many UX challenges. You must always hold ETH in your EOA to pay for gas, even if you want to transact with USDC. If you lose your seed phrase, your funds are gone forever.
