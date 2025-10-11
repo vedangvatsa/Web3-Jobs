@@ -27,7 +27,7 @@ import { NewsCard } from './news-card';
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
   return (
-    <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl h-full">
+    <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl h-full bg-background/60 backdrop-blur-lg border border-white/10">
       <Link href={`/${article.slug}`} className="block h-full flex flex-col">
         <div className="relative w-full h-40">
           <Image
@@ -298,7 +298,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-             <Card className="bg-card border-0 shadow-lg">
+             <Card className="bg-background/60 backdrop-blur-lg border border-white/10 shadow-lg">
                 <CardContent className="p-8">
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                         {stats.map((stat) => (
@@ -374,7 +374,7 @@ export function CommunityPageContent({
             <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
               {caseStudies.map(study => (
-                <Card key={study.title} className="overflow-hidden">
+                <Card key={study.title} className="overflow-hidden bg-background/60 backdrop-blur-lg border border-white/10">
                    <div className="relative h-56 w-full">
                      <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
                    </div>
@@ -421,7 +421,7 @@ export function CommunityPageContent({
                 {communityPhotos.map((photo, index) => (
                   <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
                     <div className="p-1">
-                      <Card className="overflow-hidden">
+                      <Card className="overflow-hidden bg-background/60 backdrop-blur-lg border border-white/10">
                         <CardContent className="flex aspect-square items-center justify-center p-0">
                           <Image
                             src={photo.src}
@@ -480,7 +480,7 @@ export function CommunityPageContent({
             <h2 className="text-3xl font-bold text-center text-primary mb-8">What Our Community Says</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
               {testimonials.map((testimonial, i) => (
-                 <Card key={i} className="bg-card border-0 shadow-lg flex flex-col">
+                 <Card key={i} className="bg-background/60 backdrop-blur-lg border border-white/10 shadow-lg flex flex-col">
                     <CardContent className="p-8 text-center flex-grow flex flex-col justify-center">
                         <p className="font-medium italic text-lg">“{testimonial.quote}”</p>
                     </CardContent>
