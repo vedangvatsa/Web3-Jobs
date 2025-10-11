@@ -232,7 +232,7 @@ const whatsappGroups = [
 
 const testimonials = [
   {
-    quote: "Their Web3 Jobs Telegram channel has proven to be the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new opportunities the moment they are available on the market, significantly improving the visibility of my applications.",
+    quote: "Their jobs channel is the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new roles the moment they are available on the market, significantly improving the visibility of my applications.",
     author: "Suki Cheung",
     title: "Community Lead, Trust Wallet",
     image: "/logo/quotes/suki.png"
@@ -591,4 +591,3 @@ export function CommunityPageContent({
       </div>
   );
 }
-
