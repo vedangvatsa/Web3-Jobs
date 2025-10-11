@@ -1,3 +1,4 @@
+
 import type { Metadata } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
@@ -24,7 +25,7 @@ const siteConfig = {
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
-    default: `Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles`,
+    default: `Hashtag Web3 | A Global Web3 Community & Job Board`,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
@@ -36,7 +37,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: siteConfig.url,
     title: {
-        default: `Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles`,
+        default: `Hashtag Web3 | A Global Web3 Community & Job Board`,
         template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
@@ -53,7 +54,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: {
-        default: `Web3 Jobs | The #1 Job Board for Crypto & Blockchain Roles`,
+        default: `Hashtag Web3 | A Global Web3 Community & Job Board`,
         template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,

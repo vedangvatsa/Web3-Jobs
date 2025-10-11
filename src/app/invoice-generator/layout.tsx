@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/invoice-generator',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image.png',
+        url: 'https://hashtagweb3.com/og-image-tools.png',
         width: 1200,
         height: 630,
         alt: 'Free Invoice Generator',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Free Invoice Generator',
     description: 'Create and download professional invoices in seconds.',
-    images: ['https://hashtagweb3.com/og-image.png'],
+    images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };
 
