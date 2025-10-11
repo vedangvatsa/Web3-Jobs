@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/resume-builder',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image.png',
+        url: 'https://hashtagweb3.com/og-image-tools.png',
         width: 1200,
         height: 630,
         alt: 'Web3 Resume Builder',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Web3 Resume Builder',
     description: 'Craft a resume that gets noticed in the crypto space.',
-    images: ['https://hashtagweb3.com/og-image.png'],
+    images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };
 
