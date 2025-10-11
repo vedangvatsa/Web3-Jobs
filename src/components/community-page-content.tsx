@@ -95,6 +95,7 @@ const partnersLogos = [
     { name: 'IBW', src: '/logo/partners/ibw.png', alt: 'IBW logo'},
     { name: 'IEEE', src: '/logo/partners/ieee.png', alt: 'IEEE logo'},
     { name: 'Istanbul', src: '/logo/partners/istanbul.png', alt: 'Istanbul logo'},
+    { name: 'LBC', src: '/logo/partners/LBC_Logo_Black-min.png', alt: 'LBC logo'},
     { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png', alt: 'Malaysia Blockchain Week logo'},
     { name: 'Onepiece Labs', src: '/logo/partners/onepiece.png', alt: 'Onepiece Labs logo'},
     { name: 'PBS', src: '/logo/partners/pbs.png', alt: 'PBS logo'},
@@ -325,7 +326,7 @@ export function CommunityPageContent({
                         </Button>
                     </a>
                 </div>
-                <Carousel 
+                 <Carousel 
                     className="w-full"
                     plugins={[useRef(Autoplay({ delay: 2500, stopOnInteraction: false })).current]}
                     opts={{ loop: true }}
@@ -512,7 +513,7 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {hiredCompaniesChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary/40">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary/40">
                             {chunk.map((logo) => (
                               <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
@@ -591,4 +592,3 @@ export function CommunityPageContent({
   );
 }
 
-    
