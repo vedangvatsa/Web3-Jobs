@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Employee Onboarding Checklist | Hashtag Web3',
+    title: 'Web3 Employee Onboarding Checklist',
     description: 'The ultimate checklist for onboarding new talent in the Web3 space.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },

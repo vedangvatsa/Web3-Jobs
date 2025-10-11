@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Interview Feedback Template | Hashtag Web3',
+    title: 'Interview Feedback Template',
     description: 'Create structured interview feedback forms in seconds.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },

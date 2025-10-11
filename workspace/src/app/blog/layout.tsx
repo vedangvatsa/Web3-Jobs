@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     canonical: '/blog',
   },
   openGraph: {
-    title: 'The Web3 Playbook | Hashtag Web3',
+    title: 'The Web3 Playbook',
     description: 'Explore in-depth articles on careers, technology, and industry insights to navigate the decentralized economy.',
     url: 'https://hashtagweb3.com/blog',
     images: [
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'The Web3 Playbook | Hashtag Web3',
+    title: 'The Web3 Playbook',
     description: 'Your complete guide to the world of Web3. In-depth articles on careers, technology, and industry insights.',
     images: ['https://hashtagweb3.com/og-image-blog.png'],
   },

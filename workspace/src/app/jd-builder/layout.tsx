@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Job Description Builder | Hashtag Web3',
+    title: 'Web3 Job Description Builder',
     description: 'Craft the perfect job description to attract top Web3 talent.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
