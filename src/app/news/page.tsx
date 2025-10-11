@@ -15,7 +15,7 @@ import type { WebPage, NewsArticle, WithContext } from 'schema-dts';
 
 function NewsCardSkeleton() {
   return (
-    <Card>
+    <Card className="bg-background/60 backdrop-blur-lg border border-white/10">
       <CardHeader>
         <div className="flex items-center justify-between gap-2 mb-2">
           <Skeleton className="h-5 w-20 rounded-full" />
@@ -127,7 +127,7 @@ export default function NewsPage() {
                   [...Array(10)].map((_, i) => <NewsCardSkeleton key={i} />)
                 ) : (
                   newsItems.map((item, index) => (
-                    <Card key={index} className="transition-all duration-300 hover:shadow-lg bg-card">
+                    <Card key={index} className="transition-all duration-300 hover:shadow-lg bg-background/60 backdrop-blur-lg border border-white/10">
                       <CardHeader>
                         <div className="flex items-center justify-between gap-2 mb-2">
                           <Badge variant={
@@ -159,7 +159,7 @@ export default function NewsPage() {
                 )}
               </div>
 
-              <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
+              <Card className="mt-12 col-span-full bg-primary/5 border-primary/20 backdrop-blur-lg">
                   <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
                       <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
                           <Rss className="h-8 w-8 text-primary"/>

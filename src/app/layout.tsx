@@ -114,7 +114,7 @@ export default async function RootLayout({
             />
         </head>
       <body 
-        className={cn('min-h-screen bg-background font-body antialiased flex flex-col')}
+        className={cn('min-h-screen font-body antialiased flex flex-col')}
       >
         
         <ContentSecurity />
