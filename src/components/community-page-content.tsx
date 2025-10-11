@@ -80,8 +80,6 @@ const companies = [
     { name: 'LBank', src: '/logo/job/lbank.png', alt: 'LBank logo' },
     { name: 'dYdX', src: '/logo/job/dydx.png', alt: 'dYdX logo' },
     { name: 'Coinbase', src: '/logo/job/coinbase.png', alt: 'Coinbase logo' },
-    { name: 'Bitget', src: '/logo/job/bitget.png', alt: 'Bitget logo' },
-    { name: 'Binance', src: '/logo/job/binance.png', alt: 'Binance logo' },
 ];
 
 const partnersLogos = [
@@ -126,7 +124,6 @@ const mediaLogos = [
 const hiredCompanies = [
     { name: 'Alemx', src: '/logo/job/alemx.png', alt: 'Alemx logo' },
     { name: 'Antier', src: '/logo/job/Antier.svg', alt: 'Antier logo' },
-    { name: 'Binance', src: '/logo/job/binance.png', alt: 'Binance logo' },
     { name: 'Bitget', src: '/logo/job/bitget.png', alt: 'Bitget logo' },
     { name: 'Circle', src: '/logo/job/circle.png', alt: 'Circle logo' },
     { name: 'Coinbase', src: '/logo/job/coinbase.png', alt: 'Coinbase logo' },
@@ -154,6 +151,7 @@ const hiredCompanies = [
     { name: 'Watches.io', src: '/logo/job/watches.png', alt: 'Watches.io logo' },
     { name: 'Zeebu', src: '/logo/job/zeebu.png', alt: 'Zeebu logo' },
     { name: 'Zerion', src: '/logo/job/zerion.png', alt: 'Zerion logo' },
+    { name: 'Binance', src: '/logo/job/binance.png', alt: 'Binance logo' },
 ];
 
 const channels = [
@@ -271,6 +269,8 @@ export function CommunityPageContent({
   const plugin = useRef(
     Autoplay({ delay: 2000, stopOnInteraction: false })
   );
+  
+  const conversationCompanies = companies.filter(c => c.name !== 'Bitget' && c.name !== 'Binance');
 
   const hiredCompaniesChunks = [];
   const chunkSize = 12;
@@ -279,8 +279,13 @@ export function CommunityPageContent({
   }
   
   const companyChunks = [];
-  for (let i = 0; i < companies.length; i += chunkSize) {
-      companyChunks.push(companies.slice(i, i + chunkSize));
+  for (let i = 0; i < conversationCompanies.length; i += chunkSize) {
+      companyChunks.push(conversationCompanies.slice(i, i + chunkSize));
+  }
+  
+  const partnersLogosChunks = [];
+  for (let i = 0; i < partnersLogos.length; i += chunkSize) {
+      partnersLogosChunks.push(partnersLogos.slice(i, i + chunkSize));
   }
 
   return (
@@ -330,7 +335,7 @@ export function CommunityPageContent({
                         <CarouselItem key={i}>
                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4">
                             {chunk.map((logo) => (
-                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2" title={logo.name}>
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-secondary/40 rounded-md" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                               </div>
                             ))}
@@ -434,10 +439,38 @@ export function CommunityPageContent({
             </Carousel>
           </section>
 
-          <section className="mb-16">
-             <div className="max-w-6xl mx-auto px-8">
-                <MediaCarousel logos={mediaLogos} />
-             </div>
+          <section className="mb-16 bg-white rounded-lg py-12">
+            <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
+                <Carousel 
+                    className="w-full"
+                    plugins={[useRef(Autoplay({ delay: 3000, stopOnInteraction: false })).current]}
+                    opts={{ loop: true }}
+                  >
+                    <CarouselContent>
+                      {partnersLogosChunks.map((chunk, i) => (
+                        <CarouselItem key={i}>
+                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary/40">
+                            {chunk.map((logo) => (
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
+                                <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                              </div>
+                            ))}
+                          </div>
+                        </CarouselItem>
+                      ))}
+                    </CarouselContent>
+                </Carousel>
+                <div>
+                    <p className="text-primary font-semibold tracking-wider">PROMOTE WITH US</p>
+                    <h2 className="text-4xl font-bold mt-2">Reach the Global Web3 Community</h2>
+                    <p className="mt-4 text-muted-foreground">
+                       Tap into our network of over 100,000 Web3 professionals. We help you connect with developers, investors, and early adopters through targeted campaigns, content collaborations, and community engagement.
+                    </p>
+                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
+                        <Button size="lg" className="mt-6">Contact Us <ArrowRight className="ml-2" /></Button>
+                    </a>
+                </div>
+            </div>
           </section>
 
           <section className="mb-16">
@@ -493,20 +526,13 @@ export function CommunityPageContent({
             </div>
           </section>
 
-          <section className="mb-16">
+          <section className="mt-16">
              <div className="max-w-6xl mx-auto px-8">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
-                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
-                    {partnersLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized />
-                        </div>
-                    ))}
-                </div>
+                 <MediaCarousel logos={mediaLogos} />
              </div>
           </section>
 
-          <section className="text-center py-16 bg-primary/5 rounded-lg">
+          <section className="text-center py-16 bg-primary/5 rounded-lg mt-16">
              <h2 className="text-3xl font-bold text-primary mb-2">Connect with our representative</h2>
              <p className="text-muted-foreground mb-8">Share your requirements, and we’ll recommend the most effective strategy.</p>
              <div className="flex justify-center gap-4">
