@@ -320,21 +320,6 @@ export function CommunityPageContent({
              <TransitioningHeadline phrases={headlines} />
           </section>
 
-          <section className="mb-16">
-             <Card className="bg-card/60 backdrop-blur-xl">
-                <CardContent className="p-8">
-                    <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-                        {stats.map((stat) => (
-                            <div key={stat.label}>
-                                <p className="text-4xl font-bold text-primary">{stat.value}</p>
-                                <p className="text-sm text-muted-foreground mt-1">{stat.label}</p>
-                            </div>
-                        ))}
-                    </div>
-                </CardContent>
-             </Card>
-          </section>
-
           <section className="mb-16 rounded-lg py-12">
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <div>
@@ -370,6 +355,21 @@ export function CommunityPageContent({
                 </Carousel>
             </div>
           </section>
+          
+          <section className="mb-16">
+             <Card className="bg-card/60 backdrop-blur-xl">
+                <CardContent className="p-8">
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+                        {stats.map((stat) => (
+                            <div key={stat.label}>
+                                <p className="text-4xl font-bold text-primary">{stat.value}</p>
+                                <p className="text-sm text-muted-foreground mt-1">{stat.label}</p>
+                            </div>
+                        ))}
+                    </div>
+                </CardContent>
+             </Card>
+          </section>
 
           <section className="mb-16">
               <h2 className="text-3xl font-bold text-center text-primary mb-8">Multi-Channel Presence</h2>
@@ -395,27 +395,8 @@ export function CommunityPageContent({
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Case Studies</h2>
             <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
-            <div className="hidden md:grid md:grid-cols-3 gap-4 max-w-6xl mx-auto">
-                 {caseStudies.map(study => (
-                    <div key={study.title} className="p-1 h-full">
-                        <Card className="overflow-hidden bg-card/60 backdrop-blur-xl h-full flex flex-col">
-                           <div className="relative h-56 w-full">
-                             <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
-                           </div>
-                           <CardHeader>
-                                <CardTitle>{study.title}</CardTitle>
-                           </CardHeader>
-                           <CardContent className="flex-grow">
-                                <ul className="space-y-2 text-muted-foreground list-disc pl-5">
-                                    {study.points.map((point, i) => <li key={i}>{point}</li>)}
-                                </ul>
-                           </CardContent>
-                        </Card>
-                    </div>
-                ))}
-            </div>
-             <Carousel
-                className="w-full max-w-6xl mx-auto md:hidden"
+            <Carousel
+                className="w-full max-w-6xl mx-auto"
                 opts={{
                     align: "start",
                     loop: true,
@@ -450,13 +431,13 @@ export function CommunityPageContent({
 
           <section className="mb-16">
             <Card className="bg-card/60 backdrop-blur-xl">
-                <CardContent className="p-6">
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
-                        <div className="text-center md:text-left">
+                 <CardContent className="p-6">
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-center">
+                        <div className="lg:col-span-1 text-center md:text-left">
                             <h3 className="text-xl font-bold text-primary mb-2">Join Our Regional WhatsApp Groups</h3>
-                            <p className="text-muted-foreground text-sm">Connect with Web3 professionals in your region. Note: Approval is based on your WhatsApp number's country code.</p>
+                            <p className="text-muted-foreground text-sm">Connect with Web3 professionals in your region. Approval is based on your WhatsApp number's country code.</p>
                         </div>
-                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                        <div className="lg:col-span-2 grid grid-cols-2 sm:grid-cols-3 gap-2">
                             {whatsappGroups.map((group) => (
                                 <a href={group.link} key={group.region} target="_blank" rel="noopener noreferrer">
                                     <Button variant="outline" className="w-full">
