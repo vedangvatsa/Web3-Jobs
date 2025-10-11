@@ -1,3 +1,4 @@
+
 'use client';
 
 import type { Job } from '@/types';
@@ -10,7 +11,7 @@ export function JobCard({ job }: { job: Job }) {
 
   return (
     <a href={job.link} target="_blank" rel="noopener noreferrer" className="block transform transition-all duration-200 hover:-translate-y-1 h-full">
-      <Card className="flex flex-col h-full rounded-xl shadow-md hover:shadow-lg border-transparent hover:border-border/60">
+      <Card className="flex flex-col h-full rounded-xl shadow-md hover:shadow-lg border-transparent hover:border-border/60 bg-card/60 backdrop-blur-xl">
         <CardHeader className="pb-2 pt-4 px-4">
           <CardTitle className="text-base leading-snug font-semibold">{job.title}</CardTitle>
         </CardHeader>
