@@ -350,20 +350,22 @@ export function CommunityPageContent({
 
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-8">Multi-Channel Presence</h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
-              {channels.map((channel) => (
-                <Card key={channel.title} className="text-center">
-                    <CardHeader>
-                        <div className="mx-auto bg-primary/10 p-3 rounded-full w-fit">
-                            <channel.icon className="h-8 w-8 text-primary" />
+            <div className="max-w-4xl mx-auto">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-10">
+                    {channels.map((channel, i) => (
+                        <div key={i} className="flex gap-4">
+                            <div className="flex-shrink-0">
+                                <div className="flex items-center justify-center h-12 w-12 rounded-lg bg-primary/10">
+                                    <channel.icon className="h-6 w-6 text-primary" />
+                                </div>
+                            </div>
+                            <div>
+                                <h3 className="text-lg font-semibold">{channel.title}</h3>
+                                <p className="mt-1 text-muted-foreground">{channel.description}</p>
+                            </div>
                         </div>
-                        <CardTitle className="pt-2">{channel.title}</CardTitle>
-                    </CardHeader>
-                    <CardContent>
-                        <p className="text-muted-foreground">{channel.description}</p>
-                    </CardContent>
-                </Card>
-              ))}
+                    ))}
+                </div>
             </div>
           </section>
           
