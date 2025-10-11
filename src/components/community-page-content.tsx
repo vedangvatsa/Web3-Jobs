@@ -1,3 +1,4 @@
+
 'use client';
 
 import type { Job, Article, NewsItem } from '@/types';
@@ -148,7 +149,7 @@ const hiredCompanies = [
     { name: 'Watches.io', src: '/logo/job/watches.png', alt: 'Watches.io logo' },
     { name: 'Zeebu', src: '/logo/job/zeebu.png', alt: 'Zeebu logo' },
     { name: 'Zerion', src: '/logo/job/zerion.png', alt: 'Zerion logo' },
-]
+];
 
 const channels = [
   { icon: Users, title: 'Networking Community', description: '21,000 member Telegram group with spam-bot-moderated topics for community-driven content.' },
@@ -265,6 +266,12 @@ export function CommunityPageContent({
   const plugin = useRef(
     Autoplay({ delay: 2000, stopOnInteraction: false })
   );
+
+  const hiredCompaniesChunks = [];
+  const chunkSize = 12;
+  for (let i = 0; i < hiredCompanies.length; i += chunkSize) {
+      hiredCompaniesChunks.push(hiredCompanies.slice(i, i + chunkSize));
+  }
   
   return (
     <div className="py-16 bg-background">
@@ -454,13 +461,27 @@ export function CommunityPageContent({
                         <Button size="lg" className="mt-6">Post a Job <ArrowRight className="ml-2" /></Button>
                     </a>
                 </div>
-                <div className="grid grid-cols-4 gap-4 p-4 rounded-lg bg-secondary/40">
-                    {hiredCompanies.slice(0, 12).map((logo) => (
-                        <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
-                            <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
-                        </div>
-                    ))}
-                </div>
+                <Carousel 
+                    className="w-full"
+                    plugins={[plugin.current]}
+                    onMouseEnter={() => plugin.current.stop()}
+                    onMouseLeave={() => plugin.current.play()}
+                    opts={{ loop: true }}
+                  >
+                    <CarouselContent>
+                      {hiredCompaniesChunks.map((chunk, i) => (
+                        <CarouselItem key={i}>
+                          <div className="grid grid-cols-4 gap-4 p-4 rounded-lg bg-secondary/40">
+                            {chunk.map((logo) => (
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
+                                <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                              </div>
+                            ))}
+                          </div>
+                        </CarouselItem>
+                      ))}
+                    </CarouselContent>
+                </Carousel>
             </div>
           </section>
 
