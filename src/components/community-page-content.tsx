@@ -23,6 +23,7 @@ import {
 } from "@/components/ui/carousel"
 import Autoplay from "embla-carousel-autoplay"
 import { NewsCard } from './news-card';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
@@ -356,9 +357,9 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {companyChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card/70 backdrop-blur-xl">
                             {chunk.map((logo) => (
-                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                               </div>
                             ))}
@@ -560,40 +561,37 @@ export function CommunityPageContent({
         
         <div className="py-16 bg-card/60 backdrop-blur-xl mt-16">
             <div className="container mx-auto px-4">
-                <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                    {/* Latest Jobs */}
-                    <div className="lg:col-span-1">
-                        <h2 className="text-2xl font-bold text-primary flex items-center gap-3 mb-4"><Briefcase/> Latest Jobs</h2>
+                <Tabs defaultValue="jobs" className="w-full">
+                    <TabsList className="grid w-full grid-cols-3">
+                        <TabsTrigger value="jobs"><Briefcase className="mr-2 h-4 w-4"/>Latest Jobs</TabsTrigger>
+                        <TabsTrigger value="news"><Newspaper className="mr-2 h-4 w-4"/>Latest News</TabsTrigger>
+                        <TabsTrigger value="playbook"><BookOpen className="mr-2 h-4 w-4"/>From the Playbook</TabsTrigger>
+                    </TabsList>
+                    <TabsContent value="jobs" className="mt-4">
                         <div className="space-y-2">
                             {latestJobs.slice(0, 10).map(job => <CompactJobItem key={job.id} job={job} />)}
                         </div>
                         <Button variant="outline" className="mt-4 w-full" asChild>
                            <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
                         </Button>
-                    </div>
-
-                    {/* Latest News */}
-                    <div className="lg:col-span-1">
-                        <h2 className="text-2xl font-bold text-primary flex items-center gap-3 mb-4"><Newspaper /> Latest News</h2>
+                    </TabsContent>
+                    <TabsContent value="news" className="mt-4">
                         <div className="space-y-2">
                             {latestNews.map((item, i) => <CompactNewsItem key={i} item={item} />)}
                         </div>
                         <Button variant="outline" className="mt-4 w-full" asChild>
                            <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
                         </Button>
-                    </div>
-
-                    {/* From the Playbook */}
-                    <div className="lg:col-span-1">
-                        <h2 className="text-2xl font-bold text-primary flex items-center gap-3 mb-4"><BookOpen /> From the Playbook</h2>
+                    </TabsContent>
+                    <TabsContent value="playbook" className="mt-4">
                         <div className="space-y-2">
                              {latestArticles.slice(0, 10).map(article => <CompactArticleItem key={article.slug} article={article} />)}
                         </div>
                         <Button variant="outline" className="mt-4 w-full" asChild>
                            <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
                         </Button>
-                    </div>
-                </div>
+                    </TabsContent>
+                </Tabs>
             </div>
         </div>
       </div>
