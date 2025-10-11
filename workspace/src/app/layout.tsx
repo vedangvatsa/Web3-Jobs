@@ -2,7 +2,7 @@
 import type { Metadata } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
-import './globals.css';
+import '../globals.css';
 import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
 import { ContentSecurity } from '@/components/content-security';
