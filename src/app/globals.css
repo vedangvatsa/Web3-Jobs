@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
 body {
   font-family: 'Inter', sans-serif;
 }
@@ -61,6 +73,8 @@ body {
     @apply bg-background text-foreground font-body;
     background-image: radial-gradient(circle at 10% 20%, hsl(var(--primary) / 0.1), transparent 30%),
                       radial-gradient(circle at 80% 70%, hsl(var(--accent) / 0.1), transparent 30%);
+    background-size: 200% 200%;
+    animation: gradient-animation 25s ease infinite;
     background-attachment: fixed;
   }
 }
