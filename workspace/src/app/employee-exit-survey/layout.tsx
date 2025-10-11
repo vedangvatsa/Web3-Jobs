@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Employee Exit Survey Tool | Hashtag Web3',
+    title: 'Employee Exit Survey Tool',
     description: 'Create professional employee exit surveys in seconds.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },

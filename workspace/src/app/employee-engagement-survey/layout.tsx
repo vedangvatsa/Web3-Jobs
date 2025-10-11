@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Employee Engagement Pulse Survey | Hashtag Web3',
+    title: 'Employee Engagement Pulse Survey',
     description: 'Create an effective employee engagement survey in seconds.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },

@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Resume Builder | Hashtag Web3',
+    title: 'Web3 Resume Builder',
     description: 'Craft a resume that gets noticed in the crypto space.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },

@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Interview Question Bank | Hashtag Web3',
+    title: 'Web3 Interview Question Bank',
     description: 'Ace your next Web3 interview with our comprehensive question bank.',
     images: ['https://hashtagweb3.com/og-image-interview.png'],
   },

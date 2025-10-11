@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     canonical: '/news',
   },
   openGraph: {
-    title: 'Web3 News Feed | Hashtag Web3',
+    title: 'Web3 News Feed',
     description: 'Stay updated with the latest in Web3. Our news feed aggregates top stories from across the crypto industry.',
     url: 'https://hashtagweb3.com/news',
     images: [
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 News Feed | Hashtag Web3',
+    title: 'Web3 News Feed',
     description: 'Your daily briefing on everything happening in the world of crypto and blockchain.',
     images: ['https://hashtagweb3.com/og-image-news.png'],
   },

@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Offer Letter Customizer | Hashtag Web3',
+    title: 'Web3 Offer Letter Customizer',
     description: 'Create professional offer letters for Web3 roles in seconds.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },

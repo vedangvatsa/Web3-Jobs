@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Employee Milestones Tracker | Hashtag Web3',
+    title: 'Employee Milestones Tracker',
     description: 'Create structured 30-60-90 day plans for your employees.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
