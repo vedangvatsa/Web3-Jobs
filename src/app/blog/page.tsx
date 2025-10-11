@@ -34,7 +34,7 @@ export default async function PlaybookIndexPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(blogSchema) }}
       />
-      <div className="flex flex-col min-h-screen bg-background">
+      <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-1">
           <Suspense fallback={<div>Loading...</div>}>

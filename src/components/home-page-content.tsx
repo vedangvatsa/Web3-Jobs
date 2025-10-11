@@ -15,7 +15,7 @@ export function HomePageContent({
 }) {
 
   return (
-      <div className="py-16 bg-background">
+      <div className="py-16">
         <CommunityPageContent 
           latestJobs={latestJobs} 
           latestArticles={latestArticles}

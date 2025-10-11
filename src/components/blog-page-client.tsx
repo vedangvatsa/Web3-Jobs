@@ -15,7 +15,7 @@ import { Skeleton } from '@/components/ui/skeleton';
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
   return (
-    <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl h-full">
+    <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl h-full bg-card">
       <Link href={`/${article.slug}`} className="block h-full flex flex-col">
         <div className="relative w-full h-48">
           <Image
@@ -39,7 +39,7 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
 
 function ArticleCardSkeleton() {
     return (
-        <Card className="flex flex-col h-full">
+        <Card className="flex flex-col h-full bg-card">
             <Skeleton className="w-full h-48 rounded-t-lg" />
             <CardHeader>
                 <Skeleton className="h-4 w-1/4 mb-2" />

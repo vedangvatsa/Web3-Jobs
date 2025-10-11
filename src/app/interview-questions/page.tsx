@@ -92,7 +92,7 @@ const QuestionItem = ({ question }: { question: any }) => (
           {question.idealAnswer.keyPoints.map((p: string, i: number) => <li key={i}>{p}</li>)}
         </ul>
         {question.idealAnswer.example && (
-          <Card className="my-2 bg-secondary/50">
+          <Card className="my-2 bg-card">
             <CardContent className="p-3">
               <pre className="text-xs whitespace-pre-wrap font-code bg-transparent p-0"><code>{question.idealAnswer.example}</code></pre>
             </CardContent>
@@ -159,7 +159,7 @@ export default function InterviewQuestionBankPage() {
     ];
 
   return (
-    <div className="flex flex-col min-h-screen bg-secondary/30">
+    <div className="flex flex-col min-h-screen">
       <Header />
       <main className="flex-grow">
           <div className="container mx-auto px-4 py-8 md:py-16">
@@ -172,7 +172,7 @@ export default function InterviewQuestionBankPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
               <aside className="md:col-span-3 md:sticky top-24 self-start">
-                <Card>
+                <Card className="bg-card">
                   <CardHeader>
                       <CardTitle>Quick Navigation</CardTitle>
                   </CardHeader>
@@ -195,7 +195,7 @@ export default function InterviewQuestionBankPage() {
               </aside>
 
               <div className="md:col-span-9">
-                <Card className="mb-8">
+                <Card className="mb-8 bg-card">
                   <CardHeader>
                       <CardTitle>How to use this bank</CardTitle>
                   </CardHeader>
@@ -216,7 +216,7 @@ export default function InterviewQuestionBankPage() {
 
                 <div id="appendix-a" className="pt-8">
                   <h2 className="text-2xl font-bold mb-4">Appendix A: Universal Behavioral Questions</h2>
-                  <Card>
+                  <Card className="bg-card">
                       <CardContent className="pt-6">
                           <ul className="list-decimal pl-5 space-y-3 text-muted-foreground">
                               {interviewData.appendixA.map((item, i) => (
@@ -232,7 +232,7 @@ export default function InterviewQuestionBankPage() {
 
                   <div id="appendix-b" className="pt-8">
                   <h2 className="text-2xl font-bold mb-4">Appendix B: Scoring Guide</h2>
-                    <Card>
+                    <Card className="bg-card">
                       <CardContent className="pt-6 space-y-2 text-muted-foreground">
                           <p>{interviewData.appendixB.description}</p>
                           <ul className="list-disc pl-5 space-y-1">

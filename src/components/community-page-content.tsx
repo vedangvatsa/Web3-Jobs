@@ -290,7 +290,7 @@ export function CommunityPageContent({
   }
 
   return (
-    <div className="py-16 bg-background">
+    <div className="py-16">
         <div className="container mx-auto px-4 py-8 md:py-16">
           
           <section className="text-center mb-16 max-w-4xl mx-auto">
@@ -298,7 +298,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-             <Card className="bg-secondary/40 border-0 shadow-lg">
+             <Card className="bg-card border-0 shadow-lg">
                 <CardContent className="p-8">
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                         {stats.map((stat) => (
@@ -334,9 +334,9 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {companyChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary/40">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card">
                             {chunk.map((logo) => (
-                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                               </div>
                             ))}
@@ -452,9 +452,9 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {partnersLogosChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary/40">
+                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card">
                             {chunk.map((logo) => (
-                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                               </div>
                             ))}
@@ -480,7 +480,7 @@ export function CommunityPageContent({
             <h2 className="text-3xl font-bold text-center text-primary mb-8">What Our Community Says</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
               {testimonials.map((testimonial, i) => (
-                 <Card key={i} className="bg-secondary/40 border-0 shadow-lg flex flex-col">
+                 <Card key={i} className="bg-card border-0 shadow-lg flex flex-col">
                     <CardContent className="p-8 text-center flex-grow flex flex-col justify-center">
                         <p className="font-medium italic text-lg">“{testimonial.quote}”</p>
                     </CardContent>
@@ -494,7 +494,7 @@ export function CommunityPageContent({
             </div>
           </section>
 
-          <section className="bg-background py-16 px-4 rounded-lg">
+          <section className="py-16 px-4 rounded-lg">
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <div>
                     <p className="text-primary font-semibold tracking-wider">REACH TOP TALENT</p>
@@ -515,9 +515,9 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {hiredCompaniesChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary/40">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card">
                             {chunk.map((logo) => (
-                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                               </div>
                             ))}
@@ -536,7 +536,7 @@ export function CommunityPageContent({
           </section>
         </div>
         
-        <div className="py-16 bg-secondary/40 mt-16">
+        <div className="py-16 bg-card mt-16">
             <div className="container mx-auto px-4">
                  <div className="space-y-12">
                     <section>
@@ -581,5 +581,3 @@ export function CommunityPageContent({
       </div>
   );
 }
-
-    
