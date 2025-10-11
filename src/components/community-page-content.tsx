@@ -409,7 +409,7 @@ export function CommunityPageContent({
                             <div className="p-1 h-full">
                                 <Card className="overflow-hidden bg-card/60 backdrop-blur-xl h-full flex flex-col">
                                    <div className="relative h-56 w-full">
-                                     <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai-hint} unoptimized/>
+                                     <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
                                    </div>
                                    <CardHeader>
                                         <CardTitle>{study.title}</CardTitle>
