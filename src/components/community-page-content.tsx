@@ -1,4 +1,3 @@
-
 'use client';
 
 import type { Job, Article, NewsItem } from '@/types';
@@ -356,14 +355,14 @@ export function CommunityPageContent({
             </div>
           </section>
 
-          <section className="my-16">
+          <section className="mb-16">
              <div className="max-w-6xl mx-auto px-8">
                  <MediaCarousel logos={mediaLogos} />
              </div>
           </section>
 
           <section className="mb-16">
-             <Card className="bg-card/60 backdrop-blur-xl">
+             <Card>
                 <CardContent className="p-8">
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                         {stats.map((stat) => (
@@ -413,7 +412,7 @@ export function CommunityPageContent({
                     {caseStudies.map(study => (
                         <CarouselItem key={study.title} className="md:basis-1/2 lg:basis-1/3">
                             <div className="p-1 h-full">
-                                <Card className="overflow-hidden bg-card/60 backdrop-blur-xl h-full flex flex-col">
+                                <Card className="overflow-hidden h-full flex flex-col">
                                    <div className="relative h-56 w-full">
                                      <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
                                    </div>
@@ -436,7 +435,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-            <Card className="bg-card/60 backdrop-blur-xl">
+            <Card>
                  <CardContent className="p-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-center">
                         <div className="lg:col-span-1 text-center md:text-left">
@@ -473,7 +472,7 @@ export function CommunityPageContent({
                 {communityPhotos.map((photo, index) => (
                   <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
                     <div className="p-1">
-                      <Card className="overflow-hidden bg-card/60 backdrop-blur-xl">
+                      <Card className="overflow-hidden">
                         <CardContent className="flex aspect-square items-center justify-center p-0">
                           <Image
                             src={photo.src}
@@ -494,7 +493,7 @@ export function CommunityPageContent({
             </Carousel>
           </section>
 
-          <section className="mb-16 rounded-lg py-12">
+          <section className="py-16 px-4 rounded-lg">
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <Carousel 
                     className="w-full"
@@ -532,7 +531,7 @@ export function CommunityPageContent({
             <h2 className="text-3xl font-bold text-center text-primary mb-8">What Our Community Says</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
               {testimonials.map((testimonial, i) => (
-                 <Card key={i} className="shadow-lg flex flex-col bg-card/60 backdrop-blur-xl">
+                 <Card key={i} className="shadow-lg flex flex-col">
                     <CardContent className="p-8 text-center flex-grow flex flex-col justify-center">
                         <p className="font-medium italic text-lg">“{testimonial.quote}”</p>
                     </CardContent>
@@ -583,7 +582,7 @@ export function CommunityPageContent({
 
         </div>
         
-        <div className="py-16 bg-card/60 backdrop-blur-xl mt-16">
+        <div className="py-16 mt-16">
             <div className="container mx-auto px-4">
                 <Tabs defaultValue="jobs" className="w-full">
                     <TabsList className="grid w-full grid-cols-3">
@@ -621,12 +620,3 @@ export function CommunityPageContent({
       </div>
   );
 }
-
-    
-
-  
-    
-
-    
-
-
