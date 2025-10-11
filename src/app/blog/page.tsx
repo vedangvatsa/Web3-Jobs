@@ -29,7 +29,7 @@ export default async function PlaybookIndexPage() {
 
 
   return (
-    <>
+    <div className="bg-background">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(blogSchema) }}
@@ -42,6 +42,6 @@ export default async function PlaybookIndexPage() {
           </Suspense>
         </main>
       </div>
-    </>
+    </div>
   );
 }
