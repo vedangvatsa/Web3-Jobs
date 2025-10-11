@@ -77,6 +77,11 @@ const companies = [
     { name: 'PwC', src: '/logo/companies/pwc.png', alt: 'PwC logo' },
     { name: 'R3', src: '/logo/companies/r3.png', alt: 'R3 logo' },
     { name: 'Ripple', src: '/logo/companies/ripple.png', alt: 'Ripple logo' },
+    { name: 'LBank', src: '/logo/job/lbank.png', alt: 'LBank logo' },
+    { name: 'dYdX', src: '/logo/job/dydx.png', alt: 'dYdX logo' },
+    { name: 'Coinbase', src: '/logo/job/coinbase.png', alt: 'Coinbase logo' },
+    { name: 'Bitget', src: '/logo/job/bitget.png', alt: 'Bitget logo' },
+    { name: 'Binance', src: '/logo/job/binance.png', alt: 'Binance logo' },
 ];
 
 const partnersLogos = [
@@ -273,6 +278,11 @@ export function CommunityPageContent({
       hiredCompaniesChunks.push(hiredCompanies.slice(i, i + chunkSize));
   }
   
+  const companyChunks = [];
+  for (let i = 0; i < companies.length; i += chunkSize) {
+      companyChunks.push(companies.slice(i, i + chunkSize));
+  }
+
   return (
     <div className="py-16 bg-background">
         <div className="container mx-auto px-4 py-8 md:py-16">
@@ -296,20 +306,42 @@ export function CommunityPageContent({
              </Card>
           </section>
 
-          <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-6xl mx-auto px-4">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">
-                    Our global network includes industry leaders from
-                </h3>
-                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 gap-x-8 gap-y-6 items-center justify-center">
-                    {companies.map((logo) => (
-                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized/>
-                        </div>
-                    ))}
+          <section className="mb-16 bg-white rounded-lg py-12">
+            <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
+                <div>
+                    <p className="text-primary font-semibold tracking-wider">JOIN THE CONVERSATION</p>
+                    <h2 className="text-4xl font-bold mt-2">Join Our Telegram Community</h2>
+                    <p className="mt-4 text-muted-foreground">
+                        Our main Telegram group is a vibrant hub for over 21,000 Web3 professionals to network, share insights, and discuss the latest trends in the decentralized world.
+                    </p>
+                    <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
+                        <Button size="lg" className="mt-6">
+                            <Send className="mr-2 h-5 w-5"/> Join Discussion
+                        </Button>
+                    </a>
                 </div>
-                <p className="text-center text-xs text-muted-foreground mt-6">and many more...</p>
-             </div>
+                <Carousel 
+                    className="w-full"
+                    plugins={[plugin.current]}
+                    onMouseEnter={() => plugin.current.stop()}
+                    onMouseLeave={() => plugin.current.play()}
+                    opts={{ loop: true }}
+                >
+                    <CarouselContent>
+                      {companyChunks.map((chunk, i) => (
+                        <CarouselItem key={i}>
+                          <div className="grid grid-cols-3 sm:grid-cols-4 gap-4 p-4">
+                            {chunk.map((logo) => (
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2" title={logo.name}>
+                                <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                              </div>
+                            ))}
+                          </div>
+                        </CarouselItem>
+                      ))}
+                    </CarouselContent>
+                </Carousel>
+            </div>
           </section>
 
           <section className="mb-16">
@@ -329,26 +361,6 @@ export function CommunityPageContent({
                 </Card>
               ))}
             </div>
-          </section>
-
-           <section className="mb-16">
-            <Card className="bg-secondary/40 border-dashed">
-              <CardContent className="p-8 text-center">
-                <div className="mx-auto bg-primary/10 p-3 rounded-full w-fit mb-4">
-                  <MessageSquare className="h-8 w-8 text-primary" />
-                </div>
-                <h3 className="text-2xl font-bold text-primary mb-2">Join the Conversation</h3>
-                <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
-                  Our main Telegram group is a vibrant hub for Web3 professionals to network, share insights, and discuss the latest trends.
-                </p>
-                <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer" className="inline-block">
-                  <Button size="lg">
-                    <Send className="mr-2 h-5 w-5" />
-                    Discussion & Updates Group on Telegram
-                  </Button>
-                </a>
-              </CardContent>
-            </Card>
           </section>
           
           <section className="mb-16">
