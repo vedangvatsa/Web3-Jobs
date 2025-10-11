@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/offer-letter-customizer',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-tools.png',
+        url: 'https://hashtagweb3.com/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Web3 Offer Letter Customizer',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Offer Letter Customizer | Hashtag Web3',
+    title: 'Web3 Offer Letter Customizer',
     description: 'Create professional offer letters for Web3 roles in seconds.',
-    images: ['https://hashtagweb3.com/og-image-tools.png'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 

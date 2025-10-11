@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/web3-career-quiz',
     images: [
       {
-        url: 'https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg',
+        url: 'https://hashtagweb3.com/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Web3 Archetype Assessment',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Archetype Assessment | Hashtag Web3',
+    title: 'Web3 Archetype Assessment',
     description: 'What\'s your Web3 personality? Take our assessment to find out.',
-    images: ['https://hashtagweb3.com/logo/previews/Hashtag%20Web3%20Community.jpeg'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 

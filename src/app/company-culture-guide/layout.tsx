@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/company-culture-guide',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-tools.png',
+        url: 'https://hashtagweb3.com/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Company Culture Guide Builder',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Company Culture Guide Builder | Hashtag Web3',
+    title: 'Company Culture Guide Builder',
     description: 'Create a professional company culture guide in seconds.',
-    images: ['https://hashtagweb3.com/og-image-tools.png'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 
