@@ -534,18 +534,6 @@ export function CommunityPageContent({
                  <MediaCarousel logos={mediaLogos} />
              </div>
           </section>
-
-          <section className="text-center py-16 bg-primary/5 rounded-lg mt-16">
-             <h2 className="text-3xl font-bold text-primary mb-2">Connect with our representative</h2>
-             <p className="text-muted-foreground mb-8">Share your requirements, and we’ll recommend the most effective strategy.</p>
-             <div className="flex justify-center gap-4">
-                <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
-                    <Button size="lg">
-                        <Send className="mr-2 h-5 w-5"/> Contact on Telegram
-                    </Button>
-                </a>
-             </div>
-          </section>
         </div>
         
         <div className="py-16 bg-secondary/40 mt-16">
@@ -593,3 +581,5 @@ export function CommunityPageContent({
       </div>
   );
 }
+
+    
