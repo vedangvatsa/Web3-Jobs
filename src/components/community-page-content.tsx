@@ -8,7 +8,7 @@ import { ArrowRight, Briefcase, BookOpen, Newspaper, Rss, MessageSquare, Linkedi
 import { JobCard } from '@/components/job-card';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
 import Image from 'next/image';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
+import { TransitioningHeadline } from './transitioning-headline';
 import { MediaCarousel } from './media-carousel';
 import { useState, useEffect, useRef } from 'react';
 import { Skeleton } from '@/components/ui/skeleton';
@@ -226,6 +226,27 @@ const whatsappGroups = [
     { region: 'India', link: 'https://chat.whatsapp.com/JrUfhcam2piAb1MHtfBNKB' },
 ];
 
+const testimonials = [
+  {
+    quote: "Their Web3 Jobs Telegram channel has proven to be the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new opportunities the moment they are available on the market, significantly improving the visibility of my applications.",
+    author: "Suki Cheung",
+    title: "Community Lead, Trust Wallet",
+    image: "/logo/quotes/suki.png"
+  },
+  {
+    quote: "We’ve got many mails, there’s a new one per 5 mins.",
+    author: "Kris Lai",
+    title: "CEO, Scallop",
+    image: "/logo/quotes/kris.png"
+  },
+  {
+    quote: "Our agency has been using the job board for the past year, and we’ve tripled our speed in closing roles thanks to their high-quality talent pool.",
+    author: "Zhanna Manzyk",
+    title: "CEO, Jaya Talent",
+    image: "/logo/quotes/zhanna.png"
+  }
+];
+
 const headlines = [
     "Connecting The Web3 Ecosystem",
     "A Thriving Global Network",
@@ -403,44 +424,23 @@ export function CommunityPageContent({
              </div>
           </section>
 
-           <section className="mb-16">
-                <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
-                    <CardContent className="p-8 text-center">
-                        <p className="text-xl font-medium italic">“Their Web3 Jobs Telegram channel has proven to be the most effective Web3 job board I’ve come across. Its real-time updates allow me to apply to new opportunities the moment they are available on the market, significantly improving the visibility of my applications.”</p>
-                        <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/suki.png" alt="Photo of Suki Cheung" width={64} height={64} className="rounded-full mx-auto" />
-                        </div>
-                        <p className="font-semibold">Suki Cheung</p>
-                        <p className="text-sm text-muted-foreground">Community Lead, Trust Wallet</p>
+          <section className="mb-16">
+            <h2 className="text-3xl font-bold text-center text-primary mb-8">What Our Community Says</h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
+              {testimonials.map((testimonial, i) => (
+                 <Card key={i} className="bg-secondary/40 border-0 shadow-lg flex flex-col">
+                    <CardContent className="p-8 text-center flex-grow flex flex-col justify-center">
+                        <p className="font-medium italic text-lg">“{testimonial.quote}”</p>
                     </CardContent>
-                </Card>
-            </section>
-          
-          <section className="mb-16 bg-white rounded-lg py-8">
-             <div className="max-w-6xl mx-auto px-8">
-                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
-                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
-                    {partnersLogos.map((logo) => (
-                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
-                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized />
-                        </div>
-                    ))}
-                </div>
-             </div>
+                    <CardFooter className="flex-col text-center pt-4 border-t">
+                       <Image src={testimonial.image} alt={`Photo of ${testimonial.author}`} width={64} height={64} className="rounded-full mx-auto mb-4" />
+                       <p className="font-semibold">{testimonial.author}</p>
+                       <p className="text-sm text-muted-foreground">{testimonial.title}</p>
+                    </CardFooter>
+                 </Card>
+              ))}
+            </div>
           </section>
-
-            <section className="mb-16">
-                <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
-                    <CardContent className="p-8 text-center">
-                        <p className="text-2xl font-medium italic">“We’ve got many mails, there’s a new one per 5 mins”</p>
-                         <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/kris.png" alt="Photo of Kris Lai" width={64} height={64} className="rounded-full mx-auto" />
-                        </div>
-                        <p className="font-semibold">Kris Lai</p>
-                        <p className="text-sm text-muted-foreground">CEO, Scallop</p>
-                    </CardContent>
-                </Card>
-            </section>
 
           <section className="mb-16 bg-white rounded-lg py-8">
              <div className="max-w-6xl mx-auto px-8">
@@ -457,17 +457,17 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-                <Card className="bg-secondary/40 border-0 shadow-lg max-w-3xl mx-auto">
-                    <CardContent className="p-8 text-center">
-                        <p className="text-xl font-medium italic">“Our agency has been using the job board for the past year, and we’ve tripled our speed in closing roles thanks to their high-quality talent pool.”</p>
-                        <div className="mt-6 mb-2">
-                            <Image src="/logo/quotes/zhanna.png" alt="Photo of Zhanna Manzyk" width={64} height={64} className="rounded-full mx-auto" />
+             <div className="max-w-6xl mx-auto px-8">
+                 <h3 className="text-center text-sm font-semibold text-muted-foreground tracking-wider uppercase mb-6">Partners</h3>
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-x-12 gap-y-8 items-center justify-center">
+                    {partnersLogos.map((logo) => (
+                        <div key={logo.name} className="relative h-12 w-full" title={logo.name}>
+                            <Image src={logo.src} alt={logo.alt} fill className="object-contain" unoptimized />
                         </div>
-                        <p className="font-semibold">Zhanna Manzyk</p>
-                        <p className="text-sm text-muted-foreground">CEO, Jaya Talent</p>
-                    </CardContent>
-                </Card>
-            </section>
+                    ))}
+                </div>
+             </div>
+          </section>
 
           <section className="text-center py-16 bg-primary/5 rounded-lg">
              <h2 className="text-3xl font-bold text-primary mb-2">Connect with our representative</h2>
