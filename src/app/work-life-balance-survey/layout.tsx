@@ -1,5 +1,5 @@
 
-import type { Metadata from 'next';
+import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Work-Life Balance Survey Builder',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Work-Life Balance Survey Builder',
-    description: 'Create a survey to assess and improve your team\'s work-life balance.',
+    description: "Create a survey to assess and improve your team's work-life balance.",
     images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
