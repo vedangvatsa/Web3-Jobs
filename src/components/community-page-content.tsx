@@ -258,6 +258,28 @@ const headlines = [
     "Your Partner in Growth"
 ];
 
+const CompactJobItem = ({ job }: { job: Job }) => (
+  <a href={job.link} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-lg hover:bg-secondary transition-colors">
+    <p className="font-semibold truncate text-sm">{job.title}</p>
+    <p className="text-xs text-muted-foreground">{job.company}</p>
+  </a>
+);
+
+const CompactNewsItem = ({ item }: { item: NewsItem }) => (
+  <a href={item.link} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-lg hover:bg-secondary transition-colors">
+    <p className="font-semibold truncate text-sm">{item.title}</p>
+    <p className="text-xs text-muted-foreground">{item.source}</p>
+  </a>
+);
+
+const CompactArticleItem = ({ article }: { article: Omit<Article, 'content'> }) => (
+  <Link href={`/${article.slug}`} className="block p-3 rounded-lg hover:bg-secondary transition-colors">
+    <p className="font-semibold truncate text-sm">{article.title}</p>
+    <p className="text-xs text-muted-foreground">{article.category}</p>
+  </Link>
+);
+
+
 export function CommunityPageContent({ 
     latestJobs,
     latestArticles,
@@ -298,7 +320,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-             <Card className="bg-card">
+             <Card className="bg-card/60 backdrop-blur-xl">
                 <CardContent className="p-8">
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                         {stats.map((stat) => (
@@ -316,9 +338,9 @@ export function CommunityPageContent({
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <div>
                     <p className="text-primary font-semibold tracking-wider">JOIN THE CONVERSATION</p>
-                    <h2 className="text-4xl font-bold mt-2">Join Our Global Community</h2>
+                    <h2 className="text-4xl font-bold mt-2">Join Our 100k+ Global Community</h2>
                     <p className="mt-4 text-muted-foreground">
-                        Our network of over 100,000 Web3 professionals is a vibrant hub for networking, sharing insights, and discussing the latest trends in the decentralized world. Join the conversation on Telegram today.
+                        Our network is a vibrant hub for over 100,000 Web3 professionals to network, share insights, and discuss the latest trends in the decentralized world. Join the conversation on Telegram today.
                     </p>
                     <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
                         <Button size="lg" className="mt-6">
@@ -361,7 +383,7 @@ export function CommunityPageContent({
                             </div>
                             <div>
                                 <h3 className="text-lg font-semibold">{channel.title}</h3>
-                                <p className="mt-1 text-muted-foreground">{channel.description}</p>
+                                <p className="mt-1 text-muted-foreground text-sm">{channel.description}</p>
                             </div>
                         </div>
                     ))}
@@ -374,7 +396,7 @@ export function CommunityPageContent({
             <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
               {caseStudies.map(study => (
-                <Card key={study.title} className="overflow-hidden">
+                <Card key={study.title} className="overflow-hidden bg-card/60 backdrop-blur-xl">
                    <div className="relative h-56 w-full">
                      <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
                    </div>
@@ -421,7 +443,7 @@ export function CommunityPageContent({
                 {communityPhotos.map((photo, index) => (
                   <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
                     <div className="p-1">
-                      <Card className="overflow-hidden">
+                      <Card className="overflow-hidden bg-card/60 backdrop-blur-xl">
                         <CardContent className="flex aspect-square items-center justify-center p-0">
                           <Image
                             src={photo.src}
@@ -452,7 +474,7 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {partnersLogosChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card">
+                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card/60 backdrop-blur-xl">
                             {chunk.map((logo) => (
                               <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
@@ -480,7 +502,7 @@ export function CommunityPageContent({
             <h2 className="text-3xl font-bold text-center text-primary mb-8">What Our Community Says</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
               {testimonials.map((testimonial, i) => (
-                 <Card key={i} className="shadow-lg flex flex-col">
+                 <Card key={i} className="shadow-lg flex flex-col bg-card/60 backdrop-blur-xl">
                     <CardContent className="p-8 text-center flex-grow flex flex-col justify-center">
                         <p className="font-medium italic text-lg">“{testimonial.quote}”</p>
                     </CardContent>
@@ -515,7 +537,7 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {hiredCompaniesChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card/60 backdrop-blur-xl">
                             {chunk.map((logo) => (
                               <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
@@ -536,45 +558,41 @@ export function CommunityPageContent({
           </section>
         </div>
         
-        <div className="py-16 bg-card mt-16">
+        <div className="py-16 bg-card/60 backdrop-blur-xl mt-16">
             <div className="container mx-auto px-4">
-                 <div className="space-y-12">
-                    <section>
-                        <div className="flex justify-between items-center mb-6">
-                            <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Briefcase/> Latest Jobs</h2>
+                <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                    {/* Latest Jobs */}
+                    <div className="lg:col-span-1">
+                        <h2 className="text-2xl font-bold text-primary flex items-center gap-3 mb-4"><Briefcase/> Latest Jobs</h2>
+                        <div className="space-y-2">
+                            {latestJobs.slice(0, 10).map(job => <CompactJobItem key={job.id} job={job} />)}
                         </div>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
-                            {latestJobs.slice(0, 15).map(job => <JobCard key={job.id} job={job} />)}
-                        </div>
-                         <Button variant="outline" className="mt-6 w-full" asChild>
+                        <Button variant="outline" className="mt-4 w-full" asChild>
                            <Link href="/jobs">View all jobs <ArrowRight className="ml-2 h-4 w-4" /></Link>
                         </Button>
-                    </section>
-                    <section>
-                        <div className="flex justify-between items-center mb-6">
-                            <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><Newspaper /> Latest News</h2>
-                        </div>
+                    </div>
+
+                    {/* Latest News */}
+                    <div className="lg:col-span-1">
+                        <h2 className="text-2xl font-bold text-primary flex items-center gap-3 mb-4"><Newspaper /> Latest News</h2>
                         <div className="space-y-2">
-                            {latestNews.map((item, i) => <NewsCard key={i} item={item} />)}
+                            {latestNews.map((item, i) => <CompactNewsItem key={i} item={item} />)}
                         </div>
-                        <Button variant="outline" className="mt-6 w-full" asChild>
+                        <Button variant="outline" className="mt-4 w-full" asChild>
                            <Link href="/news">View all news <ArrowRight className="ml-2 h-4 w-4" /></Link>
                         </Button>
-                    </section>
-                </div>
+                    </div>
 
-                <div className="mt-16">
-                    <section>
-                        <div className="flex justify-between items-center mb-6">
-                            <h2 className="text-3xl font-bold text-primary flex items-center gap-3"><BookOpen /> From the Playbook</h2>
-                            <Button variant="ghost" asChild>
-                            <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
-                            </Button>
+                    {/* From the Playbook */}
+                    <div className="lg:col-span-1">
+                        <h2 className="text-2xl font-bold text-primary flex items-center gap-3 mb-4"><BookOpen /> From the Playbook</h2>
+                        <div className="space-y-2">
+                             {latestArticles.slice(0, 10).map(article => <CompactArticleItem key={article.slug} article={article} />)}
                         </div>
-                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                            {latestArticles.map(article => <ArticleCard key={article.slug} article={article} />)}
-                        </div>
-                    </section>
+                        <Button variant="outline" className="mt-4 w-full" asChild>
+                           <Link href="/blog">View all articles <ArrowRight className="ml-2 h-4 w-4" /></Link>
+                        </Button>
+                    </div>
                 </div>
             </div>
         </div>
