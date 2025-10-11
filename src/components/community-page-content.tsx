@@ -341,7 +341,7 @@ export function CommunityPageContent({
                     <p className="text-primary font-semibold tracking-wider">JOIN THE CONVERSATION</p>
                     <h2 className="text-4xl font-bold mt-2">Join Our 100k+ Global Community</h2>
                     <p className="mt-4 text-muted-foreground">
-                        Our network is a vibrant hub for over 100,000 Web3 professionals to network, share insights, and discuss the latest trends in the decentralized world. Join the conversation on Telegram today.
+                        Our network is a vibrant hub for over 100,000 Web3 professionals to network, share insights, and discuss the latest trends in the decentralized world. Join the conversation today.
                     </p>
                     <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
                         <Button size="lg" className="mt-6">
@@ -372,46 +372,61 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-8">Multi-Channel Presence</h2>
-            <div className="max-w-4xl mx-auto">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-10">
-                    {channels.map((channel, i) => (
-                        <div key={i} className="flex gap-4">
-                            <div className="flex-shrink-0">
-                                <div className="flex items-center justify-center h-12 w-12 rounded-lg bg-primary/10">
-                                    <channel.icon className="h-6 w-6 text-primary" />
-                                </div>
-                            </div>
-                            <div>
-                                <h3 className="text-lg font-semibold">{channel.title}</h3>
-                                <p className="mt-1 text-muted-foreground text-sm">{channel.description}</p>
-                            </div>
-                        </div>
-                    ))}
-                </div>
-            </div>
+              <h2 className="text-3xl font-bold text-center text-primary mb-8">Multi-Channel Presence</h2>
+              <div className="max-w-5xl mx-auto">
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-10">
+                      {channels.map((channel, i) => (
+                          <div key={i} className="flex gap-6">
+                              <div className="flex-shrink-0">
+                                  <div className="flex items-center justify-center h-14 w-14 rounded-xl bg-primary/10">
+                                      <channel.icon className="h-7 w-7 text-primary" />
+                                  </div>
+                              </div>
+                              <div>
+                                  <h3 className="text-lg font-semibold">{channel.title}</h3>
+                                  <p className="mt-1 text-muted-foreground text-sm leading-relaxed">{channel.description}</p>
+                              </div>
+                          </div>
+                      ))}
+                  </div>
+              </div>
           </section>
           
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Case Studies</h2>
             <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-              {caseStudies.map(study => (
-                <Card key={study.title} className="overflow-hidden bg-card/60 backdrop-blur-xl">
-                   <div className="relative h-56 w-full">
-                     <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
-                   </div>
-                   <CardHeader>
-                        <CardTitle>{study.title}</CardTitle>
-                   </CardHeader>
-                   <CardContent>
-                        <ul className="space-y-2 text-muted-foreground list-disc pl-5">
-                            {study.points.map((point, i) => <li key={i}>{point}</li>)}
-                        </ul>
-                   </CardContent>
-                </Card>
-              ))}
-            </div>
+             <Carousel
+                className="w-full max-w-6xl mx-auto"
+                opts={{
+                    align: "start",
+                    loop: true,
+                }}
+                plugins={[Autoplay({ delay: 5000, stopOnInteraction: true })]}
+            >
+                <CarouselContent>
+                    {caseStudies.map(study => (
+                        <CarouselItem key={study.title} className="md:basis-1/2 lg:basis-1/3">
+                            <div className="p-1 h-full">
+                                <Card className="overflow-hidden bg-card/60 backdrop-blur-xl h-full flex flex-col">
+                                   <div className="relative h-56 w-full">
+                                     <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai-hint} unoptimized/>
+                                   </div>
+                                   <CardHeader>
+                                        <CardTitle>{study.title}</CardTitle>
+                                   </CardHeader>
+                                   <CardContent className="flex-grow">
+                                        <ul className="space-y-2 text-muted-foreground list-disc pl-5">
+                                            {study.points.map((point, i) => <li key={i}>{point}</li>)}
+                                        </ul>
+                                   </CardContent>
+                                </Card>
+                            </div>
+                        </CarouselItem>
+                    ))}
+                </CarouselContent>
+                <CarouselPrevious className="hidden lg:flex" />
+                <CarouselNext className="hidden lg:flex" />
+            </Carousel>
           </section>
 
           <section className="mb-16">
@@ -597,3 +612,5 @@ export function CommunityPageContent({
       </div>
   );
 }
+
+    
