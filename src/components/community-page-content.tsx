@@ -298,7 +298,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-             <Card className="bg-background/60 backdrop-blur-lg border border-white/10 shadow-lg">
+             <Card className="bg-card">
                 <CardContent className="p-8">
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
                         {stats.map((stat) => (
@@ -316,9 +316,9 @@ export function CommunityPageContent({
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <div>
                     <p className="text-primary font-semibold tracking-wider">JOIN THE CONVERSATION</p>
-                    <h2 className="text-4xl font-bold mt-2">Join Our Telegram Community</h2>
+                    <h2 className="text-4xl font-bold mt-2">Join Our Global Community</h2>
                     <p className="mt-4 text-muted-foreground">
-                        Our main Telegram group is a vibrant hub for over 21,000 Web3 professionals to network, share insights, and discuss the latest trends in the decentralized world.
+                        Our network of over 100,000 Web3 professionals is a vibrant hub for networking, sharing insights, and discussing the latest trends in the decentralized world. Join the conversation on Telegram today.
                     </p>
                     <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
                         <Button size="lg" className="mt-6">
@@ -334,9 +334,9 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {companyChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-card">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary">
                             {chunk.map((logo) => (
-                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                               </div>
                             ))}
@@ -374,7 +374,7 @@ export function CommunityPageContent({
             <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
               {caseStudies.map(study => (
-                <Card key={study.title} className="overflow-hidden bg-background/60 backdrop-blur-lg border border-white/10">
+                <Card key={study.title} className="overflow-hidden">
                    <div className="relative h-56 w-full">
                      <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
                    </div>
@@ -421,7 +421,7 @@ export function CommunityPageContent({
                 {communityPhotos.map((photo, index) => (
                   <CarouselItem key={index} className="md:basis-1/2 lg:basis-1/3">
                     <div className="p-1">
-                      <Card className="overflow-hidden bg-background/60 backdrop-blur-lg border border-white/10">
+                      <Card className="overflow-hidden">
                         <CardContent className="flex aspect-square items-center justify-center p-0">
                           <Image
                             src={photo.src}
@@ -480,11 +480,11 @@ export function CommunityPageContent({
             <h2 className="text-3xl font-bold text-center text-primary mb-8">What Our Community Says</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
               {testimonials.map((testimonial, i) => (
-                 <Card key={i} className="bg-background/60 backdrop-blur-lg border border-white/10 shadow-lg flex flex-col">
+                 <Card key={i} className="shadow-lg flex flex-col">
                     <CardContent className="p-8 text-center flex-grow flex flex-col justify-center">
                         <p className="font-medium italic text-lg">“{testimonial.quote}”</p>
                     </CardContent>
-                    <CardFooter className="flex-col text-center pt-4 border-t">
+                    <CardFooter className="flex-col text-center pt-4 border-t bg-secondary/50">
                        <Image src={testimonial.image} alt={`Photo of ${testimonial.author}`} width={64} height={64} className="rounded-full mx-auto mb-4" />
                        <p className="font-semibold">{testimonial.author}</p>
                        <p className="text-sm text-muted-foreground">{testimonial.title}</p>
