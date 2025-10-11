@@ -104,7 +104,7 @@ export default function EmployeeOnboardingChecklistPage() {
     };
 
   return (
-    <div className="flex flex-col min-h-screen bg-secondary/30">
+    <div className="flex flex-col min-h-screen">
       <Header />
       <main className="flex-1">
         <div className="container mx-auto px-4 py-8 md:py-16">
@@ -119,7 +119,7 @@ export default function EmployeeOnboardingChecklistPage() {
           <div className="max-w-5xl mx-auto space-y-8">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               {checklistData.sections.map((section, sectionIndex) => (
-                <Card key={section.title} className="flex flex-col">
+                <Card key={section.title} className="flex flex-col bg-card">
                   <CardHeader>
                     <CardTitle className="flex items-center gap-3">
                       <div className="bg-primary/10 p-2 rounded-lg">

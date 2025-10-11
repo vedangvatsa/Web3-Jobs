@@ -107,7 +107,7 @@ export default function NewsPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(newsArticlesSchema) }}
       />
-      <div className="flex flex-col min-h-screen bg-secondary/30">
+      <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-1">
           <div className="container mx-auto px-4 py-8 md:py-16">
@@ -127,7 +127,7 @@ export default function NewsPage() {
                   [...Array(10)].map((_, i) => <NewsCardSkeleton key={i} />)
                 ) : (
                   newsItems.map((item, index) => (
-                    <Card key={index} className="transition-all duration-300 hover:shadow-lg">
+                    <Card key={index} className="transition-all duration-300 hover:shadow-lg bg-card">
                       <CardHeader>
                         <div className="flex items-center justify-between gap-2 mb-2">
                           <Badge variant={

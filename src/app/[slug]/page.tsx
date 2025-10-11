@@ -110,7 +110,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   };
 
   return (
-    <div className="flex flex-col min-h-screen bg-background">
+    <div className="flex flex-col min-h-screen">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -141,7 +141,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <ArticleContent content={article.content} />
                 </div>
 
-                <Card className="bg-secondary/40 border-dashed">
+                <Card className="bg-card border-dashed">
                   <CardContent className="p-8 text-center">
                       <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
                       <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
