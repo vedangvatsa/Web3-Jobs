@@ -311,7 +311,7 @@ export function CommunityPageContent({
              </Card>
           </section>
 
-          <section className="mb-16 bg-white rounded-lg py-12">
+          <section className="mb-16 rounded-lg py-12">
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <div>
                     <p className="text-primary font-semibold tracking-wider">JOIN THE CONVERSATION</p>
@@ -333,7 +333,7 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {companyChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4">
+                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-white">
                             {chunk.map((logo) => (
                               <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-secondary/40 rounded-md" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
@@ -439,7 +439,7 @@ export function CommunityPageContent({
             </Carousel>
           </section>
 
-          <section className="mb-16 bg-white rounded-lg py-12">
+          <section className="mb-16 rounded-lg py-12">
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <Carousel 
                     className="w-full"
