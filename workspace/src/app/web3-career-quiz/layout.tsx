@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Web3 Archetype Assessment',
-    description: 'What\'s your Web3 personality? Take our assessment to find out.',
+    description: "What's your Web3 personality? Take our assessment to find out.",
     url: 'https://hashtagweb3.com/web3-career-quiz',
     images: [
       {
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Web3 Archetype Assessment',
-    description: 'What\'s your Web3 personality? Take our assessment to find out.',
+    description: "What's your Web3 personality? Take our assessment to find out.",
     images: ['https://hashtagweb3.com/og-image-quiz.png'],
   },
 };
