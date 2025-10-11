@@ -121,7 +121,7 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
       </section>
 
       <div className="max-w-7xl mx-auto">
-        <Card className="p-4 mb-8 sticky top-20 z-10 shadow-lg bg-background border-b">
+        <Card className="p-4 mb-8 sticky top-20 z-10 shadow-lg backdrop-blur-sm bg-background/80 border-b">
           <div className="flex flex-col gap-4">
               <div className="relative">
                   <Input
