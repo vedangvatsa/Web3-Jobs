@@ -260,21 +260,21 @@ const headlines = [
 ];
 
 const CompactJobItem = ({ job }: { job: Job }) => (
-  <a href={job.link} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-lg hover:bg-secondary transition-colors">
+  <a href={job.link} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-lg hover:bg-secondary transition-colors text-center">
     <p className="font-semibold truncate text-sm">{job.title}</p>
     <p className="text-xs text-muted-foreground">{job.company}</p>
   </a>
 );
 
 const CompactNewsItem = ({ item }: { item: NewsItem }) => (
-  <a href={item.link} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-lg hover:bg-secondary transition-colors">
+  <a href={item.link} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-lg hover:bg-secondary transition-colors text-center">
     <p className="font-semibold truncate text-sm">{item.title}</p>
     <p className="text-xs text-muted-foreground">{item.source}</p>
   </a>
 );
 
 const CompactArticleItem = ({ article }: { article: Omit<Article, 'content'> }) => (
-  <Link href={`/${article.slug}`} className="block p-3 rounded-lg hover:bg-secondary transition-colors">
+  <Link href={`/${article.slug}`} className="block p-3 rounded-lg hover:bg-secondary transition-colors text-center">
     <p className="font-semibold truncate text-sm">{article.title}</p>
     <p className="text-xs text-muted-foreground">{article.category}</p>
   </Link>
@@ -395,8 +395,27 @@ export function CommunityPageContent({
           <section className="mb-16">
             <h2 className="text-3xl font-bold text-center text-primary mb-2">Case Studies</h2>
             <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
+            <div className="hidden md:grid md:grid-cols-3 gap-4 max-w-6xl mx-auto">
+                 {caseStudies.map(study => (
+                    <div key={study.title} className="p-1 h-full">
+                        <Card className="overflow-hidden bg-card/60 backdrop-blur-xl h-full flex flex-col">
+                           <div className="relative h-56 w-full">
+                             <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
+                           </div>
+                           <CardHeader>
+                                <CardTitle>{study.title}</CardTitle>
+                           </CardHeader>
+                           <CardContent className="flex-grow">
+                                <ul className="space-y-2 text-muted-foreground list-disc pl-5">
+                                    {study.points.map((point, i) => <li key={i}>{point}</li>)}
+                                </ul>
+                           </CardContent>
+                        </Card>
+                    </div>
+                ))}
+            </div>
              <Carousel
-                className="w-full max-w-6xl mx-auto"
+                className="w-full max-w-6xl mx-auto md:hidden"
                 opts={{
                     align: "start",
                     loop: true,
