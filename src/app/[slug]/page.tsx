@@ -118,7 +118,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <Header />
       <main className="flex-1">
         <article className="container mx-auto px-4 py-8">
-          <div className="max-w-3xl mx-auto bg-background/60 backdrop-blur-xl border border-white/10 rounded-xl p-4 sm:p-8">
+          <div className="max-w-5xl mx-auto bg-card/70 backdrop-blur-xl border border-white/10 rounded-xl p-4 sm:p-8">
              <Suspense fallback={<div>Loading...</div>}>
                 <header className="mb-8">
                   <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">

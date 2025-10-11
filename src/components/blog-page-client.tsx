@@ -1,4 +1,3 @@
-
 'use client';
 
 import { useState, useMemo, useTransition } from 'react';
@@ -15,7 +14,7 @@ import { Skeleton } from '@/components/ui/skeleton';
 
 function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
   return (
-    <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl h-full bg-background/60 backdrop-blur-lg border border-white/10">
+    <Card className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl h-full">
       <Link href={`/${article.slug}`} className="block h-full flex flex-col">
         <div className="relative w-full h-48">
           <Image
@@ -39,7 +38,7 @@ function ArticleCard({ article }: { article: Omit<Article, 'content'> }) {
 
 function ArticleCardSkeleton() {
     return (
-        <Card className="flex flex-col h-full bg-background/60 backdrop-blur-lg border border-white/10">
+        <Card className="flex flex-col h-full">
             <Skeleton className="w-full h-48 rounded-t-lg" />
             <CardHeader>
                 <Skeleton className="h-4 w-1/4 mb-2" />
@@ -121,7 +120,7 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
       </section>
 
       <div className="max-w-7xl mx-auto">
-        <Card className="p-4 mb-8 sticky top-20 z-10 shadow-lg backdrop-blur-xl bg-background/70 border border-white/10">
+        <Card className="p-4 mb-8 sticky top-20 z-10 shadow-lg backdrop-blur-sm bg-background/80 border-b">
           <div className="flex flex-col gap-4">
               <div className="relative">
                   <Input
@@ -158,13 +157,13 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
         </div>
         
         {!isPending && filteredArticles.length === 0 && (
-            <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full mt-8 bg-background/50">
+            <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full mt-8">
                 <h3 className="text-xl font-semibold">No Articles Found</h3>
                 <p className="text-muted-foreground mt-2">Try adjusting your search query or filters.</p>
             </div>
         )}
 
-        <Card className="mt-12 col-span-full bg-primary/5 border-primary/20 backdrop-blur-lg">
+        <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
           <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
               <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
                   <Rss className="h-8 w-8 text-primary"/>
