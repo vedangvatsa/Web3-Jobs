@@ -117,47 +117,49 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       />
       <Header />
       <main className="flex-1">
-        <article className="container mx-auto px-4 py-8">
-          <div className="max-w-5xl mx-auto bg-card/70 backdrop-blur-xl border border-white/10 rounded-xl p-4 sm:p-8">
-             <Suspense fallback={<div>Loading...</div>}>
-                <header className="mb-8">
-                  <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">
-                    {article.title}
-                  </h1>
-                  <p className="text-lg text-muted-foreground">
-                    {article.description}
-                  </p>
-                </header>
-                <Image
-                  src={article.image}
-                  alt={`${article.title} - Hashtag Web3 article cover`}
-                  width={1200}
-                  height={630}
-                  className="rounded-lg shadow-xl mb-8"
-                  priority
-                  data-ai-hint={`${article['data-ai-hint'] || ''}`}
-                />
-                <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
-                  <ArticleContent content={article.content} />
-                </div>
-
-                <Card className="bg-card border-dashed backdrop-blur-none">
-                  <CardContent className="p-8 text-center">
-                      <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
-                      <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
-                          Get the best Web3, crypto, and blockchain jobs delivered directly to you. Join our Telegram channel with over 58,000 subscribers.
+        <div className="bg-background">
+            <article className="container mx-auto px-4 py-8">
+              <div className="max-w-5xl mx-auto p-4 sm:p-8">
+                 <Suspense fallback={<div>Loading...</div>}>
+                    <header className="mb-8">
+                      <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">
+                        {article.title}
+                      </h1>
+                      <p className="text-lg text-muted-foreground">
+                        {article.description}
                       </p>
-                      <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
-                          <Button size="lg">
-                              <Rss className="mr-2 h-5 w-5" />
-                              Join Web3 Jobs Feed
-                          </Button>
-                      </a>
-                  </CardContent>
-                </Card>
-             </Suspense>
-          </div>
-        </article>
+                    </header>
+                    <Image
+                      src={article.image}
+                      alt={`${article.title} - Hashtag Web3 article cover`}
+                      width={1200}
+                      height={630}
+                      className="rounded-lg shadow-xl mb-8"
+                      priority
+                      data-ai-hint={`${article['data-ai-hint'] || ''}`}
+                    />
+                    <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
+                      <ArticleContent content={article.content} />
+                    </div>
+
+                    <Card className="bg-card border-dashed backdrop-blur-none">
+                      <CardContent className="p-8 text-center">
+                          <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
+                          <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
+                              Get the best Web3, crypto, and blockchain jobs delivered directly to you. Join our Telegram channel with over 58,000 subscribers.
+                          </p>
+                          <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
+                              <Button size="lg">
+                                  <Rss className="mr-2 h-5 w-5" />
+                                  Join Web3 Jobs Feed
+                              </Button>
+                          </a>
+                      </CardContent>
+                    </Card>
+                 </Suspense>
+              </div>
+            </article>
+        </div>
       </main>
     </div>
   );

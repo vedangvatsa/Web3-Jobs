@@ -37,9 +37,11 @@ export default async function PlaybookIndexPage() {
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-1">
-          <Suspense fallback={<div>Loading...</div>}>
-            <BlogPageClient allArticles={allArticles} categories={categories} />
-          </Suspense>
+          <div className="bg-background">
+            <Suspense fallback={<div>Loading...</div>}>
+              <BlogPageClient allArticles={allArticles} categories={categories} />
+            </Suspense>
+          </div>
         </main>
       </div>
     </div>
