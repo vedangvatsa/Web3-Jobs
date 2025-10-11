@@ -449,17 +449,25 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-2">Join Our Regional WhatsApp Groups</h2>
-            <p className="text-center text-muted-foreground mb-8 max-w-3xl mx-auto">Connect with awesome Web3 folks in your region. Please note: You will only be approved for the group that matches your WhatsApp number's country code.</p>
-            <div className="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
-              {whatsappGroups.map((group) => (
-                <a href={group.link} key={group.region} target="_blank" rel="noopener noreferrer">
-                  <Button variant="outline" className="w-full h-12 text-base">
-                    <Smartphone className="mr-2 h-5 w-5" /> {group.region}
-                  </Button>
-                </a>
-              ))}
-            </div>
+            <Card className="bg-card/60 backdrop-blur-xl">
+                <CardHeader>
+                    <CardTitle className="text-2xl font-bold text-center text-primary">Join Our Regional WhatsApp Groups</CardTitle>
+                    <CardDescription className="text-center max-w-2xl mx-auto">
+                        Connect with awesome Web3 folks in your region. Please note: You will only be approved for the group that matches your WhatsApp number's country code.
+                    </CardDescription>
+                </CardHeader>
+                <CardContent>
+                    <div className="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-4xl mx-auto">
+                        {whatsappGroups.map((group) => (
+                            <a href={group.link} key={group.region} target="_blank" rel="noopener noreferrer">
+                                <Button variant="outline" className="w-full h-12 text-base">
+                                    <Smartphone className="mr-2 h-5 w-5" /> {group.region}
+                                </Button>
+                            </a>
+                        ))}
+                    </div>
+                </CardContent>
+            </Card>
           </section>
 
           <section className="mb-16">
@@ -633,3 +641,5 @@ export function CommunityPageContent({
 }
 
     
+
+  
