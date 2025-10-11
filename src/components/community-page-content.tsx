@@ -333,9 +333,9 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {companyChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-white">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg bg-secondary/40">
                             {chunk.map((logo) => (
-                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-secondary/40 rounded-md" title={logo.name}>
+                              <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-white rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
                               </div>
                             ))}
@@ -590,3 +590,5 @@ export function CommunityPageContent({
       </div>
   );
 }
+
+    
