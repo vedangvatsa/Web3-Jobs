@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/interview-questions',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-interview.png',
+        url: 'https://hashtagweb3.com/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Web3 Interview Question Bank',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Interview Question Bank | Hashtag Web3',
+    title: 'Web3 Interview Question Bank',
     description: 'Ace your next Web3 interview with our comprehensive question bank.',
-    images: ['https://hashtagweb3.com/og-image-interview.png'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 

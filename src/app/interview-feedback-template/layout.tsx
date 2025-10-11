@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/interview-feedback-template',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-tools.png',
+        url: 'https://hashtagweb3.com/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Interview Feedback Template',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Interview Feedback Template | Hashtag Web3',
+    title: 'Interview Feedback Template',
     description: 'Create structured interview feedback forms in seconds.',
-    images: ['https://hashtagweb3.com/og-image-tools.png'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 

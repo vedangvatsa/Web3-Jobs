@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/jd-builder',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-tools.png',
+        url: 'https://hashtagweb3.com/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Web3 Job Description Builder',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Job Description Builder | Hashtag Web3',
+    title: 'Web3 Job Description Builder',
     description: 'Craft the perfect job description to attract top Web3 talent.',
-    images: ['https://hashtagweb3.com/og-image-tools.png'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 

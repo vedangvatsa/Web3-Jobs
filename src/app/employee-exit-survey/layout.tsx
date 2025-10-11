@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/employee-exit-survey',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-tools.png',
+        url: 'https://hashtagweb3.com/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Employee Exit Survey Tool',
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Employee Exit Survey Tool | Hashtag Web3',
+    title: 'Employee Exit Survey Tool',
     description: 'Create professional employee exit surveys in seconds.',
-    images: ['https://hashtagweb3.com/og-image-tools.png'],
+    images: ['https://hashtagweb3.com/og-image.png'],
   },
 };
 
