@@ -1,3 +1,4 @@
+
 'use client';
 
 import type { Job, Article, NewsItem } from '@/types';
@@ -322,7 +323,6 @@ export function CommunityPageContent({
           <section className="mb-16">
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <div>
-                    <p className="text-primary font-semibold tracking-wider">JOIN THE CONVERSATION</p>
                     <h2 className="text-4xl font-bold mt-2">Join Our 100k+ Global Community</h2>
                     <p className="mt-4 text-muted-foreground">
                         Our network is a vibrant hub for over 100,000 Web3 professionals to network, share insights, and discuss the latest trends in the decentralized world. Join the conversation today.
@@ -341,7 +341,7 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {companyChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4">
                             {chunk.map((logo) => (
                               <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
@@ -377,7 +377,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-              <h2 className="text-3xl font-bold text-center text-primary mb-8">Multi-Channel Presence</h2>
+              <h2 className="text-3xl font-bold text-center mb-8">Multi-Channel Presence</h2>
               <div className="max-w-5xl mx-auto">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-10">
                       {channels.map((channel, i) => (
@@ -398,7 +398,7 @@ export function CommunityPageContent({
           </section>
           
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-2">Case Studies</h2>
+            <h2 className="text-3xl font-bold text-center mb-2">Case Studies</h2>
             <p className="text-center text-muted-foreground mb-8">We’ve helped many companies find the right audience.</p>
             <Carousel
                 className="w-full max-w-6xl mx-auto"
@@ -457,7 +457,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-2">Community Moments</h2>
+            <h2 className="text-3xl font-bold text-center mb-2">Community Moments</h2>
             <p className="text-center text-muted-foreground mb-8">Highlights from events, partnerships, and community activities.</p>
             <Carousel 
               className="w-full max-w-5xl mx-auto"
@@ -503,7 +503,7 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {partnersLogosChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg">
+                          <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4">
                             {chunk.map((logo) => (
                               <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
@@ -515,8 +515,7 @@ export function CommunityPageContent({
                     </CarouselContent>
                 </Carousel>
                 <div>
-                    <p className="text-primary font-semibold tracking-wider">PROMOTE WITH US</p>
-                    <h2 className="text-4xl font-bold mt-2">Reach the Global Web3 Community</h2>
+                    <h2 className="text-4xl font-bold mt-2">Promote with Hashtag Web3</h2>
                     <p className="mt-4 text-muted-foreground">
                        Tap into our network of over 100,000 Web3 professionals. We help you connect with developers, investors, and early adopters through targeted campaigns, content collaborations, and community engagement.
                     </p>
@@ -528,7 +527,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-8"></h2>
+            <h2 className="text-3xl font-bold text-center mb-8">What Our Community Says</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
               {testimonials.map((testimonial, i) => (
                  <Card key={i} className="shadow-lg flex flex-col">
@@ -536,7 +535,7 @@ export function CommunityPageContent({
                         <p className="font-medium italic text-lg">“{testimonial.quote}”</p>
                     </CardContent>
                     <CardFooter className="flex-col text-center pt-4 border-t bg-secondary/50">
-                       <Image src={testimonial.image} alt={`Photo of ${testimonial.author}`} width={64} height={64} className="rounded-full mx-auto mb-4" />
+                       <Image src={testimonial.image} alt={`Photo of ${testimonial.author}`} width={64} height={64} className="rounded-full mx-auto mb-4 object-cover" />
                        <p className="font-semibold">{testimonial.author}</p>
                        <p className="text-sm text-muted-foreground">{testimonial.title}</p>
                     </CardFooter>
@@ -548,11 +547,10 @@ export function CommunityPageContent({
           <section className="py-16 px-4 rounded-lg">
             <div className="grid md:grid-cols-2 gap-8 items-center max-w-6xl mx-auto">
                 <div>
-                    <p className="text-primary font-semibold tracking-wider">REACH TOP TALENT</p>
                     <h2 className="text-4xl font-bold mt-2">Hire with Hashtag Web3</h2>
                     <p className="mt-4 text-muted-foreground">
                         We connect leading Web3 companies with our global network of over 100,000 crypto-native professionals. 
-                        Our platform is the go-to source for developers, marketers, PMs, etc. looking for their next role in the decentralized economy.
+                        Our platform is the go-to source for developers, marketers, and PMs looking for their next role in the decentralized economy.
                     </p>
                     <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
                         <Button size="lg" className="mt-6">Post a Job <ArrowRight className="ml-2" /></Button>
@@ -566,7 +564,7 @@ export function CommunityPageContent({
                     <CarouselContent>
                       {hiredCompaniesChunks.map((chunk, i) => (
                         <CarouselItem key={i}>
-                           <div className="grid grid-cols-4 grid-rows-3 gap-4 p-4 rounded-lg">
+                           <div className="grid grid-cols-4 grid-rows-3 gap-4">
                             {chunk.map((logo) => (
                               <div key={logo.name} className="relative h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm" title={logo.name}>
                                 <Image src={logo.src} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
@@ -584,7 +582,7 @@ export function CommunityPageContent({
         
         <div className="py-16 mt-16">
             <div className="container mx-auto px-4">
-                <Tabs defaultValue="jobs" className="w-full">
+                <Tabs defaultValue="jobs" className="w-full bg-card/70 backdrop-blur-xl border rounded-lg p-4">
                     <TabsList className="grid w-full grid-cols-3">
                         <TabsTrigger value="jobs"><Briefcase className="mr-2 h-4 w-4"/>Latest Jobs</TabsTrigger>
                         <TabsTrigger value="news"><Newspaper className="mr-2 h-4 w-4"/>Latest News</TabsTrigger>
