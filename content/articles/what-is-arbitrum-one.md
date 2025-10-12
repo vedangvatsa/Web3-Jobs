@@ -31,3 +31,22 @@ Arbitrum's architecture is based on the principle of moving transaction executio
 The main trade-off of the Optimistic Rollup model is the **long withdrawal time**. When a user wants to move their funds from Arbitrum back to the Ethereum mainnet, they must wait for the 7-day challenge period to complete. However, third-party "bridges" have emerged that allow users to bypass this waiting period for a small fee.
 
 Arbitrum One has established itself as a leader in the race to scale Ethereum. By offering a fast, cheap, and EVM-compatible environment, it has onboarded millions of users and billions of dollars in value, playing a crucial role in making the decentralized internet accessible to a mainstream audience.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Arbitrum?
+Arbitrum is a **[Layer 2 (L2) scaling solution](/guide-to-layer-2s)** for Ethereum. It processes transactions off-chain to make them faster and cheaper, then posts the data back to the main Ethereum chain to inherit its security.
+
+### 2. How does Arbitrum work?
+Arbitrum is an **Optimistic Rollup**. It "optimistically" assumes transactions are valid and uses a 7-day "challenge period" where anyone can submit a "fraud proof" to revert a fraudulent transaction.
+
+### 3. What is the main difference between Arbitrum (Optimistic) and a ZK-Rollup?
+An Optimistic Rollup uses fraud proofs and has a long withdrawal period. A **[ZK-Rollup](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum)** uses "validity proofs" (ZKPs) to mathematically prove every transaction is valid, allowing for instant withdrawals.
+
+### 4. Why would a developer build on Arbitrum?
+Developers build on Arbitrum to offer their users much lower transaction fees and faster confirmations than on Ethereum mainnet. Its high compatibility with the EVM makes it easy to migrate existing dApps.
+
+### 5. What is the ARB token used for?
+The ARB token is the native governance token for the Arbitrum ecosystem. Holders can participate in the **[Arbitrum DAO](/what-is-a-dao)** and vote on the future direction of the protocol.

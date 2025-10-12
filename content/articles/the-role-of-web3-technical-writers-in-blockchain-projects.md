@@ -60,7 +60,7 @@ A Web3 Technical Writer creates clear and accurate documentation for blockchain 
 You don't need to be a professional developer, but you must have a high degree of technical literacy. The ability to read and understand code (especially **[Solidity](/solidity-for-beginners)**) is essential for accurately documenting smart contracts.
 
 ### 3. What skills are most important for this role?
-The core skill is the ability to explain complex technical topics in simple, clear language. You also need a strong sense of empathy for your audience, a meticulous attention to detail, and a deep curiosity for how the technology works.
+The core skill is the ability to explain complex technical topics in simple, clear language. You also need a strong sense of empathy for your audience (whether developers or non-technical users), a meticulous attention to detail, and a deep curiosity for how the technology works.
 
 ### 4. How can I get experience as a Web3 technical writer?
 The best way is to build a public portfolio. Find an open-source project you admire, identify a gap or an unclear section in their documentation, and write a better version. Publishing this work on a blog or submitting it as a GitHub pull request is a powerful "proof of work."
