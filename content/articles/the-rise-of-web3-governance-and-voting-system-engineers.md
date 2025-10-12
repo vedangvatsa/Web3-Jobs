@@ -38,3 +38,22 @@ A Governance Engineer works on the "operating system" of a DAO.
 4.  **Contribute to Governance Tooling:** Many of the tools used by DAOs are open source. Contributing to a project like Snapshot or Tally is a powerful way to demonstrate your skills.
 
 The role of the Governance Engineer is for developers who are fascinated by the intersection of technology, economics, and political science. It's a chance to build the democratic infrastructure for the new internet, creating the systems that will allow decentralized communities to thrive.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What does a Web3 Governance Engineer do?
+A Governance Engineer is a specialized developer who builds and maintains the voting systems for **[DAOs](/what-is-a-dao)**. This includes writing the on-chain smart contracts (like the Governor and Timelock) and integrating with off-chain tools like Snapshot.
+
+### 2. What is a "Timelock" contract?
+A Timelock is a critical security feature in DAO governance. It's a smart contract that forces a time delay between when a governance proposal passes and when its code can be executed. This gives the community time to react to a potentially malicious proposal.
+
+### 3. What is Snapshot?
+Snapshot is a popular off-chain, gasless voting platform. DAOs use it for "temperature check" polls to gauge community sentiment on a proposal before moving to a binding, on-chain vote, which costs gas.
+
+### 4. What technical skills are required for this role?
+A Governance Engineer needs advanced **[Solidity](/solidity-for-beginners)** skills, a deep understanding of security and upgradeability patterns, and experience with standard DAO frameworks like OpenZeppelin Governor.
+
+### 5. How can I get started as a Governance Engineer?
+The best way is to actively participate in the governance of a major DAO. Read proposals, understand the debates, and analyze the technical implementations. Building your own simple DAO as a portfolio project is also an excellent learning experience. For more on this path, read our guide on **[how to break into Web3 DAO governance consulting](/how-to-break-into-web3-dao-governance-consulting)**.

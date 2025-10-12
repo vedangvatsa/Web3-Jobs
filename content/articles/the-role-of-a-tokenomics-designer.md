@@ -43,7 +43,7 @@ This is a highly specialized and in-demand role that requires a unique T-shaped 
 *   **Write Public Analysis:** Start a blog or Twitter account where you publish detailed critiques of other projects' token models. Identify their strengths and weaknesses.
 *   **Create Your Own Models:** Build a financial model for a hypothetical protocol. Make your assumptions clear and publish your work. This becomes your portfolio.
 
-The role of the tokenomics designer is one of the most challenging and impactful in all of Web3. It's a
+The role of the tokenomics designer is one of the most challenging and impactful in all of Web3. It's a chance to be an architect of new digital economies, shaping the incentives that will govern the future of the internet.
 
 ---
 
