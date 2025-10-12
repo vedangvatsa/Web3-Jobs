@@ -333,7 +333,7 @@ export function CommunityPageContent({
 
   return (
     <div className="py-16">
-        <div className="container mx-auto px-4 py-8 md:py-16">
+        <div className="container mx-auto px-4 md:py-16">
           
           <section className="text-center mb-16 max-w-4xl mx-auto">
              <TransitioningHeadline phrases={headlines} />
@@ -616,7 +616,7 @@ export function CommunityPageContent({
 
         </div>
         
-        <div className="py-16 mt-16">
+        <div className="mt-16">
             <div className="container mx-auto px-4">
                 <Tabs defaultValue="jobs" className="w-full bg-card/70 backdrop-blur-xl border rounded-lg p-4">
                     <TabsList className="grid w-full grid-cols-3">
@@ -656,3 +656,4 @@ export function CommunityPageContent({
 }
 
     
+
