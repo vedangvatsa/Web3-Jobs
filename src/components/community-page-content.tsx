@@ -4,7 +4,7 @@
 import type { Job, Article, NewsItem } from '@/types';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import { ArrowRight, Briefcase, BookOpen, Newspaper, Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare, Send, Smartphone } from 'lucide-react';
+import { ArrowRight, Briefcase, BookOpen, Newspaper, Rss, MessageSquare, Linkedin, Twitter, Instagram, Mail, GraduationCap, Users, Award, BarChart, Mic, Calendar, Globe, BotMessageSquare, Send, Smartphone, BrainCircuit, Calculator, FileSignature, FileText, ListChecks, ClipboardEdit, UserMinus, Milestone, Smile, Scale } from 'lucide-react';
 import { JobCard } from '@/components/job-card';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
 import Image from 'next/image';
@@ -279,6 +279,25 @@ const CompactArticleItem = ({ article }: { article: Omit<Article, 'content'> }) 
     <p className="text-xs text-muted-foreground">{article.category}</p>
   </Link>
 );
+
+const resources = [
+    { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
+    { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
+    { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
+    { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
+    { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
+    { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
+    { href: "/remote-work-checklist", label: "Remote Checklist", icon: ListChecks },
+    { href: "/jd-builder", label: "JD Builder", icon: ClipboardEdit },
+    { href: "/offer-letter-customizer", label: "Offer Letter Customizer", icon: FileSignature },
+    { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks },
+    { href: "/interview-feedback-template", label: "Interview Feedback", icon: Mic },
+    { href: "/employee-exit-survey", label: "Employee Exit Survey", icon: UserMinus },
+    { href: "/employee-milestones-tracker", label: "Milestones Tracker", icon: Milestone },
+    { href: "/employee-engagement-survey", label: "Engagement Survey", icon: Smile },
+    { href: "/work-life-balance-survey", label: "Work-Life Balance Survey", icon: Scale },
+    { href: "/company-culture-guide", label: "Company Culture Guide", icon: Users },
+];
 
 
 export function CommunityPageContent({ 
@@ -577,6 +596,23 @@ export function CommunityPageContent({
                 </Carousel>
             </div>
           </section>
+          
+          <section className="py-16">
+            <div className="max-w-4xl mx-auto text-center">
+                <h2 className="text-3xl font-bold mb-2">Explore Our Resources</h2>
+                <p className="text-muted-foreground mb-8">A complete suite of free tools and resources for professionals and companies building in the decentralized economy.</p>
+                <div className="flex flex-wrap justify-center gap-2">
+                    {resources.map((resource) => (
+                        <Button asChild variant="outline" key={resource.href}>
+                            <Link href={resource.href}>
+                                <resource.icon className="mr-2 h-4 w-4" />
+                                {resource.label}
+                            </Link>
+                        </Button>
+                    ))}
+                </div>
+            </div>
+          </section>
 
         </div>
         
@@ -618,3 +654,5 @@ export function CommunityPageContent({
       </div>
   );
 }
+
+    
