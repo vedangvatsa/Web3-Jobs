@@ -225,7 +225,7 @@ const whatsappGroups = [
     { region: 'Europe', link: 'https://chat.whatsapp.com/JrUfhcam2piAb1MHtfBNKB' },
     { region: 'North America', link: 'https://chat.whatsapp.com/HT7gVlIjNDEFyT7QX3opiM' },
     { region: 'Africa', link: 'https://chat.whatsapp.com/Hb4kyFWPkxgGxwSTUSWAqM' },
-    { region: 'Asia (Excl. India)', link: 'https://chat.whatsapp.com/HHL6j40XlF6GefkOimSltG' },
+    { region: 'Asia', link: 'https://chat.whatsapp.com/HHL6j40XlF6GefkOimSltG' },
     { region: 'South America', link: 'https://chat.whatsapp.com/CLIkN0RbHoxLBtJo9DIpBD' },
     { region: 'India', link: 'https://chat.whatsapp.com/JrUfhcam2piAb1MHtfBNKB' },
 ];
@@ -439,8 +439,8 @@ export function CommunityPageContent({
                  <CardContent className="p-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-center">
                         <div className="lg:col-span-1 text-center md:text-left">
-                            <h3 className="text-xl font-bold text-primary mb-2">Join Our Regional WhatsApp Groups</h3>
-                            <p className="text-muted-foreground text-sm">Connect with Web3 professionals in your region. Approval is based on your WhatsApp number's country code.</p>
+                            <h3 className="text-xl font-bold text-primary mb-2">Join Our Regional Whatsapp Groups</h3>
+                            <p className="text-muted-foreground text-sm">Connect with Web3 professionals in your region. Approval is based on your WhataApp number's country code.</p>
                         </div>
                         <div className="lg:col-span-2 grid grid-cols-2 sm:grid-cols-3 gap-2">
                             {whatsappGroups.map((group) => (
@@ -528,7 +528,7 @@ export function CommunityPageContent({
           </section>
 
           <section className="mb-16">
-            <h2 className="text-3xl font-bold text-center text-primary mb-8">What Our Community Says</h2>
+            <h2 className="text-3xl font-bold text-center text-primary mb-8"></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-7xl mx-auto">
               {testimonials.map((testimonial, i) => (
                  <Card key={i} className="shadow-lg flex flex-col">
@@ -552,7 +552,7 @@ export function CommunityPageContent({
                     <h2 className="text-4xl font-bold mt-2">Hire with Hashtag Web3</h2>
                     <p className="mt-4 text-muted-foreground">
                         We connect leading Web3 companies with our global network of over 100,000 crypto-native professionals. 
-                        Our platform is the go-to source for developers, marketers, and PMs looking for their next role in the decentralized economy.
+                        Our platform is the go-to source for developers, marketers, PMs, etc. looking for their next role in the decentralized economy.
                     </p>
                     <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
                         <Button size="lg" className="mt-6">Post a Job <ArrowRight className="ml-2" /></Button>
