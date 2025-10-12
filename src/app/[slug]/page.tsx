@@ -10,6 +10,7 @@ import { Button } from '@/components/ui/button';
 import { Rss } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Suspense } from 'react';
+import { RelatedArticles } from '@/components/related-articles';
 
 type ArticlePageProps = {
   params: {
@@ -74,6 +75,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const article = await getArticle(params.slug);
+  const allArticles = await getAllArticles();
 
   if (!article) {
     notFound();
@@ -142,7 +144,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       <ArticleContent content={article.content} />
                     </div>
 
-                    <Card className="bg-card border-dashed backdrop-blur-none">
+                    <RelatedArticles 
+                      allArticles={allArticles}
+                      currentCategory={article.category}
+                      currentSlug={article.slug}
+                    />
+
+                    <Card className="mt-12 bg-card border-dashed backdrop-blur-none">
                       <CardContent className="p-8 text-center">
                           <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
                           <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
