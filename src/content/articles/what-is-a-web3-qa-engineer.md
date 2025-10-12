@@ -57,7 +57,6 @@ Testing a dApp is far more complex than testing a traditional web application.
     -   Write a detailed "test plan" for a popular dApp and publish it as a blog post.
 
 The Web3 QA Engineer is a vital and often unsung hero of the development process. As protocols become more complex and the value at stake continues to rise, the demand for these meticulous and detail-oriented professionals will only grow. It's a rewarding career path for those who have a passion for quality and a desire to make the decentralized web a safer and more reliable place for everyone.
-
 ---
 
 ## Frequently Asked Questions
