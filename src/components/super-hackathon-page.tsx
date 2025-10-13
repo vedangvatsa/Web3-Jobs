@@ -1,3 +1,4 @@
+
 'use client';
 
 import { Button } from '@/components/ui/button';
@@ -208,7 +209,7 @@ export function SuperHackathonPageContent() {
                              style={{ justifyContent: i % 2 === 0 ? 'flex-start' : 'flex-end' }}>
                             
                             <div style={{ flexBasis: '50%', paddingRight: i % 2 === 0 ? '2rem' : '0', paddingLeft: i % 2 !== 0 ? '2rem' : '0' }} 
-                                 className={`${i % 2 === 0 ? 'md:text-right' : 'md:text-left'} md:block hidden`}>
+                                 className={`${i % 2 === 0 ? 'md:text-right' : 'md:text-left'} hidden md:block`}>
                                 <Card className="inline-block">
                                     <CardContent className="p-4">
                                         <p className="text-sm text-primary font-semibold">{event.date}</p>
@@ -254,11 +255,11 @@ export function SuperHackathonPageContent() {
               <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {[
                   "dApp must use Chainlink Data Feeds in its on-chain logic.",
-                  "Original dApp must be open-source and publicly deployed before Sep 1, 2025.",
                   "Both original and migrated contracts must be verified on a block explorer.",
                   "Migration should require minimal code changes (<5% of original codebase).",
                   "Frontend is optional; evaluation is based on on-chain activity.",
-                  "Project license must allow forking (e.g., MIT, Apache 2.0, GPL)."
+                  "Project license must allow forking (e.g., MIT, Apache 2.0, GPL).",
+                  "dApp must be deployed to opBNB during the hackathon period (Oct 13-31, 2025)."
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-3 p-4 rounded-lg bg-card border">
                     <Check className="h-5 w-5 text-green-500 mt-1 shrink-0"/>
