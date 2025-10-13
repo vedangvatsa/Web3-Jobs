@@ -38,29 +38,48 @@ export function SuperHackathonPageContent() {
                       The Super Hackathon
                   </h1>
                   <p className="max-w-3xl mx-auto text-lg md:text-xl text-muted-foreground mb-8">
-                      Build your dApp, earn up to $20,000 USDT, and gain visibility among leading Web3 investors and partners.
+                      Build your dApp on opBNB, earn up to $20,000 USDT, and gain visibility among leading Web3 investors and partners.
                   </p>
                   <div className="flex justify-center items-center gap-4 md:gap-8 mb-8 text-lg font-semibold flex-wrap">
-                      <div className="flex items-center gap-2"><Trophy className="text-yellow-400"/><span>$20,000 USDT Prize Pool</span></div>
-                      <div className="flex items-center gap-2"><Calendar className="text-yellow-400"/><span>Oct 13-31, 2025</span></div>
+                      <div className="flex items-center gap-2"><Trophy className="text-primary"/><span>$20,000 USDT Prize Pool</span></div>
+                      <div className="flex items-center gap-2"><Calendar className="text-primary"/><span>Oct 13-31, 2025</span></div>
                   </div>
                   <a href="https://bit.ly/SuperHackathon" target="_blank" rel="noopener noreferrer">
-                      <Button size="lg" className="bg-yellow-400 text-black hover:bg-yellow-500 text-lg py-3 px-10 shadow-lg transition-transform hover:scale-105">
+                      <Button size="lg" className="text-lg py-3 px-10 shadow-lg transition-transform hover:scale-105">
                           Enter Now <ArrowRight className="ml-2"/>
                       </Button>
                   </a>
-                  <p className="mt-4 text-sm text-yellow-500 dark:text-yellow-300">The hackathon is live. Early submissions have an edge!</p>
+                  <p className="mt-4 text-sm text-primary/80">The hackathon is live. Early submissions have an edge!</p>
                 </div>
             </CardContent>
           </Card>
 
           <div className="my-16 text-center">
             <h2 className="text-3xl font-bold mb-4">About the Super Hackathon</h2>
-            <p className="max-w-4xl mx-auto text-muted-foreground">The Super Hackathon is a global competition to demonstrate how easily dApps can scale on opBNB with Super Protocol. It’s a live stress test — proving real-world performance and reliability.</p>
+            <p className="max-w-4xl mx-auto text-muted-foreground">The Super Hackathon is a global Web3 event designed to demonstrate the scalability and security of Super Protocol’s cloud under real on-chain load. Participants will migrate existing open-source dApps to opBNB, integrate confidential oracle data feeds, and generate verifiable transactions to stress-test performance.</p>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-8 my-16">
+            <Card>
+              <CardHeader>
+                <CardTitle>About Super Protocol</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-muted-foreground">Super Protocol is a confidential Web3 AI cloud that combines the power of blockchain with confidential computing. It provides a secure, decentralized environment for developers to deploy applications and AI workloads without relying on centralized providers, ensuring data privacy and verifiable execution inside hardware-based Trusted Execution Environments (TEEs).</p>
+              </CardContent>
+            </Card>
+            <Card>
+              <CardHeader>
+                <CardTitle>Confidential Oracles</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-muted-foreground">Built on Chainlink Data Feeds and executed inside TEEs, confidential oracles offer major improvements in speed and cost efficiency. A single Super Protocol node can handle the workload of about 1,000 traditional oracle nodes, keeping data and computations private while remaining verifiable on-chain.</p>
+              </CardContent>
+            </Card>
           </div>
           
            <div className="my-16">
-            <h2 className="text-3xl font-bold text-center mb-8">Friends of Super</h2>
+            <h2 className="text-3xl font-bold text-center mb-8">Partners & Friends</h2>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="flex justify-center items-center p-4 bg-gray-900 rounded-lg h-24" title={logo.name}>
@@ -78,35 +97,16 @@ export function SuperHackathonPageContent() {
                 </div>
            </div>
 
-          <div className="grid md:grid-cols-2 gap-8 my-16">
-            <Card>
-              <CardHeader>
-                <CardTitle>Super Protocol</CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-muted-foreground">A confidential Web3 AI cloud that provides a secure, decentralized environment to deploy applications and AI workloads without relying on centralized providers. By running inside Trusted Execution Environments (TEEs), Super Protocol ensures that code and data remain private and verifiable.</p>
-              </CardContent>
-            </Card>
-            <Card>
-              <CardHeader>
-                <CardTitle>Confidential Oracles</CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-muted-foreground">Built on Chainlink Data Feeds and executed inside TEEs, they keep all data and computations private while remaining verifiable on-chain, offering major improvements in speed and cost efficiency compared to traditional oracles.</p>
-              </CardContent>
-            </Card>
-          </div>
-          
           <div className="my-16">
-              <h2 className="text-3xl font-bold text-center mb-8">Key Requirements</h2>
+              <h2 className="text-3xl font-bold text-center mb-8">Eligibility Requirements</h2>
               <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {[
-                  "dApp must use Chainlink Data Feeds.",
-                  "Must be open-source and deployed before Sep 1, 2025.",
-                  "Contracts must be verified on a block explorer.",
-                  "Migration should require minimal code changes (<5%).",
-                  "Frontend is optional; evaluation is on-chain.",
-                  "License must allow forking (MIT, Apache, GPL)."
+                  "dApp must use Chainlink Data Feeds in its on-chain logic.",
+                  "Original dApp must be open-source and publicly deployed before Sep 1, 2025.",
+                  "Both original and migrated contracts must be verified on a block explorer.",
+                  "Migration should require minimal code changes (<5% of original codebase).",
+                  "Frontend is optional; evaluation is based on on-chain activity.",
+                  "Project license must allow forking (e.g., MIT, Apache 2.0, GPL)."
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-3 p-4 rounded-lg bg-card border">
                     <Check className="h-5 w-5 text-green-500 mt-1 shrink-0"/>
@@ -120,16 +120,16 @@ export function SuperHackathonPageContent() {
               <h2 className="text-3xl font-bold text-center mb-8">Scoring System</h2>
               <div className="grid md:grid-cols-3 gap-8 text-center">
                 <Card>
-                    <CardHeader><Star className="mx-auto h-8 w-8 text-yellow-400"/><CardTitle className="mt-2">Unique dApp Bonus</CardTitle></CardHeader>
-                    <CardContent><p className="text-muted-foreground">Be the first to submit a specific dApp and earn 100 bonus points.</p></CardContent>
+                    <CardHeader><Star className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Unique dApp Bonus</CardTitle></CardHeader>
+                    <CardContent><p className="text-muted-foreground">Be the first team to submit a specific dApp and earn a 100-point bonus.</p></CardContent>
                 </Card>
                 <Card>
-                    <CardHeader><Sparkles className="mx-auto h-8 w-8 text-blue-400"/><CardTitle className="mt-2">Deployment Points</CardTitle></CardHeader>
+                    <CardHeader><Sparkles className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Deployment Points</CardTitle></CardHeader>
                     <CardContent><p className="text-muted-foreground">Earn 100 points for each successfully deployed and confirmed contract on opBNB.</p></CardContent>
                 </Card>
                 <Card>
-                    <CardHeader><Briefcase className="mx-auto h-8 w-8 text-green-400"/><CardTitle className="mt-2">Transaction Activity</CardTitle></CardHeader>
-                    <CardContent><p className="text-muted-foreground">Earn up to 100 points based on the number of successful transactions your dApp generates.</p></CardContent>
+                    <CardHeader><Briefcase className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Transaction Activity</CardTitle></CardHeader>
+                    <CardContent><p className="text-muted-foreground">Generate on-chain transactions to earn up to 100 points, with 10M+ transactions earning the maximum score.</p></CardContent>
                 </Card>
               </div>
           </div>
@@ -140,10 +140,10 @@ export function SuperHackathonPageContent() {
             </CardHeader>
             <CardContent>
               <ul className="space-y-3 max-w-md mx-auto">
-                <li className="flex justify-between items-center text-lg p-3 bg-yellow-400/20 rounded-md"><strong>1st Place</strong><span className="font-bold text-yellow-600">$8,000</span></li>
-                <li className="flex justify-between items-center text-lg p-3 bg-gray-300/20 rounded-md"><strong>2nd Place</strong><span className="font-bold text-gray-500">$4,000</span></li>
-                <li className="flex justify-between items-center text-lg p-3 bg-orange-400/20 rounded-md"><strong>3rd Place</strong><span className="font-bold text-orange-600">$3,000</span></li>
-                <li className="flex justify-between items-center text-lg p-3 bg-blue-300/10 rounded-md"><strong>4th–10th Place</strong><span className="font-bold">$714 each</span></li>
+                <li className="flex justify-between items-center text-lg p-3 bg-primary/10 rounded-md"><strong>1st Place</strong><span className="font-bold text-primary">$8,000</span></li>
+                <li className="flex justify-between items-center text-lg p-3 bg-secondary rounded-md"><strong>2nd Place</strong><span className="font-bold text-foreground">$4,000</span></li>
+                <li className="flex justify-between items-center text-lg p-3 bg-secondary rounded-md"><strong>3rd Place</strong><span className="font-bold text-foreground">$3,000</span></li>
+                <li className="flex justify-between items-center text-lg p-3 bg-secondary rounded-md"><strong>4th–10th Place</strong><span className="font-bold">$714 each</span></li>
               </ul>
             </CardContent>
           </Card>
