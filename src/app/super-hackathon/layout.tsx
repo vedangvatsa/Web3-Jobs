@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/super-hackathon',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image.png',
+        url: 'https://hashtagweb3.com/logo/promo/Super_Hackathon.jpeg',
         width: 1200,
         height: 630,
         alt: 'Super Hackathon',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Super Hackathon | Build, Scale, & Get Noticed',
     description: 'Join the Super Hackathon on opBNB and compete for a $20,000 prize pool.',
-    images: ['https://hashtagweb3.com/og-image.png'],
+    images: ['https://hashtagweb3.com/logo/promo/Super_Hackathon.jpeg'],
   },
 };
 
