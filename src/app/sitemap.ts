@@ -160,12 +160,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
-    },
-    {
-      url: `${siteUrl}/super-hackathon`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.9,
     }
   ];
 
