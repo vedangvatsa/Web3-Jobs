@@ -195,27 +195,31 @@ export function SuperHackathonPageContent() {
               </div>
           </div>
 
-
           <div className="my-16">
             <h2 className="text-3xl font-bold text-center mb-8">Timeline</h2>
-             <div className="relative max-w-5xl mx-auto px-4">
-                <div className="absolute left-4 md:left-1/2 top-0 h-full w-0.5 bg-border md:-translate-x-1/2"></div>
+            <div className="relative max-w-5xl mx-auto px-4">
+                <div className="absolute left-4 md:left-1/2 top-0 h-full w-0.5 bg-border -translate-x-1/2"></div>
                 {timelineEvents.map((event, i) => (
-                    <div key={event.title} className="relative pl-8 md:pl-0 pb-8 last:pb-0">
-                        <div className="md:flex md:items-center md:justify-center md:[&>*:nth-child(1)]:w-1/2 md:[&>*:nth-child(3)]:w-1/2">
-                             <div className={`md:pr-8 md:text-right ${i % 2 !== 0 ? '' : 'md:hidden'}`}>
+                    <div key={i} className="relative pl-8 md:pl-0 pb-12 last:pb-0">
+                        <div className="md:flex md:items-center"
+                             style={{ justifyContent: i % 2 === 0 ? 'flex-start' : 'flex-end' }}>
+                            
+                            <div style={{ flexBasis: '50%', paddingRight: i % 2 === 0 ? '2rem' : '0', paddingLeft: i % 2 !== 0 ? '2rem' : '0' }} 
+                                 className={`${i % 2 === 0 ? 'md:text-right' : 'md:text-left'} md:block hidden`}>
                                 <Card className="inline-block">
                                     <CardContent className="p-4">
                                         <p className="text-sm text-primary font-semibold">{event.date}</p>
                                         <p className="font-bold mt-1">{event.title}</p>
                                     </CardContent>
                                 </Card>
-                             </div>
+                            </div>
+
                             <div className="absolute left-0 md:left-1/2 top-1 -translate-x-1/2">
                                 <div className="flex items-center justify-center w-8 h-8 rounded-full bg-primary text-primary-foreground text-lg font-bold shadow-lg z-10">{i+1}</div>
                             </div>
-                            <div className={`md:pl-8 ${i % 2 === 0 ? '' : 'md:hidden'}`}>
-                               <Card className="inline-block">
+                            
+                            <div className="md:hidden">
+                                <Card>
                                     <CardContent className="p-4">
                                         <p className="text-sm text-primary font-semibold">{event.date}</p>
                                         <p className="font-bold mt-1">{event.title}</p>
