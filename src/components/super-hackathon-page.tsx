@@ -14,7 +14,6 @@ const partnersLogos = [
     { name: 'Vana', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/vana.svg', alt: 'Vana logo'},
     { name: 'Generative Ventures', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/generative-ventures.svg', alt: 'Generative Ventures logo'},
     { name: 'ICODA', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/icoda.svg', alt: 'ICODA logo'},
-    { name: 'Hashtag Web3', src: '/logo/HashtagWeb3.png', alt: 'Hashtag Web3 logo' },
 ];
 
 const timelineEvents = [
@@ -65,7 +64,7 @@ export function SuperHackathonPageContent() {
                           Enter Now <ArrowRight className="ml-2"/>
                       </Button>
                   </a>
-                  <p className="mt-4 text-sm text-primary/80">The hackathon is live. Early submissions have an edge!</p>
+                  <p className="mt-4 text-sm text-primary/80">The hackathon is live. Early submissions have a distinct advantage!</p>
                 </div>
             </CardContent>
           </Card>
@@ -110,22 +109,23 @@ export function SuperHackathonPageContent() {
             </div>
 
            <div className="my-16 text-center">
-            <h2 className="text-3xl font-bold mb-8">Partners & Friends</h2>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
-                    {partnersLogos.map((logo) => (
-                        <div key={logo.name} className="flex justify-center items-center p-4 bg-gray-900 rounded-lg h-24" title={logo.name}>
-                            <div className="relative h-12 w-full">
-                                <Image
-                                  src={logo.src}
-                                  alt={logo.alt}
-                                  fill
-                                  className="object-contain"
-                                  unoptimized
-                                />
-                            </div>
+            <h2 className="text-3xl font-bold mb-4">Partners & Friends</h2>
+            <p className="text-muted-foreground -mt-4 mb-8">Hashtag Web3 is a proud community partner for this event.</p>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
+                {partnersLogos.map((logo) => (
+                    <div key={logo.name} className="flex justify-center items-center p-4 bg-gray-900 rounded-lg h-24" title={logo.name}>
+                        <div className="relative h-12 w-full">
+                            <Image
+                              src={logo.src}
+                              alt={logo.alt}
+                              fill
+                              className="object-contain"
+                              unoptimized
+                            />
                         </div>
-                    ))}
-                </div>
+                    </div>
+                ))}
+            </div>
            </div>
 
             <div className="my-16 text-center">
