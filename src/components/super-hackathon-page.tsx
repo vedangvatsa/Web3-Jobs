@@ -1,3 +1,4 @@
+
 'use client';
 
 import { Button } from '@/components/ui/button';
@@ -13,6 +14,7 @@ const partnersLogos = [
     { name: 'Vana', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/vana.svg', alt: 'Vana logo'},
     { name: 'Generative Ventures', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/generative-ventures.svg', alt: 'Generative Ventures logo'},
     { name: 'ICODA', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/icoda.svg', alt: 'ICODA logo'},
+    { name: 'Hashtag Web3', src: '/logo/HashtagWeb3.png', alt: 'Hashtag Web3 logo' },
 ];
 
 const timelineEvents = [
@@ -91,22 +93,22 @@ export function SuperHackathonPageContent() {
               </CardContent>
             </Card>
           </div>
-
-            <div className="my-16 text-center">
-              <h3 className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">Hackathon Powered By</h3>
-               <div className="flex justify-center items-center p-4 bg-gray-900 rounded-lg max-w-sm mx-auto h-32" title="BNB Chain">
-                  <div className="relative h-20 w-full">
-                      <Image
-                        src="https://hackathon.superprotocol.com/super-ecosystem/partners/bnb-chain.svg"
-                        alt="BNB Chain Logo"
-                        fill
-                        className="object-contain"
-                        unoptimized
-                      />
-                  </div>
-              </div>
-          </div>
           
+            <div className="my-16 text-center">
+                <h3 className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">Hackathon Powered By</h3>
+                <div className="flex justify-center items-center p-4 bg-gray-900 rounded-lg max-w-sm mx-auto h-32" title="BNB Chain">
+                    <div className="relative h-20 w-full">
+                        <Image
+                          src="https://hackathon.superprotocol.com/super-ecosystem/partners/bnb-chain.svg"
+                          alt="BNB Chain Logo"
+                          fill
+                          className="object-contain"
+                          unoptimized
+                        />
+                    </div>
+                </div>
+            </div>
+
            <div className="my-16 text-center">
             <h2 className="text-3xl font-bold mb-8">Partners & Friends</h2>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
@@ -142,28 +144,8 @@ export function SuperHackathonPageContent() {
                 </div>
             </div>
 
-          <div className="my-16">
-              <h2 className="text-3xl font-bold text-center mb-8">Eligibility Requirements</h2>
-              <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                {[
-                  "dApp must use Chainlink Data Feeds in its on-chain logic.",
-                  "Original dApp must be open-source and publicly deployed before Sep 1, 2025.",
-                  "Both original and migrated contracts must be verified on a block explorer.",
-                  "Migration should require minimal code changes (<5% of original codebase).",
-                  "Frontend is optional; evaluation is based on on-chain activity.",
-                  "Project license must allow forking (e.g., MIT, Apache 2.0, GPL)."
-                ].map((item, i) => (
-                  <li key={i} className="flex items-start gap-3 p-4 rounded-lg bg-card border">
-                    <Check className="h-5 w-5 text-green-500 mt-1 shrink-0"/>
-                    <span className="text-muted-foreground">{item}</span>
-                  </li>
-                ))}
-              </ul>
-          </div>
-          
-          <div className="my-16 text-center">
-              <h2 className="text-3xl font-bold text-center mb-4">Evaluation Criteria</h2>
-              <p className="max-w-3xl mx-auto text-muted-foreground mb-12">Projects will be scored on deployment and activity, with additional points awarded for uniqueness. Your score is based on measurable on-chain results.</p>
+            <div className="my-16">
+              <h2 className="text-3xl font-bold text-center mb-8">Evaluation Criteria</h2>
               <div className="grid md:grid-cols-3 gap-8">
                 <Card>
                     <CardHeader><Star className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Unique dApp Bonus</CardTitle></CardHeader>
@@ -179,6 +161,7 @@ export function SuperHackathonPageContent() {
                 </Card>
               </div>
           </div>
+
 
           <div className="my-16">
             <h2 className="text-3xl font-bold text-center mb-8">Timeline</h2>
@@ -225,6 +208,25 @@ export function SuperHackathonPageContent() {
               </ul>
             </CardContent>
           </Card>
+          
+          <div className="my-16">
+              <h2 className="text-3xl font-bold text-center mb-8">Eligibility Requirements</h2>
+              <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {[
+                  "dApp must use Chainlink Data Feeds in its on-chain logic.",
+                  "Original dApp must be open-source and publicly deployed before Sep 1, 2025.",
+                  "Both original and migrated contracts must be verified on a block explorer.",
+                  "Migration should require minimal code changes (<5% of original codebase).",
+                  "Frontend is optional; evaluation is based on on-chain activity.",
+                  "Project license must allow forking (e.g., MIT, Apache 2.0, GPL)."
+                ].map((item, i) => (
+                  <li key={i} className="flex items-start gap-3 p-4 rounded-lg bg-card border">
+                    <Check className="h-5 w-5 text-green-500 mt-1 shrink-0"/>
+                    <span className="text-muted-foreground">{item}</span>
+                  </li>
+                ))}
+              </ul>
+          </div>
 
           <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
             <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
