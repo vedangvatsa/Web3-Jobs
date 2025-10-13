@@ -9,6 +9,16 @@ import Image from 'next/image';
 export function SuperHackathonPageContent() {
     return (
         <div className="not-prose">
+          <div className="mb-8 overflow-hidden rounded-lg shadow-xl">
+            <Image
+              src="/logo/promo/Super_Hackathon.jpeg"
+              alt="Super Hackathon Banner"
+              width={1200}
+              height={630}
+              className="w-full h-auto"
+              priority
+            />
+          </div>
           <Card className="mb-12 text-center bg-secondary/30 border-primary/20 overflow-hidden">
             <CardContent className="p-8 relative">
                 <div className="absolute inset-0 bg-grid-slate-900/[0.04] bg-[bottom_1px_center] dark:bg-grid-slate-400/[0.05] dark:bg-bottom"></div>
@@ -127,5 +137,3 @@ export function SuperHackathonPageContent() {
         </div>
     );
 }
-
-    
