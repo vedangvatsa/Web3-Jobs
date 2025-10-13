@@ -6,7 +6,6 @@ import { Trophy, Calendar, ArrowRight, Rss, Briefcase, Check, Sparkles, Star, Ta
 import Image from 'next/image';
 
 const partnersLogos = [
-    { name: 'BNB Chain', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/bnb-chain.svg', alt: 'BNB Chain logo'},
     { name: 'Google Cloud', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/google-cloud.svg', alt: 'Google Cloud logo'},
     { name: 'Fenbushi Capital', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/fenbushi-capital.svg', alt: 'Fenbushi Capital logo'},
     { name: 'Capital', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/capital.svg', alt: 'Capital.com logo'},
@@ -92,9 +91,23 @@ export function SuperHackathonPageContent() {
               </CardContent>
             </Card>
           </div>
+
+            <div className="my-16 text-center">
+              <h3 className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">Hackathon Powered By</h3>
+               <div className="flex justify-center items-center p-4 bg-gray-900 rounded-lg max-w-sm mx-auto h-32" title="BNB Chain">
+                  <div className="relative h-20 w-full">
+                      <Image
+                        src="https://hackathon.superprotocol.com/super-ecosystem/partners/bnb-chain.svg"
+                        alt="BNB Chain Logo"
+                        fill
+                        className="object-contain"
+                        unoptimized
+                      />
+                  </div>
+              </div>
+          </div>
           
            <div className="my-16 text-center">
-            <h3 className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">Hackathon Powered By</h3>
             <h2 className="text-3xl font-bold mb-8">Partners & Friends</h2>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
                     {partnersLogos.map((logo) => (
@@ -122,7 +135,7 @@ export function SuperHackathonPageContent() {
                             <div className="flex items-center justify-center h-16 w-16 rounded-full bg-primary/10 border-2 border-primary/20 mb-4">
                                 <step.icon className="h-8 w-8 text-primary" />
                             </div>
-                            <h4 className="font-semibold text-lg">{`Step ${index + 1}`}</h4>
+                            <h4 className="font-semibold text-lg">{`STEP ${index + 1}`}</h4>
                             <p className="text-muted-foreground text-sm">{step.description}</p>
                         </div>
                     ))}
@@ -161,7 +174,7 @@ export function SuperHackathonPageContent() {
                     <CardContent><p className="text-muted-foreground">Earn 100 points for each successfully deployed and confirmed contract on opBNB.</p></CardContent>
                 </Card>
                 <Card>
-                    <CardHeader><Briefcase className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Transaction Activity</CardTitle></CardHeader>
+                    <CardHeader><Target className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Transaction Activity</CardTitle></CardHeader>
                     <CardContent><p className="text-muted-foreground">Generate on-chain transactions to earn up to 100 points, with 10M+ transactions earning the maximum score.</p></CardContent>
                 </Card>
               </div>
@@ -173,11 +186,20 @@ export function SuperHackathonPageContent() {
                 <div className="absolute left-1/2 top-0 bottom-0 w-0.5 bg-border -translate-x-1/2 hidden md:block"></div>
                 {timelineEvents.map((event, i) => (
                     <div key={event.title} className="relative mb-8 md:mb-0">
-                        <div className="flex items-center md:justify-center">
-                            <div className="hidden md:block w-1/2"></div>
+                        <div className="flex items-center md:justify-center md:[&>*:nth-child(1)]:w-1/2 md:[&>*:nth-child(3)]:w-1/2">
+                            <div className={`hidden md:block ${i % 2 !== 0 ? 'pr-8 text-right' : ''}`}>
+                               {i % 2 !== 0 && (
+                                <Card className="md:ml-auto md:max-w-sm">
+                                    <CardContent className="p-4">
+                                        <p className="text-sm text-primary font-semibold">{event.date}</p>
+                                        <p className="font-bold mt-1">{event.title}</p>
+                                    </CardContent>
+                                </Card>
+                               )}
+                            </div>
                             <div className="hidden md:flex items-center justify-center w-12 h-12 rounded-full bg-primary text-primary-foreground text-2xl font-bold shadow-lg z-10">{i+1}</div>
-                            <div className="md:w-1/2 md:pl-8">
-                                <Card className="md:ml-4">
+                            <div className={`md:pl-8 ${i % 2 === 0 ? '' : 'hidden md:block'}`}>
+                               <Card className={`md:ml-4 ${i % 2 === 0 ? '' : 'invisible'}`}>
                                     <CardContent className="p-4">
                                         <p className="text-sm text-primary font-semibold">{event.date}</p>
                                         <p className="font-bold mt-1">{event.title}</p>
