@@ -38,7 +38,7 @@ export function SuperHackathonPageContent() {
                       The Super Hackathon
                   </h1>
                   <p className="max-w-3xl mx-auto text-lg md:text-xl text-muted-foreground mb-8">
-                      Build your dApp on opBNB, earn up to $20,000 USDT, and gain visibility among leading Web3 investors and partners.
+                      Build your dApp, earn up to $20,000 USDT, and gain visibility among leading Web3 investors and partners.
                   </p>
                   <div className="flex justify-center items-center gap-4 md:gap-8 mb-8 text-lg font-semibold flex-wrap">
                       <div className="flex items-center gap-2"><Trophy className="text-yellow-400"/><span>$20,000 USDT Prize Pool</span></div>
@@ -78,14 +78,13 @@ export function SuperHackathonPageContent() {
                 </div>
            </div>
 
-
           <div className="grid md:grid-cols-2 gap-8 my-16">
             <Card>
               <CardHeader>
                 <CardTitle>Super Protocol</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">A confidential Web3 AI cloud that provides a secure, decentralized environment to deploy applications and AI workloads. By running inside Trusted Execution Environments (TEEs), Super Protocol ensures data privacy and verifiable execution.</p>
+                <p className="text-muted-foreground">A confidential Web3 AI cloud that provides a secure, decentralized environment to deploy applications and AI workloads without relying on centralized providers. By running inside Trusted Execution Environments (TEEs), Super Protocol ensures that code and data remain private and verifiable.</p>
               </CardContent>
             </Card>
             <Card>
@@ -93,7 +92,7 @@ export function SuperHackathonPageContent() {
                 <CardTitle>Confidential Oracles</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">Built on Chainlink Data Feeds and executed inside TEEs, they keep all data and computations private while remaining verifiable on-chain, offering major improvements in speed and cost efficiency.</p>
+                <p className="text-muted-foreground">Built on Chainlink Data Feeds and executed inside TEEs, they keep all data and computations private while remaining verifiable on-chain, offering major improvements in speed and cost efficiency compared to traditional oracles.</p>
               </CardContent>
             </Card>
           </div>
