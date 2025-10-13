@@ -9,6 +9,7 @@ import { ContentSecurity } from '@/components/content-security';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
 import type { WebSite } from 'schema-dts';
+import { PromoPopup } from '@/components/promo-popup';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -124,6 +125,7 @@ export default async function RootLayout({
         <Footer />
         <Toaster />
         <Analytics />
+        <PromoPopup />
       </body>
     </html>
   );
