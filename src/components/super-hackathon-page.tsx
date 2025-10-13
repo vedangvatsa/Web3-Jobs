@@ -142,7 +142,7 @@ export function SuperHackathonPageContent() {
 
            <div className="my-16 text-center">
             <h2 className="text-3xl font-bold mb-4">Partners & Friends</h2>
-            <p className="text-muted-foreground -mt-4 mb-8">Hashtag Web3 is a community partner for this event.</p>
+             <p className="text-center text-muted-foreground -mt-4 mb-8">Hashtag Web3 is a community partner for this event.</p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
                 {partnersLogos.map((logo) => (
                     <div key={logo.name} className="flex justify-center items-center p-4 bg-gray-900 rounded-lg h-24" title={logo.name}>
@@ -198,24 +198,24 @@ export function SuperHackathonPageContent() {
 
           <div className="my-16">
             <h2 className="text-3xl font-bold text-center mb-8">Timeline</h2>
-            <div className="relative max-w-5xl mx-auto">
-                <div className="absolute left-1/2 top-0 bottom-0 w-0.5 bg-border -translate-x-1/2 hidden md:block"></div>
+             <div className="relative max-w-5xl mx-auto px-4">
+                <div className="absolute left-4 md:left-1/2 top-0 h-full w-0.5 bg-border md:-translate-x-1/2"></div>
                 {timelineEvents.map((event, i) => (
-                    <div key={event.title} className="relative mb-8 md:mb-0">
-                        <div className="flex items-center md:justify-center md:[&>*:nth-child(1)]:w-1/2 md:[&>*:nth-child(3)]:w-1/2">
-                            <div className={`hidden md:block ${i % 2 !== 0 ? 'pr-8 text-right' : ''}`}>
-                               {i % 2 !== 0 && (
-                                <Card className="md:ml-auto md:max-w-sm">
+                    <div key={event.title} className="relative pl-8 md:pl-0 pb-8 last:pb-0">
+                        <div className="md:flex md:items-center md:justify-center md:[&>*:nth-child(1)]:w-1/2 md:[&>*:nth-child(3)]:w-1/2">
+                             <div className={`md:pr-8 md:text-right ${i % 2 !== 0 ? '' : 'md:hidden'}`}>
+                                <Card className="inline-block">
                                     <CardContent className="p-4">
                                         <p className="text-sm text-primary font-semibold">{event.date}</p>
                                         <p className="font-bold mt-1">{event.title}</p>
                                     </CardContent>
                                 </Card>
-                               )}
+                             </div>
+                            <div className="absolute left-0 md:left-1/2 top-1 -translate-x-1/2">
+                                <div className="flex items-center justify-center w-8 h-8 rounded-full bg-primary text-primary-foreground text-lg font-bold shadow-lg z-10">{i+1}</div>
                             </div>
-                            <div className="hidden md:flex items-center justify-center w-12 h-12 rounded-full bg-primary text-primary-foreground text-2xl font-bold shadow-lg z-10">{i+1}</div>
-                            <div className={`md:pl-8 ${i % 2 === 0 ? '' : 'hidden md:block'}`}>
-                               <Card className={`md:ml-4 ${i % 2 === 0 ? '' : 'invisible'}`}>
+                            <div className={`md:pl-8 ${i % 2 === 0 ? '' : 'md:hidden'}`}>
+                               <Card className="inline-block">
                                     <CardContent className="p-4">
                                         <p className="text-sm text-primary font-semibold">{event.date}</p>
                                         <p className="font-bold mt-1">{event.title}</p>
