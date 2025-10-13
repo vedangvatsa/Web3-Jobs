@@ -1,4 +1,3 @@
-
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -15,7 +14,7 @@ export function PromoPopup() {
       const timer = setTimeout(() => {
         setIsOpen(true);
         sessionStorage.setItem('promoPopupShown', 'true');
-      }, 1500); // Delay opening for 1.5 seconds
+      }, 3000); // Delay opening for 3 seconds
 
       return () => clearTimeout(timer);
     }
@@ -23,7 +22,7 @@ export function PromoPopup() {
 
   return (
     <Dialog open={isOpen} onOpenChange={setIsOpen}>
-      <DialogContent className="p-0 border-0 max-w-lg bg-transparent shadow-2xl">
+      <DialogContent className="p-0 border-0 max-w-3xl bg-transparent shadow-2xl">
         <Link href="https://bit.ly/SuperHackathon" passHref legacyBehavior>
           <a target="_blank" rel="noopener noreferrer" className="block cursor-pointer">
             <Image
