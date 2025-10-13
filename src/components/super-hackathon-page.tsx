@@ -1,9 +1,8 @@
-
 'use client';
 
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/components/ui/card';
-import { Trophy, Calendar, ArrowRight, Rss, Briefcase, Check, Sparkles, Star } from 'lucide-react';
+import { Trophy, Calendar, ArrowRight, Rss, Briefcase, Check, Sparkles, Star, Target, GitBranch, Cloud, Send, Users } from 'lucide-react';
 import Image from 'next/image';
 
 const partnersLogos = [
@@ -15,6 +14,22 @@ const partnersLogos = [
     { name: 'Vana', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/vana.svg', alt: 'Vana logo'},
     { name: 'Generative Ventures', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/generative-ventures.svg', alt: 'Generative Ventures logo'},
     { name: 'ICODA', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/icoda.svg', alt: 'ICODA logo'},
+];
+
+const timelineEvents = [
+    { date: 'Sep 18', title: 'Early Registration' },
+    { date: 'Oct 13', title: 'Submissions Begin' },
+    { date: 'Oct 31', title: 'Submissions End' },
+    { date: 'Nov 7', title: 'Evaluation & Winners' },
+    { date: 'Nov 28', title: 'Prize Claim Deadline' },
+];
+
+const participationSteps = [
+    { title: 'Choose dApp', description: 'Select an open-source dApp to migrate.', icon: GitBranch },
+    { title: 'Deploy to opBNB', description: 'Migrate and deploy your chosen dApp to the opBNB network.', icon: Cloud },
+    { title: 'Connect Oracles', description: 'Integrate confidential oracle data feeds into your dApp.', icon: Rss },
+    { title: 'Submit Project', description: 'Submit your project through the official hackathon portal.', icon: Send },
+    { title: 'Grow Adoption', description: 'Bring friends and generate on-chain activity to climb the leaderboard.', icon: Users },
 ];
 
 export function SuperHackathonPageContent() {
@@ -98,6 +113,22 @@ export function SuperHackathonPageContent() {
                 </div>
            </div>
 
+            <div className="my-16 text-center">
+                <h2 className="text-3xl font-bold mb-4">How to Participate</h2>
+                <p className="max-w-3xl mx-auto text-muted-foreground mb-12">Follow these five steps to take part in the Super Hackathon. From choosing an open-source dApp to growing adoption, the process is simple and transparent.</p>
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8">
+                    {participationSteps.map((step, index) => (
+                        <div key={step.title} className="flex flex-col items-center">
+                            <div className="flex items-center justify-center h-16 w-16 rounded-full bg-primary/10 border-2 border-primary/20 mb-4">
+                                <step.icon className="h-8 w-8 text-primary" />
+                            </div>
+                            <h4 className="font-semibold text-lg">{`Step ${index + 1}`}</h4>
+                            <p className="text-muted-foreground text-sm">{step.description}</p>
+                        </div>
+                    ))}
+                </div>
+            </div>
+
           <div className="my-16">
               <h2 className="text-3xl font-bold text-center mb-8">Eligibility Requirements</h2>
               <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -117,9 +148,10 @@ export function SuperHackathonPageContent() {
               </ul>
           </div>
           
-          <div className="my-16">
-              <h2 className="text-3xl font-bold text-center mb-8">Scoring System</h2>
-              <div className="grid md:grid-cols-3 gap-8 text-center">
+          <div className="my-16 text-center">
+              <h2 className="text-3xl font-bold text-center mb-4">Evaluation Criteria</h2>
+              <p className="max-w-3xl mx-auto text-muted-foreground mb-12">Projects will be scored on deployment and activity, with additional points awarded for uniqueness. Your score is based on measurable on-chain results.</p>
+              <div className="grid md:grid-cols-3 gap-8">
                 <Card>
                     <CardHeader><Star className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Unique dApp Bonus</CardTitle></CardHeader>
                     <CardContent><p className="text-muted-foreground">Be the first team to submit a specific dApp and earn a 100-point bonus.</p></CardContent>
@@ -133,6 +165,29 @@ export function SuperHackathonPageContent() {
                     <CardContent><p className="text-muted-foreground">Generate on-chain transactions to earn up to 100 points, with 10M+ transactions earning the maximum score.</p></CardContent>
                 </Card>
               </div>
+          </div>
+
+          <div className="my-16">
+            <h2 className="text-3xl font-bold text-center mb-8">Timeline</h2>
+            <div className="relative max-w-5xl mx-auto">
+                <div className="absolute left-1/2 top-0 bottom-0 w-0.5 bg-border -translate-x-1/2 hidden md:block"></div>
+                {timelineEvents.map((event, i) => (
+                    <div key={event.title} className="relative mb-8 md:mb-0">
+                        <div className="flex items-center md:justify-center">
+                            <div className="hidden md:block w-1/2"></div>
+                            <div className="hidden md:flex items-center justify-center w-12 h-12 rounded-full bg-primary text-primary-foreground text-2xl font-bold shadow-lg z-10">{i+1}</div>
+                            <div className="md:w-1/2 md:pl-8">
+                                <Card className="md:ml-4">
+                                    <CardContent className="p-4">
+                                        <p className="text-sm text-primary font-semibold">{event.date}</p>
+                                        <p className="font-bold mt-1">{event.title}</p>
+                                    </CardContent>
+                                </Card>
+                            </div>
+                        </div>
+                    </div>
+                ))}
+            </div>
           </div>
 
           <Card className="my-16">
