@@ -30,7 +30,7 @@ const nextConfig: NextConfig = {
       default-src 'self';
       script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://vercel.ai;
       style-src 'self' 'unsafe-inline';
-      img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos;
+      img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos https://hackathon.superprotocol.com;
       font-src 'self';
       object-src 'none';
       base-uri 'self';
@@ -79,6 +79,12 @@ const nextConfig: NextConfig = {
         port: '',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'hackathon.superprotocol.com',
+        port: '',
+        pathname: '/**',
+      }
     ],
   },
 };

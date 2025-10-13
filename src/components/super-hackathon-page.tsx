@@ -6,6 +6,17 @@ import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/componen
 import { Trophy, Calendar, ArrowRight, Rss, Briefcase, Check, Sparkles, Star } from 'lucide-react';
 import Image from 'next/image';
 
+const partnersLogos = [
+    { name: 'BNB Chain', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/bnb-chain.svg', alt: 'BNB Chain logo'},
+    { name: 'Google Cloud', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/google-cloud.svg', alt: 'Google Cloud logo'},
+    { name: 'Fenbushi Capital', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/fenbushi-capital.svg', alt: 'Fenbushi Capital logo'},
+    { name: 'Capital', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/capital.svg', alt: 'Capital.com logo'},
+    { name: 'Zemu', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/zemu.svg', alt: 'Zemu logo'},
+    { name: 'Vana', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/vana.svg', alt: 'Vana logo'},
+    { name: 'Generative Ventures', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/generative-ventures.svg', alt: 'Generative Ventures logo'},
+    { name: 'ICODA', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/icoda.svg', alt: 'ICODA logo'},
+];
+
 export function SuperHackathonPageContent() {
     return (
         <div className="not-prose">
@@ -47,6 +58,26 @@ export function SuperHackathonPageContent() {
             <h2 className="text-3xl font-bold mb-4">About the Super Hackathon</h2>
             <p className="max-w-4xl mx-auto text-muted-foreground">The Super Hackathon is a global Web3 event designed to demonstrate the scalability and security of Super Protocol’s cloud under real on-chain load. Participants will migrate existing open-source dApps to opBNB, integrate confidential oracle data feeds, and generate verifiable transactions to stress-test performance.</p>
           </div>
+          
+           <div className="my-16">
+            <h2 className="text-3xl font-bold text-center mb-8">Friends of Super</h2>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
+                    {partnersLogos.map((logo) => (
+                        <div key={logo.name} className="flex justify-center items-center p-4 bg-secondary/20 rounded-lg h-24" title={logo.name}>
+                            <div className="relative h-12 w-full">
+                                <Image
+                                  src={logo.src}
+                                  alt={logo.alt}
+                                  fill
+                                  className="object-contain"
+                                  unoptimized
+                                />
+                            </div>
+                        </div>
+                    ))}
+                </div>
+           </div>
+
 
           <div className="grid md:grid-cols-2 gap-8 my-16">
             <Card>
