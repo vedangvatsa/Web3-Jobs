@@ -1,10 +1,15 @@
-
 'use client';
 
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/components/ui/card';
-import { Trophy, Calendar, ArrowRight, Rss, Briefcase, Check, Sparkles, Star, Target, GitBranch, Cloud, Send, Users } from 'lucide-react';
+import { Trophy, Calendar, ArrowRight, Rss, Briefcase, Check, Sparkles, Star, Target, GitBranch, Cloud, Send, Users, Link } from 'lucide-react';
 import Image from 'next/image';
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "@/components/ui/accordion"
 
 const partnersLogos = [
     { name: 'Google Cloud', src: 'https://hackathon.superprotocol.com/super-ecosystem/partners/google-cloud.svg', alt: 'Google Cloud logo'},
@@ -27,10 +32,37 @@ const timelineEvents = [
 const participationSteps = [
     { title: 'Choose dApp', description: 'Select an open-source dApp to migrate.', icon: GitBranch },
     { title: 'Deploy to opBNB', description: 'Migrate and deploy your chosen dApp to the opBNB network.', icon: Cloud },
-    { title: 'Connect Oracles', description: 'Integrate confidential oracle data feeds into your dApp.', icon: Rss },
-    { title: 'Submit Project', description: 'Submit your project through the official hackathon portal.', icon: Send },
+    { title: 'Connect Oracles', description: 'Integrate confidential oracle data feeds.', icon: Rss },
+    { title: 'Submit Project', description: 'Submit your project via the official portal.', icon: Send },
     { title: 'Grow Adoption', description: 'Bring friends and generate on-chain activity to climb the leaderboard.', icon: Users },
 ];
+
+const faqItems = [
+    {
+        question: "Do I need to build a dApp from scratch?",
+        answer: "No. To make the stress test meaningful, submissions must be based on existing open-source dApps deployed on their original network before September 1, 2025. Your role is to migrate them to opBNB and connect to oracle feeds, keeping the original codebase largely intact (no more than ~5% modified). The dApps must be compatible with Chainlink oracle feeds."
+    },
+    {
+        question: "How do I migrate dApps and integrate the data feeds?",
+        answer: "You can follow our deployment examples for existing dApps: see the Liquity example and the Venus Protocol example for reference. Your dApp only needs to read values from the feed contract and apply them in its logic."
+    },
+    {
+        question: "Is a frontend required?",
+        answer: "No. Submissions can be smart contracts only, as long as they are deployed, connected to the oracle feeds, and functional."
+    },
+    {
+        question: "Which networks are supported?",
+        answer: "All projects must be deployed on opBNB. Source dApps must come from Ethereum, Polygon, or BNB Chain."
+    },
+    {
+        question: "Can one team submit multiple projects?",
+        answer: "Yes. A team can (and should!) submit multiple projects, as long as each one is based on a different original dApp (different original contract address). Only unique dApps are allowed within a team - but same dApps may be used by other teams."
+    },
+    {
+        question: "How does scoring work?",
+        answer: "Teams are awarded points based on two metrics: the number of unique dApps deployed and the total volume of transactions generated through them. To encourage originality, the first team to deploy a unique dApp (the first fork of its kind in the hackathon) will receive bonus points."
+    }
+]
 
 export function SuperHackathonPageContent() {
     return (
@@ -53,7 +85,7 @@ export function SuperHackathonPageContent() {
                       The Super Hackathon
                   </h1>
                   <p className="max-w-3xl mx-auto text-lg md:text-xl text-muted-foreground mb-8">
-                      Build your dApp on opBNB, earn up to $20,000 USDT, and gain visibility among leading Web3 investors and partners.
+                      Build your dApp, earn up to $20,000 USDT, and gain visibility among leading Web3 investors and partners.
                   </p>
                   <div className="flex justify-center items-center gap-4 md:gap-8 mb-8 text-lg font-semibold flex-wrap">
                       <div className="flex items-center gap-2"><Trophy className="text-primary"/><span>$20,000 USDT Prize Pool</span></div>
@@ -95,8 +127,8 @@ export function SuperHackathonPageContent() {
           
             <div className="my-16 text-center">
                 <h3 className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">Hackathon Powered By</h3>
-                <div className="flex justify-center items-center p-4 bg-gray-900 rounded-lg max-w-sm mx-auto h-32" title="BNB Chain">
-                    <div className="relative h-20 w-full">
+                <div className="inline-block p-4 bg-gray-900 rounded-lg h-32" title="BNB Chain">
+                    <div className="relative h-full w-48">
                         <Image
                           src="https://hackathon.superprotocol.com/super-ecosystem/partners/bnb-chain.svg"
                           alt="BNB Chain Logo"
@@ -110,7 +142,7 @@ export function SuperHackathonPageContent() {
 
            <div className="my-16 text-center">
             <h2 className="text-3xl font-bold mb-4">Partners & Friends</h2>
-            <p className="text-muted-foreground -mt-4 mb-8">Hashtag Web3 is a proud community partner for this event.</p>
+            <p className="text-muted-foreground -mt-4 mb-8">Hashtag Web3 is a community partner for this event.</p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
                 {partnersLogos.map((logo) => (
                     <div key={logo.name} className="flex justify-center items-center p-4 bg-gray-900 rounded-lg h-24" title={logo.name}>
@@ -146,6 +178,7 @@ export function SuperHackathonPageContent() {
 
             <div className="my-16">
               <h2 className="text-3xl font-bold text-center mb-8">Evaluation Criteria</h2>
+              <p className="text-center text-muted-foreground -mt-4 mb-8">Projects will be scored on deployment and activity, with additional points awarded for uniqueness.</p>
               <div className="grid md:grid-cols-3 gap-8">
                 <Card>
                     <CardHeader><Star className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Unique dApp Bonus</CardTitle></CardHeader>
@@ -226,6 +259,26 @@ export function SuperHackathonPageContent() {
                   </li>
                 ))}
               </ul>
+          </div>
+
+          <div className="my-16">
+              <h2 className="text-3xl font-bold text-center mb-8">Frequently Asked Questions</h2>
+              <p className="text-center text-muted-foreground -mt-4 mb-8">
+                  And for the rest, see the full{" "}
+                  <a href="https://docs.superprotocol.com/hackathon/about/" target="_blank" rel="noopener noreferrer" className="text-primary underline">
+                      Hackathon Rules
+                  </a>.
+              </p>
+              <Accordion type="single" collapsible className="w-full max-w-3xl mx-auto">
+                  {faqItems.map((faq, i) => (
+                       <AccordionItem value={`item-${i}`} key={i}>
+                          <AccordionTrigger>{faq.question}</AccordionTrigger>
+                          <AccordionContent className="text-muted-foreground">
+                            {faq.answer}
+                          </AccordionContent>
+                      </AccordionItem>
+                  ))}
+              </Accordion>
           </div>
 
           <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
