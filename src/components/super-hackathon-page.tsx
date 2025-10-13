@@ -113,6 +113,9 @@ export function SuperHackathonPageContent() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">Super Protocol is a confidential Web3 AI cloud that brings together the power of blockchain and confidential computing. It provides a secure, decentralized environment for developers to deploy applications and AI workloads without relying on centralized providers, ensuring data privacy and verifiable execution inside hardware-based Trusted Execution Environments (TEEs).</p>
+                <a href="https://developer.nvidia.com/blog/exploring-the-case-of-super-protocol-with-self-sovereign-ai-and-nvidia-confidential-computing" target="_blank" rel="noopener noreferrer" className="mt-4 inline-block">
+                    <Button variant="outline">Read the NVIDIA Article <Link className="ml-2 h-4 w-4" /></Button>
+                </a>
               </CardContent>
             </Card>
             <Card>
@@ -181,16 +184,16 @@ export function SuperHackathonPageContent() {
               <p className="text-center text-muted-foreground -mt-4 mb-8">Projects will be scored on deployment and activity, with additional points awarded for uniqueness.</p>
               <div className="grid md:grid-cols-3 gap-8">
                 <Card>
-                    <CardHeader><Star className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Unique dApp Bonus</CardTitle></CardHeader>
-                    <CardContent><p className="text-muted-foreground">Be the first team to submit a specific dApp and earn a 100-point bonus.</p></CardContent>
+                    <CardHeader className="items-center"><Star className="h-8 w-8 text-primary"/><CardTitle className="mt-2">Unique dApp Bonus</CardTitle></CardHeader>
+                    <CardContent><p className="text-muted-foreground text-center">Be the first team to submit a specific dApp and earn a 100-point bonus.</p></CardContent>
                 </Card>
                 <Card>
-                    <CardHeader><Sparkles className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Deployment Points</CardTitle></CardHeader>
-                    <CardContent><p className="text-muted-foreground">Earn 100 points for each successfully deployed and confirmed contract on opBNB.</p></CardContent>
+                    <CardHeader className="items-center"><Sparkles className="h-8 w-8 text-primary"/><CardTitle className="mt-2">Deployment Points</CardTitle></CardHeader>
+                    <CardContent><p className="text-muted-foreground text-center">Earn 100 points for each successfully deployed and confirmed contract on opBNB.</p></CardContent>
                 </Card>
                 <Card>
-                    <CardHeader><Target className="mx-auto h-8 w-8 text-primary"/><CardTitle className="mt-2">Transaction Activity</CardTitle></CardHeader>
-                    <CardContent><p className="text-muted-foreground">Generate on-chain transactions to earn up to 100 points, with 10M+ transactions earning the maximum score.</p></CardContent>
+                    <CardHeader className="items-center"><Target className="h-8 w-8 text-primary"/><CardTitle className="mt-2">Transaction Activity</CardTitle></CardHeader>
+                    <CardContent><p className="text-muted-foreground text-center">Generate on-chain transactions to earn up to 100 points, with 10M+ transactions earning the maximum score.</p></CardContent>
                 </Card>
               </div>
           </div>
