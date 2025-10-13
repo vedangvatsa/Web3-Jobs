@@ -65,7 +65,7 @@ export function SuperHackathonPageContent() {
                 <CardTitle>About Super Protocol</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">Super Protocol is a confidential Web3 AI cloud that combines the power of blockchain with confidential computing. It provides a secure, decentralized environment for developers to deploy applications and AI workloads without relying on centralized providers, ensuring data privacy and verifiable execution inside hardware-based Trusted Execution Environments (TEEs).</p>
+                <p className="text-muted-foreground">Super Protocol is a confidential Web3 AI cloud that brings together the power of blockchain and confidential computing. It provides a secure, decentralized environment for developers to deploy applications and AI workloads without relying on centralized providers, ensuring data privacy and verifiable execution inside hardware-based Trusted Execution Environments (TEEs).</p>
               </CardContent>
             </Card>
             <Card>
@@ -78,8 +78,9 @@ export function SuperHackathonPageContent() {
             </Card>
           </div>
           
-           <div className="my-16">
-            <h2 className="text-3xl font-bold text-center mb-8">Partners & Friends</h2>
+           <div className="my-16 text-center">
+            <h3 className="text-sm font-semibold text-primary uppercase tracking-wider mb-4">Hackathon Powered By</h3>
+            <h2 className="text-3xl font-bold mb-8">Partners & Friends</h2>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
                     {partnersLogos.map((logo) => (
                         <div key={logo.name} className="flex justify-center items-center p-4 bg-gray-900 rounded-lg h-24" title={logo.name}>
