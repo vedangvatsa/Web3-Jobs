@@ -11,6 +11,7 @@ import { Rss } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Suspense } from 'react';
 import { RelatedArticles } from '@/components/related-articles';
+import { SuperHackathonPageContent } from '@/components/super-hackathon-page';
 
 type ArticlePageProps = {
   params: {
@@ -123,26 +124,36 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <article className="container mx-auto px-4 py-8">
               <div className="max-w-5xl mx-auto p-4 sm:p-8">
                  <Suspense fallback={<div>Loading...</div>}>
-                    <header className="mb-8">
-                      <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">
-                        {article.title}
-                      </h1>
-                      <p className="text-lg text-muted-foreground">
-                        {article.description}
-                      </p>
-                    </header>
-                    <Image
-                      src={article.image}
-                      alt={`${article.title} - Hashtag Web3 article cover`}
-                      width={1200}
-                      height={630}
-                      className="rounded-lg shadow-xl mb-8"
-                      priority
-                      data-ai-hint={`${article['data-ai-hint'] || ''}`}
-                    />
-                    <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
-                      <ArticleContent content={article.content} />
-                    </div>
+                    {params.slug !== 'super-hackathon' && (
+                        <header className="mb-8">
+                          <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">
+                            {article.title}
+                          </h1>
+                          <p className="text-lg text-muted-foreground">
+                            {article.description}
+                          </p>
+                        </header>
+                    )}
+                    
+                    {params.slug !== 'super-hackathon' && (
+                        <Image
+                          src={article.image}
+                          alt={`${article.title} - Hashtag Web3 article cover`}
+                          width={1200}
+                          height={630}
+                          className="rounded-lg shadow-xl mb-8"
+                          priority
+                          data-ai-hint={`${article['data-ai-hint'] || ''}`}
+                        />
+                    )}
+                    
+                    {params.slug === 'super-hackathon' ? (
+                        <SuperHackathonPageContent />
+                    ) : (
+                        <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
+                          <ArticleContent content={article.content} />
+                        </div>
+                    )}
 
                     <RelatedArticles 
                       allArticles={allArticles}
@@ -172,3 +183,5 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     </div>
   );
 }
+
+    
