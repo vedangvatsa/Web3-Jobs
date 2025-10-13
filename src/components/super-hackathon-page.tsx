@@ -56,14 +56,14 @@ export function SuperHackathonPageContent() {
 
           <div className="my-16 text-center">
             <h2 className="text-3xl font-bold mb-4">About the Super Hackathon</h2>
-            <p className="max-w-4xl mx-auto text-muted-foreground">The Super Hackathon is a global Web3 event designed to demonstrate the scalability and security of Super Protocol’s cloud under real on-chain load. Participants will migrate existing open-source dApps to opBNB, integrate confidential oracle data feeds, and generate verifiable transactions to stress-test performance.</p>
+            <p className="max-w-4xl mx-auto text-muted-foreground">The Super Hackathon is a global competition to demonstrate how easily dApps can scale on opBNB with Super Protocol. It’s a live stress test — proving real-world performance and reliability.</p>
           </div>
           
            <div className="my-16">
             <h2 className="text-3xl font-bold text-center mb-8">Friends of Super</h2>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center">
                     {partnersLogos.map((logo) => (
-                        <div key={logo.name} className="flex justify-center items-center p-4 bg-secondary/20 rounded-lg h-24" title={logo.name}>
+                        <div key={logo.name} className="flex justify-center items-center p-4 bg-gray-900 rounded-lg h-24" title={logo.name}>
                             <div className="relative h-12 w-full">
                                 <Image
                                   src={logo.src}
