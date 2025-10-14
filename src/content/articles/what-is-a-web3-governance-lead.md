@@ -64,7 +64,7 @@ This is not a technical role, but it requires a deep understanding of the techno
 -   **Deep Protocol Knowledge:** You need to understand the protocol you are helping to govern at a deep level to understand the implications of different proposals.
 -   **Resilience:** DAO governance can be contentious and political. You need to have thick skin and be able to handle public criticism.
 
-The rise of the Governance Lead signals the maturation of the [DAO ecosystem](/rise-of-dao-jobs). It's a move away from chaotic, unstructured communities towards more sophisticated, professionally managed decentralized organizations. For those who are passionate about building the future of governance and online coordination, it's one of the most challenging and impactful roles in all of Web3.
+The rise of the Governance Lead signals the maturation of the [DAO ecosystem](/the-rise-of-daos). It's a move away from chaotic, unstructured communities towards more sophisticated, professionally managed decentralized organizations. For those who are passionate about building the future of governance and online coordination, it's one of the most challenging and impactful roles in all of Web3.
 
 ---
 
