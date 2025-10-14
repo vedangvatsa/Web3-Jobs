@@ -44,8 +44,6 @@ By linking to your "proof of work," you are providing verifiable evidence of you
 
 **Paragraph 3: The Call to Action - A Confident Close**
 
-End with a clear and confident call to action.
-
 > "I am deeply aligned with AcmeFi's mission to make DeFi more accessible, and I am confident that my experience in community-led growth can help you achieve your goals for the V3 launch. My portfolio with further examples of my work is available at [link], and I look forward to discussing how I can contribute to the team."
 
 ### Final Tips
@@ -53,8 +51,6 @@ End with a clear and confident call to action.
 -   **Keep it Concise:** Respect the reader's time. Your cover letter should be short and punchy.
 -   **Tailor Every Single Letter:** A generic cover letter is a wasted opportunity. Every single one you send should be customized to the specific project and role.
 -   **Proofread Meticulously:** Typos or grammar mistakes signal a lack of attention to detail, which is a major red flag in the high-stakes world of Web3.
-
-Your cover letter is your narrative. It's your chance to tell a story that your resume can't—a story about your passion, your initiative, and your deep commitment to building the future of the decentralized internet.
 
 ---
 ## Frequently Asked Questions
