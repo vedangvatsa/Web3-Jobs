@@ -8,7 +8,7 @@ category: "Career Guides"
 
 Recruiting in Web3 is unlike recruiting in any other industry. The talent is scarce, the competition is fierce, and the best candidates are often pseudonymous contributors who are motivated by factors far beyond a simple salary. Traditional recruiting methods—posting on LinkedIn, relying on resumes, and using keyword searches—are woefully inadequate for finding and attracting elite Web3 talent.
 
-To succeed, recruiters and hiring managers must become "crypto-native." They need to understand the culture, participate in the communities where talent congregates, and learn to evaluate candidates based on a new set of criteria. This guide provides actionable strategies for recruiting in the Web3 space. For more details, refer to our comprehensive article on [how to build a strong Web3 portfolio](/how-to-build-a-strong-web3-portfolio) from a recruiter's perspective.
+To succeed, recruiters and hiring managers must become "crypto-native." They need to understand the culture, participate in the communities where talent congregates, and learn to evaluate candidates based on a new set of criteria. This guide provides actionable strategies for recruiting in the Web3 space. For more details, see our comprehensive article on [how to build a strong Web3 portfolio](/how-to-build-a-strong-web3-portfolio) from a recruiter's perspective.
 
 ### Principle #1: Go Where the Talent Is (It's Not LinkedIn)
 

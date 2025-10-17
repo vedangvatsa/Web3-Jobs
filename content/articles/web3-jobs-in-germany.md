@@ -1,6 +1,6 @@
 ---
 title: "Web3 Jobs in Germany: Your Guide to Europe's Blockchain Hub"
-image: "https://images.unsplash.com/photo-1560969184-10fe8719e047?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnZXJtYW55fGVufDB8fHx8MTcxNjQwMTk1MHww&ixlib=rb-4.0.3&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1560969184-10fe8719e047?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnZXJtYW55fGVufDB8fHx8MTcxNjQwMTk1MHww&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "germany city skyline"
 description: "A comprehensive guide to finding a Web3 job in Germany. Explore the thriving crypto scene in Berlin, learn about in-demand skills, and get insights into average salaries."
 category: "Career Guides"

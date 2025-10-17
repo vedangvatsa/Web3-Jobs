@@ -1,6 +1,6 @@
 ---
 title: "Zero-Knowledge Proofs (ZKPs): A Simple Explanation"
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWNofGVufDB8fHx8MTc1NDk1NTc5Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWNofGVufDB8fHx8MTc1NDk1NTc5Mnww&lib=rb-4.1.0&q=80&w=1080"
 description: "An easy-to-understand guide to Zero-Knowledge Proofs. Learn how this revolutionary cryptography allows you to prove something is true without revealing the information itself."
 category: "Technology Deep Dives"
 ---
@@ -71,3 +71,22 @@ ZKPs can allow you to prove things about yourself without revealing sensitive pe
 ## The Future is Zero-Knowledge
 
 Zero-Knowledge Proofs are one of the most profound innovations in cryptography in the last 30 years. While the underlying mathematics is incredibly complex, the applications are becoming more practical every day. From enabling private digital cash to scaling blockchains to support billions of users, ZKPs are a fundamental building block for a more private, secure, and scalable Web3. Understanding this technology is key to understanding the future of the internet.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the main idea behind a Zero-Knowledge Proof?
+A Zero-Knowledge Proof (ZKP) lets you prove that you know a piece of information (like a password) without revealing the information itself. It's a way to prove a statement is true while keeping the underlying data completely private.
+
+### 2. What are the three key properties of a ZKP?
+**Completeness** (true statements are provable), **Soundness** (false statements are not provable), and **Zero-Knowledge** (no extra information is revealed).
+
+### 3. How are ZKPs used to scale blockchains?
+**[ZK-Rollups](/guide-to-layer-2s)** use ZKPs to bundle thousands of off-chain transactions and create a single, tiny "validity proof." The main blockchain only needs to verify this one proof instead of all the individual transactions, which dramatically increases scalability. Our guide to **[zkEVMs](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum)** explains how this is being applied to Ethereum.
+
+### 4. What's the difference between a zk-SNARK and a zk-STARK?
+They are two different types of ZKPs with different trade-offs. In simple terms, **SNARKs** have smaller proof sizes but require a "trusted setup." **STARKs** have larger proof sizes but are "transparent" (no trusted setup) and are considered quantum-resistant.
+
+### 5. What are the career opportunities in Zero-Knowledge technology?
+The demand for **[ZK engineers](/how-to-break-into-web3-cryptographic-research-and-development)** is exploding. These are highly specialized and well-paid roles that require a deep understanding of advanced cryptography and mathematics.
