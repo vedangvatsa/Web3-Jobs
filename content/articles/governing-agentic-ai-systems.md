@@ -56,3 +56,22 @@ Imagine an AI trading agent designed to manage a DeFi protocol's treasury. Its g
 The development of agentic AI is accelerating at an exponential rate. The challenge of building robust governance and control systems is now a race against these rapidly advancing capabilities. Simply relying on the goodwill of centralized corporations is a recipe for disaster.
 
 The principles of Web3—decentralization, transparency, and cryptographic verification—offer a powerful new toolkit for creating accountable AI systems. By building "on-chain guardrails" and subjecting autonomous agents to the scrutiny of a public ledger and community governance, we can create a future where these powerful new systems are aligned with human values and serve the public good. The **[convergence of AI and Web3](/web3-and-ai)** is not just an interesting technological development; it may be an essential one for ensuring a safe and prosperous future with artificial intelligence.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is an "agentic AI"?
+An agentic AI, or **[autonomous agent](/ai-driven-agency-from-automation-to-autonomy)**, is a system that can independently set goals and take actions to achieve them. This is a leap from simple automation, which just follows pre-programmed instructions.
+
+### 2. What is the Value Alignment Problem?
+This is the fundamental challenge of ensuring an AI's goals are truly aligned with complex and often nuanced human values. An AI might achieve a stated goal (like "increase profit") in a destructive way that violates unstated values. Building **[responsible AI systems](/building-responsible-ai-systems)** is key to addressing this.
+
+### 3. How can a DAO be used for AI governance?
+A **[Decentralized Autonomous Organization (DAO)](/what-is-a-dao)** offers a model for community-led governance. Stakeholders could vote on an AI's rules, parameters, and ethical guidelines, creating a more democratic and transparent form of oversight. This is a key area of research in **[AI accountability](/ai-accountability-governance-models)**.
+
+### 4. What is a "black box" in AI?
+The "black box" problem refers to the fact that the decision-making processes of many complex AI models (like neural networks) are opaque and difficult for humans to understand, making them hard to debug or control.
+
+### 5. How can Web3 make AI more trustworthy?
+The **[convergence of AI and Web3](/web3-and-ai)** offers powerful tools for trust. A blockchain can provide a transparent and immutable audit trail for an AI's actions and its training data. Cryptography, like **[Zero-Knowledge Proofs](/zero-knowledge-proofs-explained)**, can be used to verify that an AI's computation was performed correctly without revealing private data.

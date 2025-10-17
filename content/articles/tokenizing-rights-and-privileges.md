@@ -66,3 +66,22 @@ For product managers and developers, this opens up a massive new design space.
 ### Conclusion
 
 Tokenizing rights and privileges is the next evolution of the NFT. It's a move away from static collectibles and towards a world of dynamic, programmable, and user-owned access control. By representing intangible rights as tradable and composable on-chain assets, Web3 is creating the building blocks for more sophisticated economies, more engaging communities, and a more user-centric internet. For builders, the question is no longer just "What can users own?" but "What can users *do*?" The answers will define the next generation of decentralized applications.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is "token-gating"?
+Token-gating is the practice of restricting access to content, a community, or a service to only those users who hold a specific NFT or token in their crypto wallet. It's like a digital membership card and is a primary use case for tokenizing rights.
+
+### 2. Can rights-based NFTs be sold or transferred?
+Yes, and that's a key innovation. If an NFT represents a membership or a subscription, you can sell it on an open marketplace. This creates a secondary market for access rights, which is not possible in traditional systems.
+
+### 3. What is a "soulbound" token?
+A soulbound token is a type of NFT that is non-transferable. Once it's in your wallet, it's bound to you forever. This is useful for representing personal credentials like a university degree or a professional license, which are tied to your identity and shouldn't be sold.
+
+### 4. How does this relate to Decentralized Identity (DID)?
+Tokenizing rights is a core component of the broader vision for **[Decentralized Identity](/decentralized-identity-explained)**. Your DID acts as your base identity, and the various tokens in your wallet represent the verifiable credentials, rights, and privileges you have accumulated, all under your control.
+
+### 5. What are the career opportunities in this space?
+This emerging field creates roles for **[Web3 Product Managers](/web3-product-manager-jobs)** who can design these new token-based systems, smart contract developers who can build them, and community managers who can cultivate the token-gated communities.

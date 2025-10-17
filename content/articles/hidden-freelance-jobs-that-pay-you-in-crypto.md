@@ -6,7 +6,7 @@ description: "A guide to the world of Web3 freelancing. Learn how to find and co
 category: "Career Guides"
 ---
 
-For many professionals, the journey into a Web3 career doesn't start with a formal job application. It begins in the evenings and on weekends, with a small contribution to a project they admire, a "bounty" completed for a DAO, or a single insightful blog post that gets noticed by the community. The permissionless and transparent nature of the Web3 ecosystem has created a vibrant "gig economy," allowing anyone, anywhere, to start contributing and earning an income in crypto without the need for a traditional job.
+For many professionals, the journey into a Web3 career doesn't start with a job application. It begins in the evenings and on weekends, with a small contribution to a project they admire, a "bounty" completed for a DAO, or a single insightful blog post that gets noticed by the community. The permissionless and transparent nature of the Web3 ecosystem has created a vibrant "gig economy," allowing anyone, anywhere, to start contributing and earning an income in crypto without the need for a traditional job.
 
 This freelance, contribution-based pathway is more than just a way to earn some extra money; it's the most effective strategy for building a reputation, honing your skills, and ultimately landing a full-time role. This guide explores the hidden world of Web3 freelance gigs, from finding your first bounty to leveraging your "proof of work" into a sustainable career.
 
@@ -26,7 +26,7 @@ The most common entry point into the Web3 gig economy is the "bounty." A bounty 
 
 #### Where to Find Bounties:
 
-1.  **DAO Discord Servers:** This is the best place to start. [Join a DAO](/the-rise-of-daos) that interests you, find their `#bounties` or `#contribute` channel, and see what tasks are available. This is where the most context-rich opportunities are found.
+1.  **DAO Discord Servers:** This is the best place to start. **[Join a DAO](/the-rise-of-daos)** that interests you, find their `#bounties` or `#contribute` channel, and see what tasks are available. This is where the most context-rich opportunities are found.
 2.  **Bounty Platforms:** Several platforms aggregate bounties from across the Web3 ecosystem.
     -   **Dework:** A popular platform that functions like a "Trello for DAOs," with bounties organized on Kanban boards.
     -   **Layer3:** A platform that gamifies the contribution process, allowing you to earn rewards and build your on-chain reputation by completing tasks for various protocols.
@@ -59,6 +59,25 @@ Consistently completing bounties is how you build a reputation within a DAO and 
 4.  **Joining a Guild/Working Group:** You become a core member of a specific "guild" or working group within the DAO (e.g., the Marketing Guild, the Treasury Guild). This often comes with a regular monthly stipend for your ongoing contributions and a greater say in the strategy of that department.
 5.  **The Full-Time Offer:** After months of consistent, high-impact work as a core contributor, the DAO or the core team behind it may approach you with an offer for a full-time, salaried position. At this point, the interview is often just a formality; your extensive proof of work has already proven your value.
 
-The path from a freelance side hustle to a full-time career in Web3 is a journey of active participation. It's about finding a community you believe in, demonstrating your value through tangible contributions, and building a public reputation as a reliable and skilled operator. In this new world of work, you don't have to ask for permission to get started. The door is open; you just have to walk through it and begin contributing.
+The path from a freelance side hustle to a full-time career in Web3 is a journey of active participation. It's about finding a community you believe in, demonstrating your value through tangible contributions, and building a reputation as a reliable and skilled operator. In this new world of work, you don't have to ask for permission to get started. The door is open; you just have to walk through it and begin contributing.
 
 Find your next freelance gig or full-time role on our [Web3 Job Board](/jobs).
+
+---
+
+## Frequently Asked Questions
+
+### 1. How can I find freelance work in Web3?
+The best place to start is by looking for "bounties" in the Discord servers of various **[DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao)**. Platforms like Dework and Layer3 also aggregate these tasks.
+
+### 2. What kind of freelance jobs are available?
+There are opportunities for all kinds of skills. While technical bounties (like fixing a bug) are common, there are also many for content creation, design, translation, and community moderation. Our guide on **[how to make money with Web3](/how-to-make-money-with-web3)** covers many non-technical paths.
+
+### 3. How do I get paid for freelance Web3 work?
+You are typically paid in cryptocurrency (like a stablecoin or the project's native token) directly to your personal crypto wallet upon completion of the task.
+
+### 4. How can I turn a freelance side hustle into a full-time job?
+By being a consistent and high-quality contributor to a DAO, you build a reputation. This can lead to larger, grant-funded projects and eventually an offer for a full-time role. Your "proof of work" becomes your resume. This journey is detailed in our guide on **[how to get paid by contributing to a DAO](/how-to-contribute-to-daos-and-get-paid)**.
+
+### 5. What is the difference between freelance and full-time in Web3?
+The lines can be blurry. Full-time roles offer more stability and deeper involvement in a single project. Freelancing offers more flexibility and variety. Our guide on **[freelance vs. full-time Web3 careers](/freelance-vs-full-time-web3-career)** can help you decide which is right for you.
