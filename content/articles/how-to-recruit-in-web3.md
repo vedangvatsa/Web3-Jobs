@@ -48,7 +48,10 @@ Understand that a Web3 compensation package is unique. Be prepared to offer and 
 
 You need to be able to explain the project's [tokenomics](/understanding-tokenomics) and the potential long-term value of the token grant. This is a critical part of closing a top candidate.
 
+Recruiting in Web3 requires a deep immersion in the ecosystem. You cannot succeed by being a passive observer. By actively participating in the community, learning to evaluate on-chain and off-chain proof of work, and treating the hiring process as a partnership, you can successfully attract and hire the elite talent needed to build the future of the decentralized internet.
+
 ---
+
 ## Frequently Asked Questions
 
 ### 1. How is Web3 recruiting different from traditional recruiting?
