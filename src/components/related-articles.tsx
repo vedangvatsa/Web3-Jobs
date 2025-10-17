@@ -12,9 +12,16 @@ interface RelatedArticlesProps {
 }
 
 export function RelatedArticles({ allArticles, currentCategory, currentSlug }: RelatedArticlesProps) {
-  const related = allArticles
-    .filter(article => article.category === currentCategory && article.slug !== currentSlug)
-    .slice(0, 4); 
+  // Get up to 4 articles from the same category, excluding the current one
+  const inCategory = allArticles
+    .filter(article => article.category === currentCategory && article.slug !== currentSlug);
+
+  // Get recent articles from other categories to fill the remaining spots
+  const others = allArticles
+    .filter(article => article.category !== currentCategory && article.slug !== currentSlug);
+
+  // Combine them, ensuring we have exactly 4 unique related articles if possible
+  const related = [...inCategory, ...others].slice(0, 4);
 
   if (related.length === 0) {
     return null;
