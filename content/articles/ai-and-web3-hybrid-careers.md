@@ -1,6 +1,6 @@
 ---
 title: "AI + Web3: New Hybrid Careers Emerging in the Decentralized World"
-image: "/images/thisisengineering-ZPeXrWxRQ-unsplash.jpg"
+image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 data-ai-hint: "ai web3 careers"
 description: "Explore the fascinating intersection of Artificial Intelligence and Web3. Discover the emerging hybrid roles for engineers, data scientists, and strategists who can navigate both decentralized and intelligent systems."
 category: "Career Guides"

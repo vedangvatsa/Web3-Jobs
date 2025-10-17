@@ -23,7 +23,7 @@ Unlike many other L1s that use a single blockchain, the Solana main network is c
 Solana does not use a traditional consensus mechanism like those found in Bitcoin or Ethereum. Instead, it uses a novel, "gossip-style" protocol called **Solana Consensus**.
 
 -   **How it works:** When a transaction is proposed, a small, random subset of validators is asked if they think the transaction is valid. These validators then poll another random subset of validators, and this process repeats over and over.
--   **Emergent Consensus:** Through this repeated random sampling, the network very quickly "gossips" its way to a consensus. An honest transaction will be quickly accepted by the entire network, while a conflicting transaction will be rejected.
+-   **Emergent Consensus:** Through this repeated random sampling, the network very quickly "gipsies" its way to a consensus. An honest transaction will be quickly accepted by the entire network, while a conflicting transaction will be rejected.
 -   **The Benefit:** This approach is extremely fast, allowing Solana to achieve transaction finality in under a second.
 
 ### Subnets: Custom Blockchains for Everyone

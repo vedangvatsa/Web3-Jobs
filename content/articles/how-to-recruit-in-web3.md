@@ -1,14 +1,14 @@
 ---
-title: "A Guide to Web3 Recruiting and Talent Acquisition"
-image: "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg"
+title: "The Web3 Recruiter's Playbook: How to Hire Top Crypto Talent"
+image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "recruiting web3 talent"
-description: "A guide for recruiters and hiring managers. Learn the effective strategies for sourcing, vetting, and hiring top talent in the competitive Web3 job market."
+description: "An insider's guide for recruiters and hiring managers. Learn the effective strategies for sourcing, vetting, and hiring top talent in the competitive Web3 job market."
 category: "Career Guides"
 ---
 
 Recruiting in Web3 is unlike recruiting in any other industry. The talent is scarce, the competition is fierce, and the best candidates are often pseudonymous contributors who are motivated by factors far beyond a simple salary. Traditional recruiting methods—posting on LinkedIn, relying on resumes, and using keyword searches—are woefully inadequate for finding and attracting elite Web3 talent.
 
-To succeed, recruiters and hiring managers must become "crypto-native." They need to understand the culture, participate in the communities where talent congregates, and learn to evaluate candidates based on a new set of criteria. This guide provides actionable strategies for recruiting in the Web3 space. For more details, see our related article on [how to recruit in Web3](/how-to-recruit-in-web3).
+To succeed, recruiters and hiring managers must become "crypto-native." They need to understand the culture, participate in the communities where talent congregates, and learn to evaluate candidates based on a new set of criteria. This guide provides actionable strategies for recruiting in the Web3 space. For more details, refer to our comprehensive article on [how to build a strong Web3 portfolio](/how-to-build-a-strong-web3-portfolio) from a recruiter's perspective.
 
 ### Principle #1: Go Where the Talent Is (It's Not LinkedIn)
 
@@ -48,10 +48,7 @@ Understand that a Web3 compensation package is unique. Be prepared to offer and 
 
 You need to be able to explain the project's [tokenomics](/understanding-tokenomics) and the potential long-term value of the token grant. This is a critical part of closing a top candidate.
 
-Recruiting in Web3 requires a deep immersion in the ecosystem. You cannot succeed by being a passive observer. By actively participating in the community, learning to evaluate on-chain and off-chain proof of work, and treating the hiring process as a partnership, you can successfully attract and hire the elite talent needed to build the future of the decentralized internet.
-
 ---
-
 ## Frequently Asked Questions
 
 ### 1. How is Web3 recruiting different from traditional recruiting?
