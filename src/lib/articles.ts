@@ -33,7 +33,7 @@ export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
 
       return {
         slug,
-        ...(matterResult.data as { title: string; image: string; description: string; category: string }),
+        ...(matterResult.data as { title: string; image: string; description: string; category: string; ['data-ai-hint']?: string; }),
       };
     })
     .filter((article): article is Omit<Article, 'content'> => article !== null);
@@ -51,24 +51,16 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   try {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const matterResult = matter(fileContents);
-
-    // Replace markdown links with HTML links
-    const contentWithHtmlLinks = matterResult.content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, text, url) => {
-      if (url.startsWith('/')) {
-        return `<a href="${url}">${text}</a>`;
-      }
-      return match; // Keep external links as they are
-    });
     
     const processedContent = await remark()
       .use(html)
-      .process(contentWithHtmlLinks);
+      .process(matterResult.content);
     const content = processedContent.toString();
 
     return {
       slug,
       content,
-      ...(matterResult.data as { title: string; image: string; description: string; category: string }),
+      ...(matterResult.data as { title: string; image: string; description: string; category: string; ['data-ai-hint']?: string; }),
     };
   } catch (err) {
     console.error(`Error reading or processing article ${slug}:`, err);
