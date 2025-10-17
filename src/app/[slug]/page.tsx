@@ -12,6 +12,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Suspense } from 'react';
 import { RelatedArticles } from '@/components/related-articles';
 import { SuperHackathonPageContent } from '@/components/super-hackathon-page';
+import { cn } from '@/lib/utils';
 
 type ArticlePageProps = {
   params: {
@@ -141,7 +142,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                           alt={`${article.title} - Hashtag Web3 article cover`}
                           width={1200}
                           height={630}
-                          className="rounded-lg shadow-xl mb-8"
+                          className={cn("rounded-lg shadow-xl mb-8 w-full h-auto", 
+                           "md:w-[1200px] md:h-[630px]" 
+                          )}
                           priority
                           data-ai-hint={`${article['data-ai-hint'] || ''}`}
                         />
@@ -183,5 +186,3 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     </div>
   );
 }
-
-    
