@@ -18,7 +18,7 @@ At its core, **Web3** is the vision for the next era of the internet—an intern
 
   However, in Web2, all this value is captured by the platforms themselves. They own your data, they control the content you see, and they can change the rules at any time. You are the product, not the owner.
 
-- **Web3 (The Read-Write-Own Web):** Web3 aims to solve the problems of Web2 by fundamentally restructuring how the internet is owned and controlled. It introduces a new key feature: **ownership**. This new paradigm has opened up a huge **Web3 job market** for those with the right skills.
+- **Web3 (The Read-Write-Own Web):** Web3 aims to solve the problems of Web2 by fundamentally restructuring how the internet is owned and controlled. It introduces a new key feature: **ownership**. This new paradigm has opened up a huge **[Web3 job market](/most-in-demand-web3-careers)** for those with the right skills.
 
 ### The Core Principles of Web3
 
@@ -28,7 +28,7 @@ Web3 is built on a set of core principles that differentiate it from the central
 
 Instead of applications and data being hosted on centralized servers owned by a single company, Web3 applications (or "dApps") are built on **[blockchains](/what-is-a-blockchain)**. A blockchain is a peer-to-peer network of computers that work together to maintain a shared, secure database.
 
-- **Why it matters:** This means there is no single point of failure or control. No single company or government can turn off an application or censor information. Power is returned to the edges of the network—to the users. Some ask "**Is Web3 dead?**", but this core principle ensures it is more resilient than centralized platforms.
+- **Why it matters:** This means there is no single point of failure or control. No single company or government can turn off an application or censor information. Power is returned to the edges of the network—to the users. Some ask "**[Is Web3 dead?](/is-web3-dead)**", but this core principle ensures it is more resilient than centralized platforms.
 
 #### 2. User Ownership
 
@@ -48,9 +48,9 @@ Web3 operates on the principle of "don't trust, verify." Because blockchains are
 
 The building blocks of Web3—decentralization, ownership, and verifiability—unlock a whole new category of applications that weren't possible before. Here are some **Web3 examples**:
 
-- **Decentralized Finance (DeFi):** An entire alternative financial system for lending, borrowing, and trading that doesn't rely on banks. This has created a huge number of **job in cryptocurrency** roles.
+- **Decentralized Finance (DeFi):** An entire alternative financial system for lending, borrowing, and trading that doesn't rely on banks. This has created a huge number of **[job in cryptocurrency](/defi-careers)** roles.
 - **Non-Fungible Tokens (NFTs):** A way to create provably scarce and unique digital items, giving true ownership of digital art, music, collectibles, and in-game assets to creators and users.
-- **Decentralized Autonomous Organizations (DAOs):** Internet-native organizations that are collectively owned and managed by their members. Think of them as co-ops for the digital age. Many **crypto companies hiring** today are structured as DAOs.
+- **Decentralized Autonomous Organizations (DAOs):** Internet-native organizations that are collectively owned and managed by their members. Think of them as co-ops for the digital age. Many **[crypto companies hiring](/the-rise-of-daos)** today are structured as DAOs.
 
 ### The Challenges Ahead
 
@@ -59,7 +59,7 @@ Web3 is still in its early, experimental phase, and it faces significant challen
 - **Scalability:** Blockchains can be slow and expensive to use, although this is rapidly improving with the development of [Layer 2 scaling solutions](/guide-to-layer-2s).
 - **Education:** The concepts behind Web3 are new and can be difficult for people to grasp.
 
-Despite these hurdles, Web3 represents a hopeful and ambitious vision for a better internet. It's a movement to rebuild the web on a foundation of open protocols and user ownership, creating a more equitable and creative digital world. For developers, entrepreneurs, and creators, it's an opportunity to build the next generation of applications and to give ownership back to the users. The demand for talent is high, and you can find many opportunities on a **Web3 job board** like ours.
+Despite these hurdles, Web3 represents a hopeful and ambitious vision for a better internet. It's a movement to rebuild the web on a foundation of open protocols and user ownership, creating a more equitable and creative digital world. For developers, entrepreneurs, and creators, it's an opportunity to build the next generation of applications and to give ownership back to the users. The demand for talent is high, and you can find many opportunities on a **[Web3 job board](/jobs)** like ours.
 ---
 
 ## Frequently Asked Questions
