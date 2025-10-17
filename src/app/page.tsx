@@ -12,7 +12,7 @@ export const revalidate = 43200; // Revalidate every 12 hours
 
 export const metadata: Metadata = {
   title: 'Hashtag Web3 | A Global Web3 Community & Job Board',
-  description: 'Join the Hashtag Web3 global community. Network with professionals, access exclusive career resources and tools, and stay ahead in the world of crypto, blockchain, and Web3 technology.',
+  description: 'Your hub for Web3 careers. Explore thousands of crypto jobs, get career advice from our playbook, and connect with a global community of blockchain professionals.',
   alternates: {
     canonical: '/',
   },
@@ -33,7 +33,7 @@ export default async function Page() {
         url: siteUrl,
         name: 'Hashtag Web3'
     },
-    description: "Join the Hashtag Web3 global community. Network with professionals, access exclusive resources, and stay ahead in the world of crypto, blockchain, and Web3 technology.",
+    description: "Your hub for Web3 careers. Explore thousands of crypto jobs, get career advice from our playbook, and connect with a global community of blockchain professionals.",
   };
 
   return (
