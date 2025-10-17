@@ -33,7 +33,7 @@ On the blockchain, every computation costs money. The ability to write gas-effic
 ### 5. Frontend Integration (Ethers.js / Viem)
 Full-stack Web3 developers are incredibly valuable. You need to know how to connect a user interface to your smart contracts.
 -   **What to know:** Mastery of JavaScript/TypeScript and a modern frontend framework like React or Next.js is a must. You also need to be an expert in using a Web3 library like Ethers.js or Viem to handle wallet connections, read contract state, and prompt users to sign transactions.
--   **How to learn:** Build a full-stack dApp from scratch. Our [guide to building a Web3 portfolio](/building-a-web3-portfolio) has a step-by-step project roadmap.
+-   **How to learn:** Build a full-stack dApp from scratch. Our [guide to building a Web3 portfolio](/building-web3-portfolio) has a step-by-step project roadmap.
 
 ### 6. Layer 2 & Scaling Solutions
 Building on Ethereum mainnet is often too expensive for many applications. A modern Web3 developer needs to understand the Layer 2 ecosystem.
@@ -61,3 +61,22 @@ This is the most important soft skill. Web3 is remote-first. Your ability to com
 -   **How to learn:** Contribute to an open-source project. This is the best way to hone your remote collaboration and communication skills.
 
 By systematically building expertise in these ten areas, you can move beyond being just a "coder" and become a true Web3 engineer, capable of building the secure, efficient, and scalable applications that will power the next generation of the internet.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the most important skill for a Web3 developer?
+**Smart contract security** is paramount. In a world of immutable code and high-value assets, the ability to write secure code and prevent vulnerabilities like **[reentrancy](/common-smart-contract-vulnerabilities-explained)** is the most critical and valuable skill.
+
+### 2. What programming language should I learn for Web3?
+**Solidity** is the essential starting point, as it's the primary language for Ethereum and EVM-compatible chains where most development occurs. For those interested in core blockchain infrastructure, **Rust** is also a highly valuable language to learn. Our guide to the **[top 5 Web3 languages](/top-5-web3-languages)** provides a more detailed comparison.
+
+### 3. Why is gas optimization important?
+Every operation on the blockchain costs users money ("gas"). Writing gas-efficient code makes your dApp cheaper to use, providing a better user experience and a competitive advantage. Mastering **[gas optimization techniques](/gas-optimization-techniques-for-solidity-developers)** is a key skill for senior developers.
+
+### 4. What are Layer 2s and why are they important?
+**[Layer 2 (L2) scaling solutions](/guide-to-layer-2s)** are separate blockchains built on top of a main chain like Ethereum. They process transactions much faster and cheaper, making it possible to build scalable applications. A modern Web3 developer must know how to build on and deploy to L2s.
+
+### 5. How can I get a job as a Web3 developer?
+Start by mastering the fundamental skills, then build a strong portfolio of projects on GitHub. Following a structured learning path, like our **[blockchain developer roadmap](/blockchain-developer-roadmap)**, will give you the projects and knowledge you need to get hired.

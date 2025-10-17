@@ -72,3 +72,22 @@ The shift from attention to intention requires a new way of thinking for busines
 The transition from an attention-based economy to an intention-based one will be a long and complex process. The incumbents of Web2 have a powerful incentive to maintain the status quo. However, the cracks in the attention economy are already showing, and users are growing increasingly weary of being the product.
 
 The Intention Economy offers a compelling alternative: an internet where the incentives of users and service providers are aligned. It's a world where technology serves user goals directly, rather than using them as a means to an end. By giving users true ownership of their data and the tools to express their intentions with precision and privacy, Web3 is laying the groundwork for a more efficient, equitable, and ultimately, more human digital future. For builders, this represents a generational opportunity to create a new class of applications that empower users instead of exploiting them. The era of farming attention is ending; the era of serving intention is just beginning.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is the main difference between the Attention Economy and the Intention Economy?
+In the **Attention Economy** (Web2), platforms capture your attention to sell it to advertisers; you are the product. In the **Intention Economy** (Web3), you are the customer. You broadcast your specific intent, and service providers compete to fulfill it, giving you control over your data and the interaction.
+
+### 2. How does Web3 enable the Intention Economy?
+Web3 provides the core building blocks: **[Decentralized Identity (DID)](/decentralized-identity-explained)** gives you a self-owned digital identity through your crypto wallet. Blockchains allow you to express your intent as a verifiable, secure transaction. And **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained)** let you prove facts about yourself without revealing sensitive data.
+
+### 3. Are there any examples of the Intention Economy today?
+The concept is still in its early stages, but precursors exist in Web3. For example, on a decentralized exchange aggregator, you express your "intent" to swap one token for another, and the protocol searches across multiple liquidity sources to find you the best possible price, fulfilling your intent efficiently.
+
+### 4. What is a "Self-Sovereign Identity"?
+Self-Sovereign Identity (SSI) is a model where individuals control their own digital identity without relying on a centralized provider like Google or Facebook. Your identity, credentials, and data are stored in a wallet that only you control. Read more in our [guide to decentralized identity](/decentralized-identity-explained).
+
+### 5. How will AI play a role in this new economy?
+In the future, personal **[AI Agents](/smart-agents-in-ai)** will act on our behalf. You will give your AI agent a high-level goal (e.g., "plan my vacation to Italy"), and it will autonomously express your intent to various decentralized protocols to find flights, book hotels, and create an itinerary, all based on your learned preferences.

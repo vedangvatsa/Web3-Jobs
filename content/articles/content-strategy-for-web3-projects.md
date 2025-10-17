@@ -67,3 +67,22 @@ The ultimate goal of a Web3 content strategy is to empower your community member
 ### Conclusion
 
 In Web3, content is not just a top-of-funnel marketing activity. It is the connective tissue that binds your product to your community. It is your primary tool for building trust, reducing user friction, and fostering a sense of collective ownership. By focusing on educating, engaging, and empowering your community, you can build a content engine that not only drives growth but also creates a more resilient, intelligent, and passionate ecosystem around your project.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How is Web3 content strategy different from Web2?
+Web3 content strategy is less about direct sales and more about **education, community building, and transparency**. The goal is to build trust in a trustless environment and to empower users to become co-owners and advocates of the protocol. It's a key part of an overall **[Web3 marketing strategy](/web3-marketing)**.
+
+### 2. What is the most important type of content for a Web3 project?
+While it depends on the project, **high-quality, clear documentation** is arguably the most critical piece of content. It's essential for attracting developers to build on your ecosystem and for helping users interact with your protocol safely and effectively. The role of a **[Web3 technical writer](/technical-writer-web3-jobs)** is crucial here.
+
+### 3. What is a "community-led" content strategy?
+A community-led strategy is one that empowers community members to become content creators themselves. This can be achieved by providing grants for content, running bounty programs for specific articles or videos, and creating open-source resources that the community can use. It creates a scalable and authentic marketing flywheel.
+
+### 4. What are the best platforms for publishing Web3 content?
+**Twitter (X)** is the most important channel for distribution and discussion. For long-form content, crypto-native platforms like **Mirror.xyz** are popular because they allow you to turn articles into collectible NFTs. A project's own blog is also essential for creating a permanent content hub.
+
+### 5. How can content help with DAO governance?
+Content plays a vital role in **[DAO governance](/what-is-a-dao)**. This includes creating clear summaries of complex governance proposals, hosting AMAs to allow the community to debate issues, and providing educational materials to help token holders make informed voting decisions.

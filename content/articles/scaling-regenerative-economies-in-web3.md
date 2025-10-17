@@ -64,3 +64,22 @@ The growth of ReFi is creating a new class of career opportunities for professio
 The ReFi movement is still in its early days, and it faces significant challenges, from ensuring the quality of on-chain assets to navigating complex regulatory landscapes. However, it represents one of the most hopeful and inspiring frontiers in the Web3 space.
 
 It's a recognition that the powerful tools of decentralization, smart contracts, and tokenization can be used for more than just financial speculation. They can be used to build new economic engines that are fundamentally aligned with the well-being of our planet and our communities. For builders and professionals looking for a career with purpose, the ReFi space offers a unique opportunity to be at the forefront of creating a more sustainable and equitable world.
+
+---
+
+## Frequently Asked Questions
+
+### 1. What is Regenerative Finance (ReFi)?
+ReFi is a Web3 movement that uses the tools of **[DeFi](/what-is-defi)** to build economic systems that have a positive social or environmental impact. It aims to create "regenerative" economies rather than extractive ones. It's a cornerstone of the **[Web3 for Good](/web3-for-good-careers-in-social-impact-daos)** ecosystem.
+
+### 2. How is ReFi different from DeFi?
+While DeFi focuses on building a more efficient financial system, ReFi extends those tools to create positive externalities. For example, instead of just creating a market for crypto assets, ReFi creates a market for tokenized carbon credits.
+
+### 3. What is an on-chain carbon market?
+An on-chain carbon market involves "tokenizing" real-world carbon credits and trading them on a blockchain. This increases transparency, liquidity, and accessibility for the voluntary carbon market, helping to fund climate solutions more efficiently.
+
+### 4. What is DeSci (Decentralized Science)?
+**[DeSci](/what-is-desci)** is a sub-field of ReFi focused on using Web3 tools to improve scientific research. This includes using **[DAOs](/what-is-a-dao)** to fund research democratically and using blockchains to create a more open and verifiable record of scientific data.
+
+### 5. What kind of jobs are available in ReFi?
+ReFi is creating new roles like **ReFi Protocol Developer**, **Impact Project Manager** (for real-world projects), and **DAO Governance Leads** for impact-focused DAOs. These roles require a blend of Web3 knowledge and a passion for social or environmental impact.

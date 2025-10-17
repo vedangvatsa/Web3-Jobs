@@ -71,3 +71,22 @@ Signing the deal is only the halfway point. Successful execution is what matters
 -   **Attend High-Signal Events:** In-person conferences, hackathons, and small, curated dinners are where many of the most important relationships are forged.
 
 In the composable world of Web3, growth is a team sport. A well-executed business development strategy is the key to creating powerful network effects, building a defensible moat, and ensuring your project's long-term success.
+
+---
+
+## Frequently Asked Questions
+
+### 1. How is Web3 business development different from traditional business development?
+Web3 BizDev focuses on creating **positive-sum integrations and partnerships** rather than direct sales. It's about collaboration, not just customer acquisition. A deep understanding of the technology and the crypto ecosystem is essential. This is covered in depth in our **[Web3 BizDev Career Guide](/web3-business-development-career-guide)**.
+
+### 2. What is a "composable" ecosystem?
+A composable ecosystem, often referred to as "money legos" in **[DeFi](/what-is-defi)**, is one where open-source protocols can be easily combined and built upon by other developers, creating a powerful network effect. This makes partnership strategy extremely important.
+
+### 3. What are some common types of Web3 partnerships?
+Common partnerships include **technical integrations** (e.g., a wallet integrating a DEX), **co-marketing campaigns**, and **token swaps** between project treasuries to align long-term incentives.
+
+### 4. What skills does a Web3 BD professional need?
+The role requires a unique blend of **strategic thinking**, **strong networking ability**, **technical literacy** (you must understand the product), and a **deep, crypto-native understanding** of the market.
+
+### 5. How can I get a job in Web3 BizDev?
+Build a public reputation as a knowledgeable and well-connected person in a specific niche. Start a blog, be active on Twitter, and make valuable introductions for others. Your network and your public "proof of knowledge" are your best resume. For a full playbook, see our guide to **[Web3 partnership strategy](/partnership-strategy-for-web3-projects)**.
