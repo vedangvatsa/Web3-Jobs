@@ -1,6 +1,6 @@
 ---
 title: "The Future of Work in Web3: Jobs That Will Dominate by 2030"
-image: "/images/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
+image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 data-ai-hint: "future of work"
 description: "A forward-looking analysis of the Web3 job market. We predict the key roles and skills that will be most in-demand by 2030 as the decentralized internet matures and achieves mainstream adoption."
 category: "Career Guides"
