@@ -19,14 +19,14 @@ const inter = Inter({
 
 const siteConfig = {
   name: "Hashtag Web3",
-  description: "Your hub for Web3 careers. Explore thousands of crypto jobs, get career advice from our playbook, and connect with a global community of blockchain professionals.",
+  description: "Find your dream Web3 job. Explore thousands of roles in crypto, blockchain, and DeFi. Get career advice, interview prep, and connect with a global community of builders.",
   url: "https://hashtagweb3.com",
 };
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
-    default: `Hashtag Web3 | A Global Web3 Community & Job Board`,
+    default: `Hashtag Web3 | Your Hub for Web3 Jobs & Careers`,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: siteConfig.url,
     title: {
-        default: `Hashtag Web3 | A Global Web3 Community & Job Board`,
+        default: `Hashtag Web3 | Your Hub for Web3 Jobs & Careers`,
         template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: {
-        default: `Hashtag Web3 | A Global Web3 Community & Job Board`,
+        default: `Hashtag Web3 | Your Hub for Web3 Jobs & Careers`,
         template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
@@ -124,7 +124,6 @@ export default async function RootLayout({
         </div>
         <Footer />
         <Toaster />
-        <Analytics />
         <PromoPopup />
       </body>
     </html>

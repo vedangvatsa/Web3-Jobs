@@ -142,8 +142,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                           alt={`${article.title} - Hashtag Web3 article cover`}
                           width={1200}
                           height={630}
-                          className={cn("rounded-lg shadow-xl mb-8 w-full h-auto", 
-                           "md:w-[1200px] md:h-[630px]" 
+                          className={cn("rounded-lg shadow-xl mb-8 w-full md:max-w-4xl h-auto"
                           )}
                           priority
                           data-ai-hint={`${article['data-ai-hint'] || ''}`}
