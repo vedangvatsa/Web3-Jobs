@@ -76,4 +76,4 @@ No. Public blockchains are **pseudonymous**, not anonymous. All transactions are
 Self-custody means you have sole control over the private keys to your crypto wallet. This gives you full ownership of your assets, but also means you are 100% responsible for their security. "Not your keys, not your coins" is a famous crypto mantra.
 
 ### 5. What are the biggest security risks in Web3?
-The biggest risks for users are often social engineering and phishing attacks that trick them into signing malicious transactions or revealing their wallet's seed phrase. For protocols, the primary risk is bugs in their **[smart contracts](/what-are-smart-contracts)**.
+The biggest risks for users are often social engineering and phishing attacks that trick them into signing a malicious transaction or revealing their wallet's seed phrase. For protocols, the primary risk is bugs in their **[smart contracts](/what-are-smart-contracts)**.

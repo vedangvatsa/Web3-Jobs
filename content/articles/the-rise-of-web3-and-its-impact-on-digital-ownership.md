@@ -50,7 +50,7 @@ In Web3, ownership extends beyond assets to the platforms themselves.
 
 ## The Road Ahead
 
-The concept of true digital ownership is still in its early days, and the user experience can be complex. However, the shift is fundamental and likely irreversible. We are moving away from an internet where we are simply users of corporate platforms to one where we are owners of our own digital property and co-owners of the communities we participate in. This is the core promise of Web3, and it has the potential to create a more equitable, creative, and empowered digital world.
+The concept of true digital ownership is still in its early days, and the user experience can be complex. However, the shift is fundamental and likely irreversible. We are moving from an internet where we are simply users of corporate platforms to one where we are owners of our own digital property and co-owners of the communities we participate in. This is the core promise of Web3, and it has the potential to create a more equitable, creative, and empowered digital world.
 
 ---
 

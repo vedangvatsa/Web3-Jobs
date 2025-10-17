@@ -15,7 +15,7 @@ You cannot separate crypto from Web3, because crypto provides the incentives tha
 A public **[blockchain](/what-is-a-blockchain)** is a database that isn't run by a single company; it's run by a global, distributed network of thousands of independent computer operators (called "minors" or "validators"). This decentralization is what makes it secure and censorship-resistant. But why would thousands of people around the world spend money on electricity and hardware to run this network?
 
 - **The Role of Crypto:** Cryptocurrency is the answer. It is the built-in economic incentive.
-  - In a Proof-of-Work system like Bitcoin, miners are rewarded with newly created BTC for contributing their computing power to validate transactions.
+  - In a Proof-of-Work system like Bitcoin, miners are rewarded with newly created cryptocurrency (e.g., BTC) for contributing their computing power to validate transactions.
   - In a Proof-of-Stake system like Ethereum, validators are rewarded with ETH for "staking" their own capital to secure the network.
 
 Without a native cryptocurrency to reward these participants, the network would have no way to pay for its own security and would collapse. **Crypto is the payment system for decentralization.**
