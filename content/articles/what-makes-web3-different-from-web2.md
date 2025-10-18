@@ -75,4 +75,4 @@ It's unlikely that Web3 will completely replace Web2 overnight. A more likely sc
 A dApp is a decentralized application. It's like a regular app, but its backend logic is powered by smart contracts running on a public blockchain, making it open and censorship-resistant.
 
 ### 5. How can I start experiencing Web3 today?
-The first step is to get a non-custodial crypto wallet like MetaMask. From there, you can explore the world of decentralized applications, from swapping tokens on a [DeFi](/what-is-defi) exchange to collecting [NFTs](/what-are-nfts) or joining a [DAO](/what-is-a-dao).
+The first step is to get a non-custodial crypto wallet like MetaMask. From there, you can explore the world of decentralized applications, from swapping tokens on a [DeFi](/what-is-defi) exchange to collecting

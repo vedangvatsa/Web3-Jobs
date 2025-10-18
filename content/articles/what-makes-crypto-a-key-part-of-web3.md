@@ -15,16 +15,16 @@ You cannot separate crypto from Web3, because crypto provides the incentives tha
 A public **[blockchain](/what-is-a-blockchain)** is a database that isn't run by a single company; it's run by a global, distributed network of thousands of independent computer operators (called "minors" or "validators"). This decentralization is what makes it secure and censorship-resistant. But why would thousands of people around the world spend money on electricity and hardware to run this network?
 
 - **The Role of Crypto:** Cryptocurrency is the answer. It is the built-in economic incentive.
-  - In a Proof-of-Work system like Bitcoin, miners are rewarded with newly created cryptocurrency (e.g., BTC) for contributing their computing power to validate transactions.
-  - In a Proof-of-Stake system like Ethereum, validators are rewarded with ETH for "staking" their own capital to secure the network.
+  - In a Proof-of-Work system like Bitcoin, "miners" are rewarded with newly created cryptocurrency (e.g., BTC) for contributing their computing power to validate transactions.
+  - In a Proof-of-Stake system like Ethereum, "validators" are rewarded with ETH for "staking" their own capital to secure the network.
 
-Without a native cryptocurrency to reward these participants, the network would have no way to pay for its own security and would collapse. **Crypto is the payment system for decentralization.**
+Without a native cryptocurrency to reward these participants, the network would have no economic model to pay for its own security and would collapse. **Crypto is the payment system for decentralization.**
 
 ### 2. The "Gas" for the World Computer
 
 Every operation on a smart contract platform like Ethereum requires computational resources. To prevent spam and to allocate these resources effectively, every transaction has a fee, known as "gas."
 
-- **The Role of Crypto:** This gas fee must be paid in the blockchain's native cryptocurrency (e.g., ETH on Ethereum).
+- **The Role of Crypto:** This gas fee is paid in the blockchain's native cryptocurrency (e.g., ETH on Ethereum).
 - **The Impact:** This creates a market for computation. If the network is congested, gas prices go up, incentivizing users to wait or to use more efficient applications. Cryptocurrency acts as the fuel for the "world computer," ensuring its resources are not wasted. You can learn more in our [guide to gas fees](/understanding-gas-fees-and-optimization-in-ethereum).
 
 ### 3. The Asset Layer for the Ownership Economy
@@ -60,17 +60,17 @@ You cannot have a truly decentralized, secure, and user-owned internet without a
 
 ## Frequently Asked Questions
 
-### 1. Can you have Web3 without cryptocurrency?
-No, not in its true form. The core principles of Web3, such as decentralization and user ownership, are made possible by the economic incentives provided by cryptocurrencies. Without a native crypto asset to reward network participants, a blockchain would need to be centrally controlled.
+### 1. Can Web3 exist without cryptocurrency?
+No, not in its true form. The core principles of Web3, such as decentralization, are made possible by the economic incentives provided by cryptocurrencies to reward network operators. Without a native crypto asset, a blockchain would need to be centrally funded and controlled, defeating the purpose of Web3.
 
-### 2. What is the difference between a coin and a token?
-A "coin" (like BTC or ETH) is the native currency of a **[Layer 1 blockchain](/what-is-a-layer-1-blockchain)** and is used to pay for transaction fees. A "token" (like UNI or AAVE) is built on top of an existing blockchain (most commonly as an ERC-20 token on Ethereum) and is used within a specific dApp.
+### 2. Is there a difference between a coin and a token?
+A "coin" (like BTC or ETH) is the native currency of a **[Layer 1 blockchain](/what-is-a-layer-1-blockchain)** and is used to pay for transaction fees. A "token" (like UNI or AAVE) is built on top of an existing blockchain and is used within a specific dApp.
 
 ### 3. Do I need to buy crypto to use Web3 applications?
 Yes. To perform any action on a blockchain, you need to pay a "gas" fee in the network's native cryptocurrency. However, on **[Layer 2 networks](/guide-to-layer-2s)**, these fees can be a fraction of a cent, making Web3 highly accessible.
 
 ### 4. What is the "ownership economy"?
-The ownership economy is a core concept of Web3 where users, creators, and builders are also the owners of the platforms and communities they participate in. This is typically enabled through the distribution of governance tokens or NFTs.
+The ownership economy is a core concept of Web3 where users, creators, and builders are also the owners of the platforms and communities they participate in, typically enabled through the distribution of governance tokens or NFTs.
 
 ### 5. What is the most important cryptocurrency for Web3?
-While Bitcoin was the first cryptocurrency, **Ethereum (ETH)** is the most important for the Web3 application ecosystem. Its introduction of **[smart contracts](/what-are-smart-contracts)** made it a programmable platform, and the vast majority of dApps, DeFi protocols, and NFTs are built on the Ethereum network.
+While Bitcoin was the first, **Ethereum (ETH)** is the most important for the Web3 application ecosystem. Its introduction of **[smart contracts](/what-are-smart-contracts)** made
