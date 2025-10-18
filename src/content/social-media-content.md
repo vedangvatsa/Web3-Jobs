@@ -1,4 +1,3 @@
-
 "The Global Web3 Community
 
 A career in Web3 is a bet on a more open internet, but navigating it requires more than just skills; it demands community and shared knowledge. We've built a place to find your role, connect with builders, and learn how to thrive in the decentralized economy
@@ -121,7 +120,7 @@ https://hashtagweb3.com/company-culture-guide"
 
 "The Future is Agentic
 
-AI agents acting as independent economic players, the US as a global crypto hub, and blockchain securing nuclear research. We explore the 10 big ideas that are set to redefine the decentralized internet in 2025
+AI agents acting as independent economic players, the US as a global crypto hub, and blockchain securing nuclear research. A look at the 10 big ideas that are set to redefine the decentralized internet in 2025
 
 https://hashtagweb3.com/10-big-ideas-in-web3-for-2025"
 
@@ -133,7 +132,7 @@ https://hashtagweb3.com/10-dos-and-donts-for-web3-resume"
 
 "The Web3 Skill Tree
 
-Want to get hired in crypto? It takes more than just coding. We break down the 10 essential technical and non-technical skills you need to master, from on-chain data analysis to asynchronous communication
+Want to get hired in crypto? It takes more than just coding. Here are the 10 essential technical and non-technical skills you need to master, from on-chain data analysis to asynchronous communication
 
 https://hashtagweb3.com/10-essential-skills-for-web3"
 
@@ -145,13 +144,13 @@ https://hashtagweb3.com/a-day-in-the-life-of-a-defi-quant"
 
 "The Rollup-Centric Future
 
-Rollups are the key to scaling Ethereum. This guide explains the difference between Optimistic and ZK-Rollups and why they are the cornerstone of a modular blockchain future
+Rollups are the key to scaling Ethereum. A clear look at the difference between Optimistic and ZK-Rollups and why they are the cornerstone of a modular blockchain future
 
 https://hashtagweb3.com/a-deep-dive-into-rollups-for-ethereum-scaling"
 
 "A Fairer Way to Fund Public Goods
 
-Quadratic Funding uses a matching pool to amplify small community donations, creating a more democratic way to fund public goods. A look at how it works and why it's a powerful tool for Web3
+Quadratic Funding uses a matching pool to amplify small community donations, creating a more democratic way to fund public goods. Here's how it works and why it's a powerful tool for Web3
 
 https://hashtagweb3.com/a-fairer-way-to-make-collective-decisions"
 
@@ -163,7 +162,7 @@ https://hashtagweb3.com/a-guide-to-verifiable-credentials-in-decentralized-ident
 
 "Smarter, Simpler Crypto Wallets
 
-Account Abstraction is set to revolutionize Web3 UX. Learn how EIP-4337 enables features like social recovery and paying gas in any token, making crypto wallets as easy to use as email
+Account Abstraction is set to fix Web3 UX. Here's how EIP-4337 enables features like social recovery and paying gas in any token, making crypto wallets as easy to use as email
 
 https://hashtagweb3.com/account-abstraction-explained"
 
@@ -193,7 +192,7 @@ https://hashtagweb3.com/ai-driven-agency-from-automation-to-autonomy"
 
 "The Modern Solidity Toolkit
 
-Foundry is revolutionizing how developers build and test smart contracts. Its killer feature? Writing your tests directly in Solidity. A guide to why so many are making the switch from Hardhat
+Foundry is changing how developers build and test smart contracts. Its killer feature? Writing your tests directly in Solidity. Here's why so many are making the switch from Hardhat
 
 https://hashtagweb3.com/an-introduction-to-foundry-the-modern-solidity-toolkit"
 
@@ -550,12 +549,6 @@ https://hashtagweb3.com/exploring-web3-marketing-opportunities-in-brazil"
 A deep dive into the career paths for Project Managers in Web3. Learn how traditional project management skills are adapted for the unique environment of decentralized projects and DAOs
 
 https://hashtagweb3.com/exploring-web3-project-manager-career-paths"
-
-"A Fairer Way to Fund
-
-Quadratic Funding uses a matching pool to amplify small community donations, creating a more democratic way to fund public goods. A look at how it works and why it's a powerful tool for Web3
-
-https://hashtagweb3.com/a-fairer-way-to-make-collective-decisions"
 
 "Proving Your Code is Correct
 
@@ -1483,3 +1476,4 @@ https://hashtagweb3.com/blockchain-yield-farming-and-passive-income-strategies"
 A career guide for engineers who want to build the core infrastructure of Web3. Learn what a blockchain infrastructure engineer does, the skills they need, and the opportunities in this specialized field.
 https://hashtagweb3.com/core-blockchain-development-and-infrastructure"
 
+    
