@@ -55,3 +55,4 @@ Not necessarily. While a faster block time improves user experience, it can incr
 
 ### 5. What is the difference between block time and transaction finality?
 Block time is the time to the *first* confirmation. Transaction finality is the time until the transaction is considered irreversible. In Proof-of-Work chains, this can require multiple block confirmations (e.g., an hour for Bitcoin). In
+```

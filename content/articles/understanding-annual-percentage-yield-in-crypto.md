@@ -58,4 +58,4 @@ Yield comes from real economic activity like fees from lending and trading. Howe
 You must understand the source of the yield. Is it from real usage (fees) or just from token inflation? You also need to assess the risks, including smart contract risk and, for liquidity pools, the risk of [impermanent loss](/what-is-yield-farming).
 
 ### 5. What is a "yield aggregator"?
-A yield aggregator is a DeFi protocol that automatically moves your funds between different yield farming opportunities to find the best possible return. They are tools for automating complex yield farming strategies.
+A yield aggregator is a DeFi protocol that automatically moves your funds between different yield farming opportunities to find the best
