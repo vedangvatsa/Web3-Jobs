@@ -3,7 +3,7 @@ title: "Blockchain Yield Farming and Passive Income Strategies"
 image: "/images/javier-quesada-qYfwGVNJqSA-unsplash.jpg"
 data-ai-hint: "crypto yield farming"
 description: "A guide to yield farming, the art of maximizing returns in Decentralized Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi ecosystem."
-category: "Technology Deep Dives"
+category: "Educational"
 ---
 
 In the world of **[Decentralized Finance (DeFi)](/what-is-defi)**, **yield farming** is the practice of using your crypto assets to generate the highest possible returns. Yield farmers are like the power users of DeFi, constantly chasing the best yields by moving their funds between different lending protocols, liquidity pools, and staking opportunities.
@@ -64,4 +64,4 @@ A Liquidity Provider is someone who deposits their assets into a DeFi protocol's
 Impermanent loss is the biggest risk for liquidity providers. It is the potential opportunity cost that occurs when the price of the assets in a liquidity pool diverges. The value of your assets in the pool can end up being less than if you had simply held them in your wallet.
 
 ### 5. What is a "yield farming analyst"?
-This is an emerging professional role for DeFi experts who specialize in finding, analyzing, and managing complex yield farming strategies for crypto funds or DAOs. Our **[yield farming analyst career guide](/how-to-become-a-web3-yield-farming-analyst)** provides more detail on this path.
+This is an emerging professional role for DeFi experts who specialize in finding, analyzing, and managing complex yield farming strategies for crypto funds or DAOs. Our **[yield farming analyst career guide](/how-to-become-a-web3

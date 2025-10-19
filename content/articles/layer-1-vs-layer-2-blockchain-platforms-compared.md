@@ -3,7 +3,7 @@ title: "Layer 1 vs Layer 2 Blockchain Platforms Compared"
 image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
 data-ai-hint: "blockchain layers comparison"
 description: "A comprehensive comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms. Understand their different roles, security models, and how they work together to create a scalable Web3 ecosystem."
-category: "Technology Deep Dives"
+category: "Educational"
 ---
 
 The conversation around blockchain scalability is dominated by two terms: **Layer 1 (L1)** and **Layer 2 (L2)**. Understanding the distinction between these two types of platforms is crucial for any developer, user, or investor in the Web3 space. They represent two different approaches to solving the **[blockchain trilemma](/is-web3-dead)**, and they work together to create a more scalable and usable decentralized internet.
@@ -76,4 +76,4 @@ A rollup is the primary technology used by L2s. It involves "rolling up" thousan
 They serve different purposes. L1s are for security and settlement. L2s are for execution and scalability. For most application developers and users, interacting on an L2 is the better choice because of the low fees and fast speeds.
 
 ### 5. What are the career opportunities in L1 vs. L2 development?
-Working on an L1 protocol (e.g., as a **[core developer](/core-blockchain-development-and-infrastructure)** for Ethereum or Solana) is a deep, systems-level engineering role requiring expertise in languages like Rust or Go. Building on an L2 is more accessible for application developers using **[Solidity](/solidity-for-beginners)**, as the experience is very similar to building on Ethereum.
+Working on an L1 protocol (e.g., as a **[core developer](/core-blockchain-development-and-infrastructure)** for Ethereum or Solana) is a deep, systems-level engineering role requiring expertise in languages like Rust or Go. Building on an L2 is more accessible for application developers using

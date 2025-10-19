@@ -3,7 +3,7 @@ title: "Blockchain in Banking and Financial Services Revolution"
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 data-ai-hint: "banking finance blockchain"
 description: "An analysis of how blockchain technology is set to revolutionize the banking and financial services industry, from cross-border payments to trade finance and digital identity."
-category: "Industry Insights"
+category: "Educational"
 ---
 
 The banking and financial services industry is one of the oldest and most powerful sectors of the global economy. It is also one of the most inefficient, built on legacy infrastructure that is slow, costly, and exclusionary. **[Blockchain technology](/what-is-a-blockchain)** and its most prominent application, **[Decentralized Finance (DeFi)](/what-is-defi)**, represent a powerful wave of disruption that is poised to fundamentally revolutionize how financial services are delivered.

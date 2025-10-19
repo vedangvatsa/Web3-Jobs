@@ -3,7 +3,7 @@ title: "Blockchain Explorer Guide for Bitcoin and Ethereum"
 image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
 data-ai-hint: "blockchain explorer map"
 description: "A beginner's guide to using blockchain explorers like Etherscan and Blockchain.com. Learn how to look up transactions, explore blocks, and read smart contract data on public ledgers."
-category: "Getting Started"
+category: "Educational"
 ---
 
 A public blockchain, by its very nature, is a transparent and open ledger. Every transaction that has ever occurred is recorded on it and is visible to anyone. But how do you actually see this data? The primary tool for this is the **blockchain explorer**. A blockchain explorer is a website that allows you to "explore" the contents of a blockchain in a human-readable format. It's like a search engine for the blockchain.
@@ -88,4 +88,4 @@ A transaction hash is a unique ID assigned to every transaction on the blockchai
 A verified contract on Etherscan has a green checkmark, which means the project team has uploaded their original Solidity code and Etherscan has confirmed that it compiles to the exact same bytecode that is stored on the blockchain. This allows you to read and audit the contract's code, providing crucial transparency.
 
 ### 5. Can I see what NFTs someone owns on a block explorer?
-Yes. By looking up a wallet address on an explorer like Etherscan, you can see a list of all the ERC-721 and ERC-1155 tokens (NFTs) that the address holds.
+Yes. By looking up a wallet address on an explorer like Etherscan, you can see a list of all the ERC-721 and ERC-1155 tokens (NFTs) that the address

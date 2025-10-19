@@ -3,7 +3,7 @@ title: "Blockchain Wallet Security and Best Practices"
 image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
 data-ai-hint: "blockchain wallet security"
 description: "A crucial guide to securing your crypto assets. Learn about the different types of wallets, the importance of seed phrases, and the best practices to protect yourself from hacks and scams."
-category: "Getting Started"
+category: "Educational"
 ---
 
 In the world of Web3, you are your own bank. The power of self-custody—the ability to hold and control your own digital assets without relying on a third party—is one of the most revolutionary aspects of cryptocurrency. But with great power comes great responsibility. If you lose access to your assets or they are stolen, there is no customer support line to call and no bank to reverse the transaction. Security is paramount.
@@ -79,4 +79,4 @@ Use a **hardware wallet** for the majority of your assets. This keeps your priva
 A phishing attack is when a scammer tricks you into visiting a fake website that looks like a legitimate dApp. They then trick you into signing a malicious transaction that drains your wallet.
 
 ### 5. What are smart contract approvals?
-When you use a dApp, you often give its **[smart contract](/what-are-smart-contracts)** "approval" to spend your tokens. It's a good security practice to periodically use a tool like Revoke.cash to cancel old approvals for dApps you no longer use.
+When you use a dApp, you often give its **[smart contract](/what-are-smart-contracts)** "approval" to spend your tokens. It's a good security practice to periodically use a tool like Revoke.cash to

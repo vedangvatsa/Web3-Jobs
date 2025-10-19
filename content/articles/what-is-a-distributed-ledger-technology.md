@@ -40,4 +40,4 @@ A consensus mechanism is the set of rules that a distributed network uses to agr
 The main benefits are decentralization (no single point of failure), immutability (tamper-proof records), transparency (publicly auditable), and security.
 
 ### 5. How does DLT enable Web3?
-DLT provides the secure, decentralized, and trustless foundation upon which Web3 applications are built. It removes the need for centralized intermediaries,
+DLT provides the secure, decentralized, and trustless foundation upon which Web

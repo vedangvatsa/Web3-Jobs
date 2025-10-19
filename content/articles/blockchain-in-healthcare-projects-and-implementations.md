@@ -3,7 +3,7 @@ title: "Blockchain in Healthcare Projects and Implementations"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "healthcare blockchain technology"
 description: "An analysis of how blockchain technology is being used to revolutionize the healthcare industry, from securing medical records to improving clinical trial data and supply chain integrity."
-category: "Industry Insights"
+category: "Educational"
 ---
 
 The healthcare industry is a world of sensitive data, complex supply chains, and a critical need for trust and transparency. It is also an industry that is often hampered by siloed data systems, inefficient processes, and a lack of patient control. **[Blockchain technology](/what-is-a-blockchain)**, with its core features of immutability, security, and decentralization, offers a powerful toolkit to address many of these long-standing challenges.
@@ -77,4 +77,4 @@ By decentralizing data storage and using strong encryption, blockchain can be mo
 The main challenges are regulatory hurdles (like HIPAA compliance in the US), the difficulty of integrating blockchain with legacy hospital IT systems, and the need for a highly secure and user-friendly digital identity solution for patients.
 
 ### 5. What kind of jobs are available in this space?
-The field is creating a need for hybrid professionals, such as developers with experience in both healthcare IT and blockchain, product managers who understand clinical workflows, and lawyers who are experts in both healthcare and data privacy law.
+The field is creating a need for hybrid professionals, such as developers with experience in both healthcare IT

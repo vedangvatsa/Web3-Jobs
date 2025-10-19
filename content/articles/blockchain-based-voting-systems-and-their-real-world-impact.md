@@ -3,7 +3,7 @@ title: "Blockchain Based Voting Systems and Their Real World Impact"
 image: "/images/adi-goldstein-EUsVwEOsblE-unsplash.jpg"
 data-ai-hint: "voting system blockchain"
 description: "A deep dive into how blockchain technology can be used to create secure, transparent, and auditable voting systems, and the real-world impact this could have on corporate and political governance."
-category: "Technology Deep Dives"
+category: "Educational"
 ---
 
 The integrity of voting systems is a cornerstone of modern democracy and corporate governance. Yet, traditional voting systems, whether paper-based or electronic, are often plagued by issues of trust, transparency, and security. They are vulnerable to tampering, subject to human error, and their results are often difficult to audit in a way that satisfies all participants. Blockchain technology, with its core properties of immutability, transparency, and decentralization, offers a powerful and potentially revolutionary solution to these age-old problems.
@@ -79,4 +79,4 @@ A DAO, or **[Decentralized Autonomous Organization](/what-is-a-dao)**, is an int
 The field requires a hybrid skillset. **[Web3 Governance Leads](/what-is-a-web3-governance-lead)** need to understand political science, economics, and community management. The engineers who build these systems need deep expertise in **[smart contracts](/what-are-smart-contracts)** and security.
 
 ### 5. Has blockchain voting been used in a real election?
-Yes. Sierra Leone used a blockchain-based system to tally votes in its 2018 presidential election, providing a new level of transparency. Several smaller-scale and municipal elections around the world have also piloted the technology.
+Yes. Sierra Leone used a blockchain-based system to tally votes in its 2018 presidential election, providing a new level of transparency. Several smaller-scale and municipal elections around the world have also piloted

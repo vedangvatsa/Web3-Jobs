@@ -28,7 +28,7 @@ Hash functions are the unsung heroes of blockchain. Their power comes from a few
 
 These properties combine to make hashing the bedrock of blockchain security, particularly in how blocks are linked together. Each block in a blockchain contains not only its own list of transaction hashes but also the hash of the block that came before it. This creates a cryptographic chain.
 
-Imagine Block 101 contains the hash of Block 100. Block 102 contains the hash of Block 101, and so on. If a malicious actor tried to alter a transaction in Block 100, the hash of Block 100 would change completely (due to the avalanche effect). This would break the link to Block 101, as the "previous block hash" stored in Block 101 would no longer match. The inconsistency would cascade all the way down the chain, instantly invalidating all subsequent blocks and making the tampering immediately obvious to every node on the network.
+Imagine Block 101 contains the hash of Block 100. Block 102 contains the hash of Block 101, and so on. If a malicious actor tried to alter a transaction in Block 100, the hash of Block 100 would change completely (due to the avalanche effect). This would break the link to Block 101, as the "previous block hash" stored in Block 101 would no longer be correct. The inconsistency would cascade all the way down the chain, instantly invalidating all subsequent blocks and making the tampering immediately obvious to every node on the network.
 
 This is what makes the blockchain **[immutable](/blockchain-immutability-explained-for-beginners)**. To successfully alter history, an attacker wouldn't just need to change one block; they would need to re-mine every single block that came after it, faster than the rest of the network, which is a computationally and economically infeasible task on any major blockchain.
 
@@ -58,4 +58,3 @@ Hashing is a fundamental tool in computer science. It's widely used for things l
 
 ### 5. Why is hashing called a "one-way" function?
 It's called a one-way function because it's easy to compute the output (the hash) from the input, but it's practically impossible to compute the input from the output. This property is essential for its security applications.
-

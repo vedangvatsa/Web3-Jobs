@@ -54,4 +54,4 @@ A shorter block time means that your transaction will be included in a block and
 Not necessarily. While a faster block time improves user experience, it can increase the risk of temporary forks if the network is large and geographically distributed. There is a trade-off between speed and the decentralization/security of the consensus.
 
 ### 5. What is the difference between block time and transaction finality?
-Block time is the time to the *first* confirmation. Transaction finality is the time until the transaction is considered irreversible. In Proof-of-Work chains, this can require multiple block confirmations (e.g., an hour for Bitcoin). In Proof-of-Stake chains, this is often a fixed, shorter period (e.g., about 13 minutes on Ethereum).
+Block time is the time to the *first* confirmation. Transaction finality is the time until the transaction is considered irreversible. In Proof-of-Work chains, this can require multiple block confirmations (e.g., an hour for Bitcoin). In

@@ -3,7 +3,7 @@ title: "Blockchain Mining Explained for Beginners"
 image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
 data-ai-hint: "blockchain mining hardware"
 description: "A simple, easy-to-understand guide to blockchain mining. Learn what miners do, how Proof-of-Work operates, and why it's essential for the security of networks like Bitcoin."
-category: "Getting Started"
+category: "Educational"
 ---
 
 You've probably heard of "Bitcoin mining," and it might conjure images of people with pickaxes digging for digital gold. The reality is both more and less complicated than that. Blockchain mining is a core component of many cryptocurrencies, particularly those that use a **[Proof-of-Work (PoW)](/proof-of-stake-vs-proof-of-work-in-blockchain)** consensus mechanism. It's the process by which new transactions are verified and added to the blockchain, and it's how new coins are brought into circulation.
@@ -65,4 +65,4 @@ Proof-of-Work is the **[consensus mechanism](/understanding-web3-consensus-mecha
 The computational puzzle in Proof-of-Work is solved by brute force. This requires specialized, powerful hardware (like ASICs) that consumes a vast amount of electricity. This high energy cost is a major criticism of PoW blockchains.
 
 ### 5. Is all crypto mined?
-No. Many modern blockchains, including Ethereum, use a different consensus mechanism called **[Proof-of-Stake (PoS)](/proof-of-stake-vs-proof-of-work-in-blockchain)**. In PoS, there are no miners. Instead, "validators" lock up their own crypto as collateral to secure the network, which is much more energy-efficient.
+No. Many modern blockchains, including Ethereum, use a different consensus mechanism called **[Proof-of-Stake (PoS)](/proof-of-stake-vs-proof-of-work-in-blockchain)**. In PoS, there
