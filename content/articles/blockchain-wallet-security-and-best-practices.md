@@ -33,7 +33,7 @@ Not all crypto wallets are created equal. They are generally categorized as eith
 
 Hot wallets are software wallets that run on your computer or phone and are connected to the internet.
 
-- **Examples:** MetaMask (browser extension), Phantom (Solana browser extension), Trust Wallet (mobile app).
+- **Examples:** MetaMask (browser extension), Phantom (for Solana), Trust Wallet (mobile app).
 - **Pros:** Convenient for daily transactions.
 - **Cons:** Less secure due to their online nature.
 

@@ -37,7 +37,10 @@ Proof-of-Stake is a more modern and energy-efficient alternative to PoW that is 
     4.  Other validators then "attest" that they have seen the block and believe it is valid. Once a block has enough attestations, it is added to the chain, and the proposing validator receives a reward.
 -   **Security Model:** The security of PoS comes from the economic incentive. If a validator tries to cheat (e.g., by proposing a fraudulent block), their staked collateral can be "slashed"—meaning a portion or all of it is destroyed by the protocol. Since validators have a large financial stake in the network's success, they are heavily incentivized to act honestly.
 -   **Examples:** Ethereum, Solana, Avalanche, Cardano.
--   **Pros:** Over 99.9% more energy-efficient than PoW; allows for greater scalability.
+-   **Pros:**
+    -   **Energy Efficiency:** PoS is over 99.9% more energy-efficient than PoW because it doesn't require vast computational puzzles.
+    -   **Accessibility:** It has a lower barrier to entry for participation than PoW mining, which requires expensive, specialized hardware.
+    -   **Scalability:** PoS enables more advanced scalability solutions.
 -   **Cons:** Can potentially lead to centralization, as those with the most capital (the most stake) have the most influence over the network.
 
 ### Other Consensus Mechanisms
@@ -65,7 +68,7 @@ The main difference is how they decide who gets to create the next block. In **P
 Ethereum switched to PoS in an event called "The Merge" primarily to reduce its massive energy consumption. The move to PoS cut the network's energy use by over 99.9% and also laid the groundwork for future scalability upgrades.
 
 ### 4. What is a "51% attack"?
-A 51% attack is a theoretical attack on a PoW blockchain where a single entity gains control of more than 50% of the network's mining power. This would allow them to alter the blockchain's history. On large networks like Bitcoin, the cost of such an attack is prohibitively high.
+A 51% attack is a theoretical attack on a PoW blockchain where a single entity gains control of more than 50% of the network's mining power. This would allow them to prevent new transactions from being confirmed and to reverse their own transactions, but the immense cost makes it practically impossible on large networks.
 
 ### 5. What kind of jobs involve working on consensus mechanisms?
 This is the domain of **[Consensus Mechanism Architects](/understanding-web3-consensus-mechanism-architects)** and **Protocol Engineers**. These are highly specialized roles requiring deep expertise in distributed systems, cryptography, and game theory.
