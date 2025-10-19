@@ -3,7 +3,7 @@ title: "Blockchain Developer Salary Trends"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "salary money crypto"
 description: "A comprehensive guide to Web3 developer salaries in 2025. We break down what you can earn as a smart contract, frontend, or protocol engineer in the blockchain industry."
-category: "Career Guides"
+category: "Educational"
 ---
 
 The Web3 industry has a well-earned reputation for offering some of the most competitive compensation packages in the entire technology sector. Driven by a massive influx of venture capital and a severe shortage of specialized talent, Web3 companies are willing to pay a premium for engineers who can build the secure and scalable infrastructure of the new internet. But what can a developer *really* expect to earn in this space?
@@ -91,4 +91,4 @@ It can. While some remote-first companies have a single global pay scale, many s
 This varies widely, but for many startup roles, the token grant can be a significant multiplier on your base salary. It's common for the initial value of a four-year token grant to be 50-100% of the annual base salary. For more on this, see our guide to **[Web3 salary negotiation](/web3-career-salary-negotiation)**.
 
 ### 5. How do I get a high-paying developer job in Web3?
-Specialize in a high-demand, high-skill area like security, protocol engineering, or DeFi. Build a world-class portfolio of public work on GitHub and contribute to reputable open-source projects. Our guide on **[how to land high-paying gigs](/how-to-land-high-paying-gigs)** provides a full strategy.
+Specialize in a high-demand, high-skill area like security, protocol engineering, or DeFi. Build a world-class portfolio of public work on GitHub and contribute to reputable open-source projects. Our guide on **[how to land high-paying gigs](/how-to-

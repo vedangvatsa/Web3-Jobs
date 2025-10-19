@@ -3,7 +3,7 @@ title: "Blockchain Technology Explained in Simple Words"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "blockchain technology abstract"
 description: "A simple, easy-to-understand guide to blockchain technology, explaining what it is, how it works, and why it's the foundation of the Web3 revolution."
-category: "Getting Started"
+category: "Educational"
 ---
 
 You've probably heard the term "blockchain" mentioned alongside Bitcoin, Ethereum, or the broader Web3 ecosystem. It's often described as a revolutionary technology, but what exactly is it? At its heart, a blockchain is a new kind of database, a distributed digital ledger. But that simple definition doesn’t capture its true power. A blockchain's uniqueness lies in how it structures, secures, and shares data. It's an unchangeable, transparent, and decentralized record of transactions, making it a powerful tool for creating systems that don't require trust in a central authority. This guide will break down the technology, explain its key features, and explore its impact far beyond digital currencies.

@@ -2,7 +2,7 @@
 title: "Blockchain Oracle Networks and Data Integration"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 description: "Smart contracts can't access off-chain data on their own. Learn how blockchain oracles solve this problem by securely bringing real-world data onto the blockchain."
-category: "Technology Deep Dives"
+category: "Educational"
 ---
 
 Smart contracts are powerful, but they have a fundamental limitation: they are isolated from the outside world. A smart contract running on the Ethereum blockchain cannot, by itself, know the current price of Bitcoin, the weather in New York, or the winner of the World Cup. They exist within the closed, deterministic ecosystem of the blockchain.
@@ -42,4 +42,4 @@ Oracles are the essential infrastructure for a huge range of dApps.
 - **Dynamic NFTs:** An NFT's metadata could be updated based on real-world events. For example, an NFT of a sports player could change its appearance or stats based on their real-world performance, with the data fed by an oracle.
 - **Prediction Markets:** Decentralized prediction markets use oracles to determine the outcome of real-world events (e.g., an election) to settle bets.
 
-Oracles are one of the most critical pieces of infrastructure in the Web3 ecosystem. They solve the inherent limitation of smart contracts, allowing them to securely interact with the vast world of off-chain data and events. Without reliable and decentralized oracles like Chainlink, the vibrant DeFi and NFT ecosystems we see today simply could not exist.
+Oracles are one of the most critical pieces of infrastructure in the Web3 ecosystem. They solve the inherent limitation of smart contracts, allowing them to securely interact with the vast world of off-chain data and events. Without reliable and decentralized oracles like Chainlink,

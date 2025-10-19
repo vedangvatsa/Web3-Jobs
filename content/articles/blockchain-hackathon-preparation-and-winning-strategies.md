@@ -3,7 +3,7 @@ title: "Blockchain Hackathon Preparation and Winning Strategies"
 image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
 data-ai-hint: "hackathon team coding"
 description: "A complete guide to succeeding in a Web3 hackathon. Learn how to prepare, form a team, brainstorm ideas, and build a winning project that gets you noticed by recruiters and VCs."
-category: "Career Guides"
+category: "Educational"
 ---
 
 In the Web3 ecosystem, hackathons are more than just coding competitions; they are a core part of the culture. They are intense, weekend-long sprints where builders from around the world come together to learn, network, and create the next generation of decentralized applications. For an aspiring Web3 developer, participating in a hackathon, especially a major one like those run by **[ETHGlobal](https://ethglobal.com/)**, is one of the single most valuable things you can do for your career.
@@ -82,4 +82,4 @@ It's good to have some general ideas, but be flexible. The best strategy is to w
 Being too ambitious. It's much better to build and polish a small, fully functional project than a large, buggy, and incomplete one. Scope management is the key to success.
 
 ### 5. Are hackathon projects a good way to get a job?
-Absolutely. A hackathon project is a powerful signal to employers. It proves you can build, work in a team, and ship under pressure. Many companies use hackathons as a primary recruiting ground. It's a key part of **[getting a job with no experience](/how-to-get-a-job-with-no-experience)**.
+Absolutely. A hackathon project is a powerful signal to employers. It proves you can build, work in a team, and ship under pressure. Many companies use hackathons as a primary recruiting ground. It's a key part of **[getting a job with no

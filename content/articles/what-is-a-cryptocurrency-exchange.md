@@ -73,4 +73,4 @@ An order book is a real-time list of all the buy and sell orders for a specific 
 KYC, or "Know Your Customer," is a regulatory requirement for financial institutions to prevent money laundering. Centralized exchanges must collect and verify the identity of their users to comply with these **AML regulations**.
 
 ### 5. What is the biggest crypto exchange?
-By trading volume, Binance is currently the largest centralized
+By

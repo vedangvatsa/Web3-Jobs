@@ -3,7 +3,7 @@ title: "Private vs Public vs Consortium Blockchain Explained"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "blockchain private public"
 description: "A clear comparison of the three main types of blockchains: public, private, and consortium. Understand their differences in permissions, decentralization, and ideal use cases."
-category: "Technology Deep Dives"
+category: "Educational"
 ---
 
 While the terms "blockchain" and "decentralization" are often used interchangeably, not all blockchains are fully decentralized or open to the public. The architecture of a blockchain can be designed to fit different needs, leading to three main types: **public, private, and consortium blockchains**.
@@ -81,4 +81,4 @@ A private blockchain still offers the benefit of **immutability** and **auditabi
 DeFi (Decentralized Finance) applications almost exclusively use **public blockchains** like Ethereum. This is because DeFi requires a permissionless and censorship-resistant platform that is open to all users.
 
 ### 5. What are the career differences between public and private blockchain development?
-Developing for **public blockchains** typically involves **[Solidity](/solidity-for-beginners)** and is often focused on DeFi, NFTs, and other open protocols. Developing for **private blockchains** is more common in **[enterprise roles](/web3-logistics)**, often using languages like Java or Go and platforms like Hyperledger Fabric, with a focus on supply chain and financial services.
+Developing for **public blockchains** typically involves **[Solidity](/solidity-for-beginners)** and is often focused on DeFi, NFTs, and other open protocols. Developing for **private blockchains** is more common in **[enterprise roles](/web3-logistics)**

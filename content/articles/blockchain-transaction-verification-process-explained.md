@@ -3,7 +3,7 @@ title: "Blockchain Transaction Verification Process Explained"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "blockchain transaction process"
 description: "A step-by-step guide to how transactions are verified and added to a blockchain, explaining the roles of nodes, miners, and consensus mechanisms in this fundamental process."
-category: "Technology Deep Dives"
+category: "Educational"
 ---
 
 A blockchain is, at its core, a ledger of transactions. The process by which these transactions are verified and securely added to the ledger is the cornerstone of the technology's value proposition. It's what makes a blockchain a trustless and tamper-proof system. Understanding this verification process is key to understanding why blockchain is so revolutionary.
@@ -65,4 +65,4 @@ No. Once a transaction has reached finality on a blockchain, it is immutable and
 A block explorer, like **[Etherscan](/blockchain-explorer-guide-for-bitcoin-and-ethereum)**, is a website that allows you to view and search for all transactions, blocks, and addresses on a blockchain. It's a tool for publicly verifying all on-chain activity.
 
 ### 5. Who verifies the transactions?
-Transactions are verified by a decentralized network of participants. In Proof-of-Work systems, they are called "miners"; in Proof-of-Stake systems, they are called "validators." Their work is essential for the security and operation of the network.
+Transactions are verified by a decentralized network of participants. In Proof-of-Work systems, they are called "miners"; in

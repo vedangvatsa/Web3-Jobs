@@ -3,7 +3,7 @@ title: "Blockchain QA Jobs and Testing Methodologies"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "quality assurance test"
 description: "An inside look at the crucial role of a Quality Assurance (QA) Engineer in Web3. Learn how QA differs in a blockchain environment and the skills needed to ensure protocol stability and reliability."
-category: "Career Guides"
+category: "Educational"
 ---
 
 In the high-stakes world of Web3, where immutable smart contracts can manage billions of dollars, quality and reliability are not just features—they are absolute necessities. While [Smart Contract Auditors](/smart-contract-auditor-career) focus on finding security vulnerabilities, a different type of engineer is responsible for ensuring that a protocol functions exactly as intended: the **Web3 Quality Assurance (QA) Engineer**.
@@ -72,4 +72,4 @@ You need a strong foundation in traditional QA methodologies, proficiency in wri
 Fork testing is a powerful technique where a QA engineer creates a local copy (a "fork") of a live blockchain like Ethereum Mainnet. This allows them to test how their dApp interacts with other real, deployed protocols in a safe and controlled environment.
 
 ### 5. How can I get experience in Web3 QA?
-A great way to build your portfolio is to contribute to open-source Web3 projects. Find a project on GitHub, analyze their test coverage, and submit a pull request that adds new and valuable tests. This is a powerful "proof of work."
+A great way to build your portfolio is to contribute to open-source Web3 projects. Find a project on GitHub, analyze their test coverage, and submit a pull request that

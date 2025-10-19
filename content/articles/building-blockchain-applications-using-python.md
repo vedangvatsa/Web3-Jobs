@@ -3,7 +3,7 @@ title: "Building Blockchain Applications Using Python"
 image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
 data-ai-hint: "python code blockchain"
 description: "A developer's guide to using Python for blockchain and Web3 development. Learn about the key libraries like Web3.py and the use cases where Python excels."
-category: "Technology Deep Dives"
+category: "Educational"
 ---
 
 When people think of blockchain development, they often think of languages like Solidity or Rust, which are used to write **[smart contracts](/what-are-smart-contracts)** or build core blockchain clients. However, **Python**, one of the world's most popular and versatile programming languages, plays a crucial and powerful role in the Web3 ecosystem, particularly in building backend services, data analysis pipelines, and testing scripts.
