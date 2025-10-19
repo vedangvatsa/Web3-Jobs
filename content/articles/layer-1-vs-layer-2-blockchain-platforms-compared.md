@@ -67,7 +67,7 @@ Layer 1 and Layer 2 platforms are not competitors; they are partners in a symbio
 Ethereum is the canonical **[Layer 1 (L1)](/what-is-a-layer-1-blockchain)** smart contract platform. It provides the security and settlement for a vast ecosystem of Layer 2s built on top of it.
 
 ### 2. Is Polygon a Layer 2?
-This is a common point of confusion. The main Polygon network, **Polygon PoS**, is technically a **[sidechain](/sidechains-vs-layer-2s)**, not a true L2, because it has its own validator set and is responsible for its own security. However, the Polygon team is also building several other scaling solutions, including Polygon zkEVM, which is a true L2 ZK-Rollup.
+This is a common point of confusion. The main Polygon network, **Polygon PoS**, is technically a **[sidechain](/sidechains-vs-layer-2s)**, not a true L2, because it has its own validator set and is responsible for its own security. However, the Polygon team is also building several other scaling solutions, including Polygon zkEVM, which is a true **[Layer 2 ZK-Rollup](/guide-to-layer-2s)**.
 
 ### 3. What is a "rollup"?
 A rollup is the primary technology used by L2s. It involves "rolling up" thousands of off-chain transactions into a single batch and posting a compressed version of that data to the L1. There are two main types: **[Optimistic Rollups and ZK-Rollups](/guide-to-layer-2s)**.

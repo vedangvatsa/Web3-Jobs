@@ -1,9 +1,9 @@
 ---
-title: 'Smart Contracts in Blockchain and Their Applications'
-image: 'https://images.unsplash.com/photo-1639815188546-c43c240ff4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibG9ja2NoYWlufGVufDB8fHx8MTc1NDk0OTMwMXww&lib=rb-4.1.0&q=80&w=1080'
+title: "Smart Contracts in Blockchain and Their Applications"
+image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "smart contract code"
-description: 'Discover how smart contracts work, why they are the essential building blocks of decentralized applications, and their impact on industries from finance to law.'
-category: 'Technology Deep Dives'
+description: "Discover how smart contracts work, why they are the essential building blocks of decentralized applications, and their impact on industries from finance to law."
+category: "Technology Deep Dives"
 ---
 
 If the **[blockchain](/what-is-a-blockchain)** is the foundation of Web3, then smart contracts are the engines that power it. They are arguably one of the most transformative concepts to emerge from the crypto space, enabling the creation of everything from Decentralized Finance (DeFi) protocols to complex governance systems. A smart contract is not a legal document in the traditional sense; it’s a computer program stored on a blockchain that automatically executes when predetermined conditions are met. Think of it as a digital vending machine: you insert money (input), and the machine automatically dispenses your chosen snack (output). There are no intermediaries, no paperwork, and no need to trust the machine’s owner—the rules are coded into the machine itself. This guide delves into the mechanics of smart contracts, their revolutionary properties, and their potential to automate and redefine industries.
@@ -61,4 +61,3 @@ The biggest risk is a security vulnerability in the code. Because contracts are 
 
 ### 5. How can I learn to become a smart contract developer?
 The best way to start is by learning Solidity. There are many free online resources. A structured path is to follow a roadmap, like our **[guide to becoming a blockchain developer](/how-to-become-a-blockchain-developer)**, which will take you from the basics to building your own full-stack dApp.
-
