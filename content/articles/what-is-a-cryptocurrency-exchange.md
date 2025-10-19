@@ -14,8 +14,8 @@ These platforms are the backbone of the crypto economy, providing the liquidity 
 
 At its heart, an exchange's job is to match buyers with sellers. It maintains an "order book" for each trading pair (e.g., BTC/USD). The order book is a real-time list of all the "buy" orders (bids) and "sell" orders (asks) at different price levels.
 
-- **When you place a "market order" to buy Bitcoin:** The exchange immediately finds the lowest available sell order on the book and fills your request.
-- **When you place a "limit order" to sell Bitcoin at a specific price:** Your order is added to the order book and will only be executed if the market price reaches your specified level.
+- When you place a "market order" to buy Bitcoin, the exchange immediately finds the lowest available sell order on the book and fills your request.
+- When you place a "limit order" to sell Bitcoin at a specific price, your order is added to the order book and will only be executed if the market price reaches your specified level.
 
 The exchange facilitates this process, taking a small fee on each trade for its service.
 
@@ -33,7 +33,7 @@ A centralized exchange is a traditional company that operates a private, off-cha
   - **High Liquidity and Speed:** Their centralized nature allows for very fast trading and deep liquidity.
   - **Fiat On-Ramps:** They provide the essential service of letting you buy crypto with your bank account or credit card.
 - **Cons:**
-  - **Custodial Risk:** You do not have self-custody of your funds. The exchange holds your private keys. This means you are exposed to the risk of the exchange being hacked or going bankrupt (as seen with FTX). This is summarized by the crypto mantra: **"Not your keys, not your coins."**
+  - **Custodial Risk:** You don't truly own your crypto. You are trusting the exchange to secure your assets. If the exchange is hacked or goes bankrupt (as seen with FTX), you could lose your funds. This is summarized by the crypto mantra: **"Not your keys, not your coins."**
   - **Permissioned:** They can freeze your account or block transactions if required by law enforcement.
 
 #### 2. Decentralized Exchanges (DEXs)
@@ -73,5 +73,4 @@ An order book is a real-time list of all the buy and sell orders for a specific 
 KYC, or "Know Your Customer," is a regulatory requirement for financial institutions to prevent money laundering. Centralized exchanges must collect and verify the identity of their users to comply with these **AML regulations**.
 
 ### 5. What is the biggest crypto exchange?
-By trading volume, Binance is currently the largest centralized cryptocurrency exchange in the world. For decentralized exchanges, Uniswap on Ethereum is the largest by volume.
-
+By trading volume, Binance is currently the largest centralized
