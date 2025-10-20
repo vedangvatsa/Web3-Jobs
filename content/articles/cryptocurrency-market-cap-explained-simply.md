@@ -64,7 +64,4 @@ Websites like CoinGecko and CoinMarketCap are the most popular resources for tra
 A "blue-chip" crypto is a large-cap, well-established project with a long track record of security and decentralization. Bitcoin and Ethereum are universally considered to be the blue chips of the crypto market.
 
 ### 5. Why is a large market cap considered safer?
-A large market cap generally indicates that a project has deep liquidity, a wide distribution of token holders, and is more difficult to manipulate. It suggests that the project has stood the test of time and gained the trust of a large number of market participants.
-```
-
-## I will stop here and await your feedback before proceeding with the rest of the files.
+A large market cap generally indicates that a project has deep liquidity, a wide distribution of token holders, and is more
