@@ -5,7 +5,6 @@ data-ai-hint: "token swap crypto"
 description: "A token swap, or atomic swap, is the process of exchanging one cryptocurrency for another without the need for a centralized intermediary. It's a cornerstone of DeFi."
 category: "Educational"
 ---
-
 A **token swap** is the process of exchanging one cryptocurrency for another in a peer-to-peer fashion, without needing to go through a centralized exchange. This is one of the most fundamental and common activities in Decentralized Finance (DeFi) and is the primary function of a Decentralized Exchange (DEX). The ability to swap tokens trustlessly is a core building block of the entire Web3 economy.
 
 ### Token Swaps in Web2 vs. Web3
@@ -41,7 +40,7 @@ Token swaps are the lifeblood of DeFi. They provide the liquidity and interopera
 
 ---
 
-## Frequently Asked Questions
+## Frequently Asked questions
 
 ### 1. Is a token swap a taxable event?
 Yes. In most jurisdictions, including the United States, swapping one cryptocurrency for another is treated as a disposition of the first asset. This means you realize a capital gain or loss on the token you are swapping out of, and you must report it on your taxes.
