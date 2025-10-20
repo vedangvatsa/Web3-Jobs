@@ -76,4 +76,4 @@ A standard schedule for team and investor tokens is a **4-year vesting period wi
 It's crucial for aligning incentives. It ensures that the core team and early investors are motivated to build for the long term, as they cannot simply sell all their tokens and abandon the project right after launch. It's a key part of **[tokenomics for compensation](/tokenomics-for-compensation)**.
 
 ### 5. Where can I find information about a project's vesting schedule?
-This information should be publicly available in the project's **[whitepaper](/what-is-a-whitepaper-in-blockchain-
+This information should be publicly available in the project's **[whitepaper](/what-is-a-whitepaper-in-blockchain-projects)** or on its official website. If it's not disclosed, that is a major red flag.
