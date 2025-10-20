@@ -30,7 +30,7 @@ export default async function JobsPage() {
       url: siteUrl,
       name: 'Hashtag Web3'
     },
-    description: "The best job board for Web3, crypto, and blockchain roles. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
+    description: "Find the best web3 jobs. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
   };
 
   const jobPostingsSchema: JobPosting[] = initialJobs.map(job => ({
