@@ -47,4 +47,4 @@ No. The cliff and vesting schedule typically apply to tokens allocated to the **
 Linear vesting is the process by which tokens are earned incrementally after the cliff is met. For example, after a 1-year cliff on a 4-year vesting schedule, the remaining tokens will typically vest in equal monthly installments over the next 36 months.
 
 ### 5. Why is a short cliff a red flag?
-A short cliff (e.g., 3 months) or no cliff at all for a project's team is a major red flag. It suggests that the team may not be committed to the project's long-term success and could potentially "dump" their tokens on the market shortly after launch. It's a key part of evaluating a project's **[tokenomics](/tokenomics-for-compensation)**.
+A short cliff (e.g., 3 months) or no cliff at all for a project's team is a major red flag. It suggests that the team may not be committed to the project's long-term success and could potentially "dump" their tokens on the market shortly after launch. It's a key part of evaluating a project's **[tokenomics for compensation](/tokenomics-for-compensation)**.
