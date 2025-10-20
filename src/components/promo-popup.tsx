@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Dialog, DialogContent } from '@/components/ui/dialog';
+import { Dialog, DialogContent, DialogTitle, DialogDescription } from '@/components/ui/dialog';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -23,6 +23,8 @@ export function PromoPopup() {
   return (
     <Dialog open={isOpen} onOpenChange={setIsOpen}>
       <DialogContent className="p-0 border-0 max-w-3xl bg-transparent shadow-2xl">
+        <DialogTitle className="sr-only">Super Hackathon Promotion</DialogTitle>
+        <DialogDescription className="sr-only">A promotional image for the Super Hackathon. Click to learn more.</DialogDescription>
         <Link href="https://bit.ly/SuperHackathon" passHref legacyBehavior>
           <a target="_blank" rel="noopener noreferrer" className="block cursor-pointer">
             <Image
