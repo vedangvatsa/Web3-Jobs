@@ -5,7 +5,6 @@ data-ai-hint: "blockchain hash"
 description: "A detailed look at transaction hashing. Learn what a hash is, how it's created, and why it's a cornerstone of blockchain security and data integrity."
 category: "Educational"
 ---
-
 Every transaction on a blockchain has a unique digital fingerprint, a special identifier that proves its authenticity and secures its place in the ledger. This fingerprint is called a transaction hash, often shortened to TxID. Understanding what a hash is and how it’s generated is fundamental to grasping the security and integrity of blockchain technology. It’s the cryptographic magic that makes the ledger tamper-proof.
 
 A transaction hash is a fixed-length string of letters and numbers that uniquely identifies a specific transaction. It’s created by putting the transaction's details—such as the sender's address, the recipient's address, the amount, and a timestamp—through a cryptographic hash function. The most common algorithm used is SHA-256 (Secure Hash Algorithm 256-bit). This process is not encryption; it's a one-way street. You can't reverse-engineer the transaction details from the hash, but the same transaction details will always produce the exact same hash.
@@ -57,4 +56,4 @@ A transaction hash is a fingerprint of a single transaction. A block hash is a f
 Hashing is a fundamental tool in computer science. It's widely used for things like securely storing passwords (websites store a hash of your password, not the password itself), data integrity checks (to ensure a file hasn't been corrupted during download), and in data structures like hash tables for efficient data lookup.
 
 ### 5. Why is hashing called a "one-way" function?
-It's called a one-way function because it's easy to compute the output (the hash) from the input, but it's practically impossible to compute the input from the output. This property is essential for its security applications.
+It's called a one-way function because it's easy to compute the output (the hash) from the input

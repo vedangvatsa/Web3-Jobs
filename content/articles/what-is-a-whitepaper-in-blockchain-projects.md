@@ -70,4 +70,4 @@ Not entirely. While some sections will be highly technical, a good whitepaper sh
 A "litepaper" is a shorter, less technical version of a whitepaper. It's designed to be more accessible to a general audience, focusing on the high-level vision and value proposition rather than the deep technical details.
 
 ### 5. Where can I find a project's whitepaper?
-A project's whitepaper should be easily accessible, usually linked directly from the homepage of their official website. If you can't find it, that's a red flag.
+A project's whitepaper should be easily accessible, usually linked directly from the homepage of their official website. If
