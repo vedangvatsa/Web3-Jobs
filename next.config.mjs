@@ -17,13 +17,19 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'picsumphotos.com',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
         hostname: 'images.unsplash.com',
         port: '',
         pathname: '/**',
       },
     ],
     domains: [
-      'web3-jobs.example.com',
+      'hashtagweb3.com',
     ],
   },
 };
