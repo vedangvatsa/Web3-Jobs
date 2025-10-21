@@ -73,16 +73,16 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'picsum.photos',
-      },
-      {
-        protocol: 'https',
         hostname: 'hackathon.superprotocol.com',
       },
       {
           protocol: 'https',
           hostname: 's.w.org',
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'picsum.photos',
+      },
     ],
   },
 };
