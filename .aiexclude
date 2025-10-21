@@ -1,9 +1,7 @@
 # Build and output directories
 node_modules/
 dist/
-build/
-out/
-.next/
+
 .cache/
 .astro/
 .vercel/
