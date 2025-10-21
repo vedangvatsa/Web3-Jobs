@@ -37,3 +37,18 @@ public/
 *.pdf
 *.csv
 
+# Logs and temp files
+logs/
+*.log
+tmp/
+temp/
+
+# Framework specific
+firebase-debug.log
+.firebaserc
+firebase.json
+
+# Data or generated files
+data/
+coverage/
+public/

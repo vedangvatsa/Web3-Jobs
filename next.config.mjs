@@ -11,7 +11,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'placehold.co',
+        hostname: 'picsum.photos',
         port: '',
         pathname: '/**',
       },
@@ -20,10 +20,10 @@ const nextConfig = {
         hostname: 'images.unsplash.com',
         port: '',
         pathname: '/**',
-      }
+      },
     ],
     domains: [
-      'web3-jobs.example.com'
+      'web3-jobs.example.com',
     ],
   },
 };
