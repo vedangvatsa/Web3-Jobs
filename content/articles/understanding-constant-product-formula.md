@@ -1,0 +1,108 @@
+---
+title: "Understanding the Constant Product Formula in AMMs"
+description: "A clear and simple guide to the constant product formula (x * y = k), the core mathematical engine that powers decentralized exchanges like Uniswap."
+category: "Educational"
+image: "https://picsum.photos/seed/xyk/1200/630"
+data-ai-hint: "constant product formula"
+---
+
+## Understanding the Constant Product Formula (`x * y = k`): The Engine of AMMs
+
+The **Constant Product Formula**, most famously expressed as `x * y = k`, is the elegant mathematical equation that powers many of the most popular Automated Market Makers (AMMs) and Decentralized Exchanges (DEXs), including Uniswap v2. This formula creates a "bonding curve" that automatically determines the price of assets in a liquidity pool without needing a traditional order book.
+
+Understanding this simple formula is the key to unlocking the magic of how DeFi liquidity pools work. It dictates how prices are set, why slippage occurs, and why liquidity providers are exposed to impermanent loss.
+
+This guide provides a straightforward explanation of the constant product formula, how it works in practice, and its core characteristics.
+
+### Key Insights
+
+*   **The Formula**: `x * y = k`, where `x` is the amount of Token A, `y` is the amount of Token B, and `k` is a constant.
+*   **The Rule**: The core rule of the protocol is that `k` must remain constant during a trade. To keep `k` the same, if you take some of `x` out, you must add a proportional amount of `y` in, and vice-versa.
+*   **Price Discovery**: The price of an asset in the pool is simply the ratio of the two reserves (`x / y`). Trades automatically adjust the price by changing this ratio.
+*   **Infinite Liquidity**: The hyperbolic shape of the `x * y = k` curve means that the pool can theoretically provide liquidity at any price, from zero to infinity.
+*   **The Foundation of DeFi**: This simple formula enabled the creation of permissionless, automated exchanges that have become a cornerstone of the DeFi ecosystem.
+
+### Breaking Down the Formula
+
+Let's look at each component of `x * y = k`:
+
+*   **`x`**: The total reserve of Token A in the liquidity pool.
+    *   *Example*: The number of ETH tokens in an ETH/USDC pool.
+*   **`y`**: The total reserve of Token B in the liquidity pool.
+    *   *Example*: The number of USDC tokens in an ETH/USDC pool.
+*   **`k`**: The constant product. This value is calculated when liquidity is first added to the pool and only changes when LPs add or remove liquidity. **During a trade, `k` must not change.**
+
+### How a Trade Works Using `x * y = k`
+
+Imagine a liquidity pool for ETH and USDC with the following state:
+*   `x` (ETH reserve) = 10 ETH
+*   `y` (USDC reserve) = 35,000 USDC
+
+First, we calculate our constant, `k`:
+*   `k = x * y = 10 * 35,000 = 350,000`
+
+The protocol's job is to ensure that after any trade, the product of the new reserves is still 350,000.
+
+The current price of ETH is the ratio of the reserves:
+*   Price of ETH = `y / x` = 35,000 / 10 = **3,500 USDC per ETH**.
+
+**Now, a trader wants to buy 1 ETH.**
+
+1.  The trader will remove 1 ETH from the pool. The new ETH reserve (`x'`) will be `10 - 1 = 9 ETH`.
+2.  The protocol must now solve for the new USDC reserve (`y'`) that will keep `k` constant.
+    *   `x' * y' = k`
+    *   `9 * y' = 350,000`
+    *   `y' = 350,000 / 9 = 38,888.89 USDC`
+3.  The amount of USDC the trader must deposit is the difference between the new reserve and the old reserve:
+    *   Cost = `y' - y` = 38,888.89 - 35,000 = **3,888.89 USDC**.
+
+Notice what happened:
+*   The trader paid 3,888.89 USDC for 1 ETH, an effective price of $3,888.89.
+*   The initial price was $3,500. The trader's own trade moved the price against them. This is **[price impact](/what-is-price-impact-in-dex-trading)**.
+*   The new price of ETH in the pool is now `38,888.89 / 9 = 4,320.98 USDC`.
+
+The formula automatically adjusted the price based on the change in the ratio of the reserves.
+
+### Characteristics of the Constant Product Curve
+
+The formula `x * y = k` produces a graph that is a hyperbola. This shape has important implications:
+
+*   **Asymptotic Nature (Infinite Liquidity)**: The curve never touches the x or y-axis. This means that no matter how much of one token is bought, the pool will never run out of the other. The price will just become astronomically high. This guarantees that there is always liquidity, at least in theory.
+
+*   **Slippage**: The curve is convex. The more you move along the curve (i.e., the larger your trade), the steeper it gets. This means that larger trades will always suffer from more price impact, or slippage, than smaller trades.
+
+*   **Impermanent Loss**: When the price of the assets in the pool changes, the value of the assets held by a liquidity provider will be less than if they had simply held the assets in their wallet. This "opportunity cost" is a direct result of the `x * y = k` formula constantly rebalancing the LP's portfolio in response to price changes.
+
+### Beyond the Basic Formula: Fees
+
+In a real AMM, the formula is slightly modified to include a trading fee. For example, in Uniswap v2, the fee is 0.3%. The formula is closer to:
+
+`x * y = k` (before the trade)
+`(x + Δx) * (y - Δy) = k'` (after the trade)
+
+The trading fee means that the `k` value actually *increases* slightly with every trade. This increase is the profit that is distributed to the liquidity providers.
+
+### The Evolution: Beyond `x * y = k`
+
+While the constant product formula was revolutionary, it has limitations, especially in capital efficiency. This has led to the development of new, more advanced invariants:
+
+*   **[StableSwap Invariant](/stableswap-invariant-explained-for-traders)**: Used by Curve, this hybrid formula is optimized for stablecoins, providing much lower slippage for pegged assets.
+*   **Concentrated Liquidity**: Used by Uniswap v3, this allows LPs to provide liquidity in specific price ranges, dramatically improving capital efficiency.
+*   **Weighted Pools**: Used by Balancer, this generalizes the formula to allow for more than two assets and custom weightings (e.g., 80/20 instead of 50/50).
+
+### Frequently Asked Questions (FAQ)
+
+**Q: Who invented the constant product formula for AMMs?**
+A: While the formula itself is basic math, its application to create an AMM was first described publicly by Vitalik Buterin and was popularized and implemented by Hayden Adams, the founder of Uniswap.
+
+**Q: Why is `k` constant?**
+A: `k` is the "invariant" that the AMM is programmed to maintain. It is the core rule of the system. It only changes when liquidity providers add or remove funds from the overall pool, which establishes a new `k`.
+
+**Q: Does the formula account for gas fees?**
+A: No. The formula itself does not account for the network gas fees that a trader must pay to execute the transaction. The trader pays the amount dictated by the AMM formula *plus* a separate gas fee to the network validators.
+
+**Q_ Is the price shown on a DEX before a trade the price I will get?**
+A: No. The price displayed is the current spot price before your trade. Your trade will have a price impact, and you will always receive a slightly worse average execution price. For large trades, this difference can be significant.
+
+---
+*Internally, this article links to: `what-is-price-impact-in-dex-trading`, `stableswap-invariant-explained-for-traders`*
