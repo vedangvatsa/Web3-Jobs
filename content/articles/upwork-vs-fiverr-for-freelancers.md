@@ -3,7 +3,7 @@ title: "Upwork vs Fiverr for Freelancers"
 image: "https://picsum.photos/seed/upwork-fiverr/1200/630"
 data-ai-hint: "versus fight comparison"
 description: "A detailed comparison of Upwork and Fiverr, two of the largest freelance marketplaces. Understand the key differences to decide which platform is best for you."
-category: "Career"
+category: "Career Guides"
 ---
 
 If you're starting your freelance journey, you've almost certainly come across Upwork and Fiverr. They are two of the biggest names in the freelance marketplace world, connecting millions of clients with freelancers every year. But while they serve a similar purpose, they operate on fundamentally different models.

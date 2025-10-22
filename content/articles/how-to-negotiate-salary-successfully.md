@@ -3,7 +3,7 @@ title: "How to Negotiate Salary Successfully"
 image: "https://picsum.photos/seed/salary-negotiation/1200/630"
 data-ai-hint: "money deal handshake"
 description: "A practical guide to salary negotiation. Learn how to research your worth, make a compelling case, and navigate the conversation to get the compensation you deserve."
-category: "Career"
+category: "Career Guides"
 ---
 
 You've made it through the interviews, and you've received a job offer. Congratulations! This is a huge accomplishment. But before you sign on the dotted line, there's one more important step: salary negotiation.

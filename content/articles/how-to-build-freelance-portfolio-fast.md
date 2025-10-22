@@ -3,7 +3,7 @@ title: "How to Build Freelance Portfolio Fast"
 image: "https://picsum.photos/seed/freelance-portfolio/1200/630"
 data-ai-hint: "portfolio work showcase"
 description: "Learn effective strategies to build a compelling freelance portfolio quickly, even if you have no clients. Attract high-quality clients faster."
-category: "Career"
+category: "Career Guides"
 ---
 
 As a freelancer, your portfolio is your most powerful weapon. It's the proof that you can deliver on your promises. A strong portfolio can open doors to high-paying clients and exciting projects. But what do you do when you're just starting out and have no client work to show?
