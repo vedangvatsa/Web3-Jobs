@@ -3,7 +3,7 @@ title: "Best Cities for Remote Workers"
 image: "https://picsum.photos/seed/remote-cities/1200/630"
 data-ai-hint: "city skyline travel"
 description: "Discover the top cities around the world for digital nomads and remote workers. Find the perfect blend of affordability, infrastructure, and lifestyle."
-category: "Career"
+category: "Career Guides"
 ---
 
 The rise of remote work has given professionals the unprecedented freedom to live and work from anywhere in the world. But with so many options, how do you choose the best place to set up your mobile office? The ideal city for a digital nomad offers a winning combination of affordability, reliable internet, a vibrant community, and a great quality of life.

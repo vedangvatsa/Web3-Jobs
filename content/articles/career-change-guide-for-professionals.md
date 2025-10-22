@@ -3,7 +3,7 @@ title: "Career Change Guide for Professionals"
 image: "https://picsum.photos/seed/career-change/1200/630"
 data-ai-hint: "crossroads sign different directions"
 description: "A step-by-step guide for professionals on how to navigate a successful career change. Learn how to plan your transition and make your next move with confidence."
-category: "Career"
+category: "Career Guides"
 ---
 
 Feeling stuck in your current career? You're not alone. Many professionals reach a point where they feel unfulfilled, burnt out, or simply ready for a new challenge. A career change can be a daunting prospect, especially when you've invested years in a particular field. But with careful planning and a strategic approach, it can also be an incredibly rewarding journey.
