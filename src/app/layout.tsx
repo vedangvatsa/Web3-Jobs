@@ -5,7 +5,6 @@ import { cn } from '@/lib/utils';
 import './globals.css';
 import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
-import { ContentSecurity } from '@/components/content-security';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
 import type { WebSite } from 'schema-dts';
@@ -118,7 +117,6 @@ export default async function RootLayout({
         className={cn('min-h-screen font-body antialiased flex flex-col bg-background/95')}
       >
         
-        <ContentSecurity />
         <div className="flex-grow">
             {children}
         </div>
