@@ -2,7 +2,7 @@
 title: "The Future of Web3: 5 Key Trends to Watch in 2025 and Beyond"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 description: "From modular blockchains to the rise of decentralized AI, we explore the five most important trends that will shape the evolution of Web3 in 2025 and beyond."
-category: "Technology"
+category: "Technology Deep Dives"
 data-ai-hint: "futuristic city"
 ---
 
