@@ -54,10 +54,11 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
+  
   const selectedCategory = searchParams.get('category') || 'All';
-  const initialSearch = searchParams.get('search') || '';
+  const searchQuery = searchParams.get('search') || '';
 
-  const [searchQuery, setSearchQuery] = useState(initialSearch);
+  const [inputValue, setInputValue] = useState(searchQuery);
   const [isPending, startTransition] = useTransition();
 
   const handleCategoryClick = (category: string) => {
@@ -74,18 +75,17 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = e.target.value;
-    setSearchQuery(value);
+    setInputValue(value);
     startTransition(() => {
-        const current = new URLSearchParams(Array.from(searchParams.entries()));
-        if (value) {
-            current.set('search', value);
-        } else {
-            current.delete('search');
-        }
-        const search = current.toString();
-        const query = search ? `?${search}` : '';
-        // We use window.history.pushState to avoid a full page reload on every keystroke
-        window.history.pushState(null, '', `${pathname}${query}`);
+      const current = new URLSearchParams(Array.from(searchParams.entries()));
+      if (value) {
+        current.set('search', value);
+      } else {
+        current.delete('search');
+      }
+      const search = current.toString();
+      const query = search ? `?${search}` : '';
+      router.push(`${pathname}${query}`, { scroll: false });
     });
   };
 
@@ -100,7 +100,8 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
         const lowercasedQuery = searchQuery.toLowerCase();
         articles = articles.filter(article => 
             article.title.toLowerCase().includes(lowercasedQuery) ||
-            article.description.toLowerCase().includes(lowercasedQuery)
+            article.description.toLowerCase().includes(lowercasedQuery) ||
+            article.category.toLowerCase().includes(lowercasedQuery)
         );
     }
 
@@ -126,7 +127,7 @@ export function BlogPageClient({ allArticles, categories }: { allArticles: Omit<
               <div className="relative">
                   <Input
                       placeholder="Search articles by title or keyword..."
-                      value={searchQuery}
+                      value={inputValue}
                       onChange={handleSearchChange}
                       className="w-full text-base pl-10 h-11 rounded-full shadow-sm"
                   />
