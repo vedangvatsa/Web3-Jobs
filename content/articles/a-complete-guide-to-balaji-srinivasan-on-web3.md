@@ -1,7 +1,7 @@
 ---
-title: "A Complete Guide to Balaji Srinivasan on Web3"
+title: "Balaji Srinivasan in Web3"
 description: "An in-depth look at the ideas of Balaji Srinivasan, one of Web3's most influential and provocative thinkers. This guide covers his concepts of 'The Network State,' the importance of pseudonymity, his critiques of legacy institutions, and his vision for a future built on crypto and individual sovereignty."
-image: "/images/placeholder-balaji.jpg"
+image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man speech"
 ---

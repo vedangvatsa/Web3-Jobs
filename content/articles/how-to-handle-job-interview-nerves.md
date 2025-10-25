@@ -1,7 +1,7 @@
 ---
 title: "How to Handle Job Interview Nerves and Turn Anxiety Into Confidence"
 date: "2025-08-16"
-image: "/images/articles/how-to-handle-job-interview-nerves.jpeg"
+image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "person preparing interview"
 description: "Discover practical strategies to manage and overcome job interview anxiety. Learn how to transform nervous energy into confidence and make a lasting positive impression."
 category: "Career Guides"

@@ -1,7 +1,7 @@
 ---
-title: "A Complete Guide to Gary Vaynerchuk on Web3"
+title: "What does Gary Vaynerchuk think about Web3"
 description: "Learn about Gary Vaynerchuk's (GaryVee) perspective on Web3 and NFTs. This guide covers his investment thesis, his emphasis on community and brand building, his VeeFriends project, and his practical advice for entrepreneurs and creators looking to enter the space."
-image: "/images/placeholder-gary-vee.jpg"
+image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man drawing"
 ---

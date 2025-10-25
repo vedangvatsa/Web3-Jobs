@@ -3,7 +3,7 @@ title: "Mastering Cross-Functional Collaboration: A Practical Guide"
 category: "Career Guides"
 date: "2025-09-12"
 description: "Silos kill innovation. This guide provides actionable tips for breaking down departmental barriers and fostering effective cross-functional collaboration to drive better business outcomes."
-image: "/images/stock/cross-functional-collaboration-tips.png"
+image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team collaboration meeting"
 ---
 

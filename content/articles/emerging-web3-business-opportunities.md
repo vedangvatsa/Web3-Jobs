@@ -1,6 +1,6 @@
 ---
 title: "Emerging Web3 Business Opportunities"
-image: "/images/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
+image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "business opportunity growth"
 description: "A look at the most promising business opportunities emerging in the Web3 ecosystem, from decentralized infrastructure to the creator economy."
 category: "Industry Insights"

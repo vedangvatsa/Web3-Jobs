@@ -1,6 +1,6 @@
 ---
 title: 'A Practical Guide to Professional Reputation Management'
-image: 'https://picsumphotos.com/seed/prmtips/1200/630'
+image: "https://picsum.photos/seed/additivemfg/1200/630"
 description: "Your professional reputation is one of your most valuable career assets. Learn the key strategies for building, managing, and protecting it, both online and offline."
 category: 'Career Guides'
 data-ai-hint: 'career branding'

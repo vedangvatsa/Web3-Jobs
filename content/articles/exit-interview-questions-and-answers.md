@@ -3,7 +3,7 @@ title: "Exit Interview Best Practices: Questions to Ask and Why They Matter"
 category: "Career Guides"
 date: "2025-09-12"
 description: "An exit interview is a valuable opportunity to gather honest feedback. This guide covers the best questions to ask, how to interpret the answers, and how to use that data to improve your organization."
-image: "/images/stock/exit-interview-questions-and-answers.png"
+image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "exit interview conversation"
 ---
 

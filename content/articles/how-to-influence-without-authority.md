@@ -3,7 +3,7 @@ title: "How to Influence Without Authority: A Guide to Leading Your Peers"
 category: "Career Guides"
 date: "2025-09-12"
 description: "True leadership isn't about a title. This guide explores the tactics of influence—building trust, using data, and creating shared vision—to help you lead projects and drive change, no matter your role."
-image: "/images/stock/how-to-influence-without-authority.png"
+image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team collaboration influence"
 ---
 
