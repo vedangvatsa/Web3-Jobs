@@ -1,7 +1,7 @@
 ---
 title: "The Consulting Career Path Explained: From Analyst to Partner"
 description: "A detailed guide to the consulting career path, from the entry-level Analyst role to the senior Partner level. Understand the responsibilities, skills, and milestones at each stage of a career in management consulting."
-image: "/images/articles/consulting-path.png"
+image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "mountain path"
 category: "Career Guides"
 ---

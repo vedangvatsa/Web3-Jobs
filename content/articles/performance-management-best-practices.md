@@ -3,7 +3,7 @@ title: "Performance Management Best Practices for Modern Teams"
 category: "Career Guides"
 date: "2025-09-12"
 description: "Move beyond the dreaded annual review. This guide outlines modern performance management practices focused on continuous feedback, goal alignment, and employee development."
-image: "/images/stock/performance-management-best-practices.png"
+image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "performance review meeting"
 ---
 

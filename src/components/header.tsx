@@ -1,3 +1,4 @@
+
 'use client';
 
 import { Button } from '@/components/ui/button';
@@ -24,10 +25,10 @@ import {
 
 export function Header() {
     const mainNavLinks = [
-        { href: "/jobs", label: "Jobs", icon: Briefcase },
+        { href: "/", label: "Jobs", icon: Briefcase },
         { href: "/blog", label: "Playbook", icon: BookOpen },
         { href: "/news", label: "News", icon: Newspaper },
-        { href: "/", label: "Community", icon: Users },
+        { href: "/community", label: "Community", icon: Users },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
 

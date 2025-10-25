@@ -1,7 +1,7 @@
 ---
-title: "A Complete Guide to Jack Dorsey on Web3"
+title: "What does Jack Dorsey think about Web3"
 description: "Explore the perspective of Jack Dorsey, co-founder of Twitter and Block (formerly Square), on Web3. This guide covers his staunch Bitcoin maximalism, his critiques of 'Web3' and venture capital, and his vision for a truly decentralized internet built on Bitcoin."
-image: "/images/placeholder-jack-dorsey.jpg"
+image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man walking"
 ---

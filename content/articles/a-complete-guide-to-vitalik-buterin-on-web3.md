@@ -1,7 +1,7 @@
 ---
-title: "A Complete Guide to Vitalik Buterin on Web3"
+title: "What does Vitalik Buterin think about Web3"
 description: "Delve into the mind of Vitalik Buterin, the creator of Ethereum. This guide covers his initial vision for a 'world computer,' his evolving thoughts on scalability, governance, and the social and political implications of Web3, and his role as the intellectual leader of the ecosystem."
-image: "/images/placeholder-vitalik.jpg"
+image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man glasses"
 ---

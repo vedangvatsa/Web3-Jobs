@@ -1,7 +1,7 @@
 ---
 title: "How to Become a Technical Writer: A Step-by-Step Guide"
 description: "A comprehensive guide on how to start a career in technical writing. Learn the essential skills, tools, and steps you need to take to become a successful technical writer, even with no prior experience."
-image: "/images/articles/technical-writer.png"
+image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "person writing"
 category: "Career Guides"
 ---
