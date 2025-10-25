@@ -2,7 +2,7 @@
 title: "Vitalik Buterin on Web3: A More Noble Vision"
 description: "Delve into the nuanced and evolving perspective of Vitalik Buterin, the creator of Ethereum, on the state of Web3, its potential for social good, and his concerns about its direction."
 image: "https://picsum.photos/seed/vbweb3/1200/630"
-category: "Perspectives"
+category: "Industry Insights"
 data-ai-hint: "futuristic man"
 ---
 
