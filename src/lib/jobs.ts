@@ -3,6 +3,8 @@
 
 import Parser from 'rss-parser';
 import type { Job } from '@/types';
+import fs from 'fs/promises';
+import path from 'path';
 
 // The jobs you manually added are now stored here permanently.
 const MANUAL_JOBS: Job[] = [
@@ -1338,11 +1340,12 @@ const FEEDS = [
 ];
 
 const parser = new Parser();
+const jobsCachePath = path.join(process.cwd(), 'content/jobs-cache.json');
 
 // Helper to clean company names
 function cleanCompany(company: string | undefined): string | undefined {
     if (!company) return undefined;
-    return company.replace(/<[^>]*>?/gm, '').split('\n')[0].trim();
+    return company.replace(/<[^>]*>?/gm, '').split('\\n')[0].trim();
 }
 
 // Helper to remove emojis and other non-standard characters from job titles
@@ -1353,23 +1356,30 @@ function cleanTitle(text: string | undefined): string | undefined {
 }
 
 
+async function readJobsCache(): Promise<Job[]> {
+  try {
+    const data = await fs.readFile(jobsCachePath, 'utf-8');
+    return JSON.parse(data);
+  } catch (error) {
+    // If the file doesn't exist or is invalid, return an empty array
+    return [];
+  }
+}
+
+async function writeJobsCache(jobs: Job[]): Promise<void> {
+  await fs.writeFile(jobsCachePath, JSON.stringify(jobs, null, 2));
+}
+
+
 export async function getJobs(): Promise<Job[]> {
+  const cachedJobs = await readJobsCache();
   const jobMap = new Map<string, Job>();
 
-  // Helper to add a job to the map, checking for duplicates based on title and company
-  const addJobToMap = (job: Job) => {
+  // Load manual and cached jobs into the map
+  [...MANUAL_JOBS, ...cachedJobs].forEach(job => {
     const uniqueKey = `${job.title.toLowerCase()}|${job.company.toLowerCase()}`;
     if (!jobMap.has(uniqueKey)) {
         jobMap.set(uniqueKey, job);
-    }
-  };
-
-  // Prioritize manual jobs by adding them to the map first
-  MANUAL_JOBS.forEach(job => {
-    // We use a different key here to ensure manual jobs are always unique if their link is unique
-    const uniqueKeyForManual = `${job.title.toLowerCase()}|${job.company.toLowerCase()}`;
-     if (!jobMap.has(uniqueKeyForManual)) {
-        jobMap.set(uniqueKeyForManual, job);
     }
   });
 
@@ -1383,14 +1393,18 @@ export async function getJobs(): Promise<Job[]> {
           const link = item.link;
 
           if (link && title && company && title.split(' ').length <= 8 && !title.toLowerCase().includes('bounty')) {
-            addJobToMap({
-                id: item.guid || link,
-                title,
-                company,
-                link,
-                date: item.isoDate || new Date().toISOString(),
-                source: feed.title || feedUrl,
-            });
+            const uniqueKey = `${title.toLowerCase()}|${company.toLowerCase()}`;
+            if (!jobMap.has(uniqueKey)) {
+                const newJob: Job = {
+                    id: item.guid || link,
+                    title,
+                    company,
+                    link,
+                    date: item.isoDate || new Date().toISOString(),
+                    source: feed.title || feedUrl,
+                };
+                jobMap.set(uniqueKey, newJob);
+            }
           }
         });
       }
@@ -1401,9 +1415,21 @@ export async function getJobs(): Promise<Job[]> {
 
   await Promise.all(allJobsPromises);
   
-  let uniqueJobs = Array.from(jobMap.values());
+  let allJobs = Array.from(jobMap.values());
 
-  uniqueJobs = uniqueJobs.filter(job => 
+  // Filter out jobs older than 15 days, but keep manual jobs forever
+  const fifteenDaysAgo = new Date();
+  fifteenDaysAgo.setDate(fifteenDaysAgo.getDate() - 15);
+
+  const freshJobs = allJobs.filter(job => {
+      if (job.source === 'Manual') {
+          return true;
+      }
+      return new Date(job.date) > fifteenDaysAgo;
+  });
+
+  // Filter out unwanted company jobs
+  let uniqueJobs = freshJobs.filter(job => 
     job.company.toLowerCase() !== 'crusoe' && 
     !(job.company.toLowerCase() === 'interop labs' && job.title.toLowerCase().includes('interested in working with us')) &&
     job.company.toLowerCase() !== 'florida street'
@@ -1411,7 +1437,10 @@ export async function getJobs(): Promise<Job[]> {
 
   uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
+  // Update the cache with the new combined and filtered list
+  // We only cache the non-manual jobs
+  const jobsToCache = uniqueJobs.filter(j => j.source !== 'Manual');
+  await writeJobsCache(jobsToCache);
+
   return uniqueJobs;
 }
-
-    
