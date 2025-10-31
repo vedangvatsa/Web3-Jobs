@@ -1,8 +1,8 @@
 ---
 title: "The Ethereum Whitepaper: A Vision for a New Internet"
 description: "In late 2013, a 19-year-old Vitalik Buterin released the Ethereum whitepaper, outlining a vision for a decentralized 'world computer.' We explore the paper's key ideas and its profound impact."
-image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
-category: "History"
+image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
+category: "Industry Insights"
 data-ai-hint: "ethereum whitepaper"
 ---
 

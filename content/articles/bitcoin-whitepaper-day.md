@@ -2,7 +2,7 @@
 title: "Bitcoin Whitepaper Day: The Genesis of a Revolution"
 description: "On October 31, 2008, Satoshi Nakamoto published the Bitcoin whitepaper, 'A Peer-to-Peer Electronic Cash System.' We explore its revolutionary ideas and lasting impact on finance and technology."
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
-category: "Industry"
+category: "Industry Insights"
 data-ai-hint: "bitcoin cryptocurrency"
 ---
 
