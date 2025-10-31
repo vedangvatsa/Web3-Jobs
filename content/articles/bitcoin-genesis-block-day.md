@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin Genesis Block Day: The Dawn of a Financial Revolution"
 description: "On January 3, 2009, Satoshi Nakamoto mined the first-ever Bitcoin block. Explore the significance of the Genesis Block and the message embedded within it."
-image: "/images/bitcoin-genesis-block-day.jpeg"
+image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "bitcoin genesis block"
 ---
