@@ -136,7 +136,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                         </header>
                     )}
                     
-                    {params.slug !== 'super-hackathon' && (
+                    {params.slug !== 'super-hackathon' && article.image && (
                         <Image
                           src={article.image}
                           alt={`${article.title} - Hashtag Web3 article cover`}
