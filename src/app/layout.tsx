@@ -8,6 +8,7 @@ import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
 import type { WebSite } from 'schema-dts';
+import { TelegramPopup } from '@/components/telegram-popup';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -121,6 +122,7 @@ export default async function RootLayout({
         </div>
         <Footer />
         <Toaster />
+        <TelegramPopup />
       </body>
     </html>
   );

@@ -1,5 +1,6 @@
 ---
 title: "A Day in the Life of a DeFi Quant"
+image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 description: "What does a quantitative analyst in decentralized finance actually do? We break down the hour-by-hour schedule, core responsibilities, and essential skills for one of the most intellectually demanding jobs in Web3."
 category: "Career Guides"
 ---
