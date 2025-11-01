@@ -1,3 +1,4 @@
+
 'use client';
 
 import * as React from 'react';
@@ -55,12 +56,12 @@ const resumeSchema = z.object({
   website: z.string().url().optional().or(z.literal('')),
   github: z.string().url().optional().or(z.literal('')),
   twitter: z.string().url().optional().or(z.literal('')),
-  ens: z.string().optional(),
+  handle: z.string().optional(),
   summary: z.string().min(1, 'A summary is required'),
   contributions: z.array(contributionSchema),
   experience: z.array(experienceSchema),
   education: z.array(educationSchema),
-  web3Skills: z.string().min(1, 'Please list some skills'),
+  technicalSkills: z.string().min(1, 'Please list some skills'),
   generalSkills: z.string().min(1, 'Please list some skills'),
 });
 
@@ -70,22 +71,22 @@ export function ResumeForm() {
     resolver: zodResolver(resumeSchema),
     defaultValues: {
       name: 'Jane Doe',
-      title: 'Smart Contract Developer',
+      title: 'Software Developer',
       email: 'jane.doe@email.com',
       phone: '+1 123 456 7890',
       website: 'https://janedoe.dev',
       github: 'https://github.com/janedoe',
       twitter: 'https://twitter.com/janedoe',
-      ens: 'janedoe.eth',
+      handle: 'janedoe',
       summary:
-        "Transitioned from a 5-year career in traditional finance after becoming fascinated by DeFi's potential to create a more open financial system. For the past year, I have been an active contributor to the Yearn Finance governance forum, authored 15+ analyses on yield strategies, and built a Dune dashboard to track protocol revenue.",
+        "Transitioned from a 5-year career in traditional finance after becoming fascinated by the potential of decentralized technology to create more open financial systems. For the past year, I have been an active contributor to open source projects, authoring 15+ analyses on protocol strategies, and building a public dashboard to track key metrics.",
       contributions: [
         {
-          project: 'DeFi Staking dApp',
+          project: 'Decentralized Staking App',
           role: 'Personal Project',
           description:
-            'Designed and deployed a gas-efficient ERC-721 smart contract using Foundry, achieving 99% test coverage. Built a React frontend with Viem.',
-          link: 'https://github.com/janedoe/staking-dapp',
+            'Designed and deployed a gas-efficient smart contract using Foundry, achieving 99% test coverage. Built a React frontend with modern tools.',
+          link: 'https://github.com/janedoe/staking-app',
         },
       ],
       experience: [
@@ -104,7 +105,7 @@ export function ResumeForm() {
           date: '2016-2020',
         },
       ],
-      web3Skills:
+      technicalSkills:
         'Solidity, Foundry, Ethers.js, The Graph, EIP-712, Tokenomics, DAO Governance, Dune Analytics',
       generalSkills:
         'JavaScript, React, Next.js, Python, SQL, Figma, Project Management',
@@ -136,12 +137,10 @@ export function ResumeForm() {
       const docWidth = doc.internal.pageSize.getWidth();
       let y = margin;
 
-      // Name
       doc.setFontSize(28).setFont('helvetica', 'bold').setTextColor('#111827');
       doc.text(data.name, docWidth / 2, y, { align: 'center' });
       y += 20;
 
-      // Title
       doc
         .setFontSize(14)
         .setFont('helvetica', 'normal')
@@ -152,14 +151,13 @@ export function ResumeForm() {
       });
       y += 25;
 
-      // Contact Info
       const contactInfo = [
         data.email,
         data.phone,
         data.website,
         data.github,
         data.twitter,
-        data.ens,
+        data.handle,
       ]
         .filter(Boolean)
         .join(' | ');
@@ -167,7 +165,6 @@ export function ResumeForm() {
       doc.text(contactInfo, docWidth / 2, y, { align: 'center' });
       y += 35;
 
-      // Summary
       doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
       doc.text('Summary', margin, y);
       y += 15;
@@ -179,9 +176,8 @@ export function ResumeForm() {
       doc.text(summaryLines, margin, y);
       y += summaryLines.length * 12 + 20;
 
-      // Web3 Contributions
       doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
-      doc.text('Web3 Contributions & Portfolio', margin, y);
+      doc.text('Key Projects & Portfolio', margin, y);
       y += 15;
       data.contributions.forEach(c => {
         doc.setFontSize(10).setFont('helvetica', 'bold');
@@ -205,7 +201,6 @@ export function ResumeForm() {
       });
       y += 10;
 
-      // Experience
       doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
       doc.text('Professional Experience', margin, y);
       y += 15;
@@ -226,7 +221,6 @@ export function ResumeForm() {
         y += descLines.length * 12 + 15;
       });
 
-      // Education
       doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
       doc.text('Education', margin, y);
       y += 15;
@@ -241,7 +235,6 @@ export function ResumeForm() {
         y += 20;
       });
 
-      // Skills
       doc.setFontSize(12).setFont('helvetica', 'bold').setTextColor('#111827');
       doc.text('Skills', margin, y);
       y += 15;
@@ -262,10 +255,10 @@ export function ResumeForm() {
         y += skillLines.length * 12 + 10;
       };
 
-      addSkillsSection('Web3 / Blockchain:', data.web3Skills);
-      addSkillsSection('Technical / General:', data.generalSkills);
+      addSkillsSection('Technical:', data.technicalSkills);
+      addSkillsSection('General:', data.generalSkills);
 
-      doc.save(`${data.name.replace(' ', '-')}-Web3-Resume.pdf`);
+      doc.save(`${data.name.replace(' ', '-')}-Resume.pdf`);
       toast({
         title: 'Success!',
         description: 'Your resume has been downloaded.',
@@ -283,9 +276,9 @@ export function ResumeForm() {
   return (
     <>
       <div className="bg-primary text-primary-foreground py-8 text-center">
-        <h1 className="text-3xl font-bold">Web3 Resume Builder</h1>
+        <h1 className="text-3xl font-bold">Professional Resume Builder</h1>
         <p className="opacity-80 mt-1">
-          Craft a resume that gets noticed by crypto-native companies.
+          Craft a resume that gets noticed by recruiters.
         </p>
         <Button
           size="lg"
@@ -309,7 +302,7 @@ export function ResumeForm() {
               <CardContent className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <Input placeholder="Name" {...form.register('name')} />
                 <Input
-                  placeholder="Title (e.g. Smart Contract Developer)"
+                  placeholder="Title (e.g. Software Developer)"
                   {...form.register('title')}
                 />
                 <Input
@@ -328,8 +321,8 @@ export function ResumeForm() {
                   {...form.register('twitter')}
                 />
                 <Input
-                  placeholder="ENS Address (e.g. vitalik.eth)"
-                  {...form.register('ens')}
+                  placeholder="Professional Handle (e.g. username)"
+                  {...form.register('handle')}
                 />
               </CardContent>
             </Card>
@@ -337,12 +330,12 @@ export function ResumeForm() {
             <Card>
               <CardHeader>
                 <CardTitle className="flex items-center gap-2">
-                  <BrainCircuit className="text-primary" /> Web3 Summary
+                  <BrainCircuit className="text-primary" /> Professional Summary
                 </CardTitle>
               </CardHeader>
               <CardContent>
                 <Textarea
-                  placeholder="Your 'rabbit hole' story and passion for Web3..."
+                  placeholder="Your 'elevator pitch' and professional passion..."
                   {...form.register('summary')}
                   rows={4}
                 />
@@ -352,7 +345,7 @@ export function ResumeForm() {
             <Card>
               <CardHeader>
                 <CardTitle className="flex items-center gap-2">
-                  <Sparkles className="text-primary" /> Web3 Contributions &
+                  <Sparkles className="text-primary" /> Key Projects &
                   Portfolio
                 </CardTitle>
               </CardHeader>
@@ -367,7 +360,7 @@ export function ResumeForm() {
                       {...form.register(`contributions.${index}.project`)}
                     />
                     <Input
-                      placeholder="Your Role (e.g. Personal Project, DAO Contributor)"
+                      placeholder="Your Role (e.g. Personal Project, Contributor)"
                       {...form.register(`contributions.${index}.role`)}
                     />
                     <Textarea
@@ -399,7 +392,7 @@ export function ResumeForm() {
                     })
                   }
                 >
-                  <Plus className="mr-2 h-4 w-4" /> Add Contribution
+                  <Plus className="mr-2 h-4 w-4" /> Add Project
                 </Button>
               </CardContent>
             </Card>
@@ -513,14 +506,14 @@ export function ResumeForm() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div>
-                  <Label>Web3 / Blockchain Skills</Label>
+                  <Label>Technical Skills</Label>
                   <Textarea
                     placeholder="e.g. Solidity, Foundry, Ethers.js, The Graph, Tokenomics..."
-                    {...form.register('web3Skills')}
+                    {...form.register('technicalSkills')}
                   />
                 </div>
                 <div>
-                  <Label>Technical / General Skills</Label>
+                  <Label>General Skills</Label>
                   <Textarea
                     placeholder="e.g. JavaScript, React, Next.js, Python, SQL, Figma..."
                     {...form.register('generalSkills')}
