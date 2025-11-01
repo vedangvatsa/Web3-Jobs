@@ -1,3 +1,4 @@
+
 'use client';
 
 import type { ResumeData } from '@/types';
@@ -17,17 +18,17 @@ export const ResumePreview = ({ data }: { data: ResumeData }) => {
                         {data.website && <div className="flex items-center gap-1.5"><LinkIcon size={11}/>{data.website.replace('https://', '')}</div>}
                         {data.github && <div className="flex items-center gap-1.5"><Github size={11}/>{data.github.replace('https://github.com/', '')}</div>}
                         {data.twitter && <div className="flex items-center gap-1.5"><Twitter size={11}/>{data.twitter.replace('https://twitter.com/', '@')}</div>}
-                        {data.ens && <div className="flex items-center gap-1.5"><span className="font-bold">ENS:</span>{data.ens}</div>}
+                        {data.handle && <div className="flex items-center gap-1.5"><span className="font-bold">Handle:</span>{data.handle}</div>}
                     </div>
                 </div>
 
                 <div className="mb-6">
                     <h3 className="text-[12pt] font-bold text-gray-900 mb-2">Summary</h3>
-                    <p className="text-[10pt] text-gray-700 leading-normal">{data.summary || "Your professional summary and passion for Web3."}</p>
+                    <p className="text-[10pt] text-gray-700 leading-normal">{data.summary || "Your professional summary and passion."}</p>
                 </div>
                 
                 <div className="mb-4">
-                    <h3 className="text-[12pt] font-bold text-gray-900 mb-2">Web3 Contributions & Portfolio</h3>
+                    <h3 className="text-[12pt] font-bold text-gray-900 mb-2">Key Projects & Portfolio</h3>
                     <div className="space-y-3">
                         {data.contributions?.map((c, i) => (
                             <div key={i}>
@@ -75,11 +76,11 @@ export const ResumePreview = ({ data }: { data: ResumeData }) => {
                     <h3 className="text-[12pt] font-bold text-gray-900 mb-2">Skills</h3>
                     <div className="text-[10pt] leading-normal space-y-2">
                        <div className="flex">
-                           <p className="w-[140px] shrink-0 font-bold text-gray-600">Web3 / Blockchain:</p>
-                           <p className="text-gray-700">{data.web3Skills || "Solidity, Foundry, etc."}</p>
+                           <p className="w-[140px] shrink-0 font-bold text-gray-600">Technical Skills:</p>
+                           <p className="text-gray-700">{data.technicalSkills || "Solidity, Foundry, etc."}</p>
                        </div>
                         <div className="flex">
-                           <p className="w-[140px] shrink-0 font-bold text-gray-600">Technical / General:</p>
+                           <p className="w-[140px] shrink-0 font-bold text-gray-600">General Skills:</p>
                            <p className="text-gray-700">{data.generalSkills || "React, Python, etc."}</p>
                        </div>
                     </div>

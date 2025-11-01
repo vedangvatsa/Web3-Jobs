@@ -1,4 +1,5 @@
 
+
 export interface Job {
   id: string;
   title: string;
@@ -70,7 +71,7 @@ export interface ResumeData {
   website?: string;
   github?: string;
   twitter?: string;
-  ens?: string;
+  handle?: string;
   summary: string;
   contributions: {
     project: string;
@@ -89,7 +90,7 @@ export interface ResumeData {
     degree: string;
     date: string;
   }[];
-  web3Skills: string;
+  technicalSkills: string;
   generalSkills: string;
 }
 
