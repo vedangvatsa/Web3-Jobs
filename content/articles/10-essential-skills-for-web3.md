@@ -2,7 +2,7 @@
 title: '10 Essential Skills for a Career in Web3'
 description: 'From smart contract development to community management, discover the top 10 skills you need to build a successful career in the fast-paced world of Web3.'
 image: 'https://images.unsplash.com/photo-1629721671030-a83edbb11211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxza2lsbHxlbnwwfHx8fDE3NjE4ODg3ODB8MA&ixlib=rb-4.1.0&q=80&w=1080'
-category: 'Careers'
+category: 'Career Guides'
 data-ai-hint: 'blockchain developer'
 ---
 
