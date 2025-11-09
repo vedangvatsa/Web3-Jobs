@@ -12,15 +12,15 @@ The job market is undergoing a seismic shift, driven by the rapid advancements i
 
 One of the most significant trends is the development of **agentic AI systems**. Unlike traditional AI, which requires direct human instruction for every task, agentic AI can independently plan, execute, and adapt to achieve complex goals. This creates a new paradigm for work, where humans move from being task-doers to system managers and strategic overseers.
 
-Effective **agentic AI governance** is becoming a critical field of study and practice. As these systems become more autonomous, establishing robust frameworks to ensure they operate safely, ethically, and in alignment with human values is paramount. This opens up new [Web3 careers](/web3-career-quiz) in ethics, compliance, and protocol design, requiring a blend of technical and philosophical expertise. Professionals looking to enter this space can find relevant openings on our [Web3 job board](/jobs).
+Effective **agentic AI governance** is becoming a critical field of study and practice. As these systems become more autonomous, establishing robust frameworks to ensure they operate safely, ethically, and in alignment with human values is paramount. This opens up new [Web3 careers](/web3-career-quiz), requiring a blend of technical and philosophical expertise. Professionals looking to enter this space can find relevant openings on our [top Web3 job board](/jobs).
 
 ### New Roles at the Intersection of AI and Web3
 
 The fusion of AI and Web3 is a hotbed for innovation, creating roles that didn't exist a few years ago.
 
 *   **AI-Powered dApp Developer:** These developers build decentralized applications that leverage AI for features like predictive analytics, personalized user experiences, and automated decision-making. They need both strong Web3 developer skills and a solid understanding of machine learning principles.
-*   **DeFi Quant Analyst:** With the rise of complex DeFi protocols, there is a growing demand for quants who can use AI to model risk, develop algorithmic trading strategies, and analyze on-chain data for alpha. The role of a [DeFi quant](/defi-careers) is becoming increasingly reliant on AI.
-*   **Smart Contract Auditor (AI-Assisted):** While AI won't replace human auditors soon, it's becoming a powerful tool for them. AI can scan code for common vulnerabilities and flag potential issues, allowing human experts like a [smart contract auditor](/smart-contract-auditor-career) to focus on more complex logic and economic exploits.
+*   **DeFi Quant Analyst:** With the rise of complex DeFi protocols, there is a growing demand for quants who can use AI to model risk, develop algorithmic trading strategies, and analyze on-chain data for alpha. The role of a [DeFi quant](/interview-questions#defi-protocol-engineer) is becoming increasingly reliant on AI.
+*   **Smart Contract Auditor (AI-Assisted):** While AI won't replace human auditors soon, it's becoming a powerful tool for them. AI can scan code for common vulnerabilities and flag potential issues, allowing a human [smart contract auditor](/interview-questions#smart-contract-auditor) to focus on more complex logic and economic exploits.
 
 ### The Slowdown Fallacy: Developer Activity and Market Cycles
 
@@ -57,5 +57,4 @@ A: Focus on skills that AI cannot easily replicate: critical thinking, creativit
 
 **Q: Where can I find jobs that involve both AI and Web3?**
 
-A: Keep an eye on specialized listings on our [top Web3 job board](/jobs). Companies building in areas like decentralized AI, on-chain analytics, and algorithmic trading are actively hiring for these hybrid roles.
-
+A: Keep an eye on specialized listings on our [Web3 job board](/jobs). Companies building in areas like decentralized AI, on-chain analytics, and algorithmic trading are actively hiring for these hybrid roles.
