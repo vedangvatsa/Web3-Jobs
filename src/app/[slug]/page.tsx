@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { Header } from '@/components/header';
 import Image from 'next/image';
 import { Metadata } from 'next';
-import type { Article as ArticleSchema } from 'schema-dts';
+import type { Article as ArticleSchema, ScholarlyArticle } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
 import { Button } from '@/components/ui/button';
 import { Rss } from 'lucide-react';
@@ -86,8 +86,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const siteUrl = 'https://hashtagweb3.com';
   const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;
 
-  const articleSchema: ArticleSchema = {
-    '@type': 'Article',
+  const isScholarly = article.category === "AI & The Future of Work";
+
+  const articleSchema: ArticleSchema | ScholarlyArticle = {
+    '@type': isScholarly ? 'ScholarlyArticle' : 'Article',
     headline: article.title,
     description: article.description,
     image: imageUrl,
