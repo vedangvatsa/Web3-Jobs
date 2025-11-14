@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
-import type { WebSite } from 'schema-dts';
+import type { WebSite, Organization } from 'schema-dts';
 import { TelegramPopup } from '@/components/telegram-popup';
 
 const inter = Inter({
@@ -88,6 +88,17 @@ export default async function RootLayout({
     },
   };
 
+  const organizationSchema: Organization = {
+    '@type': 'Organization',
+    name: 'Hashtag Web3',
+    url: siteConfig.url,
+    logo: `${siteConfig.url}/icon.png`,
+    sameAs: [
+      'https://x.com/hashtag_web3',
+      'https://linkedin.com/company/hashtagweb3'
+    ]
+  };
+
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
         <head>
@@ -95,6 +106,10 @@ export default async function RootLayout({
             <script
               type="application/ld+json"
               dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+            />
+            <script
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
             />
             <Script
               id="gtag-script"

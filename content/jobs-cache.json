@@ -1,5 +1,317 @@
 [
   {
+    "id": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/62152269-senior-open-source-developer-rust#content",
+    "title": "Senior Open Source Developer - Rust",
+    "company": "OpenZeppelin",
+    "link": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/62152269-senior-open-source-developer-rust#content",
+    "date": "2025-11-14T16:52:00.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/flashbots/jobs/62151821-senior-devops-engineer#content",
+    "title": "Senior DevOps Engineer",
+    "company": "Flashbots",
+    "link": "https://jobs.dragonfly.xyz/companies/flashbots/jobs/62151821-senior-devops-engineer#content",
+    "date": "2025-11-14T16:23:00.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/nexus-2-a8c40318-c4ba-486d-9b14-ed48f99c6d44/jobs/62146138-backend-engineer-latam#content",
+    "title": "Backend Engineer (LATAM)",
+    "company": "NEXUS",
+    "link": "https://jobs.dragonfly.xyz/companies/nexus-2-a8c40318-c4ba-486d-9b14-ed48f99c6d44/jobs/62146138-backend-engineer-latam#content",
+    "date": "2025-11-14T14:59:25.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/62142525-graphic-designer#content",
+    "title": "Graphic Designer",
+    "company": "Monad",
+    "link": "https://jobs.dragonfly.xyz/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/62142525-graphic-designer#content",
+    "date": "2025-11-14T14:36:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/li-fi-2/jobs/62125004-product-manager-zaps#content",
+    "title": "Product Manager - Zaps",
+    "company": "LI.FI",
+    "link": "https://jobs.dragonfly.xyz/companies/li-fi-2/jobs/62125004-product-manager-zaps#content",
+    "date": "2025-11-14T12:40:51.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/ava-labs/jobs/62123408-senior-technical-product-manager-avacloud#content",
+    "title": "Senior Technical Product Manager - AvaCloud",
+    "company": "Ava Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/ava-labs/jobs/62123408-senior-technical-product-manager-avacloud#content",
+    "date": "2025-11-14T12:25:09.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/bloxroute-labs/jobs/62115754-software-engineering-team-lead#content",
+    "title": "Software Engineering Team Lead",
+    "company": "BloXroute Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/bloxroute-labs/jobs/62115754-software-engineering-team-lead#content",
+    "date": "2025-11-14T11:25:28.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/62119765-finance-manager-fp-a#content",
+    "title": "Finance Manager, FP&A",
+    "company": "Arbitrum",
+    "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/62119765-finance-manager-fp-a#content",
+    "date": "2025-11-14T11:23:52.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/62109572-risk-strategy-analyst#content",
+    "title": "Risk Strategy Analyst",
+    "company": "WOO Network",
+    "link": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/62109572-risk-strategy-analyst#content",
+    "date": "2025-11-14T11:10:28.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/62109565-risk-operations-specialist#content",
+    "title": "Risk Operations Specialist",
+    "company": "WOO Network",
+    "link": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/62109565-risk-operations-specialist#content",
+    "date": "2025-11-14T10:55:28.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://synfutures.notion.site/Talent-Lead-2a448d36614f80a7a2cdf3a7e639e23c?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Talent Lead",
+    "company": "SynFutures",
+    "link": "https://synfutures.notion.site/Talent-Lead-2a448d36614f80a7a2cdf3a7e639e23c?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2025-11-14T06:08:14.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://synfutures.notion.site/Smart-Contract-Engineer-29d48d36614f80769b85f30d6d5eb170?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Smart Contract Engineer",
+    "company": "SynFutures",
+    "link": "https://synfutures.notion.site/Smart-Contract-Engineer-29d48d36614f80769b85f30d6d5eb170?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2025-11-14T05:53:14.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://synfutures.notion.site/Web3-Backend-Operations-Engineer-29d48d36614f8045a28ac4712533d933?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Web3 Backend Operations Engineer",
+    "company": "SynFutures",
+    "link": "https://synfutures.notion.site/Web3-Backend-Operations-Engineer-29d48d36614f8045a28ac4712533d933?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2025-11-14T05:38:14.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://synfutures.notion.site/Web3-Senior-Backend-Engineer-29d48d36614f80eebd5ec6336bc34e91?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Web3 Senior Backend Engineer",
+    "company": "SynFutures",
+    "link": "https://synfutures.notion.site/Web3-Senior-Backend-Engineer-29d48d36614f80eebd5ec6336bc34e91?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2025-11-14T05:23:14.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://synfutures.notion.site/Web3-Senior-Frontend-Engineer-29d48d36614f80318e37c4e3ac5d092a?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Web3 Senior Frontend Engineer",
+    "company": "SynFutures",
+    "link": "https://synfutures.notion.site/Web3-Senior-Frontend-Engineer-29d48d36614f80318e37c4e3ac5d092a?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2025-11-14T05:08:14.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://synfutures.notion.site/DeFi-Trader-29c48d36614f805eaec3d40ea429490c?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "DeFi Trader",
+    "company": "SynFutures",
+    "link": "https://synfutures.notion.site/DeFi-Trader-29c48d36614f805eaec3d40ea429490c?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2025-11-14T04:53:14.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/offchainlabs/7308281d-1d7a-4a60-b042-17521f04742d?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Finance Manager, FP&A",
+    "company": "Offchain Labs",
+    "link": "https://jobs.lever.co/offchainlabs/7308281d-1d7a-4a60-b042-17521f04742d?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2025-11-14T00:30:55.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/384fd2eb-d527-4eb9-8186-f43943b0b872?utm_source=jobs.a16z.com",
+    "title": "Regional General Counsel, APAC",
+    "company": "Worldcoin",
+    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/384fd2eb-d527-4eb9-8186-f43943b0b872?utm_source=jobs.a16z.com",
+    "date": "2025-11-14T00:24:19.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://bitso.com/jobs?gh_jid=7510985003",
+    "title": "Marketing Manager",
+    "company": "Bitso",
+    "link": "https://bitso.com/jobs?gh_jid=7510985003",
+    "date": "2025-11-14T00:15:55.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/Espresso/21f036c6-09b4-4897-b46a-d497499c588d?lever-source%5B%5D=jobs.a16z.com",
+    "title": "Social Media Manager",
+    "company": "Espresso Systems",
+    "link": "https://jobs.lever.co/Espresso/21f036c6-09b4-4897-b46a-d497499c588d?lever-source%5B%5D=jobs.a16z.com",
+    "date": "2025-11-14T00:09:19.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://wellfound.com/jobs/3542749-senior-product-manager",
+    "title": "Senior Product Manager",
+    "company": "Chainflip Labs",
+    "link": "https://wellfound.com/jobs/3542749-senior-product-manager",
+    "date": "2025-11-13T21:27:56.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.comeet.com/jobs/starkware/C6.00E/product-integration-associate--africa-ventures-fund-i/C4.06D",
+    "title": "Product Integration Associate – Africa Ventures Fund I",
+    "company": "StarkWare",
+    "link": "https://www.comeet.com/jobs/starkware/C6.00E/product-integration-associate--africa-ventures-fund-i/C4.06D",
+    "date": "2025-11-13T18:30:16.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Website-Marketing-Lead_JR100691-1",
+    "title": "Website Marketing Lead",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Website-Marketing-Lead_JR100691-1",
+    "date": "2025-11-13T18:15:16.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/tenderly/jobs/62088879-senior-backend-engineer-networks#content",
+    "title": "Senior Backend Engineer [Networks]",
+    "company": "Tenderly",
+    "link": "https://jobs.avax.network/companies/tenderly/jobs/62088879-senior-backend-engineer-networks#content",
+    "date": "2025-11-13T16:22:03.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/61944794-hr-generalist#content",
+    "title": "HR Generalist",
+    "company": "Arbitrum",
+    "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/61944794-hr-generalist#content",
+    "date": "2025-11-13T14:07:32.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/61776464-corporate-counsel#content",
+    "title": "Corporate Counsel",
+    "company": "Arbitrum",
+    "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/61776464-corporate-counsel#content",
+    "date": "2025-11-13T13:52:32.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Bastion/5d53701c-0675-4986-b76d-dde7be291392?utm_source=jobs.a16z.com",
+    "title": "Head of Security Engineering",
+    "company": "Bastion",
+    "link": "https://jobs.ashbyhq.com/Bastion/5d53701c-0675-4986-b76d-dde7be291392?utm_source=jobs.a16z.com",
+    "date": "2025-11-13T09:16:25.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4710176101",
+    "title": "Site Reliability Engineer",
+    "company": "Gensyn",
+    "link": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4710176101",
+    "date": "2025-11-13T09:01:25.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7344717?gh_jid=7344717",
+    "title": "Associate Manager, Consumer Content",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7344717?gh_jid=7344717",
+    "date": "2025-11-13T00:31:09.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/mystenlabs/d63e7ab4-0f29-4ba7-9add-f8d4feaba8e2?utm_source=jobs.a16z.com",
+    "title": "Sr. Executive Assistant",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/d63e7ab4-0f29-4ba7-9add-f8d4feaba8e2?utm_source=jobs.a16z.com",
+    "date": "2025-11-13T00:24:09.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7385960?gh_jid=7385960",
+    "title": "Senior Manager, Financial Risk",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7385960?gh_jid=7385960",
+    "date": "2025-11-13T00:16:09.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/provable/29799565-104f-43ac-abe5-2f70658399f8?utm_source=jobs.a16z.com",
+    "title": "Backend Engineer, Typescript",
+    "company": "Provable",
+    "link": "https://jobs.ashbyhq.com/provable/29799565-104f-43ac-abe5-2f70658399f8?utm_source=jobs.a16z.com",
+    "date": "2025-11-12T23:54:09.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/nansen/jobs/62013827-affiliate-manager-nyc#content",
+    "title": "Affiliate Manager - NYC",
+    "company": "Nansen",
+    "link": "https://jobs.avax.network/companies/nansen/jobs/62013827-affiliate-manager-nyc#content",
+    "date": "2025-11-12T13:14:09.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/1inch-2/jobs/61090710-senior-product-owner#content",
+    "title": "Senior Product Owner",
+    "company": "1Inch",
+    "link": "https://jobs.avax.network/companies/1inch-2/jobs/61090710-senior-product-owner#content",
+    "date": "2025-11-12T10:21:33.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/0x-org/jobs/61975287-senior-software-engineer-liquidity#content",
+    "title": "Senior Software Engineer, Liquidity",
+    "company": "0x",
+    "link": "https://jobs.arbitrum.io/companies/0x-org/jobs/61975287-senior-software-engineer-liquidity#content",
+    "date": "2025-11-11T15:21:29.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/61949486-hr-generalist#content",
+    "title": "HR Generalist",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/61949486-hr-generalist#content",
+    "date": "2025-11-11T11:43:17.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/61933141-senior-release-engineer#content",
+    "title": "Senior Release Engineer",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/61933141-senior-release-engineer#content",
+    "date": "2025-11-11T11:10:46.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4628352005",
+    "title": "Senior Release Engineer",
+    "company": "UniSwap",
+    "link": "https://job-boards.greenhouse.io/uniswaplabs/jobs/4628352005",
+    "date": "2025-11-11T00:24:10.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/563",
+    "title": "Associate Director - Design",
+    "company": "CoinSwitch Kuber",
+    "link": "https://recruiterflow.com/coinswitch/jobs/563",
+    "date": "2025-11-10T18:31:41.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/5e1c4da2-e096-4f37-842a-b01a522e3314?utm_source=jobs.a16z.com",
     "title": "Head of Product Design",
     "company": "Worldcoin",
@@ -493,62 +805,6 @@
     "company": "Chainstack",
     "link": "https://jobs.avax.network/companies/chainstack/jobs/61423886-digital-marketing-manager#content",
     "date": "2025-10-31T15:40:38.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/61314032-web3-sales-representative#content",
-    "title": "Web3 Sales Representative",
-    "company": "OpenZeppelin",
-    "link": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/61314032-web3-sales-representative#content",
-    "date": "2025-10-29T19:15:54.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/gelato-2-df45f506-44af-4a53-8484-0ba1893277c6/jobs/61294720-senior-product-designer#content",
-    "title": "Senior Product Designer",
-    "company": "Gelato",
-    "link": "https://jobs.arbitrum.io/companies/gelato-2-df45f506-44af-4a53-8484-0ba1893277c6/jobs/61294720-senior-product-designer#content",
-    "date": "2025-10-29T15:16:27.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/edge-node-ventures/00c2e366-1e28-4824-be34-396e29deff60/application?utm_source=Avalanche+job+board&utm_medium=getro.com&gh_src=Avalanche+job+board",
-    "title": "Junior Site Reliability Engineer (SRE)",
-    "company": "The Graph",
-    "link": "https://jobs.ashbyhq.com/edge-node-ventures/00c2e366-1e28-4824-be34-396e29deff60/application?utm_source=Avalanche+job+board&utm_medium=getro.com&gh_src=Avalanche+job+board",
-    "date": "2025-10-29T14:59:46.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/antimetal/jobs/61262197-deployed-engineer#content",
-    "title": "Deployed Engineer",
-    "company": "Antimetal",
-    "link": "https://jobs.arbitrum.io/companies/antimetal/jobs/61262197-deployed-engineer#content",
-    "date": "2025-10-29T10:33:38.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/61226123-senior-application-security-engineer#content",
-    "title": "Senior Application Security Engineer",
-    "company": "Uniswap Labs",
-    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/61226123-senior-application-security-engineer#content",
-    "date": "2025-10-28T14:00:42.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/chainstack/jobs/61225851-senior-product-manager-validator-operations-staking#content",
-    "title": "Senior Product Manager (Validator Operations & Staking)",
-    "company": "Chainstack",
-    "link": "https://jobs.avax.network/companies/chainstack/jobs/61225851-senior-product-manager-validator-operations-staking#content",
-    "date": "2025-10-28T13:57:04.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/tenderly/jobs/61123634-senior-enterprise-account-executive#content",
-    "title": "Senior Enterprise Account Executive",
-    "company": "Tenderly",
-    "link": "https://jobs.avax.network/companies/tenderly/jobs/61123634-senior-enterprise-account-executive#content",
-    "date": "2025-10-27T05:43:56.000Z",
     "source": "Jobs | Avalanche Job Board"
   }
 ]
