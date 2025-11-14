@@ -86,7 +86,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const siteUrl = 'https://hashtagweb3.com';
   const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;
 
-  const isScholarly = article.category === "AI & The Future of Work";
+  const scholarlyCategories = ["AI & The Future of Work", "Web3 Career Guides", "Web3 Technology"];
+  const isScholarly = scholarlyCategories.includes(article.category);
 
   const articleSchema: ArticleSchema | ScholarlyArticle = {
     '@type': isScholarly ? 'ScholarlyArticle' : 'Article',
