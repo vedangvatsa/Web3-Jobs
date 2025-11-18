@@ -533,7 +533,7 @@ export function ResumeForm() {
                   </h3>
                   <p className="text-muted-foreground">
                     Now that your resume is ready, find the perfect job on our
-                    Telegram channel with over 58,000 subscribers.
+                    Telegram channel with over 60,000 subscribers.
                   </p>
                 </div>
                 <a
