@@ -161,7 +161,7 @@ export function EmployeeExitSurveyForm() {
                 </div>
                 <div>
                     <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3>
-                    <p className="text-muted-foreground">Post your job on the #1 Web3 job board to reach over 100,000 qualified professionals.</p>
+                    <p className="text-muted-foreground">Post your job on the #1 Web3 job board to reach over 60,000 qualified professionals.</p>
                 </div>
                 <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
                     <Button size="lg">
