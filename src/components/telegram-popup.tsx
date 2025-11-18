@@ -1,3 +1,4 @@
+
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -43,7 +44,7 @@ export function TelegramPopup() {
                 <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="w-full">
                     <Button size="lg" className="w-full text-lg">
                         <Rss className="mr-2 h-5 w-5" />
-                        Join 58,000+ Subscribers
+                        Join 60,000+ Subscribers
                     </Button>
                 </a>
                 <p className="text-xs text-muted-foreground mt-3">on Telegram</p>

@@ -108,7 +108,7 @@ export function Web3CareerQuiz() {
                   </div>
                   <div>
                       <h3 className="text-lg font-bold text-primary mb-1">Find Your Role</h3>
-                      <p className="text-sm text-muted-foreground">Now that you know your archetype, find the perfect job on our Telegram channel with over 58,000 subscribers.</p>
+                      <p className="text-sm text-muted-foreground">Now that you know your archetype, find the perfect job on our Telegram channel with over 60,000 subscribers.</p>
                   </div>
                   <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
                       <Button>
