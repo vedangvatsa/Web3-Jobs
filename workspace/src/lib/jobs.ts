@@ -1336,7 +1336,11 @@ const FEEDS = [
   'https://politepol.com/fd/bs9i34afSjHS.xml', // Arbitrum
   'https://politepol.com/fd/oiXKHETnrDap.xml', // a16z
   'https://politepol.com/fd/Ane01VX84MOk.xml', // Pantera
-  'https://politepol.com/fd/HI6pMDlyEO7j.xml'  // Avalanche
+  'https://politepol.com/fd/HI6pMDlyEO7j.xml',  // Avalanche
+  'https://politepol.com/fd/uIQRejBOTRjO.xml',
+  'https://politepol.com/fd/qglK0E9cQDYB.xml',
+  'https://politepol.com/fd/UEGwYfx1fQ9R.xml',
+  'https://politepol.com/fd/fEgzbFDDrmRe.xml'
 ];
 
 const parser = new Parser();
@@ -1373,7 +1377,15 @@ async function writeJobsCache(jobs: Job[]): Promise<void> {
 
 export async function getJobs(): Promise<Job[]> {
   const cachedJobs = await readJobsCache();
-  const newJobs: Job[] = [];
+  const jobMap = new Map<string, Job>();
+
+  // Load manual and cached jobs into the map
+  [...MANUAL_JOBS, ...cachedJobs].forEach(job => {
+    const uniqueKey = `${job.title.toLowerCase()}|${job.company.toLowerCase()}`;
+    if (!jobMap.has(uniqueKey)) {
+        jobMap.set(uniqueKey, job);
+    }
+  });
 
   const allJobsPromises = FEEDS.map(async (feedUrl) => {
     try {
@@ -1385,15 +1397,18 @@ export async function getJobs(): Promise<Job[]> {
           const link = item.link;
 
           if (link && title && company && title.split(' ').length <= 8 && !title.toLowerCase().includes('bounty')) {
-            const newJob: Job = {
-                id: item.guid || link,
-                title,
-                company,
-                link,
-                date: item.isoDate || new Date().toISOString(),
-                source: feed.title || feedUrl,
-            };
-            newJobs.push(newJob);
+            const uniqueKey = `${title.toLowerCase()}|${company.toLowerCase()}`;
+            if (!jobMap.has(uniqueKey)) {
+                const newJob: Job = {
+                    id: item.guid || link,
+                    title,
+                    company,
+                    link,
+                    date: item.isoDate || new Date().toISOString(),
+                    source: feed.title || feedUrl,
+                };
+                jobMap.set(uniqueKey, newJob);
+            }
           }
         });
       }
@@ -1403,27 +1418,18 @@ export async function getJobs(): Promise<Job[]> {
   });
 
   await Promise.all(allJobsPromises);
-
-  // Combine new jobs with cached jobs and de-duplicate
-  const allJobsMap = new Map<string, Job>();
-  [...MANUAL_JOBS, ...cachedJobs, ...newJobs].forEach(job => {
-      // Use link as the primary unique identifier for a job
-      if (!allJobsMap.has(job.link)) {
-          allJobsMap.set(job.link, job);
-      }
-  });
   
-  let combinedJobs = Array.from(allJobsMap.values());
+  let allJobs = Array.from(jobMap.values());
 
   // Filter out jobs older than 15 days, but keep manual jobs forever
   const fifteenDaysAgo = new Date();
   fifteenDaysAgo.setDate(fifteenDaysAgo.getDate() - 15);
 
-  const freshJobs = combinedJobs.filter(job => {
+  const freshJobs = allJobs.filter(job => {
       if (job.source === 'Manual') {
           return true;
       }
-      return new Date(job.date) >= fifteenDaysAgo;
+      return new Date(job.date) > fifteenDaysAgo;
   });
 
   // Filter out unwanted company jobs
