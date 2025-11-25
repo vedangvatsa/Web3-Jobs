@@ -1341,7 +1341,8 @@ const FEEDS = [
   'https://politepol.com/fd/qglK0E9cQDYB.xml',
   'https://politepol.com/fd/UEGwYfx1fQ9R.xml',
   'https://politepol.com/fd/fEgzbFDDrmRe.xml',
-  'https://politepol.com/fd/KTQjDJIFxvZY.xml'
+  'https://politepol.com/fd/KTQjDJIFxvZY.xml',
+  'https://politepol.com/fd/K6yCQ7sphvoC.xml'
 ];
 
 const parser = new Parser();
@@ -1449,3 +1450,5 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
+
+    
