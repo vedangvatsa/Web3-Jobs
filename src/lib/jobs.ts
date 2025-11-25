@@ -1339,7 +1339,9 @@ const FEEDS = [
   'https://politepol.com/fd/HI6pMDlyEO7j.xml',  // Avalanche
   'https://politepol.com/fd/uIQRejBOTRjO.xml',
   'https://politepol.com/fd/qglK0E9cQDYB.xml',
-  'https://politepol.com/fd/UEGwYfx1fQ9R.xml'
+  'https://politepol.com/fd/UEGwYfx1fQ9R.xml',
+  'https://politepol.com/fd/fEgzbFDDrmRe.xml',
+  'https://politepol.com/fd/KTQjDJIFxvZY.xml'
 ];
 
 const parser = new Parser();
