@@ -1337,7 +1337,9 @@ const FEEDS = [
   'https://politepol.com/fd/oiXKHETnrDap.xml', // a16z
   'https://politepol.com/fd/Ane01VX84MOk.xml', // Pantera
   'https://politepol.com/fd/HI6pMDlyEO7j.xml',  // Avalanche
-  'https://politepol.com/fd/uIQRejBOTRjO.xml'
+  'https://politepol.com/fd/uIQRejBOTRjO.xml',
+  'https://politepol.com/fd/qglK0E9cQDYB.xml',
+  'https://politepol.com/fd/UEGwYfx1fQ9R.xml'
 ];
 
 const parser = new Parser();
