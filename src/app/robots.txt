@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hashtagweb3.com/sitemap.xml
