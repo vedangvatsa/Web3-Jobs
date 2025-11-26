@@ -1,5 +1,405 @@
 [
   {
+    "id": "https://coinbase.getro.com/companies/gem-2/jobs/62727494-staff-product-designer#content",
+    "title": "Staff Product Designer",
+    "company": "Gem",
+    "link": "https://coinbase.getro.com/companies/gem-2/jobs/62727494-staff-product-designer#content",
+    "date": "2025-11-26T20:10:01.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/meeco/jobs/62720814-self-driven-engineers#content",
+    "title": "Self-driven Engineers",
+    "company": "Meeco",
+    "link": "https://careers.hedera.community/companies/meeco/jobs/62720814-self-driven-engineers#content",
+    "date": "2025-11-26T20:10:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721291-growth-marketing-manager-ai#content",
+    "title": "Growth Marketing Manager - AI",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721291-growth-marketing-manager-ai#content",
+    "date": "2025-11-26T20:10:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/62715366-ta-manager#content",
+    "title": "TA Manager",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/62715366-ta-manager#content",
+    "date": "2025-11-26T19:55:01.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/61839054-senior-software-engineer-full-stack-product-engineering#content",
+    "title": "Senior Software Engineer, Full Stack | Product Engineering",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/61839054-senior-software-engineer-full-stack-product-engineering#content",
+    "date": "2025-11-26T19:55:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721292-growth-marketing-associate-ai#content",
+    "title": "Growth Marketing Associate - AI",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721292-growth-marketing-associate-ai#content",
+    "date": "2025-11-26T19:55:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/62715365-sde-intern-batch-of-2026#content",
+    "title": "SDE Intern : Batch of 2026",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/62715365-sde-intern-batch-of-2026#content",
+    "date": "2025-11-26T19:40:01.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/61839045-sales-development-representative-latam#content",
+    "title": "Sales Development Representative - LATAM",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/61839045-sales-development-representative-latam#content",
+    "date": "2025-11-26T19:40:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/62703278-strategy-operations-manager-trading-platform-outkast#content",
+    "title": "Strategy & Operations Manager - Trading Platform (OUTKAST)",
+    "company": "Kast",
+    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/62703278-strategy-operations-manager-trading-platform-outkast#content",
+    "date": "2025-11-26T19:40:00.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721293-business-development-associate#content",
+    "title": "Business Development Associate",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721293-business-development-associate#content",
+    "date": "2025-11-26T19:40:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/cointracker/jobs/62710794-crypto-tax-analyst-quality-assurance#content",
+    "title": "Crypto Tax Analyst - Quality Assurance",
+    "company": "CoinTracker",
+    "link": "https://coinbase.getro.com/companies/cointracker/jobs/62710794-crypto-tax-analyst-quality-assurance#content",
+    "date": "2025-11-26T19:25:01.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/61755584-senior-data-engineer-graph-analytics#content",
+    "title": "Senior Data Engineer, Graph Analytics",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/61755584-senior-data-engineer-graph-analytics#content",
+    "date": "2025-11-26T19:25:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/62703271-product-manager-trading-platform-outkast#content",
+    "title": "Product Manager - Trading Platform (OUTKAST)",
+    "company": "Kast",
+    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/62703271-product-manager-trading-platform-outkast#content",
+    "date": "2025-11-26T19:25:00.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721286-backend-engineer-ai-platforms-python#content",
+    "title": "Backend Engineer - AI Platforms (Python)",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721286-backend-engineer-ai-platforms-python#content",
+    "date": "2025-11-26T19:25:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/61700223-senior-sales-recruiter#content",
+    "title": "Senior Sales Recruiter",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/61700223-senior-sales-recruiter#content",
+    "date": "2025-11-26T19:10:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/orca/jobs/62679433-product-manager#content",
+    "title": "Product Manager",
+    "company": "Orca",
+    "link": "https://jobs.solana.com/companies/orca/jobs/62679433-product-manager#content",
+    "date": "2025-11-26T19:10:00.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721284-devops-engineer#content",
+    "title": "DevOps Engineer",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721284-devops-engineer#content",
+    "date": "2025-11-26T19:10:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/tactic-2/jobs/62698194-sme-tax-manager#content",
+    "title": "SME Tax Manager",
+    "company": "Tactic",
+    "link": "https://coinbase.getro.com/companies/tactic-2/jobs/62698194-sme-tax-manager#content",
+    "date": "2025-11-26T18:55:01.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/61629197-account-director-uk-public-sector#content",
+    "title": "Account Director - UK Public Sector",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/61629197-account-director-uk-public-sector#content",
+    "date": "2025-11-26T18:55:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721289-ml-engineer-audio-tts-voice-cloning#content",
+    "title": "ML Engineer | Audio & TTS Voice Cloning",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721289-ml-engineer-audio-tts-voice-cloning#content",
+    "date": "2025-11-26T18:55:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/582",
+    "title": "TA Manager",
+    "company": "CoinSwitch Kuber",
+    "link": "https://recruiterflow.com/coinswitch/jobs/582",
+    "date": "2025-11-26T18:40:51.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.lever.co/1inch/845a8439-fc77-43c8-b99b-5f66095cc9d7?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Senior Data Engineer",
+    "company": "1inch Network",
+    "link": "https://jobs.lever.co/1inch/845a8439-fc77-43c8-b99b-5f66095cc9d7?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2025-11-26T18:40:49.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/yellow-card-2/jobs/62689862-director-of-product-infrastructure#content",
+    "title": "Director of Product Infrastructure",
+    "company": "Yellow Card",
+    "link": "https://coinbase.getro.com/companies/yellow-card-2/jobs/62689862-director-of-product-infrastructure#content",
+    "date": "2025-11-26T18:40:01.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/61629195-account-director-public-sector-middle-east#content",
+    "title": "Account Director - Public Sector (Middle East)",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/61629195-account-director-public-sector-middle-east#content",
+    "date": "2025-11-26T18:40:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721288-mlops-ml-platform-engineer#content",
+    "title": "MLOps / ML Platform Engineer",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721288-mlops-ml-platform-engineer#content",
+    "date": "2025-11-26T18:40:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://apply.workable.com/j/224DBD18A9",
+    "title": "Compliance Testing and Monitoring Officer",
+    "company": "Bitstamp",
+    "link": "https://apply.workable.com/j/224DBD18A9",
+    "date": "2025-11-26T18:25:49.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/61575432-strategic-partnerships-manager-financial-institutions-banking#content",
+    "title": "Strategic Partnerships Manager - Financial Institutions & Banking",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/61575432-strategic-partnerships-manager-financial-institutions-banking#content",
+    "date": "2025-11-26T18:25:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721290-motion-graphics-animator-ai-brand-content#content",
+    "title": "Motion Graphics Animator - AI Brand Content",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721290-motion-graphics-animator-ai-brand-content#content",
+    "date": "2025-11-26T18:25:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://limechain.tech/careers/chief-growth-officer?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "title": "Chief Sales Growth Officer",
+    "company": "LimeChain",
+    "link": "https://limechain.tech/careers/chief-growth-officer?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "date": "2025-11-26T18:10:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721287-product-growth-lead#content",
+    "title": "Product & Growth Lead",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721287-product-growth-lead#content",
+    "date": "2025-11-26T18:10:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://limechain.tech/careers/open-application?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "title": "Open Application",
+    "company": "LimeChain",
+    "link": "https://limechain.tech/careers/open-application?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "date": "2025-11-26T17:55:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721285-cv-engineer-deep-learning#content",
+    "title": "CV Engineer - Deep Learning",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721285-cv-engineer-deep-learning#content",
+    "date": "2025-11-26T17:55:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://limechain.tech/careers/senior-financial-analyst?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "title": "Senior Financial Analyst",
+    "company": "LimeChain",
+    "link": "https://limechain.tech/careers/senior-financial-analyst?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "date": "2025-11-26T17:40:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721283-generative-ai-llm-engineer#content",
+    "title": "Generative AI / LLM Engineer",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721283-generative-ai-llm-engineer#content",
+    "date": "2025-11-26T17:40:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721282-head-of-ai-engineering#content",
+    "title": "Head of AI Engineering",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/62721282-head-of-ai-engineering#content",
+    "date": "2025-11-26T17:25:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/62709966-operations-manager-us#content",
+    "title": "Operations Manager, US",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/62709966-operations-manager-us#content",
+    "date": "2025-11-26T17:10:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/genies/jobs/62706171-research-engineer-intern-speech-generation-spring-2026#content",
+    "title": "Research Engineer Intern, Speech Generation - Spring 2026",
+    "company": "Genies",
+    "link": "https://jobs.multicoin.capital/companies/genies/jobs/62706171-research-engineer-intern-speech-generation-spring-2026#content",
+    "date": "2025-11-26T16:55:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=d8655a256c62b8ff&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Account Executive - Mid Market",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=d8655a256c62b8ff&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2025-11-26T16:40:00.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/62727606-bd-director-payments-mexico-central-america#content",
+    "title": "BD Director, Payments (Mexico & Central America)",
+    "company": "Polygon Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/62727606-bd-director-payments-mexico-central-america#content",
+    "date": "2025-11-26T16:31:45.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/0x-org/jobs/62722233-social-media-manager-0x-matcha#content",
+    "title": "Social Media Manager - 0x/Matcha",
+    "company": "0x",
+    "link": "https://jobs.arbitrum.io/companies/0x-org/jobs/62722233-social-media-manager-0x-matcha#content",
+    "date": "2025-11-26T14:48:53.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/openocean/jobs/62712032-marketing-manager#content",
+    "title": "Marketing Manager",
+    "company": "OpenOcean",
+    "link": "https://jobs.avax.network/companies/openocean/jobs/62712032-marketing-manager#content",
+    "date": "2025-11-26T12:59:44.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/1inch-2/jobs/62704282-talent-acquisition-specialist#content",
+    "title": "Talent Acquisition Specialist",
+    "company": "1Inch",
+    "link": "https://jobs.avax.network/companies/1inch-2/jobs/62704282-talent-acquisition-specialist#content",
+    "date": "2025-11-26T11:53:59.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/62703435-member-of-compliance-tprm#content",
+    "title": "Member of Compliance, TPRM",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/62703435-member-of-compliance-tprm#content",
+    "date": "2025-11-26T11:38:34.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7426746?gh_jid=7426746",
+    "title": "Senior Product Manager",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7426746?gh_jid=7426746",
+    "date": "2025-11-26T09:28:15.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/bitgo/jobs/8308551002",
+    "title": "Office Manager, Bay Area",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8308551002",
+    "date": "2025-11-26T09:13:15.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/6937d6a4-09e4-4ed0-a222-e1c2ab898c68?utm_source=jobs.a16z.com",
+    "title": "Operations Manager, US",
+    "company": "Worldcoin",
+    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/6937d6a4-09e4-4ed0-a222-e1c2ab898c68?utm_source=jobs.a16z.com",
+    "date": "2025-11-26T00:24:43.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7421803?gh_jid=7421803",
+    "title": "IT Support Specialist, Trading Floor",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7421803?gh_jid=7421803",
+    "date": "2025-11-26T00:24:38.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/603228e9-7065-430b-9b88-5c3bcfc88755?lever-source%5B%5D=jobs.a16z.com",
+    "title": "Member of Compliance, TPRM",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/603228e9-7065-430b-9b88-5c3bcfc88755?lever-source%5B%5D=jobs.a16z.com",
+    "date": "2025-11-26T00:09:43.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/0x/18bbd7e5-dda1-449b-b89d-170a32269807?utm_source=jobs.panteracapital.com",
+    "title": "Social Media Manager - 0x/Matcha",
+    "company": "0x Labs",
+    "link": "https://jobs.ashbyhq.com/0x/18bbd7e5-dda1-449b-b89d-170a32269807?utm_source=jobs.panteracapital.com",
+    "date": "2025-11-26T00:09:38.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.morpho.org/o/risk-analyst",
+    "title": "Risk Analyst",
+    "company": "Morpho Labs",
+    "link": "https://jobs.morpho.org/o/risk-analyst",
+    "date": "2025-11-25T23:54:43.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
     "id": "https://coinbase.getro.com/companies/gem-2/jobs/62658801-executive-business-partner#content",
     "title": "Executive Business Partner",
     "company": "Gem",
@@ -264,6 +664,14 @@
     "source": "Jobs at Shima Capital Companies | Shima Capital"
   },
   {
+    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/61949486-hr-generalist#content",
+    "title": "HR Generalist",
+    "company": "Offchain Labs",
+    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/61949486-hr-generalist#content",
+    "date": "2025-11-25T19:38:06.000Z",
+    "source": "Jobs | Spartan Group Job Board"
+  },
+  {
     "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/62596628-premium-cash-officer#content",
     "title": "Premium Cash Officer",
     "company": "Wave Mobile Money",
@@ -366,6 +774,14 @@
     "link": "https://jobs.multicoin.capital/companies/passes/jobs/62484399-event-sales-partnerships-manager#content",
     "date": "2025-11-25T19:00:23.000Z",
     "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.spartangroup.io/companies/1inch-2/jobs/61090712-senior-software-engineer-blockchain#content",
+    "title": "Senior Software Engineer, Blockchain",
+    "company": "1Inch",
+    "link": "https://jobs.spartangroup.io/companies/1inch-2/jobs/61090712-senior-software-engineer-blockchain#content",
+    "date": "2025-11-25T18:53:06.000Z",
+    "source": "Jobs | Spartan Group Job Board"
   },
   {
     "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/62576971-agent-operations-territory-lead#content",
@@ -1294,29 +1710,5 @@
     "link": "https://jobs.avax.network/companies/nansen/jobs/62013827-affiliate-manager-nyc#content",
     "date": "2025-11-12T13:14:09.000Z",
     "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/0x-org/jobs/61975287-senior-software-engineer-liquidity#content",
-    "title": "Senior Software Engineer, Liquidity",
-    "company": "0x",
-    "link": "https://jobs.arbitrum.io/companies/0x-org/jobs/61975287-senior-software-engineer-liquidity#content",
-    "date": "2025-11-11T15:21:29.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/61949486-hr-generalist#content",
-    "title": "HR Generalist",
-    "company": "Offchain Labs",
-    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/61949486-hr-generalist#content",
-    "date": "2025-11-11T11:43:17.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/61933141-senior-release-engineer#content",
-    "title": "Senior Release Engineer",
-    "company": "Uniswap Labs",
-    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/61933141-senior-release-engineer#content",
-    "date": "2025-11-11T11:10:46.000Z",
-    "source": "Jobs | Arbitrum Job Board"
   }
 ]
