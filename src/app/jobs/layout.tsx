@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Jobs | The #1 Crypto & Blockchain Job Board',
-  description: 'The best job board for Web3, crypto, and blockchain roles. Discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.',
+  description: 'Find the best Web3 jobs on the #1 crypto job board. Discover opportunities at leading Web3 companies, DAOs, and crypto startups.',
   alternates: {
     canonical: '/jobs',
   },

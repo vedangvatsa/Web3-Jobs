@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Career Resources | Free Tools for Your Crypto Career',
-  description: 'A collection of free tools for Web3 professionals, including a resume builder, salary calculator, interview questions, and more.',
+  description: 'Explore our suite of free tools designed to help you succeed in your Web3 career, from a resume builder to interview questions.',
   alternates: {
     canonical: '/resources',
   },
