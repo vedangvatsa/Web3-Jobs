@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Archetype Assessment | Find Your Crypto Career Path',
-  description: "What's your Web3 personality? Take our free, quick assessment to discover your professional archetype and the crypto career paths that best match your skills.",
+  description: "What's your Web3 personality? Take our free assessment to discover your professional archetype and the crypto career paths that best match your skills.",
   alternates: {
     canonical: '/web3-career-quiz',
   },

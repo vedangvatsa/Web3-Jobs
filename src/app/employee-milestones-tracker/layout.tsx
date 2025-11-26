@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Employee 30-60-90 Day Plan | Free Milestones Tracker',
-  description: 'A free tool to create a structured 30-60-90 day plan for new hires. Track employee milestones and align on goals to foster career progression.',
+  description: 'Create a structured 30-60-90 day plan for new hires. Track employee milestones and align on goals to foster career progression with our free tool.',
   alternates: {
     canonical: '/employee-milestones-tracker',
   },

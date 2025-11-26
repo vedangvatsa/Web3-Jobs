@@ -1,7 +1,7 @@
 ---
 title: "How AI is Changing the Job Market: A Web3 Perspective"
 image: "https://images.unsplash.com/photo-1677756119517-756a188d2d94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxBSSUyMGFuZCUyMGpvYnN8ZW58MHx8fHwxNzYyODU1NzM3fDA&ixlib=rb-4.1.0&q=80&w=1080"
-description: "Explore how artificial intelligence, particularly agentic AI, is reshaping careers and creating new opportunities at the intersection of AI and Web3."
+description: "Explore how agentic AI is reshaping careers and creating new opportunities at the intersection of AI and Web3, from development to governance."
 category: "AI & The Future of Work"
 data-ai-hint: "AI job market"
 ---

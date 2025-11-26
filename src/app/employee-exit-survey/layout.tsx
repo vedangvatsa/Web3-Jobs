@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Employee Exit Survey Tool | Free Template',
-  description: 'Generate a comprehensive employee exit survey with our free tool. Gather valuable feedback from departing team members to improve retention and culture.',
+  description: 'Generate an employee exit survey with our free tool. Gather valuable feedback from departing team members to improve retention and culture.',
   alternates: {
     canonical: '/employee-exit-survey',
   },

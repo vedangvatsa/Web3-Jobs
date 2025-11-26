@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Interview Question Bank | 200+ Questions',
-  description: 'The ultimate guide to ace your Web3 interview. Explore over 200 real questions for roles in Solidity, DeFi, Product Management, Security, and more.',
+  description: 'The ultimate resource for Web3 interviews. Explore 200+ real questions for roles in Solidity, DeFi, Product Management, Security, and more.',
   alternates: {
     canonical: '/interview-questions',
   },

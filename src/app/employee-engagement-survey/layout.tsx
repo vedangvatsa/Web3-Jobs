@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Employee Engagement Pulse Survey | Free Tool',
-  description: 'A free tool to generate a quick and effective employee engagement pulse survey. Measure team morale and satisfaction to build a thriving company culture.',
+  description: 'A free tool to generate an employee engagement pulse survey. Measure team morale and satisfaction to build a thriving company culture.',
   alternates: {
     canonical: '/employee-engagement-survey',
   },
