@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'The Web3 Playbook | Career Guides & Tech Deep Dives',
-    description: 'Explore in-depth articles on careers, technology, and industry insights to help you build your crypto career.',
+    description: 'Explore in-depth articles on Web3 careers, technology, and industry insights. Your complete guide to building a successful career in crypto.',
     url: 'https://hashtagweb3.com/blog',
     images: [
       {

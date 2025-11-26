@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Web3 Salary Calculator | Estimate Your Crypto Job Salary',
-    description: 'Curious what you could earn in Web3? Use our calculator to get an estimated salary for your role.',
+    description: 'Curious what you could earn in Web3? Use our calculator for a salary estimate based on your role, experience, and location.',
     url: 'https://hashtagweb3.com/salary-calculator',
     images: [
       {

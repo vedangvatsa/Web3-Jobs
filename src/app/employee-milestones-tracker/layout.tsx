@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Employee 30-60-90 Day Plan | Free Milestones Tracker',
-    description: 'Plan and track employee growth with our free milestones tracker template.',
+    description: 'Plan and track employee growth with our free milestones tracker template. Align on goals for new hires in their first 30-60-90 days.',
     url: 'https://hashtagweb3.com/employee-milestones-tracker',
     images: [
       {
