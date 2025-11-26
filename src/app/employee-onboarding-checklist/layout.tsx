@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Employee Onboarding Checklist | Free Template',
-  description: 'A comprehensive checklist for successfully onboarding new hires into a Web3 company, covering culture, security, role-specific training, and more.',
+  description: 'A comprehensive checklist for onboarding new hires into a Web3 company, covering culture, security, role-specific training, and more.',
   alternates: {
     canonical: '/employee-onboarding-checklist',
   },

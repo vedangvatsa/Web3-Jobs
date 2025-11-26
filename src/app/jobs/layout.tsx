@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Web3 Jobs | The #1 Crypto & Blockchain Job Board',
-    description: 'The best job board for Web3, crypto, and blockchain roles. Discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.',
+    description: 'Find exclusive opportunities at leading Web3 companies, DAOs, and crypto startups on the #1 job board for the decentralized economy.',
     url: 'https://hashtagweb3.com/jobs',
     images: [
       {

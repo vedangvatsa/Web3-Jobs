@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'The Web3 Playbook | Career Guides & Tech Deep Dives',
-  description: 'Your complete guide to the world of Web3. Explore in-depth articles on careers, technology, and industry insights to build your crypto career.',
+  description: 'Your complete guide to the world of Web3. Explore articles on careers, technology, and industry insights to help you build your crypto career.',
   alternates: {
     canonical: '/blog',
   },

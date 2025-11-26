@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Interview Feedback Template | Free Tool for Hiring Managers',
-  description: 'A free tool to generate standardized interview feedback forms. Help your hiring team make better, less biased decisions with a structured evaluation template.',
+  description: 'A tool to generate standardized interview feedback forms. Help your hiring team make better, less biased decisions with a structured evaluation template.',
   alternates: {
     canonical: '/interview-feedback-template',
   },
