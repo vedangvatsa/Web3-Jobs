@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Remote Work Readiness Checklist | Free Template',
-  description: 'A comprehensive checklist to optimize your remote work setup. Ensure you have the right ergonomic, security, and productivity tools for a successful career in Web3.',
+  description: 'A comprehensive checklist to optimize your remote work setup. Ensure you have the right ergonomic, security, and productivity tools for success.',
   alternates: {
     canonical: '/remote-work-checklist',
   },

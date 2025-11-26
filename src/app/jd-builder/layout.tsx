@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Job Description Builder | Free Tool',
-  description: 'Easily create professional job descriptions for Web3 roles. Our free builder helps you outline responsibilities and qualifications to attract top crypto talent.',
+  description: 'Easily create professional job descriptions for Web3 roles. Our free builder helps you outline responsibilities to attract top crypto talent.',
   alternates: {
     canonical: '/jd-builder',
   },

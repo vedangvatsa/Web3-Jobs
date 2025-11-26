@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Salary Calculator | Estimate Your Crypto Job Salary',
-  description: 'Estimate your potential salary in the Web3 industry. Get a data-driven salary estimate for developer, marketing, and product manager roles based on your experience.',
+  description: 'Estimate your potential salary in the Web3 industry. Get a data-driven salary estimate for developer, marketing, and product manager roles.',
   alternates: {
     canonical: '/salary-calculator',
   },

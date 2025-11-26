@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Free Invoice Generator for Freelancers',
-  description: 'A free and simple invoice generator for Web3 freelancers and contractors. No registration required. Create and download a professional PDF invoice instantly.',
+  description: 'A free and simple invoice generator for Web3 freelancers and contractors. Create and download a professional PDF invoice instantly.',
   alternates: {
     canonical: '/invoice-generator',
   },

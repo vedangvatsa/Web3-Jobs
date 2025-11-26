@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Work-Life Balance Survey Builder | Free Template',
-  description: 'Generate a free survey to assess work-life balance on your team. Understand workload and stress levels to prevent burnout and build a healthier company culture.',
+  description: 'Generate a free survey to assess work-life balance on your team. Understand workload and stress levels to prevent burnout and build a healthier culture.',
   alternates: {
     canonical: '/work-life-balance-survey',
   },
