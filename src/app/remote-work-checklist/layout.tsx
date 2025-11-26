@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Remote Work Readiness Checklist | Free Template',
-    description: 'Optimize your remote setup for a successful Web3 career.',
+    description: 'Optimize your remote setup for a successful Web3 career with our comprehensive checklist.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Web3 Offer Letter Customizer | Free Tool',
-    description: 'Create and download professional offer letters for your next Web3 hire. Free and easy to use.',
+    description: 'Create and download professional, customized offer letters for your next Web3 hire. Free and easy to use.',
     url: 'https://hashtagweb3.com/offer-letter-customizer',
     images: [
       {

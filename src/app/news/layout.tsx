@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Web3 News Feed | Latest Crypto Headlines',
-    description: 'Stay updated with the latest in Web3. Our news feed aggregates top stories from across the crypto industry.',
+    description: 'Stay updated with the latest in Web3. Our news feed aggregates top stories from across the crypto industry in real-time.',
     url: 'https://hashtagweb3.com/news',
     images: [
       {

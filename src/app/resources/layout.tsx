@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Web3 Career Resources | Free Tools for Your Crypto Career',
-    description: 'Explore our suite of free tools designed to help you succeed in your Web3 career or build a top-tier team.',
+    description: 'Explore our suite of free tools designed to help you succeed in your Web3 career or build a top-tier team in the crypto space.',
     url: 'https://hashtagweb3.com/resources',
     images: [
       {

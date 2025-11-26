@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Interview Feedback Template | Free Tool for Hiring Managers',
-    description: 'Standardize your hiring process and reduce bias with our free interview feedback template.',
+    description: 'Standardize your hiring process and reduce bias with our free interview feedback template for structured candidate evaluation.',
     url: 'https://hashtagweb3.com/interview-feedback-template',
     images: [
       {

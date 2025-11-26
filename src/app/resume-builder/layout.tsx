@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Free Professional Resume Builder',
-    description: 'Craft a resume tailored for the modern job market. Our free builder helps you highlight your unique experience.',
+    description: 'Craft a resume tailored for the modern job market. Our free builder helps you highlight your unique skills and professional experience.',
     url: 'https://hashtagweb3.com/resume-builder',
     images: [
       {

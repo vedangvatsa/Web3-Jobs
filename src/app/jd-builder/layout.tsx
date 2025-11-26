@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Web3 Job Description Builder | Free Tool',
-    description: 'Craft the perfect job description to attract top Web3 talent with our free and easy-to-use builder.',
+    description: 'Craft the perfect job description to attract top Web3 talent with our free and easy-to-use builder. Outline roles and responsibilities.',
     url: 'https://hashtagweb3.com/jd-builder',
     images: [
       {
