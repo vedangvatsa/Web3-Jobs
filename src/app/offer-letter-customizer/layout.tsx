@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Offer Letter Customizer | Free Tool',
-  description: 'Generate professional offer letters for Web3 roles. Our free tool helps you easily customize salary, token allocation, and vesting schedules to attract top talent.',
+  description: 'Generate professional offer letters for Web3 roles. Customize salary, token allocation, and vesting schedules to attract top talent.',
   alternates: {
     canonical: '/offer-letter-customizer',
   },

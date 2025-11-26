@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Free Professional Resume Builder',
-  description: 'Create a professional resume that stands out to recruiters. Our free resume builder helps you highlight your skills, experience, and proof of work.',
+  description: 'Create a professional resume that stands out to recruiters. Our free builder helps you highlight your skills and experience.',
   alternates: {
     canonical: '/resume-builder',
   },

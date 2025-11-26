@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 News Feed | Latest Crypto Headlines',
-  description: 'The latest news and headlines from the world of Web3, cryptocurrency, and blockchain, aggregated in real-time from top industry sources like CoinDesk and Decrypt.',
+  description: 'The latest news and headlines from the world of Web3, cryptocurrency, and blockchain, aggregated in real-time from top industry sources.',
   alternates: {
     canonical: '/news',
   },

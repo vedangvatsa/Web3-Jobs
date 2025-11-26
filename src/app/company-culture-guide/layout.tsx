@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Company Culture Guide Builder',
-  description: 'A free tool to help you define and document your company culture. Create a comprehensive guide to share your values, communication norms, and team rituals.',
+  description: 'A free tool to help you define and document your company culture. Create a comprehensive guide to share your values and communication norms.',
   alternates: {
     canonical: '/company-culture-guide',
   },
