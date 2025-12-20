@@ -1438,7 +1438,8 @@ export async function getJobs(): Promise<Job[]> {
   let uniqueJobs = freshJobs.filter(job => 
     job.company.toLowerCase() !== 'crusoe' && 
     !(job.company.toLowerCase() === 'interop labs' && job.title.toLowerCase().includes('interested in working with us')) &&
-    job.company.toLowerCase() !== 'florida street'
+    job.company.toLowerCase() !== 'florida street' &&
+    !(job.company.toLowerCase() === 'matrixport' && job.title.includes('************'))
   );
 
   uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
