@@ -1398,7 +1398,7 @@ export async function getJobs(): Promise<Job[]> {
           const company = cleanCompany(item.content);
           const link = item.link;
 
-          if (link && title && company && title.split(' ').length <= 8 && !title.toLowerCase().includes('bounty')) {
+          if (link && title && company && !title.includes('*') && title.split(' ').length <= 8 && !title.toLowerCase().includes('bounty')) {
             const uniqueKey = `${title.toLowerCase()}|${company.toLowerCase()}`;
             if (!jobMap.has(uniqueKey)) {
                 const newJob: Job = {
@@ -1450,5 +1450,3 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
-
-    
