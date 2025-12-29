@@ -1340,9 +1340,7 @@ const FEEDS = [
   'https://politepol.com/fd/uIQRejBOTRjO.xml',
   'https://politepol.com/fd/qglK0E9cQDYB.xml',
   'https://politepol.com/fd/UEGwYfx1fQ9R.xml',
-  'https://politepol.com/fd/fEgzbFDDrmRe.xml',
-  'https://politepol.com/fd/KTQjDJIFxvZY.xml',
-  'https://politepol.com/fd/K6yCQ7sphvoC.xml'
+  'https://politepol.com/fd/fEgzbFDDrmRe.xml'
 ];
 
 const parser = new Parser();
@@ -1434,12 +1432,12 @@ export async function getJobs(): Promise<Job[]> {
       return new Date(job.date) > fifteenDaysAgo;
   });
 
-  // Filter out unwanted company jobs
+  // Filter out unwanted company jobs and titles with asterisks
   let uniqueJobs = freshJobs.filter(job => 
     job.company.toLowerCase() !== 'crusoe' && 
     !(job.company.toLowerCase() === 'interop labs' && job.title.toLowerCase().includes('interested in working with us')) &&
     job.company.toLowerCase() !== 'florida street' &&
-    !(job.company.toLowerCase() === 'matrixport' && job.title.includes('************'))
+    !job.title.includes('*')
   );
 
   uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
