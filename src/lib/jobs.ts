@@ -1355,8 +1355,8 @@ function cleanCompany(company: string | undefined): string | undefined {
 // Helper to remove emojis and other non-standard characters from job titles
 function cleanTitle(text: string | undefined): string | undefined {
   if (!text) return undefined;
-  // This regex removes a wide range of symbols, emojis, and non-standard characters
-  return text.replace(/[^a-z0-9\\s.,-–—_()|/\\&+#@:'’`´~!?$%[\\]{}]/gi, '').trim();
+  // This regex removes a wide range of symbols and emojis, but preserves asterisks for later filtering.
+  return text.replace(/[^a-z0-9\\s.,-–—_()|/\\&+#@:'’`´~!?$%[\\]{}*]/gi, '').trim();
 }
 
 
