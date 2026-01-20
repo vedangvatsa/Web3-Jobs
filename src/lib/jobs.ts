@@ -1340,7 +1340,8 @@ const FEEDS = [
   'https://politepol.com/fd/uIQRejBOTRjO.xml',
   'https://politepol.com/fd/qglK0E9cQDYB.xml',
   'https://politepol.com/fd/UEGwYfx1fQ9R.xml',
-  'https://politepol.com/fd/fEgzbFDDrmRe.xml'
+  'https://politepol.com/fd/fEgzbFDDrmRe.xml',
+  'https://politepol.com/fd/XH7AlQjGnNIS.xml'
 ];
 
 const parser = new Parser();
@@ -1374,6 +1375,12 @@ async function writeJobsCache(jobs: Job[]): Promise<void> {
   await fs.writeFile(jobsCachePath, JSON.stringify(jobs, null, 2));
 }
 
+// New helper for creating a robust unique key
+function createUniqueKey(title: string, company: string): string {
+    const normalize = (str: string) => str.toLowerCase().replace(/[^a-z0-9]/gi, '');
+    return `${normalize(title)}|${normalize(company)}`;
+}
+
 
 export async function getJobs(): Promise<Job[]> {
   const cachedJobs = await readJobsCache();
@@ -1381,7 +1388,7 @@ export async function getJobs(): Promise<Job[]> {
 
   // Load manual and cached jobs into the map
   [...MANUAL_JOBS, ...cachedJobs].forEach(job => {
-    const uniqueKey = `${job.title.toLowerCase()}|${job.company.toLowerCase()}`;
+    const uniqueKey = createUniqueKey(job.title, job.company);
     if (!jobMap.has(uniqueKey)) {
         jobMap.set(uniqueKey, job);
     }
@@ -1397,7 +1404,7 @@ export async function getJobs(): Promise<Job[]> {
           const link = item.link;
 
           if (link && title && company && !title.includes('*') && title.split(' ').length <= 8 && !title.toLowerCase().includes('bounty')) {
-            const uniqueKey = `${title.toLowerCase()}|${company.toLowerCase()}`;
+            const uniqueKey = createUniqueKey(title, company);
             if (!jobMap.has(uniqueKey)) {
                 const newJob: Job = {
                     id: item.guid || link,
