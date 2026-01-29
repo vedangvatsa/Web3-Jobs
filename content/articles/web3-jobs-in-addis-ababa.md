@@ -45,3 +45,217 @@ The formal Web3 job market in Addis Ababa is still very small and in an early st
 ### Your Next Step: Find a Web3 Job
 
 Ready to be a pioneer in one of Africa's most high-potential future markets? Our [Web3 job board](/jobs) is the best place to discover remote and local opportunities with companies hiring in Ethiopia and across the continent. Explore the listings today and find your place at the frontier of decentralized technology.
+
+## Complete Salary Guide: Web3 Jobs in Addis Ababa
+
+**Local/Remote Hybrid:**
+- **Blockchain Developer:** ETB 40,000–100,000/month (~$300–$750 USD)
+- **Community Manager:** ETB 30,000–70,000/month (~$225–$525 USD)
+- **Project Manager:** ETB 60,000–120,000/month (~$450–$900 USD)
+- **Full-Time Remote (International):** $1,500–$5,000+/month
+
+## 3 Career Paths in Addis Ababa Web3
+
+### Path 1: Pioneer Educator & Community Leader (6-12 Month Timeline)
+
+**Months 1-3: Establish Authority**
+- Start YouTube channel (English & Amharic) on Web3
+- Launch blog on Medium/Substack
+- Host 2-3 meetups in Addis Ababa
+- Network: 50+ local tech professionals
+- **Deliverable:** YouTube channel (500+ subs), blog, community base
+
+**Months 4-6: Monetize & Build**
+- Land community manager role (grants from protocols)
+- Expected: ETB 30,000–50,000/month or grant funding
+- Lead weekly meetups or workshops
+
+**Months 7-12: Scale**
+- Transition to full-time community lead or educator
+- Expected: ETB 60,000–100,000+/month or startup equity
+- Launch educational platform or course
+
+**Quick Wins:**
+- Protocol education grants: $5K–$20K
+- Speaking fees: ETB 5,000–20,000 per talk
+- Consulting on Ethiopian market: $100–$200/hour
+
+### Path 2: Real-World Problem Solver (Blockchain Developer) (9-18 Month Timeline)
+
+**Months 1-5: Build Portfolio**
+- Learn: Solidity, smart contracts, dApp development
+- Build: 2-3 projects solving Ethiopian problems
+  - Digital identity proof-of-concept
+  - Coffee supply chain tracker
+  - Community savings group (Ekub) dApp
+- Network: 30+ developers, NGOs, government tech leads
+- **Deliverable:** 3 projects, strong portfolio
+
+**Months 6-10: Get International Attention**
+- Publish: technical articles on your work
+- Apply: remote roles with blockchain NGOs, protocols, startups
+- Expected: $1,500–$3,000/month remote role
+
+**Months 11-18: Leadership**
+- Lead technical team or CTO at local startup/NGO
+- Expected: $2,500–$5,000+/month + equity
+
+**Quick Wins:**
+- GitHub grants: $5K–$50K
+- NGO/impact fund grants: $10K–$100K
+- Consulting: $100–$200/hour
+
+### Path 3: Government/Policy Bridge (Policy + Technical) (12-24 Month Timeline)
+
+**Months 1-6: Technical + Policy Hybrid**
+- Learn: blockchain fundamentals + Ethiopian policy context
+- Study: digital identity systems, government tech initiatives
+- Build: proof-of-concept for government use case
+- Network: government innovation teams, tech ministry
+- **Deliverable:** Technical understanding + policy fluency
+
+**Months 7-12: Government Engagement**
+- Consult on blockchain projects for government
+- Expected: ETB 100,000–200,000/project or ETB 50,000–100,000+/month retainer
+
+**Months 13-20: Leadership Role**
+- Lead blockchain initiative at government agency or major NGO
+- Expected: ETB 80,000–150,000+/month
+
+**Months 21-24: Founder/Advisor**
+- Start consultancy or lead major national initiative
+- **Expected Compensation:** ETB 150,000–300,000+/month + equity
+
+**Quick Wins:**
+- Government consulting: ETB 50,000–200,000 per project
+- Advisory roles: ETB 10,000–50,000/month retainer
+- Speaking at policy conferences: ETB 5,000–20,000
+
+## Why Addis Ababa?
+
+**Opportunity:**
+- Still extremely early (lowest competition)
+- Huge addressable market (100M+ people)
+- Government interest + international development funding
+- Major demographic tailwind (young population)
+
+**Advantage:**
+- English-speaking tech professionals
+- Growing tech infrastructure (IceAddis, universities)
+- Gateway to East Africa (Kenya, Tanzania connections)
+- Real-world problems to solve (identity, agriculture, finance)
+
+## Challenges & Real Solutions
+
+**Challenge 1: Small Formal Job Market**
+- *Reality:* Few traditional "Web3 job" postings.
+- *Solution:* Create your own opportunity. Teach, consult, start projects.
+
+**Challenge 2: Limited Crypto Infrastructure**
+- *Reality:* Local exchanges, banking integration minimal.
+- *Solution:* This is the problem to solve. Build the infrastructure.
+
+**Challenge 3: Lower Local Salaries**
+- *Reality:* ETB salaries lower than USD remote equivalents.
+- *Solution:* Transition to remote work, get USD compensation. Many do this successfully.
+
+**Challenge 4: Network Size**
+- *Reality:* Smaller Web3 community than major hubs.
+- *Solution:* Be a leader. Build community. First-mover advantage.
+
+## 90-Day Quick-Start Action Plan
+
+**Week 1-2:**
+- [ ] Choose path (educator, developer, or policy bridge)
+- [ ] Set up GitHub, Twitter, YouTube (if educator)
+- [ ] Enroll in blockchain basics (Alchemy University, free)
+- [ ] Join Addis Ababa Web3 communities (Discord, Telegram)
+
+**Week 3-4:**
+- [ ] Complete blockchain fundamentals course
+- [ ] Deploy 1st smart contract (testnet)
+- [ ] Research: Ethiopian problems blockchain can solve
+- [ ] Network: 20+ local tech professionals
+
+**Week 5-6:**
+- [ ] Build 1st project (GitHub public)
+- [ ] Start YouTube/blog (if educator path)
+- [ ] Publish: 1 article
+- [ ] Host: 1st meetup or workshop (5-20 people)
+
+**Week 7-8:**
+- [ ] Build 2nd project (more ambitious)
+- [ ] Grow audience: 500+ YouTube/Twitter followers
+- [ ] Network: 5 coffee chats (government, NGO, tech leads)
+- [ ] Apply: 5 remote Web3 roles
+
+**Week 9-10:**
+- [ ] Land 1st consulting engagement or grant
+- [ ] Publish: technical deep-dive
+- [ ] Plan: scaling next 3 months
+- [ ] Connect: 20+ more professionals
+
+**Week 11-12:**
+- [ ] Target: 1 paid role/grant or 100+ weekly workshop attendees
+- [ ] Reflection: "Pioneering Web3 in Ethiopia"
+- [ ] Plan: next phase
+
+**Outputs after 90 days:**
+- 2-3 projects on GitHub
+- 1,000+ followers (if educator)
+- Strong local + international network
+- 1+ paid opportunity (role, grant, or consulting)
+- Media mention or community recognition
+
+## Career FAQs for Addis Ababa
+
+**Q1: Can I earn good money in Ethiopia doing Web3?**
+A: Yes, via two paths: (1) Build remotely, earn USD, or (2) Lead local ecosystem, get equity/grants.
+
+**Q2: What's the fastest way to make income?**
+A: Consulting or education (teaching others). Community management grants from protocols. 1-3 months.
+
+**Q3: Should I stay local or go remote?**
+A: Both. Start local (build community, reputation), transition to remote (USD salary), return to local (founder/leader).
+
+**Q4: Is the government actually interested in blockchain?**
+A: Yes. Major digital identity project underway. Policy interest growing. Opportunity.
+
+**Q5: What's the biggest barrier?**
+A: Lack of awareness. Be the first educator, founder, or expert in your niche.
+
+**Q6: Can I do this while working another job?**
+A: Yes. Build on weekends for 3-6 months, then transition to full-time.
+
+**Q7: What if I don't have a tech background?**
+A: Community management, education, or policy paths don't require deep technical knowledge.
+
+**Q8: Is it risky to focus on such an early market?**
+A: Yes, and that's the opportunity. First-mover advantage is massive.
+
+## Essential Resources
+
+### Learning
+- Alchemy University (free blockchain basics)
+- Ethereum Development (Udemy or freeCodeCamp)
+- Solidity Documentation
+
+### Local Communities
+- IceAddis (tech hub)
+- Addis Ababa Web3 Discord (create if doesn't exist)
+- Local universities (partnerships)
+
+### Grants & Funding
+- Ethereum Foundation
+- Protocol grants (Solana, Polygon, etc.)
+- Development agencies (USAID, World Bank)
+
+### Job Boards
+- Our Web3 Job Board (/jobs) (remote opportunities)
+- Upwork, Fiverr (freelance starting point)
+- Protocol job boards
+
+### Related Career Guides
+- [Smart Contract Developer Guide](/content/articles/smart-contract-developer.md)
+- [Community Manager Career Path](/content/articles/community-manager-web3.md)
+- [Blockchain for Impact & Development](/content/articles/blockchain-for-impact.md)

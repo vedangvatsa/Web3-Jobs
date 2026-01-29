@@ -45,3 +45,222 @@ The job market in Johannesburg is particularly strong for professionals with a b
 ### Your Next Step: Find a Web3 Job
 
 Ready to build a career at the financial and institutional heart of Africa's Web3 ecosystem? Our [Web3 job board](/jobs) is the best place to find opportunities in Johannesburg and remote roles with global firms. Explore the listings today and find your place in the professionalization of the decentralized economy.
+
+## Complete Salary Guide: Web3 Jobs in Johannesburg
+
+**Local/Hybrid:**
+- **Legal & Compliance Officer:** ZAR 70,000–180,000/month (~$3,850–$9,900 USD)
+- **Enterprise Blockchain Developer:** ZAR 60,000–140,000/month (~$3,300–$7,700 USD)
+- **Business Development/Sales:** ZAR 70,000–180,000+/month + commission (~$3,850–$9,900+)
+- **Product Manager (FinTech):** ZAR 80,000–160,000/month (~$4,400–$8,800 USD)
+- **CTO/VP Engineering:** ZAR 150,000–300,000+/month (~$8,250–$16,500+ USD)
+
+## 3 Career Paths in Johannesburg Web3
+
+### Path 1: Compliance & Regulatory Expert (10-18 Month Timeline)
+
+**Months 1-5: Build Regulatory Expertise**
+- Study: FSCA licensing framework, AML/KYC requirements
+- Learn: Blockchain compliance, institutional requirements
+- Network: 20+ regulatory professionals, crypto compliance specialists
+- Certifications: Pursue relevant compliance credentials
+- **Deliverable:** Regulatory knowledge, credentials
+
+**Months 6-10: Get Noticed**
+- Consult for blockchain startups (ZAR 50K–200K per engagement)
+- Publish: articles on South African crypto regulation
+- Apply: compliance roles at crypto exchanges, fintech
+- Expected: ZAR 80,000–120,000/month
+
+**Months 11-16: Senior/Leadership**
+- Lead compliance team or head of legal at major crypto firm
+- Expected: ZAR 120,000–200,000+/month
+
+**Months 17-18: Chief Compliance Officer or Advisor**
+- CRO at exchange or major firm
+- **Expected Compensation:** ZAR 180,000–350,000+/month + equity
+
+**Quick Wins:**
+- Consulting: ZAR 5,000–50,000/hour
+- Speaking at fintech/crypto conferences: ZAR 20K–100K
+- Advisory roles: ZAR 10K–50K/month retainer
+
+### Path 2: Enterprise Blockchain Architect (12-20 Month Timeline)
+
+**Months 1-6: Enterprise + Blockchain Stack**
+- Master: Java, Hyperledger, permissioned blockchains
+- Learn: enterprise architecture, banking systems
+- Build: 2-3 enterprise blockchain proofs-of-concept
+- Network: 20+ enterprise architects, banking technologists
+- **Deliverable:** Enterprise + blockchain expertise, projects
+
+**Months 7-12: Enterprise Focus**
+- Work on enterprise blockchain projects (banking, supply chain)
+- Publish: technical articles on enterprise solutions
+- Expected: ZAR 90,000–140,000/month
+
+**Months 13-18: Leadership**
+- Lead enterprise blockchain initiative at major bank or corporation
+- Expected: ZAR 140,000–220,000+/month
+
+**Months 19-20: Architect/CTO**
+- Chief architect of enterprise blockchain division
+- **Expected Compensation:** ZAR 200,000–400,000+/month
+
+**Quick Wins:**
+- Consulting on enterprise solutions: ZAR 5,000–50,000/hour
+- Enterprise blockchain projects: ZAR 500K–5M per engagement
+- Speaking/training: ZAR 20K–100K
+
+### Path 3: Institutional Sales & Business Development (8-16 Month Timeline)
+
+**Months 1-4: Crypto Products + Corporate Sales**
+- Learn: crypto products, custody, trading, DeFi
+- Study: institutional buyer needs and pain points
+- Build network: 30+ bankers, fund managers, corporate treasurers
+- **Deliverable:** Product knowledge, institutional network
+
+**Months 5-8: First Sales**
+- Land first institutional client (custody, trading platform)
+- Expected: ZAR 70,000–100,000/month + 10-20% commission
+
+**Months 9-14: Proven Sales Track**
+- $10M+ AUM under management or multiple institutional clients
+- Expected: ZAR 100,000–180,000+/month + higher commission
+
+**Months 15-16: Leadership**
+- Head of institutional sales or VP BD
+- **Expected Compensation:** ZAR 150,000–300,000+/month + significant commission
+
+**Quick Wins:**
+- Sales commission on institutional deals: 5-20% of fees
+- Speaking at institutional events: ZAR 25K–150K
+- Advisory: ZAR 15K–50K/month
+
+## Why Johannesburg?
+
+**Opportunity:**
+- Institutional market needs blockchain solutions
+- Regulatory clarity (FSCA framework) = businesses launching
+- Corporate adoption accelerating
+- Premium compensation for specialized roles
+
+**Advantage:**
+- Deep TradFi talent pool (banking, legal, asset management)
+- FSCA regulatory proximity
+- Major corporate headquarters
+- Johannesburg Stock Exchange partnerships
+
+## Challenges & Real Solutions
+
+**Challenge 1: Corporate Conservatism**
+- *Reality:* Institutions move slowly, prefer proven solutions.
+- *Solution:* This is the opportunity. Build bridges, not disruption. Premium pay for patience.
+
+**Challenge 2: Regulatory Complexity**
+- *Reality:* FSCA requirements detailed, compliance-heavy.
+- *Solution:* This is expertise opportunity. Compliance knowledge = premium role.
+
+**Challenge 3: Limited Startup Ecosystem**
+- *Reality:* Fewer startup crypto companies vs. Ethereum/DeFi hubs.
+- *Solution:* Focus on established firms, enterprises, or start your own compliant venture.
+
+**Challenge 4: High Cost of Living**
+- *Reality:* Johannesburg salaries must account for living costs.
+- *Solution:* Salaries are premium. Enterprise roles pay well.
+
+## 90-Day Quick-Start Action Plan
+
+**Week 1-2:**
+- [ ] Choose path (compliance, enterprise architect, or institutional sales)
+- [ ] Set up GitHub, Twitter, LinkedIn
+- [ ] Assess current expertise (legal, banking, tech?)
+- [ ] Study: FSCA licensing framework, crypto regulation
+
+**Week 3-4:**
+- [ ] Complete 1 compliance/enterprise blockchain course
+- [ ] Network: 20+ banking/legal/tech professionals
+- [ ] Research: 5 major enterprises on blockchain initiatives
+- [ ] Subscribe: Fintech/crypto regulation updates
+
+**Week 5-6:**
+- [ ] Publish: 1 article on SA blockchain regulation or enterprise solutions
+- [ ] Network: 5 coffee chats with bankers/CTOs
+- [ ] Apply: 5 entry-level positions
+- [ ] Build: 1 proof-of-concept (if architect path)
+
+**Week 7-8:**
+- [ ] Land: 1 consulting engagement or contractor role
+- [ ] Publish: technical/regulatory deep-dive
+- [ ] Network: 5 more industry professionals
+- [ ] Apply: dream roles (major enterprises, fintechs)
+
+**Week 9-10:**
+- [ ] Close: 1 consulting engagement or secure role
+- [ ] Twitter: 1,000+ followers in crypto/enterprise space
+- [ ] Plan: next 3 months
+
+**Week 11-12:**
+- [ ] Target: 1 paid role or consulting pipeline
+- [ ] Reflection: "3 Months Building Enterprise Web3 in Johannesburg"
+- [ ] Plan: next phase
+
+**Outputs after 90 days:**
+- 1+ published articles or regulatory analyses
+- Strong TradFi/enterprise network
+- 1+ consulting or full-time opportunity
+- 1,000+ LinkedIn followers
+- Industry recognition
+
+## Career FAQs for Johannesburg
+
+**Q1: Do I need a finance background?**
+A: Helpful but not required. Willingness to learn institutional thinking is key.
+
+**Q2: Is compliance work more stable than development?**
+A: Yes. Regulatory expertise is critical and in high demand. Harder to outsource.
+
+**Q3: Fastest path to ZAR 100K+/month?**
+A: Institutional sales (if you have sales skills) or compliance (if legal background). 8-12 months.
+
+**Q4: What's the biggest opportunity?**
+A: Enterprise blockchain for supply chain, custody for institutions, or fintech partnerships.
+
+**Q5: Can I come from traditional finance and transition?**
+A: Perfect. Your expertise + blockchain knowledge = premium role.
+
+**Q6: Should I learn technical skills?**
+A: Beneficial but not required. Enterprise PM or BD roles don't need deep coding.
+
+**Q7: How important is the FSCA relationship?**
+A: Very. Companies compliant with FSCA framework get regulatory clarity + funding + corporate partnerships.
+
+**Q8: What about crypto reputation risk?**
+A: Johannesburg market values professionalism and compliance. If regulated, less stigma than speculative crypto.
+
+## Essential Resources
+
+### Learning
+- FSCA Guidance Notes (official)
+- Enterprise Blockchain (Hyperledger courses)
+- Institutional Finance Fundamentals
+
+### Certifications
+- Compliance certifications (ACAMS, etc.)
+- Enterprise architecture certifications
+- Hyperledger certifications
+
+### Communities
+- South African fintech community
+- FSCA industry engagement forums
+- Johannesburg blockchain meetups
+
+### Job Boards
+- Our Web3 Job Board (/jobs) (institutional focus)
+- LinkedIn (executive/enterprise roles)
+- Fintech job boards (Africa-focused)
+
+### Related Career Guides
+- [Institutional Blockchain PM](/content/articles/institutional-blockchain-pm.md)
+- [Compliance Officer Guide](/content/articles/compliance-officer-web3.md)
+- [Enterprise Blockchain Architect](/content/articles/enterprise-blockchain-architect.md)
