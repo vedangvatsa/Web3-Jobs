@@ -26,7 +26,7 @@ This is often the most stressful part of freelancing. AI can help you streamline
 *   **Proposal Writing**: Writing customized proposals for each potential client is time-consuming. Use an AI writing assistant to create a strong proposal template. Then, for each new client, you can use AI to quickly tailor that template to their specific project requirements. You can feed the project description to ChatGPT and ask it to highlight the key pain points and generate a personalized introduction.
 *   **Pricing Strategy**: Not sure how much to charge? While AI can't give you a perfect number, you can use it for research. Ask it about typical freelance rates for your industry, experience level, and location. This can give you a solid baseline for your pricing.
 
-Internal Link: [Learn how to use AI for business growth more broadly.](/how-to-use-ai-for-business-growth)
+Internal Link: Learn how to use AI for business growth more broadly.
 
 #### 2. Project Execution and Delivery
 

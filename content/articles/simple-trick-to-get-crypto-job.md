@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-The Web3 job market is intensely competitive. Thousands of talented professionals are vying for a limited number of roles at top-tier protocols and companies. You've polished your [resume](/how-to-build-a-web3-resume), you've built a portfolio, and you've been sending out applications, but you're getting lost in the noise. What can you do to stand out?
+The Web3 job market is intensely competitive. Thousands of talented professionals are vying for a limited number of roles at top-tier protocols and companies. You've polished your resume, you've built a portfolio, and you've been sending out applications, but you're getting lost in the noise. What can you do to stand out?
 
 There is one simple, powerful, and almost universally effective strategy that will dramatically improve your chances of getting noticed and landing a job. It's a "trick" that isn't really a trick at all; it's the embodiment of the Web3 ethos of permissionless contribution.
 

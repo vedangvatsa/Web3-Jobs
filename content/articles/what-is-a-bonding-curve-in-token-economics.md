@@ -35,7 +35,7 @@ The specific mathematical formula used determines the curve's shape and has a ma
 
 ### Use Cases for Bonding Curves
 
--   **Automated Market Making:** Bonding curves are a foundational concept for many **[Automated Market Makers (AMMs)](/what-is-a-decentralized-application-dapp)**.
+-   **Automated Market Making:** Bonding curves are a foundational concept for many **Automated Market Makers (AMMs)**.
 -   **Funding and Curation Markets:** Projects can use a bonding curve to fundraise. Early supporters can buy tokens when the price is low, and the capital they provide funds the project's development. As the project becomes more successful and more people buy the token, the price increases, rewarding the early believers.
 -   **Community Tokens:** A bonding curve can be used to launch a social token for a community, providing instant liquidity and a clear price discovery mechanism.
 

@@ -19,7 +19,7 @@ Before you even think about applying for jobs, you need to understand the world 
 
 - **Curate Your Twitter Feed:** Twitter is the de facto town square for Web3. Follow key builders, thinkers, and projects. Don't just lurk—engage in conversations, ask thoughtful questions, and share what you're learning.
 - **Join a Discord Community:** Pick a project that interests you (e.g., a DeFi protocol, an NFT collection) and become an active member of its Discord. Participate in discussions, help newcomers, and observe how the community operates.
-- **Get Your Hands Dirty:** You cannot learn Web3 from the sidelines. Set up a [MetaMask wallet](/choosing-a-crypto-wallet), buy a small amount of ETH from an exchange, and use a dApp. Swap tokens on Uniswap, mint a low-cost NFT, or vote on a governance proposal. The experience of being a user is invaluable.
+- **Get Your Hands Dirty:** You cannot learn Web3 from the sidelines. Set up a MetaMask wallet, buy a small amount of ETH from an exchange, and use a dApp. Swap tokens on Uniswap, mint a low-cost NFT, or vote on a governance proposal. The experience of being a user is invaluable.
 
 > **Practical Tip:** Create a new, dedicated Twitter account for Web3. This allows you to build a professional presence and curate a feed focused entirely on the industry without noise from your personal life.
 
@@ -57,7 +57,7 @@ Your resume needs to speak the language of Web3. It's less about where you worke
 - **On-Chain Activity:** Your wallet address (ENS name preferred) can serve as a resume. It shows your history of interacting with dApps, collecting NFTs, and participating in governance.
 - **Proof of X:** This is your collection of "proof of work." It could be links to your Dune dashboards, your blog posts, the Discord community you moderate, or the DAO you contribute to.
 
-> **Resume Tip:** Replace the generic "Objective" statement with a section titled "Web3 Journey." Briefly explain what got you excited about the space and what you've done to immerse yourself in it. See our full [guide to writing a Web3 resume](/how-to-build-a-web3-resume).
+> **Resume Tip:** Replace the generic "Objective" statement with a section titled "Web3 Journey." Briefly explain what got you excited about the space and what you've done to immerse yourself in it. See our full guide to writing a Web3 resume.
 
 ## Step 5: Network Authentically
 

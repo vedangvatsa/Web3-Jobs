@@ -28,13 +28,13 @@ The Bay Area's dominance in Web3 is built on a foundation of talent, capital, an
 
 The San Francisco Bay Area commands the highest salaries for Web3 roles in the world, a reflection of the extremely high cost of living and the ferocious competition for the absolute best technical talent.
 
-*   **[Protocol Engineer](/solidity-developers) (Rust, Go, C++):** The premier engineering role in the Bay Area.
+*   **Protocol Engineer (Rust, Go, C++):** The premier engineering role in the Bay Area.
     *   **Senior (5+ years):** $250,000 - $400,000+ USD base salary. Total compensation, including token grants, can often exceed $1M per year for top-tier talent.
 
 *   **Smart Contract Security Auditor / Researcher:**
     *   **Senior:** $250,000 - $350,000+ USD base salary.
 
-*   **[Zero-Knowledge (ZK) Cryptography Engineer](/cryptography-engineer):**
+*   **Zero-Knowledge (ZK) Cryptography Engineer:**
     *   **PhD or equivalent experience:** $220,000 - $350,000+ USD base salary.
 
 *   **Senior Smart Contract Developer (Solidity):**

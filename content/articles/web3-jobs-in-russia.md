@@ -307,10 +307,10 @@ A: Russian developers have strong reputation. You're building valuable skills. G
 - Protocol job boards (Ethereum jobs, etc.)
 
 ### Related Career Guides
-- [Smart Contract Auditor Career Guide](smart-contract-auditor)
-- [Protocol Engineer Career Path](protocol-engineer)
-- [DeFi Developer Career Guide](defi-developer-career)
-- [Complete Web3 Skills Guide](web3-skills-guide)
+- Smart Contract Auditor Career Guide
+- Protocol Engineer Career Path
+- DeFi Developer Career Guide
+- Complete Web3 Skills Guide
 
 ### Your Next Step: Find Your Web3 Job
 

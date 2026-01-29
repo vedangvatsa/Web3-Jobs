@@ -38,7 +38,7 @@ Your journey starts with education. You must immerse yourself in the culture and
     -   [What are NFTs?](/what-are-nfts)
 
 2.  **Become a User:** This is non-negotiable. You cannot work in this industry without using the products.
-    -   Set up a [MetaMask wallet](/choosing-a-crypto-wallet).
+    -   Set up a MetaMask wallet.
     -   Buy a small amount of ETH on an exchange and send it to your wallet.
     -   Make a swap on a decentralized exchange like Uniswap.
     -   Join the Discord server for a project you find interesting.

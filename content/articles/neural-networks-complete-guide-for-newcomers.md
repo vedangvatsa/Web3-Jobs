@@ -74,7 +74,7 @@ They are inspired by the brain, but it's a very loose analogy. The human brain i
 To be a practitioner who uses neural networks, you can get started with a high-level understanding and good programming skills. However, to be a researcher who designs new types of neural networks, a strong background in linear algebra, calculus, and probability is essential. These mathematical fields provide the language to describe and manipulate how these networks learn.
 
 **4. How are neural networks used in crypto and Web3?**
-Neural networks are being explored in Web3 for various applications. For example, they can be used to analyze on-chain transaction data to detect fraud or predict market movements. Some projects are also working on creating decentralized AI platforms, where neural network models are owned and controlled by a community rather than a single company. This connects to ideas like [decentralized prediction markets](/what-is-polymarket-decentralized-betting) and DAOs.
+Neural networks are being explored in Web3 for various applications. For example, they can be used to analyze on-chain transaction data to detect fraud or predict market movements. Some projects are also working on creating decentralized AI platforms, where neural network models are owned and controlled by a community rather than a single company. This connects to ideas like decentralized prediction markets and DAOs.
 
 **5. What is a "large language model"?**
 A [large language model (LLM)](/large-language-models-explained-simply) like GPT-4 is a very large and very deep neural network that has been trained on a massive amount of text and code. Its specific architecture, called a Transformer, is particularly good at understanding the

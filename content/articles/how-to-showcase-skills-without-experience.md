@@ -28,7 +28,7 @@ Break your skills into relevant categories. For a technical role, this might be 
 
 This is your secret weapon. A "Projects" section is where you prove you can do the work, even if no one has paid you to do it yet. This is your chance to demonstrate initiative, passion, and practical ability.
 
-*   **Personal Projects:** Did you build a website for a friend, create a mobile app, or write a series of blog posts about an industry you're passionate about? Include it. Describe the project, the technologies you used, and the outcome. If it's online, include a link. For developers, a well-maintained GitHub profile is essential. Our guide to [GitHub Profile Setup for Developers](/github-profile-setup-for-developers) can help you with this.
+*   **Personal Projects:** Did you build a website for a friend, create a mobile app, or write a series of blog posts about an industry you're passionate about? Include it. Describe the project, the technologies you used, and the outcome. If it's online, include a link. For developers, a well-maintained GitHub profile is essential. Our guide to GitHub Profile Setup for Developers can help you with this.
 *   **Academic Projects:** Don't dismiss your coursework. If you completed a significant project for a class that is relevant to the job you're applying for, treat it like a professional project. Describe the problem you solved, your process, and the result.
 *   **Volunteer Work:** Did you manage social media for a local non-profit or help organize a fundraising event? This is valuable experience. It shows teamwork, responsibility, and practical skills.
 

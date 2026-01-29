@@ -208,8 +208,8 @@ A: Job/freelance first. Build income + skills + network. After 1-2 years, launch
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)
-- [How to Find a Mentor in Web3](how-to-find-a-mentor-in-web3)
-- [Building Strong Professional Relationships](building-relationships-in-web3)
+- How to Find a Mentor in Web3
+- Building Strong Professional Relationships
 - [Understanding Web3 Consensus Mechanisms](understanding-web3-consensus-mechanism-architects)
 
 ### Your Next Step: Find a Web3 Job

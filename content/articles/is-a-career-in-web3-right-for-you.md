@@ -49,7 +49,7 @@ A Web3 career involves a clear set of trade-offs compared to the traditional tec
 -   **High Impact:** You get to work on foundational technology that has the potential to reshape entire industries.
 -   **Steep Learning Curve:** You will learn more, faster, than in almost any other field.
 -   **High Compensation:** Salaries and token packages are often significantly higher than in Web2.
--   **Flexibility:** [Remote work](/remote-web3-jobs), flexible hours, and a focus on output are the norm.
+-   **Flexibility:** Remote work, flexible hours, and a focus on output are the norm.
 -   **Ownership:** Through token grants, you become a true owner of the network you are building.
 
 **The Cons:**

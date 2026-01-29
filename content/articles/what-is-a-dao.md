@@ -28,7 +28,7 @@ Start with a simple example. Imagine you and some friends want to invest in real
 
 This costs money and time and requires ongoing legal maintenance.
 
-With a DAO, you create a [smart contract](/what-is-a-smart-contract) that represents ownership. Each person deposits money and receives tokens proportional to their contribution. These tokens represent voting power. When a decision comes up—like which property to buy—everyone votes. If the majority votes yes, the smart contract automatically executes the purchase.
+With a DAO, you create a smart contract that represents ownership. Each person deposits money and receives tokens proportional to their contribution. These tokens represent voting power. When a decision comes up—like which property to buy—everyone votes. If the majority votes yes, the smart contract automatically executes the purchase.
 
 No lawyer needed. No bank needed. No CEO making unilateral decisions. The code handles everything automatically.
 
@@ -88,7 +88,7 @@ This doesn't solve every problem. But it creates fundamentally different incenti
 
 ## The Technology: Smart Contracts Make DAOs Possible
 
-DAOs depend on [smart contracts](/what-is-a-smart-contract) to function. A smart contract is code that:
+DAOs depend on smart contracts to function. A smart contract is code that:
 - Automatically executes agreements without intermediaries
 - Cannot be stopped, censored, or modified once deployed
 - Is transparent—everyone can verify the code

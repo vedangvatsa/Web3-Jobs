@@ -44,7 +44,7 @@ To succeed as a remote Web3 professional, you need more than just your core job 
 
 ### The Practicalities of a Location-Independent Life
 
--   **Visas:** Navigating visa requirements is the biggest challenge. A growing number of countries are offering "digital nomad visas." Research these options carefully. Our [Digital Nomad Visa List](/digital-nomad-visas) is a great place to start.
+-   **Visas:** Navigating visa requirements is the biggest challenge. A growing number of countries are offering "digital nomad visas." Research these options carefully. Our Digital Nomad Visa List is a great place to start.
 -   **Taxes:** Tax law for digital nomads is incredibly complex. It's essential to hire an accountant who specializes in expatriate and crypto taxes.
 -   **Compensation:** Many remote Web3 roles pay in cryptocurrency (often stablecoins like USDC). You need to be comfortable with this and have a reliable way to on-ramp and off-ramp into your local currency.
 -   **Workspace:** A reliable internet connection is your lifeline. Always have a primary and a backup option (like a mobile hotspot or a Starlink).

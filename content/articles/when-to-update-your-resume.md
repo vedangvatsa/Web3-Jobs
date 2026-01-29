@@ -23,7 +23,7 @@ Certain professional milestones are perfect opportunities to capture your achiev
 
 Did you just launch a new product, finish a big analysis, or lead a successful marketing campaign? This is a prime time to update your resume. The details are fresh, and you likely have access to the data that demonstrates your impact.
 
-When adding the project, don't just state what you did. Quantify your achievement. Instead of "Led a marketing campaign," try "Led a marketing campaign that increased user sign-ups by 20% over three months." This turns a responsibility into a tangible accomplishment. Documenting these wins as they happen is a key part of managing your career. For more on this, see our guide on [How to Document Your Achievements](/how-to-document-your-achievements).
+When adding the project, don't just state what you did. Quantify your achievement. Instead of "Led a marketing campaign," try "Led a marketing campaign that increased user sign-ups by 20% over three months." This turns a responsibility into a tangible accomplishment. Documenting these wins as they happen is a key part of managing your career. For more on this, see our guide on How to Document Your Achievements.
 
 #### You Were Promoted or Changed Roles
 
@@ -49,7 +49,7 @@ Instead of thinking of resume updates as a chore, integrate them into your regul
 
 *   **Keep a "Wins" Folder:** Create a document or folder where you save positive feedback, successful project metrics, and notes on your accomplishments. When it's time to update your resume, you'll have a treasure trove of information to pull from.
 *   **Monthly Check-in:** At the end of each month, take 15 minutes to review what you've accomplished. Jot down a few bullet points. This makes the quarterly update much easier.
-*   **Review Your Online Presence:** When you update your resume, also update your LinkedIn profile and any other professional portfolios, like your GitHub if you're a developer. Consistency across platforms is key. Check out our [GitHub Profile Setup for Developers](/github-profile-setup-for-developers) guide for tips.
+*   **Review Your Online Presence:** When you update your resume, also update your LinkedIn profile and any other professional portfolios, like your GitHub if you're a developer. Consistency across platforms is key. Check out our GitHub Profile Setup for Developers guide for tips.
 
 Adopting this mindset means you'll never be caught off guard. You'll have a powerful document that accurately reflects your value and is ready to be deployed at a moment's notice.
 

@@ -38,7 +38,7 @@ On the blockchain, every computation costs money. The ability to write gas-effic
 ### 5. Frontend Integration (Ethers.js / Viem)
 Full-stack Web3 developers are incredibly valuable. You need to know how to connect a user interface to your smart contracts.
 -   **What to know:** Mastery of JavaScript/TypeScript and a modern frontend framework like React or Next.js is a must. You also need to be an expert in using a Web3 library like Ethers.js or Viem to handle wallet connections, read contract state, and prompt users to sign transactions.
--   **How to learn:** Build a full-stack dApp from scratch. Our [guide to building a Web3 portfolio](/building-a-web3-portfolio) has a step-by-step project roadmap.
+-   **How to learn:** Build a full-stack dApp from scratch. Our guide to building a Web3 portfolio has a step-by-step project roadmap.
 
 ### 6. Layer 2 & Scaling Solutions
 Building on Ethereum mainnet is often too expensive for many applications. A modern Web3 developer needs to understand the Layer 2 ecosystem.

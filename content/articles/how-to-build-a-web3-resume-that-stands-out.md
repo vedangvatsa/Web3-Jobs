@@ -15,7 +15,7 @@ In the hyper-competitive Web3 job market, your resume is the first touchpoint a 
 
 Hiring managers in this space are looking for more than just a list of job titles; they are looking for verifiable proof of your skills, a genuine passion for the decentralized ecosystem, and a cultural fit with the industry's "show, don't tell" ethos. Your resume must be a bridge between your traditional experience and your crypto-native "[proof of work](/how-to-build-a-public-on-chain-developer-brand)."
 
-This guide will provide a detailed, step-by-step process for crafting the perfect Web3 resume. We'll cover how to structure it, what unique sections to include, and how to frame your experience to capture the attention of Web3 recruiters and land you an interview. Our [AI Resume Builder](/resume-builder) can also help you get started.
+This guide will provide a detailed, step-by-step process for crafting the perfect Web3 resume. We'll cover how to structure it, what unique sections to include, and how to frame your experience to capture the attention of Web3 recruiters and land you an interview. Our AI Resume Builder can also help you get started.
 
 ### The Foundational Principle: Link Your Proof
 
@@ -76,4 +76,4 @@ Divide your skills into relevant subcategories.
 -   **Web3 / Blockchain:** Solidity, Foundry, Ethers.js, The Graph, EIP-712, Tokenomics, DAO Governance, Dune Analytics.
 -   **Technical & General:** JavaScript, React, Next.js, Python, SQL, Figma, Project Management.
 
-By building your resume around verifiable proof of work and tailoring your language to the industry's culture, you move beyond simply telling people what you can do—you show them. In the transparent and meritocratic world of Web3, this is the most powerful way to stand out. Find more tips in our guide on [how to write a Web3 resume](/how-to-write-a-web3-resume).
+By building your resume around verifiable proof of work and tailoring your language to the industry's culture, you move beyond simply telling people what you can do—you show them. In the transparent and meritocratic world of Web3, this is the most powerful way to stand out. Find more tips in our guide on how to write a Web3 resume.

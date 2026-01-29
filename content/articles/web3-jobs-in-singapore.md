@@ -31,7 +31,7 @@ Singapore's success as a crypto hub is no accident. It's the result of a deliber
 
 The Singaporean job market is sophisticated and demands highly skilled professionals. The competition for talent is fierce, and salaries reflect this, making Singapore one of the highest-paying locations for Web3 careers outside of the US.
 
-*   **[Smart Contract](/smart-contract-developer) & Protocol Engineers (Solidity/Rust):**
+*   **Smart Contract & Protocol Engineers (Solidity/Rust):**
     *   **Mid-Level (3-5 years):** SGD $120,000 - $180,000 per year
     *   **Senior (5+ years):** SGD $180,000 - $280,000+ per year
     *   *Lead and architect roles can command salaries well in excess of SGD $300,000.*

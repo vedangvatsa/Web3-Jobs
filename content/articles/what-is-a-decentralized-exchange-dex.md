@@ -26,7 +26,7 @@ Imagine a liquidity pool for ETH and USDC on a DEX like Uniswap. The pool might 
 
 Now, a trader wants to buy 1 ETH. They add USDC to the pool and remove ETH. The smart contract automatically recalculates the reserves to keep `k` constant. The more ETH they buy, the less ETH is in the pool, and the price of the remaining ETH goes up. This is how the AMM algorithmically sets the price based on supply and demand within the pool. This automated process is what makes DEXs so efficient and accessible.
 
-Internal linking is crucial for SEO and user navigation. For example, understanding how these pools function is directly related to [How Liquidity Pools Work in DeFi](/how-liquidity-pools-work-in-defi). The pricing mechanism itself is a core concept explained in the [Automated Market Maker Complete Guide](/automated-market-maker-complete-guide).
+Internal linking is crucial for SEO and user navigation. For example, understanding how these pools function is directly related to How Liquidity Pools Work in DeFi. The pricing mechanism itself is a core concept explained in the Automated Market Maker Complete Guide.
 
 ### Key Differences: DEX vs. CEX
 
@@ -45,10 +45,10 @@ Internal linking is crucial for SEO and user navigation. For example, understand
 The biggest advantages are security and self-custody. Since you never give up control of your private keys, you are not vulnerable to an exchange being hacked or going bankrupt. DEXs are also permissionless, offering greater financial freedom and access to a wider variety of tokens.
 
 **What are the risks of using a DEX?**
-The primary risks are smart contract vulnerabilities and impermanent loss. If the DEX's smart contract code has a bug, it could be exploited, leading to a loss of funds in the liquidity pools. Additionally, liquidity providers face the risk of [impermanent loss](/understanding-impermanent-loss-in-defi), where the value of their deposited assets is less than if they had simply held them in their wallet.
+The primary risks are smart contract vulnerabilities and impermanent loss. If the DEX's smart contract code has a bug, it could be exploited, leading to a loss of funds in the liquidity pools. Additionally, liquidity providers face the risk of impermanent loss, where the value of their deposited assets is less than if they had simply held them in their wallet.
 
 **Are DEXs completely anonymous?**
-No, they are pseudonymous. While your real-world identity is not tied to your account, all your transactions are publicly visible on the blockchain and linked to your wallet address. This is a key distinction from true anonymity. You can learn more about this in our guide on [On-Chain vs Off-Chain Data Explained](/on-chain-vs-off-chain-data-explained).
+No, they are pseudonymous. While your real-world identity is not tied to your account, all your transactions are publicly visible on the blockchain and linked to your wallet address. This is a key distinction from true anonymity. You can learn more about this in our guide on On-Chain vs Off-Chain Data Explained.
 
 **How do DEXs make money?**
 DEXs charge a small trading fee on each swap, typically between 0.05% and 0.3%. This fee is distributed to the liquidity providers as a reward for providing capital to the pools. Some DEXs also have a protocol fee that goes to the DAO treasury.

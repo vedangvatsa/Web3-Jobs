@@ -25,7 +25,7 @@ You cannot contribute to a culture you don't understand. The first 30-60 days of
 
 -   **Curate Your Twitter Feed:** This is non-negotiable. Twitter is the central nervous system of Web3. Create a new account dedicated to crypto and follow the key thinkers, founders, and projects in the areas that interest you.
 -   **Listen to Podcasts:** Podcasts like Bankless, The Defiant, and Unchained are a firehose of information. Listen to them on your commute, at the gym, everywhere.
--   **Become a User:** You must use the products. Get a [MetaMask wallet](/choosing-a-crypto-wallet), buy a small amount of ETH on an exchange, and transfer it to your wallet. Use a DeFi protocol like Aave or Uniswap. Buy a cheap NFT on OpenSea. This hands-on experience is your most important credential.
+-   **Become a User:** You must use the products. Get a MetaMask wallet, buy a small amount of ETH on an exchange, and transfer it to your wallet. Use a DeFi protocol like Aave or Uniswap. Buy a cheap NFT on OpenSea. This hands-on experience is your most important credential.
 
 ### Step 3: Choose Your Path and Build Your "Proof of Work"
 

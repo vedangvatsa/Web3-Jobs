@@ -11,7 +11,7 @@ data-ai-hint: "digital overlay"
 
 
 
-Augmented Reality, or AR, is a technology that enhances the real world by overlaying computer-generated information and digital content on top of it. Unlike [virtual reality (VR)](/understanding-virtual-reality-applications), which creates a completely artificial environment, AR does not replace the user's real-world surroundings. Instead, it adds to them.
+Augmented Reality, or AR, is a technology that enhances the real world by overlaying computer-generated information and digital content on top of it. Unlike virtual reality (VR), which creates a completely artificial environment, AR does not replace the user's real-world surroundings. Instead, it adds to them.
 
 The most common way to experience AR today is through a smartphone. Think of the popular game Pokémon GO, where you see digital creatures appearing in the real world through your phone's camera. Or think of an Instagram filter that puts virtual sunglasses on your face. These are simple but powerful examples of AR. The device's camera captures the real world, and then the software overlays a layer of digital information on top of that live view.
 
@@ -39,7 +39,7 @@ AR and VR are often mentioned together, but they are fundamentally different exp
 
 *   **Virtual Reality (VR)** replaces the real world. When you put on a VR headset, it blocks out your physical surroundings and immerses you in a completely computer-generated environment. VR is about creating a new, artificial reality.
 
-The umbrella term for both is often called [Mixed Reality (MR)](/what-is-mixed-reality-in-2025) or [Extended Reality (XR)](/extended-reality-technologies-compared).
+The umbrella term for both is often called Mixed Reality (MR) or Extended Reality (XR).
 
 ### Real-World Applications of AR
 

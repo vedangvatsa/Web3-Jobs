@@ -38,7 +38,7 @@ Superficial research leads to superficial answers and a lack of confidence. Go b
 
 *   **Mission and Values:** Understand the company's core purpose. How do your own values align with theirs? Be ready to give specific examples.
 *   **Products and Services:** If possible, use their product. Understand who their customers are and what problems they solve.
-*   **Recent News and Achievements:** Look for recent press releases, blog posts, or funding announcements. Mentioning a recent achievement shows you're engaged and genuinely interested. A great resource for this is a project's official blog or a [Web3 News Feed](/news).
+*   **Recent News and Achievements:** Look for recent press releases, blog posts, or funding announcements. Mentioning a recent achievement shows you're engaged and genuinely interested. A great resource for this is a project's official blog or a Web3 News Feed.
 *   **The Role Itself:** Deconstruct the job description. For each responsibility and qualification, prepare a specific example from your past that demonstrates your ability. Use the STAR method (Situation, Task, Action, Result) to structure your stories.
 
 #### 2. Master Your Own Narrative

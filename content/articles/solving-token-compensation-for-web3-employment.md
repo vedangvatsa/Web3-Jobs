@@ -70,7 +70,7 @@ For companies and candidates alike, clear communication is essential when dealin
 
 **For Candidates:**
 -   **Ask the Right Questions:** Don't just focus on the current USD value. Ask about the vesting schedule, the total token supply, and what percentage of the network your grant represents.
--   **Do Your Own Research (DYOR):** Evaluate the project's long-term potential. A smaller grant in a project with a world-class team and strong fundamentals can be worth far more than a larger grant in a project with weak tokenomics. Read our [guide on salary negotiation](/web3-career-salary-negotiation) for more tips.
+-   **Do Your Own Research (DYOR):** Evaluate the project's long-term potential. A smaller grant in a project with a world-class team and strong fundamentals can be worth far more than a larger grant in a project with weak tokenomics. Read our guide on salary negotiation for more tips.
 
 Token-based compensation is a paradigm shift. It transforms employees into owners and aligns the entire team around a shared mission. By designing a thoughtful and transparent plan with long-term vesting, projects can attract the best talent in the world and build a dedicated team that is motivated to create lasting value for the entire ecosystem.
 

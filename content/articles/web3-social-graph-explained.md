@@ -196,9 +196,9 @@ The Web3 social graph represents a paradigm shift:
 
 ## Related Career Guides
 
-- [Smart Contract Developer Guide](smart-contract-developer)
-- [Decentralized Social Media Career Guide](decentralized-social-careers)
-- [Protocol Engineer Career Path](protocol-engineer)
+- Smart Contract Developer Guide
+- Decentralized Social Media Career Guide
+- Protocol Engineer Career Path
 
 ### Your Next Step
 

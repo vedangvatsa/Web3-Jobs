@@ -60,8 +60,8 @@ Achieving this vision will require new technologies that go beyond what 5G uses 
 
 While it's hard to predict the exact applications that will emerge, next-generation connectivity will likely be the foundation for several major technological shifts.
 
-*   **The Metaverse**: Truly immersive and persistent [virtual and augmented reality](/what-is-augmented-reality-technology) experiences, often called the [metaverse](/what-is-metaverse-technology-explained), will require the kind of massive bandwidth and low latency that these future networks promise.
-*   **Digital Twins**: The ability to create a real-time, high-fidelity digital replica of a physical object or system. A city could have a [digital twin](/understanding-digital-twins-in-industry) that is constantly updated with real-world data, allowing planners to simulate the effects of changes before implementing them.
+*   **The Metaverse**: Truly immersive and persistent [virtual and augmented reality](/what-is-augmented-reality-technology) experiences, often called the metaverse, will require the kind of massive bandwidth and low latency that these future networks promise.
+*   **Digital Twins**: The ability to create a real-time, high-fidelity digital replica of a physical object or system. A city could have a digital twin that is constantly updated with real-world data, allowing planners to simulate the effects of changes before implementing them.
 *   **Holographic Communication**: The ability to have real-time, 3D holographic calls that make it feel like the other person is right there in the room with you.
 
 ### Frequently Asked Questions
