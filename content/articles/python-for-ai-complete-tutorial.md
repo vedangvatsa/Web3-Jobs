@@ -28,14 +28,15 @@ For any AI or data science project, you'll almost always start with this holy tr
 
 Let's look at each one.
 
-### 1. NumPy. The Foundation for Numerical Computing
+### 1. NumPy – The Foundation for Numerical Computing
 
 NumPy (Numerical Python) is the bedrock of the Python scientific computing stack. At its core, it provides a powerful object called an **array**. A NumPy array is a grid of values, all of the same type, and it's incredibly fast for numerical operations.
 
-**Why use NumPy arrays instead of Python lists?**
+#### Why use NumPy arrays instead of Python lists?
+
 Speed. NumPy arrays are stored in a more efficient way in memory, and the underlying operations are written in fast, low-level languages like C. For large datasets, the performance difference is enormous.
 
-**Getting Started with NumPy**
+#### Getting Started with NumPy
 
 First, you'd install it.
 `pip install numpy`
@@ -76,7 +77,7 @@ Pandas is built on top of NumPy and is the go-to tool for working with structure
 
 A DataFrame is a two-dimensional table with labeled axes (rows and columns). Think of it as a spreadsheet or a SQL table, but with the full power of Python.
 
-**Getting Started with Pandas**
+#### Getting Started with Pandas
 
 `pip install pandas`
 
