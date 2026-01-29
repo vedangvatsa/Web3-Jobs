@@ -13,7 +13,7 @@ Before we can understand the solution, we must first understand the problem. In 
 
 Imagine you have a digital dollar. What stops you from spending it, and then spending that *exact same digital dollar* again? This is known as the "double-spend problem." For decades, the only solution was a central intermediary, like a bank or a credit card company. When you send money, the bank updates its private ledger, debiting your account and crediting the recipient's. They are the trusted third party that ensures you can't spend the same money twice. But this solution introduces its own issues: centralization, censorship, high fees, and a lack of access for billions of people.
 
-The creator of Bitcoin, the pseudonymous Satoshi Nakamoto, solved the double-spend problem without a central authority. The solution was the blockchain, a system that allows a network of disconnected people to agree on a single, shared history of transactions.
+The creator of Bitcoin, the pseudonymous Satoshi Nakamoto, solved the double-spend problem without a central authority. The solution was the blockchain, a system that allows a network of disconnected people to agree on a single, shared history of transactions. The innovation is profound: strangers who don't know or trust each other can now collectively maintain a ledger of truth without any central authority.
 
 ## How a Blockchain Works Blocks, Chains, and Hashing
 
