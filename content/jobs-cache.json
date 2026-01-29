@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://www.coinbase.com/careers/positions/7569277?gh_jid=7569277",
+    "title": "Senior Staff Machine Learning Engineer, Risk ML",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7569277?gh_jid=7569277",
+    "date": "2026-01-29T09:44:08.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/mystenlabs/b039f6e0-45a9-4c73-821c-8d5365292ef5?utm_source=jobs.a16z.com",
+    "title": "Production Engineer",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/b039f6e0-45a9-4c73-821c-8d5365292ef5?utm_source=jobs.a16z.com",
+    "date": "2026-01-29T09:44:05.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7565340?gh_jid=7565340",
+    "title": "Senior Software Engineer, Identity & Trust",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7565340?gh_jid=7565340",
+    "date": "2026-01-29T09:29:08.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://bitso.com/jobs?gh_jid=7605823003",
+    "title": "Prime Sales & Trading Manager",
+    "company": "Bitso",
+    "link": "https://bitso.com/jobs?gh_jid=7605823003",
+    "date": "2026-01-29T09:14:08.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
     "id": "https://www.coinbase.com/careers/positions/7565853?gh_jid=7565853",
     "title": "Product Counsel, Financial Services & Loyalty",
     "company": "Coinbase",
@@ -1406,21 +1438,5 @@
     "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/65132873-senior-site-reliability-engineer#content",
     "date": "2026-01-14T11:47:26.000Z",
     "source": "Jobs | Hedera Hashgraph Job Board"
-  },
-  {
-    "id": "https://ripple.com/careers/all-jobs/job/7537083?gh_jid=7537083",
-    "title": "Payroll Analyst Intern (Summer 2026)",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7537083?gh_jid=7537083",
-    "date": "2026-01-14T09:43:03.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/halliday/d50b95d5-f478-4166-acd8-e5036358cf7f?utm_source=jobs.a16z.com",
-    "title": "Product Manager, Payments",
-    "company": "Halliday",
-    "link": "https://jobs.ashbyhq.com/halliday/d50b95d5-f478-4166-acd8-e5036358cf7f?utm_source=jobs.a16z.com",
-    "date": "2026-01-14T09:26:44.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   }
 ]
