@@ -97,12 +97,13 @@ Remote teams need extra intentionality. Use **asynchronous check‑ins**, virtua
 
 ## 9. Common Mistakes to Avoid
 
-| Mistake | Why It Hurts | Remedy |
-|---|---|---|
-| Micromanaging | Stifles autonomy | Trust the process |
-| Ignoring feedback | Erodes trust | Schedule regular feedback loops |
-| Over‑committing | Leads to burnout | Prioritize ruthlessly |
-| Failing to set clear goals | Causes misalignment | Use OKRs or SMART goals |
+**Micromanaging** – Stifles autonomy and growth. *Remedy:* Trust your team's process and focus on outcomes, not methods.
+
+**Ignoring feedback** – Erodes trust and makes you seem out of touch. *Remedy:* Schedule regular feedback loops and act on what you hear.
+
+**Over‑committing** – Leads to manager burnout and missed deadlines. *Remedy:* Prioritize ruthlessly and say no to low‑impact requests.
+
+**Failing to set clear goals** – Causes misalignment and frustration. *Remedy:* Use frameworks like OKRs or SMART goals to keep everyone on the same page.
 
 ## Frequently Asked Questions
 
