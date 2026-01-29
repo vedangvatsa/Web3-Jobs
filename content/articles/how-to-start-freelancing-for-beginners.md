@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Start Freelancing for Beginners"
 image: "https://picsum.photos/seed/freelance-start/1200/630"
 data-ai-hint: "person typing laptop"
 description: "A step-by-step guide on how to start your freelancing journey. Learn how to find your niche, build a portfolio, and land your first client."
 category: "Career Guides"
+
 ---
+
+
 
 The idea of being your own boss, setting your own hours, and working from anywhere in the world is incredibly appealing. That’s the promise of freelancing. But for beginners, the path to a successful freelance career can seem daunting. Where do you even start?
 

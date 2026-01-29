@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Balancer Weighted Pool?"
 description: "A comprehensive guide to Balancer's Weighted Pools, a powerful DeFi primitive that allows for multi-asset liquidity pools with custom, unequal weightings."
 category: "Educational"
 image: "https://picsum.photos/seed/balancer/1200/630"
 data-ai-hint: "balancer weighted pool"
+
 ---
+
+
 
 ## What is a Balancer Weighted Pool? A Complete Guide
 
@@ -82,4 +87,3 @@ A: The creator of the pool sets the trading fee. This fee can be fixed or can be
 
 **Q_ What is the difference between Balancer v1 and v2?**
 A: Balancer v2 introduced a significant architectural change with the "single vault." In v1, each pool was a separate smart contract holding its own assets. In v2, all assets from all pools are held in one master vault contract. The pools themselves just contain the logic. This makes multi-hop trades between different pools extremely gas-efficient.
-

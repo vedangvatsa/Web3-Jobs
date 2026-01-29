@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Become a Technical Writer: A Step-by-Step Guide"
 description: "A comprehensive guide on how to start a career in technical writing. Learn the essential skills, tools, and steps you need to take to become a successful technical writer, even with no prior experience."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "person writing"
 category: "Career Guides"
+
 ---
+
+
 
 Technical writing is a rapidly growing and rewarding field that sits at the critical intersection of technology and communication. A technical writer's job is to translate complex technical information into clear, concise, and easy-to-understand documentation for a specific audience. This can include API documentation, user manuals, tutorials, white papers, and more.
 
@@ -74,4 +79,3 @@ Once you have developed your skills and built a portfolio, it's time to start jo
 - **Tailor Your Resume:** Your resume should highlight your writing skills and technical aptitude. Link prominently to your portfolio.
 - **Networking:** Join technical writing communities on LinkedIn, Slack, or Discord (like the "Write the Docs" Slack). Engage in conversations, ask for feedback on your portfolio, and look for job postings.
 - **Look for the Right Roles:** Search for titles like "Technical Writer," "Documentation Engineer," or "Developer Advocate." Pay close attention to the required skills in the job description and tailor your application accordingly.
-

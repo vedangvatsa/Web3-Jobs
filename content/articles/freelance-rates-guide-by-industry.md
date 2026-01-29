@@ -1,10 +1,15 @@
 ---
+
+
 title: "Freelance Rates Guide by Industry"
 image: "https://picsum.photos/seed/freelance-rates/1200/630"
 data-ai-hint: "money calculator coins"
 description: "A comprehensive guide to freelance rates across different industries. Learn what to charge for your services as a writer, designer, developer, and more."
 category: "Career Guides"
+
 ---
+
+
 
 One of the biggest challenges for any freelancer is figuring out how much to charge. Price yourself too high, and you risk losing clients. Price yourself too low, and you'll struggle to make a sustainable income. The right price depends on a variety of factors, including your industry, experience level, and the value you provide.
 

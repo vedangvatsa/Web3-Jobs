@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Cryptocurrency Exchange and How It Works"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "crypto exchange"
 description: "A cryptocurrency exchange is an online marketplace where you can buy, sell, and trade cryptocurrencies. It's the most common gateway for newcomers to enter the Web3 world."
 category: "Educational"
+
 ---
+
+
 A cryptocurrency exchange is an online platform that acts as a marketplace for buying, selling, and trading digital currencies. For most people, it's the first and most important bridge between the traditional financial system (fiat currencies like USD or EUR) and the new world of Web3. Think of it as a stock exchange, but for assets like Bitcoin, Ethereum, and thousands of other tokens.
 
 These platforms are the backbone of the crypto economy, providing the liquidity and accessibility needed for the market to function. This article explains what exchanges are, how they work, and the key differences between the major types you'll encounter.
@@ -55,4 +60,3 @@ A decentralized exchange is not a company; it's a protocol built on smart contra
 - **KYC/AML:** To comply with regulations, all reputable centralized exchanges require you to complete a "Know Your Customer" (KYC) process, which involves verifying your identity with a government-issued ID.
 
 Cryptocurrency exchanges are a vital piece of the Web3 infrastructure. They provide the liquidity and accessibility that the ecosystem needs to grow. By understanding the difference between centralized and decentralized exchanges, you can make informed decisions about how to buy, trade, and, most importantly, secure your digital assets.
-

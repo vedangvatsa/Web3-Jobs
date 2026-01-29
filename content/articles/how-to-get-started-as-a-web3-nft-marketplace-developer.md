@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Get Started as a Web3 NFT Marketplace Developer"
 image: "/images/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
 data-ai-hint: "nft marketplace developer"
 description: "A guide for developers on building a career in the NFT space. Learn the key skills needed to build NFT marketplaces, from smart contract standards to frontend integration."
 category: "Career Guides"
+
 ---
+
+
 
 The explosion of [Non-Fungible Tokens (NFTs)](/what-are-nfts) has created a massive demand for developers who can build the platforms and marketplaces where these unique digital assets are created, traded, and showcased. A career as an **NFT Marketplace Developer** is a path that combines smart contract engineering, full-stack web development, and an understanding of the creator economy.
 
@@ -40,4 +45,3 @@ Building an NFT marketplace requires a full-stack skill set, bridging on-chain a
     -   Implement the functionality for a user to buy an NFT. This will involve the user approving the marketplace contract to spend their ERC-20 tokens, and then calling the `buy` function.
 
 A career as an NFT Marketplace Developer is an opportunity to work at the intersection of technology, art, and culture. By mastering the key on-chain and off-chain technologies, you can build the platforms that will power the future of the creator economy.
-

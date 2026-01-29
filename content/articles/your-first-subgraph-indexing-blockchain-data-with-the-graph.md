@@ -1,9 +1,14 @@
 ---
+
+
 title: "Your First Subgraph: Indexing Blockchain Data with The Graph"
 image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YXxlbnwwfHx8fDE3NTUwMzYzNzV8MA&lib=rb-4.0.3"
 description: "Learn how to build a subgraph using The Graph Protocol. This guide provides a step-by-step tutorial on how to index smart contract data and serve it via a GraphQL API."
 category: "Getting Started"
+
 ---
+
+
 
 Building a decentralized application (dApp) involves two main components: writing smart contracts (the on-chain backend) and building a user interface (the off-chain frontend). A major challenge for dApp developers is getting data from the blockchain to display on the frontend. Reading data directly from a smart contract can be slow, inefficient, and limited.
 
@@ -112,4 +117,3 @@ This function is triggered every time a `Transfer` event happens. It creates a `
 After deploying to The Graph's hosted service (the "Subgraph Studio"), it will start indexing the data from your chosen contract. Once it's synced, you'll have a GraphQL endpoint that your dApp can use to instantly query for NFT and owner data.
 
 Learning to build subgraphs is a fundamental step in becoming a full-stack Web3 developer. It's the bridge that connects your on-chain logic to your off-chain user experience, enabling you to build fast, rich, and data-intensive decentralized applications.
-

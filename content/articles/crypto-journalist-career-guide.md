@@ -1,10 +1,15 @@
 ---
+
+
 title: "Crypto Journalist Career Roadmap Guide"
 image: "/images/firmbee-com-SpVHcbuKi6E-unsplash.jpg"
 data-ai-hint: "journalist writing crypto"
 description: "A comprehensive guide to building a career as a crypto journalist. Learn the skills you need, how to build a portfolio, and how to find opportunities in the fast-paced world of Web3 media."
 category: "Career Guides"
+
 ---
+
+
 
 The Web3 industry is a complex, fast-moving, and often bewildering space. For it to reach mainstream adoption, it needs skilled communicators who can translate its technical jargon into compelling stories, hold projects accountable, and provide the public with a clear and trustworthy source of information. This has created a massive demand for a new kind of reporter: the **crypto journalist**.
 
@@ -66,4 +71,3 @@ A career in crypto journalism is a chance to be on the front lines of a technolo
     </a>
   </CardContent>
 </Card>
-

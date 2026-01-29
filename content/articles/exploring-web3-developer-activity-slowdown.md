@@ -1,10 +1,15 @@
 ---
+
+
 title: "Has Developer Activity in Web3 Really Slowed Down? A Nuanced Look"
 description: "An analysis of the narrative that Web3 developer activity is slowing down. We look beyond the headline numbers to understand the trends, the noise, and the future of building in crypto."
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man coding laptop"
+
 ---
+
+
 
 ## Beyond the Headlines: Has Web3 Developer Activity Really Slowed Down?
 

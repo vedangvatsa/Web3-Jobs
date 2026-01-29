@@ -1,10 +1,15 @@
 ---
+
+
 title: "Blockchain Explorer Guide for Bitcoin and Ethereum"
 image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
 data-ai-hint: "blockchain explorer map"
 description: "A beginner's guide to using blockchain explorers like Etherscan and Blockchain.com. Learn how to look up transactions, explore blocks, and read smart contract data on public ledgers."
 category: "Educational"
+
 ---
+
+
 
 A public blockchain, by its very nature, is a transparent and open ledger. Every transaction that has ever occurred is recorded on it and is visible to anyone. But how do you actually see this data? The primary tool for this is the **blockchain explorer**. A blockchain explorer is a website that allows you to "explore" the contents of a blockchain in a human-readable format. It's like a search engine for the blockchain.
 
@@ -70,4 +75,3 @@ The homepage of most block explorers provides a real-time dashboard of the netwo
 ### Conclusion: Trust, but Verify
 
 The block explorer is the ultimate tool for practicing the core ethos of Web3: "Don't trust, verify." It transforms the blockchain from an abstract concept into a tangible, auditable database. Whether you are a developer debugging a transaction, an investor researching a project, or a user simply confirming a payment, mastering the use of a block explorer is an essential skill for safely and effectively navigating the decentralized world. For anyone serious about a **[career in Web3](/how-to-start-a-web3-career)**, proficiency with a block explorer is as fundamental as knowing how to use a web browser.
-

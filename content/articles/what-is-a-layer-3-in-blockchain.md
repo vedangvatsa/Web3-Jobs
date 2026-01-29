@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Layer 3 in Blockchain?"
 description: "A look at Layer 3 solutions, which build on top of Layer 2s to offer even greater scalability and customization for specific applications."
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 category: "Educational"
 data-ai-hint: "layer network"
+
 ---
+
+
 
 The world of blockchain is a bit like a rapidly growing city. At the bottom, you have the foundational layer—the bedrock and main infrastructure. This is Layer 1 (L1), represented by blockchains like Ethereum. It’s secure and decentralized, but it can get congested and expensive, like a city’s main avenues during rush hour.
 

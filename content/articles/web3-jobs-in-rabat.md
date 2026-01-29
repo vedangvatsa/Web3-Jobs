@@ -1,10 +1,18 @@
 ---
+
+
+
 title: "Web3 Jobs in Rabat: A Guide to Morocco's GovTech and R&D Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "rabat morocco city"
 description: "A career guide to the Web3 job market in Rabat. Explore how Morocco's capital is becoming a center for GovTech, research, and regulatory developments in the blockchain space."
 category: "Career Guides"
+
+
 ---
+
+
+
 
 Rabat, the political and administrative capital of Morocco, is carving out a unique and strategic position in the nation's growing Web3 ecosystem. While Casablanca is the economic engine, Rabat is the center of governance, policy, and research. This has made the city a key hub for "GovTech" (government technology) initiatives, enterprise blockchain solutions, and the critical conversations around the regulation of digital assets in the kingdom.
 
@@ -340,3 +348,11 @@ A:
 Ready to shape the future of Morocco's approach to blockchain and digital assets? Our [Web3 job board](/jobs) features policy roles, research positions, and advisory opportunities with governments, central banks, and international organizations. Explore the listings today and start your journey in crypto policy.
 
 Ready to build a career at the intersection of technology and public policy in Morocco? Our [Web3 job board](/jobs) features opportunities from leading companies, GovTech projects, and remote-first DAOs hiring in the region and globally. Explore the listings today and find your place in shaping the future of digital governance.
+
+## Related Articles
+
+- [Web3 Jobs in Algiers: A Guide to Algeria's Tech Awakening](web3-jobs-in-algiers)
+- [Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene](web3-jobs-in-libreville)
+- [Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene](web3-jobs-in-luanda)
+- [How to Ask Smart Questions as a New Employee](asking-smart-questions-as-new-employee)
+- [Web3 Jobs in Lagos: A Guide to West Africa's Tech Megacity](web3-jobs-in-lagos)

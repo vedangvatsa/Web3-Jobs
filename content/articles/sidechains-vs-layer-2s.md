@@ -1,10 +1,15 @@
 ---
+
+
 title: "Sidechains vs. Layer 2s: What's the Difference?"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "blockchain network difference"
 description: "A guide to the key differences between two major types of blockchain scaling solutions: Sidechains and Layer 2 Rollups. Learn how they differ in their security models and relationship to the main chain."
 category: "Technology Deep Dives"
+
 ---
+
+
 
 As Ethereum has grown in popularity, the need to scale the network—to make it handle more transactions, faster and cheaper—has become the single most important challenge. Two of the most common scaling solutions you'll hear about are **Sidechains** and **Layer 2s (L2s)**.
 
@@ -42,4 +47,3 @@ A **Layer 2 (L2)** is a scaling solution that processes transactions off-chain b
 ### The Future is L2-Centric
 
 While sidechains like Polygon PoS have been instrumental in helping Ethereum scale so far, the official Ethereum roadmap and the broader community consensus have embraced a "rollup-centric" future. The superior security guarantees of L2s make them the preferred long-term solution for scaling Ethereum. As technology like [zkEVMs](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum) matures, most dApp development is expected to happen on Layer 2s that are directly secured by Ethereum's powerful and decentralized validator set.
-

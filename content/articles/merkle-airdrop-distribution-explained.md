@@ -1,10 +1,15 @@
 ---
+
+
 title: "Merkle Airdrop Distribution Explained"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "tree data structure"
 description: "A Merkle airdrop is a highly efficient method for distributing tokens to a large number of users. This guide explains how it uses Merkle trees to save gas and simplify the airdrop process."
 category: "Educational"
+
 ---
+
+
 
 Airdrops are a powerful tool for distributing a new token to a project's community. However, airdropping tokens to thousands or even millions of addresses presents a major technical challenge: how do you do it without spending a fortune on gas fees? Sending a separate `transfer` transaction to each recipient is prohibitively expensive.
 
@@ -90,4 +95,3 @@ The smart contract does not need to know the entire list of addresses. It only n
 -   **Shifts Gas Costs to Users:** The gas cost of claiming is borne by the individual users who choose to claim, rather than by the project having to pay for 100,000 separate transactions.
 
 The Merkle airdrop is a clever and powerful cryptographic pattern that is essential for any project looking to do a large-scale, gas-efficient token distribution on the blockchain.
-

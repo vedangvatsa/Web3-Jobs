@@ -1,10 +1,15 @@
 ---
+
+
 title: Coffee Chat Etiquette for Professionals
 description: A guide to the unwritten rules of the professional coffee chat. Learn how to request, prepare for, and conduct a virtual or in-person coffee chat to build your network.
 image: https://picsum.photos/seed/coffee-chat/1200/630
 category: Career Guides
 data-ai-hint: people talking
+
 ---
+
+
 
 ## Introduction: The Most Underrated Networking Tool
 
@@ -139,4 +144,3 @@ A3: If you are the one who initiated the meeting, you should offer to pay. It is
 **Q4: What if they say they are too busy for a chat?**
 
 A4: Respect their response. You can reply with, "I completely understand. Thank you for letting me know. I'll continue to follow your work and hope our paths cross in the future." Do not be pushy. Sometimes, you can also offer an even lower-friction alternative, like, "No problem at all. If you would be open to it, I could also just send over two quick questions via email."
-

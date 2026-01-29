@@ -1,10 +1,15 @@
 ---
+
+
 title: "Multiple Job Offers? How to Choose the Right One"
 description: "Choosing between multiple job offers is a great problem to have, but it can also be stressful. This guide will help you make the best decision for your career."
 image: "https://picsum.photos/seed/308/1200/630"
 data-ai-hint: "decision making"
 category: "Career Guides"
+
 ---
+
+
 
 Receiving multiple job offers is a fantastic position to be in. It’s a validation of your skills and experience. However, it can also be a source of significant stress. How do you decide which offer to accept? The right choice can set you on a path to long-term career satisfaction, while the wrong one can lead to regret.
 

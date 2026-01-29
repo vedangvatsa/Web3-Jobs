@@ -1,10 +1,15 @@
 ---
+
+
 title: "CRISPR Technology Explained for Beginners"
 description: "A simple and clear explanation of CRISPR, the revolutionary gene-editing tool, covering how it works, its applications, and the ethical questions it raises."
 category: "Educational"
 image: "https://picsum.photos/seed/crispr/1200/630"
 data-ai-hint: "dna editing"
+
 ---
+
+
 
 CRISPR is a term you've probably heard in the news, often mentioned with a mix of excitement and apprehension. It's a powerful technology that has revolutionized the field of genetics. At its heart, CRISPR is a tool for editing DNA, the code of life. Think of it as a find-and-replace function for genes. It allows scientists to find a specific piece of DNA, cut it, and then either remove it, replace it, or modify it.
 

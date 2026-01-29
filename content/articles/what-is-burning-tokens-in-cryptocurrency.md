@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Burning Tokens in Cryptocurrency"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "fire money burn"
 description: "Token burning is the process of permanently removing a certain number of cryptocurrency tokens from circulation. This is done to create a deflationary effect, which can increase the value of the remaining tokens."
 category: "Educational"
+
 ---
+
+
 In the world of cryptocurrency, "burning" tokens is a common mechanism used to manage a token's supply and influence its economic value. Token burning is the process of intentionally and permanently removing a certain number of tokens from the total circulating supply.
 
 This action is irreversible. Once a token is burned, it's gone forever.
@@ -31,4 +36,3 @@ By reducing the total supply of a token, a project can:
 One of the most famous examples of a token burn mechanism is Ethereum's **EIP-1559** update. With this update, a portion of the transaction fee (the "base fee") for every transaction on Ethereum is burned. During periods of high network activity, this can sometimes lead to more ETH being burned than is being newly issued to validators, making ETH a temporarily deflationary asset.
 
 Token burning is a powerful tool in the **[tokenomics](/understanding-tokenomics)** toolkit. It's a way for projects to actively manage their token's economic policy, create scarcity, and reward long-term holders.
-

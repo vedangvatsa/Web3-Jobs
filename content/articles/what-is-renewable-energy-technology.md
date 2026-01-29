@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Renewable Energy Technology"
 description: "An exploration of renewable energy technologies, including solar, wind, hydro, and geothermal power, and their role in creating a sustainable energy future."
 category: "Educational"
 image: "https://picsum.photos/seed/renewable/1200/630"
 data-ai-hint: "wind turbine"
+
 ---
+
+
 
 Renewable energy is energy that is collected from resources which are naturally replenished on a human timescale. This includes sources like sunlight, wind, rain, tides, waves, and geothermal heat. These stand in contrast to fossil fuels like coal, oil, and natural gas, which are finite and take millions of years to form. The transition to renewable energy technologies is a cornerstone of the global effort to combat climate change and build a more sustainable future.
 

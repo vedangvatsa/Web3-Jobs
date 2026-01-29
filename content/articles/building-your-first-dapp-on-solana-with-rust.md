@@ -1,10 +1,15 @@
 ---
+
+
 title: "Building Your First DApp on Solana with Rust"
 image: "https://images.unsplash.com/photo-1603539947678-cd3954ed515d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8YXBwfGVufDB8fHx8MTc1NTAzNjY3OXww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "solana blockchain rust"
 description: "A developer's guide to getting started with Solana. Learn the basics of the Solana programming model and build a simple 'Hello, World' smart contract using Rust and the Anchor framework."
 category: "Getting Started"
+
 ---
+
+
 
 While Ethereum dominates the landscape of smart contract development, a new generation of high-performance blockchains is emerging, and at the forefront is Solana. Known for its incredible speed and low transaction fees, Solana offers a different set of trade-offs and a unique programming model that is attracting developers looking to build highly scalable applications.
 
@@ -169,4 +174,3 @@ describe("my_first_dapp", () => {
 To run the test, use the command `anchor test`.
 
 This simple example covers the fundamental workflow of building on Solana with Anchor: defining your program's instructions, specifying the required accounts and their constraints, and then testing the interactions from a client. While the learning curve for Rust and the Solana account model can be steep, frameworks like Anchor provide a powerful and much more accessible entry point into this high-performance ecosystem.
-

@@ -1,10 +1,15 @@
 ---
+
+
 title: "Top 10 Skills for Web3 Developer Roles"
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 data-ai-hint: "essential skills list"
 description: "A developer's guide to the most in-demand skills for Web3. From Solidity mastery to understanding gas optimization, here's what you need to know to land a top engineering job in crypto."
 category: "Career Guides"
+
 ---
+
+
 
 The Web3 developer job market is fiercely competitive, but the demand for high-quality engineers has never been stronger. To stand out and command a top salary, you need a specific and deep skillset that goes far beyond basic programming knowledge. Companies are looking for engineers who are not only proficient in the core technologies but who also possess a security-first mindset and a nuanced understanding of the decentralized ecosystem.
 

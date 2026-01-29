@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Just-In-Time (JIT) Liquidity?"
 description: "A deep dive into Just-In-Time (JIT) liquidity, an advanced MEV strategy on Uniswap v3 where liquidity is added and removed in the same block to capture trading fees."
 category: "Educational"
 image: "https://picsum.photos/seed/jit/1200/630"
 data-ai-hint: "just in time"
+
 ---
+
+
 
 ## What is Just-In-Time (JIT) Liquidity? A Complete Guide
 
@@ -76,4 +81,3 @@ A: This is an active area of research. Some potential solutions include:
     *   **Private Mempools**: Using services like Flashbots can hide the initial trade from JIT bots.
     *   **Protocol-Level Changes**: DEXs could introduce mechanisms that delay fee collection or give a larger share of fees to longer-term LPs, making the JIT strategy less profitable.
     *   **Batch Auctions**: Protocols like CowSwap, which batch trades together and execute them at a uniform clearing price, make JIT attacks impossible as there is no specific trade to target.
-

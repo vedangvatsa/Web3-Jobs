@@ -1,10 +1,15 @@
 ---
+
+
 title: "Fresh Graduate’s Guide to Crypto & Web3 Jobs"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "graduate career start"
 description: "A complete guide for fresh graduates on how to launch a career in the Web3 industry. Learn how to build a portfolio, what skills to focus on, and how to get your first job in crypto, even with no professional experience."
 category: "Getting Started"
+
 ---
+
+
 
 As a fresh graduate, you are entering one of the most dynamic and rapidly evolving job markets in history. While traditional career paths remain viable, a new and exciting frontier has opened up: the world of Web3. The crypto industry is booming, and it's desperately looking for the next generation of talent to help build the future of the decentralized internet.
 

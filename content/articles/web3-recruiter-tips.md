@@ -1,9 +1,14 @@
 ---
+
+
 title: "Tips from a Web3 Recruiter: How to Get Hired"
 image: "https://images.unsplash.com/photo-1556742212-5b321f3c261b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNydWl0ZXJ8ZW58MHx8fHwxNzU1MTYxOTk3fDA&lib=rb-4.1.0&q=80&w=1080"
 description: "Get insider tips from a Web3 headhunter. Learn what recruiters are looking for, the biggest red flags on a resume, and how to stand out in a competitive market."
 category: "Career Guides"
+
 ---
+
+
 
 The Web3 job market is a whirlwind of fierce competition, high salaries, and unique cultural norms. Navigating it can be tough, both for candidates trying to break in and for companies trying to find top talent. As a Web3 recruiter, I've seen thousands of resumes, conducted hundreds of interviews, and helped place candidates at some of the top protocols and startups in the space.
 
@@ -51,4 +56,3 @@ For roles in marketing, product, or community, we're looking for "T-shaped" indi
 4.  **Be Honest About What You Don't Know:** The space moves too fast for anyone to be an expert in everything. It's better to say "I don't have deep experience with that, but here's how I would go about learning it" than to try and bluff your way through.
 
 The Web3 job market is competitive, but it's a meritocracy. By demonstrating your passion, building a strong public portfolio of work, and preparing diligently for the interview process, you can stand out from the crowd and land a role at the forefront of the new internet.
-

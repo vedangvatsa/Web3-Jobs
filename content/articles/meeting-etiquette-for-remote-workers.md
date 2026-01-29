@@ -1,10 +1,15 @@
 ---
+
+
 title: Meeting Etiquette for Remote Workers
 description: Master the art of remote meetings. This guide covers the essential etiquette for virtual meetings to ensure they are productive, inclusive, and professional.
 image: https://picsum.photos/seed/meeting/1200/630
 category: Career Guides
 data-ai-hint: remote meeting
+
 ---
+
+
 
 ## Introduction: Making Virtual Meetings Matter
 
@@ -103,4 +108,3 @@ A3: It is perfectly acceptable and often encouraged to leave a meeting if the di
 **Q4: We have too many meetings! How can I push back?**
 
 A4: The best way to reduce meeting overload is to be a role model for good asynchronous communication. When you receive a meeting invite, ask if the goal can be achieved via a shared document or a Slack thread. When you run your own meetings, keep them short and focused. Over time, this can help shift the company culture away from a meeting-first mindset.
-

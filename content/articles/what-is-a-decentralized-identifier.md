@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Decentralized Identifier"
 image: "/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"
 data-ai-hint: "digital identity key"
 description: "A Decentralized Identifier (DID) is a new type of globally unique ID that is controlled by the user, not a centralized company. It's the foundation of a new, self-sovereign digital identity."
 category: "Educational"
+
 ---
+
+
 
 A **Decentralized Identifier (DID)** is a new type of identifier for the digital world that is globally unique, verifiable, and not controlled by any centralized authority. It is a core component of **[Self-Sovereign Identity (SSI)](/self-sovereign-identity-in-web3-explained)**, a movement to give individuals control over their own digital identities.
 
@@ -47,4 +52,3 @@ DIDs are a foundational building block for a more private and user-centric inter
 -   **Enabling Verifiable Credentials:** DIDs are the foundation upon which **[Verifiable Credentials](/understanding-verifiable-credentials-in-blockchain)** are built. A university can issue a "Digital Diploma" credential to your DID, and you can then use your DID to prove to an employer that you have that degree, without the employer ever needing to contact the university.
 
 Decentralized Identifiers are a simple but powerful concept. They shift the control of online identity from centralized platforms to the individual, creating a more secure, private, and interoperable digital world.
-

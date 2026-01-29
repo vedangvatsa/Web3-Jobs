@@ -1,10 +1,15 @@
 ---
+
+
 title: "On-Chain Identity Verification Explained"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "digital identity verification"
 description: "A guide to on-chain identity verification, exploring how Web3 uses technologies like DIDs and VCs to create a more secure, private, and user-controlled way of proving who you are."
 category: "Educational"
+
 ---
+
+
 
 In the digital world, proving who you are is a constant challenge. We are used to a system of usernames and passwords, or relying on large platforms like Google and Facebook to verify our identity for other services. This centralized model is fraught with privacy and security risks. **On-chain identity verification** is a new paradigm, powered by Web3, that aims to create a more secure, private, and user-centric way of managing our digital identities.
 
@@ -43,4 +48,3 @@ Imagine a DeFi protocol requires users to be verified (KYC'd) to use its service
 -   **Security:** It reduces the risk of large-scale data breaches by eliminating centralized databases of personal information.
 
 On-chain identity verification is a foundational piece of the Web3 vision. By creating a more secure, private, and portable way to manage our identities, it's building a more trustworthy and user-centric internet.
-

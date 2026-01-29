@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a 51 Percent Attack in Blockchain?"
 description: "A detailed explanation of the 51% attack, one of the most discussed security threats to Proof-of-Work blockchains like Bitcoin, and how it can enable transaction censorship and double-spending."
 category: "Educational"
 image: "https://picsum.photos/seed/51attack/1200/630"
 data-ai-hint: "51 percent attack"
+
 ---
+
+
 
 ## What is a 51% Attack in Blockchain? A Complete Guide
 
@@ -83,4 +88,3 @@ A: No, the Bitcoin network has never been successfully 51% attacked. The sheer s
 
 **Q: What is the biggest danger of a 51% attack?**
 A: While double-spending is the most cited example, the biggest danger is the erosion of trust. A successful 51% attack on a major blockchain would shatter the perception of its immutability and security, causing its value and utility to plummet.
-

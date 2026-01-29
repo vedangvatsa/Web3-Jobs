@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Virtual Automated Market Maker (vAMM)?"
 description: "A deep dive into Virtual AMMs (vAMMs), the innovative mechanism used by perpetual futures exchanges like Perpetual Protocol to enable leveraged trading without real asset pools."
 category: "Educational"
 image: "https://picsum.photos/seed/vamm/1200/630"
 data-ai-hint: "virtual automated market maker"
+
 ---
+
+
 
 ## What is a Virtual Automated Market Maker (vAMM)? A Complete Guide
 
@@ -83,4 +88,3 @@ A: It is called virtual because the liquidity pool of the assets being traded (e
 
 **Q: Can you trade spot assets on a vAMM?**
 A: No. A vAMM is designed for synthetic derivatives. You cannot, for example, withdraw the "vETH" you bought. You can only close your position to realize your profit or loss in the real collateral asset (e.g., USDC).
-

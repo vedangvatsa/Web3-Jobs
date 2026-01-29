@@ -1,10 +1,15 @@
 ---
+
+
 title: "The First Post: When Satoshi Nakamoto Introduced Bitcoin to the World"
 description: "Before the whitepaper, there was the forum post. We look back at Satoshi Nakamoto's first public message on the P2P Foundation forum, the moment the world first heard of Bitcoin."
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "satoshi nakamoto"
+
 ---
+
+
 
 ## A Humble Beginning on the P2P Foundation Forum
 

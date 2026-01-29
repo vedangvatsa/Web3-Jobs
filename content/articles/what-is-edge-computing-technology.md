@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Edge Computing Technology"
 image: "https://picsum.photos/seed/edge-computing/1200/630"
 description: "An explanation of edge computing, how it works by processing data closer to where it's created, and why it's crucial for IoT and real-time applications."
 category: "Educational"
 data-ai-hint: "data network"
+
 ---
+
+
 
 Edge computing is a distributed computing model that brings computation and data storage closer to the sources of data. Instead of sending data to a centralized cloud for processing, the work is done "at the edge" of the network, right where the data is being generated. This could be on a local device, a factory floor, or a nearby server.
 

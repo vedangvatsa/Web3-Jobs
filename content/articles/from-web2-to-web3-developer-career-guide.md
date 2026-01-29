@@ -1,10 +1,15 @@
 ---
+
+
 title: "From Web2 to Web3: The Ultimate Developer Career Guide"
 image: "/images/chris-ried-bN5XdU-bap4-unsplash.jpg"
 description: "A practical guide for Web2 developers looking to transition into a Web3 career, covering key concepts, essential skills, and a step-by-step roadmap for making the leap."
 category: "Career Guides"
 data-ai-hint: "code on screen"
+
 ---
+
+
 
 ## Introduction: The New Frontier for Developers
 

@@ -1,10 +1,15 @@
 ---
+
+
 title: "Self-Sovereign Identity in Web3 Explained"
 image: "/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"
 data-ai-hint: "digital identity key"
 description: "Self-Sovereign Identity (SSI) is a movement to give individuals full control over their own digital identity. Learn how Web3 technologies like DIDs and VCs are making this a reality."
 category: "Educational"
+
 ---
+
+
 
 In today's digital world, you don't own your identity. Your identity is a collection of accounts—your Google account, your Facebook profile, your bank login—that are owned and controlled by centralized corporations. This model is fundamentally broken. It leads to a lack of privacy, massive data breaches, and a fragmented user experience.
 
@@ -56,4 +61,3 @@ Imagine you want to get a loan from a **[DeFi](/what-is-defi)** protocol that is
     5.  You are granted access to the loan, without ever having revealed your name, net worth, or any other personal financial data to the protocol.
 
 This is the power of Self-Sovereign Identity. It allows for trust and verification in a digital world without sacrificing privacy or control. It is a fundamental shift that promises to create a more secure, private, and user-centric internet.
-
