@@ -1,7 +1,6 @@
+
 import { getJobs } from '@/lib/jobs';
 import { NextResponse } from 'next/server';
-
-export const revalidate = 3600; // Revalidate every hour
 
 export async function GET() {
   try {
@@ -12,3 +11,4 @@ export async function GET() {
     return NextResponse.json({ error: 'Failed to fetch jobs' }, { status: 500 });
   }
 }
+

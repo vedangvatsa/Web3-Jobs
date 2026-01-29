@@ -1,0 +1,190 @@
+
+import { getArticle, getAllArticles } from '@/lib/articles';
+import { notFound } from 'next/navigation';
+import { Header } from '@/components/header';
+import Image from 'next/image';
+import { Metadata } from 'next';
+import type { Article as ArticleSchema, ScholarlyArticle } from 'schema-dts';
+import { ArticleContent } from '@/components/article-content';
+import { Button } from '@/components/ui/button';
+import { Rss } from 'lucide-react';
+import { Card, CardContent } from '@/components/ui/card';
+import { Suspense } from 'react';
+import { RelatedArticles } from '@/components/related-articles';
+import { SuperHackathonPageContent } from '@/components/super-hackathon-page';
+import { cn } from '@/lib/utils';
+
+type ArticlePageProps = {
+  params: {
+    slug: string;
+  };
+};
+
+export async function generateStaticParams() {
+  const articles = await getAllArticles();
+  return articles.map((article) => ({
+    slug: article.slug,
+  }));
+}
+
+export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
+  const article = await getArticle(params.slug);
+  if (!article) {
+    notFound();
+  }
+
+  const siteUrl = 'https://hashtagweb3.com';
+  const articleUrl = `${siteUrl}/${article.slug}`;
+
+  const keywords = [
+    'web3', 
+    'crypto', 
+    'blockchain', 
+    ...article.title.toLowerCase().split(' '),
+    ...article.category.toLowerCase().split(' '),
+    ...(article['data-ai-hint']?.toLowerCase().split(' ') || [])
+  ].filter((v, i, a) => a.indexOf(v) === i); // Remove duplicates
+
+  return {
+    title: article.title,
+    description: article.description,
+    keywords: keywords,
+    alternates: {
+      canonical: articleUrl,
+    },
+    openGraph: {
+      title: article.title,
+      description: article.description,
+      type: 'article',
+      url: articleUrl,
+      images: [
+        {
+          url: article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`,
+          width: 1200,
+          height: 630,
+          alt: `${article.title} - Hashtag Web3`,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.title,
+      description: article.description,
+      images: [article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`],
+    },
+  };
+}
+
+export default async function ArticlePage({ params }: ArticlePageProps) {
+  const article = await getArticle(params.slug);
+  const allArticles = await getAllArticles();
+
+  if (!article) {
+    notFound();
+  }
+  
+  const siteUrl = 'https://hashtagweb3.com';
+  const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;
+
+  const scholarlyCategories = ["AI & The Future of Work", "Web3 Career Guides", "Web3 Technology"];
+  const isScholarly = scholarlyCategories.includes(article.category);
+
+  const articleSchema: ArticleSchema | ScholarlyArticle = {
+    '@type': isScholarly ? 'ScholarlyArticle' : 'Article',
+    headline: article.title,
+    description: article.description,
+    image: imageUrl,
+    datePublished: new Date().toISOString(),
+    dateModified: new Date().toISOString(),
+    author: {
+        '@type': 'Organization',
+        name: 'Hashtag Web3',
+        url: siteUrl,
+    },
+    publisher: {
+        '@type': 'Organization',
+        name: 'Hashtag Web3',
+        url: siteUrl,
+        logo: {
+            '@type': 'ImageObject',
+            url: `${siteUrl}/logo.png`
+        }
+    },
+    mainEntityOfPage: {
+        '@type': 'WebPage',
+        '@id': `${siteUrl}/${article.slug}`
+    }
+  };
+
+  return (
+    <div className="flex flex-col min-h-screen bg-background">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <Header />
+      <main className="flex-1">
+        <div className="bg-background">
+            <article className="container mx-auto px-4 py-8">
+              <div className="max-w-5xl mx-auto p-4 sm:p-8">
+                 <Suspense fallback={<div>Loading...</div>}>
+                    {params.slug !== 'super-hackathon' && (
+                        <header className="mb-8">
+                          <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-primary mb-4">
+                            {article.title}
+                          </h1>
+                          <p className="text-lg text-muted-foreground">
+                            {article.description}
+                          </p>
+                        </header>
+                    )}
+                    
+                    {params.slug !== 'super-hackathon' && article.image && (
+                        <Image
+                          src={article.image}
+                          alt={`${article.title} - Hashtag Web3 article cover`}
+                          width={1200}
+                          height={630}
+                          className={cn("rounded-lg shadow-xl mb-8 w-full md:max-w-4xl h-auto"
+                          )}
+                          priority
+                          data-ai-hint={`${article['data-ai-hint'] || ''}`}
+                        />
+                    )}
+                    
+                    {params.slug === 'super-hackathon' ? (
+                        <SuperHackathonPageContent />
+                    ) : (
+                        <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
+                          <ArticleContent content={article.content} />
+                        </div>
+                    )}
+
+                    <RelatedArticles 
+                      allArticles={allArticles}
+                      currentCategory={article.category}
+                      currentSlug={article.slug}
+                    />
+
+                    <Card className="mt-12 bg-card border-dashed backdrop-blur-none">
+                      <CardContent className="p-8 text-center">
+                          <h3 className="text-2xl font-bold text-primary mb-2">Looking for a Web3 Job?</h3>
+                          <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
+                              Get the best Web3, crypto, and blockchain jobs delivered directly to you. Join our Telegram channel with over 60,000 subscribers.
+                          </p>
+                          <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer">
+                              <Button size="lg">
+                                  <Rss className="mr-2 h-5 w-5" />
+                                  Join Web3 Jobs Feed
+                              </Button>
+                          </a>
+                      </CardContent>
+                    </Card>
+                 </Suspense>
+              </div>
+            </article>
+        </div>
+      </main>
+    </div>
+  );
+}

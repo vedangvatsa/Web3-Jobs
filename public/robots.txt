@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://web3-jobs.example.com/sitemap.xml
