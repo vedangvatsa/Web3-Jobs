@@ -10,18 +10,18 @@ The Web3 ecosystem is evolving at a breakneck pace, with 2025 shaping up to be a
 
 ## 1. The Rise of the Agentic Web
 
-The agentic web marks a new era where AI agents act on their own, powered by blockchain. These agents can own wallets, sign transactions, and join decentralized systems without human help.
+The agentic web marks a new era where [AI agents](/ai-and-web3-engineering-careers) act on their own, powered by blockchain. These agents can own wallets, sign transactions, and join decentralized systems without human help.
 
 ### 1.1 AI-Powered DeFi Protocols
 
-AI agents are set to revolutionize Decentralized Finance (DeFi) by managing complex financial tasks autonomously.
+AI agents are set to revolutionize [Decentralized Finance (DeFi)](/defi-development-careers) by managing complex financial tasks autonomously.
 - **Smarter Trading:** AI will analyze markets, execute trades, and optimize investment portfolios in real-time.
 - **Efficient Lending:** Agents will manage liquidity in lending platforms, making markets more efficient.
 - **Seamless Scaling:** By removing the need for constant human input, AI will help DeFi scale to millions of users.
 
 ### 1.2 AI as Independent Economic Players
 
-AI agents are poised to become key participants in decentralized physical infrastructure networks (DePINs).
+AI agents are poised to become key participants in [decentralized physical infrastructure networks (DePINs)](/depin-infrastructure-engineer).
 - **Infrastructure Management:** Agents will oversee resources like energy grids and IoT devices.
 - **Data Monetization:** AI will securely trade and analyze data, driving innovation in fields like healthcare.
 - **Resource Coordination:** Agents will collaborate across networks to allocate resources efficiently.

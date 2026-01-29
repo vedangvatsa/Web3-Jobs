@@ -32,9 +32,9 @@ This is the most important section of your resume. It's your "proof of work."
 
 **The Breakdown:** Before you list any traditional jobs, create a dedicated section for your public Web3 contributions. This is where you show, not just tell.
 -   **Include:**
-    -   **DAO Contributions:** "Authored a successful governance proposal for the Uniswap DAO to deploy on Arbitrum."
-    -   **Open-Source Work:** "Submitted a PR to the Foundry repository that fixed a bug in the testing framework."
-    -   **Public Content:** "Wrote a 12-part Twitter thread on the mechanics of liquid staking that received over 1,000 likes."
+    -   **DAO Contributions:** "Authored a successful governance proposal for the [Uniswap](/defi-development-careers) DAO to deploy on Arbitrum."
+    -   **Open-Source Work:** "Submitted a PR to the [Foundry](/essential-web3-developer-tools) repository that fixed a bug in the testing framework."
+    -   **Public Content:** "Wrote a 12-part Twitter thread on the mechanics of [liquid staking](/defi-development-careers) that received over 1,000 likes."
     -   **Hackathon Projects:** "Won the 'Best DeFi' bounty at ETHDenver for building a novel yield aggregator."
 -   **Crucially, link everything.** Provide direct hyperlinks to the governance forum post, the GitHub pull request, the tweet, or the project demo.
 
@@ -61,7 +61,7 @@ When describing your achievements, use metrics that are relevant to the crypto s
 Be ruthless in cutting skills that are not relevant to the role you are applying for.
 
 **The Breakdown:** No one in Web3 cares that you are proficient in Microsoft Office. Curate your skills section to be highly relevant.
--   **Good Skills to List (Technical):** Solidity, Rust, Foundry, Hardhat, Ethers.js, Viem, The Graph, SQL (for on-chain analysis).
+    -   **Good Skills to List (Technical):** [Solidity](/smart-contract-developer), Rust, Foundry, Hardhat, Ethers.js, Viem, The Graph, SQL (for on-chain analysis).
 -   **Good Skills to List (Non-Technical):** DAO Governance, Tokenomics, Community Management (Discord/Telegram), Content Marketing (Twitter/Mirror), Dune Analytics.
 
 ### 7. **DO** Keep it to a Single Page
