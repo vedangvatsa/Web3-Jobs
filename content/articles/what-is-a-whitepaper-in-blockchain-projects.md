@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Whitepaper in Blockchain Projects"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "document paper"
 description: "A guide to understanding the role of a whitepaper in Web3. Learn what it is, what it should contain, and why it's the most critical document for any new blockchain project."
 category: "Educational"
+
 ---
+
+
 In the Web3 and crypto space, the **whitepaper** is the foundational document of any new project. It's a comprehensive, authoritative report that presents a project's vision, technology, and economic model to the world. It serves as a blueprint, explaining the problem the project aims to solve, the specifics of its proposed solution, and why it is a viable and valuable endeavor.
 
 The tradition of the whitepaper in crypto began with the most famous one of all: Satoshi Nakamoto's 2008 paper, "Bitcoin: A Peer-to-Peer Electronic Cash System." This document laid out the entire technical and philosophical foundation for Bitcoin. Ever since, publishing a detailed whitepaper has become the standard and expected first step for any serious new protocol, dApp, or blockchain. For any potential investor, user, or contributor, reading the whitepaper is the first step in [doing your own research (DYOR)](/what-is-dyor-in-crypto).
@@ -53,4 +58,3 @@ When evaluating a project, reading its whitepaper is an essential due diligence 
 -   **Strong Team:** The team members have a proven track record of building and shipping products in Web3 or other relevant fields.
 
 The whitepaper is more than just a marketing document; it's the intellectual and technical soul of a Web3 project. For anyone looking to understand, evaluate, or build in this space, learning how to read and analyze these foundational texts is an indispensable skill.
-

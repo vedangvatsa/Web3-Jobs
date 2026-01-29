@@ -1,10 +1,15 @@
 ---
+
+
 title: "Understanding ENS Domains in Ethereum"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "domain name service"
 description: "An ENS domain is a human-readable name for your Ethereum wallet, like 'vitalik.eth'. This guide explains how the Ethereum Name Service works and why it's a core piece of Web3 identity."
 category: "Educational"
+
 ---
+
+
 
 In the world of Ethereum, your identity is your public wallet address. This is a long, complex string of hexadecimal characters, like `0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045`. While this is great for security, it's terrible for user experience. It's difficult to remember, impossible to type, and easy to make a mistake when sending a transaction.
 
@@ -43,4 +48,3 @@ Every ENS name is itself an **[NFT (Non-Fungible Token)](/what-are-nfts)** that 
 ### The Role of ENS in Web3 Adoption
 
 ENS is a critical piece of infrastructure for making Web3 more user-friendly. By replacing long, unreadable addresses with simple, memorable names, it makes the entire ecosystem more accessible and less intimidating for new users. It is a simple but profound innovation that is helping to build a more human-readable and usable decentralized internet.
-

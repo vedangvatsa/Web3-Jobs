@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Shilling in Crypto? A Guide to Spotting and Avoiding It"
 description: "A deep dive into the practice of 'shilling' in the cryptocurrency space. Learn what it is, how to identify it, and the red flags to watch out for to protect your investments."
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "man shouting megaphone"
+
 ---
+
+
 
 ## Deconstructing "Shilling": A Guide to Navigating Hype in Crypto
 

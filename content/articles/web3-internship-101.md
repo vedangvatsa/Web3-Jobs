@@ -1,10 +1,15 @@
 ---
+
+
 title: "Web3 Internship 101: A Guide to Launching Your Crypto Career"
 image: "/images/emile-perron-xrVDYZRGdw4-unsplash.jpg"
 data-ai-hint: "internship student learning"
 description: "Your complete guide to finding and landing a Web3 internship. Learn where to look, what skills you need, and how to build a portfolio that will get you noticed by top crypto companies."
 category: "Getting Started"
+
 ---
+
+
 
 For students and recent graduates, the Web3 industry represents one of the most exciting and fast-paced career frontiers. An internship at a crypto startup, a Layer 2 protocol, or a DAO is not just a line on a resume; it's a deep-immersion experience that can supercharge your learning and launch your career in the decentralized economy.
 

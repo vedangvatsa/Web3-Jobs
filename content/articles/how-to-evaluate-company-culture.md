@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Evaluate Company Culture Before You Accept the Job"
 description: "Learn how to assess a company's culture during the interview process to ensure it aligns with your values. A guide to asking the right questions and spotting red flags."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "people talking"
 category: "Career Guides"
+
 ---
+
+
 
 A job offer is more than just a title and a salary; it's an invitation to spend a significant portion of your life in a new environment, surrounded by new people. While compensation and responsibilities are crucial, company culture is the invisible force that will ultimately determine your day-to-day happiness and long-term career satisfaction. A great culture can amplify your strengths and foster growth, while a toxic one can stifle your potential and lead to burnout.
 
@@ -81,4 +86,3 @@ Your evaluation shouldn't stop at the interview. Conduct your own independent re
 - **Glassdoor and Blind:** Read employee reviews on sites like Glassdoor and Blind. Look for recurring themes in the pros and cons. A single bad review can be an outlier, but a pattern of similar complaints is a major red flag.
 - **LinkedIn:** Look up current and former employees. What is their average tenure? High turnover can be a sign of a poor culture. See if you have any mutual connections you could reach out to for an honest opinion.
 - **Company Blog and Social Media:** How does the company present itself to the world? Does its external branding align with what you experienced in the interview?
-

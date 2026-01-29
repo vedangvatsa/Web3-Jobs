@@ -1,10 +1,15 @@
 ---
+
+
 title: "StableSwap Invariant Explained for Traders"
 description: "A deep dive into the StableSwap invariant, the unique algorithm powering Curve Finance that enables highly efficient trading of pegged assets like stablecoins."
 category: "Educational"
 image: "https://picsum.photos/seed/stableswap/1200/630"
 data-ai-hint: "stableswap invariant"
+
 ---
+
+
 
 ## The StableSwap Invariant Explained for Traders and LPs
 
@@ -77,4 +82,3 @@ A: No, but it significantly reduces it for pegged assets. Because the assets are
 
 **Q: Is the StableSwap formula used by other protocols?**
 A: Yes. While pioneered by Curve, the StableSwap concept has been influential, and other DEXs that focus on stable assets have implemented similar hybrid bonding curves.
-

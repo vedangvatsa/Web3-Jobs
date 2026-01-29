@@ -1,10 +1,15 @@
 ---
+
+
 title: "The Web3 Social Graph: Owning Your Online Identity"
 image: "/images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg"
 data-ai-hint: "social network graph"
 description: "A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and Lens are creating a decentralized foundation for social media where users own their data and connections."
 category: "Technology Deep Dives"
+
 ---
+
+
 
 For the past fifteen years, our digital identities have been trapped in walled gardens. Your "social graph"—the network of your friends, followers, posts, and interactions—is one of your most valuable digital assets, yet you don't own it. It's owned by platforms like Facebook, Twitter, and TikTok. If you leave the platform, your social graph disappears. If they change their algorithm, your reach vanishes.
 

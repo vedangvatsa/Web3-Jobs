@@ -1,10 +1,15 @@
 ---
+
+
 title: "Solana vs. Ethereum: A Showdown of Developer Activity"
 description: "A comparative analysis of developer activity on Solana and Ethereum. We look at the metrics, the ecosystems, and the underlying trends to see where developers are building."
 image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "two men facing off"
+
 ---
+
+
 
 ## Solana vs. Ethereum: A Showdown of Developer Activity
 

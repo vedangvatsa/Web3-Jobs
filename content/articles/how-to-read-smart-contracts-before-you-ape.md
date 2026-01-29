@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Read Smart Contracts (Before You Ape In)"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "code security audit"
 description: "A practical guide for non-developers on how to perform a basic security check of a Solidity smart contract. Learn to spot common red flags and protect yourself from scams."
 category: "Career Guides"
+
 ---
+
+
 
 In the fast-paced world of Web3, it’s easy to get caught up in the hype. A new NFT project is minting, a new DeFi protocol is offering astronomical yields, and the fear of missing out (FOMO) is palpable. The temptation is to "ape in"—to invest quickly without doing your own research. This is often a recipe for disaster.
 

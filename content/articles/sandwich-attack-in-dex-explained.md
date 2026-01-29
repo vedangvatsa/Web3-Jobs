@@ -1,10 +1,15 @@
 ---
+
+
 title: "Sandwich Attack in DEX Explained"
 description: "Learn how sandwich attacks work on decentralized exchanges (DEXs), how they exploit DeFi traders, and what strategies you can use to protect your trades from this common MEV tactic."
 category: "Educational"
 image: "https://picsum.photos/seed/sandwich/1200/630"
 data-ai-hint: "sandwich attack"
+
 ---
+
+
 
 ## What is a Sandwich Attack in DeFi? A Complete Guide
 
@@ -82,4 +87,3 @@ A: No. You don't lose your principal investment. What you lose is the *value ext
 
 **Q: Why don't DEXs build in protection by default?**
 A: Some are starting to. Protocols like CowSwap use batch auctions to prevent this. However, for a standard AMM like Uniswap, the permissionless nature of the blockchain makes it difficult to prevent MEV at the protocol level without significant architectural trade-offs.
-

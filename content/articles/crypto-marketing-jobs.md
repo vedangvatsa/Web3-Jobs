@@ -1,10 +1,15 @@
 ---
+
+
 title: "Crypto Marketing Jobs: How to Build a Career Promoting Web3 Projects"
 image: "/images/surface-F4ottWBnCpM-unsplash.jpg"
 data-ai-hint: "crypto marketing growth"
 description: "The complete guide to landing a marketing job in Web3. Learn about the different roles, from meme-lord to content strategist, and the skills you need to build a brand in a decentralized world."
 category: "Career Guides"
+
 ---
+
+
 
 Marketing in Web3 is a world away from the paid ad campaigns and SEO battles of Web2. It's a discipline rooted in culture, community, and content, where authenticity reigns supreme and the lines between user, owner, and marketer blur. For marketing professionals, this represents a thrilling new frontier, but it also requires a completely new playbook.
 
@@ -46,4 +51,3 @@ Your resume is secondary. Your "[proof of work](/how-to-build-a-public-on-chain-
 - **Resilience:** The market is volatile, and communities can be demanding. You need thick skin and the ability to navigate chaotic situations with grace.
 
 A career in Web3 marketing is an opportunity to be at the forefront of a cultural and technological shift. It's a chance to build brands that are co-owned by their communities and to write the playbook for the next generation of marketing.
-

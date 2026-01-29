@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Reputation System in Web3"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "person reputation score"
 description: "A Web3 reputation system uses on-chain data to build a trustworthy and portable digital identity. Learn how these systems are enabling new forms of social and financial interaction in the decentralized world."
 category: "Educational"
+
 ---
+
+
 
 In the real world, reputation is one of our most valuable assets. It's the sum of our past actions, our relationships, and the trust we have built with others. In the pseudonymous world of Web3, where users are often known only by a wallet address, building a system for trust and reputation is a critical challenge. A **Web3 reputation system** aims to solve this by creating a way to quantify a user's trustworthiness and expertise based on their verifiable, on-chain history.
 
@@ -35,4 +40,3 @@ Instead of a centralized credit score like FICO, a Web3 reputation score is buil
 -   **Curated Communities:** Access to an exclusive social club or DAO could be granted based on a user's on-chain reputation, rather than just their wealth.
 
 A robust and reliable reputation system is a key missing piece of the Web3 puzzle. By creating a way to establish trust in a pseudonymous environment, it can unlock a new wave of more sophisticated and human-centric applications, from social finance to decentralized labor markets.
-

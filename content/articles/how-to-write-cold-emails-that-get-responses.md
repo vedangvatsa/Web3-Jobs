@@ -1,10 +1,15 @@
 ---
+
+
 title: How to Write Cold Emails That Get Responses
 description: A step-by-step guide to writing effective cold emails. Learn how to craft a compelling subject line, personalize your message, and write a clear call to action that gets replies.
 image: https://picsum.photos/seed/cold-email/1200/630
 category: Career Guides
 data-ai-hint: email marketing
+
 ---
+
+
 
 ## Introduction: The Art and Science of the Cold Email
 
@@ -135,4 +140,3 @@ A3: It is generally best to avoid them in the very first email. Attachments and 
 **Q4: How many follow-up emails are too many?**
 
 A4: A good rule of thumb is to send a total of 3-4 emails (including the initial one) over the course of about two weeks. Any more than that can start to feel like pestering and may harm your reputation.
-

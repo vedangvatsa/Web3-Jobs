@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Avalanche? A Guide to the High-Throughput Blockchain"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "avalanche blockchain network"
 description: "An overview of Avalanche (AVAX), a Layer 1 blockchain known for its unique subnet architecture and high-speed consensus mechanism, designed for DeFi and custom blockchain deployments."
 category: "Technology Deep Dives"
+
 ---
+
+
 
 **Avalanche (AVAX)** is a high-performance, open-source **[Layer 1 blockchain](/what-is-a-layer-1-blockchain)** designed to host a vibrant ecosystem of decentralized applications and enterprise blockchain solutions. Launched in 2020 by Ava Labs, Avalanche's primary focus is on providing near-instant transaction finality and a highly scalable platform for developers.
 
@@ -34,4 +39,3 @@ Perhaps the most powerful feature of Avalanche is its **subnet architecture**. A
 -   **Use Case:** This is ideal for large-scale applications, like Web3 games or enterprise solutions, that require dedicated throughput and do not want to compete for blockspace with other applications on the main C-Chain.
 
 Avalanche offers a compelling and unique vision for a scalable and customizable blockchain future. Its multi-chain architecture and innovative consensus mechanism provide a high-performance platform for DeFi, while its subnet model offers a powerful solution for projects that require their own sovereign, application-specific blockchain.
-

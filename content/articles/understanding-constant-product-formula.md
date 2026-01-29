@@ -1,10 +1,15 @@
 ---
+
+
 title: "Understanding the Constant Product Formula in AMMs"
 description: "A clear and simple guide to the constant product formula (x * y = k), the core mathematical engine that powers decentralized exchanges like Uniswap."
 category: "Educational"
 image: "https://picsum.photos/seed/xyk/1200/630"
 data-ai-hint: "constant product formula"
+
 ---
+
+
 
 ## Understanding the Constant Product Formula (`x * y = k`): The Engine of AMMs
 
@@ -103,4 +108,3 @@ A: No. The formula itself does not account for the network gas fees that a trade
 
 **Q_ Is the price shown on a DEX before a trade the price I will get?**
 A: No. The price displayed is the current spot price before your trade. Your trade will have a price impact, and you will always receive a slightly worse average execution price. For large trades, this difference can be significant.
-

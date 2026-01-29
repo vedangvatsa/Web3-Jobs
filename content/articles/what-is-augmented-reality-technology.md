@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Augmented Reality Technology"
 image: "https://picsum.photos/seed/ar-tech/1200/630"
 description: "An introduction to augmented reality (AR), the technology that overlays digital information onto the real world, and how it differs from virtual reality."
 category: "Educational"
 data-ai-hint: "digital overlay"
+
 ---
+
+
 
 Augmented Reality, or AR, is a technology that enhances the real world by overlaying computer-generated information and digital content on top of it. Unlike [virtual reality (VR)](/understanding-virtual-reality-applications), which creates a completely artificial environment, AR does not replace the user's real-world surroundings. Instead, it adds to them.
 

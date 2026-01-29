@@ -1,10 +1,15 @@
 ---
+
+
 title: "Understanding Natural User Interfaces"
 description: "An introduction to Natural User Interfaces (NUI), exploring how technologies like touch, voice, and gesture are creating more intuitive ways to interact with computers."
 category: "Educational"
 image: "https://picsum.photos/seed/nui/1200/630"
 data-ai-hint: "touch interface"
+
 ---
+
+
 
 A Natural User Interface, or NUI, is a type of interface that is effectively invisible, or becomes invisible with successive learned interactions. Unlike the traditional graphical user interface (GUI) of a computer, which requires you to learn how to use a mouse and keyboard to manipulate abstract concepts like windows and icons, a NUI is designed to be intuitive and to leverage the natural actions we use to interact with the real world.
 

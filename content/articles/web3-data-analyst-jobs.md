@@ -1,9 +1,14 @@
 ---
+
+
 title: "Web3 Data Analyst: The On-Chain Detective"
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1NTE2MTc1N3ww&lib=rb-4.1.0&q=80&w=1080"
 description: "A guide to one of the hottest jobs in crypto. Learn how Web3 data analysts use on-chain data to drive strategy and what skills you need to become an on-chain detective."
 category: "Career Guides"
+
 ---
+
+
 
 In the transparent world of blockchains, every action, every transaction, and every interaction creates a permanent, public data point. This has given rise to a new and powerful discipline: **on-chain analysis**. And at the heart of this discipline is the **Web3 Data Analyst**, a role that is part data scientist, part archaeologist, and part detective.
 
@@ -51,4 +56,3 @@ This role is incredibly accessible, even for those without a formal data science
 5.  **Share Your Work:** Tweet your dashboards and tag the projects you're analyzing. Write a blog post or a Twitter thread explaining the key insights from your analysis. The best analysts build a public reputation for their high-quality work, and projects often hire directly from the community of "Dune wizards."
 
 The Web3 Data Analyst role is a perfect fit for anyone who loves solving puzzles, uncovering hidden patterns, and telling stories with data. It's a career that puts you at the center of the action, providing the critical intelligence that helps projects navigate the complex and exciting world of crypto.
-

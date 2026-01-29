@@ -1,10 +1,15 @@
 ---
+
+
 title: "Jobs AI Cannot Replace in Future"
 image: "https://picsum.photos/seed/ai-proof-jobs/1200/630"
 data-ai-hint: "human creativity art"
 description: "Explore the careers and roles that are most resilient to automation and discover the uniquely human skills that will remain valuable in an AI-driven world."
 category: "Educational"
+
 ---
+
+
 
 With every new wave of technology, from the steam engine to the internet, there's been a predictable cycle of anxiety about job loss. Today, it's artificial intelligence that has everyone talking. While AI is undeniably powerful and will automate many tasks, it's not going to make humans obsolete. The truth is, certain jobs are uniquely suited to human capabilities and are unlikely to be replaced by machines anytime soon.
 

@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Create and Deploy Your First Smart Contract"
 image: "https://images.unsplash.com/photo-1639762681057-408e52192e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGNvbnRyYWN0fGVufDB8fHx8MTc2Mjg1NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
 description: "A beginner-friendly guide to writing, compiling, and deploying a basic smart contract on the Ethereum blockchain using Remix."
 category: "Web3 Technology"
 data-ai-hint: "smart contract deployment"
+
 ---
+
+
 
 Deploying your first smart contract is a rite of passage for any aspiring Web3 developer. It can seem daunting, but with modern tools, it's more accessible than ever. This guide will walk you through the entire process using Remix, a web-based IDE that's perfect for beginners.
 

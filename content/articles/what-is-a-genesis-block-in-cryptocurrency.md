@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Genesis Block in Cryptocurrency"
 image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
 data-ai-hint: "blockchain genesis block"
 description: "The genesis block is the very first block ever created on a blockchain. It is the foundation upon which the entire distributed ledger is built."
 category: "Educational"
+
 ---
+
+
 Every blockchain has a beginning. The **genesis block** is the very first block ever created in a blockchain's history. It is the foundation, Block 0, from which all other blocks are cryptographically linked, forming the chain that makes up the distributed ledger. It is a unique and unchangeable part of any blockchain's history.
 
 ### The Special Properties of the Genesis Block
@@ -34,4 +39,3 @@ The Bitcoin genesis block also contained the first-ever Bitcoin transaction, whi
 -   **A Constant in the Code:** It is a fundamental, unchangeable part of the protocol's software, ensuring that all participants in the network start from the same shared history.
 
 The genesis block is more than just the first entry in a database. It is the Big Bang of a decentralized universe, a permanent and symbolic foundation upon which a new economic and social system is built.
-

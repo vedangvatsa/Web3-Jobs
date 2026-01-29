@@ -1,4 +1,5 @@
 ---
+
 title: "A Guide to Working With Different Personality Types"
 category: "Career Guides"
 date: "2025-09-12"
@@ -6,6 +7,7 @@ description: "Your workplace is filled with diverse personalities. This guide pr
 image: "https://picsum.photos/seed/additivemfg/1200/630"
 data-ai-hint: "team diverse personalities"
 ---
+
 **Related Articles:**
 - [[cross-functional-collaboration-tips]]
 - [[how-to-deal-with-difficult-coworkers]]

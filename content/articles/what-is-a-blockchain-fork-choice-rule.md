@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Blockchain Fork Choice Rule"
 description: "A deep dive into how blockchain networks, from Bitcoin to Ethereum, use fork choice rules to maintain consensus and determine the single valid chain in a distributed system."
 category: "Educational"
 image: "https://picsum.photos/seed/bcrule/1200/630"
 data-ai-hint: "fork choice"
+
 ---
+
+
 
 ## What is a Blockchain Fork Choice Rule? A Complete Guide
 
@@ -94,4 +99,3 @@ A: Through the peer-to-peer network. Nodes are constantly gossiping and sharing 
 
 **Q: Is the longest chain always the one with the most blocks?**
 A: Not necessarily. Some PoW protocols use a measure of "total difficulty" rather than just chain length. A chain might be shorter but have blocks that were harder to find, giving it a higher total difficulty and making it the canonical chain. However, in practice, length is an excellent proxy for accumulated work.
-

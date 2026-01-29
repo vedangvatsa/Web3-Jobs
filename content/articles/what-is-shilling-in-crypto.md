@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Shilling in the Crypto World?"
 image: "/images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg"
 data-ai-hint: "person talking crowd"
 description: "A guide to understanding 'shilling,' the practice of enthusiastically promoting a cryptocurrency or NFT project, and how to spot it."
 category: "Getting Started"
+
 ---
+
+
 
 In the fast-paced and hype-driven world of crypto, you will often hear the term "shilling." Understanding what it means is crucial for navigating the space safely and making informed decisions.
 
@@ -37,4 +42,3 @@ Being able to identify shilling is a critical part of [Doing Your Own Research (
 No. There is a fine line between genuine enthusiasm for a project you believe in and disingenuous shilling. A person who writes a detailed, well-researched analysis of a project, including both its strengths and weaknesses, is not a shill. A person who tweets rocket emojis and vague promises of "100x gains" probably is.
 
 In the decentralized and often anonymous world of Web3, it's essential to be skeptical. Treat every promotion with a healthy dose of caution and always do your own research before investing.
-

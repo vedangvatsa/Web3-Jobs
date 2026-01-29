@@ -1,10 +1,15 @@
 ---
+
+
 title: "Web3Jobs: A New Paradigm for Careers in Crypto"
 description: "An exploration of the Web3 job landscape, known colloquially as 'web3jobs'. Understand the cultural shift, the in-demand roles, and how to build a career in this new paradigm."
 image: "/images/dell-8pb7Hq539Zw-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "man thinking desk"
+
 ---
+
+
 
 ## #web3jobs: More Than a Hashtag, A New Career Paradigm
 

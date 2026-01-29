@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Leave a Job on Good Terms"
 description: "Leaving a job is a significant career move. Learn the essential steps to ensure you depart on positive terms, preserving your reputation and professional network."
 image: "https://picsum.photos/seed/314/1200/630"
 data-ai-hint: "handshake deal"
 category: "Career Guides"
+
 ---
+
+
 
 The way you leave a job can have a lasting impact on your career. Burning bridges can come back to haunt you in unexpected ways, while a graceful exit can strengthen your professional network and even open doors to future opportunities. Leaving on good terms is not just about being polite; it’s a strategic career move.
 

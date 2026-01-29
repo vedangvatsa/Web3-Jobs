@@ -1,4 +1,5 @@
 ---
+
 title: "How to Handle Underperforming Employees Constructively"
 category: "Career Guides"
 date: "2025-09-12"
@@ -6,6 +7,7 @@ description: "Addressing underperformance is a manager's toughest job. This guid
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "difficult conversation meeting"
 ---
+
 **Related Articles:**
 - [[difficult-conversations-at-work-guide]]
 - [[how-to-give-constructive-feedback]]

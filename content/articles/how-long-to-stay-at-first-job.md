@@ -1,10 +1,15 @@
 ---
+
+
 title: "How Long to Stay at First Job"
 image: "https://picsum.photos/seed/stay1/1200/630"
 description: "Navigating the tricky question of how long you should stay at your first job to maximize career growth without looking like a job hopper."
 category: "Career Guides"
 data-ai-hint: "office career"
+
 ---
+
+
 
 Deciding when to leave your first job is one of the most significant early career decisions you’ll make. Stay too long, and you might feel stagnant. Leave too soon, and you risk looking unreliable to future employers. There’s no magic number, but understanding the factors at play can help you make a choice that sets your career on the right trajectory.
 

@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a 'Protocol' in Web3?"
 image: "/images/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
 data-ai-hint: "web3 protocol network"
 description: "A simple explanation of what a 'protocol' means in the context of Web3 and how these open, rule-based systems are the foundational building blocks of the decentralized web."
 category: "Technology Deep Dives"
+
 ---
+
+
 
 In the world of Web3, the word **"protocol"** is used constantly. You'll hear about "lending protocols," "liquid staking protocols," or "decentralized exchange protocols." But what does it actually mean?
 
@@ -32,4 +37,3 @@ Let's take an example:
 4.  **Composability:** Because protocols are open, they can be combined and integrated in novel ways. A lending protocol can be built on top of a decentralized exchange protocol, which in turn relies on a stablecoin protocol. This creates a powerful network effect and accelerates innovation.
 
 When you hear "protocol" in Web3, think of it as a foundational, open-source building block for the new internet. It's a shared, public good rather than a private, proprietary application. This shift from platforms to protocols is the core architectural change that defines the promise of a more open and decentralized digital future.
-

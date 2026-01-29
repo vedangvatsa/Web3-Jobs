@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Get Started as a Web3 Cryptocurrency Venture Capital Analyst"
 image: "/images/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
 data-ai-hint: "venture capital crypto"
 description: "A guide for aspiring crypto investors. Learn what a Web3 VC analyst does, the skills needed to succeed, and how to break into a role at a crypto venture capital fund."
 category: "Career Guides"
+
 ---
+
+
 
 The role of an Investment Analyst at a Web3 venture capital fund is one of the most coveted and intellectually stimulating jobs in the crypto industry. These are the individuals on the front lines, tasked with identifying the most promising founders and protocols that will shape the future of the decentralized internet.
 
@@ -44,4 +49,3 @@ The path to a crypto VC job is rarely straightforward. It's about demonstrating 
 4.  **Network Strategically:** Build relationships with analysts and associates at funds you admire. Don't just ask for a job; ask for feedback on your analysis.
 
 A career as a Web3 Investment Analyst is a demanding but incredibly rewarding path. It's a chance to be at the center of the action, supporting the founders who are building the foundational infrastructure of the next web.
-

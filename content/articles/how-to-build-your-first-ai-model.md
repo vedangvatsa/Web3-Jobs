@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Build Your First AI Model"
 image: "https://picsum.photos/seed/ai-model/1200/630"
 data-ai-hint: "robot building blocks"
 description: "A beginner's, step-by-step guide to building a simple but complete machine learning model using Python. No complex theory, just a practical, hands-on project."
 category: "Educational"
+
 ---
+
+
 
 The idea of "building an AI model" can sound incredibly intimidating. It brings to mind complex mathematics and rooms full of supercomputers. But the reality is, thanks to modern tools, anyone with a basic understanding of programming can build their first machine learning model in an afternoon.
 
@@ -37,4 +42,3 @@ Every supervised machine learning project generally follows these five steps.
 5.  **Evaluate and Predict** Test your model's performance and use it to make new predictions.
 
 Let's go through each step.
-

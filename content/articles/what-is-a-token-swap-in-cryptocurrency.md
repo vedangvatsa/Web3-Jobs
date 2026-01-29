@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Token Swap in Cryptocurrency"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "token swap crypto"
 description: "A token swap, or atomic swap, is the process of exchanging one cryptocurrency for another without the need for a centralized intermediary. It's a cornerstone of DeFi."
 category: "Educational"
+
 ---
+
+
 
 A **token swap** is the process of exchanging one cryptocurrency for another in a peer-to-peer fashion, without needing to go through a centralized exchange. This is one of the most fundamental and common activities in Decentralized Finance (DeFi) and is the primary function of a Decentralized Exchange (DEX). The ability to swap tokens trustlessly is a core building block of the entire Web3 economy.
 
@@ -38,4 +43,3 @@ Atomic swaps are more complex and typically use a mechanism called Hashed Timelo
 ### Why Token Swaps Matter
 
 Token swaps are the lifeblood of DeFi. They provide the liquidity and interoperability that allows the ecosystem to function. They enable users to seamlessly move between different assets, speculate on new projects, and participate in complex yield farming strategies. The ability to swap any token for any other token in a permissionless and decentralized way is a fundamental primitive that unlocks a world of financial innovation.
-

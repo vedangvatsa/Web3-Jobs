@@ -1,10 +1,15 @@
 ---
+
+
 title: "Red Flags to Watch for in Job Interviews"
 description: "A job interview is a two-way street. It's your chance to evaluate the company, too. Learn to spot the red flags that could signal a toxic work environment."
 image: "https://picsum.photos/seed/309/1200/630"
 data-ai-hint: "job interview stress"
 category: "Career Guides"
+
 ---
+
+
 
 A job interview isn't just about a company evaluating you; it’s also your opportunity to evaluate them. It’s easy to get caught up in trying to make a good impression, but it’s crucial to pay attention to the signals the company is sending. Spotting red flags during the interview process can save you from accepting a job that leads to burnout, frustration, and a toxic work environment.
 

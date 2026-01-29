@@ -1,10 +1,15 @@
 ---
+
+
 title: "WAGMI & NGMI: The Rallying Cries of Web3"
 image: "/images/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
 data-ai-hint: "community people together"
 description: "A guide to 'WAGMI' and 'NGMI,' two of the most powerful acronyms in the crypto lexicon that represent the community's belief in the future of Web3."
 category: "Getting Started"
+
 ---
+
+
 
 ## Key Takeaways
 

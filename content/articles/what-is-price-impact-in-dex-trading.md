@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Price Impact in DEX Trading?"
 description: "A clear guide to understanding price impact on decentralized exchanges (DEXs), why it occurs, how it differs from slippage, and how to manage it for better trade execution."
 category: "Educational"
 image: "https://picsum.photos/seed/priceimpact/1200/630"
 data-ai-hint: "price impact"
+
 ---
+
+
 
 ## What is Price Impact in DEX Trading? A Complete Guide
 
@@ -92,4 +97,3 @@ A: No. By definition, price impact is the negative effect your trade has on your
 
 **Q_ How does Concentrated Liquidity (Uniswap v3) affect price impact?**
 A: **[Concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap)** allows liquidity to be much deeper around the current market price. This means that for a given trade size, the price impact can be significantly lower in a v3 pool compared to a v2 pool, provided the trade occurs within the active liquidity range.
-

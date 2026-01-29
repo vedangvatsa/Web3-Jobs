@@ -1,10 +1,15 @@
 ---
+
+
 title: "Core Blockchain Development and Infrastructure"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "blockchain infrastructure core"
 description: "A career guide for engineers who want to build the core infrastructure of Web3. Learn what a blockchain infrastructure engineer does, the skills they need, and the opportunities in this specialized field."
 category: "Educational"
+
 ---
+
+
 
 While dApp and smart contract developers build the applications of Web3, a different class of engineer works at a deeper level, building the very foundations that these applications run on. These are the **Web3 Blockchain Infrastructure Engineers**. This is a highly specialized and deeply technical role focused on building, maintaining, and optimizing the core components of the blockchain ecosystem.
 
@@ -41,4 +46,3 @@ These engineers build the developer-facing tools and APIs that make it easier fo
     -   **Contribute to Open Source:** The core clients for most blockchains are open source. Find a "good first issue" on the GitHub repository of a client like Geth or Prysm and submit a pull request. Contributing to core infrastructure is the ultimate proof of work.
 
 A career as a Web3 Infrastructure Engineer is for those who want to work on the foundational layer of the new internet. It's a challenging but incredibly rewarding path that puts you at the very heart of the Web3 revolution.
-

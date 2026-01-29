@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Cybersecurity in Modern Era"
 description: "An essential overview of cybersecurity in the modern era, covering common threats, key defense principles, and the importance of a security-conscious culture."
 category: "Educational"
 image: "https://picsum.photos/seed/cybersecurity/1200/630"
 data-ai-hint: "cyber security"
+
 ---
+
+
 
 Cybersecurity is the practice of protecting computer systems, networks, and data from digital attacks, damage, or unauthorized access. In our hyper-connected modern era, where everything from our personal photos to critical national infrastructure is online, cybersecurity is no longer just a concern for IT departments; it's a fundamental aspect of personal, corporate, and national security.
 

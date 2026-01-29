@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Write Professional Resume"
 image: "https://picsum.photos/seed/professional-resume/1200/630"
 data-ai-hint: "resume paper document"
 description: "A step-by-step guide on how to write a professional resume that gets noticed by recruiters. Learn how to highlight your skills and achievements effectively."
 category: "Career Guides"
+
 ---
+
+
 
 Your resume is often the first impression a potential employer has of you. In a competitive job market, a well-crafted resume can be the difference between landing an interview and being overlooked. It's more than just a list of your past jobs; it's a marketing document designed to sell your skills and experience.
 

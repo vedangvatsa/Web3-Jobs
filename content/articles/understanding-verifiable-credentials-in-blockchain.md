@@ -1,10 +1,15 @@
 ---
+
+
 title: "Understanding Verifiable Credentials in Blockchain"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "certificate verification blockchain"
 description: "Verifiable Credentials (VCs) are a W3C standard for tamper-proof digital credentials that can be verified on a blockchain. This guide explains how they enable a new model of user-owned, privacy-preserving data."
 category: "Educational"
+
 ---
+
+
 
 In the digital age, our identity is a collection of claims made about us by various authorities. Your government claims you are a citizen. Your university claims you have a degree. Your employer claims you work for them. Today, we prove these claims using physical documents or by logging into siloed, centralized systems. This model is inefficient, insecure, and gives users little control over their own data.
 
@@ -74,4 +79,3 @@ The Verifier learns only the single fact they need to know (that you are over 18
 -   **Revocation:** How does an Issuer revoke a credential that has been lost or was issued in error? Robust and standardized revocation mechanisms are still an active area of development.
 
 Verifiable Credentials are a foundational technology for building a more user-centric internet. They shift the balance of power, moving control of identity away from centralized providers and into the hands of the individual. By enabling a world where claims can be proven without sacrificing privacy, VCs are a critical building block for a more secure, trustworthy, and equitable digital future.
-

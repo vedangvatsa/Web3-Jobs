@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Be a Good Community Moderator"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "team meeting collaboration"
 description: "A deep dive into the most important non-technical role in Web3. Learn what a community manager does, the skills they need, and how to build a career as the heart of a decentralized project."
 category: "Career Guides"
+
 ---
+
+
 
 In the decentralized world of Web3, community is everything. It's the product, the marketing team, the support desk, and the governance body, all rolled into one. At the center of this vital ecosystem stands the Community Manager, or "CM." This isn't just a social media management role; it's a high-stakes, high-impact position that requires a unique blend of empathy, communication skills, and deep protocol knowledge.
 
@@ -58,4 +63,3 @@ The path to becoming a CM often starts with being an active and helpful communit
 The Community Manager role is one of the most challenging but also one of the most rewarding careers in Web3. It's a chance to be at the very heart of a project, building the relationships and the culture that are the ultimate foundation for success in the decentralized world.
 
 Ready to find your community? Explore hundreds of open roles on our [Web3 Job Board](/jobs).
-

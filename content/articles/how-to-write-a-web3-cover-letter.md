@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Write a Web3 Cover Letter That Gets You Hired"
 image: "/images/thisisengineering-83udtzyaTS4-unsplash.jpg"
 data-ai-hint: "writing cover letter"
 description: "A practical guide to writing a compelling cover letter for a Web3 job. Learn how to showcase your passion, your 'proof of work,' and your deep understanding of a project to stand out from the crowd."
 category: "Career Guides"
+
 ---
+
+
 
 In the Web3 job market, your **[resume](/how-to-build-a-web3-resume)** gets you past the first filter, but it's your cover letter that often makes the first real impression. A generic, copy-pasted cover letter is the fastest way to get your application moved to the "no" pile. A thoughtful, well-researched, and crypto-native cover letter, on the other hand, can be the key that unlocks the door to your dream job.
 
@@ -51,4 +56,3 @@ By linking to your "proof of work," you are providing verifiable evidence of you
 -   **Keep it Concise:** Respect the reader's time. Your cover letter should be short and punchy.
 -   **Tailor Every Single Letter:** A generic cover letter is a wasted opportunity. Every single one you send should be customized to the specific project and role.
 -   **Proofread Meticulously:** Typos or grammar mistakes signal a lack of attention to detail, which is a major red flag in the high-stakes world of Web3.
-
