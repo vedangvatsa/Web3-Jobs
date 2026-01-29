@@ -49,20 +49,3 @@ The Web3 PM must focus their strategy on building these non-code-based moats.
 
 Web3 is forcing a radical reimagination of product management. It's a shift from building closed, extractive platforms to cultivating open, value-creating economies. For Product Managers who are excited by systems thinking, economics, and community building, it represents the most challenging and rewarding frontier in technology today.
 
----
-## Frequently Asked Questions
-
-### 1. How is a Web3 Product Manager's role different?
-A **[Web3 PM](/web3-product-manager-jobs)** is fundamentally different because they build for **owners, not just users**. Their roadmap is often influenced by community governance, and they must focus on the health of a decentralized protocol rather than just company revenue.
-
-### 2. What is a "protocol" and how is it different from a "platform"?
-A Web2 "platform" like Facebook is a closed system controlled by a single company. A Web3 "protocol" like Uniswap is a set of open-source rules on a blockchain that anyone can use or build on. The value accrues to the protocol and its token holders, not a centralized company.
-
-### 3. How do Web3 companies make money if their code is open source?
-The protocol itself generates revenue through usage fees (e.g., a fee on every trade). The "business model," or **[tokenomics](/understanding-tokenomics)**, is about designing how that value accrues to the protocol's native token and its holders.
-
-### 4. What is a "moat" in Web3?
-Since code can be easily forked, moats in Web3 are not based on proprietary technology. Instead, they are built on network effects like **deep liquidity** (for DeFi), a **strong brand and community**, and a high number of **integrations** with other protocols.
-
-### 5. What new skills does a PM need for Web3?
-A PM transitioning to Web3 needs to develop a new set of skills. This includes **technical literacy** of blockchain, a deep understanding of **tokenomics and economic incentives**, the ability to analyze **on-chain data**, and exceptional **communication skills** for managing a decentralized community. Our **[Web3 Product Manager Roadmap](/web3-product-manager-roadmap)** provides a full learning guide.

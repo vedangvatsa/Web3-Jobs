@@ -36,21 +36,3 @@ The path to a cryptography R&D role is long and requires deep academic study.
 
 A career in Web3 cryptography is for those who are passionate about solving the hardest problems at the intersection of mathematics and computer science. It's an opportunity to work on foundational
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Cryptographic R&D Engineer in Web3 do?
-A Cryptography R&D Engineer designs and implements the advanced cryptographic protocols that secure blockchains and enable new features like privacy and scalability. This includes working on things like consensus mechanisms and [Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained).
-
-### 2. What skills are required for this career?
-This is a highly academic field. A strong background in advanced mathematics (especially abstract algebra and number theory) and a deep understanding of cryptography are essential. Most professionals in this role have a Master's or PhD in a related field. Proficiency in a low-level language like **Rust** is also critical.
-
-### 3. How is this role different from a Smart Contract Developer?
-A [Smart Contract Developer](/smart-contract-jobs) builds applications *on top of* the blockchain. A Cryptography R&D Engineer builds the blockchain's *foundational cryptographic layer* itself. It's a much more theoretical and low-level role.
-
-### 4. What is a "ZK-Rollup"?
-A [ZK-Rollup](/guide-to-layer-2s) is a Layer 2 scaling solution that uses Zero-Knowledge Proofs to bundle thousands of transactions off-chain and post a single, tiny proof to the main blockchain. Building the proving systems for ZK-Rollups is a primary job for ZK cryptography engineers.
-
-### 5. How can I get started in this field?
-The standard path is through higher education (a PhD or Master's in cryptography or a related field). The best way to prove your skills is to publish academic research and/or contribute to open-source cryptographic libraries on GitHub.

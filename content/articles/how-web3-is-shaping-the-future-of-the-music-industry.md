@@ -65,22 +65,3 @@ The Web3 music revolution is still in its early days and faces significant chall
 
 Despite these challenges, the potential for Web3 to create a more equitable and artist-centric music industry is immense. It's a movement that empowers creators, engages fans on a deeper level, and leverages technology to build a more transparent and efficient economic foundation for music. As the tools and platforms continue to mature, Web3 is set to become an increasingly important part of every artist's career strategy.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a Music NFT?
-A Music NFT is a unique digital token on a blockchain that represents ownership of a piece of music, like a song or an album. It allows artists to sell their work directly to fans and can be programmed to include automatic royalties on secondary sales.
-
-### 2. How do artists make money with Web3?
-Artists can monetize their work directly through the primary sale of Music NFTs. They also earn ongoing revenue through **[NFT royalties](/nft-artist-royalties)**, which are automatically paid out every time their work is resold. Additionally, they can use tokens to crowdfund projects or offer paid, exclusive experiences to their fans.
-
-### 3. What is a Music DAO?
-A Music **[DAO](/what-is-a-dao)** is a "decentralized record label" that is owned and operated by a community of fans. Members can pool their funds to invest in emerging artists and vote on how to support them, sharing in the financial success of the music they help create.
-
-### 4. How does Web3 solve the problem of royalty payments?
-Smart contracts can automate the entire royalty process. When a song is created, the royalty splits between all collaborators (writer, producer, etc.) can be coded into a smart contract. Any revenue generated is then automatically and instantly distributed to the correct wallets, creating a transparent and efficient system.
-
-### 5. What skills are needed for a career in the Web3 music industry?
-The field needs a mix of talent. This includes **[NFT artists](/how-to-become-a-web3-nft-artist)** and musicians, of course, but also **[community managers](/web3-community-manager-career)** to run fan DAOs, **[smart contract developers](/smart-contract-jobs)** to build the platforms, and **[legal experts](/legal-careers-in-web3)** who can navigate the complexities of on-chain IP rights.
-

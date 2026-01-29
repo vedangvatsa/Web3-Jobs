@@ -44,21 +44,3 @@ Every ENS name is itself an **[NFT (Non-Fungible Token)](/what-are-nfts)** that 
 
 ENS is a critical piece of infrastructure for making Web3 more user-friendly. By replacing long, unreadable addresses with simple, memorable names, it makes the entire ecosystem more accessible and less intimidating for new users. It is a simple but profound innovation that is helping to build a more human-readable and usable decentralized internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main purpose of ENS?
-The main purpose of the Ethereum Name Service (ENS) is to map complex, machine-readable identifiers like Ethereum wallet addresses to simple, human-readable names (e.g., converting `0x123...` to `yourname.eth`).
-
-### 2. Is an ENS name the same as a DNS domain name?
-They are conceptually similar, but technically different. DNS is a centralized system for the traditional web. ENS is a decentralized system built on the Ethereum blockchain for the Web3 ecosystem.
-
-### 3. Is my ENS name an NFT?
-Yes. Every `.eth` name is an ERC-721 token, which is a type of NFT. This means you have true ownership of your name and can trade it on NFT marketplaces.
-
-### 4. How do I get an ENS name?
-You can register an available `.eth` name through the official ENS app (`app.ens.domains`) or other ENS-integrated platforms. You will need an Ethereum wallet and some ETH to pay for the registration fee and gas.
-
-### 5. What is the difference between ENS and Unstoppable Domains?
-ENS is the native naming system for the Ethereum ecosystem. **[Unstoppable Domains](/what-is-unstoppable-domains-service)** is a competing service that offers a wider variety of domain endings (like `.crypto`, `.x`, `.wallet`) and does not require renewal fees. ENS is generally more widely integrated within the Ethereum DeFi and dApp ecosystem.

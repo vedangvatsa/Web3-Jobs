@@ -85,9 +85,3 @@ A3: This requires a conversation about expectations. You can proactively communi
 
 A4: This is highly dependent on your company culture. In most modern workplaces, a moderate amount of GIF and emoji usage is welcome and helps build rapport. However, be mindful of your audience. In a formal channel or when communicating with senior leadership, it is best to be more conservative.
 
----
-### Internal Links
-- [Async Communication Skills for Remote Teams](/async-communication-skills-for-remote-teams)
-- [How to Stay Productive Working Remotely](/how-to-stay-productive-working-remotely)
-- [Meeting Etiquette for Remote Workers](/meeting-etiquette-for-remote-workers)
-- [Professional Email Etiquette Rules](/professional-email-etiquette-rules)

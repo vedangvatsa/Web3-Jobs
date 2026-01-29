@@ -39,21 +39,3 @@ For the average user, the transaction hash is your receipt.
 
 Transaction hashing is a simple but profoundly powerful concept. It’s a one-way function that turns arbitrary data into a secure and unique fingerprint, and it's this fundamental building block that allows a decentralized network of strangers to agree on a single, tamper-proof version of history. Without it, the trustless world of Web3 could not exist.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is a transaction hash the same as a private key?
-No, absolutely not. A transaction hash is a public identifier for a transaction, like a receipt number. It is safe to share. A **[private key](/what-is-a-custodial-vs-non-custodial-wallet)** is your secret password that controls your funds and must never be shared with anyone.
-
-### 2. Can two transactions have the same hash?
-Theoretically, it's possible, an event known as a "collision." However, for a secure hash function like SHA-256, the probability of this happening is so infinitesimally small that it is considered computationally impossible for all practical purposes.
-
-### 3. How is a block hash different from a transaction hash?
-A transaction hash is a fingerprint of a single transaction. A block hash is a fingerprint of the entire block, which includes the hashes of all the transactions within it, a timestamp, and, crucially, the hash of the previous block.
-
-### 4. What is hashing used for outside of blockchains?
-Hashing is a fundamental tool in computer science. It's widely used for things like securely storing passwords (websites store a hash of your password, not the password itself), data integrity checks (to ensure a file hasn't been corrupted during download), and in data structures like hash tables for efficient data lookup.
-
-### 5. Why is hashing called a "one-way" function?
-It's called a one-way function because it's easy to compute the output (the hash) from the input

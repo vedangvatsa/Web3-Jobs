@@ -55,7 +55,7 @@ Before diving into the mechanics, understand why mentorship matters:
 - **Institutional Knowledge:** Mentors help you understand the unwritten rules and culture of your organization
 - **Sponsorship:** The best mentors actively advocate for your advancement and opportunities
 
-See also: **[First 90 Days in a New Job Strategy](/content/articles/first-90-days-in-new-job-strategy.md)** – Mentorship is a critical component of successful onboarding.
+See also: **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – Mentorship is a critical component of successful onboarding.
 
 ### Step 1: Identify Potential Mentors
 
@@ -151,7 +151,7 @@ You've secured 20-30 minutes with a potential mentor. Here's how to make it coun
 - Don't extend without permission (they likely have other commitments)
 - End on a high note: "This has been incredibly helpful. Thank you so much for taking the time."
 
-See also: **[Asking Smart Questions as a New Employee](/content/articles/asking-smart-questions-as-new-employee.md)** – Deep dive into asking questions effectively.
+See also: **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** – Deep dive into asking questions effectively.
 
 ### Step 4: Nurture the Relationship
 

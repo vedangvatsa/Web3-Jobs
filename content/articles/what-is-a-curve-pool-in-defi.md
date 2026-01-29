@@ -73,5 +73,3 @@ A: Yes. While impermanent loss is low, the primary risk is smart contract risk a
 **Q: What are Curve V2 pools?**
 A: Curve V2 introduced a new algorithm designed for volatile, uncorrelated assets (like ETH/USDC). It uses a dynamic peg and a form of concentrated liquidity that automatically adjusts, attempting to provide a more efficient trading experience than Uniswap v3 for volatile pairs, but with a more passive LP experience.
 
----
-*Internally, this article links to: `understanding-constant-product-formula`, `stableswap-invariant-explained-for-traders`*

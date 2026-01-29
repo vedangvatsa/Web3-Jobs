@@ -340,11 +340,11 @@ Best mentors are 1-2 steps ahead of you. Find your cohort; level up together.
 
 ### Related Career Guides
 Explore for context and opportunities:
-- [Web3 Jobs in Algeria](/content/articles/web3-jobs-in-algiers.md) — North Africa MENA hub
-- [Web3 Jobs in Morocco](/content/articles/web3-jobs-in-casablanca.md) — Gateway Africa
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
-- [Remote Web3 Careers](/content/articles/remote-web3-careers.md)
-- [DeFi Protocol Engineering](/content/articles/defi-protocol-engineering.md)
+- [Web3 Jobs in Algeria](web3-jobs-in-algiers) — North Africa MENA hub
+- [Web3 Jobs in Morocco](web3-jobs-in-casablanca) — Gateway Africa
+- [Complete Web3 Skills Guide](web3-skills-guide)
+- [Remote Web3 Careers](remote-web3-careers)
+- [DeFi Protocol Engineering](defi-protocol-engineering)
 
 ### Your Next Step: Find a Web3 Job
 

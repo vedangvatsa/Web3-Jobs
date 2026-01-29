@@ -49,21 +49,3 @@ This is one of the most accessible roles for those looking to break into the ind
 
 If you are a clear thinker, a precise writer, and have a passion for making the complex understandable, a career as a technical writer could be your perfect entry point into the world of Web3.
 
----
-
-## Frequently Asked Questions
-
-### 1. Do I need to be a developer to be a Web3 technical writer?
-No, you don't need to be a professional developer, but you absolutely need technical literacy. The ability to read and understand code (especially [Solidity](/solidity-for-beginners)) is crucial for accurately documenting smart contracts and SDKs.
-
-### 2. What's the most important skill for a Web3 technical writer?
-The ability to explain complex topics simply. Your primary job is to be a translator, taking intricate technical concepts and making them understandable to your target audience, whether they are developers or end-users.
-
-### 3. What kind of content does a Web3 technical writer create?
-The role is diverse. It includes creating developer documentation, API references, user-facing tutorials, how-to guides, and in-depth blog posts that explain a protocol's technology or [tokenomics](/understanding-tokenomics).
-
-### 4. How can I build a portfolio with no experience?
-The best way is through "permissionless contribution." Find an open-source project you admire, identify a weakness in their documentation, and write a better version. You can submit this as a suggestion on their GitHub or publish it on your own blog as a portfolio piece. This is your [proof of work](/how-to-build-a-public-on-chain-developer-brand).
-
-### 5. Is technical writing a good entry point into Web3?
-Yes, it's one of the [best non-technical roles for beginners](/best-web3-jobs-for-non-developers). It forces you to learn a protocol at a deep level and allows you to build a public portfolio of work, which often leads directly to job opportunities.

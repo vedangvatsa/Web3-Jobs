@@ -31,21 +31,3 @@ The biggest hurdle is unlearning centralized patterns. In Web3:
 
 Your Web2 experience is a huge asset. By layering on a deep understanding of the Web3 paradigm and its core technologies, you can quickly become a sought-after developer in this fast-growing space.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the biggest mindset shift for a Web2 developer moving to Web3?
-The biggest shift is understanding that your backend (the smart contract) is public, immutable, and adversarial by default. You must adopt a **[security-first mindset](/web3-security-best-practices)** from day one, as bugs can lead to an irreversible loss of user funds.
-
-### 2. What new language do I need to learn?
-For application development on Ethereum and EVM-compatible chains, you will need to learn **[Solidity](/solidity-for-beginners)**. Its syntax is similar to JavaScript and C++, making the transition manageable for experienced developers.
-
-### 3. Can I use my existing frontend skills?
-Yes, absolutely. Your skills in JavaScript/TypeScript and frameworks like React are directly transferable and in high demand. The main new skill to learn is how to use libraries like **Ethers.js** or **Viem** to connect your frontend to a crypto wallet and interact with smart contracts.
-
-### 4. What is a good first project for a Web2 developer?
-A great first project is to build a simple full-stack dApp. For example, create your own ERC-20 token and then build a React frontend that allows a user to connect their wallet and see their token balance. This covers the full lifecycle of a dApp. Our [blockchain developer roadmap](/blockchain-developer-roadmap) has more project ideas.
-
-### 5. How long does the transition take?
-For an experienced Web2 developer, a focused effort of 3-6 months is a realistic timeline to learn the fundamentals, build a few portfolio projects, and become job-ready for an entry-level to mid-level Web3 role.

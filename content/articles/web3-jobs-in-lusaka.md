@@ -346,11 +346,11 @@ Red flags:
 
 ### Related Career Guides
 Explore these for complementary opportunities:
-- [Web3 Jobs in Kampala](/content/articles/web3-jobs-in-kampala.md) — East Africa, mobile-first
-- [Web3 Jobs in Nairobi](/content/articles/web3-jobs-in-nairobi.md) — East Africa hub
-- [AgriTech Web3 Careers](/content/articles/agritech-web3-careers.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
-- [Remote Web3 Careers Guide](/content/articles/remote-web3-careers.md)
+- [Web3 Jobs in Kampala](web3-jobs-in-kampala) — East Africa, mobile-first
+- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi) — East Africa hub
+- [AgriTech Web3 Careers](agritech-web3-careers)
+- [Complete Web3 Skills Guide](web3-skills-guide)
+- [Remote Web3 Careers Guide](remote-web3-careers)
 
 ### Your Next Step: Find a Web3 Job
 

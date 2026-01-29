@@ -48,21 +48,3 @@ Earning a high income in Web3 requires a tolerance for this volatility. You are 
 
 For those who are passionate about the technology, have a long-term conviction, and are comfortable with the risks, the earning potential is unparalleled. It's a unique opportunity to have a direct financial stake in the future of the internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. Do Web3 jobs really pay more than Web2 jobs?
-Yes, on average, [Web3 jobs pay significantly more](/does-web3-pay-well). The combination of a high demand for specialized talent, a massive influx of venture capital, and token-based compensation creates highly competitive salary packages.
-
-### 2. What does a typical Web3 compensation package look like?
-A typical package includes a fiat base salary, a grant of the project's native tokens that vests over time, and sometimes equity in the company. The token portion provides the potential for significant financial upside. Our guide on [Web3 salary negotiation](/web3-career-salary-negotiation) has more details.
-
-### 3. What are "token grants" and how do they work?
-A token grant is an allocation of a project's cryptocurrency given to an employee. These tokens typically "vest" over a period of 4 years with a 1-year cliff, meaning you must stay with the company for at least a year to receive the first portion. This system is designed to [align long-term incentives](/tokenomics-for-compensation).
-
-### 4. What are the highest-paying jobs in Web3?
-The most lucrative roles are typically highly technical and specialized. These include **[Smart Contract Security Auditors](/highest-paying-web3-jobs)**, **Protocol Engineers** (who build the blockchains themselves), and **DeFi Quantitative Analysts**.
-
-### 5. How does a bear market affect Web3 salaries?
-During a bear market, the USD value of token compensation can decrease significantly. However, base salaries often remain competitive, especially at well-funded projects. A downturn can be the [best time to find a quality job](/why-now-is-the-best-time-to-jobseek-in-crypto) as there is less competition for roles.

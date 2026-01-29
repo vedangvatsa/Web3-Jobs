@@ -75,17 +75,3 @@ Once you have developed your skills and built a portfolio, it's time to start jo
 - **Networking:** Join technical writing communities on LinkedIn, Slack, or Discord (like the "Write the Docs" Slack). Engage in conversations, ask for feedback on your portfolio, and look for job postings.
 - **Look for the Right Roles:** Search for titles like "Technical Writer," "Documentation Engineer," or "Developer Advocate." Pay close attention to the required skills in the job description and tailor your application accordingly.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q: Do I need to be an expert coder to be a technical writer for software?**
-A: No. You need to be "code-literate," not a senior engineer. You should be able to read and understand code snippets, run basic commands, and understand the high-level architecture of the system you are documenting. Your value is in your ability to translate the code's functionality into human language.
-
-**Q: How much do technical writers earn?**
-A: Technical writing is a well-compensated field. According to the U.S. Bureau of Labor Statistics, the median pay for technical writers in 2022 was over $80,000 per year. Salaries can be significantly higher in the software industry and for writers with specialized skills (like API documentation).
-
-**Q: What is the career path for a technical writer?**
-A: A technical writer can advance to a Senior Technical Writer, where they take on more complex projects and mentor others. From there, they can move into management as a Documentation Manager, leading a team of writers. Other paths include moving into developer advocacy, product management, or UX writing.
-
-Becoming a technical writer is a journey of continuous learning. By systematically building your skills, creating a strong portfolio, and engaging with the community, you can launch a successful and fulfilling career in this essential and growing field.

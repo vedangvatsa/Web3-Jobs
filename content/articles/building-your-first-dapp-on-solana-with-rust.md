@@ -170,21 +170,3 @@ To run the test, use the command `anchor test`.
 
 This simple example covers the fundamental workflow of building on Solana with Anchor: defining your program's instructions, specifying the required accounts and their constraints, and then testing the interactions from a client. While the learning curve for Rust and the Solana account model can be steep, frameworks like Anchor provide a powerful and much more accessible entry point into this high-performance ecosystem.
 
----
-
-## Frequently Asked Questions
-
-### 1. What programming language is used for Solana development?
-The primary language for developing smart contracts (called "programs") on Solana is **Rust**. This is one of the [top 5 languages for Web3](/top-5-web3-languages) due to its performance and memory safety features.
-
-### 2. How is Solana's architecture different from Ethereum's?
-The main difference is the separation of code and state. In [Ethereum](/what-is-ethereum), a smart contract contains both its logic and its data. In [Solana](/what-is-solana), the program (code) is stateless, and the data is stored in separate accounts that the program interacts with.
-
-### 3. What is the Anchor framework?
-Anchor is a framework that makes it much easier to build on Solana. It provides a Rust DSL (Domain-Specific Language) that abstracts away a lot of the boilerplate and complexity, a CLI for managing projects, and a testing environment.
-
-### 4. What is a Solana "account"?
-In Solana, an "account" is a flexible data container. It can store anything from user balances to the state of a program. Unlike Ethereum accounts, Solana accounts must have their size pre-allocated and rent paid to keep them on the blockchain.
-
-### 5. Why has Solana's developer activity seen a decline?
-Solana's developer activity has faced challenges due to several factors, including the collapse of its major supporter FTX, past network stability issues, and strong competition from EVM-compatible [Layer 2s](/guide-to-layer-2s) that offer an easier development experience for the majority of Web3 builders. You can read more in our [analysis of Solana's developer activity decline](/solanas-developer-activity-decline).

@@ -90,9 +90,3 @@ A3: Technology will eventually fail. The key is to have a backup plan. Have a PD
 
 A4: The Q&A is part of the presentation, so prepare for it just as you would for the main talk. Brainstorm every possible question you might be asked and prepare concise answers. When you get a question, it is okay to pause and think before you answer. Repeat the question back to the audience to ensure you understood it correctly and to give yourself another moment to think.
 
----
-### Internal Links
-- [Public Speaking Tips for Professionals](/public-speaking-tips-for-professionals)
-- [How to Present Ideas to Leadership](/how-to-present-ideas-to-leadership)
-- [Executive Communication Skills Guide](/executive-communication-skills-guide)
-- [How to Build Executive Presence at Work](/how-to-build-executive-presence-at-work)

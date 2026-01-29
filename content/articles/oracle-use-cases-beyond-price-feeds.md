@@ -70,21 +70,3 @@ Oracles can act as "attestation" services, verifying real-world facts that can b
 
 While they often operate in the background, oracles are a critical and dynamic piece of Web3 infrastructure. They are the key that unlocks the full potential of smart contracts, transforming them from simple, self-contained programs into sophisticated applications that can react to the richness and complexity of the real world. As the Web3 ecosystem continues to expand, the demand for more diverse, secure, and creative oracle solutions will only grow, opening up a new frontier of possibilities for what can be built on the blockchain.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a blockchain oracle?
-A blockchain oracle is a service that connects [smart contracts](/what-are-smart-contracts) to real-world, off-chain data. It acts as a secure bridge, allowing dApps to use external information like weather data, sports scores, or financial asset prices. Learn more in our [guide to oracles](/what-are-oracles).
-
-### 2. Why are oracles needed for DeFi price feeds?
-DeFi lending and trading protocols need accurate, real-time price data to function. Oracles provide this data securely, preventing price manipulation attacks and ensuring the solvency of the protocols.
-
-### 3. What is Chainlink VRF?
-Chainlink's Verifiable Randomness Function (VRF) is a specialized oracle service that provides a provably fair and tamper-proof source of randomness to smart contracts. This is crucial for applications like Web3 gaming and NFT mints.
-
-### 4. How do oracles enable Dynamic NFTs?
-A [Dynamic NFT (dNFT)](/creating-dynamic-nfts-a-step-by-step-guide) can change its appearance or attributes based on real-world data. Oracles feed this data to the NFT's smart contract, allowing it to evolve over time.
-
-### 5. What are the career opportunities in the oracle space?
-The oracle sector is a key part of Web3 infrastructure with many roles. Our guide on [careers in Web3 oracles](/exploring-careers-in-web3-oracles-and-data-feeds) covers opportunities for engineers, business development professionals, and product managers.

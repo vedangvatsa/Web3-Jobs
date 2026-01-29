@@ -47,21 +47,3 @@ The open-source nature of much of AI development means that powerful agentic mod
 
 Overcoming these challenges is the central task of AI governance. It will require a multi-pronged approach, including technical research into AI safety, the development of new [governance models like DAOs](/ai-accountability-governance-models), and international cooperation on standards and regulations. The future of agentic AI depends on our ability to solve these problems before the technology outpaces our ability to control it.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is an "agentic AI"?
-An agentic AI, or [autonomous agent](/ai-driven-agency-from-automation-to-autonomy), is a system that can independently set goals and take actions to achieve them. This is a leap from simple automation, which just follows pre-programmed instructions.
-
-### 2. What is the Value Alignment Problem?
-This is the fundamental challenge of ensuring an AI's goals are truly aligned with complex and often nuanced human values. An AI might achieve a stated goal (like "increase profit") in a destructive way that violates unstated values. Building [responsible AI systems](/building-responsible-ai-systems) is key to addressing this.
-
-### 3. Why is governing AI so difficult?
-The main difficulties include unpredictable "emergent behavior," the "black box" nature of complex models (making their reasoning opaque), and ensuring meaningful human control over systems that can act at superhuman speeds.
-
-### 4. How can DAOs be used for AI governance?
-A [Decentralized Autonomous Organization (DAO)](/what-is-a-dao) offers a model for community-led governance. Stakeholders could vote on an AI's rules, parameters, and ethical guidelines, creating a more democratic and transparent form of oversight. This is a key area of research in [AI accountability](/ai-accountability-governance-models).
-
-### 5. What are the risks of AI proliferation?
-The open-source nature of AI means powerful models could become widely available. This creates a risk of malicious actors deploying autonomous agents for harmful purposes, such as coordinating large-scale cyberattacks or creating sophisticated scams.

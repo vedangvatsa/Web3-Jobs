@@ -352,10 +352,10 @@ A: Depends on location:
 - Bankless newsletter
 
 ### Related Career Guides
-- [Web3 Jobs in Brazil](/content/articles/web3-jobs-in-brazil.md) — Technical roles
-- [Web3 Marketing Careers Guide](/content/articles/web3-marketing-careers.md)
-- [Community Manager Career Guide](/content/articles/web3-community-manager.md)
-- [Content Creator Web3 Guide](/content/articles/web3-content-creator.md)
+- [Web3 Jobs in Brazil](web3-jobs-in-brazil) — Technical roles
+- [Web3 Marketing Careers Guide](web3-marketing-careers)
+- [Community Manager Career Guide](web3-community-manager)
+- [Content Creator Web3 Guide](web3-content-creator)
 
 ### Your Next Step: Start Building
 

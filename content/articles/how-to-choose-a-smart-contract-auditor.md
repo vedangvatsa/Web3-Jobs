@@ -56,20 +56,3 @@ To get the most value out of your audit, you must be prepared.
 2.  **Excellent Documentation:** Provide the auditors with comprehensive, up-to-date documentation that explains the architecture and intended behavior of your protocol.
 3.  **Comprehensive Test Suite:** Your own internal testing should be exhaustive. A high test coverage (95%+) is a prerequisite for a good audit.
 
----
-## Frequently Asked Questions
-
-### 1. What is a smart contract security audit?
-A security audit is a deep review of a project's smart contract code by third-party experts. The goal is to find vulnerabilities, logic errors, and economic exploits before the code is deployed and handles real user funds.
-
-### 2. Why is an audit necessary?
-Smart contracts on a blockchain are immutable and often control large amounts of money. A single bug can lead to a catastrophic and irreversible loss of funds. An independent audit is a critical step in mitigating this risk. For more on the skills involved, see our **[Smart Contract Auditor Career Guide](/smart-contract-auditor-career)**.
-
-### 3. What is the difference between a traditional audit firm and a competitive audit platform like Code4rena?
-A traditional firm (like Trail of Bits or OpenZeppelin) assigns a small, dedicated team to review your code. A competitive audit platform (like Code4rena) opens your code up to a large pool of independent researchers who compete for a prize pool by finding bugs. The best practice is often to use both.
-
-### 4. Is an audit a guarantee that a project is safe?
-No. An audit significantly reduces risk, but it is not a guarantee. Even heavily audited protocols have been hacked. Users should always **[do their own research (DYOR)](/what-is-dyor-in-crypto)**.
-
-### 5. How much does a smart contract audit cost?
-The cost varies widely based on the complexity of the code and the reputation of the firm. A simple audit can cost $10,000 - $30,000, while an audit for a complex DeFi protocol from a top-tier firm can easily cost $250,000 - $500,000 or more.

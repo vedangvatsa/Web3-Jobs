@@ -33,21 +33,3 @@ Applying traditional IP law to Web3 is not straightforward. The open-source and 
 
 A career as a Web3 IP expert is for legal professionals who are fascinated by the legal challenges of emerging technologies. It's a chance to be a pioneer, shaping the legal frameworks that will govern the intellectual property of the new internet. For more, see our general guide on [Web3 legal careers](/legal-careers-in-web3).
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Web3 IP Expert do?
-A Web3 IP Expert is a legal professional who specializes in applying patent, trademark, and copyright law to the unique challenges of the blockchain space. They advise on patenting new technologies, NFT licensing, and protecting the brands of decentralized projects.
-
-### 2. Can you patent blockchain technology?
-Yes, many companies are filing patents for their novel blockchain technologies, such as consensus mechanisms or DeFi protocols. However, there is an ongoing debate in the community about whether this practice aligns with the open-source ethos of Web3.
-
-### 3. Who owns the copyright when you buy an NFT?
-This is a complex and critical question. Typically, buying an [NFT](/what-are-nfts) does not automatically grant you the copyright to the underlying artwork. The specific rights are determined by the license agreement attached to the NFT at the time of sale. Web3 IP lawyers are at the forefront of drafting these new types of licenses.
-
-### 4. How can a DAO own a trademark?
-Since a [DAO](/what-is-a-dao) is not always a recognized legal entity, it cannot directly own a trademark. A common solution is for the DAO to create a "legal wrapper," such as a foundation, which can then hold the IP on behalf of the DAO community.
-
-### 5. How do I become a Web3 IP Expert?
-The first step is a strong foundation in traditional IP law, including a law degree and often patent bar admission. After that, you must become deeply crypto-native by using the technology and building a public portfolio of your analysis on Web3 legal issues. For more, see our guide on [how to become a Web3 legal consultant](/how-to-become-a-web3-legal-consultant).

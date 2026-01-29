@@ -60,21 +60,3 @@ Web3 is the architectural and philosophical vision for a decentralized internet.
 
 You cannot have a truly decentralized, secure, and user-owned internet without a native, decentralized form of money to power it. They are inextricably linked, two sides of the same revolutionary coin.
 
----
-
-## Frequently Asked Questions
-
-### 1. Can you have Web3 without cryptocurrency?
-No, not in its true form. The core principles of Web3, such as decentralization and user ownership, are made possible by the economic incentives provided by cryptocurrencies. Without a native crypto asset to reward network participants, a blockchain would need to be centrally controlled.
-
-### 2. What is the difference between a coin and a token?
-A "coin" (like BTC or ETH) is the native currency of a **[Layer 1 blockchain](/what-is-a-layer-1-blockchain)** and is used to pay for transaction fees. A "token" (like UNI or AAVE) is built on top of an existing blockchain (most commonly as an ERC-20 token on Ethereum) and is used within a specific dApp.
-
-### 3. Do I need to buy crypto to use Web3 applications?
-Yes. To perform any action on a blockchain, you need to pay a "gas" fee in the network's native cryptocurrency. However, on **[Layer 2 networks](/guide-to-layer-2s)**, these fees can be a fraction of a cent, making Web3 highly accessible.
-
-### 4. What is the "ownership economy"?
-The ownership economy is a core concept of Web3 where users, creators, and builders are also the owners of the platforms and communities they participate in. This is typically enabled through the distribution of governance tokens or NFTs.
-
-### 5. What is the most important cryptocurrency for Web3?
-While Bitcoin was the first cryptocurrency, **Ethereum (ETH)** is the most important for the Web3 application ecosystem. Its introduction of **[smart contracts](/what-are-smart-contracts)** made it a programmable platform, and the vast majority of dApps, DeFi protocols, and NFTs are built on the Ethereum network.

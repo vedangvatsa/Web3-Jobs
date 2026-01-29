@@ -39,21 +39,3 @@ Once the eligible addresses are identified, the project will either directly "pu
 
 Airdrops are a powerful and uniquely crypto-native strategy for bootstrapping a network. While they are often associated with speculation and "free money," at their best, they are a profound mechanism for rewarding community participation and achieving true, decentralized ownership.
 
----
-
-## Frequently Asked Questions
-
-### 1. How do I find out about new airdrops?
-Following crypto news sites, airdrop-focused accounts on Twitter, and being an active user of new and emerging protocols is the best way to discover potential airdrop opportunities.
-
-### 2. Are airdrops always free?
-Yes, the tokens themselves are distributed for free. However, you will usually need to pay a small gas fee on the blockchain to claim them.
-
-### 3. How do I avoid airdrop scams?
-Always use the official claim link from the project's official Twitter or Discord. Be extremely suspicious of any links sent to you in a DM. Never enter your wallet's seed phrase on any website.
-
-### 4. What is a "sybil attack" in the context of airdrops?
-A sybil attack is when a single person creates hundreds or thousands of fake wallets and performs minimal actions with each one to try and receive the airdrop multiple times. Projects use sophisticated analysis to try and detect and filter out these "airdrop farmers."
-
-### 5. What is a "retroactive" airdrop?
-A retroactive airdrop is the most common type. It rewards users for actions they took in the *past*, before the airdrop was announced. This is designed to reward genuine, early users of a protocol rather than those just seeking free money.

@@ -43,20 +43,3 @@ Today, paper wallets have been largely replaced by hardware wallets like Ledger 
 
 While rarely used now, the paper wallet remains an important part of crypto's history. It represents the earliest attempts to solve the problem of secure self-custody and provides a clear, simple illustration of the fundamental relationship between public and private keys.
 
----
-## Frequently Asked Questions
-
-### 1. Is a paper wallet a form of "cold storage"?
-Yes. A paper wallet is a form of **[cold storage](/hot-wallet-vs-cold-wallet-security-comparison)** because the private keys are generated and stored completely offline, away from any internet connection.
-
-### 2. Are paper wallets safe?
-They are safe from *online* attacks if created correctly. However, they are highly vulnerable to *physical* threats like fire, water damage, or theft. For this reason, modern **[hardware wallets](/understanding-hardware-wallets-for-crypto-security)** are considered a much safer and more robust cold storage solution.
-
-### 3. How do I spend crypto from a paper wallet?
-To spend the funds, you must "sweep" or "import" the private key into a software wallet (a hot wallet). This action exposes the private key to an online device, so it should only be done once, and you should move the entire balance immediately.
-
-### 4. What is an "air-gapped" computer?
-An air-gapped computer is a computer that is physically isolated from any network, including the internet. Generating a paper wallet on such a machine ensures that the private key is never exposed to online threats.
-
-### 5. What's the difference between a paper wallet and a seed phrase?
-A simple paper wallet contains a single private key. A **[seed phrase](/what-is-a-seed-phrase-and-why-it-matters)** is a master key that can be used to generate a nearly infinite number of private keys, forming the basis of modern hierarchical deterministic (HD) wallets. A seed phrase is much more powerful and flexible.

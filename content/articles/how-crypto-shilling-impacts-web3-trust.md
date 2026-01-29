@@ -43,20 +43,3 @@ Combating the negative effects of shilling requires a collective effort from all
 
 The promise of Web3 is to build a more transparent and equitable system. The practice of shilling is in direct opposition to this ethos. By promoting transparency and demanding a higher standard of discourse, the community can work to build a healthier and more trustworthy ecosystem for the next wave of adoption.
 
----
-## Frequently Asked Questions
-
-### 1. What is "shilling" in crypto?
-Shilling is the act of enthusiastically promoting a cryptocurrency or NFT project, often for personal financial gain and without disclosing that incentive. It's a marketing tactic that blurs the line between genuine excitement and paid advertising. Our guide, **["What is Shilling in Crypto?"](/what-is-shilling-in-crypto)**, explains this in detail.
-
-### 2. Is shilling the same as marketing?
-No. Ethical marketing is about communicating a project's genuine value proposition. Shilling is often about creating artificial hype to pump a token's price. The key difference is intent and transparency. A marketer might be paid a salary, which is understood. A shill might be paid in tokens to promote a project to their audience without disclosing the payment.
-
-### 3. How does shilling impact trust?
-It erodes trust by misleading investors, particularly newcomers. When users lose money on projects that were shilled to them, they lose faith not just in the influencer, but often in the entire Web3 space. This is a key challenge for **[Web3 adoption](/why-web3-adoption-is-slow)**.
-
-### 4. What is a "pump and dump" scheme?
-This is the ultimate goal of most shilling. Insiders buy a token cheaply, use shilling and hype to "pump" the price by attracting new buyers, and then "dump" (sell) their holdings on the market, causing the price to crash and leaving the new investors with losses.
-
-### 5. What is the best way to protect myself from shilling?
-The golden rule of crypto: **[DYOR (Do Your Own Research)](/what-is-dyor-in-crypto)**. Be skeptical of hype. Investigate a project's team, technology, and **[tokenomics](/understanding-tokenomics)** for yourself before investing.

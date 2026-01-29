@@ -59,21 +59,3 @@ When analyzing a project, be wary of vesting schedules that are too short or non
 
 Vesting schedules are a cornerstone of good tokenomics. They are a powerful tool for aligning incentives, fostering long-term commitment, and protecting the community from the self-interested actions of early insiders. As an investor or a potential employee, carefully scrutinizing a project's vesting schedule is a crucial part of your due diligence.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a vesting schedule in crypto?
-A vesting schedule is a timeline that dictates when tokens allocated to a project's team members and early investors are "unlocked" and can be sold. It's a mechanism to ensure long-term commitment.
-
-### 2. What is a "cliff" in a vesting schedule?
-A cliff is an initial period (commonly 1 year) during which no tokens are vested. If an employee leaves before the cliff, they receive none of their allocated tokens. Learn more in our detailed guide on the **[cliff period](/what-is-a-cliff-period-in-token-vesting)**.
-
-### 3. What is a typical vesting schedule for a Web3 startup?
-A standard schedule for team and investor tokens is a **4-year vesting period with a 1-year cliff**. This means 25% of the tokens unlock on the first anniversary, and the rest unlock linearly over the following 3 years.
-
-### 4. Why is a vesting schedule important for tokenomics?
-It's crucial for aligning incentives. It ensures that the core team and early investors are motivated to build for the long term, as they cannot simply sell all their tokens and abandon the project right after launch. It's a key part of **[tokenomics for compensation](/tokenomics-for-compensation)**.
-
-### 5. Where can I find information about a project's vesting schedule?
-This information should be publicly available in the project's **[whitepaper](/what-is-a-whitepaper-in-blockchain-projects)** or on its official website. If it's not disclosed, that is a major red flag.

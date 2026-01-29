@@ -59,7 +59,7 @@ Before we dive into tactics, understand why this matters beyond just "being nice
 
 Bad relationships, conversely, create toxicity, miscommunication, and stunted career growth. Building relationships is a strategic career move, not just a nice thing to do.
 
-See also: **[How to Find a Mentor at a New Company](/content/articles/how-to-find-mentor-at-new-company.md)** – The first relationship you should build.
+See also: **[How to Find a Mentor at a New Company](how-to-find-mentor-at-new-company)** – The first relationship you should build.
 
 ### 1. The Initial Introduction: Structure Matters
 
@@ -220,7 +220,7 @@ Feedback is the lifeblood of strong working relationships. How you handle it (bo
 - You build trust by proving you'll actually change
 - Colleagues feel safe giving you honest feedback
 
-See also: **[How to Build Executive Presence at Work](/content/articles/how-to-build-executive-presence-at-work.md)** – Feedback is central to executive development.
+See also: **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)** – Feedback is central to executive development.
 
 ### 7. Find and Highlight Shared Values
 

@@ -119,9 +119,3 @@ A3: Stay calm and do not get defensive. Acknowledge their point and respond with
 
 A4: This depends on the company culture. Some leaders prefer to pre-read materials. If you do send them, consider sending a "pre-read" version that has more text and context, and then use a more visual, stripped-down version for the actual presentation. This caters to different communication styles.
 
----
-### Internal Links
-- [How to Influence Without Authority](/how-to-influence-without-authority)
-- [Executive Communication Skills Guide](/executive-communication-skills-guide)
-- [Managing Up Strategies for Success](/managing-up-strategies-for-success)
-- [Public Speaking Tips for Professionals](/public-speaking-tips-for-professionals)

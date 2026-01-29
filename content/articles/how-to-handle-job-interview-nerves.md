@@ -109,26 +109,3 @@ Remember, feeling nervous before an interview is a sign that you care about the 
 
 By investing time in deep preparation, developing a calming pre-interview routine, and equipping yourself with in-the-moment coping strategies, you can transform that nervous energy. Instead of letting it sabotage your performance, you can channel it into the focus, passion, and enthusiasm that will leave a lasting, positive impression on your potential employer.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: What if my mind goes completely blank on a question?**
-
-**A:** It happens to everyone. The key is not to panic. Take a deep breath and use a filler phrase to buy time, such as, "That's an interesting question, could you give me a moment to consider it?" You can also ask a clarifying question to get more context. If you truly can't think of a direct answer, try to connect the question to a related experience you *can* talk about, saying something like, "While I haven't faced that exact situation, it reminds me of a time when..."
-
-**Q2: How can I stop my voice from shaking?**
-
-**A:** A shaky voice is often caused by shallow breathing and muscle tension. Before you speak, take a quiet, deep breath into your belly. Speak a little more slowly and deliberately than you normally would. Pausing between sentences can help you regulate your breath and control the pace. Also, ensure you are well-hydrated.
-
-**Q3: Is it okay to admit that I'm nervous?**
-
-**A:** Generally, it's best to avoid this unless the nerves are overwhelmingly obvious and impacting your ability to function. Instead of saying "I'm so nervous," which can sound like an excuse, you could say something like, "I'm just very excited about this opportunity." This reframes the energy positively. Most interviewers are human and expect a certain level of nerves; they are more interested in how you handle the pressure.
-
-**Q4: How do I handle sweaty palms?**
-
-**A:** This is a very common physical symptom of anxiety. If you're in a virtual interview, it's less of an issue. For in-person interviews, discretely wipe your palm on your trousers or skirt before a handshake. You can also keep a tissue or handkerchief in your pocket. Running your hands under cold water before you enter the building can also help temporarily.
-
-**Q5: Will practicing my answers make me sound robotic?**
-
-**A:** There's a difference between memorizing answers and practicing talking points. You should never memorize a script. Instead, use the STAR method to structure the key points of your stories. Practice telling these stories in different ways. The goal of practice is not to have a perfect script but to be so familiar with your own experiences that you can comfortably and flexibly talk about them in response to a variety of questions. This familiarity is what leads to a natural, confident delivery.

@@ -80,21 +80,3 @@ Choosing a country to base your Web3 career or company in is a complex decision 
   </CardContent>
 </Card>
 
----
-
-## Frequently Asked Questions
-
-### 1. What makes a country "crypto-friendly"?
-Key factors include clear and supportive **regulations**, favorable **tax policies** (like low or no capital gains tax on crypto), a business-friendly environment for startups, and a strong local ecosystem of builders and investors.
-
-### 2. Which country is best for zero crypto tax?
-The **United Arab Emirates (UAE)** offers zero personal income tax, making it a top destination. Portugal has also been famous for its favorable tax treatment of crypto for individuals, though laws are subject to change.
-
-### 3. I'm a digital nomad. What's the best country for me?
-Countries like **Portugal**, **Georgia**, and **El Salvador** are very popular with digital nomads due to their favorable tax laws, low cost of living, and welcoming communities. Many countries now offer specific **[digital nomad visas](/digital-nomad-visas)**.
-
-### 4. What about the United States?
-The **[USA](/web3-jobs-in-usa)** is a major hub for Web3 innovation and capital, but its regulatory environment is complex and less clear than in other jurisdictions. It also has high taxes. It's a great place to build a company but may be less attractive for individual investors or traders.
-
-### 5. Why is regulatory clarity so important?
-**[Regulatory uncertainty](/web3-jobs-and-regulatory-unknown)** is a major risk for Web3 companies. A country with clear rules provides a stable environment for businesses to operate, invest, and hire for the long term, which is crucial for the health of the ecosystem.

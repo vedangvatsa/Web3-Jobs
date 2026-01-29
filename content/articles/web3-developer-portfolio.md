@@ -70,21 +70,3 @@ Follow this progression to build your skills and your portfolio from the ground 
 
 Your portfolio is a living document that tells the story of your journey as a Web3 developer. By building these projects, you're not just learning to code; you're creating the evidence that will unlock your first (or next) job in this exciting industry. Start building today.
 
----
-
-## Frequently Asked Questions
-
-### 1. Why is a portfolio so important for a Web3 developer?
-In Web3, "proof of work" is everything. A strong portfolio on GitHub is the most direct way to prove your skills to a hiring manager, and it's often valued more highly than a traditional resume. It's a key part of **[building your on-chain brand](/how-to-build-a-public-on-chain-developer-brand)**.
-
-### 2. What are the essential projects for a beginner's portfolio?
-A great starting portfolio includes: an **ERC-20 token**, an **[NFT](/what-are-nfts) collection**, and a simple **DeFi staking dApp**. These projects cover the foundational standards and concepts of Web3 development.
-
-### 3. How important are tests in my portfolio projects?
-Extremely important. A comprehensive test suite for your smart contracts signals professionalism and a strong **[security mindset](/web3-security-best-practices)**. Many recruiters will look at your tests before they look at your contract code.
-
-### 4. How can I make my portfolio stand out?
-Go beyond tutorials. Build a more complex capstone project like a simple DAO or an auction contract. The most powerful way to stand out is to make a meaningful contribution to a well-known, open-source Web3 project.
-
-### 5. I have my portfolio, how should I present it?
-Create a simple, clean personal website that acts as a central hub for your work. On your resume, feature a "Portfolio" section at the top with a link to this website and your GitHub. Our guide on **[how to present your portfolio](/how-to-present-your-web3-portfolio-to-get-noticed)** has more detailed tips.

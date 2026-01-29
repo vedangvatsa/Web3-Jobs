@@ -34,20 +34,3 @@ While some rug pulls are sophisticated, many have common warning signs. Learning
 
 Rug pulls are a harsh reality of the Web3 world. They prey on greed and the fear of missing out. By remaining skeptical, checking for these fundamental red flags, and investing only what you can afford to lose, you can protect yourself from these malicious scams.
 
----
-## Frequently Asked Questions
-
-### 1. What is a rug pull?
-A rug pull is a type of exit scam where the developers of a cryptocurrency project abandon it and run away with investors' funds by draining the liquidity pool on a decentralized exchange.
-
-### 2. How can I tell if a project's liquidity is locked?
-You can use a block explorer like Etherscan to check. Legitimate projects will often provide a link to the transaction showing their Liquidity Provider (LP) tokens being sent to a time-locking smart contract. There are also third-party tools that can help verify this.
-
-### 3. Is an audit a guarantee that a project is not a rug pull?
-No. A security audit checks the smart contract code for vulnerabilities; it does not verify the intentions of the development team. A project can have perfectly audited code and still be a rug pull if the founders are malicious.
-
-### 4. What's the difference between a rug pull and a honeypot?
-In a **rug pull**, the developers remove the liquidity, making the token untradable and worthless. In a **[honeypot](/what-is-a-honeypot-scam-in-crypto)**, the smart contract itself is coded to prevent you from selling the token, effectively trapping your funds.
-
-### 5. Can I get my money back after a rug pull?
-Almost never. Because blockchain transactions are irreversible and the scammers are often anonymous, there is typically no recourse to recover stolen funds. This is why prevention and research are so important.

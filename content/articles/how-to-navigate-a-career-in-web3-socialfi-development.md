@@ -32,21 +32,3 @@ A SocialFi developer builds the protocols and applications that power decentrali
 
 A career in SocialFi is for developers who are passionate about building more open and equitable social systems. It's a chance to work at the intersection of cutting-edge technology and human-centered design, building the platforms that will define how we connect in the decentralized future.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is SocialFi?
-SocialFi is a new sector in Web3 that combines **social media** and **decentralized finance**. It aims to create decentralized social networks where users own their data and are rewarded for their content and engagement. For a full overview, see our guide "[What is SocialFi?](/what-is-socialfi)".
-
-### 2. What does a SocialFi developer do?
-A SocialFi developer builds the protocols and applications for decentralized social media. This can involve designing the core on-chain social graph (using smart contracts) or building the user-facing client applications (similar to a Twitter app) that interact with the protocol.
-
-### 3. What are the main SocialFi protocols?
-The two leading protocols are **Farcaster** and **Lens Protocol**. They provide the open, underlying social graph that allows any developer to build their own client or social application on top. Understanding their different architectures is key to understanding the [Web3 social graph](/web3-social-graph-explained).
-
-### 4. What are the biggest technical challenges in SocialFi?
-The main challenges are **scalability** (handling a high volume of social interactions cheaply), designing a **hybrid on-chain/off-chain data model**, and building robust, **decentralized identity** systems that are resistant to bots and sybil attacks.
-
-### 5. How can I start a career in SocialFi development?
-The best way is to become an active user of platforms like Farcaster and Lens. Then, use their open APIs to build a simple client application as a portfolio project. Contributing to the open-source codebase of these protocols is also a powerful way to get noticed.

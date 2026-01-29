@@ -45,21 +45,3 @@ This is a highly specialized and in-demand role that requires a unique T-shaped 
 
 The role of the tokenomics designer is one of the most challenging and impactful in all of Web3. It's a chance to be an architect of new digital economies, shaping the incentives that will govern the future of the internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a Tokenomics Designer?
-A Tokenomics Designer is a specialist who architects the economic system of a Web3 protocol. They use principles from economics, game theory, and finance to design the rules and incentives that govern a project's native cryptocurrency.
-
-### 2. Why is tokenomics so important?
-Good **[tokenomics](/understanding-tokenomics)** creates a sustainable economic model that aligns the incentives of all participants (users, developers, investors). Bad tokenomics can lead to hyperinflation, centralization, or a "death spiral."
-
-### 3. What skills does a Tokenomics Designer need?
-This is a hybrid role requiring a deep understanding of **economics and game theory**, strong **financial modeling** skills, and a broad knowledge of the Web3 ecosystem, including the technical constraints of smart contracts.
-
-### 4. What does "value accrual" mean in tokenomics?
-Value accrual refers to the specific mechanisms by which a protocol's revenue or success translates into value for the token holders. This could be through fee-sharing, token buybacks and burns, or other methods.
-
-### 5. How can I start a career in tokenomics?
-The best way is to build a public portfolio of your work. Start by writing detailed analyses and critiques of existing protocols' token models. Then, try to design and model your own for a hypothetical project. This public "proof of work" is your best resume.

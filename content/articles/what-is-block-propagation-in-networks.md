@@ -97,5 +97,3 @@ A: This is configurable, but a standard Bitcoin or Ethereum node will typically 
 **Q: Can block propagation be attacked?**
 A: Yes. An attacker could try to launch an "eclipse attack," where they surround a specific node with malicious peers, feeding it false information and isolating it from the true state of the network. Nodes have built-in defenses to make such attacks difficult, such as randomizing peer connections.
 
----
-*Internally, this article links to: `double-spending-problem-in-cryptocurrency`, `what-is-a-blockchain-fork-choice-rule`*

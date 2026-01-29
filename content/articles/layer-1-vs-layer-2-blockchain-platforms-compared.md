@@ -59,21 +59,3 @@ The rise of L2s has led to a "modular blockchain" thesis, where the different fu
 
 Layer 1 and Layer 2 platforms are not competitors; they are partners in a symbiotic relationship. L1s provide the foundational security and decentralization, while L2s provide the scalability needed for mainstream adoption. By moving the bulk of computation to L2s, the entire ecosystem can scale to handle billions of users without compromising the core principles of decentralization that make Web3 so powerful. For developers and users, the future is clear: the majority of activity will happen on Layer 2s, all anchored to the security of a robust and decentralized Layer 1.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is Ethereum an L1 or L2?
-Ethereum is the canonical **[Layer 1 (L1)](/what-is-a-layer-1-blockchain)** smart contract platform. It provides the security and settlement for a vast ecosystem of Layer 2s built on top of it.
-
-### 2. Is Polygon a Layer 2?
-This is a common point of confusion. The main Polygon network, **Polygon PoS**, is technically a **[sidechain](/sidechains-vs-layer-2s)**, not a true L2, because it has its own validator set and is responsible for its own security. However, the Polygon team is also building several other scaling solutions, including Polygon zkEVM, which is a true **[Layer 2 ZK-Rollup](/guide-to-layer-2s)**.
-
-### 3. What is a "rollup"?
-A rollup is the primary technology used by L2s. It involves "rolling up" thousands of off-chain transactions into a single batch and posting a compressed version of that data to the L1. There are two main types: **[Optimistic Rollups and ZK-Rollups](/guide-to-layer-2s)**.
-
-### 4. Which is better, L1 or L2?
-They serve different purposes. L1s are for security and settlement. L2s are for execution and scalability. For most application developers and users, interacting on an L2 is the better choice because of the low fees and fast speeds.
-
-### 5. What are the career opportunities in L1 vs. L2 development?
-Working on an L1 protocol (e.g., as a **[core developer](/core-blockchain-development-and-infrastructure)** for Ethereum or Solana) is a deep, systems-level engineering role requiring expertise in languages like Rust or Go. Building on an L2 is more accessible for application developers using

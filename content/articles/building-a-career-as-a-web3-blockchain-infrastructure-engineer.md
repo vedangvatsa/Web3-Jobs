@@ -42,21 +42,3 @@ These engineers build the developer-facing tools and APIs that make it easier fo
 
 A career as a Web3 Infrastructure Engineer is for those who want to work on the foundational layer of the new internet. It's a challenging but incredibly rewarding path that puts you at the very heart of the Web3 revolution.
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Blockchain Infrastructure Engineer do?
-An infrastructure engineer builds and maintains the core components of the Web3 ecosystem. This can include working on the [Layer 1 blockchain](/what-is-a-layer-1-blockchain) client itself (Protocol Engineering), managing fleets of nodes (DevOps), or building APIs and tools for other developers.
-
-### 2. What skills are required for this role?
-This is a deeply technical role. A strong computer science background is essential, along with expertise in a systems language like **Rust** or **Go**. For DevOps roles, skills in **Kubernetes**, **Terraform**, and cloud platforms are critical.
-
-### 3. What is a "Protocol Engineer"?
-A Protocol Engineer is a type of infrastructure engineer who works on the core code of a blockchain protocol, such as Go-Ethereum (Geth) or a [Layer 2 solution](/guide-to-layer-2s). This is one of the most challenging and highest-paying roles in Web3.
-
-### 4. How is this different from a Smart Contract Developer?
-A [Smart Contract Developer](/smart-contract-jobs) builds applications *on top of* the blockchain. An Infrastructure Engineer builds the blockchain *itself* and the surrounding tools. It's the difference between building a website and building the web browser and servers that the website runs on.
-
-### 5. How can I get experience in this field?
-The best way to get started is by contributing to open-source projects. Pick a major blockchain client on GitHub, find a small issue, and submit a pull request. Running your own validator node on a testnet is also an excellent hands-on learning experience.

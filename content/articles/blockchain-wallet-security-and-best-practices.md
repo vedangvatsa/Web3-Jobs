@@ -62,21 +62,3 @@ Cold wallets, also known as hardware wallets, are physical devices that store yo
 
 Navigating Web3 securely requires a shift in mindset. You must adopt a healthy level of skepticism and diligence. By understanding the tools at your disposal and adopting simple but effective security habits, you can protect yourself from the vast majority of threats and confidently explore the exciting world of decentralized applications.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a seed phrase and why is it so important?
-A seed phrase is a list of 12-24 words that acts as the master key to your crypto wallet. Anyone with your seed phrase can access your funds. It is critical to store it securely offline and never share it.
-
-### 2. What is the difference between a hot wallet and a cold wallet?
-A **hot wallet** (like MetaMask) is software connected to the internet, making it convenient but vulnerable. A **cold wallet** (like a Ledger or Trezor) is a physical hardware device that stores your keys offline, providing the highest level of security.
-
-### 3. What is the single best thing I can do to secure my crypto?
-Use a **hardware wallet** for the majority of your assets. This keeps your private keys completely offline and safe from online threats.
-
-### 4. What is a phishing attack in crypto?
-A phishing attack is when a scammer tricks you into visiting a fake website that looks like a legitimate dApp. They then trick you into signing a malicious transaction that drains your wallet.
-
-### 5. What are smart contract approvals?
-When you use a dApp, you often give its **[smart contract](/what-are-smart-contracts)** "approval" to spend your tokens. It's a good security practice to periodically use a tool like Revoke.cash to

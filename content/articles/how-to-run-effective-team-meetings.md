@@ -118,9 +118,3 @@ A3: A brainstorming meeting requires a different structure. Start by clearly def
 
 A4: This is often a sign that you have not created a culture where pre-reading is expected. You need to lead by example. Start the meeting by saying, "As you all saw in the agenda I sent out yesterday..." This subtly reinforces the expectation. If it continues to be a problem, you may need to have a private conversation with the individuals who are consistently unprepared.
 
----
-### Internal Links
-- [Meeting Etiquette for Remote Workers](/meeting-etiquette-for-remote-workers)
-- [How to Delegate Tasks Effectively](/how-to-delegate-tasks-effectively)
-- [Slack Communication Best Practices](/slack-communication-best-practices)
-- [How to Conduct Effective One on Ones](/how-to-conduct-effective-one-on-ones)

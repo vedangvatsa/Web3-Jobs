@@ -106,9 +106,3 @@ A3: Focus on the strategies that play to your strengths. You might do fewer coff
 
 A4: First, do not get discouraged. A response rate of 5-10% is considered very good for cold outreach. If your response rate is lower than that, it is a sign that you need to refine your approach. Are you targeting the right people? Is your subject line compelling? Is your opening line personalized enough? Is your "ask" too big? Continuously test and iterate on your emails.
 
----
-### Internal Links
-- [Networking Strategies for Introverts](/networking-strategies-for-introverts)
-- [How to Write Cold Emails That Get Responses](/how-to-write-cold-emails-that-get-responses)
-- [Coffee Chat Etiquette for Professionals](/coffee-chat-etiquette-for-professionals)
-- [How to Build Executive Presence at Work](/how-to-build-executive-presence-at-work)

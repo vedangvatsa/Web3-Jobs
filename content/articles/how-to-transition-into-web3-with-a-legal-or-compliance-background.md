@@ -46,21 +46,3 @@ If you have a background in law or compliance, here's how you can pivot to Web3.
 
 For professionals who are intellectually curious and comfortable with navigating uncharted territory, a career in Web3 law and compliance offers the chance to be a foundational architect of the new digital economy.
 
----
-
-## Frequently Asked Questions
-
-### 1. What are the main legal areas in Web3?
-The most in-demand specialties are **securities law** (analyzing if a token is a security), **DAO legal structuring**, **AML/sanctions compliance**, and **intellectual property** for NFTs. You can explore these further in our guide to [legal careers in Web3](/legal-careers-in-web3).
-
-### 2. Do I need to be a crypto expert to start?
-No, but you must be willing to learn deeply. The first step is to become a user of the technology—use a wallet, interact with a DeFi protocol, and join a DAO. You cannot advise on a system you don't understand from a user's perspective.
-
-### 3. What is a "DAO legal wrapper"?
-A DAO itself is often not a recognized legal entity. A "legal wrapper" is a traditional legal structure (like a foundation or LLC) that a [DAO](/what-is-a-dao) creates to interact with the real world (e.g., sign contracts) and, crucially, to provide liability protection for its members.
-
-### 4. How can I build experience in Web3 law?
-The best way is to build a public portfolio. Start a blog or a professional Twitter account where you publish your analysis of the latest regulatory developments, court cases, or the legal challenges of new protocols. This "proof of knowledge" is your best resume.
-
-### 5. What does a [Web3 Compliance Officer](/exploring-career-paths-for-web3-compliance-officers) do?
-They focus on ensuring a project complies with financial regulations, primarily Anti-Money Laundering (AML) and sanctions laws. This involves implementing transaction monitoring systems (often with tools like Chainalysis) and developing KYC/AML programs.

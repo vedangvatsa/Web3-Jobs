@@ -331,9 +331,9 @@ A:
 - Paradigm research
 
 ### Related Career Guides
-- [Web3 Jobs in Casablanca](/content/articles/web3-jobs-in-casablanca.md) — Business hub
-- [Crypto Policy & Regulation Career Guide](/content/articles/crypto-policy-careers.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Web3 Jobs in Casablanca](web3-jobs-in-casablanca) — Business hub
+- [Crypto Policy & Regulation Career Guide](crypto-policy-careers)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step: Find a Web3 Job
 

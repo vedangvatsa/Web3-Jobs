@@ -49,21 +49,3 @@ Let's look at the example of Ethereum:
 
 Slashing is a fundamentally different type of penalty than what exists in traditional systems. It is automated, immediate, and enforced by code, not by a court or a regulator. There is no appeals process. The cryptographic proof of the offense is absolute, and the penalty is executed automatically by the protocol. This removes human bias and makes the system's security guarantees much stronger.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is slashing in crypto?
-Slashing is a penalty mechanism in Proof-of-Stake (PoS) blockchains where a portion of a validator's staked cryptocurrency is destroyed as a punishment for malicious behavior, such as double signing a block.
-
-### 2. Is going offline a slashable offense?
-No. In most PoS systems, including Ethereum, simply being offline and missing duties will result in a small, continuous penalty (leaking), but it will not trigger a slash. Slashing is reserved for provably malicious actions.
-
-### 3. What is the purpose of slashing?
-Slashing is the primary mechanism that ensures the security of a PoS network. It makes attacks incredibly expensive, as an attacker would need to risk losing a massive amount of capital (their stake) to try and compromise the chain.
-
-### 4. If I delegate my stake, can I be slashed?
-Yes. When you delegate your tokens to a validator or use a liquid staking service, your investment is subject to the performance of those validators. If they get slashed, the value of your staked position will also be reduced proportionally. This is why choosing a reputable staking provider is crucial.
-
-### 5. Can a slashing penalty be reversed?
-No. Slashing is enforced by the smart contracts of the protocol and is irreversible. Once the tokens are burned, they are permanently removed from circulation.

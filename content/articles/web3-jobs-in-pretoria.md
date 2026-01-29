@@ -361,11 +361,11 @@ A:
 - Paradigm research
 
 ### Related Career Guides
-- [Web3 Jobs in Johannesburg](/content/articles/web3-jobs-in-johannesburg.md) — Finance hub
-- [Web3 Jobs in Cape Town](/content/articles/web3-jobs-in-cape-town.md) — Tech hub
-- [Crypto Policy & Regulation Career Guide](/content/articles/crypto-policy-careers.md)
-- [Enterprise Blockchain Engineer Career Guide](/content/articles/enterprise-blockchain-careers.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Web3 Jobs in Johannesburg](web3-jobs-in-johannesburg) — Finance hub
+- [Web3 Jobs in Cape Town](web3-jobs-in-cape-town) — Tech hub
+- [Crypto Policy & Regulation Career Guide](crypto-policy-careers)
+- [Enterprise Blockchain Engineer Career Guide](enterprise-blockchain-careers)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step: Find a Web3 Job
 

@@ -40,21 +40,3 @@ A reliable list of unique humans unlocks a host of powerful new applications:
 
 Proof of Humanity is a bold and fascinating experiment in decentralized identity. It's an attempt to solve one of the hardest problems in the space—sybil resistance—by creating a system that is part social network, part decentralized court, and part economic game. While it is not without its challenges, it offers a glimpse into a future where our digital identities are not just self-sovereign, but also verifiably human.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main purpose of Proof of Humanity?
-The main purpose is to create a sybil-resistant list of unique humans on the blockchain. This helps to solve the "one person, one identity" problem, which is crucial for applications like fair voting and Universal Basic Income (UBI).
-
-### 2. How does Proof of Humanity verify that someone is a unique human?
-It uses a combination of methods: a video submission where the person speaks a specific phrase, a deposit of ETH to discourage spam, and a "web of trust" where existing registered members must vouch for new applicants.
-
-### 3. What is a "sybil attack"?
-A sybil attack is when a single person creates many fake accounts or identities to gain a disproportionate influence in a network. Proof of Humanity is designed to prevent this.
-
-### 4. What is the UBI token?
-The UBI token is the native token of the Universal Basic Income project, which is built on top of Proof of Humanity. It is periodically airdropped to every human registered on the PoH list.
-
-### 5. What are the privacy concerns with Proof of Humanity?
-The main privacy concern is that the registry, including the profile videos, is public on the blockchain. This means anyone can see who is on the list, which is a trade-off some users may not be comfortable with.

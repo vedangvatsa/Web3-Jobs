@@ -64,21 +64,3 @@ A consortium blockchain is a hybrid of the public and private models. It is gove
 
 The choice between a public, private, or consortium blockchain depends entirely on the use case and the goals of the application. Public blockchains provide the foundation for a truly open and censorship-resistant **[Web3](/what-is-web3)**. Private and consortium blockchains, on the other hand, offer a pragmatic way for enterprises to leverage the efficiency and transparency of blockchain technology in a more controlled, private environment. Each model has its own trade-offs, and understanding them is key to seeing the full spectrum of blockchain's potential.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is a private blockchain really a "blockchain"?
-This is a point of philosophical debate. While it uses the same cryptographic data structure (a chain of blocks), it lacks the key property of decentralization, which many consider to be the defining feature of a true blockchain. It's more accurately described as a centralized, distributed ledger.
-
-### 2. Why would a company use a private blockchain instead of a traditional database?
-A private blockchain still offers the benefit of **immutability** and **auditability**. It creates a tamper-proof record of transactions that can be shared between different departments within a single company, which can be more trustworthy than a traditional database that a single administrator can secretly alter.
-
-### 3. What is an "enterprise blockchain"?
-"Enterprise blockchain" is a term that typically refers to private or consortium blockchains designed for business use cases, such as supply chain management or trade finance. Platforms like **Hyperledger Fabric** are popular for building these systems.
-
-### 4. Which type of blockchain is best for DeFi?
-DeFi (Decentralized Finance) applications almost exclusively use **public blockchains** like Ethereum. This is because DeFi requires a permissionless and censorship-resistant platform that is open to all users.
-
-### 5. What are the career differences between public and private blockchain development?
-Developing for **public blockchains** typically involves **[Solidity](/solidity-for-beginners)** and is often focused on DeFi, NFTs, and other open protocols. Developing for **private blockchains** is more common in **[enterprise roles](/web3-logistics)**

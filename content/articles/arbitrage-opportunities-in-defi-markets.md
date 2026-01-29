@@ -102,5 +102,3 @@ A: They connect directly to a blockchain node (an "RPC endpoint") to monitor mem
 **Q_ As a user, is arbitrage good or bad for me?**
 A: Arbitrage is good for you. The actions of arbitrage bots ensure that when you go to a DEX to trade, the price you see is fair and consistent with the broader market. Without arbitrage, prices would diverge wildly across different exchanges.
 
----
-*Internally, this article links to: `sandwich-attack-in-dex-explained`*

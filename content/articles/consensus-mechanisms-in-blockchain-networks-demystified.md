@@ -54,21 +54,3 @@ While PoW and PoS are the two main models, other innovative mechanisms exist, su
 
 The choice of a consensus mechanism is one of the most important design decisions for any blockchain. It involves fundamental trade-offs between security, decentralization, and scalability—the famous **[blockchain trilemma](/is-web3-dead)**. Proof-of-Work offers unparalleled security but at a high energy cost. Proof-of-Stake offers a much more scalable and efficient alternative but introduces different economic and centralization considerations. As the Web3 space continues to evolve, the research and development of new and improved consensus mechanisms will remain one of the most critical areas of innovation.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the purpose of a consensus mechanism?
-A consensus mechanism is a set of rules that allows a decentralized network of computers to agree on a single source of truth (the state of the ledger) without needing to trust each other. It's what prevents double-spending and ensures the integrity of the **[blockchain](/what-is-a-blockchain)**.
-
-### 2. What is the main difference between Proof-of-Work and Proof-of-Stake?
-The main difference is how they decide who gets to create the next block. In **Proof-of-Work (PoW)**, miners compete using computational power ("work"). In **Proof-of-Stake (PoS)**, validators are chosen based on the amount of cryptocurrency they have staked as collateral ("stake"). For a detailed comparison, see our guide on **[PoS vs. PoW](/proof-of-stake-vs-proof-of-work-in-blockchain)**.
-
-### 3. Why did Ethereum switch from PoW to PoS?
-Ethereum switched to PoS in an event called "The Merge" primarily to reduce its massive energy consumption. The move to PoS cut the network's energy use by over 99.9% and also laid the groundwork for future scalability upgrades.
-
-### 4. What is a "51% attack"?
-A 51% attack is a theoretical attack on a PoW blockchain where a single entity gains control of more than 50% of the network's mining power. This would allow them to prevent new transactions from being confirmed and to reverse their own transactions, but the immense cost makes it practically impossible on large networks.
-
-### 5. What kind of jobs involve working on consensus mechanisms?
-This is the domain of **[Consensus Mechanism Architects](/understanding-web3-consensus-mechanism-architects)** and **Protocol Engineers**. These are highly specialized roles requiring deep expertise in distributed systems, cryptography, and game theory.

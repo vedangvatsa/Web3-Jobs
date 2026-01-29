@@ -245,9 +245,9 @@ A: Weekly minimum. Post on Twitter 2-3x/week. Engage in Discord daily. Attend lo
 - [ImpactDAO](https://www.impactdao.xyz/) — Web3 for social good
 
 **Related Career Guides:**
-- [Web3 Career Growth & Development](/content/articles/web3-career-growth-and-development.md)
-- [How to Find a Mentor in Web3](/content/articles/how-to-find-a-mentor-in-web3.md)
-- [First Impressions at Work](/content/articles/first-impression-at-work.md)
+- [Web3 Career Growth & Development](web3-career-growth-and-development)
+- [How to Find a Mentor in Web3](how-to-find-a-mentor-in-web3)
+- [First Impressions at Work](first-impression-at-work)
 
 ### Your Next Step: Find a Web3 Job
 

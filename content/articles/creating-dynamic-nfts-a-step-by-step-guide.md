@@ -56,21 +56,3 @@ Building a dNFT is a more advanced development task that combines standard NFT d
 
 Dynamic NFTs represent a major leap forward, transforming digital assets from static collectibles into living, breathing objects that can react to and interact with the world around them. For developers and creators, they offer an exciting new canvas for building more engaging and interactive Web3 experiences.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a Dynamic NFT (dNFT)?
-A Dynamic NFT is an [NFT](/what-are-nfts) whose metadata (image, attributes, etc.) can change over time based on external data or conditions. Unlike a static NFT, which is immutable once minted, a dNFT can evolve.
-
-### 2. How do Dynamic NFTs get external data?
-They use **[blockchain oracles](/what-are-oracles)**. An oracle is a service that securely brings real-world, off-chain data (like weather, stock prices, or sports scores) onto the blockchain so that a smart contract can use it to trigger an update.
-
-### 3. What are some examples of dNFTs?
-A popular example is a fantasy sports player NFT that automatically updates its stats based on the player's real-time performance in a game. Another is a digital avatar NFT that changes its clothing based on the real-world weather in the owner's location.
-
-### 4. What skills are needed to create a dNFT?
-You need to be a proficient [smart contract developer](/how-to-become-a-web3-smart-contract-developer). In addition to knowing how to build a standard ERC-721 contract, you must also learn how to integrate with an oracle network like Chainlink to request and receive off-chain data.
-
-### 5. What are the main challenges for dNFTs?
-The main challenges are technical complexity, the gas costs associated with frequent on-chain updates, and the reliance on a trusted oracle and off-chain data source. Many dNFT projects are built on [Layer 2 networks](/guide-to-layer-2s) to mitigate high gas costs.

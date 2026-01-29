@@ -38,21 +38,3 @@ Unlike traditional game development, where assets are stored on a centralized se
 
 A career in Web3 game development is an opportunity to be at the forefront of the next evolution of interactive entertainment, building games where the players are not just users, but true owners.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is Web3 gaming (GameFi)?
-Web3 gaming, or [GameFi](/exploring-web3-gaming), refers to video games that use blockchain technology, primarily NFTs, to give players true ownership of their in-game items and assets.
-
-### 2. How is Web3 game development different from traditional game development?
-The biggest difference is the focus on building a **player-owned economy**. Developers must design sustainable in-game economies and understand how to balance on-chain (e.g., asset ownership) and off-chain (e.g., gameplay) logic.
-
-### 3. What are the most in-demand roles in Web3 gaming?
-The key roles are **Unity/Unreal Engine Developers** who can integrate blockchain features, **Smart Contract Engineers** who build the on-chain assets, and **Game Economy Designers** who create the rules for the in-game economy.
-
-### 4. What skills do I need to get a job in Web3 gaming?
-If you're a traditional game developer, you need to learn how to integrate a crypto wallet into your chosen game engine. If you're a Web3 developer, you need to learn the fundamentals of game design and in-game economies. For all roles, a deep understanding of [NFTs](/what-are-nfts) is essential.
-
-### 5. What are some of the major hubs for Web3 gaming?
-[South Korea](/exploring-south-koreas-gamefi-market) is a global powerhouse for Web3 gaming, with many of its largest traditional game publishers heavily investing in the space. Other major hubs include the US and various parts of Southeast Asia.

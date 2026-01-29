@@ -67,21 +67,3 @@ Once you have some experience and a small portfolio of work, you can start looki
     -   Junior Content Writer
 
 The journey to your first Web3 job is a marathon, not a sprint. It's a process of active participation and continuous learning. Unlike traditional industries, the barriers to entry are low, and the opportunities are immense. By immersing yourself in the culture, developing a valuable skill, and building a public portfolio of your contributions, you can successfully launch a fulfilling career at the forefront of the internet's next great evolution.
----
-
-## Frequently Asked Questions
-
-### 1. Can I get a Web3 job with no experience?
-Yes. The industry values "proof of work" over a traditional resume. By contributing to projects, building a portfolio, and demonstrating your passion, you can land an [entry-level Web3 job](/entry-level-jobs-in-web3) even with no formal crypto work experience.
-
-### 2. What are the best non-technical roles for beginners?
-[Community management](/web3-community-manager-career), content creation, and marketing are some of the most accessible and in-demand non-technical roles. These allow you to leverage communication skills and learn about the ecosystem.
-
-### 3. How do I learn about Web3?
-Start by immersing yourself. Follow key figures on Twitter, listen to podcasts like Bankless, and, most importantly, become a user. Get a [crypto wallet](/how-to-choose-a-crypto-wallet), use a dApp, and experience the technology firsthand.
-
-### 4. What is a DAO and how can it help my career?
-A DAO is a Decentralized Autonomous Organization. Contributing to a [DAO](/how-to-contribute-to-daos-and-get-paid) is one of the best ways to get real-world experience, build your portfolio, and network with people in the industry, which often leads directly to job opportunities.
-
-### 5. Where can I find Web3 jobs for beginners?
-You can find a curated list of entry-level and advanced roles on our [Web3 job board](/jobs). Look for roles like "Community Moderator," "Junior Content Writer," or "Marketing Assistant."

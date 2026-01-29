@@ -34,21 +34,3 @@ A validator's primary job is to run a node (a computer connected to the network)
 
 A career as a professional validator is for those who are passionate about the core infrastructure of Web3. It's a demanding role that requires a blend of technical expertise, security consciousness, and business savvy. As the world moves to a multi-chain, Proof-of-Stake future, the demand for reliable, professional validators will only continue to grow.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a blockchain validator?
-In a Proof-of-Stake network, a validator is a participant who runs a node to process transactions and create new blocks. They are responsible for securing the network and are rewarded with transaction fees and newly issued tokens for their service. This is a key role for a [Web3 Staking Specialist](/how-to-become-a-web3-staking-specialist).
-
-### 2. What skills do I need to be a professional validator?
-You need a strong background in **DevOps** and **infrastructure management**, including expertise in cloud platforms, containerization (Docker/Kubernetes), and monitoring tools. A deep understanding of network security is also critical.
-
-### 3. How do validators make money?
-Validators earn rewards for proposing and attesting to new blocks. Professional validators also run "staking-as-a-service" businesses, where other token holders can delegate their stake to the validator's node. The validator then takes a small commission on the rewards earned by the delegated tokens.
-
-### 4. What is "slashing"?
-Slashing is a penalty mechanism in Proof-of-Stake systems. If a validator acts maliciously (e.g., by double-signing a block) or is offline for too long, a portion of their staked tokens (and their delegators' tokens) can be destroyed by the protocol. This is a major financial risk and a key reason why professional, reliable infrastructure is so important.
-
-### 5. How can I get started as a validator?
-The best way to start is by running a validator node on a **testnet**. This allows you to learn the technical and operational challenges without risking any real capital. You can also start by delegating your own tokens to an existing professional validator to understand the process from a user's perspective.

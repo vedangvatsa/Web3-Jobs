@@ -86,5 +86,3 @@ A: There is no definitive, publicly proven case of a large-scale selfish mining 
 **Q: Does Proof-of-Stake (PoS) suffer from selfish mining?**
 A: PoS systems are not vulnerable to the same type of selfish mining because creating blocks is not a race of computational power. However, they are vulnerable to different but conceptually similar strategic attacks where a validator might withhold attestations or blocks to gain an advantage. PoS protocols have different mechanisms (like slashing penalties) to discourage this behavior.
 
----
-*Internally, this article links to: `what-is-a-blockchain-fork-choice-rule`, `what-is-block-propagation-in-networks`, `what-is-a-51-percent-attack-in-blockchain`, `understanding-uncle-blocks-in-ethereum`*

@@ -109,9 +109,3 @@ A3: Never make up an answer. Honesty and credibility are paramount. The best res
 
 A4: This depends heavily on the company culture and your relationship with the executives. Generally, it's best to err on the side of being more formal. A small, appropriate amount of light humor can help build rapport, but it's a high-risk, low-reward strategy. Your primary goal is to be seen as credible and competent.
 
----
-### Internal Links
-- [How to Present Ideas to Leadership](/how-to-present-ideas-to-leadership)
-- [Managing Up Strategies for Success](/managing-up-strategies-for-success)
-- [How to Influence Without Authority](/how-to-influence-without-authority)
-- [Business Writing Tips for Professionals](/business-writing-tips-for-professionals)

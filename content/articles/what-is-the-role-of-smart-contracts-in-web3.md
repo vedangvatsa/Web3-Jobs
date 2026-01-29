@@ -57,21 +57,3 @@ This high-stakes environment has created a massive demand for **[smart contract 
 
 Smart contracts are a foundational paradigm shift. They allow us to create agreements and automate value exchange with a level of transparency, efficiency, and security that was previously impossible. They are the programmable layer of the new internet, enabling developers to build a world of decentralized applications that are owned and operated by their users. Mastering the logic and security of smart contracts is the key to building the future of Web3.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the most popular language for writing smart contracts?
-**[Solidity](/solidity-for-beginners)** is the most popular language for writing smart contracts on Ethereum and other EVM-compatible blockchains.
-
-### 2. Can smart contracts be changed or updated?
-By default, smart contracts are immutable and cannot be changed. However, developers can use specific design patterns, such as the **[proxy pattern](/writing-upgradable-smart-contracts-proxies-explained)**, to create contracts whose logic can be upgraded over time.
-
-### 3. Are smart contracts legally enforceable?
-The legal status of smart contracts is still a developing area of law. While they can automatically enforce the terms of an agreement with code, their enforceability in a traditional court of law is not always clear and varies by jurisdiction.
-
-### 4. What is a dApp?
-A dApp, or decentralized application, is an application that uses smart contracts for its backend logic. It combines the on-chain logic of smart contracts with a user-facing frontend (like a website) to create a complete user experience.
-
-### 5. What are the main security risks for smart contracts?
-The most common risks include **[reentrancy attacks](/understanding-reentrancy-attacks-in-web3-smart-contracts)**, integer overflows, oracle manipulation, and flaws in access control. This is why rigorous testing and third-party security audits are essential.

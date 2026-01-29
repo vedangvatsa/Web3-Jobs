@@ -34,20 +34,3 @@ The security of your entire Web3 life depends on how you manage your seed phrase
 
 The seed phrase is the core of self-custody in Web3. It puts you in complete control of your digital assets, but it also places the full responsibility for their security squarely on your shoulders. Protecting your seed phrase is the most important thing you can do to **[secure your crypto](/securing-your-crypto)**.
 
----
-## Frequently Asked Questions
-
-### 1. What's the difference between a seed phrase and a private key?
-A **seed phrase** is the master backup for your entire wallet. It can be used to regenerate *all* the private keys within that wallet. A **private key** is a specific key that controls a single account/address within your wallet.
-
-### 2. How many words is a seed phrase?
-Seed phrases are typically either 12 or 24 words long. The longer the phrase, the more secure it is.
-
-### 3. What happens if I lose my seed phrase?
-If you lose your seed phrase AND you lose access to the device where your wallet is currently installed (e.g., your computer breaks), your funds are gone forever. There is no recovery process. This is the fundamental trade-off of self-custody.
-
-### 4. Should I store my seed phrase in a password manager?
-No. While password managers are great for traditional web logins, they are still internet-connected software and can be a target for hackers. The security standard for a seed phrase is to keep it completely offline.
-
-### 5. What is a "hot wallet" vs a "cold wallet"?
-A hot wallet (like MetaMask) is connected to the internet. A cold wallet (like a hardware wallet) is kept offline. Storing your seed phrase physically is a form of cold storage for your master key. Learn more in our guide to **[hot vs. cold wallets](/hot-wallet-vs-cold-wallet-security-comparison)**.

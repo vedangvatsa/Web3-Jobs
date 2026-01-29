@@ -45,21 +45,3 @@ During market downturns, some of the frothiness of Web3 salaries can dissipate. 
 
 While the "get rich quick" aspect of a bull market may fade, the demand for high-quality builders will persist. Web3 pays well because the value created by top performers is immense. As long as the industry continues to innovate and attract capital, it will remain one of the most lucrative and rewarding places to build a career.
 
----
-
-## Frequently Asked Questions
-
-### 1. Why do Web3 jobs pay so much?
-The high pay is driven by a massive imbalance between the supply and demand for talent. Billions in venture capital have created a huge demand for a very small pool of professionals with specialized Web3 skills, leading to very [competitive compensation](/decoding-web3-salary).
-
-### 2. What are the highest-paying jobs in Web3?
-The most lucrative roles are typically the most technical and security-focused. These include **[Smart Contract Security Auditors](/highest-paying-web3-jobs)** and **Protocol Engineers** who build the core blockchains. These roles require a rare and deep expertise.
-
-### 3. What is a "token grant" in a salary package?
-A token grant is an allocation of a project's native cryptocurrency that is given to an employee, typically vesting over 4 years. It gives the employee a direct ownership stake in the network and provides the potential for significant financial upside if the project is successful. Learn more about [token compensation here](/tokenomics-for-compensation).
-
-### 4. Are non-technical Web3 jobs also well-paid?
-Yes. While the absolute highest salaries are in engineering, experienced non-technical professionals like [Product Managers](/web3-product-manager-jobs) and [Marketing Leads](/web3-marketing-jobs) can also command salaries that are significantly higher than their Web2 counterparts.
-
-### 5. How do I negotiate my Web3 salary?
-Negotiation involves understanding the full package, including base salary, equity, and the token grant. You need to research the market rate for your role, understand the project's [tokenomics](/understanding-tokenomics), and be prepared to negotiate based on the total potential value of the offer. Our [salary negotiation guide](/web3-career-salary-negotiation) has more details.

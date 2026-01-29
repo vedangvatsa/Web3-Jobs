@@ -48,21 +48,3 @@ Often, to achieve higher scalability (more transactions per second), systems hav
 
 Decentralization is the key innovation of blockchain technology. It provides a new architectural model for the internet, one that is more secure, resilient, censorship-resistant, and equitable. While it comes with challenges, particularly around scalability, the advantages of building a system without a single point of failure or control are profound. It is this core principle that powers the entire vision of Web3 and the creation of a user-owned internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the difference between decentralized and distributed?
-While related, they are not the same. A distributed system has multiple components spread across different computers. A decentralized system is a distributed system where no single component has control over the others. All blockchains are distributed, but not all distributed systems are decentralized.
-
-### 2. Is decentralization always better?
-Not necessarily. Decentralization often comes with a trade-off in performance and efficiency. For many applications where trust is not a major issue and speed is paramount, a centralized system is still the better choice. The advantage of decentralization is most pronounced in high-stakes systems where trustlessness and censorship resistance are critical, like in finance or governance.
-
-### 3. How does a consensus mechanism relate to decentralization?
-A **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** is the process by which a decentralized network agrees on a single version of the truth. It's the engine of decentralization, allowing thousands of independent nodes to stay in sync.
-
-### 4. Are all blockchains decentralized?
-No. **[Private or permissioned blockchains](/private-vs-public-vs-consortium-blockchain-explained)** are controlled by a single company or a small group of companies. They leverage some of the benefits of blockchain (like immutability) but sacrifice the key advantage of decentralization. Public blockchains like Bitcoin and Ethereum are truly decentralized.
-
-### 5. What are the career opportunities related to decentralization?
-The need to build and maintain these complex systems has created a huge job market. Key roles include **[core protocol engineers](/core-blockchain-development-and-infrastructure)** who build the blockchains themselves, and **[DevOps engineers](/breaking

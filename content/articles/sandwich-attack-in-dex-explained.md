@@ -83,5 +83,3 @@ A: No. You don't lose your principal investment. What you lose is the *value ext
 **Q: Why don't DEXs build in protection by default?**
 A: Some are starting to. Protocols like CowSwap use batch auctions to prevent this. However, for a standard AMM like Uniswap, the permissionless nature of the blockchain makes it difficult to prevent MEV at the protocol level without significant architectural trade-offs.
 
----
-*Internally, this article links to: `what-is-frontrunning-in-defi-trading`, `what-is-price-impact-in-dex-trading`*

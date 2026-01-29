@@ -37,21 +37,3 @@ While the stealth launch model has a certain "crypto-native" appeal, it comes wi
 
 For investors, a stealth launch should be approached with extreme caution. It requires the ability to quickly analyze a smart contract, assess its potential, and understand the significant risks involved. However, as a launch strategy, it represents a powerful commitment to community-driven discovery and a rejection of the traditional, hype-based marketing playbook.
 
----
-
-## Frequently Asked Questions
-
-### 1. Why would a project do a stealth launch?
-Projects use a stealth launch to ensure a fairer distribution by rewarding their most dedicated community members and preventing the "gas wars" that can happen with a heavily hyped public sale.
-
-### 2. Is a stealth launch the same as a fair launch?
-They are related concepts but not the same. A **[fair launch](/what-is-a-fair-launch-in-cryptocurrency)** refers to the lack of a pre-mine or insider allocation. A stealth launch refers to the lack of prior marketing. Many stealth launches also aim to be fair launches.
-
-### 3. How do people find out about stealth launches?
-They are often found by "on-chain sleuths" who monitor blockchain explorers for new contract creations and liquidity pool deployments. Once found, the information spreads quickly through private groups and on Twitter.
-
-### 4. Are stealth launches safe to invest in?
-They are extremely high-risk. The lack of public information makes due diligence very difficult, and they are a common vector for scams. The vast majority of stealth-launched tokens fail.
-
-### 5. What is a "gas war"?
-A gas war is a situation where many users are all trying to get their transactions included in the same block, typically during a popular NFT mint or token launch. This leads them to bid up the gas price, resulting in extremely high transaction fees for everyone on the network.

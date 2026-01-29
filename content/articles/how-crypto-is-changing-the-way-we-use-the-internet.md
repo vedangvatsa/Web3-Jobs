@@ -44,21 +44,3 @@ The transition to a crypto-powered internet is not without its challenges. The u
 
 Crypto is more than just an asset class; it's a new set of tools for building a different kind of internet. By embedding ownership, finance, and governance directly into the web's infrastructure, it is fundamentally changing our relationship with the digital world, moving us from passive users to active owners.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main difference between Web2 and Web3?
-The key difference is ownership. In Web2, platforms own the data and control the network. In **[Web3](/what-is-web3)**, users own their data and assets, and the network is decentralized and community-governed. Our guide, "[What Makes Web3 Different from Web2?](/what-makes-web3-different-from-web2)", explains this in detail.
-
-### 2. Do I need to own crypto to use Web3?
-Yes. To interact with most decentralized applications (dApps), you will need a small amount of the blockchain's native cryptocurrency (like ETH) to pay for transaction fees, known as "gas."
-
-### 3. What are NFTs?
-NFTs (Non-Fungible Tokens) are unique digital tokens on a blockchain that represent ownership of an asset, whether it's digital art, an in-game item, or a piece of music. They are a core component of the Web3 ownership model.
-
-### 4. What is DeFi?
-DeFi, or Decentralized Finance, is an ecosystem of financial applications built on blockchain technology. It allows for services like lending, borrowing, and trading without the need for traditional financial intermediaries like banks.
-
-### 5. What are the risks of using Web3 and crypto?
-The main risks include the high volatility of crypto assets, the potential for bugs in **[smart contracts](/what-are-smart-contracts)**, and the risk of scams and phishing attacks. Users are responsible for their own security, so it's crucial to follow **[best practices](/securing-your-crypto)**.

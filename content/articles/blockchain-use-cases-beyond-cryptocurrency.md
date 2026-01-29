@@ -44,21 +44,3 @@ This guide explores some of the most compelling use cases for blockchain technol
 
 These are just a few of the many industries that blockchain technology is poised to transform. By providing a secure, transparent, and decentralized way to record and transfer value and information, blockchain is a general-purpose technology with applications that are limited only by our imagination. While cryptocurrencies were the first "killer app," the underlying technology is now being used to build a new and better infrastructure for countless sectors of the digital and physical world.
 
----
-
-## Frequently Asked Questions
-
-### 1. Isn't blockchain just for crypto?
-No. While cryptocurrency was the first major use case, **[blockchain](/what-is-a-blockchain)** is a foundational technology for recording any kind of data in a secure and decentralized way.
-
-### 2. How can blockchain be used in a supply chain?
-By recording a product's journey on a blockchain, you create a transparent and tamper-proof record of its origin and handling. This is useful for proving authenticity and ensuring ethical sourcing. Learn more in our guide to **[Web3 logistics careers](/web3-logistics)**.
-
-### 3. What is a "Decentralized Identity"?
-**[Decentralized Identity (DID)](/decentralized-identity-explained)** is a Web3 concept where you own and control your own digital identity using a crypto wallet, rather than relying on centralized providers like Google or Facebook.
-
-### 4. How do NFTs help creators?
-**[NFTs](/what-are-nfts)** allow digital creators to sell their work directly to fans and, through smart contract-based **[royalties](/nft-artist-royalties)**, to earn from secondary sales of their work.
-
-### 5. Are there jobs in these non-financial blockchain sectors?
-Yes, absolutely. As these use cases mature, they are creating a demand for professionals with

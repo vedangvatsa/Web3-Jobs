@@ -52,21 +52,3 @@ In Web3, ownership extends beyond assets to the platforms themselves.
 
 The concept of true digital ownership is still in its early days, and the user experience can be complex. However, the shift is fundamental and likely irreversible. We are moving from an internet where we are simply users of corporate platforms to one where we are owners of our own digital property and co-owners of the communities we participate in. This is the core promise of Web3, and it has the potential to create a more equitable, creative, and empowered digital world.
 
----
-
-## Frequently Asked Questions
-
-### 1. When I buy an NFT, do I own the copyright?
-Not usually. Buying an NFT gives you ownership of the token on the blockchain, which is like owning a specific, autographed print of a photograph. The artist typically retains the copyright to the underlying image. However, some projects grant broader commercial rights to NFT holders.
-
-### 2. Can't you just "right-click and save" an NFT image?
-Yes, but that's like taking a photo of the Mona Lisa. You have a copy, but you don't own the original. The value of an NFT comes from the provable ownership recorded on the blockchain.
-
-### 3. What is "self-custody"?
-Self-custody means you are in full control of your own digital assets in a personal crypto wallet. This gives you freedom but also comes with the responsibility of **[securing your own keys](/securing-your-crypto)**.
-
-### 4. What is a DAO?
-A DAO is a Decentralized Autonomous Organization. It's an internet-native organization that is owned and governed by its members, often through the use of tokens. It's a key part of the "ownership economy."
-
-### 5. How does this create new jobs?
-This paradigm shift is creating a huge demand for professionals who can build and manage these new systems. This includes **[smart contract developers](/smart-contract-jobs)** who create the NFTs, **[community managers](/web3-community-manager-career)** who run the DAOs, and **[game designers](/breaking-into-web3-game-development-jobs)** who can build player-owned economies.

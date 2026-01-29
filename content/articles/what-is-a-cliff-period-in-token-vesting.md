@@ -30,21 +30,3 @@ The cliff serves a vital protective function for the project and its community.
 
 When evaluating a job offer or a new project's **[tokenomics](/understanding-tokenomics)**, the presence of a standard 1-year cliff for team and investor tokens is a strong positive signal. It shows that the project is serious about building for the long term and is designed to protect the interests of its community. A project with no cliff or a very short cliff for its insiders should be viewed with extreme caution.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the standard cliff period in a vesting schedule?
-The industry standard is a **1-year cliff**. This is true for both Web3 token grants and traditional Web2 stock options.
-
-### 2. What happens if I leave a company before my cliff?
-If you leave before your cliff date, you will typically receive **zero** of your allocated tokens or stock options. The cliff period serves as a minimum commitment term.
-
-### 3. Does a cliff apply to all tokens in a project?
-No. The cliff and vesting schedule typically apply to tokens allocated to the **founding team, employees, and early investors**. Tokens sold in a public sale or airdropped to the community are usually liquid immediately.
-
-### 4. What is "linear vesting"?
-Linear vesting is the process by which tokens are earned incrementally after the cliff is met. For example, after a 1-year cliff on a 4-year vesting schedule, the remaining tokens will typically vest in equal monthly installments over the next 36 months.
-
-### 5. Why is a short cliff a red flag?
-A short cliff (e.g., 3 months) or no cliff at all for a project's team is a major red flag. It suggests that the team may not be committed to the project's long-term success and could potentially "dump" their tokens on the market shortly after launch. It's a key part of evaluating a project's **[tokenomics for compensation](/tokenomics-for-compensation)**.

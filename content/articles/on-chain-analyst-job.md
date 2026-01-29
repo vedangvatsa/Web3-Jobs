@@ -59,21 +59,3 @@ This role is incredibly accessible because you can build a world-class portfolio
 
 The Web3 Data Analyst role is a perfect fit for anyone who loves solving puzzles, uncovering hidden patterns, and telling stories with data. It's a career that puts you at the center of the action, providing the critical intelligence that helps projects navigate the complex and exciting world of crypto.
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Web3 Data Analyst do?
-A Web3 Data Analyst queries and analyzes public blockchain data to uncover insights about user behavior, protocol health, and market trends. They are often called "on-chain detectives." Our full [Web3 Data Analyst career guide](/web3-data-analyst-jobs) has more details.
-
-### 2. What is the most important skill for an on-chain analyst?
-**SQL mastery** is the non-negotiable technical skill. The job revolves around writing SQL queries on platforms like Dune Analytics.
-
-### 3. What is Dune Analytics?
-Dune is a community-driven analytics platform where anyone can write SQL queries against decoded blockchain data. Building insightful dashboards on Dune is the best way to create a portfolio for this career.
-
-### 4. Do I need a data science degree to get this job?
-No. While a quantitative background is helpful, many of the best on-chain analysts are self-taught. A strong public portfolio of high-quality Dune dashboards is far more valuable than a degree. It's one of the best [non-developer Web3 jobs](/top-web3-job-opportunities-for-non-developers).
-
-### 5. How is this different from a DeFi Quant?
-An on-chain analyst looks at historical and real-time data to understand what *has happened* or *is happening*. A [DeFi Quant](/a-day-in-the-life-of-a-defi-quant) often has a more forward-looking role, using data to build predictive financial models and assess risk. There is significant overlap between the two roles.

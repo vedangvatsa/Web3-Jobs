@@ -32,21 +32,3 @@ Instead of a single AI trying to solve a problem on its own, a MAS unleashes a t
 
 Multi-agent systems represent a shift from thinking about AI as a single, all-knowing brain to thinking about it as a society of intelligent actors. As the tools for building and coordinating these systems mature, they will become a key architecture for solving some of the world's most complex and dynamic problems.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a Multi-Agent System (MAS)?
-A Multi-Agent System is a collection of multiple autonomous, intelligent **[AI agents](/smart-agents-in-ai)** that interact in a shared environment to solve a problem. Instead of one AI doing everything, a MAS uses a team of specialized agents.
-
-### 2. Why is a multi-agent approach useful?
-It allows for **specialization** (using the best AI for each sub-task), **parallelism** (working on multiple parts of a problem at once), and **robustness** (the system can continue if one agent fails). It's effective for complex problems requiring diverse expertise.
-
-### 3. How do the AI agents work together?
-They communicate using a defined protocol and operate under a set of rules and incentives (the "mechanism design") that encourages collaboration toward a common goal. This coordination is a key challenge in **[AI accountability and governance](/ai-accountability-governance-models)**.
-
-### 4. What is an example of a Multi-Agent System?
-In DeFi, you could have a team of agents for trading: one agent analyzes technical charts, another analyzes social media sentiment, and a "head trader" agent synthesizes their inputs to execute trades. This is a key area of exploration in [AI + Web3 careers](/ai-and-web3-hybrid-careers).
-
-### 5. How does this relate to the "future of work"?
-The rise of autonomous agents is a major trend in the **[future of work](/future-of-work-in-web3)**. We are moving from operating tools to managing teams of autonomous agents that can perform complex tasks on our behalf.

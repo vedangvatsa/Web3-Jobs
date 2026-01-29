@@ -10,10 +10,10 @@ Every organization has its own **unwritten rules**—the subtle ways people coll
 
 ### Quick Navigation (Internal Links)
 
-- 📚 **[Leadership Skills for New Managers](/content/articles/leadership-skills-for-new-managers.md)** – Build the people‑management foundation you’ll need once you’re comfortable with the culture.
-- 🚀 **[First 90 Days in a New Job Strategy](/content/articles/first-90-days-in-new-job-strategy.md)** – Structure your early impact while you’re still learning the ropes.
-- ❓ **[Asking Smart Questions as a New Employee](/content/articles/asking-smart-questions-as-new-employee.md)** – Turn curiosity into credibility.
-- 🌍 **[Best Cities for Remote Workers](/content/articles/best-cities-for-remote-workers.md)** – If you’re remote, know which locations align with your lifestyle and the company’s culture.
+- 📚 **[Leadership Skills for New Managers](leadership-skills-for-new-managers)** – Build the people‑management foundation you’ll need once you’re comfortable with the culture.
+- 🚀 **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – Structure your early impact while you’re still learning the ropes.
+- ❓ **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** – Turn curiosity into credibility.
+- 🌍 **[Best Cities for Remote Workers](best-cities-for-remote-workers)** – If you’re remote, know which locations align with your lifestyle and the company’s culture.
 
 ---
 

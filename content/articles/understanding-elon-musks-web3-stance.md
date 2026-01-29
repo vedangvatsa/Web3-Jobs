@@ -67,26 +67,3 @@ His philosophy can be summarized as follows:
 
 Elon Musk is not waiting for the decentralized future to arrive; he is trying to build his own version of it. His approach is not that of a Web3 purist, but of a pragmatist who is willing to use any tool—centralized or decentralized—to achieve his ultimate goal of accelerating human progress. His continued engagement, however critical, ensures that he will remain one of the most important and unpredictable figures shaping the future of the internet.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: Does Elon Musk own any cryptocurrency?**
-
-Yes. It is publicly known that he personally owns Bitcoin, Ethereum, and Dogecoin. His companies, Tesla and SpaceX, have also held Bitcoin on their balance sheets at various times.
-
-**Q2: Why does Elon Musk support Dogecoin?**
-
-Musk has stated that he supports Dogecoin because he finds it to be the "people's crypto." He appreciates its humorous nature, its strong community, and believes its low transaction fees make it more suitable for payments than Bitcoin.
-
-**Q3: Why did Elon Musk stop Tesla from accepting Bitcoin?**
-
-In May 2021, Musk announced that Tesla would suspend Bitcoin payments due to concerns about the environmental impact of Bitcoin's Proof-of-Work mining, which consumes a significant amount of energy.
-
-**Q4: What is Elon Musk's criticism of Web3?**
-
-Musk's main criticism is that the current Web3 ecosystem is not truly decentralized. He has pointed out its reliance on centralized cloud providers like AWS and Infura, suggesting it is more of a marketing buzzword than a technical reality at present.
-
-**Q5: Is Elon Musk's vision for X (Twitter) a Web3 project?**
-
-No, not in the true sense. While his vision for X as an "everything app" incorporates Web3-like features such as creator monetization and payments, the platform itself is fundamentally centralized and controlled by a single company. This is in contrast to the Web3 model of open
