@@ -41,7 +41,7 @@ const participationSteps = [
 const faqItems = [
     {
         question: "Do I need to build a dApp from scratch?",
-        answer: "No. To make the stress test meaningful, submissions must be based on existing open-source dApps deployed on their original network before September 1, 2025. Your role is to migrate them to opBNB and connect to oracle feeds, keeping the original codebase largely intact (no more than ~5% modified). The dApps must be compatible with Chainlink oracle feeds."
+        answer: "No. To make the stress test meaningful, submissions must be based on existing open-source dApps deployed on their original network before September 1, 2026. Your role is to migrate them to opBNB and connect to oracle feeds, keeping the original codebase largely intact (no more than ~5% modified). The dApps must be compatible with Chainlink oracle feeds."
     },
     {
         question: "How do I migrate dApps and integrate the data feeds?",
@@ -90,7 +90,7 @@ export function SuperHackathonPageContent() {
                   </p>
                   <div className="flex justify-center items-center gap-4 md:gap-8 mb-8 text-lg font-semibold flex-wrap">
                       <div className="flex items-center gap-2"><Trophy className="text-primary"/><span>$20,000 USDT Prize Pool</span></div>
-                      <div className="flex items-center gap-2"><Calendar className="text-primary"/><span>Oct 13-31, 2025</span></div>
+                      <div className="flex items-center gap-2"><Calendar className="text-primary"/><span>Oct 13-31, 2026</span></div>
                   </div>
                   <a href="https://bit.ly/SuperHackathon" target="_blank" rel="noopener noreferrer">
                       <Button size="lg" className="text-lg py-3 px-10 shadow-lg transition-transform hover:scale-105">
@@ -259,7 +259,7 @@ export function SuperHackathonPageContent() {
                   "Migration should require minimal code changes (<5% of original codebase).",
                   "Frontend is optional; evaluation is based on on-chain activity.",
                   "Project license must allow forking (e.g., MIT, Apache 2.0, GPL).",
-                  "dApp must be deployed to opBNB during the hackathon period (Oct 13-31, 2025)."
+                  "dApp must be deployed to opBNB during the hackathon period (Oct 13-31, 2026)."
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-3 p-4 rounded-lg bg-card border">
                     <Check className="h-5 w-5 text-green-500 mt-1 shrink-0"/>
