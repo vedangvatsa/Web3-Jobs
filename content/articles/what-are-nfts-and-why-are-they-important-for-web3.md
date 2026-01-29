@@ -4,7 +4,7 @@
 title: "What Are NFTs and Why Are They Important for Web3?"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "nft web3 art"
-description: "From digital art to gaming assets, understand what Non-Fungible Tokens (NFTs) are, how they work, and why they are a crucial building block for the user-owned internet of Web3."
+description: "From digital art to gaming assets, understand what Non-Fungible Tokens (NFTs) are, how they work, and why they are a crucial building block for the."
 category: "Getting Started"
 
 ---

@@ -4,7 +4,7 @@
 title: "Does Web3 Pay Well? A Look at Earning Potential"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "web3 salary money"
-description: "An analysis of compensation in the Web3 industry. We explore why crypto jobs often pay more than their Web2 counterparts and what factors influence earning potential."
+description: "An analysis of compensation in the Web3 industry. We explore why crypto jobs often pay more than their Web2 counterparts and what factors influence."
 category: "Career Guides"
 
 ---

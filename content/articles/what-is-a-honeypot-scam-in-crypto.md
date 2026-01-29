@@ -4,7 +4,7 @@
 title: "Honeypot Scams in Crypto Explained"
 image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
 data-ai-hint: "crypto scam trap"
-description: "A honeypot is a malicious smart contract that tricks users into sending it funds that they can never withdraw. Learn how these scams work and how to spot their red flags to protect your assets."
+description: "A honeypot is a malicious smart contract that tricks users into sending it funds that they can never withdraw. Learn how these scams work and how to spot."
 category: "Educational"
 
 ---

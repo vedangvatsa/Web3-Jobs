@@ -4,7 +4,7 @@
 title: "Fresh Graduate’s Guide to Crypto & Web3 Jobs"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "graduate career start"
-description: "A complete guide for fresh graduates on how to launch a career in the Web3 industry. Learn how to build a portfolio, what skills to focus on, and how to get your first job in crypto, even with no professional experience."
+description: "A complete guide for fresh graduates on how to launch a career in the Web3 industry. Learn how to build a portfolio, what skills to focus on, and how to."
 category: "Getting Started"
 
 ---

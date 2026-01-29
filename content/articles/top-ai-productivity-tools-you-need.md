@@ -4,7 +4,7 @@
 title: "Top AI Productivity Tools You Need"
 image: "https://picsum.photos/seed/ai-tools/1200/630"
 data-ai-hint: "robot working desk"
-description: "A practical guide to the best AI tools that can help you save time, automate tasks, and be more productive at work. From writing and coding to meetings and design."
+description: "A practical guide to the best AI tools that can help you save time, automate tasks, and be more productive at work. From writing and coding to meetings."
 category: "Educational"
 
 ---

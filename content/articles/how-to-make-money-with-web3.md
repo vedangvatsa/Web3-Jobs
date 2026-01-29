@@ -4,7 +4,7 @@
 title: "How to Make Money with Web3: A Guide Beyond Development"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "make money web3"
-description: "Discover the diverse opportunities to earn an income in the Web3 ecosystem, even if you're not a developer. This guide covers everything from community management to content creation."
+description: "Discover the diverse opportunities to earn an income in the Web3 ecosystem, even if you're not a developer. This guide covers everything from community."
 category: "Career Guides"
 
 ---

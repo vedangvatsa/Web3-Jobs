@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Nigeria: A Guide to Africa's Leading Crypto Nation"
 image: "https://images.unsplash.com/photo-1624383045192-cf512eb9d78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuaWdlcmlhfGVufDB8fHx8MTc1OTI2OTQxMnww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "nigeria lagos aerial"
-description: "Explore the explosive growth of Web3 in Nigeria. This guide covers the career opportunities, in-demand skills, and salary insights for Africa's most dynamic crypto job market."
+description: "Explore the explosive growth of Web3 in Nigeria. This guide covers the career opportunities, in-demand skills, and salary insights for Africa's most."
 category: "Career Guides"
 
 ---

@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Conakry: A Guide to Guinea's Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "conakry guinea city"
-description: "A career guide to the emerging Web3 job market in Conakry. Explore the potential for blockchain technology in Guinea, focusing on opportunities in FinTech and natural resource management."
+description: "A career guide to the emerging Web3 job market in Conakry. Explore the potential for blockchain technology in Guinea, focusing on opportunities in FinTech."
 category: "Career Guides"
 
 

@@ -4,7 +4,7 @@
 title: "What is a Web3 Governance Lead?"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "governance meeting people"
-description: "An inside look at one of the most unique and important roles in a DAO. Learn what a Governance Lead does, the skills they need, and how they facilitate decentralized decision-making."
+description: "An inside look at one of the most unique and important roles in a DAO. Learn what a Governance Lead does, the skills they need, and how they facilitate."
 category: "Career Guides"
 
 ---

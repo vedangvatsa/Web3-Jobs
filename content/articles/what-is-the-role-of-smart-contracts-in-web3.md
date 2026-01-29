@@ -4,7 +4,7 @@
 title: "What Is the Role of Smart Contracts in Web3?"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "smart contract code"
-description: "A deep dive into smart contracts, the self-executing programs that form the backbone of Web3, enabling everything from DeFi to DAOs. Learn how they work and why they are so revolutionary."
+description: "A deep dive into smart contracts, the self-executing programs that form the backbone of Web3, enabling everything from DeFi to DAOs. Learn how they work."
 category: "Educational"
 
 ---

@@ -4,7 +4,7 @@
 title: "Who's in Charge? Governing Agentic AI Systems"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "ai governance robot"
-description: "As AI becomes more autonomous, governing it becomes a critical challenge. This guide explores the emerging models for AI governance, from DAOs to public audits, and the difficult questions we must answer."
+description: "As AI becomes more autonomous, governing it becomes a critical challenge. This guide explores the emerging models for AI governance, from DAOs to public."
 category: "Industry Insights"
 
 ---

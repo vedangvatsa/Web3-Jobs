@@ -4,7 +4,7 @@
 title: "The Rise of Web3 and Its Impact on Digital Ownership"
 image: "/images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg"
 data-ai-hint: "digital ownership key"
-description: "An analysis of how Web3 is revolutionizing the concept of digital ownership through technologies like NFTs, giving users true control over their assets for the first time."
+description: "An analysis of how Web3 is revolutionizing the concept of digital ownership through technologies like NFTs, giving users true control over their assets."
 category: "Industry Insights"
 
 ---

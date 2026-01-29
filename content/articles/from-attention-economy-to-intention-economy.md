@@ -4,7 +4,7 @@
 title: "From Attention to Intention: Web3's New Economic Paradigm"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "attention economy digital"
-description: "Web3 is enabling a shift from an attention-based economy to an intention-based one. Learn how user-owned data and decentralized protocols are creating a more equitable and efficient internet."
+description: "Web3 is enabling a shift from an attention-based economy to an intention-based one. Learn how user-owned data and decentralized protocols are creating a."
 category: "Industry Insights"
 
 ---

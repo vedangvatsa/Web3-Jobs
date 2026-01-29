@@ -4,7 +4,7 @@
 title: "What Makes Web3 Different from Web2?"
 image: "/images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
 data-ai-hint: "web2 web3 difference"
-description: "A deep dive into the fundamental differences between Web2 and Web3. Explore the shift from centralized platforms to decentralized protocols, and what it means for users, developers, and the internet."
+description: "A deep dive into the fundamental differences between Web2 and Web3. Explore the shift from centralized platforms to decentralized protocols, and what it."
 category: "Technology Deep Dives"
 
 ---

@@ -3,7 +3,7 @@
 title: "The Top 5 Programming Languages for Web3 Development"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "programming skill learn"
-description: "An essential guide for aspiring blockchain developers. We break down the top five programming languages for Web3—Solidity, Rust, JavaScript, Python, and Go—and explain their use cases, pros, and cons."
+description: "An essential guide for aspiring blockchain developers. We break down the top five programming languages for Web3—Solidity, Rust, JavaScript, Python, and."
 category: "Educational"
 ---
 

@@ -1,8 +1,8 @@
 ---
 
-title: 'The Best Cities for Remote Workers & Digital Nomads'
+title: 'The Best Cities for Remote Workers & Digital Nomads in 2026'
 image: 'https://images.unsplash.com/photo-1521668576204-57ae3afee860?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjB3b3JrfGVufDB8fHx8MTc2MjcwMDczM3ww&ixlib=rb-4.1.0&q=80&w=1080'
-description: 'Discover the top destinations for digital nomads in 2024. We break down the best cities based on cost of living, internet speed, safety, and community.'
+description: 'Discover the top destinations for digital nomads in 2026. We break down the best cities based on cost of living, internet speed, safety, and community.'
 category: 'Career'
 data-ai-hint: 'travel work'
 ---

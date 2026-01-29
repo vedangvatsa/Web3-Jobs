@@ -4,7 +4,7 @@
 title: "Emerging Career Opportunities in Web3 Real Estate"
 image: "/images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg"
 data-ai-hint: "real estate tokenization"
-description: "A look at how Web3 is transforming real estate through tokenization. Learn about the career opportunities emerging at the intersection of blockchain and the property market."
+description: "A look at how Web3 is transforming real estate through tokenization. Learn about the career opportunities emerging at the intersection of blockchain and."
 category: "Industry Insights"
 
 ---

@@ -4,7 +4,7 @@
 title: "How Web3 Is Helping to Build a More Secure Internet"
 image: "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
 data-ai-hint: "internet security web3"
-description: "A look at how Web3's decentralized architecture, self-custodial wallets, and cryptographic principles are creating a more secure and resilient foundation for the internet."
+description: "A look at how Web3's decentralized architecture, self-custodial wallets, and cryptographic principles are creating a more secure and resilient foundation."
 category: "Technology Deep Dives"
 
 ---

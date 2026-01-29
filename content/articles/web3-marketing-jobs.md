@@ -3,7 +3,7 @@
 
 title: "Web3 Marketing Jobs: From Community to CMO"
 image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NTAwOTAwOXww&lib=rb-4.1.0&q=80&w=1080"
-description: "The complete guide to landing a marketing job in Web3. Learn about the different roles, from meme-lord to content strategist, and the skills you need to build a brand in a decentralized world."
+description: "The complete guide to landing a marketing job in Web3. Learn about the different roles, from meme-lord to content strategist, and the skills you need to."
 category: "Career Guides"
 
 ---

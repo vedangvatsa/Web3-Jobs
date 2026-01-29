@@ -4,7 +4,7 @@
 title: "The Highest-Paying Web3 Jobs in 2026"
 image: "/images/adi-goldstein-EUsVwEOsblE-unsplash.jpg"
 data-ai-hint: "money cash salary"
-description: "A detailed look at the most lucrative career paths in the Web3 industry. We break down the roles that command the highest salaries, from protocol engineering to security auditing."
+description: "A detailed look at the most lucrative career paths in the Web3 industry. We break down the roles that command the highest salaries, from protocol."
 category: "Career Guides"
 
 ---

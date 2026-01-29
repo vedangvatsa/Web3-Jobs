@@ -4,7 +4,7 @@
 title: "What is a Custodial vs Non Custodial Wallet"
 image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
 data-ai-hint: "wallet custody keys"
-description: "A crucial guide to understanding the difference between custodial and non-custodial wallets. Learn who controls your private keys and why it matters for the security of your crypto assets."
+description: "A crucial guide to understanding the difference between custodial and non-custodial wallets. Learn who controls your private keys and why it matters for."
 category: "Educational"
 
 ---

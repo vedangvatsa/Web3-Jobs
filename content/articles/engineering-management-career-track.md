@@ -2,7 +2,7 @@
 
 
 title: "The Engineering Management Career Track: A Detailed Guide"
-description: "Explore the career path for engineering leaders, from Technical Lead to VP of Engineering. This guide covers the responsibilities, skill shifts, and challenges at each stage of the engineering management ladder."
+description: "Explore the career path for engineering leaders, from Technical Lead to VP of Engineering. This guide covers the responsibilities, skill shifts, and."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "flowchart diagram"
 category: "Career Guides"

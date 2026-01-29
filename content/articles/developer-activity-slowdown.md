@@ -4,7 +4,7 @@
 title: "Understanding the Web3 Developer Activity Slowdown"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "developer activity decline"
-description: "An analysis of the recent slowdown in Web3 developer activity. We explore the cyclical nature of the crypto market, the 'hangover' from the bull run, and why this is a natural phase of maturation."
+description: "An analysis of the recent slowdown in Web3 developer activity. We explore the cyclical nature of the crypto market, the 'hangover' from the bull run, and."
 category: "Industry Insights"
 
 ---

@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Kochi: A Guide to Kerala's Tech Corridor"
 image: "/images/india web3 jobs.jpg"
 data-ai-hint: "kochi city india"
-description: "A career guide to the Web3 job market in Kochi. Explore the growing blockchain ecosystem in Kerala, driven by a strong developer community and government support."
+description: "A career guide to the Web3 job market in Kochi. Explore the growing blockchain ecosystem in Kerala, driven by a strong developer community and government."
 category: "Career Guides"
 
 

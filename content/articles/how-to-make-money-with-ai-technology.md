@@ -4,7 +4,7 @@
 title: "How to Make Money with AI Technology"
 image: "https://picsum.photos/seed/ai-money/1200/630"
 data-ai-hint: "robot dollar signs"
-description: "Explore practical and accessible ways to generate income using AI tools. From content creation and freelance services to building your own products, here’s how to get started."
+description: "Explore practical and accessible ways to generate income using AI tools. From content creation and freelance services to building your own products."
 category: "Educational"
 
 ---

@@ -1,7 +1,7 @@
 ---
 
 title: "What does Naval Ravikant think about Web3"
-description: "A deep dive into the philosophy of Naval Ravikant, a celebrated entrepreneur, investor, and philosopher, on Web3. This guide covers his views on blockchains as a new form of money and markets, the importance of individual sovereignty, and his principles for building wealth and happiness in a decentralized world."
+description: "A deep dive into the philosophy of Naval Ravikant, a celebrated entrepreneur, investor, and philosopher, on Web3. This guide covers his views on."
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man thinking"

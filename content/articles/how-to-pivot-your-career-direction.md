@@ -3,7 +3,7 @@
 
 title: 'How to Successfully Pivot Your Career Direction'
 image: 'https://picsum.photos/seed/htpycd/1200/630'
-description: "Feeling stuck and ready for a change? A career pivot can be transformative, but it requires a smart strategy. Here’s a step-by-step guide to successfully changing your career path."
+description: "Feeling stuck and ready for a change? A career pivot can be transformative, but it requires a smart strategy. Here’s a step-by-step guide to successfully."
 category: 'Career Guides'
 data-ai-hint: 'career change'
 

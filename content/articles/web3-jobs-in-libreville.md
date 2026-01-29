@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "libreville gabon city"
-description: "A career guide to the Web3 job market in Libreville. Explore how Gabon's capital is becoming a hub for Regenerative Finance (ReFi) and conservation-focused blockchain innovation."
+description: "A career guide to the Web3 job market in Libreville. Explore how Gabon's capital is becoming a hub for Regenerative Finance (ReFi) and conservation-focused."
 category: "Career Guides"
 
 

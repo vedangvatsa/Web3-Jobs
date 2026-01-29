@@ -4,7 +4,7 @@
 title: "Web3's Impact on Corporate Structures"
 image: "/images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg"
 data-ai-hint: "corporate building structure"
-description: "An exploration of how Web3 technologies like DAOs are challenging traditional corporate hierarchies and creating new, more transparent and equitable models for organizations."
+description: "An exploration of how Web3 technologies like DAOs are challenging traditional corporate hierarchies and creating new, more transparent and equitable."
 category: "Industry Insights"
 
 ---

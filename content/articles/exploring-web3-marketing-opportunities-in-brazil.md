@@ -4,7 +4,7 @@
 title: "Exploring Web3 Marketing Opportunities in Brazil"
 image: "/images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg"
 data-ai-hint: "brazil marketing web3"
-description: "A marketer's guide to Brazil's massive Web3 market. Learn about the country's unique crypto landscape, effective go-to-market strategies, and the careers available in this Latin American powerhouse."
+description: "A marketer's guide to Brazil's massive Web3 market. Learn about the country's unique crypto landscape, effective go-to-market strategies, and the careers."
 category: "Career Guides"
 
 ---

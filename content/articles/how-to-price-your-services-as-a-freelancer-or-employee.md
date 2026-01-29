@@ -4,7 +4,7 @@
 title: "How to Price Your Services as a Freelancer or Employee"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "money price tag"
-description: "A comprehensive guide to pricing your services in the tech industry. Learn how to determine your value, choose between hourly and project-based rates, and negotiate with confidence."
+description: "A comprehensive guide to pricing your services in the tech industry. Learn how to determine your value, choose between hourly and project-based rates, and."
 category: "Career Guides"
 
 ---

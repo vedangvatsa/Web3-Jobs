@@ -3,7 +3,7 @@
 title: "AI Resume Builder Best Practices Guide"
 image: "https://picsum.photos/seed/ai-resume/1200/630"
 data-ai-hint: "robot reviewing document"
-description: "Learn how to use AI resume builders effectively. This guide covers best practices for crafting a compelling resume that gets noticed by both AI screening software and human recruiters."
+description: "Learn how to use AI resume builders effectively. This guide covers best practices for crafting a compelling resume that gets noticed by both AI screening."
 category: "Educational"
 ---
 

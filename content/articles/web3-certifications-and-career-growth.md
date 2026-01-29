@@ -4,7 +4,7 @@
 title: "How Web3 Certifications Can Boost Your Career"
 image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
 data-ai-hint: "certification document"
-description: "A guide to the world of Web3 certifications. Learn which ones are most respected, whether they are worth it, and how they can help you stand out in a competitive job market."
+description: "A guide to the world of Web3 certifications. Learn which ones are most respected, whether they are worth it, and how they can help you stand out in a."
 category: "Career Guides"
 
 ---

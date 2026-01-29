@@ -4,7 +4,7 @@
 title: "Combining Business and Leisure While Working Globally"
 image: "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg"
 data-ai-hint: "travel work leisure"
-description: "A guide to mastering the art of 'bleisure' travel. Learn how to stay productive, manage your time, and make the most of your travel experiences while working remotely around the world."
+description: "A guide to mastering the art of 'bleisure' travel. Learn how to stay productive, manage your time, and make the most of your travel experiences while."
 category: "Career Guides"
 
 ---

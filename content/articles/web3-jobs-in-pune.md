@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Pune: A Guide to India's Rising Tech City"
 image: "/images/india web3 jobs.jpg"
 data-ai-hint: "pune city india"
-description: "A guide to the Web3 job market in Pune. Discover the city's growing role in the Indian crypto ecosystem, from its strong developer community to its vibrant startup culture."
+description: "A guide to the Web3 job market in Pune. Discover the city's growing role in the Indian crypto ecosystem, from its strong developer community to its."
 category: "Career Guides"
 
 ---

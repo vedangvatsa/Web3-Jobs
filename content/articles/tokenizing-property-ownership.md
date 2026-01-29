@@ -4,7 +4,7 @@
 title: "Tokenizing Property Ownership: The Future of Real Estate"
 image: "/images/thisisengineering-zBLtU0zbJcU-unsplash.jpg"
 data-ai-hint: "real estate property tokenization"
-description: "A deep dive into how blockchain technology and tokenization are revolutionizing the real estate market by enabling fractional ownership and increasing liquidity."
+description: "A deep dive into how blockchain technology and tokenization are revolutionizing the real estate market by enabling fractional ownership and increasing."
 category: "Industry Insights"
 
 ---

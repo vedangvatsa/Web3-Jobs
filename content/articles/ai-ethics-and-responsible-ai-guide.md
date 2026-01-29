@@ -3,7 +3,7 @@
 title: "AI Ethics and Responsible AI Guide"
 image: "https://picsum.photos/seed/ai-ethics/1200/630"
 data-ai-hint: "robot balance scale"
-description: "An introduction to the critical field of AI ethics. Learn about the key ethical challenges like bias, privacy, and accountability, and the principles of responsible AI development."
+description: "An introduction to the critical field of AI ethics. Learn about the key ethical challenges like bias, privacy, and accountability, and the principles of."
 category: "Educational"
 ---
 

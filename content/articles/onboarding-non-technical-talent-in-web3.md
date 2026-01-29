@@ -4,7 +4,7 @@
 title: "Onboarding Non-Technical Talent in Web3"
 image: "/images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg"
 data-ai-hint: "team onboarding meeting"
-description: "A guide for Web3 companies on how to successfully onboard non-technical professionals. Learn the strategies for bridging the knowledge gap and integrating new hires into a crypto-native culture."
+description: "A guide for Web3 companies on how to successfully onboard non-technical professionals. Learn the strategies for bridging the knowledge gap and integrating."
 category: "Career Guides"
 
 ---

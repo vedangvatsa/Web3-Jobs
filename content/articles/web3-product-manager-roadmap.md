@@ -4,7 +4,7 @@
 title: "The Web3 Product Manager Roadmap"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 data-ai-hint: "product manager career"
-description: "A step-by-step guide for aspiring and current product managers on how to build a successful career in the Web3 industry, from acquiring foundational knowledge to landing your first PM role."
+description: "A step-by-step guide for aspiring and current product managers on how to build a successful career in the Web3 industry, from acquiring foundational."
 category: "Career Guides"
 
 ---

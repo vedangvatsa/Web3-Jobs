@@ -4,7 +4,7 @@
 title: "Top Opportunities in Web3 for Crypto-Native Talent"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "crypto talent opportunity"
-description: "You're already crypto-native. This guide explores the most advanced and rewarding career paths for experienced Web3 professionals, from protocol research to DAO governance."
+description: "You're already crypto-native. This guide explores the most advanced and rewarding career paths for experienced Web3 professionals, from protocol research."
 category: "Career Guides"
 
 ---

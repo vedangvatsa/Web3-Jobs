@@ -4,7 +4,7 @@
 title: "How to Become a Web3 NFT Artist and Sell Your Work"
 image: "/images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg"
 data-ai-hint: "nft art crypto"
-description: "A practical guide for digital artists on how to enter the world of NFTs. Learn how to mint your artwork, choose a marketplace, and build a community around your creations."
+description: "A practical guide for digital artists on how to enter the world of NFTs. Learn how to mint your artwork, choose a marketplace, and build a community."
 category: "Career Guides"
 
 ---

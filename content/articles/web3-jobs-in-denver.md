@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Denver: A Guide to the Mile High Crypto Community"
 image: "/images/usa web3 jobs by hashtag web3.jpg"
 data-ai-hint: "denver city usa"
-description: "A career guide to the Web3 job market in Denver. Learn about the city's unique role in the Ethereum ecosystem, its vibrant community, and the opportunities available in the 'Mile High City'."
+description: "A career guide to the Web3 job market in Denver. Learn about the city's unique role in the Ethereum ecosystem, its vibrant community, and the."
 category: "Career Guides"
 
 ---

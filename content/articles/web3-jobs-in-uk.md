@@ -4,7 +4,7 @@
 title: "Web3 Jobs in the UK: A Guide to the British Crypto Scene"
 image: "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx1a3xlbnwwfHx8fDE3MTY0MjAwNDd8MA&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "uk city skyline"
-description: "Your career guide to the UK's Web3 job market. Explore London's role as a global fintech hub, learn about in-demand skills, and get insights into typical salaries for crypto roles."
+description: "Your career guide to the UK's Web3 job market. Explore London's role as a global fintech hub, learn about in-demand skills, and get insights into typical."
 category: "Career Guides"
 
 ---

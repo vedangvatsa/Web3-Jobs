@@ -4,7 +4,7 @@
 title: "The Future of Blockchain Interoperability with Polkadot"
 image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
 data-ai-hint: "polkadot interoperability network"
-description: "A look at Polkadot's unique 'hub and spoke' model for blockchain interoperability. Learn how its Relay Chain and parachain architecture aims to create a 'blockchain of blockchains'."
+description: "A look at Polkadot's unique 'hub and spoke' model for blockchain interoperability. Learn how its Relay Chain and parachain architecture aims to create a."
 category: "Technology Deep Dives"
 
 ---

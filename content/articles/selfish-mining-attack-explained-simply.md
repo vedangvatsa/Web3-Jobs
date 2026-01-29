@@ -2,7 +2,7 @@
 
 
 title: "Selfish Mining Attack Explained Simply"
-description: "A comprehensive guide to selfish mining, a strategic attack where a Proof-of-Work miner can earn disproportionate rewards by selectively withholding discovered blocks."
+description: "A comprehensive guide to selfish mining, a strategic attack where a Proof-of-Work miner can earn disproportionate rewards by selectively withholding."
 category: "Educational"
 image: "https://picsum.photos/seed/selfish/1200/630"
 data-ai-hint: "selfish mining"

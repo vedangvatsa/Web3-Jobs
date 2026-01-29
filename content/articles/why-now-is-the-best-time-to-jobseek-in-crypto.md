@@ -4,7 +4,7 @@
 title: "Why Now is the Best Time to Jobseek in Crypto"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "person looking at job board"
-description: "Bear market got you down? Here's why a downturn is actually the best time to find a high-quality, long-term job in the Web3 industry. Learn why now is the time to build your career."
+description: "Bear market got you down? Here's why a downturn is actually the best time to find a high-quality, long-term job in the Web3 industry. Learn why now is the."
 category: "Career Guides"
 
 ---

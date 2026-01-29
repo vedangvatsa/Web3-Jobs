@@ -4,7 +4,7 @@
 title: "Machine Learning Engineer Salary Guide"
 image: "https://picsum.photos/seed/ml-salary/1200/630"
 data-ai-hint: "person money chart"
-description: "A comprehensive guide to Machine Learning Engineer salaries. Discover the key factors that influence your earning potential, from experience and location to skills and company type."
+description: "A comprehensive guide to Machine Learning Engineer salaries. Discover the key factors that influence your earning potential, from experience and location."
 category: "Educational"
 
 ---

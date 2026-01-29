@@ -4,7 +4,7 @@
 title: "Business Development (BD) Strategy for Web3 Projects"
 image: "/images/alex-knight-2EJCSULRwC8-unsplash.jpg"
 data-ai-hint: "business development handshake"
-description: "A deep dive into Web3 business development. This guide outlines the key strategies for creating high-impact partnerships and integrations that drive real growth in a decentralized ecosystem."
+description: "A deep dive into Web3 business development. This guide outlines the key strategies for creating high-impact partnerships and integrations that drive real."
 category: "Industry Insights"
 
 ---

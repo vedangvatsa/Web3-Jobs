@@ -4,7 +4,7 @@
 title: "Exploring Careers in Web3 Oracles and Data Feeds"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 data-ai-hint: "oracle blockchain data"
-description: "A career guide to the world of blockchain oracles. Learn about the roles involved in securely connecting smart contracts to real-world data, from engineering to business development."
+description: "A career guide to the world of blockchain oracles. Learn about the roles involved in securely connecting smart contracts to real-world data, from."
 category: "Career Guides"
 
 ---

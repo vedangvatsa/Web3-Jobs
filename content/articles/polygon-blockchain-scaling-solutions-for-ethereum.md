@@ -4,7 +4,7 @@
 title: "Polygon Blockchain Scaling Solutions for Ethereum"
 image: "/images/johannes-plenio-FZpCcPss9to-unsplash.jpg"
 data-ai-hint: "polygon blockchain network"
-description: "A guide to Polygon, a leading platform for Ethereum scaling and infrastructure development. Learn about its various solutions, from the PoS sidechain to the new ZK-rollups."
+description: "A guide to Polygon, a leading platform for Ethereum scaling and infrastructure development. Learn about its various solutions, from the PoS sidechain to."
 category: "Educational"
 
 ---

@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Johannesburg: A Guide to South Africa's Financial Hub"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "johannesburg south africa"
-description: "A career guide to the Web3 job market in Johannesburg. Discover how South Africa's economic heartland is driving institutional adoption and enterprise solutions in the blockchain space."
+description: "A career guide to the Web3 job market in Johannesburg. Discover how South Africa's economic heartland is driving institutional adoption and enterprise."
 category: "Career Guides"
 
 

@@ -4,7 +4,7 @@
 title: "Common Job Interview Questions Answers"
 image: "https://picsum.photos/seed/interview-questions/1200/630"
 data-ai-hint: "question mark person thinking"
-description: "A guide to some of the most common job interview questions and how to answer them effectively. Prepare your answers and walk into your next interview with confidence."
+description: "A guide to some of the most common job interview questions and how to answer them effectively. Prepare your answers and walk into your next interview with."
 category: "Career Guides"
 
 ---

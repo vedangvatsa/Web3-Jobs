@@ -4,7 +4,7 @@
 title: "What Is the Connection Between Web3 and Digital Currencies?"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "digital currency web3"
-description: "An explanation of the symbiotic relationship between Web3 and digital currencies like cryptocurrency, showing how they are the essential economic layer for the decentralized internet."
+description: "An explanation of the symbiotic relationship between Web3 and digital currencies like cryptocurrency, showing how they are the essential economic layer."
 category: "Technology Deep Dives"
 
 ---

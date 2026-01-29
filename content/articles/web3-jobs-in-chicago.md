@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Chicago: A Guide to the DeFi and Trading Hub"
 image: "/images/usa web3 jobs by hashtag web3.jpg"
 data-ai-hint: "chicago city usa"
-description: "A career guide to the Web3 job market in Chicago. Learn how the city's legacy in derivatives trading and finance is making it a major hub for DeFi, quantitative trading, and market infrastructure."
+description: "A career guide to the Web3 job market in Chicago. Learn how the city's legacy in derivatives trading and finance is making it a major hub for DeFi."
 category: "Career Guides"
 
 ---

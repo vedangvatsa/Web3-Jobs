@@ -4,7 +4,7 @@
 title: "How Web3 and Cryptocurrency Are Connected"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "web3 crypto connection"
-description: "A clear explanation of the relationship between Web3 and cryptocurrency. Learn why crypto is the essential economic layer that powers the decentralized internet."
+description: "A clear explanation of the relationship between Web3 and cryptocurrency. Learn why crypto is the essential economic layer that powers the decentralized."
 category: "Getting Started"
 
 ---

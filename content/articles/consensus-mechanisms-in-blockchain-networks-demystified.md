@@ -4,7 +4,7 @@
 title: "Consensus Mechanisms in Blockchain Networks Demystified"
 image: "/images/johannes-plenio-FZpCcPss9to-unsplash.jpg"
 data-ai-hint: "blockchain consensus team"
-description: "A clear explanation of how consensus mechanisms work. This guide demystifies Proof-of-Work (PoW) and Proof-of-Stake (PoS) and explains their role in securing a decentralized network."
+description: "A clear explanation of how consensus mechanisms work. This guide demystifies Proof-of-Work (PoW) and Proof-of-Stake (PoS) and explains their role in."
 category: "Educational"
 
 ---

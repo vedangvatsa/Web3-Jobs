@@ -4,7 +4,7 @@
 title: "Core Blockchain Development and Infrastructure"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "blockchain infrastructure core"
-description: "A career guide for engineers who want to build the core infrastructure of Web3. Learn what a blockchain infrastructure engineer does, the skills they need, and the opportunities in this specialized field."
+description: "A career guide for engineers who want to build the core infrastructure of Web3. Learn what a blockchain infrastructure engineer does, the skills they."
 category: "Educational"
 
 ---

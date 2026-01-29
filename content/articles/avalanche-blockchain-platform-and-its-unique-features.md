@@ -3,7 +3,7 @@
 title: "Avalanche Blockchain Platform and Its Unique Features"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "avalanche blockchain network"
-description: "An overview of Avalanche (AVAX), a Layer 1 blockchain known for its unique subnet architecture and high-speed consensus mechanism, designed for DeFi and custom blockchain deployments."
+description: "An overview of Avalanche (AVAX), a Layer 1 blockchain known for its unique subnet architecture and high-speed consensus mechanism, designed for DeFi and."
 category: "Educational"
 ---
 

@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Harare: A Guide to Zimbabwe's Resilient Crypto Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "harare zimbabwe city"
-description: "A career guide to the Web3 job market in Harare. Explore how Zimbabwe's capital is leveraging blockchain for financial resilience and creating opportunities for a new generation of tech talent."
+description: "A career guide to the Web3 job market in Harare. Explore how Zimbabwe's capital is leveraging blockchain for financial resilience and creating."
 category: "Career Guides"
 
 ---

@@ -3,7 +3,7 @@
 
 title: 'The Mid-Career Crisis Survival Guide'
 image: 'https://picsum.photos/seed/mccsg/1200/630'
-description: "Feeling lost, unfulfilled, or questioning your professional choices? You might be having a mid-career crisis. Here's how to understand it and navigate your way through it."
+description: "Feeling lost, unfulfilled, or questioning your professional choices? You might be having a mid-career crisis. Here's how to understand it and navigate."
 category: 'Career Guides'
 data-ai-hint: 'career burnout'
 

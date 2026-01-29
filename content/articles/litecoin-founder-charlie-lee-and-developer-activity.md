@@ -3,7 +3,7 @@
 
 
 title: "Charlie Lee, Litecoin, and the State of Developer Activity"
-description: "A look at Litecoin creator Charlie Lee's philosophy and how it shapes the 'slow and steady' approach to Litecoin's developer activity, prioritizing stability over rapid changes."
+description: "A look at Litecoin creator Charlie Lee's philosophy and how it shapes the 'slow and steady' approach to Litecoin's developer activity, prioritizing."
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "silver coin"

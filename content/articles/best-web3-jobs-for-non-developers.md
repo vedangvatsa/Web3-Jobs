@@ -2,7 +2,7 @@
 
 title: "The Best Web3 Jobs for Non-Developers: A Complete Guide"
 image: "https://images.unsplash.com/photo-1543269664-647163ef2ee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8am9iJTIwZ2lybHxlbnwwfHx8fDE3NjE4ODU4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-description: "You don't need to be a Solidity expert to build a career in crypto. Explore the top non-technical roles in Web3, from community and marketing to product and operations."
+description: "You don't need to be a Solidity expert to build a career in crypto. Explore the top non-technical roles in Web3, from community and marketing to product."
 category: "Career Guides"
 data-ai-hint: "team collaboration"
 ---

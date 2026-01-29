@@ -4,7 +4,7 @@
 title: "Blockchain Explorer Guide for Bitcoin and Ethereum"
 image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
 data-ai-hint: "blockchain explorer map"
-description: "A beginner's guide to using blockchain explorers like Etherscan and Blockchain.com. Learn how to look up transactions, explore blocks, and read smart contract data on public ledgers."
+description: "A beginner's guide to using blockchain explorers like Etherscan and Blockchain.com. Learn how to look up transactions, explore blocks, and read smart."
 category: "Educational"
 
 ---

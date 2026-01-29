@@ -2,7 +2,7 @@
 
 
 title: "What is a 51 Percent Attack in Blockchain?"
-description: "A detailed explanation of the 51% attack, one of the most discussed security threats to Proof-of-Work blockchains like Bitcoin, and how it can enable transaction censorship and double-spending."
+description: "A detailed explanation of the 51% attack, one of the most discussed security threats to Proof-of-Work blockchains like Bitcoin, and how it can enable."
 category: "Educational"
 image: "https://picsum.photos/seed/51attack/1200/630"
 data-ai-hint: "51 percent attack"

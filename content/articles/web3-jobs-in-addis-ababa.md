@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Addis Ababa: A Guide to Ethiopia's Tech Frontier"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "addis ababa ethiopia"
-description: "A career guide to the nascent Web3 job market in Addis Ababa. Explore the potential of Ethiopia's capital as a future hub for blockchain innovation, driven by a huge youth population and a focus on real-world utility."
+description: "A career guide to the nascent Web3 job market in Addis Ababa. Explore the potential of Ethiopia's capital as a future hub for blockchain innovation."
 category: "Career Guides"
 
 

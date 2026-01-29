@@ -4,7 +4,7 @@
 title: "How to Stay Anonymous as a Developer in Crypto"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "anonymous developer crypto"
-description: "A guide for developers on maintaining privacy and anonymity in the Web3 space. Learn the tools and practices to protect your identity while building in a transparent world."
+description: "A guide for developers on maintaining privacy and anonymity in the Web3 space. Learn the tools and practices to protect your identity while building in a."
 category: "Career Guides"
 
 ---

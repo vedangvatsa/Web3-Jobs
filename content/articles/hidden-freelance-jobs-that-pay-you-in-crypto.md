@@ -4,7 +4,7 @@
 title: "Hidden Freelance Jobs That Pay You in Crypto"
 image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
 data-ai-hint: "side hustle laptop"
-description: "A guide to the world of Web3 freelancing. Learn how to find and complete bounties, build a reputation in DAOs, and turn part-time contributions into a full-time career."
+description: "A guide to the world of Web3 freelancing. Learn how to find and complete bounties, build a reputation in DAOs, and turn part-time contributions into a."
 category: "Career Guides"
 
 ---

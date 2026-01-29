@@ -3,7 +3,7 @@
 
 
 title: "The Slowdown in Developer Activity: A Critical Analysis"
-description: "Is the Web3 developer ecosystem shrinking? A critical analysis of the data shows a more nuanced story of market maturation, consolidation, and a shift from quantity to quality."
+description: "Is the Web3 developer ecosystem shrinking? A critical analysis of the data shows a more nuanced story of market maturation, consolidation, and a shift."
 image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man thinking analytics"

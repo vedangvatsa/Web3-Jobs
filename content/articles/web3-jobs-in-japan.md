@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Japan: A Guide to a Cautious but Awakening Giant"
 image: "https://images.unsplash.com/photo-1542051841857-5f90071e7989?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqYXBhbnxlbnwwfHx8fDE3MTY0MjAwNzd8MA&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "japan city tokyo"
-description: "Web3 Jobs in Japan | ¥8M-25M+ Salary | Gaming & Crypto Regulatory Hub 2026. Web3 gaming roles, DeFi specialists, compliance careers. Clear regulations, global tech expertise, visa sponsorship programs."
+description: "Web3 Jobs in Japan | ¥8M-25M+ Salary | Gaming & Crypto Regulatory Hub 2026. Web3 gaming roles, DeFi specialists, compliance careers. Clear regulations."
 category: "Career Guides"
 
 

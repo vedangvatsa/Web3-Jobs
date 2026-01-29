@@ -4,7 +4,7 @@
 title: "What is a Cliff Period in Token Vesting"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 data-ai-hint: "cliff vesting crypto"
-description: "A cliff is a period at the beginning of a vesting schedule where no tokens are earned. This guide explains why it's a crucial mechanism for ensuring long-term commitment from team members and investors."
+description: "A cliff is a period at the beginning of a vesting schedule where no tokens are earned. This guide explains why it's a crucial mechanism for ensuring."
 category: "Educational"
 
 ---

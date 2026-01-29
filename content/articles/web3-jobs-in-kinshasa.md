@@ -3,7 +3,7 @@
 title: "Web3 Jobs in Kinshasa: A Guide to the DRC's Emerging Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "kinshasa drc city"
-description: "A career guide to the emerging Web3 job market in Kinshasa. Explore how the capital of the Democratic Republic of Congo is leveraging its vast resources and young population to fuel blockchain innovation."
+description: "A career guide to the emerging Web3 job market in Kinshasa. Explore how the capital of the Democratic Republic of Congo is leveraging its vast resources."
 category: "Career Guides"
 ---
 

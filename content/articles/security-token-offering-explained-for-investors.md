@@ -4,7 +4,7 @@
 title: "Security Token Offering Explained for Investors"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "security token"
-description: "A Security Token Offering (STO) is a regulated process where a project raises capital by issuing tokens that represent a financial security. This guide explains how STOs work and how they differ from ICOs."
+description: "A Security Token Offering (STO) is a regulated process where a project raises capital by issuing tokens that represent a financial security. This guide."
 category: "Educational"
 
 ---

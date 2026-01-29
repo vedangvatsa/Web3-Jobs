@@ -4,7 +4,7 @@
 title: "Remote Work in Web3: The New Normal"
 image: "/images/domenico-loia-EhTcC9sYXsw-unsplash.jpg"
 data-ai-hint: "remote work desk"
-description: "Web3 is remote-native. This guide covers how to succeed in a globally distributed, asynchronous work environment, from communication best practices to the tools you need to thrive."
+description: "Web3 is remote-native. This guide covers how to succeed in a globally distributed, asynchronous work environment, from communication best practices to the."
 category: "Career Guides"
 
 ---

@@ -4,7 +4,7 @@
 title: "Web3 Jobs in San Francisco: A Guide to the Tech and VC Epicenter"
 image: "/images/usa web3 jobs by hashtag web3.jpg"
 data-ai-hint: "san francisco usa"
-description: "Web3 Jobs in San Francisco | $120K-$400K+ Salary | Protocol Engineering & VC Hub 2026. Deep-tech roles, venture capital, DeFi engineers, smart contract developers. Top crypto companies, relocation support."
+description: "Web3 Jobs in San Francisco | $120K-$400K+ Salary | Protocol Engineering & VC Hub 2026. Deep-tech roles, venture capital, DeFi engineers, smart contract."
 category: "Career Guides"
 
 ---

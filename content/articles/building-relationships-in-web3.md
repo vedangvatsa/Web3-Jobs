@@ -1,7 +1,8 @@
 ---
 title: "Building Relationships in Web3 – The Foundation of Your Career"
-description: "Learn how to build meaningful professional relationships in Web3 communities, from networking strategies to maintaining long-term connections that support career growth."
+description: "Learn how to build meaningful professional relationships in Web3 communities, from networking strategies to maintaining long-term connections that support."
 category: "Career Development"
+image: "https://picsum.photos/seed/networking/1200/630"
 ---
 
 ## Why Relationships Matter in Web3

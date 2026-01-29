@@ -4,7 +4,7 @@
 title: "The ReFi Revolution: Scaling Regenerative Economies in Web3"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "regenerative economy nature"
-description: "A deep dive into Regenerative Finance (ReFi). Learn how this Web3 movement is using blockchain to create sustainable, positive-sum economies for funding public goods and climate solutions."
+description: "A deep dive into Regenerative Finance (ReFi). Learn how this Web3 movement is using blockchain to create sustainable, positive-sum economies for funding."
 category: "Industry Insights"
 
 ---

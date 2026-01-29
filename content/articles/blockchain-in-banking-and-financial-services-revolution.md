@@ -4,7 +4,7 @@
 title: "Blockchain in Banking and Financial Services Revolution"
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 data-ai-hint: "banking finance blockchain"
-description: "An analysis of how blockchain technology is set to revolutionize the banking and financial services industry, from cross-border payments to trade finance and digital identity."
+description: "An analysis of how blockchain technology is set to revolutionize the banking and financial services industry, from cross-border payments to trade finance."
 category: "Educational"
 
 ---

@@ -2,7 +2,7 @@
 title: "Central Bank Digital Currency (CBDC) in India: A Comprehensive Report"
 image: "https://images.unsplash.com/photo-1515091943-9d5c0ad475af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmRpYXxlbnwwfHx8fDE3NTkyNjM4NTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "digital currency india"
-description: "An in-depth report on Central Bank Digital Currency (CBDC) in India, exploring its opportunities, challenges, and future prospects in the context of India's digital payment revolution."
+description: "An in-depth report on Central Bank Digital Currency (CBDC) in India, exploring its opportunities, challenges, and future prospects in the context of."
 category: "Industry Insights"
 ---
 
