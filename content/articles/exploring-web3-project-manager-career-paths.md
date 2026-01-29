@@ -6,7 +6,7 @@ description: "A deep dive into the career paths for Project Managers in Web3. Le
 category: "Career Guides"
 ---
 
-As the Web3 ecosystem matures, the need for skilled organizational and operational talent has become just as critical as the need for technical talent. While developers build the protocols, it's the **Web3 Project Manager** who ensures that these complex, multi-faceted initiatives are delivered on time and on budget.
+As the Web3 ecosystem matures, the need for skilled organizational and operational talent has become just as critical as the need for [technical talent](/smart-contract-developer). While developers build the protocols, it's the **Web3 Project Manager** who ensures that these complex, multi-faceted initiatives are delivered on time and on budget.
 
 A Web3 Project Manager's role is a unique blend of traditional project management discipline and a deep understanding of the crypto-native world. They are the conductors of a chaotic orchestra, coordinating the efforts of a global, remote-first team of developers, designers, and community members. For a detailed overview of the role, see our guide on [how to succeed as a Web3 project manager](/how-to-succeed-as-a-web3-project-manager).
 
