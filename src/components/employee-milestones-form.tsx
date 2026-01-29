@@ -182,7 +182,7 @@ export function EmployeeMilestonesForm() {
                             <Input placeholder="Employee Name" {...form.register('employeeName')} />
                             <Input placeholder="Role" {...form.register('role')} />
                             <Input placeholder="Manager's Name" {...form.register('manager')} />
-                            <Input placeholder="Tracking Period (e.g. Q3 2024)" {...form.register('period')} />
+                            <Input placeholder="Tracking Period (e.g. Q3 2026)" {...form.register('period')} />
                         </CardContent>
                     </Card>
 
@@ -221,4 +221,3 @@ export function EmployeeMilestonesForm() {
     </div>
   );
 }
-    
