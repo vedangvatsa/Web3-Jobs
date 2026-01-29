@@ -2,7 +2,21 @@
 'use client';
 
 import { Header } from '@/components/header';
-import { JDBuilderForm } from '@/components/jd-builder-form';
+import dynamic from 'next/dynamic';
+import { Skeleton } from '@/components/ui/skeleton';
+
+const JDBuilderForm = dynamic(
+  () => import('@/components/jd-builder-form').then(m => ({ default: m.JDBuilderForm })),
+  {
+    loading: () => (
+      <div className="w-full max-w-2xl mx-auto p-8 space-y-4">
+        <Skeleton className="h-10 w-full" />
+        <Skeleton className="h-32 w-full" />
+        <Skeleton className="h-10 w-full" />
+      </div>
+    ),
+  }
+);
 
 export default function JobDescriptionBuilderPage() {
   return (

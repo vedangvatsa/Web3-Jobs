@@ -1,7 +1,8 @@
 ---
 title: "How to Learn Company Culture Fast – A New Employee's Guide"
-description: "Learn company culture fast as a new employee with practical strategies for observing, listening, asking questions, and becoming integrated into your."
+description: "Master company culture as a new employee with proven strategies. Learn observation, communication, and integration techniques to succeed in your role faster."
 image: "https://picsum.photos/seed/company-culture/1200/630"
+category: "workplace"
 ---
 
 ### 1. Observe – The Silent Curriculum
