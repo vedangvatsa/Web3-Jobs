@@ -4,7 +4,7 @@
 title: "Web3 Internship 101: A Guide to Launching Your Crypto Career"
 image: "/images/emile-perron-xrVDYZRGdw4-unsplash.jpg"
 data-ai-hint: "internship student learning"
-description: "Your complete guide to finding and landing a Web3 internship. Learn where to look, what skills you need, and how to build a portfolio that will get you noticed by top crypto companies."
+description: "Your complete guide to finding and landing a Web3 internship. Learn where to look, what skills you need, and how to build a portfolio that will get you."
 category: "Getting Started"
 
 ---

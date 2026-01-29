@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Nairobi: A Guide to East Africa's 'Silicon Savannah'"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "nairobi kenya city"
-description: "A guide to the Web3 job market in Nairobi, Kenya. Explore how the 'Silicon Savannah' is becoming a leader in blockchain for social impact, DeFi, and mobile-first solutions."
+description: "A guide to the Web3 job market in Nairobi, Kenya. Explore how the 'Silicon Savannah' is becoming a leader in blockchain for social impact, DeFi, and."
 category: "Career Guides"
 
 ---

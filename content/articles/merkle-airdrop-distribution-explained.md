@@ -4,7 +4,7 @@
 title: "Merkle Airdrop Distribution Explained"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "tree data structure"
-description: "A Merkle airdrop is a highly efficient method for distributing tokens to a large number of users. This guide explains how it uses Merkle trees to save gas and simplify the airdrop process."
+description: "A Merkle airdrop is a highly efficient method for distributing tokens to a large number of users. This guide explains how it uses Merkle trees to save gas."
 category: "Educational"
 
 ---

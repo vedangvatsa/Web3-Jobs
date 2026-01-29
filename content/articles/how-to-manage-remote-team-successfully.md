@@ -4,7 +4,7 @@
 title: "How to Manage a Remote Team Successfully: A Modern Guide"
 category: "Career Guides"
 date: "2025-09-12"
-description: "Managing a remote team requires a different skillset than in-office leadership. This guide covers the key principles of async communication, intentional culture building, and outcome-based management."
+description: "Managing a remote team requires a different skillset than in-office leadership. This guide covers the key principles of async communication, intentional."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "remote team meeting"
 

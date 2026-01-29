@@ -4,7 +4,7 @@
 title: "How Web3 Could Change the Future of Online Shopping"
 image: "/images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg"
 data-ai-hint: "online shopping future"
-description: "An exploration of how Web3 technologies are set to revolutionize e-commerce, from token-gated commerce and NFT-based loyalty programs to decentralized marketplaces."
+description: "An exploration of how Web3 technologies are set to revolutionize e-commerce, from token-gated commerce and NFT-based loyalty programs to decentralized."
 category: "Industry Insights"
 
 ---

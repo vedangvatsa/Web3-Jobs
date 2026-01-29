@@ -4,7 +4,7 @@
 title: "Top Web3 Job Opportunities for Non-Developers"
 image: "/images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg"
 data-ai-hint: "team meeting collaboration"
-description: "You don't need to code to thrive in Web3. This guide breaks down the most in-demand non-technical roles, the skills you need, and how to leverage your experience to land a high-impact job in the crypto industry."
+description: "You don't need to code to thrive in Web3. This guide breaks down the most in-demand non-technical roles, the skills you need, and how to leverage your."
 category: "Career Guides"
 
 ---

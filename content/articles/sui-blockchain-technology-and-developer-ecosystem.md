@@ -4,7 +4,7 @@
 title: "Sui Blockchain Technology and Developer Ecosystem"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "sui blockchain"
-description: "An overview of the Sui blockchain, a new Layer 1 designed for high performance and scalability, with a unique object-centric data model and the Move programming language."
+description: "An overview of the Sui blockchain, a new Layer 1 designed for high performance and scalability, with a unique object-centric data model and the Move."
 category: "Educational"
 
 ---

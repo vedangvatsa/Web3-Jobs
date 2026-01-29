@@ -4,7 +4,7 @@
 title: "Building Career Paths for Web3 Privacy Engineers"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "privacy security engineer"
-description: "A guide to the growing field of Web3 privacy engineering. Learn about the technologies and skills needed to build a career protecting user data in a transparent world."
+description: "A guide to the growing field of Web3 privacy engineering. Learn about the technologies and skills needed to build a career protecting user data in a."
 category: "Career Guides"
 
 ---

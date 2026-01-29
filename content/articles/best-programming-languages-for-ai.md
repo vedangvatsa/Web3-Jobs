@@ -3,7 +3,7 @@
 title: "Best Programming Languages for AI"
 image: "https://picsum.photos/seed/ai-languages/1200/630"
 data-ai-hint: "code language matrix"
-description: "A look at the top programming languages used for AI and machine learning. Discover why Python dominates, and learn about other important languages like R, C++, and Java."
+description: "A look at the top programming languages used for AI and machine learning. Discover why Python dominates, and learn about other important languages like R."
 category: "Educational"
 ---
 

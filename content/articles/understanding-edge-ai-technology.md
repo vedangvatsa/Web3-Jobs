@@ -2,7 +2,7 @@
 
 
 title: "Understanding Edge AI Technology"
-description: "An explanation of Edge AI, the technology that runs artificial intelligence models directly on local devices, and its benefits for privacy, speed, and reliability."
+description: "An explanation of Edge AI, the technology that runs artificial intelligence models directly on local devices, and its benefits for privacy, speed, and."
 category: "Educational"
 image: "https://picsum.photos/seed/edgeai/1200/630"
 data-ai-hint: "ai chip"

@@ -3,7 +3,7 @@
 title: "Becoming a Web3 Technical Writer"
 image: "/images/chris-ried-bN5XdU-bap4-unsplash.jpg"
 data-ai-hint: "technical writer keyboard"
-description: "A career guide for writers who want to work in Web3. Learn about the growing demand for technical writers who can make complex blockchain concepts understandable for developers and users."
+description: "A career guide for writers who want to work in Web3. Learn about the growing demand for technical writers who can make complex blockchain concepts."
 category: "Career Guides"
 ---
 

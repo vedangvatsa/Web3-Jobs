@@ -4,7 +4,7 @@
 title: "The Future of Web3 Cross-Border Payment Systems and Jobs"
 image: "/images/johannes-plenio-FZpCcPss9to-unsplash.jpg"
 data-ai-hint: "global payment network"
-description: "An exploration of how Web3 technologies like stablecoins and layer 2s are revolutionizing cross-border payments, creating new career opportunities in the process."
+description: "An exploration of how Web3 technologies like stablecoins and layer 2s are revolutionizing cross-border payments, creating new career opportunities in the."
 category: "Industry Insights"
 
 ---

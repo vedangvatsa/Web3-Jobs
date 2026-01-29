@@ -4,7 +4,7 @@
 title: "The Role of Web3 Blockchain Performance Optimization Engineers"
 image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
 data-ai-hint: "blockchain performance optimization"
-description: "A career guide for engineers who specialize in optimizing the performance of blockchains and dApps. Learn about the roles that focus on everything from gas optimization to network latency."
+description: "A career guide for engineers who specialize in optimizing the performance of blockchains and dApps. Learn about the roles that focus on everything from."
 category: "Career Guides"
 
 ---

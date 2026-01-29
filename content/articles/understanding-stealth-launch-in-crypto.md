@@ -4,7 +4,7 @@
 title: "Understanding Stealth Launch in Crypto"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "anonymous developer crypto"
-description: "A stealth launch is a token launch strategy where a project goes live with no prior marketing or announcement. This guide explains how it works, its goals, and the risks involved."
+description: "A stealth launch is a token launch strategy where a project goes live with no prior marketing or announcement. This guide explains how it works, its."
 category: "Educational"
 
 ---

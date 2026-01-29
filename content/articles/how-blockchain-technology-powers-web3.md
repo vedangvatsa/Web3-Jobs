@@ -4,7 +4,7 @@
 title: "How Blockchain Technology Powers Web3"
 image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
 data-ai-hint: "blockchain web3 technology"
-description: "A deep dive into the symbiotic relationship between blockchain and Web3. Understand how blockchain's core features of decentralization and immutability are the bedrock of the new internet."
+description: "A deep dive into the symbiotic relationship between blockchain and Web3. Understand how blockchain's core features of decentralization and immutability."
 category: "Technology Deep Dives"
 
 ---

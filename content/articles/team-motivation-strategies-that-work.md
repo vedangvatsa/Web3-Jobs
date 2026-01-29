@@ -4,7 +4,7 @@
 title: "Team Motivation Strategies That Actually Work"
 category: "Career Guides"
 date: "2025-09-12"
-description: "Go beyond pizza parties and bonuses. This guide explores the intrinsic drivers of motivation—autonomy, mastery, and purpose—and provides actionable strategies to build a highly engaged and motivated team."
+description: "Go beyond pizza parties and bonuses. This guide explores the intrinsic drivers of motivation—autonomy, mastery, and purpose—and provides actionable."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team motivation strategy"
 

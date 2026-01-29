@@ -4,7 +4,7 @@
 title: "How to Work From Anywhere in the Decentralized Economy"
 image: "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
 data-ai-hint: "remote work anywhere"
-description: "A guide for aspiring digital nomads on how to build a career in Web3 that allows you to work from anywhere in the world. Learn the key skills, job types, and lifestyle considerations for a location-independent career."
+description: "A guide for aspiring digital nomads on how to build a career in Web3 that allows you to work from anywhere in the world. Learn the key skills, job types."
 category: "Career Guides"
 
 ---

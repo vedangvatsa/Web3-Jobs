@@ -4,7 +4,7 @@
 title: "What is Rug Pull in Cryptocurrency Scams"
 image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
 data-ai-hint: "crypto scam warning"
-description: "A 'rug pull' is a malicious scam where crypto developers abandon a project and run away with investors' funds. Learn how they work and the red flags to look out for to protect yourself."
+description: "A 'rug pull' is a malicious scam where crypto developers abandon a project and run away with investors' funds. Learn how they work and the red flags to."
 category: "Educational"
 
 ---

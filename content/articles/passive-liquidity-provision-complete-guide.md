@@ -2,7 +2,7 @@
 
 
 title: "Passive Liquidity Provision: A Complete Guide"
-description: "Explore the world of passive liquidity provision in DeFi, its benefits, the inherent risks like impermanent loss, and the platforms that make it easier for hands-off investors."
+description: "Explore the world of passive liquidity provision in DeFi, its benefits, the inherent risks like impermanent loss, and the platforms that make it easier."
 category: "Educational"
 image: "https://picsum.photos/seed/passivelp/1200/630"
 data-ai-hint: "passive liquidity"

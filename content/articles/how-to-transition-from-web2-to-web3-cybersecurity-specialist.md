@@ -4,7 +4,7 @@
 title: "How to Transition from Web2 to Web3 Cybersecurity Specialist"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "cybersecurity web3 transition"
-description: "A guide for cybersecurity professionals on transitioning their skills to the Web3 space. Learn how to adapt your expertise to secure smart contracts, dApps, and blockchain infrastructure."
+description: "A guide for cybersecurity professionals on transitioning their skills to the Web3 space. Learn how to adapt your expertise to secure smart contracts."
 category: "Career Guides"
 
 ---

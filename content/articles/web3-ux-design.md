@@ -4,7 +4,7 @@
 title: "Web3 UX Design Best Practices"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 data-ai-hint: "ux design web3"
-description: "A guide to designing user-friendly decentralized applications. Learn the key UX challenges in Web3 and the best practices for creating intuitive and secure experiences for your users."
+description: "A guide to designing user-friendly decentralized applications. Learn the key UX challenges in Web3 and the best practices for creating intuitive and."
 category: "Technology Deep Dives"
 
 ---

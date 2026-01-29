@@ -4,7 +4,7 @@
 title: "How to Transition into Web3 With a Legal or Compliance Background"
 image: "/images/thisisengineering-yhCHx8Mc-Kc-unsplash.jpg"
 data-ai-hint: "law compliance transition"
-description: "A guide for legal and compliance professionals looking to move into the fast-growing Web3 space. Learn what skills are in demand and how to navigate the complex regulatory landscape of crypto."
+description: "A guide for legal and compliance professionals looking to move into the fast-growing Web3 space. Learn what skills are in demand and how to navigate the."
 category: "Career Guides"
 
 ---

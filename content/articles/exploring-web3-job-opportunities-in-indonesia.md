@@ -4,7 +4,7 @@
 title: "Exploring Web3 Job Opportunities in Indonesia"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "indonesia bali job search"
-description: "A guide to the Web3 job market in Indonesia. Learn about the country's rapid crypto adoption, the key players, in-demand roles, and typical salary ranges for a career in this dynamic Southeast Asian hub."
+description: "A guide to the Web3 job market in Indonesia. Learn about the country's rapid crypto adoption, the key players, in-demand roles, and typical salary ranges."
 category: "Career Guides"
 
 ---

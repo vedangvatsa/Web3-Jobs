@@ -4,7 +4,7 @@
 title: "Becoming a Smart Contract Auditor: A Career Guide"
 image: "/images/jakob-owens-WUmb_eBrpjs-unsplash.jpg"
 data-ai-hint: "security code audit"
-description: "A guide to one of the most challenging and lucrative careers in Web3. Learn what a smart contract auditor does, the skills required, and the path to becoming an elite security researcher."
+description: "A guide to one of the most challenging and lucrative careers in Web3. Learn what a smart contract auditor does, the skills required, and the path to."
 category: "Career Guides"
 
 ---

@@ -4,7 +4,7 @@
 title: "Blockchain Engineering Career Path and Requirements"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 data-ai-hint: "blockchain engineer career"
-description: "A comprehensive guide to the career paths for Web3 developers. Learn about the different specializations, from smart contract engineering to protocol development, and the requirements for each."
+description: "A comprehensive guide to the career paths for Web3 developers. Learn about the different specializations, from smart contract engineering to protocol."
 category: "Educational"
 
 ---

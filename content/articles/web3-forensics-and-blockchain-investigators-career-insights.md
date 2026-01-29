@@ -4,7 +4,7 @@
 title: "Web3 Forensics and Blockchain Investigators: Career Insights"
 image: "/images/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
 data-ai-hint: "blockchain forensics investigation"
-description: "A career guide to the world of on-chain investigation. Learn how blockchain forensics experts trace illicit funds, unmask hackers, and bring transparency to the decentralized world."
+description: "A career guide to the world of on-chain investigation. Learn how blockchain forensics experts trace illicit funds, unmask hackers, and bring transparency."
 category: "Career Guides"
 
 ---

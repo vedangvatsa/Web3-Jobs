@@ -4,7 +4,7 @@
 title: "Legal Careers in the Web3 Industry"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "legal gavel law"
-description: "A guide for legal professionals looking to enter the Web3 space. We explore the most in-demand legal specialties, from securities to intellectual property, in the crypto industry."
+description: "A guide for legal professionals looking to enter the Web3 space. We explore the most in-demand legal specialties, from securities to intellectual."
 category: "Career Guides"
 
 ---

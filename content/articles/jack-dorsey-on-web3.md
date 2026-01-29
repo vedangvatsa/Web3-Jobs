@@ -2,7 +2,7 @@
 
 
 title: "Jack Dorsey on Web3: A Bitcoin Maximalist's Vision for a Decentralized Future"
-description: "Explore Jack Dorsey's passionate, and often controversial, views on Web3. Learn why the Twitter and Block founder is a Bitcoin maximalist and a sharp critic of what he calls venture-capitalist-owned 'Web3'."
+description: "Explore Jack Dorsey's passionate, and often controversial, views on Web3. Learn why the Twitter and Block founder is a Bitcoin maximalist and a sharp."
 image: "https://picsum.photos/seed/dorseyweb3/1200/630"
 category: "Industry Insights"
 data-ai-hint: "man technology"

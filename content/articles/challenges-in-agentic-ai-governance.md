@@ -4,7 +4,7 @@
 title: "The Governance Gauntlet: Overcoming Challenges in Agentic AI Governance"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "ai governance challenges"
-description: "A deep dive into the complex challenges of governing autonomous AI systems, from value alignment and unpredictable behavior to ensuring meaningful human control."
+description: "A deep dive into the complex challenges of governing autonomous AI systems, from value alignment and unpredictable behavior to ensuring meaningful human."
 category: "Industry Insights"
 
 ---

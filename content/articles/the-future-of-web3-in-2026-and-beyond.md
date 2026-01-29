@@ -2,7 +2,7 @@
 
 
 title: "The Future of Web3: Predictions for 2026 and Beyond"
-description: "Moving beyond the hype cycles, what are the substantive technological and social trends that will define the Web3 landscape in 2026? We explore modular blockchains, AI integration, and real-world asset tokenization."
+description: "Moving beyond the hype cycles, what are the substantive technological and social trends that will define the Web3 landscape in 2026? We explore modular."
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "futuristic city"

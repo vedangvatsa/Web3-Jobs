@@ -5,7 +5,7 @@
 title: "Web3 Jobs in the Philippines: A Hub for GameFi and Community Talent"
 image: "https://images.unsplash.com/photo-1654844369265-e79563c56538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8cGhpbGlwcGluZXMlMjBmbGFnfGVufDB8fHx8MTc1OTI2OTU1NXww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "philippines el nido"
-description: "Dive into the Philippines' unique Web3 job market. This guide focuses on the country's dominance in Web3 gaming, community management, and the skills needed to build a career in this dynamic space."
+description: "Dive into the Philippines' unique Web3 job market. This guide focuses on the country's dominance in Web3 gaming, community management, and the skills."
 category: "Career Guides"
 
 

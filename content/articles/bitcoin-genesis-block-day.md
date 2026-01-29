@@ -1,6 +1,7 @@
 ---
 title: "Bitcoin Genesis Block Day – Understanding the Birth of Bitcoin"
 description: "bitcoin genesis block day – A comprehensive guide for Web3 professionals covering key concepts, best practices, and career insights."
+image: "https://picsum.photos/seed/bitcoin-genesis/1200/630"
 ---
 
 

@@ -4,7 +4,7 @@
 title: "How Web3 Is Changing Product Management"
 image: "/images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg"
 data-ai-hint: "web3 product management"
-description: "A guide for product managers on the paradigm shifts in the Web3 era. Learn how community governance, open-source protocols, and tokenomics are reinventing the PM role."
+description: "A guide for product managers on the paradigm shifts in the Web3 era. Learn how community governance, open-source protocols, and tokenomics are reinventing."
 category: "Career Guides"
 
 ---

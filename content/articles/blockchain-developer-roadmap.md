@@ -4,7 +4,7 @@
 title: "The Blockchain Developer Roadmap for 2026"
 image: "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
 data-ai-hint: "developer roadmap journey"
-description: "Your complete roadmap to becoming a blockchain developer in 2026. This guide covers the essential skills, languages, tools, and projects you need to build a successful career in Web3 engineering."
+description: "Your complete roadmap to becoming a blockchain developer in 2026. This guide covers the essential skills, languages, tools, and projects you need to build."
 category: "Getting Started"
 
 ---

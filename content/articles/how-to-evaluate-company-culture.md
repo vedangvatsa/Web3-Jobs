@@ -2,7 +2,7 @@
 
 
 title: "How to Evaluate Company Culture Before You Accept the Job"
-description: "Learn how to assess a company's culture during the interview process to ensure it aligns with your values. A guide to asking the right questions and spotting red flags."
+description: "Learn how to assess a company's culture during the interview process to ensure it aligns with your values. A guide to asking the right questions and."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "people talking"
 category: "Career Guides"

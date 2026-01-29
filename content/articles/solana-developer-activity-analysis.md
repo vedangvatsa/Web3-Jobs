@@ -3,7 +3,7 @@
 
 title: "An Analysis of Solana Developer Activity"
 image: "https://picsum.photos/seed/26/1200/630"
-description: "Solana has emerged as a major contender in the blockchain space. This analysis dives into the on-chain data to explore the trends in developer activity and what it means for the ecosystem."
+description: "Solana has emerged as a major contender in the blockchain space. This analysis dives into the on-chain data to explore the trends in developer activity."
 category: "Technology Deep Dives"
 data-ai-hint: "blockchain analytics"
 

@@ -4,7 +4,7 @@
 title: "What is a 'Protocol' in Web3?"
 image: "/images/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
 data-ai-hint: "web3 protocol network"
-description: "A simple explanation of what a 'protocol' means in the context of Web3 and how these open, rule-based systems are the foundational building blocks of the decentralized web."
+description: "A simple explanation of what a 'protocol' means in the context of Web3 and how these open, rule-based systems are the foundational building blocks of the."
 category: "Technology Deep Dives"
 
 ---

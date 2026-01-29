@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Bissau: A Guide to Guinea-Bissau's Digital Frontier"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "bissau guinea bissau city"
-description: "A career guide to the emerging Web3 job market in Bissau. Explore the potential for blockchain technology in Guinea-Bissau, with a focus on financial inclusion and social impact."
+description: "A career guide to the emerging Web3 job market in Bissau. Explore the potential for blockchain technology in Guinea-Bissau, with a focus on financial."
 category: "Career Guides"
 
 ---

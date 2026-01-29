@@ -4,7 +4,7 @@
 title: "How to Navigate a Career in Web3 SocialFi Development"
 image: "https://images.unsplash.com/photo-1554177255-61502b352de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NTUwMTIzNDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "social media development"
-description: "A guide to building a career in SocialFi. Learn about the unique challenges of developing decentralized social media applications and the skills required to succeed."
+description: "A guide to building a career in SocialFi. Learn about the unique challenges of developing decentralized social media applications and the skills required."
 category: "Career Guides"
 
 ---

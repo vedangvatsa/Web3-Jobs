@@ -4,7 +4,7 @@
 
 title: "What Are Oracles? Connecting Blockchains to the Real World"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
-description: "Smart contracts can't access off-chain data on their own. Learn how blockchain oracles solve this problem by securely bringing real-world data onto the blockchain."
+description: "Smart contracts can't access off-chain data on their own. Learn how blockchain oracles solve this problem by securely bringing real-world data onto the."
 category: "Technology Deep Dives"
 
 

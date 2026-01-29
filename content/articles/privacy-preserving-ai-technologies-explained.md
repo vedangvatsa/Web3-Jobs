@@ -2,7 +2,7 @@
 
 
 title: "Privacy Preserving AI Technologies Explained"
-description: "An overview of key privacy-preserving AI technologies, including Federated Learning, Differential Privacy, and Homomorphic Encryption, and how they protect user data."
+description: "An overview of key privacy-preserving AI technologies, including Federated Learning, Differential Privacy, and Homomorphic Encryption, and how they."
 category: "Educational"
 image: "https://picsum.photos/seed/privacyai/1200/630"
 data-ai-hint: "ai privacy"

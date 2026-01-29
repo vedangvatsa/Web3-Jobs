@@ -5,7 +5,7 @@ title: "Video Interview Setup and Lighting: A Comprehensive Guide"
 category: "Career Guides"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "video interview"
-description: "Your background, lighting, and camera angle speak volumes before you even say a word. This guide covers everything you need to know to create a professional video interview setup that lets you shine."
+description: "Your background, lighting, and camera angle speak volumes before you even say a word. This guide covers everything you need to know to create a."
 
 ---
 

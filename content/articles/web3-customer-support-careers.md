@@ -4,7 +4,7 @@
 title: "Web3 Customer Support Careers"
 image: "/images/bruce-mars-FWVMhUa_wbY-unsplash.jpg"
 data-ai-hint: "customer support headset"
-description: "A guide to building a career in Web3 customer support. Learn how the role differs from traditional support and what skills you need to help users navigate the world of crypto."
+description: "A guide to building a career in Web3 customer support. Learn how the role differs from traditional support and what skills you need to help users navigate."
 category: "Career Guides"
 
 ---

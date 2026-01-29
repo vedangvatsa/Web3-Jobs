@@ -3,7 +3,7 @@
 
 title: "The Ultimate Guide to Navigating Web3 Job Boards"
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
-description: "A deep dive into the top Web3 job boards, including strategies for how to stand out as a candidate and what companies are looking for in the decentralized economy."
+description: "A deep dive into the top Web3 job boards, including strategies for how to stand out as a candidate and what companies are looking for in the decentralized."
 category: "Career Guides"
 data-ai-hint: "man working laptop"
 

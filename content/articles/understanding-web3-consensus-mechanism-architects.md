@@ -5,7 +5,7 @@
 title: "Understanding Web3 Consensus Mechanism Architects"
 image: "/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg"
 data-ai-hint: "blockchain consensus mechanism"
-description: "A look into the world of consensus mechanism architects. Discover how these experts in distributed systems and game theory design the very heart of a blockchain's security and operation."
+description: "A look into the world of consensus mechanism architects. Discover how these experts in distributed systems and game theory design the very heart of a."
 category: "Technology Deep Dives"
 
 

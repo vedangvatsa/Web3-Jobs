@@ -4,7 +4,7 @@
 title: "Blockchain Mining Explained for Beginners"
 image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
 data-ai-hint: "blockchain mining hardware"
-description: "A simple, easy-to-understand guide to blockchain mining. Learn what miners do, how Proof-of-Work operates, and why it's essential for the security of networks like Bitcoin."
+description: "A simple, easy-to-understand guide to blockchain mining. Learn what miners do, how Proof-of-Work operates, and why it's essential for the security of."
 category: "Educational"
 
 ---

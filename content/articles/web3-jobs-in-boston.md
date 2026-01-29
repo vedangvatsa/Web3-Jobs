@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Boston: A Guide to the Academic and FinTech Hub"
 image: "/images/usa web3 jobs by hashtag web3.jpg"
 data-ai-hint: "boston city usa"
-description: "A career guide to the Web3 job market in Boston. Discover how the city's world-class universities and strong FinTech sector are creating a unique and intellectually-driven crypto ecosystem."
+description: "A career guide to the Web3 job market in Boston. Discover how the city's world-class universities and strong FinTech sector are creating a unique and."
 category: "Career Guides"
 
 ---

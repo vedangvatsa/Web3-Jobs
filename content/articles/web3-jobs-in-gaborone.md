@@ -3,7 +3,7 @@
 title: "Web3 Jobs in Gaborone: A Guide to Botswana's Stable and Growing Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "gaborone botswana city"
-description: "A career guide to the Web3 job market in Gaborone. Explore how Botswana's capital is leveraging its economic stability and strategic vision to become a hub for blockchain innovation in Southern Africa."
+description: "A career guide to the Web3 job market in Gaborone. Explore how Botswana's capital is leveraging its economic stability and strategic vision to become a."
 category: "Career Guides"
 ---
 

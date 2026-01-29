@@ -4,7 +4,7 @@
 title: "Top Trending Web3 Hashtags and How to Use Them to Grow Your Brand"
 image: "/images/surface-F4ottWBnCpM-unsplash.jpg"
 data-ai-hint: "social media growth"
-description: "Master the art of Web3 social media. This guide breaks down the top trending crypto hashtags and explains the strategy behind using them to build your brand and engage the community."
+description: "Master the art of Web3 social media. This guide breaks down the top trending crypto hashtags and explains the strategy behind using them to build your."
 category: "Career Guides"
 
 ---

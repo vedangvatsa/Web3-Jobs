@@ -4,7 +4,7 @@
 title: "Web3 Supply Chain Experts: Navigating Blockchain Solutions"
 image: "/images/thisisengineering-zBLtU0zbJcU-unsplash.jpg"
 data-ai-hint: "supply chain logistics"
-description: "A career guide for supply chain and logistics professionals looking to enter the Web3 space. Learn how blockchain is being used to create more transparent and efficient supply chains."
+description: "A career guide for supply chain and logistics professionals looking to enter the Web3 space. Learn how blockchain is being used to create more transparent."
 category: "Career Guides"
 
 ---

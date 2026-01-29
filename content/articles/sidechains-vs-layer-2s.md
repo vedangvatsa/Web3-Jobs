@@ -4,7 +4,7 @@
 title: "Sidechains vs. Layer 2s: What's the Difference?"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "blockchain network difference"
-description: "A guide to the key differences between two major types of blockchain scaling solutions: Sidechains and Layer 2 Rollups. Learn how they differ in their security models and relationship to the main chain."
+description: "A guide to the key differences between two major types of blockchain scaling solutions: Sidechains and Layer 2 Rollups. Learn how they differ in their."
 category: "Technology Deep Dives"
 
 ---

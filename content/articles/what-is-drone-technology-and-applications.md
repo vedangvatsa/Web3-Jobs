@@ -2,7 +2,7 @@
 
 
 title: "What is Drone Technology and Applications"
-description: "Exploring the technology behind drones, or unmanned aerial vehicles (UAVs), and the wide range of applications they are used for today, from photography to delivery."
+description: "Exploring the technology behind drones, or unmanned aerial vehicles (UAVs), and the wide range of applications they are used for today, from photography."
 category: "Educational"
 image: "https://picsum.photos/seed/dronetech/1200/630"
 data-ai-hint: "drone flying"

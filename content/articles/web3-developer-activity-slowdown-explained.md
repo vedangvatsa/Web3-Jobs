@@ -2,7 +2,7 @@
 
 
 title: "Has Web3 Developer Activity Slowed Down? An In-depth Explanation"
-description: "A detailed analysis of the slowdown in Web3 developer activity. Is it a sign of a dying ecosystem, or a natural maturation of the market? We explore the data and the trends."
+description: "A detailed analysis of the slowdown in Web3 developer activity. Is it a sign of a dying ecosystem, or a natural maturation of the market? We explore the."
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "code on screen laptop"

@@ -4,7 +4,7 @@
 title: "What Makes Crypto a Key Part of Web3?"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "crypto web3 connection"
-description: "A deep dive into why cryptocurrency is not just an optional feature of Web3, but its fundamental economic layer, enabling decentralization, ownership, and new business models."
+description: "A deep dive into why cryptocurrency is not just an optional feature of Web3, but its fundamental economic layer, enabling decentralization, ownership, and."
 category: "Technology Deep Dives"
 
 ---

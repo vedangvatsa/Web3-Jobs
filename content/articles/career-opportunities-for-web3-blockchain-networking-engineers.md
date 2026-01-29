@@ -4,7 +4,7 @@
 title: "Career Opportunities for Web3 Blockchain Networking Engineers"
 image: "/images/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg"
 data-ai-hint: "blockchain network nodes"
-description: "A career guide for networking engineers looking to specialize in Web3. Learn about the unique challenges of peer-to-peer networking, node communication, and maintaining a resilient blockchain infrastructure."
+description: "A career guide for networking engineers looking to specialize in Web3. Learn about the unique challenges of peer-to-peer networking, node communication."
 category: "Career Guides"
 
 ---

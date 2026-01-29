@@ -4,7 +4,7 @@
 title: "How Web3 Is Changing the Digital Economy"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "digital economy future"
-description: "An analysis of how Web3 is restructuring the digital economy by enabling user ownership, decentralizing control, and creating new, more equitable business models."
+description: "An analysis of how Web3 is restructuring the digital economy by enabling user ownership, decentralizing control, and creating new, more equitable business."
 category: "Industry Insights"
 
 ---

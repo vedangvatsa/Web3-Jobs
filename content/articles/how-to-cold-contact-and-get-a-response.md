@@ -4,7 +4,7 @@
 title: "How to Cold Contact Anyone and Get a Response"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "person sending message"
-description: "A guide to effective cold outreach in Web3. Learn how to write a compelling cold DM or email that provides value upfront and dramatically increases your chances of getting a response."
+description: "A guide to effective cold outreach in Web3. Learn how to write a compelling cold DM or email that provides value upfront and dramatically increases your."
 category: "Career Guides"
 
 ---

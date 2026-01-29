@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Bangalore: A Guide to India's Silicon Valley"
 image: "/images/india web3 jobs.jpg"
 data-ai-hint: "bangalore city india"
-description: "Web3 Jobs in Bangalore | ₹30L-100L+ Salary | India's Blockchain Tech Hub 2026. Smart contract developers, DeFi engineers, startup roles. World-class talent pool, lower costs, growing crypto adoption."
+description: "Web3 Jobs in Bangalore | ₹30L-100L+ Salary | India's Blockchain Tech Hub 2026. Smart contract developers, DeFi engineers, startup roles. World-class."
 category: "Career Guides"
 
 ---

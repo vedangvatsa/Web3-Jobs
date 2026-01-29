@@ -4,7 +4,7 @@
 title: "The Role of Web3 Technical Writers in Blockchain Projects"
 image: "/images/chris-ried-bN5XdU-bap4-unsplash.jpg"
 data-ai-hint: "technical writer keyboard"
-description: "An in-depth look at the vital role of technical writers in the Web3 ecosystem. Learn what they do, why they are essential for developer adoption, and how to start a career in the field."
+description: "An in-depth look at the vital role of technical writers in the Web3 ecosystem. Learn what they do, why they are essential for developer adoption, and how."
 category: "Career Guides"
 
 ---

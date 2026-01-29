@@ -4,7 +4,7 @@
 title: "What You Need to Know About Web3 and Decentralized Apps"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "decentralized apps web3"
-description: "A beginner's guide to dApps (decentralized applications). Learn what they are, how they differ from traditional apps, and why they are a core component of the Web3 vision."
+description: "A beginner's guide to dApps (decentralized applications). Learn what they are, how they differ from traditional apps, and why they are a core component of."
 category: "Getting Started"
 
 ---

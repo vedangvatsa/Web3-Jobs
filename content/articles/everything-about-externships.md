@@ -4,7 +4,7 @@
 title: "Everything About Externships: A Gateway to Your Career"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "student learning career"
-description: "A comprehensive guide to externships. Learn what they are, how they differ from internships, and how you can use these short-term, observational experiences to explore a career path and build your network."
+description: "A comprehensive guide to externships. Learn what they are, how they differ from internships, and how you can use these short-term, observational."
 category: "Career Guides"
 
 ---

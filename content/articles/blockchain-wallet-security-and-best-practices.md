@@ -4,7 +4,7 @@
 title: "Blockchain Wallet Security and Best Practices"
 image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
 data-ai-hint: "blockchain wallet security"
-description: "A crucial guide to securing your crypto assets. Learn about the different types of wallets, the importance of seed phrases, and the best practices to protect yourself from hacks and scams."
+description: "A crucial guide to securing your crypto assets. Learn about the different types of wallets, the importance of seed phrases, and the best practices to."
 category: "Educational"
 
 ---

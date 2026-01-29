@@ -4,7 +4,7 @@
 title: "China's Digital Yuan (e-CNY): A Web3 Perspective"
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 data-ai-hint: "digital currency china"
-description: "An analysis of China's e-CNY. We explore how this Central Bank Digital Currency (CBDC) works and how it fundamentally differs from decentralized cryptocurrencies like Bitcoin."
+description: "An analysis of China's e-CNY. We explore how this Central Bank Digital Currency (CBDC) works and how it fundamentally differs from decentralized."
 category: "Industry Insights"
 
 ---

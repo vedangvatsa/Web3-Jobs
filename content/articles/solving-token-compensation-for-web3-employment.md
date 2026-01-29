@@ -4,7 +4,7 @@
 title: "Solving Token Compensation for Web3 Employment"
 image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
 data-ai-hint: "token compensation equity"
-description: "A guide to designing and understanding token-based compensation. Learn about vesting schedules, cliffs, and how to use tokens to align incentives for your Web3 team."
+description: "A guide to designing and understanding token-based compensation. Learn about vesting schedules, cliffs, and how to use tokens to align incentives for your."
 category: "Career Guides"
 
 ---

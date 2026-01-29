@@ -4,7 +4,7 @@
 title: "How to Stand Out in Crypto Job Interviews"
 image: "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg"
 data-ai-hint: "job interview person"
-description: "An expert's guide to acing your Web3 interview. Learn the key strategies, from preparing your 'rabbit hole' story to asking insightful questions, that will make you stand out from the crowd."
+description: "An expert's guide to acing your Web3 interview. Learn the key strategies, from preparing your 'rabbit hole' story to asking insightful questions, that."
 category: "Career Guides"
 
 ---

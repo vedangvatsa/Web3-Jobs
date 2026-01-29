@@ -3,7 +3,7 @@
 title: "A Guide to Verifiable Credentials in Decentralized Identity"
 image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
 data-ai-hint: "digital identity credentials"
-description: "A deep dive into Verifiable Credentials (VCs), the W3C standard that is the backbone of decentralized identity, enabling a future of user-owned, privacy-preserving data."
+description: "A deep dive into Verifiable Credentials (VCs), the W3C standard that is the backbone of decentralized identity, enabling a future of user-owned."
 category: "Technology Deep Dives"
 ---
 

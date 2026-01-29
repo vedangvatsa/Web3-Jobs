@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "luanda angola city"
-description: "A career guide to the nascent Web3 job market in Luanda. Explore how Angola's capital is beginning to embrace blockchain technology, with a focus on FinTech and enterprise solutions."
+description: "A career guide to the nascent Web3 job market in Luanda. Explore how Angola's capital is beginning to embrace blockchain technology, with a focus on."
 category: "Career Guides"
 
 

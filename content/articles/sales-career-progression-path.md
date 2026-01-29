@@ -2,7 +2,7 @@
 
 
 title: "The Sales Career Progression Path: From SDR to VP of Sales"
-description: "Understand the typical career ladder in a modern sales organization, from the entry-level Sales Development Representative (SDR) role to the executive VP of Sales. Learn the skills and responsibilities at each stage."
+description: "Understand the typical career ladder in a modern sales organization, from the entry-level Sales Development Representative (SDR) role to the executive VP."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "upward arrow"
 category: "Career Guides"

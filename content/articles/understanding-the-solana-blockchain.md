@@ -4,7 +4,7 @@
 title: "Understanding the Solana Blockchain"
 image: "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg"
 data-ai-hint: "solana blockchain"
-description: "An overview of Avalanche (AVAX), a Layer 1 blockchain known for its unique subnet architecture and high-speed consensus mechanism, designed for DeFi and custom blockchain deployments."
+description: "An overview of Avalanche (AVAX), a Layer 1 blockchain known for its unique subnet architecture and high-speed consensus mechanism, designed for DeFi and."
 category: "Educational"
 
 ---

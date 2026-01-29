@@ -3,7 +3,7 @@
 
 title: "The Ultimate Guide to Stablecoins"
 image: "https://picsum.photos/seed/30/1200/630"
-description: "Stablecoins are the backbone of the DeFi economy, but not all are created equal. This guide breaks down the different types of stablecoins, their mechanisms, and their risks."
+description: "Stablecoins are the backbone of the DeFi economy, but not all are created equal. This guide breaks down the different types of stablecoins, their."
 category: "Technology Deep Dives"
 data-ai-hint: "cryptocurrency defi"
 

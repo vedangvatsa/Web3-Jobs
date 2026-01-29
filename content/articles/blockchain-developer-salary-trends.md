@@ -4,7 +4,7 @@
 title: "Blockchain Developer Salary Trends"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "salary money crypto"
-description: "A comprehensive guide to Web3 developer salaries in 2026. We break down what you can earn as a smart contract, frontend, or protocol engineer in the blockchain industry."
+description: "A comprehensive guide to Web3 developer salaries in 2026. We break down what you can earn as a smart contract, frontend, or protocol engineer in the."
 category: "Educational"
 
 ---

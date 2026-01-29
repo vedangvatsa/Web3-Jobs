@@ -4,7 +4,7 @@
 title: "Understanding Verifiable Credentials in Blockchain"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "certificate verification blockchain"
-description: "Verifiable Credentials (VCs) are a W3C standard for tamper-proof digital credentials that can be verified on a blockchain. This guide explains how they enable a new model of user-owned, privacy-preserving data."
+description: "Verifiable Credentials (VCs) are a W3C standard for tamper-proof digital credentials that can be verified on a blockchain. This guide explains how they."
 category: "Educational"
 
 ---

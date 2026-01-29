@@ -4,7 +4,7 @@
 title: "The Most Rewarding Web3 Careers You Should Know"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 data-ai-hint: "rewarding web3 career"
-description: "Beyond the high salaries, what makes a Web3 career truly rewarding? We explore the roles that offer the greatest potential for impact, learning, and shaping the future of the internet."
+description: "Beyond the high salaries, what makes a Web3 career truly rewarding? We explore the roles that offer the greatest potential for impact, learning, and."
 category: "Career Guides"
 
 ---

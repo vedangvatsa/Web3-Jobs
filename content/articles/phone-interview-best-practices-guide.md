@@ -5,7 +5,7 @@ title: "Phone Interview Best Practices Guide"
 category: "Career Guides"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "phone interview"
-description: "Master the art of the phone interview with this comprehensive guide. Learn how to prepare, what to say, and how to follow up to make a lasting impression and secure the next round."
+description: "Master the art of the phone interview with this comprehensive guide. Learn how to prepare, what to say, and how to follow up to make a lasting impression."
 
 ---
 

@@ -4,7 +4,7 @@
 title: "Content Strategy for Web3 Projects: Educate, Engage, and Empower"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "content strategy writing"
-description: "In Web3, content is more than marketing—it's a core part of the product. This guide outlines a content strategy focused on educating users, engaging the community, and building lasting trust."
+description: "In Web3, content is more than marketing—it's a core part of the product. This guide outlines a content strategy focused on educating users, engaging the."
 category: "Industry Insights"
 
 ---

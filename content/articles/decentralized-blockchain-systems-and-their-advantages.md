@@ -4,7 +4,7 @@
 title: "Decentralized Blockchain Systems and Their Advantages"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "decentralized network nodes"
-description: "An exploration of decentralization, the core principle of blockchain technology. Learn why building on a decentralized system offers advantages in security, censorship resistance, and user ownership."
+description: "An exploration of decentralization, the core principle of blockchain technology. Learn why building on a decentralized system offers advantages in."
 category: "Educational"
 
 ---

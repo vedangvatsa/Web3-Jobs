@@ -3,7 +3,7 @@
 
 
 title: "Solana's Alleged Slowdown: A Fundamental Look at Developer Activity"
-description: "A fundamental analysis of Solana's developer activity. We cut through the noise of market cycles to reveal a resilient and maturing ecosystem focused on high-performance use cases."
+description: "A fundamental analysis of Solana's developer activity. We cut through the noise of market cycles to reveal a resilient and maturing ecosystem focused on."
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man coding laptop"

@@ -4,7 +4,7 @@
 title: "How Crypto Is Changing the Way We Use the Internet"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "internet crypto future"
-description: "From digital ownership with NFTs to decentralized finance (DeFi), explore how cryptocurrency and blockchain are fundamentally changing our relationship with the internet."
+description: "From digital ownership with NFTs to decentralized finance (DeFi), explore how cryptocurrency and blockchain are fundamentally changing our relationship."
 category: "Industry Insights"
 
 ---

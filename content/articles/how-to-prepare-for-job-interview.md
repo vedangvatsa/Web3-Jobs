@@ -4,7 +4,7 @@
 title: "How to Prepare for Job Interview"
 image: "https://picsum.photos/seed/job-interview/1200/630"
 data-ai-hint: "interview handshake two people"
-description: "A comprehensive guide on how to prepare for a job interview. Learn the key steps to take before, during, and after the interview to maximize your chances of success."
+description: "A comprehensive guide on how to prepare for a job interview. Learn the key steps to take before, during, and after the interview to maximize your chances."
 category: "Career Guides"
 
 ---
