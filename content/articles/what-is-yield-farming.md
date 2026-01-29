@@ -46,21 +46,3 @@ Yield farming is not a passive investment. It is an active, high-risk strategy.
 
 Yield farming is a powerful but complex part of the DeFi ecosystem. It's a high-risk, high-reward game that requires deep knowledge and active management. For the DeFi ecosystem, it provides a vital service: bootstrapping liquidity for new protocols. For sophisticated users, it offers an opportunity to put their crypto assets to work and earn returns far beyond what is available in the traditional financial world.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is yield farming?
-Yield farming is the practice of strategically using your crypto assets across various **[DeFi protocols](/what-is-defi)** to generate the highest possible return, or "yield." This is typically done by providing liquidity to decentralized exchanges or lending platforms.
-
-### 2. How do yield farmers make money?
-Yield farmers earn returns from multiple sources. They can earn trading fees by providing liquidity to an exchange, interest from lending their assets, and often receive additional rewards in the form of a protocol's native governance token.
-
-### 3. What is a Liquidity Provider (LP)?
-A Liquidity Provider is someone who deposits their assets into a DeFi protocol's liquidity pool. This is the foundational activity of most yield farming strategies. A **[professional LP](/how-to-become-a-web3-liquidity-provider-in-decentralized-finance)** actively manages their positions to maximize returns.
-
-### 4. What is impermanent loss?
-Impermanent loss is the biggest risk for liquidity providers. It is the potential opportunity cost that occurs when the price of the assets in a liquidity pool diverges. The value of your assets in the pool can end up being less than if you had simply held them in your wallet.
-
-### 5. What is a "yield farming analyst"?
-This is an emerging professional role for DeFi experts who specialize in finding, analyzing, and managing complex yield farming strategies for crypto funds or DAOs. Our **[yield farming analyst career guide](/how-to-become-a-web3-yield-farming-analyst)** provides more detail on this path.

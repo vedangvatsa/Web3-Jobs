@@ -88,20 +88,3 @@ Despite these challenges, the potential for Web3 to bring a new level of efficie
     </a>
   </CardContent>
 </Card>
----
-## Frequently Asked Questions
-
-### 1. How does blockchain improve supply chain management?
-Blockchain creates a **shared, immutable ledger** that all participants in a supply chain can trust. This improves **transparency** (everyone sees the same data), **traceability** (tracking goods from origin to sale), and **efficiency** (automating processes with smart contracts).
-
-### 2. What is a "track and trace" system in Web3?
-In a Web3 track and trace system, a physical item is often represented by a unique **[NFT](/what-are-nfts)** on the blockchain. As the item moves through the supply chain, its status is updated on-chain, creating a verifiable and tamper-proof history of its journey.
-
-### 3. What are the key career opportunities in Web3 supply chain?
-The main roles are **[Supply Chain Protocol Developer](/web3-supply-chain-experts-navigating-blockchain-solutions)** (who builds the platform), **Web3 Logistics Consultant** (who advises traditional companies), and **Product Manager** (who designs the software interfaces).
-
-### 4. What skills are needed for a career in this field?
-You need a hybrid skillset. A deep understanding of traditional **logistics and supply chain management** is crucial. This must be combined with expertise in **[blockchain technology](/what-is-a-blockchain)**, including smart contracts and, often, IoT devices.
-
-### 5. What is an example of a blockchain supply chain solution?
-A common example is tracking high-value goods like pharmaceuticals or luxury items to prevent counterfeiting. Another is tracking the origin of food products, like coffee, to prove they are ethically and sustainably sourced. Projects like TradeLens (by IBM/Maersk) and protocols built on public chains are exploring this space.

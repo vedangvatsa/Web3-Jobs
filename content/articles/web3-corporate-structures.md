@@ -57,21 +57,3 @@ For these reasons, many Web3 projects are adopting a hybrid model, often called 
 
 Web3 is forcing a necessary evolution in how we think about corporate structure. It's a move away from closed, hierarchical systems towards more open, transparent, and networked models of organization. While the purely "leaderless" DAO is still an experiment, the principles it champions—transparency, community ownership, and decentralized governance—are already having a profound impact, pushing all organizations to become more equitable and accountable to their stakeholders.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a DAO?
-A DAO, or **[Decentralized Autonomous Organization](/what-is-a-dao)**, is an internet-native organization owned and managed by its members. It uses smart contracts to enforce rules and make decisions through a transparent, on-chain voting process.
-
-### 2. How are DAOs different from traditional companies?
-The main differences are in their structure and governance. Traditional companies are hierarchical and opaque, with decisions made by a small group of executives. DAOs are decentralized and transparent, with decisions made by a community of token holders.
-
-### 3. How do DAOs hire people?
-DAOs have a more fluid workforce. Instead of hiring full-time employees, they often use a system of bounties and grants to pay contributors for specific tasks. This creates a more permissionless and meritocratic way to get involved, as detailed in our guide on **[how to contribute to a DAO and get paid](/how-to-contribute-to-daos-and-get-paid)**.
-
-### 4. What is "progressive decentralization"?
-This is a popular model where a Web3 project starts as a traditional, centralized company to build its initial product quickly. Then, over time, it "progressively" hands over control and ownership to a community-governed DAO.
-
-### 5. What are the legal challenges for DAOs?
-The legal status of DAOs is a major area of uncertainty. Without a formal **[legal wrapper](/how-to-become-a-web3-legal-consultant)** (like a foundation or LLC), a DAO might be treated as a general partnership, which could expose its members to personal liability.

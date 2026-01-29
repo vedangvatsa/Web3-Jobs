@@ -104,9 +104,3 @@ A3: It is perfectly acceptable and often encouraged to leave a meeting if the di
 
 A4: The best way to reduce meeting overload is to be a role model for good asynchronous communication. When you receive a meeting invite, ask if the goal can be achieved via a shared document or a Slack thread. When you run your own meetings, keep them short and focused. Over time, this can help shift the company culture away from a meeting-first mindset.
 
----
-### Internal Links
-- [How to Run Effective Team Meetings](/how-to-run-effective-team-meetings)
-- [Slack Communication Best Practices](/slack-communication-best-practices)
-- [Async Communication Skills for Remote Teams](/async-communication-skills-for-remote-teams)
-- [Virtual Interview Tips and Tricks](/virtual-interview-tips-and-tricks)

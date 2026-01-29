@@ -33,21 +33,3 @@ It's important to distinguish a spot ETF from a **futures ETF**. Futures ETFs, w
 
 While a core tenet of crypto is self-custody ("not your keys, not your coins"), crypto ETFs serve as a vital bridge between the worlds of traditional finance and [Decentralized Finance (DeFi)](/what-is-defi). They provide a safe and simple on-ramp for millions of new users and trillions of dollars in capital, which is crucial for the long-term growth and adoption of the entire Web3 ecosystem.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is an ETF?
-An ETF, or Exchange-Traded Fund, is an investment product that trades on a stock exchange. It tracks the value of an underlying asset, like gold, a stock index, or, in this case, a cryptocurrency like Bitcoin.
-
-### 2. What's the difference between a spot Bitcoin ETF and a futures ETF?
-A spot Bitcoin ETF directly holds actual Bitcoin as its underlying asset. A futures ETF holds Bitcoin futures contracts, which are agreements to buy or sell Bitcoin at a future date. A spot ETF provides more direct exposure to Bitcoin's real-time price.
-
-### 3. Do I own Bitcoin if I buy a Bitcoin ETF?
-No. When you buy shares of a Bitcoin ETF, you own a security that represents a claim on the Bitcoin held by the fund manager. You do not have self-custody of the actual Bitcoin, which is a key principle of [Web3](/what-is-web3).
-
-### 4. Why are spot ETFs important for crypto adoption?
-They provide an easy and regulated way for mainstream and institutional investors to get exposure to crypto through their existing brokerage accounts. This opens the door for massive capital inflows and lends significant legitimacy to the asset class, which is a major challenge for [Web3 adoption](/why-web3-adoption-is-slow).
-
-### 5. How can I gain exposure to crypto without an ETF?
-The native way to own crypto is through self-custody. This involves buying cryptocurrency on an exchange and transferring it to a personal [crypto wallet](/how-to-choose-a-crypto-wallet) where you control the private keys.

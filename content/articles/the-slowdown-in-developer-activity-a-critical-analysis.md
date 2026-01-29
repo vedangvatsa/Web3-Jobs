@@ -290,10 +290,10 @@ A: Absolutely. Knowledge from one path helps all others. Try, learn, adjust.
 - Capture The Ether (security gamification)
 
 ### Related Career Guides
-- [Smart Contract Auditor Career Guide](/content/articles/smart-contract-auditor.md)
-- [DeFi Developer Career Path](/content/articles/defi-developer-career.md)
-- [Protocol Engineer Career Guide](/content/articles/protocol-engineer.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Smart Contract Auditor Career Guide](smart-contract-auditor)
+- [DeFi Developer Career Path](defi-developer-career)
+- [Protocol Engineer Career Guide](protocol-engineer)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step
 

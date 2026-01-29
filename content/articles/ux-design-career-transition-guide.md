@@ -88,17 +88,3 @@ Highlight these transferable skills on your resume and in your interviews.
 - **Behance & Dribbble:** Follow other designers to get inspiration and see what great work looks like.
 - **Mentorship:** Find a mentor who can provide feedback on your portfolio and guide you through the transition. Many senior designers are happy to help newcomers.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q: Do I need to be a great artist or illustrator to be a UX/UI designer?**
-A: No. While visual design skills are important for UI, UX is more about process, logic, and empathy. You don't need to be able to draw, but you do need to have a good eye for what makes an interface clean, clear, and usable.
-
-**Q: How long does it take to transition into a UX career?**
-A: It varies, but a dedicated person can typically build a solid portfolio and be job-ready within 6 to 12 months. An intensive bootcamp can accelerate this timeline.
-
-**Q: Is the UX job market saturated?**
-A: The market for junior UX designers is competitive. This is why having a high-quality portfolio that showcases your process and problem-solving skills is so critical. A portfolio with 2-3 well-documented case studies is far more valuable than one with 10 unfinished design concepts.
-
-Transitioning to a new career is a marathon, not a sprint. It requires dedication, a passion for learning, and a willingness to put in the work to build a strong portfolio. By following these steps, you can successfully navigate the switch and launch a rewarding career in the exciting field of UX/UI design.

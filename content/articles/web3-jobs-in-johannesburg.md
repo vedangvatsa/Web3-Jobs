@@ -261,6 +261,6 @@ A: Johannesburg market values professionalism and compliance. If regulated, less
 - Fintech job boards (Africa-focused)
 
 ### Related Career Guides
-- [Institutional Blockchain PM](/content/articles/institutional-blockchain-pm.md)
-- [Compliance Officer Guide](/content/articles/compliance-officer-web3.md)
-- [Enterprise Blockchain Architect](/content/articles/enterprise-blockchain-architect.md)
+- [Institutional Blockchain PM](institutional-blockchain-pm)
+- [Compliance Officer Guide](compliance-officer-web3)
+- [Enterprise Blockchain Architect](enterprise-blockchain-architect)

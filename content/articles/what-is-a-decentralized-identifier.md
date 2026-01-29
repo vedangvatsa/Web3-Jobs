@@ -48,21 +48,3 @@ DIDs are a foundational building block for a more private and user-centric inter
 
 Decentralized Identifiers are a simple but powerful concept. They shift the control of online identity from centralized platforms to the individual, creating a more secure, private, and interoperable digital world.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is my DID my wallet address?
-They are very closely related and can be the same thing. For example, the `did:ethr` method uses an Ethereum address as the method-specific identifier. Your wallet address is a type of DID.
-
-### 2. Where is my DID stored?
-The DID and its associated DID Document are registered on a public blockchain or another type of distributed ledger. This makes it publicly discoverable and verifiable.
-
-### 3. How is a DID different from using "Sign in with Google"?
-When you use "Sign in with Google," Google is the central authority that controls your identity. With a DID, you are the authority. You control your own keys and your own data.
-
-### 4. What is Self-Sovereign Identity (SSI)?
-**[SSI](/self-sovereign-identity-in-web3-explained)** is the broad movement and philosophy that individuals should have ultimate control over their own digital identities. DIDs are the core technical standard for implementing SSI.
-
-### 5. What is a "Verifiable Credential"?
-A Verifiable Credential is a tamper-proof digital claim or attestation made about a DID by an issuer. For example, a government could issue a credential to your DID that verifies you are over 18. This is a key part of building a useful decentralized identity system.

@@ -146,21 +146,3 @@ Web3 is complex, and clear, concise documentation is essential for developers an
 
 ### Essential Skills:
 Excellent writing and communication skills, the ability to understand complex technical topics, and a knack for explaining them simply. A technical background is often required. Learn more about [becoming a Web3 technical writer](/becoming-a-web3-technical-writer).
----
-
-## Frequently Asked Questions
-
-### 1. What are the highest-paying jobs in Web3?
-The highest-paying roles are typically the most technical and specialized. These include [Smart Contract Security Auditors](/smart-contract-auditor-career), Protocol Engineers (who build the blockchains themselves), and DeFi Quantitative Analysts. These roles often command salaries well over $200,000 USD.
-
-### 2. Can I get a Web3 job without being a developer?
-Absolutely. As this list shows, there is massive demand for non-technical roles like [Community Manager](/web3-community-manager-career), Marketing Manager, Product Manager, and Designer. Your skills from Web2 are highly transferable, as long as you're willing to learn the nuances of the crypto space.
-
-### 3. What is the best way to get started if I'm a beginner?
-The best way to start is to immerse yourself in the space. Follow our [beginner's guide](/how-to-start-a-web3-career) to learn the basics, get a crypto wallet, use some dApps, and join a community. From there, you can start building a portfolio of "proof of work" to demonstrate your skills.
-
-### 4. Are most Web3 jobs remote?
-Yes, the vast majority of Web3 jobs are [remote-first](/remote-work-in-web3). The industry has a global talent pool and a culture that was born on the internet, making it one of the most flexible and location-independent industries in the world.
-
-### 5. Where can I find these jobs?
-Our [Web3 Job Board](/jobs) is the most comprehensive source for finding roles across all these categories, featuring curated opportunities from the top companies and DAOs in the crypto industry.

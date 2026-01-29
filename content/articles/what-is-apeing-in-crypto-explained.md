@@ -79,26 +79,3 @@ A sound investment strategy is based on research, a clear thesis, risk managemen
 
 If you choose to participate in this high-risk game, it is critical to do so with a very small portion of your portfolio that you are completely willing to lose. Never "ape in" with money you cannot afford to set on fire. For every story of a 100x gain, there are countless untold stories of portfolios that went to zero. Understanding this reality is the key to surviving and thriving in the chaotic but exciting world of crypto.
 
----
-
-### Frequently Asked questions (FAQ)
-
-**Q1: Is "apeing in" the same as making a speculative investment?**
-
-While all "apeing" is speculative, not all speculation is "apeing." A speculative investment might be a well-researched bet on an early-stage but promising project. "Aping in" specifically refers to the act of investing with little to no research, driven primarily by emotion and hype.
-
-**Q2: Can you make money by "apeing in"?**
-
-It is possible, just as it is possible to win the lottery. Some people have made life-changing money by getting into a meme coin or NFT project very early. However, for every success story, there are thousands of people who have lost their entire investment. It is an extremely high-risk strategy.
-
-**Q3: How can I avoid the temptation to "ape in"?**
-
-The best way is to have a clear investment strategy and rules for yourself. For example, have a rule that you will never invest in a project without spending at least a few hours researching it first. Unfollow accounts that promote constant hype and FOMO. And most importantly, only invest what you are truly willing to lose in highly speculative assets.
-
-**Q4: What is a "rug pull"?**
-
-A "rug pull" is a common scam in the crypto world where the developers of a new token attract investors, wait for them to provide liquidity in a decentralized exchange, and then withdraw all the valuable tokens (like ETH) from the liquidity pool, causing the new token's price to crash to zero.
-
-**Q5: What does FOMO mean?**
-
-FOMO stands for "Fear Of Missing Out." It's a powerful psychological driver that causes people to make impulsive decisions because they see others making money and are afraid of being left behind. It is the primary emotion behind "apeing in."

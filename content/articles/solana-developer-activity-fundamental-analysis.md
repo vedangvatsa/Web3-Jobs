@@ -273,6 +273,6 @@ A: Specialization pays premium. Rust + Solana expertise = rare, valuable combina
 - Protocol job boards
 
 ### Related Career Guides
-- [Smart Contract Developer Guide](/content/articles/smart-contract-developer.md)
-- [Full-Stack Web3 Developer Path](/content/articles/full-stack-web3-developer.md)
-- [Rust Systems Programming for Blockchain](/content/articles/rust-systems-programming.md)
+- [Smart Contract Developer Guide](smart-contract-developer)
+- [Full-Stack Web3 Developer Path](full-stack-web3-developer)
+- [Rust Systems Programming for Blockchain](rust-systems-programming)

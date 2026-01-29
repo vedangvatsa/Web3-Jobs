@@ -329,10 +329,10 @@ A:
 - Blockchain for good case studies
 
 ### Related Career Guides
-- [Web3 Jobs in Lagos](/content/articles/web3-jobs-in-lagos.md) — West Africa mega-hub
-- [Web3 Jobs in Accra](/content/articles/web3-jobs-in-accra.md) — West Africa education
-- [Social Impact Web3 Careers](/content/articles/social-impact-web3-careers.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Web3 Jobs in Lagos](web3-jobs-in-lagos) — West Africa mega-hub
+- [Web3 Jobs in Accra](web3-jobs-in-accra) — West Africa education
+- [Social Impact Web3 Careers](social-impact-web3-careers)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step: Find a Web3 Job
 

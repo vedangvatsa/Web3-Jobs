@@ -39,21 +39,3 @@ In an IDO, a token is launched directly on a Decentralized Exchange (DEX). This 
 
 While the term "ICO" is now largely historical, its impact was profound. It demonstrated that a global, permissionless, and internet-native model for fundraising was possible. The lessons learned from the excesses of the ICO boom have directly led to the more mature and sustainable token launch mechanisms that are used in the Web3 ecosystem today.
 
----
-
-## Frequently Asked Questions
-
-### 1. What's the difference between an ICO and an IPO?
-An IPO (Initial Public Offering) is a highly regulated process for a private company to sell its shares to the public on a stock exchange. An ICO was a largely unregulated process for a new crypto project to sell its tokens to raise funds.
-
-### 2. Are ICOs still happening today?
-The term "ICO" is rarely used now due to its association with the scams and regulatory issues of 2017-2018. The modern equivalent is the **[IDO (Initial DEX Offering)](/initial-dex-offering-complete-guide)**, which is seen as a more transparent and liquid method.
-
-### 3. Was the Ethereum launch an ICO?
-Yes, the Ethereum project conducted one of the earliest and most successful ICOs in 2014, selling ETH to early backers to fund the development of the network.
-
-### 4. Why did regulators crack down on ICOs?
-Regulators like the SEC determined that most ICOs were sales of "securities" to the public, which requires following strict registration and disclosure laws. Because almost no ICOs followed these laws, they were deemed illegal securities offerings.
-
-### 5. What is a "security token"?
-A **[security token](/security-token-offering-explained-for-investors)** is a digital token that is explicitly designed to be a security. It represents an ownership stake or a right to profits in an enterprise and is issued in compliance with securities regulations.

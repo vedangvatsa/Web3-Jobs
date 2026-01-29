@@ -136,9 +136,3 @@ A3: It is generally best to avoid them in the very first email. Attachments and 
 
 A4: A good rule of thumb is to send a total of 3-4 emails (including the initial one) over the course of about two weeks. Any more than that can start to feel like pestering and may harm your reputation.
 
----
-### Internal Links
-- [Professional Email Etiquette Rules](/professional-email-etiquette-rules)
-- [How to Build Professional Network Fast](/how-to-build-professional-network-fast)
-- [Coffee Chat Etiquette for Professionals](/coffee-chat-etiquette-for-professionals)
-- [Business Writing Tips for Professionals](/business-writing-tips-for-professionals)

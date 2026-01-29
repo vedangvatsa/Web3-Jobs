@@ -86,7 +86,7 @@ Despite the concerning trends, there are some positive indicators for the crypto
 
 #### 1. Projected VC Funding Rebound
 
-PitchBook analyst Robert Le projects crypto venture capital funding to reach $18 billion in 2025, representing a 50% increase compared to 2024. This would mark the strongest funding environment since the peak of the last cycle.
+PitchBook analyst Robert Le projects crypto venture capital funding to reach $18 billion in 2026, representing a 50% increase compared to 2024. This would mark the strongest funding environment since the peak of the last cycle.
 
 #### 2. Q1 2025 Funding Surge
 
@@ -95,7 +95,7 @@ The first quarter of 2025 saw $4.8 billion in crypto VC funding, the highest sin
 
 #### 3. Institutional Involvement
 
-Financial institutions are increasingly leveraging their regulatory relationships to facilitate investments in the sector. Standard Chartered analysts predict that institutional inflows will not slow down in 2025 and may even accelerate.
+Financial institutions are increasingly leveraging their regulatory relationships to facilitate investments in the sector. Standard Chartered analysts predict that institutional inflows will not slow down in 2026 and may even accelerate.
 
 #### 4. Focus Shift to Application Layer
 
@@ -141,6 +141,6 @@ As Flanders concludes: “At this point, one of two scenarios has to be true. Ei
 
 The developer exodus signals that the industry must refocus on building applications with genuine utility while creating sustainable environments for builders. Venture capital remains essential to this process, providing the runway needed for innovative ideas to mature.
 
-The projected rebound in VC funding for 2025 offers hope, but the industry cannot rely solely on capital inflows to solve its challenges. A fundamental shift toward development-led narratives rather than narrative-led development may be the key to revitalizing the ecosystem and bringing developers back to the blockchain space.
+The projected rebound in VC funding for 2026 offers hope, but the industry cannot rely solely on capital inflows to solve its challenges. A fundamental shift toward development-led narratives rather than narrative-led development may be the key to revitalizing the ecosystem and bringing developers back to the blockchain space.
 
 For an industry built on the premise of decentralization, the path forward ironically depends on re-centralizing focus on what truly matters: creating technology that improves lives rather than merely enriching speculators. Only then can crypto fulfill its promise of transforming not just finance, but the broader digital landscape.

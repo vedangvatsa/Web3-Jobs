@@ -42,7 +42,7 @@ Understanding Bangui's position in the global Web3 ecosystem is crucial for anyo
 
 This creates unique opportunities for **first-mover advantage** for those willing to take calculated risks. The professionals who enter this space now will be the ones writing the rules of Web3 in Central Africa for years to come. This is not a market for conservative career moves, but it is a market where genuine impact and learning can be extraordinary.
 
-Related Reading: **[How to Build Executive Presence at Work](/content/articles/how-to-build-executive-presence-at-work.md)** – Essential for anyone wanting to influence policy or institutional decisions in the Sango ecosystem.
+Related Reading: **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)** – Essential for anyone wanting to influence policy or institutional decisions in the Sango ecosystem.
 
 ## Networking and Community Building in Bangui
 
@@ -77,7 +77,7 @@ Opportunities exist in building:
 - Stablecoin infrastructure for local commerce
 - Microfinance DeFi protocols suitable for the CAR context
 
-See also: **[Solana Developer Activity: Fundamental Analysis](/content/articles/solana-developer-activity-fundamental-analysis.md)** – Understanding blockchain scaling solutions relevant to limited-bandwidth environments.
+See also: **[Solana Developer Activity: Fundamental Analysis](solana-developer-activity-fundamental-analysis)** – Understanding blockchain scaling solutions relevant to limited-bandwidth environments.
 
 ## Challenges to Navigate
 
@@ -111,7 +111,7 @@ If you're committed to making it work in Bangui:
 3. **Focus on Impact:** Your success will be measured not just in salary, but in the systems you build and the ecosystem you help develop.
 4. **Plan for Mobility:** Be prepared to spend time in other African tech hubs (Dakar, Lagos, Kigali) to access conferences, funding, and collaboration opportunities.
 
-Related: **[First 90 Days in a New Job Strategy](/content/articles/first-90-days-in-new-job-strategy.md)** – Even in frontier markets, your first months are critical for establishing credibility.
+Related: **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – Even in frontier markets, your first months are critical for establishing credibility.
 
 ## Community Resources and References
 

@@ -41,21 +41,3 @@ The Sui ecosystem is growing rapidly, with a focus on applications that can leve
 
 For developers, particularly those with a background in systems languages like **Rust** (which has a similar syntax to Move), the Sui ecosystem offers a new and exciting frontier. The demand for experienced **Move developers** is high and growing, providing a lucrative career path for those willing to learn this new and powerful blockchain paradigm.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is Sui an L1 or an L2?
-Sui is a **[Layer 1 (L1) blockchain](/what-is-a-layer-1-blockchain)**. It is a foundational blockchain with its own consensus mechanism and is not built on top of another chain like Ethereum.
-
-### 2. How is Sui different from Solana?
-Both Sui and **[Solana](/what-is-solana)** are high-performance L1s. A key difference is their data model. Sui uses an "object-centric" model that allows for parallel transaction processing, while Solana uses an account-based model similar to Ethereum but with its own unique consensus mechanism (Proof-of-History).
-
-### 3. What programming language does Sui use?
-Sui uses a smart contract language called **Move**. Move is designed with a strong focus on security and the safe handling of digital assets. Its syntax is similar to Rust.
-
-### 4. What are the best use cases for Sui?
-Sui's high speed and low transaction costs make it particularly well-suited for applications that require high throughput, such as **[Web3 gaming](/exploring-web3-gaming)**, high-frequency DeFi trading (like on-chain order books), and payment systems.
-
-### 5. What kind of jobs are available in the Sui ecosystem?
-The primary demand is for developers who are proficient in the **Move** programming language. As the ecosystem grows, there is also an increasing need for product managers, marketers, and community managers who understand the unique features of the Sui blockchain.

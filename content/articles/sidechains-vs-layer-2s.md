@@ -43,21 +43,3 @@ A **Layer 2 (L2)** is a scaling solution that processes transactions off-chain b
 
 While sidechains like Polygon PoS have been instrumental in helping Ethereum scale so far, the official Ethereum roadmap and the broader community consensus have embraced a "rollup-centric" future. The superior security guarantees of L2s make them the preferred long-term solution for scaling Ethereum. As technology like [zkEVMs](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum) matures, most dApp development is expected to happen on Layer 2s that are directly secured by Ethereum's powerful and decentralized validator set.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main difference between a sidechain and a Layer 2?
-The main difference is the **security model**. A **Layer 2 (L2)** rollup inherits its security directly from the main blockchain (like Ethereum). A **sidechain** is an independent blockchain with its own separate security and consensus mechanism.
-
-### 2. Is Polygon a Layer 2 or a sidechain?
-This is a common point of confusion. **Polygon PoS**, the main Polygon network, is a **sidechain**. However, the Polygon team is also developing several other solutions, including **Polygon zkEVM**, which is a true **[Layer 2 ZK-Rollup](/guide-to-layer-2s)**.
-
-### 3. Which is more secure, a sidechain or a rollup?
-A **Layer 2 rollup is significantly more secure**. With a rollup, your funds are secured by the full economic security of the main Ethereum network. With a sidechain, you are trusting the sidechain's own, smaller set of validators not to collude and steal funds from the bridge.
-
-### 4. What is a "bridge"?
-A bridge is a mechanism that allows you to move assets from one blockchain to another. To use a sidechain, you must lock your assets on Ethereum in a bridge contract, which then mints a "wrapped" version of that asset on the sidechain. These bridges are a common point of failure and have been the target of many major hacks.
-
-### 5. Why is the future "rollup-centric"?
-The Ethereum community has largely decided that rollups are the preferred scaling solution due to their superior security guarantees. The Ethereum protocol itself is being upgraded (with features like Danksharding) specifically to make rollups cheaper and more efficient.

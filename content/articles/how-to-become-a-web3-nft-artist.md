@@ -69,21 +69,3 @@ Minting your art is the easy part. Selling it requires building a community of p
 
 Becoming a successful NFT artist is a marathon, not a sprint. It requires not only artistic talent but also a willingness to learn new technology, a strategic approach to marketing, and a genuine commitment to building a community. For artists who are willing to put in the work, the NFT space offers a powerful new way to share their creations with the world and build a sustainable, independent career.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is an NFT?
-An NFT, or **[Non-Fungible Token](/what-are-nfts)**, is a unique digital certificate of ownership recorded on a blockchain. For artists, it allows them to create provably scarce digital original artworks.
-
-### 2. How do I create (mint) an NFT?
-To mint an NFT, you need a crypto wallet (like MetaMask), some cryptocurrency to pay for gas fees, and your digital artwork. You then use an NFT marketplace platform (like OpenSea or Foundation) to upload your art and publish it to the blockchain.
-
-### 3. What are NFT royalties?
-**[NFT artist royalties](/nft-artist-royalties)** are a percentage of future sales that is automatically paid to the original creator. When you mint your NFT, you can set a royalty percentage (e.g., 10%), so you continue to earn from your work as its value grows.
-
-### 4. How do I market my NFT art?
-The most important marketing tool for an NFT artist is community building. Twitter is the primary platform for sharing your work, telling your story, and building genuine relationships with collectors and other artists.
-
-### 5. Do I need to be a developer to be an NFT artist?
-No. While some generative artists write their own [smart contracts](/what-are-smart-contracts), the vast majority of artists use user-friendly marketplace platforms that handle all the technical aspects of minting for you. The primary skills are your artistic talent and your ability to build a community.

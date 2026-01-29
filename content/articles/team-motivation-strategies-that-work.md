@@ -60,25 +60,3 @@ Think of money as a "hygiene factor." If you get it wrong, it's all anyone can t
 
 Motivating a team is not about elaborate incentive schemes or motivational posters. It's about creating an environment of trust, respect, and shared mission. By focusing on the three pillars of intrinsic motivation—giving your team autonomy over their work, providing opportunities for them to achieve mastery, and connecting their daily tasks to a larger purpose—you can unlock the creativity, passion, and drive that leads to extraordinary results.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q: Do these strategies work for non-technical teams?**
-
-A: Absolutely. Autonomy, mastery, and purpose are universal human desires. A marketing team can have autonomy over their campaign strategies. A support team can work towards mastery in communication and problem-solving. Every team benefits from a clear connection to the company's purpose.
-
-**Q: How do I motivate an underperforming employee?**
-
-A: First, use your one-on-one meetings to diagnose the root cause. Is it a skill gap (mastery)? A lack of clarity on goals (purpose)? Or are they being micromanaged (autonomy)? Often, underperformance is a symptom of one of these areas being blocked. Address the root cause before considering other measures.
-
-**Q: Our company is small and can't afford big learning budgets. How can I foster mastery?**
-
-A: Mastery isn't just about expensive courses. You can create a free internal mentorship program, start a "book club" where you read and discuss an industry book together, or encourage team members to give presentations to each other on topics they are passionate about. The most important thing is to create a culture that values learning.
-
-**Q---
-**Related Articles:**
-- [[how-to-handle-underperforming-employees]]
-- [[leadership-skills-for-new-managers]]
-- [[performance-management-best-practices]]
-- [[how-to-give-constructive-feedback]]

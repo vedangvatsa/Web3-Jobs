@@ -47,21 +47,3 @@ The concept of Soulbound Tokens is still in its early, theoretical stages, and i
 
 Soulbound Tokens are a fascinating and powerful idea that could fundamentally change the way we think about digital identity. By moving beyond purely financial and transferable assets, SBTs offer a path to building a richer, more nuanced, and more human-centric Web3, creating a truly "Decentralized Society."
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main difference between an NFT and an SBT?
-The main difference is **transferability**. An **[NFT](/what-are-nfts)** can be sold or transferred. A Soulbound Token (SBT) is permanently bound to a specific wallet and cannot be transferred.
-
-### 2. Why are SBTs important for identity?
-Because they are non-transferable, SBTs can be used to represent personal attributes, achievements, and affiliations that shouldn't be for sale, like a university degree or a professional license. They are a core component of building a **[reputation system in Web3](/what-is-a-reputation-system-in-web3)**.
-
-### 3. Who came up with the idea for SBTs?
-The concept was popularized in a 2022 paper titled "Decentralized Society: Finding Web3's Soul," co-authored by Ethereum founder Vitalik Buterin, E. Glen Weyl, and Puja Ohlhaver.
-
-### 4. How would you recover your identity if you lose the key to your "Soul" wallet?
-This is a major challenge. The original paper proposes a "social recovery" model, where a user could designate a set of "guardians" (a mix of individuals, institutions, or other wallets) who could collectively approve the recovery of the Soul's identity to a new wallet.
-
-### 5. Are Soulbound Tokens being used today?
-The concept is still very new, but some projects are already experimenting with non-transferable tokens. The most common example is POAP (Proof of Attendance Protocol), which are non-transferable NFTs given out to prove attendance at an event.

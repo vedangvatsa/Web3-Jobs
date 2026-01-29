@@ -41,21 +41,3 @@ While launchpads can be a powerful tool, they are not without significant risks.
 
 Launchpads are a key piece of the Web3 capital formation landscape. They have democratized access to early-stage investing, but they have also created a highly speculative environment. For investors, it is crucial to **[do your own research (DYOR)](/what-is-dyor-in-crypto)** on the underlying project itself, and not to rely solely on the reputation of the launchpad.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is an IDO?
-IDO stands for **[Initial DEX Offering](/initial-dex-offering-complete-guide)**. It's the process of launching a new cryptocurrency token and raising capital through a sale on a decentralized exchange or a launchpad platform.
-
-### 2. Is a launchpad the same as an incubator?
-They are related but different. An incubator helps to develop a project from a very early idea. A launchpad is primarily focused on the fundraising and token launch event for a project that is already more developed.
-
-### 3. How do I get access to a token sale on a launchpad?
-Most launchpads have a tiered system. To get an allocation, you typically need to buy and stake the launchpad's own native token. The more tokens you stake, the higher your chance of getting a guaranteed allocation in the sale.
-
-### 4. What are some examples of popular launchpads?
-Some of the most well-known launchpad platforms include DAO Maker, Polkastarter, and Seedify.
-
-### 5. What happens after the IDO?
-After the Initial DEX Offering, the project will typically use the funds raised to continue development and will list the token on a major decentralized exchange (like Uniswap) and often centralized exchanges, allowing it to be freely traded by the public.

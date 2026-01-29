@@ -107,9 +107,3 @@ A3: Never try to fake an answer. It will destroy your credibility. It is perfect
 
 A4: It is almost always better to speak from a few bullet points or notes rather than a full script. Reading from a script sounds robotic and prevents you from making a genuine connection with the audience. Your notes should be keywords and phrases that jog your memory about the key points you want to make in each section, allowing you to speak more conversationally.
 
----
-### Internal Links
-- [Presentation Skills for Nervous Speakers](/presentation-skills-for-nervous-speakers)
-- [How to Present Ideas to Leadership](/how-to-present-ideas-to-leadership)
-- [Executive Communication Skills Guide](/executive-communication-skills-guide)
-- [How to Build Executive Presence at Work](/how-to-build-executive-presence-at-work)

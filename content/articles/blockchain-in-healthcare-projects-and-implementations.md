@@ -60,21 +60,3 @@ The intersection of blockchain and healthcare is creating new, highly specialize
 
 While the adoption of blockchain in healthcare is still in its early stages and faces significant regulatory and technical hurdles, the potential is immense. By providing a secure, transparent, and patient-centric foundation for health data and processes, blockchain technology has the potential to solve some of the most deep-seated problems in the industry. For professionals passionate about both healthcare and technology, this emerging field offers a chance to build a more efficient, equitable, and trustworthy future for medicine.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is my health data public on a blockchain?
-No. While the blockchain itself is public, the health data stored on it would be cryptographically encrypted. Only the patient, using their private key, could grant access to authorized parties like their doctor.
-
-### 2. How does blockchain improve data security?
-By decentralizing data storage and using strong encryption, blockchain can be more secure than centralized hospital servers, which are a single point of failure and a prime target for hackers.
-
-### 3. What is Decentralized Science (DeSci)?
-**[DeSci](/what-is-desci)** is a movement to use Web3 tools to create a more open and collaborative system for scientific research. In healthcare, this involves using DAOs to fund research and creating platforms for secure, patient-consented data sharing.
-
-### 4. What are the biggest challenges to adoption?
-The main challenges are regulatory hurdles (like HIPAA compliance in the US), the difficulty of integrating blockchain with legacy hospital IT systems, and the need for a highly secure and user-friendly digital identity solution for patients.
-
-### 5. What kind of jobs are available in this space?
-The field is creating a need for hybrid professionals, such as developers with experience in both healthcare IT

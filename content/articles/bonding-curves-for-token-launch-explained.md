@@ -39,21 +39,3 @@ A bonding curve launch offers an alternative that can be more capital-efficient 
 
 Bonding curve launches are a powerful tool in the **[tokenomics](/understanding-tokenomics)** design space. They offer a transparent and automated way to create a market for a new asset, aligning the incentives of the project with its earliest and most committed supporters.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main advantage of launching a token with a bonding curve?
-The main advantages are **instant liquidity** (the contract is always a trading partner) and **transparent price discovery** (the price is set by a clear mathematical formula).
-
-### 2. Is a bonding curve the same as an AMM?
-They are very closely related. A bonding curve is a type of **Automated Market Maker (AMM)**. The constant product formula (`x*y=k`) used by Uniswap is a specific type of bonding curve.
-
-### 3. What is a "collateral token"?
-The collateral token is the established, valuable asset (like ETH or USDC) that buyers use to purchase the new token from the bonding curve contract. This collateral is held in the contract's reserve.
-
-### 4. Why does the price increase as more tokens are bought?
-This is a feature of the bonding curve's formula. It is designed to reward early adopters and to make the cost of acquiring a large portion of the supply progressively more expensive.
-
-### 5. What is a **[Liquidity Bootstrapping Pool (LBP)](/what-is-a-liquidity-bootstrapping-pool)**?
-An LBP is a more advanced type of bonding curve launch, often used on platforms like Balancer. It uses dynamic pool weights to create a downward price pressure, similar to a Dutch auction, which helps to create fairer price discovery and deter front-running by bots.

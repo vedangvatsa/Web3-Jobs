@@ -55,21 +55,3 @@ Projects like Gitcoin are actively working on this problem, using a combination 
 
 Despite these challenges, Quadratic Funding represents a major breakthrough in social coordination. It provides a democratic and scalable mechanism for communities to collectively fund the projects they value most. As the tools for identity and sybil resistance improve, QF is poised to move beyond the Web3 ecosystem and become a powerful tool for funding public goods of all kinds, from local community projects to global scientific research. It's a practical and elegant expression of Web3's promise to build fairer and more equitable systems for the world.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main goal of Quadratic Funding?
-The main goal of Quadratic Funding (QF) is to provide a democratic and efficient way to fund "public goods." It's designed to amplify the preferences of a large number of community members over the preferences of a few wealthy donors.
-
-### 2. How is QF different from a "1 dollar, 1 vote" system?
-A "1 dollar, 1 vote" system gives power to those with the most capital. QF uses a matching pool to reward projects based on the *number of unique contributors* they have, not the total amount donated. A project with 100 small donors will receive a much larger match than a project with one large donor.
-
-### 3. What is a "public good" in the context of Web3?
-In Web3, public goods are often open-source software, infrastructure projects, and educational resources that benefit the entire ecosystem. For example, an Ethereum client, a developer library, or an educational website like this one could be considered public goods. This is the core focus of the **[Web3 for Good](/web3-for-good-careers-in-social-impact-daos)** movement.
-
-### 4. What is a "sybil attack" and why is it a problem for QF?
-A sybil attack is when a single person creates many fake accounts to game a system. In QF, an attacker might create hundreds of fake wallets to donate to their own project, making it look like they have many unique supporters and unfairly attracting a larger share of the matching pool.
-
-### 5. What is the most well-known example of Quadratic Funding in action?
-**Gitcoin Grants** is the most famous and successful implementation. It has used QF to distribute hundreds of millions of dollars to fund essential projects in the Ethereum ecosystem, creating a sustainable economy for open-source development.

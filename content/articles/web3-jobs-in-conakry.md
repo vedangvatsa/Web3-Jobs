@@ -78,7 +78,7 @@ A distributed ledger system could:
 - Salary expectation: $4,000-$9,000 USD/month (remote)
 - Skills needed: Regulatory knowledge, audit expertise, blockchain integration
 
-See also: **[A Deep Dive into Rollups for Ethereum Scaling](/content/articles/a-deep-dive-into-rollups-for-ethereum-scaling.md)** – Scaling solutions relevant to high-volume supply chain transactions.
+See also: **[A Deep Dive into Rollups for Ethereum Scaling](a-deep-dive-into-rollups-for-ethereum-scaling)** – Scaling solutions relevant to high-volume supply chain transactions.
 
 ## Building Your Supply Chain Expertise
 
@@ -143,7 +143,7 @@ Conakry is French-speaking, which connects you to a valuable ecosystem:
 4. **Collaboration:** Partner with developers and entrepreneurs from other Francophone countries on projects
 5. **Thought Leadership:** Become the voice connecting Francophone West Africa's development to global Web3 trends
 
-Related: **[How to Learn and Adapt to a New Company Culture Quickly](/content/articles/how-to-learn-company-culture-fast.md)** – Skills for navigating different professional ecosystems as you travel.
+Related: **[How to Learn and Adapt to a New Company Culture Quickly](how-to-learn-company-culture-fast)** – Skills for navigating different professional ecosystems as you travel.
 
 ## Financial Inclusion for the Unbanked
 
@@ -177,7 +177,7 @@ This requires understanding:
 - **Local Language:** Content must be in French or Susu (Guinea's main local language)
 - **On-chain Economics:** Transaction costs must be minimal; stablecoins essential for stability
 
-See also: **[Account Abstraction Explained](/content/articles/account-abstraction-explained.md)** – Making blockchain accessible to non-technical users.
+See also: **[Account Abstraction Explained](account-abstraction-explained)** – Making blockchain accessible to non-technical users.
 
 ## Getting Government Buy-In
 
@@ -223,7 +223,7 @@ Focus on high-value competencies:
 - Target companies focused on your specialty (supply chain, DeFi, infrastructure)
 - Negotiate salaries: junior ($2,000-$4,000), mid-level ($4,000-$7,000), senior ($7,000-$15,000+)
 
-See also: **[AI and Web3: Engineering Careers](/content/articles/ai-and-web3-engineering-careers.md)** – How emerging tech combinations create high-value career opportunities.
+See also: **[AI and Web3: Engineering Careers](ai-and-web3-engineering-careers)** – How emerging tech combinations create high-value career opportunities.
 
 ## Building Your Personal Brand in Conakry
 

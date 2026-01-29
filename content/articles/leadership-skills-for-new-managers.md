@@ -12,10 +12,10 @@ Transitioning from an individual contributor to a manager is one of the most com
 
 ### Quick Links
 
-- 📚 **[How to Learn and Adapt to a New Company Culture Quickly](/content/articles/how-to-learn-company-culture-fast.md)** – Tips for fitting into your new environment.
-- 📈 **[First 90 Days in a New Job Strategy](/content/articles/first-90-days-in-new-job-strategy.md)** – Blueprint for early impact.
-- ❓ **[Asking Smart Questions as a New Employee](/content/articles/asking-smart-questions-as-new-employee.md)** – Communication tactics.
-- 🌍 **[Best Cities for Remote Workers](/content/articles/best-cities-for-remote-workers.md)** – Ideal locations for remote managers.
+- 📚 **[How to Learn and Adapt to a New Company Culture Quickly](how-to-learn-company-culture-fast)** – Tips for fitting into your new environment.
+- 📈 **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – Blueprint for early impact.
+- ❓ **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** – Communication tactics.
+- 🌍 **[Best Cities for Remote Workers](best-cities-for-remote-workers)** – Ideal locations for remote managers.
 
 ## 1. Communication – Listening Before Speaking
 
@@ -28,7 +28,7 @@ Then **pause** and truly absorb the answer. This builds trust and surfaces hidde
 
 ### SEO Tip
 
-Link to related content: **[How to Build Executive Presence at Work](/content/articles/how-to-build-executive-presence-at-work.md)** for polishing your public speaking and presentation skills.
+Link to related content: **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)** for polishing your public speaking and presentation skills.
 
 ## 2. Delegation – Empowering Your Team
 
@@ -93,7 +93,7 @@ Trust is earned through **consistent actions**:
 
 ## 8. Remote & Hybrid Management
 
-Remote teams need extra intentionality. Use **asynchronous check‑ins**, virtual coffee chats, and clear documentation. Leverage tools like **[Best Cities for Remote Workers](/content/articles/best-cities-for-remote-workers.md)** to understand where remote talent thrives.
+Remote teams need extra intentionality. Use **asynchronous check‑ins**, virtual coffee chats, and clear documentation. Leverage tools like **[Best Cities for Remote Workers](best-cities-for-remote-workers)** to understand where remote talent thrives.
 
 ## 9. Common Mistakes to Avoid
 

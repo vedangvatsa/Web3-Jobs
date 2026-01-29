@@ -140,9 +140,3 @@ A3: If you are the one who initiated the meeting, you should offer to pay. It is
 
 A4: Respect their response. You can reply with, "I completely understand. Thank you for letting me know. I'll continue to follow your work and hope our paths cross in the future." Do not be pushy. Sometimes, you can also offer an even lower-friction alternative, like, "No problem at all. If you would be open to it, I could also just send over two quick questions via email."
 
----
-### Internal Links
-- [How to Build Professional Network Fast](/how-to-build-professional-network-fast)
-- [Networking Strategies for Introverts](/networking-strategies-for-introverts)
-- [How to Write Cold Emails That Get Responses](/how-to-write-cold-emails-that-get-responses)
-- [How to Follow Up After Job Interview](/how-to-follow-up-after-job-interview)

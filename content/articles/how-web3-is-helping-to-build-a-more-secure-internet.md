@@ -48,21 +48,3 @@ While the architecture of Web3 is inherently more secure in many ways, it is not
 
 Web3 is building a more secure and resilient internet by replacing centralized points of failure with a decentralized, cryptographically secured network. While it introduces new responsibilities for users, its foundational principles of decentralization, self-custody, and transparency offer a powerful new model for a safer digital world.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is Web3 more secure than Web2?
-It's a different security model. The *infrastructure* of Web3 is generally more secure due to decentralization, which eliminates single points of failure. However, the *user* bears more responsibility for their own security. Our guide on **[how Web3 improves privacy and security](/how-web3-can-improve-online-privacy-and-security)** dives deeper into this.
-
-### 2. How does decentralization improve security?
-In a decentralized network, there is no central server to attack. An attacker would need to compromise thousands of computers simultaneously to disrupt the network, making it far more resilient than a centralized system.
-
-### 3. What is "self-custody"?
-Self-custody means you control the private keys to your own crypto wallet. This gives you full control over your assets but also means you are solely responsible for **[keeping them secure](/securing-your-crypto)**. "Not your keys, not your coins."
-
-### 4. What is the biggest security risk in Web3?
-For users, the biggest risks are phishing attacks and scams that trick them into signing malicious transactions. For protocols, the biggest risk is a bug in their **[smart contract code](/common-smart-contract-vulnerabilities-explained)**, which can be exploited by hackers.
-
-### 5. How can I learn more about Web3 security?
-The best way is to study past hacks and common vulnerabilities. For developers, practicing on "capture the flag" platforms like the Ethernaut is essential. For all users, learning security best practices for wallet management is the first and most important step.

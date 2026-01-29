@@ -243,9 +243,9 @@ A: Build expertise first (1-2 years); then launch if you have community + thesis
 - DAO job boards (DAOJobs, etc.)
 
 ### Related Guides
-- [Web3 Product Manager Deep Dive](/content/articles/web3-product-management.md)
-- [DAO Governance Career Guide](/content/articles/dao-governance-careers.md)
-- [Web3 Startup Career Path](/content/articles/web3-startup-career.md)
+- [Web3 Product Manager Deep Dive](web3-product-management)
+- [DAO Governance Career Guide](dao-governance-careers)
+- [Web3 Startup Career Path](web3-startup-career)
 
 ### Your Next Step
 

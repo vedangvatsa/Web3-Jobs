@@ -77,21 +77,3 @@ You should never try to write your own proxy contracts from scratch. It is a com
 
 Upgradability is a powerful tool that allows projects to evolve and adapt over time. By using standard, battle-tested solutions like the OpenZeppelin Upgrades Plugins, developers can build robust dApps that are both secure and future-proof.
 
----
-
-## Frequently Asked Questions
-
-### 1. Why do smart contracts need to be upgradable?
-[Smart contracts](/what-are-smart-contracts) are immutable, meaning their code cannot be changed after deployment. Upgradability patterns are necessary to fix bugs, add new features, and respond to changing market conditions without requiring a costly and complex data migration to a completely new contract.
-
-### 2. How does the proxy pattern work?
-The proxy pattern separates a contract's state from its logic. Users interact with a **Proxy Contract**, which holds all the data but delegates all function calls to a separate **Implementation Contract** using `delegatecall`. To upgrade, you simply deploy a new implementation contract and tell the proxy to point to the new address.
-
-### 3. What is `delegatecall`?
-`delegatecall` is a special EVM opcode. It allows one contract (the proxy) to execute the code of another contract (the implementation) but in the context of its own state. This means the implementation contract can modify the proxy's storage.
-
-### 4. What are the risks of upgradable contracts?
-The main risk is **centralization**. The owner of the proxy has the power to change the contract's logic at any time, which introduces a trust assumption. To mitigate this, ownership is often transferred to a community-governed [DAO](/what-is-a-dao) or a timelock. Another risk is **storage collisions**, where changes to state variables in a new implementation corrupt the contract's storage.
-
-### 5. Should I write my own proxy contract?
-No, never. You should always use a battle-tested, audited library like **OpenZeppelin Upgrades Plugins**. These tools handle the complexity of deploying and managing proxies safely and are the industry standard.

@@ -56,20 +56,3 @@ The best marketing is a great product.
 
 Ethical marketing in Web3 is about playing the long game. It's about resisting the temptation of short-term price pumps and instead focusing on building a foundation of trust, education, and genuine utility. By treating your community as intelligent partners rather than as exit liquidity, you can build a brand that not only succeeds financially but also earns the respect of the entire Web3 ecosystem.
 
----
-## Frequently Asked Questions
-
-### 1. What is the difference between marketing and shilling in crypto?
-Ethical **[Web3 marketing](/web3-marketing)** focuses on educating users about a project's utility and technology. **[Shilling](/what-is-shilling-in-crypto)** focuses on creating hype to pump the token price, often without disclosing financial incentives. The key difference is intent and transparency.
-
-### 2. How does shilling impact a project's long-term health?
-Shilling can create a short-term price pump, but it **[erodes long-term trust](/how-crypto-shilling-impacts-web3-trust)**. It attracts short-term speculators instead of long-term users and contributors, and it can damage a project's reputation in the wider community.
-
-### 3. What is the most effective form of marketing in Web3?
-**Community-led growth** and **educational content marketing** are the most effective and sustainable strategies. Building a strong, engaged community of users who understand your product will create a powerful, organic marketing engine.
-
-### 4. Is it okay to work with crypto influencers?
-Yes, but it must be done transparently. The best approach is to partner with influencers who are respected for their technical expertise and analysis, not just their follower count. Any paid relationship must be clearly disclosed to the audience.
-
-### 5. What are some "red flags" that a project is focused on shilling?
-Red flags include a marketing message that is almost entirely focused on token price ("100x potential!"), a lack of detailed technical documentation, and a community that is full of price hype rather than substantive discussion about the product.

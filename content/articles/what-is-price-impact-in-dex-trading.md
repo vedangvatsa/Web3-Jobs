@@ -93,5 +93,3 @@ A: No. By definition, price impact is the negative effect your trade has on your
 **Q_ How does Concentrated Liquidity (Uniswap v3) affect price impact?**
 A: **[Concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap)** allows liquidity to be much deeper around the current market price. This means that for a given trade size, the price impact can be significantly lower in a v3 pool compared to a v2 pool, provided the trade occurs within the active liquidity range.
 
----
-*Internally, this article links to: `understanding-constant-product-formula`, `what-is-frontrunning-in-defi-trading`, `sandwich-attack-in-dex-explained`, `understanding-concentrated-liquidity-in-uniswap`*

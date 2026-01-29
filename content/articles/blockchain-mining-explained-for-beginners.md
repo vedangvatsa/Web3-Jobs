@@ -48,21 +48,3 @@ While Proof-of-Work is incredibly secure, its massive energy consumption is a ma
 
 While the future of blockchain may be leaning towards PoS, understanding mining and Proof-of-Work is essential for understanding the history of crypto and the fundamental principles of blockchain security. It's the innovation that made decentralized digital money possible for the very first time.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main purpose of blockchain mining?
-The main purpose of mining is to **verify new transactions** and **secure the network**. Miners compete to solve a complex puzzle, and the winner gets to add the next block of transactions to the blockchain.
-
-### 2. How do miners make money?
-Miners are rewarded with a "block reward," which consists of **newly created cryptocurrency** and the **transaction fees** paid by the users whose transactions are included in the block.
-
-### 3. What is Proof-of-Work (PoW)?
-Proof-of-Work is the **[consensus mechanism](/understanding-web3-consensus-mechanism-architects)** used by Bitcoin. It requires miners to perform a huge amount of computational "work" (trying trillions of hashes per second) to find a valid block. This work is what makes the network secure.
-
-### 4. Why is mining so energy-intensive?
-The computational puzzle in Proof-of-Work is solved by brute force. This requires specialized, powerful hardware (like ASICs) that consumes a vast amount of electricity. This high energy cost is a major criticism of PoW blockchains.
-
-### 5. Is all crypto mined?
-No. Many modern blockchains, including Ethereum, use a different consensus mechanism called **[Proof-of-Stake (PoS)](/proof-of-stake-vs-proof-of-work-in-blockchain)**. In PoS, there

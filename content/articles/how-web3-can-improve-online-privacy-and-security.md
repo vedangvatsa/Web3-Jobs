@@ -59,21 +59,3 @@ The road to a fully private and secure Web3 is still under construction.
 
 Web3 is building the infrastructure for a new kind of internet—one where privacy and security are not afterthoughts, but are baked into the fundamental architecture of the system. By giving users control over their own identity and data, it promises a more equitable and secure digital future.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is Web3 completely anonymous?
-No. Public blockchains are **pseudonymous**, not anonymous. All transactions are public, but they are tied to a wallet address, not your real name. However, with enough analysis, it's often possible to link an address to a real-world identity. Technologies like ZK-proofs are being used to build true privacy.
-
-### 2. What is Decentralized Identity (DID)?
-**[Decentralized Identity](/decentralized-identity-explained)** is a core Web3 concept where individuals own and control their own digital identity using a crypto wallet, rather than relying on centralized providers like Google or Facebook.
-
-### 3. How do Zero-Knowledge Proofs (ZKPs) improve privacy?
-**[ZKPs](/zero-knowledge-proofs-explained)** allow you to prove a fact is true without revealing the underlying data. This is a game-changer for privacy, as it allows for verification without over-sharing sensitive personal information.
-
-### 4. What is self-custody?
-Self-custody means you have sole control over the private keys to your crypto wallet. This gives you full ownership of your assets, but also means you are 100% responsible for their security. "Not your keys, not your coins" is a famous crypto mantra.
-
-### 5. What are the biggest security risks in Web3?
-The biggest risks for users are often social engineering and phishing attacks that trick them into signing a malicious transaction or revealing their wallet's seed phrase. For protocols, the primary risk is bugs in their **[smart contracts](/what-are-smart-contracts)**.

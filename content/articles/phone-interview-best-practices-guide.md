@@ -118,20 +118,3 @@ A prompt and professional thank-you email is non-negotiable.
     4.  Briefly restate why you are a great fit.
     5.  Close professionally.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q: What if I miss the call?**
-A: If you miss the call, immediately call back if you have the number. If not, send a brief, apologetic email right away. "Hi [Interviewer's Name], my sincerest apologies for missing your call just now. I am available at your convenience if you are able to try again. My number is [Your Number]." Do not make excuses. Own the mistake and be professional.
-
-**Q: What should I do if I don't know the answer to a question?**
-A: Honesty is the best policy. It is better to say, "That's a great question. I don't have direct experience with that specific tool/scenario, but here's how I would approach it..." or "I am not familiar with that, but I am a quick learner and confident I could get up to speed." This shows honesty and problem-solving skills.
-
-**Q: How long should a phone interview last?**
-A: Most phone screens last between 15 and 30 minutes. If it goes longer, it is often a good sign that the interviewer is engaged and interested. However, do not read too much into the length; some recruiters are simply very efficient.
-
-**Q: Is it okay to take the call in my car?**
-A: It is highly discouraged. A car is not a professional or quiet environment. Background noise from traffic can be distracting, and cell service can be unreliable. Only use this as an absolute last resort if you are pulled over in a safe, quiet location with a strong signal.
-
-By following these best practices, you can transform the phone interview from a nerve-wracking hurdle into a powerful opportunity to showcase your strengths and build the foundation for a successful job application. Proper preparation builds confidence, and confidence is audible over the phone.

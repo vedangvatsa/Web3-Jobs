@@ -87,5 +87,3 @@ A: No. By definition, an Uncle block is a block that is *not* on the canonical c
 **Q: Are Uncle blocks stored on the blockchain forever?**
 A: The headers of Uncle blocks were stored in the `ommers` field of the canonical block that included them. So, a record of them is permanently part of the Ethereum PoW blockchain history, even though their transactions (the block body) are not.
 
----
-*Internally, this article links to: `what-is-a-blockchain-fork-choice-rule`, `what-is-a-51-percent-attack-in-blockchain`*

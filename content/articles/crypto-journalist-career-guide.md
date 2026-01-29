@@ -67,21 +67,3 @@ A career in crypto journalism is a chance to be on the front lines of a technolo
   </CardContent>
 </Card>
 
----
-
-## Frequently Asked Questions
-
-### 1. What skills does a crypto journalist need?
-A crypto journalist needs a hybrid skillset: strong traditional journalism skills (writing, storytelling, ethics), deep technical curiosity about how [blockchain technology](/what-is-a-blockchain) works, and on-chain analytical skills using tools like Dune and Etherscan.
-
-### 2. How is crypto journalism different from financial journalism?
-The key difference is the radical transparency of the blockchain. A crypto journalist can directly access and analyze on-chain data to verify stories, rather than relying solely on company press releases or anonymous sources.
-
-### 3. Do I need to be a developer to be a crypto journalist?
-No, but you must be technically literate. You should be able to understand concepts like [smart contracts](/what-are-smart-contracts) and [DeFi](/what-is-defi) and be willing to learn how to use on-chain analysis tools.
-
-### 4. How can I build a portfolio to become a crypto journalist?
-Start a blog or newsletter and begin publishing your own work. Write deep-dive analyses of projects, explain emerging trends, or conduct your own on-chain investigations. Your public "proof of work" is your best resume.
-
-### 5. What kinds of jobs are available for crypto journalists?
-Opportunities include roles at crypto-native media outlets (like CoinDesk or The Defiant), freelance writing for protocols and VCs, or joining a project's in-house content and research team. These roles are a part of the broader [Web3 content creator](/the-rise-of-the-web3-content-creator) economy.

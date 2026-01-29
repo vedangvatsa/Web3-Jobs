@@ -106,9 +106,3 @@ A3: If the email contains sensitive information, send a brief, polite follow-up 
 
 A4: If an email thread has become long and confusing, it is often a sign that email is no longer the right communication tool. The best solution is to pick up the phone or schedule a quick 15-minute meeting. You can summarize the outcome of the conversation in a follow-up email to ensure everyone is aligned.
 
----
-### Internal Links
-- [Business Writing Tips for Professionals](/business-writing-tips-for-professionals)
-- [How to Write Cold Emails That Get Responses](/how-to-write-cold-emails-that-get-responses)
-- [How to Follow Up After Job Interview](/how-to-follow-up-after-job-interview)
-- [Slack Communication Best Practices](/slack-communication-best-practices)

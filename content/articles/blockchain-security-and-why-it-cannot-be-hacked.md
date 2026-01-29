@@ -45,21 +45,3 @@ If the blockchain itself is so secure, why do we hear about crypto hacks all the
 
 The security of a public blockchain is not perfect, but it represents a radical new model. Instead of trusting a single, fallible institution (like a bank), we trust a decentralized network governed by open-source code, cryptography, and economic incentives. The core blockchain protocol is a fortress, and while attackers may find ways to exploit the applications built on top of it or trick the users who interact with it, breaking the foundational layer itself remains a near-impossible task. This is the innovation that makes a trustless, peer-to-peer digital economy possible.
 
----
-
-## Frequently Asked Questions
-
-### 1. Has a major blockchain like Bitcoin or Ethereum ever been "hacked"?
-No. The core protocols of Bitcoin and Ethereum have never been successfully compromised. The "hacks" you hear about are almost always exploits of applications (smart contracts) built on top of the blockchain or breaches of centralized exchanges, not a break in the blockchain itself.
-
-### 2. What is a "51% attack"?
-A 51% attack is a theoretical attack where a single entity or group gains control of more than 50% of a blockchain's mining power or staked tokens. This would allow them to prevent new transactions from being confirmed and to reverse their own transactions, but the immense cost makes it practically impossible on large networks.
-
-### 3. Is Proof-of-Stake less secure than Proof-of-Work?
-This is a subject of ongoing debate, but both are considered highly secure. **[Proof-of-Work](/proof-of-stake-vs-proof-of-work-in-blockchain)** security is based on raw energy and hardware cost. **[Proof-of-Stake](/proof-of-stake-vs-proof-of-work-in-blockchain)** security is based on the economic cost of acquiring a majority of the staked capital.
-
-### 4. If the blockchain is so secure, why is crypto so risky?
-The primary risks in crypto are not at the base blockchain layer. They are **[smart contract bugs](/common-smart-contract-vulnerabilities-explained)** in dApps and **user security failures** (like losing your private keys or falling for a phishing scam).
-
-### 5. How can I learn more about smart contract security?
-The best way is to study common vulnerabilities and practice identifying them. Our guides on the **[smart contract auditor career path](/smart-contract-auditor-career)** and **[Web3 security best practices](/web3-security-best-practices)** are great places to start.

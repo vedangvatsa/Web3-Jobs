@@ -50,21 +50,3 @@ Web3 is also changing the very rails on which payments run.
 
 The integration of Web3 into online shopping is still in its early days. The user experience of connecting a wallet and signing transactions remains a major hurdle for mainstream adoption. However, the underlying benefits—true ownership, lower fees, greater transparency, and deeper community engagement—are incredibly powerful. As the technology becomes more user-friendly, Web3 is set to transform e-commerce from a simple transactional experience into a rich, interactive, and community-owned economy.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is token-gated commerce?
-Token-gating is the practice of restricting access to certain products or content to users who hold a specific NFT or token in their crypto wallet. It's a powerful tool for creating exclusive loyalty programs and communities.
-
-### 2. How can NFTs prove the authenticity of a physical item?
-When a physical item is sold, it is paired with an NFT, creating a "digital twin." This NFT, recorded on the blockchain, serves as a permanent and tamper-proof certificate of authenticity and ownership.
-
-### 3. What is a decentralized marketplace?
-A decentralized marketplace is an e-commerce platform that runs on open smart contracts rather than being controlled by a central company. This can lead to lower fees for sellers and more community control over the platform's rules.
-
-### 4. Why are stablecoins useful for e-commerce?
-**[Stablecoins](/guide-to-stablecoins)** are cryptocurrencies pegged to a stable asset like the US dollar. They are ideal for payments because they combine the price stability of traditional money with the speed and low fees of blockchain transactions.
-
-### 5. What are the career opportunities in Web3 e-commerce?
-This growing sector needs **[smart contract developers](/smart-contract-jobs)** to build the platforms, **[product managers](/web3-product-manager-jobs)** to design the user experience, and **[marketing professionals](/web3-marketing-jobs)** who understand how to build token-based communities.

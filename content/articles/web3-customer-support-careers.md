@@ -48,21 +48,3 @@ This is one of an excellent entry-level role for those looking to [break into th
 
 A career in Web3 customer support is a chance to be on the front lines of a technological revolution, helping to make the decentralized internet more accessible and user-friendly for everyone. It's a challenging but incredibly high-impact role for those with the right blend of empathy, communication, and technical curiosity.
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Web3 Customer Support Specialist do?
-A Web3 Customer Support Specialist helps users navigate the often-complex world of decentralized applications. They troubleshoot technical issues, answer questions about the protocol, create educational guides, and act as a key feedback loop to the product team.
-
-### 2. How is Web3 support different from traditional customer support?
-The stakes are much higher because real financial assets are often involved. A support specialist has no "admin" access to a user's self-custodial wallet, so they cannot reverse transactions or recover funds. Their role is to educate and guide the user to solve the problem themselves.
-
-### 3. What are the most important skills for this role?
-Deep **empathy** and **patience** are non-negotiable. You also need excellent **communication skills** to explain complex topics simply, strong problem-solving abilities, and a deep, practical understanding of the Web3 ecosystem and its security risks.
-
-### 4. Is this a good entry-level job in Web3?
-Yes, it's one of the best **[entry-level jobs in Web3](/entry-level-jobs-in-web3)**. It's an excellent way to learn a protocol deeply and build a reputation within a community, which can lead to other opportunities.
-
-### 5. How can I get started in Web3 customer support?
-The best way is to become a "community helper." Join the Discord of a project you admire and start actively helping other users with their questions. Your proactive support and knowledge will get you noticed by the team and can lead directly to a paid role.

@@ -49,7 +49,7 @@ Unlike many African cities where Web3 is chaotic or restricted, Togo actively su
 - International NGOs (World Bank, IMF, UNDP) running digital finance pilots
 - Public-private partnerships creating funding opportunities
 
-See: **[Web3 Career Growth and Development](/content/articles/web3-career-growth-and-development.md)** – Planning your trajectory in emerging markets.
+See: **[Web3 Career Growth and Development](web3-career-growth-and-development)** – Planning your trajectory in emerging markets.
 
 ## The Lome Web3 Landscape
 

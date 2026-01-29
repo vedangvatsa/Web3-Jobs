@@ -71,20 +71,3 @@ Web3 interviews are often multi-staged and can be intense. Expect a mix of cultu
 - **Think Critically:** Be prepared to discuss the trade-offs of different blockchain designs or a project's strategy. Have an opinion, but be open to changing it.
 
 Ready to start your journey? Check out the latest roles on our [Web3 Job Board](/jobs).
----
-## Frequently Asked Questions
-
-### 1. What are the best entry-level non-technical jobs in Web3?
-The most common and effective entry-level roles are [Community Manager](/web3-community-manager-career), Marketing Assistant, and Content Creator. These roles allow you to learn on the job and demonstrate your value through public contributions.
-
-### 2. How can I get Web3 experience if I'm not a developer?
-Build a "proof of work" portfolio. Write blog posts, create Twitter threads analyzing projects, become an active and helpful member of a [DAO's](/what-is-a-dao) Discord, or learn basic SQL to create dashboards on Dune Analytics. These public contributions are your resume.
-
-### 3. Is it necessary to have a strong portfolio to get hired in Web3?
-Yes, absolutely. In a space that values "show, don't tell," your portfolio is the most critical part of your application. For developers, it's your GitHub. For non-technical roles, it's your public content and community contributions. Learn more in our [guide to building a Web3 portfolio](/building-web3-portfolio).
-
-### 4. How important is networking for finding a Web3 job?
-Networking is crucial. However, it's about building genuine relationships by providing value, not just asking for a job. [Contribute to a DAO](/how-to-contribute-to-daos-and-get-paid), be helpful in Discord, and engage thoughtfully on Twitter.
-
-### 5. Do I need to be a crypto expert to get my first job?
-No, you don't need to be an expert. You need to show genuine passion, a willingness to learn, and that you have taken the initiative to immerse yourself in the space. Follow our [beginner's guide to start your Web3 career](/how-to-start-a-web3-career) to build a solid foundation.

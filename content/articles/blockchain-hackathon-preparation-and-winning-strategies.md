@@ -65,21 +65,3 @@ While winning a prize is great, the real value of a hackathon lies elsewhere.
 
 Blockchain hackathons are a core pillar of the Web3 builder culture. They are a crucible that forges skills, relationships, and careers. Whether you are a seasoned developer or just starting your journey, participating in a hackathon is one of the most rewarding and high-leverage things you can do.
 
----
-
-## Frequently Asked Questions
-
-### 1. Do I need to be a developer to participate in a hackathon?
-No. While development skills are central, successful teams also need members with skills in product management, UX/UI design, and marketing to build a compelling project and pitch.
-
-### 2. What if I don't have a team?
-Most hackathons have a dedicated Discord channel for team formation. This is a great way to meet other builders. Be proactive and start looking for a team a week or two before the event.
-
-### 3. Should I have an idea before the hackathon starts?
-It's good to have some general ideas, but be flexible. The best strategy is to wait for the sponsor bounties to be announced and then tailor your idea to solve a problem that aligns with one of those bounties. This dramatically increases your chances of winning a prize.
-
-### 4. What is the most common mistake teams make?
-Being too ambitious. It's much better to build and polish a small, fully functional project than a large, buggy, and incomplete one. Scope management is the key to success.
-
-### 5. Are hackathon projects a good way to get a job?
-Absolutely. A hackathon project is a powerful signal to employers. It proves you can build, work in a team, and ship under pressure. Many companies use hackathons as a primary recruiting ground. It's a key part of **[getting a job with no

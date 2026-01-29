@@ -50,21 +50,3 @@ You need to be able to explain the project's [tokenomics](/understanding-tokenom
 
 Recruiting in Web3 requires a deep immersion in the ecosystem. You cannot succeed by being a passive observer. By actively participating in the community, learning to evaluate on-chain and off-chain proof of work, and treating the hiring process as a partnership, you can successfully attract and hire the elite talent needed to build the future of the decentralized internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. How is Web3 recruiting different from traditional recruiting?
-Web3 recruiting prioritizes a candidate's public "proof of work" (like their GitHub or DAO contributions) over a traditional resume. Recruiters must be active in crypto-native channels like Twitter and Discord, not just LinkedIn. Our full guide on **[Web3 recruiting](/how-to-recruit-in-web3)** covers this in depth.
-
-### 2. What is "proof of work" for a candidate?
-It's a public, verifiable record of their skills and passion. For a developer, it's their GitHub. For a non-technical professional, it could be insightful blog posts, a Dune Analytics dashboard, or meaningful contributions to a **[DAO](/hiring-for-a-dao)**.
-
-### 3. Where are the best places to find Web3 talent?
-The best talent is found in crypto-native environments: **Twitter** (by following top builders), **Discord** (by identifying helpful community members), and **GitHub** (by looking at open-source contributions). **Hackathons** are also a prime source for finding emerging talent.
-
-### 4. What is the most important factor for attracting top Web3 talent?
-While **[compensation is high](/does-web3-pay-well)**, the most sought-after candidates are mission-driven. A compelling vision and a strong, positive culture are often more important than salary alone.
-
-### 5. How do you evaluate a candidate you only know by a pseudonym?
-You evaluate their public reputation and contributions. The quality of their code, the insightfulness of their writing, and their on-chain history are all powerful signals that are independent of their real-world identity.

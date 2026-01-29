@@ -58,21 +58,3 @@ Elon Musk is not a Web3 idealogue. He is a pragmatist who is interested in techn
 
 For the Web3 community, Elon Musk is a powerful but unpredictable figure. While his endorsements can bring massive attention to the space, his fundamental vision seems to be more aligned with a more efficient, crypto-powered Web2 than a truly decentralized Web3. He is not the champion of decentralization that some may have hoped for, but rather a powerful innovator who will adopt the parts of crypto that serve his practical goals.
 
----
-
-## Frequently Asked Questions
-
-### 1. Does Elon Musk like Bitcoin?
-Elon Musk's stance on Bitcoin is mixed. In 2021, Tesla purchased $1.5 billion worth of Bitcoin and briefly accepted it as payment. However, he later suspended payments due to environmental concerns about Bitcoin mining. He has stated that he personally owns Bitcoin.
-
-### 2. Why does Elon Musk support Dogecoin?
-Musk has called Dogecoin "the people's crypto," praising its low transaction fees and fun, community-driven nature. His support seems to stem from an affinity for meme culture and a belief in its potential as a simple, everyday payment method.
-
-### 3. What does Elon Musk think of Web3?
-Musk has expressed skepticism about the term "Web3," calling it "more marketing buzzword than reality." He seems unconvinced that the current ecosystem of [dApps](/what-is-web3) has produced a compelling mainstream use case and has questioned its true level of decentralization.
-
-### 4. Is Elon Musk building a Web3 platform with X (Twitter)?
-His vision for X as an "everything app" appears to be a centralized one, which is the opposite of the Web3 ethos. While he may integrate crypto payments into the platform, his approach does not seem to embrace the core Web3 principles of decentralization and user ownership.
-
-### 5. What is the difference between Elon Musk's vision and the Web3 vision?
-Musk's vision for a platform like X is a centralized, "walled garden" controlled by a single company. The [Web3 vision](/what-is-web3), in contrast, is for an open, interoperable network of decentralized protocols that are owned and governed by their users.

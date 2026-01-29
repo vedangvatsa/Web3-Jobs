@@ -293,10 +293,10 @@ A: Yes. You don't need venture capital to start. Start with funding from global 
 - [Gitcoin Grants](https://grants.gitcoin.co/) — Community-funded projects
 
 **Related Articles:**
-- [Understanding Web3 Consensus Mechanisms](/content/articles/understanding-web3-consensus-mechanism-architects.md)
-- [How to Find a Mentor in Web3](/content/articles/how-to-find-a-mentor-in-web3.md)
-- [Building Strong Professional Relationships](/content/articles/building-relationships-in-web3.md)
-- [Web3 Career Growth & Development](/content/articles/web3-career-growth-and-development.md)
+- [Understanding Web3 Consensus Mechanisms](understanding-web3-consensus-mechanism-architects)
+- [How to Find a Mentor in Web3](how-to-find-a-mentor-in-web3)
+- [Building Strong Professional Relationships](building-relationships-in-web3)
+- [Web3 Career Growth & Development](web3-career-growth-and-development)
 
 ### Your Next Step: Find a Web3 Job
 

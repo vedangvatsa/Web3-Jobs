@@ -36,21 +36,3 @@ Instead of a centralized credit score like FICO, a Web3 reputation score is buil
 
 A robust and reliable reputation system is a key missing piece of the Web3 puzzle. By creating a way to establish trust in a pseudonymous environment, it can unlock a new wave of more sophisticated and human-centric applications, from social finance to decentralized labor markets.
 
----
-
-## Frequently Asked Questions
-
-### 1. How is a Web3 reputation system different from a credit score?
-A traditional credit score is a centralized system controlled by a few large agencies. A Web3 reputation system is decentralized, transparent, and user-owned. Your score is based on your public, on-chain actions, and you control who gets to see it.
-
-### 2. What are "Soulbound Tokens" and how do they relate to reputation?
-**[Soulbound Tokens (SBTs)](/what-is-soulbound-token-technology)** are non-transferable NFTs that can represent things like a university degree or a professional certification. They are a key building block for an on-chain reputation, as they are permanently bound to your identity.
-
-### 3. Is my on-chain reputation anonymous?
-Your reputation is tied to your public wallet address, which is pseudonymous. While it's not directly linked to your real name, a dedicated analyst could potentially link your on-chain activity back to you. This is why privacy-preserving technologies are also a key part of the research in this space.
-
-### 4. What is Proof of Humanity?
-**[Proof of Humanity](/what-is-proof-of-humanity-protocol)** is a specific protocol that aims to solve the "sybil problem" by creating a registry of unique, verified humans. It's a foundational layer for any reputation system, ensuring that one person cannot create multiple fake identities to game the system.
-
-### 5. How can I start building my on-chain reputation today?
-You can start by being an active and positive participant in the ecosystem. Use different dApps, vote in DAO governance, collect POAPs from events you attend, and contribute to public goods. All of these actions are recorded on-chain and contribute to your digital identity.

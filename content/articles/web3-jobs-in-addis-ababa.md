@@ -256,6 +256,6 @@ A: Yes, and that's the opportunity. First-mover advantage is massive.
 - Protocol job boards
 
 ### Related Career Guides
-- [Smart Contract Developer Guide](/content/articles/smart-contract-developer.md)
-- [Community Manager Career Path](/content/articles/community-manager-web3.md)
-- [Blockchain for Impact & Development](/content/articles/blockchain-for-impact.md)
+- [Smart Contract Developer Guide](smart-contract-developer)
+- [Community Manager Career Path](community-manager-web3)
+- [Blockchain for Impact & Development](blockchain-for-impact)

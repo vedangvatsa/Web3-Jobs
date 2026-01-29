@@ -43,21 +43,3 @@ The core job of a Yield Farming Analyst is to answer one question: "What is the 
 
 A career as a Yield Farming Analyst is for those who love the intellectual challenge of a constantly evolving puzzle. It’s a high-impact role that puts you at the very center of the fast-paced and innovative world of DeFi.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a Yield Farming Analyst?
-A Yield Farming Analyst is a specialized financial analyst for the DeFi space. They identify, analyze, and manage strategies for generating returns ("yield") on crypto assets. This is a highly quantitative role that combines skills from finance and data science.
-
-### 2. What is "yield farming"?
-[Yield farming](/what-is-yield-farming) is the practice of strategically moving crypto assets between different DeFi protocols (like lending platforms and decentralized exchanges) to maximize the returns earned from trading fees and token rewards.
-
-### 3. What skills are needed for this role?
-A top analyst needs a combination of deep, practical [DeFi](/what-is-defi) knowledge, strong quantitative and financial modeling skills, and proficiency in on-chain data analysis using tools like Dune. This is a specialized type of [on-chain analyst](/on-chain-analyst-job).
-
-### 4. What are the biggest risks in yield farming?
-The primary risks are **smart contract risk** (bugs in the code), **economic risk** (flaws in the protocol's incentives), and **impermanent loss** (for liquidity providers). A key part of the analyst's job is to assess these risks.
-
-### 5. How can I get started as a Yield Farming Analyst?
-Start by becoming a hands-on user of DeFi protocols. Then, build a public portfolio of your research. You can write blog posts analyzing different yield strategies or create Dune Analytics dashboards to track protocol performance. This demonstrates your expertise to potential employers.

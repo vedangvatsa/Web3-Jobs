@@ -372,11 +372,11 @@ After 1-2 years, you can shift: invest more aggressively, consider business/star
 
 ### Related Career Guides
 Explore these guides for complementary opportunities:
-- [Web3 Jobs in Kinshasa](/content/articles/web3-jobs-in-kinshasa.md) — Central Africa supply chain + DeFi
-- [Web3 Jobs in Harare](/content/articles/web3-jobs-in-harare.md) — Hyperinflation + currency solutions
-- [FinTech Web3 Careers](/content/articles/fintech-web3-careers.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
-- [Remote Web3 Careers Guide](/content/articles/remote-web3-careers.md)
+- [Web3 Jobs in Kinshasa](web3-jobs-in-kinshasa) — Central Africa supply chain + DeFi
+- [Web3 Jobs in Harare](web3-jobs-in-harare) — Hyperinflation + currency solutions
+- [FinTech Web3 Careers](fintech-web3-careers)
+- [Complete Web3 Skills Guide](web3-skills-guide)
+- [Remote Web3 Careers Guide](remote-web3-careers)
 
 ### Your Next Step: Find a Web3 Job
 

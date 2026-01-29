@@ -66,21 +66,3 @@ The path to a true, open metaverse is long and filled with challenges.
 
 The metaverse is one of the most ambitious concepts in technology today. While the hype often gets ahead of the reality, the underlying trend is clear: our digital and physical lives are merging. The critical battle being fought now is whether this future will be built on closed, proprietary platforms controlled by a few tech giants, or on the open, decentralized, and user-owned principles of Web3. For those building and working in Web3, the goal is clear: to ensure the next chapter of the internet is owned by everyone.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is the metaverse just virtual reality (VR)?
-No. While VR and AR headsets can be a way to *experience* the metaverse, they are not the metaverse itself. The metaverse is a persistent, shared digital space that you will be able to access from any device, including your phone, computer, or a VR headset.
-
-### 2. Who is building the metaverse?
-There is a race between two competing visions. **Web2 companies** like Meta (Facebook) are building "closed metaverses," which are centralized, walled-garden platforms. The **Web3 community** is building an "open metaverse" on decentralized protocols where users own their data and assets.
-
-### 3. How does blockchain help build an open metaverse?
-Blockchain provides the key ingredients for an open metaverse. **[NFTs](/what-are-nfts)** enable true ownership of digital assets. **Cryptocurrencies** create open, in-game economies. And **[decentralized identity](/decentralized-identity-explained)** allows for a portable identity that isn't controlled by a single platform.
-
-### 4. What is a "player-owned economy"?
-A player-owned economy, a core concept in **[Web3 gaming](/exploring-web3-gaming)**, is an in-game economy where players, not the developers, own the assets (as NFTs) and can freely trade them on open markets. This gives players a real stake in the game's economy.
-
-### 5. What kind of jobs are there in the metaverse?
-The metaverse is creating entirely new career paths. Our guide on the **[future of work in the metaverse](/future-of-work-in-the-metaverse)** explores emerging roles like Metaverse Architect, Digital Fashion Designer, and Virtual Event Manager.

@@ -57,7 +57,7 @@ If you're a developer, financial engineer, or entrepreneur in Banjul, remittance
 
 **International Funding:** Any successful remittance protocol built in Banjul could attract venture funding from fintech investors globally.
 
-See also: **[AI and Web3: Engineering Careers and the Hybrid Future](/content/articles/ai-and-web3-engineering-careers.md)** – How AI + blockchain creates next-generation financial infrastructure.
+See also: **[AI and Web3: Engineering Careers and the Hybrid Future](ai-and-web3-engineering-careers)** – How AI + blockchain creates next-generation financial infrastructure.
 
 ### Building a Remittance Solution
 
@@ -99,7 +99,7 @@ Once you have skills, reputation, and financial stability:
 - **Seek Investment:** With a team and traction, pitch to VCs and regional accelerators
 - **Partner with Government:** Formal government partnerships accelerate adoption and regulatory clarity
 
-Related: **[First 90 Days in a New Job Strategy](/content/articles/first-90-days-in-new-job-strategy.md)** – These principles apply to launching new ventures, too.
+Related: **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – These principles apply to launching new ventures, too.
 
 ## The CBDC Opportunity
 
@@ -149,7 +149,7 @@ Blockchain-based identity systems can:
 - **UX Designers:** Make identity systems easy for non-technical citizens to use
 - **Policy Advocates:** Push for government adoption of blockchain identity solutions
 
-See also: **[A Guide to Verifiable Credentials in Decentralized Identity](/content/articles/a-guide-to-verifiable-credentials-in-decentralized-identity.md)** – Technical deep dive on how identity works in Web3.
+See also: **[A Guide to Verifiable Credentials in Decentralized Identity](a-guide-to-verifiable-credentials-in-decentralized-identity)** – Technical deep dive on how identity works in Web3.
 
 ## Practical Steps to Start Today
 

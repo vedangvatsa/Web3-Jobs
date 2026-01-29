@@ -109,26 +109,3 @@ The Web3 job market is decentralized, just like the technology it's built on. Th
 
 By combining these approaches, you can move beyond passively applying for jobs and actively position yourself to land your dream role in the exciting and rapidly growing world of Web3.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: Do I need to be a developer to get a job in Web3?**
-
-Absolutely not. While developer roles are in high demand, there is a massive need for non-technical professionals in areas like community management, marketing, product management, design, legal, and operations.
-
-**Q2: How important is a traditional resume in a Web3 job search?**
-
-It depends on the role and the company. For more corporate-style Web3 companies, a traditional resume is still important. For DAOs and more crypto-native projects, your "on-chain resume"—your GitHub contributions, your participation in governance forums, your Twitter presence—is often more valuable.
-
-**Q3: Are most Web3 jobs remote?**
-
-Yes, the vast majority of Web3 jobs are fully remote. The industry has a remote-first culture, allowing companies to access a global talent pool.
-
-**Q4: What is the best way to get noticed by recruiters?**
-
-The best way is to get involved. Contribute to an open-source project, write thoughtful posts about the industry on Twitter or a blog, and become an active, helpful member of a project's Discord community. Demonstrating your passion and "proof of work" is far more powerful than just submitting a resume.
-
-**Q5: Is it necessary to have crypto experience to get a Web3 job?**
-
-While it helps, it's not always necessary, especially for non-technical roles. Many companies are looking for talented professionals from Web2 who are passionate and willing to learn. The most important thing is to demonstrate a genuine interest in the space and an understanding of its

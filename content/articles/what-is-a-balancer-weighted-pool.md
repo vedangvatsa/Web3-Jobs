@@ -83,5 +83,3 @@ A: The creator of the pool sets the trading fee. This fee can be fixed or can be
 **Q_ What is the difference between Balancer v1 and v2?**
 A: Balancer v2 introduced a significant architectural change with the "single vault." In v1, each pool was a separate smart contract holding its own assets. In v2, all assets from all pools are held in one master vault contract. The pools themselves just contain the logic. This makes multi-hop trades between different pools extremely gas-efficient.
 
----
-*Internally, this article links to: `understanding-constant-product-formula`, `what-is-a-liquidity-bootstrapping-pool`, `arbitrage-opportunities-in-defi-markets`*

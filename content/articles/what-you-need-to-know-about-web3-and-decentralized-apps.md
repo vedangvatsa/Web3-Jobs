@@ -52,21 +52,3 @@ The biggest challenge facing dApps today is the **[user experience (UX)](/why-we
 
 Decentralized applications are the heart of the Web3 revolution. They represent a fundamental shift towards a more open, user-controlled internet, creating new opportunities for developers and empowering users with true ownership of their digital lives.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the difference between a dApp and a smart contract?
-A **[smart contract](/what-is-a-blockchain)** is the backend code that runs on the blockchain. A dApp is the complete application, which includes the smart contract(s) as well as the user-facing frontend.
-
-### 2. Are dApps safer than regular apps?
-The backend of a dApp (the smart contract) can be more secure because it's transparent and audited by the community. However, users are responsible for their own security. If you lose your wallet's seed phrase, you lose your assets. Phishing scams targeting wallet users are also common.
-
-### 3. Do I need to pay to use a dApp?
-While the dApp itself is usually free to access, performing any action that changes the state of the blockchain requires a transaction, and all transactions have a "gas fee" that you must pay to the network.
-
-### 4. What skills do I need to build a dApp?
-To build a full-stack dApp, you typically need skills in **[Solidity](/solidity-for-beginners)** (for the smart contracts) and a frontend framework like React, as well as a library like Ethers.js to connect the two. Our **[blockchain developer roadmap](/blockchain-developer-roadmap)** provides a full learning path.
-
-### 5. Why are dApps important for the future of the internet?
-dApps are important because they are censorship-resistant and user-owned. They shift power away from centralized corporations and back to individual users, creating a more open and equitable digital world. This is the core vision of **[Web3](/what-is-web3)**.

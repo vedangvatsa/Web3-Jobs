@@ -35,21 +35,3 @@ However, instead of just `.eth` domains, Unstoppable Domains offers a wider vari
 
 Services like Unstoppable Domains and ENS are a critical piece of the Web3 user experience puzzle. They are abstracting away one of the most intimidating parts of crypto—the long, hexadecimal addresses—and replacing them with a simple, human-centric system. By creating a portable and user-owned naming standard, they are laying the groundwork for a more accessible and intuitive decentralized internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is an Unstoppable Domain an NFT?
-Yes. Each domain is an NFT (either ERC-721 or ERC-1155) that is minted on the Polygon blockchain and held in your personal crypto wallet.
-
-### 2. Do I have to pay renewal fees for my domain?
-No. This is a key feature of Unstoppable Domains. You pay a one-time fee to mint the domain, and you own it forever without any recurring payments.
-
-### 3. How is Unstoppable Domains different from ENS?
-The main differences are the ownership model (buy vs. rent) and the domain endings offered. Unstoppable offers many TLDs like `.crypto` and has no renewal fees, while **[ENS](/understanding-ens-domains-in-ethereum)** is focused on `.eth` names and requires annual renewals.
-
-### 4. Can I build a website on my Unstoppable Domain?
-Yes. You can create a decentralized website (often using a template) and link it to your domain. The website content is typically hosted on a decentralized storage network like IPFS.
-
-### 5. What wallets support Unstoppable Domains?
-A large and growing number of crypto wallets, including Trust Wallet, Coinbase Wallet, and many others, have integrated Unstoppable Domains, allowing users to send crypto to `.crypto` or `.x` addresses.

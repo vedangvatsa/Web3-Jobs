@@ -42,21 +42,3 @@ The decentralized economy is also creating new ways of working.
 
 The Web3 digital economy is still in its early stages, but it offers a blueprint for a more equitable and open system. It's an economy where value is more fairly distributed, where users have a real stake in the products they use, and where creators have more control over their work and their careers.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the "ownership economy"?
-The ownership economy is a core concept of Web3 where users and builders are also the owners of the platforms and communities they participate in. This is typically enabled through the distribution of governance tokens or NFTs.
-
-### 2. How does Web3 help creators?
-Web3 allows creators to bypass traditional intermediaries and monetize their work directly. They can use **[NFTs](/what-are-nfts)** to sell their art or music and use programmed **[royalties](/nft-artist-royalties)** to earn from secondary sales.
-
-### 3. What is a DAO?
-A DAO, or **[Decentralized Autonomous Organization](/what-is-a-dao)**, is an internet-native organization that is owned and governed by its members through token-based voting. They are a new corporate structure for the digital economy.
-
-### 4. What is the difference between a platform and a protocol?
-A Web2 **platform** (like Facebook) is a centralized, closed system owned by a company. A Web3 **[protocol](/what-is-a-protocol)** (like Uniswap) is an open set of rules on a blockchain that anyone can use or build on.
-
-### 5. How can I earn money in the Web3 economy?
-There are many ways to **[make money in Web3](/how-to-make-money-with-web3)**. Beyond investing, you can earn income by contributing your skills to a DAO, working as a community manager, creating content, or getting a full-time job in the industry.

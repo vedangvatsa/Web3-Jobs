@@ -62,7 +62,7 @@ Before we dive into tactics, understand why this matters:
 
 Conversely, a bad first impression is hard to overcome. Someone who decides you're careless or difficult will look for evidence confirming that belief.
 
-See also: **[Building Relationships with Your New Team](/content/articles/building-relationships-with-new-team.md)** – Building on your first impression over time.
+See also: **[Building Relationships with Your New Team](building-relationships-with-new-team)** – Building on your first impression over time.
 
 ### 1. Be Punctual and Prepared
 
@@ -144,7 +144,7 @@ In your first week:
 - Batch related questions: "I have a few questions about the project"
 - Acknowledge their time: "I know you're busy, but when you have 5 minutes..."
 
-Related: **[Asking Smart Questions as a New Employee](/content/articles/asking-smart-questions-as-new-employee.md)** – Deep dive on asking questions strategically.
+Related: **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** – Deep dive on asking questions strategically.
 
 ### 4. Build Relationships Intentionally
 

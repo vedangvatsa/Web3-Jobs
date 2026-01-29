@@ -43,21 +43,3 @@ For a dApp to have a fast frontend, its off-chain backend must be highly perform
 
 A career in performance engineering is for those who love to tinker, to measure, and to squeeze every last drop of efficiency out of a system. In the resource-constrained environment of the blockchain, these skills are more valuable than ever.
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Web3 Performance Optimization Engineer do?
-A performance engineer specializes in making blockchains and dApps faster and more efficient. This can involve anything from **[smart contract gas optimization](/gas-optimization-techniques-for-solidity-developers)** to improving the speed of the core blockchain client software.
-
-### 2. Why is gas optimization important?
-Every operation on a blockchain like Ethereum costs users a "gas" fee. Writing gas-efficient smart contracts makes a dApp cheaper to use, which is critical for a good user experience and for adoption. Our guide on [understanding gas fees](/understanding-gas-fees-and-optimization-in-ethereum) covers this in more detail.
-
-### 3. What's the difference between a Performance Engineer and a regular developer?
-While all good developers care about performance, a specialist in this area goes much deeper. They are experts in profiling tools, low-level system architecture, and identifying bottlenecks that a generalist might miss. This is a key part of the [Protocol Engineer role](/building-a-career-as-a-web3-blockchain-infrastructure-engineer).
-
-### 4. What are the key areas of performance optimization in Web3?
-The main areas are **smart contract gas optimization**, **core protocol/client performance**, **peer-to-peer network latency**, and **dApp backend/indexing performance**.
-
-### 5. What skills do I need for a career in performance engineering?
-You need strong computer science fundamentals and a deep, systems-level understanding of your chosen layer of the stack. This could mean expert-level Solidity and EVM knowledge for smart contracts, or proficiency in Rust/Go and distributed systems for protocol-level work.

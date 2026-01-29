@@ -57,21 +57,3 @@ Imagine you want to get a loan from a **[DeFi](/what-is-defi)** protocol that is
 
 This is the power of Self-Sovereign Identity. It allows for trust and verification in a digital world without sacrificing privacy or control. It is a fundamental shift that promises to create a more secure, private, and user-centric internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main goal of Self-Sovereign Identity (SSI)?
-The main goal of SSI is to give individuals full control and ownership over their own digital identity and personal data, breaking free from the control of centralized platforms.
-
-### 2. How is SSI different from using "Sign in with Google"?
-"Sign in with Google" is a federated identity model where Google acts as the central authority. SSI is a decentralized model where you are your own authority, controlling your identity through your personal crypto wallet.
-
-### 3. What is a DID?
-A **[Decentralized Identifier (DID)](/what-is-a-decentralized-identifier)** is a globally unique ID that you create and control. It's like a phone number that you own yourself, not one that is issued to you by a phone company. It is the core technical standard for SSI.
-
-### 4. What is a Verifiable Credential (VC)?
-A **[Verifiable Credential](/understanding-verifiable-credentials-in-blockchain)** is a digital, tamper-proof claim made about you by an issuer (like a university issuing a digital diploma). You store VCs in your wallet and can use them to prove facts about yourself without over-sharing data.
-
-### 5. How does this improve my privacy?
-SSI, combined with technologies like **[Zero-Knowledge Proofs](/zero-knowledge-proofs-explained)**, enables data minimization. You can prove that you meet a certain criteria (e.g., are over 18) without having to reveal the sensitive data itself (your exact birthdate).

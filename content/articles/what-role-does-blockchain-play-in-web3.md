@@ -42,21 +42,3 @@ Blockchains have their own native cryptocurrencies (like ETH on Ethereum) that a
 
 The blockchain is the essential, non-negotiable foundation of Web3. It provides the four key pillars upon which the new internet is being built: a decentralized and censorship-resistant infrastructure, a system for true digital ownership, a mechanism for automating trust, and a native economic layer. Without the unique properties of blockchain technology, the vision of a more open, transparent, and user-owned internet would remain a dream.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the difference between Web3 and blockchain?
-**[Blockchain](/what-is-a-blockchain)** is the underlying technology. **[Web3](/what-is-web3)** is the vision for the next era of the internet that is built *using* blockchain technology. Think of the blockchain as the highway and Web3 applications as the cars that drive on it.
-
-### 2. Can you have Web3 without a blockchain?
-No. The core principles of Web3—decentralization, user ownership, and trustlessness—are all direct results of the unique properties of blockchain technology.
-
-### 3. What is the most important blockchain for Web3?
-**[Ethereum](/what-is-ethereum)** is by far the most important blockchain for the Web3 ecosystem. Its introduction of smart contracts created the application layer, and the vast majority of dApps, DeFi protocols, and NFTs are built on Ethereum or its **[Layer 2 scaling solutions](/guide-to-layer-2s)**.
-
-### 4. What are smart contracts?
-Smart contracts are self-executing programs that run on a blockchain. They are the backend code of dApps, automating rules and agreements without the need for a human intermediary.
-
-### 5. How does this create jobs?
-Building this new internet requires a vast range of talent. Key roles include **[smart contract developers](/smart-contract-jobs)** who build the on-chain logic, **[frontend developers](/how-to-transition-from-web2-to-web3-developer-transition)** who build the dApp interfaces, and **[community managers](/web3-community-manager-career)** who grow the user base.

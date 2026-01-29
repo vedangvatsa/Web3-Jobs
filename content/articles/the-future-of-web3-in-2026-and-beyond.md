@@ -65,7 +65,7 @@ A: Absolutely. Ethereum is poised to become even more important as the secure se
 
 A: The biggest risk is regulatory uncertainty. If governments fail to provide clear rules for how to issue and trade tokenized securities, it will stifle innovation and prevent institutional adoption.
 
-**Q- Is Web3 a good career choice for 2025 and beyond?**
+**Q- Is Web3 a good career choice for 2026 and beyond?**
 
 A: Yes, Web3 continues to be a high-growth industry with strong demand for skilled professionals, particularly developers, security experts, and product managers. The shift towards real-world applications and improved user experience is creating a new wave of opportunities.
 

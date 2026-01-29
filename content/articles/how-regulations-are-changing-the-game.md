@@ -42,20 +42,3 @@ For builders and professionals in Web3, success requires the ability to navigate
 
 The future of Web3 is being forged in the tension between the push for regulatory compliance and the pull of its decentralized, community-owned culture. The projects that will succeed in the long run will be those that can find a way to satisfy the demands of both, building products that are not only compliant and secure but also open, transparent, and true to the core ethos of the decentralized web.
 
----
-## Frequently Asked Questions
-
-### 1. Why is regulation a major issue for Web3?
-The legal status of many crypto assets and decentralized protocols is still unclear in most countries. This **[regulatory uncertainty](/web3-jobs-and-regulatory-unknown)** creates significant risks for businesses and can stifle innovation. The main battleground is whether crypto tokens should be treated as securities.
-
-### 2. What is a DAO and how does it relate to Web3 culture?
-A **[DAO (Decentralized Autonomous Organization)](/what-is-a-dao)** is a community-led entity with no central authority. DAOs embody the Web3 cultural ethos of decentralization, community ownership, and transparency.
-
-### 3. How does Web3 culture influence project success?
-The Web3 community has a strong "cultural immune system." Projects that are not transparent, that have unfair token distributions, or that ignore their community are often publicly criticized and lose trust, which is a critical asset in a decentralized ecosystem. Understanding this **[Web3 company culture](/understanding-web3-company-culture)** is key.
-
-### 4. What is the "Howey Test"?
-The Howey Test is a legal test used in the US to determine if a transaction qualifies as an "investment contract" and is thus a security. The SEC uses this test to analyze crypto tokens, and it's a central part of the regulatory debate. For more, see our guide on **[becoming a Web3 legal consultant](/how-to-become-a-web3-legal-consultant)**.
-
-### 5. What is "progressive decentralization"?
-Progressive decentralization is a strategy where a project starts with a centralized development team to build and iterate quickly, and then gradually hands over control and governance of the protocol to a decentralized community or DAO over time. It's a pragmatic approach to balancing speed with the long-term goal of decentralization.

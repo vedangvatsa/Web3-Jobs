@@ -33,21 +33,3 @@ Let's take an example:
 
 When you hear "protocol" in Web3, think of it as a foundational, open-source building block for the new internet. It's a shared, public good rather than a private, proprietary application. This shift from platforms to protocols is the core architectural change that defines the promise of a more open and decentralized digital future.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the difference between a protocol and a dApp?
-A **protocol** is the underlying set of rules and smart contracts that define the logic (e.g., the Uniswap protocol). A **dApp (decentralized application)** is the user-facing interface (e.g., the Uniswap website) that allows users to easily interact with the protocol. Multiple different dApps can be built on top of the same protocol.
-
-### 2. Who builds Web3 protocols?
-Protocols are typically built by a core team of developers. Once the protocol is launched, its ongoing development and governance are often handed over to a **[DAO](/what-is-a-dao)**, which is controlled by the community of token holders.
-
-### 3. Are all protocols on Ethereum?
-No. While **[Ethereum](/what-is-ethereum)** has the largest ecosystem of protocols, other **[Layer 1 blockchains](/what-is-a-layer-1-blockchain)** like Solana and Avalanche, as well as **[Layer 2 solutions](/guide-to-layer-2s)** like Arbitrum, have their own growing ecosystems of protocols.
-
-### 4. What does "composability" mean?
-Composability, often called "money legos," is the idea that because Web3 protocols are open and permissionless, they can be easily combined to create new and more complex applications. A developer can build a new dApp by "composing" several existing protocols together.
-
-### 5. Why is being "permissionless" important?
-Being permissionless means anyone can build on or use a protocol without asking for permission from a central gatekeeper. This fosters rapid innovation and prevents censorship, which is a core tenet of **[Web3](/what-is-web3)**.

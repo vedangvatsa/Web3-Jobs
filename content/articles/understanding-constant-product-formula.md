@@ -104,5 +104,3 @@ A: No. The formula itself does not account for the network gas fees that a trade
 **Q_ Is the price shown on a DEX before a trade the price I will get?**
 A: No. The price displayed is the current spot price before your trade. Your trade will have a price impact, and you will always receive a slightly worse average execution price. For large trades, this difference can be significant.
 
----
-*Internally, this article links to: `what-is-price-impact-in-dex-trading`, `stableswap-invariant-explained-for-traders`*

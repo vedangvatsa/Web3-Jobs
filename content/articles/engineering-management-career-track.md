@@ -73,17 +73,3 @@ The roles of VP of Engineering and Chief Technology Officer (CTO) can sometimes 
 
 In smaller companies, one person often fills both roles. In larger companies, they are distinct roles, with the VP of Engineering typically reporting to the CTO or CEO.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q: How do I know if I should go into management?**
-A: Ask yourself: do you get more satisfaction from solving a difficult technical problem yourself, or from helping someone on your team solve it? If you find yourself naturally mentoring others, enjoying project planning, and thinking about team dynamics, management might be a good fit.
-
-**Q: Can I go back to being an IC after being a manager?**
-A: Yes, and this is becoming increasingly common. Many companies have parallel IC and management tracks, and it's possible to move between them. Some of the best technical leaders have experience in both roles.
-
-**Q: Do Engineering Managers need to be technical?**
-A: Yes. While they may not be writing code every day, the best EMs have a strong technical background. They need to be able to understand technical trade-offs, have credible conversations with their engineers, and spot potential issues in technical designs. An EM who has lost touch with technology will quickly lose the respect of their team.
-
-The engineering management track is a challenging but deeply rewarding path that allows you to scale your impact from one person's output to the output of an entire organization.

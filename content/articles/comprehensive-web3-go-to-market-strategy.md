@@ -95,26 +95,3 @@ The Web3 GTM playbook is a fundamental departure from the past. It's a shift fro
 
 Projects that try to apply a traditional Web2 marketing playbook to Web3 will fail. They will be seen as inauthentic and will be unable to build the trust required to succeed. The projects that win will be those that understand that in Web3, the community is not just a part of the marketing strategy—the community *is* the strategy. By building in public, rewarding early believers, and progressively ceding control, you can create a vibrant, self-sustaining ecosystem that is far more resilient and powerful than any centralized company.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: What is the most important part of a Web3 go-to-market strategy?**
-
-The most important part is building a genuine community before you launch. A strong, engaged community of early believers will be your most powerful marketing asset and the foundation of your protocol's long-term success.
-
-**Q2: What is an airdrop?**
-
-An airdrop is a method of distributing tokens to a large number of wallet addresses for free. It is often used to reward early users of a protocol and to bootstrap a decentralized community of token holders who can participate in governance.
-
-**Q3: Why is token vesting important?**
-
-Vesting schedules for team and investor tokens are crucial for building trust with the community. They ensure that insiders are committed to the long-term success of the project and cannot sell their tokens immediately after launch, which would crash the price.
-
-**Q4: How do you market a project in a decentralized way?**
-
-Decentralized marketing focuses on value creation and community empowerment. This includes creating high-quality educational content, building in public to create transparency, and running a grants program to pay community members to act as marketers and evangelists.
-
-**Q5: What is a "headless brand"?**
-
-A "headless brand" is the idea of building a personal or team reputation as a thought leader on a specific topic *before* you announce your project. By consistently providing value through content (e.g., Twitter threads, blog posts), you can build an audience that trusts

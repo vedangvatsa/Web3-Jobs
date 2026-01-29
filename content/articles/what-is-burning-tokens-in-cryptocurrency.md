@@ -32,20 +32,3 @@ One of the most famous examples of a token burn mechanism is Ethereum's **EIP-15
 
 Token burning is a powerful tool in the **[tokenomics](/understanding-tokenomics)** toolkit. It's a way for projects to actively manage their token's economic policy, create scarcity, and reward long-term holders.
 
----
-## Frequently Asked Questions
-
-### 1. Is burning tokens the same as destroying them?
-Yes. Sending tokens to a burn address effectively destroys them, as there is no private key that can ever be used to access or spend them again.
-
-### 2. Why would anyone want to burn their own tokens?
-Projects burn tokens to reduce the overall supply, which can make the remaining tokens more valuable. A "buyback and burn" program, where a project uses its revenue to buy and burn its own tokens, is a common way to return value to token holders.
-
-### 3. How does Ethereum burn tokens?
-Ethereum burns tokens through the EIP-1559 mechanism. A portion of every transaction fee, known as the "base fee," is permanently removed from circulation. This introduces a deflationary pressure on the supply of ETH.
-
-### 4. What is a "deflationary" token?
-A deflationary token is a cryptocurrency whose total supply decreases over time. This is the opposite of an "inflationary" token, where the supply increases over time.
-
-### 5. How can I see if tokens have been burned?
-You can use a block explorer like Etherscan. You can look up the burn address and see all

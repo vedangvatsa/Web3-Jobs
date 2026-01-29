@@ -43,21 +43,3 @@ While the EVM (Ethereum Virtual Machine) is the dominant standard, Web3 is stron
 
 Solana's focus on performance has made it a critical piece of the Web3 puzzle. By providing a platform for high-speed financial applications, accessible NFTs, and a scalable environment for gaming, it is pushing the boundaries of what's possible on a public blockchain and playing a vital role in onboarding the next wave of Web3 users.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is Solana faster than Ethereum?
-Yes, Solana's base layer is significantly faster and can handle a much higher volume of transactions per second than the Ethereum mainnet. This is its core design trade-off.
-
-### 2. What is Proof-of-History (PoH)?
-PoH is Solana's key innovation. It's a cryptographic clock that timestamps transactions before they are processed, allowing validators to process them in parallel rather than sequentially, which is a major source of its speed.
-
-### 3. What is the main use case for Solana?
-Due to its high speed and low cost, Solana excels at high-frequency applications. This includes on-chain order book exchanges, payments, and certain types of **[Web3 gaming](/exploring-web3-gaming)** that require fast interactions.
-
-### 4. What language do you use to build on Solana?
-The primary language for building smart contracts (called "programs") on Solana is **[Rust](/top-5-web3-languages)**, which is known for its performance and safety but has a steeper learning curve than Solidity.
-
-### 5. Is Solana a good place to start a Web3 career?
-Yes, especially for developers with a background in Rust or those interested in high-performance systems. The ecosystem has a strong community and many well-funded projects, although the overall number of developers is smaller than in the EVM ecosystem. You can learn how to start in our **[Solana developer guide](/building-your-first-dapp-on-solana-with-rust)**.

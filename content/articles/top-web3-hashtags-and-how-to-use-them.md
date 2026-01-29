@@ -62,20 +62,3 @@ A good rule of thumb for a single post is:
 3.  **(Optional) 1 Event Hashtag:** If relevant (e.g., `#ETHGlobal`)
 
 By understanding the different tiers of hashtags and using them strategically, you can amplify your message, connect with the right audience, and establish your brand as a knowledgeable and authentic voice in the Web3 space.
----
-## Frequently Asked Questions
-
-### 1. Why are hashtags important in Web3 marketing?
-Hashtags are crucial for **discoverability**, allowing users interested in a specific topic (like #DeFi) to find your content. They also signal your **alignment with industry narratives** and allow you to participate in real-time conversations during events.
-
-### 2. Should I use popular hashtags like #crypto or more niche ones?
-A good strategy uses a mix. Use 1-2 broad, foundational hashtags like **`#Web3`** or **`#crypto`** for wide reach, and 1-2 niche, narrative-specific hashtags like **`#DePIN`** or **`#Restaking`** to target a more specialized audience and show you're on top of current trends.
-
-### 3. What is the meaning of cultural hashtags like #gm and #BUIDL?
-These are important cultural signals. **`#gm`** (Good Morning) is a daily ritual for community engagement. **`#BUIDL`** (a typo for "build") signals a focus on long-term development over short-term hype, especially during bear markets. Using them shows you understand the **[culture of Web3](/understanding-web3-company-culture)**.
-
-### 4. How many hashtags should I use in a post?
-Less is more. Aim for 2-3 highly relevant hashtags per post. Overloading a post with dozens of tags can look spammy and dilute your message.
-
-### 5. How can I find the latest trending Web3 hashtags?
-The best way is to be active on Twitter and see what the leading builders, investors, and researchers are talking about. The narratives in Web3 shift quickly, so staying immersed in the conversation is the only way to keep up with the latest trends.

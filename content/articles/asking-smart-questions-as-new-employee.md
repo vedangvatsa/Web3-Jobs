@@ -58,7 +58,7 @@ Before diving into technique, understand why questions are so powerful in a prof
 
 Managers and senior colleagues generally appreciate thoughtful questions. They signal that you're serious about getting up to speed and contributing meaningfully. Bad questions—or asking the same question twice—signal carelessness or lack of attention.
 
-Related reading: **[First 90 Days in a New Job Strategy](/content/articles/first-90-days-in-new-job-strategy.md)** – Strategic framework for your onboarding period.
+Related reading: **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – Strategic framework for your onboarding period.
 
 ### 1. Do Your Homework First
 
@@ -185,7 +185,7 @@ Different questions have different appropriate audiences. Asking the right perso
 - General knowledge questions
 - Non-urgent clarifications
 
-See also: **[How to Find a Mentor at a New Company](/content/articles/how-to-find-mentor-at-new-company.md)** – Building the mentor relationship where you can ask strategic questions.
+See also: **[How to Find a Mentor at a New Company](how-to-find-mentor-at-new-company)** – Building the mentor relationship where you can ask strategic questions.
 
 ### 5. Write It Down
 

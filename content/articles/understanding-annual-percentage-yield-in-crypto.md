@@ -42,20 +42,3 @@ A high APY is always accompanied by high risk. It's essential to understand wher
 
 **Practical Insight:** Treat APY as an estimate, not a guarantee. It is a snapshot of the current rate of return. DeFi yields are highly dynamic and can change rapidly based on market conditions, token prices, and the amount of capital in a pool. Always [do your own research (DYOR)](/what-is-dyor-in-crypto) to understand the source of the yield and the risks involved before chasing an eye-popping APY figure.
 
----
-## Frequently Asked Questions
-
-### 1. What's the main difference between APY and APR?
-APR (Annual Percentage Rate) is the simple interest rate over a year. APY (Annual Percentage Yield) includes the effects of compounding interest. APY is always a higher number than APR, assuming compounding occurs more than once a year.
-
-### 2. Is a high APY in DeFi guaranteed?
-No, absolutely not. DeFi yields are highly variable. A high APY is often a temporary marketing incentive for a new protocol and can drop quickly as more users join or as the price of the reward token changes.
-
-### 3. Where does the yield in DeFi come from?
-Yield comes from real economic activity like fees from lending and trading. However, a large portion of the very high APYs you see often comes from inflationary rewards, where the protocol gives out its own native token as an incentive.
-
-### 4. How can I evaluate a high-APY opportunity?
-You must understand the source of the yield. Is it from real usage (fees) or just from token inflation? You also need to assess the risks, including smart contract risk and, for liquidity pools, the risk of [impermanent loss](/what-is-yield-farming).
-
-### 5. What is a "yield aggregator"?
-A yield aggregator is a DeFi protocol that automatically moves your funds between different yield farming opportunities to find the best risk-adjusted APY. They essentially automate the process of compounding and strategy management for you, in exchange for a fee.

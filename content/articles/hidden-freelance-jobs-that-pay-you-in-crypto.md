@@ -63,21 +63,3 @@ The path from a side hustle to a career in Web3 is a journey of active participa
 
 Find your next freelance gig or full-time role on our [Web3 Job Board](/jobs).
 
----
-
-## Frequently Asked Questions
-
-### 1. How can I find freelance work in Web3?
-The best place to start is by looking for "bounties" in the Discord servers of various **[DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao)**. Platforms like Dework and Layer3 also aggregate these tasks.
-
-### 2. What kind of freelance jobs are available?
-There are opportunities for all kinds of skills. While technical bounties (like fixing a bug) are common, there are also many for content creation, design, translation, and community moderation. Our guide on **[how to make money with Web3](/how-to-make-money-with-web3)** covers many non-technical paths.
-
-### 3. How do I get paid for freelance Web3 work?
-You are typically paid in cryptocurrency (like a stablecoin or the project's native token) directly to your personal crypto wallet upon completion of the task.
-
-### 4. How can I turn a freelance side hustle into a full-time job?
-By being a consistent and high-quality contributor to a DAO, you build a reputation. This can lead to larger, grant-funded projects and eventually an offer for a full-time role. Your "proof of work" becomes your resume.
-
-### 5. What is the difference between freelance and full-time in Web3?
-The lines can be blurry. Full-time roles offer more stability and deeper involvement in a single project. Freelancing offers more flexibility and variety. Our guide on **[freelance vs. full-time Web3 careers](/freelance-vs-full-time-web3-career)** can help you decide which is right for you.

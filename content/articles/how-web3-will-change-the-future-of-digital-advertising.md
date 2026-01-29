@@ -48,21 +48,3 @@ The transition to a Web3 advertising model will not be easy. The incumbent Web2 
 
 However, the trend towards greater privacy is undeniable. Regulatory changes like GDPR and Apple's App Tracking Transparency are already chipping away at the old surveillance model. Web3 provides the technological foundation for a new advertising paradigm—one that is built on user consent, respects privacy, and creates a more equitable distribution of value across the internet. For marketers and advertisers, the future is not about finding new ways to track users, but about finding new ways to reward them for their attention.
 
----
-
-## Frequently Asked Questions
-
-### 1. How does Web3 change the digital advertising model?
-Web3 shifts the advertising model from **surveillance** to **consent**. Instead of platforms tracking and selling your data, Web3 proposes a model where users own their data and can choose to share it with advertisers in exchange for direct compensation, often in the form of crypto tokens.
-
-### 2. What is an example of a Web3 advertising model?
-The **Brave browser** and its **Basic Attention Token (BAT)** are a prime example. Brave blocks ads and trackers by default, and users can opt-in to view privacy-respecting ads and get paid in BAT for their attention.
-
-### 3. How do Zero-Knowledge Proofs (ZKPs) help with ad privacy?
-**[ZKPs](/zero-knowledge-proofs-explained)** allow for targeted advertising without revealing personal data. A user could prove they fit an advertiser's target demographic (e.g., "over 30, lives in London") without actually sharing their age or location.
-
-### 4. Will advertising exist in Web3?
-Yes, but it will likely look very different. The focus will shift from intrusive, surveillance-based ads to opt-in, privacy-preserving ads and direct creator-to-fan monetization models that are less reliant on advertising revenue.
-
-### 5. How can Web3 help creators move away from ad revenue?
-Web3 tools like **[NFTs](/what-are-nfts)** and token-gating allow creators to monetize their work directly from their audience. This creates a more sustainable model where they are incentivized to serve their community, not an advertising algorithm. This is changing the landscape for **[Web3 marketing careers](/web3-marketing-jobs)**.

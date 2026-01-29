@@ -83,5 +83,3 @@ A: Uniswap v3 allows pools to be created with different fee tiers (e.g., 0.05% f
 **Q: If the price goes out of my range, do I lose all my money?**
 A: No, you do not lose your money, but your position will be composed entirely of the asset that has decreased in relative value. You will be holding a sub-optimal portfolio and experiencing impermanent loss until the price returns to your range or you reposition your liquidity.
 
----
-*Internally, this article links to: `what-is-just-in-time-liquidity`, `understanding-constant-product-formula`*

@@ -52,20 +52,3 @@ The solution is not to stop marketing, but to commit to a higher standard of it.
 
 Ultimately, the most sustainable marketing strategy in Web3 is to build a great product and a genuine community. In the long run, trust is the only asset that truly matters, and it cannot be shilled into existence.
 
----
-## Frequently Asked Questions
-
-### 1. What is the difference between Web3 marketing and manipulation?
-The line is often blurry, but it comes down to intent and transparency. Ethical **[Web3 marketing](/web3-marketing)** focuses on educating users about a project's utility and is transparent about incentives. Manipulation, or **[shilling](/what-is-shilling-in-crypto)**, uses hype and undisclosed payments to generate FOMO and pump a token's price for short-term gain.
-
-### 2. How does shilling impact the Web3 ecosystem?
-It erodes trust by misleading investors, particularly newcomers. When users lose money on projects that were shilled to them, they lose faith not just in the influencer, but often in the entire Web3 space. This is a key challenge for **[Web3 adoption](/why-web3-adoption-is-slow)**.
-
-### 3. What is FOMO?
-FOMO stands for "Fear Of Missing Out." It's a powerful psychological driver in crypto markets, where investors see a token's price rising rapidly and buy in out of fear of missing out on further gains, often without doing proper research.
-
-### 4. How can I, as a user, protect myself from manipulation?
-The golden rule of crypto: **[DYOR (Do Your Own Research)](/what-is-dyor-in-crypto)**. Be skeptical of hype. Investigate a project's team, technology, and tokenomics yourself. Learn to read on-chain data to verify a project's claims about its user activity.
-
-### 5. As a marketer, how can I promote my project ethically?
-Focus on education and utility, not price speculation. Be transparent in your communications and any influencer partnerships. Build a genuine community around your product, rather than trying to manufacture hype. Our guide on **[how to avoid crypto shilling](/how-to-avoid-crypto-shilling)** provides a full framework.

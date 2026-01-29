@@ -46,21 +46,3 @@ Introduced by **[Ethereum](/what-is-ethereum)**, **[smart contracts](/what-are-s
 
 Individually, these features are interesting. But together, they create a powerful new system for building digital services. By combining decentralization, immutability, transparency, and automation, blockchain technology allows us to create systems where trust is not placed in a fallible, central institution, but in open-source code and mathematics. This is the fundamental shift that is powering the **[Web3](/what-is-web3)** revolution and creating a new, user-owned internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. Can a blockchain be hacked?
-The core protocol of a major public blockchain like Bitcoin or Ethereum has never been hacked. The security model, based on decentralization and cryptography, makes it practically impossible. The "hacks" you read about are typically exploits of bugs in the **[smart contracts](/common-smart-contract-vulnerabilities-explained)** built *on top* of the blockchain, not a breach of the blockchain itself.
-
-### 2. Is all data on a blockchain public?
-On a public blockchain like Ethereum, yes. All transaction data is transparent. However, there are also **[private blockchains](/private-vs-public-vs-consortium-blockchain-explained)** used by enterprises that restrict data access. Additionally, new technologies like **[Zero-Knowledge Proofs](/zero-knowledge-proofs-explained)** are being used to build private applications on public blockchains.
-
-### 3. What is decentralization?
-Decentralization means there is no single point of control. Instead of a central server, a blockchain is maintained by a global network of independent computers. This makes the system more resilient and censorship-resistant.
-
-### 4. What does "immutable" mean?
-Immutability means that once data is recorded on the blockchain, it cannot be changed or deleted. This creates a permanent and tamper-proof audit trail.
-
-### 5. How do smart contracts work?
-**[Smart contracts](/what-is-a-blockchain)** are self-executing programs stored on a blockchain. They automatically enforce the rules of an agreement, removing the need for a trusted intermediary. They are the key building block for **[dApps](/what-you-need-to-know-about-web3-and-decentralized-apps)**.

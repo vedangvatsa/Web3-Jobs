@@ -78,26 +78,3 @@ By enabling features like social recovery, gasless transactions, and session key
 
 As the infrastructure for bundlers and paymasters becomes more robust and wallet providers increasingly adopt the EIP-4337 standard, Account Abstraction is set to become the default for a new generation of Web3 users. It is one of the most critical pieces of the puzzle for onboarding the next billion users to the decentralized web.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q1: What is Account Abstraction (AA)?**
-
-Account Abstraction is a way to make user accounts on Ethereum function like smart contracts. This allows for more flexible and user-friendly features, such as social recovery (no seed phrases), gasless transactions, and multi-factor authentication.
-
-**Q2: What is EIP-4337?**
-
-EIP-4337 is the specific technical standard that implements Account Abstraction on Ethereum. Its key innovation is that it achieves AA without requiring a change to Ethereum's core consensus protocol, allowing for faster adoption. It works by creating a separate, higher-level mempool for "UserOperation" objects.
-
-**Q3: Does Account Abstraction mean I don't need to pay gas fees anymore?**
-
-Not exactly. The gas fees still need to be paid, but Account Abstraction allows *someone else* to pay them for you. A dApp can use a "Paymaster" contract to sponsor transactions for its users, creating a "gasless" experience for the end user.
-
-**Q4: How does social recovery work with Account Abstraction?**
-
-With a Smart Account, you can program logic that allows a group of trusted "guardians" (e.g., 3 out of 5 friends or other devices you own) to approve a recovery transaction if you lose your primary device. This eliminates the single point of failure of a seed phrase.
-
-**Q5: Is Account Abstraction live on Ethereum today?**
-
-Yes. The core EIP-4337 contracts are deployed on Ethereum mainnet and many Layer 2 networks. A growing number of wallets (like Argent and Safe) and infrastructure providers are building on this standard, and

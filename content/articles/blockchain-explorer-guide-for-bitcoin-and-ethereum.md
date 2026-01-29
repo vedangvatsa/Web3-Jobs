@@ -71,21 +71,3 @@ The homepage of most block explorers provides a real-time dashboard of the netwo
 
 The block explorer is the ultimate tool for practicing the core ethos of Web3: "Don't trust, verify." It transforms the blockchain from an abstract concept into a tangible, auditable database. Whether you are a developer debugging a transaction, an investor researching a project, or a user simply confirming a payment, mastering the use of a block explorer is an essential skill for safely and effectively navigating the decentralized world. For anyone serious about a **[career in Web3](/how-to-start-a-web3-career)**, proficiency with a block explorer is as fundamental as knowing how to use a web browser.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a blockchain explorer?
-A blockchain explorer is a website that allows you to search and view all the data on a public blockchain, including transactions, blocks, wallet addresses, and smart contracts. Think of it as a search engine for the blockchain.
-
-### 2. What is the most popular explorer for Ethereum?
-**Etherscan.io** is the most widely used and feature-rich block explorer for the Ethereum network and is an essential tool for any Web3 professional.
-
-### 3. What is a transaction hash (TxID)?
-A transaction hash is a unique ID assigned to every transaction on the blockchain. You can use this hash to look up the details of your transaction on a block explorer to verify its status.
-
-### 4. What does it mean for a smart contract to be "verified" on Etherscan?
-A verified contract on Etherscan has a green checkmark, which means the project team has uploaded their original Solidity code and Etherscan has confirmed that it compiles to the exact same bytecode that is stored on the blockchain. This allows you to read and audit the contract's code, providing crucial transparency.
-
-### 5. Can I see what NFTs someone owns on a block explorer?
-Yes. By looking up a wallet address on an explorer like Etherscan, you can see a list of all the ERC-721 and ERC-1155 tokens (NFTs) that the address

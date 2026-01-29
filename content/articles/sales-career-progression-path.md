@@ -72,17 +72,3 @@ The VP of Sales is a senior executive responsible for the entire sales organizat
     - **Executive Collaboration:** Working with the CEO and other C-level executives on the company's overall strategy.
 - **Skills Developed:** This is a senior leadership role focused on business strategy, organizational design, and P&L (Profit and Loss) ownership.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q: Do you need a specific degree to get into sales?**
-A: No. Sales is a field that values skills and results over credentials. People from all educational backgrounds can be successful in sales. Strong communication skills, resilience, and a competitive drive are far more important than a specific degree.
-
-**Q: What is the difference between an SDR and a BDR?**
-A: The terms are often used interchangeably. In some organizations, SDRs handle inbound leads (from marketing) while BDRs focus on outbound prospecting, but their core function of generating qualified leads is the same.
-
-**Q: Is sales a stressful career?**
-A: Yes, it can be. It is a high-pressure, results-oriented field. Your performance is constantly measured against a quota. However, for those who thrive under pressure and are motivated by clear goals and high earning potential, it can be an incredibly rewarding career.
-
-The sales career path is a meritocracy. If you can consistently deliver results, you will be rewarded with rapid advancement and significant financial opportunity. It's a challenging but direct path to making a major impact on a business's success.

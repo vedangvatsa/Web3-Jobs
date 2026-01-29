@@ -86,5 +86,3 @@ A: You receive a "vault token" that represents your share of the funds managed b
 **Q: How do I choose a pool for passive liquidity provision?**
 A: Look for pools with a good balance of high trading volume (which generates fees) and relatively low volatility (which minimizes IL). For beginners, starting with a pool of two well-established, highly correlated assets (like ETH/wBTC or stablecoin pairs) is often a safer approach.
 
----
-*Internally, this article links to: `what-is-a-liquidity-provider-token`, `understanding-concentrated-liquidity-in-uniswap`*

@@ -56,21 +56,3 @@ When evaluating a new project, use this simple framework:
 3.  **Utility:** What is the token used for? Does it have a clear purpose that drives demand?
 
 By analyzing these three pillars, you can begin to cut through the hype and make informed decisions. Tokenomics is the invisible hand that guides the behavior of a decentralized network. Learn to understand its language, and you'll be well-equipped to navigate the complex and exciting world of Web3.
----
-
-## Frequently Asked Questions
-
-### 1. What is the difference between a token and a coin?
-Generally, a "coin" (like Bitcoin or Ether) is the native asset of its own [Layer 1 blockchain](/what-is-a-layer-1-blockchain). A "token" (like UNI or AAVE) is built on top of an existing blockchain, most commonly as an ERC-20 token on Ethereum.
-
-### 2. What is a vesting schedule?
-A vesting schedule is a period over which tokens allocated to team members and investors are gradually released. A typical schedule is a 4-year vest with a 1-year cliff, which means no tokens are released for the first year, after which they are released incrementally. This prevents insiders from selling all their tokens immediately after launch. Learn more in our [guide to token compensation](/tokenomics-for-compensation).
-
-### 3. What does "value accrual" mean?
-Value accrual refers to the mechanisms by which a protocol's success and revenue are passed on to the token holders. This can be direct (e.g., sharing protocol fees with stakers) or indirect (e.g., using revenue to buy back and burn tokens, reducing the supply).
-
-### 4. How can I learn more about tokenomics?
-The best way to learn is by reading the whitepapers and documentation of major protocols. You can also explore careers in this field by reading our guide on [the role of a tokenomics designer](/the-role-of-a-tokenomics-designer).
-
-### 5. Are all tokens with good tokenomics a good investment?
-Not necessarily. Good tokenomics are a necessary but not sufficient condition for a project's success. A project also needs a strong team, a good product, and a vibrant

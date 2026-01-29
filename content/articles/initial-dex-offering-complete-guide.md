@@ -40,21 +40,3 @@ While a project can conduct an IDO on its own, most now use a **[crypto launchpa
 
 The IDO has become the dominant model for token launches in Web3. It provides a more transparent and accessible fundraising mechanism that aligns with the decentralized ethos of the space. However, it also comes with significant risks, and investors must approach these opportunities with caution and a commitment to thorough due diligence.
 
----
-
-## Frequently Asked Questions
-
-### 1. What's the difference between an IDO and an ICO?
-An **[ICO (Initial Coin Offering)](/what-is-an-initial-coin-offering)** is a fundraising model where a project sells its tokens directly from its own website. The tokens are often illiquid until they get listed on an exchange. An IDO launches the token directly on a Decentralized Exchange, providing immediate liquidity from day one.
-
-### 2. Is an IDO a good investment?
-It can be, but it is extremely high-risk. While getting into a successful project at the IDO price can lead to massive returns, the vast majority of new projects fail, and their tokens go to zero.
-
-### 3. What is a "liquidity pool"?
-A liquidity pool is a smart contract on a DEX that holds reserves of two or more tokens. Users can trade against this pool, and the price is determined by an algorithm.
-
-### 4. What does it mean to "lock liquidity"?
-This is a trust-building measure where the project team locks their initial liquidity provider (LP) tokens in a smart contract. This prevents them from being able to withdraw the funds from the liquidity pool, which is a common form of scam known as a "rug pull."
-
-### 5. What is a "launchpad"?
-A crypto launchpad is a platform that hosts IDOs for new projects. They help with marketing and provide access to a community of early-stage investors.

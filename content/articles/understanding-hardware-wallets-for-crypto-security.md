@@ -44,20 +44,3 @@ The simple answer is: **anyone who holds an amount of cryptocurrency that they w
 
 For a deeper dive into different wallet types, see our guide on [Custodial vs. Non-Custodial Wallets](/what-is-a-custodial-vs-non-custodial-wallet).
 
----
-## Frequently Asked Questions
-
-### 1. Is a hardware wallet the same as a cold wallet?
-Yes. A hardware wallet is the most common type of **[cold wallet](/hot-wallet-vs-cold-wallet-security-comparison)**, meaning it stores your private keys in an offline environment.
-
-### 2. Can a hardware wallet be hacked?
-It is extremely difficult. Because the private keys never leave the secure chip on the device, a remote hacker cannot steal them. An attacker would need physical possession of your device *and* they would need to guess your PIN code (devices typically wipe themselves after a few incorrect attempts).
-
-### 3. What if I lose my hardware wallet?
-If you lose your device, your funds are safe as long as you have your seed phrase backup. You can buy a new device (from Ledger, Trezor, or another brand) and use your 24-word seed phrase to restore your wallet and regain access to all your assets.
-
-### 4. Which hardware wallet is the best?
-**Ledger** and **Trezor** are the two most well-known and respected brands in the industry. Both offer excellent security. The choice between them often comes down to personal preference regarding their software interface and device design.
-
-### 5. Can I use my hardware wallet with MetaMask?
-Yes, and this is a highly recommended practice. You can connect your Ledger or Trezor to **[MetaMask](/what-is-a-browser-extension-wallet)**, which allows you to interact with dApps using MetaMask's user-friendly interface while still requiring every transaction to be physically confirmed on your secure hardware device.

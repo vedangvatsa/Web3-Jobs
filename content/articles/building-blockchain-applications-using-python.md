@@ -88,21 +88,3 @@ For Python developers looking to enter the Web3 space, the good news is that you
 
 Python is a first-class citizen in the Web3 ecosystem. While it may not be the language of choice for writing the on-chain smart contracts themselves, its power, flexibility, and rich data science ecosystem make it an indispensable tool for building the backend services, testing frameworks, and analytical tools that every major Web3 project needs. For Python developers, this presents a massive opportunity to leverage their existing skills to enter one of the most exciting and fast-growing fields in technology.
 
----
-
-## Frequently Asked Questions
-
-### 1. Can you write smart contracts in Python?
-While most smart contracts are written in **[Solidity](/solidity-for-beginners)**, there are some Python-based languages for smart contract development, like Vyper. However, Vyper has a much smaller ecosystem and is less commonly used than Solidity. Python's primary role in Web3 is for off-chain development.
-
-### 2. What is `Web3.py`?
-`Web3.py` is the main Python library for interacting with the Ethereum blockchain. It allows you to connect to an Ethereum node, read data from the blockchain, and send transactions.
-
-### 3. What is an ABI?
-An ABI, or Application Binary Interface, is a JSON file that describes a smart contract's functions and events. You need a contract's ABI to interact with it from a library like `Web3.py`.
-
-### 4. What is the best role for a Python developer in Web3?
-If you have strong data skills, a career as an **[on-chain data analyst](/on-chain-analyst-job)** is an excellent fit. If you have a backend development background, building the off-chain infrastructure and APIs for dApps is a high-demand role.
-
-### 5. What are other useful Python libraries for Web3?
-Besides `Web3.py`, other popular libraries include `eth-brownie` and `ape` (advanced development and testing frameworks) and `slither-analyzer` (a Python-based tool for smart contract security analysis).

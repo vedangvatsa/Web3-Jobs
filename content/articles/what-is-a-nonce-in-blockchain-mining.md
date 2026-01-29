@@ -30,20 +30,3 @@ This seemingly arbitrary process of guessing a number is the "work" in Proof-of-
 
 The nonce is a simple but brilliant mechanism. It's the variable that makes the brute-force competition of mining possible, and in doing so, it becomes the cornerstone of the security model for Proof-of-Work blockchains.
 
----
-## Frequently Asked Questions
-
-### 1. What does "nonce" stand for?
-Nonce stands for "number used once." It is a random number that miners are trying to guess to solve the puzzle required to create a new block.
-
-### 2. How is a nonce found?
-A nonce is found through a brute-force process of trial and error. Miners will test trillions of different nonces per second until one of them, when combined with the other block data, produces a hash that meets the network's difficulty target.
-
-### 3. What is the purpose of the nonce in mining?
-The nonce is the variable that makes mining a difficult and competitive process. The difficulty of finding the correct nonce is what secures the **[Proof-of-Work](/proof-of-stake-vs-proof-of-work-in-blockchain)** blockchain and ensures blocks are added at a stable rate.
-
-### 4. What is a "difficulty adjustment"?
-The network's protocol automatically adjusts the **[difficulty](/what-is-mining-difficulty-adjustment)** of the puzzle (i.e., how hard it is to find a valid nonce) to ensure that the average block time remains consistent, even as more mining power joins the network.
-
-### 5. Do Proof-of-Stake blockchains use a nonce?
-Not in the same way. Proof-of-Stake consensus does not involve mining puzzles, so the concept of a nonce as a target for a hash competition is not applicable. Nonces in other contexts, like transaction nonces, are used to prevent replay attacks but serve a different purpose.

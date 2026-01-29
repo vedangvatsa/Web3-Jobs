@@ -64,20 +64,3 @@ The migration of developers between blockchain ecosystems is a natural and healt
     </a>
   </CardContent>
 </Card>
----
-## Frequently Asked Questions
-
-### 1. Why are developers leaving some blockchain ecosystems?
-The main reasons include poor developer experience (bad tooling, documentation), lack of network effects and composability, unsustainable economic incentives, and shifting market narratives towards new technologies like Layer 2s or AI.
-
-### 2. Why is developer activity important for a blockchain?
-Developer activity is a key indicator of an ecosystem's health and long-term potential. A thriving developer community leads to more innovation, better applications, and ultimately, greater user adoption. A decline in developers is often a leading indicator of stagnation, as seen in the broader **[Web3 developer activity slowdown](/developer-activity-slowdown)**.
-
-### 3. What is the "EVM network effect"?
-The Ethereum Virtual Machine (EVM) is the most widely used smart contract engine. The vast majority of Web3 developers, tools, and protocols are built for the EVM. This creates a powerful gravitational pull, making it easier for EVM-compatible chains (like Ethereum's **[Layer 2s](/guide-to-layer-2s)**) to attract developers compared to non-EVM chains.
-
-### 4. What happened with developer activity on Solana and Litecoin?
-**[Solana's developer activity has declined](/solanas-developer-activity-decline)** due to the collapse of its main backer (FTX) and intense competition from EVM-compatible L2s. **[Litecoin's developer activity has slowed](/litecoin-developer-activity-slowdown)** because its limited smart contract capabilities offer less for developers to build compared to platforms like Ethereum.
-
-### 5. Where is developer talent moving to?
-A significant portion of developer talent and attention is currently focused on the **[Ethereum Layer 2 ecosystem](/guide-to-layer-2s)** (e.g., Arbitrum, Optimism, zkSync). These platforms offer a scalable environment without requiring developers to leave the familiar EVM ecosystem.

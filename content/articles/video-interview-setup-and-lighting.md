@@ -92,18 +92,3 @@ Before every video interview, run through this final checklist:
 
 By investing a small amount of time and effort into your video interview setup, you can eliminate potential distractions and present yourself as a polished, prepared, and professional candidate. This allows your skills, experience, and personality to take center stage, giving you the best possible chance of success.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q: Is it better to sit or stand for a video interview?**
-A: Standing can often lead to better posture, more energy in your voice, and more natural body language. If you have a standing desk, it is a great option. If you sit, make sure you are sitting up straight and leaning slightly forward to convey engagement.
-
-**Q: What if a technical issue happens during the call (e.g., my internet drops)?**
-A: Stay calm. If you can, try to rejoin the meeting immediately. Send a quick email to the interviewer letting them know you are having technical difficulties and are trying to resolve them. For example: "Hi [Name], apologies, I seem to have lost my connection. I am rejoining now." If you cannot rejoin, apologize in the email and ask to reschedule. Interviewers are human and understand that technical issues happen. How you handle it calmly and professionally is what matters.
-
-**Q: How do I avoid looking at myself on the screen?**
-A: It is a natural tendency. One trick is to resize the video window and move it directly underneath your physical webcam. This way, when you are looking at the interviewer's face, your eyes are very close to the camera lens. Some people even put a small sticky note with a smiley face next to their webcam as a reminder to look there.
-
-**Q: Is a ring light a good investment?**
-A: For those who will be doing many video calls, a ring light is an excellent, affordable investment. It provides soft, even, and flattering light directly from the front, eliminating most shadows. They are simple to set up and can dramatically improve your video quality.

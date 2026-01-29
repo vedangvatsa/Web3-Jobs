@@ -51,21 +51,3 @@ The Web3 space moves at a blistering pace. The hot new technology of today might
 ## Is a Web3 Career Right for You?
 
 Working in Web3 can be incredibly rewarding. You get to be on the bleeding edge of technology, work with brilliant people from around the world, and have a real impact on the future of the internet. However, it's not for everyone. If you thrive on structure, predictability, and a clear separation between your work and personal life, it might not be the best fit. But if you are a curious, self-motivated individual who is comfortable with chaos and passionate about building a more open and decentralized world, you might just have found your home.
----
-
-## Frequently Asked Questions
-
-### 1. Are all Web3 jobs remote?
-While not all jobs are remote, the vast majority are. The industry has a strong [remote-first culture](/remote-work-in-web3), with teams distributed globally. It's one of the most location-independent industries in the world.
-
-### 2. What is token-based compensation?
-Many Web3 jobs offer a compensation package that includes the project's native cryptocurrency (tokens) in addition to a traditional salary. These tokens often "vest" over time, giving you a direct ownership stake in the network you are building. You can learn more in our [guide to token compensation](/tokenomics-for-compensation).
-
-### 3. How does a DAO's culture differ from a traditional company?
-A [DAO (Decentralized Autonomous Organization)](/the-rise-of-daos) takes the principles of Web3 culture to their extreme. It is governed by its community, decisions are made via public votes, and the workforce is often a fluid network of freelance contributors rather than a fixed set of employees.
-
-### 4. How important is it to be active on Twitter or Discord?
-It is extremely important. These platforms are the "virtual office" of Web3. It's where news breaks, decisions are debated, and relationships are built. Being an active, value-add participant is a key part of the job for almost any role.
-
-### 5. What kind of person thrives in a Web3 company culture?
-Someone who is a self-starter, an excellent written communicator, deeply curious, and comfortable with a high degree of autonomy and change. Our [Web3 archetype assessment](/web3-career-quiz) can help you see if your personality is a good fit for the space.

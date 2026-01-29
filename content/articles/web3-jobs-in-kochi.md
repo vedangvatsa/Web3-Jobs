@@ -366,10 +366,10 @@ A:
 - Indian startup + VC blogs
 
 ### Related Career Guides
-- [Web3 Jobs in Bangalore](/content/articles/web3-jobs-in-bangalore.md) — India's major hub
-- [Web3 Jobs in Ahmedabad](/content/articles/web3-jobs-in-ahmedabad.md) — Enterprise + startup
-- [Startup Founder Web3 Guide](/content/articles/web3-startup-founder.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Web3 Jobs in Bangalore](web3-jobs-in-bangalore) — India's major hub
+- [Web3 Jobs in Ahmedabad](web3-jobs-in-ahmedabad) — Enterprise + startup
+- [Startup Founder Web3 Guide](web3-startup-founder)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step: Find a Web3 Job
 

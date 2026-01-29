@@ -366,11 +366,11 @@ A:
 
 ### Related Career Guides
 Explore for context and opportunities:
-- [Web3 Jobs in Accra](/content/articles/web3-jobs-in-accra.md) — West Africa creative hub
-- [Web3 Jobs in Dakar](/content/articles/web3-jobs-in-dakar.md) — Francophone West Africa
-- [Web3 Jobs in Nairobi](/content/articles/web3-jobs-in-nairobi.md) — East Africa hub
-- [FinTech Web3 Careers](/content/articles/fintech-web3-careers.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Web3 Jobs in Accra](web3-jobs-in-accra) — West Africa creative hub
+- [Web3 Jobs in Dakar](web3-jobs-in-dakar) — Francophone West Africa
+- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi) — East Africa hub
+- [FinTech Web3 Careers](fintech-web3-careers)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step: Find a Web3 Job
 

@@ -45,21 +45,3 @@ In this scenario, you've proven what was necessary without over-sharing personal
 
 Decentralized Identity is a foundational layer for a more private and user-centric web. Projects like **SpruceID (Sign-In with Ethereum)** and platforms like **Worldcoin** are pioneering different approaches to this complex problem. While still in its early stages, the development of a robust, interoperable DID standard is one of the most important undertakings in the Web3 space, promising to restore data ownership to the individual.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is Decentralized Identity (DID)?
-Decentralized Identity (also called Self-Sovereign Identity) is a Web3 model where individuals own and control their own digital identity. Instead of being controlled by companies like Google or Facebook, your identity is anchored to a blockchain via a unique ID you control.
-
-### 2. How is DID different from logging in with Google?
-When you log in with Google, Google owns your identity and data. With a DID, you own your identity in your personal [crypto wallet](/how-to-choose-a-crypto-wallet). You can use it across different apps without a central intermediary, and no one can take it away from you.
-
-### 3. What are Verifiable Credentials (VCs)?
-A Verifiable Credential is a tamper-proof digital claim made about you by an issuer (e.g., a university issuing a digital diploma). VCs are the core building block of DID, allowing you to prove facts about yourself without over-sharing personal data. You can learn more in our [guide to Verifiable Credentials](/a-guide-to-verifiable-credentials-in-decentralized-identity).
-
-### 4. How do Zero-Knowledge Proofs (ZKPs) help with privacy in DID?
-[Zero-Knowledge Proofs](/zero-knowledge-proofs-explained) allow you to prove a statement is true without revealing the underlying information. For identity, this means you could prove you are over 18 using your digital driver's license (a VC) without actually revealing your birthdate to the website asking for proof.
-
-### 5. What are the career opportunities in Decentralized Identity?
-The field is growing rapidly. Roles include **[Web3 Privacy Engineers](/building-career-paths-for-web3-privacy-engineers)** who build the cryptographic systems, product managers who design identity wallets, and developers who integrate DID standards into dApps.

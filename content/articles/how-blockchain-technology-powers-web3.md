@@ -54,21 +54,3 @@ Blockchains have their own native digital currencies (like ETH on Ethereum) that
 
 Blockchain is not just a feature of Web3; it is its essential and defining infrastructure. It provides the decentralized, trustless, and economically active foundation required to build an internet that is owned by its users. The transparency of the ledger, the immutability of its records, the automation of smart contracts, and the native transfer of value are the fundamental primitives that developers are using to construct a new digital world. Understanding how blockchain technology powers Web3 is the first and most important step to understanding the future of the internet itself.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a blockchain?
-A blockchain is a decentralized, distributed, and immutable digital ledger used to record transactions. It's the foundational technology that makes [Web3](/what-is-web3) possible by providing a secure and transparent way to record information without a central authority. For a full explanation, see our guide, "[What is a Blockchain?](/what-is-a-blockchain)".
-
-### 2. Can Web3 exist without blockchain?
-No. The core principles of Web3—decentralization, user ownership, and trustless interactions—are all made possible by the unique properties of blockchain technology.
-
-### 3. How do smart contracts work?
-[Smart contracts](/what-are-smart-contracts) are programs stored on a blockchain that automatically execute when specific conditions are met. They are the "backend" logic of Web3 applications, automating everything from financial transactions in DeFi to voting in DAOs.
-
-### 4. Why is decentralization so important for Web3?
-Decentralization removes single points of failure and control. This makes Web3 applications more resilient, censorship-resistant, and equitable, as they are not controlled by a single corporation or government.
-
-### 5. What are some examples of Web3 applications powered by blockchain?
-The most prominent examples include **[DeFi](/what-is-defi)** protocols like Uniswap for trading, **[NFT](/what-are-nfts)** platforms like OpenSea for digital collectibles, and **[DAOs](/what-is-a-dao)** like MakerDAO for community governance.

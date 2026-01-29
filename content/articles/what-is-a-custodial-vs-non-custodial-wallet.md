@@ -67,20 +67,3 @@ For most people, the answer is both. A practical approach is:
 
 By understanding the difference between custodial and non-custodial wallets, you can make informed decisions about how to manage your assets, balancing the trade-offs between convenience and security to safely navigate the decentralized world.
 
----
-## Frequently Asked Questions
-
-### 1. Is Coinbase a custodial or non-custodial wallet?
-The main Coinbase platform, where you buy and sell crypto, is a **custodial** service. They hold your keys. However, they also offer a separate product, Coinbase Wallet, which is a **non-custodial** wallet where you control your own keys. It's important not to confuse the two.
-
-### 2. What happens if I lose my hardware wallet?
-Losing the physical device is not a problem as long as you have your **[seed phrase](/what-is-a-seed-phrase-and-why-it-matters)** backed up securely. You can simply buy a new hardware wallet and use your seed phrase to restore full access to all your funds.
-
-### 3. What is the main security risk of a non-custodial wallet?
-The main risk is the user themselves. If you accidentally reveal your seed phrase to a scammer (e.g., through a phishing attack) or lose your physical backup, your funds can be stolen or lost forever.
-
-### 4. Can I connect my hardware wallet to MetaMask?
-Yes. This is a highly recommended security practice. You can connect your Ledger or Trezor to MetaMask, allowing you to use MetaMask's convenient interface while requiring every transaction to be physically approved on your secure hardware device.
-
-### 5. What does "Not your keys, not your coins" mean?
-This is a famous and important mantra in the crypto world. It means that if you are using a custodial service that holds your private keys, you are not the true owner of the crypto assets. You are trusting the custodian to hold them for you, and you are exposed to their counterparty risk.
