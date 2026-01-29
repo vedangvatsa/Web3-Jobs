@@ -158,7 +158,6 @@ block-all-mixed-content;
 remotePatterns: [
   { hostname: 'images.unsplash.com' },
   { hostname: 'picsum.photos' },
-  { hostname: 'hackathon.superprotocol.com' },
   { hostname: 's.w.org' },
 ]
 ```
