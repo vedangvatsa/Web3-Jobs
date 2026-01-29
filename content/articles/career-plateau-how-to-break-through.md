@@ -43,7 +43,7 @@ If you can't move up, move sideways. Look for opportunities to broaden your scop
 If your job isn't teaching you new things, you need to take control of your own education. Continuous learning is the antidote to stagnation.
 
 *   **Take an Online Course or Certification:** Identify a skill that is in high demand in your industry and find a reputable online course. Completing it not only gives you the skill but also signals to your current and future employers that you are proactive and ambitious.
-*   **Ask for a Stretch Assignment:** Talk to your manager. Express your desire to grow and ask if there are any "stretch" assignments or challenging problems you can take on. A good manager will want to help you develop. This is a crucial part of [preparing for your performance review](/performance-review-preparation-checklist).
+*   **Ask for a Stretch Assignment:** Talk to your manager. Express your desire to grow and ask if there are any "stretch" assignments or challenging problems you can take on. A good manager will want to help you develop. This is a crucial part of preparing for your performance review.
 *   **Read Voraciously:** Dedicate time each week to reading industry publications, blogs, and books. Staying on top of trends and new ideas keeps your mind sharp and can spark inspiration for new projects at work.
 
 #### 3. Re-Energize Your Professional Network

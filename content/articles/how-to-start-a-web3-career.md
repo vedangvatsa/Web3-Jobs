@@ -36,7 +36,7 @@ The conversation in Web3 happens on Twitter (X) and on podcasts.
 
 **3. Get Your Hands Dirty (This is the most important part!):**
 You cannot learn Web3 from the sidelines. You must become a user.
--   **Get a Wallet:** Install [MetaMask](/choosing-a-crypto-wallet) as a browser extension. This is your passport to Web3. **Crucially, write down your seed phrase on a piece of paper and store it somewhere safe and private. Never store it digitally.**
+-   **Get a Wallet:** Install MetaMask as a browser extension. This is your passport to Web3. **Crucially, write down your seed phrase on a piece of paper and store it somewhere safe and private. Never store it digitally.**
 -   **Buy a Small Amount of Crypto:** Use a reputable centralized exchange like Coinbase to buy a small amount (e.g., $50) of Ethereum (ETH).
 -   **Make Your First Transaction:** Withdraw your ETH from the exchange to your personal MetaMask wallet. This teaches you about self-custody.
 -   **Use a dApp:** Once you have ETH in your wallet, use it. Go to a decentralized exchange like Uniswap and swap a tiny amount of ETH for a stablecoin like USDC. The experience of paying a gas fee and signing a transaction will teach you more than any article.

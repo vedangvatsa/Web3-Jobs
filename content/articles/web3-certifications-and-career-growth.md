@@ -60,7 +60,7 @@ These certifications focus on demonstrating foundational knowledge rather than h
 
 Getting the certification is just the first step.
 
-1.  **Add it to Your Digital Identity:** Display your certification prominently on your [Web3 resume](/how-to-build-a-web3-resume), your LinkedIn profile, and your Twitter bio.
+1.  **Add it to Your Digital Identity:** Display your certification prominently on your Web3 resume, your LinkedIn profile, and your Twitter bio.
 2.  **Talk About What You Learned:** Write a blog post about your experience in the program. What were the most valuable things you learned? How did it change your perspective?
 3.  **Apply Your Skills:** Immediately apply your new skills to a personal project. If you just completed a developer bootcamp, build a new dApp. If you completed an analytics certification, build a new Dune dashboard.
 

@@ -26,10 +26,10 @@ For those who are constantly on the move, the traditional financial system, with
 
 ### Getting Paid in Crypto: The New Standard
 
-A huge number of [remote Web3 jobs](/remote-web3-jobs) pay their employees and contractors in cryptocurrency, typically a stablecoin like USDC. This is the foundation of the crypto nomad lifestyle.
+A huge number of remote Web3 jobs pay their employees and contractors in cryptocurrency, typically a stablecoin like USDC. This is the foundation of the crypto nomad lifestyle.
 
 **How it Works:**
-1.  **Get a Self-Custodial Wallet:** You will need a wallet like [MetaMask](/choosing-a-crypto-wallet) where you control the private keys.
+1.  **Get a Self-Custodial Wallet:** You will need a wallet like MetaMask where you control the private keys.
 2.  **Provide Your Public Address:** You provide your public Ethereum address (e.g., yourname.eth) to your employer. This is like providing your bank account number.
 3.  **Receive Payment:** Your employer sends USDC (or another token) directly to your wallet on an agreed-upon network (usually a low-fee Layer 2).
 

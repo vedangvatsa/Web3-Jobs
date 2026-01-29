@@ -19,7 +19,7 @@ The secret is that DeFi, like the rest of Web3, runs on a culture of **"proof of
 
 This is the most critical and non-negotiable step. You cannot work in DeFi if you don't use it. You must experience the "degen" (degenerate) user journey firsthand to understand the products, the culture, and the pain points.
 
--   **Get the Tools:** Set up a [MetaMask wallet](/choosing-a-crypto-wallet) and get a small amount of ETH. For a cheaper learning experience, bridge some of your ETH to a [Layer 2 network](/guide-to-layer-2s) like Arbitrum or Optimism, where transaction fees are much lower.
+-   **Get the Tools:** Set up a MetaMask wallet and get a small amount of ETH. For a cheaper learning experience, bridge some of your ETH to a [Layer 2 network](/guide-to-layer-2s) like Arbitrum or Optimism, where transaction fees are much lower.
 -   **Perform the Core Actions:**
     1.  **Swap:** Go to a Decentralized Exchange (DEX) like Uniswap and swap some ETH for a stablecoin like USDC.
     2.  **Lend:** Go to a lending protocol like Aave and deposit your USDC to start earning interest.

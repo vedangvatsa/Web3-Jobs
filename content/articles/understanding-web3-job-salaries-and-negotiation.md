@@ -54,4 +54,4 @@ Your offer will likely consist of three main parts. Your goal is to understand t
 
 5.  **Think About the Whole Picture:** Consider other benefits like health insurance, remote work stipends, and conference travel budgets.
 
-Negotiating your Web3 job offer is your first opportunity to demonstrate your value. By doing your homework and understanding the unique interplay between salary, equity, and tokens, you can secure a compensation package that rewards you for your skills and gives you a meaningful stake in the future of the decentralized internet. For more details, see our guide on [Web3 career salary negotiation](/web3-career-salary-negotiation).
+Negotiating your Web3 job offer is your first opportunity to demonstrate your value. By doing your homework and understanding the unique interplay between salary, equity, and tokens, you can secure a compensation package that rewards you for your skills and gives you a meaningful stake in the future of the decentralized internet. For more details, see our guide on Web3 career salary negotiation.

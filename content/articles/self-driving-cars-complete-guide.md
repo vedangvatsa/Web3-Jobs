@@ -287,9 +287,9 @@ A: Yes. Start with DePIN bounties, grants. Build to full-time.
 - DIMO and other mobility DePIN company job boards
 
 ### Related Career Guides
-- [Smart Contract Developer Guide](smart-contract-developer)
-- [Full-Stack Web3 Developer Path](full-stack-web3-developer)
-- [DePIN Infrastructure Engineer Career](depin-infrastructure-engineer)
+- Smart Contract Developer Guide
+- Full-Stack Web3 Developer Path
+- DePIN Infrastructure Engineer Career
 
 ## Related Articles
 

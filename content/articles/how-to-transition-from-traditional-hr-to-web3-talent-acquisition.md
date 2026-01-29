@@ -32,7 +32,7 @@ Your traditional HR skills are highly valuable, but they need a Web3-native tran
 
 **2. Compensation and Benefits:**
 -   **Old Way:** Managing salaries and standard benefits.
--   **New Way:** Designing complex compensation packages that include fiat salary, equity, and token grants. You need to understand vesting schedules, the tax implications of tokens, and how to communicate the potential upside (and risk) of a token package. Our [guide to token compensation](/using-tokenomics-for-compensation) is a good starting point.
+-   **New Way:** Designing complex compensation packages that include fiat salary, equity, and token grants. You need to understand vesting schedules, the tax implications of tokens, and how to communicate the potential upside (and risk) of a token package. Our guide to token compensation is a good starting point.
 
 **3. Culture and Employee Relations:**
 -   **Old Way:** Building culture in an office environment.

@@ -358,9 +358,9 @@ A:
 
 ### Related Career Guides
 - [Web3 Jobs in Singapore](web3-jobs-in-singapore) — Asia FinTech hub
-- [Web3 Gaming Career Guide](web3-gaming-careers)
-- [FinTech Web3 Careers](fintech-web3-careers)
-- [Complete Web3 Skills Guide](web3-skills-guide)
+- Web3 Gaming Career Guide
+- FinTech Web3 Careers
+- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

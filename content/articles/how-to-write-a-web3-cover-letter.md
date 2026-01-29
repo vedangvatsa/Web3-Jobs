@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-In the Web3 job market, your **[resume](/how-to-build-a-web3-resume)** gets you past the first filter, but it's your cover letter that often makes the first real impression. A generic, copy-pasted cover letter is the fastest way to get your application moved to the "no" pile. A thoughtful, well-researched, and crypto-native cover letter, on the other hand, can be the key that unlocks the door to your dream job.
+In the Web3 job market, your **resume** gets you past the first filter, but it's your cover letter that often makes the first real impression. A generic, copy-pasted cover letter is the fastest way to get your application moved to the "no" pile. A thoughtful, well-researched, and crypto-native cover letter, on the other hand, can be the key that unlocks the door to your dream job.
 
 Hiring managers in Web3 are looking for a signal that you are not just a qualified candidate, but a passionate and engaged member of the ecosystem. Your cover letter is your best opportunity to send that signal. This guide will break down the essential components of a standout Web3 cover letter.
 

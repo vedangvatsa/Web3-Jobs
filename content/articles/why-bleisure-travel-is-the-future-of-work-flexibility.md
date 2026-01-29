@@ -29,7 +29,7 @@ Several powerful trends have converged to make bleisure a mainstream phenomenon.
 1.  **The Great Remote Work Normalization:** The global pandemic was a forced experiment in remote work that proved, once and for all, that high-quality, productive work can be done from anywhere. This has given employees the leverage to demand more flexibility.
 2.  **The Rise of the Digital Nomad Infrastructure:** A whole ecosystem has sprung up to support the location-independent professional. This includes:
     -   Global co-working space memberships.
-    -   A plethora of [digital nomad visas](/digital-nomad-visas) that make long-term stays easier.
+    -   A plethora of digital nomad visas that make long-term stays easier.
     -   A wealth of online resources and communities for remote workers.
 3.  **The "Work from Anywhere" Policy as a Competitive Advantage:** In the fierce competition for top talent, particularly in tech and Web3, a flexible remote work policy is no longer a perk; it's a necessity. Companies that embrace a "work from anywhere" culture have a massive advantage in attracting and retaining the best people.
 4.  **A Cultural Shift in the Definition of "Work":** The new generation of workers is rejecting the idea that "work" is a place you go. Instead, they see it as something you do. They are seeking a more holistic integration of their work, their life, and their passions. Bleisure is the ultimate expression of this new mindset.

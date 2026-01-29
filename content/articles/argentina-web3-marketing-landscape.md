@@ -269,8 +269,8 @@ A: Declare all income; get accountant if income > $5K/year.
 
 ### Related Guides
 - [Web3 Jobs in Argentina](web3-jobs-in-argentina)
-- [Web3 Marketing Careers](web3-marketing-careers)
-- [Community Manager Guide](web3-community-manager)
+- Web3 Marketing Careers
+- Community Manager Guide
 
 ### Your Next Step
 

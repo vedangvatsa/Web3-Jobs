@@ -37,7 +37,7 @@ Web3 content creation is not a monolith. Different creators find success through
 
 -   **What they do:** They take complex topics and break them down into simple, easy-to-understand content for a broader audience. They are the on-ramps for new users entering the space.
 -   **Medium:** YouTube tutorials (e.g., "How to Use a DeFi Lending Protocol"), beginner-friendly blog posts, and explanatory Twitter threads.
--   **Example:** A step-by-step guide on [how to choose a crypto wallet](/choosing-a-crypto-wallet).
+-   **Example:** A step-by-step guide on how to choose a crypto wallet.
 
 **3. The News Reporter / Journalist**
 

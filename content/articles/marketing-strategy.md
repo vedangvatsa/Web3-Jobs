@@ -49,7 +49,7 @@ The traditional marketing funnel (Awareness, Interest, Decision, Action) gets a 
     -   **Your Goal:** Education and vibe-setting. Is the community helpful? Is the conversation intelligent and productive? Your educational content and the quality of your community management are critical here.
 3.  **Contribution (The First Step):** The user makes their first active contribution.
     -   **Actions:** They might ask a thoughtful question, help a newcomer, make a suggestion, or participate in a governance discussion.
-    -   **Your Goal:** Make it easy and rewarding to contribute. This is where **[bounties and grants](/from-side-hustle-to-career)** for small tasks can be powerful.
+    -   **Your Goal:** Make it easy and rewarding to contribute. This is where **bounties and grants** for small tasks can be powerful.
 4.  **Ownership (Bottom of Funnel):** The user feels a sense of belonging and decides to acquire a real stake in the network.
     -   **Actions:** They buy the project's token, provide liquidity to the protocol, or purchase a "genesis" NFT. They have now transitioned from a passive observer to an active owner and advocate.
 

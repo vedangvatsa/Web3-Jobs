@@ -143,7 +143,7 @@ In a complex space, education is marketing. The projects that win are often thos
 - Podcasts and interviews
 
 **Building a Social Graph:**
-Decentralized social platforms like [Farcaster](/what-is-farcaster) and Lens Protocol are creating the social layer for Web3. Building a strong community presence on these platforms is becoming critical.
+Decentralized social platforms like Farcaster and Lens Protocol are creating the social layer for Web3. Building a strong community presence on these platforms is becoming critical.
 
 **Strategic Partnerships:**
 Growth in Web3 often comes from integration:
@@ -155,7 +155,7 @@ Growth in Web3 often comes from integration:
 These partnerships drive adoption through composability—the ability to combine protocols together.
 
 **Governance-First Growth:**
-Projects like [Uniswap](/what-is-uniswap) and [Aave](/what-is-aave) prove that active governance can be a GTM strategy:
+Projects like Uniswap and Aave prove that active governance can be a GTM strategy:
 - Token holders feel ownership
 - Community helps drive development decisions
 - Governance proposals create excitement and engagement

@@ -57,7 +57,7 @@ Choosing the right bleisure destination is key to a successful and enjoyable exp
 
 ### Tips for a Successful Bleisure Trip
 
--   **Check Visa Requirements:** Before you book, make sure you understand the visa requirements for your nationality. Our [Digital Nomad Visa List](/digital-nomad-visas) is a good starting point.
+-   **Check Visa Requirements:** Before you book, make sure you understand the visa requirements for your nationality. Our Digital Nomad Visa List is a good starting point.
 -   **Prioritize Internet Speed:** Use resources like Nomad List to check user-reported internet speeds for different co-working spaces and accommodations.
 -   **Get Travel Insurance:** Ensure you have comprehensive health insurance that covers you for the duration of your stay.
 -   **Pack Smart:** Check out our [Ultimate Packing List for Digital Nomads](/the-ultimate-packing-list-for-digital-nomads-working-in-tech) for tips on essential gear.

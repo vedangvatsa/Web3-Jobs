@@ -38,7 +38,7 @@ These are the JavaScript libraries you will use in your frontend application to 
 You need a way to test your dApp locally without spending real money on gas fees.
 
 -   **Anvil (part of Foundry):** An incredibly fast local testnet node that comes with the Foundry toolkit. It allows you to instantly deploy and test your contracts in a local environment that mirrors the mainnet.
--   **MetaMask:** The undisputed standard for browser-based crypto wallets. You will use MetaMask to connect to your local Anvil testnet and interact with your dApp just as a real user would. Learn how to [choose and secure your wallet here](/choosing-a-crypto-wallet).
+-   **MetaMask:** The undisputed standard for browser-based crypto wallets. You will use MetaMask to connect to your local Anvil testnet and interact with your dApp just as a real user would. Learn how to choose and secure your wallet here.
 
 ### 4. Smart Contract Libraries: OpenZeppelin Contracts
 

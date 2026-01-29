@@ -362,9 +362,9 @@ Faster path: Focus on rare specialization (MRV data, formal verification of carb
 Explore these guides to understand complementary roles and regional context:
 - [Web3 Jobs in Kinshasa](web3-jobs-in-kinshasa) — DRC conservation + supply chain
 - [Web3 Jobs in Kampala](web3-jobs-in-kampala) — East Africa fintech + impact
-- [Complete Web3 Skills Guide](web3-skills-guide)
-- [ReFi and Impact Investing Career Guide](refi-impact-careers-guide)
-- [Remote Web3 Careers Guide](remote-web3-careers)
+- Complete Web3 Skills Guide
+- ReFi and Impact Investing Career Guide
+- Remote Web3 Careers Guide
 
 ### Your Next Step: Find a Web3 Job
 

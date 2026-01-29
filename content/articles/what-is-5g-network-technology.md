@@ -21,7 +21,7 @@ The improvements that 5G brings can be broken down into three main categories.
 
 **1. Enhanced Mobile Broadband (eMBB) - Faster Speeds**
 
-This is the feature that most people will notice first. 5G is significantly faster than 4G. While 4G speeds are typically measured in megabits per second (Mbps), 5G speeds can reach gigabits per second (Gbps). This means you could download a full-length HD movie in a matter of seconds, rather than minutes. This extreme speed will also enable high-quality 4K video streaming, and immersive experiences like [augmented reality (AR)](/what-is-augmented-reality-technology) and [virtual reality (VR)](/understanding-virtual-reality-applications) on mobile devices.
+This is the feature that most people will notice first. 5G is significantly faster than 4G. While 4G speeds are typically measured in megabits per second (Mbps), 5G speeds can reach gigabits per second (Gbps). This means you could download a full-length HD movie in a matter of seconds, rather than minutes. This extreme speed will also enable high-quality 4K video streaming, and immersive experiences like [augmented reality (AR)](/what-is-augmented-reality-technology) and virtual reality (VR) on mobile devices.
 
 **2. Ultra-Reliable Low-Latency Communications (URLLC) - Less Lag**
 

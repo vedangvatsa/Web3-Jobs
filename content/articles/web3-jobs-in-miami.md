@@ -41,7 +41,7 @@ The Miami job market is particularly strong for finance, business development, a
 *   **Marketing & Community Lead:** Professionals who can build a brand and run high-energy, event-driven marketing campaigns.
     *   **Senior/Lead:** $150,000 - $200,000+ USD per annum.
 
-*   **[Smart Contract Developer](/smart-contract-developer) (DeFi Focus):**
+*   **Smart Contract Developer (DeFi Focus):**
     - **Senior:** $180,000 - $250,000+ USD per annum.
 
 ### How to Build a [Web3 Career](/ai-and-web3-engineering-careers) in Miami

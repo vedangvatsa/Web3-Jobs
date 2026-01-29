@@ -268,9 +268,9 @@ A: Yes. Community management, education, or business development paths viable.
 - Protocol job boards
 
 ### Related Career Guides
-- [Mobile Developer Career Path](mobile-web3-developer)
-- [Community Manager Guide](community-manager-web3)
-- [Payment Systems & DeFi](payment-systems-defi)
+- Mobile Developer Career Path
+- Community Manager Guide
+- Payment Systems & DeFi
 
 ## Related Articles
 

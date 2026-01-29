@@ -19,7 +19,7 @@ A bull market is a period of sustained price increases and optimistic market sen
 **Characteristics of a Crypto Bull Market:**
 
 *   **Rising Prices:** The most obvious sign. The prices of major cryptocurrencies like Bitcoin and Ethereum, as well as the broader altcoin market, are generally trending upwards over weeks and months.
-*   **High Investor Confidence (Greed):** The market sentiment is overwhelmingly positive. Investors are optimistic, and there is a strong sense of FOMO (Fear Of Missing Out). The **[Fear and Greed Index](/understanding-fear-and-greed-index-in-crypto)** will typically show "Extreme Greed."
+*   **High Investor Confidence (Greed):** The market sentiment is overwhelmingly positive. Investors are optimistic, and there is a strong sense of FOMO (Fear Of Missing Out). The **Fear and Greed Index** will typically show "Extreme Greed."
 *   **Increased Media and Mainstream Attention:** Crypto starts to appear frequently in mainstream news headlines. You'll hear about it from friends and family who have never shown interest before.
 *   **High Trading Volume:** More people are buying and trading, leading to high volumes on exchanges.
 *   **"Altcoin Season":** During a bull market, there is often a phase where smaller, more speculative cryptocurrencies ("altcoins") see explosive, parabolic gains, often outperforming Bitcoin.
