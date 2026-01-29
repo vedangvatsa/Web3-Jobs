@@ -2,7 +2,7 @@
 title: "10 Big Ideas in Web3 for 2026"
 image: "https://images.unsplash.com/photo-1701469794344-f20f5c531988?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3ZWIzJTIwMjAyNnxlbnwwfHx8fDE3MjU4MjI4ODd8MA&ixlib=rb-4.1.0&q=80&w=1080"
 description: "Explore the next wave of innovation in the decentralized world, from the fusion of AI and Web3 to the rise of modular blockchains and intent-based architectures."
-category: "AI & The Future of Work"
+category: "Web3 Career Guides"
 data-ai-hint: "web3 2026"
 ---
 
