@@ -30,7 +30,7 @@ const nextConfig: NextConfig = {
       default-src 'self';
       script-src 'self' https://www.googletagmanager.com https://vercel.ai;
       style-src 'self' 'nonce-{nonce}';
-      img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos https://hackathon.superprotocol.com https://s.w.org;
+      img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos https://s.w.org;
       font-src 'self' data:;
       object-src 'none';
       base-uri 'self';
@@ -78,17 +78,13 @@ const nextConfig: NextConfig = {
         hostname: 'picsum.photos',
       },
       {
-        protocol: 'https',
-        hostname: 'hackathon.superprotocol.com',
-      },
-      {
           protocol: 'https',
           hostname: 's.w.org',
+      }
+    ],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     formats: ['image/webp', 'image/avif'],
-      }
-    ],
   },
 };
 

@@ -90,7 +90,7 @@ style-src 'self' 'unsafe-inline';
 ```typescript
 script-src 'self' https://www.googletagmanager.com https://vercel.ai;
 style-src 'self' 'nonce-{nonce}';
-img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos https://hackathon.superprotocol.com https://s.w.org;
+img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos https://s.w.org;
 font-src 'self' data:;
 object-src 'none';
 base-uri 'self';
@@ -173,7 +173,6 @@ images: {
   remotePatterns: [
     { hostname: 'images.unsplash.com' },
     { hostname: 'picsum.photos' },
-    { hostname: 'hackathon.superprotocol.com' },
     { hostname: 's.w.org' }
   ],
   deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
