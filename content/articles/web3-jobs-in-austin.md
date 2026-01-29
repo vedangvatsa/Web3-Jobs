@@ -23,11 +23,11 @@ Austin's crypto scene is characterized by its rapid growth, its diverse range of
 
 The fierce competition for tech talent in Austin has driven salaries to levels that are competitive with major US hubs. Web3 companies, in particular, are offering premium compensation to attract the best builders.
 
-*   **Smart Contract & Protocol Engineers (Solidity, Rust):**
+*   **[Smart Contract & Protocol Engineers](/smart-contract-developer) (Solidity, Rust):**
     *   **Mid-Level (3-5 years):** $150,000 - $190,000 USD per annum
     *   **Senior (5+ years):** $190,000 - $260,000+ USD per annum, plus significant token/equity packages.
 
-*   **Full-Stack Web3 Engineer (React/Next.js):**
+*   **[Full-Stack Web3 Engineer](/full-stack-web3-developer) (React/Next.js):**
     *   **Mid-Level:** $140,000 - $170,000 USD per annum
     *   **Senior:** $170,000 - $220,000+ USD per annum
 
