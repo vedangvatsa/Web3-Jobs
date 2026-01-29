@@ -84,5 +84,3 @@ A: It is called virtual because the liquidity pool of the assets being traded (e
 **Q: Can you trade spot assets on a vAMM?**
 A: No. A vAMM is designed for synthetic derivatives. You cannot, for example, withdraw the "vETH" you bought. You can only close your position to realize your profit or loss in the real collateral asset (e.g., USDC).
 
----
-*Internally, this article links to: `understanding-constant-product-formula`*

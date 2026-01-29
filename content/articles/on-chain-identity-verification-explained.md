@@ -44,21 +44,3 @@ Imagine a DeFi protocol requires users to be verified (KYC'd) to use its service
 
 On-chain identity verification is a foundational piece of the Web3 vision. By creating a more secure, private, and portable way to manage our identities, it's building a more trustworthy and user-centric internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is my personal information stored on the blockchain?
-No. This is a common misconception. In a well-designed on-chain identity system, your personal information remains off-chain. Only the **Verifiable Credentials** (the claims about you) and the DIDs are anchored to the blockchain.
-
-### 2. What is a "DID"?
-A **[Decentralized Identifier](/what-is-a-decentralized-identifier)** is a globally unique ID that you control, often your wallet address. It's the foundation of your **[Self-Sovereign Identity](/self-sovereign-identity-in-web3-explained)**.
-
-### 3. What is a "Verifiable Credential"?
-A **[Verifiable Credential (VC)](/understanding-verifiable-credentials-in-blockchain)** is a tamper-proof digital claim made about you by an issuer, like a digital driver's license or diploma, that you store in your own wallet.
-
-### 4. How does this help with privacy?
-It enables data minimization. With tools like **[Zero-Knowledge Proofs](/zero-knowledge-proofs-explained)**, you can prove a fact from a credential (e.g., "I am an accredited investor") without revealing the underlying financial data that proves it.
-
-### 5. What is Proof of Humanity?
-**[Proof of Humanity](/what-is-proof-of-humanity-protocol)** is a specific protocol that tries to solve the "one person, one identity" problem. It's a registry of unique humans, designed to prevent sybil attacks in systems that require one vote per person.

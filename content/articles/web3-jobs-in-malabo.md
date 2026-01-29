@@ -60,7 +60,7 @@ Start with foundational blockchain knowledge and choose your specialization:
 - Take courses on blockchain governance and institutional adoption
 - Read case studies of successful blockchain implementations in similar sectors
 
-Related: **[10 Essential Skills for Web3](/content/articles/10-essential-skills-for-web3.md)** – Comprehensive guide to the competencies most valued in the industry.
+Related: **[10 Essential Skills for Web3](10-essential-skills-for-web3)** – Comprehensive guide to the competencies most valued in the industry.
 
 ### Phase 2: Portfolio Building (Months 6-12)
 
@@ -80,7 +80,7 @@ Once you have a solid portfolio and skills:
 - **Apply to Decentralized Companies:** DAO treasuries and decentralized companies often hire remote talent and are more flexible with location
 - **Consider Contracting First:** Freelance platforms like Upwork and Fiverr can be stepping stones to full-time remote roles
 
-See also: **[How to Find a Mentor at a New Company](/content/articles/how-to-find-mentor-at-new-company.md)** – Even in remote roles, mentorship accelerates growth.
+See also: **[How to Find a Mentor at a New Company](how-to-find-mentor-at-new-company)** – Even in remote roles, mentorship accelerates growth.
 
 ## The Energy Sector Advantage
 
@@ -122,7 +122,7 @@ Your professional network is critical to landing remote opportunities:
 - **Discord Servers:** Join Ethereum, Solana, and Web3 developer communities. Contribute to technical discussions.
 - **Conferences:** Attend major events like Consensus, ETHDenver, or Solana Breakpoint (virtually or in-person if possible)
 
-Related: **[Building Relationships with Your New Team](/content/articles/building-relationships-with-new-team.md)** – Principles of relationship-building apply across professional contexts.
+Related: **[Building Relationships with Your New Team](building-relationships-with-new-team)** – Principles of relationship-building apply across professional contexts.
 
 ## Addressing the Credential Gap
 

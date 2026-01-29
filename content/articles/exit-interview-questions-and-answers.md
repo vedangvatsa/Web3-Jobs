@@ -87,9 +87,3 @@ Collecting feedback is useless if you don't do anything with it.
 
 An employee's departure is an ending, but it's also a beginning. It's the beginning of your opportunity to learn and improve. By treating the exit interview as a strategic tool for insight, asking thoughtful questions, and, most importantly, acting on the information you receive, you can turn a loss into a long-term gain for your organization.
 
----
-**Related Articles:**
-- [[how-to-resign-professionally-and-gracefully]]
-- [[how-to-fire-someone-professionally]]
-- [[performance-management-best-practices]]
-- [[how-to-handle-underperforming-employees]]

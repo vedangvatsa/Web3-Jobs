@@ -39,21 +39,3 @@ While many Web2 security principles still apply, Web3 introduces a new and uniqu
 
 The transition from Web2 to Web3 cybersecurity is a challenging but rewarding journey. It's a chance to apply your adversarial mindset to a new set of problems and to be on the front line of securing the future of the internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. How is Web3 security different from Web2 security?
-While principles like threat modeling apply, Web3 introduces a new attack surface. The biggest differences are the need to secure immutable **[smart contracts](/what-are-smart-contracts)**, defend against **[MEV](/what-is-mev)** in the public mempool, and protect against malicious wallet interactions on the frontend.
-
-### 2. What is a smart contract auditor?
-A **[smart contract auditor](/smart-contract-auditor-career)** is a highly specialized cybersecurity expert who reviews blockchain code to find vulnerabilities before they can be exploited. It's one of the most in-demand and highest-paying roles in Web3.
-
-### 3. What skills do I need to transition into Web3 security?
-You need to supplement your existing cybersecurity expertise with deep knowledge of blockchain fundamentals and smart contract security. This includes learning **[Solidity](/solidity-for-beginners)**, understanding the EVM, and studying **[common smart contract vulnerabilities](/common-smart-contract-vulnerabilities-explained)**.
-
-### 4. How can I get practical experience in smart contract security?
-The best way is through hands-on practice. Work through "Capture the Flag" challenges like Ethernaut and Damn Vulnerable DeFi. The most effective way to build a portfolio is by participating in competitive auditing contests on platforms like Code4rena.
-
-### 5. What are the key security best practices for Web3 development?
-Key practices include using the **[Checks-Effects-Interactions pattern](/web3-security-best-practices)** to prevent reentrancy, using audited libraries like OpenZeppelin, and having a comprehensive test suite.

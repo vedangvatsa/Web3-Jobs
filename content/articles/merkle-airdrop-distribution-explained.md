@@ -91,21 +91,3 @@ The smart contract does not need to know the entire list of addresses. It only n
 
 The Merkle airdrop is a clever and powerful cryptographic pattern that is essential for any project looking to do a large-scale, gas-efficient token distribution on the blockchain.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a Merkle tree?
-A Merkle tree is a data structure where each "leaf" node is a hash of a piece of data, and each "branch" node is a hash of its child nodes. This structure allows for the efficient and secure verification of large data sets. It is also a core component of how blockchains themselves work, as explained in our guide to [Merkle trees in blockchain](/understanding-merkle-trees-in-blockchain).
-
-### 2. What is a Merkle root?
-The Merkle root is the single hash at the very top of a Merkle tree. It acts as a unique and tamper-proof fingerprint for the entire dataset.
-
-### 3. What is a Merkle proof?
-A Merkle proof is the set of sibling hashes that a user needs to provide to prove that their specific data (their "leaf") was included in the original dataset that created the Merkle root.
-
-### 4. What is a "pull" vs. "push" airdrop?
-In a "push" airdrop, the project sends tokens to all recipients. This is not gas-efficient. In a "pull" airdrop, like a Merkle airdrop, users must actively come to the contract to "claim" their tokens.
-
-### 5. What are the prerequisites for a Merkle airdrop?
-The project first needs to determine the list of eligible addresses. This is typically done by taking a **[snapshot](/what-is-a-snapshot-in-cryptocurrency-airdrops)** of the blockchain at a specific point in time and analyzing user activity.

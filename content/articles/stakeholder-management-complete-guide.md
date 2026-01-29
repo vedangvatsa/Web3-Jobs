@@ -122,9 +122,3 @@ A3: This is a common challenge. The best approach is to formalize the decision-m
 
 A4: It is possible but highly unlikely. A project with poor stakeholder management might get to the finish line, but it will likely be over budget, behind schedule, and may fail to meet the actual needs of the end-users. It also burns political capital and makes future projects much more difficult to get off the ground.
 
----
-### Internal Links
-- [How to Build Professional Network Fast](/how-to-build-professional-network-fast)
-- [Managing Up Strategies for Success](/managing-up-strategies-for-success)
-- [How to Influence Without Authority](/how-to-influence-without-authority)
-- [Workplace Conflict Resolution Strategies](/workplace-conflict-resolution-strategies)

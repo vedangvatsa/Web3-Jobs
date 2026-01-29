@@ -95,5 +95,3 @@ A: Through the peer-to-peer network. Nodes are constantly gossiping and sharing 
 **Q: Is the longest chain always the one with the most blocks?**
 A: Not necessarily. Some PoW protocols use a measure of "total difficulty" rather than just chain length. A chain might be shorter but have blocks that were harder to find, giving it a higher total difficulty and making it the canonical chain. However, in practice, length is an excellent proxy for accumulated work.
 
----
-*Internally, this article links to: `selfish-mining-attack-explained-simply`, `double-spending-problem-in-cryptocurrency`*

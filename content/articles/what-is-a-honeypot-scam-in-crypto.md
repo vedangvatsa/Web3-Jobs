@@ -46,20 +46,3 @@ While you may not be a developer who can read the code, there are several red fl
 
 Honeypot scams are a stark reminder of the risks present in the decentralized and permissionless world of Web3. By exercising extreme caution, using detection tools, and always remembering the golden rule to **[Do Your Own Research (DYOR)](/what-is-dyor-in-crypto)**, you can protect yourself from these malicious traps.
 
----
-## Frequently Asked Questions
-
-### 1. What is a honeypot scam in crypto?
-A honeypot is a malicious smart contract designed to trick users into sending it funds that they are then unable to withdraw. The contract code contains hidden restrictions that only allow the scammer to take the funds out.
-
-### 2. How can I detect a honeypot?
-You can use a honeypot detector tool like `honeypot.is` to check a token's contract address. These tools run a simulation to see if the token can be sold. You should also check for red flags like an unverified contract on Etherscan and a high concentration of tokens held by a few wallets.
-
-### 3. What is the difference between a honeypot and a rug pull?
-They are similar but technically different. In a **honeypot**, the user's funds are trapped in a smart contract they cannot exit. In a **[rug pull](/what-is-rug-pull-in-cryptocurrency-scams)**, the developers remove the liquidity from the trading pool, making the token worthless and untradable. The end result is the same: the user loses their money.
-
-### 4. Why don't decentralized exchanges (DEXs) block honeypot tokens?
-DEXs like Uniswap are permissionless protocols. Anyone can create a token and a liquidity pool for it without needing approval. This openness is a core feature of DeFi but also allows bad actors to create scams.
-
-### 5. Can I get my money back from a honeypot?
-No. Blockchain transactions are irreversible. Once your funds are sent to the honeypot contract, they are trapped, and there is no way to recover them. This is why prevention and research are so critical.

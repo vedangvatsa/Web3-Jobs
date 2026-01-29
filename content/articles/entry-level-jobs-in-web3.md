@@ -84,21 +84,3 @@ The path to your first Web3 job is a proactive one. It rewards those who take th
 
 Ready to find your first role? Explore hundreds of entry-level and advanced positions on the leading [Web3 Job Board](/jobs). Your journey starts now.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the easiest way to get an entry-level job in Web3?
-The most common path is to become a **Community Moderator**. Join the Discord of a project you love, be an active and helpful member, and this will often lead to a part-time or full-time paid role. This is a key theme in our [guide for beginners](/web3-jobs-for-beginners).
-
-### 2. Can I get a job in crypto with no experience?
-Yes. Web3 values "proof of work" over a traditional resume. You can gain experience by contributing to a [DAO](/how-to-contribute-to-daos-and-get-paid), writing content, or building small personal projects. This public portfolio is your experience.
-
-### 3. What non-technical roles are good for beginners?
-Besides Community Moderator, other great entry-level roles include Social Media Assistant, Content Writer (or "Scribe"), and [Web3 Customer Support Specialist](/web3-customer-support-careers). These roles allow you to learn deeply about a project while leveraging communication skills.
-
-### 4. I'm a developer. What's a good first technical role?
-A **Junior Frontend Developer** is a great entry point. You can use your existing React skills and learn how to integrate them with crypto wallets using libraries like Ethers.js. Another excellent path is a **QA/Test Engineer**, where you can contribute to open-source projects by writing tests.
-
-### 5. How do I start my Web3 career journey as a recent graduate?
-Our [Fresh Graduate's Guide to Crypto Jobs](/fresh-graduates-guide-to-crypto-and-web3-jobs) provides a comprehensive roadmap, from immersing yourself in the culture to building a portfolio that will get you noticed by top companies, even without professional experience.

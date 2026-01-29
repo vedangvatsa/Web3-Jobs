@@ -130,14 +130,3 @@ The Web3 space is expanding at an unprecedented rate, creating a surge of new an
 - **Discord:** Join the Discord servers of projects you admire. Many have a `#jobs` channel and it's a great way to connect directly with the team.
 - **Hackathons:** Participating in a hackathon is one of the best ways to get noticed and potentially hired.
 
----
-
-## Level Up Your Web3 Career
-
-Ready to apply these skills? Continue building with these guides:
-
-- **[Web3 Resume Guide](/10-dos-and-donts-for-web3-resume)** - Craft a resume that stands out
-- **[Web3 Interview Prep](/interview-questions)** - Practice common questions for your role
-- **[10 Big Ideas in Web3](/10-big-ideas-in-web3-for-2025)** - Understand emerging opportunities
-- **[Web3 Job Board](/jobs)** - Browse current openings
-- **[Web3 Salary Calculator](/salary-calculator)** - Know your market value by role & location

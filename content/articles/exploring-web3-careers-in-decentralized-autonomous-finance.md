@@ -42,21 +42,3 @@ Breaking into DeFi can be challenging due to the steep learning curve.
 
 A career in DeFi is an opportunity to work at the absolute cutting edge of finance and technology. You'll be challenged daily and will be contributing to a new financial infrastructure that has the potential to be more open and equitable than the system it seeks to replace.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is Decentralized Finance (DeFi)?
-DeFi is an alternative financial system built on blockchain technology, enabling services like lending, borrowing, and trading without traditional intermediaries like banks. It's a core component of the [Web3 ecosystem](/what-is-web3).
-
-### 2. What are the main career paths in DeFi?
-The top career paths include **Smart Contract Engineer**, **Quantitative Analyst (Quant)**, **Protocol Researcher**, **Security Auditor**, and **Product Manager**. These roles require a strong blend of technical and financial expertise. You can explore more in our main [DeFi careers guide](/defi-careers).
-
-### 3. Do I need a finance degree to work in DeFi?
-Not necessarily, but a deep understanding of financial concepts is crucial. Many successful professionals in DeFi are self-taught, having gained their expertise through hands-on use of the protocols and extensive personal research.
-
-### 4. How can I get a job in DeFi if I'm a beginner?
-The best way is to become a power user of DeFi protocols to build practical knowledge. Then, create a "proof of work" portfolio, such as building a simple DeFi project if you're a developer, or writing in-depth analysis if you're not. Our guide on [how to get a job in DeFi with no experience](/how-to-get-a-job-in-defi-with-no-experience) provides a detailed roadmap.
-
-### 5. What is a "yield farmer"?
-A [yield farmer](/what-is-yield-farming) is a DeFi user who actively moves their crypto assets between different protocols to maximize their returns from lending fees, trading fees, and token rewards. A **Yield Farming Analyst** is a professional role focused on discovering and managing these strategies.

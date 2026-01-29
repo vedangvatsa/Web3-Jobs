@@ -63,21 +63,3 @@ This revolution is creating a new set of career opportunities for finance profes
 
 Blockchain technology is not a replacement for the banking industry, but it is a powerful catalyst for its evolution. It offers the tools to build a financial system that is more transparent, efficient, global, and accessible. The financial institutions that embrace this technology and learn to build on this new, open infrastructure will be the ones that thrive in the 21st century. For finance professionals, the message is clear: the future of finance is being built on-chain, and now is the time to get involved.
 
----
-
-## Frequently Asked Questions
-
-### 1. Will blockchain replace banks?
-It's unlikely to replace banks entirely. Instead, blockchain will likely be integrated into the existing financial system to make it more efficient. Banks will play a key role as regulated on-ramps and off-ramps, custodians, and issuers of tokenized assets.
-
-### 2. What is a CBDC?
-A CBDC, or **[Central Bank Digital Currency](/cbdc)**, is a digital version of a country's fiat currency, issued and backed by the central bank. Many central banks, including the European Central Bank and the Bank of England, are exploring CBDCs as a way to modernize their monetary systems.
-
-### 3. What is the difference between DeFi and traditional banking?
-The main difference is the lack of intermediaries. In **[DeFi](/what-is-defi)**, financial transactions are executed by automated smart contracts on a public blockchain, rather than by a centralized institution like a bank. This makes DeFi more open, transparent, and permissionless.
-
-### 4. What are the main challenges for blockchain adoption in banking?
-The biggest challenges are **regulatory uncertainty**, the scalability and privacy limitations of current blockchains, and the difficulty of integrating legacy financial systems with new blockchain infrastructure.
-
-### 5. What is "tokenization"?
-Tokenization is the process of creating a digital token on a blockchain that represents ownership of a real-world asset. This is a key trend for bridging the gap between traditional finance and DeFi, covered in-depth in our guide to **[Real-World Assets (RWAs)](/web3-real-estate)**.

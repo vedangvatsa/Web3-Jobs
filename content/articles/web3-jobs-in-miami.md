@@ -79,7 +79,7 @@ This is Miami's unique competitive advantage:
 - Latin America is the fastest-growing region for crypto adoption globally
 - Companies wanting to expand into Latin America headquarters in Miami
 
-Related: **[Web3 Career Growth and Development](/content/articles/web3-career-growth-and-development.md)** – Strategic career advancement in major hubs.
+Related: **[Web3 Career Growth and Development](web3-career-growth-and-development)** – Strategic career advancement in major hubs.
 
 ### Major Conferences and Events
 
@@ -207,7 +207,7 @@ While technical skills are valued everywhere, Miami's competitive advantage is i
 
 Frame all your experience through this lens.
 
-See also: **[Building Relationships with Your New Team](/content/articles/building-relationships-with-new-team.md)** – Relationship skills are your competitive edge in Miami.
+See also: **[Building Relationships with Your New Team](building-relationships-with-new-team)** – Relationship skills are your competitive edge in Miami.
 
 ### 4. Embrace the "Work Hard, Play Hard" Culture
 

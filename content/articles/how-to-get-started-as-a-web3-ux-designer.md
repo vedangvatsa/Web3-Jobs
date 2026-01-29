@@ -42,21 +42,3 @@ Since you're likely transitioning from Web2, your portfolio is your key to provi
 
 A career as a Web3 UX designer is a chance to be at the forefront of a design revolution. By focusing on clarity, security, and user empathy, you can play a critical role in making the decentralized internet accessible to everyone.
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Web3 UX Designer do?
-A Web3 UX Designer specializes in creating user-friendly interfaces for decentralized applications (dApps). Their main job is to simplify complex blockchain interactions, such as connecting a wallet or signing a transaction, to make them intuitive for everyday users. This is a key role in the [Web3 product design career path](/web3-product-design-careers-for-blockchain-based-apps).
-
-### 2. What are the biggest UX challenges in Web3?
-The biggest challenges include simplifying wallet interactions, clearly communicating the concepts of gas fees and transaction times, and building user trust in a high-stakes financial environment. Our guide to [Web3 UX design best practices](/web3-ux-design) covers these in detail.
-
-### 3. Do I need to know how to code to be a Web3 designer?
-No, you don't need to be a developer. However, you must have a strong technical curiosity and be willing to learn the fundamentals of how a [blockchain](/what-is-a-blockchain) works. Understanding the constraints and possibilities of the technology is crucial for good design.
-
-### 4. How can I build a portfolio for a Web3 design job?
-The best way to start is with a **redesign project**. Find an existing dApp with a confusing interface, and create a detailed case study showing how you would improve its UX. This is a powerful way to demonstrate your skills and understanding of the space.
-
-### 5. Are there many jobs for designers in Web3?
-Yes. As the industry shifts its focus from pure technology to user adoption, the demand for skilled UX/UI designers who can create accessible and beautiful dApps has exploded. It's one of the [best non-technical jobs in Web3](/best-web3-jobs-for-non-developers).

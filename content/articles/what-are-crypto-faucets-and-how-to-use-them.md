@@ -36,20 +36,3 @@ The process is usually straightforward:
 
 While the days of getting free Bitcoin from a faucet are long gone, crypto faucets remain a vital piece of the Web3 infrastructure, particularly for the developers who are building the next generation of decentralized applications.
 
----
-## Frequently Asked Questions
-
-### 1. Can I make a living from crypto faucets?
-No. The amount of crypto distributed by faucets is extremely small, typically worth less than a cent. They are for educational and testing purposes, not for earning a significant income.
-
-### 2. Are crypto faucets safe?
-Reputable testnet faucets are generally safe to use, as you are only providing your public wallet address. However, be extremely cautious of any faucet that asks for your private key or seed phrase—this is always a scam. Some faucets may also have intrusive ads or pop-ups.
-
-### 3. What is a "testnet"?
-A testnet is a separate blockchain used for testing and experimentation. It works just like the real "mainnet," but the coins on it have no real-world value. This allows developers to build and test their applications without risking real money.
-
-### 4. Where can I find a testnet faucet?
-The best way is to search online for a faucet for the specific testnet you need (e.g., "Sepolia faucet" for Ethereum). Many infrastructure providers like Alchemy and Infura run reliable faucets.
-
-### 5. What is "gas" and why do I need it on a testnet?
-Gas is the fee required to perform a transaction on a blockchain like Ethereum. Even on a testnet, you need to pay gas fees (with testnet ETH) to simulate real-world conditions and to prevent spam on the test network.

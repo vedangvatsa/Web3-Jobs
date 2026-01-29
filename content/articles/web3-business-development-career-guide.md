@@ -63,21 +63,3 @@ A career in Web3 BizDev is perfect for social, strategic thinkers who love the f
   </CardContent>
 </Card>
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Web3 Business Development professional do?
-A Web3 BizDev professional is responsible for creating strategic partnerships and integrations between their project and others in the ecosystem. Their goal is to drive growth and create network effects, not to make direct sales. For a full overview, see our guide on the **[role of a Web3 BizDev professional](/the-role-of-web3-business-development-professionals)**.
-
-### 2. How is Web3 BizDev different from traditional sales?
-It's about **collaboration, not conversion**. Instead of selling a product, you are building positive-sum relationships and technical integrations. The role requires deep technical and ecosystem knowledge, and your reputation is your most important asset.
-
-### 3. What are some examples of a Web3 partnership?
-A common example is a **DeFi integration**, where a lending protocol agrees to accept another protocol's token as collateral. Another example is a **gaming partnership**, where a Web3 game integrates with an NFT marketplace to drive user acquisition.
-
-### 4. What skills are most important for this role?
-The most important skills are **exceptional networking ability**, **strategic thinking**, and **deep crypto-native knowledge**. You must be able to understand the technology well enough to identify valuable integration opportunities.
-
-### 5. How can I get a job in Web3 BizDev?
-The best way is to build a public presence and a strong network. Become an expert in a specific niche, share your analysis on Twitter, and start making valuable introductions for people in your network. Your reputation as a knowledgeable "super-connector" is your best resume.

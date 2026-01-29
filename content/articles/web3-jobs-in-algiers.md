@@ -340,11 +340,11 @@ Raising capital is hard; building a sustainable income is easier and more valuab
 
 ### Related Career Guides
 Explore these guides for complementary Web3 roles and opportunities in nearby regions:
-- [Web3 Jobs in Tunisia](/content/articles/web3-jobs-in-tunis.md)
-- [Web3 Jobs in Morocco](/content/articles/web3-jobs-in-casablanca.md)
-- [Web3 Jobs in Egypt](/content/articles/web3-jobs-in-cairo.md)
-- [Web3 Careers for MENA Professionals](/content/articles/web3-careers-for-mena-professionals.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Web3 Jobs in Tunisia](web3-jobs-in-tunis)
+- [Web3 Jobs in Morocco](web3-jobs-in-casablanca)
+- [Web3 Jobs in Egypt](web3-jobs-in-cairo)
+- [Web3 Careers for MENA Professionals](web3-careers-for-mena-professionals)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step: Find a Web3 Job
 

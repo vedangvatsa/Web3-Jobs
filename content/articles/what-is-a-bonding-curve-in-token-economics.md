@@ -48,21 +48,3 @@ The specific mathematical formula used determines the curve's shape and has a ma
 
 Bonding curves are a fascinating and powerful tool in the Web3 economic toolkit. They provide a new way to think about price discovery and liquidity, creating autonomous, predictable, and transparent markets enforced entirely by code.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main purpose of a bonding curve?
-The main purpose is to create an automated and predictable market for a token. It uses a mathematical formula to define the relationship between a token's price and its supply, ensuring there is always a buyer and a seller (the contract itself).
-
-### 2. How does a bonding curve create liquidity?
-The bonding curve smart contract acts as the liquidity provider. It holds a reserve of a collateral currency (like ETH) and is always willing to mint new tokens (for buyers) or burn existing tokens (for sellers) at a price determined by the curve.
-
-### 3. What is the difference between a bonding curve and a DEX like Uniswap?
-A traditional DEX like Uniswap V2 uses a liquidity pool with two different assets. A simple bonding curve typically uses one collateral asset to mint/burn a new native token. Bonding curves are a more general mathematical concept, and the `x*y=k` formula used by Uniswap is a specific type of bonding curve relationship.
-
-### 4. What is a "sigmoid" curve?
-A sigmoid or "S-shaped" curve is a type of bonding curve often used for more complex token launch models. The price might start low to encourage early adopters, then increase rapidly during a growth phase, and finally level off as the project matures to create a more stable long-term price.
-
-### 5. How are bonding curves used in real projects?
-They are used for launching new tokens (a **[Liquidity Bootstrapping Pool](/what-is-a-liquidity-bootstrapping-pool)** is an example), creating markets for community tokens, and in some forms of fundraising for DAOs or creative projects.

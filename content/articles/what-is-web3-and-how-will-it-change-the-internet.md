@@ -60,21 +60,3 @@ Web3 is still in its early, experimental phase, and it faces significant challen
 - **Education:** The concepts behind Web3 are new and can be difficult for people to grasp.
 
 Despite these hurdles, Web3 represents a hopeful and ambitious vision for a better internet. It's a movement to rebuild the web on a foundation of open protocols and user ownership, creating a more equitable and creative digital world. For developers, entrepreneurs, and creators, it's an opportunity to build the next generation of applications and to give ownership back to the users. The demand for talent is high, and you can find many opportunities on a **[Web3 job board](/jobs)** like ours.
----
-
-## Frequently Asked Questions
-
-### 1. Is Web3 just about cryptocurrency?
-No. While cryptocurrencies like Bitcoin and Ethereum are a key part of the ecosystem (acting as the native assets for securing the networks), Web3 is much broader. It encompasses [DeFi](/what-is-defi), [NFTs](/what-are-nfts), [DAOs](/what-is-a-dao), decentralized social media, and more. Crypto is the financial layer that enables user ownership.
-
-### 2. Do I need to be a developer to work in Web3?
-Not at all. The Web3 industry is desperate for talented non-technical professionals. There is a huge demand for roles in [marketing](/web3-marketing-jobs), [community management](/web3-community-manager-career), product management, design, and operations.
-
-### 3. How is Web3 different from the "metaverse"?
-The [metaverse](/navigating-the-metaverse) is a vision for a persistent, 3D virtual world. Web3 provides the foundational technology to ensure that this metaverse is open, decentralized, and user-owned, rather than being a closed "walled garden" controlled by a single company like Meta. In a Web3 metaverse, your digital assets (like your avatar or virtual land) would be NFTs that you truly own.
-
-### 4. How can I start learning about Web3?
-The best way to learn is by doing. Our guide on [how to start a Web3 career](/how-to-start-a-web3-career) provides a step-by-step plan for beginners, from setting up your first wallet to making your first transaction and finding resources to deepen your knowledge.
-
-### 5. Where can I find a job in Web3?
-The Web3 job market is booming. You can find thousands of open roles for both technical and non-technical positions on our [Web3 job board](/jobs).

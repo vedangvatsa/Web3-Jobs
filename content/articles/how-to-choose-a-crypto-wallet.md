@@ -58,21 +58,3 @@ For most users, the optimal strategy is not to choose one or the other, but to u
 ### Conclusion
 
 Choosing a wallet is about understanding the trade-offs between convenience and security. While a custodial wallet on an exchange is an easy starting point, a non-custodial wallet is essential for true participation in Web3. For any significant amount of money, a hardware wallet is not a luxury; it is a necessity. By adopting a two-wallet strategy and following [security best practices](/securing-your-crypto), you can navigate the exciting world of Web3 with confidence, knowing that you are in full control of your digital assets.
----
-
-## Frequently Asked Questions
-
-### 1. What is a seed phrase?
-A seed phrase (or secret recovery phrase) is a list of 12-24 words that acts as the master key to your non-custodial wallet. It is absolutely critical that you [store it safely and offline](/securing-your-crypto) and NEVER share it with anyone.
-
-### 2. Is MetaMask safe?
-MetaMask is a non-custodial hot wallet, which means it is only as safe as the device it is running on. While the software itself is secure, if your computer is infected with malware, your funds could be at risk. This is why it's recommended to use MetaMask in conjunction with a hardware wallet for any significant value.
-
-### 3. Can I have multiple wallets?
-Yes. You can and should have multiple wallets. It's a good security practice to use different wallets for different purposes (e.g., one for DeFi, one for NFTs) to compartmentalize risk.
-
-### 4. What happens if I lose my hardware wallet?
-If you lose your physical Ledger or Trezor device, it's not a problem as long as you have your seed phrase backed up securely. You can simply buy a new hardware wallet and use your seed phrase to restore full access to all your funds.
-
-### 5. What's the best wallet to start with?
-For a beginner, a great starting point is to set up a browser extension wallet like [MetaMask](https://metamask.io/) to learn the basics. Once you start accumulating any amount of crypto that you would be upset to lose, you should immediately purchase a hardware wallet like a [Ledger](https://www.ledger.com/) or [Trezor](https://trezor.io/) and move your funds there.

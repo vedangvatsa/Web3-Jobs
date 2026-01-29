@@ -56,20 +56,3 @@ A decentralized exchange is not a company; it's a protocol built on smart contra
 
 Cryptocurrency exchanges are a vital piece of the Web3 infrastructure. They provide the liquidity and accessibility that the ecosystem needs to grow. By understanding the difference between centralized and decentralized exchanges, you can make informed decisions about how to buy, trade, and, most importantly, secure your digital assets.
 
----
-## Frequently Asked Questions
-
-### 1. What is the difference between a centralized and a decentralized exchange?
-A centralized exchange (CEX) is a company that holds your crypto for you. A decentralized exchange (DEX) is a protocol that allows you to trade directly from your own wallet. The key difference is custody: with a CEX, you trust the company; with a DEX, you have self-custody.
-
-### 2. Is it safe to keep my crypto on an exchange?
-Keeping large amounts of crypto on a centralized exchange for long periods is not recommended. It exposes you to the risk of the exchange being hacked or failing. The safest practice is to move your long-term holdings to a personal, **non-custodial wallet**.
-
-### 3. What is an "order book"?
-An order book is a real-time list of all the buy and sell orders for a specific asset at different price levels. Centralized exchanges use order books, while most DEXs use **liquidity pools** and Automated Market Makers (AMMs).
-
-### 4. Why do I need to do KYC on an exchange?
-KYC, or "Know Your Customer," is a regulatory requirement for financial institutions to prevent money laundering. Centralized exchanges must collect and verify the identity of their users to comply with these **AML regulations**.
-
-### 5. What is the biggest crypto exchange?
-By trading

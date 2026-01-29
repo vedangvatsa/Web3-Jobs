@@ -39,7 +39,7 @@ This creates opportunities for:
 - DeFi applications for regional settlement
 - Central bank digital currency (CBDC) pilots
 
-See: **[How to Make a Good First Impression at Work](/content/articles/how-to-make-good-first-impression-at-work.md)** – if you're relocating to work on these initiatives.
+See: **[How to Make a Good First Impression at Work](how-to-make-good-first-impression-at-work)** – if you're relocating to work on these initiatives.
 
 ## The Djibouti Web3 Landscape
 
@@ -188,7 +188,7 @@ Cost: 1-2% of transaction value in banking fees.
 - Compliance officers (ensuring regulatory alignment)
 - Product managers (designing user experience)
 
-See: **[What Are Oracles?](/content/articles/what-are-oracles.md)** – Understanding how blockchain receives real-world data about shipments.
+See: **[What Are Oracles?](what-are-oracles)** – Understanding how blockchain receives real-world data about shipments.
 
 ## How to Build a Web3 Career in Djibouti
 

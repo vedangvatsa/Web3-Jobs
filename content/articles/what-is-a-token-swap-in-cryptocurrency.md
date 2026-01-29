@@ -39,21 +39,3 @@ Atomic swaps are more complex and typically use a mechanism called Hashed Timelo
 
 Token swaps are the lifeblood of DeFi. They provide the liquidity and interoperability that allows the ecosystem to function. They enable users to seamlessly move between different assets, speculate on new projects, and participate in complex yield farming strategies. The ability to swap any token for any other token in a permissionless and decentralized way is a fundamental primitive that unlocks a world of financial innovation.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is a token swap a taxable event?
-Yes. In most jurisdictions, including the United States, swapping one cryptocurrency for another is treated as a disposition of the first asset. This means you realize a capital gain or loss on the token you are swapping out of, and you must report it on your taxes.
-
-### 2. What is a DEX?
-A DEX, or Decentralized Exchange, is a platform that facilitates peer-to-peer token swaps using smart contracts. Uniswap is the most well-known example.
-
-### 3. What is an Automated Market Maker (AMM)?
-An AMM is the underlying mechanism used by most DEXs. Instead of an order book, it uses a liquidity pool and a mathematical formula to automatically determine the price of assets for a swap.
-
-### 4. What is "slippage"?
-Slippage is the difference between the expected price of a trade and the price at which it is actually executed. In an AMM, large trades can cause the price to "slip" because they significantly change the ratio of assets in the liquidity pool. DEX interfaces allow you to set a slippage tolerance to protect against this.
-
-### 5. What's the difference between a token swap and an atomic swap?
-A "token swap" usually refers to swapping tokens on the same blockchain (e.g., on Ethereum). An "atomic swap" refers to the more complex process of swapping coins between two different blockchains (e.g., Bitcoin and Litecoin) in a trustless way.

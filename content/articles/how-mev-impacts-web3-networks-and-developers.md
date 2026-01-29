@@ -65,21 +65,3 @@ The Web3 community is actively researching and developing solutions to reduce th
 
 MEV is a natural and unavoidable property of transparent blockchains. It represents a complex game of cat and mouse between sophisticated searchers, block producers, and protocol designers. While it can never be eliminated entirely, the goal of the ecosystem is to harness its positive aspects (like arbitrage) while mitigating its negative, extractive forms. For developers, building with an awareness of MEV is no longer optional; it is a critical component of designing secure, fair, and robust decentralized applications.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is MEV?
-MEV stands for Maximal Extractable Value. It is the value that can be captured by a block producer (miner or validator) by reordering, inserting, or censoring transactions within a block they are producing. It's often called an "invisible tax" on blockchain users.
-
-### 2. What is a "sandwich attack"?
-A sandwich attack is a common and harmful MEV strategy. A bot sees a user's large trade in the mempool, front-runs it with their own trade, lets the user's trade execute at a worse price, and then back-runs it with a second trade, profiting from the price difference they created. Our [introduction to MEV](/what-is-mev) has a more detailed breakdown.
-
-### 3. Is all MEV bad?
-No. Some forms of MEV, like arbitrage between different decentralized exchanges, are generally considered beneficial as they help to make markets more efficient. However, predatory forms like sandwich attacks are harmful to users.
-
-### 4. How can developers protect their dApps from harmful MEV?
-Developers can design their protocols to be "MEV-aware." This includes implementing slippage protection, using commit-reveal schemes for sensitive actions, and avoiding the use of manipulatable on-chain price [oracles](/what-are-oracles).
-
-### 5. What is Flashbots?
-Flashbots is a research and development organization that has created a private mempool and auction system for transaction ordering. It is one of the most successful strategies for mitigating the negative externalities of MEV, such as network congestion from bidding wars.

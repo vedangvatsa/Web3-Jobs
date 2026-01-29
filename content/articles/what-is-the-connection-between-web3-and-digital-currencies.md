@@ -42,21 +42,3 @@ Web3 applications are global and permissionless. They need a payment system that
 
 In essence, Web3 is the vision of a decentralized internet, and digital currencies are the mechanism that makes this vision a reality. They are not just an application of Web3; they are its fundamental economic fabric.
 
----
-
-## Frequently Asked Questions
-
-### 1. Can Web3 exist without digital currencies?
-No. The decentralization of Web3 relies on the economic incentives provided by digital currencies to reward network operators. Without crypto, a blockchain network would need to be centrally funded and controlled, defeating the purpose of Web3.
-
-### 2. Is there a difference between "cryptocurrency" and "digital currency"?
-The terms are often used interchangeably. "Cryptocurrency" specifically refers to currencies secured by cryptography, like Bitcoin. "Digital currency" is a broader term that could also include things like Central Bank Digital Currencies (CBDCs), which are centralized. In the context of Web3, the two terms are functionally synonymous.
-
-### 3. What is the most important digital currency for Web3?
-While there are thousands of digital currencies, **[Ethereum's](/what-is-ethereum)** native currency, **Ether (ETH)**, is the most important for the Web3 application layer. It is used to pay for transactions, secure the network, and is the primary collateral in the **[DeFi](/what-is-defi)** ecosystem.
-
-### 4. What are "tokens" and how are they a form of digital currency?
-Tokens are a type of digital currency built on top of an existing blockchain (like an ERC-20 token on Ethereum). They represent a specific asset or utility, such as a share of governance in a **[DAO](/what-is-a-dao)** or ownership of a digital artwork (**[NFT](/what-are-nfts)**).
-
-### 5. What are the key career paths related to digital currencies?
-The rise of digital currencies has created a huge job market. Key roles include **[smart contract developers](/smart-contract-jobs)** who build the tokens and protocols, **[DeFi analysts](/defi-careers)** who study the economics, and **[community managers](/web3-community-manager-career)** who build the user base for these new digital economies.

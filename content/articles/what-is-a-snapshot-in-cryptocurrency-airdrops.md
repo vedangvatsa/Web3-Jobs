@@ -44,21 +44,3 @@ This platform allows projects to create proposals and let their token holders vo
 
 In essence, a snapshot is a powerful tool for creating fair and verifiable criteria in a decentralized environment. It's the mechanism that allows projects to look back at a specific moment in on-chain history and use it as the "source of truth" for distributing rewards and power.
 
----
-
-## Frequently Asked Questions
-
-### 1. Why do projects use snapshots for airdrops?
-Snapshots ensure a fair distribution by creating a fixed, verifiable record of user activity at a specific point in time. This prevents users from trying to qualify for the airdrop *after* it has been announced, rewarding only the genuine early users.
-
-### 2. When is the snapshot taken?
-Sometimes the project will announce the snapshot block number in advance. More often, to prevent users from trying to game the system, the project will take the snapshot secretly and only announce it later when they reveal the airdrop details.
-
-### 3. How can I check if I was included in a snapshot?
-After an airdrop is announced, the project will almost always provide a website or tool where you can connect your wallet to check your eligibility.
-
-### 4. What is the difference between an on-chain snapshot and the Snapshot.org platform?
-An on-chain snapshot is the general concept of recording the state of the blockchain at a specific block. Snapshot.org is a specific tool that uses this concept to enable gas-free, off-chain voting for DAOs.
-
-### 5. What is a "Merkle airdrop"?
-A **[Merkle airdrop](/merkle-airdrop-distribution-explained)** is a gas-efficient method for distributing airdrops that relies on a snapshot. The snapshot data is used to build a Merkle tree off-chain, and only the Merkle root is stored in the smart contract.

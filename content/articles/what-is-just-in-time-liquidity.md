@@ -77,5 +77,3 @@ A: This is an active area of research. Some potential solutions include:
     *   **Protocol-Level Changes**: DEXs could introduce mechanisms that delay fee collection or give a larger share of fees to longer-term LPs, making the JIT strategy less profitable.
     *   **Batch Auctions**: Protocols like CowSwap, which batch trades together and execute them at a uniform clearing price, make JIT attacks impossible as there is no specific trade to target.
 
----
-*Internally, this article links to: `understanding-concentrated-liquidity-in-uniswap`, `sandwich-attack-in-dex-explained`*

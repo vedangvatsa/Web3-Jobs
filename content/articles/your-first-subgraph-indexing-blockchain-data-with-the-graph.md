@@ -113,21 +113,3 @@ After deploying to The Graph's hosted service (the "Subgraph Studio"), it will s
 
 Learning to build subgraphs is a fundamental step in becoming a full-stack Web3 developer. It's the bridge that connects your on-chain logic to your off-chain user experience, enabling you to build fast, rich, and data-intensive decentralized applications.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is The Graph?
-The Graph is a decentralized protocol for indexing and querying data from blockchains. It allows dApp frontends to efficiently retrieve on-chain data without having to read it directly from the blockchain, which is slow and complex.
-
-### 2. Why do I need a subgraph? Can't my frontend just read from the smart contract?
-While you can read simple state from a smart contract directly, it's very inefficient for complex queries or historical data. A subgraph processes and organizes this data on a server, providing a fast and powerful GraphQL API for your dApp. It's one of the **[essential tools for Web3 developers](/essential-web3-developer-tools)**.
-
-### 3. What is GraphQL?
-GraphQL is a query language for APIs. It allows the client (your frontend) to request exactly the data it needs, and nothing more. This is more efficient than traditional REST APIs.
-
-### 4. What language is used to write subgraph mappings?
-The mapping logic for a subgraph is written in **AssemblyScript**, which is a strict subset of TypeScript. This makes it familiar and easy to learn for most web developers.
-
-### 5. What is the Subgraph Studio?
-The Subgraph Studio is a hosted service provided by The Graph that makes it easy to build, test, and deploy a subgraph without having to run your own infrastructure. It's the best place to start for new developers.

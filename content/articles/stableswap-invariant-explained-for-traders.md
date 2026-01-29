@@ -78,5 +78,3 @@ A: No, but it significantly reduces it for pegged assets. Because the assets are
 **Q: Is the StableSwap formula used by other protocols?**
 A: Yes. While pioneered by Curve, the StableSwap concept has been influential, and other DEXs that focus on stable assets have implemented similar hybrid bonding curves.
 
----
-*Internally, this article links to: `what-is-a-curve-pool-in-defi`, `understanding-constant-product-formula`*

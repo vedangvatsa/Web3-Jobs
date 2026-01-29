@@ -69,21 +69,3 @@ Once you have some experience and a small portfolio of work, you can start looki
     -   Junior Content Writer
 
 The journey to your first Web3 job is a marathon, not a sprint. It's a process of active participation and continuous learning. Unlike traditional industries, the barriers to entry are low, and the opportunities are immense. By immersing yourself in the culture, developing a valuable skill, and building a public portfolio of your contributions, you can successfully launch a fulfilling career at the forefront of the internet's next great evolution.
----
-
-## Frequently Asked Questions
-
-### 1. Do I need to code to get a job in Web3?
-No. While developers are in high demand, there is a massive need for non-technical professionals. Some of the [best Web3 jobs for non-developers](/best-web3-jobs-for-non-developers) are in marketing, community management, product, design, and operations.
-
-### 2. How much do Web3 jobs pay?
-Web3 jobs are known for being very well-compensated, often paying more than their equivalents in traditional tech. This is due to a high demand for a small pool of talent. You can learn more in our guide on [Web3 salaries](/does-web3-pay-well).
-
-### 3. What is the best way to get experience with no prior Web3 background?
-Start by contributing to a [DAO (Decentralized Autonomous Organization)](/how-to-contribute-to-daos-and-get-paid). Completing small, paid tasks called "bounties" is a great way to build a portfolio and get your foot in the door.
-
-### 4. What's the most important thing to include on my Web3 resume?
-Your "proof of work." Create a section that links to your public contributions, such as your GitHub profile (for developers), your blog posts, or your activity in a DAO. Your demonstrated passion and skill are more important than your past job titles. Our [guide to writing a Web3 resume](/how-to-write-a-web3-resume) can help.
-
-### 5. Is it too late to get into Web3?
-Not at all. The industry is still in its very early stages. Think of it as the internet in the mid-1990s. For those willing to learn, it's a golden opportunity to get in on the ground floor of a technological revolution.

@@ -85,5 +85,3 @@ A: They wait for multiple confirmations (e.g., 6 for Bitcoin) to make it even mo
 **Q: Can double-spending happen on other types of blockchains?**
 A: All functional blockchains must have a mechanism to prevent double-spending. Proof-of-Stake (PoS) networks solve it using a different consensus mechanism, where validators stake their own coins and risk losing them ("slashing") if they try to approve conflicting transactions.
 
----
-*Internally, this article links to: `what-is-a-51-percent-attack-in-blockchain`*

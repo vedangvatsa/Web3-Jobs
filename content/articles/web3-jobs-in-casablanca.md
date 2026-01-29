@@ -206,9 +206,9 @@ A: 8-12 months: 4 months learning + 2-3 months freelance + 2-3 months to full-ti
 - Central Bank communications — Policy/regulation
 
 **Related Articles:**
-- [Web3 Career Growth & Development](/content/articles/web3-career-growth-and-development.md)
-- [How to Find a Mentor in Web3](/content/articles/how-to-find-a-mentor-in-web3.md)
-- [Building Strong Professional Relationships](/content/articles/building-relationships-in-web3.md)
+- [Web3 Career Growth & Development](web3-career-growth-and-development)
+- [How to Find a Mentor in Web3](how-to-find-a-mentor-in-web3)
+- [Building Strong Professional Relationships](building-relationships-in-web3)
 
 ### Your Next Step: Find a Web3 Job
 

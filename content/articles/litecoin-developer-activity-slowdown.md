@@ -58,21 +58,3 @@ Litecoin's journey highlights a fundamental truth of the Web3 world: in the comp
   </CardContent>
 </Card>
 
----
-
-## Frequently Asked Questions
-
-### 1. Why is Litecoin's developer activity slowing down?
-The main reason is its limited design space. Litecoin, like Bitcoin, has very limited **[smart contract](/what-are-smart-contracts)** functionality, which means there is less for developers to build. Most top talent is drawn to more flexible platforms like Ethereum and its L2s. This is a key part of the broader [Web3 developer activity slowdown](/developer-activity-slowdown) analysis.
-
-### 2. Is Litecoin a "dead" project?
-"Dead" is a strong word. Litecoin is still a highly secure and reliable decentralized currency with a strong brand. However, it is no longer at the forefront of innovation, and its developer ecosystem has stagnated compared to newer platforms.
-
-### 3. Why is developer activity an important metric?
-Developer activity is a key indicator of a blockchain's long-term health. A thriving developer community leads to more innovation, better applications, and ultimately, greater user adoption. A decline in developers, as seen with [Solana](/solanas-developer-activity-decline), can be a warning sign.
-
-### 4. Where are Web3 developers choosing to build today?
-The vast majority of application developers are building on **[Ethereum](/what-is-ethereum)** and its ecosystem of **[Layer 2 scaling solutions](/guide-to-layer-2s)** like Arbitrum and Optimism. For core infrastructure work, many are turning to newer chains that use languages like Rust.
-
-### 5. What does Litecoin's story teach us about Web3?
-It teaches us that to succeed in the long term, a blockchain must be a **platform for innovation**, not just a static currency. Attracting and retaining a vibrant community of builders is the most important factor for sustainable growth in the [fast-growing Web3 job market](/why-web3-has-fastest-growing-job-market).

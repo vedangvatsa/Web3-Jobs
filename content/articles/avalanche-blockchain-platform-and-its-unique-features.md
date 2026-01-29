@@ -35,21 +35,3 @@ Perhaps the most powerful feature of Avalanche is its **subnet architecture**. A
 
 Avalanche offers a compelling and unique vision for a scalable and customizable blockchain future. Its multi-chain architecture and innovative consensus mechanism provide a high-performance platform for DeFi, while its subnet model offers a powerful solution for projects that require their own sovereign, application-specific blockchain.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is Avalanche (AVAX)?
-Avalanche is a **[Layer 1 blockchain](/what-is-a-layer-1-blockchain)** that competes with Ethereum. It is known for its high transaction speeds and unique "subnet" architecture, which allows for the creation of custom, application-specific blockchains.
-
-### 2. How does Avalanche achieve fast transactions?
-Avalanche uses a novel **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** where a small, random subset of validators are polled to confirm transactions. This "gossip-style" protocol allows the network to reach an agreement very quickly, often achieving transaction finality in under a second.
-
-### 3. What is a "Subnet"?
-A Subnet is a custom blockchain built on the Avalanche network. This allows projects, like a Web3 game, to have their own dedicated chain with their own rules and even their own token for gas fees, avoiding congestion on the main network.
-
-### 4. Is Avalanche compatible with Ethereum?
-Yes. Avalanche's main smart contract platform, the **C-Chain**, is fully compatible with the Ethereum Virtual Machine (EVM). This means developers can easily deploy their existing **[Solidity](/solidity-for-beginners)** smart contracts and dApps on Avalanche.
-
-### 5. What are the career opportunities on Avalanche?
-The demand for developers with experience building on Avalanche's EVM-compatible C-Chain and its subnet architecture is growing. There are roles for **[smart contract engineers](/smart-contract-jobs

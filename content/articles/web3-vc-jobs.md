@@ -47,21 +47,3 @@ The path to a Web3 VC role is rarely linear. Very few people get hired straight 
 
 A career in Web3 VC is a marathon, not a sprint. It requires a long-term commitment to learning, building relationships, and contributing to the ecosystem. But for those who are passionate about the future of decentralized technology, it's a chance to have a front-row seat to the revolution and to help fund the next generation of the internet.
 
----
-
-## Frequently Asked Questions
-
-### 1. What does a Web3 Venture Capitalist do?
-A Web3 VC invests in early-stage crypto startups and protocols. This involves sourcing new projects, conducting due diligence on their technology and team, and providing capital and support to help them grow.
-
-### 2. What is the career path in Web3 VC?
-The typical career path starts as an **Analyst** or **Associate**, responsible for research and sourcing. With experience, you can move up to **Principal** and eventually **Partner**, where you make final investment decisions. There are also "Platform" roles in areas like recruiting and marketing.
-
-### 3. How is crypto VC different from traditional VC?
-Crypto VCs often invest directly in a protocol's **tokens**, not just company equity, which makes the investment more liquid. They must have deep technical knowledge to evaluate protocols and often participate actively in the governance of the projects they invest in.
-
-### 4. What skills do I need to become a crypto VC?
-The most important skills are **insatiable curiosity**, **strong analytical ability** for writing investment theses, and **excellent networking skills**. You also need to be technically literate and have a deep, practical understanding of the crypto ecosystem.
-
-### 5. How can I get a job in Web3 VC with no experience?
-It's very difficult to get hired directly. The best path is to first build a public "proof of work" portfolio. You can do this by writing high-quality research on a blog, becoming an expert **[on-chain data analyst](/on-chain-analyst-job)**, or becoming a respected contributor to a **[DAO](/what-is-a-dao)**. This demonstrates your expertise and passion to potential employers. Our guide on **[how to get started as a VC analyst](/how-to-get-started-as-a-web3-cryptocurrency-venture-capital-analyst)** has more details.

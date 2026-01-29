@@ -84,5 +84,3 @@ A: No, the Bitcoin network has never been successfully 51% attacked. The sheer s
 **Q: What is the biggest danger of a 51% attack?**
 A: While double-spending is the most cited example, the biggest danger is the erosion of trust. A successful 51% attack on a major blockchain would shatter the perception of its immutability and security, causing its value and utility to plummet.
 
----
-*Internally, this article links to: `double-spending-problem-in-cryptocurrency`, `what-is-a-blockchain-fork-choice-rule`*

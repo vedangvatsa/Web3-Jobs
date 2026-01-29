@@ -57,21 +57,3 @@ The development of a decentralized social graph is one of the most important und
 
 The journey towards a fully decentralized social media landscape is still in its early days. The user experience can be clunky, and the challenges of content moderation in a decentralized environment are significant. However, the development of a robust, open social graph is a critical step towards fulfilling the original promise of the internet: a permissionless space for connection, creativity, and user empowerment.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a "social graph"?
-A social graph is the map of your connections and interactions on a social network. It includes who you follow, who follows you, your posts, and your likes. In Web2, the platform owns your social graph. In Web3, you own it.
-
-### 2. How does a Web3 social graph work?
-It separates the data layer from the application layer. The core data (your identity, followers, etc.) is stored on a decentralized protocol that you control with your crypto wallet. Anyone can then build a frontend "client" or app on top of this shared data, leading to a competitive and interoperable ecosystem. This is explained in detail in our **[Web3 social graph overview](/web3-social-graph-explained)**.
-
-### 3. What are Farcaster and Lens?
-Farcaster and Lens are the two leading protocols for building a decentralized social graph. **Farcaster** uses a hybrid on-chain and off-chain model for a better user experience. **Lens** takes a more "fully on-chain" approach where every social action is an NFT, making it highly composable. They are at the heart of the **[SocialFi](/what-is-socialfi)** movement.
-
-### 4. What does "composability" mean in this context?
-Composability means that because the social graph data is open and on-chain, developers can easily build new applications that "compose" or combine this data in novel ways. For example, a DeFi app could use your on-chain social reputation from Lens to offer you a loan.
-
-### 5. What does this mean for the future of online identity?
-A decentralized social graph is a key building block for **[Decentralized Identity (DID)](/decentralized-identity-explained)**. It allows you to build a portable, user-owned reputation and identity that is not locked into any single platform, giving you more control and freedom in your digital life.

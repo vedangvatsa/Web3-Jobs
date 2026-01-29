@@ -38,20 +38,3 @@ While TVL is a useful metric, it can also be misleading if viewed in isolation. 
 
 TVL is a foundational metric for analyzing the DeFi landscape. It provides a quick and easy way to gauge the scale of a protocol. However, a savvy analyst will always use it in conjunction with other metrics—such as protocol revenue, daily active users, and the TVL-to-market cap ratio—to get a more complete and nuanced picture of a project's health and long-term potential.
 
----
-## Frequently Asked Questions
-
-### 1. What does Total Value Locked (TVL) mean?
-TVL is a metric used in DeFi to represent the total value of all crypto assets that users have deposited, or "locked," into a protocol's smart contracts. It's a measure of the total capital managed by the protocol.
-
-### 2. How is TVL a measure of a protocol's success?
-A high TVL generally indicates that users trust the protocol with their assets and find its services useful. It's a key indicator of adoption and market share in the competitive DeFi space.
-
-### 3. Can TVL be a misleading metric?
-Yes. TVL can be artificially inflated by unsustainable token rewards that attract short-term "mercenary" capital. It's also important to note that TVL doesn't always correlate with actual usage or revenue generation. Therefore, it should be considered alongside other metrics like daily active users and protocol fees.
-
-### 4. Where can I track the TVL of different DeFi protocols?
-Websites like **DeFiLlama** are the industry-standard resources for tracking real-time TVL data across hundreds of DeFi protocols and dozens of different blockchains.
-
-### 5. What's the difference between TVL and Market Cap?
-**TVL** is the value of assets *inside* a protocol. **Market Cap** is the total value of a protocol's own native governance token. A high TVL with a low market cap can sometimes indicate an undervalued project.

@@ -346,10 +346,10 @@ A: Possible, but challenging:
 
 ### Related Career Guides
 Explore for context:
-- [Web3 Jobs in Lagos](/content/articles/web3-jobs-in-lagos.md) — West Africa mega-hub
-- [Web3 Jobs in Nairobi](/content/articles/web3-jobs-in-nairobi.md) — East Africa hub
-- [NFT Artist Career Guide](/content/articles/nft-artist-careers.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Web3 Jobs in Lagos](web3-jobs-in-lagos) — West Africa mega-hub
+- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi) — East Africa hub
+- [NFT Artist Career Guide](nft-artist-careers)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step: Find a Web3 Job
 

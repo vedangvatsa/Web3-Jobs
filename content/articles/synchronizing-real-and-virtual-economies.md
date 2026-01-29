@@ -73,21 +73,3 @@ The RWA sector is creating a new class of **[career opportunities](/emerging-car
 
 The tokenization of Real-World Assets is one of the most important and inevitable trends in finance. It represents the maturation of DeFi, moving from a niche, self-referential system to one that is deeply integrated with the global economy. While the legal and technical challenges are still significant, the potential to unlock trillions of dollars in value and create a more efficient, transparent, and accessible financial system is a powerful force. The "Great Synchronization" of the real and virtual economies has begun, and it will be one of the defining financial narratives of the next decade.
 
----
-
-## Frequently Asked Questions
-
-### 1. What are Real-World Assets (RWAs)?
-RWAs are traditional, off-chain assets—like real estate, private credit, or U.S. Treasury Bills—that have been "tokenized" and represented as a digital token on a blockchain. This is a major trend in DeFi aimed at bridging traditional and decentralized finance, also known as **[Web3 real estate](/web3-real-estate)**.
-
-### 2. How does real estate tokenization work?
-A property is placed into a legal entity (like an LLC). The ownership of this entity is then digitized into a set of tokens on a blockchain, allowing for fractional ownership and increased liquidity. For more, see our guide on **[tokenizing property ownership](/tokenizing-property-ownership)**.
-
-### 3. What are the benefits of tokenizing real-world assets?
-The main benefits are **unlocking liquidity** for traditionally illiquid assets, **enabling fractional ownership** to make investments more accessible, and bringing **stable, real-world yield** into the DeFi ecosystem.
-
-### 4. What are the biggest challenges for RWAs?
-The biggest challenges are navigating the complex **regulatory landscape** (as most RWAs are securities), solving the **oracle problem** to get reliable off-chain data on-chain, and managing the **centralization and counterparty risk** of the off-chain legal structures and custodians.
-
-### 5. What kind of jobs are available in the RWA sector?
-The RWA sector requires hybrid expertise. Key roles include **[Web3 legal and compliance specialists](/exploring-career-paths-for-web3-compliance-officers)** who can structure the assets, **protocol developers** who build the tokenization platforms, and **financial product managers** who can design these new on-chain financial products.

@@ -89,5 +89,3 @@ A: The value of an LP token is derived directly from the value of the underlying
 **Q:: Is providing liquidity the same as staking?**
 A: No. **Providing liquidity** involves depositing a pair of assets into a DEX pool to facilitate trades, and you receive LP tokens. **Staking** typically refers to either locking up a single asset to help secure a Proof-of-Stake network (like staking ETH) or locking up LP tokens in a yield farm to earn rewards.
 
----
-*Internally, this article links to: `understanding-concentrated-liquidity-in-uniswap`*

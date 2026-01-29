@@ -349,10 +349,10 @@ A:
 - Japanese crypto news (CoinPost, etc.)
 
 ### Related Career Guides
-- [Web3 Jobs in Singapore](/content/articles/web3-jobs-in-singapore.md) — Asia FinTech hub
-- [Web3 Gaming Career Guide](/content/articles/web3-gaming-careers.md)
-- [FinTech Web3 Careers](/content/articles/fintech-web3-careers.md)
-- [Complete Web3 Skills Guide](/content/articles/web3-skills-guide.md)
+- [Web3 Jobs in Singapore](web3-jobs-in-singapore) — Asia FinTech hub
+- [Web3 Gaming Career Guide](web3-gaming-careers)
+- [FinTech Web3 Careers](fintech-web3-careers)
+- [Complete Web3 Skills Guide](web3-skills-guide)
 
 ### Your Next Step: Find a Web3 Job
 

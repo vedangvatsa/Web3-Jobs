@@ -49,21 +49,3 @@ While still an emerging field, blockchain-based certificate verification is gain
 
 Blockchain-based verification systems represent a fundamental upgrade to how we manage our most important credentials. By creating a secure, transparent, and user-controlled system, they are building a more trustworthy foundation for our educational and professional lives.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is a Verifiable Credential (VC)?
-A VC is a standardized digital format for a credential (like a diploma or license) that is cryptographically signed by the issuer. This makes it tamper-proof and instantly verifiable. Learn more in our **[guide to Verifiable Credentials](/a-guide-to-verifiable-credentials-in-decentralized-identity)**.
-
-### 2. How does blockchain prevent fake certificates?
-The certificate is digitally signed by the issuer (e.g., a university) using their private key. A verifier can use the issuer's public key to confirm that the signature is authentic and that the document has not been altered. The immutability of the **[blockchain](/what-is-a-blockchain)** provides a secure record of issuance.
-
-### 3. Who owns the digital certificate?
-The individual owns and controls their own digital certificates, which are stored in their personal **[crypto wallet](/how-to-choose-a-crypto-wallet)**. This is a core principle of **[Decentralized Identity (DID)](/decentralized-identity-explained)**.
-
-### 4. Do I need to be a developer to work in this field?
-No. While **[smart contract developers](/smart-contract-jobs)** are needed to build the systems, there is also a high demand for product managers, business development professionals who can partner with universities and employers, and **[legal experts](/legal-careers-in-web3)** who can navigate the legal implications of digital identity.
-
-### 5. Where is this technology being used today?
-MIT was a pioneer in issuing blockchain-based digital diplomas. Various startups and companies are also building platforms for professional certifications and employee training credentials.

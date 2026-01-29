@@ -43,20 +43,3 @@ Cryptocurrencies that use a Proof-of-Stake consensus mechanism, like Ethereum, d
 
 The halving is a powerful and elegant mechanism for creating digital scarcity. It is a core part of what makes Bitcoin a unique financial asset and a key driver of the market cycles that define the crypto world.
 
----
-## Frequently Asked Questions
-
-### 1. What is a Bitcoin halving?
-A Bitcoin halving is a pre-programmed event that happens approximately every four years, where the reward for mining new Bitcoin blocks is cut in half. This reduces the rate at which new bitcoins are created.
-
-### 2. When is the next Bitcoin halving?
-The Bitcoin halving happens every 210,000 blocks. The last one was in April 2024, and the next one is expected to occur in 2028.
-
-### 3. How does the halving affect Bitcoin's price?
-Historically, halving events have been followed by significant bull runs in the price of Bitcoin. By reducing the new supply of coins entering the market, the event creates a "supply shock" that can lead to a price increase if demand remains strong.
-
-### 4. Why was the halving created?
-The halving was designed by Satoshi Nakamoto as part of Bitcoin's economic model to create a scarce, predictable, and deflationary asset. It mimics the process of mining a scarce commodity like gold, where it becomes harder to find new supply over time.
-
-### 5. Does Ethereum have a halving?
-No. Ethereum uses a Proof-of-Stake system, so it does not have mining or

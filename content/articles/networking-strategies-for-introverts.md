@@ -121,9 +121,3 @@ A3: Never ask for a referral in your first interaction. This should only happen 
 
 A4: Plan your energy. Do not feel like you have to attend every session and every party. Pick the most important sessions and conversations. Schedule breaks in your day to go back to your hotel room and recharge. Remember your goal: a few high-quality conversations are better than dozens of superficial ones.
 
----
-### Internal Links
-- [How to Build Professional Network Fast](/how-to-build-professional-network-fast)
-- [Coffee Chat Etiquette for Professionals](/coffee-chat-etiquette-for-professionals)
-- [How to Write Cold Emails That Get Responses](/how-to-write-cold-emails-that-get-responses)
-- [Imposter Syndrome at Work Explained](/imposter-syndrome-at-work-explained)

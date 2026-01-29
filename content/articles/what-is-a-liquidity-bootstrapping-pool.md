@@ -37,21 +37,3 @@ This continuous weight shift creates a downward pressure on the price, similar t
 
 A Liquidity Bootstrapping Pool is a sophisticated and elegant token launch mechanism. It combines the instant liquidity of a DEX with the fair price discovery of a Dutch auction, creating a more equitable and stable environment for new projects to distribute their tokens to a wide and engaged community.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main goal of a Liquidity Bootstrapping Pool (LBP)?
-The main goal of an LBP is to achieve **fair price discovery** and **prevent front-running by bots** during a new token launch. It does this by creating a downward pressure on the price that forces all participants to wait for a price they are comfortable with.
-
-### 2. How is an LBP different from a regular Uniswap pool?
-A regular Uniswap V2 pool has a fixed 50/50 weight between the two assets. An LBP has **dynamic weights** that change over time, typically starting at something like 90/10 and ending at 10/90.
-
-### 3. Is an LBP a type of Dutch Auction?
-It functions very similarly to a Dutch Auction. The price starts high and is designed to fall over time unless there is significant buying pressure to counteract the weight shift.
-
-### 4. Is it better to buy at the beginning or the end of an LBP?
-There is no single best time. The price is designed to be high at the start and lower at the end, but strong buying demand at any point can cause the price to rise. Participants must decide for themselves what they believe is a fair price.
-
-### 5. Why is "bootstrapping" in the name?
-It's called a bootstrapping pool because it allows a new project to "bootstrap" or create a liquid market for its token with much less upfront capital than would be required in a standard 50/50 pool.

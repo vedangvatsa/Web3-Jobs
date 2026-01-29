@@ -82,7 +82,7 @@ Many of the world's largest crypto companies have chosen Singapore for regional 
 
 This concentration creates ecosystem density and opportunity.
 
-Related: **[Web3 Career Growth and Development](/content/articles/web3-career-growth-and-development.md)** – Positioning yourself in premier markets.
+Related: **[Web3 Career Growth and Development](web3-career-growth-and-development)** – Positioning yourself in premier markets.
 
 ### Deep Capital Pool
 

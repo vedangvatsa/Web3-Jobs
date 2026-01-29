@@ -59,21 +59,3 @@ When the project succeeds, it's a team victory. The DRI should ensure that credi
 
 Effective cross-functional collaboration is a superpower for any organization. It requires moving beyond departmental allegiances and embracing a shared sense of purpose. By establishing clear ownership, creating a solid plan, fostering a common language, communicating asynchronously, and celebrating as a unified team, you can break down silos and unlock the collective intelligence of your entire organization.
 
----
-
-### Frequently Asked Questions (FAQ)
-
-**Q: How do you handle conflict between team members from different departments?**
-
-A: The DRI is the first line of defense. They should facilitate a conversation between the individuals, focusing on the shared goal and trying to understand each person's perspective. If that fails, the DRI should escalate the issue to the respective managers of the individuals involved, who can then mediate the conflict.
-
-**Q: What makes a good Directly Responsible Individual (DRI)?**
-
-A: A great DRI is not necessarily the most senior person, but the most organized and communicative. They are excellent project managers who are respected by their peers. They are good at building consensus, holding people accountable without having direct authority, and relentlessly communicating status to keep everyone aligned.
-
-**Q---
-**Related Articles:**
-- [[how-to-work-with-different-personality-types]]
-- [[async-communication-skills-for-remote-teams]]
-- [[office-politics-navigation-guide]]
-- [[team-motivation-strategies-that-work]]

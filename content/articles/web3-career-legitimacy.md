@@ -53,21 +53,3 @@ Is a Web3 job a "real" job? Yes. It involves solving some of the most challengin
 
 However, it is not a "safe" job in the traditional sense. It requires a high tolerance for risk, a passion for self-directed learning, and a deep conviction in the long-term potential of decentralization. It's a career for builders, pioneers, and those who are comfortable living on the frontier. For those who fit this profile, a career in Web3 is not just a legitimate choice; it's the opportunity of a lifetime.
 
----
-
-## Frequently Asked Questions
-
-### 1. Is a career in Web3 stable?
-A Web3 career is generally less stable than a traditional tech job due to market volatility and **[regulatory uncertainty](/web3-jobs-and-regulatory-unknown)**. However, the most resilient projects are well-funded and continue to hire through market cycles, offering more stability than the broader market perception suggests.
-
-### 2. How does the pay in Web3 compare to traditional tech?
-Web3 jobs are famous for offering **[very high compensation](/decoding-web3-salary)**, often exceeding comparable roles in Web2. This is driven by a massive talent shortage and the high-stakes nature of the work.
-
-### 3. What is the "ownership economy"?
-The ownership economy refers to the Web3 model where users and builders are also owners of the networks they participate in. This is primarily achieved through **[token-based compensation](/tokenomics-for-compensation)**, which gives employees a direct financial stake in the project's success.
-
-### 4. Is it a good idea to look for a job during a crypto "bear market"?
-Yes. A bear market is often the **[best time to find a high-quality job](/why-now-is-the-best-time-to-jobseek-in-crypto)**. There is less competition for roles, and the companies that are still hiring are typically the most well-funded and have the strongest long-term vision.
-
-### 5. What makes a good candidate for a Web3 job?
-Hiring managers look for a combination of hard skills and specific cultural traits. The **[ideal Web3 candidate](/what-makes-a-good-candidate-in-crypto)** is a passionate, self-directed learner with a strong "proof of work" portfolio and a collaborative spirit.

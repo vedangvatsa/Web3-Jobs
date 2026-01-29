@@ -56,21 +56,3 @@ The future of finance may be decentralized, but the path is not without signific
 
 Despite these challenges, the fundamental value proposition of Web3 finance is clear. It offers a blueprint for a financial system that is more open, transparent, efficient, and accessible than the one we have today. It's a system where the rules are written in code, available for all to see, and where access is not determined by your wealth or geography, but by your internet connection. This is why Web3 is so important for the future of finance.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is DeFi?
-DeFi stands for **[Decentralized Finance](/what-is-defi)**. It's an entire ecosystem of financial applications built on blockchain technology that allows for peer-to-peer lending, borrowing, and trading without traditional intermediaries like banks.
-
-### 2. Is DeFi safer than traditional finance?
-It's a different kind of risk. In DeFi, you are not exposed to the risk of a bank failing (like in 2008), but you are exposed to **[smart contract risk](/common-smart-contract-vulnerabilities-explained)** (the risk of a bug in the code).
-
-### 3. How does Web3 help the unbanked?
-Web3 provides permissionless access to financial services. Anyone with a smartphone can set up a crypto wallet and access a global system for savings and payments, bypassing the need for a traditional bank account.
-
-### 4. What are "money legos"?
-"Money legos" is a popular analogy for the composability of DeFi. It means that different DeFi protocols are like Lego blocks that can be easily combined to build new and more complex financial products.
-
-### 5. What kind of jobs are there in DeFi?
-The DeFi space has a wide range of career opportunities for those with financial and technical skills. Key roles include **[DeFi protocol engineers](/defi-careers)**, **[quantitative analysts](/a-day-in-the-life-of-a-defi-quant)**, and **[product managers](/web3-product-manager-jobs)** with a focus on financial products.

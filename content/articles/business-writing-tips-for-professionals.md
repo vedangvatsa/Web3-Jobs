@@ -136,9 +136,3 @@ A3: As short as possible while still conveying the necessary information. A good
 
 A4: Do not put it all in the body of an email or report. Provide a high-level summary of the key insights from the data in the main document. Then, attach a spreadsheet or link to a dashboard for those who want to do a deep dive. This respects the time of those who only need the summary while still providing the full context for those who need it.
 
----
-### Internal Links
-- [Professional Email Etiquette Rules](/professional-email-etiquette-rules)
-- [How to Present Ideas to Leadership](/how-to-present-ideas-to-leadership)
-- [Executive Communication Skills Guide](/executive-communication-skills-guide)
-- [How to Write Cold Emails That Get Responses](/how-to-write-cold-emails-that-get-responses)

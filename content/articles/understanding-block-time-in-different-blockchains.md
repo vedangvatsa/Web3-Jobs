@@ -38,20 +38,3 @@ It's important to understand that a transaction being included in a block does n
 
 A shorter block time leads to faster confirmation and a better user experience, as you see your transaction appear on-chain more quickly. However, it can also introduce a higher risk of short-term chain forks if not managed carefully by the consensus protocol. The choice of block time is a core design decision that reflects a blockchain's priorities in the ongoing balance between speed, security, and decentralization.
 
----
-## Frequently Asked Questions
-
-### 1. What is block time?
-Block time is the average time it takes for a new block of transactions to be added to a blockchain. It's a key parameter that determines the speed of the network.
-
-### 2. Why does Bitcoin have such a long block time?
-Bitcoin's 10-minute block time was a deliberate design choice to prioritize security and decentralization. It ensures that new blocks have ample time to be validated and propagated across the entire global network, which minimizes the risk of network forks and re-orgs.
-
-### 3. How does block time affect transaction speed?
-A shorter block time means that your transaction will be included in a block and receive its first confirmation more quickly. For example, a transaction on Ethereum (12-second block time) will feel much faster than one on Bitcoin (10-minute block time).
-
-### 4. Is a faster block time always better?
-Not necessarily. While a faster block time improves user experience, it can increase the risk of temporary forks if the network is large and geographically distributed. There is a trade-off between speed and the decentralization/security of the consensus.
-
-### 5. What is the difference between block time and transaction finality?
-Block time is the time to the *first* confirmation. Transaction finality is the time until the transaction is considered irreversible. In Proof-of-Work chains, this can require multiple block confirmations (e.g., an hour for Bitcoin). In Proof-of-Stake chains like Ethereum, finality is usually

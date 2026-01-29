@@ -91,20 +91,3 @@ To run these tests, you would simply run `forge test` in your terminal.
 
 While Hardhat remains a powerful and popular choice, Foundry represents a significant evolution in the Ethereum developer experience. Its focus on speed, simplicity, and Solidity-native testing is winning over developers who want a more efficient and powerful workflow. For any serious Ethereum developer, learning Foundry is no longer optional—it's a necessary skill for building robust and secure smart contracts.
 
----
-## Frequently Asked Questions
-
-### 1. What is Foundry?
-Foundry is a fast, portable, and modular toolkit for Ethereum smart contract development. Its main components are **Forge** (for testing), **Cast** (for CLI interactions), **Anvil** (for local blockchain), and **Chisel** (for a Solidity REPL).
-
-### 2. What is the main advantage of Foundry over Hardhat?
-The main advantage is **Solidity-native testing**. With Foundry, you write your tests in **[Solidity](/solidity-for-beginners)**, the same language as your smart contracts. This eliminates the need for context switching between Solidity and JavaScript, making the development process faster and more intuitive.
-
-### 3. What is fuzz testing in Foundry?
-Fuzz testing, or "fuzzing," is a powerful feature where Foundry automatically bombards your functions with a huge number of random inputs. This helps you discover unexpected edge cases and potential **[vulnerabilities](/common-smart-contract-vulnerabilities-explained)** that you might miss with traditional unit testing.
-
-### 4. Is Foundry faster than Hardhat?
-Yes, significantly. Because Foundry is written in Rust and executes tests directly in an EVM implementation without a JavaScript layer, both compilation and test execution are typically much faster than in JavaScript-based frameworks like Hardhat. It's one of the **[essential tools for Web3 developers](/essential-web3-developer-tools)**.
-
-### 5. Is it hard to learn Foundry if I already know Hardhat?
-The transition is relatively straightforward for experienced developers. You will need to get used to writing tests in Solidity, but the core concepts of compiling, deploying, and testing are similar. The official Foundry Book documentation is an excellent resource for making the switch.

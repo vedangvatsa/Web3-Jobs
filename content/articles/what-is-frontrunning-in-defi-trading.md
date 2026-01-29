@@ -76,5 +76,3 @@ A: No. The mempool is a highly competitive environment. Multiple bots may try to
 **Q: Does Proof-of-Stake change front-running?**
 A: Proof-of-Stake does not eliminate front-running. The validators in a PoS system take on the role of the miners in deciding transaction order. The same fundamental dynamics of a transparent mempool and priority based on fees (or other payments) still exist.
 
----
-*Internally, this article links to: `sandwich-attack-in-dex-explained`, `arbitrage-opportunities-in-defi-markets`*

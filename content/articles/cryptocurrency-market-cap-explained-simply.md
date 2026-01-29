@@ -48,20 +48,3 @@ While it's a useful metric, market cap has its limitations.
 
 Market cap is a fundamental starting point for evaluating a cryptocurrency. It provides a quick snapshot of a project's scale and its perceived value by the market. However, it should always be used in conjunction with other metrics and a deep dive into the project's technology, team, and [tokenomics](/understanding-tokenomics) as part of a thorough [DYOR (Do Your Own Research)](/what-is-dyor-in-crypto) process.
 
----
-## Frequently Asked Questions
-
-### 1. What is the difference between market cap and fully diluted valuation (FDV)?
-**Market Cap** is based on the *circulating supply* (tokens available today). **Fully Diluted Valuation (FDV)** is calculated by multiplying the current price by the *total supply* that will ever exist. FDV gives you a sense of the project's potential future valuation if all tokens were in circulation. A large gap between the market cap and the FDV can be a red flag, as it indicates a large number of tokens will be entering the market in the future, which could put downward pressure on the price.
-
-### 2. Can market cap be a misleading metric?
-Yes. It is particularly misleading for new, illiquid tokens where a small amount of trading can create a very high price and thus a high market cap on paper. It's also important to remember that it reflects current market sentiment, not necessarily the fundamental value of a project.
-
-### 3. Where can I find the market cap of different cryptocurrencies?
-Websites like CoinGecko and CoinMarketCap are the most popular resources for tracking real-time price, market cap, and other data for thousands of cryptocurrencies.
-
-### 4. What is a "blue-chip" crypto?
-A "blue-chip" crypto is a large-cap, well-established project with a long track record of security and decentralization. Bitcoin and Ethereum are universally considered to be the blue chips of the crypto market.
-
-### 5. Why is a large market cap considered safer?
-A large market cap generally indicates that a project has deep liquidity, a wide distribution of token holders, and is more

@@ -60,9 +60,3 @@ Influencing without authority takes time. You will hear "no" more often than "ye
 
 The ability to influence without authority is what separates junior contributors from true leaders. It's a skill that requires empathy, strategic thinking, and patience. By building a strong foundation of trust, framing your ideas around shared goals, leveraging data, building coalitions, and being politely persistent, you can drive significant impact and lead change, no matter what your title is.
 
----
-**Related Articles:**
-- [[managing-up-strategies-for-success]]
-- [[networking-strategies-for-introverts]]
-- [[cross-functional-collaboration-tips]]
-- [[how-to-work-with-different-personality-types]]

@@ -10,51 +10,6 @@ Landing your first job in Web3 is an exciting milestone, but it's just the begin
 
 This guide is for professionals who are already in the Web3 space and are thinking about their next steps. We'll explore strategies for career growth, from deepening your specialization and contributing to open-source projects, to moving into leadership roles and building a sustainable, long-term career in the decentralized economy.
 
-### Principle 1: Never Stop Learning
-
-The most important trait for long-term success in Web3 is an insatiable curiosity. The technology, narratives, and best practices are in a constant state of flux.
-
-- **Go Deeper in Your Domain:** If you're a smart contract developer, start learning about advanced security patterns or formal verification. If you're a marketer, go deep on the intricacies of DAO governance or tokenomics.
-- **Explore Adjacent Fields:** A "T-shaped" skillset (deep expertise in one area, broad knowledge of others) is highly valuable. An engineer who understands marketing and tokenomics is more valuable than one who only knows how to code. A PM who can read smart contracts is more effective than one who can't.
-- **Stay on the Frontier:** Dedicate time each week to read research papers, experiment with new protocols, and follow the conversations on Twitter and Farcaster. Our guide on [how to keep up with the Web3 market](/how-to-keep-up-with-web3-job-market) offers practical tips.
-
-### Principle 2: Specialize and Build a "Spike"
-
-As the industry matures, the demand for deep specialists is increasing. While generalists were valuable in the early days, projects now need true experts to solve hard problems.
-
-- **Identify Your "Spike":** What is the one area where you can become a world-class expert? It could be a specific technical domain (like ZK-proofs or Layer 2s), a specific role (like a DeFi Product Manager), or a specific sector (like Web3 gaming).
-- **Build a Public Portfolio:** Showcase your expertise in public.
-  - **Developers:** Contribute to a leading open-source project in your chosen niche.
-  - **Non-Technical:** Write in-depth research reports or analyses. Become the go-to person on Twitter for your specific topic.
-
-### Principle 3: From Contributor to Leader
-
-Moving into a leadership role in Web3 often looks different than in a traditional company. It's less about being promoted and more about earning the trust and respect of the community.
-
-- **Lead with Influence, Not Authority:** In a flat, decentralized organization, you often have to lead without formal authority. This requires excellent communication, the ability to build consensus, and a track record of being a valuable contributor.
-- **Mentor Others:** A key sign of a leader is their ability to level up those around them. Take the time to mentor junior team members or help new contributors in your DAO.
-- **Solve Un-Owned Problems:** The best way to become a leader is to identify an important problem that no one else is working on and take the initiative to solve it. This could be anything from revamping a DAO's grant process to creating a new piece of internal tooling.
-
-### Principle 4: Build Your Network
-
-Your professional network is a critical asset for long-term career growth. The relationships you build today will lead to the opportunities of tomorrow.
-
-- **Provide Value First:** The best networking is non-transactional. Be known as someone who is helpful and provides value to the community, and opportunities will come to you.
-- **Attend Events:** Go to hackathons and industry conferences. The "hallway track" conversations are often where the most valuable connections are made.
-- **Play the Long Game:** Build genuine, long-term relationships. The Web3 space is small, and reputation is everything.
-
----
-title: "A Guide to Web3 Career Growth and Development"
-image: "/images/markus-spiske-iar-afB0QQw-unsplash.jpg"
-data-ai-hint: "career growth chart"
-description: "How to grow your career in the fast-paced Web3 industry. This guide covers strategies for continuous learning, specialization, and moving into leadership roles in the decentralized economy."
-category: "Career Guides"
----
-
-Landing your first job in Web3 is an exciting milestone, but it's just the beginning of your journey. The Web3 industry moves at a blistering pace, and building a long, successful career requires a commitment to continuous learning, strategic skill development, and a forward-thinking approach to your professional growth. The skills that got you your first job might not be enough to land you your next one.
-
-This guide is for professionals who are already in the Web3 space and are thinking about their next steps. We'll explore strategies for career growth, from deepening your specialization and contributing to open-source projects, to moving into leadership roles and building a sustainable, long-term career in the decentralized economy.
-
 ## The Reality of Web3 Career Growth
 
 Before diving into strategies, understand what's different about career development in Web3:
@@ -111,7 +66,7 @@ If you're already a smart contract developer, becoming a *great* smart contract 
 - **Crypto Policy:** Deep knowledge of regulatory landscape in 2-3 jurisdictions
 - **Web3 Marketing/Growth:** Understand community building, token launches, and community-first growth
 
-Related: **[10 Essential Skills for Web3](/content/articles/10-essential-skills-for-web3.md)** – Foundational skills to build on.
+Related: **[10 Essential Skills for Web3](10-essential-skills-for-web3)** – Foundational skills to build on.
 
 ### Stay on the Frontier
 
@@ -275,7 +230,7 @@ In a flat, decentralized organization, you often have to lead without formal aut
 - Help others feel ownership
 - Eventually, you're "the security person" without a formal title
 
-Related: **[How to Build Executive Presence at Work](/content/articles/how-to-build-executive-presence-at-work.md)** – Presence matters in distributed teams.
+Related: **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)** – Presence matters in distributed teams.
 
 ### Mentor Others
 
@@ -453,7 +408,7 @@ Growth happens at the edge of your competence. Volunteer for:
 
 Find someone 5-10 years ahead of you on your path.
 
-Related: **[How to Find a Mentor at a New Company](/content/articles/how-to-find-mentor-at-new-company.md)** – The complete guide to mentorship.
+Related: **[How to Find a Mentor at a New Company](how-to-find-mentor-at-new-company)** – The complete guide to mentorship.
 
 ### 3. Change Jobs Strategically
 

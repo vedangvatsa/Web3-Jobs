@@ -44,21 +44,3 @@ While true fair launches are rare, some modern projects try to emulate the spiri
 
 The fair launch is a powerful ideal in the crypto world. It represents a commitment to decentralization and equal opportunity. While the practical realities of building a project in today's competitive environment have made true fair launches a rarity, the principles they embody continue to be a benchmark against which all new token distributions are measured.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the difference between a fair launch and an ICO?
-In a fair launch, there is no pre-sale of tokens to anyone, including the team. In an **[ICO (Initial Coin Offering)](/what-is-an-initial-coin-offering)**, the project sells a portion of its tokens to raise capital before the public launch, which is a form of pre-mining.
-
-### 2. Was Ethereum a fair launch?
-No. The Ethereum Foundation conducted a pre-sale of ETH in 2014 to fund the development of the network, so it was not a true fair launch in the same way as Bitcoin.
-
-### 3. Why is a fair launch considered more decentralized?
-A fair launch prevents a large portion of the initial token supply from being concentrated in the hands of a small number of insiders (the team and VCs). This can lead to a more distributed and decentralized ownership structure over the long term.
-
-### 4. Are pre-mined projects bad?
-Not necessarily. A pre-mine is often a practical necessity to fund a project's development. The key is transparency and the terms of the pre-mine. A project with a reasonable allocation to the team and investors, with a long **[vesting schedule](/vesting-schedules-in-crypto-projects-explained)**, can still be a legitimate and successful project.
-
-### 5. What is a "stealth launch"?
-A **[stealth launch](/understanding-stealth-launch-in-crypto)** is a type of launch where a project goes live with no prior announcement or marketing. It's often used by community-focused projects to ensure that only the most dedicated, "in-the-know" participants are the first to get in.

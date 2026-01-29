@@ -48,21 +48,3 @@ This is where the magic of the **[consensus mechanism](/consensus-mechanisms-in-
 
 This entire decentralized process, orchestrated by cryptography and economic incentives, allows a global network of strangers to agree on a single source of truth without needing to trust each other or any central intermediary. It is this trustless verification that gives blockchain its revolutionary power.
 
----
-
-## Frequently Asked Questions
-
-### 1. How long does a blockchain transaction take?
-It varies by blockchain. On Bitcoin, a new block is added roughly every 10 minutes, and a transaction is typically considered final after about an hour (6 confirmations). On a Proof-of-Stake network like Ethereum, blocks are added every 12 seconds, and transactions can be considered final in a few minutes. On high-performance chains like **[Solana](/what-is-solana)**, finality can be achieved in seconds.
-
-### 2. What is a "gas fee"?
-A gas fee is the fee you pay to the miners or validators to have your transaction included in a block. It compensates them for the computational effort required to process and secure your transaction. For a more detailed explanation, see our **[guide to gas fees](/understanding-gas-fees-and-optimization-in-ethereum)**.
-
-### 3. Can a confirmed transaction be reversed?
-No. Once a transaction has reached finality on a blockchain, it is immutable and cannot be reversed. This is a core security feature but also means there are no "chargebacks" in crypto, so you must be careful when sending funds.
-
-### 4. What is a "block explorer"?
-A block explorer, like **[Etherscan](/blockchain-explorer-guide-for-bitcoin-and-ethereum)**, is a website that allows you to view and search for all transactions, blocks, and addresses on a blockchain. It's a tool for publicly verifying all on-chain activity.
-
-### 5. Who verifies the transactions?
-Transactions are verified by a decentralized network of participants. In Proof-of-Work systems, they are called "miners"; in

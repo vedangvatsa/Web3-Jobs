@@ -36,20 +36,3 @@ Immutability is what allows a blockchain to function as a trusted source of trut
 
 By making data unchangeable, blockchain's immutability creates a secure and reliable foundation for the decentralized world of Web3.
 
----
-## Frequently Asked Questions
-
-### 1. Is it truly impossible to change data on a blockchain?
-For all practical purposes on a large, public blockchain, yes. While theoretically possible with a "51% attack," the economic and computational cost is so astronomically high that it is considered infeasible.
-
-### 2. What happens if a mistake is made? Can it be corrected?
-No. Because of immutability, a mistaken transaction cannot be reversed or corrected on the base layer of the blockchain. This is why it is critical to be careful when sending transactions. However, application-level logic can sometimes be built to allow for corrections (e.g., a counter-transaction).
-
-### 3. What is a "hash"?
-A hash is a unique, fixed-length string of characters generated from a piece of digital data. It acts as a digital fingerprint. You can learn more in our guide to [understanding transaction hashing](/understanding-transaction-hashing-in-blockchain).
-
-### 4. What is a 51% attack?
-A 51% attack is a theoretical attack on a blockchain where a single entity or group gains control of more than 50% of the network's mining power. This would allow them to alter recent transactions and prevent new ones from being confirmed. It's the primary threat model that consensus mechanisms are designed to prevent.
-
-### 5. How does this relate to smart contracts?
-The code of a [smart contract](/what-are-smart-contracts), once deployed to the blockchain, is also immutable. This is why security auditing is so critical, as a bug in the code cannot be easily fixed after deployment.

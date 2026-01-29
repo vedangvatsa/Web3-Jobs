@@ -50,21 +50,3 @@ DeFi's innovation comes with significant risks.
 
 DeFi is the economic heart of the **[Web3](/what-is-web3)** ecosystem. It has demonstrated the power of building open, transparent, and programmable financial systems. While the space is still maturing and the risks are high, DeFi is a clear glimpse into a future where finance is more accessible, efficient, and user-controlled. It has moved crypto beyond simple speculation and has created a vibrant, multi-billion dollar on-chain economy with a growing demand for skilled professionals, from **[DeFi developers](/defi-careers)** to **[quantitative analysts](/a-day-in-the-life-of-a-defi-quant)**.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the difference between DeFi and a regular bank?
-A bank is a centralized, trusted intermediary. **[DeFi](/what-is-defi)** protocols replace this intermediary with transparent, automated **[smart contracts](/what-are-smart-contracts)** on a blockchain. This creates a system that is open to anyone and not controlled by a single entity.
-
-### 2. Is DeFi safe?
-DeFi is an experimental and high-risk space. While top protocols are heavily audited, hacks and exploits are common. It is crucial to only use well-established protocols and never invest more than you are willing to lose.
-
-### 3. What is "TVL"?
-TVL stands for "Total Value Locked." It is a key metric in DeFi that represents the total value of all assets that users have deposited into a protocol. It's used as a general measure of the protocol's size and user trust.
-
-### 4. What is a DEX?
-A DEX, or Decentralized Exchange, is a peer-to-peer cryptocurrency exchange built on the blockchain. Unlike centralized exchanges like Coinbase, a DEX allows users to trade directly from their own wallets without giving up custody of their funds.
-
-### 5. How can I learn more about a career in DeFi?
-The DeFi space has a wide range of job opportunities. Our guide on **[exploring careers in Decentralized Finance](/defi-careers)** provides a detailed overview of the roles available, from engineering to risk management.

@@ -52,21 +52,3 @@ An STO is a formal and regulated process that is very different from a permissio
 
 STOs represent a crucial bridge between the worlds of traditional finance (TradFi) and decentralized finance (DeFi). While they sacrifice the permissionless nature of early crypto projects, they offer a compliant and secure path for bringing real-world assets and traditional financial instruments onto the blockchain, which could unlock trillions of dollars in value for the Web3 ecosystem.
 
----
-
-## Frequently Asked Questions
-
-### 1. What is the main difference between an STO and an ICO?
-The main difference is regulation. An **[ICO (Initial Coin Offering)](/what-is-an-initial-coin-offering)** was typically an unregulated sale of a "utility token." An STO is a regulated sale of a "security token" that must comply with securities laws.
-
-### 2. Are security tokens only for accredited investors?
-Often, yes. To comply with regulations and avoid the extensive requirements of a full public offering, many STOs are structured as private placements that are only open to accredited or institutional investors.
-
-### 3. What is a "utility token"?
-A utility token is designed to provide access to a product or service within a specific network (e.g., FIL is used to pay for storage on the Filecoin network). The line between utility and security tokens is often blurry and a major point of regulatory debate.
-
-### 4. What are the advantages of tokenizing a real-world asset like real estate?
-Tokenizing real estate allows for **fractional ownership** (making it more accessible) and can create **greater liquidity** by allowing those fractional shares to be traded on a 24/7 digital marketplace. For more, see our guide on **[Web3 real estate](/web3-real-estate)**.
-
-### 5. Can security tokens be traded on regular crypto exchanges?
-No. To trade security tokens, an exchange must have a specific license to operate as a security token exchange or an alternative trading system (ATS). This is why the market for security tokens is still separate from the main crypto market.
