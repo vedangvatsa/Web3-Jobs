@@ -1,4 +1,5 @@
 
+
 export interface Job {
   id: string;
   title: string;
@@ -8,54 +9,100 @@ export interface Job {
   source: string;
 }
 
-// Represents a piece of text that can be styled (e.g., bold, italic)
-type StyledText = {
-  type: 'text';
-  value: string;
-  style?: 'bold' | 'italic';
-};
-
-// Represents a hyperlink
-type Link = {
-  type: 'link';
-  href: string;
-  value: string;
-};
-
-// Represents a list item, which can contain text or links
-type ListItem = {
-  type: 'li';
-  children: (StyledText | Link)[];
-};
-
-// Represents a paragraph within a blockquote
-type BlockquoteParagraph = {
-    type: 'p';
-    children: (StyledText | Link)[];
-}
-
-// A block of content can be a paragraph, heading, list, image, or blockquote
-type ContentBlock = {
-  type: 'p' | 'h2' | 'h3' | 'ul';
-  children: (StyledText | Link | ListItem)[];
-} | {
-    type: 'blockquote';
-    children: BlockquoteParagraph[];
-} | {
-  type: 'image';
-  src: string;
-  alt: string;
-  caption?: string;
-  'data-ai-hint'?: string;
-};
-
-// The entire content of an article is an array of these blocks
-export type ArticleContent = ContentBlock[];
-
 export interface Article {
   slug: string;
   title: string;
   image: string;
   description: string;
-  content: ArticleContent;
+  content: string;
+  category: string;
+  'data-ai-hint']?: string;
+}
+
+export interface NewsItem {
+  title: string;
+  link: string;
+  pubDate: string;
+  creator: string;
+  contentSnippet: string;
+  source: string;
+}
+
+export interface DigitalNomadVisa {
+  country: string;
+  continent: 'Europe' | 'Asia' | 'North America' | 'South America' | 'Africa' | 'Oceania';
+  minIncome: number; // Monthly income in USD
+  visaLength?: string; // Add optional visaLength
+  description: string;
+  requirements: string[];
+}
+
+export interface QuizQuestion {
+  id: number;
+  question: string;
+  options: {
+    a: string;
+    b: string;
+  };
+  weights: {
+    a: { [key: string]: number };
+    b: { [key:string]: number };
+  };
+}
+
+export interface Web3RoleProfile {
+    title: string;
+    description: string;
+    link: string;
+}
+
+export interface QuizResult {
+    archetype: string;
+    description: string;
+    traits: string[];
+    roles: Web3RoleProfile[];
+}
+
+export interface ResumeData {
+  name: string;
+  title: string;
+  email: string;
+  phone?: string;
+  website?: string;
+  github?: string;
+  twitter?: string;
+  handle?: string;
+  summary: string;
+  contributions: {
+    project: string;
+    role: string;
+    description: string;
+    link?: string;
+  }[];
+  experience: {
+    company: string;
+    role: string;
+    date: string;
+    description: string;
+  }[];
+  education: {
+    institution: string;
+    degree: string;
+    date: string;
+  }[];
+  technicalSkills: string;
+  generalSkills: string;
+}
+
+export interface JobDescriptionData {
+    jobTitle: string;
+    companyName: string;
+    location: string;
+    jobType: string;
+    salaryRange?: string;
+    aboutCompany: string;
+    aboutRole: string;
+    responsibilities: { value: string }[];
+    qualifications: { value: string }[];
+    preferredQualifications?: { value?: string }[];
 }

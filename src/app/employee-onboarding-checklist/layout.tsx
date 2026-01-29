@@ -1,0 +1,37 @@
+
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Web3 Employee Onboarding Checklist | Free Template',
+  description: 'A comprehensive checklist for onboarding new hires into a Web3 company, covering culture, security, role-specific training, and more.',
+  alternates: {
+    canonical: '/employee-onboarding-checklist',
+  },
+  openGraph: {
+    title: 'Web3 Employee Onboarding Checklist | Free Template',
+    description: 'Ensure a smooth onboarding for your new Web3 hires with our comprehensive checklist. Covers culture, security, and role-specific training.',
+    url: 'https://hashtagweb3.com/employee-onboarding-checklist',
+    images: [
+      {
+        url: 'https://hashtagweb3.com/og-image-tools.png',
+        width: 1200,
+        height: 630,
+        alt: 'Web3 Employee Onboarding Checklist',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Web3 Employee Onboarding Checklist | Free Template',
+    description: 'The ultimate checklist for onboarding new talent in the Web3 space.',
+    images: ['https://hashtagweb3.com/og-image-tools.png'],
+  },
+};
+
+export default function EmployeeOnboardingChecklistLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return <>{children}</>;
+}
