@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/66311483-aml-fraud-analyst#content",
+    "title": "AML Fraud Analyst",
+    "company": "Kast",
+    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/66311483-aml-fraud-analyst#content",
+    "date": "2026-01-29T13:55:31.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/66307825-intel-ops-contractor#content",
+    "title": "Intel Ops Contractor",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/66307825-intel-ops-contractor#content",
+    "date": "2026-01-29T13:33:11.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b68a3dbf-9f79-43ee-8390-591298cf1d01&ccId=19000101_000001&jobId=592975&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Staff Engineer, Markets",
+    "company": "Bakkt",
+    "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b68a3dbf-9f79-43ee-8390-591298cf1d01&ccId=19000101_000001&jobId=592975&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-01-29T13:02:26.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/everstake/jobs/66296596-accountant#content",
+    "title": "Accountant",
+    "company": "Everstake",
+    "link": "https://jobs.solana.com/companies/everstake/jobs/66296596-accountant#content",
+    "date": "2026-01-29T12:13:01.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/66296063-dao-community-manager#content",
+    "title": "DAO Community Manager",
+    "company": "1Inch",
+    "link": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/66296063-dao-community-manager#content",
+    "date": "2026-01-29T11:16:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/66296064-social-media-manager#content",
+    "title": "Social Media Manager",
+    "company": "1Inch",
+    "link": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/66296064-social-media-manager#content",
+    "date": "2026-01-29T11:01:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
     "id": "https://www.coinbase.com/careers/positions/7569277?gh_jid=7569277",
     "title": "Senior Staff Machine Learning Engineer, Risk ML",
     "company": "Coinbase",
@@ -1414,29 +1462,5 @@
     "link": "https://jobs.avax.network/companies/tenderly/jobs/65176795-customer-success-manager#content",
     "date": "2026-01-14T15:06:02.000Z",
     "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://careers.hedera.community/companies/hashgraph-2/jobs/65149589-senior-site-reliability-engineer#content",
-    "title": "Senior Site Reliability Engineer",
-    "company": "Hashgraph",
-    "link": "https://careers.hedera.community/companies/hashgraph-2/jobs/65149589-senior-site-reliability-engineer#content",
-    "date": "2026-01-14T12:47:41.000Z",
-    "source": "Jobs | Hedera Hashgraph Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/galxe/jobs/65150810-growth-marketing-manager#content",
-    "title": "Growth Marketing Manager",
-    "company": "Galxe",
-    "link": "https://jobs.arbitrum.io/companies/galxe/jobs/65150810-growth-marketing-manager#content",
-    "date": "2026-01-14T12:23:57.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/65132873-senior-site-reliability-engineer#content",
-    "title": "Senior Site Reliability Engineer",
-    "company": "Hedera Hashgraph",
-    "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/65132873-senior-site-reliability-engineer#content",
-    "date": "2026-01-14T11:47:26.000Z",
-    "source": "Jobs | Hedera Hashgraph Job Board"
   }
 ]
