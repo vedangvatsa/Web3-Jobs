@@ -12,6 +12,7 @@
     "node": "20"
   },
   "dependencies": {
+    "@genkit-ai/googleai": "^1.28.0",
     "@hookform/resolvers": "^3.6.0",
     "@radix-ui/react-accordion": "1.2.0",
     "@radix-ui/react-checkbox": "1.1.1",
@@ -35,6 +36,7 @@
     "embla-carousel-autoplay": "^8.1.5",
     "embla-carousel-react": "^8.1.5",
     "framer-motion": "^11.0.8",
+    "genkit": "^1.28.0",
     "gray-matter": "^4.0.3",
     "isomorphic-dompurify": "^2.35.0",
     "jspdf": "^2.5.1",
@@ -48,6 +50,7 @@
     "remark": "^15.0.1",
     "remark-html": "^16.0.1",
     "rss-parser": "^3.13.0",
+    "schema-dts": "^1.1.5",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.22.4"

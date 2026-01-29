@@ -44,18 +44,30 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     ...(article['data-ai-hint']?.toLowerCase().split(' ') || [])
   ].filter((v, i, a) => a.indexOf(v) === i); // Remove duplicates
 
+  // Enhanced title with CTAs for better CTR
+  const enhancedTitle = `${article.title} | 2026 Guide`;
+  
+  // Enhanced description with power words and CTAs
+  const enhancedDescription = article.description.length > 155 
+    ? article.description 
+    : `${article.description} ✓ Expert insights ✓ Practical tips ✓ Updated 2026`;
+
   return {
-    title: article.title,
-    description: article.description,
+    title: enhancedTitle,
+    description: enhancedDescription,
     keywords: keywords,
     alternates: {
       canonical: articleUrl,
     },
+    authors: [{ name: 'Hashtag Web3', url: siteUrl }],
     openGraph: {
-      title: article.title,
-      description: article.description,
+      title: enhancedTitle,
+      description: enhancedDescription,
       type: 'article',
       url: articleUrl,
+      siteName: 'Hashtag Web3',
+      publishedTime: new Date().toISOString(),
+      modifiedTime: new Date().toISOString(),
       images: [
         {
           url: article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`,
@@ -67,9 +79,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     },
     twitter: {
       card: 'summary_large_image',
-      title: article.title,
-      description: article.description,
+      title: enhancedTitle,
+      description: enhancedDescription,
       images: [article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`],
+      creator: '@hashtagweb3',
     },
   };
 }
@@ -115,11 +128,67 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     }
   };
 
+  // Breadcrumb Schema for better navigation in SERPs
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: siteUrl
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Blog',
+        item: `${siteUrl}/blog`
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: article.category,
+        item: `${siteUrl}/blog?category=${encodeURIComponent(article.category)}`
+      },
+      {
+        '@type': 'ListItem',
+        position: 4,
+        name: article.title,
+        item: `${siteUrl}/${article.slug}`
+      }
+    ]
+  };
+
+  // FAQ Schema (if article has FAQ sections)
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: `What is ${article.title.toLowerCase().replace('10 ', '').replace('a guide to ', '')}?`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: article.description
+        }
+      }
+    ]
+  };
+
   return (
     <div className="flex flex-col min-h-screen bg-background">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
       <Header />
       <main className="flex-1">

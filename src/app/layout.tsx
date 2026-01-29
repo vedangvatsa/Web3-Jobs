@@ -85,7 +85,7 @@ export default async function RootLayout({
       '@type': 'SearchAction',
       target: `${siteConfig.url}/blog?q={search_term_string}`,
       'query-input': 'required name=search_term_string',
-    },
+    } as any,
   };
 
   const organizationSchema: Organization = {
