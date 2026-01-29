@@ -18,21 +18,6 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
-        source: '/salary-calculator',
-        destination: '/',
-        permanent: true,
-      },
-      {
-        source: '/interview-questions',
-        destination: '/',
-        permanent: true,
-      },
-      {
-        source: '/web3-career-quiz',
-        destination: '/',
-        permanent: true,
-      },
-      {
         source: '/:path*',
         has: [
           {
