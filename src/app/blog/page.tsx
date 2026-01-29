@@ -8,7 +8,7 @@ import { Suspense } from 'react';
 
 export default async function PlaybookIndexPage() {
   const allArticles = await getAllArticles();
-  const categories = ['All', ...[...new Set(allArticles.map(a => a.category))].sort()];
+  const categories = ['All', ...[...new Set(allArticles.map(a => a.category))].filter(c => c !== 'Web3 Technology').sort()];
   
   const siteUrl = 'https://hashtagweb3.com';
   const blogSchema: CollectionPage = {
