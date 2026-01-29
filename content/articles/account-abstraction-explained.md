@@ -10,7 +10,7 @@ data-ai-hint: "blockchain ethereum"
 
 For Web3 to achieve mass adoption, it must overcome a significant user experience hurdle: the complexity and unforgiving nature of crypto wallets. The concepts of seed phrases, gas fees, and signing every single transaction are foreign and intimidating to the average user. **Account Abstraction (AA)** is a technical proposal for the Ethereum ecosystem that aims to solve these problems by making user accounts smarter, more flexible, and more user-friendly.
 
-This guide will break down the concept of Account Abstraction, with a focus on the leading proposal, **EIP-4337**, and explain what it means for the future of Web3.
+This guide will break down the concept of Account Abstraction, with a focus on the leading proposal, **EIP-4337**, and explain what it means for the future of Web3. For [smart contract developers](/smart-contract-developer) and [full-stack builders](/full-stack-web3-developer), understanding AA is essential for building next-generation user experiences.
 
 ### The Problem: The Limitations of EOAs
 
