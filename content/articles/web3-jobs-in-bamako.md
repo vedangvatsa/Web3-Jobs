@@ -254,8 +254,8 @@ A: Weekly minimum. Post on Twitter 2-3x/week. Engage in Discord daily. Attend lo
 
 **Related Career Guides:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)
-- [How to Find a Mentor in Web3](how-to-find-a-mentor-in-web3)
-- [First Impressions at Work](first-impression-at-work)
+- How to Find a Mentor in Web3
+- First Impressions at Work
 
 ### Your Next Step: Find a Web3 Job
 

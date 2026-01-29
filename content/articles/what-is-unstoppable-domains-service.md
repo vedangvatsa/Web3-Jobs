@@ -19,7 +19,7 @@ However, instead of just `.eth` domains, Unstoppable Domains offers a wider vari
 
 1.  **One-Time Purchase, No Renewal Fees:** This is the most significant difference from ENS. When you buy an Unstoppable Domain, you own it forever. There are no annual renewal fees. You pay a one-time registration fee, and the NFT representing the domain is yours to control indefinitely.
 2.  **A Universal Username for Web3:** An Unstoppable Domain acts as a central hub for your digital identity. You can link over 275 different cryptocurrency addresses to a single domain. When someone wants to send you crypto, they can simply type `yourname.crypto` into a supported wallet, and the wallet will automatically look up the correct address for the specific currency they are sending.
-3.  **Decentralized Websites:** You can build a censorship-resistant website and point your Unstoppable Domain to it. These websites are typically hosted on a decentralized storage network like the **[InterPlanetary File System (IPFS)](/ipfs-and-decentralized-storage-explained)**. This means your website is not hosted on a central server and cannot be taken down by a single company.
+3.  **Decentralized Websites:** You can build a censorship-resistant website and point your Unstoppable Domain to it. These websites are typically hosted on a decentralized storage network like the **InterPlanetary File System (IPFS)**. This means your website is not hosted on a central server and cannot be taken down by a single company.
 4.  **Login to dApps:** An increasing number of dApps are integrating Unstoppable Domains as a login method. This allows you to use your domain as a universal, portable identity across the Web3 ecosystem.
 
 ### How Does it Work?

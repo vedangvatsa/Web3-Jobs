@@ -27,7 +27,7 @@ The foundational principle of building a brand in Web3 is "Show, Don't Tell." Ev
 -   **Web2 Claim:** "I am a proficient Solidity developer."
 -   **Web3 Proof:** "I wrote a gas-optimized staking contract that was forked 50 times on GitHub and holds a small amount of real value on a testnet. [Link to GitHub repo] [Link to Etherscan]."
 
-This verifiable "proof of work" is the bedrock of your brand. It's authentic, credible, and cannot be faked. For more on this, see our guide on [how to get a Web3 job with no experience](/how-to-get-a-job-with-no-experience).
+This verifiable "proof of work" is the bedrock of your brand. It's authentic, credible, and cannot be faked. For more on this, see our guide on how to get a Web3 job with no experience.
 
 ### Step 1: Curate Your On-Chain Identity
 

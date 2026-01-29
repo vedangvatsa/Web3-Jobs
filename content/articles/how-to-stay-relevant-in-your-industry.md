@@ -52,13 +52,13 @@ Comfort is the enemy of relevance. You need to constantly put yourself in situat
 
 -   **Raise Your Hand:** Volunteer for the project that no one else wants, especially if it involves a new technology or a new area of the business. This is how you gain experience in new domains.
 -   **Ask for a Stretch Goal:** In your next one-on-one with your manager, say, "I want to challenge myself and develop new skills. Is there a problem facing the team that you don't have a clear solution for yet? I'd love to take a crack at researching it." This shows initiative and a desire for growth.
--   **Embrace Feedback:** Actively [ask for feedback](/how-to-ask-for-feedback-professionally) from your manager and peers. Specifically ask, "What is one skill I could develop that would make me more effective in my role?" This outside perspective can be invaluable for identifying your blind spots.
+-   **Embrace Feedback:** Actively ask for feedback from your manager and peers. Specifically ask, "What is one skill I could develop that would make me more effective in my role?" This outside perspective can be invaluable for identifying your blind spots.
 
 ### 5. Document and Showcase Your Growth
 
 It's not enough to just learn new things; you have to make your growth visible.
 
--   **Keep a "Brag Document":** This is a running log of your accomplishments, big and small. Every time you complete a project, solve a tough problem, or get positive feedback, write it down. This is an invaluable resource when it's time to [update your resume](/when-to-update-your-resume) or [prepare for a performance review](/performance-review-preparation-checklist).
+-   **Keep a "Brag Document":** This is a running log of your accomplishments, big and small. Every time you complete a project, solve a tough problem, or get positive feedback, write it down. This is an invaluable resource when it's time to [update your resume](/when-to-update-your-resume) or prepare for a performance review.
 -   **Build in Public:** If you're learning a new skill, share your journey. Write a blog post about what you've learned. Build a small project and post it on GitHub. This creates public proof of your expertise and initiative.
 
 Staying relevant is an active process. It requires you to be the CEO of your own career, constantly investing in your most important asset: yourself. By building the habits of continuous learning, strategic networking, and proactive skill development, you can ensure that you not only survive but thrive in the ever-changing world of work.

@@ -44,7 +44,7 @@ Without both massive datasets and powerful hardware, deep learning would still b
 
 Deep learning excels at tasks that involve recognizing complex patterns in unstructured data, like images, sound, and text.
 
-*   **Computer Vision**: This is one of the most successful areas of deep learning. It's used for everything from facial recognition on your phone to the systems that allow [autonomous vehicles](/what-is-autonomous-vehicles-technology) to see and understand the world around them.
+*   **Computer Vision**: This is one of the most successful areas of deep learning. It's used for everything from facial recognition on your phone to the systems that allow autonomous vehicles to see and understand the world around them.
 
 *   **Natural Language Processing (NLP)**: Deep learning has revolutionized how computers understand human language. It powers machine translation, spam filtering, sentiment analysis, and the chatbots and [large language models](/large-language-models-explained-simply) that have become so popular.
 

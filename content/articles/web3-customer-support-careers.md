@@ -44,7 +44,7 @@ The core of the job is the same as any support role: helping users solve their p
 
 ### How to Get a Job in Web3 Customer Support
 
-This is one of an excellent entry-level role for those looking to [break into the Web3 industry](/how-to-get-a-job-with-no-experience).
+This is one of an excellent entry-level role for those looking to break into the Web3 industry.
 
 1.  **Become a Power User:** You must be an experienced and confident user of Web3 technology yourself. You cannot guide others through a process you haven't done yourself.
 2.  **Become a Community Helper:** The best way to get hired is to start doing the job for free. Find a project you love, join their Discord, and become one of the most helpful people in the community.

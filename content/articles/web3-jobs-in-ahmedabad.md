@@ -359,8 +359,8 @@ A:
 ### Related Career Guides
 - [Web3 Jobs in Bangalore](web3-jobs-in-bangalore) — India's major hub
 - [Web3 Jobs in Mumbai](web3-jobs-in-mumbai) — India's startup capital
-- [Startup Founder Web3 Guide](web3-startup-founder)
-- [Complete Web3 Skills Guide](web3-skills-guide)
+- Startup Founder Web3 Guide
+- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

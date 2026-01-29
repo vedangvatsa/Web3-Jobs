@@ -20,7 +20,7 @@ The puzzle works like this:
 1.  A miner gathers a set of transactions into a "candidate block."
 2.  They combine the data of this block (including the transactions, a timestamp, and the hash of the previous block) with a nonce.
 3.  They then put this combined data through a **[cryptographic hash function](/understanding-transaction-hashing-in-blockchain)** (like SHA-256 for Bitcoin).
-4.  The goal is to find a hash that is below a certain target value, which is determined by the network's current **[mining difficulty](/what-is-mining-difficulty-adjustment)**. This usually means the hash must start with a specific number of leading zeros.
+4.  The goal is to find a hash that is below a certain target value, which is determined by the network's current **mining difficulty**. This usually means the hash must start with a specific number of leading zeros.
 
 Since the output of a hash function is unpredictable, there is no "smart" way to find the right hash. The only way is to guess. This is where the nonce comes in. Miners will iterate through billions and trillions of different nonces per second, hashing the block data with each new nonce until, by pure chance, they find one that produces a valid hash.
 

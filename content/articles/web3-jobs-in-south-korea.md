@@ -268,9 +268,9 @@ A: Yes, build portfolio part-time; transition when ready.
 - Company websites: Nexon, WeMade, Kakao careers
 
 ### Related Guides
-- [GameFi Developer Career Guide](gamefi-developer)
-- [Smart Contract Developer Guide](smart-contract-developer)
-- [Web3 Business Development Career](web3-bd-career)
+- GameFi Developer Career Guide
+- Smart Contract Developer Guide
+- Web3 Business Development Career
 
 ### Your Next Step
 

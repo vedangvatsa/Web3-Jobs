@@ -19,7 +19,7 @@ But how do you go from being a digital artist to being a successful NFT artist? 
 
 Before you mint your first piece, it's crucial to understand the basics of the technology you're using.
 
--   **Learn about Wallets:** Your crypto wallet (like [MetaMask](/choosing-a-crypto-wallet)) is your identity and your bank account in Web3. Learn how to set one up securely and, most importantly, **how to protect your seed phrase**.
+-   **Learn about Wallets:** Your crypto wallet (like MetaMask) is your identity and your bank account in Web3. Learn how to set one up securely and, most importantly, **how to protect your seed phrase**.
 -   **Get Some Crypto:** You will need a small amount of cryptocurrency (usually ETH) to pay the "gas fees" required to mint your NFT onto the blockchain. Use a reputable exchange like Coinbase to purchase some and send it to your MetaMask wallet.
 -   **Understand Gas Fees:** Gas is the fee you pay to the blockchain network to process your transaction. These fees can fluctuate based on network congestion. It's wise to check a gas tracker (like Etherscan Gas Tracker) to find a time when fees are lower.
 

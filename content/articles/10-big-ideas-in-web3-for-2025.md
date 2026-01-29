@@ -13,10 +13,10 @@ category: "Industry Insights"
 These big ideas are creating massive career opportunities. Explore roles that align with your interests:
 
 - **[AI & Web3 Engineering Careers](/ai-and-web3-engineering-careers)** - Build AI agents and autonomous systems
-- **[DePIN Infrastructure Engineer](/depin-infrastructure-engineer)** - Physical infrastructure networks  
-- **[Smart Contract Developer Guide](/smart-contract-developer)** - Core blockchain development
+- **DePIN Infrastructure Engineer** - Physical infrastructure networks  
+- **Smart Contract Developer Guide** - Core blockchain development
 - **[Web3 Product Manager Careers](/exploring-web3-project-manager-career-paths)** - Lead innovative Web3 products
-- **[Full-Stack Web3 Developer](/full-stack-web3-developer)** - Build complete dApp solutions
+- **Full-Stack Web3 Developer** - Build complete dApp solutions
 - **[Web3 Salary Calculator](/salary-calculator)** - Estimate earnings in emerging roles
 ## Related Articles
 

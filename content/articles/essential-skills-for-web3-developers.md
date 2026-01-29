@@ -19,7 +19,7 @@ The most sought-after developers possess a unique blend of deep technical knowle
 
 ### Foundational Technical Skills
 
-**1. [Solidity](/smart-contract-developer) Mastery:**
+**1. Solidity Mastery:**
 This is non-negotiable. Solidity is the primary language for smart contract development on Ethereum and the vast ecosystem of EVM-compatible chains. You need to move beyond the basics and master its nuances, including data locations (`storage`, `memory`, `calldata`), design patterns (like Checks-Effects-Interactions), and the latest features.
 
 **2. Smart Contract Development Frameworks ([Foundry](/essential-web3-developer-tools) & Hardhat):**
@@ -28,7 +28,7 @@ Writing Solidity is one thing; building, testing, and deploying a full-fledged d
 *   **Hardhat:** A JavaScript-based environment that is still widely used and has a large ecosystem of plugins.
 You should be proficient in at least one, and ideally familiar with both.
 
-**3. Frontend Integration ([Ethers.js / Viem](/full-stack-web3-developer)):**
+**3. Frontend Integration (Ethers.js / Viem):**
 A smart contract is useless without a user interface. You need to understand how to connect a frontend application (typically built in React/Next.js) to the blockchain. This involves using JavaScript libraries like Ethers.js or its modern successor, Viem, to read data from the chain, prompt users to sign transactions with their wallets, and respond to on-chain events.
 
 ### Security and Architecture

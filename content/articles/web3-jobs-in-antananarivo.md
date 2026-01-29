@@ -143,7 +143,7 @@ A: Realistic timeline: 8-12 months of consistent learning and building. Some rea
 A: Start with full-stack (JavaScript/React). It's more broadly applicable and has more job opportunities. Learn Solidity once you understand blockchain fundamentals. Most entry-level roles want full-stack more than pure Solidity.
 
 **Q: How do I find mentors in Antananarivo?**
-A: Online communities. Tweet your progress. Join Discord servers. Ask questions. Real mentors reward curiosity and initiative. Offer to help others—mentorship flows both ways. See our guide on [finding a Web3 mentor](how-to-find-a-mentor-in-web3).
+A: Online communities. Tweet your progress. Join Discord servers. Ask questions. Real mentors reward curiosity and initiative. Offer to help others—mentorship flows both ways. See our guide on finding a Web3 mentor.
 
 **Q: Is ReFi really viable for Madagascar?**
 A: Absolutely. Madagascar has 5% of Earth's species. Global conservation budgets are millions. Blockchain transparency for conservation funding is a genuine need. This is not hype—it's a real problem Web3 solves.
@@ -179,8 +179,8 @@ A: Community Manager, Project Manager, Operations, Content Writer, Designer, Res
 
 **Related Articles:**
 - [Why Web3 Career Growth Matters](web3-career-growth-and-development)
-- [How to Find a Mentor in Web3](how-to-find-a-mentor-in-web3)
-- [Building Strong Professional Relationships](building-relationships-in-web3)
+- How to Find a Mentor in Web3
+- Building Strong Professional Relationships
 
 ### Your Next Step: Find a Web3 Job
 

@@ -40,7 +40,7 @@ To create a paper wallet, a user would typically use an open-source key generati
 -   **Physical Vulnerability:** The biggest weakness is the medium itself. Paper is fragile. It can be easily lost, destroyed by fire or water, or fade over time.
 -   **Risk of Human Error:** The process of creating and using a paper wallet is prone to error. If you don't generate the keys on a secure, offline computer, you could be exposing them. If you make a mistake when sweeping the key, you could lose your funds.
 -   **Not User-Friendly:** They are cumbersome to use. You can't easily spend a small portion of the funds; you typically have to sweep the entire balance at once.
--   **No Seed Phrase:** Unlike modern wallets that use a [hierarchical deterministic (HD)](/hierarchical-deterministic-wallets-explained) structure, a simple paper wallet is just a single key pair. It doesn't have a recovery seed phrase that can generate a new set of keys.
+-   **No Seed Phrase:** Unlike modern wallets that use a hierarchical deterministic (HD) structure, a simple paper wallet is just a single key pair. It doesn't have a recovery seed phrase that can generate a new set of keys.
 
 ## The Modern Alternative: Hardware Wallets
 

@@ -30,9 +30,9 @@ This is the foundation upon which everything else is built. You cannot build a g
 How you communicate is just as important as what you accomplish.
 
 -   **Be Clear and Concise:** Whether in an email, a Slack message, or a meeting, get to the point. Respect other people's time by being clear and well-prepared.
--   **Listen Actively:** Communication is a two-way street. Pay attention when others are speaking. Ask clarifying questions. Make people feel heard. This is a crucial skill for resolving [workplace conflict](/workplace-conflict-resolution-strategies).
+-   **Listen Actively:** Communication is a two-way street. Pay attention when others are speaking. Ask clarifying questions. Make people feel heard. This is a crucial skill for resolving workplace conflict.
 -   **Maintain a Positive and Constructive Tone:** Avoid gossip, complaining, and negativity. Frame feedback constructively. Be the person who focuses on solutions, not problems. This doesn't mean being fake; it means being a professional.
--   **Practice Asynchronous Communication Skills:** In a remote or hybrid world, your ability to communicate clearly in writing is paramount. Write clear project updates, document your work, and master the art of the well-crafted email. Check out our tips on [async communication skills](/async-communication-skills-for-remote-teams).
+-   **Practice Asynchronous Communication Skills:** In a remote or hybrid world, your ability to communicate clearly in writing is paramount. Write clear project updates, document your work, and master the art of the well-crafted email. Check out our tips on async communication skills.
 
 ### 3. Curate Your Digital Footprint
 
@@ -41,7 +41,7 @@ In today's world, your online presence is often the first impression you make. Y
 -   **Google Yourself:** See what comes up when you search for your name. This is what recruiters and potential partners will see.
 -   **Optimize Your LinkedIn Profile:** Your LinkedIn profile is your digital resume and professional storefront. It should have a professional photo, a compelling headline, and a detailed summary that tells your career story. Keep your experience and skills updated.
 -   **Clean Up Your Social Media:** Review the privacy settings on your personal social media accounts. Even if your accounts are private, be mindful of what you post. A single ill-advised public post can damage a reputation that took years to build. As a rule of thumb, don't post anything online that you wouldn't be comfortable with your boss or a future employer seeing.
--   **Build a Professional Online Presence (Optional but Powerful):** If you're in a field like tech or marketing, consider creating a professional Twitter (X) account or a personal blog where you share insights about your industry. This is a powerful way to build a reputation as a thought leader. Similarly, a well-maintained [GitHub profile](/github-profile-setup-for-developers) is essential for developers.
+-   **Build a Professional Online Presence (Optional but Powerful):** If you're in a field like tech or marketing, consider creating a professional Twitter (X) account or a personal blog where you share insights about your industry. This is a powerful way to build a reputation as a thought leader. Similarly, a well-maintained GitHub profile is essential for developers.
 
 ### 4. Build and Nurture Your Network
 
@@ -55,7 +55,7 @@ Your reputation is largely defined by what others say about you when you're not 
 
 -   **Manage Your Emotions:** Everyone has bad days, but it's important to remain professional. Don't let your stress or frustration spill over onto your colleagues.
 -   **Be Coachable:** Be open to feedback. See it as a gift that can help you grow, not as a personal attack. People who are defensive or dismissive of feedback quickly earn a reputation for being difficult to work with.
--   **Understand Office Politics:** Every workplace has an informal social structure. Understanding how decisions are really made and who the key influencers are is important. This doesn't mean being manipulative; it means being observant and strategic. Our [guide to navigating office politics](/office-politics-navigation-guide) can help.
+-   **Understand Office Politics:** Every workplace has an informal social structure. Understanding how decisions are really made and who the key influencers are is important. This doesn't mean being manipulative; it means being observant and strategic. Our guide to navigating office politics can help.
 
 Your professional reputation is a long-term game. It's built through thousands of small, consistent actions over time. By focusing on excellence, communicating professionally, managing your digital presence, and building strong relationships, you can cultivate a powerful reputation that will serve as one of your greatest career assets.
 

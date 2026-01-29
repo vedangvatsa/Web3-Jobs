@@ -15,7 +15,7 @@ In the world of Ethereum, your identity is your public wallet address. This is a
 
 The **Ethereum Name Service (ENS)** is a decentralized system designed to solve this problem. It allows you to register a simple, human-readable name (like `yourname.eth`) and link it to your Ethereum wallet address and other information.
 
-Think of ENS as the **[Decentralized Name System (DNS)](/what-is-decentralized-name-system-dns)** of Web3. Just as DNS maps a memorable domain name (like `google.com`) to a complex IP address, ENS maps a memorable `.eth` name to a complex Ethereum address.
+Think of ENS as the **Decentralized Name System (DNS)** of Web3. Just as DNS maps a memorable domain name (like `google.com`) to a complex IP address, ENS maps a memorable `.eth` name to a complex Ethereum address.
 
 ### How Does ENS Work?
 

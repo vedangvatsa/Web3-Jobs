@@ -44,7 +44,7 @@ A great Web3 technical writer is a rare blend of technical aptitude and communic
 
 ### How to Start a Career as a Web3 Technical Writer
 
-This is one of the most accessible roles for those looking to [break into the industry](/how-to-get-a-job-with-no-experience).
+This is one of the most accessible roles for those looking to break into the industry.
 
 1.  **Start with a Project You Love:** Pick a Web3 protocol that you already use and admire.
 2.  **Identify a Gap in Their Docs:** Go through their documentation as if you were a new user or developer. Where do you get stuck? What is confusing? What is missing?

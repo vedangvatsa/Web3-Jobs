@@ -14,7 +14,7 @@ data-ai-hint: "internet technology"
 
 
 
-Web3 represents a fundamental shift in how the internet works and who controls it. If you've heard the term but weren't sure what it actually means, you're not alone. The concept gets thrown around in conversations about [cryptocurrency](/what-is-cryptocurrency) and [blockchain](/what-is-a-blockchain), often wrapped in hype that obscures the actual technology underneath.
+Web3 represents a fundamental shift in how the internet works and who controls it. If you've heard the term but weren't sure what it actually means, you're not alone. The concept gets thrown around in conversations about cryptocurrency and [blockchain](/what-is-a-blockchain), often wrapped in hype that obscures the actual technology underneath.
 
 Here's the core idea: today's internet (Web2) is built around centralized companies that own and control platforms. Google owns your search history. Facebook owns your social network. Amazon owns your shopping data. These companies extract value from your activity while controlling what you can and can't do on their platforms. Web3 proposes a different model where users have more direct ownership and control.
 
@@ -86,7 +86,7 @@ In Web3, you could use a lending protocol like Aave or Compound. You deposit you
 - Requires no trust in a company (trust in the code instead)
 - Cannot freeze your account—you control your private keys
 
-This works through [smart contracts](/what-is-a-smart-contract). The contract automatically holds collateral from borrowers, calculates interest, and distributes it to lenders.
+This works through smart contracts. The contract automatically holds collateral from borrowers, calculates interest, and distributes it to lenders.
 
 ### Example 2: DAOs (Decentralized Autonomous Organizations)
 
@@ -114,7 +114,7 @@ DeFi gets the most press, but Web3 principles apply to many domains.
 
 **Identity:** Web3 enables self-sovereign identity. Your identity is tied to your cryptographic keys, not a company's database. You can prove your identity without revealing unnecessary information.
 
-**Gaming:** [Web3 gaming](/inside-web3-gaming-guilds-the-future-of-play-and-earn) lets players own in-game assets. You can sell items you earn, transfer them between games, or trade them for real money.
+**Gaming:** Web3 gaming lets players own in-game assets. You can sell items you earn, transfer them between games, or trade them for real money.
 
 **Supply Chain:** Transparency of blockchain means you can track where products come from, verify authenticity, and ensure ethical sourcing—all verifiable and unchangeable.
 

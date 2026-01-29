@@ -76,4 +76,4 @@ A prompt is the input, usually text, that you give to a generative AI model to t
 It's more likely to augment it. Many creative professionals are using generative AI as a tool to speed up their workflow, brainstorm ideas, and explore possibilities they might not have thought of on their own. It can be a powerful creative partner, but it still relies on a human operator to guide it and provide the creative vision.
 
 **5. How is this technology related to the metaverse?**
-Generative AI could be a key technology for building the [metaverse](/what-is-metaverse-technology-explained). It could be used to rapidly create the vast amounts of 3D content, environments, and virtual objects needed to populate these virtual worlds. Instead
+Generative AI could be a key technology for building the metaverse. It could be used to rapidly create the vast amounts of 3D content, environments, and virtual objects needed to populate these virtual worlds. Instead

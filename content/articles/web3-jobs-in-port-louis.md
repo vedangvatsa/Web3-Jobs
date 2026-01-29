@@ -361,10 +361,10 @@ A:
 - Bankless newsletter
 
 ### Related Career Guides
-- [Crypto Fund Manager Career Guide](crypto-fund-manager)
-- [FinTech Web3 Careers](fintech-web3-careers)
-- [Crypto Compliance & Legal Careers](crypto-compliance-careers)
-- [Complete Web3 Skills Guide](web3-skills-guide)
+- Crypto Fund Manager Career Guide
+- FinTech Web3 Careers
+- Crypto Compliance & Legal Careers
+- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

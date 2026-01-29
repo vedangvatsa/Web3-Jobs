@@ -46,7 +46,7 @@ Salaries for remote Web3 jobs are highly competitive, though they can vary based
 -   **What they do:** Define the product vision and roadmap, bridging the gap between developers and users.
 -   **Average Senior Salary:** $130,000 - $190,000+ USD per year.
 
-> **Note on Compensation:** These figures are for base salary. A significant portion of compensation in Web3 comes in the form of token grants, which can often equal or exceed the base salary in potential value. For a full breakdown, see our guide on **[Web3 salary negotiation](/web3-career-salary-negotiation)**.
+> **Note on Compensation:** These figures are for base salary. A significant portion of compensation in Web3 comes in the form of token grants, which can often equal or exceed the base salary in potential value. For a full breakdown, see our guide on **Web3 salary negotiation**.
 
 ### How to Land a Remote Web3 Job
 

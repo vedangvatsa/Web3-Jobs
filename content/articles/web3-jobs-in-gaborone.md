@@ -200,8 +200,8 @@ A: Build remote skills first; land international role; live in Gaborone (low cos
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)
-- [How to Find a Mentor in Web3](how-to-find-a-mentor-in-web3)
-- [Building Strong Professional Relationships](building-relationships-in-web3)
+- How to Find a Mentor in Web3
+- Building Strong Professional Relationships
 
 ### Your Next Step: Find a Web3 Job
 

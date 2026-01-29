@@ -13,7 +13,7 @@ category: "Career Guides"
 
 The Web3 revolution is not just decentralizing technology; it's decentralizing the workplace itself. More than any other industry, Web3 is built on a remote-first foundation. The ethos of decentralization, which values global, permissionless access, naturally extends to its workforce. Teams are spread across every continent, and collaboration happens asynchronously across dozens of time zones. For many, this is the ultimate dream: the ability to work on cutting-edge technology from anywhere in the world.
 
-But navigating the [remote Web3 job market](/remote-web3-jobs) requires a different approach than traditional remote work. The culture, communication tools, and hiring processes are unique to this crypto-native world. It's not enough to be good at your job; you also need to be a masterful remote collaborator, an excellent written communicator, and comfortable with a high degree of autonomy.
+But navigating the remote Web3 job market requires a different approach than traditional remote work. The culture, communication tools, and hiring processes are unique to this crypto-native world. It's not enough to be good at your job; you also need to be a masterful remote collaborator, an excellent written communicator, and comfortable with a high degree of autonomy.
 
 This guide will provide a comprehensive roadmap for anyone looking to find and succeed in a remote job in Web3. We'll cover the essential "soft skills" you'll need to thrive, how to set up your workspace for success, and what makes the Web3 remote experience unique.
 
@@ -57,7 +57,7 @@ Your physical environment matters. Optimizing your setup for remote work is a cr
 - **Audio/Video:** A good quality external webcam and microphone are essential for professional video calls. Good lighting is equally important.
 - **Separation:** If possible, have a dedicated workspace that is separate from your living area. This helps create a mental boundary between work and personal life.
 
-For a detailed checklist, see our [Remote Work Readiness Checklist](/remote-work-checklist).
+For a detailed checklist, see our Remote Work Readiness Checklist.
 
 ### Navigating the Remote Interview Process
 

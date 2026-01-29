@@ -52,7 +52,7 @@ A Web3 lawyer operates at the edge of the known legal world. Their work involves
 
 ### How to Start a Legal Career in Web3
 
-1.  **Go Down the Rabbit Hole:** This is the non-negotiable first step. You must become a user. [Set up a wallet](/choosing-a-crypto-wallet), use a DeFi protocol, vote in a DAO. Your first-hand experience is your most important credential.
+1.  **Go Down the Rabbit Hole:** This is the non-negotiable first step. You must become a user. Set up a wallet, use a DeFi protocol, vote in a DAO. Your first-hand experience is your most important credential.
 2.  **Specialize:** The field is too broad to master everything. If you have a background in securities law, become the go-to expert on the Howey Test. If you're an IP lawyer, become an expert in NFT licensing.
 3.  **Build a Public "Proof of Knowledge":** Your resume matters less than your demonstrated expertise.
     -   **Actionable Step:** Start a blog or a Substack newsletter. Write a detailed analysis of the latest SEC enforcement action or a breakdown of the legal questions around a new DAO structure. Your public writing is your best marketing tool.

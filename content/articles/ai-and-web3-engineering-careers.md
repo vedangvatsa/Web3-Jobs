@@ -69,7 +69,7 @@ This is an advanced, interdisciplinary field. The path typically involves master
 
 **Path 1: The AI Expert Learning Web3**
 
-1.  **Start with the Basics:** If you're an experienced ML engineer, first go through a comprehensive Web3 onboarding. Our guide on the [transition from Web2 to Web3](/from-web2-to-web3-developer-transition) is a great starting point.
+1.  **Start with the Basics:** If you're an experienced ML engineer, first go through a comprehensive Web3 onboarding. Our guide on the transition from Web2 to Web3 is a great starting point.
 2.  **Learn Solidity:** Dedicate time to mastering smart contract development. Build a few basic projects to understand the fundamentals.
 3.  **Build a Hybrid Project:** Your portfolio project should bridge your two skillsets.
     -   *Project Idea:* Create a simple dApp where a user can upload an image. Have an off-chain Python script that runs an image classification model on it, and then commits the result (e.g., "This is a cat") to a smart contract on a testnet.

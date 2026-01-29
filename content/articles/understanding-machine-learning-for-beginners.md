@@ -52,7 +52,7 @@ This type of learning is inspired by how animals learn through trial and error. 
 
 Think of training a dog. When it performs a desired action (like sitting), you give it a treat (a reward). When it does something undesirable, it gets a negative outcome. Over time, the dog learns to perform the actions that maximize its rewards.
 
-Reinforcement learning works the same way. An AI learning to play a video game gets a positive reward for scoring points and a negative penalty for losing a life. It will play the game millions of times, trying random actions at first, but gradually learning the sequence of moves that leads to the highest score. This is the technology behind programs like AlphaGo, which defeated the world's best Go players. It's also being explored for controlling robots and [autonomous vehicles](/what-is-autonomous-vehicles-technology).
+Reinforcement learning works the same way. An AI learning to play a video game gets a positive reward for scoring points and a negative penalty for losing a life. It will play the game millions of times, trying random actions at first, but gradually learning the sequence of moves that leads to the highest score. This is the technology behind programs like AlphaGo, which defeated the world's best Go players. It's also being explored for controlling robots and autonomous vehicles.
 
 ### Where is Machine Learning Used in Real Life?
 

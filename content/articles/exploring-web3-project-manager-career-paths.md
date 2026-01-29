@@ -11,9 +11,9 @@ category: "Career Guides"
 
 
 
-As the Web3 ecosystem matures, the need for skilled organizational and operational talent has become just as critical as the need for [technical talent](/smart-contract-developer). While developers build the protocols, it's the **Web3 Project Manager** who ensures that these complex, multi-faceted initiatives are delivered on time and on budget.
+As the Web3 ecosystem matures, the need for skilled organizational and operational talent has become just as critical as the need for technical talent. While developers build the protocols, it's the **Web3 Project Manager** who ensures that these complex, multi-faceted initiatives are delivered on time and on budget.
 
-A Web3 Project Manager's role is a unique blend of traditional project management discipline and a deep understanding of the crypto-native world. They are the conductors of a chaotic orchestra, coordinating the efforts of a global, remote-first team of developers, designers, and community members. For a detailed overview of the role, see our guide on [how to succeed as a Web3 project manager](/how-to-succeed-as-a-web3-project-manager).
+A Web3 Project Manager's role is a unique blend of traditional project management discipline and a deep understanding of the crypto-native world. They are the conductors of a chaotic orchestra, coordinating the efforts of a global, remote-first team of developers, designers, and community members. For a detailed overview of the role, see our guide on how to succeed as a Web3 project manager.
 
 ### The Web3 Project Manager vs. The Traditional Project Manager
 
@@ -47,7 +47,7 @@ For experienced project managers from the Web2 world, the transition is very ach
 1.  **Immerse Yourself:** Go deep down the rabbit hole. Use DeFi, join DAOs, and learn the language and culture of the space.
 2.  **Get Certified:** A certification in Agile or Scrum (like a Certified ScrumMaster - CSM) can be very valuable.
 3.  **Contribute to a DAO:** This is the best way to get experience. Find a DAO and volunteer to help organize a project or a working group. This becomes your "proof of work."
-4.  **Reframe Your Resume:** Tailor your [resume](/how-to-build-a-web3-resume) to highlight your experience managing remote, cross-functional teams and complex technical projects. Emphasize your communication and stakeholder management skills.
+4.  **Reframe Your Resume:** Tailor your resume to highlight your experience managing remote, cross-functional teams and complex technical projects. Emphasize your communication and stakeholder management skills.
 
 ## Complete Salary Guide: Web3 Project Manager Roles
 
@@ -248,9 +248,9 @@ A: Build expertise first (1-2 years); then launch if you have community + thesis
 - DAO job boards (DAOJobs, etc.)
 
 ### Related Guides
-- [Web3 Product Manager Deep Dive](web3-product-management)
-- [DAO Governance Career Guide](dao-governance-careers)
-- [Web3 Startup Career Path](web3-startup-career)
+- Web3 Product Manager Deep Dive
+- DAO Governance Career Guide
+- Web3 Startup Career Path
 
 ### Your Next Step
 

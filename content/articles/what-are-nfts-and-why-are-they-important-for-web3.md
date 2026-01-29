@@ -43,7 +43,7 @@ NFTs are a foundational "money lego" for the new, user-owned internet. They enab
 
 2.  **Empowering the Creator Economy:** NFTs allow digital artists, musicians, and writers to sell their work directly to their audience, bypassing the traditional gatekeepers like galleries, record labels, and publishing houses. The integrated royalty feature also ensures creators continue to benefit as the value of their work grows.
 
-3.  **Composable and Interoperable:** Because NFTs are built on open, permissionless blockchains, they are "composable." This means they can be used as building blocks in other applications. Your NFT art piece could be used as your avatar in a **[metaverse](/what-is-the-connection-between-web3-and-the-metaverse)**, or your rare in-game sword could be used as collateral to take out a loan in a **[DeFi](/what-is-defi)** protocol. This interoperability is a core feature of Web3.
+3.  **Composable and Interoperable:** Because NFTs are built on open, permissionless blockchains, they are "composable." This means they can be used as building blocks in other applications. Your NFT art piece could be used as your avatar in a **metaverse**, or your rare in-game sword could be used as collateral to take out a loan in a **[DeFi](/what-is-defi)** protocol. This interoperability is a core feature of Web3.
 
 4.  **Community and Identity:** NFT collections, particularly PFP (Profile Picture) projects, have become a new way to form digital communities. Owning an NFT from a specific collection acts as a membership card, granting you access to an exclusive community and a shared digital identity.
 

@@ -299,8 +299,8 @@ A: Yes. You don't need venture capital to start. Start with funding from global 
 
 **Related Articles:**
 - [Understanding Web3 Consensus Mechanisms](understanding-web3-consensus-mechanism-architects)
-- [How to Find a Mentor in Web3](how-to-find-a-mentor-in-web3)
-- [Building Strong Professional Relationships](building-relationships-in-web3)
+- How to Find a Mentor in Web3
+- Building Strong Professional Relationships
 - [Web3 Career Growth & Development](web3-career-growth-and-development)
 
 ### Your Next Step: Find a Web3 Job

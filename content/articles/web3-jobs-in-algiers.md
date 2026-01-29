@@ -351,8 +351,8 @@ Explore these guides for complementary Web3 roles and opportunities in nearby re
 - [Web3 Jobs in Tunisia](web3-jobs-in-tunis)
 - [Web3 Jobs in Morocco](web3-jobs-in-casablanca)
 - [Web3 Jobs in Egypt](web3-jobs-in-cairo)
-- [Web3 Careers for MENA Professionals](web3-careers-for-mena-professionals)
-- [Complete Web3 Skills Guide](web3-skills-guide)
+- Web3 Careers for MENA Professionals
+- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

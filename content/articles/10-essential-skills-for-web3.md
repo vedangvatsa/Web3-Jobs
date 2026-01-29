@@ -10,7 +10,7 @@ data-ai-hint: 'blockchain developer'
 
 The Web3 space is expanding at an unprecedented rate, creating a surge of new and exciting career opportunities. Unlike traditional tech, Web3 demands a unique blend of technical expertise, economic understanding, and community-building prowess. Whether you're a developer, a marketer, or a strategist, mastering these essential skills will set you on the path to success in the decentralized economy.
 
-### 1. Smart Contract Development ([Solidity](/smart-contract-developer))
+### 1. Smart Contract Development (Solidity)
 
 **Why it's essential:** Smart contracts are the backbone of Web3. They are self-executing contracts with the terms of the agreement directly written into code. Solidity is the primary language for writing smart contracts on Ethereum and other EVM-compatible chains, making it the most in-demand technical skill in the space.
 
@@ -20,7 +20,7 @@ The Web3 space is expanding at an unprecedented rate, creating a surge of new an
 - **Security Best Practices:** Study common attack vectors like reentrancy and integer overflows, and learn how to prevent them using patterns like Checks-Effects-Interactions.
 - **Development Frameworks:** Get proficient with tools like Foundry or Hardhat for testing and deploying your contracts.
 
-### 2. Web3 Frontend Libraries ([Ethers.js / Viem](/full-stack-web3-developer))
+### 2. Web3 Frontend Libraries (Ethers.js / Viem)
 
 **Why it's essential:** A decentralized application (dApp) is useless without a user interface. Frontend developers in Web3 need to know how to connect their applications to the blockchain to read data and prompt users to sign transactions.
 
@@ -40,7 +40,7 @@ The Web3 space is expanding at an unprecedented rate, creating a surge of new an
 
 ### 4. Tokenomics and Economic Incentives
 
-**Why it's essential:** Web3 is fundamentally about creating new economic systems. [Tokenomics](/defi-development-careers) is the art and science of designing a token's supply, distribution, and utility to create a sustainable and valuable protocol.
+**Why it's essential:** Web3 is fundamentally about creating new economic systems. Tokenomics is the art and science of designing a token's supply, distribution, and utility to create a sustainable and valuable protocol.
 
 **What to learn:**
 - **Supply & Demand:** Understand how inflation, token burns, and vesting schedules affect a token's value.
@@ -59,7 +59,7 @@ The Web3 space is expanding at an unprecedented rate, creating a surge of new an
 
 ### 6. Data Analysis with On-Chain Data
 
-**Why it's essential:** The blockchain is a transparent, public database. The ability to query, analyze, and visualize this [on-chain data](/dune-analytics-careers) is a superpower for making strategic decisions.
+**Why it's essential:** The blockchain is a transparent, public database. The ability to query, analyze, and visualize this on-chain data is a superpower for making strategic decisions.
 
 **What to learn:**
 - **SQL:** The primary language for querying decoded blockchain data.
