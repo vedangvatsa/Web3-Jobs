@@ -4,7 +4,7 @@
 title: "The Web3 Hiring Playbook: A Founder's Guide to Attracting Top Talent"
 image: "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
 data-ai-hint: "hiring talent strategy"
-description: "A comprehensive guide for founders and hiring managers on how to win the war for talent in Web3. Learn how to source, vet, and close the best candidates in a hyper-competitive market."
+description: "A comprehensive guide for founders and hiring managers on how to win the war for talent in Web3. Learn how to source, vet, and close the best candidates."
 category: "Industry Insights"
 
 ---

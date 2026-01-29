@@ -4,7 +4,7 @@
 title: "Blockchain Security and Why It Cannot Be Hacked"
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 data-ai-hint: "blockchain security shield"
-description: "A deep dive into the security model of a blockchain. Understand how decentralization, cryptography, and consensus mechanisms work together to create a tamper-proof system."
+description: "A deep dive into the security model of a blockchain. Understand how decentralization, cryptography, and consensus mechanisms work together to create a."
 category: "Educational"
 
 ---

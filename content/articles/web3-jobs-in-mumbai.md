@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Mumbai: A Guide to India's Financial Crypto Hub"
 image: "/images/india web3 jobs.jpg"
 data-ai-hint: "mumbai city india"
-description: "A career guide to the Web3 job market in Mumbai. Discover how India's financial capital is becoming a major center for DeFi, institutional crypto, and FinTech innovation."
+description: "A career guide to the Web3 job market in Mumbai. Discover how India's financial capital is becoming a major center for DeFi, institutional crypto, and."
 category: "Career Guides"
 
 ---

@@ -4,7 +4,7 @@
 title: "Web3's Maturing Market: New Opportunities"
 image: "/images/dell-8pb7Hq539Zw-unsplash.jpg"
 data-ai-hint: "market chart graph"
-description: "An analysis of the maturing Web3 job market. As the industry evolves beyond the hype, new, more specialized career opportunities are emerging. Learn what they are and how to prepare."
+description: "An analysis of the maturing Web3 job market. As the industry evolves beyond the hype, new, more specialized career opportunities are emerging. Learn what."
 category: "Industry Insights"
 
 ---

@@ -4,7 +4,7 @@
 title: "Understanding Hardware Wallets for Crypto Security"
 image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
 data-ai-hint: "hardware wallet crypto"
-description: "A guide to hardware wallets, the gold standard for crypto security. Learn how devices like Ledger and Trezor keep your private keys safe and protect you from online threats."
+description: "A guide to hardware wallets, the gold standard for crypto security. Learn how devices like Ledger and Trezor keep your private keys safe and protect you."
 category: "Educational"
 
 ---

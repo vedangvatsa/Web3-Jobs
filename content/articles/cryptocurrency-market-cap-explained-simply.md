@@ -4,7 +4,7 @@
 title: "Cryptocurrency Market Cap Explained Simply"
 image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
 data-ai-hint: "crypto market chart"
-description: "A cryptocurrency's market cap is a key metric used to gauge its size and relative importance in the market. It's calculated by multiplying the current price of a single coin by the total number of coins in circulation."
+description: "A cryptocurrency's market cap is a key metric used to gauge its size and relative importance in the market. It's calculated by multiplying the current."
 category: "Educational"
 
 ---

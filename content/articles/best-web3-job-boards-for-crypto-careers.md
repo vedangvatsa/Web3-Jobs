@@ -1,7 +1,7 @@
 ---
 
 title: "The Best Web3 Job Boards to Kickstart Your Crypto Career"
-description: "Looking for a job in Web3? We've compiled the definitive list of the best Web3 job boards to find opportunities in crypto, blockchain, DeFi, and more. Stop searching and start applying."
+description: "Looking for a job in Web3? We've compiled the definitive list of the best Web3 job boards to find opportunities in crypto, blockchain, DeFi, and more."
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "job search"

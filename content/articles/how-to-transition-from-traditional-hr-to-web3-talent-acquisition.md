@@ -4,7 +4,7 @@
 title: "How to Transition from Traditional HR to Web3 Talent Acquisition"
 image: "/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg"
 data-ai-hint: "human resources team"
-description: "A guide for HR professionals looking to move into Web3. Learn how to adapt your skills in talent acquisition, culture, and compensation for the unique world of crypto."
+description: "A guide for HR professionals looking to move into Web3. Learn how to adapt your skills in talent acquisition, culture, and compensation for the unique."
 category: "Career Guides"
 
 ---

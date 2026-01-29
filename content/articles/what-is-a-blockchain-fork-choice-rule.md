@@ -2,7 +2,7 @@
 
 
 title: "What is a Blockchain Fork Choice Rule"
-description: "A deep dive into how blockchain networks, from Bitcoin to Ethereum, use fork choice rules to maintain consensus and determine the single valid chain in a distributed system."
+description: "A deep dive into how blockchain networks, from Bitcoin to Ethereum, use fork choice rules to maintain consensus and determine the single valid chain in a."
 category: "Educational"
 image: "https://picsum.photos/seed/bcrule/1200/630"
 data-ai-hint: "fork choice"

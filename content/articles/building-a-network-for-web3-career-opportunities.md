@@ -4,7 +4,7 @@
 title: "Building a Network for Web3 Career Opportunities"
 image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
 data-ai-hint: "business people networking"
-description: "In Web3, your network is your net worth. This guide provides actionable strategies for building genuine relationships in the crypto space that lead to career opportunities."
+description: "In Web3, your network is your net worth. This guide provides actionable strategies for building genuine relationships in the crypto space that lead to."
 category: "Career Guides"
 
 ---

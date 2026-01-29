@@ -4,7 +4,7 @@
 title: "Data Science vs AI Engineer Comparison"
 image: "https://picsum.photos/seed/ds-ai-eng/1200/630"
 data-ai-hint: "data science technology"
-description: "Confused about data science and AI engineering? This guide breaks down the key differences in skills, roles, and career paths to help you choose the right direction."
+description: "Confused about data science and AI engineering? This guide breaks down the key differences in skills, roles, and career paths to help you choose the right."
 category: "Educational"
 
 ---

@@ -2,7 +2,7 @@
 
 
 title: "The Top 10 Essential Skills for a Thriving Career in Web3"
-description: "Want to break into Web3? The rules are different. This guide breaks down the top 10 most in-demand skills, both technical and non-technical, that you need to succeed in the world of crypto, blockchain, and decentralization."
+description: "Want to break into Web3? The rules are different. This guide breaks down the top 10 most in-demand skills, both technical and non-technical, that you need."
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "glowing orb"

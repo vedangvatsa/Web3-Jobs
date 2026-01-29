@@ -2,7 +2,7 @@
 
 
 title: "What is a Virtual Automated Market Maker (vAMM)?"
-description: "A deep dive into Virtual AMMs (vAMMs), the innovative mechanism used by perpetual futures exchanges like Perpetual Protocol to enable leveraged trading without real asset pools."
+description: "A deep dive into Virtual AMMs (vAMMs), the innovative mechanism used by perpetual futures exchanges like Perpetual Protocol to enable leveraged trading."
 category: "Educational"
 image: "https://picsum.photos/seed/vamm/1200/630"
 data-ai-hint: "virtual automated market maker"

@@ -4,7 +4,7 @@
 title: "Building a Career as a Web3 Blockchain Infrastructure Engineer"
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 data-ai-hint: "blockchain infrastructure engineer"
-description: "A career guide for engineers who want to build the core infrastructure of Web3. Learn what a blockchain infrastructure engineer does, the skills they need, and the opportunities in this specialized field."
+description: "A career guide for engineers who want to build the core infrastructure of Web3. Learn what a blockchain infrastructure engineer does, the skills they."
 category: "Career Guides"
 
 ---

@@ -4,7 +4,7 @@
 title: "The Role of a Web3 Financial Product Manager"
 image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
 data-ai-hint: "web3 financial product manager"
-description: "A guide to the specialized role of a Financial Product Manager in Web3. Learn how they blend product management, financial expertise, and tokenomics to build the future of DeFi."
+description: "A guide to the specialized role of a Financial Product Manager in Web3. Learn how they blend product management, financial expertise, and tokenomics to."
 category: "Career Guides"
 
 ---

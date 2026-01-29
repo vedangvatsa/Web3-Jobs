@@ -4,7 +4,7 @@
 title: "What is DeSci? A Guide to Decentralized Science"
 image: "/images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg"
 data-ai-hint: "decentralized science"
-description: "Explore DeSci (Decentralized Science), a movement using Web3 tools to build a more open, transparent, and collaborative system for scientific research and funding."
+description: "Explore DeSci (Decentralized Science), a movement using Web3 tools to build a more open, transparent, and collaborative system for scientific research and."
 category: "Industry Insights"
 
 ---

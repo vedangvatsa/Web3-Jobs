@@ -4,7 +4,7 @@
 title: "Decoding the Web3 Salary: Can You Really Earn a High Income?"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "web3 salary money"
-description: "A realistic analysis of the earning potential in a Web3 career. We explore the factors driving high compensation and what to expect in a crypto-native job offer."
+description: "A realistic analysis of the earning potential in a Web3 career. We explore the factors driving high compensation and what to expect in a crypto-native job."
 category: "Career Guides"
 
 ---

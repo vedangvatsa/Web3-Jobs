@@ -4,7 +4,7 @@
 title: "The Future of Work in the Metaverse"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "future work metaverse"
-description: "How will we work in the metaverse? This article explores the emerging jobs and career paths in persistent virtual worlds, from digital architects to virtual event managers."
+description: "How will we work in the metaverse? This article explores the emerging jobs and career paths in persistent virtual worlds, from digital architects to."
 category: "Industry Insights"
 
 ---

@@ -4,7 +4,7 @@
 title: "Essential Web3 Tools for Developers in 2026"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "developer tools software"
-description: "A comprehensive guide to the essential tools in the Web3 developer's toolkit, from local development environments like Foundry and Hardhat to indexing protocols like The Graph."
+description: "A comprehensive guide to the essential tools in the Web3 developer's toolkit, from local development environments like Foundry and Hardhat to indexing."
 category: "Getting Started"
 
 ---

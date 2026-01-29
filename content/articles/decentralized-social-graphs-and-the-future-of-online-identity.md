@@ -4,7 +4,7 @@
 title: "Decentralized Social Graphs and the Future of Online Identity"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "social network identity"
-description: "A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and Lens are creating a decentralized foundation for social media where users own their data and connections."
+description: "A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and Lens are creating a decentralized foundation for social media where users."
 category: "Technology Deep Dives"
 
 ---

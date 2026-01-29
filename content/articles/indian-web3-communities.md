@@ -5,7 +5,7 @@ title: "A Guide to Thriving Indian Web3 Communities"
 slug: "indian-web3-communities"
 image: "/images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg"
 data-ai-hint: "indian community web3"
-description: "Explore India's booming Web3 scene. This guide covers the rapid growth, key investment trends, and provides a comprehensive list of top Indian Web3 communities on Telegram, Discord, and WhatsApp."
+description: "Explore India's booming Web3 scene. This guide covers the rapid growth, key investment trends, and provides a comprehensive list of top Indian Web3."
 category: "Industry Insights"
 
 ---

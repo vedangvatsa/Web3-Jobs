@@ -4,7 +4,7 @@
 title: "Exploring Career Opportunities as a Web3 Blockchain Validator"
 image: "/images/tommy-texter-T42j_xLOqw0-unsplash.jpg"
 data-ai-hint: "blockchain validator node"
-description: "A career guide for those interested in becoming a professional blockchain validator. Learn what validators do, the skills required, and the business of securing Proof-of-Stake networks."
+description: "A career guide for those interested in becoming a professional blockchain validator. Learn what validators do, the skills required, and the business of."
 category: "Career Guides"
 
 ---

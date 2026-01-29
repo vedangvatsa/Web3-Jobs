@@ -3,7 +3,7 @@
 
 title: 'How to Stay Relevant and Thrive in a Fast-Changing Industry'
 image: 'https://picsum.photos/seed/htsriyi/1200/630'
-description: "The world of work is changing faster than ever. If you're not actively managing your career, you risk becoming obsolete. Here are the essential strategies to stay relevant."
+description: "The world of work is changing faster than ever. If you're not actively managing your career, you risk becoming obsolete. Here are the essential strategies."
 category: 'Career Guides'
 data-ai-hint: 'career development'
 

@@ -4,7 +4,7 @@
 title: "The Crypto Guide for Digital Nomads"
 image: "/images/domenico-loia-EhTcC9sYXsw-unsplash.jpg"
 data-ai-hint: "digital nomad laptop"
-description: "A practical guide for digital nomads on how to leverage cryptocurrency for a location-independent lifestyle, from getting paid in stablecoins to navigating international banking."
+description: "A practical guide for digital nomads on how to leverage cryptocurrency for a location-independent lifestyle, from getting paid in stablecoins to."
 category: "Career Guides"
 
 ---

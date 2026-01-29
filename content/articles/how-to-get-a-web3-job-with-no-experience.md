@@ -4,7 +4,7 @@
 title: "How to Get a Web3 Job with No Experience"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "person climbing ladder"
-description: "Breaking into Web3 can seem daunting without prior crypto experience. This guide provides a step-by-step roadmap for leveraging your existing skills and building 'proof of work' to land your first role."
+description: "Breaking into Web3 can seem daunting without prior crypto experience. This guide provides a step-by-step roadmap for leveraging your existing skills and."
 category: "Career Guides"
 
 ---

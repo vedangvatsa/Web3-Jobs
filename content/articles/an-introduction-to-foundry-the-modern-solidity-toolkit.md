@@ -3,7 +3,7 @@
 title: "An Introduction to Foundry: The Modern Solidity Toolkit"
 image: "https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "foundry software toolkit"
-description: "A guide for Ethereum developers on Foundry, the fast, portable, and Solidity-native development toolkit that is revolutionizing how we build and test smart contracts."
+description: "A guide for Ethereum developers on Foundry, the fast, portable, and Solidity-native development toolkit that is revolutionizing how we build and test."
 category: "Getting Started"
 ---
 

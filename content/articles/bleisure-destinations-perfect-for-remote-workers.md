@@ -4,7 +4,7 @@
 title: "Bleisure Destinations Perfect for Remote Workers"
 image: "/images/firmbee-com-SpVHcbuKi6E-unsplash.jpg"
 data-ai-hint: "travel work destination"
-description: "Discover the top 'bleisure' destinations that perfectly blend business and leisure for remote workers. This guide covers cities that offer great connectivity, co-working spaces, and amazing travel experiences."
+description: "Discover the top 'bleisure' destinations that perfectly blend business and leisure for remote workers. This guide covers cities that offer great."
 category: "Career Guides"
 
 ---

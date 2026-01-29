@@ -4,7 +4,7 @@
 title: "Vesting Schedules in Crypto Projects Explained"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "token vesting schedule"
-description: "Vesting schedules are a crucial part of tokenomics, ensuring long-term alignment for teams and investors. This guide explains how they work, including common terms like cliffs and linear vesting."
+description: "Vesting schedules are a crucial part of tokenomics, ensuring long-term alignment for teams and investors. This guide explains how they work, including."
 category: "Educational"
 
 ---

@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Windhoek: A Guide to Namibia's Nascent Crypto Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "windhoek namibia city"
-description: "A career guide to the emerging Web3 job market in Windhoek. Explore how Namibia's capital is beginning to embrace blockchain, with a focus on conservation, tourism, and FinTech."
+description: "A career guide to the emerging Web3 job market in Windhoek. Explore how Namibia's capital is beginning to embrace blockchain, with a focus on."
 category: "Career Guides"
 
 ---

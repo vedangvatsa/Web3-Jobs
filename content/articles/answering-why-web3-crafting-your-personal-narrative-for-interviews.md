@@ -3,7 +3,7 @@
 title: "Answering 'Why Web3?': Crafting Your Personal Narrative for Interviews"
 image: "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
 data-ai-hint: "job interview question"
-description: "The most important question in a Web3 interview is 'Why are you here?'. This guide helps you craft a compelling and authentic story about your passion for the decentralized web."
+description: "The most important question in a Web3 interview is 'Why are you here?'. This guide helps you craft a compelling and authentic story about your passion for."
 category: "Career Guides"
 ---
 

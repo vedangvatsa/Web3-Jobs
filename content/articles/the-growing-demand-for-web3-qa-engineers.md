@@ -4,7 +4,7 @@
 title: "The Growing Demand for Web3 QA Engineers"
 image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
 data-ai-hint: "quality assurance test"
-description: "An inside look at the crucial role of a Quality Assurance (QA) Engineer in Web3. Learn how QA differs in a blockchain environment and the skills needed to ensure protocol stability and reliability."
+description: "An inside look at the crucial role of a Quality Assurance (QA) Engineer in Web3. Learn how QA differs in a blockchain environment and the skills needed to."
 category: "Career Guides"
 
 ---

@@ -4,7 +4,7 @@
 title: "How to Survive (and Thrive in) a Crypto Bear Market"
 image: "/images/firmbee-com-SpVHcbuKi6E-unsplash.jpg"
 data-ai-hint: "bear market chart"
-description: "A guide for Web3 professionals on how to navigate a crypto bear market. Learn how to manage your finances, focus on skill development, and find opportunities during a downturn."
+description: "A guide for Web3 professionals on how to navigate a crypto bear market. Learn how to manage your finances, focus on skill development, and find."
 category: "Career Guides"
 
 ---

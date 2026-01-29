@@ -2,7 +2,7 @@
 
 
 title: "Understanding Litecoin's Development Trends Beyond the Slowdown"
-description: "A deeper look into the metrics of Litecoin's developer activity. What does the data really say about the future of LTC development and how does it compare to other major cryptocurrencies?"
+description: "A deeper look into the metrics of Litecoin's developer activity. What does the data really say about the future of LTC development and how does it compare."
 image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "crypto chart"

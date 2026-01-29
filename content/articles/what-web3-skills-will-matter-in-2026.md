@@ -4,7 +4,7 @@
 title: "What Web3 Skills Will Matter in 2026"
 image: "/images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg"
 data-ai-hint: "future skills technology"
-description: "A forward-looking analysis of the Web3 job market. We predict the key roles and skills that will be most in-demand as the decentralized internet matures and achieves mainstream adoption."
+description: "A forward-looking analysis of the Web3 job market. We predict the key roles and skills that will be most in-demand as the decentralized internet matures."
 category: "Career Guides"
 
 ---

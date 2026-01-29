@@ -3,7 +3,7 @@
 title: "Web3 Jobs in Kampala: A Guide to Uganda's Digital Innovation Hub"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "kampala uganda city"
-description: "A career guide to the Web3 job market in Kampala. Explore how Uganda's capital is becoming a key center for blockchain innovation, driven by a young population and a vibrant startup culture."
+description: "A career guide to the Web3 job market in Kampala. Explore how Uganda's capital is becoming a key center for blockchain innovation, driven by a young."
 category: "Career Guides"
 ---
 

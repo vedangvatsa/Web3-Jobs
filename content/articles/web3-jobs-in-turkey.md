@@ -4,7 +4,7 @@
 title: "Web3 Jobs in Turkey: A Guide to a Crypto-Native Nation"
 image: "https://images.unsplash.com/photo-1527838832700-5059252407fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0dXJrZXl8ZW58MHx8fHwxNzU5MjY5NTc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "turkey istanbul city"
-description: "Discover career opportunities in Turkey's vibrant Web3 scene. This guide covers the country's massive crypto adoption, its strengths in gaming and DeFi, and what you need to know to get a job."
+description: "Discover career opportunities in Turkey's vibrant Web3 scene. This guide covers the country's massive crypto adoption, its strengths in gaming and DeFi."
 category: "Career Guides"
 
 ---

@@ -2,7 +2,7 @@
 
 
 title: "What is Energy Storage Technology"
-description: "An overview of energy storage technologies, from lithium-ion batteries to pumped-hydro and thermal storage, and their critical role in a renewable energy future."
+description: "An overview of energy storage technologies, from lithium-ion batteries to pumped-hydro and thermal storage, and their critical role in a renewable energy."
 category: "Educational"
 image: "https://picsum.photos/seed/energystorage/1200/630"
 data-ai-hint: "battery storage"

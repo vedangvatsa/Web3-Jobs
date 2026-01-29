@@ -4,7 +4,7 @@
 title: "How DAG-Based Blockchains Differ From Traditional Chains"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "dag blockchain network"
-description: "An exploration of Directed Acyclic Graphs (DAGs), an alternative to traditional blockchain data structures. Learn how DAGs offer a different approach to achieving scalability and consensus in decentralized networks."
+description: "An exploration of Directed Acyclic Graphs (DAGs), an alternative to traditional blockchain data structures. Learn how DAGs offer a different approach to."
 category: "Technology Deep Dives"
 
 ---

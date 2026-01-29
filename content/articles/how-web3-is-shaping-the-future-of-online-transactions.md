@@ -4,7 +4,7 @@
 title: "How Web3 Is Shaping the Future of Online Transactions"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "online transactions future"
-description: "Explore how Web3 is revolutionizing online transactions, offering a decentralized, secure, and efficient alternative to traditional payment systems through blockchain and crypto."
+description: "Explore how Web3 is revolutionizing online transactions, offering a decentralized, secure, and efficient alternative to traditional payment systems."
 category: "Industry Insights"
 
 ---

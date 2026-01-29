@@ -3,7 +3,7 @@
 title: "Becoming a Web3 Decentralized Storage Expert"
 image: "/images/linus-mimietz-gvptKmonylk-unsplash.jpg"
 data-ai-hint: "career choice person"
-description: "A career guide to the world of decentralized storage. Learn about the leading protocols like IPFS and Arweave, and the engineering roles available in this foundational Web3 sector."
+description: "A career guide to the world of decentralized storage. Learn about the leading protocols like IPFS and Arweave, and the engineering roles available in this."
 category: "Career Guides"
 ---
 

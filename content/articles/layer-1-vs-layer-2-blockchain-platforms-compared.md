@@ -4,7 +4,7 @@
 title: "Layer 1 vs Layer 2 Blockchain Platforms Compared"
 image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
 data-ai-hint: "blockchain layers comparison"
-description: "A comprehensive comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms. Understand their different roles, security models, and how they work together to create a scalable Web3 ecosystem."
+description: "A comprehensive comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms. Understand their different roles, security models, and how they work."
 category: "Educational"
 
 ---

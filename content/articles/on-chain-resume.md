@@ -4,7 +4,7 @@
 title: "The On-Chain Resume: Your Web3 Proof of Work"
 image: "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg"
 data-ai-hint: "on-chain resume"
-description: "In Web3, your wallet is your resume. This guide explains how your on-chain activity—from governance votes to NFT collections—is becoming the new credential for your career."
+description: "In Web3, your wallet is your resume. This guide explains how your on-chain activity—from governance votes to NFT collections—is becoming the new."
 category: "Career Guides"
 
 ---

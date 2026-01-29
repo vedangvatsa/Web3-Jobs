@@ -2,7 +2,7 @@
 
 
 title: "How to Build Credibility in a New Role: A Strategic Guide"
-description: "Learn how to quickly establish trust and build credibility when starting a new job. This guide covers key strategies for demonstrating competence and reliability from day one."
+description: "Learn how to quickly establish trust and build credibility when starting a new job. This guide covers key strategies for demonstrating competence and."
 category: "Career Guides"
 image: "https://picsum.photos/seed/301/1200/630"
 data-ai-hint: "building trust"

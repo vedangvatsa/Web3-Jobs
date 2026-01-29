@@ -2,7 +2,7 @@
 
 
 title: "What is Front-Running in DeFi Trading?"
-description: "An in-depth guide to front-running in DeFi, a trading strategy that exploits transaction ordering to profit from pending trades. Learn how it works and what can be done to mitigate it."
+description: "An in-depth guide to front-running in DeFi, a trading strategy that exploits transaction ordering to profit from pending trades. Learn how it works and."
 category: "Educational"
 image: "https://picsum.photos/seed/frontrun/1200/630"
 data-ai-hint: "front running"

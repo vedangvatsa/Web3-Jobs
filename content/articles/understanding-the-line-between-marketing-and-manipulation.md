@@ -4,7 +4,7 @@
 title: "Understanding the Line Between Marketing and Manipulation in Web3"
 image: "/images/thisisengineering-83udtzyaTS4-unsplash.jpg"
 data-ai-hint: "ethics marketing manipulation"
-description: "In a market driven by hype, where does marketing end and manipulation begin? This article explores the ethical gray areas in Web3 promotion, from influencer shilling to community management."
+description: "In a market driven by hype, where does marketing end and manipulation begin? This article explores the ethical gray areas in Web3 promotion, from."
 category: "Industry Insights"
 
 ---

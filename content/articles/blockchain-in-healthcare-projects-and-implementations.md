@@ -4,7 +4,7 @@
 title: "Blockchain in Healthcare Projects and Implementations"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "healthcare blockchain technology"
-description: "An analysis of how blockchain technology is being used to revolutionize the healthcare industry, from securing medical records to improving clinical trial data and supply chain integrity."
+description: "An analysis of how blockchain technology is being used to revolutionize the healthcare industry, from securing medical records to improving clinical trial."
 category: "Educational"
 
 ---

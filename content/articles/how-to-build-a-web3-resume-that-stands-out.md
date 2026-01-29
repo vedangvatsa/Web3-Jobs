@@ -4,7 +4,7 @@
 title: "How to Build a Web3 Resume That Stands Out"
 image: "/images/thisisengineering-83udtzyaTS4-unsplash.jpg"
 data-ai-hint: "resume cv job"
-description: "Your traditional resume isn't enough for the crypto space. Learn how to craft a Web3-native resume that highlights your on-chain activity, DAO contributions, and proof of work to land your dream job."
+description: "Your traditional resume isn't enough for the crypto space. Learn how to craft a Web3-native resume that highlights your on-chain activity, DAO."
 category: "Getting Started"
 
 ---

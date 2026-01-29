@@ -4,7 +4,7 @@
 title: "Beyond Ownership: Tokenizing Rights and Privileges"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "digital rights key"
-description: "NFTs can represent more than just ownership. This article explores how Web3 is using tokens to represent access rights, governance privileges, and other intangible claims in a programmable and transferable way."
+description: "NFTs can represent more than just ownership. This article explores how Web3 is using tokens to represent access rights, governance privileges, and other."
 category: "Technology Deep Dives"
 
 ---

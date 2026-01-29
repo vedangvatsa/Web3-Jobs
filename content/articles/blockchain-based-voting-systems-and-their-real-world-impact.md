@@ -4,7 +4,7 @@
 title: "Blockchain Based Voting Systems and Their Real World Impact"
 image: "/images/adi-goldstein-EUsVwEOsblE-unsplash.jpg"
 data-ai-hint: "voting system blockchain"
-description: "A deep dive into how blockchain technology can be used to create secure, transparent, and auditable voting systems, and the real-world impact this could have on corporate and political governance."
+description: "A deep dive into how blockchain technology can be used to create secure, transparent, and auditable voting systems, and the real-world impact this could."
 category: "Educational"
 
 ---

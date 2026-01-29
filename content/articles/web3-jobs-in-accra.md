@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Accra: A Guide to Ghana's Vibrant Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "accra ghana city"
-description: "A guide to the Web3 job market in Accra. Explore how Ghana's capital is fostering a creative and developer-focused blockchain community, driving innovation in art, music, and DeFi."
+description: "A guide to the Web3 job market in Accra. Explore how Ghana's capital is fostering a creative and developer-focused blockchain community, driving."
 category: "Career Guides"
 
 

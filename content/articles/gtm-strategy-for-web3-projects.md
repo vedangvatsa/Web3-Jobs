@@ -4,7 +4,7 @@
 title: "The Modern Go-to-Market Strategy for Web3 Projects"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "go to market gtm"
-description: "Launching in Web3 is different. This guide outlines the modern go-to-market playbook, focusing on community-led growth, token incentives, and building a defensible moat in an open-source world."
+description: "Launching in Web3 is different. This guide outlines the modern go-to-market playbook, focusing on community-led growth, token incentives, and building a."
 category: "Industry Insights"
 
 ---

@@ -4,7 +4,7 @@
 title: "What is a Decentralized Identifier"
 image: "/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"
 data-ai-hint: "digital identity key"
-description: "A Decentralized Identifier (DID) is a new type of globally unique ID that is controlled by the user, not a centralized company. It's the foundation of a new, self-sovereign digital identity."
+description: "A Decentralized Identifier (DID) is a new type of globally unique ID that is controlled by the user, not a centralized company. It's the foundation of a."
 category: "Educational"
 
 ---

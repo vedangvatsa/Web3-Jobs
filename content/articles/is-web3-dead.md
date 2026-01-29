@@ -4,7 +4,7 @@
 title: "Is Web3 Dead or Just Getting Started?"
 image: "/images/markus-spiske-iar-afB0QQw-unsplash.jpg"
 data-ai-hint: "web3 future tech"
-description: "A realistic look at the state of Web3. We analyze the challenges, the progress, and the long-term potential of the decentralized internet, separating the hype from the underlying innovation."
+description: "A realistic look at the state of Web3. We analyze the challenges, the progress, and the long-term potential of the decentralized internet, separating the."
 category: "Industry Insights"
 
 ---

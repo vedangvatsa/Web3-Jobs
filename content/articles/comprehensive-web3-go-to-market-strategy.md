@@ -2,7 +2,7 @@
 
 
 title: "The Comprehensive Web3 Go-To-Market Playbook"
-description: "Launching a Web3 project? A traditional go-to-market strategy won't work. This playbook covers the essential strategies for a successful Web3 launch, from community building to token distribution."
+description: "Launching a Web3 project? A traditional go-to-market strategy won't work. This playbook covers the essential strategies for a successful Web3 launch, from."
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "chess strategy"

@@ -2,7 +2,7 @@
 
 
 title: "The Evolving Legal Landscape of Web3: An Advisory"
-description: "A primer on the critical legal issues facing the Web3 industry, from securities law and DAO liability to intellectual property. An essential read for builders and investors."
+description: "A primer on the critical legal issues facing the Web3 industry, from securities law and DAO liability to intellectual property. An essential read for."
 image: "/images/bruce-mars-FWVMhUa_wbY-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "gavel books"

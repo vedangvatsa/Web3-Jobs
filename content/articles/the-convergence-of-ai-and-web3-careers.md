@@ -3,7 +3,7 @@
 
 title: "The Convergence of AI and Web3: Charting a Course for Hybrid Careers"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-description: "An analysis of the emerging career opportunities at the intersection of Artificial Intelligence and Web3, and the unique skills required to succeed in this hybrid domain."
+description: "An analysis of the emerging career opportunities at the intersection of Artificial Intelligence and Web3, and the unique skills required to succeed in."
 category: "Career Guides"
 data-ai-hint: "person working on computer"
 

@@ -1,7 +1,7 @@
 ---
 
 title: "SBF in Web3"
-description: "Explore the complex and controversial history of Sam Bankman-Fried (SBF) in the Web3 space. From the rise of FTX and Alameda Research to their dramatic collapse, this guide covers SBF's impact, his vision for DeFi, and the lessons learned from one of crypto's most talked-about figures."
+description: "Explore the complex and controversial history of Sam Bankman-Fried (SBF) in the Web3 space. From the rise of FTX and Alameda Research to their dramatic."
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man portrait"

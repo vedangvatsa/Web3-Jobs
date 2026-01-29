@@ -1,7 +1,8 @@
 ---
 title: "How to Find a Mentor in Web3 – Build Your Network"
-description: "Discover practical strategies for finding a mentor in Web3, building meaningful professional relationships, and accelerating your career growth in the blockchain industry."
+description: "Discover practical strategies for finding a mentor in Web3, building meaningful professional relationships, and accelerating your career growth in the."
 category: "Career Development"
+image: "https://picsum.photos/seed/mentorship/1200/630"
 ---
 
 ## Why You Need a Mentor in Web3

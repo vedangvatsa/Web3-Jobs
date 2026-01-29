@@ -2,7 +2,7 @@
 
 
 title: "Understanding Natural User Interfaces"
-description: "An introduction to Natural User Interfaces (NUI), exploring how technologies like touch, voice, and gesture are creating more intuitive ways to interact with computers."
+description: "An introduction to Natural User Interfaces (NUI), exploring how technologies like touch, voice, and gesture are creating more intuitive ways to interact."
 category: "Educational"
 image: "https://picsum.photos/seed/nui/1200/630"
 data-ai-hint: "touch interface"

@@ -4,7 +4,7 @@
 title: "Web3 Careers Explained: Finding Your Place in the Decentralized World"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "career choice person"
-description: "A comprehensive overview of the diverse career paths in Web3. This guide breaks down the major job categories, from development and design to marketing and operations, helping you find where you fit in."
+description: "A comprehensive overview of the diverse career paths in Web3. This guide breaks down the major job categories, from development and design to marketing."
 category: "Career Guides"
 
 ---

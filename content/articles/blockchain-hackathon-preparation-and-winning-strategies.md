@@ -4,7 +4,7 @@
 title: "Blockchain Hackathon Preparation and Winning Strategies"
 image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
 data-ai-hint: "hackathon team coding"
-description: "A complete guide to succeeding in a Web3 hackathon. Learn how to prepare, form a team, brainstorm ideas, and build a winning project that gets you noticed by recruiters and VCs."
+description: "A complete guide to succeeding in a Web3 hackathon. Learn how to prepare, form a team, brainstorm ideas, and build a winning project that gets you noticed."
 category: "Educational"
 
 ---

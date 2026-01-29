@@ -4,7 +4,7 @@
 title: "The Future of Web3 Insurance and Risk Management Jobs"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "web3 insurance risk"
-description: "As DeFi matures, the demand for insurance and risk management is growing. This guide explores the new career paths for professionals who can underwrite and manage risk in a decentralized world."
+description: "As DeFi matures, the demand for insurance and risk management is growing. This guide explores the new career paths for professionals who can underwrite."
 category: "Industry Insights"
 
 ---

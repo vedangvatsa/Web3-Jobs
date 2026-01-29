@@ -4,7 +4,7 @@
 title: "Exploring Career Paths for Web3 Compliance Officers"
 image: "/images/jakob-owens-WUmb_eBrpjs-unsplash.jpg"
 data-ai-hint: "compliance law books"
-description: "A look at the critical role of compliance officers in Web3. Learn how they navigate the complex regulatory landscape, from AML to sanctions, in a decentralized world."
+description: "A look at the critical role of compliance officers in Web3. Learn how they navigate the complex regulatory landscape, from AML to sanctions, in a."
 category: "Career Guides"
 
 ---

@@ -5,7 +5,7 @@
 title: "Web3 Jobs in Djibouti: A Guide to the Strategic Port's Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "djibouti city"
-description: "A career guide to the emerging Web3 job market in Djibouti. Explore how its strategic location and focus on trade and logistics are creating unique opportunities for enterprise blockchain."
+description: "A career guide to the emerging Web3 job market in Djibouti. Explore how its strategic location and focus on trade and logistics are creating unique."
 category: "Career Guides"
 
 

@@ -4,7 +4,7 @@
 title: "Smart Agents in AI: A New Breed of Software"
 image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
 data-ai-hint: "smart ai agent"
-description: "A beginner's guide to Smart Agents in AI. Learn what they are, how they work, and why they represent a fundamental shift from traditional software to autonomous systems."
+description: "A beginner's guide to Smart Agents in AI. Learn what they are, how they work, and why they represent a fundamental shift from traditional software to."
 category: "Getting Started"
 
 ---

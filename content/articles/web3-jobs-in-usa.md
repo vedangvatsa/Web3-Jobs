@@ -4,7 +4,7 @@
 title: "Web3 Jobs in the USA: The Epicenter of Crypto Innovation"
 image: "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1c2F8ZW58MHx8fHwxNzE2NDAyMDY1fDA&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "usa city skyline"
-description: "A guide to the Web3 job market in the United States. We cover the key hubs like New York and San Francisco, the most in-demand roles, and the salary benchmarks for the world's leading crypto market."
+description: "A guide to the Web3 job market in the United States. We cover the key hubs like New York and San Francisco, the most in-demand roles, and the salary."
 category: "Career Guides"
 
 ---
