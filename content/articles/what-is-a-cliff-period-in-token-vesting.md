@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Cliff Period in Token Vesting"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 data-ai-hint: "cliff vesting crypto"
 description: "A cliff is a period at the beginning of a vesting schedule where no tokens are earned. This guide explains why it's a crucial mechanism for ensuring long-term commitment from team members and investors."
 category: "Educational"
+
 ---
+
+
 
 In the world of Web3, **[vesting schedules](/vesting-schedules-in-crypto-projects-explained)** are a critical tool for aligning the long-term incentives of a project's team and its community. A key component of any vesting schedule is the **cliff**. Understanding what a cliff is and why it exists is essential for both employees receiving token grants and for investors evaluating a project's tokenomics.
 
@@ -29,4 +34,3 @@ The cliff serves a vital protective function for the project and its community.
 3.  **Maintaining Team Stability:** It helps to filter for high-conviction team members who are aligned with the project's long-term vision, not just looking for a quick payday.
 
 When evaluating a job offer or a new project's **[tokenomics](/understanding-tokenomics)**, the presence of a standard 1-year cliff for team and investor tokens is a strong positive signal. It shows that the project is serious about building for the long term and is designed to protect the interests of its community. A project with no cliff or a very short cliff for its insiders should be viewed with extreme caution.
-

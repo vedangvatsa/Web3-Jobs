@@ -1,10 +1,15 @@
 ---
+
+
 title: "The Ultimate Onboarding Checklist for New Hires"
 description: "A successful onboarding experience is key to retention and productivity. This checklist covers everything a new hire needs for a smooth transition into their new role."
 category: "Career Guides"
 image: "https://picsum.photos/seed/303/1200/630"
 data-ai-hint: "onboarding checklist"
+
 ---
+
+
 
 ## Onboarding Checklist for New Hires
 

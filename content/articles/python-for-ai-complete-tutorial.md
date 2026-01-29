@@ -1,10 +1,15 @@
 ---
+
+
 title: "Python for AI Complete Tutorial"
 image: "https://picsum.photos/seed/python-ai/1200/630"
 data-ai-hint: "snake code matrix"
 description: "A beginner's guide to using Python for AI and Machine Learning. Learn about the essential libraries like NumPy, Pandas, and Scikit-learn, with simple code examples."
 category: "Educational"
+
 ---
+
+
 
 Python has become the unofficial language of artificial intelligence, and for good reason. Its simple syntax, combined with a powerful ecosystem of libraries, makes it the perfect tool for everything from data analysis to building complex deep learning models. If you want to get into AI, learning Python is the first and most important step.
 

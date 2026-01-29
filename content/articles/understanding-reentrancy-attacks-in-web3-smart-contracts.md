@@ -1,10 +1,15 @@
 ---
+
+
 title: "Reentrancy Attacks in Smart Contracts: A Deep Dive"
 image: "https://picsum.photos/seed/25/1200/630"
 description: "Reentrancy is one of the most notorious and destructive vulnerabilities in smart contract security. This article breaks down how it works, its consequences, and how to prevent it."
 category: "Technology Deep Dives"
 data-ai-hint: "blockchain security"
+
 ---
+
+
 
 ## Understanding Reentrancy Attacks in Web3 Smart Contracts
 

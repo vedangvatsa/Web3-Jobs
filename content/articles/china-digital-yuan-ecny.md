@@ -1,10 +1,15 @@
 ---
+
+
 title: "China's Digital Yuan (e-CNY): A Web3 Perspective"
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 data-ai-hint: "digital currency china"
 description: "An analysis of China's e-CNY. We explore how this Central Bank Digital Currency (CBDC) works and how it fundamentally differs from decentralized cryptocurrencies like Bitcoin."
 category: "Industry Insights"
+
 ---
+
+
 
 As the world of digital money evolves, two distinct paths are emerging: decentralized cryptocurrencies like Bitcoin and Ethereum, and Central Bank Digital Currencies (CBDCs). The most prominent and advanced CBDC project in the world is China's Digital Yuan, also known as the e-CNY.
 
@@ -44,4 +49,3 @@ This allows the government to maintain central control while leveraging the exis
 | **Issuance**      | Controlled by the central bank's monetary policy.           | Controlled by a predictable, programmatic algorithm.     |
 
 The e-CNY represents a future where money is more efficient but also more controlled. It offers a powerful and clear counterpoint to the Web3 vision of a decentralized, open, and permissionless financial system. As CBDCs become more common around the world, the tension between these two models will be one of the most important narratives shaping the future of finance.
-

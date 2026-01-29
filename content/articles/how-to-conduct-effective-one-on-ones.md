@@ -1,4 +1,5 @@
 ---
+
 title: "How to Conduct Effective One-on-Ones That Aren't Status Updates"
 category: "Career Guides"
 date: "2025-09-12"
@@ -6,6 +7,7 @@ description: "Master the art of the one-on-one meeting. This guide provides a cl
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "one on one meeting"
 ---
+
 **Related Articles:**
 - [[first-time-manager-complete-survival-guide]]
 - [[how-to-give-constructive-feedback]]

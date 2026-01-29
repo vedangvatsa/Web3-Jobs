@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Soulbound Token Technology"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "person soul connection"
 description: "Soulbound Tokens (SBTs) are non-transferable NFTs that can represent a person's identity, reputation, and affiliations. Learn how this concept, proposed by Vitalik Buterin, could form the basis of a decentralized society."
 category: "Educational"
+
 ---
+
+
 
 The world of **[NFTs](/what-are-nfts)** has so far been dominated by the idea of transferability. The value of an NFT often comes from the fact that it is a liquid asset that can be bought and sold on an open market. However, a groundbreaking paper co-authored by Ethereum founder Vitalik Buterin proposed a new and powerful concept: **Soulbound Tokens (SBTs)**.
 
@@ -46,4 +51,3 @@ The concept of Soulbound Tokens is still in its early, theoretical stages, and i
 -   **The "Bad" SBT:** What if someone sends you a "bad" SBT that represents a negative affiliation? There needs to be a mechanism for Souls to hide or reject unwanted SBTs.
 
 Soulbound Tokens are a fascinating and powerful idea that could fundamentally change the way we think about digital identity. By moving beyond purely financial and transferable assets, SBTs offer a path to building a richer, more nuanced, and more human-centric Web3, creating a truly "Decentralized Society."
-

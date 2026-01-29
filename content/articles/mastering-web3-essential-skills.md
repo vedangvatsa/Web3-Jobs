@@ -1,10 +1,15 @@
 ---
+
+
 title: "Mastering Web3: The 10 Essential Skills for a Career in Crypto"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 description: "A definitive guide to the 10 most critical skills—both technical and non-technical—that you need to succeed in the dynamic and fast-paced world of Web3."
 category: "Career Guides"
 data-ai-hint: "man working on laptop"
+
 ---
+
+
 
 ## Introduction: The Web3 Talent Gap
 

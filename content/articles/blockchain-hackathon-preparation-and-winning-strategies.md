@@ -1,10 +1,15 @@
 ---
+
+
 title: "Blockchain Hackathon Preparation and Winning Strategies"
 image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
 data-ai-hint: "hackathon team coding"
 description: "A complete guide to succeeding in a Web3 hackathon. Learn how to prepare, form a team, brainstorm ideas, and build a winning project that gets you noticed by recruiters and VCs."
 category: "Educational"
+
 ---
+
+
 
 In the Web3 ecosystem, hackathons are more than just coding competitions; they are a core part of the culture. They are intense, weekend-long sprints where builders from around the world come together to learn, network, and create the next generation of decentralized applications. For an aspiring Web3 developer, participating in a hackathon, especially a major one like those run by **[ETHGlobal](https://ethglobal.com/)**, is one of the single most valuable things you can do for your career.
 
@@ -64,4 +69,3 @@ While winning a prize is great, the real value of a hackathon lies elsewhere.
 -   **Visibility:** A good project can get you noticed by investors and recruiters.
 
 Blockchain hackathons are a core pillar of the Web3 builder culture. They are a crucible that forges skills, relationships, and careers. Whether you are a seasoned developer or just starting your journey, participating in a hackathon is one of the most rewarding and high-leverage things you can do.
-

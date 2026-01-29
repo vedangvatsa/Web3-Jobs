@@ -1,10 +1,15 @@
 ---
+
+
 title: "Understanding Concentrated Liquidity in Uniswap v3"
 description: "An in-depth guide to Concentrated Liquidity, the groundbreaking feature of Uniswap v3 that allows for greater capital efficiency, and its implications for liquidity providers."
 category: "Educational"
 image: "https://picsum.photos/seed/concliquidity/1200/630"
 data-ai-hint: "concentrated liquidity"
+
 ---
+
+
 
 ## Understanding Concentrated Liquidity in Uniswap v3: A Complete Guide
 
@@ -82,4 +87,3 @@ A: Uniswap v3 allows pools to be created with different fee tiers (e.g., 0.05% f
 
 **Q: If the price goes out of my range, do I lose all my money?**
 A: No, you do not lose your money, but your position will be composed entirely of the asset that has decreased in relative value. You will be holding a sub-optimal portfolio and experiencing impermanent loss until the price returns to your range or you reposition your liquidity.
-

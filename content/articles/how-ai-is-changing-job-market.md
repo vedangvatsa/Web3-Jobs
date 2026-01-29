@@ -1,10 +1,15 @@
 ---
+
+
 title: "How AI is Changing Job Market"
 image: "https://picsum.photos/seed/ai-job-market/1200/630"
 data-ai-hint: "robot human handshake"
 description: "Discover the real impact of artificial intelligence on jobs, which roles are evolving, and how the workforce is adapting to new technology."
 category: "Educational"
+
 ---
+
+
 
 Artificial intelligence isn't just a futuristic concept anymore it's actively reshaping the job market right now. You've probably heard the dramatic headlines about robots taking over, but the reality is more nuanced. Instead of a wholesale replacement of human workers, we're seeing a fundamental shift in how work gets done. Some jobs are disappearing, yes, but many more are being transformed, and entirely new roles are emerging.
 

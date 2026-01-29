@@ -1,9 +1,14 @@
 ---
+
+
 title: "How to Get a Job in Web3 Venture Capital"
 image: "https://images.unsplash.com/photo-1462206092226-f46025ffe607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbHxlbnwwfHx8fDE3NTUxNjIxNTB8MA&lib=rb-4.1.0&q=80&w=1080"
 description: "A guide to breaking into the competitive world of Web3 venture capital. Learn about the different roles, from analyst to partner, and the skills you need to become a crypto investor."
 category: "Career Guides"
+
 ---
+
+
 
 Venture Capital (VC) is the engine of innovation, providing the crucial early-stage funding that allows startups to grow and build the future. In the fast-paced world of Web3, a new breed of venture capitalists has emerged: the **crypto VC**. These investors specialize in identifying and funding the most promising projects in the blockchain and decentralized technology space.
 
@@ -46,4 +51,3 @@ The path to a Web3 VC role is rarely linear. Very few people get hired straight 
 5.  **Be a Founder or Early Operator:** The most direct path to becoming a great investor is to have been on the other side of the table. Working at or founding a successful Web3 startup gives you invaluable operational experience and empathy for the founder's journey.
 
 A career in Web3 VC is a marathon, not a sprint. It requires a long-term commitment to learning, building relationships, and contributing to the ecosystem. But for those who are passionate about the future of decentralized technology, it's a chance to have a front-row seat to the revolution and to help fund the next generation of the internet.
-

@@ -1,10 +1,15 @@
 ---
+
+
 title: "Web3 Jobs in Delhi NCR: A Guide to the Capital's Crypto Ecosystem"
 image: "/images/india web3 jobs.jpg"
 data-ai-hint: "delhi city india"
 description: "Explore the Web3 job market in Delhi NCR. This guide covers the region's unique strengths in policy, media, and marketing, and the career opportunities available in India's capital region."
 category: "Career Guides"
+
 ---
+
+
 
 The Delhi National Capital Region (NCR), encompassing Delhi, Gurgaon, and Noida, has carved out a distinct and influential niche within India's broader Web3 landscape. While Bangalore is the undisputed engineering hub, Delhi NCR has emerged as the center for Web3 media, marketing, policy, and business development. Its status as the national capital, combined with a massive consumer market and a thriving corporate and startup ecosystem in Gurgaon, makes it a strategic nexus for companies looking to drive adoption and navigate the evolving regulatory landscape.
 

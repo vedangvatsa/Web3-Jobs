@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is MEV? The Invisible Tax on Web3 Explained"
 image: "https://picsum.photos/seed/24/1200/630"
 description: "Maximal Extractable Value (MEV) is one of the most powerful and complex forces in crypto. Learn what it is, how it works, and its impact on the Web3 ecosystem."
 category: "Technology Deep Dives"
 data-ai-hint: "blockchain data"
+
 ---
+
+
 
 ## What is MEV? The Invisible Tax on Web3 Explained
 

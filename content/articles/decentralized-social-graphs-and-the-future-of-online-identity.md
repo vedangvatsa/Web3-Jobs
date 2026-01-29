@@ -1,10 +1,15 @@
 ---
+
+
 title: "Decentralized Social Graphs and the Future of Online Identity"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "social network identity"
 description: "A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and Lens are creating a decentralized foundation for social media where users own their data and connections."
 category: "Technology Deep Dives"
+
 ---
+
+
 
 For the past fifteen years, our digital identities have been trapped in walled gardens. Your "social graph"—the network of your friends, followers, posts, and interactions—is one of your most valuable digital assets, yet you don't own it. It's owned by platforms like Facebook, Twitter, and TikTok. If you leave the platform, your social graph disappears. If they change their algorithm, your reach vanishes. You are a digital serf, building value on land you do not own.
 
@@ -56,4 +61,3 @@ The development of a decentralized social graph is one of the most important und
 -   **New Monetization Models Emerge:** Creators are no longer beholden to the ad-based models of Web2. They can monetize their work directly through crypto-native tools like NFTs, social tokens, and token-gated content, fostering a more direct and equitable relationship with their audience.
 
 The journey towards a fully decentralized social media landscape is still in its early days. The user experience can be clunky, and the challenges of content moderation in a decentralized environment are significant. However, the development of a robust, open social graph is a critical step towards fulfilling the original promise of the internet: a permissionless space for connection, creativity, and user empowerment.
-

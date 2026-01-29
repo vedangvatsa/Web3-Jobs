@@ -1,10 +1,15 @@
 ---
+
+
 title: "The Role of Web3 Developer Advocates in Community Building"
 image: "/images/thisisengineering-32PpagSzeGs-unsplash.jpg"
 data-ai-hint: "developer advocate community"
 description: "An in-depth look at the Web3 Developer Advocate (DevRel) role, exploring how they act as the crucial bridge between a protocol and its developer community to drive ecosystem growth."
 category: "Career Guides"
+
 ---
+
+
 
 In the competitive landscape of Web3, a protocol's success often depends on a crucial factor: its ability to attract and retain a vibrant ecosystem of third-party developers. If developers are building on your platform, your network grows. If they find it too difficult or confusing, they will build elsewhere. This has given rise to one of the most important and unique roles in the industry: the **Web3 Developer Advocate**, also known as the **Developer Relations Engineer (DevRel)**.
 
@@ -48,4 +53,3 @@ The path to DevRel often starts with being an active and helpful member of a dev
 4.  **Be an Exemplary Community Member:** Hang out in the project's Discord and help other developers who are struggling. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) and helpfulness will get you noticed by the core team.
 
 The Developer Advocate role is a high-impact position that sits at the very center of a protocol's growth strategy. For developers who are passionate about teaching, communication, and community, it offers a dynamic and rewarding career at the heart of the Web3 ecosystem.
-

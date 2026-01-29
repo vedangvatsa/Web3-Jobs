@@ -1,10 +1,15 @@
 ---
+
+
 title: "Common Smart Contract Vulnerabilities Explained"
 image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
 data-ai-hint: "security vulnerability lock"
 description: "A developer's guide to the most common security flaws in Solidity smart contracts, from reentrancy to integer overflows. Learn how to identify and prevent these critical vulnerabilities."
 category: "Technology Deep Dives"
+
 ---
+
+
 
 In the high-stakes world of Web3, smart contract security is paramount. A single vulnerability in your code can lead to the loss of millions of dollars in user funds. Because deployed blockchain code is immutable, these mistakes are often permanent and irreversible. Therefore, a deep understanding of common attack vectors is not just a good practice for a developer—it is an absolute necessity.
 
@@ -154,4 +159,3 @@ When your contract calls another contract, you must check if the call was succes
     ```
 
 Smart contract security is a deep and ever-evolving field. While this guide covers some of the most common vulnerabilities, a security-first mindset requires constant learning, rigorous testing, and a healthy dose of paranoia. By understanding how things can break, you can learn to build systems that are robust, resilient, and worthy of your users' trust.
-

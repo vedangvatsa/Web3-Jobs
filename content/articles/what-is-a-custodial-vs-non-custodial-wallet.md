@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Custodial vs Non Custodial Wallet"
 image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
 data-ai-hint: "wallet custody keys"
 description: "A crucial guide to understanding the difference between custodial and non-custodial wallets. Learn who controls your private keys and why it matters for the security of your crypto assets."
 category: "Educational"
+
 ---
+
+
 When you first enter the world of cryptocurrency, one of the most critical decisions you'll make is how to store your digital assets. This choice comes down to a fundamental question: who controls your private keys? The answer determines whether you are using a **custodial** or a **non-custodial** wallet, and it has massive implications for your security, sovereignty, and ability to interact with the [Web3](/what-is-web3) ecosystem.
 
 Understanding this distinction is the most important step in taking control of your digital financial life.
@@ -66,4 +71,3 @@ For most people, the answer is both. A practical approach is:
 4.  Use a **software wallet (non-custodial)** like MetaMask as your "hot wallet" for daily interactions with dApps, keeping only a small amount of "spending money" in it.
 
 By understanding the difference between custodial and non-custodial wallets, you can make informed decisions about how to manage your assets, balancing the trade-offs between convenience and security to safely navigate the decentralized world.
-

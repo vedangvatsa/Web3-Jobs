@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Unstoppable Domains Service"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "domain name"
 description: "Unstoppable Domains is a service that provides NFT-based domain names for the decentralized web. This guide explains how it works, its features, and how it compares to other Web3 naming services."
 category: "Educational"
+
 ---
+
+
 
 **Unstoppable Domains** is a popular service that provides human-readable, blockchain-based domain names for the decentralized web. Similar to the **[Ethereum Name Service (ENS)](/understanding-ens-domains-in-ethereum)**, its goal is to replace long, complex cryptocurrency wallet addresses with simple, memorable names.
 
@@ -34,4 +39,3 @@ However, instead of just `.eth` domains, Unstoppable Domains offers a wider vari
 ### The Role of Web3 Naming Services
 
 Services like Unstoppable Domains and ENS are a critical piece of the Web3 user experience puzzle. They are abstracting away one of the most intimidating parts of crypto—the long, hexadecimal addresses—and replacing them with a simple, human-centric system. By creating a portable and user-owned naming standard, they are laying the groundwork for a more accessible and intuitive decentralized internet.
-

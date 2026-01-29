@@ -1,10 +1,15 @@
 ---
+
+
 title: "Cryptocurrency Halving Events Explained"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "crypto chart graph"
 description: "A cryptocurrency halving is a programmed event that reduces the rate at which new coins are created. It's a core part of the economic model for many cryptocurrencies, including Bitcoin."
 category: "Educational"
+
 ---
+
+
 A **cryptocurrency halving** (sometimes called "the halvening") is a pre-programmed event in a cryptocurrency's code that cuts the reward for mining new blocks in half. This effectively reduces the rate at which new coins are created and enter circulation. It is a fundamental mechanism for controlling a cryptocurrency's supply and creating a predictable, deflationary economic model.
 
 The most famous example is the Bitcoin halving, which occurs approximately every four years.
@@ -42,4 +47,3 @@ No. Halving events are a feature of cryptocurrencies that have a fixed maximum s
 Cryptocurrencies that use a Proof-of-Stake consensus mechanism, like Ethereum, do not have mining or halvings. Instead, their supply is managed through a different set of rules governing staking rewards and, in Ethereum's case, a **[fee-burning mechanism](/what-is-burning-tokens-in-cryptocurrency)** that can make the asset deflationary during periods of high network use.
 
 The halving is a powerful and elegant mechanism for creating digital scarcity. It is a core part of what makes Bitcoin a unique financial asset and a key driver of the market cycles that define the crypto world.
-

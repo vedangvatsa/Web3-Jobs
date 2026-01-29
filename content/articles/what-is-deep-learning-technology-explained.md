@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is Deep Learning Technology Explained"
 image: "https://picsum.photos/seed/deep-learning/1200/630"
 description: "A clear look at deep learning, a powerful type of machine learning that uses neural networks to solve complex problems like image recognition and natural language."
 category: "Educational"
 data-ai-hint: "neural network"
+
 ---
+
+
 
 Deep learning is a specific and powerful subfield of [machine learning](/understanding-machine-learning-for-beginners). It's the technology behind many of the most impressive recent breakthroughs in artificial intelligence, from self-driving cars to chatbots that can write poetry. The "deep" in deep learning refers to the use of large, multi-layered neural networks to analyze data.
 

@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Negotiate Your Web3 Salary and Compensation Package"
 image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnl8ZW58MHx8fHwxNzU1MDA4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "salary money negotiation"
 description: "A practical guide to negotiating your Web3 job offer. Learn how to evaluate token packages, understand vesting schedules, and maximize your total compensation in a crypto-native world."
 category: "Career Guides"
+
 ---
+
+
 
 You've aced the interviews, you've received an offer from your dream Web3 company, and now comes the final, crucial step: negotiating your compensation. In the world of Web3, this conversation is far more complex than in a traditional tech job. Your total compensation is often a multifaceted package that includes not just a base salary, but also equity in the company and, most uniquely, a grant of the project's native tokens.
 

@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is DeFi? A Beginner's Guide to Decentralized Finance"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 description: "DeFi (Decentralized Finance) aims to rebuild the entire financial system on the blockchain. This beginner's guide explains the core concepts and applications."
 category: "Industry Insights"
 data-ai-hint: "defi explained"
+
 ---
+
+
 
 DeFi stands for Decentralized Finance. It's an attempt to rebuild financial services—lending, borrowing, trading, insurance—on top of blockchain networks instead of relying on banks and traditional financial institutions.
 

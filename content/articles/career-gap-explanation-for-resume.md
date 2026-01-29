@@ -1,10 +1,15 @@
 ---
+
+
 title: "Career Gap Explanation for Your Resume"
 description: "An employment gap on your resume doesn't have to be a red flag. Learn how to frame your career break positively and address it confidently in your job search."
 image: "https://picsum.photos/seed/315/1200/630"
 data-ai-hint: "resume gap"
 category: "Career Guides"
+
 ---
+
+
 
 An employment gap on your resume can be a source of anxiety for many job seekers. You might worry that hiring managers will see it as a red flag or a sign of instability. However, career breaks are becoming increasingly common and are not the career-killers they once were. The key is to address the gap proactively, honestly, and confidently.
 

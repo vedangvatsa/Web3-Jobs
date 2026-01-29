@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Fair Launch in Cryptocurrency"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "fairness balance scale"
 description: "A fair launch is a token distribution model where a new cryptocurrency is launched without any pre-mine or early allocation to insiders. This guide explains how it works and why it embodies the crypto ethos of decentralization."
 category: "Educational"
+
 ---
+
+
 
 In the world of Web3, the way a new cryptocurrency is initially distributed is one of the most important factors in determining its long-term health and its alignment with the core ethos of decentralization. A **fair launch** is a token distribution model where a new cryptocurrency is launched with no pre-mine, no venture capital allocation, and no early access for insiders.
 
@@ -43,4 +48,3 @@ While the fair launch model is ideologically pure, it is very difficult to execu
 While true fair launches are rare, some modern projects try to emulate the spirit of a fair launch using mechanisms like a **[Liquidity Bootstrapping Pool (LBP)](/what-is-a-liquidity-bootstrapping-pool)**. An LBP is a type of token sale that uses a Dutch auction-style mechanism where the price starts high and gradually decreases, allowing the market to find a fair price over a period of time and preventing front-running by bots.
 
 The fair launch is a powerful ideal in the crypto world. It represents a commitment to decentralization and equal opportunity. While the practical realities of building a project in today's competitive environment have made true fair launches a rarity, the principles they embody continue to be a benchmark against which all new token distributions are measured.
-

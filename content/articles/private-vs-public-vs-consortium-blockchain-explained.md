@@ -1,10 +1,15 @@
 ---
+
+
 title: "Private vs Public vs Consortium Blockchain Explained"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "blockchain private public"
 description: "A clear comparison of the three main types of blockchains: public, private, and consortium. Understand their differences in permissions, decentralization, and ideal use cases."
 category: "Educational"
+
 ---
+
+
 
 While the terms "blockchain" and "decentralization" are often used interchangeably, not all blockchains are fully decentralized or open to the public. The architecture of a blockchain can be designed to fit different needs, leading to three main types: **public, private, and consortium blockchains**.
 
@@ -63,4 +68,3 @@ A consortium blockchain is a hybrid of the public and private models. It is gove
 ### Conclusion
 
 The choice between a public, private, or consortium blockchain depends entirely on the use case and the goals of the application. Public blockchains provide the foundation for a truly open and censorship-resistant **[Web3](/what-is-web3)**. Private and consortium blockchains, on the other hand, offer a pragmatic way for enterprises to leverage the efficiency and transparency of blockchain technology in a more controlled, private environment. Each model has its own trade-offs, and understanding them is key to seeing the full spectrum of blockchain's potential.
-

@@ -1,10 +1,15 @@
 ---
+
+
 title: "Hidden Freelance Jobs That Pay You in Crypto"
 image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
 data-ai-hint: "side hustle laptop"
 description: "A guide to the world of Web3 freelancing. Learn how to find and complete bounties, build a reputation in DAOs, and turn part-time contributions into a full-time career."
 category: "Career Guides"
+
 ---
+
+
 
 For many professionals, the journey into a Web3 career doesn't start with a job application. It starts with a side hustle. It begins in the evenings and on weekends, with a small contribution to a project they admire, a "bounty" completed for a DAO, or a single insightful blog post that gets noticed by the community. The permissionless and transparent nature of the Web3 ecosystem has created a vibrant "gig economy," allowing anyone, anywhere, to start contributing and earning without the need for a formal job.
 
@@ -62,4 +67,3 @@ Consistently completing bounties is how you build a reputation within a DAO. As 
 The path from a side hustle to a career in Web3 is a journey of active participation. It's about finding a community you believe in, demonstrating your value through tangible contributions, and building a reputation as a reliable and skilled operator. In this new world of work, you don't have to ask for permission to get started. The door is open; you just have to walk through it and start building.
 
 Find your next freelance gig or full-time role on our [Web3 Job Board](/jobs).
-

@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is an Initial Coin Offering"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "coins stacked crypto"
 description: "An Initial Coin Offering (ICO) is a fundraising method where a new crypto project sells its native tokens to early investors. This guide explains how ICOs work, their history, and their evolution."
 category: "Educational"
+
 ---
+
+
 
 An **Initial Coin Offering (ICO)** is a fundraising method used by new cryptocurrency projects. It is the crypto equivalent of an Initial Public Offering (IPO) in the stock market. In an ICO, a project will create a new cryptocurrency token and sell it to early investors to raise the capital needed for development, marketing, and operations.
 
@@ -38,4 +43,3 @@ In an IDO, a token is launched directly on a Decentralized Exchange (DEX). This 
 2.  **Permissionless:** Anyone can create a market for their token on a DEX without needing to go through the expensive and complex process of getting listed on a centralized exchange.
 
 While the term "ICO" is now largely historical, its impact was profound. It demonstrated that a global, permissionless, and internet-native model for fundraising was possible. The lessons learned from the excesses of the ICO boom have directly led to the more mature and sustainable token launch mechanisms that are used in the Web3 ecosystem today.
-

@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Seed Phrase and Why It Matters"
 image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
 data-ai-hint: "security key crypto"
 description: "Your seed phrase is the master key to your crypto wallet. This guide explains what it is, how it works, and the critical importance of keeping it secure."
 category: "Educational"
+
 ---
+
+
 If you've ever set up a **[non-custodial crypto wallet](/what-is-a-custodial-vs-non-custodial-wallet)** like MetaMask, you will have been given a **seed phrase**. It's a list of 12 or 24 simple words that you are instructed to write down and keep safe. It is, without exaggeration, the most important piece of information you own in the Web3 world.
 
 A seed phrase, also known as a secret recovery phrase, is a human-readable representation of the master private key for your crypto wallet. It is the ultimate backup for all of your assets.
@@ -33,4 +38,3 @@ The security of your entire Web3 life depends on how you manage your seed phrase
 -   **NEVER share it with anyone.** No legitimate support person, company, or dApp will ever ask for your seed phrase. Anyone who asks is a scammer.
 
 The seed phrase is the core of self-custody in Web3. It puts you in complete control of your digital assets, but it also places the full responsibility for their security squarely on your shoulders. Protecting your seed phrase is the most important thing you can do to **[secure your crypto](/securing-your-crypto)**.
-

@@ -1,10 +1,15 @@
 ---
+
+
 title: "Web3 Jobs in Indonesia: Riding the Wave of Southeast Asia's Crypto Adoption"
 image: "https://images.unsplash.com/photo-1524675053444-52c3ca294ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW5kb25lc2lhfGVufDB8fHx8MTc1OTI2OTM0OHww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "indonesia bali temple"
 description: "A guide to the Web3 job market in Indonesia. Learn about the country's rapid crypto adoption, the key players, in-demand roles, and typical salary ranges."
 category: "Career Guides"
+
 ---
+
+
 
 Indonesia is quickly establishing itself as a key battleground in the Southeast Asian Web3 market. With a massive, young, and mobile-first population of over 270 million people, the archipelago has one of the highest cryptocurrency adoption rates in the world. This fervent and growing user base, combined with a surge of interest from both local and international companies, is creating a dynamic and opportunity-rich job market for Web3 professionals.
 

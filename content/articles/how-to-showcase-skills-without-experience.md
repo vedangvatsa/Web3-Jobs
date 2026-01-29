@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Showcase Skills on a Resume Without Experience"
 image: "https://picsum.photos/seed/career3/1200/630"
 data-ai-hint: "skills resume presentation"
 description: "Lacking direct job experience? Learn how to effectively showcase your transferable skills, personal projects, and education to build a compelling resume that gets noticed."
 category: "Career Guides"
+
 ---
+
+
 
 The classic career paradox. You can't get a job without experience, but you can't get experience without a job. It's a frustrating cycle, especially for students, career changers, or anyone re-entering the workforce. The key to breaking this cycle is to shift the focus of your resume from what you've *done* for an employer to what you *can do* for them.
 

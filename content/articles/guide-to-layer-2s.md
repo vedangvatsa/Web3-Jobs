@@ -1,10 +1,15 @@
 ---
+
+
 title: "A Guide to Ethereum Layer 2 Scaling Solutions"
 image: "https://picsum.photos/seed/29/1200/630"
 description: "Ethereum's high gas fees have been a major bottleneck. Layer 2 scaling solutions aim to solve this. This guide explores how they work and the key differences between them."
 category: "Technology Deep Dives"
 data-ai-hint: "blockchain ethereum"
+
 ---
+
+
 
 ## A Beginner's Guide to Ethereum Layer 2 Scaling Solutions
 

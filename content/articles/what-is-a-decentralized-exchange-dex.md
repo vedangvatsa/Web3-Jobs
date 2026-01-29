@@ -1,10 +1,15 @@
 ---
+
+
 title: What is a Decentralized Exchange (DEX)
 description: Explore how decentralized exchanges (DEXs) are revolutionizing crypto trading by enabling peer-to-peer transactions without intermediaries, and learn how they differ from centralized exchanges.
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 category: "Educational"
 data-ai-hint: cryptocurrency exchange
+
 ---
+
+
 
 Decentralized exchanges, or DEXs, represent a fundamental shift in how digital assets are traded. Unlike centralized exchanges (CEXs) like Coinbase or Binance, which are operated by a single company, DEXs run on smart contracts that allow users to trade directly with one another without giving up custody of their funds. This peer-to-peer model eliminates the need for an intermediary, offering a more secure and transparent trading environment.
 

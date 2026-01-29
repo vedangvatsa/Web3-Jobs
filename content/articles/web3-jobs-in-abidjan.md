@@ -1,10 +1,12 @@
 ---
+
 title: "Web3 Jobs in Abidjan: A Guide to Ivory Coast's Digital Finance Hub"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "abidjan ivory coast"
 description: "A career guide to the Web3 job market in Abidjan. Explore how Ivory Coast's economic capital is leveraging its strength in mobile money and FinTech to become a Web3 hub in Francophone Africa."
 category: "Career Guides"
 ---
+
 
 Abidjan, the bustling economic capital of Ivory Coast (Côte d'Ivoire), is one of West Africa's most important centers for finance and technology. With one of the highest mobile money penetration rates on the continent and a rapidly growing FinTech sector, the city is a natural breeding ground for Web3 innovation, particularly in the realm of decentralized finance and digital payments. While the ecosystem is still in its growth phase, Abidjan's strategic importance and its tech-savvy population make it a key city to watch in the African Web3 landscape.
 

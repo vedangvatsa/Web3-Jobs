@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Create AI Art Step by Step"
 image: "https://picsum.photos/seed/ai-art/1200/630"
 data-ai-hint: "robot painting canvas"
 description: "A beginner-friendly guide to making your own AI-generated art. Learn how text-to-image models work and the simple steps to create stunning images with tools like Midjourney."
 category: "Educational"
+
 ---
+
+
 
 Creating art with artificial intelligence has gone from a niche hobby to a global phenomenon. Thanks to powerful yet accessible tools, anyone can now turn a simple text description into a stunning, unique image. You don't need to be a professional artist or a programmer to get started. All you need is an idea and a willingness to experiment.
 

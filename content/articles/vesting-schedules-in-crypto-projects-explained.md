@@ -1,10 +1,15 @@
 ---
+
+
 title: "Vesting Schedules in Crypto Projects Explained"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "token vesting schedule"
 description: "Vesting schedules are a crucial part of tokenomics, ensuring long-term alignment for teams and investors. This guide explains how they work, including common terms like cliffs and linear vesting."
 category: "Educational"
+
 ---
+
+
 
 In the world of Web3 startups and DAOs, a project's long-term success often depends on its ability to align the incentives of its core team, early investors, and the broader community. One of the most important tools for achieving this alignment is the **vesting schedule**.
 
@@ -58,4 +63,3 @@ When analyzing a project, be wary of vesting schedules that are too short or non
 - **Lack of Transparency:** If a project is not upfront about its token allocation and vesting schedules, it's a sign that they may have something to hide.
 
 Vesting schedules are a cornerstone of good tokenomics. They are a powerful tool for aligning incentives, fostering long-term commitment, and protecting the community from the self-interested actions of early insiders. As an investor or a potential employee, carefully scrutinizing a project's vesting schedule is a crucial part of your due diligence.
-

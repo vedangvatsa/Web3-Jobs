@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Liquidity Bootstrapping Pool"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "liquidity pool crypto"
 description: "A Liquidity Bootstrapping Pool (LBP) is a type of token sale mechanism that uses a dynamic weighting system to create a fair and bot-resistant price discovery process. Learn how this advanced AMM works."
 category: "Educational"
+
 ---
+
+
 
 A **Liquidity Bootstrapping Pool (LBP)** is an advanced type of token launch mechanism designed to facilitate fair price discovery and distribution for new crypto projects. It's a specific type of **Automated Market Maker (AMM)** pool that changes its parameters over time, making it difficult for bots to front-run the sale and allowing for a more equitable public launch.
 
@@ -36,4 +41,3 @@ This continuous weight shift creates a downward pressure on the price, similar t
 -   **Open and Permissionless Participation:** Anyone can participate at any time during the LBP period. This avoids the "gas wars" of a first-come, first-served sale.
 
 A Liquidity Bootstrapping Pool is a sophisticated and elegant token launch mechanism. It combines the instant liquidity of a DEX with the fair price discovery of a Dutch auction, creating a more equitable and stable environment for new projects to distribute their tokens to a wide and engaged community.
-

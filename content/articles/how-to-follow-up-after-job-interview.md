@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Follow Up After a Job Interview"
 description: "The interview isn't over when you walk out the door. A strategic follow-up can make all the difference. Learn when and how to follow up effectively."
 image: "https://picsum.photos/seed/305/1200/630"
 data-ai-hint: "job interview"
 category: "Career Guides"
+
 ---
+
+
 
 You’ve made it through the interview. You answered the questions, built a rapport with the hiring manager, and feel good about your performance. But the process isn’t over yet. The way you follow up after an interview can be just as important as the interview itself. A thoughtful, professional follow-up can reinforce your interest, address any lingering questions, and keep you top of mind as the hiring team makes its decision.
 

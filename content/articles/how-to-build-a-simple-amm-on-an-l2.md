@@ -1,10 +1,15 @@
 ---
+
+
 title: "How to Build a Simple AMM on an L2"
 image: "https://images.unsplash.com/photo-1579567761406-4684ee0c75b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8dGVjaHxlbnwwfHx8fDE3NTQ5NTU3OTJ8MA&lib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "decentralized exchange crypto"
 description: "A practical guide for developers on how to build a basic Automated Market Maker (AMM) style DEX on a Layer 2 network like Arbitrum or Optimism."
 category: "Technology Deep Dives"
+
 ---
+
+
 
 Automated Market Makers (AMMs) like Uniswap are one of the foundational pillars of Decentralized Finance (DeFi). They allow users to trade assets in a permissionless way by trading against a pool of tokens rather than a traditional order book.
 
@@ -147,4 +152,3 @@ function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amoun
     4.  Build a simple frontend with React and Ethers.js/Viem to interact with your deployed contracts.
 
 This guide provides a simplified overview. A production-ready AMM has many more features, such as protection against certain types of MEV and more sophisticated fee structures. However, building this simple version is an excellent way to gain a deep, practical understanding of how
-

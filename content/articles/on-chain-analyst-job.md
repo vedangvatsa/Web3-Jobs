@@ -1,10 +1,15 @@
 ---
+
+
 title: "The On-Chain Analyst Job: A Career Guide"
 image: "/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
 data-ai-hint: "data analyst chart"
 description: "A career guide for aspiring on-chain data analysts. Learn what the role entails, the tools you need to master, and how to build a portfolio that gets you hired."
 category: "Career Guides"
+
 ---
+
+
 
 In the transparent world of blockchains, every action, every transaction, and every interaction creates a permanent, public data point. This has given rise to a new and powerful discipline: **on-chain analysis**. And at the heart of this discipline is the **Web3 Data Analyst**, a role that is part data scientist, part archaeologist, and part detective.
 
@@ -58,4 +63,3 @@ This role is incredibly accessible because you can build a world-class portfolio
 5.  **Share Your Work Publicly:** This is how you get noticed. Tweet your dashboards and tag the projects you're analyzing. Write a blog post or a Twitter thread explaining the key insights from your analysis. The best on-chain analysts build a public reputation for their high-quality work, and projects often hire directly from the community of "Dune wizards."
 
 The Web3 Data Analyst role is a perfect fit for anyone who loves solving puzzles, uncovering hidden patterns, and telling stories with data. It's a career that puts you at the center of the action, providing the critical intelligence that helps projects navigate the complex and exciting world of crypto.
-

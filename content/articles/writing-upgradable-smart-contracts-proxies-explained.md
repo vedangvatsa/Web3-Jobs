@@ -1,10 +1,15 @@
 ---
+
+
 title: "Writing Upgradable Smart Contracts: Proxies Explained"
 image: "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&lib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "software update upgrade"
 description: "Smart contracts are immutable, so how do you fix bugs or add new features? This guide explains the Transparent Proxy Pattern, the industry standard for making your contracts upgradable."
 category: "Technology Deep Dives"
+
 ---
+
+
 
 One of the core properties of a smart contract is immutability. Once deployed to the blockchain, its code cannot be changed. This is a powerful feature for security and trust, but it presents a major challenge: What do you do if you find a bug, or if you want to add a new feature?
 
@@ -76,4 +81,3 @@ You should never try to write your own proxy contracts from scratch. It is a com
 *   **Centralization:** The ability to upgrade a contract introduces a new trust assumption. Users must trust that the owner of the proxy (usually the development team or a multisig) will not upgrade the contract to a malicious version. For mature protocols, it is common to transfer ownership of the proxy to a community-governed DAO or to a timelock contract to decentralize this power.
 
 Upgradability is a powerful tool that allows projects to evolve and adapt over time. By using standard, battle-tested solutions like the OpenZeppelin Upgrades Plugins, developers can build robust dApps that are both secure and future-proof.
-

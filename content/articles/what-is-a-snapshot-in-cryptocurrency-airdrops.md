@@ -1,10 +1,15 @@
 ---
+
+
 title: "What is a Snapshot in Cryptocurrency Airdrops"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "camera snapshot"
 description: "A snapshot is a record of the state of a blockchain at a specific block height. It's a crucial mechanism used by Web3 projects to determine eligibility for airdrops and governance votes."
 category: "Educational"
+
 ---
+
+
 
 In the world of Web3, the term **"snapshot"** has a specific and very important meaning. It refers to the action of recording the entire state of a blockchain at a precise moment in time, specifically at a particular block height. This record is then used as the definitive source of truth for an event like an **[airdrop](/understanding-airdrop-campaigns-in-web3)** or a governance vote.
 
@@ -43,4 +48,3 @@ The concept of a snapshot is so central to governance that it has inspired the n
 This platform allows projects to create proposals and let their token holders vote using their wallets, but without requiring an on-chain transaction (and thus, no gas fees). It works by taking a "snapshot" of token holder balances at a specific block number and using that data to weight the votes. While these votes are not binding on-chain, they are a crucial tool for gauging community sentiment before moving to a formal, on-chain vote.
 
 In essence, a snapshot is a powerful tool for creating fair and verifiable criteria in a decentralized environment. It's the mechanism that allows projects to look back at a specific moment in on-chain history and use it as the "source of truth" for distributing rewards and power.
-

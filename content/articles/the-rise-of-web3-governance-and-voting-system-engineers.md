@@ -1,10 +1,15 @@
 ---
+
+
 title: "The Rise of Web3 Governance and Voting System Engineers"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "governance meeting people"
 description: "A look at the specialized engineering roles focused on building and maintaining the governance and voting systems for DAOs and decentralized protocols."
 category: "Career Guides"
+
 ---
+
+
 
 As Decentralized Autonomous Organizations (DAOs) become more powerful and manage treasuries worth billions, the systems that govern them have become mission-critical infrastructure. This has created a demand for a highly specialized type of developer: the **Web3 Governance Engineer**.
 
@@ -38,4 +43,3 @@ A Governance Engineer works on the "operating system" of a DAO.
 4.  **Contribute to Governance Tooling:** Many of the tools used by DAOs are open source. Contributing to a project like Snapshot or Tally is a powerful way to demonstrate your skills.
 
 The role of the Governance Engineer is for developers who are fascinated by the intersection of technology, economics, and political science. It's a chance to build the democratic infrastructure for the new internet, creating the systems that will allow decentralized communities to thrive.
-
