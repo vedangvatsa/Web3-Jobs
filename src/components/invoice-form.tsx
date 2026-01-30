@@ -58,8 +58,8 @@ const invoiceSchema = z.object({
   toAddress: z.string().min(1, 'This field is required.'),
 
   invoiceNumber: z.string().min(1, 'Invoice number is required.'),
-  issueDate: z.date(),
-  dueDate: z.date(),
+  issueDate: z.date().optional(),
+  dueDate: z.date().optional(),
   
   lineItems: z.array(lineItemSchema).min(1, 'At least one line item is required.'),
   
@@ -139,11 +139,11 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
              <div className="grid grid-cols-2 gap-8 mb-8">
                 <div className="text-left">
                     <p className="text-sm text-gray-500">Issue Date</p>
-                    <p className="font-medium">{format(data.issueDate, 'PPP')}</p>
+                    <p className="font-medium">{data.issueDate ? format(data.issueDate, 'PPP') : '-'}</p>
                 </div>
                  <div className="text-right">
                     <p className="text-sm text-gray-500">Due Date</p>
-                    <p className="font-medium">{format(data.dueDate, 'PPP')}</p>
+                    <p className="font-medium">{data.dueDate ? format(data.dueDate, 'PPP') : '-'}</p>
                 </div>
              </div>
 
@@ -233,8 +233,6 @@ export function InvoiceForm() {
       toAddress: '456 Client Ave, Othertown, USA',
       toPhone: '+1 (555) 987-6543',
       invoiceNumber: 'INV-001',
-      issueDate: new Date(),
-      dueDate: new Date(new Date().setDate(new Date().getDate() + 30)),
       lineItems: [{ description: 'Web Development Services', quantity: 10, rate: 100 }],
       tax: 5,
       discount: 50,
@@ -246,6 +244,14 @@ export function InvoiceForm() {
     },
   });
 
+  React.useEffect(() => {
+    form.reset({
+      ...form.getValues(),
+      issueDate: new Date(),
+      dueDate: new Date(new Date().setDate(new Date().getDate() + 30)),
+    });
+  }, []);
+
   const { fields, append, remove } = useFieldArray({
     control: form.control,
     name: 'lineItems',
@@ -256,7 +262,7 @@ export function InvoiceForm() {
   const currencySymbol = watchedForm.currency === 'CUSTOM' ? watchedForm.customCurrency || '' : currencySymbols[watchedForm.currency] || '$';
 
   const subtotal = React.useMemo(() =>
-    watchedForm.lineItems.reduce(
+    (watchedForm.lineItems || []).reduce(
         (acc, item) => acc + (item.quantity || 0) * (item.rate || 0),
         0
     ), [watchedForm.lineItems]);
@@ -351,13 +357,13 @@ export function InvoiceForm() {
       doc.setFont('helvetica', 'normal').setFontSize(9).setTextColor(100, 116, 139);
       doc.text('Issue Date', margin, y);
       doc.setFont('helvetica', 'medium').setFontSize(10).setTextColor(0,0,0);
-      doc.text(format(data.issueDate, 'PPP'), margin, y += 15);
+      doc.text(data.issueDate ? format(data.issueDate, 'PPP') : '', margin, y += 15);
 
       y = dateY;
       doc.setFont('helvetica', 'normal').setFontSize(9).setTextColor(100, 116, 139);
       doc.text('Due Date', docWidth - margin, y, { align: 'right'});
       doc.setFont('helvetica', 'medium').setFontSize(10).setTextColor(0,0,0);
-      doc.text(format(data.dueDate, 'PPP'), docWidth - margin, y+=15, { align: 'right'});
+      doc.text(data.dueDate ? format(data.dueDate, 'PPP') : '', docWidth - margin, y+=15, { align: 'right'});
       y += 30;
 
       // Table Header
@@ -398,7 +404,7 @@ export function InvoiceForm() {
         y += 18;
       }
       
-      const localSubtotal = data.lineItems.reduce((acc, i) => acc + (i.quantity || 0) * (i.rate || 0), 0);
+      const localSubtotal = (data.lineItems || []).reduce((acc, i) => acc + (i.quantity || 0) * (i.rate || 0), 0);
       const localTaxAmount = localSubtotal * ((data.tax || 0) / 100);
       const localDiscountAmount = data.discount || 0;
       const localTotal = localSubtotal + localTaxAmount - localDiscountAmount;
@@ -522,15 +528,15 @@ export function InvoiceForm() {
                         <div className="space-y-1">
                             <Label>Issue Date</Label>
                             <Popover>
-                                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{format(form.watch('issueDate'), 'PPP')}</Button></PopoverTrigger>
-                                <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={form.watch('issueDate')} onSelect={(d) => d && form.setValue('issueDate', d)} initialFocus /></PopoverContent>
+                                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.issueDate ? format(watchedForm.issueDate, 'PPP') : (<span>Pick a date</span>)}</Button></PopoverTrigger>
+                                <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.issueDate} onSelect={(d) => d && form.setValue('issueDate', d)} initialFocus /></PopoverContent>
                             </Popover>
                         </div>
                         <div className="space-y-1">
                             <Label>Due Date</Label>
                             <Popover>
-                                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{format(form.watch('dueDate'), 'PPP')}</Button></PopoverTrigger>
-                                <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={form.watch('dueDate')} onSelect={(d) => d && form.setValue('dueDate', d)} /></PopoverContent>
+                                <PopoverTrigger asChild><Button variant="outline" className="w-full justify-start font-normal">{watchedForm.dueDate ? format(watchedForm.dueDate, 'PPP') : (<span>Pick a date</span>)}</Button></PopoverTrigger>
+                                <PopoverContent className="w-auto p-0"><Calendar mode="single" selected={watchedForm.dueDate} onSelect={(d) => d && form.setValue('dueDate', d)} /></PopoverContent>
                             </Popover>
                         </div>
                     </CardContent>
