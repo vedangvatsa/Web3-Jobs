@@ -1,6 +1,5 @@
 ---
 
-
 title: "Is a Career in Web3 Right for You? A Self-Assessment Guide"
 image: "/images/linus-mimietz-gvptKmonylk-unsplash.jpg"
 data-ai-hint: "career choice person"
@@ -8,8 +7,6 @@ description: "Considering a job in crypto? This guide provides a self-assessment
 category: "Career Guides"
 
 ---
-
-
 
 The [Web3](/what-is-web3) industry is a siren call for many ambitious professionals. It promises cutting-edge technology, the chance to be part of a financial and cultural revolution, and compensation packages that often dwarf those in traditional tech. But beneath the hype and the headlines lies a demanding and often chaotic reality. A career in Web3 is not for everyone.
 

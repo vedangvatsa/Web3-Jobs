@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in the Philippines: A Hub for GameFi and Community Talent"
 image: "https://images.unsplash.com/photo-1654844369265-e79563c56538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8cGhpbGlwcGluZXMlMjBmbGFnfGVufDB8fHx8MTc1OTI2OTU1NXww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "philippines el nido"
 description: "Dive into the Philippines' unique Web3 job market. This guide focuses on the country's dominance in Web3 gaming, community management, and the skills."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 The Philippines holds a unique and historically significant place in the world of [Web3](/what-is-web3). The nation was the global epicenter of the "Play-to-Earn" (P2E) gaming explosion in 2021, where games like Axie Infinity became a household name and provided a vital source of income for thousands during the economic hardships of the pandemic. This phenomenon has cemented the country's reputation as a powerhouse for Web3 gaming, community management, and player support services.
 

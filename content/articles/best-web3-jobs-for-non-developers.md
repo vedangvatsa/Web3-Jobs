@@ -7,7 +7,6 @@ category: "Career Guides"
 data-ai-hint: "team collaboration"
 ---
 
-
 The [Web3](/what-is-web3) revolution is not just for coders. While developers are crucial for building the infrastructure of the decentralized internet, a thriving ecosystem requires a diverse range of non-technical talent to drive growth, foster community, and create meaningful products. If you're passionate about crypto but don't write code, your skills are not only valuable-they're in high demand.
 
 This guide will walk you through the most impactful non-developer roles in Web3, what they entail, how to break in, and why they are essential to the future of the industry.

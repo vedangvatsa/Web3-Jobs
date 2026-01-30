@@ -6,7 +6,6 @@ description: "What does a quantitative analyst in decentralized finance actually
 category: "Career Guides"
 ---
 
-
 In the high-stakes, hyper-fast world of Decentralized Finance ([DeFi](/what-is-defi)), the Quantitative Analyst-or "Quant"-is a figure of immense importance. Part financial engineer, part data scientist, and part [blockchain](/what-is-a-blockchain) sleuth, the DeFi Quant is responsible for modeling risk, designing economic incentives, and finding alpha in a sea of on-chain data. It's one of the most intellectually demanding and financially rewarding roles in the entire [Web3](/what-is-web3) ecosystem.
 
 But what does a DeFi Quant actually do all day? It's not just about staring at charts. It's a deeply analytical role that sits at the intersection of mathematics, computer science, and economics. Let's pull back the curtain and explore a typical day in the life of a DeFi Quant working at a top protocol.

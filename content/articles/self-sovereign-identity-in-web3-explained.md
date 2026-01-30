@@ -1,6 +1,5 @@
 ---
 
-
 title: "Self-Sovereign Identity in Web3 Explained"
 image: "/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"
 data-ai-hint: "digital identity key"
@@ -8,8 +7,6 @@ description: "Self-Sovereign Identity (SSI) is a movement to give individuals fu
 category: "Educational"
 
 ---
-
-
 
 In today's digital world, you don't own your identity. Your identity is a collection of accounts-your Google account, your Facebook profile, your bank login-that are owned and controlled by centralized corporations. This model is fundamentally broken. It leads to a lack of privacy, massive data breaches, and a fragmented user experience.
 

@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Become a Web3 Blockchain Patent and IP Expert"
 image: "/images/pakata-goh-RDolnHtjVCY-unsplash.jpg"
 data-ai-hint: "law books intellectual property"
@@ -8,8 +7,6 @@ description: "A career guide for legal professionals specializing in intellectua
 category: "Career Guides"
 
 ---
-
-
 
 The [Web3](/what-is-web3) industry is a hotbed of innovation, with novel technologies and business models being created at a breathtaking pace. This explosion of new ideas has created a parallel need for legal experts who can help projects protect their intellectual property (IP) in a world of open-source code and decentralized networks. The **Web3 Patent and IP Expert** is a specialized legal role that sits at this complex intersection.
 

@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in Vietnam: A Deep Dive into a GameFi Superpower"
 image: "https://images.unsplash.com/photo-1528127269322-539801943592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2aWV0bmFtfGVufDB8fHx8MTcxNjQwMTg4NHww&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "vietnam city skyline"
 description: "Explore Vietnam's explosive Web3 scene, a global leader in GameFi and crypto adoption. This guide covers the job market, key roles, and salary."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 Vietnam has quietly but decisively emerged as a global superpower in the [Web3](/what-is-web3) space, particularly in the explosive realm of [blockchain](/what-is-a-blockchain) gaming (GameFi). The nation's unique combination of a large, young, entrepreneurial population, a deep-rooted gaming culture, and one of the highest cryptocurrency adoption rates in the world has created a fertile ground for innovation. The runaway success of Axie Infinity, a blockchain-based game developed by the Vietnamese studio Sky Mavis, served as a powerful catalyst, inspiring a new generation of builders and cementing the country's reputation as a leader in the space.
 

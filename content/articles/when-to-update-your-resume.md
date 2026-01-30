@@ -1,6 +1,5 @@
 ---
 
-
 title: "When and How Often Should You Update Your Resume"
 image: "https://picsum.photos/seed/career2/1200/630"
 data-ai-hint: "resume document update"
@@ -8,8 +7,6 @@ description: "Keeping your resume updated is crucial for career readiness. Learn
 category: "Career Guides"
 
 ---
-
-
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) isn't a static document you only dust off when you're actively job hunting. Think of it as a living document, a dynamic summary of your professional journey. Regularly updating it ensures you're always prepared for an unexpected opportunity and that you don't forget key accomplishments. But how often is "regularly"?
 
@@ -136,5 +133,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

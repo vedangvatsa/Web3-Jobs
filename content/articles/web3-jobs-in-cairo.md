@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Jobs in Cairo: A Guide to Egypt's Rising Tech Scene"
 image: "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWlyb3xlbnwwfHx8fDE3NTkyNzM4MDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "web3 jobs in cairo"
@@ -8,8 +7,6 @@ description: "A career guide to the Web3 job market in Cairo. Explore how Egypt'
 category: "Career Guides"
 
 ---
-
-
 
 Cairo, the sprawling, historic capital of Egypt, is awakening as a new and formidable force in the Middle East and North Africa (MENA) region's [Web3](/what-is-web3) landscape. With a massive, young, and increasingly tech-savvy population of over 100 million people, Egypt has a vast and largely untapped talent pool that is now beginning to embrace decentralized technology. The country's vibrant startup scene, combined with a growing need for more accessible financial services, is creating a dynamic and rapidly evolving job market for Web3 professionals.
 

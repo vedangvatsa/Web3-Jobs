@@ -1,6 +1,5 @@
 ---
 
-
 title: "Understanding the Constant Product Formula in AMMs"
 description: "A clear and simple guide to the constant product formula (x * y = k), the core mathematical engine that powers decentralized exchanges like Uniswap."
 category: "Educational"
@@ -8,8 +7,6 @@ image: "https://picsum.photos/seed/xyk/1200/630"
 data-ai-hint: "constant product formula"
 
 ---
-
-
 
 ## Understanding the Constant Product Formula (`x * y = k`): The Engine of AMMs
 
@@ -174,5 +171,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

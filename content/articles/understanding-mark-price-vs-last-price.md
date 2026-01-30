@@ -1,6 +1,5 @@
 ---
 
-
 title: "Understanding Mark Price vs Index Price"
 image: "https://picsum.photos/seed/mark-index-price/1200/630"
 description: "A guide to the difference between Mark Price and Index Price in crypto derivatives, and why Mark Price is crucial for preventing unfair liquidations."
@@ -8,8 +7,6 @@ category: "Educational"
 data-ai-hint: "price comparison"
 
 ---
-
-
 
 ### Introduction
 
@@ -129,5 +126,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

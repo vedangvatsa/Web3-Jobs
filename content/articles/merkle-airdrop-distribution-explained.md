@@ -1,6 +1,5 @@
 ---
 
-
 title: "Merkle Airdrop Distribution Explained"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "tree data structure"
@@ -8,8 +7,6 @@ description: "A Merkle airdrop is a highly efficient method for distributing tok
 category: "Educational"
 
 ---
-
-
 
 [Airdrops](/understanding-airdrop-campaigns-in-web3) are a powerful tool for distributing a new [token](/what-is-a-token) to a project's community. However, airdropping tokens to thousands or even millions of addresses presents a major technical challenge: how do you do it without spending a fortune on gas fees? Sending a separate `transfer` transaction to each recipient is prohibitively expensive.
 
@@ -161,5 +158,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

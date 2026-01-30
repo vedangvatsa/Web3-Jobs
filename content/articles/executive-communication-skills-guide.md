@@ -1,6 +1,5 @@
 ---
 
-
 title: Executive Communication Skills Guide
 description: Master the art of executive communication. This guide covers the key principles of clarity, brevity, and context to help you communicate effectively with senior leadership.
 image: https://picsum.photos/seed/executive/1200/630
@@ -8,8 +7,6 @@ category: Career Guides
 data-ai-hint: business meeting
 
 ---
-
-
 
 ## Introduction: Why Executive Communication is Different
 

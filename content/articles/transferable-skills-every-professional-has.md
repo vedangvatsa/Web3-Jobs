@@ -1,6 +1,5 @@
 ---
 
-
 title: 'Transferable Skills That Every Professional Has (And How to Use Them)'
 image: 'https://picsum.photos/seed/tsseph/1200/630'
 description: "Think you don't have the right experience for a job? You probably have more valuable skills than you realize. Learn how to identify and leverage your."
@@ -8,8 +7,6 @@ category: 'Career Guides'
 data-ai-hint: 'career skills'
 
 ---
-
-
 
 Whether you're trying to [pivot your career direction](/how-to-pivot-your-career-direction), re-enter the workforce after a break, or apply for a role that feels like a stretch, the concept of "transferable skills" is your secret weapon. These are the abilities and competencies you've developed throughout your life-in jobs, school, volunteer work, and even hobbies-that are highly valuable and applicable across a wide range of different roles and industries. Too often, people undervalue these skills because they weren't part of a formal job description.
 

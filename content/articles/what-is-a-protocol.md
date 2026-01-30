@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is a 'Protocol' in Web3?"
 image: "/images/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
 data-ai-hint: "web3 protocol network"
@@ -8,8 +7,6 @@ description: "A simple explanation of what a 'protocol' means in the context of 
 category: "Technology Deep Dives"
 
 ---
-
-
 
 In the world of [Web3](/what-is-web3), the word **"protocol"** is used constantly. You'll hear about "lending protocols," "liquid [staking](/how-to-become-a-web3-staking-specialist) protocols," or "[decentralized exchange](/what-is-a-decentralized-exchange-dex) protocols." But what does it actually mean?
 

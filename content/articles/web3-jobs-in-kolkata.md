@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Jobs in Kolkata: A Guide to the Cultural Capital's Crypto Scene"
 image: "/images/india web3 jobs.jpg"
 data-ai-hint: "kolkata city india"
@@ -8,8 +7,6 @@ description: "Explore the growing Web3 job market in Kolkata. This guide covers 
 category: "Career Guides"
 
 ---
-
-
 
 Kolkata, India's cultural capital, is beginning to make its mark on the country's [Web3](/what-is-web3) landscape. While not yet a major tech hub on the scale of Bangalore or Hyderabad, the city's rich heritage in arts and literature, combined with a passionate and growing youth population, is creating a nascent but vibrant ecosystem for Web3 innovation. The Web3 scene in Kolkata is characterized by its focus on community, creativity, and marketing, making it an interesting and unique place to build a non-technical career in the crypto space.
 

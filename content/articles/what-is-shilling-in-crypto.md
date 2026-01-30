@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is Shilling in the Crypto World?"
 image: "/images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg"
 data-ai-hint: "person talking crowd"
@@ -8,8 +7,6 @@ description: "A guide to understanding 'shilling,' the practice of enthusiastica
 category: "Getting Started"
 
 ---
-
-
 
 In the fast-paced and hype-driven world of crypto, you will often hear the term "shilling." Understanding what it means is crucial for navigating the space safely and making informed decisions.
 

@@ -1,6 +1,5 @@
 ---
 
-
 title: How to Write Cold Emails That Get Responses
 description: A step-by-step guide to writing effective cold emails. Learn how to craft a compelling subject line, personalize your message, and write a clear call to action that gets replies.
 image: https://picsum.photos/seed/cold-email/1200/630
@@ -8,8 +7,6 @@ category: Career Guides
 data-ai-hint: email marketing
 
 ---
-
-
 
 ## Introduction: The Art and Science of the Cold Email
 

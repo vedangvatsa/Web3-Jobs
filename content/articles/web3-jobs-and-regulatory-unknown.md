@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Careers and the Regulatory Unknown"
 image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
 data-ai-hint: "regulation law books"
@@ -8,8 +7,6 @@ description: "An analysis of how regulatory uncertainty impacts careers in Web3.
 category: "Industry Insights"
 
 ---
-
-
 
 A career in [Web3](/what-is-web3) offers a front-row seat to technological innovation, a chance to build the future of the internet, and the potential for significant financial reward. However, it also comes with a unique and ever-present risk that is less common in traditional tech: **regulatory uncertainty**.
 

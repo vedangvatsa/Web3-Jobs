@@ -1,6 +1,5 @@
 ---
 
-
 title: "Vesting Schedules in Crypto Projects Explained"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "token vesting schedule"
@@ -8,8 +7,6 @@ description: "Vesting schedules are a crucial part of tokenomics, ensuring long-
 category: "Educational"
 
 ---
-
-
 
 In the world of [Web3](/what-is-web3) startups and [DAOs](/what-is-a-dao), a project's long-term success often depends on its ability to align the incentives of its core team, early investors, and the broader community. One of the most important tools for achieving this alignment is the **vesting schedule**.
 

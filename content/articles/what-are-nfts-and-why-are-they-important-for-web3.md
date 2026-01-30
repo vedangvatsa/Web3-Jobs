@@ -1,6 +1,5 @@
 ---
 
-
 title: "What Are NFTs and Why Are They Important for Web3?"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "nft web3 art"
@@ -8,8 +7,6 @@ description: "From digital art to gaming assets, understand what Non-Fungible To
 category: "Getting Started"
 
 ---
-
-
 
 The term "[NFT](/what-are-nfts)" exploded into the mainstream, leaving many to wonder what these "Non-Fungible [Tokens](/what-is-a-token)" actually are. Are they just overpriced JPEGs of apes and pixelated characters? Or do they represent a fundamental shift in how we think about ownership in the digital world? The truth, as is often the case, lies somewhere in between.
 

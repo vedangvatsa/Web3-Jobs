@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Write Professional Resume"
 image: "https://picsum.photos/seed/professional-resume/1200/630"
 data-ai-hint: "resume paper document"
@@ -8,8 +7,6 @@ description: "A step-by-step guide on how to write a professional resume that ge
 category: "Career Guides"
 
 ---
-
-
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) is often the first impression a potential employer has of you. In a competitive job market, a well-crafted resume can be the difference between landing an [interview](/how-to-prepare-for-job-interview) and being overlooked. It's more than just a list of your past jobs; it's a marketing document designed to sell your skills and experience.
 
@@ -150,5 +147,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

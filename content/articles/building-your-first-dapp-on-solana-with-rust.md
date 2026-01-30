@@ -1,6 +1,5 @@
 ---
 
-
 title: "Building Your First DApp on Solana with Rust"
 image: "https://images.unsplash.com/photo-1603539947678-cd3954ed515d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8YXBwfGVufDB8fHx8MTc1NTAzNjY3OXww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "solana blockchain rust"
@@ -8,8 +7,6 @@ description: "A developer's guide to getting started with Solana. Learn the basi
 category: "Getting Started"
 
 ---
-
-
 
 While [Ethereum](/what-is-ethereum) dominates the landscape of [smart contract](/what-are-smart-contracts) development, a new generation of high-performance blockchains is emerging, and at the forefront is Solana. Known for its incredible speed and low transaction fees, Solana offers a different set of trade-offs and a unique programming model that is attracting developers looking to build highly scalable applications.
 
@@ -240,5 +237,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

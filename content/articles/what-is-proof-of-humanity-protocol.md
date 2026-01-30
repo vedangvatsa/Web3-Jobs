@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is Proof of Humanity Protocol"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "person human identity"
@@ -8,8 +7,6 @@ description: "Proof of Humanity is a system that combines a social verification 
 category: "Educational"
 
 ---
-
-
 
 In a digital world where one person can easily create thousands of fake accounts, how can we build systems that guarantee "one person, one vote" or a fair distribution of resources? This is known as the **"sybil attack" problem**, and it's one of the most difficult challenges in decentralized systems. **Proof of Humanity (PoH)** is an experimental social identity verification system on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) that aims to solve this problem.
 
@@ -110,5 +107,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

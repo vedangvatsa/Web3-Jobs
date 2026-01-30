@@ -1,6 +1,5 @@
 ---
 
-
 title: "What Is Web3 and How Will It Change the Internet?"
 image: "/images/adi-goldstein-EUsVwEOsblE-unsplash.jpg"
 data-ai-hint: "web3 future internet"
@@ -8,8 +7,6 @@ description: "An introduction to Web3, the next evolution of the internet. This 
 category: "Getting Started"
 
 ---
-
-
 
 You've likely heard the terms "[Web3](/what-is-web3)," "crypto," and "[blockchain](/what-is-a-blockchain)" being used to describe the future of the internet. But **what is Web3**? Is it just about cryptocurrencies and [NFTs](/what-are-nfts)? Or does it represent a more fundamental shift in how the internet works?
 

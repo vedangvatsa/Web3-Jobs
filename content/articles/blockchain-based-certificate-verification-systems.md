@@ -1,6 +1,5 @@
 ---
 
-
 title: "Blockchain Based Certificate Verification Systems"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "certificate verification blockchain"
@@ -8,8 +7,6 @@ description: "An exploration of how blockchain technology can be used to create 
 category: "Educational"
 
 ---
-
-
 
 In a world where credentials matter, the process of verifying them is often surprisingly archaic. Confirming a university degree, a professional certification, or an employee's training record can involve phone calls, emails, and manual checks that are slow, costly, and prone to fraud. **[Blockchain technology](/what-is-a-blockchain)** offers a powerful solution to this problem by creating a decentralized, tamper-proof, and instantly verifiable system for issuing and validating certificates.
 

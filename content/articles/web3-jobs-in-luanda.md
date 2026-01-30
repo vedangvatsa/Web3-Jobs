@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "luanda angola city"
 description: "A career guide to the nascent Web3 job market in Luanda. Explore how Angola's capital is beginning to embrace blockchain technology, with a focus on."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 Luanda, the dynamic and rapidly modernizing capital of Angola, is at the very beginning of its journey into the [Web3](/what-is-web3) world. As a major center for finance and energy in Central Africa, the city possesses the economic foundations and a growing pool of tech talent necessary to build a future [blockchain](/what-is-a-blockchain) ecosystem. While the Web3 scene is still nascent, there is a burgeoning interest among young developers, entrepreneurs, and even established corporations in how decentralized technology can be leveraged to solve local challenges, particularly in finance and logistics.
 
@@ -377,7 +371,6 @@ After 1-2 years, you can shift: invest more aggressively, consider business/star
 - "DeFi Protocol Whitepapers" (Uniswap, Aave, Curve)
 - Bankless newsletter: weekly analysis
 - Paradigm research: deep technical research
-
 
 ### Your Next Step: Find a Web3 Job
 

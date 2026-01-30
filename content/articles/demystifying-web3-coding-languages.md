@@ -1,6 +1,5 @@
 ---
 
-
 title: "What Coding Language is Used for Web3? A Developer's Guide"
 description: "A guide to the most important programming languages in Web3. Learn about Solidity, Rust, and the key languages you need to know to become a blockchain."
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
@@ -8,8 +7,6 @@ category: "Career Guides"
 data-ai-hint: "code on screen"
 
 ---
-
-
 
 ## Beyond JavaScript: What Coding Languages Power Web3?
 

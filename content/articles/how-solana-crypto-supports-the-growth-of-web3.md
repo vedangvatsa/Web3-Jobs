@@ -1,6 +1,5 @@
 ---
 
-
 title: "How Solana Crypto Supports the Growth of Web3"
 image: "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
 data-ai-hint: "solana crypto web3"
@@ -8,8 +7,6 @@ description: "An analysis of how Solana's high-performance blockchain and its na
 category: "Technology Deep Dives"
 
 ---
-
-
 
 While [Ethereum](/what-is-ethereum) is the dominant [smart contract](/what-are-smart-contracts) platform, the [Web3](/what-is-web3) ecosystem is a multi-chain world, and **[Solana](/what-is-solana)** has carved out a crucial role as a high-performance **[Layer 1 blockchain](/what-is-a-layer-1-[blockchain](/what-is-a-blockchain))**. Its architecture, which prioritizes speed and low transaction costs, makes it a compelling platform for a specific class of decentralized applications and a key driver of Web3's growth. The native cryptocurrency of the network, SOL, is integral to its operation and economic security.
 

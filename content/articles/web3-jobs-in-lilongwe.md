@@ -7,7 +7,6 @@ description: "A career guide to the nascent Web3 job market in Lilongwe. Explore
 category: "Career Guides"
 ---
 
-
 Lilongwe, the capital of Malawi, is a city at the very beginning of its [Web3](/what-is-web3) journey. In a nation where agriculture is the backbone of the economy and financial inclusion remains a major challenge, the potential for decentralized technology to create a significant impact is immense. While the local Web3 ecosystem is small and in a nascent stage, it is being driven by a passionate community of young innovators, developers, and entrepreneurs who see [blockchain](/what-is-a-blockchain) as a powerful tool for social and economic development.
 
 The emerging Web3 scene in Lilongwe is characterized by its focus on real-world utility, particularly in AgriTech (agricultural technology) and mobile-first FinTech. For ambitious professionals in Malawi, Web3 offers a chance to be a pioneer, building solutions that can directly address the country's most pressing needs. This guide provides a forward-looking overview of the [Web3 career](/web3-jobs-for-beginners) landscape in Lilongwe, covering potential growth areas and the skills needed to get involved in this frontier market.
@@ -207,7 +206,7 @@ A: Job/freelance first. Build income + skills + network. After 1-2 years, launch
 - [Gitcoin Grants](https://grants.gitcoin.co/): Community funding
 
 **Related Articles:**
-- [Web3 Career Growth & Development](web3-career-growth-and-development)
+
 - How to Find a Mentor in Web3
 - Building Strong Professional Relationships
 - [Understanding Web3 Consensus Mechanisms](understanding-web3-consensus-mechanism-architects)

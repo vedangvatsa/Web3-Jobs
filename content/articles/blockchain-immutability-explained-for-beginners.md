@@ -1,6 +1,5 @@
 ---
 
-
 title: "Blockchain Immutability Explained for Beginners"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "blockchain security"
@@ -8,7 +7,6 @@ description: "Immutability is one of the most powerful features of blockchain te
 category: "Educational"
 
 ---
-
 
 Immutability is one of the most powerful features of [blockchain](/what-is-a-blockchain) technology. It means that once data is recorded on the blockchain, it cannot be changed or deleted. This property is what makes a blockchain a tamper-proof and trustworthy record of events, without needing a central authority to guarantee its integrity.
 

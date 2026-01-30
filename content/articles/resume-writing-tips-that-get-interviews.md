@@ -1,6 +1,5 @@
 ---
 
-
 title: "Resume Writing Tips That Get Interviews"
 image: "https://picsum.photos/seed/resume-tips/1200/630"
 data-ai-hint: "resume paper interview"
@@ -8,8 +7,6 @@ description: "Learn advanced resume writing tips that will help you stand out an
 category: "Career Guides"
 
 ---
-
-
 
 You've written a solid [resume](/how-to-build-a-web3-resume-that-stands-out). It has your work experience, your education, and your skills. But in a competitive job market, "solid" isn't always enough. To consistently land interviews for the jobs you really want, your resume needs to be more than just a list of your qualifications. It needs to be a powerful marketing tool that tells a compelling story about who you are and the value you can bring.
 
@@ -153,5 +150,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

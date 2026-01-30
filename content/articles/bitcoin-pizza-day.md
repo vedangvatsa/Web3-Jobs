@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "bitcoin pizza day"
 ---
 
-
 ## The Humble Beginnings of a Multi-Trillion Dollar Asset
 
 In the annals of cryptocurrency history, few stories are as iconic or as illustrative of [Bitcoin](/what-is-bitcoin)'s journey as the story of Bitcoin Pizza Day. Every year on May 22, the global crypto community comes together to celebrate a seemingly mundane event: the purchase of two pizzas. But this was no ordinary transaction. It was the first time Bitcoin was used to buy a real-world product, and it set the stage for everything that was to come.

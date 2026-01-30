@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Get Started as a Web3 UX Designer"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "web3 ux design"
@@ -8,8 +7,6 @@ description: "A career guide for UX/UI designers looking to enter the Web3 space
 category: "Career Guides"
 
 ---
-
-
 
 One of the biggest hurdles to the mainstream adoption of [Web3](/what-is-web3) is its often-terrible user experience. For new users, interacting with a decentralized application (dApp) can be confusing and intimidating. This has created a massive demand for skilled UX/UI designers who can bridge the gap between the complex backend of the [blockchain](/what-is-a-blockchain) and the end-user.
 

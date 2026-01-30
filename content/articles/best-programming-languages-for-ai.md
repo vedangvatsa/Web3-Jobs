@@ -7,7 +7,6 @@ description: "A look at the top programming languages used for AI and machine le
 category: "Educational"
 ---
 
-
 When people think about building artificial intelligence, they often picture complex algorithms and futuristic robots. But at a practical level, all of this is built with code. The [programming language](/best-programming-languages-for-blockchain-development) you choose can have a big impact on your ability to build, test, and deploy AI models.
 
 While you can technically use any language, a few have risen to the top to become the industry standards. This guide will break down the best programming languages for AI, explain why they are popular, and help you decide which one is right for you.

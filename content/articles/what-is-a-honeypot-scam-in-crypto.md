@@ -1,6 +1,5 @@
 ---
 
-
 title: "Honeypot Scams in Crypto Explained"
 image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
 data-ai-hint: "crypto scam trap"
@@ -8,7 +7,6 @@ description: "A honeypot is a malicious smart contract that tricks users into se
 category: "Educational"
 
 ---
-
 
 In the world of cryptocurrency, a **honeypot** is a particularly deceptive and malicious type of scam. It involves a [smart contract](/what-are-smart-contracts) that appears to offer an irresistible opportunity-like a new [token](/what-is-a-token) with a rapidly rising price-but is coded in a way that makes it impossible for anyone but the scammer to withdraw the funds. It's a trap designed to lure in greedy or unsuspecting users and lock their money away forever.
 

@@ -1,14 +1,11 @@
 ---
 
-
 title: "Building a Killer Web3 Developer Portfolio"
 image: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0Zm9saW98ZW58MHx8fHwxNzU1MTYxODk4fDA&lib=rb-4.1.0&q=80&w=1080"
 description: "In Web3, your GitHub is your resume. This guide covers the essential projects you need in your portfolio to land a job as a blockchain developer, from."
 category: "Career Guides"
 
 ---
-
-
 
 In the [Web3](/what-is-web3) job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary. Your LinkedIn profile is an afterthought. The single most important asset in your job search as a developer is your [portfolio](/building-web3-portfolio)-specifically, your GitHub profile. Hiring managers and technical recruiters in this space are looking for tangible proof of your skills. They want to see that you can write clean, secure [Solidity](/best-programming-languages-for-blockchain-development) code, that you can build intuitive frontends that interact with the [blockchain](/what-is-a-blockchain), and that you have a genuine passion for the technology that extends beyond your day job.
 

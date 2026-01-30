@@ -1,6 +1,5 @@
 ---
 
-
 title: "Business Development (BD) Strategy for Web3 Projects"
 image: "/images/alex-knight-2EJCSULRwC8-unsplash.jpg"
 data-ai-hint: "business development handshake"
@@ -8,8 +7,6 @@ description: "A deep dive into Web3 business development. This guide outlines th
 category: "Industry Insights"
 
 ---
-
-
 
 In the composable, interconnected world of [Web3](/what-is-web3), the old adage "your network is your net worth" has never been more true. A project's success is often determined not by the strength of its own walls, but by the number and quality of the bridges it builds to other projects. This makes Business Development (BD) and partnerships one of the most critical, high-leverage functions for any Web3 startup or protocol.
 

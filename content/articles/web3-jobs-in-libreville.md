@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "libreville gabon city"
 description: "A career guide to the Web3 job market in Libreville. Explore how Gabon's capital is becoming a hub for Regenerative Finance (ReFi) and conservation-focused."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 Libreville, the capital of Gabon, is emerging as a unique and influential hub in the African [Web3](/what-is-web3) landscape, driven by the country's pioneering role in conservation and environmental policy. With over 88% of its territory covered by forests and a strong national commitment to protecting its natural heritage, Gabon is a world leader in conservation. This has created a powerful niche for the application of Web3 technology in the field of **Regenerative Finance (ReFi)**, positioning Libreville as a key center for "green crypto."
 
@@ -216,7 +210,7 @@ The job market in Libreville is highly specialized and geared towards profession
 
 **Week 11-12:**
 - [ ] Target: 1,000+ Twitter followers (ReFi + climate focus)
-- [ ] Target: 1 serious job [interview](/how-to-prepare-for-job-interview)
+
 - [ ] Publish: "What I've Learned in My First 3 Months of ReFi" reflection
 - [ ] Set 90-day outcome goals: salary target, projects shipped, connections made
 
@@ -357,7 +351,6 @@ Faster path: Focus on rare specialization (MRV data, formal verification of carb
 - "Mechanism Design for Decentralized Finance" (technical deep-dive)
 - Nature Conservancy reports on blockchain for conservation
 - Toucan Protocol white papers and technical docs
-
 
 ### Your Next Step: Find a Web3 Job
 

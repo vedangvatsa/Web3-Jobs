@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Product Design Careers for Blockchain-Based Apps"
 image: "/images/pietro-jeng-n6B49lTx7NM-unsplash.jpg"
 data-ai-hint: "web3 product design"
@@ -8,8 +7,6 @@ description: "A career guide for UX/UI designers looking to enter the Web3 space
 category: "Career Guides"
 
 ---
-
-
 
 One of the biggest hurdles to the mainstream adoption of [Web3](/what-is-web3) is its often-terrible user experience (UX). For new users, interacting with a decentralized application (dApp) for the first time can be a confusing and intimidating process. This has created a massive demand for skilled **Web3 Product Designers** who can bridge the gap between the complex backend of the [blockchain](/what-is-a-blockchain) and the end-user.
 

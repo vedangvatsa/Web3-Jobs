@@ -7,7 +7,6 @@ description: "A guide to the hybrid career path of an AI/Web3 Engineer. Learn wh
 category: "Career Guides"
 ---
 
-
 The worlds of Artificial Intelligence (AI) and [Web3](/what-is-web3) are rapidly converging, creating a new and exciting frontier for engineers. This intersection is giving rise to a new breed of developer: the **AI/Web3 Engineer**. This is a professional who possesses a rare hybrid skillset, capable of building systems that are both intelligent and decentralized.
 
 As we explored in our overview of [AI + Web3 careers](/ai-and-web3-hybrid-careers), this convergence is driven by a symbiotic relationship where each technology helps solve the other's core problems. Web3 can make AI more transparent and trustworthy, while AI can make Web3 systems more intelligent and powerful. For engineers, this creates a fascinating and highly lucrative career path.

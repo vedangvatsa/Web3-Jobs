@@ -1,6 +1,5 @@
 ---
 
-
 title: "Why Now is the Best Time to Jobseek in Crypto"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "person looking at job board"
@@ -8,8 +7,6 @@ description: "Bear market got you down? Here's why a downturn is actually the be
 category: "Career Guides"
 
 ---
-
-
 
 The crypto market is in a downturn. Prices are down, the hype has faded, and headlines are filled with stories of gloom and doom. For those on the outside, it might seem like the worst possible time to look for a job in [Web3](/what-is-web3). But for those with a long-term perspective, the opposite is true. A bear market, or "crypto winter," is, without a doubt, the absolute best time to find a high-quality, sustainable, and impactful job in the crypto industry.
 

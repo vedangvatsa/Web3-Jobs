@@ -1,6 +1,5 @@
 ---
 
-
 title: "Understanding Block Time in Different Blockchains"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "blockchain time"
@@ -8,7 +7,6 @@ description: "Block time is the average time it takes for a new block to be crea
 category: "Educational"
 
 ---
-
 
 In a [blockchain](/what-is-a-blockchain), transactions are bundled together into "blocks," which are then added to the chain in a chronological sequence. The **block time** is the average time it takes for the network to generate one of these new blocks. It is a fundamental parameter of a blockchain's design, directly influencing its speed, transaction throughput, and user experience.
 

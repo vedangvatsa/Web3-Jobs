@@ -1,6 +1,5 @@
 ---
 
-
 title: "Exploring Web3 Project Manager Career Paths"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "project manager career"
@@ -8,8 +7,6 @@ description: "A deep dive into the career paths for Project Managers in Web3. Le
 category: "Career Guides"
 
 ---
-
-
 
 As the [Web3](/what-is-web3) ecosystem matures, the need for skilled organizational and operational talent has become just as critical as the need for technical talent. While developers build the protocols, it's the **Web3 Project Manager** who ensures that these complex, multi-faceted initiatives are delivered on time and on budget.
 
@@ -246,7 +243,6 @@ A: Build expertise first (1-2 years); then launch if you have community + thesis
 - Our [Web3 Job](/web3-jobs-for-beginners) Board (/jobs)
 - AngelList: Web3 startups
 - DAO job boards (DAOJobs, etc.)
-
 
 ### Your Next Step
 

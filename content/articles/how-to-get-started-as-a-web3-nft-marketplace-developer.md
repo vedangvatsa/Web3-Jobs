@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Get Started as a Web3 NFT Marketplace Developer"
 image: "/images/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
 data-ai-hint: "nft marketplace developer"
@@ -8,8 +7,6 @@ description: "A guide for developers on building a career in the NFT space. Lear
 category: "Career Guides"
 
 ---
-
-
 
 The explosion of [Non-Fungible Tokens (NFTs)](/what-are-nfts) has created a massive demand for developers who can build the platforms and marketplaces where these unique digital assets are created, traded, and showcased. A career as an **NFT Marketplace Developer** is a path that combines [smart contract](/what-are-smart-contracts) engineering, full-stack web development, and an understanding of the creator economy.
 

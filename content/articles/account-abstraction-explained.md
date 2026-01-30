@@ -7,7 +7,6 @@ category: "Technology Deep Dives"
 data-ai-hint: "blockchain ethereum"
 ---
 
-
 ## Account Abstraction Explained: The Future of Web3 Wallets
 
 For [Web3](/what-is-web3) to achieve mass adoption, it must overcome a significant user experience hurdle: the complexity and unforgiving nature of [crypto wallets](/how-to-choose-a-crypto-wallet). The concepts of seed phrases, gas fees, and signing every single transaction are foreign and intimidating to the average user. **Account Abstraction (AA)** is a technical proposal for the [Ethereum](/what-is-ethereum) ecosystem that aims to solve these problems by making user accounts smarter, more flexible, and more user-friendly.

@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Jobs in the USA: The Epicenter of Crypto Innovation"
 image: "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1c2F8ZW58MHx8fHwxNzE2NDAyMDY1fDA&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "usa city skyline"
@@ -8,8 +7,6 @@ description: "A guide to the Web3 job market in the United States. We cover the 
 category: "Career Guides"
 
 ---
-
-
 
 The United States is, without question, the global epicenter of the [Web3](/what-is-web3) industry. It is home to the world's largest and most influential venture capital funds, the headquarters of the majority of leading protocols and companies, and the most intense demand for elite talent. The US market is not a single entity but a collection of dynamic hubs, each with its own unique culture and specialization. From the nexus of finance and crypto in New York City to the deep-tech engineering and research culture of the San Francisco Bay Area, the US offers the widest and most lucrative range of career opportunities in the decentralized world.
 

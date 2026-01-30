@@ -1,6 +1,5 @@
 ---
 
-
 title: "Managing Former Peers After Promotion"
 image: "https://picsum.photos/seed/mfp1/1200/630"
 description: "Just got promoted over your friends and former teammates? Navigating this tricky transition requires a thoughtful approach. Here’s how to do it right."
@@ -8,8 +7,6 @@ category: "Career Guides"
 data-ai-hint: "promotion manager"
 
 ---
-
-
 
 Getting promoted is a career high, but when it means you're now managing the same people who were your peers yesterday, it can feel incredibly awkward. Suddenly, the dynamic has shifted. The friend you used to vent to about your boss is now the person you report to. This is one of the trickiest transitions in any career, and how you handle the first few weeks will set the tone for your entire tenure as a manager.
 
@@ -138,5 +135,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

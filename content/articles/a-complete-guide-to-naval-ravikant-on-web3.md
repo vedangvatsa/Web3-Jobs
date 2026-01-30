@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man thinking"
 ---
 
-
 ## Introduction: The Angel Philosopher of Silicon Valley
 
 Naval Ravikant is an entrepreneur, investor, and philosopher who has become one of the most respected and influential thinkers in technology and, by extension, [Web3](/what-is-web3). As the co-founder of AngelList and an early investor in companies like Uber, Twitter, and Postmates, his insights on wealth creation, happiness, and technology are followed by millions.
