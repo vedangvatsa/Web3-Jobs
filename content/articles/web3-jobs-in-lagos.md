@@ -372,13 +372,6 @@ A:
 - Bankless newsletter (weekly analysis)
 - Paradigm research (technical deep-dives)
 
-### Related Career Guides
-Explore for context and opportunities:
-- [Web3 Jobs in Accra](web3-jobs-in-accra): West Africa creative hub
-- [Web3 Jobs in Dakar](web3-jobs-in-dakar): Francophone West Africa
-- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi): East Africa hub
-- FinTech Web3 Careers
-- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

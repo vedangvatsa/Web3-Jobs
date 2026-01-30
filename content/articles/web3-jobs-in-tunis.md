@@ -346,13 +346,6 @@ Best mentors are 1-2 steps ahead of you. Find your cohort; level up together.
 - Bankless newsletter (weekly DeFi analysis)
 - Paradigm research papers (deep technical research)
 
-### Related Career Guides
-Explore for context and opportunities:
-- [Web3 Jobs in Algeria](web3-jobs-in-algiers): North Africa MENA hub
-- [Web3 Jobs in Morocco](web3-jobs-in-casablanca): Gateway Africa
-- Complete Web3 Skills Guide
-- Remote Web3 Careers
-- DeFi Protocol Engineering
 
 ### Your Next Step: Find a Web3 Job
 

@@ -360,13 +360,6 @@ A:
 - Bankless newsletter
 - Paradigm research
 
-### Related Career Guides
-Explore for context:
-- [Web3 Jobs in Lagos](web3-jobs-in-lagos): West Africa mega-hub
-- [Web3 Jobs in Accra](web3-jobs-in-accra): West Africa creativity
-- [Web3 Jobs in Algeria](web3-jobs-in-algiers): MENA hub
-- FinTech Web3 Careers
-- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

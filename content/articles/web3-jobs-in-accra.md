@@ -352,12 +352,6 @@ A: Possible, but challenging:
 - Bankless newsletter
 - Paradigm research
 
-### Related Career Guides
-Explore for context:
-- [Web3 Jobs in Lagos](web3-jobs-in-lagos): West Africa mega-hub
-- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi): East Africa hub
-- NFT Artist Career Guide
-- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

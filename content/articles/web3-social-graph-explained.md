@@ -194,11 +194,6 @@ The Web3 social graph represents a paradigm shift:
 - Strong social graph ecosystem network
 - 1 job offer, app funding, or grant opportunity
 
-## Related Career Guides
-
-- [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) Guide
-- Decentralized Social Media Career Guide
-- Protocol Engineer Career Path
 
 ### Your Next Step
 

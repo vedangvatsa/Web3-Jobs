@@ -359,11 +359,6 @@ A: Depends on location:
 - DeFi whitepapers: Uniswap, Aave, Curve
 - Bankless newsletter
 
-### Related Career Guides
-- [Web3 Jobs in Brazil](web3-jobs-in-brazil): Technical roles
-- Web3 Marketing Careers Guide
-- Community Manager Career Guide
-- Content Creator Web3 Guide
 
 ### Your Next Step: Start Building
 

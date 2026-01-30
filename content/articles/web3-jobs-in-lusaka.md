@@ -352,13 +352,6 @@ Red flags:
 - Bankless newsletter
 - Paradigm research papers
 
-### Related Career Guides
-Explore these for complementary opportunities:
-- [Web3 Jobs in Kampala](web3-jobs-in-kampala): East Africa, mobile-first
-- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi): East Africa hub
-- AgriTech Web3 Careers
-- Complete Web3 Skills Guide
-- Remote Web3 Careers Guide
 
 ### Your Next Step: Find a Web3 Job
 
