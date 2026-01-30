@@ -2,14 +2,14 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'The Web3 Playbook | Career Guides & Tech Deep Dives',
-  description: 'Your complete guide to the world of Web3. Explore articles on careers, technology, and industry insights to help you build your crypto career.',
+  title: 'Web3 Playbook | Practical Career Guides and Tech Deep Dives',
+  description: 'Actionable Web3 guides, career playbooks, and technical deep dives for builders, operators, and job seekers.',
   alternates: {
     canonical: '/blog',
   },
   openGraph: {
-    title: 'The Web3 Playbook | Career Guides & Tech Deep Dives',
-    description: 'Explore in-depth articles on Web3 careers, technology, and industry insights. Your complete guide to building a successful career in crypto.',
+    title: 'Web3 Playbook | Practical Career Guides and Tech Deep Dives',
+    description: 'Explore in depth Web3 articles on careers, technology, and industry insights to help you build a successful crypto career.',
     url: 'https://hashtagweb3.com/blog',
     images: [
       {
@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'The Web3 Playbook | Career Guides & Tech Deep Dives',
-    description: 'Your complete guide to the world of Web3. In-depth articles on careers, technology, and industry insights.',
+    title: 'Web3 Playbook | Practical Career Guides and Tech Deep Dives',
+    description: 'Practical Web3 career guides and technical deep dives for builders and job seekers.',
     images: ['https://hashtagweb3.com/og-image-blog.png'],
   },
 };

@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { Header } from '@/components/header';
 import Image from 'next/image';
 import { Metadata } from 'next';
-import type { Article as ArticleSchema, ScholarlyArticle } from 'schema-dts';
+import type { Article as ArticleSchema, ScholarlyArticle, BreadcrumbList } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
 import { Suspense } from 'react';
 import { cn } from '@/lib/utils';
@@ -41,14 +41,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   ].filter((v, i, a) => a.indexOf(v) === i); // Remove duplicates
 
   return {
-    title: article.title,
+    title: `${article.title} | Web3 Playbook`,
     description: article.description,
     keywords: keywords,
     alternates: {
       canonical: articleUrl,
     },
     openGraph: {
-      title: article.title,
+      title: `${article.title} | Web3 Playbook`,
       description: article.description,
       type: 'article',
       url: articleUrl,
@@ -63,7 +63,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     },
     twitter: {
       card: 'summary_large_image',
-      title: article.title,
+      title: `${article.title} | Web3 Playbook`,
       description: article.description,
       images: [article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`],
     },
@@ -110,11 +110,39 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     }
   };
 
+  const breadcrumbSchema: BreadcrumbList = {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: siteUrl,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Blog',
+        item: `${siteUrl}/blog`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: article.title,
+        item: `${siteUrl}/${article.slug}`,
+      },
+    ],
+  };
+
   return (
     <div className="flex flex-col min-h-screen bg-background">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       <Header />
       <main className="flex-1">

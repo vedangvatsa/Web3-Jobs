@@ -2,14 +2,14 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Web3 Career Resources | Free Tools for Your Crypto Career',
-  description: 'Explore our suite of free tools designed to help you succeed in your Web3 career, from a resume builder to interview questions.',
+  title: 'Free Web3 Career Tools | Resume, Salary, Interviews',
+  description: 'Free tools for Web3 careers including a resume builder, salary calculator, interview questions, and offer letter templates.',
   alternates: {
     canonical: '/resources',
   },
   openGraph: {
-    title: 'Web3 Career Resources | Free Tools for Your Crypto Career',
-    description: 'Explore our suite of free tools designed to help you succeed in your Web3 career or build a top-tier team in the crypto space.',
+    title: 'Free Web3 Career Tools | Resume, Salary, Interviews',
+    description: 'Explore free Web3 tools for resumes, salaries, interviews, and offer letters. Built for professionals and hiring teams.',
     url: 'https://hashtagweb3.com/resources',
     images: [
       {
@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Career Resources | Free Tools for Your Crypto Career',
-    description: 'All the tools you need for your Web3 career, in one place.',
+    title: 'Free Web3 Career Tools | Resume, Salary, Interviews',
+    description: 'Free Web3 career tools for resumes, salaries, interviews, and offers.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };
