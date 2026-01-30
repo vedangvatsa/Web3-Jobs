@@ -5,8 +5,7 @@ export interface Job {
   title: string;
   company: string;
   link: string;
-  date: string; // ISO string for serialization
-  source: string;
+  date: string; // ISO string for serialization (used in schema markup)
 }
 
 export interface Article {
