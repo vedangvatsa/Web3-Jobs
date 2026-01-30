@@ -74,7 +74,7 @@ Your headline and your "About" summary are the most critical. Your headline is w
 Focus on quality over quantity. Introverts often excel at one-on-one interactions. Instead of trying to work a crowded room at a conference, focus on scheduling a few targeted, 15-minute virtual coffee chats. Our [networking strategies for introverts guide](/networking-strategies-for-introverts) provides more detailed tips.
 
 **5. How much does my personal life affect my professional reputation?**
-The line between personal and professional life is blurrier than ever. While your employer shouldn't be concerned with your private life, any public behavior—online or offline—that is illegal, unethical, or reflects poorly on
+The line between personal and professional life is blurrier than ever. While your employer shouldn't be concerned with your private life, any public behavior-online or offline-that is illegal, unethical, or reflects poorly on
 
 ## Why This Matters
 
@@ -137,7 +137,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

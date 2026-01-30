@@ -67,7 +67,7 @@ If you make a typo or need to add more information, edit your original message. 
 
 ## Conclusion
 
-Slack is a powerful tool, but it is just that—a tool. It is up to us to use it in a way that promotes productivity, transparency, and a positive work environment. By establishing and adhering to a clear set of best practices, teams can avoid the pitfalls of constant distraction and create a communication culture that is both efficient and respectful of everyone's time and attention.
+Slack is a powerful tool, but it is just that-a tool. It is up to us to use it in a way that promotes productivity, transparency, and a positive work environment. By establishing and adhering to a clear set of best practices, teams can avoid the pitfalls of constant distraction and create a communication culture that is both efficient and respectful of everyone's time and attention.
 
 ### Frequently Asked Questions (FAQ)
 
@@ -151,7 +151,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

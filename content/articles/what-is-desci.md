@@ -13,7 +13,7 @@ category: "Industry Insights"
 
 The world of scientific research, for all its noble goals, is often hampered by systemic issues: funding is concentrated in the hands of a few institutions, access to research papers is locked behind expensive paywalls, and collaboration can be stifled by institutional silos. The peer review process is slow, career advancement is based on publication counts rather than impact, and the vast majority of scientific progress remains hidden behind institutional barriers.
 
-**DeSci**, short for **Decentralized Science**, is a burgeoning Web3 movement that aims to solve these problems by building a more open, equitable, and transparent ecosystem for science. DeSci leverages the tools of Web3—from DAOs to NFTs to decentralized storage—to create a new public infrastructure for scientific funding, peer review, and knowledge sharing.
+**DeSci**, short for **Decentralized Science**, is a burgeoning Web3 movement that aims to solve these problems by building a more open, equitable, and transparent ecosystem for science. DeSci leverages the tools of Web3-from DAOs to NFTs to decentralized storage-to create a new public infrastructure for scientific funding, peer review, and knowledge sharing.
 
 It's not just a technological movement. It's a fundamental reimagining of how science should be organized, funded, and shared. It's a movement focused on accelerating innovation by making science more accessible, more transparent, and more democratic.
 
@@ -53,7 +53,7 @@ Some DeSci platforms:
 Benefits:
 - Raw data is publicly available, allowing anyone to verify findings
 - Methodologies are transparent, enabling reproducibility
-- The research record is immutable—you can't hide negative results
+- The research record is immutable-you can't hide negative results
 - Peer review can happen in real-time and publicly, not privately
 
 **New Incentive Systems:** Using tokens and NFTs, DeSci can create new incentive structures:
@@ -200,7 +200,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

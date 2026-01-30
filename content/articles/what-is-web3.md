@@ -61,8 +61,8 @@ Most Web3 projects build on top of blockchains like Ethereum, which are more fle
 A smart contract is code that:
 - Automatically executes agreements without needing a middleman
 - Cannot be stopped or censored once deployed
-- Is transparent—everyone can see the code and verify it does what it claims
-- Runs exactly as written—there's no ambiguity about what happens
+- Is transparent-everyone can see the code and verify it does what it claims
+- Runs exactly as written-there's no ambiguity about what happens
 
 This is revolutionary because it separates the agreement from the execution. Traditionally, you need a lawyer to write a contract, a judge to interpret it, and law enforcement to execute it. A smart contract doesn't need any of that. The code is the contract.
 
@@ -84,7 +84,7 @@ In Web3, you could use a lending protocol like Aave or Compound. You deposit you
 - Charges interest (but less than a bank would)
 - Settles instantly across the world
 - Requires no trust in a company (trust in the code instead)
-- Cannot freeze your account—you control your private keys
+- Cannot freeze your account-you control your private keys
 
 This works through smart contracts. The contract automatically holds collateral from borrowers, calculates interest, and distributes it to lenders.
 
@@ -116,7 +116,7 @@ DeFi gets the most press, but Web3 principles apply to many domains.
 
 **Gaming:** Web3 gaming lets players own in-game assets. You can sell items you earn, transfer them between games, or trade them for real money.
 
-**Supply Chain:** Transparency of blockchain means you can track where products come from, verify authenticity, and ensure ethical sourcing—all verifiable and unchangeable.
+**Supply Chain:** Transparency of blockchain means you can track where products come from, verify authenticity, and ensure ethical sourcing-all verifiable and unchangeable.
 
 ## The Legitimate Criticisms of Web3
 
@@ -128,7 +128,7 @@ Web3 isn't a solution to every problem. Honest conversations about its limitatio
 
 **Regulatory Uncertainty:** Governments worldwide are still figuring out how to regulate cryptocurrency and blockchain. This creates risk for anyone building on top of these technologies. A single regulatory decision could drastically affect the value of projects.
 
-**Complexity:** Web3 applications are harder to use than Web2 equivalents. Managing your own private keys, understanding gas fees, navigating different blockchains—these are friction points preventing mainstream adoption. The user experience is still primitive compared to traditional internet applications.
+**Complexity:** Web3 applications are harder to use than Web2 equivalents. Managing your own private keys, understanding gas fees, navigating different blockchains-these are friction points preventing mainstream adoption. The user experience is still primitive compared to traditional internet applications.
 
 **Speed and Scalability:** Early blockchains are slow. Bitcoin processes 7 transactions per second. Visa processes 24,000. Solutions like Layer 2s exist but add complexity. This limits real-world adoption.
 
@@ -148,7 +148,7 @@ The compensation is often higher than traditional tech because demand for skille
 
 More importantly, this is still the frontier. Many of the biggest applications and use cases haven't been built yet. If you're interested in working on genuinely novel problems with real-world impact, Web3 offers that opportunity.
 
-The space also values different things than traditional tech. A strong GitHub portfolio and community reputation might matter more than a credential from a prestigious university. You can build products on public blockchains and prove your capabilities directly. This is actually more meritocratic—code and results matter more than credentials.
+The space also values different things than traditional tech. A strong GitHub portfolio and community reputation might matter more than a credential from a prestigious university. You can build products on public blockchains and prove your capabilities directly. This is actually more meritocratic-code and results matter more than credentials.
 
 ## The Practical Path Forward
 
@@ -166,7 +166,7 @@ Web3 doesn't work better for:
 - Anything where speed and efficiency are more important than decentralization
 - Simple problems that don't need the complexity
 
-Learning the fundamentals of [blockchain](/what-is-a-blockchain) and cryptography, then finding problems you care about and seeing how Web3 tools might solve them—that's the practical approach. Some problems Web3 genuinely addresses better. Others would be worse off using these tools. Developing that judgment is what separates practitioners who build valuable things from those chasing hype.
+Learning the fundamentals of [blockchain](/what-is-a-blockchain) and cryptography, then finding problems you care about and seeing how Web3 tools might solve them-that's the practical approach. Some problems Web3 genuinely addresses better. Others would be worse off using these tools. Developing that judgment is what separates practitioners who build valuable things from those chasing hype.
 
 ## Bottom Line
 

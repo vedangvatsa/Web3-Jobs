@@ -47,7 +47,7 @@ The real power of tokenized real estate is unlocked when it can be used as colla
 
 The tokenization of real estate is still in its very early stages. There are significant hurdles to overcome, from regulatory uncertainty to the challenge of reliably valuing physical assets on-chain.
 
-However, the potential benefits—increased liquidity, fractional ownership, and greater transparency—are immense. As the technology and regulatory frameworks mature, the intersection of Web3 and real estate will become a major engine of job growth for professionals who are fluent in both languages.
+However, the potential benefits-increased liquidity, fractional ownership, and greater transparency-are immense. As the technology and regulatory frameworks mature, the intersection of Web3 and real estate will become a major engine of job growth for professionals who are fluent in both languages.
 
 ## The Web3 Opportunity
 
@@ -128,7 +128,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -140,7 +140,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

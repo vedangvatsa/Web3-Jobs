@@ -13,7 +13,7 @@ category: "Getting Started"
 
 The terms "Web3" and "cryptocurrency" are often used interchangeably, but they represent different, albeit deeply connected, concepts. Understanding their relationship is key to grasping the vision of a decentralized internet.
 
-- **[Web3](/what-is-web3)** is the vision for the next era of the internet—a decentralized web built on **[blockchain technology](/how-blockchain-technology-powers-web3)** where users own their data and have direct control over their digital assets.
+- **[Web3](/what-is-web3)** is the vision for the next era of the internet-a decentralized web built on **[blockchain technology](/how-blockchain-technology-powers-web3)** where users own their data and have direct control over their digital assets.
 
 - **Cryptocurrency** is the digital money that acts as the native economic layer for this new internet.
 
@@ -41,7 +41,7 @@ Every operation on a smart contract platform like Ethereum requires computationa
 A core promise of Web3 is the shift from a "renter's internet" to an "owner's internet." Cryptocurrency provides the native asset class for this new economy.
 
 - **Fungible Tokens (e.g., ERC-20s):** These are the currencies and governance tokens of the Web3 world. They allow users to not just use a protocol, but to own a piece of it and have a say in its future. They are the shares of the new digital economy.
-- **Non-Fungible Tokens (NFTs):** **[NFTs](/what-are-nfts)** use blockchain technology to create unique, verifiable digital assets. This allows for true ownership of digital items—art, music, in-game items, etc.—in a way that was never possible before.
+- **Non-Fungible Tokens (NFTs):** **[NFTs](/what-are-nfts)** use blockchain technology to create unique, verifiable digital assets. This allows for true ownership of digital items-art, music, in-game items, etc.-in a way that was never possible before.
 
 Without crypto tokens, the concept of a user-owned internet would be meaningless. Crypto is the tangible representation of digital ownership.
 
@@ -144,7 +144,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -156,7 +156,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

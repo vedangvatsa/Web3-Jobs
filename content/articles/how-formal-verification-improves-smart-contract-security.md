@@ -38,7 +38,7 @@ The formal verification process involves two main components:
 
 2.  **The Prover (The Engine):** This is a sophisticated software tool that takes your smart contract code and your formal specification as input. It then uses complex mathematical techniques (like SMT solvers and symbolic execution) to explore all possible execution paths of your code.
 
-    The prover attempts to find a **counterexample**—a specific sequence of transactions and inputs that would violate one of the properties you defined.
+    The prover attempts to find a **counterexample**-a specific sequence of transactions and inputs that would violate one of the properties you defined.
 
     -   **If the prover finds a counterexample:** It has discovered a bug. It will give you the exact sequence of events that leads to the property being violated.
     -   **If the prover cannot find a counterexample after exploring all possible paths:** It has **mathematically proven** that the property holds true for all possible inputs and states.
@@ -148,7 +148,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

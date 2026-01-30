@@ -13,7 +13,7 @@ data-ai-hint: "man technology"
 
 ## Jack Dorsey: The Bitcoin Evangelist and Web3 Skeptic
 
-Jack Dorsey, the co-founder of Twitter and founder of Block (formerly Square), is one of the most influential and vocal figures at the intersection of technology and decentralization. However, his perspective is unique and often contrarian. Unlike many Silicon Valley VCs and founders who embrace the broad ecosystem of "Web3"—including Ethereum, NFTs, and DeFi—Dorsey is a staunch Bitcoin maximalist. He believes that Bitcoin is the only true candidate for the internet's native currency and that the current iteration of "Web3" is a dangerous, venture-capitalist-controlled distraction.
+Jack Dorsey, the co-founder of Twitter and founder of Block (formerly Square), is one of the most influential and vocal figures at the intersection of technology and decentralization. However, his perspective is unique and often contrarian. Unlike many Silicon Valley VCs and founders who embrace the broad ecosystem of "Web3"-including Ethereum, NFTs, and DeFi-Dorsey is a staunch Bitcoin maximalist. He believes that Bitcoin is the only true candidate for the internet's native currency and that the current iteration of "Web3" is a dangerous, venture-capitalist-controlled distraction.
 
 His vision is not for a lack of interest in decentralization; on the contrary, he is arguably one of its most passionate advocates. His focus, however, is laser-sharp. He sees Bitcoin as a protocol for decentralizing money and "Web5," a project from his TBD division at Block, as the protocol for decentralizing data and identity.
 
@@ -161,7 +161,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -173,7 +173,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

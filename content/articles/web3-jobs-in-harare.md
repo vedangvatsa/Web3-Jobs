@@ -233,23 +233,23 @@ A: Only work with verifiable companies (CoinGecko, DefiLlama). Use escrow for fr
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Free Web3 development
-- [Cryptozombies](https://cryptozombies.io/) — Solidity fundamentals
-- [Dune Analytics Academy](https://dune.com/academy) — On-chain data
+- [Buildspace](https://buildspace.so/): Free Web3 development
+- [Cryptozombies](https://cryptozombies.io/): Solidity fundamentals
+- [Dune Analytics Academy](https://dune.com/academy): On-chain data
 
 **Communities:**
-- [Polygon Community](https://discord.gg/polygon) — Diverse Web3 builders
-- [DeFi Education Fund](https://defieducation.org/) — DeFi learning
-- [Crypto Twitter Zimbabweans](https://twitter.com/search?q=zimbabwe%20crypto) — Local network
+- [Polygon Community](https://discord.gg/polygon): Diverse Web3 builders
+- [DeFi Education Fund](https://defieducation.org/): DeFi learning
+- [Crypto Twitter Zimbabweans](https://twitter.com/search?q=zimbabwe%20crypto): Local network
 
 **Job/Contract Platforms:**
-- [Cryptojobs.xyz](https://cryptojobs.xyz/) — Web3 positions
-- [Upwork](https://upwork.com/) — Freelance contracts
-- [Mirror](https://mirror.xyz/) — Creator economy
+- [Cryptojobs.xyz](https://cryptojobs.xyz/): Web3 positions
+- [Upwork](https://upwork.com/): Freelance contracts
+- [Mirror](https://mirror.xyz/): Creator economy
 
 **Africa-Focused:**
-- [Africa Blockchain Initiative](https://africablockchaininititative.org/) — Resources
-- [Coin Bureau Africa](https://www.coinbureau.com/) — Education
+- [Africa Blockchain Initiative](https://africablockchaininititative.org/): Resources
+- [Coin Bureau Africa](https://www.coinbureau.com/): Education
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

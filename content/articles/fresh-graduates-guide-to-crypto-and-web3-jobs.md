@@ -13,7 +13,7 @@ category: "Getting Started"
 
 As a fresh graduate, you are entering one of the most dynamic and rapidly evolving job markets in history. While traditional career paths remain viable, a new and exciting frontier has opened up: the world of Web3. The crypto industry is booming, and it's desperately looking for the next generation of talent to help build the future of the decentralized internet.
 
-For a recent graduate, a career in Web3 offers an unparalleled opportunity for high impact, accelerated learning, and significant financial upside. However, the path to landing your first crypto job is different from a traditional graduate scheme. It's less about your GPA and more about your passion, your demonstrable skills, and your "proof of work." This guide is designed for you—the ambitious graduate who is curious about crypto and ready to build a career on the cutting edge of technology. We'll provide a step-by-step roadmap to get you from the classroom to a full-time role in Web3.
+For a recent graduate, a career in Web3 offers an unparalleled opportunity for high impact, accelerated learning, and significant financial upside. However, the path to landing your first crypto job is different from a traditional graduate scheme. It's less about your GPA and more about your passion, your demonstrable skills, and your "proof of work." This guide is designed for you-the ambitious graduate who is curious about crypto and ready to build a career on the cutting edge of technology. We'll provide a step-by-step roadmap to get you from the classroom to a full-time role in Web3.
 
 ### Why Web3 is a Golden Opportunity for Graduates
 
@@ -24,7 +24,7 @@ For a recent graduate, a career in Web3 offers an unparalleled opportunity for h
 
 ### The Mindset Shift: From Credentials to Contributions
 
-The most important thing to understand is that the Web3 world values what you've *done* more than what's on your resume. Your university degree is a great starting point, but it's not enough. You need to build a public portfolio of your "proof of work"—verifiable evidence of your skills and passion for the space.
+The most important thing to understand is that the Web3 world values what you've *done* more than what's on your resume. Your university degree is a great starting point, but it's not enough. You need to build a public portfolio of your "proof of work"-verifiable evidence of your skills and passion for the space.
 
 ### Step 1: Deep Immersion (The First 30 Days)
 
@@ -182,7 +182,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -194,7 +194,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

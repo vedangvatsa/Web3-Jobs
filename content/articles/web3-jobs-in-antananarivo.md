@@ -143,10 +143,10 @@ A: Realistic timeline: 8-12 months of consistent learning and building. Some rea
 A: Start with full-stack (JavaScript/React). It's more broadly applicable and has more job opportunities. Learn Solidity once you understand blockchain fundamentals. Most entry-level roles want full-stack more than pure Solidity.
 
 **Q: How do I find mentors in Antananarivo?**
-A: Online communities. Tweet your progress. Join Discord servers. Ask questions. Real mentors reward curiosity and initiative. Offer to help others—mentorship flows both ways. See our guide on finding a Web3 mentor.
+A: Online communities. Tweet your progress. Join Discord servers. Ask questions. Real mentors reward curiosity and initiative. Offer to help others-mentorship flows both ways. See our guide on finding a Web3 mentor.
 
 **Q: Is ReFi really viable for Madagascar?**
-A: Absolutely. Madagascar has 5% of Earth's species. Global conservation budgets are millions. Blockchain transparency for conservation funding is a genuine need. This is not hype—it's a real problem Web3 solves.
+A: Absolutely. Madagascar has 5% of Earth's species. Global conservation budgets are millions. Blockchain transparency for conservation funding is a genuine need. This is not hype-it's a real problem Web3 solves.
 
 **Q: How do I position myself for an international Web3 company?**
 A: (1) Build impressive portfolio, (2) Make your work visible (GitHub, Twitter, blog), (3) Network in communities relevant to your role, (4) Apply to 5-10 companies, (5) Have referrals when possible. Persistence matters.
@@ -163,19 +163,19 @@ A: Community Manager, Project Manager, Operations, Content Writer, Designer, Res
 ### Resources to Get Started
 
 **For Developers:**
-- [Buildspace](https://buildspace.so/) — Free Web3 development course with friends
-- [Cryptozombies](https://cryptozombies.io/) — Learn Solidity by building games
-- [Solidity by Example](https://solidity-by-example.org/) — Interactive Solidity concepts
+- [Buildspace](https://buildspace.so/): Free Web3 development course with friends
+- [Cryptozombies](https://cryptozombies.io/): Learn Solidity by building games
+- [Solidity by Example](https://solidity-by-example.org/): Interactive Solidity concepts
 
 **For ReFi Enthusiasts:**
-- [ReFi DAO](https://refidao.com/) — Community and resources
-- [Toucan Protocol](https://toucan.earth/) — Carbon credit tokenization platform
-- [Cabin DAO](https://www.cabin.land/) — Regenerative community network
+- [ReFi DAO](https://refidao.com/): Community and resources
+- [Toucan Protocol](https://toucan.earth/): Carbon credit tokenization platform
+- [Cabin DAO](https://www.cabin.land/): Regenerative community network
 
 **For Community Leaders:**
-- [Buildspace Discord](https://discord.gg/buildspace) — 50k+ Web3 builders
-- [Web3 Creators Community](https://discord.gg/web3) — For content creators
-- [Twitter Web3 Community](https://twitter.com/search?q=%23web3) — Real-time industry updates
+- [Buildspace Discord](https://discord.gg/buildspace): 50k+ Web3 builders
+- [Web3 Creators Community](https://discord.gg/web3): For content creators
+- [Twitter Web3 Community](https://twitter.com/search?q=%23web3): Real-time industry updates
 
 **Related Articles:**
 - [Why Web3 Career Growth Matters](web3-career-growth-and-development)

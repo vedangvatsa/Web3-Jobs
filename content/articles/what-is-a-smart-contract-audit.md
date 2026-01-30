@@ -31,7 +31,7 @@ A typical smart contract audit follows a structured methodology to ensure compre
     *   **Economic Exploits:** Can the protocol's economic incentives be manipulated, for example, through flash loan attacks or oracle manipulation?
     *   **Gas Optimization:** Is the code written efficiently to minimize transaction costs for users?
 
-4.  **Finding Classification and Reporting:** As vulnerabilities are discovered, they are classified based on their severity—typically using a scale like Critical, High, Medium, Low, or Informational. The audit team then compiles a detailed report. A good report includes a clear executive summary, a technical breakdown of each finding, a proof-of-concept (if applicable) demonstrating the exploit, and actionable recommendations for how to fix the issue.
+4.  **Finding Classification and Reporting:** As vulnerabilities are discovered, they are classified based on their severity-typically using a scale like Critical, High, Medium, Low, or Informational. The audit team then compiles a detailed report. A good report includes a clear executive summary, a technical breakdown of each finding, a proof-of-concept (if applicable) demonstrating the exploit, and actionable recommendations for how to fix the issue.
 
 5.  **Remediation and Verification:** The project's development team reviews the audit report and implements the recommended fixes. Once the fixes are complete, they submit the updated code to the audit firm for a verification review. The auditors check to ensure that the vulnerabilities have been properly addressed and that the fixes have not introduced any new bugs.
 
@@ -132,7 +132,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

@@ -25,7 +25,7 @@ This is often the most cited reason. If building on a platform is a frustrating,
 
 ### 2. Lack of Network Effects and Composability
 
-Web3 is built on the principle of "money legos"—the idea that open-source protocols can be combined and built upon. Developers are drawn to ecosystems with a rich and vibrant set of existing protocols to build with.
+Web3 is built on the principle of "money legos"-the idea that open-source protocols can be combined and built upon. Developers are drawn to ecosystems with a rich and vibrant set of existing protocols to build with.
 
 -   **The "Empty City" Problem:** A new Layer 1 blockchain, even if it's technically superior, starts as an empty city. It has no users, no liquidity, and no other dApps to integrate with. Building here can feel like building in a vacuum.
 -   **The Gravity of the EVM:** The Ethereum ecosystem (including its Layer 2s) has an enormous network effect. It has the most users, the most liquidity, the most stablecoins, and the most battle-tested DeFi primitives. For a new dApp, launching in this environment is often a much safer and more strategic choice, as it can immediately tap into this existing infrastructure. The struggle of non-EVM chains to gain traction against the **[Ethereum L2 ecosystem](/guide-to-layer-2s)** is a testament to this powerful gravity.
@@ -35,7 +35,7 @@ Web3 is built on the principle of "money legos"—the idea that open-source prot
 A protocol's tokenomics and its approach to funding developers are critical for talent retention.
 
 -   **Unsustainable Incentives:** Ecosystems that rely on short-term, inflationary token rewards to attract developers and users often see a mass exodus once those rewards dry up.
--   **Lack of Public Goods Funding:** A healthy ecosystem invests in "public goods"—the core infrastructure, open-source libraries, and educational resources that benefit all builders. Projects that fail to fund these public goods often suffer from a stagnating developer experience.
+-   **Lack of Public Goods Funding:** A healthy ecosystem invests in "public goods"-the core infrastructure, open-source libraries, and educational resources that benefit all builders. Projects that fail to fund these public goods often suffer from a stagnating developer experience.
 
 ### 4. Shifting Narratives and Hype Cycles
 
@@ -149,7 +149,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -161,7 +161,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

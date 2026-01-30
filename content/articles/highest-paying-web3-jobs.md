@@ -29,7 +29,7 @@ This guide provides a detailed look at the highest-paying jobs in the Web3 ecosy
 
 **Base Salary Range:** $220,000 - $380,000+
 
-**Why it's so lucrative:** These are the engineers who build the foundational layer of the new internet—the Layer 1 and Layer 2 blockchains themselves. This is incredibly complex work that requires a profound understanding of distributed systems, cryptography, and consensus mechanisms. These engineers are building the core infrastructure that all other dApps rely on.
+**Why it's so lucrative:** These are the engineers who build the foundational layer of the new internet-the Layer 1 and Layer 2 blockchains themselves. This is incredibly complex work that requires a profound understanding of distributed systems, cryptography, and consensus mechanisms. These engineers are building the core infrastructure that all other dApps rely on.
 
 **Essential Skills:** Proficiency in low-level systems languages like Rust or Go, a strong background in computer science fundamentals (especially distributed systems and networking), and a deep understanding of cryptography and blockchain architecture.
 
@@ -145,7 +145,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -157,7 +157,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

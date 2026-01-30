@@ -110,7 +110,7 @@ Singapore is the gateway to Asia:
 
 ## In-Demand Roles and Salary Expectations
 
-The Singaporean job market is sophisticated and demands highly skilled professionals. Competition for talent is fierce, and salaries reflect this—making Singapore one of the highest-paying locations for Web3 careers outside the US.
+The Singaporean job market is sophisticated and demands highly skilled professionals. Competition for talent is fierce, and salaries reflect this-making Singapore one of the highest-paying locations for Web3 careers outside the US.
 
 ### Smart Contract & Protocol Engineers
 

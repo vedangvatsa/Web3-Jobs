@@ -52,7 +52,7 @@ The demand for Russian developers on the global stage is very high, particularly
 ## Complete Salary Guide: Web3 Jobs for Russian Professionals
 
 ### Local Opportunities (Minimal)
-- **Rare/Limited:** RUB 500K–1M/month (~$5,000–$10,000 USD) — extremely limited
+- **Rare/Limited:** RUB 500K–1M/month (~$5,000–$10,000 USD): extremely limited
 - **Context:** Local market is very small; most professionals work remotely for international companies
 
 ### Remote Opportunities (Recommended Path)

@@ -44,7 +44,7 @@ To create a paper wallet, a user would typically use an open-source key generati
 
 ## The Modern Alternative: Hardware Wallets
 
-Today, paper wallets have been largely replaced by hardware wallets like Ledger and Trezor. A hardware wallet offers the same core benefit—keeping your private keys offline—but in a much more secure and user-friendly package. A hardware wallet is a dedicated electronic device designed to sign transactions without ever exposing the private key to the connected computer. It also provides a backup seed phrase, allowing for easy recovery if the device is lost or damaged.
+Today, paper wallets have been largely replaced by hardware wallets like Ledger and Trezor. A hardware wallet offers the same core benefit-keeping your private keys offline-but in a much more secure and user-friendly package. A hardware wallet is a dedicated electronic device designed to sign transactions without ever exposing the private key to the connected computer. It also provides a backup seed phrase, allowing for easy recovery if the device is lost or damaged.
 
 While rarely used now, the paper wallet remains an important part of crypto's history. It represents the earliest attempts to solve the problem of secure self-custody and provides a clear, simple illustration of the fundamental relationship between public and private keys.
 
@@ -127,7 +127,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -139,7 +139,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

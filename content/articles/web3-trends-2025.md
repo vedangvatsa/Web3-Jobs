@@ -44,7 +44,7 @@ This is the trend that could finally bridge the gap between DeFi and traditional
 
 Re-staking, pioneered by EigenLayer, is a new crypto-economic primitive that allows staked ETH to be used to secure other applications and networks.
 -   **What to watch:**
-    -   **Actively Validated Services (AVSs):** A whole new ecosystem of AVSs—from new blockchains and bridges to oracle networks—will launch, all secured by re-staked ETH.
+    -   **Actively Validated Services (AVSs):** A whole new ecosystem of AVSs-from new blockchains and bridges to oracle networks-will launch, all secured by re-staked ETH.
     -   **Liquid Re-staking Tokens (LRTs):** Similar to Liquid Staking Tokens, LRTs will become a new form of DeFi collateral, creating a new layer of "yield on yield" but also adding a new layer of systemic risk.
 -   **Why it matters:** Re-staking allows Ethereum to "rent out" its economic security, making it easier to bootstrap new protocols. However, it also introduces significant new risks of cascading failures.
 
@@ -54,7 +54,7 @@ Decentralized social media is moving beyond a niche experiment and becoming a vi
 -   **What to watch:**
     -   **The Farcaster Ecosystem:** The decentralized social protocol Farcaster is seeing an explosion of new applications and users, driven by its in-protocol features like "Frames."
     -   **Lens Protocol V2:** The other major social graph protocol is launching its V2, which will bring more advanced features for user-owned communities and monetization.
--   **Why it matters:** [SocialFi](/what-is-socialfi) represents one of the best opportunities for a breakout, mainstream Web3 application. It tackles a clear problem—the centralized control of social media—with a compelling, user-owned solution.
+-   **Why it matters:** [SocialFi](/what-is-socialfi) represents one of the best opportunities for a breakout, mainstream Web3 application. It tackles a clear problem-the centralized control of social media-with a compelling, user-owned solution.
 
 These trends paint a picture of an industry that is maturing rapidly. The focus is shifting from pure speculation to building sustainable infrastructure, solving real-world problems, and creating a more scalable and user-friendly decentralized internet. For those watching the space, 2025 promises to be a pivotal year of growth and innovation.
 
@@ -137,7 +137,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -149,7 +149,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -47,7 +47,7 @@ The demand for Web3 talent in Vietnam is intense, especially for professionals w
 ### How to Get a Web3 Job in Vietnam
 
 1.  **Highlight Your Gaming Passion and Experience:** This is the number one advantage. A deep understanding of gaming, whether as a player, a modder, a guild manager, or a professional developer, is incredibly valuable. Your resume and portfolio should be heavily tailored to showcase this passion.
-2.  **Get Involved in Local Gaming Guilds and Communities:** The gaming guild community is a powerful network in Vietnam. Participating in these communities—or even starting your own small guild—is a fantastic way to network, learn, and find opportunities.
+2.  **Get Involved in Local Gaming Guilds and Communities:** The gaming guild community is a powerful network in Vietnam. Participating in these communities-or even starting your own small guild-is a fantastic way to network, learn, and find opportunities.
 3.  **Attend Local Events:** Ho Chi Minh City is the center of the action. Attending local meetups and major conferences like ETHVietnam and GM Vietnam is the best way to connect with the core of the ecosystem, meet founders, and discover new roles before they are even advertised.
 4.  **Language Skills:** While many technical roles operate in English, fluency in Vietnamese is a major asset for community, marketing, and business development roles targeting the massive domestic market.
 

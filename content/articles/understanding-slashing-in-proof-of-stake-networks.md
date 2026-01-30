@@ -41,7 +41,7 @@ Let's look at the example of Ethereum:
 2.  **Whistleblower Reward:** The validator who reports the offense receives a small reward for their service.
 3.  **Initial Penalty:** The offending validator is immediately slashed a small initial amount (e.g., 1 ETH on Ethereum) and is queued for forced removal from the validator set.
 4.  **Correlation Penalty:** This is the more severe part of the punishment. The protocol then checks to see how many other validators were slashed in the same time period. The final slashing penalty is proportional to the number of other validators being slashed.
-    -   **Why this is important:** This "correlation penalty" is designed to make large-scale, coordinated attacks extremely expensive. If only one validator is slashed, the penalty is relatively small. But if an attacker compromises 1/3 of all validators and gets them all slashed at once, the penalty is massive—potentially up to 100% of their stake.
+    -   **Why this is important:** This "correlation penalty" is designed to make large-scale, coordinated attacks extremely expensive. If only one validator is slashed, the penalty is relatively small. But if an attacker compromises 1/3 of all validators and gets them all slashed at once, the penalty is massive-potentially up to 100% of their stake.
 5.  **Forced Exit:** The slashed validator is forcibly removed from the active validator set and cannot rejoin for a period.
 
 ### The Impact of Slashing
@@ -115,7 +115,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

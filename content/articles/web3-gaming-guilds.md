@@ -33,7 +33,7 @@ The core model of a gaming guild is the "scholarship" program, which creates a t
 
 1. **The Guild:** The central organization, often structured as a DAO (Decentralized Autonomous Organization). The guild raises capital from investors and uses it to acquire a large portfolio of income-generating NFTs from various Web3 games. The guild's treasury might hold $100,000-$10 million+ in game NFTs across dozens of titles.
 
-2. **The Scholars:** These are the players. They apply to the guild for a scholarship. If accepted, they are loaned the necessary NFTs to start playing and earning in a specific game, at no upfront cost. The guild provides them with training, resources, and a community to help them succeed. Scholars are typically located in high-growth regions—Philippines, Indonesia, Brazil, Vietnam—where gaming offers meaningful income.
+2. **The Scholars:** These are the players. They apply to the guild for a scholarship. If accepted, they are loaned the necessary NFTs to start playing and earning in a specific game, at no upfront cost. The guild provides them with training, resources, and a community to help them succeed. Scholars are typically located in high-growth regions-Philippines, Indonesia, Brazil, Vietnam-where gaming offers meaningful income.
 
 3. **The Managers:** These are community leaders within the guild who are responsible for recruiting, training, and managing a team of scholars (usually 5-30 scholars). They act as the bridge between the guild's leadership and the players on the ground. Managers provide mentorship, troubleshooting, and community building. They're typically highly experienced players who understand the games deeply.
 
@@ -46,7 +46,7 @@ The revenue share model is the engine that aligns incentives. A typical split of
 
 This model creates powerful alignment: Everyone benefits from the scholar's success. If the scholar earns $1,000 in a month, the guild earns $200-300 and the manager earns $50-100. Everyone has an incentive to help the scholar improve their earning potential.
 
-The economics work because players who couldn't earn $0 at all now earn $600-700 per month, the guild gets diversified income from dozens of scholars, and managers get paid for work they're already doing (helping other players). It's a Pareto improvement—everyone is better off.
+The economics work because players who couldn't earn $0 at all now earn $600-700 per month, the guild gets diversified income from dozens of scholars, and managers get paid for work they're already doing (helping other players). It's a Pareto improvement-everyone is better off.
 
 ### Yield Guild Games (YGG): The Pioneer and Market Leader
 
@@ -65,11 +65,11 @@ Other major guilds emerged quickly: **Gamer Guild**, **Fomo Guild**, **Polemos**
 
 Initially focused purely on scholarships, the role of gaming guilds has expanded significantly. They are now:
 
-**Decentralized Investment Funds:** Guilds have become major players in the GameFi venture capital landscape. They use their treasuries to make early-stage investments in the most promising new Web3 games, securing exclusive access to NFT assets for their members before public launch. This is a significant competitive advantage—early access to strong Axies or land plots can determine profitability.
+**Decentralized Investment Funds:** Guilds have become major players in the GameFi venture capital landscape. They use their treasuries to make early-stage investments in the most promising new Web3 games, securing exclusive access to NFT assets for their members before public launch. This is a significant competitive advantage-early access to strong Axies or land plots can determine profitability.
 
-**Player Data Platforms:** Guilds are creating on-chain "resumes" of their scholars' gaming history and achievements. This data is valuable—it shows which games a player excels at, their earning history, their reliability, and their skill level. New games can use this data to match players with appropriate difficulty levels or recruiting campaigns.
+**Player Data Platforms:** Guilds are creating on-chain "resumes" of their scholars' gaming history and achievements. This data is valuable-it shows which games a player excels at, their earning history, their reliability, and their skill level. New games can use this data to match players with appropriate difficulty levels or recruiting campaigns.
 
-**Community and Social Hubs:** Guilds are more than financial organizations; they're vibrant communities. They provide a sense of belonging, support, mentorship, and shared identity for gamers around the world. Many scholars say the community aspect—having thousands of other people playing the same games, sharing strategies, providing encouragement—is as valuable as the income.
+**Community and Social Hubs:** Guilds are more than financial organizations; they're vibrant communities. They provide a sense of belonging, support, mentorship, and shared identity for gamers around the world. Many scholars say the community aspect-having thousands of other people playing the same games, sharing strategies, providing encouragement-is as valuable as the income.
 
 **Research and Analytics:** The largest guilds are developing sophisticated analytics about game economics, which games are sustainable, which are losing profitability, and where to allocate resources. Guilds like YGG publish research that influences the entire industry.
 
@@ -82,10 +82,10 @@ For a guild to make scholarships profitable for scholars, the game itself must b
 A game is profitable when:
 - **Token emissions exceed scholarship costs:** If a scholar earns 100 tokens/day worth $10 each = $1,000/day earnings. After paying the guild and manager, the scholar gets $700. The guild profits if reinvesting in more scholars remains possible.
 - **Player retention is high:** If 50% of scholars quit each month, the guild constantly needs to recruit and train new players, raising overhead costs.
-- **Token price remains stable:** Many games saw token prices collapse from $10 to $0.01, destroying all economics. This killed countless "unsustainable" games that were essentially Ponzi schemes—the only source of income was new player recruitment, not real gameplay value.
+- **Token price remains stable:** Many games saw token prices collapse from $10 to $0.01, destroying all economics. This killed countless "unsustainable" games that were essentially Ponzi schemes-the only source of income was new player recruitment, not real gameplay value.
 - **Gameplay is actually engaging:** Players need to enjoy the game, not just see it as a grind. If play-to-earn becomes a chore, retention drops.
 
-This is why gaming guilds have become selective. The early goldfish mentality—invest in any new game—gave way to rigorous analysis. YGG now evaluates new games on:
+This is why gaming guilds have become selective. The early goldfish mentality-invest in any new game-gave way to rigorous analysis. YGG now evaluates new games on:
 - **Token economics:** How are tokens created and distributed?
 - **Game mechanics:** Is it actually fun?
 - **Sustainability:** How long can the game maintain token values?
@@ -109,7 +109,7 @@ While gaming guilds democratized access to play-to-earn opportunities, the model
 
 **Geographic Wage Arbitrage:** Guilds pay scholars in the Philippines $200/month because that's a good living there. But they're essentially paying global market rates for play-to-earn income regardless of the player's location. A talented gamer in the US could earn much more elsewhere.
 
-**Ponzi Dynamics:** Many early games were unsustainable and functioned as Ponzi schemes—only profitable when you could recruit more players at higher token prices. Guilds that heavily invested in these games saw their treasuries evaporate.
+**Ponzi Dynamics:** Many early games were unsustainable and functioned as Ponzi schemes-only profitable when you could recruit more players at higher token prices. Guilds that heavily invested in these games saw their treasuries evaporate.
 
 **Governance Capture:** Guild DAOs often experience governance token concentration. If a few early members hold 30%+ of tokens, they control voting despite the DAO structure. Real decentralization remains elusive.
 
@@ -133,7 +133,7 @@ In these regions, gaming guilds represent not just entertainment but significant
 
 **Consolidation:** The market is consolidating. Early fragmentation (100+ small guilds) has given way to dominance of 10-20 major organizations. Smaller guilds struggle with player recruitment and game access.
 
-**Professionalization:** Guilds are becoming more professional—hiring full-time staff, developing sophisticated analytics, pursuing regulatory compliance. The days of casual Discord-based guilds are ending.
+**Professionalization:** Guilds are becoming more professional-hiring full-time staff, developing sophisticated analytics, pursuing regulatory compliance. The days of casual Discord-based guilds are ending.
 
 **New Game Formats:** As traditional P2E models have struggled, guilds are investing in new formats: Social games with guilds as communities, games with skill-based earnings (not just token incentive farming), metaverse real estate investment.
 
@@ -158,7 +158,7 @@ Web3 gaming guilds represent a fascinating convergence of gaming, finance, and c
 
 However, the space is maturing rapidly. The boom-and-bust cycles of individual games, regulatory scrutiny, and increasing competition have created a more difficult environment. Successful guilds are those with rigorous game selection, diversified portfolios, strong community management, and realistic expectations about sustainability.
 
-The scholarship model itself—connecting players who lack capital with opportunities to earn through gaming—is likely to persist. But the specific games and tokens that drive earnings will continue to evolve. Guilds that survive will be those that adapt quickly, maintain ethical practices, and focus on community and long-term sustainability over short-term hype.
+The scholarship model itself-connecting players who lack capital with opportunities to earn through gaming-is likely to persist. But the specific games and tokens that drive earnings will continue to evolve. Guilds that survive will be those that adapt quickly, maintain ethical practices, and focus on community and long-term sustainability over short-term hype.
 
 ## Related Articles
 

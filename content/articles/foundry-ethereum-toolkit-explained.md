@@ -13,7 +13,7 @@ category: "Getting Started"
 
 For years, the standard toolkit for Ethereum development was dominated by JavaScript-based frameworks like Hardhat and Truffle. These tools have been instrumental in the growth of the ecosystem, but they come with a key drawback: you write your smart contracts in Solidity, but your tests and scripts in JavaScript. This context-switching can be inefficient and sometimes introduces subtle bugs.
 
-Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a blazing fast, portable, and modular toolkit for Ethereum application development, and its killer feature is that it allows you to do everything—including writing your tests—**directly in Solidity**.
+Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a blazing fast, portable, and modular toolkit for Ethereum application development, and its killer feature is that it allows you to do everything-including writing your tests-**directly in Solidity**.
 
 This guide will provide an introduction to Foundry and walk through why so many developers are making the switch. For more details, see our full **[introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit)**.
 
@@ -94,7 +94,7 @@ To run these tests, you would simply run `forge test` in your terminal.
 2.  **Start a Project:** Use `forge init my-project` to create a new Foundry project.
 3.  **The Foundry Book:** The official documentation, known as the "Foundry Book," is an excellent, comprehensive resource for learning everything about the toolkit.
 
-While Hardhat remains a powerful and popular choice, Foundry represents a significant evolution in the Ethereum developer experience. Its focus on speed, simplicity, and Solidity-native testing is winning over developers who want a more efficient and powerful workflow. For any serious Ethereum developer, learning Foundry is no longer optional—it's a necessary skill for building robust and secure smart contracts.
+While Hardhat remains a powerful and popular choice, Foundry represents a significant evolution in the Ethereum developer experience. Its focus on speed, simplicity, and Solidity-native testing is winning over developers who want a more efficient and powerful workflow. For any serious Ethereum developer, learning Foundry is no longer optional-it's a necessary skill for building robust and secure smart contracts.
 
 ## Why These Skills Matter
 
@@ -218,7 +218,7 @@ A: Absolutely. In fact, they're even more critical in Web3 due to distributed te
 - Build skills by applying them in real projects
 - Emotional intelligence is your hidden advantage
 
-The most successful professionals in Web3 and beyond aren't always the most technically brilliant—they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.
+The most successful professionals in Web3 and beyond aren't always the most technically brilliant-they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.
 
 ## Related Articles
 

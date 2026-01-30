@@ -12,7 +12,7 @@ category: "Industry Insights"
 The global digital economy is growing quickly, currently contributing over 15% to global GDP and expanding 2.5 times faster than the physical economy. India is playing a key role in this trend, with its digital economy contributing 10% to its GDP and expected to reach 20% by 2026. This growth is boosting India's domestic economy and strengthening its position in the global digital landscape.
 
 ### Expanding Internet Access
-India's internet access has surged, with a 55% penetration rate in 2023, driven by 199 million new users in three years. The country’s low data costs—₹13.32 per GB, the lowest globally—make internet access affordable. This has led to an average data usage of 24.1 GB per user per month in 2023, emphasizing India’s commitment to building an inclusive digital ecosystem.
+India's internet access has surged, with a 55% penetration rate in 2023, driven by 199 million new users in three years. The country’s low data costs-₹13.32 per GB, the lowest globally-make internet access affordable. This has led to an average data usage of 24.1 GB per user per month in 2023, emphasizing India’s commitment to building an inclusive digital ecosystem.
 
 ### Rise in Smartphone Users
 Smartphones are central to India’s digital expansion, with around 750 million users in 2023, projected to reach 1 billion by 2026. Smartphones are the primary digital access point for many Indians, especially in rural and semi-urban areas, fueling growth in the digital economy.

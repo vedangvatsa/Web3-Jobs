@@ -16,7 +16,7 @@ data-ai-hint: "career goals"
 
 ## Setting Career Goals That Work
 
-Most people set career goals and forget about them by February. Setting effective career goals is about more than just wishful thinking—it requires a structured approach, realistic assessment, and ongoing accountability. This guide walks you through building goals that actually shape your career trajectory.
+Most people set career goals and forget about them by February. Setting effective career goals is about more than just wishful thinking-it requires a structured approach, realistic assessment, and ongoing accountability. This guide walks you through building goals that actually shape your career trajectory.
 
 ### Why Most Career Goals Fail
 

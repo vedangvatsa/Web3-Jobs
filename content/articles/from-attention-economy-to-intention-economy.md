@@ -20,7 +20,7 @@ Web3, with its foundational principles of user ownership, decentralization, and 
 To understand the promise of the Intention Economy, we must first diagnose the deep-seated problems of the system it seeks to replace.
 
 1.  **Misaligned Incentives:** In the attention economy, the platform's goal (maximize ad revenue) is often directly opposed to the user's goal (accomplish a task efficiently). This is why recipe websites are cluttered with ads and pop-ups; their goal is to keep you on the page longer, not to help you cook dinner.
-2.  **Data Exploitation:** Your personal data—your search history, your location, your social connections—is the fuel for the advertising engine. You provide this data for free, and platforms monetize it without your direct consent or compensation. You are a resource to be extracted.
+2.  **Data Exploitation:** Your personal data-your search history, your location, your social connections-is the fuel for the advertising engine. You provide this data for free, and platforms monetize it without your direct consent or compensation. You are a resource to be extracted.
 3.  **Centralized Control and Censorship:** A handful of companies act as the gatekeepers of information and communication. They can change their algorithms at will, shadowban creators, or de-platform users, effectively erasing their digital presence.
 4.  **Race to the Bottom:** Because engagement (clicks, likes, shares) is the primary metric, the content that gets amplified is often the most sensational, outrageous, or emotionally manipulative, rather than the most accurate or valuable.
 
@@ -157,7 +157,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -169,7 +169,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -3,7 +3,7 @@
 title: "The Top 5 Programming Languages for Web3 Development"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "programming skill learn"
-description: "An essential guide for aspiring blockchain developers. We break down the top five programming languages for Web3—Solidity, Rust, JavaScript, Python, and."
+description: "An essential guide for aspiring blockchain developers. We break down the top five programming languages for Web3-Solidity, Rust, JavaScript, Python, and."
 category: "Educational"
 ---
 
@@ -33,7 +33,7 @@ If you want to build applications on Ethereum or any of the dozens of EVM-compat
 
 ## 2. Rust: The Language of High-Performance Blockchains
 
-While Solidity dominates the application layer, Rust is quickly becoming the language of choice for building the underlying infrastructure—the blockchains themselves.
+While Solidity dominates the application layer, Rust is quickly becoming the language of choice for building the underlying infrastructure-the blockchains themselves.
 
 -   **Primary Use Case:** Building high-performance, secure Layer 1 blockchains and their core protocols.
 -   **Ecosystems:** Solana, Polkadot, Near Protocol, Celestia.

@@ -13,7 +13,7 @@ category: "Industry Insights"
 
 While much of the Web3 conversation is dominated by finance and NFTs, a powerful and growing movement is using blockchain technology for a different purpose: funding public goods and creating positive social impact. This is the world of **Public Goods DAOs**.
 
-A "public good" is something that is non-excludable and non-rivalrous—meaning anyone can use it, and one person's use doesn't diminish its availability to others. Clean air, open-source software, and scientific research are all classic examples. Historically, public goods have been underfunded because there's no direct profit motive to create them. Public Goods DAOs are a new model designed to solve this problem.
+A "public good" is something that is non-excludable and non-rivalrous-meaning anyone can use it, and one person's use doesn't diminish its availability to others. Clean air, open-source software, and scientific research are all classic examples. Historically, public goods have been underfunded because there's no direct profit motive to create them. Public Goods DAOs are a new model designed to solve this problem.
 
 ### What is a Public Goods DAO?
 
@@ -134,7 +134,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -146,7 +146,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

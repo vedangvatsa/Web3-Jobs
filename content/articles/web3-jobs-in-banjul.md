@@ -57,9 +57,9 @@ The Gambia has a diaspora of roughly 200,000+ citizens living abroad, many sendi
 
 If you're a developer, financial engineer, or entrepreneur in Banjul, remittance infrastructure is your golden ticket:
 
-**The Market Size:** The Gambia receives approximately $300+ million annually in remittances—a massive financial flow. Even a 1% market share would represent millions in transaction volume.
+**The Market Size:** The Gambia receives approximately $300+ million annually in remittances-a massive financial flow. Even a 1% market share would represent millions in transaction volume.
 
-**Real-World Use Case:** This isn't theoretical—people need it right now. Every Gambian with relatives abroad has a financial incentive to use a faster, cheaper solution.
+**Real-World Use Case:** This isn't theoretical-people need it right now. Every Gambian with relatives abroad has a financial incentive to use a faster, cheaper solution.
 
 **Government Support:** The government recognizes this pain point and would likely welcome a home-grown solution, potentially offering regulatory support or partnership opportunities.
 
@@ -74,7 +74,7 @@ If this interests you, here's how to approach it:
 1. **Study the Existing Market:** Understand current remittance corridors (Western Union, MoneyGram, banks), their pain points, and their pricing
 2. **Technical Deep Dive:** Learn about stablecoins, bridges, and layer-2 solutions that minimize transaction costs
 3. **Regulatory Research:** Understand The Gambia's stance on crypto and fintech regulation
-4. **MVP Development:** Build a proof-of-concept that demonstrates value—even a simple mockup can attract attention
+4. **MVP Development:** Build a proof-of-concept that demonstrates value-even a simple mockup can attract attention
 5. **Network with Government:** Once you have something to show, connect with fintech-focused government contacts
 
 ## Your Path to Being a Web3 Leader in The Gambia

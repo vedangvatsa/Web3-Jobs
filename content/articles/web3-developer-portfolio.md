@@ -10,7 +10,7 @@ category: "Career Guides"
 
 
 
-In the Web3 job market, your resume is secondary. Your LinkedIn profile is an afterthought. The single most important asset in your job search as a developer is your portfolio—specifically, your GitHub profile. Hiring managers and technical recruiters in this space are looking for tangible proof of your skills. They want to see that you can write clean, secure Solidity code, that you can build intuitive frontends that interact with the blockchain, and that you have a genuine passion for the technology that extends beyond your day job.
+In the Web3 job market, your resume is secondary. Your LinkedIn profile is an afterthought. The single most important asset in your job search as a developer is your portfolio-specifically, your GitHub profile. Hiring managers and technical recruiters in this space are looking for tangible proof of your skills. They want to see that you can write clean, secure Solidity code, that you can build intuitive frontends that interact with the blockchain, and that you have a genuine passion for the technology that extends beyond your day job.
 
 A well-crafted portfolio of personal projects is the ultimate signal that you have what it takes. This guide provides a practical, step-by-step roadmap for [building a Web3 portfolio](/building-web3-portfolio) that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational smart contracts to a full-stack dApp.
 
@@ -154,7 +154,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -166,7 +166,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -69,7 +69,7 @@ Mayor Francis Suarez has been one of the most outspoken political advocates for 
 - Suarez actively recruits crypto companies to relocate to Miami
 - The city promotes itself as crypto-friendly at national and international conferences
 
-This isn't just political theater—it signals that Miami is genuinely creating a business environment favorable to crypto entrepreneurs.
+This isn't just political theater-it signals that Miami is genuinely creating a business environment favorable to crypto entrepreneurs.
 
 ### A Venture Capital Hotspot
 
@@ -162,7 +162,7 @@ Note: Technical roles pay less in Miami than Austin/SF on average, but business/
 
 ## How to Build a Web3 Career in Miami
 
-### 1. Be a Networker—This is Primary
+### 1. Be a Networker-This is Primary
 
 Miami's culture is social, event-driven, and relationship-based. Your ability to build relationships is the single most important career skill.
 
@@ -224,7 +224,7 @@ The Miami scene is known for its high energy, intensity, and celebration of succ
 **What This Means:**
 - People work intensely on important problems
 - Success is celebrated publicly and often
-- The scene is glamorous—money, status, and achievement are visible
+- The scene is glamorous-money, status, and achievement are visible
 - Work and lifestyle are integrated (not separated)
 - People are ambitious and don't hide it
 
@@ -417,7 +417,7 @@ A:
 5. Plan your attendance strategy
 
 **During Bitcoin Miami:**
-1. Attend 2-3 talks (not more—focus on networking)
+1. Attend 2-3 talks (not more-focus on networking)
 2. Spend 70% of time in hallways and side events
 3. Attend after-parties
 4. Take notes on everyone you meet
@@ -429,7 +429,7 @@ A:
 3. Continue building relationships
 4. Apply to companies you met
 
-Miami is not just a place to live—it's a thriving crypto ecosystem with exceptional networking and financing opportunities. The combination of capital, business focus, and Latin American connectivity makes it unique among crypto hubs.
+Miami is not just a place to live-it's a thriving crypto ecosystem with exceptional networking and financing opportunities. The combination of capital, business focus, and Latin American connectivity makes it unique among crypto hubs.
 
 ## Related Articles
 

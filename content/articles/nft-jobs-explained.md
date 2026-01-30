@@ -25,13 +25,13 @@ For entry-level work, understanding ERC-721 (the standard for individual NFTs) a
 
 Compensation for NFT smart contract developers ranges from $120K-$200K+ depending on experience. Senior developers with strong security track records command $250K+.
 
-The job involves writing code that handles ownership, transfers, and permissions. You also need to think about gas optimization—making sure your contract uses efficient code that costs users less money to interact with.
+The job involves writing code that handles ownership, transfers, and permissions. You also need to think about gas optimization-making sure your contract uses efficient code that costs users less money to interact with.
 
 ### Backend Developer
 
 NFT projects need servers that track which NFTs have been minted, maintain metadata, and handle off-chain components of the system. Backend developers build these systems.
 
-Backend work for NFT projects is mostly traditional server-side development. You're writing APIs, managing databases, and building infrastructure. The blockchain component is relatively small—mostly reading data from smart contracts.
+Backend work for NFT projects is mostly traditional server-side development. You're writing APIs, managing databases, and building infrastructure. The blockchain component is relatively small-mostly reading data from smart contracts.
 
 Compensation is similar to traditional tech backend roles: $120K-$200K+ depending on seniority.
 
@@ -195,7 +195,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

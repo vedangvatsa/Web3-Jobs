@@ -11,7 +11,7 @@ data-ai-hint: "layer network"
 
 
 
-The world of blockchain is a bit like a rapidly growing city. At the bottom, you have the foundational layer—the bedrock and main infrastructure. This is Layer 1 (L1), represented by blockchains like Ethereum. It’s secure and decentralized, but it can get congested and expensive, like a city’s main avenues during rush hour.
+The world of blockchain is a bit like a rapidly growing city. At the bottom, you have the foundational layer-the bedrock and main infrastructure. This is Layer 1 (L1), represented by blockchains like Ethereum. It’s secure and decentralized, but it can get congested and expensive, like a city’s main avenues during rush hour.
 
 To solve this, developers built Layer 2s (L2s), which are like expressways or skyscrapers built on top of the main city. L2s such as Arbitrum, Optimism, and zkSync handle lots of transactions quickly and cheaply, but they bundle everything together and settle it on the main L1 chain to inherit its security. This has been a huge step forward for scalability.
 
@@ -57,7 +57,7 @@ In a future where multiple L3s are built on the same L2, they can potentially co
 
 Layer 3s are still a very new and experimental concept, and they are not without their critics and challenges.
 
-*   **Centralization Concerns:** The biggest concern is that L3s could reintroduce centralization. The sequencer—the node responsible for ordering transactions on the L3—will likely be run by the application’s own team, at least initially. This gives them a high degree of control over the network, including the ability to censor transactions or extract MEV (Maximal Extractable Value).
+*   **Centralization Concerns:** The biggest concern is that L3s could reintroduce centralization. The sequencer-the node responsible for ordering transactions on the L3-will likely be run by the application’s own team, at least initially. This gives them a high degree of control over the network, including the ability to censor transactions or extract MEV (Maximal Extractable Value).
 *   **Complexity:** Adding another layer to the stack increases the overall complexity of the system. More moving parts mean more potential points of failure and a steeper learning curve for both developers and users.
 *   **Fragmentation of Liquidity:** A common criticism is that if every application launches its own L3, it will fragment liquidity and users, making the ecosystem harder to navigate. Instead of one big, connected city, you get thousands of isolated digital islands. Proponents argue, however, that shared L2 settlement will make bridging between L3s much easier than bridging between L2s is today.
 
@@ -167,7 +167,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -179,7 +179,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

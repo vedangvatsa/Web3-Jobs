@@ -17,7 +17,7 @@ The Web3 industry is exploding with innovation and opportunity, but for newcomer
 
 Before you even think about applying for jobs, you need to understand the world you're entering. Web3 is more than a technology; it's a culture. The best way to learn is by doing and participating.
 
-- **Curate Your Twitter Feed:** Twitter is the de facto town square for Web3. Follow key builders, thinkers, and projects. Don't just lurk—engage in conversations, ask thoughtful questions, and share what you're learning.
+- **Curate Your Twitter Feed:** Twitter is the de facto town square for Web3. Follow key builders, thinkers, and projects. Don't just lurk-engage in conversations, ask thoughtful questions, and share what you're learning.
 - **Join a Discord Community:** Pick a project that interests you (e.g., a DeFi protocol, an NFT collection) and become an active member of its Discord. Participate in discussions, help newcomers, and observe how the community operates.
 - **Get Your Hands Dirty:** You cannot learn Web3 from the sidelines. Set up a MetaMask wallet, buy a small amount of ETH from an exchange, and use a dApp. Swap tokens on Uniswap, mint a low-cost NFT, or vote on a governance proposal. The experience of being a user is invaluable.
 
@@ -157,7 +157,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -169,7 +169,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

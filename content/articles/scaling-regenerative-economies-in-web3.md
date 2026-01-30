@@ -11,7 +11,7 @@ category: "Industry Insights"
 
 
 
-For much of its history, the crypto world has been dominated by a culture of extraction. The language of DeFi—"yield farming," "liquidity mining," "alpha"—is often framed in zero-sum terms, focusing on maximizing personal profit. But a new and powerful movement is emerging that seeks to flip this script. **Regenerative Finance (ReFi)** is a movement that uses the tools of Web3 to build economic systems that are not extractive, but regenerative. It aims to create positive-sum economies that heal, restore, and create more value than they consume.
+For much of its history, the crypto world has been dominated by a culture of extraction. The language of DeFi-"yield farming," "liquidity mining," "alpha"-is often framed in zero-sum terms, focusing on maximizing personal profit. But a new and powerful movement is emerging that seeks to flip this script. **Regenerative Finance (ReFi)** is a movement that uses the tools of Web3 to build economic systems that are not extractive, but regenerative. It aims to create positive-sum economies that heal, restore, and create more value than they consume.
 
 ReFi is about using the powerful coordination mechanisms of blockchain to address some of the world's most pressing challenges, from climate change and biodiversity loss to the chronic underfunding of open-source software and scientific research. It's a movement that asks: "How can we use these tools to build a better world?" This guide explores the core concepts of the ReFi movement, the key primitives being developed, and the career opportunities emerging at this exciting intersection of finance, technology, and social impact.
 
@@ -149,7 +149,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -161,7 +161,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

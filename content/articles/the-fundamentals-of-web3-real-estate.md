@@ -15,7 +15,7 @@ data-ai-hint: "modern building architecture"
 
 For generations, real estate has been a cornerstone of wealth creation. However, it has also been an exclusive asset class, characterized by high barriers to entry, low liquidity, and a cumbersome, paper-based transaction process. This has locked out the vast majority of retail investors and made it difficult to manage and trade property efficiently.
 
-The emergence of Web3 and blockchain technology is set to fundamentally change this paradigm. By transforming real-world properties into digital assets on a blockchain—a process known as tokenization—Web3 is making real estate investing more accessible, liquid, and transparent than ever before.
+The emergence of Web3 and blockchain technology is set to fundamentally change this paradigm. By transforming real-world properties into digital assets on a blockchain-a process known as tokenization-Web3 is making real estate investing more accessible, liquid, and transparent than ever before.
 
 This article provides a foundational guide to the exciting intersection of Web3 and real estate.
 
@@ -26,7 +26,7 @@ To understand the Web3 solution, we must first appreciate the core problems it s
 1.  **High Capital Requirements:** Buying a property, especially a commercial one, requires a significant amount of upfront capital, making it inaccessible to the average person.
 2.  **Illiquidity:** Selling a property can take months or even years. Your capital is "locked up" and cannot be easily accessed.
 3.  **Lack of Transparency:** Ownership records are often held in siloed, opaque government databases, which can be prone to errors and fraud.
-4.  **High Transaction Costs:** A host of intermediaries—brokers, lawyers, banks, and title insurers—each take a cut, leading to high transaction fees.
+4.  **High Transaction Costs:** A host of intermediaries-brokers, lawyers, banks, and title insurers-each take a cut, leading to high transaction fees.
 5.  **Geographic Barriers:** Investing in property in another country is a complex legal and logistical nightmare.
 
 ### The Web3 Solution: Tokenization and Fractional Ownership
@@ -142,7 +142,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -154,7 +154,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

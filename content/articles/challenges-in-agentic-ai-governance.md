@@ -11,7 +11,7 @@ category: "Industry Insights"
 
 
 
-The rise of agentic AI systems—autonomous agents that can set their own goals and execute complex tasks—represents a paradigm shift in technology. But this leap in capability brings with it a host of unprecedented governance challenges. How do we steer and control systems that can operate independently? How do we ensure they remain aligned with human values?
+The rise of agentic AI systems-autonomous agents that can set their own goals and execute complex tasks-represents a paradigm shift in technology. But this leap in capability brings with it a host of unprecedented governance challenges. How do we steer and control systems that can operate independently? How do we ensure they remain aligned with human values?
 
 Governing agentic AI is not just a technical problem; it's a complex interplay of ethics, economics, and control. This guide explores the primary challenges we face in this new and uncharted territory.
 
@@ -113,7 +113,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

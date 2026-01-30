@@ -60,7 +60,7 @@ The formal Web3 job market in Algiers is currently very small. The most signific
 - **Product Manager:** $3,000–$6,000/month
 - **Community Lead:** $1,500–$3,500/month
 
-**Cost of Living Advantage:** Monthly expenses in Algiers: $400–$700. With a remote salary of $3,000/month, you save 75–87% of income—exceptional for wealth building in Web3.
+**Cost of Living Advantage:** Monthly expenses in Algiers: $400–$700. With a remote salary of $3,000/month, you save 75–87% of income-exceptional for wealth building in Web3.
 
 ## 3 Proven Career Paths to $5,000+/Month in Algiers
 
@@ -167,7 +167,7 @@ The formal Web3 job market in Algiers is currently very small. The most signific
 
 **Challenge 3: Language & Regional Isolation**
 - *Reality:* Most Web3 content is in English. The Algerian tech scene is small and localized. You may feel isolated from global Web3 hubs.
-- *Solution:* Your **French + Arabic + English trilingual ability is a major asset**—double down on it. Be the bridge between MENA and global Web3. Create content in French and Arabic; this makes you exponentially more valuable than English-only Algerians.
+- *Solution:* Your **French + Arabic + English trilingual ability is a major asset**-double down on it. Be the bridge between MENA and global Web3. Create content in French and Arabic; this makes you exponentially more valuable than English-only Algerians.
 
 **Challenge 4: Low Local Salaries, High International Expectations**
 - *Reality:* Local startup salaries (DZD 150K–300K) are far below what you can earn remotely. Pressure to take local jobs may be high from family/network.
@@ -327,10 +327,10 @@ Raising capital is hard; building a sustainable income is easier and more valuab
 - **Conferences:** EthDubai, EthCC, Blockchain Africa (network with founders and investors)
 
 ### Job Boards & Applications
-- **Our Web3 Job Board** (/jobs) — filtered for remote roles hiring from Africa
-- **Crypto.jobs** — dedicated crypto industry jobs
-- **Messari Open Roles** — major DeFi protocols
-- **AngelList (Talent)** — startup and early-stage opportunities
+- **Our Web3 Job Board** (/jobs): filtered for remote roles hiring from Africa
+- **Crypto.jobs**: dedicated crypto industry jobs
+- **Messari Open Roles**: major DeFi protocols
+- **AngelList (Talent)**: startup and early-stage opportunities
 - **Linkedin:** Search "Web3 Engineer Remote," filter by "open to remote"
 
 ### Hands-On Practice
@@ -343,8 +343,8 @@ Raising capital is hard; building a sustainable income is easier and more valuab
 - "Mastering Ethereum" by Andreas M. Antonopoulos & Gavin Wood
 - "The Age of Cryptocurrency" by Paul Vigna & Michael J. Casey
 - "The Biggest Blockchain Misconceptions" by various authors (web3 essays)
-- Bankless newsletter — weekly DeFi + crypto strategy analysis
-- Paradigm Research papers — deep technical research
+- Bankless newsletter: weekly DeFi + crypto strategy analysis
+- Paradigm Research papers: deep technical research
 
 ### Related Career Guides
 Explore these guides for complementary Web3 roles and opportunities in nearby regions:

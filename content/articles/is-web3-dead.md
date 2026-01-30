@@ -44,7 +44,7 @@ The last bull market attracted a huge wave of talent and capital that has not le
 - **Committed Capital:** Venture capital has a long-term time horizon. The billions of dollars that were invested in Web3 projects during the bull market are still being deployed to fund development for years to come, regardless of short-term market conditions.
 
 **3. The Vision is More Relevant Than Ever**
-The problems of the centralized internet—data monopolies, censorship, and platform risk—have only become more acute. The core value proposition of Web3 is a direct answer to these problems.
+The problems of the centralized internet-data monopolies, censorship, and platform risk-have only become more acute. The core value proposition of Web3 is a direct answer to these problems.
 - **Digital Ownership:** The desire for true ownership of one's digital assets and identity is a powerful one. As our lives become increasingly digital, the importance of this will only grow.
 - **Permissionless Innovation:** The ability for anyone, anywhere, to build on top of an open and neutral platform without asking for permission is a recipe for explosive innovation, just as it was for the early internet.
 
@@ -133,7 +133,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -145,7 +145,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

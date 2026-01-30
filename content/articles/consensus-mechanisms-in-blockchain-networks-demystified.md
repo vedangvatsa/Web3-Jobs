@@ -24,7 +24,7 @@ Proof-of-Work was pioneered by Bitcoin and is the original blockchain consensus 
 -   **How it Works:**
     1.  "Miners" around the world use powerful, specialized computers to compete to solve a complex mathematical puzzle.
     2.  This puzzle involves finding a specific number (a "nonce") that, when combined with the data in a new block of transactions, produces a hash with specific properties (e.g., a certain number of leading zeros).
-    3.  The only way to find this nonce is through brute force—trying trillions of possibilities per second. This requires an immense amount of computational power and electricity. This computational effort is the "work" in Proof-of-Work.
+    3.  The only way to find this nonce is through brute force-trying trillions of possibilities per second. This requires an immense amount of computational power and electricity. This computational effort is the "work" in Proof-of-Work.
     4.  The first miner to find a valid nonce "wins" the right to add their block to the blockchain and is rewarded with newly created cryptocurrency.
 -   **Security Model:** The security of PoW comes from how expensive it is to attack. To rewrite the blockchain's history, an attacker would need to control more than 51% of the network's total mining power, which would cost billions of dollars in hardware and electricity.
 -   **Examples:** Bitcoin, Litecoin, Dogecoin.
@@ -40,7 +40,7 @@ Proof-of-Stake is a more modern and energy-efficient alternative to PoW that is 
     2.  To become a validator, a user must "stake" (lock up) a significant amount of the network's native cryptocurrency as collateral.
     3.  The network then uses an algorithm to pseudo-randomly select a validator to propose the next block. The more crypto a validator has staked, the higher their chance of being selected.
     4.  Other validators then "attest" that they have seen the block and believe it is valid. Once a block has enough attestations, it is added to the chain, and the proposing validator receives a reward.
--   **Security Model:** The security of PoS comes from the economic incentive. If a validator tries to cheat (e.g., by proposing a fraudulent block), their staked collateral can be "slashed"—meaning a portion or all of it is destroyed by the protocol. Since validators have a large financial stake in the network's success, they are heavily incentivized to act honestly.
+-   **Security Model:** The security of PoS comes from the economic incentive. If a validator tries to cheat (e.g., by proposing a fraudulent block), their staked collateral can be "slashed"-meaning a portion or all of it is destroyed by the protocol. Since validators have a large financial stake in the network's success, they are heavily incentivized to act honestly.
 -   **Examples:** Ethereum, Solana, Avalanche, Cardano.
 -   **Pros:**
     -   **Energy Efficiency:** PoS is over 99.9% more energy-efficient than PoW because it doesn't require vast computational puzzles.
@@ -57,7 +57,7 @@ While PoW and PoS are the two main models, other innovative mechanisms exist, su
 
 ### Conclusion: The Trade-Offs of Decentralization
 
-The choice of a consensus mechanism is one of the most important design decisions for any blockchain. It involves fundamental trade-offs between security, decentralization, and scalability—the famous **[blockchain trilemma](/is-web3-dead)**. Proof-of-Work offers unparalleled security but at a high energy cost. Proof-of-Stake offers a much more scalable and efficient alternative but introduces different economic and centralization considerations. As the Web3 space continues to evolve, the research and development of new and improved consensus mechanisms will remain one of the most critical areas of innovation.
+The choice of a consensus mechanism is one of the most important design decisions for any blockchain. It involves fundamental trade-offs between security, decentralization, and scalability-the famous **[blockchain trilemma](/is-web3-dead)**. Proof-of-Work offers unparalleled security but at a high energy cost. Proof-of-Stake offers a much more scalable and efficient alternative but introduces different economic and centralization considerations. As the Web3 space continues to evolve, the research and development of new and improved consensus mechanisms will remain one of the most critical areas of innovation.
 
 ## The Web3 Opportunity
 
@@ -138,7 +138,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -150,7 +150,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

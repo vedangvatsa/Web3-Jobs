@@ -49,7 +49,7 @@ A VC is typically a JSON object (specifically, a JSON-LD - Linked Data) with a f
 -   **`type`**: The type of credential (e.g., `VerifiableCredential`, `UniversityDegreeCredential`).
 -   **`issuer`**: The DID of the entity that issued the credential.
 -   **`issuanceDate`**: When the credential was issued.
--   **`credentialSubject`**: The payload of the credential—the actual claims being made about the subject (e.g., ` "degree": "Bachelor of Science", "major": "Computer Science" `). The subject is identified by their DID.
+-   **`credentialSubject`**: The payload of the credential-the actual claims being made about the subject (e.g., ` "degree": "Bachelor of Science", "major": "Computer Science" `). The subject is identified by their DID.
 -   **`proof`**: The digital signature of the issuer, which makes the credential tamper-proof. It includes the signature type, when it was created, and the signature value itself.
 
 ### The Superpower of VCs: Selective Disclosure and Zero-Knowledge Proofs
@@ -192,7 +192,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

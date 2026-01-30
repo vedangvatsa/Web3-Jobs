@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-Smart contracts are powerful, but they are also isolated. They cannot, by themselves, access any data from the outside world. This is known as the "oracle problem." **Blockchain oracles** are the critical pieces of middleware that solve this problem, acting as a secure bridge between the on-chain and off-chain worlds. They are responsible for feeding real-world data—like asset prices, weather information, or the outcome of an election—to smart contracts.
+Smart contracts are powerful, but they are also isolated. They cannot, by themselves, access any data from the outside world. This is known as the "oracle problem." **Blockchain oracles** are the critical pieces of middleware that solve this problem, acting as a secure bridge between the on-chain and off-chain worlds. They are responsible for feeding real-world data-like asset prices, weather information, or the outcome of an election-to smart contracts.
 
 The oracle space is a cornerstone of the Web3 ecosystem. Without reliable oracles, the multi-billion dollar DeFi industry could not exist. This has created a vibrant job market for professionals who can build, maintain, and grow these essential data networks. This guide explores the career paths available in the world of Web3 oracles.
 
@@ -151,7 +151,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -163,7 +163,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

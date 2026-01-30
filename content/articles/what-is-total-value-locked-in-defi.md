@@ -41,7 +41,7 @@ While TVL is a useful metric, it can also be misleading if viewed in isolation. 
 -   **It Doesn't Equal Revenue:** A protocol can have a high TVL but generate very little revenue if it has a low volume of actual usage. Protocol revenue (the fees generated) is often a more meaningful metric of product-market fit.
 -   **Double Counting:** A single dollar of capital can be counted multiple times in the total DeFi TVL as it moves through different "money lego" protocols. For example, you can deposit ETH into Lido to get stETH, then deposit that stETH into Aave as collateral. The same underlying ETH is now counted in the TVL of both Lido and Aave.
 
-TVL is a foundational metric for analyzing the DeFi landscape. It provides a quick and easy way to gauge the scale of a protocol. However, a savvy analyst will always use it in conjunction with other metrics—such as protocol revenue, daily active users, and the TVL-to-market cap ratio—to get a more complete and nuanced picture of a project's health and long-term potential.
+TVL is a foundational metric for analyzing the DeFi landscape. It provides a quick and easy way to gauge the scale of a protocol. However, a savvy analyst will always use it in conjunction with other metrics-such as protocol revenue, daily active users, and the TVL-to-market cap ratio-to get a more complete and nuanced picture of a project's health and long-term potential.
 
 ## The Web3 Opportunity
 
@@ -122,7 +122,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -134,7 +134,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -33,7 +33,7 @@ These risks are not trivial. A career in Web3 is likely to be less stable and pr
 Despite the risks, the arguments for the long-term legitimacy of a Web3 career are incredibly compelling.
 
 **1. You Are Building on the Next Technological Primitive**
-At its core, Web3 is about a fundamental technological innovation: the ability to create verifiable, digital scarcity and ownership. This is a new "primitive"—a foundational building block—for the internet, much like the hyperlink was for Web1 or the social graph was for Web2.
+At its core, Web3 is about a fundamental technological innovation: the ability to create verifiable, digital scarcity and ownership. This is a new "primitive"-a foundational building block-for the internet, much like the hyperlink was for Web1 or the social graph was for Web2.
 
 - **Analogy:** Choosing to work in Web3 today is like choosing to work on internet protocols in the early 1990s. It was a niche, volatile, and poorly understood field, but it was where the foundational infrastructure of the modern world was being built. The skills you gain working on this new primitive are likely to be incredibly valuable for decades to come.
 
@@ -49,7 +49,7 @@ While market prices are volatile, the underlying flow of venture capital into th
 
 **4. The Work is More Transparent and Meritocratic**
 The open-source and transparent nature of Web3 creates a more meritocratic work environment.
-- **Proof of Work:** Your public contributions—your code on GitHub, your analysis on a blog, your governance proposals in a DAO—are often more important than your resume. This allows talented individuals to build a reputation and find opportunities regardless of their background or pedigree.
+- **Proof of Work:** Your public contributions-your code on GitHub, your analysis on a blog, your governance proposals in a DAO-are often more important than your resume. This allows talented individuals to build a reputation and find opportunities regardless of their background or pedigree.
 - **You are an Owner:** Token-based compensation means you are not just an employee; you are a co-owner of the network you are building. This creates a powerful sense of alignment and mission that is often missing in traditional corporate jobs.
 
 ### Conclusion: A Calculated Risk on the Future
@@ -137,7 +137,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -149,7 +149,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -17,7 +17,7 @@ A Web3 Project Manager's role is a unique blend of traditional project managemen
 
 ### The Web3 Project Manager vs. The Traditional Project Manager
 
-While the core responsibilities are similar—managing timelines, resources, and stakeholders—the Web3 environment introduces unique challenges.
+While the core responsibilities are similar-managing timelines, resources, and stakeholders-the Web3 environment introduces unique challenges.
 
 -   **Decentralized Teams:** You are not managing a team in an office. You are coordinating a global, often pseudonymous, group of contributors across multiple time zones.
 -   **Community as a Stakeholder:** Your key stakeholders are not just internal executives; they include the entire community of token holders who have a direct say in the project's direction via governance.
@@ -29,7 +29,7 @@ While the core responsibilities are similar—managing timelines, resources, and
 1.  **Roadmap Planning and Management:** Working with the product and development teams to create a realistic project roadmap, break it down into sprints and tasks, and track progress.
 2.  **Resource Coordination:** Ensuring that developers, auditors, designers, and marketers are all aligned and have what they need to do their jobs.
 3.  **Communication Hub:** Acting as the central point of communication for the project, providing regular updates to both the internal team and the external community.
-4.  **Risk Management:** Identifying potential risks to the project—technical, security, or market-related—and developing mitigation plans.
+4.  **Risk Management:** Identifying potential risks to the project-technical, security, or market-related-and developing mitigation plans.
 5.  **Governance Facilitation:** For projects governed by a [DAO](/what-is-a-dao), the Project Manager often plays a key role in helping to structure and shepherd governance proposals related to the product roadmap.
 
 ### The Skills You Need

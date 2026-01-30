@@ -106,7 +106,7 @@ After you have had a great conversation, send a personalized follow-up email wit
 
 ## Conclusion
 
-Networking for introverts is not about changing who you are. It is about embracing your strengths—your ability to listen, your thoughtfulness, and your preference for deep connection—and using them to your advantage. By focusing on quality over quantity, preparing in advance, and leveraging online and one-on-one formats, you can build a powerful and supportive professional network in a way that feels authentic and sustainable.
+Networking for introverts is not about changing who you are. It is about embracing your strengths-your ability to listen, your thoughtfulness, and your preference for deep connection-and using them to your advantage. By focusing on quality over quantity, preparing in advance, and leveraging online and one-on-one formats, you can build a powerful and supportive professional network in a way that feels authentic and sustainable.
 
 ### Frequently Asked Questions (FAQ)
 
@@ -187,7 +187,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

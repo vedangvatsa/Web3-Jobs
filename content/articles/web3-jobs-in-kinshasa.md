@@ -183,14 +183,14 @@ A: Not necessary. Remote work viable. Being on-ground helps for supply chain con
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Web3 fundamentals
-- [NFT Academy](https://www.nftschool.dev/) — Creator economy
-- [Supply Chain Blockchain](https://www.ibm.com/supply-chain/) — Enterprise patterns
+- [Buildspace](https://buildspace.so/): Web3 fundamentals
+- [NFT Academy](https://www.nftschool.dev/): Creator economy
+- [Supply Chain Blockchain](https://www.ibm.com/supply-chain/): Enterprise patterns
 
 **Communities:**
-- [ReFi DAO](https://refidao.com/) — Impact projects
-- [Polygon Community](https://discord.gg/polygon) — Web3 builders
-- [Kinshasa Tech Scene Twitter](https://twitter.com/search?q=kinshasa%20tech) — Local network
+- [ReFi DAO](https://refidao.com/): Impact projects
+- [Polygon Community](https://discord.gg/polygon): Web3 builders
+- [Kinshasa Tech Scene Twitter](https://twitter.com/search?q=kinshasa%20tech): Local network
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

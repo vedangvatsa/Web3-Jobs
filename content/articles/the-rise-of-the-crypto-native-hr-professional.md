@@ -23,7 +23,7 @@ The demand for crypto-native People Ops leaders is surging as Web3 startups and 
 
 How do you handle payroll when your team spans the globe? What's your backup plan if payment systems in one region go down? How do you ensure compliance with labor laws in countries you've never physically been to?
 
-**The Solution:** Web3 HR leaders must be experts in remote-first organizational design. They build culture through written communication in tools like Discord, Slack, and Notion. They create detailed onboarding documentation that works asynchronously—a new hire from Singapore can get fully onboarded without waiting for their US-based manager to wake up.
+**The Solution:** Web3 HR leaders must be experts in remote-first organizational design. They build culture through written communication in tools like Discord, Slack, and Notion. They create detailed onboarding documentation that works asynchronously-a new hire from Singapore can get fully onboarded without waiting for their US-based manager to wake up.
 
 They partner with global employment platforms (like Deel, Remote.com, or Guidepoint) to handle international payroll and compliance. Many Web3 companies also use crypto payments (stablecoins) for a portion of compensation, which streamlines cross-border payments and reduces currency conversion costs. But this introduces new complexity: employees need to understand how to receive crypto, convert it if needed, and handle the tax implications.
 
@@ -74,7 +74,7 @@ How do you manage performance and coordinate work across a global, decentralized
 
 **The Solution:** Web3 People Ops focuses on building a "contributor funnel." They create clear pathways for community members to start contributing to the DAO, beginning with small bounties (worth $100-500) and progressing to larger, grant-funded projects (worth $5K-$50K+).
 
-The focus shifts from traditional hiring criteria (resume, interview performance, credentials) to "proof of work"—what have you actually built? What have you contributed? Reputation becomes the primary currency. Many Web3 projects use platforms like Dework, Bounties Network, or their own Discord bots to track contributions and reputation.
+The focus shifts from traditional hiring criteria (resume, interview performance, credentials) to "proof of work"-what have you actually built? What have you contributed? Reputation becomes the primary currency. Many Web3 projects use platforms like Dework, Bounties Network, or their own Discord bots to track contributions and reputation.
 
 Onboarding is different: instead of HR sending a welcome package, the DAO provides documentation on getting started, available bounties, and how to join Discord channels. Contributors often self-organize into working groups and propose new work directly.
 
@@ -136,7 +136,7 @@ Traditional HR often operates within constraints: "This is how we've always done
 
 The answers are still being figured out. That means early People Ops leaders in Web3 are essentially writing the playbook for how work, compensation, and organizations can function in a decentralized future.
 
-That's both the challenge and the opportunity of crypto-native People Ops roles. The companies and DAOs that get this right—that attract and retain great talent while maintaining culture and alignment—will win in the long run.
+That's both the challenge and the opportunity of crypto-native People Ops roles. The companies and DAOs that get this right-that attract and retain great talent while maintaining culture and alignment-will win in the long run.
 
 ## The Bottom Line
 
@@ -144,4 +144,4 @@ As Web3 organizations grow and mature, they increasingly need experienced People
 
 The role combines the startup energy of building something new with the complexity of managing global, remote, crypto-native teams. It requires a combination of empathy, systems thinking, crypto knowledge, and a willingness to experiment with new models of work and organization.
 
-For HR professionals ready for the challenge, Web3 People Ops is one of the most interesting frontiers in the industry—an opportunity to shape how the future of work actually functions.
+For HR professionals ready for the challenge, Web3 People Ops is one of the most interesting frontiers in the industry-an opportunity to shape how the future of work actually functions.

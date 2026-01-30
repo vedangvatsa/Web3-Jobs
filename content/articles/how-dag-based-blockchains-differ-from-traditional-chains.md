@@ -11,7 +11,7 @@ category: "Technology Deep Dives"
 
 
 
-When most people think of a distributed ledger, they think of a **blockchain**—a linear, sequential chain of blocks, where each block is cryptographically linked to the one before it. This data structure, pioneered by Bitcoin, has been the foundation for the vast majority of cryptocurrencies and smart contract platforms. However, it's not the only way to structure a decentralized ledger.
+When most people think of a distributed ledger, they think of a **blockchain**-a linear, sequential chain of blocks, where each block is cryptographically linked to the one before it. This data structure, pioneered by Bitcoin, has been the foundation for the vast majority of cryptocurrencies and smart contract platforms. However, it's not the only way to structure a decentralized ledger.
 
 An alternative and fascinating approach is the **Directed Acyclic Graph**, or **DAG**. DAG-based crypto networks are designed to overcome some of the inherent scalability limitations of the traditional blockchain structure. While not as common, they represent a different evolutionary path in the quest for a highly scalable decentralized network.
 
@@ -144,7 +144,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -156,7 +156,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

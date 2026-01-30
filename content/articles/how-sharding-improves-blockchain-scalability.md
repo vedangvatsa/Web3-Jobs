@@ -33,13 +33,13 @@ Sharding is the process of splitting a blockchain's state and transaction proces
 
 > **Mental Model:** If a traditional blockchain is a single, congested highway, sharding is like building 64 new parallel highways, allowing traffic to be spread out and move much faster. The traffic (transactions) is divided across them, and special vehicles (cross-shard messages) can communicate between highways.
 
-The key insight is that you don't need all nodes to process all transactions—you just need enough nodes on each shard to ensure security through decentralization and redundancy.
+The key insight is that you don't need all nodes to process all transactions-you just need enough nodes on each shard to ensure security through decentralization and redundancy.
 
 ## How Does It Work? (Technical Deep Dive)
 
 1. **State Partitioning:** The entire state of the blockchain (all account balances, smart contract data, everything) is divided among the shards. Shard 1 might contain accounts starting with "0x0a", Shard 2 accounts starting with "0x0b", etc. Each shard maintains its own state.
 
-2. **Validator Assignment:** The network's validators are randomly assigned to different shards to process transactions and ensure security. This random shuffling—critical for security—prevents validators from colluding to take over a single shard and commit fraud. If validators could choose their shard, a small group could concentrate on one shard and compromise it.
+2. **Validator Assignment:** The network's validators are randomly assigned to different shards to process transactions and ensure security. This random shuffling-critical for security-prevents validators from colluding to take over a single shard and commit fraud. If validators could choose their shard, a small group could concentrate on one shard and compromise it.
 
 3. **Cross-Shard Communication:** A central "Beacon Chain" or "Relay Chain" coordinates the shards, manages the validator set, and enables secure communication between shards. The Beacon Chain doesn't process user transactions; it orchestrates the system. This architecture is called "beacon chain sharding."
 
@@ -56,7 +56,7 @@ Imagine Alice (in Shard 1) wants to send tokens to Bob (in Shard 2):
 5. Validators in Shard 2 see the cross-shard message and update Bob's balance
 6. The transaction is complete
 
-This requires coordination between shards, which adds complexity. But the key is that Shard 3, 4, 5, etc. can process other transactions in parallel. Overall throughput increases dramatically—if you have 64 shards, you could theoretically achieve 64x throughput improvement.
+This requires coordination between shards, which adds complexity. But the key is that Shard 3, 4, 5, etc. can process other transactions in parallel. Overall throughput increases dramatically-if you have 64 shards, you could theoretically achieve 64x throughput improvement.
 
 ## Sharding vs. Layer 2 Solutions
 
@@ -82,13 +82,13 @@ The answer involves sophisticated cryptography and incentive design:
 
 - **Slashing Conditions:** Validators who are caught committing fraud on a shard have their stakes slashed (taken as penalty). The threat of financial loss deters attacks.
 
-- **Beacon Chain Finality:** The Beacon Chain must reach consensus on the state of all shards. This provides an additional security layer—a shard can't be compromised if the Beacon Chain accurately tracks its state.
+- **Beacon Chain Finality:** The Beacon Chain must reach consensus on the state of all shards. This provides an additional security layer-a shard can't be compromised if the Beacon Chain accurately tracks its state.
 
 The challenge is ensuring security while maintaining scalability. Too much security overhead (requiring many validators per shard) reduces scalability. Too little security (few validators per shard) creates risk. The optimal balance is a sophisticated engineering problem.
 
 ## Current State: Ethereum's Danksharding
 
-Ethereum is implementing a form of sharding called Danksharding, named after researcher Dankrad Feist. Rather than sharding transaction processing (which is complex), Danksharding focuses on **data availability sharding**—sharding the data that Layer 2 systems need.
+Ethereum is implementing a form of sharding called Danksharding, named after researcher Dankrad Feist. Rather than sharding transaction processing (which is complex), Danksharding focuses on **data availability sharding**-sharding the data that Layer 2 systems need.
 
 Here's why this matters:
 
@@ -116,7 +116,7 @@ This is a pragmatic approach: rather than sharding all transaction processing (h
 
 **Developer Complexity:** Building decentralized applications across shards is more complex than on a single-shard system.
 
-**Practical Scalability Limits:** While sharding is powerful, it's not unlimited. If you have 64 shards and each shard processes 100 tx/sec, you get 6,400 tx/sec—impressive but not Visa-level. Combined with Layer 2s, the throughput becomes sufficient for mainstream adoption.
+**Practical Scalability Limits:** While sharding is powerful, it's not unlimited. If you have 64 shards and each shard processes 100 tx/sec, you get 6,400 tx/sec-impressive but not Visa-level. Combined with Layer 2s, the throughput becomes sufficient for mainstream adoption.
 
 ## Career Implications
 
@@ -132,7 +132,7 @@ Professionals who can navigate the technical complexity of sharding are in high 
 
 Sharding is one of the most ambitious technical solutions to blockchain scalability. Rather than choosing between decentralization or security, sharding attempts to scale by splitting work across parallel chains while maintaining security through cryptography, incentives, and randomization.
 
-The approach is not simple—it requires sophisticated protocol design, complex cryptography, and careful incentive engineering. But for platforms aiming to support global-scale usage with full decentralization, sharding (combined with Layer 2 solutions) may be essential.
+The approach is not simple-it requires sophisticated protocol design, complex cryptography, and careful incentive engineering. But for platforms aiming to support global-scale usage with full decentralization, sharding (combined with Layer 2 solutions) may be essential.
 
 Ethereum's pragmatic Danksharding approach shows that you don't need to solve the entire scalability problem with sharding alone. By combining data availability sharding with Layer 2 rollups, you can achieve massive scalability while keeping complexity manageable. This is likely the model other major blockchains will follow as they evolve.
 
@@ -215,7 +215,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -227,7 +227,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

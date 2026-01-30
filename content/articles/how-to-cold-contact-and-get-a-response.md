@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-In the fast-paced and network-driven world of Web3, the ability to effectively cold contact someone—a founder, an investor, a hiring manager—is a superpower. A single well-crafted message can open doors, create opportunities, and change the trajectory of your career. However, most cold outreach is terrible. It's generic, self-serving, and gets instantly deleted.
+In the fast-paced and network-driven world of Web3, the ability to effectively cold contact someone-a founder, an investor, a hiring manager-is a superpower. A single well-crafted message can open doors, create opportunities, and change the trajectory of your career. However, most cold outreach is terrible. It's generic, self-serving, and gets instantly deleted.
 
 The secret to a successful cold contact is to flip the script. Instead of asking for something, you should be *giving* something. Your message should be a small gift of value, a demonstration of your insight and passion that makes the recipient *want* to reply. This guide breaks down the art of the cold contact, providing a practical framework for writing messages that actually get a response.
 
@@ -21,7 +21,7 @@ This is what 99% of cold messages look like:
 
 > "Hi [Name], I'm a huge admirer of your project. I'm a [Your Role] looking for new opportunities and would love to chat about how I can help your team. Can you spare 15 minutes for a call?"
 
-This message is all about you and what you want. You are asking a busy, important person to give you their most valuable resource—their time—in exchange for nothing. It will be ignored.
+This message is all about you and what you want. You are asking a busy, important person to give you their most valuable resource-their time-in exchange for nothing. It will be ignored.
 
 ### The Golden Rule: Provide Value Before You Ask for Value
 
@@ -157,7 +157,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

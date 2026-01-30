@@ -12,7 +12,7 @@ category: "Technology Deep Dives"
 
 Why do some crypto tokens skyrocket in value while others fade into obscurity? While market hype and speculation play a role, the long-term success of a crypto project often hinges on a crucial but frequently misunderstood concept: **tokenomics**.
 
-Tokenomics, a portmanteau of "token" and "economics," is the science of a cryptocurrency's economic model. It encompasses all the factors that affect a token's supply, demand, and ultimate value. A well-designed tokenomics model creates a virtuous cycle, aligning the incentives of all participants—from the core development team to individual users—to work towards the growth and security of the network. A poorly designed model, on the other hand, can lead to inflation, centralization, and eventual collapse.
+Tokenomics, a portmanteau of "token" and "economics," is the science of a cryptocurrency's economic model. It encompasses all the factors that affect a token's supply, demand, and ultimate value. A well-designed tokenomics model creates a virtuous cycle, aligning the incentives of all participants-from the core development team to individual users-to work towards the growth and security of the network. A poorly designed model, on the other hand, can lead to inflation, centralization, and eventual collapse.
 
 For anyone investing in or building in the Web3 space, understanding the basics of tokenomics is not optional. It's the fundamental lens through which you must evaluate the potential of any project. This guide will break down the key components of tokenomics, providing you with the framework to analyze and understand the economic forces that drive a crypto asset.
 
@@ -141,7 +141,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -153,7 +153,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -47,7 +47,7 @@ For developers, this creates interesting opportunities. L2 development is an act
 
 Ether (ETH) is the native cryptocurrency of the Ethereum network. It serves several critical functions.
 
-Gas fees are paid in ETH. Every transaction on Ethereum—from simple transfers to complex smart contract interactions—requires paying a small fee in ETH. These fees go to validators as rewards for securing the network. The amount depends on network congestion. When the network is busy, fees rise.
+Gas fees are paid in ETH. Every transaction on Ethereum-from simple transfers to complex smart contract interactions-requires paying a small fee in ETH. These fees go to validators as rewards for securing the network. The amount depends on network congestion. When the network is busy, fees rise.
 
 Validators stake ETH to secure the network. Currently, over 30 million ETH is staked by validators worldwide. This staking requirement creates economic security. If you want to attack Ethereum, you need to own and risk billions of dollars in ETH.
 
@@ -150,7 +150,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

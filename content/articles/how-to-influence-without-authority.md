@@ -4,7 +4,7 @@
 title: "How to Influence Without Authority: A Guide to Leading Your Peers"
 category: "Career Guides"
 date: "2025-09-12"
-description: "True leadership isn't about a title. This guide explores the tactics of influence—building trust, using data, and creating shared vision—to help you lead."
+description: "True leadership isn't about a title. This guide explores the tactics of influence-building trust, using data, and creating shared vision-to help you lead."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team collaboration influence"
 
@@ -126,7 +126,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

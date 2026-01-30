@@ -206,7 +206,7 @@ A: Get hired first (faster path to income). After 1-2 years, launch your own com
 **Q: How do I approach government?**
 A: Start with Ministry of ICT. Show respect for Rwanda's Vision 2050. Propose concrete, feasible project. Think long-term partnership.
 
-**Q: Land registry blockchain—is this real?**
+**Q: Land registry blockchain-is this real?**
 A: Yes. Rwanda has digital land registry. Blockchain integration discussed. First ones to solution win.
 
 **Q: Can I work on pan-African projects from here?**
@@ -218,19 +218,19 @@ A: Cautiously. Bitcoin and ethereum not prohibited. Stablecoins and regulated di
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Web3 fundamentals
-- [Hyperledger Fabric Docs](https://hyperledger-fabric.readthedocs.io/) — Enterprise blockchain
-- [Rwanda Tech Ecosystem](https://www.kigaliinnovationcity.rw/) — Local connections
+- [Buildspace](https://buildspace.so/): Web3 fundamentals
+- [Hyperledger Fabric Docs](https://hyperledger-fabric.readthedocs.io/): Enterprise blockchain
+- [Rwanda Tech Ecosystem](https://www.kigaliinnovationcity.rw/): Local connections
 
 **Communities:**
-- [Kigali Innovation City](https://www.kigaliinnovationcity.rw/) — Central ecosystem
-- [Polygon Community](https://discord.gg/polygon) — Web3 builders
-- [Africa Blockchain Institute](https://africablockchaininititive.org/) — Continental network
+- [Kigali Innovation City](https://www.kigaliinnovationcity.rw/): Central ecosystem
+- [Polygon Community](https://discord.gg/polygon): Web3 builders
+- [Africa Blockchain Institute](https://africablockchaininititive.org/): Continental network
 
 **Job & Opportunity Boards:**
-- [Cryptojobs.xyz](https://cryptojobs.xyz/) — Web3 positions
-- [Kigali Tech Jobs](https://twitter.com/search?q=kigali%20tech%20jobs) — Local opportunities
-- [Innovation City Job Board](https://www.kigaliinnovationcity.rw/jobs) — Hub-specific roles
+- [Cryptojobs.xyz](https://cryptojobs.xyz/): Web3 positions
+- [Kigali Tech Jobs](https://twitter.com/search?q=kigali%20tech%20jobs): Local opportunities
+- [Innovation City Job Board](https://www.kigaliinnovationcity.rw/jobs): Hub-specific roles
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

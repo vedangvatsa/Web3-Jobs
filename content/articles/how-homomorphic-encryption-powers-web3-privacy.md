@@ -11,7 +11,7 @@ category: "Technology Deep Dives"
 
 
 
-In the world of Web3, we face a fundamental tension between transparency and privacy. Public blockchains like Ethereum are radically transparent—all data and computations are visible to everyone. This is great for auditability but terrible for privacy. How can you build applications that handle sensitive data, like medical records or confidential financial trades, on a transparent ledger?
+In the world of Web3, we face a fundamental tension between transparency and privacy. Public blockchains like Ethereum are radically transparent-all data and computations are visible to everyone. This is great for auditability but terrible for privacy. How can you build applications that handle sensitive data, like medical records or confidential financial trades, on a transparent ledger?
 
 While **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained)** are a powerful tool for proving facts about private data, another, even more futuristic technology is emerging: **Homomorphic Encryption (HE)**. HE is a form of encryption that allows you to perform computations directly on encrypted data without ever decrypting it first.
 
@@ -144,7 +144,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -156,7 +156,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

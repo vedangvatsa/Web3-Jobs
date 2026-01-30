@@ -23,7 +23,7 @@ Web3, in his view, is the antidote. By leveraging blockchain technology, decentr
 
 **1. A Return to the Internet's Decentralized Roots:** Andreessen often harks back to the original vision of the internet as an open, permissionless network. He sees Web3 as a fulfillment of that promise, correcting the course from the centralized, walled gardens of Web2. He believes that decentralization is not just a technical feature but a crucial social and economic one, preventing single points of control and failure.
 
-**2. Better Economics for Creators:** A central tenet of Andreessen's Web3 thesis is the empowerment of creators. In Web2, platforms take a significant cut of revenue (e.g., Apple's 30% App Store fee). In Web3, smart contracts can create systems where creators capture a much larger share of the value they generate. NFTs, for example, allow artists to not only sell their work directly but also earn royalties on all future secondary sales—a concept that is difficult to enforce in the traditional art world.
+**2. Better Economics for Creators:** A central tenet of Andreessen's Web3 thesis is the empowerment of creators. In Web2, platforms take a significant cut of revenue (e.g., Apple's 30% App Store fee). In Web3, smart contracts can create systems where creators capture a much larger share of the value they generate. NFTs, for example, allow artists to not only sell their work directly but also earn royalties on all future secondary sales-a concept that is difficult to enforce in the traditional art world.
 
 **3. The Power of Trust and Composability:** Andreessen emphasizes that blockchains provide a "trust layer" for the internet. By having a shared, immutable ledger, developers can build applications that interoperate seamlessly without needing to trust each other. This concept, known as composability or "money legos," allows for rapid innovation, as new applications can be built by combining existing protocols in novel ways, much like stacking Lego bricks.
 
@@ -141,7 +141,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -153,7 +153,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -62,7 +62,7 @@ The road to a fully private and secure Web3 is still under construction.
 - **Blockchain Transparency:** Public blockchains are transparent, not anonymous. While your identity is pseudonymous, a dedicated analyst can often trace transactions and link them to real-world identities. Privacy-enhancing technologies like ZKPs are needed to solve this.
 - **User Responsibility:** With the power of self-custody comes the responsibility of **[securing your own assets](/securing-your-crypto)**. Users must be educated on how to protect their private keys, as there is no "forgot password" button in Web3.
 
-Web3 is building the infrastructure for a new kind of internet—one where privacy and security are not afterthoughts, but are baked into the fundamental architecture of the system. By giving users control over their own identity and data, it promises a more equitable and secure digital future.
+Web3 is building the infrastructure for a new kind of internet-one where privacy and security are not afterthoughts, but are baked into the fundamental architecture of the system. By giving users control over their own identity and data, it promises a more equitable and secure digital future.
 
 ## The Web3 Opportunity
 
@@ -143,7 +143,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -155,7 +155,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 
