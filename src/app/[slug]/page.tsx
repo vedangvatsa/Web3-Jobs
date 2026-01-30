@@ -6,6 +6,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 import type { Article as ArticleSchema, ScholarlyArticle, BreadcrumbList } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
+import { RelatedArticles } from '@/components/related-articles';
 import { Suspense } from 'react';
 import { cn } from '@/lib/utils';
 
@@ -72,6 +73,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const article = await getArticle(params.slug);
+  const allArticles = await getAllArticles();
 
   if (!article) {
     notFound();
@@ -182,6 +184,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                  </Suspense>
               </div>
             </article>
+            
+            <RelatedArticles 
+              allArticles={allArticles.map(({ content, ...rest }) => rest)}
+              currentCategory={article.category}
+              currentSlug={article.slug}
+            />
         </div>
       </main>
     </div>
