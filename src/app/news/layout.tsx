@@ -2,14 +2,14 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Web3 News Feed | Latest Crypto Headlines',
-  description: 'The latest news and headlines from Web3, cryptocurrency, and blockchain, aggregated in real-time from top industry sources.',
+  title: 'Web3 News | Daily Crypto and Blockchain Headlines',
+  description: 'Daily Web3, crypto, and blockchain headlines with concise summaries from top industry sources.',
   alternates: {
     canonical: '/news',
   },
   openGraph: {
-    title: 'Web3 News Feed | Latest Crypto Headlines',
-    description: 'Stay updated with the latest in Web3. Our news feed aggregates top stories from across the crypto industry in real-time.',
+    title: 'Web3 News | Daily Crypto and Blockchain Headlines',
+    description: 'Stay updated with Web3 and crypto news. Top stories and brief summaries from trusted industry sources.',
     url: 'https://hashtagweb3.com/news',
     images: [
       {
@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 News Feed | Latest Crypto Headlines',
-    description: 'Your daily briefing on everything happening in the world of crypto and blockchain.',
+    title: 'Web3 News | Daily Crypto and Blockchain Headlines',
+    description: 'Your daily briefing on Web3, crypto, and blockchain headlines.',
     images: ['https://hashtagweb3.com/og-image-news.png'],
   },
 };
