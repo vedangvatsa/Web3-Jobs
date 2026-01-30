@@ -14,6 +14,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Alchemy",
         "link": "https://job-boards.greenhouse.io/alchemy/jobs/4599359005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5628728004",
@@ -21,6 +22,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5628728004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7182039",
@@ -28,6 +30,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7182039",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/eigen-labs/4e018bca-ec96-43f7-a3f6-b784bbd19a7f?utm_source=jobs.a16z.com",
@@ -35,6 +38,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "EigenLayer",
         "link": "https://jobs.ashbyhq.com/eigen-labs/4e018bca-ec96-43f7-a3f6-b784bbd19a7f?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/carta/jobs/6688696003",
@@ -42,6 +46,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Carta",
         "link": "https://job-boards.greenhouse.io/carta/jobs/6688696003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/mystenlabs/7faf0127-1e2d-4a2e-808c-24868daa9a3a?utm_source=jobs.a16z.com",
@@ -49,6 +54,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mysten Labs",
         "link": "https://jobs.ashbyhq.com/mystenlabs/7faf0127-1e2d-4a2e-808c-24868daa9a3a?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/spade/jobs/4598919005",
@@ -56,6 +62,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Spade",
         "link": "https://job-boards.greenhouse.io/spade/jobs/4598919005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/7e02daad-59d2-49f3-afa3-b9b568e4edc5?utm_source=jobs.a16z.com",
@@ -63,6 +70,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/7e02daad-59d2-49f3-afa3-b9b568e4edc5?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/285cbc02-bf6c-4f9e-903c-85fb5a9e9c10?utm_source=jobs.a16z.com",
@@ -70,6 +78,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Worldcoin",
         "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/285cbc02-bf6c-4f9e-903c-85fb5a9e9c10?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/method/de13a369-ccb9-4b03-9a28-a8e551ee3949?utm_source=jobs.a16z.com",
@@ -77,6 +86,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Method",
         "link": "https://jobs.ashbyhq.com/method/de13a369-ccb9-4b03-9a28-a8e551ee3949?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/lightspark/e207e505-6b0c-4f1f-ae97-6e75dbd9fbeb?utm_source=jobs.a16z.com",
@@ -84,6 +94,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Lightspark",
         "link": "https://jobs.ashbyhq.com/lightspark/e207e505-6b0c-4f1f-ae97-6e75dbd9fbeb?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Solana%20Foundation/32de1a78-2e7d-469d-b846-c61152324365?utm_source=jobs.a16z.com",
@@ -91,6 +102,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Solana Foundation",
         "link": "https://jobs.ashbyhq.com/Solana%20Foundation/32de1a78-2e7d-469d-b846-c61152324365?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Sui%20Foundation/833f7999-f042-43d3-b2b4-e8064bee8cd7?utm_source=jobs.a16z.com",
@@ -98,6 +110,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sui Foundation",
         "link": "https://jobs.ashbyhq.com/Sui%20Foundation/833f7999-f042-43d3-b2b4-e8064bee8cd7?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/oplabs/e62916c2-71d8-4c04-a3a5-1331700e4e46?utm_source=jobs.a16z.com",
@@ -105,6 +118,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "OP Labs",
         "link": "https://jobs.ashbyhq.com/oplabs/e62916c2-71d8-4c04-a3a5-1331700e4e46?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/walrus/21e0f179-40c8-4d6a-b241-97cbcdb5e3d6?utm_source=jobs.a16z.com",
@@ -112,6 +126,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Walrus Foundation",
         "link": "https://jobs.ashbyhq.com/walrus/21e0f179-40c8-4d6a-b241-97cbcdb5e3d6?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/sentilink/0e9c8c3f-ae73-43e7-b882-1a42af518973?utm_source=jobs.a16z.com",
@@ -119,6 +134,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "SentiLink",
         "link": "https://jobs.ashbyhq.com/sentilink/0e9c8c3f-ae73-43e7-b882-1a42af518973?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/cruxclimate/4386e2ac-bcb7-496c-9108-502ce29dabd8?utm_source=jobs.a16z.com",
@@ -126,6 +142,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Crux",
         "link": "https://jobs.ashbyhq.com/cruxclimate/4386e2ac-bcb7-496c-9108-502ce29dabd8?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.lever.co/yuno/eaa0267b-d44c-4168-8977-8a0ec585b599?lever-source%5B%5D=jobs.a16z.com",
@@ -133,6 +150,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Yuno",
         "link": "https://jobs.lever.co/yuno/eaa0267b-d44c-4168-8977-8a0ec585b599?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://www.crossriver.com/greenhouse?gh_jid=6688184003",
@@ -140,6 +158,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Cross River",
         "link": "https://www.crossriver.com/greenhouse?gh_jid=6688184003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Runway/c17a5f0b-ce37-4544-9107-cea79ac39d44?utm_source=jobs.a16z.com",
@@ -147,6 +166,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Runway",
         "link": "https://jobs.ashbyhq.com/Runway/c17a5f0b-ce37-4544-9107-cea79ac39d44?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/skymavis/d767361b-4d3b-47ee-b16b-31011195b93c?utm_source=jobs.a16z.com",
@@ -154,6 +174,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sky Mavis",
         "link": "https://jobs.ashbyhq.com/skymavis/d767361b-4d3b-47ee-b16b-31011195b93c?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://branchinternational.applytojob.com/apply/E5RGe7p13E/Software-Engineer-DevOps-Security",
@@ -161,6 +182,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Branch International",
         "link": "https://branchinternational.applytojob.com/apply/E5RGe7p13E/Software-Engineer-DevOps-Security",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/withclutch/0c3c4ec5-8dea-4d36-a560-9024e3961389?utm_source=jobs.a16z.com",
@@ -168,6 +190,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Clutch",
         "link": "https://jobs.ashbyhq.com/withclutch/0c3c4ec5-8dea-4d36-a560-9024e3961389?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/phantom/b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e?utm_source=jobs.a16z.com",
@@ -175,6 +198,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Phantom",
         "link": "https://jobs.ashbyhq.com/phantom/b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5628475004",
@@ -182,6 +206,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5628475004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5625060004",
@@ -189,6 +214,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5625060004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7178297",
@@ -196,6 +222,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7178297",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7178471",
@@ -203,6 +230,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7178471",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5624250004",
@@ -210,6 +238,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5624250004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7176669",
@@ -217,6 +246,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7176669",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/carta/jobs/6685766003",
@@ -224,6 +254,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Carta",
         "link": "https://job-boards.greenhouse.io/carta/jobs/6685766003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/c9f77c25-f4c9-45d2-9c9b-4dc258279f23?utm_source=jobs.a16z.com",
@@ -231,6 +262,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Worldcoin",
         "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/c9f77c25-f4c9-45d2-9c9b-4dc258279f23?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5620024004",
@@ -238,6 +270,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5620024004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/2adcbb66-7180-40d5-a3de-a4ef2ce8ab70?utm_source=jobs.a16z.com",
@@ -245,6 +278,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/2adcbb66-7180-40d5-a3de-a4ef2ce8ab70?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/alchemy/jobs/4600392005",
@@ -252,6 +286,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Alchemy",
         "link": "https://job-boards.greenhouse.io/alchemy/jobs/4600392005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7176250",
@@ -259,6 +294,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7176250",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7182037",
@@ -266,6 +302,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7182037",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/70cf1163-b70c-492e-9228-b44d264a7c30?utm_source=jobs.a16z.com",
@@ -273,6 +310,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/70cf1163-b70c-492e-9228-b44d264a7c30?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/776333d3-864d-42db-9ea4-49381143160a?utm_source=jobs.a16z.com",
@@ -280,6 +318,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/776333d3-864d-42db-9ea4-49381143160a?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Sui%20Foundation/c4c3a084-3073-4127-ac26-2885162ad5e9?utm_source=jobs.a16z.com",
@@ -287,6 +326,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sui Foundation",
         "link": "https://jobs.ashbyhq.com/Sui%20Foundation/c4c3a084-3073-4127-ac26-2885162ad5e9?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/03ca0083-d2d6-4992-b970-8f42433a097e?utm_source=jobs.a16z.com",
@@ -294,6 +334,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/03ca0083-d2d6-4992-b970-8f42433a097e?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/7c8cd628-e335-468d-b302-8b5ca0d6b646?utm_source=jobs.a16z.com",
@@ -301,6 +342,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/7c8cd628-e335-468d-b302-8b5ca0d6b646?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/416414c5-7c63-4e42-8885-3c29d8be120d?utm_source=jobs.a16z.com",
@@ -308,6 +350,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/416414c5-7c63-4e42-8885-3c29d8be120d?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Solana%20Foundation/a3bf1757-a7dc-49be-b77e-04b790477ecb?utm_source=jobs.a16z.com",
@@ -315,6 +358,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Solana Foundation",
         "link": "https://jobs.ashbyhq.com/Solana%20Foundation/a3bf1757-a7dc-49be-b77e-04b790477ecb?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/da1ecf01-7421-42d6-8c2d-28dd73bc8976?utm_source=jobs.a16z.com",
@@ -322,6 +366,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/da1ecf01-7421-42d6-8c2d-28dd73bc8976?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Sui%20Foundation/10589133-2489-4f66-9e3a-d4a24f166bfc?utm_source=jobs.a16z.com",
@@ -329,6 +374,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sui Foundation",
         "link": "https://jobs.ashbyhq.com/Sui%20Foundation/10589133-2489-4f66-9e3a-d4a24f166bfc?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/67f84e2f-f07d-4125-a741-bcd3eaedefa2?utm_source=jobs.a16z.com",
@@ -336,6 +382,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Worldcoin",
         "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/67f84e2f-f07d-4125-a741-bcd3eaedefa2?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/701be0a4-7b79-4f0f-a9f6-fe10bca48949?utm_source=jobs.a16z.com",
@@ -343,6 +390,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/701be0a4-7b79-4f0f-a9f6-fe10bca48949?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/oplabs/ac39d5bf-b7b2-4186-a84c-02eff562e5dd?utm_source=jobs.a16z.com",
@@ -350,6 +398,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "OP Labs",
         "link": "https://jobs.ashbyhq.com/oplabs/ac39d5bf-b7b2-4186-a84c-02eff562e5dd?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/6c855bd4-2cd3-4946-8a25-57a163a022fb?utm_source=jobs.a16z.com",
@@ -357,6 +406,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/6c855bd4-2cd3-4946-8a25-57a163a022fb?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/a12df33b-5685-41ac-a6a6-59723d9fcce5?utm_source=jobs.a16z.com",
@@ -364,6 +414,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/a12df33b-5685-41ac-a6a6-59723d9fcce5?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/c84d85db-4638-43c9-a814-afbf3c397412?utm_source=jobs.a16z.com",
@@ -371,6 +422,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/c84d85db-4638-43c9-a814-afbf3c397412?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/0cc843ae-4233-4448-b097-0126070b58cb?utm_source=jobs.a16z.com",
@@ -378,6 +430,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/0cc843ae-4233-4448-b097-0126070b58cb?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/62192257-41ad-43b6-855d-9187113e05bb?utm_source=jobs.a16z.com",
@@ -385,6 +438,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/62192257-41ad-43b6-855d-9187113e05bb?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/oplabs/f12e4f49-23d1-48b6-836d-3d7da7e38291?utm_source=jobs.a16z.com",
@@ -392,6 +446,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "OP Labs",
         "link": "https://jobs.ashbyhq.com/oplabs/f12e4f49-23d1-48b6-836d-3d7da7e38291?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/oplabs/8c67d644-c38c-4e4d-98d1-524e79452697?utm_source=jobs.a16z.com",
@@ -399,6 +454,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "OP Labs",
         "link": "https://jobs.ashbyhq.com/oplabs/8c67d644-c38c-4e4d-98d1-524e79452697?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/lightspark/a97c84ff-80f0-4006-8bc8-a4a21139c382?utm_source=jobs.a16z.com",
@@ -406,6 +462,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Lightspark",
         "link": "https://jobs.ashbyhq.com/lightspark/a97c84ff-80f0-4006-8bc8-a4a21139c382?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.lever.co/anchorage/fad0bc38-3f55-4bfb-ab95-4815acc5f376?lever-source%5B%5D=jobs.a16z.com",
@@ -413,6 +470,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Anchorage",
         "link": "https://jobs.lever.co/anchorage/fad0bc38-3f55-4bfb-ab95-4815acc5f376?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/lightspark/c143bf7f-dd98-4a2f-8fb5-9d7e437353f4?utm_source=jobs.a16z.com",
@@ -420,6 +478,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Lightspark",
         "link": "https://jobs.ashbyhq.com/lightspark/c143bf7f-dd98-4a2f-8fb5-9d7e437353f4?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/carta/jobs/6688699003",
@@ -427,6 +486,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Carta",
         "link": "https://job-boards.greenhouse.io/carta/jobs/6688699003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/38b12877-0c3f-4b7a-adec-85cf3419dbfc?utm_source=jobs.a16z.com",
@@ -434,6 +494,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/38b12877-0c3f-4b7a-adec-85cf3419dbfc?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/4ccfab89-f11b-4e80-b109-6ab8cd495a53?utm_source=jobs.a16z.com",
@@ -441,6 +502,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/4ccfab89-f11b-4e80-b109-6ab8cd495a53?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/1cde6b24-a110-4b1e-b7a1-0e3cdf489d21?utm_source=jobs.a16z.com",
@@ -448,6 +510,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/1cde6b24-a110-4b1e-b7a1-0e3cdf489d21?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/fd7f12d2-8e57-4c97-8f85-603d57d8243c?utm_source=jobs.a16z.com",
@@ -455,6 +518,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/fd7f12d2-8e57-4c97-8f85-603d57d8243c?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/605d7020-9b04-41e7-b974-ffe3b6989053?utm_source=jobs.a16z.com",
@@ -462,6 +526,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Worldcoin",
         "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/605d7020-9b04-41e7-b974-ffe3b6989053?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/5c88bf0b-b4c5-4f11-bd64-47eb13aec204?utm_source=jobs.a16z.com",
@@ -469,6 +534,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/5c88bf0b-b4c5-4f11-bd64-47eb13aec204?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/52d69e00-0bd7-4e0f-a6bd-fae8044e5415?utm_source=jobs.a16z.com",
@@ -476,6 +542,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/52d69e00-0bd7-4e0f-a6bd-fae8044e5415?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/a1491b80-f0c2-4968-80f2-419edc9f869d?utm_source=jobs.a16z.com",
@@ -483,6 +550,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/a1491b80-f0c2-4968-80f2-419edc9f869d?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/9aa56d22-b3e5-491b-9b93-7815f9b82350?utm_source=jobs.a16z.com",
@@ -490,6 +558,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/9aa56d22-b3e5-491b-9b93-7815f9b82350?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/bfdce105-98d0-4c62-b41b-8e05e5d48d27?utm_source=jobs.a16z.com",
@@ -497,6 +566,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/bfdce105-98d0-4c62-b41b-8e05e5d48d27?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/cruxclimate/de7fb381-026b-420a-8366-f04dffd64f61?utm_source=jobs.a16z.com",
@@ -504,6 +574,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Crux",
         "link": "https://jobs.ashbyhq.com/cruxclimate/de7fb381-026b-420a-8366-f04dffd64f61?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/552372cb-97b0-4e7b-92c5-16f52186466e?utm_source=jobs.a16z.com",
@@ -511,6 +582,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/552372cb-97b0-4e7b-92c5-16f52186466e?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/9d9083fc-3bcd-47c3-a122-a6dbc85d23f6?utm_source=jobs.a16z.com",
@@ -518,6 +590,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/9d9083fc-3bcd-47c3-a122-a6dbc85d23f6?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/skymavis/442c861b-63bf-47cd-8815-20cb9fc0ddbb?utm_source=jobs.a16z.com",
@@ -525,6 +598,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sky Mavis",
         "link": "https://jobs.ashbyhq.com/skymavis/442c861b-63bf-47cd-8815-20cb9fc0ddbb?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/e2e34c82-5920-4291-aeb2-b6aa91c039fa?utm_source=jobs.a16z.com",
@@ -532,6 +606,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/e2e34c82-5920-4291-aeb2-b6aa91c039fa?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/skymavis/76f3a906-81f2-4d4c-99ce-e1a97c1ac5a6?utm_source=jobs.a16z.com",
@@ -539,6 +614,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sky Mavis",
         "link": "https://jobs.ashbyhq.com/skymavis/76f3a906-81f2-4d4c-99ce-e1a97c1ac5a6?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/01642d10-5573-4eac-bb36-4f2bbe91874b?utm_source=jobs.a16z.com",
@@ -546,6 +622,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/01642d10-5573-4eac-bb36-4f2bbe91874b?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/838569fc-b2c7-4b03-936a-76ac608b696e?utm_source=jobs.a16z.com",
@@ -553,6 +630,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/838569fc-b2c7-4b03-936a-76ac608b696e?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/valon/jobs/4592549006",
@@ -560,6 +638,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Valon",
         "link": "https://job-boards.greenhouse.io/valon/jobs/4592549006",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/1c85e4c7-b6b9-444c-b922-4335a468a09c?utm_source=jobs.a16z.com",
@@ -567,6 +646,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/1c85e4c7-b6b9-444c-b922-4335a468a09c?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7173211",
@@ -574,6 +654,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7173211",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/carta/jobs/6688690003",
@@ -581,6 +662,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Carta",
         "link": "https://job-boards.greenhouse.io/carta/jobs/6688690003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/bb349fda-7b81-48c2-aabe-c1990999d648?utm_source=jobs.a16z.com",
@@ -588,6 +670,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/bb349fda-7b81-48c2-aabe-c1990999d648?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/6a443ccf-4133-4ba0-aa1a-521f0701e338?utm_source=jobs.a16z.com",
@@ -595,6 +678,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Worldcoin",
         "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/6a443ccf-4133-4ba0-aa1a-521f0701e338?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/skymavis/8d8328c3-b02d-44df-a29b-ddce85c1ca0d?utm_source=jobs.a16z.com",
@@ -602,6 +686,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sky Mavis",
         "link": "https://jobs.ashbyhq.com/skymavis/8d8328c3-b02d-44df-a29b-ddce85c1ca0d?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/withclutch/edf02fbf-b06c-413b-87b4-75a0e16c733c?utm_source=jobs.a16z.com",
@@ -609,6 +694,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Clutch",
         "link": "https://jobs.ashbyhq.com/withclutch/edf02fbf-b06c-413b-87b4-75a0e16c733c?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/withclutch/c469a9bc-b3a8-4617-9acb-f431a90b6e01?utm_source=jobs.a16z.com",
@@ -616,6 +702,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Clutch",
         "link": "https://jobs.ashbyhq.com/withclutch/c469a9bc-b3a8-4617-9acb-f431a90b6e01?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/skymavis/864d4c75-7df2-4826-9f96-add51fe9c60d?utm_source=jobs.a16z.com",
@@ -623,6 +710,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sky Mavis",
         "link": "https://jobs.ashbyhq.com/skymavis/864d4c75-7df2-4826-9f96-add51fe9c60d?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/skymavis/4b58a7cf-538a-44c7-908b-da8918348efb?utm_source=jobs.a16z.com",
@@ -630,6 +718,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sky Mavis",
         "link": "https://jobs.ashbyhq.com/skymavis/4b58a7cf-538a-44c7-908b-da8918348efb?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/7007897d-6365-4e19-b8cf-146a7499b0e1?utm_source=jobs.a16z.com",
@@ -637,6 +726,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/7007897d-6365-4e19-b8cf-146a7499b0e1?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/addi/629fc064-9e87-4f10-b259-40207b23c521?utm_source=jobs.a16z.com",
@@ -644,6 +734,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "ADDI",
         "link": "https://jobs.ashbyhq.com/addi/629fc064-9e87-4f10-b259-40207b23c521?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/bd2aa71d-41e9-491e-8ec3-75450e211ffa?utm_source=jobs.a16z.com",
@@ -651,6 +742,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/bd2aa71d-41e9-491e-8ec3-75450e211ffa?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/f264689a-265d-4c67-867f-9ecdf63204ee?utm_source=jobs.a16z.com",
@@ -658,6 +750,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/f264689a-265d-4c67-867f-9ecdf63204ee?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/oplabs/ac8b6368-b85a-48ff-8e3a-0eac769eb0ff?utm_source=jobs.a16z.com",
@@ -665,6 +758,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "OP Labs",
         "link": "https://jobs.ashbyhq.com/oplabs/ac8b6368-b85a-48ff-8e3a-0eac769eb0ff?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/9c739dfc-ca83-4627-87b7-a8704814d844?utm_source=jobs.a16z.com",
@@ -672,6 +766,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/9c739dfc-ca83-4627-87b7-a8704814d844?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/8c6e1b32-ca9c-4519-bca9-e348876ebdc5?utm_source=jobs.a16z.com",
@@ -679,6 +774,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/8c6e1b32-ca9c-4519-bca9-e348876ebdc5?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/4f39d716-9fc1-47ae-95c2-6cdd80f4d86d?utm_source=jobs.a16z.com",
@@ -686,6 +782,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/4f39d716-9fc1-47ae-95c2-6cdd80f4d86d?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/3210ce48-0c7a-43f3-9aeb-77dd1f675100?utm_source=jobs.a16z.com",
@@ -693,6 +790,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/3210ce48-0c7a-43f3-9aeb-77dd1f675100?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://loft.teamtailor.com/jobs/6306337-operador-de-cobranca-exclusiva-para-pcd-s",
@@ -700,6 +798,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Loft",
         "link": "https://loft.teamtailor.com/jobs/6306337-operador-de-cobranca-exclusiva-para-pcd-s",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5616373004",
@@ -707,6 +806,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5616373004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5616371004",
@@ -714,6 +814,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5616371004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://current.com/careers/open-positions/?id=7155604&gh_jid=7155604",
@@ -721,6 +822,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Current",
         "link": "https://current.com/careers/open-positions/?id=7155604&gh_jid=7155604",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/carta/jobs/6673539003",
@@ -728,6 +830,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Carta",
         "link": "https://job-boards.greenhouse.io/carta/jobs/6673539003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/sentilink/7fee353e-9353-4cf8-8d81-bab6a1feb307?utm_source=jobs.a16z.com",
@@ -735,6 +838,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "SentiLink",
         "link": "https://jobs.ashbyhq.com/sentilink/7fee353e-9353-4cf8-8d81-bab6a1feb307?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Lido.fi/74b1a7bb-c906-4876-85a1-a191bc7be70a?utm_source=jobs.a16z.com",
@@ -742,6 +846,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Lido",
         "link": "https://jobs.ashbyhq.com/Lido.fi/74b1a7bb-c906-4876-85a1-a191bc7be70a?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/85f8c4f7-6125-4d44-8c44-2367a46cc5e2?utm_source=jobs.a16z.com",
@@ -749,6 +854,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Worldcoin",
         "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/85f8c4f7-6125-4d44-8c44-2367a46cc5e2?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/78e372c5-6966-4288-a574-5f672b3fb194?utm_source=jobs.a16z.com",
@@ -756,6 +862,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/78e372c5-6966-4288-a574-5f672b3fb194?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/1556c438-7038-43f9-9157-add4fc41b5af?utm_source=jobs.a16z.com",
@@ -763,6 +870,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/1556c438-7038-43f9-9157-add4fc41b5af?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Lido.fi/0f1d028b-d6b3-48ed-8a1c-fa676e1ca6c8?utm_source=jobs.a16z.com",
@@ -770,6 +878,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Lido",
         "link": "https://jobs.ashbyhq.com/Lido.fi/0f1d028b-d6b3-48ed-8a1c-fa676e1ca6c8?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Runway/0230526b-98a5-4786-8f00-ab472f33a191?utm_source=jobs.a16z.com",
@@ -777,6 +886,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Runway",
         "link": "https://jobs.ashbyhq.com/Runway/0230526b-98a5-4786-8f00-ab472f33a191?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/1518c47d-90db-48ee-9933-bc57e5ce97d8?utm_source=jobs.a16z.com",
@@ -784,6 +894,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/1518c47d-90db-48ee-9933-bc57e5ce97d8?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/4210ab0f-d495-4157-9679-944d65db9917?utm_source=jobs.a16z.com",
@@ -791,6 +902,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/4210ab0f-d495-4157-9679-944d65db9917?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/valon/jobs/4590749006",
@@ -798,6 +910,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Valon",
         "link": "https://job-boards.greenhouse.io/valon/jobs/4590749006",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5615358004",
@@ -805,6 +918,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5615358004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://www.crossriver.com/greenhouse?gh_jid=6675178003",
@@ -812,6 +926,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Cross River",
         "link": "https://www.crossriver.com/greenhouse?gh_jid=6675178003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://www.crossriver.com/greenhouse?gh_jid=6675219003",
@@ -819,6 +934,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Cross River",
         "link": "https://www.crossriver.com/greenhouse?gh_jid=6675219003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://current.com/careers/open-positions/?id=7144761&gh_jid=7144761",
@@ -826,6 +942,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Current",
         "link": "https://current.com/careers/open-positions/?id=7144761&gh_jid=7144761",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://loft.teamtailor.com/jobs/6296482-analista-de-experiencia",
@@ -833,6 +950,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Loft",
         "link": "https://loft.teamtailor.com/jobs/6296482-analista-de-experiencia",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/avalabs/jobs/5611660004",
@@ -840,6 +958,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Ava Labs",
         "link": "https://job-boards.greenhouse.io/avalabs/jobs/5611660004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7141990",
@@ -847,6 +966,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7141990",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/wingspan/jobs/6674467003",
@@ -854,6 +974,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Wingspan",
         "link": "https://job-boards.greenhouse.io/wingspan/jobs/6674467003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://www.crossriver.com/greenhouse?gh_jid=6672873003",
@@ -861,6 +982,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Cross River",
         "link": "https://www.crossriver.com/greenhouse?gh_jid=6672873003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7140915",
@@ -868,6 +990,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7140915",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://www.crossriver.com/greenhouse?gh_jid=6673615003",
@@ -875,6 +998,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Cross River",
         "link": "https://www.crossriver.com/greenhouse?gh_jid=6673615003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/mercury/jobs/5612143004",
@@ -882,6 +1006,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Mercury",
         "link": "https://job-boards.greenhouse.io/mercury/jobs/5612143004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://loft.teamtailor.com/jobs/6293488-operador-de-cobranca",
@@ -889,6 +1014,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Loft",
         "link": "https://loft.teamtailor.com/jobs/6293488-operador-de-cobranca",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Bastion/6c4b7542-7e1a-4f67-a812-bf92171a03eb?utm_source=jobs.a16z.com",
@@ -896,6 +1022,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Bastion",
         "link": "https://jobs.ashbyhq.com/Bastion/6c4b7542-7e1a-4f67-a812-bf92171a03eb?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/sentilink/cf968a1b-e077-4111-8c00-9787195c9587?utm_source=jobs.a16z.com",
@@ -903,6 +1030,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "SentiLink",
         "link": "https://jobs.ashbyhq.com/sentilink/cf968a1b-e077-4111-8c00-9787195c9587?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/OpenSea/4d81b74a-8ecd-4e45-bd30-19eb4c326c8c?utm_source=jobs.a16z.com",
@@ -910,6 +1038,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "OpenSea",
         "link": "https://jobs.ashbyhq.com/OpenSea/4d81b74a-8ecd-4e45-bd30-19eb4c326c8c?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7131896",
@@ -917,6 +1046,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7131896",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/8bec0191-f7d1-421e-844f-1a046845f9bd?utm_source=jobs.a16z.com",
@@ -924,6 +1054,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/8bec0191-f7d1-421e-844f-1a046845f9bd?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7125787",
@@ -931,6 +1062,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7125787",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.lever.co/yuno/3db63d5e-4285-4cfa-9c39-69f5d19eaf0f?lever-source%5B%5D=jobs.a16z.com",
@@ -938,6 +1070,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Yuno",
         "link": "https://jobs.lever.co/yuno/3db63d5e-4285-4cfa-9c39-69f5d19eaf0f?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4648121101",
@@ -945,6 +1078,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Gensyn",
         "link": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4648121101",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://wellfound.com/jobs/3351333-ios-developer-remote-friendly",
@@ -952,6 +1086,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Tellus",
         "link": "https://wellfound.com/jobs/3351333-ios-developer-remote-friendly",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://loft.teamtailor.com/jobs/6249498-senior-application-security",
@@ -959,6 +1094,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Loft",
         "link": "https://loft.teamtailor.com/jobs/6249498-senior-application-security",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/aptoslabs/jobs/4592269005",
@@ -966,6 +1102,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Aptos Labs",
         "link": "https://job-boards.greenhouse.io/aptoslabs/jobs/4592269005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/88ac445b-635d-45d1-8ad7-1e4aadb6317a?utm_source=jobs.a16z.com",
@@ -973,6 +1110,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/88ac445b-635d-45d1-8ad7-1e4aadb6317a?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/sentilink/21f8b592-3242-4ec9-8549-63bccafd0744?utm_source=jobs.a16z.com",
@@ -980,6 +1118,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "SentiLink",
         "link": "https://jobs.ashbyhq.com/sentilink/21f8b592-3242-4ec9-8549-63bccafd0744?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/f33685be-a046-43b1-90db-fb95653495a4?utm_source=jobs.a16z.com",
@@ -987,6 +1126,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/f33685be-a046-43b1-90db-fb95653495a4?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://loft.teamtailor.com/jobs/6249518-analista-de-fp-a-senior",
@@ -994,6 +1134,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Loft",
         "link": "https://loft.teamtailor.com/jobs/6249518-analista-de-fp-a-senior",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/32ff3681-d94e-4b03-90e4-8fc43343dd8f?utm_source=jobs.a16z.com",
@@ -1001,6 +1142,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/32ff3681-d94e-4b03-90e4-8fc43343dd8f?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/OpenSea/d7331acd-347c-4c64-8858-6c092bed484b?utm_source=jobs.a16z.com",
@@ -1008,6 +1150,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "OpenSea",
         "link": "https://jobs.ashbyhq.com/OpenSea/d7331acd-347c-4c64-8858-6c092bed484b?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/9eb9e880-d800-4b13-bf8b-c4724be8b763?utm_source=jobs.a16z.com",
@@ -1015,6 +1158,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/9eb9e880-d800-4b13-bf8b-c4724be8b763?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/sardine/cd984805-70c2-4c77-b0ac-17fc53fa0427?utm_source=jobs.a16z.com",
@@ -1022,6 +1166,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Sardine",
         "link": "https://jobs.ashbyhq.com/sardine/cd984805-70c2-4c77-b0ac-17fc53fa0427?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/bb9b04fc-3472-49b9-9245-678ea2f710dc?utm_source=jobs.a16z.com",
@@ -1029,6 +1174,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/bb9b04fc-3472-49b9-9245-678ea2f710dc?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/addi/3b22b9d3-d177-4c93-9f6d-99d7e84b1ec5?utm_source=jobs.a16z.com",
@@ -1036,6 +1182,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "ADDI",
         "link": "https://jobs.ashbyhq.com/addi/3b22b9d3-d177-4c93-9f6d-99d7e84b1ec5?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://loft.teamtailor.com/jobs/6242454-executivo-de-contas-crm",
@@ -1043,6 +1190,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Loft",
         "link": "https://loft.teamtailor.com/jobs/6242454-executivo-de-contas-crm",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/b81ebc9a-9cc7-4c8d-9893-d940ae20df0a?utm_source=jobs.a16z.com",
@@ -1050,6 +1198,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/b81ebc9a-9cc7-4c8d-9893-d940ae20df0a?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/wingspan/jobs/6668877003",
@@ -1057,6 +1206,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Wingspan",
         "link": "https://job-boards.greenhouse.io/wingspan/jobs/6668877003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/wingspan/jobs/6668878003",
@@ -1064,6 +1214,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Wingspan",
         "link": "https://job-boards.greenhouse.io/wingspan/jobs/6668878003",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Deel/ab6a16a7-8bcb-4b20-9dc3-6c1d93816380?utm_source=jobs.a16z.com",
@@ -1071,6 +1222,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/ab6a16a7-8bcb-4b20-9dc3-6c1d93816380?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/081258fe-1322-4e2e-b217-ce8deedd1fc5?utm_source=jobs.a16z.com",
@@ -1078,6 +1230,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Worldcoin",
         "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/081258fe-1322-4e2e-b217-ce8deedd1fc5?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://careers.kula.ai/flow-com/10708",
@@ -1085,6 +1238,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Flow Blockchain",
         "link": "https://careers.kula.ai/flow-com/10708",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://loft.teamtailor.com/jobs/6249530-lead-analytics-engineer",
@@ -1092,6 +1246,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Loft",
         "link": "https://loft.teamtailor.com/jobs/6249530-lead-analytics-engineer",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://jobs.lever.co/tryjeeves/220ad848-413c-4d2c-ab1a-776bcfcc8028?lever-source%5B%5D=jobs.a16z.com",
@@ -1099,6 +1254,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Jeeves",
         "link": "https://jobs.lever.co/tryjeeves/220ad848-413c-4d2c-ab1a-776bcfcc8028?lever-source%5B%5D=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://people-job-posts.vercel.app/jobs/4514382005",
@@ -1106,6 +1262,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "NG.CASH",
         "link": "https://people-job-posts.vercel.app/jobs/4514382005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://people-job-posts.vercel.app/jobs/4204502005",
@@ -1113,6 +1270,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "NG.CASH",
         "link": "https://people-job-posts.vercel.app/jobs/4204502005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://people-job-posts.vercel.app/jobs/10",
@@ -1120,6 +1278,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "NG.CASH",
         "link": "https://people-job-posts.vercel.app/jobs/10",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://people-job-posts.vercel.app/jobs/4360162005",
@@ -1127,6 +1286,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "NG.CASH",
         "link": "https://people-job-posts.vercel.app/jobs/4360162005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://people-job-posts.vercel.app/jobs/4292324005",
@@ -1134,6 +1294,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "NG.CASH",
         "link": "https://people-job-posts.vercel.app/jobs/4292324005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5596786004",
@@ -1141,6 +1302,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "LayerZero Labs",
         "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5596786004",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://job-boards.greenhouse.io/earnin/jobs/7093414",
@@ -1148,6 +1310,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "Earnin",
         "link": "https://job-boards.greenhouse.io/earnin/jobs/7093414",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://people-job-posts.vercel.app/jobs/4204472005",
@@ -1155,6 +1318,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "NG.CASH",
         "link": "https://people-job-posts.vercel.app/jobs/4204472005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     },
     {
         "id": "https://people-job-posts.vercel.app/jobs/4383485005",
@@ -1162,6 +1326,7 @@ const MANUAL_JOBS: Job[] = [
         "company": "NG.CASH",
         "link": "https://people-job-posts.vercel.app/jobs/4383485005",
         "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
     }
 ];
 
@@ -1199,9 +1364,7 @@ function cleanTitle(text: string | undefined): string | undefined {
 async function readJobsCache(): Promise<Job[]> {
   try {
     const data = await fs.readFile(jobsCachePath, 'utf-8');
-    const jobs = JSON.parse(data);
-    // Filter out the source field to avoid exposing it in the frontend
-    return jobs.map(({ source, ...job }: any) => job);
+    return JSON.parse(data);
   } catch (error) {
     // If the file doesn't exist or is invalid, return an empty array
     return [];
