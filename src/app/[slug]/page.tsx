@@ -152,9 +152,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
                       <ArticleContent content={article.content} />
                     </div>
-                    <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
-                      <ArticleContent content={article.content} />
-                    </div>
 
                     <RelatedArticles 
                       allArticles={allArticles}
