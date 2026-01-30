@@ -11,7 +11,7 @@ category: "Industry Insights"
 
 
 
-In the Web3 industry, your team is your single most important asset. The quality of your developers, the passion of your community managers, and the vision of your product leaders will determine whether your project thrives or fades into obscurity. However, attracting and retaining A+ talent in this space is one of the most difficult challenges a founder faces. The market is hyper-competitive, the best candidates have dozens of options, and the traditional Web2 recruiting playbook is largely ineffective.
+In the [Web3](/what-is-web3) industry, your team is your single most important asset. The quality of your developers, the passion of your community managers, and the vision of your product leaders will determine whether your project thrives or fades into obscurity. However, attracting and retaining A+ talent in this space is one of the most difficult challenges a founder faces. The market is hyper-competitive, the best candidates have dozens of options, and the traditional Web2 recruiting playbook is largely ineffective.
 
 To build a world-class team, you must adopt a crypto-native hiring strategy. This means understanding the unique motivations of Web3 professionals, knowing where to find them, and creating a hiring process that is itself a signal of your project's quality and culture. This guide provides a comprehensive hiring playbook for Web3 founders and team leads.
 
@@ -19,7 +19,7 @@ To build a world-class team, you must adopt a crypto-native hiring strategy. Thi
 
 In Web3, recruiting is not a discrete activity that you turn on when you have an open role. It is a continuous, 24/7 process of building relationships and a public reputation. The best candidates are often not actively looking for a job; they are sourced through your network and drawn to your project because of its mission and culture.
 
-**Key Principle:** Your project's public presence-your GitHub, your Discord, your team's Twitter accounts-is your most powerful recruiting tool.
+**Key Principle:** Your project's public presence-your [GitHub](/building-web3-portfolio), your Discord, your team's Twitter accounts-is your most powerful recruiting tool.
 
 ### Phase 1: Sourcing - Go Where the Talent Is
 
@@ -30,8 +30,8 @@ Elite Web3 talent does not hang out on LinkedIn. You must immerse your team in t
 -   **Practical Insight:** Follow and build relationships with the top builders in your specific niche. The most insightful people in a technical debate on Twitter are often the 10x engineers you want to hire.
 
 **2. GitHub:**
--   **Strategy:** GitHub is the ultimate "proof of work" resume. Actively source candidates by looking at who is making high-quality contributions to reputable open-source Web3 projects.
--   **Practical Insight:** A developer with a history of merged PRs to a major protocol like Ethereum, Foundry, or a leading DeFi project is an A+ candidate, regardless of what's on their resume.
+-   **Strategy:** GitHub is the ultimate "proof of work" [resume](/how-to-build-a-web3-resume-that-stands-out). Actively source candidates by looking at who is making high-quality contributions to reputable open-source Web3 projects.
+-   **Practical Insight:** A developer with a history of merged PRs to a major protocol like [Ethereum](/what-is-ethereum), Foundry, or a leading [DeFi](/what-is-defi) project is an A+ candidate, regardless of what's on their resume.
 
 **3. Hackathons:**
 -   **Strategy:** Sponsor and participate in major hackathons like those run by ETHGlobal. This is the single best place to meet and evaluate emerging talent in a real-world, high-pressure environment.
@@ -47,7 +47,7 @@ In Web3, a candidate's public contributions are more important than their creden
 
 -   **For Developers:** Meticulously review their GitHub. Look for well-documented personal projects, comprehensive test suites, and open-source contributions. A messy, inactive GitHub is a red flag.
 -   **For Non-Technical Roles:** Look at their public content. Have they written insightful Twitter threads or blog posts? Have they created a valuable Dune dashboard? Have they been an active and constructive participant in a **[DAO](/what-is-a-dao)**?
--   **The "Rabbit Hole" Test:** In the first interview, ask them their "rabbit hole story." What got them into Web3? A candidate who can't speak with genuine, specific passion about the technology is likely just a "mercenary" chasing a high salary.
+-   **The "Rabbit Hole" Test:** In the first [interview](/how-to-prepare-for-job-interview), ask them their "rabbit hole story." What got them into Web3? A candidate who can't speak with genuine, specific passion about the technology is likely just a "mercenary" chasing a high salary.
 
 ### Phase 3: The Interview Process - Sell the Mission
 
@@ -60,9 +60,9 @@ Top candidates have their pick of jobs. The interview process is a two-way stree
 
 ### Phase 4: Closing - The Art of the Web3 Offer
 
-A Web3 job offer is unique and requires careful explanation.
+A [Web3 job](/web3-jobs-for-beginners) offer is unique and requires careful explanation.
 
--   **Be Transparent:** Clearly break down the entire compensation package: base salary (in fiat or stablecoins), token grant, and any equity.
+-   **Be Transparent:** Clearly break down the entire compensation package: base salary (in fiat or stablecoins), [token](/what-is-a-token) grant, and any equity.
 -   **Explain the Tokenomics:** Be prepared to walk the candidate through your project's **[tokenomics](/understanding-tokenomics)**. What is the vesting schedule? What is the total supply? What are the mechanisms for value accrual? Top candidates will do their own diligence on this, and you need to have clear, confident answers.
 -   **Highlight the Upside:** Help them understand the potential long-term value of their token grant. You are offering them a chance to be a co-owner of a decentralized network, which is a far more powerful proposition than a simple salary.
 
@@ -87,11 +87,11 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- DeFi, [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

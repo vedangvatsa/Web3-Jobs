@@ -11,7 +11,7 @@ category: "Getting Started"
 
 
 
-The world of Web3 and crypto has its own unique and often bewildering language. From inside jokes to technical shorthand, the slang and acronyms used on Crypto Twitter and in Discord can feel like a secret code to newcomers. Understanding this lexicon is not just about fitting in; it's about being able to follow the conversation and understand the culture of the decentralized internet.
+The world of [Web3](/what-is-web3) and crypto has its own unique and often bewildering language. From inside jokes to technical shorthand, the slang and acronyms used on Crypto Twitter and in Discord can feel like a secret code to newcomers. Understanding this lexicon is not just about fitting in; it's about being able to follow the conversation and understand the culture of the decentralized internet.
 
 This guide provides a comprehensive glossary of the most common and important slang terms and acronyms you'll encounter in the Web3 space.
 
@@ -27,7 +27,7 @@ This guide provides a comprehensive glossary of the most common and important sl
 
 -   **HODL:**
     -   **Meaning:** A typo of "hold." It means to hold onto your cryptocurrency for the long term, refusing to sell despite market volatility.
-    -   **Origin:** Originated from a famous, typo-ridden post on a Bitcoin forum in 2013 by a user who was drunkenly ranting about his decision not to sell during a crash. It now represents a long-term, conviction-based investment philosophy.
+    -   **Origin:** Originated from a famous, typo-ridden post on a [Bitcoin](/what-is-bitcoin) forum in 2013 by a user who was drunkenly ranting about his decision not to sell during a crash. It now represents a long-term, conviction-based investment philosophy.
 
 -   **FUD:**
     -   **Meaning:** Fear, Uncertainty, and Doubt.
@@ -43,15 +43,15 @@ This guide provides a comprehensive glossary of the most common and important sl
 
 -   **Apeing In:**
     -   **Meaning:** To invest a large amount of money into a new, often risky project with little research, driven by hype and FOMO.
-    -   **Usage:** "The art for that new NFT project looks sick, I'm going to ape in."
+    -   **Usage:** "The art for that new [NFT](/what-are-nfts) project looks sick, I'm going to ape in."
 
 ### Technical and Financial Slang
 
--   **DeFi:** Decentralized Finance. The ecosystem of financial applications for lending, borrowing, and trading built on blockchains.
+-   **[DeFi](/what-is-defi):** Decentralized Finance. The ecosystem of financial applications for lending, borrowing, and trading built on blockchains.
 
--   **DEX:** Decentralized Exchange. A peer-to-peer marketplace for trading crypto, like Uniswap.
+-   **DEX:** [Decentralized Exchange](/what-is-a-decentralized-exchange-dex). A peer-to-peer marketplace for trading crypto, like Uniswap.
 
--   **DAO:** Decentralized Autonomous Organization. An internet-native organization owned and managed by its members, with rules enforced by smart contracts.
+-   **[DAO](/what-is-a-dao):** Decentralized Autonomous Organization. An internet-native organization owned and managed by its members, with rules enforced by [smart contracts](/what-are-smart-contracts).
 
 -   **Degen:** Short for "degenerate." A term of endearment for a trader who engages in extremely high-risk, often reckless, investment strategies.
 
@@ -59,9 +59,9 @@ This guide provides a comprehensive glossary of the most common and important sl
 
 -   **PFP:** Profile Picture. Refers to a type of NFT collection (like Bored Ape Yacht Club) where the primary utility is for the owner to use the art as their online avatar.
 
--   **Gas:** The fee required to perform a transaction on a blockchain like Ethereum.
+-   **Gas:** The fee required to perform a transaction on a [blockchain](/what-is-a-blockchain) like [Ethereum](/what-is-ethereum).
 
--   **Shilling:** To enthusiastically and often disingenuously promote a project you have a financial stake in.
+-   **Shilling:** To enthusiastically and often disingenuously promote a project you have a financial [stake](/how-to-become-a-web3-staking-specialist) in.
 
 -   **Rug Pull:** A malicious scam where the developers of a project abandon it and run away with investors' funds.
 
@@ -78,7 +78,7 @@ This glossary is just the beginning. The language of crypto is constantly evolvi
     </div>
     <div>
       <h3 className="text-xl font-bold text-primary mb-1">Ready to Join the Conversation?</h3>
-      <p className="text-muted-foreground">Now that you know the lingo, find your place in the decentralized world. Explore jobs in crypto on the #1 Web3 job board.</p>
+      <p className="text-muted-foreground">Now that you know the lingo, find your place in the decentralized world. Explore jobs in crypto on the #1 [Web3 job](/web3-jobs-for-beginners) board.</p>
     </div>
     <a href="/jobs" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
       <Button size="lg">
@@ -102,7 +102,7 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 

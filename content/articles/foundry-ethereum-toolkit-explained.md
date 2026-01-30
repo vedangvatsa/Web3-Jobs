@@ -11,7 +11,7 @@ category: "Getting Started"
 
 
 
-For years, the standard toolkit for Ethereum development was dominated by JavaScript-based frameworks like Hardhat and Truffle. These tools have been instrumental in the growth of the ecosystem, but they come with a key drawback: you write your smart contracts in Solidity, but your tests and scripts in JavaScript. This context-switching can be inefficient and sometimes introduces subtle bugs.
+For years, the standard toolkit for [Ethereum](/what-is-ethereum) development was dominated by JavaScript-based frameworks like Hardhat and Truffle. These tools have been instrumental in the growth of the ecosystem, but they come with a key drawback: you write your [smart contracts](/what-are-smart-contracts) in [Solidity](/best-programming-languages-for-blockchain-development), but your tests and scripts in JavaScript. This context-switching can be inefficient and sometimes introduces subtle bugs.
 
 Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a blazing fast, portable, and modular toolkit for Ethereum application development, and its killer feature is that it allows you to do everything-including writing your tests-**directly in Solidity**.
 
@@ -22,7 +22,7 @@ This guide will provide an introduction to Foundry and walk through why so many 
 Foundry is not a single tool, but a collection of command-line tools that work together. The main components are:
 
 *   **Forge:** The core of Foundry. It's a testing framework that allows you to write your tests in Solidity. It also includes tools for compiling, deploying, and verifying contracts.
-*   **Cast:** A powerful command-line utility for interacting with smart contracts. You can use it to send transactions, call functions, and read data from the blockchain, all from your terminal.
+*   **Cast:** A powerful command-line utility for interacting with smart contracts. You can use it to send transactions, call functions, and read data from the [blockchain](/what-is-a-blockchain), all from your terminal.
 *   **Anvil:** A local testnet node, similar to Hardhat Network. It's an incredibly fast local blockchain that you can use for testing and development.
 *   **Chisel:** An interactive Solidity shell (REPL) that allows you to quickly test out snippets of Solidity code without writing a full contract.
 
@@ -98,7 +98,7 @@ While Hardhat remains a powerful and popular choice, Foundry represents a signif
 
 ## Why These Skills Matter
 
-These competencies are foundational for success in modern careers. Whether you're in Web3, traditional tech, or any knowledge-intensive field, these skills determine your trajectory. Studies consistently show that these abilities have a 10-15 year ROI of 300-500%.
+These competencies are foundational for success in modern careers. Whether you're in [Web3](/what-is-web3), traditional tech, or any knowledge-intensive field, these skills determine your trajectory. Studies consistently show that these abilities have a 10-15 year ROI of 300-500%.
 
 ## Comprehensive Skill Breakdown
 
@@ -135,7 +135,7 @@ Understanding and managing your emotions, and reading others, determines your ef
 
 ### Months 4-6: Specialization
 - Go deeper in your strongest areas
-- Build portfolio pieces that showcase skills
+- Build [portfolio](/building-web3-portfolio) pieces that showcase skills
 - Share knowledge with others (teaching cements learning)
 - Refine based on your specific career goals
 
@@ -219,12 +219,3 @@ A: Absolutely. In fact, they're even more critical in Web3 due to distributed te
 - Emotional intelligence is your hidden advantage
 
 The most successful professionals in Web3 and beyond aren't always the most technically brilliant-they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.
-
-## Related Articles
-
-- Career advancement strategies
-- Professional development framework
-- Leadership development
-- Web3-specific career paths
-- How to get mentorship
-

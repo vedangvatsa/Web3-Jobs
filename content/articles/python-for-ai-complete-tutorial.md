@@ -190,7 +190,7 @@ This tutorial covers the absolute essentials to get you started. The world of AI
 
 1.  **Practice** The only way to get good at this is to practice. Find simple datasets online (Kaggle is a great place to start) and try to replicate this workflow. Load the data with Pandas, analyze it, and build a simple model with Scikit-learn.
 2.  **Go Deeper with Deep Learning** Once you are comfortable with Scikit-learn, you'll be ready to tackle deep learning. This is where you'll learn libraries like **PyTorch** or **TensorFlow** to build neural networks for more complex tasks like image recognition and natural language processing.
-3.  **Build Projects** The most important step. A portfolio of projects is the best proof of your skills. Try building an image classifier, a spam detector, or a movie recommendation engine.
+3.  **Build Projects** The most important step. A [portfolio](/building-web3-portfolio) of projects is the best proof of your skills. Try building an image classifier, a spam detector, or a movie recommendation engine.
 
 The journey into AI programming is a marathon, not a sprint. By mastering these fundamental Python libraries, you'll have built a solid foundation upon which you can build a successful and exciting career.
 

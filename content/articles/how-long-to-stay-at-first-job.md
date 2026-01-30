@@ -29,7 +29,7 @@ Despite the traditional wisdom, there are many valid reasons to leave your first
 
 This is the most important reason to leave a job, no matter how long you’ve been there. A toxic environment can take a serious toll on your mental and physical health. Signs of a toxic workplace include a culture of blame, constant negativity, lack of respect, unethical behavior, or a boss who micromanages, gaslights, or is simply abusive.
 
-If you find yourself dreading work every day, feeling constantly stressed or anxious, or your well-being is suffering, it’s time to start looking for an exit. No job is worth sacrificing your health. In an interview for your next role, you can professionally explain that you were seeking a more positive and collaborative culture.
+If you find yourself dreading work every day, feeling constantly stressed or anxious, or your well-being is suffering, it’s time to start looking for an exit. No job is worth sacrificing your health. In an [interview](/how-to-prepare-for-job-interview) for your next role, you can professionally explain that you were seeking a more positive and collaborative culture.
 
 **2. The Role Isn't What Was Promised**
 
@@ -53,7 +53,7 @@ You don't have to ignore a great opportunity just to hit an arbitrary tenure mil
 
 While there are good reasons to leave early, there are also risks to consider. Leaving a job after just a few months without a compelling reason can raise red flags for future employers.
 
-*   **It Can Look Like You're Unreliable:** Hiring managers might see a short stint on your resume and wonder if you're a "job hopper" who will leave their company just as quickly.
+*   **It Can Look Like You're Unreliable:** Hiring managers might see a short stint on your [resume](/how-to-build-a-web3-resume-that-stands-out) and wonder if you're a "job hopper" who will leave their company just as quickly.
 *   **You Miss Out on Deeper Learning:** The first few months of any job are just about learning the ropes. The real, deep learning happens when you start to own projects and navigate more complex challenges, which usually comes after the six-month mark.
 *   **You Haven't Built a Strong Network:** Leaving too soon means you haven’t had time to build strong relationships with colleagues and mentors who can support you throughout your career.
 

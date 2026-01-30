@@ -11,13 +11,13 @@ category: "Career Guides"
 
 
 
-The Web3 industry is exploding, but for newcomers, breaking in can feel like trying to crack a secret code. Job descriptions often list requirements like "deep understanding of DeFi primitives" or "experience in a DAO," leaving many talented professionals wondering how they can possibly get started. The good news? You don't need to have been an early Bitcoin investor or a Solidity prodigy to build a successful career in Web3.
+The [Web3](/what-is-web3) industry is exploding, but for newcomers, breaking in can feel like trying to crack a secret code. Job descriptions often list requirements like "deep understanding of [DeFi](/what-is-defi) primitives" or "experience in a [DAO](/what-is-a-dao)," leaving many talented professionals wondering how they can possibly get started. The good news? You don't need to have been an early [Bitcoin](/what-is-bitcoin) investor or a [Solidity](/best-programming-languages-for-blockchain-development) prodigy to build a successful career in Web3.
 
-The industry values passion, initiative, and demonstrable skill-what's known as "proof of work"-far more than a traditional resume. This guide is for those on the outside looking in: the skilled marketers, project managers, writers, and developers from Web2 who are curious about making the leap. We'll provide a practical, step-by-step roadmap for how to get a Web3 job with no direct "crypto" experience.
+The industry values passion, initiative, and demonstrable skill-what's known as "proof of work"-far more than a traditional [resume](/how-to-build-a-web3-resume-that-stands-out). This guide is for those on the outside looking in: the skilled marketers, project managers, writers, and developers from Web2 who are curious about making the leap. We'll provide a practical, step-by-step roadmap for how to get a [Web3 job](/web3-jobs-for-beginners) with no direct "crypto" experience.
 
 ### Step 1: Mindset Shift - From Resume to Reputation
 
-The first and most important step is to change your mindset. In Web2, your resume and your past job titles are your key assets. In Web3, your public reputation and your portfolio of contributions are everything. The goal is to make yourself a "known quantity" in the space before you even apply for a job. Stop thinking "How can I apply?" and start thinking "How can I contribute?".
+The first and most important step is to change your mindset. In Web2, your resume and your past job titles are your key assets. In Web3, your public reputation and your [portfolio](/building-web3-portfolio) of contributions are everything. The goal is to make yourself a "known quantity" in the space before you even apply for a job. Stop thinking "How can I apply?" and start thinking "How can I contribute?".
 
 ### Step 2: Immerse Yourself (The Rabbit Hole)
 
@@ -25,7 +25,7 @@ You cannot contribute to a culture you don't understand. The first 30-60 days of
 
 -   **Curate Your Twitter Feed:** This is non-negotiable. Twitter is the central nervous system of Web3. Create a new account dedicated to crypto and follow the key thinkers, founders, and projects in the areas that interest you.
 -   **Listen to Podcasts:** Podcasts like Bankless, The Defiant, and Unchained are a firehose of information. Listen to them on your commute, at the gym, everywhere.
--   **Become a User:** You must use the products. Get a MetaMask wallet, buy a small amount of ETH on an exchange, and transfer it to your wallet. Use a DeFi protocol like Aave or Uniswap. Buy a cheap NFT on OpenSea. This hands-on experience is your most important credential.
+-   **Become a User:** You must use the products. Get a MetaMask [wallet](/how-to-choose-a-crypto-wallet), buy a small amount of [ETH](/what-is-ethereum) on an exchange, and transfer it to your wallet. Use a DeFi protocol like Aave or Uniswap. Buy a cheap [NFT](/what-are-nfts) on OpenSea. This hands-on experience is your most important credential.
 
 ### Step 3: Choose Your Path and Build Your "Proof of Work"
 
@@ -39,7 +39,7 @@ After immersing yourself, it's time to start building your public portfolio. Thi
 
 #### For Aspiring Developers:
 
--   **Start Building, Immediately:** Don't wait until you feel like an expert. Go through a tutorial like CryptoZombies or Speed Run Ethereum and build a simple smart contract.
+-   **Start Building, Immediately:** Don't wait until you feel like an expert. Go through a tutorial like CryptoZombies or Speed Run Ethereum and build a simple [smart contract](/what-are-smart-contracts).
 -   **Fork and Tinker:** Find an open-source protocol on GitHub that you admire. Fork the code and try to get it running locally. Try adding a small feature or a new test case.
 -   **Document Your Journey:** Start a blog where you document what you're building and the challenges you're facing. This shows initiative and helps other learners.
 

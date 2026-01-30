@@ -10,19 +10,19 @@ category: "Getting Started"
 
 
 
-Building a decentralized application (dApp) involves two main components: writing smart contracts (the on-chain backend) and building a user interface (the off-chain frontend). A major challenge for dApp developers is getting data from the blockchain to display on the frontend. Reading data directly from a smart contract can be slow, inefficient, and limited.
+Building a decentralized application (dApp) involves two main components: writing smart contracts (the on-chain backend) and building a user interface (the off-chain frontend). A major challenge for dApp developers is getting data from the [blockchain](/what-is-a-blockchain) to display on the frontend. Reading data directly from a [smart contract](/what-are-smart-contracts) can be slow, inefficient, and limited.
 
 This is the problem that **The Graph** solves. The Graph is a decentralized protocol for indexing and querying data from blockchains. It allows you to define which data you care about from a smart contract, how to process it, and then serves that data to your frontend via a fast and efficient **GraphQL API**.
 
-Learning to build a "subgraph" is an essential skill for any full-stack Web3 developer. This guide will walk you through the process.
+Learning to build a "subgraph" is an essential skill for any full-stack [Web3](/what-is-web3) developer. This guide will walk you through the process.
 
 ### Why Do We Need Subgraphs?
 
-Imagine you want to display a list of all the NFTs a user owns from your collection. To do this by reading directly from the blockchain, you would have to:
+Imagine you want to display a list of all the [NFTs](/what-are-nfts) a user owns from your collection. To do this by reading directly from the blockchain, you would have to:
 1.  Look through every `Transfer` event ever emitted by your NFT contract.
 2.  Filter them to find the ones where the user was the recipient.
 3.  Keep track of which ones they later sent away.
-4.  Finally, compile a list of the tokens they currently own.
+4.  Finally, compile a list of the [tokens](/what-is-a-token) they currently own.
 
 This is incredibly slow and complex to do on the client-side. A subgraph does all this work on a server and then provides you with a simple API to ask, "Hey, give me all the NFTs owned by this address."
 
@@ -124,7 +124,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -141,12 +141,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), NFTs, and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -182,7 +182,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

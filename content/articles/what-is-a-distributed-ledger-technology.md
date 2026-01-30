@@ -30,7 +30,7 @@ Distributed ledger technology solves this by eliminating the need for the middle
 
 - **Transparency:** In public DLTs, anyone can view the entire history of transactions. This provides unprecedented auditability. You can verify that funds were transferred, assets were created, or contracts were executed without asking permission from anyone. This transparency is especially powerful for tracking supply chains, proving ownership, or auditing government spending.
 
-- **Security Through Distribution:** The combination of decentralization, cryptography, and consensus mechanisms creates extraordinary security. To alter a past transaction, an attacker would need to control 51%+ of the network's computing power simultaneously and recalculate all subsequent blocks faster than the honest network. On large networks like Bitcoin, this is economically infeasible-it would cost billions of dollars and likely fail anyway.
+- **Security Through Distribution:** The combination of decentralization, cryptography, and consensus mechanisms creates extraordinary security. To alter a past transaction, an attacker would need to control 51%+ of the network's computing power simultaneously and recalculate all subsequent blocks faster than the honest network. On large networks like [Bitcoin](/what-is-bitcoin), this is economically infeasible-it would cost billions of dollars and likely fail anyway.
 
 - **No Need for Trust:** Traditional finance requires you to trust a bank, government, or corporation to handle your money fairly. DLT replaces this trust in institutions with trust in mathematics. The rules are enforced by code, not by promises or regulations.
 
@@ -38,11 +38,11 @@ Distributed ledger technology solves this by eliminating the need for the middle
 
 The critical innovation of DLT is the consensus mechanism-the rules that allow thousands of strangers to agree on the true state of the ledger without a central authority. Different consensus mechanisms have different tradeoffs:
 
-**Proof of Work (PoW):** Participants (miners) compete to solve computational puzzles. The first to solve it gets to add the next block and receive rewards. This requires significant energy expenditure, which is the security cost-an attacker would need to spend comparable energy to attack the network. Bitcoin and Ethereum (before 2022) use PoW.
+**Proof of Work (PoW):** Participants (miners) compete to solve computational puzzles. The first to solve it gets to add the next block and receive rewards. This requires significant energy expenditure, which is the security cost-an attacker would need to spend comparable energy to attack the network. Bitcoin and [Ethereum](/what-is-ethereum) (before 2022) use PoW.
 
-**Proof of Stake (PoS):** Participants (validators) put up collateral (stake) and get randomly selected to propose blocks. If they act dishonestly, they lose their stake. This is more energy-efficient than PoW but requires new economic security models. Ethereum currently uses PoS, as do Cardano and Polkadot.
+**Proof of [Stake](/how-to-become-a-web3-staking-specialist) (PoS):** Participants (validators) put up collateral (stake) and get randomly selected to propose blocks. If they act dishonestly, they lose their stake. This is more energy-efficient than PoW but requires new economic security models. Ethereum currently uses PoS, as do Cardano and Polkadot.
 
-**Delegated Proof of Stake (DPoS):** Token holders vote for a smaller set of delegates who validate transactions. This is faster and more efficient but introduces centralization risk-voters might not pay attention or may vote for popular personalities over capable validators.
+**Delegated Proof of Stake (DPoS):** [Token](/what-is-a-token) holders vote for a smaller set of delegates who validate transactions. This is faster and more efficient but introduces centralization risk-voters might not pay attention or may vote for popular personalities over capable validators.
 
 **Byzantine Fault Tolerance:** Rather than relying on energy expenditure or stake, validators use complex voting algorithms to reach consensus even if some nodes are dishonest. This is faster but requires sophisticated cryptography and is used in systems like Hyperledger Fabric.
 
@@ -50,7 +50,7 @@ Each mechanism represents a different approach to the core problem: **How do you
 
 ### DLT vs. Blockchain vs. Other Structures
 
-A blockchain is a specific type of DLT that bundles transactions into "blocks" and links them together in a chronological "chain." Each block contains the hash of the previous one, creating a strong, immutable chain.
+A [blockchain](/what-is-a-blockchain) is a specific type of DLT that bundles transactions into "blocks" and links them together in a chronological "chain." Each block contains the hash of the previous one, creating a strong, immutable chain.
 
 But not all DLTs use blockchain structure:
 - **Directed Acyclic Graph (DAG):** Some DLTs like IOTA and Hedera Hashgraph use DAG structures instead of chains. Transactions form a graph rather than linear sequence, allowing more parallel processing and potentially higher throughput.
@@ -66,7 +66,7 @@ Each structure has different properties. Blockchains are very secure and simple 
 
 **Hybrid:** Combination of public and private elements. Some transactions are public, others private. Some nodes are permissioned, others open.
 
-For Web3 and cryptocurrency, public permissionless DLTs are the standard-the point is to create systems that don't require permission from central authorities.
+For [Web3](/what-is-web3) and cryptocurrency, public permissionless DLTs are the standard-the point is to create systems that don't require permission from central authorities.
 
 ## Real-World Applications Beyond Cryptocurrency
 
@@ -74,7 +74,7 @@ While DLTs are famous for cryptocurrency, they have applications far beyond digi
 
 **Supply Chain Tracking:** Companies like Walmart use blockchain to track food from farm to supermarket. If there's a food safety incident, they can instantly trace the source instead of taking weeks. Transparency prevents fraud and speeds responses.
 
-**Smart Contracts:** Beyond tracking transactions, DLTs enable smart contracts-self-executing code that runs exactly as written. Insurance contracts, supply agreements, and financial derivatives can execute automatically when conditions are met, eliminating intermediaries.
+**[Smart Contracts](/what-are-smart-contracts):** Beyond tracking transactions, DLTs enable smart contracts-self-executing code that runs exactly as written. Insurance contracts, supply agreements, and financial derivatives can execute automatically when conditions are met, eliminating intermediaries.
 
 **Identity and Credentials:** DLTs can create tamper-proof identity records and educational credentials. A diploma issued on a blockchain is verifiable forever without needing the university to confirm it.
 
@@ -84,7 +84,7 @@ While DLTs are famous for cryptocurrency, they have applications far beyond digi
 
 ## Why is DLT Important for Web3?
 
-Distributed ledger technology is the foundational infrastructure of Web3. It provides the "trustless" layer that allows creation of decentralized applications (dApps), from DeFi protocols to DAOs. By replacing trust in central intermediaries with trust in mathematics and code, DLT enables:
+Distributed ledger technology is the foundational infrastructure of Web3. It provides the "trustless" layer that allows creation of decentralized applications (dApps), from [DeFi](/what-is-defi) protocols to [DAOs](/what-is-a-dao). By replacing trust in central intermediaries with trust in mathematics and code, DLT enables:
 
 - **Financial Inclusion:** Anyone with internet can participate in global financial systems without a bank account or permission from authorities.
 - **User Ownership:** Instead of platforms owning user data and assets, users control them directly through their cryptographic keys.
@@ -94,7 +94,7 @@ Distributed ledger technology is the foundational infrastructure of Web3. It pro
 
 ## Common Misconceptions About DLTs
 
-**"DLTs are anonymous":** They're pseudonymous. Transactions are linked to wallet addresses, not names, but sophisticated analysis can often deanonymize users. This is why law enforcement now tracks crypto transactions extensively.
+**"DLTs are anonymous":** They're pseudonymous. Transactions are linked to [wallet](/how-to-choose-a-crypto-wallet) addresses, not names, but sophisticated analysis can often deanonymize users. This is why law enforcement now tracks crypto transactions extensively.
 
 **"DLTs are completely immutable":** They're practically immutable-very difficult to alter. But they're not theoretically immutable. If attackers control 51% of a network, they can rewrite history. Most DLT advocates would say the cost is so high it's effectively immutable.
 

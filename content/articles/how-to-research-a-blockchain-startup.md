@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-The Web3 job market is filled with exciting opportunities, but it's also a landscape of high risk and volatility. A project that seems like the next big thing can disappear in a matter of months. Before you accept a job offer at a blockchain startup and tie your career and financial future to its success, it is absolutely critical that you do your own deep research.
+The [Web3](/what-is-web3) job market is filled with exciting opportunities, but it's also a landscape of high risk and volatility. A project that seems like the next big thing can disappear in a matter of months. Before you accept a job offer at a [blockchain](/what-is-a-blockchain) startup and tie your career and financial future to its success, it is absolutely critical that you do your own deep research.
 
 This isn't just about looking at their website and reading a few news articles. It's about performing a rigorous due diligence process, similar to what a venture capitalist would do before investing. You need to become an expert on the project, its strengths, and, most importantly, its weaknesses. This guide provides a comprehensive framework for how to research a blockchain startup before you join.
 
@@ -20,7 +20,7 @@ This isn't just about looking at their website and reading a few news articles. 
 In any early-stage venture, the quality of the team is the single most important predictor of success.
 -   **Who are the founders?** Do they have a track record of building successful companies or protocols? Are they well-respected in the industry? A team of "serial founders" is a strong positive signal.
 -   **Are they doxxed or anonymous?** While many successful projects have anonymous founders, a public, doxxed team provides a much higher level of accountability. If they are anonymous, what is their reputation based on their on-chain history and public contributions?
--   **Technical Depth:** Does the engineering team have a history of shipping high-quality, secure code? Look at their GitHub profiles. Have they contributed to other reputable open-source projects?
+-   **Technical Depth:** Does the engineering team have a history of shipping high-quality, secure code? Look at their [GitHub](/building-web3-portfolio) profiles. Have they contributed to other reputable open-source projects?
 -   **Glassdoor and References:** Look for reviews from current and former employees. If possible, try to find someone in your network who has worked with the team and can provide a candid reference.
 
 ### 2. The Problem and the Product
@@ -32,7 +32,7 @@ In any early-stage venture, the quality of the team is the single most important
 ### 3. The Tokenomics: Follow the Incentives
 
 The project's economic model is critical to its long-term sustainability.
--   **Token Utility:** What is the token actually used for? Does it have a clear purpose (e.g., governance, staking, paying fees) that creates organic demand? A token with no real utility is a major red flag.
+-   **[Token](/what-is-a-token) Utility:** What is the token actually used for? Does it have a clear purpose (e.g., governance, [staking](/how-to-become-a-web3-staking-specialist), paying fees) that creates organic demand? A token with no real utility is a major red flag.
 -   **Token Distribution:** Who owns the tokens? Look for a detailed breakdown of the token allocation.
     -   **Red Flag:** A large percentage of the supply is allocated to the team and private investors with short vesting schedules. This creates a risk of them "dumping" on the community.
     -   **Green Flag:** A significant majority of the tokens are allocated to the community treasury and will be distributed over many years.
@@ -58,7 +58,7 @@ Choosing to join a Web3 startup is a big decision. By taking the time to conduct
     </div>
     <div>
       <h3 className="text-xl font-bold text-primary mb-1">Ready for Your Next Role?</h3>
-      <p className="text-muted-foreground">Find opportunities with high-quality, transparent, and well-funded projects on the #1 Web3 job board.</p>
+      <p className="text-muted-foreground">Find opportunities with high-quality, transparent, and well-funded projects on the #1 [Web3 job](/web3-jobs-for-beginners) board.</p>
     </div>
     <a href="/jobs" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
       <Button size="lg">
@@ -90,13 +90,13 @@ The Web3 job market has fundamentally different dynamics than Web2:
 Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

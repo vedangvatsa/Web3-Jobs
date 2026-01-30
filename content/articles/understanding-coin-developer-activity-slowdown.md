@@ -17,7 +17,7 @@ Some slowdown patterns are not only harmless, they’re healthy.
 
 ### 1. **Base Protocol Stability (Bitcoin & Other Mature L1s)**
 
-Bitcoin is the clearest example.
+[Bitcoin](/what-is-bitcoin) is the clearest example.
 
 - The Bitcoin Core codebase is extraordinarily stable  
 - Rapid commits would be viewed as risky  
@@ -42,13 +42,13 @@ Many ecosystems evolve like this:
 **Phase 2:** Harden and stabilize  
 **Phase 3:** Move innovation to the application layer
 
-Ethereum exemplifies this:
+[Ethereum](/what-is-ethereum) exemplifies this:
 
 - Core client commits may slow  
 - But development of L2 rollups, infra, tools, and dApps grows exponentially  
 - ZK proving systems, new rollups, and DA layers absorb most new dev work  
 
-Judging Ethereum solely by Core GitHub repositories would lead to misleading conclusions.
+Judging Ethereum solely by Core [GitHub](/building-web3-portfolio) repositories would lead to misleading conclusions.
 
 ### 3. **From Quantity of Commits → Quality of Commits**
 
@@ -72,7 +72,7 @@ This naturally produces the illusion of slowdown even though *effort per commit 
 
 ### 4. **The “Dark Matter” of Private or Hybrid Development**
 
-As Web3 becomes more professional, teams move sensitive or proprietary work to:
+As [Web3](/what-is-web3) becomes more professional, teams move sensitive or proprietary work to:
 
 - private GitHub repos  
 - enterprise forks  
@@ -184,7 +184,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -192,21 +192,21 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

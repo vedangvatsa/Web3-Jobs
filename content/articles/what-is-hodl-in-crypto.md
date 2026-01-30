@@ -19,7 +19,7 @@ The story of HODL is interesting because it reveals something fundamental about 
 
 HODL began with a typo. A famous one.
 
-In December 2013, Bitcoin was experiencing wild price swings. The price was volatile, fluctuating significantly daily. Many Bitcoin holders were panicking, selling at losses. Others were trying to time the market, buying and selling rapidly.
+In December 2013, [Bitcoin](/what-is-bitcoin) was experiencing wild price swings. The price was volatile, fluctuating significantly daily. Many Bitcoin holders were panicking, selling at losses. Others were trying to time the market, buying and selling rapidly.
 
 On December 18, 2013, a Bitcoin forum user named "GameKyuubi" posted a message titled "I AM HODLING" on the Bitcointalk forum. In the post, they explained that they were holding their Bitcoin despite the price swings. They admitted they were panicking. But they made a decision: hold their Bitcoin regardless of short-term price movements.
 
@@ -85,7 +85,7 @@ HODLing sounds simple, but it's psychologically difficult.
 
 ## HODL and Success
 
-Empirically, HODLing Bitcoin and Ethereum has been successful over long periods.
+Empirically, HODLing Bitcoin and [Ethereum](/what-is-ethereum) has been successful over long periods.
 
 **Bitcoin HODLers**: Anyone who purchased Bitcoin in 2010 and held through all volatility would be extraordinarily wealthy today. Holding through 2018 bear market, 2020 COVID crash, and other downturns paid off.
 
@@ -123,15 +123,15 @@ HODLing isn't appropriate everywhere.
 
 **Bad timing**: Buying at peaks and holding through declines tests conviction harder than buying at bottoms.
 
-**Overly concentrated**: Putting all portfolio into one asset increases risk. Diversification is important.
+**Overly concentrated**: Putting all [portfolio](/building-web3-portfolio) into one asset increases risk. Diversification is important.
 
 ## HODL and Career
 
-For career-focused job seekers in Web3, understanding HODL culture is relevant.
+For career-focused job seekers in [Web3](/what-is-web3), understanding HODL culture is relevant.
 
 If you work in Web3, you'll encounter HODLers. Understanding their philosophy helps you understand this community.
 
-If you receive compensation in crypto (tokens or coins), you'll face HODL decisions. Understanding the philosophy helps you make thoughtful decisions about compensation.
+If you receive compensation in crypto ([tokens](/what-is-a-token) or coins), you'll face HODL decisions. Understanding the philosophy helps you make thoughtful decisions about compensation.
 
 If you're building crypto projects, HODLers are your base of support. They're believers in your vision. Serving them well builds your project.
 
@@ -161,7 +161,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -174,16 +174,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

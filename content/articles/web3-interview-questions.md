@@ -11,9 +11,9 @@ data-ai-hint: "interview prep"
 
 
 
-Web3 interviews are different from traditional tech interviews. They test both technical knowledge and understanding of crypto philosophy. Interviewers want to know that you understand the space, not just that you can code or communicate.
+[Web3](/what-is-web3) interviews are different from traditional tech interviews. They test both technical knowledge and understanding of crypto philosophy. Interviewers want to know that you understand the space, not just that you can code or communicate.
 
-Preparing for Web3 interviews requires understanding the technology, the industry, and being able to discuss Web3 meaningfully. This guide covers common interview questions, how to approach them, and what makes good answers. For additional prep, review our [resume tips](/10-dos-and-donts-for-web3-resume) and [essential skills guide](/10-essential-skills-for-web3).
+Preparing for Web3 interviews requires understanding the technology, the industry, and being able to discuss Web3 meaningfully. This guide covers common [interview](/how-to-prepare-for-job-interview) questions, how to approach them, and what makes good answers. For additional prep, review our [resume tips](/10-dos-and-donts-for-web3-[resume](/how-to-build-a-web3-resume-that-stands-out)) and [essential skills guide](/10-essential-skills-for-web3).
 
 ## General Web3 Questions
 
@@ -35,7 +35,7 @@ Good answer: Describe Web1 (static content), Web2 (interactive, user-generated, 
 
 Bad answer: Confusing the layers, oversimplifying differences, not explaining what makes Web3 different.
 
-**"How does blockchain work at a high level?"**
+**"How does [blockchain](/what-is-a-blockchain) work at a high level?"**
 
 Tests understanding of core technology.
 
@@ -43,7 +43,7 @@ Good answer: Explain blocks, transactions, cryptography, distributed consensus s
 
 Bad answer: Getting bogged down in technical details without explaining concepts, or being vague and handwavy.
 
-**"What are smart contracts and what can they do?"**
+**"What are [smart contracts](/what-are-smart-contracts) and what can they do?"**
 
 Tests understanding of programmable blockchain.
 
@@ -51,15 +51,15 @@ Good answer: Smart contracts are programs on blockchain. They execute automatica
 
 Bad answer: Confusing smart contracts with regular contracts, or not explaining why they're useful.
 
-**"What's the difference between Bitcoin and Ethereum?"**
+**"What's the difference between [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum)?"**
 
 Tests understanding of different blockchains.
 
-Good answer: Bitcoin is a currency/store of value. Ethereum is a general-purpose computing platform. Bitcoin uses Proof of Work. Ethereum transitioned to Proof of Stake. Ethereum enables smart contracts and applications.
+Good answer: Bitcoin is a currency/store of value. Ethereum is a general-purpose computing platform. Bitcoin uses Proof of Work. Ethereum transitioned to Proof of [Stake](/how-to-become-a-web3-staking-specialist). Ethereum enables smart contracts and applications.
 
 Bad answer: Confusing the two, or just listing random differences.
 
-**"What is a token and what can it represent?"**
+**"What is a [token](/what-is-a-token) and what can it represent?"**
 
 Tests understanding of tokenomics and asset representation.
 
@@ -71,7 +71,7 @@ Bad answer: Confusing tokens with cryptocurrencies, or not explaining different 
 
 For developer roles, expect technical questions.
 
-**"How would you build a simple DEX?"**
+**"How would you build a simple [DEX](/what-is-a-decentralized-exchange-dex)?"**
 
 Tests understanding of protocol design and smart contracts.
 
@@ -179,7 +179,7 @@ General behavioral questions common in interviews.
 
 Tests learning ability and growth mindset.
 
-Good answer: Specific example. Explain challenge, how you approached learning, what you learned. Connect to Web3 if possible (e.g., "I had to learn Solidity").
+Good answer: Specific example. Explain challenge, how you approached learning, what you learned. Connect to Web3 if possible (e.g., "I had to learn [Solidity](/best-programming-languages-for-blockchain-development)").
 
 Bad answer: Generic answer, or example that doesn't show real learning.
 

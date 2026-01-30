@@ -10,7 +10,7 @@ category: "Career Guides"
 
 
 
-The Web3 job market is a whirlwind of fierce competition, high salaries, and unique cultural norms. Navigating it can be tough, both for candidates trying to break in and for companies trying to find top talent. As a Web3 recruiter, I've seen thousands of resumes, conducted hundreds of interviews, and helped place candidates at some of the top protocols and startups in the space.
+The [Web3](/what-is-web3) job market is a whirlwind of fierce competition, high salaries, and unique cultural norms. Navigating it can be tough, both for candidates trying to break in and for companies trying to find top talent. As a Web3 recruiter, I've seen thousands of resumes, conducted hundreds of interviews, and helped place candidates at some of the top protocols and startups in the space.
 
 From my vantage point, I've seen the common mistakes that get candidates rejected and the key signals that make a hiring manager's eyes light up. This guide offers my insider's perspective on how to stand out and get hired in Web3.
 
@@ -20,8 +20,8 @@ The first thing every recruiter and hiring manager is screening for is **genuine
 
 **How to signal genuine passion:**
 -   **Have a good "rabbit hole" story.** Be able to articulate the specific moment or concept that made you want to dedicate your career to this space.
--   **Show, don't just tell.** Your GitHub activity, your on-chain history, your public writing, or your DAO contributions are your proof of passion. We look at these before we ever look at your resume.
--   **Ask deep questions.** An interview is a two-way street. Asking insightful questions about a project's tokenomics, governance model, or security trade-offs shows you're a critical thinker, not just a job seeker.
+-   **Show, don't just tell.** Your [GitHub](/building-web3-portfolio) activity, your on-chain history, your public writing, or your [DAO](/what-is-a-dao) contributions are your proof of passion. We look at these before we ever look at your [resume](/how-to-build-a-web3-resume-that-stands-out).
+-   **Ask deep questions.** An [interview](/how-to-prepare-for-job-interview) is a two-way street. Asking insightful questions about a project's tokenomics, governance model, or security trade-offs shows you're a critical thinker, not just a job seeker.
 
 **Red flags we look for:**
 -   No personal projects or public activity in the space.
@@ -44,7 +44,7 @@ For technical roles, we're looking for a combination of strong fundamentals and 
 
 For roles in marketing, product, or community, we're looking for "T-shaped" individuals: people with deep expertise in their domain, but also a broad understanding of the entire Web3 ecosystem.
 
--   **You Must Be a User:** If you're applying for a product manager role at a DeFi protocol, you must have actually used DeFi protocols. You need to be able to speak from a position of authentic user experience.
+-   **You Must Be a User:** If you're applying for a product manager role at a [DeFi](/what-is-defi) protocol, you must have actually used DeFi protocols. You need to be able to speak from a position of authentic user experience.
 -   **Demonstrate Your Expertise in Public:** A marketer should have a Twitter account where they analyze other projects' go-to-market strategies. A product manager should have a blog where they've written a detailed critique of a dApp's user experience. We need to see your thinking in public.
 -   **Community-Centric Mindset:** You must understand that in Web3, the community is a core part of the product. We'll ask questions about how you would engage with a community, handle FUD, and build consensus.
 
@@ -55,7 +55,7 @@ For roles in marketing, product, or community, we're looking for "T-shaped" indi
 3.  **Communicate Clearly:** Web3 teams are often remote and asynchronous. Your ability to communicate complex ideas clearly and concisely, especially in writing, is critical. Your take-home assignment is often as much a test of your communication skills as your technical skills.
 4.  **Be Honest About What You Don't Know:** The space moves too fast for anyone to be an expert in everything. It's better to say "I don't have deep experience with that, but here's how I would go about learning it" than to try and bluff your way through.
 
-The Web3 job market is competitive, but it's a meritocracy. By demonstrating your passion, building a strong public portfolio of work, and preparing diligently for the interview process, you can stand out from the crowd and land a role at the forefront of the new internet.
+The [Web3 job](/web3-jobs-for-beginners) market is competitive, but it's a meritocracy. By demonstrating your passion, building a strong public portfolio of work, and preparing diligently for the interview process, you can stand out from the crowd and land a role at the forefront of the new internet.
 
 ## The Web3 Opportunity
 
@@ -71,21 +71,21 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- DeFi, [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

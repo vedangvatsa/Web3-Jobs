@@ -39,7 +39,7 @@ As you can see, while both work with data and models, their focus is very differ
 
 The skills required for these two jobs also reflect their different focuses. There's some overlap, but the depth required in each area varies significantly.
 
-**Essential Skills for a Data Scientist**
+**[Essential Skills](/mastering-web3-essential-skills) for a Data Scientist**
 *   **Statistics and Probability**: This is non-negotiable. You need a deep understanding of statistical concepts to build and validate models correctly.
 *   **Python or R**: Strong programming skills in one of these two languages are a must, especially with data science libraries like Pandas, NumPy, and Scikit-learn.
 *   **Data Wrangling and Cleaning**: You'll spend most of your time dealing with messy data, so you need to be an expert at cleaning and preparing it.
@@ -76,7 +76,7 @@ Ultimately, both roles are critical to the success of any modern data-driven org
 Yes, absolutely. This is a common career transition. A data scientist with a strong programming foundation can learn the necessary software engineering and MLOps skills to move into an AI engineering role. This often involves getting certified in a cloud platform and learning tools like Docker and Kubernetes.
 
 **2. Do I need a PhD to be a data scientist?**
-Not anymore. While a few years ago a PhD was common, today it's much less of a requirement, especially for roles that are less research-focused. A master's degree in a quantitative field is helpful, but many people successfully transition into data science from other fields by building a strong portfolio of projects.
+Not anymore. While a few years ago a PhD was common, today it's much less of a requirement, especially for roles that are less research-focused. A master's degree in a quantitative field is helpful, but many people successfully transition into data science from other fields by building a strong [portfolio](/building-web3-portfolio) of projects.
 
 **3. Which role has better job security?**
 Both roles have excellent job security. However, you could argue that AI engineering has a slight edge right now. As more and more companies move from experimenting with AI to actually implementing it, the demand for engineers who can build and deploy these systems is exploding.

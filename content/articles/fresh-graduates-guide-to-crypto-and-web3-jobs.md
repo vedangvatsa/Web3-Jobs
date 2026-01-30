@@ -11,7 +11,7 @@ category: "Getting Started"
 
 
 
-As a fresh graduate, you are entering one of the most dynamic and rapidly evolving job markets in history. While traditional career paths remain viable, a new and exciting frontier has opened up: the world of Web3. The crypto industry is booming, and it's desperately looking for the next generation of talent to help build the future of the decentralized internet.
+As a fresh graduate, you are entering one of the most dynamic and rapidly evolving job markets in history. While traditional career paths remain viable, a new and exciting frontier has opened up: the world of [Web3](/what-is-web3). The crypto industry is booming, and it's desperately looking for the next generation of talent to help build the future of the decentralized internet.
 
 For a recent graduate, a career in Web3 offers an unparalleled opportunity for high impact, accelerated learning, and significant financial upside. However, the path to landing your first crypto job is different from a traditional graduate scheme. It's less about your GPA and more about your passion, your demonstrable skills, and your "proof of work." This guide is designed for you-the ambitious graduate who is curious about crypto and ready to build a career on the cutting edge of technology. We'll provide a step-by-step roadmap to get you from the classroom to a full-time role in Web3.
 
@@ -19,12 +19,12 @@ For a recent graduate, a career in Web3 offers an unparalleled opportunity for h
 
 -   **High Demand, Low Supply:** The demand for talent in Web3 far outstrips the supply. This gives skilled candidates, even those without formal experience, significant leverage.
 -   **Impact from Day One:** Web3 teams are often small, flat, and move quickly. As a junior member, you won't be a small cog in a giant machine. You'll be given real responsibility from day one and your contributions will have a tangible impact.
--   **Steep Learning Curve:** You will learn more in your first year of a Web3 job than you would in five years at a traditional company. The pace of innovation is relentless.
--   **Lucrative Compensation:** Web3 salaries are notoriously high, and compensation often includes token grants, giving you a direct ownership stake in the network you are building.
+-   **Steep Learning Curve:** You will learn more in your first year of a [Web3 job](/web3-jobs-for-beginners) than you would in five years at a traditional company. The pace of innovation is relentless.
+-   **Lucrative Compensation:** Web3 salaries are notoriously high, and compensation often includes [token](/what-is-a-token) grants, giving you a direct ownership [stake](/how-to-become-a-web3-staking-specialist) in the network you are building.
 
 ### The Mindset Shift: From Credentials to Contributions
 
-The most important thing to understand is that the Web3 world values what you've *done* more than what's on your resume. Your university degree is a great starting point, but it's not enough. You need to build a public portfolio of your "proof of work"-verifiable evidence of your skills and passion for the space.
+The most important thing to understand is that the Web3 world values what you've *done* more than what's on your [resume](/how-to-build-a-web3-resume-that-stands-out). Your university degree is a great starting point, but it's not enough. You need to build a public [portfolio](/building-web3-portfolio) of your "proof of work"-verifiable evidence of your skills and passion for the space.
 
 ### Step 1: Deep Immersion (The First 30 Days)
 
@@ -38,9 +38,9 @@ Your journey starts with education. You must immerse yourself in the culture and
     -   [What are NFTs?](/what-are-nfts)
 
 2.  **Become a User:** This is non-negotiable. You cannot work in this industry without using the products.
-    -   Set up a MetaMask wallet.
-    -   Buy a small amount of ETH on an exchange and send it to your wallet.
-    -   Make a swap on a decentralized exchange like Uniswap.
+    -   Set up a MetaMask [wallet](/how-to-choose-a-crypto-wallet).
+    -   Buy a small amount of [ETH](/what-is-ethereum) on an exchange and send it to your wallet.
+    -   Make a swap on a [decentralized exchange](/what-is-a-decentralized-exchange-dex) like Uniswap.
     -   Join the Discord server for a project you find interesting.
 
 3.  **Curate Your Information Diet:** The conversation in Web3 happens on Twitter (X). Create a dedicated account and follow the key builders, researchers, and projects. Listen to podcasts like Bankless and Unchained to stay current.
@@ -52,10 +52,10 @@ This is the most critical step for a graduate. You need to create public evidenc
 #### For Aspiring Developers:
 
 -   **Your GitHub is Your Resume:** Your GitHub profile should be your primary focus.
--   **Learn Solidity:** Go through a free, interactive tutorial like CryptoZombies.
+-   **Learn [Solidity](/best-programming-languages-for-blockchain-development):** Go through a free, interactive tutorial like CryptoZombies.
 -   **Build Projects:**
     -   *Project 1 (Beginner):* Create and deploy your own ERC-20 token using OpenZeppelin's standard contracts.
-    -   *Project 2 (Intermediate):* Build a simple NFT minting dApp with a basic frontend.
+    -   *Project 2 (Intermediate):* Build a simple [NFT](/what-are-nfts) minting dApp with a basic frontend.
     -   *Project 3 (Advanced):* Build a staking dApp where users can deposit your ERC-20 token to earn rewards.
 -   **Participate in a Hackathon:** This is the single best thing you can do. Join a virtual or in-person hackathon from ETHGlobal. The experience is intense, you'll learn a ton, and many companies hire directly from hackathon teams. A project that wins a bounty is a massive signal.
 
@@ -64,7 +64,7 @@ This is the most critical step for a graduate. You need to create public evidenc
 -   **Your Public Content is Your Resume:** You need to demonstrate your knowledge and communication skills.
 -   **Start Writing:** Start a blog on Mirror or a newsletter on Substack. Write about your learning journey.
     -   *Idea:* Write a deep-dive analysis of a project's tokenomics or go-to-market strategy.
-    -   *Idea:* Create a simple, clear tutorial explaining how to use a popular DeFi protocol.
+    -   *Idea:* Create a simple, clear tutorial explaining how to use a popular [DeFi](/what-is-defi) protocol.
 -   **Become a Data Analyst:** Learn basic SQL (it's easier than you think!) and start building dashboards on Dune Analytics. This is an incredibly valuable and in-demand skill.
     -   *Idea:* Create a dashboard tracking the user growth of a new Web3 game.
 -   **Become a Community Contributor:** Find a [DAO](/the-rise-of-daos) you admire and become an active member.

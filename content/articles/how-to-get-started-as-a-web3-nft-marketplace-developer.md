@@ -11,9 +11,9 @@ category: "Career Guides"
 
 
 
-The explosion of [Non-Fungible Tokens (NFTs)](/what-are-nfts) has created a massive demand for developers who can build the platforms and marketplaces where these unique digital assets are created, traded, and showcased. A career as an **NFT Marketplace Developer** is a path that combines smart contract engineering, full-stack web development, and an understanding of the creator economy.
+The explosion of [Non-Fungible Tokens (NFTs)](/what-are-nfts) has created a massive demand for developers who can build the platforms and marketplaces where these unique digital assets are created, traded, and showcased. A career as an **NFT Marketplace Developer** is a path that combines [smart contract](/what-are-smart-contracts) engineering, full-stack web development, and an understanding of the creator economy.
 
-This guide will break down the essential skills and project roadmap for a developer looking to specialize in the NFT space.
+This guide will break down the [essential skills](/mastering-web3-essential-skills) and project roadmap for a developer looking to specialize in the [NFT](/what-are-nfts) space.
 
 ### The NFT Developer's Tech Stack
 
@@ -21,8 +21,8 @@ Building an NFT marketplace requires a full-stack skill set, bridging on-chain a
 
 **On-Chain (Smart Contracts):**
 
--   **Solidity:** A deep understanding of Solidity, the primary language for Ethereum and EVM-compatible chains, is essential.
--   **NFT Standards:** You must be an expert in the key token standards:
+-   **[Solidity](/best-programming-languages-for-blockchain-development):** A deep understanding of Solidity, the primary language for [Ethereum](/what-is-ethereum) and EVM-compatible chains, is essential.
+-   **NFT Standards:** You must be an expert in the key [token](/what-is-a-token) standards:
     -   **ERC-721:** The standard for unique, one-of-a-kind NFTs.
     -   **ERC-1155:** A multi-token standard that can represent both fungible and non-fungible tokens in a single contract, often used for gaming items.
 -   **Marketplace Logic:** You need to be able to write the smart contracts that handle the core marketplace logic, such as listing an NFT for sale, making an offer, and executing a sale. This involves securely handling the transfer of both the NFT and the payment (e.g., ETH or an ERC-20 token).
@@ -30,7 +30,7 @@ Building an NFT marketplace requires a full-stack skill set, bridging on-chain a
 **Off-Chain (Frontend & Backend):**
 
 -   **React/Next.js:** The industry standard for building the user-facing part of the marketplace.
--   **Ethers.js / Viem:** JavaScript libraries used to interact with the blockchain from the frontend, such as connecting a user's wallet and prompting them to sign transactions.
+-   **Ethers.js / Viem:** JavaScript libraries used to interact with the [blockchain](/what-is-a-blockchain) from the frontend, such as connecting a user's [wallet](/how-to-choose-a-crypto-wallet) and prompting them to sign transactions.
 -   **Data Indexing:** Reading NFT data directly from the blockchain is inefficient. You'll need to use an indexing solution to provide a fast and reliable API for your frontend.
     -   **Third-Party APIs:** Services like Reservoir, SimpleHash, or Alchemy's NFT API provide comprehensive data for most NFT collections.
     -   **The Graph:** For custom data needs, you may need to build your own "subgraph" to index your marketplace's specific events. Learn more in our [guide to The Graph](/your-first-subgraph-indexing-blockchain-data-with-the-graph).
@@ -48,11 +48,11 @@ A career as an NFT Marketplace Developer is an opportunity to work at the inters
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -69,7 +69,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), NFTs, and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

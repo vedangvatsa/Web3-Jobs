@@ -13,7 +13,7 @@ category: "Industry Insights"
 
 For the past two decades, the internet has been dominated by the **Attention Economy**. Giant platforms like Google, Facebook, and TikTok have built multi-trillion dollar empires on a simple premise: your attention is the product. Their business model is to capture as much of your time and focus as possible, and then sell that attention to the highest-bidding advertiser. This has led to a digital world optimized for engagement at any cost, often resulting in addiction, misinformation, and a race to the bottom for content quality.
 
-Web3, with its foundational principles of user ownership, decentralization, and verifiable data, is proposing a radical alternative: the **Intention Economy**. In this new paradigm, the user is no longer the product to be sold but the primary economic actor, in full control of their data, identity, and, most importantly, their intent. This isn't just a philosophical shift; it's a structural one, enabled by blockchain technology, that promises to create a more efficient, equitable, and human-centric internet. This guide explores the transition from the attention economy to the intention economy, the Web3 tools making it possible, and the practical implications for users, builders, and businesses.
+[Web3](/what-is-web3), with its foundational principles of user ownership, decentralization, and verifiable data, is proposing a radical alternative: the **Intention Economy**. In this new paradigm, the user is no longer the product to be sold but the primary economic actor, in full control of their data, identity, and, most importantly, their intent. This isn't just a philosophical shift; it's a structural one, enabled by [blockchain](/what-is-a-blockchain) technology, that promises to create a more efficient, equitable, and human-centric internet. This guide explores the transition from the attention economy to the intention economy, the Web3 tools making it possible, and the practical implications for users, builders, and businesses.
 
 ### The Flaws of the Attention Economy
 
@@ -28,7 +28,7 @@ To understand the promise of the Intention Economy, we must first diagnose the d
 
 The Intention Economy, powered by Web3, flips the script by putting the user in control. It's built on a few core principles:
 
--   **Self-Sovereign Identity:** Your identity is not your Facebook login. It's a [decentralized identifier (DID)](/decentralized-identity-explained) that you own and control in your crypto wallet. You decide what information to share and with whom.
+-   **Self-Sovereign Identity:** Your identity is not your Facebook login. It's a [decentralized identifier (DID)](/decentralized-identity-explained) that you own and control in your crypto [wallet](/how-to-choose-a-crypto-wallet). You decide what information to share and with whom.
 -   **User-Owned Data:** Your data lives with you. It's not stored in a company's siloed database. You can grant applications permission to access your data, and you can revoke that permission at any time.
 -   **Verifiable Intent:** On a blockchain, your intentions can be expressed as cryptographically signed, verifiable transactions. This allows you to broadcast a specific, commercial intent to a network of service providers who can then compete to fulfill it.
 
@@ -43,7 +43,7 @@ This might seem abstract, so let's look at a concrete example: booking a flight.
 4.  You finally book a flight, having navigated a gauntlet of cookies, pop-ups, and upsells. Your data has been harvested, and your attention has been sold.
 
 **Booking a Flight in the Intention Economy:**
-1.  From your crypto wallet, you sign a message that expresses your intent: "I, `jane.eth`, intend to purchase one round-trip ticket from London to New York, departing between October 10-12 and returning between October 18-20. My maximum budget is $800 USDC, and I prefer a non-stop flight."
+1.  From your crypto wallet, you sign a message that expresses your intent: "I, `jane.[eth](/what-is-ethereum)`, intend to purchase one round-trip ticket from London to New York, departing between October 10-12 and returning between October 18-20. My maximum budget is $800 USDC, and I prefer a non-stop flight."
 2.  This verifiable, machine-readable intent is broadcast to an open network of travel providers (or a decentralized travel protocol).
 3.  Airlines and travel agents on this network can see your intent, but not necessarily your personal identity. They compete to fulfill it.
 4.  They send specific, firm offers directly to your wallet. You are not browsing their websites; they are bidding for your business.
@@ -60,7 +60,7 @@ Several Web3 technologies are making this vision a reality:
 
 -   **Decentralized Identity (DIDs) & Wallets:** Your wallet is your agent, the tool through which you express your intent.
 -   **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained):** ZKPs allow you to prove things about yourself without revealing the underlying data. For example, you could prove you are over 21 without revealing your birthdate.
--   **[Decentralized Oracles](/what-are-oracles):** Oracles are needed to bring external data (like flight availability or real-world events) on-chain to trigger smart contracts.
+-   **[Decentralized Oracles](/what-are-oracles):** Oracles are needed to bring external data (like flight availability or real-world events) on-chain to trigger [smart contracts](/what-are-smart-contracts).
 -   **AI Agents:** In the future, you won't manually craft your intent. You'll delegate it to a personal [AI agent](/smart-agents-in-ai) that understands your preferences and can execute these interactions on your behalf.
 
 ### Practical Insights for Builders and Businesses
@@ -84,7 +84,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -92,7 +92,7 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
@@ -101,12 +101,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -142,7 +142,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

@@ -49,7 +49,7 @@ The first few days and weeks at a new job are your opportunity to establish a po
 
 ### FAQs
 
-**Q: How can I make a good impression in a remote job?**
+**Q: How can I make a good impression in a [remote job](/remote-work-in-web3)?**
 A: Be proactive in communication on Slack/Teams, keep your camera on during video calls, and be responsive to messages during work hours.
 
 **Q: Should I try to be friends with everyone immediately?**
@@ -258,7 +258,7 @@ This is surprisingly rare and incredibly impactful.
 
 **How to Master This:**
 - Write down names immediately after meeting someone
-- Add a detail: "Sarah-working on blockchain security, has a dog named Max"
+- Add a detail: "Sarah-working on [blockchain](/what-is-a-blockchain) security, has a dog named Max"
 - Review your notes before meetings
 - Reference the detail later: "How's Max doing?"
 
@@ -343,11 +343,3 @@ A: The initial impression can last months or even years. However, you can shift 
 - You should be building toward deeper relationships
 
 **Remember:** Your first impression isn't permanent, but it's important. Spend the first month being the best, most professional, most engaged version of yourself. Once people trust and like you, you can relax and be more authentic. The goal is to start strong, then be consistently strong over time.
-
-## Related Articles
-
-- [Web3 Jobs in Algiers: A Guide to Algeria's Tech Awakening](web3-jobs-in-algiers)
-- [Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene](web3-jobs-in-libreville)
-- [Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene](web3-jobs-in-luanda)
-- [How to Ask Smart Questions as a New Employee](asking-smart-questions-as-new-employee)
-- [Web3 Jobs in Lagos: A Guide to West Africa's Tech Megacity](web3-jobs-in-lagos)

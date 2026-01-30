@@ -22,7 +22,7 @@ category: "Getting Started"
 ## Frequently Asked Questions
 
 ### 1. What does WAGMI mean in crypto?
-WAGMI stands for "We're All Gonna Make It." It's an optimistic rallying cry used to express a shared belief in the long-term success of Web3 and its community.
+WAGMI stands for "We're All Gonna Make It." It's an optimistic rallying cry used to express a shared belief in the long-term success of [Web3](/what-is-web3) and its community.
 
 ### 2. What does NGMI mean?
 NGMI stands for "Not Gonna Make It." It's a term used to dismiss someone who makes a poor decision, shows a lack of understanding of crypto principles, or is overly skeptical about the space.
@@ -31,7 +31,7 @@ NGMI stands for "Not Gonna Make It." It's a term used to dismiss someone who mak
 These terms originated in the online fitness and self-improvement communities, particularly on forums like 4chan, and were later adopted by the crypto community.
 
 ### 4. How are WAGMI and NGMI used?
-They are used to quickly express a sense of community solidarity (WAGMI) or to pass judgment (NGMI). For example, "That project has a great team and a real use case, WAGMI." Or, "He sold all his Bitcoin because of a small dip? NGMI." You can learn more in our **[guide to Web3 slang](/meaning-of-crypto-and-web3-slangs-and-acronyms)**.
+They are used to quickly express a sense of community solidarity (WAGMI) or to pass judgment (NGMI). For example, "That project has a great team and a real use case, WAGMI." Or, "He sold all his [Bitcoin](/what-is-bitcoin) because of a small dip? NGMI." You can learn more in our **[guide to Web3 slang](/meaning-of-crypto-and-web3-slangs-and-acronyms)**.
 
 ### 6. Can I be skeptical and still WAGMI?
 Absolutely. True WAGMI includes critical thinking. It means "I believe in the long-term vision" while also "I'll scrutinize what projects I support."
@@ -48,7 +48,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -56,21 +56,21 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -106,7 +106,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

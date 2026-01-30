@@ -14,7 +14,7 @@ category: "Career Guides"
 
 Job interviews are inherently stressful situations. For many, the pressure to perform, the fear of judgment, and the uncertainty of the outcome can lead to significant anxiety. This nervousness can manifest in various ways-a racing heart, sweaty palms, a shaky voice, or a mind that suddenly goes blank. While a little bit of nervous energy can be beneficial, showing that you care about the opportunity, overwhelming anxiety can hinder your ability to communicate your skills and personality effectively.
 
-The key isn't to eliminate nerves entirely but to manage them. By understanding the root causes of your anxiety and implementing proven techniques, you can channel that energy into a focused and confident performance. This guide provides a comprehensive framework for handling interview nerves, covering preparation strategies, day-of rituals, and in-the-moment techniques to help you shine.
+The key isn't to eliminate nerves entirely but to manage them. By understanding the root causes of your anxiety and implementing proven techniques, you can channel that energy into a focused and confident performance. This guide provides a comprehensive framework for handling [interview](/how-to-prepare-for-job-interview) nerves, covering preparation strategies, day-of rituals, and in-the-moment techniques to help you shine.
 
 ### Understanding the Source of Interview Anxiety
 
@@ -38,14 +38,14 @@ Superficial research leads to superficial answers and a lack of confidence. Go b
 
 *   **Mission and Values:** Understand the company's core purpose. How do your own values align with theirs? Be ready to give specific examples.
 *   **Products and Services:** If possible, use their product. Understand who their customers are and what problems they solve.
-*   **Recent News and Achievements:** Look for recent press releases, blog posts, or funding announcements. Mentioning a recent achievement shows you're engaged and genuinely interested. A great resource for this is a project's official blog or a Web3 News Feed.
+*   **Recent News and Achievements:** Look for recent press releases, blog posts, or funding announcements. Mentioning a recent achievement shows you're engaged and genuinely interested. A great resource for this is a project's official blog or a [Web3](/what-is-web3) News Feed.
 *   **The Role Itself:** Deconstruct the job description. For each responsibility and qualification, prepare a specific example from your past that demonstrates your ability. Use the STAR method (Situation, Task, Action, Result) to structure your stories.
 
 #### 2. Master Your Own Narrative
 
 You are the expert on one subject: yourself. Don't let nerves make you forget your own story.
 
-*   **Know Your Resume Inside and Out:** Be prepared to discuss any point on your resume in detail. Why did you leave a certain role? What was your biggest accomplishment there? For guidance on crafting a powerful resume, explore our [Resume Writing Tips That Get Interviews](/resume-writing-tips-that-get-interviews).
+*   **Know Your [Resume](/how-to-build-a-web3-resume-that-stands-out) Inside and Out:** Be prepared to discuss any point on your resume in detail. Why did you leave a certain role? What was your biggest accomplishment there? For guidance on crafting a powerful resume, explore our [Resume Writing Tips That Get Interviews](/resume-writing-tips-that-get-interviews).
 *   **Prepare Your "Tell Me About Yourself":** This isn't an invitation to recite your life story. It's a 90-second pitch that connects your past experiences to the requirements of the role and the goals of the company.
 *   **Identify Your Key Selling Points:** What are the three to five things you absolutely want the interviewer to know about you by the end of the conversation? Weave these points into your answers naturally.
 

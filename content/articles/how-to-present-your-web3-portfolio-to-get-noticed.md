@@ -11,7 +11,7 @@ category: "Getting Started"
 
 
 
-In Web3, having a strong portfolio of projects is essential. But building the projects is only half the battle. If your work is poorly presented or hard to find, even the most impressive portfolio can be overlooked by recruiters and hiring managers.
+In [Web3](/what-is-web3), having a strong [portfolio](/building-web3-portfolio) of projects is essential. But building the projects is only half the battle. If your work is poorly presented or hard to find, even the most impressive portfolio can be overlooked by recruiters and hiring managers.
 
 How you package and present your work is a crucial skill. It's your opportunity to tell a compelling story about your skills, your passion, and your journey as a builder. This guide provides practical advice on how to present your Web3 portfolio to ensure it gets noticed.
 
@@ -22,7 +22,7 @@ Don't just send a link to your GitHub profile. You need a central "hub" that org
 **Key elements of your portfolio website:**
 
 1.  **A Clear "Hero" Section:**
-    *   **Your Name and Title:** E.g., "Jane Doe - Smart Contract Developer & DeFi Enthusiast".
+    *   **Your Name and Title:** E.g., "Jane Doe - [Smart Contract](/what-are-smart-contracts) Developer & [DeFi](/what-is-defi) Enthusiast".
     *   **A Compelling One-Liner:** A short sentence that summarizes who you are and what you're passionate about. "I build secure and efficient decentralized financial primitives."
     *   **Clear Links:** Prominently display links to your GitHub, Twitter, and your personal blog/writing.
 
@@ -31,13 +31,13 @@ Don't just send a link to your GitHub profile. You need a central "hub" that org
     *   **For each project, create a "card" that includes:**
         *   **Project Name:** Clear and concise.
         *   **A Short Description:** 1-2 sentences explaining what the project is and what problem it solves.
-        *   **Tech Stack:** A list of the key technologies you used (e.g., Solidity, Foundry, React, The Graph).
+        *   **Tech Stack:** A list of the key technologies you used (e.g., [Solidity](/best-programming-languages-for-blockchain-development), Foundry, React, The Graph).
         *   **Clear CTAs:** Buttons linking to the "Live Demo" and the "Source Code" on GitHub.
 
 3.  **An "About Me" That Tells Your Story:**
     *   Don't just list your skills. Tell a narrative. What's your "rabbit hole" story? What excites you about Web3? What are you currently learning? This is your chance to show your personality and passion.
 
-**Practical Tip:** Use a Web3-native domain for your website, like an ENS name (`yourname.eth`). You can easily resolve it to a traditional website using services like eth.limo. This is a strong cultural signal.
+**Practical Tip:** Use a Web3-native domain for your website, like an ENS name (`yourname.[eth](/what-is-ethereum)`). You can easily resolve it to a traditional website using services like eth.limo. This is a strong cultural signal.
 
 ### Your GitHub: The Source of Truth
 
@@ -72,7 +72,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -80,16 +80,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- DeFi, [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

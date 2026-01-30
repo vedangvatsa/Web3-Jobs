@@ -10,9 +10,9 @@ category: "Career Guides"
 
 
 
-In the Web3 job market, your resume is secondary. Your LinkedIn profile is an afterthought. The single most important asset in your job search as a developer is your portfolio-specifically, your GitHub profile. Hiring managers and technical recruiters in this space are looking for tangible proof of your skills. They want to see that you can write clean, secure Solidity code, that you can build intuitive frontends that interact with the blockchain, and that you have a genuine passion for the technology that extends beyond your day job.
+In the [Web3](/what-is-web3) job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary. Your LinkedIn profile is an afterthought. The single most important asset in your job search as a developer is your [portfolio](/building-web3-portfolio)-specifically, your GitHub profile. Hiring managers and technical recruiters in this space are looking for tangible proof of your skills. They want to see that you can write clean, secure [Solidity](/best-programming-languages-for-blockchain-development) code, that you can build intuitive frontends that interact with the [blockchain](/what-is-a-blockchain), and that you have a genuine passion for the technology that extends beyond your day job.
 
-A well-crafted portfolio of personal projects is the ultimate signal that you have what it takes. This guide provides a practical, step-by-step roadmap for [building a Web3 portfolio](/building-web3-portfolio) that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational smart contracts to a full-stack dApp.
+A well-crafted portfolio of personal projects is the ultimate signal that you have what it takes. This guide provides a practical, step-by-step roadmap for [building a Web3 portfolio](/building-web3-portfolio) that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational [smart contracts](/what-are-smart-contracts) to a full-stack dApp.
 
 ### Foundational Principles for Your Portfolio
 
@@ -28,26 +28,26 @@ Follow this progression to build your skills and your portfolio from the ground 
 #### Project 1: Your Own ERC-20 Token
 
 - **What it is:** A simple, fungible cryptocurrency that conforms to the ERC-20 standard.
-- **Why it matters:** This is the "Hello, World!" of smart contract development. It demonstrates that you understand token standards, can work with established interfaces (like OpenZeppelin's ERC20 implementation), and can write basic [Solidity](/solidity-for-beginners).
+- **Why it matters:** This is the "Hello, World!" of smart contract development. It demonstrates that you understand [token](/what-is-a-token) standards, can work with established interfaces (like OpenZeppelin's ERC20 implementation), and can write basic [Solidity](/solidity-for-beginners).
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, Hardhat/Foundry.
 - **Bonus Steps:**
   - Deploy it to a public testnet like Sepolia.
-  - Build a very simple React frontend with Ethers.js that lets a user connect their wallet and see their balance of *your* token.
+  - Build a very simple React frontend with Ethers.js that lets a user connect their [wallet](/how-to-choose-a-crypto-wallet) and see their balance of *your* token.
 
 #### Project 2: An NFT Collection
 
 - **What it is:** A collection of unique, [non-fungible tokens](/what-are-nfts) that conform to the ERC-721 standard.
-- **Why it matters:** This project shows that you understand the other major token standard and can work with metadata, a key component of NFTs. It's also a great way to showcase a bit of creativity.
+- **Why it matters:** This project shows that you understand the other major token standard and can work with metadata, a key component of [NFTs](/what-are-nfts). It's also a great way to showcase a bit of creativity.
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, IPFS (for metadata storage), Hardhat/Foundry.
 - **Bonus Steps:**
   - Create your own generative art and host the images on IPFS.
-  - Implement a minting function with a specific price (e.g., 0.01 ETH).
+  - Implement a minting function with a specific price (e.g., 0.01 [ETH](/what-is-ethereum)).
   - Build a frontend that allows users to connect their wallet and mint one of your NFTs.
 
 #### Project 3: A Staking DApp (Your First Full-Stack Project)
 
-- **What it is:** A decentralized application where users can "stake" the ERC-20 token you created in Project 1 and earn more of that same token as a reward over time.
-- **Why it matters:** This is a foundational DeFi primitive. It's your first true full-stack project that combines a custom smart contract with a user-facing frontend. It demonstrates your ability to think about incentive mechanisms and manage state in a more complex way.
+- **What it is:** A decentralized application where users can "[stake](/how-to-become-a-web3-staking-specialist)" the ERC-20 token you created in Project 1 and earn more of that same token as a reward over time.
+- **Why it matters:** This is a foundational [DeFi](/what-is-defi) primitive. It's your first true full-stack project that combines a custom smart contract with a user-facing frontend. It demonstrates your ability to think about incentive mechanisms and manage state in a more complex way.
 - **Tech Stack:** Solidity, React, Ethers.js/Viem, Hardhat/Foundry.
 - **Key Features to Implement:**
   - A `stake(uint256 amount)` function.

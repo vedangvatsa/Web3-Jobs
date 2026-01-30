@@ -11,19 +11,19 @@ category: "Getting Started"
 
 
 
-In the hyper-competitive Web3 job market, your resume is the first touchpoint a recruiter or hiring manager has with your professional identity. But here's the secret: a traditional Web2 resume, with its list of past employers and corporate-speak bullet points, often falls flat. The Web3 industry operates on a different set of values, and your resume needs to reflect that.
+In the hyper-competitive [Web3](/what-is-web3) job market, your resume is the first touchpoint a recruiter or hiring manager has with your professional identity. But here's the secret: a traditional Web2 resume, with its list of past employers and corporate-speak bullet points, often falls flat. The Web3 industry operates on a different set of values, and your resume needs to reflect that.
 
 Hiring managers in this space are looking for more than just a list of job titles; they are looking for verifiable proof of your skills, a genuine passion for the decentralized ecosystem, and a cultural fit with the industry's "show, don't tell" ethos. Your resume must be a bridge between your traditional experience and your crypto-native "[proof of work](/how-to-build-a-public-on-chain-developer-brand)."
 
-This guide will provide a detailed, step-by-step process for crafting the perfect Web3 resume. We'll cover how to structure it, what unique sections to include, and how to frame your experience to capture the attention of Web3 recruiters and land you an interview. Our AI Resume Builder can also help you get started.
+This guide will provide a detailed, step-by-step process for crafting the perfect Web3 resume. We'll cover how to structure it, what unique sections to include, and how to frame your experience to capture the attention of Web3 recruiters and land you an [interview](/how-to-prepare-for-job-interview). Our AI Resume Builder can also help you get started.
 
 ### The Foundational Principle: Link Your Proof
 
 The single most important rule for a Web3 resume is to **provide verifiable proof for every claim you make**. Every section should be an opportunity to link out to your public contributions. This is how you build trust and credibility in a trustless world.
 
 -   **Don't just say you're a good writer.** Link to your blog on Mirror or your Twitter threads analyzing protocols.
--   **Don't just say you can code.** Link to your GitHub profile, which should be filled with personal projects and open-source contributions.
--   **Don't just say you're an active community member.** Link to your contributions in a [DAO](/how-to-contribute-to-daos-and-get-paid) or a governance forum.
+-   **Don't just say you can code.** Link to your [GitHub](/building-web3-portfolio) profile, which should be filled with personal projects and open-source contributions.
+-   **Don't just say you're an active community member.** Link to your contributions in a [DAO](/how-to-contribute-to-[daos](/what-is-a-dao)-and-get-paid) or a governance forum.
 
 ### Structuring Your Web3 Resume
 
@@ -33,13 +33,13 @@ Your resume should be a one-page document, clean, and easy to scan. Here's a rec
 
 This section needs a significant upgrade from its Web2 counterpart. It's the first signal that you are a native participant.
 
--   **Name & Title:** Your name and a concise, targeted title like "Smart Contract Developer" or "DeFi Growth Marketer."
+-   **Name & Title:** Your name and a concise, targeted title like "[Smart Contract](/what-are-smart-contracts) Developer" or "[DeFi](/what-is-defi) Growth Marketer."
 -   **Contact Info:** Your professional email address.
 -   **Key Links (Must be hyperlinked):** This is the most critical part of the header.
     -   **Portfolio/Website:** A link to your personal website, which acts as the hub for all your work.
     -   **GitHub:** Essential for all technical roles.
     -   **Twitter (X):** Your professional Web3 Twitter account. Recruiters *will* look at it.
-    -   **ENS Address (e.g., `yourname.eth`):** Include your Ethereum Name Service address. This is a powerful cultural signal.
+    -   **ENS Address (e.g., `yourname.eth`):** Include your [Ethereum](/what-is-ethereum) Name Service address. This is a powerful cultural signal.
 
 #### 2. Summary: Your "Rabbit Hole" Story
 
@@ -57,7 +57,7 @@ This section should come **before** your traditional work experience. It's what 
 
 -   **Format:** Use bullet points. Start each bullet with a strong action verb and quantify your impact where possible. Link everything.
 -   **Structure for each entry:**
-    -   **Project Name & Your Role:** (e.g., "DeFi Staking dApp, Personal Project" or "Governance Delegate, Uniswap DAO").
+    -   **Project Name & Your Role:** (e.g., "DeFi [Staking](/how-to-become-a-web3-staking-specialist) dApp, Personal Project" or "Governance Delegate, Uniswap DAO").
     -   **Contribution:** Detail what you did and the impact it had.
     -   **Link:** Provide a direct link to the work (GitHub repo, live demo, blog post, Dune dashboard).
 
@@ -73,7 +73,7 @@ List your traditional work experience here. Your goal is to reframe your accompl
 
 Divide your skills into relevant subcategories.
 
--   **Web3 / Blockchain:** Solidity, Foundry, Ethers.js, The Graph, EIP-712, Tokenomics, DAO Governance, Dune Analytics.
+-   **Web3 / [Blockchain](/what-is-a-blockchain):** [Solidity](/best-programming-languages-for-blockchain-development), Foundry, Ethers.js, The Graph, EIP-712, Tokenomics, DAO Governance, Dune Analytics.
 -   **Technical & General:** JavaScript, React, Next.js, Python, SQL, Figma, Project Management.
 
 By building your resume around verifiable proof of work and tailoring your language to the industry's culture, you move beyond simply telling people what you can do-you show them. In the transparent and meritocratic world of Web3, this is the most powerful way to stand out. Find more tips in our guide on how to write a Web3 resume.
@@ -84,7 +84,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -92,7 +92,7 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 

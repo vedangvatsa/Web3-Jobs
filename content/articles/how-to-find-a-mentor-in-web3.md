@@ -19,7 +19,7 @@ A good mentor can:
 ### 1. Online Communities
 
 **Discord Servers**
-- DAOs and protocol communities often have active Discord servers
+- [DAOs](/what-is-a-dao) and protocol communities often have active Discord servers
 - Participate in governance discussions and technical channels
 - Identify experienced contributors and reach out directly
 
@@ -46,7 +46,7 @@ A good mentor can:
 - Set up 1:1 meetings during dedicated networking times
 
 **Meetups**
-- Local Web3 communities host monthly meetups
+- Local [Web3](/what-is-web3) communities host monthly meetups
 - Build relationships in relaxed environments
 - Find mentors within your timezone
 
@@ -90,10 +90,10 @@ You likely need **multiple mentors** for different areas:
 
 | Type | Focus | Where to Find |
 |------|-------|---------------|
-| **Technical Mentor** | Code reviews, architecture | GitHub, open-source projects |
+| **Technical Mentor** | Code reviews, architecture | [GitHub](/building-web3-portfolio), open-source projects |
 | **Business Mentor** | Strategy, fundraising | Accelerators, founders |
 | **Career Mentor** | Growth, opportunities | Your network, companies |
-| **Domain Expert** | DeFi/NFTs/AI specifics | Discord, Twitter, hackathons |
+| **Domain Expert** | [DeFi](/what-is-defi)/[NFTs](/what-are-nfts)/AI specifics | Discord, Twitter, hackathons |
 
 ## The Mentorship Agreement
 
@@ -126,7 +126,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -134,21 +134,21 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
+- [Smart contracts](/what-are-smart-contracts) and their use cases
 - DeFi, NFTs, and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

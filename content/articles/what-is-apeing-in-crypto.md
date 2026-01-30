@@ -15,13 +15,13 @@ The language of the crypto world is filled with colorful and often animal-themed
 
 **What does it mean?**
 
-To "ape in" means to invest in a cryptocurrency or NFT project with a high degree of conviction (or lack thereof) and often with a significant amount of capital, without necessarily having done extensive research. It's a decision driven more by gut feeling, community hype, Twitter buzz, and a strong sense of FOMO (Fear of Missing Out) than by careful analysis and due diligence.
+To "ape in" means to invest in a cryptocurrency or [NFT](/what-are-nfts) project with a high degree of conviction (or lack thereof) and often with a significant amount of capital, without necessarily having done extensive research. It's a decision driven more by gut feeling, community hype, Twitter buzz, and a strong sense of FOMO (Fear of Missing Out) than by careful analysis and due diligence.
 
 The term conjures the image of an ape, acting on instinct and brute force, throwing themselves into a situation with enthusiasm and without overthinking it. It's the opposite of careful, methodical analysis.
 
 ## The Psychology Behind Apeing In
 
-Apeing in is the opposite of DYOR (Do Your Own Research). It's an emotional, high-risk investment style that is a core part of the "degen" (degenerate) trader culture in Web3.
+Apeing in is the opposite of DYOR (Do Your Own Research). It's an emotional, high-risk investment style that is a core part of the "degen" (degenerate) trader culture in [Web3](/what-is-web3).
 
 **FOMO-Driven Decision Making**: The primary driver of aping in is FOMO - Fear of Missing Out. You see a new project launching. You see people on crypto Twitter saying they made a 100x return on a similar project. You see a Discord server buzzing with excitement. The fear that you're missing the next big opportunity overwhelms your rational analysis. So you buy immediately, without doing proper research.
 
@@ -39,7 +39,7 @@ FOMO is powerful because it taps into human psychology. The regret of missing a 
 
 Apeing in typically occurs in specific contexts.
 
-**New Token Launches**: When a new token launches on a DEX or exchange, degens immediately buy without waiting for market equilibrium or proper valuation. They want to be first in line.
+**New [Token](/what-is-a-token) Launches**: When a new token launches on a [DEX](/what-is-a-decentralized-exchange-dex) or exchange, degens immediately buy without waiting for market equilibrium or proper valuation. They want to be first in line.
 
 **NFT Releases**: When a new NFT collection launches, particularly if created by a popular artist or team, degens immediately mint or buy NFTs without evaluating the project. They're betting on the creator's reputation or the hype.
 
@@ -47,7 +47,7 @@ Apeing in typically occurs in specific contexts.
 
 **Influencer Shills**: When a prominent crypto influencer promotes a project, their followers sometimes immediately buy without independent research, trusting the influencer's judgment.
 
-**After Successful Similar Projects**: After Bitcoin went from $0.01 to $1,000+, many people oped into every new cryptocurrency hoping to repeat that success. After some NFT projects went from nothing to multibillion-dollar valuations, degens oped into every NFT project.
+**After Successful Similar Projects**: After [Bitcoin](/what-is-bitcoin) went from $0.01 to $1,000+, many people oped into every new cryptocurrency hoping to repeat that success. After some NFT projects went from nothing to multibillion-dollar valuations, degens oped into every NFT project.
 
 ## The Outcomes
 
@@ -55,7 +55,7 @@ What happens when you ape in? The outcomes are highly variable.
 
 **Spectacular Wins**: Sometimes, aping in yields incredible returns. You put in $1,000 at the right time into a project that becomes successful. A year later, it's worth $100,000 or more. These wins are celebrated, discussed, and broadcast on social media. They're the stories everyone hears.
 
-**Substantial Losses**: More often, aping in results in losses. You put $1,000 into a project. The project founders disappear (rug pull). Or the smart contracts have a bug that allows hackers to steal funds. Or the community loses interest and the token price collapses to zero. Your $1,000 becomes $0.
+**Substantial Losses**: More often, aping in results in losses. You put $1,000 into a project. The project founders disappear (rug pull). Or the [smart contracts](/what-are-smart-contracts) have a bug that allows hackers to steal funds. Or the community loses interest and the token price collapses to zero. Your $1,000 becomes $0.
 
 **Mediocre Returns or Losses**: In many cases, you ape in, the project performs okay but doesn't 100x, and you make a small profit or break even. These outcomes are less exciting than either spectacular wins or complete losses, so they get less attention.
 

@@ -11,7 +11,7 @@ data-ai-hint: "travel packing"
 
 
 
-Web3 and remote work have made digital nomad careers viable. Many tech professionals and Web3 workers travel while working. Working from Southeast Asia, Europe, or Latin America while employed at US or European companies is increasingly common.
+[Web3](/what-is-web3) and [remote work](/remote-work-in-web3) have made [digital nomad](/crypto-guide-for-digital-nomads) careers viable. Many tech professionals and Web3 workers travel while working. Working from Southeast Asia, Europe, or Latin America while employed at US or European companies is increasingly common.
 
 However, traveling while working requires different packing than regular travel. You need equipment that works reliably. You need backup systems. You need to stay productive while moving between locations. This guide covers what to pack for a sustainable digital nomad tech career.
 

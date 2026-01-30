@@ -12,7 +12,7 @@ Automation has been around for decades. Robotic process automation (RPA) tools a
 
 Artificial intelligence is changing this. AI agents can understand context, adapt to new situations, and make decisions like humans. As AI becomes more capable, we're seeing the evolution from basic automation to true agency: AI systems that can act autonomously on behalf of users.
 
-This evolution has profound implications for work, business, and Web3. Understanding the spectrum from automation to autonomy helps explain where AI is heading.
+This evolution has profound implications for work, business, and [Web3](/what-is-web3). Understanding the spectrum from automation to autonomy helps explain where AI is heading.
 
 ## The Automation-to-Agency Spectrum
 
@@ -38,7 +38,7 @@ AI agents have specific characteristics.
 
 **Planning**: The agent can plan sequences of actions to achieve goals. It understands that some actions lead to goal achievement.
 
-**Action**: The agent can take actions in the world. For software agents, this might be API calls or blockchain transactions.
+**Action**: The agent can take actions in the world. For software agents, this might be API calls or [blockchain](/what-is-a-blockchain) transactions.
 
 **Adaptation**: The agent can adapt its behavior based on outcomes. If an action doesn't achieve the desired result, the agent tries something different.
 
@@ -56,14 +56,14 @@ Web3 creates particularly interesting possibilities for AI agents because of blo
 - Plan transaction sequences
 - Execute transactions (with human approval)
 
-Examples include MEV bots that find profitable trading opportunities and execute them. Or portfolio management bots that rebalance holdings based on market conditions.
+Examples include MEV bots that find profitable trading opportunities and execute them. Or [portfolio](/building-web3-portfolio) management bots that rebalance holdings based on market conditions.
 
 **Near term (2024-2025)**: Fully autonomous agents will emerge. These will:
 - Execute complex trading strategies without human oversight
-- Manage DeFi positions automatically
+- Manage [DeFi](/what-is-defi) positions automatically
 - Provide liquidity and capture arbitrage
 - Operate validators and validators
-- Manage smart contract upgrades and governance
+- Manage [smart contract](/what-are-smart-contracts) upgrades and governance
 
 These agents will have human-set parameters but will operate autonomously within those bounds.
 
@@ -102,7 +102,7 @@ Web3 creates specific opportunities for autonomous agents.
 
 **Smart contract constraints**: Agents can operate within smart contracts that enforce rules. An agent can't violate the smart contract constraints, even if exploited.
 
-**Decentralized governance**: DAOs can govern AI agents. Agent parameters can be set by community voting. This distributes authority and prevents single-point-of-failure control.
+**Decentralized governance**: [DAOs](/what-is-a-dao) can govern AI agents. Agent parameters can be set by community voting. This distributes authority and prevents single-point-of-failure control.
 
 **Programmable incentives**: Blockchain allows programming incentives directly. Agents can be incentivized to behave well through tokenomics.
 
@@ -116,9 +116,9 @@ Several use cases show the potential.
 
 **Algorithmic trading agents**: Execute trading strategies based on market conditions. Identify arbitrage opportunities across DEXs and exchanges. Manage risk automatically.
 
-**Liquidity provision agents**: Automatically provide liquidity to DEX pools. Manage position sizing and rebalancing. Capture fees while managing impermanent loss.
+**Liquidity provision agents**: Automatically provide liquidity to [DEX](/what-is-a-decentralized-exchange-dex) pools. Manage position sizing and rebalancing. Capture fees while managing impermanent loss.
 
-**Yield farming agents**: Farm yields across DeFi protocols. Move capital to best opportunities. Manage risk and exit positions.
+**[Yield farming](/what-is-yield-farming) agents**: Farm yields across DeFi protocols. Move capital to best opportunities. Manage risk and exit positions.
 
 **Bridge operators**: Autonomously operate bridges between blockchains. Execute cross-chain transactions. Manage liquidity.
 
@@ -154,7 +154,7 @@ If you're interested in building AI agents for Web3, here are relevant skills.
 
 **AI/ML engineering**: Training and deploying ML models, understanding neural networks, working with LLMs.
 
-**Solidity and smart contracts**: Understanding how to interact with blockchain from agent code.
+**[Solidity](/best-programming-languages-for-blockchain-development) and smart contracts**: Understanding how to interact with blockchain from agent code.
 
 **Blockchain understanding**: Understanding blockchain mechanics, transaction structure, gas, MEV.
 
@@ -209,55 +209,3 @@ Web3 creates unique opportunities for autonomous agents because of blockchain's 
 However, autonomous agents also create risks. Alignment, concentration of power, market stability, and security are genuine concerns. Building autonomous agent systems requires careful attention to these issues.
 
 For builders and researchers interested in Web3 and AI, the intersection is fascinating and high-opportunity. The systems being built now will shape whether autonomous agents become beneficial or problematic for society.
-## Related Articles
-
-- [10 Big Ideas In Web3 For 2025](10-big-ideas-in-web3-for-2025)
-- [10 Dos And Donts For Web3 Resume](10-dos-and-donts-for-web3-resume)
-- [10 Essential Skills For Web3](10-essential-skills-for-web3)
-- [A Complete Guide To Balaji Srinivasan On Web3](a-complete-guide-to-balaji-srinivasan-on-web3)
-- [A Complete Guide To Chris Dixon On Web3](a-complete-guide-to-chris-dixon-on-web3)
-- [A Complete Guide To Gary Vaynerchuk On Web3](a-complete-guide-to-gary-vaynerchuk-on-web3)
-- [A Complete Guide To Jack Dorsey On Web3](a-complete-guide-to-jack-dorsey-on-web3)
-- [A Complete Guide To Mark Zuckerberg On Web3](a-complete-guide-to-mark-zuckerberg-on-web3)
-- [A Complete Guide To Naval Ravikant On Web3](a-complete-guide-to-naval-ravikant-on-web3)
-- [A Complete Guide To Sbf On Web3](a-complete-guide-to-sbf-on-web3)
-- [A Complete Guide To Snoop Dogg On Web3](a-complete-guide-to-snoop-dogg-on-web3)
-- [A Complete Guide To Tim Draper On Web3](a-complete-guide-to-tim-draper-on-web3)
-- [A Complete Guide To Vitalik Buterin On Web3](a-complete-guide-to-vitalik-buterin-on-web3)
-- [A Day In The Life Of A Defi Quant](a-day-in-the-life-of-a-defi-quant)
-- [A Deep Dive Into Rollups For Ethereum Scaling](a-deep-dive-into-rollups-for-ethereum-scaling)
-- [A Fairer Way To Make Collective Decisions](a-fairer-way-to-make-collective-decisions)
-- [A Guide To Verifiable Credentials In Decentralized Identity](a-guide-to-verifiable-credentials-in-decentralized-identity)
-- [Account Abstraction Explained](account-abstraction-explained)
-- [Additive Manufacturing Complete Guide](additive-manufacturing-complete-guide)
-- [Agency Vs In House Job Differences](agency-vs-in-house-job-differences)
-- [Ai Accountability Governance Models](ai-accountability-governance-models)
-- [Ai And Web3 Engineering Careers](ai-and-web3-engineering-careers)
-- [Ai And Web3 Hybrid Careers](ai-and-web3-hybrid-careers)
-- [Ai Bias And Fairness Explained](ai-bias-and-fairness-explained)
-- [Ai Career Opportunities And Salaries](ai-career-opportunities-and-salaries)
-- [Ai Driven Agency From Automation To Autonomy](ai-driven-agency-from-automation-to-autonomy)
-- [Ai Ethics And Responsible Ai Guide](ai-ethics-and-responsible-ai-guide)
-- [Ai For Freelancers Complete Guide](ai-for-freelancers-complete-guide)
-- [Ai Resume Builder Best Practices Guide](ai-resume-builder-best-practices-guide)
-- [Ai Vs Human Intelligence Complete Comparison](ai-vs-human-intelligence-complete-comparison)
-- [An Introduction To Foundry The Modern Solidity Toolkit](an-introduction-to-foundry-the-modern-solidity-toolkit)
-- [Answering Why Web3 Crafting Your Personal Narrative For Interviews](answering-why-web3-crafting-your-personal-narrative-for-interviews)
-- [Arbitrage Opportunities In Defi Markets](arbitrage-opportunities-in-defi-markets)
-- [Argentina Web3 Marketing Landscape](argentina-web3-marketing-landscape)
-- [Asking Smart Questions As New Employee](asking-smart-questions-as-new-employee)
-- [Avalanche Blockchain Platform And Its Unique Features](avalanche-blockchain-platform-and-its-unique-features)
-- [Battery Technology Advances Explained](battery-technology-advances-explained)
-- [Becoming A Web3 Decentralized Storage Expert](becoming-a-web3-decentralized-storage-expert)
-- [Becoming A Web3 Digital Content Monetization Specialist](becoming-a-web3-digital-content-monetization-specialist)
-- [Becoming A Web3 Technical Writer](becoming-a-web3-technical-writer)
-- [Best Ai Courses For Beginners Online](best-ai-courses-for-beginners-online)
-- [Best Ai Writing Tools For Students](best-ai-writing-tools-for-students)
-- [Best Cities For Remote Workers](best-cities-for-remote-workers)
-- [Best Programming Languages For Ai](best-programming-languages-for-ai)
-- [Best Programming Languages For Blockchain Development](best-programming-languages-for-blockchain-development)
-- [Best Web3 Job Boards For Crypto Careers](best-web3-job-boards-for-crypto-careers)
-- [Best Web3 Jobs For Non Developers](best-web3-jobs-for-non-developers)
-- [Beyond The Code](beyond-the-code)
-- [Bitcoin Genesis Block Day](bitcoin-genesis-block-day)
-- [Bitcoin Pizza Day](bitcoin-pizza-day)

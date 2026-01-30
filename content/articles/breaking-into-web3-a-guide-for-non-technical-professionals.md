@@ -11,7 +11,7 @@ data-ai-hint: "career path"
 
 
 
-Web3 creates opportunity for many roles beyond smart contract development. If you have a traditional business, marketing, operations, or financial background, there's a place for you in Web3. The industry needs people who understand how to build products, market services, manage operations, and navigate regulations.
+[Web3](/what-is-web3) creates opportunity for many roles beyond [smart contract](/what-are-smart-contracts) development. If you have a traditional business, marketing, operations, or financial background, there's a place for you in Web3. The industry needs people who understand how to build products, market services, manage operations, and navigate regulations.
 
 This guide is for non-technical professionals considering a move into Web3. It explores the career paths available and practical steps to break in.
 
@@ -39,7 +39,7 @@ Many Web3 companies struggle with these non-technical roles because they grew as
 
 Here are the main non-technical career paths in Web3.
 
-**Product managers** define what products do and drive development. In Web3, product managers often come from traditional tech but learn blockchain specifics on the job. Understanding your users and their needs is more important than deep technical knowledge.
+**Product managers** define what products do and drive development. In Web3, product managers often come from traditional tech but learn [blockchain](/what-is-a-blockchain) specifics on the job. Understanding your users and their needs is more important than deep technical knowledge.
 
 Typical qualifications: 3+ years product experience, ability to learn quickly, comfort with new technology, strong communication.
 
@@ -88,9 +88,9 @@ If you're a non-technical professional interested in Web3, here's a concrete roa
 **Step 1: Build foundational knowledge**
 
 You don't need to understand every detail of blockchain technology, but you should understand basics:
-- What Bitcoin is and how it works (conceptually)
-- What Ethereum is and smart contracts
-- What DeFi, NFTs, and DAOs are at a high level
+- What [Bitcoin](/what-is-bitcoin) is and how it works (conceptually)
+- What [Ethereum](/what-is-ethereum) is and smart contracts
+- What [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao) are at a high level
 - Basic cryptocurrency economics
 
 Resources:
@@ -133,7 +133,7 @@ Start building credibility in the space. This can mean:
 - **Writing about Web3**: Start a blog or newsletter about Web3 topics
 - **Building projects**: Even non-technical contributions count. Help organize events, write content, manage communities
 - **Getting certified**: Some organizations offer certifications in blockchain and cryptocurrency (not all are valuable, but some are respected)
-- **Freelancing**: Platforms like Upwork, Fiverr, and crypto-specific platforms have short-term projects. These build experience and portfolio
+- **Freelancing**: Platforms like Upwork, Fiverr, and crypto-specific platforms have short-term projects. These build experience and [portfolio](/building-web3-portfolio)
 
 This is where you differentiate yourself. Hiring managers in Web3 value demonstrated commitment and understanding more than traditional credentials.
 
@@ -141,7 +141,7 @@ This is where you differentiate yourself. Hiring managers in Web3 value demonstr
 
 Once you have foundational knowledge and some demonstrated involvement, start applying for roles.
 
-Good job boards for Web3 jobs:
+Good job boards for [Web3 jobs](/web3-jobs-for-beginners):
 - Hashtag Web3 (this site)
 - AngelList Talent
 - LinkedIn (filtering for crypto companies)
@@ -150,7 +150,7 @@ Good job boards for Web3 jobs:
 - Discord job boards in major crypto communities
 
 When applying:
-- Tailor your resume to Web3. Mention any Web3 projects you've worked on or contributed to
+- Tailor your [resume](/how-to-build-a-web3-resume-that-stands-out) to Web3. Mention any Web3 projects you've worked on or contributed to
 - Show that you understand the space. Reference specific projects or problems you're interested in solving
 - Explain why you're interested in Web3, not just that you want a high salary
 - Be honest about experience. If you don't have direct Web3 experience, be clear but emphasize transferable skills
@@ -209,7 +209,7 @@ Despite challenges, breaking into Web3 as a non-technical professional can be re
 
 **Impact** can be meaningful. Early employees significantly influence company direction and culture. You're not just executing someone else's plan.
 
-**Compensation** is often better than traditional equivalents, especially with token upside.
+**Compensation** is often better than traditional equivalents, especially with [token](/what-is-a-token) upside.
 
 **Network** in Web3 is valuable. Connections you build in Web3 create opportunities throughout your career.
 

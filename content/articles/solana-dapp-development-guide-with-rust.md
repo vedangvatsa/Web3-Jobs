@@ -13,20 +13,20 @@ data-ai-hint: "blockchain code"
 
 ## Solana dApp Development Guide with Rust and Anchor
 
-Solana has captured the attention of the blockchain world with its promise of high-speed, low-cost transactions. For developers, this opens up a new frontier for building decentralized applications (dApps) that require performance beyond what is possible on many other networks. While Solana development can be done in C and C++, the most popular and well-supported language is **Rust**, primarily through the **Anchor framework**.
+Solana has captured the attention of the [blockchain](/what-is-a-blockchain) world with its promise of high-speed, low-cost transactions. For developers, this opens up a new frontier for building decentralized applications (dApps) that require performance beyond what is possible on many other networks. While Solana development can be done in C and C++, the most popular and well-supported language is **Rust**, primarily through the **Anchor framework**.
 
 This guide will walk you through the core concepts and steps required to build your first dApp on Solana using Rust and Anchor. It is intended for developers who have some familiarity with programming concepts and a basic understanding of blockchain technology.
 
 ### Why Rust and Anchor?
 
-*   **Rust**: Solana's core protocol is written in Rust, and it is the officially supported language for writing on-chain programs. Rust is a systems-level language known for its performance and, most importantly, its memory safety guarantees. The Rust compiler enforces strict ownership and borrowing rules at compile time, which prevents a whole class of common bugs like null pointer dereferences and data races. This focus on safety is incredibly valuable when writing smart contracts that will manage real financial assets.
+*   **Rust**: Solana's core protocol is written in Rust, and it is the officially supported language for writing on-chain programs. Rust is a systems-level language known for its performance and, most importantly, its memory safety guarantees. The Rust compiler enforces strict ownership and borrowing rules at compile time, which prevents a whole class of common bugs like null pointer dereferences and data races. This focus on safety is incredibly valuable when writing [smart contracts](/what-are-smart-contracts) that will manage real financial assets.
 *   **Anchor**: Anchor is a framework that makes building Solana programs dramatically easier. It abstracts away much of the boilerplate and complexity involved in raw Solana development. It provides a domain-specific language (DSL) in Rust, an Interface Definition Language (IDL) for generating client-side code, and a command-line interface (CLI) for managing your workspace. In short, Anchor is to Solana what Ruby on Rails or Django is to web development.
 
 ### Core Concepts of Solana Development
 
-Before we start building, it's crucial to understand Solana's unique account model, which is different from account-based blockchains like Ethereum.
+Before we start building, it's crucial to understand Solana's unique account model, which is different from account-based blockchains like [Ethereum](/what-is-ethereum).
 
-*   **Everything is an Account**: In Solana, there are no separate concepts of "storage" and "accounts." Everything is an "account." A smart contract is an account marked as "executable." The data that a smart contract uses is stored in separate data accounts. Even a user's wallet is an account.
+*   **Everything is an Account**: In Solana, there are no separate concepts of "storage" and "accounts." Everything is an "account." A smart contract is an account marked as "executable." The data that a smart contract uses is stored in separate data accounts. Even a user's [wallet](/how-to-choose-a-crypto-wallet) is an account.
 *   **Programs are Stateless**: The smart contract code itself (the "program") is stateless. It does not store any data. All data is stored in separate accounts that are passed into the program as arguments during a transaction. This is a key difference from Ethereum, where a contract can have its own internal state variables.
 *   **Ownership**: Every account on Solana has an "owner." By default, your wallet owns your wallet account. When you create a data account to be used by a program, you must assign ownership of that data account to the program. Only the owner of an account can modify its data.
 *   **Rent**: To prevent the blockchain from being filled with unused data forever, accounts on Solana must pay "rent." You can either pay rent periodically or deposit a minimum balance (currently equivalent to about two years' worth of rent) to make the account "rent-exempt." Most of the time, you will want to make your accounts rent-exempt.
@@ -141,7 +141,7 @@ describe("my-counter-dapp", () => {
   const program = anchor.workspace.MyCounterDapp as Program<MyCounterDapp>;
 
   // Create a keypair for our counter account
-  const counterAccount = anchor.web3.Keypair.generate();
+  const counterAccount = anchor.[web3](/what-is-web3).Keypair.generate();
 
   it("Is initialized!", async () => {
     // Call the initialize function
@@ -201,8 +201,8 @@ You have just built, tested, and deployed your first Solana dApp! While this is 
 From here, you can explore more complex topics:
 
 *   **Cross-Program Invocations (CPI)**: Calling other programs from within your program.
-*   **Program Derived Addresses (PDAs)**: Creating accounts that are "owned" by your program, which is essential for many DeFi applications.
-*   **Token Management**: Interacting with SPL tokens using the `anchor-spl` crate.
+*   **Program Derived Addresses (PDAs)**: Creating accounts that are "owned" by your program, which is essential for many [DeFi](/what-is-defi) applications.
+*   **[Token](/what-is-a-token) Management**: Interacting with SPL tokens using the `anchor-spl` crate.
 
 The Solana ecosystem is evolving rapidly, and tools like Anchor are making it more accessible than ever. By mastering these concepts, you'll be well on your way to building the next generation of high-performance decentralized applications.
 
@@ -245,7 +245,7 @@ Understanding and managing your emotions, and reading others, determines your ef
 
 ### Months 4-6: Specialization
 - Go deeper in your strongest areas
-- Build portfolio pieces that showcase skills
+- Build [portfolio](/building-web3-portfolio) pieces that showcase skills
 - Share knowledge with others (teaching cements learning)
 - Refine based on your specific career goals
 
@@ -329,12 +329,3 @@ A: Absolutely. In fact, they're even more critical in Web3 due to distributed te
 - Emotional intelligence is your hidden advantage
 
 The most successful professionals in Web3 and beyond aren't always the most technically brilliant-they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.
-
-## Related Articles
-
-- Career advancement strategies
-- Professional development framework
-- Leadership development
-- Web3-specific career paths
-- How to get mentorship
-

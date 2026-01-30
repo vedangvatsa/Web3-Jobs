@@ -11,15 +11,15 @@ category: "Educational"
 
 
 
-A **token swap** is the process of exchanging one cryptocurrency for another in a peer-to-peer fashion, without needing to go through a centralized exchange. This is one of the most fundamental and common activities in Decentralized Finance (DeFi) and is the primary function of a Decentralized Exchange (DEX). The ability to swap tokens trustlessly is a core building block of the entire Web3 economy.
+A **[token](/what-is-a-token) swap** is the process of exchanging one cryptocurrency for another in a peer-to-peer fashion, without needing to go through a centralized exchange. This is one of the most fundamental and common activities in Decentralized Finance ([DeFi](/what-is-defi)) and is the primary function of a [Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX). The ability to swap tokens trustlessly is a core building block of the entire [Web3](/what-is-web3) economy.
 
 ### Token Swaps in Web2 vs. Web3
 
 To understand the innovation, it's helpful to compare it to the traditional way of trading assets.
 
--   **Traditional Model (Centralized Exchange):** If you want to trade Apple stock for Google stock, you go through a centralized brokerage like Fidelity or Robinhood. You trust them to hold your assets and execute the trade on your behalf. In crypto, this is equivalent to using a centralized exchange like Coinbase. You deposit your ETH and BTC, and the exchange's internal ledger matches your trade. You are trusting the exchange.
+-   **Traditional Model (Centralized Exchange):** If you want to trade Apple stock for Google stock, you go through a centralized brokerage like Fidelity or Robinhood. You trust them to hold your assets and execute the trade on your behalf. In crypto, this is equivalent to using a centralized exchange like Coinbase. You deposit your [ETH](/what-is-ethereum) and [BTC](/what-is-bitcoin), and the exchange's internal ledger matches your trade. You are trusting the exchange.
 
--   **Web3 Model (Decentralized Exchange):** If you want to swap ETH for a stablecoin like USDC, you can use a DEX like Uniswap. You interact directly with a smart contract from your own self-custodial wallet (like MetaMask). The swap happens "atomically"-in a single, indivisible transaction. You never give up custody of your funds to a third party.
+-   **Web3 Model (Decentralized Exchange):** If you want to swap ETH for a stablecoin like USDC, you can use a DEX like Uniswap. You interact directly with a [smart contract](/what-are-smart-contracts) from your own self-custodial [wallet](/how-to-choose-a-crypto-wallet) (like MetaMask). The swap happens "atomically"-in a single, indivisible transaction. You never give up custody of your funds to a third party.
 
 ### How Do Token Swaps Work on a DEX?
 
@@ -36,13 +36,13 @@ The entire process is automated by the smart contract. It's permissionless, tran
 
 ### Atomic Swaps: Cross-Chain Swaps
 
-The term "token swap" usually refers to swapping tokens on the *same* blockchain (e.g., two ERC-20 tokens on Ethereum). A more advanced concept is the **atomic swap**, which allows for the exchange of two different cryptocurrencies on two *different* blockchains (e.g., swapping Bitcoin for Litecoin) without a trusted intermediary.
+The term "token swap" usually refers to swapping tokens on the *same* [blockchain](/what-is-a-blockchain) (e.g., two ERC-20 tokens on Ethereum). A more advanced concept is the **atomic swap**, which allows for the exchange of two different cryptocurrencies on two *different* blockchains (e.g., swapping Bitcoin for Litecoin) without a trusted intermediary.
 
 Atomic swaps are more complex and typically use a mechanism called Hashed Timelock Contracts (HTLCs) to ensure that the swap is "atomic"-either both parties successfully complete their side of the trade, or the whole thing is aborted and both get their original funds back.
 
 ### Why Token Swaps Matter
 
-Token swaps are the lifeblood of DeFi. They provide the liquidity and interoperability that allows the ecosystem to function. They enable users to seamlessly move between different assets, speculate on new projects, and participate in complex yield farming strategies. The ability to swap any token for any other token in a permissionless and decentralized way is a fundamental primitive that unlocks a world of financial innovation.
+Token swaps are the lifeblood of DeFi. They provide the liquidity and interoperability that allows the ecosystem to function. They enable users to seamlessly move between different assets, speculate on new projects, and participate in complex [yield farming](/what-is-yield-farming) strategies. The ability to swap any token for any other token in a permissionless and decentralized way is a fundamental primitive that unlocks a world of financial innovation.
 
 ## The Web3 Opportunity
 
@@ -50,7 +50,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -67,7 +67,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- DeFi, [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
