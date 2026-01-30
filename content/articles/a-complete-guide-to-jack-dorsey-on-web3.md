@@ -10,7 +10,7 @@ data-ai-hint: "man walking"
 
 ## Introduction: The Bitcoin Zealot
 
-Jack Dorsey, the co-founder and former CEO of Twitter (now X) and the founder and CEO of Block (formerly Square), is one of the most prominent and uncompromising figures in the Web3 discourse. However, his vision is starkly different from that of many of his Silicon Valley peers. Dorsey is a staunch **Bitcoin maximalist**, believing that Bitcoin is the only cryptocurrency that matters and the only true path to a decentralized future.
+Jack Dorsey, the co-founder and former CEO of Twitter (now X) and the founder and CEO of Block (formerly Square), is one of the most prominent and uncompromising figures in the [Web3](/what-is-web3) discourse. However, his vision is starkly different from that of many of his Silicon Valley peers. Dorsey is a staunch **[Bitcoin](/what-is-bitcoin) maximalist**, believing that Bitcoin is the only cryptocurrency that matters and the only true path to a decentralized future.
 
 This guide delves into Jack Dorsey's philosophy, exploring his fervent support for Bitcoin, his pointed critiques of the broader "Web3" ecosystem and its venture capital backers, and his efforts to build a new, decentralized internet standard on top of Bitcoin.
 
@@ -22,13 +22,13 @@ His journey into crypto appears to be a natural extension of this work. He sees 
 
 ## Core Thesis: Bitcoin is the Only "Web3"
 
-Unlike venture capitalists like Chris Dixon who see "Web3" as a broad ecosystem of technologies including Ethereum, NFTs, and DeFi, Jack Dorsey has a much more narrow and critical view. For him, Bitcoin *is* Web3.
+Unlike venture capitalists like Chris Dixon who see "Web3" as a broad ecosystem of technologies including [Ethereum](/what-is-ethereum), [NFTs](/what-are-nfts), and [DeFi](/what-is-defi), Jack Dorsey has a much more narrow and critical view. For him, Bitcoin *is* Web3.
 
 He argues that most of what is being called "Web3" is not truly decentralized. He believes it is a collection of centralized, venture capital-owned technologies that are simply masquerading as decentralized.
 
 ### Critiques of "Web3":
 
-1.  **Venture Capital (VC) Control:** Dorsey's primary critique is that the "Web3" ecosystem is controlled by venture capital firms, particularly Andreessen Horowitz (a16z). He famously tweeted, "You don't own 'web3.' The VCs and their LPs do. It will never escape their incentives." He believes that because VCs are major equity holders in the companies building "Web3" infrastructure and hold large amounts of their tokens, these networks are not truly decentralized and will ultimately serve the interests of their financial backers, not the users.
+1.  **Venture Capital (VC) Control:** Dorsey's primary critique is that the "Web3" ecosystem is controlled by venture capital firms, particularly Andreessen Horowitz (a16z). He famously tweeted, "You don't own 'web3.' The VCs and their LPs do. It will never escape their incentives." He believes that because VCs are major equity holders in the companies building "Web3" infrastructure and hold large amounts of their [tokens](/what-is-a-token), these networks are not truly decentralized and will ultimately serve the interests of their financial backers, not the users.
 
 2.  **A Different Boss:** In his view, "Web3" is not a new paradigm but simply a rebranding of the old one. Instead of being controlled by companies like Facebook and Google, it's controlled by VCs. Users are still subject to the whims of a centralized group, just a different one.
 
@@ -43,7 +43,7 @@ In place of the VC-backed "Web3," Dorsey advocates for a truly decentralized int
 Dorsey believes that the internet needs a native currency-a global money standard that is not beholden to any single country or corporation. He sees Bitcoin as the only viable candidate for this role due to its:
 
 *   **Immaculate Conception:** Bitcoin had no pre-mine, no ICO, and its founder, Satoshi Nakamoto, is anonymous and gone. This makes it a neutral and fair starting point, unlike many other tokens where insiders received large allocations.
-*   **True Decentralization:** It has the most decentralized and powerful mining network, making it the most secure blockchain. No single entity can control or censor it.
+*   **True Decentralization:** It has the most decentralized and powerful mining network, making it the most secure [blockchain](/what-is-a-blockchain). No single entity can control or censor it.
 *   **Simplicity and Stability:** The Bitcoin protocol is simple, robust, and changes very slowly. This makes it a stable and predictable foundation to build on.
 
 ### 2. "Web5": A Decentralized Identity and Data Layer on Bitcoin
@@ -80,55 +80,3 @@ A4: No. Bitcoin was created by the anonymous Satoshi Nakamoto. Jack Dorsey is th
 
 **Q5: Why did Jack Dorsey change Square's name to Block?**
 A5: The name change from Square to Block in December 2021 was intended to signal the company's growing focus on technologies like blockchain. The company now has several business units, including Square (for merchants), Cash App, Tidal, and TBD (which focuses on Bitcoin).
-## Related Articles
-
-- [10 Big Ideas In Web3 For 2025](10-big-ideas-in-web3-for-2025)
-- [10 Dos And Donts For Web3 Resume](10-dos-and-donts-for-web3-resume)
-- [10 Essential Skills For Web3](10-essential-skills-for-web3)
-- [A Complete Guide To Balaji Srinivasan On Web3](a-complete-guide-to-balaji-srinivasan-on-web3)
-- [A Complete Guide To Chris Dixon On Web3](a-complete-guide-to-chris-dixon-on-web3)
-- [A Complete Guide To Gary Vaynerchuk On Web3](a-complete-guide-to-gary-vaynerchuk-on-web3)
-- [A Complete Guide To Jack Dorsey On Web3](a-complete-guide-to-jack-dorsey-on-web3)
-- [A Complete Guide To Mark Zuckerberg On Web3](a-complete-guide-to-mark-zuckerberg-on-web3)
-- [A Complete Guide To Naval Ravikant On Web3](a-complete-guide-to-naval-ravikant-on-web3)
-- [A Complete Guide To Sbf On Web3](a-complete-guide-to-sbf-on-web3)
-- [A Complete Guide To Snoop Dogg On Web3](a-complete-guide-to-snoop-dogg-on-web3)
-- [A Complete Guide To Tim Draper On Web3](a-complete-guide-to-tim-draper-on-web3)
-- [A Complete Guide To Vitalik Buterin On Web3](a-complete-guide-to-vitalik-buterin-on-web3)
-- [A Day In The Life Of A Defi Quant](a-day-in-the-life-of-a-defi-quant)
-- [A Deep Dive Into Rollups For Ethereum Scaling](a-deep-dive-into-rollups-for-ethereum-scaling)
-- [A Fairer Way To Make Collective Decisions](a-fairer-way-to-make-collective-decisions)
-- [A Guide To Verifiable Credentials In Decentralized Identity](a-guide-to-verifiable-credentials-in-decentralized-identity)
-- [Account Abstraction Explained](account-abstraction-explained)
-- [Additive Manufacturing Complete Guide](additive-manufacturing-complete-guide)
-- [Agency Vs In House Job Differences](agency-vs-in-house-job-differences)
-- [Ai Accountability Governance Models](ai-accountability-governance-models)
-- [Ai And Web3 Engineering Careers](ai-and-web3-engineering-careers)
-- [Ai And Web3 Hybrid Careers](ai-and-web3-hybrid-careers)
-- [Ai Bias And Fairness Explained](ai-bias-and-fairness-explained)
-- [Ai Career Opportunities And Salaries](ai-career-opportunities-and-salaries)
-- [Ai Driven Agency From Automation To Autonomy](ai-driven-agency-from-automation-to-autonomy)
-- [Ai Ethics And Responsible Ai Guide](ai-ethics-and-responsible-ai-guide)
-- [Ai For Freelancers Complete Guide](ai-for-freelancers-complete-guide)
-- [Ai Resume Builder Best Practices Guide](ai-resume-builder-best-practices-guide)
-- [Ai Vs Human Intelligence Complete Comparison](ai-vs-human-intelligence-complete-comparison)
-- [An Introduction To Foundry The Modern Solidity Toolkit](an-introduction-to-foundry-the-modern-solidity-toolkit)
-- [Answering Why Web3 Crafting Your Personal Narrative For Interviews](answering-why-web3-crafting-your-personal-narrative-for-interviews)
-- [Arbitrage Opportunities In Defi Markets](arbitrage-opportunities-in-defi-markets)
-- [Argentina Web3 Marketing Landscape](argentina-web3-marketing-landscape)
-- [Asking Smart Questions As New Employee](asking-smart-questions-as-new-employee)
-- [Avalanche Blockchain Platform And Its Unique Features](avalanche-blockchain-platform-and-its-unique-features)
-- [Battery Technology Advances Explained](battery-technology-advances-explained)
-- [Becoming A Web3 Decentralized Storage Expert](becoming-a-web3-decentralized-storage-expert)
-- [Becoming A Web3 Digital Content Monetization Specialist](becoming-a-web3-digital-content-monetization-specialist)
-- [Becoming A Web3 Technical Writer](becoming-a-web3-technical-writer)
-- [Best Ai Courses For Beginners Online](best-ai-courses-for-beginners-online)
-- [Best Ai Writing Tools For Students](best-ai-writing-tools-for-students)
-- [Best Cities For Remote Workers](best-cities-for-remote-workers)
-- [Best Programming Languages For Ai](best-programming-languages-for-ai)
-- [Best Programming Languages For Blockchain Development](best-programming-languages-for-blockchain-development)
-- [Best Web3 Job Boards For Crypto Careers](best-web3-job-boards-for-crypto-careers)
-- [Best Web3 Jobs For Non Developers](best-web3-jobs-for-non-developers)
-- [Beyond The Code](beyond-the-code)
-- [Bitcoin Genesis Block Day](bitcoin-genesis-block-day)
-- [Bitcoin Pizza Day](bitcoin-pizza-day)

@@ -10,7 +10,7 @@ category: "Educational"
 ---
 
 
-A cryptocurrency exchange is an online platform that acts as a marketplace for buying, selling, and trading digital currencies. For most people, it's the first and most important bridge between the traditional financial system (fiat currencies like USD or EUR) and the new world of Web3. Think of it as a stock exchange, but for assets like Bitcoin, Ethereum, and thousands of other tokens.
+A cryptocurrency exchange is an online platform that acts as a marketplace for buying, selling, and trading digital currencies. For most people, it's the first and most important bridge between the traditional financial system (fiat currencies like USD or EUR) and the new world of [Web3](/what-is-web3). Think of it as a stock exchange, but for assets like [Bitcoin](/what-is-bitcoin), [Ethereum](/what-is-ethereum), and thousands of other [tokens](/what-is-a-token).
 
 These platforms are the backbone of the crypto economy, providing the liquidity and accessibility needed for the market to function. This article explains what exchanges are, how they work, and the key differences between the major types you'll encounter.
 
@@ -31,7 +31,7 @@ There are two main categories of exchanges, and understanding the difference is 
 
 A centralized exchange is a traditional company that operates a private, off-chain platform for trading.
 
-- **How they work:** When you deposit funds onto a CEX (like Coinbase, Binance, or Kraken), you are trusting that company to hold your assets for you. They manage the wallets and the private keys. The trading that happens on their platform is not recorded on the blockchain in real-time; it's happening on their internal, private database.
+- **How they work:** When you deposit funds onto a CEX (like Coinbase, Binance, or Kraken), you are trusting that company to hold your assets for you. They manage the wallets and the private keys. The trading that happens on their platform is not recorded on the [blockchain](/what-is-a-blockchain) in real-time; it's happening on their internal, private database.
 - **Pros:**
   - **User-Friendly:** They offer a simple, familiar experience with features like password recovery and customer support.
   - **High Liquidity and Speed:** Their centralized nature allows for very fast trading and deep liquidity.
@@ -42,7 +42,7 @@ A centralized exchange is a traditional company that operates a private, off-cha
 
 #### 2. Decentralized Exchanges (DEXs)
 
-A decentralized exchange is not a company; it's a protocol built on smart contracts that runs directly on a blockchain.
+A [decentralized exchange](/what-is-a-decentralized-exchange-dex) is not a company; it's a protocol built on [smart contracts](/what-are-smart-contracts) that runs directly on a blockchain.
 
 - **How they work:** DEXs like Uniswap or dYdX use an "Automated Market Maker" (AMM) system. Users trade directly from their own non-custodial wallets (like MetaMask) by interacting with pools of tokens held in a smart contract. You never give up custody of your assets.
 - **Pros:**
@@ -50,7 +50,7 @@ A decentralized exchange is not a company; it's a protocol built on smart contra
   - **Permissionless:** Anyone can trade any token without needing permission.
   - **Transparency:** All trades are public transactions on the blockchain.
 - **Cons:**
-  - **More Complex UX:** Using a DEX requires a higher level of technical understanding (managing your own wallet, understanding gas fees).
+  - **More Complex UX:** Using a DEX requires a higher level of technical understanding (managing your own [wallet](/how-to-choose-a-crypto-wallet), understanding gas fees).
   - **Gas Fees:** Every trade is an on-chain transaction that costs a gas fee.
 
 ### Practical Insights for Users
@@ -67,7 +67,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -84,7 +84,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

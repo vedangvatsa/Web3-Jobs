@@ -11,7 +11,7 @@ data-ai-hint: "dao explained"
 
 
 
-A DAO is a Decentralized Autonomous Organization. It's an organization that runs on a [blockchain](/what-is-a-blockchain) instead of having a traditional management structure. Instead of a CEO making decisions, a DAO's decisions get made through votes by token holders.
+A DAO is a Decentralized Autonomous Organization. It's an organization that runs on a [blockchain](/what-is-a-blockchain) instead of having a traditional management structure. Instead of a CEO making decisions, a DAO's decisions get made through votes by [token](/what-is-a-token) holders.
 
 The concept seems strange if you're thinking about traditional organizations. How could a group of strangers on the internet, many of whom have never met, manage a company together? How do you make decisions without a boss? How do you prevent fraud or mismanagement?
 
@@ -28,12 +28,12 @@ Start with a simple example. Imagine you and some friends want to invest in real
 
 This costs money and time and requires ongoing legal maintenance.
 
-With a DAO, you create a smart contract that represents ownership. Each person deposits money and receives tokens proportional to their contribution. These tokens represent voting power. When a decision comes up-like which property to buy-everyone votes. If the majority votes yes, the smart contract automatically executes the purchase.
+With a DAO, you create a [smart contract](/what-are-smart-contracts) that represents ownership. Each person deposits money and receives tokens proportional to their contribution. These tokens represent voting power. When a decision comes up-like which property to buy-everyone votes. If the majority votes yes, the smart contract automatically executes the purchase.
 
 No lawyer needed. No bank needed. No CEO making unilateral decisions. The code handles everything automatically.
 
 **Real-World Examples:**
-- **Uniswap:** A decentralized exchange governed by token holders who vote on fee changes and new features
+- **Uniswap:** A [decentralized exchange](/what-is-a-decentralized-exchange-dex) governed by token holders who vote on fee changes and new features
 - **MakerDAO:** Creates a stablecoin and uses voting to manage its stability mechanisms
 - **Curve:** Manages a decentralized trading platform with governance token voting
 - **Aave:** Manages a lending protocol with thousands of governance decisions made by token holders
@@ -112,7 +112,7 @@ DAOs have serious limitations that most discussions gloss over.
 
 **Governance Complexity:** Complex decisions don't benefit from majority voting. Should a software project integrate protocol X or protocol Y? This requires technical judgment and deep expertise. A vote by token holders-many of whom may be pure investors with no technical background-might produce worse outcomes than an expert making the decision.
 
-**Irreversibility:** Once the blockchain records a transaction, it's permanent. If a DAO votes to make a bad decision, and the decision gets executed, getting your money back requires another vote and consensus to undo it. This is intentional (immutability = security), but it means DAO decisions have permanence that traditional corporate decisions don't.
+**Irreversibility:** Once the [blockchain](/what-is-a-blockchain) records a transaction, it's permanent. If a DAO votes to make a bad decision, and the decision gets executed, getting your money back requires another vote and consensus to undo it. This is intentional (immutability = security), but it means DAO decisions have permanence that traditional corporate decisions don't.
 
 **Technical Risk:** Smart contracts can have bugs. A single coding error can cost millions of dollars (and has, repeatedly-the DAO hack in 2016 lost $50 million). Users of DAOs bear this technical risk because blockchain transactions are permanent.
 
@@ -139,7 +139,7 @@ The most interesting DAOs aren't fully decentralized-they're hybrid structures w
 
 ## Career Opportunities in DAOs
 
-If you're evaluating a Web3 career, understanding DAOs opens doors.
+If you're evaluating a [Web3](/what-is-web3) career, understanding DAOs opens doors.
 
 **For Developers:**
 - Building voting systems and governance mechanisms

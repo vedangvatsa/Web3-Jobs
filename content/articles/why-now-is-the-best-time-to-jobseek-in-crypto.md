@@ -11,9 +11,9 @@ category: "Career Guides"
 
 
 
-The crypto market is in a downturn. Prices are down, the hype has faded, and headlines are filled with stories of gloom and doom. For those on the outside, it might seem like the worst possible time to look for a job in Web3. But for those with a long-term perspective, the opposite is true. A bear market, or "crypto winter," is, without a doubt, the absolute best time to find a high-quality, sustainable, and impactful job in the crypto industry.
+The crypto market is in a downturn. Prices are down, the hype has faded, and headlines are filled with stories of gloom and doom. For those on the outside, it might seem like the worst possible time to look for a job in [Web3](/what-is-web3). But for those with a long-term perspective, the opposite is true. A bear market, or "crypto winter," is, without a doubt, the absolute best time to find a high-quality, sustainable, and impactful job in the crypto industry.
 
-While the bull market is a frenzy of easy money and frantic hiring, the bear market is a period of cleansing and consolidation. It's when the tourists go home, the noise dies down, and the real builders get to work. This guide will explain why a market downturn is a golden opportunity for serious job seekers and how you can leverage it to launch or accelerate your Web3 career.
+While the bull market is a frenzy of easy money and frantic hiring, the bear market is a period of cleansing and consolidation. It's when the tourists go home, the noise dies down, and the real builders get to work. This guide will explain why a market downturn is a golden opportunity for serious job seekers and how you can leverage it to launch or accelerate your [Web3 career](/web3-jobs-for-beginners).
 
 ### 1. The Signal-to-Noise Ratio is at an All-Time High
 
@@ -42,8 +42,8 @@ Hiring in a bull market is often reactive and frantic. Teams are desperate to sc
 
 With the distraction of daily price swings and market hype removed, a bear market is the perfect time to go deep on learning and building.
 
--   **Focus on Fundamentals:** You have the mental space to ignore the noise and focus on learning the core technology. This is the time to read the whitepapers, learn a new programming language, or master a new analytics tool.
--   **Build Your Portfolio:** This is the time to build your public "proof of work."
+-   **Focus on Fundamentals:** You have the mental space to ignore the noise and focus on learning the core technology. This is the time to read the whitepapers, learn a new [programming language](/best-programming-languages-for-blockchain-development), or master a new analytics tool.
+-   **Build Your [Portfolio](/building-web3-portfolio):** This is the time to build your public "proof of work."
     -   *For developers:* Contribute to an open-source project or build a new dApp.
     -   *For non-technical professionals:* Start a blog and write in-depth analyses of the projects you admire.
 -   Your commitment to building and learning during the "hard times" is a powerful signal to future employers. It proves you are here for the technology, not the temporary market conditions.
@@ -87,21 +87,21 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

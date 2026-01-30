@@ -15,7 +15,7 @@ In the fast-paced and hype-driven world of crypto, you will often hear the term 
 
 **What does it mean?**
 
-"Shilling" is the act of enthusiastically and often disingenuously promoting a specific cryptocurrency or NFT project to create hype and drive up its price. A person who does this is called a "shill."
+"Shilling" is the act of enthusiastically and often disingenuously promoting a specific cryptocurrency or [NFT](/what-are-nfts) project to create hype and drive up its price. A person who does this is called a "shill."
 
 The term comes from the traditional concept of a "shill" in a casino or at a carnival-a person who is secretly in on the con and pretends to be an enthusiastic customer to lure in real, unsuspecting customers.
 
@@ -26,7 +26,7 @@ The term comes from the traditional concept of a "shill" in a casino or at a car
     -   Post overly positive, low-substance tweets about a project (e.g., "Big news coming for $XYZ coin! 🚀 #WAGMI").
     -   Spam other people's comment sections with information about their chosen project.
     -   Make unrealistic price predictions.
-    -   Often, influencers with large followings are paid by projects to shill their token, frequently without disclosing that it is a paid promotion.
+    -   Often, influencers with large followings are paid by projects to shill their [token](/what-is-a-token), frequently without disclosing that it is a paid promotion.
 
 **How to Spot a Shill**
 
@@ -41,7 +41,7 @@ Being able to identify shilling is a critical part of [Doing Your Own Research (
 
 No. There is a fine line between genuine enthusiasm for a project you believe in and disingenuous shilling. A person who writes a detailed, well-researched analysis of a project, including both its strengths and weaknesses, is not a shill. A person who tweets rocket emojis and vague promises of "100x gains" probably is.
 
-In the decentralized and often anonymous world of Web3, it's essential to be skeptical. Treat every promotion with a healthy dose of caution and always do your own research before investing.
+In the decentralized and often anonymous world of [Web3](/what-is-web3), it's essential to be skeptical. Treat every promotion with a healthy dose of caution and always do your own research before investing.
 
 ## The Web3 Opportunity
 
@@ -49,7 +49,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -62,16 +62,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), NFTs, and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -107,7 +107,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

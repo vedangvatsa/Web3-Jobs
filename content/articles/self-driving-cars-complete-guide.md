@@ -60,7 +60,7 @@ Autonomous vehicles are built with redundancy. They have multiple types of senso
 
 An emerging intersection is creating significant opportunities: **Decentralized Physical Infrastructure (DePIN)** and autonomous vehicles.
 
-Autonomous vehicles generate massive amounts of data: sensor readings, maps, vehicle telemetry. Currently, this data flows to centralized companies. A blockchain-based approach could:
+Autonomous vehicles generate massive amounts of data: sensor readings, maps, vehicle telemetry. Currently, this data flows to centralized companies. A [blockchain](/what-is-a-blockchain)-based approach could:
 - **Distribute incentives:** Reward vehicle owners for sharing sensor data
 - **Enable peer-to-peer navigation:** Autonomous vehicles sharing route optimization peer-to-peer
 - **Decentralize infrastructure:** Distributed HD map networks (e.g., DIMO, Hivecell)
@@ -83,7 +83,7 @@ Companies like **DIMO** (Decentralized Infrastructure for Mobility Operations) a
 
 **Months 1-6: Dual Expertise Build**
 - Master: Automotive engineering fundamentals (CAN bus, AUTOSAR)
-- Learn: blockchain, smart contracts, decentralized networks
+- Learn: blockchain, [smart contracts](/what-are-smart-contracts), decentralized networks
 - Build: 2-3 projects combining automotive + blockchain
 - Network: 20+ automotive blockchain engineers
 - Study: DIMO, Hivecell, other DePIN mobility projects
@@ -113,7 +113,7 @@ Companies like **DIMO** (Decentralized Infrastructure for Mobility Operations) a
 
 **Months 1-5: Mobility + Blockchain Learning**
 - Study: DIMO ecosystem, connected car APIs
-- Learn: Web3 UX for automotive, incentive design
+- Learn: [Web3](/what-is-web3) UX for automotive, incentive design
 - Build: 2-3 mobility dApps (data sharing, incentive apps, map sharing)
 - Network: 20+ mobility DePIN developers
 - **Deliverable:** Apps, expertise
@@ -204,7 +204,7 @@ Companies like **DIMO** (Decentralized Infrastructure for Mobility Operations) a
 
 **Week 1-2:**
 - [ ] Choose path (protocol, app, or hardware)
-- [ ] Set up GitHub, Twitter, Discord
+- [ ] Set up [GitHub](/building-web3-portfolio), Twitter, Discord
 - [ ] Assess existing expertise (automotive or blockchain)
 - [ ] Enroll in Alchemy University (free blockchain basics)
 
@@ -227,7 +227,7 @@ Companies like **DIMO** (Decentralized Infrastructure for Mobility Operations) a
 - [ ] Publish: technical deep-dive
 
 **Week 9-10:**
-- [ ] Land 1st freelance/consulting (DePIN or automotive)
+- [ ] Land 1st [freelance](/how-to-start-freelancing-for-beginners)/consulting (DePIN or automotive)
 - [ ] Twitter: 1,000+ followers in DePIN community
 - [ ] Apply: dream roles at DIMO, Hivecell, etc.
 
@@ -282,19 +282,11 @@ A: Yes. Start with DePIN bounties, grants. Build to full-time.
 - GitHub: automotive blockchain open-source projects
 
 ### Job Boards
-- Our Web3 Job Board (/jobs) (DePIN section)
+- Our [Web3 Job](/web3-jobs-for-beginners) Board (/jobs) (DePIN section)
 - AngelList: DePIN startups
 - DIMO and other mobility DePIN company job boards
 
 ### Related Career Guides
-- Smart Contract Developer Guide
+- [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) Guide
 - Full-Stack Web3 Developer Path
 - DePIN Infrastructure Engineer Career
-
-## Related Articles
-
-- [Web3 Jobs in Algiers: A Guide to Algeria's Tech Awakening](web3-jobs-in-algiers)
-- [Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene](web3-jobs-in-libreville)
-- [Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene](web3-jobs-in-luanda)
-- [How to Ask Smart Questions as a New Employee](asking-smart-questions-as-new-employee)
-- [Web3 Jobs in Lagos: A Guide to West Africa's Tech Megacity](web3-jobs-in-lagos)

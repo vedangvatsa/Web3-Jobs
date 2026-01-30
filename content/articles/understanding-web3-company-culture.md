@@ -10,14 +10,14 @@ category: 'Industry Insights'
 
 
 
-Working in Web3 is unlike working in any other industry. The technology is not the only thing that's different; the culture itself is a unique blend of open-source ethos, financial markets, and internet-native communities. Companies (and DAOs) in this space operate with a set of values and norms that can be jarring to those coming from traditional tech or corporate environments. Understanding this culture is not just a "nice to have"-it's essential for thriving in a Web3 career. This guide explores the defining characteristics of Web3 company culture, from its obsession with transparency and meritocracy to its remote-first, async-native way of working. We'll look at what to expect, how to adapt, and what kind of mindset succeeds in this fast-paced, chaotic, and incredibly exciting environment.
+Working in [Web3](/what-is-web3) is unlike working in any other industry. The technology is not the only thing that's different; the culture itself is a unique blend of open-source ethos, financial markets, and internet-native communities. Companies (and [DAOs](/what-is-a-dao)) in this space operate with a set of values and norms that can be jarring to those coming from traditional tech or corporate environments. Understanding this culture is not just a "nice to have"-it's essential for thriving in a [Web3 career](/web3-jobs-for-beginners). This guide explores the defining characteristics of Web3 company culture, from its obsession with transparency and meritocracy to its remote-first, async-native way of working. We'll look at what to expect, how to adapt, and what kind of mindset succeeds in this fast-paced, chaotic, and incredibly exciting environment.
 
 ## Core Trait 1: Radical Transparency
 
-The concept of "default to open" is a cornerstone of Web3 culture, stemming from the transparent nature of the blockchain itself. This value often permeates the entire organization.
+The concept of "default to open" is a cornerstone of Web3 culture, stemming from the transparent nature of the [blockchain](/what-is-a-blockchain) itself. This value often permeates the entire organization.
 
 - **Open Metrics:** Many Web3 companies have public dashboards (often on Dune Analytics) that track key metrics in real-time. Everything from daily active users to protocol revenue is visible to the entire world, including competitors.
-- **Public Roadmaps & Governance:** Major strategic decisions are often discussed openly in community forums and Discord channels before being voted on by token holders. Your work and the company's direction are subject to public scrutiny.
+- **Public Roadmaps & Governance:** Major strategic decisions are often discussed openly in community forums and Discord channels before being voted on by [token](/what-is-a-token) holders. Your work and the company's direction are subject to public scrutiny.
 - **On-Chain Salaries:** In many DAOs, contributor payments are made on-chain and are publicly visible. This level of transparency can be shocking but fosters a sense of fairness.
 
 > What this means for you: You must be comfortable with your work being public and open to feedback from a wide range of stakeholders, not just your direct manager.
@@ -41,7 +41,7 @@ The concept of ownership is central to Web3, not just for users, but for builder
 
 Web3 culture is heavily influenced by early internet and open-source communities, where what you do matters more than who you are.
 
-- **Reputation Over Resume:** Your on-chain history, GitHub contributions, and public content are often more important than the name of your university or previous employer.
+- **Reputation Over [Resume](/how-to-build-a-web3-resume-that-stands-out):** Your on-chain history, [GitHub](/building-web3-portfolio) contributions, and public content are often more important than the name of your university or previous employer.
 - **Pseudonymity is Common:** You may work with colleagues who are known only by their pseudonymous online identity (e.g., @satoshi). This forces a focus on the quality of work and ideas, rather than on personal biases.
 
 > This can be a double-edged sword. While it fosters meritocracy, it can also make building deep personal connections more challenging.
@@ -79,13 +79,13 @@ The Web3 job market has fundamentally different dynamics than Web2:
 Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

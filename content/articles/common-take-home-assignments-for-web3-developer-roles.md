@@ -11,9 +11,9 @@ category: "Career Guides"
 
 
 
-You've passed the initial screening call for a Web3 developer role. What's next? In most cases, it's the **take-home assignment**. This is a critical step in the interview process where a company assesses your practical coding skills, your attention to detail, and your ability to work independently.
+You've passed the initial screening call for a [Web3](/what-is-web3) [developer role](/entry-level-jobs-in-web3). What's next? In most cases, it's the **take-home assignment**. This is a critical step in the [interview](/how-to-prepare-for-job-interview) process where a company assesses your practical coding skills, your attention to detail, and your ability to work independently.
 
-Unlike abstract algorithm problems, a Web3 take-home assignment is designed to simulate the kind of work you would actually do in the role. Nailing this assignment is often the key to moving on to the final round. This guide covers the most common types of take-home projects you can expect for smart contract and full-stack Web3 roles.
+Unlike abstract algorithm problems, a Web3 take-home assignment is designed to simulate the kind of work you would actually do in the role. Nailing this assignment is often the key to moving on to the final round. This guide covers the most common types of take-home projects you can expect for [smart contract](/what-are-smart-contracts) and full-stack Web3 roles.
 
 ### Why Do Companies Use Take-Home Assignments?
 
@@ -25,16 +25,16 @@ Unlike abstract algorithm problems, a Web3 take-home assignment is designed to s
 
 ### Common Smart Contract Developer Assignments
 
-These assignments focus on your Solidity and EVM knowledge.
+These assignments focus on your [Solidity](/best-programming-languages-for-blockchain-development) and EVM knowledge.
 
-1.  **Build a Staking Contract:**
-    *   **The Task:** Create a contract where users can deposit an ERC-20 token and earn rewards in that same token over time.
-    *   **What it Tests:** Your understanding of basic DeFi primitives, token interactions (ERC-20), and state management.
+1.  **Build a [Staking](/how-to-become-a-web3-staking-specialist) Contract:**
+    *   **The Task:** Create a contract where users can deposit an ERC-20 [token](/what-is-a-token) and earn rewards in that same token over time.
+    *   **What it Tests:** Your understanding of basic [DeFi](/what-is-defi) primitives, token interactions (ERC-20), and state management.
     *   **To Go Above and Beyond:** Implement a variable reward rate or add a feature to compound rewards. Write extensive tests covering deposits, withdrawals, and reward calculation logic.
 
 2.  **Build a Simple On-Chain Auction:**
-    *   **The Task:** Write a contract to auction an NFT. This could be an English auction (price goes up) or a Dutch auction (price goes down).
-    *   **What it Tests:** Your ability to manage time-based logic, handle bids from multiple users, and securely transfer both ETH and an NFT.
+    *   **The Task:** Write a contract to auction an [NFT](/what-are-nfts). This could be an English auction (price goes up) or a Dutch auction (price goes down).
+    *   **What it Tests:** Your ability to manage time-based logic, handle bids from multiple users, and securely transfer both [ETH](/what-is-ethereum) and an NFT.
     *   **To Go Above and Beyond:** Implement gas optimizations and add protection against common vulnerabilities like reentrancy.
 
 3.  **Find the Vulnerability:**
@@ -46,9 +46,9 @@ These assignments focus on your Solidity and EVM knowledge.
 
 These assignments test your ability to connect a frontend to smart contracts.
 
-1.  **Build a "Wallet Dashboard" Frontend:**
+1.  **Build a "[Wallet](/how-to-choose-a-crypto-wallet) Dashboard" Frontend:**
     *   **The Task:** Create a simple React/Next.js application that allows a user to connect their wallet. The app should then display their ETH balance and their balance of a few major ERC-20 tokens (like USDC and WETH).
-    *   **What it Tests:** Your proficiency with frontend frameworks and your ability to use a library like Ethers.js or Viem to read data from the blockchain.
+    *   **What it Tests:** Your proficiency with frontend frameworks and your ability to use a library like Ethers.js or Viem to read data from the [blockchain](/what-is-a-blockchain).
     *   **To Go Above and Beyond:** Add features like a transaction history viewer or a simple interface for sending ETH. Ensure the UI is clean, responsive, and handles different wallet connection states gracefully (e.g., loading, error, wrong network).
 
 2.  **Build an Interface for an Existing Protocol:**

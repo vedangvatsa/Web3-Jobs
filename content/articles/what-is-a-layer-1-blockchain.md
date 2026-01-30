@@ -11,7 +11,7 @@ category: "Technology Deep Dives"
 
 
 
-In the Web3 ecosystem, you'll frequently hear the terms "Layer 1" and "Layer 2." Understanding this distinction is fundamental to understanding how blockchains scale and evolve. A Layer 1 (L1) blockchain is the main, foundational network in a decentralized ecosystem. It is the underlying infrastructure that everything else is built on top of.
+In the [Web3](/what-is-web3) ecosystem, you'll frequently hear the terms "Layer 1" and "Layer 2." Understanding this distinction is fundamental to understanding how blockchains scale and evolve. A Layer 1 (L1) [blockchain](/what-is-a-blockchain) is the main, foundational network in a decentralized ecosystem. It is the underlying infrastructure that everything else is built on top of.
 
 Think of it like this: if the Web3 world is a city, the Layer 1 is the ground, the main roads, and the core utility grid (power, water). It is the base layer that determines the city's fundamental rules, security, and economic policy.
 
@@ -19,11 +19,11 @@ Think of it like this: if the Web3 world is a city, the Layer 1 is the ground, t
 
 An L1 blockchain has several defining properties that distinguish it from other systems.
 
-**Sovereign Security** is foundational. An L1 is responsible for its own security. It has its own consensus mechanism (like Proof-of-Work or Proof-of-Stake) and its own set of validators or miners who process transactions and secure the network. Nobody else secures it. This is different from Layer 2 systems, which inherit security from the Layer 1 they settle to.
+**Sovereign Security** is foundational. An L1 is responsible for its own security. It has its own consensus mechanism (like Proof-of-Work or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist)) and its own set of validators or miners who process transactions and secure the network. Nobody else secures it. This is different from Layer 2 systems, which inherit security from the Layer 1 they settle to.
 
 **The Ultimate Source of Truth** is another key characteristic. The L1 blockchain is the ultimate arbiter of the state of the network. When two people claim to have sent the same money, the L1 says who actually owns it. It provides the final settlement for all transactions that happen within its ecosystem.
 
-**A Native Token** enables the L1 to function. Every Layer 1 has its own native token that is used to pay for transaction fees (gas) and to reward the participants who secure the network. For Bitcoin, this is BTC. For Ethereum, this is ETH. For Solana, this is SOL.
+**A Native [Token](/what-is-a-token)** enables the L1 to function. Every Layer 1 has its own native token that is used to pay for transaction fees (gas) and to reward the participants who secure the network. For [Bitcoin](/what-is-bitcoin), this is BTC. For [Ethereum](/what-is-ethereum), this is ETH. For Solana, this is SOL.
 
 **The Blockchain Trilemma** plays out at the L1 level. L1s constantly balance trade-offs between three core properties: Decentralization (having a large, globally distributed set of validators), Security (being resistant to attack), and Scalability (being able to process a high volume of transactions quickly and cheaply). Most L1s excel at two of these but make trade-offs on the third.
 
@@ -31,9 +31,9 @@ An L1 blockchain has several defining properties that distinguish it from other 
 
 Different L1s make different trade-off decisions.
 
-**Bitcoin** was the first Layer 1. It prioritizes security and decentralization above all else. It's backed by more computing power than any other blockchain. It's run by tens of thousands of nodes worldwide. It has very limited scalability and smart contract capabilities. Its primary purpose is to be a secure, decentralized store of value. If you want to store large amounts of wealth long-term, Bitcoin is the most trusted option in crypto.
+**Bitcoin** was the first Layer 1. It prioritizes security and decentralization above all else. It's backed by more computing power than any other blockchain. It's run by tens of thousands of nodes worldwide. It has very limited scalability and [smart contract](/what-are-smart-contracts) capabilities. Its primary purpose is to be a secure, decentralized store of value. If you want to store large amounts of wealth long-term, Bitcoin is the most trusted option in crypto.
 
-**Ethereum** is the dominant smart contract platform. It is a highly secure and decentralized L1 that serves as the foundation for the vast majority of DeFi, NFT, and DAO activity. However, it historically faced significant scalability challenges, leading to high gas fees during congestion. The introduction of Layer 2 scaling solutions has addressed this for most users.
+**Ethereum** is the dominant smart contract platform. It is a highly secure and decentralized L1 that serves as the foundation for the vast majority of [DeFi](/what-is-defi), [NFT](/what-are-nfts), and [DAO](/what-is-a-dao) activity. However, it historically faced significant scalability challenges, leading to high gas fees during congestion. The introduction of Layer 2 scaling solutions has addressed this for most users.
 
 **Solana** is an L1 designed for high performance and scalability from the ground up. It uses a novel consensus mechanism called Proof-of-History that allows it to process thousands of transactions per second. This speed comes with trade-offs in decentralization and uptime compared to Ethereum.
 
@@ -83,7 +83,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -105,7 +105,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

@@ -10,32 +10,32 @@ category: 'Getting Started'
 
 
 
-In the Web3 world, your portfolio is more than just a collection of past work-it's your proof of competence, passion, and understanding. Unlike the traditional tech industry, where resumes and credentials often take center stage, Web3 is a "show, don't tell" culture. Hiring managers want to see what you've actually built, contributed to, and interacted with on-chain. A well-crafted portfolio is the single most important asset for anyone looking to [land a job in this space](/how-to-land-first-web3-job), whether you're a developer, designer, or community builder. This guide provides a practical framework for building a standout Web3 portfolio, with specific project ideas tailored to different roles and skill levels. We'll cover what to build, how to present it, and how to leverage your on-chain activity as a living resume.
+In the [Web3](/what-is-web3) world, your portfolio is more than just a collection of past work-it's your proof of competence, passion, and understanding. Unlike the traditional tech industry, where resumes and credentials often take center stage, Web3 is a "show, don't tell" culture. Hiring managers want to see what you've actually built, contributed to, and interacted with on-chain. A well-crafted portfolio is the single most important asset for anyone looking to [land a job in this space](/how-to-land-first-web3-job), whether you're a developer, designer, or community builder. This guide provides a practical framework for building a standout Web3 portfolio, with specific project ideas tailored to different roles and skill levels. We'll cover what to build, how to present it, and how to leverage your on-chain activity as a living [resume](/how-to-build-a-web3-resume-that-stands-out).
 
 ## The Three Pillars of a Web3 Portfolio
 
 A powerful Web3 portfolio rests on three key pillars. You should aim to have something to show for each.
 
 1.  **Your GitHub: The Code** - For technical roles, this is your bedrock. It showcases your coding skills, your understanding of Web3 principles, and your ability to ship projects. It should be active and well-organized.
-2.  **Your On-Chain Identity: The Activity** - Your public wallet address (ideally an ENS name like "yourname.eth") is a transparent record of your journey. It shows which protocols you've used, which [DAOs](/what-is-a-dao) you've voted in, and which NFTs you've collected.
+2.  **Your On-Chain Identity: The Activity** - Your public [wallet](/how-to-choose-a-crypto-wallet) address (ideally an ENS name like "yourname.[eth](/what-is-ethereum)") is a transparent record of your journey. It shows which protocols you've used, which [DAOs](/what-is-a-dao) you've voted in, and which [NFTs](/what-are-nfts) you've collected.
 3.  **Your Public Content: The Expertise** - This is your proof of knowledge. It includes blog posts, Twitter threads, Dune dashboards, or any other content that demonstrates your expertise and ability to communicate complex ideas.
 
 ## Portfolio Projects for Smart Contract Developers
 
-Your goal is to demonstrate a deep understanding of Solidity, security best practices, and the EVM. Don't just build clones; try to add a unique twist or solve a new problem.
+Your goal is to demonstrate a deep understanding of [Solidity](/best-programming-languages-for-blockchain-development), security best practices, and the EVM. Don't just build clones; try to add a unique twist or solve a new problem.
 
 ### Beginner Projects:
--   Multi-Sig Wallet: A wallet that requires multiple signatures to approve a transaction. This is a foundational DeFi primitive.
+-   Multi-Sig Wallet: A wallet that requires multiple signatures to approve a transaction. This is a foundational [DeFi](/what-is-defi) primitive.
 -   Simple Dutch Auction: An auction where the price starts high and decreases over time. This demonstrates your ability to handle time-based logic.
--   Verifiable Lottery: A smart contract for a lottery system where the winner is chosen in a provably random and fair way.
+-   Verifiable Lottery: A [smart contract](/what-are-smart-contracts) for a lottery system where the winner is chosen in a provably random and fair way.
 
 ### Intermediate Projects:
 -   ERC-721 [NFT Collection](/what-are-nfts): Create your own NFT collection with unique minting mechanics (e.g., allowlist, bonding curve).
--   On-Chain Governance System: Build a basic DAO where token holders can create and vote on proposals.
--   Decentralized Staking Protocol: A contract where users can stake one token to earn rewards in another.
+-   On-Chain Governance System: Build a basic [DAO](/what-is-a-dao) where [token](/what-is-a-token) holders can create and vote on proposals.
+-   Decentralized [Staking](/how-to-become-a-web3-staking-specialist) Protocol: A contract where users can stake one token to earn rewards in another.
 
 ### Advanced Projects:
--   Basic AMM / DEX: Build a simplified version of Uniswap V2. This is a complex project that demonstrates a deep understanding of DeFi.
+-   Basic AMM / [DEX](/what-is-a-decentralized-exchange-dex): Build a simplified version of Uniswap V2. This is a complex project that demonstrates a deep understanding of DeFi.
 -   Yield Farming Strategy: Write a contract that automatically moves funds between different lending protocols to maximize yield.
 -   Contribute to an Open-Source Protocol: Find a major protocol on GitHub and submit a meaningful pull request. This is one of the strongest signals you can send.
 

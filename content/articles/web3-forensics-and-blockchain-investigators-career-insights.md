@@ -11,15 +11,15 @@ category: "Career Guides"
 
 
 
-In the transparent yet pseudonymous world of the blockchain, a new kind of digital detective has emerged: the **Web3 Forensics Expert**, or **On-Chain Investigator**. These are the analysts who trace the flow of illicit funds, unmask hackers, and bring a new level of accountability to the decentralized economy.
+In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new kind of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, or **On-Chain Investigator**. These are the analysts who trace the flow of illicit funds, unmask hackers, and bring a new level of accountability to the decentralized economy.
 
 As the value of assets on public blockchains has grown, so too have the exploits and hacks. On-chain forensics is a critical field that helps victims recover funds, provides data for law enforcement, and helps secure the ecosystem by analyzing the methods of attackers. It's a career that combines the skills of a data scientist, a cybersecurity analyst, and a financial detective.
 
 ## What Does a Blockchain Investigator Do?
 
-The core of the job is to follow the money. When a DeFi protocol is hacked or funds are stolen, an on-chain investigator is brought in to trace the stolen assets.
+The core of the job is to follow the money. When a [DeFi](/what-is-defi) protocol is hacked or funds are stolen, an on-chain investigator is brought in to trace the stolen assets.
 
-**Transaction Tailing:** Using block explorers and advanced analytics tools, the investigator follows the stolen funds as they move from wallet to wallet across the blockchain. Every transaction is immutably recorded, creating a permanent trail.
+**Transaction Tailing:** Using block explorers and advanced analytics tools, the investigator follows the stolen funds as they move from [wallet](/how-to-choose-a-crypto-wallet) to wallet across the blockchain. Every transaction is immutably recorded, creating a permanent trail.
 
 **De-anonymization:** The investigator looks for clues that can link a pseudonymous blockchain address to a real-world identity. A key technique is looking for "touchpoints" with centralized exchanges, which are required to perform Know Your Customer (KYC) on their users. If a hacker sends even a small amount of stolen funds to an account on a centralized exchange, they risk revealing their identity.
 
@@ -37,20 +37,20 @@ The core of the job is to follow the money. When a DeFi protocol is hacked or fu
 
 **Data Analysis Skills:** Knowledge of SQL for querying databases and Python for more complex data analysis is often required. Many investigations involve processing massive datasets of transaction history.
 
-**Blockchain Knowledge:** Deep understanding of blockchain architecture, smart contracts, and transaction mechanics. You need to understand DEX mechanisms, bridge protocols, and liquidity pool designs to trace complex fund flows.
+**Blockchain Knowledge:** Deep understanding of blockchain architecture, [smart contracts](/what-are-smart-contracts), and transaction mechanics. You need to understand [DEX](/what-is-a-decentralized-exchange-dex) mechanisms, bridge protocols, and liquidity pool designs to trace complex fund flows.
 
 **OSINT Skills:** Open Source Intelligence gathering-finding public information about addresses, wallets, and potentially the humans behind them. This might involve analyzing Twitter posts, blockchain addresses in news articles, or other public traces.
 
 ## How to Get Started in Blockchain Forensics
 
 **Step 1: Master On-Chain Fundamentals**
-You must have a deep understanding of how blockchains and transactions work. Start with Ethereum and Bitcoin, then learn about other major blockchains. Understand smart contracts, gas mechanics, and transaction structure.
+You must have a deep understanding of how blockchains and transactions work. Start with [Ethereum](/what-is-ethereum) and [Bitcoin](/what-is-bitcoin), then learn about other major blockchains. Understand smart contracts, gas mechanics, and transaction structure.
 
 **Step 2: Study Public Cases**
 When a major hack occurs, it is often analyzed publicly on Twitter by well-known on-chain investigators. Follow experts like @bantg, @0xfoobar, and other forensics specialists. Study their methods and try to replicate their analysis independently.
 
 **Step 3: Practice with Block Explorers**
-Start simple: trace a transaction through various wallets. As you get comfortable, pick a recent, smaller-scale hack and create a public report tracing the funds. Your public "proof of work" is your best resume.
+Start simple: trace a transaction through various wallets. As you get comfortable, pick a recent, smaller-scale hack and create a public report tracing the funds. Your public "proof of work" is your best [resume](/how-to-build-a-web3-resume-that-stands-out).
 
 **Step 4: Learn SQL and Python**
 Most forensics work involves querying blockchain data. Take courses in SQL and Python to prepare for the data analysis aspects of the job.
@@ -58,7 +58,7 @@ Most forensics work involves querying blockchain data. Take courses in SQL and P
 **Step 5: Get Certified**
 Certifications like the **Certified Cryptocurrency Investigator (CCI)** by the Blockchain Intelligence Group can be valuable credentials. These demonstrate formal training and knowledge.
 
-**Step 6: Build a Public Portfolio**
+**Step 6: Build a Public [Portfolio](/building-web3-portfolio)**
 Create a blog or maintain a Twitter/X account where you publish your own on-chain investigations. Document your findings clearly. This public proof of work is highly valuable to potential employers.
 
 **Step 7: Consider Formal Education**
@@ -82,7 +82,7 @@ Some universities now offer courses in blockchain forensics and Web3 security. A
 
 Blockchain forensics is a high-demand field. Organizations working on compliance, security, and law enforcement all need these skills. Compensation varies by role and location, but forensics specialists generally earn competitive salaries comparable to or exceeding similar cybersecurity roles.
 
-Remote work is common in this field, allowing forensics specialists to work for global companies. Demand has grown alongside the growth of DeFi hacks and regulatory pressure on crypto organizations.
+[Remote work](/remote-work-in-web3) is common in this field, allowing forensics specialists to work for global companies. Demand has grown alongside the growth of DeFi hacks and regulatory pressure on crypto organizations.
 
 ## Skills That Make You Valuable
 
@@ -114,7 +114,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 

@@ -11,7 +11,7 @@ category: "Industry Insights"
 
 
 
-While much of the Web3 conversation is dominated by finance and NFTs, a powerful and growing movement is using blockchain technology for a different purpose: funding public goods and creating positive social impact. This is the world of **Public Goods DAOs**.
+While much of the [Web3](/what-is-web3) conversation is dominated by finance and [NFTs](/what-are-nfts), a powerful and growing movement is using [blockchain](/what-is-a-blockchain) technology for a different purpose: funding public goods and creating positive social impact. This is the world of **Public Goods [DAOs](/what-is-a-dao)**.
 
 A "public good" is something that is non-excludable and non-rivalrous-meaning anyone can use it, and one person's use doesn't diminish its availability to others. Clean air, open-source software, and scientific research are all classic examples. Historically, public goods have been underfunded because there's no direct profit motive to create them. Public Goods DAOs are a new model designed to solve this problem.
 
@@ -21,7 +21,7 @@ A Public Goods DAO is a collective organization that raises and distributes fund
 
 ### How Do They Work? The Gitcoin Model
 
-The most famous and successful example of a Public Goods DAO is **Gitcoin**. Gitcoin's primary mission is to fund the open-source software and infrastructure that the entire Ethereum ecosystem relies on.
+The most famous and successful example of a Public Goods DAO is **Gitcoin**. Gitcoin's primary mission is to fund the open-source software and infrastructure that the entire [Ethereum](/what-is-ethereum) ecosystem relies on.
 
 Gitcoin is famous for pioneering the use of **Quadratic Funding**.
 
@@ -61,7 +61,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -69,7 +69,7 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
@@ -77,13 +77,13 @@ The Web3 job market has fundamentally different dynamics than Web2:
 Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), NFTs, and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -119,7 +119,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

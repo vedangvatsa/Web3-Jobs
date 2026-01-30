@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-If you've chosen a career in Web3, you must be prepared for one of its defining characteristics: extreme volatility. The crypto markets move in violent cycles, with euphoric bull markets followed by brutal, drawn-out bear markets. During a bull run, it feels like the party will never end. Jobs are plentiful, salaries are high, and the value of your token compensation seems to go up every day.
+If you've chosen a career in [Web3](/what-is-web3), you must be prepared for one of its defining characteristics: extreme volatility. The crypto markets move in violent cycles, with euphoric bull markets followed by brutal, drawn-out bear markets. During a bull run, it feels like the party will never end. Jobs are plentiful, salaries are high, and the value of your [token](/what-is-a-token) compensation seems to go up every day.
 
 But then comes the "crypto winter." Prices can crash 80-90% from their highs. Projects that seemed invincible run out of money. Layoffs become common, and the public narrative shifts from "Web3 is the future" to "[Is Web3 Dead?](/is-web3-dead)". For those working in the industry, a bear market is the ultimate test of conviction and resilience. It can be a scary and demoralizing time, but it is also the period when the most important work gets done and the greatest opportunities for career growth emerge.
 
@@ -38,10 +38,10 @@ Before you can think about career growth, you must ensure your financial house i
 A bear market is a gift. The noise and distraction of the bull market fade away, leaving only the dedicated builders. This is the time to focus, learn, and position yourself for the next cycle.
 
 **1. Go Deep on Learning:**
--   **Read Everything:** The bear market is the time for study. Go back and read the foundational whitepapers. Go deep on a complex topic you've been meaning to learn, like the mechanics of a specific DeFi protocol or the cryptography behind ZK-proofs.
+-   **Read Everything:** The bear market is the time for study. Go back and read the foundational whitepapers. Go deep on a complex topic you've been meaning to learn, like the mechanics of a specific [DeFi](/what-is-defi) protocol or the cryptography behind ZK-proofs.
 -   **The Signal-to-Noise Ratio is High:** During a bear market, the "tourists" and scammers leave. The content being produced on Twitter and on podcasts is often much higher quality and more technically focused. This is the best time to learn from the real experts.
 
-**2. Build Your Portfolio:**
+**2. Build Your [Portfolio](/building-web3-portfolio):**
 -   **Ship Personal Projects:** You now have the time to work on that side project you've been thinking about. Building a new dApp, contributing to an open-source protocol, or creating a detailed Dune Analytics dashboard is the best way to hone your skills and build your "proof of work" portfolio.
 -   **A Strong GitHub is a Bear Market Asset:** A strong portfolio of public work on your GitHub will make you a prime candidate for the best jobs, which are still available at well-funded projects.
 
@@ -66,7 +66,7 @@ The cyclical nature of the crypto market is a feature, not a bug. Bear markets a
     </div>
     <div>
       <h3 className="text-xl font-bold text-primary mb-1">Find Your Bear Market Job</h3>
-      <p className="text-muted-foreground">The best companies are still hiring. Find opportunities with well-funded, long-term projects on the #1 Web3 job board.</p>
+      <p className="text-muted-foreground">The best companies are still hiring. Find opportunities with well-funded, long-term projects on the #1 [Web3 job](/web3-jobs-for-beginners) board.</p>
     </div>
     <a href="/jobs" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
       <Button size="lg">
@@ -95,16 +95,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- DeFi, [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

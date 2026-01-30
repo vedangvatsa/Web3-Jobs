@@ -21,7 +21,7 @@ This guide will walk you through a complete framework for stakeholder management
 
 ## Step 1: Identify Your Stakeholders
 
-The first step is to create a comprehensive list of everyone who has a stake in your project. It is crucial to think broadly at this stage, as overlooking a key stakeholder can have significant consequences later on. Stakeholders can be broken down into two main categories: internal and external.
+The first step is to create a comprehensive list of everyone who has a [stake](/how-to-become-a-web3-staking-specialist) in your project. It is crucial to think broadly at this stage, as overlooking a key stakeholder can have significant consequences later on. Stakeholders can be broken down into two main categories: internal and external.
 
 ### Internal Stakeholders
 

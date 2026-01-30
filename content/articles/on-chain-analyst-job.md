@@ -11,20 +11,20 @@ category: "Career Guides"
 
 
 
-In the transparent world of blockchains, every action, every transaction, and every interaction creates a permanent, public data point. This has given rise to a new and powerful discipline: **on-chain analysis**. And at the heart of this discipline is the **Web3 Data Analyst**, a role that is part data scientist, part archaeologist, and part detective.
+In the transparent world of blockchains, every action, every transaction, and every interaction creates a permanent, public data point. This has given rise to a new and powerful discipline: **on-chain analysis**. And at the heart of this discipline is the **[Web3](/what-is-web3) Data Analyst**, a role that is part data scientist, part archaeologist, and part detective.
 
 While traditional data analysts work with private, siloed company data, a Web3 analyst works with the open, shared databases of blockchains. They query this public data to uncover hidden trends, analyze user behavior, track protocol performance, and generate the insights that guide a project's strategy. It's one of the most intellectually stimulating and in-demand roles in the entire Web3 ecosystem.
 
-This guide provides a detailed overview of the on-chain analyst career path, covering the key responsibilities, the essential tools and skills, and how to build a portfolio to land a job.
+This guide provides a detailed overview of the on-chain analyst career path, covering the key responsibilities, the essential tools and skills, and how to build a [portfolio](/building-web3-portfolio) to land a job.
 
 ### What Does a Web3 Data Analyst Actually Do?
 
-A Web3 data analyst answers critical business and strategic questions by querying the blockchain directly. Their work is foundational to making data-driven decisions in a decentralized environment.
+A Web3 data analyst answers critical business and strategic questions by querying the [blockchain](/what-is-a-blockchain) directly. Their work is foundational to making data-driven decisions in a decentralized environment.
 
 **Common questions an analyst might tackle:**
 -   "What is our protocol's true user retention rate?"
--   "Which new NFT collections are gaining the most traction with 'smart money' wallets?"
--   "How did our latest feature launch impact trading volume on our DEX?"
+-   "Which new [NFT](/what-are-nfts) collections are gaining the most traction with 'smart money' wallets?"
+-   "How did our latest feature launch impact trading volume on our [DEX](/what-is-a-decentralized-exchange-dex)?"
 -   "What is the demographic profile of the users participating in our governance votes?"
 -   "Which competing protocols are gaining market share the fastest?"
 
@@ -37,7 +37,7 @@ You don't need a PhD in data science to get started. The key is to master the ri
 1.  **SQL (Structured Query Language):** This is the absolute bedrock skill. Platforms like Dune Analytics have created "decoded" databases where complex, raw blockchain data is organized into readable tables. SQL is the language you use to query these tables. A deep knowledge of SQL is non-negotiable for this role.
 2.  **Dune Analytics:** This is the primary platform for on-chain analysis. It's a community-driven tool that allows anyone to write SQL queries against data from dozens of blockchains. You can then use the results to build powerful, shareable dashboards. Creating high-quality Dune dashboards is the single best way to build a portfolio for this role.
 3.  **Python:** For more advanced or custom analysis, Python is the language of choice. With libraries like Pandas for data manipulation, Matplotlib for visualization, and Web3.py for interacting directly with blockchain nodes, Python provides a powerful toolkit for deep-dive research.
-4.  **Block Explorers (e.g., Etherscan):** An analyst must be an expert at using block explorers to dig into individual transactions, understand smart contract interactions, and trace the flow of funds between wallets.
+4.  **Block Explorers (e.g., Etherscan):** An analyst must be an expert at using block explorers to dig into individual transactions, understand [smart contract](/what-are-smart-contracts) interactions, and trace the flow of funds between wallets.
 
 ### The Analyst's Skillset: A Hybrid of Technical and Strategic
 
@@ -56,9 +56,9 @@ This role is incredibly accessible because you can build a world-class portfolio
 3.  **Master Dune Analytics:** Dune has a free tier. This is your playground.
     -   Start by forking (copying) existing queries from popular dashboards to understand how they work. Read the Dune documentation and tutorials.
     -   Learn from the best by studying the queries of renowned "Dune wizards."
-4.  **Build Your Portfolio of Dashboards:** This is your resume. Pick a protocol you find interesting and build a comprehensive dashboard that tracks its key metrics.
+4.  **Build Your Portfolio of Dashboards:** This is your [resume](/how-to-build-a-web3-resume-that-stands-out). Pick a protocol you find interesting and build a comprehensive dashboard that tracks its key metrics.
     -   *Good first project:* A dashboard for a new, up-and-coming NFT collection.
-    -   *Intermediate project:* A dashboard comparing the user growth of two competing DeFi protocols.
+    -   *Intermediate project:* A dashboard comparing the user growth of two competing [DeFi](/what-is-defi) protocols.
     -   *Advanced project:* An analysis of MEV (Maximal Extractable Value) activity on a specific DEX.
 5.  **Share Your Work Publicly:** This is how you get noticed. Tweet your dashboards and tag the projects you're analyzing. Write a blog post or a Twitter thread explaining the key insights from your analysis. The best on-chain analysts build a public reputation for their high-quality work, and projects often hire directly from the community of "Dune wizards."
 
@@ -139,12 +139,3 @@ A: Check the related articles section below for deeper dives into specific aspec
 - {Key point 5}
 
 The foundation for success in your career is built on mastering these fundamental skills and mindsets. Start with this article, implement the strategies, and watch your professional growth accelerate.
-
-## Related Articles
-
-- Career advancement strategies
-- Professional development goals framework
-- Building strong working relationships
-- Leadership development for technical professionals
-- Web3 career opportunities overview
-

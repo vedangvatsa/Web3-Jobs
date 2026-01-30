@@ -11,9 +11,9 @@ category: "Career Guides"
 
 
 
-Bangui, the capital of the Central African Republic (CAR), occupies a unique and complex position in the global Web3 narrative. In 2022, the country made international headlines by becoming the second nation in the world, after El Salvador, to adopt Bitcoin as legal tender and by launching its own "Sango" crypto initiative. This bold move placed the nation, and its capital, on the crypto map, but it has also been met with significant challenges, including low internet penetration, economic instability, and criticism from international bodies.
+Bangui, the capital of the Central African Republic (CAR), occupies a unique and complex position in the global [Web3](/what-is-web3) narrative. In 2022, the country made international headlines by becoming the second nation in the world, after El Salvador, to adopt [Bitcoin](/what-is-bitcoin) as legal tender and by launching its own "Sango" crypto initiative. This bold move placed the nation, and its capital, on the crypto map, but it has also been met with significant challenges, including low internet penetration, economic instability, and criticism from international bodies.
 
-For Web3 professionals, the situation in Bangui represents a true frontier environment. It is a market with immense long-term potential but also considerable short-term hurdles. The Web3 scene is nascent and driven by government-led initiatives rather than a grassroots community. This guide provides a realistic overview of the Web3 career landscape in Bangui, exploring the country's unique situation, the potential future opportunities, and the realities of working in this challenging market.
+For Web3 professionals, the situation in Bangui represents a true frontier environment. It is a market with immense long-term potential but also considerable short-term hurdles. The Web3 scene is nascent and driven by government-led initiatives rather than a grassroots community. This guide provides a realistic overview of the [Web3 career](/web3-jobs-for-beginners) landscape in Bangui, exploring the country's unique situation, the potential future opportunities, and the realities of working in this challenging market.
 
 ### The Bangui Web3 Landscape
 
@@ -30,9 +30,9 @@ The formal Web3 job market in Bangui is virtually non-existent for local talent 
 
 *   **International Consultants & Entrepreneurs:** The Sango project is primarily looking to attract experienced international Web3 professionals, entrepreneurs, and investors who are willing to navigate a high-risk, high-reward environment. Roles are typically project-based, advisory, or entrepreneurial.
 
-*   **Remote Work:** For local talent in the CAR, the most viable path to a Web3 career is to acquire development or community management skills and secure remote work with international companies, though this is challenging given the infrastructure limitations.
+*   **[Remote Work](/remote-work-in-web3):** For local talent in the CAR, the most viable path to a Web3 career is to acquire development or community management skills and secure remote work with international companies, though this is challenging given the infrastructure limitations.
 
-*   **NGO and Development Sector:** There are potential opportunities with international NGOs and development banks that may be exploring blockchain for use cases like transparent aid distribution or supply chain management in the country.
+*   **NGO and Development Sector:** There are potential opportunities with international NGOs and development banks that may be exploring [blockchain](/what-is-a-blockchain) for use cases like transparent aid distribution or supply chain management in the country.
 
 ### How to Build a Web3 Career in or related to Bangui
 
@@ -64,7 +64,7 @@ The lack of a formal job market means you'll need to be exceptionally proactive 
 
 The tokenization of diamonds, gold, and lithium creates opportunities in:
 - Supply chain engineering (designing transparent tracking systems)
-- Smart contract development for resource verification
+- [Smart contract](/what-are-smart-contracts) development for resource verification
 - Compliance and regulatory consulting
 
 ### Government Technology Services
@@ -80,7 +80,7 @@ The Sango project requires:
 Opportunities exist in building:
 - Mobile payment solutions that work on low-bandwidth networks
 - Stablecoin infrastructure for local commerce
-- Microfinance DeFi protocols suitable for the CAR context
+- Microfinance [DeFi](/what-is-defi) protocols suitable for the CAR context
 
 See also: **[Solana Developer Activity: Fundamental Analysis](solana-developer-activity-fundamental-analysis)** – Understanding blockchain scaling solutions relevant to limited-bandwidth environments.
 

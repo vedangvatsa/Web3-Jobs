@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-As the Web3 ecosystem grows, a new and crucial role is emerging: the **Web3 Customer Support Specialist**. While the ethos of Web3 is "self-custody" and "don't trust, verify," the reality is that users, especially those new to crypto, need help. They get confused by wallets, they don't understand gas fees, and they are terrified of making a mistake that could cause them to lose their funds.
+As the [Web3](/what-is-web3) ecosystem grows, a new and crucial role is emerging: the **Web3 Customer Support Specialist**. While the ethos of Web3 is "self-custody" and "don't trust, verify," the reality is that users, especially those new to crypto, need help. They get confused by wallets, they don't understand gas fees, and they are terrified of making a mistake that could cause them to lose their funds.
 
 A great customer support team can be a major differentiator for a Web3 project. It builds trust, helps with user retention, and provides invaluable feedback to the product team. This guide explores what a Web3 customer support role entails, the skills needed, and how to get started.
 
@@ -20,7 +20,7 @@ A great customer support team can be a major differentiator for a Web3 project. 
 The core of the job is the same as any support role: helping users solve their problems with empathy and efficiency. However, the Web3 context introduces unique challenges.
 
 -   **The Stakes are Higher:** You aren't helping someone reset their password. You are often dealing with users who are at risk of losing real financial assets. A single piece of bad advice could be catastrophic.
--   **No "Admin" Powers:** In Web2, a support agent can often fix a problem on the user's behalf by accessing a backend system. In Web3, you have no control over a user's self-custodial wallet. You cannot reverse transactions or recover lost funds. Your role is to guide and educate the user so they can solve the problem themselves.
+-   **No "Admin" Powers:** In Web2, a support agent can often fix a problem on the user's behalf by accessing a backend system. In Web3, you have no control over a user's self-custodial [wallet](/how-to-choose-a-crypto-wallet). You cannot reverse transactions or recover lost funds. Your role is to guide and educate the user so they can solve the problem themselves.
 -   **Security is Paramount:** You are a primary target for scammers. Scammers will impersonate you to try and trick users into giving up their seed phrases. You must be an expert in security best practices to protect both yourself and your users.
 
 ### Key Responsibilities
@@ -28,7 +28,7 @@ The core of the job is the same as any support role: helping users solve their p
 -   **Responding to User Queries:** This is the core of the job, happening primarily in public channels like Discord and Telegram, and sometimes through private ticket systems like Intercom.
 -   **Troubleshooting Technical Issues:** Helping users with a wide range of issues, such as:
     -   "My transaction is stuck."
-    -   "I can't see my tokens in my wallet."
+    -   "I can't see my [tokens](/what-is-a-token) in my wallet."
     -   "How do I bridge my assets to a [Layer 2](/guide-to-layer-2s)?"
 -   **Creating Support Documentation:** Writing and maintaining a comprehensive knowledge base with FAQs, tutorials, and step-by-step guides to help users self-serve.
 -   **Identifying and Flagging Scams:** Actively monitoring community channels for scammers and phishing links and warning the community.
@@ -59,7 +59,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -72,16 +72,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -117,7 +117,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

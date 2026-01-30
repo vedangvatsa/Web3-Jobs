@@ -15,7 +15,7 @@ Artificial intelligence is increasingly powerful. Large language models can gene
 
 This power creates responsibility. AI systems can perpetuate bias, invade privacy, spread misinformation, and concentrate power in the hands of whoever controls the system. Building responsible AI requires deliberate choices about transparency, accountability, and control.
 
-Web3 offers principles and technologies that can help build more responsible AI systems. Decentralization, transparency, and alignment with user interests are core to Web3. Applied to AI, these principles create systems that are more trustworthy and beneficial.
+[Web3](/what-is-web3) offers principles and technologies that can help build more responsible AI systems. Decentralization, transparency, and alignment with user interests are core to Web3. Applied to AI, these principles create systems that are more trustworthy and beneficial.
 
 ## The Problem with Current AI Systems
 
@@ -37,7 +37,7 @@ Large tech companies control most advanced AI systems. This centralization creat
 
 Web3 offers principles that address these problems.
 
-**Transparency**: Blockchain makes transactions visible and auditable. Applied to AI, transparency means making data, algorithms, and decisions visible and auditable. Open-source AI models allow anyone to inspect them. Storing decision records on blockchain creates auditable trails.
+**Transparency**: [Blockchain](/what-is-a-blockchain) makes transactions visible and auditable. Applied to AI, transparency means making data, algorithms, and decisions visible and auditable. Open-source AI models allow anyone to inspect them. Storing decision records on blockchain creates auditable trails.
 
 **Decentralization**: Web3 distributes control rather than concentrating it. Applied to AI, decentralization means distributing control over AI systems. Instead of one company controlling an algorithm, a decentralized network of nodes could run it. Decisions could be made by communities rather than single entities.
 
@@ -47,7 +47,7 @@ Web3 offers principles that address these problems.
 
 **Verifiability**: Cryptographic proofs allow verifying claims without trusting the claimer. Applied to AI, zero-knowledge proofs could allow proving that an AI system has certain properties without revealing the system itself.
 
-**Governance**: DAOs in Web3 let communities collectively govern shared resources. Applied to AI, DAO governance could let communities govern AI systems that affect them.
+**Governance**: DAOs in Web3 let communities collectively govern shared resources. Applied to AI, [DAO](/what-is-a-dao) governance could let communities govern AI systems that affect them.
 
 ## Examples of Web3-Enabled Responsible AI
 
@@ -59,7 +59,7 @@ Several approaches show how Web3 and AI can combine.
 
 **Transparent decision systems**: AI decisions stored on blockchain create auditable trails. A lending decision could be recorded on blockchain. Anyone could inspect the decision and the data used. If decisions were made unfairly, this would be verifiable.
 
-**Community-governed AI**: A DAO could govern an AI system. Token holders could vote on system parameters, fairness constraints, or data usage policies. Different communities could tune systems for their values.
+**Community-governed AI**: A DAO could govern an AI system. [Token](/what-is-a-token) holders could vote on system parameters, fairness constraints, or data usage policies. Different communities could tune systems for their values.
 
 **Decentralized identity**: Web3 identity systems let you control your identity data. Rather than relying on centralized services to verify identity, blockchain-based identity could give you control.
 
@@ -103,7 +103,7 @@ The intersection of AI and Web3 creates career opportunities.
 
 **AI researchers** working on decentralized AI systems, privacy-preserving techniques, and verifiable AI properties are needed.
 
-**Smart contract developers** who understand AI could build governance systems for decentralized AI.
+**[Smart contract](/what-are-smart-contracts) developers** who understand AI could build governance systems for decentralized AI.
 
 **Data engineers** working on data ownership protocols and privacy-preserving data collection are valuable.
 
@@ -129,7 +129,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -146,12 +146,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -187,7 +187,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

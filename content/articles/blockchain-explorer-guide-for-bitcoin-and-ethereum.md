@@ -11,9 +11,9 @@ category: "Educational"
 
 
 
-A public blockchain, by its very nature, is a transparent and open ledger. Every transaction that has ever occurred is recorded on it and is visible to anyone. But how do you actually see this data? The primary tool for this is the **blockchain explorer**. A blockchain explorer is a website that allows you to "explore" the contents of a blockchain in a human-readable format. It's like a search engine for the blockchain.
+A public [blockchain](/what-is-a-blockchain), by its very nature, is a transparent and open ledger. Every transaction that has ever occurred is recorded on it and is visible to anyone. But how do you actually see this data? The primary tool for this is the **blockchain explorer**. A blockchain explorer is a website that allows you to "explore" the contents of a blockchain in a human-readable format. It's like a search engine for the blockchain.
 
-For any serious Web3 user, investor, or developer, learning how to use a block explorer is a fundamental skill. It's the primary tool for verifying transactions, auditing smart contracts, and understanding the real-time activity of the network. This guide will walk you through the basics of using the most popular explorers for Bitcoin and Ethereum.
+For any serious [Web3](/what-is-web3) user, investor, or developer, learning how to use a block explorer is a fundamental skill. It's the primary tool for verifying transactions, auditing [smart contracts](/what-are-smart-contracts), and understanding the real-time activity of the network. This guide will walk you through the basics of using the most popular explorers for [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum).
 
 ### The Most Popular Blockchain Explorers
 
@@ -28,7 +28,7 @@ While each explorer has a slightly different interface, they all provide the sam
 
 This is the most common use case. You've sent some crypto, and you want to confirm that the transaction was successful.
 
--   **What you need:** The Transaction Hash (also called Transaction ID or TxID). After you submit a transaction from your wallet, it will give you this unique ID.
+-   **What you need:** The Transaction Hash (also called Transaction ID or TxID). After you submit a transaction from your [wallet](/how-to-choose-a-crypto-wallet), it will give you this unique ID.
 -   **How it works:**
     1.  Go to the block explorer.
     2.  Paste the transaction hash into the search bar.
@@ -47,10 +47,10 @@ You can look up any public wallet address to see its entire transaction history 
 -   **How it works:** Paste any public wallet address or ENS name (e.g., `vitalik.eth`) into the search bar.
 -   **What you can see:**
     -   **Balance:** The wallet's current balance of the native cryptocurrency (e.g., ETH).
-    -   **Token Holdings:** A list of all the different ERC-20 tokens the wallet holds.
+    -   **[Token](/what-is-a-token) Holdings:** A list of all the different ERC-20 tokens the wallet holds.
     -   **Transaction History:** A complete, reverse-chronological list of every transaction the wallet has ever sent or received.
 
-> **Practical Insight:** This is the foundation of the **[on-chain resume](/on-chain-resume)**. Recruiters can look at a developer's public address to see their history of interacting with different protocols, which is a powerful signal of their experience.
+> **Practical Insight:** This is the foundation of the **[on-chain resume](/on-chain-[resume](/how-to-build-a-web3-resume-that-stands-out))**. Recruiters can look at a developer's public address to see their history of interacting with different protocols, which is a powerful signal of their experience.
 
 #### 3. Reading a Smart Contract
 
@@ -60,7 +60,7 @@ For dApps, the block explorer is where you can verify the code and state of a **
 -   **What to look for:**
     -   **Contract Tab:** This tab is the most important.
     -   **Green Checkmark ("Contract Source Code Verified"):** This means the project team has uploaded their source code, and Etherscan has verified that it matches the compiled bytecode on the blockchain. **Never interact with a contract that is not verified.**
-    -   **Read Contract:** This section allows you to call all the `view` and `pure` functions on the contract to read its current state (e.g., check the total supply of a token or your balance in a staking pool).
+    -   **Read Contract:** This section allows you to call all the `view` and `pure` functions on the contract to read its current state (e.g., check the total supply of a token or your balance in a [staking](/how-to-become-a-web3-staking-specialist) pool).
     -   **Write Contract:** This section provides an interface for interacting with the contract's state-changing functions. It allows you to call functions directly from the explorer, which can be useful if the project's own frontend website is down.
 
 #### 4. Monitoring Network Health
@@ -82,7 +82,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -99,7 +99,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

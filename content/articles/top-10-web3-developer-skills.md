@@ -11,19 +11,19 @@ category: "Career Guides"
 
 
 
-The Web3 developer job market is fiercely competitive, but the demand for high-quality engineers has never been stronger. To stand out and command a top salary, you need a specific and deep skillset that goes far beyond basic programming knowledge. Companies are looking for engineers who are not only proficient in the core technologies but who also possess a security-first mindset and a nuanced understanding of the decentralized ecosystem.
+The [Web3](/what-is-web3) developer job market is fiercely competitive, but the demand for high-quality engineers has never been stronger. To stand out and command a top salary, you need a specific and deep skillset that goes far beyond basic programming knowledge. Companies are looking for engineers who are not only proficient in the core technologies but who also possess a security-first mindset and a nuanced understanding of the decentralized ecosystem.
 
 This guide outlines the top 10 skills that hiring managers and technical recruiters are looking for when they hire Web3 developers. Mastering these areas will make you a highly sought-after candidate.
 
 ### 1. Smart Contract Development (Solidity & EVM)
-This is the foundational technical skill. You must have a deep understanding of Solidity, the most popular smart contract language.
--   **What to know:** Go beyond the syntax. You need to understand the EVM (Ethereum Virtual Machine) at a low level. Know the difference between `storage`, `memory`, and `calldata`, and understand the implications of each.
--   **How to learn:** Build projects. Go through resources like CryptoZombies and our [beginner's guide to Solidity](/solidity-for-beginners), then create your own dApps. A strong GitHub portfolio is non-negotiable.
+This is the foundational technical skill. You must have a deep understanding of [Solidity](/best-programming-languages-for-blockchain-development), the most popular [smart contract](/what-are-smart-contracts) language.
+-   **What to know:** Go beyond the syntax. You need to understand the EVM ([Ethereum](/what-is-ethereum) Virtual Machine) at a low level. Know the difference between `storage`, `memory`, and `calldata`, and understand the implications of each.
+-   **How to learn:** Build projects. Go through resources like CryptoZombies and our [beginner's guide to Solidity](/solidity-for-beginners), then create your own dApps. A strong GitHub [portfolio](/building-web3-portfolio) is non-negotiable.
 
 ### 2. Smart Contract Security
 This is what separates a junior developer from a senior one. In a world of immutable code and high-value assets, security is paramount.
 -   **What to know:** You must have an encyclopedic knowledge of [common attack vectors](/common-smart-contract-vulnerabilities-explained): reentrancy, integer overflows/underflows, oracle manipulation, flash loan attacks, and access control issues. You should live and breathe the "Checks-Effects-Interactions" pattern.
--   **How to learn:** Study past hacks. Read the post-mortems from firms like Trail of Bits and OpenZeppelin. Compete in "Capture the Flag" competitions like the Ethernaut and Damn Vulnerable DeFi.
+-   **How to learn:** Study past hacks. Read the post-mortems from firms like Trail of Bits and OpenZeppelin. Compete in "Capture the Flag" competitions like the Ethernaut and Damn Vulnerable [DeFi](/what-is-defi).
 
 ### 3. Testing (Foundry & Hardhat)
 A professional Web3 developer is a testing fanatic. A poorly tested contract is a massive red flag.
@@ -31,13 +31,13 @@ A professional Web3 developer is a testing fanatic. A poorly tested contract is 
 -   **How to learn:** For every personal project you build, aim for 95%+ test coverage. Learn how to write fuzz tests in Foundry to automatically discover edge cases.
 
 ### 4. Gas Optimization
-On the blockchain, every computation costs money. The ability to write gas-efficient code is a highly valued skill.
+On the [blockchain](/what-is-a-blockchain), every computation costs money. The ability to write gas-efficient code is a highly valued skill.
 -   **What to know:** Understand the gas costs of different EVM opcodes. Know how to use techniques like struct packing, minimizing state writes, and using `calldata` effectively to reduce transaction costs for your users. Review our [gas optimization guide](/gas-optimization-techniques-for-solidity-developers) for more details.
 -   **How to learn:** Use tools like `foundry-gas-report` to analyze the gas usage of your functions. Read articles and guides specifically on gas optimization patterns.
 
 ### 5. Frontend Integration (Ethers.js / Viem)
 Full-stack Web3 developers are incredibly valuable. You need to know how to connect a user interface to your smart contracts.
--   **What to know:** Mastery of JavaScript/TypeScript and a modern frontend framework like React or Next.js is a must. You also need to be an expert in using a Web3 library like Ethers.js or Viem to handle wallet connections, read contract state, and prompt users to sign transactions.
+-   **What to know:** Mastery of JavaScript/TypeScript and a modern frontend framework like React or Next.js is a must. You also need to be an expert in using a Web3 library like Ethers.js or Viem to handle [wallet](/how-to-choose-a-crypto-wallet) connections, read contract state, and prompt users to sign transactions.
 -   **How to learn:** Build a full-stack dApp from scratch. Our guide to building a Web3 portfolio has a step-by-step project roadmap.
 
 ### 6. Layer 2 & Scaling Solutions
@@ -53,7 +53,7 @@ Deploying smart contracts is a high-stakes process that requires a secure and au
 ### 8. Data Indexing (The Graph)
 Reading data directly from the blockchain is inefficient. Professional dApps use an indexing layer to provide a fast and reliable API for the frontend.
 -   **What to know:** You need to understand how to build a "subgraph" using The Graph protocol. This involves defining a schema and writing mapping functions in AssemblyScript to transform on-chain event data into a queryable GraphQL API.
--   **How to learn:** Follow the official Graph documentation and [build a subgraph](/your-first-subgraph-indexing-blockchain-data-with-the-graph) for one of your own NFT or DeFi projects.
+-   **How to learn:** Follow the official Graph documentation and [build a subgraph](/your-first-subgraph-indexing-blockchain-data-with-the-graph) for one of your own [NFT](/what-are-nfts) or DeFi projects.
 
 ### 9. Systems Languages (Rust / Go) - (Advanced)
 For those who want to work on the core infrastructure of blockchains, proficiency in a systems language is required.
@@ -73,7 +73,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -81,7 +81,7 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
@@ -90,7 +90,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- DeFi, NFTs, and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

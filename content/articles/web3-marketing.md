@@ -11,7 +11,7 @@ data-ai-hint: "digital marketing"
 
 
 
-Marketing in Web3 is fundamentally different from traditional marketing. You can't run ads on Google or Meta advertising cryptocurrency projects. You can't use traditional marketing metrics. Your audience is technically sophisticated and skeptical of hype.
+Marketing in [Web3](/what-is-web3) is fundamentally different from traditional marketing. You can't run ads on Google or Meta advertising cryptocurrency projects. You can't use traditional marketing metrics. Your audience is technically sophisticated and skeptical of hype.
 
 Web3 marketing requires different strategies. Community building matters more than paid ads. Authenticity matters more than polished marketing. Education matters more than flashy copy. Building a marketing career in Web3 requires understanding these differences and developing skills tailored to the Web3 environment.
 
@@ -33,7 +33,7 @@ Understanding how Web3 marketing differs from traditional marketing is the found
 
 **Metrics are different**: Traditional marketing metrics (impressions, clicks, CTR) don't correlate with Web3 success. Community sentiment, engagement, and retention matter more.
 
-**Token-based incentives**: Many Web3 projects incentivize community participation with tokens. This changes marketing dynamics. Community members become stakeholders.
+**[Token](/what-is-a-token)-based incentives**: Many Web3 projects incentivize community participation with tokens. This changes marketing dynamics. Community members become stakeholders.
 
 ## Key Web3 Marketing Channels
 
@@ -179,7 +179,7 @@ If you have marketing background and want to transition to Web3:
 
 **Step 1: Build crypto knowledge**
 
-Understand the space. Learn basics of blockchain, DeFi, Web3. This takes 2-4 weeks.
+Understand the space. Learn basics of [blockchain](/what-is-a-blockchain), [DeFi](/what-is-defi), Web3. This takes 2-4 weeks.
 
 Resources: CoinDesk, The Block, Bankless podcast, YouTube crypto channels, whitepapers.
 
@@ -189,7 +189,7 @@ Spend time in crypto communities. Observe how people communicate. Understand the
 
 Join Discord servers. Follow Twitter. Read Reddit. Comment and engage authentically.
 
-**Step 3: Create a portfolio**
+**Step 3: Create a [portfolio](/building-web3-portfolio)**
 
 Build content demonstrating marketing skills in crypto context.
 

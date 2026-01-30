@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-One of the most powerful innovations of Web3 is the ability to give team members and contributors direct ownership in the networks they are building. This is achieved through **token-based compensation**. Instead of just receiving a salary (and maybe some equity in a centralized company), a Web3 professional's compensation package often includes a significant grant of the protocol's native tokens.
+One of the most powerful innovations of [Web3](/what-is-web3) is the ability to give team members and contributors direct ownership in the networks they are building. This is achieved through **[token](/what-is-a-token)-based compensation**. Instead of just receiving a salary (and maybe some equity in a centralized company), a Web3 professional's compensation package often includes a significant grant of the protocol's native tokens.
 
 This is more than just a new form of payment; it's a fundamental shift in incentive alignment. When your team members are co-owners of the decentralized network, their financial success is directly tied to the long-term health and growth of the ecosystem. However, designing a token compensation plan is a delicate art. It requires a deep understanding of [tokenomics](/understanding-tokenomics), market dynamics, and human psychology. A poorly designed plan can lead to short-term thinking and misaligned incentives, while a well-designed plan can create a powerful, mission-driven culture of ownership.
 
@@ -43,19 +43,19 @@ A typical token grant for a full-time team member will have the following compon
 
 ### Example Token Grant
 
-Let's say a senior engineer, Alice, joins a new DeFi protocol. Her offer includes:
+Let's say a senior engineer, Alice, joins a new [DeFi](/what-is-defi) protocol. Her offer includes:
 -   **Base Salary:** $180,000 USD
 -   **Token Grant:** 1,000,000 project tokens (currently valued at $0.40 each, for a total grant value of $400,000).
 -   **Vesting Schedule:** 4 years with a 1-year cliff.
 
 **Vesting Breakdown:**
 -   **Day 1 to Day 364:** Alice's tokens are vesting, but she can't claim any. If she leaves, she gets nothing.
--   **Day 365 (1-year anniversary):** The cliff is hit. 250,000 tokens (25% of the grant) immediately vest and become hers to do with as she pleases (sell, hold, stake, etc.).
+-   **Day 365 (1-year anniversary):** The cliff is hit. 250,000 tokens (25% of the grant) immediately vest and become hers to do with as she pleases (sell, hold, [stake](/how-to-become-a-web3-staking-specialist), etc.).
 -   **Month 13 onwards:** The remaining 750,000 tokens vest linearly over the next 36 months. She will earn `750,000 / 36 = 20,833.33` tokens each month.
 
 ### Compensation for Part-Time DAO Contributors
 
-For [DAOs that rely on freelance contributors](/hiring-for-a-dao), the model is different. Compensation is typically project-based rather than time-based.
+For [DAOs that rely on [freelance](/how-to-start-freelancing-for-beginners) contributors](/hiring-for-a-[dao](/what-is-a-dao)), the model is different. Compensation is typically project-based rather than time-based.
 
 -   **Bounties:** Small, one-off tasks with a fixed token payment upon completion. There is no vesting. This is great for simple, well-defined tasks.
 -   **Grants:** Larger, longer-term projects (e.g., a 3-month project to build a new feature). The grant may be paid out in tranches based on milestone delivery. Sometimes, these grants may also have a short vesting period (e.g., 6 months) to encourage the contributor to remain engaged with the project's success even after their work is done.
@@ -70,7 +70,7 @@ For companies and candidates alike, clear communication is essential when dealin
 
 **For Candidates:**
 -   **Ask the Right Questions:** Don't just focus on the current USD value. Ask about the vesting schedule, the total token supply, and what percentage of the network your grant represents.
--   **Do Your Own Research (DYOR):** Evaluate the project's long-term potential. A smaller grant in a project with a world-class team and strong fundamentals can be worth far more than a larger grant in a project with weak tokenomics. Read our guide on salary negotiation for more tips.
+-   **Do Your Own Research (DYOR):** Evaluate the project's long-term potential. A smaller grant in a project with a world-class team and strong fundamentals can be worth far more than a larger grant in a project with weak tokenomics. Read our guide on [salary negotiation](/web3-salary-negotiation) for more tips.
 
 Token-based compensation is a paradigm shift. It transforms employees into owners and aligns the entire team around a shared mission. By designing a thoughtful and transparent plan with long-term vesting, projects can attract the best talent in the world and build a dedicated team that is motivated to create lasting value for the entire ecosystem.
 
@@ -82,7 +82,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -95,16 +95,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- DeFi, [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

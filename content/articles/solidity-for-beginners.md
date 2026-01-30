@@ -10,7 +10,7 @@ category: 'Getting Started'
 
 
 
-So, you want to become a Web3 developer. You've heard about the exciting world of decentralized applications (dApps), DeFi, and NFTs, and you're ready to start building. The journey for most aspiring blockchain developers begins with one language: Solidity. As the primary language for programming smart contracts on Ethereum and other EVM-compatible blockchains, Solidity is the key that unlocks the door to Web3 development.
+So, you want to become a [Web3](/what-is-web3) developer. You've heard about the exciting world of decentralized applications (dApps), [DeFi](/what-is-defi), and [NFTs](/what-are-nfts), and you're ready to start building. The journey for most aspiring [blockchain](/what-is-a-blockchain) developers begins with one language: [Solidity](/best-programming-languages-for-blockchain-development). As the primary language for programming [smart contracts](/what-are-smart-contracts) on [Ethereum](/what-is-ethereum) and other EVM-compatible blockchains, Solidity is the key that unlocks the door to Web3 development.
 
 But where do you start? The world of smart contracts can seem intimidating, with its talk of gas fees, immutability, and the Ethereum Virtual Machine (EVM). This guide is designed to cut through the complexity and provide a gentle, step-by-step introduction to Solidity. We'll walk you through the process of setting up your development environment, explain the core concepts of the language, and guide you in writing, compiling, and deploying your very first, simple smart contract. By the end of this tutorial, you'll have a foundational understanding of Solidity and a tangible project to show for it.
 

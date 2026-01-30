@@ -11,15 +11,15 @@ category: "Getting Started"
 
 
 
-The internet we use every day is built on centralized applications. When you use Facebook, you are interacting with an app whose code and data live on servers controlled by Meta. A **decentralized application**, or **dApp**, is different. It's an application that runs not on a central server, but on a peer-to-peer network of computers, most commonly a public **[blockchain](/what-is-a-blockchain)** like Ethereum.
+The internet we use every day is built on centralized applications. When you use Facebook, you are interacting with an app whose code and data live on servers controlled by Meta. A **decentralized application**, or **dApp**, is different. It's an application that runs not on a central server, but on a peer-to-peer network of computers, most commonly a public **[blockchain](/what-is-a-blockchain)** like [Ethereum](/what-is-ethereum).
 
 This architectural difference is the key to understanding **[Web3](/what-is-web3)**. dApps are the building blocks of the decentralized internet, creating services that are more open, resilient, and user-centric than their Web2 counterparts. This guide explains what dApps are, how they work, and what you need to know to start using them.
 
 ### How are dApps Different from Regular Apps?
 
-| Feature          | Traditional App (Web2)                    | Decentralized App (dApp) (Web3)               |
+| Feature          | Traditional App (Web2)                    | Decentralized App (dApp) ([Web3](/what-is-web3))               |
 |------------------|--------------------------------------------|-----------------------------------------------|
-| **Backend**      | Runs on private, centralized servers (e.g., AWS) | Runs on a public, decentralized blockchain (e.g., Ethereum) |
+| **Backend**      | Runs on private, centralized servers (e.g., AWS) | Runs on a public, decentralized [blockchain](/what-is-a-blockchain) (e.g., Ethereum) |
 | **Control**      | Controlled by a single company             | Governed by its community of users (often a **[DAO](/what-is-a-dao)**) |
 | **Data Storage** | User data is stored on company servers     | Data is stored on the public blockchain       |
 | **Censorship**   | The company can censor or remove content/users | Transactions and data are censorship-resistant |
@@ -30,26 +30,26 @@ This architectural difference is the key to understanding **[Web3](/what-is-web3
 
 A typical dApp has two main components:
 
-1.  **The Smart Contracts (The Backend):** These are the self-executing programs that contain the dApp's core logic. They are deployed on a blockchain and are immutable, meaning their code cannot be changed once deployed. These contracts define the rules of the application. For a **[DeFi](/what-is-defi)** lending app, the smart contract would define the rules for interest rates and collateral.
+1.  **The Smart Contracts (The Backend):** These are the self-executing programs that contain the dApp's core logic. They are deployed on a blockchain and are immutable, meaning their code cannot be changed once deployed. These contracts define the rules of the application. For a **[DeFi](/what-is-defi)** lending app, the [smart contract](/what-are-smart-contracts) would define the rules for interest rates and collateral.
 
 2.  **The Frontend (The User Interface):** This is the website or mobile interface that users interact with. It's typically built using standard web technologies like React or Vue.js. The frontend communicates with the backend smart contracts, allowing users to easily trigger transactions and read data from the blockchain.
 
 ### How to Use a dApp: The Core Interaction Flow
 
-For a new user, the experience of using a dApp can be unfamiliar at first. The core difference is the replacement of a traditional login with a crypto wallet.
+For a new user, the experience of using a dApp can be unfamiliar at first. The core difference is the replacement of a traditional login with a crypto [wallet](/how-to-choose-a-crypto-wallet).
 
 1.  **Get a Wallet:** The first step is to get a non-custodial crypto wallet, like MetaMask. This wallet is your new form of identity. It holds your assets and allows you to "sign" transactions to prove you are the owner of your account.
 
 2.  **Connect Your Wallet:** When you visit a dApp's website, instead of a "Log In" button, you will see a "Connect Wallet" button. Clicking this prompts your wallet to establish a connection with the dApp.
 
-3.  **Interact and Sign Transactions:** Once connected, you can use the dApp's features. Any action that changes the state of the blockchain-like swapping a token, buying an NFT, or voting on a proposal-will require you to sign a transaction in your wallet. This transaction is then broadcast to the blockchain to be processed. This step costs a "gas fee," which is a fee paid to the network's validators.
+3.  **Interact and Sign Transactions:** Once connected, you can use the dApp's features. Any action that changes the state of the blockchain-like swapping a [token](/what-is-a-token), buying an [NFT](/what-are-nfts), or voting on a proposal-will require you to sign a transaction in your wallet. This transaction is then broadcast to the blockchain to be processed. This step costs a "gas fee," which is a fee paid to the network's validators.
 
 ### Examples of Popular dApps
 
-- **Uniswap:** A decentralized exchange (DEX) where you can trade thousands of different crypto assets.
+- **Uniswap:** A [decentralized exchange](/what-is-a-decentralized-exchange-dex) (DEX) where you can trade thousands of different crypto assets.
 - **Aave:** A decentralized lending protocol where you can lend your crypto to earn interest or borrow against your assets.
 - **OpenSea:** The largest marketplace for buying and selling **[NFTs](/what-are-nfts)**.
-- **Snapshot:** A gasless voting platform used by many DAOs to make governance decisions.
+- **Snapshot:** A gasless voting platform used by many [DAOs](/what-is-a-dao) to make governance decisions.
 
 ### Challenges and the Future
 
@@ -63,7 +63,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -80,12 +80,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), NFTs, and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

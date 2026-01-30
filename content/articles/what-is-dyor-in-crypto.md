@@ -19,7 +19,7 @@ This matters because crypto attracts fraud at scale. The barrier to creating a f
 
 ## The Philosophy Behind DYOR
 
-Crypto culture emphasizes individual responsibility and skepticism of authority. The original Bitcoin whitepaper was published pseudonymously. Decentralized finance explicitly removes the need to trust institutions. DAOs distribute governance to thousands of people rather than concentrating power in a board.
+Crypto culture emphasizes individual responsibility and skepticism of authority. The original [Bitcoin](/what-is-bitcoin) whitepaper was published pseudonymously. [Decentralized finance](/what-is-defi) explicitly removes the need to trust institutions. [DAOs](/what-is-a-dao) distribute governance to thousands of people rather than concentrating power in a board.
 
 This philosophy extends to decision-making. You shouldn't trust a celebrity because they say a project is good. You shouldn't trust a company because it has slick marketing. You should understand the project yourself, evaluate it against your own judgment, and make your own decision.
 
@@ -29,9 +29,9 @@ In crypto, none of that exists. There's no regulator protecting you. If you send
 
 ## What DYOR Actually Means
 
-For job seekers and career builders in Web3, understanding DYOR means understanding how to evaluate projects and people.
+For job seekers and career builders in [Web3](/what-is-web3), understanding DYOR means understanding how to evaluate projects and people.
 
-Start by understanding the basics. What problem does this project solve? If it's a DeFi protocol, how does it work? If it's an NFT project, what utility do the NFTs provide? If the only value proposition is "the price will go up," that's a red flag.
+Start by understanding the basics. What problem does this project solve? If it's a DeFi protocol, how does it work? If it's an [NFT](/what-are-nfts) project, what utility do the NFTs provide? If the only value proposition is "the price will go up," that's a red flag.
 
 Read the whitepaper or documentation. Most legitimate projects publish detailed documentation explaining how their system works. Read it critically. Does it make sense? Are claims substantiated or just hype? Are there explanations for why their approach is better than alternatives?
 
@@ -39,7 +39,7 @@ Check the team. Who are the people building this? What's their track record? Hav
 
 Examine the code. Most crypto projects are open-source. You can read the code. Have others reviewed it? Have professional auditors examined it? Look for security audit reports from credible firms. How do users react to the code quality? Is it well-written or sloppy?
 
-Understand the incentives. Who owns the tokens? How many tokens does the team hold? What happens if the price crashes? Understanding incentives helps you determine if the team is aligned with users or trying to pump-and-dump.
+Understand the incentives. Who owns the [tokens](/what-is-a-token)? How many tokens does the team hold? What happens if the price crashes? Understanding incentives helps you determine if the team is aligned with users or trying to pump-and-dump.
 
 Look for adoption. Is anyone actually using this? Check block explorers for transaction volume. Check Discord for active discussion. Real projects have real users. Projects with massive marketing but no actual usage are suspicious.
 
@@ -97,7 +97,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -110,16 +110,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
+- [Smart contracts](/what-are-smart-contracts) and their use cases
 - DeFi, NFTs, and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -155,7 +155,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

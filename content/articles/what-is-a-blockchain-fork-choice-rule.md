@@ -13,14 +13,14 @@ data-ai-hint: "fork choice"
 
 ## What is a Blockchain Fork Choice Rule? A Complete Guide
 
-In the decentralized world of blockchain, where thousands of nodes must agree on a single version of history, forks are a natural and frequent occurrence. A **fork choice rule** is the fundamental algorithm that allows a node to look at all the different versions (forks) of a blockchain it sees and unambiguously choose the one "correct" or "canonical" chain. It is one of the most critical components of any consensus mechanism, ensuring that the network eventually converges on a single, unified ledger.
+In the decentralized world of [blockchain](/what-is-a-blockchain), where thousands of nodes must agree on a single version of history, forks are a natural and frequent occurrence. A **fork choice rule** is the fundamental algorithm that allows a node to look at all the different versions (forks) of a blockchain it sees and unambiguously choose the one "correct" or "canonical" chain. It is one of the most critical components of any consensus mechanism, ensuring that the network eventually converges on a single, unified ledger.
 
 Without a clear and universally agreed-upon fork choice rule, a blockchain would fragment into countless conflicting versions, rendering it useless. This guide explores what fork choice rules are, why they are essential, how different blockchains implement them, and the security implications they carry.
 
 ### Key Insights
 
 *   **Core Function**: A fork choice rule is a deterministic algorithm used by blockchain nodes to select the canonical chain from multiple competing forks.
-*   **Consensus is Key**: It is a vital part of a blockchain's consensus protocol, working alongside mechanisms like Proof-of-Work (PoW) or Proof-of-Stake (PoS).
+*   **Consensus is Key**: It is a vital part of a blockchain's consensus protocol, working alongside mechanisms like Proof-of-Work (PoW) or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS).
 *   **Common Rules**: The "longest chain" rule (Nakamoto Consensus) is the classic example in PoW, while PoS systems use more complex rules like LMD GHOST that consider validator votes.
 *   **Security Implications**: The design of a fork choice rule has profound implications for a network's security, particularly its resistance to attacks like selfish mining or 51% attacks.
 
@@ -36,7 +36,7 @@ Fork choice rules vary significantly between different consensus mechanisms, pri
 
 #### 1. The "Longest Chain" Rule (Nakamoto Consensus)
 
-Pioneered by Bitcoin, the longest chain rule is the simplest and most famous fork choice rule. It is integral to Nakamoto Consensus.
+Pioneered by [Bitcoin](/what-is-bitcoin), the longest chain rule is the simplest and most famous fork choice rule. It is integral to Nakamoto Consensus.
 
 **How it Works:**
 The rule is straightforward: nodes will always consider the chain with the most accumulated "work" as the valid one. In Proof-of-Work, this is effectively the chain that is the longest (i.e., has the most blocks), because each block represents a significant amount of computational work.
@@ -52,7 +52,7 @@ When a node sees two competing forks, it will simply continue to build on top of
 
 Proof-of-Stake systems cannot use the "longest chain" rule because creating blocks is computationally cheap, so a malicious actor could easily create a very long chain. Instead, they use rules based on the votes (attestations) of validators.
 
-Ethereum's fork choice rule is called **LMD GHOST** (Latest Message Driven Greediest Heaviest Observed SubTree). It's a mouthful, but the concept is intuitive.
+[Ethereum](/what-is-ethereum)'s fork choice rule is called **LMD GHOST** (Latest Message Driven Greediest Heaviest Observed SubTree). It's a mouthful, but the concept is intuitive.
 
 **How it Works:**
 Instead of looking at which chain is the longest, LMD GHOST looks at which chain has the most accumulated votes from validators.

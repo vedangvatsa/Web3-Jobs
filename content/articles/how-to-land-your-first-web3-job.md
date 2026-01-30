@@ -11,15 +11,15 @@ category: 'Getting Started'
 
 
 
-The Web3 industry is exploding with innovation and opportunity, but for newcomers, it can feel like an impenetrable fortress guarded by complex jargon and a tight-knit community. How do you get your foot in the door? The good news is that the industry is desperate for talent, and a traditional tech background is not always required. What matters most are demonstrable skills, a genuine passion for the space, and a willingness to learn and adapt at lightning speed. This guide will provide a practical, step-by-step roadmap for anyone looking to transition into Web3. We'll cover how to build foundational knowledge, what skills to acquire, how to create a portfolio that gets noticed, and how to navigate the unique cultural landscape of the Web3 job market.
+The [Web3](/what-is-web3) industry is exploding with innovation and opportunity, but for newcomers, it can feel like an impenetrable fortress guarded by complex jargon and a tight-knit community. How do you get your foot in the door? The good news is that the industry is desperate for talent, and a traditional tech background is not always required. What matters most are demonstrable skills, a genuine passion for the space, and a willingness to learn and adapt at lightning speed. This guide will provide a practical, step-by-step roadmap for anyone looking to transition into Web3. We'll cover how to build foundational knowledge, what skills to acquire, how to create a [portfolio](/building-web3-portfolio) that gets noticed, and how to navigate the unique cultural landscape of the [Web3 job](/web3-jobs-for-beginners) market.
 
 ## Step 1: Immerse Yourself in the Culture (Go Down the Rabbit Hole)
 
 Before you even think about applying for jobs, you need to understand the world you're entering. Web3 is more than a technology; it's a culture. The best way to learn is by doing and participating.
 
 - **Curate Your Twitter Feed:** Twitter is the de facto town square for Web3. Follow key builders, thinkers, and projects. Don't just lurk-engage in conversations, ask thoughtful questions, and share what you're learning.
-- **Join a Discord Community:** Pick a project that interests you (e.g., a DeFi protocol, an NFT collection) and become an active member of its Discord. Participate in discussions, help newcomers, and observe how the community operates.
-- **Get Your Hands Dirty:** You cannot learn Web3 from the sidelines. Set up a MetaMask wallet, buy a small amount of ETH from an exchange, and use a dApp. Swap tokens on Uniswap, mint a low-cost NFT, or vote on a governance proposal. The experience of being a user is invaluable.
+- **Join a Discord Community:** Pick a project that interests you (e.g., a [DeFi](/what-is-defi) protocol, an [NFT](/what-are-nfts) collection) and become an active member of its Discord. Participate in discussions, help newcomers, and observe how the community operates.
+- **Get Your Hands Dirty:** You cannot [learn Web3](/from-web2-to-web3-developer-career-guide) from the sidelines. Set up a MetaMask [wallet](/how-to-choose-a-crypto-wallet), buy a small amount of [ETH](/what-is-ethereum) from an exchange, and use a dApp. Swap [tokens](/what-is-a-token) on Uniswap, mint a low-cost NFT, or vote on a governance proposal. The experience of being a user is invaluable.
 
 > **Practical Tip:** Create a new, dedicated Twitter account for Web3. This allows you to build a professional presence and curate a feed focused entirely on the industry without noise from your personal life.
 
@@ -40,13 +40,13 @@ Resources like Bankless, The Defiant, and project-specific blogs are excellent p
 Once you have a lay of the land, it's time to specialize. Your path will depend on your background and interests.
 
 ### For Aspiring Developers:
-Your goal is to become a proficient smart contract or frontend developer. Focus on learning the core technologies. Resources like CryptoZombies, Speed Run Ethereum, and our [guide on how to become a blockchain developer](/how-to-become-a-blockchain-developer) are invaluable.
+Your goal is to become a proficient [smart contract](/what-are-smart-contracts) or frontend developer. Focus on learning the core technologies. Resources like CryptoZombies, Speed Run Ethereum, and our [guide on how to become a [blockchain](/what-is-a-blockchain) developer](/how-to-become-a-blockchain-developer) are invaluable.
 
 ### For Non-Technical Roles (Marketing, Community, Ops):
 Your "proof of work" is different. It's about demonstrating your understanding and ability to add value.
 
 - **Content Creation:** Start a blog, a Twitter thread series, or a newsletter explaining a Web3 concept you're passionate about. This showcases your communication skills and expertise.
-- **Community Contribution:** Become a top contributor in a DAO or project Discord. Answer questions, organize events, or write documentation. This can often lead directly to a job offer.
+- **Community Contribution:** Become a top contributor in a [DAO](/what-is-a-dao) or project Discord. Answer questions, organize events, or write documentation. This can often lead directly to a job offer.
 - **Data Analysis:** If you have a knack for data, learn SQL and start building dashboards on Dune Analytics. Analyzing a project's on-chain metrics is a powerful way to demonstrate value.
 
 ## Step 4: Build a Web3-Native Portfolio & Resume

@@ -27,7 +27,7 @@ A mentor can provide guidance, support, and advocacy as you navigate a new role 
 ### Step 2: Build an Initial Connection
 
 - **Don't Ask "Will You Be My Mentor?":** This can be intimidating. Instead, start with a smaller, more specific request.
-- **Request an Informational Interview:** Reach out and ask for 20-30 minutes of their time. Say something like, "I'm new to the company and really admire your work on X project. I'd love to hear more about your experience here. Would you be open to a brief coffee chat sometime next week?"
+- **Request an Informational [Interview](/how-to-prepare-for-job-interview):** Reach out and ask for 20-30 minutes of their time. Say something like, "I'm new to the company and really admire your work on X project. I'd love to hear more about your experience here. Would you be open to a brief coffee chat sometime next week?"
 
 ### Step 3: The First Meeting
 
@@ -378,11 +378,3 @@ Once you've benefited from mentorship, don't stop there. Help others:
 3. Expand your mentorship network to include people outside your company
 
 Remember: **Mentorship is a gift you give yourself and receive from others.** The best mentors are those who've benefited from mentorship themselves and understand its value. Seek it out actively, nurture it carefully, and one day, pay it forward.
-
-## Related Articles
-
-- [Web3 Jobs in Algiers: A Guide to Algeria's Tech Awakening](web3-jobs-in-algiers)
-- [Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene](web3-jobs-in-libreville)
-- [Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene](web3-jobs-in-luanda)
-- [How to Ask Smart Questions as a New Employee](asking-smart-questions-as-new-employee)
-- [Web3 Jobs in Lagos: A Guide to West Africa's Tech Megacity](web3-jobs-in-lagos)

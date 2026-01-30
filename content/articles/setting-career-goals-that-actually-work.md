@@ -51,7 +51,7 @@ Example: You say "Get promoted to Senior Engineer." But ask yourself:
 
 Get clear on the real goal.
 
-See also: **[Web3 Career Growth and Development](web3-career-growth-and-development)** – Strategic career planning framework.
+See also: **[[Web3](/what-is-web3) Career Growth and Development](web3-career-growth-and-development)** – Strategic career planning framework.
 
 ### 1. Use the SMART Framework (And Go Deeper)
 
@@ -170,16 +170,16 @@ This layered approach keeps you progressing steadily toward your annual goal wit
 A goal without a plan is just a wish. Here's how to build a real plan:
 
 **Step 1: Define Desired Outcome**
-"Master Solidity smart contract development"
+"Master [Solidity](/best-programming-languages-for-blockchain-development) [smart contract](/what-are-smart-contracts) development"
 
 **Step 2: Identify Prerequisites**
-- Foundational blockchain knowledge
+- Foundational [blockchain](/what-is-a-blockchain) knowledge
 - Python/JavaScript proficiency
-- Understanding of EVM (Ethereum Virtual Machine)
+- Understanding of EVM ([Ethereum](/what-is-ethereum) Virtual Machine)
 
 **Step 3: List Specific Actions**
 - Complete Udemy "Solidity Masterclass" (40 hours)
-- Build 3 projects (basic token, complex protocol, DeFi integration)
+- Build 3 projects (basic [token](/what-is-a-token), complex protocol, [DeFi](/what-is-defi) integration)
 - Contribute to open-source Solidity project
 - Do code review on 10 existing smart contracts
 
@@ -380,11 +380,3 @@ Effective career goals are:
 - **Flexible:** Adjusted when reality demands
 
 With goals structured this way, you dramatically increase your odds of achieving them. And over time, these achieved goals compound into a remarkable career trajectory that you actually designed, rather than one that happened to you.
-
-## Related Articles
-
-- [Web3 Jobs in Algiers: A Guide to Algeria's Tech Awakening](web3-jobs-in-algiers)
-- [Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene](web3-jobs-in-libreville)
-- [Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene](web3-jobs-in-luanda)
-- [How to Ask Smart Questions as a New Employee](asking-smart-questions-as-new-employee)
-- [Web3 Jobs in Lagos: A Guide to West Africa's Tech Megacity](web3-jobs-in-lagos)

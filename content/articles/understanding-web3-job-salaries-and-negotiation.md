@@ -11,9 +11,9 @@ category: "Getting Started"
 
 
 
-You've aced the interviews, you've received an offer from your dream Web3 company, and now comes the final, crucial step: negotiating your compensation. In the world of Web3, this conversation is far more complex than in a traditional tech job. Your total compensation is often a multifaceted package that includes not just a base salary, but also equity in the company and, most uniquely, a grant of the project's native tokens.
+You've aced the interviews, you've received an offer from your dream [Web3](/what-is-web3) company, and now comes the final, crucial step: negotiating your compensation. In the world of Web3, this conversation is far more complex than in a traditional tech job. Your total compensation is often a multifaceted package that includes not just a base salary, but also equity in the company and, most uniquely, a grant of the project's native [tokens](/what-is-a-token).
 
-Understanding how to evaluate and negotiate this complex mix is essential to maximizing your long-term financial success. A slightly lower base salary could be a fantastic trade-off if the token package has a massive upside, while a high salary with a weak token allocation might be a poor deal in the long run. This guide provides a practical framework for navigating the Web3 salary negotiation process.
+Understanding how to evaluate and negotiate this complex mix is essential to maximizing your long-term financial success. A slightly lower base salary could be a fantastic trade-off if the token package has a massive upside, while a high salary with a weak token allocation might be a poor deal in the long run. This guide provides a practical framework for navigating the [Web3 salary](/web3-developer-salaries-2025) negotiation process.
 
 ### The Three Components of Web3 Compensation
 
@@ -52,9 +52,9 @@ Your offer will likely consist of three main parts. Your goal is to understand t
 
 4.  **Anchor Your Negotiation:** When you make a counteroffer, anchor it with data. For example: "Based on my research into similar senior protocol engineer roles, the market rate for base salary is in the range of $X to $Y."
 
-5.  **Think About the Whole Picture:** Consider other benefits like health insurance, remote work stipends, and conference travel budgets.
+5.  **Think About the Whole Picture:** Consider other benefits like health insurance, [remote work](/remote-work-in-web3) stipends, and conference travel budgets.
 
-Negotiating your Web3 job offer is your first opportunity to demonstrate your value. By doing your homework and understanding the unique interplay between salary, equity, and tokens, you can secure a compensation package that rewards you for your skills and gives you a meaningful stake in the future of the decentralized internet. For more details, see our guide on Web3 career salary negotiation.
+Negotiating your [Web3 job](/web3-jobs-for-beginners) offer is your first opportunity to demonstrate your value. By doing your homework and understanding the unique interplay between salary, equity, and tokens, you can secure a compensation package that rewards you for your skills and gives you a meaningful [stake](/how-to-become-a-web3-staking-specialist) in the future of the decentralized internet. For more details, see our guide on Web3 career [salary negotiation](/web3-salary-negotiation).
 
 ## The Web3 Opportunity
 
@@ -75,11 +75,11 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
