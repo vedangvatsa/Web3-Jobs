@@ -267,10 +267,6 @@ A: Declare all income; get accountant if income > $5K/year.
 - LinkedIn: Argentina + crypto
 - Remote.co: crypto roles
 
-### Related Guides
-- [Web3 Jobs in Argentina](web3-jobs-in-argentina)
-- Web3 Marketing Careers
-- Community Manager Guide
 
 ### Your Next Step
 

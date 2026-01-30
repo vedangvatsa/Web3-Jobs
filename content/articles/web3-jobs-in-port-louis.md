@@ -360,11 +360,6 @@ A:
 - Fintech product case studies
 - Bankless newsletter
 
-### Related Career Guides
-- Crypto Fund Manager Career Guide
-- FinTech Web3 Careers
-- Crypto Compliance & Legal Careers
-- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

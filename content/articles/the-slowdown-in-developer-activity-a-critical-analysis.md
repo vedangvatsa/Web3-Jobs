@@ -297,11 +297,6 @@ A: Absolutely. Knowledge from one path helps all others. Try, learn, adjust.
 - ETHGlobal (hackathons)
 - Capture The Ether (security gamification)
 
-### Related Career Guides
-- Smart Contract Auditor Career Guide
-- DeFi Developer Career Path
-- Protocol Engineer Career Guide
-- Complete Web3 Skills Guide
 
 ### Your Next Step
 

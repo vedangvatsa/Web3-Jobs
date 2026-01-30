@@ -346,13 +346,6 @@ Raising capital is hard; building a sustainable income is easier and more valuab
 - Bankless newsletter: weekly DeFi + crypto strategy analysis
 - Paradigm Research papers: deep technical research
 
-### Related Career Guides
-Explore these guides for complementary Web3 roles and opportunities in nearby regions:
-- [Web3 Jobs in Tunisia](web3-jobs-in-tunis)
-- [Web3 Jobs in Morocco](web3-jobs-in-casablanca)
-- [Web3 Jobs in Egypt](web3-jobs-in-cairo)
-- Web3 Careers for MENA Professionals
-- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 
