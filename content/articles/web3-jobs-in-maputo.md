@@ -350,11 +350,6 @@ A:
 - Bankless newsletter
 - Paradigm research
 
-### Related Career Guides
-- [Web3 Jobs in Lagos](web3-jobs-in-lagos): West Africa
-- [Web3 Jobs in Cape Town](web3-jobs-in-cape-town): South Africa
-- NFT Artist Career Guide
-- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 

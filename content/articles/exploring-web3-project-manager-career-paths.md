@@ -247,10 +247,6 @@ A: Build expertise first (1-2 years); then launch if you have community + thesis
 - AngelList: Web3 startups
 - DAO job boards (DAOJobs, etc.)
 
-### Related Guides
-- Web3 Product Manager Deep Dive
-- DAO Governance Career Guide
-- Web3 Startup Career Path
 
 ### Your Next Step
 

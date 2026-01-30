@@ -358,13 +358,6 @@ Faster path: Focus on rare specialization (MRV data, formal verification of carb
 - Nature Conservancy reports on blockchain for conservation
 - Toucan Protocol white papers and technical docs
 
-### Related Career Guides
-Explore these guides to understand complementary roles and regional context:
-- [Web3 Jobs in Kinshasa](web3-jobs-in-kinshasa): DRC conservation + supply chain
-- [Web3 Jobs in Kampala](web3-jobs-in-kampala): East Africa fintech + impact
-- Complete Web3 Skills Guide
-- ReFi and Impact Investing Career Guide
-- Remote Web3 Careers Guide
 
 ### Your Next Step: Find a Web3 Job
 

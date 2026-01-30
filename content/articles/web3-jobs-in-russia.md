@@ -306,11 +306,6 @@ A: Russian developers have strong reputation. You're building valuable skills. G
 - AngelList: Web3 startups
 - Protocol job boards (Ethereum jobs, etc.)
 
-### Related Career Guides
-- Smart Contract Auditor Career Guide
-- Protocol Engineer Career Path
-- DeFi Developer Career Guide
-- Complete Web3 Skills Guide
 
 ### Your Next Step: Find Your Web3 Job
 

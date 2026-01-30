@@ -378,13 +378,6 @@ After 1-2 years, you can shift: invest more aggressively, consider business/star
 - Bankless newsletter: weekly analysis
 - Paradigm research: deep technical research
 
-### Related Career Guides
-Explore these guides for complementary opportunities:
-- [Web3 Jobs in Kinshasa](web3-jobs-in-kinshasa): Central Africa supply chain + DeFi
-- [Web3 Jobs in Harare](web3-jobs-in-harare): Hyperinflation + currency solutions
-- FinTech Web3 Careers
-- Complete Web3 Skills Guide
-- Remote Web3 Careers Guide
 
 ### Your Next Step: Find a Web3 Job
 

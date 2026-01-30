@@ -267,10 +267,6 @@ A: Yes, build portfolio part-time; transition when ready.
 - LinkedIn: Korea + gaming + crypto
 - Company websites: Nexon, WeMade, Kakao careers
 
-### Related Guides
-- GameFi Developer Career Guide
-- Smart Contract Developer Guide
-- Web3 Business Development Career
 
 ### Your Next Step
 

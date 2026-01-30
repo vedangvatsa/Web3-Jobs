@@ -338,10 +338,6 @@ A:
 - Bankless newsletter
 - Paradigm research
 
-### Related Career Guides
-- [Web3 Jobs in Casablanca](web3-jobs-in-casablanca): Business hub
-- Crypto Policy & Regulation Career Guide
-- Complete Web3 Skills Guide
 
 ### Your Next Step: Find a Web3 Job
 
