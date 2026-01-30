@@ -71,7 +71,7 @@ The fork choice rule is directly tied to a blockchain's security and finality gu
 
 *   **Probabilistic Finality (PoW)**: In a system using the longest chain rule, finality is probabilistic. The longer a block has been in the chain, the more computationally difficult it becomes to create a longer, competing chain to "re-org" it out. This is why exchanges wait for multiple confirmations before crediting a deposit.
 
-*   **Economic Finality (PoS)**: In Ethereum's PoS, the fork choice rule works in concert with a finality gadget called Casper. While LMD GHOST determines the head of the chain on a moment-to-moment basis, Casper finalizes checkpoints (epochs). Once an epoch is finalized, it can only be reverted if an attacker is willing to destroy at least 1/3 of the total staked ETH in the network—an incredibly expensive attack. This provides a much stronger and faster guarantee of finality.
+*   **Economic Finality (PoS)**: In Ethereum's PoS, the fork choice rule works in concert with a finality gadget called Casper. While LMD GHOST determines the head of the chain on a moment-to-moment basis, Casper finalizes checkpoints (epochs). Once an epoch is finalized, it can only be reverted if an attacker is willing to destroy at least 1/3 of the total staked ETH in the network-an incredibly expensive attack. This provides a much stronger and faster guarantee of finality.
 
 ### Fork Choice Rules and Network Attacks
 

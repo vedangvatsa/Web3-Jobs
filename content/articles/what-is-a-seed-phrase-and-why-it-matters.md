@@ -19,7 +19,7 @@ A seed phrase, also known as a secret recovery phrase, is a human-readable repre
 Modern crypto wallets are **hierarchical deterministic (HD) wallets**. This means they can generate a nearly infinite number of public/private key pairs from a single, master seed.
 1.  **The Seed:** When you create a new wallet, the software generates a long, random number called the "seed."
 2.  **The Phrase:** This seed number is then mapped to a list of words from a standardized dictionary (the BIP-39 wordlist, which contains 2048 words). This list of words is your seed phrase. It's much easier for a human to write down and store "apple banana car..." than a 256-bit random number.
-3.  **Key Generation:** The wallet uses this seed phrase to deterministically generate all the private keys for your accounts. Account 1, Account 2, Account 3—they are all derived from the same seed phrase.
+3.  **Key Generation:** The wallet uses this seed phrase to deterministically generate all the private keys for your accounts. Account 1, Account 2, Account 3-they are all derived from the same seed phrase.
 
 ### Why is Your Seed Phrase So Important?
 
@@ -100,7 +100,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

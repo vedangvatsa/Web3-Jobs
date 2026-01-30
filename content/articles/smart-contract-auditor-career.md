@@ -23,7 +23,7 @@ The core of an auditor's job is the **security review** or **audit**. This is a 
 
 **The Audit Process:**
 
-1.  **Scope Definition:** The auditor works with the client to define the scope of the audit—which specific contracts and commits will be reviewed.
+1.  **Scope Definition:** The auditor works with the client to define the scope of the audit-which specific contracts and commits will be reviewed.
 2.  **Manual Code Review:** This is the most important part of the process. The auditor reads the code line by line, looking for known vulnerabilities and potential logic errors. This requires deep expertise in the language (usually Solidity) and the EVM.
 3.  **Static and Dynamic Analysis:** The auditor uses a suite of automated tools to supplement their manual review.
     -   **Static Analysis (e.g., Slither):** Scans the source code for known anti-patterns and potential bugs.
@@ -132,7 +132,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

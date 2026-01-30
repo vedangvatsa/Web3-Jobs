@@ -19,7 +19,7 @@ At its core, an **NFT is a unique digital certificate of ownership, recorded on 
 
 To grasp the concept of an NFT, you must first understand the idea of fungibility.
 
--   **Fungible:** An asset is "fungible" if it is interchangeable with another identical unit. A dollar bill is a perfect example. If you and a friend exchange one-dollar bills, you both still have a dollar; nothing of value has been lost or gained. The same applies to cryptocurrencies like Bitcoin—one Bitcoin is identical to and has the same value as another Bitcoin.
+-   **Fungible:** An asset is "fungible" if it is interchangeable with another identical unit. A dollar bill is a perfect example. If you and a friend exchange one-dollar bills, you both still have a dollar; nothing of value has been lost or gained. The same applies to cryptocurrencies like Bitcoin-one Bitcoin is identical to and has the same value as another Bitcoin.
 
 -   **Non-Fungible:** A non-fungible item is unique and cannot be replaced with another. Think of the Mona Lisa, a specific concert ticket for seat A7, or the deed to your house. Each of these items has unique properties and a value that is distinct from similar items. You cannot swap the Mona Lisa for another painting and expect it to hold the same historical significance or value.
 
@@ -39,7 +39,7 @@ This combination of technologies ensures that an NFT's ownership is transparent,
 
 NFTs are a foundational "money lego" for the new, user-owned internet. They enable the "own" part of the "read-write-own" Web3 paradigm.
 
-1.  **True Digital Ownership:** This is the most important concept. In Web2, you don't own your digital items. Your in-game skins, your social media posts, your digital movie collection—they are all just entries in a company's private database. The company can take them away at any time. NFTs give you **self-custodied, verifiable ownership** of your digital assets.
+1.  **True Digital Ownership:** This is the most important concept. In Web2, you don't own your digital items. Your in-game skins, your social media posts, your digital movie collection-they are all just entries in a company's private database. The company can take them away at any time. NFTs give you **self-custodied, verifiable ownership** of your digital assets.
 
 2.  **Empowering the Creator Economy:** NFTs allow digital artists, musicians, and writers to sell their work directly to their audience, bypassing the traditional gatekeepers like galleries, record labels, and publishing houses. The integrated royalty feature also ensures creators continue to benefit as the value of their work grows.
 
@@ -137,7 +137,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -149,7 +149,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

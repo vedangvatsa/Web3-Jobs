@@ -45,7 +45,7 @@ In Web3, a passive "apply and pray" strategy is rarely effective. The best oppor
 Once you've identified a promising role, your work has just begun:
 
 1.  **Become a User:** Before you even think about applying, use the product. Go to the dApp, make a swap, mint an NFT, participate in the protocol. Understand the product from a user's perspective. What are its strengths? What are its weaknesses?
-2.  **Join the Community:** Join the project's Discord and Telegram channels. Don't just join—participate. Ask intelligent questions. Help newcomers. Engage in governance discussions. Become a known, positive-sum member of the community.
+2.  **Join the Community:** Join the project's Discord and Telegram channels. Don't just join-participate. Ask intelligent questions. Help newcomers. Engage in governance discussions. Become a known, positive-sum member of the community.
 3.  **Do Your Research:** Read the documentation. Understand the tokenomics. Analyze their on-chain data using a tool like Dune. Form an educated opinion about the project's strategy and competitive landscape.
 4.  **Tailor Your "Proof of Work":** Your application should not be a generic resume. It should be a demonstration of your value.
     *   **For Developers:** Find a small, open issue on their GitHub and submit a pull request.
@@ -140,7 +140,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -152,7 +152,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

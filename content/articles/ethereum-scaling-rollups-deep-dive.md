@@ -15,7 +15,7 @@ data-ai-hint: "abstract shapes background"
 
 Ethereum, the world's leading smart contract platform, has a scalability problem. In its current form, the Ethereum mainnet can only process around 15-30 transactions per second (TPS). This limited throughput leads to high "gas" fees during periods of network congestion, making many applications economically unviable. For Ethereum to achieve its vision of becoming a global settlement layer for the decentralized internet, it needs to be able to scale to thousands of transactions per second.
 
-This is where Layer 2 scaling solutions come in, and the most important and widely adopted of these are **rollups**. This article provides a deep dive into the world of rollups, explaining what they are, how they work, and why they are the cornerstone of Ethereum's scaling strategy. We will explore the two main types of rollups—Optimistic Rollups and Zero-Knowledge (ZK) Rollups—and break down the fundamental differences in their security models and trade-offs.
+This is where Layer 2 scaling solutions come in, and the most important and widely adopted of these are **rollups**. This article provides a deep dive into the world of rollups, explaining what they are, how they work, and why they are the cornerstone of Ethereum's scaling strategy. We will explore the two main types of rollups-Optimistic Rollups and Zero-Knowledge (ZK) Rollups-and break down the fundamental differences in their security models and trade-offs.
 
 Understanding rollups is no longer optional for anyone serious about Web3. They are the engine that will power the next generation of decentralized applications, from high-frequency DeFi trading to large-scale blockchain games. This guide will provide a clear, accessible explanation of this crucial technology and its role in shaping the future of Ethereum and the broader Web3 ecosystem.
 
@@ -138,7 +138,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

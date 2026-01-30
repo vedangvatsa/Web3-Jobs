@@ -31,9 +31,9 @@ Proof-of-Work is a competition to find a specific number. Let's break down the p
 
 1.  **The Block Header:** Each miner takes their candidate block of transactions and creates a "block header," which is a summary of all the data in the block, including a reference to the previous block's hash.
 2.  **The Nonce:** The miner adds a small piece of data to the block header called a "nonce" (which stands for "number used once").
-3.  **The Hashing Game:** The miner then runs the entire block header through a **cryptographic hash function** (like SHA-256 for Bitcoin). This produces a fixed-length, unpredictable string of characters—the block hash.
+3.  **The Hashing Game:** The miner then runs the entire block header through a **cryptographic hash function** (like SHA-256 for Bitcoin). This produces a fixed-length, unpredictable string of characters-the block hash.
 4.  **The Target:** The network has a "target difficulty." To win the block, a miner must find a nonce that, when combined with the rest of the block header, produces a hash that starts with a certain number of leading zeros. Finding a hash below the target is what constitutes "solving the puzzle."
-5.  **Brute Force:** There is no clever way to solve this puzzle. The only way to find the correct nonce is through brute force—trying trillions of different nonces per second until, by pure chance, one of them produces a valid hash. This requires an immense amount of computational power and electricity, which is the "work" in Proof-of-Work.
+5.  **Brute Force:** There is no clever way to solve this puzzle. The only way to find the correct nonce is through brute force-trying trillions of different nonces per second until, by pure chance, one of them produces a valid hash. This requires an immense amount of computational power and electricity, which is the "work" in Proof-of-Work.
 6.  **The Winner:** The first miner to find a valid hash broadcasts their block to the rest of the network. Other nodes quickly verify that the hash is correct (verifying is easy, finding it is hard), add the block to their copy of the chain, and then start working on the *next* block, which will include the hash of the one just found.
 
 ### Why Does This Process Secure the Network?
@@ -132,7 +132,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -144,7 +144,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

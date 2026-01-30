@@ -11,7 +11,7 @@ category: "Technology Deep Dives"
 
 
 
-For the past fifteen years, our digital identities have been trapped in walled gardens. Your "social graph"—the network of your friends, followers, posts, and interactions—is one of your most valuable digital assets, yet you don't own it. It's owned by platforms like Facebook, Twitter, and TikTok. If you leave the platform, your social graph disappears. If they change their algorithm, your reach vanishes. You are a digital serf, building value on land you do not own.
+For the past fifteen years, our digital identities have been trapped in walled gardens. Your "social graph"-the network of your friends, followers, posts, and interactions-is one of your most valuable digital assets, yet you don't own it. It's owned by platforms like Facebook, Twitter, and TikTok. If you leave the platform, your social graph disappears. If they change their algorithm, your reach vanishes. You are a digital serf, building value on land you do not own.
 
 The **Web3 Social Graph** is a revolutionary movement to change this. It aims to create a new, decentralized foundation for social media where users, not platforms, own and control their data and identity. By building the social graph on open, permissionless protocols, Web3 is paving the way for a more resilient, innovative, and user-centric social media landscape. This guide explores how this new model works, the leading protocols building it, and its profound implications for the future of online identity.
 
@@ -39,9 +39,9 @@ Two projects are at the forefront of building the open social graph, each with a
 
 #### 1. Farcaster: The "Sufficiently Decentralized" Approach
 
--   **Architecture:** Farcaster uses a pragmatic hybrid approach. Your identity is an NFT you control on the Ethereum Layer 2 network, Optimism. This on-chain identity is your permanent, self-sovereign account. However, your high-frequency social data—your posts ("casts"), likes, and follows—is stored off-chain on a peer-to-peer network of servers called "Hubs."
+-   **Architecture:** Farcaster uses a pragmatic hybrid approach. Your identity is an NFT you control on the Ethereum Layer 2 network, Optimism. This on-chain identity is your permanent, self-sovereign account. However, your high-frequency social data-your posts ("casts"), likes, and follows-is stored off-chain on a peer-to-peer network of servers called "Hubs."
 -   **The Trade-off:** This design prioritizes a good user experience. Storing every "like" on a blockchain would be slow and expensive. By handling social data off-chain, Farcaster feels as fast and responsive as a Web2 app, while still anchoring the core identity and ownership on-chain.
--   **Ecosystem:** This architecture has fostered a vibrant ecosystem of clients built on top of the Farcaster protocol. **Warpcast** is the most popular "Twitter-like" client, but dozens of others exist, each offering a unique user experience—from a Reddit-style client to a client focused on long-form content.
+-   **Ecosystem:** This architecture has fostered a vibrant ecosystem of clients built on top of the Farcaster protocol. **Warpcast** is the most popular "Twitter-like" client, but dozens of others exist, each offering a unique user experience-from a Reddit-style client to a client focused on long-form content.
 
 #### 2. Lens Protocol: The "Fully Composable" Approach
 
@@ -123,7 +123,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

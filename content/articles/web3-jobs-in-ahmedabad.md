@@ -357,8 +357,8 @@ A:
 - Indian startup/VC blogs
 
 ### Related Career Guides
-- [Web3 Jobs in Bangalore](web3-jobs-in-bangalore) — India's major hub
-- [Web3 Jobs in Mumbai](web3-jobs-in-mumbai) — India's startup capital
+- [Web3 Jobs in Bangalore](web3-jobs-in-bangalore): India's major hub
+- [Web3 Jobs in Mumbai](web3-jobs-in-mumbai): India's startup capital
 - Startup Founder Web3 Guide
 - Complete Web3 Skills Guide
 

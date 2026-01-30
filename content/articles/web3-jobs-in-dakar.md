@@ -58,7 +58,7 @@ The demand for Web3 talent in Dakar is growing, especially for developers with F
 - **Product Manager:** $3,500–$6,500/month
 - **Growth/Business Lead:** $2,500–$5,000/month
 
-**Cost of Living Advantage:** Monthly expenses in Dakar: $700–$1,100. With a $3,500 remote salary, you save 70–80% of income—exceptional for wealth building.
+**Cost of Living Advantage:** Monthly expenses in Dakar: $700–$1,100. With a $3,500 remote salary, you save 70–80% of income-exceptional for wealth building.
 
 ## 3 Proven Career Paths to $5,000+/Month in Dakar
 
@@ -342,7 +342,7 @@ A:
 - **Conferences:** EthDubai, EthCC, Polygon Connect
 
 ### Job Boards
-- **Our Web3 Job Board** (/jobs) — remote roles
+- **Our Web3 Job Board** (/jobs): remote roles
 - **Crypto.jobs:** All positions
 - **AngelList:** Startups
 - **Upwork:** Freelance starting point
@@ -362,9 +362,9 @@ A:
 
 ### Related Career Guides
 Explore for context:
-- [Web3 Jobs in Lagos](web3-jobs-in-lagos) — West Africa mega-hub
-- [Web3 Jobs in Accra](web3-jobs-in-accra) — West Africa creativity
-- [Web3 Jobs in Algeria](web3-jobs-in-algiers) — MENA hub
+- [Web3 Jobs in Lagos](web3-jobs-in-lagos): West Africa mega-hub
+- [Web3 Jobs in Accra](web3-jobs-in-accra): West Africa creativity
+- [Web3 Jobs in Algeria](web3-jobs-in-algiers): MENA hub
 - FinTech Web3 Careers
 - Complete Web3 Skills Guide
 

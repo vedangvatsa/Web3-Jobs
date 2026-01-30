@@ -35,7 +35,7 @@ The GTM strategy for a Web3 project starts on day zero. From the very first line
 -   **Start the Discord:** Create your Discord server early, but keep it focused. In the early days, it should be a place for a small group of true believers to interact directly with the founding team and provide high-quality feedback.
 
 ### The Airdrop: Your Most Powerful GTM Tool
-An airdrop—the process of distributing your project's native token to early users and community members—is the single most powerful go-to-market tool in Web3. A well-designed airdrop does two things:
+An airdrop-the process of distributing your project's native token to early users and community members-is the single most powerful go-to-market tool in Web3. A well-designed airdrop does two things:
 1.  **It kickstarts decentralization** by distributing ownership to a wide group of stakeholders.
 2.  **It rewards early adopters** and creates a powerful viral marketing loop as people rush to use your protocol in the hopes of qualifying for the drop.
 
@@ -46,7 +46,7 @@ An airdrop—the process of distributing your project's native token to early us
 
 ## Pillar 2: Tokenomics and Launch Strategy
 
-The design of your token—its utility, supply, and distribution—is a core part of your GTM strategy.
+The design of your token-its utility, supply, and distribution-is a core part of your GTM strategy.
 
 ### Token Utility: Giving it a Purpose
 Your token needs a reason to exist beyond pure speculation. The utility can come in several forms:
@@ -79,7 +79,7 @@ Traditional marketing channels like Google and Facebook ads are less effective i
 -   **Dune Analytics:** Create a public Dune dashboard that tracks key metrics for your protocol (e.g., daily active users, transaction volume, TVL). This provides transparency and allows the community to analyze the health of your project. Use data to tell a story of growth and adoption.
 
 ### Composability and Integrations
--   **The "Money Lego" Effect:** The real magic of Web3 is composability—the ability for developers to build new applications on top of your protocol without permission. Your GTM strategy should encourage this.
+-   **The "Money Lego" Effect:** The real magic of Web3 is composability-the ability for developers to build new applications on top of your protocol without permission. Your GTM strategy should encourage this.
 -   **Grants Program:** Establish a grants program to fund developers who want to build on top of your protocol.
 -   **Integrations:** Actively seek integrations with other major DeFi protocols. If your stablecoin becomes a major collateral type on Aave, or your oracle is used by a dozen other projects, you have built a powerful and defensible moat.
 
@@ -168,7 +168,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -180,7 +180,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

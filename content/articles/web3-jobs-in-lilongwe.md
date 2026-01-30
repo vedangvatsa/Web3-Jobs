@@ -187,24 +187,24 @@ A: Job/freelance first. Build income + skills + network. After 1-2 years, launch
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Free Web3 fundamentals
-- [ReFi Academy](https://refiacademy.io/) — Regenerative finance
-- [AgriTech Resources](https://www.agritech.org/) — Agricultural technology
+- [Buildspace](https://buildspace.so/): Free Web3 fundamentals
+- [ReFi Academy](https://refiacademy.io/): Regenerative finance
+- [AgriTech Resources](https://www.agritech.org/): Agricultural technology
 
 **Communities:**
-- [ReFi DAO](https://refidao.com/) — Impact-focused Web3
-- [Polygon Community](https://discord.gg/polygon) — Web3 builders
-- [Africa Blockchain Builders](https://africablockchaininititive.org/) — Continental network
+- [ReFi DAO](https://refidao.com/): Impact-focused Web3
+- [Polygon Community](https://discord.gg/polygon): Web3 builders
+- [Africa Blockchain Builders](https://africablockchaininititive.org/): Continental network
 
 **Job Boards:**
-- [Cryptojobs.xyz](https://cryptojobs.xyz/) — Web3 positions
-- [Upwork](https://upwork.com/) — Freelance contracts
-- [NGO Job Boards](https://www.idealist.org/) — Development roles
+- [Cryptojobs.xyz](https://cryptojobs.xyz/): Web3 positions
+- [Upwork](https://upwork.com/): Freelance contracts
+- [NGO Job Boards](https://www.idealist.org/): Development roles
 
 **Funding & Grants:**
-- [Polygon Grants](https://polygon.technology/grants/) — Up to $100k for builders
-- [Optimism Grants](https://www.optimism.io/grants/) — Impact projects
-- [Gitcoin Grants](https://grants.gitcoin.co/) — Community funding
+- [Polygon Grants](https://polygon.technology/grants/): Up to $100k for builders
+- [Optimism Grants](https://www.optimism.io/grants/): Impact projects
+- [Gitcoin Grants](https://grants.gitcoin.co/): Community funding
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

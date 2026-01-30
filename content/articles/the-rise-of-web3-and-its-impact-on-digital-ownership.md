@@ -29,7 +29,7 @@ In all these cases, ownership is an illusion. You are a user, not an owner, exis
 Web3 introduces a new model for digital ownership, using **[Non-Fungible Tokens (NFTs)](/what-are-nfts)** as the technological backbone.
 
 - **What an NFT is:** An NFT is a unique token on a public **[blockchain](/what-is-a-blockchain)** that acts as a verifiable deed or title for a digital item. It's a public record that proves you, and only you, are the owner of that specific item.
-- **How it works:** When you buy an NFT—be it a piece of digital art, an in-game asset, or a plot of virtual land—the ownership is transferred to your personal **[crypto wallet](/how-to-choose-a-crypto-wallet)**. You control the private keys to this wallet, which means you have self-custody of the asset.
+- **How it works:** When you buy an NFT-be it a piece of digital art, an in-game asset, or a plot of virtual land-the ownership is transferred to your personal **[crypto wallet](/how-to-choose-a-crypto-wallet)**. You control the private keys to this wallet, which means you have self-custody of the asset.
 - **The Key Difference:** Unlike in Web2, the game developer or platform creator cannot take the asset away from you. Even if their website goes down, the record of your ownership exists immutably on the blockchain, and the asset is still in your wallet.
 
 ## The Impact of True Digital Ownership
@@ -39,7 +39,7 @@ This new paradigm of ownership unlocks a host of powerful new possibilities.
 ### 1. The Creator Economy
 
 NFTs allow digital creators to monetize their work directly, without intermediaries.
-- **Artists** can sell their art directly to collectors, and with smart contract-based **[royalties](/nft-artist-royalties)**, they can earn a percentage of every future resale of their work—forever.
+- **Artists** can sell their art directly to collectors, and with smart contract-based **[royalties](/nft-artist-royalties)**, they can earn a percentage of every future resale of their work-forever.
 - **Musicians** can tokenize their songs, giving their fans a way to own a piece of their music and share in its success.
 
 ### 2. Open and Interoperable Economies
@@ -136,7 +136,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -148,7 +148,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -51,7 +51,7 @@ Web3 empowers creators to monetize their content directly from their audience, r
 
 The transition to a Web3 advertising model will not be easy. The incumbent Web2 giants have a powerful incentive to maintain the status quo. Furthermore, the user experience of managing data permissions and interacting with crypto-based reward systems needs to become much more seamless for mainstream adoption.
 
-However, the trend towards greater privacy is undeniable. Regulatory changes like GDPR and Apple's App Tracking Transparency are already chipping away at the old surveillance model. Web3 provides the technological foundation for a new advertising paradigm—one that is built on user consent, respects privacy, and creates a more equitable distribution of value across the internet. For marketers and advertisers, the future is not about finding new ways to track users, but about finding new ways to reward them for their attention.
+However, the trend towards greater privacy is undeniable. Regulatory changes like GDPR and Apple's App Tracking Transparency are already chipping away at the old surveillance model. Web3 provides the technological foundation for a new advertising paradigm-one that is built on user consent, respects privacy, and creates a more equitable distribution of value across the internet. For marketers and advertisers, the future is not about finding new ways to track users, but about finding new ways to reward them for their attention.
 
 ## The Web3 Opportunity
 
@@ -132,7 +132,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -144,7 +144,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -10,7 +10,7 @@ category: "Educational"
 ---
 
 
-In the world of cryptocurrency, a **honeypot** is a particularly deceptive and malicious type of scam. It involves a smart contract that appears to offer an irresistible opportunity—like a new token with a rapidly rising price—but is coded in a way that makes it impossible for anyone but the scammer to withdraw the funds. It's a trap designed to lure in greedy or unsuspecting users and lock their money away forever.
+In the world of cryptocurrency, a **honeypot** is a particularly deceptive and malicious type of scam. It involves a smart contract that appears to offer an irresistible opportunity-like a new token with a rapidly rising price-but is coded in a way that makes it impossible for anyone but the scammer to withdraw the funds. It's a trap designed to lure in greedy or unsuspecting users and lock their money away forever.
 
 Understanding how honeypots work is a crucial part of developing the healthy skepticism needed to navigate the Web3 space safely. This guide explains the mechanics of a honeypot scam and the red flags you can look for to avoid becoming a victim.
 
@@ -130,7 +130,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -142,7 +142,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -19,7 +19,7 @@ For anyone working in or investing in the Web3 space, understanding this line is
 
 The problem arises from two key factors:
 
-1.  **Information Asymmetry:** The technology is complex. The average retail investor does not have the time or expertise to audit smart contracts, analyze tokenomics, or perform deep due diligence. They rely on trusted voices—influencers, media, and community leaders—to help them make decisions.
+1.  **Information Asymmetry:** The technology is complex. The average retail investor does not have the time or expertise to audit smart contracts, analyze tokenomics, or perform deep due diligence. They rely on trusted voices-influencers, media, and community leaders-to help them make decisions.
 2.  **Direct Financial Incentives:** Unlike in Web2, where the link between marketing and direct financial gain is often indirect, in Web3, the link is immediate. A successful marketing campaign doesn't just increase brand awareness; it can directly and instantly increase the price of the token that the marketers themselves hold.
 
 This combination creates a powerful and dangerous incentive to prioritize hype over substance.
@@ -136,7 +136,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -148,7 +148,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

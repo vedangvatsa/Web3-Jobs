@@ -50,7 +50,7 @@ After your first month of immersion, you should have a better sense of which par
 -   **If you're interested in design:** Find a dApp with a confusing user interface. Redesign a specific user flow in Figma and share your case study publicly.
 -   **If you're interested in development:** Start with the basics. Go through a free tutorial like CryptoZombies to learn the fundamentals of [Solidity](/solidity-for-beginners), the main programming language for Ethereum.
 
-The key is to create "proof of work"—public, verifiable evidence of your skills and passion.
+The key is to create "proof of work"-public, verifiable evidence of your skills and passion.
 
 ### Step 3: Your First Contribution - The DAO Pathway
 
@@ -154,7 +154,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -166,7 +166,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

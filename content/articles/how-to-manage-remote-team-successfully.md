@@ -20,7 +20,7 @@ This guide outlines the essential principles and practices for leading a high-pe
 
 ### Principle 1: Embrace Asynchronous Communication
 
-In an office, the default is synchronous communication—meetings, shoulder taps, quick chats. In a remote setting, especially with team members across different time zones, the default must be **asynchronous communication**.
+In an office, the default is synchronous communication-meetings, shoulder taps, quick chats. In a remote setting, especially with team members across different time zones, the default must be **asynchronous communication**.
 
 Async-first means designing your communication to not require everyone to be present at the same time.
 
@@ -136,7 +136,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

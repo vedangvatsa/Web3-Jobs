@@ -193,19 +193,19 @@ A: 8-12 months: 4 months learning + 2-3 months freelance + 2-3 months to full-ti
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Web3 fundamentals
-- [Trade Finance Academy](https://www.ifc.org/trade) — Industry knowledge
-- [DeFi Protocols](https://aave.com/education) — Specialized learning
+- [Buildspace](https://buildspace.so/): Web3 fundamentals
+- [Trade Finance Academy](https://www.ifc.org/trade): Industry knowledge
+- [DeFi Protocols](https://aave.com/education): Specialized learning
 
 **Communities:**
-- [Moroccan Tech Community](https://twitter.com/search?q=morocco%20tech) — Regional network
-- [Polygon Community](https://discord.gg/polygon) — Web3 builders
-- [MENA Fintech Alliance](https://www.menafintechassocc.org/) — Industry group
+- [Moroccan Tech Community](https://twitter.com/search?q=morocco%20tech): Regional network
+- [Polygon Community](https://discord.gg/polygon): Web3 builders
+- [MENA Fintech Alliance](https://www.menafintechassocc.org/): Industry group
 
 **Connections:**
-- Casablanca Stock Exchange — Finance industry
-- Port Authority — Trade logistics
-- Central Bank communications — Policy/regulation
+- Casablanca Stock Exchange: Finance industry
+- Port Authority: Trade logistics
+- Central Bank communications: Policy/regulation
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

@@ -13,7 +13,7 @@ category: "Getting Started"
 
 You've likely heard the terms "Web3," "crypto," and "blockchain" being used to describe the future of the internet. But **what is Web3**? Is it just about cryptocurrencies and NFTs? Or does it represent a more fundamental shift in how the internet works?
 
-At its core, **Web3** is the vision for the next era of the internet—an internet that is decentralized, built on blockchain technology, and owned by its users, not by a handful of powerful corporations. To understand Web3, it helps to first understand the evolution of the web.
+At its core, **Web3** is the vision for the next era of the internet-an internet that is decentralized, built on blockchain technology, and owned by its users, not by a handful of powerful corporations. To understand Web3, it helps to first understand the evolution of the web.
 
 ### The Evolution of the Web
 
@@ -33,25 +33,25 @@ Web3 is built on a set of core principles that differentiate it from the central
 
 Instead of applications and data being hosted on centralized servers owned by a single company, Web3 applications (or "dApps") are built on **[blockchains](/what-is-a-blockchain)**. A blockchain is a peer-to-peer network of computers that work together to maintain a shared, secure database.
 
-- **Why it matters:** This means there is no single point of failure or control. No single company or government can turn off an application or censor information. Power is returned to the edges of the network—to the users. Some ask "**[Is Web3 dead?](/is-web3-dead)**", but this core principle ensures it is more resilient than centralized platforms.
+- **Why it matters:** This means there is no single point of failure or control. No single company or government can turn off an application or censor information. Power is returned to the edges of the network-to the users. Some ask "**[Is Web3 dead?](/is-web3-dead)**", but this core principle ensures it is more resilient than centralized platforms.
 
 #### 2. User Ownership
 
 In Web3, you, the user, are in control of your data and your digital assets. This is made possible through cryptocurrency wallets and blockchain technology.
 
-- **How it works:** When you create a crypto [wallet](/how-to-choose-a-crypto-wallet) (like MetaMask), you are given a unique set of cryptographic keys. This wallet becomes your digital identity. The assets you own—whether it's cryptocurrency like Ethereum or a digital collectible like an NFT—are tied to your wallet. You have self-custody, meaning only you can access and control your assets.
+- **How it works:** When you create a crypto [wallet](/how-to-choose-a-crypto-wallet) (like MetaMask), you are given a unique set of cryptographic keys. This wallet becomes your digital identity. The assets you own-whether it's cryptocurrency like Ethereum or a digital collectible like an NFT-are tied to your wallet. You have self-custody, meaning only you can access and control your assets.
 - **Why it matters:** This flips the Web2 model on its head. Instead of platforms owning your data, you own it. You can take your assets and your reputation with you wherever you go on the web.
 
 #### 3. Verifiable and Trustless
 
 Web3 operates on the principle of "don't trust, verify." Because blockchains are transparent public ledgers, anyone can audit the code of a dApp or verify the history of transactions.
 
-- **How it works:** Instead of trusting a company to act honestly, you trust the code. **[Smart contracts](/what-are-smart-contracts)**—self-executing programs that run on the blockchain—automate agreements and transactions without the need for a trusted intermediary.
+- **How it works:** Instead of trusting a company to act honestly, you trust the code. **[Smart contracts](/what-are-smart-contracts)**-self-executing programs that run on the blockchain-automate agreements and transactions without the need for a trusted intermediary.
 - **Why it matters:** This creates a more fair and transparent environment where the rules are the same for everyone.
 
 ### What Can You Build on Web3? (Web3 Examples)
 
-The building blocks of Web3—decentralization, ownership, and verifiability—unlock a whole new category of applications that weren't possible before. Here are some **Web3 examples**:
+The building blocks of Web3-decentralization, ownership, and verifiability-unlock a whole new category of applications that weren't possible before. Here are some **Web3 examples**:
 
 - **Decentralized Finance (DeFi):** An entire alternative financial system for lending, borrowing, and trading that doesn't rely on banks. This has created a huge number of **[job in cryptocurrency](/defi-careers)** roles.
 - **Non-Fungible Tokens (NFTs):** A way to create provably scarce and unique digital items, giving true ownership of digital art, music, collectibles, and in-game assets to creators and users.
@@ -145,7 +145,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -157,7 +157,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

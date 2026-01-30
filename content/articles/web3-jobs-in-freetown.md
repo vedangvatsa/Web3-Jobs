@@ -235,19 +235,19 @@ A: Follow Ministry of Finance, National Civil Registration Authority on Twitter/
 ### Resources
 
 **Learning (DID/Identity):**
-- [Decentralized Identity Foundation](https://identity.foundation/) — Standards and resources
-- [W3C DID Spec](https://www.w3.org/TR/did-core/) — Official standard
-- [Zero-Knowledge Proofs Course](https://zk-learning.org/) — Advanced cryptography
+- [Decentralized Identity Foundation](https://identity.foundation/): Standards and resources
+- [W3C DID Spec](https://www.w3.org/TR/did-core/): Official standard
+- [Zero-Knowledge Proofs Course](https://zk-learning.org/): Advanced cryptography
 
 **Communities:**
-- [Polygon Community](https://discord.gg/polygon) — Web3 builders
-- [DeFi & GovTech Discord](https://discord.gg/identity) — Specialized networks
-- [Impact DAO](https://www.impactdao.xyz/) — Social good projects
+- [Polygon Community](https://discord.gg/polygon): Web3 builders
+- [DeFi & GovTech Discord](https://discord.gg/identity): Specialized networks
+- [Impact DAO](https://www.impactdao.xyz/): Social good projects
 
 **GovTech Resources:**
-- [Estonia's e-Governance](https://estonia.ee/) — Blockchain governance case study
-- [World Bank Blockchain](https://www.worldbank.org/) — Development finance perspective
-- [UN Tech Initiative](https://www.un.org/en/desa/digital-agenda) — Governance standards
+- [Estonia's e-Governance](https://estonia.ee/): Blockchain governance case study
+- [World Bank Blockchain](https://www.worldbank.org/): Development finance perspective
+- [UN Tech Initiative](https://www.un.org/en/desa/digital-agenda): Governance standards
 
 **Related Articles:**
 - [Understanding Web3 Consensus Mechanisms](understanding-web3-consensus-mechanism-architects)

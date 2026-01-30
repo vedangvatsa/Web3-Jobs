@@ -56,7 +56,7 @@ The job market for Tunisian Web3 professionals is primarily global and remote. A
 - **Senior Solidity Engineer:** $7,000–$12,000+/month
 - **Product Manager:** $4,000–$7,000/month
 
-**Cost of Living Advantage:** Monthly expenses in Tunis: $500–$800. With a $5,000 remote salary, you save 83–90% of income—exceptional for building Web3 wealth.
+**Cost of Living Advantage:** Monthly expenses in Tunis: $500–$800. With a $5,000 remote salary, you save 83–90% of income-exceptional for building Web3 wealth.
 
 ## 3 Proven Career Paths to $6,000+/Month in Tunis
 
@@ -328,7 +328,7 @@ Best mentors are 1-2 steps ahead of you. Find your cohort; level up together.
 - **Conferences:** EthDubai, EthCC, ETHGlobal events
 
 ### Job Boards & Applications
-- **Our Web3 Job Board** (/jobs) — filtered remote roles
+- **Our Web3 Job Board** (/jobs): filtered remote roles
 - **Crypto.jobs:** All crypto industry positions
 - **Messari:** Major protocol job listings
 - **AngelList Talent:** Startup opportunities
@@ -348,8 +348,8 @@ Best mentors are 1-2 steps ahead of you. Find your cohort; level up together.
 
 ### Related Career Guides
 Explore for context and opportunities:
-- [Web3 Jobs in Algeria](web3-jobs-in-algiers) — North Africa MENA hub
-- [Web3 Jobs in Morocco](web3-jobs-in-casablanca) — Gateway Africa
+- [Web3 Jobs in Algeria](web3-jobs-in-algiers): North Africa MENA hub
+- [Web3 Jobs in Morocco](web3-jobs-in-casablanca): Gateway Africa
 - Complete Web3 Skills Guide
 - Remote Web3 Careers
 - DeFi Protocol Engineering

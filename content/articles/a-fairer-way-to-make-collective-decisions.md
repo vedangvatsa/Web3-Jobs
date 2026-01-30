@@ -8,7 +8,7 @@ category: "Industry Insights"
 ---
 
 
-How does a society decide what to build? In the traditional world, the funding of "public goods"—things like parks, scientific research, and open-source software that benefit everyone—is a difficult problem. These goods are important, but because they are non-excludable and non-rivalrous, there's no direct profit motive for any single individual or company to create them. They are often underfunded, relying on government grants or philanthropy, which can be slow, bureaucratic, and subject to the biases of a small group of decision-makers.
+How does a society decide what to build? In the traditional world, the funding of "public goods"-things like parks, scientific research, and open-source software that benefit everyone-is a difficult problem. These goods are important, but because they are non-excludable and non-rivalrous, there's no direct profit motive for any single individual or company to create them. They are often underfunded, relying on government grants or philanthropy, which can be slow, bureaucratic, and subject to the biases of a small group of decision-makers.
 
 Web3, with its focus on new models of governance and coordination, has pioneered a powerful new solution to this problem: **Quadratic Funding (QF)**. It's a mathematically optimal way to fund public goods that amplifies the voice of the community over the wealth of a few. Developed by Vitalik Buterin, Zoe Hitzig, and Glen Weyl, QF is a core component of the **[Web3 for Good](/web3-for-good-careers-in-social-impact-daos)** movement and has the potential to revolutionize how we make collective decisions. This guide will explain how Quadratic Funding works, why it's so powerful, and how it's being used in the real world.
 
@@ -44,7 +44,7 @@ Imagine a matching pool of $10,000.
 
 ### Practical Insights: Gitcoin and the Real-World Impact
 
-The most prominent and successful implementation of Quadratic Funding is **Gitcoin**. Gitcoin runs regular "Grants Rounds" where the community can donate to a wide range of Web3 public goods projects—from open-source software and infrastructure to media and community initiatives.
+The most prominent and successful implementation of Quadratic Funding is **Gitcoin**. Gitcoin runs regular "Grants Rounds" where the community can donate to a wide range of Web3 public goods projects-from open-source software and infrastructure to media and community initiatives.
 
 -   **How it Works:** The Ethereum Foundation and other large protocols contribute millions of dollars to a matching pool. Thousands of individuals then donate small amounts of crypto to the projects they believe in. The QF algorithm then distributes the matching pool funds, providing critical early-stage funding to hundreds of valuable ecosystem projects.
 -   **The Impact:** Gitcoin has become the primary funding mechanism for the public goods layer of the Ethereum ecosystem. Many essential tools and projects that developers use every day got their start through a Gitcoin grant. It has created a sustainable, community-driven economy for open-source development.
@@ -170,7 +170,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

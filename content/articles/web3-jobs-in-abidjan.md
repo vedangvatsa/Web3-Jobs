@@ -184,18 +184,18 @@ A: Months 1-6: learning + occasional freelance. Months 7+: full-time remote role
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Free Web3 courses
-- [React Native + DeFi](https://reactnative.dev/) — Mobile blockchain
-- [Mobile Money APIs](https://developers.mtn.com/) — Integration guides
+- [Buildspace](https://buildspace.so/): Free Web3 courses
+- [React Native + DeFi](https://reactnative.dev/): Mobile blockchain
+- [Mobile Money APIs](https://developers.mtn.com/): Integration guides
 
 **Communities:**
-- [Francophone Web3](https://discord.gg/francoweb3) — French-speaking builders
-- [Polygon Community](https://discord.gg/polygon) — Diverse Web3
-- [West Africa Tech Twitter](https://twitter.com/search?q=west%20africa%20tech) — Regional networks
+- [Francophone Web3](https://discord.gg/francoweb3): French-speaking builders
+- [Polygon Community](https://discord.gg/polygon): Diverse Web3
+- [West Africa Tech Twitter](https://twitter.com/search?q=west%20africa%20tech): Regional networks
 
 **Job Boards:**
-- [Cryptojobs.xyz](https://cryptojobs.xyz/) — Web3 positions
-- [Upwork](https://upwork.com/) — Freelance contracts
+- [Cryptojobs.xyz](https://cryptojobs.xyz/): Web3 positions
+- [Upwork](https://upwork.com/): Freelance contracts
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

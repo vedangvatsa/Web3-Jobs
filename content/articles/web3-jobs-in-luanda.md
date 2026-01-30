@@ -53,7 +53,7 @@ The formal Web3 job market in Luanda is very small and in an early, formative st
 ### Local Opportunities (Very Limited)
 - **Junior Blockchain Developer (Local Startup):** AOA 1,000,000–2,000,000/month (~$1,200–$2,400 USD)
 - **Community Manager (Crypto Education):** AOA 500,000–1,000,000/month (~$600–$1,200 USD)
-- **Tech Consultant (FinTech Background):** AOA 1,500,000–3,000,000/month (~$1,800–$3,600 USD) — project-based
+- **Tech Consultant (FinTech Background):** AOA 1,500,000–3,000,000/month (~$1,800–$3,600 USD): project-based
 
 ### Remote Opportunities (Highly Recommended)
 - **Mid-Level Developer:** $2,500–$4,500/month
@@ -61,7 +61,7 @@ The formal Web3 job market in Luanda is very small and in an early, formative st
 - **FinTech/Product Manager:** $3,000–$6,000/month
 - **Community Lead:** $1,500–$3,500/month
 
-**Cost of Living Advantage:** Luanda is one of Africa's most expensive cities (~$1,200–$1,800/month), but a $3,500 remote salary still yields 57–71% savings—better than many developed countries.
+**Cost of Living Advantage:** Luanda is one of Africa's most expensive cities (~$1,200–$1,800/month), but a $3,500 remote salary still yields 57–71% savings-better than many developed countries.
 
 ## 3 Proven Career Paths to $5,000+/Month in Luanda
 
@@ -359,7 +359,7 @@ After 1-2 years, you can shift: invest more aggressively, consider business/star
 - **Conferences:** EthDubai, Polygon Connect, EthCC
 
 ### Job Boards & Applications
-- **Our Web3 Job Board** (/jobs) — filtered for remote roles
+- **Our Web3 Job Board** (/jobs): filtered for remote roles
 - **Crypto.jobs:** All crypto industry positions
 - **AngelList Talent:** Startup and early-stage opportunities
 - **LinkedIn:** Search "Web3 Engineer Remote" or "Blockchain Developer"
@@ -375,13 +375,13 @@ After 1-2 years, you can shift: invest more aggressively, consider business/star
 - "Mastering Ethereum" by Andreas Antonopoulos & Gavin Wood
 - "The Age of Cryptocurrency" by Paul Vigna & Michael J. Casey
 - "DeFi Protocol Whitepapers" (Uniswap, Aave, Curve)
-- Bankless newsletter — weekly analysis
-- Paradigm research — deep technical research
+- Bankless newsletter: weekly analysis
+- Paradigm research: deep technical research
 
 ### Related Career Guides
 Explore these guides for complementary opportunities:
-- [Web3 Jobs in Kinshasa](web3-jobs-in-kinshasa) — Central Africa supply chain + DeFi
-- [Web3 Jobs in Harare](web3-jobs-in-harare) — Hyperinflation + currency solutions
+- [Web3 Jobs in Kinshasa](web3-jobs-in-kinshasa): Central Africa supply chain + DeFi
+- [Web3 Jobs in Harare](web3-jobs-in-harare): Hyperinflation + currency solutions
 - FinTech Web3 Careers
 - Complete Web3 Skills Guide
 - Remote Web3 Careers Guide

@@ -13,7 +13,7 @@ data-ai-hint: 'career change'
 
 Feeling the urge to change your career path is incredibly common. Maybe the work that once excited you now feels monotonous. Perhaps you've discovered a new passion, or the industry you're in is facing disruption. Whatever the reason, the idea of a career pivot can be both thrilling and terrifying. It’s a bold move, but with a thoughtful and strategic approach, you can transition into a new field that is more aligned with your passions, skills, and long-term goals.
 
-A career pivot isn't about starting from scratch. It's about leveraging the strengths and experiences you already have and applying them in a new context. You're not throwing away your past; you're building a bridge from it to your future. The process involves deep self-reflection, targeted skill-building, and strategic networking. It’s a journey that requires patience and persistence, but the reward—a more fulfilling professional life—is well worth the effort.
+A career pivot isn't about starting from scratch. It's about leveraging the strengths and experiences you already have and applying them in a new context. You're not throwing away your past; you're building a bridge from it to your future. The process involves deep self-reflection, targeted skill-building, and strategic networking. It’s a journey that requires patience and persistence, but the reward-a more fulfilling professional life-is well worth the effort.
 
 Many people get stuck in the "dreaming" phase because they don't know where to start. They feel overwhelmed by the unknown. The key is to break down the process into manageable steps. By systematically exploring your options, testing your assumptions, and building your case, you can move from "I wish I could do something else" to "I am actively building my new career."
 
@@ -130,7 +130,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

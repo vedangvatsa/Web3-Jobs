@@ -20,7 +20,7 @@ In October 2021, Mark Zuckerberg announced that Facebook, the parent company of 
 
 This move was driven by several factors:
 
-1.  **The Next Computing Platform:** Zuckerberg believes that the metaverse—an immersive, 3D version of the internet—will be the successor to the mobile internet. He wants to ensure that his company controls the hardware (VR/AR headsets) and software (the core platforms) of this new era, avoiding the dependency he has on Apple and Google in the mobile world.
+1.  **The Next Computing Platform:** Zuckerberg believes that the metaverse-an immersive, 3D version of the internet-will be the successor to the mobile internet. He wants to ensure that his company controls the hardware (VR/AR headsets) and software (the core platforms) of this new era, avoiding the dependency he has on Apple and Google in the mobile world.
 2.  **Escaping the Social Media Trap:** The Facebook brand had become increasingly tarnished by controversies over data privacy, misinformation, and content moderation. The rebrand was an attempt to distance the company from its social media past and define itself by its future-oriented ambitions.
 3.  **The Threat of a Decentralized Web3:** Zuckerberg is acutely aware of the threat that a decentralized, user-owned Web3 poses to his centralized, ad-driven business model. By building his own proprietary metaverse, he is attempting to co-opt the narrative and create a "walled garden" version of the metaverse before the decentralized one can gain mass adoption.
 
@@ -40,11 +40,11 @@ Meta's strategy is built on controlling the hardware gateway to the metaverse. T
 Horizon Worlds is Meta's flagship social VR application. It is a user-generated world where people can create their own environments, play games, and socialize as avatars.
 
 *   **A "Walled Garden":** Horizon Worlds is a classic example of a "walled garden." It is a proprietary platform entirely controlled by Meta. The assets created within it are not interoperable with other platforms, and Meta has complete control over content moderation and monetization.
-*   **High Take Rates:** Meta's plan for monetization in Horizon Worlds drew heavy criticism from the Web3 community. The company announced it would take a cut of up to 47.5% on the sale of digital assets within the platform—a rate even higher than Apple's controversial 30% App Store fee. This stands in stark contrast to the low single-digit royalty fees common on open NFT marketplaces.
+*   **High Take Rates:** Meta's plan for monetization in Horizon Worlds drew heavy criticism from the Web3 community. The company announced it would take a cut of up to 47.5% on the sale of digital assets within the platform-a rate even higher than Apple's controversial 30% App Store fee. This stands in stark contrast to the low single-digit royalty fees common on open NFT marketplaces.
 
 ### 3. A Focus on Avatars and Social Presence
 
-Zuckerberg's vision is heavily focused on the feeling of "social presence"—the sense that you are truly "there" with other people in a virtual space. He has invested heavily in developing expressive, realistic avatars and creating virtual environments for work and play. His initial demo of a leg-equipped avatar in Horizon Worlds, while later revealed to be motion-captured, shows the company's focus on creating a polished and relatable user experience, even if the underlying technology isn't fully there yet.
+Zuckerberg's vision is heavily focused on the feeling of "social presence"-the sense that you are truly "there" with other people in a virtual space. He has invested heavily in developing expressive, realistic avatars and creating virtual environments for work and play. His initial demo of a leg-equipped avatar in Horizon Worlds, while later revealed to be motion-captured, shows the company's focus on creating a polished and relatable user experience, even if the underlying technology isn't fully there yet.
 
 ## The Clash with Web3 Ethos
 

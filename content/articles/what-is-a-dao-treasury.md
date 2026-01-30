@@ -57,7 +57,7 @@ A: This is a complex and evolving area of law. If a DAO has a "legal wrapper" (a
 
 **Q: What is the difference between a DAO treasury and the project's market cap?**
 
-A: Market cap is the total value of all tokens in circulation (circulating supply * token price). The treasury, on the other hand, only holds a portion of those tokens—the portion owned by the DAO itself for its operations. The treasury's value is typically a fraction of the total market cap.
+A: Market cap is the total value of all tokens in circulation (circulating supply * token price). The treasury, on the other hand, only holds a portion of those tokens-the portion owned by the DAO itself for its operations. The treasury's value is typically a fraction of the total market cap.
 
 ## Why This Matters
 
@@ -120,7 +120,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

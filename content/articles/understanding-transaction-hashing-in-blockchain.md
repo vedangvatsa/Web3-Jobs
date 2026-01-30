@@ -12,7 +12,7 @@ category: "Educational"
 
 Every transaction on a blockchain has a unique digital fingerprint, a special identifier that proves its authenticity and secures its place in the ledger. This fingerprint is called a transaction hash, often shortened to TxID. Understanding what a hash is and how it’s generated is fundamental to grasping the security and integrity of blockchain technology. It’s the cryptographic magic that makes the ledger tamper-proof.
 
-A transaction hash is a fixed-length string of letters and numbers that uniquely identifies a specific transaction. It’s created by putting the transaction's details—such as the sender's address, the recipient's address, the amount, and a timestamp—through a cryptographic hash function. The most common algorithm used is SHA-256 (Secure Hash Algorithm 256-bit). This process is not encryption; it's a one-way street. You can't reverse-engineer the transaction details from the hash, but the same transaction details will always produce the exact same hash.
+A transaction hash is a fixed-length string of letters and numbers that uniquely identifies a specific transaction. It’s created by putting the transaction's details-such as the sender's address, the recipient's address, the amount, and a timestamp-through a cryptographic hash function. The most common algorithm used is SHA-256 (Secure Hash Algorithm 256-bit). This process is not encryption; it's a one-way street. You can't reverse-engineer the transaction details from the hash, but the same transaction details will always produce the exact same hash.
 
 ### The Core Properties of a Hash Function
 
@@ -20,7 +20,7 @@ Hash functions are the unsung heroes of blockchain. Their power comes from a few
 
 1.  **Deterministic:** A hash function is deterministic, meaning that the same input will always produce the exact same output. If you hash the phrase "Hello World," you will get the same result every single time. If even one letter changes (e.g., "hello world"), the resulting hash will be completely different. This predictability is crucial for verification. Anyone on the network can take the same transaction data, run it through the same hash function, and verify that it produces the same hash, confirming the data hasn't been altered.
 
-2.  **Fixed-Length Output:** No matter how large or small the input data is—whether it's a single word or an entire book—the output hash will always be the same fixed length. For SHA-256, this is a 256-bit string, commonly represented as 64 hexadecimal characters. This standardization makes it easy to work with hashes in a database or a block structure.
+2.  **Fixed-Length Output:** No matter how large or small the input data is-whether it's a single word or an entire book-the output hash will always be the same fixed length. For SHA-256, this is a 256-bit string, commonly represented as 64 hexadecimal characters. This standardization makes it easy to work with hashes in a database or a block structure.
 
 3.  **Pre-image Resistance (One-Way):** This is a critical security feature. It must be computationally infeasible to figure out the original input data just by looking at the output hash. It's easy to go from the transaction data to the hash, but practically impossible to go the other way. This protects the privacy of the transaction details in certain contexts and ensures that you can't forge a transaction to match a specific hash.
 
@@ -123,7 +123,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -135,7 +135,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

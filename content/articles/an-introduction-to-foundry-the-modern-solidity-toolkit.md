@@ -10,7 +10,7 @@ category: "Getting Started"
 
 For years, the standard toolkit for Ethereum development was dominated by JavaScript-based frameworks like Hardhat and Truffle. These tools have been instrumental in the growth of the ecosystem, but they come with a key drawback: you write your smart contracts in Solidity, but your tests and scripts in JavaScript. This context-switching can be inefficient and sometimes introduces subtle bugs.
 
-Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a blazing fast, portable, and modular toolkit for Ethereum application development, and its killer feature is that it allows you to do everything—including writing your tests—**directly in Solidity**.
+Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a blazing fast, portable, and modular toolkit for Ethereum application development, and its killer feature is that it allows you to do everything-including writing your tests-**directly in Solidity**.
 
 This guide will provide an introduction to Foundry and walk through why so many developers are making the switch.
 
@@ -91,7 +91,7 @@ To run these tests, you would simply run `forge test` in your terminal.
 2.  **Start a Project:** Use `forge init my-project` to create a new Foundry project.
 3.  **The Foundry Book:** The official documentation, known as the "Foundry Book," is an excellent, comprehensive resource for learning everything about the toolkit.
 
-While Hardhat remains a powerful and popular choice, Foundry represents a significant evolution in the Ethereum developer experience. Its focus on speed, simplicity, and Solidity-native testing is winning over developers who want a more efficient and powerful workflow. For any serious Ethereum developer, learning Foundry is no longer optional—it's a necessary skill for building robust and secure smart contracts.
+While Hardhat remains a powerful and popular choice, Foundry represents a significant evolution in the Ethereum developer experience. Its focus on speed, simplicity, and Solidity-native testing is winning over developers who want a more efficient and powerful workflow. For any serious Ethereum developer, learning Foundry is no longer optional-it's a necessary skill for building robust and secure smart contracts.
 ## Related Articles
 
 - [10 Big Ideas In Web3 For 2025](10-big-ideas-in-web3-for-2025)
@@ -224,7 +224,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -236,7 +236,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

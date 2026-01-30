@@ -20,7 +20,7 @@ This article will break down the key reasons behind the developer activity slowd
 The primary driver of the recent developer influx was the euphoric bull market of 2021-2022. This period was characterized by:
 -   **Massive Hype and Speculation:** The NFT boom and "DeFi Summer 2.0" created a gold rush atmosphere, attracting a huge number of developers who were drawn by the promise of quick wealth and exciting new primitives.
 -   **Frenzied Venture Capital Funding:** VCs poured billions into the space, and startups hired aggressively to capture the market's attention.
--   **The "Tourist" Developer:** This environment attracted many "tourists"—developers who were curious about the space and the financial opportunities but lacked a deep, long-term conviction in the underlying technology.
+-   **The "Tourist" Developer:** This environment attracted many "tourists"-developers who were curious about the space and the financial opportunities but lacked a deep, long-term conviction in the underlying technology.
 
 The current slowdown is, in large part, a "hangover" from this unsustainable period of growth. As the market cooled and the speculative froth dissipated, many of the tourist developers have moved on, returning to more stable jobs in Web2 or migrating to the next hot trend, like AI. This is a natural and healthy cleansing process. The builders who remain are the true believers who are here for the technology, not the temporary hype.
 
@@ -145,7 +145,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -157,7 +157,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

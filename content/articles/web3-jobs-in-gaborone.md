@@ -175,7 +175,7 @@ A: Enterprise and regulated finance. DeFi exists but less of the focus. Play to 
 A: Yes. Either local role (BWP 25,000+ = $1,875+/month) or remote ($3,000-6,000+). Savings rate higher than most countries.
 
 **Q: What about competition from South Africa?**
-A: South Africa is 5+ years ahead. Gaborone is emerging market—less competition, more opportunity to be a founder/leader.
+A: South Africa is 5+ years ahead. Gaborone is emerging market-less competition, more opportunity to be a founder/leader.
 
 **Q: Can I start a blockchain company here?**
 A: Absolutely. Government is supportive. Apply to hub programs. Build product serving Southern Africa. Funding available.
@@ -189,14 +189,14 @@ A: Build remote skills first; land international role; live in Gaborone (low cos
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Web3 fundamentals
-- [Hyperledger Learning](https://www.hyperledger.org/learning) — Enterprise blockchain
-- [Enterprise Blockchain Academy](https://www.coursera.org/courses?query=enterprise%20blockchain) — Specialized training
+- [Buildspace](https://buildspace.so/): Web3 fundamentals
+- [Hyperledger Learning](https://www.hyperledger.org/learning): Enterprise blockchain
+- [Enterprise Blockchain Academy](https://www.coursera.org/courses?query=enterprise%20blockchain): Specialized training
 
 **Communities:**
-- [Botswana Digital & Innovation Hub](https://www.bih.co.bw/) — Local epicenter
-- [Polygon Community](https://discord.gg/polygon) — Web3 builders
-- [SADC Tech Network](https://twitter.com/search?q=SADC%20tech) — Regional connections
+- [Botswana Digital & Innovation Hub](https://www.bih.co.bw/): Local epicenter
+- [Polygon Community](https://discord.gg/polygon): Web3 builders
+- [SADC Tech Network](https://twitter.com/search?q=SADC%20tech): Regional connections
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

@@ -112,7 +112,7 @@ Choose your specialization:
 **For Business Professionals:**
 - Study the organizations involved in Guinea's mining (major companies, government agencies, international buyers)
 - Research certification standards (responsible sourcing, ethical mining labels)
-- Analyze the incentive structures—why would each player adopt your blockchain solution?
+- Analyze the incentive structures-why would each player adopt your blockchain solution?
 - Create a detailed implementation roadmap for a specific mining company
 
 ### Months 6-12: Portfolio and Network
@@ -302,7 +302,7 @@ As a Web3 professional in Conakry:
 - **Consultant (specialized expertise):** $5,000-$20,000+ USD/month (project-based)
 - **Founder (startup revenue-based):** Highly variable; could range from $0 to $100,000+/month
 
-For reference, the average Guinean salary is around $200-$400 USD/month. A $5,000/month remote role represents a 12-25x increase—extraordinary wealth-building potential that can fund your own ventures and give back to your community.
+For reference, the average Guinean salary is around $200-$400 USD/month. A $5,000/month remote role represents a 12-25x increase-extraordinary wealth-building potential that can fund your own ventures and give back to your community.
 
 ## Your Immediate Action Plan
 

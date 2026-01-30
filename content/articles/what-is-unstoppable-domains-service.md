@@ -38,7 +38,7 @@ However, instead of just `.eth` domains, Unstoppable Domains offers a wider vari
 
 ### The Role of Web3 Naming Services
 
-Services like Unstoppable Domains and ENS are a critical piece of the Web3 user experience puzzle. They are abstracting away one of the most intimidating parts of crypto—the long, hexadecimal addresses—and replacing them with a simple, human-centric system. By creating a portable and user-owned naming standard, they are laying the groundwork for a more accessible and intuitive decentralized internet.
+Services like Unstoppable Domains and ENS are a critical piece of the Web3 user experience puzzle. They are abstracting away one of the most intimidating parts of crypto-the long, hexadecimal addresses-and replacing them with a simple, human-centric system. By creating a portable and user-owned naming standard, they are laying the groundwork for a more accessible and intuitive decentralized internet.
 
 ## Why This Matters
 
@@ -101,7 +101,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

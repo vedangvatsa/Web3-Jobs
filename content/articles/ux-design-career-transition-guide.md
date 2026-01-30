@@ -13,7 +13,7 @@ category: "Career Guides"
 
 User Experience (UX) and User Interface (UI) design have become some of the most in-demand and fulfilling careers in the digital world. UX/UI designers are the architects of the user journey, responsible for making technology not just functional, but also intuitive, accessible, and enjoyable to use.
 
-If you're in a different field but find yourself fascinated by how users interact with products, passionate about solving problems, and possessing a blend of creative and analytical thinking, a career in UX/UI design might be your calling. The good news is that people from diverse backgrounds—including graphic design, marketing, psychology, and customer support—can successfully transition into UX.
+If you're in a different field but find yourself fascinated by how users interact with products, passionate about solving problems, and possessing a blend of creative and analytical thinking, a career in UX/UI design might be your calling. The good news is that people from diverse backgrounds-including graphic design, marketing, psychology, and customer support-can successfully transition into UX.
 
 This guide will provide you with a step-by-step roadmap to make a successful career change into UX/UI design.
 
@@ -154,7 +154,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

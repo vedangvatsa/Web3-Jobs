@@ -44,7 +44,7 @@ Your primary goal in the first 30 days is to absorb information and build founda
 - Document processes and procedures as you learn them (this builds institutional knowledge)
 - Start to identify areas where you might add value later
 - Build rapport with your team through consistent, reliable work
-- Avoid the temptation to propose major changes—you don't yet understand all the context
+- Avoid the temptation to propose major changes-you don't yet understand all the context
 
 **Success Metrics for Phase 1:**
 - You can explain the company's business model and current priorities in your own words
@@ -61,12 +61,12 @@ Shift from pure learning to actively demonstrating your value. You've now absorb
 - Take on a more significant project or responsibility
 - Start identifying inefficiencies or areas where your unique skills can add value
 - Begin offering observations: "I noticed we do X this way. Have you considered Y?"
-- Participate more actively in team meetings—ask thoughtful questions, not just listening
+- Participate more actively in team meetings-ask thoughtful questions, not just listening
 - Seek feedback actively: "How do you think I'm settling in?" and "What's one thing I could improve?"
 - Start building a reputation for a specific strength (whether that's attention to detail, creative thinking, or technical expertise)
 
 **Weeks 9-12: Establishing Patterns**
-- Take on a stretch project—something moderately challenging that requires you to learn something new
+- Take on a stretch project-something moderately challenging that requires you to learn something new
 - This demonstrates ambition without being reckless
 - Build strong working relationships with 2-3 key colleagues you'll interact with frequently
 - Start saying "no" strategically to work that's not aligned with your core responsibilities
@@ -86,7 +86,7 @@ You now understand the landscape. Time to start shaping your role and planning y
 **Weeks 13-16: Taking Initiative**
 - Identify a problem or opportunity and propose a solution
 - Volunteer to lead a small project or initiative (this demonstrates leadership capability)
-- Be more proactive in meetings—share your perspective without waiting to be asked
+- Be more proactive in meetings-share your perspective without waiting to be asked
 - Start building relationships with people outside your immediate team
 - Document lessons learned and areas for improvement
 
@@ -138,7 +138,7 @@ You now understand the landscape. Time to start shaping your role and planning y
 ## Frequently Asked Questions
 
 **Q: What if my onboarding is terrible and nobody is helping me?**
-A: Take initiative. Reach out directly to people you need to learn from. "I'd love to understand X better—do you have 15 minutes for a coffee chat?" Most people will say yes.
+A: Take initiative. Reach out directly to people you need to learn from. "I'd love to understand X better-do you have 15 minutes for a coffee chat?" Most people will say yes.
 
 **Q: What if I disagree with how something is done?**
 A: Document your observation. After you fully understand the context (usually 60+ days), you can bring it up: "I've noticed we do X. I'm curious about the history on that. Have you considered Y?" Frame it as curious, not critical.

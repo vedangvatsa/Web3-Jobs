@@ -26,9 +26,9 @@ The central argument in Chris Dixon's book, *Read Write Own: Building the Next E
 
 He frames the history of the internet in three stages:
 
-1.  **Web1 (Read):** The era of open protocols (like HTTP, SMTP) from roughly 1990-2005. It was decentralized and community-governed. Users could "read" content, but it was mostly static. The value accrued to the edges of the network—the users and builders.
+1.  **Web1 (Read):** The era of open protocols (like HTTP, SMTP) from roughly 1990-2005. It was decentralized and community-governed. Users could "read" content, but it was mostly static. The value accrued to the edges of the network-the users and builders.
 2.  **Web2 (Read-Write):** The era of centralized, corporate networks (like Google, Facebook, Twitter) from roughly 2005-2020. These platforms made it easy for users to "read and write" content (e.g., social media posts, videos), leading to an explosion of creativity. However, these companies eventually shifted from attracting users to extracting value from them, taking control of data, changing the rules arbitrarily, and censoring content. The value accrued to a handful of corporations.
-3.  **Web3 (Read-Write-Own):** The current era, built on blockchain technology. Web3 combines the decentralized, community-governed ethos of Web1 with the rich, interactive functionality of Web2. The key innovation is **ownership**. Users can truly own a piece of the internet—their digital assets, their data, their identity—in the form of tokens. The value accrues back to the builders and users who make up the network.
+3.  **Web3 (Read-Write-Own):** The current era, built on blockchain technology. Web3 combines the decentralized, community-governed ethos of Web1 with the rich, interactive functionality of Web2. The key innovation is **ownership**. Users can truly own a piece of the internet-their digital assets, their data, their identity-in the form of tokens. The value accrues back to the builders and users who make up the network.
 
 Dixon argues that this "ownership" component is the unlock that will power a new wave of innovation, just as mobile and cloud powered the last one.
 
@@ -60,7 +60,7 @@ This is Dixon's framework for how to build a successful network. The idea is to 
 
 ### 4. Skeuomorphism in New Technologies
 
-Dixon often points out that new technologies initially tend to imitate the old ones—a phenomenon called skeuomorphism.
+Dixon often points out that new technologies initially tend to imitate the old ones-a phenomenon called skeuomorphism.
 
 *   **Early Cars:** Looked like "horseless carriages."
 *   **Early Web:** Was full of digital "brochures" that imitated print media.
@@ -70,7 +70,7 @@ His argument is that the true breakthrough applications of a new technology are 
 
 ## Conclusion: The Optimist's Case for Web3
 
-Chris Dixon is one of Web3's most important and optimistic proponents. His frameworks provide a powerful lens through which to understand the significance of the movement. He sees Web3 not as a niche financial market, but as a fundamental shift in the architecture of the internet—a shift from a centralized, corporate-owned web to a decentralized, community-owned web.
+Chris Dixon is one of Web3's most important and optimistic proponents. His frameworks provide a powerful lens through which to understand the significance of the movement. He sees Web3 not as a niche financial market, but as a fundamental shift in the architecture of the internet-a shift from a centralized, corporate-owned web to a decentralized, community-owned web.
 
 By articulating this vision through clear and compelling mental models, he has provided the intellectual foundation for a generation of entrepreneurs and developers. His work is a call to action for builders to move beyond the limitations of Web2 and to create a more equitable, innovative, and user-owned internet.
 

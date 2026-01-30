@@ -203,24 +203,24 @@ A: Remote work is viable. Being in Nairobi 3-6 months helps for network and grou
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Web3 fundamentals
-- [Ethereum.org](https://ethereum.org/developers) — Development resources
-- [React Native + Web3](https://reactnative.dev/) — Mobile development
+- [Buildspace](https://buildspace.so/): Web3 fundamentals
+- [Ethereum.org](https://ethereum.org/developers): Development resources
+- [React Native + Web3](https://reactnative.dev/): Mobile development
 
 **Communities & Hubs:**
-- [iHub Nairobi](https://ihub.co.ke/) — Main tech hub
-- [Polygon Community](https://discord.gg/polygon) — Web3 builders
-- [East Africa Web3 Community](https://twitter.com/search?q=east%20africa%20web3) — Regional network
+- [iHub Nairobi](https://ihub.co.ke/): Main tech hub
+- [Polygon Community](https://discord.gg/polygon): Web3 builders
+- [East Africa Web3 Community](https://twitter.com/search?q=east%20africa%20web3): Regional network
 
 **Job & Opportunity Boards:**
-- [Cryptojobs.xyz](https://cryptojobs.xyz/) — Web3 positions
-- [iHub Job Board](https://ihub.co.ke/jobs) — Local opportunities
-- [Upwork](https://upwork.com/) — Freelance contracts
+- [Cryptojobs.xyz](https://cryptojobs.xyz/): Web3 positions
+- [iHub Job Board](https://ihub.co.ke/jobs): Local opportunities
+- [Upwork](https://upwork.com/): Freelance contracts
 
 **Funding & Grants:**
-- [Polygon Grants](https://polygon.technology/grants/) — Up to $100k
-- [Optimism Grants](https://www.optimism.io/grants/) — Impact projects
-- [World Bank Innovation Fund](https://www.worldbank.org/) — Development focus
+- [Polygon Grants](https://polygon.technology/grants/): Up to $100k
+- [Optimism Grants](https://www.optimism.io/grants/): Impact projects
+- [World Bank Innovation Fund](https://www.worldbank.org/): Development focus
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

@@ -98,7 +98,7 @@ Use on-chain data to understand your users and measure the health of your protoc
 
 The Web3 GTM playbook is a fundamental departure from the past. It's a shift from centralized marketing campaigns to decentralized community cultivation. It requires a mindset of transparency, collaboration, and a genuine commitment to user ownership.
 
-Projects that try to apply a traditional Web2 marketing playbook to Web3 will fail. They will be seen as inauthentic and will be unable to build the trust required to succeed. The projects that win will be those that understand that in Web3, the community is not just a part of the marketing strategy—the community *is* the strategy. By building in public, rewarding early believers, and progressively ceding control, you can create a vibrant, self-sustaining ecosystem that is far more resilient and powerful than any centralized company.
+Projects that try to apply a traditional Web2 marketing playbook to Web3 will fail. They will be seen as inauthentic and will be unable to build the trust required to succeed. The projects that win will be those that understand that in Web3, the community is not just a part of the marketing strategy-the community *is* the strategy. By building in public, rewarding early believers, and progressively ceding control, you can create a vibrant, self-sustaining ecosystem that is far more resilient and powerful than any centralized company.
 
 ## The Web3 Opportunity
 
@@ -179,7 +179,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -191,7 +191,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

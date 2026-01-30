@@ -53,7 +53,7 @@ Web3 is also changing the very rails on which payments run.
 
 ### The Road Ahead
 
-The integration of Web3 into online shopping is still in its early days. The user experience of connecting a wallet and signing transactions remains a major hurdle for mainstream adoption. However, the underlying benefits—true ownership, lower fees, greater transparency, and deeper community engagement—are incredibly powerful. As the technology becomes more user-friendly, Web3 is set to transform e-commerce from a simple transactional experience into a rich, interactive, and community-owned economy.
+The integration of Web3 into online shopping is still in its early days. The user experience of connecting a wallet and signing transactions remains a major hurdle for mainstream adoption. However, the underlying benefits-true ownership, lower fees, greater transparency, and deeper community engagement-are incredibly powerful. As the technology becomes more user-friendly, Web3 is set to transform e-commerce from a simple transactional experience into a rich, interactive, and community-owned economy.
 
 ## The Web3 Opportunity
 
@@ -134,7 +134,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -146,7 +146,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

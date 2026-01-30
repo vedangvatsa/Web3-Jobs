@@ -35,14 +35,14 @@ However, the Web3 community is pushing for an "open metaverse," built on the pri
 
 ### 1. True Digital Ownership (NFTs)
 
-In an open metaverse, your digital property—your avatar's clothes, your virtual land, your digital art—must be truly yours. This is made possible by **Non-Fungible Tokens (NFTs)**. When you buy or earn an item in a Web3-powered virtual world, you receive an NFT that represents verifiable ownership of that item on a public blockchain.
+In an open metaverse, your digital property-your avatar's clothes, your virtual land, your digital art-must be truly yours. This is made possible by **Non-Fungible Tokens (NFTs)**. When you buy or earn an item in a Web3-powered virtual world, you receive an NFT that represents verifiable ownership of that item on a public blockchain.
 
 - **You Own It, Not the Platform:** Unlike in a traditional video game, the platform developer cannot take your items away from you. You hold them in your own crypto wallet.
 - **Open Marketplaces:** You can sell or trade your digital assets on any open NFT marketplace, not just within the closed economy of a single game or world.
 
 ### 2. A Persistent Digital Identity
 
-Your metaverse identity—your avatar, your reputation, your social graph—should not be tied to a single platform. Web3 enables this through decentralized identity solutions and wallet addresses.
+Your metaverse identity-your avatar, your reputation, your social graph-should not be tied to a single platform. Web3 enables this through decentralized identity solutions and wallet addresses.
 
 - **Your Wallet as Your Passport:** Your Ethereum address (e.g., yourname.eth) can act as your universal login across different virtual worlds. Your assets, credentials, and transaction history are all tied to this public address, allowing you to build a persistent, portable reputation.
 
@@ -50,7 +50,7 @@ Your metaverse identity—your avatar, your reputation, your social graph—shou
 
 The metaverse will have its own complex economy. Web3 provides the tools to build this economy in an open and transparent way.
 
-- **Decentralized Finance (DeFi):** The financial primitives of DeFi—lending, borrowing, trading—can be integrated directly into virtual worlds, creating a fully-fledged financial system within the metaverse.
+- **Decentralized Finance (DeFi):** The financial primitives of DeFi-lending, borrowing, trading-can be integrated directly into virtual worlds, creating a fully-fledged financial system within the metaverse.
 - **GameFi:** As explored in our [guide to Web3 gaming](/exploring-web3-gaming), "Play-to-Own" models allow users to earn real economic value for their contributions and time spent in the metaverse.
 
 ## The Leading Metaverse Platforms Today
@@ -132,7 +132,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

@@ -30,7 +30,7 @@ Traditional industries might see significant technological shifts every 5-10 yea
 - New paradigms (DAO governance, NFTs, DeFi) create entirely new specializations
 - Market cycles create boom-and-bust hiring patterns
 
-**What This Means:** Skills depreciate faster. What made you expert in 2020 might be outdated by 2023. Continuous learning isn't optional—it's essential.
+**What This Means:** Skills depreciate faster. What made you expert in 2020 might be outdated by 2023. Continuous learning isn't optional-it's essential.
 
 ### Meritocracy (More Than Other Industries)
 
@@ -42,11 +42,11 @@ In Web3, where you went to school or who you know matters less than what you can
 
 ### Public Portfolios
 
-Your work is visible. Your GitHub, your tweets, your public contributions—they're all part of your resume.
+Your work is visible. Your GitHub, your tweets, your public contributions-they're all part of your resume.
 
 **The Opportunity:** Build in public and opportunity finds you.
 
-**The Risk:** Mistakes, bad code, controversial takes—all visible permanently.
+**The Risk:** Mistakes, bad code, controversial takes-all visible permanently.
 
 ### Volatility
 
@@ -146,7 +146,7 @@ As the industry matures, the demand for deep specialists is increasing. While ge
 
 ### Identify Your "Spike"
 
-A spike is a specific area where you can become genuinely world-class. This isn't shallow expertise—it's deep, demonstrable mastery.
+A spike is a specific area where you can become genuinely world-class. This isn't shallow expertise-it's deep, demonstrable mastery.
 
 **How to Choose:**
 
@@ -163,7 +163,7 @@ A spike is a specific area where you can become genuinely world-class. This isn'
 - "Layer 2 Scaling Specialist": Expert in optimizations for specific L2 ecosystems
 
 **Weak Spikes:**
-- "Blockchain Developer" (too broad—thousands of people)
+- "Blockchain Developer" (too broad-thousands of people)
 - "Crypto Influencer" (not scalable, depends on personality)
 - "Smart Contract Auditor Without Specialization" (oversaturated)
 

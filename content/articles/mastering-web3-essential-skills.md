@@ -3,7 +3,7 @@
 
 title: "Mastering Web3: The 10 Essential Skills for a Career in Crypto"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
-description: "A definitive guide to the 10 most critical skills—both technical and non-technical—that you need to succeed in the dynamic and fast-paced world of Web3."
+description: "A definitive guide to the 10 most critical skills-both technical and non-technical-that you need to succeed in the dynamic and fast-paced world of Web3."
 category: "Career Guides"
 data-ai-hint: "man working on laptop"
 
@@ -34,7 +34,7 @@ You cannot build on a system you don't understand. A deep understanding of block
 ### 3. Frontend Development with Web3 Libraries (Ethers.js/Viem)
 A dApp is more than just a smart contract; it needs a user interface. Frontend developers who can connect a web application to the blockchain are in high demand.
 -   **React/Next.js:** The dominant frameworks for building modern web applications.
--   **Ethers.js / Viem:** These are JavaScript libraries that allow your frontend application to communicate with the blockchain—reading data, checking wallet balances, and prompting users to sign transactions.
+-   **Ethers.js / Viem:** These are JavaScript libraries that allow your frontend application to communicate with the blockchain-reading data, checking wallet balances, and prompting users to sign transactions.
 
 ### 4. Data Analysis with SQL and On-Chain Tools
 On-chain data is a public and transparent treasure trove of information. The ability to analyze this data is a superpower.
@@ -166,7 +166,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -178,7 +178,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

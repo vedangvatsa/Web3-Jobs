@@ -61,7 +61,7 @@ The Web3 job market in Lusaka is currently small but growing. The most significa
 - **Product Manager:** $3,000–$6,000/month
 - **Community Lead:** $1,500–$3,500/month
 
-**Cost of Living Advantage:** Monthly expenses in Lusaka: $600–$900. With a $3,500 remote salary, you save 74–83% of income—exceptional for wealth building in Web3.
+**Cost of Living Advantage:** Monthly expenses in Lusaka: $600–$900. With a $3,500 remote salary, you save 74–83% of income-exceptional for wealth building in Web3.
 
 ## 3 Proven Career Paths to $5,000+/Month in Lusaka
 
@@ -334,7 +334,7 @@ Red flags:
 - **Conferences:** EthDubai, Polygon Connect, Africa Blockchain Conference
 
 ### Job Boards & Applications
-- **Our Web3 Job Board** (/jobs) — remote roles
+- **Our Web3 Job Board** (/jobs): remote roles
 - **Crypto.jobs:** All crypto positions
 - **AngelList Talent:** Startups
 - **LinkedIn:** Search "Web3 Remote"
@@ -354,8 +354,8 @@ Red flags:
 
 ### Related Career Guides
 Explore these for complementary opportunities:
-- [Web3 Jobs in Kampala](web3-jobs-in-kampala) — East Africa, mobile-first
-- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi) — East Africa hub
+- [Web3 Jobs in Kampala](web3-jobs-in-kampala): East Africa, mobile-first
+- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi): East Africa hub
 - AgriTech Web3 Careers
 - Complete Web3 Skills Guide
 - Remote Web3 Careers Guide

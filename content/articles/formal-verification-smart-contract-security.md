@@ -52,7 +52,7 @@ The process involves several steps.
 
 **2. Rules:** More detailed rules are written. For an AMM (Automated Market Maker): "If no tokens are added or removed from the pool, the product of reserves (x * y) remains constant."
 
-**3. Automated Proving:** A specialized tool analyzes the contract bytecode against these rules. The tool explores all possible execution paths mathematically. This isn't simulation—it's exhaustive logical analysis.
+**3. Automated Proving:** A specialized tool analyzes the contract bytecode against these rules. The tool explores all possible execution paths mathematically. This isn't simulation-it's exhaustive logical analysis.
 
 **4. Results:** The prover returns one of three outcomes:
 - **Proven:** The property definitely holds. The contract is correct for this property.
@@ -205,7 +205,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

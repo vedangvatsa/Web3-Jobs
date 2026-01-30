@@ -12,7 +12,7 @@ category: "Career Guides"
 
 In the complex and often bewildering world of Web3, one of the most critical yet overlooked roles is that of the **Technical Writer**. While smart contract engineers build the protocols and community managers foster the vibe, technical writers are the translators, the educators, and the architects of understanding. They are the unsung heroes who make it possible for developers to build on a platform and for users to interact with it safely.
 
-The demand for skilled technical writers in Web3 is exploding. As protocols become more intricate and the ecosystem becomes more competitive, clear, accurate, and comprehensive documentation is no longer a "nice-to-have"—it's a vital component of a project's success. This guide explores the unique role of a technical writer in Web3 and why it's one of the most accessible and high-impact careers in the industry.
+The demand for skilled technical writers in Web3 is exploding. As protocols become more intricate and the ecosystem becomes more competitive, clear, accurate, and comprehensive documentation is no longer a "nice-to-have"-it's a vital component of a project's success. This guide explores the unique role of a technical writer in Web3 and why it's one of the most accessible and high-impact careers in the industry.
 
 ### Why is Technical Writing So Important in Web3?
 
@@ -132,7 +132,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -144,7 +144,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -11,7 +11,7 @@ category: "Industry Insights"
 
 
 
-The global financial system is the bedrock of modern civilization, but it is also a system that is opaque, inefficient, and often exclusive. It is built on a complex web of centralized intermediaries—banks, exchanges, and payment processors—that introduce friction, add costs, and act as gatekeepers. [Web3](/what-is-web3), and specifically its financial arm, **[Decentralized Finance (DeFi)](/what-is-defi)**, proposes a radical and powerful alternative: rebuilding the entire financial system on open, permissionless, and transparent blockchain networks.
+The global financial system is the bedrock of modern civilization, but it is also a system that is opaque, inefficient, and often exclusive. It is built on a complex web of centralized intermediaries-banks, exchanges, and payment processors-that introduce friction, add costs, and act as gatekeepers. [Web3](/what-is-web3), and specifically its financial arm, **[Decentralized Finance (DeFi)](/what-is-defi)**, proposes a radical and powerful alternative: rebuilding the entire financial system on open, permissionless, and transparent blockchain networks.
 
 This is not just about creating a new way to trade cryptocurrencies. It's a fundamental paradigm shift that has the potential to make finance more accessible, efficient, and equitable for everyone. This guide explores why the principles of Web3 are so important for the future of finance.
 
@@ -140,7 +140,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -152,7 +152,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

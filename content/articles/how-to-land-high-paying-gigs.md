@@ -24,7 +24,7 @@ Before you can capture the value, you must understand where it comes from. High 
 
 ### Step 1: Develop a High-Value, Specialized Skillset (The "Spike")
 
-In a mature market, generalists are a commodity. To command a high salary, you need to be a specialist. You need a "spike"—a deep, demonstrable expertise in a high-demand niche.
+In a mature market, generalists are a commodity. To command a high salary, you need to be a specialist. You need a "spike"-a deep, demonstrable expertise in a high-demand niche.
 
 **For Developers:**
 -   **Smart Contract Security:** This is the most valuable and highest-paid specialization. Go beyond writing contracts; learn to break them. Study past hacks, compete in audit contests on platforms like Code4rena, and master security tools.
@@ -158,7 +158,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -170,7 +170,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

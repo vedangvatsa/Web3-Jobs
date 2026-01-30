@@ -21,7 +21,7 @@ This can be a deeply unsettling experience, but it's also a powerful opportunity
 
 Several factors often converge to trigger this professional identity crisis.
 
--   **A Shift in Values:** The things that motivated you in your 20s—money, status, ambition—may no longer be your primary drivers. You might now crave more purpose, flexibility, or work-life balance.
+-   **A Shift in Values:** The things that motivated you in your 20s-money, status, ambition-may no longer be your primary drivers. You might now crave more purpose, flexibility, or work-life balance.
 -   **Burnout:** Years of high-pressure work can lead to exhaustion and a loss of passion for your field. The daily grind has worn you down.
 -   **Mortality Awareness:** As you reach middle age, you become more aware that time is finite. This can create an urgency to do work that feels meaningful and impactful.
 -   **"The Arrival Fallacy":** You achieved the goal you set for yourself (e.g., becoming a Director), only to realize it didn't bring you the happiness you expected. The destination wasn't as fulfilling as the journey.
@@ -136,7 +136,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

@@ -109,7 +109,7 @@ Hungary's government offers a Digital Nomad Visa program (Digitális Nomád Víz
 
 For those who love big-city energy and culture, Mexico City is an unparalleled destination. It's a world-class cultural hub with incredible food, world-class museums, stunning history, and electric neighborhoods. The cost of living is reasonable ($1,500-2,200/month for comfortable living).
 
-Mexico City has excellent internet infrastructure, numerous coworking spaces, and a large community of remote workers. The city is divided into distinct neighborhoods—each with its own character, from the bohemian La Condesa to the upscale Polanco to the artistic Roma Norte.
+Mexico City has excellent internet infrastructure, numerous coworking spaces, and a large community of remote workers. The city is divided into distinct neighborhoods-each with its own character, from the bohemian La Condesa to the upscale Polanco to the artistic Roma Norte.
 
 **Pros:**
 - Incredible food scene (best in Latin America for many)
@@ -147,7 +147,7 @@ Ready to take the leap? Start with research:
 
 2. **Join Digital Nomad Communities:** Reddit (r/digitalnomad), Nomad List (nomadlist.com), and Facebook groups for your target city. Ask real questions about neighborhoods, internet reliability, visas.
 
-3. **Secure Visa Clarity:** Many countries now offer specific Digital Nomad Visas with 1-3 year durations. Research requirements carefully—visa rules change frequently.
+3. **Secure Visa Clarity:** Many countries now offer specific Digital Nomad Visas with 1-3 year durations. Research requirements carefully-visa rules change frequently.
 
 4. **Prepare Financially:** Have 3-6 months of living expenses saved before leaving. Currency fluctuations, unexpected costs, and income interruptions are real possibilities.
 
@@ -175,7 +175,7 @@ Wherever you go, these are non-negotiable:
 
 ## Bottom Line
 
-The digital nomad lifestyle offers unprecedented freedom and adventure. But successful remote work while traveling requires intentionality. Choose destinations based on your priorities (cost, community, infrastructure, lifestyle), not just Instagram vibes. Build community wherever you land—the people you meet matter as much as the place.
+The digital nomad lifestyle offers unprecedented freedom and adventure. But successful remote work while traveling requires intentionality. Choose destinations based on your priorities (cost, community, infrastructure, lifestyle), not just Instagram vibes. Build community wherever you land-the people you meet matter as much as the place.
 
 The best city is the one where you can do your best work, maintain your health and relationships, and enjoy the experience of living somewhere new. For some people that's a 6-month stay in Lisbon. For others it's 3 months in Medellín followed by 3 months in Mexico City. Experiment and find what works for you.
 ## Related Articles

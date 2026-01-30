@@ -8,7 +8,7 @@ data-ai-hint: "team collaboration"
 ---
 
 
-The Web3 revolution is not just for coders. While developers are crucial for building the infrastructure of the decentralized internet, a thriving ecosystem requires a diverse range of non-technical talent to drive growth, foster community, and create meaningful products. If you're passionate about crypto but don't write code, your skills are not only valuable—they're in high demand.
+The Web3 revolution is not just for coders. While developers are crucial for building the infrastructure of the decentralized internet, a thriving ecosystem requires a diverse range of non-technical talent to drive growth, foster community, and create meaningful products. If you're passionate about crypto but don't write code, your skills are not only valuable-they're in high demand.
 
 This guide will walk you through the most impactful non-developer roles in Web3, what they entail, how to break in, and why they are essential to the future of the industry.
 
@@ -20,7 +20,7 @@ Before diving into specific roles, it's crucial to understand the cultural shift
 *   **From Users to Owners:** Your "users" are often token holders who have a financial stake and a say in the protocol's future. They are owners, not just customers. This requires a shift from a customer service mindset to one of community stewardship.
 *   **Embrace of Pseudonymity:** You will work with colleagues, partners, and community members who are identified only by an ENS name and a cartoon avatar. You must learn to build trust and collaborate effectively in this environment, judging people by the quality of their contributions, not their real-world identity.
 *   **Default to Transparency:** Most conversations, decisions, and data are public by default. Discussions happen in open Discord channels, governance proposals are debated on public forums, and all transactions are visible on-chain. This radical transparency is a core value of Web3.
-*   **A Bias for Action & "Proof of Work":** The space moves incredibly fast. Waiting for permission is a recipe for being left behind. The most respected people in Web3 are "doers" who build a portfolio of contributions—a concept known as "Proof of Work." This could be writing insightful analyses, contributing to a DAO, organizing a community event, or building a helpful tool. Your on-chain and public contributions are your new resume.
+*   **A Bias for Action & "Proof of Work":** The space moves incredibly fast. Waiting for permission is a recipe for being left behind. The most respected people in Web3 are "doers" who build a portfolio of contributions-a concept known as "Proof of Work." This could be writing insightful analyses, contributing to a DAO, organizing a community event, or building a helpful tool. Your on-chain and public contributions are your new resume.
 
 Understanding and embracing these principles is the first and most important step to building a successful career in Web3.
 

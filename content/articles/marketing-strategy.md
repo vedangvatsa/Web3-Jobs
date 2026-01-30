@@ -27,7 +27,7 @@ In Web2, you build a product and then find a community of users. In Web3, you bu
 #### 2. Education Over Advertising
 Web3 is complex. Users need to understand the technology, the risks, and the value proposition before they'll even consider using your protocol.
 -   **The Goal:** Become the most trusted educational resource in your niche.
--   **Practical Insight:** Create high-quality, long-form content—blog posts, Twitter threads, tutorials, documentation—that explains difficult concepts in simple terms. Your content should provide value even to people who don't use your product. This builds brand authority and trust.
+-   **Practical Insight:** Create high-quality, long-form content-blog posts, Twitter threads, tutorials, documentation-that explains difficult concepts in simple terms. Your content should provide value even to people who don't use your product. This builds brand authority and trust.
 
 #### 3. Radical Transparency
 The blockchain is a public ledger, and the ethos of transparency extends to how projects are expected to communicate.
@@ -37,7 +37,7 @@ The blockchain is a public ledger, and the ethos of transparency extends to how 
 #### 4. Authenticity and Cultural Fluency ("Vibes")
 Web3 is a culture. It has its own language, humor, and aesthetic. A generic, corporate brand voice will not resonate.
 -   **The Goal:** Develop a brand personality that feels authentic and native to the space.
--   **Practical Insight:** Understand the memes. Participate in the culture. Have a genuine point of view. The "vibe" of your project—how it feels to be in your Discord or read your tweets—is a critical and often underrated marketing asset. Hire community managers and marketers who are true, passionate members of the culture.
+-   **Practical Insight:** Understand the memes. Participate in the culture. Have a genuine point of view. The "vibe" of your project-how it feels to be in your Discord or read your tweets-is a critical and often underrated marketing asset. Hire community managers and marketers who are true, passionate members of the culture.
 
 ### A Strategic Web3 Marketing Funnel
 
@@ -160,7 +160,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -172,7 +172,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

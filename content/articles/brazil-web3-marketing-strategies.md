@@ -50,7 +50,7 @@ A successful Web3 marketing strategy in Brazil is built on localization, communi
 
 Brazil is not a market for short-term, speculative projects. It is a market that rewards projects that invest in building genuine, long-term relationships with the community.
 
-Success in Brazil requires more than a marketing budget; it requires a deep commitment to localization, education, and cultural understanding. Projects that treat Brazil as a first-class citizen—with dedicated local teams, Portuguese-language support, and a product tailored to local needs—will find a passionate, engaged, and loyal user base. The opportunity is immense, but it belongs to those who are willing to put in the work to truly become part of the vibrant Brazilian Web3 ecosystem.
+Success in Brazil requires more than a marketing budget; it requires a deep commitment to localization, education, and cultural understanding. Projects that treat Brazil as a first-class citizen-with dedicated local teams, Portuguese-language support, and a product tailored to local needs-will find a passionate, engaged, and loyal user base. The opportunity is immense, but it belongs to those who are willing to put in the work to truly become part of the vibrant Brazilian Web3 ecosystem.
 
 ## Complete Salary Guide: Web3 Marketing Jobs in Brazil
 
@@ -360,14 +360,14 @@ A: Depends on location:
 - Bankless newsletter
 
 ### Related Career Guides
-- [Web3 Jobs in Brazil](web3-jobs-in-brazil) — Technical roles
+- [Web3 Jobs in Brazil](web3-jobs-in-brazil): Technical roles
 - Web3 Marketing Careers Guide
 - Community Manager Career Guide
 - Content Creator Web3 Guide
 
 ### Your Next Step: Start Building
 
-The Brazilian Web3 market is hungry for professional marketers, educators, and community builders. Whether you're building community, creating content, or driving growth, there's significant opportunity to build a sustainable career serving one of the world's largest and most engaged Web3 markets. Start with the 90-day plan above, and your first freelance gig or full-time role will follow. The Web3 jobs you're looking for are on our [job board](/jobs) — explore today and start your journey.
+The Brazilian Web3 market is hungry for professional marketers, educators, and community builders. Whether you're building community, creating content, or driving growth, there's significant opportunity to build a sustainable career serving one of the world's largest and most engaged Web3 markets. Start with the 90-day plan above, and your first freelance gig or full-time role will follow. The Web3 jobs you're looking for are on our [job board](/jobs): explore today and start your journey.
 
 ## Related Articles
 

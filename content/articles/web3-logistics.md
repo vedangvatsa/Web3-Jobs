@@ -11,7 +11,7 @@ category: "Industry Insights"
 
 
 
-The global logistics and supply chain industry is a multi-trillion dollar behemoth, the invisible engine that powers modern commerce. However, it is also an industry plagued by fragmentation, inefficiency, and a lack of transparency. Tracking a single container as it moves across the globe involves a complex and often paper-based dance between dozens of different actors—manufacturers, shipping lines, freight forwarders, ports, customs officials, and retailers. This complexity creates delays, increases costs, and opens the door for fraud and error.
+The global logistics and supply chain industry is a multi-trillion dollar behemoth, the invisible engine that powers modern commerce. However, it is also an industry plagued by fragmentation, inefficiency, and a lack of transparency. Tracking a single container as it moves across the globe involves a complex and often paper-based dance between dozens of different actors-manufacturers, shipping lines, freight forwarders, ports, customs officials, and retailers. This complexity creates delays, increases costs, and opens the door for fraud and error.
 
 Web3 and blockchain technology offer a powerful set of tools to solve these long-standing problems. By creating a single, shared, and immutable ledger, blockchain can bring unprecedented transparency and efficiency to the world of logistics. This is creating a new and growing field for **[Web3 Supply Chain Experts](/web3-supply-chain-experts-navigating-blockchain-solutions)** who can design and implement these next-generation systems.
 
@@ -19,7 +19,7 @@ This guide will explore the key ways that Web3 is transforming the logistics ind
 
 ### The Problem with Traditional Logistics
 
-The core problem is a lack of a single, trusted source of truth. Each participant in the supply chain—the exporter, the shipping company, the port authority, the importer—maintains their own separate, siloed records. This leads to several major issues:
+The core problem is a lack of a single, trusted source of truth. Each participant in the supply chain-the exporter, the shipping company, the port authority, the importer-maintains their own separate, siloed records. This leads to several major issues:
 
 -   **Opacity:** It's extremely difficult for a company to get a real-time, end-to-end view of where its goods are.
 -   **Inefficiency and Delays:** Discrepancies between different parties' records require manual reconciliation, leading to delays at ports and border crossings.
@@ -173,7 +173,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -185,7 +185,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 
