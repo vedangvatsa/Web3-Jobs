@@ -13,13 +13,13 @@ data-ai-hint: "man technology"
 
 ## Jack Dorsey: The Bitcoin Evangelist and Web3 Skeptic
 
-Jack Dorsey, the co-founder of Twitter and founder of Block (formerly Square), is one of the most influential and vocal figures at the intersection of technology and decentralization. However, his perspective is unique and often contrarian. Unlike many Silicon Valley VCs and founders who embrace the broad ecosystem of "Web3"-including Ethereum, NFTs, and DeFi-Dorsey is a staunch Bitcoin maximalist. He believes that Bitcoin is the only true candidate for the internet's native currency and that the current iteration of "Web3" is a dangerous, venture-capitalist-controlled distraction.
+Jack Dorsey, the co-founder of Twitter and founder of Block (formerly Square), is one of the most influential and vocal figures at the intersection of technology and decentralization. However, his perspective is unique and often contrarian. Unlike many Silicon Valley VCs and founders who embrace the broad ecosystem of "[Web3](/what-is-web3)"-including [Ethereum](/what-is-ethereum), [NFTs](/what-are-nfts), and [DeFi](/what-is-defi)-Dorsey is a staunch [Bitcoin](/what-is-bitcoin) maximalist. He believes that Bitcoin is the only true candidate for the internet's native currency and that the current iteration of "Web3" is a dangerous, venture-capitalist-controlled distraction.
 
 His vision is not for a lack of interest in decentralization; on the contrary, he is arguably one of its most passionate advocates. His focus, however, is laser-sharp. He sees Bitcoin as a protocol for decentralizing money and "Web5," a project from his TBD division at Block, as the protocol for decentralizing data and identity.
 
 ### "Web3" vs. "Web5": A Battle of Philosophies
 
-In December 2021, Dorsey famously tweeted, "You don’t own 'web3.' The VCs and their LPs do. It will never escape their incentives. It’s ultimately a centralized entity with a different label." This tweet ignited a firestorm of debate. Dorsey's core argument is that the Web3 ecosystem, largely built on Ethereum and fueled by VC funding rounds for new tokens, is simply recreating the power structures of Web2. In his view, venture capital firms invest in these projects, receive large token allocations, and then use their influence and marketing power to pump their investments, ultimately leaving retail users holding the bag.
+In December 2021, Dorsey famously tweeted, "You don’t own 'web3.' The VCs and their LPs do. It will never escape their incentives. It’s ultimately a centralized entity with a different label." This tweet ignited a firestorm of debate. Dorsey's core argument is that the Web3 ecosystem, largely built on Ethereum and fueled by VC funding rounds for new tokens, is simply recreating the power structures of Web2. In his view, venture capital firms invest in these projects, receive large [token](/what-is-a-token) allocations, and then use their influence and marketing power to pump their investments, ultimately leaving retail users holding the bag.
 
 His proposed alternative is "Web5: The Decentralized Web Platform." Announced in June 2022 by Block's TBD division, Web5 is an ambitious project that aims to give individuals true ownership over their data and identity. It is built on top of Bitcoin, using it as its foundational trust layer, but it does not have a new token.
 
@@ -27,7 +27,7 @@ The core components of Web5 are:
 
 1.  **Decentralized Identifiers (DIDs):** Self-owned digital identities that are not reliant on any corporation or third party.
 2.  **Decentralized Web Nodes (DWNs):** Personal datastores that hold an individual's public and encrypted data. Users can control which apps and services have access to their data.
-3.  **Bitcoin as the Trust Anchor:** The Bitcoin blockchain is used to anchor the DIDs, providing a secure and decentralized public key infrastructure without creating a new token or consensus system.
+3.  **Bitcoin as the Trust Anchor:** The Bitcoin [blockchain](/what-is-a-blockchain) is used to anchor the DIDs, providing a secure and decentralized public key infrastructure without creating a new token or consensus system.
 
 The goal of Web5 is to solve the identity problem that Dorsey believes Web3 has failed to address. In his eyes, Web3 applications still rely on users connecting with wallets that are largely disconnected from their real-world identity, and the data is still stored on centralized servers or complex, inefficient systems like IPFS.
 
@@ -39,7 +39,7 @@ His company, Block, has fully embraced this vision:
 
 *   **Balance Sheet:** Block was one of the first publicly traded companies to add Bitcoin to its corporate treasury.
 *   **Cash App:** Allows millions of users to easily buy, sell, and hold Bitcoin.
-*   **Hardware Wallet:** Block is developing a new, user-friendly hardware wallet to make self-custody of Bitcoin more accessible.
+*   **Hardware [Wallet](/how-to-choose-a-crypto-wallet):** Block is developing a new, user-friendly hardware wallet to make self-custody of Bitcoin more accessible.
 *   **Bitcoin Mining:** The company has announced initiatives to build a more open and decentralized Bitcoin mining system.
 
 ### Bluesky and Decentralized Social Media
@@ -54,7 +54,7 @@ While Bluesky is a separate entity from Block and is not directly tied to Bitcoi
 
 Jack Dorsey's stance on Web3 is both principled and polarizing. His critiques of the VC-dominated Web3 ecosystem resonate with many who are disillusioned with the space's speculative excesses and centralization theater. His focus on Bitcoin as a singular, provably decentralized protocol provides a clear, if narrow, vision for the future of money.
 
-At the same time, his dismissal of the entire ecosystem building on Ethereum and other smart contract platforms strikes many as overly simplistic. The innovations in DeFi, NFTs, and DAOs, while imperfect, represent some of the most vibrant and creative areas of Web3.
+At the same time, his dismissal of the entire ecosystem building on Ethereum and other [smart contract](/what-are-smart-contracts) platforms strikes many as overly simplistic. The innovations in DeFi, NFTs, and [DAOs](/what-is-a-dao), while imperfect, represent some of the most vibrant and creative areas of Web3.
 
 Ultimately, Dorsey is not against a decentralized web; he is a purist fighting for a specific version of it. He believes the "how" matters just as much as the "what," and for him, the only correct "how" is through open, decentralized protocols like Bitcoin, not through VC-backed token projects with centralized leadership. His work on Bitcoin at Block and his support for Bluesky represent a determined effort to build the infrastructure for what he sees as a more authentic and empowering digital future.
 
@@ -88,7 +88,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -110,7 +110,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

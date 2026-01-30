@@ -11,11 +11,11 @@ category: "Technology Deep Dives"
 
 
 
-The biggest challenge holding back mainstream blockchain adoption is the **scalability trilemma**. This concept posits that it's incredibly difficult for a blockchain to simultaneously achieve decentralization, security, and scalability. To solve this, developers are exploring various scaling solutions, and one of the most powerful Layer 1 techniques is **sharding**.
+The biggest challenge holding back mainstream [blockchain](/what-is-a-blockchain) adoption is the **scalability trilemma**. This concept posits that it's incredibly difficult for a blockchain to simultaneously achieve decentralization, security, and scalability. To solve this, developers are exploring various scaling solutions, and one of the most powerful Layer 1 techniques is **sharding**.
 
 ## The Scalability Crisis
 
-To understand why sharding matters, you need to grasp the fundamental bottleneck in blockchain systems. Bitcoin processes about 7 transactions per second. Ethereum, before optimization, processed about 15. Traditional payment networks like Visa handle 24,000 transactions per second.
+To understand why sharding matters, you need to grasp the fundamental bottleneck in blockchain systems. [Bitcoin](/what-is-bitcoin) processes about 7 transactions per second. [Ethereum](/what-is-ethereum), before optimization, processed about 15. Traditional payment networks like Visa handle 24,000 transactions per second.
 
 This limitation comes from a core design choice: **every node must validate every transaction**. For security and decentralization, you can't rely on a single authority to verify transactions. But requiring 10,000 nodes to independently verify every transaction creates a massive bottleneck. This is the cost of decentralization.
 
@@ -37,7 +37,7 @@ The key insight is that you don't need all nodes to process all transactions-you
 
 ## How Does It Work? (Technical Deep Dive)
 
-1. **State Partitioning:** The entire state of the blockchain (all account balances, smart contract data, everything) is divided among the shards. Shard 1 might contain accounts starting with "0x0a", Shard 2 accounts starting with "0x0b", etc. Each shard maintains its own state.
+1. **State Partitioning:** The entire state of the blockchain (all account balances, [smart contract](/what-are-smart-contracts) data, everything) is divided among the shards. Shard 1 might contain accounts starting with "0x0a", Shard 2 accounts starting with "0x0b", etc. Each shard maintains its own state.
 
 2. **Validator Assignment:** The network's validators are randomly assigned to different shards to process transactions and ensure security. This random shuffling-critical for security-prevents validators from colluding to take over a single shard and commit fraud. If validators could choose their shard, a small group could concentrate on one shard and compromise it.
 
@@ -47,7 +47,7 @@ The key insight is that you don't need all nodes to process all transactions-you
 
 ## Practical Example: A Transaction Across Shards
 
-Imagine Alice (in Shard 1) wants to send tokens to Bob (in Shard 2):
+Imagine Alice (in Shard 1) wants to send [tokens](/what-is-a-token) to Bob (in Shard 2):
 
 1. Alice broadcasts a transaction to the network
 2. Validators in Shard 1 include it and verify it (Alice has sufficient balance)
@@ -126,7 +126,7 @@ Understanding sharding is valuable for:
 - **Blockchain Researchers:** Formal verification of sharding security properties
 - **Systems Engineers:** Implementing sharding requires deep distributed systems knowledge
 
-Professionals who can navigate the technical complexity of sharding are in high demand in the Web3 space.
+Professionals who can navigate the technical complexity of sharding are in high demand in the [Web3](/what-is-web3) space.
 
 ## Bottom Line
 
@@ -142,7 +142,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -159,12 +159,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -200,7 +200,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

@@ -11,7 +11,7 @@ description: "Master the art of the phone interview with this comprehensive guid
 
 
 
-The phone interview, or phone screen, is often the first real conversation you will have with a potential employer. While it might seem less formal than a face-to-face meeting, it is a critical step in the hiring process. It is your first opportunity to make a personal connection, showcase your qualifications, and prove that you are a serious contender for the role. Underestimating its importance is a common mistake that can prematurely end your candidacy.
+The phone [interview](/how-to-prepare-for-job-interview), or phone screen, is often the first real conversation you will have with a potential employer. While it might seem less formal than a face-to-face meeting, it is a critical step in the hiring process. It is your first opportunity to make a personal connection, showcase your qualifications, and prove that you are a serious contender for the role. Underestimating its importance is a common mistake that can prematurely end your candidacy.
 
 A successful phone interview requires a unique set of skills. Without the benefit of body language and visual cues, your voice-its tone, clarity, and confidence-becomes your primary tool for communication. This guide provides a comprehensive overview of best practices to help you navigate the phone interview process with professionalism and poise, ensuring you make a memorable impression and advance to the next stage.
 
@@ -19,7 +19,7 @@ A successful phone interview requires a unique set of skills. Without the benefi
 
 Before diving into preparation, it is essential to understand why companies use phone interviews. Typically conducted by a recruiter or HR representative, the phone screen serves several key purposes:
 
-*   **Initial Vetting:** It is a cost-effective way for companies to screen a large pool of applicants. The goal is to verify the information on your resume, confirm your basic qualifications, and gauge your genuine interest in the role.
+*   **Initial Vetting:** It is a cost-effective way for companies to screen a large pool of applicants. The goal is to verify the information on your [resume](/how-to-build-a-web3-resume-that-stands-out), confirm your basic qualifications, and gauge your genuine interest in the role.
 *   **Assessing Communication Skills:** Your ability to articulate your thoughts clearly and professionally over the phone is a direct reflection of your communication skills. Recruiters are listening for clarity, confidence, and enthusiasm.
 *   **Cultural and Personality Fit:** While brief, the conversation gives the interviewer a preliminary sense of your personality and whether you might fit into the company culture.
 *   **Salary and Logistics Alignment:** Recruiters often use this call to discuss salary expectations, your availability to start, and your understanding of the role's requirements (e.g., remote, hybrid, location-specific). This ensures there are no major logistical misalignments before proceeding.

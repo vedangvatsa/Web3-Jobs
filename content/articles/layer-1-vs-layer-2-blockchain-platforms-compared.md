@@ -11,7 +11,7 @@ category: "Educational"
 
 
 
-The conversation around blockchain scalability is dominated by two terms: **Layer 1 (L1)** and **Layer 2 (L2)**. Understanding the distinction between these two types of platforms is crucial for any developer, user, or investor in the Web3 space. They represent two different approaches to solving the **[blockchain trilemma](/is-web3-dead)**, and they work together to create a more scalable and usable decentralized internet.
+The conversation around [blockchain](/what-is-a-blockchain) scalability is dominated by two terms: **Layer 1 (L1)** and **Layer 2 (L2)**. Understanding the distinction between these two types of platforms is crucial for any developer, user, or investor in the [Web3](/what-is-web3) space. They represent two different approaches to solving the **[blockchain trilemma](/is-web3-dead)**, and they work together to create a more scalable and usable decentralized internet.
 
 This guide will provide a clear and comprehensive comparison of L1 and L2 blockchain platforms, explaining their different functions, security models, and how they fit into the future "modular" architecture of Web3.
 
@@ -20,8 +20,8 @@ This guide will provide a clear and comprehensive comparison of L1 and L2 blockc
 A **[Layer 1](/what-is-a-layer-1-blockchain)** is the base-layer, foundational blockchain network. It is the ultimate source of truth and security for its ecosystem.
 
 -   **Key Characteristics:**
-    -   It is responsible for its own security, using its own **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** (like Proof-of-Work or Proof-of-Stake).
-    -   It has its own native token that is used to pay for transaction fees (e.g., BTC for Bitcoin, ETH for Ethereum).
+    -   It is responsible for its own security, using its own **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** (like Proof-of-Work or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist)).
+    -   It has its own native [token](/what-is-a-token) that is used to pay for transaction fees (e.g., BTC for [Bitcoin](/what-is-bitcoin), ETH for [Ethereum](/what-is-ethereum)).
     -   All transactions are ultimately settled on the L1 chain.
 -   **Examples:** Bitcoin, Ethereum, Solana, Avalanche.
 -   **The Challenge:** L1s face the blockchain trilemma directly. To maintain high levels of decentralization and security, they often have to sacrifice scalability, leading to network congestion and high fees (as seen on Ethereum).
@@ -70,7 +70,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -86,13 +86,13 @@ The Web3 job market has fundamentally different dynamics than Web2:
 Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

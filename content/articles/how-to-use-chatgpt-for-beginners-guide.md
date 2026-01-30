@@ -63,7 +63,7 @@ By providing the context (the article) and a clear instruction (summarize into a
 
 You can tell ChatGPT to act as a specific persona. This is incredibly powerful for tailoring the tone and style of the response.
 
-*   **No Persona** "Explain how a blockchain works."
+*   **No Persona** "Explain how a [blockchain](/what-is-a-blockchain) works."
 *   **With Persona** "Explain how a blockchain works as if you are a patient middle school science teacher explaining it to a 12-year-old student. Use a simple analogy to help illustrate the concept."
 
 The persona prompt will result in a much simpler, more accessible explanation. You can ask it to be a professional copywriter, a skeptical financial analyst, a friendly travel guide, or even a pirate.
@@ -72,9 +72,9 @@ The persona prompt will result in a much simpler, more accessible explanation. Y
 
 Tell the model exactly what you want the output to look like.
 
-*   `"Write three different headlines for a blog post about the benefits of remote work. Each headline should be under 10 words and evoke a sense of freedom."`
+*   `"Write three different headlines for a blog post about the benefits of [remote work](/remote-work-in-web3). Each headline should be under 10 words and evoke a sense of freedom."`
 *   `"Create a table comparing the pros and cons of solar energy versus wind energy. The table should have three columns. Feature, Pros, and Cons."`
-*   `"Generate a list of 10 interview questions for a junior software developer role. Focus on questions that test problem-solving skills rather than specific language syntax."`
+*   `"Generate a list of 10 [interview](/how-to-prepare-for-job-interview) questions for a junior software [developer role](/entry-level-jobs-in-web3). Focus on questions that test problem-solving skills rather than specific language syntax."`
 
 By defining the format (headlines, table, list) and setting constraints (under 10 words), you get a structured output that’s ready to use.
 
@@ -136,11 +136,3 @@ The policies around copyright and commercial use of AI-generated content are sti
 
 **5. What happens if I get a weird or nonsensical answer?**
 This can happen. Sometimes the model gets stuck or misinterprets your prompt. The best thing to do is to start a new chat or rephrase your prompt in a simpler, more direct way. Don't be afraid to try again from a different angle.
-
-## Related Articles
-
-- [Web3 Jobs in Algiers: A Guide to Algeria's Tech Awakening](web3-jobs-in-algiers)
-- [Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene](web3-jobs-in-libreville)
-- [Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene](web3-jobs-in-luanda)
-- [How to Ask Smart Questions as a New Employee](asking-smart-questions-as-new-employee)
-- [Web3 Jobs in Lagos: A Guide to West Africa's Tech Megacity](web3-jobs-in-lagos)

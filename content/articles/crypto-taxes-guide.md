@@ -27,8 +27,8 @@ This classification has a major implication: you owe taxes on the increase in va
 A taxable event is any action that involves "disposing" of your cryptocurrency. When one of these events occurs, you "realize" either a capital gain or a capital loss.
 
 Common taxable events include:
-- **Selling crypto for fiat currency:** Selling Bitcoin for U.S. Dollars.
-- **Trading one crypto for another:** Trading Ethereum for Solana. This is a common point of confusion; it is *not* a like-kind exchange.
+- **Selling crypto for fiat currency:** Selling [Bitcoin](/what-is-bitcoin) for U.S. Dollars.
+- **Trading one crypto for another:** Trading [Ethereum](/what-is-ethereum) for Solana. This is a common point of confusion; it is *not* a like-kind exchange.
 - **Using crypto to pay for goods or services:** Buying a coffee with ETH.
 
 ### What is NOT a Taxable Event?
@@ -47,7 +47,7 @@ When you have a taxable event, you need to calculate your capital gain or loss.
 
 **Example:**
 1. You buy 1 ETH for $2,000 (this is your cost basis).
-2. A year later, you trade that 1 ETH for another token. At the time of the trade, the fair market value of your 1 ETH is $3,000.
+2. A year later, you trade that 1 ETH for another [token](/what-is-a-token). At the time of the trade, the fair market value of your 1 ETH is $3,000.
 3. Your capital gain is $3,000 (Fair Market Value) - $2,000 (Cost Basis) = $1,000.
 4. You would owe capital gains tax on that $1,000 profit.
 
@@ -61,7 +61,7 @@ This system creates a strong incentive to hold assets for longer than one year.
 
 ### The Challenge of DeFi and NFTs
 
-DeFi activities like staking, liquidity providing, and yield farming can create dozens or even hundreds of taxable events, making tracking extremely complex. Each time you claim a reward or earn a fee, it can be considered income. Minting and selling NFTs also have their own tax implications.
+[DeFi](/what-is-defi) activities like [staking](/how-to-become-a-web3-staking-specialist), liquidity providing, and [yield farming](/what-is-yield-farming) can create dozens or even hundreds of taxable events, making tracking extremely complex. Each time you claim a reward or earn a fee, it can be considered income. Minting and selling [NFTs](/what-are-nfts) also have their own tax implications.
 
 ### Tools for Crypto Taxes
 
@@ -72,11 +72,11 @@ Navigating crypto taxes is a critical responsibility for every participant in th
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -89,11 +89,11 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- DeFi, NFTs, and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

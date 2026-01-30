@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-Recruiting in Web3 is unlike recruiting in any other industry. The talent is scarce, the competition is fierce, and the best candidates are often pseudonymous contributors who are motivated by factors far beyond a simple salary. Traditional recruiting methods-posting on LinkedIn, relying on resumes, and using keyword searches-are woefully inadequate for finding and attracting elite Web3 talent.
+Recruiting in [Web3](/what-is-web3) is unlike recruiting in any other industry. The talent is scarce, the competition is fierce, and the best candidates are often pseudonymous contributors who are motivated by factors far beyond a simple salary. Traditional recruiting methods-posting on LinkedIn, relying on resumes, and using keyword searches-are woefully inadequate for finding and attracting elite Web3 talent.
 
 To succeed, recruiters and hiring managers must become "crypto-native." They need to understand the culture, participate in the communities where talent congregates, and learn to evaluate candidates based on a new set of criteria. This guide provides actionable strategies for recruiting in the Web3 space. For more details, see our related article on [how to recruit in Web3](/how-to-recruit-in-web3).
 
@@ -21,7 +21,7 @@ While some Web3 professionals maintain a LinkedIn profile, the real action happe
 
 -   **Twitter (X):** This is the central nervous system of the crypto world. Follow the top developers, researchers, and builders in your specific niche. Engage with their content thoughtfully. The people leading the technical conversations on Twitter are often the A-players you want to hire.
 -   **Discord:** This is where communities are built and where work gets done. Join the Discords of projects related to your field. Don't just spam a job posting in a `#hiring` channel. Become an active, value-add member of the community. Identify the most helpful and insightful contributors-these are your potential candidates.
--   **GitHub:** For technical roles, GitHub is the ultimate sourcing tool. Look for developers who are making high-quality contributions to reputable open-source Web3 projects. An impressive GitHub profile is the most potent resume.
+-   **[GitHub](/building-web3-portfolio):** For technical roles, GitHub is the ultimate sourcing tool. Look for developers who are making high-quality contributions to reputable open-source Web3 projects. An impressive GitHub profile is the most potent [resume](/how-to-build-a-web3-resume-that-stands-out).
 -   **Hackathons:** Events hosted by organizations like ETHGlobal are a goldmine for talent. Sponsor a hackathon, offer a bounty for using your protocol, and actively engage with the teams that are building impressive projects. Many of the best Web3 companies have been founded or staffed by teams that met at a hackathon.
 
 ### Principle #2: Evaluate Proof of Work, Not Resumes
@@ -30,15 +30,15 @@ In Web3, what you've done in public is more important than your employment histo
 
 -   **For Developers:**
     -   **Review their GitHub:** Look at their personal projects. Is the code clean and well-documented? Do they have a comprehensive test suite? (A lack of tests is a major red flag).
-    -   **Look at their on-chain activity:** Use a block explorer to look at their public wallet address (if they share it). What protocols have they used? Have they participated in governance?
+    -   **Look at their on-chain activity:** Use a block explorer to look at their public [wallet](/how-to-choose-a-crypto-wallet) address (if they share it). What protocols have they used? Have they participated in governance?
 -   **For Non-Technical Roles:**
     -   **Public Writing:** Have they written insightful Twitter threads or blog posts about the space? This demonstrates their expertise and communication skills.
-    -   **DAO Contributions:** Have they been an active participant in a [DAO](/the-rise-of-daos)? Look at their comments in governance forums and their proposals. This shows initiative and strategic thinking.
+    -   **[DAO](/what-is-a-dao) Contributions:** Have they been an active participant in a [DAO](/the-rise-of-daos)? Look at their comments in governance forums and their proposals. This shows initiative and strategic thinking.
     -   **Dune Dashboards:** For analytical roles, a portfolio of insightful Dune dashboards is a powerful signal.
 
 ### Principle #3: Your Project is Also Being Interviewed
 
-Top candidates in Web3 have many options. The interview process is a two-way street. They are evaluating you just as much as you are evaluating them.
+Top candidates in Web3 have many options. The [interview](/how-to-prepare-for-job-interview) process is a two-way street. They are evaluating you just as much as you are evaluating them.
 
 -   **Be Transparent:** Be open about your project's roadmap, its financial health (treasury), and the challenges you are facing. Top talent wants to work on hard, meaningful problems.
 -   **Have a Professional Process:** Even in a decentralized world, a professional and respectful hiring process is crucial. Respond to candidates promptly, provide constructive feedback, and compensate them for any take-home assignments that require a significant amount of time.
@@ -48,7 +48,7 @@ Top candidates in Web3 have many options. The interview process is a two-way str
 
 Understand that a Web3 compensation package is unique. Be prepared to offer and explain a package that includes:
 -   A competitive fiat base salary.
--   A significant token grant with a clear vesting schedule.
+-   A significant [token](/what-is-a-token) grant with a clear vesting schedule.
 -   Potentially, equity in the company if it's a traditional venture-backed startup.
 
 You need to be able to explain the project's [tokenomics](/understanding-tokenomics) and the potential long-term value of the token grant. This is a critical part of closing a top candidate.
@@ -61,7 +61,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -74,11 +74,11 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

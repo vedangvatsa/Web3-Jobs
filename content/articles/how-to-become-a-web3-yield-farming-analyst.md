@@ -11,9 +11,9 @@ category: "Career Guides"
 
 
 
-Decentralized Finance (DeFi) has created a new financial universe, and at its bleeding edge is the practice of [yield farming](/what-is-yield-farming). As protocols have become more complex and interconnected, a new specialized role has emerged: the **Yield Farming Analyst**. This is a professional who combines the skills of a data scientist, a financial analyst, and a DeFi power-user to find, analyze, and execute on the best yield opportunities in the crypto market.
+Decentralized Finance ([DeFi](/what-is-defi)) has created a new financial universe, and at its bleeding edge is the practice of [yield farming](/what-is-yield-farming). As protocols have become more complex and interconnected, a new specialized role has emerged: the **Yield Farming Analyst**. This is a professional who combines the skills of a data scientist, a financial analyst, and a DeFi power-user to find, analyze, and execute on the best yield opportunities in the crypto market.
 
-This role is for those who are obsessed with the intricate details of DeFi protocols and love the challenge of optimizing capital in a dynamic, high-stakes environment. This guide explores what a Yield Farming Analyst does and the skills you need to pursue this exciting career path.
+This role is for those who are obsessed with the intricate details of DeFi protocols and love the challenge of optimizing capital in a dynamic, high-stakes environment. This guide explores what a [Yield Farming](/what-is-yield-farming) Analyst does and the skills you need to pursue this exciting career path.
 
 ### What Does a Yield Farming Analyst Do?
 
@@ -22,17 +22,17 @@ The core job of a Yield Farming Analyst is to answer one question: "What is the 
 1.  **Strategy Discovery:** The analyst constantly scours the DeFi landscape for new yield opportunities. This means monitoring new protocol launches, reading project documentation, and being deeply engaged in the "on-the-ground" conversation on Twitter and Discord.
 2.  **Quantitative Analysis:** This is the heart of the role. An analyst must model the potential returns of a given strategy. This includes:
     -   Calculating the base Annual Percentage Rate (APR) from trading fees or lending interest.
-    -   Factoring in token rewards and their potential price volatility.
+    -   Factoring in [token](/what-is-a-token) rewards and their potential price volatility.
     -   Estimating the impact of "Impermanent Loss" for liquidity provision strategies.
 3.  **Risk Assessment:** High yields always come with high risks. A crucial part of the job is to assess the risks associated with a strategy.
-    -   **Smart Contract Risk:** Has the protocol been audited? Is the code a simple fork, or is it novel and untested?
+    -   **[Smart Contract](/what-are-smart-contracts) Risk:** Has the protocol been audited? Is the code a simple fork, or is it novel and untested?
     -   **Economic Risk:** Could the protocol's tokenomics be exploited? Is the yield sustainable or based on hyper-inflationary token emissions?
     -   **Oracle Risk:** Does the protocol rely on a price [oracle](/what-are-oracles) that could be manipulated?
-4.  **Execution and Monitoring:** For analysts working at crypto funds or DAOs, the job also involves executing the strategies and actively monitoring their performance, ready to pull capital if conditions change.
+4.  **Execution and Monitoring:** For analysts working at crypto funds or [DAOs](/what-is-a-dao), the job also involves executing the strategies and actively monitoring their performance, ready to pull capital if conditions change.
 
 ### The Essential Skillset
 
--   **Deep DeFi Knowledge:** You must be a "degen" at heart. You need an expert-level, practical understanding of AMMs, lending protocols, liquid staking, and other [DeFi primitives](/what-is-defi).
+-   **Deep DeFi Knowledge:** You must be a "degen" at heart. You need an expert-level, practical understanding of AMMs, lending protocols, liquid [staking](/how-to-become-a-web3-staking-specialist), and other [DeFi primitives](/what-is-defi).
 -   **Strong Analytical and Quantitative Skills:** You need to be comfortable with financial modeling in spreadsheets and have a good grasp of statistics and probability.
 -   **On-Chain Data Analysis:** Proficiency in using tools like **Dune Analytics** to query on-chain data is a major advantage. You can't just trust what a protocol's website says; you need to verify the data on-chain. This makes the role a specialization of the [on-chain analyst job](/on-chain-analyst-job).
 -   **Security Mindset:** You need to be able to do a basic "smell test" on a smart contract and have a healthy sense of paranoia.
@@ -40,7 +40,7 @@ The core job of a Yield Farming Analyst is to answer one question: "What is the 
 ### How to Become a Yield Farming Analyst
 
 1.  **Start as a User:** You must have hands-on experience. Start with a small amount of capital on a [Layer 2](/guide-to-layer-2s) network (to save on gas fees) and try out different strategies. Document what you learn and the returns you get.
-2.  **Build a Public "Research" Portfolio:**
+2.  **Build a Public "Research" [Portfolio](/building-web3-portfolio):**
     -   Start a Substack or Mirror blog. Write a detailed analysis of a new yield farming opportunity you've found.
     -   Create a Dune Analytics dashboard that tracks the yields across several different protocols in a specific niche.
     -   Publish your work on Twitter. A well-researched thread analyzing a complex yield strategy is a powerful portfolio piece.
@@ -50,11 +50,11 @@ A career as a Yield Farming Analyst is for those who love the intellectual chall
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -67,16 +67,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- DeFi, [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

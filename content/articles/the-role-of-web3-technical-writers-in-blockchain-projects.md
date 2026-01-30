@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-In the complex and often bewildering world of Web3, one of the most critical yet overlooked roles is that of the **Technical Writer**. While smart contract engineers build the protocols and community managers foster the vibe, technical writers are the translators, the educators, and the architects of understanding. They are the unsung heroes who make it possible for developers to build on a platform and for users to interact with it safely.
+In the complex and often bewildering world of [Web3](/what-is-web3), one of the most critical yet overlooked roles is that of the **Technical Writer**. While [smart contract](/what-are-smart-contracts) engineers build the protocols and community managers foster the vibe, technical writers are the translators, the educators, and the architects of understanding. They are the unsung heroes who make it possible for developers to build on a platform and for users to interact with it safely.
 
 The demand for skilled technical writers in Web3 is exploding. As protocols become more intricate and the ecosystem becomes more competitive, clear, accurate, and comprehensive documentation is no longer a "nice-to-have"-it's a vital component of a project's success. This guide explores the unique role of a technical writer in Web3 and why it's one of the most accessible and high-impact careers in the industry.
 
@@ -26,7 +26,7 @@ The demand for skilled technical writers in Web3 is exploding. As protocols beco
 
 The role is diverse and goes far beyond just documenting code.
 
-- **Developer Documentation:** Writing detailed, accurate documentation for a project's smart contracts, SDKs, and APIs. This often involves reading Solidity code and working very closely with the engineering team.
+- **Developer Documentation:** Writing detailed, accurate documentation for a project's smart contracts, SDKs, and APIs. This often involves reading [Solidity](/best-programming-languages-for-blockchain-development) code and working very closely with the engineering team.
 - **User-Facing Guides:** Creating step-by-step tutorials, "explainers," and FAQs that walk users through how to use the application.
 - **Long-Form Content:** Writing blog posts and articles that explain the project's core concepts, technology, and value proposition in greater detail (e.g., a deep dive into the protocol's [tokenomics](/understanding-tokenomics)).
 - **API Reference Guides:** Maintaining a comprehensive reference for all the endpoints and functions that developers can use.
@@ -48,7 +48,7 @@ This is one of the most accessible roles for those looking to break into the ind
 
 1.  **Start with a Project You Love:** Pick a Web3 protocol that you already use and admire.
 2.  **Identify a Gap in Their Docs:** Go through their documentation as if you were a new user or developer. Where do you get stuck? What is confusing? What is missing?
-3.  **Fix it (Permissionlessly):** Write the guide or the explanation that you wish you had. If the docs are on a public GitHub, submit a pull request with your suggested improvements. If not, publish your guide on your own blog or on a platform like Mirror.xyz. This becomes your [proof of work](/how-to-build-a-public-on-chain-developer-brand).
+3.  **Fix it (Permissionlessly):** Write the guide or the explanation that you wish you had. If the docs are on a public [GitHub](/building-web3-portfolio), submit a pull request with your suggested improvements. If not, publish your guide on your own blog or on a platform like Mirror.xyz. This becomes your [proof of work](/how-to-build-a-public-on-chain-developer-brand).
 4.  **Build a Portfolio:** Your portfolio is a collection of your public writing. It could be your blog, your GitHub contributions, or even detailed summaries of community calls. This is your proof of competence.
 5.  **Engage with the Community:** Share your work in the project's Discord. Get feedback. You'll quickly build a reputation as someone who understands the protocol and can communicate it effectively, which often leads directly to job opportunities.
 
@@ -60,7 +60,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -68,16 +68,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

@@ -11,11 +11,11 @@ category: "Getting Started"
 
 
 
-The Web3 space has a rich and often bizarre vocabulary. One of the most common and culturally significant terms you will encounter, especially in the world of DeFi and NFT trading, is "degen."
+The [Web3](/what-is-web3) space has a rich and often bizarre vocabulary. One of the most common and culturally significant terms you will encounter, especially in the world of [DeFi](/what-is-defi) and [NFT](/what-are-nfts) trading, is "degen."
 
 **What does it mean?**
 
-"Degen" is short for "degenerate." In the context of crypto, it refers to a person who engages in high-risk, complex, and often reckless trading or investment strategies. A degen is someone who is willing to ape into a new, unaudited protocol in the hopes of achieving massive returns. They chase yield farming opportunities with terrible tokenomics. They provide liquidity to brand new protocols. They trade on leverage. They buy tokens based on Twitter hype.
+"Degen" is short for "degenerate." In the context of crypto, it refers to a person who engages in high-risk, complex, and often reckless trading or investment strategies. A degen is someone who is willing to ape into a new, unaudited protocol in the hopes of achieving massive returns. They chase [yield farming](/what-is-yield-farming) opportunities with terrible tokenomics. They provide liquidity to brand new protocols. They trade on leverage. They buy [tokens](/what-is-a-token) based on Twitter hype.
 
 Fundamentally, a degen is someone willing to take on extreme financial risk in pursuit of outsized returns.
 
@@ -33,7 +33,7 @@ The degen mindset is characterized by several defining traits.
 
 **High Risk Tolerance**: Degens are comfortable with the possibility of losing their entire investment. For them, the potential for a 100x return outweighs the risk of going to zero. They understand that most of their trades will fail. But the few that succeed wildly outperform, creating positive expected value.
 
-**Deep Ecosystem Knowledge**: To be a successful degen, you have to be extremely knowledgeable. You need to understand how complex DeFi protocols work, how to evaluate smart contract risk, how to identify opportunities before others see them, and how to move quickly to capitalize on new opportunities. A degen who doesn't understand what they're buying quickly becomes a degen who lost all their money.
+**Deep Ecosystem Knowledge**: To be a successful degen, you have to be extremely knowledgeable. You need to understand how complex DeFi protocols work, how to evaluate [smart contract](/what-are-smart-contracts) risk, how to identify opportunities before others see them, and how to move quickly to capitalize on new opportunities. A degen who doesn't understand what they're buying quickly becomes a degen who lost all their money.
 
 **A Focus on the "Game"**: Degens often view DeFi as a complex, multiplayer game where the goal is to find and exploit inefficiencies in the system to generate "alpha" (returns above the market average). They're constantly asking: "How can I make money from this?" It's not necessarily about belief in the project. It's about exploiting market mispricing.
 
@@ -47,7 +47,7 @@ The degen mindset is characterized by several defining traits.
 
 What does a degen actually do?
 
-**Yield Farming**: Degens provide liquidity to new DeFi protocols offering extremely high yields. These yields are often unsustainable, designed to bootstrap liquidity. A degen might provide liquidity to a new DEX offering 10,000% APY, knowing the yield will crash to zero within weeks, but capturing the excess returns before it does.
+**Yield Farming**: Degens provide liquidity to new DeFi protocols offering extremely high yields. These yields are often unsustainable, designed to bootstrap liquidity. A degen might provide liquidity to a new [DEX](/what-is-a-decentralized-exchange-dex) offering 10,000% APY, knowing the yield will crash to zero within weeks, but capturing the excess returns before it does.
 
 **Leverage Trading**: Degens trade on margin and with leverage. They might take a 10x leveraged position on a token they believe will go up. If it does, returns are extraordinary. If it moves against them, their position gets liquidated.
 
@@ -57,7 +57,7 @@ What does a degen actually do?
 
 **NFT Speculation**: Degens buy NFTs of obscure projects hoping they become the next Bored Ape Yacht Club. They're first to new NFT collections. Most go to zero. A few make fortunes.
 
-**Governance Gaming**: Degens participate in DAO governance not for ideological reasons but to manipulate voting to benefit their holdings. They vote for decisions that pump their tokens.
+**Governance Gaming**: Degens participate in [DAO](/what-is-a-dao) governance not for ideological reasons but to manipulate voting to benefit their holdings. They vote for decisions that pump their tokens.
 
 ## The Risks
 
@@ -117,7 +117,7 @@ However, if you're:
 
 ## For Your Career
 
-If you're considering a Web3 career, understanding degens is important. Many of your users will be degens. Many of your colleagues will have degen inclinations. The culture of Web3 is heavily influenced by degen mindset - move fast, take risks, embrace volatility.
+If you're considering a [Web3 career](/web3-jobs-for-beginners), understanding degens is important. Many of your users will be degens. Many of your colleagues will have degen inclinations. The culture of Web3 is heavily influenced by degen mindset - move fast, take risks, embrace volatility.
 
 Understanding this culture helps you navigate Web3 professionally and understand the community you're serving.
 

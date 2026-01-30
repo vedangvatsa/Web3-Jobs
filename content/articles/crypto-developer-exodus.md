@@ -11,7 +11,7 @@ category: "Industry Insights"
 
 
 
-The Web3 developer landscape is not static; it's a fluid and highly competitive environment where talent is constantly on the move. While the overall number of Web3 developers has grown significantly, a closer look reveals a "great migration" is underway. Developers are leaving certain blockchain ecosystems and flocking to others, and the reasons for these shifts offer critical insights into what makes a platform successful in the long run.
+The [Web3](/what-is-web3) developer landscape is not static; it's a fluid and highly competitive environment where talent is constantly on the move. While the overall number of Web3 developers has grown significantly, a closer look reveals a "great migration" is underway. Developers are leaving certain [blockchain](/what-is-a-blockchain) ecosystems and flocking to others, and the reasons for these shifts offer critical insights into what makes a platform successful in the long run.
 
 Understanding why developers choose to leave a chain is just as important as understanding why they join one. It's a leading indicator of an ecosystem's health and its ability to sustain innovation. This guide explores the key factors driving developers away from certain platforms and what it tells us about the future of the multi-chain world.
 
@@ -21,20 +21,20 @@ This is often the most cited reason. If building on a platform is a frustrating,
 
 -   **Clunky Tooling:** Slow compilers, unreliable testnets, and a lack of high-quality development frameworks (like Foundry for the EVM) can make the development lifecycle painful.
 -   **Inadequate Documentation:** Clear, comprehensive, and up-to-date documentation is a non-negotiable. If developers can't figure out how to use your platform's features, they won't.
--   **Steep Learning Curve:** While some complexity is unavoidable, platforms that require developers to learn an obscure, new programming language without providing extensive educational resources will struggle to attract talent from the much larger pool of EVM-native developers. This has been a significant challenge for some non-EVM chains.
+-   **Steep Learning Curve:** While some complexity is unavoidable, platforms that require developers to learn an obscure, new [programming language](/best-programming-languages-for-blockchain-development) without providing extensive educational resources will struggle to attract talent from the much larger pool of EVM-native developers. This has been a significant challenge for some non-EVM chains.
 
 ### 2. Lack of Network Effects and Composability
 
 Web3 is built on the principle of "money legos"-the idea that open-source protocols can be combined and built upon. Developers are drawn to ecosystems with a rich and vibrant set of existing protocols to build with.
 
 -   **The "Empty City" Problem:** A new Layer 1 blockchain, even if it's technically superior, starts as an empty city. It has no users, no liquidity, and no other dApps to integrate with. Building here can feel like building in a vacuum.
--   **The Gravity of the EVM:** The Ethereum ecosystem (including its Layer 2s) has an enormous network effect. It has the most users, the most liquidity, the most stablecoins, and the most battle-tested DeFi primitives. For a new dApp, launching in this environment is often a much safer and more strategic choice, as it can immediately tap into this existing infrastructure. The struggle of non-EVM chains to gain traction against the **[Ethereum L2 ecosystem](/guide-to-layer-2s)** is a testament to this powerful gravity.
+-   **The Gravity of the EVM:** The [Ethereum](/what-is-ethereum) ecosystem (including its Layer 2s) has an enormous network effect. It has the most users, the most liquidity, the most stablecoins, and the most battle-tested [DeFi](/what-is-defi) primitives. For a new dApp, launching in this environment is often a much safer and more strategic choice, as it can immediately tap into this existing infrastructure. The struggle of non-EVM chains to gain traction against the **[Ethereum L2 ecosystem](/guide-to-layer-2s)** is a testament to this powerful gravity.
 
 ### 3. Economic and Incentive Misalignment
 
 A protocol's tokenomics and its approach to funding developers are critical for talent retention.
 
--   **Unsustainable Incentives:** Ecosystems that rely on short-term, inflationary token rewards to attract developers and users often see a mass exodus once those rewards dry up.
+-   **Unsustainable Incentives:** Ecosystems that rely on short-term, inflationary [token](/what-is-a-token) rewards to attract developers and users often see a mass exodus once those rewards dry up.
 -   **Lack of Public Goods Funding:** A healthy ecosystem invests in "public goods"-the core infrastructure, open-source libraries, and educational resources that benefit all builders. Projects that fail to fund these public goods often suffer from a stagnating developer experience.
 
 ### 4. Shifting Narratives and Hype Cycles
@@ -46,7 +46,7 @@ The Web3 space is heavily narrative-driven. Developer attention, like capital, t
 
 ### Case Studies in Developer Migration
 
--   **Litecoin:** As explored in our analysis of the **[Litecoin developer slowdown](/litecoin-developer-activity-slowdown)**, its limited smart contract capabilities have meant there is simply less for developers to do, causing them to move to more expressive platforms.
+-   **Litecoin:** As explored in our analysis of the **[Litecoin developer slowdown](/litecoin-developer-activity-slowdown)**, its limited [smart contract](/what-are-smart-contracts) capabilities have meant there is simply less for developers to do, causing them to move to more expressive platforms.
 -   **Solana:** The collapse of its biggest champion, FTX, combined with the powerful pull of the EVM-compatible L2 ecosystem, has contributed to a **[decline in Solana's developer count](/solanas-developer-activity-decline)**, though its community remains resilient.
 
 ### Conclusion
@@ -60,7 +60,7 @@ The migration of developers between blockchain ecosystems is a natural and healt
     </div>
     <div>
       <h3 className="text-xl font-bold text-primary mb-1">Where Are the Builders Going?</h3>
-      <p className="text-muted-foreground">The best developers are flocking to the most innovative and well-funded projects. Find your next role in a thriving ecosystem on the #1 Web3 job board.</p>
+      <p className="text-muted-foreground">The best developers are flocking to the most innovative and well-funded projects. Find your next role in a thriving ecosystem on the #1 [Web3 job](/web3-jobs-for-beginners) board.</p>
     </div>
     <a href="/jobs" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
       <Button size="lg">
@@ -93,12 +93,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- DeFi, [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -134,7 +134,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

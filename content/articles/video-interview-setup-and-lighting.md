@@ -11,7 +11,7 @@ description: "Your background, lighting, and camera angle speak volumes before y
 
 
 
-In the modern hiring landscape, the video interview has become a standard step in the process, serving as a bridge between the initial phone screen and the final in-person or panel discussions. While it offers the convenience of interviewing from home, it introduces a new set of variables that can impact an interviewer's perception of you: your technical setup, lighting, and environment. A polished, professional video presence demonstrates that you are detail-oriented, prepared, and take the opportunity seriously. Conversely, a poor setup can be distracting and unprofessional, undermining your qualifications before you even answer the first question.
+In the modern hiring landscape, the video [interview](/how-to-prepare-for-job-interview) has become a standard step in the process, serving as a bridge between the initial phone screen and the final in-person or panel discussions. While it offers the convenience of interviewing from home, it introduces a new set of variables that can impact an interviewer's perception of you: your technical setup, lighting, and environment. A polished, professional video presence demonstrates that you are detail-oriented, prepared, and take the opportunity seriously. Conversely, a poor setup can be distracting and unprofessional, undermining your qualifications before you even answer the first question.
 
 This guide will walk you through everything you need to create a professional video interview environment, from camera and audio to lighting and background. By mastering these elements, you can ensure that the focus remains on you and your skills, not on technical glitches or a distracting background.
 
@@ -92,7 +92,7 @@ Before every video interview, run through this final checklist:
 1.  **Test Your Tech:** At least 30 minutes before the interview, open the application (Zoom, Google Meet, Teams, etc.) and test your camera, microphone, and internet connection. Most platforms have a settings area where you can see a preview of your video and test your audio.
 2.  **Check Your Name and Profile Picture:** Ensure your display name is your full, professional name and your profile picture is appropriate.
 3.  **Dress Professionally:** Dress as you would for an in-person interview, at least from the waist up. Solid colors tend to look best on camera. Avoid busy patterns that can be distracting.
-4.  **Prepare Your Digital Materials:** Close all unnecessary tabs and applications. Have your resume, the job description, and your questions open in a separate window for easy reference.
+4.  **Prepare Your Digital Materials:** Close all unnecessary tabs and applications. Have your [resume](/how-to-build-a-web3-resume-that-stands-out), the job description, and your questions open in a separate window for easy reference.
 5.  **Do a Final Environment Scan:** Take one last look at your video preview. Is your framing right? Is the background clean? Is there anything distracting?
 
 By investing a small amount of time and effort into your video interview setup, you can eliminate potential distractions and present yourself as a polished, prepared, and professional candidate. This allows your skills, experience, and personality to take center stage, giving you the best possible chance of success.

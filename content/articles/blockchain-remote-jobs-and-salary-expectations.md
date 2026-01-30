@@ -11,22 +11,22 @@ category: "Educational"
 
 
 
-The Web3 and blockchain industry is inherently global and remote-first. The philosophy of decentralization extends to its workforce, creating a job market where your physical location is often irrelevant. This has opened up a world of opportunity for professionals who want to work on cutting-edge technology from anywhere in the world. But what do these **[remote Web3 jobs](/remote-work-in-web3)** look like, and what can you expect in terms of salary?
+The [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) industry is inherently global and remote-first. The philosophy of decentralization extends to its workforce, creating a job market where your physical location is often irrelevant. This has opened up a world of opportunity for professionals who want to work on cutting-edge technology from anywhere in the world. But what do these **[remote Web3 jobs](/remote-work-in-web3)** look like, and what can you expect in terms of salary?
 
-This guide provides an overview of the remote job landscape in the blockchain space, covering the most common roles and their salary expectations.
+This guide provides an overview of the [remote job](/remote-work-in-web3) landscape in the blockchain space, covering the most common roles and their salary expectations.
 
 ### Why is Web3 So Remote-Friendly?
 
 -   **Global Talent Pool:** A project's success depends on attracting the best talent, regardless of where they live.
 -   **Philosophical Alignment:** A decentralized protocol is naturally built by a decentralized team.
 -   **24/7 Market:** Crypto markets never sleep. A globally distributed team ensures constant coverage.
--   **Internet-Native Culture:** The industry was born on the internet, and its collaboration tools (Discord, GitHub, Notion) are all remote-native.
+-   **Internet-Native Culture:** The industry was born on the internet, and its collaboration tools (Discord, [GitHub](/building-web3-portfolio), Notion) are all remote-native.
 
 ### Top Remote Roles and Salary Expectations
 
-Salaries for remote Web3 jobs are highly competitive, though they can vary based on the company's location and funding. A US-based company will typically pay more than a European or Asian company, even for the same remote role. The ranges below represent a global average for experienced professionals at well-funded startups and protocols.
+Salaries for remote [Web3 jobs](/web3-jobs-for-beginners) are highly competitive, though they can vary based on the company's location and funding. A US-based company will typically pay more than a European or Asian company, even for the same remote role. The ranges below represent a global average for experienced professionals at well-funded startups and protocols.
 
-**1. Smart Contract Developer**
+**1. [Smart Contract](/what-are-smart-contracts) Developer**
 -   **What they do:** The most in-demand role. They build the secure, on-chain logic of dApps.
 -   **Average Senior Salary:** $120,000 - $200,000+ USD per year.
 
@@ -46,14 +46,14 @@ Salaries for remote Web3 jobs are highly competitive, though they can vary based
 -   **What they do:** Define the product vision and roadmap, bridging the gap between developers and users.
 -   **Average Senior Salary:** $130,000 - $190,000+ USD per year.
 
-> **Note on Compensation:** These figures are for base salary. A significant portion of compensation in Web3 comes in the form of token grants, which can often equal or exceed the base salary in potential value. For a full breakdown, see our guide on **Web3 salary negotiation**.
+> **Note on Compensation:** These figures are for base salary. A significant portion of compensation in Web3 comes in the form of [token](/what-is-a-token) grants, which can often equal or exceed the base salary in potential value. For a full breakdown, see our guide on **[Web3 salary](/web3-developer-salaries-2025) negotiation**.
 
 ### How to Land a Remote Web3 Job
 
--   **Build a Public Portfolio:** Your GitHub, your blog, your Twitter-these are your remote resume. They are public proof of your skills and passion.
+-   **Build a Public Portfolio:** Your GitHub, your blog, your Twitter-these are your remote [resume](/how-to-build-a-web3-resume-that-stands-out). They are public proof of your skills and passion.
 -   **Master Asynchronous Communication:** You must be an excellent written communicator. Your ability to clearly articulate ideas in a Notion doc or a Discord message is crucial.
 -   **Be a Self-Starter:** Remote teams need people who are autonomous and can manage their own time and tasks effectively.
--   **Network in Global Communities:** Participate in the Discords of major protocols, join a DAO, and attend virtual hackathons. Your network is no longer local; it's global.
+-   **Network in Global Communities:** Participate in the Discords of major protocols, join a [DAO](/what-is-a-dao), and attend virtual hackathons. Your network is no longer local; it's global.
 
 The remote job market in Web3 offers unparalleled freedom and opportunity. By developing in-demand skills and embracing the culture of remote-first collaboration, you can build a high-impact career from anywhere in the world.
 
@@ -80,7 +80,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

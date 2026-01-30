@@ -10,7 +10,7 @@ category: "Career Guides"
 
 
 
-Venture Capital (VC) is the engine of innovation, providing the crucial early-stage funding that allows startups to grow and build the future. In the fast-paced world of Web3, a new breed of venture capitalists has emerged: the **crypto VC**. These investors specialize in identifying and funding the most promising projects in the blockchain and decentralized technology space.
+Venture Capital (VC) is the engine of innovation, providing the crucial early-stage funding that allows startups to grow and build the future. In the fast-paced world of [Web3](/what-is-web3), a new breed of venture capitalists has emerged: the **crypto VC**. These investors specialize in identifying and funding the most promising projects in the [blockchain](/what-is-a-blockchain) and decentralized technology space.
 
 For many, a career in Web3 VC is the ultimate goal. It's an opportunity to be at the absolute forefront of innovation, work with the brightest minds in the industry, and help shape the trajectory of the new internet. However, it's also one of the most competitive and sought-after career paths. This guide will demystify the world of crypto VC, breaking down the key roles, the skills required, and the unconventional paths that can lead to a job as a Web3 investor.
 
@@ -18,9 +18,9 @@ For many, a career in Web3 VC is the ultimate goal. It's an opportunity to be at
 
 Investing in Web3 is fundamentally different from traditional venture capital.
 
-- **Investing in Protocols, Not Just Companies:** Crypto VCs don't just invest in the equity of a startup; they often invest directly in a protocol's native tokens. This means they need to evaluate not just the team and the market, but also the tokenomics and the economic security of a decentralized network.
-- **Liquid Investments:** Unlike traditional startup equity, which can take 10+ years to become liquid (i.e., sellable), tokens can often be traded on the open market much sooner. This requires a different set of skills, blending traditional venture analysis with elements of public market trading and portfolio management.
-- **Deep Technical Diligence:** To properly evaluate a project, a crypto VC needs to have a deep understanding of blockchain technology, smart contract security, and the specific technical trade-offs a project is making.
+- **Investing in Protocols, Not Just Companies:** Crypto VCs don't just invest in the equity of a startup; they often invest directly in a protocol's native [tokens](/what-is-a-token). This means they need to evaluate not just the team and the market, but also the tokenomics and the economic security of a decentralized network.
+- **Liquid Investments:** Unlike traditional startup equity, which can take 10+ years to become liquid (i.e., sellable), tokens can often be traded on the open market much sooner. This requires a different set of skills, blending traditional venture analysis with elements of public market trading and [portfolio](/building-web3-portfolio) management.
+- **Deep Technical Diligence:** To properly evaluate a project, a crypto VC needs to have a deep understanding of blockchain technology, [smart contract](/what-are-smart-contracts) security, and the specific technical trade-offs a project is making.
 - **Community and Governance Participation:** When a VC holds a significant amount of a project's governance tokens, they are not just a passive investor; they are an active community member. They are expected to participate in governance, vote on proposals, and help steer the protocol in the right direction.
 
 ### The Roles on a Web3 VC Team
@@ -29,7 +29,7 @@ A typical crypto fund has a few key roles.
 
 1.  **Analyst / Associate:** This is the entry-level investment role. Analysts are the workhorses of the fund. They are responsible for sourcing new deals, conducting initial screening calls with founders, performing market research, and building investment theses.
 2.  **Principal:** A more senior investment professional who has more autonomy. Principals lead diligence on potential investments, build relationships with founders, and begin to develop their own investment theses and networks.
-3.  **Partner:** The most senior members of the fund. Partners are responsible for making the final investment decisions, managing the fund's relationship with its Limited Partners (the people who provide the capital), and sitting on the "boards" of their portfolio companies (which, in Web3, often means being an active delegate in a DAO).
+3.  **Partner:** The most senior members of the fund. Partners are responsible for making the final investment decisions, managing the fund's relationship with its Limited Partners (the people who provide the capital), and sitting on the "boards" of their portfolio companies (which, in Web3, often means being an active delegate in a [DAO](/what-is-a-dao)).
 4.  **Platform / Value-Add Roles:** Modern VCs do more than just provide capital. They also provide support to their portfolio companies. "Platform" roles are non-investment roles that focus on helping founders with things like recruiting, marketing, legal issues, and tokenomics design. This is often an excellent entry point into the VC world for those with operational experience.
 
 ### The Crypto VC Skillset
@@ -58,7 +58,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -75,12 +75,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

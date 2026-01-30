@@ -13,7 +13,7 @@ category: "Industry Insights"
 
 The music industry, for all its creative energy, has long been criticized for its extractive business models. From the opaque accounting of major labels to the fractional-pennies-per-stream paid out by centralized streaming platforms, artists often struggle to earn a sustainable living from their work. The value chain is dominated by powerful intermediaries who capture the majority of the revenue, leaving the creators themselves with a small fraction of the value they generate.
 
-Web3, with its core tenets of decentralization, user ownership, and transparent value transfer, offers a powerful toolkit to re-architect the music industry from the ground up. It provides a pathway to disintermediate the traditional gatekeepers, create a more direct and economically aligned relationship between artists and their fans, and build new, more equitable models for funding and distributing music. While still in its early days, the impact of Web3 on music is a story of empowerment, community, and the quest for a fairer digital economy.
+[Web3](/what-is-web3), with its core tenets of decentralization, user ownership, and transparent value transfer, offers a powerful toolkit to re-architect the music industry from the ground up. It provides a pathway to disintermediate the traditional gatekeepers, create a more direct and economically aligned relationship between artists and their fans, and build new, more equitable models for funding and distributing music. While still in its early days, the impact of Web3 on music is a story of empowerment, community, and the quest for a fairer digital economy.
 
 This guide explores the key ways that Web3 technologies are shaping the future of music, from on-chain royalties and fan-owned record labels to the new creative possibilities unlocked by programmable music.
 
@@ -32,19 +32,19 @@ Web3 offers a new set of tools-or "primitives"-that address these problems by pu
 
 #### 1. Music NFTs: The Core of On-Chain Music
 
-The most fundamental innovation is the Music NFT. This involves tokenizing a song, an album, or even a music video as a **[Non-Fungible Token (NFT)](/what-are-nfts)** on a blockchain.
+The most fundamental innovation is the Music NFT. This involves tokenizing a song, an album, or even a music video as a **[Non-Fungible Token (NFT)](/what-are-nfts)** on a [blockchain](/what-is-a-blockchain).
 
--   **How it Works:** An artist can mint a limited edition of their new single as, for example, 100 NFTs. Fans can purchase these NFTs directly from the artist, becoming verifiable owners of that specific edition of the song.
--   **Direct-to-Fan Monetization:** This model cuts out the intermediaries. The revenue from the sale goes directly to the artist's crypto wallet, allowing them to capture a much larger share of the value.
--   **Programmable Royalties:** The NFT's **smart contract** can include a royalty function. This means that every time the Music NFT is resold on a secondary market, the artist automatically receives a percentage (e.g., 10%) of the sale price. This is a game-changer, allowing artists to share in the long-term appreciation of their work.
+-   **How it Works:** An artist can mint a limited edition of their new single as, for example, 100 [NFTs](/what-are-nfts). Fans can purchase these NFTs directly from the artist, becoming verifiable owners of that specific edition of the song.
+-   **Direct-to-Fan Monetization:** This model cuts out the intermediaries. The revenue from the sale goes directly to the artist's crypto [wallet](/how-to-choose-a-crypto-wallet), allowing them to capture a much larger share of the value.
+-   **Programmable Royalties:** The NFT's **[smart contract](/what-are-smart-contracts)** can include a royalty function. This means that every time the Music NFT is resold on a secondary market, the artist automatically receives a percentage (e.g., 10%) of the sale price. This is a game-changer, allowing artists to share in the long-term appreciation of their work.
 -   **Practical Insight:** Platforms like Sound.xyz and Catalog have pioneered this model, creating vibrant communities where collectors actively support emerging artists by buying their Music NFTs.
 
 #### 2. Fan-Owned Record Labels (Music DAOs)
 
 Web3 enables entirely new, community-driven organizational structures. A **[DAO (Decentralized Autonomous Organization)](/what-is-a-dao)** can function as a fan-owned and operated record label.
 
--   **How it Works:** A group of fans can pool their capital into a DAO treasury. They can then use these funds to invest in and support emerging artists. DAO members can vote on which artists to sign, how to spend the marketing budget, and how to distribute the revenue generated from the music.
--   **Practical Insight:** This creates a powerful alignment of incentives. The fans are no longer passive consumers; they are active investors and stakeholders in the artist's success. If the artist they support succeeds, the value of the DAO's treasury (and potentially its governance token) increases.
+-   **How it Works:** A group of fans can pool their capital into a [DAO](/what-is-a-dao) treasury. They can then use these funds to invest in and support emerging artists. DAO members can vote on which artists to sign, how to spend the marketing budget, and how to distribute the revenue generated from the music.
+-   **Practical Insight:** This creates a powerful alignment of incentives. The fans are no longer passive consumers; they are active investors and stakeholders in the artist's success. If the artist they support succeeds, the value of the DAO's treasury (and potentially its governance [token](/what-is-a-token)) increases.
 
 #### 3. Token-Gated Access and Experiences
 
@@ -76,7 +76,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -93,12 +93,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), NFTs, and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -134,7 +134,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

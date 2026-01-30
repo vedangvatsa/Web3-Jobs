@@ -11,28 +11,28 @@ category: "Career Guides"
 
 
 
-In the traditional job market, your resume is a curated document, a polished summary of your past achievements designed to impress a potential employer. In the new, transparent world of Web3, this model is being augmented, and in some cases, replaced by a much more powerful and verifiable credential: your **on-chain resume**.
+In the traditional job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is a curated document, a polished summary of your past achievements designed to impress a potential employer. In the new, transparent world of [Web3](/what-is-web3), this model is being augmented, and in some cases, replaced by a much more powerful and verifiable credential: your **on-chain resume**.
 
-An on-chain resume is not a document you create; it's a public record of your activity that is permanently etched onto the blockchain. It's the sum of your transactions, your governance votes, your DAO contributions, and the assets you hold in your crypto wallet. In a trustless ecosystem, this "proof of work" is becoming the ultimate way to build a reputation and signal your skills, passion, and expertise. For savvy Web3 professionals, curating a strong on-chain resume is a powerful career strategy.
+An on-chain resume is not a document you create; it's a public record of your activity that is permanently etched onto the [blockchain](/what-is-a-blockchain). It's the sum of your transactions, your governance votes, your [DAO](/what-is-a-dao) contributions, and the assets you hold in your crypto [wallet](/how-to-choose-a-crypto-wallet). In a trustless ecosystem, this "proof of work" is becoming the ultimate way to build a reputation and signal your skills, passion, and expertise. For savvy Web3 professionals, curating a strong on-chain resume is a powerful career strategy.
 
 ### What is an On-Chain Resume?
 
-Your on-chain resume is the story told by your public wallet address (preferably a human-readable ENS name like `yourname.eth`). By using a block explorer like Etherscan, anyone-including a recruiter or hiring manager-can see:
+Your on-chain resume is the story told by your public wallet address (preferably a human-readable ENS name like `yourname.[eth](/what-is-ethereum)`). By using a block explorer like Etherscan, anyone-including a recruiter or hiring manager-can see:
 
--   **Your History of Interaction:** Which protocols have you used? Did you just use Uniswap once, or are you an active participant in complex DeFi strategies? This shows your level of practical experience.
+-   **Your History of Interaction:** Which protocols have you used? Did you just use Uniswap once, or are you an active participant in complex [DeFi](/what-is-defi) strategies? This shows your level of practical experience.
 -   **Your Governance Participation:** Have you voted in major DAO governance proposals? Have you delegated your voting power to a respected community member? This signals that you are an engaged and thoughtful stakeholder.
--   **Your NFT Collection:** The NFTs you mint and collect are a reflection of your taste and your understanding of the culture. Are you collecting art from emerging artists, or just flipping hyped projects?
+-   **Your [NFT](/what-are-nfts) Collection:** The NFTs you mint and collect are a reflection of your taste and your understanding of the culture. Are you collecting art from emerging artists, or just flipping hyped projects?
 -   **Your Contributions:** Have you received payments from a DAO for completing a bounty? Have you minted a POAP (Proof of Attendance Protocol) by attending a major hackathon or conference? This is verifiable proof of your involvement.
 
 ### Why Your On-Chain Resume Matters
 
 -   **Verifiable and Authentic:** Unlike a traditional resume, an on-chain history cannot be faked. It's an immutable record of your actions.
--   **Signals Expertise:** A wallet that has interacted with advanced DeFi protocols, holds governance tokens for key infrastructure, and has a history of thoughtful voting is a powerful signal of expertise.
+-   **Signals Expertise:** A wallet that has interacted with advanced DeFi protocols, holds governance [tokens](/what-is-a-token) for key infrastructure, and has a history of thoughtful voting is a powerful signal of expertise.
 -   **Cultural Alignment:** Your on-chain activity shows that you are a native participant in the ecosystem, not just a tourist. It proves you understand the culture because you are a part of it.
 
 ### How to Build Your On-Chain Resume
 
-Building a strong on-chain resume is an active and intentional process. It's about curating your public wallet as a professional portfolio.
+Building a strong on-chain resume is an active and intentional process. It's about curating your public wallet as a professional [portfolio](/building-web3-portfolio).
 
 **1. Get an ENS Name:** Registering an ENS name for your primary public wallet is step one. It's your Web3 username and a key piece of your digital identity.
 
@@ -64,7 +64,7 @@ The rise of the on-chain resume is a paradigm shift. It's a move away from self-
     </div>
     <div>
       <h3 className="text-xl font-bold text-primary mb-1">Ready to Build Your On-Chain Resume?</h3>
-      <p className="text-muted-foreground">The best way to build your reputation is by contributing. Find opportunities to get involved with top protocols and DAOs on our Web3 job board.</p>
+      <p className="text-muted-foreground">The best way to build your reputation is by contributing. Find opportunities to get involved with top protocols and DAOs on our [Web3 job](/web3-jobs-for-beginners) board.</p>
     </div>
     <a href="/jobs" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
       <Button size="lg">
@@ -96,7 +96,7 @@ The Web3 job market has fundamentally different dynamics than Web2:
 Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
+- [Smart contracts](/what-are-smart-contracts) and their use cases
 - DeFi, NFTs, and DAOs
 - Current Web3 ecosystem and key players
 

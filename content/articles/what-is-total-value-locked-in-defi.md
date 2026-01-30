@@ -10,19 +10,19 @@ category: "Educational"
 ---
 
 
-In the world of Decentralized Finance (DeFi), one of the most frequently cited metrics for measuring the size, adoption, and overall health of a protocol is **Total Value Locked (TVL)**. In simple terms, TVL is the total value of all the cryptocurrency assets that users have deposited, or "locked," into a specific DeFi protocol's smart contracts.
+In the world of Decentralized Finance ([DeFi](/what-is-defi)), one of the most frequently cited metrics for measuring the size, adoption, and overall health of a protocol is **Total Value Locked (TVL)**. In simple terms, TVL is the total value of all the cryptocurrency assets that users have deposited, or "locked," into a specific DeFi protocol's [smart contracts](/what-are-smart-contracts).
 
-Think of it as the total amount of capital that the protocol currently has under its management. For a lending protocol like Aave, the TVL would be the total value of all the assets deposited by lenders. For a decentralized exchange like Uniswap, it would be the total value of all the assets in its liquidity pools.
+Think of it as the total amount of capital that the protocol currently has under its management. For a lending protocol like Aave, the TVL would be the total value of all the assets deposited by lenders. For a [decentralized exchange](/what-is-a-decentralized-exchange-dex) like Uniswap, it would be the total value of all the assets in its liquidity pools.
 
 ### How is TVL Calculated?
 
 TVL is typically calculated in US dollars. The process involves:
-1.  Finding the number of tokens locked in the protocol's smart contracts.
+1.  Finding the number of [tokens](/what-is-a-token) locked in the protocol's smart contracts.
 2.  Multiplying that number by the current market price of each token.
 3.  Summing up the total value across all assets.
 
 **Example:**
--   A lending protocol has 100,000 ETH and 200 million USDC locked in its contracts.
+-   A lending protocol has 100,000 [ETH](/what-is-ethereum) and 200 million USDC locked in its contracts.
 -   If the price of ETH is $3,500, the value of the locked ETH is $350 million.
 -   The value of the locked USDC is $200 million.
 -   The protocol's total TVL would be $350M + $200M = **$550 million**.
@@ -45,11 +45,11 @@ TVL is a foundational metric for analyzing the DeFi landscape. It provides a qui
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -62,16 +62,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- DeFi, [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -107,7 +107,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 

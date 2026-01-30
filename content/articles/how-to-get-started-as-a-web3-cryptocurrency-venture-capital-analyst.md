@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-The role of an Investment Analyst at a Web3 venture capital fund is one of the most coveted and intellectually stimulating jobs in the crypto industry. These are the individuals on the front lines, tasked with identifying the most promising founders and protocols that will shape the future of the decentralized internet.
+The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund is one of the most coveted and intellectually stimulating jobs in the crypto industry. These are the individuals on the front lines, tasked with identifying the most promising founders and protocols that will shape the future of the decentralized internet.
 
 Unlike traditional finance, where analysis is based on private company data and financial statements, a Web3 analyst works in a world of open-source code, transparent on-chain metrics, and rapidly evolving narratives. This guide explores what a Web3 Investment Analyst does and the skills required to break into this competitive field. For a broader overview of VC jobs, see our guide on [how to get a job in Web3 venture capital](/web3-vc-jobs).
 
@@ -23,7 +23,7 @@ The primary job of an analyst is to help the fund's partners make better investm
 2.  **Diligence:** Leading the deep-dive investigation to assess a project's viability. This includes:
     -   **Team Analysis:** Who are the founders? What is their background?
     -   **Technical Diligence:** How does the protocol work? Is the architecture sound?
-    -   **[Tokenomics](/understanding-tokenomics) Analysis:** What is the utility of the token? Is the distribution fair?
+    -   **[Tokenomics](/understanding-tokenomics) Analysis:** What is the utility of the [token](/what-is-a-token)? Is the distribution fair?
     -   **On-Chain Data Analysis:** Using tools like Dune and Nansen to analyze the project's real-world traction.
     -   **Market Analysis:** What is the total addressable market? Who are the competitors?
 3.  **Investment Memo Writing:** The culmination of the diligence process. This is a detailed document that lays out the case for or against an investment. It must be a clear, concise, and data-driven argument.
@@ -42,10 +42,10 @@ The path to a crypto VC job is rarely straightforward. It's about demonstrating 
 
 1.  **Become a "Degen" and a User:** You must have first-hand experience using the products you will be evaluating.
 2.  **Develop a Public "Spike":** Become a well-known expert in a specific niche. Start a blog, newsletter, or Twitter account where you publish high-quality research on your chosen area (e.g., zero-knowledge proofs, MEV, or a specific L1 ecosystem).
-3.  **Build a Portfolio of Public Work:** Your public analyses are your resume.
+3.  **Build a [Portfolio](/building-web3-portfolio) of Public Work:** Your public analyses are your [resume](/how-to-build-a-web3-resume-that-stands-out).
     -   Create insightful [Dune dashboards](/on-chain-analyst-job).
     -   Write a detailed investment thesis on a project you admire and publish it.
-    -   Become an active and respected contributor to a DAO's governance forum.
+    -   Become an active and respected contributor to a [DAO](/what-is-a-dao)'s governance forum.
 4.  **Network Strategically:** Build relationships with analysts and associates at funds you admire. Don't just ask for a job; ask for feedback on your analysis.
 
 A career as a Web3 Investment Analyst is a demanding but incredibly rewarding path. It's a chance to be at the center of the action, supporting the founders who are building the foundational infrastructure of the next web.
@@ -56,7 +56,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -69,16 +69,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

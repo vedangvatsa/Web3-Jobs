@@ -11,7 +11,7 @@ category: "Getting Started"
 
 
 
-While Ethereum dominates the landscape of smart contract development, a new generation of high-performance blockchains is emerging, and at the forefront is Solana. Known for its incredible speed and low transaction fees, Solana offers a different set of trade-offs and a unique programming model that is attracting developers looking to build highly scalable applications.
+While [Ethereum](/what-is-ethereum) dominates the landscape of [smart contract](/what-are-smart-contracts) development, a new generation of high-performance blockchains is emerging, and at the forefront is Solana. Known for its incredible speed and low transaction fees, Solana offers a different set of trade-offs and a unique programming model that is attracting developers looking to build highly scalable applications.
 
 The primary language for building on Solana is **Rust**, a language renowned for its safety and performance. This guide will provide a step-by-step introduction to building your first simple program (Solana's term for smart contracts) on Solana using Rust and the popular **Anchor** framework.
 
@@ -20,13 +20,13 @@ The primary language for building on Solana is **Rust**, a language renowned for
 Before we write code, it's crucial to understand a key difference between Ethereum and Solana.
 
 *   **Ethereum:** Smart contracts on Ethereum contain both the code and the state (the data). A single contract holds all of its own data.
-*   **Solana:** The Solana programming model separates code and state. A program is deployed to the blockchain and is essentially stateless. The data it operates on is stored in separate "account" objects.
+*   **Solana:** The Solana programming model separates code and state. A program is deployed to the [blockchain](/what-is-a-blockchain) and is essentially stateless. The data it operates on is stored in separate "account" objects.
 
 This separation of code and data is a key reason for Solana's performance. It allows for transactions to be processed in parallel, as the network knows in advance which accounts (data) a transaction will interact with.
 
 ### The Tools You'll Need
 
-1.  **Rust:** You'll need to have the Rust programming language installed. You can do this via `rustup`.
+1.  **Rust:** You'll need to have the Rust [programming language](/best-programming-languages-for-blockchain-development) installed. You can do this via `rustup`.
 2.  **Solana Tool Suite:** Install the Solana command-line tools.
 3.  **Anchor:** Anchor is a framework that dramatically simplifies Solana development. It provides a CLI for managing your project and a Rust DSL (Domain Specific Language) for writing programs.
 
@@ -138,14 +138,14 @@ describe("my_first_dapp", () => {
   const program = anchor.workspace.MyFirstDapp as Program<MyFirstDapp>;
   
   // We need a keypair for our data account.
-  const baseAccount = anchor.web3.Keypair.generate();
+  const baseAccount = anchor.[web3](/what-is-web3).Keypair.generate();
 
   it("Is initialized!", async () => {
     // Call the initialize function.
     await program.methods.initialize()
       .accounts({
         baseAccount: baseAccount.publicKey,
-        user: provider.wallet.publicKey,
+        user: provider.[wallet](/how-to-choose-a-crypto-wallet).publicKey,
         systemProgram: anchor.web3.SystemProgram.programId,
       })
       .signers([baseAccount]) // We need to sign with the new account's keypair.
@@ -207,7 +207,7 @@ Monitor your progress. Are you seeing results? Adjust your approach based on fee
 Consider Sarah, a developer at a blockchain startup. She struggled with {topic} until she implemented these strategies. Within 3 months, she saw dramatic improvements in her {relevant metric}.
 
 ### Example 2
-Juan, a product manager in DeFi, faced similar challenges. By following this framework, he was able to {achieve outcome}. His experience demonstrates how universal these principles are.
+Juan, a product manager in [DeFi](/what-is-defi), faced similar challenges. By following this framework, he was able to {achieve outcome}. His experience demonstrates how universal these principles are.
 
 ### Example 3
 Maya, transitioning from Web2 to Web3, used this approach to quickly adapt. Her success shows that this works regardless of your background or experience level.
@@ -250,12 +250,3 @@ A: Check the related articles section below for deeper dives into specific aspec
 - {Key point 5}
 
 The foundation for success in your career is built on mastering these fundamental skills and mindsets. Start with this article, implement the strategies, and watch your professional growth accelerate.
-
-## Related Articles
-
-- Career advancement strategies
-- Professional development goals framework
-- Building strong working relationships
-- Leadership development for technical professionals
-- Web3 career opportunities overview
-

@@ -60,7 +60,7 @@ The framework is the same. As soon as they bring it to your attention, own it im
 **2. What if the mistake was partially someone else's fault?**
 Even if others contributed to the problem, your focus should be on your part in it. Take responsibility for your portion of the error. After the immediate crisis is resolved, you can have a separate, calm conversation about improving the team's process. But in the initial moment, deflecting blame will only make you look weak.
 
-**3unners to my resume that will get me hired. What do I do?**
+**3unners to my [resume](/how-to-build-a-web3-resume-that-stands-out) that will get me hired. What do I do?**
 You need to change your mindset from just listing job duties to highlighting your accomplishments and the impact you had. Instead of saying "Managed social media accounts," you should quantify your results, like "Grew Instagram followers by 25% in six months by implementing a new content strategy." This shows you didn't just do a job, you delivered value.
 
 Another powerful technique is to use the STAR method for your bullet points: Situation, Task, Action, Result. For example, "(Situation) The company's blog had low engagement. (Task) My goal was to increase readership. (Action) I researched keywords, wrote 10 SEO-optimized articles, and promoted them on social media. (Result) This resulted in a 50% increase in organic traffic and two new client leads." This structure tells a compelling story of your effectiveness.
@@ -80,7 +80,7 @@ Finally, simple typos and grammatical errors are a killer. It makes you look slo
 **4. How important is a cover letter? Do people even read them anymore?**
 Yes, they are still incredibly important, especially if you are a career changer or have a non-traditional background. While a hiring manager might only skim it at first, a great cover letter is your only chance to tell your story and connect the dots for them.
 
-Your resume lists the "what," but your cover letter explains the "why." Why are you passionate about this company? Why are you a perfect fit for this specific role? How does your unique experience give you an edge? A generic cover letter is useless, but a well-crafted, specific, and enthusiastic one can be the single thing that gets you the interview over a candidate with a similar resume.
+Your resume lists the "what," but your cover letter explains the "why." Why are you passionate about this company? Why are you a perfect fit for this specific role? How does your unique experience give you an edge? A generic cover letter is useless, but a well-crafted, specific, and enthusiastic one can be the single thing that gets you the [interview](/how-to-prepare-for-job-interview) over a candidate with a similar resume.
 
 **5. How should I prepare for a job interview? I always get so nervous and blank out.**
 Preparation is the antidote to nervousness. The more prepared you are, the more confident you will feel. First, research the company and the interviewers. Understand their product, their mission, and their recent news.
@@ -90,11 +90,3 @@ Second, prepare your answers to common interview questions. Don't memorize a scr
 Third, prepare your own questions to ask them. This is crucial. Asking thoughtful questions shows you are genuinely interested and have done your homework. Ask about the team's biggest challenges, what success looks like in the role, or the company culture.
 
 Finally, do a mock interview with a friend. Practice saying your answers out loud. This simple act of verbalizing your thoughts can make a huge difference in how smoothly you communicate when you're under pressure.
-
-## Related Articles
-
-- [Web3 Jobs in Algiers: A Guide to Algeria's Tech Awakening](web3-jobs-in-algiers)
-- [Web3 Jobs in Libreville: A Guide to Gabon's Green Crypto Scene](web3-jobs-in-libreville)
-- [Web3 Jobs in Luanda: A Guide to Angola's Emerging Tech Scene](web3-jobs-in-luanda)
-- [How to Ask Smart Questions as a New Employee](asking-smart-questions-as-new-employee)
-- [Web3 Jobs in Lagos: A Guide to West Africa's Tech Megacity](web3-jobs-in-lagos)

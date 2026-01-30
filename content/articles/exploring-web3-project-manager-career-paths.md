@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-As the Web3 ecosystem matures, the need for skilled organizational and operational talent has become just as critical as the need for technical talent. While developers build the protocols, it's the **Web3 Project Manager** who ensures that these complex, multi-faceted initiatives are delivered on time and on budget.
+As the [Web3](/what-is-web3) ecosystem matures, the need for skilled organizational and operational talent has become just as critical as the need for technical talent. While developers build the protocols, it's the **Web3 Project Manager** who ensures that these complex, multi-faceted initiatives are delivered on time and on budget.
 
 A Web3 Project Manager's role is a unique blend of traditional project management discipline and a deep understanding of the crypto-native world. They are the conductors of a chaotic orchestra, coordinating the efforts of a global, remote-first team of developers, designers, and community members. For a detailed overview of the role, see our guide on how to succeed as a Web3 project manager.
 
@@ -20,7 +20,7 @@ A Web3 Project Manager's role is a unique blend of traditional project managemen
 While the core responsibilities are similar-managing timelines, resources, and stakeholders-the Web3 environment introduces unique challenges.
 
 -   **Decentralized Teams:** You are not managing a team in an office. You are coordinating a global, often pseudonymous, group of contributors across multiple time zones.
--   **Community as a Stakeholder:** Your key stakeholders are not just internal executives; they include the entire community of token holders who have a direct say in the project's direction via governance.
+-   **Community as a Stakeholder:** Your key stakeholders are not just internal executives; they include the entire community of [token](/what-is-a-token) holders who have a direct say in the project's direction via governance.
 -   **Transparent and Public Roadmaps:** Project plans and progress are often public. You must be comfortable with a high degree of transparency and public scrutiny.
 -   **Security is Paramount:** A delay in a traditional project is a business issue. A security flaw in a Web3 project can be a catastrophic failure. Security must be integrated into every step of the project lifecycle.
 
@@ -44,10 +44,10 @@ While the core responsibilities are similar-managing timelines, resources, and s
 
 For experienced project managers from the Web2 world, the transition is very achievable.
 
-1.  **Immerse Yourself:** Go deep down the rabbit hole. Use DeFi, join DAOs, and learn the language and culture of the space.
+1.  **Immerse Yourself:** Go deep down the rabbit hole. Use [DeFi](/what-is-defi), join [DAOs](/what-is-a-dao), and learn the language and culture of the space.
 2.  **Get Certified:** A certification in Agile or Scrum (like a Certified ScrumMaster - CSM) can be very valuable.
 3.  **Contribute to a DAO:** This is the best way to get experience. Find a DAO and volunteer to help organize a project or a working group. This becomes your "proof of work."
-4.  **Reframe Your Resume:** Tailor your resume to highlight your experience managing remote, cross-functional teams and complex technical projects. Emphasize your communication and stakeholder management skills.
+4.  **Reframe Your [Resume](/how-to-build-a-web3-resume-that-stands-out):** Tailor your resume to highlight your experience managing remote, cross-functional teams and complex technical projects. Emphasize your communication and stakeholder management skills.
 
 ## Complete Salary Guide: Web3 Project Manager Roles
 
@@ -65,7 +65,7 @@ For experienced project managers from the Web2 world, the transition is very ach
 ### Path 1: Protocol Product Manager (Ethereum/DeFi) (12-18 Month Timeline)
 
 **Months 1-6: Build Protocol Expertise**
-- Deep study: DeFi protocols, Ethereum, L2s (read whitepapers)
+- Deep study: DeFi protocols, [Ethereum](/what-is-ethereum), L2s (read whitepapers)
 - Learn: governance, tokenomics, community dynamics
 - Join 5+ DAOs as active contributor
 - Network with 20+ protocol developers and PMs
@@ -166,7 +166,7 @@ For experienced project managers from the Web2 world, the transition is very ach
 - [ ] Get PM foundation: CSM (Scrum Master) certification or Agile training
 - [ ] Choose path: protocol, DAO, or startup
 - [ ] Join 5+ DAOs as active member
-- [ ] Set up Twitter, Discord, GitHub
+- [ ] Set up Twitter, Discord, [GitHub](/building-web3-portfolio)
 
 **Week 3-4:**
 - [ ] Complete CSM (or take Agile basics course)
@@ -202,7 +202,7 @@ For experienced project managers from the Web2 world, the transition is very ach
 - 2+ published articles
 - 1+ paid opportunity
 - 20+ strong network contacts
-- 1 full-time PM interview or offer
+- 1 full-time PM [interview](/how-to-prepare-for-job-interview) or offer
 
 ## Frequently Asked Questions
 
@@ -243,7 +243,7 @@ A: Build expertise first (1-2 years); then launch if you have community + thesis
 - Discord: protocol Discords, DAO communities
 
 ### Job Boards
-- Our Web3 Job Board (/jobs)
+- Our [Web3 Job](/web3-jobs-for-beginners) Board (/jobs)
 - AngelList: Web3 startups
 - DAO job boards (DAOJobs, etc.)
 

@@ -168,10 +168,10 @@ The development of a comprehensive regulatory and policy framework will be criti
     *   Enhance India's digital diplomacy and tech exports
 
 7.  **Integration with Emerging Technologies:** Many opinions highlight the potential synergies between CBDCs and other emerging technologies:
-    *   Blockchain and distributed ledger technologies for enhanced security and transparency
+    *   [Blockchain](/what-is-a-blockchain) and distributed ledger technologies for enhanced security and transparency
     *   AI for improved efficiency and fraud detection
-    *   Integration with the broader Web3 ecosystem
-    *   Smart contracts for programmable money and automated financial operations
+    *   Integration with the broader [Web3](/what-is-web3) ecosystem
+    *   [Smart contracts](/what-are-smart-contracts) for programmable money and automated financial operations
     *   Integration with Digital Public Infrastructure (DPI) to create a comprehensive digital economy
 
 8.  **Regulatory and Governance Considerations:** Experts emphasize the need for:

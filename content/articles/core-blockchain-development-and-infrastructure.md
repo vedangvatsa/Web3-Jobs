@@ -11,7 +11,7 @@ category: "Educational"
 
 
 
-While dApp and smart contract developers build the applications of Web3, a different class of engineer works at a deeper level, building the very foundations that these applications run on. These are the **Web3 Blockchain Infrastructure Engineers**. This is a highly specialized and deeply technical role focused on building, maintaining, and optimizing the core components of the blockchain ecosystem.
+While dApp and [smart contract](/what-are-smart-contracts) developers build the applications of [Web3](/what-is-web3), a different class of engineer works at a deeper level, building the very foundations that these applications run on. These are the **Web3 [Blockchain](/what-is-a-blockchain) Infrastructure Engineers**. This is a highly specialized and deeply technical role focused on building, maintaining, and optimizing the core components of the blockchain ecosystem.
 
 This career path is for those who are passionate about distributed systems, networking, and the low-level mechanics of how blockchains work. It's one of the most challenging and impactful engineering roles in the industry. For a more detailed overview, see our guide on **[building a career as a Web3 blockchain infrastructure engineer](/building-a-career-as-a-web3-blockchain-infrastructure-engineer)**.
 
@@ -21,7 +21,7 @@ A Web3 Infrastructure Engineer works on the "picks and shovels" of the decentral
 
 **1. Protocol Engineering (Core L1/L2 Development)**
 
-This is the most prestigious role. These engineers work on the blockchain client software itself (e.g., Go-Ethereum (Geth) or the clients for Solana, Arbitrum, etc.).
+This is the most prestigious role. These engineers work on the blockchain client software itself (e.g., Go-[Ethereum](/what-is-ethereum) (Geth) or the clients for Solana, Arbitrum, etc.).
 -   **Responsibilities:** Implementing consensus algorithms, improving the virtual machine (EVM), optimizing the networking layer, and designing core protocol upgrades.
 -   **Skills:** Expertise in systems languages like **Rust** or **Go**, and a deep understanding of distributed systems, cryptography, and computer science fundamentals.
 
@@ -43,7 +43,7 @@ These engineers build the developer-facing tools and APIs that make it easier fo
 2.  **Learn a Systems Language:** Go deep on either **Rust** or **Go**. These are the two dominant languages for core blockchain infrastructure.
 3.  **Get Hands-On:**
     -   **Run a Node:** The best way to learn is by doing. Set up and run your own validator node on a testnet for a major blockchain. This will teach you the practical challenges firsthand.
-    -   **Contribute to Open Source:** The core clients for most blockchains are open source. Find a "good first issue" on the GitHub repository of a client like Geth or Prysm and submit a pull request. Contributing to core infrastructure is the ultimate proof of work.
+    -   **Contribute to Open Source:** The core clients for most blockchains are open source. Find a "good first issue" on the [GitHub](/building-web3-portfolio) repository of a client like Geth or Prysm and submit a pull request. Contributing to core infrastructure is the ultimate proof of work.
 
 A career as a Web3 Infrastructure Engineer is for those who want to work on the foundational layer of the new internet. It's a challenging but incredibly rewarding path that puts you at the very heart of the Web3 revolution.
 
@@ -53,7 +53,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -61,7 +61,7 @@ The Web3 job market has fundamentally different dynamics than Web2:
 
 **Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
 
 ## Step-by-Step Transition Strategy
 
@@ -70,12 +70,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

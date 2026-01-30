@@ -11,7 +11,7 @@ data-ai-hint: "job search"
 
 
 
-The Web3 job market is shifting rapidly. Some roles that were in demand two years ago have consolidated or become less critical. New roles are emerging faster than people can train for them. If you're considering a Web3 career, understanding what's actually hiring right now matters.
+The [Web3](/what-is-web3) job market is shifting rapidly. Some roles that were in demand two years ago have consolidated or become less critical. New roles are emerging faster than people can train for them. If you're considering a [Web3 career](/web3-jobs-for-beginners), understanding what's actually hiring right now matters.
 
 ## Why Job Markets Exist in Web3
 
@@ -27,13 +27,13 @@ Understanding which roles are in genuine demand, which are hype, and which skill
 
 ### Smart Contract Developer
 
-This is the #1 in-demand role in Web3. Demand significantly exceeds supply. Companies post openings for smart contract developers and receive fewer qualified applications than for most other tech roles.
+This is the #1 in-demand role in Web3. Demand significantly exceeds supply. Companies post openings for [smart contract](/what-are-smart-contracts) developers and receive fewer qualified applications than for most other tech roles.
 
-This is partly because the skill set is specialized. Most people come from traditional software engineering backgrounds and have to learn blockchain from scratch. The learning curve is real.
+This is partly because the skill set is specialized. Most people come from traditional software engineering backgrounds and have to learn [blockchain](/what-is-a-blockchain) from scratch. The learning curve is real.
 
-Compensation reflects the demand. Mid-level smart contract developers make $150K-$250K base plus token equity. Senior developers command $200K-$400K+.
+Compensation reflects the demand. Mid-level smart contract developers make $150K-$250K base plus [token](/what-is-a-token) equity. Senior developers command $200K-$400K+.
 
-Getting into this role requires learning Solidity (for Ethereum and compatible chains), understanding blockchain fundamentals, and building a portfolio. You don't need prior blockchain experience.
+Getting into this role requires learning [Solidity](/best-programming-languages-for-blockchain-development) (for [Ethereum](/what-is-ethereum) and compatible chains), understanding blockchain fundamentals, and building a [portfolio](/building-web3-portfolio). You don't need prior blockchain experience.
 
 ### Protocol/Core Developer
 
@@ -107,7 +107,7 @@ Some companies have distributed teams across dozens of countries. The lack of ge
 
 ## Technical vs. Non-Technical Paths
 
-Technical roles pay more and are in higher demand. A smart contract developer can command premium compensation. A community manager has lower leverage.
+Technical roles pay more and are in higher demand. A [smart contract developer](/how-to-become-a-web3-smart-contract-developer) can command premium compensation. A community manager has lower leverage.
 
 That said, non-technical roles exist and will grow. Every product needs someone focused on users. Every company needs operations and administration.
 
@@ -167,7 +167,7 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills

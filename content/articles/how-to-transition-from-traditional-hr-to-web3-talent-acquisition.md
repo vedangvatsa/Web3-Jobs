@@ -11,9 +11,9 @@ category: "Career Guides"
 
 
 
-The Web3 industry is in a phase of explosive growth, but its biggest bottleneck is talent. This has created a surge in demand for skilled HR and Talent Acquisition professionals who can navigate the unique challenges of the crypto job market. For those with a background in traditional HR, this represents a massive opportunity to pioneer new models of work and organization.
+The [Web3](/what-is-web3) industry is in a phase of explosive growth, but its biggest bottleneck is talent. This has created a surge in demand for skilled HR and Talent Acquisition professionals who can navigate the unique challenges of the crypto job market. For those with a background in traditional HR, this represents a massive opportunity to pioneer new models of work and organization.
 
-The [role of a crypto-native HR professional](/the-rise-of-the-crypto-native-hr-professional) is a far cry from a typical corporate HR job. It requires adapting your existing skills to a world of remote work, token-based compensation, and decentralized communities. This guide provides a roadmap for making that transition.
+The [role of a crypto-native HR professional](/the-rise-of-the-crypto-native-hr-professional) is a far cry from a typical corporate HR job. It requires adapting your existing skills to a world of remote work, [token](/what-is-a-token)-based compensation, and decentralized communities. This guide provides a roadmap for making that transition.
 
 ### The Mindset Shift: From Gatekeeper to Community Builder
 
@@ -28,7 +28,7 @@ Your traditional HR skills are highly valuable, but they need a Web3-native tran
 
 **1. Talent Acquisition:**
 -   **Old Way:** Sourcing on LinkedIn.
--   **New Way:** Sourcing on Twitter, in Discord, on GitHub, and at hackathons. You need to learn to evaluate "proof of work" (like a developer's GitHub profile or a marketer's blog) over a traditional resume. Learn more in our [guide to recruiting in Web3](/how-to-recruit-in-web3).
+-   **New Way:** Sourcing on Twitter, in Discord, on [GitHub](/building-web3-portfolio), and at hackathons. You need to learn to evaluate "proof of work" (like a developer's GitHub profile or a marketer's blog) over a traditional [resume](/how-to-build-a-web3-resume-that-stands-out). Learn more in our [guide to recruiting in Web3](/how-to-recruit-in-web3).
 
 **2. Compensation and Benefits:**
 -   **Old Way:** Managing salaries and standard benefits.
@@ -40,8 +40,8 @@ Your traditional HR skills are highly valuable, but they need a Web3-native tran
 
 ### How to Make the Transition
 
-1.  **Immerse Yourself:** You cannot hire for a culture you don't understand. Become a Web3 user. Join a DAO, participate in governance, and learn the language of the space.
-2.  **Learn the Fundamentals:** You don't need to be a developer, but you must understand the basics of blockchain technology, smart contracts, and tokenomics.
+1.  **Immerse Yourself:** You cannot hire for a culture you don't understand. Become a Web3 user. Join a [DAO](/what-is-a-dao), participate in governance, and learn the language of the space.
+2.  **Learn the Fundamentals:** You don't need to be a developer, but you must understand the basics of [blockchain](/what-is-a-blockchain) technology, [smart contracts](/what-are-smart-contracts), and tokenomics.
 3.  **Build a Public Presence:** Start a blog or Twitter account where you share your thoughts on the future of work, DAO governance, or Web3 culture. This is your proof of knowledge.
 4.  **Network with Founders:** Connect with the founders and team leads of Web3 projects. Understand their unique people-related challenges. Offer your expertise and insights.
 
@@ -53,7 +53,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -70,12 +70,12 @@ Spend 4-8 weeks learning blockchain fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
 - Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and DAOs
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance

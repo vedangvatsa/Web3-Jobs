@@ -11,7 +11,7 @@ category: "Educational"
 
 
 
-In the fast-moving world of Web3, new projects need a way to raise capital and distribute their initial tokens to a wide audience. A **crypto launchpad**, also known as an IDO (Initial DEX Offering) platform, is a platform designed to facilitate this process. It acts as a bridge between new, promising projects and a community of early-stage investors looking to get in on the ground floor.
+In the fast-moving world of [Web3](/what-is-web3), new projects need a way to raise capital and distribute their initial [tokens](/what-is-a-token) to a wide audience. A **crypto launchpad**, also known as an IDO (Initial [DEX](/what-is-a-decentralized-exchange-dex) Offering) platform, is a platform designed to facilitate this process. It acts as a bridge between new, promising projects and a community of early-stage investors looking to get in on the ground floor.
 
 ### What is the Purpose of a Launchpad?
 
@@ -33,7 +33,7 @@ A launchpad serves several key functions for both projects and investors:
 The process typically involves a few key steps:
 
 1.  **Project Selection:** The launchpad team vets and selects a new project to feature on their platform.
-2.  **Whitelist / Lottery:** To participate in the sale, investors usually need to be "whitelisted." This often requires them to hold and/or stake the launchpad's own native token. Due to high demand, participation is often determined by a lottery system among the staked token holders.
+2.  **Whitelist / Lottery:** To participate in the sale, investors usually need to be "whitelisted." This often requires them to hold and/or [stake](/how-to-become-a-web3-staking-specialist) the launchpad's own native token. Due to high demand, participation is often determined by a lottery system among the staked token holders.
 3.  **The IDO (Initial DEX Offering):** The public sale of the new project's token takes place on the launchpad. Whitelisted participants can purchase the token at a fixed price.
 4.  **Token Generation Event (TGE) and Listing:** After the sale, the tokens are generated and distributed to the buyers' wallets. Shortly after, the token is listed on a decentralized exchange (DEX), where it can be freely traded by the public.
 
@@ -52,7 +52,7 @@ The Web3 sector is experiencing explosive growth, with demand far outpacing supp
 
 ## Market Context
 
-The Web3 job market has fundamentally different dynamics than Web2:
+The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
 
 **Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
 
@@ -65,16 +65,16 @@ The Web3 job market has fundamentally different dynamics than Web2:
 ## Step-by-Step Transition Strategy
 
 ### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Spend 4-8 weeks learning [blockchain](/what-is-a-blockchain) fundamentals. Understand:
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, NFTs, and DAOs
+- [Smart contracts](/what-are-smart-contracts) and their use cases
+- [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao)
 - Current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
 Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
+- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Token economics, protocol governance, user growth in Web3
 - **Business Development:** Market analysis, partnership strategy, regulatory landscape
 - **Community/Operations:** Community building, Discord management, governance
@@ -110,7 +110,7 @@ Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Soli
 Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
 
 ## Web3-Specific Challenges
 
