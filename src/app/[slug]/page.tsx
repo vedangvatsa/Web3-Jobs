@@ -132,16 +132,22 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     </header>
                     
                     {article.image && (
+                      <div
+                        className={cn(
+                          "relative w-full md:max-w-4xl overflow-hidden rounded-lg shadow-xl mb-8",
+                          "aspect-[16/9] max-h-[280px] sm:max-h-[320px] md:max-h-[360px]"
+                        )}
+                      >
                         <Image
                           src={article.image}
                           alt={`${article.title} - Hashtag Web3 article cover`}
-                          width={1200}
-                          height={630}
-                          className={cn("rounded-lg shadow-xl mb-8 w-full md:max-w-4xl h-auto"
-                          )}
+                          fill
+                          className="object-cover"
+                          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 900px, 1024px"
                           priority
                           data-ai-hint={`${article['data-ai-hint'] || ''}`}
                         />
+                      </div>
                     )}
                     
                     <ArticleContent content={article.content} className="mb-12" />
