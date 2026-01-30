@@ -8,7 +8,7 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-const articlesDirectory = path.join(process.cwd(), 'content/articles');
+const articlesDirectory = path.join(process.cwd(), 'src/lib/articles');
 
 export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
   const fileNames = fs.readdirSync(articlesDirectory);
