@@ -18,14 +18,14 @@ const inter = Inter({
 
 const siteConfig = {
   name: "Hashtag Web3",
-  description: "The best job board for Web3, crypto, and blockchain roles. Discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
+  description: "Find verified Web3 jobs, crypto careers, salary data, and practical guides. Updated daily for builders, marketers, and product teams.",
   url: "https://hashtagweb3.com",
 };
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
-    default: `Web3 Jobs | The #1 Crypto & Blockchain Job Board`,
+    default: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
@@ -37,8 +37,8 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: siteConfig.url,
     title: {
-        default: `Web3 Jobs | The #1 Crypto & Blockchain Job Board`,
-        template: `%s | ${siteConfig.name}`,
+      default: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
+      template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
     siteName: siteConfig.name,
@@ -54,8 +54,8 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: {
-        default: `Web3 Jobs | The #1 Crypto & Blockchain Job Board`,
-        template: `%s | ${siteConfig.name}`,
+      default: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
+      template: `%s | ${siteConfig.name}`,
     },
     description: siteConfig.description,
     creator: "@hashtag_web3",
