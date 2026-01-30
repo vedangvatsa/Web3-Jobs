@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man glasses"
 ---
 
-
 ## Introduction: The Mind Behind Ethereum
 
 Vitalik Buterin is arguably the most influential figure in the [Web3](/what-is-web3) space. As the primary creator of [Ethereum](/what-is-ethereum), he conceived of a [blockchain](/what-is-a-blockchain) that could do more than just process financial transactions. He envisioned a "world computer"-a decentralized, programmable platform that could run applications for anything from finance to social media, all without a central intermediary.

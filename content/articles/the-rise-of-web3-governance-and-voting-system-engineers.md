@@ -1,6 +1,5 @@
 ---
 
-
 title: "The Rise of Web3 Governance and Voting System Engineers"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "governance meeting people"
@@ -8,8 +7,6 @@ description: "A look at the specialized engineering roles focused on building an
 category: "Career Guides"
 
 ---
-
-
 
 As Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) become more powerful and manage treasuries worth billions, the systems that govern them have become mission-critical infrastructure. This has created a demand for a highly specialized type of developer: the **[Web3](/what-is-web3) Governance Engineer**.
 

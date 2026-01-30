@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Forensics and Blockchain Investigators: Career Insights"
 image: "/images/maximalfocus-0n4jhVGS4zs-unsplash.jpg"
 data-ai-hint: "blockchain forensics investigation"
@@ -8,8 +7,6 @@ description: "A career guide to the world of on-chain investigation. Learn how b
 category: "Career Guides"
 
 ---
-
-
 
 In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new kind of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, or **On-Chain Investigator**. These are the analysts who trace the flow of illicit funds, unmask hackers, and bring a new level of accountability to the decentralized economy.
 

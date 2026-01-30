@@ -1,6 +1,5 @@
 ---
 
-
 title: "Mark Zuckerberg on Web3: The Metaverse, Centralization, and the Future of the Internet"
 description: "An in-depth look at Mark Zuckerberg's evolving relationship with Web3, from his ambitious metaverse pivot with Meta to his views on decentralization and."
 image: "https://picsum.photos/seed/zuckweb3/1200/630"
@@ -8,8 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man technology"
 
 ---
-
-
 
 ## Mark Zuckerberg's Vision for a Web3-Powered Metaverse
 

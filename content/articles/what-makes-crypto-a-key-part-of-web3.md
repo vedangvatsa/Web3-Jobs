@@ -1,6 +1,5 @@
 ---
 
-
 title: "What Makes Crypto a Key Part of Web3?"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "crypto web3 connection"
@@ -8,8 +7,6 @@ description: "A deep dive into why cryptocurrency is not just an optional featur
 category: "Technology Deep Dives"
 
 ---
-
-
 
 It's a common point of confusion for newcomers: what is the real connection between **[Web3](/what-is-web3)** and cryptocurrency? Is it possible to have one without the other? While the vision of a decentralized internet is about much more than just digital money, the reality is that **cryptocurrency is the indispensable economic engine that makes the entire Web3 paradigm possible.**
 

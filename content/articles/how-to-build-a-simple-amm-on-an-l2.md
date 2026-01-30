@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Build a Simple AMM on an L2"
 image: "https://images.unsplash.com/photo-1579567761406-4684ee0c75b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8dGVjaHxlbnwwfHx8fDE3NTQ5NTU3OTJ8MA&lib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "decentralized exchange crypto"
@@ -8,8 +7,6 @@ description: "A practical guide for developers on how to build a basic Automated
 category: "Technology Deep Dives"
 
 ---
-
-
 
 Automated Market Makers (AMMs) like Uniswap are one of the foundational pillars of Decentralized Finance ([DeFi](/what-is-defi)). They allow users to trade assets in a permissionless way by trading against a pool of [tokens](/what-is-a-token) rather than a traditional order book.
 
@@ -218,5 +215,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

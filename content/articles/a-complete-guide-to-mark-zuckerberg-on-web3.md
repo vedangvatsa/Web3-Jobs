@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man face"
 ---
 
-
 ## Introduction: The Incumbent's Gambit
 
 Mark Zuckerberg, the founder and CEO of Meta (formerly Facebook), represents one of the most significant and controversial forces in the [Web3](/what-is-web3) and metaverse discourse. Unlike the crypto-native builders who envision a decentralized future, Zuckerberg is approaching the metaverse from the perspective of a Web2 incumbent. His goal is to build and dominate the next computing platform, much as his company did with social media.

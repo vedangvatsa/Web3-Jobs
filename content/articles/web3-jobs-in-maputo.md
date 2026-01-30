@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in Maputo: A Guide to Mozambique's Coastal Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "maputo mozambique city"
 description: "A career guide to the emerging Web3 job market in Maputo. Explore how Mozambique's capital is leveraging its young population and growing tech scene to."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 Maputo, the vibrant port capital of Mozambique, is a city on the rise, with a growing technology scene fueled by a young, entrepreneurial population and increasing internet connectivity. While the local [Web3](/what-is-web3) ecosystem is still in its early stages, there is a palpable sense of excitement and opportunity. A grassroots community of developers, artists, and entrepreneurs is beginning to explore how [blockchain](/what-is-a-blockchain) technology can be used to address local challenges and connect Mozambique to the global decentralized economy.
 
@@ -349,7 +343,6 @@ A:
 - DeFi whitepapers
 - Bankless newsletter
 - Paradigm research
-
 
 ### Your Next Step: Find a Web3 Job
 

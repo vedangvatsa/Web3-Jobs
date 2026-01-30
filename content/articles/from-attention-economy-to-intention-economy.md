@@ -1,6 +1,5 @@
 ---
 
-
 title: "From Attention to Intention: Web3's New Economic Paradigm"
 image: "/images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg"
 data-ai-hint: "attention economy digital"
@@ -8,8 +7,6 @@ description: "Web3 is enabling a shift from an attention-based economy to an int
 category: "Industry Insights"
 
 ---
-
-
 
 For the past two decades, the internet has been dominated by the **Attention Economy**. Giant platforms like Google, Facebook, and TikTok have built multi-trillion dollar empires on a simple premise: your attention is the product. Their business model is to capture as much of your time and focus as possible, and then sell that attention to the highest-bidding advertiser. This has led to a digital world optimized for engagement at any cost, often resulting in addiction, misinformation, and a race to the bottom for content quality.
 

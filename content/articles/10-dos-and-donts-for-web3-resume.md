@@ -7,7 +7,6 @@ description: "Master Web3 resume writing with 10 proven do's and don'ts. Learn h
 category: "Career Guides"
 ---
 
-
 ## Next Steps: Build Your Web3 Career
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) is just the first step. Pair it with these resources:

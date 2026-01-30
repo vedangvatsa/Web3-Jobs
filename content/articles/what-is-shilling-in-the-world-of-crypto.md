@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is 'Shilling' in the World of Crypto? A Guide to Promotion and Hype"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 description: "An in-depth look at the crypto term 'shilling,' explaining what it is, who does it, how to spot it, and the fine line between genuine enthusiasm and paid."
@@ -8,8 +7,6 @@ category: "Career Guides"
 data-ai-hint: "person shouting megaphone"
 
 ---
-
-
 
 ## Introduction: The Sound of the Crypto Market
 

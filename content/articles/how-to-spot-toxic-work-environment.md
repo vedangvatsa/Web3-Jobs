@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Spot a Toxic Work Environment"
 description: "A toxic work environment can harm your career and your well-being. Learn to recognize the warning signs before you accept a job offer or when you're in a role."
 image: "https://picsum.photos/seed/310/1200/630"
@@ -8,8 +7,6 @@ data-ai-hint: "office stress"
 category: "Career Guides"
 
 ---
-
-
 
 A toxic work environment can be incredibly damaging, leading to burnout, anxiety, and a stalled career. The problem is that toxicity isn’t always obvious from the outside. A company can have a great public image and still have a deeply unhealthy internal culture. Learning to spot the signs of a toxic workplace, both during the [interview](/how-to-prepare-for-job-interview) process and once you’re in a role, is a crucial skill for protecting your mental health and professional growth.
 
@@ -160,5 +157,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

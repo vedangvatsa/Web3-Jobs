@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Avoid Crypto Shilling in Your Marketing"
 image: "/images/umberto-jXd2FSvcRr8-unsplash.jpg"
 data-ai-hint: "marketing ethics crypto"
@@ -8,8 +7,6 @@ description: "A guide for Web3 marketers on how to promote a project ethically. 
 category: "Career Guides"
 
 ---
-
-
 
 In the fast-paced and often hype-driven world of [Web3](/what-is-web3), marketing is a double-edged sword. On one hand, you need to generate excitement and build a community around your project. On the other hand, there is a fine line between legitimate marketing and "shilling"-the disingenuous promotion of a [token](/what-is-a-token) for short-term gain.
 

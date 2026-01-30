@@ -1,6 +1,5 @@
 ---
 
-
 title: "Decentralized Social Graphs and the Future of Online Identity"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "social network identity"
@@ -8,8 +7,6 @@ description: "A deep dive into the Web3 Social Graph. Learn how protocols like F
 category: "Technology Deep Dives"
 
 ---
-
-
 
 For the past fifteen years, our digital identities have been trapped in walled gardens. Your "social graph"-the network of your friends, followers, posts, and interactions-is one of your most valuable digital assets, yet you don't own it. It's owned by platforms like Facebook, Twitter, and TikTok. If you leave the platform, your social graph disappears. If they change their algorithm, your reach vanishes. You are a digital serf, building value on land you do not own.
 
@@ -127,5 +124,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

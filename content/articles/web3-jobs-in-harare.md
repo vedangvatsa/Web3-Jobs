@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Jobs in Harare: A Guide to Zimbabwe's Resilient Crypto Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "harare zimbabwe city"
@@ -8,8 +7,6 @@ description: "A career guide to the Web3 job market in Harare. Explore how Zimba
 category: "Career Guides"
 
 ---
-
-
 
 Harare, the capital of Zimbabwe, is a city that embodies resilience. Facing significant economic challenges, including hyperinflation and currency instability, its citizens have become early and sophisticated adopters of [Web3](/what-is-web3) technologies out of sheer necessity. Cryptocurrency is not a speculative game in Harare; for many, it is a crucial tool for wealth preservation, cross-border commerce, and accessing the global digital economy. This has forged a small but incredibly strong and knowledgeable grassroots Web3 community.
 
@@ -252,7 +249,7 @@ A: Only work with verifiable companies (CoinGecko, DefiLlama). Use escrow for fr
 - [Coin Bureau Africa](https://www.coinbureau.com/): Education
 
 **Related Articles:**
-- [Web3 Career Growth & Development](web3-career-growth-and-development)
+
 - How to Find a Mentor in Web3
 - Building Strong Professional Relationships
 - [Understanding Web3 Consensus Mechanisms](understanding-web3-consensus-mechanism-architects)

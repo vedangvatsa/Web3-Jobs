@@ -7,7 +7,6 @@ description: "A career guide for writers who want to work in Web3. Learn about t
 category: "Career Guides"
 ---
 
-
 In the complex and often bewildering world of [Web3](/what-is-web3), one of the most critical yet overlooked roles is that of the **Technical Writer**. While [smart contract](/what-are-smart-contracts) engineers build the protocols and community managers foster the vibe, technical writers are the translators, the educators, and the architects of understanding. They are the unsung heroes who make it possible for developers to build on a platform and for users to interact with it safely.
 
 The demand for skilled technical writers in Web3 is exploding. As protocols become more intricate and the ecosystem becomes more competitive, clear, accurate, and comprehensive documentation is no longer a "nice-to-have"-it's a vital component of a project's success. This guide explores the unique role of a technical writer in Web3 and why it's one of the most accessible and high-impact careers in the industry.

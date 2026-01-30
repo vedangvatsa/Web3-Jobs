@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Get a Job in DeFi with No Experience"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "decentralized finance defi"
@@ -8,8 +7,6 @@ description: "A practical guide to breaking into the world of Decentralized Fina
 category: "Career Guides"
 
 ---
-
-
 
 Decentralized Finance ([DeFi](/what-is-defi)) is the engine room of [Web3](/what-is-web3), a multi-billion dollar ecosystem dedicated to rebuilding the financial system on open blockchains. It's also one of the most exciting and intellectually challenging sectors to work in. But for newcomers, the barrier to entry can seem incredibly high. Job descriptions are filled with jargon like "impermanent loss," "MEV," and "[yield farming](/what-is-yield-farming)." How can you possibly get a job in this space with no prior "crypto" experience?
 

@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Transition from Traditional HR to Web3 Talent Acquisition"
 image: "/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg"
 data-ai-hint: "human resources team"
@@ -8,8 +7,6 @@ description: "A guide for HR professionals looking to move into Web3. Learn how 
 category: "Career Guides"
 
 ---
-
-
 
 The [Web3](/what-is-web3) industry is in a phase of explosive growth, but its biggest bottleneck is talent. This has created a surge in demand for skilled HR and Talent Acquisition professionals who can navigate the unique challenges of the crypto job market. For those with a background in traditional HR, this represents a massive opportunity to pioneer new models of work and organization.
 

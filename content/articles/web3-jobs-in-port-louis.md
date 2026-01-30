@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in Port Louis: A Guide to Mauritius' FinTech and Blockchain Hub"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "port louis mauritius"
 description: "A career guide to the Web3 job market in Port Louis. Explore how Mauritius is leveraging its strength as an international financial center to become a hub."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 Port Louis, the capital of Mauritius, is leveraging the island nation's long-standing reputation as a stable and well-regulated International Financial Centre (IFC) to position itself as a premier hub for [Web3](/what-is-web3) and digital assets in the African and Indian Ocean region. The Mauritian government has been proactive in establishing a clear legal framework for digital assets, aiming to attract high-quality FinTech companies, investment funds, and [blockchain](/what-is-a-blockchain) startups to its shores.
 
@@ -359,7 +353,6 @@ A:
 - Crypto fund whitepapers
 - Fintech product case studies
 - Bankless newsletter
-
 
 ### Your Next Step: Find a Web3 Job
 

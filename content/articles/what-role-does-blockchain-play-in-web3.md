@@ -1,6 +1,5 @@
 ---
 
-
 title: "What Role Does Blockchain Play in Web3?"
 image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
 data-ai-hint: "blockchain web3 technology"
@@ -8,8 +7,6 @@ description: "An explanation of the fundamental role that blockchain technology 
 category: "Technology Deep Dives"
 
 ---
-
-
 
 To understand the [Web3](/what-is-web3) revolution, you must first understand the foundational technology that makes it all possible: the **[blockchain](/what-is-a-blockchain)**. While the two terms are often used together, it's crucial to see their relationship clearly: the blockchain is the infrastructure, and Web3 is the new generation of applications and services built on top of that infrastructure. The blockchain is not just a feature of Web3; it is its very bedrock.
 

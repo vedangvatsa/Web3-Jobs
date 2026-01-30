@@ -7,7 +7,6 @@ description: "The most important question in a Web3 interview is 'Why are you he
 category: "Career Guides"
 ---
 
-
 In any [Web3](/what-is-web3) job [interview](/how-to-prepare-for-job-interview), you are almost guaranteed to be asked some version of this question:
 
 *"So, what brings you to Web3? What's your rabbit hole story?"*

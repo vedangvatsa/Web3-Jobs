@@ -1,6 +1,5 @@
 ---
 
-
 title: "The Future of Work in Web3: Jobs That Will Dominate by 2030"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 data-ai-hint: "future of work"
@@ -8,8 +7,6 @@ description: "A forward-looking analysis of the Web3 job market. We predict the 
 category: "Career Guides"
 
 ---
-
-
 
 The [Web3](/what-is-web3) job market is already one of the most dynamic and rapidly growing sectors in technology. But we are still in the very early innings. As the underlying technology of [blockchain](/what-is-a-blockchain), decentralization, and AI continues to mature, the career landscape of 2030 will look vastly different from today. The roles that are currently in demand will evolve, and entirely new categories of jobs will emerge at the intersection of these powerful technologies.
 

@@ -1,6 +1,5 @@
 ---
 
-
 title: "Salary Negotiation Mistakes to Avoid"
 image: "https://picsum.photos/seed/salary-mistakes/1200/630"
 data-ai-hint: "falling money graph"
@@ -8,8 +7,6 @@ description: "Learn about the common mistakes people make during salary negotiat
 category: "Career Guides"
 
 ---
-
-
 
 Negotiating your salary can be one of the most high-stakes conversations of your career. A successful negotiation can add thousands of dollars to your income each year, while a poorly handled one can leave you feeling undervalued and underpaid. Unfortunately, many people make common mistakes that undermine their ability to negotiate effectively.
 
@@ -146,5 +143,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

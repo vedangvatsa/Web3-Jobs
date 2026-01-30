@@ -1,6 +1,5 @@
 ---
 
-
 title: "Blockchain Mining Explained for Beginners"
 image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
 data-ai-hint: "blockchain mining hardware"
@@ -8,8 +7,6 @@ description: "A simple, easy-to-understand guide to blockchain mining. Learn wha
 category: "Educational"
 
 ---
-
-
 
 You've probably heard of "[Bitcoin](/what-is-bitcoin) mining," and it might conjure images of people with pickaxes digging for digital gold. The reality is both more and less complicated than that. [Blockchain](/what-is-a-blockchain) mining is a core component of many cryptocurrencies, particularly those that use a **[Proof-of-Work (PoW)](/proof-of-[stake](/how-to-become-a-web3-staking-specialist)-vs-proof-of-work-in-blockchain)** consensus mechanism. It's the process by which new transactions are verified and added to the blockchain, and it's how new coins are brought into circulation.
 

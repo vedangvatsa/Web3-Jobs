@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Research a Blockchain Startup Before You Join"
 image: "/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
 data-ai-hint: "research analysis magnifying glass"
@@ -8,8 +7,6 @@ description: "A guide for job seekers on how to perform due diligence on a Web3 
 category: "Career Guides"
 
 ---
-
-
 
 The [Web3](/what-is-web3) job market is filled with exciting opportunities, but it's also a landscape of high risk and volatility. A project that seems like the next big thing can disappear in a matter of months. Before you accept a job offer at a [blockchain](/what-is-a-blockchain) startup and tie your career and financial future to its success, it is absolutely critical that you do your own deep research.
 

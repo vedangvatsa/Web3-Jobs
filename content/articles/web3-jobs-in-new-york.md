@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Jobs in New York: A Guide to the DeFi and FinTech Capital"
 image: "/images/usa web3 jobs by hashtag web3.jpg"
 data-ai-hint: "new york city"
@@ -8,8 +7,6 @@ description: "A career guide to the Web3 job market in New York City. Discover h
 category: "Career Guides"
 
 ---
-
-
 
 New York City, the undisputed capital of global finance, has firmly established itself as the epicenter of the most mature and financially sophisticated segment of the [Web3](/what-is-web3) industry. The city is the primary battleground where the worlds of Traditional Finance (TradFi) and Decentralized Finance ([DeFi](/what-is-defi)) are converging, clashing, and collaborating. This has created an unparalleled ecosystem for projects and professionals focused on building the financial infrastructure of the new, decentralized internet. For those seeking a career at the high-stakes intersection of money and technology, there is no place more dynamic or opportunity-rich than New York.
 

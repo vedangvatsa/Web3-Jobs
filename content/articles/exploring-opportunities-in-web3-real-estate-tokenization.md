@@ -1,6 +1,5 @@
 ---
 
-
 title: "Exploring Opportunities in Web3 Real Estate Tokenization"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "real estate tokenization"
@@ -8,8 +7,6 @@ description: "A look at how Web3 is transforming real estate. Learn about the ca
 category: "Industry Insights"
 
 ---
-
-
 
 Real estate is the world's largest asset class, but it is also one of the most illiquid and inefficient. Buying and selling property is a slow, expensive process involving a web of intermediaries like brokers, lawyers, and title insurers. [Web3](/what-is-web3) technology, specifically the **tokenization of real-world assets (RWAs)**, has the potential to fundamentally disrupt this legacy system.
 

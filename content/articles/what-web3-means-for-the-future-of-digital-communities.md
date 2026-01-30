@@ -1,6 +1,5 @@
 ---
 
-
 title: "What Web3 Means for the Future of Digital Communities"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "digital community future"
@@ -8,8 +7,6 @@ description: "Web3 is changing how online communities are formed and governed. E
 category: "Industry Insights"
 
 ---
-
-
 
 For the last 15 years, our digital communities have lived inside walled gardens. Facebook Groups, subreddits, Discord servers, and WhatsApp chats have become the de facto public squares of the internet, but they are all built on rented land. The platform owns the infrastructure, controls the data, and can change the rules or shut down a community at any moment. **[Web3](/what-is-web3)** is pioneering a new model for digital communities, one where the members are not just users, but co-owners of their digital nation.
 

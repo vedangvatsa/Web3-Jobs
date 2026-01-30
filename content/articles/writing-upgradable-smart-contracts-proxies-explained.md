@@ -1,6 +1,5 @@
 ---
 
-
 title: "Writing Upgradable Smart Contracts: Proxies Explained"
 image: "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&lib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "software update upgrade"
@@ -8,8 +7,6 @@ description: "Smart contracts are immutable, so how do you fix bugs or add new f
 category: "Technology Deep Dives"
 
 ---
-
-
 
 One of the core properties of a [smart contract](/what-are-smart-contracts) is immutability. Once deployed to the [blockchain](/what-is-a-blockchain), its code cannot be changed. This is a powerful feature for security and trust, but it presents a major challenge: What do you do if you find a bug, or if you want to add a new feature?
 
@@ -147,5 +144,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

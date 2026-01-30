@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man portrait"
 ---
 
-
 ## Introduction to SBF and His Rise in Crypto
 
 Sam Bankman-Fried, widely known as SBF, is one of the most polarizing figures in the history of cryptocurrency. As the founder and former CEO of the crypto exchange FTX and the trading firm Alameda Research, he rose to prominence with unprecedented speed, becoming a billionaire by his late twenties and a key voice in the [Web3](/what-is-web3) industry. His public image was that of a visionary and an altruistic leader, championing a philosophy of "effective altruism" where he aimed to make billions of dollars to give away to charity.

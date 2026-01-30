@@ -1,6 +1,5 @@
 ---
 
-
 title: "Understanding Transaction Hashing in Blockchain"
 image: "/images/alex-knight-2EJCSULRwC8-unsplash.jpg"
 data-ai-hint: "blockchain hash"
@@ -8,7 +7,6 @@ description: "A detailed look at transaction hashing. Learn what a hash is, how 
 category: "Educational"
 
 ---
-
 
 Every transaction on a [blockchain](/what-is-a-blockchain) has a unique digital fingerprint, a special identifier that proves its authenticity and secures its place in the ledger. This fingerprint is called a transaction hash, often shortened to TxID. Understanding what a hash is and how it’s generated is fundamental to grasping the security and integrity of blockchain technology. It’s the cryptographic magic that makes the ledger tamper-proof.
 

@@ -7,7 +7,6 @@ description: "A career guide to the world of decentralized storage. Learn about 
 category: "Career Guides"
 ---
 
-
 As the [Web3](/what-is-web3) ecosystem grows, a critical question arises: where do we store all the data? Storing large files, like the images for an [NFT](/what-are-nfts) collection or the frontend of a dApp, directly on a [blockchain](/what-is-a-blockchain) is prohibitively expensive. This has led to the rise of **decentralized storage networks**, a foundational layer of the Web3 stack designed to provide censorship-resistant and persistent data storage.
 
 For engineers with a background in distributed systems and backend development, this sector offers a wealth of career opportunities. A Web3 Storage Expert is a developer who specializes in building on and contributing to these decentralized storage protocols.

@@ -7,7 +7,6 @@ description: "A clear explanation of how bias gets into AI systems and why it ma
 category: "Educational"
 ---
 
-
 We often think of computers as being objective and neutral, but when it comes to artificial intelligence, that's a dangerous assumption. AI systems learn from data, and if that data reflects the biases of the world we live in, the AI will learn those biases too. This can lead to AI systems that make unfair or discriminatory decisions, with serious real-world consequences.
 
 Understanding AI bias isn't just a technical issue. it's a social and ethical one. This guide will explain what AI bias is, where it comes from, and what can be done to create fairer AI.

@@ -1,6 +1,5 @@
 ---
 
-
 title: "Breaking Into Web3 Game Development Jobs"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "web3 game development"
@@ -8,8 +7,6 @@ description: "A guide for game developers looking to enter the Web3 space. Learn
 category: "Career Guides"
 
 ---
-
-
 
 The world of gaming is undergoing a paradigm shift, and at the heart of this revolution is [Web3](/what-is-web3). The concept of [GameFi (Gaming + Finance)](/exploring-web3-gaming) has moved beyond a niche experiment and is now attracting top talent from the traditional gaming industry. For developers, this represents a new and exciting frontier, but it also presents a unique set of challenges and required skills.
 

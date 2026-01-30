@@ -7,7 +7,6 @@ description: "A career guide to the emerging Web3 job market in Casablanca. Expl
 category: "Career Guides"
 ---
 
-
 Casablanca, the economic and business heart of Morocco, is emerging as a key North African city to watch in the [Web3](/what-is-web3) space. With its strategic position as a gateway between Africa, Europe, and the Middle East, a modernizing financial sector, and a growing community of tech enthusiasts, Casablanca is laying the groundwork for a future [blockchain](/what-is-a-blockchain) ecosystem. The Moroccan government and central bank, Bank Al-Maghrib, have been actively studying the potential of digital currencies and blockchain, signaling a thoughtful and deliberate approach to adopting the technology.
 
 While the Web3 scene in Casablanca is still in a nascent phase, it is characterized by a strong focus on FinTech, international trade, and leveraging blockchain for enterprise solutions. This creates a unique set of opportunities for professionals with skills in finance, logistics, and software development. This guide provides an overview of the [Web3 career](/web3-jobs-for-beginners) landscape in Casablanca, covering the market trends, potential roles, and how to get involved in this developing ecosystem.
@@ -208,7 +207,7 @@ A: 8-12 months: 4 months learning + 2-3 months [freelance](/how-to-start-freelan
 - Central Bank communications: Policy/regulation
 
 **Related Articles:**
-- [Web3 Career Growth & Development](web3-career-growth-and-development)
+
 - How to Find a Mentor in Web3
 - Building Strong Professional Relationships
 

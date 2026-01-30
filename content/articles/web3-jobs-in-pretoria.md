@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in Pretoria: A Guide to South Africa's GovTech Hub"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "pretoria south africa city"
 description: "A career guide to the Web3 job market in Pretoria. Explore how South Africa's administrative capital is becoming a center for GovTech, enterprise."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 Pretoria, the administrative capital of South Africa, is carving out a distinct and strategic niche for itself within the nation's burgeoning [Web3](/what-is-web3) ecosystem. While Johannesburg leads in finance and Cape Town in creative tech, Pretoria's strength lies at the intersection of technology, policy, and public sector innovation. As the seat of the executive branch of government and home to major research institutions, the city is becoming a key hub for "GovTech" (government technology) and enterprise [blockchain](/what-is-a-blockchain) applications.
 
@@ -367,7 +361,6 @@ A:
 - Enterprise blockchain whitepapers
 - Bankless newsletter
 - Paradigm research
-
 
 ### Your Next Step: Find a Web3 Job
 

@@ -7,7 +7,6 @@ description: "A guide for Ethereum developers on Foundry, the fast, portable, an
 category: "Getting Started"
 ---
 
-
 For years, the standard toolkit for [Ethereum](/what-is-ethereum) development was dominated by JavaScript-based frameworks like Hardhat and Truffle. These tools have been instrumental in the growth of the ecosystem, but they come with a key drawback: you write your [smart contracts](/what-are-smart-contracts) in [Solidity](/best-programming-languages-for-blockchain-development), but your tests and scripts in JavaScript. This context-switching can be inefficient and sometimes introduces subtle bugs.
 
 Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a blazing fast, portable, and modular toolkit for Ethereum application development, and its killer feature is that it allows you to do everything-including writing your tests-**directly in Solidity**.

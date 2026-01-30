@@ -7,7 +7,6 @@ description: "An introduction to the critical field of AI ethics. Learn about th
 category: "Educational"
 ---
 
-
 As artificial intelligence becomes more integrated into our daily lives, from the way we get news to the way medical diagnoses are made, the ethical implications of this technology are more important than ever. AI is not a neutral tool. It is shaped by the data it's trained on and the goals of the people who build it. This means it can reflect, and even amplify, human biases and societal inequities.
 
 Developing AI responsibly is one of the most critical challenges of our time. This guide will introduce you to the core concepts of AI ethics and the principles that guide the responsible development and deployment of artificial intelligence.

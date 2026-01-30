@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Build Your First AI Model"
 image: "https://picsum.photos/seed/ai-model/1200/630"
 data-ai-hint: "robot building blocks"
@@ -8,8 +7,6 @@ description: "A beginner's, step-by-step guide to building a simple but complete
 category: "Educational"
 
 ---
-
-
 
 The idea of "building an AI model" can sound incredibly intimidating. It brings to mind complex mathematics and rooms full of supercomputers. But the reality is, thanks to modern tools, anyone with a basic understanding of programming can build their first machine learning model in an afternoon.
 
@@ -108,5 +105,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Get First Freelance Client"
 image: "https://picsum.photos/seed/first-client/1200/630"
 data-ai-hint: "handshake deal agreement"
@@ -8,8 +7,6 @@ description: "A practical guide for beginners on how to land your first freelanc
 category: "Career Guides"
 
 ---
-
-
 
 You've identified your skills, built a [portfolio](/building-web3-portfolio), and set your rates. You're ready to start your [freelance](/how-to-start-freelancing-for-beginners) career. There's just one problem. You need a client. Landing that first client is often the biggest hurdle for new freelancers. It can feel like a daunting task, but with the right strategy and a bit of persistence, it's entirely achievable.
 
@@ -138,5 +135,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

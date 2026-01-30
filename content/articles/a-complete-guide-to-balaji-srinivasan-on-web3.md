@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man speech"
 ---
 
-
 ## Introduction: The Provocative Futurist
 
 Balaji Srinivasan is a serial entrepreneur, investor, and author who has become one of the most prominent and visionary thinkers in the [Web3](/what-is-web3) space. Formerly the CTO of Coinbase and a General Partner at Andreessen Horowitz (a16z), Balaji is known for his bold predictions, his sharp critiques of legacy institutions, and his ambitious vision for a future organized around decentralized principles.

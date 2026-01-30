@@ -1,17 +1,11 @@
 ---
 
-
-
 title: "What Are Oracles? Connecting Blockchains to the Real World"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 description: "Smart contracts can't access off-chain data on their own. Learn how blockchain oracles solve this problem by securely bringing real-world data onto the."
 category: "Technology Deep Dives"
 
-
 ---
-
-
-
 
 Smart contracts are powerful, but they have a fundamental limitation: they are isolated from the outside world. A [smart contract](/what-are-smart-contracts) running on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) cannot, by itself, know the current price of [Bitcoin](/what-is-bitcoin), the weather in New York, or the winner of the World Cup. They exist within the closed, deterministic ecosystem of the blockchain.
 

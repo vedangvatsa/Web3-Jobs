@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Solana's Alleged Slowdown: A Fundamental Look at Developer Activity"
 description: "A fundamental analysis of Solana's developer activity. We cut through the noise of market cycles to reveal a resilient and maturing ecosystem focused on."
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man coding laptop"
 
-
 ---
-
-
-
 
 ## Solana's "Slowdown": A Fundamental Analysis of Developer Activity
 
@@ -215,7 +209,7 @@ For developers interested in building on Solana, the ecosystem offers exceptiona
 - [ ] Publish: Technical deep-dive
 
 **Week 9-10:**
-- [ ] Land 1st [freelance](/how-to-start-freelancing-for-beginners)/grant (Solana Foundation)
+
 - [ ] Twitter: 1,000+ Solana community followers
 - [ ] Apply: Dream roles (Anza, Jump Crypto, top protocols)
 

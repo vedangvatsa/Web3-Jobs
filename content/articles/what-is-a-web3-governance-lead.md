@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is a Web3 Governance Lead?"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 data-ai-hint: "governance meeting people"
@@ -8,8 +7,6 @@ description: "An inside look at one of the most unique and important roles in a 
 category: "Career Guides"
 
 ---
-
-
 
 As Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) mature from informal online communities into complex, billion-dollar enterprises, a new and critical leadership role has emerged: the **[Web3](/what-is-web3) Governance Lead**. This is not a traditional executive role. A Governance Lead is not a CEO who makes top-down decisions. Instead, they are a master facilitator, a process designer, and a community diplomat.
 

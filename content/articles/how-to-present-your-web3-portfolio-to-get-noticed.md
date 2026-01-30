@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Present Your Web3 Portfolio to Get Noticed"
 image: "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqb2IlMjBpbnRlcnZpZXd8ZW58MHx8fHwxNzU1MTYxODI4fDA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "job interview portfolio"
@@ -8,8 +7,6 @@ description: "A great portfolio is useless if no one sees it. This guide provide
 category: "Getting Started"
 
 ---
-
-
 
 In [Web3](/what-is-web3), having a strong [portfolio](/building-web3-portfolio) of projects is essential. But building the projects is only half the battle. If your work is poorly presented or hard to find, even the most impressive portfolio can be overlooked by recruiters and hiring managers.
 

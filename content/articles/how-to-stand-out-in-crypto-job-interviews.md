@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Stand Out in Crypto Job Interviews"
 image: "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg"
 data-ai-hint: "job interview person"
@@ -8,8 +7,6 @@ description: "An expert's guide to acing your Web3 interview. Learn the key stra
 category: "Career Guides"
 
 ---
-
-
 
 You've built your [portfolio](/building-web3-portfolio), you've networked your way to an introduction, and you've landed an [interview](/how-to-prepare-for-job-interview) for your dream job in [Web3](/what-is-web3). Congratulations-the hard part is over, right? Not quite. The Web3 interview process is a unique and often intense gauntlet designed to test not just your skills, but your passion, your critical thinking, and your cultural alignment with the decentralized world.
 

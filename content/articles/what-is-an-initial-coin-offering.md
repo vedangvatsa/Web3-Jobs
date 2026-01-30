@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is an Initial Coin Offering"
 image: "/images/maxim-hopman-8vn4KvfU640-unsplash.jpg"
 data-ai-hint: "coins stacked crypto"
@@ -8,8 +7,6 @@ description: "An Initial Coin Offering (ICO) is a fundraising method where a new
 category: "Educational"
 
 ---
-
-
 
 An **Initial Coin Offering (ICO)** is a fundraising method used by new cryptocurrency projects. It is the crypto equivalent of an Initial Public Offering (IPO) in the stock market. In an ICO, a project will create a new cryptocurrency [token](/what-is-a-token) and sell it to early investors to raise the capital needed for development, marketing, and operations.
 
@@ -109,5 +106,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

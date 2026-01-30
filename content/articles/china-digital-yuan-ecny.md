@@ -1,6 +1,5 @@
 ---
 
-
 title: "China's Digital Yuan (e-CNY): A Web3 Perspective"
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 data-ai-hint: "digital currency china"
@@ -8,8 +7,6 @@ description: "An analysis of China's e-CNY. We explore how this Central Bank Dig
 category: "Industry Insights"
 
 ---
-
-
 
 As the world of digital money evolves, two distinct paths are emerging: decentralized cryptocurrencies like [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum), and Central Bank Digital Currencies (CBDCs). The most prominent and advanced CBDC project in the world is China's Digital Yuan, also known as the e-CNY.
 

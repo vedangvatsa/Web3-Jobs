@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Negotiate Salary Successfully"
 image: "https://picsum.photos/seed/salary-negotiation/1200/630"
 data-ai-hint: "money deal handshake"
@@ -8,8 +7,6 @@ description: "A practical guide to salary negotiation. Learn how to research you
 category: "Career Guides"
 
 ---
-
-
 
 You've made it through the interviews, and you've received a job offer. Congratulations! This is a huge accomplishment. But before you sign on the dotted line, there's one more important step: [salary negotiation](/web3-salary-negotiation).
 
@@ -136,5 +133,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

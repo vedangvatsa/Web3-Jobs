@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Build a Public On-Chain Developer Brand"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "developer brand building"
@@ -8,8 +7,6 @@ description: "In Web3, your reputation is your resume. This guide provides a ste
 category: "Career Guides"
 
 ---
-
-
 
 In the traditional Web2 job market, your career is defined by the names on your [resume](/how-to-build-a-web3-resume-that-stands-out)-the prestigious companies you've worked for and the titles you've held. In [Web3](/what-is-web3), this model is being turned on its head. In a world of pseudonymity, open-source code, and on-chain history, your reputation is your resume. What you've built, written, and contributed to in public is infinitely more valuable than a polished LinkedIn profile.
 

@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man singing"
 ---
 
-
 ## Introduction: The Unexpected Web3 Icon
 
 Snoop Dogg, the legendary rapper, entertainer, and cultural icon, has emerged as one of the most surprising and influential celebrity proponents of [Web3](/what-is-web3). Far from being a passive investor, Snoop has fully immersed himself in the [NFT](/what-are-nfts) and metaverse space, launching his own projects, building virtual worlds, and using the technology to innovate in the music industry.
