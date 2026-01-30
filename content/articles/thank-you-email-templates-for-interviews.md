@@ -1,6 +1,5 @@
 ---
 
-
 title: "Thank You Email Templates for Job Interviews"
 description: "A well-crafted thank-you email can make a big difference after an interview. Here are several templates you can adapt for different situations."
 image: "https://picsum.photos/seed/306/1200/630"
@@ -8,8 +7,6 @@ data-ai-hint: "email template"
 category: "Career Guides"
 
 ---
-
-
 
 Sending a thank-you email after a job [interview](/how-to-prepare-for-job-interview) is a simple but powerful step that many candidates overlook. It’s not just about being polite; it’s a strategic opportunity to reiterate your interest, reinforce your qualifications, and leave a lasting positive impression. While every thank-you note should be personalized, starting with a solid template can make the process much easier.
 
@@ -190,5 +187,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

@@ -1,6 +1,5 @@
 ---
 
-
 title: "Consensus Mechanisms in Blockchain Networks Demystified"
 image: "/images/johannes-plenio-FZpCcPss9to-unsplash.jpg"
 data-ai-hint: "blockchain consensus team"
@@ -8,8 +7,6 @@ description: "A clear explanation of how consensus mechanisms work. This guide d
 category: "Educational"
 
 ---
-
-
 
 A **[blockchain](/what-is-a-blockchain)** is a distributed database, a shared ledger that is maintained by a network of computers that don't trust each other. This raises a fundamental question: How do all of these independent participants agree on a single version of the truth? How do they decide which transactions are valid and in what order they occurred? The answer lies in the **consensus mechanism**.
 

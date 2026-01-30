@@ -1,6 +1,5 @@
 ---
 
-
 title: "Understanding Airdrop Campaigns in Web3"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "crypto airdrop"
@@ -8,8 +7,6 @@ description: "An airdrop is a marketing strategy where a Web3 project distribute
 category: "Educational"
 
 ---
-
-
 
 In the world of [Web3](/what-is-web3), an **airdrop** is a marketing and distribution strategy where a new protocol or project sends its native cryptocurrency [token](/what-is-a-token) to the [wallet](/how-to-choose-a-crypto-wallet) addresses of a large number of users for free. It is the crypto-native equivalent of giving out free samples to attract new customers, but with a much deeper strategic purpose. A well-executed airdrop can bootstrap a community, decentralize governance, and generate massive awareness for a new project overnight.
 

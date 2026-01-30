@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is Synthetic Biology Applications"
 description: "An introduction to synthetic biology, the field of designing and constructing new biological parts, devices, and systems, and its diverse applications."
 category: "Educational"
@@ -8,8 +7,6 @@ image: "https://picsum.photos/seed/synbio/1200/630"
 data-ai-hint: "biology lab"
 
 ---
-
-
 
 Synthetic biology is an exciting and rapidly advancing field that takes genetic engineering to a whole new level. If traditional genetic engineering is like editing a sentence in a book, synthetic biology is like writing entirely new chapters or even new books from scratch. It involves the design and construction of new biological parts, devices, and systems that don't exist in the natural world, or the re-design of existing biological systems for useful purposes.
 
@@ -123,5 +120,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

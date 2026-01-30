@@ -1,6 +1,5 @@
 ---
 
-
 title: "How Blockchain Technology Powers Web3"
 image: "/images/aideal-hwa-OYzbqk2y26c-unsplash.jpg"
 data-ai-hint: "blockchain web3 technology"
@@ -8,8 +7,6 @@ description: "A deep dive into the symbiotic relationship between blockchain and
 category: "Technology Deep Dives"
 
 ---
-
-
 
 The vision of [Web3](/what-is-web3), a decentralized, user-owned internet, is made possible by one foundational technology: the **[blockchain](/what-is-a-blockchain)**. A blockchain is the architectural backbone of Web3, providing the trustless, permissionless, and resilient infrastructure upon which this new digital world is built. Without blockchain, the core promises of Web3 would be impossible to achieve.
 

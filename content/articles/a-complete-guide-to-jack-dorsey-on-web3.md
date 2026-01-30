@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man walking"
 ---
 
-
 ## Introduction: The Bitcoin Zealot
 
 Jack Dorsey, the co-founder and former CEO of Twitter (now X) and the founder and CEO of Block (formerly Square), is one of the most prominent and uncompromising figures in the [Web3](/what-is-web3) discourse. However, his vision is starkly different from that of many of his Silicon Valley peers. Dorsey is a staunch **[Bitcoin](/what-is-bitcoin) maximalist**, believing that Bitcoin is the only cryptocurrency that matters and the only true path to a decentralized future.

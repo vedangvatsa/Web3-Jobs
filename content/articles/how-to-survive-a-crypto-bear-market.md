@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Survive (and Thrive in) a Crypto Bear Market"
 image: "/images/firmbee-com-SpVHcbuKi6E-unsplash.jpg"
 data-ai-hint: "bear market chart"
@@ -8,8 +7,6 @@ description: "A guide for Web3 professionals on how to navigate a crypto bear ma
 category: "Career Guides"
 
 ---
-
-
 
 If you've chosen a career in [Web3](/what-is-web3), you must be prepared for one of its defining characteristics: extreme volatility. The crypto markets move in violent cycles, with euphoric bull markets followed by brutal, drawn-out bear markets. During a bull run, it feels like the party will never end. Jobs are plentiful, salaries are high, and the value of your [token](/what-is-a-token) compensation seems to go up every day.
 

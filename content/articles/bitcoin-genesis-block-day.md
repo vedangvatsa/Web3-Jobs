@@ -5,7 +5,6 @@ image: "https://picsum.photos/seed/bitcoin-genesis/1200/630"
 category: "Career Guides"
 ---
 
-
 ## 1. Technical Foundations
 
 * **Hash:** `000000000019d6689c085ae165831e93` – the first valid SHA‑256 hash meeting the difficulty target.

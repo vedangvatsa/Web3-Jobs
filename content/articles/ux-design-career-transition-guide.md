@@ -1,6 +1,5 @@
 ---
 
-
 title: "UX Design Career Transition Guide: How to Make the Switch"
 description: "A step-by-step guide for professionals looking to transition into a career in UX/UI design. Learn the essential skills, tools, portfolio-building."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
@@ -8,8 +7,6 @@ data-ai-hint: "winding road"
 category: "Career Guides"
 
 ---
-
-
 
 User Experience (UX) and User Interface (UI) design have become some of the most in-demand and fulfilling careers in the digital world. UX/UI designers are the architects of the user journey, responsible for making technology not just functional, but also intuitive, accessible, and enjoyable to use.
 
@@ -158,5 +155,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

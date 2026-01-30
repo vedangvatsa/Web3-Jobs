@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in Tunis: A Guide to Tunisia's Tech-Savvy Talent Hub"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "tunis tunisia city"
 description: "A career guide to the Web3 job market in Tunis. Discover how Tunisia's capital, with its deep pool of engineering talent and focus on FinTech, is becoming."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 Tunis, the capital of Tunisia, is emerging as a surprising and dynamic hub for [Web3](/what-is-web3) talent and innovation in North Africa. The country has one of the highest concentrations of engineers per capita in the region, a strong and modern education system, and a young population that is highly engaged with digital technology. This has created a deep and often underestimated pool of technical talent that is now being courted by global Web3 companies.
 
@@ -345,7 +339,6 @@ Best mentors are 1-2 steps ahead of you. Find your cohort; level up together.
 - Uniswap, Aave, Curve whitepapers (learn from the best)
 - Bankless newsletter (weekly DeFi analysis)
 - Paradigm research papers (deep technical research)
-
 
 ### Your Next Step: Find a Web3 Job
 

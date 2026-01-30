@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is a Custodial vs Non Custodial Wallet"
 image: "/images/austin-distel-tLZhFRLj6nY-unsplash.jpg"
 data-ai-hint: "wallet custody keys"
@@ -8,7 +7,6 @@ description: "A crucial guide to understanding the difference between custodial 
 category: "Educational"
 
 ---
-
 
 When you first enter the world of cryptocurrency, one of the most critical decisions you'll make is how to store your digital assets. This choice comes down to a fundamental question: who controls your private keys? The answer determines whether you are using a **custodial** or a **non-custodial** [wallet](/how-to-choose-a-crypto-wallet), and it has massive implications for your security, sovereignty, and ability to interact with the [Web3](/what-is-web3) ecosystem.
 
@@ -137,5 +135,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

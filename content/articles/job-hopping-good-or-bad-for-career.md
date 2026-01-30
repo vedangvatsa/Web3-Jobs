@@ -1,6 +1,5 @@
 ---
 
-
 title: "Job Hopping Is It Good or Bad for Your Career?"
 description: "The old rules about staying at one company for years are changing. This guide explores the pros and cons of job hopping in today's professional landscape."
 image: "https://picsum.photos/seed/320/1200/630"
@@ -8,8 +7,6 @@ data-ai-hint: "career path"
 category: "Career Guides"
 
 ---
-
-
 
 The concept of "job hopping," or frequently changing jobs every one to two years, used to be a major red flag on a [resume](/how-to-build-a-web3-resume-that-stands-out). It was seen as a sign of instability, disloyalty, or an inability to commit. But in today’s fast-paced and ever-changing job market, the stigma around job hopping is fading. In some industries, particularly tech, it’s even becoming the norm.
 
@@ -139,5 +136,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

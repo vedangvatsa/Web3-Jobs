@@ -1,6 +1,5 @@
 ---
 
-
 title: "The On-Chain Analyst Job: A Career Guide"
 image: "/images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
 data-ai-hint: "data analyst chart"
@@ -8,8 +7,6 @@ description: "A career guide for aspiring on-chain data analysts. Learn what the
 category: "Career Guides"
 
 ---
-
-
 
 In the transparent world of blockchains, every action, every transaction, and every interaction creates a permanent, public data point. This has given rise to a new and powerful discipline: **on-chain analysis**. And at the heart of this discipline is the **[Web3](/what-is-web3) Data Analyst**, a role that is part data scientist, part archaeologist, and part detective.
 
@@ -129,5 +126,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

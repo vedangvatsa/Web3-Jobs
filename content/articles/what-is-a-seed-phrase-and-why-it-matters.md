@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is a Seed Phrase and Why It Matters"
 image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
 data-ai-hint: "security key crypto"
@@ -8,7 +7,6 @@ description: "Your seed phrase is the master key to your crypto wallet. This gui
 category: "Educational"
 
 ---
-
 
 If you've ever set up a **[non-custodial crypto wallet](/what-is-a-custodial-vs-non-custodial-[wallet](/how-to-choose-a-crypto-wallet))** like MetaMask, you will have been given a **seed phrase**. It's a list of 12 or 24 simple words that you are instructed to write down and keep safe. It is, without exaggeration, the most important piece of information you own in the [Web3](/what-is-web3) world.
 
@@ -104,5 +102,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

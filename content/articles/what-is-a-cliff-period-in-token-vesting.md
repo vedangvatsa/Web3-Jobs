@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is a Cliff Period in Token Vesting"
 image: "/images/christopher-gower-vjMgqUkS8q8-unsplash.jpg"
 data-ai-hint: "cliff vesting crypto"
@@ -8,8 +7,6 @@ description: "A cliff is a period at the beginning of a vesting schedule where n
 category: "Educational"
 
 ---
-
-
 
 In the world of [Web3](/what-is-web3), **[vesting schedules](/vesting-schedules-in-crypto-projects-explained)** are a critical tool for aligning the long-term incentives of a project's team and its community. A key component of any vesting schedule is the **cliff**. Understanding what a cliff is and why it exists is essential for both employees receiving [token](/what-is-a-token) grants and for investors evaluating a project's tokenomics.
 
@@ -100,5 +97,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

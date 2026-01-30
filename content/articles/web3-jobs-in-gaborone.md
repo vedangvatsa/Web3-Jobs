@@ -7,7 +7,6 @@ description: "A career guide to the Web3 job market in Gaborone. Explore how Bot
 category: "Career Guides"
 ---
 
-
 Gaborone, the capital of Botswana, stands out in the African tech landscape as a city of stability, strategic planning, and growing ambition. Leveraging Botswana's reputation as one of the most stable and well-governed countries on the continent, Gaborone is methodically building a tech ecosystem aimed at long-term, sustainable growth. This environment is now beginning to embrace [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology, with a focus on creating trusted, transparent systems for finance, supply chain, and natural resource management.
 
 The Web3 scene in Gaborone is in its early stages but is backed by a supportive government, a well-educated populace, and a clear vision for digital transformation. The Botswana Digital & Innovation Hub is a key driver of this, fostering startups and providing the infrastructure for a modern tech economy. This guide provides an overview of the emerging [Web3 job](/web3-jobs-for-beginners) market in Gaborone, covering its unique strengths, the opportunities on the horizon, and how professionals can build a career in this stable and promising African tech hub.
@@ -199,7 +198,7 @@ A: Build remote skills first; land international role; live in Gaborone (low cos
 - [SADC Tech Network](https://twitter.com/search?q=SADC%20tech): Regional connections
 
 **Related Articles:**
-- [Web3 Career Growth & Development](web3-career-growth-and-development)
+
 - How to Find a Mentor in Web3
 - Building Strong Professional Relationships
 

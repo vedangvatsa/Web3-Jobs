@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Web3 Jobs in Russia: A Guide to the Resilient Developer Community"
 image: "https://images.unsplash.com/photo-1520106212299-d99c443e4568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxydXNzaWF8ZW58MHx8fHwxNzE2NDIwMTMyfDA&lib=rb-4.0.3&q=80&w=1080"
 data-ai-hint: "russia city moscow"
 description: "A look at the complex landscape for Web3 careers in Russia. This guide explores the nation's deep pool of technical talent, the impact of geopolitical."
 category: "Career Guides"
 
-
 ---
-
-
-
 
 Russia holds a complex and paradoxical position in the [Web3](/what-is-web3) world. On one hand, the country is a powerhouse of technical and mathematical talent, having produced some of the most influential figures in the space, including [Ethereum](/what-is-ethereum) co-founder Vitalik Buterin. On the other hand, the geopolitical landscape and an ambiguous domestic regulatory environment have created significant challenges for the local crypto industry.
 
@@ -305,7 +299,6 @@ A: Russian developers have strong reputation. You're building valuable skills. G
 - LinkedIn: Web3 companies
 - AngelList: Web3 startups
 - Protocol job boards (Ethereum jobs, etc.)
-
 
 ### Your Next Step: Find Your Web3 Job
 

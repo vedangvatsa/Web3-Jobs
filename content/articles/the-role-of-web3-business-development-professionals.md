@@ -1,6 +1,5 @@
 ---
 
-
 title: "The Role of Web3 Business Development Professionals"
 image: "/images/chris-ried-bN5XdU-bap4-unsplash.jpg"
 data-ai-hint: "business development partnership"
@@ -8,8 +7,6 @@ description: "A career guide for Web3 Business Development (BizDev) and partners
 category: "Career Guides"
 
 ---
-
-
 
 In the hyper-collaborative and composable world of [Web3](/what-is-web3), no project is an island. A protocol's success often depends not just on its own technology, but on its ability to integrate with and build relationships with other projects in the ecosystem. This has made the role of the **Web3 Business Development (BizDev) and Partnerships Manager** one of the most critical functions for driving growth.
 

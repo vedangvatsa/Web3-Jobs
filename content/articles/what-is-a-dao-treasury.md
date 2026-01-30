@@ -1,6 +1,5 @@
 ---
 
-
 title: 'What is a DAO Treasury and How is it Managed'
 description: 'A DAO treasury is the financial backbone of a decentralized organization. Learn how treasuries are funded, managed through multisigs and governance, and used to fund project growth.'
 image: '/images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg'
@@ -8,8 +7,6 @@ category: 'Educational'
 data-ai-hint: 'finance chart'
 
 ---
-
-
 
 A [DAO](/what-is-a-dao) treasury is the collective pool of funds and digital assets owned and controlled by a Decentralized Autonomous Organization (DAO). It's the financial engine that powers the DAO's operations, funds its initiatives, and rewards its contributors. Unlike a traditional company's bank account, which is controlled by a few executives, a DAO treasury is controlled by the community of [token](/what-is-a-token) holders through on-chain governance mechanisms.
 
@@ -124,5 +121,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

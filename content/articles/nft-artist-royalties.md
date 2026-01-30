@@ -1,14 +1,11 @@
 ---
 
-
 title: "A Creator's Guide to NFT Royalties"
 image: 'https://images.unsplash.com/photo-1694434943114-c8ea2049f781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxORlR8ZW58MHx8fHwxNzU0OTU0MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080'
 description: 'Understand how NFT royalties work, the technical standards like EIP-2981, the ongoing debate about enforcement, and how creators can protect their secondary sale earnings.'
 category: 'Technology Deep Dives'
 
 ---
-
-
 
 For digital artists and creators, the promise of automatic, on-chain royalties was one of the most revolutionary aspects of [NFTs](/what-are-nfts). For decades, visual artists have rarely benefited from the secondary market. A painter could sell a canvas for $1,000, only to watch a collector resell it for $1 million years later, with the artist receiving nothing from that appreciated value. NFTs, powered by [smart contracts](/what-are-smart-contracts), seemed to offer a solution: the ability to code a royalty fee directly into the [token](/what-is-a-token), ensuring the original creator receives a percentage of every future sale, forever.
 
@@ -163,5 +160,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

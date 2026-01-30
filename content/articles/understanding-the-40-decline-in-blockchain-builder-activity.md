@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Understanding the Decline in Blockchain Dev Activity"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "developer decline graph"
 description: "An analysis of the 40% decline in blockchain developer activity, exploring the shift in VC funding, the rise of AI, and what it means for the future of crypto."
 category: "Industry Insights"
 
-
 ---
-
-
-
 
 In an industry where innovation drives value, the cryptocurrency sector is facing a troubling trend: developer activity has plummeted by 40% in just one year. This dramatic decline signals potential challenges for the long-term health and innovation capacity of the entire [blockchain](/what-is-a-blockchain) ecosystem. As the institutional adoption grows, why are the builders, the very people who create and maintain the technology, stepping away?
 
@@ -25,7 +19,6 @@ Data from crypto metrics aggregator Artemis Terminal reveals a stark reality: we
 
 This decline isn’t isolated to a few projects. According to Artemis data, the crypto space encompasses over 1,500 ecosystems, many with multiple sub-ecosystems, suggesting the downturn is widespread. Other sources confirm similar numbers, with some reporting the decline at 38.6% year-over-year.
 
-
 For specific platforms like Solana, the trend is particularly concerning. Despite Solana’s strong price performance, its core developer count has been declining since 2022, while competitor Ethereum has maintained steady growth in its developer base. This disparity highlights how market performance doesn’t necessarily correlate with developer retention.
 
 ### The Critical Role of Developers in Blockchain Ecosystems
@@ -33,14 +26,12 @@ Why does developer activity matter so much? Developers are the lifeblood of bloc
 
 Binji Pande, a contributor to the Ethereum-based layer-2 network Optimism, explains that the decline indicates “attention has shifted, incentives have dried up, and speculation is moving faster than utility in the crypto space”. Pande argues that the industry has become “rife with narrative-led development when there should be more development-led narratives”.
 
-
 This sentiment is echoed by other developers who suggest the industry needs to return to basics and support applications that demonstrate the futuristic potential of crypto. Without active developers, protocols stagnate, security vulnerabilities go unpatched, and new features stop emerging.
 
 ### The Venture Capital Factor: Following the Money
 The developer exodus coincides with significant changes in venture capital funding patterns. According to Stephen Flanders‘ analysis, the overwhelming consensus is that “crypto beyond [bitcoin](/what-is-bitcoin), stablecoins, and pump.fun is simply put extremely cooked”.
 
 Flanders places much of the blame on venture capitalists: “I think the VCs are mostly to blame, who, without their rape train of low float high fdv L1s, have mostly retreated from the space”. His analysis shows that even in 2024, when Bitcoin reached $100,000, VC investment barely surpassed the “barren 2023” levels.
-
 
 Looking at early-stage funding (angel, pre-seed, and seed rounds), the situation appears even more dire, particularly concerning since these rounds typically fund the most innovative ideas.
 
@@ -99,7 +90,6 @@ PitchBook analyst Robert Le projects crypto venture capital funding to reach $18
 #### 2. Q1 2025 Funding Surge
 
 The first quarter of 2025 saw $4.8 billion in crypto VC funding, the highest since Q3 2022. This quarter alone represented 60% of the total VC capital deployed in all of 2024, suggesting a potential turning point.
-
 
 #### 3. Institutional Involvement
 

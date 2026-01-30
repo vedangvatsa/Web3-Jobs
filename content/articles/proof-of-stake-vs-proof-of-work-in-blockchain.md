@@ -1,6 +1,5 @@
 ---
 
-
 title: "Proof of Stake vs Proof of Work in Blockchain"
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "balance scale"
@@ -8,8 +7,6 @@ description: "A clear comparison of the two major blockchain consensus mechanism
 category: "Educational"
 
 ---
-
-
 
 At the heart of every **[blockchain](/what-is-a-blockchain)** is a **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)**-the method by which all the distributed participants in the network agree on the validity of transactions. The two most prominent and important consensus mechanisms are **Proof-of-Work (PoW)** and **Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS)**.
 

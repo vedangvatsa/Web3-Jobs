@@ -1,6 +1,5 @@
 ---
 
-
 title: "Understanding Slashing in Proof of Stake Networks"
 image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
 data-ai-hint: "crypto security risk"
@@ -8,8 +7,6 @@ description: "Slashing is the penalty mechanism in Proof-of-Stake blockchains th
 category: "Educational"
 
 ---
-
-
 
 In Proof-of-Work blockchains, security comes from the immense cost of energy and hardware required for mining. In Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) systems, security is based on a different principle: economic incentives. Validators, the participants who create blocks and secure the network, must lock up a significant amount of the network's native currency as a security deposit, or "stake." This stake acts as a bond, ensuring they have skin in the game. If they act honestly, they earn rewards. If they act dishonestly or negligently, they face a severe financial penalty. This penalty mechanism is known as **slashing**.
 
@@ -119,5 +116,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

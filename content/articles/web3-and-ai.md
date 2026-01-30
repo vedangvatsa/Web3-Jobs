@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 and AI: Collision Course or a Perfect Match?"
 image: "/images/markus-spiske-Skf7HxARcoc-unsplash.jpg"
 data-ai-hint: "web3 ai technology"
@@ -8,8 +7,6 @@ description: "An analysis of the convergence of Web3 and Artificial Intelligence
 category: "Industry Insights"
 
 ---
-
-
 
 Artificial Intelligence (AI) and [Web3](/what-is-web3) are arguably the two most powerful and disruptive technological trends of our time. On the surface, they appear to be moving in opposite directions. AI, particularly the large language models (LLMs) we see today, is often a story of centralization-massive models trained on vast datasets by a handful of large corporations. Web3, on the other hand, is a movement predicated on decentralization, transparency, and distributing power to the edges of the network.
 

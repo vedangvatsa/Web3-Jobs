@@ -1,6 +1,5 @@
 ---
 
-
 title: "Understanding the Solana Blockchain"
 image: "/images/george-prentzas-SRFG7iwktDk-unsplash.jpg"
 data-ai-hint: "solana blockchain"
@@ -8,8 +7,6 @@ description: "An overview of Avalanche (AVAX), a Layer 1 blockchain known for it
 category: "Educational"
 
 ---
-
-
 
 **Solana (SOL)** is a high-performance, open-source **[Layer 1 blockchain](/what-is-a-layer-1-[blockchain](/what-is-a-blockchain))** designed to host a vibrant ecosystem of decentralized applications and enterprise blockchain solutions. Launched in 2020 by Ava Labs, Solana's primary focus is on providing near-instant transaction finality and a highly scalable platform for developers.
 

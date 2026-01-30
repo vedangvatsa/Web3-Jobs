@@ -1,6 +1,5 @@
 ---
 
-
 title: "Decoding the Web3 Salary: Can You Really Earn a High Income?"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "web3 salary money"
@@ -8,8 +7,6 @@ description: "A realistic analysis of the earning potential in a Web3 career. We
 category: "Career Guides"
 
 ---
-
-
 
 The [Web3](/what-is-web3) industry is famous for its eye-watering compensation packages. Tales of developers landing six-figure salaries straight out of bootcamp and marketing leads receiving life-changing [token](/what-is-a-token) grants have fueled a gold rush of talent from the traditional tech world. But can you really earn a high income in Web3, and is it sustainable?
 

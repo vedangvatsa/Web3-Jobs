@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Cold Contact Anyone and Get a Response"
 image: "/images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg"
 data-ai-hint: "person sending message"
@@ -8,8 +7,6 @@ description: "A guide to effective cold outreach in Web3. Learn how to write a c
 category: "Career Guides"
 
 ---
-
-
 
 In the fast-paced and network-driven world of [Web3](/what-is-web3), the ability to effectively cold contact someone-a founder, an investor, a hiring manager-is a superpower. A single well-crafted message can open doors, create opportunities, and change the trajectory of your career. However, most cold outreach is terrible. It's generic, self-serving, and gets instantly deleted.
 
@@ -161,5 +158,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

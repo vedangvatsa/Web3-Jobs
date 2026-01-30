@@ -1,6 +1,5 @@
 ---
 
-
 title: "Common Take-Home Assignments for Web3 Developer Roles"
 image: "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhc3NpZ25tZW50fGVufDB8fHx8MTc1NTAzNzEwM3ww&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "common take home assignments for web3 developer roles"
@@ -8,8 +7,6 @@ description: "Preparing for a Web3 developer interview? This guide breaks down t
 category: "Career Guides"
 
 ---
-
-
 
 You've passed the initial screening call for a [Web3](/what-is-web3) [developer role](/entry-level-jobs-in-web3). What's next? In most cases, it's the **take-home assignment**. This is a critical step in the [interview](/how-to-prepare-for-job-interview) process where a company assesses your practical coding skills, your attention to detail, and your ability to work independently.
 

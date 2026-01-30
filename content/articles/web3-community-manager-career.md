@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Be a Good Community Moderator"
 image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 data-ai-hint: "team meeting collaboration"
@@ -8,8 +7,6 @@ description: "A deep dive into the most important non-technical role in Web3. Le
 category: "Career Guides"
 
 ---
-
-
 
 In the decentralized world of [Web3](/what-is-web3), community is everything. It's the product, the marketing team, the support desk, and the governance body, all rolled into one. At the center of this vital ecosystem stands the Community Manager, or "CM." This isn't just a social media management role; it's a high-stakes, high-impact position that requires a unique blend of empathy, communication skills, and deep protocol knowledge.
 
@@ -129,5 +126,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

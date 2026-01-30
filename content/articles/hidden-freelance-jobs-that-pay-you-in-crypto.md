@@ -1,6 +1,5 @@
 ---
 
-
 title: "Hidden Freelance Jobs That Pay You in Crypto"
 image: "/images/anas-alshanti-feXpdV001o4-unsplash.jpg"
 data-ai-hint: "side hustle laptop"
@@ -8,8 +7,6 @@ description: "A guide to the world of Web3 freelancing. Learn how to find and co
 category: "Career Guides"
 
 ---
-
-
 
 For many professionals, the journey into a [Web3](/what-is-web3) career doesn't start with a job application. It starts with a side hustle. It begins in the evenings and on weekends, with a small contribution to a project they admire, a "bounty" completed for a [DAO](/what-is-a-dao), or a single insightful blog post that gets noticed by the community. The permissionless and transparent nature of the Web3 ecosystem has created a vibrant "gig economy," allowing anyone, anywhere, to start contributing and earning without the need for a formal job.
 

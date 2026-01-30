@@ -1,6 +1,5 @@
 ---
 
-
 title: "Top Web3 Job Boards to Kickstart Your Crypto Career"
 description: "A curated list and analysis of the best Web3 job boards. Learn where to find legitimate opportunities and how to navigate the crypto job market effectively."
 image: "/images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg"
@@ -8,8 +7,6 @@ category: "Career Guides"
 data-ai-hint: "man working desk"
 
 ---
-
-
 
 ## Beyond LinkedIn: Finding Your Dream Job on a Web3 Job Board
 

@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is a Launchpad in Crypto Projects"
 image: "/images/nasa-1lfI7wkGWZ4-unsplash.jpg"
 data-ai-hint: "rocket launch crypto"
@@ -8,8 +7,6 @@ description: "A crypto launchpad is a platform that helps new blockchain project
 category: "Educational"
 
 ---
-
-
 
 In the fast-moving world of [Web3](/what-is-web3), new projects need a way to raise capital and distribute their initial [tokens](/what-is-a-token) to a wide audience. A **crypto launchpad**, also known as an IDO (Initial [DEX](/what-is-a-decentralized-exchange-dex) Offering) platform, is a platform designed to facilitate this process. It acts as a bridge between new, promising projects and a community of early-stage investors looking to get in on the ground floor.
 

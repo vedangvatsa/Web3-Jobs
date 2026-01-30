@@ -7,7 +7,6 @@ description: "Learn how to use AI resume builders effectively. This guide covers
 category: "Educational"
 ---
 
-
 In today's competitive job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) needs to do two things. first, it has to get past the initial screening, which is often done by an AI-powered Applicant Tracking System (ATS). Second, it has to impress a human recruiter. AI resume builders have emerged as powerful tools to help with both, but using them effectively requires a smart strategy.
 
 These tools can help you tailor your resume to a specific job, optimize it with the right keywords, and even help you write compelling bullet points. But they are not a magic wand. This guide will walk you through the best practices for using AI to create a resume that stands out for all the right reasons.

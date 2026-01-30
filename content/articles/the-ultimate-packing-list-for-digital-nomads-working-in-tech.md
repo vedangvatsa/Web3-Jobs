@@ -1,6 +1,5 @@
 ---
 
-
 title: "The Ultimate Packing List for Digital Nomads in Tech"
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 description: "Working remotely from anywhere in the world requires careful planning. This is the ultimate packing list for tech professionals and digital nomads."
@@ -8,8 +7,6 @@ category: "Career Guides"
 data-ai-hint: "travel packing"
 
 ---
-
-
 
 [Web3](/what-is-web3) and [remote work](/remote-work-in-web3) have made [digital nomad](/crypto-guide-for-digital-nomads) careers viable. Many tech professionals and Web3 workers travel while working. Working from Southeast Asia, Europe, or Latin America while employed at US or European companies is increasingly common.
 

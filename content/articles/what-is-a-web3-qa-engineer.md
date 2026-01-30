@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is a Web3 QA Engineer? A Career Guide"
 image: "https://images.unsplash.com/photo-1518281420975-50db6e5d0a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaWZlfGVufDB8fHx8MTc1NTAzNjYxNnww&lib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "quality assurance test"
@@ -8,8 +7,6 @@ description: "An inside look at the crucial role of a Quality Assurance (QA) Eng
 category: "Career Guides"
 
 ---
-
-
 
 In the high-stakes world of [Web3](/what-is-web3), where immutable [smart contracts](/what-are-smart-contracts) can manage billions of dollars, quality and reliability are not just features-they are absolute necessities. While [Smart Contract Auditors](/smart-contract-auditor-career) focus on finding security vulnerabilities, a different type of engineer is responsible for ensuring that a protocol functions exactly as intended: the **Web3 Quality Assurance (QA) Engineer**.
 

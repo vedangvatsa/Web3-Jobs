@@ -1,6 +1,5 @@
 ---
 
-
 title: "Leadership Skills for New Managers"
 image: "https://picsum.photos/seed/ls1/1200/630"
 description: "Transitioning into a management role? Master these essential leadership skills to guide your team effectively and build a foundation for success."
@@ -8,8 +7,6 @@ category: "Career Guides"
 data-ai-hint: "manager skills"
 
 ---
-
-
 
 ## Introduction
 

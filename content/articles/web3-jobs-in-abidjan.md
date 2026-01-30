@@ -7,7 +7,6 @@ description: "A career guide to the Web3 job market in Abidjan. Explore how Ivor
 category: "Career Guides"
 ---
 
-
 Abidjan, the bustling economic capital of Ivory Coast (Côte d'Ivoire), is one of West Africa's most important centers for finance and technology. With one of the highest mobile money penetration rates on the continent and a rapidly growing FinTech sector, the city is a natural breeding ground for [Web3](/what-is-web3) innovation, particularly in the realm of [decentralized finance](/what-is-defi) and digital payments. While the ecosystem is still in its growth phase, Abidjan's strategic importance and its tech-savvy population make it a key city to watch in the African Web3 landscape.
 
 The Web3 scene in Abidjan is characterized by a strong focus on solving real-world financial problems. Builders and entrepreneurs are exploring how [blockchain](/what-is-a-blockchain) can create more efficient, inclusive, and transparent financial services for Ivorians and the wider Francophone African region. This guide provides an overview of the emerging [Web3 job](/web3-jobs-for-beginners) market in Abidjan, covering its unique focus, the opportunities available, and how to build a career in this dynamic financial tech hub.
@@ -198,7 +197,7 @@ A: Months 1-6: learning + occasional freelance. Months 7+: full-time remote role
 - [Upwork](https://upwork.com/): Freelance contracts
 
 **Related Articles:**
-- [Web3 Career Growth & Development](web3-career-growth-and-development)
+
 - How to Find a Mentor in Web3
 - Building Strong Professional Relationships
 

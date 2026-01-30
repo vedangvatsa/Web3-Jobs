@@ -35,7 +35,6 @@ To address privacy concerns, India passed the Digital Personal Data Protection A
 ### International Collaboration and Service Exports
 India's Digital Public Infrastructure model is gaining international recognition, with efforts to connect UPI with other countries' payment systems. Digital trade is expected to be a significant contributor to India's GDP by 2030, as India leverages its digital infrastructure to access global markets.
 
-
 ## The Concept of CBDC
 
 Central Bank Digital Currency (CBDC) is a digital form of a country's fiat currency, issued and regulated by the central bank. Unlike cryptocurrencies, which operate on decentralized networks and are not backed by any central authority, CBDCs are centralized and represent a direct claim on the central bank.
@@ -55,7 +54,6 @@ Central Bank Digital Currencies (CBDCs) can take on various forms, each tailored
 - **Hybrid CBDC:** Combines elements of retail and wholesale CBDCs, allowing use by both the general public and financial institutions. Can provide the benefits of improved financial inclusion and efficient interbank settlements, but the design and implementation can be more complex.
 - **Indirect CBDC:** The central bank issues the CBDC, but it is distributed and managed through intermediaries, such as commercial banks. Can leverage the existing financial system and infrastructure, but may raise privacy concerns due to intermediary involvement.
 - **Direct CBDC:** The central bank provides CBDC accounts and digital wallets directly to the public, without intermediaries. Can offer greater privacy and control, but may require significant investment and infrastructure development by the central bank.
-
 
 ## Global Trends
 
@@ -88,7 +86,6 @@ Since Russia's invasion of Ukraine and the resulting sanctions, there has been a
 
 One example is the mBridge project, which connects China, Thailand, the United Arab Emirates, and Hong Kong. This project will expand to 11 more countries in 2024.
 
-
 ## India's Approach
 
 ### Wholesale CBDC and Retail CBDC
@@ -110,7 +107,6 @@ India's approach to CBDC is consistent with global trends, with several countrie
 Sweden's e-Krona pilot has focused on both retail and wholesale use cases, with a particular emphasis on testing the technical and operational aspects of the CBDC. The e-Krona pilot has also explored the potential for cross-border payments, with the aim of enhancing the efficiency and speed of international transactions.
 
 The Bahamas' Sand Dollar, one of the first CBDCs to be fully implemented, has focused on promoting financial inclusion and providing a secure and efficient payment option for the country's residents.
-
 
 ## Future Prospects of Digital Payments and CBDC in India
 

@@ -1,18 +1,12 @@
 ---
 
-
-
 title: "Self Driving Cars Complete Guide"
 description: "A comprehensive look into the world of autonomous vehicles, from the different levels of automation to the technology that powers them and the challenges ahead."
 category: "Educational"
 image: "https://picsum.photos/seed/selfdriving/1200/630"
 data-ai-hint: "autonomous car"
 
-
 ---
-
-
-
 
 Self-driving cars, or autonomous vehicles, are no longer just a futuristic concept from science fiction movies. They represent a monumental shift in transportation, promising to reshape our cities, economies, and daily lives. The idea is simple enough; vehicles that can navigate and operate without human intervention. The technology making it happen, however, is incredibly complex.
 
@@ -227,7 +221,7 @@ Companies like **DIMO** (Decentralized Infrastructure for Mobility Operations) a
 - [ ] Publish: technical deep-dive
 
 **Week 9-10:**
-- [ ] Land 1st [freelance](/how-to-start-freelancing-for-beginners)/consulting (DePIN or automotive)
+
 - [ ] Twitter: 1,000+ followers in DePIN community
 - [ ] Apply: dream roles at DIMO, Hivecell, etc.
 

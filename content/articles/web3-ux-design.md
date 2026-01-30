@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 UX Design Best Practices"
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
 data-ai-hint: "ux design web3"
@@ -8,8 +7,6 @@ description: "A guide to designing user-friendly decentralized applications. Lea
 category: "Technology Deep Dives"
 
 ---
-
-
 
 One of the biggest obstacles to the mainstream adoption of [Web3](/what-is-web3) is its notoriously poor user experience (UX). For new users, interacting with a decentralized application (dApp) for the first time can be a confusing, intimidating, and often unforgiving process. Concepts like gas fees, [wallet](/how-to-choose-a-crypto-wallet) signatures, and transaction finality are completely foreign to anyone accustomed to the seamless world of Web2.
 

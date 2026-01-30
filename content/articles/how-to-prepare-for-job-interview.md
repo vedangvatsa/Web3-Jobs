@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Prepare for Job Interview"
 image: "https://picsum.photos/seed/job-interview/1200/630"
 data-ai-hint: "interview handshake two people"
@@ -8,8 +7,6 @@ description: "A comprehensive guide on how to prepare for a job interview. Learn
 category: "Career Guides"
 
 ---
-
-
 
 Landing a job interview is a huge accomplishment. It means your [resume](/how-to-build-a-web3-resume-that-stands-out) and cover letter have made a great impression. Now it's time to seal the deal. A job interview is your opportunity to showcase your skills, personality, and enthusiasm for the role. Proper preparation is the key to walking into that interview with confidence and making a lasting impression.
 
@@ -158,5 +155,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

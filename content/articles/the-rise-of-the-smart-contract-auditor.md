@@ -1,6 +1,5 @@
 ---
 
-
 title: "The Rise of the Smart Contract Auditor: Web3's Most Wanted"
 description: "An in-depth look at the role of a smart contract auditor. Learn what they do, the skills required, and why they are one of the most critical and in-demand."
 image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
@@ -8,8 +7,6 @@ category: "Career Guides"
 data-ai-hint: "man inspecting code"
 
 ---
-
-
 
 ## Web3's Most Wanted: The Rise of the Smart Contract Auditor
 

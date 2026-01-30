@@ -1,6 +1,5 @@
 ---
 
-
 title: "The Fundamentals of Web3 Real Estate Investing"
 description: "A foundational guide to the intersection of Web3 and real estate. Learn how tokenization is making real estate more accessible, liquid, and transparent."
 image: "/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg"
@@ -8,8 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "modern building architecture"
 
 ---
-
-
 
 ## A New Foundation: Understanding the Fundamentals of Web3 Real Estate
 

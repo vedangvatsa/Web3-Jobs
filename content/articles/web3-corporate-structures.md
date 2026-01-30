@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3's Impact on Corporate Structures"
 image: "/images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg"
 data-ai-hint: "corporate building structure"
@@ -8,8 +7,6 @@ description: "An exploration of how Web3 technologies like DAOs are challenging 
 category: "Industry Insights"
 
 ---
-
-
 
 For over a century, the hierarchical corporate structure has been the undisputed model for organizing human enterprise. From the industrial age to the internet era, the top-down pyramid-with a board of directors and C-suite at the top, middle managers in the middle, and employees at the base-has been the default operating system for business. But the rise of [Web3](/what-is-web3) and its native organizational primitive, the [DAO (Decentralized Autonomous Organization)](/what-is-a-dao), is beginning to challenge this long-held paradigm.
 

@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is Price Impact in DEX Trading?"
 description: "A clear guide to understanding price impact on decentralized exchanges (DEXs), why it occurs, how it differs from slippage, and how to manage it for."
 category: "Educational"
@@ -8,8 +7,6 @@ image: "https://picsum.photos/seed/priceimpact/1200/630"
 data-ai-hint: "price impact"
 
 ---
-
-
 
 ## What is Price Impact in DEX Trading? A Complete Guide
 
@@ -163,5 +160,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

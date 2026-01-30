@@ -1,6 +1,5 @@
 ---
 
-
 title: "Onboarding Non-Technical Talent in Web3"
 image: "/images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg"
 data-ai-hint: "team onboarding meeting"
@@ -8,8 +7,6 @@ description: "A guide for Web3 companies on how to successfully onboard non-tech
 category: "Career Guides"
 
 ---
-
-
 
 The [Web3](/what-is-web3) industry is actively recruiting talent from beyond its crypto-native bubble. Marketers, product managers, designers, and operations specialists from Web2 are being hired to bring their valuable experience to the decentralized world. However, hiring this talent is only half the battle. The next, and arguably more critical, challenge is onboarding them effectively.
 

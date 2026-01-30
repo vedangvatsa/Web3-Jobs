@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man confident"
 ---
 
-
 ## Introduction: The Original Bitcoin Bull
 
 Tim Draper is a legendary venture capitalist and a founding partner of Draper Fisher Jurvetson (DFJ) and Draper Associates. An early investor in disruptive companies like Hotmail, Skype, and Tesla, Draper has built a reputation for identifying transformative technologies long before they become mainstream. It is this instinct that led him to become one of the earliest and most vocal proponents of [Bitcoin](/what-is-bitcoin) and [Web3](/what-is-web3).

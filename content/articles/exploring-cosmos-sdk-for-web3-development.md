@@ -1,6 +1,5 @@
 ---
 
-
 title: "Exploring Cosmos SDK for Web3 Development"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "cosmos space galaxy"
@@ -8,8 +7,6 @@ description: "A developer's guide to the Cosmos SDK. Learn how this powerful fra
 category: "Technology Deep Dives"
 
 ---
-
-
 
 While [Ethereum](/what-is-ethereum) has established itself as the dominant [smart contract](/what-are-smart-contracts) platform, its monolithic architecture presents challenges for developers who require more sovereignty and customization. For teams that want to build not just a decentralized application, but an entire application-specific [blockchain](/what-is-a-blockchain), the **Cosmos SDK** has emerged as the industry's leading framework.
 

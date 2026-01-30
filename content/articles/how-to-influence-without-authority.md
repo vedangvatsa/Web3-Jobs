@@ -1,6 +1,5 @@
 ---
 
-
 title: "How to Influence Without Authority: A Guide to Leading Your Peers"
 category: "Career Guides"
 date: "2025-09-12"
@@ -9,8 +8,6 @@ image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team collaboration influence"
 
 ---
-
-
 
 In the modern, collaborative workplace, your success often depends on your ability to get things done with and through people who don't report to you. You might need the data science team to prioritize a query for you, the design team to help with a presentation, or a colleague from another team to adopt a new process you've created.
 
@@ -130,5 +127,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

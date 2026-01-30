@@ -1,6 +1,5 @@
 ---
 
-
 title: "What is a Bonding Curve in Token Economics"
 image: "/images/maximalfocus-naSAHDWRNbQ-unsplash.jpg"
 data-ai-hint: "bonding curve token"
@@ -8,8 +7,6 @@ description: "A bonding curve is a mathematical curve that defines the relations
 category: "Educational"
 
 ---
-
-
 
 A bonding curve is a mathematical concept that has become a powerful tool in the field of **[tokenomics](/understanding-tokenomics)**. It's a type of [smart contract](/what-are-smart-contracts) that acts as an autonomous market maker, defining a direct relationship between the price of a [token](/what-is-a-token) and its circulating supply. In simple terms, a bonding curve contract will automatically mint new tokens when people buy them and burn tokens when people sell them back to the contract, with the price adjusting along a predefined curve.
 
@@ -118,5 +115,4 @@ A: Absolutely. You don't need extra time-just intentionality in your current wor
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
-
 

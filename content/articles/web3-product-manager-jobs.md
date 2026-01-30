@@ -1,6 +1,5 @@
 ---
 
-
 title: "The Web3 Product Manager: A Career Guide"
 image: "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9kdWN0JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NTUxNjEwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080"
 data-ai-hint: "web3 product manager"
@@ -8,8 +7,6 @@ description: "Web3 needs product managers. Learn about the unique challenges and
 category: "Career Guides"
 
 ---
-
-
 
 As the [Web3](/what-is-web3) ecosystem matures, a new and critical role is emerging from the chaotic frontier: the Web3 Product Manager. While developers build the protocols, it's the PM who must bridge the gap between deeply technical infrastructure and a user base that demands intuitive, valuable experiences. A Web3 PM does more than just write tickets and manage sprints; they are a unique blend of strategist, economist, community whisperer, and user advocate, all operating in a radically transparent and often headless environment.
 

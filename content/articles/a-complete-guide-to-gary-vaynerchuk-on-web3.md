@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man drawing"
 ---
 
-
 ## Introduction: The Marketing Guru of NFTs
 
 Gary Vaynerchuk, universally known as GaryVee, is a serial entrepreneur, investor, author, and internet personality who has become one of the most visible and influential advocates for [Web3](/what-is-web3), particularly in the realm of [NFTs](/what-are-nfts) (Non-Fungible [Tokens](/what-is-a-token)). With his signature high-energy style and relentless focus on practical marketing and brand-building, Gary has brought the concepts of digital ownership and community to a massive mainstream audience.

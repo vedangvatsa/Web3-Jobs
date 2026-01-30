@@ -1,6 +1,5 @@
 ---
 
-
 title: "Cryptocurrency Market Cap Explained Simply"
 image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
 data-ai-hint: "crypto market chart"
@@ -8,7 +7,6 @@ description: "A cryptocurrency's market cap is a key metric used to gauge its si
 category: "Educational"
 
 ---
-
 
 When you look at a list of cryptocurrencies on a site like CoinGecko or CoinMarketCap, one of the first and most prominent metrics you'll see is the **market capitalization**, or "market cap." In simple terms, a cryptocurrency's market cap is the total value of all its coins that are currently in circulation. It's a quick way to gauge the size and significance of a crypto project.
 

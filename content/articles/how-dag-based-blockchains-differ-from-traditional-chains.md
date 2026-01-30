@@ -1,6 +1,5 @@
 ---
 
-
 title: "How DAG-Based Blockchains Differ From Traditional Chains"
 image: "/images/nasa-Q1p7bh3SHj8-unsplash.jpg"
 data-ai-hint: "dag blockchain network"
@@ -8,8 +7,6 @@ description: "An exploration of Directed Acyclic Graphs (DAGs), an alternative t
 category: "Technology Deep Dives"
 
 ---
-
-
 
 When most people think of a distributed ledger, they think of a **[blockchain](/what-is-a-blockchain)**-a linear, sequential chain of blocks, where each block is cryptographically linked to the one before it. This data structure, pioneered by [Bitcoin](/what-is-bitcoin), has been the foundation for the vast majority of cryptocurrencies and [smart contract](/what-are-smart-contracts) platforms. However, it's not the only way to structure a decentralized ledger.
 

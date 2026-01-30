@@ -7,7 +7,6 @@ category: "Industry Insights"
 data-ai-hint: "man smile"
 ---
 
-
 ## Introduction: The Investor-Philosopher
 
 Chris Dixon is a General Partner at Andreessen Horowitz (a16z), where he co-founded and leads a16z crypto, one of the largest and most influential venture capital funds dedicated to the [Web3](/what-is-web3) space. A prolific essayist and thinker, Dixon has become one of the industry's most important translators, articulating the "why" behind Web3 to a broad audience of builders, investors, and skeptics.

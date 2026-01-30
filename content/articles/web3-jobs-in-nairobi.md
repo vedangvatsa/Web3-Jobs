@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Jobs in Nairobi: A Guide to East Africa's 'Silicon Savannah'"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "nairobi kenya city"
@@ -8,8 +7,6 @@ description: "A guide to the Web3 job market in Nairobi, Kenya. Explore how the 
 category: "Career Guides"
 
 ---
-
-
 
 Nairobi, the vibrant capital of Kenya, has earned the nickname "Silicon Savannah" for its role as East Africa's preeminent technology and innovation hub. The city has a long history of pioneering mobile-first financial solutions, most notably with the success of M-Pesa, which revolutionized mobile payments long before the rest of the world caught on. This deep-rooted culture of mobile innovation, combined with a growing community of tech talent and a focus on solving real-world challenges, has created a fertile ground for a thriving [Web3](/what-is-web3) ecosystem.
 
@@ -223,7 +220,7 @@ A: [Remote work](/remote-work-in-web3) is viable. Being in Nairobi 3-6 months he
 - [World Bank Innovation Fund](https://www.worldbank.org/): Development focus
 
 **Related Articles:**
-- [Web3 Career Growth & Development](web3-career-growth-and-development)
+
 - How to Find a Mentor in Web3
 - Building Strong Professional Relationships
 - [Understanding Web3 Consensus Mechanisms](understanding-web3-consensus-mechanism-architects)

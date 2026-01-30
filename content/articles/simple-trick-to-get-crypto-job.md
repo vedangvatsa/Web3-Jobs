@@ -1,6 +1,5 @@
 ---
 
-
 title: "This Simple Trick Will Dramatically Improve Your Chances of Getting a Crypto Job"
 image: "/images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg"
 data-ai-hint: "person writing notes"
@@ -8,8 +7,6 @@ description: "The secret to landing a Web3 job isn't a secret at all. It's about
 category: "Career Guides"
 
 ---
-
-
 
 The [Web3](/what-is-web3) job market is intensely competitive. Thousands of talented professionals are vying for a limited number of roles at top-tier protocols and companies. You've polished your [resume](/how-to-build-a-web3-resume-that-stands-out), you've built a [portfolio](/building-web3-portfolio), and you've been sending out applications, but you're getting lost in the noise. What can you do to stand out?
 

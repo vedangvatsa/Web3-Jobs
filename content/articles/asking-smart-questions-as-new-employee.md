@@ -7,7 +7,6 @@ image: "https://picsum.photos/seed/307/1200/630"
 data-ai-hint: "asking questions"
 ---
 
-
 ## Asking Smart Questions as a New Employee
 
 As a new hire, you're expected to have questions. Asking them intelligently will help you learn faster and impress your new colleagues.

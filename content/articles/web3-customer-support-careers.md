@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Customer Support Careers"
 image: "/images/bruce-mars-FWVMhUa_wbY-unsplash.jpg"
 data-ai-hint: "customer support headset"
@@ -8,8 +7,6 @@ description: "A guide to building a career in Web3 customer support. Learn how t
 category: "Career Guides"
 
 ---
-
-
 
 As the [Web3](/what-is-web3) ecosystem grows, a new and crucial role is emerging: the **Web3 Customer Support Specialist**. While the ethos of Web3 is "self-custody" and "don't trust, verify," the reality is that users, especially those new to crypto, need help. They get confused by wallets, they don't understand gas fees, and they are terrified of making a mistake that could cause them to lose their funds.
 

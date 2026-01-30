@@ -7,7 +7,6 @@ description: "An essential guide for aspiring blockchain developers. We break do
 category: "Educational"
 ---
 
-
 The world of [Web3](/what-is-web3) development is a landscape of rapid innovation, and at its foundation lies the code that powers decentralized applications and blockchains themselves. For aspiring developers looking to enter this space, a crucial first question is: "Which programming language should I learn?"
 
 Unlike Web2 development, where a few languages dominate the stack, the Web3 ecosystem is more polyglot. The language you choose will depend heavily on what you want to build. Are you interested in writing the [smart contracts](/what-are-smart-contracts) that power [DeFi](/what-is-defi) protocols? Building the lightning-fast blockchains of the future? Or creating the user-friendly frontends that bring Web3 to the masses?

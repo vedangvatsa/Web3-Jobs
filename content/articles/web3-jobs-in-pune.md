@@ -1,6 +1,5 @@
 ---
 
-
 title: "Web3 Jobs in Pune: A Guide to India's Rising Tech City"
 image: "/images/india web3 jobs.jpg"
 data-ai-hint: "pune city india"
@@ -8,8 +7,6 @@ description: "A guide to the Web3 job market in Pune. Discover the city's growin
 category: "Career Guides"
 
 ---
-
-
 
 Pune, long known as a major center for education and traditional IT, is rapidly carving out a new identity as a vibrant and fast-growing hub for [Web3](/what-is-web3) innovation. Nestled near India's financial capital, Mumbai, Pune offers a compelling combination of a high-quality engineering talent pool, a lower cost of living compared to major metros, and a dynamic startup culture. This has made it an increasingly attractive destination for both homegrown Web3 startups and global protocols looking to establish a development base in India.
 
