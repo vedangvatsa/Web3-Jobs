@@ -1428,15 +1428,15 @@ export async function getJobs(): Promise<Job[]> {
   
   let allJobs = Array.from(jobMap.values());
 
-  // Filter out jobs older than 15 days, but keep manual jobs forever
-  const fifteenDaysAgo = new Date();
-  fifteenDaysAgo.setDate(fifteenDaysAgo.getDate() - 15);
+  // Filter out jobs older than 30 days (1 month), but keep manual jobs forever
+  const thirtyDaysAgo = new Date();
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
 
   const freshJobs = allJobs.filter(job => {
       if (job.source === 'Manual') {
           return true;
       }
-      return new Date(job.date) > fifteenDaysAgo;
+      return new Date(job.date) > thirtyDaysAgo;
   });
 
   // Filter out unwanted company jobs and titles with asterisks
