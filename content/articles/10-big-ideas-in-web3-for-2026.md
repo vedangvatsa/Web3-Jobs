@@ -1,6 +1,6 @@
 ---
-title: "10 Big Ideas in Web3 for 2026: AI Agents, Tokenization, Account Abstraction & More"
-description: "Explore the top 10 Web3 trends and innovations shaping 2026: AI agents with crypto wallets, physical infrastructure networks (DePIN), real-world asset."
+title: "10 Big Ideas Shaping Web3 in 2026"
+description: "Explore the top 10 Web3 trends shaping 2026, including AI agents with wallets, DePIN growth, real world asset tokenization, and account abstraction."
 category: "Industry Insights"
 data-ai-hint: "web3 2026 trends innovations"
 image: "https://picsum.photos/seed/web3-trends-2026/1200/630"
