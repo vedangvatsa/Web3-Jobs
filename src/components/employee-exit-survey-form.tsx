@@ -1,4 +1,3 @@
-
 'use client';
 
 import * as React from 'react';
@@ -22,7 +21,7 @@ const surveySchema = z.object({
   employeeName: z.string().optional(),
   jobTitle: z.string().optional(),
   department: z.string().optional(),
-  lastDay: z.date(),
+  lastDay: z.date().optional(),
   reasonForLeaving: z.string().optional(),
   likes: z.string().optional(),
   dislikes: z.string().optional(),
@@ -37,7 +36,6 @@ export function EmployeeExitSurveyForm() {
   const form = useForm<SurveyData>({
     resolver: zodResolver(surveySchema),
     defaultValues: {
-        lastDay: new Date(),
         recommend: 'Yes',
         employeeName: '',
         jobTitle: '',
