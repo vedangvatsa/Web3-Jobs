@@ -10,9 +10,9 @@ category: "Technology Deep Dives"
 
 Ethereum's popularity is a double-edged sword. While it has become the dominant platform for smart contracts and decentralized applications, its success has led to network congestion and high transaction fees, making it slow and expensive for many users. The long-term vision to solve this involves [sharding the base layer](/how-sharding-improves-blockchain-scalability), but the primary solution that has emerged and gained massive traction today is **Layer 2 (L2) Rollups**.
 
-Rollups are the cornerstone of Ethereum's scaling strategy. They are secondary layers that execute transactions off-chain but post the transaction data back to the main Ethereum chain, inheriting its security and decentralization. This architecture allows rollups to offer significantly higher throughput and lower fees—often by a factor of 10-100x—making Ethereum applications viable for mainstream use.
+Rollups are the cornerstone of Ethereum's scaling strategy. They are secondary layers that execute transactions off-chain but post the transaction data back to the main Ethereum chain, inheriting its security and decentralization. This architecture allows rollups to offer significantly higher throughput and lower fees-often by a factor of 10-100x-making Ethereum applications viable for mainstream use.
 
-This guide provides a deep dive into the world of rollups, explaining the two main types—Optimistic and Zero-Knowledge (ZK)—and their crucial role in the future of a modular blockchain ecosystem.
+This guide provides a deep dive into the world of rollups, explaining the two main types-Optimistic and Zero-Knowledge (ZK)-and their crucial role in the future of a modular blockchain ecosystem.
 
 ### The Core Idea: Off-Chain Execution, On-Chain Data
 
@@ -63,7 +63,7 @@ The official Ethereum roadmap has fully embraced a "rollup-centric" future. The 
 
 The role of the Ethereum mainnet will evolve. Instead of being the primary execution layer, it will serve as the decentralized **settlement and data availability layer** for all the rollups built on top of it. Upgrades like EIP-4844 (Proto-Danksharding) are specifically designed to make it cheaper for rollups to post their data to the L1, which in turn makes L2 transactions even cheaper for the end-user.
 
-This modular design—where execution happens on L2s and settlement on L1—allows Ethereum to scale massively without compromising on the decentralization and security that make it valuable in the first place. For developers and users, this means the era of high fees and slow transactions is coming to an end. The future of Ethereum is fast, cheap, and being built on Layer 2.
+This modular design-where execution happens on L2s and settlement on L1-allows Ethereum to scale massively without compromising on the decentralization and security that make it valuable in the first place. For developers and users, this means the era of high fees and slow transactions is coming to an end. The future of Ethereum is fast, cheap, and being built on Layer 2.
 ## Related Articles
 
 - [10 Big Ideas In Web3 For 2025](10-big-ideas-in-web3-for-2025)
@@ -178,7 +178,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

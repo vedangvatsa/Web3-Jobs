@@ -35,7 +35,7 @@ This rigid separation is the root of Web3's UX problems. All of the complex logi
 
 ## EIP-4337: Account Abstraction Without Consensus Changes
 
-Previous proposals for Account Abstraction required a "hard fork"—a change to the core consensus rules of Ethereum, which is a slow and difficult process. The genius of EIP-4337, co-authored by Vitalik Buterin, is that it achieves Account Abstraction *without* changing the consensus layer.
+Previous proposals for Account Abstraction required a "hard fork"-a change to the core consensus rules of Ethereum, which is a slow and difficult process. The genius of EIP-4337, co-authored by Vitalik Buterin, is that it achieves Account Abstraction *without* changing the consensus layer.
 
 It does this by creating a separate, higher-level transaction mempool. Instead of sending standard transactions, users send "UserOperation" objects to this alternative mempool. Specialized nodes called "Bundlers" pick up these UserOperations, bundle them into a single standard transaction, and submit that transaction to a global "EntryPoint" smart contract on the blockchain.
 
@@ -79,7 +79,7 @@ A Smart Account can be programmed to execute multiple operations in a single tra
 
 Account Abstraction is not just an incremental improvement; it is a paradigm shift in how we interact with the blockchain. It moves the complexity away from the user and into the realm of programmable smart contracts, where it can be managed by developers.
 
-By enabling features like social recovery, gasless transactions, and session keys, EIP-4337 paves the way for dApps that are as secure, flexible, and easy to use as the best Web2 applications. It eliminates the sharpest edges of the crypto experience—seed phrases and gas fees—that have long been a barrier to entry for the average internet user.
+By enabling features like social recovery, gasless transactions, and session keys, EIP-4337 paves the way for dApps that are as secure, flexible, and easy to use as the best Web2 applications. It eliminates the sharpest edges of the crypto experience-seed phrases and gas fees-that have long been a barrier to entry for the average internet user.
 
 As the infrastructure for bundlers and paymasters becomes more robust and wallet providers increasingly adopt the EIP-4337 standard, Account Abstraction is set to become the default for a new generation of Web3 users. It is one of the most critical pieces of the puzzle for onboarding the next billion users to the decentralized web.
 
@@ -162,7 +162,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -174,7 +174,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

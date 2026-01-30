@@ -181,19 +181,19 @@ A: Huge. Ugandans abroad send $billions home. First team to solve remittances wi
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Free Web3 courses
-- [Innovation Village Bootcamp](https://innovationvillage.ug/) — Local training
-- [DeFi Education](https://defi-learning.org/) — Specialized knowledge
+- [Buildspace](https://buildspace.so/): Free Web3 courses
+- [Innovation Village Bootcamp](https://innovationvillage.ug/): Local training
+- [DeFi Education](https://defi-learning.org/): Specialized knowledge
 
 **Communities:**
-- [Innovation Village](https://innovationvillage.ug/) — Main hub
-- [Outbox Hub](https://www.outboxhub.com/) — Tech community
-- [Polygon Community](https://discord.gg/polygon) — Web3 builders
+- [Innovation Village](https://innovationvillage.ug/): Main hub
+- [Outbox Hub](https://www.outboxhub.com/): Tech community
+- [Polygon Community](https://discord.gg/polygon): Web3 builders
 
 **Job Boards:**
-- [Cryptojobs.xyz](https://cryptojobs.xyz/) — Web3 positions
-- [Upwork](https://upwork.com/) — Freelance work
-- [Hub Job Boards](https://innovationvillage.ug/jobs) — Local opportunities
+- [Cryptojobs.xyz](https://cryptojobs.xyz/): Web3 positions
+- [Upwork](https://upwork.com/): Freelance work
+- [Hub Job Boards](https://innovationvillage.ug/jobs): Local opportunities
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

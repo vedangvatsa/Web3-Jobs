@@ -156,7 +156,7 @@ Many consensus mechanisms rely on cryptographic assumptions (e.g., "if an attack
 - Incentive compatibility
 
 **Example Application:**
-Design a system where a rational participant prefers to validate honestly rather than attack the network. This isn't about trusting humans to be good—it's about making dishonesty economically irrational.
+Design a system where a rational participant prefers to validate honestly rather than attack the network. This isn't about trusting humans to be good-it's about making dishonesty economically irrational.
 
 ### 4. Academic Research Methodology
 

@@ -43,7 +43,7 @@ A reliable list of unique humans unlocks a host of powerful new applications:
 -   **Accessibility:** The process can be complex, and the ETH deposit required can be a barrier for some users.
 -   **Subjectivity:** The social vouching and challenge process can be subjective and lead to disputes.
 
-Proof of Humanity is a bold and fascinating experiment in decentralized identity. It's an attempt to solve one of the hardest problems in the space—sybil resistance—by creating a system that is part social network, part decentralized court, and part economic game. While it is not without its challenges, it offers a glimpse into a future where our digital identities are not just self-sovereign, but also verifiably human.
+Proof of Humanity is a bold and fascinating experiment in decentralized identity. It's an attempt to solve one of the hardest problems in the space-sybil resistance-by creating a system that is part social network, part decentralized court, and part economic game. While it is not without its challenges, it offers a glimpse into a future where our digital identities are not just self-sovereign, but also verifiably human.
 
 ## Why This Matters
 
@@ -106,7 +106,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

@@ -47,7 +47,7 @@ Once the RWA is tokenized, it becomes a composable "money lego" that can be inte
 
 ### Why is RWA Tokenization a Game-Changer?
 
-The benefits of creating digital twins for real-world assets are immense and flow in both directions—from TradFi to DeFi and back.
+The benefits of creating digital twins for real-world assets are immense and flow in both directions-from TradFi to DeFi and back.
 
 **1. Unlocking Global Liquidity for Illiquid Assets**
 -   **The Problem:** The world's largest asset classes, like real estate and private credit, are notoriously illiquid. Selling a building or a stake in a private company is a slow, expensive, and bespoke process.
@@ -139,7 +139,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

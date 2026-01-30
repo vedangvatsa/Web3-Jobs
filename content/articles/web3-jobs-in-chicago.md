@@ -43,7 +43,7 @@ The Chicago job market is highly competitive and offers lucrative compensation, 
 ### How to Build a Web3 Career in Chicago
 
 1.  **Leverage a Quantitative or TradFi Background:** This is the most significant advantage. If you have experience as a trader, quant, or financial engineer at a traditional firm in Chicago, your skills are in immediate demand. You need to supplement this with a deep understanding of DeFi protocols and market structure.
-2.  **Demonstrate Your "Alpha":** The quantitative trading world is about "alpha"—the ability to generate returns. Your "proof of work" should be a portfolio of your analytical skills.
+2.  **Demonstrate Your "Alpha":** The quantitative trading world is about "alpha"-the ability to generate returns. Your "proof of work" should be a portfolio of your analytical skills.
     - **For Quants/Analysts:** Write and publish a research paper on a DeFi market inefficiency. Create a Dune Analytics dashboard that tracks a sophisticated on-chain trading metric.
     - **For Engineers:** Build a simple market-making or arbitrage bot that operates on a testnet. Contribute to an open-source DeFi protocol.
 3.  **Network with the Trading Community:** The Chicago crypto scene is tight-knit. Attend FinTech and crypto-specific meetups and events. Build relationships with individuals at the major trading firms and DeFi projects.
@@ -132,7 +132,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -144,7 +144,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

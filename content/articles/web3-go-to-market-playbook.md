@@ -16,7 +16,7 @@ category: "Industry Insights"
 
 Launching a project in Web3 requires a fundamentally different approach than in the traditional tech world. The old go-to-market (GTM) playbook of paid ads and sales-driven funnels is often ineffective and can even be counterproductive in a culture that values organic community and authenticity above all else.
 
-A successful Web3 GTM strategy is a delicate art, blending [community building](/web3-community-manager-career), transparent communication, and a deep understanding of crypto-native growth loops. In a decentralized ecosystem, your community isn't just your audience—they're your co-owners, your evangelists, and your most valuable source of feedback.
+A successful Web3 GTM strategy is a delicate art, blending [community building](/web3-community-manager-career), transparent communication, and a deep understanding of crypto-native growth loops. In a decentralized ecosystem, your community isn't just your audience-they're your co-owners, your evangelists, and your most valuable source of feedback.
 
 This guide provides a playbook for launching and scaling a Web3 project, focusing on the strategies and metrics that truly matter in a decentralized ecosystem.
 
@@ -133,7 +133,7 @@ Airdropping tokens to early users of your protocol (or related protocols) has be
 However, airdrop design matters:
 - If too easy to game, you get sybil farmers, not real users
 - If too exclusive, you lose potential users
-- The amount matters—too small and people ignore it; too large and it attracts the wrong people
+- The amount matters-too small and people ignore it; too large and it attracts the wrong people
 
 **Content and Thought Leadership:**
 In a complex space, education is marketing. The projects that win are often those that best explain complex topics through:
@@ -152,7 +152,7 @@ Growth in Web3 often comes from integration:
 - Cross-protocol liquidity sharing
 - Building on top of existing protocols
 
-These partnerships drive adoption through composability—the ability to combine protocols together.
+These partnerships drive adoption through composability-the ability to combine protocols together.
 
 **Governance-First Growth:**
 Projects like Uniswap and Aave prove that active governance can be a GTM strategy:
@@ -186,7 +186,7 @@ A successful Web3 go-to-market strategy is less about loud advertising and more 
 3. **Maintaining transparency** even when it's uncomfortable
 4. **Letting users become your growth engine** because they genuinely want to advocate for you
 
-The best GTM strategy in Web3 isn't a strategy at all—it's simply building something so valuable that people can't help but tell their friends. In a culture suspicious of centralized marketing, authentic community-driven growth is not just more ethical—it's more effective.
+The best GTM strategy in Web3 isn't a strategy at all-it's simply building something so valuable that people can't help but tell their friends. In a culture suspicious of centralized marketing, authentic community-driven growth is not just more ethical-it's more effective.
 
 ### The Core Principle: Community-Led Growth
 

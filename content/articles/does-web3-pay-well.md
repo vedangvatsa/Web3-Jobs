@@ -20,7 +20,7 @@ This guide will explore the reasons behind the high earning potential in Web3, p
 ### The Economic Drivers of High Web3 Salaries
 
 **1. A Massive Imbalance in Supply and Demand**
-This is the single most important factor. The demand for skilled Web3 professionals—not just developers, but also marketers, product managers, and community builders—massively outstrips the available supply.
+This is the single most important factor. The demand for skilled Web3 professionals-not just developers, but also marketers, product managers, and community builders-massively outstrips the available supply.
 - **Influx of Capital:** The industry is fueled by billions of dollars in venture capital. These funds are primarily used to hire talent, creating intense competition among projects to attract the best minds.
 - **Specialized Skillset:** Working in Web3 requires a unique, hybrid skillset. A developer needs to be a security expert. A marketer needs to be a community anthropologist. This specialization creates a smaller talent pool.
 
@@ -129,7 +129,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -141,7 +141,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

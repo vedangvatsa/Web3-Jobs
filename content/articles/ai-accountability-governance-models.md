@@ -32,13 +32,13 @@ Third, blockchain-based voting and decision-making can create accountability at 
 
 Several blockchain projects are already experimenting with these models. Uniswap, a decentralized exchange with billions in assets under management, uses a DAO governance structure where token holders vote on system updates. When they deploy new features or change parameters, the process is transparent and auditable.
 
-Some AI companies are beginning to adopt similar models. A few blockchain-based oracles—systems that feed external data into smart contracts—have implemented governance structures where the oracle network collectively votes on updates. This creates accountability for the data being provided.
+Some AI companies are beginning to adopt similar models. A few blockchain-based oracles-systems that feed external data into smart contracts-have implemented governance structures where the oracle network collectively votes on updates. This creates accountability for the data being provided.
 
 More sophisticated approaches are emerging. Some projects are exploring using zero-knowledge proofs to audit AI systems without exposing proprietary details. Others are building "AI DAOs" where multiple stakeholders jointly oversee training processes and deployment decisions.
 
 ## The Challenge of Implementation
 
-None of this solves every problem. Blockchain governance has its own weaknesses. Voter apathy can lead to low participation rates, meaning a small group of motivated stakeholders controls outcomes. Wealthy participants can accumulate voting power, recreating the centralization problem. Complex technical decisions don't always benefit from majority voting—sometimes expert judgment matters more.
+None of this solves every problem. Blockchain governance has its own weaknesses. Voter apathy can lead to low participation rates, meaning a small group of motivated stakeholders controls outcomes. Wealthy participants can accumulate voting power, recreating the centralization problem. Complex technical decisions don't always benefit from majority voting-sometimes expert judgment matters more.
 
 There's also the question of who participates. A true accountability structure needs to include affected users and communities, not just token holders. This requires thinking carefully about who gets voting power and how to prevent wealth from determining outcomes.
 
@@ -189,7 +189,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -201,7 +201,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

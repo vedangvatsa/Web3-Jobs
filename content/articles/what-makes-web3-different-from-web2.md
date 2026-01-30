@@ -61,7 +61,7 @@ Your online identity is a key battleground between the two paradigms.
 
 ### Conclusion: A More Equitable Internet
 
-Web3 is not just about a new set of technologies; it's a philosophical and political movement. It's a response to the problems of a centralized internet—the data monopolies, the censorship, and the misaligned incentives of the attention economy. By leveraging blockchain technology to create a decentralized foundation, Web3 aims to build a more open, equitable, and user-owned internet. The transition will be long and complex, but the fundamental differences in its architecture and values represent one of the most significant shifts in the history of the web.
+Web3 is not just about a new set of technologies; it's a philosophical and political movement. It's a response to the problems of a centralized internet-the data monopolies, the censorship, and the misaligned incentives of the attention economy. By leveraging blockchain technology to create a decentralized foundation, Web3 aims to build a more open, equitable, and user-owned internet. The transition will be long and complex, but the fundamental differences in its architecture and values represent one of the most significant shifts in the history of the web.
 
 ## The Web3 Opportunity
 
@@ -142,7 +142,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -154,7 +154,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

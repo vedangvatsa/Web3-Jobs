@@ -20,7 +20,7 @@ A whitepaper is a multi-purpose document that serves several key functions:
 
 1.  **To Explain the Vision and Problem:** It must clearly articulate the problem it is trying to solve and present a compelling vision for a better future.
 2.  **To Detail the Technical Solution:** It needs to explain *how* the project's technology works. For a new blockchain, this would involve detailing the consensus mechanism. For a new DeFi protocol, it would explain the mathematical formulas behind its smart contracts.
-3.  **To Outline the Tokenomics:** It must describe the project's economic model—the design and purpose of its native token, including its supply, distribution, and utility.
+3.  **To Outline the Tokenomics:** It must describe the project's economic model-the design and purpose of its native token, including its supply, distribution, and utility.
 4.  **To Present the Roadmap:** It should lay out a high-level plan for the project's future development and key milestones.
 5.  **To Build Credibility:** A well-written, thoroughly researched, and professional whitepaper signals that the project is led by a serious and competent team.
 
@@ -138,7 +138,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -150,7 +150,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

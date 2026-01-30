@@ -214,19 +214,19 @@ A: Remote work is viable from Brazzaville. If you want enterprise sales experien
 ### Resources
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Free Web3 fundamentals
-- [Hyperledger Learning](https://www.hyperledger.org/learning) — Enterprise blockchain
-- [Supply Chain on Blockchain](https://www.coursera.org/courses?query=blockchain%20supply%20chain) — Specialized courses
+- [Buildspace](https://buildspace.so/): Free Web3 fundamentals
+- [Hyperledger Learning](https://www.hyperledger.org/learning): Enterprise blockchain
+- [Supply Chain on Blockchain](https://www.coursera.org/courses?query=blockchain%20supply%20chain): Specialized courses
 
 **Communities:**
-- [Polygon Community](https://discord.gg/polygon) — Multi-lingual Web3
-- [Enterprise Ethereum Alliance](https://entethalliance.org/) — Corporate blockchain
-- [African Tech Communities](https://twitter.com/search?q=african%20tech%20communities) — Regional networks
+- [Polygon Community](https://discord.gg/polygon): Multi-lingual Web3
+- [Enterprise Ethereum Alliance](https://entethalliance.org/): Corporate blockchain
+- [African Tech Communities](https://twitter.com/search?q=african%20tech%20communities): Regional networks
 
 **Job Boards:**
-- [Cryptojobs.xyz](https://cryptojobs.xyz/) — Web3 positions
-- [LinkedIn](https://linkedin.com) — Enterprise roles
-- [Consulting Platforms](https://www.toptal.com/) — Freelance consulting
+- [Cryptojobs.xyz](https://cryptojobs.xyz/): Web3 positions
+- [LinkedIn](https://linkedin.com): Enterprise roles
+- [Consulting Platforms](https://www.toptal.com/): Freelance consulting
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

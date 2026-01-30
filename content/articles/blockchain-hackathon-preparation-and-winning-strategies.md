@@ -28,7 +28,7 @@ Success at a hackathon starts before you write a single line of code.
 -   **Where to Find a Team:** Use the hackathon's official Discord server. There will be dedicated channels for team formation. Start looking for a team a week or two *before* the event.
 
 **2. Study the Sponsors and Bounties:**
--   Every hackathon has sponsors (often Layer 1s, L2s, or DeFi protocols). These sponsors offer "bounties"—prizes for projects that successfully use their technology.
+-   Every hackathon has sponsors (often Layer 1s, L2s, or DeFi protocols). These sponsors offer "bounties"-prizes for projects that successfully use their technology.
 -   **Strategy:** Go to the hackathon's website and study the list of sponsors and their bounties. This is crucial. Your project idea should be tailored to solving a problem that aligns with one or more of these bounties.
 
 **3. Set Up Your Development Environment:**
@@ -149,7 +149,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -161,7 +161,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

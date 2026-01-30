@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-Bissau, the capital of Guinea-Bissau, is a city at the very frontier of the digital world. As one of the least developed countries in West Africa, it faces significant infrastructure and economic challenges. However, it is in these very environments that the core value propositions of Web3—decentralization, financial inclusion, and permissionless access—can have the most profound impact. The Web3 ecosystem in Bissau is nascent and largely non-existent in a formal sense, but a small and growing number of individuals and organizations are beginning to explore its potential.
+Bissau, the capital of Guinea-Bissau, is a city at the very frontier of the digital world. As one of the least developed countries in West Africa, it faces significant infrastructure and economic challenges. However, it is in these very environments that the core value propositions of Web3-decentralization, financial inclusion, and permissionless access-can have the most profound impact. The Web3 ecosystem in Bissau is nascent and largely non-existent in a formal sense, but a small and growing number of individuals and organizations are beginning to explore its potential.
 
 This guide provides a forward-looking perspective on what a Web3 career path related to Bissau and Guinea-Bissau could look like. It focuses on the opportunities for social impact, the skills needed to build in a frontier environment, and the primary path of leveraging remote work to participate in the global decentralized economy.
 
@@ -182,7 +182,7 @@ A junior developer earning $2,500/month in Bissau-Guinean Peso (XOF):
 - **Impact:** Learning happens in isolation, no local job market
 - **Solutions:**
   - Build online-first (communities, projects, reputation all online)
-  - Become the local expert—be first, not best
+  - Become the local expert-be first, not best
   - Focus entirely on international roles and opportunities
   - Create local opportunities (start meetup, education program, startup)
 
@@ -243,10 +243,10 @@ A junior developer earning $2,500/month in Bissau-Guinean Peso (XOF):
 A: Political instability doesn't affect remote Web3 work. You work online, earn in crypto/USD, live wherever stable. Many successful builders are in "unstable" countries because low cost of living + crypto means wealth-building potential is highest. Being there gives you unique perspective.
 
 **Q: Do I need to speak Portuguese?**
-A: For international roles: no. For helping Lusophone communities: yes, highly valuable. Portuguese speakers are rare in Web3—your competitive advantage. Learning Portuguese takes 6-12 months; this actually increases your value.
+A: For international roles: no. For helping Lusophone communities: yes, highly valuable. Portuguese speakers are rare in Web3-your competitive advantage. Learning Portuguese takes 6-12 months; this actually increases your value.
 
 **Q: Is the Lusophone advantage real?**
-A: Absolutely. Brazil, Portugal, Angola, and Mozambique have growing Web3 scenes. Portuguese-speaking Web3 people are scarce. You're ethnically positioned for Lusophone markets—this is a genuine advantage. Lean into it.
+A: Absolutely. Brazil, Portugal, Angola, and Mozambique have growing Web3 scenes. Portuguese-speaking Web3 people are scarce. You're ethnically positioned for Lusophone markets-this is a genuine advantage. Lean into it.
 
 **Q: How much money do I need to get started?**
 A: Minimal. $0 if you have a computer and internet. You might spend: $5-10/month for internet/electricity, $100-300 for a course or domain name. Total: $100-500 to fully launch. Money is not the barrier.
@@ -267,7 +267,7 @@ A: Start with fundamentals (JavaScript, APIs, databases). Learn Solidity after 2
 A: Post in Discord: "Looking for mentor in [field]. I'm committed to learning. Happy to help with [what you can offer]." Mentorship flows both ways. Offer value. Real mentors appear when you show initiative and gratitude.
 
 **Q: Is it possible to earn $2,000+/month?**
-A: From Bissau, yes—absolutely. Timeline: 8-12 months. Path: (1) Learn 3-4 months, (2) Freelance 2-3 months ($500-1000/month), (3) Full-time role 3+ months ($2,000-4,000+/month). It's doable.
+A: From Bissau, yes-absolutely. Timeline: 8-12 months. Path: (1) Learn 3-4 months, (2) Freelance 2-3 months ($500-1000/month), (3) Full-time role 3+ months ($2,000-4,000+/month). It's doable.
 
 **Q: What's the biggest risk?**
 A: Not starting, or quitting too early. Learning takes longer than you expect (6-12 months, not 2-3). Persistence is the actual edge. Everyone quits around month 4 when it gets hard. Don't.
@@ -278,24 +278,24 @@ A: Yes. You don't need venture capital to start. Start with funding from global 
 ### Resources & Tools
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Free, cohort-based Web3 development
-- [CryptoZombies](https://cryptozombies.io/) — Interactive Solidity
-- [Ethereum.org Learning Portal](https://ethereum.org/en/developers/learning-tools/) — Comprehensive Ethereum dev resources
+- [Buildspace](https://buildspace.so/): Free, cohort-based Web3 development
+- [CryptoZombies](https://cryptozombies.io/): Interactive Solidity
+- [Ethereum.org Learning Portal](https://ethereum.org/en/developers/learning-tools/): Comprehensive Ethereum dev resources
 
 **Job Boards & Opportunities:**
-- [Cryptojobs.xyz](https://cryptojobs.xyz/) — Aggregates Web3 jobs
-- [Web3.career](https://web3.career/) — Remote Web3 positions
-- [Buildspace Dashboard](https://buildspace.so/) — Direct connections to companies hiring
+- [Cryptojobs.xyz](https://cryptojobs.xyz/): Aggregates Web3 jobs
+- [Web3.career](https://web3.career/): Remote Web3 positions
+- [Buildspace Dashboard](https://buildspace.so/): Direct connections to companies hiring
 
 **Communities (Lusophone Focus):**
-- [Lusophone Web3 Community](https://twitter.com/search?q=lusophone%20web3) — Portuguese-speaking builders
-- [Polygon Community](https://discord.gg/polygon) — Multi-lingual Web3 community
-- [ReFi DAO](https://refidao.com/) — Impact-focused Web3 builders
+- [Lusophone Web3 Community](https://twitter.com/search?q=lusophone%20web3): Portuguese-speaking builders
+- [Polygon Community](https://discord.gg/polygon): Multi-lingual Web3 community
+- [ReFi DAO](https://refidao.com/): Impact-focused Web3 builders
 
 **For Impact Builders:**
-- [Polygon Grants](https://polygon.technology/grants/) — Up to $100k
-- [Optimism Grants](https://www.optimism.io/grants/) — Support impact projects
-- [Gitcoin Grants](https://grants.gitcoin.co/) — Community-funded projects
+- [Polygon Grants](https://polygon.technology/grants/): Up to $100k
+- [Optimism Grants](https://www.optimism.io/grants/): Support impact projects
+- [Gitcoin Grants](https://grants.gitcoin.co/): Community-funded projects
 
 **Related Articles:**
 - [Understanding Web3 Consensus Mechanisms](understanding-web3-consensus-mechanism-architects)

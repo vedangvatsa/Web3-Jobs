@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-In the fast-paced and often hype-driven world of Web3, marketing is a double-edged sword. On one hand, you need to generate excitement and build a community around your project. On the other hand, there is a fine line between legitimate marketing and "shilling"—the disingenuous promotion of a token for short-term gain.
+In the fast-paced and often hype-driven world of Web3, marketing is a double-edged sword. On one hand, you need to generate excitement and build a community around your project. On the other hand, there is a fine line between legitimate marketing and "shilling"-the disingenuous promotion of a token for short-term gain.
 
 For **[Web3 marketing professionals](/crypto-marketing-jobs)**, navigating this line is the key to building a sustainable brand and a healthy, long-term community. Shilling might create a temporary price pump, but it erodes the most valuable asset any project has: trust. This guide provides a framework for how to market your Web3 project ethically and effectively, without resorting to shilling.
 
@@ -40,7 +40,7 @@ A strong community is your most powerful marketing engine.
 
 -   **Foster Discussion, Not Hype:** In your Discord, encourage technical questions and debates about the future of the protocol. Discourage "wen token" and price-only discussions.
 -   **Be Transparent:** Host regular community calls where the core team provides updates on development progress and answers tough questions from the community.
--   **Reward Contributors, Not Shillers:** Create incentive programs that reward community members for meaningful contributions—like writing documentation, helping other users, or submitting a pull request—not just for tweeting about the token price.
+-   **Reward Contributors, Not Shillers:** Create incentive programs that reward community members for meaningful contributions-like writing documentation, helping other users, or submitting a pull request-not just for tweeting about the token price.
 
 **3. Practice Transparent Influencer Marketing**
 
@@ -140,7 +140,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -152,7 +152,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

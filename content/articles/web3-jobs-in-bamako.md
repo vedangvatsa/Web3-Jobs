@@ -212,16 +212,16 @@ A: First freelance gigs: 3-4 months of learning. Full-time salary ($2,000+/month
 A: First 3 months: learning (80% learning, 20% building). Months 4-6: balanced (60% learning, 40% earning). Month 7+: earning with continuous learning (80% earning, 20% learning). Your goal is compounding skills while building financial runway.
 
 **Q: Is it realistic to build a startup in Bamako?**
-A: Yes. It's actually advantageous: you understand the local problem deeply, you're solving for a large underserved market, and funding for impact projects exists globally. The barrier is not location—it's execution.
+A: Yes. It's actually advantageous: you understand the local problem deeply, you're solving for a large underserved market, and funding for impact projects exists globally. The barrier is not location-it's execution.
 
 **Q: How do I stay safe from scams?**
-A: (1) Only work with companies listed on CoinGecko or DefiLlama, (2) Get contracts in writing, (3) Use escrow for freelance work, (4) Trust your gut—if something feels off, it probably is, (5) Get referrals from verified community members.
+A: (1) Only work with companies listed on CoinGecko or DefiLlama, (2) Get contracts in writing, (3) Use escrow for freelance work, (4) Trust your gut-if something feels off, it probably is, (5) Get referrals from verified community members.
 
 **Q: Can I work full-time while studying?**
 A: Absolutely. Many do. Strategy: Study 3-4 hours early morning before work, or 2-3 hours late evening. Weekends for deeper learning. Your first 3 months will be intense, but worth it.
 
 **Q: What's the best time to apply for jobs?**
-A: After 4-6 months of consistent learning and 2-3 complete projects. Don't wait to "feel ready"—people learn fastest while working. Apply at month 4, even if nervous.
+A: After 4-6 months of consistent learning and 2-3 complete projects. Don't wait to "feel ready"-people learn fastest while working. Apply at month 4, even if nervous.
 
 **Q: Should I focus on Solidity or full-stack?**
 A: Full-stack first (JavaScript/React). It has way more job opportunities. Learn Solidity after 3-6 months once you understand blockchain basics. Most entry-level roles value full-stack more.
@@ -233,24 +233,24 @@ A: Meetups, Twitter, Discord, and tech hubs. Post: "Building [project] in Bamako
 A: Unlikely if you persist. But even if you don't land a Web3 role, you've learned JavaScript/blockchain. These skills are highly valuable globally and pay well. You don't lose.
 
 **Q: How often should I network?**
-A: Weekly minimum. Post on Twitter 2-3x/week. Engage in Discord daily. Attend local meetup or call with mentor weekly. Networking is work—consistency compounds.
+A: Weekly minimum. Post on Twitter 2-3x/week. Engage in Discord daily. Attend local meetup or call with mentor weekly. Networking is work-consistency compounds.
 
 ### Resources to Get Started
 
 **Learning Platforms:**
-- [Buildspace](https://buildspace.so/) — Free, project-based Web3 courses with friends
-- [Cryptozombies](https://cryptozombies.io/) — Fun Solidity learning game
-- [The Graph Academy](https://thegraph.academy/) — Query blockchain data
+- [Buildspace](https://buildspace.so/): Free, project-based Web3 courses with friends
+- [Cryptozombies](https://cryptozombies.io/): Fun Solidity learning game
+- [The Graph Academy](https://thegraph.academy/): Query blockchain data
 
 **Sahel/West Africa Communities:**
-- [Senegal Web3 Community](https://twitter.com/search?q=senegal%20web3) — Broader regional ecosystem
-- [Francophone Web3 Discord](https://discord.gg/francoweb3) — French-speaking builders
-- [ReFi DAO](https://refidao.com/) — Impact-focused Web3
+- [Senegal Web3 Community](https://twitter.com/search?q=senegal%20web3): Broader regional ecosystem
+- [Francophone Web3 Discord](https://discord.gg/francoweb3): French-speaking builders
+- [ReFi DAO](https://refidao.com/): Impact-focused Web3
 
 **For Entrepreneurs:**
-- [Polygon Grants](https://polygon.technology/grants/) — Up to $100k for builders
-- [Optimism Grants](https://www.optimism.io/grants/) — Support for impact projects
-- [ImpactDAO](https://www.impactdao.xyz/) — Web3 for social good
+- [Polygon Grants](https://polygon.technology/grants/): Up to $100k for builders
+- [Optimism Grants](https://www.optimism.io/grants/): Support for impact projects
+- [ImpactDAO](https://www.impactdao.xyz/): Web3 for social good
 
 **Related Career Guides:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

@@ -208,7 +208,7 @@ A: Absolutely. Remote work is the model. Build your reputation and skills global
 A: Requirements: Steady income (USD $2,000+/month), valid passport, health insurance. Apply online. Fee: NAD 8,000 (~$430). Valid for 12 months, renewable.
 
 **Q: Is conservation really viable as a blockchain niche?**
-A: Absolutely. Global conservation budgets: billions. Transparency and fund tracking are huge needs. Carbon markets booming. This is not speculative—it's a real problem Web3 solves.
+A: Absolutely. Global conservation budgets: billions. Transparency and fund tracking are huge needs. Carbon markets booming. This is not speculative-it's a real problem Web3 solves.
 
 **Q: How do I partner with conservation organizations?**
 A: Build something first (proof-of-concept). Then approach: WWF Namibia, Gondwana Collection, Desert Research Foundation, BNEF. Show clear value proposition.
@@ -234,24 +234,24 @@ A: Monthly expenses (comfortable): $1,200-$1,800 (rent + living). Visa cost: $43
 ### Resources to Launch
 
 **Learning:**
-- [Buildspace](https://buildspace.so/) — Web3 fundamentals
-- [Toucan Protocol Academy](https://toucan.earth/learn) — Carbon credit blockchain
-- [ReFi Academy](https://refiacademy.io/) — Regenerative finance
+- [Buildspace](https://buildspace.so/): Web3 fundamentals
+- [Toucan Protocol Academy](https://toucan.earth/learn): Carbon credit blockchain
+- [ReFi Academy](https://refiacademy.io/): Regenerative finance
 
 **Communities:**
-- [ReFi DAO](https://refidao.com/) — Regenerative finance builders
-- [Polygon Community](https://discord.gg/polygon) — Diverse Web3
-- [Impact DAO](https://www.impactdao.xyz/) — Social impact focus
+- [ReFi DAO](https://refidao.com/): Regenerative finance builders
+- [Polygon Community](https://discord.gg/polygon): Diverse Web3
+- [Impact DAO](https://www.impactdao.xyz/): Social impact focus
 
 **Local Resources:**
-- [Windhoek Tech Community](https://twitter.com/search?q=windhoek%20tech) — Local network
-- [Namibia Digital Economy](https://www.ncci.org.na/) — Business development
-- [Sustainability Organizations](https://nacso.org.na/) — Conservation connections
+- [Windhoek Tech Community](https://twitter.com/search?q=windhoek%20tech): Local network
+- [Namibia Digital Economy](https://www.ncci.org.na/): Business development
+- [Sustainability Organizations](https://nacso.org.na/): Conservation connections
 
 **Funding Sources:**
-- [Polygon Grants](https://polygon.technology/grants/) — Up to $100k
-- [Optimism Grants](https://www.optimism.io/grants/) — Impact projects
-- [Gitcoin Grants](https://grants.gitcoin.co/) — Community funding
+- [Polygon Grants](https://polygon.technology/grants/): Up to $100k
+- [Optimism Grants](https://www.optimism.io/grants/): Impact projects
+- [Gitcoin Grants](https://grants.gitcoin.co/): Community funding
 
 **Related Articles:**
 - [Web3 Career Growth & Development](web3-career-growth-and-development)

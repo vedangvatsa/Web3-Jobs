@@ -40,7 +40,7 @@ Pick a project that you are genuinely passionate about and that you believe has 
 
 #### Step 2: Identify a Small, Solvable Problem
 
-Your goal here is to find a "pebble in the shoe"—a small annoyance or gap that is a persistent problem but may not be a top priority for the core team.
+Your goal here is to find a "pebble in the shoe"-a small annoyance or gap that is a persistent problem but may not be a top priority for the core team.
 
 **How to find problems:**
 -   **Read the Documentation:** Is it confusing? Are there typos? Is a key tutorial missing?
@@ -183,7 +183,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -195,7 +195,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

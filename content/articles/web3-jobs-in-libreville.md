@@ -52,7 +52,7 @@ The job market in Libreville is highly specialized and geared towards profession
 
 ### Local Opportunities (Rare & Emerging)
 - **ReFi Project Coordinator (International NGO):** XAF 500,000–1,000,000/month (~$840–$1,680 USD)
-- **Junior Blockchain Developer:** XAF 600,000–1,200,000/month (~$1,000–$2,000 USD) — contract basis with international projects
+- **Junior Blockchain Developer:** XAF 600,000–1,200,000/month (~$1,000–$2,000 USD): contract basis with international projects
 - **Environmental Data Analyst:** XAF 700,000–1,400,000/month (~$1,180–$2,350 USD)
 
 ### Remote Opportunities (Highly Recommended)
@@ -61,7 +61,7 @@ The job market in Libreville is highly specialized and geared towards profession
 - **Climate Data Specialist:** $3,500–$7,000/month
 - **Community Manager (ReFi Focus):** $2,000–$4,500/month
 
-**Cost of Living Advantage:** Libreville is more expensive than most African cities (~$1,000–$1,500/month), but a $5,000 remote salary still yields 67–80% savings—exceptional for funding climate/impact work.
+**Cost of Living Advantage:** Libreville is more expensive than most African cities (~$1,000–$1,500/month), but a $5,000 remote salary still yields 67–80% savings-exceptional for funding climate/impact work.
 
 ## 3 Proven Career Paths to $6,000+/Month in Libreville
 
@@ -166,7 +166,7 @@ The job market in Libreville is highly specialized and geared towards profession
 - *Reality:* Gabon's economy is oil-dependent; Web3 adoption is not a priority for the government.
 - *Solution:* Position Web3 as a tool for their stated goal: conservation revenue. The Gabonese government has already issued carbon credits; blockchain makes this more transparent and valuable. You're not selling Web3; you're selling better conservation economics.
 
-**Challenge 2: The "ReFi Winter" — Declining Impact Climate Funding**
+**Challenge 2: The "ReFi Winter": Declining Impact Climate Funding**
 - *Reality:* Climate funding cycles are cyclical. ReFi projects are still experimental; many may fail.
 - *Solution:* This is actually good for you. Embrace it. Specialization in ReFi, especially MRV and data, is rare. As the market matures, specialists become invaluable. Your focus now = your competitive moat later.
 
@@ -339,7 +339,7 @@ Faster path: Focus on rare specialization (MRV data, formal verification of carb
 - **Local:** Gabon startup scene (CEVITA accelerator, local tech hubs)
 
 ### Job Boards & Applications
-- **Our Web3 Job Board** (/jobs) — remote ReFi and climate roles
+- **Our Web3 Job Board** (/jobs): remote ReFi and climate roles
 - **Climaworks Job Board:** Climate tech and ReFi positions
 - **Crypto.jobs:** Filter by "climate" or "impact"
 - **LinkedIn:** Search "ReFi Engineer Remote" or "Climate Finance Blockchain"
@@ -360,8 +360,8 @@ Faster path: Focus on rare specialization (MRV data, formal verification of carb
 
 ### Related Career Guides
 Explore these guides to understand complementary roles and regional context:
-- [Web3 Jobs in Kinshasa](web3-jobs-in-kinshasa) — DRC conservation + supply chain
-- [Web3 Jobs in Kampala](web3-jobs-in-kampala) — East Africa fintech + impact
+- [Web3 Jobs in Kinshasa](web3-jobs-in-kinshasa): DRC conservation + supply chain
+- [Web3 Jobs in Kampala](web3-jobs-in-kampala): East Africa fintech + impact
 - Complete Web3 Skills Guide
 - ReFi and Impact Investing Career Guide
 - Remote Web3 Careers Guide

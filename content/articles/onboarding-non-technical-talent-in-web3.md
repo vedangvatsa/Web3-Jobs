@@ -40,7 +40,7 @@ The first week should be focused entirely on learning and immersion, not on spec
 
 In the second week, the focus shifts to understanding your specific project at a deep level.
 
--   **Internal Meetings:** Have the new hire sit in on as many meetings as possible—engineering stand-ups, product reviews, community calls. Their job is to be a sponge.
+-   **Internal Meetings:** Have the new hire sit in on as many meetings as possible-engineering stand-ups, product reviews, community calls. Their job is to be a sponge.
 -   **Paired Mentorship:** Assign them an "onboarding buddy" from a technical team (like an engineer or a product manager). This buddy can answer their "stupid questions" in a safe, 1-on-1 setting.
 -   **"Explain it to Me Like I'm 5":** Have the new hire write a short document explaining what the protocol does in the simplest terms possible. This forces them to solidify their understanding and provides a valuable piece of content for the project.
 
@@ -148,7 +148,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -160,7 +160,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

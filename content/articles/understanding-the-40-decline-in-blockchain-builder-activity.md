@@ -21,7 +21,7 @@ The exodus of developer talent from crypto projects comes at a critical juncture
 Ethereum, Solana, and Cosmos Network Stack lead in both developer engagement and code commits, but all major chains have experienced recent declines in activity. Developer activity is a critical metric for ecosystem health, often preceding value creation and innovation.
 
 ### The Alarming Drop in Blockchain Developer Activity
-Data from crypto metrics aggregator Artemis Terminal reveals a stark reality: weekly active developers in the crypto space have fallen from approximately 12,000 in April 2024 to just 7,290 by March 2025—a 40% decrease in a single year. Even more concerning, this figure dipped below 5,270 in late December 2024 before slightly recovering in January.
+Data from crypto metrics aggregator Artemis Terminal reveals a stark reality: weekly active developers in the crypto space have fallen from approximately 12,000 in April 2024 to just 7,290 by March 2025-a 40% decrease in a single year. Even more concerning, this figure dipped below 5,270 in late December 2024 before slightly recovering in January.
 
 This decline isn’t isolated to a few projects. According to Artemis data, the crypto space encompasses over 1,500 ecosystems, many with multiple sub-ecosystems, suggesting the downturn is widespread. Other sources confirm similar numbers, with some reporting the decline at 38.6% year-over-year.
 
@@ -29,7 +29,7 @@ This decline isn’t isolated to a few projects. According to Artemis data, the 
 For specific platforms like Solana, the trend is particularly concerning. Despite Solana’s strong price performance, its core developer count has been declining since 2022, while competitor Ethereum has maintained steady growth in its developer base. This disparity highlights how market performance doesn’t necessarily correlate with developer retention.
 
 ### The Critical Role of Developers in Blockchain Ecosystems
-Why does developer activity matter so much? Developers are the lifeblood of blockchain technology—they build applications, maintain protocols, and drive innovation. A reduction in developer activity suggests decreased innovation and inadequate maintenance across crypto protocols, raising serious doubts about the industry’s long-term viability.
+Why does developer activity matter so much? Developers are the lifeblood of blockchain technology-they build applications, maintain protocols, and drive innovation. A reduction in developer activity suggests decreased innovation and inadequate maintenance across crypto protocols, raising serious doubts about the industry’s long-term viability.
 
 Binji Pande, a contributor to the Ethereum-based layer-2 network Optimism, explains that the decline indicates “attention has shifted, incentives have dried up, and speculation is moving faster than utility in the crypto space”. Pande argues that the industry has become “rife with narrative-led development when there should be more development-led narratives”.
 
@@ -45,7 +45,7 @@ Flanders places much of the blame on venture capitalists: “I think the VCs are
 Looking at early-stage funding (angel, pre-seed, and seed rounds), the situation appears even more dire, particularly concerning since these rounds typically fund the most innovative ideas.
 
 ### AI vs. Crypto
-As crypto struggles to attract venture funding, artificial intelligence has emerged as the preferred destination for investment dollars. In Q1 2025, U.S. crypto venture funding reached approximately $861 million—a respectable figure until compared with AI’s nearly $20 billion haul during the same period.
+As crypto struggles to attract venture funding, artificial intelligence has emerged as the preferred destination for investment dollars. In Q1 2025, U.S. crypto venture funding reached approximately $861 million-a respectable figure until compared with AI’s nearly $20 billion haul during the same period.
 
 The blockbuster deals tell the story: While crypto’s largest deal was a $2 billion investment into Binance by Abu Dhabi’s MGX, AI boasted Databricks’ $15.3 billion round and Anthropic’s $2 billion raise. The pattern extends beyond a single quarter, AI startups attracted $131.5 billion in 2024 (one-third of global VC investment) across 4,318 deals, compared to crypto’s $4.9 billion across just 706 deals.
 

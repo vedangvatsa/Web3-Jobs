@@ -21,7 +21,7 @@ LA's crypto ecosystem is a direct reflection of its dominance in the creative in
 
 -   **The NFT Capital:** Los Angeles is arguably the most important city in the world for the NFT space. It is home to a high concentration of NFT artists, collectors, and the teams behind major PFP (Profile Picture) projects. The city's deep roots in art, music, and entertainment provide a rich talent pool and a constant stream of new creative projects.
 -   **A Web3 Gaming Hub:** With its proximity to major video game studios and a massive community of gamers and creators, LA has become a leading hub for Web3 gaming (GameFi). Many of the top venture funds and startups focused on building the metaverse and player-owned economies are based in the city.
--   **The Creator Economy:** LA is the heart of the creator economy. Web3 tools that empower creators with new monetization models—from social tokens to token-gated content—are being pioneered and adopted here.
+-   **The Creator Economy:** LA is the heart of the creator economy. Web3 tools that empower creators with new monetization models-from social tokens to token-gated content-are being pioneered and adopted here.
 -   **Strong Venture Capital Presence:** The city has a strong and growing venture capital scene with several major funds dedicated to investing in Web3, particularly in consumer-facing applications, gaming, and NFTs.
 
 ### In-Demand Roles and Salary Expectations
@@ -140,7 +140,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -152,7 +152,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

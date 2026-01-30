@@ -108,7 +108,7 @@ Enterprise blockchain has proven use cases in the energy sector:
 3. **Create Case Studies:** Build mock blockchains solutions for energy sector problems specific to Equatorial Guinea
 4. **Connect with Industry Players:** Reach out to local energy companies or their international partners with your expertise
 
-An energy sector focus makes you uniquely valuable—you combine Web3 skills with domain knowledge that most developers lack.
+An energy sector focus makes you uniquely valuable-you combine Web3 skills with domain knowledge that most developers lack.
 
 ## Networking in Malabo and Beyond
 
@@ -121,7 +121,7 @@ Your professional network is critical to landing remote opportunities:
 - **Corporate Tech Leaders:** Identify the CIOs and CTOs of major companies and engage with them on LinkedIn
 
 ### Pan-African Networking
-- **Regional Hubs:** Attend Web3 conferences in Lagos, Dakar, Nairobi, and Cape Town—these are where deals and jobs are sourced
+- **Regional Hubs:** Attend Web3 conferences in Lagos, Dakar, Nairobi, and Cape Town-these are where deals and jobs are sourced
 - **Online Communities:** Join African Web3 founder groups on WhatsApp, Telegram, and Discord
 - **Francophone Tech Community:** Leverage French-speaking networks in Cameroon, Côte d'Ivoire, and Senegal
 
@@ -146,7 +146,7 @@ Many remote Web3 employers don't require formal degrees, but you'll face competi
 - Contribute to major open-source projects and get your name in commit history
 - Publish detailed technical write-ups of complex problems you've solved
 - Participate in hackathons (virtual or in-person) and showcase your solutions
-- Build in public—stream your development on Twitch, share progress on Twitter
+- Build in public-stream your development on Twitch, share progress on Twitter
 
 ## The Fintech Opportunity Unique to Malabo
 
@@ -189,7 +189,7 @@ These figures are 10-20x the average salary in Equatorial Guinea, making remote 
 
 Equatorial Guinea's Web3 future is being written right now. By building strong skills, maintaining a global network, and focusing on high-impact applications (especially in energy and fintech), you position yourself to benefit enormously from the opportunities to come.
 
-The question isn't whether Malabo will have a Web3 ecosystem—it will. The question is whether you'll be one of the founders and key players shaping it.
+The question isn't whether Malabo will have a Web3 ecosystem-it will. The question is whether you'll be one of the founders and key players shaping it.
 
 **Start today:** Pick a skill to develop, commit to 6 months of focused learning, and build your first project. Your future in Web3 starts now.
 

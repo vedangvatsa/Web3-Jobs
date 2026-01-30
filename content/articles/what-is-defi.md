@@ -11,7 +11,7 @@ data-ai-hint: "defi explained"
 
 
 
-DeFi stands for Decentralized Finance. It's an attempt to rebuild financial services—lending, borrowing, trading, insurance—on top of blockchain networks instead of relying on banks and traditional financial institutions.
+DeFi stands for Decentralized Finance. It's an attempt to rebuild financial services-lending, borrowing, trading, insurance-on top of blockchain networks instead of relying on banks and traditional financial institutions.
 
 The basic premise is straightforward: most financial services today require you to trust a middleman. You trust a bank with your deposits. You trust a broker with your investments. You trust an exchange to let you trade currencies. These middlemen charge you for the privilege. They can restrict what you do. They can fail, and your money can disappear. DeFi aims to eliminate this middleman problem.
 
@@ -33,7 +33,7 @@ On a DeFi lending platform, you deposit your cryptocurrency. The platform automa
 
 But here's where it gets different. There's no bank deciding whether to lend to you. Instead, the system requires collateral. If you want to borrow $100, you might need to deposit $150 in cryptocurrency as collateral. If you don't repay the loan, the smart contract automatically seizes the collateral.
 
-This seems harsh, but it solves the problem of lending without trust. The borrower can't default—the collateral gets seized automatically. The lender doesn't need to assess creditworthiness because the loan is secured by collateral worth more than the amount borrowed.
+This seems harsh, but it solves the problem of lending without trust. The borrower can't default-the collateral gets seized automatically. The lender doesn't need to assess creditworthiness because the loan is secured by collateral worth more than the amount borrowed.
 
 This approach has tradeoffs. Anyone can borrow, regardless of credit history or location. But you need collateral, so people use it for different reasons than traditional loans. Some people borrow stablecoins (cryptocurrencies tied to the dollar) using other cryptocurrency as collateral to buy more of that cryptocurrency. It sounds circular, but it works for trading strategies.
 
@@ -53,7 +53,7 @@ As of 2026, DeFi represents tens of billions of dollars in lending, borrowing, a
 
 Several major platforms dominate the space. Uniswap is the largest decentralized exchange. Aave is the largest lending platform. Curve specializes in trading between stablecoins and similar-value assets. MakerDAO lets you generate stablecoins backed by cryptocurrency collateral.
 
-Actual usage varies. Some people use DeFi for genuine financial purposes—getting loans they couldn't qualify for at traditional banks, or accessing financial services available nowhere else due to geographic restrictions. Others participate for speculative purposes, trying to profit from price movements.
+Actual usage varies. Some people use DeFi for genuine financial purposes-getting loans they couldn't qualify for at traditional banks, or accessing financial services available nowhere else due to geographic restrictions. Others participate for speculative purposes, trying to profit from price movements.
 
 ## The Advantages of DeFi
 
@@ -172,7 +172,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -184,7 +184,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

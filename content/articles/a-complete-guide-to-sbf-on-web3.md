@@ -16,7 +16,7 @@ This guide provides a comprehensive overview of SBF's journey in Web3, from his 
 
 ### From Jane Street to Crypto Quant
 
-SBF's career began at Jane Street, a prestigious quantitative trading firm, where he honed his skills in identifying and exploiting market inefficiencies. It was here that he developed the quantitative mindset that he would later apply to the nascent and volatile crypto markets. In 2017, he left Jane Street to found Alameda Research, a crypto trading firm designed to capitalize on arbitrage opportunities, most famously the "Kimchi premium"—a price difference for Bitcoin between South Korean and other global exchanges.
+SBF's career began at Jane Street, a prestigious quantitative trading firm, where he honed his skills in identifying and exploiting market inefficiencies. It was here that he developed the quantitative mindset that he would later apply to the nascent and volatile crypto markets. In 2017, he left Jane Street to found Alameda Research, a crypto trading firm designed to capitalize on arbitrage opportunities, most famously the "Kimchi premium"-a price difference for Bitcoin between South Korean and other global exchanges.
 
 Alameda's early success provided the foundation for his next venture. Recognizing the need for a more user-friendly and derivatives-focused crypto exchange, SBF launched FTX in 2019. The platform quickly grew into one of the largest and most respected exchanges in the world, known for its innovative products, slick user interface, and aggressive marketing campaigns.
 
@@ -68,7 +68,7 @@ The rise and fall of Sam Bankman-Fried offers critical, if painful, lessons for 
 
 ## Conclusion
 
-Sam Bankman-Fried's story is a defining chapter in the history of Web3. It is a tale of incredible ambition, innovation, and hubris. While his vision for a more efficient and open financial system was compelling, the alleged fraud and catastrophic risk management that occurred behind the scenes led to one of the most devastating collapses the industry has ever seen. The lessons from FTX's failure—the importance of self-custody, transparency, and decentralization—are more relevant than ever as the industry seeks to rebuild trust and create a more resilient future.
+Sam Bankman-Fried's story is a defining chapter in the history of Web3. It is a tale of incredible ambition, innovation, and hubris. While his vision for a more efficient and open financial system was compelling, the alleged fraud and catastrophic risk management that occurred behind the scenes led to one of the most devastating collapses the industry has ever seen. The lessons from FTX's failure-the importance of self-custody, transparency, and decentralization-are more relevant than ever as the industry seeks to rebuild trust and create a more resilient future.
 
 ### Frequently Asked Questions (FAQ)
 

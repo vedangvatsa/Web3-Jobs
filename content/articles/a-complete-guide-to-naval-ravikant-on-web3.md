@@ -12,7 +12,7 @@ data-ai-hint: "man thinking"
 
 Naval Ravikant is an entrepreneur, investor, and philosopher who has become one of the most respected and influential thinkers in technology and, by extension, Web3. As the co-founder of AngelList and an early investor in companies like Uber, Twitter, and Postmates, his insights on wealth creation, happiness, and technology are followed by millions.
 
-While not a "crypto-native" in the same vein as some others, Naval's first-principles thinking provides a powerful philosophical framework for understanding the profound importance of Web3. He sees it not just as a new technology, but as a fundamental shift in how societies are organized—a move from top-down institutions to sovereign individuals coordinating through open networks.
+While not a "crypto-native" in the same vein as some others, Naval's first-principles thinking provides a powerful philosophical framework for understanding the profound importance of Web3. He sees it not just as a new technology, but as a fundamental shift in how societies are organized-a move from top-down institutions to sovereign individuals coordinating through open networks.
 
 This guide explores Naval Ravikant's core ideas on Web3, focusing on his views on blockchains as new forms of money and markets, the power of permissionless leverage, and the pursuit of individual sovereignty.
 
@@ -41,7 +41,7 @@ Naval's Web3 philosophy is interwoven with his broader views on life, wealth, an
 
 ### 1. The Power of Permissionless Leverage
 
-A central theme in Naval's work is the concept of "leverage"—tools that amplify the impact of your actions. He identifies three types of leverage: labor (other people working for you), capital (money), and "products with no marginal cost of replication."
+A central theme in Naval's work is the concept of "leverage"-tools that amplify the impact of your actions. He identifies three types of leverage: labor (other people working for you), capital (money), and "products with no marginal cost of replication."
 
 He argues that the ultimate form of modern leverage is code and media, and that Web3 provides a new, supercharged version of this.
 
@@ -83,7 +83,7 @@ A3: While he is a venture capitalist himself, he has acknowledged the tension be
 A4: *The Almanack of Naval Ravikant* is a book, compiled by Eric Jorgenson, that curates Naval's wisdom from his tweets, essays, and podcast appearances. While not exclusively about Web3, it covers his core ideas on wealth, happiness, and philosophy, which form the basis of his thinking on crypto.
 
 **Q5: What is Naval's view on NFTs?**
-A5: Naval sees NFTs as a key part of the "blockchains as markets" thesis. He views them as the technology that allows any unique digital item—art, music, game assets, domain names—to be verifiably owned and traded in an open market, a capability that did not exist before.
+A5: Naval sees NFTs as a key part of the "blockchains as markets" thesis. He views them as the technology that allows any unique digital item-art, music, game assets, domain names-to be verifiably owned and traded in an open market, a capability that did not exist before.
 ## Related Articles
 
 - [10 Big Ideas In Web3 For 2025](10-big-ideas-in-web3-for-2025)

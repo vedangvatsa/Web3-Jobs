@@ -428,7 +428,7 @@ These come from study, networking, and direct engagement with local stakeholders
 
 ## The Bottom Line
 
-Djibouti represents a unique opportunity for Web3 professionals who are willing to specialize deeply in trade finance and logistics. The market is small, but the problem is enormous—and the economic impact of solving it could be substantial.
+Djibouti represents a unique opportunity for Web3 professionals who are willing to specialize deeply in trade finance and logistics. The market is small, but the problem is enormous-and the economic impact of solving it could be substantial.
 
 If you have:
 - Interest in enterprise blockchain

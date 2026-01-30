@@ -95,13 +95,13 @@ Contact each teammate (through your manager or directly, depending on culture):
 - "Could you tell me about your role and the main projects you're working on right now?"
 - "What's been your experience on this team so far?"
 - "What do you wish someone had told you when you joined?"
-- "What's your preferred way to communicate—Slack, email, in-person?"
+- "What's your preferred way to communicate-Slack, email, in-person?"
 - "What are the biggest challenges the team is facing right now?"
 - "What's something you're passionate about outside of work?" (builds personal connection)
 
 ### 2. Be a Good Listener
 
-Listening is the foundation of relationship-building, but true active listening is rare—and it's a superpower.
+Listening is the foundation of relationship-building, but true active listening is rare-and it's a superpower.
 
 **The Art of Active Listening:**
 
@@ -124,7 +124,7 @@ Most people are starved for genuine listening. When you give it, people naturall
 
 ### 3. Remember and Use Details
 
-Taking notes isn't enough—you need to actually remember and reference what people tell you.
+Taking notes isn't enough-you need to actually remember and reference what people tell you.
 
 **How to Build a Teammate Profile:**
 
@@ -157,7 +157,7 @@ Relationships are built through reciprocal support. Your goal is to be someone p
 - **Follow Through:** If you offer, deliver. Nothing kills relationships faster than undone promises
 
 **Example:**
-> "I see you're juggling the presentation and the client feedback. I have some bandwidth right now—would it help if I consolidated that feedback spreadsheet for you?"
+> "I see you're juggling the presentation and the client feedback. I have some bandwidth right now-would it help if I consolidated that feedback spreadsheet for you?"
 
 **Asking for Help:**
 
@@ -170,7 +170,7 @@ Relationships are built through reciprocal support. Your goal is to be someone p
 > "I'm trying to understand how our deployment process works. I know you've done this a hundred times. Would you be willing to walk me through one? I promise to take detailed notes so I don't need to ask again."
 
 **The Psychology:**
-Benjamin Franklin wrote about the "Benjamin Franklin effect"—people who do you a favor actually like you more afterward. By asking for help (in a non-needy way), you're actually building relationships. And by helping others, you become someone they appreciate and respect.
+Benjamin Franklin wrote about the "Benjamin Franklin effect"-people who do you a favor actually like you more afterward. By asking for help (in a non-needy way), you're actually building relationships. And by helping others, you become someone they appreciate and respect.
 
 ### 5. Participate in Social and Non-Work Activities
 
@@ -252,7 +252,7 @@ The strongest relationships are built on aligned values. Look for shared interes
 **How to Leverage This:**
 Once you know what matters to them, acknowledge it:
 
-> "I know you care a lot about building maintainable code, and I do too. That's why I appreciated your code review feedback on my PR—it pushed me to write something better."
+> "I know you care a lot about building maintainable code, and I do too. That's why I appreciated your code review feedback on my PR-it pushed me to write something better."
 
 Or: "I respect how you always make time to mentor junior developers. I want to develop that skill too. Could I shadow you?"
 
@@ -261,7 +261,7 @@ Or: "I respect how you always make time to mentor junior developers. I want to d
 #### Remote Teams
 - **Over-communicate:** What you don't do in person, make up for in intentional communication
 - **Use Video:** Turn on your camera during meetings
-- **Be Active in Channels:** Slack is your office—use it to build connections
+- **Be Active in Channels:** Slack is your office-use it to build connections
 - **Suggest Regular 1-1s:** Build cadence into your interactions
 - **Lean Into Async:** Share interesting articles or thoughts in channels; people will engage
 
@@ -274,7 +274,7 @@ Or: "I respect how you always make time to mentor junior developers. I want to d
 #### Co-Located Teams
 - **Use Physical Space:** Sit near teammates, eat lunch together, use casual time intentionally
 - **Create Rituals:** Regular coffee runs, lunch groups, Friday hangouts
-- **Balance Casual and Intentional:** Some relationships grow from casual interaction, but don't rely on luck—still schedule 1-on-1s
+- **Balance Casual and Intentional:** Some relationships grow from casual interaction, but don't rely on luck-still schedule 1-on-1s
 
 ### Common Relationship-Building Mistakes
 
@@ -300,7 +300,7 @@ Every new employee has moments of frustration. But leading with complaints ("Thi
 
 **Q: What if a team member seems unreceptive or distant?**
 
-A: Different people have different styles. Some people take longer to warm up—it doesn't mean they dislike you. Your approach:
+A: Different people have different styles. Some people take longer to warm up-it doesn't mean they dislike you. Your approach:
 1. Continue to be professional, polite, and genuinely interested
 2. Don't force intimacy (some people just prefer professional distance)
 3. Find common ground through work first
@@ -331,7 +331,7 @@ A: You don't have to be best friends with everyone. Your job is to be profession
 4. Find the minimum viable relationship needed to work well together
 5. Spend less social time with them, but be respectful in work interactions
 
-The relationship doesn't have to be warm—just functional and respectful.
+The relationship doesn't have to be warm-just functional and respectful.
 
 **Q: Should I try to be friends with my team outside of work?**
 

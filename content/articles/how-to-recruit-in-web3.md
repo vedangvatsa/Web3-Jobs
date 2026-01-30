@@ -11,7 +11,7 @@ category: "Career Guides"
 
 
 
-Recruiting in Web3 is unlike recruiting in any other industry. The talent is scarce, the competition is fierce, and the best candidates are often pseudonymous contributors who are motivated by factors far beyond a simple salary. Traditional recruiting methods—posting on LinkedIn, relying on resumes, and using keyword searches—are woefully inadequate for finding and attracting elite Web3 talent.
+Recruiting in Web3 is unlike recruiting in any other industry. The talent is scarce, the competition is fierce, and the best candidates are often pseudonymous contributors who are motivated by factors far beyond a simple salary. Traditional recruiting methods-posting on LinkedIn, relying on resumes, and using keyword searches-are woefully inadequate for finding and attracting elite Web3 talent.
 
 To succeed, recruiters and hiring managers must become "crypto-native." They need to understand the culture, participate in the communities where talent congregates, and learn to evaluate candidates based on a new set of criteria. This guide provides actionable strategies for recruiting in the Web3 space. For more details, see our comprehensive article on [how to build a strong Web3 portfolio](/how-to-build-a-strong-web3-portfolio) from a recruiter's perspective.
 
@@ -20,7 +20,7 @@ To succeed, recruiters and hiring managers must become "crypto-native." They nee
 While some Web3 professionals maintain a LinkedIn profile, the real action happens elsewhere. To find top talent, you need to immerse yourself in the native environments of Web3.
 
 -   **Twitter (X):** This is the central nervous system of the crypto world. Follow the top developers, researchers, and builders in your specific niche. Engage with their content thoughtfully. The people leading the technical conversations on Twitter are often the A-players you want to hire.
--   **Discord:** This is where communities are built and where work gets done. Join the Discords of projects related to your field. Don't just spam a job posting in a `#hiring` channel. Become an active, value-add member of the community. Identify the most helpful and insightful contributors—these are your potential candidates.
+-   **Discord:** This is where communities are built and where work gets done. Join the Discords of projects related to your field. Don't just spam a job posting in a `#hiring` channel. Become an active, value-add member of the community. Identify the most helpful and insightful contributors-these are your potential candidates.
 -   **GitHub:** For technical roles, GitHub is the ultimate sourcing tool. Look for developers who are making high-quality contributions to reputable open-source Web3 projects. An impressive GitHub profile is the most potent resume.
 -   **Hackathons:** Events hosted by organizations like ETHGlobal are a goldmine for talent. Sponsor a hackathon, offer a bounty for using your protocol, and actively engage with the teams that are building impressive projects. Many of the best Web3 companies have been founded or staffed by teams that met at a hackathon.
 
@@ -134,7 +134,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -146,7 +146,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

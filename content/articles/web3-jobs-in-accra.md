@@ -55,7 +55,7 @@ The demand for Web3 talent in Accra is growing, particularly for developers and 
 - **Product Manager:** $3,000–$6,000/month
 - **Community Lead:** $1,500–$3,500/month
 
-**Cost of Living Advantage:** Monthly expenses in Accra: $700–$1,100. With a $3,500 remote salary, you save 70–80% of income—excellent for wealth building.
+**Cost of Living Advantage:** Monthly expenses in Accra: $700–$1,100. With a $3,500 remote salary, you save 70–80% of income-excellent for wealth building.
 
 ## 3 Proven Career Paths to $5,000+/Month in Accra
 
@@ -329,7 +329,7 @@ A: Possible, but challenging:
 - **Conferences:** EthDubai, EthCC, Africa Blockchain Summit
 
 ### Job Boards & Applications
-- **Our Web3 Job Board** (/jobs) — remote roles
+- **Our Web3 Job Board** (/jobs): remote roles
 - **Crypto.jobs:** All positions
 - **AngelList:** Startups
 - **LinkedIn:** Search "Web3 Remote"
@@ -354,8 +354,8 @@ A: Possible, but challenging:
 
 ### Related Career Guides
 Explore for context:
-- [Web3 Jobs in Lagos](web3-jobs-in-lagos) — West Africa mega-hub
-- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi) — East Africa hub
+- [Web3 Jobs in Lagos](web3-jobs-in-lagos): West Africa mega-hub
+- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi): East Africa hub
 - NFT Artist Career Guide
 - Complete Web3 Skills Guide
 

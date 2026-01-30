@@ -20,7 +20,7 @@ To succeed, Web3 teams must master the art of asynchronous communication, foster
 The most significant shift from traditional work is the move to an "async-first" communication model. With a team spread from San Francisco to Seoul, you cannot rely on synchronous meetings to make decisions or move projects forward.
 
 **Best Practices:**
--   **Master a Single Source of Truth:** Use a tool like Notion or a well-maintained GitHub wiki as the central repository for all important information—roadmaps, project specs, meeting notes, and decisions. Everything should be documented and easily searchable.
+-   **Master a Single Source of Truth:** Use a tool like Notion or a well-maintained GitHub wiki as the central repository for all important information-roadmaps, project specs, meeting notes, and decisions. Everything should be documented and easily searchable.
 -   **Over-communicate in Writing:** Thoughts, proposals, and updates should be articulated in clear, detailed, and well-structured written documents. A great written proposal should anticipate questions and provide enough context that a team member in another time zone can understand it fully without needing a live explanation.
 -   **Use Meetings for Connection, Not Information Transfer:** Meetings should be reserved for high-bandwidth discussions like brainstorming, complex problem-solving, and team bonding. They should not be used for status updates that could have been a written post. Every meeting must have a clear agenda and a designated note-taker.
 
@@ -135,7 +135,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -147,7 +147,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

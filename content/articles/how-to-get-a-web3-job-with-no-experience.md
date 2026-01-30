@@ -13,7 +13,7 @@ category: "Career Guides"
 
 The Web3 industry is exploding, but for newcomers, breaking in can feel like trying to crack a secret code. Job descriptions often list requirements like "deep understanding of DeFi primitives" or "experience in a DAO," leaving many talented professionals wondering how they can possibly get started. The good news? You don't need to have been an early Bitcoin investor or a Solidity prodigy to build a successful career in Web3.
 
-The industry values passion, initiative, and demonstrable skill—what's known as "proof of work"—far more than a traditional resume. This guide is for those on the outside looking in: the skilled marketers, project managers, writers, and developers from Web2 who are curious about making the leap. We'll provide a practical, step-by-step roadmap for how to get a Web3 job with no direct "crypto" experience.
+The industry values passion, initiative, and demonstrable skill-what's known as "proof of work"-far more than a traditional resume. This guide is for those on the outside looking in: the skilled marketers, project managers, writers, and developers from Web2 who are curious about making the leap. We'll provide a practical, step-by-step roadmap for how to get a Web3 job with no direct "crypto" experience.
 
 ### Step 1: Mindset Shift - From Resume to Reputation
 
@@ -142,7 +142,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -154,7 +154,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

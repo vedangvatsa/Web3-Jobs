@@ -4,7 +4,7 @@
 title: "Team Motivation Strategies That Actually Work"
 category: "Career Guides"
 date: "2025-09-12"
-description: "Go beyond pizza parties and bonuses. This guide explores the intrinsic drivers of motivation—autonomy, mastery, and purpose—and provides actionable."
+description: "Go beyond pizza parties and bonuses. This guide explores the intrinsic drivers of motivation-autonomy, mastery, and purpose-and provides actionable."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team motivation strategy"
 
@@ -63,7 +63,7 @@ Think of money as a "hygiene factor." If you get it wrong, it's all anyone can t
 
 ### Conclusion
 
-Motivating a team is not about elaborate incentive schemes or motivational posters. It's about creating an environment of trust, respect, and shared mission. By focusing on the three pillars of intrinsic motivation—giving your team autonomy over their work, providing opportunities for them to achieve mastery, and connecting their daily tasks to a larger purpose—you can unlock the creativity, passion, and drive that leads to extraordinary results.
+Motivating a team is not about elaborate incentive schemes or motivational posters. It's about creating an environment of trust, respect, and shared mission. By focusing on the three pillars of intrinsic motivation-giving your team autonomy over their work, providing opportunities for them to achieve mastery, and connecting their daily tasks to a larger purpose-you can unlock the creativity, passion, and drive that leads to extraordinary results.
 
 ## Why This Matters
 
@@ -126,7 +126,7 @@ A: Even in challenging environments, you have more agency than you might think. 
 A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time—just intentionality in your current work. Integrate these practices into your daily activities.
+A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
 
 **Q: What resources can help me go deeper?**
 A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.

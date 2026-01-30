@@ -11,7 +11,7 @@ category: "Educational"
 
 
 
-In today's digital world, you don't own your identity. Your identity is a collection of accounts—your Google account, your Facebook profile, your bank login—that are owned and controlled by centralized corporations. This model is fundamentally broken. It leads to a lack of privacy, massive data breaches, and a fragmented user experience.
+In today's digital world, you don't own your identity. Your identity is a collection of accounts-your Google account, your Facebook profile, your bank login-that are owned and controlled by centralized corporations. This model is fundamentally broken. It leads to a lack of privacy, massive data breaches, and a fragmented user experience.
 
 **Self-Sovereign Identity (SSI)** is a revolutionary movement that aims to flip this model on its head. It's a vision for a new digital identity paradigm where you, the individual, have ultimate control over your own identity and data. SSI is a core philosophical and technical pillar of the **[Web3](/what-is-web3)** ecosystem, enabled by blockchain technology and new cryptographic standards.
 
@@ -141,7 +141,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -153,7 +153,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -248,16 +248,16 @@ A: No. It's maturing. Fewer casual developers; more serious ones. Compensation s
 A: YES, if you're willing to invest 12-24 months in deep learning. The bar is higher, but the opportunities and compensation are excellent.
 
 **Q3: Which path is easiest?**
-A: Application developer (Path 2) — fastest to first role (10-18 months).
+A: Application developer (Path 2): fastest to first role (10-18 months).
 
 **Q4: Which path pays most?**
-A: Protocol/Infrastructure (Path 3) or Security (Path 1) — both $200K-$500K+ at senior level.
+A: Protocol/Infrastructure (Path 3) or Security (Path 1): both $200K-$500K+ at senior level.
 
 **Q5: Can I switch paths later?**
 A: Yes. Security expertise is most transferable. You can do any path; switching takes 3-6 months.
 
 **Q6: How do I know if I'm cut out for this?**
-A: If you enjoy solving hard problems, learning continuously, and don't mind failing publicly while learning—yes.
+A: If you enjoy solving hard problems, learning continuously, and don't mind failing publicly while learning-yes.
 
 **Q7: Should I get a CS degree?**
 A: Helpful but not required. Self-teaching + public portfolio is increasingly accepted. Degree saves 1-2 years vs. self-teach.

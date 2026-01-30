@@ -23,14 +23,14 @@ An oracle is a third-party service that finds and verifies real-world data and b
 
 ### The Fundamental Constraint: Determinism
 
-Blockchains are designed to be deterministic. This means that every node on the network must get the exact same result when executing a transaction. This is the foundation of consensus—all nodes must agree on the state of the blockchain.
+Blockchains are designed to be deterministic. This means that every node on the network must get the exact same result when executing a transaction. This is the foundation of consensus-all nodes must agree on the state of the blockchain.
 
 If a smart contract could make an API call to a website to get a stock price, determinism would break:
 
 1. **Timing Issues:** Different nodes might make the call at slightly different times, getting different prices
 2. **Data Source Failure:** The API might be down for one node or throttle responses unevenly
 3. **Consensus Failure:** Nodes would execute the contract differently and couldn't agree on the result
-4. **Security Risk:** The API endpoint becomes a centralized dependency—if compromised, it could manipulate the smart contract
+4. **Security Risk:** The API endpoint becomes a centralized dependency-if compromised, it could manipulate the smart contract
 
 ### The Solution: Oracles as Trusted Intermediaries
 
@@ -384,7 +384,7 @@ Oracles are the critical infrastructure that allows smart contracts to interact 
 
 The oracle problem isn't solved (there are still trade-offs and limitations), but projects like Chainlink have made remarkable progress in creating trustless, decentralized data feeds. As Web3 matures, oracle networks will become even more sophisticated, enabling new categories of applications we can't yet imagine.
 
-If you're interested in Web3 infrastructure, oracles are one of the most important and underrated pieces of the stack—and a field with enormous growth potential.
+If you're interested in Web3 infrastructure, oracles are one of the most important and underrated pieces of the stack-and a field with enormous growth potential.
 
 ## Related Articles
 

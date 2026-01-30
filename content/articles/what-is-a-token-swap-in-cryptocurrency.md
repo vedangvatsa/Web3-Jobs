@@ -19,7 +19,7 @@ To understand the innovation, it's helpful to compare it to the traditional way 
 
 -   **Traditional Model (Centralized Exchange):** If you want to trade Apple stock for Google stock, you go through a centralized brokerage like Fidelity or Robinhood. You trust them to hold your assets and execute the trade on your behalf. In crypto, this is equivalent to using a centralized exchange like Coinbase. You deposit your ETH and BTC, and the exchange's internal ledger matches your trade. You are trusting the exchange.
 
--   **Web3 Model (Decentralized Exchange):** If you want to swap ETH for a stablecoin like USDC, you can use a DEX like Uniswap. You interact directly with a smart contract from your own self-custodial wallet (like MetaMask). The swap happens "atomically"—in a single, indivisible transaction. You never give up custody of your funds to a third party.
+-   **Web3 Model (Decentralized Exchange):** If you want to swap ETH for a stablecoin like USDC, you can use a DEX like Uniswap. You interact directly with a smart contract from your own self-custodial wallet (like MetaMask). The swap happens "atomically"-in a single, indivisible transaction. You never give up custody of your funds to a third party.
 
 ### How Do Token Swaps Work on a DEX?
 
@@ -38,7 +38,7 @@ The entire process is automated by the smart contract. It's permissionless, tran
 
 The term "token swap" usually refers to swapping tokens on the *same* blockchain (e.g., two ERC-20 tokens on Ethereum). A more advanced concept is the **atomic swap**, which allows for the exchange of two different cryptocurrencies on two *different* blockchains (e.g., swapping Bitcoin for Litecoin) without a trusted intermediary.
 
-Atomic swaps are more complex and typically use a mechanism called Hashed Timelock Contracts (HTLCs) to ensure that the swap is "atomic"—either both parties successfully complete their side of the trade, or the whole thing is aborted and both get their original funds back.
+Atomic swaps are more complex and typically use a mechanism called Hashed Timelock Contracts (HTLCs) to ensure that the swap is "atomic"-either both parties successfully complete their side of the trade, or the whole thing is aborted and both get their original funds back.
 
 ### Why Token Swaps Matter
 
@@ -123,7 +123,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -135,7 +135,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

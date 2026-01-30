@@ -59,7 +59,7 @@ The competition for skilled Web3 talent in Lagos is fierce, pushing salaries wel
 - **Product Manager:** $3,500–$6,500/month
 - **Growth/Business Lead:** $2,500–$5,000/month
 
-**Cost of Living Advantage:** Monthly expenses in Lagos: $1,000–$1,500. With a $4,000 remote salary, you save 65–75% of income—exceptional.
+**Cost of Living Advantage:** Monthly expenses in Lagos: $1,000–$1,500. With a $4,000 remote salary, you save 65–75% of income-exceptional.
 
 ## 3 Proven Career Paths to $6,000+/Month in Lagos
 
@@ -353,7 +353,7 @@ A:
 - **Conferences:** ETHNigeria, EthDubai, Polygon Connect, Consensus
 
 ### Job Boards & Opportunities
-- **Our Web3 Job Board** (/jobs) — filtered remote + Nigeria roles
+- **Our Web3 Job Board** (/jobs): filtered remote + Nigeria roles
 - **Crypto.jobs:** All positions
 - **AngelList Talent:** Startups
 - **Upwork:** Freelance starting point
@@ -374,9 +374,9 @@ A:
 
 ### Related Career Guides
 Explore for context and opportunities:
-- [Web3 Jobs in Accra](web3-jobs-in-accra) — West Africa creative hub
-- [Web3 Jobs in Dakar](web3-jobs-in-dakar) — Francophone West Africa
-- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi) — East Africa hub
+- [Web3 Jobs in Accra](web3-jobs-in-accra): West Africa creative hub
+- [Web3 Jobs in Dakar](web3-jobs-in-dakar): Francophone West Africa
+- [Web3 Jobs in Nairobi](web3-jobs-in-nairobi): East Africa hub
 - FinTech Web3 Careers
 - Complete Web3 Skills Guide
 

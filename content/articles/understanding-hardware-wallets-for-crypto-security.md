@@ -25,14 +25,14 @@ Because your private keys are stored on an internet-connected device, they are a
 
 ## The Hardware Wallet Solution: The Secure Enclave
 
-A hardware wallet solves this problem by moving the most critical part of the process—transaction signing—into a completely isolated, offline environment. Popular hardware wallet brands include **Ledger** and **Trezor**.
+A hardware wallet solves this problem by moving the most critical part of the process-transaction signing-into a completely isolated, offline environment. Popular hardware wallet brands include **Ledger** and **Trezor**.
 
 **How it Works:**
 
 1.  **Key Storage:** Your private keys are generated and stored on a special, secure chip within the hardware wallet device. **These keys never, ever leave the device.** They are never exposed to your computer or the internet.
 2.  **Transaction Initiation:** When you want to make a transaction, you initiate it on your computer using a software interface like MetaMask or the manufacturer's own app (e.g., Ledger Live). Your computer prepares the transaction details.
 3.  **Offline Signing:** The transaction data is sent to the hardware wallet (usually via USB or Bluetooth). You then verify the transaction details (recipient address, amount) on the hardware wallet's own small, trusted screen.
-4.  **Physical Confirmation:** To approve the transaction, you must physically press a button on the device. This physical interaction is crucial—it ensures that a remote hacker cannot authorize a transaction on your behalf.
+4.  **Physical Confirmation:** To approve the transaction, you must physically press a button on the device. This physical interaction is crucial-it ensures that a remote hacker cannot authorize a transaction on your behalf.
 5.  **Signature Broadcast:** The hardware wallet signs the transaction internally using your private key and sends only the signed transaction back to the computer. The computer then broadcasts this signed transaction to the blockchain.
 
 At no point in this process is your private key exposed to your computer. Even if your computer were riddled with malware, the attacker could not steal your keys or sign a transaction without physical access to your hardware wallet and its PIN.
@@ -128,7 +128,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -140,7 +140,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

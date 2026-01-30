@@ -139,7 +139,7 @@ If you're building crypto projects, HODLers are your base of support. They're be
 
 The deepest lesson of HODL isn't about buying Bitcoin and holding it forever. It's about having conviction and not letting short-term noise override long-term strategy.
 
-In any domain—crypto or otherwise—short-term volatility is noise. Real wealth is created by identifying promising opportunities, maintaining conviction despite short-term setbacks, and giving those opportunities time to play out.
+In any domain-crypto or otherwise-short-term volatility is noise. Real wealth is created by identifying promising opportunities, maintaining conviction despite short-term setbacks, and giving those opportunities time to play out.
 
 HODL memorializes this philosophy. It says: have conviction, resist short-term emotional reactions, give your assets time to grow.
 
@@ -234,7 +234,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -246,7 +246,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -13,7 +13,7 @@ category: "Technology Deep Dives"
 
 The invention of Bitcoin gave us decentralized money. But it was the rise of **[DeFi (Decentralized Finance)](/what-is-defi)** that began to fulfill the broader vision of a complete, alternative financial system built on the blockchain. DeFi is not just a niche within the crypto world; it is the engine that drives its utility, innovation, and economic activity.
 
-DeFi is a global, open-source movement to recreate traditional financial services—such as lending, borrowing, trading, and insurance—in a decentralized, permissionless, and transparent way. Instead of relying on centralized intermediaries like banks and brokerages, DeFi protocols use **[smart contracts](/what-is-a-blockchain)** on blockchains like Ethereum to automate these financial functions. This guide explores how DeFi is fundamentally changing the world of crypto.
+DeFi is a global, open-source movement to recreate traditional financial services-such as lending, borrowing, trading, and insurance-in a decentralized, permissionless, and transparent way. Instead of relying on centralized intermediaries like banks and brokerages, DeFi protocols use **[smart contracts](/what-is-a-blockchain)** on blockchains like Ethereum to automate these financial functions. This guide explores how DeFi is fundamentally changing the world of crypto.
 
 ### From Speculation to Utility
 
@@ -24,7 +24,7 @@ For much of its early history, the primary use case for crypto was speculation. 
 
 ### Key DeFi Primitives and Their Impact
 
-DeFi is often described as "money legos" because its protocols are composable—they can be combined to create more complex financial products. The core primitives include:
+DeFi is often described as "money legos" because its protocols are composable-they can be combined to create more complex financial products. The core primitives include:
 
 1.  **Decentralized Exchanges (DEXs):**
     - **What they are:** Protocols like Uniswap that allow for the peer-to-peer trading of assets without a central order book.
@@ -134,7 +134,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -146,7 +146,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -22,11 +22,11 @@ This guide explores the key trends shaping the new, more mature Web3 job market 
 During the bull market, the demand for talent was so high that projects were hiring smart, crypto-curious generalists for a wide range of roles. A single person might be responsible for community, marketing, and product. As the industry matures and projects become more complex, there is a growing demand for true specialists.
 
 -   **The Trend:** Instead of hiring a "Marketing Generalist," a project is now more likely to hire a **"Head of Content,"** a **"Product Marketing Manager,"** and a **"Community Manager"** as three distinct roles.
--   **The Opportunity:** This creates opportunities for professionals to go deep in a specific domain. If you are an expert in a particular area—be it brand marketing, UX research, or treasury management—your skills are now more valuable than ever.
+-   **The Opportunity:** This creates opportunities for professionals to go deep in a specific domain. If you are an expert in a particular area-be it brand marketing, UX research, or treasury management-your skills are now more valuable than ever.
 
 ### The Rise of Institutional DeFi
 
-The first wave of DeFi was built by and for "degens"—crypto-native power users. The next phase of growth is focused on bringing institutional capital and traditional financial players on-chain.
+The first wave of DeFi was built by and for "degens"-crypto-native power users. The next phase of growth is focused on bringing institutional capital and traditional financial players on-chain.
 
 -   **The Trend:** Projects are building products specifically for institutions, such as KYC/AML-compliant DeFi pools, on-chain private credit, and tokenized real-world assets (RWAs).
 -   **The New Roles:** This is creating a demand for professionals with a background in traditional finance (TradFi).
@@ -138,7 +138,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -150,7 +150,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

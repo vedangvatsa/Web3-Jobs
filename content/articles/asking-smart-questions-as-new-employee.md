@@ -58,7 +58,7 @@ Before diving into technique, understand why questions are so powerful in a prof
 - **Critical Thinking:** You're not just accepting information passively
 - **Strategic Mindset:** You want to understand the "why," not just the "how"
 
-Managers and senior colleagues generally appreciate thoughtful questions. They signal that you're serious about getting up to speed and contributing meaningfully. Bad questions—or asking the same question twice—signal carelessness or lack of attention.
+Managers and senior colleagues generally appreciate thoughtful questions. They signal that you're serious about getting up to speed and contributing meaningfully. Bad questions-or asking the same question twice-signal carelessness or lack of attention.
 
 Related reading: **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – Strategic framework for your onboarding period.
 
@@ -113,7 +113,7 @@ Instead of: "What does this function do?"
 Ask: "I'm looking at this function and I understand what it does, but I'm not clear on why we need it given that [related function] seems to do something similar. What problem is each solving?"
 
 Instead of: "How long should this project take?"
-Ask: "I've estimated this will take about X weeks. I want to check my assumptions about complexity—are there particular edge cases or dependencies I'm not considering?"
+Ask: "I've estimated this will take about X weeks. I want to check my assumptions about complexity-are there particular edge cases or dependencies I'm not considering?"
 
 ### 3. Batch Your Questions
 
@@ -138,7 +138,7 @@ Instead of asking questions as they arise throughout the day, group them togethe
 
 **Sample Batching Message:**
 
-> "I have a few questions from this week when you have a few minutes—nothing urgent, but I'd love to understand these better. When's a good time to grab 15 minutes next week?"
+> "I have a few questions from this week when you have a few minutes-nothing urgent, but I'd love to understand these better. When's a good time to grab 15 minutes next week?"
 
 ### 4. Know Who to Ask
 
@@ -164,7 +164,7 @@ Different questions have different appropriate audiences. Asking the right perso
 *Sample questions:*
 - "I'm stuck on this issue. Could you show me how you'd approach this?"
 - "Why did we decide to use technology X instead of Y for this?"
-- "What's the team's perspective on working styles—are people generally collaborative or independent?"
+- "What's the team's perspective on working styles-are people generally collaborative or independent?"
 
 **Your Mentor/Buddy:**
 - Company culture questions
@@ -272,7 +272,7 @@ A: First, remember that asking questions is how you learn. Second, you have a gr
 
 **Q: Is it possible to ask too many questions?**
 
-A: Yes, but it's usually not about the number—it's about the quality and timing. If you're asking:
+A: Yes, but it's usually not about the number-it's about the quality and timing. If you're asking:
 - Questions you could have answered yourself
 - The same question repeatedly
 - Vague questions that require your colleague to read your mind
@@ -315,7 +315,7 @@ By month 4, you should be in a position to ask, "I notice we do X. Have we consi
 
 **The Clarifying Question:**
 When someone's answer is unclear, ask for clarification:
-> "I want to make sure I understand—are you saying we should do X, or that we should do X only when Y condition is met?"
+> "I want to make sure I understand-are you saying we should do X, or that we should do X only when Y condition is met?"
 
 **The Comparative Question:**
 Deepen understanding by asking about alternatives:

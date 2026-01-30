@@ -20,7 +20,7 @@ Unlike traditional finance, where analysis is based on private company data and 
 The primary job of an analyst is to help the fund's partners make better investment decisions. This work can be broken down into several key areas.
 
 1.  **Sourcing:** Finding new and interesting projects before anyone else.
-    *   **How it's done:** This is not a passive activity. It involves being deeply embedded in the crypto ecosystem. Analysts spend their time on Twitter, in Discord channels, and at hackathons, building relationships with founders and developers. The goal is to find the "alpha"—the promising projects that aren't yet on everyone else's radar.
+    *   **How it's done:** This is not a passive activity. It involves being deeply embedded in the crypto ecosystem. Analysts spend their time on Twitter, in Discord channels, and at hackathons, building relationships with founders and developers. The goal is to find the "alpha"-the promising projects that aren't yet on everyone else's radar.
 
 2.  **Diligence:** Once a promising project is found, the analyst leads the deep-dive investigation to assess its viability.
     *   **Team Analysis:** Who are the founders? What is their background? Have they built successful projects before?
@@ -135,7 +135,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -147,7 +147,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

@@ -40,7 +40,7 @@ In place of the VC-backed "Web3," Dorsey advocates for a truly decentralized int
 
 ### 1. Bitcoin as the Native Currency of the Internet
 
-Dorsey believes that the internet needs a native currency—a global money standard that is not beholden to any single country or corporation. He sees Bitcoin as the only viable candidate for this role due to its:
+Dorsey believes that the internet needs a native currency-a global money standard that is not beholden to any single country or corporation. He sees Bitcoin as the only viable candidate for this role due to its:
 
 *   **Immaculate Conception:** Bitcoin had no pre-mine, no ICO, and its founder, Satoshi Nakamoto, is anonymous and gone. This makes it a neutral and fair starting point, unlike many other tokens where insiders received large allocations.
 *   **True Decentralization:** It has the most decentralized and powerful mining network, making it the most secure blockchain. No single entity can control or censor it.
@@ -62,7 +62,7 @@ The goal of Web5 is to create a web where you own your identity and your data, s
 
 Jack Dorsey's role in the Web3 conversation is that of the uncompromising purist and Bitcoin maximalist. He acts as a powerful counterbalance to the hype and financialization of the broader "Web3" ecosystem. His critiques, particularly those aimed at the influence of venture capital, force the industry to confront difficult questions about what "decentralization" truly means.
 
-While many dismiss his views as too narrow, his influence is undeniable. Through his work at Block and TBD, he is actively funding and building an alternative vision for a decentralized future—one that is anchored firmly to the principles and the protocol of Bitcoin. Whether you agree with him or not, Jack Dorsey's stringent and consistent philosophy makes him one of the most important and thought-provoking figures shaping the future of the internet.
+While many dismiss his views as too narrow, his influence is undeniable. Through his work at Block and TBD, he is actively funding and building an alternative vision for a decentralized future-one that is anchored firmly to the principles and the protocol of Bitcoin. Whether you agree with him or not, Jack Dorsey's stringent and consistent philosophy makes him one of the most important and thought-provoking figures shaping the future of the internet.
 
 ### Frequently Asked Questions (FAQ)
 

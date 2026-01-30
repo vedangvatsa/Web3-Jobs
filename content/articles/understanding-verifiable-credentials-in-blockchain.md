@@ -50,7 +50,7 @@ A VC is typically a JSON object (specifically, a JSON-LD - Linked Data) with a f
 -   **`type`**: The type of credential (e.g., `VerifiableCredential`, `UniversityDegreeCredential`).
 -   **`issuer`**: The DID of the entity that issued the credential.
 -   **`issuanceDate`**: When the credential was issued.
--   **`credentialSubject`**: The payload of the credential—the actual claims being made about the subject (e.g., ` "degree": "Bachelor of Science", "major": "Computer Science" `). The subject is identified by their DID.
+-   **`credentialSubject`**: The payload of the credential-the actual claims being made about the subject (e.g., ` "degree": "Bachelor of Science", "major": "Computer Science" `). The subject is identified by their DID.
 -   **`proof`**: The digital signature of the issuer, which makes the credential tamper-proof. It includes the signature type, when it was created, and the signature value itself.
 
 ### The Superpower of VCs: Selective Disclosure and Zero-Knowledge Proofs
@@ -159,7 +159,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -171,7 +171,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 

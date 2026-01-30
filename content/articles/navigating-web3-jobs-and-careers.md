@@ -34,7 +34,7 @@ This shift from employee to owner has profound cultural implications. It fosters
 
 3.  **Community as a Core Function:** In Web3, the community is not a target audience to be marketed to; it is a core part of the organization. Roles like "Community Manager" are not entry-level marketing positions, but senior strategic roles responsible for fostering the health and growth of the project's most valuable asset.
 
-4.  **"Proof of Work" Over Credentials:** The Web3 space values what you can do over what your resume says. A traditional CV is often less important than your "on-chain resume"—your GitHub contributions, your Dune dashboards, your governance forum posts, or your portfolio of personal projects. Initiative and demonstrated passion are highly valued.
+4.  **"Proof of Work" Over Credentials:** The Web3 space values what you can do over what your resume says. A traditional CV is often less important than your "on-chain resume"-your GitHub contributions, your Dune dashboards, your governance forum posts, or your portfolio of personal projects. Initiative and demonstrated passion are highly valued.
 
 ### In-Demand Roles in the #web3jobs Ecosystem
 
@@ -142,7 +142,7 @@ Marcus left his corporate job to focus on Web3 for 6 months. Through consistent 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. Companies need diverse skills—marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
+A: No. Companies need diverse skills-marketing, design, operations, business development. Your existing expertise is valuable; you just need to learn the Web3 context.
 
 **Q: How much can I earn in Web3?**
 A: Significantly more than Web2 equivalents. Base salaries are higher, plus signing bonuses, equity, and token packages. Realistic expectation: 30-60% increase from Web2 roles.
@@ -154,7 +154,7 @@ A: Like any emerging industry, there's risk. Mitigate by joining established, we
 A: 2-6 months depending on your background and effort level. Engineers and product managers transition faster due to transferable skills.
 
 **Q: What if the crypto market crashes?**
-A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities—teams can focus on building rather than hype-driven growth.
+A: The fundamental technology and use cases remain valid. Bear markets often create better opportunities-teams can focus on building rather than hype-driven growth.
 
 ## Key Takeaways
 
