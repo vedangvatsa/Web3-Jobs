@@ -1,8 +1,9 @@
 'use client';
 
 import DOMPurify from 'isomorphic-dompurify';
+import { cn } from '@/lib/utils';
 
-export function ArticleContent({ content }: { content: string }) {
+export function ArticleContent({ content, className }: { content: string; className?: string }) {
   const sanitizedContent = DOMPurify.sanitize(content, {
     ALLOWED_TAGS: [
       'p', 'br', 'strong', 'em', 'u', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
@@ -15,7 +16,7 @@ export function ArticleContent({ content }: { content: string }) {
 
   return (
     <div
-      className="prose prose-lg dark:prose-invert max-w-none"
+      className={cn("prose prose-lg dark:prose-invert max-w-none", className)}
       dangerouslySetInnerHTML={{ __html: sanitizedContent }}
     />
   );
