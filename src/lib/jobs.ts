@@ -1377,7 +1377,13 @@ async function writeJobsCache(jobs: Job[]): Promise<void> {
 
 // New helper for creating a robust unique key
 function createUniqueKey(title: string, company: string): string {
-    const normalize = (str: string) => str.toLowerCase().replace(/[^a-z0-9]/gi, '');
+    // More aggressive normalization to catch edge cases
+    const normalize = (str: string) => str
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, '') // Remove all whitespace
+      .replace(/[^a-z0-9]/gi, '') // Remove all non-alphanumeric
+      .replace(/ai$/i, 'ai'); // Normalize "AI" endings
     return `${normalize(title)}|${normalize(company)}`;
 }
 
