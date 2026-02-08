@@ -11,7 +11,6 @@ import {
   DialogDescription,
   DialogHeader,
   DialogTitle,
-  DialogFooter,
 } from '@/components/ui/dialog';
 import {
   Form,
@@ -22,9 +21,8 @@ import {
   FormMessage,
 } from '@/components/ui/form';
 import { Input } from '@/components/ui/input';
-import { useToast } from '@/hooks/use-toast';
 import type { Job } from '@/types';
-import { ArrowRight, Rss } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { useFirestore } from '@/firebase';
 import { saveEmail } from '@/lib/db';
 
@@ -45,7 +43,6 @@ export function JobEmailCaptureDialog({
   open,
   onOpenChange,
 }: JobEmailCaptureDialogProps) {
-  const { toast } = useToast();
   const firestore = useFirestore();
   const form = useForm<EmailFormData>({
     resolver: zodResolver(emailSchema),
@@ -64,11 +61,6 @@ export function JobEmailCaptureDialog({
     if (firestore) {
       saveEmail(firestore, data.email);
     }
-
-    toast({
-      title: 'Email Submitted!',
-      description: `You will now be redirected to the job posting.`,
-    });
 
     if (job?.link) {
       window.open(job.link, '_blank');
@@ -113,22 +105,6 @@ export function JobEmailCaptureDialog({
             </Button>
           </form>
         </Form>
-        <DialogFooter className="pt-4 mt-4 border-t items-center text-center">
-          <div className="text-sm text-muted-foreground w-full">
-            <p>Or get instant job alerts on Telegram!</p>
-            <a
-              href="https://t.me/web3hiring"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="w-full"
-            >
-              <Button variant="outline" className="w-full mt-2">
-                <Rss className="mr-2 h-4 w-4" />
-                Join 60,000+ on Telegram
-              </Button>
-            </a>
-          </div>
-        </DialogFooter>
       </DialogContent>
     </Dialog>
   );
