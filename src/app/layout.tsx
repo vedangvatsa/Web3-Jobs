@@ -9,6 +9,7 @@ import { Footer } from '@/components/footer';
 import Script from 'next/script';
 import type { WebSite, Organization } from 'schema-dts';
 import { FirebaseClientProvider } from '@/firebase/client-provider';
+import { TelegramPopupHandler } from '@/components/telegram-popup-handler';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -136,6 +137,7 @@ export default async function RootLayout({
               {children}
           </div>
           <Toaster />
+          <TelegramPopupHandler />
         </FirebaseClientProvider>
         <Footer />
         <Analytics />
