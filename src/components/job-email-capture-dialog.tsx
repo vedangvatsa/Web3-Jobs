@@ -1,4 +1,3 @@
-
 'use client';
 
 import * as React from 'react';
@@ -12,6 +11,7 @@ import {
   DialogDescription,
   DialogHeader,
   DialogTitle,
+  DialogFooter,
 } from '@/components/ui/dialog';
 import {
   Form,
@@ -24,7 +24,9 @@ import {
 import { Input } from '@/components/ui/input';
 import { useToast } from '@/hooks/use-toast';
 import type { Job } from '@/types';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Rss } from 'lucide-react';
+import { useFirestore } from '@/firebase';
+import { saveEmail } from '@/lib/db';
 
 const emailSchema = z.object({
   email: z.string().email('Please enter a valid email address.'),
@@ -44,6 +46,7 @@ export function JobEmailCaptureDialog({
   onOpenChange,
 }: JobEmailCaptureDialogProps) {
   const { toast } = useToast();
+  const firestore = useFirestore();
   const form = useForm<EmailFormData>({
     resolver: zodResolver(emailSchema),
     defaultValues: {
@@ -58,14 +61,15 @@ export function JobEmailCaptureDialog({
   }, [open, form]);
 
   const onSubmit = (data: EmailFormData) => {
-    console.log('Email captured:', data.email);
-    console.log('Redirecting to job:', job?.link);
+    if (firestore) {
+      saveEmail(firestore, data.email);
+    }
 
     toast({
-      title: 'Thank you!',
-      description: `You are now being redirected to the job posting.`,
+      title: 'Email Submitted!',
+      description: `You will now be redirected to the job posting.`,
     });
-    
+
     if (job?.link) {
       window.open(job.link, '_blank');
     }
@@ -82,7 +86,7 @@ export function JobEmailCaptureDialog({
             You are applying for{' '}
             <span className="font-semibold text-primary">{job?.title}</span> at{' '}
             <span className="font-semibold text-primary">{job?.company}</span>.
-            Enter your email to continue.
+            Enter your email to receive relevant job alerts and continue.
           </DialogDescription>
         </DialogHeader>
         <Form {...form}>
@@ -109,6 +113,22 @@ export function JobEmailCaptureDialog({
             </Button>
           </form>
         </Form>
+        <DialogFooter className="pt-4 mt-4 border-t items-center text-center">
+          <div className="text-sm text-muted-foreground w-full">
+            <p>Or get instant job alerts on Telegram!</p>
+            <a
+              href="https://t.me/web3hiring"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full"
+            >
+              <Button variant="outline" className="w-full mt-2">
+                <Rss className="mr-2 h-4 w-4" />
+                Join 60,000+ on Telegram
+              </Button>
+            </a>
+          </div>
+        </DialogFooter>
       </DialogContent>
     </Dialog>
   );
