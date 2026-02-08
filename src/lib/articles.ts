@@ -8,7 +8,7 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-const articlesDirectory = path.join(process.cwd(), 'content/articles');
+const articlesDirectory = path.join(process.cwd(), 'src/lib/articles');
 
 function removePlaceholderKeyTakeaways(content: string): string {
   const sectionRegex = /(^|\n)## Key Takeaways[\s\S]*?(?=\n## |\n# |\n$)/g;

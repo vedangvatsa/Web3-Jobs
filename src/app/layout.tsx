@@ -132,12 +132,13 @@ export default async function RootLayout({
         className={cn('min-h-screen font-body antialiased flex flex-col bg-background/95')}
       >
         <FirebaseClientProvider>
-            <div className="flex-grow">
-                {children}
-            </div>
-            <Footer />
-            <Toaster />
+          <div className="flex-grow">
+              {children}
+          </div>
+          <Toaster />
         </FirebaseClientProvider>
+        <Footer />
+        <Analytics />
       </body>
     </html>
   );

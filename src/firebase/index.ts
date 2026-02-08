@@ -6,11 +6,17 @@ import { firebaseConfig } from './config';
 // This function initializes Firebase and returns the app, auth, and firestore instances.
 // It's designed to be called once, in the client provider.
 export function initializeFirebase() {
-    const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
-    const auth = getAuth(app);
-    const firestore = getFirestore(app);
-
-    return { app, auth, firestore };
+  try {
+    if (firebaseConfig?.projectId) {
+      const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
+      const auth = getAuth(app);
+      const firestore = getFirestore(app);
+      return { app, auth, firestore };
+    }
+  } catch (e) {
+    console.error("Failed to initialize Firebase", e);
+  }
+  return { app: null, auth: null, firestore: null };
 }
 
 // Re-export providers and hooks for easy consumption
