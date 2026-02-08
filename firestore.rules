@@ -4,6 +4,9 @@ service cloud.firestore {
     // Allow public creation of documents in the subscribers collection
     match /subscribers/{subscriberId} {
       allow create: if true;
+      // Optionally, you can add rules for read, update, delete.
+      // For now, only creation is allowed.
+      allow read, update, delete: if false;
     }
   }
 }
