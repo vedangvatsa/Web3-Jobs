@@ -297,14 +297,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://job-boards.greenhouse.io/earnin/jobs/7182037",
-        "title": "Senior Software Engineer",
-        "company": "Earnin",
-        "link": "https://job-boards.greenhouse.io/earnin/jobs/7182037",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/70cf1163-b70c-492e-9228-b44d264a7c30?utm_source=jobs.a16z.com",
         "title": "Manager, Sales Development | North Asia",
         "company": "Deel",
@@ -481,14 +473,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://job-boards.greenhouse.io/carta/jobs/6688699003",
-        "title": "Senior Analytics Engineer II",
-        "company": "Carta",
-        "link": "https://job-boards.greenhouse.io/carta/jobs/6688699003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/38b12877-0c3f-4b7a-adec-85cf3419dbfc?utm_source=jobs.a16z.com",
         "title": "Senior Technical Writer, Integrations",
         "company": "Deel",
@@ -533,14 +517,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Senior Product Operations Manager, FinCrime",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/5c88bf0b-b4c5-4f11-bd64-47eb13aec204?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/Deel/52d69e00-0bd7-4e0f-a6bd-fae8044e5415?utm_source=jobs.a16z.com",
-        "title": "Immigration Consultant",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/52d69e00-0bd7-4e0f-a6bd-fae8044e5415?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -601,14 +577,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://jobs.ashbyhq.com/Deel/e2e34c82-5920-4291-aeb2-b6aa91c039fa?utm_source=jobs.a16z.com",
-        "title": "Senior Manager, Payroll, EMEA/APAC",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/e2e34c82-5920-4291-aeb2-b6aa91c039fa?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/skymavis/76f3a906-81f2-4d4c-99ce-e1a97c1ac5a6?utm_source=jobs.a16z.com",
         "title": "Back End Engineer",
         "company": "Sky Mavis",
@@ -625,14 +593,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://jobs.ashbyhq.com/Deel/838569fc-b2c7-4b03-936a-76ac608b696e?utm_source=jobs.a16z.com",
-        "title": "Immigration Consultant",
-        "company": "Deel",
-        "link": "https://jobs.ashbyhq.com/Deel/838569fc-b2c7-4b03-936a-76ac608b696e?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://job-boards.greenhouse.io/valon/jobs/4592549006",
         "title": "Information Security Analyst",
         "company": "Valon",
@@ -645,22 +605,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Customer Success Manager I | French Speaking",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/1c85e4c7-b6b9-444c-b922-4335a468a09c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/earnin/jobs/7173211",
-        "title": "Senior Mobile Engineer (Android)",
-        "company": "Earnin",
-        "link": "https://job-boards.greenhouse.io/earnin/jobs/7173211",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/carta/jobs/6688690003",
-        "title": "Senior Analytics Engineer I",
-        "company": "Carta",
-        "link": "https://job-boards.greenhouse.io/carta/jobs/6688690003",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -693,14 +637,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Senior Product Manager, Platform/Identity",
         "company": "Clutch",
         "link": "https://jobs.ashbyhq.com/withclutch/edf02fbf-b06c-413b-87b4-75a0e16c733c?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://jobs.ashbyhq.com/withclutch/c469a9bc-b3a8-4617-9acb-f431a90b6e01?utm_source=jobs.a16z.com",
-        "title": "Senior Product Manager, Platform/Identity",
-        "company": "Clutch",
-        "link": "https://jobs.ashbyhq.com/withclutch/c469a9bc-b3a8-4617-9acb-f431a90b6e01?utm_source=jobs.a16z.com",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -817,10 +753,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://current.com/careers/open-positions/?id=7155604&gh_jid=7155604",
+        "id": "https://current.com/careers/open-positions/?id=7155604\u0026gh_jid=7155604",
         "title": "Senior Analytics Engineer",
         "company": "Current",
-        "link": "https://current.com/careers/open-positions/?id=7155604&gh_jid=7155604",
+        "link": "https://current.com/careers/open-positions/?id=7155604\u0026gh_jid=7155604",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -937,10 +873,10 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://current.com/careers/open-positions/?id=7144761&gh_jid=7144761",
+        "id": "https://current.com/careers/open-positions/?id=7144761\u0026gh_jid=7144761",
         "title": "Senior Software Engineer, Infrastructure",
         "company": "Current",
-        "link": "https://current.com/careers/open-positions/?id=7144761&gh_jid=7144761",
+        "link": "https://current.com/careers/open-positions/?id=7144761\u0026gh_jid=7144761",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -1053,14 +989,6 @@ const MANUAL_JOBS: Job[] = [
         "title": "Account Executive, Enterprise | Italy",
         "company": "Deel",
         "link": "https://jobs.ashbyhq.com/Deel/8bec0191-f7d1-421e-844f-1a046845f9bd?utm_source=jobs.a16z.com",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
-        "id": "https://job-boards.greenhouse.io/earnin/jobs/7125787",
-        "title": "Senior Mobile Engineer (Android)",
-        "company": "Earnin",
-        "link": "https://job-boards.greenhouse.io/earnin/jobs/7125787",
         "date": "2025-08-15T12:00:00Z",
         "source": "Manual"
     },
@@ -1209,14 +1137,6 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
-        "id": "https://job-boards.greenhouse.io/wingspan/jobs/6668878003",
-        "title": "Contractor Support Specialist",
-        "company": "Wingspan",
-        "link": "https://job-boards.greenhouse.io/wingspan/jobs/6668878003",
-        "date": "2025-08-15T12:00:00Z",
-        "source": "Manual"
-    },
-    {
         "id": "https://jobs.ashbyhq.com/Deel/ab6a16a7-8bcb-4b20-9dc3-6c1d93816380?utm_source=jobs.a16z.com",
         "title": "Payroll Implementation Manager | Portugal",
         "company": "Deel",
@@ -1345,7 +1265,7 @@ const FEEDS = [
 ];
 
 const parser = new Parser();
-const jobsCachePath = path.join(process.cwd(), 'content/jobs-cache.json');
+const jobsCachePath = path.join(process.cwd(), '.cache/jobs-cache.json');
 
 // Helper to clean company names
 function cleanCompany(company: string | undefined): string | undefined {
@@ -1372,6 +1292,12 @@ async function readJobsCache(): Promise<Job[]> {
 }
 
 async function writeJobsCache(jobs: Job[]): Promise<void> {
+  const dir = path.dirname(jobsCachePath);
+  try {
+    await fs.access(dir);
+  } catch (error) {
+    await fs.mkdir(dir, { recursive: true });
+  }
   await fs.writeFile(jobsCachePath, JSON.stringify(jobs, null, 2));
 }
 
