@@ -107,11 +107,16 @@ export function JobEmailCaptureDialog({
           </form>
         </Form>
         <Separator className="my-2" />
-        <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="w-full">
-            <Button variant="outline" className="w-full">
-                <Send className="mr-2 h-4 w-4" /> Join our Telegram Job Feed
-            </Button>
-        </a>
+         <div className="text-center space-y-2 pt-2">
+            <p className="text-sm text-muted-foreground px-4">
+                Join 60,000+ subscribers on our Telegram channel for the latest job postings.
+            </p>
+            <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="w-full inline-block px-4">
+                <Button variant="outline" className="w-full">
+                    <Send className="mr-2 h-4 w-4" /> Join Telegram Feed
+                </Button>
+            </a>
+        </div>
       </DialogContent>
     </Dialog>
   );
