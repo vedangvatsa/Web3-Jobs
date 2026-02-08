@@ -10,7 +10,7 @@ export function saveEmail(db: Firestore | null, email: string) {
           title: "Database Not Configured",
           description: "The application is not connected to a database. Your email could not be saved.",
       });
-      console.error("Firestore instance is null. Firebase may not be configured correctly.");
+      console.error("Firestore instance is null. This is likely because the Firebase environment variables are not set correctly.");
       return;
   }
   if (!email) return;
@@ -26,7 +26,7 @@ export function saveEmail(db: Firestore | null, email: string) {
         description: "You're subscribed. We'll keep you updated on the latest jobs.",
       });
   }).catch(async (error) => {
-      console.error("Firestore 'saveEmail' Error:", error);
+      console.error("Firestore 'saveEmail' Error:", error.code, error.message);
 
       if (error.code === 'permission-denied' || error.code === 'PERMISSION_DENIED') {
           const permissionError = new FirestorePermissionError({
@@ -39,7 +39,7 @@ export function saveEmail(db: Firestore | null, email: string) {
         toast({
             variant: "destructive",
             title: "Submission Error",
-            description: error.message || "Could not save your email at this time. Please try again later.",
+            description: `Could not save your email. Reason: ${error.message || 'An unknown error occurred.'}`,
         });
       }
   });
