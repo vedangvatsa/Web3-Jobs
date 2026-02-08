@@ -22,9 +22,10 @@ import {
 } from '@/components/ui/form';
 import { Input } from '@/components/ui/input';
 import type { Job } from '@/types';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Send } from 'lucide-react';
 import { useFirestore } from '@/firebase';
 import { saveEmail } from '@/lib/db';
+import { Separator } from '@/components/ui/separator';
 
 const emailSchema = z.object({
   email: z.string().email('Please enter a valid email address.'),
@@ -105,6 +106,12 @@ export function JobEmailCaptureDialog({
             </Button>
           </form>
         </Form>
+        <Separator className="my-2" />
+        <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="w-full">
+            <Button variant="outline" className="w-full">
+                <Send className="mr-2 h-4 w-4" /> Join our Telegram Job Feed
+            </Button>
+        </a>
       </DialogContent>
     </Dialog>
   );
