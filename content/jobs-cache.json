@@ -1,1442 +1,1427 @@
 [
   {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/66409017-member-of-global-operations-strategic-initiatives-analyst#content",
+    "id": "https://jobs.multicoin.capital/companies/paxos/jobs/67146524-engineering-manager-cloud-security#content",
+    "title": "Engineering Manager, Cloud Security",
+    "company": "Paxos",
+    "link": "https://jobs.multicoin.capital/companies/paxos/jobs/67146524-engineering-manager-cloud-security#content",
+    "date": "2026-02-08T01:16:09.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/67144162-people-operations-and-analytics-program-manager#content",
+    "title": "People Operations and Analytics Program Manager",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/67144162-people-operations-and-analytics-program-manager#content",
+    "date": "2026-02-07T23:04:15.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/67144161-global-mobility-program-manager#content",
+    "title": "Global Mobility Program Manager",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/67144161-global-mobility-program-manager#content",
+    "date": "2026-02-07T22:49:15.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/blackbird-labs-2/jobs/67140505-field-operations-contractor-los-angeles#content",
+    "title": "Field Operations Contractor - Los Angeles",
+    "company": "Blackbird Labs",
+    "link": "https://jobs.multicoin.capital/companies/blackbird-labs-2/jobs/67140505-field-operations-contractor-los-angeles#content",
+    "date": "2026-02-07T21:32:41.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/blackbird-labs-2/jobs/67140504-field-operations-contractor-denver#content",
+    "title": "Field Operations Contractor - Denver",
+    "company": "Blackbird Labs",
+    "link": "https://jobs.multicoin.capital/companies/blackbird-labs-2/jobs/67140504-field-operations-contractor-denver#content",
+    "date": "2026-02-07T21:17:41.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/phantom/jobs/67138348-sr-fp-a-analyst#content",
+    "title": "Sr. FP&A Analyst",
+    "company": "Phantom",
+    "link": "https://jobs.solana.com/companies/phantom/jobs/67138348-sr-fp-a-analyst#content",
+    "date": "2026-02-07T19:06:58.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/phantom/jobs/67027887-lifecyle-marketing-lead#content",
+    "title": "Lifecyle Marketing Lead",
+    "company": "Phantom",
+    "link": "https://jobs.solana.com/companies/phantom/jobs/67027887-lifecyle-marketing-lead#content",
+    "date": "2026-02-07T18:51:58.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=7c2ec31264f1058f&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Senior Software Engineer",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=7c2ec31264f1058f&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-07T15:43:39.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/67104713-ai-studio-solutions-architect#content",
+    "title": "AI Studio Solutions Architect",
+    "company": "Hedera Hashgraph",
+    "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/67104713-ai-studio-solutions-architect#content",
+    "date": "2026-02-07T13:14:03.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/oxio/jobs/67100713-human-resource-director#content",
+    "title": "Human Resource Director",
+    "company": "OXIO",
+    "link": "https://jobs.multicoin.capital/companies/oxio/jobs/67100713-human-resource-director#content",
+    "date": "2026-02-07T12:43:43.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/66689076-director-of-underwriting-high-risk#content",
+    "title": "Director of Underwriting - High Risk",
+    "company": "Breeze",
+    "link": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/66689076-director-of-underwriting-high-risk#content",
+    "date": "2026-02-07T12:28:43.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/genies/jobs/67097213-contract-technical-artist-rigging-2026#content",
+    "title": "Contract Technical Artist: Rigging, 2026",
+    "company": "Genies",
+    "link": "https://jobs.multicoin.capital/companies/genies/jobs/67097213-contract-technical-artist-rigging-2026#content",
+    "date": "2026-02-07T12:20:32.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/67079025-member-of-growth-financial-institutions-group-fig#content",
+    "title": "Member of Growth, Financial Institutions Group (FIG)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/67079025-member-of-growth-financial-institutions-group-fig#content",
+    "date": "2026-02-07T10:33:49.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/67079026-member-of-trading-operations-apac#content",
+    "title": "Member of Trading Operations (APAC)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/67079026-member-of-trading-operations-apac#content",
+    "date": "2026-02-07T10:18:49.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/hashgraph-2/jobs/67077272-ai-studio-solutions-architect#content",
+    "title": "AI Studio Solutions Architect",
+    "company": "Hashgraph",
+    "link": "https://careers.hedera.community/companies/hashgraph-2/jobs/67077272-ai-studio-solutions-architect#content",
+    "date": "2026-02-07T10:13:20.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/rain/jobs/67034821-accounting-associate#content",
+    "title": "Accounting Associate",
+    "company": "Rain",
+    "link": "https://jobs.solana.com/companies/rain/jobs/67034821-accounting-associate#content",
+    "date": "2026-02-06T23:35:01.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/nexus-2-a8c40318-c4ba-486d-9b14-ed48f99c6d44/jobs/67028941-systems-engineer-contract-brazil#content",
+    "title": "Systems Engineer (Contract, Brazil)",
+    "company": "NEXUS",
+    "link": "https://jobs.dragonfly.xyz/companies/nexus-2-a8c40318-c4ba-486d-9b14-ed48f99c6d44/jobs/67028941-systems-engineer-contract-brazil#content",
+    "date": "2026-02-06T20:36:06.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/nexus-2-a8c40318-c4ba-486d-9b14-ed48f99c6d44/jobs/67028940-systems-engineer-contract-argentina#content",
+    "title": "Systems Engineer (Contract, Argentina)",
+    "company": "NEXUS",
+    "link": "https://jobs.dragonfly.xyz/companies/nexus-2-a8c40318-c4ba-486d-9b14-ed48f99c6d44/jobs/67028940-systems-engineer-contract-argentina#content",
+    "date": "2026-02-06T20:21:06.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/blockworks/jobs/67024252-senior-backend-engineer#content",
+    "title": "Senior Backend Engineer",
+    "company": "Blockworks",
+    "link": "https://jobs.solana.com/companies/blockworks/jobs/67024252-senior-backend-engineer#content",
+    "date": "2026-02-06T19:44:01.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989950-investment-associate#content",
+    "title": "Investment Associate",
+    "company": "Inversion",
+    "link": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989950-investment-associate#content",
+    "date": "2026-02-06T13:41:52.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989951-product-engineer#content",
+    "title": "Product Engineer",
+    "company": "Inversion",
+    "link": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989951-product-engineer#content",
+    "date": "2026-02-06T13:26:52.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/66987772-vice-president-of-finance#content",
+    "title": "Vice President of Finance",
+    "company": "Arbitrum",
+    "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/66987772-vice-president-of-finance#content",
+    "date": "2026-02-06T13:18:42.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989949-research-internship#content",
+    "title": "Research Internship",
+    "company": "Inversion",
+    "link": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989949-research-internship#content",
+    "date": "2026-02-06T13:11:52.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989945-head-of-finance#content",
+    "title": "Head of Finance",
+    "company": "Inversion",
+    "link": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989945-head-of-finance#content",
+    "date": "2026-02-06T12:56:52.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/helium/jobs/66978756-tax-manager#content",
+    "title": "Tax Manager",
+    "company": "Helium",
+    "link": "https://jobs.solana.com/companies/helium/jobs/66978756-tax-manager#content",
+    "date": "2026-02-06T12:53:42.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://wellfound.com/company/galxe/jobs/3827174-strategy-operations-associate?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Strategy & Operations Associate",
+    "company": "Galxe",
+    "link": "https://wellfound.com/company/galxe/jobs/3827174-strategy-operations-associate?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-06T12:53:41.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/66982739-vice-president-of-finance#content",
+    "title": "Vice President of Finance",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/66982739-vice-president-of-finance#content",
+    "date": "2026-02-06T12:53:41.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989946-legal-internship#content",
+    "title": "Legal Internship",
+    "company": "Inversion",
+    "link": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989946-legal-internship#content",
+    "date": "2026-02-06T12:41:52.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989948-private-equity-internship#content",
+    "title": "Private Equity Internship",
+    "company": "Inversion",
+    "link": "https://jobs.avax.network/companies/inversion-2-cacce079-a2b5-405c-8310-a55d2f0554ad/jobs/66989948-private-equity-internship#content",
+    "date": "2026-02-06T12:26:52.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/66970313-fullstack-software-engineer-ai-native#content",
+    "title": "Fullstack Software Engineer - AI Native",
+    "company": "Breeze",
+    "link": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/66970313-fullstack-software-engineer-ai-native#content",
+    "date": "2026-02-06T12:23:21.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/magic-2/jobs/66968814-customer-success-engineer#content",
+    "title": "Customer Success Engineer",
+    "company": "Magic",
+    "link": "https://jobs.avax.network/companies/magic-2/jobs/66968814-customer-success-engineer#content",
+    "date": "2026-02-06T12:19:12.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=af7999109b51ea92&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Specialist, Client Development",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=af7999109b51ea92&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-06T11:43:35.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=d3bfbc0e0150011d&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Senior National Account Manager",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=d3bfbc0e0150011d&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-06T11:28:35.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=89287216252fec10&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Client Success Specialist, Dedicated",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=89287216252fec10&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-06T11:13:35.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://careers.employinc.com/jobs/17303537-product-manager-incubation-and-innovation?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Product Manager, Incubation & Innovation",
+    "company": "Lever",
+    "link": "https://careers.employinc.com/jobs/17303537-product-manager-incubation-and-innovation?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-06T09:25:04.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/66926117-senior-open-source-developer-rust-go#content",
+    "title": "Senior Open Source Developer - Rust/Go",
+    "company": "OpenZeppelin",
+    "link": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/66926117-senior-open-source-developer-rust-go#content",
+    "date": "2026-02-05T22:08:18.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/douro-labs-2/jobs/66762406-data-reliability-engineer#content",
+    "title": "Data Reliability Engineer",
+    "company": "Douro Labs",
+    "link": "https://jobs.solana.com/companies/douro-labs-2/jobs/66762406-data-reliability-engineer#content",
+    "date": "2026-02-05T21:56:04.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/66915179-support-workforce-management-lead-americas#content",
+    "title": "Support Workforce Management Lead - Americas",
+    "company": "Ashby",
+    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/66915179-support-workforce-management-lead-americas#content",
+    "date": "2026-02-05T19:42:39.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/tenderly/jobs/66912026-account-executive#content",
+    "title": "Account Executive",
+    "company": "Tenderly",
+    "link": "https://jobs.avax.network/companies/tenderly/jobs/66912026-account-executive#content",
+    "date": "2026-02-05T19:00:30.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/phantom/jobs/66902942-senior-creative-producer#content",
+    "title": "Senior Creative Producer",
+    "company": "Phantom",
+    "link": "https://jobs.solana.com/companies/phantom/jobs/66902942-senior-creative-producer#content",
+    "date": "2026-02-05T18:09:57.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/rain/jobs/66889686-communications-director#content",
+    "title": "Communications Director",
+    "company": "Rain",
+    "link": "https://jobs.solana.com/companies/rain/jobs/66889686-communications-director#content",
+    "date": "2026-02-05T17:17:38.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/alchemy-2/jobs/66831744-senior-brand-designer#content",
+    "title": "Senior Brand Designer",
+    "company": "Alchemy",
+    "link": "https://jobs.solana.com/companies/alchemy-2/jobs/66831744-senior-brand-designer#content",
+    "date": "2026-02-05T11:43:27.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/66831687-strategic-finance-manager-gtm#content",
+    "title": "Strategic Finance Manager, GTM",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/66831687-strategic-finance-manager-gtm#content",
+    "date": "2026-02-05T11:43:27.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/65721573-brand-designer-contractor#content",
+    "title": "Brand Designer (contractor)",
+    "company": "Alchemy",
+    "link": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/65721573-brand-designer-contractor#content",
+    "date": "2026-02-05T11:04:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/proof-of-play-2/jobs/66758987-qa-analyst-entry-level#content",
+    "title": "QA Analyst (Entry Level)",
+    "company": "Proof of Play",
+    "link": "https://jobs.arbitrum.io/companies/proof-of-play-2/jobs/66758987-qa-analyst-entry-level#content",
+    "date": "2026-02-04T18:14:54.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/fact-machine/jobs/66757122-mobile-app-lead#content",
+    "title": "Mobile App Lead",
+    "company": "Fact Machine",
+    "link": "https://jobs.solana.com/companies/fact-machine/jobs/66757122-mobile-app-lead#content",
+    "date": "2026-02-04T17:24:40.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/blockworks/jobs/66747483-senior-customer-success-manager#content",
+    "title": "Senior Customer Success Manager",
+    "company": "Blockworks",
+    "link": "https://jobs.solana.com/companies/blockworks/jobs/66747483-senior-customer-success-manager#content",
+    "date": "2026-02-04T15:14:53.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/arrakis-finance-2/jobs/66734627-product-designer-web3#content",
+    "title": "Product Designer (Web3)",
+    "company": "Arrakis Finance",
+    "link": "https://jobs.solana.com/companies/arrakis-finance-2/jobs/66734627-product-designer-web3#content",
+    "date": "2026-02-04T14:35:29.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/bloxroute-labs/jobs/66729185-business-development-manager#content",
+    "title": "Business Development Manager",
+    "company": "BloXroute Labs",
+    "link": "https://jobs.solana.com/companies/bloxroute-labs/jobs/66729185-business-development-manager#content",
+    "date": "2026-02-04T13:57:38.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/1inch-2/jobs/66724454-digital-marketing-manager#content",
+    "title": "Digital Marketing Manager",
+    "company": "1Inch",
+    "link": "https://jobs.avax.network/companies/1inch-2/jobs/66724454-digital-marketing-manager#content",
+    "date": "2026-02-04T13:41:50.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/66721637-outreach-manager#content",
+    "title": "Outreach Manager",
+    "company": "Kast",
+    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/66721637-outreach-manager#content",
+    "date": "2026-02-04T13:32:44.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/layerzero-2/jobs/66722239-data-engineer#content",
+    "title": "Data Engineer",
+    "company": "LayerZero",
+    "link": "https://jobs.multicoin.capital/companies/layerzero-2/jobs/66722239-data-engineer#content",
+    "date": "2026-02-04T13:32:44.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/layerzero-2/jobs/66722234-data-analyst#content",
+    "title": "Data Analyst",
+    "company": "LayerZero",
+    "link": "https://jobs.multicoin.capital/companies/layerzero-2/jobs/66722234-data-analyst#content",
+    "date": "2026-02-04T13:17:44.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/alchemy-2/jobs/66715152-software-engineer-backend-distributed-systems#content",
+    "title": "Software Engineer (Backend) - Distributed Systems",
+    "company": "Alchemy",
+    "link": "https://jobs.solana.com/companies/alchemy-2/jobs/66715152-software-engineer-backend-distributed-systems#content",
+    "date": "2026-02-04T13:15:05.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/tenderly/jobs/66699291-engineering-director#content",
+    "title": "Engineering Director",
+    "company": "Tenderly",
+    "link": "https://jobs.avax.network/companies/tenderly/jobs/66699291-engineering-director#content",
+    "date": "2026-02-04T12:06:03.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/66307825-intelligence-operations-contractor#content",
+    "title": "Intelligence Operations Contractor",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/66307825-intelligence-operations-contractor#content",
+    "date": "2026-02-04T11:35:45.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66696620-member-of-product-marketing-protocols-lead#content",
+    "title": "Member of Product Marketing, Protocols Lead",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66696620-member-of-product-marketing-protocols-lead#content",
+    "date": "2026-02-04T11:03:27.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66696621-member-of-product-transparency-financial-crimes-compliance#content",
+    "title": "Member of Product, Transparency (Financial Crimes Compliance)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66696621-member-of-product-transparency-financial-crimes-compliance#content",
+    "date": "2026-02-04T10:48:27.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/usd-ai/jobs/66665270-gtm-engineer#content",
+    "title": "GTM Engineer",
+    "company": "USD.AI",
+    "link": "https://jobs.arbitrum.io/companies/usd-ai/jobs/66665270-gtm-engineer#content",
+    "date": "2026-02-04T09:10:59.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/fact-machine/jobs/66655489-trading-systems-engineer#content",
+    "title": "Trading Systems Engineer",
+    "company": "Fact Machine",
+    "link": "https://jobs.solana.com/companies/fact-machine/jobs/66655489-trading-systems-engineer#content",
+    "date": "2026-02-03T17:21:30.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/1inch-2/jobs/66599365-it-systems-engineer#content",
+    "title": "IT Systems Engineer",
+    "company": "1Inch",
+    "link": "https://jobs.avax.network/companies/1inch-2/jobs/66599365-it-systems-engineer#content",
+    "date": "2026-02-03T10:35:27.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/1inch-2/jobs/66599366-senior-software-engineer-backend-next-js#content",
+    "title": "Senior Software Engineer, Backend (Next.JS)",
+    "company": "1Inch",
+    "link": "https://jobs.avax.network/companies/1inch-2/jobs/66599366-senior-software-engineer-backend-next-js#content",
+    "date": "2026-02-03T10:20:27.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526640-growth-marketing-manager-ai#content",
+    "title": "Growth Marketing Manager - AI",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526640-growth-marketing-manager-ai#content",
+    "date": "2026-02-01T07:46:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526641-growth-marketing-associate-ai#content",
+    "title": "Growth Marketing Associate - AI",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526641-growth-marketing-associate-ai#content",
+    "date": "2026-02-01T07:31:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526642-business-development-associate#content",
+    "title": "Business Development Associate",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526642-business-development-associate#content",
+    "date": "2026-02-01T07:16:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526639-motion-graphics-animator-ai-brand-content#content",
+    "title": "Motion Graphics Animator - AI Brand Content",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526639-motion-graphics-animator-ai-brand-content#content",
+    "date": "2026-02-01T07:01:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526637-frontend-design-lead#content",
+    "title": "Frontend & Design Lead",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526637-frontend-design-lead#content",
+    "date": "2026-02-01T06:46:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526638-senior-smart-contract-engineer#content",
+    "title": "Senior Smart Contract Engineer",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526638-senior-smart-contract-engineer#content",
+    "date": "2026-02-01T06:31:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526636-ml-engineer-audio-tts-voice-cloning#content",
+    "title": "ML Engineer | Audio & TTS Voice Cloning",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526636-ml-engineer-audio-tts-voice-cloning#content",
+    "date": "2026-02-01T06:16:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526635-mlops-ml-platform-engineer#content",
+    "title": "MLOps / ML Platform Engineer",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526635-mlops-ml-platform-engineer#content",
+    "date": "2026-02-01T06:01:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526634-product-growth-lead#content",
+    "title": "Product & Growth Lead",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526634-product-growth-lead#content",
+    "date": "2026-02-01T05:46:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526633-backend-engineer-ai-platforms-python#content",
+    "title": "Backend Engineer - AI Platforms (Python)",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526633-backend-engineer-ai-platforms-python#content",
+    "date": "2026-02-01T05:31:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526632-cv-engineer-deep-learning#content",
+    "title": "CV Engineer - Deep Learning",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526632-cv-engineer-deep-learning#content",
+    "date": "2026-02-01T05:16:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526630-generative-ai-llm-engineer#content",
+    "title": "Generative AI / LLM Engineer",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526630-generative-ai-llm-engineer#content",
+    "date": "2026-02-01T05:01:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526629-senior-prompt-engineer-applied-llm-systems#content",
+    "title": "Senior Prompt Engineer - Applied LLM Systems",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526629-senior-prompt-engineer-applied-llm-systems#content",
+    "date": "2026-02-01T04:46:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526631-devops-engineer#content",
+    "title": "DevOps Engineer",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526631-devops-engineer#content",
+    "date": "2026-02-01T04:31:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526628-senior-ai-engineer-multimodal-agents-systems#content",
+    "title": "Senior AI Engineer - Multimodal Agents & Systems",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526628-senior-ai-engineer-multimodal-agents-systems#content",
+    "date": "2026-02-01T04:16:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526626-head-of-ai-engineering#content",
+    "title": "Head of AI Engineering",
+    "company": "Alethea AI",
+    "link": "https://jobs.multicoin.capital/companies/alethea-ai/jobs/66526626-head-of-ai-engineering#content",
+    "date": "2026-02-01T03:46:31.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/rain/jobs/66517895-business-development-analyst-europe#content",
+    "title": "Business Development Analyst (Europe)",
+    "company": "Rain",
+    "link": "https://jobs.solana.com/companies/rain/jobs/66517895-business-development-analyst-europe#content",
+    "date": "2026-01-31T20:39:20.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTUwNCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "title": "Lead Product Designer",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTUwNCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "date": "2026-01-31T18:33:01.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=17105d834777766e&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Account Executive - Mid Market",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=17105d834777766e&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-01-31T15:32:14.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66506737-trading-business-operations-lead-anchorage-digital-prime#content",
+    "title": "Trading Business Operations Lead, Anchorage Digital Prime",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66506737-trading-business-operations-lead-anchorage-digital-prime#content",
+    "date": "2026-01-31T15:05:29.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/66498366-head-of-strategic-accounts#content",
+    "title": "Head of Strategic Accounts",
+    "company": "Mesh",
+    "link": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/66498366-head-of-strategic-accounts#content",
+    "date": "2026-01-31T14:40:00.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/66502861-senior-counsel-product-base#content",
+    "title": "Senior Counsel, Product (Base)",
+    "company": "Spindl",
+    "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/66502861-senior-counsel-product-base#content",
+    "date": "2026-01-31T14:17:20.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/infstones/jobs/66493477-sales-representative#content",
+    "title": "Sales Representative",
+    "company": "InfStones",
+    "link": "https://jobs.dragonfly.xyz/companies/infstones/jobs/66493477-sales-representative#content",
+    "date": "2026-01-31T13:37:45.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b68a3dbf-9f79-43ee-8390-591298cf1d01&ccId=19000101_000001&jobId=593131&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Customer Service Representative",
+    "company": "Bakkt",
+    "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b68a3dbf-9f79-43ee-8390-591298cf1d01&ccId=19000101_000001&jobId=593131&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-01-31T11:46:49.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7565761?gh_jid=7565761",
+    "title": "Data Scientist II - Product",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7565761?gh_jid=7565761",
+    "date": "2026-01-31T09:41:13.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7229342?gh_jid=7229342",
+    "title": "Director, Salesforce Architecture & GTM Systems",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7229342?gh_jid=7229342",
+    "date": "2026-01-31T09:26:13.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459709-analytics-engineer-data-scientist#content",
+    "title": "Analytics Engineer / Data Scientist",
+    "company": "Artemis",
+    "link": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459709-analytics-engineer-data-scientist#content",
+    "date": "2026-01-31T07:35:35.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459711-software-engineer-fullstack-frontend-leaning#content",
+    "title": "Software Engineer - Fullstack (Frontend Leaning)",
+    "company": "Artemis",
+    "link": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459711-software-engineer-fullstack-frontend-leaning#content",
+    "date": "2026-01-31T07:20:35.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459710-software-engineer-backend#content",
+    "title": "Software Engineer - Backend",
+    "company": "Artemis",
+    "link": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459710-software-engineer-backend#content",
+    "date": "2026-01-31T07:05:35.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459712-product-manager#content",
+    "title": "Product Manager",
+    "company": "Artemis",
+    "link": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459712-product-manager#content",
+    "date": "2026-01-31T06:50:35.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459708-institutional-gtm#content",
+    "title": "Institutional GTM",
+    "company": "Artemis",
+    "link": "https://jobs.dragonfly.xyz/companies/artemis-2-7e95d176-db94-46c4-87e7-cae8d42fd0ea/jobs/66459708-institutional-gtm#content",
+    "date": "2026-01-31T06:35:35.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/client-services-manager-at-amber-group-4367220369",
+    "title": "Client Services Manager",
+    "company": "Amber Group",
+    "link": "https://www.linkedin.com/jobs/view/client-services-manager-at-amber-group-4367220369",
+    "date": "2026-01-31T06:18:13.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/oplabs/fa70619a-c351-4743-b142-72b84ce63c62?utm_source=jobs.a16z.com",
+    "title": "Recruiter (6 Month Contract)",
+    "company": "OP Labs",
+    "link": "https://jobs.ashbyhq.com/oplabs/fa70619a-c351-4743-b142-72b84ce63c62?utm_source=jobs.a16z.com",
+    "date": "2026-01-31T00:19:10.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Guest-Experience-Coordinator_JR100796",
+    "title": "Guest Experience Coordinator",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Guest-Experience-Coordinator_JR100796",
+    "date": "2026-01-31T00:15:14.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/aave/jobs/66449939-staff-ios-engineer#content",
+    "title": "Staff iOS Engineer",
+    "company": "Aave",
+    "link": "https://jobs.avax.network/companies/aave/jobs/66449939-staff-ios-engineer#content",
+    "date": "2026-01-30T23:47:26.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/flashbots.net/7204a4d9-e5f8-4c81-9569-664f8652efbc?utm_source=jobs.panteracapital.com",
+    "title": "Distributed Systems Researcher",
+    "company": "Flashbots",
+    "link": "https://jobs.ashbyhq.com/flashbots.net/7204a4d9-e5f8-4c81-9569-664f8652efbc?utm_source=jobs.panteracapital.com",
+    "date": "2026-01-30T23:45:14.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/aave/jobs/65262569-product-marketing-manager#content",
+    "title": "Product Marketing Manager",
+    "company": "Aave",
+    "link": "https://jobs.arbitrum.io/companies/aave/jobs/65262569-product-marketing-manager#content",
+    "date": "2026-01-30T23:32:26.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/helius/jobs/66444444-staff-backend-engineer-historical-apis#content",
+    "title": "Staff Backend Engineer, Historical APIs",
+    "company": "Helius",
+    "link": "https://jobs.solana.com/companies/helius/jobs/66444444-staff-backend-engineer-historical-apis#content",
+    "date": "2026-01-30T21:13:50.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://www.welcometothejungle.com/fr/companies/zama/jobs/b2b-enterprise-marketing-lead_paris",
+    "title": "B2B/Enterprise Marketing Lead",
+    "company": "Zama",
+    "link": "https://www.welcometothejungle.com/fr/companies/zama/jobs/b2b-enterprise-marketing-lead_paris",
+    "date": "2026-01-30T18:31:45.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/meeco/jobs/66425946-self-driven-engineers#content",
+    "title": "Self-driven Engineers",
+    "company": "Meeco",
+    "link": "https://careers.hedera.community/companies/meeco/jobs/66425946-self-driven-engineers#content",
+    "date": "2026-01-30T16:24:17.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/66421154-product-design-engineer#content",
+    "title": "Product Design Engineer",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/66421154-product-design-engineer#content",
+    "date": "2026-01-30T15:07:38.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/numbers-protocol/jobs/66421935-developer-advocate#content",
+    "title": "Developer Advocate",
+    "company": "Numbers Protocol",
+    "link": "https://jobs.avax.network/companies/numbers-protocol/jobs/66421935-developer-advocate#content",
+    "date": "2026-01-30T15:07:21.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/66421152-design-engineer#content",
+    "title": "Design Engineer",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/66421152-design-engineer#content",
+    "date": "2026-01-30T14:52:38.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/celebratix-2/jobs/66420086-open-sollicitatie#content",
+    "title": "Open Sollicitatie",
+    "company": "Celebratix",
+    "link": "https://jobs.solana.com/companies/celebratix-2/jobs/66420086-open-sollicitatie#content",
+    "date": "2026-01-30T14:37:38.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/celebratix-2/jobs/66420083-head-of-content#content",
+    "title": "Head of Content",
+    "company": "Celebratix",
+    "link": "https://jobs.solana.com/companies/celebratix-2/jobs/66420083-head-of-content#content",
+    "date": "2026-01-30T14:22:38.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66409017-member-of-global-operations-strategic-initiatives-analyst#content",
     "title": "Member of Global Operations, Strategic Initiatives Analyst",
     "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/66409017-member-of-global-operations-strategic-initiatives-analyst#content",
-    "date": "2026-01-30T13:30:30.000Z",
-    "source": "Jobs | Dragonfly Job Board"
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66409017-member-of-global-operations-strategic-initiatives-analyst#content",
+    "date": "2026-01-30T13:18:57.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/66409022-member-of-product-design-transparency#content",
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66409022-member-of-product-design-transparency#content",
     "title": "Member of Product Design, Transparency",
     "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/66409022-member-of-product-design-transparency#content",
-    "date": "2026-01-30T13:15:30.000Z",
-    "source": "Jobs | Dragonfly Job Board"
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66409022-member-of-product-design-transparency#content",
+    "date": "2026-01-30T13:03:57.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/66409011-capital-analytics-lead#content",
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66409011-capital-analytics-lead#content",
     "title": "Capital Analytics Lead",
     "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/66409011-capital-analytics-lead#content",
-    "date": "2026-01-30T13:00:30.000Z",
-    "source": "Jobs | Dragonfly Job Board"
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66409011-capital-analytics-lead#content",
+    "date": "2026-01-30T12:48:57.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/66409015-data-reporting-architect#content",
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66409015-data-reporting-architect#content",
     "title": "Data & Reporting Architect",
     "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/66409015-data-reporting-architect#content",
-    "date": "2026-01-30T12:45:30.000Z",
-    "source": "Jobs | Dragonfly Job Board"
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66409015-data-reporting-architect#content",
+    "date": "2026-01-30T12:33:57.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
-    "id": "https://jobs.lever.co/anchorage/e955e590-6b00-4170-a287-66a4c5ebec32?lever-source%5B%5D=jobs.a16z.com",
-    "title": "Capital Analytics Lead",
-    "company": "Anchorage",
-    "link": "https://jobs.lever.co/anchorage/e955e590-6b00-4170-a287-66a4c5ebec32?lever-source%5B%5D=jobs.a16z.com",
-    "date": "2026-01-30T12:25:33.000Z"
+    "id": "https://jobs.solana.com/companies/credix/jobs/66355181-financial-operations-analyst#content",
+    "title": "Financial Operations Analyst",
+    "company": "Credix",
+    "link": "https://jobs.solana.com/companies/credix/jobs/66355181-financial-operations-analyst#content",
+    "date": "2026-01-30T11:52:38.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/66382833-senior-sales-recruiter#content",
     "title": "Senior Sales Recruiter",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/66382833-senior-sales-recruiter#content",
-    "date": "2026-01-30T11:40:28.000Z"
+    "date": "2026-01-30T11:40:28.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
-    "id": "https://www.coinbase.com/careers/positions/7548256?gh_jid=7548256",
-    "title": "Compliance QA Analyst II",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7548256?gh_jid=7548256",
-    "date": "2026-01-30T09:25:12.000Z"
-  },
-  {
-    "id": "https://jobs.lever.co/anchorage/e8374e96-5e63-4cc5-a515-fc0a3e554e25?lever-source%5B%5D=jobs.panteracapital.com",
-    "title": "Data & Reporting Architect",
-    "company": "Anchorage",
-    "link": "https://jobs.lever.co/anchorage/e8374e96-5e63-4cc5-a515-fc0a3e554e25?lever-source%5B%5D=jobs.panteracapital.com",
-    "date": "2026-01-30T09:10:12.000Z"
+    "id": "https://jobs.solana.com/companies/credix/jobs/66355180-sales-engineer#content",
+    "title": "Sales Engineer",
+    "company": "Credix",
+    "link": "https://jobs.solana.com/companies/credix/jobs/66355180-sales-engineer#content",
+    "date": "2026-01-30T11:37:38.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
     "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/6ff95875-4cb7-46e7-a1b5-9c76e9dad499?utm_source=jobs.a16z.com",
     "title": "Product Operations Manager",
     "company": "Worldcoin",
     "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/6ff95875-4cb7-46e7-a1b5-9c76e9dad499?utm_source=jobs.a16z.com",
-    "date": "2026-01-30T00:38:17.000Z"
-  },
-  {
-    "id": "https://www.coinbase.com/careers/positions/7576813?gh_jid=7576813",
-    "title": "Software Engineering Manager - Cloud Provisioning",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7576813?gh_jid=7576813",
-    "date": "2026-01-30T00:25:44.000Z"
-  },
-  {
-    "id": "https://jobs.lever.co/anchorage/e7f9d26f-0c33-43cd-938f-e657d0f3afa0?lever-source%5B%5D=jobs.panteracapital.com",
-    "title": "Member of Global Operations, Strategic Initiatives Analyst",
-    "company": "Anchorage",
-    "link": "https://jobs.lever.co/anchorage/e7f9d26f-0c33-43cd-938f-e657d0f3afa0?lever-source%5B%5D=jobs.panteracapital.com",
-    "date": "2026-01-30T00:10:44.000Z"
+    "date": "2026-01-30T00:38:17.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4770250101",
     "title": "Executive Assistant",
     "company": "Gensyn",
     "link": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4770250101",
-    "date": "2026-01-30T00:08:17.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/oplabs/fa70619a-c351-4743-b142-72b84ce63c62?utm_source=jobs.a16z.com",
-    "title": "GTM Recruiter (6 Month Contract)",
-    "company": "OP Labs",
-    "link": "https://jobs.ashbyhq.com/oplabs/fa70619a-c351-4743-b142-72b84ce63c62?utm_source=jobs.a16z.com",
-    "date": "2026-01-29T23:53:17.000Z"
+    "date": "2026-01-30T00:08:17.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/abf12ac4-291a-47ca-a9b0-0945f7215e10?utm_source=jobs.a16z.com",
     "title": "Product Marketing Lead - World ID",
     "company": "Worldcoin",
     "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/abf12ac4-291a-47ca-a9b0-0945f7215e10?utm_source=jobs.a16z.com",
-    "date": "2026-01-29T23:38:17.000Z"
+    "date": "2026-01-29T23:38:17.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://jobs.solana.com/companies/credix/jobs/66355179-collections-specialist#content",
     "title": "Collections Specialist",
     "company": "Credix",
     "link": "https://jobs.solana.com/companies/credix/jobs/66355179-collections-specialist#content",
-    "date": "2026-01-29T21:58:41.000Z"
+    "date": "2026-01-29T21:58:41.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
-    "id": "https://credix.notion.site/Sales-Engineer-2f7917cac58d807e82fedcc48e333929?pvs=25&utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
-    "title": "Sales Engineer",
-    "company": "Credix",
-    "link": "https://credix.notion.site/Sales-Engineer-2f7917cac58d807e82fedcc48e333929?pvs=25&utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
-    "date": "2026-01-29T21:43:41.000Z"
-  },
-  {
-    "id": "https://credix.notion.site/Financial-Operations-Analyst-2f7917cac58d8051ba6cd9a78fbbbd45?pvs=25&utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
-    "title": "Financial Operations Analyst",
-    "company": "Credix",
-    "link": "https://credix.notion.site/Financial-Operations-Analyst-2f7917cac58d8051ba6cd9a78fbbbd45?pvs=25&utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
-    "date": "2026-01-29T21:28:41.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/66351786-product-operations-manager#content",
-    "title": "Product Operations Manager",
-    "company": "World",
-    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/66351786-product-operations-manager#content",
-    "date": "2026-01-29T21:23:06.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/66351785-product-marketing-lead-world-id#content",
-    "title": "Product Marketing Lead - World ID",
-    "company": "World",
-    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/66351785-product-marketing-lead-world-id#content",
-    "date": "2026-01-29T21:08:06.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/doublezero/jobs/66351955-contributor-program-manager#content",
+    "id": "https://jobs.solana.com/companies/doublezero/jobs/66351955-contributor-program-manager#content",
     "title": "Contributor Program Manager",
     "company": "DoubleZero",
-    "link": "https://jobs.dragonfly.xyz/companies/doublezero/jobs/66351955-contributor-program-manager#content",
-    "date": "2026-01-29T20:53:06.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/flashbots.net/192a6c66-6586-48e2-baeb-4853a7110478?utm_source=jobs.panteracapital.com",
-    "title": "Sandbox Engineer",
-    "company": "Flashbots",
-    "link": "https://jobs.ashbyhq.com/flashbots.net/192a6c66-6586-48e2-baeb-4853a7110478?utm_source=jobs.panteracapital.com",
-    "date": "2026-01-29T18:17:32.000Z"
-  },
-  {
-    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTUwMSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
-    "title": "Corporate Counsel",
-    "company": "CoinDCX",
-    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTUwMSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
-    "date": "2026-01-29T18:02:32.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=783a05c296b3d9ac&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Lead National Account Manager",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=783a05c296b3d9ac&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-29T16:32:09.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=fe018977ec3eba8e&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Specialist, Client Development",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=fe018977ec3eba8e&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-29T16:17:09.000Z"
+    "link": "https://jobs.solana.com/companies/doublezero/jobs/66351955-contributor-program-manager#content",
+    "date": "2026-01-29T21:45:43.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
     "id": "https://jobs.solana.com/companies/arrakis-finance-2/jobs/66332386-technical-account-manager#content",
     "title": "Technical Account Manager",
     "company": "Arrakis Finance",
     "link": "https://jobs.solana.com/companies/arrakis-finance-2/jobs/66332386-technical-account-manager#content",
-    "date": "2026-01-29T16:07:45.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=4a39f302b357cd74&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Senior Associate, Business Operations, Glassdoor",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=4a39f302b357cd74&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-29T15:47:09.000Z"
+    "date": "2026-01-29T16:07:45.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
     "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/66311483-aml-fraud-analyst#content",
     "title": "AML Fraud Analyst",
     "company": "Kast",
     "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/66311483-aml-fraud-analyst#content",
-    "date": "2026-01-29T13:55:31.000Z"
+    "date": "2026-01-29T13:55:31.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/66307825-intel-ops-contractor#content",
     "title": "Intel Ops Contractor",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/66307825-intel-ops-contractor#content",
-    "date": "2026-01-29T13:33:11.000Z"
+    "date": "2026-01-29T13:33:11.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
-    "id": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b68a3dbf-9f79-43ee-8390-591298cf1d01&ccId=19000101_000001&jobId=592975&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Staff Engineer, Markets",
-    "company": "Bakkt",
-    "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b68a3dbf-9f79-43ee-8390-591298cf1d01&ccId=19000101_000001&jobId=592975&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-29T13:02:26.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/everstake/jobs/66296596-accountant#content",
-    "title": "Accountant",
-    "company": "Everstake",
-    "link": "https://jobs.solana.com/companies/everstake/jobs/66296596-accountant#content",
-    "date": "2026-01-29T12:13:01.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/66296063-dao-community-manager#content",
+    "id": "https://jobs.avax.network/companies/1inch-2/jobs/66296063-dao-community-manager#content",
     "title": "DAO Community Manager",
     "company": "1Inch",
-    "link": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/66296063-dao-community-manager#content",
-    "date": "2026-01-29T11:16:19.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/66296064-social-media-manager#content",
-    "title": "Social Media Manager",
-    "company": "1Inch",
-    "link": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/66296064-social-media-manager#content",
-    "date": "2026-01-29T11:01:19.000Z"
-  },
-  {
-    "id": "https://www.coinbase.com/careers/positions/7569277?gh_jid=7569277",
-    "title": "Senior Staff Machine Learning Engineer, Risk ML",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7569277?gh_jid=7569277",
-    "date": "2026-01-29T09:44:08.000Z"
+    "link": "https://jobs.avax.network/companies/1inch-2/jobs/66296063-dao-community-manager#content",
+    "date": "2026-01-29T11:28:16.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.ashbyhq.com/mystenlabs/b039f6e0-45a9-4c73-821c-8d5365292ef5?utm_source=jobs.a16z.com",
     "title": "Production Engineer",
     "company": "Mysten Labs",
     "link": "https://jobs.ashbyhq.com/mystenlabs/b039f6e0-45a9-4c73-821c-8d5365292ef5?utm_source=jobs.a16z.com",
-    "date": "2026-01-29T09:44:05.000Z"
-  },
-  {
-    "id": "https://ripple.com/careers/all-jobs/job/7565340?gh_jid=7565340",
-    "title": "Senior Software Engineer, Identity & Trust",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7565340?gh_jid=7565340",
-    "date": "2026-01-29T09:29:08.000Z"
-  },
-  {
-    "id": "https://bitso.com/jobs?gh_jid=7605823003",
-    "title": "Prime Sales & Trading Manager",
-    "company": "Bitso",
-    "link": "https://bitso.com/jobs?gh_jid=7605823003",
-    "date": "2026-01-29T09:14:08.000Z"
-  },
-  {
-    "id": "https://www.coinbase.com/careers/positions/7565853?gh_jid=7565853",
-    "title": "Product Counsel, Financial Services & Loyalty",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7565853?gh_jid=7565853",
-    "date": "2026-01-29T00:39:36.000Z"
+    "date": "2026-01-29T09:44:05.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://job-boards.greenhouse.io/bitgo/jobs/8394802002",
     "title": "Sr. Counsel",
     "company": "BitGo",
     "link": "https://job-boards.greenhouse.io/bitgo/jobs/8394802002",
-    "date": "2026-01-29T00:24:36.000Z"
-  },
-  {
-    "id": "https://jobs.lever.co/1inch/f302fe6a-4990-4cf6-8479-58e767e89801?lever-source%5B%5D=jobs.panteracapital.com",
-    "title": "DAO Community Manager",
-    "company": "1inch Network",
-    "link": "https://jobs.lever.co/1inch/f302fe6a-4990-4cf6-8479-58e767e89801?lever-source%5B%5D=jobs.panteracapital.com",
-    "date": "2026-01-29T00:09:36.000Z"
-  },
-  {
-    "id": "https://bitso.com/jobs?gh_jid=7609103003",
-    "title": "Security Operations Engineer",
-    "company": "Bitso",
-    "link": "https://bitso.com/jobs?gh_jid=7609103003",
-    "date": "2026-01-28T23:54:36.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/solana-foundation-2/jobs/66269130-apac-lead-solutions-architect#content",
-    "title": "APAC - Lead Solutions Architect",
-    "company": "Solana Foundation",
-    "link": "https://jobs.solana.com/companies/solana-foundation-2/jobs/66269130-apac-lead-solutions-architect#content",
-    "date": "2026-01-28T22:56:19.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/solana-foundation-2/jobs/66269131-institutional-lead-solutions-architect#content",
-    "title": "Institutional - Lead Solutions Architect",
-    "company": "Solana Foundation",
-    "link": "https://jobs.solana.com/companies/solana-foundation-2/jobs/66269131-institutional-lead-solutions-architect#content",
-    "date": "2026-01-28T22:41:19.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/66266735-staff-protocol-engineer#content",
-    "title": "Staff Protocol Engineer",
-    "company": "Polygon Labs",
-    "link": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/66266735-staff-protocol-engineer#content",
-    "date": "2026-01-28T21:42:16.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/66266734-site-reliability-engineer#content",
-    "title": "Site Reliability Engineer",
-    "company": "Polygon Labs",
-    "link": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/66266734-site-reliability-engineer#content",
-    "date": "2026-01-28T21:27:16.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/op-labs/jobs/66266525-enterprise-sales-lead-crypto-native#content",
-    "title": "Enterprise Sales Lead, Crypto Native",
-    "company": "OP Labs",
-    "link": "https://jobs.dragonfly.xyz/companies/op-labs/jobs/66266525-enterprise-sales-lead-crypto-native#content",
-    "date": "2026-01-28T21:12:16.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/marginfi-2/jobs/66265636-senior-software-engineer-backend-full-remote-global#content",
-    "title": "Senior Software Engineer (Backend) (Full Remote, Global)",
-    "company": "marginfi",
-    "link": "https://jobs.solana.com/companies/marginfi-2/jobs/66265636-senior-software-engineer-backend-full-remote-global#content",
-    "date": "2026-01-28T20:41:08.000Z"
-  },
-  {
-    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager---Product-Financial-Risk_JR100789",
-    "title": "Manager,  Product Financial Risk",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager---Product-Financial-Risk_JR100789",
-    "date": "2026-01-28T18:37:33.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/ec8b22f8-7d4b-4ca6-be32-8353ff117cb1?utm_source=jobs.a16z.com",
-    "title": "Sr. Growth & Operations Lead, South Korea",
-    "company": "Worldcoin",
-    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/ec8b22f8-7d4b-4ca6-be32-8353ff117cb1?utm_source=jobs.a16z.com",
-    "date": "2026-01-28T18:12:45.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=2789c07c92f0e236&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Economist",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=2789c07c92f0e236&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-28T17:40:51.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/dune-2/jobs/66251333-platform-engineer#content",
-    "title": "Platform Engineer",
-    "company": "Dune",
-    "link": "https://jobs.multicoin.capital/companies/dune-2/jobs/66251333-platform-engineer#content",
-    "date": "2026-01-28T17:29:19.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=7ea799162969cd89&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Sr. Talent Management Specialist",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=7ea799162969cd89&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-28T17:25:51.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=2edc259de1f97b61&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Account Executive - Enterprise",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=2edc259de1f97b61&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-28T17:10:51.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=8cf3e5bb9ffe5bda&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Senior Product Manager",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=8cf3e5bb9ffe5bda&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-28T16:55:51.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/dune-analytics/jobs/66241081-platform-engineer#content",
-    "title": "Platform Engineer",
-    "company": "Dune Analytics",
-    "link": "https://jobs.dragonfly.xyz/companies/dune-analytics/jobs/66241081-platform-engineer#content",
-    "date": "2026-01-28T15:58:45.000Z"
+    "date": "2026-01-29T00:24:36.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
     "id": "https://jobs.avax.network/companies/nansen/jobs/66230981-product-analyst#content",
     "title": "Product Analyst",
     "company": "Nansen",
     "link": "https://jobs.avax.network/companies/nansen/jobs/66230981-product-analyst#content",
-    "date": "2026-01-28T14:49:41.000Z"
+    "date": "2026-01-28T14:49:41.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/nansen/jobs/66230980-analytics-engineer#content",
     "title": "Analytics Engineer",
     "company": "Nansen",
     "link": "https://jobs.avax.network/companies/nansen/jobs/66230980-analytics-engineer#content",
-    "date": "2026-01-28T14:34:41.000Z"
+    "date": "2026-01-28T14:34:41.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/65713606-senior-data-scientist-nlp-graph-analytics#content",
     "title": "Senior Data Scientist, NLP & Graph Analytics",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65713606-senior-data-scientist-nlp-graph-analytics#content",
-    "date": "2026-01-28T13:58:59.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/66221175-sales-manager-startups-amer#content",
-    "title": "Sales Manager - Startups, AMER",
-    "company": "Ashby",
-    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/66221175-sales-manager-startups-amer#content",
-    "date": "2026-01-28T13:58:59.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/66217396-sr-growth-operations-lead-south-korea#content",
-    "title": "Sr. Growth & Operations Lead, South Korea",
-    "company": "World",
-    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/66217396-sr-growth-operations-lead-south-korea#content",
-    "date": "2026-01-28T13:15:34.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/conduit-2-e0bd17d2-b66e-45fa-92ce-99810db2cc92/jobs/66216164-director-of-compliance-mlro-hong-kong#content",
-    "title": "Director of Compliance & MLRO, Hong Kong",
-    "company": "Conduit",
-    "link": "https://jobs.dragonfly.xyz/companies/conduit-2-e0bd17d2-b66e-45fa-92ce-99810db2cc92/jobs/66216164-director-of-compliance-mlro-hong-kong#content",
-    "date": "2026-01-28T13:01:48.000Z"
-  },
-  {
-    "id": "https://careers.employinc.com/jobs/17273843-sr-marketing-operations-manager-contract?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Sr. Marketing Operations Manager - Contract",
-    "company": "Lever",
-    "link": "https://careers.employinc.com/jobs/17273843-sr-marketing-operations-manager-contract?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-28T12:19:25.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/dragonfly-2-c3c0d275-9922-4f4e-be9b-2fcb2f280253/jobs/66201629-investor-partner-usa-deal-team#content",
-    "title": "Investor / Partner — USA Deal Team",
-    "company": "Dragonfly",
-    "link": "https://jobs.dragonfly.xyz/companies/dragonfly-2-c3c0d275-9922-4f4e-be9b-2fcb2f280253/jobs/66201629-investor-partner-usa-deal-team#content",
-    "date": "2026-01-28T12:18:39.000Z"
+    "date": "2026-01-28T13:58:59.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://jobs.ashbyhq.com/halliday/8758dfcf-809a-4fda-ae1d-35e8c131a4be?utm_source=jobs.a16z.com",
     "title": "Senior Account Executive",
     "company": "Halliday",
     "link": "https://jobs.ashbyhq.com/halliday/8758dfcf-809a-4fda-ae1d-35e8c131a4be?utm_source=jobs.a16z.com",
-    "date": "2026-01-28T00:26:08.000Z"
+    "date": "2026-01-28T00:26:08.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
-    "id": "https://ripple.com/careers/all-jobs/job/7531430?gh_jid=7531430",
-    "title": "Director, Product Management, Exchange & Liquidity",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7531430?gh_jid=7531430",
-    "date": "2026-01-28T00:26:07.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/66176670-business-development-manager#content",
-    "title": "Business Development Manager",
-    "company": "Matrixport",
-    "link": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/66176670-business-development-manager#content",
-    "date": "2026-01-27T23:27:02.000Z"
-  },
-  {
-    "id": "https://my.linkedin.com/jobs/view/business-operations-analyst-at-matrixport-official-4365968115?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "title": "Business Operations Analyst",
-    "company": "Matrixport",
-    "link": "https://my.linkedin.com/jobs/view/business-operations-analyst-at-matrixport-official-4365968115?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "date": "2026-01-27T23:12:02.000Z"
-  },
-  {
-    "id": "https://hk.linkedin.com/jobs/view/head-of-sales-at-matrixport-official-4365966200?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "title": "Head of Sales",
-    "company": "Matrixport",
-    "link": "https://hk.linkedin.com/jobs/view/head-of-sales-at-matrixport-official-4365966200?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "date": "2026-01-27T22:57:02.000Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/marketing-director-at-matrixport-official-4365960432?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "title": "Marketing Director",
-    "company": "Matrixport",
-    "link": "https://sg.linkedin.com/jobs/view/marketing-director-at-matrixport-official-4365960432?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "date": "2026-01-27T22:27:02.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/66176663-business-operation-analyst#content",
-    "title": "Business Operation Analyst",
-    "company": "Matrixport",
-    "link": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/66176663-business-operation-analyst#content",
-    "date": "2026-01-27T21:57:02.000Z"
-  },
-  {
-    "id": "https://careers.kula.ai/paradigm/24650/?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "title": "Principal Software Development Engineer in Test",
-    "company": "Paradigm",
-    "link": "https://careers.kula.ai/paradigm/24650/?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "date": "2026-01-27T20:08:47.000Z"
-  },
-  {
-    "id": "https://careers.kula.ai/paradigm/24648/?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "title": "Principal Security Engineer",
-    "company": "Paradigm",
-    "link": "https://careers.kula.ai/paradigm/24648/?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "date": "2026-01-27T19:53:47.000Z"
-  },
-  {
-    "id": "https://careers.kula.ai/paradigm/24649/?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "title": "Senior Software Development Engineer in Test",
-    "company": "Paradigm",
-    "link": "https://careers.kula.ai/paradigm/24649/?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
-    "date": "2026-01-27T19:38:47.000Z"
+    "id": "https://jobs.ashbyhq.com/Solana%20Foundation/751db21f-5605-4f69-a9a5-be93450a6781?utm_source=jobs.a16z.com",
+    "title": "Institutional - Lead Solutions Architect",
+    "company": "Solana Foundation",
+    "link": "https://jobs.ashbyhq.com/Solana%20Foundation/751db21f-5605-4f69-a9a5-be93450a6781?utm_source=jobs.a16z.com",
+    "date": "2026-01-27T23:41:08.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://jobs.ashbyhq.com/monad.foundation/4ca46a5f-8f7f-4337-8803-ff11707e7b34?utm_source=jobs.shima.capital",
     "title": "Technical Writer [Contract]",
     "company": "Monad Foundation",
     "link": "https://jobs.ashbyhq.com/monad.foundation/4ca46a5f-8f7f-4337-8803-ff11707e7b34?utm_source=jobs.shima.capital",
-    "date": "2026-01-27T18:31:39.000Z"
+    "date": "2026-01-27T18:31:39.000Z",
+    "source": "Jobs at Shima Capital Companies | Shima Capital"
   },
   {
-    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTQ5OCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
-    "title": "Engineering Manager - Fullstack",
-    "company": "CoinDCX",
-    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTQ5OCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
-    "date": "2026-01-27T18:25:44.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=5a5218d78f6875a8&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Client Development Specialist",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=5a5218d78f6875a8&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-27T17:43:00.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=10ffc11e93c97c9f&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Account Executive - Staffing",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=10ffc11e93c97c9f&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-27T17:28:00.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=da5c193f77e7e72c&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Manager, Technical Operations",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=da5c193f77e7e72c&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-27T17:13:00.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/ondo-finance/jobs/66155245-controller-investment-operations#content",
-    "title": "Controller, Investment Operations",
-    "company": "Ondo Finance",
-    "link": "https://jobs.solana.com/companies/ondo-finance/jobs/66155245-controller-investment-operations#content",
-    "date": "2026-01-27T17:02:41.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=aaac5de735c0ddcd&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Senior National Account Manager - Staffing",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=aaac5de735c0ddcd&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-27T16:58:00.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/ondo-finance/jobs/66155246-onboarding-specialist#content",
-    "title": "Onboarding Specialist",
-    "company": "Ondo Finance",
-    "link": "https://jobs.solana.com/companies/ondo-finance/jobs/66155246-onboarding-specialist#content",
-    "date": "2026-01-27T16:47:41.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/passes/jobs/66141589-senior-growth-manager-generalist#content",
-    "title": "Senior Growth Manager - Generalist",
-    "company": "Passes",
-    "link": "https://jobs.multicoin.capital/companies/passes/jobs/66141589-senior-growth-manager-generalist#content",
-    "date": "2026-01-27T15:04:06.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/passes/jobs/66141587-growth-manager-seo-aeo#content",
-    "title": "Growth Manager - SEO & AEO",
-    "company": "Passes",
-    "link": "https://jobs.multicoin.capital/companies/passes/jobs/66141587-growth-manager-seo-aeo#content",
-    "date": "2026-01-27T14:49:06.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/exodus-2/jobs/66131391-equity-compensation-partner#content",
-    "title": "Equity & Compensation Partner",
-    "company": "Exodus",
-    "link": "https://jobs.solana.com/companies/exodus-2/jobs/66131391-equity-compensation-partner#content",
-    "date": "2026-01-27T13:32:43.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66134105-member-of-information-security#content",
-    "title": "Member of Information & Security",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66134105-member-of-information-security#content",
-    "date": "2026-01-27T13:08:03.000Z"
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/66142843-general-manager-enterprises#content",
+    "title": "General Manager, Enterprises",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/66142843-general-manager-enterprises#content",
+    "date": "2026-01-27T14:14:20.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/66132718-general-manager-enterprises#content",
     "title": "General Manager, Enterprises",
     "company": "Arbitrum",
     "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/66132718-general-manager-enterprises#content",
-    "date": "2026-01-27T13:06:42.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66134103-member-of-compliance-kyc#content",
-    "title": "Member of Compliance, KYC",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66134103-member-of-compliance-kyc#content",
-    "date": "2026-01-27T12:53:03.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/66134104-member-of-compliance-transaction-monitoring-us#content",
-    "title": "Member of Compliance, Transaction Monitoring US",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/66134104-member-of-compliance-transaction-monitoring-us#content",
-    "date": "2026-01-27T12:38:03.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/jito-labs/jobs/66127216-head-of-product-mobile#content",
-    "title": "Head of Product - Mobile",
-    "company": "Jito Labs",
-    "link": "https://jobs.solana.com/companies/jito-labs/jobs/66127216-head-of-product-mobile#content",
-    "date": "2026-01-27T12:23:32.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/jito-labs/jobs/66127217-staff-systems-engineer-low-latency-networking#content",
-    "title": "Staff Systems Engineer - Low Latency & Networking",
-    "company": "Jito Labs",
-    "link": "https://jobs.solana.com/companies/jito-labs/jobs/66127217-staff-systems-engineer-low-latency-networking#content",
-    "date": "2026-01-27T12:08:32.000Z"
-  },
-  {
-    "id": "https://jobs.lever.co/anchorage/dbc2739f-bbb4-4ae2-a162-2a4990481f15?lever-source%5B%5D=jobs.a16z.com",
-    "title": "Member of Information & Security",
-    "company": "Anchorage",
-    "link": "https://jobs.lever.co/anchorage/dbc2739f-bbb4-4ae2-a162-2a4990481f15?lever-source%5B%5D=jobs.a16z.com",
-    "date": "2026-01-27T00:27:51.000Z"
+    "date": "2026-01-27T13:06:42.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://job-boards.greenhouse.io/dfinity/jobs/8389532002",
     "title": "Senior Identity Engineer (Verifiable Credentials & Wallet Integrations)",
     "company": "DFINITY",
     "link": "https://job-boards.greenhouse.io/dfinity/jobs/8389532002",
-    "date": "2026-01-27T00:12:51.000Z"
-  },
-  {
-    "id": "https://jobs.lever.co/offchainlabs/4f7a9ca4-98fe-425f-be97-8f89bc237dd9?lever-source%5B%5D=jobs.panteracapital.com",
-    "title": "General Manager, Enterprises",
-    "company": "Offchain Labs",
-    "link": "https://jobs.lever.co/offchainlabs/4f7a9ca4-98fe-425f-be97-8f89bc237dd9?lever-source%5B%5D=jobs.panteracapital.com",
-    "date": "2026-01-26T23:48:49.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/66080467-integrations-consultant-emea#content",
-    "title": "Integrations Consultant - EMEA",
-    "company": "Ashby",
-    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/66080467-integrations-consultant-emea#content",
-    "date": "2026-01-26T21:44:11.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/66074116-cost-controller#content",
-    "title": "Cost Controller",
-    "company": "Kast",
-    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/66074116-cost-controller#content",
-    "date": "2026-01-26T20:01:02.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/66050314-dual-fuel-engineer#content",
-    "title": "Dual Fuel Engineer",
-    "company": "Fuse Energy",
-    "link": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/66050314-dual-fuel-engineer#content",
-    "date": "2026-01-26T13:41:00.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/baton-corporation/jobs/65911607-staff-full-stack-engineer#content",
-    "title": "Staff Full Stack Engineer",
-    "company": "Baton Corporation",
-    "link": "https://jobs.solana.com/companies/baton-corporation/jobs/65911607-staff-full-stack-engineer#content",
-    "date": "2026-01-26T08:54:04.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/66043259-head-of-revenue#content",
-    "title": "Head Of Revenue",
-    "company": "Coinflow Labs",
-    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/66043259-head-of-revenue#content",
-    "date": "2026-01-26T05:45:29.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/solflare/jobs/65996205-backend-developer#content",
-    "title": "Backend Developer",
-    "company": "Solflare",
-    "link": "https://jobs.solana.com/companies/solflare/jobs/65996205-backend-developer#content",
-    "date": "2026-01-25T02:31:33.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/ondo-finance/jobs/65993267-head-of-business-operations#content",
-    "title": "Head of Business Operations",
-    "company": "Ondo Finance",
-    "link": "https://jobs.solana.com/companies/ondo-finance/jobs/65993267-head-of-business-operations#content",
-    "date": "2026-01-25T00:14:00.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/65954139-talent-team-lead-product-design-engineering#content",
-    "title": "Talent Team Lead, Product, Design, & Engineering",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/65954139-talent-team-lead-product-design-engineering#content",
-    "date": "2026-01-24T13:28:20.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/65954131-engineering-lead-security-operations#content",
-    "title": "Engineering Lead, Security Operations",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/65954131-engineering-lead-security-operations#content",
-    "date": "2026-01-24T13:13:20.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/65954134-lead-regulated-compliance-programs#content",
-    "title": "Lead, Regulated Compliance Programs",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/65954134-lead-regulated-compliance-programs#content",
-    "date": "2026-01-24T12:58:20.000Z"
+    "date": "2026-01-27T00:12:51.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/65938092-sales-director-financial-services-europe#content",
     "title": "Sales Director, Financial Services - Europe",
     "company": "Hedera Hashgraph",
     "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/65938092-sales-director-financial-services-europe#content",
-    "date": "2026-01-24T12:14:05.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/squads-2-f6fb25b1-e381-4b5c-ae8c-7d8b128601ff/jobs/65931039-compliance-operations-lead#content",
-    "title": "Compliance Operations Lead",
-    "company": "Squads",
-    "link": "https://jobs.solana.com/companies/squads-2-f6fb25b1-e381-4b5c-ae8c-7d8b128601ff/jobs/65931039-compliance-operations-lead#content",
-    "date": "2026-01-24T11:49:47.000Z"
+    "date": "2026-01-24T12:14:05.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/hashgraph-2/jobs/65929822-sales-director-financial-services-europe#content",
     "title": "Sales Director, Financial Services - Europe",
     "company": "Hashgraph",
     "link": "https://careers.hedera.community/companies/hashgraph-2/jobs/65929822-sales-director-financial-services-europe#content",
-    "date": "2026-01-24T11:34:48.000Z"
+    "date": "2026-01-24T11:34:48.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/crossmint-2/jobs/65894075-aml-officer-mlro-uk#content",
     "title": "🔎AML Officer / MLRO (UK)",
     "company": "Crossmint",
     "link": "https://jobs.arbitrum.io/companies/crossmint-2/jobs/65894075-aml-officer-mlro-uk#content",
-    "date": "2026-01-23T23:14:51.000Z"
+    "date": "2026-01-23T23:14:51.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/hashgraph-2/jobs/65815591-product-security-engineer#content",
     "title": "Product Security Engineer",
     "company": "Hashgraph",
     "link": "https://careers.hedera.community/companies/hashgraph-2/jobs/65815591-product-security-engineer#content",
-    "date": "2026-01-23T12:55:22.000Z"
+    "date": "2026-01-23T12:55:22.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/65812247-enterprise-security-engineer#content",
     "title": "Enterprise Security Engineer",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65812247-enterprise-security-engineer#content",
-    "date": "2026-01-23T12:23:38.000Z"
+    "date": "2026-01-23T12:23:38.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/65812250-senior-sales-recruiter-national-security#content",
     "title": "Senior Sales Recruiter - National Security",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65812250-senior-sales-recruiter-national-security#content",
-    "date": "2026-01-23T12:08:38.000Z"
+    "date": "2026-01-23T12:08:38.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/65807943-product-security-engineer#content",
     "title": "Product Security Engineer",
     "company": "Hedera Hashgraph",
     "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/65807943-product-security-engineer#content",
-    "date": "2026-01-23T12:05:00.000Z"
+    "date": "2026-01-23T12:05:00.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/65812246-compliance-engineer#content",
     "title": "Compliance Engineer",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65812246-compliance-engineer#content",
-    "date": "2026-01-23T11:53:38.000Z"
+    "date": "2026-01-23T11:53:38.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/65812242-compliance-advisor#content",
     "title": "Compliance Advisor",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65812242-compliance-advisor#content",
-    "date": "2026-01-23T11:38:38.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/mystenlabs/461b3876-06dd-4d6b-a96d-d121ee004eda?utm_source=jobs.a16z.com",
-    "title": "Senior Frontend Engineer (Slush Wallet)",
-    "company": "Mysten Labs",
-    "link": "https://jobs.ashbyhq.com/mystenlabs/461b3876-06dd-4d6b-a96d-d121ee004eda?utm_source=jobs.a16z.com",
-    "date": "2026-01-23T09:44:29.000Z"
+    "date": "2026-01-23T11:38:38.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/antimetal/jobs/65758105-evaluations-platform-engineer#content",
     "title": "Evaluations - Platform Engineer",
     "company": "Antimetal",
     "link": "https://jobs.arbitrum.io/companies/antimetal/jobs/65758105-evaluations-platform-engineer#content",
-    "date": "2026-01-22T19:41:16.000Z"
+    "date": "2026-01-22T19:41:16.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://algorandfoundation.bamboohr.com/careers/182",
     "title": "Financial Accountant",
     "company": "Algorand",
     "link": "https://algorandfoundation.bamboohr.com/careers/182",
-    "date": "2026-01-22T18:32:43.000Z"
+    "date": "2026-01-22T18:32:43.000Z",
+    "source": "Jobs at Shima Capital Companies | Shima Capital"
   },
   {
     "id": "https://algorandfoundation.bamboohr.com/careers/181",
     "title": "Community Manager",
     "company": "Algorand",
     "link": "https://algorandfoundation.bamboohr.com/careers/181",
-    "date": "2026-01-22T18:17:43.000Z"
+    "date": "2026-01-22T18:17:43.000Z",
+    "source": "Jobs at Shima Capital Companies | Shima Capital"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/65721573-senior-brand-designer-design-contractor#content",
     "title": "Senior Brand Designer, Design (contractor)",
     "company": "Alchemy",
     "link": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/65721573-senior-brand-designer-design-contractor#content",
-    "date": "2026-01-22T14:39:07.000Z"
+    "date": "2026-01-22T14:39:07.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/65721569-customer-product-engineer-bucharest#content",
     "title": "Customer Product Engineer (Bucharest)",
     "company": "Alchemy",
     "link": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/65721569-customer-product-engineer-bucharest#content",
-    "date": "2026-01-22T14:24:07.000Z"
+    "date": "2026-01-22T14:24:07.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/65713607-solutions-integration-engineer#content",
     "title": "Solutions Integration Engineer",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65713607-solutions-integration-engineer#content",
-    "date": "2026-01-22T14:03:32.000Z"
+    "date": "2026-01-22T14:03:32.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/65713605-ai-agent-engineer#content",
     "title": "AI Agent Engineer",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65713605-ai-agent-engineer#content",
-    "date": "2026-01-22T13:48:32.000Z"
+    "date": "2026-01-22T13:48:32.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/consensys-2-33323f7e-0ce6-439f-89d6-30a145d8d69c/jobs/65703493-backend-engineer-metamask-api-platform#content",
     "title": "Backend Engineer - MetaMask (API Platform)",
     "company": "Consensys",
     "link": "https://jobs.arbitrum.io/companies/consensys-2-33323f7e-0ce6-439f-89d6-30a145d8d69c/jobs/65703493-backend-engineer-metamask-api-platform#content",
-    "date": "2026-01-22T13:17:59.000Z"
+    "date": "2026-01-22T13:17:59.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/1inch-2/jobs/65710146-data-scientist#content",
     "title": "Data Scientist",
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65710146-data-scientist#content",
-    "date": "2026-01-22T12:18:48.000Z"
+    "date": "2026-01-22T12:18:48.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
-    "id": "https://job-boards.eu.greenhouse.io/aztec/jobs/4763296101",
-    "title": "Senior Legal Counsel",
-    "company": "Aztec",
-    "link": "https://job-boards.eu.greenhouse.io/aztec/jobs/4763296101",
-    "date": "2026-01-21T18:44:20.000Z"
+    "id": "https://jobs.arbitrum.io/companies/aave/jobs/65262572-staff-devops-engineer#content",
+    "title": "Staff DevOps Engineer",
+    "company": "Aave",
+    "link": "https://jobs.arbitrum.io/companies/aave/jobs/65262572-staff-devops-engineer#content",
+    "date": "2026-01-21T21:09:28.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://limechain.tech/careers/director-of-revenue-marketing?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
     "title": "Director of Revenue Marketing",
     "company": "LimeChain",
     "link": "https://limechain.tech/careers/director-of-revenue-marketing?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
-    "date": "2026-01-21T15:41:53.000Z"
+    "date": "2026-01-21T15:41:53.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/providence-2/jobs/65637058-technical-game-designer-unreal-engine#content",
     "title": "Technical Game Designer (Unreal Engine)",
     "company": "Providence",
     "link": "https://jobs.avax.network/companies/providence-2/jobs/65637058-technical-game-designer-unreal-engine#content",
-    "date": "2026-01-21T13:50:14.000Z"
+    "date": "2026-01-21T13:50:14.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/redstone/jobs/65622266-visual-designer#content",
     "title": "Visual Designer",
     "company": "RedStone",
     "link": "https://jobs.arbitrum.io/companies/redstone/jobs/65622266-visual-designer#content",
-    "date": "2026-01-21T13:49:49.000Z"
+    "date": "2026-01-21T13:49:49.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/providence-2/jobs/65637061-gameplay-programmer-unreal-engine#content",
     "title": "Gameplay Programmer (Unreal Engine)",
     "company": "Providence",
     "link": "https://jobs.avax.network/companies/providence-2/jobs/65637061-gameplay-programmer-unreal-engine#content",
-    "date": "2026-01-21T13:35:14.000Z"
+    "date": "2026-01-21T13:35:14.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/providence-2/jobs/65637060-lead-game-programmer-unreal-engine#content",
     "title": "Lead Game Programmer (Unreal Engine)",
     "company": "Providence",
     "link": "https://jobs.avax.network/companies/providence-2/jobs/65637060-lead-game-programmer-unreal-engine#content",
-    "date": "2026-01-21T13:20:14.000Z"
+    "date": "2026-01-21T13:20:14.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/providence-2/jobs/65637062-network-programmer#content",
     "title": "Network Programmer",
     "company": "Providence",
     "link": "https://jobs.avax.network/companies/providence-2/jobs/65637062-network-programmer#content",
-    "date": "2026-01-21T13:05:14.000Z"
+    "date": "2026-01-21T13:05:14.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/trm-labs/jobs/65602083-project-manager-brand-design-localization-contract#content",
     "title": "Project Manager — Brand Design & Localization (Contract)",
     "company": "TRM Labs",
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65602083-project-manager-brand-design-localization-contract#content",
-    "date": "2026-01-21T12:44:43.000Z"
+    "date": "2026-01-21T12:44:43.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/65610237-finance-manager-fp-a#content",
     "title": "Finance Manager, FP&A",
     "company": "Arbitrum",
     "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/65610237-finance-manager-fp-a#content",
-    "date": "2026-01-21T12:26:28.000Z"
+    "date": "2026-01-21T12:26:28.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/65599486-finance-manager-fp-a#content",
     "title": "Finance Manager, FP&A",
     "company": "Offchain Labs",
     "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/65599486-finance-manager-fp-a#content",
-    "date": "2026-01-21T11:29:32.000Z"
+    "date": "2026-01-21T11:29:32.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/1inch-2/jobs/65591837-software-engineer-frontend-angular#content",
     "title": "Software Engineer, Frontend (Angular)",
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65591837-software-engineer-frontend-angular#content",
-    "date": "2026-01-21T09:09:56.000Z"
+    "date": "2026-01-21T09:09:56.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/1inch-2/jobs/65591836-software-engineer-backend-typescript-js-or-node-js#content",
     "title": "Software Engineer, Backend (TypeScript.js or Node.Js)",
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65591836-software-engineer-backend-typescript-js-or-node-js#content",
-    "date": "2026-01-21T08:54:56.000Z"
+    "date": "2026-01-21T08:54:56.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/1inch-2/jobs/65591834-software-engineer-blockchain#content",
     "title": "Software Engineer, (Blockchain)",
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65591834-software-engineer-blockchain#content",
-    "date": "2026-01-21T08:39:56.000Z"
+    "date": "2026-01-21T08:39:56.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/1inch-2/jobs/65591835-software-engineer-backend-golang#content",
     "title": "Software Engineer, Backend (Golang)",
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65591835-software-engineer-backend-golang#content",
-    "date": "2026-01-21T08:24:56.000Z"
+    "date": "2026-01-21T08:24:56.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/1inch-2/jobs/65591832-product-manager#content",
     "title": "Product Manager",
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65591832-product-manager#content",
-    "date": "2026-01-21T08:09:56.000Z"
+    "date": "2026-01-21T08:09:56.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/1inch-2/jobs/65591833-qa-engineer#content",
     "title": "QA Engineer",
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65591833-qa-engineer#content",
-    "date": "2026-01-21T07:54:56.000Z"
+    "date": "2026-01-21T07:54:56.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/antimetal/jobs/65569282-product-engineer-agents#content",
     "title": "Product Engineer - Agents",
     "company": "Antimetal",
     "link": "https://jobs.arbitrum.io/companies/antimetal/jobs/65569282-product-engineer-agents#content",
-    "date": "2026-01-20T20:18:35.000Z"
+    "date": "2026-01-20T20:18:35.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://algorandfoundation.bamboohr.com/careers/180",
     "title": "Blockchain Developer",
     "company": "Algorand",
     "link": "https://algorandfoundation.bamboohr.com/careers/180",
-    "date": "2026-01-20T18:22:05.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/65526361-lead-solutions-engineer#content",
-    "title": "Lead Solutions Engineer",
-    "company": "Polygon Labs",
-    "link": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/65526361-lead-solutions-engineer#content",
-    "date": "2026-01-20T13:28:52.000Z"
+    "date": "2026-01-20T18:22:05.000Z",
+    "source": "Jobs at Shima Capital Companies | Shima Capital"
   },
   {
     "id": "https://jobs.avax.network/companies/tenderly/jobs/65503581-senior-rust-engineer#content",
     "title": "Senior Rust Engineer",
     "company": "Tenderly",
     "link": "https://jobs.avax.network/companies/tenderly/jobs/65503581-senior-rust-engineer#content",
-    "date": "2026-01-20T07:49:27.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/flow-blockchain/jobs/65503586-capital-markets-investor-relations-lead#content",
-    "title": "Capital Markets / Investor Relations Lead",
-    "company": "Flow Blockchain",
-    "link": "https://jobs.multicoin.capital/companies/flow-blockchain/jobs/65503586-capital-markets-investor-relations-lead#content",
-    "date": "2026-01-20T07:37:56.000Z"
+    "date": "2026-01-20T07:49:27.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/tenderly/jobs/65503582-site-reliability-engineer#content",
     "title": "Site Reliability Engineer",
     "company": "Tenderly",
     "link": "https://jobs.avax.network/companies/tenderly/jobs/65503582-site-reliability-engineer#content",
-    "date": "2026-01-20T07:34:27.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/flow-blockchain/jobs/65503585-senior-full-stack-engineer-flow-wallet#content",
-    "title": "Senior Full-Stack Engineer - Flow Wallet",
-    "company": "Flow Blockchain",
-    "link": "https://jobs.multicoin.capital/companies/flow-blockchain/jobs/65503585-senior-full-stack-engineer-flow-wallet#content",
-    "date": "2026-01-20T07:22:56.000Z"
+    "date": "2026-01-20T07:34:27.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "https://jobs.avax.network/companies/tenderly/jobs/65503583-general-engineering-application#content",
     "title": "General Engineering Application",
     "company": "Tenderly",
     "link": "https://jobs.avax.network/companies/tenderly/jobs/65503583-general-engineering-application#content",
-    "date": "2026-01-20T07:19:27.000Z"
+    "date": "2026-01-20T07:19:27.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
-    "id": "https://jobs.avax.network/companies/tenderly/jobs/65503580-senior-blockchain-engineer-vnets#content",
-    "title": "Senior Blockchain Engineer [VNets]",
-    "company": "Tenderly",
-    "link": "https://jobs.avax.network/companies/tenderly/jobs/65503580-senior-blockchain-engineer-vnets#content",
-    "date": "2026-01-20T07:04:27.000Z"
-  },
-  {
-    "id": "https://jobs.lever.co/1inch/758d4fb4-1e91-4199-a2bb-b706fce28fc9?lever-source%5B%5D=jobs.panteracapital.com",
-    "title": "Software Engineer, Backend (Golang)",
-    "company": "1inch Network",
-    "link": "https://jobs.lever.co/1inch/758d4fb4-1e91-4199-a2bb-b706fce28fc9?lever-source%5B%5D=jobs.panteracapital.com",
-    "date": "2026-01-20T06:35:02.000Z"
-  },
-  {
-    "id": "https://www.coinbase.com/careers/positions/7546677?gh_jid=7546677",
-    "title": "Customer Support Specialist",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7546677?gh_jid=7546677",
-    "date": "2026-01-19T18:24:51.000Z"
-  },
-  {
-    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTQ5NSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
-    "title": "Executive - Talent Operations",
-    "company": "CoinDCX",
-    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTQ5NSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
-    "date": "2026-01-19T18:09:51.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/li-fi-2/jobs/65487965-junior-finance-analyst#content",
-    "title": "Junior Finance Analyst",
-    "company": "LI.FI",
-    "link": "https://jobs.multicoin.capital/companies/li-fi-2/jobs/65487965-junior-finance-analyst#content",
-    "date": "2026-01-19T17:02:28.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/cow-dao/jobs/65486280-senior-visual-designer#content",
-    "title": "Senior Visual Designer",
-    "company": "CoW DAO",
-    "link": "https://jobs.solana.com/companies/cow-dao/jobs/65486280-senior-visual-designer#content",
-    "date": "2026-01-19T16:47:35.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/agora-2-76387f5c-6833-498f-b633-90b1f62fe59d/jobs/65453295-senior-aml-kyc-onboarding-manager#content",
-    "title": "Senior AML/KYC Onboarding Manager",
-    "company": "Agora",
-    "link": "https://jobs.dragonfly.xyz/companies/agora-2-76387f5c-6833-498f-b633-90b1f62fe59d/jobs/65453295-senior-aml-kyc-onboarding-manager#content",
-    "date": "2026-01-19T11:21:42.000Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/staff-devops-engineer-at-aave-labs-4351887384?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "title": "Staff DevOps Engineer",
-    "company": "Aave",
-    "link": "https://sg.linkedin.com/jobs/view/staff-devops-engineer-at-aave-labs-4351887384?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "date": "2026-01-18T23:26:26.000Z"
-  },
-  {
-    "id": "https://uk.linkedin.com/jobs/view/product-marketing-manager-at-aave-labs-4354746592?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "title": "Product Marketing Manager",
-    "company": "Aave",
-    "link": "https://uk.linkedin.com/jobs/view/product-marketing-manager-at-aave-labs-4354746592?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "date": "2026-01-18T23:11:26.000Z"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/staff-react-native-engineer-at-aave-labs-4354825974?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "title": "Staff React Native Engineer",
-    "company": "Aave",
-    "link": "https://www.linkedin.com/jobs/view/staff-react-native-engineer-at-aave-labs-4354825974?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "date": "2026-01-18T22:41:26.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/65432709-head-of-partnerships#content",
-    "title": "Head of Partnerships",
-    "company": "Fuse Energy",
-    "link": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/65432709-head-of-partnerships#content",
-    "date": "2026-01-18T13:09:05.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/OpenSea/5421c373-92e8-41ee-bc82-e467c02b010a?utm_source=jobs.a16z.com",
-    "title": "Staff Product Designer",
-    "company": "OpenSea",
-    "link": "https://jobs.ashbyhq.com/OpenSea/5421c373-92e8-41ee-bc82-e467c02b010a?utm_source=jobs.a16z.com",
-    "date": "2026-01-18T06:28:09.000Z"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/crossmint-2/jobs/65260579-finance-analyst-spain#content",
-    "title": "📈Finance Analyst (Spain)",
-    "company": "Crossmint",
-    "link": "https://jobs.arbitrum.io/companies/crossmint-2/jobs/65260579-finance-analyst-spain#content",
-    "date": "2026-01-17T18:00:50.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/oxio/jobs/65414053-staff-telecom-bss-architect#content",
-    "title": "Staff Telecom BSS Architect",
-    "company": "OXIO",
-    "link": "https://jobs.multicoin.capital/companies/oxio/jobs/65414053-staff-telecom-bss-architect#content",
-    "date": "2026-01-17T16:55:09.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/oxio/jobs/65414051-senior-software-engineer-telecom-orchestration-provisioning#content",
-    "title": "Senior Software Engineer - Telecom Orchestration & Provisioning",
-    "company": "OXIO",
-    "link": "https://jobs.multicoin.capital/companies/oxio/jobs/65414051-senior-software-engineer-telecom-orchestration-provisioning#content",
-    "date": "2026-01-17T16:40:09.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/65410121-affiliate-marketing-manager#content",
-    "title": "Affiliate Marketing Manager",
-    "company": "Polymarket",
-    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/65410121-affiliate-marketing-manager#content",
-    "date": "2026-01-17T15:52:02.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/solana-foundation-2/jobs/65408103-consumer-ecosystem-growth-lead#content",
-    "title": "Consumer Ecosystem Growth Lead",
-    "company": "Solana Foundation",
-    "link": "https://jobs.solana.com/companies/solana-foundation-2/jobs/65408103-consumer-ecosystem-growth-lead#content",
-    "date": "2026-01-17T15:27:14.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/numerai/jobs/65405730-full-stack-growth-engineer#content",
-    "title": "Full-Stack Growth Engineer",
-    "company": "Numerai",
-    "link": "https://jobs.dragonfly.xyz/companies/numerai/jobs/65405730-full-stack-growth-engineer#content",
-    "date": "2026-01-17T13:37:49.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/65395340-aml-kyc-compliance-program-director#content",
-    "title": "AML/KYC Compliance Program Director",
-    "company": "Mesh",
-    "link": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/65395340-aml-kyc-compliance-program-director#content",
-    "date": "2026-01-17T13:22:49.000Z"
+    "id": "https://jobs.arbitrum.io/companies/proof-of-play-2/jobs/65410604-2d-art-generalist#content",
+    "title": "2D Art Generalist",
+    "company": "Proof of Play",
+    "link": "https://jobs.arbitrum.io/companies/proof-of-play-2/jobs/65410604-2d-art-generalist#content",
+    "date": "2026-01-17T16:06:07.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/quicknode/jobs/65385649-support-engineer-ii#content",
     "title": "Support Engineer II",
     "company": "QuickNode",
     "link": "https://jobs.arbitrum.io/companies/quicknode/jobs/65385649-support-engineer-ii#content",
-    "date": "2026-01-17T12:43:58.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/steakhouse-financial-2/jobs/65377013-lead-kamino-market-infrastructure-software-engineer#content",
-    "title": "Lead Kamino Market Infrastructure Software Engineer",
-    "company": "Steakhouse Financial",
-    "link": "https://jobs.solana.com/companies/steakhouse-financial-2/jobs/65377013-lead-kamino-market-infrastructure-software-engineer#content",
-    "date": "2026-01-17T12:24:47.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/infstones/jobs/65383808-growth-marketing-manager#content",
-    "title": "Growth Marketing Manager",
-    "company": "InfStones",
-    "link": "https://jobs.dragonfly.xyz/companies/infstones/jobs/65383808-growth-marketing-manager#content",
-    "date": "2026-01-17T11:54:38.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/infstones/jobs/65383811-sales-representative#content",
-    "title": "Sales Representative",
-    "company": "InfStones",
-    "link": "https://jobs.dragonfly.xyz/companies/infstones/jobs/65383811-sales-representative#content",
-    "date": "2026-01-17T11:39:38.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/65367364-institutional-sales-representative-investors-vc-s#content",
-    "title": "Institutional Sales Representative - Investors & VC's",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/65367364-institutional-sales-representative-investors-vc-s#content",
-    "date": "2026-01-17T09:54:26.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/65367365-member-of-client-solutions-enablement#content",
-    "title": "Member of Client Solutions & Enablement",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/65367365-member-of-client-solutions-enablement#content",
-    "date": "2026-01-17T09:39:26.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/proofofplay/73f7fe04-43c3-4ad4-bbe7-bbfdf4e37446?utm_source=jobs.a16z.com",
-    "title": "2D Art Generalist",
-    "company": "Proof of Play",
-    "link": "https://jobs.ashbyhq.com/proofofplay/73f7fe04-43c3-4ad4-bbe7-bbfdf4e37446?utm_source=jobs.a16z.com",
-    "date": "2026-01-17T00:30:42.000Z"
-  },
-  {
-    "id": "https://jobs.lever.co/anchorage/af49c5fc-0b89-4cba-83c9-5f780fd016e1?lever-source%5B%5D=jobs.a16z.com",
-    "title": "Institutional Sales Representative - Investors & VC's",
-    "company": "Anchorage",
-    "link": "https://jobs.lever.co/anchorage/af49c5fc-0b89-4cba-83c9-5f780fd016e1?lever-source%5B%5D=jobs.a16z.com",
-    "date": "2026-01-17T00:15:42.000Z"
-  },
-  {
-    "id": "https://job-boards.greenhouse.io/aptoslabs/jobs/4650606005",
-    "title": "Information Security Engineer, Product",
-    "company": "Aptos Labs",
-    "link": "https://job-boards.greenhouse.io/aptoslabs/jobs/4650606005",
-    "date": "2026-01-17T00:00:42.000Z"
-  },
-  {
-    "id": "https://bitso.com/jobs?gh_jid=7595373003",
-    "title": "Strategic Alliances Manager",
-    "company": "Bitso",
-    "link": "https://bitso.com/jobs?gh_jid=7595373003",
-    "date": "2026-01-17T00:00:42.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/dragonfly-2-c3c0d275-9922-4f4e-be9b-2fcb2f280253/jobs/65355359-founding-ios-engineer-dragonfly-portfolio#content",
-    "title": "Founding iOS Engineer - Dragonfly Portfolio",
-    "company": "Dragonfly",
-    "link": "https://jobs.dragonfly.xyz/companies/dragonfly-2-c3c0d275-9922-4f4e-be9b-2fcb2f280253/jobs/65355359-founding-ios-engineer-dragonfly-portfolio#content",
-    "date": "2026-01-16T19:40:52.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=1821ade94ee250d5&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Account Executive",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=1821ade94ee250d5&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-16T17:24:54.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=58dbb2013658c471&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Procurement Lead Counsel",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=58dbb2013658c471&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-16T17:09:54.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/ondo-finance/jobs/65349632-head-of-operations-oasis-pro#content",
-    "title": "Head of Operations - Oasis Pro",
-    "company": "Ondo Finance",
-    "link": "https://jobs.solana.com/companies/ondo-finance/jobs/65349632-head-of-operations-oasis-pro#content",
-    "date": "2026-01-16T17:02:20.000Z"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/agora-2-76387f5c-6833-498f-b633-90b1f62fe59d/jobs/65345393-transaction-monitoring-specialist#content",
-    "title": "Transaction Monitoring Specialist",
-    "company": "Agora",
-    "link": "https://jobs.dragonfly.xyz/companies/agora-2-76387f5c-6833-498f-b633-90b1f62fe59d/jobs/65345393-transaction-monitoring-specialist#content",
-    "date": "2026-01-16T15:59:03.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/65335288-lead-ireland-electrical-installer-renewable-energy-systems#content",
-    "title": "Lead Ireland Electrical Installer - Renewable Energy Systems",
-    "company": "Fuse Energy",
-    "link": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/65335288-lead-ireland-electrical-installer-renewable-energy-systems#content",
-    "date": "2026-01-16T14:59:19.000Z"
-  },
-  {
-    "id": "https://careers.hedera.community/companies/trm-labs/jobs/65330443-global-investigator-skillbridge#content",
-    "title": "Global Investigator - Skillbridge",
-    "company": "TRM Labs",
-    "link": "https://careers.hedera.community/companies/trm-labs/jobs/65330443-global-investigator-skillbridge#content",
-    "date": "2026-01-16T14:20:12.000Z"
+    "date": "2026-01-17T12:43:58.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/65323001-customer-product-engineer-apac#content",
     "title": "Customer Product Engineer, APAC",
     "company": "Alchemy",
     "link": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/65323001-customer-product-engineer-apac#content",
-    "date": "2026-01-16T13:57:16.000Z"
+    "date": "2026-01-16T13:57:16.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
-    "id": "https://jobs.solana.com/companies/everstake/jobs/65234093-head-of-data-science#content",
-    "title": "Head of Data Science",
-    "company": "Everstake",
-    "link": "https://jobs.solana.com/companies/everstake/jobs/65234093-head-of-data-science#content",
-    "date": "2026-01-16T13:42:15.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/65324066-engineering-manager-custody#content",
-    "title": "Engineering Manager, Custody",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/65324066-engineering-manager-custody#content",
-    "date": "2026-01-16T13:28:35.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/65318020-fellowship#content",
-    "title": "Fellowship",
-    "company": "World",
-    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/65318020-fellowship#content",
-    "date": "2026-01-16T13:09:37.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/everstake/jobs/65315985-rust-blockchain-developer-solana#content",
-    "title": "Rust Blockchain Developer (Solana)",
-    "company": "Everstake",
-    "link": "https://jobs.solana.com/companies/everstake/jobs/65315985-rust-blockchain-developer-solana#content",
-    "date": "2026-01-16T13:09:37.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/65318018-staff-product-security-engineer#content",
-    "title": "Staff Product Security Engineer",
-    "company": "World",
-    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/65318018-staff-product-security-engineer#content",
-    "date": "2026-01-16T12:54:37.000Z"
-  },
-  {
-    "id": "https://jobs.solana.com/companies/solana-foundation-2/jobs/65310550-enterprise-education-engineer#content",
-    "title": "Enterprise Education Engineer",
-    "company": "Solana Foundation",
-    "link": "https://jobs.solana.com/companies/solana-foundation-2/jobs/65310550-enterprise-education-engineer#content",
-    "date": "2026-01-16T12:42:51.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/layerzero-2/jobs/65316254-staff-solutions-architect#content",
+    "id": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/65316254-staff-solutions-architect#content",
     "title": "Staff Solutions Architect",
     "company": "LayerZero",
-    "link": "https://jobs.multicoin.capital/companies/layerzero-2/jobs/65316254-staff-solutions-architect#content",
-    "date": "2026-01-16T12:24:37.000Z"
+    "link": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/65316254-staff-solutions-architect#content",
+    "date": "2026-01-16T12:55:29.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
-    "id": "https://jobs.multicoin.capital/companies/douro-labs-2/jobs/65292088-finance-manager#content",
+    "id": "https://jobs.arbitrum.io/companies/douro-labs-2/jobs/65292088-finance-manager#content",
     "title": "Finance Manager",
     "company": "Douro Labs",
-    "link": "https://jobs.multicoin.capital/companies/douro-labs-2/jobs/65292088-finance-manager#content",
-    "date": "2026-01-16T11:15:40.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/bdd9f818-2569-4823-8ba3-d37a9d5872b3?utm_source=jobs.a16z.com",
-    "title": "Staff Product Security Engineer",
-    "company": "Worldcoin",
-    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/bdd9f818-2569-4823-8ba3-d37a9d5872b3?utm_source=jobs.a16z.com",
-    "date": "2026-01-16T09:38:16.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/mystenlabs/c50366d6-b575-4e98-a712-7cc093659a27?utm_source=jobs.a16z.com",
-    "title": "Senior Technical Writer",
-    "company": "Mysten Labs",
-    "link": "https://jobs.ashbyhq.com/mystenlabs/c50366d6-b575-4e98-a712-7cc093659a27?utm_source=jobs.a16z.com",
-    "date": "2026-01-16T09:23:16.000Z"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/phantom/46472615-c204-4f44-b466-5db14ea5bb39?utm_source=jobs.a16z.com",
-    "title": "Product Design (Wallet Platform)",
-    "company": "Phantom",
-    "link": "https://jobs.ashbyhq.com/phantom/46472615-c204-4f44-b466-5db14ea5bb39?utm_source=jobs.a16z.com",
-    "date": "2026-01-16T00:20:57.000Z"
-  },
-  {
-    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/Seattle---remote-first-in-US/Principal-Product-Manager_JR100758",
-    "title": "Principal Product Manager",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Seattle---remote-first-in-US/Principal-Product-Manager_JR100758",
-    "date": "2026-01-16T00:06:37.000Z"
-  },
-  {
-    "id": "https://job-boards.greenhouse.io/bitgo/jobs/8374933002",
-    "title": "Software Engineer - Stablecoins",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8374933002",
-    "date": "2026-01-15T21:37:49.000Z"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/partner-solutions-architect-at-aave-labs-4351887365?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "title": "Partner Solutions Architect",
-    "company": "Aave",
-    "link": "https://www.linkedin.com/jobs/view/partner-solutions-architect-at-aave-labs-4351887365?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "date": "2026-01-15T18:35:37.000Z"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/business-development-associate-at-aave-labs-4354796232?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "title": "Business Development Associate",
-    "company": "Aave",
-    "link": "https://www.linkedin.com/jobs/view/business-development-associate-at-aave-labs-4354796232?utm_source=Arbitrum+job+board&utm_medium=getro.com&gh_src=Arbitrum+job+board",
-    "date": "2026-01-15T18:05:37.000Z"
-  },
-  {
-    "id": "https://www.indeed.com/viewjob?jk=8840252ce85f7cc0&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "title": "Senior Insurance Analyst",
-    "company": "Indeed",
-    "link": "https://www.indeed.com/viewjob?jk=8840252ce85f7cc0&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
-    "date": "2026-01-15T18:00:30.000Z"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/antimetal/jobs/65259657-founding-technical-account-executive#content",
-    "title": "Founding Technical Account Executive",
-    "company": "Antimetal",
-    "link": "https://jobs.arbitrum.io/companies/antimetal/jobs/65259657-founding-technical-account-executive#content",
-    "date": "2026-01-15T17:19:19.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/li-fi-2/jobs/65255558-talent-lead#content",
-    "title": "Talent Lead",
-    "company": "LI.FI",
-    "link": "https://jobs.multicoin.capital/companies/li-fi-2/jobs/65255558-talent-lead#content",
-    "date": "2026-01-15T16:37:20.000Z"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/quicknode/jobs/65245651-account-executive-channel#content",
-    "title": "Account Executive, Channel",
-    "company": "QuickNode",
-    "link": "https://jobs.arbitrum.io/companies/quicknode/jobs/65245651-account-executive-channel#content",
-    "date": "2026-01-15T14:53:45.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/65237840-hardware-test-compliance-engineer#content",
-    "title": "Hardware Test & Compliance Engineer",
-    "company": "Fuse Energy",
-    "link": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/65237840-hardware-test-compliance-engineer#content",
-    "date": "2026-01-15T13:56:09.000Z"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/douro-labs-2/jobs/65235669-hr-business-partner#content",
-    "title": "HR Business Partner",
-    "company": "Douro Labs",
-    "link": "https://jobs.arbitrum.io/companies/douro-labs-2/jobs/65235669-hr-business-partner#content",
-    "date": "2026-01-15T13:49:07.000Z"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/65237839-electronics-design-engineer-bms#content",
-    "title": "Electronics Design Engineer, BMS",
-    "company": "Fuse Energy",
-    "link": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/65237839-electronics-design-engineer-bms#content",
-    "date": "2026-01-15T13:41:09.000Z"
+    "link": "https://jobs.arbitrum.io/companies/douro-labs-2/jobs/65292088-finance-manager#content",
+    "date": "2026-01-16T11:15:40.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/hashgraph-2/jobs/65149589-senior-site-reliability-engineer#content",
@@ -1453,21 +1438,5 @@
     "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/65132873-senior-site-reliability-engineer#content",
     "date": "2026-01-14T11:47:26.000Z",
     "source": "Jobs | Hedera Hashgraph Job Board"
-  },
-  {
-    "id": "https://careers.hedera.community/companies/trm-labs/jobs/65071181-head-of-capital-markets-corporate-development#content",
-    "title": "Head of Capital Markets & Corporate Development",
-    "company": "TRM Labs",
-    "link": "https://careers.hedera.community/companies/trm-labs/jobs/65071181-head-of-capital-markets-corporate-development#content",
-    "date": "2026-01-13T13:48:00.000Z",
-    "source": "Jobs | Hedera Hashgraph Job Board"
-  },
-  {
-    "id": "https://algorandfoundation.bamboohr.com/careers/179",
-    "title": "Full Stack Engineer",
-    "company": "Algorand",
-    "link": "https://algorandfoundation.bamboohr.com/careers/179",
-    "date": "2026-01-05T18:31:50.000Z",
-    "source": "Jobs at Shima Capital Companies | Shima Capital"
   }
 ]

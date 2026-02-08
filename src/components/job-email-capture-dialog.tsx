@@ -1,0 +1,115 @@
+
+'use client';
+
+import * as React from 'react';
+import { useForm } from 'react-hook-form';
+import { zodResolver } from '@hookform/resolvers/zod';
+import { z } from 'zod';
+import { Button } from '@/components/ui/button';
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+} from '@/components/ui/dialog';
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from '@/components/ui/form';
+import { Input } from '@/components/ui/input';
+import { useToast } from '@/hooks/use-toast';
+import type { Job } from '@/types';
+import { ArrowRight } from 'lucide-react';
+
+const emailSchema = z.object({
+  email: z.string().email('Please enter a valid email address.'),
+});
+
+type EmailFormData = z.infer<typeof emailSchema>;
+
+interface JobEmailCaptureDialogProps {
+  job: Job | null;
+  open: boolean;
+  onOpenChange: (open: boolean) => void;
+}
+
+export function JobEmailCaptureDialog({
+  job,
+  open,
+  onOpenChange,
+}: JobEmailCaptureDialogProps) {
+  const { toast } = useToast();
+  const form = useForm<EmailFormData>({
+    resolver: zodResolver(emailSchema),
+    defaultValues: {
+      email: '',
+    },
+  });
+
+  React.useEffect(() => {
+    if (open) {
+      form.reset();
+    }
+  }, [open, form]);
+
+  const onSubmit = (data: EmailFormData) => {
+    console.log('Email captured:', data.email);
+    console.log('Redirecting to job:', job?.link);
+
+    toast({
+      title: 'Thank you!',
+      description: `You are now being redirected to the job posting.`,
+    });
+    
+    if (job?.link) {
+      window.open(job.link, '_blank');
+    }
+
+    onOpenChange(false);
+  };
+
+  return (
+    <Dialog open={open} onOpenChange={onOpenChange}>
+      <DialogContent className="sm:max-w-md">
+        <DialogHeader>
+          <DialogTitle>Continue to Job Application</DialogTitle>
+          <DialogDescription>
+            You are applying for{' '}
+            <span className="font-semibold text-primary">{job?.title}</span> at{' '}
+            <span className="font-semibold text-primary">{job?.company}</span>.
+            Enter your email to continue.
+          </DialogDescription>
+        </DialogHeader>
+        <Form {...form}>
+          <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4">
+            <FormField
+              control={form.control}
+              name="email"
+              render={({ field }) => (
+                <FormItem>
+                  <FormLabel>Email Address</FormLabel>
+                  <FormControl>
+                    <Input
+                      type="email"
+                      placeholder="you@example.com"
+                      {...field}
+                    />
+                  </FormControl>
+                  <FormMessage />
+                </FormItem>
+              )}
+            />
+            <Button type="submit" className="w-full">
+              Continue to Job <ArrowRight className="ml-2 h-4 w-4" />
+            </Button>
+          </form>
+        </Form>
+      </DialogContent>
+    </Dialog>
+  );
+}
