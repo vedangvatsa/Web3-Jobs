@@ -7,20 +7,19 @@ export function saveEmail(db: Firestore, email: string) {
 
   const subscribersCol = collection(db, 'subscribers');
 
-  // Do not await. Let it run in the background.
-  // The .catch block will handle any security rule violations.
   addDoc(subscribersCol, {
       email: email,
       createdAt: serverTimestamp()
   }).catch(async (serverError) => {
-      console.error("Error saving email to Firestore:", serverError);
-      // If the write fails, assume it's a permission error for now.
+      // Log the complete error for better debugging
+      console.error("Firestore 'saveEmail' Error:", serverError);
+      
       const permissionError = new FirestorePermissionError({
           path: subscribersCol.path,
           operation: 'create',
           requestResourceData: { email },
       });
-      // Emit the custom error so a listener can display it.
+      
       errorEmitter.emit('permission-error', permissionError);
   });
 }

@@ -10,11 +10,13 @@ export function FirebaseErrorListener() {
 
   useEffect(() => {
     const handleError = (error: FirestorePermissionError) => {
-      console.error(error); // Log the detailed error to the console for debugging
+      // Log the detailed error to the console for debugging
+      console.error("A Firestore permission error was caught. Context:", error);
+      
       toast({
         variant: "destructive",
         title: "Database Error",
-        description: "Your email could not be saved due to a database permissions issue. I am working on a fix.",
+        description: "Your email could not be saved due to a database access issue. The developer has been notified.",
       });
     };
 
