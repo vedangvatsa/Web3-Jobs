@@ -7,11 +7,11 @@ import { firebaseConfig } from './config';
 // It's designed to be called once, in the client provider.
 export function initializeFirebase() {
   // Check if all necessary config keys are present from the environment
-  const isConfigValid = firebaseConfig && firebaseConfig.projectId;
+  const isConfigValid = firebaseConfig && firebaseConfig.projectId && firebaseConfig.apiKey;
 
   if (!isConfigValid) {
     // This warning will appear in the browser console if the .env file is missing
-    console.warn("Firebase config is missing or incomplete. Firebase will not be initialized.");
+    console.warn("Firebase config is missing or incomplete. Firebase will not be initialized. Make sure all NEXT_PUBLIC_FIREBASE_ variables are set in your .env file.");
     return { app: null, auth: null, firestore: null };
   }
 

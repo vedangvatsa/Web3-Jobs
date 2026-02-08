@@ -8,7 +8,7 @@ export function saveEmail(db: Firestore | null, email: string) {
       toast({
           variant: "destructive",
           title: "Database Not Configured",
-          description: "The application is not connected to a database. Your email could not be saved.",
+          description: "The application is not connected to a database. Your email could not be saved. This is likely because the Firebase environment variables are not set correctly.",
       });
       console.error("Firestore instance is null. This is likely because the Firebase environment variables are not set correctly.");
       return;
