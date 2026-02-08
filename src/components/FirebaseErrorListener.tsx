@@ -10,11 +10,11 @@ export function FirebaseErrorListener() {
 
   useEffect(() => {
     const handleError = (error: FirestorePermissionError) => {
-      console.error(error.message); // Log the detailed error to the console for debugging
+      console.error(error); // Log the detailed error to the console for debugging
       toast({
         variant: "destructive",
-        title: "Submission Error",
-        description: "Could not save your email. Please try again later.",
+        title: "Database Error",
+        description: "Your email could not be saved due to a database permissions issue. I am working on a fix.",
       });
     };
 
