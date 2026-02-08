@@ -86,7 +86,7 @@ export default async function JobsPage() {
                       <span>Join our hiring feed with <strong className="text-primary">60,000+</strong> subscribers.</span>
                       </Link>
                   </div>
-                  <JobBoard initialJobs={initialJobs} />
+                  <JobBoard initialJobs={initialJobs} captureEmail={true} />
               </div>
           </div>
         </main>

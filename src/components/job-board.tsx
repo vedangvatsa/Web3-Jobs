@@ -7,6 +7,7 @@ import { Input } from '@/components/ui/input';
 import { JobCard } from './job-card';
 import { Loader2, Search } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
+import { JobEmailCaptureDialog } from './job-email-capture-dialog';
 
 function JobCardSkeleton() {
     return (
@@ -16,10 +17,10 @@ function JobCardSkeleton() {
     )
 }
 
-
-export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
+export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: Job[], captureEmail?: boolean }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [isPending, startTransition] = useTransition();
+  const [selectedJob, setSelectedJob] = useState<Job | null>(null);
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     startTransition(() => {
@@ -38,7 +39,6 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
         job.company.toLowerCase().includes(lowercasedQuery)
     );
   }, [initialJobs, searchQuery]);
-
 
   return (
     <div>
@@ -63,7 +63,15 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
             
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {!isPending && filteredJobs.map((job) => (
-                    <JobCard key={job.id} job={job} />
+                    captureEmail ? (
+                         <div key={job.id} onClick={() => setSelectedJob(job)} className="block h-full cursor-pointer transform transition-all duration-200 hover:-translate-y-1">
+                            <JobCard job={job} />
+                        </div>
+                    ) : (
+                         <a key={job.id} href={job.link} target="_blank" rel="noopener noreferrer" className="block h-full transform transition-all duration-200 hover:-translate-y-1">
+                            <JobCard job={job} />
+                        </a>
+                    )
                 ))}
             </div>
 
@@ -74,6 +82,14 @@ export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
                 </div>
             )}
         </div>
+        
+        {captureEmail && (
+            <JobEmailCaptureDialog 
+                job={selectedJob} 
+                open={!!selectedJob} 
+                onOpenChange={(open) => !open && setSelectedJob(null)} 
+            />
+        )}
     </div>
   );
 }
