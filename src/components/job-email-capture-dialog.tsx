@@ -26,6 +26,7 @@ import { ArrowRight, Send } from 'lucide-react';
 import { useFirestore } from '@/firebase';
 import { saveEmail } from '@/lib/db';
 import { Separator } from '@/components/ui/separator';
+import { useToast } from '@/hooks/use-toast';
 
 const emailSchema = z.object({
   email: z.string().email('Please enter a valid email address.'),
@@ -45,6 +46,7 @@ export function JobEmailCaptureDialog({
   onOpenChange,
 }: JobEmailCaptureDialogProps) {
   const firestore = useFirestore();
+  const { toast } = useToast();
   const form = useForm<EmailFormData>({
     resolver: zodResolver(emailSchema),
     defaultValues: {
@@ -59,9 +61,18 @@ export function JobEmailCaptureDialog({
   }, [open, form]);
 
   const onSubmit = (data: EmailFormData) => {
-    if (firestore) {
-      saveEmail(firestore, data.email);
+    if (!firestore) {
+      toast({
+        variant: "destructive",
+        title: "Database Not Configured",
+        description: "The application is not connected to a database. Your email could not be saved.",
+      });
+      console.error("Firestore instance is null. Firebase may not be configured correctly.");
+      onOpenChange(false);
+      return;
     }
+    
+    saveEmail(firestore, data.email);
 
     if (job?.link) {
       window.open(job.link, '_blank');
@@ -107,7 +118,7 @@ export function JobEmailCaptureDialog({
           </form>
         </Form>
         <Separator className="my-2" />
-         <div className="text-center space-y-2 pt-2">
+        <div className="text-center space-y-2 pt-2">
             <p className="text-sm text-muted-foreground px-4">
                 Join 60,000+ subscribers on our Telegram channel for the latest job postings.
             </p>
