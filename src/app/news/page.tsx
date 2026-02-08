@@ -103,10 +103,12 @@ export default function NewsPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
       />
-       <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(newsArticlesSchema) }}
-      />
+      {newsItems.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(newsArticlesSchema) }}
+        />
+      )}
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-1">
