@@ -34,6 +34,7 @@
     "date-fns": "^3.6.0",
     "embla-carousel-autoplay": "^8.1.5",
     "embla-carousel-react": "^8.1.5",
+    "firebase": "^10.12.2",
     "framer-motion": "^11.0.8",
     "gray-matter": "^4.0.3",
     "isomorphic-dompurify": "^2.35.0",
