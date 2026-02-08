@@ -13,16 +13,15 @@ export function FirebaseErrorListener() {
       console.error(error.message); // Log the detailed error to the console for debugging
       toast({
         variant: "destructive",
-        title: "Permission Denied",
-        description: "Your request was blocked by security rules.",
+        title: "Submission Error",
+        description: "Could not save your email. Please try again later.",
       });
     };
 
-    errorEmitter.on('permission-error', handleError);
+    const unsubscribe = errorEmitter.on('permission-error', handleError);
 
     return () => {
-      // Clean up the listener when the component unmounts
-      // This requires adding a 'removeListener' method to our simple emitter
+      unsubscribe();
     };
   }, [toast]);
 

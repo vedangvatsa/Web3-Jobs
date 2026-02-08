@@ -13,6 +13,7 @@ export function saveEmail(db: Firestore, email: string) {
       email: email,
       createdAt: serverTimestamp()
   }).catch(async (serverError) => {
+      console.error("Error saving email to Firestore:", serverError);
       // If the write fails, assume it's a permission error for now.
       const permissionError = new FirestorePermissionError({
           path: subscribersCol.path,
