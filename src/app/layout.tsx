@@ -8,7 +8,7 @@ import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
 import type { WebSite, Organization } from 'schema-dts';
-import { TelegramPopup } from '@/components/telegram-popup';
+import { FirebaseClientProvider } from '@/firebase/client-provider';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -131,13 +131,13 @@ export default async function RootLayout({
       <body 
         className={cn('min-h-screen font-body antialiased flex flex-col bg-background/95')}
       >
-        
-        <div className="flex-grow">
-            {children}
-        </div>
-        <Footer />
-        <Toaster />
-        <TelegramPopup />
+        <FirebaseClientProvider>
+            <div className="flex-grow">
+                {children}
+            </div>
+            <Footer />
+            <Toaster />
+        </FirebaseClientProvider>
       </body>
     </html>
   );
