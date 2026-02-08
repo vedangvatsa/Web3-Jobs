@@ -10,10 +10,10 @@ import path from 'path';
 import matter from 'gray-matter';
 
 async function updateDeeprankJson() {
-  const articlesDir = path.join(process.cwd(), 'content/articles');
+  const articlesDir = path.join(process.cwd(), 'src/lib/articles');
   const deeprankPath = path.join(process.cwd(), 'deeprank.json');
 
-  console.log('📝 Reading articles from content/articles/...');
+  console.log('📝 Reading articles from src/lib/articles/...');
   
   const files = await fs.readdir(articlesDir);
   const articleFiles = files.filter(f => f.endsWith('.md'));

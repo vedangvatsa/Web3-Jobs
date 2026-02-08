@@ -20,9 +20,9 @@ const FirebaseContext = React.createContext<FirebaseContextType>({
 
 export interface FirebaseProviderProps {
   children: React.ReactNode;
-  app: FirebaseApp;
-  auth: Auth;
-  firestore: Firestore;
+  app: FirebaseApp | null;
+  auth: Auth | null;
+  firestore: Firestore | null;
 }
 
 export function FirebaseProvider({ children, app, auth, firestore }: FirebaseProviderProps) {
@@ -31,7 +31,7 @@ export function FirebaseProvider({ children, app, auth, firestore }: FirebasePro
   return (
     <FirebaseContext.Provider value={contextValue}>
         {children}
-        <FirebaseErrorListener />
+        {app && <FirebaseErrorListener />}
     </FirebaseContext.Provider>
   );
 }

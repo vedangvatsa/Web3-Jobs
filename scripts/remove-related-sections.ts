@@ -9,7 +9,7 @@ import fs from 'fs/promises';
 import path from 'path';
 
 async function removeRelatedSections() {
-  const articlesDir = path.join(process.cwd(), 'content/articles');
+  const articlesDir = path.join(process.cwd(), 'src/lib/articles');
   const files = await fs.readdir(articlesDir);
   const articleFiles = files.filter(f => f.endsWith('.md'));
 
