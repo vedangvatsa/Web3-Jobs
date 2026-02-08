@@ -15,8 +15,8 @@ export function FirebaseErrorListener() {
       
       toast({
         variant: "destructive",
-        title: "Database Error",
-        description: "Your email could not be saved due to a database access issue. The developer has been notified.",
+        title: "Permission Denied",
+        description: "Your request was denied by database security rules. The developer has been notified.",
       });
     };
 
