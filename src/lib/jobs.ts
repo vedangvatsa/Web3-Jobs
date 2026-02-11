@@ -1468,7 +1468,8 @@ export async function getJobs(): Promise<Job[]> {
     !(job.company.toLowerCase() === 'interop labs' && job.title.toLowerCase().includes('interested in working with us')) &&
     job.company.toLowerCase() !== 'florida street' &&
     !job.title.includes('*') &&
-    job.company.toLowerCase() !== 'wyoming stable token commission'
+    job.company.toLowerCase() !== 'wyoming stable token commission' &&
+    !(job.company.toLowerCase() === 'katana' && job.title.toLowerCase().includes('bartender'))
   );
 
   uniqueJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
