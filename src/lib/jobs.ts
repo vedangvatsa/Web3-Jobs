@@ -1073,6 +1073,14 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
+        "id": "https://job-boards.greenhouse.io/earnin/jobs/7125787",
+        "title": "Senior Mobile Engineer (Android)",
+        "company": "Earnin",
+        "link": "https://job-boards.greenhouse.io/earnin/jobs/7125787",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
         "id": "https://jobs.lever.co/yuno/3db63d5e-4285-4cfa-9c39-69f5d19eaf0f?lever-source%5B%5D=jobs.a16z.com",
         "title": "Technical Account Manager",
         "company": "Yuno",
@@ -1217,6 +1225,14 @@ const MANUAL_JOBS: Job[] = [
         "source": "Manual"
     },
     {
+        "id": "https://job-boards.greenhouse.io/wingspan/jobs/6668878003",
+        "title": "Contractor Support Specialist",
+        "company": "Wingspan",
+        "link": "https://job-boards.greenhouse.io/wingspan/jobs/6668878003",
+        "date": "2025-08-15T12:00:00Z",
+        "source": "Manual"
+    },
+    {
         "id": "https://jobs.ashbyhq.com/Deel/ab6a16a7-8bcb-4b20-9dc3-6c1d93816380?utm_source=jobs.a16z.com",
         "title": "Payroll Implementation Manager | Portugal",
         "company": "Deel",
@@ -1331,17 +1347,7 @@ const MANUAL_JOBS: Job[] = [
 ];
 
 const FEEDS = [
-  'https://politepol.com/fd/JEeZwG4KK7uT.xml', // Dragonfly
-  'https://politepol.com/fd/sDzglCq7RCpG.xml', // Paradigm
-  'https://politepol.com/fd/bs9i34afSjHS.xml', // Arbitrum
-  'https://politepol.com/fd/oiXKHETnrDap.xml', // a16z
-  'https://politepol.com/fd/Ane01VX84MOk.xml', // Pantera
-  'https://politepol.com/fd/HI6pMDlyEO7j.xml',  // Avalanche
-  'https://politepol.com/fd/uIQRejBOTRjO.xml',
-  'https://politepol.com/fd/qglK0E9cQDYB.xml',
-  'https://politepol.com/fd/UEGwYfx1fQ9R.xml',
-  'https://politepol.com/fd/fEgzbFDDrmRe.xml',
-  'https://politepol.com/fd/XH7AlQjGnNIS.xml'
+  'https://politepaul.com/fd/UEGwYfx1fQ9R.xml', // Shima capital
 ];
 
 const parser = new Parser();
@@ -1464,3 +1470,4 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
+    
