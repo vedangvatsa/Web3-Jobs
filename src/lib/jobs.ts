@@ -1356,7 +1356,8 @@ const FEEDS = [
   'https://politepaul.com/fd/uIQRejBOTRjO.xml',
   'https://politepaul.com/fd/qglK0E9cQDYB.xml',
   'https://politepaul.com/fd/UEGwYfx1fQ9R.xml',
-  'https://politepaul.com/fd/fEgzbFDDrmRe.xml'
+  'https://politepaul.com/fd/fEgzbFDDrmRe.xml',
+  'https://politepaul.com/fd/KTQjDJIFxvZY.xml'
 ];
 
 const parser = new Parser();
