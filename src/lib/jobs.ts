@@ -1347,7 +1347,16 @@ const MANUAL_JOBS: Job[] = [
 ];
 
 const FEEDS = [
-  'https://politepaul.com/fd/UEGwYfx1fQ9R.xml', // Shima capital
+  'https://politepaul.com/fd/JEeZwG4KK7uT.xml', // Dragonfly
+  'https://politepaul.com/fd/sDzglCq7RCpG.xml', // Paradigm
+  'https://politepaul.com/fd/bs9i34afSjHS.xml', // Arbitrum
+  'https://politepaul.com/fd/oiXKHETnrDap.xml', // a16z
+  'https://politepaul.com/fd/Ane01VX84MOk.xml', // Pantera
+  'https://politepaul.com/fd/HI6pMDlyEO7j.xml',  // Avalanche
+  'https://politepaul.com/fd/uIQRejBOTRjO.xml',
+  'https://politepaul.com/fd/qglK0E9cQDYB.xml',
+  'https://politepaul.com/fd/UEGwYfx1fQ9R.xml',
+  'https://politepaul.com/fd/fEgzbFDDrmRe.xml'
 ];
 
 const parser = new Parser();
@@ -1470,4 +1479,3 @@ export async function getJobs(): Promise<Job[]> {
 
   return uniqueJobs;
 }
-    
