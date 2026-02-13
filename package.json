@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export:emails": "npx tsx scripts/export-emails.ts"
   },
   "engines": {
     "node": "20"
