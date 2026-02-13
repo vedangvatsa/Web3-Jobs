@@ -207,9 +207,9 @@ const results: Record<string, QuizResult> = {
       'Detail-oriented',
     ],
     roles: [
-      { title: 'Smart Contract Developer', description: 'Writes the on-chain logic for dApps.', link: '/smart-contract-jobs' },
-      { title: 'Frontend/Web3 Developer', description: 'Builds the user interfaces for dApps.', link: '/from-web2-to-web3' },
-      { title: 'Protocol Engineer', description: 'Works on the core blockchain infrastructure.', link: '/highest-paying-web3-jobs' },
+      { title: 'Smart Contract Developer', description: 'Writes the on-chain logic for dApps.' },
+      { title: 'Frontend/Web3 Developer', description: 'Builds the user interfaces for dApps.' },
+      { title: 'Protocol Engineer', description: 'Works on the core blockchain infrastructure.' },
     ],
   },
   strategist: {
@@ -222,9 +222,9 @@ const results: Record<string, QuizResult> = {
       'Good at spotting trends',
     ],
     roles: [
-      { title: 'Web3 Product Manager', description: 'Guides the vision and roadmap of a decentralized product.', link: '/web3-product-manager-jobs' },
-      { title: 'Tokenomics Designer', description: 'Architects the economic incentives of a protocol.', link: '/the-role-of-a-tokenomics-designer' },
-      { title: 'VC / Investment Analyst', description: 'Identifies and invests in promising new Web3 projects.', link: '/web3-vc-jobs' },
+      { title: 'Web3 Product Manager', description: 'Guides the vision and roadmap of a decentralized product.' },
+      { title: 'Tokenomics Designer', description: 'Architects the economic incentives of a protocol.' },
+      { title: 'VC / Investment Analyst', description: 'Identifies and invests in promising new Web3 projects.' },
     ],
   },
   analyst: {
@@ -237,9 +237,9 @@ const results: Record<string, QuizResult> = {
       'Values objectivity and proof',
     ],
     roles: [
-      { title: 'On-Chain Data Analyst', description: 'Uses tools like Dune to analyze blockchain data.', link: '/web3-data-analyst-jobs' },
-      { title: 'Smart Contract Auditor', description: 'Finds security vulnerabilities in smart contracts.', link: '/smart-contract-auditor-career' },
-      { title: 'Quantitative Analyst', description: 'Models the financial risks of DeFi protocols.', link: '/defi-careers' },
+      { title: 'On-Chain Data Analyst', description: 'Uses tools like Dune to analyze blockchain data.' },
+      { title: 'Smart Contract Auditor', description: 'Finds security vulnerabilities in smart contracts.' },
+      { title: 'Quantitative Analyst', description: 'Models the financial risks of DeFi protocols.' },
     ],
   },
   weaver: {
@@ -252,9 +252,9 @@ const results: Record<string, QuizResult> = {
       'Enjoys helping others',
     ],
     roles: [
-      { title: 'Community Manager', description: 'Manages the Discord and acts as the heart of the project.', link: '/web3-community-manager-career' },
-      { title: 'Marketing / Growth Lead', description: 'Tells the project\'s story and builds partnerships.', link: '/web3-marketing-jobs' },
-      { title: 'Developer Relations (DevRel)', description: 'Supports and grows the developer ecosystem.', link: '/what-is-a-web3-devrel-engineer' },
+      { title: 'Community Manager', description: 'Manages the Discord and acts as the heart of the project.' },
+      { title: 'Marketing / Growth Lead', description: 'Tells the project\'s story and builds partnerships.' },
+      { title: 'Developer Relations (DevRel)', description: 'Supports and grows the developer ecosystem.' },
     ],
   },
 };

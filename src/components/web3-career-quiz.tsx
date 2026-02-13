@@ -81,15 +81,10 @@ export function Web3CareerQuiz() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
                     {result.roles.map(role => (
                         <Card key={role.title} className="bg-secondary/50 text-left">
-                           <Link href={role.link} className="block hover:bg-accent/10 transition-colors rounded-lg h-full">
-                                <CardContent className="p-4 h-full flex flex-col">
-                                    <h5 className="font-bold text-foreground">{role.title}</h5>
-                                    <p className="text-xs text-muted-foreground flex-grow">{role.description}</p>
-                                    <div className="text-primary text-xs font-semibold mt-2 flex items-center">
-                                        Learn More <ArrowRight className="ml-1 h-3 w-3" />
-                                    </div>
-                                </CardContent>
-                            </Link>
+                            <CardContent className="p-4 h-full flex flex-col">
+                                <h5 className="font-bold text-foreground">{role.title}</h5>
+                                <p className="text-xs text-muted-foreground flex-grow">{role.description}</p>
+                            </CardContent>
                         </Card>
                     ))}
                 </div>
