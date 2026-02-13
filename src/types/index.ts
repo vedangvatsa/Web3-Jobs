@@ -53,7 +53,6 @@ export interface QuizQuestion {
 export interface Web3RoleProfile {
     title: string;
     description: string;
-    link: string;
 }
 
 export interface QuizResult {
