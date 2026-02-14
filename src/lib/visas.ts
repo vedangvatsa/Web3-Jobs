@@ -241,14 +241,14 @@ export const visaData: DigitalNomadVisa[] = [
     {
         country: 'Czech Republic',
         continent: 'Europe',
-        minIncome: 5200, // This is a savings requirement
+        minIncome: 2500,
         visaLength: '1 year, renewable',
-        description: 'The Czech Republic offers a long-term visa for business (Zivno), popular among freelancers. It requires a trade license and proof of sufficient funds.',
+        description: 'The Czech Republic offers a long-term visa for business (Zivno), popular among freelancers. It requires a trade license and proof of sufficient monthly income.',
         requirements: [
-            'A trade license (Zivnostenske opravneni).',
-            'Proof of funds of at least 124,500 CZK (approx. $5,200 USD).',
-            'Proof of accommodation and a clean criminal record.',
-            'The application process is known to be complex.'
+            'A trade license (Zivnostenske opravneni)',
+            'Proof of monthly income of at least 2,500 USD or savings to cover living expenses',
+            'Proof of accommodation and a clean criminal record',
+            'The application process requires several steps and documentation'
         ]
     },
     {
@@ -278,13 +278,14 @@ export const visaData: DigitalNomadVisa[] = [
     {
         country: 'El Salvador',
         continent: 'North America',
-        minIncome: 2500,
+        minIncome: 1460,
         visaLength: '1 year, renewable',
-        description: 'El Salvador is preparing a digital nomad visa, aiming to attract remote professionals with its surfing beaches and rapidly developing tech scene, famous for its Bitcoin adoption.',
+        description: 'El Salvador offers a digital nomad visa for remote professionals, with its surfing beaches and developing tech scene. The country is famous for its Bitcoin adoption.',
         requirements: [
-            'Expected income requirement of $2,500–$3,000/month.',
-            'Visa expected to be valid for 12 months and renewable.',
-            'Program is not yet launched as of mid-2024.'
+            'Proof of remote work for a foreign company',
+            'Minimum monthly income of $1,460 USD',
+            'Valid passport and health insurance',
+            'Clean criminal record'
         ]
     },
     {
@@ -377,12 +378,15 @@ export const visaData: DigitalNomadVisa[] = [
     {
         country: 'Indonesia',
         continent: 'Asia',
-        minIncome: 140000,
-        description: 'While a dedicated nomad visa is in the works, Bali\'s B211A visa allows for stays up to 180 days. A new "Second Home" visa requires a proof of funds of $140,000.',
+        minIncome: 2000,
+        visaLength: 'Up to 1 year (renewable)',
+        description: 'Indonesia offers a remote worker visa allowing digital nomads to live and work remotely for up to one year. Popular among remote workers heading to Bali and other Indonesian destinations.',
         requirements: [
-            'The B211A Social/Cultural visa allows a 60-day stay, extendable twice.',
-            'For the longer "Second Home" visa, proof of funds of approx. $140,000 USD is required.',
-            'Stays over 183 days a year make you a local tax resident.'
+            'Proof of employment or business ownership outside Indonesia',
+            'Minimum monthly income of approximately $2,000 USD',
+            'Valid passport with at least 18 months validity',
+            'Proof of health insurance',
+            'Clean criminal record'
         ]
     },
     {
@@ -415,11 +419,12 @@ export const visaData: DigitalNomadVisa[] = [
         continent: 'Asia',
         minIncome: 5250,
         visaLength: 'Up to 6 months',
-        description: 'Japan introduced a digital nomad visa in 2024 for citizens of 49 countries that have tax treaties with Japan. It allows a stay of up to six months, but cannot be renewed.',
+        description: 'Japan introduced a digital nomad visa in 2024 for citizens of 49 countries that have tax treaties with Japan. It allows a stay of up to six months but cannot be renewed.',
         requirements: [
-            'Citizen of a visa-exempt country with a tax treaty with Japan (e.g., EU, USA, UK).',
-            'Annual income of at least ¥10 million (approx. $63,000 USD or ~$5,250/month).',
-            'Private health insurance.',
+            'Citizen of a visa-exempt country with a tax treaty with Japan (49 eligible countries)',
+            'Annual income of at least ¥10 million (approximately $63,000 USD or $5,250/month)',
+            'Private health insurance covering entire stay',
+            'Proof of remote work or freelance activity'
         ]
     },
     {
@@ -691,13 +696,14 @@ export const visaData: DigitalNomadVisa[] = [
     {
         country: 'South Africa',
         continent: 'Africa',
-        minIncome: 2650,
+        minIncome: 4400,
         visaLength: '1 year, up to 3',
-        description: 'South Africa has recently introduced a digital nomad visa, allowing a stay of up to one year with the possibility of renewal for up to three years.',
+        description: 'South Africa has introduced a digital nomad visa, allowing a stay of up to one year with the possibility of renewal for up to three years.',
         requirements: [
-            'Proof of remote work for a foreign employer.',
-            'Annual income of at least R1 million (~$53,000 USD), though a lower amount of ~$2,650/month may be accepted.',
-            'Sufficient funds and health insurance.',
+            'Proof of remote work for a foreign employer',
+            'Annual income of at least R1 million (approximately $53,000 USD or ~$4,400/month)',
+            'Sufficient funds and comprehensive health insurance',
+            'Clean criminal record'
         ]
     },
     {
@@ -752,14 +758,14 @@ export const visaData: DigitalNomadVisa[] = [
     {
         country: 'Thailand',
         continent: 'Asia',
-        minIncome: 6667,
-        visaLength: 'Up to 10 years',
-        description: 'Thailand\'s Long-Term Resident (LTR) visa is a highly selective scheme for high-income professionals. It offers a 10-year stay and significant tax advantages.',
+        minIncome: 2000,
+        visaLength: '5 years (Destination Thailand Visa)',
+        description: 'Thailand offers the Destination Thailand Visa (DTV) for digital nomads and remote workers. It allows a 5-year stay with multiple entries and is more accessible than the LTR visa.',
         requirements: [
-            'Proof of remote work for a foreign company.',
-            'Personal income of at least $80,000/year for the past two years.',
-            'The employer company must have at least $150M revenue over the last 3 years.',
-            'Health insurance with at least $50,000 coverage.'
+            'Proof of remote work, freelancing, or being a digital nomad',
+            'Minimum funds of 500,000 THB (approximately $14,000 USD) in bank account',
+            'Financial evidence of $2,000+ USD monthly income or equivalent savings',
+            'Valid passport and health insurance'
         ]
     },
     {
