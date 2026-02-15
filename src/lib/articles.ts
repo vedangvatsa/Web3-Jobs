@@ -29,18 +29,24 @@ export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
       const fullPath = path.join(articlesDirectory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const matterResult = matter(fileContents);
+      const data = matterResult.data;
 
-      if (typeof matterResult.data.title !== 'string' || 
-          typeof matterResult.data.image !== 'string' ||
-          typeof matterResult.data.description !== 'string' ||
-          typeof matterResult.data.category !== 'string') {
-            console.warn(`Article with slug "${slug}" is missing frontmatter.`);
+      if (typeof data.title !== 'string' || 
+          typeof data.description !== 'string' ||
+          typeof data.category !== 'string') {
+            console.warn(`Article with slug "${slug}" is missing essential frontmatter (title, desc, or category). It will be excluded.`);
             return null;
       }
+      
+      const image = data.image || `https://picsum.photos/seed/${slug}/1200/630`;
 
       return {
         slug,
-        ...(matterResult.data as { title: string; image: string; description: string; category: string; ['data-ai-hint']?: string; }),
+        title: data.title,
+        description: data.description,
+        category: data.category,
+        'data-ai-hint': data['data-ai-hint'],
+        image,
       };
     })
     .filter((article): article is Omit<Article, 'content'> => article !== null);
@@ -66,10 +72,17 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
       .process(sanitizedContent);
     const content = processedContent.toString();
 
+    const data = matterResult.data as { title: string; image?: string; description: string; category: string; ['data-ai-hint']?: string; };
+    const image = data.image || `https://picsum.photos/seed/${slug}/1200/630`;
+
     return {
       slug,
       content,
-      ...(matterResult.data as { title: string; image: string; description: string; category: string; ['data-ai-hint']?: string; }),
+      title: data.title,
+      description: data.description,
+      category: data.category,
+      'data-ai-hint': data['data-ai-hint'],
+      image,
     };
   } catch (err) {
     console.error(`Error reading or processing article ${slug}:`, err);
