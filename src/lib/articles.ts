@@ -31,20 +31,21 @@ export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
       const matterResult = matter(fileContents);
       const data = matterResult.data;
 
-      if (typeof data.title !== 'string' || 
-          typeof data.description !== 'string' ||
-          typeof data.category !== 'string') {
-            console.warn(`Article with slug "${slug}" is missing essential frontmatter (title, desc, or category). It will be excluded.`);
-            return null;
+      // A title is essential. If it's missing, exclude the article.
+      if (typeof data.title !== 'string' || !data.title) {
+        console.warn(`Article with slug "${slug}" is missing a title. It will be excluded.`);
+        return null;
       }
       
       const image = data.image || `https://picsum.photos/seed/${slug}/1200/630`;
+      const description = data.description || 'No description provided.';
+      const category = data.category || 'General';
 
       return {
         slug,
         title: data.title,
-        description: data.description,
-        category: data.category,
+        description,
+        category,
         'data-ai-hint': data['data-ai-hint'],
         image,
       };
@@ -72,15 +73,25 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
       .process(sanitizedContent);
     const content = processedContent.toString();
 
-    const data = matterResult.data as { title: string; image?: string; description: string; category: string; ['data-ai-hint']?: string; };
+    const data = matterResult.data;
+
+    // A title is essential.
+    if (typeof data.title !== 'string' || !data.title) {
+        console.error(`Article with slug "${slug}" is missing a title.`);
+        return undefined; // or handle appropriately
+    }
+    
     const image = data.image || `https://picsum.photos/seed/${slug}/1200/630`;
+    const description = data.description || 'No description provided.';
+    const category = data.category || 'General';
+
 
     return {
       slug,
       content,
       title: data.title,
-      description: data.description,
-      category: data.category,
+      description,
+      category,
       'data-ai-hint': data['data-ai-hint'],
       image,
     };
