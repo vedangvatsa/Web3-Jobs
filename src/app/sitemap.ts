@@ -5,7 +5,6 @@ import { getAllArticles } from '@/lib/articles';
 import { getAllTerms, getAllCategorySlugs } from '@/lib/glossary';
 import { interviewData } from '@/lib/interview-questions';
 import { getCompanies } from '@/lib/companies';
-import { getJobs } from '@/lib/jobs';
 
 const siteUrl = 'https://hashtagweb3.com';
 
@@ -13,7 +12,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = await getAllArticles();
   const companies = await getCompanies();
   const glossaryTerms = await getAllTerms();
-  const jobs = await getJobs();
   const categorySlugs = await getAllCategorySlugs();
   
   const articleRoutes: MetadataRoute.Sitemap = articles.map(article => ({
@@ -42,13 +40,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: new Date(),
     changeFrequency: 'weekly',
     priority: 0.85
-  }));
-
-  const jobRoutes: MetadataRoute.Sitemap = jobs.map(job => ({
-    url: `${siteUrl}/jobs/${encodeURIComponent(job.id)}`,
-    lastModified: new Date(job.date),
-    changeFrequency: 'weekly',
-    priority: 0.7
   }));
 
   const interviewQuestionRoutes: MetadataRoute.Sitemap = interviewData.roles.map(role => ({
@@ -217,7 +208,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   ];
 
-  return [...staticRoutes, ...glossaryRoutes, ...glossaryCategoryRoutes, ...articleRoutes, ...companyRoutes, ...jobRoutes, ...interviewQuestionRoutes];
+  return [...staticRoutes, ...glossaryRoutes, ...glossaryCategoryRoutes, ...articleRoutes, ...companyRoutes, ...interviewQuestionRoutes];
 }
 
     
