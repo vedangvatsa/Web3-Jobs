@@ -1,5 +1,277 @@
 [
   {
+    "id": "https://coinbase.getro.com/companies/workable/jobs/67810386-smb-account-executive#content",
+    "title": "SMB Account Executive",
+    "company": "Workable",
+    "link": "https://coinbase.getro.com/companies/workable/jobs/67810386-smb-account-executive#content",
+    "date": "2026-02-15T11:46:56.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/cointracker/jobs/67804936-executive-business-partner-product-design#content",
+    "title": "Executive Business Partner, Product & Design",
+    "company": "CoinTracker",
+    "link": "https://coinbase.getro.com/companies/cointracker/jobs/67804936-executive-business-partner-product-design#content",
+    "date": "2026-02-15T11:31:56.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/yellow-card-2/jobs/67777475-senior-payroll-tax-associate#content",
+    "title": "Senior Payroll & Tax Associate",
+    "company": "Yellow Card",
+    "link": "https://coinbase.getro.com/companies/yellow-card-2/jobs/67777475-senior-payroll-tax-associate#content",
+    "date": "2026-02-15T11:01:56.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/spruce-systems-2/jobs/67756609-chief-of-staff-to-the-ceo#content",
+    "title": "Chief of Staff to the CEO",
+    "company": "Spruce Systems",
+    "link": "https://coinbase.getro.com/companies/spruce-systems-2/jobs/67756609-chief-of-staff-to-the-ceo#content",
+    "date": "2026-02-15T10:46:56.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/certik-2-b8331f10-b1b8-44e2-b9d6-96cbae526d14/jobs/67750522-business-development-intern-certik-ambassador#content",
+    "title": "Business Development Intern / CertiK Ambassador",
+    "company": "CertiK",
+    "link": "https://coinbase.getro.com/companies/certik-2-b8331f10-b1b8-44e2-b9d6-96cbae526d14/jobs/67750522-business-development-intern-certik-ambassador#content",
+    "date": "2026-02-15T10:31:56.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTUyNCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "title": "Manager - Growth",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTUyNCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "date": "2026-02-15T09:43:20.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808811-am-market-making-coverage-trader#content",
+    "title": "AM - Market Making - Coverage Trader",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808811-am-market-making-coverage-trader#content",
+    "date": "2026-02-15T07:34:37.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/quicknode/jobs/67808579-support-engineer-ii#content",
+    "title": "Support Engineer II",
+    "company": "QuickNode",
+    "link": "https://jobs.solana.com/companies/quicknode/jobs/67808579-support-engineer-ii#content",
+    "date": "2026-02-15T02:13:49.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808828-blockchain-developer#content",
+    "title": "Blockchain Developer",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808828-blockchain-developer#content",
+    "date": "2026-02-15T02:11:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/quicknode/jobs/67808580-technical-operations-engineer#content",
+    "title": "Technical Operations Engineer",
+    "company": "QuickNode",
+    "link": "https://jobs.solana.com/companies/quicknode/jobs/67808580-technical-operations-engineer#content",
+    "date": "2026-02-15T01:58:49.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808829-am-blockchain-trading-blockchain-developer#content",
+    "title": "AM - Blockchain Trading - Blockchain Developer",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808829-am-blockchain-trading-blockchain-developer#content",
+    "date": "2026-02-15T01:56:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808824-am-trading-infrastructure-database-engineer-c-c#content",
+    "title": "AM - Trading Infrastructure - Database Engineer (C/C++)",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808824-am-trading-infrastructure-database-engineer-c-c#content",
+    "date": "2026-02-15T01:11:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808822-am-trading-system-blockchain-data-engineer#content",
+    "title": "AM - Trading System - Blockchain Data Engineer",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808822-am-trading-system-blockchain-data-engineer#content",
+    "date": "2026-02-15T00:56:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808826-ai-agent-engineer#content",
+    "title": "AI Agent Engineer",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808826-ai-agent-engineer#content",
+    "date": "2026-02-15T00:41:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808820-am-prop-junior-quantitative-researcher#content",
+    "title": "AM - Prop - Junior Quantitative Researcher",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808820-am-prop-junior-quantitative-researcher#content",
+    "date": "2026-02-15T00:26:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808825-llm-engineer#content",
+    "title": "LLM Engineer",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808825-llm-engineer#content",
+    "date": "2026-02-15T00:11:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808817-business-development-manager#content",
+    "title": "Business Development Manager",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808817-business-development-manager#content",
+    "date": "2026-02-14T22:56:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808816-marketing-and-public-relations-manager#content",
+    "title": "Marketing And Public Relations Manager",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808816-marketing-and-public-relations-manager#content",
+    "date": "2026-02-14T22:41:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808815-accountant-financial-accounting#content",
+    "title": "Accountant, Financial Accounting",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808815-accountant-financial-accounting#content",
+    "date": "2026-02-14T22:26:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808810-client-operations-associate#content",
+    "title": "Client Operations Associate",
+    "company": "Amber Group",
+    "link": "https://jobs.dragonfly.xyz/companies/amber-group-2/jobs/67808810-client-operations-associate#content",
+    "date": "2026-02-14T22:11:40.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/67802937-staff-blockchain-data-scientist#content",
+    "title": "Staff Blockchain Data Scientist",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/67802937-staff-blockchain-data-scientist#content",
+    "date": "2026-02-14T20:18:26.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/67772073-software-engineer-ii#content",
+    "title": "Software Engineer II",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/67772073-software-engineer-ii#content",
+    "date": "2026-02-14T19:26:21.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Strategic-People-Initiatives-Manager_JR100875",
+    "title": "Strategic People Initiatives Manager",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Strategic-People-Initiatives-Manager_JR100875",
+    "date": "2026-02-14T18:36:27.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Employee-Relations-Specialist_JR100874",
+    "title": "Senior Employee Relations Specialist",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Employee-Relations-Specialist_JR100874",
+    "date": "2026-02-14T18:21:27.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/67772075-data-scientist-iii#content",
+    "title": "Data Scientist III",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/67772075-data-scientist-iii#content",
+    "date": "2026-02-14T16:33:20.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/67772072-client-readiness-senior-specialist#content",
+    "title": "Client Readiness, Senior Specialist",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/67772072-client-readiness-senior-specialist#content",
+    "date": "2026-02-14T13:48:35.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/1inch-2/jobs/67751463-qa-engineer#content",
+    "title": "QA Engineer",
+    "company": "1Inch",
+    "link": "https://jobs.avax.network/companies/1inch-2/jobs/67751463-qa-engineer#content",
+    "date": "2026-02-14T10:57:40.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747426-regional-institutional-manager-middle-east#content",
+    "title": "Regional Institutional Manager, Middle East",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747426-regional-institutional-manager-middle-east#content",
+    "date": "2026-02-14T10:40:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747423-regional-institutional-manager-latin-america#content",
+    "title": "Regional Institutional Manager, Latin America",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747423-regional-institutional-manager-latin-america#content",
+    "date": "2026-02-14T10:25:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747418-member-of-kyc-operations-periodic-refresh#content",
+    "title": "Member of KYC Operations, Periodic Refresh",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747418-member-of-kyc-operations-periodic-refresh#content",
+    "date": "2026-02-14T10:10:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747419-member-of-prime-intern#content",
+    "title": "Member of Prime, Intern",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747419-member-of-prime-intern#content",
+    "date": "2026-02-14T09:55:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/67744159-senior-accountant#content",
+    "title": "Senior Accountant",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/67744159-senior-accountant#content",
+    "date": "2026-02-14T09:48:27.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7612805?gh_jid=7612805",
+    "title": "Quantitative Risk Modeling Manager",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7612805?gh_jid=7612805",
+    "date": "2026-02-14T09:48:22.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747420-member-of-stablecoin-solutions-mea-regional-lead#content",
+    "title": "Member of Stablecoin Solutions, MEA Regional Lead",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/67747420-member-of-stablecoin-solutions-mea-regional-lead#content",
+    "date": "2026-02-14T09:40:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
     "id": "https://coinbase.getro.com/companies/workable/jobs/67715260-partner-sales-manager#content",
     "title": "Partner Sales Manager",
     "company": "Workable",
