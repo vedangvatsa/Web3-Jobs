@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, BarChart, Smile, Scale, Building2 } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, BarChart, Smile, Scale, Building2, Library } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import Script from 'next/script';
@@ -26,10 +26,14 @@ import {
 export function Header() {
     const mainNavLinks = [
         { href: "/", label: "Jobs", icon: Briefcase },
-        { href: "/companies", label: "Companies", icon: Building2 },
-        { href: "/blog", label: "Playbook", icon: BookOpen },
         { href: "/news", label: "News", icon: Newspaper },
         { href: "/community", label: "Community", icon: Users },
+    ];
+
+    const resourceLinks = [
+        { href: "/companies", label: "Companies", icon: Building2 },
+        { href: "/blog", label: "Playbook", icon: BookOpen },
+        { href: "/glossary", label: "Glossary", icon: Library },
         { href: "https://academy.hashtagweb3.com/", label: "Academy", target: "_blank", icon: GraduationCap },
     ];
 
@@ -87,7 +91,7 @@ export function Header() {
                 </Link>
                 
                 <nav className="hidden lg:flex items-center gap-6 text-sm font-medium">
-                     {mainNavLinks.slice(0,3).map((link) => (
+                     {mainNavLinks.map((link) => (
                          <Link
                             key={link.label}
                             href={link.href}
@@ -104,7 +108,17 @@ export function Header() {
                             Resources <ChevronDown className="h-4 w-4" />
                         </DropdownMenuTrigger>
                         <DropdownMenuContent className="w-64">
-                             <DropdownMenuLabel>For Employees</DropdownMenuLabel>
+                             <DropdownMenuLabel>Learn & Explore</DropdownMenuLabel>
+                             <DropdownMenuSeparator />
+                            {resourceLinks.map(link => (
+                                <DropdownMenuItem key={link.label} asChild>
+                                    <Link href={link.href} target={link.target} rel={link.target ? "noopener noreferrer" : undefined} className="flex items-center gap-2">
+                                        <link.icon className="h-4 w-4 text-muted-foreground" />
+                                        {link.label}
+                                    </Link>
+                                </DropdownMenuItem>
+                            ))}
+                             <DropdownMenuLabel className="pt-2">For Employees</DropdownMenuLabel>
                              <DropdownMenuSeparator />
                             {employeeLinks.map(link => (
                                 <DropdownMenuItem key={link.label} asChild>
@@ -126,18 +140,6 @@ export function Header() {
                             ))}
                         </DropdownMenuContent>
                     </DropdownMenu>
-
-                     {mainNavLinks.slice(3).map((link) => (
-                         <Link
-                            key={link.label}
-                            href={link.href}
-                            target={link.target}
-                            rel={link.target ? "noopener noreferrer" : undefined}
-                            className="text-muted-foreground transition-colors hover:text-foreground"
-                         >
-                           {link.label}
-                       </Link>
-                    ))}
 
                     <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
                         <Button size="sm">Post a Job</Button>
@@ -193,7 +195,18 @@ export function Header() {
                                             </div>
                                         </AccordionTrigger>
                                         <AccordionContent className="pl-4">
-                                            <h4 className="px-2 py-1.5 text-sm font-semibold">For Employees</h4>
+                                            <h4 className="px-2 py-1.5 text-sm font-semibold">Learn & Explore</h4>
+                                            <div className="flex flex-col space-y-1 mt-1">
+                                                {resourceLinks.map(link => (
+                                                    <SheetClose key={link.label} asChild>
+                                                        <Link href={link.href} target={link.target} rel={link.target ? "noopener noreferrer" : undefined} className="flex items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
+                                                            <link.icon className="h-4 w-4" />
+                                                            {link.label}
+                                                        </Link>
+                                                    </SheetClose>
+                                                ))}
+                                            </div>
+                                            <h4 className="px-2 py-1.5 mt-2 text-sm font-semibold">For Employees</h4>
                                             <div className="flex flex-col space-y-1 mt-1">
                                                 {employeeLinks.map(link => (
                                                     <SheetClose key={link.label} asChild>
