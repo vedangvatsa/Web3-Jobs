@@ -6196,3 +6196,211 @@ description: Learn how to build a subgraph using The Graph Protocol. This guide 
 page: /zero-knowledge-proofs-explained
 title: Zero-Knowledge Proofs (ZKPs): A Simple Explanation
 description: An easy-to-understand guide to Zero-Knowledge Proofs. Learn how this revolutionary cryptography allows you to prove something is true without revealing.
+---
+page: /airdrop
+title: Airdrop - Web3 Glossary
+description: Airdrops are distribution mechanisms where projects send free tokens to wallet addresses, often as marketing campaigns, rewards, or to decentralize token ownership.
+---
+page: /altcoin
+title: Altcoin - Web3 Glossary
+description: Alternative cryptocurrencies to Bitcoin, encompassing thousands of different blockchain projects with varied purposes from payments to smart contracts.
+---
+page: /amm
+title: Automated Market Maker (AMM) - Web3 Glossary
+description: Mathematical protocols that enable decentralized trading by using liquidity pools and algorithms instead of traditional order books.
+---
+page: /arbitrage
+title: Arbitrage - Web3 Glossary
+description: The practice of exploiting price differences for the same asset across different markets or platforms, buying low and selling high for risk-free profit.
+---
+page: /audit
+title: Smart Contract Audit - Web3 Glossary
+description: A comprehensive security review of blockchain code by specialized firms to identify vulnerabilities, bugs, and potential exploits before deployment.
+---
+page: /bitcoin
+title: Bitcoin - Web3 Glossary
+description: The first decentralized cryptocurrency, created by Satoshi Nakamoto, operating as a peer-to-peer electronic cash system without central authority.
+---
+page: /blockchain
+title: Blockchain - Web3 Glossary
+description: A distributed ledger technology that records transactions across multiple computers in blocks that are cryptographically linked in a chain.
+---
+page: /bridge
+title: Cross-Chain Bridge - Web3 Glossary
+description: Protocols that enable the transfer of assets and data between different blockchain networks, connecting isolated ecosystems.
+---
+page: /collateral
+title: Collateral - Web3 Glossary
+description: Assets deposited as security for a loan or position in DeFi protocols, subject to liquidation if value falls below required thresholds.
+---
+page: /consensus-mechanism
+title: Consensus Mechanism - Web3 Glossary
+description: The protocol by which blockchain nodes agree on the current state of the ledger, including methods like Proof of Work and Proof of Stake.
+---
+page: /dao
+title: DAO (Decentralized Autonomous Organization) - Web3 Glossary
+description: Organizations governed by smart contracts and token holder voting rather than traditional hierarchical management structures.
+---
+page: /defi
+title: DeFi (Decentralized Finance) - Web3 Glossary
+description: Financial applications built on blockchain that operate without traditional intermediaries like banks or brokerages.
+---
+page: /dex
+title: DEX (Decentralized Exchange) - Web3 Glossary
+description: Trading platforms that enable peer-to-peer cryptocurrency transactions without centralized intermediaries or custody.
+---
+page: /erc-20
+title: ERC-20 Token Standard - Web3 Glossary
+description: The most widely adopted Ethereum token standard for fungible tokens, defining common functions for transfers and approvals.
+---
+page: /erc-721
+title: ERC-721 NFT Standard - Web3 Glossary
+description: Ethereum token standard for non-fungible tokens, enabling unique digital assets with distinct characteristics and metadata.
+---
+page: /ethereum
+title: Ethereum - Web3 Glossary
+description: A programmable blockchain platform enabling smart contracts and decentralized applications beyond simple cryptocurrency transactions.
+---
+page: /exploit
+title: Smart Contract Exploit - Web3 Glossary
+description: An attack that takes advantage of vulnerabilities in smart contracts or blockchain systems to steal funds or manipulate outcomes.
+---
+page: /flash-loan
+title: Flash Loan - Web3 Glossary
+description: Uncollateralized loans that must be borrowed and repaid within a single transaction block, enabling capital-efficient arbitrage and trading.
+---
+page: /fork
+title: Blockchain Fork - Web3 Glossary
+description: A split in a blockchain creating two separate chains, either through protocol upgrades (hard fork) or temporary divergence (soft fork).
+---
+page: /gas-fee
+title: Gas Fee - Web3 Glossary
+description: Transaction fees paid to blockchain validators for processing and including transactions in blocks, priced in the network's native currency.
+---
+page: /governance-token
+title: Governance Token - Web3 Glossary
+description: Tokens that grant holders voting rights in protocol decisions, treasury management, and upgrades in decentralized organizations.
+---
+page: /hash
+title: Cryptographic Hash - Web3 Glossary
+description: A one-way mathematical function that converts input data into a fixed-size string, fundamental to blockchain security and integrity.
+---
+page: /impermanent-loss
+title: Impermanent Loss - Web3 Glossary
+description: The opportunity cost liquidity providers face when token prices diverge from their deposit ratio compared to simply holding the assets.
+---
+page: /layer-2
+title: Layer 2 Scaling Solution - Web3 Glossary
+description: Secondary protocols built on top of blockchains to improve transaction throughput and reduce costs while inheriting base layer security.
+---
+page: /liquidity
+title: Liquidity - Web3 Glossary
+description: How easily an asset can be bought or sold without significantly affecting its price, or the availability of assets in markets to facilitate trading.
+---
+page: /liquidity-pool
+title: Liquidity Pool - Web3 Glossary
+description: Smart contracts holding reserves of tokens that enable decentralized trading through automated market makers.
+---
+page: /mainnet
+title: Mainnet - Web3 Glossary
+description: The primary production blockchain network where real transactions occur with actual value and economic consequences.
+---
+page: /metamask
+title: MetaMask Wallet - Web3 Glossary
+description: A popular browser extension and mobile wallet for interacting with Ethereum and EVM-compatible blockchains and dApps.
+---
+page: /mining
+title: Cryptocurrency Mining - Web3 Glossary
+description: The process of validating transactions and adding blocks to Proof of Work blockchains by solving complex computational puzzles.
+---
+page: /minting
+title: Minting (NFT/Token Creation) - Web3 Glossary
+description: The process of creating new tokens or NFTs by writing them to the blockchain, establishing ownership and scarcity.
+---
+page: /multisig
+title: Multisig Wallet - Web3 Glossary
+description: Wallets requiring multiple private key signatures to authorize transactions, distributing custody and reducing single points of failure.
+---
+page: /nft
+title: NFT (Non-Fungible Token) - Web3 Glossary
+description: Unique digital tokens representing ownership of specific assets, from art to real estate, with verifiable scarcity on the blockchain.
+---
+page: /node
+title: Blockchain Node - Web3 Glossary
+description: Computers running blockchain software that validate transactions, maintain the ledger, and participate in network consensus.
+---
+page: /oracle
+title: Blockchain Oracle - Web3 Glossary
+description: Services that provide smart contracts with external real-world data, bridging on-chain and off-chain information.
+---
+page: /private-key
+title: Private Key - Web3 Glossary
+description: A secret cryptographic code that proves ownership of a blockchain address and authorizes transactions, requiring absolute security.
+---
+page: /proof-of-stake
+title: Proof of Stake - Web3 Glossary
+description: A consensus mechanism where validators are chosen to create blocks based on the amount of cryptocurrency they stake as collateral.
+---
+page: /proof-of-work
+title: Proof of Work - Web3 Glossary
+description: A consensus mechanism requiring miners to solve computational puzzles to validate transactions and secure the blockchain.
+---
+page: /royalty
+title: NFT Royalties - Web3 Glossary
+description: Automated payments to original creators on secondary NFT sales, encoded in smart contracts to ensure ongoing compensation.
+---
+page: /rug-pull
+title: Rug Pull Scam - Web3 Glossary
+description: An exit scam where cryptocurrency project creators abandon the project and run away with investors' funds.
+---
+page: /seed-phrase
+title: Seed Phrase (Recovery Phrase) - Web3 Glossary
+description: A series of 12-24 words that serves as a backup to recover cryptocurrency wallets and all associated private keys.
+---
+page: /slippage
+title: Slippage - Web3 Glossary
+description: The difference between expected and actual trade execution price, occurring when market conditions change during transaction processing.
+---
+page: /smart-contract
+title: Smart Contract - Web3 Glossary
+description: Self-executing programs on blockchains that automatically enforce agreement terms without intermediaries when conditions are met.
+---
+page: /solidity
+title: Solidity Programming Language - Web3 Glossary
+description: The most widely used programming language for writing smart contracts on Ethereum and EVM-compatible blockchains.
+---
+page: /stablecoin
+title: Stablecoin - Web3 Glossary
+description: Cryptocurrencies designed to maintain stable value by pegging to fiat currencies, commodities, or algorithmic mechanisms.
+---
+page: /staking
+title: Staking - Web3 Glossary
+description: Locking up cryptocurrency to support blockchain network operations and earn rewards, fundamental to Proof of Stake consensus.
+---
+page: /testnet
+title: Testnet - Web3 Glossary
+description: A parallel blockchain network used by developers to test applications and smart contracts without risking real assets.
+---
+page: /token
+title: Cryptocurrency Token - Web3 Glossary
+description: Digital assets built on existing blockchains representing value, utility, governance rights, or other functions within ecosystems.
+---
+page: /wallet
+title: Cryptocurrency Wallet - Web3 Glossary
+description: Software or hardware that stores private keys and enables users to send, receive, and manage cryptocurrency assets.
+---
+page: /web3
+title: Web3 - Web3 Glossary
+description: The vision of a decentralized internet built on blockchain technology where users own their data and digital assets.
+---
+page: /whale
+title: Whale (Crypto Whale) - Web3 Glossary
+description: An individual or entity holding very large amounts of cryptocurrency, capable of influencing market prices through trading activity.
+---
+page: /whitepaper
+title: Whitepaper - Web3 Glossary
+description: A comprehensive technical document explaining a cryptocurrency or blockchain project's technology, use case, and implementation.
+---
+page: /yield-farming
+title: Yield Farming - Web3 Glossary
+description: The practice of maximizing returns by strategically moving crypto assets between DeFi protocols to earn the highest yields.
