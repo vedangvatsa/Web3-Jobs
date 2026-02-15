@@ -219,8 +219,16 @@ export default async function CompanyPage({ params }: { params: { slug: string }
                   )}
 
                   {company.about && (
-                    <div className="prose prose-sm max-w-none mb-4 text-muted-foreground">
-                      <div dangerouslySetInnerHTML={{ __html: company.about.replace(/\n/g, '<br />') }} />
+                    <div className="prose prose-sm max-w-none mb-4">
+                      <div 
+                        className="text-muted-foreground leading-relaxed"
+                        dangerouslySetInnerHTML={{ 
+                          __html: company.about
+                            .split('\n\n')
+                            .map(para => `<p class="mb-3">${para.replace(/\n/g, '<br />')}</p>`)
+                            .join('') 
+                        }} 
+                      />
                     </div>
                   )}
 
