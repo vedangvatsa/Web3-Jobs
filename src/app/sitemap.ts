@@ -2,6 +2,7 @@
       
 import { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
+import { getAllTerms } from '@/lib/glossary';
 import { interviewData } from '@/lib/interview-questions';
 import { getCompanies } from '@/lib/companies';
 
@@ -10,6 +11,7 @@ const siteUrl = 'https://hashtagweb3.com';
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = await getAllArticles();
   const companies = await getCompanies();
+  const glossaryTerms = await getAllTerms();
   
   const articleRoutes: MetadataRoute.Sitemap = articles.map(article => ({
     url: `${siteUrl}/${article.slug}`,
@@ -22,6 +24,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     url: `${siteUrl}/companies/${company.slug}`,
     lastModified: new Date(company.lastUpdated),
     changeFrequency: 'daily',
+    priority: 0.8
+  }));
+  
+  const glossaryRoutes: MetadataRoute.Sitemap = glossaryTerms.map(term => ({
+    url: `${siteUrl}/${term.slug}`,
+    lastModified: new Date(term.publishedDate),
+    changeFrequency: 'monthly',
     priority: 0.8
   }));
 
@@ -50,6 +59,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
+    },
+    {
+      url: `${siteUrl}/glossary`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.9,
     },
     {
       url: `${siteUrl}/jobs`,
@@ -185,7 +200,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   ];
 
-  return [...staticRoutes, ...articleRoutes, ...companyRoutes, ...interviewQuestionRoutes];
+  return [...staticRoutes, ...glossaryRoutes, ...articleRoutes, ...companyRoutes, ...interviewQuestionRoutes];
 }
 
     
