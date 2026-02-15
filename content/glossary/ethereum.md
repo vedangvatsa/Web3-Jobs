@@ -8,7 +8,6 @@ imageAlt: "Ethereum cryptocurrency logo and concept"
 description: "A decentralized blockchain platform that enables smart contracts and decentralized applications (dApps), founded by Vitalik Buterin in 2015."
 relatedTerms: ["Smart Contract", "Solidity", "Gas Fee", "ERC-20", "DeFi"]
 synonyms: ["ETH"]
-publishedDate: "2026-02-16"
 ---
 
 Ethereum is a blockchain platform launched in 2015 that extended Bitcoin's innovation by adding programmability. While Bitcoin focuses on peer-to-peer payments, Ethereum provides a platform for building decentralized applications through smart contracts.

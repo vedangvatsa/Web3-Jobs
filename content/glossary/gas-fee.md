@@ -8,7 +8,6 @@ imageAlt: "Ethereum network transaction visualization"
 description: "The transaction fee paid to process and validate operations on a blockchain network, compensating validators or miners for computational resources."
 relatedTerms: ["Ethereum", "Gwei", "Transaction", "Block", "Mining"]
 synonyms: ["Transaction Fee", "Network Fee"]
-publishedDate: "2026-02-16"
 ---
 
 Gas fees are payments made to execute transactions or run smart contracts on blockchain networks. The term originated with Ethereum, where "gas" represents the computational effort required to process operations.
