@@ -1,4 +1,3 @@
-
 'use server';
 
 import type { Article } from '@/types';
@@ -8,38 +7,34 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-const articlesDirectory = path.join(process.cwd(), 'src/lib/articles');
+const contentArticlesDirectory = path.join(process.cwd(), 'content/articles');
 
-function removePlaceholderKeyTakeaways(content: string): string {
-  const sectionRegex = /(^|\n)## Key Takeaways[\s\S]*?(?=\n## |\n# |\n$)/g;
-  return content.replace(sectionRegex, (section) => {
-    return section.includes('{Key point') ? '\n' : section;
-  });
-}
+function readArticlesFromDirectory(directory: string): Omit<Article, 'content'>[] {
+  if (!fs.existsSync(directory)) {
+    return [];
+  }
 
-export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
-  const fileNames = fs.readdirSync(articlesDirectory);
-  const allArticlesData = fileNames
+  const fileNames = fs.readdirSync(directory);
+  return fileNames
     .map((fileName) => {
       if (!fileName.endsWith('.md')) {
         return null;
       }
       const slug = fileName.replace(/\.md$/, '');
-      
-      const fullPath = path.join(articlesDirectory, fileName);
+
+      const fullPath = path.join(directory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const matterResult = matter(fileContents);
       const data = matterResult.data;
 
-      // A title is essential. If it's missing, exclude the article.
       if (typeof data.title !== 'string' || !data.title) {
-        console.warn(`Article with slug "${slug}" is missing a title. It will be excluded.`);
+        console.warn(`Article with slug "${slug}" is missing a title.`);
         return null;
       }
-      
-      const image = data.image || `https://picsum.photos/seed/${slug}/1200/630`;
-      const description = data.description || 'No description provided.';
-      const category = data.category || 'General';
+
+      const image = typeof data.image === 'string' && data.image ? data.image : `https://picsum.photos/seed/${slug}/1200/630`;
+      const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
+      const category = typeof data.category === 'string' && data.category ? data.category : 'General';
 
       return {
         slug,
@@ -51,13 +46,23 @@ export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
       };
     })
     .filter((article): article is Omit<Article, 'content'> => article !== null);
+}
 
-  return allArticlesData.sort((a, b) => a.title.localeCompare(b.title));
+function removePlaceholderKeyTakeaways(content: string): string {
+  const sectionRegex = /(^|\n)## Key Takeaways[\s\S]*?(?=\n## |\n# |\n$)/g;
+  return content.replace(sectionRegex, (section) => {
+    return section.includes('{Key point') ? '\n' : section;
+  });
+}
+
+export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
+  const contentArticles = readArticlesFromDirectory(contentArticlesDirectory);
+  return contentArticles.sort((a, b) => a.title.localeCompare(b.title));
 }
 
 export async function getArticle(slug: string): Promise<Article | undefined> {
-  const fullPath = path.join(articlesDirectory, `${slug}.md`);
-  
+  const fullPath = path.join(contentArticlesDirectory, `${slug}.md`);
+
   if (!fs.existsSync(fullPath)) {
     return undefined;
   }
@@ -65,7 +70,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   try {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const matterResult = matter(fileContents);
-    
+
     const sanitizedContent = removePlaceholderKeyTakeaways(matterResult.content);
 
     const processedContent = await remark()
@@ -75,16 +80,14 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
 
     const data = matterResult.data;
 
-    // A title is essential.
     if (typeof data.title !== 'string' || !data.title) {
-        console.error(`Article with slug "${slug}" is missing a title.`);
-        return undefined; // or handle appropriately
+      console.error(`Article with slug "${slug}" is missing a title.`);
+      return undefined;
     }
-    
-    const image = data.image || `https://picsum.photos/seed/${slug}/1200/630`;
-    const description = data.description || 'No description provided.';
-    const category = data.category || 'General';
 
+    const image = typeof data.image === 'string' && data.image ? data.image : `https://picsum.photos/seed/${slug}/1200/630`;
+    const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
+    const category = typeof data.category === 'string' && data.category ? data.category : 'General';
 
     return {
       slug,

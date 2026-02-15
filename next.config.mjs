@@ -17,6 +17,18 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'fastly.picsum.photos',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'i.picsum.photos',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
         hostname: 'picsumphotos.com',
         port: '',
         pathname: '/**',
