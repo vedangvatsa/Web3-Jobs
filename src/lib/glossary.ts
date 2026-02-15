@@ -105,6 +105,24 @@ export async function getTermsByCategory(categorySlug: string): Promise<Glossary
 }
 
 /**
+ * Get category by slug
+ */
+export async function getCategory(categorySlug: string): Promise<GlossaryCategory | null> {
+  const categories = await getCategoriesWithCounts();
+  return categories.find(cat => cat.slug === categorySlug) || null;
+}
+
+/**
+ * Get all category slugs for static generation
+ */
+export async function getAllCategorySlugs(): Promise<string[]> {
+  const categories = await getCategoriesWithCounts();
+  return categories
+    .filter(cat => cat.termCount && cat.termCount > 0)
+    .map(cat => cat.slug);
+}
+
+/**
  * Get terms by first letter
  */
 export async function getTermsByLetter(letter: string): Promise<GlossaryTerm[]> {
