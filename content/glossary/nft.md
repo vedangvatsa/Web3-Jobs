@@ -8,7 +8,6 @@ imageAlt: "Digital NFT artwork concept"
 description: "Non-Fungible Token—a unique digital asset stored on a blockchain that represents ownership of a specific item, artwork, collectible, or piece of content."
 relatedTerms: ["ERC-721", "Ethereum", "Smart Contract", "Metadata", "Minting"]
 synonyms: ["Non-Fungible Token", "Digital Collectible"]
-publishedDate: "2026-02-16"
 ---
 
 An NFT (Non-Fungible Token) is a unique digital certificate of ownership stored on a blockchain. Unlike cryptocurrencies such as Bitcoin or Ethereum, where each unit is identical and interchangeable (fungible), each NFT is distinct and cannot be replicated or substituted.

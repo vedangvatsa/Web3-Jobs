@@ -8,7 +8,6 @@ imageAlt: "Smart contract code on computer screen"
 description: "Self-executing programs stored on a blockchain that automatically enforce agreements when predetermined conditions are met, eliminating the need for intermediaries."
 relatedTerms: ["Ethereum", "Solidity", "Blockchain", "Gas Fee", "DApp"]
 synonyms: ["Self-Executing Contract", "Digital Contract"]
-publishedDate: "2026-02-16"
 ---
 
 A smart contract is a self-executing program deployed on a blockchain that automatically carries out actions when specific conditions are satisfied. Think of it as a digital vending machine: you input the correct payment, and the machine automatically dispenses your selection without requiring a cashier.
