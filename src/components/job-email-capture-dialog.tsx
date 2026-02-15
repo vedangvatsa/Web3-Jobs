@@ -60,25 +60,41 @@ export function JobEmailCaptureDialog({
     }
   }, [open, form]);
 
-  const onSubmit = (data: EmailFormData) => {
+  const onSubmit = async (data: EmailFormData) => {
     if (!firestore) {
       toast({
         variant: "destructive",
         title: "Database Not Configured",
-        description: "The application is not connected to a database. Your email could not be saved.",
+        description: "The application is not connected to a database. Your email could not be saved. This is likely because the Firebase environment variables are not set correctly.",
       });
       console.error("Firestore instance is null. Firebase may not be configured correctly.");
       onOpenChange(false);
       return;
     }
     
-    saveEmail(firestore, data.email);
+    try {
+      await saveEmail(firestore, data.email);
+      toast({
+          title: "Success!",
+          description: "You're subscribed. We'll keep you updated on the latest jobs.",
+      });
 
-    if (job?.link) {
-      window.open(job.link, '_blank');
+      if (job?.link) {
+        window.open(job.link, '_blank');
+      }
+      onOpenChange(false);
+
+    } catch (error: any) {
+      // The permission-denied error is handled by the global error listener via errorEmitter,
+      // so we only need to toast for other types of errors.
+      if (error.code !== 'permission-denied' && error.code !== 'PERMISSION_DENIED') {
+          toast({
+              variant: "destructive",
+              title: "Submission Error",
+              description: `Could not save your email. Reason: ${error.message || 'An unknown error occurred.'}`,
+          });
+      }
     }
-
-    onOpenChange(false);
   };
 
   return (
