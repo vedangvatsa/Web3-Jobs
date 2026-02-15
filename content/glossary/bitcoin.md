@@ -8,7 +8,6 @@ imageAlt: "Bitcoin cryptocurrency coins"
 description: "The first decentralized cryptocurrency, created in 2009 by Satoshi Nakamoto, that enables peer-to-peer transactions without intermediaries on a blockchain network."
 relatedTerms: ["Blockchain", "Cryptocurrency", "Satoshi Nakamoto", "Mining", "Proof of Work"]
 synonyms: ["BTC", "Digital Gold"]
-publishedDate: "2026-02-16"
 ---
 
 Bitcoin is the world's first cryptocurrency and blockchain network, introduced in 2009 by an anonymous creator known as Satoshi Nakamoto. It pioneered the concept of digital money that operates without banks or governments, using cryptography and a distributed network to secure transactions.

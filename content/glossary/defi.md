@@ -8,7 +8,6 @@ imageAlt: "Decentralized finance concept with digital assets"
 description: "Decentralized Finance—a category of financial applications built on blockchain that provide services like lending, borrowing, and trading without traditional intermediaries."
 relatedTerms: ["Smart Contract", "Liquidity Pool", "Yield Farming", "DEX", "Staking"]
 synonyms: ["Decentralized Finance", "Open Finance"]
-publishedDate: "2026-02-16"
 ---
 
 DeFi (Decentralized Finance) refers to financial applications and services built on blockchain networks that operate without traditional intermediaries like banks, brokers, or clearinghouses. Instead, DeFi uses smart contracts to create trustless, programmable financial instruments accessible to anyone with an internet connection.

@@ -3,6 +3,7 @@ import { getArticle, getAllArticles } from '@/lib/articles';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/header';
+import { GlossaryCTA } from '@/components/glossary-cta';
 import Image from 'next/image';
 import { Metadata } from 'next';
 import type { Article as ArticleSchema, ScholarlyArticle, BreadcrumbList } from 'schema-dts';
@@ -210,6 +211,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     className="prose prose-lg dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-primary"
                     dangerouslySetInnerHTML={{ __html: term.content }}
                   />
+                  
+                  <GlossaryCTA termName={term.term} />
                 </div>
                 
                 {/* Sidebar */}

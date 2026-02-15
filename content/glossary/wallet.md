@@ -8,7 +8,6 @@ imageAlt: "Digital cryptocurrency wallet interface"
 description: "A software or hardware tool that stores cryptographic keys enabling users to send, receive, and manage cryptocurrency and interact with blockchain applications."
 relatedTerms: ["Private Key", "Seed Phrase", "MetaMask", "Cold Wallet", "Hot Wallet"]
 synonyms: ["Crypto Wallet", "Digital Wallet"]
-publishedDate: "2026-02-16"
 ---
 
 A crypto wallet is a tool that manages the cryptographic keys required to access and control blockchain assets. Despite the name, wallets don't actually store cryptocurrency—they store the private keys that prove ownership and authorize transactions on the blockchain.

@@ -8,7 +8,6 @@ imageAlt: "Community governance and collaboration concept"
 description: "Decentralized Autonomous Organization—an internet-native organization governed by smart contracts and owned collectively by its members, who vote on decisions using tokens."
 relatedTerms: ["Governance Token", "Smart Contract", "Proposal", "Voting", "Treasury"]
 synonyms: ["Decentralized Autonomous Organization"]
-publishedDate: "2026-02-16"
 ---
 
 A DAO (Decentralized Autonomous Organization) is an organization that operates through rules encoded in smart contracts rather than traditional hierarchical management. Members collectively make decisions through on-chain voting, typically weighted by token ownership or contribution.

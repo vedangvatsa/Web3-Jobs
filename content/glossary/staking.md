@@ -8,7 +8,6 @@ imageAlt: "Cryptocurrency staking and earning rewards"
 description: "Locking up cryptocurrency tokens to support blockchain network operations and earn rewards, serving as collateral for transaction validation in Proof of Stake systems."
 relatedTerms: ["Proof of Stake", "Validator", "Ethereum", "Yield", "Rewards"]
 synonyms: ["Token Staking", "Crypto Staking"]
-publishedDate: "2026-02-16"
 ---
 
 Staking involves locking cryptocurrency in a protocol to support network operations, earning rewards in return. In Proof of Stake blockchains, stakers serve as validators who process transactions and secure the network.
