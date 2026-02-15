@@ -21,13 +21,22 @@ export const metadata: Metadata = {
 
 export const revalidate = 86400; // Revalidate daily
 
-export default async function GlossaryPage() {
+export default async function GlossaryPage({
+  searchParams,
+}: {
+  searchParams: { category?: string };
+}) {
   const allTerms = await getAllTerms();
   const categories = await getCategoriesWithCounts();
   const stats = await getGlossaryStats();
   
+  // Filter by category if provided
+  const filteredTerms = searchParams.category
+    ? allTerms.filter(term => term.category === searchParams.category)
+    : allTerms;
+  
   // Group terms by first letter
-  const termsByLetter = allTerms.reduce((acc, term) => {
+  const termsByLetter = filteredTerms.reduce((acc, term) => {
     const firstLetter = term.term[0].toUpperCase();
     if (!acc[firstLetter]) acc[firstLetter] = [];
     acc[firstLetter].push(term);
@@ -45,23 +54,41 @@ export default async function GlossaryPage() {
         <section className="border-b">
           <div className="container mx-auto px-4 py-12 md:py-20 max-w-7xl">
             <div className="max-w-3xl">
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
-                Web3 Glossary
-              </h1>
-              <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                Your complete guide to blockchain, cryptocurrency, and decentralized technology terminology. 
-                From basic concepts to advanced protocols, understand the language that powers Web3.
-              </p>
-              <div className="flex items-center gap-6 text-sm">
-                <div className="flex items-center gap-2">
-                  <BookOpen className="h-5 w-5 text-primary" />
-                  <span><strong>{stats.totalTerms}</strong> terms</span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <TrendingUp className="h-5 w-5 text-primary" />
-                  <span><strong>{stats.totalCategories}</strong> categories</span>
-                </div>
-              </div>
+              {searchParams.category ? (
+                <>
+                  <div className="mb-4">
+                    <Link href="/glossary" className="text-sm text-muted-foreground hover:text-primary">
+                      ← All Terms
+                    </Link>
+                  </div>
+                  <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
+                    {searchParams.category}
+                  </h1>
+                  <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
+                    Browse all {searchParams.category} terms in our Web3 glossary.
+                  </p>
+                </>
+              ) : (
+                <>
+                  <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight">
+                    Web3 Glossary
+                  </h1>
+                  <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
+                    Your complete guide to blockchain, cryptocurrency, and decentralized technology terminology. 
+                    From basic concepts to advanced protocols, understand the language that powers Web3.
+                  </p>
+                  <div className="flex items-center gap-6 text-sm">
+                    <div className="flex items-center gap-2">
+                      <BookOpen className="h-5 w-5 text-primary" />
+                      <span><strong>{stats.totalTerms}</strong> terms</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <TrendingUp className="h-5 w-5 text-primary" />
+                      <span><strong>{stats.totalCategories}</strong> categories</span>
+                    </div>
+                  </div>
+                </>
+              )}
             </div>
           </div>
         </section>
@@ -87,16 +114,17 @@ export default async function GlossaryPage() {
           </div>
         </section>
 
-        {/* Categories */}
-        <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
-          <div className="mb-8">
-            <h2 className="text-3xl font-bold mb-2">Browse by category</h2>
-            <p className="text-muted-foreground">Explore terms organized by Web3 sector</p>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {categories.filter(cat => cat.termCount && cat.termCount > 0).map((category) => (
-              <Link key={category.slug} href={`/${category.slug}`}>
-                <Card className="group hover:border-primary transition-all h-full">
+        {/* Categories - only show when not filtering */}
+        {!searchParams.category && (
+          <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
+            <div className="mb-8">
+              <h2 className="text-3xl font-bold mb-2">Browse by category</h2>
+              <p className="text-muted-foreground">Explore terms organized by Web3 sector</p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {categories.filter(cat => cat.termCount && cat.termCount > 0).map((category) => (
+                <Link key={category.slug} href={`/glossary?category=${encodeURIComponent(category.name)}`}>
+                  <Card className="group hover:border-primary transition-all h-full">
                   <CardHeader>
                     <CardTitle className="text-lg group-hover:text-primary transition-colors flex items-center justify-between">
                       {category.name}
@@ -111,12 +139,13 @@ export default async function GlossaryPage() {
             ))}
           </div>
         </section>
+        )}
 
         {/* All Terms Alphabetically */}
         <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl border-t">
           <div className="mb-8">
-            <h2 className="text-3xl font-bold mb-2">All terms</h2>
-            <p className="text-muted-foreground">Complete alphabetical listing</p>
+            <h2 className="text-3xl font-bold mb-2">{searchParams.category ? `${searchParams.category} Terms` : 'All terms'}</h2>
+            <p className="text-muted-foreground">{searchParams.category ? `${filteredTerms.length} terms in this category` : 'Complete alphabetical listing'}</p>
           </div>
           
           {availableLetters.map(letter => (
