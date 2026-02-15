@@ -105,3 +105,17 @@ export interface JobDescriptionData {
     qualifications: { value: string }[];
     preferredQualifications?: { value?: string }[];
 }
+
+export interface Company {
+  slug: string;
+  name: string;
+  website?: string;
+  description?: string;
+  founded?: string;
+  category?: string;
+  headquarters?: string;
+  about?: string;
+  jobCount: number;
+  jobs: Job[];
+  lastUpdated: string;
+}

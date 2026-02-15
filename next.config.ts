@@ -30,7 +30,7 @@ const nextConfig: NextConfig = {
       default-src 'self';
       script-src 'self' https://www.googletagmanager.com https://vercel.ai;
       style-src 'self' 'nonce-{nonce}';
-      img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos https://s.w.org;
+      img-src 'self' blob: data: https://images.unsplash.com https://picsum.photos https://fastly.picsum.photos https://i.picsum.photos https://s.w.org;
       font-src 'self' data:;
       object-src 'none';
       base-uri 'self';
@@ -76,6 +76,14 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'picsum.photos',
+      },
+      {
+        protocol: 'https',
+        hostname: 'fastly.picsum.photos',
+      },
+      {
+        protocol: 'https',
+        hostname: 'i.picsum.photos',
       },
       {
           protocol: 'https',
