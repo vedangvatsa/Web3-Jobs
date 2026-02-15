@@ -1353,11 +1353,13 @@ const FEEDS = [
   'https://politepaul.com/fd/oiXKHETnrDap.xml', // a16z
   'https://politepaul.com/fd/Ane01VX84MOk.xml', // Pantera
   'https://politepaul.com/fd/HI6pMDlyEO7j.xml',  // Avalanche
-  'https://politepaul.com/fd/uIQRejBOTRjO.xml',
-  'https://politepaul.com/fd/qglK0E9cQDYB.xml',
+  'https://politepaul.com/fd/uIQRejBOTRjO.xml', // Solana
+  'https://politepaul.com/fd/qglK0E9cQDYB.xml', // Hedera
   'https://politepaul.com/fd/UEGwYfx1fQ9R.xml',
-  'https://politepaul.com/fd/fEgzbFDDrmRe.xml',
-  'https://politepaul.com/fd/KTQjDJIFxvZY.xml'
+  'https://politepaul.com/fd/fEgzbFDDrmRe.xml', // Multicoin
+  'https://politepaul.com/fd/KTQjDJIFxvZY.xml', // Coinbase
+  'https://politepaul.com/fd/K6yCQ7sphvoC.xml', // Spartan
+  'https://politepaul.com/fd/UCDj2aIroL4G.xml'  // Binance
 ];
 
 const parser = new Parser();

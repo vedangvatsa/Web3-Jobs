@@ -8,29 +8,26 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-const articlesDirectory = path.join(process.cwd(), 'src/lib/articles');
+const contentArticlesDirectory = path.join(process.cwd(), 'content/articles');
 
-function removePlaceholderKeyTakeaways(content: string): string {
-  const sectionRegex = /(^|\n)## Key Takeaways[\s\S]*?(?=\n## |\n# |\n$)/g;
-  return content.replace(sectionRegex, (section) => {
-    return section.includes('{Key point') ? '\n' : section;
-  });
-}
+function readArticlesFromDirectory(directory: string): Omit<Article, 'content'>[] {
+  if (!fs.existsSync(directory)) {
+    return [];
+  }
 
-export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
-  const fileNames = fs.readdirSync(articlesDirectory);
-  const allArticlesData = fileNames
+  const fileNames = fs.readdirSync(directory);
+  return fileNames
     .map((fileName) => {
       if (!fileName.endsWith('.md')) {
         return null;
       }
       const slug = fileName.replace(/\.md$/, '');
-      
-      const fullPath = path.join(articlesDirectory, fileName);
+
+      const fullPath = path.join(directory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const matterResult = matter(fileContents);
 
-      if (typeof matterResult.data.title !== 'string' || 
+      if (typeof matterResult.data.title !== 'string' ||
           typeof matterResult.data.image !== 'string' ||
           typeof matterResult.data.description !== 'string' ||
           typeof matterResult.data.category !== 'string') {
@@ -44,13 +41,23 @@ export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
       };
     })
     .filter((article): article is Omit<Article, 'content'> => article !== null);
+}
 
-  return allArticlesData.sort((a, b) => a.title.localeCompare(b.title));
+function removePlaceholderKeyTakeaways(content: string): string {
+  const sectionRegex = /(^|\n)## Key Takeaways[\s\S]*?(?=\n## |\n# |\n$)/g;
+  return content.replace(sectionRegex, (section) => {
+    return section.includes('{Key point') ? '\n' : section;
+  });
+}
+
+export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
+  const contentArticles = readArticlesFromDirectory(contentArticlesDirectory);
+  return contentArticles.sort((a, b) => a.title.localeCompare(b.title));
 }
 
 export async function getArticle(slug: string): Promise<Article | undefined> {
-  const fullPath = path.join(articlesDirectory, `${slug}.md`);
-  
+  const fullPath = path.join(contentArticlesDirectory, `${slug}.md`);
+
   if (!fs.existsSync(fullPath)) {
     return undefined;
   }
