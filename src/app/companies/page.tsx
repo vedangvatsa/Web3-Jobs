@@ -115,8 +115,6 @@ export default async function CompaniesPage() {
           </div>
         </section>
 
-        </section>
-
         {/* Featured Companies with Rich Profiles */}
         {featuredCompanies.length > 0 && (
           <section className="container mx-auto px-4 py-12 md:py-16 max-w-7xl">
