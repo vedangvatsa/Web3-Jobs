@@ -1,0 +1,142 @@
+---
+term: "Smart Contract Wallet"
+slug: "smart-contract-wallet"
+category: "technical"
+difficulty: "Intermediate"
+image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+description: "A cryptocurrency wallet implemented as a smart contract rather than a traditional externally-owned account, enabling programmable features like transaction batching, automation, and custom security."
+relatedTerms: ["wallet", "account-abstraction", "smart-contract", "security"]
+synonyms: ["contract wallet", "programmable wallet", "AA wallet"]
+---
+
+**Smart contract wallets** are wallets implemented as smart contracts. Traditional wallet: single private key controls account. Smart contract wallet: smart contract holds assets, can execute custom logic. Example: Gnosis Safe is smart contract wallet. Can require multiple signatures, timelock transactions, delegate operations. Smart contract wallets enable advanced features: automation, delegation, recovery, custom security. Account abstraction enables more smart contract wallets. Understanding smart contract wallets important for advanced users.
+
+## Smart Contract Wallet Features
+
+Advanced capabilities:
+
+**Multi-Signature**: Require multiple signatures.
+
+**Timelock**: Delay between authorization and execution.
+
+**Delegation**: Delegate operations to other addresses.
+
+**Batching**: Execute multiple operations atomically.
+
+**Recovery**: Social recovery of lost keys.
+
+**Automation**: Automated execution based on conditions.
+
+Smart contract wallets enable advanced features.
+
+## Account Abstraction
+
+Enabling technology:
+
+**EIP-4337**: Ethereum improvement enabling account abstraction.
+
+**EntryPoint**: Specialized smart contract managing wallet interactions.
+
+**Bundlers**: Services bundling transactions.
+
+**Paymasters**: Services paying gas on behalf of users.
+
+Account abstraction enables smart contract wallets without protocol changes.
+
+## Gnosis Safe
+
+Popular implementation:
+
+**Multi-Sig**: Require multiple signatures.
+
+**Execution**: Transactions queued, executed after signatures.
+
+**Web Interface**: User-friendly web interface.
+
+**Governance**: Many protocols use Gnosis Safe for governance.
+
+Gnosis Safe is standard smart contract wallet.
+
+## Social Recovery
+
+Key feature:
+
+**Lost Key**: If lose private key, can recover wallet.
+
+**Guardians**: Designate guardians (trusted contacts).
+
+**Recovery**: Guardians attest to identity, transfer ownership.
+
+**Decentralized**: Recover without central service.
+
+Social recovery solves key loss problem.
+
+## Smart Contract Wallet Risks
+
+Challenges:
+
+**Complexity**: More complex = more bugs.
+
+**Higher Costs**: Smart contract execution costs gas.
+
+**Interdependency**: Depends on EntryPoint contract security.
+
+**Adoption**: Need infrastructure support (bundlers, RPC providers).
+
+Smart contract wallets add complexity and costs.
+
+## Programmable Security
+
+Advanced security:
+
+**Time-Based**: Transactions execute only after delay.
+
+**Rate Limiting**: Limit withdrawal amounts per day.
+
+**Whitelisting**: Only interact with whitelisted addresses.
+
+**Anomaly Detection**: Detect unusual activity, pause wallet.
+
+**Key Rotation**: Rotate keys periodically.
+
+Programmability enables advanced security.
+
+## Career Opportunities
+
+Smart contract wallets create roles:
+
+**Wallet Developers** building wallets earn $120,000-$300,000+.
+
+**Security Engineers** securing wallets earn $120,000-$300,000+.
+
+**UX Designers** designing wallet interfaces earn $100,000-$260,000+.
+
+**Infrastructure Engineers** supporting wallets earn $130,000-$320,000+.
+
+## Best Practices
+
+Using smart contract wallets:
+
+**Test**: Test with small amounts first.
+
+**Understand Risks**: Understand smart contract risks.
+
+**Backup Keys**: Backup keys if possible.
+
+**Recovery Setup**: Set up social recovery.
+
+## The Future of Smart Contract Wallets
+
+Evolution:
+
+**AA Adoption**: More AA adoption enabling wallets.
+
+**Better UX**: Improving user experience.
+
+**Advanced Features**: More programmable features.
+
+**Industry Standard**: Becoming industry standard.
+
+## Programmable Wallets Enable Advanced Features
+
+Smart contract wallets enable programmable features improving security and UX. If you're interested in wallet development, explore [wallet careers](/) at wallet teams. These roles focus on user-friendly, secure wallet infrastructure.

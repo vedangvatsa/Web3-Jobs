@@ -1,0 +1,169 @@
+---
+term: "Reentrancy"
+slug: "reentrancy"
+category: "security"
+difficulty: "Advanced"
+image: "https://images.unsplash.com/photo-1611974519553-bc61f192d934?w=1200&q=80"
+description: "A smart contract vulnerability where a function can be called recursively before internal state is updated, allowing attackers to drain funds through repeated calls."
+relatedTerms: ["smart-contract", "security", "exploit", "vulnerability"]
+synonyms: ["recursive call attack", "function reentrancy", "state attack"]
+---
+
+**Reentrancy** is smart contract vulnerability where function can call itself recursively before state updates. The DAO hack ($50M in 2016) exploited reentrancy. Attacker called withdraw(), function sends funds before updating balance, attacker's receive function calls withdraw() again, getting paid twice before any balance updated. This recursive calling drains contract. Reentrancy is subtle but devastating. Modern smart contracts use checks-effects-interactions pattern to prevent reentrancy. Reentrancy guards ensure functions can't be called recursively. Understanding reentrancy is critical for smart contract security.
+
+## Reentrancy Mechanics
+
+How attacks work:
+
+**1. Initial Call**: Attacker calls withdraw function. Contract checks balance (sufficient), then sends funds.
+
+**2. Before State Update**: Funds sent before balance is updated in contract storage.
+
+**3. Fallback Function**: Attacker's contract has fallback function triggered when receiving funds.
+
+**4. Recursive Call**: Fallback function calls withdraw again, triggering same function recursively.
+
+**5. Repeated**: Function executes again with outdated balance, pays attacker again.
+
+**6. State Finally Updates**: After all recursive calls, balance finally updated. But attacker drained multiple times.
+
+Recursive calls exploit delayed state updates.
+
+## The DAO Hack
+
+Historical example:
+
+**Setup**: DAO held $50M in ETH. Users could withdraw funds by calling withdraw() function.
+
+**Vulnerability**: Withdraw function sent funds BEFORE updating balance ledger.
+
+**Attack**: Attacker called withdraw(). Contract sent 1 ETH. Attacker's fallback function called withdraw() again. Got sent 1 ETH again. Repeated ~36 times.
+
+**Result**: Attacker drained 3.6M ETH ($50M) exploiting reentrancy.
+
+**Impact**: Hard fork required to recover funds. Spawned Ethereum Classic.
+
+The DAO hack was watershed moment for smart contract security.
+
+## Reentrancy Prevention
+
+How to prevent:
+
+**Checks-Effects-Interactions**: Pattern ensuring state updates before interactions.
+
+```solidity
+// BAD - Vulnerable to reentrancy
+function withdraw() {
+    uint amount = balances[msg.sender];
+    (bool success, ) = msg.sender.call{value: amount}("");
+    require(success);
+    balances[msg.sender] = 0; // Updated AFTER sending funds
+}
+
+// GOOD - Prevents reentrancy
+function withdraw() {
+    uint amount = balances[msg.sender];
+    balances[msg.sender] = 0; // Update BEFORE sending
+    (bool success, ) = msg.sender.call{value: amount}("");
+    require(success);
+}
+```
+
+State should update BEFORE sending funds.
+
+## Reentrancy Guards
+
+Automated prevention:
+
+**Mutex Pattern**: Lock prevents function re-entry while executing.
+
+```solidity
+bool locked = false;
+
+modifier nonReentrant() {
+    require(!locked);
+    locked = true;
+    _;
+    locked = false;
+}
+
+function withdraw() nonReentrant {
+    // Reentrancy protected
+}
+```
+
+OpenZeppelin provides ReentrancyGuard ensuring non-reentrant execution.
+
+## Reentrancy Types
+
+Different variations:
+
+**Single-Function Reentrancy**: Function calls itself. Most common.
+
+**Cross-Function Reentrancy**: Function A calls function B which calls function A. More subtle.
+
+**Cross-Contract Reentrancy**: Reentrancy across multiple contracts. Very subtle.
+
+**Read-Only Reentrancy**: Reading inconsistent state during reentrancy (different vulnerability).
+
+Modern guard patterns protect against most variants.
+
+## Recent Reentrancy Exploits
+
+Modern examples:
+
+**Pancakebunny** (May 2021): Reentrancy across multiple pools drained $45M.
+
+**Cream Finance** (August 2021): Cross-contract reentrancy via flash loans drained $29M.
+
+**bZx** (2020): Multiple reentrancy vulnerabilities in DeFi protocols.
+
+Even modern protocols vulnerable if not careful.
+
+## Career Opportunities
+
+Security creates roles:
+
+**Smart Contract Auditors** finding reentrancy vulnerabilities earn $120,000-$280,000+.
+
+**Security Researchers** studying exploit patterns earn $130,000-$320,000+.
+
+**Protocol Security Engineers** preventing exploits earn $120,000-$300,000+.
+
+**Formal Verification Engineers** proving contract safety earn $140,000-$340,000+.
+
+**Incident Response Teams** responding to exploits earn $110,000-$250,000+.
+
+## Best Practices
+
+Preventing reentrancy:
+
+**Use Checks-Effects-Interactions**: Always update state before interactions.
+
+**Use Reentrancy Guards**: Use OpenZeppelin's ReentrancyGuard.
+
+**Avoid Dangerous Patterns**: Don't use .call for payments if possible.
+
+**Audit Thoroughly**: Have contracts professionally audited.
+
+**Test Edge Cases**: Include reentrancy tests in test suite.
+
+**Stay Updated**: Follow security best practices as patterns evolve.
+
+## The Future of Security
+
+Security evolution:
+
+**Formal Verification**: Proving contract correctness mathematically.
+
+**Automated Auditing**: AI tools automatically finding vulnerabilities.
+
+**Safer Languages**: Languages (Rust-based) with built-in safety.
+
+**Staged Rollouts**: More protocols doing careful staged rollouts.
+
+**Bug Bounties**: Protocols offering bounties for vulnerability discovery.
+
+## Prevent Recursive Attacks
+
+Reentrancy is serious vulnerability but preventable with proper patterns. Understanding reentrancy is critical for smart contract developers. If you're interested in smart contract security, explore [security careers](/) at audit firms and protocol teams. These roles focus on keeping DeFi safe.
