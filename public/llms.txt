@@ -10,6 +10,16 @@ page: /jobs
 title: Top Web3 Jobs
 description: The best job board for Web3, crypto, and blockchain roles. The most popular place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
 ---
+page: /companies
+title: Web3 Companies Hiring
+description: Discover Web3 companies actively hiring across blockchain, DeFi, NFTs, and crypto. Explore company profiles, open positions, and industry insights.
+---
+page: /glossary
+title: Web3 Glossary - Complete Guide to Blockchain & Crypto Terms
+description: Comprehensive glossary of Web3, blockchain, cryptocurrency, DeFi, and NFT terminology. Learn the language of decentralized technology with detailed explanations of key concepts.
+core_terms: Blockchain, Bitcoin, Ethereum, Smart Contract, NFT, DeFi, DAO, Wallet, Gas Fee, Staking
+coverage: 10+ foundational terms with 1000-word detailed explanations covering blockchain fundamentals, cryptocurrencies, DeFi, NFTs, smart contracts, security, and technical concepts
+---
 page: /blog
 title: The Web3 Playbook
 description: The most comprehensive collection of in-depth articles and guides on Web3 careers, technology, and industry insights.
