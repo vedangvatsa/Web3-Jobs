@@ -123,7 +123,7 @@ export default async function GlossaryPage({
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {categories.filter(cat => cat.termCount && cat.termCount > 0).map((category) => (
-                <Link key={category.slug} href={`/glossary?category=${encodeURIComponent(category.name)}`}>
+                <Link key={category.slug} href={`/glossary/${category.slug}`}>
                   <Card className="group hover:border-primary transition-all h-full">
                   <CardHeader>
                     <CardTitle className="text-lg group-hover:text-primary transition-colors flex items-center justify-between">
