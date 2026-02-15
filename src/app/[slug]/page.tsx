@@ -171,7 +171,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <header className="mb-8">
                     <div className="flex items-center gap-2 mb-4">
                       <a href="/glossary" className="text-sm text-muted-foreground hover:text-primary">
-                        ← Back to Glossary
+                        ← Web3 Glossary
                       </a>
                     </div>
                     <h1 className="text-4xl md:text-5xl font-bold mb-4">
