@@ -115,6 +115,10 @@ export interface Company {
   category?: string;
   headquarters?: string;
   about?: string;
+  mission?: string;
+  culture?: string[];
+  benefits?: string[];
+  techStack?: string[];
   jobCount: number;
   jobs: Job[];
   lastUpdated: string;

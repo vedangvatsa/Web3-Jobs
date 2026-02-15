@@ -53,20 +53,42 @@ async function loadCompanyContent(slug: string): Promise<Partial<CompanyContent>
 }
 
 /**
+ * Normalize company name for matching
+ */
+function normalizeCompanyName(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/\s+inc\.?$/i, '')
+    .replace(/\s+ltd\.?$/i, '')
+    .replace(/\s+llc\.?$/i, '')
+    .replace(/\s+corp\.?$/i, '')
+    .replace(/\s+labs?$/i, '')
+    .replace(/[^a-z0-9]/g, '')
+    .trim();
+}
+
+/**
  * Extract unique companies from job listings
  */
 export async function getCompanies(): Promise<Company[]> {
   const jobs = await getJobs();
   
-  // Group jobs by company
+  // Group jobs by company with normalized matching
   const companyMap = new Map<string, Job[]>();
+  const nameMap = new Map<string, string>(); // normalized -> original name
   
   jobs.forEach(job => {
     const companyName = job.company.trim();
-    if (!companyMap.has(companyName)) {
+    const normalized = normalizeCompanyName(companyName);
+    
+    // Use the first occurrence as the canonical name
+    if (!nameMap.has(normalized)) {
+      nameMap.set(normalized, companyName);
       companyMap.set(companyName, []);
     }
-    companyMap.get(companyName)!.push(job);
+    
+    const canonicalName = nameMap.get(normalized)!;
+    companyMap.get(canonicalName)!.push(job);
   });
   
   // Create company objects
@@ -106,6 +128,10 @@ export async function getCompanies(): Promise<Company[]> {
           category: content.category,
           headquarters: content.headquarters,
           about: content.about,
+          mission: content.mission,
+          culture: content.culture,
+          benefits: content.benefits,
+          techStack: content.techStack,
         });
       }
     })
