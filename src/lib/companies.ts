@@ -1,0 +1,141 @@
+'use server';
+
+import type { Company, Job } from '@/types';
+import { getJobs } from './jobs';
+import fs from 'fs/promises';
+import path from 'path';
+import matter from 'gray-matter';
+
+/**
+ * Company content interface for markdown files
+ */
+interface CompanyContent {
+  name: string;
+  description?: string;
+  founded?: string;
+  category?: string;
+  headquarters?: string;
+  about?: string;
+  mission?: string;
+  culture?: string[];
+  benefits?: string[];
+  techStack?: string[];
+}
+
+/**
+ * Create a URL-safe slug from company name
+ */
+function createSlug(companyName: string): string {
+  return companyName
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+/**
+ * Load company content from markdown file if exists
+ */
+async function loadCompanyContent(slug: string): Promise<Partial<CompanyContent> | null> {
+  try {
+    const companiesDir = path.join(process.cwd(), 'content', 'companies');
+    const filePath = path.join(companiesDir, `${slug}.md`);
+    const fileContent = await fs.readFile(filePath, 'utf-8');
+    const { data, content } = matter(fileContent);
+    
+    return {
+      ...data,
+      about: content.trim(),
+    } as Partial<CompanyContent>;
+  } catch (error) {
+    // No content file exists, return null
+    return null;
+  }
+}
+
+/**
+ * Extract unique companies from job listings
+ */
+export async function getCompanies(): Promise<Company[]> {
+  const jobs = await getJobs();
+  
+  // Group jobs by company
+  const companyMap = new Map<string, Job[]>();
+  
+  jobs.forEach(job => {
+    const companyName = job.company.trim();
+    if (!companyMap.has(companyName)) {
+      companyMap.set(companyName, []);
+    }
+    companyMap.get(companyName)!.push(job);
+  });
+  
+  // Create company objects
+  const companies: Company[] = [];
+  
+  companyMap.forEach((companyJobs, companyName) => {
+    const slug = createSlug(companyName);
+    
+    // Extract website from job links (if available)
+    const firstJobLink = companyJobs[0]?.link || '';
+    let website = '';
+    try {
+      const url = new URL(firstJobLink);
+      website = `${url.protocol}//${url.hostname}`;
+    } catch (e) {
+      // Invalid URL, leave empty
+    }
+    
+    companies.push({
+      slug,
+      name: companyName,
+      website,
+      jobCount: companyJobs.length,
+      jobs: companyJobs,
+      lastUpdated: new Date().toISOString(),
+    });
+  });
+  
+  // Load enriched content for each company
+  await Promise.all(
+    companies.map(async (company) => {
+      const content = await loadCompanyContent(company.slug);
+      if (content) {
+        Object.assign(company, {
+          description: content.description,
+          founded: content.founded,
+          category: content.category,
+          headquarters: content.headquarters,
+          about: content.about,
+        });
+      }
+    })
+  );
+  
+  // Sort by job count (most jobs first)
+  companies.sort((a, b) => b.jobCount - a.jobCount);
+  
+  return companies;
+}
+
+/**
+ * Get a single company by slug
+ */
+export async function getCompanyBySlug(slug: string): Promise<Company | null> {
+  const companies = await getCompanies();
+  return companies.find(c => c.slug === slug) || null;
+}
+
+/**
+ * Get company statistics
+ */
+export async function getCompanyStats() {
+  const companies = await getCompanies();
+  const totalJobs = companies.reduce((sum, c) => sum + c.jobCount, 0);
+  
+  return {
+    totalCompanies: companies.length,
+    totalJobs,
+    averageJobsPerCompany: Math.round(totalJobs / companies.length),
+    topCompanies: companies.slice(0, 10),
+  };
+}
