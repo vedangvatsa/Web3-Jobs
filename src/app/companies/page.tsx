@@ -230,7 +230,7 @@ export default async function CompaniesPage() {
                 </Link>
               ))}
             </div>
-          </section>
+          </div>
         </section>
 
         {/* Industry Insights */}
