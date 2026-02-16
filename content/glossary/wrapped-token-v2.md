@@ -3,7 +3,7 @@ term: "Wrapped Token"
 slug: "wrapped-token-v2"
 category: "tokens"
 difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A representation of an asset from one blockchain on another blockchain, enabling assets to move between chains and participate in different ecosystems while maintaining value parity."
 relatedTerms: ["token", "bridge", "cross-chain", "defi"]
 synonyms: ["wrapped asset", "bridge token", "pegged token"]

@@ -3,7 +3,7 @@ term: "SNARK"
 slug: "snark"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "Succinct Non-Interactive Arguments of Knowledge - cryptographic proofs that are very small and fast to verify, used in blockchain scaling and privacy applications."
 relatedTerms: ["zero-knowledge-proof", "cryptography", "proof", "zk-rollup"]
 synonyms: ["SNARK proof", "succinct proof", "zero-knowledge argument"]

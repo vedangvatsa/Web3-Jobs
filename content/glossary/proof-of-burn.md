@@ -3,7 +3,7 @@ term: "Proof of Burn"
 slug: "proof-of-burn"
 category: "blockchain-fundamentals"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A consensus or verification mechanism where participants destroy cryptocurrency to prove their commitment and earn rewards or rights, eliminating the need for computational work."
 relatedTerms: ["consensus", "proof-of-work", "proof-of-stake", "blockchain"]
 synonyms: ["PoB", "burn mechanism", "token burning"]

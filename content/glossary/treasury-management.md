@@ -3,7 +3,7 @@ term: "Treasury Management"
 slug: "treasury-management"
 category: "governance"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1607863680198-23d4b4dc1fac?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&q=80"
 description: "Protocols managing their cryptocurrency reserves through governance, making strategic decisions on allocation, deployment, and reserves to ensure sustainability and growth."
 relatedTerms: ["dao", "governance", "protocol", "token"]
 synonyms: ["treasury operations", "reserves management", "protocol funds"]

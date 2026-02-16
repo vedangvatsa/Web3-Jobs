@@ -3,7 +3,7 @@ term: "Proto-Danksharding"
 slug: "proto-danksharding"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd58?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
 description: "An Ethereum upgrade (EIP-4844) that introduces blob-carrying transactions to reduce rollup data costs, serving as a stepping stone to full danksharding."
 relatedTerms: ["eip-4844", "data-availability", "rollup", "scaling"]
 synonyms: ["EIP-4844", "blob transactions", "proto-sharding"]

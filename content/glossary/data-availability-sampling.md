@@ -3,7 +3,7 @@ term: "Data Availability Sampling"
 slug: "data-availability-sampling"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd58?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
 description: "A technique where nodes randomly sample small pieces of block data to probabilistically verify that full data is available, enabling scalable block sizes without full data download."
 relatedTerms: ["data-availability", "rollup", "scaling", "celestia"]
 synonyms: ["DAS", "data sampling", "availability sampling"]

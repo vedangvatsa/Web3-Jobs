@@ -3,7 +3,7 @@ term: "Atomic Swap"
 slug: "atomic-swap"
 category: "defi"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A peer-to-peer exchange of cryptocurrencies across different blockchains without intermediaries, using smart contracts to ensure both parties complete transaction or both are refunded."
 relatedTerms: ["smart-contract", "cross-chain-bridge", "dex", "trading"]
 synonyms: ["cross-chain swap", "non-custodial swap", "hash time-locked contract"]

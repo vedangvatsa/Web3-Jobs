@@ -3,7 +3,7 @@ term: "Multi-Signature Wallet"
 slug: "multisig-wallet"
 category: "security"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 description: "A cryptocurrency wallet that requires multiple private keys from different parties to authorize transactions, distributing control and preventing single-point-of-failure security breaches."
 relatedTerms: ["wallet", "security", "private-key", "custody"]
 synonyms: ["multi-sig", "multisig", "M-of-N wallet"]

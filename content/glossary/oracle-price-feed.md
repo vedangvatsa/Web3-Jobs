@@ -3,7 +3,7 @@ term: Oracles and Price Feeds
 slug: oracle
 category: infrastructure
 difficulty: intermediate
-image: /images/glossary/oracle.png
+image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80
 description: Oracles are systems that bring real-world data onto blockchains, enabling smart contracts to access prices, weather, sports scores, and other external information. Blockchain oracles are critical infrastructure for DeFi, but also represent potential attack vectors if not properly designed.
 relatedTerms:
   - chainlink

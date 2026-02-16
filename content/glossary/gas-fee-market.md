@@ -3,7 +3,7 @@ term: "Gas Fee Market"
 slug: "gas-fee-market"
 category: "technical"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 description: "The dynamic marketplace where users bid for block space by offering gas fees, with prices fluctuating based on network demand and capacity."
 relatedTerms: ["gas", "ethereum", "fee", "blockspace"]
 synonyms: ["fee market", "blockspace market", "transaction fees"]

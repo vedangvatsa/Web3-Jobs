@@ -3,7 +3,7 @@ term: "Cross-Chain Bridge"
 slug: "cross-chain-bridge"
 category: "protocols"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A protocol enabling the transfer of tokens and data across different blockchains, creating interconnected multi-chain ecosystems while introducing new security assumptions."
 relatedTerms: ["bridge-protocol", "interoperability", "cross-chain", "defi"]
 synonyms: ["blockchain bridge", "cross-chain protocol", "bridge"]

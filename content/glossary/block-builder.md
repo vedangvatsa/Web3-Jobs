@@ -3,7 +3,7 @@ term: "Block Builder"
 slug: "block-builder"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 description: "A specialized entity that constructs optimized blocks by ordering and bundling transactions, bidding to have their blocks proposed by validators."
 relatedTerms: ["mev", "proposer-builder-separation", "sequencer", "flashbots"]
 synonyms: ["builder", "block constructor", "MEV builder"]

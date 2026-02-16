@@ -3,7 +3,7 @@ term: "Soulbound Token"
 slug: "soulbound-token"
 category: "nfts"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A non-transferable token bound to a wallet address representing credentials, achievements, or identity that cannot be sold or traded, creating permanent records of accomplishments."
 relatedTerms: ["nft", "token", "identity", "credential"]
 synonyms: ["SBT", "non-transferable token", "identity token"]

@@ -3,7 +3,7 @@ term: "Token Unlock"
 slug: "token-unlock"
 category: "governance"
 difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "The release of previously locked or vested tokens according to a predetermined schedule, often affecting token supply, circulating supply, and market price dynamics."
 relatedTerms: ["vesting", "tokenomics", "governance-token", "supply"]
 synonyms: ["token release", "vesting schedule", "token vesting"]

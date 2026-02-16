@@ -3,7 +3,7 @@ term: "Liquidity Mining"
 slug: "liquidity-mining"
 category: "defi"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "Incentive programs where protocols reward users for providing liquidity to trading pools or lending protocols, typically with governance tokens or yield farming rewards."
 relatedTerms: ["defi", "liquidity", "yield-farming", "airdrop"]
 synonyms: ["LP rewards", "liquidity rewards", "mining incentives"]
