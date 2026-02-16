@@ -3,7 +3,7 @@ term: Based Sequencing
 slug: based-sequencing
 category: technical
 difficulty: advanced
-image: https://images.unsplash.com/photo-1518050627814-398150ee5ba4?w=1200&q=80
+image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80
 description: Based sequencing is a rollup design where Layer 1 validators act as the sequencer, allowing Layer 2 transactions to be included directly in L1 blocks. This approach eliminates the need for a separate sequencer operator, reducing trust assumptions and improving decentralization.
 relatedTerms:
   - sequencer

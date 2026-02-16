@@ -3,7 +3,7 @@ term: "Smart Contract Wallet"
 slug: "smart-contract-wallet"
 category: "technical"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A cryptocurrency wallet implemented as a smart contract rather than a traditional externally-owned account, enabling programmable features like transaction batching, automation, and custom security."
 relatedTerms: ["wallet", "account-abstraction", "smart-contract", "security"]
 synonyms: ["contract wallet", "programmable wallet", "AA wallet"]

@@ -3,7 +3,7 @@ term: "Stealth Address"
 slug: "stealth-address"
 category: "privacy"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1550439062-7cdce89b4095?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A privacy mechanism where unique receiving addresses are created for each transaction, preventing observers from linking payments to a single wallet or identity."
 relatedTerms: ["privacy", "monero", "anonymity", "address"]
 synonyms: ["one-time address", "ephemeral address", "privacy address"]

@@ -3,7 +3,7 @@ term: "Vesting"
 slug: "vesting"
 category: "governance"
 difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1516535541601-141d04d944bf?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A schedule determining when tokens locked during initial distribution (ICO, seed funding, employee grants) become available to claim or transfer, preventing sudden market dumps."
 relatedTerms: ["token", "governance-token", "tokenomics", "lock-up"]
 synonyms: ["token release schedule", "lock-up period", "gradual release"]

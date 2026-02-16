@@ -3,7 +3,7 @@ term: ZK Rollup
 slug: zk-rollup
 category: technical
 difficulty: advanced
-image: https://images.unsplash.com/photo-1526374965328-7f5ae4e8b08e?w=1200&q=80
+image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80
 description: A ZK (Zero-Knowledge) rollup is a Layer 2 scaling solution that uses validity proofs (zero-knowledge proofs) to prove the correctness of off-chain computations to Ethereum L1. Unlike Optimistic rollups that assume validity, ZK rollups cryptographically prove every batch is correct, enabling faster finality without challenge periods.
 relatedTerms:
   - zero-knowledge-proof

@@ -3,7 +3,7 @@ term: "Merkle Tree"
 slug: "merkle-tree"
 category: "cryptography"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1550439062-7cdce89b4095?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A cryptographic data structure where data is organized in a binary tree of hashes, enabling efficient verification of data integrity and membership without examining all data."
 relatedTerms: ["cryptography", "proof", "hash", "blockchain"]
 synonyms: ["hash tree", "Merkle proof", "binary hash tree"]

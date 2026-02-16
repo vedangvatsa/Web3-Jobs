@@ -3,7 +3,7 @@ term: "Verkle Tree"
 slug: "verkle-tree"
 category: "cryptography"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1550439062-7cdce89b4095?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A cryptographic data structure using vector commitments to create much smaller proofs than Merkle trees, enabling efficient stateless clients."
 relatedTerms: ["merkle-tree", "stateless-client", "cryptography", "ethereum"]
 synonyms: ["vector commitment tree", "Verkle proof", "polynomial tree"]

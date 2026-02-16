@@ -3,7 +3,7 @@ term: "Smart Contract"
 slug: "smart-contract"
 category: "Smart Contracts"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1526374965328-7f5ae4e8b08e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 imageAlt: "Smart contract code on computer screen"
 description: "Self-executing programs stored on a blockchain that automatically enforce agreements when predetermined conditions are met, eliminating the need for intermediaries."
 relatedTerms: ["Ethereum", "Solidity", "Blockchain", "Gas Fee", "DApp"]

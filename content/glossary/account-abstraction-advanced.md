@@ -3,7 +3,7 @@ term: "Account Abstraction"
 slug: "account-abstraction-advanced"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A framework that allows smart contracts to act as user accounts with programmable features like multi-sig, recovery, and gas sponsorship without protocol changes."
 relatedTerms: ["smart-contract-wallet", "eip-4337", "wallet", "user-experience"]
 synonyms: ["AA", "account abstraction", "programmable accounts"]
