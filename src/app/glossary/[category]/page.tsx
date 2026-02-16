@@ -6,6 +6,7 @@ import { BookOpen } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import { generateCollectionPageSchema } from '@/lib/seo-utils';
 
 // Category descriptions
 const CATEGORY_CONTENT: Record<string, { description: string }> = {
@@ -58,18 +59,32 @@ export async function generateMetadata({ params }: { params: { category: string 
   const content = CATEGORY_CONTENT[params.category];
   const siteUrl = 'https://hashtagweb3.com';
   const categoryUrl = `${siteUrl}/glossary/${params.category}`;
+  const categoryDescription = content?.description || category.description;
 
   return {
-    title: `${category.name} Terms - Web3 Glossary | Hashtag Web3`,
-    description: content?.description || category.description,
+    title: `${category.name} - Web3 Glossary | Hashtag Web3`,
+    description: categoryDescription,
+    keywords: [
+      category.name.toLowerCase(),
+      'web3',
+      'glossary',
+      'blockchain',
+      'cryptocurrency',
+      'guide'
+    ],
     alternates: {
       canonical: categoryUrl,
     },
     openGraph: {
       title: `${category.name} - Web3 Glossary`,
-      description: content?.description || category.description,
+      description: categoryDescription,
       url: categoryUrl,
       type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${category.name} - Web3 Glossary`,
+      description: categoryDescription,
     },
   };
 }
@@ -83,6 +98,15 @@ export default async function CategoryPage({ params }: { params: { category: str
   }
 
   const content = CATEGORY_CONTENT[params.category];
+  
+  // Generate schema markup for the collection page
+  const collectionPageSchema = generateCollectionPageSchema(
+    category.name,
+    content?.description || category.description,
+    category.termCount,
+    terms,
+    params.category
+  );
 
   // Group terms by difficulty
   const beginnerTerms = terms.filter(t => t.difficulty === 'Beginner');
@@ -91,6 +115,10 @@ export default async function CategoryPage({ params }: { params: { category: str
 
   return (
     <div className="flex flex-col min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }}
+      />
       <Header />
       <main className="flex-grow">
         {/* Hero Section */}
