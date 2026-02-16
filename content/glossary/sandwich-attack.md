@@ -3,7 +3,7 @@ term: "Sandwich Attack"
 slug: "sandwich-attack"
 category: "security"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1550439062-7cdce89b4095?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80"
 description: "An MEV exploit where an attacker observes pending transactions and strategically places their own transactions before and after to profit from price movements."
 relatedTerms: ["mev", "front-running", "mempool", "security"]
 synonyms: ["frontrun-backrun", "MEV attack", "transaction ordering"]

@@ -3,7 +3,7 @@ term: "Impermanent Loss"
 slug: "impermanent-loss"
 category: "defi"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "The opportunity cost suffered by liquidity providers when the price of pooled assets diverges significantly, where holding assets separately would have been more profitable."
 relatedTerms: ["liquidity-pool", "amm", "yield-farming", "risk"]
 synonyms: ["divergence loss", "temporary loss", "IL"]

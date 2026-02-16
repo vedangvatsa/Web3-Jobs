@@ -3,7 +3,7 @@ term: "Zero-Coupon Bond"
 slug: "zero-coupon-bond"
 category: "defi"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A financial instrument that pays no interest during its term but is sold at a significant discount to its face value, with profit made on the difference (redemption yield)."
 relatedTerms: ["fixed-income", "defi", "bonds", "yield"]
 synonyms: ["zero-coupon", "deep-discount bond", "bullet bond"]

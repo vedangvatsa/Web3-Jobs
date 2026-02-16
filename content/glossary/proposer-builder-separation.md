@@ -3,7 +3,7 @@ term: "Proposer-Builder Separation"
 slug: "proposer-builder-separation"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 description: "A blockchain architecture that separates block proposing from block building to mitigate MEV, improve fairness, and enable specialized block builders."
 relatedTerms: ["mev", "sequencer", "validator", "block-production"]
 synonyms: ["PBS", "block builder separation", "builder-proposer split"]

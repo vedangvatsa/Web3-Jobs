@@ -3,7 +3,7 @@ term: "On-Chain Governance"
 slug: "on-chain-governance"
 category: "governance"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A governance model where protocol decisions are proposed, voted on, and executed directly by smart contracts on the blockchain, creating transparent and enforceable governance."
 relatedTerms: ["governance", "dao", "governance-token", "voting"]
 synonyms: ["protocol governance", "onchain voting", "smart contract governance"]

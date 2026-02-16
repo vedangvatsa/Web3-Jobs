@@ -3,7 +3,7 @@ term: Shared Sequencing
 slug: shared-sequencing
 category: technical
 difficulty: advanced
-image: /images/glossary/shared-sequencing.png
+image: https://images.unsplash.com/photo-1542744173-8e7e53415b87?w=1200&q=80
 description: Shared sequencing is an architectural pattern where multiple rollups use a common sequencer network to order transactions across chains. This enables atomic cross-rollup transactions, synchronous composability, and unified MEV markets while maintaining independent rollup state machines.
 relatedTerms:
   - sequencer

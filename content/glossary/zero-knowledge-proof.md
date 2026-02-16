@@ -3,7 +3,7 @@ term: "Zero-Knowledge Proof"
 slug: "zero-knowledge-proof"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A cryptographic proof enabling proving a statement is true without revealing the underlying data or knowledge, enabling privacy and compression in blockchain applications."
 relatedTerms: ["cryptography", "privacy", "zk-rollup", "proof"]
 synonyms: ["ZK proof", "zero-knowledge protocol", "cryptographic proof"]

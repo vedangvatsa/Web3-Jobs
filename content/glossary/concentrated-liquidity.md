@@ -3,7 +3,7 @@ term: Concentrated Liquidity
 slug: concentrated-liquidity
 category: defi
 difficulty: intermediate
-image: /images/glossary/concentrated-liquidity.png
+image: https://images.unsplash.com/photo-1642093154166-41b66565c96f?w=1200&q=80
 description: Concentrated liquidity is a capital efficiency innovation pioneered by Uniswap V3 that allows liquidity providers to allocate their capital to custom price ranges rather than across the entire price curve. This enables LPs to earn more fees with less capital while providing better execution for traders within active ranges.
 relatedTerms:
   - liquidity-provider

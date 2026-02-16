@@ -3,7 +3,7 @@ term: "Account Abstraction"
 slug: "account-abstraction"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1516534775068-bb57e39abc7e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
 description: "An architecture treating user accounts and smart contracts uniformly, enabling accounts to have arbitrary logic instead of requiring ECDSA signatures, supporting features like batched transactions and multi-sig natively."
 relatedTerms: ["smart-contract", "eoa", "wallet", "erc-4337"]
 synonyms: ["AA", "smart account", "programmable account"]

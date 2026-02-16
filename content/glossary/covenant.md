@@ -3,7 +3,7 @@ term: "Covenant"
 slug: "covenant"
 category: "blockchain-fundamentals"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1554224311-beee415c15c9?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1525819221954-87e1006cd64d?w=1200&q=80"
 description: "A smart contract or Bitcoin script that restricts how an output can be spent, enabling more complex spending conditions than traditional transactions."
 relatedTerms: ["smart-contract", "script", "bitcoin", "utxo"]
 synonyms: ["output constraint", "spending restriction", "conditional lock"]
