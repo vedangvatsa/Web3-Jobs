@@ -3,7 +3,7 @@ term: "Recursive Proof"
 slug: "recursive-proof"
 category: "cryptography"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1550439062-7cdce89b4095?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A cryptographic proof that can prove other proofs, enabling compression of large computations into single small proofs through iterative proof composition."
 relatedTerms: ["proof", "zero-knowledge-proof", "cryptography", "scaling"]
 synonyms: ["proof recursion", "iterated proofs", "proof composition"]

@@ -3,7 +3,7 @@ term: "Token Standard"
 slug: "token-standard"
 category: "technical"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A specification that defines how tokens are created, transferred, and managed on a blockchain, enabling interoperability and ensuring consistent behavior across applications."
 relatedTerms: ["erc-20", "erc-721", "smart-contract", "token"]
 synonyms: ["token specification", "token protocol", "token interface"]

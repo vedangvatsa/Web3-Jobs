@@ -3,7 +3,7 @@ term: "Smart Contract Audit"
 slug: "smart-contract-audit"
 category: "security"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1516321318423-f06f70991d9d?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A comprehensive security review of smart contract code by external experts to identify vulnerabilities, bugs, and risks before deploying to production."
 relatedTerms: ["security", "smart-contract", "vulnerability", "best-practices"]
 synonyms: ["code audit", "security audit", "contract review"]
