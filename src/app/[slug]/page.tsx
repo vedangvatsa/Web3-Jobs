@@ -11,6 +11,7 @@ import { ArticleContent } from '@/components/article-content';
 import { RelatedArticles } from '@/components/related-articles';
 import { Suspense } from 'react';
 import { cn } from '@/lib/utils';
+import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription } from '@/lib/seo-utils';
 
 type ArticlePageProps = {
   params: {
@@ -33,17 +34,18 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   if (term) {
     const siteUrl = 'https://hashtagweb3.com';
     const termUrl = `${siteUrl}/${term.slug}`;
+    const metaDescription = generateGlossaryMetaDescription(term);
     
     return {
       title: `${term.term} - Web3 Glossary | Hashtag Web3`,
-      description: term.description,
-      keywords: [term.term, ...term.synonyms || [], term.category, 'web3', 'crypto', 'blockchain'],
+      description: metaDescription,
+      keywords: [term.term, ...term.synonyms || [], term.category, 'web3', 'crypto', 'blockchain', 'glossary'],
       alternates: {
         canonical: termUrl,
       },
       openGraph: {
         title: `${term.term} - Web3 Glossary`,
-        description: term.description,
+        description: metaDescription,
         url: termUrl,
         images: term.image ? [{ url: term.image, alt: term.imageAlt || term.term }] : [],
         type: 'article',
@@ -51,7 +53,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       twitter: {
         card: 'summary_large_image',
         title: `${term.term} - Web3 Glossary`,
-        description: term.description,
+        description: metaDescription,
         images: term.image ? [term.image] : [],
       },
     };
@@ -115,17 +117,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       .map(relatedSlug => allTerms.find(t => t.slug === relatedSlug || t.term === relatedSlug))
       .filter(Boolean);
     
-    const definedTermSchema = {
-      '@type': 'DefinedTerm',
-      '@id': `${siteUrl}/${term.slug}`,
-      name: term.term,
-      description: term.description,
-      inDefinedTermSet: {
-        '@type': 'DefinedTermSet',
-        name: 'Web3 Glossary',
-        url: `${siteUrl}/glossary`,
-      },
-    };
+    // Add internal links to content for related terms
+    const enhancedContent = addInternalLinksToContent(term.content, term, allTerms);
+    
+    const definedTermSchema = generateDefinedTermSchema(term, siteUrl, relatedTermsData);
     
     const breadcrumbSchema: BreadcrumbList = {
       '@type': 'BreadcrumbList',
@@ -208,8 +203,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   )}
                   
                   <div 
-                    className="prose prose-lg dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-primary"
-                    dangerouslySetInnerHTML={{ __html: term.content }}
+                    className="prose prose-lg dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-primary prose-a:underline"
+                    dangerouslySetInnerHTML={{ __html: enhancedContent }}
                   />
                   
                   <GlossaryCTA termName={term.term} />
