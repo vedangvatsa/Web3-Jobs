@@ -3,7 +3,7 @@ term: "Wrapped Asset"
 slug: "wrapped-asset"
 category: "cryptocurrencies"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A token representing an asset from another blockchain, created when the original asset is locked by a bridge, enabling cross-chain utilization."
 relatedTerms: ["wrapped-token", "bridge", "cross-chain", "token"]
 synonyms: ["bridged asset", "synthetic asset", "cross-chain token"]

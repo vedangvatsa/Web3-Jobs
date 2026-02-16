@@ -3,7 +3,7 @@ term: "Soft Fork"
 slug: "soft-fork"
 category: "blockchain-fundamentals"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
 description: "A backward-compatible protocol upgrade that tightens rules, where new nodes enforce stricter standards while old nodes can still participate in the network."
 relatedTerms: ["hard-fork", "consensus", "upgrade", "protocol"]
 synonyms: ["backward-compatible fork", "rule tightening", "soft upgrade"]

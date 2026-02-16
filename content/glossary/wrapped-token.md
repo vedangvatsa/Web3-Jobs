@@ -3,7 +3,7 @@ term: "Wrapped Token"
 slug: "wrapped-token"
 category: "cryptocurrencies"
 difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A token representing an external asset (another cryptocurrency or asset) locked in a smart contract, enabling that asset to be used on different blockchains or within protocols."
 relatedTerms: ["token", "bridge", "cross-chain-bridge", "ethereum"]
 synonyms: ["synthetic token", "pegged token", "bridged token"]

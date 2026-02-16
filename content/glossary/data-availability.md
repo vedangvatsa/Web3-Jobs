@@ -3,7 +3,7 @@ term: "Data Availability"
 slug: "data-availability"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd58?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
 description: "The guarantee that blockchain data required to verify state transitions is publicly accessible, ensuring that anyone can validate blocks and preventing hidden data attacks."
 relatedTerms: ["rollup", "consensus", "data-availability-sampling", "scaling"]
 synonyms: ["DA", "data availability layer", "DA security"]

@@ -3,7 +3,7 @@ term: "Stateless Client"
 slug: "stateless-client"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd58?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
 description: "A blockchain client that can verify blocks without storing the entire blockchain state, using cryptographic witnesses to prove state validity."
 relatedTerms: ["verkle-tree", "merkle-tree", "scaling", "ethereum"]
 synonyms: ["witness-based client", "stateless verification", "zero-state client"]

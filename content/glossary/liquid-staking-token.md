@@ -3,7 +3,7 @@ term: "Liquid Staking Token"
 slug: "liquid-staking-token"
 category: "defi"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A token representing staked assets that can be traded or used in DeFi while the underlying assets remain staked and earning staking rewards."
 relatedTerms: ["staking", "validator", "restaking", "liquid-staking"]
 synonyms: ["LST", "staked token", "liquid staking asset"]

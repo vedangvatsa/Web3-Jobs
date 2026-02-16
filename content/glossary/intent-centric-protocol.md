@@ -3,7 +3,7 @@ term: Intent-Centric Protocol
 slug: intent-centric-protocol
 category: technical
 difficulty: advanced
-image: /images/glossary/intent-centric-protocol.png
+image: https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1200&q=80
 description: Intent-centric protocols are blockchain systems where users express desired outcomes (intents) rather than specifying exact transactions. Specialized solvers compete to fulfill intents optimally, abstracting complexity and enabling better execution, cross-chain coordination, and MEV protection.
 relatedTerms:
   - cross-chain

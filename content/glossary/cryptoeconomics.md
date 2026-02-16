@@ -3,7 +3,7 @@ term: "Cryptoeconomics"
 slug: "cryptoeconomics"
 category: "blockchain-fundamentals"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "The study of how cryptographic mechanisms combined with economic incentives create secure, decentralized systems where participants are rewarded for honest behavior."
 relatedTerms: ["economics", "incentives", "blockchain", "game-theory"]
 synonyms: ["token economics", "mechanism design", "incentive systems"]

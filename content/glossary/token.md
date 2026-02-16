@@ -3,7 +3,7 @@ term: "Token"
 slug: "token"
 category: "Cryptocurrencies"
 difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=1080"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 imageAlt: "Digital tokens and cryptocurrency concept"
 description: "A digital asset created on an existing blockchain that represents value, utility, ownership, or access rights within a decentralized application or ecosystem."
 relatedTerms: ["Smart Contract", "ERC-20", "Cryptocurrency", "NFT", "Governance Token"]

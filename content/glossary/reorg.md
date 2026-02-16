@@ -3,7 +3,7 @@ term: "Chain Reorganization"
 slug: "chain-reorganization"
 category: "blockchain-fundamentals"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd58?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
 description: "An event where a blockchain replaces a sequence of recent blocks with a different chain, altering transaction history and potentially reversing recent transactions."
 relatedTerms: ["finality", "consensus", "proof-of-work", "fork"]
 synonyms: ["reorg", "chain reorg", "block reorganization"]

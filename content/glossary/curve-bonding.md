@@ -3,7 +3,7 @@ term: "Curve Bonding"
 slug: "curve-bonding"
 category: "defi"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 description: "A DeFi mechanism where tokens are minted and burned along a mathematical curve, enabling continuous price discovery and automatic market making without liquidity pools."
 relatedTerms: ["bonding-curve", "amm", "token-pricing", "defi"]
 synonyms: ["bonding-curve", "automated token pricing", "curve pricing"]

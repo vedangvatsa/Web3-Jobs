@@ -3,7 +3,7 @@ term: "Wallet"
 slug: "wallet"
 category: "Security"
 difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1639762681097-408e52192e50?q=80&w=1080"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80"
 imageAlt: "Digital cryptocurrency wallet interface"
 description: "A software or hardware tool that stores cryptographic keys enabling users to send, receive, and manage cryptocurrency and interact with blockchain applications."
 relatedTerms: ["Private Key", "Seed Phrase", "MetaMask", "Cold Wallet", "Hot Wallet"]

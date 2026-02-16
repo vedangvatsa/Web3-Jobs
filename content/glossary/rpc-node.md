@@ -3,7 +3,7 @@ term: RPC Node
 slug: rpc-node
 category: technical
 difficulty: beginner
-image: /images/glossary/rpc-node.png
+image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80
 description: An RPC (Remote Procedure Call) node is infrastructure that provides an interface for applications to interact with a blockchain network. RPC nodes allow developers to query blockchain data, send transactions, and execute smart contracts without running their own full nodes.
 relatedTerms:
   - node
