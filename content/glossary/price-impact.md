@@ -3,7 +3,7 @@ term: "Price Impact"
 slug: "price-impact"
 category: "trading"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1516535541601-141d04d944bf?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "The percentage change in asset price resulting from a trade, where larger trades move price more than smaller trades due to limited liquidity."
 relatedTerms: ["slippage", "dex", "liquidity", "amm"]
 synonyms: ["price slippage", "market impact", "execution cost"]

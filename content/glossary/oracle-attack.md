@@ -3,7 +3,7 @@ term: "Oracle Attack"
 slug: "oracle-attack"
 category: "security"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1550439062-7cdce89b4095?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "An exploit targeting oracle vulnerabilities to manipulate price feeds or external data, enabling attackers to trigger liquidations or drain smart contracts."
 relatedTerms: ["oracle", "security", "price-feed", "vulnerability"]
 synonyms: ["oracle manipulation", "price feed attack", "data attack"]
