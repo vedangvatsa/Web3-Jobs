@@ -3,7 +3,7 @@ term: Data Availability Layer
 slug: data-availability-layer
 category: technical
 difficulty: advanced
-image: https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80
+image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
 description: A data availability (DA) layer is specialized blockchain infrastructure that stores and guarantees access to transaction data without executing transactions. DA layers enable rollups to post their transaction data cheaply while ensuring it remains available for verification, fraud proofs, and state reconstruction.
 relatedTerms:
   - rollup
