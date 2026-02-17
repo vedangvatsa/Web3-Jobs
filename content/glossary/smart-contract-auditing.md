@@ -3,7 +3,7 @@ term: Smart Contract Auditing
 slug: smart-contract-auditing
 category: security
 difficulty: intermediate
-image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: Smart contract auditing is the process of systematically analyzing code for security vulnerabilities, logic flaws, and inefficiencies before deployment to production. Audits are critical for DeFi protocols, bridges, and other high-value smart contracts, protecting billions in user funds.
 relatedTerms:
   - smart-contract

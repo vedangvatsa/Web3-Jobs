@@ -3,7 +3,7 @@ term: Just-in-Time Liquidity
 slug: just-in-time-liquidity
 category: defi
 difficulty: advanced
-image: https://images.unsplash.com/photo-1642093154166-41b66565c96f?w=1200&q=80
+image: "https://images.unsplash.com/photo-1642093154166-41b66565c96f?w=1200&q=80"
 description: Just-in-Time (JIT) liquidity is a sophisticated MEV strategy where liquidity providers add concentrated liquidity immediately before a large trade executes and remove it immediately after, capturing trading fees while minimizing impermanent loss exposure. This practice is controversial as it can harm passive LPs.
 relatedTerms:
   - concentrated-liquidity

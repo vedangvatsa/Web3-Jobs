@@ -3,7 +3,7 @@ term: Transaction Sequencer Network
 slug: transaction-sequencer-network
 category: technical
 difficulty: advanced
-image: https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&q=80
+image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&q=80"
 description: A transaction sequencer network is a decentralized system where multiple sequencers collectively order and batch rollup transactions through consensus, replacing single centralized sequencers. These networks aim to improve censorship resistance, liveness, and decentralization while maintaining low latency and high throughput.
 relatedTerms:
   - sequencer

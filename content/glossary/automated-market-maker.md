@@ -3,7 +3,7 @@ term: Automated Market Maker
 slug: automated-market-maker
 category: defi
 difficulty: beginner
-image: https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80
+image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80"
 description: An Automated Market Maker (AMM) is a smart contract that enables trading by maintaining liquidity pools rather than matching buyers and sellers. AMMs use mathematical formulas to determine prices automatically based on pool reserves, eliminating the need for order books and enabling decentralized exchanges.
 relatedTerms:
   - liquidity-pool
