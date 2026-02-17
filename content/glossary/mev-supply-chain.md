@@ -3,7 +3,7 @@ term: MEV Supply Chain
 slug: mev-supply-chain
 category: defi
 difficulty: advanced
-image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: The MEV supply chain describes the flow of Maximum Extractable Value from transaction originators through searchers, builders, and relays to validators/proposers. This multi-party system has evolved from simple MEV extraction to a complex market with specialized roles and infrastructure.
 relatedTerms:
   - mev

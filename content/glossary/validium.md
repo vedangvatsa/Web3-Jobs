@@ -3,7 +3,7 @@ term: Validium
 slug: validium
 category: technical
 difficulty: advanced
-image: https://images.unsplash.com/photo-1551033406-611cf9a28f67?w=1200&q=80
+image: "https://images.unsplash.com/photo-1551033406-611cf9a28f67?w=1200&q=80"
 description: A validium is a scaling solution similar to a ZK rollup that uses validity proofs to verify computation correctness, but posts transaction data off-chain to a data availability committee rather than to Ethereum L1. This provides higher throughput and lower costs at the expense of slightly weaker security assumptions.
 relatedTerms:
   - zk-rollup

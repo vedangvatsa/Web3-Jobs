@@ -3,7 +3,7 @@ term: Sovereign Rollup
 slug: sovereign-rollup
 category: technical
 difficulty: advanced
-image: https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=1200&q=80
+image: "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=1200&q=80"
 description: A sovereign rollup is a blockchain that uses another chain only for data availability and consensus, handling its own settlement and execution without relying on an L1 smart contract for validity. Sovereign rollups maintain complete control over their state, upgrades, and governance while leveraging shared DA infrastructure.
 relatedTerms:
   - rollup

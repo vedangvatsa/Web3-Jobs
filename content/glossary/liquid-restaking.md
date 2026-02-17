@@ -3,7 +3,7 @@ term: Liquid Restaking
 slug: liquid-restaking
 category: defi
 difficulty: intermediate
-image: https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80
+image: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200&q=80"
 description: Liquid restaking combines restaking with liquidity by issuing fungible tokens (Liquid Restaking Tokens or LRTs) that represent restaked positions. Users deposit staked assets into restaking protocols and receive tradable tokens, maintaining liquidity while earning staking, restaking, and DeFi yields simultaneously.
 relatedTerms:
   - restaking
