@@ -82,6 +82,7 @@ export default function ResourcesPage() {
                         <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
                           <GraduationCap className="h-10 w-10 text-primary" />
                         </div>
+                        <h1 className="sr-only">Free Web3 Career Tools</h1>
                         <TransitioningHeadline phrases={headlines} />
                          <p className="mt-4 text-muted-foreground">
                             A complete suite of free tools and resources for professionals and companies building in the decentralized economy.
