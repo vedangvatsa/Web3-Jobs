@@ -23,13 +23,7 @@ export async function getAllTerms(): Promise<GlossaryTerm[]> {
       mdFiles.map(async (filename) => {
         const filePath = path.join(glossaryDirectory, filename);
         const fileContent = await fs.readFile(filePath, 'utf-8');
-        const { data, content } = matter(fileContent);
-
-        // Process markdown to HTML
-        const processedContent = await remark()
-          .use(html, { sanitize: false })
-          .process(content);
-        const contentHtml = processedContent.toString();
+        const { data } = matter(fileContent);
 
         return {
           term: data.term || '',
@@ -39,7 +33,7 @@ export async function getAllTerms(): Promise<GlossaryTerm[]> {
           image: data.image,
           imageAlt: data.imageAlt,
           description: data.description || '',
-          content: contentHtml,
+          content: '', // Don't process content for list view
           relatedTerms: data.relatedTerms || [],
           synonyms: data.synonyms || [],
           publishedDate: new Date().toISOString(),

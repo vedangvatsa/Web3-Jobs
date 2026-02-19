@@ -8,6 +8,8 @@ import { JobCard } from './job-card';
 import { Loader2, Search } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 import { JobEmailCaptureDialog } from './job-email-capture-dialog';
+import { JobApplicationButton } from './tracking/job-application-button';
+import { SearchTracker } from './tracking/search-tracker';
 
 function JobCardSkeleton() {
     return (
@@ -42,6 +44,7 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
 
   return (
     <div>
+      <SearchTracker query={searchQuery} resultsCount={filteredJobs.length} />
       <div className="mb-8 max-w-6xl mx-auto">
         <div className="relative">
             <Input
@@ -68,9 +71,15 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
                             <JobCard job={job} />
                         </div>
                     ) : (
-                         <a key={job.id} href={job.link} target="_blank" rel="noopener noreferrer" className="block h-full transform transition-all duration-200 hover:-translate-y-1">
+                         <JobApplicationButton 
+                            key={job.id}
+                            jobId={job.id}
+                            jobTitle={job.title}
+                            companyName={job.company}
+                            jobUrl={job.link}
+                         >
                             <JobCard job={job} />
-                        </a>
+                         </JobApplicationButton>
                     )
                 ))}
             </div>

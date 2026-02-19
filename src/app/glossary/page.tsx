@@ -21,6 +21,9 @@ export const metadata: Metadata = {
 
 export const revalidate = 86400; // Revalidate daily
 
+// Force static generation for better performance
+export const dynamic = 'force-static';
+
 export default async function GlossaryPage({
   searchParams,
 }: {
