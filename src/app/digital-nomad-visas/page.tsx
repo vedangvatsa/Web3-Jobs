@@ -2,6 +2,8 @@
 'use client';
 
 import * as React from 'react';
+import { Suspense } from 'react';
+import { useSearchParams } from 'next/navigation';
 import { Header } from '@/components/header';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -85,7 +87,7 @@ const countryMap: Record<string, string> = {
     "AE": "UAE (Dubai)", "UY": "Uruguay", "VN": "Vietnam"
 };
 
-export default function DigitalNomadVisasPage() {
+function DigitalNomadVisasContent() {
     const [searchTerm, setSearchTerm] = React.useState('');
     const [selectedContinent, setSelectedContinent] = React.useState('All');
     
@@ -181,5 +183,13 @@ export default function DigitalNomadVisasPage() {
                 </div>
             </main>
         </div>
+    );
+}
+
+export default function DigitalNomadVisasPage() {
+    return (
+        <Suspense fallback={<div className="flex flex-col min-h-screen"><Header /><main className="flex-1"><div className="container mx-auto px-4 py-16 text-center">Loading...</div></main></div>}>
+            <DigitalNomadVisasContent />
+        </Suspense>
     );
 }
