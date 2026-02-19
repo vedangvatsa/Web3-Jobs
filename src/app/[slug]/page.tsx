@@ -12,6 +12,8 @@ import { RelatedArticles } from '@/components/related-articles';
 import { Suspense } from 'react';
 import { cn } from '@/lib/utils';
 import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription } from '@/lib/seo-utils';
+import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
+import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 
 type ArticlePageProps = {
   params: {
@@ -148,6 +150,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     
     return (
       <div className="flex flex-col min-h-screen bg-background">
+        <GlossaryViewTracker term={term.term} category={term.category} difficulty={term.difficulty} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(definedTermSchema) }}
@@ -336,6 +339,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   return (
     <div className="flex flex-col min-h-screen bg-background">
+      <ArticleViewTracker slug={article.slug} title={article.title} category={article.category} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
