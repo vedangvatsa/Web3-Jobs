@@ -28,11 +28,33 @@ export const metadata: Metadata = {
   },
 };
 
+const webAppSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: 'Web3 Salary Calculator',
+  description: 'Calculate estimated salaries for Web3 and cryptocurrency industry roles.',
+  url: 'https://hashtagweb3.com/salary-calculator',
+  applicationCategory: 'FinanceApplication',
+  operatingSystem: 'Any',
+  offers: {
+    '@type': 'Offer',
+    price: '0',
+    priceCurrency: 'USD',
+  },
+};
 
 export default function SalaryCalculatorLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  return <>{children}</>;
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(webAppSchema) }}
+      />
+      {children}
+    </>
+  );
 }
