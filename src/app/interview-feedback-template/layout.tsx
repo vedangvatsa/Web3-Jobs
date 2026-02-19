@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Interview Feedback Template | Free Tool for Hiring Managers',
-    description: 'Create structured interview feedback forms in seconds.',
+    description: 'Standardize your hiring process and reduce bias with structured interview feedback forms. Help your team make better, more objective candidate evaluation decisions.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };

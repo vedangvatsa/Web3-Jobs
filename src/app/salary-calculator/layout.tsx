@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Web3 Salary Calculator | Estimate Your Crypto Job Salary',
-    description: 'Estimate your potential salary in the crypto industry.',
+    description: 'Get data-driven salary estimates for Web3 roles including developers, marketers, and product managers. Calculate what you could earn based on your experience and location.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };

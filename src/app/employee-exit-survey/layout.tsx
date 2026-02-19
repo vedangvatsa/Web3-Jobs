@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Employee Exit Survey Tool | Free Template',
-    description: 'Create professional employee exit surveys in seconds.',
+    description: 'Generate professional exit surveys to gather valuable feedback from departing employees. Understand why team members leave and identify areas to improve retention and culture.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };
