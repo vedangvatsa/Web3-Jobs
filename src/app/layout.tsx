@@ -10,6 +10,7 @@ import Script from 'next/script';
 import type { WebSite, Organization } from 'schema-dts';
 import { FirebaseClientProvider } from '@/firebase/client-provider';
 import { TelegramPopupHandler } from '@/components/telegram-popup-handler';
+import { PostHogProvider, PostHogPageView } from '@/providers/posthog-provider';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -132,15 +133,18 @@ export default async function RootLayout({
       <body 
         className={cn('min-h-screen font-body antialiased flex flex-col bg-background/95')}
       >
-        <FirebaseClientProvider>
-          <div className="flex-grow">
-              {children}
-          </div>
-          <Toaster />
-          <TelegramPopupHandler />
-        </FirebaseClientProvider>
-        <Footer />
-        <Analytics />
+        <PostHogProvider>
+          <PostHogPageView />
+          <FirebaseClientProvider>
+            <div className="flex-grow">
+                {children}
+            </div>
+            <Toaster />
+            <TelegramPopupHandler />
+          </FirebaseClientProvider>
+          <Footer />
+          <Analytics />
+        </PostHogProvider>
       </body>
     </html>
   );
