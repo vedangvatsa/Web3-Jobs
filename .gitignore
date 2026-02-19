@@ -43,3 +43,30 @@ next-env.d.ts
 # firebase
 firebase-debug.log
 firestore-debug.log
+
+# environment variables & secrets
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+.env.test.local
+# .env.example is committed as a template - NOT ignored
+
+# IDE & OS
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# API keys & credentials
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
