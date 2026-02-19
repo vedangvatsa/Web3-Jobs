@@ -101,10 +101,11 @@ export const trackSearch = (query: string, location: string, resultsCount?: numb
   }
 }
 
-export const trackNewsletterSignup = (source: string) => {
+export const trackJobAlertSignup = (email: string, source: string) => {
   if (typeof window !== 'undefined' && posthog) {
-    posthog.capture('newsletter_signup', {
+    posthog.capture('job_alert_signup', {
       source,
+      email_domain: email.split('@')[1], // Only track domain for privacy
     })
   }
 }
