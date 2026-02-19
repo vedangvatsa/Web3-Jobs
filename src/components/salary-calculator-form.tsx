@@ -148,6 +148,7 @@ export function SalaryCalculatorForm() {
   return (
         <div className="container mx-auto px-4 py-8 md:py-16">
           <section className="text-center mb-12 max-w-4xl mx-auto">
+            <h1 className="sr-only">Web3 Salary Calculator</h1>
             <TransitioningHeadline phrases={headlines} />
           </section>
 
