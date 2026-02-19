@@ -70,6 +70,7 @@ export default async function JobsPage() {
           <div className="container mx-auto py-8 px-4">
               <section className="text-center mb-8">
                   <div className="max-w-6xl mx-auto">
+                      <h1 className="sr-only">Web3 Jobs - Find Your Next Crypto Career</h1>
                       <TransitioningHeadline phrases={headlines} />
                   </div>
               </section>

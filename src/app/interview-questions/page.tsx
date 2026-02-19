@@ -167,6 +167,7 @@ export default function InterviewQuestionBankPage() {
                 <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
                   <BookOpen className="h-10 w-10 text-primary" />
               </div>
+              <h1 className="sr-only">Web3 Interview Questions and Preparation Guide</h1>
               <TransitioningHeadline phrases={headlines} />
             </section>
 

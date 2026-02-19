@@ -38,6 +38,7 @@ export default async function PlaybookIndexPage() {
         <Header />
         <main className="flex-1">
           <div className="bg-background">
+            <h1 className="sr-only">Web3 Playbook - Career Guides and Tech Deep Dives</h1>
             <Suspense fallback={<div>Loading...</div>}>
               <BlogPageClient allArticles={allArticles} categories={categories} />
             </Suspense>
