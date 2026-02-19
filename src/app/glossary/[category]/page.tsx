@@ -103,9 +103,10 @@ export default async function CategoryPage({ params }: { params: { category: str
   const collectionPageSchema = generateCollectionPageSchema(
     category.name,
     content?.description || category.description,
-    category.termCount,
+    category.termCount ?? 0,
     terms,
-    params.category
+    params.category,
+    'https://hashtagweb3.com'
   );
 
   // Group terms by difficulty
