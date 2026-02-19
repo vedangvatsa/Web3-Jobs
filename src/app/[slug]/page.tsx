@@ -291,8 +291,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     headline: article.title,
     description: article.description,
     image: imageUrl,
-    datePublished: new Date().toISOString(),
-    dateModified: new Date().toISOString(),
     author: {
         '@type': 'Organization',
         name: 'Hashtag Web3',
