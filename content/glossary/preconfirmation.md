@@ -3,7 +3,7 @@ term: "Preconfirmation"
 slug: "preconfirmation"
 category: "technical"
 difficulty: "Advanced"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd58?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A commitment from validators or sequencers to include a transaction in an upcoming block, providing fast certainty before final confirmation."
 relatedTerms: ["sequencer", "mev", "rollup", "confirmation"]
 synonyms: ["preconf", "early commitment", "soft confirmation"]
