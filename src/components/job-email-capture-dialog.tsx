@@ -27,7 +27,7 @@ import { useFirestore } from '@/firebase';
 import { saveEmail } from '@/lib/db';
 import { Separator } from '@/components/ui/separator';
 import { useToast } from '@/hooks/use-toast';
-import { trackNewsletterSignup } from '@/lib/posthog';
+import { trackJobAlertSignup } from '@/lib/posthog';
 
 const emailSchema = z.object({
   email: z.string().email('Please enter a valid email address.'),
@@ -75,7 +75,7 @@ export function JobEmailCaptureDialog({
     
     try {
       await saveEmail(firestore, data.email);
-      trackNewsletterSignup(data.email, 'job_email_capture');
+      trackJobAlertSignup(data.email, 'job_application_page');
       toast({
           title: "Success!",
           description: "You're subscribed. We'll keep you updated on the latest jobs.",
