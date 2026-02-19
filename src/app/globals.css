@@ -78,3 +78,30 @@ body {
     background-attachment: fixed;
   }
 }
+
+/* Enhanced table styling for markdown content */
+@layer components {
+  .prose table {
+    @apply w-full border-collapse my-6;
+  }
+  
+  .prose thead {
+    @apply border-b-2 border-border;
+  }
+  
+  .prose th {
+    @apply px-4 py-3 text-left font-semibold bg-muted/50;
+  }
+  
+  .prose td {
+    @apply px-4 py-3 border-t border-border;
+  }
+  
+  .prose tbody tr {
+    @apply transition-colors hover:bg-muted/30;
+  }
+  
+  .prose tbody tr:nth-child(even) {
+    @apply bg-muted/10;
+  }
+}
