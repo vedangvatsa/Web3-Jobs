@@ -3,7 +3,7 @@ term: "Bridge Protocol"
 slug: "bridge-protocol"
 category: "technical"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1599321753519-a4b4f0cf3947?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A protocol enabling asset transfer between different blockchains through locking assets on one chain and minting equivalent wrapped assets on another chain."
 relatedTerms: ["cross-chain", "wrapped-token", "interoperability", "security"]
 synonyms: ["cross-chain bridge", "asset bridge", "chain bridge"]

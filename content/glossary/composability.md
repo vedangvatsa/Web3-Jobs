@@ -3,7 +3,7 @@ term: "Composability"
 slug: "composability"
 category: "technical"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1559056199-641a0ac8b3f4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "The ability of smart contracts and DeFi protocols to interact and combine seamlessly, enabling complex financial applications built from modular pieces."
 relatedTerms: ["defi", "smart-contract", "protocol", "lego"]
 synonyms: ["smart contract composability", "DeFi composability", "protocol layering"]

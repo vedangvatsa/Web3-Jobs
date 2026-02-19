@@ -3,7 +3,7 @@ term: "Token Burn"
 slug: "token-burn"
 category: "cryptocurrencies"
 difficulty: "Beginner"
-image: "https://images.unsplash.com/photo-1569163139394-de4798aa62b6?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "Permanent removal of cryptocurrency tokens from circulation by sending them to an inaccessible address, reducing token supply and potentially increasing remaining token value."
 relatedTerms: ["token", "supply", "deflationary", "economics"]
 synonyms: ["token destruction", "supply reduction", "deflationary mechanism"]
