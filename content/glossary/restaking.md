@@ -3,7 +3,7 @@ term: "Restaking"
 slug: "restaking"
 category: "defi"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1551537482-f2b14fc7432a?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "Staking the same cryptocurrency across multiple protocols or services, earning additional yields by securing additional networks without increasing capital, though introducing correlated slashing risks."
 relatedTerms: ["staking", "validator", "yield", "eigenlayer"]
 synonyms: ["dual staking", "multi-protocol staking", "yield staking"]

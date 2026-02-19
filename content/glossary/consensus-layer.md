@@ -3,7 +3,7 @@ term: "Consensus Layer"
 slug: "consensus-layer"
 category: "blockchain-fundamentals"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd58?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "The protocol and mechanism by which blockchain network participants agree on the current state and validity of transactions, the foundation of blockchain security."
 relatedTerms: ["proof-of-work", "proof-of-stake", "validation", "blockchain"]
 synonyms: ["agreement layer", "consensus mechanism", "validation network"]

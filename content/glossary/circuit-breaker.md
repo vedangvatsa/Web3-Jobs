@@ -3,7 +3,7 @@ term: "Circuit Breaker"
 slug: "circuit-breaker"
 category: "security"
 difficulty: "Intermediate"
-image: "https://images.unsplash.com/photo-1569163139394-de4798aa62b6?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80"
 description: "A security mechanism in smart contracts that temporarily stops operations when predefined risk thresholds are breached, preventing cascading failures during market stress."
 relatedTerms: ["smart-contract", "security", "governance", "risk"]
 synonyms: ["pause mechanism", "emergency stop", "risk limit"]
