@@ -8,6 +8,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import type { JobPosting, Organization, WithContext } from 'schema-dts';
+import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
 
 export const revalidate = 3600; // Revalidate every hour
 
@@ -114,6 +115,7 @@ export default async function CompanyPage({ params }: { params: { slug: string }
 
   return (
     <>
+      <CompanyViewTracker slug={company.slug} name={company.name} jobCount={company.jobCount} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
