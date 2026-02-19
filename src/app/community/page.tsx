@@ -16,6 +16,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/community',
   },
+  openGraph: {
+    title: 'Hashtag Web3 | A Global Web3 Community & Job Board',
+    description: 'Your hub for Web3 careers. Explore thousands of crypto jobs, get career advice, and connect with a global community of blockchain professionals.',
+    url: 'https://hashtagweb3.com/community',
+    images: [{
+      url: 'https://hashtagweb3.com/og-image.png',
+      width: 1200,
+      height: 630,
+      alt: 'Hashtag Web3 Community',
+    }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Hashtag Web3 | A Global Web3 Community & Job Board',
+    description: 'Join 60,000+ Web3 professionals. Access exclusive jobs, career guides, salary data, and connect with the global blockchain community.',
+    images: ['https://hashtagweb3.com/og-image.png'],
+  },
 };
 
 export default async function Page() {
