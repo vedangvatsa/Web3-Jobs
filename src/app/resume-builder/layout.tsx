@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Free Professional Resume Builder',
-    description: 'Craft a resume that gets noticed in the tech space.',
+    description: 'Craft a professional resume tailored for the modern job market. Highlight your unique skills and experience to stand out to recruiters and land your dream role.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };
