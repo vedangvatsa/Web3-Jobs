@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Employee 30-60-90 Day Plan | Free Milestones Tracker',
-    description: 'Create structured 30-60-90 day plans for your employees.',
+    description: 'Create structured 30-60-90 day plans for new hires. Track employee milestones, align on goals, and foster career progression with our free milestone tracking tool.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };

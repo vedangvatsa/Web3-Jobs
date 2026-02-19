@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Web3 Archetype Assessment | Find Your Crypto Career Path',
-    description: "What's your Web3 personality? Take our assessment to find out.",
+    description: "Discover your Web3 professional archetype with our free assessment. Find out which crypto career paths best match your skills, interests, and working style in the decentralized economy.",
     images: ['https://hashtagweb3.com/og-image.png'],
   },
 };

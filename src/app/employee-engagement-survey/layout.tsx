@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Employee Engagement Pulse Survey | Free Tool',
-    description: 'Create an effective employee engagement survey in seconds.',
+    description: 'Generate quick and effective employee engagement pulse surveys. Measure team morale, satisfaction, and identify areas for improvement to build a thriving company culture.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };
