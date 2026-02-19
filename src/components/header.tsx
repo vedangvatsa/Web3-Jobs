@@ -24,13 +24,13 @@ import {
 } from "@/components/ui/dropdown-menu"
 
 export function Header() {
-    const mainNavLinks = [
+    const mainNavLinks: Array<{ href: string; label: string; icon: any; target?: string }> = [
         { href: "/", label: "Jobs", icon: Briefcase },
         { href: "/news", label: "News", icon: Newspaper },
         { href: "/community", label: "Community", icon: Users },
     ];
 
-    const resourceLinks = [
+    const resourceLinks: Array<{ href: string; label: string; icon: any; target?: string }> = [
         { href: "/companies", label: "Companies", icon: Building2 },
         { href: "/blog", label: "Playbook", icon: BookOpen },
         { href: "/glossary", label: "Glossary", icon: Library },
