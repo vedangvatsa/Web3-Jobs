@@ -83,11 +83,23 @@ export default async function RootLayout({
     '@type': 'WebSite',
     name: siteConfig.name,
     url: siteConfig.url,
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: `${siteConfig.url}/blog?q={search_term_string}`,
-      'query-input': 'required name=search_term_string',
-    },
+    potentialAction: [
+      {
+        '@type': 'SearchAction',
+        target: `${siteConfig.url}/blog?q={search_term_string}`,
+        'query-input': 'required name=search_term_string',
+      },
+      {
+        '@type': 'SearchAction',
+        target: `${siteConfig.url}/jobs?q={search_term_string}`,
+        'query-input': 'required name=search_term_string',
+      },
+      {
+        '@type': 'SearchAction',
+        target: `${siteConfig.url}/glossary?search={search_term_string}`,
+        'query-input': 'required name=search_term_string',
+      },
+    ],
   };
 
   const organizationSchema: Organization = {
