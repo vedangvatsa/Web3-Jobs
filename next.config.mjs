@@ -7,7 +7,9 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  serverComponentsExternalPackages: ['isomorphic-dompurify'],
+  experimental: {
+    serverComponentsExternalPackages: ['isomorphic-dompurify'],
+  },
   images: {
     remotePatterns: [
       {
