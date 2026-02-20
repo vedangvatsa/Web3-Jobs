@@ -1,5 +1,13 @@
 [
   {
+    "id": "https://boards.greenhouse.io/hashgraph/jobs/8429814002?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "title": "DevOps Manager",
+    "company": "Hashgraph",
+    "link": "https://boards.greenhouse.io/hashgraph/jobs/8429814002?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "date": "2026-02-20T13:46:45.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
     "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/68231969-devops-manager#content",
     "title": "DevOps Manager",
     "company": "Hedera Hashgraph",
@@ -32,6 +40,14 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
+    "id": "https://jobs.solana.com/companies/phantom/jobs/68207387-software-engineer-frontend-full-stack-trading#content",
+    "title": "Software Engineer, Frontend/ Full Stack (Trading)",
+    "company": "Phantom",
+    "link": "https://jobs.solana.com/companies/phantom/jobs/68207387-software-engineer-frontend-full-stack-trading#content",
+    "date": "2026-02-20T10:18:54.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
     "id": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68205474-compliance-manager#content",
     "title": "Compliance Manager",
     "company": "Matrixport",
@@ -45,6 +61,14 @@
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/7640718?gh_jid=7640718",
     "date": "2026-02-20T10:01:10.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/f1925c2f-dc7a-4a3a-9895-327eba867dff?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Engineering Manager, Atlas",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/f1925c2f-dc7a-4a3a-9895-327eba867dff?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-02-20T09:46:10.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
@@ -68,24 +92,8 @@
     "title": "System Administrator",
     "company": "CoinSwitch Kuber",
     "link": "https://recruiterflow.com/coinswitch/jobs/632",
-    "date": "2026-02-20T09:27:18.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "https://jobs.lever.co/anchorage/f1925c2f-dc7a-4a3a-9895-327eba867dff?lever-source%5B%5D=jobs.a16z.com",
-    "title": "Engineering Manager, Atlas",
-    "company": "Anchorage",
-    "link": "https://jobs.lever.co/anchorage/f1925c2f-dc7a-4a3a-9895-327eba867dff?lever-source%5B%5D=jobs.a16z.com",
-    "date": "2026-02-20T09:12:18.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/phantom/e213be58-ba98-486d-93bc-a7716f33003e?utm_source=jobs.a16z.com",
-    "title": "Software Engineer, Frontend/ Full Stack (Trading)",
-    "company": "Phantom",
-    "link": "https://jobs.ashbyhq.com/phantom/e213be58-ba98-486d-93bc-a7716f33003e?utm_source=jobs.a16z.com",
-    "date": "2026-02-20T08:57:18.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+    "date": "2026-02-20T09:12:43.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "https://jobs.lever.co/anchorage/87b48e15-e589-4936-84e7-514c613deede?lever-source%5B%5D=jobs.a16z.com",
@@ -1669,14 +1677,6 @@
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65710146-data-scientist#content",
     "date": "2026-01-22T12:18:48.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/providence-2/jobs/65637061-gameplay-programmer-unreal-engine#content",
-    "title": "Gameplay Programmer (Unreal Engine)",
-    "company": "Providence",
-    "link": "https://jobs.avax.network/companies/providence-2/jobs/65637061-gameplay-programmer-unreal-engine#content",
-    "date": "2026-01-21T13:35:14.000Z",
     "source": "Jobs | Avalanche Job Board"
   }
 ]
