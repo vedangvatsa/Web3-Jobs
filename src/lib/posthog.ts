@@ -1,34 +1,32 @@
+'use client';
+
 import posthog from 'posthog-js'
 
 // Direct tracking functions (for use in client components)
-export const trackJobView = (job: {
-  id: string
-  title: string
-  company: string
-  location?: string
-  type?: string
-}) => {
+export const trackJobView = (
+  jobId: string,
+  jobTitle: string,
+  companyName: string
+) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.capture('job_viewed', {
-      job_id: job.id,
-      job_title: job.title,
-      company: job.company,
-      location: job.location,
-      employment_type: job.type,
+      job_id: jobId,
+      job_title: jobTitle,
+      company_name: companyName,
     })
   }
 }
 
-export const trackJobApplicationClick = (job: {
-  id: string
-  title: string
-  company: string
-}) => {
+export const trackJobApplicationClick = (
+  jobId: string,
+  jobTitle: string,
+  companyName: string
+) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.capture('job_application_clicked', {
-      job_id: job.id,
-      job_title: job.title,
-      company: job.company,
+      job_id: jobId,
+      job_title: jobTitle,
+      company_name: companyName,
     })
   }
 }
@@ -47,55 +45,53 @@ export const trackToolUsage = (
   }
 }
 
-export const trackGlossaryView = (term: {
-  name: string
-  category: string
+export const trackGlossaryView = (
+  term: string,
+  category: string,
   difficulty: string
-  slug: string
-}) => {
+) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.capture('glossary_term_viewed', {
-      term_name: term.name,
-      category: term.category,
-      difficulty: term.difficulty,
-      slug: term.slug,
+      term_name: term,
+      category: category,
+      difficulty: difficulty,
     })
   }
 }
 
-export const trackArticleView = (article: {
-  title: string
+export const trackArticleView = (
+  slug: string,
+  title: string,
   category: string
-  slug: string
-}) => {
+) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.capture('article_viewed', {
-      article_title: article.title,
-      category: article.category,
-      slug: article.slug,
+      article_slug: slug,
+      article_title: title,
+      category: category,
     })
   }
 }
 
-export const trackCompanyView = (company: {
-  name: string
-  slug: string
-  industry?: string
-}) => {
+export const trackCompanyView = (
+  slug: string,
+  name: string,
+  jobCount: number
+) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.capture('company_viewed', {
-      company_name: company.name,
-      company_slug: company.slug,
-      company_industry: company.industry,
+      company_slug: slug,
+      company_name: name,
+      job_count: jobCount,
     })
   }
 }
 
-export const trackSearch = (query: string, location: string, resultsCount?: number) => {
+export const trackSearch = (query: string, resultsCount: number) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.capture('search_performed', {
       search_query: query,
-      search_location: location,
+      search_location: 'job_board',
       results_count: resultsCount,
     })
   }
