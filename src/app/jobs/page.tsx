@@ -8,6 +8,7 @@ import { Rss } from 'lucide-react';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import type { WebPage, JobPosting } from 'schema-dts';
 
+export const dynamic = 'force-dynamic';
 export const revalidate = 0; // Revalidate on every request
 
 export default async function JobsPage() {

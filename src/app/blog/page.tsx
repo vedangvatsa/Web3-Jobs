@@ -1,9 +1,8 @@
 
 import { Header } from '@/components/header';
 import { getAllArticles } from '@/lib/articles';
-import { BlogPageClient } from '@/components/blog-page-client';
+import { BlogPageClientWrapper } from '@/components/blog-page-client-wrapper';
 import type { CollectionPage } from 'schema-dts';
-import { Suspense } from 'react';
 
 
 export default async function PlaybookIndexPage() {
@@ -39,9 +38,7 @@ export default async function PlaybookIndexPage() {
         <main className="flex-1">
           <div className="bg-background">
             <h1 className="sr-only">Web3 Playbook - Career Guides and Tech Deep Dives</h1>
-            <Suspense fallback={<div>Loading...</div>}>
-              <BlogPageClient allArticles={allArticles} categories={categories} />
-            </Suspense>
+            <BlogPageClientWrapper allArticles={allArticles} categories={categories} />
           </div>
         </main>
       </div>

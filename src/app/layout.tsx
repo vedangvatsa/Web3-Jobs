@@ -11,6 +11,7 @@ import type { WebSite, Organization } from 'schema-dts';
 import { FirebaseClientProvider } from '@/firebase/client-provider';
 import { TelegramPopupHandler } from '@/components/telegram-popup-handler';
 import { PostHogProvider, PostHogPageView } from '@/providers/posthog-provider';
+import { Suspense } from 'react';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -146,7 +147,9 @@ export default async function RootLayout({
         className={cn('min-h-screen font-body antialiased flex flex-col bg-background/95')}
       >
         <PostHogProvider>
-          <PostHogPageView />
+          <Suspense fallback={null}>
+            <PostHogPageView />
+          </Suspense>
           <FirebaseClientProvider>
             <div className="flex-grow">
                 {children}
