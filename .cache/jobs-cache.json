@@ -1,5 +1,109 @@
 [
   {
+    "id": "https://boards.greenhouse.io/hashgraph/jobs/8429814002?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "title": "DevOps Manager",
+    "company": "Hashgraph",
+    "link": "https://boards.greenhouse.io/hashgraph/jobs/8429814002?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
+    "date": "2026-02-20T13:46:45.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/68231969-devops-manager#content",
+    "title": "DevOps Manager",
+    "company": "Hedera Hashgraph",
+    "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/68231969-devops-manager#content",
+    "date": "2026-02-20T12:51:36.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/68224212-senior-director-workforce-management-and-global-service-operations#content",
+    "title": "Senior Director, Workforce Management and Global Service Operations",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/68224212-senior-director-workforce-management-and-global-service-operations#content",
+    "date": "2026-02-20T11:53:13.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=6922f09240f9b563&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Client Activation and Development Specialist",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=6922f09240f9b563&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-20T11:38:13.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=0494147c3eb8adba&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Business Analyst III",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=0494147c3eb8adba&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-20T11:08:13.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/phantom/jobs/68207387-software-engineer-frontend-full-stack-trading#content",
+    "title": "Software Engineer, Frontend/ Full Stack (Trading)",
+    "company": "Phantom",
+    "link": "https://jobs.solana.com/companies/phantom/jobs/68207387-software-engineer-frontend-full-stack-trading#content",
+    "date": "2026-02-20T10:18:54.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68205474-compliance-manager#content",
+    "title": "Compliance Manager",
+    "company": "Matrixport",
+    "link": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68205474-compliance-manager#content",
+    "date": "2026-02-20T10:03:41.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7640718?gh_jid=7640718",
+    "title": "Software Engineer, Backend - Platform (FinHub - Transfers)",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7640718?gh_jid=7640718",
+    "date": "2026-02-20T10:01:10.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/f1925c2f-dc7a-4a3a-9895-327eba867dff?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Engineering Manager, Atlas",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/f1925c2f-dc7a-4a3a-9895-327eba867dff?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-02-20T09:46:10.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Paradigm/67e0f11f-59e6-4015-849b-1bcc07398bed?utm_source=jobs.paradigm.xyz",
+    "title": "Software Engineer, Applied AI",
+    "company": "Paradigm",
+    "link": "https://jobs.ashbyhq.com/Paradigm/67e0f11f-59e6-4015-849b-1bcc07398bed?utm_source=jobs.paradigm.xyz",
+    "date": "2026-02-20T09:42:43.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/mystenlabs/90c41194-3f07-43c2-b424-971dabc8a91c?utm_source=jobs.a16z.com",
+    "title": "Sr. Growth Marketing Manager, Slush Wallet",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/90c41194-3f07-43c2-b424-971dabc8a91c?utm_source=jobs.a16z.com",
+    "date": "2026-02-20T09:42:18.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/632",
+    "title": "System Administrator",
+    "company": "CoinSwitch Kuber",
+    "link": "https://recruiterflow.com/coinswitch/jobs/632",
+    "date": "2026-02-20T09:12:43.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/87b48e15-e589-4936-84e7-514c613deede?lever-source%5B%5D=jobs.a16z.com",
+    "title": "Member of Technical Staff, Technical Program Management",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/87b48e15-e589-4936-84e7-514c613deede?lever-source%5B%5D=jobs.a16z.com",
+    "date": "2026-02-20T08:42:18.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
     "id": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/68179756-personal-assistant#content",
     "title": "Personal Assistant",
     "company": "1Inch",
@@ -1573,14 +1677,6 @@
     "company": "1Inch",
     "link": "https://jobs.avax.network/companies/1inch-2/jobs/65710146-data-scientist#content",
     "date": "2026-01-22T12:18:48.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/providence-2/jobs/65637061-gameplay-programmer-unreal-engine#content",
-    "title": "Gameplay Programmer (Unreal Engine)",
-    "company": "Providence",
-    "link": "https://jobs.avax.network/companies/providence-2/jobs/65637061-gameplay-programmer-unreal-engine#content",
-    "date": "2026-01-21T13:35:14.000Z",
     "source": "Jobs | Avalanche Job Board"
   }
 ]
