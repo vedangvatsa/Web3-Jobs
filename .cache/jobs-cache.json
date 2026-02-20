@@ -1,5 +1,301 @@
 [
   {
+    "id": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/68179756-personal-assistant#content",
+    "title": "Personal Assistant",
+    "company": "1Inch",
+    "link": "https://jobs.dragonfly.xyz/companies/1inch-2/jobs/68179756-personal-assistant#content",
+    "date": "2026-02-20T02:37:38.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/walletconnect-2/jobs/68176221-finance-lead#content",
+    "title": "Finance Lead",
+    "company": "WalletConnect",
+    "link": "https://coinbase.getro.com/companies/walletconnect-2/jobs/68176221-finance-lead#content",
+    "date": "2026-02-20T02:03:45.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7592075?gh_jid=7592075",
+    "title": "Staff Security Engineer, InfraSec",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7592075?gh_jid=7592075",
+    "date": "2026-02-20T00:41:00.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/mystenlabs/12f8eacb-55a1-4f81-8649-ba5afa7e9921?utm_source=jobs.a16z.com",
+    "title": "Sr. Product Marketing Manager, Slush Wallet",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/12f8eacb-55a1-4f81-8649-ba5afa7e9921?utm_source=jobs.a16z.com",
+    "date": "2026-02-20T00:30:08.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/fireblocks/jobs/4656035006",
+    "title": "Site Reliability Engineer",
+    "company": "Fireblocks",
+    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4656035006",
+    "date": "2026-02-20T00:30:06.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/0ff4a154-4f1e-4fa8-a824-b8c6ffd06b27?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Head of Infrastructures Services, Financial Infrastructure",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/0ff4a154-4f1e-4fa8-a824-b8c6ffd06b27?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-02-20T00:26:00.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/blackbird-labs-inc/4e96cb48-d6d5-4a61-ab62-904763da0c16?utm_source=jobs.a16z.com",
+    "title": "Revenue & Restaurant Ops Contractor",
+    "company": "Blackbird",
+    "link": "https://jobs.ashbyhq.com/blackbird-labs-inc/4e96cb48-d6d5-4a61-ab62-904763da0c16?utm_source=jobs.a16z.com",
+    "date": "2026-02-20T00:15:08.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/fireblocks/jobs/4655974006",
+    "title": "VP, Strategic Finance",
+    "company": "Fireblocks",
+    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4655974006",
+    "date": "2026-02-20T00:15:06.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ripio.com/jobs/7266833-otc-trader-semi-senior",
+    "title": "OTC Trader Semi Senior",
+    "company": "Ripio",
+    "link": "https://jobs.ripio.com/jobs/7266833-otc-trader-semi-senior",
+    "date": "2026-02-20T00:11:00.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/ondo-finance/jobs/68171184-technical-support-engineer#content",
+    "title": "Technical Support Engineer",
+    "company": "Ondo Finance",
+    "link": "https://jobs.solana.com/companies/ondo-finance/jobs/68171184-technical-support-engineer#content",
+    "date": "2026-02-20T00:07:16.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/oxio/jobs/68172062-sr-logistics-ops-program-manager#content",
+    "title": "Sr Logistics & Ops Program Manager",
+    "company": "OXIO",
+    "link": "https://jobs.multicoin.capital/companies/oxio/jobs/68172062-sr-logistics-ops-program-manager#content",
+    "date": "2026-02-20T00:07:16.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/chainalysis-careers/bb4e2bf4-8e2b-4db7-b4e5-8c495df0b235?utm_source=jobs.paradigm.xyz",
+    "title": "Staff Data Engineer, Enterprise Data Analytics",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/bb4e2bf4-8e2b-4db7-b4e5-8c495df0b235?utm_source=jobs.paradigm.xyz",
+    "date": "2026-02-20T00:00:06.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/brave/jobs/7637733",
+    "title": "VP of Sales - API",
+    "company": "Brave",
+    "link": "https://job-boards.greenhouse.io/brave/jobs/7637733",
+    "date": "2026-02-19T23:56:00.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/oxio/jobs/68172061-customer-success-manager#content",
+    "title": "Customer Success Manager",
+    "company": "OXIO",
+    "link": "https://jobs.multicoin.capital/companies/oxio/jobs/68172061-customer-success-manager#content",
+    "date": "2026-02-19T23:52:16.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Talos-Trading/f21e2f66-e7e7-4c2b-bcd1-25a8fe8ffcdf?utm_source=jobs.a16z.com",
+    "title": "Infrastructure Engineering Intern",
+    "company": "Talos",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/f21e2f66-e7e7-4c2b-bcd1-25a8fe8ffcdf?utm_source=jobs.a16z.com",
+    "date": "2026-02-19T23:45:08.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.lever.co/moonpay/59cf5aa6-6134-4b88-80d9-77ed3f73ee58?lever-source%5B%5D=jobs.paradigm.xyz",
+    "title": "Payment Operations Analyst",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/59cf5aa6-6134-4b88-80d9-77ed3f73ee58?lever-source%5B%5D=jobs.paradigm.xyz",
+    "date": "2026-02-19T23:45:06.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/m0dbathenextthingltd/jobs/4138811009",
+    "title": "Senior Product Manager, Enterprise Stablecoins",
+    "company": "M^0 Labs",
+    "link": "https://job-boards.greenhouse.io/m0dbathenextthingltd/jobs/4138811009",
+    "date": "2026-02-19T23:41:00.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/450c2e49-807b-4883-a535-193a0518da16?lever-source%5B%5D=jobs.a16z.com",
+    "title": "Member of Legal, Vendor Counsel",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/450c2e49-807b-4883-a535-193a0518da16?lever-source%5B%5D=jobs.a16z.com",
+    "date": "2026-02-19T23:30:08.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.lever.co/1inch/207abe3e-c57c-4f09-b8c6-3d55bf26de90?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Personal Assistant",
+    "company": "1inch Network",
+    "link": "https://jobs.lever.co/1inch/207abe3e-c57c-4f09-b8c6-3d55bf26de90?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-02-19T23:26:00.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/7a3e7cce-a01b-419a-a3f1-753466ae8bf3?lever-source%5B%5D=jobs.a16z.com",
+    "title": "Member of Compliance, Financial Crimes Compliance Data Analytics",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/7a3e7cce-a01b-419a-a3f1-753466ae8bf3?lever-source%5B%5D=jobs.a16z.com",
+    "date": "2026-02-19T23:15:08.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352",
+    "title": "Software Engineer, DevSec",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352",
+    "date": "2026-02-19T23:11:00.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/antimetal/jobs/68157856-sales-development-representative#content",
+    "title": "Sales Development Representative",
+    "company": "Antimetal",
+    "link": "https://jobs.arbitrum.io/companies/antimetal/jobs/68157856-sales-development-representative#content",
+    "date": "2026-02-19T19:10:41.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTUzNiwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "title": "Intern - B2B Growth and Partner Marketing",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTUzNiwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "date": "2026-02-19T18:39:35.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/limitbreak/af037b3c-fcf7-4e5a-b8e1-bb33a492b94d?lever-source%5B%5D=jobs.paradigm.xyz",
+    "title": "ゲームデザイナー（メカニクス）Game Designer (Mechanics) (Japan)",
+    "company": "Limit Break",
+    "link": "https://jobs.lever.co/limitbreak/af037b3c-fcf7-4e5a-b8e1-bb33a492b94d?lever-source%5B%5D=jobs.paradigm.xyz",
+    "date": "2026-02-19T15:31:20.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/68130804-agent-operations-territory-lead#content",
+    "title": "Agent Operations Territory Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/68130804-agent-operations-territory-lead#content",
+    "date": "2026-02-19T15:07:16.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/68130802-agent-liquidity-regional-lead#content",
+    "title": "Agent Liquidity Regional Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/68130802-agent-liquidity-regional-lead#content",
+    "date": "2026-02-19T14:52:16.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/yellow-card-2/jobs/68123302-treasury-analyst-remote-tanzania#content",
+    "title": "Treasury Analyst (Remote, Tanzania)",
+    "company": "Yellow Card",
+    "link": "https://coinbase.getro.com/companies/yellow-card-2/jobs/68123302-treasury-analyst-remote-tanzania#content",
+    "date": "2026-02-19T14:11:41.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/68118878-manager-software-engineering#content",
+    "title": "Manager, Software Engineering",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/68118878-manager-software-engineering#content",
+    "date": "2026-02-19T13:46:38.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/passes/jobs/68113487-support-operations-manager#content",
+    "title": "Support Operations Manager",
+    "company": "Passes",
+    "link": "https://jobs.multicoin.capital/companies/passes/jobs/68113487-support-operations-manager#content",
+    "date": "2026-02-19T13:26:07.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Investor-Relations-Senior-Manager_JR100886",
+    "title": "Investor Relations Senior Manager",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Investor-Relations-Senior-Manager_JR100886",
+    "date": "2026-02-19T12:39:55.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/68109918-member-of-product-marketing-trading#content",
+    "title": "Member of Product Marketing, Trading",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/68109918-member-of-product-marketing-trading#content",
+    "date": "2026-02-19T11:52:58.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/magiceden/a4b40c16-0f31-4bb2-b5d3-cb89290cb405?utm_source=jobs.paradigm.xyz",
+    "title": "Backend Engineer (Australia)",
+    "company": "Magic Eden",
+    "link": "https://jobs.ashbyhq.com/magiceden/a4b40c16-0f31-4bb2-b5d3-cb89290cb405?utm_source=jobs.paradigm.xyz",
+    "date": "2026-02-19T09:33:52.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/bitgo/jobs/8428587002",
+    "title": "Investor Relations Manager",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8428587002",
+    "date": "2026-02-19T09:33:51.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/magiceden/9f640da6-31d4-42c9-ab3a-5060c55ef6c0?utm_source=jobs.paradigm.xyz",
+    "title": "Frontend Engineer (Australia)",
+    "company": "Magic Eden",
+    "link": "https://jobs.ashbyhq.com/magiceden/9f640da6-31d4-42c9-ab3a-5060c55ef6c0?utm_source=jobs.paradigm.xyz",
+    "date": "2026-02-19T09:18:52.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Creative-Strategist_JR100887",
+    "title": "Creative Strategist",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Creative-Strategist_JR100887",
+    "date": "2026-02-19T09:18:51.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/fireblocks/jobs/4651736006",
+    "title": "Commercial / Partnerships Sales Director",
+    "company": "Fireblocks",
+    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4651736006",
+    "date": "2026-02-19T09:03:52.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Creative--Art-Direction_JR100889",
+    "title": "Principal Creative, Art Direction",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Creative--Art-Direction_JR100889",
+    "date": "2026-02-19T09:03:51.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
     "id": "https://algorandfoundation.bamboohr.com/careers/175",
     "title": "Business Development Lead – Onchain Capital Markets",
     "company": "Algorand",
@@ -1286,13 +1582,5 @@
     "link": "https://jobs.avax.network/companies/providence-2/jobs/65637061-gameplay-programmer-unreal-engine#content",
     "date": "2026-01-21T13:35:14.000Z",
     "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://algorandfoundation.bamboohr.com/careers/180",
-    "title": "Blockchain Developer",
-    "company": "Algorand",
-    "link": "https://algorandfoundation.bamboohr.com/careers/180",
-    "date": "2026-01-20T18:22:05.000Z",
-    "source": "Jobs at Shima Capital Companies | Shima Capital"
   }
 ]
