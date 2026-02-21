@@ -19,9 +19,9 @@
 ### 2. Add to .env.local
 ```bash
 RESEND_API_KEY=re_xxxxxxxxxxxxx
-EMAIL_FROM="Web3 Jobs <jobs@yourdomain.com>"
+EMAIL_FROM="Web3 Jobs <jobs@hashtagweb3.com>"
 CRON_SECRET=any-random-secret-string-here
-NEXT_PUBLIC_SITE_URL=https://web3jobs.so
+NEXT_PUBLIC_SITE_URL=https://hashtagweb3.com
 ```
 
 ### 3. Test It!

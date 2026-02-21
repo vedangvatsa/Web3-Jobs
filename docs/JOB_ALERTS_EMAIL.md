@@ -18,13 +18,13 @@ Add to your `.env.local`:
 RESEND_API_KEY=re_xxxxxxxxxxxxx
 
 # Email From Address (must be verified domain)
-EMAIL_FROM="Web3 Jobs <jobs@web3jobs.so>"
+EMAIL_FROM="Web3 Jobs <jobs@hashtagweb3.com>"
 
 # API Security
 CRON_SECRET=your-random-secret-token-here
 
 # Site URL
-NEXT_PUBLIC_SITE_URL=https://web3jobs.so
+NEXT_PUBLIC_SITE_URL=https://hashtagweb3.com
 ```
 
 ### 3. Test the System
@@ -135,7 +135,7 @@ Body:
       "company": "Uniswap Labs",
       "location": "Remote",
       "salary": "$150k - $250k",
-      "url": "https://web3jobs.so/jobs/123",
+      "url": "https://hashtagweb3.com/jobs/123",
       "tags": ["Solidity", "DeFi", "Smart Contracts"]
     }
   ],
