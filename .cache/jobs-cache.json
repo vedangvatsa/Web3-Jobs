@@ -1,11 +1,179 @@
 [
   {
+    "id": "https://job-boards.greenhouse.io/bitgo/jobs/8432024002",
+    "title": "Compliance Analyst, Transaction Monitoring",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8432024002",
+    "date": "2026-02-21T00:39:29.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/oxio/jobs/68310781-ap-ar-specialist#content",
+    "title": "AP/AR Specialist",
+    "company": "OXIO",
+    "link": "https://jobs.multicoin.capital/companies/oxio/jobs/68310781-ap-ar-specialist#content",
+    "date": "2026-02-21T00:39:25.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7622908?gh_jid=7622908",
+    "title": "VP, Corporate Development",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7622908?gh_jid=7622908",
+    "date": "2026-02-21T00:24:29.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://bitso.com/jobs/7566935003?gh_jid=7566935003",
+    "title": "Customer Support Supervisor",
+    "company": "Bitso",
+    "link": "https://bitso.com/jobs/7566935003?gh_jid=7566935003",
+    "date": "2026-02-21T00:09:29.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Community_JR100894-1",
+    "title": "VP, Global Community",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Community_JR100894-1",
+    "date": "2026-02-20T21:41:01.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/68300540-commercial-counsel#content",
+    "title": "Commercial Counsel",
+    "company": "Ashby",
+    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/68300540-commercial-counsel#content",
+    "date": "2026-02-20T19:29:40.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.morpho.org/o/founders-associate",
+    "title": "Founder's Associate",
+    "company": "Morpho Labs",
+    "link": "https://jobs.morpho.org/o/founders-associate",
+    "date": "2026-02-20T18:47:56.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/68286409-system-administrator#content",
+    "title": "System Administrator",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/68286409-system-administrator#content",
+    "date": "2026-02-20T17:38:45.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/67940247-ad-director-head-of-banking-alliances#content",
+    "title": "AD / Director - Head of Banking Alliances",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/67940247-ad-director-head-of-banking-alliances#content",
+    "date": "2026-02-20T17:03:59.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/szns-2/jobs/68280075-marketing-associate#content",
+    "title": "Marketing Associate",
+    "company": "SZNS",
+    "link": "https://jobs.dragonfly.xyz/companies/szns-2/jobs/68280075-marketing-associate#content",
+    "date": "2026-02-20T16:25:52.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/68272226-merchant-distribution-supervisor#content",
+    "title": "Merchant Distribution Supervisor",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/68272226-merchant-distribution-supervisor#content",
+    "date": "2026-02-20T15:56:47.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/68272224-head-of-operations#content",
+    "title": "Head of Operations",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/68272224-head-of-operations#content",
+    "date": "2026-02-20T15:41:47.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/blackbird-labs-2/jobs/68263155-revenue-restaurant-ops-contractor#content",
+    "title": "Revenue & Restaurant Ops Contractor",
+    "company": "Blackbird Labs",
+    "link": "https://jobs.multicoin.capital/companies/blackbird-labs-2/jobs/68263155-revenue-restaurant-ops-contractor#content",
+    "date": "2026-02-20T14:49:34.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/68263791-project-accoutant#content",
+    "title": "Project Accoutant",
+    "company": "Kast",
+    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/68263791-project-accoutant#content",
+    "date": "2026-02-20T14:39:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/trm-labs/jobs/68255693-events-marketing-specialist-contract#content",
+    "title": "Events Marketing Specialist (Contract)",
+    "company": "TRM Labs",
+    "link": "https://careers.hedera.community/companies/trm-labs/jobs/68255693-events-marketing-specialist-contract#content",
+    "date": "2026-02-20T14:26:44.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/68263790-account-executive#content",
+    "title": "Account Executive",
+    "company": "Kast",
+    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/68263790-account-executive#content",
+    "date": "2026-02-20T14:24:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260779-member-of-technical-staff-technical-program-management#content",
+    "title": "Member of Technical Staff, Technical Program Management",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260779-member-of-technical-staff-technical-program-management#content",
+    "date": "2026-02-20T14:09:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260778-member-of-legal-vendor-counsel#content",
+    "title": "Member of Legal, Vendor Counsel",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260778-member-of-legal-vendor-counsel#content",
+    "date": "2026-02-20T13:54:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
     "id": "https://boards.greenhouse.io/hashgraph/jobs/8429814002?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
     "title": "DevOps Manager",
     "company": "Hashgraph",
     "link": "https://boards.greenhouse.io/hashgraph/jobs/8429814002?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
     "date": "2026-02-20T13:46:45.000Z",
     "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260771-engineering-manager-atlas#content",
+    "title": "Engineering Manager, Atlas",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260771-engineering-manager-atlas#content",
+    "date": "2026-02-20T13:39:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260776-member-of-compliance-financial-crimes-compliance-data-analytics#content",
+    "title": "Member of Compliance, Financial Crimes Compliance Data Analytics",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260776-member-of-compliance-financial-crimes-compliance-data-analytics#content",
+    "date": "2026-02-20T13:24:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260772-head-of-infrastructures-services-financial-infrastructure#content",
+    "title": "Head of Infrastructures Services, Financial Infrastructure",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/68260772-head-of-infrastructures-services-financial-infrastructure#content",
+    "date": "2026-02-20T13:09:15.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
     "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/68231969-devops-manager#content",
@@ -86,6 +254,14 @@
     "link": "https://jobs.ashbyhq.com/mystenlabs/90c41194-3f07-43c2-b424-971dabc8a91c?utm_source=jobs.a16z.com",
     "date": "2026-02-20T09:42:18.000Z",
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Conduit/d1ab57d1-06e9-4004-a88a-290e47de6ca5?utm_source=jobs.paradigm.xyz",
+    "title": "Product Marketing Manager",
+    "company": "Conduit",
+    "link": "https://jobs.ashbyhq.com/Conduit/d1ab57d1-06e9-4004-a88a-290e47de6ca5?utm_source=jobs.paradigm.xyz",
+    "date": "2026-02-20T09:27:43.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "https://recruiterflow.com/coinswitch/jobs/632",
