@@ -15,9 +15,6 @@ import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryM
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 
-// Skip static generation for this page due to isomorphic-dompurify ESM module compatibility
-export const dynamic = 'force-dynamic';
-
 type ArticlePageProps = {
   params: {
     slug: string;
