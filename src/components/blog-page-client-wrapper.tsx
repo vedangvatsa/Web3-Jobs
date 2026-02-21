@@ -1,3 +1,5 @@
+'use client';
+
 import { Suspense } from 'react';
 import { BlogPageClient } from './blog-page-client';
 import type { Article } from '@/types';
