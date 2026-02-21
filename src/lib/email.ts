@@ -22,7 +22,7 @@ export async function sendJobAlertEmail(
     }
 
     const { data, error } = await resend.emails.send({
-      from: process.env.EMAIL_FROM || 'Web3 Jobs <jobs@web3jobs.so>',
+      from: process.env.EMAIL_FROM || 'onboarding@resend.dev',
       to,
       subject: `🚀 ${jobs.length} New Web3 Jobs Available`,
       html: generateJobAlertHTML(jobs),
@@ -110,7 +110,7 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
             ${jobsHTML}
             
             <div style="margin-top: 32px; padding-top: 24px; border-top: 1px solid #e5e7eb; text-align: center;">
-              <a href="${process.env.NEXT_PUBLIC_SITE_URL || 'https://web3jobs.so'}" 
+              <a href="${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}" 
                  style="display: inline-block; background: #2563eb; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 500;">
                 Browse All Jobs
               </a>
@@ -121,7 +121,7 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
                 You're receiving this because you subscribed to Web3 Jobs alerts.
               </p>
               <p style="margin: 8px 0;">
-                <a href="${process.env.NEXT_PUBLIC_SITE_URL || 'https://web3jobs.so'}/unsubscribe?email={{email}}" 
+                <a href="${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/unsubscribe?email={{email}}" 
                    style="color: #6b7280; text-decoration: underline;">
                   Unsubscribe
                 </a>
@@ -149,10 +149,10 @@ We found ${jobs.length} new jobs that match your interests:
 
 ${jobsText}
 
-Browse all jobs: ${process.env.NEXT_PUBLIC_SITE_URL || 'https://web3jobs.so'}
+Browse all jobs: ${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}
 
 ---
 You're receiving this because you subscribed to Web3 Jobs alerts.
-Unsubscribe: ${process.env.NEXT_PUBLIC_SITE_URL || 'https://web3jobs.so'}/unsubscribe
+Unsubscribe: ${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/unsubscribe
   `.trim();
 }

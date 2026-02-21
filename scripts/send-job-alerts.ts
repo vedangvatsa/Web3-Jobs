@@ -66,7 +66,7 @@ async function sendJobAlerts() {
         company: job.company?.name || 'Unknown Company',
         location: job.location || 'Remote',
         salary: job.salary,
-        url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://web3jobs.so'}/jobs/${job.id}`,
+        url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/jobs/${job.id}`,
         tags: job.tags?.slice(0, 5) || [],
       }));
 
