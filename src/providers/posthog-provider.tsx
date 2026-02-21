@@ -2,10 +2,12 @@
 
 import posthog from 'posthog-js'
 import { PostHogProvider as PHProvider } from 'posthog-js/react'
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { usePathname, useSearchParams } from 'next/navigation'
 
 export function PostHogProvider({ children }: { children: React.ReactNode }) {
+  const [client, setClient] = useState<typeof posthog | null>(null)
+
   useEffect(() => {
     if (typeof window !== 'undefined' && process.env.NEXT_PUBLIC_POSTHOG_KEY) {
       posthog.init(process.env.NEXT_PUBLIC_POSTHOG_KEY, {
@@ -18,10 +20,16 @@ export function PostHogProvider({ children }: { children: React.ReactNode }) {
           if (process.env.NODE_ENV === 'development') posthog.debug()
         }
       })
+      setClient(posthog)
     }
   }, [])
 
-  return <PHProvider client={posthog}>{children}</PHProvider>
+  // Only render provider if client is initialized
+  if (!client) {
+    return <>{children}</>
+  }
+
+  return <PHProvider client={client}>{children}</PHProvider>
 }
 
 // Page view tracking component
