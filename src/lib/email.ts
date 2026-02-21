@@ -32,7 +32,7 @@ export async function sendJobAlertEmail(
     const { data, error } = await client.emails.send({
       from: process.env.EMAIL_FROM || 'onboarding@resend.dev',
       to,
-      subject: `🚀 ${jobs.length} New Web3 Jobs Available`,
+      subject: `New Web3 Jobs - ${jobs.length} New Positions Available`,
       html: generateJobAlertHTML(jobs),
       text: generateJobAlertText(jobs),
     });
@@ -73,28 +73,13 @@ export async function sendBatchJobAlerts(
 
 function generateJobAlertHTML(jobs: JobListing[]): string {
   const jobsHTML = jobs.map(job => `
-    <div style="border: 1px solid #e5e7eb; border-radius: 8px; padding: 20px; margin-bottom: 16px; background: white;">
-      <h3 style="margin: 0 0 8px 0; color: #111827; font-size: 18px;">
-        <a href="${job.url}" style="color: #2563eb; text-decoration: none;">${job.title}</a>
-      </h3>
-      <div style="color: #6b7280; font-size: 14px; margin-bottom: 12px;">
-        <strong>${job.company}</strong> • ${job.location}
-        ${job.salary ? ` • ${job.salary}` : ''}
-      </div>
-      ${job.tags.length > 0 ? `
-        <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-          ${job.tags.map(tag => `
-            <span style="background: #eff6ff; color: #1e40af; padding: 4px 12px; border-radius: 12px; font-size: 12px;">
-              ${tag}
-            </span>
-          `).join('')}
-        </div>
-      ` : ''}
-      <div style="margin-top: 12px;">
-        <a href="${job.url}" style="color: #2563eb; text-decoration: none; font-size: 14px;">
-          View Job →
-        </a>
-      </div>
+    <div style="padding: 16px 0; border-bottom: 1px solid #e5e7eb;">
+      <p style="margin: 0; font-size: 16px; color: #111827;">
+        <strong>${job.title}</strong>
+      </p>
+      <p style="margin: 4px 0 0 0; font-size: 14px; color: #6b7280;">
+        ${job.company}
+      </p>
     </div>
   `).join('');
 
@@ -108,31 +93,22 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
       <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.5; color: #374151; background-color: #f9fafb; margin: 0; padding: 0;">
         <div style="max-width: 600px; margin: 0 auto; padding: 20px;">
           <div style="background: white; border-radius: 12px; padding: 32px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);">
-            <h1 style="margin: 0 0 8px 0; font-size: 24px; color: #111827;">
-              🚀 New Web3 Jobs for You
+            <h1 style="margin: 0 0 24px 0; font-size: 24px; color: #111827;">
+              New Web3 Jobs Available
             </h1>
-            <p style="margin: 0 0 24px 0; color: #6b7280; font-size: 14px;">
-              We found ${jobs.length} new jobs that match your interests
-            </p>
             
             ${jobsHTML}
             
-            <div style="margin-top: 32px; padding-top: 24px; border-top: 1px solid #e5e7eb; text-align: center;">
-              <a href="${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}" 
+            <div style="margin-top: 32px; text-align: center;">
+              <a href="https://hashtagweb3.com" 
                  style="display: inline-block; background: #2563eb; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 500;">
-                Browse All Jobs
+                View All Jobs
               </a>
             </div>
             
             <div style="margin-top: 24px; text-align: center; font-size: 12px; color: #9ca3af;">
               <p style="margin: 8px 0;">
-                You're receiving this because you subscribed to Web3 Jobs alerts.
-              </p>
-              <p style="margin: 8px 0;">
-                <a href="${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/unsubscribe?email={{email}}" 
-                   style="color: #6b7280; text-decoration: underline;">
-                  Unsubscribe
-                </a>
+                You're receiving this because you subscribed to Web3 job alerts.
               </p>
             </div>
           </div>
@@ -143,24 +119,18 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
 }
 
 function generateJobAlertText(jobs: JobListing[]): string {
-  const jobsText = jobs.map(job => `
-${job.title}
-${job.company} • ${job.location}${job.salary ? ` • ${job.salary}` : ''}
-Tags: ${job.tags.join(', ')}
-View: ${job.url}
-  `).join('\n---\n');
+  const jobsText = jobs.map(job => `${job.title} - ${job.company}`).join('\n');
 
   return `
-🚀 New Web3 Jobs for You
+New Web3 Jobs Available
 
-We found ${jobs.length} new jobs that match your interests:
+${jobs.length} new positions:
 
 ${jobsText}
 
-Browse all jobs: ${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}
+View all jobs at: https://hashtagweb3.com
 
 ---
-You're receiving this because you subscribed to Web3 Jobs alerts.
-Unsubscribe: ${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/unsubscribe
-  `.trim();
+You're receiving this because you subscribed to Web3 job alerts.
+  `;
 }
