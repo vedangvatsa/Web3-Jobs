@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://jobs.solana.com/companies/joyride-labs/jobs/68385875-head-of-growth#content",
+    "title": "Head of Growth",
+    "company": "Joyride Labs",
+    "link": "https://jobs.solana.com/companies/joyride-labs/jobs/68385875-head-of-growth#content",
+    "date": "2026-02-21T19:25:32.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/joyride-labs/jobs/68385841-founding-principal-engineer#content",
+    "title": "Founding Principal Engineer",
+    "company": "Joyride Labs",
+    "link": "https://jobs.solana.com/companies/joyride-labs/jobs/68385841-founding-principal-engineer#content",
+    "date": "2026-02-21T18:59:52.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/68368262-senior-merchant-underwriter#content",
+    "title": "Senior Merchant Underwriter",
+    "company": "Coinflow Labs",
+    "link": "https://jobs.solana.com/companies/coinflow-labs/jobs/68368262-senior-merchant-underwriter#content",
+    "date": "2026-02-21T14:46:56.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
     "id": "https://jobs.multicoin.capital/companies/sei-labs-2/jobs/68363444-chief-operating-officer#content",
     "title": "Chief Operating Officer",
     "company": "Sei Labs",
@@ -198,6 +222,14 @@
     "link": "https://jobs.morpho.org/o/founders-associate",
     "date": "2026-02-20T18:47:56.000Z",
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Compliance-Monitoring-and-Testing-Manager_JR100900",
+    "title": "Compliance Monitoring and Testing Manager",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Compliance-Monitoring-and-Testing-Manager_JR100900",
+    "date": "2026-02-20T18:38:25.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
     "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/68286409-system-administrator#content",
@@ -1974,21 +2006,5 @@
     "link": "https://careers.hedera.community/companies/trm-labs/jobs/65812242-compliance-advisor#content",
     "date": "2026-01-23T11:38:38.000Z",
     "source": "Jobs | Hedera Hashgraph Job Board"
-  },
-  {
-    "id": "https://algorandfoundation.bamboohr.com/careers/182",
-    "title": "Financial Accountant",
-    "company": "Algorand",
-    "link": "https://algorandfoundation.bamboohr.com/careers/182",
-    "date": "2026-01-22T18:32:43.000Z",
-    "source": "Jobs at Shima Capital Companies | Shima Capital"
-  },
-  {
-    "id": "https://algorandfoundation.bamboohr.com/careers/181",
-    "title": "Community Manager",
-    "company": "Algorand",
-    "link": "https://algorandfoundation.bamboohr.com/careers/181",
-    "date": "2026-01-22T18:17:43.000Z",
-    "source": "Jobs at Shima Capital Companies | Shima Capital"
   }
 ]
