@@ -1,6 +1,13 @@
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+let resend: Resend | null = null;
+
+function getResendClient(): Resend {
+  if (!resend) {
+    resend = new Resend(process.env.RESEND_API_KEY);
+  }
+  return resend;
+}
 
 export interface JobListing {
   title: string;
@@ -21,7 +28,8 @@ export async function sendJobAlertEmail(
       return { success: false, error: 'Email service not configured' };
     }
 
-    const { data, error } = await resend.emails.send({
+    const client = getResendClient();
+    const { data, error } = await client.emails.send({
       from: process.env.EMAIL_FROM || 'onboarding@resend.dev',
       to,
       subject: `🚀 ${jobs.length} New Web3 Jobs Available`,
