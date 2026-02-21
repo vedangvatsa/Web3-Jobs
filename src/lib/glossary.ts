@@ -55,31 +55,43 @@ export async function getAllTerms(): Promise<GlossaryTerm[]> {
  */
 export async function getTerm(slug: string): Promise<GlossaryTerm | null> {
   try {
-    const filePath = path.join(glossaryDirectory, `${slug}.md`);
-    const fileContent = await fs.readFile(filePath, 'utf-8');
-    const { data, content } = matter(fileContent);
+    const files = await fs.readdir(glossaryDirectory);
+    const mdFiles = files.filter(file => file.endsWith('.md'));
 
-    // Process markdown to HTML
-    const processedContent = await remark()
-      .use(html, { sanitize: false })
-      .process(content);
-    const contentHtml = processedContent.toString();
+    for (const filename of mdFiles) {
+      const filePath = path.join(glossaryDirectory, filename);
+      const fileContent = await fs.readFile(filePath, 'utf-8');
+      const { data, content } = matter(fileContent);
 
-    return {
-      term: data.term || '',
-      slug: data.slug || slug,
-      category: data.category || 'Other',
-      difficulty: data.difficulty || 'Beginner',
-      image: data.image,
-      imageAlt: data.imageAlt,
-      description: data.description || '',
-      content: contentHtml,
-      relatedTerms: data.relatedTerms || [],
-      synonyms: data.synonyms || [],
-      publishedDate: new Date().toISOString(),
-      updatedDate: data.updatedDate,
-    } as GlossaryTerm;
+      // Check if this file's slug matches the requested slug
+      const fileSlug = data.slug || filename.replace('.md', '');
+      if (fileSlug === slug) {
+        // Process markdown to HTML
+        const processedContent = await remark()
+          .use(html, { sanitize: false })
+          .process(content);
+        const contentHtml = processedContent.toString();
+
+        return {
+          term: data.term || '',
+          slug: data.slug || slug,
+          category: data.category || 'Other',
+          difficulty: data.difficulty || 'Beginner',
+          image: data.image,
+          imageAlt: data.imageAlt,
+          description: data.description || '',
+          content: contentHtml,
+          relatedTerms: data.relatedTerms || [],
+          synonyms: data.synonyms || [],
+          publishedDate: new Date().toISOString(),
+          updatedDate: data.updatedDate,
+        } as GlossaryTerm;
+      }
+    }
+
+    return null;
   } catch (error) {
+    console.error('Error reading term:', error);
     return null;
   }
 }
