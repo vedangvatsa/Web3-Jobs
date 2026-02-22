@@ -92,8 +92,15 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
       </head>
       <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.5; color: #374151; background-color: #f9fafb; margin: 0; padding: 0;">
         <div style="max-width: 600px; margin: 0 auto; padding: 20px;">
-          <div style="background: white; border-radius: 12px; padding: 32px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);">
-            <h1 style="margin: 0 0 24px 0; font-size: 24px; color: #111827;">
+          <!-- Header with Hashtag Web3 Branding -->
+          <div style="background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); border-radius: 12px 12px 0 0; padding: 24px; text-align: center; color: white;">
+            <div style="font-size: 24px; font-weight: bold; margin-bottom: 4px;">Hashtag Web3</div>
+            <div style="font-size: 14px; opacity: 0.9;">Job Alerts</div>
+          </div>
+          
+          <!-- Main Content -->
+          <div style="background: white; padding: 32px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);">
+            <h1 style="margin: 0 0 24px 0; font-size: 22px; color: #111827;">
               New Web3 Jobs Available
             </h1>
             
@@ -102,13 +109,16 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
             <div style="margin-top: 32px; text-align: center;">
               <a href="https://hashtagweb3.com" 
                  style="display: inline-block; background: #2563eb; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 500;">
-                View All Jobs
+                View All Jobs on Hashtag Web3
               </a>
             </div>
             
-            <div style="margin-top: 24px; text-align: center; font-size: 12px; color: #9ca3af;">
+            <div style="margin-top: 24px; text-align: center; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 16px;">
               <p style="margin: 8px 0;">
-                You're receiving this because you subscribed to Web3 job alerts.
+                Hashtag Web3 — Your source for Web3 jobs and education
+              </p>
+              <p style="margin: 8px 0; font-size: 11px;">
+                You're receiving this because you subscribed to job alerts from Hashtag Web3.
               </p>
             </div>
           </div>
@@ -122,15 +132,21 @@ function generateJobAlertText(jobs: JobListing[]): string {
   const jobsText = jobs.map(job => `${job.title} - ${job.company}`).join('\n');
 
   return `
+HASHTAG WEB3 - Job Alerts
+
 New Web3 Jobs Available
 
 ${jobs.length} new positions:
 
 ${jobsText}
 
+---
+
 View all jobs at: https://hashtagweb3.com
 
 ---
-You're receiving this because you subscribed to Web3 job alerts.
+Hashtag Web3 — Your source for Web3 jobs and education
+
+You're receiving this because you subscribed to job alerts from Hashtag Web3.
   `;
 }
