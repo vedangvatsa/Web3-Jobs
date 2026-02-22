@@ -28,7 +28,7 @@ jobs:
         run: npm ci
 
       - name: Send job alerts
-        run: npm run send-alerts -- --limit 15
+        run: npm run send-alerts -- --limit 10
         env:
           # Email service
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
