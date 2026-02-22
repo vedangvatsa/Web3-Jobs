@@ -24,8 +24,8 @@ async function sendTestEmail() {
     const allJobs = JSON.parse(fs.readFileSync(cacheFile, 'utf-8'));
     console.log(`📦 Loaded ${allJobs.length} jobs from cache`);
 
-    // Take first 5 jobs and format them
-    const jobs: JobListing[] = allJobs.slice(0, 5).map((job: any) => ({
+    // Take first 10 jobs and format them
+    const jobs: JobListing[] = allJobs.slice(0, 10).map((job: any) => ({
       title: job.title,
       company: job.company,
       location: 'Remote',
