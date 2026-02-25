@@ -25,7 +25,7 @@ export function TelegramPopup({ open, onOpenChange }: TelegramPopupProps) {
           </div>
           <DialogTitle className="text-center text-2xl font-bold">Never Miss an Opportunity</DialogTitle>
           <DialogDescription className="text-center text-base pt-2">
-            Join 60,000+ Web3 professionals on Telegram for instant job alerts.
+            Join our Telegram channel with over 60,000 subscribers to get instant alerts for the latest Web3 jobs.
           </DialogDescription>
         </DialogHeader>
         <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="w-full">
