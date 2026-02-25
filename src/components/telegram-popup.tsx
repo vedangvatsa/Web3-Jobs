@@ -7,7 +7,8 @@ import {
   DialogDescription,
   DialogTitle,
 } from '@/components/ui/dialog';
-import { ArrowRight, Send } from 'lucide-react';
+import { VisuallyHidden } from '@/components/ui/visually-hidden';
+import { Send } from 'lucide-react';
 
 interface TelegramPopupProps {
   open: boolean;
@@ -18,10 +19,14 @@ export function TelegramPopup({ open, onOpenChange }: TelegramPopupProps) {
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className="sm:max-w-md">
-        <DialogTitle className="sr-only">Telegram Channel Invitation</DialogTitle>
-        <DialogDescription className="sr-only">
-          Join our Telegram channel to get instant job alerts
-        </DialogDescription>
+        <VisuallyHidden asChild>
+          <DialogTitle>Telegram Channel Invitation</DialogTitle>
+        </VisuallyHidden>
+        <VisuallyHidden asChild>
+          <DialogDescription>
+            Join our Telegram channel to get instant job alerts
+          </DialogDescription>
+        </VisuallyHidden>
         <div className="flex flex-col items-center">
           <div className="mx-auto flex items-center justify-center h-16 w-16 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 mb-4 shadow-lg">
             <Send className="h-8 w-8 text-white" />
