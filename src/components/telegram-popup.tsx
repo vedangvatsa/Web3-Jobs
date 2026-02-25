@@ -25,7 +25,7 @@ export function TelegramPopup({ open, onOpenChange }: TelegramPopupProps) {
           </div>
           <DialogTitle className="text-center text-2xl font-bold">Never Miss an Opportunity</DialogTitle>
           <DialogDescription className="text-center text-base pt-2">
-            Join our Telegram channel with over 60,000 subscribers to get instant alerts for the latest Web3 jobs.
+            Join 60,000+ Web3 professionals on Telegram for instant job alerts.
           </DialogDescription>
         </DialogHeader>
         <div className="space-y-2 py-4">
@@ -35,7 +35,7 @@ export function TelegramPopup({ open, onOpenChange }: TelegramPopupProps) {
                 <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
               </svg>
             </div>
-            <span>60,000+ subscribers, real-time alerts</span>
+            <span>Get alerts for new Web3 jobs</span>
           </div>
         </div>
         <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="w-full">
