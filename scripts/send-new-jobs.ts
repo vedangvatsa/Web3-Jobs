@@ -67,10 +67,10 @@ async function sendNewJobAlerts() {
     // Filter jobs published in the last N days, sort by date, limit
     const newJobs = allJobs
       .filter((job: any) => {
-        const jobDate = new Date(job.publishedAt);
+        const jobDate = new Date(job.date);
         return jobDate >= thresholdDate;
       })
-      .sort((a: any, b: any) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+      .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .slice(0, jobLimit)
       .map((job: any) => ({
         title: job.title,
