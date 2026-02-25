@@ -28,13 +28,37 @@ export async function sendJobAlertEmail(
       return { success: false, error: 'Email service not configured' };
     }
 
+    const fromEmail = process.env.EMAIL_FROM || 'onboarding@resend.dev';
+    const fromName = process.env.EMAIL_FROM_NAME;
+    const replyTo = process.env.EMAIL_REPLY_TO;
+    const unsubscribeUrl = process.env.EMAIL_UNSUBSCRIBE_URL;
+    const listUnsubscribe = unsubscribeUrl ? `<${unsubscribeUrl}>` : undefined;
+
+    const hasDisplayName = fromEmail.includes('<') && fromEmail.includes('>');
+    const fromField = hasDisplayName
+      ? fromEmail
+      : (fromName ? `${fromName} <${fromEmail}>` : fromEmail);
+
+    if (fromEmail === 'onboarding@resend.dev') {
+      console.warn('EMAIL_FROM is using the default resend.dev sender; deliverability may be reduced.');
+    }
+
     const client = getResendClient();
     const { data, error } = await client.emails.send({
-      from: process.env.EMAIL_FROM || 'onboarding@resend.dev',
+      from: fromField,
       to,
+      ...(replyTo ? { reply_to: replyTo } : {}),
       subject: `New Web3 Jobs - ${jobs.length} New Positions Available`,
       html: generateJobAlertHTML(jobs),
       text: generateJobAlertText(jobs),
+      ...(listUnsubscribe
+        ? {
+            headers: {
+              'List-Unsubscribe': listUnsubscribe,
+              'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click',
+            },
+          }
+        : {}),
     });
 
     if (error) {
@@ -73,13 +97,13 @@ export async function sendBatchJobAlerts(
 
 function generateJobAlertHTML(jobs: JobListing[]): string {
   const jobsHTML = jobs.map(job => `
-    <div style="padding: 16px 0; border-bottom: 1px solid #e5e7eb;">
-      <p style="margin: 0; font-size: 16px; color: #111827;">
-        <strong>${job.title}</strong>
-      </p>
-      <p style="margin: 4px 0 0 0; font-size: 14px; color: #6b7280;">
-        ${job.company}
-      </p>
+    <div style="padding: 14px 0; border-bottom: 1px solid #e5e7eb;">
+      <a href="${job.url}" style="text-decoration: none; color: #111827; font-size: 16px; font-weight: 600;">
+        ${job.title}
+      </a>
+      <div style="margin-top: 4px; font-size: 13px; color: #6b7280;">
+        ${job.company} • ${job.location}${job.salary ? ` • ${job.salary}` : ''}
+      </div>
     </div>
   `).join('');
 
@@ -90,36 +114,39 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
       </head>
-      <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.5; color: #374151; background-color: #f9fafb; margin: 0; padding: 0;">
-        <div style="max-width: 600px; margin: 0 auto; padding: 20px;">
-          <!-- Header with Hashtag Web3 Branding -->
-          <div style="background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); border-radius: 12px 12px 0 0; padding: 24px; text-align: center; color: white;">
-            <div style="font-size: 24px; font-weight: bold; margin-bottom: 4px;">Hashtag Web3</div>
-            <div style="font-size: 14px; opacity: 0.9;">Job Alerts</div>
+      <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.5; color: #111827; background-color: #ffffff; margin: 0; padding: 0;">
+        <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent;">
+          Curated Web3 roles, handpicked for your next move.
+        </div>
+        <div style="max-width: 640px; margin: 0 auto; padding: 24px;">
+          <!-- Header -->
+          <div style="padding: 8px 0 18px 0; border-bottom: 2px solid #111827;">
+            <div style="font-size: 18px; font-weight: 700; letter-spacing: 0.2px;">Hashtag Web3</div>
+            <div style="font-size: 13px; color: #6b7280; margin-top: 4px;">Weekly Job Alerts</div>
           </div>
-          
-          <!-- Main Content -->
-          <div style="background: white; padding: 32px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);">
-            <h1 style="margin: 0 0 24px 0; font-size: 22px; color: #111827;">
-              New Web3 Jobs Available
-            </h1>
-            
+
+          <!-- Content -->
+          <div style="padding: 18px 0;">
+            <div style="font-size: 20px; font-weight: 700; margin-bottom: 6px;">${jobs.length} roles worth a look</div>
+            <div style="font-size: 13px; color: #6b7280; margin-bottom: 14px;">Handpicked from the latest listings on Hashtag Web3.</div>
+
             ${jobsHTML}
-            
-            <div style="margin-top: 32px; text-align: center;">
-              <a href="https://hashtagweb3.com" 
-                 style="display: inline-block; background: #2563eb; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 500;">
-                View All Jobs on Hashtag Web3
+
+            <div style="margin-top: 18px;">
+              <a href="https://hashtagweb3.com/jobs"
+                 style="display: inline-block; color: #111827; text-decoration: underline; font-weight: 600;">
+                Browse all jobs →
               </a>
             </div>
-            
-            <div style="margin-top: 24px; text-align: center; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 16px;">
-              <p style="margin: 8px 0;">
-                Hashtag Web3 — Your source for Web3 jobs and education
-              </p>
-              <p style="margin: 8px 0; font-size: 11px;">
-                You're receiving this because you subscribed to job alerts from Hashtag Web3.
-              </p>
+
+            <div style="margin-top: 18px; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 12px;">
+              <p style="margin: 6px 0;">You’re receiving this because you opted in to Hashtag Web3 job alerts.</p>
+              <p style="margin: 6px 0; font-size: 11px;">Prefer fewer emails? Reply with your preference and we’ll adjust.</p>
+              ${process.env.EMAIL_UNSUBSCRIBE_URL ? `
+                <p style="margin: 8px 0; font-size: 11px;">
+                  <a href="${process.env.EMAIL_UNSUBSCRIBE_URL}" style="color: #9ca3af; text-decoration: underline;">Unsubscribe</a>
+                </p>
+              ` : ''}
             </div>
           </div>
         </div>
@@ -129,12 +156,15 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
 }
 
 function generateJobAlertText(jobs: JobListing[]): string {
-  const jobsText = jobs.map(job => `${job.title} - ${job.company}`).join('\n');
+  const jobsText = jobs.map(job => {
+    const salary = job.salary ? ` | ${job.salary}` : '';
+    return `${job.title} - ${job.company} (${job.location}${salary})`;
+  }).join('\n');
 
   return `
-HASHTAG WEB3 - Job Alerts
+HASHTAG WEB3 JOB ALERTS
 
-New Web3 Jobs Available
+Fresh Web3 opportunities
 
 ${jobs.length} new positions:
 
@@ -142,11 +172,9 @@ ${jobsText}
 
 ---
 
-View all jobs at: https://hashtagweb3.com
+View all jobs at: https://hashtagweb3.com/jobs
 
 ---
-Hashtag Web3 — Your source for Web3 jobs and education
-
-You're receiving this because you subscribed to job alerts from Hashtag Web3.
+You’re receiving this because you opted in to Hashtag Web3 job alerts.
   `;
 }

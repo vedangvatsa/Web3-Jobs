@@ -4,6 +4,7 @@
 import { Header } from '@/components/header';
 import dynamic from 'next/dynamic';
 import { Skeleton } from '@/components/ui/skeleton';
+import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 
 const ResumeForm = dynamic(
   () => import('@/components/resume-form').then(m => ({ default: m.ResumeForm })),
@@ -23,6 +24,7 @@ export default function ResumeBuilderPage() {
     <div className="flex flex-col min-h-screen bg-gray-50 dark:bg-gray-900">
       <Header />
       <main className="flex-1">
+        <ToolUsageTracker toolName="Resume Builder" />
         <ResumeForm />
       </main>
     </div>
