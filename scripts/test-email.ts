@@ -9,34 +9,27 @@ import { sendJobAlertEmail, type JobListing } from '../src/lib/email';
 
 const recipientEmail = process.argv[2] || 'REMOVED_EMAIL';
 
-const sampleJobs: JobListing[] = [
-  {
-    title: 'Senior Solidity Engineer',
-    company: 'Uniswap Labs',
-    location: 'Remote',
-    salary: '$150k - $250k',
-    url: 'https://hashtagweb3.com/jobs/1',
-    tags: ['Solidity', 'DeFi', 'Smart Contracts', 'Ethereum'],
-  },
-  {
-    title: 'Protocol Engineer',
-    company: 'Aave',
-    location: 'Remote (US/EU)',
-    salary: '$180k - $300k',
-    url: 'https://hashtagweb3.com/jobs/2',
-    tags: ['Rust', 'Blockchain', 'DeFi', 'Protocol Design'],
-  },
-  {
-    title: 'Full Stack Web3 Developer',
-    company: 'OpenSea',
-    location: 'New York, NY',
-    salary: '$120k - $200k',
-    url: 'https://hashtagweb3.com/jobs/3',
-    tags: ['React', 'Node.js', 'Web3.js', 'NFT'],
-  },
-];
+async function getSampleJobs(): Promise<JobListing[]> {
+  const jobsCache = await import('../content/jobs-cache.json');
+  const allJobs = jobsCache.default || jobsCache;
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
+
+  return allJobs
+    .sort((a: any, b: any) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+    .slice(0, 10)
+    .map((job: any) => ({
+      title: job.title,
+      company: job.company?.name || 'Unknown Company',
+      location: job.location || 'Remote',
+      salary: job.salary,
+      url: `${siteUrl}/jobs/${job.id}`,
+      tags: job.tags?.slice(0, 5) || [],
+    }));
+}
 
 async function sendTestEmail() {
+  const sampleJobs = await getSampleJobs();
+
   console.log('📧 Test Email Sender');
   console.log(`To: ${recipientEmail}`);
   console.log(`Jobs: ${sampleJobs.length}`);

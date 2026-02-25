@@ -9,6 +9,7 @@ import { Loader2, Search } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 import { JobEmailCaptureDialog } from './job-email-capture-dialog';
 import { JobApplicationButton } from './tracking/job-application-button';
+import { JobViewTracker } from './tracking/job-view-tracker';
 import { SearchTracker } from './tracking/search-tracker';
 
 function JobCardSkeleton() {
@@ -66,21 +67,23 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
             
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {!isPending && filteredJobs.map((job) => (
-                    captureEmail ? (
+                      captureEmail ? (
                          <div key={job.id} onClick={() => setSelectedJob(job)} className="block h-full cursor-pointer transform transition-all duration-200 hover:-translate-y-1">
-                            <JobCard job={job} />
+                           <JobViewTracker job={job} />
+                           <JobCard job={job} />
                         </div>
-                    ) : (
+                      ) : (
                          <JobApplicationButton 
-                            key={job.id}
-                            jobId={job.id}
-                            jobTitle={job.title}
-                            companyName={job.company}
-                            jobUrl={job.link}
+                           key={job.id}
+                           jobId={job.id}
+                           jobTitle={job.title}
+                           companyName={job.company}
+                           jobUrl={job.link}
                          >
-                            <JobCard job={job} />
+                           <JobViewTracker job={job} />
+                           <JobCard job={job} />
                          </JobApplicationButton>
-                    )
+                      )
                 ))}
             </div>
 

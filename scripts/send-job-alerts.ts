@@ -34,6 +34,10 @@ async function sendJobAlerts() {
     process.exit(1);
   }
 
+  if (!process.env.EMAIL_FROM) {
+    console.warn('⚠️ EMAIL_FROM is not set. Using the default resend.dev sender may reduce deliverability.');
+  }
+
   try {
     // Initialize Firebase
     const app = initializeApp(firebaseConfig);

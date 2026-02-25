@@ -27,7 +27,8 @@ import { useFirestore } from '@/firebase';
 import { saveEmail } from '@/lib/db';
 import { Separator } from '@/components/ui/separator';
 import { useToast } from '@/hooks/use-toast';
-import { trackJobAlertSignup } from '@/lib/posthog';
+import { trackJobAlertSignup, trackOutboundClick } from '@/lib/posthog';
+import { OutboundLink } from '@/components/tracking/outbound-link';
 
 const emailSchema = z.object({
   email: z.string().email('Please enter a valid email address.'),
@@ -82,6 +83,7 @@ export function JobEmailCaptureDialog({
       });
 
       if (job?.link) {
+        trackOutboundClick(job.link, `${job.title} application`);
         window.open(job.link, '_blank');
       }
       onOpenChange(false);
@@ -140,11 +142,11 @@ export function JobEmailCaptureDialog({
             <p className="text-sm text-muted-foreground px-4">
                 Join 60,000+ subscribers on our Telegram channel for the latest job postings.
             </p>
-            <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="w-full inline-block px-4">
-                <Button variant="outline" className="w-full">
-                    <Send className="mr-2 h-4 w-4" /> Join Telegram Feed
-                </Button>
-            </a>
+            <OutboundLink href="https://t.me/web3hiring" label="Join Telegram Feed" className="w-full inline-block px-4">
+              <Button variant="outline" className="w-full">
+                <Send className="mr-2 h-4 w-4" /> Join Telegram Feed
+              </Button>
+            </OutboundLink>
         </div>
       </DialogContent>
     </Dialog>

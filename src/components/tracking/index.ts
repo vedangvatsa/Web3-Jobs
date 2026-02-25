@@ -6,3 +6,4 @@ export { CompanyViewTracker } from './company-view-tracker';
 export { SearchTracker } from './search-tracker';
 export { JobApplicationButton } from './job-application-button';
 export { OutboundLink } from './outbound-link';
+export { ToolUsageTracker } from './tool-usage-tracker';
