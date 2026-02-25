@@ -115,6 +115,20 @@ export const visaData: DigitalNomadVisa[] = [
         ]
     },
     {
+        country: 'Bhutan',
+        continent: 'Asia',
+        minIncome: 2800,
+        visaLength: '12 months, renewable up to 24',
+        description: 'Bhutan\'s Digital Nomad Visa through the Gelephu Mindfulness City (GMC) program offers a unique blend of ancient wisdom and modern connectivity in the Himalayas. This is an exclusive opportunity for remote professionals and entrepreneurs.',
+        requirements: [
+            'Professional, entrepreneur, or self-employed in GMC-aligned sectors.',
+            'Non-refundable program fee of $2,800 USD.',
+            'Minimum deposit of $10,000 in TER (gold-backed tokens) at DK Bank.',
+            'Income threshold and minimum stay requirements waived.',
+            '12-month visa, renewable up to 24 months total.'
+        ]
+    },
+    {
         country: 'Brazil',
         continent: 'South America',
         minIncome: 1500,
