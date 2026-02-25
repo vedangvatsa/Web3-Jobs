@@ -63,14 +63,20 @@ async function sendJobAlerts() {
     
     // Get latest jobs (sorted by date, limit to jobLimit)
     const latestJobs = allJobs
-      .sort((a: any, b: any) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-      .slice(0, jobLimit)
+      .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
+      .reduce((acc: any[], job: any) => {
+        if (acc.length >= jobLimit) return acc;
+        const company = job.company || 'Unknown Company';
+        if (acc.some((item: any) => item.company === company)) return acc;
+        acc.push(job);
+        return acc;
+      }, [])
       .map((job: any) => ({
         title: job.title,
-        company: job.company?.name || 'Unknown Company',
+        company: job.company || 'Unknown Company',
         location: job.location || 'Remote',
         salary: job.salary,
-        url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/jobs/${job.id}`,
+        url: process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com',
         tags: job.tags?.slice(0, 5) || [],
       }));
 
