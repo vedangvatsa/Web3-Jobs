@@ -27,12 +27,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Send job alerts
-        run: npm run send-alerts -- --limit 10
+      - name: Send new job alerts for the week
+        run: npm run send-new-jobs -- --days 7 --limit 15
         env:
           # Email service
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
           
           # Firebase configuration
           NEXT_PUBLIC_FIREBASE_API_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_API_KEY }}
