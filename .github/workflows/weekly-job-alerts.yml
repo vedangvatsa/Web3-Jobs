@@ -2,11 +2,9 @@ name: Send Weekly Job Alerts
 
 on:
   schedule:
-    # Every Tuesday at 9:00 AM UTC (adjust timezone as needed)
-    # Cron: minute hour day-of-month month day-of-week
-    # 0 9 * * 2 = 9:00 AM every Tuesday
+    # Every Tuesday at 9:00 AM UTC
     - cron: '0 9 * * 2'
-  workflow_dispatch: # Allows manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   send-weekly-alerts:
@@ -28,11 +26,12 @@ jobs:
         run: npm ci
 
       - name: Send job alerts
-        run: npm run send-alerts -- --limit 10
+        run: npm run send-new-jobs -- --days 7 --limit 15
         env:
           # Email service
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
           
           # Firebase configuration
           NEXT_PUBLIC_FIREBASE_API_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_API_KEY }}
@@ -44,11 +43,3 @@ jobs:
           
           # Site configuration
           NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com
-
-      - name: Log success
-        if: success()
-        run: echo "✅ Weekly job alerts sent successfully!"
-
-      - name: Log failure
-        if: failure()
-        run: echo "❌ Failed to send weekly job alerts"
