@@ -15,14 +15,20 @@ async function getSampleJobs(): Promise<JobListing[]> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
 
   return allJobs
-    .sort((a: any, b: any) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-    .slice(0, 10)
+    .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .reduce((acc: any[], job: any) => {
+      if (acc.length >= 10) return acc;
+      const company = job.company || 'Unknown Company';
+      if (acc.some((item: any) => item.company === company)) return acc;
+      acc.push(job);
+      return acc;
+    }, [])
     .map((job: any) => ({
       title: job.title,
-      company: job.company?.name || 'Unknown Company',
+      company: job.company || 'Unknown Company',
       location: job.location || 'Remote',
       salary: job.salary,
-      url: `${siteUrl}/jobs/${job.id}`,
+      url: siteUrl,
       tags: job.tags?.slice(0, 5) || [],
     }));
 }
