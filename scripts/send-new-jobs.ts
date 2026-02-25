@@ -10,9 +10,8 @@
  * 3. Sends emails to subscribers with new jobs
  */
 
-import { initializeApp } from 'firebase/app';
-import { getFirestore, collection, getDocs } from 'firebase/firestore';
-import { firebaseConfig } from '../src/firebase/config';
+import { collection, getDocs } from 'firebase/firestore';
+import { serverFirestore } from '../src/firebase/server-init';
 
 async function sendNewJobAlerts() {
   const args = process.argv.slice(2);
@@ -30,8 +29,8 @@ async function sendNewJobAlerts() {
   console.log(`Job limit: ${jobLimit}`);
   console.log('');
 
-  if (!firebaseConfig.apiKey) {
-    console.error('❌ Firebase config is missing');
+  if (!serverFirestore) {
+    console.error('❌ Firebase is not initialized. Please ensure your .env file is set up correctly.');
     process.exit(1);
   }
 
@@ -42,12 +41,9 @@ async function sendNewJobAlerts() {
   }
 
   try {
-    // Initialize Firebase
-    const app = initializeApp(firebaseConfig);
-    const db = getFirestore(app);
-
     // Fetch subscribers
     console.log('📥 Fetching subscribers...');
+    const db = serverFirestore;
     const subscribersCol = collection(db, 'subscribers');
     const snapshot = await getDocs(subscribersCol);
 

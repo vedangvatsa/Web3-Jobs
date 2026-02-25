@@ -1,5 +1,269 @@
 [
   {
+    "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/68584437-research-scientist-engineer#content",
+    "title": "Research Scientist/Engineer",
+    "company": "Arbitrum",
+    "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/68584437-research-scientist-engineer#content",
+    "date": "2026-02-25T09:31:23.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/workable/jobs/68563858-expansion-account-executive#content",
+    "title": "Expansion Account Executive",
+    "company": "Workable",
+    "link": "https://coinbase.getro.com/companies/workable/jobs/68563858-expansion-account-executive#content",
+    "date": "2026-02-25T01:48:26.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/uma-2-ee198e8e-1279-462c-959f-1ba9ce9a117b/jobs/68558461-market-integrity-analyst#content",
+    "title": "Market Integrity Analyst",
+    "company": "UMA",
+    "link": "https://jobs.dragonfly.xyz/companies/uma-2-ee198e8e-1279-462c-959f-1ba9ce9a117b/jobs/68558461-market-integrity-analyst#content",
+    "date": "2026-02-24T23:35:37.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/68557810-customer-experience#content",
+    "title": "Customer Experience",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/68557810-customer-experience#content",
+    "date": "2026-02-24T23:10:00.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/gem-2/jobs/68552851-enterprise-customer-success-manager#content",
+    "title": "Enterprise Customer Success Manager",
+    "company": "Gem",
+    "link": "https://coinbase.getro.com/companies/gem-2/jobs/68552851-enterprise-customer-success-manager#content",
+    "date": "2026-02-24T21:50:41.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/nexus-2-a8c40318-c4ba-486d-9b14-ed48f99c6d44/jobs/68551573-sdet-contract-argentina#content",
+    "title": "SDET (Contract, Argentina)",
+    "company": "NEXUS",
+    "link": "https://jobs.dragonfly.xyz/companies/nexus-2-a8c40318-c4ba-486d-9b14-ed48f99c6d44/jobs/68551573-sdet-contract-argentina#content",
+    "date": "2026-02-24T20:26:04.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/nansen/jobs/68522092-senior-security-engineer#content",
+    "title": "Senior Security Engineer",
+    "company": "Nansen",
+    "link": "https://coinbase.getro.com/companies/nansen/jobs/68522092-senior-security-engineer#content",
+    "date": "2026-02-24T16:38:27.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/bvnk/jobs/68514168-legal-counsel#content",
+    "title": "Legal Counsel",
+    "company": "BVNK",
+    "link": "https://coinbase.getro.com/companies/bvnk/jobs/68514168-legal-counsel#content",
+    "date": "2026-02-24T16:23:27.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/lemon-cash/jobs/68500350-tech-lead-backend#content",
+    "title": "Tech Lead (Backend)",
+    "company": "Lemon Cash",
+    "link": "https://coinbase.getro.com/companies/lemon-cash/jobs/68500350-tech-lead-backend#content",
+    "date": "2026-02-24T16:08:27.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/68529112-warehouse-associate#content",
+    "title": "Warehouse Associate",
+    "company": "Fuse Energy",
+    "link": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/68529112-warehouse-associate#content",
+    "date": "2026-02-24T15:02:11.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/68502741-member-of-legal-brokerage-senior-counsel-trading#content",
+    "title": "Member of Legal, Brokerage (Senior Counsel, Trading)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/68502741-member-of-legal-brokerage-senior-counsel-trading#content",
+    "date": "2026-02-24T12:39:51.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/anchorage-digital/jobs/68502743-member-of-stablecoin-solutions-product-manager#content",
+    "title": "Member of Stablecoin Solutions, Product Manager",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.solana.com/companies/anchorage-digital/jobs/68502743-member-of-stablecoin-solutions-product-manager#content",
+    "date": "2026-02-24T12:24:51.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/wormhole-2/jobs/68495968-crypto-production-engineer#content",
+    "title": "Crypto Production Engineer",
+    "company": "Wormhole",
+    "link": "https://jobs.multicoin.capital/companies/wormhole-2/jobs/68495968-crypto-production-engineer#content",
+    "date": "2026-02-24T12:21:58.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/wormhole-foundation-2/jobs/68496791-crypto-production-engineer#content",
+    "title": "Crypto Production Engineer",
+    "company": "Wormhole Foundation",
+    "link": "https://jobs.solana.com/companies/wormhole-foundation-2/jobs/68496791-crypto-production-engineer#content",
+    "date": "2026-02-24T12:09:51.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/68493246-lead-data-engineer#content",
+    "title": "Lead Data Engineer",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/68493246-lead-data-engineer#content",
+    "date": "2026-02-24T12:07:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/68493234-senior-product-designer#content",
+    "title": "Senior Product Designer",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/68493234-senior-product-designer#content",
+    "date": "2026-02-24T11:52:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=e3c6651ae24db350&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Manager, Software Engineering - Marketplace Match Data",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=e3c6651ae24db350&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-24T11:37:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/68493236-data-scientist#content",
+    "title": "Data Scientist",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/68493236-data-scientist#content",
+    "date": "2026-02-24T11:22:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=81b005866ea0d80f&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Lead Reporting Engineer (Staff SW Engineer)",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=81b005866ea0d80f&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-02-24T11:07:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/68485824-research-scientist-engineer#content",
+    "title": "Research Scientist/Engineer",
+    "company": "Offchain Labs",
+    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/68485824-research-scientist-engineer#content",
+    "date": "2026-02-24T10:55:28.000Z",
+    "source": "Jobs | Spartan Group Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/68493227-test-engineer#content",
+    "title": "Test Engineer",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/68493227-test-engineer#content",
+    "date": "2026-02-24T10:52:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/68493224-senior-frontend-engineer#content",
+    "title": "Senior Frontend Engineer",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/68493224-senior-frontend-engineer#content",
+    "date": "2026-02-24T10:37:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://my.linkedin.com/jobs/view/tax-analyst-at-matrixport-official-4375353424?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Tax Analyst",
+    "company": "Matrixport",
+    "link": "https://my.linkedin.com/jobs/view/tax-analyst-at-matrixport-official-4375353424?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2026-02-24T02:21:59.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68463519-business-development-manager-private-wealth-institutional#content",
+    "title": "Business Development Manager (Private Wealth / Institutional)",
+    "company": "Matrixport",
+    "link": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68463519-business-development-manager-private-wealth-institutional#content",
+    "date": "2026-02-24T02:06:59.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/graduate-hiring-hr-intern-at-matrixport-official-4375350072?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Graduate Hiring - HR Intern",
+    "company": "Matrixport",
+    "link": "https://sg.linkedin.com/jobs/view/graduate-hiring-hr-intern-at-matrixport-official-4375350072?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2026-02-24T01:51:59.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68463518-trading-operations-finance#content",
+    "title": "Trading Operations, Finance",
+    "company": "Matrixport",
+    "link": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68463518-trading-operations-finance#content",
+    "date": "2026-02-24T01:36:59.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/myprize-2/jobs/68461178-director-of-paid-media-demand-generation#content",
+    "title": "Director of Paid Media & Demand Generation",
+    "company": "MyPrize",
+    "link": "https://jobs.dragonfly.xyz/companies/myprize-2/jobs/68461178-director-of-paid-media-demand-generation#content",
+    "date": "2026-02-24T01:12:41.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68463513-global-bd-director#content",
+    "title": "Global BD Director",
+    "company": "Matrixport",
+    "link": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/68463513-global-bd-director#content",
+    "date": "2026-02-24T01:06:59.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://my.linkedin.com/jobs/view/accountant-ap-at-matrixport-official-4375334816?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Accountant (AP)",
+    "company": "Matrixport",
+    "link": "https://my.linkedin.com/jobs/view/accountant-ap-at-matrixport-official-4375334816?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2026-02-24T00:51:59.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/myprize-2/jobs/68461179-marketing-operations-manager#content",
+    "title": "Marketing Operations Manager",
+    "company": "MyPrize",
+    "link": "https://jobs.dragonfly.xyz/companies/myprize-2/jobs/68461179-marketing-operations-manager#content",
+    "date": "2026-02-24T00:42:41.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/douro-labs-2/jobs/68460728-design-lead#content",
+    "title": "Design Lead",
+    "company": "Douro Labs",
+    "link": "https://jobs.multicoin.capital/companies/douro-labs-2/jobs/68460728-design-lead#content",
+    "date": "2026-02-24T00:31:23.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/myprize-2/jobs/68461181-product-operations-manager#content",
+    "title": "Product Operations Manager",
+    "company": "MyPrize",
+    "link": "https://jobs.dragonfly.xyz/companies/myprize-2/jobs/68461181-product-operations-manager#content",
+    "date": "2026-02-24T00:12:41.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/68455809-defi-success-lead#content",
+    "title": "DeFi Success Lead",
+    "company": "Monad",
+    "link": "https://coinbase.getro.com/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/68455809-defi-success-lead#content",
+    "date": "2026-02-23T22:01:02.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
     "id": "https://nl.linkedin.com/jobs/view/medior-senior-accountmanager-nl-at-celebratix-4361897759?utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
     "title": "Medior/Senior Accountmanager (NL)",
     "company": "Celebratix",
@@ -190,6 +454,14 @@
     "link": "https://jobs.ashbyhq.com/chainalysis-careers/9682411a-768c-47d3-a5c6-456215f32c3d?utm_source=jobs.paradigm.xyz",
     "date": "2026-02-22T18:39:13.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content",
+    "title": "Elite Research Scientist - Frontier AI Evaluation",
+    "company": "Perle",
+    "link": "https://jobs.solana.com/companies/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b/jobs/68406385-elite-research-scientist-frontier-ai-evaluation#content",
+    "date": "2026-02-22T12:51:16.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
     "id": "https://jobs.multicoin.capital/companies/paxos/jobs/68393313-product-marketing-lead-platform#content",
