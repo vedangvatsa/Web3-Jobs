@@ -8,9 +8,6 @@
  *   npm run send-alerts --limit 5 - Send only 5 latest jobs
  */
 
-import { collection, getDocs } from 'firebase/firestore';
-import { serverFirestore } from '../src/firebase/server-init';
-
 async function sendJobAlerts() {
   const args = process.argv.slice(2);
   const isDryRun = args.includes('--dry-run');
@@ -22,36 +19,16 @@ async function sendJobAlerts() {
   console.log(`Job limit: ${jobLimit}`);
   console.log('');
 
-  if (!serverFirestore) {
-    console.error('❌ Firebase is not initialized. Please ensure your .env file is set up correctly.');
-    process.exit(1);
-  }
-
   if (!process.env.RESEND_API_KEY) {
-    console.error('❌ RESEND_API_KEY is missing');
-    console.log('Get your API key from https://resend.com/api-keys');
+    console.error('❌ RESEND_API_KEY is missing from your environment variables.');
     process.exit(1);
   }
-
-  if (!process.env.EMAIL_FROM) {
-    console.warn('⚠️ EMAIL_FROM is not set. Using the default resend.dev sender may reduce deliverability.');
+  if (!process.env.CRON_SECRET) {
+    console.error('❌ CRON_SECRET is missing. This is required to authorize the API call.');
+    process.exit(1);
   }
 
   try {
-    // Fetch subscribers
-    console.log('📥 Fetching subscribers...');
-    const db = serverFirestore;
-    const subscribersCol = collection(db, 'subscribers');
-    const snapshot = await getDocs(subscribersCol);
-
-    if (snapshot.empty) {
-      console.log('❌ No subscribers found');
-      process.exit(0);
-    }
-
-    const emails = snapshot.docs.map(doc => doc.data().email).filter(Boolean);
-    console.log(`✅ Found ${emails.length} subscribers`);
-
     // Fetch latest jobs from jobs-cache.json
     console.log('📥 Fetching latest jobs...');
     const jobsCache = await import('../content/jobs-cache.json');
@@ -72,30 +49,21 @@ async function sendJobAlerts() {
         company: job.company || 'Unknown Company',
         location: job.location || 'Remote',
         salary: job.salary,
-        url: process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com',
+        url: job.link,
         tags: job.tags?.slice(0, 5) || [],
       }));
 
-    console.log(`✅ Selected ${latestJobs.length} jobs to send`);
-    console.log('');
-
-    if (isDryRun) {
-      console.log('📋 DRY RUN SUMMARY:');
-      console.log(`Would send to: ${emails.length} subscribers`);
-      console.log(`Sample emails: ${emails.slice(0, 3).join(', ')}`);
-      console.log('');
-      console.log('Jobs to include:');
-      latestJobs.forEach((job: any, i: number) => {
-        console.log(`  ${i + 1}. ${job.title} at ${job.company}`);
-      });
-      console.log('');
-      console.log('✅ Dry run completed. Remove --dry-run to send emails.');
+    if (latestJobs.length === 0) {
+      console.log('No jobs found to send. Exiting.');
       process.exit(0);
     }
+    
+    console.log(`✅ Selected ${latestJobs.length} jobs to include`);
+    console.log('');
 
-    // Send emails via API
-    console.log('📧 Sending emails...');
-    const CRON_SECRET = process.env.CRON_SECRET || 'your-secret-token';
+    // Call the API
+    console.log(isDryRun ? '📋 Requesting dry run summary from API...' : '📧 Triggering email send via API...');
+    const CRON_SECRET = process.env.CRON_SECRET;
     const API_URL = process.env.NEXT_PUBLIC_SITE_URL 
       ? `${process.env.NEXT_PUBLIC_SITE_URL}/api/send-job-alerts`
       : 'http://localhost:3000/api/send-job-alerts';
@@ -108,25 +76,37 @@ async function sendJobAlerts() {
       },
       body: JSON.stringify({
         jobs: latestJobs,
-        dryRun: false,
+        dryRun: isDryRun,
       }),
     });
 
     const result = await response.json();
 
     if (!response.ok) {
-      console.error('❌ Failed to send alerts:', result.error);
+      console.error('❌ Failed to trigger alerts:', result.error || 'Unknown API error');
       process.exit(1);
     }
-
+    
     console.log('');
-    console.log('✅ SUCCESS!');
-    console.log(`Sent: ${result.sent}`);
-    console.log(`Failed: ${result.failed}`);
-    console.log(`Total: ${result.total}`);
+    console.log('✅ API call successful!');
+    
+    if (isDryRun) {
+        console.log('📋 DRY RUN SUMMARY:');
+        console.log(`Would send to: ${result.subscriberCount} subscribers`);
+        console.log(`Sample emails: ${(result.wouldSendTo || []).join(', ')}`);
+        console.log('Jobs to include:');
+        latestJobs.forEach((job: any, i: number) => {
+            console.log(`  ${i + 1}. ${job.title} at ${job.company}`);
+        });
+    } else {
+        console.log('✅ SEND COMPLETE!');
+        console.log(`Sent: ${result.sent}`);
+        console.log(`Failed: ${result.failed}`);
+        console.log(`Total subscribers considered: ${result.total}`);
+    }
 
   } catch (error: any) {
-    console.error('❌ Error:', error.message);
+    console.error('❌ An unexpected error occurred:', error.message);
     process.exit(1);
   }
 }
