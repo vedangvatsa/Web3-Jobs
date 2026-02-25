@@ -5,23 +5,21 @@
  * Run with: npm run export:emails
  */
 
-import { initializeApp } from 'firebase/app';
-import { getFirestore, collection, getDocs } from 'firebase/firestore';
-import { firebaseConfig } from '../src/firebase/config';
+import { collection, getDocs } from 'firebase/firestore';
+import { serverFirestore } from '../src/firebase/server-init';
 import fs from 'fs/promises';
 import path from 'path';
 
 async function exportEmails() {
   console.log('🔄 Initializing Firebase and connecting to Firestore...');
   
-  if (!firebaseConfig.apiKey) {
-    console.error('❌ Firebase config is missing. Please ensure your .env file is set up correctly.');
+  if (!serverFirestore) {
+    console.error('❌ Firebase is not initialized. Please ensure your .env file is set up correctly.');
     process.exit(1);
   }
 
   try {
-    const app = initializeApp(firebaseConfig);
-    const db = getFirestore(app);
+    const db = serverFirestore;
     const subscribersCol = collection(db, 'subscribers');
 
     console.log("📥 Fetching documents from 'subscribers' collection...");

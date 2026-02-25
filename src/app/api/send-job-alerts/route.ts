@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getFirestore, collection, getDocs } from 'firebase/firestore';
-import { app } from '@/firebase/config';
+import { collection, getDocs } from 'firebase/firestore';
+import { serverFirestore } from '@/firebase/server-init';
 import { sendBatchJobAlerts, type JobListing } from '@/lib/email';
 
 export const dynamic = 'force-dynamic';
@@ -36,7 +36,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Fetch all subscribers from Firestore
-    const db = getFirestore(app);
+    const db = serverFirestore;
     const subscribersCol = collection(db, 'subscribers');
     const snapshot = await getDocs(subscribersCol);
 
