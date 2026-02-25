@@ -24,6 +24,7 @@ import { useToast } from '@/hooks/use-toast';
 import jsPDF from 'jspdf';
 import { Separator } from '@/components/ui/separator';
 import { Rss } from 'lucide-react';
+import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 
 const checklistData = {
   sections: [
@@ -107,6 +108,7 @@ export default function EmployeeOnboardingChecklistPage() {
     <div className="flex flex-col min-h-screen">
       <Header />
       <main className="flex-1">
+        <ToolUsageTracker toolName="Employee Onboarding Checklist" />
         <div className="container mx-auto px-4 py-8 md:py-16">
           <section className="text-center mb-12 max-w-4xl mx-auto">
              <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">

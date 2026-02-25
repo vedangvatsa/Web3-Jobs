@@ -1,6 +1,6 @@
 'use client';
 
-import { trackJobApplicationClick } from '@/lib/posthog';
+import { trackJobApplicationClick, trackOutboundClick } from '@/lib/posthog';
 
 export function JobApplicationButton({ 
   jobId, 
@@ -17,6 +17,7 @@ export function JobApplicationButton({
 }) {
   const handleClick = () => {
     trackJobApplicationClick(jobId, jobTitle, companyName);
+    trackOutboundClick(jobUrl, jobTitle);
   };
 
   return (
