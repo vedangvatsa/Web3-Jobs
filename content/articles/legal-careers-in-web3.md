@@ -1,9 +1,9 @@
 ---
 
-title: "Legal Careers in the Web3 Industry"
+title: "Web3 Legal Careers 2026 | $130K-$350K Lawyer & Compliance Jobs"
 image: "/images/chris-ried-ieic5Tq8YMk-unsplash.jpg"
 data-ai-hint: "legal gavel law"
-description: "A guide for legal professionals looking to enter the Web3 space. We explore the most in-demand legal specialties, from securities to intellectual."
+description: "Break into Web3 legal in 2026. High-demand lawyer and compliance roles paying $130K-$350K. Securities law, crypto regulation, smart contract auditing. How to transition from traditional law."
 category: "Career Guides"
 
 ---

@@ -37,6 +37,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const siteUrl = 'https://hashtagweb3.com';
     const termUrl = `${siteUrl}/${term.slug}`;
     const metaDescription = generateGlossaryMetaDescription(term);
+    const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(term.term)}&category=${encodeURIComponent(term.category)}`;
     
     return {
       title: `${term.term} - Web3 Glossary | Hashtag Web3`,
@@ -49,14 +50,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         title: `${term.term} - Web3 Glossary`,
         description: metaDescription,
         url: termUrl,
-        images: term.image ? [{ url: term.image, alt: term.imageAlt || term.term }] : [],
+        images: [{ url: ogImageUrl, alt: `${term.term} - ${term.category}` }],
         type: 'article',
       },
       twitter: {
         card: 'summary_large_image',
         title: `${term.term} - Web3 Glossary`,
         description: metaDescription,
-        images: term.image ? [term.image] : [],
+        images: [ogImageUrl],
       },
     };
   }
@@ -69,6 +70,13 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
   const siteUrl = 'https://hashtagweb3.com';
   const articleUrl = `${siteUrl}/${article.slug}`;
+
+  // Extract salary data from title if present
+  const salaryMatch = article.title.match(/\$[\d,]+-\$[\d,]+K?/);
+  const salary = salaryMatch ? salaryMatch[0] : undefined;
+  
+  // Generate dynamic OG image URL
+  const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(article.title)}&category=${encodeURIComponent(article.category)}${salary ? `&salary=${encodeURIComponent(salary)}` : ''}&date=2026`;
 
   const keywords = [
     'web3', 
@@ -93,7 +101,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       url: articleUrl,
       images: [
         {
-          url: article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`,
+          url: ogImageUrl,
           width: 1200,
           height: 630,
           alt: `${article.title} - Hashtag Web3`,
@@ -104,7 +112,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       card: 'summary_large_image',
       title: `${article.title} | Web3 Playbook`,
       description: article.description,
-      images: [article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`],
+      images: [ogImageUrl],
     },
   };
 }

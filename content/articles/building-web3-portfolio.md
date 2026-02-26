@@ -1,8 +1,8 @@
 ---
 
-title: 'Building Your Web3 Portfolio: What Projects to Include'
+title: 'Build a Web3 Portfolio in 2026 That Lands $120K+ Jobs'
 image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxQb3J0Zm9saW98ZW58MHx8fHwxNzU0OTUxNjI0fDA&ixlib=rb-4.1.0&q=80&w=1080'
-description: 'A strong portfolio is essential for landing a Web3 job. Learn what projects to build to showcase your skills as a developer, designer, or non-technical contributor.'
+description: 'Build a Web3 portfolio in 2026 that gets you hired. Essential projects, GitHub examples, and on-chain proof for developers, designers, and non-technical roles. Land $120K+ blockchain jobs.'
 category: 'Getting Started'
 
 ---

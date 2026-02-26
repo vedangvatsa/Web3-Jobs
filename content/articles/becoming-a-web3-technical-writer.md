@@ -1,9 +1,9 @@
 ---
 
-title: "Becoming a Web3 Technical Writer"
+title: "How to Become a Web3 Technical Writer in 2026 | $90K-$180K Remote"
 image: "/images/chris-ried-bN5XdU-bap4-unsplash.jpg"
 data-ai-hint: "technical writer keyboard"
-description: "A career guide for writers who want to work in Web3. Learn about the growing demand for technical writers who can make complex blockchain concepts."
+description: "Complete guide to becoming a Web3 technical writer in 2026. Earn $90K-$180K writing blockchain documentation. No coding required. Learn skills, find jobs, and break into this high-demand remote role."
 category: "Career Guides"
 ---
 

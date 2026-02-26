@@ -12,6 +12,8 @@
 
 import { collection, getDocs } from 'firebase/firestore';
 import { serverFirestore } from '../src/firebase/server-init';
+import { getJobs } from '@/lib/jobs';
+import { sendBatchJobAlerts, type JobListing } from '@/lib/email';
 
 async function sendNewJobAlerts() {
   const args = process.argv.slice(2);
@@ -57,24 +59,27 @@ async function sendNewJobAlerts() {
 
     // Fetch jobs and filter by date
     console.log(`📥 Fetching jobs from last ${daysBack} days...`);
-    const jobsCache = await import('../content/jobs-cache.json');
-    const allJobs = jobsCache.default || jobsCache;
+    const allJobs = await getJobs();
     
     // Calculate date threshold
     const now = new Date();
     const thresholdDate = new Date(now.getTime() - daysBack * 24 * 60 * 60 * 1000);
     
     // Filter jobs published in the last N days, sort by date, limit
-    const newJobs = allJobs
+    const newJobs: JobListing[] = allJobs
       .filter((job: any) => {
+<<<<<<< HEAD
         const jobDate = new Date(job.date);
+=======
+        const jobDate = new Date(job.date); // Corrected from job.publishedAt
+>>>>>>> d904e3f755e554ff612151734c40d730173c6959
         return jobDate >= thresholdDate;
       })
       .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .slice(0, jobLimit)
       .map((job: any) => ({
         title: job.title,
-        company: job.company?.name || 'Unknown Company',
+        company: job.company?.name || job.company || 'Unknown Company',
         location: job.location || 'Remote',
         salary: job.salary,
         url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/jobs/${job.id}`,
@@ -105,36 +110,14 @@ async function sendNewJobAlerts() {
 
     // Send emails via API
     console.log('📧 Sending emails...');
-    const CRON_SECRET = process.env.CRON_SECRET || 'test-secret';
-    const API_URL = process.env.NEXT_PUBLIC_SITE_URL 
-      ? `${process.env.NEXT_PUBLIC_SITE_URL}/api/send-job-alerts`
-      : 'http://localhost:3000/api/send-job-alerts';
-
-    const response = await fetch(API_URL, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${CRON_SECRET}`,
-      },
-      body: JSON.stringify({
-        jobs: newJobs,
-        dryRun: false,
-      }),
-    });
-
-    const result = await response.json();
-
-    if (!response.ok) {
-      console.error('❌ Failed to send alerts:', result.error);
-      process.exit(1);
-    }
+    const result = await sendBatchJobAlerts(emails, newJobs);
 
     console.log('');
     console.log('✅ SUCCESS!');
     console.log(`Sent: ${result.sent}`);
     console.log(`Failed: ${result.failed}`);
-    console.log(`Total subscribers: ${result.total}`);
-    console.log(`Jobs included: ${result.jobs}`);
+    console.log(`Total subscribers: ${emails.length}`);
+    console.log(`Jobs included: ${newJobs.length}`);
 
   } catch (error: any) {
     console.error('❌ Error:', error.message);
