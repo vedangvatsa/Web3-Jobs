@@ -1,8 +1,8 @@
 ---
 
-title: "A Day in the Life of a DeFi Quant"
+title: "A Day in the Life of a DeFi Quant | $150K-$400K Salary 2026"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-description: "What does a quantitative analyst in decentralized finance actually do? We break down the hour-by-hour schedule, core responsibilities, and essential."
+description: "What does a DeFi quantitative analyst earning $150K-$400K actually do? Hour-by-hour schedule, core responsibilities, required skills, and how to land this high-paying Web3 role in 2026."
 category: "Career Guides"
 ---
 
