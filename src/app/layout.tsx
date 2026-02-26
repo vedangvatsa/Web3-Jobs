@@ -25,6 +25,8 @@ const siteConfig = {
   url: "https://hashtagweb3.com",
 };
 
+const ogImageUrl = `${siteConfig.url}/api/og?type=default&title=Web3 Jobs & Careers&date=2026`;
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
@@ -47,7 +49,7 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     images: [
       {
-        url: `${siteConfig.url}/og-image.png`,
+        url: ogImageUrl,
         width: 1200,
         height: 630,
         alt: siteConfig.name,

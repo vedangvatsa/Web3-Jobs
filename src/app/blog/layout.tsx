@@ -1,6 +1,9 @@
 
 import type { Metadata } from 'next';
 
+const siteUrl = 'https://hashtagweb3.com';
+const ogImageUrl = `${siteUrl}/api/og?type=article&title=Web3 Career Guides 2026&category=Career Resources&salary=$120K+ Salaries&date=2026`;
+
 export const metadata: Metadata = {
   title: 'Web3 Playbook | Practical Career Guides and Tech Deep Dives',
   description: 'Actionable Web3 guides, career playbooks, and technical deep dives for builders, operators, and job seekers.',
@@ -13,7 +16,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/blog',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-blog.png',
+        url: ogImageUrl,
         width: 1200,
         height: 630,
         alt: 'The Web3 Playbook',
@@ -24,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Web3 Playbook | Practical Career Guides and Tech Deep Dives',
     description: 'Practical Web3 career guides and technical deep dives for builders and job seekers.',
-    images: ['https://hashtagweb3.com/og-image-blog.png'],
+    images: [ogImageUrl],
   },
 };
 
