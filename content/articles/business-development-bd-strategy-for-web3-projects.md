@@ -1,9 +1,9 @@
 ---
 
-title: "Business Development (BD) Strategy for Web3 Projects"
+title: "Web3 BD Strategy 2026: How to Land $110K-$220K Partnerships Roles"
 image: "/images/alex-knight-2EJCSULRwC8-unsplash.jpg"
 data-ai-hint: "business development handshake"
-description: "A deep dive into Web3 business development. This guide outlines the key strategies for creating high-impact partnerships and integrations that drive real."
+description: "Master Web3 business development in 2026. Proven strategies for partnerships, integrations, and ecosystem growth. How to land $110K-$220K BD roles at top crypto projects."
 category: "Industry Insights"
 
 ---

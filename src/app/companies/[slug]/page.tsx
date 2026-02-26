@@ -28,6 +28,9 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     };
   }
 
+  const siteUrl = 'https://hashtagweb3.com';
+  const ogImageUrl = `${siteUrl}/api/og?type=company&title=${encodeURIComponent(company.name)}&count=${company.jobCount}`;
+
   return {
     title: `${company.name} Jobs & Careers - ${company.jobCount} Open Positions`,
     description: `Find ${company.jobCount} current job openings at ${company.name}. Explore Web3, blockchain, and crypto career opportunities. Updated ${new Date(company.lastUpdated).toLocaleDateString()}.`,
@@ -37,13 +40,13 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     openGraph: {
       title: `${company.name} Jobs & Careers - ${company.jobCount} Open Positions`,
       description: `Find ${company.jobCount} current job openings at ${company.name}. Explore Web3 career opportunities.`,
-      url: `https://hashtagweb3.com/companies/${company.slug}`,
+      url: `${siteUrl}/companies/${company.slug}`,
       images: [
         {
-          url: 'https://hashtagweb3.com/og-image.png',
+          url: ogImageUrl,
           width: 1200,
           height: 630,
-          alt: `${company.name} Jobs`,
+          alt: `${company.name} - ${company.jobCount} Jobs`,
         },
       ],
     },
@@ -51,7 +54,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       card: 'summary_large_image',
       title: `${company.name} Jobs - ${company.jobCount} Open Positions`,
       description: `Find current job openings at ${company.name} in Web3 and blockchain.`,
-      images: ['https://hashtagweb3.com/og-image.png'],
+      images: [ogImageUrl],
     },
   };
 }

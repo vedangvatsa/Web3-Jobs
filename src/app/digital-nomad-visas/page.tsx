@@ -72,7 +72,7 @@ function getFlagEmoji(countryName: string): string {
 
 const countryMap: Record<string, string> = {
     "AL": "Albania", "AG": "Antigua and Barbuda", "AR": "Argentina", "AM": "Armenia", 
-    "AW": "Aruba", "BS": "Bahamas", "BB": "Barbados", "BZ": "Belize", "BM": "Bermuda", 
+    "AW": "Aruba", "BS": "Bahamas", "BB": "Barbados", "BT": "Bhutan", "BZ": "Belize", "BM": "Bermuda", 
     "BR": "Brazil", "BG": "Bulgaria", "KH": "Cambodia", "CV": "Cabo Verde", "KY": "Cayman Islands", 
     "CO": "Colombia", "CR": "Costa Rica", "HR": "Croatia", "CW": "Curacao", "CY": "Cyprus", 
     "CZ": "Czech Republic", "DM": "Dominica", "EC": "Ecuador", "SV": "El Salvador", "EE": "Estonia", 

@@ -68,13 +68,13 @@ export default function NewsPage() {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     url: `${siteUrl}/news`,
-    name: "Web3 News Feed | Hashtag Web3",
+    name: "Web3 News 2026 | Daily Crypto & Blockchain Career Updates",
     isPartOf: {
       '@type': 'WebSite',
       url: siteUrl,
       name: 'Hashtag Web3'
     },
-    description: "The latest news and headlines from the world of Web3, cryptocurrency, and blockchain technology, aggregated from top industry sources.",
+    description: "Stay updated with Web3 news for 2026: new job openings, company funding, protocol launches, and career opportunities in crypto, DeFi, NFTs, and blockchain. Updated daily.",
   };
 
   const newsArticlesSchema: WithContext<NewsArticle>[] = newsItems.map(item => ({
