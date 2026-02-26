@@ -1,9 +1,9 @@
 ---
 
-title: "The Blockchain Developer Roadmap for 2026"
+title: "Complete Blockchain Developer Roadmap 2026 | $120K-$300K Jobs"
 image: "/images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
 data-ai-hint: "developer roadmap journey"
-description: "Your complete roadmap to becoming a blockchain developer in 2026. This guide covers the essential skills, languages, tools, and projects you need to build."
+description: "Your 2026 roadmap to landing a $120K-$300K blockchain developer job. Master Solidity, smart contracts, and Web3 tools. Step-by-step guide with projects, skills, and how to get hired."
 category: "Getting Started"
 
 ---

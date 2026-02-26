@@ -14,9 +14,9 @@ export default async function PlaybookIndexPage() {
   const siteUrl = 'https://hashtagweb3.com';
   const blogSchema: CollectionPage = {
     '@type': 'CollectionPage',
-    name: 'The Web3 Playbook | Hashtag Web3',
+    name: 'Web3 Career Guides 2026 | $120K+ Salary Insights & Job Search Tips',
     url: `${siteUrl}/blog`,
-    description: 'In-depth articles and guides on Web3 careers, technology, and industry insights.',
+    description: 'Expert Web3 career guides for 2026. Learn how to land blockchain jobs, negotiate $120K+ salaries, build your portfolio, and break into DeFi, NFT, and DAO roles.',
     mainEntity: {
       '@type': 'ItemList',
       itemListElement: allArticles.map((article, index) => ({

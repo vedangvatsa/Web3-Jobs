@@ -25,13 +25,13 @@ export default async function JobsPage() {
   const pageSchema: WebPage = {
     '@type': 'WebPage',
     url: `${siteUrl}/jobs`,
-    name: "Web3 Jobs | Hashtag Web3",
+    name: `${initialJobs.length}+ Live Web3 Jobs in 2026 | $80K-$250K+ Remote Crypto Careers`,
     isPartOf: {
       '@type': 'WebSite',
       url: siteUrl,
       name: 'Hashtag Web3'
     },
-    description: "Find the best web3 jobs. The best place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.",
+    description: `Browse ${initialJobs.length}+ verified Web3 jobs updated daily. Find remote blockchain developer, DeFi, DAO, and crypto roles at top companies. Salaries $80K-$250K+. Apply today!`,
   };
 
   const jobPostingsSchema: JobPosting[] = initialJobs.map(job => ({
