@@ -25,11 +25,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-<<<<<<< HEAD
-      - name: Send job alerts
-=======
-      - name: Send new job alerts for the week
->>>>>>> d904e3f755e554ff612151734c40d730173c6959
+      - name: Send weekly job alerts
         run: npm run send-new-jobs -- --days 7 --limit 15
         env:
           # Email service
