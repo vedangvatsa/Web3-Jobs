@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export async function generateMetadata(): Promise<Metadata> {
   const siteUrl = 'https://hashtagweb3.com';
-  const ogImageUrl = `${siteUrl}/api/og?type=jobs&count=1247&salary=$80K-$250K+&date=2026`;
+  const ogImageUrl = `${siteUrl}/og-image-jobs.png`;
   
   return {
     title: 'Web3 Jobs and Crypto Roles | Remote and Full Time',

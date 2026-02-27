@@ -5,6 +5,11 @@ export const runtime = 'edge';
 
 export async function GET(request: NextRequest) {
   try {
+    const [interRegular, interBold] = await Promise.all([
+      fetch('https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2A.woff').then((res) => res.arrayBuffer()),
+      fetch('https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SU.woff').then((res) => res.arrayBuffer()),
+    ]);
+
     const { searchParams } = new URL(request.url);
     
     const type = searchParams.get('type') || 'default';
@@ -14,45 +19,59 @@ export async function GET(request: NextRequest) {
     const category = searchParams.get('category');
     const date = searchParams.get('date') || '2026';
 
+    const baseContainerStyle = {
+      height: '100%',
+      width: '100%',
+      display: 'flex',
+      fontFamily: 'Inter',
+    } as const;
+
+    const baseCardStyle = {
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      justifyContent: 'center',
+      padding: '60px',
+      backgroundColor: 'hsl(240 5% 12% / 0.78)',
+      borderRadius: '28px',
+      border: '1px solid hsl(240 5% 65% / 0.2)',
+      boxShadow: '0 30px 80px hsl(240 10% 3.9% / 0.7), inset 0 1px 0 hsl(0 0% 100% / 0.05)',
+    } as const;
+
+    const backgroundStyle = {
+      backgroundColor: 'hsl(240 6% 10%)',
+      backgroundImage: 'radial-gradient(circle at 10% 20%, hsl(205 71% 45% / 0.18), transparent 30%), radial-gradient(circle at 80% 70%, hsl(205 71% 55% / 0.2), transparent 30%), linear-gradient(135deg, hsl(240 6% 10%) 0%, hsl(240 6% 12%) 50%, hsl(240 5% 14%) 100%)',
+    } as const;
+
     // Default template
     if (type === 'default') {
       return new ImageResponse(
         (
           <div
             style={{
-              height: '100%',
-              width: '100%',
-              display: 'flex',
+              ...baseContainerStyle,
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              backgroundColor: '#0a0a0a',
-              backgroundImage: 'radial-gradient(circle at 25px 25px, #1e293b 2%, transparent 0%), radial-gradient(circle at 75px 75px, #1e293b 2%, transparent 0%)',
-              backgroundSize: '100px 100px',
+              ...backgroundStyle,
             }}
           >
             <div
               style={{
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'center',
-                justifyContent: 'center',
-                padding: '60px',
-                backgroundColor: 'rgba(15, 23, 42, 0.8)',
-                borderRadius: '24px',
-                border: '2px solid rgba(59, 130, 246, 0.3)',
-                maxWidth: '1000px',
+                ...baseCardStyle,
+                maxWidth: '1020px',
               }}
             >
               <h1
                 style={{
                   fontSize: '72px',
                   fontWeight: 'bold',
-                  background: 'linear-gradient(to right, #60a5fa, #a78bfa)',
+                  background: 'linear-gradient(90deg, hsl(205 71% 45%) 0%, hsl(205 71% 55%) 60%, hsl(205 71% 63%) 100%)',
                   backgroundClip: 'text',
                   color: 'transparent',
                   marginBottom: '20px',
                   textAlign: 'center',
+                  letterSpacing: '-1px',
                 }}
               >
                 {title}
@@ -60,7 +79,7 @@ export async function GET(request: NextRequest) {
               <p
                 style={{
                   fontSize: '32px',
-                  color: '#94a3b8',
+                  color: 'hsl(240 5% 65%)',
                   textAlign: 'center',
                 }}
               >
@@ -72,6 +91,10 @@ export async function GET(request: NextRequest) {
         {
           width: 1200,
           height: 630,
+          fonts: [
+            { name: 'Inter', data: interRegular, weight: 500, style: 'normal' },
+            { name: 'Inter', data: interBold, weight: 700, style: 'normal' },
+          ],
         }
       );
     }
@@ -82,28 +105,17 @@ export async function GET(request: NextRequest) {
         (
           <div
             style={{
-              height: '100%',
-              width: '100%',
-              display: 'flex',
+              ...baseContainerStyle,
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              backgroundColor: '#0a0a0a',
-              backgroundImage: 'radial-gradient(circle at 25px 25px, #1e293b 2%, transparent 0%), radial-gradient(circle at 75px 75px, #1e293b 2%, transparent 0%)',
-              backgroundSize: '100px 100px',
+              ...backgroundStyle,
             }}
           >
             <div
               style={{
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'center',
-                justifyContent: 'center',
-                padding: '60px',
-                backgroundColor: 'rgba(15, 23, 42, 0.95)',
-                borderRadius: '24px',
-                border: '2px solid rgba(59, 130, 246, 0.5)',
-                maxWidth: '1000px',
+                ...baseCardStyle,
+                maxWidth: '1020px',
               }}
             >
               {count && (
@@ -111,10 +123,11 @@ export async function GET(request: NextRequest) {
                   style={{
                     fontSize: '96px',
                     fontWeight: 'bold',
-                    background: 'linear-gradient(to right, #60a5fa, #a78bfa)',
+                    background: 'linear-gradient(90deg, hsl(205 71% 45%) 0%, hsl(205 71% 55%) 60%, hsl(205 71% 63%) 100%)',
                     backgroundClip: 'text',
                     color: 'transparent',
                     marginBottom: '20px',
+                    letterSpacing: '-1px',
                   }}
                 >
                   {count}+
@@ -124,9 +137,10 @@ export async function GET(request: NextRequest) {
                 style={{
                   fontSize: '56px',
                   fontWeight: 'bold',
-                  color: '#f1f5f9',
+                  color: 'hsl(0 0% 98%)',
                   marginBottom: '16px',
                   textAlign: 'center',
+                  letterSpacing: '-0.5px',
                 }}
               >
                 Live Web3 Jobs
@@ -138,12 +152,16 @@ export async function GET(request: NextRequest) {
                     alignItems: 'center',
                     gap: '12px',
                     marginBottom: '20px',
+                    padding: '14px 24px',
+                    backgroundColor: 'hsl(205 71% 45% / 0.16)',
+                    border: '1px solid hsl(205 71% 45% / 0.35)',
+                    borderRadius: '999px',
                   }}
                 >
                   <div
                     style={{
                       fontSize: '36px',
-                      color: '#22c55e',
+                      color: 'hsl(205 71% 63%)',
                       fontWeight: 'bold',
                     }}
                   >
@@ -154,7 +172,7 @@ export async function GET(request: NextRequest) {
               <p
                 style={{
                   fontSize: '28px',
-                  color: '#94a3b8',
+                  color: 'hsl(240 5% 65%)',
                   textAlign: 'center',
                 }}
               >
@@ -166,6 +184,10 @@ export async function GET(request: NextRequest) {
         {
           width: 1200,
           height: 630,
+          fonts: [
+            { name: 'Inter', data: interRegular, weight: 500, style: 'normal' },
+            { name: 'Inter', data: interBold, weight: 700, style: 'normal' },
+          ],
         }
       );
     }
@@ -176,15 +198,11 @@ export async function GET(request: NextRequest) {
         (
           <div
             style={{
-              height: '100%',
-              width: '100%',
-              display: 'flex',
+              ...baseContainerStyle,
               flexDirection: 'column',
               alignItems: 'flex-start',
               justifyContent: 'space-between',
-              backgroundColor: '#0a0a0a',
-              backgroundImage: 'radial-gradient(circle at 25px 25px, #1e293b 2%, transparent 0%), radial-gradient(circle at 75px 75px, #1e293b 2%, transparent 0%)',
-              backgroundSize: '100px 100px',
+              ...backgroundStyle,
               padding: '60px',
             }}
           >
@@ -193,13 +211,14 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     display: 'inline-block',
-                    padding: '12px 24px',
-                    backgroundColor: 'rgba(59, 130, 246, 0.2)',
-                    border: '2px solid rgba(59, 130, 246, 0.5)',
-                    borderRadius: '12px',
+                    padding: '10px 22px',
+                    backgroundColor: 'hsl(205 71% 45% / 0.16)',
+                    border: '1px solid hsl(205 71% 45% / 0.35)',
+                    borderRadius: '999px',
                     fontSize: '24px',
-                    color: '#60a5fa',
+                    color: 'hsl(205 71% 63%)',
                     fontWeight: 'bold',
+                    letterSpacing: '0.5px',
                   }}
                 >
                   {category}
@@ -209,9 +228,10 @@ export async function GET(request: NextRequest) {
                 style={{
                   fontSize: '64px',
                   fontWeight: 'bold',
-                  color: '#f1f5f9',
+                  color: 'hsl(0 0% 98%)',
                   lineHeight: '1.2',
                   maxWidth: '1000px',
+                  letterSpacing: '-0.5px',
                 }}
               >
                 {title}
@@ -222,12 +242,12 @@ export async function GET(request: NextRequest) {
                     display: 'flex',
                     alignItems: 'center',
                     gap: '12px',
-                    padding: '16px 28px',
-                    backgroundColor: 'rgba(34, 197, 94, 0.15)',
-                    border: '2px solid rgba(34, 197, 94, 0.4)',
-                    borderRadius: '12px',
+                    padding: '14px 24px',
+                    backgroundColor: 'hsl(205 71% 45% / 0.16)',
+                    border: '1px solid hsl(205 71% 45% / 0.35)',
+                    borderRadius: '999px',
                     fontSize: '28px',
-                    color: '#22c55e',
+                    color: 'hsl(205 71% 63%)',
                     fontWeight: 'bold',
                   }}
                 >
@@ -245,7 +265,7 @@ export async function GET(request: NextRequest) {
               <p
                 style={{
                   fontSize: '28px',
-                  color: '#94a3b8',
+                  color: 'hsl(240 5% 65%)',
                 }}
               >
                 Hashtag Web3
@@ -255,13 +275,13 @@ export async function GET(request: NextRequest) {
                   width: '8px',
                   height: '8px',
                   borderRadius: '50%',
-                  backgroundColor: '#60a5fa',
+                  backgroundColor: 'hsl(205 71% 55%)',
                 }}
               />
               <p
                 style={{
                   fontSize: '28px',
-                  color: '#94a3b8',
+                  color: 'hsl(240 5% 65%)',
                 }}
               >
                 {date}
@@ -272,6 +292,10 @@ export async function GET(request: NextRequest) {
         {
           width: 1200,
           height: 630,
+          fonts: [
+            { name: 'Inter', data: interRegular, weight: 500, style: 'normal' },
+            { name: 'Inter', data: interBold, weight: 700, style: 'normal' },
+          ],
         }
       );
     }
@@ -282,39 +306,29 @@ export async function GET(request: NextRequest) {
         (
           <div
             style={{
-              height: '100%',
-              width: '100%',
-              display: 'flex',
+              ...baseContainerStyle,
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              backgroundColor: '#0a0a0a',
-              backgroundImage: 'radial-gradient(circle at 25px 25px, #1e293b 2%, transparent 0%), radial-gradient(circle at 75px 75px, #1e293b 2%, transparent 0%)',
-              backgroundSize: '100px 100px',
+              ...backgroundStyle,
             }}
           >
             <div
               style={{
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'center',
-                justifyContent: 'center',
-                padding: '60px',
-                backgroundColor: 'rgba(15, 23, 42, 0.95)',
-                borderRadius: '24px',
-                border: '2px solid rgba(59, 130, 246, 0.5)',
-                maxWidth: '900px',
+                ...baseCardStyle,
+                maxWidth: '980px',
               }}
             >
               <h1
                 style={{
                   fontSize: '64px',
                   fontWeight: 'bold',
-                  background: 'linear-gradient(to right, #60a5fa, #a78bfa)',
+                  background: 'linear-gradient(90deg, hsl(205 71% 45%) 0%, hsl(205 71% 55%) 60%, hsl(205 71% 63%) 100%)',
                   backgroundClip: 'text',
                   color: 'transparent',
                   marginBottom: '24px',
                   textAlign: 'center',
+                  letterSpacing: '-0.5px',
                 }}
               >
                 {title}
@@ -323,7 +337,7 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     fontSize: '40px',
-                    color: '#f1f5f9',
+                    color: 'hsl(0 0% 98%)',
                     marginBottom: '16px',
                   }}
                 >
@@ -333,7 +347,7 @@ export async function GET(request: NextRequest) {
               <p
                 style={{
                   fontSize: '28px',
-                  color: '#94a3b8',
+                  color: 'hsl(240 5% 65%)',
                   textAlign: 'center',
                 }}
               >
@@ -345,6 +359,10 @@ export async function GET(request: NextRequest) {
         {
           width: 1200,
           height: 630,
+          fonts: [
+            { name: 'Inter', data: interRegular, weight: 500, style: 'normal' },
+            { name: 'Inter', data: interBold, weight: 700, style: 'normal' },
+          ],
         }
       );
     }
@@ -353,20 +371,22 @@ export async function GET(request: NextRequest) {
       (
         <div
           style={{
-            height: '100%',
-            width: '100%',
-            display: 'flex',
+            ...baseContainerStyle,
             alignItems: 'center',
             justifyContent: 'center',
-            backgroundColor: '#0a0a0a',
+            backgroundColor: 'hsl(240 6% 10%)',
           }}
         >
-          <h1 style={{ fontSize: '48px', color: '#fff' }}>Invalid template type</h1>
+          <h1 style={{ fontSize: '48px', color: 'hsl(0 0% 98%)', fontWeight: '700' }}>Invalid template type</h1>
         </div>
       ),
       {
         width: 1200,
         height: 630,
+        fonts: [
+          { name: 'Inter', data: interRegular, weight: 500, style: 'normal' },
+          { name: 'Inter', data: interBold, weight: 700, style: 'normal' },
+        ],
       }
     );
   } catch (e: any) {

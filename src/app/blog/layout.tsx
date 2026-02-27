@@ -2,7 +2,7 @@
 import type { Metadata } from 'next';
 
 const siteUrl = 'https://hashtagweb3.com';
-const ogImageUrl = `${siteUrl}/api/og?type=article&title=Web3 Career Guides 2026&category=Career Resources&salary=$120K+ Salaries&date=2026`;
+const ogImageUrl = `${siteUrl}/og-image-blog.png`;
 
 export const metadata: Metadata = {
   title: 'Web3 Playbook | Practical Career Guides and Tech Deep Dives',
