@@ -10,6 +10,12 @@ build: npm run build
 # The command to start your app.
 serve: npm run start
 
+env:
+  - variable: NEXT_PUBLIC_POSTHOG_KEY
+    value: phc_KjSiNbbK5PNCGDgs2s7kYefJ2kwoSNR0JjLKFg6CuRj
+  - variable: NEXT_PUBLIC_POSTHOG_HOST
+    value: https://us.i.posthog.com
+
 runConfig:
   # Increase this value if you'd like to automatically spin up
   # more instances in response to increased traffic.

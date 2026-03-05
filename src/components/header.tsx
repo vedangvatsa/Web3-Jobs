@@ -22,6 +22,7 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
 } from "@/components/ui/dropdown-menu"
+import { trackCTAClick, trackOutboundClick } from '@/lib/posthog'
 
 export function Header() {
     const mainNavLinks: Array<{ href: string; label: string; icon: any; target?: string }> = [
@@ -141,7 +142,7 @@ export function Header() {
                         </DropdownMenuContent>
                     </DropdownMenu>
 
-                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" onClick={() => trackCTAClick('post_a_job', 'https://t.me/web3jobs_rep')}>
                         <Button size="sm">Post a Job</Button>
                     </a>
                 </nav>
@@ -158,7 +159,7 @@ export function Header() {
                            <div className="p-4 flex items-center justify-center border-b bg-secondary/50">
                                 <div className="flex items-center gap-6">
                                      {socialLinks.map((link) => (
-                                        <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
+                                        <a key={link.label} href={link.href} target="_blank" rel="noopener noreferrer" onClick={() => trackOutboundClick(link.href, link.label)} className="text-muted-foreground transition-colors hover:text-foreground" aria-label={link['aria-label']}>
                                             <link.icon size={24} />
                                             <span className="sr-only">{link.label}</span>
                                         </a>
@@ -168,7 +169,7 @@ export function Header() {
                             <nav className="flex-grow flex flex-col p-4 overflow-y-auto">
                                 <div className="flex-grow space-y-2">
                                  <SheetClose asChild>
-                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
+                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" onClick={() => trackCTAClick('post_a_job', 'https://t.me/web3jobs_rep')} className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
                                         <Briefcase className="h-5 w-5" />
                                         <span>Post a Job</span>
                                     </a>

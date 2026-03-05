@@ -3,6 +3,7 @@
 
 import * as React from 'react';
 import { Header } from '@/components/header';
+import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import {
   Accordion,
   AccordionContent,
@@ -160,6 +161,7 @@ export default function InterviewQuestionBankPage() {
 
   return (
     <div className="flex flex-col min-h-screen">
+      <ToolUsageTracker toolName="Interview Questions" />
       <Header />
       <main className="flex-grow">
           <div className="container mx-auto px-4 py-8 md:py-16">
