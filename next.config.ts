@@ -23,6 +23,17 @@ const nextConfig: NextConfig = {
         destination: 'https://hashtagweb3.com/:path*',
         permanent: true,
       },
+      {
+        source: '/blog/:slug',
+        destination: '/:slug',
+        permanent: true,
+      },
+      {
+        source:
+          '/glossary/:slug((?!blockchain-fundamentals|cryptocurrencies|defi|nfts|smart-contracts|protocols|governance|security|trading|technical$).*)',
+        destination: '/:slug',
+        permanent: true,
+      },
     ]
   },
   async headers() {
