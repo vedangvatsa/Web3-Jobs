@@ -8,7 +8,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Glossary - Complete Guide to Blockchain & Crypto Terms',
-  description: 'Comprehensive glossary of Web3, blockchain, cryptocurrency, DeFi, and NFT terminology. Learn the language of decentralized technology.',
+  description: 'Web3 glossary covering blockchain, cryptocurrency, DeFi, and NFT terminology with plain-language explanations.',
   alternates: {
     canonical: '/glossary',
   },

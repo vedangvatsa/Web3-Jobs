@@ -27,7 +27,7 @@ import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { Button } from '@/components/ui/button';
 
 const employeeResources = [
-    { href: "/interview-questions", label: "Interview Questions", icon: BookOpen, description: "Ace your next Web3 interview with our comprehensive question bank." },
+    { href: "/interview-questions", label: "Interview Questions", icon: BookOpen, description: "Practice with 200+ Web3 interview questions across technical and non-technical roles." },
     { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit, description: "Discover your Web3 personality and the career paths that match." },
     { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator, description: "Estimate your potential salary in the Web3 industry." },
     { href: "/freelance-rates-by-industry", label: "Freelance Rates by Industry", icon: DollarSign, description: "Benchmark freelance hourly and project rates across industries and roles." },
@@ -40,7 +40,7 @@ const employeeResources = [
 const employerResources = [
     { href: "/jd-builder", label: "JD Builder", icon: ClipboardEdit, description: "Craft the perfect job description to attract top Web3 talent." },
     { href: "/offer-letter-customizer", label: "Offer Letter Customizer", icon: FileSignature, description: "Generate professional, customizable offer letters for new hires." },
-    { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks, description: "A comprehensive checklist for successfully onboarding new Web3 hires." },
+    { href: "/employee-onboarding-checklist", label: "Onboarding Checklist", icon: ListChecks, description: "Run a structured onboarding process for new Web3 hires." },
     { href: "/interview-feedback-template", label: "Interview Feedback", icon: Mic, description: "Standardize your hiring process with our structured feedback template." },
     { href: "/employee-exit-survey", label: "Employee Exit Survey", icon: UserMinus, description: "Gather valuable insights from departing team members." },
     { href: "/employee-milestones-tracker", label: "Milestones Tracker", icon: Milestone, description: "Create structured 30-60-90 day plans for new employees." },
