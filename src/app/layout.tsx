@@ -139,8 +139,19 @@ export default async function RootLayout({
                 __html: `
                   window.dataLayer = window.dataLayer || [];
                   function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-FYBLPS87X0');
+                  const GA_ID = 'G-FYBLPS87X0';
+                  const ALLOWED_HOSTS = ['hashtagweb3.com', 'www.hashtagweb3.com'];
+                  const currentHost = window.location.hostname;
+                  const isAllowedHost = ALLOWED_HOSTS.includes(currentHost);
+
+                  if (!isAllowedHost) {
+                    window['ga-disable-' + GA_ID] = true;
+                  } else {
+                    gtag('js', new Date());
+                    gtag('config', GA_ID, {
+                      send_page_view: true,
+                    });
+                  }
                 `,
               }}
             />
