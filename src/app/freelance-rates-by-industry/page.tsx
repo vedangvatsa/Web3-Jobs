@@ -149,6 +149,7 @@ export default function FreelanceRatesByIndustryPage() {
           </section>
 
         <section className="max-w-6xl mx-auto">
+          <h2 className="sr-only">Freelance rate calculator and benchmarks</h2>
           <div className="mb-8 grid gap-6 md:grid-cols-2">
             <Card>
               <CardHeader>
@@ -267,6 +268,7 @@ export default function FreelanceRatesByIndustryPage() {
             <CardContent>
               <div className="overflow-x-auto">
                 <table className="w-full text-sm">
+                  <caption className="sr-only">Freelance hourly and project rate benchmarks by industry</caption>
                   <thead>
                     <tr className="border-b text-left">
                       <th className="py-3 pr-4 font-semibold">Industry</th>
@@ -334,6 +336,26 @@ export default function FreelanceRatesByIndustryPage() {
               </CardContent>
             </Card>
           </div>
+
+          <Card className="mt-8">
+            <CardHeader>
+              <CardTitle>Frequently Asked Questions</CardTitle>
+            </CardHeader>
+            <CardContent className="space-y-5 text-sm text-muted-foreground">
+              <div>
+                <h3 className="font-semibold text-foreground">How do I estimate my freelance hourly rate?</h3>
+                <p className="mt-1">Set an annual income target, divide by realistic billable hours, then adjust for experience, demand, and complexity.</p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-foreground">Should I charge hourly or per project?</h3>
+                <p className="mt-1">Charge hourly when scope is fluid. Charge per project when scope and outputs are defined.</p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-foreground">Why do rates vary by region?</h3>
+                <p className="mt-1">Rates move with local demand, purchasing power, talent supply, and client budgets. Specialized skills still command a premium globally.</p>
+              </div>
+            </CardContent>
+          </Card>
 
           <Card className="mt-10 max-w-5xl mx-auto bg-primary/5 border-primary/20">
             <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">

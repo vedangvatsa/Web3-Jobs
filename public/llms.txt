@@ -84,6 +84,10 @@ page: /resources
 title: Web3 Career Resources
 description: Comprehensive collection of curated resources for Web3 professionals. Find guides, tools, industry reports, learning materials, and best practices for advancing your Web3 career.
 ---
+page: /freelance-rates-by-industry
+title: Freelance Rates by Industry (2026)
+description: Compare freelance hourly and project pricing benchmarks by industry. Estimate your rate by experience, region, and engagement model.
+---
 page: /employee-milestones-tracker
 title: Employee Milestones Tracker
 description: A free tool to help you create a structured plan for tracking employee milestones and career progression. Set clear goals for 30, 60, and 90 days.
