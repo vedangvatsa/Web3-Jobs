@@ -3,7 +3,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
-import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, BarChart, Smile, Scale, Building2, Library } from 'lucide-react';
+import { Menu, Linkedin, Twitter, Users, GraduationCap, Newspaper, Calculator, DollarSign, FileText, Globe, ListChecks, BookOpen, ChevronDown, Send, BrainCircuit, FileSignature, Rss, Briefcase, ClipboardEdit, UserMinus, Mic, Milestone, BarChart, Smile, Scale, Building2, Library } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import Script from 'next/script';
@@ -42,6 +42,7 @@ export function Header() {
         { href: "/interview-questions", label: "Interview Questions", icon: BookOpen },
         { href: "/web3-career-quiz", label: "Archetype Assessment", icon: BrainCircuit },
         { href: "/salary-calculator", label: "Salary Calculator", icon: Calculator },
+        { href: "/freelance-rates-by-industry", label: "Freelance Rates by Industry", icon: DollarSign },
         { href: "/resume-builder", label: "Resume Builder", icon: FileSignature },
         { href: "/invoice-generator", label: "Invoice Generator", icon: FileText },
         { href: "/digital-nomad-visas", label: "Digital Nomad Visas", icon: Globe },
