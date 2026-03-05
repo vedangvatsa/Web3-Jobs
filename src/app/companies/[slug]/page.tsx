@@ -9,6 +9,8 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import type { JobPosting, Organization, WithContext } from 'schema-dts';
 import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
+import { CompanyApplyButton } from '@/components/tracking/company-apply-button';
+import { OutboundLink } from '@/components/tracking/outbound-link';
 
 export const revalidate = 3600; // Revalidate every hour
 
@@ -174,14 +176,13 @@ export default async function CompanyPage({ params }: { params: { slug: string }
                     {company.website && (
                       <div className="flex items-center gap-2">
                         <ExternalLink className="h-5 w-5 text-primary" />
-                        <a 
-                          href={company.website} 
-                          target="_blank" 
-                          rel="noopener noreferrer"
+                        <OutboundLink
+                          href={company.website}
+                          label={`${company.name} website`}
                           className="text-sm hover:text-primary transition-colors"
                         >
                           Visit Website
-                        </a>
+                        </OutboundLink>
                       </div>
                     )}
                   </div>
@@ -285,12 +286,12 @@ export default async function CompanyPage({ params }: { params: { slug: string }
                             <Badge variant="outline">{categorizeJob(job.title)}</Badge>
                           </CardDescription>
                         </div>
-                        <Link href={job.link} target="_blank" rel="noopener noreferrer">
-                          <Button>
-                            Apply Now
-                            <ExternalLink className="ml-2 h-4 w-4" />
-                          </Button>
-                        </Link>
+                        <CompanyApplyButton
+                          jobId={job.id}
+                          jobTitle={job.title}
+                          companyName={company.name}
+                          jobUrl={job.link}
+                        />
                       </div>
                     </CardHeader>
                   </Card>

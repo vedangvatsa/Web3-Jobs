@@ -6,6 +6,7 @@ import { Header } from '@/components/header';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card';
 import Link from 'next/link';
 import { ExternalLink, Rss, Newspaper, ArrowRight } from 'lucide-react';
+import { trackNewsClick, trackCTAClick } from '@/lib/posthog';
 import { Badge } from '@/components/ui/badge';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { Button } from '@/components/ui/button';
@@ -142,7 +143,7 @@ export default function NewsPage() {
                           </Badge>
                         </div>
                         <CardTitle className="text-xl">
-                          <a href={item.link} target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                          <a href={item.link} target="_blank" rel="noopener noreferrer" onClick={() => trackNewsClick(item.title, item.link, item.source)} className="hover:text-primary transition-colors">
                             {item.title}
                           </a>
                         </CardTitle>
@@ -152,7 +153,7 @@ export default function NewsPage() {
                       </CardContent>
                       <CardFooter className="flex justify-between items-center">
                         <p className="text-xs text-muted-foreground font-medium">{item.creator}</p>
-                        <a href={item.link} target="_blank" rel="noopener noreferrer" className="flex items-center text-sm text-primary font-semibold hover:underline">
+                        <a href={item.link} target="_blank" rel="noopener noreferrer" onClick={() => trackNewsClick(item.title, item.link, item.source)} className="flex items-center text-sm text-primary font-semibold hover:underline">
                           Read More <ExternalLink className="ml-1 h-4 w-4" />
                         </a>
                       </CardFooter>
@@ -170,7 +171,7 @@ export default function NewsPage() {
                           <h3 className="text-xl font-bold text-primary mb-1">Stay Ahead with Our News Feed</h3>
                           <p className="text-muted-foreground">Get the latest updates, trends, and insights from the Web3 space, delivered directly to your Telegram.</p>
                       </div>
-                      <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
+                      <a href="https://t.me/web3newsfeed" target="_blank" rel="noopener noreferrer" onClick={() => trackCTAClick('join_news_feed', 'https://t.me/web3newsfeed')} className="flex-shrink-0 mt-4 md:mt-0">
                           <Button size="lg">
                               Join News Feed <ArrowRight className="ml-2 h-4 w-4"/>
                           </Button>
