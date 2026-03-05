@@ -1,51 +1,123 @@
+ 'use client';
+
 import { Header } from '@/components/header';
 import Link from 'next/link';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
+import { Label } from '@/components/ui/label';
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from '@/components/ui/select';
+import { Slider } from '@/components/ui/slider';
 import { ArrowRight, DollarSign, FileText } from 'lucide-react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { useMemo, useState } from 'react';
 
 const rateRows = [
   {
+    key: 'software',
     industry: 'Software Development',
-    hourly: '$50 - $150/hr',
+    hourlyMin: 50,
+    hourlyMax: 150,
     project: '$2,000 - $25,000+',
     roles: 'Frontend, Backend, Full Stack, Smart Contract',
   },
   {
+    key: 'design',
     industry: 'Design',
-    hourly: '$35 - $120/hr',
+    hourlyMin: 35,
+    hourlyMax: 120,
     project: '$800 - $12,000+',
     roles: 'UI/UX, Brand, Product Design, Motion',
   },
   {
+    key: 'marketing',
     industry: 'Marketing',
-    hourly: '$30 - $110/hr',
+    hourlyMin: 30,
+    hourlyMax: 110,
     project: '$600 - $10,000+',
     roles: 'Performance, SEO, Growth, Content Marketing',
   },
   {
+    key: 'content',
     industry: 'Content & Writing',
-    hourly: '$25 - $90/hr',
+    hourlyMin: 25,
+    hourlyMax: 90,
     project: '$150 - $5,000+',
     roles: 'Blog Writing, Technical Writing, Copywriting',
   },
   {
+    key: 'ops',
     industry: 'Operations & Virtual Support',
-    hourly: '$15 - $55/hr',
+    hourlyMin: 15,
+    hourlyMax: 55,
     project: '$200 - $3,500+',
     roles: 'Admin, Customer Support, Research, PMO Support',
   },
   {
+    key: 'video',
     industry: 'Video & Creative Production',
-    hourly: '$35 - $140/hr',
+    hourlyMin: 35,
+    hourlyMax: 140,
     project: '$500 - $15,000+',
     roles: 'Video Editing, Animation, Short-form Creative',
   },
 ];
 
+const experienceMultipliers: Record<string, number> = {
+  '0-1': 0.8,
+  '2-4': 1.0,
+  '5-8': 1.25,
+  '9+': 1.55,
+};
+
+const regionMultipliers: Record<string, number> = {
+  'north-america': 1.25,
+  europe: 1.1,
+  apac: 0.9,
+  latam: 0.75,
+  africa: 0.7,
+};
+
+const modelMultipliers: Record<string, number> = {
+  hourly: 1,
+  retainer: 0.9,
+  urgent: 1.2,
+};
+
 export default function FreelanceRatesByIndustryPage() {
+  const [industry, setIndustry] = useState('software');
+  const [experience, setExperience] = useState('2-4');
+  const [region, setRegion] = useState('north-america');
+  const [engagementModel, setEngagementModel] = useState('hourly');
+  const [hours, setHours] = useState(40);
+
+  const selectedIndustry = rateRows.find((row) => row.key === industry) ?? rateRows[0];
+
+  const estimate = useMemo(() => {
+    const multiplier =
+      experienceMultipliers[experience] *
+      regionMultipliers[region] *
+      modelMultipliers[engagementModel];
+
+    const hourlyLow = Math.round(selectedIndustry.hourlyMin * multiplier);
+    const hourlyHigh = Math.round(selectedIndustry.hourlyMax * multiplier);
+    const projectLow = hourlyLow * hours;
+    const projectHigh = hourlyHigh * hours;
+
+    return {
+      hourlyLow,
+      hourlyHigh,
+      projectLow,
+      projectHigh,
+    };
+  }, [selectedIndustry, experience, region, engagementModel, hours]);
+
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <Header />
@@ -62,14 +134,122 @@ export default function FreelanceRatesByIndustryPage() {
                 Freelance Rates by Industry
               </h1>
               <p className="mt-4 text-lg text-muted-foreground">
-                Use these ranges to price your services, evaluate proposals, and negotiate better.
-                Rates vary by experience, complexity, delivery speed, and niche specialization.
+                Use this benchmark tool to set pricing with confidence. Select your industry,
+                experience, region, and engagement model to get a realistic hourly and project range.
               </p>
             </div>
           </div>
         </section>
 
         <section className="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+          <div className="mb-8 grid gap-6 md:grid-cols-2">
+            <Card>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-2">
+                  <DollarSign className="h-5 w-5 text-primary" />
+                  Rate Estimator
+                </CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-5">
+                <div className="space-y-2">
+                  <Label>Industry</Label>
+                  <Select value={industry} onValueChange={setIndustry}>
+                    <SelectTrigger>
+                      <SelectValue placeholder="Select industry" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      {rateRows.map((row) => (
+                        <SelectItem key={row.key} value={row.key}>
+                          {row.industry}
+                        </SelectItem>
+                      ))}
+                    </SelectContent>
+                  </Select>
+                </div>
+
+                <div className="space-y-2">
+                  <Label>Experience</Label>
+                  <Select value={experience} onValueChange={setExperience}>
+                    <SelectTrigger>
+                      <SelectValue placeholder="Select experience" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectItem value="0-1">0–1 years</SelectItem>
+                      <SelectItem value="2-4">2–4 years</SelectItem>
+                      <SelectItem value="5-8">5–8 years</SelectItem>
+                      <SelectItem value="9+">9+ years</SelectItem>
+                    </SelectContent>
+                  </Select>
+                </div>
+
+                <div className="space-y-2">
+                  <Label>Region</Label>
+                  <Select value={region} onValueChange={setRegion}>
+                    <SelectTrigger>
+                      <SelectValue placeholder="Select region" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectItem value="north-america">North America</SelectItem>
+                      <SelectItem value="europe">Europe</SelectItem>
+                      <SelectItem value="apac">APAC</SelectItem>
+                      <SelectItem value="latam">LATAM</SelectItem>
+                      <SelectItem value="africa">Africa</SelectItem>
+                    </SelectContent>
+                  </Select>
+                </div>
+
+                <div className="space-y-2">
+                  <Label>Engagement model</Label>
+                  <Select value={engagementModel} onValueChange={setEngagementModel}>
+                    <SelectTrigger>
+                      <SelectValue placeholder="Select model" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectItem value="hourly">Standard hourly</SelectItem>
+                      <SelectItem value="retainer">Monthly retainer</SelectItem>
+                      <SelectItem value="urgent">Urgent / rush delivery</SelectItem>
+                    </SelectContent>
+                  </Select>
+                </div>
+
+                <div className="space-y-3">
+                  <Label>Estimated project hours: {hours}</Label>
+                  <Slider
+                    min={10}
+                    max={200}
+                    step={5}
+                    value={[hours]}
+                    onValueChange={(values) => setHours(values[0])}
+                  />
+                </div>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardHeader>
+                <CardTitle>Estimated pricing range</CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-4">
+                <div className="rounded-lg border bg-primary/5 p-4">
+                  <p className="text-sm text-muted-foreground">Hourly range</p>
+                  <p className="text-2xl font-bold">
+                    ${estimate.hourlyLow} - ${estimate.hourlyHigh} / hr
+                  </p>
+                </div>
+                <div className="rounded-lg border bg-primary/5 p-4">
+                  <p className="text-sm text-muted-foreground">Project range ({hours}h)</p>
+                  <p className="text-2xl font-bold">
+                    ${estimate.projectLow.toLocaleString()} - ${estimate.projectHigh.toLocaleString()}
+                  </p>
+                </div>
+                <div className="text-sm text-muted-foreground space-y-1">
+                  <p>Industry baseline: ${selectedIndustry.hourlyMin} - ${selectedIndustry.hourlyMax} / hr</p>
+                  <p>Calculation = baseline × experience × region × engagement model</p>
+                </div>
+              </CardContent>
+            </Card>
+          </div>
+
           <Card>
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
@@ -92,7 +272,7 @@ export default function FreelanceRatesByIndustryPage() {
                     {rateRows.map((row) => (
                       <tr key={row.industry} className="border-b align-top">
                         <td className="py-3 pr-4 font-medium">{row.industry}</td>
-                        <td className="py-3 pr-4">{row.hourly}</td>
+                        <td className="py-3 pr-4">${row.hourlyMin} - ${row.hourlyMax}/hr</td>
                         <td className="py-3 pr-4">{row.project}</td>
                         <td className="py-3">{row.roles}</td>
                       </tr>
@@ -102,8 +282,8 @@ export default function FreelanceRatesByIndustryPage() {
               </div>
 
               <p className="mt-5 text-xs text-muted-foreground">
-                Note: These are directional market ranges compiled from public freelance marketplaces,
-                independent consultant pricing pages, and agency benchmarks.
+                Note: Benchmarks are directional and should be adjusted for deliverable complexity,
+                revision scope, timezone overlap, and payment terms.
               </p>
             </CardContent>
           </Card>
@@ -147,6 +327,27 @@ export default function FreelanceRatesByIndustryPage() {
               </CardContent>
             </Card>
           </div>
+
+          <Card className="mt-10 max-w-5xl mx-auto bg-primary/5 border-primary/20">
+            <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
+              <div>
+                <h3 className="text-xl font-bold text-primary mb-1">Need paid Web3 opportunities?</h3>
+                <p className="text-muted-foreground">Apply to active roles or pitch your services to teams hiring now.</p>
+              </div>
+              <div className="flex gap-3">
+                <Link href="/jobs" className="flex-shrink-0 mt-4 md:mt-0">
+                  <Button size="lg">
+                    Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
+                  </Button>
+                </Link>
+                <Link href="/companies" className="flex-shrink-0 mt-4 md:mt-0">
+                  <Button size="lg" variant="outline">
+                    Explore Companies
+                  </Button>
+                </Link>
+              </div>
+            </CardContent>
+          </Card>
         </section>
       </main>
     </div>
