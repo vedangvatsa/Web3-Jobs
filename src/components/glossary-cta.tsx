@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { Card, CardContent } from '@/components/ui/card';
 import { ArrowRight, Briefcase, BookOpen } from 'lucide-react';
+import { trackCTAClick } from '@/lib/posthog';
 
 interface GlossaryCTAProps {
   termName: string;
@@ -22,8 +23,9 @@ export function GlossaryCTA({ termName }: GlossaryCTAProps) {
               <p className="text-sm text-muted-foreground mb-4">
                 Explore positions at companies working with {termName} technology
               </p>
-              <Link 
-                href="/jobs" 
+              <Link
+                href="/jobs"
+                onClick={() => trackCTAClick('glossary_browse_jobs', `/jobs`)}
                 className="inline-flex items-center text-sm font-medium text-primary hover:underline"
               >
                 Browse open roles
@@ -45,8 +47,9 @@ export function GlossaryCTA({ termName }: GlossaryCTAProps) {
               <p className="text-sm text-muted-foreground mb-4">
                 Read in-depth articles and guides about Web3 careers and technology
               </p>
-              <Link 
-                href="/blog" 
+              <Link
+                href="/blog"
+                onClick={() => trackCTAClick('glossary_explore_blog', `/blog`)}
                 className="inline-flex items-center text-sm font-medium hover:underline"
               >
                 Explore the blog

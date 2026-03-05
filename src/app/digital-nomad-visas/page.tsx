@@ -13,6 +13,7 @@ import { Search, Globe, Briefcase, ArrowRight, Wallet, CalendarDays, FileCheck2,
 import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
+import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
     return (
@@ -113,6 +114,7 @@ function DigitalNomadVisasContent() {
 
     return (
         <div className="flex flex-col min-h-screen">
+            <ToolUsageTracker toolName="Digital Nomad Visas" />
             <Header />
             <main className="flex-grow">
                 <div className="container mx-auto px-4 py-8 md:py-16">
