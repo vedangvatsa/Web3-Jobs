@@ -116,6 +116,32 @@ export const trackOutboundClick = (url: string, linkText?: string) => {
   }
 }
 
+// Track key conversion CTAs (Post a Job, Telegram joins, etc.)
+export const trackCTAClick = (ctaName: string, destination: string) => {
+  if (typeof window !== 'undefined' && posthog) {
+    posthog.capture('cta_clicked', {
+      cta_name: ctaName,
+      destination,
+      page_location: window.location.pathname,
+    })
+  }
+}
+
+// Track news article clicks with source attribution
+export const trackNewsClick = (
+  articleTitle: string,
+  articleUrl: string,
+  source: string
+) => {
+  if (typeof window !== 'undefined' && posthog) {
+    posthog.capture('news_article_clicked', {
+      article_title: articleTitle,
+      article_url: articleUrl,
+      news_source: source,
+    })
+  }
+}
+
 export const identifyUser = (userId: string, traits?: Record<string, any>) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.identify(userId, traits)

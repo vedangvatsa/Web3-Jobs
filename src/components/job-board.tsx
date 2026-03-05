@@ -11,6 +11,7 @@ import { JobEmailCaptureDialog } from './job-email-capture-dialog';
 import { JobApplicationButton } from './tracking/job-application-button';
 import { JobViewTracker } from './tracking/job-view-tracker';
 import { SearchTracker } from './tracking/search-tracker';
+import { trackJobApplicationClick } from '@/lib/posthog';
 
 function JobCardSkeleton() {
     return (
@@ -68,7 +69,7 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {!isPending && filteredJobs.map((job) => (
                       captureEmail ? (
-                         <div key={job.id} onClick={() => setSelectedJob(job)} className="block h-full cursor-pointer transform transition-all duration-200 hover:-translate-y-1">
+                         <div key={job.id} onClick={() => { trackJobApplicationClick(job.id, job.title, job.company); setSelectedJob(job); }} className="block h-full cursor-pointer transform transition-all duration-200 hover:-translate-y-1">
                            <JobViewTracker job={job} />
                            <JobCard job={job} />
                         </div>
