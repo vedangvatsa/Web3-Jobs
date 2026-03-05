@@ -16,6 +16,7 @@ import {
 import { Slider } from '@/components/ui/slider';
 import { ArrowRight, DollarSign, FileText } from 'lucide-react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { useMemo, useState } from 'react';
 
 const rateRows = [
@@ -118,30 +119,36 @@ export default function FreelanceRatesByIndustryPage() {
     };
   }, [selectedIndustry, experience, region, engagementModel, hours]);
 
+  const headlines = [
+    'Freelance Rates by Industry',
+    'Benchmark Your Pricing',
+    'Set Better Freelance Rates',
+    'Price by Data, Not Guesswork',
+  ];
+
   return (
     <div className="flex min-h-screen flex-col bg-background">
       <Header />
       <main className="flex-1">
         <ToolUsageTracker toolName="Freelance Rates by Industry" />
 
-        <section className="border-b">
-          <div className="container mx-auto max-w-6xl px-4 py-12 md:py-16">
-            <div className="max-w-3xl">
-              <Badge variant="secondary" className="mb-4">
-                2026 Benchmarks
-              </Badge>
-              <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
-                Freelance Rates by Industry
-              </h1>
-              <p className="mt-4 text-lg text-muted-foreground">
-                Use this benchmark tool to set pricing with confidence. Select your industry,
-                experience, region, and engagement model to get a realistic hourly and project range.
-              </p>
+        <div className="container mx-auto px-4 py-8 md:py-16">
+          <section className="text-center mb-12 max-w-4xl mx-auto">
+            <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
+              <DollarSign className="h-10 w-10 text-primary" />
             </div>
-          </div>
-        </section>
+            <h1 className="sr-only">Freelance Rates by Industry</h1>
+            <TransitioningHeadline phrases={headlines} />
+            <p className="mt-4 text-muted-foreground">
+              Compare benchmark ranges by industry and estimate your pricing by experience,
+              region, and project scope.
+            </p>
+            <Badge variant="secondary" className="mt-4">
+              2026 Benchmarks
+            </Badge>
+          </section>
 
-        <section className="container mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <section className="max-w-6xl mx-auto">
           <div className="mb-8 grid gap-6 md:grid-cols-2">
             <Card>
               <CardHeader>
@@ -331,24 +338,18 @@ export default function FreelanceRatesByIndustryPage() {
           <Card className="mt-10 max-w-5xl mx-auto bg-primary/5 border-primary/20">
             <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
               <div>
-                <h3 className="text-xl font-bold text-primary mb-1">Need paid Web3 opportunities?</h3>
-                <p className="text-muted-foreground">Apply to active roles or pitch your services to teams hiring now.</p>
+                <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
+                <p className="text-muted-foreground">Now that you have pricing benchmarks, find high-intent roles on the #1 Web3 job board.</p>
               </div>
-              <div className="flex gap-3">
-                <Link href="/jobs" className="flex-shrink-0 mt-4 md:mt-0">
-                  <Button size="lg">
-                    Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
-                  </Button>
-                </Link>
-                <Link href="/companies" className="flex-shrink-0 mt-4 md:mt-0">
-                  <Button size="lg" variant="outline">
-                    Explore Companies
-                  </Button>
-                </Link>
-              </div>
+              <Link href="/jobs" className="flex-shrink-0 mt-4 md:mt-0">
+                <Button size="lg">
+                  Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
+                </Button>
+              </Link>
             </CardContent>
           </Card>
         </section>
+        </div>
       </main>
     </div>
   );
