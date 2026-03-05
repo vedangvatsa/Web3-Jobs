@@ -170,9 +170,8 @@ export function Header() {
                             <nav className="flex-grow flex flex-col p-4 overflow-y-auto">
                                 <div className="flex-grow space-y-2">
                                  <SheetClose asChild>
-                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" onClick={() => trackCTAClick('post_a_job', 'https://t.me/web3jobs_rep')} className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground">
-                                        <Briefcase className="h-5 w-5" />
-                                        <span>Post a Job</span>
+                                    <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" onClick={() => trackCTAClick('post_a_job', 'https://t.me/web3jobs_rep')}>
+                                        <Button className="w-full">Post a Job</Button>
                                     </a>
                                  </SheetClose>
                                 {mainNavLinks.map((link) => (
