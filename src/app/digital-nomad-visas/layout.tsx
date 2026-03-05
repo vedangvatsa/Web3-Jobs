@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
    openGraph: {
     title: 'Digital Nomad Visa List | Work From Anywhere',
-    description: 'Find the perfect country to work from with our comprehensive list of digital nomad visas for Web3 professionals.',
+    description: 'Browse digital nomad visa options with country-level details for Web3 professionals.',
     url: 'https://hashtagweb3.com/digital-nomad-visas',
     images: [
       {
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Digital Nomad Visa List | Work From Anywhere',
-    description: 'Find the perfect country to work from with our comprehensive list of digital nomad visas for Web3 professionals.',
+    description: 'Compare digital nomad visa options and eligibility details for remote Web3 work.',
     images: ['https://hashtagweb3.com/og-image-tools.png'],
   },
 };

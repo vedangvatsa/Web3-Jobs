@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Web3 Interview Question Bank | 200+ Questions',
-  description: 'The ultimate resource for Web3 interviews. Explore 200+ real questions for roles in Solidity, DeFi, Product Management, Security, and more.',
+  description: 'Web3 interview question bank with 200+ real questions for Solidity, DeFi, Product Management, Security, and related roles.',
   alternates: {
     canonical: '/interview-questions',
   },
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Web3 Interview Question Bank | 200+ Questions',
-    description: 'Ace your next Web3 interview with our comprehensive question bank.',
+    description: 'Prepare for Web3 interviews with a structured bank of 200+ role-based questions.',
     images: ['https://hashtagweb3.com/og-image.png'],
   },
 };

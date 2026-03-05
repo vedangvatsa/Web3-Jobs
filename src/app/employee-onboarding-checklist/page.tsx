@@ -115,7 +115,7 @@ export default function EmployeeOnboardingChecklistPage() {
                 <ClipboardCheck className="h-10 w-10 text-primary" />
             </div>
             <TransitioningHeadline phrases={headlines} />
-            <p className="mt-4 text-muted-foreground">The ultimate checklist for successfully onboarding new hires into a Web3 company or DAO.</p>
+            <p className="mt-4 text-muted-foreground">A practical onboarding checklist for Web3 teams, from pre-boarding to 90-day execution.</p>
           </section>
 
           <div className="max-w-5xl mx-auto space-y-8">
