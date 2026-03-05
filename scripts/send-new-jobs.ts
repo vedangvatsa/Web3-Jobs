@@ -3,25 +3,53 @@
 /**
  * Script to filter and send new job alerts from the past N days
  * Usage: npm run send-new-jobs -- --days 7 --limit 15
- * 
+ *
  * This script:
  * 1. Fetches all jobs from jobs-cache.json
  * 2. Filters jobs published in the last N days
  * 3. Sends emails to subscribers with new jobs
+ *
+ * Requires FIREBASE_SERVICE_ACCOUNT_KEY env var (base64-encoded service account JSON)
+ * or FIREBASE_SERVICE_ACCOUNT_JSON (raw JSON string).
  */
 
-import { collection, getDocs } from 'firebase/firestore';
-import { serverFirestore } from '../src/firebase/server-init';
+import * as admin from 'firebase-admin';
 import { getJobs } from '@/lib/jobs';
 import { sendBatchJobAlerts, type JobListing } from '@/lib/email';
+
+function initAdminFirestore(): admin.firestore.Firestore {
+  if (admin.apps.length) {
+    return admin.firestore();
+  }
+
+  const base64Key = process.env.FIREBASE_SERVICE_ACCOUNT_KEY;
+  const rawJson = process.env.FIREBASE_SERVICE_ACCOUNT_JSON;
+
+  if (!base64Key && !rawJson) {
+    throw new Error(
+      'No Firebase Admin credentials found.\n' +
+      'Set FIREBASE_SERVICE_ACCOUNT_KEY (base64-encoded) or FIREBASE_SERVICE_ACCOUNT_JSON (raw JSON).'
+    );
+  }
+
+  const serviceAccount = JSON.parse(
+    base64Key ? Buffer.from(base64Key, 'base64').toString('utf8') : rawJson!
+  );
+
+  admin.initializeApp({
+    credential: admin.credential.cert(serviceAccount),
+  });
+
+  return admin.firestore();
+}
 
 async function sendNewJobAlerts() {
   const args = process.argv.slice(2);
   const isDryRun = args.includes('--dry-run');
-  
+
   const daysIndex = args.indexOf('--days');
   const daysBack = daysIndex >= 0 ? parseInt(args[daysIndex + 1]) : 7;
-  
+
   const limitIndex = args.indexOf('--limit');
   const jobLimit = limitIndex >= 0 ? parseInt(args[limitIndex + 1]) : 15;
 
@@ -31,41 +59,42 @@ async function sendNewJobAlerts() {
   console.log(`Job limit: ${jobLimit}`);
   console.log('');
 
-  if (!serverFirestore) {
-    console.error('❌ Firebase is not initialized. Please ensure your .env file is set up correctly.');
-    process.exit(1);
-  }
-
   if (!process.env.RESEND_API_KEY) {
     console.error('❌ RESEND_API_KEY is missing');
     console.log('Get your API key from https://resend.com/api-keys');
     process.exit(1);
   }
 
+  let db: admin.firestore.Firestore;
   try {
-    // Fetch subscribers
+    db = initAdminFirestore();
+  } catch (err: any) {
+    console.error('❌ Firebase Admin init failed:', err.message);
+    process.exit(1);
+  }
+
+  try {
+    // Fetch subscribers via Admin SDK (bypasses Firestore security rules)
     console.log('📥 Fetching subscribers...');
-    const db = serverFirestore;
-    const subscribersCol = collection(db, 'subscribers');
-    const snapshot = await getDocs(subscribersCol);
+    const snapshot = await db.collection('subscribers').get();
 
     if (snapshot.empty) {
-      console.log('❌ No subscribers found');
+      console.log('⚠️  No subscribers found');
       process.exit(0);
     }
 
-    const emails = snapshot.docs.map(doc => doc.data().email).filter(Boolean);
+    const emails: string[] = snapshot.docs
+      .map(doc => doc.data().email as string)
+      .filter(Boolean);
     console.log(`✅ Found ${emails.length} subscribers`);
 
     // Fetch jobs and filter by date
     console.log(`📥 Fetching jobs from last ${daysBack} days...`);
     const allJobs = await getJobs();
-    
-    // Calculate date threshold
+
     const now = new Date();
     const thresholdDate = new Date(now.getTime() - daysBack * 24 * 60 * 60 * 1000);
-    
-    // Filter jobs published in the last N days, sort by date, limit
+
     const newJobs: JobListing[] = allJobs
       .filter((job: any) => {
         const jobDate = new Date(job.date);
@@ -104,7 +133,7 @@ async function sendNewJobAlerts() {
       process.exit(0);
     }
 
-    // Send emails via API
+    // Send emails
     console.log('📧 Sending emails...');
     const result = await sendBatchJobAlerts(emails, newJobs);
 
