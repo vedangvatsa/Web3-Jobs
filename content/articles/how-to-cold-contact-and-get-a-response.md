@@ -74,7 +74,7 @@ Structure your message (whether it's a Twitter DM, an email, or a LinkedIn messa
 -   **It's Respectful of Their Time:** "No need for a long reply" shows that you respect how busy they are and lowers the barrier for them to respond.
 -   **It Makes Them Curious:** A founder who receives this message is immediately going to think, "Who is this person who is thinking so deeply about my product?" They will click on your profile.
 
-This approach requires more effort than spamming a generic template, but it is infinitely more effective. By leading with value and demonstrating your expertise, you change how youself from a job applicant into a potential collaborator. In the competitive world of Web3, this is how you get noticed and start the conversations that lead to career-defining opportunities.
+This approach requires more effort than spamming a generic template, but it is infinitely more effective. By leading with value and demonstrating your expertise, you position yourself from a job applicant into a potential collaborator. In the competitive world of Web3, this is how you get noticed and start the conversations that lead to career-defining opportunities.
 
 <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
   <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">

@@ -35,7 +35,7 @@ This role is about building and deploying AI models in a decentralized context. 
 
 #### 2. ZKML (Zero-Knowledge Machine Learning) Engineer
 
-This is one of the most roles in all of tech. A ZKML Engineer specializes in creating zero-knowledge proofs for machine learning models. This means they can prove that an AI model ran correctly and produced a certain output, without revealing the model's proprietary weights or the private data it was run on. This has massive implications for privacy and commercial applications.
+This is one of the most in-demand roles in all of tech. A ZKML Engineer specializes in creating zero-knowledge proofs for machine learning models. This means they can prove that an AI model ran correctly and produced a certain output, without revealing the model's proprietary weights or the private data it was run on. This has massive implications for privacy and commercial applications.
 
 *   **A Day in the Life:** Your day could involve converting a trained neural network into an arithmetic circuit, a mathematical representation that can be used to generate a ZK proof. You would use specialized languages like Circom or Cairo to build this circuit and then work on optimizing it for performance and cost, as generating proofs can be computationally expensive.
 *   **Key Tools & Technologies:** ZK-proof frameworks (ezkl, Giza, Risc0, Axiom), circuit-building languages (Circom, Leo, Cairo), and a strong foundation in cryptography, linear algebra, and advanced mathematics.
