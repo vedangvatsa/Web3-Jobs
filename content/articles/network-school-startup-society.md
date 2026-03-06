@@ -1,9 +1,9 @@
 ---
 title: 'Network School: A Frontier Community for Builders, Creators & Techno-Optimists'
 image: 'https://ns.com/_next/image?url=https%3A%2F%2Fassets.ns.com%2Fstatic%2Fabout%2Fnetwork-state-and-network-school-covers%2Fnetwork-school-cover.jpg%3Fv%3Dv2&w=1920&q=75'
-description: 'Network School is a frontier community and startup society for techno-optimists. Join remote workers, founders, creators, and engineers building themselves up while bootstrapping future societies for just $1,500/month.'
+description: 'Network School is a frontier community and startup society for techno-optimists. Join remote workers, founders, creators, and engineers building themselves up while bootstrapping future societies. Co-living + coworking + community for just $1,500/month.'
 category: 'Remote Work'
-data-ai-hint: 'community startup society techno-optimists'
+data-ai-hint: 'community startup society startup communities co-living coworking remote work founders'
 ---
 
 The future of work and society isn't being built in corporate offices or traditional co-living spaces. It's being built by communities of people who refuse to compromise between ambition, connection, and quality of life. Network School is that frontier—a startup society for techno-optimists located on an island off the coast of Singapore.
@@ -157,3 +157,33 @@ Network School represents a frontier model for how ambitious people live and wor
 - **Bootstrapping future communities**: By joining, you're helping build the template for the next generation of communities like it
 
 Network School isn't just about working better or living smarter. It's about being part of something bigger—a frontier of people reimagining how societies can work when designed intentionally around the needs of builders, creators, and ambitious self-improvers.
+
+## Frequently Asked Questions About Network School
+
+**How much does Network School cost?**
+
+Network School membership starts at $1,500/month for a shared room with one roommate, or $3,000/month for a private room. Both include accommodation, meals, WiFi, gym access, 24/7 coworking, and all community facilities. Hashtag Community members get one week free when applying through the dedicated link.
+
+**What's included in the membership?**
+
+Your membership includes: serviced accommodation, all meals, high-speed WiFi, 24/7 gym access, 24/7 coworking spaces, content studio, makerspace, regular workshops and speaker events, fitness classes, and full access to the community. Essentially, everything you need to work and live without additional costs.
+
+**Where is Network School located?**
+
+Network School is located on an island off the coast of Singapore, providing a unique blend of peaceful, focused environment while maintaining proximity to Southeast Asia's tech hub. The location is ideal for founders seeking investor access while avoiding urban distractions.
+
+**How long can I stay at Network School?**
+
+Memberships start on the first of each month. While there's flexibility in stay duration, longer stays are prioritized. Whether you commit for one month or multiple months, you have access to all the same facilities and community.
+
+**Is Network School only for tech founders?**
+
+No. Network School welcomes remote workers, digital nomads, online creators, personal trainers, self-improvers, event organizers, and engineers of all kinds. The community is intentionally diverse—the best ideas come from unexpected combinations of perspectives.
+
+**What's the application process?**
+
+Visit [ns.com/hashtagweb3/apply](https://ns.com/hashtagweb3/apply) and provide: your email, full name, desired visit dates, stay length preference, room preference, social media links (at least two), and a brief description of yourself. Most applications are reviewed within 2-3 weeks.
+
+**Why is Network School selective about membership?**
+
+Network School carefully reviews applications to maintain community fit and quality. The selective approach ensures members share core values of ambition, self-improvement, and techno-optimism, creating a cohesive and supportive community.
