@@ -118,8 +118,8 @@ The application process is straightforward and typically takes a few weeks. Havi
 ## Pricing & Membership Duration
 
 **Room Options**:
-- Shared room (with one roommate): $1,500/month (includes $1 week free from Hashtag Community)
-- Private room: $3,000/month (includes $1 week free from Hashtag Community)
+- Shared room (with one roommate): $1,500/month (plus **one week free** from Hashtag Community)
+- Private room: $3,000/month (plus **one week free** from Hashtag Community)
 
 **Membership Duration**:
 - Memberships start on the first of each month
@@ -136,10 +136,13 @@ The region's favorable business environment, tax structure, and proximity to eme
 
 Ready to join Network School? The process is simple:
 
-1. **Submit Your Application**: Fill out the application form with your details, stay preferences, and social links.
-2. **Wait for Approval**: Network School reviews applications to ensure community fit. Most decisions come within 2-3 weeks.
-3. **Confirm Your Dates**: Once approved, confirm your arrival and checkout dates.
-4. **Arrive**: Show up on the first of the month and start your Network School experience.
+1. **Submit Your Application**: Visit [ns.com/hashtagweb3/apply](https://ns.com/hashtagweb3/apply) and fill out the application form with your details, stay preferences, and social links.
+2. **Get a Free Week**: Hashtag Community members get one week free when you apply through this link.
+3. **Wait for Approval**: Network School reviews applications to ensure community fit. Most decisions come within 2-3 weeks.
+4. **Confirm Your Dates**: Once approved, confirm your arrival and checkout dates.
+5. **Arrive**: Show up on the first of the month and start your Network School experience.
+
+**[Apply now and claim your free week →](https://ns.com/hashtagweb3/apply)**
 
 ## Key Takeaways
 
