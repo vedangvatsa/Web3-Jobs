@@ -44,7 +44,7 @@ Instead of tracking daily commits, a more insightful approach to gauging the fut
 
 *   **MWEB Adoption:** The success of the Mimblewimble upgrade will be measured by its adoption. Tracking the number of MWEB transactions and the tools being built to support them is a key indicator of Litecoin's evolution.
 *   **Lightning Network Growth:** The capacity and number of channels on the Lightning Network for LTC are crucial metrics for its scalability as a medium of exchange.
-*   **Merchant and [Wallet](/how-to-choose-a-crypto-wallet) Integration:** The ultimate measure of success for a currency is its use. Watching for new integrations with payment processors, wallets, and exchanges shows its growing utility.
+*   **Merchant and [Wallet](/how-to-choose-a-crypto-wallet) Integration:** The core measure of success for a currency is its use. Watching for new integrations with payment processors, wallets, and exchanges shows its growing utility.
 *   **Core Developer Engagement:** While a small team, the engagement of core developers in discussions, proposals (Litecoin Improvement Proposals - LIPs), and security maintenance is a vital sign of the project's health.
 
 ### Conclusion: A Different Kind of Progress

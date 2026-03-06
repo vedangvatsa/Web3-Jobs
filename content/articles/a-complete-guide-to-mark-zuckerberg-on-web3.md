@@ -61,7 +61,7 @@ Meta's approach to the metaverse is fundamentally at odds with the core principl
 
 Mark Zuckerberg and Meta's entry into the metaverse represents a critical battle for the future of the internet. Zuckerberg is making an audacious, multi-billion dollar bet that he can build a proprietary, integrated, and user-friendly version of the metaverse that will win over the mainstream before a messier, but more open and decentralized alternative can take root.
 
-His approach leverages Meta's enormous resources, existing user base, and expertise in creating polished consumer products. However, it runs directly counter to the Web3 ethos of user ownership, decentralization, and open protocols. The Web3 community largely views Meta's efforts with deep skepticism, seeing it as an attempt by a Web2 giant to co-opt the metaverse narrative and create the ultimate "walled garden."
+His approach leverages Meta's enormous resources, existing user base, and expertise in creating polished consumer products. However, it runs directly counter to the Web3 ethos of user ownership, decentralization, and open protocols. The Web3 community largely views Meta's efforts with deep skepticism, seeing it as an attempt by a Web2 giant to co-opt the metaverse narrative and create the core "walled garden."
 
 The coming years will determine which vision wins out: the centralized, corporation-controlled metaverse envisioned by Mark Zuckerberg, or the decentralized, user-owned metaverse championed by the Web3 community.
 

@@ -23,7 +23,7 @@ For years, the debate has raged between monolithic blockchains (where consensus,
 The core idea of modularity is to unbundle the core functions of a blockchain:
 
 *   **Execution Layer:** Where transactions are processed and [smart contracts](/what-are-smart-contracts) are run. This is the domain of rollups like Arbitrum, Optimism, and zkSync.
-*   **Settlement Layer:** The ultimate source of truth and security, where the validity of transactions is finally verified. For most of the Web3 ecosystem, this remains [Ethereum](/what-is-ethereum).
+*   **Settlement Layer:** The core source of truth and security, where the validity of transactions is finally verified. For most of the Web3 ecosystem, this remains [Ethereum](/what-is-ethereum).
 *   **Data Availability (DA) Layer:** A layer optimized for one job: storing and making transaction data available for anyone to verify. This has been the biggest bottleneck and cost for rollups.
 
 ### The Rise of Dedicated DA Layers

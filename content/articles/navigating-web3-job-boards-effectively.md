@@ -56,7 +56,7 @@ Once you've identified a promising role, your work has just begun:
 
 Web3 job boards are a powerful tool, but they are just the starting point. The key to success is to use them to identify promising projects and then to engage with those projects in a deep and meaningful way.
 
-By curating your sources, filtering out the noise, and proactively demonstrating your value, you can transform your job search from a passive application process into an active demonstration of your talent and passion. In the world of Web3, this "proof of work" approach is the ultimate way to land your dream role.
+By curating your sources, filtering out the noise, and proactively demonstrating your value, you can change how you job search from a passive application process into an active demonstration of your talent and passion. In the world of Web3, this "proof of work" approach is the core way to land your dream role.
 
 ## The Web3 Opportunity
 

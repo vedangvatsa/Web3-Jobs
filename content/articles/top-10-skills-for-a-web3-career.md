@@ -72,7 +72,7 @@ In Web3, your non-technical skills are often just as important as your technical
 
 ### 7. Data Analysis (Dune Analytics, SQL)
 
-**Why it's essential:** Blockchains are open, public databases. This creates an unprecedented opportunity for data analysis.
+**Why it's essential:** Blockchains are open, public databases. This creates an opportunity for data analysis.
 *   **The Tool:** Dune Analytics is the go-to platform for querying and visualizing on-chain data using SQL.
 *   **The Application:** Analysts use Dune to build dashboards that track a protocol's key metrics, understand user behavior, and identify market trends. This data is critical for making informed product and governance decisions.
 
@@ -89,7 +89,7 @@ In Web3, your non-technical skills are often just as important as your technical
 ### 9. Adaptability & A Hunger for Learning
 
 **Why it's essential:** The Web3 space moves at a blistering pace. The hot new technology today will be legacy tomorrow. The only way to survive is to be a relentless learner.
-*   **The Mindset:** You must be comfortable with being uncomfortable. You have to be willing to constantly learn new languages, frameworks, and concepts. The ability to learn *how to learn* is the ultimate meta-skill.
+*   **The Mindset:** You must be comfortable with being uncomfortable. You have to be willing to constantly learn new languages, frameworks, and concepts. The ability to learn *how to learn* is the core meta-skill.
 *   **The Practice:** Dedicate time each week to reading whitepapers, trying new dApps, and listening to podcasts. Be curious.
 
 ### 10. "Proof of Work" & Building in Public

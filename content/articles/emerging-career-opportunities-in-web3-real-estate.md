@@ -19,7 +19,7 @@ The process of bringing a real-world property onto the blockchain involves a sop
 1.  **Special Purpose Vehicle (SPV):** First, the physical property is placed into a legal entity, typically a Special Purpose Vehicle (SPV) like an LLC. This legal structure holds the title to the asset.
 2.  **Tokenization:** The ownership of this LLC (the equity) is then digitized and represented as a set of cryptographic tokens on a blockchain. For example, ownership of a $1 million commercial building could be represented by 1 million tokens, each initially valued at $1.
 3.  **Fractional Ownership:** These tokens can be sold to a wide range of investors, allowing for fractional ownership. Instead of needing millions of dollars to buy a building, an investor can buy a small share for just a few hundred or thousand dollars.
-4.  **Secondary Market Liquidity:** The tokens can be traded on secondary markets, including decentralized exchanges (DEXs), providing a level of liquidity that is unprecedented in traditional real estate. Selling a share of a property could become as easy as selling a stock.
+4.  **Secondary Market Liquidity:** The tokens can be traded on secondary markets, including decentralized exchanges (DEXs), providing a level of liquidity that is in traditional real estate. Selling a share of a property could become as easy as selling a stock.
 
 ### The New Career Paths in Web3 Real Estate
 

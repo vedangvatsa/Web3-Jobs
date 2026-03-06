@@ -216,4 +216,4 @@ You don't need to be a developer to have a successful career in Web3. Non-techni
 
 Breaking in requires building foundational knowledge, demonstrating commitment, and networking effectively. It's achievable for motivated professionals over 2-3 months.
 
-The key is approaching Web3 with genuine curiosity and realistic expectations. The space is revolutionary but also has real challenges. Bring your skills and learn the new environment. That combination makes you valuable.
+The key is approaching Web3 with genuine curiosity and realistic expectations. The space changes but also has real challenges. Bring your skills and learn the new environment. That combination makes you valuable.

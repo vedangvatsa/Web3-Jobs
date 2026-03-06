@@ -69,7 +69,7 @@ The vast majority of modern L2 solutions fall into a category called **Rollups**
 *   **Higher Security Guarantees**: They rely on mathematical proof rather than economic incentives and watchers, which some argue makes them more secure.
 
 **Cons**:
-*   **Technological Complexity**: ZK cryptography is incredibly complex and cutting-edge. Building a ZK-rollup, especially one that is fully compatible with the EVM (a "zkEVM"), is a massive technical challenge.
+*   **Technological Complexity**: ZK cryptography is incredibly complex and. Building a ZK-rollup, especially one that is fully compatible with the EVM (a "zkEVM"), is a massive technical challenge.
 *   **Computationally Intensive**: Generating the validity proofs requires significant computational power, which can be a centralizing force for the rollup's operator (the "sequencer").
 
 ### The Future is Multi-Rollup

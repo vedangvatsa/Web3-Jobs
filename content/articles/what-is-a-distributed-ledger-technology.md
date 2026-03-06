@@ -26,7 +26,7 @@ Distributed ledger technology solves this by eliminating the need for the middle
 
 - **Immutability:** Once a transaction is recorded on the ledger, it is extremely difficult to alter. This is because records are cryptographically linked together-each block contains the hash of the previous one. Any change to a past record would immediately invalidate all subsequent blocks, making tampering obvious to everyone on the network.
 
-- **Transparency:** In public DLTs, anyone can view the entire history of transactions. This provides unprecedented auditability. You can verify that funds were transferred, assets were created, or contracts were executed without asking permission from anyone. This transparency is especially powerful for tracking supply chains, proving ownership, or auditing government spending.
+- **Transparency:** In public DLTs, anyone can view the entire history of transactions. This provides auditability. You can verify that funds were transferred, assets were created, or contracts were executed without asking permission from anyone. This transparency is especially powerful for tracking supply chains, proving ownership, or auditing government spending.
 
 - **Security Through Distribution:** The combination of decentralization, cryptography, and consensus mechanisms creates extraordinary security. To alter a past transaction, an attacker would need to control 51%+ of the network's computing power simultaneously and recalculate all subsequent blocks faster than the honest network. On large networks like [Bitcoin](/what-is-bitcoin), this is economically infeasible-it would cost billions of dollars and likely fail anyway.
 
@@ -88,7 +88,7 @@ Distributed ledger technology is the foundational infrastructure of Web3. It pro
 - **User Ownership:** Instead of platforms owning user data and assets, users control them directly through their cryptographic keys.
 - **Censorship Resistance:** No single entity can block transactions or freeze accounts. If someone disagrees with government censorship, they can participate anyway.
 - **Programmability:** Smart contracts turn ledgers into platforms. Anyone can build applications on top (DeFi, gaming, identity, supply chain, etc.).
-- **Transparency and Auditability:** Public records create unprecedented accountability for organizations and governments.
+- **Transparency and Auditability:** Public records create accountability for organizations and governments.
 
 ## Common Misconceptions About DLTs
 

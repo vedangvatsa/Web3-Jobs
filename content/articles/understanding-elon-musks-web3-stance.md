@@ -52,7 +52,7 @@ This vision has elements that overlap with Web3 ideals:
 
 *   **Creator Monetization:** Musk has been a vocal proponent of empowering creators and allowing them to monetize their content directly, a core promise of Web3.
 *   **Freedom of Speech:** His self-proclaimed "free speech absolutism" aligns with the Web3 ethos of censorship resistance.
-*   **Payments Integration:** His desire to integrate payments directly into the app mirrors the seamless, peer-to-peer nature of crypto transactions.
+*   **Payments Integration:** His desire to integrate payments directly into the app mirrors the, peer-to-peer nature of crypto transactions.
 
 However, his approach is fundamentally centralized. The "everything app" would be controlled by a single company, X Corp. This is a direct contrast to the Web3 vision of a decentralized ecosystem of composable protocols. Musk seems to believe that a better user experience and faster innovation can be achieved through a centralized, top-down approach, even if it incorporates some Web3-like features. He is building a walled garden, albeit one with some decentralized furniture.
 

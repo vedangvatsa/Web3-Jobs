@@ -10,7 +10,7 @@ category: "Career Guides"
 
 If you've chosen a career in [Web3](/what-is-web3), you must be prepared for one of its defining characteristics: extreme volatility. The crypto markets move in violent cycles, with euphoric bull markets followed by brutal, drawn-out bear markets. During a bull run, it feels like the party will never end. Jobs are plentiful, salaries are high, and the value of your [token](/what-is-a-token) compensation seems to go up every day.
 
-But then comes the "crypto winter." Prices can crash 80-90% from their highs. Projects that seemed invincible run out of money. Layoffs become common, and the public narrative shifts from "Web3 is the future" to "[Is Web3 Dead?](/is-web3-dead)". For those working in the industry, a bear market is the ultimate test of conviction and resilience. It can be a scary and demoralizing time, but it is also the period when the most important work gets done and the greatest opportunities for career growth emerge.
+But then comes the "crypto winter." Prices can crash 80-90% from their highs. Projects that seemed invincible run out of money. Layoffs become common, and the public narrative shifts from "Web3 is the future" to "[Is Web3 Dead?](/is-web3-dead)". For those working in the industry, a bear market is the core test of conviction and resilience. It can be a scary and demoralizing time, but it is also the period when the most important work gets done and the greatest opportunities for career growth emerge.
 
 Surviving a bear market is a rite of passage for any long-term Web3 professional. This guide provides a playbook for not just surviving, but thriving during a crypto downturn.
 

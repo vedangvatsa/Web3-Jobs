@@ -10,7 +10,7 @@ data-ai-hint: "man working on laptop"
 
 ## Introduction: The Web3 Talent Gap
 
-The [Web3](/what-is-web3) revolution is well underway, creating a new digital economy built on the principles of decentralization, user ownership, and transparency. This paradigm shift has created a surge in demand for talented individuals who can build, manage, and grow this new ecosystem. However, there is a significant talent gap. The skills required to succeed in Web3 are a unique blend of cutting-edge technology, economic theory, and community building, and professionals who possess this combination are in short supply.
+The [Web3](/what-is-web3) revolution is well underway, creating a new digital economy built on the principles of decentralization, user ownership, and transparency. This paradigm shift has created a surge in demand for talented individuals who can build, manage, and grow this new ecosystem. However, there is a significant talent gap. The skills required to succeed in Web3 are a unique blend of technology, economic theory, and community building, and professionals who possess this combination are in short supply.
 
 This guide outlines the 10 most essential skills for anyone looking to build a successful career in Web3. We will cover both the technical skills needed to build the infrastructure of the decentralized web and the non-technical skills required to manage its communities and economies. This is not just for developers; the Web3 space has a pressing need for talented product managers, marketers, designers, and strategists.
 

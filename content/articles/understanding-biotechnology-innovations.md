@@ -18,7 +18,7 @@ In medicine, biotechnology has led to the development of life-saving drugs and t
 
 Gene therapy is another groundbreaking area. It aims to treat or cure genetic diseases by replacing a faulty gene with a healthy one. While still in its early stages, gene therapy has shown remarkable success in treating rare genetic disorders like spinal muscular atrophy and certain types of blindness.
 
-Perhaps the most talked-about innovation is CRISPR gene editing. CRISPR is a tool that allows scientists to make precise changes to DNA with unprecedented ease. It works like a pair of molecular scissors, allowing researchers to cut out a piece of DNA and replace it. The potential applications are vast, from curing genetic diseases to engineering more resilient crops.
+Perhaps the most talked-about innovation is CRISPR gene editing. CRISPR is a tool that allows scientists to make precise changes to DNA with ease. It works like a pair of molecular scissors, allowing researchers to cut out a piece of DNA and replace it. The potential applications are vast, from curing genetic diseases to engineering more resilient crops.
 
 ### Transforming Agriculture
 

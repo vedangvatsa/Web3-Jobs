@@ -32,7 +32,7 @@ A SocialFi developer builds the protocols and applications that power decentrali
     -   *Project Idea:* A tool that visualizes a user's social graph.
 3.  **Contribute to the Ecosystem:** Both Farcaster and Lens are open protocols. Contribute to their core infrastructure on [GitHub](/building-web3-portfolio), or build a useful tool for the community. Public contributions are the best way to get noticed.
 
-A career in SocialFi is for developers who are passionate about building more open and equitable social systems. It's a chance to work at the intersection of cutting-edge technology and human-centered design, building the platforms that will define how we connect in the decentralized future.
+A career in SocialFi is for developers who are passionate about building more open and equitable social systems. It's a chance to work at the intersection of technology and human-centered design, building the platforms that will define how we connect in the decentralized future.
 
 ## The Web3 Opportunity
 

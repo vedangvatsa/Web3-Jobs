@@ -54,7 +54,7 @@ Instead of using the closed networks of Visa or SWIFT, Web3 payments run on open
 Despite the clear advantages, the road to mass adoption of Web3 payments is not without its challenges.
 
 - **User Experience (UX):** Using a crypto wallet, managing private keys, and understanding gas fees is still too complex for the average consumer.
-- **On-ramps and Off-ramps:** The process of converting traditional currency into crypto (on-ramping) and back again (off-ramping) needs to become more seamless.
+- **On-ramps and Off-ramps:** The process of converting traditional currency into crypto (on-ramping) and back again (off-ramping) needs to become more.
 - **Regulatory Uncertainty:** The legal framework for digital currencies is still evolving in most countries.
 
 ### The Future of Transactions is Decentralized

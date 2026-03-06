@@ -46,7 +46,7 @@ A: Ultimately, the governance token holders decide. This is done through a combi
 
 **Q: What happens if the multisig signers go rogue?**
 
-A: This is the primary risk of the multisig model. The signers are typically doxxed, reputable community members with a strong vested interest in the project's success, which creates a social incentive not to act maliciously. However, the ultimate backstop is social consensus. If the signers were to steal funds, the community could potentially coordinate to hard-fork the protocol and slash the holdings of the malicious actors, although this is an extreme and difficult measure.
+A: This is the primary risk of the multisig model. The signers are typically doxxed, reputable community members with a strong vested interest in the project's success, which creates a social incentive not to act maliciously. However, the core backstop is social consensus. If the signers were to steal funds, the community could potentially coordinate to hard-fork the protocol and slash the holdings of the malicious actors, although this is an extreme and difficult measure.
 
 **Q: Are DAO treasuries taxed?**
 

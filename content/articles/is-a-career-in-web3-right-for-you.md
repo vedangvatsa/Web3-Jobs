@@ -8,7 +8,7 @@ category: "Career Guides"
 
 ---
 
-The [Web3](/what-is-web3) industry is a siren call for many ambitious professionals. It promises cutting-edge technology, the chance to be part of a financial and cultural revolution, and compensation packages that often dwarf those in traditional tech. But beneath the hype and the headlines lies a demanding and often chaotic reality. A career in Web3 is not for everyone.
+The [Web3](/what-is-web3) industry is a siren call for many ambitious professionals. It promises technology, the chance to be part of a financial and cultural revolution, and compensation packages that often dwarf those in traditional tech. But beneath the hype and the headlines lies a demanding and often chaotic reality. A career in Web3 is not for everyone.
 
 Before you quit your stable Web2 job and dive down the rabbit hole, a serious self-assessment is required. Are you truly prepared for the volatility? Do you have the right mindset to thrive in a decentralized, remote-first environment? Are your motivations aligned with the core ethos of the space?
 

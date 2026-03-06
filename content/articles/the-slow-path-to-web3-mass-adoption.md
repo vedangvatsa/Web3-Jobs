@@ -60,7 +60,7 @@ The path to mass adoption for Web3 is a marathon, not a sprint. The challenges a
 
 The good news is that the smartest people in the industry are focused on exactly these problems. The development of Account Abstraction, the rise of Layer 2s, and the shift in focus from speculation to utility are all powerful signs that the industry is maturing.
 
-Mass adoption will not happen overnight. It will happen gradually, one application at a time. It will happen when a user can onboard to a dApp without even realizing they are using a blockchain. It will happen when the benefits of user ownership and decentralization are delivered through a seamless and intuitive experience. The road is long, but the destination-a more open, fair, and user-owned internet-is worth the journey.
+Mass adoption will not happen overnight. It will happen gradually, one application at a time. It will happen when a user can onboard to a dApp without even realizing they are using a blockchain. It will happen when the benefits of user ownership and decentralization are delivered through a and intuitive experience. The road is long, but the destination-a more open, fair, and user-owned internet-is worth the journey.
 
 ## The Web3 Opportunity
 

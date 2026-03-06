@@ -42,13 +42,13 @@ This is the biggest advantage. A general-purpose L2 has to serve everyone. It ca
 
 Because L3s handle their own execution and only post small proofs to the L2, they can achieve a massive scale. The transactions on the L3 are not competing for blockspace with any other application, which means no unexpected gas spikes.
 
-For applications with millions of small transactions, like a social media platform or a game, this is a game-changer. The cost per transaction can be reduced to a tiny fraction of a cent, making on-chain interactions feasible for a mainstream audience.
+For applications with millions of small transactions, like a social media platform or a game, this enables. The cost per transaction can be reduced to a tiny fraction of a cent, making on-chain interactions feasible for a mainstream audience.
 
 #### 3. Interoperability and Bridging
 
 A unique feature of the L3 vision is improved interoperability. In the current L2 landscape, moving assets between different L2s (e.g., from Arbitrum to Optimism) requires going through a slow and sometimes clunky bridge.
 
-In a future where multiple L3s are built on the same L2, they can potentially communicate and transfer assets between each other much more quickly and cheaply, as they share the same settlement layer (the L2). This could create a more seamless, interconnected ecosystem of applications.
+In a future where multiple L3s are built on the same L2, they can potentially communicate and transfer assets between each other much more quickly and cheaply, as they share the same settlement layer (the L2). This could create a more, interconnected ecosystem of applications.
 
 ### The Challenges and Criticisms
 
@@ -64,7 +64,7 @@ The rise of Layer 3s is part of a broader trend toward a "modular blockchain" th
 
 *   **Execution Layer (L3s):** Where applications live and transactions happen. Optimized for speed and customizability.
 *   **Settlement Layer (L2s):** Where proofs are posted and disputes are resolved. Optimized for security and verification.
-*   **Data Availability Layer (L1):** The ultimate source of truth and security, ensuring that all the necessary data is available for anyone to verify the state of the layers above it.
+*   **Data Availability Layer (L1):** The core source of truth and security, ensuring that all the necessary data is available for anyone to verify the state of the layers above it.
 
 This modular vision sees a future with a vibrant ecosystem of thousands of interconnected L3 appchains, all settling on a handful of major L2s, which in turn are all secured by the rock-solid foundation of Ethereum.
 

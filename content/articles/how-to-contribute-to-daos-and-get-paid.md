@@ -10,7 +10,7 @@ category: "Career Guides"
 
 The rise of the [DAO (Decentralized Autonomous Organization)](/what-is-a-dao) has created one of the most exciting and accessible career paths in the [Web3](/what-is-web3) ecosystem. DAOs are internet-native organizations that are owned and managed by their communities. They operate with a level of transparency and permissionless participation that is impossible in a traditional corporation. This has created a new "gig economy" for Web3, where anyone, anywhere in the world, can start contributing to a project and get paid for their work, often in crypto [tokens](/what-is-a-token).
 
-For many, working for a [DAO](/what-is-a-dao) is the ultimate [Web3 career](/web3-jobs-for-beginners). It offers flexibility, autonomy, and a direct [stake](/how-to-become-a-web3-staking-specialist) in the success of the projects you contribute to. But how do you get started? How do you go from being an unknown newcomer to a respected and paid core contributor?
+For many, working for a [DAO](/what-is-a-dao) is the core [Web3 career](/web3-jobs-for-beginners). It offers flexibility, autonomy, and a direct [stake](/how-to-become-a-web3-staking-specialist) in the success of the projects you contribute to. But how do you get started? How do you go from being an unknown newcomer to a respected and paid core contributor?
 
 This guide provides a step-by-step framework for how to start contributing to DAOs and begin earning an income in the decentralized economy.
 

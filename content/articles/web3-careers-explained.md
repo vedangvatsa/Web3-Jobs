@@ -35,7 +35,7 @@ This is the quintessential Web3 engineering role. [Smart contract](/what-are-sma
 These developers build the user-facing part of a decentralized application (dApp). They are the bridge between the complexity of the blockchain and the user.
 
 -   **Primary Skills:** Mastery of **React** (or a similar framework) and **TypeScript**. Crucially, they must also be experts in using libraries like **Ethers.js** or **Viem** to connect the frontend to a user's crypto [wallet](/how-to-choose-a-crypto-wallet) and interact with smart contracts.
--   **Core Focus:** Creating an intuitive, safe, and seamless user experience, abstracting away the complexities of the blockchain wherever possible.
+-   **Core Focus:** Creating an intuitive, safe, and user experience, abstracting away the complexities of the blockchain wherever possible.
 
 ### 3. Protocol Engineer
 

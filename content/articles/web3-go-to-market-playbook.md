@@ -197,7 +197,7 @@ Web2 companies are obsessed with metrics like Daily Active Users (DAUs) and Clic
 -   **On-Chain Active Wallets:** This is the Web3 equivalent of DAUs. How many unique wallets are interacting with your smart contracts on a daily or weekly basis?
 -   **Protocol Revenue:** How much in fees is your protocol generating? This is a direct measure of product-market fit.
 -   **Governance Participation Rate:** What percentage of your token holders are actively voting on governance proposals? This is a key measure of community health and decentralization.
--   **Retention Cohorts:** Of the users who first used your protocol in January, what percentage are still active in March? This is the ultimate test of long-term value.
+-   **Retention Cohorts:** Of the users who first used your protocol in January, what percentage are still active in March? This is the core test of long-term value.
 -   **Sybil Resistance:** How well are you filtering out bots and airdrop farmers to measure your *real* user base?
 
 On-chain data analysts, using tools like [Dune Analytics](/on-chain-analyst-job), are critical for tracking these metrics and providing the insights that shape GTM strategy.

@@ -38,7 +38,7 @@ Blockchains like [Ethereum](/what-is-ethereum) introduced **[smart contracts](/w
 
 Blockchains have their own native cryptocurrencies (like ETH on Ethereum) that are used to incentivize participants and pay for network usage.
 
-- **How it Enables Web3:** This creates a built-in, internet-native economic system. It allows for the seamless transfer of value between users and dApps, anywhere in the world, without relying on the slow and costly traditional banking system. This is the foundation of the "ownership economy," where users can be directly rewarded for their contributions.
+- **How it Enables Web3:** This creates a built-in, internet-native economic system. It allows for the transfer of value between users and dApps, anywhere in the world, without relying on the slow and costly traditional banking system. This is the foundation of the "ownership economy," where users can be directly rewarded for their contributions.
 
 ### Conclusion
 

@@ -42,7 +42,7 @@ This is the consensus engine that powers Cosmos SDK blockchains. Tendermint is a
 **2. The Inter-Blockchain Communication Protocol (IBC)**
 This is the crown jewel of the Cosmos ecosystem. IBC is a standardized protocol that allows sovereign, independent blockchains to connect and communicate with each other.
 -   **How it works:** IBC allows a chain to track the state of another chain via a lightweight "light client." It enables the transfer of both tokens and arbitrary data between any two IBC-enabled chains.
--   **The "Internet of Blockchains":** This creates a network of interconnected chains, each optimized for its own purpose, that can seamlessly interact. For example, a user could use assets from a [DeFi](/what-is-defi)-focused chain (like Kava) to purchase an [NFT](/what-are-nfts) on a gaming-focused chain, all through the IBC protocol.
+-   **The "Internet of Blockchains":** This creates a network of interconnected chains, each optimized for its own purpose, that canly interact. For example, a user could use assets from a [DeFi](/what-is-defi)-focused chain (like Kava) to purchase an [NFT](/what-are-nfts) on a gaming-focused chain, all through the IBC protocol.
 
 **3. The Cosmos Hub & The ATOM Token**
 The Cosmos Hub is the first blockchain that was launched in the Cosmos network. Its native token is ATOM. The Hub is intended to serve as the central router or clearinghouse for the entire ecosystem, providing a high level of security and facilitating interoperability between all the connected chains (called "Zones"). ATOM holders can stake their tokens to secure the Hub and vote on its governance.

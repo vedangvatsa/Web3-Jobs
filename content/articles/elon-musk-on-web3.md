@@ -8,7 +8,7 @@ category: "Industry Insights"
 
 ---
 
-Elon Musk, the enigmatic CEO of Tesla and SpaceX and the owner of X (formerly Twitter), is arguably one of the most influential figures in technology. His public statements can move markets and shape technological narratives. Given his deep involvement with cutting-edge technology and his stated goal of protecting free speech, many in the [Web3](/what-is-web3) community have looked to him as a potential champion for the decentralized internet.
+Elon Musk, the enigmatic CEO of Tesla and SpaceX and the owner of X (formerly Twitter), is arguably one of the most influential figures in technology. His public statements can move markets and shape technological narratives. Given his deep involvement with technology and his stated goal of protecting free speech, many in the [Web3](/what-is-web3) community have looked to him as a potential champion for the decentralized internet.
 
 However, Musk's relationship with Web3, crypto, and decentralization is complex, often contradictory, and has evolved significantly over time. His views are a mix of enthusiasm for specific cryptocurrencies, skepticism about the current state of Web3, and a focus on practical, real-world applications over abstract ideological goals.
 

@@ -51,7 +51,7 @@ The cybersecurity experts of Web3. They have an adversarial mindset and their jo
 The right path for you depends on your interests and background.
 -   If you love building user-facing products, a **full-stack dApp developer** role is a great fit.
 -   If you are passionate about finance and economic design, a **DeFi-focused [smart contract developer](/how-to-become-a-web3-smart-contract-developer)** role could be perfect.
--   If you are fascinated by the low-level workings of distributed systems, a career as a **protocol engineer** is the ultimate challenge.
+-   If you are fascinated by the low-level workings of distributed systems, a career as a **protocol engineer** is the core challenge.
 -   If you have a hacker's mindset and a passion for security, a **security researcher** role is incredibly rewarding.
 
 No matter the path, a successful career starts with a strong foundation in blockchain fundamentals and a commitment to continuous learning.

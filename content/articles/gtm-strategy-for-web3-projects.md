@@ -27,7 +27,7 @@ Web2 companies are obsessed with metrics like Monthly Active Users (MAUs), Custo
 -   **On-Chain Active Wallets:** This is the Web3 equivalent of DAUs/MAUs. How many unique wallets are interacting with your smart contracts on a daily, weekly, or monthly basis? This is a transparent and verifiable measure of real usage.
 -   **Protocol Revenue:** How much in fees is your protocol generating from its core activity (e.g., trading fees for a [DEX](/what-is-a-decentralized-exchange-dex), interest for a lending protocol)? This is the purest signal of product-market fit.
 -   **Governance Participation Rate:** What percentage of your [token](/what-is-a-token) holders are actively voting on governance proposals? This is a key metric for measuring community engagement and the true decentralization of your project.
--   **User Retention Cohorts:** Of the users who first used your protocol in January, what percentage are still active in March? This can be tracked with precision using on-chain data and is the ultimate test of long-term value and stickiness.
+-   **User Retention Cohorts:** Of the users who first used your protocol in January, what percentage are still active in March? This can be tracked with precision using on-chain data and is the core test of long-term value and stickiness.
 -   **Sybil Resistance in Metrics:** A sophisticated analyst will also focus on filtering out "sybil" activity (one person using many wallets) to get a true picture of the unique user base.
 
 **[On-chain data analysts](/on-chain-analyst-job)**, using tools like Dune Analytics, are critical for tracking these metrics and providing the insights that shape a successful GTM strategy.

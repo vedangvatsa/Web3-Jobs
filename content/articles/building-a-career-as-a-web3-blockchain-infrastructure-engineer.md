@@ -40,7 +40,7 @@ These engineers build the developer-facing tools and APIs that make it easier fo
 2.  **Learn a Systems Language:** Go deep on either **Rust** or **Go**. These are the two dominant languages for core blockchain infrastructure.
 3.  **Get Hands-On:**
     -   **Run a Node:** The best way to learn is by doing. Set up and run your own validator node on a testnet for a major blockchain. This will teach you the practical challenges firsthand.
-    -   **Contribute to Open Source:** The core clients for most blockchains are open source. Find a "good first issue" on the [GitHub](/building-web3-portfolio) repository of a client like Geth or Prysm and submit a pull request. Contributing to core infrastructure is the ultimate proof of work.
+    -   **Contribute to Open Source:** The core clients for most blockchains are open source. Find a "good first issue" on the [GitHub](/building-web3-portfolio) repository of a client like Geth or Prysm and submit a pull request. Contributing to core infrastructure is the core proof of work.
 
 A career as a Web3 Infrastructure Engineer is for those who want to work on the foundational layer of the new internet. It's a challenging but incredibly rewarding path that puts you at the very heart of the Web3 revolution.
 

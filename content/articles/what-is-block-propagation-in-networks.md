@@ -17,7 +17,7 @@ Understanding block propagation is key to understanding the performance, securit
 ### Key Insights
 
 *   **Core Function**: Block propagation is the process of spreading a new, valid block to all nodes in a decentralized network.
-*   **Goal**: The ultimate goal is for all honest nodes to receive and accept the new block, adding it to their local copy of the chain and maintaining a unified network state.
+*   **Goal**: The core goal is for all honest nodes to receive and accept the new block, adding it to their local copy of the chain and maintaining a unified network state.
 *   **Latency is the Enemy**: The time it takes for a block to propagate across the network is a critical performance metric. High latency increases the chances of forks and centralization pressures.
 *   **Mechanism**: Propagation relies on "gossip protocols," where nodes share new blocks with their immediate peers, who then share them with their peers, and so on, until the block has reached the entire network.
 *   **Innovations**: Solutions like compact blocks and dedicated block relay networks (like the Falcon Network) are designed to dramatically speed up this process.

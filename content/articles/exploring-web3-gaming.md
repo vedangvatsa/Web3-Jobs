@@ -10,7 +10,7 @@ data-ai-hint: "gaming future"
 
 [Web3](/what-is-web3) gaming represents a fundamental shift in how games are built and how players interact with them. Instead of game publishers owning all in-game assets and controlling the entire economy, Web3 games let players own their in-game items as [NFTs](/what-are-nfts) and often give players a [stake](/how-to-become-a-web3-staking-specialist) in the game's success through [tokens](/what-is-a-token).
 
-This shift from closed, centralized game economies to open, decentralized ones is revolutionary. But the space is still immature. Understanding what Web3 gaming actually is, beyond hype about "play-to-earn," helps explain both the promise and the challenges of this emerging sector.
+This shift from closed, centralized game economies to open, decentralized ones changes. But the space is still immature. Understanding what Web3 gaming actually is, beyond hype about "play-to-earn," helps explain both the promise and the challenges of this emerging sector.
 
 ## What Makes Web3 Gaming Different
 

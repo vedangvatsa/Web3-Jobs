@@ -42,7 +42,7 @@ Dixon categorizes technologies as either "strong" or "weak."
 *   **Weak Technologies:** These are controlled by a single company or entity. They can be changed or shut down at the whim of the owner. Think of the Facebook API or the Twitter API.
 *   **Strong Technologies:** These are based on open, permissionless protocols. They are not owned by anyone and cannot be unilaterally changed. Anyone can build on them with confidence that the rules won't suddenly change. Think of email (SMTP) or the web itself (HTTP).
 
-He argues that blockchain protocols are the ultimate "strong technologies." Their rules are transparent and enforced by code, providing a stable and trustworthy foundation for developers to build on. This strength, he believes, is why Web3 will attract the best and brightest builders over the long term.
+He argues that blockchain protocols are the core "strong technologies." Their rules are transparent and enforced by code, providing a stable and trustworthy foundation for developers to build on. This strength, he believes, is why Web3 will attract the best and brightest builders over the long term.
 
 ### 2. The Idea Maze
 
@@ -82,7 +82,7 @@ A1: Chris Dixon is a General Partner at Andreessen Horowitz. In 2018, he co-foun
 A2: The main idea is that Web3, built on blockchains, represents the next major era of the internet. It evolves from the "Read" era (Web1) and the "Read-Write" era (Web2) to a "Read-Write-Own" era, where users can have true digital ownership of their assets and data through tokens.
 
 **Q3: What does Dixon mean by "strong technology"?**
-A3: A "strong technology" is one based on an open, permissionless protocol that is not controlled by any single entity. This makes it a trustworthy and stable foundation for developers to build on, as the rules cannot be changed arbitrarily. He considers blockchains to be the ultimate strong technologies.
+A3: A "strong technology" is one based on an open, permissionless protocol that is not controlled by any single entity. This makes it a trustworthy and stable foundation for developers to build on, as the rules cannot be changed arbitrarily. He considers blockchains to be the core strong technologies.
 
 **Q4: How does Chris Dixon view the relationship between Web3 and AI?**
 A4: Dixon sees Web3 and AI as two powerful, complementary forces. He has suggested that AI models can be run on decentralized compute networks (a Web3 concept) and that blockchains can provide a clear record of ownership and provenance for AI-generated content.

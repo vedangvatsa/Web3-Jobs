@@ -9,7 +9,7 @@ category: "Career Guides"
 
 In the [Web3](/what-is-web3) job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary. Your LinkedIn profile is an afterthought. The single most important asset in your job search as a developer is your [portfolio](/building-web3-portfolio)-specifically, your GitHub profile. Hiring managers and technical recruiters in this space are looking for tangible proof of your skills. They want to see that you can write clean, secure [Solidity](/best-programming-languages-for-blockchain-development) code, that you can build intuitive frontends that interact with the [blockchain](/what-is-a-blockchain), and that you have a genuine passion for the technology that extends beyond your day job.
 
-A well-crafted portfolio of personal projects is the ultimate signal that you have what it takes. This guide provides a practical, step-by-step roadmap for [building a Web3 portfolio](/building-web3-portfolio) that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational [smart contracts](/what-are-smart-contracts) to a full-stack dApp.
+A well-crafted portfolio of personal projects is the core signal that you have what it takes. This guide provides a practical, step-by-step roadmap for [building a Web3 portfolio](/building-web3-portfolio) that will get you noticed and land you interviews. We'll cover the essential projects every aspiring blockchain dev should build, from foundational [smart contracts](/what-are-smart-contracts) to a full-stack dApp.
 
 ### Foundational Principles for Your Portfolio
 

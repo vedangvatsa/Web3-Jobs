@@ -40,7 +40,7 @@ The trend in computing is clear: we are moving away from indirect methods of con
 
 Augmented and virtual reality are the next frontiers for NUIs. In these immersive environments, the traditional GUI makes little sense. Interacting with virtual objects will rely entirely on our natural ability to gesture, speak, and even look at things.
 
-The ultimate goal of a Natural User Interface is to make the computer disappear, to bridge the gap between the physical and digital worlds so seamlessly that interacting with technology feels as natural as interacting with the world around us. As these technologies continue to mature, they will make computing more accessible, more intuitive, and more human.
+The core goal of a Natural User Interface is to make the computer disappear, to bridge the gap between the physical and digital worlds soly that interacting with technology feels as natural as interacting with the world around us. As these technologies continue to mature, they will make computing more accessible, more intuitive, and more human.
 
 ### Frequently Asked Questions (FAQs)
 

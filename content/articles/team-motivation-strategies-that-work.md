@@ -50,7 +50,7 @@ People are most motivated when they feel they are contributing to a mission that
 *   **Constantly Reinforce the "Why":** In team meetings, one-on-ones, and project kickoffs, always start with the purpose. Why are we building this? Who are we helping? What problem are we solving?
 *   **Connect Work to Customer Impact:** Share customer feedback, testimonials, and success stories with the team. When an engineer sees a direct quote from a user who loves the feature they just built, it provides a powerful sense of purpose that no bonus can match.
 *   **Be Transparent About Company Goals and Challenges:** Share the company's strategic goals, financial performance (within reason), and the challenges you are facing. This makes the team feel like trusted insiders who are part of the journey, not just cogs in a machine.
-*   **Give Them a [Stake](/how-to-become-a-web3-staking-specialist) in the Outcome:** This is where [Web3](/what-is-web3) shines. Granting equity or [tokens](/what-is-a-token) gives every team member a real, tangible ownership stake in the success of the mission. When the company wins, they win. This is the ultimate alignment of purpose.
+*   **Give Them a [Stake](/how-to-become-a-web3-staking-specialist) in the Outcome:** This is where [Web3](/what-is-web3) shines. Granting equity or [tokens](/what-is-a-token) gives every team member a real, tangible ownership stake in the success of the mission. When the company wins, they win. This is the core alignment of purpose.
 
 ### What About Money?
 

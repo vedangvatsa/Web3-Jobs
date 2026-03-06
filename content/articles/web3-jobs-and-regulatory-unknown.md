@@ -35,7 +35,7 @@ The most direct risk is that the project you work for could be targeted by a reg
 **2. Sanctions Compliance Risk**
 
 As [DeFi](/what-is-defi) becomes more prominent, it has come under the scrutiny of bodies like the U.S. Treasury's Office of Foreign Assets Control (OFAC).
--   **The Challenge:** DeFi protocols are designed to be open and permissionless. However, OFAC requires that U.S. entities do not engage in transactions with sanctioned individuals or countries. In 2022, OFAC took the unprecedented step of sanctioning a [smart contract](/what-are-smart-contracts), Tornado Cash.
+-   **The Challenge:** DeFi protocols are designed to be open and permissionless. However, OFAC requires that U.S. entities do not engage in transactions with sanctioned individuals or countries. In 2022, OFAC took the step of sanctioning a [smart contract](/what-are-smart-contracts), Tornado Cash.
 -   **The Impact:** This forces projects to make difficult decisions. Do they remain true to the ethos of decentralization, or do they implement on-chain censorship by using tools to block sanctioned addresses from their frontend? Working for a project means you will be part of these difficult conversations.
 
 **3. Personal Liability Risk (Especially for [DAO](/what-is-a-dao) Contributors)**

@@ -32,7 +32,7 @@ When you encrypt a number `x` to get `E(x)` and you encrypt a number `y` to get 
 Different HE schemes allow for different types of computations:
 -   **Partially Homomorphic Encryption (PHE):** Allows for an unlimited number of operations of *one* type (either addition or multiplication) but not both.
 -   **Somewhat Homomorphic Encryption (SHE):** Allows for some limited number of both addition and multiplication operations.
--   **Fully Homomorphic Encryption (FHE):** The ultimate goal. FHE allows for an unlimited number of both addition and multiplication operations, meaning it can handle any arbitrary computation.
+-   **Fully Homomorphic Encryption (FHE):** The core goal. FHE allows for an unlimited number of both addition and multiplication operations, meaning it can handle any arbitrary computation.
 
 ### Use Cases in Web3
 

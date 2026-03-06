@@ -11,7 +11,7 @@ The worlds of Artificial Intelligence (AI) and [Web3](/what-is-web3) are rapidly
 
 As we explored in our overview of [AI + Web3 careers](/ai-and-web3-hybrid-careers), this convergence is driven by a symbiotic relationship where each technology helps solve the other's core problems. Web3 can make AI more transparent and trustworthy, while AI can make Web3 systems more intelligent and powerful. For engineers, this creates a fascinating and highly lucrative career path.
 
-This guide provides a deep dive into the specific role of an AI/Web3 Engineer, outlining the key responsibilities, the required technical skills, and how to get started in this cutting-edge field.
+This guide provides a deep dive into the specific role of an AI/Web3 Engineer, outlining the key responsibilities, the required technical skills, and how to get started in this field.
 
 ### What Does an AI/Web3 Engineer Build?
 

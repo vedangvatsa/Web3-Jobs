@@ -10,7 +10,7 @@ category: "Industry Insights"
 
 For the entire history of the internet, true ownership in the digital realm has been an elusive concept. We've bought digital music, in-game items, and online movie collections, but we've never truly owned them. We have merely been renting a license to access them within a company's closed ecosystem. If the company goes out of business or decides to change its terms of service, our "purchases" can vanish in an instant. [Web3](/what-is-web3), the next evolution of the internet powered by [blockchain](/what-is-a-blockchain) technology, is fundamentally challenging this paradigm with a simple but revolutionary idea: true digital ownership.
 
-This shift from a "renter's internet" to an "owner's internet" is one of the most profound impacts of the [Web3](/what-is-web3) movement, with the potential to reshape industries, empower creators, and give users unprecedented control over their digital lives.
+This shift from a "renter's internet" to an "owner's internet" is one of the most profound impacts of the [Web3](/what-is-web3) movement, with the potential to reshape industries, empower creators, and give users control over their digital lives.
 
 ## The Problem with Ownership in Web2
 

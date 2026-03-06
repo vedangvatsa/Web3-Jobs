@@ -25,7 +25,7 @@ Key characteristics of shilling include:
 -   **Enthusiastic and Uncritical Promotion:** The promotion is almost always overwhelmingly positive, highlighting the potential upside while ignoring or downplaying the risks.
 -   **Use of Hype and Buzzwords:** Shills often use vague, exciting language, promising that a project is "the next 100x gem," is "going to the moon," or has "revolutionary technology," without providing substantive evidence.
 -   **Lack of Disclosure:** In many cases, the shill does not disclose that they have been paid or have a significant financial [stake](/how-to-become-a-web3-staking-specialist) in the project they are promoting. This lack of transparency is a key element of what makes shilling deceptive.
--   **Call to Action:** The ultimate goal is to get others to buy. The message, whether implicit or explicit, is "you should buy this now before it's too late."
+-   **Call to Action:** The core goal is to get others to buy. The message, whether implicit or explicit, is "you should buy this now before it's too late."
 
 It's important to distinguish shilling from genuine, grassroots enthusiasm. It is perfectly normal for someone who is excited about a project's technology or community to share that excitement. The term "shilling" usually implies a level of disingenuousness or a primary motivation that is financial rather than ideological.
 

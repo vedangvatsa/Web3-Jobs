@@ -9,7 +9,7 @@ data-ai-hint: "team collaboration meeting"
 
 ---
 
-In today's complex and fast-paced work environment, the biggest challenges and opportunities don't fit neatly into departmental boxes. Shipping a great product requires seamless collaboration between engineering, product, design, marketing, and sales. Solving a tough customer issue might involve support, finance, and legal.
+In today's complex and fast-paced work environment, the biggest challenges and opportunities don't fit neatly into departmental boxes. Shipping a great product requires collaboration between engineering, product, design, marketing, and sales. Solving a tough customer issue might involve support, finance, and legal.
 
 This is cross-functional collaboration: teams of people with different functional expertise working together towards a common goal. When it works, it's magic. It leads to more innovative solutions, faster execution, and a more holistic understanding of the business.
 
@@ -17,10 +17,10 @@ When it fails, it leads to finger-pointing, missed deadlines, and siloed thinkin
 
 ### 1. Establish a Shared Goal and a Single Owner
 
-The number one reason cross-functional projects fail is a lack of clarity on the ultimate goal and who is responsible for it.
+The number one reason cross-functional projects fail is a lack of clarity on the core goal and who is responsible for it.
 
 *   **Define the "North Star":** Before you do anything else, the team must agree on a single, clear, measurable goal. This is the "North Star" that will guide all decisions. For example, "Increase new user activation rate from 40% to 60% by the end of Q3."
-*   **Appoint a Directly Responsible Individual (DRI):** Even in a collaborative team, one person must be the ultimate owner. This person, the DRI, is not necessarily the most senior person or the manager. They are the person responsible for organizing the project, communicating status, and ensuring it hits its goal. This eliminates the "too many cooks in the kitchen" problem and provides a single point of contact.
+*   **Appoint a Directly Responsible Individual (DRI):** Even in a collaborative team, one person must be the core owner. This person, the DRI, is not necessarily the most senior person or the manager. They are the person responsible for organizing the project, communicating status, and ensuring it hits its goal. This eliminates the "too many cooks in the kitchen" problem and provides a single point of contact.
 
 ### 2. Kick Off with a Charter and a Plan
 

@@ -23,7 +23,7 @@ To better understand self-driving technology, the Society of Automotive Engineer
 *   **Level 2 (Partial Automation)**. The car can control both steering and acceleration/deceleration under certain conditions. Tesla's Autopilot and GM's Super Cruise are well-known examples. At this level, the human driver must remain engaged and ready to take over at any moment.
 *   **Level 3 (Conditional Automation)**. This is a significant step up. The car can handle all aspects of driving in specific environments, like on a highway, and the driver can safely take their attention off the road. However, the driver must be ready to take back control when the system requests it. This is often called "eyes off" automation.
 *   **Level 4 (High Automation)**. The vehicle can perform all driving tasks and monitor the driving environment in a specific area or under certain conditions, known as its operational design domain (ODD). The car will not operate outside its ODD. In this mode, no human intervention is required. Waymo's robotaxi service in Phoenix, Arizona, operates at this level within a defined geographical area.
-*   **Level 5 (Full Automation)**. This is the ultimate goal. A Level 5 vehicle can operate on any road and in any conditions that a human driver could. It has no steering wheel or pedals and can handle everything on its own, everywhere. We are still many years away from achieving this level of autonomy.
+*   **Level 5 (Full Automation)**. This is the core goal. A Level 5 vehicle can operate on any road and in any conditions that a human driver could. It has no steering wheel or pedals and can handle everything on its own, everywhere. We are still many years away from achieving this level of autonomy.
 
 ### The Challenges Ahead
 

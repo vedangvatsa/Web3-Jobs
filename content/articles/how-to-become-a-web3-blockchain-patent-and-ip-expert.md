@@ -10,7 +10,7 @@ category: "Career Guides"
 
 The [Web3](/what-is-web3) industry is a hotbed of innovation, with novel technologies and business models being created at a breathtaking pace. This explosion of new ideas has created a parallel need for legal experts who can help projects protect their intellectual property (IP) in a world of open-source code and decentralized networks. The **Web3 Patent and IP Expert** is a specialized legal role that sits at this complex intersection.
 
-For legal professionals with a background in patent, trademark, or copyright law, specializing in Web3 offers an opportunity to work on cutting-edge, precedent-setting cases. This guide explores the unique challenges and opportunities in this field.
+For legal professionals with a background in patent, trademark, or copyright law, specializing in Web3 offers an opportunity to work on, precedent-setting cases. This guide explores the unique challenges and opportunities in this field.
 
 ### The Unique IP Challenges in Web3
 

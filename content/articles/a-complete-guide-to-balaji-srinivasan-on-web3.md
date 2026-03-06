@@ -27,7 +27,7 @@ The cornerstone of Balaji's recent work is the concept of "The Network State," w
 
 1.  **Founded Online, Not on Land:** Unlike traditional states, a Network State begins with an online community of like-minded individuals, united by a shared set of values or a moral innovation.
 2.  **From Community to Country:** The community first builds a digital economy using its own integrated cryptocurrency. It then uses this collective economic power to crowdfund physical territory-initially as a series of disconnected enclaves (like apartments, houses, or even towns) around the world.
-3.  **Diplomatic Recognition:** The ultimate goal is to achieve diplomatic recognition from at least one existing nation-state, thereby gaining the full attributes of sovereignty and becoming a true "state."
+3.  **Diplomatic Recognition:** The core goal is to achieve diplomatic recognition from at least one existing nation-state, thereby gaining the full attributes of sovereignty and becoming a true "state."
 4.  **Voluntary and Opt-In:** Membership in a Network State is entirely voluntary. It represents a shift from the "coercive monopoly" of legacy states to a world of peaceful, opt-in competition between different governance models.
 
 Balaji sees the Network State as the successor to the nation-state, a new form of political organization made possible by the internet and cryptography. It is a peaceful, exit-based alternative for people who are dissatisfied with their current governments.
@@ -48,7 +48,7 @@ Balaji is a strong advocate for the right to pseudonymity-the ability to have a 
 Drawing on the work of economist Albert Hirschman, Balaji emphasizes the power of "exit." In the context of Web3, this means the ability for individuals to peacefully and digitally "exit" systems they disagree with.
 
 *   **Voting with Your Feet (and Your Funds):** Instead of trying to reform legacy institutions from within ("voice"), Web3 provides the tools to build and move to new, parallel systems. If you don't like your country's monetary policy, you can exit to Bitcoin. If you don't like your social network's censorship, you can exit to a decentralized alternative.
-*   **The Ultimate Check on Power:** He argues that the ability to exit is the ultimate check on state power. When citizens and capital can easily leave, governments are forced to compete for their loyalty by providing better services.
+*   **The Ultimate Check on Power:** He argues that the ability to exit is the core check on state power. When citizens and capital can easily leave, governments are forced to compete for their loyalty by providing better services.
 
 ### 3. The "Ledger of Record"
 

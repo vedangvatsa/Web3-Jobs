@@ -17,7 +17,7 @@ Solana's core value proposition is speed. While Ethereum prioritizes decentraliz
 Solana achieves its high speed through a combination of unique architectural features, the most famous of which is **Proof-of-History (PoH)**.
 
 - **Proof-of-History (PoH):** This is not a consensus mechanism itself, but a cryptographic clock that helps the network agree on the order of events without having to wait for other nodes. PoH creates a verifiable, timestamped record of all transactions. This allows validators to process transactions in parallel, as they can trust the timestamped order created by PoH, which dramatically increases the network's capacity.
-- **Tower BFT:** Solana's actual consensus mechanism is a version of Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) that is optimized for and supercharged by Proof-of-History.
+- **Tower BFT:** Solana's actual consensus mechanism is a version of Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) that is optimized for and improved by Proof-of-History.
 - **Parallel Transaction Processing:** Because of PoH, Solana can process transactions that don't affect the same state in parallel, unlike the sequential processing of most other blockchains.
 
 This architecture allows Solana to theoretically handle tens of thousands of transactions per second, with very low fees (often less than a fraction of a cent).

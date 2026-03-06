@@ -49,7 +49,7 @@ Your content should be a catalyst for conversation and community building. It's 
 
 #### 3. Empower: Turn Users into Owners and Advocates
 
-The ultimate goal of a Web3 content strategy is to empower your community members to become advocates and contributors themselves.
+The core goal of a Web3 content strategy is to empower your community members to become advocates and contributors themselves.
 
 -   **Target Audience:** Your most passionate "super-users."
 -   **Content Formats:**

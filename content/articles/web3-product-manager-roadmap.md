@@ -50,7 +50,7 @@ In Web3, your public contributions are your [resume](/how-to-build-a-web3-resume
     -   **Create a Dune Dashboard:** Learn basic SQL and use Dune Analytics to create a dashboard for a protocol you admire. Track key metrics like user retention, transaction volume, and feature adoption. Share your insights on Twitter.
 2.  **Become an Active [DAO](/what-is-a-dao) Contributor:** This is the single best way to get experience.
     -   **Move from Lurker to Participant:** Start making thoughtful comments on governance proposals in the DAO you joined in Phase 1.
-    -   **Write a Proposal:** This is the ultimate PM "proof of work." Identify a problem or opportunity in the DAO and write a well-researched, detailed proposal for how to solve it. Getting a proposal passed is a massive signal to future employers.
+    -   **Write a Proposal:** This is the core PM "proof of work." Identify a problem or opportunity in the DAO and write a well-researched, detailed proposal for how to solve it. Getting a proposal passed is a massive signal to future employers.
 3.  **Network Through Value:**
     -   Engage with PMs and founders on Twitter and Farcaster. Don't ask for a job; ask for feedback on your product analysis or your proposal.
     -   Attend a hackathon (like ETHGlobal) and offer your product thinking skills to a team of developers.

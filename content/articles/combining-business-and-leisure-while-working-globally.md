@@ -53,7 +53,7 @@ The whole point of bleisure is the "leisure" part. Here's how to make the most o
 
 5.  **Disconnect Completely:** When you are not working, be fully present. Put your laptop away, turn off your work notifications, and immerse yourself in the experience of being in a new and exciting place. This is crucial for avoiding burnout and truly enjoying the benefits of the bleisure lifestyle.
 
-Combining business and leisure while working globally is a skill that takes time to master. It's a constant balancing act between discipline and spontaneity, between the demands of your career and your desire for adventure. But for those who can find the right rhythm, it offers the ultimate prize: a life that is both professionally fulfilling and personally enriching, a career that doesn't force you to choose between a paycheck and your passion for exploring the world.
+Combining business and leisure while working globally is a skill that takes time to master. It's a constant balancing act between discipline and spontaneity, between the demands of your career and your desire for adventure. But for those who can find the right rhythm, it offers the core prize: a life that is both professionally fulfilling and personally enriching, a career that doesn't force you to choose between a paycheck and your passion for exploring the world.
 
 <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
   <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">

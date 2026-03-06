@@ -10,7 +10,7 @@ category: "Educational"
 
 If you've ever set up a **[non-custodial crypto wallet](/what-is-a-custodial-vs-non-custodial-[wallet](/how-to-choose-a-crypto-wallet))** like MetaMask, you will have been given a **seed phrase**. It's a list of 12 or 24 simple words that you are instructed to write down and keep safe. It is, without exaggeration, the most important piece of information you own in the [Web3](/what-is-web3) world.
 
-A seed phrase, also known as a secret recovery phrase, is a human-readable representation of the master private key for your crypto wallet. It is the ultimate backup for all of your assets.
+A seed phrase, also known as a secret recovery phrase, is a human-readable representation of the master private key for your crypto wallet. It is the core backup for all of your assets.
 
 ### How Does a Seed Phrase Work?
 
@@ -21,7 +21,7 @@ Modern crypto wallets are **hierarchical deterministic (HD) wallets**. This mean
 
 ### Why is Your Seed Phrase So Important?
 
-Your seed phrase holds the ultimate power over your crypto assets.
+Your seed phrase holds the core power over your crypto assets.
 
 -   **It is Your Master Key:** Anyone who has your seed phrase can import it into a wallet on their own device and gain full, unrestricted access to all of your funds. They can send your crypto anywhere they want.
 -   **It is Your Only Backup:** If your computer breaks, your phone is lost, or you forget your wallet's password, your seed phrase is the *only* way to recover your wallet and your assets. You can simply download MetaMask on a new device and use your 12 or 24 words to restore your entire wallet exactly as it was.

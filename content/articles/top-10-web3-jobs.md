@@ -110,7 +110,7 @@ Strong background in economics, mathematics, or computer science. Deep analytica
 ## 8. UX/UI Designer
 *The artists who make Web3 usable for everyone.*
 
-One of the biggest hurdles for Web3 adoption is its often-clunky user experience. UX/UI designers are crucial for bridging this gap. They design interfaces that abstract away the complexity of the blockchain, making dApps as intuitive and seamless as the Web2 apps we use every day.
+One of the biggest hurdles for Web3 adoption is its often-clunky user experience. UX/UI designers are crucial for bridging this gap. They design interfaces that abstract away the complexity of the blockchain, making dApps as intuitive and as the Web2 apps we use every day.
 
 ### Key Responsibilities:
 - Creating user flows, wireframes, and prototypes.

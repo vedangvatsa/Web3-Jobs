@@ -47,7 +47,7 @@ The power of CRISPR also brings with it serious ethical questions. The biggest c
 
 While this could potentially eradicate a genetic disease from a family line forever, it also opens the door to non-medical "enhancements" and the idea of "designer babies." There is a broad international consensus among scientists and ethicists that germline editing for reproductive purposes should not be pursued at this time, primarily due to safety concerns and the profound societal implications.
 
-CRISPR has given humanity an unprecedented level of control over the building blocks of life. It’s a tool with the potential to solve some of our biggest challenges, but it must be used wisely and thoughtfully.
+CRISPR has given humanity an level of control over the building blocks of life. It’s a tool with the potential to solve some of our biggest challenges, but it must be used wisely and thoughtfully.
 
 ### Frequently Asked Questions (FAQs)
 

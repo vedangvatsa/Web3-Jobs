@@ -9,7 +9,7 @@ category: "Career Guides"
 
 Venture Capital (VC) is the engine of innovation, providing the crucial early-stage funding that allows startups to grow and build the future. In the fast-paced world of [Web3](/what-is-web3), a new breed of venture capitalists has emerged: the **crypto VC**. These investors specialize in identifying and funding the most promising projects in the [blockchain](/what-is-a-blockchain) and decentralized technology space.
 
-For many, a career in Web3 VC is the ultimate goal. It's an opportunity to be at the absolute forefront of innovation, work with the brightest minds in the industry, and help shape the trajectory of the new internet. However, it's also one of the most competitive and sought-after career paths. This guide will demystify the world of crypto VC, breaking down the key roles, the skills required, and the unconventional paths that can lead to a job as a Web3 investor.
+For many, a career in Web3 VC is the core goal. It's an opportunity to be at the absolute forefront of innovation, work with the brightest minds in the industry, and help shape the trajectory of the new internet. However, it's also one of the most competitive and sought-after career paths. This guide will demystify the world of crypto VC, breaking down the key roles, the skills required, and the unconventional paths that can lead to a job as a Web3 investor.
 
 ### What Makes Crypto VC Different?
 

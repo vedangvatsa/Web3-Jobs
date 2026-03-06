@@ -40,7 +40,7 @@ The tokenization of real estate offers a host of revolutionary benefits:
 
 3.  **Lower Transaction Costs:** By using smart contracts to automate many of the processes handled by intermediaries like brokers, lawyers, and title agents, tokenization can dramatically reduce transaction fees and settlement times.
 
-4.  **Transparency:** All ownership records and transactions are recorded on an immutable public blockchain, providing an unprecedented level of transparency and reducing the risk of fraud.
+4.  **Transparency:** All ownership records and transactions are recorded on an immutable public blockchain, providing an level of transparency and reducing the risk of fraud.
 
 5.  **Programmable Assets:** Because the ownership is represented by a smart contract, it becomes programmable. This opens up a world of possibilities for automated dividend payments, complex governance structures, and novel [DeFi](/what-is-defi) integrations (e.g., using your real estate tokens as collateral for a loan).
 

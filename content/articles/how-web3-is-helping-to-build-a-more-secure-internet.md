@@ -32,7 +32,7 @@ In Web3, you are in control of your own account through a **[crypto wallet](/how
 Web3 is built on a foundation of strong cryptography, which provides mathematical certainty about the integrity of data and transactions.
 
 - **The Web2 Problem:** Data stored in a traditional database can be altered or deleted by a malicious administrator or hacker without a trace.
-- **The Web3 Solution:** All transactions on a [blockchain](/what-is-a-blockchain) are recorded in an immutable ledger. Each transaction is cryptographically signed, and each block is linked to the previous one with a cryptographic hash. This makes it impossible to tamper with historical data without it being immediately detected by the entire network. This provides a level of data integrity that is unprecedented.
+- **The Web3 Solution:** All transactions on a [blockchain](/what-is-a-blockchain) are recorded in an immutable ledger. Each transaction is cryptographically signed, and each block is linked to the previous one with a cryptographic hash. This makes it impossible to tamper with historical data without it being immediately detected by the entire network. This provides a level of data integrity that is.
 
 ### 4. Smart Contracts: Transparent and Auditable Logic
 

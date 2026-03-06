@@ -32,7 +32,7 @@ The Web3 space is filled with complex debates and trade-offs. Interviewers want 
 **The Question:** "What do you think is the biggest challenge facing [Ethereum](/what-is-ethereum) today?" or "What's a project you're excited about that most people aren't talking about?"
 
 **How to Prepare:**
--   **Go Beyond the Obvious:** Don't just say "scalability." A better answer would be, "While L2s have improved scalability, I believe the biggest challenge is the fragmentation of liquidity and user experience across different rollups. The next major step is improving seamless cross-L2 interoperability."
+-   **Go Beyond the Obvious:** Don't just say "scalability." A better answer would be, "While L2s have improved scalability, I believe the biggest challenge is the fragmentation of liquidity and user experience across different rollups. The next major step is improving cross-L2 interoperability."
 -   **Have a Unique Take:** Develop a thesis on a specific sector of the market. For example, be prepared to defend why you believe decentralized social media is more promising than Web3 gaming, or vice-versa.
 -   **"Strong Opinions, Loosely Held":** Show that you have a point of view, but also demonstrate that you are open to changing it based on new data.
 

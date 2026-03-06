@@ -59,7 +59,7 @@ Since Solidity 0.8.0, all arithmetic operations have built-in overflow and under
 
 ### The Role of Layer 2
 
-The ultimate gas optimization is to not perform transactions on the Ethereum mainnet at all. [Layer 2 scaling solutions](/guide-to-layer-2s) like Arbitrum, Optimism, and Polygon zkEVM offer transaction fees that are 10-100x cheaper than Layer 1. For most applications, building on an L2 is now the default choice, providing a user experience that is finally on par with traditional web applications.
+The core gas optimization is to not perform transactions on the Ethereum mainnet at all. [Layer 2 scaling solutions](/guide-to-layer-2s) like Arbitrum, Optimism, and Polygon zkEVM offer transaction fees that are 10-100x cheaper than Layer 1. For most applications, building on an L2 is now the default choice, providing a user experience that is finally on par with traditional web applications.
 
 Understanding the mechanics of gas is fundamental to being an effective Ethereum user and developer. For users, it allows for more efficient transaction submission. For developers, it is a crucial design constraint that forces a disciplined and thoughtful approach to building smart contracts, pushing them to write code that is not just functional and secure, but also elegant and efficient.
 

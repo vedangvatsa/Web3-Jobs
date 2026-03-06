@@ -40,7 +40,7 @@ The activation of MWEB in May 2022 was a landmark event. Mimblewimble is a priva
 
 ### How MWEB Works
 
-MWEB functions as an "extension block" alongside the main Litecoin chain. Users can seamlessly move their LTC into the MWEB and back out. While on the MWEB, transactions are confidential. This opt-in approach provides privacy for those who need it without forcing it on all users, striking a balance between privacy and regulatory compliance.
+MWEB functions as an "extension block" alongside the main Litecoin chain. Users canly move their LTC into the MWEB and back out. While on the MWEB, transactions are confidential. This opt-in approach provides privacy for those who need it without forcing it on all users, striking a balance between privacy and regulatory compliance.
 
 The technical implementation allows for transaction "cut-through," where intermediate transactions in a block can be removed, making the blockchain more scalable and less data-intensive over time. This offers a unique combination of privacy and scalability that is rare in the crypto space.
 
@@ -62,7 +62,7 @@ We will compare Litecoin's transaction volume, fees, and confirmation times to t
 
 ### Merchant Adoption and Payment Gateways
 
-The ultimate test for a payment currency is its acceptance by merchants. We will investigate the support for Litecoin among major crypto payment processors like BitPay. The number of merchants willing to accept LTC is a direct measure of its utility as a medium of exchange. Furthermore, the availability of Litecoin at crypto ATMs globally provides another data point on its real-world usability.
+The core test for a payment currency is its acceptance by merchants. We will investigate the support for Litecoin among major crypto payment processors like BitPay. The number of merchants willing to accept LTC is a direct measure of its utility as a medium of exchange. Furthermore, the availability of Litecoin at crypto ATMs globally provides another data point on its real-world usability.
 
 ## The Competitive Landscape in 2026
 

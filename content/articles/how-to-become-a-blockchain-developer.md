@@ -67,7 +67,7 @@ The best way to learn is by building. Follow this project progression to build y
 - **Twitter & Farcaster:** Follow and interact with builders in the space. Share what you're learning.
 - **Hackathons:** Participate in hackathons like those hosted by ETHGlobal. They are a great way to learn fast, meet people, and win grants.
 
-The journey to becoming a blockchain developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building, you'll acquire the skills and portfolio needed to land a high-impact role in this revolutionary industry.
+The journey to becoming a blockchain developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building, you'll acquire the skills and portfolio needed to land a high-impact role in thchanges industry.
 
 ## The Web3 Opportunity
 

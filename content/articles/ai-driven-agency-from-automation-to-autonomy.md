@@ -71,7 +71,7 @@ These agents will have human-set parameters but will operate autonomously within
 - Agents that learn and improve their strategies over time
 - Agents that participate in decentralized governance
 - Agents that own assets and participate in the economy
-- Agents that can handle unprecedented situations
+- Agents that can handle situations
 
 **Long term**: AI agents become economic participants in their own right. They own assets, participate in contracts, and interact with human economy as independent entities.
 

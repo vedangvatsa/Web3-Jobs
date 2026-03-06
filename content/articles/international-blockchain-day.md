@@ -26,7 +26,7 @@ This is the cornerstone of blockchain technology. In a traditional centralized s
 
 ### 2. Immutability
 
-Once a transaction is recorded on the blockchain, it cannot be altered or deleted. Each block in the chain is cryptographically linked to the one before it, creating a chronological and unchangeable record of events. This is achieved through hashing. Each block contains a hash of the previous block, creating a secure chain. If an attacker were to try to change the data in a past block, its hash would change, which would invalidate all subsequent blocks. This property of immutability provides an unprecedented level of data integrity and is what makes the blockchain a trusted source of truth.
+Once a transaction is recorded on the blockchain, it cannot be altered or deleted. Each block in the chain is cryptographically linked to the one before it, creating a chronological and unchangeable record of events. This is achieved through hashing. Each block contains a hash of the previous block, creating a secure chain. If an attacker were to try to change the data in a past block, its hash would change, which would invalidate all subsequent blocks. This property of immutability provides an level of data integrity and is what makes the blockchain a trusted source of truth.
 
 ### 3. Transparency
 

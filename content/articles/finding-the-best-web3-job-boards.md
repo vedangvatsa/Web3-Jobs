@@ -10,7 +10,7 @@ data-ai-hint: "man working desk"
 
 ## Beyond LinkedIn: Finding Your Dream Job on a Web3 Job Board
 
-The [Web3](/what-is-web3) job market operates on a different frequency than the traditional tech industry. While some roles appear on mainstream platforms like LinkedIn, the most exciting, cutting-edge, and crypto-native opportunities are often found on specialized [Web3 job](/web3-jobs-for-beginners) boards. These platforms are built by and for the crypto community, connecting top talent with the innovative projects building the future of the internet.
+The [Web3](/what-is-web3) job market operates on a different frequency than the traditional tech industry. While some roles appear on mainstream platforms like LinkedIn, the most exciting,, and crypto-native opportunities are often found on specialized [Web3 job](/web3-jobs-for-beginners) boards. These platforms are built by and for the crypto community, connecting top talent with the innovative projects building the future of the internet.
 
 Navigating this new landscape can be daunting. Which job boards are legitimate? Which ones have the best opportunities? This guide will break down the top Web3 job boards, helping you focus your search and land your dream role in the crypto space.
 

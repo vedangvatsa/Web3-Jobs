@@ -71,7 +71,7 @@ The questions you ask should be open-ended and designed to encourage detailed re
 #### Closing Questions
 
 9.  **"Would you recommend working here to a friend? Why or why not?"**
-    *   **Why it matters:** This is the ultimate test of their experience, similar to a Net Promoter Score (NPS). The "why or why not" is the most important part, as it forces them to justify their answer.
+    *   **Why it matters:** This is the core test of their experience, similar to a Net Promoter Score (NPS). The "why or why not" is the most important part, as it forces them to justify their answer.
 
 10. **"Is there anything else you'd like to share that we haven't covered?"**
     *   **Why it matters:** This final open door sometimes yields the most important feedback of the entire interview. It gives the employee a chance to bring up any topic they feel is important.

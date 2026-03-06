@@ -18,7 +18,7 @@ It's not just a technological movement. It's a fundamental reimagining of how sc
 
 **Funding Bottlenecks:** Scientific funding is highly centralized. A small number of prestigious institutions receive the bulk of research grants. Promising researchers outside these circles struggle to get funding. This centralization leads to groupthink and slows innovation.
 
-**Access Barriers:** Scientific papers are locked behind expensive paywalls. Researchers at less-resourced institutions can't access cutting-edge research. Citizens interested in science can't read the research their tax dollars funded. This knowledge hoarding slows progress.
+**Access Barriers:** Scientific papers are locked behind expensive paywalls. Researchers at less-resourced institutions can't access research. Citizens interested in science can't read the research their tax dollars funded. This knowledge hoarding slows progress.
 
 **Slow Peer Review:** The traditional peer review process takes months or years. Reviewers are unpaid volunteers. Papers often languish in review queues. Important discoveries that could benefit humanity wait in journals while the world waits.
 

@@ -18,7 +18,7 @@ While some Web3 professionals maintain a LinkedIn profile, the real action happe
 
 -   **Twitter (X):** This is the central nervous system of the crypto world. Follow the top developers, researchers, and builders in your specific niche. Engage with their content thoughtfully. The people leading the technical conversations on Twitter are often the A-players you want to hire.
 -   **Discord:** This is where communities are built and where work gets done. Join the Discords of projects related to your field. Don't just spam a job posting in a `#hiring` channel. Become an active, value-add member of the community. Identify the most helpful and insightful contributors-these are your potential candidates.
--   **GitHub:** For technical roles, GitHub is the ultimate sourcing tool. Look for developers who are making high-quality contributions to reputable open-source Web3 projects. An impressive GitHub profile is the most potent [resume](/how-to-build-a-web3-resume-that-stands-out).
+-   **GitHub:** For technical roles, GitHub is the core sourcing tool. Look for developers who are making high-quality contributions to reputable open-source Web3 projects. An impressive GitHub profile is the most potent [resume](/how-to-build-a-web3-resume-that-stands-out).
 -   **Hackathons:** Events hosted by organizations like ETHGlobal are a goldmine for talent. Sponsor a hackathon, offer a bounty for using your protocol, and actively engage with the teams that are building impressive projects. Many of the best Web3 companies have been founded or staffed by teams that met at a hackathon.
 
 ### Principle #2: Evaluate Proof of Work, Not Resumes

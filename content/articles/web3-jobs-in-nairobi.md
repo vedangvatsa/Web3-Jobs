@@ -42,7 +42,7 @@ The demand for Web3 talent in Nairobi is growing rapidly, particularly for devel
 
 ### How to Build a Web3 Career in Nairobi
 
-1.  **Focus on Mobile-First and UX:** The key to adoption in Kenya and the broader region is a seamless mobile user experience. In your [portfolio](/building-web3-portfolio), demonstrate your ability to build simple, intuitive, and low-bandwidth mobile dApps. Abstracting away the complexities of blockchain is paramount.
+1.  **Focus on Mobile-First and UX:** The key to adoption in Kenya and the broader region is a mobile user experience. In your [portfolio](/building-web3-portfolio), demonstrate your ability to build simple, intuitive, and low-bandwidth mobile dApps. Abstracting away the complexities of blockchain is paramount.
 
 ### Complete Compensation & Opportunity Guide
 

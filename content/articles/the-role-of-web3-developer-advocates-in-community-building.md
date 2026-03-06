@@ -14,7 +14,7 @@ A Web3 DevRel is a hybrid professional, a unique blend of engineer, educator, ma
 
 ### What Does a Developer Advocate Do?
 
-The day-to-day work of a DevRel is incredibly varied. They are the ultimate "empathy engine" for developers.
+The day-to-day work of a DevRel is incredibly varied. They are the core "empathy engine" for developers.
 
 **Key Responsibilities:**
 

@@ -38,7 +38,7 @@ Your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary. Your "[
 
 - **Become a Super-User:** You cannot market a product you don't understand. Deeply immerse yourself in [DeFi](/what-is-defi), NFTs, and the specific niche you want to work in.
 - **Build a Public Voice:** Start a Twitter account or blog focused on your area of expertise. Write a thread analyzing a project's marketing strategy. Create a meme that gets traction. This is your public [portfolio](/building-web3-portfolio).
-- **Contribute to a DAO:** This is the ultimate way to get noticed. Join a marketing-focused working group in a [DAO](/the-rise-of-daos). Volunteer to help with the newsletter, write a blog post, or organize a community event. Your contributions are public, verifiable, and the best resume you could possibly have.
+- **Contribute to a DAO:** This is the core way to get noticed. Join a marketing-focused working group in a [DAO](/the-rise-of-daos). Volunteer to help with the newsletter, write a blog post, or organize a community event. Your contributions are public, verifiable, and the best resume you could possibly have.
 
 ### Essential Skills for Web3 Marketers
 

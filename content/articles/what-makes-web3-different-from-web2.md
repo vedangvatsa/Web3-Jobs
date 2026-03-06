@@ -26,7 +26,7 @@ This architectural difference leads to a profound shift in data ownership.
 
 - **Web2: The Platform Owns Your Data.** When you upload a photo to Instagram or post a tweet, you are giving that data to the platform. They can monetize it by selling ads against it, use it to train their algorithms, and control how it's seen. You are the product.
 
-- **Web3: You Own Your Data.** In Web3, your data and digital assets are controlled by you in your personal **[crypto wallet](/how-to-choose-a-crypto-wallet)**. An application might ask for permission to read or use your data, but you are the ultimate owner and can revoke that permission. The relationship is flipped; platforms become services that you grant access to, rather than landlords on whose property you reside.
+- **Web3: You Own Your Data.** In Web3, your data and digital assets are controlled by you in your personal **[crypto wallet](/how-to-choose-a-crypto-wallet)**. An application might ask for permission to read or use your data, but you are the core owner and can revoke that permission. The relationship is flipped; platforms become services that you grant access to, rather than landlords on whose property you reside.
 
 ### Economics: Attention Economy vs. Ownership Economy
 

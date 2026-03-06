@@ -14,7 +14,7 @@ There is one simple, powerful, and almost universally effective strategy that wi
 
 **The secret is this: Start doing the job before you get the job.**
 
-Find a project you admire, identify a small problem they have, and solve it for them, publicly and without asking for permission. This single act of proactive value creation is more powerful than any resume, any cover letter, or any networking message. It is the ultimate "proof of work."
+Find a project you admire, identify a small problem they have, and solve it for them, publicly and without asking for permission. This single act of proactive value creation is more powerful than any resume, any cover letter, or any networking message. It is the core "proof of work."
 
 This guide will break down this strategy, explaining why it works and providing a step-by-step framework for how you can apply it, no matter your skillset.
 

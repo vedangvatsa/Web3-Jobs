@@ -37,7 +37,7 @@ The term "ape" as a descriptor for a certain type of retail investor has its roo
 -   **A Rejection of Expertise:** The "ape" identity was a rejection of the traditional financial establishment. It implied a simple, unsophisticated investor who was making decisions based on conviction and community solidarity rather than complex financial models.
 -   **High-Risk Appetite:** "Apes" were known for their willingness to make extremely high-risk "yolo" (you only live once) trades, often pouring their life savings into a single volatile stock.
 
-This culture migrated seamlessly from meme stocks to cryptocurrency, especially into the world of "memecoins" and new NFT projects. The term "apeing" became the verb that described the specific action of making one of these high-conviction, community-driven trades.
+This culture migratedly from meme stocks to cryptocurrency, especially into the world of "memecoins" and new NFT projects. The term "apeing" became the verb that described the specific action of making one of these high-conviction, community-driven trades.
 
 ## The Psychology Behind Apeing
 

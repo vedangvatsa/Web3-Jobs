@@ -53,7 +53,7 @@ The structure of a blockchain gives it several key properties that distinguish i
 
 - **Decentralization**: There is no central server or authority. The ledger is distributed across a peer-to-peer network of computers (called nodes). Every node has a full copy of the blockchain. This removes single points of failure and makes it highly resistant to censorship or control. No single company or government can shut it down.
 - **Immutability**: Once a transaction is recorded on the blockchain and the block is added to the chain, it can't be altered or deleted. The cryptographic links between blocks ensure that the history of transactions is permanent and unchangeable. This creates a trustworthy and auditable record.
-- **Transparency**: In public blockchains like Bitcoin and Ethereum, anyone can view the entire history of transactions. While the identities of participants are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value is completely open for audit. This creates an unprecedented level of transparency.
+- **Transparency**: In public blockchains like Bitcoin and Ethereum, anyone can view the entire history of transactions. While the identities of participants are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value is completely open for audit. This creates an level of transparency.
 - **Security**: Decentralization, cryptographic hashing, and consensus mechanisms work together to create a highly secure system. To compromise the network, an attacker would need to control over 51% of the network's computing power (a "51% attack"), which is prohibitively expensive and difficult on large, established blockchains.
 
 ## Types of Blockchains
@@ -81,7 +81,7 @@ Smart contracts have unlocked a new wave of applications:
 Despite its immense potential, blockchain is not a silver bullet. The technology is still in its early stages and faces significant hurdles to mainstream adoption.
 
 - **The Blockchain Trilemma**: This is a famous concept coined by Ethereum's founder, Vitalik Buterin. It states that it is incredibly difficult for a blockchain to achieve all three of the following properties simultaneously: Decentralization, Security, and Scalability. Often, to improve scalability (the ability to handle many transactions quickly), projects have to make compromises on decentralization or security. This is the central challenge that developers are working to solve.
-- **User Experience (UX)**: Interacting with blockchains can be complex. Managing private keys, understanding gas fees, and using crypto wallets is still a significant barrier for the average person. The user experience needs to become as seamless as using a modern web application.
+- **User Experience (UX)**: Interacting with blockchains can be complex. Managing private keys, understanding gas fees, and using crypto wallets is still a significant barrier for the average person. The user experience needs to become as as using a modern web application.
 - **Energy Consumption**: Proof of Work blockchains, particularly Bitcoin, have been heavily criticized for their enormous energy consumption. While the industry is rapidly moving towards more efficient Proof of Stake models, the environmental impact remains a valid concern.
 - **Regulation**: Governments and financial institutions around the world are still figuring out how to approach this new technology. Regulatory uncertainty can stifle innovation and create risks for businesses and users alike.
 
