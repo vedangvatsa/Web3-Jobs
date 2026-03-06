@@ -1,6 +1,6 @@
 ---
 title: 'Network School: A Frontier Community for Builders, Creators & Techno-Optimists'
-image: 'https://assets.ns.com/static/about/network-state-and-network-school-covers/network-school-cover.jpg?v=v2'
+image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzA5MzE2NDI5fDA&ixlib=rb-4.0.3&q=80&w=1080'
 description: 'Network School is a frontier community and startup society for techno-optimists. Join remote workers, founders, creators, and engineers building themselves up while bootstrapping future societies. Co-living + coworking + community for just $1,500/month.'
 category: 'Remote Work'
 data-ai-hint: 'community startup society startup communities co-living coworking remote work founders'
