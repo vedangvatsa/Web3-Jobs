@@ -22,44 +22,33 @@ Network School is a startup society: co-living + coworking + community on an isl
 - Speaker events & workshops
 - Community access
 
-## Who Lives There
+## Who It's For
 
-Remote workers, digital nomads, software founders, hardware founders, online creators, operators, engineers. Intentionally diverse. The best ideas come from unexpected combinations.
+Remote workers, digital nomads, software founders, hardware founders, online creators, operators, engineers.
 
-## Why It Matters
+## Basics
 
-Working from home is flexible but isolating. Network School solves three problems:
+**Pricing**: $1,500/month (shared) or $3,000/month (private)
+**Location**: Island off Singapore
+**Commitment**: Monthly memberships. Longer stays prioritized.
+**Approval**: 2-3 weeks. Application-based to maintain community fit.
 
-1. **Community**: Surrounded by ambitious peers. Natural collaboration and partnerships happen.
-2. **Infrastructure**: Everything you'd need scattered across three locations (office, gym, coworking) is here in one place.
-3. **Cost**: $1,500-3,000/month all-in is cheaper than just rent in most tech hubs.
+## Apply
 
-## Location
-
-Island off Singapore. Close to the city for investor meetings and market access. Far enough to avoid distraction and stay focused.
-
-## How to Join
-
-1. Visit [ns.com/hashtagweb3/apply](https://ns.com/hashtagweb3/apply)
-2. Apply with your email, name, preferred dates, room type, social links, and brief background
-3. Wait for approval (typically 2-3 weeks)
-4. Move in on the first of the month
+Visit [ns.com/hashtagweb3/apply](https://ns.com/hashtagweb3/apply) and provide your email, name, preferred dates, room type, social links, and brief background.
 
 **Hashtag Community members get one week free.**
 
-## Key Questions
+## Questions
 
-**Cost breakdown?**
-$1,500 (shared) or $3,000 (private). Covers: accommodation, meals, WiFi, gym, coworking, content studio, makerspace, all facilities.
+**What's included?**
+Accommodation, meals, WiFi, gym, coworking, content studio, makerspace, workshops, community.
 
-**How long can I stay?**
-Flexible. Memberships start monthly. Longer commitments are prioritized, but one month is fine.
+**For founders only?**
+No. Remote workers, creators, operators, engineers—anyone building something.
 
-**For tech founders only?**
-No. Remote workers, creators, operators, builders of all kinds are welcome.
+**How long minimum?**
+One month is fine. Longer commitments are prioritized.
 
-**Why selective membership?**
-To maintain community quality. Members share values around ambition and growth.
-
-**Best for whom?**
-Anyone who benefits from being around other ambitious people building things, who wants professional infrastructure, and who values community over isolation.
+**Why selective?**
+To maintain community quality and cultural fit.
