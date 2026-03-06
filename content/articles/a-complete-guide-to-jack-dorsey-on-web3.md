@@ -53,7 +53,7 @@ Web5 is not a new blockchain. It is a proposed set of open standards designed to
 
 *   **Decentralized Identifiers (DIDs):** Web5 uses DIDs, a W3C standard, to allow users to create and control their own digital identities without relying on a company or government.
 *   **Decentralized Web Nodes (DWNs):** This is a personal data store where an individual can keep their own data. Instead of your data living on Facebook's servers, it lives in your DWN, and you grant applications permission to access it.
-*   **The Role of Bitcoin:** The Bitcoin blockchain is used as the anchoring layer for the identity system. It provides the ultimate source of truth and security for the DIDs, but it is not used to store large amounts of personal data.
+*   **The Role of Bitcoin:** The Bitcoin blockchain is used as the anchoring layer for the identity system. It provides the core source of truth and security for the DIDs, but it is not used to store large amounts of personal data.
 
 The goal of Web5 is to create a web where you own your identity and your data, solving the problems that "Web3" claims to solve but doing so on an open, Bitcoin-native standard without creating a new token or VC-owned network.
 

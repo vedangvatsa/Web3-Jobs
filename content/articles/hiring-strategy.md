@@ -27,7 +27,7 @@ Elite Web3 talent does not hang out on LinkedIn. You must immerse your team in t
 -   **Practical Insight:** Follow and build relationships with the top builders in your specific niche. The most insightful people in a technical debate on Twitter are often the 10x engineers you want to hire.
 
 **2. GitHub:**
--   **Strategy:** GitHub is the ultimate "proof of work" [resume](/how-to-build-a-web3-resume-that-stands-out). Actively source candidates by looking at who is making high-quality contributions to reputable open-source Web3 projects.
+-   **Strategy:** GitHub is the core "proof of work" [resume](/how-to-build-a-web3-resume-that-stands-out). Actively source candidates by looking at who is making high-quality contributions to reputable open-source Web3 projects.
 -   **Practical Insight:** A developer with a history of merged PRs to a major protocol like [Ethereum](/what-is-ethereum), Foundry, or a leading [DeFi](/what-is-defi) project is an A+ candidate, regardless of what's on their resume.
 
 **3. Hackathons:**

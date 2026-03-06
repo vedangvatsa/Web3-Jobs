@@ -52,7 +52,7 @@ However, the situation is far from hopeless. The Solana community is aware of th
 
 **Conclusion**
 
-Solana's declining developer activity is a warning sign that the ecosystem is facing significant headwinds. The long-term effects of the FTX collapse, combined with the powerful narrative and network effects of Ethereum's L2s, have created a challenging competitive landscape. To reverse this trend, Solana must continue to prove its technical resilience, significantly improve its developer onboarding experience, and carve out a clear and defensible niche where its architectural trade-offs provide a 10x advantage over the competition. The future of Solana will depend not on the price of its token, but on its ability to win back the hearts and minds of the builders who are the ultimate engine of innovation in the decentralized world.
+Solana's declining developer activity is a warning sign that the ecosystem is facing significant headwinds. The long-term effects of the FTX collapse, combined with the powerful narrative and network effects of Ethereum's L2s, have created a challenging competitive landscape. To reverse this trend, Solana must continue to prove its technical resilience, significantly improve its developer onboarding experience, and carve out a clear and defensible niche where its architectural trade-offs provide a 10x advantage over the competition. The future of Solana will depend not on the price of its token, but on its ability to win back the hearts and minds of the builders who are the core engine of innovation in the decentralized world.
 
 <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
   <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">

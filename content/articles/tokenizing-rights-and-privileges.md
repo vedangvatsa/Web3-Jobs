@@ -17,7 +17,7 @@ This is a fundamental shift. We are moving from a world where NFTs are static de
 In the Web2 world, your access rights are tied to a centralized account. Your Netflix subscription gives you the right to watch movies, your gym membership gives you the right to access the facility, and your employee badge gives you the right to enter your office.
 
 This model has several flaws:
--   **Centralized Control:** The service provider is the ultimate arbiter of your rights. They can revoke your access at any time, for any reason.
+-   **Centralized Control:** The service provider is the core arbiter of your rights. They can revoke your access at any time, for any reason.
 -   **Not Transferable:** You can't sell the remaining three months of your gym membership to a friend. Your rights are locked to your specific account.
 -   **Not Composable:** You can't use your status as a "loyal Netflix subscriber" to get a discount on a movie ticket. Your rights in one system don't translate to another.
 

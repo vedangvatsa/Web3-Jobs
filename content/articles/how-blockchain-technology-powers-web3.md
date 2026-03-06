@@ -49,7 +49,7 @@ Blockchains like Ethereum introduced the concept of **[smart contracts](/what-ar
 
 Blockchains have their own native digital currencies (like ETH on Ethereum) that are used to pay for network usage ("gas fees") and to reward those who secure the network.
 
-- **How it Powers Web3:** This creates a built-in, internet-native economic layer. It allows for the seamless transfer of value between users and applications without relying on the traditional banking system.
+- **How it Powers Web3:** This creates a built-in, internet-native economic layer. It allows for the transfer of value between users and applications without relying on the traditional banking system.
 - **Practical Insight:** This economic layer is what enables "Play-to-Earn" gaming models, allows creators to be paid directly by their fans, and facilitates the [freelance](/how-to-start-freelancing-for-beginners) "gig economy" of [DAOs](/what-is-a-dao).
 
 ### Conclusion: The Bedrock of the New Internet

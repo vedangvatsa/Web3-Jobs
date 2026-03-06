@@ -45,7 +45,7 @@ As DAOs become more complex, they will increasingly leverage AI agents to automa
 
 #### 4. Web3 Product Manager (UX Focus)
 
-This is the evolution of today's [Web3 PM](/web3-product-manager-jobs). As the technology matures, the focus will shift dramatically from technical feasibility to creating seamless, "invisible" user experiences.
+This is the evolution of today's [Web3 PM](/web3-product-manager-jobs). As the technology matures, the focus will shift dramatically from technical feasibility to creating, "invisible" user experiences.
 
 -   **Future Focus:** Designing dApps that feel as simple and intuitive as the best Web2 applications. This involves abstracting away all the crypto complexity-no more seed phrases, gas fees, or confusing transaction pop-ups.
 -   **Skills Needed:** Mastery of UX research and design principles. Deep empathy for the non-technical user. Experience with [Account Abstraction (EIP-4337)](/account-abstraction-explained) and other UX-enhancing technologies.

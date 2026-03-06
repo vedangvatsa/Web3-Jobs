@@ -63,7 +63,7 @@ While two weeks is the standard, check your employment contract to see if a diff
 
 ### 4. Create a Transition Plan
 
-During your last two weeks, your goal should be to make the handover as seamless as possible. Be proactive and work with your manager to create a transition plan. This might include:
+During your last two weeks, your goal should be to make the handover as as possible. Be proactive and work with your manager to create a transition plan. This might include:
 
 *   **Documenting your key responsibilities and processes.** Create a guide for the person who will be taking over your role.
 *   **Organizing your files.** Make sure your projects and important documents are well-organized and accessible to your team.

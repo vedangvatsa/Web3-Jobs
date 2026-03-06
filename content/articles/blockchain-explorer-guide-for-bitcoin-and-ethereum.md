@@ -71,7 +71,7 @@ The homepage of most block explorers provides a real-time dashboard of the netwo
 
 ### Conclusion: Trust, but Verify
 
-The block explorer is the ultimate tool for practicing the core ethos of Web3: "Don't trust, verify." It transforms the blockchain from an abstract concept into a tangible, auditable database. Whether you are a developer debugging a transaction, an investor researching a project, or a user simply confirming a payment, mastering the use of a block explorer is an essential skill for safely and effectively navigating the decentralized world. For anyone serious about a **[career in Web3](/how-to-start-a-web3-career)**, proficiency with a block explorer is as fundamental as knowing how to use a web browser.
+The block explorer is the core tool for practicing the core ethos of Web3: "Don't trust, verify." It transforms the blockchain from an abstract concept into a tangible, auditable database. Whether you are a developer debugging a transaction, an investor researching a project, or a user simply confirming a payment, mastering the use of a block explorer is an essential skill for safely and effectively navigating the decentralized world. For anyone serious about a **[career in Web3](/how-to-start-a-web3-career)**, proficiency with a block explorer is as fundamental as knowing how to use a web browser.
 
 ## The Web3 Opportunity
 

@@ -27,7 +27,7 @@ If you're going to start with just one tool, this is it. ChatGPT is like a Swiss
 
 ### 2. The Coding Partner. GitHub Copilot
 
-For anyone who writes code, [GitHub](/building-web3-portfolio) Copilot is a game-changer. Integrated directly into your code editor (like VS Code), it acts as an AI pair programmer, suggesting lines of code and entire functions as you type.
+For anyone who writes code, [GitHub](/building-web3-portfolio) Copilot enables. Integrated directly into your code editor (like VS Code), it acts as an AI pair programmer, suggesting lines of code and entire functions as you type.
 
 **Key Uses for Productivity**
 

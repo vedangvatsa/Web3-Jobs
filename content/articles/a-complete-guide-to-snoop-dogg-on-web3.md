@@ -28,7 +28,7 @@ Snoop Dogg's approach to Web3 is rooted in his decades of experience in the musi
 For Snoop, the most powerful aspect of Web3 is **ownership**. He views the traditional music industry as an extractive system where labels, publishers, and streaming services take the lion's share of the revenue, leaving artists with a fraction of the value they create.
 
 *   **NFTs as a Direct-to-Fan Channel:** He sees NFTs as a way to bypass these intermediaries. Artists can sell their music directly to their fans as NFTs, creating a direct economic relationship and retaining a much larger percentage of the revenue.
-*   **Royalties on Secondary Sales:** He has championed the power of [smart contract](/what-are-smart-contracts)-enforced royalties. With NFTs, an artist can earn a percentage of every future sale of their work on the secondary market. This is a game-changer compared to the traditional music world, where artists typically see no revenue from the resale of used CDs or vinyl records.
+*   **Royalties on Secondary Sales:** He has championed the power of [smart contract](/what-are-smart-contracts)-enforced royalties. With NFTs, an artist can earn a percentage of every future sale of their work on the secondary market. This enables compared to the traditional music world, where artists typically see no revenue from the resale of used CDs or vinyl records.
 
 ### 2. Building a Virtual Empire in The Sandbox
 

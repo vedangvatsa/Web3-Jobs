@@ -33,7 +33,7 @@ The most fundamental innovation is the Music NFT. This involves tokenizing a son
 
 -   **How it Works:** An artist can mint a limited edition of their new single as, for example, 100 [NFTs](/what-are-nfts). Fans can purchase these NFTs directly from the artist, becoming verifiable owners of that specific edition of the song.
 -   **Direct-to-Fan Monetization:** This model cuts out the intermediaries. The revenue from the sale goes directly to the artist's crypto [wallet](/how-to-choose-a-crypto-wallet), allowing them to capture a much larger share of the value.
--   **Programmable Royalties:** The NFT's **[smart contract](/what-are-smart-contracts)** can include a royalty function. This means that every time the Music NFT is resold on a secondary market, the artist automatically receives a percentage (e.g., 10%) of the sale price. This is a game-changer, allowing artists to share in the long-term appreciation of their work.
+-   **Programmable Royalties:** The NFT's **[smart contract](/what-are-smart-contracts)** can include a royalty function. This means that every time the Music NFT is resold on a secondary market, the artist automatically receives a percentage (e.g., 10%) of the sale price. This enables, allowing artists to share in the long-term appreciation of their work.
 -   **Practical Insight:** Platforms like Sound.xyz and Catalog have pioneered this model, creating vibrant communities where collectors actively support emerging artists by buying their Music NFTs.
 
 #### 2. Fan-Owned Record Labels (Music DAOs)

@@ -57,7 +57,7 @@ The path to becoming a CM often starts with being an active and helpful communit
 4.  **Transition to Full-Time CM:** After proving your reliability and skill as a moderator, you can transition into a full-time Community Manager role.
 5.  **Head of Community:** Experienced CMs can move into leadership roles, managing a team of other community managers and setting the overall community strategy for a project.
 
-The Community Manager role is one of the most challenging but also one of the most rewarding careers in Web3. It's a chance to be at the very heart of a project, building the relationships and the culture that are the ultimate foundation for success in the decentralized world.
+The Community Manager role is one of the most challenging but also one of the most rewarding careers in Web3. It's a chance to be at the very heart of a project, building the relationships and the culture that are the core foundation for success in the decentralized world.
 
 Ready to find your community? Explore hundreds of open roles on our [Web3 Job Board](/jobs).
 

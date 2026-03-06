@@ -26,7 +26,7 @@ A particularly promising approach is the **perovskite-silicon tandem solar cell*
 
 Another major trend in solar innovation is moving beyond rigid, bulky panels and integrating photovoltaics directly into the things we use every day.
 
-**Building-Integrated Photovoltaics (BIPV)** is a field dedicated to making solar a seamless part of a building's structure. This includes solar shingles that look like normal roofing materials, solar windows that are semi-transparent and can generate power, and solar facades that replace traditional building materials. The goal is to turn entire buildings into power-generating structures without compromising on aesthetics.
+**Building-Integrated Photovoltaics (BIPV)** is a field dedicated to making solar a part of a building's structure. This includes solar shingles that look like normal roofing materials, solar windows that are semi-transparent and can generate power, and solar facades that replace traditional building materials. The goal is to turn entire buildings into power-generating structures without compromising on aesthetics.
 
 **Flexible and printed solar cells** are also opening up new possibilities. Using materials like perovskites or organic polymers, scientists can create solar cells that are so thin and lightweight they can be printed onto flexible plastics or even fabrics. This could lead to solar-powered tents, backpacks that can charge your devices, or even clothing that generates electricity. While the efficiency of these flexible cells is currently lower than rigid panels, they offer a level of versatility that was previously unimaginable.
 

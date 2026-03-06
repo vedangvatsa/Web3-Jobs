@@ -21,7 +21,7 @@ When he first encountered Bitcoin, he saw the same pattern. He recognized it not
 
 ## Core Thesis: Bitcoin as the Future of Money and Governance
 
-Tim Draper's entire Web3 philosophy can be distilled down to a single, powerful conviction: **Bitcoin is the future.** While other investors may diversify across a [portfolio](/building-web3-portfolio) of crypto assets, Draper has remained a steadfast Bitcoin maximalist, arguing that Bitcoin's unique properties make it the ultimate long-term winner.
+Tim Draper's entire Web3 philosophy can be distilled down to a single, powerful conviction: **Bitcoin is the future.** While other investors may diversify across a [portfolio](/building-web3-portfolio) of crypto assets, Draper has remained a steadfast Bitcoin maximalist, arguing that Bitcoin's unique properties make it the core long-term winner.
 
 ### 1. The Silk Road Bitcoin Auction
 

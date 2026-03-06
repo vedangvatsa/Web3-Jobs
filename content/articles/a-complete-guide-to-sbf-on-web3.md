@@ -9,7 +9,7 @@ data-ai-hint: "man portrait"
 
 ## Introduction to SBF and His Rise in Crypto
 
-Sam Bankman-Fried, widely known as SBF, is one of the most polarizing figures in the history of cryptocurrency. As the founder and former CEO of the crypto exchange FTX and the trading firm Alameda Research, he rose to prominence with unprecedented speed, becoming a billionaire by his late twenties and a key voice in the [Web3](/what-is-web3) industry. His public image was that of a visionary and an altruistic leader, championing a philosophy of "effective altruism" where he aimed to make billions of dollars to give away to charity.
+Sam Bankman-Fried, widely known as SBF, is one of the most polarizing figures in the history of cryptocurrency. As the founder and former CEO of the crypto exchange FTX and the trading firm Alameda Research, he rose to prominence with speed, becoming a billionaire by his late twenties and a key voice in the [Web3](/what-is-web3) industry. His public image was that of a visionary and an altruistic leader, championing a philosophy of "effective altruism" where he aimed to make billions of dollars to give away to charity.
 
 This guide provides a comprehensive overview of SBF's journey in Web3, from his early days in quantitative trading to the heights of his influence and the stunning collapse of his empire. We will explore his key ideas, his impact on the industry, the controversies that surrounded him, and the critical lessons the Web3 community can learn from his story.
 
@@ -25,7 +25,7 @@ At the peak of his influence, SBF was a prolific speaker and writer, articulatin
 
 ### Key Themes in SBF's Philosophy:
 
-1.  **Composable "Money Legos":** SBF was a firm believer in the composability of DeFi, the idea that different protocols can be combined like "money legos" to create novel financial products. He often described a future where complex financial derivatives could be built and settled on-chain with unprecedented transparency and efficiency.
+1.  **Composable "Money Legos":** SBF was a firm believer in the composability of DeFi, the idea that different protocols can be combined like "money legos" to create novel financial products. He often described a future where complex financial derivatives could be built and settled on-chain with transparency and efficiency.
 
 2.  **The "Box" Analogy for [Yield Farming](/what-is-yield-farming):** In a now-infamous podcast episode, SBF described yield farming through an analogy of a "magic box." You put tokens in the box, more tokens come out, and the value of the box (the protocol's governance [token](/what-is-a-token)) goes up. While intended as a simplified explanation, critics later pointed to this as evidence of a simplistic and unsustainable view of DeFi, where value was created out of thin air rather than through genuine economic activity.
 

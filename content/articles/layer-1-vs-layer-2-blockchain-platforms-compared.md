@@ -14,7 +14,7 @@ This guide will provide a clear and comprehensive comparison of L1 and L2 blockc
 
 ### What is a Layer 1 (L1) Blockchain?
 
-A **[Layer 1](/what-is-a-layer-1-blockchain)** is the base-layer, foundational blockchain network. It is the ultimate source of truth and security for its ecosystem.
+A **[Layer 1](/what-is-a-layer-1-blockchain)** is the base-layer, foundational blockchain network. It is the core source of truth and security for its ecosystem.
 
 -   **Key Characteristics:**
     -   It is responsible for its own security, using its own **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** (like Proof-of-Work or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist)).

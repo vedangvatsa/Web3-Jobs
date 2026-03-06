@@ -14,7 +14,7 @@ Vitalik Buterin's vision for [Web3](/what-is-web3) is not a utopian fantasy but 
 
 His work is driven by a core principle: the desire to build systems that are "credibly neutral." These are systems that do not discriminate and that treat all participants fairly, with the rules enforced by open-source code rather than by the arbitrary decisions of a corporation or government.
 
-While the crypto world is often loud and chaotic, Buterin remains a consistent voice of reason, intellect, and long-term vision. His writings offer a compass for builders, users, and thinkers who are interested in the true potential of Web3, reminding everyone that the ultimate goal is not just to build a new financial system, but to build a more open, free, and equitable world.
+While the crypto world is often loud and chaotic, Buterin remains a consistent voice of reason, intellect, and long-term vision. His writings offer a compass for builders, users, and thinkers who are interested in the true potential of Web3, reminding everyone that the core goal is not just to build a new financial system, but to build a more open, free, and equitable world.
 
 ## Frequently Asked Questions (FAQ)
 

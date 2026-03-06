@@ -12,7 +12,7 @@ In the complex and fast-moving world of [Web3](/what-is-web3), information is cu
 
 Unlike in Web2, where content creation is often tied to large media companies or ad-driven platforms, Web3 content creators are independent journalists, researchers, educators, and entertainers who build their own audience and reputation based on the quality of their work. They are the storytellers who shape the narratives, the educators who onboard new users, and the analysts who cut through the hype.
 
-For skilled writers, podcasters, and video producers, Web3 offers an unprecedented opportunity to build a career, establish a personal brand, and earn a significant income. This guide explores the different paths for a Web3 content creator and how to get started.
+For skilled writers, podcasters, and video producers, Web3 offers an opportunity to build a career, establish a personal brand, and earn a significant income. This guide explores the different paths for a Web3 content creator and how to get started.
 
 ### The Power of "Proof of Knowledge"
 
@@ -72,7 +72,7 @@ Once you have built a reputation and an audience, several monetization paths ope
 -   **Full-Time Roles:** Many content creators are hired for full-time "Content Marketing" or "[Developer Relations](/what-is-a-web3-devrel-engineer)" roles at top protocols.
 -   **Direct Monetization:**
     -   **Subscriptions:** Offer a paid tier for your newsletter or podcast with exclusive content.
-    -   **NFTs:** Turn your articles or artwork into collectible NFTs. Platforms like Mirror make this seamless.
+    -   **NFTs:** Turn your articles or artwork into collectible NFTs. Platforms like Mirror make this.
     -   **Grants:** DAOs and foundations often provide grants to independent researchers and creators who are providing value to their ecosystem.
 
 A career as a Web3 content creator is a path for the self-starter. It requires curiosity, discipline, and a passion for sharing knowledge. For those who possess these traits, it offers a unique opportunity to build a personal brand, become a respected voice in a revolutionary industry, and create a career on your own terms.

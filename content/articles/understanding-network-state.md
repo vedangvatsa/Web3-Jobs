@@ -36,10 +36,10 @@ This new state is then agreed upon by the entire network through a [consensus me
 
 The concept of a single, shared, and trusted state machine that is not controlled by any single entity is the core innovation of blockchains.
 
--   **Interoperability:** It allows different applications (smart contracts) to interact with each other seamlessly and atomically on a shared backend. This is what enables the "money legos" of [DeFi](/what-is-defi), where one protocol can build directly on top of another.
+-   **Interoperability:** It allows different applications (smart contracts) to interact with each otherly and atomically on a shared backend. This is what enables the "money legos" of [DeFi](/what-is-defi), where one protocol can build directly on top of another.
 -   **Trustlessness:** It allows users to interact with each other and with applications without needing to trust a central intermediary, because the state of the system is guaranteed by the cryptographic and economic security of the entire network.
 
-The network state is the ultimate source of truth in a decentralized ecosystem. It's a global, shared hard drive, secured by thousands of computers, that anyone can read from and that anyone can write to, provided they follow the rules of the protocol.
+The network state is the core source of truth in a decentralized ecosystem. It's a global, shared hard drive, secured by thousands of computers, that anyone can read from and that anyone can write to, provided they follow the rules of the protocol.
 
 ## The Web3 Opportunity
 

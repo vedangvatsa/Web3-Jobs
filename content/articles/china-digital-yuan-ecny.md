@@ -31,7 +31,7 @@ This allows the government to maintain central control while leveraging the exis
 ### Key Features and Goals of the e-CNY
 
 -   **Programmable Money:** The e-CNY's [smart contracts](/what-are-smart-contracts) are controlled by the central bank. This allows for "programmable money." For example, the government could issue stimulus payments that have an expiration date or can only be spent on certain goods.
--   **Traceability and Surveillance:** Every transaction made with the e-CNY is traceable by the central bank. This gives the government unprecedented visibility into and control over the flow of money in the economy. This is a stark contrast to the pseudonymity of most public blockchains.
+-   **Traceability and Surveillance:** Every transaction made with the e-CNY is traceable by the central bank. This gives the government visibility into and control over the flow of money in the economy. This is a stark contrast to the pseudonymity of most public blockchains.
 -   **Reduced Reliance on Tech Giants:** The e-CNY is partly a move to reduce the dominance of private payment giants like Alipay and WeChat Pay, re-asserting the state's control over the financial system.
 -   **Internationalization of the Yuan:** China hopes that a digital yuan could make it easier for other countries to use its currency for international trade, potentially challenging the global dominance of the US dollar.
 

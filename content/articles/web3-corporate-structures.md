@@ -26,7 +26,7 @@ The most fundamental change is the shift from a rigid, top-down hierarchy to a f
 In a traditional corporation, board meetings are held behind closed doors, and strategic decisions are made in secret. DAOs flip this entirely.
 
 -   **How it Works:** In a protocol DAO like Uniswap or Aave, any major decision-from a software upgrade to a change in the fee structure-must be submitted as a public proposal on a governance forum. The proposal is debated openly by the entire community. The final decision is then made via a public, on-chain vote where every token holder's vote is recorded on the blockchain.
--   **The Impact:** This creates an unprecedented level of transparency and accountability. It transforms governance from a private, opaque process into an open, public conversation.
+-   **The Impact:** This creates an level of transparency and accountability. It transforms governance from a private, opaque process into an open, public conversation.
 
 **2. Fluid and Permissionless Workforce**
 

@@ -47,7 +47,7 @@ How does the network agree on which transactions are valid and which block gets 
 
 *   **Mining:** Participants, known as "miners," compete to solve a complex mathematical puzzle.
 *   **Winning the Block:** The first miner to solve the puzzle gets to create the next block of transactions and is rewarded with a certain amount of newly created bitcoin.
-*   **Security:** This process requires an immense amount of computational power, making it prohibitively expensive for any single actor to try and take over the network. To cheat, an attacker would need to control more than 51% of the entire network's computing power, a feat of unprecedented scale.
+*   **Security:** This process requires an immense amount of computational power, making it prohibitively expensive for any single actor to try and take over the network. To cheat, an attacker would need to control more than 51% of the entire network's computing power, a feat of scale.
 
 Proof-of-Work was the breakthrough that made a decentralized, trustless network possible. It provided a way for the network to reach consensus without a central coordinator.
 

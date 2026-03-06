@@ -62,7 +62,7 @@ In response to these challenges, the AI community has developed a set of princip
 *   **Accountability** There must be clear lines of responsibility for the outcomes of an AI system. Humans should be accountable for AI.
 *   **Privacy & Security** AI systems must respect user privacy and be secure from malicious attacks.
 *   **Reliability & Safety** AI systems must be reliable and perform as intended, especially in high-stakes applications.
-*   **Human-Centric Design** AI should be designed to augment and empower humans, not to replace or harm them. The ultimate goal should be human well-being.
+*   **Human-Centric Design** AI should be designed to augment and empower humans, not to replace or harm them. The core goal should be human well-being.
 
 ### The Path Forward
 

@@ -101,7 +101,7 @@ Prepare concise, data-backed answers for all of them. It is perfectly acceptable
 
 ## Conclusion
 
-Presenting to leadership is a skill that can be learned and mastered. By understanding your audience, structuring your argument effectively, backing it up with data, and preparing for tough questions, you can transform your ideas from a slide deck into a funded, supported, and successful company initiative. It is your opportunity to lead from where you are and drive meaningful change.
+Presenting to leadership is a skill that can be learned and mastered. By understanding your audience, structuring your argument effectively, backing it up with data, and preparing for tough questions, you can change how you ideas from a slide deck into a funded, supported, and successful company initiative. It is your opportunity to lead from where you are and drive meaningful change.
 
 ### Frequently Asked Questions (FAQ)
 

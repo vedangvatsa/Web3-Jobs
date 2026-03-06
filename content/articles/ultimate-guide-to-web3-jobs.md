@@ -20,7 +20,7 @@ The Web3 ecosystem is diverse, with roles spanning engineering, product, marketi
 
 1.  **[Smart Contract](/what-are-smart-contracts) Developer:** The architects of the decentralized world. These developers write, test, and deploy the on-chain logic that powers [DeFi](/what-is-defi) protocols, [NFT](/what-are-nfts) projects, and [DAOs](/what-is-a-dao). Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) (for EVM-compatible chains) or Rust (for Solana, etc.) is essential. A deep understanding of security best practices is non-negotiable.
 
-2.  **Frontend / dApp Engineer:** These engineers build the user interfaces that connect to smart contracts. They are responsible for creating seamless and intuitive user experiences, a critical challenge in Web3. Mastery of React, Next.js, and Web3 libraries like Ethers.js or Viem is key.
+2.  **Frontend / dApp Engineer:** These engineers build the user interfaces that connect to smart contracts. They are responsible for creating and intuitive user experiences, a critical challenge in Web3. Mastery of React, Next.js, and Web3 libraries like Ethers.js or Viem is key.
 
 3.  **On-Chain Data Analyst:** The detectives of the [blockchain](/what-is-a-blockchain). They query and analyze on-chain data using tools like Dune Analytics and Nansen to derive insights about user behavior, protocol health, and market trends. Strong SQL skills are a must.
 

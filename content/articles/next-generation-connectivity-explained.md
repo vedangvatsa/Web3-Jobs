@@ -12,7 +12,7 @@ Next-generation connectivity refers to the ongoing evolution of wireless communi
 
 The transition from one generation of wireless technology to the next is not just about making your phone's internet faster. Each generation has unlocked new possibilities. 3G brought basic internet access to our phones. 4G gave us the speed for video streaming and the app economy. 5G is enabling the massive [Internet of Things (IoT)](/what-is-internet-of-things-technology) and real-time applications like cloud gaming.
 
-Next-generation connectivity, looking towards 6G and beyond, aims to create a world where the digital and physical realms are seamlessly integrated. It's about creating a network that is not just a tool for communication but a distributed sensory system that can understand and interact with the physical world in real time.
+Next-generation connectivity, looking towards 6G and beyond, aims to create a world where the digital and physical realms arely integrated. It's about creating a network that is not just a tool for communication but a distributed sensory system that can understand and interact with the physical world in real time.
 
 ### The Vision for 6G and Beyond
 

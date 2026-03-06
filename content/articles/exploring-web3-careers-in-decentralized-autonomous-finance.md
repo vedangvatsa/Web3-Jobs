@@ -10,7 +10,7 @@ category: "Career Guides"
 
 Decentralized Finance, or [DeFi](/what-is-defi), is the beating heart of the [Web3](/what-is-web3) revolution. It's a bold and ambitious movement to rebuild the entire financial system on open, permissionless blockchains. Instead of relying on traditional intermediaries like banks, brokerages, and insurers, DeFi uses [smart contracts](/what-are-smart-contracts) to create a transparent, global, and accessible alternative for lending, borrowing, trading, and earning yield.
 
-This financial paradigm shift has created a vibrant and rapidly growing job market. [DeFi](/what-is-defi) protocols, which collectively manage tens of billions of dollars in value, are in a fierce competition for talent. They need builders, thinkers, strategists, and communicators who can navigate the unique intersection of finance and cutting-edge technology.
+This financial paradigm shift has created a vibrant and rapidly growing job market. [DeFi](/what-is-defi) protocols, which collectively manage tens of billions of dollars in value, are in a fierce competition for talent. They need builders, thinkers, strategists, and communicators who can navigate the unique intersection of finance and technology.
 
 This guide will explore the key job roles within the DeFi ecosystem, the skills required to land them, and the unique challenges and opportunities of working in this space. For a more focused look, see our guide on [how to get a job in DeFi with no experience](/how-to-get-a-job-in-defi-with-no-experience).
 

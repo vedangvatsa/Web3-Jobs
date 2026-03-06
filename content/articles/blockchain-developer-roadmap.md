@@ -23,7 +23,7 @@ Before you write a single line of code, you must understand the environment you'
 -   **Start here:** [What is a Blockchain?](/what-is-a-blockchain)
 
 **1.2. Public Key Cryptography:**
--   **Public/Private Keys:** Learn how they are generated and used to create a "[wallet](/how-to-choose-a-crypto-wallet)." Understand that the private key is the ultimate source of ownership.
+-   **Public/Private Keys:** Learn how they are generated and used to create a "[wallet](/how-to-choose-a-crypto-wallet)." Understand that the private key is the core source of ownership.
 -   **Digital Signatures:** Understand how a private key is used to sign a transaction, proving ownership without revealing the key itself.
 
 **1.3. [Ethereum](/what-is-ethereum) & the EVM:**
@@ -83,7 +83,7 @@ Once you have the fundamentals down, it's time to specialize to increase your va
 -   **DeFi:** Deconstruct the architecture of major protocols like Uniswap V2 or Aave. Build your own simplified versions.
 -   **Scalability:** Learn how to deploy and build on Layer 2 networks like Arbitrum or Optimism.
 
-The journey to becoming a blockchain developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building in public, you'll acquire the skills and portfolio needed to land a high-impact role in this revolutionary industry.
+The journey to becoming a blockchain developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building in public, you'll acquire the skills and portfolio needed to land a high-impact role in thchanges industry.
 
 Ready to find your first developer role? Check out the latest openings on our [Web3 Job Board](/jobs).
 

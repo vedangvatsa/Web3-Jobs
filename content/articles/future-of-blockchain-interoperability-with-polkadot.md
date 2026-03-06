@@ -10,7 +10,7 @@ category: "Technology Deep Dives"
 
 As the [Web3](/what-is-web3) ecosystem has grown, it has not evolved into a single, monolithic [blockchain](/what-is-a-blockchain). Instead, we have a vibrant multiverse of hundreds of different Layer 1 and Layer 2 networks, each with its own community, strengths, and trade-offs. This has created a new, fundamental challenge: **interoperability**. How do we get these distinct, sovereign blockchains to communicate and share assets with each other securely and efficiently?
 
-While many projects are focused on building bridges between existing chains, a few projects were designed from the very beginning to solve this problem. The most prominent among them is **Polkadot**. Polkadot's entire architecture is built around a vision of a "multichain" future, where a network of interconnected, specialized blockchains can work together seamlessly.
+While many projects are focused on building bridges between existing chains, a few projects were designed from the very beginning to solve this problem. The most prominent among them is **Polkadot**. Polkadot's entire architecture is built around a vision of a "multichain" future, where a network of interconnected, specialized blockchains can work togetherly.
 
 This guide provides a deep dive into Polkadot's unique architecture, explaining how its Relay Chain, parachains, and cross-chain communication protocol (XCM) are designed to create a truly interoperable "blockchain of blockchains."
 
@@ -58,7 +58,7 @@ Polkadot's vision is ambitious and technologically complex.
 -   **Parachain Auctions:** The auction system for securing a slot can be very expensive, creating a high barrier to entry for new projects. (Newer models like "on-demand parachains" are being developed to address this).
 -   **Ecosystem Growth:** While the technology is powerful, Polkadot's ecosystem of dApps and users has not yet grown to the size of Ethereum's.
 
-Despite these challenges, Polkadot represents one of the most compelling and comprehensive solutions to the problem of blockchain interoperability. Its architecture provides a scalable and secure framework for a future where a diverse ecosystem of specialized blockchains can communicate and share value seamlessly. As the Web3 world continues to expand into a multichain reality, the principles of shared security and native interoperability pioneered by Polkadot will be more important than ever.
+Despite these challenges, Polkadot represents one of the most compelling and comprehensive solutions to the problem of blockchain interoperability. Its architecture provides a scalable and secure framework for a future where a diverse ecosystem of specialized blockchains can communicate and share valuely. As the Web3 world continues to expand into a multichain reality, the principles of shared security and native interoperability pioneered by Polkadot will be more important than ever.
 
 ## The Web3 Opportunity
 

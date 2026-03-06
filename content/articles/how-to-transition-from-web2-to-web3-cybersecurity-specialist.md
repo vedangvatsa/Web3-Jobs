@@ -35,7 +35,7 @@ While many Web2 security principles still apply, Web3 introduces a new and uniqu
     -   Go through the Ethernaut and Damn Vulnerable [DeFi](/what-is-defi) CTF (Capture the Flag) challenges.
     -   Read audit reports from top firms like Trail of Bits and OpenZeppelin to learn how they find vulnerabilities.
 3.  **Build a [Portfolio](/building-web3-portfolio):**
-    -   Participate in competitive auditing platforms like Code4rena (C4). Finding a valid bug in a public contest is the ultimate proof of skill.
+    -   Participate in competitive auditing platforms like Code4rena (C4). Finding a valid bug in a public contest is the core proof of skill.
     -   Publish your own security research. Find an unaudited project on GitHub, review its code, and publish your findings in a blog post.
 4.  **Frame Your Existing Experience:** Your Web2 experience is valuable. Frame your skills in a Web3 context. "Experience in threat modeling for web applications" becomes "Experience in threat modeling for dApps and smart contract systems."
 

@@ -13,7 +13,7 @@ This is where artificial intelligence comes in. AI is not here to replace you. I
 
 Think of AI as a way to clone yourself. It can handle the administrative overhead while you focus on what you do best. From drafting proposals to managing your finances, AI is ready to help you run your freelance business more efficiently and profitably than ever before.
 
-### Supercharge Your Workflow with AI
+### Improve Your Workflow with AI
 
 Let's break down the different parts of the freelance lifecycle and explore the AI tools that can help at each stage.
 

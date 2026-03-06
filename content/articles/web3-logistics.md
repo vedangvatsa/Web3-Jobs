@@ -10,7 +10,7 @@ category: "Industry Insights"
 
 The global logistics and supply chain industry is a multi-trillion dollar behemoth, the invisible engine that powers modern commerce. However, it is also an industry plagued by fragmentation, inefficiency, and a lack of transparency. Tracking a single container as it moves across the globe involves a complex and often paper-based dance between dozens of different actors-manufacturers, shipping lines, freight forwarders, ports, customs officials, and retailers. This complexity creates delays, increases costs, and opens the door for fraud and error.
 
-[Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology offer a powerful set of tools to solve these long-standing problems. By creating a single, shared, and immutable ledger, blockchain can bring unprecedented transparency and efficiency to the world of logistics. This is creating a new and growing field for **[Web3 Supply Chain Experts](/web3-supply-chain-experts-navigating-blockchain-solutions)** who can design and implement these next-generation systems.
+[Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology offer a powerful set of tools to solve these long-standing problems. By creating a single, shared, and immutable ledger, blockchain can bring transparency and efficiency to the world of logistics. This is creating a new and growing field for **[Web3 Supply Chain Experts](/web3-supply-chain-experts-navigating-blockchain-solutions)** who can design and implement these next-generation systems.
 
 This guide will explore the key ways that Web3 is transforming the logistics industry and the new business and career opportunities that are emerging as a result.
 

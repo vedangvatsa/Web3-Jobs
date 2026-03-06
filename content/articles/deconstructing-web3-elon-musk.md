@@ -30,7 +30,7 @@ While Musk was open to the potential of cryptocurrencies, his initial reaction t
 
 This critique gets to the heart of the "decentralization theater" problem in the crypto industry. Many projects claim to be decentralized but are, in reality, highly dependent on a small group of insiders, whether it's through [token](/what-is-a-token) allocation, control of core infrastructure, or governance. Musk, as someone who thinks in terms of first principles, was quick to see through the marketing and question the underlying reality.
 
-His skepticism also extended to the user experience of Web3. He has often lamented the complexity of [crypto wallets](/how-to-choose-a-crypto-wallet), dApps, and the overall user journey. For someone who has built his career on creating products like Tesla and SpaceX, which are known for their sleek and intuitive user interfaces, the clunky and often unforgiving nature of early Web3 applications was a major red flag. He understands that for a technology to achieve mass adoption, it must be seamless and accessible to the average person, a standard that much of Web3 has yet to meet.
+His skepticism also extended to the user experience of Web3. He has often lamented the complexity of [crypto wallets](/how-to-choose-a-crypto-wallet), dApps, and the overall user journey. For someone who has built his career on creating products like Tesla and SpaceX, which are known for their sleek and intuitive user interfaces, the clunky and often unforgiving nature of early Web3 applications was a major red flag. He understands that for a technology to achieve mass adoption, it must be and accessible to the average person, a standard that much of Web3 has yet to meet.
 
 ## The Free Speech Absolutist: The X (Twitter) Acquisition
 

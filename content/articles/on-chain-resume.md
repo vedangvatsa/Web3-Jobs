@@ -10,7 +10,7 @@ category: "Career Guides"
 
 In the traditional job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is a curated document, a polished summary of your past achievements designed to impress a potential employer. In the new, transparent world of [Web3](/what-is-web3), this model is being augmented, and in some cases, replaced by a much more powerful and verifiable credential: your **on-chain resume**.
 
-An on-chain resume is not a document you create; it's a public record of your activity that is permanently etched onto the [blockchain](/what-is-a-blockchain). It's the sum of your transactions, your governance votes, your [DAO](/what-is-a-dao) contributions, and the assets you hold in your crypto [wallet](/how-to-choose-a-crypto-wallet). In a trustless ecosystem, this "proof of work" is becoming the ultimate way to build a reputation and signal your skills, passion, and expertise. For savvy Web3 professionals, curating a strong on-chain resume is a powerful career strategy.
+An on-chain resume is not a document you create; it's a public record of your activity that is permanently etched onto the [blockchain](/what-is-a-blockchain). It's the sum of your transactions, your governance votes, your [DAO](/what-is-a-dao) contributions, and the assets you hold in your crypto [wallet](/how-to-choose-a-crypto-wallet). In a trustless ecosystem, this "proof of work" is becoming the core way to build a reputation and signal your skills, passion, and expertise. For savvy Web3 professionals, curating a strong on-chain resume is a powerful career strategy.
 
 ### What is an On-Chain Resume?
 

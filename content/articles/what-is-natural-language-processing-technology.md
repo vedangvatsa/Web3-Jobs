@@ -12,7 +12,7 @@ Natural Language Processing, or NLP, is a field of [artificial intelligence](/wh
 
 Human language is messy and complex. It's full of ambiguity, sarcasm, context, and unwritten rules that we navigate effortlessly. For a computer, which thinks in terms of absolute logic and structured data, this is incredibly difficult. For example, consider the sentence, "I saw a man on a hill with a telescope." Who has the telescope? You or the man? As a human, you use context to guess the most likely meaning. NLP is the science of teaching a computer to do the same thing.
 
-The ultimate goal of NLP is to enable machines to read, understand, and derive meaning from human languages in a way that is valuable. It's not just about recognizing words. it's about understanding the relationships between them and the intent behind them.
+The core goal of NLP is to enable machines to read, understand, and derive meaning from human languages in a way that is valuable. It's not just about recognizing words. it's about understanding the relationships between them and the intent behind them.
 
 ### How Does NLP Work?
 

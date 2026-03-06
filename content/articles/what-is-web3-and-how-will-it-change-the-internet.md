@@ -57,7 +57,7 @@ The building blocks of Web3-decentralization, ownership, and verifiability-unloc
 ### The Challenges Ahead
 
 Web3 is still in its early, experimental phase, and it faces significant challenges.
-- **User Experience (UX):** Interacting with dApps can be complicated and is not yet as seamless as using Web2 applications.
+- **User Experience (UX):** Interacting with dApps can be complicated and is not yet as as using Web2 applications.
 - **Scalability:** Blockchains can be slow and expensive to use, although this is rapidly improving with the development of [Layer 2 scaling solutions](/guide-to-layer-2s).
 - **Education:** The concepts behind Web3 are new and can be difficult for people to grasp.
 

@@ -8,7 +8,7 @@ category: "Technology Deep Dives"
 
 ---
 
-One of the biggest obstacles to the mainstream adoption of [Web3](/what-is-web3) is its notoriously poor user experience (UX). For new users, interacting with a decentralized application (dApp) for the first time can be a confusing, intimidating, and often unforgiving process. Concepts like gas fees, [wallet](/how-to-choose-a-crypto-wallet) signatures, and transaction finality are completely foreign to anyone accustomed to the seamless world of Web2.
+One of the biggest obstacles to the mainstream adoption of [Web3](/what-is-web3) is its notoriously poor user experience (UX). For new users, interacting with a decentralized application (dApp) for the first time can be a confusing, intimidating, and often unforgiving process. Concepts like gas fees, [wallet](/how-to-choose-a-crypto-wallet) signatures, and transaction finality are completely foreign to anyone accustomed to the world of Web2.
 
 For Web3 to reach the next billion users, it must abstract away this complexity. This has created a massive demand for skilled UX/UI designers who can bridge the gap between the powerful but complex backend of the [blockchain](/what-is-a-blockchain) and the end-user who simply wants to accomplish a task. A great Web3 designer is more than just a visual artist; they are a user psychologist, a security advocate, and an educator.
 

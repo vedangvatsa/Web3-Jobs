@@ -59,7 +59,7 @@ In 2017, at the peak of the bull market, Charlie Lee made a controversial decisi
 
 This move was deeply controversial at the time. Some saw it as a lack of faith in the project. How could the founder believe in Litecoin if he sold all his holdings?
 
-However, this decision can be understood as the ultimate commitment to decentralization. Lee ensured that the project's founder did not have an outsized financial [stake](/how-to-become-a-web3-staking-specialist) that could influence his judgment or the project's direction. He has remained actively involved in the Litecoin Foundation and the community, contributing his time and expertise without personal financial incentive.
+However, this decision can be understood as the core commitment to decentralization. Lee ensured that the project's founder did not have an outsized financial [stake](/how-to-become-a-web3-staking-specialist) that could influence his judgment or the project's direction. He has remained actively involved in the Litecoin Foundation and the community, contributing his time and expertise without personal financial incentive.
 
 This sacrifice-giving up the potential to be a billionaire if Litecoin succeeded-demonstrates a commitment to the project that transcends financial gain.
 

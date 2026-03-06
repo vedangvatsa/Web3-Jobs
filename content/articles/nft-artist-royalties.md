@@ -21,7 +21,7 @@ The core idea is simple and elegant. When an artist mints an NFT, the smart cont
 2.  **Marketplace Integration:** When the NFT is sold on a secondary marketplace (like OpenSea or Blur), the marketplace's smart contract is supposed to read the royalty information from the NFT's contract.
 3.  **Automatic Payout:** After the sale is complete, the marketplace's contract automatically splits the payment, sending the majority (e.g., 95%) to the seller and the royalty fee (5%) directly to the creator's wallet.
 
-This process, in theory, is seamless, transparent, and unstoppable, all enforced by the impartial logic of the code. It removes the need for trusted intermediaries and ensures creators are compensated for the long-term value they create.
+This process, in theory, is, transparent, and unstoppable, all enforced by the impartial logic of the code. It removes the need for trusted intermediaries and ensures creators are compensated for the long-term value they create.
 
 ## The Technical Standard: EIP-2981
 

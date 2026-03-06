@@ -12,7 +12,7 @@ As [Web3](/what-is-web3) matures, the initial ethos of radical transparency is b
 
 ### The Privacy Engineer's Toolkit
 
-A privacy engineer works with cutting-edge cryptography to bring confidentiality to Web3.
+A privacy engineer works with cryptography to bring confidentiality to Web3.
 
 -   **Zero-Knowledge Proofs (ZKPs):** This is the core technology. A privacy engineer must have a deep understanding of [ZKPs](/zero-knowledge-proofs-explained), including the different types (SNARKs vs. STARKs) and how to write circuits using languages like Circom or Cairo. This is a primary focus for [ZK-Rollup](/how-zkevm-brings-zero-knowledge-proofs-to-[ethereum](/what-is-ethereum)) teams.
 -   **Homomorphic Encryption (HE):** This advanced technique allows for computation on encrypted data. A privacy engineer might work on building confidential [smart contracts](/what-are-smart-contracts) using [homomorphic encryption](/how-homomorphic-encryption-powers-web3-privacy).

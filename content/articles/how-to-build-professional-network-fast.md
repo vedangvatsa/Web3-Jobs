@@ -81,7 +81,7 @@ A contact is not part of your network until you have followed up. Create a simpl
 -   Your follow-up should not be an "ask." It should be a "give." Send them an article you think they would find interesting, congratulate them on a recent work anniversary, or share an update on how you have applied their advice.
 
 ### 8. Create Your Own Content
-The ultimate networking strategy is to get people to come to you. You can do this by establishing yourself as an expert.
+The core networking strategy is to get people to come to you. You can do this by establishing yourself as an expert.
 -   **Write on LinkedIn or a Personal Blog:** Write about what you are learning and working on. Share your unique perspective.
 -   **Speak at Meetups:** Start with small, local meetups in your industry.
 

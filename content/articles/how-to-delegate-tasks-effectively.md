@@ -56,7 +56,7 @@ People need to feel safe to ask questions and even to fail. If your team is afra
 
 When the task is completed, give public credit to the person who did the work. Don't take the credit for yourself. In that team meeting, say, "Great work on this analysis, Sarah. Can you walk us through your findings?" This public recognition is a powerful motivator and shows the rest of the team the benefits of taking on new challenges.
 
-Effective delegation is a game-changer. It builds a more capable and empowered team, and it frees you up to be the strategic leader your organization needs you to be.
+Effective delegation enables. It builds a more capable and empowered team, and it frees you up to be the strategic leader your organization needs you to be.
 
 ### Frequently Asked Questions
 

@@ -10,7 +10,7 @@ category: "Career Guides"
 
 Luanda, the dynamic and rapidly modernizing capital of Angola, is at the very beginning of its journey into the [Web3](/what-is-web3) world. As a major center for finance and energy in Central Africa, the city possesses the economic foundations and a growing pool of tech talent necessary to build a future [blockchain](/what-is-a-blockchain) ecosystem. While the Web3 scene is still nascent, there is a burgeoning interest among young developers, entrepreneurs, and even established corporations in how decentralized technology can be leveraged to solve local challenges, particularly in finance and logistics.
 
-The emerging Web3 community in Luanda is characterized by a focus on education, a desire to leapfrog traditional technological hurdles with cutting-edge solutions, and a strong connection to the Portuguese-speaking world. This guide offers a forward-looking perspective on the [Web3 career](/web3-jobs-for-beginners) landscape in Luanda, exploring the potential growth sectors, the skills that will be in demand, and how ambitious professionals can become pioneers in Angola's digital future.
+The emerging Web3 community in Luanda is characterized by a focus on education, a desire to leapfrog traditional technological hurdles with solutions, and a strong connection to the Portuguese-speaking world. This guide offers a forward-looking perspective on the [Web3 career](/web3-jobs-for-beginners) landscape in Luanda, exploring the potential growth sectors, the skills that will be in demand, and how ambitious professionals can become pioneers in Angola's digital future.
 
 ### The Luanda Web3 Landscape
 

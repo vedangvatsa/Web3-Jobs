@@ -12,7 +12,7 @@ Augmented Reality, or AR, is a technology that enhances the real world by overla
 
 The most common way to experience AR today is through a smartphone. Think of the popular game Pokémon GO, where you see digital creatures appearing in the real world through your phone's camera. Or think of an Instagram filter that puts virtual sunglasses on your face. These are simple but powerful examples of AR. The device's camera captures the real world, and then the software overlays a layer of digital information on top of that live view.
 
-The goal of AR is to seamlessly blend the digital and physical worlds, providing users with relevant, contextual information without requiring them to look away from their real-world environment.
+The goal of AR is toly blend the digital and physical worlds, providing users with relevant, contextual information without requiring them to look away from their real-world environment.
 
 ### How Does Augmented Reality Work?
 

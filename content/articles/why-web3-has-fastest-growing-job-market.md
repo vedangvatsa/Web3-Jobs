@@ -16,7 +16,7 @@ This guide will delve into the key drivers behind the [Web3 job](/web3-jobs-for-
 
 ### Driver 1: Unprecedented Venture Capital Investment
 
-The primary fuel for any hiring boom is capital, and the Web3 space has seen an unprecedented influx of venture capital over the past several years. Top-tier VC firms have raised massive, multi-billion dollar funds dedicated solely to investing in crypto startups and protocols.
+The primary fuel for any hiring boom is capital, and the Web3 space has seen an influx of venture capital over the past several years. Top-tier VC firms have raised massive, multi-billion dollar funds dedicated solely to investing in crypto startups and protocols.
 
 -   **The Scale of Investment:** Firms like Andreessen Horowitz (a16z), Paradigm, and Electric Capital are deploying billions of dollars into early-stage Web3 projects. This capital is used for one primary purpose: to hire talent. Every new funding announcement for a Web3 startup directly translates into new job openings for developers, marketers, and product managers.
 -   **Long-Term Vision:** Unlike the short-term focus of public markets, venture capital operates on a 10-year time horizon. This means that even during crypto market downturns (so-called "crypto winters"), these well-funded projects continue to build and hire, creating a more stable job market than the [token](/what-is-a-token) prices might suggest.

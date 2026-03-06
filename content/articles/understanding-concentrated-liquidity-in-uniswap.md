@@ -12,7 +12,7 @@ data-ai-hint: "concentrated liquidity"
 
 Uniswap v3 introduced a groundbreaking concept that revolutionized the world of Automated Market Makers (AMMs): **Concentrated Liquidity**. This feature allows liquidity providers (LPs) to allocate their capital to specific, custom price ranges, rather than being forced to provide liquidity across all possible prices from zero to infinity.
 
-This innovation provides LPs with unprecedented control over their capital, leading to dramatically higher capital efficiency. It allows them to earn the same amount of fees with a fraction of the capital, or earn significantly higher fees with the same amount of capital. However, it also introduces new complexities and risks, such as increased impermanent loss.
+This innovation provides LPs with control over their capital, leading to dramatically higher capital efficiency. It allows them to earn the same amount of fees with a fraction of the capital, or earn significantly higher fees with the same amount of capital. However, it also introduces new complexities and risks, such as increased impermanent loss.
 
 This guide will explain what concentrated liquidity is, how it differs from the traditional AMM model, its benefits, its risks, and its impact on the [DeFi](/what-is-defi) ecosystem.
 

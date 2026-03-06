@@ -28,7 +28,7 @@ A Web3 social graph protocol fundamentally re-architects this relationship by se
 -   **The Protocol Layer (The Graph):** This is an open, decentralized network where the core social data is stored. Your identity (your profile), your content (your posts), and your connections (your followers) are recorded on a public [blockchain](/what-is-a-blockchain) or a decentralized network of nodes. This data is controlled by you, via your cryptographic keys.
 -   **The Application Layer (The Clients):** Anyone can build a frontend application or "client" on top of this shared social graph. This leads to a vibrant and competitive ecosystem of different apps, all tapping into the same underlying user-owned data. It's like having many different Twitter clients (TweetDeck, Twitterrific, etc.), but for a truly decentralized network.
 
-A user could create their profile and build their following on one client, and then seamlessly switch to another client, taking all their data, content, and followers with them. The power shifts from the platform to the user.
+A user could create their profile and build their following on one client, and thenly switch to another client, taking all their data, content, and followers with them. The power shifts from the platform to the user.
 
 ### Leading Web3 Social Protocols: A Tale of Two Architectures
 

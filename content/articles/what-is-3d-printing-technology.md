@@ -30,7 +30,7 @@ One of the biggest impacts of 3D printing has been on product development and pr
 
 3D printing also allows for "on-demand" manufacturing. Instead of keeping a large inventory of spare parts, a company can simply print a part when it's needed. This is particularly useful for older machinery where spare parts may no longer be available.
 
-Furthermore, additive manufacturing allows for the creation of geometries that are impossible to produce with traditional methods. Engineers can design parts with complex internal lattice structures that are incredibly strong yet lightweight. This is a game-changer for industries like aerospace, where every gram counts.
+Furthermore, additive manufacturing allows for the creation of geometries that are impossible to produce with traditional methods. Engineers can design parts with complex internal lattice structures that are incredibly strong yet lightweight. This enables for industries like aerospace, where every gram counts.
 
 ### Applications Beyond Manufacturing
 

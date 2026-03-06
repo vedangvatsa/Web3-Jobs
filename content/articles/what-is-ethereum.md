@@ -36,7 +36,7 @@ Ethereum's popularity has been its biggest challenge. High demand led to network
 
 The long-term solution is a "rollup-centric" roadmap, where the bulk of user activity is moved to Layer 2 (L2) scaling solutions like Arbitrum, Optimism, and Base. These L2s process transactions quickly and cheaply and then post a compressed summary back to the secure Ethereum mainnet.
 
-This changes how you think about blockchain architecture. Ethereum Layer 1 becomes the ultimate settlement and security layer, not the place where everyday transactions happen. Most users interact with Layer 2s, which are faster and cheaper. But those Layer 2s inherit Ethereum's security because they regularly settle their state on Ethereum.
+This changes how you think about blockchain architecture. Ethereum Layer 1 becomes the core settlement and security layer, not the place where everyday transactions happen. Most users interact with Layer 2s, which are faster and cheaper. But those Layer 2s inherit Ethereum's security because they regularly settle their state on Ethereum.
 
 For developers, this creates interesting opportunities. L2 development is an active area with significant hiring. Companies building on L2s need developers who understand both traditional application development and blockchain fundamentals.
 

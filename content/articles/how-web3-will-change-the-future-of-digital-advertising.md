@@ -46,7 +46,7 @@ Web3 empowers creators to monetize their content directly from their audience, r
 
 ### The Challenges and the Road Ahead
 
-The transition to a Web3 advertising model will not be easy. The incumbent Web2 giants have a powerful incentive to maintain the status quo. Furthermore, the user experience of managing data permissions and interacting with crypto-based reward systems needs to become much more seamless for mainstream adoption.
+The transition to a Web3 advertising model will not be easy. The incumbent Web2 giants have a powerful incentive to maintain the status quo. Furthermore, the user experience of managing data permissions and interacting with crypto-based reward systems needs to become much more for mainstream adoption.
 
 However, the trend towards greater privacy is undeniable. Regulatory changes like GDPR and Apple's App Tracking Transparency are already chipping away at the old surveillance model. Web3 provides the technological foundation for a new advertising paradigm-one that is built on user consent, respects privacy, and creates a more equitable distribution of value across the internet. For marketers and advertisers, the future is not about finding new ways to track users, but about finding new ways to reward them for their attention.
 

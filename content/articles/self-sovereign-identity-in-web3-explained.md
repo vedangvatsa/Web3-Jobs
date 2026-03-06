@@ -25,7 +25,7 @@ To understand SSI, it helps to look at the evolution of digital identity.
 The concept of SSI is built on a set of core principles, most famously defined by technologist Christopher Allen. These include:
 
 -   **Existence:** You have an independent existence.
--   **Control:** You must be the ultimate controller of your identity.
+-   **Control:** You must be the core controller of your identity.
 -   **Access:** You must have access to your own data.
 -   **Transparency:** The systems and algorithms used must be transparent.
 -   **Persistence:** Your identity should be long-lasting.

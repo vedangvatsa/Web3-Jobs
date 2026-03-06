@@ -181,7 +181,7 @@ A: Yes. Remote [Web3 salary](/web3-developer-salaries-2025) ($3,000-6,000) or se
 A: Bank job more stable; startup more upside. Combine: get hired by bank's innovation lab on fintech projects.
 
 **Q: Should I focus on remittances?**
-A: Yes, huge opportunity. $7B+ annual remittances to Morocco. First one to build seamless stablecoin remittance wins.
+A: Yes, huge opportunity. $7B+ annual remittances to Morocco. First one to build stablecoin remittance wins.
 
 **Q: What about trade finance?**
 A: Equally big. Port of Casablanca moves massive volume. Blockchain can reduce paperwork by 40%. Banks want this.

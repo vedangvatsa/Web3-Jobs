@@ -50,7 +50,7 @@ For a new user, the experience of using a dApp can be unfamiliar at first. The c
 
 ### Challenges and the Future
 
-The biggest challenge facing dApps today is the **[user experience (UX)](/why-web3-adoption-is-slow)**. The need to manage wallets, sign transactions, and pay gas fees is still a major hurdle for mainstream users. The future of dApp development is focused on abstracting away this complexity to create experiences that are as seamless and intuitive as the best Web2 applications. Technologies like **[Account Abstraction](/account-abstraction-explained)** are at the forefront of this effort.
+The biggest challenge facing dApps today is the **[user experience (UX)](/why-web3-adoption-is-slow)**. The need to manage wallets, sign transactions, and pay gas fees is still a major hurdle for mainstream users. The future of dApp development is focused on abstracting away this complexity to create experiences that are as and intuitive as the best Web2 applications. Technologies like **[Account Abstraction](/account-abstraction-explained)** are at the forefront of this effort.
 
 Decentralized applications are the heart of the Web3 revolution. They represent a fundamental shift towards a more open, user-controlled internet, creating new opportunities for developers and empowering users with true ownership of their digital lives.
 

@@ -18,7 +18,7 @@ This article will offer a pragmatic look at the state of Web3, acknowledging the
 
 It would be foolish to ignore the real problems and failures that have plagued the Web3 space. The skeptics have valid points that the industry must address.
 
--   **User Experience (UX) is Still Terrible:** For the average person, interacting with Web3 is a nightmare. Setting up a [wallet](/how-to-choose-a-crypto-wallet), managing seed phrases, paying gas fees, and avoiding scams is a complex and high-stakes process. Until the UX is as seamless as the best Web2 applications, mainstream adoption will remain a dream.
+-   **User Experience (UX) is Still Terrible:** For the average person, interacting with Web3 is a nightmare. Setting up a [wallet](/how-to-choose-a-crypto-wallet), managing seed phrases, paying gas fees, and avoiding scams is a complex and high-stakes process. Until the UX is as as the best Web2 applications, mainstream adoption will remain a dream.
 -   **Scalability Challenges:** While [Layer 2 scaling solutions](/guide-to-layer-2s) have made massive strides, the core blockchains are still slow and expensive compared to their centralized counterparts. The infrastructure is not yet ready for billions of users.
 -   **Speculation Outpaced Utility:** The last bull market was driven by a frenzy of speculation, particularly around [NFTs](/what-are-nfts) and meme coins, that had little to do with real-world utility. This created a casino-like atmosphere that repelled many serious builders and users.
 -   **Scams and Exploits:** The industry is rife with hacks, scams, and protocol exploits that have resulted in the loss of billions of dollars of user funds. Building user trust in a "trustless" environment remains a massive challenge.
@@ -33,7 +33,7 @@ Despite the challenges, the fundamental drivers of the Web3 movement are stronge
 While the market was crashing, the developers kept building. The pace of core technological innovation over the last few years has been staggering.
 - **The [Ethereum](/what-is-ethereum) Merge:** Ethereum's successful transition from Proof-of-Work to Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) was one of the most significant engineering feats in the history of open-source software. It reduced the network's energy consumption by over 99.9%.
 - **The Rise of Layer 2s:** Solutions like Arbitrum and Optimism now process more transactions than the Ethereum mainnet itself, with fees that are orders of magnitude lower. They are making Ethereum usable.
-- **Zero-Knowledge Proofs:** The progress in [ZK-proofs](/zero-knowledge-proofs-explained) is a game-changer. This technology is solving both scalability (with ZK-rollups) and privacy, and it is moving from academic theory to real-world production at an incredible speed.
+- **Zero-Knowledge Proofs:** The progress in [ZK-proofs](/zero-knowledge-proofs-explained) enables. This technology is solving both scalability (with ZK-rollups) and privacy, and it is moving from academic theory to real-world production at an incredible speed.
 
 **2. The Talent and Capital are Here to Stay**
 The last bull market attracted a huge wave of talent and capital that has not left.

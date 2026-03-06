@@ -24,7 +24,7 @@ Examples: AltaVista, Yahoo Directory, static news sites. The barrier to entry fo
 
 ### Web2: The Participatory Internet (2004-Today)
 
-Web2 made creation easy. Platforms like Facebook, YouTube, Twitter, and TikTok gave ordinary people simple tools to create, share, and distribute content. This was genuinely revolutionary. You didn't need technical skills. You just needed to sign up, write something, and instantly billions of people could see it.
+Web2 made creation easy. Platforms like Facebook, YouTube, Twitter, and TikTok gave ordinary people simple tools to create, share, and distribute content. This was significant. You didn't need technical skills. You just needed to sign up, write something, and instantly billions of people could see it.
 
 But it came with a fundamental catch: **These platforms owned everything you created.** They controlled your audience. They decided what was visible and what wasn't. They monitored what you did and sold that data to advertisers. They monetized your activity while paying you nothing. As these platforms grew, they became gatekeepers for large portions of human communication.
 
@@ -58,7 +58,7 @@ A smart contract is code that:
 - Is transparent-everyone can see the code and verify it does what it claims
 - Runs exactly as written-there's no ambiguity about what happens
 
-This is revolutionary because it separates the agreement from the execution. Traditionally, you need a lawyer to write a contract, a judge to interpret it, and law enforcement to execute it. A smart contract doesn't need any of that. The code is the contract.
+This changes because it separates the agreement from the execution. Traditionally, you need a lawyer to write a contract, a judge to interpret it, and law enforcement to execute it. A smart contract doesn't need any of that. The code is the contract.
 
 ## How Web3 Actually Works: Real Examples
 

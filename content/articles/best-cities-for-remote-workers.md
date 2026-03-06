@@ -174,6 +174,6 @@ Wherever you go, these are non-negotiable:
 
 ## Bottom Line
 
-The digital nomad lifestyle offers unprecedented freedom and adventure. But successful remote work while traveling requires intentionality. Choose destinations based on your priorities (cost, community, infrastructure, lifestyle), not just Instagram vibes. Build community wherever you land-the people you meet matter as much as the place.
+The digital nomad lifestyle offers freedom and adventure. But successful remote work while traveling requires intentionality. Choose destinations based on your priorities (cost, community, infrastructure, lifestyle), not just Instagram vibes. Build community wherever you land-the people you meet matter as much as the place.
 
 The best city is the one where you can do your best work, maintain your health and relationships, and enjoy the experience of living somewhere new. For some people that's a 6-month stay in Lisbon. For others it's 3 months in Medellín followed by 3 months in Mexico City. Experiment and find what works for you.

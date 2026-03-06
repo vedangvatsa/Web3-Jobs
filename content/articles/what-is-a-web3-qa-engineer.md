@@ -10,7 +10,7 @@ category: "Career Guides"
 
 In the high-stakes world of [Web3](/what-is-web3), where immutable [smart contracts](/what-are-smart-contracts) can manage billions of dollars, quality and reliability are not just features-they are absolute necessities. While [Smart Contract Auditors](/smart-contract-auditor-career) focus on finding security vulnerabilities, a different type of engineer is responsible for ensuring that a protocol functions exactly as intended: the **Web3 Quality Assurance (QA) Engineer**.
 
-A Web3 QA Engineer is a specialist who focuses on the comprehensive testing of decentralized applications. They are masters of testing methodologies, automation, and the unique challenges of verifying behavior on a [blockchain](/what-is-a-blockchain). Their job is to find bugs, identify edge cases, and ensure that the dApp is robust, reliable, and provides a seamless user experience before it's deployed.
+A Web3 QA Engineer is a specialist who focuses on the comprehensive testing of decentralized applications. They are masters of testing methodologies, automation, and the unique challenges of verifying behavior on a [blockchain](/what-is-a-blockchain). Their job is to find bugs, identify edge cases, and ensure that the dApp is robust, reliable, and provides a user experience before it's deployed.
 
 ### Why is QA So Different in Web3?
 

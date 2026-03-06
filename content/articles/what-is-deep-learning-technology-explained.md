@@ -32,7 +32,7 @@ Each connection between neurons has a "weight," which is a number that determine
 
 The ideas behind neural networks have been around for decades. So why has deep learning only taken off in the last ten years or so? It's largely due to two key factors.
 
-*   **Big Data**: Deep learning models are data-hungry. They need massive datasets to learn effectively. The rise of the internet, social media, and smartphones has created an unprecedented amount of data (text, images, videos) that can be used to train these models.
+*   **Big Data**: Deep learning models are data-hungry. They need massive datasets to learn effectively. The rise of the internet, social media, and smartphones has created an amount of data (text, images, videos) that can be used to train these models.
 *   **Powerful Hardware**: Training a deep neural network requires an enormous amount of computational power. The development of powerful Graphics Processing Units (GPUs), which are very good at performing the parallel calculations needed for deep learning, has made it feasible to train these large models in a reasonable amount of time.
 
 Without both massive datasets and powerful hardware, deep learning would still be a niche academic pursuit.

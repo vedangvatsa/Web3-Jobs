@@ -8,7 +8,7 @@ data-ai-hint: "MetaMask wallet"
 
 ---
 
-For anyone venturing into the world of [Web3](/what-is-web3), decentralized applications (dApps), and [NFTs](/what-are-nfts), a browser extension [wallet](/how-to-choose-a-crypto-wallet) is an essential tool. It acts as your digital passport, allowing you to interact with the decentralized web securely and seamlessly. The most popular example of this is MetaMask, though Brave, Coinbase Wallet, and others serve similar purposes.
+For anyone venturing into the world of [Web3](/what-is-web3), decentralized applications (dApps), and [NFTs](/what-are-nfts), a browser extension [wallet](/how-to-choose-a-crypto-wallet) is an essential tool. It acts as your digital passport, allowing you to interact with the decentralized web securely andly. The most popular example of this is MetaMask, though Brave, Coinbase Wallet, and others serve similar purposes.
 
 If you've ever tried to use a Web3 application, you've almost certainly encountered a browser extension wallet request. Understanding how they work, why they're necessary, and how to use them safely is fundamental to navigating Web3.
 
@@ -20,7 +20,7 @@ At its core, a browser extension wallet is a piece of software that installs dir
 
 **Transaction Signing**: When a dApp wants you to perform an action (like sending [tokens](/what-is-a-token), minting an NFT, voting in a [DAO](/what-is-a-dao), or swapping on a [DEX](/what-is-a-decentralized-exchange-dex)), it sends a transaction request to your wallet. The wallet displays a human-readable summary of this request. You review it and use your private key to "sign" and approve it. The wallet never shares your private key with the dApp. It only shares the signature proving you approved the transaction.
 
-**Blockchain Connection**: The wallet acts as a bridge between your browser and the blockchain. It injects a special JavaScript object (window.[ethereum](/what-is-ethereum)) into websites you visit, allowing them to detect your wallet and request interactions. This is what enables the seamless experience where you visit a dApp and it immediately offers to connect to your wallet.
+**Blockchain Connection**: The wallet acts as a bridge between your browser and the blockchain. It injects a special JavaScript object (window.[ethereum](/what-is-ethereum)) into websites you visit, allowing them to detect your wallet and request interactions. This is what enables the experience where you visit a dApp and it immediately offers to connect to your wallet.
 
 **Account Management**: Browser extension wallets let you manage multiple accounts and switch between them. You might have one account for safe assets and another for high-risk trading. The wallet remembers all of them.
 
@@ -28,7 +28,7 @@ At its core, a browser extension wallet is a piece of software that installs dir
 
 Browser extension wallets represent a fundamental shift from traditional web authentication.
 
-**Self-Custody**: In traditional web applications (Web2), your data and assets are held and controlled by centralized companies. Google controls your Google account. Your bank controls your bank account. You access them with a username and password, but the company is the ultimate custodian.
+**Self-Custody**: In traditional web applications (Web2), your data and assets are held and controlled by centralized companies. Google controls your Google account. Your bank controls your bank account. You access them with a username and password, but the company is the core custodian.
 
 In Web3, a wallet gives you true ownership. Your assets are tied directly to your cryptographic keys, not to an account on a company's server. This has profound implications.
 
