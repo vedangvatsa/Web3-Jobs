@@ -6,7 +6,7 @@ category: 'Remote Work'
 data-ai-hint: 'startup society co-living coworking'
 ---
 
-Network School is a startup society—co-living + coworking + community on an island off Singapore. It's designed for remote workers, founders, and creators who want infrastructure, peers, and focus in one place.
+Network School is a startup society: co-living + coworking + community on an island off Singapore. It's designed for remote workers, founders, and creators who want infrastructure, peers, and focus in one place.
 
 **$1,500/month** (shared room) or **$3,000/month** (private room). Everything included.
 
@@ -31,12 +31,12 @@ Remote workers, digital nomads, software founders, hardware founders, online cre
 Working from home is flexible but isolating. Network School solves three problems:
 
 1. **Community**: Surrounded by ambitious peers. Natural collaboration and partnerships happen.
-2. **Infrastructure**: Everything you'd need scattered across three locations (office, gym, coworking)—here, one place.
+2. **Infrastructure**: Everything you'd need scattered across three locations (office, gym, coworking) is here in one place.
 3. **Cost**: $1,500-3,000/month all-in is cheaper than just rent in most tech hubs.
 
 ## The Bigger Mission
 
-Network School isn't just a place to live. It's proving a model: **build yourself up while helping bootstrap future communities like this one**.
+Network School isn't just a place to live. It proves a model: build yourself up while helping bootstrap future communities like this one.
 
 By joining, you're not just getting a good deal. You're helping establish a template for how ambitious people can live, work, and build together.
 
