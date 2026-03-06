@@ -34,12 +34,6 @@ Working from home is flexible but isolating. Network School solves three problem
 2. **Infrastructure**: Everything you'd need scattered across three locations (office, gym, coworking) is here in one place.
 3. **Cost**: $1,500-3,000/month all-in is cheaper than just rent in most tech hubs.
 
-## The Bigger Mission
-
-Network School isn't just a place to live. It proves a model: build yourself up while helping bootstrap future communities like this one.
-
-By joining, you're not just getting a good deal. You're helping establish a template for how ambitious people can live, work, and build together.
-
 ## Location
 
 Island off Singapore. Close to the city for investor meetings and market access. Far enough to avoid distraction and stay focused.
