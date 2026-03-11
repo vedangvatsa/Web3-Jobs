@@ -6,6 +6,8 @@ data-ai-hint: "web3 product design"
 description: "A career guide for UX/UI designers looking to enter the Web3 space. Learn the unique challenges of designing for dApps and how to build a standout portfolio."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 One of the biggest hurdles to the mainstream adoption of [Web3](/what-is-web3) is its often-terrible user experience (UX). For new users, interacting with a decentralized application (dApp) for the first time can be a confusing and intimidating process. This has created a massive demand for skilled **Web3 Product Designers** who can bridge the gap between the complex backend of the [blockchain](/what-is-a-blockchain) and the end-user.

@@ -5,6 +5,8 @@ image: 'https://images.unsplash.com/photo-1694434943114-c8ea2049f781?crop=entrop
 description: 'Understand how NFT royalties work, the technical standards like EIP-2981, the ongoing debate about enforcement, and how creators can protect their secondary sale earnings.'
 category: 'Technology Deep Dives'
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 For digital artists and creators, the promise of automatic, on-chain royalties was one of the most revolutionary aspects of [NFTs](/what-are-nfts). For decades, visual artists have rarely benefited from the secondary market. A painter could sell a canvas for $1,000, only to watch a collector resell it for $1 million years later, with the artist receiving nothing from that appreciated value. NFTs, powered by [smart contracts](/what-are-smart-contracts), seemed to offer a solution: the ability to code a royalty fee directly into the [token](/what-is-a-token), ensuring the original creator receives a percentage of every future sale, forever.

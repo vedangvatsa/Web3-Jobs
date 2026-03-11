@@ -5,6 +5,8 @@ image: "/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg"
 data-ai-hint: "team collaboration meeting"
 description: "You don't have to be a developer to build a career in Web3. This guide explores the wide range of essential non-technical roles, from community management."
 category: "Career Guides"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The narrative around [Web3](/what-is-web3) is often dominated by talk of complex code, [smart contract](/what-are-smart-contracts) security, and protocol-level engineering. This can create the impression that a career in the crypto space is reserved for an elite cadre of developers. But the reality is that for every engineer writing [Solidity](/best-programming-languages-for-blockchain-development), there is a team of non-technical professionals working to build the community, shape the product, and drive the growth of the project.

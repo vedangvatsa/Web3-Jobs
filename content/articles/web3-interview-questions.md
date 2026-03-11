@@ -6,6 +6,8 @@ description: "Ace your Web3 interview. This guide provides a comprehensive list 
 category: "Career Guides"
 data-ai-hint: "interview prep"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 [Web3](/what-is-web3) interviews are different from traditional tech interviews. They test both technical knowledge and understanding of crypto philosophy. Interviewers want to know that you understand the space, not just that you can code or communicate.

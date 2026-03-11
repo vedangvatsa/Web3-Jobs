@@ -6,6 +6,8 @@ data-ai-hint: "person human identity"
 description: "Proof of Humanity is a system that combines a social verification web of trust with a video submission process to create a blockchain-based registry of."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In a digital world where one person can easily create thousands of fake accounts, how can we build systems that guarantee "one person, one vote" or a fair distribution of resources? This is known as the **"sybil attack" problem**, and it's one of the most difficult challenges in decentralized systems. **Proof of Humanity (PoH)** is an experimental social identity verification system on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) that aims to solve this problem.

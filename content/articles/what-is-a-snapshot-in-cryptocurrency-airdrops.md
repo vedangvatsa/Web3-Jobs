@@ -6,6 +6,8 @@ data-ai-hint: "camera snapshot"
 description: "A snapshot is a record of the state of a blockchain at a specific block height. It's a crucial mechanism used by Web3 projects to determine eligibility."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the world of [Web3](/what-is-web3), the term **"snapshot"** has a specific and very important meaning. It refers to the action of recording the entire state of a [blockchain](/what-is-a-blockchain) at a precise moment in time, specifically at a particular block height. This record is then used as the definitive source of truth for an event like an **[airdrop](/understanding-airdrop-campaigns-in-web3)** or a governance vote.

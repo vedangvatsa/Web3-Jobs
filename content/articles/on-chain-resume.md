@@ -6,6 +6,8 @@ data-ai-hint: "on-chain resume"
 description: "In Web3, your wallet is your resume. This guide explains how your on-chain activity-from governance votes to NFT collections-is becoming the new."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the traditional job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is a curated document, a polished summary of your past achievements designed to impress a potential employer. In the new, transparent world of [Web3](/what-is-web3), this model is being augmented, and in some cases, replaced by a much more powerful and verifiable credential: your **on-chain resume**.

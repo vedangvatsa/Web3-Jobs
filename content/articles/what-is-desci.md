@@ -6,6 +6,8 @@ data-ai-hint: "decentralized science"
 description: "Explore DeSci (Decentralized Science), a movement using Web3 tools to build a more open, transparent, and collaborative system for scientific research and."
 category: "Industry Insights"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The world of scientific research, for all its noble goals, is often hampered by systemic issues: funding is concentrated in the hands of a few institutions, access to research papers is locked behind expensive paywalls, and collaboration can be stifled by institutional silos. The peer review process is slow, career advancement is based on publication counts rather than impact, and the vast majority of scientific progress remains hidden behind institutional barriers.

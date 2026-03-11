@@ -6,6 +6,8 @@ description: "Stepping into management for the first time? Here's your no-nonsen
 category: "Career Guides"
 data-ai-hint: "new manager"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Congratulations, you’re a manager. Now what? The promotion is exciting, but the reality can be a shock to the system. Suddenly, your success isn't measured by your own work, but by the work of others. It's a daunting transition, and it's completely normal to feel a bit lost. This guide is here to help you navigate your first few months and build a solid foundation for leadership.

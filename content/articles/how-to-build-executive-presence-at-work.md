@@ -6,6 +6,8 @@ description: "Discover actionable strategies to develop executive presence and c
 category: "Career Guides"
 data-ai-hint: "leader confidence"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ### Bottom Line

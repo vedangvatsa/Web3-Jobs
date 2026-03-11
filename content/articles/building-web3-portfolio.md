@@ -5,6 +5,8 @@ image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?crop=entrop
 description: 'Build a Web3 portfolio in 2026 that gets you hired. Essential projects, GitHub examples, and on-chain proof for developers, designers, and non-technical roles. Land $120K+ blockchain jobs.'
 category: 'Getting Started'
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the [Web3](/what-is-web3) world, your portfolio is more than just a collection of past work-it's your proof of competence, passion, and understanding. Unlike the traditional tech industry, where resumes and credentials often take center stage, Web3 is a "show, don't tell" culture. Hiring managers want to see what you've actually built, contributed to, and interacted with on-chain. A well-crafted portfolio is the single most important asset for anyone looking to [land a job in this space](/how-to-land-first-web3-job), whether you're a developer, designer, or community builder. This guide provides a practical framework for building a standout Web3 portfolio, with specific project ideas tailored to different roles and skill levels. We'll cover what to build, how to present it, and how to leverage your on-chain activity as a living [resume](/how-to-build-a-web3-resume-that-stands-out).

@@ -6,6 +6,8 @@ data-ai-hint: "blockchain network difference"
 description: "A guide to the key differences between two major types of blockchain scaling solutions: Sidechains and Layer 2 Rollups. Learn how they differ in their."
 category: "Technology Deep Dives"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 As [Ethereum](/what-is-ethereum) has grown in popularity, the need to scale the network-to make it handle more transactions, faster and cheaper-has become the single most important challenge. Two of the most common scaling solutions you'll hear about are **Sidechains** and **Layer 2s (L2s)**.

@@ -6,6 +6,8 @@ description: "Learn how Web3 principles like transparency and decentralization c
 category: "Industry Insights"
 data-ai-hint: "ai ethics"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Artificial intelligence is increasingly powerful. Large language models can generate human-quality text. Computer vision systems can identify people and objects with superhuman accuracy. Recommendation algorithms influence what billions of people see online.

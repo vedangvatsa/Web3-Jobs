@@ -6,6 +6,8 @@ category: "Educational"
 image: "https://picsum.photos/seed/priceimpact/1200/630"
 data-ai-hint: "price impact"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## What is Price Impact in DEX Trading? A Complete Guide

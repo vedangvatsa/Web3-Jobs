@@ -6,6 +6,8 @@ data-ai-hint: "person typing laptop"
 description: "A step-by-step guide on how to start your freelancing journey. Learn how to find your niche, build a portfolio, and land your first client."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The idea of being your own boss, setting your own hours, and working from anywhere in the world is incredibly appealing. That’s the promise of freelancing. But for beginners, the path to a successful freelance career can seem daunting. Where do you even start?

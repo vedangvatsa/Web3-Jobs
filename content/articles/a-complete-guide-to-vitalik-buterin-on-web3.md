@@ -5,6 +5,8 @@ description: "Delve into the mind of Vitalik Buterin, the creator of Ethereum. T
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man glasses"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Mind Behind Ethereum

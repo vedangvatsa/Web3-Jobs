@@ -6,6 +6,8 @@ data-ai-hint: "blockchain forensics investigation"
 description: "A career guide to the world of on-chain investigation. Learn how blockchain forensics experts trace illicit funds, unmask hackers, and bring transparency."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new kind of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, or **On-Chain Investigator**. These are the analysts who trace the flow of illicit funds, unmask hackers, and bring a new level of accountability to the decentralized economy.

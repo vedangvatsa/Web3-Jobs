@@ -5,6 +5,8 @@ image: "https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?crop=entrop
 description: "Navigating crypto taxes can be confusing. This guide breaks down the basics of how cryptocurrencies are taxed, what constitutes a taxable event, and what."
 category: "Getting Started"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 *Disclaimer: This guide is for informational purposes only and is not financial or tax advice. Consult with a qualified tax professional for advice specific to your situation.*

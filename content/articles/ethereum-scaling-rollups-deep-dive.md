@@ -6,6 +6,8 @@ description: "A comprehensive explanation of Layer 2 rollups, including the diff
 category: "Technology Deep Dives"
 data-ai-hint: "abstract shapes background"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Blockchain Scalability Challenge

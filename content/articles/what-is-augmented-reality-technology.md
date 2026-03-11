@@ -6,6 +6,8 @@ description: "An introduction to augmented reality (AR), the technology that ove
 category: "Educational"
 data-ai-hint: "digital overlay"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Augmented Reality, or AR, is a technology that enhances the real world by overlaying computer-generated information and digital content on top of it. Unlike virtual reality (VR), which creates a completely artificial environment, AR does not replace the user's real-world surroundings. Instead, it adds to them.

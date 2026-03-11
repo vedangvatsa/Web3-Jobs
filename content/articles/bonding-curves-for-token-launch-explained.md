@@ -6,6 +6,8 @@ data-ai-hint: "bonding curve token"
 description: "A guide to using bonding curves for a token launch. Learn how this mechanism provides instant liquidity and transparent price discovery for new crypto projects."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Launching a new cryptocurrency [token](/what-is-a-token) involves a critical challenge: how do you establish a liquid and fair market for the token from day one? A **[bonding curve](/what-is-a-bonding-curve-in-token-economics)** is a novel mechanism that addresses this challenge by using a [smart contract](/what-are-smart-contracts) to act as an automated, self-sustaining market maker.

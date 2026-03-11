@@ -6,6 +6,8 @@ data-ai-hint: "remote job salary"
 description: "An overview of the remote job market in the blockchain industry. Learn about the most common remote roles, what to expect in terms of salary, and how to."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) industry is inherently global and remote-first. The philosophy of decentralization extends to its workforce, creating a job market where your physical location is often irrelevant. This has opened up a world of opportunity for professionals who want to work on technology from anywhere in the world. But what do these **[remote Web3 jobs](/remote-work-in-web3)** look like, and what can you expect in terms of salary?

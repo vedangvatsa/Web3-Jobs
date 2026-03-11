@@ -6,6 +6,8 @@ description: "An in-depth look at the crypto term 'shilling,' explaining what it
 category: "Career Guides"
 data-ai-hint: "person shouting megaphone"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Sound of the Crypto Market

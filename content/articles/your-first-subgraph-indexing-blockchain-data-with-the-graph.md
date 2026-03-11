@@ -5,6 +5,8 @@ image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entrop
 description: "Learn how to build a subgraph using The Graph Protocol. This guide provides a step-by-step tutorial on how to index smart contract data and serve it via a."
 category: "Getting Started"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Building a decentralized application (dApp) involves two main components: writing smart contracts (the on-chain backend) and building a user interface (the off-chain frontend). A major challenge for dApp developers is getting data from the [blockchain](/what-is-a-blockchain) to display on the frontend. Reading data directly from a [smart contract](/what-are-smart-contracts) can be slow, inefficient, and limited.

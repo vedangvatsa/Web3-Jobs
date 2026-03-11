@@ -6,6 +6,8 @@ image: "/images/christin-hume-Hcfwew744z4-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "people working together"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Beyond the Hype: Exploring Viable Web3 Career Paths

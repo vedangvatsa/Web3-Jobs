@@ -6,6 +6,8 @@ description: "A beginner's guide to smart home devices, how they work using the 
 category: "Educational"
 data-ai-hint: "smart home"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 A smart home is a home that is equipped with lighting, heating, and electronic devices that can be controlled remotely by a phone or computer. These "smart" devices are the most common and relatable application of the [Internet of Things (IoT)](/what-is-internet-of-things-technology), the concept of connecting everyday physical objects to the internet.

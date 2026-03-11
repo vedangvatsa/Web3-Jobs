@@ -6,6 +6,8 @@ description: "A deep dive into Account Abstraction (EIP-4337), explaining how it
 category: "Technology Deep Dives"
 data-ai-hint: "abstract shapes"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Final Frontier for Web3 Adoption

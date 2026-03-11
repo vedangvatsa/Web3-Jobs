@@ -6,6 +6,8 @@ data-ai-hint: "blockchain web3 technology"
 description: "A deep dive into the symbiotic relationship between blockchain and Web3. Understand how blockchain's core features of decentralization and immutability."
 category: "Technology Deep Dives"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The vision of [Web3](/what-is-web3), a decentralized, user-owned internet, is made possible by one foundational technology: the **[blockchain](/what-is-a-blockchain)**. A blockchain is the architectural backbone of Web3, providing the trustless, permissionless, and resilient infrastructure upon which this new digital world is built. Without blockchain, the core promises of Web3 would be impossible to achieve.

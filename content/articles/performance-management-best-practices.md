@@ -6,6 +6,8 @@ date: "2025-09-12"
 description: "Move beyond the dreaded annual review. This guide outlines modern performance management practices focused on continuous feedback, goal alignment, and."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "performance review meeting"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 **Related Articles:**

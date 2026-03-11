@@ -5,6 +5,8 @@ image: "/images/emile-perron-xrVDYZRGdw4-unsplash.jpg"
 data-ai-hint: "resume writing tips"
 description: "Master Web3 resume writing with 10 proven do's and don'ts. Learn how to highlight blockchain skills, crypto projects, and smart contracts to impress."
 category: "Career Guides"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Next Steps: Build Your Web3 Career

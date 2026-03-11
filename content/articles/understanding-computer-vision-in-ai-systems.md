@@ -6,6 +6,8 @@ description: "A simple guide to computer vision, the field of AI that teaches co
 category: "Educational"
 data-ai-hint: "digital eye"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Computer vision is a field of [artificial intelligence](/what-is-artificial-intelligence-and-how-it-works) that trains computers to interpret and understand the visual world. Using digital images from cameras and videos, deep learning models can accurately identify and classify objects, and then react to what they "see." It’s the technology that allows a machine to gain a high-level understanding from digital images or videos, essentially giving computers the sense of sight.

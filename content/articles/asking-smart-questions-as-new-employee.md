@@ -5,6 +5,8 @@ description: "Asking questions is crucial when you're new, but asking smart ques
 category: "Career Guides"
 image: "https://picsum.photos/seed/307/1200/630"
 data-ai-hint: "asking questions"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Asking Smart Questions as a New Employee

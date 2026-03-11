@@ -6,6 +6,8 @@ data-ai-hint: "kochi city india"
 description: "A career guide to the Web3 job market in Kochi. Explore the growing blockchain ecosystem in Kerala, driven by a strong developer community and government."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Kochi, a major port city on the southwest coast of India, is rapidly emerging as a key player in Kerala's burgeoning technology scene, with a notable and growing focus on [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain). Supported by the state government's strong emphasis on IT and a highly skilled workforce, Kochi is cultivating a vibrant ecosystem for Web3 innovation. The city's Infopark and the Kerala Blockchain Academy are central to this growth, fostering a new generation of developers and entrepreneurs focused on decentralized technologies.

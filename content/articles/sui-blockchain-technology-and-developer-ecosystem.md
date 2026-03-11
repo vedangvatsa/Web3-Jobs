@@ -6,6 +6,8 @@ data-ai-hint: "sui blockchain"
 description: "An overview of the Sui blockchain, a new Layer 1 designed for high performance and scalability, with a unique object-centric data model and the Move."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the competitive landscape of **[Layer 1 blockchains](/what-is-a-layer-1-[blockchain](/what-is-a-blockchain))**, a new generation of networks is emerging that challenges the architectural assumptions of older chains like [Ethereum](/what-is-ethereum). One of the most prominent and well-funded of these is **Sui**, a blockchain designed from the ground up for high performance, low-latency, and massive scalability.

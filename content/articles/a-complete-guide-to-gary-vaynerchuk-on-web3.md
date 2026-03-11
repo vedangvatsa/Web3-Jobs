@@ -5,6 +5,8 @@ description: "Learn about Gary Vaynerchuk's (GaryVee) perspective on Web3 and NF
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man drawing"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Marketing Guru of NFTs

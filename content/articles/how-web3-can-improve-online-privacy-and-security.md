@@ -6,6 +6,8 @@ data-ai-hint: "online privacy security"
 description: "Explore how Web3 technologies like decentralized identity, zero-knowledge proofs, and self-custodial wallets are building a more private and secure internet."
 category: "Technology Deep Dives"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The Web2 internet has a fundamental privacy problem. Our digital lives are controlled by a handful of large tech companies that act as centralized custodians of our most sensitive personal data. We trade our privacy for convenience, giving these platforms our data in exchange for "free" services. This has led to an internet defined by mass surveillance, data breaches, and a lack of user control.

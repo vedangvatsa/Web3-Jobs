@@ -6,6 +6,8 @@ data-ai-hint: "blockchain explorer map"
 description: "A beginner's guide to using blockchain explorers like Etherscan and Blockchain.com. Learn how to look up transactions, explore blocks, and read smart."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 A public [blockchain](/what-is-a-blockchain), by its very nature, is a transparent and open ledger. Every transaction that has ever occurred is recorded on it and is visible to anyone. But how do you actually see this data? The primary tool for this is the **blockchain explorer**. A blockchain explorer is a website that allows you to "explore" the contents of a blockchain in a human-readable format. It's like a search engine for the blockchain.

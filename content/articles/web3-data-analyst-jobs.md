@@ -5,6 +5,8 @@ image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&c
 description: "A guide to one of the hottest jobs in crypto. Learn how Web3 data analysts use on-chain data to drive strategy and what skills you need to become an."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the transparent world of blockchains, every action, every transaction, and every interaction creates a permanent, public data point. This has given rise to a new and powerful discipline: **on-chain analysis**. And at the heart of this discipline is the **[Web3](/what-is-web3) Data Analyst**, a role that is part data scientist, part archaeologist, and part detective.

@@ -6,6 +6,8 @@ data-ai-hint: "risky bet crypto"
 description: "An exploration of the 'degen,' a term of endearment in Web3 for high-risk, thrill-seeking traders and DeFi power users."
 category: "Getting Started"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The [Web3](/what-is-web3) space has a rich and often bizarre vocabulary. One of the most common and culturally significant terms you will encounter, especially in the world of [DeFi](/what-is-defi) and [NFT](/what-are-nfts) trading, is "degen."

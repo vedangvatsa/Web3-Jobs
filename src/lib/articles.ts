@@ -45,6 +45,8 @@ function readArticlesFromDirectory(directory: string): Omit<Article, 'content' |
         category,
         'data-ai-hint': data['data-ai-hint'],
         image,
+        publishedDate: typeof data.publishedDate === 'string' ? data.publishedDate : undefined,
+        lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
       };
     })
     .filter((article): article is Omit<Article, 'content' | 'rawContent'> => article !== null);
@@ -113,6 +115,8 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
       category,
       'data-ai-hint': data['data-ai-hint'],
       image,
+      publishedDate: typeof data.publishedDate === 'string' ? data.publishedDate : undefined,
+      lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
     };
   } catch (err) {
     console.error(`Error reading or processing article ${slug}:`, err);

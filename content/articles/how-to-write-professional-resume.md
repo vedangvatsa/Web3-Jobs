@@ -6,6 +6,8 @@ data-ai-hint: "resume paper document"
 description: "A step-by-step guide on how to write a professional resume that gets noticed by recruiters. Learn how to highlight your skills and achievements effectively."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) is often the first impression a potential employer has of you. In a competitive job market, a well-crafted resume can be the difference between landing an [interview](/how-to-prepare-for-job-interview) and being overlooked. It's more than just a list of your past jobs; it's a marketing document designed to sell your skills and experience.

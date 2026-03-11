@@ -6,6 +6,8 @@ data-ai-hint: "graduate career start"
 description: "A complete guide for fresh graduates on how to launch a career in the Web3 industry. Learn how to build a portfolio, what skills to focus on, and how to."
 category: "Getting Started"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 As a fresh graduate, you are entering one of the most dynamic and rapidly evolving job markets in history. While traditional career paths remain viable, a new and exciting frontier has opened up: the world of [Web3](/what-is-web3). The crypto industry is booming, and it's desperately looking for the next generation of talent to help build the future of the decentralized internet.

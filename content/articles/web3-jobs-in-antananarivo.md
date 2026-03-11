@@ -6,6 +6,8 @@ data-ai-hint: "antananarivo madagascar city"
 description: "A career guide to the emerging Web3 job market in Antananarivo. Explore how Madagascar's capital, with its unique biodiversity and growing tech talent, is."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Antananarivo, the historic and bustling capital of Madagascar, is at the very beginning of its journey into the [Web3](/what-is-web3) world. Known for its unique biodiversity and rich cultural heritage, the island nation is now seeing the first shoots of a technology scene that is beginning to explore the potential of [blockchain](/what-is-a-blockchain). While the ecosystem is nascent, there is a growing community of young, curious individuals who see Web3 as a tool for economic empowerment and for solving local challenges, particularly in conservation and sustainable development.

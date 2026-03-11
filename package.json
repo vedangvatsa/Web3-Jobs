@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "npx tsx scripts/stamp-article-dates.ts",
     "build": "next build",
+    "stamp-dates": "npx tsx scripts/stamp-article-dates.ts",
     "start": "next start",
     "lint": "next lint",
     "export:emails": "npx tsx scripts/export-emails.ts",

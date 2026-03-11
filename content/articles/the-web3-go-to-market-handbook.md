@@ -6,6 +6,8 @@ description: "A strategic guide for Web3 projects on how to build a powerful go-
 category: "Career Guides"
 data-ai-hint: "man walking"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: Marketing in a Decentralized Economy

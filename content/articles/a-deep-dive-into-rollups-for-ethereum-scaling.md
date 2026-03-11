@@ -5,6 +5,8 @@ image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 data-ai-hint: "ethereum scaling rollup"
 description: "A comprehensive guide to Ethereum's primary scaling solution: rollups. We explore the differences between Optimistic and ZK-Rollups and their role in the."
 category: "Technology Deep Dives"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 [Ethereum](/what-is-ethereum)'s popularity is a double-edged sword. While it has become the dominant platform for [smart contracts](/what-are-smart-contracts) and decentralized applications, its success has led to network congestion and high transaction fees, making it slow and expensive for many users. The long-term vision to solve this involves [sharding the base layer](/how-sharding-improves-[blockchain](/what-is-a-blockchain)-scalability), but the primary solution that has emerged and gained massive traction today is **Layer 2 (L2) Rollups**.

@@ -6,6 +6,8 @@ data-ai-hint: "multi agent ai"
 description: "Explore the fascinating world of Multi-Agent Systems (MAS), where multiple intelligent AI agents interact, collaborate, and compete to solve complex problems."
 category: "Technology Deep Dives"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 While much of the focus in AI has been on single, monolithic models, a new and powerful frontier is emerging in the field of **Multi-Agent Systems (MAS)**. A multi-agent system is a collection of autonomous, intelligent "agents" that interact with each other in a shared environment.

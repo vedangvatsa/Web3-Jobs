@@ -6,6 +6,8 @@ data-ai-hint: "resume document update"
 description: "Keeping your resume updated is crucial for career readiness. Learn the key moments to refresh your resume and what information to add to stay ahead."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) isn't a static document you only dust off when you're actively job hunting. Think of it as a living document, a dynamic summary of your professional journey. Regularly updating it ensures you're always prepared for an unexpected opportunity and that you don't forget key accomplishments. But how often is "regularly"?

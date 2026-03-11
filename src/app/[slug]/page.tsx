@@ -302,6 +302,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     headline: article.title,
     description: article.description,
     image: imageUrl,
+    datePublished: article.publishedDate,
+    dateModified: article.lastUpdated || article.publishedDate,
     author: {
         '@type': 'Organization',
         name: 'Hashtag Web3',
@@ -382,6 +384,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       <p className="text-lg text-muted-foreground">
                         {article.description}
                       </p>
+                      {(article.lastUpdated || article.publishedDate) && (
+                        <p className="text-sm text-muted-foreground mt-2">
+                          Last updated:{' '}
+                          <time dateTime={article.lastUpdated || article.publishedDate}>
+                            {new Date(article.lastUpdated || article.publishedDate!).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                          </time>
+                        </p>
+                      )}
                     </header>
                     
                     {article.image && (

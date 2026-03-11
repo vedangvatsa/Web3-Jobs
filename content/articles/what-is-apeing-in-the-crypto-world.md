@@ -6,6 +6,8 @@ description: "An explanation of the crypto slang term 'apeing,' its origins in t
 category: "Career Guides"
 data-ai-hint: "monkey using computer"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Language of the Digital Frontier

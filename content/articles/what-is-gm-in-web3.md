@@ -6,6 +6,8 @@ description: "You've seen 'gm' all over crypto Twitter. Learn the meaning behind
 category: "Career Guides"
 data-ai-hint: "crypto culture"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 "GM" stands for "good morning." It's everywhere in crypto Twitter and Discord servers. You'll see dozens of "GM" posts every morning from crypto natives greeting the community.

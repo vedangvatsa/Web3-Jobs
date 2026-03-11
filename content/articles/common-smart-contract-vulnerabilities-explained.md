@@ -6,6 +6,8 @@ data-ai-hint: "security vulnerability lock"
 description: "A developer's guide to the most common security flaws in Solidity smart contracts, from reentrancy to integer overflows. Learn how to identify and prevent."
 category: "Technology Deep Dives"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the high-stakes world of [Web3](/what-is-web3), [smart contract](/what-are-smart-contracts) security is paramount. A single vulnerability in your code can lead to the loss of millions of dollars in user funds. Because deployed [blockchain](/what-is-a-blockchain) code is immutable, these mistakes are often permanent and irreversible. Therefore, a deep understanding of common attack vectors is not just a good practice for a developer-it is an absolute necessity.

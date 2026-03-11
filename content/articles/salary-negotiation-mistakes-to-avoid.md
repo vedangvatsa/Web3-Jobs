@@ -6,6 +6,8 @@ data-ai-hint: "falling money graph"
 description: "Learn about the common mistakes people make during salary negotiations and how to avoid them. Maximize your earning potential by negotiating effectively."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Negotiating your salary can be one of the most high-stakes conversations of your career. A successful negotiation can add thousands of dollars to your income each year, while a poorly handled one can leave you feeling undervalued and underpaid. Unfortunately, many people make common mistakes that undermine their ability to negotiate effectively.

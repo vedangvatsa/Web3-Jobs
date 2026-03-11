@@ -6,6 +6,8 @@ description: "A simple introduction to machine learning, explaining what it is, 
 category: "Educational"
 data-ai-hint: "data processing"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Machine learning is a way of teaching computers to make predictions or decisions without being explicitly programmed for every single possibility. Instead of writing a long list of rules for a computer to follow, you give it a large amount of data and let it figure out the rules for itself. It’s a core component of [what we call artificial intelligence](/what-is-artificial-intelligence-and-how-it-works), and it's what powers many of the smart features you use every day.

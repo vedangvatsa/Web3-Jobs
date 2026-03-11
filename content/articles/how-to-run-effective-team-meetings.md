@@ -6,6 +6,8 @@ image: https://picsum.photos/seed/effective-meeting/1200/630
 category: Career Guides
 data-ai-hint: team meeting
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The High Cost of Bad Meetings

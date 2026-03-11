@@ -6,6 +6,8 @@ image: https://picsum.photos/seed/leadership/1200/630
 category: Career Guides
 data-ai-hint: business presentation
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: Speaking the Language of Leadership

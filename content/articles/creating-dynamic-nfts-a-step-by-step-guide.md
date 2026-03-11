@@ -6,6 +6,8 @@ data-ai-hint: "creating dynamic nfts step guide"
 description: "Go beyond static JPEGs. This guide explores the world of Dynamic NFTs (dNFTs) and shows you how to create NFTs that can change and evolve based on."
 category: "Technology Deep Dives"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The first wave of NFTs was defined by static assets: JPEG files and video clips whose metadata, once minted, was frozen forever on the [blockchain](/what-is-a-blockchain). The next evolution is the **Dynamic [NFT](/what-are-nfts) (dNFT)**.

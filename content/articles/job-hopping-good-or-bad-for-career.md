@@ -6,6 +6,8 @@ image: "https://picsum.photos/seed/320/1200/630"
 data-ai-hint: "career path"
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The concept of "job hopping," or frequently changing jobs every one to two years, used to be a major red flag on a [resume](/how-to-build-a-web3-resume-that-stands-out). It was seen as a sign of instability, disloyalty, or an inability to commit. But in today’s fast-paced and ever-changing job market, the stigma around job hopping is fading. In some industries, particularly tech, it’s even becoming the norm.

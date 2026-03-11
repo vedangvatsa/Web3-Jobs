@@ -6,6 +6,8 @@ image: "/images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "two men facing off"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Solana vs. Ethereum: A Showdown of Developer Activity
