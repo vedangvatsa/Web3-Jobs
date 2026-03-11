@@ -1,3 +1,4 @@
+
 'use server';
 
 import type { Article } from '@/types';
@@ -6,6 +7,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
+import sanitizeHtml from 'sanitize-html';
 
 const contentArticlesDirectory = path.join(process.cwd(), 'content/articles');
 
@@ -74,9 +76,22 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
     const sanitizedContent = removePlaceholderKeyTakeaways(matterResult.content);
 
     const processedContent = await remark()
-      .use(html)
+      .use(html, { sanitize: false }) // We will sanitize manually with a better library
       .process(sanitizedContent);
-    const content = processedContent.toString();
+    const contentHtml = processedContent.toString();
+
+    // Sanitize HTML on the server
+    const content = sanitizeHtml(contentHtml, {
+      allowedTags: sanitizeHtml.defaults.allowedTags.concat([
+        'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'
+      ]),
+      allowedAttributes: {
+        ...sanitizeHtml.defaults.allowedAttributes,
+        '*': ['class'],
+        'a': ['href', 'name', 'target', 'rel'],
+        'img': ['src', 'alt', 'title', 'width', 'height', 'data-ai-hint'],
+      },
+    });
 
     const data = matterResult.data;
 
