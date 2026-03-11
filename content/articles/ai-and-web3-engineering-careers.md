@@ -3,7 +3,7 @@
 title: "AI and Web3 Engineering: A Career Guide"
 image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "ai web3 engineer"
-description: "A guide to the hybrid career path of an AI/Web3 Engineer. Learn what skills are needed to build at the intersection of artificial intelligence and."
+description: "Explore how artificial intelligence and machine learning are reshaping Web3 engineering roles, with insights on high-demand skills and career trajectories."
 category: "Career Guides"
 publishedDate: "2026-03-11"
 lastUpdated: "2026-03-11"

@@ -3,7 +3,7 @@
 title: "Is a Career in Web3 Right for You? A Self-Assessment Guide"
 image: "/images/linus-mimietz-gvptKmonylk-unsplash.jpg"
 data-ai-hint: "career choice person"
-description: "Considering a job in crypto? This guide provides a self-assessment framework to help you decide if a Web3 career aligns with your skills, personality, and."
+description: "Assess whether Web3 aligns with your technical skills, personality, and long-term career goals."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"

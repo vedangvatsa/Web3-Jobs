@@ -1,7 +1,7 @@
 ---
 
 title: "Understanding Nanotechnology Basics"
-description: "A beginner's guide to nanotechnology, exploring what it is, how it works at the nanoscale, and its incredible applications in medicine, electronics, and."
+description: "Explore nanoscale engineering and its applications across medicine, materials science, and manufacturing."
 category: "Educational"
 image: "https://picsum.photos/seed/nanotech/1200/630"
 data-ai-hint: "nanotechnology atoms"

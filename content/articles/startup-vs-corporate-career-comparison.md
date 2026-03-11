@@ -1,7 +1,7 @@
 ---
 
 title: "Startup vs. Corporate: Which Career Path is Right for You?"
-description: "A comprehensive comparison of working at a startup versus a large corporation. Explore the differences in culture, career growth, work-life balance, and."
+description: "Compare growth potential, compensation, work-life balance, and career stability."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "crossroads sign"
 category: "Career Guides"

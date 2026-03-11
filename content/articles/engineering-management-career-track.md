@@ -1,7 +1,7 @@
 ---
 
 title: "The Engineering Management Career Track: A Detailed Guide"
-description: "Explore the career path for engineering leaders, from Technical Lead to VP of Engineering. This guide covers the responsibilities, skill shifts, and."
+description: "Navigate the transition from IC to manager, managing skill shifts, communication, and team dynamics."
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "flowchart diagram"
 category: "Career Guides"
