@@ -107,7 +107,8 @@ async function sendNewJobAlerts() {
         company: job.company?.name || job.company || 'Unknown Company',
         location: job.location || 'Remote',
         salary: job.salary,
-        url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/jobs/${job.id}`,
+        // Use job.link directly since job.id contains full external URLs, not internal IDs
+        url: job.link || job.url || `${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/jobs/${job.id}`,
         tags: job.tags?.slice(0, 5) || [],
       }));
 
