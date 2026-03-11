@@ -9,7 +9,7 @@ relatedTerms: ["finality", "consensus", "proof-of-work", "fork"]
 synonyms: ["reorg", "chain reorg", "block reorganization"]
 ---
 
-**Chain reorganizations (reorgs)** occur when a blockchain replaces recent blocks with an alternative chain. Reorgs happen when two miners find blocks at similar times. The network temporarily splits, then converges on the longest (most-work) chain, discarding blocks from the losing branch. Reorgs can reverse transactions not yet finalized. Bitcoin’s probabilistic finality means reorgs are possible. Ethereum has shorter reorg depth but still possible. Reorgs are normal at small depths but dangerous at large depths.
+Chain Reorganization refers to an event where a blockchain replaces a sequence of recent blocks with a different chain, effectively altering transaction history and potentially reversing transactions that users believed were confirmed. This phenomenon occurs when competing miners or validators simultaneously produce valid blocks, causing the network to temporarily split before converging on the chain with the most accumulated work. Bitcoin experiences shallow reorgs of one or two blocks regularly, while deeper reorgs are rare but consequential. In 2020, Ethereum Classic suffered a major reorg attack where attackers reversed over 7,000 blocks and double-spent millions of dollars worth of cryptocurrency. Research indicates that Bitcoin averages approximately 0.5 one-block reorgs per day under normal network conditions (according to BitMEX Research). Understanding chain reorganizations is essential for blockchain security engineers and protocol developers, as exchanges and DeFi platforms must implement appropriate confirmation thresholds to protect against reorg-based attacks.
 
 ## How Reorgs Happen
 

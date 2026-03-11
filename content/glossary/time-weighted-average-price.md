@@ -9,7 +9,7 @@ relatedTerms: ["price-impact", "slippage", "order-book", "trading"]
 synonyms: ["TWAP", "time-weighted execution", "time-sliced execution"]
 ---
 
-**Time-weighted average price (TWAP)** is a strategy that executes a large order over time to reduce price impact. Instead of buying 1,000 ETH at once, TWAP buys 100 ETH every 10 minutes. This reduces slippage and avoids moving the market. TWAP is widely used in traditional finance and crypto. Many DEX aggregators support TWAP execution. Oracles also use TWAPs to smooth price manipulation. Understanding TWAP is essential for execution and oracle design.
+Time-Weighted Average Price is an execution strategy that spreads large trades across multiple time intervals to minimize market impact and achieve a more favorable average entry or exit price. Rather than executing a substantial order all at once, which can cause significant slippage and move the market against the trader, TWAP algorithms break the order into smaller chunks executed at regular intervals. Uniswap V3 popularized on-chain TWAP oracles, which sample prices over time to provide manipulation-resistant price feeds for DeFi protocols. This approach has proven effective, with TWAP-based oracle implementations now securing over $50 billion in total value locked across lending and derivatives protocols (according to DeFiLlama, 2024). Beyond oracles, institutional traders and DEX aggregators like CoW Protocol use TWAP execution to handle large orders without disrupting thin liquidity pools. Professionals who understand TWAP mechanics are increasingly sought after for roles in algorithmic trading, protocol development, and DeFi infrastructure engineering.
 
 ## How TWAP Works
 

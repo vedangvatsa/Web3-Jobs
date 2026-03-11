@@ -10,7 +10,7 @@ relatedTerms: ["Smart Contract", "Solidity", "Gas Fee", "ERC-20", "DeFi"]
 synonyms: ["ETH"]
 ---
 
-Ethereum is a blockchain platform launched in 2015 that extended Bitcoin's innovation by adding programmability. While Bitcoin focuses on peer-to-peer payments, Ethereum provides a platform for building decentralized applications through smart contracts.
+Ethereum is a decentralized blockchain platform that enables developers to build and deploy smart contracts and decentralized applications, extending beyond Bitcoin's focus on peer-to-peer payments to create a programmable foundation for Web3 innovation. Launched in 2015 by Vitalik Buterin and a team of co-founders, Ethereum introduced the concept of a global computer where code executes exactly as programmed without downtime or third-party interference. The platform hosts the majority of decentralized finance activity, with protocols like Uniswap demonstrating its practical utility by facilitating billions in trading volume without traditional intermediaries. Ethereum currently secures over $50 billion in total value locked across its DeFi ecosystem (according to DeFiLlama), making it the dominant smart contract platform by usage and developer activity. For professionals seeking Web3 careers, Ethereum development skills including Solidity programming and EVM architecture remain the most consistently demanded competencies across blockchain job postings.
 
 ## The Ethereum Vision
 

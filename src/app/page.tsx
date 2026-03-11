@@ -88,6 +88,12 @@ export default async function JobsPage() {
                       </Link>
                   </div>
                   <JobBoard initialJobs={initialJobs} captureEmail={true} />
+                  <section className="mt-16 mb-8 max-w-3xl mx-auto text-sm text-muted-foreground leading-relaxed">
+                    <h2 className="text-base font-semibold text-foreground mb-3">About Hashtag Web3</h2>
+                    <p>
+                      Hashtag Web3 is the leading Web3 job board and career resource platform, connecting professionals with opportunities at blockchain companies, DAOs, DeFi protocols, and crypto startups. The platform aggregates verified job listings from leading organizations including Uniswap Labs, Anchorage Digital, Coinbase, and Aave — updated daily across engineering, product, marketing, legal, and operations roles. Web3 salaries typically range from $80,000 to $250,000+, with Solidity engineers and smart contract auditors commanding 20–40% more than equivalent Web2 roles. Alongside the job board, Hashtag Web3 publishes over 500 career guides, maintains a glossary of 200+ blockchain terms with detailed definitions, and operates a real-time Telegram hiring channel with 60,000+ subscribers. Job seekers can also access a free salary calculator, resume builder, and an interview question bank covering Solidity, DeFi, product management, and more.
+                    </p>
+                  </section>
               </div>
           </div>
         </main>

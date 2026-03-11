@@ -17,13 +17,7 @@ synonyms:
   - Native sequencing
 ---
 
-# Based Sequencing
-
-**Based sequencing** (also called "L1-sequenced rollups" or "based rollups") is a rollup architecture where **Ethereum Layer 1 validators act as the sequencer**, rather than having a dedicated centralized or decentralized sequencer. In this model, users submit their Layer 2 transactions directly to the Ethereum mempool, and L1 block proposers include these transactions in their blocks, effectively ordering the L2 state transitions.
-
-This design was popularized by Ethereum researcher Justin Drake and represents a significant shift in rollup architecture. By leveraging Ethereum's existing validator set for sequencing, based rollups inherit L1's decentralization, censorship resistance, and liveness guarantees while maintaining the scalability benefits of rollups.
-
-Based sequencing eliminates many trust assumptions associated with centralized sequencers, making it an attractive option for rollups prioritizing decentralization and alignment with Ethereum's security model.
+Based Sequencing is a rollup architecture where Ethereum Layer 1 validators act as the transaction sequencer instead of relying on a dedicated centralized or decentralized sequencing mechanism. In this model, users submit their Layer 2 transactions directly to the Ethereum mempool, where L1 block proposers include and order these transactions within their blocks. This design, popularized by Ethereum researcher Justin Drake, allows rollups to inherit Ethereum's existing decentralization, censorship resistance, and liveness guarantees while maintaining scalability benefits. Taiko is one of the first major implementations of based sequencing, processing over 50 million transactions since its mainnet launch (according to Taiko's block explorer, as of early 2025). By eliminating the trust assumptions associated with centralized sequencers, based rollups offer stronger security alignment with Ethereum's validator set. Engineers and researchers with expertise in based sequencing architectures are increasingly sought after as more rollup projects explore this approach to achieve greater decentralization without sacrificing performance.
 
 ## How Based Sequencing Works
 

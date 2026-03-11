@@ -204,3 +204,49 @@ export function generateCollectionPageSchema(
     }
   };
 }
+
+/**
+ * Extracts FAQ Q&A pairs from article markdown content and returns FAQPage schema.
+ * Handles patterns: **Q: ...** / A: ... and ### Q: ... / answer paragraphs
+ */
+export function extractFAQSchema(markdownContent: string): object | null {
+  const pairs: { question: string; answer: string }[] = [];
+
+  // Pattern 1: **Q: question** \n A: answer (bold Q&A format)
+  const boldPattern = /\*\*Q:\s*(.+?)\*\*\s*\nA:\s*(.+?)(?=\n\*\*Q:|\n#{1,3} |\n---|\n\n\n|$)/gs;
+  let match;
+  while ((match = boldPattern.exec(markdownContent)) !== null) {
+    const question = match[1].trim();
+    const answer = match[2].trim().replace(/\n/g, ' ');
+    if (question && answer) {
+      pairs.push({ question, answer });
+    }
+  }
+
+  // Pattern 2: ### Q: question \n answer paragraph (heading Q&A format)
+  if (pairs.length === 0) {
+    const headingPattern = /#{2,3}\s+Q:\s*(.+?)\n+([\s\S]+?)(?=\n#{2,3}|\n---|\n\n\n|$)/g;
+    while ((match = headingPattern.exec(markdownContent)) !== null) {
+      const question = match[1].trim();
+      const answer = match[2].trim().replace(/\n/g, ' ').replace(/\*\*/g, '');
+      if (question && answer && answer.length > 10) {
+        pairs.push({ question, answer });
+      }
+    }
+  }
+
+  if (pairs.length === 0) return null;
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: pairs.map(({ question, answer }) => ({
+      '@type': 'Question',
+      name: question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: answer,
+      },
+    })),
+  };
+}

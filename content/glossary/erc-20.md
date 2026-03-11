@@ -10,7 +10,7 @@ relatedTerms: ["token", "ethereum", "smart-contract"]
 synonyms: ["Ethereum token standard", "fungible token standard"]
 ---
 
-ERC-20 is the technical standard for fungible tokens on the Ethereum blockchain. Proposed in 2015 and finalized in 2017, it defines a common set of rules that Ethereum tokens must follow, ensuring they work consistently with wallets, exchanges, and decentralized applications. This standardization enabled the explosive growth of ICOs, DeFi protocols, and the broader token economy by creating interoperability across the Ethereum ecosystem.
+ERC-20 is the technical standard for fungible tokens on the Ethereum blockchain, defining a common interface that enables any compliant token to work seamlessly with wallets, exchanges, and decentralized applications. Proposed in 2015 and finalized in 2017, this standard establishes six mandatory functions including transfer, approve, and balanceOf that ensure consistent behavior across the ecosystem. The standardization proved transformative, enabling everything from stablecoins like USDC and Tether to governance tokens like Uniswap's UNI. Today, over 450,000 distinct ERC-20 token contracts exist on Ethereum mainnet according to Etherscan data as of 2025, representing the vast majority of tokenized assets in decentralized finance. This ubiquity makes ERC-20 development skills essential for Web3 careers, with smart contract positions frequently requiring deep familiarity with token standards, security considerations like approval vulnerabilities, and integration patterns that connect tokens to the broader DeFi ecosystem.
 
 ## Understanding Token Standards
 

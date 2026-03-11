@@ -110,10 +110,15 @@ export default async function RootLayout({
     name: 'Hashtag Web3',
     url: siteConfig.url,
     logo: `${siteConfig.url}/icon.png`,
+    description: 'Hashtag Web3 is a Web3 job board and career resource platform connecting blockchain, crypto, DeFi, and DAO professionals with job opportunities. The platform lists thousands of Web3 jobs, maintains a 200+ term glossary, and publishes career guides for the Web3 industry.',
+    foundingDate: '2022',
     sameAs: [
       'https://x.com/hashtag_web3',
-      'https://linkedin.com/company/hashtagweb3'
-    ]
+      'https://twitter.com/hashtag_web3',
+      'https://linkedin.com/company/hashtagweb3',
+      'https://sg.linkedin.com/company/hashtagweb3',
+      'https://t.me/web3hiring',
+    ],
   };
 
   return (
