@@ -9,7 +9,9 @@
     "lint": "next lint",
     "export:emails": "npx tsx scripts/export-emails.ts",
     "send-alerts": "npx tsx scripts/send-job-alerts.ts",
-    "send-new-jobs": "npx tsx scripts/send-new-jobs.ts"
+    "send-new-jobs": "npx tsx scripts/send-new-jobs.ts",
+    "clean-suppressed": "npx tsx scripts/clean-suppressed-emails.ts",
+    "clean-suppressed:dry": "npx tsx scripts/clean-suppressed-emails.ts --dry-run"
   },
   "engines": {
     "node": "20"
