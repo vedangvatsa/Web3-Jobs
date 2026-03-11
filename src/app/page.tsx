@@ -89,9 +89,36 @@ export default async function JobsPage() {
                   </div>
                   <JobBoard initialJobs={initialJobs} captureEmail={true} />
                   <section className="mt-16 mb-8 max-w-3xl mx-auto text-sm text-muted-foreground leading-relaxed">
-                    <h2 className="text-base font-semibold text-foreground mb-3">About Hashtag Web3</h2>
-                    <p>
-                      Hashtag Web3 is the leading Web3 job board and career resource platform, connecting professionals with opportunities at blockchain companies, DAOs, DeFi protocols, and crypto startups. The platform aggregates verified job listings from leading organizations including Uniswap Labs, Anchorage Digital, Coinbase, and Aave — updated daily across engineering, product, marketing, legal, and operations roles. Web3 salaries typically range from $80,000 to $250,000+, with Solidity engineers and smart contract auditors commanding 20–40% more than equivalent Web2 roles. Alongside the job board, Hashtag Web3 publishes over 500 career guides, maintains a glossary of 200+ blockchain terms with detailed definitions, and operates a real-time Telegram hiring channel with 60,000+ subscribers. Job seekers can also access a free salary calculator, resume builder, and an interview question bank covering Solidity, DeFi, product management, and more.
+                    <h2 className="text-lg font-semibold text-foreground mb-4">About Hashtag Web3</h2>
+                    
+                    <p className="text-base text-foreground font-medium mb-4">
+                      The Leading Web3 Job Board & Career Resource
+                    </p>
+                    
+                    <p className="mb-6">
+                      Hashtag Web3 connects professionals with opportunities at blockchain companies, DAOs, DeFi protocols, and crypto startups. We aggregate verified job listings from leading organizations including <strong className="text-foreground">Uniswap Labs, Anchorage Digital, Coinbase, and Aave</strong> — updated daily.
+                    </p>
+                    
+                    <div className="mb-6">
+                      <h3 className="font-semibold text-foreground mb-3">Why Hashtag Web3?</h3>
+                      <ul className="space-y-2 ml-4 list-disc text-muted-foreground">
+                        <li><strong className="text-foreground">500+ Career Guides</strong> covering Web3 roles, transitions, and industry trends</li>
+                        <li><strong className="text-foreground">200+ Blockchain Glossary Terms</strong> with detailed definitions and examples</li>
+                        <li><strong className="text-foreground">Daily Updated Jobs</strong> across engineering, product, marketing, legal, and operations</li>
+                        <li><strong className="text-foreground">60,000+ Subscribers</strong> on our real-time Telegram hiring channel</li>
+                        <li><strong className="text-foreground">Free Tools:</strong> Salary calculator, resume builder, and interview question bank</li>
+                      </ul>
+                    </div>
+                    
+                    <div className="mb-6">
+                      <h3 className="font-semibold text-foreground mb-2">Web3 Compensation</h3>
+                      <p>
+                        Web3 roles typically pay <strong className="text-foreground">20–40% more</strong> than equivalent Web2 positions, with salaries ranging from <strong className="text-foreground">$80,000–$250,000+</strong>. Solidity engineers and smart contract auditors command the highest premiums due to talent scarcity.
+                      </p>
+                    </div>
+                    
+                    <p className="text-base font-medium text-foreground">
+                      Get started today. Browse open roles, explore our guides, or join our community to discover your next Web3 opportunity.
                     </p>
                   </section>
               </div>
