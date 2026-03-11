@@ -10,7 +10,7 @@ relatedTerms: ["wallet", "private-key", "dao", "security"]
 synonyms: ["multi-signature", "multisig wallet", "multi-sig"]
 ---
 
-A multisig (multi-signature) wallet requires multiple private keys to authorize transactions, rather than just one. This creates a system where no single person can move funds unilaterally. Multisig is commonly configured as "M-of-N," meaning M signatures are required from a total of N key holders. For example, a 2-of-3 multisig needs any 2 out of 3 designated key holders to approve transactions.
+Multisig is a multi-signature wallet configuration that requires multiple private keys to authorize a transaction, providing enhanced security and shared control over cryptocurrency funds. Rather than relying on a single point of failure, multisig wallets distribute signing authority among several key holders using an M-of-N structure, where M signatures must be collected from N total participants before any funds can move. For instance, the Ethereum Foundation uses a multisig arrangement to manage its treasury, ensuring that no single individual can unilaterally access or transfer the organization's substantial holdings. Multisig wallets currently secure over $40 billion in digital assets across decentralized autonomous organizations and institutional treasuries (according to DeepDAO, 2025). The prevalence of multisig in enterprise and protocol treasury management has created strong demand for professionals who understand secure key management, with blockchain security and operations roles frequently listing multisig implementation experience as a preferred or required qualification.
 
 ## How Multisig Works
 

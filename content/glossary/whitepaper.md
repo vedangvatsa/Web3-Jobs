@@ -10,7 +10,7 @@ relatedTerms: ["blockchain", "token", "smart-contract"]
 synonyms: ["technical paper", "project documentation"]
 ---
 
-A whitepaper is a comprehensive technical document that describes a blockchain project's vision, technology, implementation details, and economic model. It serves as the foundational reference for understanding what a project aims to accomplish and how it plans to achieve those goals. Reading whitepapers is essential for anyone seriously evaluating cryptocurrency investments or blockchain technology.
+Whitepaper refers to a comprehensive technical document that outlines a blockchain project's vision, technology, tokenomics, and implementation roadmap, serving as the foundational reference for understanding what a project aims to accomplish and how it plans to achieve those goals. The most influential example is Bitcoin's 2008 whitepaper authored by Satoshi Nakamoto, a nine-page document that sparked the entire cryptocurrency industry by introducing the concept of a peer-to-peer electronic cash system without trusted intermediaries. Since then, thousands of projects have published whitepapers, with over 23,000 cryptocurrency projects documented on CoinGecko as of early 2025, each typically accompanied by technical documentation. For Web3 professionals, the ability to critically analyze whitepapers is essential across multiple roles, from investment analysts evaluating token economics to developers assessing technical feasibility, making whitepaper literacy a valuable skill that distinguishes serious practitioners in the blockchain job market.
 
 ## The Bitcoin Whitepaper
 

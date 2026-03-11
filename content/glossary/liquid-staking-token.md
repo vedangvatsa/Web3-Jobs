@@ -9,7 +9,7 @@ relatedTerms: ["staking", "validator", "restaking", "liquid-staking"]
 synonyms: ["LST", "staked token", "liquid staking asset"]
 ---
 
-**Liquid staking tokens (LSTs)** let users stake while retaining liquidity. Example: Stake 1 ETH in Lido, receive 1 stETH. stETH represents staked ETH plus accumulated rewards. You can trade stETH, use it as collateral, or earn yield in DeFi. LSTs solve the liquidity lock problem of staking. They enable capital efficiency by letting staked assets work across protocols. LSTs are core DeFi primitives and a major source of yield.
+Liquid Staking Token refers to a derivative token that represents staked cryptocurrency assets, allowing holders to maintain liquidity and participate in DeFi activities while their underlying tokens continue earning staking rewards. When users deposit assets into liquid staking protocols like Lido Finance, they receive corresponding tokens such as stETH that can be freely traded, used as collateral for borrowing, or deployed in yield farming strategies across multiple protocols. This innovation solves the fundamental trade-off between earning staking rewards and maintaining capital efficiency. Liquid staking has grown to become one of the largest DeFi categories, with over $35 billion in total value locked across protocols (according to DeFiLlama, as of early 2025). The mechanism enables users to compound returns by simultaneously earning base staking yields and additional DeFi rewards. As liquid staking protocols continue expanding across blockchain ecosystems, professionals with expertise in LST mechanics, smart contract integration, and risk assessment are increasingly sought after by DeFi protocols, institutional asset managers, and Web3 investment firms.
 
 ## How LSTs Work
 

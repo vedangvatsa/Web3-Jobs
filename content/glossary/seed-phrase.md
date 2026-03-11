@@ -10,7 +10,7 @@ relatedTerms: ["wallet", "private-key", "security"]
 synonyms: ["recovery phrase", "mnemonic phrase", "backup phrase", "secret phrase"]
 ---
 
-A seed phrase, also called a recovery phrase or mnemonic phrase, is a series of 12 or 24 randomly generated words that serves as the master key to your cryptocurrency wallet. This phrase can generate all the private keys associated with your wallet addresses, meaning anyone who possesses it has complete control over your funds. Understanding and properly securing your seed phrase is the single most important aspect of cryptocurrency self-custody.
+Seed Phrase refers to a sequence of 12 or 24 randomly generated words that functions as the master key to a cryptocurrency wallet, capable of regenerating all associated private keys and granting complete control over the funds stored within. This cryptographic backup mechanism, also known as a recovery phrase or mnemonic phrase, follows the BIP-39 standard adopted by virtually all major wallet providers including MetaMask, Ledger, and Trezor. The security implications are profound, as approximately $2.8 billion in cryptocurrency was stolen through wallet compromises and phishing attacks in 2024 alone (according to Chainalysis), with seed phrase theft representing a significant portion of these losses. When users set up a hardware wallet like Ledger Nano, they must carefully record and store their seed phrase offline, as losing it means permanent loss of access to their assets. Professionals working in wallet development, security auditing, and customer support roles must thoroughly understand seed phrase mechanics to protect users and build trustworthy products.
 
 ## How Seed Phrases Work
 

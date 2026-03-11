@@ -10,7 +10,7 @@ relatedTerms: ["Smart Contract", "ERC-20", "Cryptocurrency", "NFT", "Governance 
 synonyms: ["Crypto Token", "Digital Token"]
 ---
 
-A token is a digital asset built on an existing blockchain platform rather than having its own native blockchain. While cryptocurrencies like Bitcoin and Ethereum operate on their own blockchains, tokens are created through smart contracts on established networks, most commonly Ethereum.
+Token refers to a digital asset created on an existing blockchain platform through smart contracts, representing value, utility, ownership, or access rights within a decentralized application or ecosystem. Unlike cryptocurrencies such as Bitcoin or Ethereum that operate on their own native blockchains, tokens leverage established networks for their infrastructure, with Ethereum hosting the vast majority of token projects. The ERC-20 standard alone has enabled the creation of over 450,000 unique tokens on Ethereum (according to Etherscan, as of 2025), ranging from governance tokens that grant voting rights in decentralized protocols to utility tokens that provide access to specific platform features. Uniswap's UNI token exemplifies this model, functioning as both a governance mechanism for protocol decisions and a tradeable asset on decentralized exchanges. Understanding token standards, tokenomics, and smart contract interactions has become essential for blockchain developers, with token-related roles representing one of the fastest-growing segments in Web3 hiring.
 
 ## Tokens vs Coins: Key Differences
 

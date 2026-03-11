@@ -9,7 +9,7 @@ relatedTerms: ["collateral", "defi", "lending", "loan-to-value"]
 synonyms: ["forced liquidation", "margin call", "position closure"]
 ---
 
-**Liquidation** in DeFi refers to the process where a lending protocol automatically sells a borrower's collateral to repay their debt when the value of that collateral falls below a specified threshold. This mechanism protects lenders from losses when borrowers can't or won't repay loans, ensuring protocol solvency even during volatile market conditions.
+Liquidation refers to the automatic process by which DeFi lending protocols sell a borrower's collateral to repay outstanding debt when the collateral's value drops below a required threshold, typically expressed as a loan-to-value ratio. This mechanism serves as the primary safeguard protecting lenders from default risk and maintaining protocol solvency during periods of extreme market volatility. For example, Aave implements a liquidation system where third-party liquidators can repay up to 50% of a borrower's debt in exchange for receiving the equivalent collateral value plus a liquidation bonus, incentivizing rapid position clearing. During the May 2024 market downturn, DeFi protocols processed over $350 million in liquidations within a single week (according to DeFiLlama), demonstrating the scale at which these systems operate. Understanding liquidation mechanics is essential for risk management roles, smart contract auditors, and protocol developers, making it a frequently tested competency in Web3 technical interviews.
 
 ## How Liquidation Works
 

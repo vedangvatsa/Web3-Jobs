@@ -10,7 +10,7 @@ relatedTerms: ["staking", "consensus-mechanism", "ethereum"]
 synonyms: ["PoS", "staking consensus"]
 ---
 
-Proof of Stake (PoS) is a consensus mechanism where validators are selected to propose and validate blocks based on how much cryptocurrency they stake as collateral. Rather than competing through computational work like proof of work, validators in PoS systems are pseudo-randomly selected, with higher stakes generally increasing selection probability. This approach provides blockchain security through economic incentives while consuming a tiny fraction of the energy required by proof-of-work.
+Proof of Stake is a consensus mechanism that selects validators to create and verify new blocks based on the amount of cryptocurrency they have locked as collateral, replacing the energy-intensive computational competition of proof-of-work systems. Validators are chosen through a weighted random selection process where larger stakes increase the probability of being selected, creating security through economic incentives rather than raw processing power. Ethereum's transition to proof of stake in September 2022, known as "The Merge," reduced the network's energy consumption by approximately 99.95 percent (according to the Ethereum Foundation), demonstrating the mechanism's environmental advantages at scale. Other major networks including Solana, Cardano, and Polkadot have built their architectures around proof of stake from inception. Understanding proof of stake mechanics is increasingly valuable for blockchain developers, protocol engineers, and validator operators, as the majority of new layer-1 networks now adopt this consensus model.
 
 ## Core Mechanics
 

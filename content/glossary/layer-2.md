@@ -10,7 +10,7 @@ relatedTerms: ["Ethereum", "Rollup", "Sidechain", "Gas Fee", "Scaling"]
 synonyms: ["L2", "Layer Two", "L2 Solution"]
 ---
 
-Layer 2 (L2) refers to protocols built on top of existing blockchains (Layer 1s like Ethereum) that handle transactions off the main chain while inheriting its security guarantees. L2s dramatically reduce transaction costs and increase throughput without compromising decentralization.
+Layer 2 refers to scaling solutions built on top of a base blockchain, known as Layer 1, that process transactions off the main chain while inheriting the security guarantees of the underlying network. These protocols address the fundamental blockchain trilemma by enabling dramatically higher transaction throughput and lower fees without sacrificing decentralization. Arbitrum, one of the leading Layer 2 solutions for Ethereum, exemplifies this approach by using optimistic rollup technology to batch hundreds of transactions together before submitting them to the main chain. The impact has been substantial, with Layer 2 networks collectively holding over $45 billion in total value locked as of early 2025 (according to L2Beat). Popular applications including decentralized exchanges, lending protocols, and NFT marketplaces have migrated to Layer 2 networks to offer users near-instant transactions at a fraction of mainnet costs. For professionals entering the Web3 space, expertise in Layer 2 architecture and development has become increasingly valuable as major protocols prioritize scalability solutions in their technical roadmaps.
 
 ## The Scaling Problem
 

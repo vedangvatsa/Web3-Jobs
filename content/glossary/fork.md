@@ -10,7 +10,7 @@ relatedTerms: ["blockchain", "consensus-mechanism", "node"]
 synonyms: ["chain split", "protocol fork"]
 ---
 
-A fork occurs when a blockchain diverges into two separate chains, creating a split in the network's transaction history. Forks happen for various reasons: protocol upgrades that change consensus rules, contentious community disagreements about the blockchain's direction, or temporary splits when miners simultaneously produce competing blocks. Understanding forks is essential for grasping how blockchains evolve and maintain consensus.
+Fork refers to a divergence in a blockchain's protocol that results in two separate chains sharing a common transaction history up to the point of split. Forks can be intentional, such as soft forks that introduce backward-compatible changes or hard forks that create permanent chain separations requiring all nodes to upgrade, or they can occur accidentally when miners produce competing blocks simultaneously. The most notable example is the 2016 Ethereum hard fork following the DAO hack, which created Ethereum and Ethereum Classic as distinct networks with different philosophical approaches to immutability. Since Bitcoin's inception, over 100 forks of the original protocol have been created, though fewer than a dozen maintain significant market activity (according to CoinMarketCap, as of 2025). Understanding fork mechanics is increasingly valuable in the job market, as blockchain developers and protocol engineers must navigate upgrade coordination, backward compatibility, and community governance when implementing network changes.
 
 ## Types of Forks
 

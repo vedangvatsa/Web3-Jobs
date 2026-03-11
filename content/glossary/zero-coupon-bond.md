@@ -9,7 +9,7 @@ relatedTerms: ["fixed-income", "defi", "bonds", "yield"]
 synonyms: ["zero-coupon", "deep-discount bond", "bullet bond"]
 ---
 
-**Zero-coupon bonds** pay lump sum at maturity, no interest. Example: Buy $100 bond for $90. Wait 1 year. Receive $100. Profit = $10. Yield = 11%. Zero-coupon bonds trade at deep discount. Discount represents interest. Longer maturity = larger discount. Zero-coupon bonds enable fixed-income DeFi. Pendle Finance creates zero-coupon bonds from yield-bearing tokens. Element Finance enables zero-coupon bonds. Zero-coupon bonds are emerging in DeFi.
+Zero-Coupon Bond refers to a financial instrument that pays no periodic interest but instead trades at a significant discount to its face value, with investors earning profit through the difference between purchase price and redemption value at maturity. For example, purchasing a bond for $90 that matures at $100 after one year yields approximately 11% return. In decentralized finance, protocols like Pendle Finance have pioneered zero-coupon bond mechanics by splitting yield-bearing tokens into principal and yield components, enabling users to lock in fixed returns or speculate on future yields. The protocol reached over $4.5 billion in total value locked during 2024 (according to DeFiLlama), demonstrating substantial market demand for fixed-income DeFi products. As traditional finance institutions increasingly explore blockchain-based bond issuance and DeFi protocols mature their fixed-income offerings, professionals who understand zero-coupon bond mechanics and their on-chain implementations are becoming increasingly valuable to both crypto-native treasuries and institutional investors entering the space.
 
 ## Zero-Coupon Bond Mechanics
 

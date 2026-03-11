@@ -9,7 +9,7 @@ relatedTerms: ["liquidity", "slippage", "dex", "governance-token"]
 synonyms: ["large holder", "big player", "crypto whale"]
 ---
 
-A **whale** in cryptocurrency is an individual or entity that holds an extremely large amount of a particular cryptocurrency or token. These major holders command enough capital that their trading decisions can significantly impact market prices, liquidity, and sentiment. The term originates from casino gambling, where high-rollers were called "whales" due to their outsized impact on the house's bottom line.
+Whale refers to an individual or entity holding an exceptionally large amount of cryptocurrency, with sufficient capital to influence market prices through their trading activity. The term, borrowed from casino gambling where high-stakes players were called whales, describes holders whose buy or sell orders can move markets, affect liquidity, and shift overall sentiment. On Bitcoin's network, approximately 2,000 addresses hold more than 1,000 BTC each, collectively controlling over 40 percent of the total supply (according to Glassnode, as of 2024). A notable example is MicroStrategy, the business intelligence firm that has accumulated over 200,000 Bitcoin as a corporate treasury strategy, making its trading decisions closely watched market indicators. For professionals entering Web3, understanding whale behavior is essential for roles in market analysis, trading operations, and risk management, as tracking large holder movements has become a core competency for exchanges, investment funds, and blockchain analytics firms.
 
 ## What Defines a Whale
 

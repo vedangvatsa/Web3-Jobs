@@ -10,7 +10,7 @@ relatedTerms: ["DeFi", "Automated Market Maker", "Uniswap", "Impermanent Loss", 
 synonyms: ["LP", "AMM Pool", "Trading Pool"]
 ---
 
-A liquidity pool is a collection of tokens locked in a smart contract that facilitates decentralized trading. Instead of traditional order books matching buyers and sellers, liquidity pools use algorithms to automatically set prices and execute trades.
+Liquidity Pool refers to a smart contract that holds reserves of two or more cryptocurrency tokens, enabling decentralized trading without traditional order book mechanisms. These pools form the backbone of automated market makers, where algorithms automatically determine prices based on the ratio of tokens in the reserve, allowing users to swap assets instantly at any time. Uniswap, one of the largest decentralized exchanges, pioneered this model and demonstrates how liquidity pools can facilitate billions in daily trading volume. Liquidity providers deposit token pairs into these pools and earn a percentage of trading fees proportional to their contribution, creating passive income opportunities in decentralized finance. As of early 2025, liquidity pools across all DeFi protocols collectively hold over 50 billion dollars in total value locked, according to DeFiLlama. Understanding liquidity pool mechanics is essential for roles in DeFi protocol development, smart contract engineering, and tokenomics design, making it a foundational concept for Web3 careers.
 
 ## Why Liquidity Pools Exist
 

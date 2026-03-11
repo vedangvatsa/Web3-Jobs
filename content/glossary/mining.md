@@ -10,7 +10,7 @@ relatedTerms: ["Proof of Work", "Bitcoin", "Hash Rate", "Block Reward", "Consens
 synonyms: ["Crypto Mining", "Bitcoin Mining"]
 ---
 
-Mining is the computational process by which Proof of Work blockchains validate transactions, secure the network, and create new cryptocurrency. Miners compete to solve cryptographic puzzles, with the winner earning the right to add the next block and collect rewards.
+Mining is the computational process by which Proof of Work blockchains validate transactions, secure the network, and create new cryptocurrency tokens. Miners deploy specialized hardware to compete in solving complex cryptographic puzzles, with the first to find a valid solution earning the right to add the next block to the chain and collect rewards in the form of newly minted coins plus transaction fees. Bitcoin, the largest Proof of Work network, relies entirely on mining for its security and has spawned a global industry of mining operations, with the Bitcoin network consuming approximately 176 terawatt-hours of electricity annually (according to the Cambridge Centre for Alternative Finance as of 2024). Major mining companies like Marathon Digital and Riot Platforms operate massive facilities with thousands of specialized ASIC machines. For professionals entering the blockchain space, mining operations offer diverse career paths including hardware engineering, data center management, energy optimization, and mining pool development, particularly as the industry evolves toward more sustainable energy sources.
 
 ## How Mining Works
 
