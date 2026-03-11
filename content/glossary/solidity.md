@@ -10,7 +10,7 @@ relatedTerms: ["Smart Contract", "Ethereum", "EVM", "Web3", "DApp"]
 synonyms: ["Solidity Language"]
 ---
 
-Solidity is a statically-typed, object-oriented programming language specifically designed for writing smart contracts that run on the Ethereum Virtual Machine (EVM). Created in 2014 by Gavin Wood, Christian Reitwiessner, and others, Solidity has become the dominant language for blockchain development with syntax similar to JavaScript and C++.
+Solidity is a statically-typed, object-oriented programming language designed specifically for writing smart contracts on the Ethereum Virtual Machine (EVM). Created in 2014 by Gavin Wood and Christian Reitwiessner, Solidity combines syntax familiar to developers who know JavaScript and C++ with blockchain-specific features like built-in cryptocurrency handling and cryptographic functions. The language powers some of the most significant decentralized applications in existence, including Uniswap, the decentralized exchange that has processed over $2 trillion in cumulative trading volume since its launch. Solidity dominates the smart contract development landscape, with over 90% of all smart contracts on EVM-compatible chains written in this language (according to Electric Capital's 2024 Developer Report). Beyond Ethereum, Solidity code runs on networks like Polygon, Arbitrum, and BNB Chain, making it the de facto standard for multi-chain development. For aspiring blockchain developers, Solidity proficiency remains the most sought-after skill in Web3 job postings, appearing in approximately 70% of smart contract developer roles.
 
 ## Why Solidity Exists
 

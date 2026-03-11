@@ -10,7 +10,7 @@ relatedTerms: ["blockchain", "mining", "consensus-mechanism"]
 synonyms: ["network node", "blockchain node", "validator"]
 ---
 
-A node is any computer that connects to a blockchain network and participates in maintaining the distributed ledger. Nodes store copies of the blockchain, validate transactions and blocks, and relay information to other nodes. They form the decentralized infrastructure that makes blockchains work without central authorities. Understanding nodes is fundamental to grasping how blockchains achieve decentralization and trustlessness.
+Node refers to any computer that connects to a blockchain network and participates in maintaining the distributed ledger by storing blockchain data, validating transactions and blocks, and relaying information across the network. These machines form the decentralized infrastructure that allows blockchains to operate without central authorities, with each node independently verifying that all rules are being followed. Ethereum, for example, relies on a global network of over 6,000 active nodes distributed across more than 80 countries to maintain its security and censorship resistance (according to Etherscan, as of 2025). Different types of nodes serve different purposes, from full nodes that store complete blockchain histories to light nodes that only download block headers for faster synchronization. Running nodes requires technical knowledge of networking, system administration, and blockchain protocols, making node operation and infrastructure management increasingly valuable skills as more organizations seek professionals who can deploy and maintain reliable blockchain infrastructure.
 
 ## Full Nodes vs Light Nodes
 

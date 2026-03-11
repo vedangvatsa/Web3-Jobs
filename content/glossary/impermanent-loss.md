@@ -10,7 +10,7 @@ relatedTerms: ["liquidity-pool", "amm", "defi"]
 synonyms: ["divergence loss", "IL"]
 ---
 
-Impermanent loss is the difference in value between holding tokens in your wallet versus depositing them in a liquidity pool. When you provide liquidity to an automated market maker (AMM) like Uniswap, the protocol automatically adjusts your token holdings as traders swap through the pool. If token prices change significantly from when you deposited, you may end up with less value than if you'd simply held the tokens.
+Impermanent loss refers to the temporary reduction in dollar value that liquidity providers experience when depositing tokens into an automated market maker (AMM) compared to simply holding those same tokens in a wallet. This phenomenon occurs because AMM protocols like Uniswap automatically rebalance token ratios as prices fluctuate, meaning providers end up with more of the depreciating token and less of the appreciating one. For example, if you deposit equal values of ETH and USDC into a Uniswap pool and ETH doubles in price, you would have been better off just holding your original tokens. Research indicates that over fifty percent of Uniswap v3 liquidity providers have experienced negative returns due to impermanent loss exceeding their earned trading fees (according to Bancor research, 2022). Understanding impermanent loss mechanics is essential for DeFi analysts, protocol developers, and liquidity strategists, making it a frequently tested concept in Web3 finance interviews and a core competency for roles at decentralized exchanges.
 
 ## The Mathematics Behind It
 

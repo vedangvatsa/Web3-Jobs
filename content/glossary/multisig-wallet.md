@@ -9,7 +9,7 @@ relatedTerms: ["wallet", "security", "private-key", "custody"]
 synonyms: ["multi-sig", "multisig", "M-of-N wallet"]
 ---
 
-**Multi-signature wallets** require multiple signatures to authorize transactions. Example: 2-of-3 multisig. Three parties (Alice, Bob, Charlie) each have private key. Any 2 can authorize transaction. All 3 can't act alone. Prevents single party stealing funds. Reduces insider risk. Multisig is security best practice for large funds. Gnosis Safe is most popular multisig on Ethereum. Most DeFi protocols use multisig governance vaults. Understanding multisig is critical for custody and governance.
+Multi-Signature Wallet refers to a cryptocurrency wallet that requires multiple private keys from different parties to authorize transactions, distributing control and eliminating single points of failure in asset management. Rather than one person holding complete authority over funds, multisig configurations like 2-of-3 require at least two out of three designated keyholders to approve any transfer, preventing unauthorized access even if one key is compromised or one party acts maliciously. Gnosis Safe, the most widely adopted multisig solution on Ethereum, secures over $60 billion in digital assets across thousands of organizations (according to Safe Global, 2024). Major DeFi protocols, venture funds, and corporate treasuries rely on multisig wallets to protect substantial holdings while enabling collaborative governance. For professionals entering Web3, understanding multisig architecture is essential, as roles in treasury management, protocol security, and institutional custody increasingly require expertise in designing and operating multi-signature systems for enterprise-grade asset protection.
 
 ## Multisig Security
 

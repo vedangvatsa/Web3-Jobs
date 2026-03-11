@@ -10,7 +10,7 @@ relatedTerms: ["mining", "consensus-mechanism", "bitcoin"]
 synonyms: ["PoW", "mining consensus"]
 ---
 
-Proof of Work (PoW) is a consensus mechanism that requires network participants to expend computational effort to propose new blocks and secure the blockchain. Miners compete to solve cryptographic puzzles, with the first to find a solution earning the right to add the next block and collect rewards. This mechanism, pioneered by Bitcoin, proved that decentralized consensus without trusted authorities is possible.
+Proof of Work is a consensus mechanism that requires network participants to solve computationally intensive cryptographic puzzles in order to validate transactions and add new blocks to the blockchain. Miners compete by dedicating processing power to find a hash that meets specific difficulty requirements, with the first successful miner earning the right to propose the next block and receive block rewards plus transaction fees. Bitcoin, the original implementation of this mechanism, has operated continuously since 2009 and currently consumes approximately 150 terawatt-hours of electricity annually (according to the Cambridge Centre for Alternative Finance), demonstrating both the security guarantees and energy costs inherent to the design. Ethereum also relied on Proof of Work until its transition to Proof of Stake in 2022. Understanding Proof of Work remains essential for blockchain professionals, as roles in mining operations, hardware optimization, protocol development, and network security continue to demand expertise in this foundational consensus approach that still secures hundreds of billions in digital assets.
 
 ## How Proof of Work Functions
 

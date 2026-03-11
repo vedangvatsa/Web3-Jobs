@@ -10,7 +10,7 @@ relatedTerms: ["nft", "smart-contract", "minting"]
 synonyms: ["creator fee", "creator royalty", "secondary sale fee"]
 ---
 
-Royalties in the NFT space are percentages of secondary sales that automatically go to the original creator. When an NFT is resold on a marketplace, the creator receives their set royalty percentage while the majority goes to the seller. This innovation addresses a long-standing issue in traditional art markets where artists don't benefit from appreciation in their work's value after the initial sale.
+Royalty refers to a percentage of each secondary sale that automatically transfers to the original creator of a digital asset, most commonly applied to NFTs. When a collector resells an NFT on a marketplace, smart contract logic ensures the creator receives their predetermined royalty cut, typically ranging from 2.5% to 10% of the transaction value. This mechanism addresses a fundamental inequity in traditional art markets where artists receive nothing when their work appreciates and changes hands. OpenSea, the largest NFT marketplace, has facilitated over $1.1 billion in creator royalty payments since its inception (according to OpenSea's 2024 creator earnings report). Platforms like Foundation and SuperRare have built their entire value propositions around protecting creator royalties, even as some marketplaces have moved toward optional enforcement models. For professionals entering the Web3 space, understanding royalty structures is essential for roles in NFT platform development, smart contract engineering, and creator economy product management.
 
 ## How NFT Royalties Work
 

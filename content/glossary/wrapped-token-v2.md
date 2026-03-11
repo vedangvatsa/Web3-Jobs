@@ -9,7 +9,7 @@ relatedTerms: ["token", "bridge", "cross-chain", "defi"]
 synonyms: ["wrapped asset", "bridge token", "pegged token"]
 ---
 
-**Wrapped tokens** represent assets from one chain on another. WBTC: Bitcoin wrapped on Ethereum. 1 WBTC = 1 BTC (1:1 peg). Custodian holds Bitcoin, issues WBTC on Ethereum. WBTC enables Bitcoin to participate in Ethereum DeFi. Example: Stake WBTC in Aave, earn yields. Without wrapping, Bitcoin can't participate in Ethereum DeFi. Wrapping enables cross-chain asset use. WBTC ($5B+ supply) major wrapped asset. Understanding wrapped tokens important for cross-chain activity.
+Wrapped Token refers to a cryptocurrency asset that has been tokenized to function on a blockchain different from its native network, allowing it to participate in ecosystems where it otherwise could not operate. The most prominent example is Wrapped Bitcoin (WBTC), where a custodian holds actual Bitcoin in reserve and issues an equivalent ERC-20 token on Ethereum, maintaining a strict one-to-one peg with the underlying asset. This mechanism enables Bitcoin holders to access Ethereum's decentralized finance ecosystem, depositing WBTC into lending protocols like Aave or using it as collateral in various DeFi applications. Wrapped Bitcoin alone represents over five billion dollars in total value locked across DeFi protocols (according to DeFiLlama, 2025), demonstrating significant market adoption of cross-chain asset bridges. For professionals entering Web3, understanding wrapped token mechanics is essential, as roles in protocol development, DeFi integration, and cross-chain infrastructure increasingly require expertise in how assets move between blockchain networks.
 
 ## Wrapping Mechanics
 

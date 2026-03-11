@@ -9,7 +9,7 @@ relatedTerms: ["liquidity-pool", "dex", "amm", "slippage"]
 synonyms: ["market depth", "available capital"]
 ---
 
-**Liquidity** in Web3 and DeFi contexts refers to the availability of assets that can be easily bought, sold, or exchanged without causing significant price movement. High liquidity means large trades can execute quickly at stable prices, while low liquidity results in price slippage and difficulty entering or exiting positions.
+Liquidity refers to how easily an asset can be bought or sold without significantly affecting its price, representing one of the most fundamental concepts in both traditional finance and decentralized markets. In Web3 contexts, liquidity typically exists within automated market maker protocols like Uniswap, where users deposit token pairs into smart contract pools that enable instant swaps without requiring a counterparty. High liquidity ensures that traders can execute large orders with minimal slippage, while low liquidity creates volatile price movements and makes it difficult to enter or exit positions efficiently. The total value locked across decentralized exchanges exceeded $25 billion as of early 2025 (according to DeFiLlama), demonstrating the massive scale of on-chain liquidity infrastructure. Understanding liquidity mechanics is essential for careers in DeFi protocol development, quantitative trading, treasury management, and risk analysis, making it a core competency that employers consistently seek in Web3 candidates.
 
 ## Understanding Liquidity
 

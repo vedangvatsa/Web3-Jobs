@@ -10,7 +10,7 @@ relatedTerms: ["token", "defi", "collateral"]
 synonyms: ["stable token", "pegged coin"]
 ---
 
-A stablecoin is a type of cryptocurrency specifically designed to maintain a stable value, typically by pegging to a fiat currency like the US dollar or a commodity like gold. Unlike Bitcoin or Ethereum, which can experience significant price volatility, stablecoins aim to provide the benefits of cryptocurrency—fast transactions, programmability, and global accessibility—without the price fluctuation.
+Stablecoin refers to a category of cryptocurrency engineered to maintain a consistent value by anchoring to reserve assets such as fiat currencies, commodities, or other digital assets. Unlike volatile cryptocurrencies like Bitcoin, stablecoins combine blockchain advantages—programmability, borderless transfers, and transparency—with price predictability. Tether's USDT exemplifies this model, backing each token with dollar-equivalent reserves and facilitating billions in daily trading volume across exchanges worldwide. The stablecoin market has grown substantially, with total market capitalization exceeding $230 billion as of early 2025 according to CoinGecko, reflecting their central role in decentralized finance, remittances, and institutional settlement. Major applications include serving as trading pairs on exchanges, providing collateral in lending protocols, and enabling cross-border payments without traditional banking intermediaries. For professionals entering Web3, understanding stablecoin mechanics, reserve auditing practices, and regulatory frameworks represents essential knowledge, as roles in compliance, treasury management, and protocol development increasingly require expertise in stable asset infrastructure.
 
 ## How Stablecoins Work
 

@@ -10,7 +10,7 @@ relatedTerms: ["Ethereum", "Gwei", "Transaction", "Block", "Mining"]
 synonyms: ["Transaction Fee", "Network Fee"]
 ---
 
-Gas fees are payments made to execute transactions or run smart contracts on blockchain networks. The term originated with Ethereum, where "gas" represents the computational effort required to process operations.
+Gas Fee refers to the transaction cost paid to process and validate operations on a blockchain network, compensating validators or miners for the computational resources required to execute transactions or run smart contracts. The term originated with Ethereum, where gas measures the computational effort needed for each operation, with more complex actions like deploying smart contracts requiring more gas than simple token transfers. For example, users interacting with Uniswap to swap tokens must pay gas fees that fluctuate based on network congestion, sometimes spiking during high-demand periods such as popular NFT mints or token launches. Ethereum's transition to proof-of-stake and the implementation of EIP-1559 have fundamentally changed fee dynamics, with average transaction fees dropping to around three to five dollars during normal conditions, though they reached over fifty dollars during peak congestion in early 2024 according to Etherscan data. Understanding gas optimization is increasingly valuable for blockchain developers, as companies actively seek engineers who can write gas-efficient smart contracts to reduce operational costs.
 
 ## Why Gas Fees Exist
 
