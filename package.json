@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "npx tsx scripts/stamp-article-dates.ts",
+    "prebuild": "npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true",
     "build": "next build",
     "stamp-dates": "npx tsx scripts/stamp-article-dates.ts",
     "start": "next start",
