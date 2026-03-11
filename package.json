@@ -13,7 +13,9 @@
     "send-alerts": "npx tsx scripts/send-job-alerts.ts",
     "send-new-jobs": "npx tsx scripts/send-new-jobs.ts",
     "clean-suppressed": "npx tsx scripts/clean-suppressed-emails.ts",
-    "clean-suppressed:dry": "npx tsx scripts/clean-suppressed-emails.ts --dry-run"
+    "clean-suppressed:dry": "npx tsx scripts/clean-suppressed-emails.ts --dry-run",
+    "linkedin:post-jobs": "npx tsx scripts/linkedin-auto-post.ts",
+    "linkedin:authorize": "echo 'Visit the LinkedIn OAuth URL to authorize'"
   },
   "engines": {
     "node": "20"
