@@ -34,7 +34,7 @@ Internal Link: Learn how to use AI for business growth more broadly.
 This is your core work, and AI can help you do it better and faster.
 
 *   **For Writers**: AI tools like Grammarly and Jasper are invaluable. They can help with everything from brainstorming ideas and creating outlines to proofreading and checking for plagiarism. They can also help you adapt your writing to different tones and styles, depending on the client's needs.
-*   **For Designers**: AI is transforming the design process. Tools like **Midjourney** and **DALL-E 3** can generate incredible images from text prompts, which can be a great starting point for creative projects. Plugins for Figma, like **Diagram**, can automatically create flowcharts and diagrams, saving you hours of manual work.
+*   **For Designers**: AI is improving how design process. Tools like **Midjourney** and **DALL-E 3** can generate incredible images from text prompts, which can be a great starting point for creative projects. Plugins for Figma, like **Diagram**, can automatically create flowcharts and diagrams, saving you hours of manual work.
 *   **For Developers**: AI coding assistants like **[GitHub](/building-web3-portfolio) Copilot** are becoming essential. They can suggest code completions, help you debug problems, and even write entire functions based on a simple prompt. This can dramatically speed up the development process.
 
 #### 3. Administrative and Business Tasks

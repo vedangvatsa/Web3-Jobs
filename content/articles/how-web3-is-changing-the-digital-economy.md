@@ -48,7 +48,7 @@ The Web3 digital economy is still in its early stages, but it offers a blueprint
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

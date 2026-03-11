@@ -27,7 +27,7 @@ Lilongwe's future Web3 ecosystem will likely be shaped by Malawi's economic and 
 The formal Web3 job market in Lilongwe is almost non-existent today. The most viable career path for Malawian professionals is to develop globally competitive skills and secure [remote work](/remote-work-in-web3) with international Web3 companies.
 
 *   **Remote Full-Stack / Mobile Developer:** Developers with strong skills in mobile app development who can integrate blockchain functionality are in the best position to find high-paying remote work.
-    *   **Senior (Remote for Global Co.):** Can command international salaries of $3,500 - $7,000+ USD per month, which is a transformative income in Malawi.
+    *   **Senior (Remote for Global Co.):** Can command international salaries of $3,500 - $7,000+ USD per month, which is a improving how income in Malawi.
 
 *   **AgriTech / FinTech Product Manager:** Professionals who understand both the challenges of Malawi's agricultural sector and the potential of Web3 can be valuable consultants or founders of new impact-focused startups.
 

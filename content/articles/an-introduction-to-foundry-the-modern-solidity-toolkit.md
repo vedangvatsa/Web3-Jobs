@@ -26,7 +26,7 @@ Foundry is not a single tool, but a collection of command-line tools that work t
 
 ### Why Use Foundry? The Key Advantages
 
-1.  **Solidity-Native Testing:** This is the game-changer. Writing tests in Solidity instead of JavaScript has several benefits:
+1.  **Solidity-Native Testing:** This is the significant development Writing tests in Solidity instead of JavaScript has several benefits:
     *   **No Context Switching:** You stay in the same language and mental model, which can make development faster and more intuitive.
     *   **Performance:** Forge tests are significantly faster than JavaScript-based tests because they run directly in the EVM without the overhead of a JavaScript runtime.
     *   **Fuzzing:** Forge has powerful, built-in support for "fuzz testing." This is a type of automated testing where the framework generates a huge number of random inputs to try and find edge cases that break your code. This is a massive improvement for security.

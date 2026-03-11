@@ -136,7 +136,7 @@ DeSci represents a convergence of two powerful movements: the scientific goal of
 
 It's early days, with significant challenges ahead. But the potential is enormous: a scientific system that's more open, more fair, more transparent, and ultimately, more innovative.
 
-For those interested in the intersection of science and technology, or who believe that decentralization can improve institutions, DeSci is one of the most interesting frontiers in Web3. It has the potential to not just create new technologies, but to fundamentally transform how humanity conducts its most important work: discovering truth about the world.
+For those interested in the intersection of science and technology, or who believe that decentralization can improve institutions, DeSci is one of the most interesting frontiers in Web3. It has the potential to not just create new technologies, but to fundamentally improving how how humanity conducts its most important work: discovering truth about the world.
 
 ## Why This Matters
 

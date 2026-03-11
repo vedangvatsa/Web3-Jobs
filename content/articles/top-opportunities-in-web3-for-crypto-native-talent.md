@@ -20,7 +20,7 @@ The core shift for experienced talent is from being a "builder" to being an "arc
 
 ## Top-Tier Technical Opportunities
 
-For those with a strong technical background, these roles represent the cutting edge of the industry.
+For those with a strong technical background, these roles represent the advanced of the industry.
 
 ### 1. Protocol Engineer (L1/L2 Core Development)
 
@@ -86,7 +86,7 @@ Find your next challenge on the [Web3 Job Board](/jobs) and take your career to 
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

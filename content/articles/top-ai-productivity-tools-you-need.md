@@ -44,7 +44,7 @@ Meetings are a notorious productivity killer. AI-powered meeting assistants can 
 **Key Uses for Productivity**
 
 *   **Automated Transcription** Get a full, searchable transcript of your meeting moments after it ends. No more trying to type notes while also participating in the conversation.
-*   **Action Item Detection** These tools automatically identify and list action items, so everyone knows who is responsible for what after the meeting.
+*   **Action Item Detection** These tools automatically identify and list action items, so many agree who is responsible for what after the meeting.
 *   **AI-Generated Summaries** Get a concise summary of the key topics, decisions, and outcomes of the meeting, which you can easily share with attendees or those who couldn't make it.
 *   **Search a Conversation** Forget what was said about the Q4 budget? You can search the transcript for keywords instead of having to re-watch the entire recording.
 

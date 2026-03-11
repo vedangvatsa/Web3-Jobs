@@ -163,7 +163,7 @@ A remote developer earning $5,000/month:
 
 **Challenge: Small Population**
 - Only ~400k people in Windhoek; limited local hiring
-- Advantage: Everyone knows everyone; visibility is high; early-mover advantage
+- Advantage: many agree everyone; visibility is high; early-mover advantage
 
 **Challenge: Visa & Tax Considerations**
 - Digital Nomad Visa new; tax implications unclear

@@ -50,7 +50,7 @@ Balaji is a strong advocate for the right to pseudonymity-the ability to have a 
 Drawing on the work of economist Albert Hirschman, Balaji emphasizes the power of "exit." In the context of Web3, this means the ability for individuals to peacefully and digitally "exit" systems they disagree with.
 
 *   **Voting with Your Feet (and Your Funds):** Instead of trying to reform legacy institutions from within ("voice"), Web3 provides the tools to build and move to new, parallel systems. If you don't like your country's monetary policy, you can exit to Bitcoin. If you don't like your social network's censorship, you can exit to a decentralized alternative.
-*   **The Ultimate Check on Power:** He argues that the ability to exit is the core check on state power. When citizens and capital can easily leave, governments are forced to compete for their loyalty by providing better services.
+*   **the best Check on Power:** He argues that the ability to exit is the core check on state power. When citizens and capital can easily leave, governments are forced to compete for their loyalty by providing better services.
 
 ### 3. The "Ledger of Record"
 

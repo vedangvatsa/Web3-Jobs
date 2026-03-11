@@ -13,7 +13,7 @@ In the digital age, our identity is a collection of claims made about us by vari
 
 The [Web3](/what-is-web3) solution to this problem is **[Decentralized Identity (DID)](/decentralized-identity-explained)**, and its most important building block is the **Verifiable Credential (VC)**. VCs are a standardized, machine-readable format for making claims in a way that is secure, privacy-preserving, and controlled by the user. They are poised to become the digital equivalent of your passport, driver's license, and university diploma, all rolled into one and held securely in your crypto [wallet](/how-to-choose-a-crypto-wallet).
 
-This guide provides a deep dive into the technical and conceptual framework of Verifiable Credentials, explaining how they work, the roles involved, and their transformative potential.
+This guide provides a deep dive into the technical and conceptual framework of Verifiable Credentials, explaining how they work, the roles involved, and their improving how potential.
 
 ### The Problem with Traditional Credentials
 

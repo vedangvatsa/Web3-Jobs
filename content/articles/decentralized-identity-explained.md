@@ -43,7 +43,7 @@ In this scenario, you've proven what was necessary without over-sharing personal
 - **Privacy:** You only share the data you need to, when you need to.
 - **Security:** Reduces the risk of large-scale data breaches by eliminating centralized honeypots of personal data.
 - **Ownership:** You own your data and your digital relationships. You can't be de-platformed because your identity isn't tied to any single service.
-- **Seamless Experience:** Your DID can act as a universal login for all Web3 applications, creating a single, portable identity for your entire digital life.
+- **streamlined $1 that reduces friction and setup time:** Your DID can act as a universal login for all Web3 applications, creating a single, portable identity for your entire digital life.
 
 ### The Road Ahead
 

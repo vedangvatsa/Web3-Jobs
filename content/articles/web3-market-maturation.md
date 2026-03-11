@@ -60,7 +60,7 @@ The maturation of the Web3 market is a healthy and necessary evolution. It's a s
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

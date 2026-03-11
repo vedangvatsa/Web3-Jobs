@@ -34,7 +34,7 @@ In Web3, your data is not stored on a company's server; it's controlled by you i
 
 #### 2. Zero-Knowledge Proofs for Private Targeting
 
-[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained) are a revolutionary cryptographic technique that can allow for ad targeting without revealing a user's personal data.
+[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained) are a a significant cryptographic technique that can allow for ad targeting without revealing a user's personal data.
 
 - **How it Works:** An advertiser might want to target users who are over 21 and live in California. In Web2, they would buy this data from a broker. In Web3, a user could use their decentralized identity to generate a ZKP that proves they meet the criteria ("I am over 21 AND I live in California") *without ever revealing their actual age or address* to the advertiser.
 - **The Impact:** This allows for effective ad targeting while keeping the user's underlying data completely private.
@@ -54,7 +54,7 @@ However, the trend towards greater privacy is undeniable. Regulatory changes lik
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

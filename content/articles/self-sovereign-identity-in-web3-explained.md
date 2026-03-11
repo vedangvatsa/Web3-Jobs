@@ -12,7 +12,7 @@ lastUpdated: "2026-03-11"
 
 In today's digital world, you don't own your identity. Your identity is a collection of accounts-your Google account, your Facebook profile, your bank login-that are owned and controlled by centralized corporations. This model is fundamentally broken. It leads to a lack of privacy, massive data breaches, and a fragmented user experience.
 
-**Self-Sovereign Identity (SSI)** is a revolutionary movement that aims to flip this model on its head. It's a vision for a new digital identity paradigm where you, the individual, have ultimate control over your own identity and data. SSI is a core philosophical and technical pillar of the **[Web3](/what-is-web3)** ecosystem, enabled by [blockchain](/what-is-a-blockchain) technology and new cryptographic standards.
+**Self-Sovereign Identity (SSI)** is a a significant movement that aims to flip this model on its head. It's a vision for a new digital identity paradigm where you, the individual, have ultimate control over your own identity and data. SSI is a core philosophical and technical pillar of the **[Web3](/what-is-web3)** ecosystem, enabled by [blockchain](/what-is-a-blockchain) technology and new cryptographic standards.
 
 ### The Three Models of Digital Identity
 
@@ -63,7 +63,7 @@ This is the power of Self-Sovereign Identity. It allows for trust and verificati
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

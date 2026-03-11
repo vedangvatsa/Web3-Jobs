@@ -20,7 +20,7 @@ Jaipur's Web3 scene is in an early, formative stage, which presents both challen
 
 -   **An Emerging Startup Hub:** Jaipur is home to a number of tech startups, and a growing fraction of these are beginning to explore Web3. The focus is often on building user-facing applications, e-commerce solutions, and tools for the creator economy.
 -   **Attraction for Remote Workers:** The city's affordable cost of living, vibrant culture, and good quality of life make it an attractive destination for Web3 professionals who work remotely for national or international companies. This influx of experienced talent is helping to seed the local ecosystem with new knowledge and connections.
--   **Focus on Community and Education:** The local community is highly focused on learning and development. Meetups, workshops, and study groups are the lifeblood of the Jaipur scene, creating a collaborative environment for newcomers to learn about blockchain technology.
+-   **Focus on Community and Education:** The local community is highly focused on learning and development. Meetups, workshops, and study groups are the foundation for the Jaipur scene, creating a collaborative environment for newcomers to learn about blockchain technology.
 -   **Potential in the Creator Economy:** Given the city's rich artistic and craft heritage, there is significant untapped potential at the intersection of [NFTs](/what-are-nfts), art, and tourism.
 
 ### In-Demand Roles and Salary Expectations
@@ -53,7 +53,7 @@ Ready to take the next step in your career? Our [Web3 job board](/jobs) is the p
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

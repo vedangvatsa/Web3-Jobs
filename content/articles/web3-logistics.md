@@ -14,7 +14,7 @@ The global logistics and supply chain industry is a multi-trillion dollar behemo
 
 [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology offer a powerful set of tools to solve these long-standing problems. By creating a single, shared, and immutable ledger, blockchain can bring transparency and efficiency to the world of logistics. This is creating a new and growing field for **[Web3 Supply Chain Experts](/web3-supply-chain-experts-navigating-blockchain-solutions)** who can design and implement these next-generation systems.
 
-This guide will explore the key ways that Web3 is transforming the logistics industry and the new business and career opportunities that are emerging as a result.
+This guide will explore the key ways that Web3 is improving how logistics industry and the new business and career opportunities that are emerging as a result.
 
 ### The Problem with Traditional Logistics
 
@@ -95,7 +95,7 @@ Despite these challenges, the potential for Web3 to bring a new level of efficie
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

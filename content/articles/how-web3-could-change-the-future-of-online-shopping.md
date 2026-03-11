@@ -52,11 +52,11 @@ Web3 is also changing the very rails on which payments run.
 
 ### The Road Ahead
 
-The integration of Web3 into online shopping is still in its early days. The user experience of connecting a wallet and signing transactions remains a major hurdle for mainstream adoption. However, the underlying benefits-true ownership, lower fees, greater transparency, and deeper community engagement-are incredibly powerful. As the technology becomes more user-friendly, Web3 is set to transform e-commerce from a simple transactional experience into a rich, interactive, and community-owned economy.
+The integration of Web3 into online shopping is still in its early days. The user experience of connecting a wallet and signing transactions remains a major hurdle for mainstream adoption. However, the underlying benefits-true ownership, lower fees, greater transparency, and deeper community engagement-are incredibly powerful. As the technology becomes more user-friendly, Web3 is set to improving how e-commerce from a simple transactional experience into a rich, interactive, and community-owned economy.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

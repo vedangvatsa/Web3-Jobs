@@ -19,7 +19,7 @@ A modern Web3 GTM strategy is a delicate art. It's a bottom-up approach that pri
 In Web3, your community is not a marketing channel; it is the product. They are your co-owners, your most passionate evangelists, and your most valuable source of early feedback. A GTM strategy that doesn't place community at its absolute center is doomed to fail.
 
 -   **Pre-Launch Phase: The Seed of Community:** The GTM process starts months before you write a single line of [smart contract](/what-are-smart-contracts) code. It begins with building a small, dedicated community of believers around a shared mission or a novel idea. This is achieved through high-quality content, active participation in broader ecosystem discussions, and building a reputation for expertise and authenticity. Your initial goal is not to gain thousands of users, but to attract a core group of 100 true fans who will become the foundation of your community.
--   **Launch Phase: Rewarding the True Believers:** The launch of your protocol or [NFT](/what-are-nfts) collection should be an event designed *for* your community. This is where you reward your earliest and most dedicated members. The primary mechanism for this is the **[airdrop](/understanding-airdrop-campaigns-in-web3)** or an **allowlist**. By giving these early supporters a significant ownership [stake](/how-to-become-a-web3-staking-specialist) in the network, you transform them from users into owners, deeply aligning their incentives with the project's long-term success.
+-   **Launch Phase: Rewarding the True Believers:** The launch of your protocol or [NFT](/what-are-nfts) collection should be an event designed *for* your community. This is where you reward your earliest and most dedicated members. The primary mechanism for this is the **[airdrop](/understanding-airdrop-campaigns-in-web3)** or an **allowlist**. By giving these early supporters a significant ownership [stake](/how-to-become-a-web3-staking-specialist) in the network, you improving how them from users into owners, deeply aligning their incentives with the project's long-term success.
 -   **Post-Launch Phase: The Community as the Engine:** A well-designed protocol has incentive mechanisms that empower the community to become the engine of growth. This can include rewards for providing liquidity, referral programs that benefit both parties, or grants from a [DAO](/what-is-a-dao)-controlled treasury to fund community-led growth initiatives.
 
 ### Measuring What Matters: Web3 KPIs
@@ -57,7 +57,7 @@ A successful Web3 go-to-market strategy is a departure from the growth-hacking t
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

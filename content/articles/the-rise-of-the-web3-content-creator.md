@@ -77,11 +77,11 @@ Once you have built a reputation and an audience, several monetization paths ope
     -   **NFTs:** Turn your articles or artwork into collectible NFTs. Platforms like Mirror make this.
     -   **Grants:** DAOs and foundations often provide grants to independent researchers and creators who are providing value to their ecosystem.
 
-A career as a Web3 content creator is a path for the self-starter. It requires curiosity, discipline, and a passion for sharing knowledge. For those who possess these traits, it offers a unique opportunity to build a personal brand, become a respected voice in a revolutionary industry, and create a career on your own terms.
+A career as a Web3 content creator is a path for the self-starter. It requires curiosity, discipline, and a passion for sharing knowledge. For those who possess these traits, it offers a unique opportunity to build a personal brand, become a respected voice in a a significant industry, and create a career on your own terms.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

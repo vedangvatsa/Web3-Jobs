@@ -22,7 +22,7 @@ To really get a feel for the contrast, let's look at what a typical day might in
 
 **A Day in the Life of a Data Scientist**
 *   **Morning**: Meet with stakeholders to understand a new business problem. They might spend a lot of time just figuring out what question needs to be answered.
-*   **Mid-day**: Write complex SQL queries to pull data from various databases. Then, using Python libraries like Pandas, they'll spend hours cleaning and transforming this data to get it into a usable format. This is often 80% of the job.
+*   **Mid-day**: Write complex SQL queries to pull data from various databases. Then, using Python libraries like Pandas, they'll spend hours cleaning and improving how this data to get it into a usable format. This is often 80% of the job.
 *   **Afternoon**: Explore the data using visualization tools like Matplotlib or Seaborn. They'll build a few different machine learning models using Scikit-learn to see which one best predicts the outcome they're interested in.
 *   **End of Day**: Prepare a presentation or a Jupyter Notebook to share their findings with the team, explaining the insights they've discovered.
 

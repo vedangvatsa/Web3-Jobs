@@ -58,7 +58,7 @@ In Web3, your non-technical skills are often just as important as your technical
 
 ### 5. Tokenomics & Mechanism Design
 
-**Why it's essential:** Tokens are the lifeblood of a Web3 network. Designing a [token](/what-is-a-token)'s economic model (tokenomics) is a delicate art.
+**Why it's essential:** Tokens are the foundation for a Web3 network. Designing a [token](/what-is-a-token)'s economic model (tokenomics) is a delicate art.
 *   **The Goal:** A well-designed tokenomic system aligns the incentives of all participants (users, developers, investors) to encourage long-term growth and sustainability. A poorly designed one can lead to a "death spiral."
 *   **Required Knowledge:** This skill is a blend of economics, game theory, and behavioral psychology.
 
@@ -112,7 +112,7 @@ The good news is that the permissionless nature of Web3 means that anyone, anywh
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

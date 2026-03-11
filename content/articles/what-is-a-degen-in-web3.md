@@ -20,7 +20,7 @@ Fundamentally, a degen is someone willing to take on extreme financial risk in p
 
 **Is it an insult?**
 
-Surprisingly, no. Within the crypto community, "degen" is often used as a term of endearment and a badge of honor. It signals that you are a true power user, someone who is deeply enmeshed in the ecosystem, understands the risks, and is willing to live on the cutting edge.
+Surprisingly, no. Within the crypto community, "degen" is often used as a term of endearment and a badge of honor. It signals that you are a true power user, someone who is deeply enmeshed in the ecosystem, understands the risks, and is willing to live on the advanced technology.
 
 Calling yourself a "degen" is a self-aware and ironic way of acknowledging the high-risk nature of your activities. It shows you're not a naive retail investor. You know what you're doing is risky. You're doing it anyway.
 

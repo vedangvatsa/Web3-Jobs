@@ -82,7 +82,7 @@ A: Proof-of-Stake does not eliminate front-running. The validators in a PoS syst
 
 ## The Web3 Opportunity
 
-The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

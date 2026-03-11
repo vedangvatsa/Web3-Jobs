@@ -36,7 +36,7 @@ This simple but powerful model creates a win-win-win situation: new players get 
 
 Yield Guild Games (YGG) is the most well-known and influential Web3 gaming guild. Founded in the Philippines, YGG saw the potential of the scholarship model in Axie Infinity to provide real economic opportunities for people in Southeast Asia, where local job prospects were severely impacted by the COVID-19 pandemic.
 
-YGG's model was revolutionary because it formalized and scaled the scholarship concept. It operated as a DAO, with a treasury that owned thousands of Axies and other game NFTs. It created a global network of scholars and community managers, providing training, support, and a sense of community. At its peak, YGG had tens of thousands of scholars earning a living through its program.
+YGG's model was a significant because it formalized and scaled the scholarship concept. It operated as a DAO, with a treasury that owned thousands of Axies and other game NFTs. It created a global network of scholars and community managers, providing training, support, and a sense of community. At its peak, YGG had tens of thousands of scholars earning a living through its program.
 
 The success of YGG spawned a wave of similar guilds around the world, each with its own regional focus and investment strategy. These guilds demonstrated that blockchain games could be more than just entertainment; they could be platforms for a new type of digital work.
 
@@ -78,7 +78,7 @@ Today, they are evolving into sophisticated decentralized organizations that are
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

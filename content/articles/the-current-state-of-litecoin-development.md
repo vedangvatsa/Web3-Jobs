@@ -36,7 +36,7 @@ Another critical distinction is between core protocol development and ecosystem 
 *   **MWEB (Mimblewimble Extension Block):** The most significant upgrade to Litecoin in years, MWEB provides opt-in confidentiality and privacy for transactions. This was a massive undertaking that required years of dedicated development. We will explore the technical details of MWEB and its adoption rate since launch.
 *   **Third-Party Wallets & Services:** We will survey the landscape of wallets, payment processors, and exchanges that support Litecoin and, more specifically, its MWEB features. The integration by third parties is a strong indicator of the ecosystem's health.
 
-## The Mimblewimble Upgrade: A Game-Changer for Litecoin?
+## The Mimblewimble Upgrade: A significant development that for Litecoin?
 
 The activation of MWEB in May 2022 was a landmark event. Mimblewimble is a privacy-preserving protocol that allows for confidential transactions by obscuring the addresses and amounts involved, while still allowing the network to verify the integrity of the [blockchain](/what-is-a-blockchain).
 

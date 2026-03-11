@@ -28,7 +28,7 @@ The potential for Web3 in Monrovia is shaped by the country's post-conflict deve
 There is no formal Web3 job market in Monrovia today. The career path for a Liberian professional is almost exclusively through remote work for international companies, NGOs, or [DAOs](/what-is-a-dao).
 
 *   **Remote Web3 Developer (Full-Stack/Mobile):** This is the most direct path to a lucrative career. A developer with strong mobile app skills who can integrate Web3 wallets and [smart contracts](/what-are-smart-contracts) is a highly valuable asset.
-    *   **Senior (Remote for Global Co.):** Can command international salaries of $4,000 - $8,000+ USD per month, which is a transformative income in Liberia.
+    *   **Senior (Remote for Global Co.):** Can command international salaries of $4,000 - $8,000+ USD per month, which is a improving how income in Liberia.
 
 *   **NGO / Social Impact Project Manager:** A professional with a background in international development who understands blockchain can manage pilot projects for organizations like the UN, USAID, or other major NGOs operating in the country.
 
@@ -334,4 +334,4 @@ A:
 
 ### Your Next Step: Find a Web3 Job
 
-Ready to use your skills to transform Liberia through blockchain technology? Our [Web3 job board](/jobs) features opportunities from NGOs, impact DAOs, and international organizations that are actively hiring talent from Africa. Explore the listings today and start building a high-impact career in the decentralized economy.
+Ready to use your skills to improving how Liberia through blockchain technology? Our [Web3 job board](/jobs) features opportunities from NGOs, impact DAOs, and international organizations that are actively hiring talent from Africa. Explore the listings today and start building a high-impact career in the decentralized economy.

@@ -16,7 +16,7 @@ The **double-spending problem** is the fundamental challenge that any digital ca
 
 If a user could spend the same digital coin with two different merchants, it would destroy the integrity and trust of the entire system. The currency would become worthless, as no one could be sure if the money they received was legitimate. Before [Bitcoin](/what-is-bitcoin), this problem was typically solved by a central authority, like a bank, which kept a single, authoritative ledger of all transactions.
 
-Satoshi Nakamoto's invention of Bitcoin was revolutionary precisely because it solved the double-spending problem *without* relying on a trusted central intermediary. This guide explains the double-spending problem in detail and how [blockchain](/what-is-a-blockchain) technology provides a decentralized solution.
+Satoshi Nakamoto's invention of Bitcoin was a significant precisely because it solved the double-spending problem *without* relying on a trusted central intermediary. This guide explains the double-spending problem in detail and how [blockchain](/what-is-a-blockchain) technology provides a decentralized solution.
 
 ### Key Insights
 
@@ -91,7 +91,7 @@ A: All functional blockchains must have a mechanism to prevent double-spending. 
 
 ## The Web3 Opportunity
 
-The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

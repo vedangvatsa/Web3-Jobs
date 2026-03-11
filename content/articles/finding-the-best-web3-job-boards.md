@@ -43,7 +43,7 @@ Venture capital firms are a major funding source for Web3 startups. Their [portf
 
 **1. a16z Crypto Jobs:** Andreessen Horowitz (a16z) is one of the most prominent investors in Web3. Their crypto jobs page lists all open roles at their portfolio companies, which include many of the biggest names in the industry.
 
-**2. Paradigm Jobs:** Paradigm is another top-tier, crypto-focused venture fund. Their job board is a curated list of engineering, research, and design roles at their portfolio companies, which are often at the cutting edge of Web3 innovation.
+**2. Paradigm Jobs:** Paradigm is another top-tier, crypto-focused venture fund. Their job board is a curated list of engineering, research, and design roles at their portfolio companies, which are often at the advanced of Web3 innovation.
 
 ### Niche and Specialized Platforms
 
@@ -61,7 +61,7 @@ The Web3 job search is a departure from the traditional corporate ladder. It rew
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

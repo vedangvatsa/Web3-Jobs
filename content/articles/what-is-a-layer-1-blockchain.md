@@ -20,7 +20,7 @@ An L1 blockchain has several defining properties that distinguish it from other 
 
 **Sovereign Security** is foundational. An L1 is responsible for its own security. It has its own consensus mechanism (like Proof-of-Work or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist)) and its own set of validators or miners who process transactions and secure the network. Nobody else secures it. This is different from Layer 2 systems, which inherit security from the Layer 1 they settle to.
 
-**The Ultimate Source of Truth** is another key characteristic. The L1 blockchain is the core arbiter of the state of the network. When two people claim to have sent the same money, the L1 says who actually owns it. It provides the final settlement for all transactions that happen within its ecosystem.
+**the best Source of Truth** is another key characteristic. The L1 blockchain is the core arbiter of the state of the network. When two people claim to have sent the same money, the L1 says who actually owns it. It provides the final settlement for all transactions that happen within its ecosystem.
 
 **A Native [Token](/what-is-a-token)** enables the L1 to function. Every Layer 1 has its own native token that is used to pay for transaction fees (gas) and to reward the participants who secure the network. For [Bitcoin](/what-is-bitcoin), this is BTC. For [Ethereum](/what-is-ethereum), this is ETH. For Solana, this is SOL.
 
@@ -78,7 +78,7 @@ The Layer 1 you choose to build on shapes everything about your application: its
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

@@ -41,11 +41,11 @@ Atomic swaps are more complex and typically use a mechanism called Hashed Timelo
 
 ### Why Token Swaps Matter
 
-Token swaps are the lifeblood of DeFi. They provide the liquidity and interoperability that allows the ecosystem to function. They enable users toly move between different assets, speculate on new projects, and participate in complex [yield farming](/what-is-yield-farming) strategies. The ability to swap any token for any other token in a permissionless and decentralized way is a fundamental primitive that unlocks a world of financial innovation.
+Token swaps are the foundation for DeFi. They provide the liquidity and interoperability that allows the ecosystem to function. They enable users toly move between different assets, speculate on new projects, and participate in complex [yield farming](/what-is-yield-farming) strategies. The ability to swap any token for any other token in a permissionless and decentralized way is a fundamental primitive that unlocks a world of financial innovation.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

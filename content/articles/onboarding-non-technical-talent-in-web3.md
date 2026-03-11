@@ -14,7 +14,7 @@ The [Web3](/what-is-web3) industry is actively recruiting talent from beyond its
 
 A non-technical professional entering Web3 for the first time faces a daunting learning curve. They are not just learning a new job; they are learning a new language, a new culture, and an entirely new technological paradigm. A poorly designed onboarding process can leave a new hire feeling overwhelmed, isolated, and unable to contribute, leading to frustration and high turnover.
 
-A successful onboarding process, on the other hand, can transform a talented Web2 professional into a crypto-native superstar. This guide provides a framework for Web3 companies and [DAOs](/what-is-a-dao) on how to successfully onboard non-technical talent.
+A successful onboarding process, on the other hand, can improving how a talented Web2 professional into a crypto-native superstar. This guide provides a framework for Web3 companies and [DAOs](/what-is-a-dao) on how to successfully onboard non-technical talent.
 
 ### The Goal: Bridging the Context Gap
 
@@ -64,13 +64,13 @@ In the final week of onboarding, the focus shifts to their specific role.
 
 -   **Assume Zero Knowledge:** Start from the absolute basics. Don't assume they know what "[staking](/how-to-become-a-web3-staking-specialist)" or "liquidity pool" means.
 -   **Create a Safe Space for Questions:** The biggest barrier to learning is the fear of looking stupid. Foster a culture where no question is too basic. A dedicated `#newbie-questions` channel in the internal Slack/Discord can be very effective.
--   **Patience and Investment:** Successfully onboarding non-technical talent is an investment. It takes time and resources, but the payoff is immense. A skilled professional who has been given the time to become truly crypto-native can bring a level of strategic thinking and execution that can transform a project.
+-   **Patience and Investment:** Successfully onboarding non-technical talent is an investment. It takes time and resources, but the payoff is immense. A skilled professional who has been given the time to become truly crypto-native can bring a level of strategic thinking and execution that can improving how a project.
 
 By taking a structured, empathetic, and immersive approach, Web3 projects can successfully bridge the context gap and empower talented professionals from all backgrounds to thrive in the decentralized world.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

@@ -52,7 +52,7 @@ No matter what blockchain you build on, you will need a user interface. JavaScri
 
 ### Other Notable Languages
 
-*   **Cairo:** A specialized language designed for writing "provable" programs for STARK-based ZK-Rollups, most notably StarkNet. It is a more advanced and niche language but is at the cutting edge of Web3 scaling.
+*   **Cairo:** A specialized language designed for writing "provable" programs for STARK-based ZK-Rollups, most notably StarkNet. It is a more advanced and niche language but is at the advanced of Web3 scaling.
 *   **Go & C++:** These languages are not typically used for writing smart contracts, but they are often used to build the core infrastructure of blockchains themselves (the clients, nodes, and consensus engines).
 
 ### Which Language Should You Learn First?
@@ -72,7 +72,7 @@ The world of Web3 development is dynamic and rewarding. By choosing the right la
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

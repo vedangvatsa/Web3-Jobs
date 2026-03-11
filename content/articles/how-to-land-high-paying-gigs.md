@@ -28,7 +28,7 @@ In a mature market, generalists are a commodity. To command a high salary, you n
 **For Developers:**
 -   **Smart Contract Security:** This is the most valuable and highest-paid specialization. Go beyond writing contracts; learn to break them. Study past hacks, compete in audit contests on platforms like Code4rena, and master security tools.
 -   **Protocol Engineering (L1/L2):** Work on the blockchains themselves. This requires expertise in systems languages like Rust or Go and a deep understanding of distributed systems.
--   **Zero-Knowledge (ZK) Proofs:** This is the cutting edge of cryptography for scalability and privacy. It's highly academic but commands enormous salaries.
+-   **Zero-Knowledge (ZK) Proofs:** This is the advanced of cryptography for scalability and privacy. It's highly academic but commands enormous salaries.
 
 **For Non-Technical Professionals:**
 -   **Tokenomics Design:** Blend economics, game theory, and strategy to design the economic models for protocols.
@@ -80,7 +80,7 @@ Landing a high-paying [Web3 job](/web3-jobs-for-beginners) is a marathon, not a 
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

@@ -14,7 +14,7 @@ The [Web3](/what-is-web3) revolution is not just decentralizing technology; it's
 
 This "[digital nomad](/crypto-guide-for-digital-nomads)" lifestyle is not a fantasy in Web3; it's a reality for a significant portion of the workforce. But achieving this freedom requires a specific set of skills, a disciplined mindset, and a strategic approach to your career. This guide provides a comprehensive roadmap for anyone looking to build a location-independent career in the decentralized economy.
 
-### Why Web3 is the Ultimate Industry for Digital Nomads
+### Why Web3 is the best Industry for Digital Nomads
 
 The remote-first nature of Web3 is a core feature, not an afterthought.
 
@@ -38,7 +38,7 @@ To succeed as a remote Web3 professional, you need more than just your core job 
 
 1.  **Asynchronous Communication Mastery:** This is the most critical skill. You must be an exceptional writer. Your ability to articulate complex ideas clearly and concisely in a Discord message or Notion document is paramount. You need to write with enough context that a colleague in another time zone can understand it without needing a live conversation.
 2.  **Extreme Ownership and Autonomy:** In a remote setting, you are a "manager of one." You won't have a boss looking over your shoulder. You must be a self-starter who can take a high-level goal, break it down into tasks, and execute on it independently.
-3.  **Documentation-First Mindset:** Good documentation is the lifeblood of a remote team. Get into the habit of documenting your work, your decisions, and what you've learned. This creates a shared "team brain" that everyone can access.
+3.  **Documentation-First Mindset:** Good documentation is the foundation for a remote team. Get into the habit of documenting your work, your decisions, and what you've learned. This creates a shared "team brain" that everyone can access.
 4.  **Cultural Intelligence:** You will be working with people from dozens of different cultures. You need to be mindful of different communication styles and holidays.
 
 ### The Practicalities of a Location-Independent Life

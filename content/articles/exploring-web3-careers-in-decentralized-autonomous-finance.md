@@ -44,11 +44,11 @@ Breaking into DeFi can be challenging due to the steep learning curve.
     -   **For Developers:** Build your own simplified version of a DeFi primitive, like a basic AMM or a [staking](/how-to-become-a-web3-staking-specialist) contract.
     -   **For Quants:** Create a Dune Analytics dashboard analyzing a protocol's key metrics.
 
-A career in DeFi is an opportunity to work at the absolute cutting edge of finance and technology. You'll be challenged daily and will be contributing to a new financial infrastructure that has the potential to be more open and equitable than the system it seeks to replace.
+A career in DeFi is an opportunity to work at the absolute advanced of finance and technology. You'll be challenged daily and will be contributing to a new financial infrastructure that has the potential to be more open and equitable than the system it seeks to replace.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 
