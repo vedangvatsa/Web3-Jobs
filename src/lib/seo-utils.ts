@@ -249,31 +249,31 @@ export function extractHowToSchema(markdownContent: string, title?: string, desc
 
 /**
  * Extracts FAQ Q&A pairs from article markdown content and returns FAQPage schema.
- * Handles patterns: **Q: ...** / A: ... and ### Q: ... / answer paragraphs
+ * Handles patterns: **Q: ...** / **A: ... and ### Q: ... / **A: ... answer paragraphs
  */
 export function extractFAQSchema(markdownContent: string): object | null {
   const pairs: { question: string; answer: string }[] = [];
 
-  // Pattern 1: **Q: question** \n A: answer (bold Q&A format)
-  const boldPattern = /\*\*Q:\s*(.+?)\*\*\s*\nA:\s*(.+?)(?=\n\*\*Q:|\n#{1,3} |\n---|\n\n\n|$)/gs;
+  // Pattern: ### Q: question \n **A:** answer (heading with bold answer format)
+  // This is the most common format in the articles
+  const headingPattern = /#{2,3}\s+Q:\s*(.+?)\n+\*\*A:\*\*\s*([\s\S]+?)(?=\n#{2,3}\s+Q:|\n---|\n\n\n|##[^#]|\n\n### |$)/g;
   let match;
-  while ((match = boldPattern.exec(markdownContent)) !== null) {
+  
+  while ((match = headingPattern.exec(markdownContent)) !== null) {
     const question = match[1].trim();
-    const answer = match[2].trim().replace(/\n/g, ' ');
-    if (question && answer) {
+    const answerText = match[2].trim();
+    
+    // Clean up markdown formatting and join multiple paragraphs
+    let answer = answerText
+      .replace(/\n\n+/g, ' ') // Replace multiple newlines with space
+      .replace(/\n/g, ' ') // Replace single newlines with space
+      .replace(/\*\*/g, '') // Remove bold markers
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Convert markdown links to plain text
+      .replace(/\s+/g, ' ') // Collapse multiple spaces
+      .trim();
+    
+    if (question && answer && answer.length > 10) {
       pairs.push({ question, answer });
-    }
-  }
-
-  // Pattern 2: ### Q: question \n answer paragraph (heading Q&A format)
-  if (pairs.length === 0) {
-    const headingPattern = /#{2,3}\s+Q:\s*(.+?)\n+([\s\S]+?)(?=\n#{2,3}|\n---|\n\n\n|$)/g;
-    while ((match = headingPattern.exec(markdownContent)) !== null) {
-      const question = match[1].trim();
-      const answer = match[2].trim().replace(/\n/g, ' ').replace(/\*\*/g, '');
-      if (question && answer && answer.length > 10) {
-        pairs.push({ question, answer });
-      }
     }
   }
 

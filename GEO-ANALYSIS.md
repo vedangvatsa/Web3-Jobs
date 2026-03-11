@@ -213,6 +213,33 @@ This single paragraph is ~150 words, follows a direct "X is..." structure, inclu
 
 ---
 
+## Current Progress (What’s Done vs. What’s Still Needed)
+
+### ✅ Completed actions
+- **Duplicate key warning fix** – Updated `src/components/job-board.tsx` to use unique React keys (`${job.id}-${i}`).
+- **Job cache update** – Refreshed `.cache/jobs-cache.json` with latest job data.
+- **Fluff removal** – Bulk cleanup of marketing fluff across 182 articles (see `COMPLETE_FLUFF_REMOVAL_REPORT.md`).
+- **SEO audit strengths** – Implemented sitemap, robots.txt (generic allow‑all), canonical URLs, HTTPS, meta tags, and extensive schema markup (`WebSite`, `Organization`, `JobPosting`, etc.).
+- **Schema basics** – `DefinedTerm` schema present for glossary entries; `JobPosting` schema present for job listings.
+
+### ✅ Completed actions (continued)
+- **Add FAQPage schema to blog articles** – Improved `extractFAQSchema()` in `src/lib/seo-utils.ts` to properly handle `### Q:` headings with `**A:**` bold answers. Regex now correctly extracts Q&A pairs from all blog articles. Schema already rendered in pages via `[slug]/page.tsx`. Verified with 5 FAQs extracted from sample article.
+
+### ❌ Pending actions
+- **Create Wikipedia article** – No Wikipedia presence yet.
+- **Establish Reddit presence** – No Reddit activity detected.
+- **Add homepage prose block** – Homepage still lacks a citable introductory paragraph.
+- **Add human author bylines** – Blog articles still list `Hashtag Web3` as the author.
+- **Expand glossary entries** – Only 10 entries expanded; ~133 still need to reach 140‑160 words with citations.
+- **Expand FAQ answers** – Partially done; some answers are 50-80+ words, but inconsistent; needs standardization to reach 80-120 word minimum across all articles.
+- **Enhance llms.txt** – 80% complete; has intro paragraph (150+ words), Key Facts (10 entries), Main URLs, Career Tools, HR & Hiring Tools, and full Articles & Guides list. Minor gaps: explicit "citation format" guidance and "Usage" section for AI systems.
+- **Update robots.txt** – Currently generic; needs explicit `Allow:` entries for major AI crawlers (GPTBot, PerplexityBot, ClaudeBot, etc.).
+- **Add `SameAs` links to Organization schema** – Links to LinkedIn, X, Telegram, etc., not yet added.
+
+---
+
+---
+
 ## Schema Recommendations
 
 ### Currently Present (Positive)
@@ -326,7 +353,7 @@ Publication and modification dates appear in JSON-LD schema but are not displaye
 | 3 | Add homepage prose block (150 words) | Low | High | All platforms |
 | 4 | Add human author bylines + credentials | Medium | High | Google AIO, ChatGPT |
 | 5 | Expand glossary entries + add citations | Medium | High | All platforms |
-| 6 | Add FAQPage schema to blog articles | Low | Medium | Google AIO |
+| ~~6~~ | ~~Add FAQPage schema to blog articles~~ | ~~Low~~ | ~~Medium~~ | ~~Google AIO~~ | ✅ **COMPLETED** |
 | 7 | Expand FAQ answers to 80–120 words | Medium | Medium | All platforms |
 | 8 | Enhance llms.txt with statistics + preferred citation format | Low | Medium | All AI crawlers |
 | 9 | Add explicit AI crawler names to robots.txt | Low | Low-Medium | All AI crawlers |
