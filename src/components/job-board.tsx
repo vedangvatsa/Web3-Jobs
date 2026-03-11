@@ -67,15 +67,15 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
             )}
             
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                {!isPending && filteredJobs.map((job) => (
+                {!isPending && filteredJobs.map((job, i) => (
                       captureEmail ? (
-                         <div key={job.id} onClick={() => { trackJobApplicationClick(job.id, job.title, job.company); setSelectedJob(job); }} className="block h-full cursor-pointer transform transition-all duration-200 hover:-translate-y-1">
+                         <div key={`${job.id}-${i}`} onClick={() => { trackJobApplicationClick(job.id, job.title, job.company); setSelectedJob(job); }} className="block h-full cursor-pointer transform transition-all duration-200 hover:-translate-y-1">
                            <JobViewTracker job={job} />
                            <JobCard job={job} />
                         </div>
                       ) : (
                          <JobApplicationButton 
-                           key={job.id}
+                           key={`${job.id}-${i}`}
                            jobId={job.id}
                            jobTitle={job.title}
                            companyName={job.company}
