@@ -138,7 +138,7 @@ The development of a comprehensive regulatory and policy framework will be criti
 1.  **Foundation and Potential for Financial Inclusion:** India's existing digital infrastructure, including the JAM trinity and UPI, provides a strong foundation for CBDC implementation. Many experts view CBDCs as a powerful tool for enhancing financial inclusion, potentially bringing millions of unbanked and underbanked Indians into the formal financial system. This could democratize access to financial services, especially in rural and remote areas.
 
 2.  **Wholesale vs. Retail CBDCs:** There's a clear distinction in expert opinions regarding wholesale and retail CBDCs:
-    *   Wholesale CBDCs are seen as having more immediate and transformative potential. They could significantly improve interbank settlements, enhance monetary policy transmission, and revolutionize cross-border payments.
+    *   Wholesale CBDCs are seen as having more immediate and improving how potential. They could significantly improve interbank settlements, enhance monetary policy transmission, and revolutionize cross-border payments.
     *   Retail CBDCs, while offering benefits, are perceived as facing more significant adoption challenges due to the public's familiarity with cash and recent adoption of UPI.
 
 3.  **Privacy and Security Concerns:** A major recurring theme is the tension between the benefits of CBDCs and privacy concerns:

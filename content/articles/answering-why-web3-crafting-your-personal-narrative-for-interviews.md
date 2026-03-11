@@ -38,7 +38,7 @@ This is the origin story. What was the specific moment or concept that made you 
     *   "I was interested in the investment opportunity."
 *   **Focus on a specific, powerful concept:**
     *   **Example for a [DeFi](/what-is-defi) enthusiast:** "I came from a traditional finance background, and the first time I used Aave to take out an instant, permissionless loan against my assets, a lightbulb went off. I realized we could rebuild the entire financial system to be more open and efficient."
-    *   **Example for a creator-focused individual:** "I was fascinated by the idea of [NFTs](/what-are-nfts) giving true digital ownership to artists. The concept of on-chain royalties, allowing a creator to benefit from the secondary market of their work forever, struck me as a revolutionary way to empower creators."
+    *   **Example for a creator-focused individual:** "I was fascinated by the idea of [NFTs](/what-are-nfts) giving true digital ownership to artists. The concept of on-chain royalties, allowing a creator to benefit from the secondary market of their work forever, struck me as a a significant way to empower creators."
     *   **Example for a privacy advocate:** "I read about decentralized identity and the idea that you could prove things about yourself using zero-knowledge proofs without revealing your personal data. That's when I knew this was about more than just money; it was about building a more private and user-centric internet."
 
 **Part 2: The Journey (Your "Proof of Work")**

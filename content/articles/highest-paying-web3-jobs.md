@@ -36,7 +36,7 @@ This guide provides a detailed look at the highest-paying jobs in the Web3 ecosy
 
 **Base Salary Range:** $200,000 - $350,000+
 
-**Why it's so lucrative:** ZK-proofs are at the absolute cutting edge of cryptography and are seen as the key to solving both blockchain scalability (ZK-Rollups) and privacy. The field is highly academic and requires a rare combination of advanced mathematics and low-level programming skills. The number of people in the world who can effectively build and implement ZK systems is tiny, making them incredibly valuable.
+**Why it's so lucrative:** ZK-proofs are at the absolute advanced of cryptography and are seen as the key to solving both blockchain scalability (ZK-Rollups) and privacy. The field is highly academic and requires a rare combination of advanced mathematics and low-level programming skills. The number of people in the world who can effectively build and implement ZK systems is tiny, making them incredibly valuable.
 
 **Essential Skills:** Strong background in advanced mathematics and cryptography, experience with ZK-specific programming languages like Circom or Cairo, and proficiency in Rust or C++.
 
@@ -67,7 +67,7 @@ While these roles represent the pinnacle of earning potential in Web3, the entir
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

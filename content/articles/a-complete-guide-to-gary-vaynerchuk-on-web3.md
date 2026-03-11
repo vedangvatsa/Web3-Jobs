@@ -17,7 +17,7 @@ This guide explores GaryVee's unique perspective on Web3, focusing on his invest
 
 ### From Wine to Web3
 
-Gary's journey is one of identifying and capitalizing on emerging trends. He first gained fame by transforming his family's liquor store into a multi-million dollar e-commerce business, largely through his pioneering YouTube show, *Wine Library TV*. He then founded VaynerMedia, a digital advertising agency that has grown into a global powerhouse.
+Gary's journey is one of identifying and capitalizing on emerging trends. He first gained fame by improving how his family's liquor store into a multi-million dollar e-commerce business, largely through his pioneering YouTube show, *Wine Library TV*. He then founded VaynerMedia, a digital advertising agency that has grown into a global powerhouse.
 
 His core skill has always been understanding where consumer attention is going and how to build brand and community on new platforms. He was an early adopter of social media platforms like Twitter, Facebook, and Snapchat, and he applied this same pattern-recognition to Web3. He saw in NFTs not just a new type of digital collectible, but a fundamental shift in how brands, creators, and communities can interact and create value together.
 
@@ -65,7 +65,7 @@ Gary's content is always focused on providing practical, actionable advice. Here
 *   **Provide Value First:** For brands entering the space, he warns against a simple "cash grab." He advises them to think about how they can use NFTs to provide real value to their existing customers. For example, a restaurant could issue an NFT that gives the holder a free dessert every time they visit.
 *   **Patience is Key:** Gary constantly reminds his audience that Web3 is a long-term game. He compares the current state of NFTs to the early days of the internet in the 1990s. He advises people to be prepared for volatility and to focus on projects that are building for the next decade, not the next week.
 
-## Conclusion: The Ultimate Web3 Marketer
+## Conclusion: the best Web3 Marketer
 
 Gary Vaynerchuk's contribution to Web3 is not as a technical innovator, but as a master communicator and marketer. He has a unique ability to cut through the complex jargon and explain the core value propositions of NFTs and community ownership in a way that resonates with a mainstream audience.
 

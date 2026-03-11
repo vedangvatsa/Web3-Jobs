@@ -54,7 +54,7 @@ Alex joins a call with the [smart contract](/what-are-smart-contracts) engineeri
 
 **12:00 PM - 1:00 PM: Lunch & Crypto Twitter**
 
-Even Quants need a break. Alex catches up on the latest industry chatter on Twitter and reads through research papers on new DeFi primitives from sources like Paradigm's research blog. Staying on the cutting edge is a core part of the job.
+Even Quants need a break. Alex catches up on the latest industry chatter on Twitter and reads through research papers on new DeFi primitives from sources like Paradigm's research blog. Staying on the advanced is a core part of the job.
 
 **1:00 PM - 3:00 PM: Deep Work Block 2 - Backtesting a Liquidation Bot Strategy**
 
@@ -104,4 +104,4 @@ For a Quant, the line between work and passion is often blurry. After dinner and
 
 The life of a DeFi Quant is not for everyone. It requires a rare blend of deep technical skill, financial acumen, and a relentless curiosity. It's a high-pressure role where a single modeling error could lead to the loss of millions of dollars.
 
-However, for those who fit the profile, it is one of the most rewarding careers imaginable. You get to work at the absolute cutting edge of finance and technology, solve incredibly difficult and interesting problems, and have a direct and measurable impact on the future of a decentralized world. If you are the kind of person who sees the world as a system of interconnected variables and loves to model it, a career as a DeFi Quant might be your calling.
+However, for those who fit the profile, it is one of the most rewarding careers imaginable. You get to work at the absolute advanced of finance and technology, solve incredibly difficult and interesting problems, and have a direct and measurable impact on the future of a decentralized world. If you are the kind of person who sees the world as a system of interconnected variables and loves to model it, a career as a DeFi Quant might be your calling.

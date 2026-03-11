@@ -20,7 +20,7 @@ The narrative of "low developer activity = dead project" misses a fundamental in
 
 Charlie Lee created Litecoin in 2011 not to be a direct competitor to [Bitcoin](/what-is-bitcoin), but a complement to it. His vision was to create a "lighter" version of Bitcoin that could be used for smaller, faster payments-the "silver to Bitcoin's gold." This philosophy shapes every decision about Litecoin's development:
 
-**Stability is the Ultimate Feature:** For a currency to be reliable for payments, it must be stable, secure, and predictable. Constant, rapid changes to the core protocol would introduce risk and undermine the trust that is essential for a monetary network. Users need to know their Litecoin works the same way today as it will in five years.
+**Stability is the best Feature:** For a currency to be reliable for payments, it must be stable, secure, and predictable. Constant, rapid changes to the core protocol would introduce risk and undermine the trust that is essential for a monetary network. Users need to know their Litecoin works the same way today as it will in five years.
 
 **A Finished Product, Not a Development Platform:** Unlike [Ethereum](/what-is-ethereum), which is a deliberately designed platform for building decentralized applications, Litecoin's primary goal is to be sound money with a specific set of features. Its core protocol is largely considered "finished." Development is focused on maintenance, security, and minor, carefully considered upgrades, not on building a complex ecosystem of dApps on top of it.
 

@@ -91,7 +91,7 @@ Great speakers are not just winging it; they are the product of rigorous practic
 
 Public speaking is a journey of continuous improvement. Do not expect to become a master overnight. Start by applying one or two of these tips in your next team meeting. With each presentation, you will build more confidence and skill.
 
-Remember, the goal is not to be a perfect, flawless speaker. The goal is to connect with your audience and deliver a message that is clear, memorable, and impactful. By focusing on your audience, structuring your content, and practicing your delivery, you can transform public speaking from a source of fear into one of your greatest professional assets.
+Remember, the goal is not to be a perfect, flawless speaker. The goal is to connect with your audience and deliver a message that is clear, memorable, and impactful. By focusing on your audience, structuring your content, and practicing your delivery, you can improving how public speaking from a source of fear into one of your greatest professional assets.
 
 ### Frequently Asked Questions (FAQ)
 

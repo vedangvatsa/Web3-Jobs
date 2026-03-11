@@ -62,11 +62,11 @@ Web3 is the architectural and philosophical vision for a decentralized internet.
 -   Web3 provides the **vision of ownership**.
 -   Crypto provides the **asset to be owned**.
 
-You cannot have a truly decentralized, secure, and user-owned internet without a native, decentralized form of money to power it. They are inextricably linked, two sides of the same revolutionary coin.
+You cannot have a truly decentralized, secure, and user-owned internet without a native, decentralized form of money to power it. They are inextricably linked, two sides of the same a significant coin.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

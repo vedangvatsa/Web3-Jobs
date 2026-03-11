@@ -55,7 +55,7 @@ Deep learning excels at tasks that involve recognizing complex patterns in unstr
 
 Deep learning is a type of machine learning, but not all machine learning is deep learning. The key difference lies in how they handle features.
 
-*   In **traditional machine learning**, a data scientist often needs to perform "feature engineering." This means they have to manually select and transform the most important variables, or features, from the raw data before feeding them to the model. For example, in a house price prediction model, you might need to engineer features like "age of the house" or "square footage."
+*   In **traditional machine learning**, a data scientist often needs to perform "feature engineering." This means they have to manually select and improving how most important variables, or features, from the raw data before feeding them to the model. For example, in a house price prediction model, you might need to engineer features like "age of the house" or "square footage."
 
 *   In **deep learning**, the neural network learns the important features on its own. You can feed it the raw data (like the pixels of an image), and the different layers of the network will automatically learn the relevant hierarchical features, from simple edges to complex objects.
 

@@ -29,7 +29,7 @@ What made Ethereum different was smart contracts: programmable code that lives o
 - **Decentralized Logic:** Business logic could be enforced by code running on thousands of nodes, eliminating the need for trusted intermediaries.
 - **Programmable Money:** You could create entirely new types of financial instruments-bonds, derivatives, insurance, lending protocols-without building a company.
 
-The brilliance of smart contracts was that they transformed blockchains from ledgers into platforms. Bitcoin was a ledger: "Alice sent 5 BTC to Bob." Ethereum was a computer: "Execute this program on 10,000 nodes and everyone agrees on the result."
+The brilliance of smart contracts was that they transformed blockchains from ledgers into platforms. Bitcoin was a ledger: "Alice sent 5 BTC to Bob." Ethereum was a computer: "Execute this program on 10,000 nodes and many agree on the result."
 
 ### Block 0: The Dawn of a New Era
 

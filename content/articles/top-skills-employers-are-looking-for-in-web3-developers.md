@@ -51,7 +51,7 @@ Deploying smart contracts is a high-stakes process that requires a secure and au
 
 ### 8. Data Indexing (The Graph)
 Reading data directly from the blockchain is inefficient. Professional dApps use an indexing layer to provide a fast and reliable API for the frontend.
--   **What to know:** You need to understand how to build a "subgraph" using The Graph protocol. This involves defining a schema and writing mapping functions in AssemblyScript to transform on-chain event data into a queryable GraphQL API.
+-   **What to know:** You need to understand how to build a "subgraph" using The Graph protocol. This involves defining a schema and writing mapping functions in AssemblyScript to improving how on-chain event data into a queryable GraphQL API.
 -   **How to learn:** Follow the official Graph documentation and [build a subgraph](/your-first-subgraph-indexing-blockchain-data-with-the-graph) for one of your own [NFT](/what-are-nfts) or DeFi projects.
 
 ### 9. Systems Languages (Rust / Go) - (Advanced)
@@ -68,7 +68,7 @@ By systematically building expertise in these ten areas, you can move beyond bei
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

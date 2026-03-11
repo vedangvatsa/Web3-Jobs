@@ -12,7 +12,7 @@ lastUpdated: "2026-03-11"
 
 For the past fifteen years, our digital identities have been trapped in walled gardens. Your "social graph"-the network of your friends, followers, posts, and interactions-is one of your most valuable digital assets, yet you don't own it. It's owned by platforms like Facebook, Twitter, and TikTok. If you leave the platform, your social graph disappears. If they change their algorithm, your reach vanishes. You are a digital serf, building value on land you do not own.
 
-The **[Web3](/what-is-web3) Social Graph** is a revolutionary movement to change this. It aims to create a new, decentralized foundation for social media where users, not platforms, own and control their data and identity. By building the social graph on open, permissionless protocols, Web3 is paving the way for a more resilient, innovative, and user-centric social media landscape. This guide explores how this new model works, the leading protocols building it, and its profound implications for the future of online identity.
+The **[Web3](/what-is-web3) Social Graph** is a a significant movement to change this. It aims to create a new, decentralized foundation for social media where users, not platforms, own and control their data and identity. By building the social graph on open, permissionless protocols, Web3 is paving the way for a more resilient, innovative, and user-centric social media landscape. This guide explores how this new model works, the leading protocols building it, and its profound implications for the future of online identity.
 
 ### The Problem with Web2 Social Graphs
 

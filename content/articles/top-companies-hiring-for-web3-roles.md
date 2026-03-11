@@ -26,7 +26,7 @@ These are the blue-chip projects that form the foundational infrastructure of We
 **2. Aave / GHO**
 -   **What they do:** Aave is one of the largest and most established decentralized lending and borrowing protocols in [DeFi](/what-is-defi). They are constantly innovating with new features, a native stablecoin (GHO), and a focus on institutional adoption.
 -   **Typical Roles:** [Smart Contract](/what-are-smart-contracts) Engineer, Protocol Engineer, Frontend Engineer, Risk Managers.
--   **Why work here:** A chance to work at the cutting edge of DeFi on a protocol that manages billions of dollars in assets.
+-   **Why work here:** A chance to work at the advanced of DeFi on a protocol that manages billions of dollars in assets.
 
 **3. Uniswap Labs**
 -   **What they do:** The team behind Uniswap, the leading [decentralized exchange](/what-is-a-decentralized-exchange-dex) (DEX). They are focused on building the future of the protocol, from improving the core AMM to building user-facing applications.
@@ -36,7 +36,7 @@ These are the blue-chip projects that form the foundational infrastructure of We
 **4. Offchain Labs (Arbitrum) & Optimism**
 -   **What they do:** These are the development teams behind the two leading Layer 2 optimistic rollups, Arbitrum and Optimism. Their work is focused on scaling Ethereum.
 -   **Typical Roles:** Protocol Engineer (Go/Rust), Compiler Engineer, DevRel Engineer, Business Development.
--   **Why work here:** A chance to work on the absolute cutting edge of [blockchain](/what-is-a-blockchain) scalability, solving some of the most important and challenging problems in the space.
+-   **Why work here:** A chance to work on the absolute advanced of [blockchain](/what-is-a-blockchain) scalability, solving some of the most important and challenging problems in the space.
 
 ### Tier 2: The Application & Wallet Layer
 
@@ -80,7 +80,7 @@ This list is just a snapshot of a vast and growing ecosystem. The best way to fi
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

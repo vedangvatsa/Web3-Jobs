@@ -45,7 +45,7 @@ Not all zkEVMs are created equal. Vitalik Buterin has outlined a spectrum of zkE
 ### Why are zkEVMs a Game-Changer?
 
 -   **Scalability with Security:** They offer the massive scalability benefits of ZK-Rollups (thousands of TPS, low fees, instant withdrawals) without compromising on the security guarantees of the Ethereum mainnet.
--   **Seamless Developer Experience:** They allow the millions of existing Ethereum developers to migrate their applications and skills to a more scalable environment with almost no changes. This is a massive advantage for adoption.
+-   **smooth Developer Experience:** They allow the millions of existing Ethereum developers to migrate their applications and skills to a more scalable environment with almost no changes. This is a massive advantage for adoption.
 -   **Network Effects:** By being compatible with the EVM, zkEVMs can easily tap into the vast ecosystem of existing Ethereum tools, libraries, and best practices.
 
 ### The Future of Ethereum Scaling

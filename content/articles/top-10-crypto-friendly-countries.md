@@ -65,7 +65,7 @@ For Web3 professionals, companies, and "crypto nomads," choosing where to live a
 -   **Why it's friendly:** Georgia offers a very attractive tax environment, with no capital gains tax on the sale of cryptocurrencies for individuals. Combined with an extremely low cost of living and a simple immigration process, it has become a fast-growing, under-the-radar hub for crypto nomads and traders.
 -   **Best for:** Crypto nomads, traders, and bootstrapped startups.
 
-Choosing a country to base your [Web3 career](/web3-jobs-for-beginners) or company in is a complex decision that involves weighing factors from tax policy and regulation to lifestyle and community. The countries on this list represent the leading jurisdictions that have recognized the transformative potential of Web3 and are actively competing to attract the builders and capital that will shape the future of the decentralized economy.
+Choosing a country to base your [Web3 career](/web3-jobs-for-beginners) or company in is a complex decision that involves weighing factors from tax policy and regulation to lifestyle and community. The countries on this list represent the leading jurisdictions that have recognized the improving how potential of Web3 and are actively competing to attract the builders and capital that will shape the future of the decentralized economy.
 
 <Card className="mt-12 col-span-full bg-primary/5 border-primary/20">
   <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
@@ -86,7 +86,7 @@ Choosing a country to base your [Web3 career](/web3-jobs-for-beginners) or compa
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

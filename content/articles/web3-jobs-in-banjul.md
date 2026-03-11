@@ -39,7 +39,7 @@ The formal Web3 job market in Banjul is currently very limited. The primary oppo
 1.  **Align with National Priorities:** Focus your learning and [portfolio](/building-web3-portfolio) projects on areas of national interest. Build a proof-of-concept for a more efficient remittance system, or a dApp that could be used for a specific public service. This will make you a highly relevant candidate for any future government or institutional projects.
 2.  **Become an Educator:** In a nascent ecosystem, knowledge is power. Be the person who organizes workshops, translates important Web3 content into local languages, and helps to onboard new users safely. This will establish you as a community leader.
 3.  **Develop a World-Class Remote Skillset:** Your access to the best jobs will be through the global remote market. Focus on building a strong GitHub portfolio and a professional online presence that demonstrates your expertise to international recruiters.
-4.  **Network with the Pan-African and Global Community:** Connect with the broader African Web3 scene online and, if possible, by attending regional events. Building a network outside of The Gambia is crucial for finding opportunities and staying on the cutting edge.
+4.  **Network with the Pan-African and Global Community:** Connect with the broader African Web3 scene online and, if possible, by attending regional events. Building a network outside of The Gambia is crucial for finding opportunities and staying on the advanced technology.
 
 ### Your Next Step: Find a Web3 Job
 

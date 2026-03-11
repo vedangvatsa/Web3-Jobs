@@ -39,7 +39,7 @@ At its core, Web3 is about a fundamental technological innovation: the ability t
 **2. The Talent is Elite and the Learning is Accelerated**
 Because of the complexity and the high stakes, the Web3 industry has a gravitational pull for some of the brightest and most ambitious minds in technology, finance, and cryptography.
 - **The Environment:** You will be surrounded by world-class colleagues who will push you to learn and grow at an rate. The pace of innovation forces a state of continuous learning that is hard to find elsewhere.
-- **The Skills:** You will be working on problems at the intersection of distributed systems, game theory, financial engineering, and community governance. The skills you develop are highly transferable and place you at the cutting edge of modern technology.
+- **The Skills:** You will be working on problems at the intersection of distributed systems, game theory, financial engineering, and community governance. The skills you develop are highly transferable and place you at the advanced of modern technology.
 
 **3. The Capital is Committed and Long-Term**
 While market prices are volatile, the underlying flow of venture capital into the space provides a significant degree of stability.
@@ -59,7 +59,7 @@ However, it is not a "safe" job in the traditional sense. It requires a high tol
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

@@ -1,6 +1,6 @@
 ---
 
-title: "The Ultimate Guide to Navigating Web3 Job Boards"
+title: "a comprehensive guide to Navigating Web3 Job Boards"
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 description: "A deep dive into the top Web3 job boards, including strategies for how to stand out as a candidate and what companies are looking for in the decentralized."
 category: "Career Guides"
@@ -88,11 +88,11 @@ While the market is always evolving, there are several roles and skills that are
 
 The Web3 job market is a dynamic and rapidly growing space filled with opportunities for those with the right skills and passion. Unlike the traditional job market, it values verifiable skills and community contributions over formal credentials. By using the right job boards, crafting a Web3-native resume, and focusing on in-demand skills, you can position yourself for a successful career in the decentralized economy.
 
-The journey into a Web3 career can seem daunting, but it is also incredibly rewarding. It offers a chance to work on the cutting edge of technology, to be part of a global community of builders, and to have a tangible impact on the future of the internet. The platforms and strategies outlined in this guide are your starting point. The rest of the journey is up to you. Start exploring, start building your proof of work, and take the first step into your Web3 career today.
+The journey into a Web3 career can seem daunting, but it is also incredibly rewarding. It offers a chance to work on the advanced of technology, to be part of a global community of builders, and to have a tangible impact on the future of the internet. The platforms and strategies outlined in this guide are your starting point. The rest of the journey is up to you. Start exploring, start building your proof of work, and take the first step into your Web3 career today.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

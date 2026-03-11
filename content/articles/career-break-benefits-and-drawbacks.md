@@ -52,7 +52,7 @@ The decision to take a career break is a deeply personal one. There’s no right
 *   **What is my plan for the break?** While you don’t need a minute-by-minute itinerary, having a general plan for how you’ll spend your time will make the break more fulfilling and easier to explain later.
 *   **How will I stay current in my field?** If you plan to return to the same industry, think about how you can stay connected. This could be through reading industry news, attending virtual conferences, or working on a small personal project.
 
-A career break can be a transformative experience, but it requires careful planning. By weighing the benefits and drawbacks and creating a thoughtful plan, you can ensure that your sabbatical is a rewarding and valuable chapter in your life and career.
+A career break can be a improving how experience, but it requires careful planning. By weighing the benefits and drawbacks and creating a thoughtful plan, you can ensure that your sabbatical is a rewarding and valuable chapter in your life and career.
 
 ### Internal Links for Further Reading
 

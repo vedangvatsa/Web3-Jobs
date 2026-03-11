@@ -28,7 +28,7 @@ The context for Web3 in Bissau is defined by the country's development challenge
 There is no formal Web3 job market in Bissau today. The career path for a Bissau-Guinean professional interested in Web3 is almost exclusively through remote work or entrepreneurship.
 
 *   **Remote Web3 Developer:** The most direct path to a Web3 career. By acquiring skills in [Solidity](/best-programming-languages-for-blockchain-development) or full-stack development, a developer in Bissau can work for any global Web3 company.
-    *   **Mid-to-Senior Level (Remote):** Can command international salaries of $3,000 - $7,000+ USD per month, which is transformative in the local context.
+    *   **Mid-to-Senior Level (Remote):** Can command international salaries of $3,000 - $7,000+ USD per month, which is improving how in the local context.
 
 *   **Impact Project Manager / Consultant:** Professionals with a background in international development or NGO work who can understand and apply blockchain technology are in a unique position. They can work as consultants for large organizations looking to pilot Web3 projects in the region.
     *   **Contract-based:** Compensation is typically project-based and follows international development sector standards.

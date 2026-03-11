@@ -34,7 +34,7 @@ In-house life is about depth and specialization.
 **Agency:**
 Agencies are accelerators for developing a broad range of skills.
 - **Breadth of Experience:** Constant exposure to different clients, problems, and industries forces you to become adaptable and learn new skills quickly. You develop a wide-ranging toolkit.
-- **Cutting-Edge Practices:** Agencies must stay on top of the latest trends, tools, and best practices to remain competitive. You are often at the forefront of the industry.
+- **advanced Practices:** Agencies must stay on top of the latest trends, tools, and best practices to remain competitive. You are often at the forefront of the industry.
 - **Presentation and Client Management:** You will develop strong skills in pitching ideas, managing client expectations, and communicating the value of your work.
 
 **In-House:**

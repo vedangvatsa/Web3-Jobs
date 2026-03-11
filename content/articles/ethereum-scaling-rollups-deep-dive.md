@@ -57,7 +57,7 @@ Zero-Knowledge (ZK) Rollups, such as **zkSync**, **StarkNet**, and **Polygon zkE
 
 ### Trade-offs:
 -   **Pros:** The main advantage is speed. Because validity is proven upfront, there is no need for a long challenge period. Withdrawals from a ZK-Rollup to the L1 are nearly instant (typically a matter of minutes). This provides a much better user experience.
--   **Cons:** The technology is incredibly complex and is at the cutting edge of cryptography. Generating the validity proofs is computationally intensive for the prover. Achieving full EVM-compatibility with ZK-Rollups (a "zkEVM") is a major technical challenge, though significant progress has been made.
+-   **Cons:** The technology is incredibly complex and is at the advanced of cryptography. Generating the validity proofs is computationally intensive for the prover. Achieving full EVM-compatibility with ZK-Rollups (a "zkEVM") is a major technical challenge, though significant progress has been made.
 
 ## The Future of Ethereum is Rollup-Centric
 

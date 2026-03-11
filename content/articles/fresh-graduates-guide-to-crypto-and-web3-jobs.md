@@ -12,7 +12,7 @@ lastUpdated: "2026-03-11"
 
 As a fresh graduate, you are entering one of the most dynamic and rapidly evolving job markets in history. While traditional career paths remain viable, a new and exciting frontier has opened up: the world of [Web3](/what-is-web3). The crypto industry is booming, and it's desperately looking for the next generation of talent to help build the future of the decentralized internet.
 
-For a recent graduate, a career in Web3 offers an unparalleled opportunity for high impact, accelerated learning, and significant financial upside. However, the path to landing your first crypto job is different from a traditional graduate scheme. It's less about your GPA and more about your passion, your demonstrable skills, and your "proof of work." This guide is designed for you-the ambitious graduate who is curious about crypto and ready to build a career on the cutting edge of technology. We'll provide a step-by-step roadmap to get you from the classroom to a full-time role in Web3.
+For a recent graduate, a career in Web3 offers an unparalleled opportunity for high impact, accelerated learning, and significant financial upside. However, the path to landing your first crypto job is different from a traditional graduate scheme. It's less about your GPA and more about your passion, your demonstrable skills, and your "proof of work." This guide is designed for you-the ambitious graduate who is curious about crypto and ready to build a career on the advanced of technology. We'll provide a step-by-step roadmap to get you from the classroom to a full-time role in Web3.
 
 ### Why Web3 is a Golden Opportunity for Graduates
 
@@ -104,7 +104,7 @@ As a fresh graduate, you have a unique advantage: you are a blank slate, full of
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

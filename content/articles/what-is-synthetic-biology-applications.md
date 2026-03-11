@@ -26,7 +26,7 @@ Another application is in vaccine development. Synthetic biology techniques can 
 
 ### Revolutionizing Manufacturing
 
-Synthetic biology is also poised to transform the way we make things. By harnessing the power of microbial metabolism, scientists can turn simple organisms like yeast and bacteria into miniature factories for producing a wide range of valuable chemicals, materials, and fuels.
+Synthetic biology is also poised to improving how we make things. By harnessing the power of microbial metabolism, scientists can turn simple organisms like yeast and bacteria into miniature factories for producing a wide range of valuable chemicals, materials, and fuels.
 
 For instance, synthetic biology is being used to create sustainable alternatives to petroleum-based products. Companies are engineering microbes to produce biofuels, bioplastics, and high-value chemicals that are currently derived from oil. This has the potential to create a more sustainable and circular bioeconomy.
 

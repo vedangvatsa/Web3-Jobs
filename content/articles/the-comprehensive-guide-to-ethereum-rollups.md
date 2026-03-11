@@ -16,7 +16,7 @@ lastUpdated: "2026-03-11"
 
 This guide provides a comprehensive analysis of Ethereum rollups. We will explore the fundamental principles behind this powerful scaling technology, break down the key differences between the two main types-**Optimistic Rollups** and **Zero-Knowledge (ZK) Rollups**-and examine their impact on the [Web3](/what-is-web3) landscape.
 
-For developers, users, and investors, a deep understanding of rollups is no longer optional. They are the engine that will enable Ethereum to handle a global scale of activity, unlocking new possibilities for decentralized applications. This guide will equip you with the knowledge needed to navigate the L2 ecosystem and understand the profound architectural shifts that are securing Ethereum's future.
+For developers, users, and investors, a deep understanding of rollups is no longer optional. They are the engine that will enable Ethereum to handle a global scale of activity, enable new functionality and use cases for decentralized applications. This guide will equip you with the knowledge needed to navigate the L2 ecosystem and understand the profound architectural shifts that are securing Ethereum's future.
 
 ## The Core Principle of Rollups: Off-Chain Execution, On-Chain Data
 

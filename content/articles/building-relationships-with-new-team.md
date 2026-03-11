@@ -197,7 +197,7 @@ Remote makes this harder, but it's not impossible:
 
 ### 6. Provide and Receive Feedback Gracefully
 
-Feedback is the lifeblood of strong working relationships. How you handle it (both giving and receiving) defines your relationships.
+Feedback is the foundation for strong working relationships. How you handle it (both giving and receiving) defines your relationships.
 
 **Giving Positive Feedback:**
 

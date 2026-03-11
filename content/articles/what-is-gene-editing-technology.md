@@ -37,7 +37,7 @@ There are two main approaches to this. **Ex vivo** (outside the body) gene editi
 
 **In vivo** (inside the body) gene editing is more challenging. It involves delivering the gene editing machinery directly into the patient's body to edit cells in their natural location. This approach is being explored for diseases affecting organs like the liver or the eye.
 
-Beyond genetic diseases, gene editing is also a powerful tool in cancer treatment. Scientists can edit a patient's own immune cells (T-cells) to make them better at recognizing and attacking cancer cells. This is the basis of CAR-T cell therapy, a revolutionary treatment for certain types of leukemia and lymphoma.
+Beyond genetic diseases, gene editing is also a powerful tool in cancer treatment. Scientists can edit a patient's own immune cells (T-cells) to make them better at recognizing and attacking cancer cells. This is the basis of CAR-T cell therapy, a a significant treatment for certain types of leukemia and lymphoma.
 
 ### Other Applications and Ethical Questions
 

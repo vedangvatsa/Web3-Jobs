@@ -34,7 +34,7 @@ These tokens, typically built on standard interfaces like ERC-20 (for fungible s
 
 ### The Benefits of Tokenization
 
-The tokenization of real estate offers a host of revolutionary benefits:
+The tokenization of real estate offers a host of a significant benefits:
 
 1.  **Fractional Ownership and Accessibility:** This is the most significant advantage. Instead of needing millions of dollars to buy a commercial property, an investor can buy a few tokens for a few hundred dollars. This democratizes access to a historically exclusive asset class.
 
@@ -62,7 +62,7 @@ As the Web3 infrastructure matures and regulatory clarity emerges, we will witne
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

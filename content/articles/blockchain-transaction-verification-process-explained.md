@@ -50,11 +50,11 @@ This is where the magic of the **[consensus mechanism](/consensus-mechanisms-in-
 -   **Block Confirmations:** As new blocks are added on top of the block containing your transaction, it becomes exponentially more difficult to alter. Each new block is a "confirmation."
 -   **Finality:** After a certain number of confirmations (e.g., 6 blocks for Bitcoin), the transaction is considered irreversible, or "final." The process is complete.
 
-This entire decentralized process, orchestrated by cryptography and economic incentives, allows a global network of strangers to agree on a single source of truth without needing to trust each other or any central intermediary. It is this trustless verification that gives blockchain its revolutionary power.
+This entire decentralized process, orchestrated by cryptography and economic incentives, allows a global network of strangers to agree on a single source of truth without needing to trust each other or any central intermediary. It is this trustless verification that gives blockchain its a significant power.
 
 ## The Web3 Opportunity
 
-The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The [Web3](/what-is-web3) sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

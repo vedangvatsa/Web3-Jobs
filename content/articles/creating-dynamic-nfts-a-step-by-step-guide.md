@@ -58,7 +58,7 @@ Building a dNFT is a more advanced development task that combines standard NFT d
 *   **Gas Costs:** Every time the NFT's state is updated via an oracle call, it requires an on-chain transaction, which costs gas. For NFTs that update frequently, this can be expensive. This is why many dNFT projects are being built on Layer 2s.
 *   **Centralization Risk:** You must trust the oracle network and the off-chain data source. If the data source is unreliable, the dNFT's logic will be too.
 
-Dynamic NFTs represent a major leap forward, transforming digital assets from static collectibles into living, breathing objects that can react to and interact with the world around them. For developers and creators, they offer an exciting new canvas for building more engaging and interactive [Web3](/what-is-web3) experiences.
+Dynamic NFTs represent a major leap forward, improving how digital assets from static collectibles into living, breathing objects that can react to and interact with the world around them. For developers and creators, they offer an exciting new canvas for building more engaging and interactive [Web3](/what-is-web3) experiences.
 
 ## Why This Matters
 

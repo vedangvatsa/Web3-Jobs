@@ -25,7 +25,7 @@ In the context of cryptocurrency, "shilling" is the act of enthusiastically and 
 Key characteristics of shilling include:
 
 -   **Enthusiastic and Uncritical Promotion:** The promotion is almost always overwhelmingly positive, highlighting the potential upside while ignoring or downplaying the risks.
--   **Use of Hype and Buzzwords:** Shills often use vague, exciting language, promising that a project is "the next 100x gem," is "going to the moon," or has "revolutionary technology," without providing substantive evidence.
+-   **Use of Hype and Buzzwords:** Shills often use vague, exciting language, promising that a project is "the next 100x gem," is "going to the moon," or has "a significant technology," without providing substantive evidence.
 -   **Lack of Disclosure:** In many cases, the shill does not disclose that they have been paid or have a significant financial [stake](/how-to-become-a-web3-staking-specialist) in the project they are promoting. This lack of transparency is a key element of what makes shilling deceptive.
 -   **Call to Action:** The core goal is to get others to buy. The message, whether implicit or explicit, is "you should buy this now before it's too late."
 
@@ -77,7 +77,7 @@ By understanding what shilling is, who does it, and how to spot it, you can bett
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

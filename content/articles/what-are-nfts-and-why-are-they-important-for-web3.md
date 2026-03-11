@@ -55,11 +55,11 @@ While the initial NFT boom was driven by speculative trading and hype, the under
 -   **Real-World Assets:** The deed to a house or a share in a company could be represented as an NFT.
 -   **Tickets and Memberships:** A concert ticket or a gym membership could be an NFT, creating a secure and liquid secondary market.
 
-NFTs are a fundamental building block for Web3. They are transforming the concept of digital ownership and creating a new economic layer for the internet, where value flows more directly to creators and users.
+NFTs are a fundamental building block for Web3. They are improving how concept of digital ownership and creating a new economic layer for the internet, where value flows more directly to creators and users.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

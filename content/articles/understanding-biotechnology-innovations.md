@@ -22,7 +22,7 @@ Gene therapy is another groundbreaking area. It aims to treat or cure genetic di
 
 Perhaps the most talked-about innovation is CRISPR gene editing. CRISPR is a tool that allows scientists to make precise changes to DNA with ease. It works like a pair of molecular scissors, allowing researchers to cut out a piece of DNA and replace it. The potential applications are vast, from curing genetic diseases to engineering more resilient crops.
 
-### Transforming Agriculture
+### improving how Agriculture
 
 Biotechnology is also changing the way we grow our food. Genetically modified (GM) crops have been engineered to have desirable traits, such as resistance to pests, tolerance to herbicides, or enhanced nutritional value. For example, "Golden Rice" is a variety of rice that has been engineered to produce beta-carotene, a precursor to Vitamin A. It was developed to combat Vitamin A deficiency, a major public health problem in many parts of the world.
 

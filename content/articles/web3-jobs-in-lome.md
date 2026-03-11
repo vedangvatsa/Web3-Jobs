@@ -266,7 +266,7 @@ This institutional knowledge is a huge asset for blockchain adoption.
 - Rent (nice apartment): $300-600/month
 - Food: $200-400/month
 - Overall living cost: Lower than most global cities
-- A $3,500/month [remote job](/remote-work-in-web3) is transformative income
+- A $3,500/month [remote job](/remote-work-in-web3) is improving how income
 
 ## Challenges and Realistic Expectations
 

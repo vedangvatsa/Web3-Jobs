@@ -34,7 +34,7 @@ Salaries for remote [Web3 jobs](/web3-jobs-for-beginners) are highly competitive
 -   **Average Senior Salary:** $110,000 - $170,000+ USD per year.
 
 **3. Community Manager**
--   **What they do:** The lifeblood of a project. They manage the Discord and Telegram, foster culture, and engage with the user base.
+-   **What they do:** The foundation for a project. They manage the Discord and Telegram, foster culture, and engage with the user base.
 -   **Average Salary:** $60,000 - $120,000+ USD per year.
 
 **4. Marketing Manager**
@@ -58,7 +58,7 @@ The remote job market in Web3 offers unparalleled freedom and opportunity. By de
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

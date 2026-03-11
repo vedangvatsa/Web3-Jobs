@@ -54,11 +54,11 @@ The UK offers some of the highest Web3 salaries in the world, second only to the
 
 ### Find Your UK Web3 Job
 
-To find the latest roles in one of the world's leading financial and crypto hubs, browse our [Web3 job board](/jobs). The UK offers a unique and exciting environment for professionals who want to work at the cutting edge of finance and decentralized technology.
+To find the latest roles in one of the world's leading financial and crypto hubs, browse our [Web3 job board](/jobs). The UK offers a unique and exciting environment for professionals who want to work at the advanced of finance and decentralized technology.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on transformative technology.
+The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
 
 ## Market Context
 

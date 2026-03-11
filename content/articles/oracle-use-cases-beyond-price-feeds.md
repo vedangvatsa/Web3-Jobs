@@ -33,7 +33,7 @@ Traditional insurance is a slow, cumbersome, and often adversarial process. You 
     - **Fantasy Sports:** Imagine an NFT of a football player. An oracle could feed real-time game statistics into the NFT's smart contract. If the player scores a touchdown, their NFT could visually upgrade, perhaps gaining a fiery aura or seeing its "Power" attribute increase.
     - **Real Estate:** An NFT representing a real-world property could have its metadata dynamically updated by oracles reporting data on the local housing market, rental income, or even its maintenance history.
     - **Training and Education:** An NFT representing a professional certification could be updated by an oracle connected to a learning platform. When you complete a new course, the oracle could add a "skill" to your NFT's metadata, creating a living, on-chain [resume](/how-to-build-a-web3-resume-that-stands-out).
-- **Why it matters:** dNFTs transform digital assets from simple collectibles into living, interactive objects that are continuously connected to real-world events and data.
+- **Why it matters:** dNFTs improving how digital assets from simple collectibles into living, interactive objects that are continuously connected to real-world events and data.
 
 ### 3. Verifiable Randomness for Gaming and NFTs
 
@@ -72,7 +72,7 @@ Oracles can act as "attestation" services, verifying real-world facts that can b
 
 ### Conclusion: The Unseen Bridge to the Future
 
-While they often operate in the background, oracles are a critical and dynamic piece of [Web3](/what-is-web3) infrastructure. They are the key that unlocks the full potential of smart contracts, transforming them from simple, self-contained programs into sophisticated applications that can react to the richness and complexity of the real world. As the Web3 ecosystem continues to expand, the demand for more diverse, secure, and creative oracle solutions will only grow, opening up a new frontier of possibilities for what can be built on the blockchain.
+While they often operate in the background, oracles are a critical and dynamic piece of [Web3](/what-is-web3) infrastructure. They are the key that unlocks the full potential of smart contracts, improving how them from simple, self-contained programs into sophisticated applications that can react to the richness and complexity of the real world. As the Web3 ecosystem continues to expand, the demand for more diverse, secure, and creative oracle solutions will only grow, opening up a new frontier of possibilities for what can be built on the blockchain.
 
 ## Why This Matters
 
