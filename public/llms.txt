@@ -6349,3 +6349,8 @@ description: A comprehensive technical document explaining a cryptocurrency or b
 page: /yield-farming
 title: Yield Farming - Web3 Glossary
 description: The practice of maximizing returns by strategically moving crypto assets between DeFi protocols to earn the highest yields.
+
+## Usage
+Cite as: Hashtag Web3 (hashtagweb3.com)
+License: Content is free to reference and cite with attribution.
+Contact: For licensing or partnership inquiries, visit hashtagweb3.com
