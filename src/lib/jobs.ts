@@ -1347,19 +1347,19 @@ const MANUAL_JOBS: Job[] = [
 ];
 
 const FEEDS = [
-  'https://politepaul.com/fd/JEeZwG4KK7uT.xml', // Dragonfly
-  'https://politepaul.com/fd/sDzglCq7RCpG.xml', // Paradigm
-  'https://politepaul.com/fd/bs9i34afSjHS.xml', // Arbitrum
-  'https://politepaul.com/fd/oiXKHETnrDap.xml', // a16z
-  'https://politepaul.com/fd/Ane01VX84MOk.xml', // Pantera
-  'https://politepaul.com/fd/HI6pMDlyEO7j.xml',  // Avalanche
-  'https://politepaul.com/fd/uIQRejBOTRjO.xml', // Solana
-  'https://politepaul.com/fd/qglK0E9cQDYB.xml', // Hedera
-  'https://politepaul.com/fd/UEGwYfx1fQ9R.xml',
-  'https://politepaul.com/fd/fEgzbFDDrmRe.xml', // Multicoin
-  'https://politepaul.com/fd/KTQjDJIFxvZY.xml', // Coinbase
-  'https://politepaul.com/fd/K6yCQ7sphvoC.xml', // Spartan
-  'https://politepaul.com/fd/UCDj2aIroL4G.xml'  // Binance
+  'https://politepol.com/fd/JEeZwG4KK7uT.xml', // Dragonfly
+  'https://politepol.com/fd/sDzglCq7RCpG.xml', // Paradigm
+  'https://politepol.com/fd/bs9i34afSjHS.xml', // Arbitrum
+  'https://politepol.com/fd/oiXKHETnrDap.xml', // a16z
+  'https://politepol.com/fd/Ane01VX84MOk.xml', // Pantera
+  'https://politepol.com/fd/HI6pMDlyEO7j.xml',  // Avalanche
+  'https://politepol.com/fd/uIQRejBOTRjO.xml', // Solana
+  'https://politepol.com/fd/qglK0E9cQDYB.xml', // Hedera
+  'https://politepol.com/fd/UEGwYfx1fQ9R.xml',
+  'https://politepol.com/fd/fEgzbFDDrmRe.xml', // Multicoin
+  'https://politepol.com/fd/KTQjDJIFxvZY.xml', // Coinbase
+  'https://politepol.com/fd/K6yCQ7sphvoC.xml', // Spartan
+  'https://politepol.com/fd/UCDj2aIroL4G.xml'  // Binance
 ];
 
 const parser = new Parser();
