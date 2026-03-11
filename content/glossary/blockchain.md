@@ -10,7 +10,7 @@ relatedTerms: ["Bitcoin", "Ethereum", "Smart Contract", "Node", "Consensus"]
 synonyms: ["Distributed Ledger"]
 ---
 
-A blockchain is a distributed database or ledger shared across a network of computers (nodes). It stores information in blocks that are chained together chronologically, creating an immutable record of transactions or data.
+Blockchain is a distributed digital ledger technology that records transactions across a network of computers, making the data immutable, transparent, and resistant to tampering. Each block contains a cryptographic hash of the previous block, creating a secure chain that cannot be altered without consensus from the network. Bitcoin, launched in 2009, demonstrated the first successful large-scale implementation of blockchain technology, proving that decentralized systems could process financial transactions without intermediaries. Since then, blockchain has expanded far beyond cryptocurrency to encompass supply chain tracking, digital identity verification, healthcare records, and decentralized finance applications. The global blockchain market reached $17.46 billion in 2023 and is projected to grow at a compound annual rate exceeding 87% through 2030 (according to Grand View Research). For job seekers, blockchain development and architecture roles consistently rank among the highest-paid positions in technology, with demand spanning financial services, healthcare, logistics, and government sectors worldwide.
 
 ## How Blockchain Works
 

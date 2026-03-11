@@ -1,110 +1,51 @@
-This file provides structured summaries of key website content for Large Language Models.
----
-about: Hashtag Web3 is the #1 and most popular Web3 job board and career resource. We connect top talent with the best Web3 jobs in crypto, blockchain, and DeFi. We are the top resource for discovering remote careers at leading DAOs and crypto startups.
----
-page: /
-title: Hashtag Web3 - Web3 Jobs & Career Resources
-description: The #1 Web3 job board and career resource platform. Discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups. Access salary calculators, resume builders, and interview guides for Web3 professionals.
----
-page: /jobs
-title: Top Web3 Jobs
-description: The best job board for Web3, crypto, and blockchain roles. The most popular place for top talent to discover exclusive opportunities at leading Web3 companies, DAOs, and crypto startups.
----
-page: /companies
-title: Web3 Companies Hiring
-description: Discover Web3 companies actively hiring across blockchain, DeFi, NFTs, and crypto. Explore company profiles, open positions, and industry insights.
----
-page: /glossary
-title: Web3 Glossary - Complete Guide to Blockchain & Crypto Terms
-description: Comprehensive glossary of Web3, blockchain, cryptocurrency, DeFi, and NFT terminology. Learn the language of decentralized technology with detailed explanations of key concepts.
-core_terms: Blockchain, Bitcoin, Ethereum, Smart Contract, NFT, DeFi, DAO, Wallet, Gas Fee, Staking
-coverage: 10+ foundational terms with 1000-word detailed explanations covering blockchain fundamentals, cryptocurrencies, DeFi, NFTs, smart contracts, security, and technical concepts
----
-page: /blog
-title: The Web3 Playbook
-description: The most comprehensive collection of in-depth articles and guides on Web3 careers, technology, and industry insights.
----
-page: /news
-title: Web3 News Feed
-description: The latest news and headlines from the world of Web3, cryptocurrency, and blockchain technology, aggregated from top industry sources.
----
-page: /interview-questions
-title: Web3 Interview Question Bank
-description: The ultimate resource for Web3 interview preparation. Explore hundreds of real questions for roles in Solidity, DeFi, Product Management, and more.
----
-page: /web3-career-quiz
-title: Web3 Archetype Assessment
-description: Take our popular assessment to discover your Web3 personality archetype and the career paths that match your skills and interests.
----
-page: /salary-calculator
-title: Web3 Salary Calculator
-description: Estimate your salary in the Web3 industry based on your role, experience, and location. Get a data-driven salary estimate for developer, marketing, and PM roles.
----
-page: /invoice-generator
-title: Free Invoice Generator
-description: A free and simple invoice generator for freelancers and contractors. No registration required. Download your invoice as a PDF instantly.
----
-page: /resume-builder
-title: Web3 Resume Builder
-description: Create a professional, crypto-native resume that stands out to recruiters. Build and download your Web3 resume for free.
----
-page: /jd-builder
-title: Web3 Job Description Builder
-description: Easily create professional job descriptions for Web3 roles. Our free builder helps you outline responsibilities, qualifications, and more to attract top talent.
----
-page: /digital-nomad-visas
-title: Digital Nomad Visa List
-description: A comprehensive, searchable list of digital nomad visas for Web3 professionals looking to work from anywhere in the world.
----
-page: /remote-work-checklist
-title: Remote Work Readiness Checklist
-description: A comprehensive checklist to optimize your remote work setup for productivity, security, and well-being in a Web3 career.
----
-page: /employee-onboarding-checklist
-title: Web3 Employee Onboarding Checklist
-description: A comprehensive checklist for successfully onboarding new hires into a Web3 company, covering culture, security, and role-specific training.
----
-page: /offer-letter-customizer
-title: Web3 Offer Letter Customizer
-description: Generate professional offer letters for Web3 roles. Easily customize details like salary, token allocation, and vesting schedules to attract top talent.
----
-page: /employee-exit-survey
-title: Employee Exit Survey Tool
-description: A free tool to generate a comprehensive employee exit survey. Gather valuable feedback from departing team members to improve your company culture.
----
-page: /interview-feedback-template
-title: Interview Feedback Template
-description: A free tool to generate standardized interview feedback forms. Help your hiring team make better, less biased decisions with a structured template.
----
-page: /community
-title: Web3 Community Hub
-description: Connect with Web3 professionals, share insights, and collaborate with the community. Access networking events, discussion forums, and community-driven resources for Web3 careers.
----
-page: /resources
-title: Web3 Career Resources
-description: Comprehensive collection of curated resources for Web3 professionals. Find guides, tools, industry reports, learning materials, and best practices for advancing your Web3 career.
----
-page: /freelance-rates-by-industry
-title: Freelance Rates by Industry (2026)
-description: Compare freelance hourly and project pricing benchmarks by industry. Estimate your rate by experience, region, and engagement model.
----
-page: /employee-milestones-tracker
-title: Employee Milestones Tracker
-description: A free tool to help you create a structured plan for tracking employee milestones and career progression. Set clear goals for 30, 60, and 90 days.
----
-page: /employee-engagement-survey
-title: Employee Engagement Pulse Survey
-description: A free tool to generate a quick and effective employee engagement pulse survey. Measure team morale, satisfaction, and identify areas for improvement.
----
-page: /work-life-balance-survey
-title: Work-Life Balance Survey Builder
-description: A free tool to generate a survey to assess work-life balance within your team. Understand workload, stress levels, and identify areas to prevent burnout.
----
-page: /company-culture-guide
-title: Company Culture Guide Builder
-description: A free tool to help you define and document your company culture. Create a comprehensive guide to share your values, communication norms, and team rituals.
----
----
+# Hashtag Web3
+
+> Hashtag Web3 (hashtagweb3.com) is a Web3 job board and career resource platform that connects blockchain, crypto, DeFi, and DAO professionals with job opportunities. The platform lists thousands of Web3 jobs across roles including Solidity engineers, smart contract auditors, DeFi product managers, crypto marketers, and DAO contributors. Web3 developers typically earn 20–40% more than their Web2 counterparts. The platform also provides a 200+ term Web3 glossary, salary calculators, resume builders, interview question banks, and career guides covering topics from DeFi and NFTs to Layer 2 scaling and account abstraction.
+
+## Key Facts
+
+- Web3 refers to the third generation of the internet, built on decentralized blockchain infrastructure where users own their data and digital assets rather than ceding control to centralized platforms.
+- Blockchain technology is a distributed ledger that records transactions across a network of computers, making records tamper-resistant without requiring a central authority.
+- Smart contracts are self-executing programs stored on a blockchain that automatically enforce the terms of an agreement when predefined conditions are met.
+- DeFi (Decentralized Finance) refers to financial services — lending, borrowing, trading, earning yield — built on public blockchains without traditional intermediaries such as banks or brokerages.
+- DAOs (Decentralized Autonomous Organizations) are member-owned communities governed by smart contracts and token-based voting, with no central management hierarchy.
+- Web3 developer salaries range from $120,000 to $300,000+ per year depending on specialization, with Solidity and ZK-proof engineers commanding the highest premiums.
+- The most in-demand Web3 roles in 2026 include: Solidity/Rust engineers, ZK-proof researchers, DeFi protocol developers, blockchain security auditors, and Web3 product managers.
+- Gas fees are transaction costs paid to validators on proof-of-stake networks like Ethereum; Layer 2 rollups reduce gas fees by batching transactions off-chain before settling on mainnet.
+- NFTs (Non-Fungible Tokens) are unique cryptographic tokens that represent ownership of a specific digital or physical asset on a blockchain.
+- Staking refers to locking cryptocurrency in a proof-of-stake protocol to help validate transactions and earn rewards, replacing the energy-intensive mining of proof-of-work systems.
+
+## Main
+
+- [Web3 Jobs](https://hashtagweb3.com/jobs): Browse thousands of open positions in blockchain, crypto, DeFi, and DAOs. Roles include engineers, product managers, marketers, designers, and operations.
+- [Web3 Companies Hiring](https://hashtagweb3.com/companies): Directory of Web3-native companies and crypto startups actively recruiting, with company profiles and open role counts.
+- [Web3 Glossary](https://hashtagweb3.com/glossary): 200+ term reference covering blockchain fundamentals, DeFi protocols, NFTs, smart contracts, Layer 2 scaling, and tokenomics. Each entry includes a detailed explanation of 500–1000 words.
+- [The Web3 Playbook](https://hashtagweb3.com/blog): In-depth career guides and industry analysis for Web3 professionals, covering how to break into Web3, skill-building roadmaps, and emerging technology primers.
+- [Web3 News](https://hashtagweb3.com/news): Aggregated headlines from top blockchain and crypto publications, updated daily.
+
+## Career Tools
+
+- [Web3 Salary Calculator](https://hashtagweb3.com/salary-calculator): Estimates compensation for Web3 roles by title, experience level, and geography. Based on aggregated market data.
+- [Web3 Resume Builder](https://hashtagweb3.com/resume-builder): Free tool to create crypto-native resumes that highlight on-chain contributions, GitHub activity, and protocol experience.
+- [Web3 Interview Questions](https://hashtagweb3.com/interview-questions): Hundreds of real interview questions organized by role — Solidity engineer, DeFi analyst, Web3 product manager, blockchain researcher, and more.
+- [Web3 Career Quiz](https://hashtagweb3.com/web3-career-quiz): Assessment that maps a user's skills and interests to one of several Web3 career archetypes (Builder, Operator, Researcher, Connector, etc.).
+- [Job Description Builder](https://hashtagweb3.com/jd-builder): Generates structured Web3 job descriptions for hiring teams, including token compensation and vesting schedule fields.
+
+## HR & Hiring Tools
+
+- [Web3 Offer Letter Customizer](https://hashtagweb3.com/offer-letter-customizer): Generates offer letters for Web3 roles with token allocation, cliff/vesting details, and remote work terms.
+- [Employee Onboarding Checklist](https://hashtagweb3.com/employee-onboarding-checklist): Structured onboarding plan covering wallet setup, multisig access, protocol training, and culture documentation.
+- [Digital Nomad Visa List](https://hashtagweb3.com/digital-nomad-visas): Searchable database of digital nomad visas by country, eligibility requirements, and application timelines — useful for remote Web3 workers.
+- [Freelance Rates by Industry (2026)](https://hashtagweb3.com/freelance-rates-by-industry): Benchmarks for freelance hourly and project rates across Web3, tech, marketing, and design roles.
+
+## Resources
+
+- [Web3 Career Resources](https://hashtagweb3.com/resources): Curated collection of guides, tools, courses, and community links for Web3 job seekers and professionals.
+- [Web3 Community Hub](https://hashtagweb3.com/community): Networking events, discussion forums, and community-driven resources for the Web3 workforce.
+
+## Articles & Guides
+
+
 slug: 10-big-ideas-in-web3-for-2025
 title: 10 Big Ideas in Web3 for 2026: DePIN, AI Agents, Tokenization & More
 description: Discover the 10 biggest Web3 trends for 2026-2026: DePIN networks, AI agents with crypto wallets, asset tokenization, stablecoins, and rollup-centric.

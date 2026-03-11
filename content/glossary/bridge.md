@@ -10,7 +10,7 @@ relatedTerms: ["Layer 2", "Cross-Chain", "Wrapped Token", "Interoperability", "M
 synonyms: ["Cross-Chain Bridge", "Blockchain Bridge"]
 ---
 
-A blockchain bridge is a protocol connecting two or more blockchain networks, allowing assets and information to move between them. Bridges are critical infrastructure in crypto's multi-chain reality, where value and users are distributed across dozens of networks.
+Bridge refers to a protocol that enables the transfer of tokens, data, or smart contract instructions between different blockchain networks, solving the fundamental challenge of blockchain interoperability. Because each blockchain operates as an isolated system with its own consensus rules and state, bridges serve as the critical connective tissue allowing users to move assets from one network to another without relying on centralized exchanges. Wormhole, one of the largest cross-chain bridges, facilitates transfers between Ethereum, Solana, and more than twenty other networks, demonstrating how bridges have become essential infrastructure for decentralized finance. The total value locked in blockchain bridges exceeded twelve billion dollars across all protocols as of early 2025, according to DeFiLlama, reflecting their central role in the multi-chain ecosystem. For professionals entering Web3, bridge expertise is increasingly valuable as companies seek engineers who understand cross-chain security, smart contract auditing, and the complex cryptographic mechanisms that enable trustless asset transfers between networks.
 
 ## Why Bridges Exist
 

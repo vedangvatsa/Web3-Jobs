@@ -9,7 +9,7 @@ import html from 'remark-html';
 
 const contentArticlesDirectory = path.join(process.cwd(), 'content/articles');
 
-function readArticlesFromDirectory(directory: string): Omit<Article, 'content'>[] {
+function readArticlesFromDirectory(directory: string): Omit<Article, 'content' | 'rawContent'>[] {
   if (!fs.existsSync(directory)) {
     return [];
   }
@@ -45,7 +45,7 @@ function readArticlesFromDirectory(directory: string): Omit<Article, 'content'>[
         image,
       };
     })
-    .filter((article): article is Omit<Article, 'content'> => article !== null);
+    .filter((article): article is Omit<Article, 'content' | 'rawContent'> => article !== null);
 }
 
 function removePlaceholderKeyTakeaways(content: string): string {
@@ -55,7 +55,7 @@ function removePlaceholderKeyTakeaways(content: string): string {
   });
 }
 
-export async function getAllArticles(): Promise<Omit<Article, 'content'>[]> {
+export async function getAllArticles(): Promise<Omit<Article, 'content' | 'rawContent'>[]> {
   const contentArticles = readArticlesFromDirectory(contentArticlesDirectory);
   return contentArticles.sort((a, b) => a.title.localeCompare(b.title));
 }
@@ -92,6 +92,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
     return {
       slug,
       content,
+      rawContent: sanitizedContent,
       title: data.title,
       description,
       category,

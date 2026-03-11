@@ -10,7 +10,7 @@ relatedTerms: ["Governance Token", "Smart Contract", "Proposal", "Voting", "Trea
 synonyms: ["Decentralized Autonomous Organization"]
 ---
 
-A DAO (Decentralized Autonomous Organization) is an organization that operates through rules encoded in smart contracts rather than traditional hierarchical management. Members collectively make decisions through on-chain voting, typically weighted by token ownership or contribution.
+DAO refers to a Decentralized Autonomous Organization, an internet-native entity governed by rules encoded in smart contracts rather than traditional corporate hierarchies. Members collectively own and control the organization through on-chain voting, where governance power typically correlates with token holdings or demonstrated contribution to the community. The concept emerged prominently with "The DAO" in 2016, but modern examples like Uniswap's governance system demonstrate how thousands of token holders can vote on protocol upgrades, fee structures, and treasury allocations without centralized leadership. As of early 2025, DAOs collectively manage over $25 billion in treasury assets across more than 13,000 organizations (according to DeepDAO). This governance model spans diverse applications including investment clubs, grant-making bodies, protocol development, and even social communities. For professionals entering Web3, understanding DAO mechanics has become essential, as roles in governance facilitation, tokenomics design, and community management represent some of the fastest-growing career opportunities in the decentralized ecosystem.
 
 ## How DAOs Work
 

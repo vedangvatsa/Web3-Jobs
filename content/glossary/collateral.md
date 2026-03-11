@@ -10,7 +10,7 @@ relatedTerms: ["defi", "lending", "liquidation"]
 synonyms: ["security", "backing assets", "loan security"]
 ---
 
-Collateral is an asset you deposit as security when borrowing. In DeFi lending protocols like Aave or Compound, you must provide collateral worth significantly more than you want to borrow. This over-collateralization protects lenders—if you don't repay, the protocol automatically sells your collateral to recover the loan. Collateral is fundamental to how DeFi lending works without credit checks or identity requirements.
+Collateral refers to assets deposited as security when taking out a loan, ensuring lenders have protection if borrowers fail to repay. In decentralized finance, collateral functions differently than in traditional banking because there are no credit checks or identity verification, making over-collateralization essential. When you borrow on protocols like Aave, you must deposit cryptocurrency worth more than your loan amount, typically 150% or higher of the borrowed value. This buffer accounts for crypto's price volatility and allows smart contracts to automatically liquidate collateral if its value drops below safe thresholds. DeFi lending protocols collectively hold over $30 billion in collateralized assets according to DeFiLlama data from early 2025, demonstrating the scale of this trustless lending infrastructure. Understanding collateral mechanics, liquidation thresholds, and risk parameters is essential for professionals working in DeFi protocol development, risk management, or blockchain financial services.
 
 ## Why DeFi Requires Collateral
 

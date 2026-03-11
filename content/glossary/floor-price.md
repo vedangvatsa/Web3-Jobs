@@ -9,7 +9,7 @@ relatedTerms: ["nft", "collection", "marketplace", "liquidity"]
 synonyms: ["floor", "entry price", "minimum price"]
 ---
 
-**Floor price** is the lowest price at which any NFT from a collection is currently listed for sale on marketplaces. It represents the cheapest entry point into owning an NFT from that collection and serves as a key metric for gauging collection health, market sentiment, and overall value. When someone says "BAYC floor is 30 ETH," they mean the least expensive Bored Ape Yacht Club NFT listed costs 30 ETH. Floor price fluctuates constantly as NFTs are bought, listed, and delisted, making it a real-time indicator of supply and demand dynamics.
+Floor price refers to the lowest listed price at which any NFT from a specific collection can be purchased on marketplaces, establishing the minimum cost of entry for collectors and investors. This metric serves as a real-time barometer of collection health, market sentiment, and perceived value within the NFT ecosystem. For example, when tracking blue-chip collections like Bored Ape Yacht Club on OpenSea, traders monitor floor price movements to assess whether a collection is gaining or losing momentum. The NFT market saw significant floor price volatility in 2023, with top collections experiencing average floor price declines of 60 to 80 percent from their peak values according to NFT analytics platform NFTGO. Floor price fluctuates continuously as NFTs are listed, sold, and delisted, reflecting the dynamic interplay of supply and demand. Professionals who understand floor price dynamics and can analyze collection trends are increasingly sought after by NFT marketplaces, Web3 investment funds, and digital asset trading firms.
 
 ## How Floor Price Works
 

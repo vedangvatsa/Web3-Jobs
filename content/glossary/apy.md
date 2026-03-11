@@ -9,7 +9,7 @@ relatedTerms: ["yield-farming", "staking", "defi", "liquidity-pool"]
 synonyms: ["annual percentage yield", "effective annual rate", "compound interest rate"]
 ---
 
-**APY (Annual Percentage Yield)** represents the total annual return on an investment after accounting for compounding. Unlike simple interest (APR), APY includes the effect of reinvesting earnings, making it a more accurate measure of actual returns. In DeFi, protocols display APYs ranging from 3-5% for stable strategies to 100%+ (or even 1000%+ during promotional periods) for high-risk yield farming. Understanding APY helps compare opportunities and set realistic expectations about investment returns.
+APY (Annual Percentage Yield) is the annualized rate of return on an investment that accounts for compound interest, showing the total earnings over a year including reinvested gains. Unlike APR (Annual Percentage Rate), which only reflects simple interest, APY captures the compounding effect where earned interest generates additional returns. For example, Aave, one of the largest DeFi lending protocols, displays APY rates that fluctuate based on supply and demand for each asset, allowing users to compare potential returns across different tokens. Stablecoin lending yields across major DeFi protocols averaged between 3% and 8% APY throughout 2024 (according to DeFiLlama data), though rates can spike significantly higher during periods of market volatility or through liquidity mining incentives. Understanding APY calculations is essential for DeFi analysts, yield strategists, and risk managers who must accurately evaluate protocol performance and communicate realistic return expectations to users and stakeholders.
 
 ## APY vs. APR
 

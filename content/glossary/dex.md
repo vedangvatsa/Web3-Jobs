@@ -10,7 +10,7 @@ relatedTerms: ["Liquidity Pool", "Automated Market Maker", "DeFi", "Uniswap", "T
 synonyms: ["Decentralized Exchange", "DEX Protocol"]
 ---
 
-A DEX (Decentralized Exchange) is a cryptocurrency exchange operating through smart contracts rather than centralized custody. Users trade directly from their wallets, maintaining control of private keys throughout the transaction process.
+DEX refers to a decentralized exchange, a peer-to-peer cryptocurrency marketplace where users trade digital assets directly from their personal wallets through smart contracts without relying on intermediaries or surrendering custody of their funds. Unlike centralized exchanges that hold user deposits, DEXs enable trustless trading by executing swaps automatically on-chain, giving traders complete control over their private keys throughout every transaction. Uniswap, one of the most prominent DEXs built on Ethereum, pioneered the automated market maker model that replaced traditional order books with liquidity pools funded by users who earn fees in return. DEXs collectively handle over $150 billion in monthly trading volume across various blockchain networks, demonstrating their central role in the decentralized finance ecosystem (according to DeFiLlama, 2025). As DeFi adoption accelerates, professionals with expertise in DEX architecture, liquidity provision strategies, and smart contract integration are increasingly sought after by protocols, trading firms, and Web3 startups building the next generation of financial infrastructure.
 
 ## CEX vs DEX: Fundamental Differences
 

@@ -11,7 +11,7 @@ import { ArticleContent } from '@/components/article-content';
 import { RelatedArticles } from '@/components/related-articles';
 import { Suspense } from 'react';
 import { cn } from '@/lib/utils';
-import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription } from '@/lib/seo-utils';
+import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription, extractFAQSchema } from '@/lib/seo-utils';
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 
@@ -294,6 +294,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const scholarlyCategories = ["AI & The Future of Work", "Web3 Career Guides"];
   const isScholarly = scholarlyCategories.includes(article.category);
 
+  const faqSchema = article.rawContent ? extractFAQSchema(article.rawContent) : null;
+
   const articleSchema: ArticleSchema | ScholarlyArticle = {
     '@type': isScholarly ? 'ScholarlyArticle' : 'Article',
     headline: article.title,
@@ -354,6 +356,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       <Header />
       <main className="flex-1">
         <div className="bg-background">

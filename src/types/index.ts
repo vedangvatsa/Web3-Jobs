@@ -15,8 +15,9 @@ export interface Article {
   image: string;
   description: string;
   content: string;
+  rawContent?: string;
   category: string;
-  'data-ai-hint']?: string;
+  ['data-ai-hint']?: string;
 }
 
 export interface NewsItem {
