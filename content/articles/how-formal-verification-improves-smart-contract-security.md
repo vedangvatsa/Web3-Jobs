@@ -136,17 +136,17 @@ Maya, transitioning from Web2 to Web3, used this approach to quickly adapt. Her 
 ## FAQ
 
 **Q: How long will this take to implement?**
-A: Most people see initial results within 2-4 weeks, with significant improvements visible within 8-12 weeks. The timeline depends on your starting point and how consistently you apply these strategies.
+A: Most people see initial results within 2–4 weeks of consistent application, with significant and measurable improvements visible within 8–12 weeks. The timeline varies depending on your starting baseline, how much daily practice you commit to, and whether you seek feedback actively. Professionals who track their progress — through metrics, peer feedback, or journaling — typically move faster than those who rely on passive observation. Treating implementation as a structured project rather than a vague intention consistently produces better outcomes.
 
 **Q: What if my workplace environment doesn't support this?**
-A: Even in challenging environments, you have more agency than you might think. Start with small actions and build momentum. If the environment truly prevents progress, it might be time to consider other opportunities.
+A: Even in genuinely difficult environments, you typically have more agency than it first appears. Start with small, self-contained actions that don't require organizational buy-in — individual habits, personal projects, or internal conversations with aligned colleagues. Build momentum gradually rather than waiting for permission. Document your progress and the results you create. If, after sustained effort, the environment structurally prevents your development, that itself is important career information: the right move may be to seek an environment that actively invests in people.
 
 **Q: How does this apply specifically to Web3?**
-A: Web3 organizations often have flatter hierarchies, more remote teams, and faster pace than traditional companies. This makes these skills even more critical for success.
+A: Web3 organizations differ structurally from traditional companies in ways that amplify the importance of these skills. Hierarchies are flatter, meaning you have more direct access to decision-makers but also more responsibility for self-direction. Teams are predominantly remote and globally distributed, so written communication and async collaboration matter more than in-office dynamics. Pace is faster — product cycles that take quarters in enterprise Web2 often happen in weeks at Web3 startups. Adapting to this environment is itself a core professional skill in the space.
 
 **Q: Can I implement this alongside my current role?**
-A: Absolutely. You don't need extra time-just intentionality in your current work. Integrate these practices into your daily activities.
+A: Yes — and this is the recommended approach for most professionals. You rarely need additional hours; you need intentionality within the hours you already have. Identify two or three practices that map directly to work you do every day and focus on applying them consistently rather than trying to overhaul everything at once. The compounding effect of small, deliberate improvements applied daily significantly outperforms sporadic large efforts. Most people who successfully develop new professional habits do so without changing their total work hours.
 
 **Q: What resources can help me go deeper?**
-A: Check the related articles section below for deeper dives into specific aspects. Also consider finding a mentor who excels in this area.
+A: The related articles section below covers specific aspects in greater depth — start there for targeted reading. Beyond written resources, the highest-leverage move is finding a mentor or peer group of people who already excel in this area: observing how they operate in practice teaches you things no article can convey. Web3-specific communities on Discord and Telegram often have practitioners willing to share their processes. Structured accountability — committing to a timeline with someone who will check in — also accelerates progress meaningfully.
 
