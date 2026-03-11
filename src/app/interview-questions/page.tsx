@@ -151,6 +151,21 @@ const RoleSection = ({ roleData }: { roleData: Role }) => {
 };
 
 
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: interviewData.roles.flatMap(role =>
+    Object.values(role.questions).flat().slice(0, 2).map((q: any) => ({
+      '@type': 'Question',
+      name: q.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: [q.idealAnswer.coreIdea, ...(q.idealAnswer.keyPoints || []).slice(0, 2)].join(' '),
+      },
+    }))
+  ).slice(0, 40),
+};
+
 export default function InterviewQuestionBankPage() {
    const headlines = [
       "Web3 Interview Question Bank",
@@ -161,6 +176,10 @@ export default function InterviewQuestionBankPage() {
 
   return (
     <div className="flex flex-col min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <ToolUsageTracker toolName="Interview Questions" />
       <Header />
       <main className="flex-grow">

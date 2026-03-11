@@ -206,6 +206,48 @@ export function generateCollectionPageSchema(
 }
 
 /**
+ * Extracts HowTo steps from article markdown content and returns HowTo schema.
+ * Detects numbered step lists (1. Step ...) or ## Step N: ... headings.
+ */
+export function extractHowToSchema(markdownContent: string, title?: string, description?: string): object | null {
+  const steps: { name: string; text: string }[] = [];
+
+  // Pattern 1: ## Step N: Title \n body paragraph
+  const stepHeadingPattern = /#{1,3}\s+Step\s+\d+[:.]\s*(.+?)\n+([\s\S]+?)(?=\n#{1,3}|\n---|\n\n\n|$)/gi;
+  let match;
+  while ((match = stepHeadingPattern.exec(markdownContent)) !== null) {
+    const name = match[1].trim();
+    const text = match[2].trim().replace(/<[^>]*>/g, '').replace(/\*\*/g, '').split('\n')[0];
+    if (name && text) {
+      steps.push({ name, text });
+    }
+  }
+
+  // Pattern 2: Numbered list items that start with bold step name
+  if (steps.length === 0) {
+    const numberedPattern = /^\d+\.\s+\*\*(.+?)\*\*[:.]\s*(.+)$/gm;
+    while ((match = numberedPattern.exec(markdownContent)) !== null) {
+      steps.push({ name: match[1].trim(), text: match[2].trim() });
+    }
+  }
+
+  if (steps.length < 3) return null;
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: title || 'How To Guide',
+    description: description || steps[0]?.text,
+    step: steps.map((s, i) => ({
+      '@type': 'HowToStep',
+      position: i + 1,
+      name: s.name,
+      text: s.text,
+    })),
+  };
+}
+
+/**
  * Extracts FAQ Q&A pairs from article markdown content and returns FAQPage schema.
  * Handles patterns: **Q: ...** / A: ... and ### Q: ... / answer paragraphs
  */

@@ -20,9 +20,22 @@ const InvoiceForm = dynamic(
   }
 );
 
+const schemaJson = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'SoftwareApplication',
+  name: 'Web3 Invoice Generator',
+  url: 'https://hashtagweb3.com/invoice-generator',
+  description: 'Free invoice generator for Web3 freelancers and contractors. Create professional invoices for crypto and blockchain consulting work with PDF export.',
+  applicationCategory: 'BusinessApplication',
+  operatingSystem: 'Web',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  publisher: { '@type': 'Organization', name: 'Hashtag Web3', url: 'https://hashtagweb3.com' },
+});
+
 export default function InvoiceGeneratorPage() {
   return (
     <div className="flex flex-col min-h-screen bg-background">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: schemaJson }} />
       <Header />
       <main className="flex-1">
         <ToolUsageTracker toolName="Invoice Generator" />
