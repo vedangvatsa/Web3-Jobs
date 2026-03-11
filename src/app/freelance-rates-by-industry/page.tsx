@@ -126,8 +126,40 @@ export default function FreelanceRatesByIndustryPage() {
     'Price by Data, Not Guesswork',
   ];
 
+  const datasetSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    name: 'Freelance Rates by Industry 2026',
+    description: 'Benchmark hourly and project rates for freelancers across 6 industries including software development, design, marketing, content writing, operations, and video production. Includes experience and region multipliers.',
+    url: 'https://hashtagweb3.com/freelance-rates-by-industry',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Hashtag Web3',
+      url: 'https://hashtagweb3.com',
+    },
+    temporalCoverage: '2026',
+    variableMeasured: [
+      { '@type': 'PropertyValue', name: 'Hourly Rate (USD)', minValue: 15, maxValue: 150 },
+      { '@type': 'PropertyValue', name: 'Project Rate (USD)', description: 'Per-project fee range' },
+    ],
+    distribution: {
+      '@type': 'DataDownload',
+      encodingFormat: 'text/html',
+      contentUrl: 'https://hashtagweb3.com/freelance-rates-by-industry',
+    },
+    hasPart: rateRows.map(row => ({
+      '@type': 'Dataset',
+      name: `${row.industry} Freelance Rates`,
+      description: `Hourly rate range $${row.hourlyMin}–$${row.hourlyMax}/hr for ${row.roles}.`,
+    })),
+  };
+
   return (
     <div className="flex min-h-screen flex-col bg-background">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetSchema) }}
+      />
       <Header />
       <main className="flex-1">
         <ToolUsageTracker toolName="Freelance Rates by Industry" />

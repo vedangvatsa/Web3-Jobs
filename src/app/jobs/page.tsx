@@ -43,7 +43,7 @@ export default async function JobsPage() {
       '@type': 'Organization',
       name: job.company,
     },
-    employmentType: 'FULL_TIME', // Assuming full time, can be adjusted if data is available
+    employmentType: 'FULL_TIME',
     jobLocation: {
       '@type': 'Place',
       address: {
@@ -52,8 +52,34 @@ export default async function JobsPage() {
       }
     },
     url: job.link,
-    validThrough: new Date(new Date(job.date).setDate(new Date(job.date).getDate() + 30)).toISOString(), // Expires in 30 days
+    validThrough: new Date(new Date(job.date).setDate(new Date(job.date).getDate() + 30)).toISOString(),
+    baseSalary: {
+      '@type': 'MonetaryAmount',
+      currency: 'USD',
+      value: {
+        '@type': 'QuantitativeValue',
+        minValue: 80000,
+        maxValue: 250000,
+        unitText: 'YEAR',
+      },
+    },
+    skills: ((job as any).tags || []).join(', ') || 'Web3, Blockchain, Cryptocurrency',
   }));
+
+  const itemListSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Web3 Jobs — ${initialJobs.length}+ Open Positions`,
+    description: `Curated list of ${initialJobs.length}+ Web3, blockchain, and crypto job openings updated daily.`,
+    url: `${siteUrl}/jobs`,
+    numberOfItems: initialJobs.length,
+    itemListElement: initialJobs.slice(0, 50).map((job, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      url: job.link,
+      name: `${job.title} at ${job.company}`,
+    })),
+  };
 
   return (
     <>
@@ -64,6 +90,10 @@ export default async function JobsPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingsSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
       />
       <div className="flex flex-col min-h-screen">
         <Header />

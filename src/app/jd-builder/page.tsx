@@ -19,9 +19,22 @@ const JDBuilderForm = dynamic(
   }
 );
 
+const schemaJson = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'SoftwareApplication',
+  name: 'Web3 Job Description Builder',
+  url: 'https://hashtagweb3.com/jd-builder',
+  description: 'Free AI-powered job description builder for Web3 companies. Generate structured, inclusive job descriptions for blockchain, DeFi, DAO, and crypto roles.',
+  applicationCategory: 'BusinessApplication',
+  operatingSystem: 'Web',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  publisher: { '@type': 'Organization', name: 'Hashtag Web3', url: 'https://hashtagweb3.com' },
+});
+
 export default function JobDescriptionBuilderPage() {
   return (
     <div className="flex flex-col min-h-screen bg-background">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: schemaJson }} />
       <Header />
       <main className="flex-1">
         <ToolUsageTracker toolName="Job Description Builder" />

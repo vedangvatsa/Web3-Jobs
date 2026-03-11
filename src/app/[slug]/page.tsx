@@ -11,7 +11,7 @@ import { ArticleContent } from '@/components/article-content';
 import { RelatedArticles } from '@/components/related-articles';
 import { Suspense } from 'react';
 import { cn } from '@/lib/utils';
-import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription, extractFAQSchema } from '@/lib/seo-utils';
+import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription, extractFAQSchema, extractHowToSchema } from '@/lib/seo-utils';
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 
@@ -295,6 +295,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const isScholarly = scholarlyCategories.includes(article.category);
 
   const faqSchema = article.rawContent ? extractFAQSchema(article.rawContent) : null;
+  const howToSchema = article.rawContent ? extractHowToSchema(article.rawContent, article.title, article.description) : null;
 
   const articleSchema: ArticleSchema | ScholarlyArticle = {
     '@type': isScholarly ? 'ScholarlyArticle' : 'Article',
@@ -360,6 +361,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+      {howToSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
         />
       )}
       <Header />
