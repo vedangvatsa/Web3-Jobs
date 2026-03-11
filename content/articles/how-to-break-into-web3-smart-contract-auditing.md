@@ -6,6 +6,8 @@ data-ai-hint: "smart contract audit"
 description: "A guide for aspiring security researchers on how to start a career in smart contract auditing, one of Web3's most critical and challenging fields."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 A career as a [smart contract auditor](/smart-contract-auditor-career) is one of the most respected and challenging paths in [Web3](/what-is-web3). Auditors are the guardians of the ecosystem, responsible for finding critical vulnerabilities before they can be exploited. This guide provides a focused roadmap for how to break into this elite field.

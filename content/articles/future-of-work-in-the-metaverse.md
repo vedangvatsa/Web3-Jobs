@@ -6,6 +6,8 @@ data-ai-hint: "future work metaverse"
 description: "How will we work in the metaverse? This article explores the emerging jobs and career paths in persistent virtual worlds, from digital architects to."
 category: "Industry Insights"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The "metaverse" is rapidly moving from a science fiction concept to a tangible reality. As persistent, shared virtual worlds become more sophisticated, they are not just changing how we play and socialize, but also how we work. The future of work is not just remote; it's virtual. This shift is creating a new and fascinating job market for roles that don't even exist in the physical world.

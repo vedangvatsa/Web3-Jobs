@@ -6,6 +6,8 @@ data-ai-hint: "cryptography research development"
 description: "A guide for aspiring cryptographers and engineers on how to build a career in Web3 cryptographic R&D, a field at the cutting edge of privacy and scaling."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Cryptography is the foundational technology that makes [Web3](/what-is-web3) possible. From the public-key cryptography that secures wallets to the advanced [Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained) that are revolutionizing scalability and privacy, the field of cryptographic research and development is where the most fundamental breakthroughs in the industry are happening.

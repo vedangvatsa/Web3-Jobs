@@ -6,6 +6,8 @@ data-ai-hint: "fire money burn"
 description: "Token burning is the process of permanently removing a certain number of cryptocurrency tokens from circulation. This is done to create a deflationary."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the world of cryptocurrency, "burning" tokens is a common mechanism used to manage a [token](/what-is-a-token)'s supply and influence its economic value. Token burning is the process of intentionally and permanently removing a certain number of tokens from the total circulating supply.

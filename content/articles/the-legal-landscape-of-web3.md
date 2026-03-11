@@ -6,6 +6,8 @@ image: "/images/bruce-mars-FWVMhUa_wbY-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "gavel books"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Navigating the Labyrinth: A Primer on the Legal Landscape of Web3

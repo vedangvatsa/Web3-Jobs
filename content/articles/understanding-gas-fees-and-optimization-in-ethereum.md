@@ -6,6 +6,8 @@ data-ai-hint: "ethereum gas fees"
 description: "A guide to understanding how gas fees work on Ethereum. We break down the components of a transaction fee and explore key techniques for writing."
 category: "Technology Deep Dives"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 One of the most common and often confusing experiences for anyone using the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) is the concept of "gas." Gas is the lifeblood of the network; it's the fee required to perform any transaction or execute any [smart contract](/what-are-smart-contracts) function. Understanding how gas works is not only crucial for users to avoid overpaying but is also a fundamental skill for developers who want to build efficient and cost-effective applications.

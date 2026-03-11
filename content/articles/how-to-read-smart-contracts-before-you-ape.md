@@ -6,6 +6,8 @@ data-ai-hint: "code security audit"
 description: "A practical guide for non-developers on how to perform a basic security check of a Solidity smart contract. Learn to spot common red flags and protect."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the fast-paced world of [Web3](/what-is-web3), it’s easy to get caught up in the hype. A new [NFT](/what-are-nfts) project is minting, a new [DeFi](/what-is-defi) protocol is offering astronomical yields, and the fear of missing out (FOMO) is palpable. The temptation is to "ape in"-to invest quickly without doing your own research. This is often a recipe for disaster.

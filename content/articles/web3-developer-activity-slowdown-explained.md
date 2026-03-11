@@ -6,6 +6,8 @@ image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "code on screen laptop"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Explaining the Web3 Developer Activity "Slowdown"

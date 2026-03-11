@@ -6,6 +6,8 @@ description: "A clear look at deep learning, a powerful type of machine learning
 category: "Educational"
 data-ai-hint: "neural network"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Deep learning is a specific and powerful subfield of [machine learning](/understanding-machine-learning-for-beginners). It's the technology behind many of the most impressive recent breakthroughs in artificial intelligence, from self-driving cars to chatbots that can write poetry. The "deep" in deep learning refers to the use of large, multi-layered neural networks to analyze data.

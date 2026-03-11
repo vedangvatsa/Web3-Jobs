@@ -6,6 +6,8 @@ description: "Marketing in Web3 is different. Learn the new strategies and tacti
 category: "Career Guides"
 data-ai-hint: "digital marketing"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Marketing in [Web3](/what-is-web3) is fundamentally different from traditional marketing. You can't run ads on Google or Meta advertising cryptocurrency projects. You can't use traditional marketing metrics. Your audience is technically sophisticated and skeptical of hype.

@@ -6,6 +6,8 @@ description: "An analysis of the key barriers-from user experience and scalabili
 category: "Industry Insights"
 data-ai-hint: "empty road"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Promise and the Reality

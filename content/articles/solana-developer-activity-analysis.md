@@ -6,6 +6,8 @@ description: "Solana has emerged as a major contender in the blockchain space. T
 category: "Technology Deep Dives"
 data-ai-hint: "blockchain analytics"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Solana Developer Activity: An On-Chain Analysis

@@ -5,6 +5,8 @@ description: "A deep dive into the philosophy of Naval Ravikant, a celebrated en
 image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man thinking"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Angel Philosopher of Silicon Valley

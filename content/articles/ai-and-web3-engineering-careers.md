@@ -5,6 +5,8 @@ image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
 data-ai-hint: "ai web3 engineer"
 description: "A guide to the hybrid career path of an AI/Web3 Engineer. Learn what skills are needed to build at the intersection of artificial intelligence and."
 category: "Career Guides"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The worlds of Artificial Intelligence (AI) and [Web3](/what-is-web3) are rapidly converging, creating a new and exciting frontier for engineers. This intersection is giving rise to a new breed of developer: the **AI/Web3 Engineer**. This is a professional who possesses a rare hybrid skillset, capable of building systems that are both intelligent and decentralized.

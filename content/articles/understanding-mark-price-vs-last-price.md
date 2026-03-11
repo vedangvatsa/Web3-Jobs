@@ -6,6 +6,8 @@ description: "A guide to the difference between Mark Price and Index Price in cr
 category: "Educational"
 data-ai-hint: "price comparison"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ### Introduction

@@ -6,6 +6,8 @@ data-ai-hint: "dao hiring talent"
 description: "DAOs require a new approach to recruitment. This guide covers how to find, vet, and onboard talent for a decentralized organization, from writing bounties."
 category: "Industry Insights"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Hiring for a startup is hard. Hiring for a [DAO](/what-is-a-dao) is an entirely new level of complexity. A Decentralized Autonomous Organization (DAO) is not a traditional company; it's a fluid, community-led collective. The old methods of posting on LinkedIn and filtering resumes simply don't work in a world of pseudonymous contributors, on-chain reputations, and bounty-based work.

@@ -5,6 +5,8 @@ image: "https://images.unsplash.com/photo-1543269664-647163ef2ee4?crop=entropy&c
 description: "You don't need to be a Solidity expert to build a career in crypto. Explore the top non-technical roles in Web3, from community and marketing to product."
 category: "Career Guides"
 data-ai-hint: "team collaboration"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The [Web3](/what-is-web3) revolution is not just for coders. While developers are crucial for building the infrastructure of the decentralized internet, a thriving ecosystem requires a diverse range of non-technical talent to drive growth, foster community, and create meaningful products. If you're passionate about crypto but don't write code, your skills are not only valuable-they're in high demand.

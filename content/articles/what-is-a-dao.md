@@ -6,6 +6,8 @@ description: "What is a Decentralized Autonomous Organization (DAO)? This beginn
 category: "Industry Insights"
 data-ai-hint: "dao explained"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 A DAO is a Decentralized Autonomous Organization. It's an organization that runs on a [blockchain](/what-is-a-blockchain) instead of having a traditional management structure. Instead of a CEO making decisions, a DAO's decisions get made through votes by [token](/what-is-a-token) holders.

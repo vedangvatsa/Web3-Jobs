@@ -6,6 +6,8 @@ category: "Educational"
 image: "https://picsum.photos/seed/haptic/1200/630"
 data-ai-hint: "haptic touch"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Haptic feedback is the use of touch to communicate with users. The word "haptic" comes from the Greek word for touch. While our digital interactions have been dominated by sight and sound for decades, haptics add a third, crucial dimension, making our interactions with technology feel more physical, intuitive, and immersive.

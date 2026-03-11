@@ -6,6 +6,8 @@ data-ai-hint: "crypto web3 slang"
 description: "Feeling lost in a sea of crypto slang? This guide explains the meaning of common Web3 acronyms and terms like WAGMI, NGMI, FUD, HODL, and more."
 category: "Getting Started"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The world of [Web3](/what-is-web3) and crypto has its own unique and often bewildering language. From inside jokes to technical shorthand, the slang and acronyms used on Crypto Twitter and in Discord can feel like a secret code to newcomers. Understanding this lexicon is not just about fitting in; it's about being able to follow the conversation and understand the culture of the decentralized internet.

@@ -6,6 +6,8 @@ description: "An analysis of the emerging career opportunities at the intersecti
 category: "Career Guides"
 data-ai-hint: "person working on computer"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Two Revolutions

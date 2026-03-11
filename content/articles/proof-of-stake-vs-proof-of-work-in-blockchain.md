@@ -6,6 +6,8 @@ data-ai-hint: "balance scale"
 description: "A clear comparison of the two major blockchain consensus mechanisms: Proof-of-Work (PoW) and Proof-of-Stake (PoS). Understand how they work, their pros."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 At the heart of every **[blockchain](/what-is-a-blockchain)** is a **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)**-the method by which all the distributed participants in the network agree on the validity of transactions. The two most prominent and important consensus mechanisms are **Proof-of-Work (PoW)** and **Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS)**.

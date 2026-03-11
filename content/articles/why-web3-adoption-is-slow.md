@@ -6,6 +6,8 @@ description: "Web3 promises a decentralized future, but mass adoption is slow. T
 category: "Industry Insights"
 data-ai-hint: "web3 challenges"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 [Web3](/what-is-web3) has been around for over a decade. [Bitcoin](/what-is-bitcoin) launched in 2009. [Ethereum](/what-is-ethereum) went live in 2015. Despite this longevity, Web3 remains niche. Cryptocurrency adoption is far below what early enthusiasts predicted. Web3 is used by maybe 100-200 million people globally, compared to billions on traditional internet platforms.

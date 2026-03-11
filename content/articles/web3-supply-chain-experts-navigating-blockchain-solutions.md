@@ -6,6 +6,8 @@ data-ai-hint: "supply chain logistics"
 description: "A career guide for supply chain and logistics professionals looking to enter the Web3 space. Learn how blockchain is being used to create more transparent."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The global supply chain is a monumentally complex system, but it's also plagued by inefficiency, opacity, and fraud. [Blockchain](/what-is-a-blockchain) technology offers a powerful solution by creating a shared, immutable, and transparent ledger that can track goods from their origin to the final consumer. This has created a new and growing field for **[Web3](/what-is-web3) Supply Chain Experts**.

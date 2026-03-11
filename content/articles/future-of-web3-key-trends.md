@@ -6,6 +6,8 @@ description: "From modular blockchains to the rise of decentralized AI, we explo
 category: "Technology Deep Dives"
 data-ai-hint: "futuristic city"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Next Evolution of the Internet

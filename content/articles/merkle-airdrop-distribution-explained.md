@@ -6,6 +6,8 @@ data-ai-hint: "tree data structure"
 description: "A Merkle airdrop is a highly efficient method for distributing tokens to a large number of users. This guide explains how it uses Merkle trees to save gas."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 [Airdrops](/understanding-airdrop-campaigns-in-web3) are a powerful tool for distributing a new [token](/what-is-a-token) to a project's community. However, airdropping tokens to thousands or even millions of addresses presents a major technical challenge: how do you do it without spending a fortune on gas fees? Sending a separate `transfer` transaction to each recipient is prohibitively expensive.

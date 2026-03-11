@@ -6,6 +6,8 @@ image: "/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "futuristic technology"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: Beyond the Hype Cycle

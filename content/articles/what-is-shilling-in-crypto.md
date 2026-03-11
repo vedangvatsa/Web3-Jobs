@@ -6,6 +6,8 @@ data-ai-hint: "person talking crowd"
 description: "A guide to understanding 'shilling,' the practice of enthusiastically promoting a cryptocurrency or NFT project, and how to spot it."
 category: "Getting Started"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the fast-paced and hype-driven world of crypto, you will often hear the term "shilling." Understanding what it means is crucial for navigating the space safely and making informed decisions.

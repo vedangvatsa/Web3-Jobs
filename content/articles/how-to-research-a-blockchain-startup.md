@@ -6,6 +6,8 @@ data-ai-hint: "research analysis magnifying glass"
 description: "A guide for job seekers on how to perform due diligence on a Web3 startup. Learn what to look for in the team, tokenomics, and community before accepting."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The [Web3](/what-is-web3) job market is filled with exciting opportunities, but it's also a landscape of high risk and volatility. A project that seems like the next big thing can disappear in a matter of months. Before you accept a job offer at a [blockchain](/what-is-a-blockchain) startup and tie your career and financial future to its success, it is absolutely critical that you do your own deep research.

@@ -6,6 +6,8 @@ description: "A practical guide for Web2 developers looking to transition into a
 category: "Career Guides"
 data-ai-hint: "code on screen"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The New Frontier for Developers

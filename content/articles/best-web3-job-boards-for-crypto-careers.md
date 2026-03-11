@@ -5,6 +5,8 @@ description: "Discover the top 15 Web3 job boards for 2026. Find $100K+ remote b
 image: "/images/bilge-tekin-GiATUqz4NYY-unsplash.jpg"
 category: "Career Guides"
 data-ai-hint: "job search"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: Navigating the Web3 Job Market

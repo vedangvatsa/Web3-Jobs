@@ -6,6 +6,8 @@ data-ai-hint: "certification document"
 description: "A guide to the world of Web3 certifications. Learn which ones are most respected, whether they are worth it, and how they can help you stand out in a."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the fast-paced and ever-evolving [Web3](/what-is-web3) job market, standing out from the crowd is essential. While a strong [portfolio](/building-web3-portfolio) of "proof of work" remains the gold standard, a new tool is emerging to help candidates validate their skills and knowledge: the Web3 certification. Unlike traditional university degrees, Web3 certifications are often more focused, practical, and directly relevant to the specific skills that protocols and companies are hiring for.

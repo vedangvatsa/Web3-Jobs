@@ -6,6 +6,8 @@ description: "Reentrancy is one of the most notorious and destructive vulnerabil
 category: "Technology Deep Dives"
 data-ai-hint: "blockchain security"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Understanding Reentrancy Attacks in Web3 Smart Contracts

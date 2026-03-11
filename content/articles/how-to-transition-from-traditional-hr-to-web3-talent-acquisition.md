@@ -6,6 +6,8 @@ data-ai-hint: "human resources team"
 description: "A guide for HR professionals looking to move into Web3. Learn how to adapt your skills in talent acquisition, culture, and compensation for the unique."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The [Web3](/what-is-web3) industry is in a phase of explosive growth, but its biggest bottleneck is talent. This has created a surge in demand for skilled HR and Talent Acquisition professionals who can navigate the unique challenges of the crypto job market. For those with a background in traditional HR, this represents a massive opportunity to pioneer new models of work and organization.

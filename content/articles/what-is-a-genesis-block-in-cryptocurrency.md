@@ -6,6 +6,8 @@ data-ai-hint: "blockchain genesis block"
 description: "The genesis block is the very first block ever created on a blockchain. It is the foundation upon which the entire distributed ledger is built."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Every [blockchain](/what-is-a-blockchain) has a beginning. The **genesis block** is the very first block ever created in a blockchain's history. It is the foundation, Block 0, from which all other blocks are cryptographically linked, forming the chain that makes up the distributed ledger. It is a unique and unchangeable part of any blockchain's history.

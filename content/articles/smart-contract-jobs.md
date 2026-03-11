@@ -6,6 +6,8 @@ description: "Smart contract development is a highly sought-after skill. This gu
 category: "Career Guides"
 data-ai-hint: "developer career"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 [Smart contract](/what-are-smart-contracts) development is the most in-demand technical skill in [Web3](/what-is-web3). If you're a developer considering a career in [blockchain](/what-is-a-blockchain), understanding the smart contract job market matters.

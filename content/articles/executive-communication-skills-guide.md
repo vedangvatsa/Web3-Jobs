@@ -6,6 +6,8 @@ image: https://picsum.photos/seed/executive/1200/630
 category: Career Guides
 data-ai-hint: business meeting
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: Why Executive Communication is Different

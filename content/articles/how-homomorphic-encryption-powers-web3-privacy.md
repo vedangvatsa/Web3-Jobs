@@ -6,6 +6,8 @@ data-ai-hint: "encryption privacy data"
 description: "A deep dive into Homomorphic Encryption (HE), a revolutionary cryptographic technique that allows for computation on encrypted data, enabling."
 category: "Technology Deep Dives"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In the world of [Web3](/what-is-web3), we face a fundamental tension between transparency and privacy. Public blockchains like [Ethereum](/what-is-ethereum) are radically transparent-all data and computations are visible to everyone. This is great for auditability but terrible for privacy. How can you build applications that handle sensitive data, like medical records or confidential financial trades, on a transparent ledger?

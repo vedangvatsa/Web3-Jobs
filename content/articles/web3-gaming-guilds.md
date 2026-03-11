@@ -5,6 +5,8 @@ image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&c
 description: "Discover the world of Web3 gaming guilds. Learn how organizations like YGG are creating 'scholarship' programs and building communities that are."
 category: "Industry Insights"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The rise of [Web3](/what-is-web3) gaming and the "Play-to-Earn" (P2E) model created a groundbreaking opportunity: the ability for players to earn real income from playing video games. However, a significant barrier quickly emerged. To participate in top P2E games like Axie Infinity, players often needed to make a substantial upfront investment to purchase the required [NFT](/what-are-nfts) assets, which could cost hundreds or even thousands of dollars. This priced out millions of potential players, particularly in developing countries where this income could be transformative.

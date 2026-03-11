@@ -6,6 +6,8 @@ description: "An inside look at the burgeoning Web3 job market in South Korea, c
 category: "Career Guides"
 data-ai-hint: "futuristic city asia"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Introduction: The Hub of Web3 Innovation

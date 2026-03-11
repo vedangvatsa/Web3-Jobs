@@ -6,6 +6,8 @@ data-ai-hint: "robot painting canvas"
 description: "A beginner-friendly guide to making your own AI-generated art. Learn how text-to-image models work and the simple steps to create stunning images with."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 Creating art with artificial intelligence has gone from a niche hobby to a global phenomenon. Thanks to powerful yet accessible tools, anyone can now turn a simple text description into a stunning, unique image. You don't need to be a professional artist or a programmer to get started. All you need is an idea and a willingness to experiment.

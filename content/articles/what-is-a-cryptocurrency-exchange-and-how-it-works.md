@@ -6,6 +6,8 @@ data-ai-hint: "crypto exchange"
 description: "A cryptocurrency exchange is an online marketplace where you can buy, sell, and trade cryptocurrencies. It's the most common gateway for newcomers to."
 category: "Educational"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 A cryptocurrency exchange is an online platform that acts as a marketplace for buying, selling, and trading digital currencies. For most people, it's the first and most important bridge between the traditional financial system (fiat currencies like USD or EUR) and the new world of [Web3](/what-is-web3). Think of it as a stock exchange, but for assets like [Bitcoin](/what-is-bitcoin), [Ethereum](/what-is-ethereum), and thousands of other [tokens](/what-is-a-token).

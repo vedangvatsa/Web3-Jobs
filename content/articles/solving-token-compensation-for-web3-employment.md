@@ -6,6 +6,8 @@ data-ai-hint: "token compensation equity"
 description: "A guide to designing and understanding token-based compensation. Learn about vesting schedules, cliffs, and how to use tokens to align incentives for your."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 One of the most powerful innovations of [Web3](/what-is-web3) is the ability to give team members and contributors direct ownership in the networks they are building. This is achieved through **[token](/what-is-a-token)-based compensation**. Instead of just receiving a salary (and maybe some equity in a centralized company), a Web3 professional's compensation package often includes a significant grant of the protocol's native tokens.

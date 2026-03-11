@@ -5,6 +5,8 @@ image: "https://images.unsplash.com/photo-1556742212-5b321f3c261b?crop=entropy&c
 description: "Get insider tips from a Web3 headhunter. Learn what recruiters are looking for, the biggest red flags on a resume, and how to stand out in a competitive market."
 category: "Career Guides"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 The [Web3](/what-is-web3) job market is a whirlwind of fierce competition, high salaries, and unique cultural norms. Navigating it can be tough, both for candidates trying to break in and for companies trying to find top talent. As a Web3 recruiter, I've seen thousands of resumes, conducted hundreds of interviews, and helped place candidates at some of the top protocols and startups in the space.

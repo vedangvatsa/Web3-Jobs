@@ -6,6 +6,8 @@ data-ai-hint: "job interview portfolio"
 description: "A great portfolio is useless if no one sees it. This guide provides actionable tips on how to present your Web3 projects to recruiters and hiring managers."
 category: "Getting Started"
 
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 In [Web3](/what-is-web3), having a strong [portfolio](/building-web3-portfolio) of projects is essential. But building the projects is only half the battle. If your work is poorly presented or hard to find, even the most impressive portfolio can be overlooked by recruiters and hiring managers.

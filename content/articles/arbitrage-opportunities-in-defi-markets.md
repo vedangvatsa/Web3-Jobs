@@ -5,6 +5,8 @@ description: "A guide to understanding arbitrage in DeFi, a trading strategy tha
 category: "Educational"
 image: "https://picsum.photos/seed/arbitrage/1200/630"
 data-ai-hint: "arbitrage opportunities"
+publishedDate: "2026-03-11"
+lastUpdated: "2026-03-11"
 ---
 
 ## Arbitrage Opportunities in DeFi Markets: A Complete Guide
