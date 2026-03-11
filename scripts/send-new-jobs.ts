@@ -16,6 +16,62 @@
 import * as admin from 'firebase-admin';
 import { getJobs } from '@/lib/jobs';
 import { sendBatchJobAlerts, type JobListing } from '@/lib/email';
+import { Resend } from 'resend';
+
+async function cleanSuppressedEmails(db: admin.firestore.Firestore, resend: Resend): Promise<number> {
+  try {
+    console.log('🧹 Cleaning suppressed emails from subscriber list...');
+
+    // Fetch all emails from Resend
+    const resendResponse = await resend.emails.list({ limit: 500 });
+
+    if (!resendResponse.data || !resendResponse.data.data) {
+      console.log('ℹ️  No emails found in Resend to check');
+      return 0;
+    }
+
+    // Identify suppressed emails
+    const suppressedEmails = new Set<string>();
+    resendResponse.data.data.forEach((email: any) => {
+      const lastEvent = email.last_event?.toLowerCase() || '';
+      const recipientEmail = Array.isArray(email.to) ? email.to[0] : email.to;
+
+      if (!recipientEmail) return;
+
+      // Mark as suppressed if bounced, complained, or suppressed
+      if (lastEvent === 'bounced' || lastEvent === 'complained' || lastEvent === 'suppressed') {
+        suppressedEmails.add(recipientEmail.toLowerCase());
+      }
+    });
+
+    if (suppressedEmails.size === 0) {
+      console.log('✅ No suppressed emails found');
+      return 0;
+    }
+
+    // Find and delete suppressed subscribers
+    const snapshot = await db.collection('subscribers').get();
+    let deleted = 0;
+
+    for (const doc of snapshot.docs) {
+      const email = doc.data().email?.toLowerCase();
+      if (email && suppressedEmails.has(email)) {
+        await doc.ref.delete();
+        deleted++;
+      }
+    }
+
+    if (deleted > 0) {
+      console.log(`✅ Removed ${deleted} suppressed subscriber(s) from database`);
+    }
+
+    return deleted;
+  } catch (error: any) {
+    console.warn('⚠️  Failed to clean suppressed emails:', error.message);
+    console.log('Continuing with email send anyway...');
+    return 0;
+  }
+}
 
 function initAdminFirestore(): admin.firestore.Firestore {
   if (admin.apps.length) {
@@ -74,6 +130,11 @@ async function sendNewJobAlerts() {
   }
 
   try {
+    // Clean suppressed emails first
+    const resend = new Resend(process.env.RESEND_API_KEY);
+    await cleanSuppressedEmails(db, resend);
+    console.log('');
+
     // Fetch subscribers via Admin SDK (bypasses Firestore security rules)
     console.log('📥 Fetching subscribers...');
     const snapshot = await db.collection('subscribers').get();
@@ -144,6 +205,43 @@ async function sendNewJobAlerts() {
     console.log(`Failed: ${result.failed}`);
     console.log(`Total subscribers: ${emails.length}`);
     console.log(`Jobs included: ${newJobs.length}`);
+    
+    // Log delivery metrics to console for monitoring
+    console.log('');
+    console.log('📊 DELIVERY DETAILS:');
+    if (result.failed > 0) {
+      console.log('Failed sends:');
+      result.details
+        .filter(d => !d.success)
+        .forEach(d => {
+          console.log(`  ❌ ${d.email}: ${d.error}`);
+        });
+    }
+    
+    // Save detailed metrics to file for tracking
+    const metricsFile = `delivery-metrics-${new Date().toISOString().split('T')[0]}.json`;
+    const metrics = {
+      timestamp: new Date().toISOString(),
+      summary: {
+        sent: result.sent,
+        failed: result.failed,
+        total: emails.length,
+        jobsIncluded: newJobs.length,
+        successRate: ((result.sent / emails.length) * 100).toFixed(2) + '%',
+      },
+      jobs: newJobs.map(j => ({ title: j.title, company: j.company })),
+      deliveries: result.details.map(d => ({
+        email: d.email,
+        success: d.success,
+        messageId: d.messageId,
+        error: d.error,
+        timestamp: d.timestamp,
+      })),
+    };
+    
+    const fs = await import('fs');
+    fs.writeFileSync(metricsFile, JSON.stringify(metrics, null, 2));
+    console.log(`\n📁 Detailed metrics saved to: ${metricsFile}`);
 
   } catch (error: any) {
     console.error('❌ Error:', error.message);

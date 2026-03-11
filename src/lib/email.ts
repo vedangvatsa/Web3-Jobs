@@ -21,7 +21,7 @@ export interface JobListing {
 export async function sendJobAlertEmail(
   to: string,
   jobs: JobListing[]
-): Promise<{ success: boolean; error?: string }> {
+): Promise<{ success: boolean; messageId?: string; error?: string; timestamp?: string }> {
   try {
     if (!process.env.RESEND_API_KEY) {
       console.error('RESEND_API_KEY is not configured');
@@ -63,26 +63,56 @@ export async function sendJobAlertEmail(
 
     if (error) {
       console.error('Resend error:', error);
-      return { success: false, error: error.message };
+      return { success: false, error: error.message, timestamp: new Date().toISOString() };
     }
 
-    return { success: true };
+    return { 
+      success: true, 
+      messageId: data?.id,
+      timestamp: new Date().toISOString()
+    };
   } catch (error: any) {
     console.error('Failed to send email:', error);
-    return { success: false, error: error.message };
+    return { success: false, error: error.message, timestamp: new Date().toISOString() };
   }
 }
 
 export async function sendBatchJobAlerts(
   emails: string[],
   jobs: JobListing[]
-): Promise<{ sent: number; failed: number }> {
+): Promise<{ 
+  sent: number; 
+  failed: number;
+  details: Array<{
+    email: string;
+    success: boolean;
+    messageId?: string;
+    error?: string;
+    timestamp: string;
+  }>;
+}> {
   let sent = 0;
   let failed = 0;
+  const details: Array<{
+    email: string;
+    success: boolean;
+    messageId?: string;
+    error?: string;
+    timestamp: string;
+  }> = [];
 
   // Send in batches to avoid rate limits
   for (const email of emails) {
     const result = await sendJobAlertEmail(email, jobs);
+    
+    details.push({
+      email,
+      success: result.success,
+      messageId: result.messageId,
+      error: result.error,
+      timestamp: result.timestamp || new Date().toISOString(),
+    });
+
     if (result.success) {
       sent++;
     } else {
@@ -92,7 +122,7 @@ export async function sendBatchJobAlerts(
     await new Promise(resolve => setTimeout(resolve, 100));
   }
 
-  return { sent, failed };
+  return { sent, failed, details };
 }
 
 function generateJobAlertHTML(jobs: JobListing[]): string {
