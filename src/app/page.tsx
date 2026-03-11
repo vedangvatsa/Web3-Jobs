@@ -96,29 +96,83 @@ export default async function JobsPage() {
                     </p>
                     
                     <p className="mb-6">
-                      Hashtag Web3 connects professionals with opportunities at blockchain companies, DAOs, DeFi protocols, and crypto startups. We aggregate verified job listings from leading organizations including <strong className="text-foreground">Uniswap Labs, Anchorage Digital, Coinbase, and Aave</strong> — updated daily.
+                      Hashtag Web3 connects professionals with opportunities at blockchain companies, DAOs, DeFi protocols, and crypto startups. We aggregate verified job listings from leading organizations including{' '}
+                      <Link href="https://uniswap.org" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">Uniswap Labs</Link>
+                      {', '}
+                      <Link href="https://anchorage.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">Anchorage Digital</Link>
+                      {', '}
+                      <Link href="https://coinbase.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">Coinbase</Link>
+                      {', and '}
+                      <Link href="https://aave.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">Aave</Link>
+                      {' — updated daily.'}
                     </p>
                     
                     <div className="mb-6">
                       <h3 className="font-semibold text-foreground mb-3">Why Hashtag Web3?</h3>
                       <ul className="space-y-2 ml-4 list-disc text-muted-foreground">
-                        <li><strong className="text-foreground">500+ Career Guides</strong> covering Web3 roles, transitions, and industry trends</li>
-                        <li><strong className="text-foreground">200+ Blockchain Glossary Terms</strong> with detailed definitions and examples</li>
-                        <li><strong className="text-foreground">Daily Updated Jobs</strong> across engineering, product, marketing, legal, and operations</li>
-                        <li><strong className="text-foreground">60,000+ Subscribers</strong> on our real-time Telegram hiring channel</li>
-                        <li><strong className="text-foreground">Free Tools:</strong> Salary calculator, resume builder, and interview question bank</li>
+                        <li>
+                          <Link href="/guides" className="text-blue-600 hover:text-blue-800 underline">
+                            <strong className="text-foreground">500+ Career Guides</strong>
+                          </Link>
+                          {' covering Web3 roles, transitions, and industry trends'}
+                        </li>
+                        <li>
+                          <Link href="/glossary" className="text-blue-600 hover:text-blue-800 underline">
+                            <strong className="text-foreground">200+ Blockchain Glossary Terms</strong>
+                          </Link>
+                          {' with detailed definitions and examples'}
+                        </li>
+                        <li>
+                          <Link href="/jobs" className="text-blue-600 hover:text-blue-800 underline">
+                            <strong className="text-foreground">Daily Updated Jobs</strong>
+                          </Link>
+                          {' across engineering, product, marketing, legal, and operations'}
+                        </li>
+                        <li>
+                          <Link href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">
+                            <strong className="text-foreground">60,000+ Subscribers</strong>
+                          </Link>
+                          {' on our real-time Telegram hiring channel'}
+                        </li>
+                        <li>
+                          <strong className="text-foreground">
+                            <Link href="/tools" className="text-blue-600 hover:text-blue-800 underline">Free Tools:</Link>
+                          </strong>
+                          {' '}
+                          <Link href="/tools/salary-calculator" className="text-blue-600 hover:text-blue-800 underline">Salary calculator</Link>
+                          {', '}
+                          <Link href="/tools/resume-builder" className="text-blue-600 hover:text-blue-800 underline">resume builder</Link>
+                          {', and '}
+                          <Link href="/tools/interview-questions" className="text-blue-600 hover:text-blue-800 underline">interview question bank</Link>
+                        </li>
                       </ul>
                     </div>
                     
                     <div className="mb-6">
-                      <h3 className="font-semibold text-foreground mb-2">Web3 Compensation</h3>
+                      <h3 className="font-semibold text-foreground mb-2">
+                        <Link href="/guides/web3-salaries" className="text-blue-600 hover:text-blue-800 underline">Web3 Compensation</Link>
+                      </h3>
                       <p>
-                        Web3 roles typically pay <strong className="text-foreground">20–40% more</strong> than equivalent Web2 positions, with salaries ranging from <strong className="text-foreground">$80,000–$250,000+</strong>. Solidity engineers and smart contract auditors command the highest premiums due to talent scarcity.
+                        Web3 roles typically pay <strong className="text-foreground">20–40% more</strong> than equivalent Web2 positions, with salaries ranging from <strong className="text-foreground">$80,000–$250,000+</strong>. {' '}
+                        <Link href="/tools/salary-calculator" className="text-blue-600 hover:text-blue-800 underline">Solidity engineers and smart contract auditors</Link>
+                        {' command the highest premiums due to talent scarcity.'}
                       </p>
                     </div>
                     
                     <p className="text-base font-medium text-foreground">
-                      Get started today. Browse open roles, explore our guides, or join our community to discover your next Web3 opportunity.
+                      Get started today.{' '}
+                      <Link href="/jobs" className="text-blue-600 hover:text-blue-800 underline">
+                        Browse open roles
+                      </Link>
+                      , {' '}
+                      <Link href="/guides" className="text-blue-600 hover:text-blue-800 underline">
+                        explore our guides
+                      </Link>
+                      , or{' '}
+                      <Link href="https://discord.gg/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">
+                        join our community
+                      </Link>
+                      {' '}to discover your next Web3 opportunity.
                     </p>
                   </section>
               </div>
