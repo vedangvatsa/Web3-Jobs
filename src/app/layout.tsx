@@ -110,7 +110,7 @@ export default async function RootLayout({
     name: 'Hashtag Web3',
     url: siteConfig.url,
     logo: `${siteConfig.url}/icon.png`,
-    description: 'Hashtag Web3 is a Web3 job board and career resource platform connecting blockchain, crypto, DeFi, and DAO professionals with job opportunities. The platform lists thousands of Web3 jobs, maintains a 200+ term glossary, and publishes career guides for the Web3 industry.',
+    description: 'Hashtag Web3 is the leading Web3 job board and career resource platform, connecting blockchain engineers, DeFi developers, smart contract auditors, and Web3 professionals with verified opportunities at top crypto companies, DAOs, and blockchain protocols. The platform features 500+ career guides, a 200+ term blockchain glossary, salary calculators, resume builders, and interview preparation resources. Trusted by 60,000+ professionals across Telegram, Discord, and LinkedIn. Hashtag Web3 has helped thousands transition from Web2 to Web3 careers and advance within the blockchain industry. Founded in 2022, the platform aggregates daily-updated jobs from leading organizations including Uniswap Labs, Coinbase, Aave, and Anchorage Digital.',
     foundingDate: '2022',
     sameAs: [
       'https://x.com/hashtag_web3',
@@ -119,6 +119,15 @@ export default async function RootLayout({
       'https://sg.linkedin.com/company/hashtagweb3',
       'https://t.me/web3hiring',
     ],
+    speakableSpecification: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: [
+        '.hero-headline',
+        'section[data-section="about"]',
+        'h1',
+        'h2',
+      ],
+    },
   };
 
   return (
