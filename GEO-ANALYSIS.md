@@ -213,6 +213,31 @@ This single paragraph is ~150 words, follows a direct "X is..." structure, inclu
 
 ---
 
+## Current Progress (What’s Done vs. What’s Still Needed)
+
+### ✅ Completed actions
+- **Duplicate key warning fix** – Updated `src/components/job-board.tsx` to use unique React keys (`${job.id}-${i}`).
+- **Job cache update** – Refreshed `.cache/jobs-cache.json` with latest job data.
+- **Fluff removal** – Bulk cleanup of marketing fluff across 182 articles (see `COMPLETE_FLUFF_REMOVAL_REPORT.md`).
+- **SEO audit strengths** – Implemented sitemap, robots.txt (generic allow‑all), canonical URLs, HTTPS, meta tags, and extensive schema markup (`WebSite`, `Organization`, `JobPosting`, etc.).
+- **Schema basics** – `DefinedTerm` schema present for glossary entries; `JobPosting` schema present for job listings.
+
+### ❌ Pending actions
+- **Create Wikipedia article** – No Wikipedia presence yet.
+- **Establish Reddit presence** – No Reddit activity detected.
+- **Add homepage prose block** – Homepage still lacks a citable introductory paragraph.
+- **Add human author bylines** – Blog articles still list `Hashtag Web3` as the author.
+- **Expand glossary entries** – Only 10 entries expanded; ~133 still need to reach 140‑160 words with citations.
+- **Add FAQPage schema** – FAQ sections exist but lack `FAQPage` schema markup; needs implementation across all blog articles.
+- **Expand FAQ answers** – Partially done; some answers are 50-80+ words, but inconsistent; needs standardization to reach 80-120 word minimum across all articles.
+- **Enhance llms.txt** – 80% complete; has intro paragraph (150+ words), Key Facts (10 entries), Main URLs, Career Tools, HR & Hiring Tools, and full Articles & Guides list. Minor gaps: explicit "citation format" guidance and "Usage" section for AI systems.
+- **Update robots.txt** – Currently generic; needs explicit `Allow:` entries for major AI crawlers (GPTBot, PerplexityBot, ClaudeBot, etc.).
+- **Add `SameAs` links to Organization schema** – Links to LinkedIn, X, Telegram, etc., not yet added.
+
+---
+
+---
+
 ## Schema Recommendations
 
 ### Currently Present (Positive)

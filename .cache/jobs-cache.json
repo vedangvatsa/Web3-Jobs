@@ -1,5 +1,845 @@
 [
   {
+    "id": "https://jobs.solana.com/companies/joyride-labs/jobs/70099706-founding-principal-engineer#content",
+    "title": "Founding Principal Engineer",
+    "company": "Joyride Labs",
+    "link": "https://jobs.solana.com/companies/joyride-labs/jobs/70099706-founding-principal-engineer#content",
+    "date": "2026-03-11T07:23:27.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/joyride-labs/jobs/70099703-head-of-growth#content",
+    "title": "Head of Growth",
+    "company": "Joyride Labs",
+    "link": "https://jobs.solana.com/companies/joyride-labs/jobs/70099703-head-of-growth#content",
+    "date": "2026-03-11T07:08:27.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.gem.com/ondo-finance/am9icG9zdDpQImQuH_6mPobW1gdu9PZF?utm_source=jobs.panteracapital.com",
+    "title": "Chief Technology Officer",
+    "company": "Ondo Finance",
+    "link": "https://jobs.gem.com/ondo-finance/am9icG9zdDpQImQuH_6mPobW1gdu9PZF?utm_source=jobs.panteracapital.com",
+    "date": "2026-03-11T06:53:48.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "http://veem.applytojob.com/apply/YLUrZkU7qd/Director-Of-Finance-FPA",
+    "title": "Director of Finance (FP&A)",
+    "company": "Veem",
+    "link": "http://veem.applytojob.com/apply/YLUrZkU7qd/Director-Of-Finance-FPA",
+    "date": "2026-03-11T06:38:48.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7661155?gh_jid=7661155",
+    "title": "Manager, Software Engineering (AI Platform Engineering )",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7661155?gh_jid=7661155",
+    "date": "2026-03-11T06:23:48.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70089068-senior-frontend-infrastructure-engineer#content",
+    "title": "Senior Frontend Infrastructure Engineer",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70089068-senior-frontend-infrastructure-engineer#content",
+    "date": "2026-03-11T02:25:20.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/70081706-engineering-manager#content",
+    "title": "Engineering Manager",
+    "company": "Mesh",
+    "link": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/70081706-engineering-manager#content",
+    "date": "2026-03-11T02:25:19.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/70077229-solana-networking-performance-engineer#content",
+    "title": "Solana Networking/Performance Engineer",
+    "company": "Temporal",
+    "link": "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/70077229-solana-networking-performance-engineer#content",
+    "date": "2026-03-11T02:14:45.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/70077211-head-of-marketing-and-strategy#content",
+    "title": "Head of Marketing and Strategy",
+    "company": "Temporal",
+    "link": "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/70077211-head-of-marketing-and-strategy#content",
+    "date": "2026-03-11T01:59:45.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/70077215-solana-engineer#content",
+    "title": "Solana Engineer",
+    "company": "Temporal",
+    "link": "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/70077215-solana-engineer#content",
+    "date": "2026-03-11T01:44:45.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073418-people-business-partner-corporate#content",
+    "title": "People Business Partner, Corporate",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073418-people-business-partner-corporate#content",
+    "date": "2026-03-11T00:55:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/70036580-user-growth-specialist#content",
+    "title": "User Growth Specialist (유저 그로스 스페셜리스트)",
+    "company": "WOO Network",
+    "link": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/70036580-user-growth-specialist#content",
+    "date": "2026-03-11T00:45:21.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/OpenSea/5dd18568-21bf-4e14-a9d9-869c48bfa02f?utm_source=jobs.paradigm.xyz",
+    "title": "Senior Counsel, Legal & Compliance",
+    "company": "OpenSea",
+    "link": "https://jobs.ashbyhq.com/OpenSea/5dd18568-21bf-4e14-a9d9-869c48bfa02f?utm_source=jobs.paradigm.xyz",
+    "date": "2026-03-11T00:41:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073422-product-control-lead#content",
+    "title": "Product Control Lead",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073422-product-control-lead#content",
+    "date": "2026-03-11T00:40:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/70031634-hr-generalist#content",
+    "title": "HR Generalist",
+    "company": "Hedera Hashgraph",
+    "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/70031634-hr-generalist#content",
+    "date": "2026-03-11T00:35:44.000Z",
+    "source": "Jobs | Hedera Hashgraph Job Board"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7701990?gh_jid=7701990",
+    "title": "Staff Software Engineer, Infrastructure - Platform Compute",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7701990?gh_jid=7701990",
+    "date": "2026-03-11T00:34:51.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/70036577-event-campaign-specialist#content",
+    "title": "Event & Campaign Specialist (이벤트 및 캠페인 스페셜리스트)",
+    "company": "WOO Network",
+    "link": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/70036577-event-campaign-specialist#content",
+    "date": "2026-03-11T00:30:21.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/equity-trader-at-citadel-securities-4382079951",
+    "title": "Equity Trader",
+    "company": "Citadel Securities",
+    "link": "https://www.linkedin.com/jobs/view/equity-trader-at-citadel-securities-4382079951",
+    "date": "2026-03-11T00:26:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073413-member-of-technical-staff-wealth-technical-lead#content",
+    "title": "Member of Technical Staff, Wealth (Technical Lead)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073413-member-of-technical-staff-wealth-technical-lead#content",
+    "date": "2026-03-11T00:25:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://bitso.com/jobs/7660690003?gh_jid=7660690003",
+    "title": "Technical Customer Support Analyst",
+    "company": "Bitso",
+    "link": "https://bitso.com/jobs/7660690003?gh_jid=7660690003",
+    "date": "2026-03-11T00:19:51.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Talos-Trading/05a41adc-f919-4280-af71-b5df029c5fb2?utm_source=jobs.a16z.com",
+    "title": "Product & Business Development, Tokenized Treasuries",
+    "company": "Talos",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/05a41adc-f919-4280-af71-b5df029c5fb2?utm_source=jobs.a16z.com",
+    "date": "2026-03-11T00:19:51.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/70036572-affiliate-bd-manager#content",
+    "title": "Affiliate BD Manager (제휴 사업 개발 및 관리)",
+    "company": "WOO Network",
+    "link": "https://jobs.dragonfly.xyz/companies/woo-network-2/jobs/70036572-affiliate-bd-manager#content",
+    "date": "2026-03-11T00:15:21.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073406-member-of-technical-staff-foundation-backend-engineer#content",
+    "title": "Member of Technical Staff, Foundation (Backend Engineer)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073406-member-of-technical-staff-foundation-backend-engineer#content",
+    "date": "2026-03-11T00:10:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/certik-2-b8331f10-b1b8-44e2-b9d6-96cbae526d14/jobs/70045086-communications-manager#content",
+    "title": "Communications Manager",
+    "company": "CertiK",
+    "link": "https://coinbase.getro.com/companies/certik-2-b8331f10-b1b8-44e2-b9d6-96cbae526d14/jobs/70045086-communications-manager#content",
+    "date": "2026-03-11T00:07:52.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/3e25b920-1bc0-430c-8a85-47e6355e797f?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Member of People Operations",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/3e25b920-1bc0-430c-8a85-47e6355e797f?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-03-11T00:04:51.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073409-member-of-technical-staff-security-operations#content",
+    "title": "Member of Technical Staff, Security Operations",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073409-member-of-technical-staff-security-operations#content",
+    "date": "2026-03-10T23:55:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073401-member-of-product-custody#content",
+    "title": "Member of Product, Custody",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073401-member-of-product-custody#content",
+    "date": "2026-03-10T23:40:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.morpho.org/o/senior-executive-assistant-2",
+    "title": "Senior Executive Assistant",
+    "company": "Morpho Labs",
+    "link": "https://jobs.morpho.org/o/senior-executive-assistant-2",
+    "date": "2026-03-10T23:34:51.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/mystenlabs/437ed585-7bff-474a-ac2c-d88fc433675d?utm_source=jobs.a16z.com",
+    "title": "Senior Product Designer",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/437ed585-7bff-474a-ac2c-d88fc433675d?utm_source=jobs.a16z.com",
+    "date": "2026-03-10T23:34:51.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/fireblocks/jobs/4656954006",
+    "title": "Frontline Support Engineer, APAC",
+    "company": "Fireblocks",
+    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4656954006",
+    "date": "2026-03-10T23:26:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073387-member-of-people-operations#content",
+    "title": "Member of People Operations",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073387-member-of-people-operations#content",
+    "date": "2026-03-10T22:55:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/exodus-2/jobs/70013661-security-engineer#content",
+    "title": "Security Engineer",
+    "company": "Exodus",
+    "link": "https://jobs.solana.com/companies/exodus-2/jobs/70013661-security-engineer#content",
+    "date": "2026-03-10T22:48:49.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073373-member-of-global-risk-management-financial-risk#content",
+    "title": "Member of Global Risk Management, Financial Risk",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073373-member-of-global-risk-management-financial-risk#content",
+    "date": "2026-03-10T22:40:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/70008820-lead-product-manager-card-issuing#content",
+    "title": "Lead Product Manager - Card Issuing",
+    "company": "Breeze",
+    "link": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/70008820-lead-product-manager-card-issuing#content",
+    "date": "2026-03-10T22:36:24.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008228-senior-frontend-engineer#content",
+    "title": "Senior Frontend Engineer",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008228-senior-frontend-engineer#content",
+    "date": "2026-03-10T22:36:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/tactic-2/jobs/70000056-senior-product-manager-developer-experience-tax-documentation#content",
+    "title": "Senior Product Manager - Developer Experience (Tax Documentation)",
+    "company": "Tactic",
+    "link": "https://coinbase.getro.com/companies/tactic-2/jobs/70000056-senior-product-manager-developer-experience-tax-documentation#content",
+    "date": "2026-03-10T22:32:07.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073380-member-of-legal-operations#content",
+    "title": "Member of Legal Operations",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073380-member-of-legal-operations#content",
+    "date": "2026-03-10T22:25:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/70008817-director-of-partnerships-banking-and-payments#content",
+    "title": "Director of Partnerships - Banking and Payments",
+    "company": "Breeze",
+    "link": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/70008817-director-of-partnerships-banking-and-payments#content",
+    "date": "2026-03-10T22:21:24.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008231-senior-smart-contract-engineer#content",
+    "title": "Senior Smart Contract Engineer",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008231-senior-smart-contract-engineer#content",
+    "date": "2026-03-10T22:21:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/tactic-2/jobs/70000053-principal-product-marketing-manager#content",
+    "title": "Principal Product Marketing Manager",
+    "company": "Tactic",
+    "link": "https://coinbase.getro.com/companies/tactic-2/jobs/70000053-principal-product-marketing-manager#content",
+    "date": "2026-03-10T22:17:07.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073376-member-of-internal-audit#content",
+    "title": "Member of Internal Audit",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073376-member-of-internal-audit#content",
+    "date": "2026-03-10T22:10:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008233-phd-research-fellow#content",
+    "title": "PhD Research Fellow",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008233-phd-research-fellow#content",
+    "date": "2026-03-10T22:06:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/tactic-2/jobs/70000048-principal-product-manager-global-expansion#content",
+    "title": "Principal Product Manager - Global Expansion",
+    "company": "Tactic",
+    "link": "https://coinbase.getro.com/companies/tactic-2/jobs/70000048-principal-product-manager-global-expansion#content",
+    "date": "2026-03-10T22:02:07.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073369-member-of-client-experience-sales-support#content",
+    "title": "Member of Client Experience, Sales Support",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073369-member-of-client-experience-sales-support#content",
+    "date": "2026-03-10T21:55:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008232-staff-backend-engineer#content",
+    "title": "Staff Backend Engineer",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008232-staff-backend-engineer#content",
+    "date": "2026-03-10T21:51:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073364-member-of-asset-management-business-analyst#content",
+    "title": "Member of Asset Management, Business Analyst",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/70073364-member-of-asset-management-business-analyst#content",
+    "date": "2026-03-10T21:40:49.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008224-backend-engineer-unichain#content",
+    "title": "Backend Engineer - Unichain",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008224-backend-engineer-unichain#content",
+    "date": "2026-03-10T21:36:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008225-senior-backend-engineer#content",
+    "title": "Senior Backend Engineer",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008225-senior-backend-engineer#content",
+    "date": "2026-03-10T21:21:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008226-senior-backend-engineer-platform#content",
+    "title": "Senior Backend Engineer, Platform",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008226-senior-backend-engineer-platform#content",
+    "date": "2026-03-10T21:06:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008222-senior-product-designer#content",
+    "title": "Senior Product Designer",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.arbitrum.io/companies/uniswap-labs-2/jobs/70008222-senior-product-designer#content",
+    "date": "2026-03-10T20:51:21.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69880115-operations-lead#content",
+    "title": "Operations Lead",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69880115-operations-lead#content",
+    "date": "2026-03-10T19:00:24.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/69877441-corporate-development-analyst-new-york-ny-remote#content",
+    "title": "Corporate Development Analyst New York, NY, Remote",
+    "company": "Rain",
+    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/69877441-corporate-development-analyst-new-york-ny-remote#content",
+    "date": "2026-03-10T18:59:19.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Intern--Product-Management_JR100924",
+    "title": "Intern, Product Management",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Intern--Product-Management_JR100924",
+    "date": "2026-03-10T18:43:42.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/mesh/jobs/5147314008",
+    "title": "Cloud Security Engineer",
+    "company": "Mesh",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5147314008",
+    "date": "2026-03-10T18:43:42.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/fedcf647-fbf5-4036-8f95-f372920dd3de?lever-source%5B%5D=jobs.a16z.com",
+    "title": "People Business Partner, Corporate",
+    "company": "Anchorage",
+    "link": "https://jobs.lever.co/anchorage/fedcf647-fbf5-4036-8f95-f372920dd3de?lever-source%5B%5D=jobs.a16z.com",
+    "date": "2026-03-10T18:35:44.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/4799517101",
+    "title": "Account Executive",
+    "company": "BCB Group",
+    "link": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/4799517101",
+    "date": "2026-03-10T18:13:42.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/lido-2/jobs/69862890-institutional-growth-lead-usainstitutional-relations#content",
+    "title": "Institutional Growth Lead - USAInstitutional Relations",
+    "company": "Lido",
+    "link": "https://jobs.multicoin.capital/companies/lido-2/jobs/69862890-institutional-growth-lead-usainstitutional-relations#content",
+    "date": "2026-03-10T17:43:46.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://fr.linkedin.com/jobs/view/compliance-officer-money-laundering-reporting-officer-mlro-at-merge-4368061746?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
+    "title": "Compliance Officer & Money Laundering Reporting Officer (MLRO)",
+    "company": "Merge",
+    "link": "https://fr.linkedin.com/jobs/view/compliance-officer-money-laundering-reporting-officer-mlro-at-merge-4368061746?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
+    "date": "2026-03-10T17:39:15.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/lido-2/jobs/69862888-curation-team-lead-lido-earnliquidity-treasury#content",
+    "title": "Curation Team Lead - Lido EarnLiquidity & Treasury",
+    "company": "Lido",
+    "link": "https://jobs.multicoin.capital/companies/lido-2/jobs/69862888-curation-team-lead-lido-earnliquidity-treasury#content",
+    "date": "2026-03-10T17:28:46.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://fr.linkedin.com/jobs/view/gtm-strategy-execution-growth-at-merge-4370029708?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
+    "title": "GTM Strategy & Execution (Growth)",
+    "company": "Merge",
+    "link": "https://fr.linkedin.com/jobs/view/gtm-strategy-execution-growth-at-merge-4370029708?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
+    "date": "2026-03-10T17:24:15.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/merge-2-c7c09650-c1fc-495c-99e1-170c251e95cd/jobs/69850819-head-of-content-marketing#content",
+    "title": "Head of Content Marketing",
+    "company": "Merge",
+    "link": "https://coinbase.getro.com/companies/merge-2-c7c09650-c1fc-495c-99e1-170c251e95cd/jobs/69850819-head-of-content-marketing#content",
+    "date": "2026-03-10T17:09:15.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/usd-ai/jobs/69838987-marketing-manager-new-york#content",
+    "title": "Marketing Manager (New York)",
+    "company": "USD.AI",
+    "link": "https://jobs.arbitrum.io/companies/usd-ai/jobs/69838987-marketing-manager-new-york#content",
+    "date": "2026-03-10T14:01:32.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/forta-protocol/jobs/69827112-backend-developer#content",
+    "title": "Backend Developer",
+    "company": "Forta Protocol",
+    "link": "https://coinbase.getro.com/companies/forta-protocol/jobs/69827112-backend-developer#content",
+    "date": "2026-03-10T13:43:44.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/oxio/jobs/69827023-qa-tester#content",
+    "title": "QA Tester",
+    "company": "OXIO",
+    "link": "https://jobs.multicoin.capital/companies/oxio/jobs/69827023-qa-tester#content",
+    "date": "2026-03-10T13:11:13.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/69802214-support-group-lead#content",
+    "title": "Support Group Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/69802214-support-group-lead#content",
+    "date": "2026-03-10T11:58:00.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/69802211-ml-risk-compliance-lead#content",
+    "title": "ML Risk & Compliance Lead",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/69802211-ml-risk-compliance-lead#content",
+    "date": "2026-03-10T11:43:00.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/69802209-head-of-marketing#content",
+    "title": "Head of Marketing",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/69802209-head-of-marketing#content",
+    "date": "2026-03-10T11:28:00.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/69796555-director-partnerships-and-executive-programming#content",
+    "title": "Director, Partnerships and Executive Programming",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/69796555-director-partnerships-and-executive-programming#content",
+    "date": "2026-03-10T10:54:58.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/69796553-manager-partnerships#content",
+    "title": "Manager, Partnerships",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/69796553-manager-partnerships#content",
+    "date": "2026-03-10T10:39:58.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.indeed.com/viewjob?jk=eb981d9be381be6e&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Senior Manager, Business Systems",
+    "company": "Indeed",
+    "link": "https://www.indeed.com/viewjob?jk=eb981d9be381be6e&utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-03-10T10:09:58.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/1a618eed-ff58-4a77-b426-355870949387?utm_source=jobs.a16z.com",
+    "title": "Operations Lead",
+    "company": "Worldcoin",
+    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/1a618eed-ff58-4a77-b426-355870949387?utm_source=jobs.a16z.com",
+    "date": "2026-03-10T00:44:12.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/blackbird-labs-inc/9a2e66b8-96d0-45bc-b54c-3472f76d19b7?utm_source=jobs.a16z.com",
+    "title": "Senior Platform Engineer, Infrastructure & AI",
+    "company": "Blackbird",
+    "link": "https://jobs.ashbyhq.com/blackbird-labs-inc/9a2e66b8-96d0-45bc-b54c-3472f76d19b7?utm_source=jobs.a16z.com",
+    "date": "2026-03-10T00:29:12.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/alchemy/jobs/4670683005",
+    "title": "Head of GTM",
+    "company": "Alchemy",
+    "link": "https://job-boards.greenhouse.io/alchemy/jobs/4670683005",
+    "date": "2026-03-10T00:24:29.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/bitgo/jobs/8130548002",
+    "title": "Customer Success Manager (EMEA)",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8130548002",
+    "date": "2026-03-09T23:54:29.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/kalshi/2f7ca4d5-c915-4c2b-b38e-85941e4237b6?utm_source=jobs.paradigm.xyz",
+    "title": "Kalshi Research Intern",
+    "company": "Kalshi",
+    "link": "https://jobs.ashbyhq.com/kalshi/2f7ca4d5-c915-4c2b-b38e-85941e4237b6?utm_source=jobs.paradigm.xyz",
+    "date": "2026-03-09T18:51:02.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Lido.fi/00380ba2-09f5-4659-b9ec-e19da564c170?utm_source=jobs.paradigm.xyz",
+    "title": "Curation Team Lead - Lido Earn",
+    "company": "Lido",
+    "link": "https://jobs.ashbyhq.com/Lido.fi/00380ba2-09f5-4659-b9ec-e19da564c170?utm_source=jobs.paradigm.xyz",
+    "date": "2026-03-09T18:36:02.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/1inch/a7f5fb0b-43f1-4c38-a302-1b57fbd83244?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Head of Finance",
+    "company": "1inch Network",
+    "link": "https://jobs.lever.co/1inch/a7f5fb0b-43f1-4c38-a302-1b57fbd83244?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-03-09T18:36:01.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/offchainlabs/af4b9a90-3d59-4aae-8c89-c6c0fdad534a?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Accounting Manager",
+    "company": "Offchain Labs",
+    "link": "https://jobs.lever.co/offchainlabs/af4b9a90-3d59-4aae-8c89-c6c0fdad534a?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-03-09T18:21:01.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/bvnk/jobs/69758048-financial-crime-compliance-product-manager#content",
+    "title": "Financial Crime & Compliance Product Manager",
+    "company": "BVNK",
+    "link": "https://coinbase.getro.com/companies/bvnk/jobs/69758048-financial-crime-compliance-product-manager#content",
+    "date": "2026-03-09T13:02:50.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/bvnk/jobs/69758046-business-operations-strategy-manager#content",
+    "title": "Business Operations & Strategy Manager",
+    "company": "BVNK",
+    "link": "https://coinbase.getro.com/companies/bvnk/jobs/69758046-business-operations-strategy-manager#content",
+    "date": "2026-03-09T12:47:50.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/69754480-ai-operations-lead-new-york-ny-remote#content",
+    "title": "AI Operations Lead New York, NY, Remote",
+    "company": "Rain",
+    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/69754480-ai-operations-lead-new-york-ny-remote#content",
+    "date": "2026-03-09T12:32:50.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/skymavis/537e3bd8-3f42-47c7-b885-e74b07440628?utm_source=jobs.a16z.com",
+    "title": "Senior Product Designer",
+    "company": "Sky Mavis",
+    "link": "https://jobs.ashbyhq.com/skymavis/537e3bd8-3f42-47c7-b885-e74b07440628?utm_source=jobs.a16z.com",
+    "date": "2026-03-09T09:36:12.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69599736-director-of-ai-biometrics#content",
+    "title": "Director of AI & Biometrics",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69599736-director-of-ai-biometrics#content",
+    "date": "2026-03-07T22:41:54.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69522408-software-engineer-full-stack#content",
+    "title": "Software Engineer, Full Stack",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69522408-software-engineer-full-stack#content",
+    "date": "2026-03-07T22:32:06.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69522417-staff-backend-engineer#content",
+    "title": "Staff Backend Engineer",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69522417-staff-backend-engineer#content",
+    "date": "2026-03-07T22:26:54.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69522403-senior-software-engineer-ios#content",
+    "title": "Senior Software Engineer, iOS",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69522403-senior-software-engineer-ios#content",
+    "date": "2026-03-07T22:17:06.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69522413-full-stack-software-engineer-world-id#content",
+    "title": "Full Stack Software Engineer, World ID",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69522413-full-stack-software-engineer-world-id#content",
+    "date": "2026-03-07T22:11:54.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69522414-product-marketing-lead-world-id#content",
+    "title": "Product Marketing Lead - World ID",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69522414-product-marketing-lead-world-id#content",
+    "date": "2026-03-07T21:56:54.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69522410-tfh-engineering-fellowship#content",
+    "title": "TFH Engineering Fellowship",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69522410-tfh-engineering-fellowship#content",
+    "date": "2026-03-07T21:41:54.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69522407-software-engineer-backend-cloud#content",
+    "title": "Software Engineer, Backend & Cloud",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69522407-software-engineer-backend-cloud#content",
+    "date": "2026-03-07T21:26:54.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/world-2/jobs/69522399-senior-software-engineer-android-financial-products#content",
+    "title": "Senior Software Engineer, Android Financial Products",
+    "company": "World",
+    "link": "https://jobs.multicoin.capital/companies/world-2/jobs/69522399-senior-software-engineer-android-financial-products#content",
+    "date": "2026-03-07T21:11:54.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/69593475-director-of-government-relations-district-of-columbia#content",
+    "title": "Director of Government Relations District of Columbia",
+    "company": "Rain",
+    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/69593475-director-of-government-relations-district-of-columbia#content",
+    "date": "2026-03-07T21:08:55.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/69591124-blockchain-security-researcher-future-openings#content",
+    "title": "Blockchain Security Researcher - Future Openings",
+    "company": "OpenZeppelin",
+    "link": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/69591124-blockchain-security-researcher-future-openings#content",
+    "date": "2026-03-07T19:30:28.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/filecoinfoundation/jobs/4660971006",
+    "title": "Head of Demand & Commercial Growth",
+    "company": "Filecoin Foundation",
+    "link": "https://job-boards.greenhouse.io/filecoinfoundation/jobs/4660971006",
+    "date": "2026-03-07T18:51:47.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/69576532-it-operations-associate#content",
+    "title": "IT Operations Associate",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/69576532-it-operations-associate#content",
+    "date": "2026-03-07T18:35:38.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/indeed/jobs/69576810-technical-analyst-ii#content",
+    "title": "Technical Analyst II",
+    "company": "Indeed",
+    "link": "https://jobs.multicoin.capital/companies/indeed/jobs/69576810-technical-analyst-ii#content",
+    "date": "2026-03-07T17:40:17.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/pluralfinance/d2ccf331-ce2d-4ed5-96e8-9a0de729267f?utm_source=jobs.paradigm.xyz",
+    "title": "Originations Lead",
+    "company": "Plural",
+    "link": "https://jobs.ashbyhq.com/pluralfinance/d2ccf331-ce2d-4ed5-96e8-9a0de729267f?utm_source=jobs.paradigm.xyz",
+    "date": "2026-03-07T09:46:31.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/aptoslabs/jobs/4670510005",
+    "title": "Workplace Coordinator",
+    "company": "Aptos Labs",
+    "link": "https://job-boards.greenhouse.io/aptoslabs/jobs/4670510005",
+    "date": "2026-03-07T01:04:59.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://panteracapital.com/careers/?gh_jid=5145525008",
+    "title": "IT Systems Engineer",
+    "company": "Pantera Capital",
+    "link": "https://panteracapital.com/careers/?gh_jid=5145525008",
+    "date": "2026-03-07T00:26:40.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455087-product-manager-core-protocol#content",
+    "title": "Product Manager, Core Protocol",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455087-product-manager-core-protocol#content",
+    "date": "2026-03-06T14:08:06.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455072-senior-backend-engineer#content",
+    "title": "Senior Backend Engineer",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455072-senior-backend-engineer#content",
+    "date": "2026-03-06T13:53:06.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455081-solutions-architect-lead#content",
+    "title": "Solutions Architect Lead",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455081-solutions-architect-lead#content",
+    "date": "2026-03-06T13:23:06.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455056-security-engineer#content",
+    "title": "Security Engineer",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455056-security-engineer#content",
+    "date": "2026-03-06T12:53:06.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455061-data-center-engineer-nashville#content",
+    "title": "Data Center Engineer (Nashville)",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/69455061-data-center-engineer-nashville#content",
+    "date": "2026-03-06T12:38:06.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455052-business-operations-manager#content",
+    "title": "Business Operations Manager",
+    "company": "Offchain Labs",
+    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455052-business-operations-manager#content",
+    "date": "2026-03-06T11:49:26.000Z",
+    "source": "Jobs | Spartan Group Job Board"
+  },
+  {
     "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTU0OSwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
     "title": "Manager - NPS",
     "company": "CoinDCX",
@@ -2086,61 +2926,5 @@
     "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/66987772-head-of-finance#content",
     "date": "2026-02-10T12:52:50.000Z",
     "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://www.averydennison.com/en/home/careers/employee-stories/richard-ohm.html?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
-    "title": "Richard Ohm, EHS manager, Netherlands",
-    "company": "atma.io",
-    "link": "https://www.averydennison.com/en/home/careers/employee-stories/richard-ohm.html?utm_source=Hedera+Hashgraph+job+board&utm_medium=getro.com&gh_src=Hedera+Hashgraph+job+board",
-    "date": "2026-02-09T03:55:20.000Z",
-    "source": "Jobs | Hedera Hashgraph Job Board"
-  },
-  {
-    "id": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/67104713-ai-studio-solutions-architect#content",
-    "title": "AI Studio Solutions Architect",
-    "company": "Hedera Hashgraph",
-    "link": "https://careers.hedera.community/companies/hedera-hashgraph-2/jobs/67104713-ai-studio-solutions-architect#content",
-    "date": "2026-02-07T13:14:03.000Z",
-    "source": "Jobs | Hedera Hashgraph Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/magic-2/jobs/66968814-customer-success-engineer#content",
-    "title": "Customer Success Engineer",
-    "company": "Magic",
-    "link": "https://jobs.avax.network/companies/magic-2/jobs/66968814-customer-success-engineer#content",
-    "date": "2026-02-06T12:19:12.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/tenderly/jobs/66912026-account-executive#content",
-    "title": "Account Executive",
-    "company": "Tenderly",
-    "link": "https://jobs.avax.network/companies/tenderly/jobs/66912026-account-executive#content",
-    "date": "2026-02-05T19:00:30.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://careers.hedera.community/companies/trm-labs/jobs/66831687-strategic-finance-manager-gtm#content",
-    "title": "Strategic Finance Manager, GTM",
-    "company": "TRM Labs",
-    "link": "https://careers.hedera.community/companies/trm-labs/jobs/66831687-strategic-finance-manager-gtm#content",
-    "date": "2026-02-05T11:43:27.000Z",
-    "source": "Jobs | Hedera Hashgraph Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/tenderly/jobs/66699291-engineering-director#content",
-    "title": "Engineering Director",
-    "company": "Tenderly",
-    "link": "https://jobs.avax.network/companies/tenderly/jobs/66699291-engineering-director#content",
-    "date": "2026-02-04T12:06:03.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://careers.hedera.community/companies/trm-labs/jobs/66307825-intelligence-operations-contractor#content",
-    "title": "Intelligence Operations Contractor",
-    "company": "TRM Labs",
-    "link": "https://careers.hedera.community/companies/trm-labs/jobs/66307825-intelligence-operations-contractor#content",
-    "date": "2026-02-04T11:35:45.000Z",
-    "source": "Jobs | Hedera Hashgraph Job Board"
   }
 ]
