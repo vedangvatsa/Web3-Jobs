@@ -2,33 +2,34 @@
 import { Header } from '@/components/header';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
-import { 
-    Users, 
-    GraduationCap, 
-    BookOpen, 
-    BrainCircuit, 
-    Calculator, 
+import {
+    Users,
+    GraduationCap,
+    BookOpen,
+    BrainCircuit,
+    Calculator,
     DollarSign,
-    FileSignature, 
-    FileText, 
-    Globe, 
-    ListChecks, 
-    ClipboardEdit, 
-    Mic, 
-    UserMinus, 
-    Milestone, 
-    Smile, 
+    FileSignature,
+    FileText,
+    Globe,
+    ListChecks,
+    ClipboardEdit,
+    Mic,
+    UserMinus,
+    Milestone,
+    Smile,
     Scale,
     ArrowRight,
     Lightbulb,
     CheckSquare,
     AlertTriangle,
     Wrench,
-    Code
+    ChevronRight,
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { getAllResourcePages } from '@/lib/pseo';
 import { Metadata } from 'next';
+import type { ResourcePage } from '@/types/pseo';
 
 export const metadata: Metadata = {
     title: 'Free Web3 Career Tools and Resources | Hashtag Web3',
@@ -58,121 +59,165 @@ const employerResources = [
     { href: "/company-culture-guide", label: "Company Culture Guide", icon: Users, description: "Define and document your company's values and ways of working." },
 ];
 
-const contentTypeConfig: Record<string, { label: string; icon: React.ElementType; description: string }> = {
-    ideas: { label: "Project Ideas", icon: Lightbulb, description: "Portfolio project ideas to showcase your skills" },
-    checklists: { label: "Checklists", icon: CheckSquare, description: "Step-by-step guides to ensure nothing is missed" },
-    mistakes: { label: "Common Mistakes", icon: AlertTriangle, description: "Learn from others and avoid costly pitfalls" },
-    tools: { label: "Tool Recommendations", icon: Wrench, description: "Curated tools for your development workflow" },
-    guides: { label: "How-To Guides", icon: BookOpen, description: "Comprehensive guides for essential skills" },
-    skills: { label: "Skill Roadmaps", icon: Code, description: "Learning paths for career development" },
+const contentTypeConfig: Record<string, { label: string; icon: React.ElementType }> = {
+    ideas:     { label: "Project Ideas",      icon: Lightbulb },
+    checklists:{ label: "Checklist",          icon: CheckSquare },
+    mistakes:  { label: "Common Mistakes",    icon: AlertTriangle },
+    tools:     { label: "Tool Guide",         icon: Wrench },
+    guides:    { label: "Guide",              icon: BookOpen },
 };
 
-const ResourceCard = ({ href, label, icon: Icon, description }: { href: string; label: string; icon: React.ElementType; description: string; }) => (
+// Niche display names
+const nicheLabels: Record<string, string> = {
+    'solidity-developer':       'Solidity Developer',
+    'web3-frontend-developer':  'Web3 Frontend Developer',
+    'blockchain-engineer':      'Blockchain Engineer',
+    'nft-developer':            'NFT Developer',
+    'defi-developer':           'DeFi Developer',
+    'solana-developer':         'Solana Developer',
+    'gamefi-developer':         'GameFi Developer',
+    'zk-engineer':              'ZK Engineer',
+    'smart-contract-auditor':   'Smart Contract Auditor',
+    'web3-product-manager':     'Web3 Product Manager',
+    'web3-community-manager':   'Web3 Community Manager',
+    'web3-marketer':            'Web3 Marketer',
+    'web3-devrel':              'Web3 DevRel',
+    'tokenomics-designer':      'Tokenomics Designer',
+    'dao-contributor':          'DAO Contributor',
+};
+
+const ResourceCard = ({ href, label, icon: Icon, description }: { href: string; label: string; icon: React.ElementType; description: string }) => (
     <Link href={href} className="block h-full">
-        <Card className="h-full transform transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
-            <CardHeader>
+        <Card className="h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5">
+            <CardHeader className="pb-2">
                 <div className="flex items-center gap-3">
-                    <div className="bg-primary/10 p-2 rounded-lg">
-                        <Icon className="h-6 w-6 text-primary" />
+                    <div className="bg-primary/10 p-2 rounded-lg shrink-0">
+                        <Icon className="h-5 w-5 text-primary" />
                     </div>
-                    <CardTitle className="text-base">{label}</CardTitle>
+                    <CardTitle className="text-sm font-semibold leading-tight">{label}</CardTitle>
                 </div>
             </CardHeader>
             <CardContent>
-                <p className="text-sm text-muted-foreground">{description}</p>
+                <p className="text-xs text-muted-foreground leading-relaxed">{description}</p>
             </CardContent>
         </Card>
     </Link>
 );
 
+function NicheResourceGroup({ niche, pages }: { niche: string; pages: ResourcePage[] }) {
+    const label = nicheLabels[niche] ?? niche.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    return (
+        <div className="border rounded-lg p-5">
+            <h3 className="font-semibold text-sm mb-3">{label}</h3>
+            <ul className="space-y-1">
+                {pages.map(page => {
+                    const config = contentTypeConfig[page.meta.contentType] ?? { label: page.meta.contentType, icon: BookOpen };
+                    const Icon = config.icon;
+                    return (
+                        <li key={page.seo.canonicalSlug}>
+                            <Link
+                                href={`/${page.seo.canonicalSlug}`}
+                                className="flex items-center gap-2 text-sm py-1 px-2 rounded-md hover:bg-muted transition-colors group"
+                            >
+                                <Icon className="h-3.5 w-3.5 text-muted-foreground shrink-0" />
+                                <span className="text-muted-foreground group-hover:text-foreground transition-colors">{config.label}</span>
+                                <ChevronRight className="h-3 w-3 text-muted-foreground/50 ml-auto shrink-0 opacity-0 group-hover:opacity-100 transition-opacity" />
+                            </Link>
+                        </li>
+                    );
+                })}
+            </ul>
+        </div>
+    );
+}
+
 export default function ResourcesPage() {
     const allResources = getAllResourcePages();
-    
-    // Group resources by content type
-    const resourcesByType = allResources.reduce((acc, resource) => {
-        const type = resource.meta.contentType;
-        if (!acc[type]) acc[type] = [];
-        acc[type].push(resource);
+
+    // Group by niche, then sort niches by number of resources (most first)
+    const resourcesByNiche = allResources.reduce((acc, resource) => {
+        const niche = resource.meta.niche;
+        if (!acc[niche]) acc[niche] = [];
+        acc[niche].push(resource);
         return acc;
-    }, {} as Record<string, typeof allResources>);
+    }, {} as Record<string, ResourcePage[]>);
+
+    const sortedNiches = Object.entries(resourcesByNiche).sort((a, b) => b[1].length - a[1].length);
 
     return (
         <div className="flex flex-col min-h-screen">
             <Header />
             <main className="flex-1">
                 <div className="container mx-auto px-4 py-8 md:py-16">
-                    <section className="text-center mb-12 max-w-4xl mx-auto">
+
+                    {/* Hero */}
+                    <section className="text-center mb-12 max-w-3xl mx-auto">
                         <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-                          <GraduationCap className="h-10 w-10 text-primary" />
+                            <GraduationCap className="h-10 w-10 text-primary" />
                         </div>
-                        <h1 className="text-4xl font-bold mb-4">Web3 Career Resources</h1>
+                        <h1 className="text-4xl font-bold mb-3">Web3 Career Resources</h1>
                         <p className="text-muted-foreground">
-                            A complete suite of free tools and resources for professionals and companies building in the decentralized economy.
+                            Free tools and guides for professionals building in the decentralized economy.
                         </p>
                     </section>
 
                     <div className="max-w-7xl mx-auto space-y-16">
-                        {/* Role-Specific Resources by Content Type */}
-                        {Object.entries(resourcesByType).length > 0 && (
-                            <div>
-                                <h2 className="text-3xl font-bold text-center mb-8">For Web3 Builders</h2>
-                                <p className="text-center text-muted-foreground mb-8 max-w-2xl mx-auto">
-                                    Curated resources for developers, product managers, marketers, and community builders in Web3.
-                                </p>
-                                
-                                {Object.entries(resourcesByType).map(([type, resources]) => {
-                                    const config = contentTypeConfig[type] || { label: type, icon: BookOpen, description: "" };
-                                    const TypeIcon = config.icon;
-                                    
-                                    return (
-                                        <div key={type} className="mb-8">
-                                            <div className="flex items-center gap-2 mb-4">
-                                                <TypeIcon className="h-5 w-5 text-primary" />
-                                                <h3 className="text-xl font-semibold">{config.label}</h3>
-                                            </div>
-                                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                                                {resources.map(resource => (
-                                                    <ResourceCard
-                                                        key={resource.seo.canonicalSlug}
-                                                        href={`/${resource.seo.canonicalSlug}`}
-                                                        label={resource.seo.title}
-                                                        icon={config.icon}
-                                                        description={resource.seo.description}
-                                                    />
-                                                ))}
-                                            </div>
-                                        </div>
-                                    );
-                                })}
-                            </div>
+
+                        {/* Role-specific pSEO resources — by niche */}
+                        {sortedNiches.length > 0 && (
+                            <section>
+                                <div className="mb-6">
+                                    <h2 className="text-2xl font-bold mb-1">For Web3 Builders</h2>
+                                    <p className="text-sm text-muted-foreground">
+                                        Role-specific guides, checklists, and tool recommendations.
+                                    </p>
+                                </div>
+                                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                                    {sortedNiches.map(([niche, pages]) => (
+                                        <NicheResourceGroup key={niche} niche={niche} pages={pages} />
+                                    ))}
+                                </div>
+                            </section>
                         )}
 
                         {/* For Professionals */}
-                        <div>
-                            <h2 className="text-3xl font-bold text-center mb-8">For Professionals and Job Seekers</h2>
-                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <section>
+                            <div className="mb-6">
+                                <h2 className="text-2xl font-bold mb-1">For Job Seekers</h2>
+                                <p className="text-sm text-muted-foreground">
+                                    Tools to help you find, land, and thrive in a Web3 role.
+                                </p>
+                            </div>
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
                                 {employeeResources.map(tool => <ResourceCard key={tool.label} {...tool} />)}
                             </div>
-                        </div>
+                        </section>
 
                         {/* For Employers */}
-                        <div>
-                            <h2 className="text-3xl font-bold text-center mb-8">For Employers and Hiring Managers</h2>
-                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <section>
+                            <div className="mb-6">
+                                <h2 className="text-2xl font-bold mb-1">For Hiring Teams</h2>
+                                <p className="text-sm text-muted-foreground">
+                                    Templates and tools to hire, onboard, and retain Web3 talent.
+                                </p>
+                            </div>
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
                                 {employerResources.map(tool => <ResourceCard key={tool.label} {...tool} />)}
                             </div>
-                        </div>
+                        </section>
+
                     </div>
-                    
-                    <Card className="mt-16 max-w-5xl mx-auto bg-primary/5 border-primary/20">
+
+                    {/* CTA */}
+                    <Card className="mt-16 max-w-4xl mx-auto bg-primary/5 border-primary/20">
                         <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
                             <div>
-                                <h3 className="text-xl font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
-                                <p className="text-muted-foreground">Now that you have the resources, find the perfect role on the #1 Web3 job board.</p>
+                                <h3 className="text-lg font-bold text-primary mb-1">Looking for a Web3 Job?</h3>
+                                <p className="text-sm text-muted-foreground">Now that you have the resources, find the perfect role on the #1 Web3 job board.</p>
                             </div>
-                            <Link href="/jobs" className="flex-shrink-0 mt-4 md:mt-0">
+                            <Link href="/jobs" className="flex-shrink-0">
                                 <Button size="lg">
-                                    Explore Jobs <ArrowRight className="ml-2 h-4 w-4"/>
+                                    Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
                                 </Button>
                             </Link>
                         </CardContent>
