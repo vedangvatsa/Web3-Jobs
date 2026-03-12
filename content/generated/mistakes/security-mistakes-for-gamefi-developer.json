@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "contentType": "mistakes",
+    "topic": "security",
+    "niche": "gamefi-developer",
+    "generatedAt": "2026-03-13T00:00:00.000Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "Critical Security Mistakes GameFi Developers Make",
+    "description": "Learn from common security mistakes in GameFi development. Avoid economy exploits, smart contract bugs, and client-side vulnerabilities.",
+    "keywords": ["gamefi-developer", "security", "mistakes", "gaming", "economy"],
+    "canonicalSlug": "security-mistakes-for-gamefi-developer"
+  },
+  "content": {
+    "intro": "GameFi combines traditional game security challenges with blockchain complexity. These mistakes have destroyed game economies and lost player trust. Learn from them.",
+    "sections": [
+      {
+        "heading": "Economy Design Mistakes",
+        "description": "Errors that break game economies.",
+        "items": [
+          {
+            "mistake": "No token sinks",
+            "description": "Creating tokens without ways to remove them from circulation. Pure emission.",
+            "severity": "critical",
+            "impact": "Hyperinflation. Token becomes worthless. Economy collapses.",
+            "prevention": "Design meaningful sinks: crafting, upgrades, fees. Balance emissions with burns.",
+            "example": "Play-to-earn game that only emits tokens with no mechanisms to burn them."
+          },
+          {
+            "mistake": "Exploitable reward formulas",
+            "description": "Reward calculations that can be gamed through unintended strategies.",
+            "severity": "high",
+            "impact": "Farmers find optimal exploit strategy. Drain rewards intended for real players.",
+            "prevention": "Model economy before launch. Red team your reward formulas.",
+            "example": "Reward per action without considering that bots can do 1000x actions."
+          },
+          {
+            "mistake": "Uncapped minting",
+            "description": "No limits on how many tokens can be minted in a time period.",
+            "severity": "critical",
+            "impact": "Exploit that triggers mint floods the economy. Instant inflation spiral.",
+            "prevention": "Rate limits on all minting. Caps per address and globally.",
+            "example": "Bug allows single transaction to mint billions of tokens."
+          },
+          {
+            "mistake": "Ignoring multi-accounting",
+            "description": "Not considering that one person can have many accounts/wallets.",
+            "severity": "high",
+            "impact": "Rewards meant for many players concentrated in few hands.",
+            "prevention": "Design assuming Sybil attacks. Cap per-wallet rewards.",
+            "example": "Airdrop formula that rewards each wallet equally. Farmers create thousands."
+          }
+        ]
+      },
+      {
+        "heading": "Smart Contract Mistakes",
+        "description": "On-chain vulnerabilities.",
+        "items": [
+          {
+            "mistake": "Block hash randomness",
+            "description": "Using block.timestamp or blockhash for game randomness.",
+            "severity": "critical",
+            "impact": "Miners/validators can predict or manipulate outcomes.",
+            "prevention": "Use Chainlink VRF or commit-reveal schemes.",
+            "example": "NFT rarity determined by blockhash. Miners manipulate for rare drops."
+          },
+          {
+            "mistake": "Missing reentrancy guards on rewards",
+            "description": "Reward claim functions without reentrancy protection.",
+            "severity": "critical",
+            "impact": "Attacker drains reward pool by reentering during claim.",
+            "prevention": "Use ReentrancyGuard. Follow checks-effects-interactions.",
+            "example": "claimRewards() sends ETH before updating balance. Reenter and claim again."
+          },
+          {
+            "mistake": "Upgradeable contracts without safeguards",
+            "description": "Upgradeable game contracts where single key can change everything.",
+            "severity": "high",
+            "impact": "Single compromise or rug pull can change all game rules.",
+            "prevention": "Multisig for upgrades. Timelock delays. Transparent upgrade process.",
+            "example": "Dev wallet hacked. Attacker upgrades contract to drain all NFTs."
+          },
+          {
+            "mistake": "No pause mechanism",
+            "description": "Contracts without ability to pause during exploit.",
+            "severity": "high",
+            "impact": "Cannot stop ongoing exploit. Damage continues until fix deployed.",
+            "prevention": "Implement pausable pattern. Multi-party control of pause.",
+            "example": "Economy exploit discovered but contracts cannot be paused to stop bleeding."
+          }
+        ]
+      },
+      {
+        "heading": "Client Security Mistakes",
+        "description": "Game client vulnerabilities.",
+        "items": [
+          {
+            "mistake": "Client-authoritative game state",
+            "description": "Trusting client to report game outcomes, loot, or achievements.",
+            "severity": "critical",
+            "impact": "Cheaters modify client to claim any outcome. Infinite rewards.",
+            "prevention": "Server-authoritative for all economic outcomes. Client is display only.",
+            "example": "Client reports 'killed boss, give 1000 tokens'. Server trusts it."
+          },
+          {
+            "mistake": "Admin keys in client",
+            "description": "Embedding treasury or admin private keys in game client code.",
+            "severity": "critical",
+            "impact": "Anyone decompiling client gets full admin access.",
+            "prevention": "Admin operations server-side only. Keys never in client.",
+            "example": "Unity game with hardcoded treasury wallet private key in build."
+          },
+          {
+            "mistake": "No anti-cheat",
+            "description": "Game client without protection against memory editing or bots.",
+            "severity": "high",
+            "impact": "Widespread cheating. Legit players leave. Economy ruined by botters.",
+            "prevention": "Implement anti-cheat. Server-side validation. Behavioral detection.",
+            "example": "Speed hack lets players complete dungeons 100x faster than intended."
+          },
+          {
+            "mistake": "Unvalidated transaction parameters",
+            "description": "Client generates transactions with user-controllable parameters not validated server-side.",
+            "severity": "critical",
+            "impact": "Users modify transaction data to claim unearned rewards.",
+            "prevention": "Server generates transaction data. Sign with backend key.",
+            "example": "Client submits 'claim 1000 tokens' transaction. Server doesn't verify amount."
+          }
+        ]
+      },
+      {
+        "heading": "NFT and Asset Mistakes",
+        "description": "Errors with game assets.",
+        "items": [
+          {
+            "mistake": "Off-chain metadata tampering",
+            "description": "NFT metadata stored on centralized server without integrity checks.",
+            "severity": "high",
+            "impact": "Team can change NFT properties after sale. Rug potential.",
+            "prevention": "IPFS for metadata. On-chain attributes when possible. Immutable after mint.",
+            "example": "NFT stats changed after purchase to nerf valuable items."
+          },
+          {
+            "mistake": "Asset duplication bugs",
+            "description": "Contract bugs allowing same asset to exist twice or be minted multiple times.",
+            "severity": "critical",
+            "impact": "Unique items duplicated. Supply assumptions broken.",
+            "prevention": "Test minting thoroughly. Unique ID constraints.",
+            "example": "Race condition in mint allows two identical 'unique' items."
+          },
+          {
+            "mistake": "Uncontrolled secondary sales",
+            "description": "No consideration for how assets will be traded on secondary markets.",
+            "severity": "medium",
+            "impact": "Wash trading, market manipulation, royalty evasion.",
+            "prevention": "Design with secondary market in mind. Accept royalty limitations.",
+            "example": "Game economy assumes 10% royalty but marketplaces allow 0%."
+          }
+        ]
+      },
+      {
+        "heading": "Integration Mistakes",
+        "description": "Errors in blockchain integration.",
+        "items": [
+          {
+            "mistake": "Trusting on-chain data without indexing",
+            "description": "Reading blockchain state directly in game loop, causing performance issues.",
+            "severity": "medium",
+            "impact": "Slow game. RPC rate limits. Poor player experience.",
+            "prevention": "Index on-chain data. Cache appropriately. Background sync.",
+            "example": "Game queries NFT ownership on-chain for every frame."
+          },
+          {
+            "mistake": "No transaction failure handling",
+            "description": "Game assumes transactions always succeed. No retry or error states.",
+            "severity": "high",
+            "impact": "Players lose progress or get stuck when transactions fail.",
+            "prevention": "Handle all transaction states. Retry logic. Clear error messages.",
+            "example": "Player completes level but reward transaction fails silently."
+          },
+          {
+            "mistake": "Wallet UX friction",
+            "description": "Requiring signature for every action. Pop-ups for minor operations.",
+            "severity": "medium",
+            "impact": "Players frustrated. Abandon game due to wallet fatigue.",
+            "prevention": "Batch transactions. Session keys. Embedded wallets for minor actions.",
+            "example": "Pop-up to sign every item pickup in action game."
+          }
+        ]
+      }
+    ],
+    "additionalResources": [
+      {
+        "title": "GameFi Security Checklist",
+        "slug": "security-checklists-for-gamefi-developer"
+      },
+      {
+        "title": "Development Tools for GameFi Developers",
+        "slug": "development-tools-for-gamefi-developer"
+      }
+    ]
+  }
+}

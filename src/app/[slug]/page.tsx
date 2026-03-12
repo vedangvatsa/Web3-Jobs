@@ -1,6 +1,7 @@
 
 import { getArticle, getAllArticles } from '@/lib/articles';
 import { getTerm, getAllTerms } from '@/lib/glossary';
+import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/header';
 import { GlossaryCTA } from '@/components/glossary-cta';
@@ -9,6 +10,7 @@ import { Metadata } from 'next';
 import type { Article as ArticleSchema, ScholarlyArticle, BreadcrumbList } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
 import { RelatedArticles } from '@/components/related-articles';
+import { ResourcePageView } from '@/components/pseo/resource-page-view';
 import { Suspense } from 'react';
 import { cn } from '@/lib/utils';
 import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription, extractFAQSchema, extractHowToSchema } from '@/lib/seo-utils';
@@ -24,14 +26,34 @@ type ArticlePageProps = {
 export async function generateStaticParams() {
   const articles = await getAllArticles();
   const terms = await getAllTerms();
+  const resources = getAllResourcePages();
   return [
     ...terms.map((term) => ({ slug: term.slug })),
     ...articles.map((article) => ({ slug: article.slug })),
+    ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
   ];
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
-  // Check if it's a glossary term first
+  // Check if it's a resource page first
+  const resource = getResourceByCanonicalSlug(params.slug);
+  if (resource) {
+    const siteUrl = 'https://hashtagweb3.com';
+    return {
+      title: `${resource.seo.title} | Hashtag Web3`,
+      description: resource.seo.description,
+      keywords: resource.seo.keywords,
+      alternates: { canonical: `${siteUrl}/${resource.seo.canonicalSlug}` },
+      openGraph: {
+        title: resource.seo.title,
+        description: resource.seo.description,
+        type: 'article',
+        url: `${siteUrl}/${resource.seo.canonicalSlug}`,
+      },
+    };
+  }
+
+  // Check if it's a glossary term
   const term = await getTerm(params.slug);
   if (term) {
     const siteUrl = 'https://hashtagweb3.com';
@@ -118,7 +140,13 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-  // Check if it's a glossary term first
+  // Check if it's a resource page first
+  const resource = getResourceByCanonicalSlug(params.slug);
+  if (resource) {
+    return <ResourcePageView page={resource} />;
+  }
+
+  // Check if it's a glossary term
   const term = await getTerm(params.slug);
   if (term) {
     const siteUrl = 'https://hashtagweb3.com';

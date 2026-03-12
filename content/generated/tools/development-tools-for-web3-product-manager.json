@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "contentType": "tools",
+    "topic": "development",
+    "niche": "web3-product-manager",
+    "generatedAt": "2026-03-13T00:00:00.000Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "Essential Tools for Web3 Product Managers",
+    "description": "A curated list of tools for Web3 product managers covering analytics, community insights, roadmap planning, and crypto-native tooling.",
+    "keywords": ["web3-product-manager", "tools", "analytics", "product", "management"],
+    "canonicalSlug": "development-tools-for-web3-product-manager"
+  },
+  "content": {
+    "intro": "Web3 product management requires unique tools for on-chain analytics, community-driven development, and decentralized team coordination. Here are the essentials.",
+    "sections": [
+      {
+        "heading": "On-chain Analytics",
+        "description": "Understand what users actually do.",
+        "items": [
+          {
+            "name": "Dune Analytics",
+            "description": "SQL-based blockchain analytics. Query any on-chain data.",
+            "category": "Analytics",
+            "url": "https://dune.com",
+            "pricing": "Free tier + Paid",
+            "useCase": "Custom on-chain metrics"
+          },
+          {
+            "name": "Nansen",
+            "description": "Wallet labeling and smart money tracking.",
+            "category": "Analytics",
+            "url": "https://www.nansen.ai",
+            "pricing": "Paid",
+            "useCase": "User segmentation"
+          },
+          {
+            "name": "Artemis",
+            "description": "Cross-chain analytics and protocol comparisons.",
+            "category": "Analytics",
+            "url": "https://www.artemis.xyz",
+            "pricing": "Free + Paid",
+            "useCase": "Competitive analysis"
+          },
+          {
+            "name": "Token Terminal",
+            "description": "Financial metrics for protocols. Revenue, fees, valuations.",
+            "category": "Analytics",
+            "url": "https://tokenterminal.com",
+            "pricing": "Free + Paid",
+            "useCase": "Protocol financials"
+          },
+          {
+            "name": "DefiLlama",
+            "description": "DeFi TVL and protocol analytics. Free and comprehensive.",
+            "category": "Analytics",
+            "url": "https://defillama.com",
+            "pricing": "Free",
+            "useCase": "DeFi metrics"
+          }
+        ]
+      },
+      {
+        "heading": "Product Analytics",
+        "description": "Track off-chain user behavior.",
+        "items": [
+          {
+            "name": "PostHog",
+            "description": "Open source product analytics. Self-hostable for privacy.",
+            "category": "Analytics",
+            "url": "https://posthog.com",
+            "pricing": "Free tier + Paid",
+            "useCase": "App analytics"
+          },
+          {
+            "name": "Mixpanel",
+            "description": "Event-based product analytics with cohort analysis.",
+            "category": "Analytics",
+            "url": "https://mixpanel.com",
+            "pricing": "Free tier + Paid",
+            "useCase": "User funnels"
+          },
+          {
+            "name": "Amplitude",
+            "description": "Product analytics with behavioral cohorts.",
+            "category": "Analytics",
+            "url": "https://amplitude.com",
+            "pricing": "Free tier + Paid",
+            "useCase": "User journeys"
+          },
+          {
+            "name": "Spindl",
+            "description": "Web3-native attribution and analytics.",
+            "category": "Analytics",
+            "url": "https://www.spindl.xyz",
+            "pricing": "Paid",
+            "useCase": "Web3 attribution"
+          }
+        ]
+      },
+      {
+        "heading": "Roadmap and Planning",
+        "description": "Plan and communicate product direction.",
+        "items": [
+          {
+            "name": "Linear",
+            "description": "Modern issue tracking. Fast and keyboard-driven.",
+            "category": "Project Management",
+            "url": "https://linear.app",
+            "pricing": "Free tier + Paid",
+            "useCase": "Issue tracking"
+          },
+          {
+            "name": "Notion",
+            "description": "Docs, wikis, and lightweight project management.",
+            "category": "Documentation",
+            "url": "https://notion.so",
+            "pricing": "Free tier + Paid",
+            "useCase": "PRDs and specs"
+          },
+          {
+            "name": "Productboard",
+            "description": "Product management platform for roadmapping and feedback.",
+            "category": "Product Management",
+            "url": "https://www.productboard.com",
+            "pricing": "Paid",
+            "useCase": "Roadmap planning"
+          },
+          {
+            "name": "Canny",
+            "description": "Feature request tracking and roadmap communication.",
+            "category": "Feedback",
+            "url": "https://canny.io",
+            "pricing": "Free tier + Paid",
+            "useCase": "Feature requests"
+          },
+          {
+            "name": "Fibery",
+            "description": "Customizable work management. Good for unique workflows.",
+            "category": "Project Management",
+            "url": "https://fibery.io",
+            "pricing": "Free tier + Paid",
+            "useCase": "Custom workflows"
+          }
+        ]
+      },
+      {
+        "heading": "Community Insights",
+        "description": "Understand your community.",
+        "items": [
+          {
+            "name": "Discord Analytics Bot",
+            "description": "Track Discord engagement and activity.",
+            "category": "Community",
+            "url": "https://statbot.net",
+            "pricing": "Free + Paid",
+            "useCase": "Discord metrics"
+          },
+          {
+            "name": "Commonroom",
+            "description": "Community intelligence platform. Track engagement across platforms.",
+            "category": "Community",
+            "url": "https://www.commonroom.io",
+            "pricing": "Paid",
+            "useCase": "Community insights"
+          },
+          {
+            "name": "Snapshot",
+            "description": "Governance voting platform. Understand community preferences.",
+            "category": "Governance",
+            "url": "https://snapshot.org",
+            "pricing": "Free",
+            "useCase": "Community voting"
+          }
+        ]
+      },
+      {
+        "heading": "Design and Prototyping",
+        "description": "Design product experiences.",
+        "items": [
+          {
+            "name": "Figma",
+            "description": "Collaborative design tool. Industry standard.",
+            "category": "Design",
+            "url": "https://www.figma.com",
+            "pricing": "Free tier + Paid",
+            "useCase": "UI design"
+          },
+          {
+            "name": "Whimsical",
+            "description": "Flowcharts, wireframes, and mind maps.",
+            "category": "Diagramming",
+            "url": "https://whimsical.com",
+            "pricing": "Free tier + Paid",
+            "useCase": "User flows"
+          },
+          {
+            "name": "Miro",
+            "description": "Online whiteboard for collaboration.",
+            "category": "Collaboration",
+            "url": "https://miro.com",
+            "pricing": "Free tier + Paid",
+            "useCase": "Workshops"
+          },
+          {
+            "name": "Loom",
+            "description": "Quick video recording for async communication.",
+            "category": "Communication",
+            "url": "https://www.loom.com",
+            "pricing": "Free tier + Paid",
+            "useCase": "Product demos"
+          }
+        ]
+      },
+      {
+        "heading": "Research Tools",
+        "description": "Stay informed.",
+        "items": [
+          {
+            "name": "Messari",
+            "description": "Crypto research and data. Protocol reports and metrics.",
+            "category": "Research",
+            "url": "https://messari.io",
+            "pricing": "Free + Paid",
+            "useCase": "Market research"
+          },
+          {
+            "name": "The Block Research",
+            "description": "Crypto news and research. Data dashboards.",
+            "category": "Research",
+            "url": "https://www.theblock.co/data",
+            "pricing": "Free + Paid",
+            "useCase": "Industry trends"
+          },
+          {
+            "name": "Etherscan",
+            "description": "Ethereum block explorer. Essential for understanding transactions.",
+            "category": "Explorer",
+            "url": "https://etherscan.io",
+            "pricing": "Free",
+            "useCase": "Transaction analysis"
+          },
+          {
+            "name": "L2Beat",
+            "description": "Layer 2 analytics and risk analysis.",
+            "category": "Analytics",
+            "url": "https://l2beat.com",
+            "pricing": "Free",
+            "useCase": "L2 comparison"
+          }
+        ]
+      }
+    ],
+    "proTips": [
+      {
+        "tip": "Build custom Dune dashboards for your specific product metrics."
+      },
+      {
+        "tip": "Combine on-chain and off-chain analytics for full picture."
+      },
+      {
+        "tip": "Use Snapshot polls for lightweight community feedback before building."
+      },
+      {
+        "tip": "Learn basic SQL to query Dune yourself. It is invaluable."
+      },
+      {
+        "tip": "Track wallet addresses, not just pageviews. On-chain is the source of truth."
+      }
+    ]
+  }
+}

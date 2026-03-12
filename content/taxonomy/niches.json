@@ -1,0 +1,426 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-13",
+  "niches": [
+    {
+      "slug": "solidity-developer",
+      "name": "Solidity Developer",
+      "shortName": "Solidity Devs",
+      "category": "engineering",
+      "context": {
+        "audience": "Backend developers, CS graduates, self-taught programmers interested in blockchain",
+        "painPoints": [
+          "Security vulnerabilities and reentrancy attacks",
+          "Gas optimization challenges",
+          "Keeping up with EVM upgrades",
+          "Understanding complex DeFi patterns",
+          "Debugging on-chain transactions"
+        ],
+        "skills": ["Solidity", "Foundry", "Hardhat", "EVM", "OpenZeppelin", "Ethers.js"],
+        "salaryRange": { "min": 120000, "max": 300000, "currency": "USD" },
+        "careerPaths": ["Senior Smart Contract Dev", "Protocol Engineer", "Security Auditor", "CTO"],
+        "contentThatWorks": "Code examples, security patterns, gas optimization techniques, audit checklists",
+        "subtopics": ["ERC standards", "Upgradeable contracts", "Gas optimization", "Security patterns", "Testing"]
+      }
+    },
+    {
+      "slug": "smart-contract-auditor",
+      "name": "Smart Contract Auditor",
+      "shortName": "Auditors",
+      "category": "security",
+      "context": {
+        "audience": "Security researchers, experienced Solidity developers, penetration testers",
+        "painPoints": [
+          "Finding novel attack vectors",
+          "Balancing thoroughness with time constraints",
+          "Communicating findings to non-technical stakeholders",
+          "Staying updated on new exploit patterns",
+          "Building reputation in competitive market"
+        ],
+        "skills": ["Solidity", "Slither", "Mythril", "Foundry fuzzing", "Formal verification", "Code4rena"],
+        "salaryRange": { "min": 150000, "max": 400000, "currency": "USD" },
+        "careerPaths": ["Lead Auditor", "Security Researcher", "Bug Bounty Hunter", "Security Firm Founder"],
+        "contentThatWorks": "Vulnerability case studies, audit checklists, CTF walkthroughs, tool comparisons",
+        "subtopics": ["Reentrancy", "Flash loan attacks", "Oracle manipulation", "Access control", "MEV"]
+      }
+    },
+    {
+      "slug": "defi-developer",
+      "name": "DeFi Developer",
+      "shortName": "DeFi Devs",
+      "category": "engineering",
+      "context": {
+        "audience": "Solidity developers interested in finance, quant developers, fintech engineers",
+        "painPoints": [
+          "Complex tokenomics and economic modeling",
+          "Composability risks across protocols",
+          "Liquidity bootstrapping challenges",
+          "Regulatory uncertainty",
+          "Oracle reliability and manipulation"
+        ],
+        "skills": ["Solidity", "AMM math", "Lending protocols", "Yield strategies", "Economic modeling"],
+        "salaryRange": { "min": 140000, "max": 350000, "currency": "USD" },
+        "careerPaths": ["Protocol Lead", "DeFi Architect", "Tokenomics Designer", "Founder"],
+        "contentThatWorks": "Protocol deep-dives, yield strategies, AMM mechanics, risk analysis",
+        "subtopics": ["AMMs", "Lending", "Derivatives", "Yield farming", "Stablecoins", "MEV protection"]
+      }
+    },
+    {
+      "slug": "blockchain-engineer",
+      "name": "Blockchain Engineer",
+      "shortName": "Blockchain Devs",
+      "category": "engineering",
+      "context": {
+        "audience": "Backend engineers, distributed systems developers, protocol researchers",
+        "painPoints": [
+          "Consensus mechanism complexity",
+          "Network scaling challenges",
+          "Cross-chain interoperability",
+          "Node infrastructure management",
+          "Performance optimization"
+        ],
+        "skills": ["Rust", "Go", "Consensus protocols", "P2P networking", "Cryptography"],
+        "salaryRange": { "min": 150000, "max": 400000, "currency": "USD" },
+        "careerPaths": ["Core Developer", "Protocol Architect", "L2 Engineer", "Research Scientist"],
+        "contentThatWorks": "Protocol comparisons, consensus deep-dives, scaling solutions, node guides",
+        "subtopics": ["Consensus", "Networking", "State management", "Rollups", "Data availability"]
+      }
+    },
+    {
+      "slug": "web3-frontend-developer",
+      "name": "Web3 Frontend Developer",
+      "shortName": "Frontend Devs",
+      "category": "engineering",
+      "context": {
+        "audience": "React developers, UI/UX engineers, full-stack developers",
+        "painPoints": [
+          "Wallet connection complexity",
+          "Transaction state management",
+          "Handling chain switches and errors",
+          "Optimistic updates with blockchain finality",
+          "Gas estimation UX"
+        ],
+        "skills": ["React", "TypeScript", "wagmi", "viem", "ethers.js", "Web3Modal"],
+        "salaryRange": { "min": 100000, "max": 250000, "currency": "USD" },
+        "careerPaths": ["Senior Frontend Dev", "Full-stack Web3 Dev", "dApp Lead", "Product Engineer"],
+        "contentThatWorks": "Integration tutorials, wallet guides, UX patterns, component libraries",
+        "subtopics": ["Wallet integration", "Transaction UX", "Chain abstraction", "State management"]
+      }
+    },
+    {
+      "slug": "web3-product-manager",
+      "name": "Web3 Product Manager",
+      "shortName": "Web3 PMs",
+      "category": "product",
+      "context": {
+        "audience": "Traditional PMs, founders, business analysts interested in crypto",
+        "painPoints": [
+          "Understanding technical blockchain constraints",
+          "Token incentive design",
+          "Regulatory compliance requirements",
+          "Community-driven development",
+          "Decentralized governance coordination"
+        ],
+        "skills": ["Product strategy", "Tokenomics basics", "User research", "Roadmapping", "Analytics"],
+        "salaryRange": { "min": 120000, "max": 280000, "currency": "USD" },
+        "careerPaths": ["Senior PM", "Head of Product", "Protocol Lead", "Founder"],
+        "contentThatWorks": "Case studies, product frameworks, metrics guides, launch playbooks",
+        "subtopics": ["Token launches", "Community building", "Protocol metrics", "Governance"]
+      }
+    },
+    {
+      "slug": "web3-community-manager",
+      "name": "Web3 Community Manager",
+      "shortName": "Community Managers",
+      "category": "operations",
+      "context": {
+        "audience": "Social media managers, Discord mods, marketing professionals",
+        "painPoints": [
+          "Managing 24/7 global communities",
+          "Handling FUD and market volatility",
+          "Moderating at scale",
+          "Measuring community health",
+          "Preventing scams and impersonation"
+        ],
+        "skills": ["Discord", "Telegram", "Twitter/X", "Community analytics", "Crisis management"],
+        "salaryRange": { "min": 60000, "max": 150000, "currency": "USD" },
+        "careerPaths": ["Head of Community", "Developer Relations", "Marketing Lead", "DAO Contributor"],
+        "contentThatWorks": "Engagement templates, moderation guides, growth strategies, tool reviews",
+        "subtopics": ["Discord setup", "Engagement tactics", "Moderation", "Analytics", "Ambassador programs"]
+      }
+    },
+    {
+      "slug": "tokenomics-designer",
+      "name": "Tokenomics Designer",
+      "shortName": "Tokenomics Experts",
+      "category": "strategy",
+      "context": {
+        "audience": "Economists, game theorists, DeFi analysts, founders",
+        "painPoints": [
+          "Balancing inflation and utility",
+          "Preventing token dumps",
+          "Aligning stakeholder incentives",
+          "Modeling complex economic systems",
+          "Regulatory token classification"
+        ],
+        "skills": ["Economic modeling", "Game theory", "Financial modeling", "Token distribution", "Vesting"],
+        "salaryRange": { "min": 130000, "max": 300000, "currency": "USD" },
+        "careerPaths": ["Head of Tokenomics", "Protocol Economist", "DeFi Strategist", "Advisor"],
+        "contentThatWorks": "Token models, case studies, vesting schedules, simulation frameworks",
+        "subtopics": ["Token distribution", "Vesting", "Incentive design", "Governance tokens", "Utility tokens"]
+      }
+    },
+    {
+      "slug": "nft-developer",
+      "name": "NFT Developer",
+      "shortName": "NFT Devs",
+      "category": "engineering",
+      "context": {
+        "audience": "Full-stack developers, game developers, artists with coding skills",
+        "painPoints": [
+          "Metadata and storage solutions",
+          "Royalty enforcement across marketplaces",
+          "Gas costs for minting",
+          "Generative art algorithms",
+          "Cross-chain NFT bridges"
+        ],
+        "skills": ["Solidity", "ERC-721/1155", "IPFS", "Metadata standards", "Generative art"],
+        "salaryRange": { "min": 100000, "max": 220000, "currency": "USD" },
+        "careerPaths": ["Lead NFT Dev", "Creative Technologist", "GameFi Developer", "Platform Builder"],
+        "contentThatWorks": "Mint tutorials, metadata guides, marketplace integrations, art generation",
+        "subtopics": ["Minting", "Metadata", "Marketplaces", "Royalties", "Dynamic NFTs", "Gaming"]
+      }
+    },
+    {
+      "slug": "dao-contributor",
+      "name": "DAO Contributor",
+      "shortName": "DAO Contributors",
+      "category": "operations",
+      "context": {
+        "audience": "Remote workers, governance enthusiasts, freelancers, community builders",
+        "painPoints": [
+          "Navigating compensation structures",
+          "Building reputation across DAOs",
+          "Understanding governance processes",
+          "Managing multiple DAO commitments",
+          "Legal and tax implications"
+        ],
+        "skills": ["Governance tools", "Proposal writing", "Treasury management", "Snapshot", "Coordination"],
+        "salaryRange": { "min": 50000, "max": 200000, "currency": "USD" },
+        "careerPaths": ["DAO Lead", "Governance Specialist", "Treasury Manager", "Protocol Politician"],
+        "contentThatWorks": "Proposal templates, governance guides, compensation frameworks, tool reviews",
+        "subtopics": ["Governance", "Proposals", "Treasury", "Compensation", "Tooling", "Coordination"]
+      }
+    },
+    {
+      "slug": "web3-marketer",
+      "name": "Web3 Marketer",
+      "shortName": "Web3 Marketers",
+      "category": "marketing",
+      "context": {
+        "audience": "Digital marketers, growth hackers, content creators",
+        "painPoints": [
+          "Advertising restrictions on crypto",
+          "Building trust in skeptical market",
+          "Measuring attribution in web3",
+          "Influencer fraud and shilling",
+          "Regulatory marketing constraints"
+        ],
+        "skills": ["Content marketing", "Twitter/X growth", "Influencer relations", "Analytics", "Community growth"],
+        "salaryRange": { "min": 80000, "max": 200000, "currency": "USD" },
+        "careerPaths": ["Head of Marketing", "Growth Lead", "Brand Director", "CMO"],
+        "contentThatWorks": "GTM playbooks, case studies, channel guides, metrics frameworks",
+        "subtopics": ["Twitter growth", "Content strategy", "Influencer marketing", "PR", "Events"]
+      }
+    },
+    {
+      "slug": "web3-legal-counsel",
+      "name": "Web3 Legal Counsel",
+      "shortName": "Crypto Lawyers",
+      "category": "legal",
+      "context": {
+        "audience": "Lawyers, compliance officers, policy professionals",
+        "painPoints": [
+          "Rapidly evolving regulatory landscape",
+          "Multi-jurisdictional compliance",
+          "Token classification uncertainty",
+          "DAO legal structures",
+          "AML/KYC requirements"
+        ],
+        "skills": ["Securities law", "AML/KYC", "Smart contract law", "International regulations", "Token classification"],
+        "salaryRange": { "min": 150000, "max": 400000, "currency": "USD" },
+        "careerPaths": ["General Counsel", "Chief Compliance Officer", "Policy Lead", "Partner"],
+        "contentThatWorks": "Regulatory updates, compliance checklists, jurisdiction guides, case analysis",
+        "subtopics": ["Securities", "AML/KYC", "DAO structures", "Token launches", "Licensing"]
+      }
+    },
+    {
+      "slug": "zk-engineer",
+      "name": "Zero-Knowledge Engineer",
+      "shortName": "ZK Engineers",
+      "category": "engineering",
+      "context": {
+        "audience": "Cryptography enthusiasts, mathematicians, protocol researchers",
+        "painPoints": [
+          "Steep learning curve for ZK math",
+          "Proving time optimization",
+          "Circuit design complexity",
+          "Limited tooling maturity",
+          "Debugging ZK circuits"
+        ],
+        "skills": ["Circom", "Noir", "Halo2", "Mathematical proofs", "Rust", "Circuit optimization"],
+        "salaryRange": { "min": 180000, "max": 450000, "currency": "USD" },
+        "careerPaths": ["ZK Researcher", "Protocol Cryptographer", "L2 Architect", "Founder"],
+        "contentThatWorks": "Math explainers, circuit tutorials, proof system comparisons, optimization guides",
+        "subtopics": ["SNARKs", "STARKs", "Circuit design", "Proving systems", "zkEVM", "Privacy"]
+      }
+    },
+    {
+      "slug": "web3-data-analyst",
+      "name": "Web3 Data Analyst",
+      "shortName": "On-Chain Analysts",
+      "category": "analytics",
+      "context": {
+        "audience": "Data scientists, financial analysts, researchers",
+        "painPoints": [
+          "Indexing blockchain data at scale",
+          "Cross-chain data aggregation",
+          "Real-time analytics requirements",
+          "Data quality and labeling",
+          "Interpreting on-chain behavior"
+        ],
+        "skills": ["SQL", "Dune Analytics", "Python", "The Graph", "Blockchain indexing"],
+        "salaryRange": { "min": 90000, "max": 200000, "currency": "USD" },
+        "careerPaths": ["Lead Analyst", "Research Lead", "Protocol Analyst", "Data Engineer"],
+        "contentThatWorks": "Query tutorials, dashboard templates, metric definitions, case studies",
+        "subtopics": ["Dune", "The Graph", "Metrics", "Dashboards", "Research methods"]
+      }
+    },
+    {
+      "slug": "web3-recruiter",
+      "name": "Web3 Recruiter",
+      "shortName": "Crypto Recruiters",
+      "category": "operations",
+      "context": {
+        "audience": "Tech recruiters, HR professionals, talent acquisition specialists",
+        "painPoints": [
+          "Evaluating crypto-native candidates",
+          "Competing with token compensation",
+          "Understanding technical roles",
+          "Remote-first hiring challenges",
+          "High candidate mobility"
+        ],
+        "skills": ["Technical recruiting", "Web3 ecosystem knowledge", "Compensation negotiation", "Sourcing"],
+        "salaryRange": { "min": 80000, "max": 180000, "currency": "USD" },
+        "careerPaths": ["Head of Talent", "Recruiting Lead", "HR Director", "Talent Partner"],
+        "contentThatWorks": "JD templates, interview guides, compensation benchmarks, sourcing strategies",
+        "subtopics": ["Sourcing", "Interviewing", "Compensation", "Onboarding", "Retention"]
+      }
+    },
+    {
+      "slug": "solana-developer",
+      "name": "Solana Developer",
+      "shortName": "Solana Devs",
+      "category": "engineering",
+      "context": {
+        "audience": "Rust developers, systems programmers, EVM developers exploring alternatives",
+        "painPoints": [
+          "Account model vs EVM differences",
+          "Program deployment complexity",
+          "Rent and storage costs",
+          "Network congestion issues",
+          "Limited tooling compared to EVM"
+        ],
+        "skills": ["Rust", "Anchor", "Solana CLI", "Account model", "Program deployment"],
+        "salaryRange": { "min": 130000, "max": 300000, "currency": "USD" },
+        "careerPaths": ["Senior Solana Dev", "Protocol Engineer", "DeFi Builder", "Founder"],
+        "contentThatWorks": "Rust tutorials, Anchor guides, account model explainers, project ideas",
+        "subtopics": ["Anchor", "Account model", "SPL tokens", "Program security", "Performance"]
+      }
+    },
+    {
+      "slug": "gamefi-developer",
+      "name": "GameFi Developer",
+      "shortName": "GameFi Devs",
+      "category": "engineering",
+      "context": {
+        "audience": "Game developers, Unity/Unreal engineers, NFT developers",
+        "painPoints": [
+          "Balancing fun gameplay with token economics",
+          "Preventing bot exploitation",
+          "On-chain vs off-chain game logic",
+          "NFT interoperability",
+          "Player retention beyond speculation"
+        ],
+        "skills": ["Unity", "Unreal", "Smart contracts", "Game design", "Token economics"],
+        "salaryRange": { "min": 100000, "max": 250000, "currency": "USD" },
+        "careerPaths": ["Lead Game Dev", "GameFi Architect", "Creative Director", "Studio Founder"],
+        "contentThatWorks": "Integration tutorials, economy design, anti-cheat guides, case studies",
+        "subtopics": ["Play-to-earn", "NFT integration", "Economy design", "Anti-bot", "Unity/Unreal SDKs"]
+      }
+    },
+    {
+      "slug": "web3-devrel",
+      "name": "Web3 Developer Relations",
+      "shortName": "DevRel",
+      "category": "operations",
+      "context": {
+        "audience": "Developers who enjoy teaching, technical writers, community builders",
+        "painPoints": [
+          "Keeping documentation updated",
+          "Scaling developer support",
+          "Measuring DevRel impact",
+          "Building in public while employed",
+          "Balancing advocacy with engineering"
+        ],
+        "skills": ["Technical writing", "Public speaking", "SDK development", "Community building", "Content creation"],
+        "salaryRange": { "min": 100000, "max": 220000, "currency": "USD" },
+        "careerPaths": ["Head of DevRel", "Developer Advocate Lead", "Engineering Manager", "Founder"],
+        "contentThatWorks": "Tutorial writing, SDK guides, workshop materials, documentation templates",
+        "subtopics": ["Documentation", "Tutorials", "Workshops", "SDK design", "Community programs"]
+      }
+    },
+    {
+      "slug": "web3-founder",
+      "name": "Web3 Founder",
+      "shortName": "Founders",
+      "category": "leadership",
+      "context": {
+        "audience": "Entrepreneurs, technical leads, ambitious builders",
+        "painPoints": [
+          "Fundraising in bear markets",
+          "Token vs equity decisions",
+          "Regulatory uncertainty",
+          "Hiring and retention",
+          "Community expectations"
+        ],
+        "skills": ["Leadership", "Fundraising", "Product vision", "Token design", "Team building"],
+        "salaryRange": { "min": 0, "max": 500000, "currency": "USD" },
+        "careerPaths": ["Serial Founder", "VC", "Protocol Lead", "Advisor"],
+        "contentThatWorks": "Fundraising guides, launch playbooks, founder stories, legal frameworks",
+        "subtopics": ["Fundraising", "Token launches", "Team building", "Legal structure", "GTM"]
+      }
+    },
+    {
+      "slug": "l2-engineer",
+      "name": "L2/Rollup Engineer",
+      "shortName": "L2 Engineers",
+      "category": "engineering",
+      "context": {
+        "audience": "Protocol engineers, distributed systems developers, Ethereum researchers",
+        "painPoints": [
+          "Sequencer centralization concerns",
+          "Fraud proof complexity",
+          "Data availability costs",
+          "Cross-rollup communication",
+          "Upgrade and governance mechanisms"
+        ],
+        "skills": ["Go", "Rust", "Fraud proofs", "Data availability", "Sequencer design"],
+        "salaryRange": { "min": 160000, "max": 400000, "currency": "USD" },
+        "careerPaths": ["Protocol Lead", "Research Scientist", "L2 Architect", "Core Contributor"],
+        "contentThatWorks": "Architecture deep-dives, comparison guides, scaling analysis, research summaries",
+        "subtopics": ["Optimistic rollups", "ZK rollups", "Sequencing", "Data availability", "Bridges"]
+      }
+    }
+  ]
+}
