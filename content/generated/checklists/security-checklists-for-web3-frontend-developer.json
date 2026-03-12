@@ -19,112 +19,112 @@
         "heading": "Wallet Connection Security",
         "items": [
           { "text": "Never request more permissions than needed from wallets", "priority": "critical" },
-          { "text": "Handle wallet disconnection gracefully without crashes", "priority": "high" },
-          { "text": "Validate wallet address format before using", "priority": "high" },
-          { "text": "Support multiple wallets, not just MetaMask", "priority": "medium" },
-          { "text": "Detect and handle network/chain switching", "priority": "high" },
-          { "text": "Show clear UI states for connecting, connected, and disconnected", "priority": "medium" },
-          { "text": "Persist connection state appropriately (don't reconnect without consent)", "priority": "medium" },
-          { "text": "Handle wallet extension conflicts gracefully", "priority": "low" }
+          { "text": "Handle wallet disconnection gracefully without crashes", "priority": "critical" },
+          { "text": "Validate wallet address format before using", "priority": "critical" },
+          { "text": "Support multiple wallets, not just MetaMask", "priority": "important" },
+          { "text": "Detect and handle network/chain switching", "priority": "critical" },
+          { "text": "Show clear UI states for connecting, connected, and disconnected", "priority": "important" },
+          { "text": "Persist connection state appropriately (don't reconnect without consent)", "priority": "important" },
+          { "text": "Handle wallet extension conflicts gracefully", "priority": "nice-to-have" }
         ]
       },
       {
         "heading": "Transaction Security",
         "items": [
-          { "text": "Always simulate transactions before sending to catch errors", "priority": "high" },
+          { "text": "Always simulate transactions before sending to catch errors", "priority": "critical" },
           { "text": "Show clear transaction details before user signs", "priority": "critical" },
-          { "text": "Display gas estimates in both native token and USD", "priority": "medium" },
-          { "text": "Implement transaction status tracking (pending/confirmed/failed)", "priority": "high" },
-          { "text": "Handle transaction reverts with user-friendly error messages", "priority": "high" },
+          { "text": "Display gas estimates in both native token and USD", "priority": "important" },
+          { "text": "Implement transaction status tracking (pending/confirmed/failed)", "priority": "critical" },
+          { "text": "Handle transaction reverts with user-friendly error messages", "priority": "critical" },
           { "text": "Validate all user inputs before including in transactions", "priority": "critical" },
-          { "text": "Check token allowances before attempting transfers", "priority": "high" },
-          { "text": "Warn users about unlimited token approvals", "priority": "high" },
-          { "text": "Implement transaction timeout handling", "priority": "medium" },
-          { "text": "Provide speedup/cancel options for stuck transactions", "priority": "medium" }
+          { "text": "Check token allowances before attempting transfers", "priority": "critical" },
+          { "text": "Warn users about unlimited token approvals", "priority": "critical" },
+          { "text": "Implement transaction timeout handling", "priority": "important" },
+          { "text": "Provide speedup/cancel options for stuck transactions", "priority": "important" }
         ]
       },
       {
         "heading": "Signature Security",
         "items": [
-          { "text": "Use typed data signing (EIP-712) instead of raw message signing", "priority": "high" },
+          { "text": "Use typed data signing (EIP-712) instead of raw message signing", "priority": "critical" },
           { "text": "Display human-readable message content before signing", "priority": "critical" },
-          { "text": "Include domain separator in typed data to prevent replay attacks", "priority": "high" },
-          { "text": "Add nonces to signatures to prevent reuse", "priority": "high" },
-          { "text": "Include expiry timestamps in time-sensitive signatures", "priority": "medium" },
+          { "text": "Include domain separator in typed data to prevent replay attacks", "priority": "critical" },
+          { "text": "Add nonces to signatures to prevent reuse", "priority": "critical" },
+          { "text": "Include expiry timestamps in time-sensitive signatures", "priority": "important" },
           { "text": "Never sign messages containing raw transaction data", "priority": "critical" },
-          { "text": "Validate signature requests come from your own frontend", "priority": "high" }
+          { "text": "Validate signature requests come from your own frontend", "priority": "critical" }
         ]
       },
       {
         "heading": "Input Validation",
         "items": [
           { "text": "Sanitize all URL parameters before use", "priority": "critical" },
-          { "text": "Validate address inputs match expected format (checksummed)", "priority": "high" },
-          { "text": "Validate amount inputs are positive numbers", "priority": "high" },
-          { "text": "Check for integer overflow in amount calculations", "priority": "high" },
-          { "text": "Validate token decimals match expected values", "priority": "high" },
-          { "text": "Sanitize ENS names before resolution", "priority": "medium" },
-          { "text": "Validate contract addresses exist and have code", "priority": "high" },
-          { "text": "Escape special characters in user-provided data", "priority": "high" }
+          { "text": "Validate address inputs match expected format (checksummed)", "priority": "critical" },
+          { "text": "Validate amount inputs are positive numbers", "priority": "critical" },
+          { "text": "Check for integer overflow in amount calculations", "priority": "critical" },
+          { "text": "Validate token decimals match expected values", "priority": "critical" },
+          { "text": "Sanitize ENS names before resolution", "priority": "important" },
+          { "text": "Validate contract addresses exist and have code", "priority": "critical" },
+          { "text": "Escape special characters in user-provided data", "priority": "critical" }
         ]
       },
       {
         "heading": "Data Protection",
         "items": [
           { "text": "Never store private keys in frontend code or storage", "priority": "critical" },
-          { "text": "Do not store sensitive data in localStorage", "priority": "high" },
-          { "text": "Clear sensitive data from memory after use", "priority": "medium" },
+          { "text": "Do not store sensitive data in localStorage", "priority": "critical" },
+          { "text": "Clear sensitive data from memory after use", "priority": "important" },
           { "text": "Use HTTPS for all API calls", "priority": "critical" },
-          { "text": "Validate SSL certificates for RPC endpoints", "priority": "high" },
-          { "text": "Do not log sensitive transaction data", "priority": "high" },
-          { "text": "Implement proper error handling to avoid leaking stack traces", "priority": "medium" }
+          { "text": "Validate SSL certificates for RPC endpoints", "priority": "critical" },
+          { "text": "Do not log sensitive transaction data", "priority": "critical" },
+          { "text": "Implement proper error handling to avoid leaking stack traces", "priority": "important" }
         ]
       },
       {
         "heading": "Phishing Protection",
         "items": [
-          { "text": "Verify contract addresses against known good addresses", "priority": "high" },
-          { "text": "Display clear warnings for unknown contracts", "priority": "high" },
-          { "text": "Show full destination addresses, not just truncated versions, for large transactions", "priority": "medium" },
-          { "text": "Implement address book for frequent recipients", "priority": "low" },
-          { "text": "Warn about address poisoning attacks", "priority": "medium" },
-          { "text": "Display ENS verification alongside addresses", "priority": "medium" },
-          { "text": "Check token contracts against known scam lists", "priority": "medium" }
+          { "text": "Verify contract addresses against known good addresses", "priority": "critical" },
+          { "text": "Display clear warnings for unknown contracts", "priority": "critical" },
+          { "text": "Show full destination addresses, not just truncated versions, for large transactions", "priority": "important" },
+          { "text": "Implement address book for frequent recipients", "priority": "nice-to-have" },
+          { "text": "Warn about address poisoning attacks", "priority": "important" },
+          { "text": "Display ENS verification alongside addresses", "priority": "important" },
+          { "text": "Check token contracts against known scam lists", "priority": "important" }
         ]
       },
       {
         "heading": "Error Handling",
         "items": [
-          { "text": "Implement error boundaries to prevent full app crashes", "priority": "high" },
-          { "text": "Handle RPC errors gracefully with retry logic", "priority": "high" },
-          { "text": "Display user-friendly error messages, not raw errors", "priority": "medium" },
-          { "text": "Log errors for debugging without exposing sensitive data", "priority": "medium" },
-          { "text": "Handle network timeouts with appropriate fallbacks", "priority": "medium" },
-          { "text": "Implement circuit breakers for failing services", "priority": "low" }
+          { "text": "Implement error boundaries to prevent full app crashes", "priority": "critical" },
+          { "text": "Handle RPC errors gracefully with retry logic", "priority": "critical" },
+          { "text": "Display user-friendly error messages, not raw errors", "priority": "important" },
+          { "text": "Log errors for debugging without exposing sensitive data", "priority": "important" },
+          { "text": "Handle network timeouts with appropriate fallbacks", "priority": "important" },
+          { "text": "Implement circuit breakers for failing services", "priority": "nice-to-have" }
         ]
       },
       {
         "heading": "Dependencies and Build",
         "items": [
-          { "text": "Audit npm packages for known vulnerabilities (npm audit)", "priority": "high" },
-          { "text": "Lock dependency versions to prevent supply chain attacks", "priority": "high" },
-          { "text": "Use integrity hashes for CDN resources", "priority": "medium" },
-          { "text": "Review dependency code for wallet or key handling", "priority": "medium" },
-          { "text": "Implement Content Security Policy headers", "priority": "high" },
+          { "text": "Audit npm packages for known vulnerabilities (npm audit)", "priority": "critical" },
+          { "text": "Lock dependency versions to prevent supply chain attacks", "priority": "critical" },
+          { "text": "Use integrity hashes for CDN resources", "priority": "important" },
+          { "text": "Review dependency code for wallet or key handling", "priority": "important" },
+          { "text": "Implement Content Security Policy headers", "priority": "critical" },
           { "text": "Avoid using eval() or innerHTML with user data", "priority": "critical" },
-          { "text": "Minify and obfuscate production builds", "priority": "low" }
+          { "text": "Minify and obfuscate production builds", "priority": "nice-to-have" }
         ]
       },
       {
         "heading": "Testing",
         "items": [
-          { "text": "Test with real wallets on testnets, not just mocks", "priority": "high" },
-          { "text": "Test mobile wallet browser behavior", "priority": "high" },
-          { "text": "Test with slow network conditions", "priority": "medium" },
-          { "text": "Test transaction failures and reverts", "priority": "high" },
-          { "text": "Test wallet disconnection mid-transaction", "priority": "medium" },
-          { "text": "Test with multiple browser extensions installed", "priority": "low" },
-          { "text": "Implement E2E tests with wallet automation (Synpress)", "priority": "medium" }
+          { "text": "Test with real wallets on testnets, not just mocks", "priority": "critical" },
+          { "text": "Test mobile wallet browser behavior", "priority": "critical" },
+          { "text": "Test with slow network conditions", "priority": "important" },
+          { "text": "Test transaction failures and reverts", "priority": "critical" },
+          { "text": "Test wallet disconnection mid-transaction", "priority": "important" },
+          { "text": "Test with multiple browser extensions installed", "priority": "nice-to-have" },
+          { "text": "Implement E2E tests with wallet automation (Synpress)", "priority": "important" }
         ]
       }
     ],

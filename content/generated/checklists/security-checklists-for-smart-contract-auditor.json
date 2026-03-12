@@ -46,7 +46,7 @@
           {
             "title": "Create a contract architecture diagram",
             "description": "Map out contract interactions, inheritance, and external dependencies visually.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Preparation"
           }
         ]
@@ -88,7 +88,7 @@
           {
             "title": "Review timelock and governance constraints",
             "description": "Check if administrative actions are properly timelocked for user protection.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Access Control"
           }
         ]
@@ -292,7 +292,7 @@
           {
             "title": "Review gas cost variability",
             "description": "Check if gas costs can vary dramatically based on input, enabling gas griefing.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "DoS"
           }
         ]

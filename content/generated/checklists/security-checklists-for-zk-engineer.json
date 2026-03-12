@@ -36,17 +36,17 @@
           },
           {
             "task": "Range constraints on all numeric inputs",
-            "priority": "high",
+            "priority": "critical",
             "description": "Field elements wrap around. Ensure values stay in expected ranges."
           },
           {
             "task": "Boolean values constrained to 0 or 1",
-            "priority": "high",
+            "priority": "critical",
             "description": "x * (x - 1) === 0 enforces boolean. Just saying 'is boolean' is not enough."
           },
           {
             "task": "Array bounds checked",
-            "priority": "high",
+            "priority": "critical",
             "description": "Array indices must be constrained to valid ranges."
           }
         ]
@@ -62,22 +62,22 @@
           },
           {
             "task": "Division by zero handled",
-            "priority": "high",
+            "priority": "critical",
             "description": "Division by zero is undefined. Ensure denominators are non-zero."
           },
           {
             "task": "Square root non-uniqueness",
-            "priority": "high",
+            "priority": "critical",
             "description": "Field elements have two square roots. Constrain which one is expected."
           },
           {
             "task": "Comparison operations correct",
-            "priority": "high",
+            "priority": "critical",
             "description": "Less-than comparisons are expensive and tricky in circuits. Verify implementation."
           },
           {
             "task": "Bit decomposition complete",
-            "priority": "high",
+            "priority": "critical",
             "description": "When decomposing to bits, ensure reconstruction equals original."
           }
         ]
@@ -103,7 +103,7 @@
           },
           {
             "task": "Public key validation",
-            "priority": "high",
+            "priority": "critical",
             "description": "Verify public keys are valid curve points. Invalid keys can cause issues."
           },
           {
@@ -129,17 +129,17 @@
           },
           {
             "task": "Leaf preimage fully committed",
-            "priority": "high",
+            "priority": "critical",
             "description": "The leaf value must include all relevant data, not just identifiers."
           },
           {
             "task": "Tree depth correct",
-            "priority": "high",
+            "priority": "critical",
             "description": "Circuit tree depth must match actual tree depth."
           },
           {
             "task": "Empty leaves handled",
-            "priority": "medium",
+            "priority": "important",
             "description": "Define what empty leaves hash to. Ensure consistency."
           }
         ]
@@ -186,17 +186,17 @@
           },
           {
             "task": "Proof cannot be replayed",
-            "priority": "high",
+            "priority": "critical",
             "description": "Include nonce or timestamp in public inputs to prevent replay."
           },
           {
             "task": "Verifier handles invalid proofs",
-            "priority": "high",
+            "priority": "critical",
             "description": "Verifier must reject malformed proofs, not revert or panic."
           },
           {
             "task": "Gas limits tested",
-            "priority": "high",
+            "priority": "critical",
             "description": "On-chain verification must fit within block gas limits."
           }
         ]
@@ -212,7 +212,7 @@
           },
           {
             "task": "Proof expiration implemented",
-            "priority": "high",
+            "priority": "critical",
             "description": "Proofs should have time bounds to prevent indefinite validity."
           },
           {
@@ -222,7 +222,7 @@
           },
           {
             "task": "External data validated",
-            "priority": "high",
+            "priority": "critical",
             "description": "Data from oracles or other sources must be validated before use in proofs."
           }
         ]

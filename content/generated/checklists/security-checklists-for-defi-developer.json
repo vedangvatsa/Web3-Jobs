@@ -52,7 +52,7 @@
           {
             "title": "Protect against oracle front-running",
             "description": "Consider commit-reveal or other mechanisms if oracle updates create arbitrage opportunities.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Oracles"
           }
         ]
@@ -88,7 +88,7 @@
           {
             "title": "Consider flash loan fees in arbitrage calculations",
             "description": "Understand that attackers pay fees. Some attacks are unprofitable after fees.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Flash Loans"
           }
         ]
@@ -256,7 +256,7 @@
           {
             "title": "Handle tokens with blocklists",
             "description": "USDC and USDT can blocklist addresses. Consider implications for your protocol.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Tokens"
           }
         ]

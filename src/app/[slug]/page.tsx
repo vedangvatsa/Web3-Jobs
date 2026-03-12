@@ -39,16 +39,25 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   const resource = getResourceByCanonicalSlug(params.slug);
   if (resource) {
     const siteUrl = 'https://hashtagweb3.com';
+    const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
+    const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(resource.seo.title)}&category=${encodeURIComponent(resource.meta.contentType)}`;
     return {
       title: `${resource.seo.title} | Hashtag Web3`,
       description: resource.seo.description,
       keywords: resource.seo.keywords,
-      alternates: { canonical: `${siteUrl}/${resource.seo.canonicalSlug}` },
+      alternates: { canonical: resourceUrl },
       openGraph: {
         title: resource.seo.title,
         description: resource.seo.description,
         type: 'article',
-        url: `${siteUrl}/${resource.seo.canonicalSlug}`,
+        url: resourceUrl,
+        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: resource.seo.title }],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: resource.seo.title,
+        description: resource.seo.description,
+        images: [ogImageUrl],
       },
     };
   }
@@ -143,7 +152,45 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   // Check if it's a resource page first
   const resource = getResourceByCanonicalSlug(params.slug);
   if (resource) {
-    return <ResourcePageView page={resource} />;
+    const siteUrl = 'https://hashtagweb3.com';
+    const pageUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
+    const articleSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: resource.seo.title,
+      description: resource.seo.description,
+      url: pageUrl,
+      datePublished: resource.meta.generatedAt,
+      dateModified: resource.meta.generatedAt,
+      author: { '@type': 'Organization', name: 'Hashtag Web3', url: siteUrl },
+      publisher: {
+        '@type': 'Organization',
+        name: 'Hashtag Web3',
+        url: siteUrl,
+        logo: { '@type': 'ImageObject', url: `${siteUrl}/logo.png` },
+      },
+      mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+      keywords: resource.seo.keywords.join(', '),
+    };
+    const breadcrumbSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
+        { '@type': 'ListItem', position: 2, name: 'Resources', item: `${siteUrl}/resources` },
+        { '@type': 'ListItem', position: 3, name: resource.seo.title, item: pageUrl },
+      ],
+    };
+    const nicheResources = getAllResourcePages().filter(
+      (p) => p.meta.niche === resource.meta.niche && p.seo.canonicalSlug !== resource.seo.canonicalSlug
+    );
+    return (
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+        <ResourcePageView page={resource} nicheResources={nicheResources} />
+      </>
+    );
   }
 
   // Check if it's a glossary term

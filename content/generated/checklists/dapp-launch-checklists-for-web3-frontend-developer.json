@@ -1,0 +1,363 @@
+{
+  "meta": {
+    "contentType": "checklists",
+    "topic": "dapp-launch",
+    "niche": "web3-frontend-developer",
+    "generatedAt": "2026-03-12T20:08:56.237Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "Dapp Launch Checklist for Frontend Developers",
+    "description": "Production dapp launch checklist for Web3 frontends. Covers wallet integration, transaction handling, error states, and deployment.",
+    "keywords": [
+      "web3-frontend-developer",
+      "checklists",
+      "dapp-launch",
+      "web3",
+      "smart-contract",
+      "blockchain",
+      "wallet-integration",
+      "transaction-handling",
+      "error-handling-&-edge-cases"
+    ],
+    "canonicalSlug": "dapp-launch-checklists-for-web3-frontend-developer"
+  },
+  "content": {
+    "intro": "The complete checklist for launching a decentralized application frontend. Covers wallet integration, transaction handling, error states, security, and production deployment.",
+    "sections": [
+      {
+        "heading": "Wallet Integration",
+        "description": "Ensure seamless wallet connectivity.",
+        "items": [
+          {
+            "title": "Support all major wallets",
+            "description": "MetaMask, WalletConnect, Coinbase Wallet, Rainbow at minimum.",
+            "priority": "critical",
+            "category": "Connectivity"
+          },
+          {
+            "title": "Handle wallet not installed gracefully",
+            "description": "Show installation links when wallet extension is missing.",
+            "priority": "important",
+            "category": "UX"
+          },
+          {
+            "title": "Persist connection across sessions",
+            "description": "Remember connected wallet. Auto-reconnect on page load.",
+            "priority": "important",
+            "category": "UX"
+          },
+          {
+            "title": "Support mobile wallet browsers",
+            "description": "Test in MetaMask mobile, Trust Wallet, and Coinbase Wallet browsers.",
+            "priority": "critical",
+            "category": "Mobile"
+          },
+          {
+            "title": "Handle account changes correctly",
+            "description": "React to accountsChanged event. Update UI and refetch data.",
+            "priority": "critical",
+            "category": "Events"
+          },
+          {
+            "title": "Handle chain changes correctly",
+            "description": "React to chainChanged event. Prompt network switch if wrong chain.",
+            "priority": "critical",
+            "category": "Events"
+          },
+          {
+            "title": "Implement clean disconnect flow",
+            "description": "Clear connection state and cached data on disconnect.",
+            "priority": "important",
+            "category": "UX"
+          },
+          {
+            "title": "Show connected wallet address",
+            "description": "Display truncated address and ENS name if available.",
+            "priority": "important",
+            "category": "UX"
+          }
+        ]
+      },
+      {
+        "heading": "Transaction Handling",
+        "description": "Manage the full transaction lifecycle.",
+        "items": [
+          {
+            "title": "Show clear transaction preview",
+            "description": "Display what will happen before user signs. Show amounts, recipients.",
+            "priority": "critical",
+            "category": "Transparency"
+          },
+          {
+            "title": "Estimate gas accurately",
+            "description": "Show estimated gas cost in native token and USD.",
+            "priority": "important",
+            "category": "UX"
+          },
+          {
+            "title": "Handle pending state correctly",
+            "description": "Show loading indicator, disable retry, display pending toast.",
+            "priority": "critical",
+            "category": "UX"
+          },
+          {
+            "title": "Track transaction confirmation",
+            "description": "Poll for receipt. Update UI when confirmed.",
+            "priority": "critical",
+            "category": "UX"
+          },
+          {
+            "title": "Handle transaction failure gracefully",
+            "description": "Parse error messages. Show user-friendly failure reason.",
+            "priority": "critical",
+            "category": "Errors"
+          },
+          {
+            "title": "Provide block explorer links",
+            "description": "Link to Etherscan/explorer for transaction details.",
+            "priority": "important",
+            "category": "UX"
+          },
+          {
+            "title": "Handle user rejection",
+            "description": "Detect when user cancels in wallet. Reset UI appropriately.",
+            "priority": "critical",
+            "category": "Errors"
+          },
+          {
+            "title": "Support transaction speed-up/cancel",
+            "description": "Allow users to speed up or cancel pending transactions.",
+            "priority": "nice-to-have",
+            "category": "Advanced"
+          }
+        ]
+      },
+      {
+        "heading": "Error Handling & Edge Cases",
+        "description": "Handle all error scenarios gracefully.",
+        "items": [
+          {
+            "title": "Handle RPC errors",
+            "description": "Catch and display RPC failures. Offer retry option.",
+            "priority": "critical",
+            "category": "Errors"
+          },
+          {
+            "title": "Handle insufficient funds",
+            "description": "Check balance before enabling actions. Show clear message.",
+            "priority": "critical",
+            "category": "Validation"
+          },
+          {
+            "title": "Handle insufficient allowance",
+            "description": "Detect when approval is needed. Guide user through approval.",
+            "priority": "critical",
+            "category": "Validation"
+          },
+          {
+            "title": "Handle contract reverts",
+            "description": "Parse revert reasons. Display human-readable error.",
+            "priority": "critical",
+            "category": "Errors"
+          },
+          {
+            "title": "Handle network congestion",
+            "description": "Suggest higher gas when transaction is stuck.",
+            "priority": "important",
+            "category": "UX"
+          },
+          {
+            "title": "Handle stale data",
+            "description": "Show loading states. Prevent actions on outdated data.",
+            "priority": "important",
+            "category": "Data"
+          },
+          {
+            "title": "Handle offline state",
+            "description": "Detect offline. Show appropriate message and disable actions.",
+            "priority": "important",
+            "category": "Connectivity"
+          },
+          {
+            "title": "Implement global error boundary",
+            "description": "Catch unexpected errors. Show recovery option.",
+            "priority": "important",
+            "category": "Errors"
+          }
+        ]
+      },
+      {
+        "heading": "Security & Safety",
+        "description": "Protect users from attacks and mistakes.",
+        "items": [
+          {
+            "title": "Validate all user inputs",
+            "description": "Sanitize addresses, amounts, and other inputs.",
+            "priority": "critical",
+            "category": "Validation"
+          },
+          {
+            "title": "Verify contract addresses",
+            "description": "Hardcode or validate contract addresses. Never trust URL params.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Show transaction simulation results",
+            "description": "Use Tenderly or similar to show expected outcome.",
+            "priority": "important",
+            "category": "Safety"
+          },
+          {
+            "title": "Warn on high slippage",
+            "description": "Alert users when slippage exceeds safe thresholds.",
+            "priority": "important",
+            "category": "Safety"
+          },
+          {
+            "title": "Implement phishing protection",
+            "description": "Show domain verification. Warn about suspicious sites.",
+            "priority": "important",
+            "category": "Security"
+          },
+          {
+            "title": "Secure API keys",
+            "description": "Use environment variables. Never expose private keys in frontend.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Validate network before transactions",
+            "description": "Confirm user is on correct chain before sending.",
+            "priority": "critical",
+            "category": "Safety"
+          },
+          {
+            "title": "Rate limit sensitive operations",
+            "description": "Prevent rapid-fire transactions that could drain wallets.",
+            "priority": "important",
+            "category": "Safety"
+          }
+        ]
+      },
+      {
+        "heading": "Performance & Reliability",
+        "description": "Ensure fast, reliable user experience.",
+        "items": [
+          {
+            "title": "Configure RPC fallbacks",
+            "description": "Multiple RPC providers with automatic failover.",
+            "priority": "critical",
+            "category": "Infrastructure"
+          },
+          {
+            "title": "Implement request caching",
+            "description": "Cache contract reads. Use SWR or React Query.",
+            "priority": "important",
+            "category": "Performance"
+          },
+          {
+            "title": "Optimize bundle size",
+            "description": "Tree-shake unused code. Lazy load heavy components.",
+            "priority": "important",
+            "category": "Performance"
+          },
+          {
+            "title": "Set up CDN and caching",
+            "description": "Use CDN for static assets. Configure cache headers.",
+            "priority": "important",
+            "category": "Infrastructure"
+          },
+          {
+            "title": "Implement loading skeletons",
+            "description": "Show placeholder content during data fetching.",
+            "priority": "important",
+            "category": "UX"
+          },
+          {
+            "title": "Test under poor network conditions",
+            "description": "Verify app works on slow/unstable connections.",
+            "priority": "important",
+            "category": "Testing"
+          },
+          {
+            "title": "Set up error monitoring",
+            "description": "Use Sentry or similar for production error tracking.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Monitor RPC usage and costs",
+            "description": "Track API calls. Optimize to reduce costs.",
+            "priority": "nice-to-have",
+            "category": "Operations"
+          }
+        ]
+      },
+      {
+        "heading": "Production Deployment",
+        "description": "Deploy and verify production build.",
+        "items": [
+          {
+            "title": "Update contract addresses for mainnet",
+            "description": "Switch from testnet to mainnet contract addresses.",
+            "priority": "critical",
+            "category": "Configuration"
+          },
+          {
+            "title": "Configure production RPC endpoints",
+            "description": "Use paid RPC services for reliability.",
+            "priority": "critical",
+            "category": "Infrastructure"
+          },
+          {
+            "title": "Enable production analytics",
+            "description": "Set up Mixpanel, Amplitude, or custom analytics.",
+            "priority": "important",
+            "category": "Analytics"
+          },
+          {
+            "title": "Verify CSP and security headers",
+            "description": "Configure Content Security Policy to prevent XSS.",
+            "priority": "important",
+            "category": "Security"
+          },
+          {
+            "title": "Test production build thoroughly",
+            "description": "Full end-to-end testing on production deployment.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Set up IPFS backup",
+            "description": "Deploy to IPFS for censorship-resistant hosting.",
+            "priority": "nice-to-have",
+            "category": "Decentralization"
+          },
+          {
+            "title": "Configure custom domain",
+            "description": "Set up domain, SSL, and DNS correctly.",
+            "priority": "critical",
+            "category": "Infrastructure"
+          },
+          {
+            "title": "Monitor uptime",
+            "description": "Set up uptime monitoring and alerts.",
+            "priority": "important",
+            "category": "Operations"
+          }
+        ]
+      }
+    ],
+    "proTips": [
+      "Test with real wallets on testnet first: Don't rely only on local testing. Real wallets behave differently.",
+      "Parse every possible error type: Users blame your app, not their wallet. Make errors crystal clear.",
+      "Cache aggressively, invalidate correctly: Balance between fast UI and accurate data. Invalidate on tx confirmation.",
+      "Support hardware wallets explicitly: Ledger and Trezor have different flows. Test them specifically.",
+      "Build for mobile-first: More users access dapps via mobile wallets than desktop extensions."
+    ],
+    "conclusion": "Create the user interfaces that make blockchain accessible to everyone.",
+    "relatedResources": []
+  }
+}

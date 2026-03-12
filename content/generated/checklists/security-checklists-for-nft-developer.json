@@ -94,7 +94,7 @@
           {
             "title": "Secure batch reveal logic",
             "description": "If revealing in batches, ensure each batch cannot influence future batch outcomes.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Randomness"
           }
         ]
@@ -130,7 +130,7 @@
           {
             "title": "Verify contractURI for marketplace compatibility",
             "description": "Implement contractURI for collection-level metadata on OpenSea and other marketplaces.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Metadata"
           }
         ]
@@ -160,13 +160,13 @@
           {
             "title": "Consider operator filter for royalty enforcement",
             "description": "Implement OpenSea's Operator Filter Registry if you want to enforce royalties on supporting marketplaces.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Royalties"
           },
           {
             "title": "Test royalty calculation with various sale prices",
             "description": "Verify royalty math works correctly for both small and large sale amounts.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Royalties"
           }
         ]
@@ -196,7 +196,7 @@
           {
             "title": "Consider renouncing ownership after launch",
             "description": "For fully decentralized collections, consider renouncing ownership after setup.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Access Control"
           },
           {
@@ -262,7 +262,7 @@
           {
             "title": "Optimize string operations",
             "description": "Pre-compute string concatenations where possible. Avoid dynamic string operations.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Gas"
           },
           {
@@ -274,7 +274,7 @@
           {
             "title": "Consider lazy minting for large collections",
             "description": "For very large collections, consider minting on demand rather than batch minting.",
-            "priority": "recommended",
+            "priority": "important",
             "category": "Gas"
           }
         ]

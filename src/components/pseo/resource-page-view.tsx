@@ -7,6 +7,7 @@ import { useState, useEffect } from 'react';
 
 interface ResourcePageViewProps {
   page: ResourcePage;
+  nicheResources?: ResourcePage[];
 }
 
 // Simple date formatter
@@ -35,7 +36,7 @@ function linkify(text: string): string {
   return text.replace(urlPattern, '<a href="$1" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">$1</a>');
 }
 
-export function ResourcePageView({ page }: ResourcePageViewProps) {
+export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps) {
   const contentType = page.meta.contentType;
 
   return (
@@ -79,11 +80,11 @@ export function ResourcePageView({ page }: ResourcePageViewProps) {
           )}
 
           {/* Pro Tips */}
-          {page.content.proTips.length > 0 && (
+          {(page.content.proTips?.length ?? 0) > 0 && (
             <section className="mt-16 pt-8 border-t">
               <h2 className="text-xl font-semibold mb-6">Tips from the field</h2>
               <ul className="space-y-4">
-                {page.content.proTips.map((tip, idx) => (
+                {page.content.proTips?.map((tip, idx) => (
                   <li key={idx} className="flex gap-4">
                     <span className="text-muted-foreground font-mono text-sm">{idx + 1}.</span>
                     <p className="text-muted-foreground">{tip}</p>
@@ -94,34 +95,51 @@ export function ResourcePageView({ page }: ResourcePageViewProps) {
           )}
 
           {/* Conclusion */}
-          <section className="mt-12 p-6 bg-muted/30 rounded-lg">
-            <p className="text-muted-foreground">{page.content.conclusion}</p>
-          </section>
+          {page.content.conclusion && (
+            <section className="mt-12 p-6 bg-muted/30 rounded-lg">
+              <p className="text-muted-foreground">{page.content.conclusion}</p>
+            </section>
+          )}
 
           {/* Related */}
-          {page.content.relatedResources.length > 0 && (
+          {(page.content.relatedResources?.length ?? 0) > 0 && (
             <section className="mt-12">
               <h3 className="text-sm font-medium text-muted-foreground mb-4">Related reading</h3>
               <ul className="space-y-2">
                 {page.content.relatedResources.map((resource, idx) => {
-                  // Try to make it a link if it looks like a resource title
-                  const slug = titleToSlug(resource);
-                  const isLikelyInternal = resource.includes('Solidity') || resource.includes('Web3') || resource.includes('Developer');
-                  
+                  // Support both {title, slug} objects and plain strings
+                  const label = typeof resource === 'object' ? (resource as any).title : resource;
+                  const slug = typeof resource === 'object' ? (resource as any).slug : titleToSlug(resource);
                   return (
                     <li key={idx} className="text-sm">
                       <span className="text-muted-foreground">→</span>{' '}
-                      {isLikelyInternal ? (
-                        <Link href={`/${slug}`} className="text-foreground hover:text-primary hover:underline">
-                          {resource}
-                        </Link>
-                      ) : (
-                        <span>{resource}</span>
-                      )}
+                      <Link href={`/${slug}`} className="text-foreground hover:text-primary hover:underline">
+                        {label}
+                      </Link>
                     </li>
                   );
                 })}
               </ul>
+            </section>
+          )}
+
+          {/* More resources for this niche */}
+          {nicheResources && nicheResources.length > 0 && (
+            <section className="mt-12 pt-8 border-t">
+              <h3 className="text-sm font-medium text-muted-foreground mb-4">
+                More for <span className="capitalize">{page.meta.niche.replace(/-/g, ' ')}</span>
+              </h3>
+              <div className="flex flex-wrap gap-2">
+                {nicheResources.map((r) => (
+                  <Link
+                    key={r.seo.canonicalSlug}
+                    href={`/${r.seo.canonicalSlug}`}
+                    className="text-sm px-3 py-1.5 border rounded-md hover:bg-muted/50 transition-colors"
+                  >
+                    {r.seo.title}
+                  </Link>
+                ))}
+              </div>
             </section>
           )}
 
@@ -234,7 +252,7 @@ function ChecklistContent({ sections, slug }: { sections: Array<{ heading: strin
                   <div className="flex-1">
                     <div className="flex items-center gap-2 mb-1">
                       <span className={`font-medium ${isChecked ? 'line-through text-muted-foreground' : ''}`}>
-                        {item.title}
+                        {item.title ?? (item as any).text}
                       </span>
                       <span className={`text-xs px-2 py-0.5 rounded ${
                         item.priority === 'critical' ? 'bg-red-100 text-red-800' :
@@ -244,9 +262,11 @@ function ChecklistContent({ sections, slug }: { sections: Array<{ heading: strin
                         {item.priority}
                       </span>
                     </div>
-                    <p className={`text-sm ${isChecked ? 'text-muted-foreground/50' : 'text-muted-foreground'}`}>
-                      {item.description}
-                    </p>
+                    {item.description && (
+                      <p className={`text-sm ${isChecked ? 'text-muted-foreground/50' : 'text-muted-foreground'}`}>
+                        {item.description}
+                      </p>
+                    )}
                   </div>
                 </label>
               );
@@ -315,8 +335,8 @@ function ToolsContent({ sections }: { sections: Array<{ heading: string; descrip
                 <div className="flex items-start justify-between gap-2 mb-2">
                   <h3 className="font-medium group-hover:text-primary">{item.name}</h3>
                   <span className={`text-xs px-2 py-0.5 rounded shrink-0 ${
-                    item.pricing === 'free' ? 'bg-green-100 text-green-800' :
-                    item.pricing === 'freemium' ? 'bg-blue-100 text-blue-800' :
+                    item.pricing?.toLowerCase() === 'free' ? 'bg-green-100 text-green-800' :
+                    item.pricing?.toLowerCase() === 'freemium' ? 'bg-blue-100 text-blue-800' :
                     'bg-gray-100 text-gray-800'
                   }`}>
                     {item.pricing}

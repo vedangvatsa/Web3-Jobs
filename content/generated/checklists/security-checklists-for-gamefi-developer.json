@@ -41,7 +41,7 @@
           },
           {
             "task": "Integer overflow checked",
-            "priority": "high",
+            "priority": "critical",
             "description": "Use Solidity 0.8+ or SafeMath for all arithmetic."
           },
           {
@@ -57,17 +57,17 @@
         "items": [
           {
             "task": "Metadata immutability",
-            "priority": "high",
+            "priority": "critical",
             "description": "Decide if metadata is mutable. If mutable, restrict who can change it."
           },
           {
             "task": "Royalty enforcement checked",
-            "priority": "medium",
+            "priority": "important",
             "description": "Understand that on-chain royalties are not always enforceable on all marketplaces."
           },
           {
             "task": "NFT burn protection",
-            "priority": "high",
+            "priority": "critical",
             "description": "Protect against accidental burns. Consider requiring confirmation."
           },
           {
@@ -93,7 +93,7 @@
           },
           {
             "task": "Reward claiming rate limited",
-            "priority": "high",
+            "priority": "critical",
             "description": "Prevent rapid reward claiming that could drain pools."
           },
           {
@@ -108,12 +108,12 @@
           },
           {
             "task": "Reward pools have withdrawal limits",
-            "priority": "high",
+            "priority": "critical",
             "description": "Large instant withdrawals could indicate an exploit. Add delays or limits."
           },
           {
             "task": "Bot prevention mechanisms",
-            "priority": "high",
+            "priority": "critical",
             "description": "Detect and prevent automated farming that destroys economy."
           }
         ]
@@ -139,12 +139,12 @@
           },
           {
             "task": "Anti-cheat implemented",
-            "priority": "high",
+            "priority": "critical",
             "description": "Memory editing, speed hacks, and automation should be detected."
           },
           {
             "task": "Client obfuscation",
-            "priority": "medium",
+            "priority": "important",
             "description": "Obfuscate client code to slow down reverse engineering."
           }
         ]
@@ -155,27 +155,27 @@
         "items": [
           {
             "task": "Wallet connection uses standard protocols",
-            "priority": "high",
+            "priority": "critical",
             "description": "Use WalletConnect, Web3Modal, or other standard connection methods."
           },
           {
             "task": "Transaction signing explains actions",
-            "priority": "high",
+            "priority": "critical",
             "description": "Users should understand what they are signing. Clear transaction descriptions."
           },
           {
             "task": "No unnecessary token approvals",
-            "priority": "high",
+            "priority": "critical",
             "description": "Request only the approvals needed. Avoid unlimited approvals."
           },
           {
             "task": "Phishing protection messaging",
-            "priority": "medium",
+            "priority": "important",
             "description": "Warn users about phishing. Provide official links and verification."
           },
           {
             "task": "Session management for embedded wallets",
-            "priority": "high",
+            "priority": "critical",
             "description": "If using embedded wallets, implement proper session timeout and re-auth."
           }
         ]
@@ -186,7 +186,7 @@
         "items": [
           {
             "task": "API rate limiting",
-            "priority": "high",
+            "priority": "critical",
             "description": "Prevent API abuse through rate limiting per user and IP."
           },
           {
@@ -196,7 +196,7 @@
           },
           {
             "task": "Database encrypted at rest",
-            "priority": "high",
+            "priority": "critical",
             "description": "Player data and game state should be encrypted in storage."
           },
           {
@@ -206,7 +206,7 @@
           },
           {
             "task": "Logging and monitoring",
-            "priority": "high",
+            "priority": "critical",
             "description": "Log suspicious activity and set up alerts for anomalies."
           }
         ]

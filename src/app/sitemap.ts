@@ -157,8 +157,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // pSEO resource pages live at /<slug> (root level).
   const resourceRoutes: MetadataRoute.Sitemap = resourcePages.map((page) => ({
-    url: `${siteUrl}/${page.slug}`,
-    lastModified: new Date('2026-03-13'),
+    url: `${siteUrl}/${page.seo.canonicalSlug}`,
+    lastModified: new Date(page.meta.generatedAt),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
   }));
 
   return [
