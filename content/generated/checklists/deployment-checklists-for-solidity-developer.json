@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "contentType": "checklists",
+    "topic": "deployment",
+    "niche": "solidity-developer",
+    "generatedAt": "2026-03-12T20:08:56.236Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "Smart Contract Deployment Checklist",
+    "description": "Pre-mainnet deployment checklist for Solidity smart contracts. Covers testing, configuration, access control, and production monitoring.",
+    "keywords": [
+      "solidity-developer",
+      "checklists",
+      "deployment",
+      "web3",
+      "smart-contract",
+      "blockchain",
+      "final-code-review",
+      "configuration-&-parameters",
+      "access-control-setup"
+    ],
+    "canonicalSlug": "deployment-checklists-for-solidity-developer"
+  },
+  "content": {
+    "intro": "The definitive pre-deployment checklist for Solidity developers. From final code review to mainnet deployment, this guide ensures nothing is missed when real money is on the line.",
+    "sections": [
+      {
+        "heading": "Final Code Review",
+        "description": "Last checks before freezing the code.",
+        "items": [
+          {
+            "title": "All tests passing with 100% of critical paths covered",
+            "description": "Run full test suite. Ensure all edge cases for value transfers and state changes are tested.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Remove all console.log and debug code",
+            "description": "Search for console.log, hardhat/console.sol imports, and test-only functions.",
+            "priority": "critical",
+            "category": "Cleanup"
+          },
+          {
+            "title": "Verify correct Solidity version",
+            "description": "Use a stable, audited compiler version. Avoid floating pragmas (^0.8.0).",
+            "priority": "critical",
+            "category": "Configuration"
+          },
+          {
+            "title": "Check optimizer settings",
+            "description": "Document optimizer runs. Higher runs = cheaper execution, larger bytecode.",
+            "priority": "important",
+            "category": "Configuration"
+          },
+          {
+            "title": "Verify contract sizes under 24KB",
+            "description": "Check bytecode size limits. Split contracts or use libraries if needed.",
+            "priority": "critical",
+            "category": "Constraints"
+          },
+          {
+            "title": "Remove unused imports and dead code",
+            "description": "Clean up any code that isn't used in production paths.",
+            "priority": "important",
+            "category": "Cleanup"
+          },
+          {
+            "title": "Verify NatSpec documentation is complete",
+            "description": "All public/external functions should have @notice, @param, and @return docs.",
+            "priority": "nice-to-have",
+            "category": "Documentation"
+          },
+          {
+            "title": "Confirm audit findings are resolved",
+            "description": "All critical and high findings must be fixed. Medium issues should be addressed or documented.",
+            "priority": "critical",
+            "category": "Security"
+          }
+        ]
+      },
+      {
+        "heading": "Configuration & Parameters",
+        "description": "Verify all deployment parameters are correct.",
+        "items": [
+          {
+            "title": "Verify constructor arguments",
+            "description": "Double-check all addresses, rates, and configuration values. Use checksummed addresses.",
+            "priority": "critical",
+            "category": "Parameters"
+          },
+          {
+            "title": "Confirm admin/owner addresses",
+            "description": "Owner should be a multisig, not an EOA. Verify multisig signers and threshold.",
+            "priority": "critical",
+            "category": "Access Control"
+          },
+          {
+            "title": "Set appropriate timelock delays",
+            "description": "Critical operations should have 24-48 hour timelocks minimum.",
+            "priority": "critical",
+            "category": "Governance"
+          },
+          {
+            "title": "Verify oracle addresses and feeds",
+            "description": "Confirm Chainlink feed addresses are correct for target network.",
+            "priority": "critical",
+            "category": "Integration"
+          },
+          {
+            "title": "Check fee parameters and limits",
+            "description": "Verify fee percentages, max fees, and fee recipient addresses.",
+            "priority": "critical",
+            "category": "Parameters"
+          },
+          {
+            "title": "Confirm token addresses and decimals",
+            "description": "Verify all token addresses. Check decimals handling for non-18 decimal tokens.",
+            "priority": "critical",
+            "category": "Integration"
+          },
+          {
+            "title": "Set initial rate limits",
+            "description": "Configure conservative limits for withdrawals, mints, and other operations.",
+            "priority": "important",
+            "category": "Parameters"
+          },
+          {
+            "title": "Document all magic numbers",
+            "description": "Every constant should be documented with its meaning and rationale.",
+            "priority": "nice-to-have",
+            "category": "Documentation"
+          }
+        ]
+      },
+      {
+        "heading": "Access Control Setup",
+        "description": "Configure permissions and privileged roles.",
+        "items": [
+          {
+            "title": "Deploy multisig wallet first",
+            "description": "Create Safe or other multisig with appropriate signers before contract deployment.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Set up role-based access control",
+            "description": "Grant roles to appropriate addresses. Use principle of least privilege.",
+            "priority": "critical",
+            "category": "Access Control"
+          },
+          {
+            "title": "Configure timelock controller",
+            "description": "Deploy timelock and set as admin for upgradeable contracts.",
+            "priority": "critical",
+            "category": "Governance"
+          },
+          {
+            "title": "Verify emergency admin setup",
+            "description": "Emergency pause should be accessible quickly but protected from abuse.",
+            "priority": "critical",
+            "category": "Emergency"
+          },
+          {
+            "title": "Document all privileged addresses",
+            "description": "Create public documentation of all admin addresses and their capabilities.",
+            "priority": "important",
+            "category": "Documentation"
+          },
+          {
+            "title": "Set up monitoring for admin actions",
+            "description": "Configure alerts for all privileged transactions.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Plan key rotation procedure",
+            "description": "Document how to rotate keys if a signer is compromised.",
+            "priority": "important",
+            "category": "Operations"
+          },
+          {
+            "title": "Renounce deployer privileges",
+            "description": "Transfer ownership and renounce any deployer-specific roles after setup.",
+            "priority": "critical",
+            "category": "Security"
+          }
+        ]
+      },
+      {
+        "heading": "Testnet Deployment",
+        "description": "Validate deployment on testnet first.",
+        "items": [
+          {
+            "title": "Deploy to testnet with production config",
+            "description": "Use identical constructor args and deployment scripts as mainnet.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Run integration tests against testnet",
+            "description": "Execute full user flows against deployed testnet contracts.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Test upgrade path on testnet",
+            "description": "If upgradeable, test the full upgrade process including storage migration.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Verify with block explorer",
+            "description": "Confirm contract verification works and ABI is correct.",
+            "priority": "important",
+            "category": "Verification"
+          },
+          {
+            "title": "Test emergency procedures",
+            "description": "Execute pause, emergency withdrawal, and circuit breaker functions.",
+            "priority": "critical",
+            "category": "Emergency"
+          },
+          {
+            "title": "Test frontend integration",
+            "description": "Verify dapp works correctly with testnet deployment.",
+            "priority": "important",
+            "category": "Integration"
+          },
+          {
+            "title": "Measure gas costs",
+            "description": "Record gas usage for all major operations. Optimize if needed.",
+            "priority": "important",
+            "category": "Optimization"
+          },
+          {
+            "title": "Test with realistic data",
+            "description": "Simulate production-like conditions including high volumes.",
+            "priority": "important",
+            "category": "Testing"
+          }
+        ]
+      },
+      {
+        "heading": "Mainnet Deployment",
+        "description": "The actual production deployment.",
+        "items": [
+          {
+            "title": "Choose optimal deployment time",
+            "description": "Deploy during low gas periods. Avoid weekends for critical infrastructure.",
+            "priority": "important",
+            "category": "Timing"
+          },
+          {
+            "title": "Prepare deployment wallet with ETH",
+            "description": "Fund deployer with 2-3x expected gas costs. Use fresh wallet.",
+            "priority": "critical",
+            "category": "Preparation"
+          },
+          {
+            "title": "Execute deployment script",
+            "description": "Run automated deployment. Never deploy manually transaction by transaction.",
+            "priority": "critical",
+            "category": "Deployment"
+          },
+          {
+            "title": "Verify all contracts on Etherscan",
+            "description": "Submit source code verification immediately after deployment.",
+            "priority": "critical",
+            "category": "Verification"
+          },
+          {
+            "title": "Record all deployed addresses",
+            "description": "Document every contract address, transaction hash, and block number.",
+            "priority": "critical",
+            "category": "Documentation"
+          },
+          {
+            "title": "Verify initialization state",
+            "description": "Check all storage variables are correctly initialized.",
+            "priority": "critical",
+            "category": "Verification"
+          },
+          {
+            "title": "Execute post-deployment configuration",
+            "description": "Set up any remaining parameters that couldn't be set in constructor.",
+            "priority": "critical",
+            "category": "Configuration"
+          },
+          {
+            "title": "Transfer ownership to multisig",
+            "description": "Move admin rights from deployer to production multisig.",
+            "priority": "critical",
+            "category": "Security"
+          }
+        ]
+      },
+      {
+        "heading": "Post-Deployment Verification",
+        "description": "Confirm everything is working correctly.",
+        "items": [
+          {
+            "title": "Execute smoke tests on mainnet",
+            "description": "Run basic operations with small amounts to verify functionality.",
+            "priority": "critical",
+            "category": "Testing"
+          },
+          {
+            "title": "Verify contract ownership",
+            "description": "Confirm owner/admin is the intended multisig address.",
+            "priority": "critical",
+            "category": "Security"
+          },
+          {
+            "title": "Check oracle connections",
+            "description": "Verify price feeds are returning correct, fresh data.",
+            "priority": "critical",
+            "category": "Integration"
+          },
+          {
+            "title": "Test pause functionality",
+            "description": "Verify pause works and can be triggered by guardian.",
+            "priority": "critical",
+            "category": "Emergency"
+          },
+          {
+            "title": "Verify event emissions",
+            "description": "Confirm events are emitting correctly for indexers.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Check subgraph indexing",
+            "description": "Verify The Graph or other indexers are picking up events.",
+            "priority": "important",
+            "category": "Integration"
+          },
+          {
+            "title": "Test frontend with production contracts",
+            "description": "Full end-to-end test of dapp with real mainnet contracts.",
+            "priority": "critical",
+            "category": "Integration"
+          },
+          {
+            "title": "Document deployment in changelog",
+            "description": "Record deployment details, addresses, and any issues encountered.",
+            "priority": "important",
+            "category": "Documentation"
+          }
+        ]
+      },
+      {
+        "heading": "Monitoring & Alerts",
+        "description": "Set up ongoing production monitoring.",
+        "items": [
+          {
+            "title": "Configure transaction monitoring",
+            "description": "Set up Tenderly, OpenZeppelin Defender, or similar for tx monitoring.",
+            "priority": "critical",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Set up balance alerts",
+            "description": "Alert on unusual balance changes or large withdrawals.",
+            "priority": "critical",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Monitor for failed transactions",
+            "description": "Alert on reverted transactions, especially privileged operations.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Set up oracle health monitoring",
+            "description": "Alert on stale prices or oracle deviations.",
+            "priority": "critical",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Configure invariant monitoring",
+            "description": "Set up Forta bots or custom monitoring for protocol invariants.",
+            "priority": "important",
+            "category": "Monitoring"
+          },
+          {
+            "title": "Create incident response runbook",
+            "description": "Document steps for common incidents: pause, upgrade, fund recovery.",
+            "priority": "critical",
+            "category": "Operations"
+          },
+          {
+            "title": "Set up on-call rotation",
+            "description": "Ensure someone can respond to alerts 24/7.",
+            "priority": "important",
+            "category": "Operations"
+          },
+          {
+            "title": "Schedule regular security reviews",
+            "description": "Plan periodic audits and security assessments.",
+            "priority": "important",
+            "category": "Security"
+          }
+        ]
+      }
+    ],
+    "proTips": [
+      "Use deterministic deployments: CREATE2 lets you predict addresses and deploy to the same address across chains.",
+      "Always deploy from scripts, never manually: Manual deployments lead to configuration errors. Automated scripts are repeatable and auditable.",
+      "Keep deployment private keys offline: Use hardware wallets for deployment. Never store deployer keys on servers.",
+      "Deploy during low-activity periods: Tuesday-Thursday, outside US and Asian market hours, typically has lowest gas.",
+      "Have a rollback plan: Know exactly what to do if deployment fails halfway. Document recovery steps before starting."
+    ],
+    "conclusion": "Join teams building the future of decentralized finance and Web3.",
+    "relatedResources": []
+  }
+}

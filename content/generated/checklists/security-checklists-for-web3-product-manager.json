@@ -21,12 +21,12 @@
         "items": [
           {
             "task": "Threat model documented",
-            "priority": "high",
+            "priority": "critical",
             "description": "Document who might attack, how, and what is at risk. Drives security decisions."
           },
           {
             "task": "Security budget allocated",
-            "priority": "high",
+            "priority": "critical",
             "description": "Audits, bug bounties, and security tools cost money. Budget for them."
           },
           {
@@ -36,12 +36,12 @@
           },
           {
             "task": "Compliance requirements identified",
-            "priority": "high",
+            "priority": "critical",
             "description": "GDPR, SOC2, regulatory requirements affect design. Know them early."
           },
           {
             "task": "Data minimization planned",
-            "priority": "medium",
+            "priority": "important",
             "description": "Collect only data you need. Less data means less risk."
           }
         ]
@@ -62,17 +62,17 @@
           },
           {
             "task": "Emergency procedures defined",
-            "priority": "high",
+            "priority": "critical",
             "description": "What happens if we find a bug? Pause mechanism? Response plan?"
           },
           {
             "task": "Audit scope defined",
-            "priority": "high",
+            "priority": "critical",
             "description": "Which contracts need audit? What severity findings are acceptable?"
           },
           {
             "task": "Bug bounty program planned",
-            "priority": "high",
+            "priority": "critical",
             "description": "Post-launch security coverage. Budget, scope, and platform decided."
           }
         ]
@@ -83,27 +83,27 @@
         "items": [
           {
             "task": "Wallet connection security reviewed",
-            "priority": "high",
+            "priority": "critical",
             "description": "Users understand what they are signing. Clear transaction descriptions."
           },
           {
             "task": "Phishing protection in place",
-            "priority": "high",
+            "priority": "critical",
             "description": "Official links documented. Verification guidance for users."
           },
           {
             "task": "Token approval limits considered",
-            "priority": "high",
+            "priority": "critical",
             "description": "Request only needed approvals. Avoid unlimited approvals when possible."
           },
           {
             "task": "User fund recovery planned",
-            "priority": "medium",
+            "priority": "important",
             "description": "Can users recover if they lose access? What are the limitations?"
           },
           {
             "task": "Support for hacked users",
-            "priority": "medium",
+            "priority": "important",
             "description": "What do we tell users who get phished? Support documentation ready."
           }
         ]
@@ -119,27 +119,27 @@
           },
           {
             "task": "Bug bounty launched before or at mainnet",
-            "priority": "high",
+            "priority": "critical",
             "description": "Security researchers can report issues. Rewards ready."
           },
           {
             "task": "Monitoring and alerting configured",
-            "priority": "high",
+            "priority": "critical",
             "description": "Anomaly detection. Alert when unusual activity occurs."
           },
           {
             "task": "Incident response plan documented",
-            "priority": "high",
+            "priority": "critical",
             "description": "Who does what if something goes wrong. Contact list ready."
           },
           {
             "task": "Communication templates prepared",
-            "priority": "medium",
+            "priority": "important",
             "description": "Pre-written templates for security incidents. Faster response."
           },
           {
             "task": "Insurance or reserve fund",
-            "priority": "medium",
+            "priority": "important",
             "description": "Consider coverage or reserve fund for security events."
           }
         ]
@@ -150,7 +150,7 @@
         "items": [
           {
             "task": "Third-party contract risks assessed",
-            "priority": "high",
+            "priority": "critical",
             "description": "External protocols we depend on. What if they get hacked?"
           },
           {
@@ -165,7 +165,7 @@
           },
           {
             "task": "RPC provider redundancy",
-            "priority": "medium",
+            "priority": "important",
             "description": "Multiple RPC providers. Fallback if one is down or compromised."
           }
         ]
@@ -176,22 +176,22 @@
         "items": [
           {
             "task": "Regular security reviews scheduled",
-            "priority": "high",
+            "priority": "critical",
             "description": "Security is not one-time. Schedule regular reviews."
           },
           {
             "task": "Dependency updates tracked",
-            "priority": "medium",
+            "priority": "important",
             "description": "Keep track of security updates in dependencies."
           },
           {
             "task": "Bug bounty submissions reviewed",
-            "priority": "high",
+            "priority": "critical",
             "description": "Process for triaging and responding to reports."
           },
           {
             "task": "Security metrics tracked",
-            "priority": "medium",
+            "priority": "important",
             "description": "Track security-related metrics. Time to fix, report quality."
           }
         ]
