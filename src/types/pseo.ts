@@ -156,7 +156,7 @@ export interface ResourcePageSEO {
 export interface ResourcePageContent<T extends ResourceItem = ResourceItem> {
   intro: string;
   sections: ResourceSection<T>[];
-  proTips: string[];
+  proTips: (string | { tip: string })[];
   conclusion: string;
   relatedResources: string[];
 }

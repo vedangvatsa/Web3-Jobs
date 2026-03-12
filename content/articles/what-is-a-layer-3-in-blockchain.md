@@ -7,7 +7,7 @@ category: "Educational"
 data-ai-hint: "layer network"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 The world of [blockchain](/what-is-a-blockchain) is a bit like a rapidly growing city. At the bottom, you have the foundational layer-the bedrock and main infrastructure. This is Layer 1 (L1), represented by blockchains like [Ethereum](/what-is-ethereum). It’s secure and decentralized, but it can get congested and expensive, like a city’s main avenues during rush hour.

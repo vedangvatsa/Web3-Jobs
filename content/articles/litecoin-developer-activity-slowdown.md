@@ -7,7 +7,7 @@ description: "An analysis of the Litecoin developer activity slowdown. We explor
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Litecoin (LTC), one of the oldest and most well-known cryptocurrencies, has long been described as the "silver to [Bitcoin](/what-is-bitcoin)'s gold." Created in 2011 by Charlie Lee as a fork of the Bitcoin codebase, it aimed to be a faster and cheaper version of its predecessor, optimized for payments. For years, Litecoin held its position as a top-10 crypto asset, a reliable and battle-tested alternative to Bitcoin. However, in the rapidly evolving landscape of [Web3](/what-is-web3), a new and more important metric has emerged as the key indicator of a project's long-term health: developer activity. And on this front, Litecoin's story is a cautionary tale.

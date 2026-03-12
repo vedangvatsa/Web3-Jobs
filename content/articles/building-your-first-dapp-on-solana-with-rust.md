@@ -7,7 +7,7 @@ description: "A developer's guide to getting started with Solana. Learn the basi
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 While [Ethereum](/what-is-ethereum) dominates the landscape of [smart contract](/what-are-smart-contracts) development, a new generation of high-performance blockchains is emerging, and at the forefront is Solana. Known for its incredible speed and low transaction fees, Solana offers a different set of trade-offs and a unique programming model that is attracting developers looking to build highly scalable applications.

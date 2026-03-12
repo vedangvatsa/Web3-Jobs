@@ -7,7 +7,7 @@ description: "An exploration of Directed Acyclic Graphs (DAGs), an alternative t
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 When most people think of a distributed ledger, they think of a **[blockchain](/what-is-a-blockchain)**-a linear, sequential chain of blocks, where each block is cryptographically linked to the one before it. This data structure, pioneered by [Bitcoin](/what-is-bitcoin), has been the foundation for the vast majority of cryptocurrencies and [smart contract](/what-are-smart-contracts) platforms. However, it's not the only way to structure a decentralized ledger.

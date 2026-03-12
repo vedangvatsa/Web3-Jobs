@@ -6,7 +6,7 @@ description: "A guide to breaking into the competitive world of Web3 venture cap
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Venture Capital (VC) is the engine of innovation, providing the crucial early-stage funding that allows startups to grow and build the future. In the fast-paced world of [Web3](/what-is-web3), a new breed of venture capitalists has emerged: the **crypto VC**. These investors specialize in identifying and funding the most promising projects in the [blockchain](/what-is-a-blockchain) and decentralized technology space.

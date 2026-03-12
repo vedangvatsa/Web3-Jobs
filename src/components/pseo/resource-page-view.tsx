@@ -84,12 +84,16 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
             <section className="mt-16 pt-8 border-t">
               <h2 className="text-xl font-semibold mb-6">Tips from the field</h2>
               <ul className="space-y-4">
-                {page.content.proTips?.map((tip, idx) => (
-                  <li key={idx} className="flex gap-4">
-                    <span className="text-muted-foreground font-mono text-sm">{idx + 1}.</span>
-                    <p className="text-muted-foreground">{tip}</p>
-                  </li>
-                ))}
+                {page.content.proTips?.map((tip, idx) => {
+                  // Support both string and {tip: string} formats
+                  const tipText = typeof tip === 'string' ? tip : tip.tip;
+                  return (
+                    <li key={idx} className="flex gap-4">
+                      <span className="text-muted-foreground font-mono text-sm">{idx + 1}.</span>
+                      <p className="text-muted-foreground">{tipText}</p>
+                    </li>
+                  );
+                })}
               </ul>
             </section>
           )}

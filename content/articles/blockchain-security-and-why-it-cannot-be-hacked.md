@@ -7,7 +7,7 @@ description: "A deep dive into the security model of a blockchain. Understand ho
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 One of the most powerful claims of **[blockchain technology](/what-is-a-blockchain)** is its security. You'll often hear that blockchains like [Bitcoin](/what-is-bitcoin) are "unhackable." While no system is absolutely immune to attack, the core architecture of a public blockchain is designed to be incredibly resilient and tamper-proof. Understanding *why* it's so secure is fundamental to understanding its value.

@@ -7,7 +7,7 @@ description: "A Web3 reputation system uses on-chain data to build a trustworthy
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In the real world, reputation is one of our most valuable assets. It's the sum of our past actions, our relationships, and the trust we have built with others. In the pseudonymous world of [Web3](/what-is-web3), where users are often known only by a [wallet](/how-to-choose-a-crypto-wallet) address, building a system for trust and reputation is a critical challenge. A **Web3 reputation system** aims to solve this by creating a way to quantify a user's trustworthiness and expertise based on their verifiable, on-chain history.

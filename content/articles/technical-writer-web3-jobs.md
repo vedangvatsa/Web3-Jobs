@@ -6,7 +6,7 @@ description: "Web3 is complex. Technical writers are the key to making it unders
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In the complex and often bewildering world of [Web3](/what-is-web3), one of the most critical yet overlooked roles is that of the **Technical Writer**. While [smart contract](/what-are-smart-contracts) engineers build the protocols and community managers foster the vibe, technical writers are the translators, the educators, and the architects of understanding. They are the unsung heroes who make it possible for developers to build on a platform and for users to interact with it safely.

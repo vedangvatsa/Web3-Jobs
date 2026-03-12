@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/geneediting/1200/630"
 data-ai-hint: "dna strand"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Gene editing is a group of technologies that gives scientists the ability to change an organism's DNA. This allows them to add, remove, or alter genetic material at particular locations in the genome. Think of it as a biological version of a word processor's "find and replace" function. You can search for a specific sequence of DNA, cut it out, and replace it with a new sequence.

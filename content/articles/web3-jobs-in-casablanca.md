@@ -6,7 +6,7 @@ data-ai-hint: "casablanca morocco city"
 description: "A career guide to the emerging Web3 job market in Casablanca. Explore Morocco's growing interest in blockchain, its FinTech scene, and the opportunities."
 category: "Career Guides"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Casablanca, the economic and business heart of Morocco, is emerging as a key North African city to watch in the [Web3](/what-is-web3) space. With its strategic position as a gateway between Africa, Europe, and the Middle East, a modernizing financial sector, and a growing community of tech enthusiasts, Casablanca is laying the groundwork for a future [blockchain](/what-is-a-blockchain) ecosystem. The Moroccan government and central bank, Bank Al-Maghrib, have been actively studying the potential of digital currencies and blockchain, signaling a thoughtful and deliberate approach to adopting the technology.

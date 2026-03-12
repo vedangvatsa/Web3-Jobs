@@ -7,7 +7,7 @@ description: "An analysis of 'shilling' in the crypto space and its corrosive ef
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 The [Web3](/what-is-web3) space is built on the ideal of a "trustless" system, where verification is based on transparent code rather than on fallible human intermediaries. Yet, paradoxically, the social layer of Web3 is a minefield of misinformation, hype, and a pervasive practice known as **"shilling."** This practice, while seemingly harmless to some, has a deeply corrosive effect on user trust and poses a significant threat to the long-term health and mainstream adoption of the decentralized internet.

@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "research analysis"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 DYOR stands for "Do Your Own Research." It's ubiquitous in crypto communities, appearing in every Discord server, Twitter discussion, and forum post. You'll see it as a disclaimer, advice, and sometimes as criticism when someone makes investment decisions without understanding what they're doing.

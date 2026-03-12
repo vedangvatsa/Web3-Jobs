@@ -7,7 +7,7 @@ description: "A practical guide to writing a compelling cover letter for a Web3 
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In the [Web3](/what-is-web3) job market, your **[resume](/how-to-build-a-web3-resume-that-stands-out)** gets you past the first filter, but it's your cover letter that often makes the first real impression. A generic, copy-pasted cover letter is the fastest way to get your application moved to the "no" pile. A thoughtful, well-researched, and crypto-native cover letter, on the other hand, can be the key that unlocks the door to your dream job.

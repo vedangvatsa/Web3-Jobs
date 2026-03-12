@@ -7,7 +7,7 @@ description: "A guide for Web3 marketers on how to promote a project ethically. 
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In the fast-paced and often hype-driven world of [Web3](/what-is-web3), marketing is a double-edged sword. On one hand, you need to generate excitement and build a community around your project. On the other hand, there is a fine line between legitimate marketing and "shilling"-the disingenuous promotion of a [token](/what-is-a-token) for short-term gain.

@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "social media"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 SocialFi, short for Social Finance, represents the convergence of social media and [decentralized finance](/what-is-defi). It's the [Web3](/what-is-web3) answer to traditional social platforms like Twitter, Instagram, and TikTok. Instead of content creators earning money solely through ads controlled by centralized platforms, SocialFi platforms let creators monetize directly through tokens, [NFTs](/what-are-nfts), and community engagement.

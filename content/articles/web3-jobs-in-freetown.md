@@ -7,7 +7,7 @@ description: "A career guide to the emerging Web3 job market in Freetown. Explor
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Freetown, the resilient and vibrant capital of Sierra Leone, is carving out a unique and pioneering role for itself in the world of [Web3](/what-is-web3). The city and the country have become a global case study in the application of [blockchain](/what-is-a-blockchain) technology for real-world governance and identity solutions. In a landmark move, Sierra Leone became one of the first countries to use blockchain to verify its national election results, and it is actively developing a blockchain-based national digital identity system. This high-level government embrace of the technology has created a unique and impact-driven Web3 ecosystem.

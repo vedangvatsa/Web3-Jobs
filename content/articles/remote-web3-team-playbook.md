@@ -7,7 +7,7 @@ description: "A guide for leaders and members of remote Web3 teams. Learn the be
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 The [Web3](/what-is-web3) industry is built on a remote-first foundation. The decentralized ethos of the space naturally extends to its workforce, creating globally distributed teams that collaborate across dozens of time zones. This presents a unique set of challenges and opportunities. Managing a remote Web3 team is fundamentally different from managing a co-located or even a traditional remote team.

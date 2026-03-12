@@ -7,7 +7,7 @@ description: "A 'rug pull' is a malicious scam where crypto developers abandon a
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In the fast-paced and often unregulated world of cryptocurrency, a "rug pull" is one of the most common and devastating types of scams. The name is evocative: it's a maneuver where the developers of a seemingly legitimate project suddenly "pull the rug out" from under their investors, abandoning the project and absconding with all the funds, leaving the project's [token](/what-is-a-token) worthless.

@@ -6,7 +6,7 @@ data-ai-hint: "job interview question"
 description: "The most important question in a Web3 interview is 'Why are you here?'. This guide helps you craft a compelling and authentic story about your passion for."
 category: "Career Guides"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In any [Web3](/what-is-web3) job [interview](/how-to-prepare-for-job-interview), you are almost guaranteed to be asked some version of this question:

@@ -7,7 +7,7 @@ description: "A simple, easy-to-understand guide to blockchain mining. Learn wha
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 You've probably heard of "[Bitcoin](/what-is-bitcoin) mining," and it might conjure images of people with pickaxes digging for digital gold. The reality is both more and less complicated than that. [Blockchain](/what-is-a-blockchain) mining is a core component of many cryptocurrencies, particularly those that use a **[Proof-of-Work (PoW)](/proof-of-[stake](/how-to-become-a-web3-staking-specialist)-vs-proof-of-work-in-blockchain)** consensus mechanism. It's the process by which new transactions are verified and added to the blockchain, and it's how new coins are brought into circulation.

@@ -7,7 +7,7 @@ description: "Understand how DIDs and self-sovereign identity give users control
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In today's digital world, you don't own your identity. Your identity is a collection of accounts-your Google account, your Facebook profile, your bank login-that are owned and controlled by centralized corporations. This model is fundamentally broken. It leads to a lack of privacy, massive data breaches, and a fragmented user experience.

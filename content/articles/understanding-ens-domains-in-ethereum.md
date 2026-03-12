@@ -7,7 +7,7 @@ description: "An ENS domain is a human-readable name for your Ethereum wallet, l
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In the world of [Ethereum](/what-is-ethereum), your identity is your public [wallet](/how-to-choose-a-crypto-wallet) address. This is a long, complex string of hexadecimal characters, like `0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045`. While this is great for security, it's terrible for user experience. It's difficult to remember, impossible to type, and easy to make a mistake when sending a transaction.

@@ -6,7 +6,7 @@ description: 'Understand the core concepts of blockchain technology, how it work
 category: 'Getting Started'
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 You've probably heard the term "blockchain" mentioned alongside [Bitcoin](/what-is-bitcoin), [Ethereum](/what-is-ethereum), or the broader [Web3](/what-is-web3) ecosystem. It's often described as a a significant technology, but what exactly is it? At its heart, a blockchain is a new kind of database, a distributed digital ledger. But that simple definition doesn’t capture its true power. A blockchain's uniqueness lies in how it structures, secures, and shares data. It's an unchangeable, transparent, and decentralized record of transactions, making it a powerful tool for creating systems that don't require trust in a central authority. This guide will break down the technology, explain its key features, and explore its impact far beyond digital currencies.

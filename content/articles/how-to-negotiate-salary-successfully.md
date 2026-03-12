@@ -7,7 +7,7 @@ description: "A practical guide to salary negotiation. Learn how to research you
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 You've made it through the interviews, and you've received a job offer. Congratulations! This is a huge accomplishment. But before you sign on the dotted line, there's one more important step: [salary negotiation](/web3-salary-negotiation).
