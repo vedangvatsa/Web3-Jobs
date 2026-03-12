@@ -231,6 +231,27 @@
             "difficulty": "intermediate",
             "skills": ["Dune Analytics", "SQL", "visualization"],
             "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Whale Impact Analyzer",
+            "description": "Tool to analyze how whale movements affect token price and liquidity.",
+            "difficulty": "intermediate",
+            "skills": ["Data analysis", "on-chain analytics", "visualization"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Tokenomics Comparison Report",
+            "description": "Compare tokenomics of similar protocols side-by-side.",
+            "difficulty": "intermediate",
+            "skills": ["Research", "comparative analysis", "writing"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Token Unlock Calendar",
+            "description": "Track and visualize upcoming token unlocks across protocols.",
+            "difficulty": "beginner",
+            "skills": ["Research", "data tracking", "visualization"],
+            "estimatedTime": "1-2 weeks"
           }
         ]
       }

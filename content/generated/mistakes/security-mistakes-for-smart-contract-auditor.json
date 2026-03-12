@@ -210,6 +210,24 @@
             "description": "Assuming fixes are correct without verification.",
             "impact": "Broken or incomplete fixes go to production",
             "prevention": "Always verify fixes address root cause and don't introduce new issues."
+          },
+          {
+            "title": "Ignoring test coverage gaps",
+            "description": "Not reviewing what tests exist and what code paths remain untested.",
+            "impact": "Critical paths may be untested, hiding bugs",
+            "prevention": "Review test coverage. Flag untested code as higher risk."
+          },
+          {
+            "title": "Missing cross-protocol interactions",
+            "description": "Auditing in isolation without considering how other protocols might interact.",
+            "impact": "Composability attacks missed",
+            "prevention": "Consider flash loan attack vectors and other protocol interactions."
+          },
+          {
+            "title": "Not tracking previous audits",
+            "description": "Failing to review findings from previous audits of the same protocol.",
+            "impact": "Re-introducing old vulnerabilities or missing recurring patterns",
+            "prevention": "Always request and review previous audit reports."
           }
         ]
       }

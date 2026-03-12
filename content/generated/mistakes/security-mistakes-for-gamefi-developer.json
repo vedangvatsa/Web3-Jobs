@@ -156,6 +156,98 @@
             "impact": "Wash trading, market manipulation, royalty evasion.",
             "prevention": "Design with secondary market in mind. Accept royalty limitations.",
             "example": "Game economy assumes 10% royalty but marketplaces allow 0%."
+          },
+          {
+            "mistake": "No asset freezing mechanism",
+            "description": "Unable to freeze compromised or exploited assets during incidents.",
+            "severity": "high",
+            "impact": "Exploited items traded away before team can respond.",
+            "prevention": "Implement freeze functionality with proper governance.",
+            "example": "Duplicated rare item sold 100 times before bug is fixed."
+          },
+          {
+            "mistake": "Predictable token IDs",
+            "description": "Sequential or predictable NFT token IDs enabling sniping.",
+            "severity": "medium",
+            "impact": "Bots snipe rare items by predicting IDs before reveal.",
+            "prevention": "Randomize token ID assignment. Delayed reveal mechanisms.",
+            "example": "Rare items always mint at certain ID ranges. Bots target those."
+          }
+        ]
+      },
+      {
+        "heading": "Economy Balancing Mistakes",
+        "description": "Errors in ongoing economy management.",
+        "items": [
+          {
+            "mistake": "No economic circuit breakers",
+            "description": "Missing automatic halts when economy metrics go abnormal.",
+            "severity": "high",
+            "impact": "Exploits run unchecked until manual intervention.",
+            "prevention": "Automatic pauses when daily volume or minting exceeds thresholds.",
+            "example": "Bot mints 10x normal daily tokens before anyone notices."
+          },
+          {
+            "mistake": "Static reward rates",
+            "description": "Rewards that cannot adjust to player count or token price.",
+            "severity": "high",
+            "impact": "Economy death spiral when conditions change.",
+            "prevention": "Dynamic rewards based on treasury health and player metrics.",
+            "example": "Fixed 100 token reward becomes worthless or too valuable."
+          },
+          {
+            "mistake": "Ignoring whale behavior",
+            "description": "Not accounting for players with massive resource advantages.",
+            "severity": "high",
+            "impact": "Whales dominate. New players cannot compete. Game dies.",
+            "prevention": "Diminishing returns. Activity-based rewards. Catch-up mechanics.",
+            "example": "Top 10 players own 90% of all rewards. Others quit."
+          },
+          {
+            "mistake": "No fee adjustment mechanism",
+            "description": "Transaction fees that cannot adapt to network conditions or token value.",
+            "severity": "medium",
+            "impact": "Fees become prohibitive or negligible, breaking UX or spam protection.",
+            "prevention": "Oracle-based fee adjustment. USD-denominated minimum fees.",
+            "example": "Fixed 10 token fee becomes $1000 when token moons."
+          }
+        ]
+      },
+      {
+        "heading": "Anti-Exploit Mistakes",
+        "description": "Missing protections against common exploits.",
+        "items": [
+          {
+            "mistake": "No rate limiting on claims",
+            "description": "Reward claims without cooldowns or rate limits.",
+            "severity": "high",
+            "impact": "Scripts claim rewards faster than intended, draining pools.",
+            "prevention": "Per-address cooldowns. Global rate limits. Batch claim penalties.",
+            "example": "Bot claims 1000 small rewards per second instead of one big one."
+          },
+          {
+            "mistake": "Flash loan vulnerable pricing",
+            "description": "Game asset prices based on single-block AMM state.",
+            "severity": "critical",
+            "impact": "Flash loans manipulate prices for unfair advantages.",
+            "prevention": "Use TWAPs. Multi-block price averaging. Oracle integration.",
+            "example": "Manipulate token price, buy cheap game items, restore price."
+          },
+          {
+            "mistake": "No slippage protection",
+            "description": "Trades execute without maximum slippage parameters.",
+            "severity": "high",
+            "impact": "Sandwich attacks extract value from player trades.",
+            "prevention": "User-defined slippage limits. MEV protection integration.",
+            "example": "Player swap gets sandwiched, loses 20% to MEV bots."
+          },
+          {
+            "mistake": "Timestamp manipulation vulnerability",
+            "description": "Game logic relying on block.timestamp for time-sensitive features.",
+            "severity": "medium",
+            "impact": "Validators manipulate timestamp within allowed range for advantage.",
+            "prevention": "Use block numbers for timing. Accept timestamp variance.",
+            "example": "Daily reset based on timestamp. Validator extends their play window."
           }
         ]
       },
@@ -186,6 +278,22 @@
             "impact": "Players frustrated. Abandon game due to wallet fatigue.",
             "prevention": "Batch transactions. Session keys. Embedded wallets for minor actions.",
             "example": "Pop-up to sign every item pickup in action game."
+          },
+          {
+            "mistake": "Incorrect chain event handling",
+            "description": "Not handling chain reorgs or transaction replacements.",
+            "severity": "high",
+            "impact": "Game state desyncs from actual on-chain state.",
+            "prevention": "Wait for finality. Handle reorg events. Resync mechanisms.",
+            "example": "Player shows item they no longer own due to reorg."
+          },
+          {
+            "mistake": "Insufficient error messages",
+            "description": "Generic error messages that don't help players resolve issues.",
+            "severity": "medium",
+            "impact": "Players confused and frustrated. Support tickets increase.",
+            "prevention": "Specific error messages with suggested actions.",
+            "example": "'Transaction failed' instead of 'Insufficient gas for this action'."
           }
         ]
       }

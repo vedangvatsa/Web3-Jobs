@@ -9,7 +9,14 @@
   "seo": {
     "title": "30 Common Mistakes Solana Developers Make (And How to Avoid Them)",
     "description": "Learn from the mistakes of others. A comprehensive guide to the most common errors Solana developers make with accounts, PDAs, and program security.",
-    "keywords": ["solana-developer", "mistakes", "Anchor", "PDA", "accounts", "security"],
+    "keywords": [
+      "solana-developer",
+      "mistakes",
+      "Anchor",
+      "PDA",
+      "accounts",
+      "security"
+    ],
     "canonicalSlug": "security-mistakes-for-solana-developer"
   },
   "content": {
@@ -17,7 +24,7 @@
     "sections": [
       {
         "heading": "Account Validation Failures",
-        "mistakes": [
+        "items": [
           {
             "title": "Missing account ownership check",
             "description": "Not verifying that accounts are owned by expected programs allows attackers to pass fake accounts.",
@@ -52,7 +59,7 @@
       },
       {
         "heading": "PDA Problems",
-        "mistakes": [
+        "items": [
           {
             "title": "Inconsistent PDA seeds",
             "description": "Using different seeds for derivation and validation causes lookup failures.",
@@ -87,7 +94,7 @@
       },
       {
         "heading": "Token Handling Errors",
-        "mistakes": [
+        "items": [
           {
             "title": "Not checking token mint",
             "description": "Token accounts can hold any SPL token. Not validating mint allows wrong tokens.",
@@ -122,7 +129,7 @@
       },
       {
         "heading": "Arithmetic Issues",
-        "mistakes": [
+        "items": [
           {
             "title": "Integer overflow/underflow",
             "description": "Rust's release mode doesn't check for overflow by default.",
@@ -151,7 +158,7 @@
       },
       {
         "heading": "CPI Vulnerabilities",
-        "mistakes": [
+        "items": [
           {
             "title": "CPI to arbitrary programs",
             "description": "Not validating target program allows attackers to redirect CPIs.",
@@ -180,7 +187,7 @@
       },
       {
         "heading": "Common Development Mistakes",
-        "mistakes": [
+        "items": [
           {
             "title": "Not handling compute budget",
             "description": "Complex operations can exceed compute limit.",
@@ -210,6 +217,24 @@
             "description": "Accounts below rent-exempt threshold get garbage collected.",
             "severity": "high",
             "solution": "Ensure accounts have sufficient lamports for rent exemption."
+          },
+          {
+            "title": "Clockwork misuse",
+            "description": "Using Solana's clock sysvar for critical timing without considering validator manipulation.",
+            "severity": "medium",
+            "solution": "Use slot numbers or understand clock manipulation bounds."
+          },
+          {
+            "title": "Hardcoded cluster-specific addresses",
+            "description": "Using mainnet program IDs in devnet code or vice versa.",
+            "severity": "medium",
+            "solution": "Use environment configuration for cluster-specific addresses."
+          },
+          {
+            "title": "Ignoring transaction size limits",
+            "description": "Solana transactions have a 1232 byte limit, causing unexpected failures.",
+            "severity": "high",
+            "solution": "Monitor transaction sizes. Split large operations across multiple transactions."
           }
         ]
       }

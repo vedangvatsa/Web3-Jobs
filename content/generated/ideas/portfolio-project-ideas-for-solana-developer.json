@@ -244,6 +244,52 @@
             "outcomes": ["Prediction markets", "Oracle integration", "Game mechanics"]
           }
         ]
+      },
+      {
+        "heading": "Infrastructure and Tooling",
+        "description": "Build tools that help other Solana developers.",
+        "items": [
+          {
+            "title": "Account Deserializer",
+            "description": "Build a tool that deserializes Solana account data given an IDL.",
+            "difficulty": "intermediate",
+            "timeEstimate": "2 weeks",
+            "skills": ["TypeScript", "IDL parsing", "Account data"],
+            "outcomes": ["Developer tooling", "Data inspection", "Debugging aid"]
+          },
+          {
+            "title": "Transaction Builder UI",
+            "description": "Create a GUI for building and simulating Solana transactions.",
+            "difficulty": "intermediate",
+            "timeEstimate": "3-4 weeks",
+            "skills": ["React", "Solana.js", "Transaction building"],
+            "outcomes": ["UX tool", "Transaction simulation", "Multi-step building"]
+          },
+          {
+            "title": "Program Upgrade Tracker",
+            "description": "Build a service that monitors program upgrades and alerts on changes.",
+            "difficulty": "intermediate",
+            "timeEstimate": "2-3 weeks",
+            "skills": ["TypeScript", "Monitoring", "Alerting"],
+            "outcomes": ["Security tooling", "Change detection", "Monitoring service"]
+          },
+          {
+            "title": "Compute Budget Analyzer",
+            "description": "Tool to analyze compute unit usage across transactions.",
+            "difficulty": "intermediate",
+            "timeEstimate": "2 weeks",
+            "skills": ["TypeScript", "Transaction analysis", "Optimization"],
+            "outcomes": ["Performance tooling", "Cost analysis", "Optimization insights"]
+          },
+          {
+            "title": "Multi-sig Program",
+            "description": "Build a multi-signature program for secure team transactions.",
+            "difficulty": "advanced",
+            "timeEstimate": "3-4 weeks",
+            "skills": ["Rust", "Anchor", "Access control"],
+            "outcomes": ["Security patterns", "Team management", "Governance"]
+          }
+        ]
       }
     ],
     "proTips": [

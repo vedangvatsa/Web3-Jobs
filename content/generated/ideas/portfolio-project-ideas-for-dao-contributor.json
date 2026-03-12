@@ -203,6 +203,88 @@
             "difficulty": "intermediate",
             "skills": ["Representation", "networking", "communication"],
             "estimatedTime": "Ongoing"
+          },
+          {
+            "title": "DAO Wiki Creation",
+            "description": "Build comprehensive wiki documentation for the DAO ecosystem.",
+            "difficulty": "intermediate",
+            "skills": ["Documentation", "organization", "knowledge management"],
+            "estimatedTime": "4-6 weeks + ongoing"
+          },
+          {
+            "title": "Translation and Localization",
+            "description": "Translate governance proposals and docs for non-English communities.",
+            "difficulty": "beginner",
+            "skills": ["Translation", "cultural adaptation", "community building"],
+            "estimatedTime": "Ongoing"
+          }
+        ]
+      },
+      {
+        "heading": "Treasury and Finance",
+        "description": "Contribute to DAO financial operations.",
+        "items": [
+          {
+            "title": "Treasury Diversification Proposal",
+            "description": "Research and propose treasury diversification strategies.",
+            "difficulty": "advanced",
+            "skills": ["DeFi", "risk management", "financial modeling"],
+            "estimatedTime": "4-6 weeks"
+          },
+          {
+            "title": "Expense Tracking Dashboard",
+            "description": "Build transparent expense tracking for DAO expenditures.",
+            "difficulty": "intermediate",
+            "skills": ["Data analysis", "financial tracking", "transparency"],
+            "estimatedTime": "3-4 weeks"
+          },
+          {
+            "title": "Token Buyback Analysis",
+            "description": "Analyze whether token buybacks benefit the DAO and holders.",
+            "difficulty": "intermediate",
+            "skills": ["Tokenomics", "financial analysis", "modeling"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Revenue Attribution Report",
+            "description": "Track and attribute revenue sources for DAO transparency.",
+            "difficulty": "intermediate",
+            "skills": ["Financial reporting", "attribution", "transparency"],
+            "estimatedTime": "3-4 weeks"
+          },
+          {
+            "title": "Budget Proposal Template",
+            "description": "Create standardized budget proposal templates for workstreams.",
+            "difficulty": "beginner",
+            "skills": ["Budgeting", "template design", "process improvement"],
+            "estimatedTime": "1-2 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Cross-DAO Collaboration",
+        "description": "Work across multiple DAOs.",
+        "items": [
+          {
+            "title": "Inter-DAO Partnership Proposal",
+            "description": "Identify synergies and propose partnerships between DAOs.",
+            "difficulty": "advanced",
+            "skills": ["Business development", "partnership building", "negotiation"],
+            "estimatedTime": "4-8 weeks"
+          },
+          {
+            "title": "DAO Collaboration Framework",
+            "description": "Design frameworks for how DAOs can collaborate effectively.",
+            "difficulty": "intermediate",
+            "skills": ["Framework design", "coordination", "documentation"],
+            "estimatedTime": "3-4 weeks"
+          },
+          {
+            "title": "Metagovernance Platform",
+            "description": "Build platform tracking governance across multiple DAOs.",
+            "difficulty": "advanced",
+            "skills": ["Development", "multi-chain data", "aggregation"],
+            "estimatedTime": "6-8 weeks"
           }
         ]
       }

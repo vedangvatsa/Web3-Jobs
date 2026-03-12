@@ -250,6 +250,98 @@
             "useCase": "L2 comparison"
           }
         ]
+      },
+      {
+        "heading": "Web3 User Research",
+        "description": "Tools for understanding Web3 users specifically.",
+        "items": [
+          {
+            "name": "Arkham Intelligence",
+            "description": "Wallet labeling and entity identification at scale.",
+            "category": "Analytics",
+            "url": "https://platform.arkhamintelligence.com",
+            "pricing": "Free + Paid",
+            "useCase": "Whale tracking"
+          },
+          {
+            "name": "0xScope",
+            "description": "On-chain identity and relationship mapping.",
+            "category": "Analytics",
+            "url": "https://0xscope.com",
+            "pricing": "Paid",
+            "useCase": "User relationships"
+          },
+          {
+            "name": "Flipside Crypto",
+            "description": "Community-driven analytics with bounty programs.",
+            "category": "Analytics",
+            "url": "https://flipsidecrypto.xyz",
+            "pricing": "Free",
+            "useCase": "Community analytics"
+          },
+          {
+            "name": "Persona",
+            "description": "Identity verification for compliance-heavy products.",
+            "category": "Identity",
+            "url": "https://withpersona.com",
+            "pricing": "Paid",
+            "useCase": "KYC flows"
+          },
+          {
+            "name": "Chainalysis",
+            "description": "Blockchain compliance and risk analysis.",
+            "category": "Compliance",
+            "url": "https://www.chainalysis.com",
+            "pricing": "Paid",
+            "useCase": "Risk assessment"
+          }
+        ]
+      },
+      {
+        "heading": "Collaboration and Communication",
+        "description": "Tools for async and distributed teams.",
+        "items": [
+          {
+            "name": "Charmverse",
+            "description": "Web3-native workspace with token-gated access.",
+            "category": "Collaboration",
+            "url": "https://www.charmverse.io",
+            "pricing": "Free + Paid",
+            "useCase": "DAO coordination"
+          },
+          {
+            "name": "Clarity",
+            "description": "DAO-first project management and bounties.",
+            "category": "Project Management",
+            "url": "https://www.clarity.so",
+            "pricing": "Free tier + Paid",
+            "useCase": "Bounty management"
+          },
+          {
+            "name": "Gather Town",
+            "description": "Virtual office for remote teams. Good for casual sync.",
+            "category": "Communication",
+            "url": "https://www.gather.town",
+            "pricing": "Free tier + Paid",
+            "useCase": "Virtual office"
+          },
+          {
+            "name": "Tally",
+            "description": "On-chain governance interface and proposal creation.",
+            "category": "Governance",
+            "url": "https://www.tally.xyz",
+            "pricing": "Free",
+            "useCase": "Governance UI"
+          },
+          {
+            "name": "Guild.xyz",
+            "description": "Token-gated access management for communities.",
+            "category": "Access Control",
+            "url": "https://guild.xyz",
+            "pricing": "Free",
+            "useCase": "Token gating"
+          }
+        ]
       }
     ],
     "proTips": [

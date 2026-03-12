@@ -9,7 +9,14 @@
   "seo": {
     "title": "30 Common Mistakes Web3 Frontend Developers Make (And How to Avoid Them)",
     "description": "Learn from the mistakes of others. A comprehensive guide to the most common errors Web3 frontend developers make in wallet integration, state management, and UX.",
-    "keywords": ["web3-frontend", "mistakes", "wagmi", "wallet", "UX", "security"],
+    "keywords": [
+      "web3-frontend",
+      "mistakes",
+      "wagmi",
+      "wallet",
+      "UX",
+      "security"
+    ],
     "canonicalSlug": "security-mistakes-for-web3-frontend-developer"
   },
   "content": {
@@ -17,7 +24,7 @@
     "sections": [
       {
         "heading": "Wallet Connection Issues",
-        "mistakes": [
+        "items": [
           {
             "title": "Assuming wallet is always connected",
             "description": "Not handling disconnected state leads to crashes and poor UX.",
@@ -52,7 +59,7 @@
       },
       {
         "heading": "Transaction Handling",
-        "mistakes": [
+        "items": [
           {
             "title": "Not showing transaction status",
             "description": "Users don't know if transaction succeeded, failed, or is pending.",
@@ -87,7 +94,7 @@
       },
       {
         "heading": "State Management",
-        "mistakes": [
+        "items": [
           {
             "title": "Polling too frequently",
             "description": "Excessive RPC calls hit rate limits and waste resources.",
@@ -122,7 +129,7 @@
       },
       {
         "heading": "Security Problems",
-        "mistakes": [
+        "items": [
           {
             "title": "Exposing private keys in frontend",
             "description": "Private keys in client-side code can be stolen.",
@@ -157,7 +164,7 @@
       },
       {
         "heading": "UX Mistakes",
-        "mistakes": [
+        "items": [
           {
             "title": "No mobile responsiveness",
             "description": "Many users access dApps via mobile wallet browsers.",
@@ -192,7 +199,7 @@
       },
       {
         "heading": "Development Practices",
-        "mistakes": [
+        "items": [
           {
             "title": "Not testing with real wallets",
             "description": "Mocked wallets behave differently than MetaMask.",

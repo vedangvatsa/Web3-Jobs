@@ -196,6 +196,106 @@
             "example": "Client claims amount=1000000 in public inputs. Server trusts it."
           }
         ]
+      },
+      {
+        "heading": "Performance and Implementation Mistakes",
+        "description": "Errors causing inefficiency or bugs in production.",
+        "items": [
+          {
+            "mistake": "Unnecessary constraint multiplication",
+            "description": "Using multiplications in constraints where additions suffice.",
+            "severity": "medium",
+            "impact": "Proving time increases significantly. Higher costs.",
+            "prevention": "Optimize constraint degree. Use linear constraints when possible.",
+            "example": "Using a * b when a + b achieves the same logical result."
+          },
+          {
+            "mistake": "No witness generation timeout",
+            "description": "Witness computation without time limits can hang indefinitely.",
+            "severity": "medium",
+            "impact": "Malicious inputs cause denial of service. Provers hang.",
+            "prevention": "Timeout on witness generation. Validate input complexity.",
+            "example": "Witness computation enters infinite loop on crafted input."
+          },
+          {
+            "mistake": "Inconsistent endianness",
+            "description": "Mixing big and little endian in bit operations.",
+            "severity": "high",
+            "impact": "Values computed incorrectly. Proofs verify wrong data.",
+            "prevention": "Standardize endianness across all operations. Document clearly.",
+            "example": "Hash computed with LE bits, signature expects BE. Mismatch."
+          },
+          {
+            "mistake": "Memory exhaustion on large inputs",
+            "description": "Circuits that allocate based on input size without limits.",
+            "severity": "medium",
+            "impact": "Large inputs crash prover. Denial of service.",
+            "prevention": "Fixed maximum input sizes. Validate before circuit execution.",
+            "example": "Array size parameter causes allocation of billions of signals."
+          },
+          {
+            "mistake": "Debug code in production circuits",
+            "description": "Leaving console logs or debug constraints in deployed circuits.",
+            "severity": "medium",
+            "impact": "Information leakage. Unnecessary constraint overhead.",
+            "prevention": "Strip debug code for production builds. Code review.",
+            "example": "Circuit outputs intermediate values for debugging, revealing secrets."
+          },
+          {
+            "mistake": "Hardcoded test values",
+            "description": "Test private keys or constants left in production code.",
+            "severity": "critical",
+            "impact": "Anyone can use test keys to forge proofs.",
+            "prevention": "Separate test and production configurations. CI/CD checks.",
+            "example": "Test nullifier secret '12345' still accepted in production."
+          }
+        ]
+      },
+      {
+        "heading": "Testing and Auditing Mistakes",
+        "description": "Errors in verification and quality assurance.",
+        "items": [
+          {
+            "mistake": "Only testing happy path",
+            "description": "Testing only valid proofs without testing rejection of invalid ones.",
+            "severity": "critical",
+            "impact": "Invalid proofs might be accepted. Soundness broken.",
+            "prevention": "Test malicious inputs. Fuzz testing. Adversarial tests.",
+            "example": "All tests pass valid proofs. No test checks rejection."
+          },
+          {
+            "mistake": "No formal verification",
+            "description": "Relying solely on manual review for critical circuits.",
+            "severity": "high",
+            "impact": "Subtle constraint bugs missed by human reviewers.",
+            "prevention": "Use formal verification tools like ecne, Circomspect.",
+            "example": "Manual audit missed underconstrained signal caught by tool."
+          },
+          {
+            "mistake": "Insufficient test coverage for edge cases",
+            "description": "Not testing boundary values and special cases.",
+            "severity": "high",
+            "impact": "Edge case inputs break circuit logic.",
+            "prevention": "Test min/max values. Zero values. Field boundary values.",
+            "example": "Circuit works for normal values but fails when input is 0."
+          },
+          {
+            "mistake": "Not testing across proof systems",
+            "description": "Assuming circuit behaves identically across Groth16, PLONK, etc.",
+            "severity": "medium",
+            "impact": "Bugs appear only in specific proof system deployment.",
+            "prevention": "Test with target proof system. Understand system differences.",
+            "example": "Circuit works in Groth16 but has issues in PLONK due to lookups."
+          },
+          {
+            "mistake": "Ignoring compiler warnings",
+            "description": "Dismissing Circom or other compiler warnings as noise.",
+            "severity": "high",
+            "impact": "Warnings often indicate real constraint issues.",
+            "prevention": "Zero-warning policy. Investigate all warnings.",
+            "example": "Compiler warns about unused signal. Signal was meant to constrain output."
+          }
+        ]
       }
     ],
     "additionalResources": [

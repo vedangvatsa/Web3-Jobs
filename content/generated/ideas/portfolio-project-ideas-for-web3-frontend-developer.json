@@ -258,6 +258,30 @@
             "timeEstimate": "2-3 weeks",
             "skills": ["React", "Privy/Dynamic", "Social Login"],
             "outcomes": ["Modern onboarding", "UX improvement", "Wallet abstraction"]
+          },
+          {
+            "title": "Account Abstraction UI",
+            "description": "Build interface for ERC-4337 smart accounts with batched transactions and gas sponsorship.",
+            "difficulty": "advanced",
+            "timeEstimate": "3-4 weeks",
+            "skills": ["React", "Account Abstraction", "UserOps"],
+            "outcomes": ["Cutting edge AA", "Gas sponsorship UI", "Batch transactions"]
+          },
+          {
+            "title": "Multi-wallet Portfolio",
+            "description": "Dashboard aggregating holdings across multiple wallets with unified view.",
+            "difficulty": "intermediate",
+            "timeEstimate": "2-3 weeks",
+            "skills": ["React", "Multi-account", "Data aggregation"],
+            "outcomes": ["Portfolio management", "Multi-address handling", "Unified UX"]
+          },
+          {
+            "title": "Web3 Component Library",
+            "description": "Create reusable React components for common Web3 UI patterns.",
+            "difficulty": "intermediate",
+            "timeEstimate": "4-6 weeks",
+            "skills": ["React", "Component design", "Storybook"],
+            "outcomes": ["Open source contribution", "Reusable patterns", "Design system"]
           }
         ]
       }
