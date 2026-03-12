@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "contentType": "ideas",
+    "topic": "portfolio",
+    "niche": "web3-devrel",
+    "generatedAt": "2026-03-13T00:00:00.000Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "35 Portfolio Project Ideas for Web3 DevRel",
+    "description": "Discover portfolio project ideas for Web3 developer relations. From documentation to hackathons, build a portfolio that demonstrates DevRel expertise.",
+    "keywords": ["web3-devrel", "portfolio", "developer-relations", "documentation", "hackathons"],
+    "canonicalSlug": "portfolio-project-ideas-for-web3-devrel"
+  },
+  "content": {
+    "intro": "Web3 DevRel bridges protocols and developers. These projects demonstrate your ability to educate, support, and grow developer communities.",
+    "sections": [
+      {
+        "heading": "Documentation and Education",
+        "description": "Create materials that help developers succeed.",
+        "items": [
+          {
+            "title": "Protocol Documentation Overhaul",
+            "description": "Take existing docs and restructure them for better developer experience.",
+            "difficulty": "intermediate",
+            "skills": ["Technical writing", "information architecture", "UX"],
+            "estimatedTime": "4-6 weeks"
+          },
+          {
+            "title": "Getting Started Guide",
+            "description": "Create a zero-to-deployed tutorial for a Web3 protocol.",
+            "difficulty": "beginner",
+            "skills": ["Tutorial writing", "step-by-step guides", "clarity"],
+            "estimatedTime": "2 weeks"
+          },
+          {
+            "title": "API Reference Documentation",
+            "description": "Write comprehensive API reference docs with examples.",
+            "difficulty": "intermediate",
+            "skills": ["API documentation", "code examples", "technical accuracy"],
+            "estimatedTime": "3-4 weeks"
+          },
+          {
+            "title": "Video Tutorial Series",
+            "description": "Create a video series teaching protocol integration.",
+            "difficulty": "intermediate",
+            "skills": ["Video production", "teaching", "demonstration"],
+            "estimatedTime": "Ongoing"
+          },
+          {
+            "title": "Interactive Code Playground",
+            "description": "Build a browser-based playground for experimenting with protocol code.",
+            "difficulty": "advanced",
+            "skills": ["Frontend development", "sandbox creation", "education"],
+            "estimatedTime": "4-6 weeks"
+          },
+          {
+            "title": "Architecture Diagram Collection",
+            "description": "Create visual architecture diagrams explaining protocol components.",
+            "difficulty": "intermediate",
+            "skills": ["Diagramming", "system design", "visualization"],
+            "estimatedTime": "2-3 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools and SDKs",
+        "description": "Build tools that help developers.",
+        "items": [
+          {
+            "title": "CLI Tool for Protocol",
+            "description": "Build a command-line tool for common protocol operations.",
+            "difficulty": "intermediate",
+            "skills": ["CLI development", "developer experience", "tooling"],
+            "estimatedTime": "3-4 weeks"
+          },
+          {
+            "title": "SDK Wrapper",
+            "description": "Create a simpler SDK wrapper for a complex protocol.",
+            "difficulty": "intermediate",
+            "skills": ["SDK development", "API design", "abstraction"],
+            "estimatedTime": "4 weeks"
+          },
+          {
+            "title": "Starter Templates",
+            "description": "Create project templates for common use cases.",
+            "difficulty": "beginner",
+            "skills": ["Template creation", "best practices", "developer experience"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Testing Utilities",
+            "description": "Build testing utilities and mocks for protocol integration testing.",
+            "difficulty": "intermediate",
+            "skills": ["Testing", "mocking", "developer tools"],
+            "estimatedTime": "3 weeks"
+          },
+          {
+            "title": "VS Code Extension",
+            "description": "Create a VS Code extension with protocol-specific features.",
+            "difficulty": "advanced",
+            "skills": ["VS Code extension development", "developer experience"],
+            "estimatedTime": "4-6 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Community and Events",
+        "description": "Build developer community.",
+        "items": [
+          {
+            "title": "Hackathon Organization",
+            "description": "Organize a protocol hackathon from planning to judging.",
+            "difficulty": "advanced",
+            "skills": ["Event management", "logistics", "developer engagement"],
+            "estimatedTime": "8-10 weeks"
+          },
+          {
+            "title": "Workshop Series",
+            "description": "Design and deliver hands-on technical workshops.",
+            "difficulty": "intermediate",
+            "skills": ["Workshop facilitation", "teaching", "hands-on training"],
+            "estimatedTime": "Ongoing"
+          },
+          {
+            "title": "Office Hours Program",
+            "description": "Run regular office hours for developer questions and support.",
+            "difficulty": "beginner",
+            "skills": ["Technical support", "communication", "patience"],
+            "estimatedTime": "Ongoing"
+          },
+          {
+            "title": "Developer Newsletter",
+            "description": "Curate and write a developer-focused newsletter.",
+            "difficulty": "beginner",
+            "skills": ["Writing", "curation", "developer news"],
+            "estimatedTime": "Ongoing"
+          },
+          {
+            "title": "Conference Talk",
+            "description": "Prepare and deliver a technical talk at a Web3 conference.",
+            "difficulty": "intermediate",
+            "skills": ["Public speaking", "presentation design", "technical communication"],
+            "estimatedTime": "4 weeks prep"
+          },
+          {
+            "title": "Ambassador Program",
+            "description": "Design a developer ambassador program with tiers and rewards.",
+            "difficulty": "intermediate",
+            "skills": ["Program design", "community building", "incentives"],
+            "estimatedTime": "3-4 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Sample Projects and Demos",
+        "description": "Build things developers can learn from.",
+        "items": [
+          {
+            "title": "Example Integrations",
+            "description": "Build example integrations showing how to use protocol features.",
+            "difficulty": "intermediate",
+            "skills": ["Development", "documentation", "best practices"],
+            "estimatedTime": "Ongoing"
+          },
+          {
+            "title": "Open Source Sample App",
+            "description": "Build a fully-featured sample app using the protocol.",
+            "difficulty": "advanced",
+            "skills": ["Full-stack development", "best practices", "documentation"],
+            "estimatedTime": "6-8 weeks"
+          },
+          {
+            "title": "Migration Guides",
+            "description": "Write guides for migrating from competing protocols.",
+            "difficulty": "intermediate",
+            "skills": ["Technical writing", "competitive knowledge", "migration"],
+            "estimatedTime": "2-3 weeks per guide"
+          },
+          {
+            "title": "Integration Cookbook",
+            "description": "Create a cookbook of common integration patterns with code.",
+            "difficulty": "intermediate",
+            "skills": ["Recipe writing", "code patterns", "documentation"],
+            "estimatedTime": "4 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Feedback and Improvement",
+        "description": "Improve the developer experience through feedback.",
+        "items": [
+          {
+            "title": "Developer Survey",
+            "description": "Design, run, and analyze a developer experience survey.",
+            "difficulty": "intermediate",
+            "skills": ["Survey design", "analysis", "reporting"],
+            "estimatedTime": "4 weeks"
+          },
+          {
+            "title": "DX Audit",
+            "description": "Conduct a developer experience audit with recommendations.",
+            "difficulty": "intermediate",
+            "skills": ["UX research", "documentation review", "recommendations"],
+            "estimatedTime": "3-4 weeks"
+          },
+          {
+            "title": "Friction Log",
+            "description": "Document the friction points in getting started with a protocol.",
+            "difficulty": "beginner",
+            "skills": ["User testing", "documentation", "empathy"],
+            "estimatedTime": "1-2 weeks"
+          },
+          {
+            "title": "Feature Request Triage",
+            "description": "Organize and prioritize developer feature requests.",
+            "difficulty": "intermediate",
+            "skills": ["Prioritization", "developer feedback", "product thinking"],
+            "estimatedTime": "Ongoing"
+          }
+        ]
+      }
+    ],
+    "gettingStarted": [
+      {
+        "step": 1,
+        "title": "Be a developer first",
+        "description": "You need to build with the protocols you'll advocate for."
+      },
+      {
+        "step": 2,
+        "title": "Improve documentation you wish existed",
+        "description": "Contribute to open source docs. Build your portfolio."
+      },
+      {
+        "step": 3,
+        "title": "Help developers in Discord",
+        "description": "Answer questions. Understand what developers struggle with."
+      },
+      {
+        "step": 4,
+        "title": "Create content",
+        "description": "Blog posts, videos, tutorials. Show you can explain technical concepts."
+      },
+      {
+        "step": 5,
+        "title": "Speak at events",
+        "description": "Start small. Meetups and Twitter Spaces before conferences."
+      }
+    ],
+    "relatedResources": [
+      {
+        "title": "Portfolio Project Ideas for Web3 Community Managers",
+        "slug": "portfolio-project-ideas-for-web3-community-manager"
+      },
+      {
+        "title": "Development Tools for Solidity Developers",
+        "slug": "development-tools-for-solidity-developer"
+      }
+    ]
+  }
+}

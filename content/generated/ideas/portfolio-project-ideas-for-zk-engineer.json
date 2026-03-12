@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "contentType": "ideas",
+    "topic": "portfolio",
+    "niche": "zk-engineer",
+    "generatedAt": "2026-03-13T00:00:00.000Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "50 Portfolio Project Ideas for ZK Engineers",
+    "description": "Discover portfolio project ideas for ZK engineers at every skill level. From simple circuits to privacy protocols, build projects that showcase your zero-knowledge expertise.",
+    "keywords": ["zk-engineer", "portfolio", "circom", "zkSNARK", "privacy", "zero-knowledge"],
+    "canonicalSlug": "portfolio-project-ideas-for-zk-engineer"
+  },
+  "content": {
+    "intro": "Zero-knowledge proofs are transforming blockchain privacy and scalability. These projects help you build practical ZK skills while creating portfolio pieces that demonstrate real expertise.",
+    "sections": [
+      {
+        "heading": "Beginner Circuit Projects",
+        "description": "Start with basic circuits to understand ZK fundamentals.",
+        "items": [
+          {
+            "title": "Age Verification Circuit",
+            "description": "Prove you're over 18 without revealing your actual age. Classic intro to ZK.",
+            "difficulty": "beginner",
+            "skills": ["Circom", "snarkjs", "basic constraints"],
+            "estimatedTime": "1 week"
+          },
+          {
+            "title": "Password Verification",
+            "description": "Prove you know a password without revealing it. Hash the password in-circuit.",
+            "difficulty": "beginner",
+            "skills": ["Circom", "Poseidon hash", "private inputs"],
+            "estimatedTime": "1 week"
+          },
+          {
+            "title": "Range Proof",
+            "description": "Prove a number is within a range without revealing the number.",
+            "difficulty": "beginner",
+            "skills": ["Circom", "bit decomposition", "constraints"],
+            "estimatedTime": "1-2 weeks"
+          },
+          {
+            "title": "Merkle Inclusion Proof",
+            "description": "Prove membership in a set using Merkle trees. Foundation for many ZK apps.",
+            "difficulty": "beginner",
+            "skills": ["Circom", "Merkle trees", "recursive hashing"],
+            "estimatedTime": "2 weeks"
+          },
+          {
+            "title": "Simple Voting Circuit",
+            "description": "Vote anonymously and prove you're eligible without revealing identity.",
+            "difficulty": "beginner",
+            "skills": ["Circom", "nullifiers", "Merkle proofs"],
+            "estimatedTime": "2 weeks"
+          },
+          {
+            "title": "Sudoku Verifier",
+            "description": "Prove you solved a Sudoku without revealing the solution.",
+            "difficulty": "beginner",
+            "skills": ["Circom", "constraint systems", "puzzle verification"],
+            "estimatedTime": "1-2 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Identity and Credentials",
+        "description": "ZK-powered identity verification systems.",
+        "items": [
+          {
+            "title": "Anonymous Credential System",
+            "description": "Issue and verify credentials (degrees, certifications) without revealing holder identity.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "signature verification", "attribute proofs"],
+            "estimatedTime": "3-4 weeks"
+          },
+          {
+            "title": "ZK KYC Proof",
+            "description": "Prove KYC compliance without revealing personal data to every service.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "attribute verification", "trusted setup"],
+            "estimatedTime": "4 weeks"
+          },
+          {
+            "title": "Proof of Citizenship",
+            "description": "Prove citizenship in a country without revealing which country.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "set membership", "privacy"],
+            "estimatedTime": "3 weeks"
+          },
+          {
+            "title": "Anonymous Reputation System",
+            "description": "Prove reputation score is above threshold without revealing exact score or identity.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "commitments", "range proofs"],
+            "estimatedTime": "4 weeks"
+          },
+          {
+            "title": "ZK-Email Verifier",
+            "description": "Prove you received an email from a domain without revealing email contents.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "DKIM verification", "regex in circuits"],
+            "estimatedTime": "6-8 weeks"
+          },
+          {
+            "title": "Soulbound Token Privacy",
+            "description": "Add privacy to soulbound tokens. Prove you hold one without revealing which.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "Solidity", "Merkle trees"],
+            "estimatedTime": "4 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "DeFi Privacy",
+        "description": "Privacy-preserving financial applications.",
+        "items": [
+          {
+            "title": "Private Token Mixer",
+            "description": "Build a Tornado Cash-style mixer. Deposit and withdraw tokens anonymously.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "Solidity", "Merkle trees", "nullifiers"],
+            "estimatedTime": "6 weeks"
+          },
+          {
+            "title": "Private Balance Proof",
+            "description": "Prove you have sufficient balance for a transaction without revealing total balance.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "range proofs", "commitments"],
+            "estimatedTime": "3 weeks"
+          },
+          {
+            "title": "Confidential Transfers",
+            "description": "Send tokens where only sender and receiver know the amount.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "Pedersen commitments", "range proofs"],
+            "estimatedTime": "8 weeks"
+          },
+          {
+            "title": "Private Credit Score Proof",
+            "description": "Prove creditworthiness without revealing financial history.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "computation proofs", "privacy"],
+            "estimatedTime": "4 weeks"
+          },
+          {
+            "title": "Anonymous DEX",
+            "description": "Trade tokens without linking trades to your identity.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "Solidity", "order matching"],
+            "estimatedTime": "10 weeks"
+          },
+          {
+            "title": "Private Lending Protocol",
+            "description": "Borrow and lend with privacy. Prove collateral without revealing portfolio.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "DeFi", "privacy design"],
+            "estimatedTime": "12 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Governance and Voting",
+        "description": "Anonymous and verifiable voting systems.",
+        "items": [
+          {
+            "title": "Private DAO Voting",
+            "description": "Vote on DAO proposals without revealing your vote or token holdings.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "Solidity", "tally proofs"],
+            "estimatedTime": "6 weeks"
+          },
+          {
+            "title": "Quadratic Voting with Privacy",
+            "description": "Implement quadratic voting where vote weights are private.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "quadratic math", "batch proofs"],
+            "estimatedTime": "5 weeks"
+          },
+          {
+            "title": "Conviction Voting Privacy",
+            "description": "Add privacy to conviction voting. Hide stake amounts and timing.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "time-weighted proofs", "commitments"],
+            "estimatedTime": "8 weeks"
+          },
+          {
+            "title": "Anonymous Survey Tool",
+            "description": "Conduct surveys where responses are verifiable but anonymous.",
+            "difficulty": "beginner",
+            "skills": ["Circom", "aggregation", "nullifiers"],
+            "estimatedTime": "3 weeks"
+          },
+          {
+            "title": "Private Election System",
+            "description": "Full election system with registration, voting, and verifiable tallying.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "threshold cryptography", "audit trails"],
+            "estimatedTime": "12 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Gaming and Entertainment",
+        "description": "ZK applications for fair gaming.",
+        "items": [
+          {
+            "title": "ZK Battleship",
+            "description": "Classic battleship game where board positions are committed but hidden.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "game logic", "commitment schemes"],
+            "estimatedTime": "4 weeks"
+          },
+          {
+            "title": "Private Poker",
+            "description": "Poker where hands are truly private until showdown.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "mental poker", "card shuffling"],
+            "estimatedTime": "10 weeks"
+          },
+          {
+            "title": "Hidden Information Game Framework",
+            "description": "Generic framework for any game with hidden information (fog of war).",
+            "difficulty": "advanced",
+            "skills": ["Circom", "game theory", "state machines"],
+            "estimatedTime": "8 weeks"
+          },
+          {
+            "title": "Fair Random Number Generator",
+            "description": "Provably fair randomness for on-chain games using ZK.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "commit-reveal", "randomness"],
+            "estimatedTime": "3 weeks"
+          },
+          {
+            "title": "ZK Wordle",
+            "description": "Wordle where the word is committed but hidden until game ends.",
+            "difficulty": "beginner",
+            "skills": ["Circom", "string comparison", "commitments"],
+            "estimatedTime": "2 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Scalability Solutions",
+        "description": "ZK for blockchain scalability.",
+        "items": [
+          {
+            "title": "Simple ZK Rollup",
+            "description": "Build a basic rollup that batches transactions with validity proofs.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "Solidity", "state transitions"],
+            "estimatedTime": "12 weeks"
+          },
+          {
+            "title": "ZK Bridge",
+            "description": "Trustless cross-chain bridge using ZK proofs of state.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "light clients", "cross-chain"],
+            "estimatedTime": "16 weeks"
+          },
+          {
+            "title": "State Proof Generator",
+            "description": "Generate proofs of Ethereum state for use in other contexts.",
+            "difficulty": "advanced",
+            "skills": ["Circom", "MPT proofs", "RLP encoding"],
+            "estimatedTime": "8 weeks"
+          },
+          {
+            "title": "Transaction Batching System",
+            "description": "Batch many transactions into one proof for gas savings.",
+            "difficulty": "intermediate",
+            "skills": ["Circom", "aggregation", "Solidity"],
+            "estimatedTime": "6 weeks"
+          },
+          {
+            "title": "ZK Compression",
+            "description": "Compress on-chain data using ZK proofs (like Solana compressed NFTs).",
+            "difficulty": "advanced",
+            "skills": ["Circom", "data structures", "compression"],
+            "estimatedTime": "10 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Advanced Cryptography",
+        "description": "Implement advanced ZK techniques.",
+        "items": [
+          {
+            "title": "Recursive SNARK Verifier",
+            "description": "Verify SNARKs inside SNARKs. Foundation for proof aggregation.",
+            "difficulty": "advanced",
+            "skills": ["Circom/Halo2", "recursive proofs", "field arithmetic"],
+            "estimatedTime": "12 weeks"
+          },
+          {
+            "title": "Plonk Implementation",
+            "description": "Implement Plonk proving system from scratch for deep understanding.",
+            "difficulty": "advanced",
+            "skills": ["Rust", "polynomial commitments", "FFT"],
+            "estimatedTime": "16 weeks"
+          },
+          {
+            "title": "zkVM Prototype",
+            "description": "Build a simple virtual machine that generates proofs of execution.",
+            "difficulty": "advanced",
+            "skills": ["Rust", "instruction sets", "trace generation"],
+            "estimatedTime": "20 weeks"
+          },
+          {
+            "title": "Lookup Arguments Implementation",
+            "description": "Implement Plookup or similar for efficient lookup tables.",
+            "difficulty": "advanced",
+            "skills": ["Rust", "polynomial protocols", "optimization"],
+            "estimatedTime": "8 weeks"
+          },
+          {
+            "title": "Custom Constraint System",
+            "description": "Design a domain-specific constraint system optimized for your use case.",
+            "difficulty": "advanced",
+            "skills": ["Rust", "DSL design", "optimization"],
+            "estimatedTime": "12 weeks"
+          }
+        ]
+      },
+      {
+        "heading": "Developer Tools",
+        "description": "Tools to help other ZK developers.",
+        "items": [
+          {
+            "title": "Circuit Testing Framework",
+            "description": "Automated testing tool for Circom circuits with coverage reporting.",
+            "difficulty": "intermediate",
+            "skills": ["JavaScript", "Circom", "testing"],
+            "estimatedTime": "4 weeks"
+          },
+          {
+            "title": "Circuit Visualizer",
+            "description": "Visual representation of circuit constraints for debugging.",
+            "difficulty": "intermediate",
+            "skills": ["JavaScript", "visualization", "circuit analysis"],
+            "estimatedTime": "4 weeks"
+          },
+          {
+            "title": "Gas Estimator for ZK Verifiers",
+            "description": "Estimate on-chain verification costs for different proof systems.",
+            "difficulty": "intermediate",
+            "skills": ["Solidity", "gas optimization", "benchmarking"],
+            "estimatedTime": "3 weeks"
+          },
+          {
+            "title": "Proof Generation Optimizer",
+            "description": "Tool to analyze and optimize circuit constraint count.",
+            "difficulty": "advanced",
+            "skills": ["Rust", "optimization", "compiler design"],
+            "estimatedTime": "8 weeks"
+          },
+          {
+            "title": "ZK Library Comparator",
+            "description": "Benchmark different ZK libraries for performance and features.",
+            "difficulty": "intermediate",
+            "skills": ["Multiple ZK stacks", "benchmarking", "documentation"],
+            "estimatedTime": "6 weeks"
+          }
+        ]
+      }
+    ],
+    "gettingStarted": [
+      {
+        "step": 1,
+        "title": "Learn Circom basics",
+        "description": "Complete the 0xPARC ZK learning resources and build simple circuits."
+      },
+      {
+        "step": 2,
+        "title": "Understand the math",
+        "description": "Study finite fields, elliptic curves, and polynomial commitments."
+      },
+      {
+        "step": 3,
+        "title": "Build incrementally",
+        "description": "Start with beginner circuits. Each concept builds on the previous."
+      },
+      {
+        "step": 4,
+        "title": "Study existing implementations",
+        "description": "Read Tornado Cash, Semaphore, and other production circuit code."
+      },
+      {
+        "step": 5,
+        "title": "Contribute to ZK projects",
+        "description": "Join ZK communities. Contribute to open source ZK tooling."
+      }
+    ],
+    "relatedResources": [
+      {
+        "title": "Security Checklist for Solidity Developers",
+        "slug": "security-checklists-for-solidity-developer"
+      }
+    ]
+  }
+}

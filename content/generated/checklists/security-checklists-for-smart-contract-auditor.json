@@ -1,0 +1,355 @@
+{
+  "meta": {
+    "contentType": "checklists",
+    "topic": "security",
+    "niche": "smart-contract-auditor",
+    "generatedAt": "2026-03-13T00:00:00.000Z",
+    "version": "1.0.0"
+  },
+  "seo": {
+    "title": "Smart Contract Audit Checklist for Auditors",
+    "description": "A comprehensive audit checklist covering all vulnerability classes, from reentrancy to access control. Use this systematic approach to ensure thorough coverage.",
+    "keywords": ["smart-contract-auditor", "audit-checklist", "security", "vulnerability", "Slither", "Mythril", "reentrancy"],
+    "canonicalSlug": "security-checklists-for-smart-contract-auditor"
+  },
+  "content": {
+    "intro": "This checklist provides a systematic approach to smart contract auditing. Work through each category methodically to ensure no vulnerability class is overlooked.",
+    "sections": [
+      {
+        "heading": "Pre-Audit Setup",
+        "description": "Essential preparation before starting the code review.",
+        "items": [
+          {
+            "title": "Review project documentation and specifications",
+            "description": "Read the whitepaper, technical docs, and understand the intended behavior before looking at code.",
+            "priority": "critical",
+            "category": "Preparation"
+          },
+          {
+            "title": "Identify scope and out-of-scope contracts",
+            "description": "Confirm exactly which contracts are in scope and document any dependencies that are out of scope.",
+            "priority": "critical",
+            "category": "Preparation"
+          },
+          {
+            "title": "Set up local development environment",
+            "description": "Clone the repo, install dependencies, and ensure tests pass before starting review.",
+            "priority": "important",
+            "category": "Preparation"
+          },
+          {
+            "title": "Run automated analysis tools",
+            "description": "Execute Slither, Mythril, and other static analysis tools to get an initial vulnerability report.",
+            "priority": "important",
+            "category": "Preparation"
+          },
+          {
+            "title": "Create a contract architecture diagram",
+            "description": "Map out contract interactions, inheritance, and external dependencies visually.",
+            "priority": "recommended",
+            "category": "Preparation"
+          }
+        ]
+      },
+      {
+        "heading": "Access Control Checks",
+        "description": "Verify all authorization and permission mechanisms.",
+        "items": [
+          {
+            "title": "Verify all external/public functions have appropriate access control",
+            "description": "Every function that modifies state should have explicit access restrictions unless intentionally open.",
+            "priority": "critical",
+            "category": "Access Control"
+          },
+          {
+            "title": "Check for missing onlyOwner or role modifiers",
+            "description": "Administrative functions must be protected. Look for functions that should be restricted but aren't.",
+            "priority": "critical",
+            "category": "Access Control"
+          },
+          {
+            "title": "Audit role-based access control implementation",
+            "description": "If using roles, verify proper role assignment, revocation, and role hierarchy logic.",
+            "priority": "critical",
+            "category": "Access Control"
+          },
+          {
+            "title": "Check for centralization risks",
+            "description": "Identify single points of failure where one compromised key could drain funds or break the protocol.",
+            "priority": "important",
+            "category": "Access Control"
+          },
+          {
+            "title": "Verify two-step ownership transfer",
+            "description": "Critical ownership changes should require acceptance to prevent accidental lockout.",
+            "priority": "important",
+            "category": "Access Control"
+          },
+          {
+            "title": "Review timelock and governance constraints",
+            "description": "Check if administrative actions are properly timelocked for user protection.",
+            "priority": "recommended",
+            "category": "Access Control"
+          }
+        ]
+      },
+      {
+        "heading": "Reentrancy Analysis",
+        "description": "Check for all types of reentrancy vulnerabilities.",
+        "items": [
+          {
+            "title": "Verify checks-effects-interactions pattern",
+            "description": "All state changes must happen before external calls. No state updates after external calls.",
+            "priority": "critical",
+            "category": "Reentrancy"
+          },
+          {
+            "title": "Check for ReentrancyGuard on sensitive functions",
+            "description": "Functions making external calls should use reentrancy protection, especially those handling value.",
+            "priority": "critical",
+            "category": "Reentrancy"
+          },
+          {
+            "title": "Analyze cross-function reentrancy",
+            "description": "Check if an attacker could re-enter through a different function that shares state with the vulnerable function.",
+            "priority": "critical",
+            "category": "Reentrancy"
+          },
+          {
+            "title": "Check cross-contract reentrancy",
+            "description": "Analyze if reentrancy is possible through calls to other contracts in the same protocol.",
+            "priority": "critical",
+            "category": "Reentrancy"
+          },
+          {
+            "title": "Review read-only reentrancy risks",
+            "description": "Check if view functions return stale data during reentrancy that other protocols might rely on.",
+            "priority": "important",
+            "category": "Reentrancy"
+          },
+          {
+            "title": "Test ERC-777 and ERC-1155 callback hooks",
+            "description": "If accepting arbitrary tokens, verify protection against token callback reentrancy.",
+            "priority": "important",
+            "category": "Reentrancy"
+          }
+        ]
+      },
+      {
+        "heading": "Arithmetic and Logic",
+        "description": "Verify mathematical operations and business logic.",
+        "items": [
+          {
+            "title": "Check for overflow/underflow in unchecked blocks",
+            "description": "Solidity 0.8+ has overflow protection, but unchecked blocks bypass it. Verify intentional use.",
+            "priority": "critical",
+            "category": "Arithmetic"
+          },
+          {
+            "title": "Verify division and rounding behavior",
+            "description": "Check if rounding favors the protocol or user, and if it can be exploited through dust amounts.",
+            "priority": "critical",
+            "category": "Arithmetic"
+          },
+          {
+            "title": "Test precision loss in calculations",
+            "description": "Multiply before divide to minimize precision loss. Check for cases where order matters.",
+            "priority": "important",
+            "category": "Arithmetic"
+          },
+          {
+            "title": "Verify percentage and fee calculations",
+            "description": "Check that fees are calculated correctly and cannot exceed 100% or cause unexpected behavior.",
+            "priority": "important",
+            "category": "Arithmetic"
+          },
+          {
+            "title": "Check for division by zero",
+            "description": "All division operations should be protected against zero denominators.",
+            "priority": "important",
+            "category": "Arithmetic"
+          },
+          {
+            "title": "Validate boundary conditions",
+            "description": "Test behavior at max/min values, empty arrays, zero amounts, and other edge cases.",
+            "priority": "important",
+            "category": "Arithmetic"
+          }
+        ]
+      },
+      {
+        "heading": "External Interactions",
+        "description": "Review all interactions with external contracts and users.",
+        "items": [
+          {
+            "title": "Verify return values from external calls",
+            "description": "Check that return values from external calls are validated, especially for token transfers.",
+            "priority": "critical",
+            "category": "External Calls"
+          },
+          {
+            "title": "Check for unsafe ERC-20 transfers",
+            "description": "Use SafeERC20 or check return values. Some tokens don't return bool on transfer.",
+            "priority": "critical",
+            "category": "External Calls"
+          },
+          {
+            "title": "Validate oracle data freshness",
+            "description": "Check that oracle prices have staleness checks and fallback mechanisms.",
+            "priority": "critical",
+            "category": "External Calls"
+          },
+          {
+            "title": "Review flash loan attack vectors",
+            "description": "Analyze if price manipulation or large position changes via flash loans could be exploited.",
+            "priority": "critical",
+            "category": "External Calls"
+          },
+          {
+            "title": "Check for force-sending ETH attacks",
+            "description": "Contracts relying on balance checks can be manipulated via selfdestruct force-send.",
+            "priority": "important",
+            "category": "External Calls"
+          },
+          {
+            "title": "Verify callback handling",
+            "description": "If implementing callbacks (like uniswapV3SwapCallback), verify caller authentication.",
+            "priority": "important",
+            "category": "External Calls"
+          }
+        ]
+      },
+      {
+        "heading": "Protocol-Specific Checks",
+        "description": "Checks specific to DeFi protocol types.",
+        "items": [
+          {
+            "title": "For AMMs: Check for price manipulation",
+            "description": "Verify that spot prices cannot be manipulated to extract value from the protocol.",
+            "priority": "critical",
+            "category": "DeFi"
+          },
+          {
+            "title": "For lending: Verify liquidation math",
+            "description": "Check that liquidations properly handle edge cases and cannot be griefed or blocked.",
+            "priority": "critical",
+            "category": "DeFi"
+          },
+          {
+            "title": "For vaults: Check share manipulation",
+            "description": "Verify first depositor cannot inflate share price to grief subsequent depositors.",
+            "priority": "critical",
+            "category": "DeFi"
+          },
+          {
+            "title": "For staking: Verify reward distribution",
+            "description": "Check that rewards cannot be claimed multiple times or drained by flash deposits.",
+            "priority": "important",
+            "category": "DeFi"
+          },
+          {
+            "title": "For bridges: Verify message validation",
+            "description": "Check that cross-chain messages are properly validated and cannot be replayed.",
+            "priority": "critical",
+            "category": "DeFi"
+          },
+          {
+            "title": "For NFTs: Check minting limits and randomness",
+            "description": "Verify that minting cannot exceed supply and randomness cannot be manipulated.",
+            "priority": "important",
+            "category": "NFT"
+          }
+        ]
+      },
+      {
+        "heading": "Gas and DoS",
+        "description": "Check for denial of service and gas-related issues.",
+        "items": [
+          {
+            "title": "Identify unbounded loops",
+            "description": "Loops over arrays that can grow indefinitely may cause out-of-gas failures.",
+            "priority": "important",
+            "category": "DoS"
+          },
+          {
+            "title": "Check for block gas limit issues",
+            "description": "Functions processing many items may exceed block gas limit as usage grows.",
+            "priority": "important",
+            "category": "DoS"
+          },
+          {
+            "title": "Verify push over pull patterns",
+            "description": "Use pull payments instead of push to prevent recipient-controlled failures.",
+            "priority": "important",
+            "category": "DoS"
+          },
+          {
+            "title": "Check for griefing via failed external calls",
+            "description": "Verify that a failing external call cannot block critical protocol functions.",
+            "priority": "important",
+            "category": "DoS"
+          },
+          {
+            "title": "Review gas cost variability",
+            "description": "Check if gas costs can vary dramatically based on input, enabling gas griefing.",
+            "priority": "recommended",
+            "category": "DoS"
+          }
+        ]
+      },
+      {
+        "heading": "Upgrade and Proxy Safety",
+        "description": "For upgradeable contracts, verify upgrade safety.",
+        "items": [
+          {
+            "title": "Check storage layout compatibility",
+            "description": "New implementation must be storage-compatible with previous version. No reordering variables.",
+            "priority": "critical",
+            "category": "Upgrades"
+          },
+          {
+            "title": "Verify initializer protection",
+            "description": "Initializers must only run once. Check for reinitializer if needed for upgrades.",
+            "priority": "critical",
+            "category": "Upgrades"
+          },
+          {
+            "title": "Check for uninitialized implementation",
+            "description": "Implementation contract should be initialized or made non-initializable to prevent takeover.",
+            "priority": "critical",
+            "category": "Upgrades"
+          },
+          {
+            "title": "Verify upgrade authorization",
+            "description": "Only authorized parties should be able to upgrade. Check for timelock on upgrades.",
+            "priority": "critical",
+            "category": "Upgrades"
+          },
+          {
+            "title": "Test function selector clashes",
+            "description": "Proxy admin functions must not clash with implementation function selectors.",
+            "priority": "important",
+            "category": "Upgrades"
+          }
+        ]
+      }
+    ],
+    "proTips": [
+      {
+        "tip": "Start with the highest-value functions (those handling the most funds) and work outward."
+      },
+      {
+        "tip": "Keep a running list of potential issues during first pass, then investigate each thoroughly."
+      },
+      {
+        "tip": "Write proof-of-concept exploits for all medium+ severity findings. If you can't exploit it, reconsider the severity."
+      },
+      {
+        "tip": "Review similar protocol audits for context. Past vulnerabilities in comparable code are likely to reappear."
+      },
+      {
+        "tip": "Document your findings as you go. Waiting until the end often means missing details you noticed early."
+      }
+    ]
+  }
+}

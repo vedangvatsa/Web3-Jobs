@@ -1,8 +1,6 @@
 
-'use client';
-
 import { Header } from '@/components/header';
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
 import { 
     Users, 
@@ -21,10 +19,21 @@ import {
     Milestone, 
     Smile, 
     Scale,
-    ArrowRight
+    ArrowRight,
+    Lightbulb,
+    CheckSquare,
+    AlertTriangle,
+    Wrench,
+    Code
 } from 'lucide-react';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { Button } from '@/components/ui/button';
+import { getAllResourcePages } from '@/lib/pseo';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+    title: 'Free Web3 Career Tools and Resources | Hashtag Web3',
+    description: 'A complete suite of free tools and resources for professionals and companies building in the decentralized economy.',
+};
 
 const employeeResources = [
     { href: "/interview-questions", label: "Interview Questions", icon: BookOpen, description: "Practice with 200+ Web3 interview questions across technical and non-technical roles." },
@@ -49,6 +58,15 @@ const employerResources = [
     { href: "/company-culture-guide", label: "Company Culture Guide", icon: Users, description: "Define and document your company's values and ways of working." },
 ];
 
+const contentTypeConfig: Record<string, { label: string; icon: React.ElementType; description: string }> = {
+    ideas: { label: "Project Ideas", icon: Lightbulb, description: "Portfolio project ideas to showcase your skills" },
+    checklists: { label: "Checklists", icon: CheckSquare, description: "Step-by-step guides to ensure nothing is missed" },
+    mistakes: { label: "Common Mistakes", icon: AlertTriangle, description: "Learn from others and avoid costly pitfalls" },
+    tools: { label: "Tool Recommendations", icon: Wrench, description: "Curated tools for your development workflow" },
+    guides: { label: "How-To Guides", icon: BookOpen, description: "Comprehensive guides for essential skills" },
+    skills: { label: "Skill Roadmaps", icon: Code, description: "Learning paths for career development" },
+};
+
 const ResourceCard = ({ href, label, icon: Icon, description }: { href: string; label: string; icon: React.ElementType; description: string; }) => (
     <Link href={href} className="block h-full">
         <Card className="h-full transform transition-all duration-300 hover:shadow-lg hover:-translate-y-1">
@@ -57,7 +75,7 @@ const ResourceCard = ({ href, label, icon: Icon, description }: { href: string; 
                     <div className="bg-primary/10 p-2 rounded-lg">
                         <Icon className="h-6 w-6 text-primary" />
                     </div>
-                    <CardTitle>{label}</CardTitle>
+                    <CardTitle className="text-base">{label}</CardTitle>
                 </div>
             </CardHeader>
             <CardContent>
@@ -68,12 +86,15 @@ const ResourceCard = ({ href, label, icon: Icon, description }: { href: string; 
 );
 
 export default function ResourcesPage() {
-    const headlines = [
-        "Web3 Career Resources",
-        "Tools for Builders",
-        "Your Professional Toolkit",
-        "Level Up Your Career"
-    ];
+    const allResources = getAllResourcePages();
+    
+    // Group resources by content type
+    const resourcesByType = allResources.reduce((acc, resource) => {
+        const type = resource.meta.contentType;
+        if (!acc[type]) acc[type] = [];
+        acc[type].push(resource);
+        return acc;
+    }, {} as Record<string, typeof allResources>);
 
     return (
         <div className="flex flex-col min-h-screen">
@@ -84,23 +105,59 @@ export default function ResourcesPage() {
                         <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
                           <GraduationCap className="h-10 w-10 text-primary" />
                         </div>
-                        <h1 className="sr-only">Free Web3 Career Tools</h1>
-                        <TransitioningHeadline phrases={headlines} />
-                         <p className="mt-4 text-muted-foreground">
+                        <h1 className="text-4xl font-bold mb-4">Web3 Career Resources</h1>
+                        <p className="text-muted-foreground">
                             A complete suite of free tools and resources for professionals and companies building in the decentralized economy.
                         </p>
                     </section>
 
                     <div className="max-w-7xl mx-auto space-y-16">
+                        {/* Role-Specific Resources by Content Type */}
+                        {Object.entries(resourcesByType).length > 0 && (
+                            <div>
+                                <h2 className="text-3xl font-bold text-center mb-8">For Web3 Builders</h2>
+                                <p className="text-center text-muted-foreground mb-8 max-w-2xl mx-auto">
+                                    Curated resources for developers, product managers, marketers, and community builders in Web3.
+                                </p>
+                                
+                                {Object.entries(resourcesByType).map(([type, resources]) => {
+                                    const config = contentTypeConfig[type] || { label: type, icon: BookOpen, description: "" };
+                                    const TypeIcon = config.icon;
+                                    
+                                    return (
+                                        <div key={type} className="mb-8">
+                                            <div className="flex items-center gap-2 mb-4">
+                                                <TypeIcon className="h-5 w-5 text-primary" />
+                                                <h3 className="text-xl font-semibold">{config.label}</h3>
+                                            </div>
+                                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                                                {resources.map(resource => (
+                                                    <ResourceCard
+                                                        key={resource.seo.canonicalSlug}
+                                                        href={`/${resource.seo.canonicalSlug}`}
+                                                        label={resource.seo.title}
+                                                        icon={config.icon}
+                                                        description={resource.seo.description}
+                                                    />
+                                                ))}
+                                            </div>
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        )}
+
+                        {/* For Professionals */}
                         <div>
-                            <h2 className="text-3xl font-bold text-center mb-8">For Professionals & Job Seekers</h2>
+                            <h2 className="text-3xl font-bold text-center mb-8">For Professionals and Job Seekers</h2>
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                                 {employeeResources.map(tool => <ResourceCard key={tool.label} {...tool} />)}
                             </div>
                         </div>
 
+                        {/* For Employers */}
                         <div>
-                            <h2 className="text-3xl font-bold text-center mb-8">For Employers & Hiring Managers</h2>
+                            <h2 className="text-3xl font-bold text-center mb-8">For Employers and Hiring Managers</h2>
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                                 {employerResources.map(tool => <ResourceCard key={tool.label} {...tool} />)}
                             </div>
