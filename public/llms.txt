@@ -43,6 +43,64 @@
 - [Web3 Career Resources](https://hashtagweb3.com/resources): Curated collection of guides, tools, courses, and community links for Web3 job seekers and professionals.
 - [Web3 Community Hub](https://hashtagweb3.com/community): Networking events, discussion forums, and community-driven resources for the Web3 workforce.
 
+## Portfolio Project Ideas
+
+- [Portfolio Project Ideas for Solidity Developer](https://hashtagweb3.com/portfolio-project-ideas-for-solidity-developer): Hands-on project ideas to build a standout Solidity developer portfolio, from ERC-20 tokens to DeFi protocols.
+- [Portfolio Project Ideas for Solana Developer](https://hashtagweb3.com/portfolio-project-ideas-for-solana-developer): Portfolio projects for Solana developers using Rust and Anchor, including SPL tokens and on-chain programs.
+- [Portfolio Project Ideas for Smart Contract Auditor](https://hashtagweb3.com/portfolio-project-ideas-for-smart-contract-auditor): Audit-focused projects to demonstrate security expertise, including vulnerability hunts and formal verification.
+- [Portfolio Project Ideas for DeFi Developer](https://hashtagweb3.com/portfolio-project-ideas-for-defi-developer): Build DeFi protocols from AMMs to lending platforms to showcase protocol development skills.
+- [Portfolio Project Ideas for NFT Developer](https://hashtagweb3.com/portfolio-project-ideas-for-nft-developer): NFT collection and marketplace projects for demonstrating ERC-721/1155 expertise.
+- [Portfolio Project Ideas for GameFi Developer](https://hashtagweb3.com/portfolio-project-ideas-for-gamefi-developer): Web3 gaming projects combining on-chain assets, play-to-earn mechanics, and game development.
+- [Portfolio Project Ideas for ZK Engineer](https://hashtagweb3.com/portfolio-project-ideas-for-zk-engineer): Zero-knowledge proof projects using circom, Noir, and ZK-SNARKs for privacy-focused applications.
+- [Portfolio Project Ideas for Blockchain Engineer](https://hashtagweb3.com/portfolio-project-ideas-for-blockchain-engineer): Infrastructure-level projects including nodes, indexers, and cross-chain bridges.
+- [Portfolio Project Ideas for Web3 Frontend Developer](https://hashtagweb3.com/portfolio-project-ideas-for-web3-frontend-developer): Dapp frontend projects with wallet integration, transaction handling, and Web3 UX patterns.
+- [Portfolio Project Ideas for Web3 Product Manager](https://hashtagweb3.com/portfolio-project-ideas-for-web3-product-manager): Product case studies and roadmaps demonstrating Web3 product thinking.
+- [Portfolio Project Ideas for Web3 Community Manager](https://hashtagweb3.com/portfolio-project-ideas-for-web3-community-manager): Community building projects showcasing engagement strategies and growth metrics.
+- [Portfolio Project Ideas for Web3 Marketer](https://hashtagweb3.com/portfolio-project-ideas-for-web3-marketer): Marketing campaign portfolios for crypto projects, including growth hacking and influencer strategies.
+- [Portfolio Project Ideas for Web3 DevRel](https://hashtagweb3.com/portfolio-project-ideas-for-web3-devrel): Developer relations projects including documentation, tutorials, and developer experience improvements.
+- [Portfolio Project Ideas for Tokenomics Designer](https://hashtagweb3.com/portfolio-project-ideas-for-tokenomics-designer): Token economic models and simulations demonstrating sustainable tokenomics design.
+- [Portfolio Project Ideas for DAO Contributor](https://hashtagweb3.com/portfolio-project-ideas-for-dao-contributor): DAO governance and contribution projects showcasing decentralized organization expertise.
+
+## Security Checklists
+
+- [Security Checklists for Solidity Developer](https://hashtagweb3.com/security-checklists-for-solidity-developer): Pre-deployment security checklist for Solidity smart contracts covering reentrancy, access control, and more.
+- [Security Checklists for Solana Developer](https://hashtagweb3.com/security-checklists-for-solana-developer): Solana program security checklist including account validation, signer checks, and PDA security.
+- [Security Checklists for Smart Contract Auditor](https://hashtagweb3.com/security-checklists-for-smart-contract-auditor): Comprehensive audit methodology checklist for professional smart contract security reviews.
+- [Security Checklists for DeFi Developer](https://hashtagweb3.com/security-checklists-for-defi-developer): DeFi-specific security checklist covering oracle manipulation, flash loans, and MEV protection.
+- [Security Checklists for NFT Developer](https://hashtagweb3.com/security-checklists-for-nft-developer): NFT contract security checklist for minting, metadata, and marketplace integration.
+- [Security Checklists for GameFi Developer](https://hashtagweb3.com/security-checklists-for-gamefi-developer): GameFi security checklist for in-game assets, rewards, and anti-cheat measures.
+- [Security Checklists for ZK Engineer](https://hashtagweb3.com/security-checklists-for-zk-engineer): ZK circuit security checklist for constraint validation and proof system integrity.
+- [Security Checklists for Blockchain Engineer](https://hashtagweb3.com/security-checklists-for-blockchain-engineer): Infrastructure security checklist for nodes, validators, and network operations.
+- [Security Checklists for Web3 Frontend Developer](https://hashtagweb3.com/security-checklists-for-web3-frontend-developer): Frontend security checklist for wallet connections, transaction signing, and dapp security.
+- [Security Checklists for Web3 Product Manager](https://hashtagweb3.com/security-checklists-for-web3-product-manager): Product security checklist for Web3 PMs covering audit requirements and risk assessment.
+
+## Common Security Mistakes
+
+- [Security Mistakes for Solidity Developer](https://hashtagweb3.com/security-mistakes-for-solidity-developer): Common Solidity vulnerabilities and how to avoid them, from reentrancy to integer overflow.
+- [Security Mistakes for Solana Developer](https://hashtagweb3.com/security-mistakes-for-solana-developer): Solana-specific security pitfalls including missing signer checks and account confusion.
+- [Security Mistakes for Smart Contract Auditor](https://hashtagweb3.com/security-mistakes-for-smart-contract-auditor): Audit blind spots and overlooked vulnerabilities that even experienced auditors miss.
+- [Security Mistakes for DeFi Developer](https://hashtagweb3.com/security-mistakes-for-defi-developer): DeFi exploits and how to prevent them, including price manipulation and governance attacks.
+- [Security Mistakes for NFT Developer](https://hashtagweb3.com/security-mistakes-for-nft-developer): NFT security mistakes from metadata exposure to royalty bypass vulnerabilities.
+- [Security Mistakes for GameFi Developer](https://hashtagweb3.com/security-mistakes-for-gamefi-developer): GameFi security failures including reward manipulation and asset duplication bugs.
+- [Security Mistakes for ZK Engineer](https://hashtagweb3.com/security-mistakes-for-zk-engineer): ZK proof vulnerabilities from under-constrained circuits to soundness issues.
+- [Security Mistakes for Blockchain Engineer](https://hashtagweb3.com/security-mistakes-for-blockchain-engineer): Infrastructure security mistakes in node operation and consensus implementation.
+- [Security Mistakes for Web3 Frontend Developer](https://hashtagweb3.com/security-mistakes-for-web3-frontend-developer): Frontend security mistakes in wallet handling and transaction display.
+
+## Development Tools
+
+- [Development Tools for Solidity Developer](https://hashtagweb3.com/development-tools-for-solidity-developer): Essential Solidity development toolkit including Hardhat, Foundry, and testing frameworks.
+- [Development Tools for Solana Developer](https://hashtagweb3.com/development-tools-for-solana-developer): Solana development tools from Anchor to Metaplex for building on-chain programs.
+- [Development Tools for Smart Contract Auditor](https://hashtagweb3.com/development-tools-for-smart-contract-auditor): Security auditing tools including Slither, Mythril, and formal verification suites.
+- [Development Tools for DeFi Developer](https://hashtagweb3.com/development-tools-for-defi-developer): DeFi development stack with DEX integrations, oracle libraries, and testing tools.
+- [Development Tools for NFT Developer](https://hashtagweb3.com/development-tools-for-nft-developer): NFT development tools for minting, metadata, and marketplace integration.
+- [Development Tools for GameFi Developer](https://hashtagweb3.com/development-tools-for-gamefi-developer): GameFi tooling combining game engines with blockchain SDKs.
+- [Development Tools for ZK Engineer](https://hashtagweb3.com/development-tools-for-zk-engineer): ZK development tools including circom, snarkjs, and proving system libraries.
+- [Development Tools for Blockchain Engineer](https://hashtagweb3.com/development-tools-for-blockchain-engineer): Infrastructure tools for node operation, indexing, and blockchain development.
+- [Development Tools for Web3 Frontend Developer](https://hashtagweb3.com/development-tools-for-web3-frontend-developer): Frontend Web3 libraries including wagmi, viem, and wallet connectors.
+- [Development Tools for Web3 Product Manager](https://hashtagweb3.com/development-tools-for-web3-product-manager): Product management tools for Web3 including analytics, roadmapping, and user research.
+- [Development Tools for Web3 Community Manager](https://hashtagweb3.com/development-tools-for-web3-community-manager): Community management tools for Discord, governance, and engagement tracking.
+- [Development Tools for Web3 Marketer](https://hashtagweb3.com/development-tools-for-web3-marketer): Web3 marketing tools for analytics, campaigns, and community growth.
+
 ## Articles & Guides
 
 
