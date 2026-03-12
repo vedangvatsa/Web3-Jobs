@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/renewable/1200/630"
 data-ai-hint: "wind turbine"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Renewable energy is energy that is collected from resources which are naturally replenished on a human timescale. This includes sources like sunlight, wind, rain, tides, waves, and geothermal heat. These stand in contrast to fossil fuels like coal, oil, and natural gas, which are finite and take millions of years to form. The transition to renewable energy technologies is a cornerstone of the global effort to combat climate change and build a more sustainable future.

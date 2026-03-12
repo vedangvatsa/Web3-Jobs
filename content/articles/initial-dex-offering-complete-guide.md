@@ -7,7 +7,7 @@ description: "An Initial DEX Offering (IDO) is a fundraising method where a new 
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 An **Initial DEX Offering (IDO)** is a popular fundraising method in the [Web3](/what-is-web3) space where a new project launches its native [token](/what-is-a-token) by conducting its initial public sale on a **[Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX)**. It's a crypto-native evolution of the traditional Initial Public Offering (IPO) in the stock market and the Initial Coin Offering (ICO) of the 2017 crypto bull run.

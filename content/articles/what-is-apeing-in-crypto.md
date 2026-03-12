@@ -7,7 +7,7 @@ description: "A guide to the crypto slang term 'apeing in,' a phrase that captur
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 The language of the crypto world is filled with colorful and often animal-themed slang, and one of the most common terms you'll encounter is "apeing in."

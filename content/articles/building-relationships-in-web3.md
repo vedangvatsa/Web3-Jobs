@@ -4,7 +4,7 @@ description: "Learn how to build meaningful professional relationships in Web3 c
 category: "Career Guides"
 image: "https://picsum.photos/seed/networking/1200/630"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 ## Why Relationships Matter in Web3

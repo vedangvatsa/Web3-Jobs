@@ -8,7 +8,7 @@ description: "Explore India's booming Web3 scene. This guide covers the rapid gr
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 India has emerged as a global leader in the [Web3](/what-is-web3) ecosystem, showcasing impressive growth and innovation. With over 1,000 startups across finance, infrastructure, and entertainment, the sector has secured $3B+ in funding, positioning India as a key player in the global decentralized technology space. Notable projects like Sentient AGI and Avail Project highlight Indian founders’ contributions to AI, DePIN, and scaling solutions, according to Hashed Emergent.

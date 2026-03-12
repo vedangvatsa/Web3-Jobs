@@ -7,7 +7,7 @@ description: "Learn how to write a compelling cover letter that complements your
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 In a world of online applications and one-click submissions, is the cover letter still relevant? The answer is a resounding yes. While your [resume](/how-to-build-a-web3-resume-that-stands-out) lists your qualifications, your cover letter is your opportunity to tell your story, show your personality, and make a direct connection with the hiring manager.

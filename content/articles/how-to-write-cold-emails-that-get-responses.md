@@ -7,7 +7,7 @@ category: Career Guides
 data-ai-hint: email marketing
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 ## Introduction: The Art and Science of the Cold Email

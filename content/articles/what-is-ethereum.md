@@ -7,7 +7,7 @@ description: "A comprehensive guide to Ethereum, the decentralized, open-source 
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 While [Bitcoin](/what-is-bitcoin) introduced the world to decentralized digital money, Ethereum introduced the world to the concept of the "world computer." Launched in 2015 by a team including Vitalik Buterin, Ethereum is a decentralized, open-source [blockchain](/what-is-a-blockchain) that dramatically expanded on Bitcoin's functionality by introducing [smart contracts](/what-are-smart-contracts). This single innovation transformed the blockchain from a simple ledger for transactions into a global, permissionless platform for running decentralized applications (dApps).

@@ -7,7 +7,7 @@ description: "An exploration of decentralization, the core principle of blockcha
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 The most important concept to understand about **[blockchain technology](/what-is-a-blockchain)** is decentralization. It's the key feature that distinguishes a blockchain from a traditional, centralized database and is the foundation for the entire **[Web3](/what-is-web3)** movement. But what does "decentralization" actually mean, and what advantages does it provide?

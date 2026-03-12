@@ -6,7 +6,7 @@ description: "An easy-to-understand guide to Zero-Knowledge Proofs. Learn how th
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Imagine you have a secret-for example, the password to a secret online club. How could you prove to a bouncer that you know the password *without actually telling them the password*? If you tell them the secret, it's not a secret anymore. This is the fundamental problem that **Zero-Knowledge Proofs (ZKPs)** are designed to solve.

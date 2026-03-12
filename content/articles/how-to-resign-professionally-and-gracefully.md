@@ -7,7 +7,7 @@ data-ai-hint: "person leaving"
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Deciding to leave your job is a major step. Once you’ve made that decision, your next challenge is to resign in a way that is professional, respectful, and graceful. The way you leave a company is just as important as the way you started. A graceful exit preserves your professional relationships, protects your reputation, and ensures you can get a positive reference in the future.

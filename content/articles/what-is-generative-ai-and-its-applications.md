@@ -7,7 +7,7 @@ category: "Educational"
 data-ai-hint: "ai creation"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Generative AI refers to a category of [artificial intelligence](/what-is-artificial-intelligence-and-how-it-works) systems that can create new, original content. Unlike traditional AI models that are designed to recognize patterns or make predictions based on existing data, generative models can produce brand new text, images, music, code, and more. It's the difference between an AI that can tell you if a picture contains a cat and an AI that can create a brand new picture of a cat in the style of Van Gogh.

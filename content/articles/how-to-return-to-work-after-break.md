@@ -7,7 +7,7 @@ data-ai-hint: "return to office"
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-11"
+lastUpdated: "2026-03-12"
 ---
 
 Returning to the workforce after a planned career break can feel like a daunting task. The professional world moves quickly, and you might feel like your skills are rusty or that you’ve fallen behind. You may also be worried about how to explain the gap in your [resume](/how-to-build-a-web3-resume-that-stands-out).
