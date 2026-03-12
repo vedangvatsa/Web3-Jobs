@@ -2,6 +2,7 @@ import { MetadataRoute } from 'next';
 import { getAllArticles } from '@/lib/articles';
 import { getAllTerms, getAllCategorySlugs } from '@/lib/glossary';
 import { getCompanies } from '@/lib/companies';
+import { getAllResourcePages } from '@/lib/pseo/resources';
 
 const siteUrl = 'https://hashtagweb3.com';
 
@@ -117,11 +118,12 @@ const staticRoutes: MetadataRoute.Sitemap = [
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const [articles, companies, glossaryTerms, categorySlugs] = await Promise.all([
+  const [articles, companies, glossaryTerms, categorySlugs, resourcePages] = await Promise.all([
     getAllArticles(),
     getCompanies(),
     getAllTerms(),
     getAllCategorySlugs(),
+    getAllResourcePages(),
   ]);
 
   // Articles live at /<slug> (root level, shared [slug] route with glossary terms).
@@ -153,11 +155,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: CONTENT_FALLBACK_DATE,
   }));
 
+  // pSEO resource pages live at /<slug> (root level).
+  const resourceRoutes: MetadataRoute.Sitemap = resourcePages.map((page) => ({
+    url: `${siteUrl}/${page.slug}`,
+    lastModified: new Date('2026-03-13'),
+  }));
+
   return [
     ...staticRoutes,
     ...glossaryCategoryRoutes,
     ...glossaryRoutes,
     ...articleRoutes,
     ...companyRoutes,
+    ...resourceRoutes,
   ];
 }
