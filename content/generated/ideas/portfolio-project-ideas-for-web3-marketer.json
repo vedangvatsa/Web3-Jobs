@@ -217,6 +217,41 @@
             "difficulty": "intermediate",
             "skills": ["Event marketing", "conference strategy", "networking"],
             "estimatedTime": "3 weeks"
+          },
+          {
+            "title": "KOL Outreach Template",
+            "description": "Create templates for reaching out to crypto influencers.",
+            "difficulty": "beginner",
+            "skills": ["Outreach", "influencer marketing", "communication"],
+            "estimatedTime": "1-2 weeks"
+          },
+          {
+            "title": "Marketing Automation Setup",
+            "description": "Document setup of marketing automation for crypto projects.",
+            "difficulty": "intermediate",
+            "skills": ["Marketing automation", "email marketing", "sequences"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Referral Program Design",
+            "description": "Design a referral program with on-chain tracking and rewards.",
+            "difficulty": "intermediate",
+            "skills": ["Referral marketing", "incentive design", "tracking"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "PR Media List",
+            "description": "Build and maintain a list of crypto journalists and their beats.",
+            "difficulty": "beginner",
+            "skills": ["Media relations", "research", "organization"],
+            "estimatedTime": "Ongoing"
+          },
+          {
+            "title": "Meme Marketing Analysis",
+            "description": "Analyze successful meme marketing campaigns in crypto.",
+            "difficulty": "beginner",
+            "skills": ["Meme culture", "viral marketing", "community engagement"],
+            "estimatedTime": "1-2 weeks"
           }
         ]
       }

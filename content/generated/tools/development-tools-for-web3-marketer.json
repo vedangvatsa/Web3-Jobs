@@ -256,6 +256,38 @@
             "url": "https://debank.com",
             "pricing": "Free",
             "useCase": "Community discovery"
+          },
+          {
+            "name": "Galxe",
+            "description": "Credential-based quest platform and campaigns.",
+            "category": "Growth",
+            "url": "https://galxe.com",
+            "pricing": "Paid",
+            "useCase": "Credential campaigns"
+          },
+          {
+            "name": "TaskOn",
+            "description": "Web3 task platform for community engagement.",
+            "category": "Growth",
+            "url": "https://taskon.xyz",
+            "pricing": "Free + Paid",
+            "useCase": "Community tasks"
+          },
+          {
+            "name": "Coinzilla",
+            "description": "Crypto advertising network for banner ads.",
+            "category": "Advertising",
+            "url": "https://coinzilla.com",
+            "pricing": "Paid",
+            "useCase": "Display ads"
+          },
+          {
+            "name": "Bitmedia",
+            "description": "Crypto ad network with targeting options.",
+            "category": "Advertising",
+            "url": "https://bitmedia.io",
+            "pricing": "Paid",
+            "useCase": "Targeted ads"
           }
         ]
       }

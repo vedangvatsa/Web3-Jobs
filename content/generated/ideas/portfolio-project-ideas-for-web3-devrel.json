@@ -217,6 +217,41 @@
             "difficulty": "intermediate",
             "skills": ["Prioritization", "developer feedback", "product thinking"],
             "estimatedTime": "Ongoing"
+          },
+          {
+            "title": "SDK Improvement Proposals",
+            "description": "Document and propose improvements to existing SDKs.",
+            "difficulty": "intermediate",
+            "skills": ["SDK design", "API review", "technical writing"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Developer Onboarding Metrics",
+            "description": "Define and track metrics for developer onboarding success.",
+            "difficulty": "intermediate",
+            "skills": ["Metrics design", "analytics", "tracking"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "API Breaking Changes Guide",
+            "description": "Create a guide for managing breaking changes with developer empathy.",
+            "difficulty": "intermediate",
+            "skills": ["Change management", "communication", "versioning"],
+            "estimatedTime": "1-2 weeks"
+          },
+          {
+            "title": "Open Source Contribution Guide",
+            "description": "Write comprehensive contribution guidelines for open source projects.",
+            "difficulty": "beginner",
+            "skills": ["Open source", "documentation", "community building"],
+            "estimatedTime": "1-2 weeks"
+          },
+          {
+            "title": "Developer Case Studies",
+            "description": "Interview and document how developers built successful projects.",
+            "difficulty": "intermediate",
+            "skills": ["Interviewing", "writing", "storytelling"],
+            "estimatedTime": "Ongoing"
           }
         ]
       }

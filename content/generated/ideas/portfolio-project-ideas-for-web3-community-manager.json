@@ -224,6 +224,34 @@
             "difficulty": "intermediate",
             "skills": ["Feedback systems", "analysis", "action planning"],
             "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Community Health Dashboard",
+            "description": "Build a dashboard tracking key community metrics over time.",
+            "difficulty": "intermediate",
+            "skills": ["Data visualization", "metrics tracking", "reporting"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Member Lifecycle Analysis",
+            "description": "Map the journey of members from joining to becoming advocates.",
+            "difficulty": "intermediate",
+            "skills": ["Journey mapping", "retention analysis", "segmentation"],
+            "estimatedTime": "2-3 weeks"
+          },
+          {
+            "title": "Crisis Communication Playbook",
+            "description": "Create templates and procedures for handling community crises.",
+            "difficulty": "intermediate",
+            "skills": ["Crisis communication", "templates", "escalation"],
+            "estimatedTime": "1-2 weeks"
+          },
+          {
+            "title": "Community Competitive Analysis",
+            "description": "Analyze and compare community strategies of competing projects.",
+            "difficulty": "intermediate",
+            "skills": ["Research", "competitive analysis", "benchmarking"],
+            "estimatedTime": "2-3 weeks"
           }
         ]
       }

@@ -195,6 +195,42 @@
             "description": "Track security-related metrics. Time to fix, report quality."
           }
         ]
+      },
+      {
+        "heading": "Third-Party Risk Management",
+        "description": "Managing risks from external dependencies.",
+        "items": [
+          {
+            "task": "Oracle provider evaluated",
+            "priority": "critical",
+            "description": "Understand oracle trust assumptions and failure modes."
+          },
+          {
+            "task": "Bridge risks documented",
+            "priority": "critical",
+            "description": "Know risks of any bridges your protocol uses or integrates with."
+          },
+          {
+            "task": "API dependencies listed",
+            "priority": "important",
+            "description": "Document all external APIs. Plan for their failure."
+          },
+          {
+            "task": "Vendor security assessed",
+            "priority": "important",
+            "description": "Evaluate security practices of key vendors and partners."
+          },
+          {
+            "task": "RPC provider redundancy",
+            "priority": "important",
+            "description": "Multiple RPC providers to avoid single point of failure."
+          },
+          {
+            "task": "IPFS pinning strategy",
+            "priority": "important",
+            "description": "Ensure critical metadata is pinned and will persist."
+          }
+        ]
       }
     ],
     "commonMistakes": [

@@ -204,6 +204,128 @@
             "example": "Config format change breaks validator on upgrade."
           }
         ]
+      },
+      {
+        "heading": "Protocol Implementation Mistakes",
+        "description": "Errors when implementing protocol specifications.",
+        "items": [
+          {
+            "mistake": "Spec interpretation differences",
+            "description": "Ambiguous spec language interpreted differently between clients.",
+            "severity": "critical",
+            "impact": "Client incompatibility. Network splits during edge cases.",
+            "prevention": "Coordinate with other teams. Use reference tests. Fuzzing against other clients.",
+            "example": "Spec says 'should' but one client treats as 'must', another as optional."
+          },
+          {
+            "mistake": "Missing protocol versioning",
+            "description": "No way to identify or negotiate protocol version between peers.",
+            "severity": "high",
+            "impact": "Incompatible clients cannot communicate. Hard fork coordination issues.",
+            "prevention": "Version all protocol messages. Implement negotiation handshake.",
+            "example": "New message format breaks old clients without version check."
+          },
+          {
+            "mistake": "Incorrect serialization",
+            "description": "Encoding/decoding that differs from specification or other clients.",
+            "severity": "critical",
+            "impact": "Messages misinterpreted. Invalid blocks created or rejected incorrectly.",
+            "prevention": "Use spec-compliant serialization. Test against cross-client fixtures.",
+            "example": "SSZ encoding with wrong field order, producing different hashes."
+          },
+          {
+            "mistake": "Gas metering inconsistencies",
+            "description": "Gas costs for operations that differ from specification.",
+            "severity": "critical",
+            "impact": "Different execution results. Out-of-gas at different points.",
+            "prevention": "Follow EIP gas costs exactly. Benchmark actual costs vs charged.",
+            "example": "SSTORE gas calculation edge case differs, causing state divergence."
+          },
+          {
+            "mistake": "Missing bounds checks",
+            "description": "Not validating that values fit within expected ranges.",
+            "severity": "high",
+            "impact": "Overflow, underflow, or crashes on malformed input.",
+            "prevention": "Check all input ranges. Use bounded integer types.",
+            "example": "Block number as u32 overflows after 4 billion blocks."
+          }
+        ]
+      },
+      {
+        "heading": "Memory and Resource Mistakes",
+        "description": "Resource management vulnerabilities.",
+        "items": [
+          {
+            "mistake": "Unbounded memory allocation",
+            "description": "Allocating memory based on peer-provided sizes without limits.",
+            "severity": "high",
+            "impact": "Memory exhaustion. Node crash. Denial of service.",
+            "prevention": "Cap all allocations. Validate sizes before allocating.",
+            "example": "Peer claims message is 4GB, node tries to allocate buffer."
+          },
+          {
+            "mistake": "Resource leaks",
+            "description": "Not cleaning up connections, file handles, or memory.",
+            "severity": "medium",
+            "impact": "Slow degradation. Eventually node fails or slows.",
+            "prevention": "Use RAII patterns. Monitor resource usage. Regular restarts if needed.",
+            "example": "TCP connections from disconnected peers never cleaned up."
+          },
+          {
+            "mistake": "Blocking the event loop",
+            "description": "Long-running operations blocking critical network handling.",
+            "severity": "high",
+            "impact": "Node appears offline. Misses messages. Falls behind.",
+            "prevention": "Async everywhere. Move heavy work to background threads.",
+            "example": "Block verification blocking peer message handling for 10+ seconds."
+          },
+          {
+            "mistake": "Insufficient connection limits",
+            "description": "No cap on peer connections allowing resource exhaustion.",
+            "severity": "medium",
+            "impact": "Too many connections consume resources. Degrades performance.",
+            "prevention": "Set reasonable connection limits. Quality-based peer selection.",
+            "example": "Node accepts 10000 connections, runs out of file descriptors."
+          },
+          {
+            "mistake": "Cache poisoning",
+            "description": "Allowing attackers to fill caches with useless data.",
+            "severity": "high",
+            "impact": "Legitimate data evicted from cache. Performance drops.",
+            "prevention": "Cache admission policies. Per-peer cache quotas.",
+            "example": "Attacker sends many unique transactions, evicts valid pending txs."
+          }
+        ]
+      },
+      {
+        "heading": "Testing and Validation Mistakes",
+        "description": "Quality assurance errors.",
+        "items": [
+          {
+            "mistake": "No fuzzing",
+            "description": "Not using fuzz testing on parsers and state transitions.",
+            "severity": "high",
+            "impact": "Edge case bugs not found until exploited in production.",
+            "prevention": "Fuzz all input parsing. Fuzz state transitions. Coverage-guided fuzzing.",
+            "example": "Malformed RLP crashes node, found only when attacker sends it."
+          },
+          {
+            "mistake": "Insufficient cross-client testing",
+            "description": "Not testing against other implementations before release.",
+            "severity": "high",
+            "impact": "Incompatibilities discovered on mainnet.",
+            "prevention": "Sync against all major clients on testnet. Use Hive testing.",
+            "example": "New release cannot sync with Geth due to encoding difference."
+          },
+          {
+            "mistake": "Missing regression tests",
+            "description": "Not adding tests for previously found bugs.",
+            "severity": "medium",
+            "impact": "Old bugs reappear after refactoring.",
+            "prevention": "Add regression test for every bug fix. Never delete tests.",
+            "example": "Fixed consensus bug reappears after performance optimization."
+          }
+        ]
       }
     ],
     "additionalResources": [

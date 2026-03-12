@@ -286,6 +286,22 @@
             "url": "https://chain.link/vrf",
             "pricing": "Pay per request",
             "useCase": "Fair randomness"
+          },
+          {
+            "name": "Tenderly",
+            "description": "Smart contract debugging and simulation. Debug failed mints.",
+            "category": "Debugging",
+            "url": "https://tenderly.co",
+            "pricing": "Free tier + Paid",
+            "useCase": "Transaction debugging"
+          },
+          {
+            "name": "Sourcify",
+            "description": "Decentralized contract verification alternative to Etherscan.",
+            "category": "Service",
+            "url": "https://sourcify.dev",
+            "pricing": "Free",
+            "useCase": "Decentralized verification"
           }
         ]
       }

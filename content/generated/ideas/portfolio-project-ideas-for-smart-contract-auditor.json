@@ -244,6 +244,52 @@
             "outcomes": ["Advanced detection capability", "MEV awareness", "Cutting-edge security"]
           }
         ]
+      },
+      {
+        "heading": "Specialized Security Research",
+        "description": "Deep dives into specific vulnerability classes and emerging threats.",
+        "items": [
+          {
+            "title": "L2 Sequencer Risk Analysis",
+            "description": "Research and document risks from centralized L2 sequencers including liveness failures and censorship attacks.",
+            "difficulty": "advanced",
+            "timeEstimate": "3-4 weeks",
+            "skills": ["L2 architecture", "Research", "Risk analysis"],
+            "outcomes": ["Emerging area expertise", "Timely research", "Thought leadership"]
+          },
+          {
+            "title": "Account Abstraction Security Guide",
+            "description": "Analyze security considerations for ERC-4337 account abstraction including paymaster and bundler risks.",
+            "difficulty": "advanced",
+            "timeEstimate": "3-4 weeks",
+            "skills": ["ERC-4337", "Account abstraction", "Security research"],
+            "outcomes": ["New paradigm expertise", "Early mover advantage", "Educational content"]
+          },
+          {
+            "title": "Cross-Chain Message Verification",
+            "description": "Research vulnerabilities in cross-chain messaging protocols and verification mechanisms.",
+            "difficulty": "advanced",
+            "timeEstimate": "4-5 weeks",
+            "skills": ["Cross-chain", "Messaging protocols", "Security research"],
+            "outcomes": ["High-value expertise", "Bridge security", "Critical infrastructure knowledge"]
+          },
+          {
+            "title": "EIP Implementation Analysis",
+            "description": "Analyze security implications of new EIPs before they're widely adopted.",
+            "difficulty": "advanced",
+            "timeEstimate": "2-3 weeks per EIP",
+            "skills": ["EIP process", "Specification analysis", "Forward thinking"],
+            "outcomes": ["Early vulnerability detection", "Community contribution", "Visibility"]
+          },
+          {
+            "title": "Compiler Bug Investigation",
+            "description": "Research historical Solidity compiler bugs and build detector for affected contracts.",
+            "difficulty": "advanced",
+            "timeEstimate": "3-4 weeks",
+            "skills": ["Compiler internals", "Version analysis", "Deep Solidity"],
+            "outcomes": ["Rare expertise", "Niche but valuable", "Legacy contract auditing"]
+          }
+        ]
       }
     ],
     "proTips": [

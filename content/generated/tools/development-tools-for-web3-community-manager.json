@@ -264,6 +264,52 @@
             "url": "https://www.gitbook.com",
             "pricing": "Free tier + Paid",
             "useCase": "Help documentation"
+          },
+          {
+            "name": "FAQ Bot",
+            "description": "Auto-answer common questions in Discord.",
+            "category": "Support",
+            "url": "https://carl.gg",
+            "pricing": "Free + Premium",
+            "useCase": "FAQ automation"
+          },
+          {
+            "name": "HelpDocs",
+            "description": "Simple knowledge base for community docs.",
+            "category": "Documentation",
+            "url": "https://www.helpdocs.io",
+            "pricing": "Paid",
+            "useCase": "Knowledge base"
+          }
+        ]
+      },
+      {
+        "heading": "Analytics and Insights",
+        "description": "Measure community health and growth.",
+        "items": [
+          {
+            "name": "Orbit",
+            "description": "Community analytics and member engagement tracking.",
+            "category": "Analytics",
+            "url": "https://orbit.love",
+            "pricing": "Free tier + Paid",
+            "useCase": "Engagement tracking"
+          },
+          {
+            "name": "SocialBlade",
+            "description": "Track social media growth over time.",
+            "category": "Analytics",
+            "url": "https://socialblade.com",
+            "pricing": "Free + Paid",
+            "useCase": "Growth tracking"
+          },
+          {
+            "name": "Kaito",
+            "description": "AI-powered crypto social media analytics.",
+            "category": "Analytics",
+            "url": "https://www.kaito.ai",
+            "pricing": "Paid",
+            "useCase": "Sentiment tracking"
           }
         ]
       }

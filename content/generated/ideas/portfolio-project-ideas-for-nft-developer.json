@@ -242,6 +242,68 @@
             "timeEstimate": "3-4 weeks",
             "skills": ["React", "APIs", "Data Visualization"],
             "outcomes": ["NFT analytics", "Market intelligence", "Data skills"]
+          },
+          {
+            "title": "Bulk Listing Tool",
+            "description": "Build a tool for listing multiple NFTs across marketplaces in a single transaction.",
+            "difficulty": "intermediate",
+            "timeEstimate": "2-3 weeks",
+            "skills": ["JavaScript", "Marketplace APIs", "Batch Operations"],
+            "outcomes": ["Multi-marketplace support", "Efficiency tools", "Seller UX"]
+          },
+          {
+            "title": "Royalty Tracking Dashboard",
+            "description": "Create a dashboard tracking royalty payments across all marketplaces for creators.",
+            "difficulty": "intermediate",
+            "timeEstimate": "2-3 weeks",
+            "skills": ["React", "Multi-chain data", "Financial tracking"],
+            "outcomes": ["Creator tools", "Revenue tracking", "Analytics"]
+          }
+        ]
+      },
+      {
+        "heading": "Cross-Chain and Advanced",
+        "description": "Multi-chain NFT implementations and advanced patterns.",
+        "items": [
+          {
+            "title": "Cross-Chain NFT Bridge",
+            "description": "Build a bridge for transferring NFTs between Ethereum and L2s with metadata preservation.",
+            "difficulty": "advanced",
+            "timeEstimate": "4-6 weeks",
+            "skills": ["Solidity", "Bridge Patterns", "Multi-chain"],
+            "outcomes": ["Cross-chain expertise", "Bridge mechanics", "L2 knowledge"]
+          },
+          {
+            "title": "Token Bound Account NFT",
+            "description": "Implement ERC-6551 token bound accounts so NFTs can own other assets.",
+            "difficulty": "advanced",
+            "timeEstimate": "3-4 weeks",
+            "skills": ["Solidity", "ERC-6551", "Account Abstraction"],
+            "outcomes": ["Cutting edge standard", "Nested ownership", "Composability"]
+          },
+          {
+            "title": "Multi-Chain Collection",
+            "description": "Deploy same NFT collection across multiple chains with unified metadata and cross-chain numbering.",
+            "difficulty": "advanced",
+            "timeEstimate": "4-5 weeks",
+            "skills": ["Solidity", "Multi-chain deployment", "Coordination"],
+            "outcomes": ["Multi-chain deployment", "ID coordination", "Broader reach"]
+          },
+          {
+            "title": "Compressed NFT Collection (Solana)",
+            "description": "Build an NFT collection using Metaplex compressed NFTs for massive scale at low cost.",
+            "difficulty": "intermediate",
+            "timeEstimate": "2-3 weeks",
+            "skills": ["Rust", "Metaplex", "State compression"],
+            "outcomes": ["Solana expertise", "Scalability", "Cost optimization"]
+          },
+          {
+            "title": "Music Rights NFT Platform",
+            "description": "Create platform for music rights NFTs with streaming royalty distribution to holders.",
+            "difficulty": "advanced",
+            "timeEstimate": "5-6 weeks",
+            "skills": ["Solidity", "Music industry", "Royalty math"],
+            "outcomes": ["Real-world utility", "Industry application", "Complex rights"]
           }
         ]
       }
