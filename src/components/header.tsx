@@ -32,6 +32,7 @@ export function Header() {
     ];
 
     const resourceLinks: Array<{ href: string; label: string; icon: any; target?: string }> = [
+        { href: "/resources", label: "All Resources", icon: ListChecks },
         { href: "/companies", label: "Companies", icon: Building2 },
         { href: "/blog", label: "Playbook", icon: BookOpen },
         { href: "/glossary", label: "Glossary", icon: Library },
