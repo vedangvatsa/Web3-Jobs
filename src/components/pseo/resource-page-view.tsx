@@ -2,7 +2,7 @@
 
 import { Header } from '@/components/header';
 import Link from 'next/link';
-import type { ResourcePage, IdeaItem, ChecklistItem, MistakeItem, ToolItem } from '@/types/pseo';
+import type { ResourcePage, ToolItem } from '@/types/pseo';
 import { useState, useEffect } from 'react';
 
 interface ResourcePageViewProps {
@@ -160,7 +160,20 @@ export function ResourcePageView({ page, nicheResources }: ResourcePageViewProps
 }
 
 // Ideas content - clean table-style layout
-function IdeasContent({ sections }: { sections: Array<{ heading: string; description: string; items: IdeaItem[] }> }) {
+// Support multiple field name variations in Ideas JSON
+interface ActualIdeaItem {
+  title: string;
+  description: string;
+  difficulty?: 'beginner' | 'intermediate' | 'advanced';
+  timeToComplete?: string;  // Type definition
+  timeEstimate?: string;    // Some JSONs use this
+  estimatedTime?: string;   // Other JSONs use this
+  potential?: string;
+  skills?: string[];
+  outcomes?: string[];
+}
+
+function IdeasContent({ sections }: { sections: Array<{ heading: string; description: string; items: ActualIdeaItem[] }> }) {
   return (
     <div className="space-y-12">
       {sections.map((section, idx) => (
@@ -169,24 +182,38 @@ function IdeasContent({ sections }: { sections: Array<{ heading: string; descrip
           <p className="text-muted-foreground mb-6">{section.description}</p>
           
           <div className="space-y-4">
-            {section.items.map((item, itemIdx) => (
-              <div key={itemIdx} className="p-4 border rounded-lg hover:bg-muted/30 transition-colors">
-                <div className="flex items-start justify-between gap-4 mb-2">
-                  <h3 className="font-medium">{item.title}</h3>
-                  <div className="flex gap-2 text-xs shrink-0">
-                    <span className={`px-2 py-0.5 rounded ${
-                      item.difficulty === 'beginner' ? 'bg-green-100 text-green-800' :
-                      item.difficulty === 'intermediate' ? 'bg-blue-100 text-blue-800' :
-                      'bg-orange-100 text-orange-800'
-                    }`}>
-                      {item.difficulty}
-                    </span>
-                    <span className="text-muted-foreground">{item.timeToComplete}</span>
+            {section.items.map((item, itemIdx) => {
+              // Support all time field variations
+              const timeText = item.timeToComplete || item.timeEstimate || item.estimatedTime || '';
+              
+              return (
+                <div key={itemIdx} className="p-4 border rounded-lg hover:bg-muted/30 transition-colors">
+                  <div className="flex items-start justify-between gap-4 mb-2">
+                    <h3 className="font-medium">{item.title}</h3>
+                    <div className="flex gap-2 text-xs shrink-0">
+                      {item.difficulty && (
+                        <span className={`px-2 py-0.5 rounded ${
+                          item.difficulty === 'beginner' ? 'bg-green-100 text-green-800' :
+                          item.difficulty === 'intermediate' ? 'bg-blue-100 text-blue-800' :
+                          'bg-orange-100 text-orange-800'
+                        }`}>
+                          {item.difficulty}
+                        </span>
+                      )}
+                      {timeText && <span className="text-muted-foreground">{timeText}</span>}
+                    </div>
                   </div>
+                  <p className="text-sm text-muted-foreground">{item.description}</p>
+                  {item.skills && item.skills.length > 0 && (
+                    <div className="mt-2 flex flex-wrap gap-1">
+                      {item.skills.map((skill, i) => (
+                        <span key={i} className="text-xs px-2 py-0.5 bg-muted rounded">{skill}</span>
+                      ))}
+                    </div>
+                  )}
                 </div>
-                <p className="text-sm text-muted-foreground">{item.description}</p>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </section>
       ))}
@@ -195,7 +222,17 @@ function IdeasContent({ sections }: { sections: Array<{ heading: string; descrip
 }
 
 // Checklist content - interactive with local storage
-function ChecklistContent({ sections, slug }: { sections: Array<{ heading: string; description: string; items: ChecklistItem[] }>; slug: string }) {
+// Support multiple field name variations: title, task, text
+interface ActualChecklistItem {
+  title?: string;
+  task?: string;
+  text?: string;
+  description?: string;
+  priority: 'critical' | 'important' | 'nice-to-have';
+  category?: string;
+}
+
+function ChecklistContent({ sections, slug }: { sections: Array<{ heading: string; description: string; items: ActualChecklistItem[] }>; slug: string }) {
   const [checked, setChecked] = useState<Set<string>>(new Set());
 
   useEffect(() => {
@@ -239,6 +276,8 @@ function ChecklistContent({ sections, slug }: { sections: Array<{ heading: strin
             {section.items.map((item, iIdx) => {
               const id = `${sIdx}-${iIdx}`;
               const isChecked = checked.has(id);
+              // Support all title field variations
+              const itemTitle = item.title || item.task || item.text || '';
               
               return (
                 <label
@@ -256,15 +295,17 @@ function ChecklistContent({ sections, slug }: { sections: Array<{ heading: strin
                   <div className="flex-1">
                     <div className="flex items-center gap-2 mb-1">
                       <span className={`font-medium ${isChecked ? 'line-through text-muted-foreground' : ''}`}>
-                        {item.title ?? (item as any).text}
+                        {itemTitle}
                       </span>
-                      <span className={`text-xs px-2 py-0.5 rounded ${
-                        item.priority === 'critical' ? 'bg-red-100 text-red-800' :
-                        item.priority === 'important' ? 'bg-amber-100 text-amber-800' :
-                        'bg-gray-100 text-gray-800'
-                      }`}>
-                        {item.priority}
-                      </span>
+                      {item.priority && (
+                        <span className={`text-xs px-2 py-0.5 rounded ${
+                          item.priority === 'critical' ? 'bg-red-100 text-red-800' :
+                          item.priority === 'important' ? 'bg-amber-100 text-amber-800' :
+                          'bg-gray-100 text-gray-800'
+                        }`}>
+                          {item.priority}
+                        </span>
+                      )}
                     </div>
                     {item.description && (
                       <p className={`text-sm ${isChecked ? 'text-muted-foreground/50' : 'text-muted-foreground'}`}>
