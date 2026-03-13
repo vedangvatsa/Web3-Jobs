@@ -283,7 +283,19 @@ function ChecklistContent({ sections, slug }: { sections: Array<{ heading: strin
 }
 
 // Mistakes content - problem/solution format
-function MistakesContent({ sections }: { sections: Array<{ heading: string; description: string; items: MistakeItem[] }> }) {
+// Support both the old type (mistake/consequence/solution) and actual JSON format (description/impact/prevention)
+interface ActualMistakeItem {
+  title: string;
+  description?: string;  // Used in actual JSON
+  mistake?: string;      // Old format
+  impact?: string;       // Used in actual JSON
+  consequence?: string;  // Old format
+  prevention?: string;   // Used in actual JSON
+  solution?: string;     // Old format
+  severity?: 'critical' | 'major' | 'minor';
+}
+
+function MistakesContent({ sections }: { sections: Array<{ heading: string; description: string; items: ActualMistakeItem[] }> }) {
   return (
     <div className="space-y-12">
       {sections.map((section, idx) => (
@@ -292,25 +304,34 @@ function MistakesContent({ sections }: { sections: Array<{ heading: string; desc
           <p className="text-muted-foreground mb-6">{section.description}</p>
           
           <div className="space-y-6">
-            {section.items.map((item, itemIdx) => (
-              <div key={itemIdx} className="border-l-2 border-muted pl-6">
-                <div className="flex items-center gap-2 mb-2">
-                  <h3 className="font-medium">{item.title}</h3>
-                  <span className={`text-xs px-2 py-0.5 rounded ${
-                    item.severity === 'critical' ? 'bg-red-100 text-red-800' :
-                    item.severity === 'major' ? 'bg-amber-100 text-amber-800' :
-                    'bg-gray-100 text-gray-800'
-                  }`}>
-                    {item.severity}
-                  </span>
+            {section.items.map((item, itemIdx) => {
+              // Support both field naming conventions
+              const mistakeText = item.description || item.mistake || '';
+              const consequenceText = item.impact || item.consequence || '';
+              const solutionText = item.prevention || item.solution || '';
+              
+              return (
+                <div key={itemIdx} className="border-l-2 border-muted pl-6">
+                  <div className="flex items-center gap-2 mb-2">
+                    <h3 className="font-medium">{item.title}</h3>
+                    {item.severity && (
+                      <span className={`text-xs px-2 py-0.5 rounded ${
+                        item.severity === 'critical' ? 'bg-red-100 text-red-800' :
+                        item.severity === 'major' ? 'bg-amber-100 text-amber-800' :
+                        'bg-gray-100 text-gray-800'
+                      }`}>
+                        {item.severity}
+                      </span>
+                    )}
+                  </div>
+                  <p className="text-sm text-muted-foreground mb-3">{mistakeText}</p>
+                  <div className="text-sm space-y-2">
+                    {consequenceText && <p><strong className="text-foreground">What happens:</strong> {consequenceText}</p>}
+                    {solutionText && <p><strong className="text-foreground">Fix:</strong> {solutionText}</p>}
+                  </div>
                 </div>
-                <p className="text-sm text-muted-foreground mb-3">{item.mistake}</p>
-                <div className="text-sm space-y-2">
-                  <p><strong className="text-foreground">What happens:</strong> {item.consequence}</p>
-                  <p><strong className="text-foreground">Fix:</strong> {item.solution}</p>
-                </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </section>
       ))}
