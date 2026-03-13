@@ -7,7 +7,7 @@
     "version": "1.0.0"
   },
   "seo": {
-    "title": "Smart Contract Audit Checklist for Auditors",
+    "title": "Security Vulnerability Checklist for Smart Contract Auditors",
     "description": "A comprehensive audit checklist covering all vulnerability classes, from reentrancy to access control. Use this systematic approach to ensure thorough coverage.",
     "keywords": ["smart-contract-auditor", "audit-checklist", "security", "vulnerability", "Slither", "Mythril", "reentrancy"],
     "canonicalSlug": "security-checklists-for-smart-contract-auditor"
