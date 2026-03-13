@@ -7,7 +7,7 @@ description: "Trust is the foundation of any high-performing team, but it's hard
 image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "virtual team handshake"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 **Related Articles:**

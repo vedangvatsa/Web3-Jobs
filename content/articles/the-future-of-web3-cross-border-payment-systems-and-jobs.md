@@ -7,7 +7,7 @@ description: "An exploration of how Web3 technologies like stablecoins and layer
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 The global system for cross-border payments is notoriously slow, expensive, and inefficient. Sending money from one country to another often involves a complex web of correspondent banks, takes days to settle, and incurs high fees. [Web3](/what-is-web3) technology, particularly stablecoins and high-throughput blockchains, offers a powerful solution to this decades-old problem.

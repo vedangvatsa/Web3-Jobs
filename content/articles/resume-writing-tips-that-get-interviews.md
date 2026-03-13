@@ -7,7 +7,7 @@ description: "Learn advanced resume writing tips that will help you stand out an
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 You've written a solid [resume](/how-to-build-a-web3-resume-that-stands-out). It has your work experience, your education, and your skills. But in a competitive job market, "solid" isn't always enough. To consistently land interviews for the jobs you really want, your resume needs to be more than just a list of your qualifications. It needs to be a powerful marketing tool that tells a compelling story about who you are and the value you can bring.

@@ -7,7 +7,7 @@ description: "A look at Polkadot's unique 'hub and spoke' model for blockchain i
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 As the [Web3](/what-is-web3) ecosystem has grown, it has not evolved into a single, monolithic [blockchain](/what-is-a-blockchain). Instead, we have a vibrant multiverse of hundreds of different Layer 1 and Layer 2 networks, each with its own community, strengths, and trade-offs. This has created a new, fundamental challenge: **interoperability**. How do we get these distinct, sovereign blockchains to communicate and share assets with each other securely and efficiently?

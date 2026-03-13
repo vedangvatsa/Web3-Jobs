@@ -6,7 +6,7 @@ image: "/images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg"
 category: "Industry Insights"
 data-ai-hint: "man portrait"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 ## Introduction to SBF and His Rise in Crypto

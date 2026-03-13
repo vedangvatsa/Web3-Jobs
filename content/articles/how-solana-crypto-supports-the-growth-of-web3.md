@@ -7,7 +7,7 @@ description: "Learn how Solana's speed and affordability enable NFTs, DeFi, and 
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 While [Ethereum](/what-is-ethereum) is the dominant [smart contract](/what-are-smart-contracts) platform, the [Web3](/what-is-web3) ecosystem is a multi-chain world, and **[Solana](/what-is-solana)** has carved out a crucial role as a high-performance **[Layer 1 blockchain](/what-is-a-layer-1-[blockchain](/what-is-a-blockchain))**. Its architecture, which prioritizes speed and low transaction costs, makes it a compelling platform for a specific class of decentralized applications and a key driver of Web3's growth. The native cryptocurrency of the network, SOL, is integral to its operation and economic security.

@@ -7,7 +7,7 @@ description: "A clear explanation of the relationship between Web3 and cryptocur
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 The terms "[Web3](/what-is-web3)" and "cryptocurrency" are often used interchangeably, but they represent different, albeit deeply connected, concepts. Understanding their relationship is key to grasping the vision of a decentralized internet.

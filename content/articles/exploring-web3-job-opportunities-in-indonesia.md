@@ -7,7 +7,7 @@ description: "A guide to the Web3 job market in Indonesia. Learn about the count
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 Indonesia is quickly establishing itself as a key battleground in the Southeast Asian [Web3](/what-is-web3) market. With a massive, young, and mobile-first population of over 270 million people, the archipelago has one of the highest cryptocurrency adoption rates in the world. This fervent and growing user base, combined with a surge of interest from both local and international companies, is creating a dynamic and opportunity-rich job market for Web3 professionals.

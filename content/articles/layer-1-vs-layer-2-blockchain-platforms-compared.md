@@ -7,7 +7,7 @@ description: "A comprehensive comparison of Layer 1 (L1) and Layer 2 (L2) blockc
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 The conversation around [blockchain](/what-is-a-blockchain) scalability is dominated by two terms: **Layer 1 (L1)** and **Layer 2 (L2)**. Understanding the distinction between these two types of platforms is crucial for any developer, user, or investor in the [Web3](/what-is-web3) space. They represent two different approaches to solving the **[blockchain trilemma](/is-web3-dead)**, and they work together to create a more scalable and usable decentralized internet.

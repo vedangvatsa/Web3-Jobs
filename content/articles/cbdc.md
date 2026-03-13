@@ -5,7 +5,7 @@ data-ai-hint: "digital currency india"
 description: "An in-depth report on Central Bank Digital Currency (CBDC) in India, exploring its opportunities, challenges, and future prospects in the context of."
 category: "Industry Insights"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 ## India's Digital Revolution

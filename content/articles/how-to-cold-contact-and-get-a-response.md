@@ -7,7 +7,7 @@ description: "A guide to effective cold outreach in Web3. Learn how to write a c
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 In the fast-paced and network-driven world of [Web3](/what-is-web3), the ability to effectively cold contact someone-a founder, an investor, a hiring manager-is a superpower. A single well-crafted message can open doors, create opportunities, and change the trajectory of your career. However, most cold outreach is terrible. It's generic, self-serving, and gets instantly deleted.

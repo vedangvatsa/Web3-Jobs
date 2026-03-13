@@ -7,7 +7,7 @@ description: "A guide to building a career in SocialFi. Learn about the unique c
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 SocialFi, the fusion of social media and [decentralized finance](/what-is-defi), is one of the most exciting and user-focused frontiers in [Web3](/what-is-web3). Projects in this space are building the next generation of social networks where users own their data, control their identity, and are rewarded for their contributions. For developers, [SocialFi](/what-is-socialfi) offers a unique set of challenges that blend social graph design with on-chain mechanics.

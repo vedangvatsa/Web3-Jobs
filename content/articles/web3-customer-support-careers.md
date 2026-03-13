@@ -7,7 +7,7 @@ description: "A guide to building a career in Web3 customer support. Learn how t
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 As the [Web3](/what-is-web3) ecosystem grows, a new and crucial role is emerging: the **Web3 Customer Support Specialist**. While the ethos of Web3 is "self-custody" and "don't trust, verify," the reality is that users, especially those new to crypto, need help. They get confused by wallets, they don't understand gas fees, and they are terrified of making a mistake that could cause them to lose their funds.

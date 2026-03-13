@@ -7,7 +7,7 @@ category: "Career Guides"
 data-ai-hint: "promotion manager"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 Getting promoted is a career high, but when it means you're now managing the same people who were your peers yesterday, it can feel incredibly awkward. Suddenly, the dynamic has shifted. The friend you used to vent to about your boss is now the person you report to. This is one of the trickiest transitions in any career, and how you handle the first few weeks will set the tone for your entire tenure as a manager.

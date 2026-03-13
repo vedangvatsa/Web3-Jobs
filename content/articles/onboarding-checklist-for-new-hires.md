@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/303/1200/630"
 data-ai-hint: "onboarding checklist"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 ## Onboarding Checklist for New Hires

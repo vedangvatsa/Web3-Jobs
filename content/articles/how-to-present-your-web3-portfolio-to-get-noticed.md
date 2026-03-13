@@ -7,7 +7,7 @@ description: "A great portfolio is useless if no one sees it. This guide provide
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 In [Web3](/what-is-web3), having a strong [portfolio](/building-web3-portfolio) of projects is essential. But building the projects is only half the battle. If your work is poorly presented or hard to find, even the most impressive portfolio can be overlooked by recruiters and hiring managers.

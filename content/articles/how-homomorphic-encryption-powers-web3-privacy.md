@@ -7,7 +7,7 @@ description: "A deep dive into Homomorphic Encryption (HE), a a significant cryp
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 In the world of [Web3](/what-is-web3), we face a fundamental tension between transparency and privacy. Public blockchains like [Ethereum](/what-is-ethereum) are radically transparent-all data and computations are visible to everyone. This is great for auditability but terrible for privacy. How can you build applications that handle sensitive data, like medical records or confidential financial trades, on a transparent ledger?
