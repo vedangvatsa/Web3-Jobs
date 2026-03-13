@@ -7,7 +7,7 @@ description: "Soulbound Tokens (SBTs) are non-transferable NFTs that can represe
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 The world of **[NFTs](/what-are-nfts)** has so far been dominated by the idea of transferability. The value of an NFT often comes from the fact that it is a liquid asset that can be bought and sold on an open market. However, a groundbreaking paper co-authored by [Ethereum](/what-is-ethereum) founder Vitalik Buterin proposed a new and powerful concept: **Soulbound [Tokens](/what-is-a-token) (SBTs)**.

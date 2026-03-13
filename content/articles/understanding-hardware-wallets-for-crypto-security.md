@@ -7,7 +7,7 @@ description: "A guide to hardware wallets, the gold standard for crypto security
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 In the world of cryptocurrency, the security of your assets is your responsibility. The core principle of "self-custody" means you are your own bank, but this freedom comes with the challenge of protecting your funds from a growing number of sophisticated online threats. While software wallets like MetaMask are convenient for daily use, the gold standard for securing any significant amount of crypto is the **hardware [wallet](/how-to-choose-a-crypto-wallet)**.

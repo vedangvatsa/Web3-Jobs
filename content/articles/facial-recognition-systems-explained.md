@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/facialrec/1200/630"
 data-ai-hint: "facial recognition"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 Facial recognition technology is now widely used: phone unlocks, photo tagging, criminal investigations, retail analysis. At its core, a facial recognition system identifies or verifies a person from a digital image or video by comparing the facial features in an image to a database of known faces. This article explains how it works technically and the privacy implications.

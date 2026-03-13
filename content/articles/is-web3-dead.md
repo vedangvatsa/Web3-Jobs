@@ -7,7 +7,7 @@ description: "A realistic look at the state of Web3. We analyze the challenges, 
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 Every crypto bear market brings a familiar chorus of headlines: "Is [Web3](/what-is-web3) Dead?" "The [Blockchain](/what-is-a-blockchain) Dream is Over." "Crypto Has Failed." The narrative is tempting: a speculative bubble has burst, the hype has faded, and the grand experiment of a decentralized internet has run its course. For those on the outside, the volatility of [token](/what-is-a-token) prices and the collapse of high-profile projects can look like a fatal blow.

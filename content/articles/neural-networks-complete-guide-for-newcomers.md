@@ -7,7 +7,7 @@ category: "Educational"
 data-ai-hint: "connected nodes"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 A neural network is a type of computer program that is designed to work like the human brain. It's the core technology behind [deep learning](/what-is-deep-learning-technology-explained) and is responsible for many of the recent advances in artificial intelligence. The main idea is to create a system that can learn from examples, just like we do.

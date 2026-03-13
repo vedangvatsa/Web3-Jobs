@@ -6,7 +6,7 @@ description: "A guide to one of the hottest jobs in crypto. Learn how Web3 data 
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 In the transparent world of blockchains, every action, every transaction, and every interaction creates a permanent, public data point. This has given rise to a new and powerful discipline: **on-chain analysis**. And at the heart of this discipline is the **[Web3](/what-is-web3) Data Analyst**, a role that is part data scientist, part archaeologist, and part detective.

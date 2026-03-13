@@ -113,6 +113,11 @@ function NicheResourceGroup({ niche, pages }: { niche: string; pages: ResourcePa
                 {pages.map(page => {
                     const config = contentTypeConfig[page.meta.contentType] ?? { label: page.meta.contentType, icon: BookOpen };
                     const Icon = config.icon;
+                    // Use page title, but strip the niche suffix to keep it concise
+                    const nicheLabel = nicheLabels[niche] ?? niche.replace(/-/g, ' ');
+                    const displayTitle = page.seo.title
+                        .replace(new RegExp(`\\s*(for\\s+)?${nicheLabel}s?\\s*$`, 'i'), '')
+                        .replace(/\s+$/, '');
                     return (
                         <li key={page.seo.canonicalSlug}>
                             <Link
@@ -120,7 +125,7 @@ function NicheResourceGroup({ niche, pages }: { niche: string; pages: ResourcePa
                                 className="flex items-center gap-2 text-sm py-1 px-2 rounded-md hover:bg-muted transition-colors group"
                             >
                                 <Icon className="h-3.5 w-3.5 text-muted-foreground shrink-0" />
-                                <span className="text-muted-foreground group-hover:text-foreground transition-colors">{config.label}</span>
+                                <span className="text-muted-foreground group-hover:text-foreground transition-colors">{displayTitle || page.seo.title}</span>
                                 <ChevronRight className="h-3 w-3 text-muted-foreground/50 ml-auto shrink-0 opacity-0 group-hover:opacity-100 transition-opacity" />
                             </Link>
                         </li>

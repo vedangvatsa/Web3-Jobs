@@ -7,7 +7,7 @@ description: "A practical guide for developers on how to build a basic Automated
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 Automated Market Makers (AMMs) like Uniswap are one of the foundational pillars of Decentralized Finance ([DeFi](/what-is-defi)). They allow users to trade assets in a permissionless way by trading against a pool of [tokens](/what-is-a-token) rather than a traditional order book.

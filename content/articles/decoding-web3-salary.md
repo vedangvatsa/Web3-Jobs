@@ -7,7 +7,7 @@ description: "A realistic analysis of the earning potential in a Web3 career. We
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 The [Web3](/what-is-web3) industry is famous for its eye-watering compensation packages. Tales of developers landing six-figure salaries straight out of bootcamp and marketing leads receiving life-changing [token](/what-is-a-token) grants have fueled a gold rush of talent from the traditional tech world. But can you really earn a high income in Web3, and is it sustainable?

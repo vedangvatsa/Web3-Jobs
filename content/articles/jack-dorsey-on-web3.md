@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "man technology"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 ## Jack Dorsey: The Bitcoin Evangelist and Web3 Skeptic

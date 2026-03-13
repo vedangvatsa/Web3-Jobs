@@ -7,7 +7,7 @@ description: "A look into the world of consensus mechanism architects. Discover 
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 At the very heart of every [blockchain](/what-is-a-blockchain) is a **consensus mechanism**. This is the set of rules by which all the distributed nodes in the network agree on the current state of the ledger. It's the engine that ensures every participant has the same version of the truth, preventing double-spending and ensuring the integrity of the chain. Designing these mechanisms is one of the most difficult and intellectually stimulating challenges in computer science.

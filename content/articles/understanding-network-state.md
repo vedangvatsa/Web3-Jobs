@@ -7,7 +7,7 @@ description: "A foundational guide to understanding 'network state' in blockchai
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 At the heart of any [blockchain](/what-is-a-blockchain) like [Ethereum](/what-is-ethereum) is the concept of the **network state**, often simply called the "state." The state is a complete snapshot of the current status of the entire system at a specific point in time (i.e., at a specific block). It's a massive, shared database that every node in the network holds a copy of.

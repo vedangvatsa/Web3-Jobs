@@ -7,7 +7,7 @@ description: "Explore Web3 jobs and tech careers in Lome, Togo."
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 Lome, the coastal capital of Togo, is rapidly emerging as a noteworthy FinTech and technology hub in West Africa. Driven by a government that has championed digital innovation and financial inclusion, the city has fostered a dynamic environment for tech startups. This forward-thinking approach is now extending into the [Web3](/what-is-web3) space, with a growing community of builders and entrepreneurs exploring how [blockchain](/what-is-a-blockchain) can solve real-world problems in the region.

@@ -7,7 +7,7 @@ description: "From digital ownership with NFTs to decentralized finance (DeFi), 
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 For most of its history, the internet has been a place where we consume information and interact on platforms owned by others. But the rise of cryptocurrency and its underlying **[[blockchain](/what-is-a-blockchain) technology](/how-blockchain-technology-powers-web3)** is catalyzing a fundamental change. We are moving from a "read-write" internet (Web2) to a "read-write-own" internet, commonly known as **[Web3](/what-is-web3)**.

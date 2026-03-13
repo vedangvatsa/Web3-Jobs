@@ -7,7 +7,7 @@ description: "A career guide to the Web3 job market in Bangui. Explore the uniqu
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-12"
+lastUpdated: "2026-03-13"
 ---
 
 Bangui, the capital of the Central African Republic (CAR), occupies a unique and complex position in the global [Web3](/what-is-web3) narrative. In 2022, the country made international headlines by becoming the second nation in the world, after El Salvador, to adopt [Bitcoin](/what-is-bitcoin) as legal tender and by launching its own "Sango" crypto initiative. This bold move placed the nation, and its capital, on the crypto map, but it has also been met with significant challenges, including low internet penetration, economic instability, and criticism from international bodies.
