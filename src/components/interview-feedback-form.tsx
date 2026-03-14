@@ -11,7 +11,7 @@ import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Download, Mic, User, Briefcase, ArrowRight, Rss } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import jsPDF from 'jspdf';
+
 import { Slider } from './ui/slider';
 import { RadioGroup, RadioGroupItem } from './ui/radio-group';
 
@@ -59,8 +59,9 @@ export function InterviewFeedbackForm() {
     })
   }, [form]);
 
-  const handleDownload = form.handleSubmit((data) => {
+  const handleDownload = form.handleSubmit(async (data) => {
     try {
+      const { default: jsPDF } = await import('jspdf');
       const doc = new jsPDF('p', 'pt', 'a4');
       const margin = 50;
       let y = margin;

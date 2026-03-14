@@ -49,7 +49,7 @@ function readArticlesFromDirectory(directory: string): Omit<Article, 'content' |
         lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
       };
     })
-    .filter((article): article is Omit<Article, 'content' | 'rawContent'> => article !== null);
+    .filter((article): article is NonNullable<typeof article> => article !== null) as Omit<Article, 'content' | 'rawContent'>[];
 }
 
 function removePlaceholderKeyTakeaways(content: string): string {

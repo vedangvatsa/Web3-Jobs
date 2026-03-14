@@ -884,3 +884,12 @@
 - [Writing Upgradable Smart Contracts: Proxies Explained](https://hashtagweb3.com/writing-upgradable-smart-contracts-proxies-explained): Smart contracts are immutable, so how do you fix bugs or add new features? This guide explains the Transparent Proxy Pattern, the industry standard for.
 - [Your First Subgraph: Indexing Blockchain Data with The Graph](https://hashtagweb3.com/your-first-subgraph-indexing-blockchain-data-with-the-graph): Learn how to build a subgraph using The Graph Protocol. This guide provides a step-by-step tutorial on how to index smart contract data and serve it via a.
 - [Zero-Knowledge Proofs (ZKPs): A Simple Explanation](https://hashtagweb3.com/zero-knowledge-proofs-explained): An easy-to-understand guide to Zero-Knowledge Proofs. Learn how this revolutionary cryptography allows you to prove something is true without revealing.
+
+## About Hashtag Web3
+
+- Founded: 2022
+- Focus: Web3 careers, blockchain jobs, crypto salary data, and developer education
+- Audience: 60,000+ Web3 professionals across Telegram, Discord, and LinkedIn
+- Content: 500+ career guides, 200+ glossary terms, salary calculators, resume builders, interview banks
+- Social: https://x.com/hashtag_web3 | https://linkedin.com/company/hashtagweb3 | https://t.me/web3hiring
+- Contact: hello@hashtagweb3.com

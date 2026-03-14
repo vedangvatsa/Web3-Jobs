@@ -11,7 +11,7 @@ import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Download, UserMinus, Briefcase, ArrowRight, Rss } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import jsPDF from 'jspdf';
+
 import { RadioGroup, RadioGroupItem } from './ui/radio-group';
 import { Popover, PopoverContent, PopoverTrigger } from './ui/popover';
 import { Calendar } from './ui/calendar';
@@ -51,8 +51,9 @@ export function EmployeeExitSurveyForm() {
     form.setValue('lastDay', new Date());
   }, [form]);
 
-  const handleDownload = form.handleSubmit((data) => {
+  const handleDownload = form.handleSubmit(async (data) => {
     try {
+      const { default: jsPDF } = await import('jspdf');
       const doc = new jsPDF('p', 'pt', 'a4');
       const margin = 50;
       const contentWidth = doc.internal.pageSize.getWidth() - margin * 2;

@@ -6,9 +6,10 @@ import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
+import { FirebaseClientProvider } from '@/firebase/client-provider';
 import type { WebPage, JobPosting } from 'schema-dts';
 
-export const revalidate = 0; // Revalidate on every request
+export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
 export default async function JobsPage() {
   const initialJobs = await getJobs();
@@ -87,7 +88,9 @@ export default async function JobsPage() {
                       <span>Join our hiring feed with <strong className="text-primary">60,000+</strong> subscribers.</span>
                       </Link>
                   </div>
-                  <JobBoard initialJobs={initialJobs} captureEmail={true} />
+                  <FirebaseClientProvider>
+                    <JobBoard initialJobs={initialJobs} captureEmail={true} />
+                  </FirebaseClientProvider>
                   <section className="mt-16 mb-8 max-w-3xl mx-auto text-sm text-muted-foreground leading-relaxed">
                     <h2 className="text-lg font-semibold text-foreground mb-4">About Hashtag Web3</h2>
                     

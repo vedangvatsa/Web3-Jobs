@@ -8,7 +8,6 @@ import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
 import type { WebSite, Organization } from 'schema-dts';
-import { FirebaseClientProvider } from '@/firebase/client-provider';
 import { TelegramPopupHandler } from '@/components/telegram-popup-handler';
 import { PostHogProvider, PostHogPageView } from '@/providers/posthog-provider';
 import { Suspense } from 'react';
@@ -82,7 +81,7 @@ export default async function RootLayout({
   children: React.ReactNode;
 }>) {
 
-  const websiteSchema: WebSite = {
+  const websiteSchema = {
     '@type': 'WebSite',
     name: siteConfig.name,
     url: siteConfig.url,
@@ -105,7 +104,7 @@ export default async function RootLayout({
     ],
   };
 
-  const organizationSchema: Organization = {
+  const organizationSchema = {
     '@type': 'Organization',
     name: 'Hashtag Web3',
     url: siteConfig.url,
@@ -149,6 +148,7 @@ export default async function RootLayout({
             />
             <Script
               id="gtag-inline-script"
+              strategy="afterInteractive"
               dangerouslySetInnerHTML={{
                 __html: `
                   window.dataLayer = window.dataLayer || [];
@@ -177,13 +177,11 @@ export default async function RootLayout({
           <Suspense fallback={null}>
             <PostHogPageView />
           </Suspense>
-          <FirebaseClientProvider>
-            <div className="flex-grow">
-                {children}
-            </div>
-            <Toaster />
-            <TelegramPopupHandler />
-          </FirebaseClientProvider>
+          <div className="flex-grow">
+            {children}
+          </div>
+          <Toaster />
+          <TelegramPopupHandler />
           <Footer />
           <Analytics />
         </PostHogProvider>

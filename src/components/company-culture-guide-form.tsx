@@ -10,7 +10,7 @@ import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Download, Users, Plus, Trash2, ArrowRight, Briefcase, MessageSquare, CheckCircle, Target, Zap, Settings } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import jsPDF from 'jspdf';
+
 
 const cultureGuideSchema = z.object({
   companyName: z.string().min(1, "Company Name is required"),
@@ -56,8 +56,9 @@ export function CompanyCultureGuideForm() {
     name: "values",
   });
 
-  const handleDownload = form.handleSubmit((data) => {
+  const handleDownload = form.handleSubmit(async (data) => {
     try {
+      const { default: jsPDF } = await import('jspdf');
       const doc = new jsPDF('p', 'pt', 'a4');
       const margin = 50;
       const contentWidth = doc.internal.pageSize.getWidth() - margin * 2;

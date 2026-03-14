@@ -200,7 +200,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const allTerms = await getAllTerms();
     const relatedTermsData = term.relatedTerms
       .map(relatedSlug => allTerms.find(t => t.slug === relatedSlug || t.term === relatedSlug))
-      .filter(Boolean);
+      .filter((t): t is NonNullable<typeof t> => t != null);
     
     // Add internal links to content for related terms
     const enhancedContent = addInternalLinksToContent(term.content, term, allTerms);
@@ -493,8 +493,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               </div>
             </article>
             
-            <RelatedArticles 
-              allArticles={allArticles.map(({ content, ...rest }) => rest)}
+            <RelatedArticles
+              allArticles={allArticles}
               currentCategory={article.category}
               currentSlug={article.slug}
             />

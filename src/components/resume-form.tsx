@@ -24,7 +24,6 @@ import {
   ArrowRight,
 } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import jsPDF from 'jspdf';
 import { ResumePreview } from './resume-preview';
 import type { ResumeData } from '@/types';
 
@@ -130,8 +129,9 @@ export function ResumeForm() {
 
   const watchedForm = useWatch({ control: form.control });
 
-  const handleDownload = form.handleSubmit(data => {
+  const handleDownload = form.handleSubmit(async data => {
     try {
+      const { default: jsPDF } = await import('jspdf');
       const doc = new jsPDF('p', 'pt', 'a4');
       const margin = 40;
       const docWidth = doc.internal.pageSize.getWidth();
@@ -552,7 +552,7 @@ export function ResumeForm() {
           {/* Preview Column */}
           <div>
             <div className="sticky top-8">
-              <ResumePreview data={watchedForm} />
+              <ResumePreview data={watchedForm as any} />
             </div>
           </div>
         </div>

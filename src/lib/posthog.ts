@@ -6,13 +6,17 @@ import posthog from 'posthog-js'
 export const trackJobView = (
   jobId: string,
   jobTitle: string,
-  companyName: string
+  companyName: string,
+  source?: string,
+  date?: string,
 ) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.capture('job_viewed', {
       job_id: jobId,
       job_title: jobTitle,
       company_name: companyName,
+      job_source: source,
+      days_since_posted: date ? Math.floor((Date.now() - new Date(date).getTime()) / 86400000) : undefined,
     })
   }
 }
@@ -20,13 +24,17 @@ export const trackJobView = (
 export const trackJobApplicationClick = (
   jobId: string,
   jobTitle: string,
-  companyName: string
+  companyName: string,
+  source?: string,
+  date?: string,
 ) => {
   if (typeof window !== 'undefined' && posthog) {
     posthog.capture('job_application_clicked', {
       job_id: jobId,
       job_title: jobTitle,
       company_name: companyName,
+      job_source: source,
+      days_since_posted: date ? Math.floor((Date.now() - new Date(date).getTime()) / 86400000) : undefined,
     })
   }
 }

@@ -19,10 +19,8 @@ export function TelegramPopup({ open, onOpenChange }: TelegramPopupProps) {
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className="sm:max-w-md">
-        <VisuallyHidden asChild>
+        <VisuallyHidden>
           <DialogTitle>Telegram Channel Invitation</DialogTitle>
-        </VisuallyHidden>
-        <VisuallyHidden asChild>
           <DialogDescription>
             Join our Telegram channel to get instant job alerts
           </DialogDescription>
