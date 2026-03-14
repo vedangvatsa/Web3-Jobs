@@ -20,7 +20,7 @@ import {
 import { Download, Trash2, Plus, Briefcase, Target, CheckSquare, Sparkles, Bot, ArrowRight, ClipboardEdit } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { motion, AnimatePresence } from 'framer-motion';
-import jsPDF from 'jspdf';
+
 
 const jobDescriptionSchema = z.object({
   jobTitle: z.string().min(1, 'Job title is required'),
@@ -121,9 +121,10 @@ export function JDBuilderForm() {
 
   const watchedForm = useWatch({ control: form.control });
 
-  const handleDownload = form.handleSubmit((data) => {
+  const handleDownload = form.handleSubmit(async (data) => {
     try {
-        const doc = new jsPDF('p', 'pt', 'a4');
+        const { default: jsPDF } = await import('jspdf');
+      const doc = new jsPDF('p', 'pt', 'a4');
         const margin = 40;
         const docWidth = doc.internal.pageSize.getWidth();
         const contentWidth = docWidth - margin * 2;
@@ -214,7 +215,7 @@ export function JDBuilderForm() {
     <div className="space-y-2">
       {fields.map((field: any, index: number) => (
         <div key={field.id} className="flex items-center gap-2">
-          <Input {...form.register(`${label}.${index}.value`)} placeholder={placeholder} />
+          <Input {...form.register(`${label}.${index}.value` as any)} placeholder={placeholder} />
           <Button variant="ghost" size="icon" onClick={() => remove(index)}>
             <Trash2 className="h-4 w-4 text-destructive" />
           </Button>
@@ -312,7 +313,7 @@ export function JDBuilderForm() {
           {/* Preview Column */}
           <div>
             <div className="sticky top-8">
-              <JDPreview data={watchedForm} />
+              <JDPreview data={watchedForm as any} />
             </div>
           </div>
         </div>

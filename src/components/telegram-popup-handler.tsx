@@ -9,11 +9,6 @@ export function TelegramPopupHandler() {
   const pathname = usePathname();
 
   useEffect(() => {
-    // Do not show on the homepage or community page (they have their own CTAs)
-    if (pathname === '/' || pathname === '/community') {
-      return;
-    }
-
     const timer = setTimeout(() => {
       const popupShown = sessionStorage.getItem('telegramPopupShown');
       if (!popupShown) {
@@ -24,10 +19,6 @@ export function TelegramPopupHandler() {
 
     return () => clearTimeout(timer);
   }, [pathname]);
-
-  if (pathname === '/' || pathname === '/community') {
-    return null;
-  }
 
   return <TelegramPopup open={showPopup} onOpenChange={setShowPopup} />;
 }

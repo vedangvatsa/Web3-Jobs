@@ -10,7 +10,7 @@ import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Download, Smile, Briefcase, ArrowRight } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import jsPDF from 'jspdf';
+
 import { Slider } from './ui/slider';
 import { Separator } from './ui/separator';
 
@@ -45,8 +45,9 @@ export function EmployeeEngagementSurveyForm() {
     },
   });
 
-  const handleDownload = form.handleSubmit((data) => {
+  const handleDownload = form.handleSubmit(async (data) => {
     try {
+      const { default: jsPDF } = await import('jspdf');
       const doc = new jsPDF('p', 'pt', 'a4');
       const margin = 50;
       const contentWidth = doc.internal.pageSize.getWidth() - margin * 2;

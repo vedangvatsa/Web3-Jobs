@@ -2,7 +2,7 @@
 export interface Question {
     id: string;
     difficulty: 'Foundation' | 'Intermediate' | 'Advanced' | 'Expert';
-    category: 'Knowledge' | 'Practical' | 'Debugging' | 'Design' | 'Architecture' | 'Risk' | 'Strategy' | 'Communication';
+    category: 'Knowledge' | 'Practical' | 'Debugging' | 'Design' | 'Architecture' | 'Risk' | 'Strategy' | 'Communication' | 'Security' | 'Gas Optimization';
     question: string;
     idealAnswer: {
         coreIdea: string;

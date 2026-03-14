@@ -2,21 +2,25 @@
 
 import { trackJobApplicationClick, trackOutboundClick } from '@/lib/posthog';
 
-export function JobApplicationButton({ 
-  jobId, 
-  jobTitle, 
-  companyName, 
+export function JobApplicationButton({
+  jobId,
+  jobTitle,
+  companyName,
   jobUrl,
-  children 
-}: { 
-  jobId: string; 
-  jobTitle: string; 
-  companyName: string; 
+  source,
+  date,
+  children
+}: {
+  jobId: string;
+  jobTitle: string;
+  companyName: string;
   jobUrl: string;
+  source?: string;
+  date?: string;
   children: React.ReactNode;
 }) {
   const handleClick = () => {
-    trackJobApplicationClick(jobId, jobTitle, companyName);
+    trackJobApplicationClick(jobId, jobTitle, companyName, source, date);
     trackOutboundClick(jobUrl, jobTitle);
   };
 

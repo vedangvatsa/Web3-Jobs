@@ -28,7 +28,7 @@ import {
   Hash,
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import jsPDF from 'jspdf';
+
 import { useToast } from '@/hooks/use-toast';
 import {
   Popover,
@@ -175,13 +175,13 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
                         <span className="text-gray-500">Subtotal:</span>
                         <span>{currencySymbol}{subtotal.toFixed(2)}</span>
                     </div>
-                     {data.tax > 0 && (
+                     {(data.tax ?? 0) > 0 && (
                         <div className="flex justify-between">
                             <span className="text-gray-500">Tax ({data.tax}%):</span>
                             <span>{currencySymbol}{taxAmount.toFixed(2)}</span>
                         </div>
                     )}
-                    {data.discount > 0 && (
+                    {(data.discount ?? 0) > 0 && (
                         <div className="flex justify-between">
                             <span className="text-gray-500">Discount:</span>
                             <span>-{currencySymbol}{discountAmount.toFixed(2)}</span>
@@ -259,11 +259,11 @@ export function InvoiceForm() {
 
   const watchedForm = useWatch({ control: form.control });
 
-  const currencySymbol = watchedForm.currency === 'CUSTOM' ? watchedForm.customCurrency || '' : currencySymbols[watchedForm.currency] || '$';
+  const currencySymbol = watchedForm.currency === 'CUSTOM' ? watchedForm.customCurrency || '' : currencySymbols[watchedForm.currency ?? 'USD'] || '$';
 
   const subtotal = React.useMemo(() =>
-    (watchedForm.lineItems || []).reduce(
-        (acc, item) => acc + (item.quantity || 0) * (item.rate || 0),
+    (watchedForm.lineItems ?? []).reduce(
+        (acc, item) => acc + (item?.quantity || 0) * (item?.rate || 0),
         0
     ), [watchedForm.lineItems]);
 
@@ -284,8 +284,9 @@ export function InvoiceForm() {
     }
   };
 
-  const handleDownload = form.handleSubmit((data) => {
+  const handleDownload = form.handleSubmit(async (data) => {
     try {
+      const { default: jsPDF } = await import('jspdf');
       const doc = new jsPDF('p', 'pt', 'a4');
       const margin = 40;
       const docWidth = doc.internal.pageSize.getWidth();
@@ -564,7 +565,7 @@ export function InvoiceForm() {
                                 </div>
                                 <div className="col-span-3 sm:col-span-1 text-right">
                                      {index === 0 && <Label className="text-transparent sm:block hidden">Total</Label>}
-                                     <p className="font-medium h-10 flex items-center justify-end">{currencySymbol}{((watchedForm.lineItems[index]?.quantity || 0) * (watchedForm.lineItems[index]?.rate || 0)).toFixed(2)}</p>
+                                     <p className="font-medium h-10 flex items-center justify-end">{currencySymbol}{(((watchedForm.lineItems ?? [])[index]?.quantity || 0) * ((watchedForm.lineItems ?? [])[index]?.rate || 0)).toFixed(2)}</p>
                                 </div>
                                 <div className="col-span-1 flex justify-end">
                                     {index > 0 && 
@@ -627,7 +628,7 @@ export function InvoiceForm() {
             {/* Preview Column */}
             <div className="lg:col-span-2">
               <div className="sticky top-8">
-                  <InvoicePreview data={watchedForm} />
+                  <InvoicePreview data={watchedForm as any} />
               </div>
             </div>
           </div>

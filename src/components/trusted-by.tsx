@@ -23,15 +23,13 @@ export function TrustedBy() {
                         <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center">
                             {logos.map((logo) => (
                                 <div key={logo.name} className="p-2">
-                                    <div className="relative h-6 w-32">
-                                        <Image 
+                                    <Image
                                           src={logo.src}
                                           alt={`Logo of ${logo.name}`}
-                                          fill
+                                          width={128}
+                                          height={24}
                                           className="object-contain"
-                                          unoptimized
                                         />
-                                    </div>
                                     <span className="sr-only">{logo.name}</span>
                                 </div>
                             ))}
