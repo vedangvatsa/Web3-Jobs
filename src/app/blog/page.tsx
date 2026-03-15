@@ -17,15 +17,6 @@ export default async function PlaybookIndexPage() {
     name: 'Web3 Career Guides 2026 | $120K+ Salary Insights & Job Search Tips',
     url: `${siteUrl}/blog`,
     description: 'Expert Web3 career guides for 2026. Learn how to land blockchain jobs, negotiate $120K+ salaries, build your portfolio, and break into DeFi, NFT, and DAO roles.',
-    mainEntity: {
-      '@type': 'ItemList',
-      itemListElement: allArticles.map((article, index) => ({
-        '@type': 'ListItem',
-        position: index + 1,
-        url: `${siteUrl}/${article.slug}`,
-        name: article.title,
-      })),
-    },
   };
 
 
