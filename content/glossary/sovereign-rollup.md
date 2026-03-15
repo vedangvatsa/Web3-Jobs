@@ -17,8 +17,6 @@ synonyms:
   - Settlement-sovereign rollup
 ---
 
-# Sovereign Rollup
-
 A **sovereign rollup** is a type of modular blockchain that **uses another blockchain only for data availability and consensus**, while handling its own settlement, execution, and state validity verification. Unlike traditional rollups (like Arbitrum or Optimism) that settle to Ethereum L1 and rely on L1 smart contracts to verify proofs and enforce validity, sovereign rollups are self-settling—they determine their own canonical state through social consensus or embedded mechanisms.
 
 This architecture, pioneered by Celestia and adopted by projects like Fuel and Rollkit, provides **maximum sovereignty and flexibility** at the cost of not inheriting L1 bridge security. Sovereign rollups can upgrade their state transition function, change their consensus rules, or even hard fork without requiring L1 governance approval—they're truly independent chains that happen to use shared DA infrastructure.

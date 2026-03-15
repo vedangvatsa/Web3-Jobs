@@ -41,7 +41,7 @@ const JDPreview = ({ data }: { data: JobDescriptionData }) => {
     return (
         <Card className="shadow-lg h-full">
             <CardContent className="p-8 font-sans text-gray-800 bg-white min-h-[1200px]">
-                <h1 className="text-2xl font-bold text-gray-900 mb-2">{data.jobTitle || "Job Title"}</h1>
+                <h2 className="text-2xl font-bold text-gray-900 mb-2">{data.jobTitle || "Job Title"}</h2>
                 <p className="font-semibold text-gray-700">{data.companyName || "Your Company"}</p>
                 <p className="text-sm text-gray-500">{data.location || "Location"} &bull; {data.jobType || "Job Type"}</p>
                 {data.salaryRange && <p className="text-sm text-gray-500 mt-1">Salary: {data.salaryRange}</p>}

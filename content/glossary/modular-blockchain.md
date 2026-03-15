@@ -17,8 +17,6 @@ synonyms:
   - Separation of concerns blockchain
 ---
 
-# Modular Blockchain
-
 A **modular blockchain** is an architectural paradigm that **separates the core functions of a blockchain into independent, specialized layers** rather than handling all functions in a single monolithic chain. These functions—execution, settlement, consensus, and data availability—can be provided by different protocols optimized for their specific role, creating a flexible, scalable blockchain stack.
 
 This architecture represents a fundamental shift in blockchain design philosophy, moving from the "do everything in one place" approach of Bitcoin and early Ethereum to a "best tool for each job" approach where execution happens on rollups, data is stored on DA layers, and settlement occurs on a secure base layer like Ethereum.

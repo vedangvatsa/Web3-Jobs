@@ -17,8 +17,6 @@ synonyms:
   - Position-based liquidity
 ---
 
-# Concentrated Liquidity
-
 **Concentrated liquidity** is a revolutionary AMM (automated market maker) design that allows **liquidity providers to allocate their capital within custom price ranges** instead of distributing it across the entire 0-to-infinity price curve. Introduced by Uniswap V3 in May 2021, this innovation fundamentally changed DeFi by enabling **up to 4,000x greater capital efficiency** compared to traditional constant product (x*y=k) AMMs.
 
 In concentrated liquidity systems, LPs create individual "positions" that are active only within specified price ranges. When the market price is within their range, LPs earn trading fees proportional to their share of the active liquidity. When the price moves outside their range, their position becomes inactive and stops earning fees, but also stops experiencing impermanent loss.

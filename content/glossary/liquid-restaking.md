@@ -17,8 +17,6 @@ synonyms:
   - Restaked LST
 ---
 
-# Liquid Restaking
-
 **Liquid restaking** combines the capital efficiency of restaking with the liquidity of liquid staking tokens, creating a powerful primitive that enables users to **earn multiple layers of yield while maintaining asset liquidity**. By depositing liquid staking tokens (like stETH or rETH) into restaking protocols and receiving Liquid Restaking Tokens (LRTs) in return, users can simultaneously earn base staking rewards, restaking rewards from AVS validation, and additional DeFi yields—all while keeping their assets liquid and composable.
 
 This innovation, pioneered by protocols like EtherFi, Puffer Finance, and Renzo, has attracted over $10 billion in total value locked as of 2026, representing a significant evolution beyond both traditional staking and first-generation restaking. Liquid restaking abstracts away the complexity of validator operation and AVS selection while maintaining the economic benefits of participating in Ethereum's expanding security ecosystem.

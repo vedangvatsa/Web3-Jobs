@@ -17,8 +17,6 @@ synonyms:
   - Blockchain API node
 ---
 
-# RPC Node
-
 An **RPC (Remote Procedure Call) node** is a blockchain node that exposes an **API interface** allowing external applications to interact with the blockchain without running their own node infrastructure. RPC nodes serve as the critical bridge between user-facing applications (wallets, dApps, block explorers) and the underlying blockchain network, handling requests to read blockchain state, submit transactions, estimate gas costs, and more.
 
 Most blockchain users interact with RPC nodes daily without realizing it—every time you check your wallet balance, swap tokens on a DEX, or mint an NFT, your application is making RPC calls to a node provider like Infura, Alchemy, QuickNode, or a public endpoint.

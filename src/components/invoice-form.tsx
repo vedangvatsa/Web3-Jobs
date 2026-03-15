@@ -114,7 +114,7 @@ const InvoicePreview = ({ data }: { data: InvoiceFormData }) => {
                     )}
                 </div>
                 <div className="text-right">
-                    <h1 className="text-3xl font-bold uppercase text-gray-800 tracking-wider">INVOICE</h1>
+                    <h2 className="text-3xl font-bold uppercase text-gray-800 tracking-wider">INVOICE</h2>
                     <p className="text-muted-foreground mt-1">#{data.invoiceNumber || 'INV-001'}</p>
                 </div>
             </div>

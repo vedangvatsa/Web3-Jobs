@@ -17,8 +17,6 @@ synonyms:
   - Contract review
 ---
 
-# Smart Contract Auditing
-
 **Smart contract auditing** is **the systematic review and analysis of smart contract code to identify security vulnerabilities, logical flaws, and operational risks before deployment**. Audits are critical in crypto because once smart contracts are deployed and hold funds, they're immutable—bugs become permanent, potentially allowing theft of millions or billions of dollars.
 
 The smart contract auditing industry has grown to billions of dollars annually as DeFi and other blockchain applications hold increasingly large amounts of user capital. Professional audit firms like Trail of Bits, Certora, OpenZeppelin, and Spearbit employ teams of security engineers who specialize in finding exploitable flaws in code.

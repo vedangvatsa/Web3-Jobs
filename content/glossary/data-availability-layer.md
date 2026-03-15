@@ -17,8 +17,6 @@ synonyms:
   - Availability layer
 ---
 
-# Data Availability Layer
-
 A **data availability (DA) layer** is **specialized blockchain infrastructure dedicated to storing and guaranteeing the availability of transaction data** without executing the transactions themselves. DA layers are a critical component of modular blockchain architectures, enabling rollups to achieve scalability by separating data storage from transaction execution while maintaining security guarantees.
 
 In the rollup-centric blockchain ecosystem, DA layers solve a fundamental problem: rollups need somewhere to post their transaction data so that anyone can verify correctness, reconstruct state, and generate fraud proofs (for Optimistic rollups) or verify validity proofs (for ZK rollups)—but using Ethereum's expensive calldata for this purpose limits scalability and increases costs.
