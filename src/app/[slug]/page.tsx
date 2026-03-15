@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
     const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(resource.seo.title)}&category=${encodeURIComponent(resource.meta.contentType)}`;
     return {
-      title: `${resource.seo.title} | Hashtag Web3`,
+      title: resource.seo.title,
       description: resource.seo.description,
       keywords: resource.seo.keywords,
       alternates: { canonical: resourceUrl },
@@ -71,7 +71,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(term.term)}&category=${encodeURIComponent(term.category)}`;
     
     return {
-      title: `${term.term} - Web3 Glossary | Hashtag Web3`,
+      title: `${term.term} - Web3 Glossary`,
       description: metaDescription,
       keywords: [term.term, ...term.synonyms || [], term.category, 'web3', 'crypto', 'blockchain', 'glossary'],
       alternates: {
@@ -119,14 +119,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   ].filter((v, i, a) => a.indexOf(v) === i); // Remove duplicates
 
   return {
-    title: `${article.title} | Web3 Playbook`,
+    title: article.title,
     description: article.description,
     keywords: keywords,
     alternates: {
       canonical: articleUrl,
     },
     openGraph: {
-      title: `${article.title} | Web3 Playbook`,
+      title: article.title,
       description: article.description,
       type: 'article',
       url: articleUrl,
@@ -141,7 +141,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${article.title} | Web3 Playbook`,
+      title: article.title,
       description: article.description,
       images: [ogImageUrl],
     },
