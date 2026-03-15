@@ -45,7 +45,7 @@ After a month of immersion, you'll have a better idea of what excites you. Now, 
 -   **Interested in Community?** The most accessible entry-level role is **Community Manager**. These are the people who manage a project's Discord server. Your path to this role is by being an exemplary community member. Join a project's Discord, be helpful, answer questions, and get noticed by the team.
 -   **Interested in Marketing?** Start writing. Create a blog or a Twitter account where you explain the concepts you're learning. This demonstrates your communication skills and becomes your public [portfolio](/building-web3-portfolio).
 -   **Interested in Design?** Find a dApp with a confusing user interface. Redesign a specific user flow in Figma and share your case study publicly.
--   **Interested in Development?** Start with the basics. Go through a free tutorial like CryptoZombies to learn the fundamentals of [Solidity](/[solidity](/best-programming-languages-for-blockchain-development)-for-beginners), the main programming language for Ethereum.
+-   **Interested in Development?** Start with the basics. Go through a free tutorial like CryptoZombies to learn the fundamentals of [Solidity](/solidity-for-beginners), the main programming language for Ethereum.
 
 The key is to create "proof of work"-public, verifiable evidence of your skills and passion.
 

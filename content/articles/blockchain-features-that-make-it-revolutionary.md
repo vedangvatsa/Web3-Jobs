@@ -36,7 +36,7 @@ This is the most important and defining feature of a public blockchain.
 
 Public blockchains are transparent by default.
 
--   **What it is:** Anyone can use a **[block explorer](/blockchain-explorer-guide-for-bitcoin-and-[ethereum](/what-is-ethereum))** to view the entire history of transactions on the network. While the identities of the participants are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of all funds is public.
+-   **What it is:** Anyone can use a **[block explorer](/blockchain-explorer-guide-for-bitcoin-and-ethereum)** to view the entire history of transactions on the network. While the identities of the participants are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of all funds is public.
 -   **Why it matters:** Public blockchains allow anyone to verify the complete transaction history independently. Traditional financial systems hide transaction details; blockchains expose the full ledger, enabling transparency verification by any participant.
 
 ### 4. Automation via Smart Contracts

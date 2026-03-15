@@ -49,7 +49,7 @@ You can look up any public wallet address to see its entire transaction history 
     -   **[Token](/what-is-a-token) Holdings:** A list of all the different ERC-20 tokens the wallet holds.
     -   **Transaction History:** A complete, reverse-chronological list of every transaction the wallet has ever sent or received.
 
-> **Practical Insight:** This is the foundation of the **[on-chain resume](/on-chain-[resume](/how-to-build-a-web3-resume-that-stands-out))**. Recruiters can look at a developer's public address to see their history of interacting with different protocols, which is a powerful signal of their experience.
+> **Practical Insight:** This is the foundation of the **[on-chain resume](/on-chain-resume)**. Recruiters can look at a developer's public address to see their history of interacting with different protocols, which is a powerful signal of their experience.
 
 #### 3. Reading a Smart Contract
 

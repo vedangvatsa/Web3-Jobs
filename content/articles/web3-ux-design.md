@@ -53,7 +53,7 @@ In a trustless environment, the design of your application must constantly build
 -   **Readability:** Use clear, simple language. Avoid technical jargon wherever possible.
 -   **Human-Readable Addresses:** Use an ENS (Ethereum Name Service) lookup to display a human-readable name (e.g., `vitalik.eth`) instead of a long, intimidating hexadecimal address (`0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045`).
 -   **Visual Consistency:** A professional, polished, and consistent design signals that the project is trustworthy and not a hastily-built scam.
--   **Avoid "Blind Signing":** Never ask a user to sign an unreadable hash. If you need a user to sign an off-chain message, use the [EIP-712 standard](/web3-[interview](/how-to-prepare-for-job-interview)-questions), which allows wallets to display the structured, readable data the user is actually signing.
+-   **Avoid "Blind Signing":** Never ask a user to sign an unreadable hash. If you need a user to sign an off-chain message, use the [EIP-712 standard](/web3-interview-questions), which allows wallets to display the structured, readable data the user is actually signing.
 
 ### Best Practice #4: Provide "Off-Ramps" and Support
 

@@ -12,7 +12,7 @@ lastUpdated: "2026-03-13"
 
 The "metaverse" is rapidly moving from a science fiction concept to a tangible reality. As persistent, shared virtual worlds become more sophisticated, they are not just changing how we play and socialize, but also how we work. The future of work is not just remote; it's virtual. This shift is creating a new and fascinating job market for roles that don't even exist in the physical world.
 
-This guide explores the [future of work](/future-of-work-in-[web3](/what-is-web3)) within the metaverse, highlighting the emerging career paths and the skills that will be in demand as our professional lives become increasingly intertwined with virtual environments.
+This guide explores the [future of work](/future-of-work-in-web3) within the metaverse, highlighting the emerging career paths and the skills that will be in demand as our professional lives become increasingly intertwined with virtual environments.
 
 ### The Metaverse Workplace: What's Different?
 

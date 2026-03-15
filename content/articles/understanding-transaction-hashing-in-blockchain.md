@@ -39,7 +39,7 @@ This is what makes the blockchain **[immutable](/blockchain-immutability-explain
 ### Practical Insights for Web3 Users
 
 For the average user, the transaction hash is your receipt.
--   **Transaction Tracking:** After you send a transaction from your [wallet](/how-to-choose-a-crypto-wallet), you'll receive a TxID. You can take this hash and paste it into a **[block explorer](/blockchain-explorer-guide-for-[bitcoin](/what-is-bitcoin)-and-[ethereum](/what-is-ethereum))** (like Etherscan for Ethereum) to track its status in real-time. You can see if it's pending, if it has been successfully included in a block, or if it has failed.
+-   **Transaction Tracking:** After you send a transaction from your [wallet](/how-to-choose-a-crypto-wallet), you'll receive a TxID. You can take this hash and paste it into a **[block explorer](/blockchain-explorer-guide-for-bitcoin-and-ethereum)** (like Etherscan for Ethereum) to track its status in real-time. You can see if it's pending, if it has been successfully included in a block, or if it has failed.
 -   **Verification:** A transaction hash is definitive proof that a transaction occurred. If you're sending funds to an exchange or a merchant, the TxID is the verifiable proof of payment you can provide.
 
 Transaction hashing is a simple but profoundly powerful concept. It’s a one-way function that turns arbitrary data into a secure and unique fingerprint, and it's this fundamental building block that allows a decentralized network of strangers to agree on a single, tamper-proof version of history. Without it, the trustless world of [Web3](/what-is-web3) could not exist.

@@ -33,7 +33,7 @@ Success at a hackathon starts before you write a single line of code.
 **3. Set Up Your Development Environment:**
 -   Don't waste precious time during the hackathon setting up your tools. Have your development environment ready to go:
     -   Your IDE (e.g., VS Code) with the right extensions.
-    -   Your chosen smart contract framework (**[Foundry](/an-introduction-to-foundry-the-modern-[solidity](/best-programming-languages-for-blockchain-development)-toolkit)** is often preferred for its speed).
+    -   Your chosen smart contract framework (**[Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit)** is often preferred for its speed).
     -   A frontend boilerplate (e.g., a basic Next.js app with [wallet](/how-to-choose-a-crypto-wallet) connection already set up).
 
 ### Part 2: The Hackathon Weekend

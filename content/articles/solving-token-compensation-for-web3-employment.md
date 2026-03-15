@@ -54,7 +54,7 @@ Let's say a senior engineer, Alice, joins a new [DeFi](/what-is-defi) protocol. 
 
 ### Compensation for Part-Time DAO Contributors
 
-For [DAOs that rely on [freelance](/how-to-start-freelancing-for-beginners) contributors](/hiring-for-a-[dao](/what-is-a-dao)), the model is different. Compensation is typically project-based rather than time-based.
+For [DAOs that rely on [freelance](/how-to-start-freelancing-for-beginners) contributors](/hiring-for-a-dao), the model is different. Compensation is typically project-based rather than time-based.
 
 -   **Bounties:** Small, one-off tasks with a fixed token payment upon completion. There is no vesting. This is great for simple, well-defined tasks.
 -   **Grants:** Larger, longer-term projects (e.g., a 3-month project to build a new feature). The grant may be paid out in tranches based on milestone delivery. Sometimes, these grants may also have a short vesting period (e.g., 6 months) to encourage the contributor to remain engaged with the project's success even after their work is done.

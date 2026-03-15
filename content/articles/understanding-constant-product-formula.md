@@ -62,7 +62,7 @@ The current price of ETH is the ratio of the reserves:
 
 Notice what happened:
 *   The trader paid 3,888.89 USDC for 1 ETH, an effective price of $3,888.89.
-*   The initial price was $3,500. The trader's own trade moved the price against them. This is **[price impact](/what-is-price-impact-in-[dex](/what-is-a-decentralized-exchange-dex)-trading)**.
+*   The initial price was $3,500. The trader's own trade moved the price against them. This is **[price impact](/what-is-price-impact-in-dex-trading)**.
 *   The new price of ETH in the pool is now `38,888.89 / 9 = 4,320.98 USDC`.
 
 The formula automatically adjusted the price based on the change in the ratio of the reserves.

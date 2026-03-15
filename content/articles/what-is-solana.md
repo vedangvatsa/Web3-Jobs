@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-03-13"
 ---
 
-In the competitive landscape of **[Layer 1 blockchains](/what-is-a-layer-1-[blockchain](/what-is-a-blockchain))**, **Solana** has emerged as a major contender, designed from the ground up to address the scalability challenges that have faced networks like [Ethereum](/what-is-ethereum). Solana is a high-performance, open-source blockchain that aims to provide the throughput required for mainstream, global-scale decentralized applications.
+In the competitive landscape of **[Layer 1 blockchains](/what-is-a-layer-1-blockchain)**, **Solana** has emerged as a major contender, designed from the ground up to address the scalability challenges that have faced networks like [Ethereum](/what-is-ethereum). Solana is a high-performance, open-source blockchain that aims to provide the throughput required for mainstream, global-scale decentralized applications.
 
 Solana's core value proposition is speed. While Ethereum prioritizes decentralization and security, sometimes at the cost of speed, Solana makes a different set of trade-offs, optimizing for raw performance to enable applications that require near-instant transaction finality, such as high-frequency trading and interactive gaming.
 
@@ -26,7 +26,7 @@ This architecture allows Solana to theoretically handle tens of thousands of tra
 
 ### The Solana Ecosystem
 
-- **Programming Language:** Developing on Solana is primarily done in **[Rust](/top-5-[web3](/what-is-web3)-languages)**, a language known for its performance and safety. This presents a steeper learning curve than Ethereum's [Solidity](/best-programming-languages-for-blockchain-development), but it allows for highly optimized programs.
+- **Programming Language:** Developing on Solana is primarily done in **[Rust](/top-5-web3-languages)**, a language known for its performance and safety. This presents a steeper learning curve than Ethereum's [Solidity](/best-programming-languages-for-blockchain-development), but it allows for highly optimized programs.
 - **Use Cases:** Solana's speed makes it particularly well-suited for high-frequency applications like decentralized exchanges (DEXs), on-chain derivatives, and Web3 games that require real-time interaction. It has also become a major hub for [NFT](/what-are-nfts) activity due to its low minting costs.
 
 ### Challenges and Trade-offs

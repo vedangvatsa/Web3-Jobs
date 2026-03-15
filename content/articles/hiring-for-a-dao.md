@@ -31,7 +31,7 @@ Instead of a traditional hiring funnel, DAOs should think in terms of a "contrib
 
 This is a new community member who has just joined the Discord. They are in an exploratory phase.
 -   **DAO's Goal:** Make it easy for them to learn. Have clear onboarding channels, high-quality documentation, and a welcoming atmosphere. The goal is to convert a lurker into an engaged participant.
--   **Tools:** A well-organized Discord, clear documentation ([a crucial role for a technical writer](/technical-writer-[web3](/what-is-web3)-jobs)), and active community managers.
+-   **Tools:** A well-organized Discord, clear documentation ([a crucial role for a technical writer](/technical-writer-web3-jobs)), and active community managers.
 
 **2. Middle of Funnel: The Participant & Bounty Hunter**
 

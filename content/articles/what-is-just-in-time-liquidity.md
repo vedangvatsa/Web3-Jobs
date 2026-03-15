@@ -70,7 +70,7 @@ Overall, the consensus is that JIT liquidity is an extractive form of MEV that h
 A: No, not realistically. This is a highly sophisticated form of MEV that requires expensive infrastructure, advanced knowledge of [blockchain](/what-is-a-blockchain) mechanics, and complex bots that are constantly competing with other bots in a high-speed, automated environment.
 
 **Q: How is this different from a sandwich attack?**
-A: A **[sandwich attack](/sandwich-attack-in-[dex](/what-is-a-decentralized-exchange-dex)-explained)** extracts value from a user's *slippage*. The attacker buys before the victim and sells after. A JIT liquidity attack extracts value from *trading fees*. The attacker provides liquidity for the victim's trade and then removes it. Both are types of MEV that exploit pending transactions.
+A: A **[sandwich attack](/sandwich-attack-in-dex-explained)** extracts value from a user's *slippage*. The attacker buys before the victim and sells after. A JIT liquidity attack extracts value from *trading fees*. The attacker provides liquidity for the victim's trade and then removes it. Both are types of MEV that exploit pending transactions.
 
 **Q: Do other DEXs besides Uniswap v3 have JIT liquidity?**
 A: Any DEX that uses a concentrated liquidity model is theoretically vulnerable to JIT liquidity strategies.

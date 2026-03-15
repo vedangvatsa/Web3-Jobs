@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-03-13"
 ---
 
-In the competitive landscape of **[Layer 1 blockchains](/what-is-a-layer-1-[blockchain](/what-is-a-blockchain))**, a new generation of networks is emerging that challenges the architectural assumptions of older chains like [Ethereum](/what-is-ethereum). One of the most prominent and well-funded of these is **Sui**, a blockchain designed from the ground up for high performance, low-latency, and massive scalability.
+In the competitive landscape of **[Layer 1 blockchains](/what-is-a-layer-1-blockchain)**, a new generation of networks is emerging that challenges the architectural assumptions of older chains like [Ethereum](/what-is-ethereum). One of the most prominent and well-funded of these is **Sui**, a blockchain designed from the ground up for high performance, low-latency, and massive scalability.
 
 Developed by Mysten Labs, a team composed of former senior engineers from Meta's Novi and Diem blockchain projects, Sui introduces a novel data model and [programming language](/best-programming-languages-for-blockchain-development) that sets it apart from the account-based model of the EVM. This guide provides a deep dive into Sui's technology and its growing developer ecosystem.
 

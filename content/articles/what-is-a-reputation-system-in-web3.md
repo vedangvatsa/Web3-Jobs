@@ -26,7 +26,7 @@ Instead of a centralized credit score like FICO, a Web3 reputation score is buil
 
 1.  **[Decentralized Identifier (DID):](/what-is-a-decentralized-identifier)** A user's reputation is anchored to their DID, which is typically their public wallet address (e.g., an ENS name like `vitalik.[eth](/what-is-ethereum)`).
 2.  **Verifiable Credentials and Attestations:** These are tamper-proof claims made about a user's wallet by other entities.
-    -   **[Soulbound Tokens (SBTs):](/what-is-soulbound-[token](/what-is-a-token)-technology)** A university could issue a non-transferable SBT to a wallet to prove a degree. A conference could issue an SBT (like a POAP) to prove attendance.
+    -   **[Soulbound Tokens (SBTs):](/what-is-soulbound-token-technology)** A university could issue a non-transferable SBT to a wallet to prove a degree. A conference could issue an SBT (like a POAP) to prove attendance.
     -   **On-Chain Activity:** A DeFi protocol could issue an attestation that a user has successfully repaid a loan, contributing to their on-chain credit history.
 3.  **Social Graph Analysis:** By analyzing a user's connections on decentralized social media platforms like Farcaster or Lens, a reputation system can infer trust. If a user is followed by many other reputable accounts, their own reputation score increases.
 4.  **Governance Participation:** A history of active and thoughtful voting in [DAOs](/what-is-a-dao) is a strong signal of a user's commitment and expertise within an ecosystem.

@@ -16,7 +16,7 @@ These "security tokens" are digital representations of traditional financial ins
 
 ### What is a Security? The Howey Test
 
-In the United States, the primary test for determining if an asset is a security is the **[Howey Test](/how-to-become-a-[web3](/what-is-web3)-legal-consultant)**, which defines a security as:
+In the United States, the primary test for determining if an asset is a security is the **[Howey Test](/how-to-become-a-web3-legal-consultant)**, which defines a security as:
 1.  An investment of money
 2.  In a common enterprise
 3.  With a reasonable expectation of profits

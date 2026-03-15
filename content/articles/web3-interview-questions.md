@@ -12,7 +12,7 @@ lastUpdated: "2026-03-13"
 
 [Web3](/what-is-web3) interviews are different from traditional tech interviews. They test both technical knowledge and understanding of crypto philosophy. Interviewers want to know that you understand the space, not just that you can code or communicate.
 
-Preparing for Web3 interviews requires understanding the technology, the industry, and being able to discuss Web3 meaningfully. This guide covers common [interview](/how-to-prepare-for-job-interview) questions, how to approach them, and what makes good answers. For additional prep, review our [resume tips](/10-dos-and-donts-for-web3-[resume](/how-to-build-a-web3-resume-that-stands-out)) and [essential skills guide](/10-essential-skills-for-web3).
+Preparing for Web3 interviews requires understanding the technology, the industry, and being able to discuss Web3 meaningfully. This guide covers common [interview](/how-to-prepare-for-job-interview) questions, how to approach them, and what makes good answers. For additional prep, review our [resume tips](/10-dos-and-donts-for-web3-resume) and [essential skills guide](/10-essential-skills-for-web3).
 
 ## General Web3 Questions
 
