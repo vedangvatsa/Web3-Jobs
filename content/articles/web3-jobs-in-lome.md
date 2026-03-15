@@ -1,6 +1,6 @@
 ---
 
-title: "Web3 Jobs in Lome: A Guide to Togo's FinTech-Forward Tech Scene"
+title: "Web3 Jobs in Lome: Togo's FinTech Tech Scene"
 image: "/images/africa web3 jobs.jpg"
 data-ai-hint: "lome togo city"
 description: "Explore Web3 jobs and tech careers in Lome, Togo."

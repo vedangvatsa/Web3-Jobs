@@ -1,6 +1,6 @@
 ---
 
-title: "How to Build Credibility in a New Role: A Strategic Guide"
+title: "How to Build Credibility in a New Role"
 description: "Build trust through demonstrated competence and consistent delivery in your new position."
 category: "Career Guides"
 image: "https://picsum.photos/seed/301/1200/630"

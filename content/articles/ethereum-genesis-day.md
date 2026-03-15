@@ -1,6 +1,6 @@
 ---
 
-title: "The Genesis of a World Computer: Celebrating Ethereum Genesis Day"
+title: "Celebrating Ethereum Genesis Day"
 image: https://images.unsplash.com/photo-1642104704074-907c0698cbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxldGhlcmV1bXxlbnwwfHx8fDE3NjE4ODM0MTB8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: "On July 30, 2015, the first block of the Ethereum blockchain was mined, heralding the dawn of a new era for decentralized applications. This is the story."
 category: "Industry Insights"
