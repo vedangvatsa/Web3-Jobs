@@ -87,6 +87,24 @@ A: No. You don't lose your principal investment. What you lose is the *value ext
 **Q: Why don't DEXs build in protection by default?**
 A: Some are starting to. Protocols like CowSwap use batch auctions to prevent this. However, for a standard AMM like Uniswap, the permissionless nature of the blockchain makes it difficult to prevent MEV at the protocol level without significant architectural trade-offs.
 
+## Which DEXs Prevent Sandwich Attacks?
+
+Not all decentralized exchanges are equally vulnerable to sandwich attacks. Several protocols have been specifically designed — or upgraded — to eliminate or significantly reduce MEV exposure for traders.
+
+**CoW Protocol (CoW Swap)** is currently the largest MEV-resistant DEX by volume. It uses batch auctions that settle all trades within a batch at a single uniform clearing price, making it mathematically impossible for a bot to sandwich an individual order. There is no incremental price movement to exploit.
+
+**1inch Fusion** uses a Dutch auction mechanism with a network of resolvers (fillers) who compete to fill orders off-chain. Because trades are not broadcast to the public mempool, bots have no opportunity to front-run them.
+
+**Flashbots Protect RPC** is not a DEX itself, but a free RPC endpoint you can add to any wallet. It routes your transactions privately to block builders, bypassing the public mempool entirely and eliminating front-running exposure at the infrastructure level.
+
+**Paraswap Delta** offers private transaction routing through its own order-flow system, providing similar mempool protection for trades routed through its aggregator.
+
+**Uniswap v4 hooks** introduce a programmable layer to AMM logic. Upcoming hook-based implementations will allow liquidity pools to enforce MEV protection mechanisms such as time-weighted order execution or private order books directly at the protocol level.
+
+As a general rule: keep slippage tolerance at 0.5% or lower, use a private RPC endpoint, and prefer DEX aggregators that route through MEV-protected paths when trading larger amounts.
+
+For traders prioritizing MEV protection, [CoW Protocol](https://swap.cow.fi) and 1inch Fusion are currently the most battle-tested solutions.
+
 ## Why This Matters
 
 Understanding this concept is crucial for your professional success. In today's dynamic workplace environment, professionals who master this skill stand out, earn higher salaries, and advance faster. This is especially true in [Web3](/what-is-web3) organizations where communication and collaboration are paramount.
