@@ -10,6 +10,7 @@ export default function WorkLifeBalanceSurveyPage() {
     <div className="flex flex-col min-h-screen bg-background">
       <Header />
       <main className="flex-1">
+        <h1 className="sr-only">Work-Life Balance Survey</h1>
         <ToolUsageTracker toolName="Work-Life Balance Survey" />
         <WorkLifeBalanceSurveyForm />
       </main>
