@@ -10,6 +10,7 @@ export default function EmployeeMilestonesTrackerPage() {
     <div className="flex flex-col min-h-screen bg-background">
       <Header />
       <main className="flex-1">
+        <h1 className="sr-only">Employee Milestones Tracker</h1>
         <ToolUsageTracker toolName="Employee Milestones Tracker" />
         <EmployeeMilestonesForm />
       </main>

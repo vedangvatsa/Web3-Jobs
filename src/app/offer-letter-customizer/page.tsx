@@ -23,6 +23,7 @@ export default function OfferLetterCustomizerPage() {
     <div className="flex flex-col min-h-screen bg-background">
       <Header />
       <main className="flex-1">
+        <h1 className="sr-only">Offer Letter Customizer</h1>
         <ToolUsageTracker toolName="Offer Letter Customizer" />
         <OfferLetterForm />
       </main>
