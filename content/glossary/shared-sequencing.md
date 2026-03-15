@@ -17,8 +17,6 @@ synonyms:
   - Multi-rollup ordering
 ---
 
-# Shared Sequencing
-
 **Shared sequencing** is a rollup architecture where **multiple independent rollups share a common sequencing layer** that coordinates transaction ordering across all participating chains. Instead of each rollup operating its own isolated sequencer, a shared sequencer network simultaneously orders transactions for multiple rollups, enabling atomic cross-chain operations and synchronous composability that's impossible with traditional bridge-based architectures.
 
 This design is one of the most promising solutions to blockchain fragmentation, allowing users to interact with multiple rollups as if they were a single unified system while preserving the sovereignty and customizability of individual rollups. Shared sequencing networks like Espresso, Astria, and Radius are building infrastructure to power the next generation of interoperable Layer 2 ecosystems.

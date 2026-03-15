@@ -17,8 +17,6 @@ synonyms:
   - Outcome-based execution
 ---
 
-# Intent-Centric Protocol
-
 **Intent-centric protocols** represent a fundamental paradigm shift from traditional blockchain transactions to a model where **users express desired outcomes (intents) rather than specifying exact execution steps**. Instead of signing a transaction that says "swap 1 ETH for USDC on Uniswap," a user signs an intent that says "I want to receive at least 1,900 USDC for my 1 ETH"—and a competitive marketplace of **solvers** figures out the optimal execution path.
 
 This architecture, pioneered by protocols like CoW Swap, Anoma, SUAVE (Single Unified Auction for Value Expression), and Essential, abstracts away the complexity of transaction construction while enabling superior execution through solver competition, native cross-chain operations, and built-in MEV protection.

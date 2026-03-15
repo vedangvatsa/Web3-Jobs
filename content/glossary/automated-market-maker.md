@@ -17,8 +17,6 @@ synonyms:
   - Decentralized exchange
 ---
 
-# Automated Market Maker
-
 An **Automated Market Maker (AMM)** is a **smart contract that enables trading by maintaining liquidity pools and using mathematical formulas to determine asset prices automatically**. Instead of traditional order books where buyers and sellers directly match, AMMs allow anyone to trade against a pool of assets, with prices determined algorithmically based on the ratio of assets in the pool.
 
 Uniswap popularized AMMs in 2018, launching with the constant-product formula (x × y = k). This simple innovation enabled decentralized trading without order books, market makers, or centralized intermediaries. As of 2026, AMMs process hundreds of billions in annual trading volume and represent the dominant trading mechanism in DeFi.

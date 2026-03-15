@@ -17,8 +17,6 @@ synonyms:
   - ZKR
 ---
 
-# ZK Rollup
-
 A **ZK (Zero-Knowledge) rollup** is a **Layer 2 scaling solution that uses validity proofs—cryptographic proofs that computations were executed correctly—to secure transaction batches** submitted to Ethereum L1. Rather than optimistically assuming validity (like Optimistic rollups), ZK rollups provide mathematical certainty that every state transition is correct, enabling **instant finality** once the proof is verified on L1.
 
 ZK rollups leverage advanced cryptography (ZK-SNARKs, ZK-STARKs) to generate compact proofs that can verify thousands of transactions in a single L1 transaction. This enables **100-1000x scalability improvements** while maintaining Ethereum's security guarantees. As ZK technology matures, ZK rollups are increasingly seen as the long-term endgame for Ethereum scaling.
