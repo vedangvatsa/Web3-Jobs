@@ -44,7 +44,7 @@ The halving is a critical component of Bitcoin's **[tokenomics](/understanding-t
 
 No. Halving events are a feature of cryptocurrencies that have a fixed maximum supply and use a Proof-of-Work mining system, like Bitcoin and Litecoin.
 
-Cryptocurrencies that use a Proof-of-Stake consensus mechanism, like [Ethereum](/what-is-ethereum), do not have mining or halvings. Instead, their supply is managed through a different set of rules governing [staking](/how-to-become-a-web3-staking-specialist) rewards and, in Ethereum's case, a **[fee-burning mechanism](/what-is-burning-[tokens](/what-is-a-token)-in-cryptocurrency)** that can make the asset deflationary during periods of high network use.
+Cryptocurrencies that use a Proof-of-Stake consensus mechanism, like [Ethereum](/what-is-ethereum), do not have mining or halvings. Instead, their supply is managed through a different set of rules governing [staking](/how-to-become-a-web3-staking-specialist) rewards and, in Ethereum's case, a **[fee-burning mechanism](/what-is-burning-tokens-in-cryptocurrency)** that can make the asset deflationary during periods of high network use.
 
 The halving is a powerful and elegant mechanism for creating digital scarcity. It is a core part of what makes Bitcoin a unique financial asset and a key driver of the market cycles that define the crypto world.
 

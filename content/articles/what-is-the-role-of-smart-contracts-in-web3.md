@@ -29,7 +29,7 @@ This reliance on intermediaries creates points of failure, adds costs, and conce
 
 A smart contract eliminates the need for a trusted intermediary by replacing them with code.
 
-1.  **Creation and Deployment:** A developer writes the logic of the contract in a programming language like **[Solidity](/[solidity](/best-programming-languages-for-blockchain-development)-for-beginners)**. This code contains the rules of the agreement (e.g., "IF Alice deposits 1 ETH, THEN send her 2,000 units of [Token](/what-is-a-token) B"). The contract is then deployed to a blockchain like [Ethereum](/what-is-ethereum), where it is assigned a unique, permanent address.
+1.  **Creation and Deployment:** A developer writes the logic of the contract in a programming language like **[Solidity](/solidity-for-beginners)**. This code contains the rules of the agreement (e.g., "IF Alice deposits 1 ETH, THEN send her 2,000 units of [Token](/what-is-a-token) B"). The contract is then deployed to a blockchain like [Ethereum](/what-is-ethereum), where it is assigned a unique, permanent address.
 
 2.  **Immutability and Transparency:** Once deployed, the smart contract's code is **immutable**-it cannot be changed, not even by its original creator. The code is also **transparent**, meaning anyone can view and audit it on the blockchain.
 

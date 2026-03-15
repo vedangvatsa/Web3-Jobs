@@ -23,7 +23,7 @@ This guide explores what DeFi arbitrage is, how it works, the common types of ar
 *   **Market Efficiency**: Arbitrageurs are the invisible hand of DeFi, ensuring that the price of an asset like [ETH](/what-is-ethereum) is the same on Uniswap, SushiSwap, and Curve.
 *   **The Players**: Arbitrage is dominated by sophisticated bots that can detect and execute opportunities in milliseconds.
 *   **Flash Loans**: A key tool for DeFi arbitrage, flash loans allow traders to borrow massive amounts of capital with no upfront collateral, perform the arbitrage, and repay the loan in a single atomic transaction.
-*   **Beneficial MEV**: Unlike harmful MEV like **[sandwich attacks](/sandwich-attack-in-[dex](/what-is-a-decentralized-exchange-dex)-explained)**, arbitrage is generally considered beneficial as it makes markets more efficient for all users.
+*   **Beneficial MEV**: Unlike harmful MEV like **[sandwich attacks](/sandwich-attack-in-dex-explained)**, arbitrage is generally considered beneficial as it makes markets more efficient for all users.
 
 ### How DeFi Arbitrage Works: A Simple Example
 

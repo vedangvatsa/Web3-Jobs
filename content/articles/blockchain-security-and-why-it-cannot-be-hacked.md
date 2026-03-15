@@ -30,7 +30,7 @@ Blockchain security isn't based on a single feature; it's an emergent property o
 
 **3. Consensus Mechanisms and Economic Incentives**
 
--   **The Mechanism:** For a new block to be added to the chain, all the nodes in the network must agree on its validity. This is achieved through a **[consensus mechanism](/understanding-[web3](/what-is-web3)-consensus-mechanism-architects)** like Proof-of-Work (PoW) or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS).
+-   **The Mechanism:** For a new block to be added to the chain, all the nodes in the network must agree on its validity. This is achieved through a **[consensus mechanism](/understanding-web3-consensus-mechanism-architects)** like Proof-of-Work (PoW) or Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS).
 -   **The Security (The 51% Attack):** To successfully add a fraudulent block or rewrite the blockchain's history, an attacker would need to control more than 50% of the network's total power.
     -   In a **PoW** system like Bitcoin, this would require having more computational (hashing) power than the rest of the network combined. The cost of the specialized hardware and electricity to achieve this on a large network is astronomical, likely running into billions of dollars.
     -   In a **PoS** system like [Ethereum](/what-is-ethereum), this would require acquiring and staking more than 50% of the total staked cryptocurrency. This would also cost billions of dollars.

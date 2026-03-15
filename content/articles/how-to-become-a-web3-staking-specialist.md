@@ -36,7 +36,7 @@ Liquid staking is one of the most important sectors in [DeFi](/what-is-defi). Pr
     -   Designing and building the [smart contracts](/what-are-smart-contracts) that handle the staking and unstaking logic.
     -   Creating the tokenomics for the Liquid Staking Derivative and its associated governance token.
     -   Working on the off-chain infrastructure that manages the delegation of stake to the underlying validator nodes.
--   **Essential Skills:** Advanced [Solidity](/[solidity](/best-programming-languages-for-blockchain-development)-for-beginners) development, a deep understanding of [DeFi](/what-is-defi) and tokenomics, and strong security practices.
+-   **Essential Skills:** Advanced [Solidity](/solidity-for-beginners) development, a deep understanding of [DeFi](/what-is-defi) and tokenomics, and strong security practices.
 
 **3. Staking-as-a-Service (SaaS) Platform Engineer**
 

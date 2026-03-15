@@ -22,7 +22,7 @@ The single most important rule for a Web3 resume is to **provide verifiable proo
 
 -   **Don't just say you're a good writer.** Link to your blog on Mirror or your Twitter threads analyzing protocols.
 -   **Don't just say you can code.** Link to your [GitHub](/building-web3-portfolio) profile, which should be filled with personal projects and open-source contributions.
--   **Don't just say you're an active community member.** Link to your contributions in a [DAO](/how-to-contribute-to-[daos](/what-is-a-dao)-and-get-paid) or a governance forum.
+-   **Don't just say you're an active community member.** Link to your contributions in a [DAO](/how-to-contribute-to-daos-and-get-paid) or a governance forum.
 
 ### Structuring Your Web3 Resume
 

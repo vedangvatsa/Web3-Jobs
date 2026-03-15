@@ -34,6 +34,24 @@ const nextConfig: NextConfig = {
         destination: '/:slug',
         permanent: true,
       },
+      // Tools and guides alias redirects
+      { source: '/tools/interview-questions', destination: '/interview-questions', permanent: true },
+      { source: '/tools/salary-calculator', destination: '/salary-calculator', permanent: true },
+      { source: '/tools/resume-builder', destination: '/resume-builder', permanent: true },
+      { source: '/tools', destination: '/', permanent: true },
+      { source: '/guides/web3-salaries', destination: '/salary-calculator', permanent: true },
+      { source: '/guides', destination: '/', permanent: true },
+      // what-is-* redirects for glossary terms
+      { source: '/what-is-bitcoin', destination: '/bitcoin', permanent: true },
+      { source: '/what-is-ethereum', destination: '/ethereum', permanent: true },
+      { source: '/what-is-solana', destination: '/jobs', permanent: true },
+      { source: '/what-is-defi', destination: '/defi', permanent: true },
+      { source: '/what-is-nft', destination: '/nft', permanent: true },
+      { source: '/what-is-web3', destination: '/web3', permanent: true },
+      { source: '/what-is-blockchain', destination: '/blockchain', permanent: true },
+      { source: '/what-is-dao', destination: '/dao', permanent: true },
+      { source: '/what-is-staking', destination: '/staking', permanent: true },
+      { source: '/what-is-depin', destination: '/glossary/defi', permanent: true },
     ]
   },
   async headers() {

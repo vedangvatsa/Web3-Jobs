@@ -57,7 +57,7 @@ Comfort is the enemy of relevance. You need to constantly put yourself in situat
 
 It's not enough to just learn new things; you have to make your growth visible.
 
--   **Keep a "Brag Document":** This is a running log of your accomplishments, big and small. Every time you complete a project, solve a tough problem, or get positive feedback, write it down. This is an invaluable resource when it's time to [update your resume](/when-to-update-your-[resume](/how-to-build-a-web3-resume-that-stands-out)) or prepare for a performance review.
+-   **Keep a "Brag Document":** This is a running log of your accomplishments, big and small. Every time you complete a project, solve a tough problem, or get positive feedback, write it down. This is an invaluable resource when it's time to [update your resume](/when-to-update-your-resume) or prepare for a performance review.
 -   **Build in Public:** If you're learning a new skill, share your journey. Write a blog post about what you've learned. Build a small project and post it on [GitHub](/building-web3-portfolio). This creates public proof of your expertise and initiative.
 
 Staying relevant is an active process. It requires you to be the CEO of your own career, constantly investing in your most important asset: yourself. By building the habits of continuous learning, strategic networking, and proactive skill development, you can ensure that you not only survive but thrive in the ever-changing world of work.

@@ -39,7 +39,7 @@ Building a system on a decentralized network provides several powerful advantage
 -   **Impact:** This is the foundation of the "ownership economy." Your digital assets are yours, and no platform can take them away from you. This is a fundamental shift from Web2, where your digital "possessions" are merely entries in a company's private database.
 
 **4. Transparency and Auditability**
--   **Advantage:** Public blockchains are transparent by default. Anyone can use a **[block explorer](/blockchain-explorer-guide-for-[bitcoin](/what-is-bitcoin)-and-ethereum)** to view the history of transactions and audit the state of the network.
+-   **Advantage:** Public blockchains are transparent by default. Anyone can use a **[block explorer](/blockchain-explorer-guide-for-bitcoin-and-ethereum)** to view the history of transactions and audit the state of the network.
 -   **Impact:** This creates a level of trust and accountability that is impossible in the opaque world of traditional centralized systems. You don't have to trust an institution's claims; you can verify them for yourself on-chain.
 
 ### The Trade-Off: The Blockchain Trilemma

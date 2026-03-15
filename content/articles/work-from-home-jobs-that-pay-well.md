@@ -81,7 +81,7 @@ There are many online job boards that specialize in remote work. Some popular op
 **Internal Links**
 *   [How to Start Freelancing for Beginners](/how-to-start-freelancing-for-beginners)
 *   [[Freelance](/how-to-start-freelancing-for-beginners) vs Full Time Job Comparison](/freelance-vs-full-time-job-comparison)
-*   [How to Write Professional Resume](/how-to-write-professional-[resume](/how-to-build-a-web3-resume-that-stands-out))
+*   [How to Write Professional Resume](/how-to-write-professional-resume)
 *   [How to Prepare for Job Interview](/how-to-prepare-for-job-interview)
 
 ## Why This Matters

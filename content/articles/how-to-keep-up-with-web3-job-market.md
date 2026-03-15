@@ -49,7 +49,7 @@ Podcasts are an incredible way to absorb information while you're commuting, at 
 
 Reading and listening are passive. To truly learn, you must participate.
 
--   **Discord:** [Join the Discord server](/how-to-contribute-to-[daos](/what-is-a-dao)-and-get-paid) for a project you admire. Find the channel relevant to your interests (e.g., `#marketing`, `#dev-discussion`) and start contributing. Ask smart questions. Offer helpful answers.
+-   **Discord:** [Join the Discord server](/how-to-contribute-to-daos-and-get-paid) for a project you admire. Find the channel relevant to your interests (e.g., `#marketing`, `#dev-discussion`) and start contributing. Ask smart questions. Offer helpful answers.
 -   **Farcaster:** A decentralized social media protocol that has become a hub for high-signal conversations, especially among developers and founders. The quality of discussion is often higher than on Twitter.
 
 ### 5. Track the Data: On-Chain Analytics

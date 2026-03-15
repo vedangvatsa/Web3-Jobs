@@ -23,7 +23,7 @@ Web3 development can be broadly categorized into a few key areas, each building 
 This is the most common and accessible path. These are the engineers who build the decentralized applications (dApps) that users interact with.
 
 -   **What they do:** Write, test, and deploy the on-chain logic for [DeFi](/what-is-defi) protocols, [NFT](/what-are-nfts) collections, [DAOs](/what-is-a-dao), and other dApps.
--   **Core Skills:** Deep expertise in **[Solidity](/[solidity](/best-programming-languages-for-blockchain-development)-for-beginners)** and the EVM. A strong focus on **[security](/web3-security-best-practices)** and gas optimization is paramount.
+-   **Core Skills:** Deep expertise in **[Solidity](/solidity-for-beginners)** and the EVM. A strong focus on **[security](/web3-security-best-practices)** and gas optimization is paramount.
 -   **Learn More:** [How to Become a [Smart Contract](/what-are-smart-contracts) Developer](/how-to-become-a-web3-smart-contract-developer)
 
 #### 2. Frontend / Full-Stack dApp Developer

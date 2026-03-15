@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-03-13"
 ---
 
-A **Decentralized Identifier (DID)** is a new type of identifier for the digital world that is globally unique, verifiable, and not controlled by any centralized authority. It is a core component of **[Self-Sovereign Identity (SSI)](/self-sovereign-identity-in-[web3](/what-is-web3)-explained)**, a movement to give individuals control over their own digital identities.
+A **Decentralized Identifier (DID)** is a new type of identifier for the digital world that is globally unique, verifiable, and not controlled by any centralized authority. It is a core component of **[Self-Sovereign Identity (SSI)](/self-sovereign-identity-in-web3-explained)**, a movement to give individuals control over their own digital identities.
 
 Think of a DID as a phone number that you own and control yourself, rather than one that is issued to you by a phone company. It's a permanent, portable address for you on the internet.
 

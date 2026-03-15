@@ -17,7 +17,7 @@ The [Web3](/what-is-web3) revolution is well underway, and it's creating a tidal
 This is perhaps the most quintessential Web3 role. [Smart contract](/what-are-smart-contracts) developers are the engineers who build the core logic of decentralized applications (dApps). They write, test, and deploy the immutable code that powers everything from [DeFi](/what-is-defi) protocols to [NFT](/what-are-nfts) marketplaces.
 
 ### Key Responsibilities:
-- Writing secure, efficient, and gas-optimized smart contracts in languages like [Solidity](/[solidity](/best-programming-languages-for-blockchain-development)-for-beginners) or Rust.
+- Writing secure, efficient, and gas-optimized smart contracts in languages like [Solidity](/solidity-for-beginners) or Rust.
 - Developing and maintaining dApp backends.
 - Collaborating with frontend developers to integrate smart contracts with user interfaces.
 - Conducting rigorous testing and participating in security audits.

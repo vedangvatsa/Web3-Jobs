@@ -18,7 +18,7 @@ The ICO boom of 2017 was a defining moment for the crypto industry. It saw thous
 
 The classic ICO model from 2017 typically followed these steps:
 
-1.  **The Whitepaper:** The project team would publish a **[whitepaper](/what-is-a-whitepaper-in-[blockchain](/what-is-a-blockchain)-projects)**. This document would outline the project's vision, the technology it intended to build, and the details of its new token (its "tokenomics").
+1.  **The Whitepaper:** The project team would publish a **[whitepaper](/what-is-a-whitepaper-in-blockchain-projects)**. This document would outline the project's vision, the technology it intended to build, and the details of its new token (its "tokenomics").
 2.  **The Token Sale:** The team would then announce the details of the token sale. They would set a price for their new token, usually denominated in [Bitcoin](/what-is-bitcoin) (BTC) or [Ethereum](/what-is-ethereum) (ETH), and a total amount they aimed to raise.
 3.  **The Investment:** Investors would send BTC or ETH to a specific [smart contract](/what-are-smart-contracts) address provided by the project.
 4.  **Token Distribution:** In return, the smart contract would automatically send the corresponding amount of the new project tokens back to the investor's [wallet](/how-to-choose-a-crypto-wallet).

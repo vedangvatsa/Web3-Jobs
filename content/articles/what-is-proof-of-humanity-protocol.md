@@ -33,7 +33,7 @@ A reliable list of unique humans unlocks a host of powerful new applications:
 
 -   **DAO Governance:** DAOs can use PoH to implement a "one person, one vote" governance system, instead of the standard "one token, one vote" model which can lead to plutocracy.
 -   **Universal Basic Income (UBI):** The UBI project, built on top of PoH, periodically distributes a basic income token to every single registered human on the list. This is only possible because the list is sybil-resistant.
--   **[Airdrop](/understanding-airdrop-campaigns-in-web3) and Fair Distribution:** New projects could use the PoH registry to **[airdrop](/understanding-airdrop-campaigns-in-[web3](/what-is-web3))** their tokens, ensuring a fair distribution to real, unique individuals.
+-   **[Airdrop](/understanding-airdrop-campaigns-in-web3) and Fair Distribution:** New projects could use the PoH registry to **[airdrop](/understanding-airdrop-campaigns-in-web3)** their tokens, ensuring a fair distribution to real, unique individuals.
 -   **Credit and Reputation:** A PoH identity could be the foundation for a **[Web3 reputation system](/what-is-a-reputation-system-in-web3)**, allowing for undercollateralized loans and other identity-based financial services.
 
 ### Challenges and Criticisms

@@ -12,7 +12,7 @@ lastUpdated: "2026-03-13"
 
 In the world of **[Decentralized Finance (DeFi)](/what-is-defi)**, **[yield farming](/what-is-yield-farming)** is the practice of using your crypto assets to generate the highest possible returns. Yield farmers are like the power users of DeFi, constantly chasing the best yields by moving their funds between different lending protocols, liquidity pools, and [staking](/how-to-become-a-web3-staking-specialist) opportunities.
 
-While it can be highly profitable, yield farming is also complex and risky. It is a core activity that drives liquidity and growth across the entire [DeFi](/what-is-defi) ecosystem. This guide will explore what yield farming is, the common strategies used, and the risks involved. For those who master it, a career as a **[Yield Farming Analyst](/how-to-become-a-[web3](/what-is-web3)-yield-farming-analyst)** can be highly rewarding.
+While it can be highly profitable, yield farming is also complex and risky. It is a core activity that drives liquidity and growth across the entire [DeFi](/what-is-defi) ecosystem. This guide will explore what yield farming is, the common strategies used, and the risks involved. For those who master it, a career as a **[Yield Farming Analyst](/how-to-become-a-web3-yield-farming-analyst)** can be highly rewarding.
 
 ### The Core Concept: Providing Liquidity
 

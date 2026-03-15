@@ -32,7 +32,7 @@ When a validator includes a transaction in a new block, every node in the networ
 -   **Transaction:** Alice sends 1 ETH to Bob.
 -   **State Transition:** The state is updated by decrementing Alice's account balance by 1 ETH and incrementing Bob's account balance by 1 ETH.
 
-This new state is then agreed upon by the entire network through a [consensus mechanism](/understanding-[web3](/what-is-web3)-consensus-mechanism-architects), becoming the new canonical truth.
+This new state is then agreed upon by the entire network through a [consensus mechanism](/understanding-web3-consensus-mechanism-architects), becoming the new canonical truth.
 
 ### Why is a Shared State Revolutionary?
 

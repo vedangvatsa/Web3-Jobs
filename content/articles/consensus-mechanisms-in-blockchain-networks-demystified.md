@@ -56,7 +56,7 @@ While PoW and PoS are the two main models, other innovative mechanisms exist, su
 
 ### Conclusion: The Trade-Offs of Decentralization
 
-The choice of a consensus mechanism is one of the most important design decisions for any blockchain. It involves fundamental trade-offs between security, decentralization, and scalability-the famous **[blockchain trilemma](/is-[web3](/what-is-web3)-dead)**. Proof-of-Work offers unparalleled security but at a high energy cost. Proof-of-Stake offers a much more scalable and efficient alternative but introduces different economic and centralization considerations. As the Web3 space continues to evolve, the research and development of new and improved consensus mechanisms will remain one of the most critical areas of innovation.
+The choice of a consensus mechanism is one of the most important design decisions for any blockchain. It involves fundamental trade-offs between security, decentralization, and scalability-the famous **[blockchain trilemma](/is-web3-dead)**. Proof-of-Work offers unparalleled security but at a high energy cost. Proof-of-Stake offers a much more scalable and efficient alternative but introduces different economic and centralization considerations. As the Web3 space continues to evolve, the research and development of new and improved consensus mechanisms will remain one of the most critical areas of innovation.
 
 ## The Web3 Opportunity
 

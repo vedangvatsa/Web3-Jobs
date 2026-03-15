@@ -53,7 +53,7 @@ Let's consider a three-token pool:
 
 1.  **Initial Deposit**: A liquidity provider deposits assets into the pool according to these weights.
 2.  **Trading**: Traders can now use this pool to swap between any of the three assets (e.g., USDC to WETH, WETH to LINK, or USDC to LINK).
-3.  **Rebalancing through Arbitrage**: Imagine the price of WETH goes up. Traders will sell WETH into the pool to take profits, increasing the amount of WETH relative to the other assets. The pool is now imbalanced. **[Arbitrageurs](/arbitrage-opportunities-in-[defi](/what-is-defi)-markets)** will see this and buy the "cheap" WETH out of the pool, selling USDC and LINK into it until the pool's value returns to its target 40/40/20 weights.
+3.  **Rebalancing through Arbitrage**: Imagine the price of WETH goes up. Traders will sell WETH into the pool to take profits, increasing the amount of WETH relative to the other assets. The pool is now imbalanced. **[Arbitrageurs](/arbitrage-opportunities-in-defi-markets)** will see this and buy the "cheap" WETH out of the pool, selling USDC and LINK into it until the pool's value returns to its target 40/40/20 weights.
 4.  **Fee Generation**: Every one of these trades (both from users and arbitrageurs) generates a trading fee, which is collected by the liquidity providers.
 
 ### Key Use Cases for Weighted Pools
