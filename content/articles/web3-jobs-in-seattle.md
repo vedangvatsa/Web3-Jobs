@@ -1,6 +1,6 @@
 ---
 
-title: "Web3 Jobs in Seattle: A Guide to the Cloud and Gaming Tech Hub"
+title: "Web3 Jobs in Seattle: Cloud and Gaming Tech Hub"
 image: "/images/usa web3 jobs by hashtag web3.jpg"
 data-ai-hint: "seattle city usa"
 description: "Explore Seattle's unique mix of Web3 startups, fintech, and enterprise blockchain."

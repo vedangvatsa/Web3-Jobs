@@ -1,6 +1,6 @@
 ---
 
-title: "Web3 Jobs in Atlanta: A Guide to the South's Emerging Tech Hub"
+title: "Web3 Jobs in Atlanta: The South's Emerging Tech Hub"
 image: "/images/usa web3 jobs by hashtag web3.jpg"
 data-ai-hint: "atlanta city usa"
 description: "A career guide to the Web3 job market in Atlanta. Discover the city's growing role as a hub for FinTech, payments, and blockchain innovation in the."

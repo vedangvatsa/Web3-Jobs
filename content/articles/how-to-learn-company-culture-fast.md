@@ -1,5 +1,5 @@
 ---
-title: "How to Learn Company Culture Fast – A New Employee's Guide"
+title: "How to Learn Company Culture Fast"
 description: "Master company culture as a new employee with proven strategies. Learn observation, communication, and integration techniques to succeed in your role faster."
 image: "https://picsum.photos/seed/company-culture/1200/630"
 category: "Career Guides"

@@ -1,6 +1,6 @@
 ---
 
-title: "The Rise of Web3 Gaming Guilds: A New Social and Economic Layer"
+title: "The Rise of Web3 Gaming Guilds: New Economic Layer"
 image: "/images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
 description: "An exploration of Web3 gaming guilds, how they work, their role in the play-to-earn economy, and their evolution into decentralized social and investment."
 category: "Technology Deep Dives"
