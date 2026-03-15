@@ -57,7 +57,7 @@ Consider an ETH/USDC pool with ETH priced at $2,000:
 
 If the LP had chosen an even tighter range ($1,900-$2,100), they could achieve 10x or higher capital efficiency, but with increased risk of the price moving out of range.
 
-## Benefits of Concentrated Liquidity
+## Key Advantages for LPs and Traders
 
 Concentrated liquidity offers several advantages:
 
@@ -209,3 +209,23 @@ Concentrated liquidity continues to evolve:
 As tooling improves and gas costs decrease (via L2s), concentrated liquidity will likely become the dominant paradigm for DEX liquidity provision.
 
 **Ready to become a concentrated LP?** Start with wide ranges on a low-fee L2, study historical volatility, and gradually refine your strategy as you learn the dynamics of active liquidity management.
+
+## Benefits of Concentrated Liquidity
+
+Concentrated liquidity delivers measurable advantages over traditional uniform AMMs. The most significant is **capital efficiency**: LPs can earn the same trading fees while deploying far less capital. Uniswap v3 data shows stablecoin pairs like USDC/DAI can achieve up to **4,000x greater capital efficiency** than v2, since liquidity is concentrated in the narrow band where stablecoin prices actually trade.
+
+LPs who set tight ranges around the current market price earn a **higher share of trading fees** because their capital represents a larger portion of active liquidity. This directly increases fee income per dollar deployed compared to spreading liquidity across all possible prices.
+
+Traders benefit too: concentrated depth in active price ranges means **less slippage and better price execution**, particularly for large orders. This is why Uniswap v3 captured roughly **40% of all DEX volume** despite launching with less total value locked than v2—tighter spreads attracted order flow.
+
+Finally, concentrated liquidity enables entirely new **LP strategies**: active range management, automated rebalancing via protocols like Arrakis Finance and Gamma Strategies, and multi-position approaches that behave like professional market-making desks.
+
+## Concentrated Liquidity on Uniswap v3
+
+Uniswap v3, launched in **May 2021**, introduced concentrated liquidity to DeFi and remains the benchmark implementation. The protocol defines price ranges using **ticks**—discrete price intervals on a geometric scale. LPs select a lower tick and an upper tick to bound their position; the smart contract only deploys that capital when the market price is between those ticks.
+
+LPs can choose **full-range positions** (equivalent to Uniswap v2 behavior) or **concentrated positions** in a custom range. Full-range positions require no active management but earn lower fees per dollar; concentrated positions earn more but demand monitoring and rebalancing when price drifts out of range.
+
+**Active LP strategies** involve adjusting tick boundaries as market conditions change. Tools like **Revert Finance** (position analytics), **Gamma Strategies** (automated vaults), and **Arrakis Finance** (algorithmic rebalancing) help LPs manage this complexity without constant manual intervention.
+
+The critical risk is **amplified [impermanent loss](/impermanent-loss)**: because capital is magnified within a range, price movement within that range causes faster divergence loss than in v2. If price moves entirely outside the range, the LP holds 100% of the weaker asset and earns zero fees until price returns. See also: [automated market maker](/automated-market-maker).
