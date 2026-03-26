@@ -1,4 +1,4 @@
-import { collection, addDoc, serverTimestamp, type Firestore } from 'firebase/firestore';
+import { collection, addDoc, serverTimestamp, query, where, getDocs, type Firestore } from 'firebase/firestore';
 import { errorEmitter } from '@/firebase/error-emitter';
 import { FirestorePermissionError } from '@/firebase/errors';
 
@@ -11,11 +11,22 @@ export async function saveEmail(db: Firestore | null, email: string): Promise<vo
     return Promise.resolve();
   }
 
+  const normalizedEmail = email.toLowerCase().trim();
   const subscribersCol = collection(db, 'subscribers');
 
   try {
+    // Check for duplicate before inserting
+    const existing = await getDocs(
+      query(subscribersCol, where('email', '==', normalizedEmail))
+    );
+
+    if (!existing.empty) {
+      // Already subscribed, skip silently
+      return;
+    }
+
     await addDoc(subscribersCol, {
-        email: email,
+        email: normalizedEmail,
         createdAt: serverTimestamp()
     });
   } catch (error: any) {
@@ -24,7 +35,7 @@ export async function saveEmail(db: Firestore | null, email: string): Promise<vo
         const permissionError = new FirestorePermissionError({
             path: subscribersCol.path,
             operation: 'create',
-            requestResourceData: { email },
+            requestResourceData: { email: normalizedEmail },
         });
         errorEmitter.emit('permission-error', permissionError);
     }

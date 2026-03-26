@@ -6,7 +6,7 @@ data-ai-hint: "fairness balance scale"
 description: "A deep dive into Quadratic Funding, the innovative mechanism that uses a matching pool to amplify the power of small community donations, creating a more."
 category: "Industry Insights"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 How does a society decide what to build? In the traditional world, the funding of "public goods"-things like parks, scientific research, and open-source software that benefit everyone-is a difficult problem. These goods are important, but because they are non-excludable and non-rivalrous, there's no direct profit motive for any single individual or company to create them. They are often underfunded, relying on government grants or philanthropy, which can be slow, bureaucratic, and subject to the biases of a small group of decision-makers.

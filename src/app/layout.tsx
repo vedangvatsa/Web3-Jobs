@@ -82,6 +82,7 @@ export default async function RootLayout({
 }>) {
 
   const websiteSchema = {
+    '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: siteConfig.name,
     url: siteConfig.url,
@@ -105,6 +106,7 @@ export default async function RootLayout({
   };
 
   const organizationSchema = {
+    '@context': 'https://schema.org',
     '@type': 'Organization',
     name: 'Hashtag Web3',
     url: siteConfig.url,
@@ -117,6 +119,7 @@ export default async function RootLayout({
       'https://linkedin.com/company/hashtagweb3',
       'https://sg.linkedin.com/company/hashtagweb3',
       'https://t.me/web3hiring',
+      'https://www.youtube.com/channel/UCr5WlEpTviHnnK856wG0EIg',
     ],
     speakableSpecification: {
       '@type': 'SpeakableSpecification',
@@ -131,48 +134,45 @@ export default async function RootLayout({
 
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
-        <head>
-            <link rel="icon" href="/favicon.ico" sizes="any" />
-            <script
-              type="application/ld+json"
-              dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
-            />
-            <script
-              type="application/ld+json"
-              dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
-            />
-            <Script
-              id="gtag-script"
-              strategy="afterInteractive"
-              src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
-            />
-            <Script
-              id="gtag-inline-script"
-              strategy="afterInteractive"
-              dangerouslySetInnerHTML={{
-                __html: `
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  const GA_ID = 'G-FYBLPS87X0';
-                  const ALLOWED_HOSTS = ['hashtagweb3.com', 'www.hashtagweb3.com'];
-                  const currentHost = window.location.hostname;
-                  const isAllowedHost = ALLOWED_HOSTS.includes(currentHost);
-
-                  if (!isAllowedHost) {
-                    window['ga-disable-' + GA_ID] = true;
-                  } else {
-                    gtag('js', new Date());
-                    gtag('config', GA_ID, {
-                      send_page_view: true,
-                    });
-                  }
-                `,
-              }}
-            />
-        </head>
       <body 
         className={cn('min-h-screen font-body antialiased flex flex-col bg-background/95')}
       >
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+        <Script
+          id="gtag-script"
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-FYBLPS87X0"
+        />
+        <Script
+          id="gtag-inline-script"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              const GA_ID = 'G-FYBLPS87X0';
+              const ALLOWED_HOSTS = ['hashtagweb3.com', 'www.hashtagweb3.com'];
+              const currentHost = window.location.hostname;
+              const isAllowedHost = ALLOWED_HOSTS.includes(currentHost);
+
+              if (!isAllowedHost) {
+                window['ga-disable-' + GA_ID] = true;
+              } else {
+                gtag('js', new Date());
+                gtag('config', GA_ID, {
+                  send_page_view: true,
+                });
+              }
+            `,
+          }}
+        />
         <PostHogProvider>
           <Suspense fallback={null}>
             <PostHogPageView />

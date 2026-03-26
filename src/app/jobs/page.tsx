@@ -24,16 +24,16 @@ export default async function JobsPage() {
   const pageSchema: WebPage = {
     '@type': 'WebPage',
     url: `${siteUrl}/jobs`,
-    name: `${initialJobs.length}+ Live Web3 Jobs in 2026 | $80K-$250K+ Remote Crypto Careers`,
+    name: `${initialJobs.length}+ Live Web3 Jobs in 2026 | Remote Crypto Careers`,
     isPartOf: {
       '@type': 'WebSite',
       url: siteUrl,
       name: 'Hashtag Web3'
     },
-    description: `Browse ${initialJobs.length}+ verified Web3 jobs updated daily. Find remote blockchain developer, DeFi, DAO, and crypto roles at top companies. Salaries $80K-$250K+. Apply today!`,
+    description: `Browse ${initialJobs.length}+ verified Web3 jobs updated daily. Find remote blockchain developer, DeFi, DAO, and crypto roles at top companies. Apply today!`,
   };
 
-  const jobPostingsSchema: JobPosting[] = initialJobs.map(job => ({
+  const jobPostingsSchema: JobPosting[] = initialJobs.slice(0, 50).map(job => ({
     '@type': 'JobPosting',
     title: job.title,
     description: `A new job opportunity: ${job.title} at ${job.company}.`,
@@ -52,23 +52,13 @@ export default async function JobsPage() {
     },
     url: job.link,
     validThrough: new Date(new Date(job.date).setDate(new Date(job.date).getDate() + 30)).toISOString(),
-    baseSalary: {
-      '@type': 'MonetaryAmount',
-      currency: 'USD',
-      value: {
-        '@type': 'QuantitativeValue',
-        minValue: 80000,
-        maxValue: 250000,
-        unitText: 'YEAR',
-      },
-    },
     skills: ((job as any).tags || []).join(', ') || 'Web3, Blockchain, Cryptocurrency',
   }));
 
   const itemListSchema = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: `Web3 Jobs — ${initialJobs.length}+ Open Positions`,
+    name: `Web3 Jobs | ${initialJobs.length}+ Open Positions`,
     description: `Curated list of ${initialJobs.length}+ Web3, blockchain, and crypto job openings updated daily.`,
     url: `${siteUrl}/jobs`,
     numberOfItems: initialJobs.length,

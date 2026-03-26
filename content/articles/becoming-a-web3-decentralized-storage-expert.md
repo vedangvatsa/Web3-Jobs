@@ -6,7 +6,7 @@ data-ai-hint: "career choice person"
 description: "A career guide to the world of decentralized storage. Learn about the leading protocols like IPFS and Arweave, and the engineering roles available in this."
 category: "Career Guides"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 As the [Web3](/what-is-web3) ecosystem grows, a critical question arises: where do we store all the data? Storing large files, like the images for an [NFT](/what-are-nfts) collection or the frontend of a dApp, directly on a [blockchain](/what-is-a-blockchain) is prohibitively expensive. This has led to the rise of **decentralized storage networks**, a foundational layer of the Web3 stack designed to provide censorship-resistant and persistent data storage.

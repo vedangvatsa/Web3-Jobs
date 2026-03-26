@@ -7,7 +7,7 @@ description: "A guide to some of the most common job interview questions and how
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 Job interviews can be nerve-wracking. The uncertainty of what you'll be asked can be one of the most stressful parts of the process. While you can't predict every question, you can prepare for many of the most common ones. By thinking through your answers in advance, you can walk into your [interview](/how-to-prepare-for-job-interview) feeling more confident and prepared.

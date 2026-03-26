@@ -110,13 +110,11 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(article.title)}&category=${encodeURIComponent(article.category)}${salary ? `&salary=${encodeURIComponent(salary)}` : ''}&date=2026`;
 
   const keywords = [
-    'web3', 
-    'crypto', 
-    'blockchain', 
-    ...article.title.toLowerCase().split(' '),
-    ...article.category.toLowerCase().split(' '),
-    ...(article['data-ai-hint']?.toLowerCase().split(' ') || [])
-  ].filter((v, i, a) => a.indexOf(v) === i); // Remove duplicates
+    'web3', 'crypto', 'blockchain',
+    article.title,
+    article.category,
+    ...(article['data-ai-hint'] ? [article['data-ai-hint']] : [])
+  ].filter((v, i, a) => a.indexOf(v) === i);
 
   return {
     title: article.title,
@@ -152,6 +150,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   // Check if it's a resource page first
   const resource = getResourceByCanonicalSlug(params.slug);
   if (resource) {
+    // Warn if multiple content types match the same slug
+    const termCollision = await getTerm(params.slug);
+    const articleCollision = await getArticle(params.slug);
+    if (termCollision || articleCollision) {
+      console.warn(`[slug collision] "${params.slug}" resolved as resource, but also matches: ${[termCollision ? 'glossary term' : '', articleCollision ? 'article' : ''].filter(Boolean).join(', ')}`);
+    }
     const siteUrl = 'https://hashtagweb3.com';
     const pageUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
     const articleSchema = {

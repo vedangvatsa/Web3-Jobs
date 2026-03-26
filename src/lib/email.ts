@@ -28,7 +28,11 @@ export async function sendJobAlertEmail(
       return { success: false, error: 'Email service not configured' };
     }
 
-    const fromEmail = process.env.EMAIL_FROM || 'onboarding@resend.dev';
+    const fromEmail = process.env.EMAIL_FROM;
+    if (!fromEmail) {
+      console.error('EMAIL_FROM is not configured');
+      return { success: false, error: 'Sender email not configured' };
+    }
     const fromName = process.env.EMAIL_FROM_NAME;
     const replyTo = process.env.EMAIL_REPLY_TO;
     const unsubscribeUrl = process.env.EMAIL_UNSUBSCRIBE_URL;
@@ -38,10 +42,6 @@ export async function sendJobAlertEmail(
     const fromField = hasDisplayName
       ? fromEmail
       : (fromName ? `${fromName} <${fromEmail}>` : fromEmail);
-
-    if (fromEmail === 'onboarding@resend.dev') {
-      console.warn('EMAIL_FROM is using the default resend.dev sender; deliverability may be reduced.');
-    }
 
     const client = getResendClient();
     const { data, error } = await client.emails.send({

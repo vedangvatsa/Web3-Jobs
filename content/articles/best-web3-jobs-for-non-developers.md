@@ -6,7 +6,7 @@ description: "You don't need to be a Solidity expert to build a career in crypto
 category: "Career Guides"
 data-ai-hint: "team collaboration"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 The [Web3](/what-is-web3) revolution is not just for coders. While developers are crucial for building the infrastructure of the decentralized internet, a thriving ecosystem requires a diverse range of non-technical talent to drive growth, foster community, and create meaningful products. If you're passionate about crypto but don't write code, your skills are not only valuable-they're in high demand.

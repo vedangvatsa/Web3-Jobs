@@ -6,7 +6,7 @@ description: "Learn about Decentralized Identity (DID) and Self-Sovereign Identi
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 In the modern digital world, your identity is fragmented and controlled by others. Your "Google identity" is used to log in to services, your "Facebook identity" holds your social graph, and government databases hold your official records. You don't own any of it. This centralized model leads to data breaches, a lack of privacy, and a poor user experience.

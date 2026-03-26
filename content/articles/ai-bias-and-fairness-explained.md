@@ -6,7 +6,7 @@ data-ai-hint: "unbalanced scale"
 description: "A clear explanation of how bias gets into AI systems and why it matters. Learn about the different types of bias and the strategies used to build fairer AI."
 category: "Educational"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 We often think of computers as being objective and neutral, but when it comes to artificial intelligence, that's a dangerous assumption. AI systems learn from data, and if that data reflects the biases of the world we live in, the AI will learn those biases too. This can lead to AI systems that make unfair or discriminatory decisions, with serious real-world consequences.

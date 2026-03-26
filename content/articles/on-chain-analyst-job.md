@@ -7,7 +7,7 @@ description: "A career guide for aspiring on-chain data analysts. Learn what the
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 In the transparent world of blockchains, every action, every transaction, and every interaction creates a permanent, public data point. This has given rise to a new and powerful discipline: **on-chain analysis**. And at the heart of this discipline is the **[Web3](/what-is-web3) Data Analyst**, a role that is part data scientist, part archaeologist, and part detective.

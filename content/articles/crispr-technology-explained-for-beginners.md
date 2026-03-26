@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/crispr/1200/630"
 data-ai-hint: "dna editing"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 CRISPR is a term you've probably heard in the news, often mentioned with a mix of excitement and apprehension. It's a powerful technology that has revolutionized the field of genetics. At its heart, CRISPR is a tool for editing DNA, the code of life. Think of it as a find-and-replace function for genes. It allows scientists to find a specific piece of DNA, cut it, and then either remove it, replace it, or modify it.

@@ -8,7 +8,7 @@ image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team collaboration influence"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 In the modern, collaborative workplace, your success often depends on your ability to get things done with and through people who don't report to you. You might need the data science team to prioritize a query for you, the design team to help with a presentation, or a colleague from another team to adopt a new process you've created.

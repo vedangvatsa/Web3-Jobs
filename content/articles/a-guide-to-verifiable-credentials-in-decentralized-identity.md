@@ -6,7 +6,7 @@ data-ai-hint: "digital identity credentials"
 description: "A deep dive into Verifiable Credentials (VCs), the W3C standard that is the backbone of decentralized identity, enabling a future of user-owned."
 category: "Technology Deep Dives"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 In the digital age, our identity is a collection of claims made about us by various authorities. Your government claims you are a citizen. Your university claims you have a degree. Your employer claims you work for them. Today, we prove these claims using physical documents or by logging into siloed, centralized systems. This model is inefficient, insecure, and gives users little control over their own data.

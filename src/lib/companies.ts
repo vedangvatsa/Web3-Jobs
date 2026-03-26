@@ -106,15 +106,20 @@ export async function getCompanies(): Promise<Company[]> {
     } catch (e) {
       // Invalid URL, leave empty
     }
-    
-    companies.push({
-      slug,
-      name: companyName,
-      website,
-      jobCount: companyJobs.length,
-      jobs: companyJobs,
-      lastUpdated: new Date().toISOString(),
-    });
+        // Use most recent job date as lastUpdated instead of build time
+      const latestJobDate = companyJobs.reduce((latest, j) => {
+        const d = new Date(j.date);
+        return d > latest ? d : latest;
+      }, new Date(0));
+
+      companies.push({
+        slug,
+        name: companyName,
+        website,
+        jobCount: companyJobs.length,
+        jobs: companyJobs,
+        lastUpdated: latestJobDate.toISOString(),
+      });
   });
   
   // Load enriched content for each company
@@ -147,8 +152,71 @@ export async function getCompanies(): Promise<Company[]> {
  * Get a single company by slug
  */
 export async function getCompanyBySlug(slug: string): Promise<Company | null> {
-  const companies = await getCompanies();
-  return companies.find(c => c.slug === slug) || null;
+  const jobs = await getJobs();
+  
+  // Find all jobs for the target company without computing everything
+  const companyMap = new Map<string, Job[]>();
+  const nameMap = new Map<string, string>();
+  let targetCanonicalName: string | null = null;
+  
+  jobs.forEach(job => {
+    const companyName = job.company.trim();
+    const normalized = normalizeCompanyName(companyName);
+    
+    if (!nameMap.has(normalized)) {
+      nameMap.set(normalized, companyName);
+      companyMap.set(companyName, []);
+    }
+    
+    const canonicalName = nameMap.get(normalized)!;
+    companyMap.get(canonicalName)!.push(job);
+    
+    if (createSlug(canonicalName) === slug) {
+      targetCanonicalName = canonicalName;
+    }
+  });
+  
+  if (!targetCanonicalName) return null;
+  
+  const companyJobs = companyMap.get(targetCanonicalName) || [];
+  const firstJobLink = companyJobs[0]?.link || '';
+  let website = '';
+  try {
+    const url = new URL(firstJobLink);
+    website = `${url.protocol}//${url.hostname}`;
+  } catch (e) {}
+
+  const latestJobDate = companyJobs.reduce((latest, j) => {
+    const d = new Date(j.date);
+    return d > latest ? d : latest;
+  }, new Date(0));
+
+  const company: Company = {
+    slug,
+    name: targetCanonicalName,
+    website,
+    jobCount: companyJobs.length,
+    jobs: companyJobs,
+    lastUpdated: latestJobDate.toISOString(),
+  };
+  
+  // Try to load enriched content
+  const content = await loadCompanyContent(slug);
+  if (content) {
+    Object.assign(company, {
+      description: content.description,
+      founded: content.founded,
+      category: content.category,
+      headquarters: content.headquarters,
+      about: content.about,
+      mission: content.mission,
+      culture: content.culture,
+      benefits: content.benefits,
+      techStack: content.techStack,
+    });
+  }
+  
+  return company;
 }
 
 /**
