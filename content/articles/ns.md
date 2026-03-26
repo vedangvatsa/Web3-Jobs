@@ -5,7 +5,7 @@ description: 'Network School is a startup society on an island off Singapore. Co
 category: 'Remote Work'
 data-ai-hint: 'startup society co-living coworking'
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 Network School is a startup society: co-living + coworking + community on an island off Singapore. It's designed for remote workers, founders, and creators who want infrastructure, peers, and focus in one place.

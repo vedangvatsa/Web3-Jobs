@@ -37,6 +37,12 @@ export async function POST(request: NextRequest) {
 
     // Fetch all subscribers from Firestore
     const db = serverFirestore;
+    if (!db) {
+      return NextResponse.json(
+        { error: 'Database not configured' },
+        { status: 503 }
+      );
+    }
     const subscribersCol = collection(db, 'subscribers');
     const snapshot = await getDocs(subscribersCol);
 

@@ -1,6 +1,6 @@
 'use client';
 
-import { Instagram, Linkedin, Mail, Twitter, Send } from 'lucide-react';
+import { Instagram, Linkedin, Mail, Twitter, Send, Youtube } from 'lucide-react';
 import Link from 'next/link';
 import type { Article } from '@/types';
 
@@ -42,6 +42,10 @@ export function FooterContent({ latestArticles }: { latestArticles: Omit<Article
               <a href="https://instagram.com/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Follow us on Instagram">
                 <Instagram size={20} />
                 <span className="sr-only">Instagram</span>
+              </a>
+              <a href="https://www.youtube.com/channel/UCr5WlEpTviHnnK856wG0EIg" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Subscribe on YouTube">
+                <Youtube size={20} />
+                <span className="sr-only">YouTube</span>
               </a>
                <a href="mailto:hi@hashtagweb3.com" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Email us">
                 <Mail size={20} />

@@ -7,7 +7,7 @@ description: "NFTs can represent more than just ownership. This article explores
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 The first wave of the [NFT](/what-are-nfts) boom was dominated by a simple but powerful idea: tokenizing the *ownership* of a digital asset. An NFT was a deed, a certificate of title for a piece of art or a digital collectible. But this is just scratching the surface of what's possible. The true power of [blockchain](/what-is-a-blockchain) [tokens](/what-is-a-token) lies not just in representing ownership, but in representing any abstract bundle of **rights and privileges**.

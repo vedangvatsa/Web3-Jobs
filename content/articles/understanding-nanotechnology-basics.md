@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/nanotech/1200/630"
 data-ai-hint: "nanotechnology atoms"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 Nanotechnology is the science, engineering, and technology conducted at the nanoscale, which is about 1 to 100 nanometers. It's hard to visualize just how small that is. A nanometer is one-billionth of a meter. A sheet of paper is about 100,000 nanometers thick. A single strand of human DNA is about 2.5 nanometers in diameter. At this incredibly small scale, the rules of physics and chemistry can behave differently, and this is what makes nanotechnology so fascinating and powerful.

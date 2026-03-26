@@ -7,7 +7,7 @@ description: "A deep dive into the Web3 Social Graph. Learn how protocols like F
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 For the past fifteen years, our digital identities have been trapped in walled gardens. Your "social graph"-the network of your friends, followers, posts, and interactions-is one of your most valuable digital assets, yet you don't own it. It's owned by platforms like Facebook, Twitter, and TikTok. If you leave the platform, your social graph disappears. If they change their algorithm, your reach vanishes. You are a digital serf, building value on land you do not own.

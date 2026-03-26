@@ -168,7 +168,7 @@ export default function ResourcesPage() {
 
                     <div className="max-w-7xl mx-auto space-y-16">
 
-                        {/* Role-specific pSEO resources — by niche */}
+                        {/* Role-specific pSEO resources: by niche */}
                         {sortedNiches.length > 0 && (
                             <section>
                                 <div className="mb-6">

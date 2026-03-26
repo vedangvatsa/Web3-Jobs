@@ -7,7 +7,7 @@ description: "A guide to on-chain identity verification, exploring how Web3 uses
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 In the digital world, proving who you are is a constant challenge. We are used to a system of usernames and passwords, or relying on large platforms like Google and Facebook to verify our identity for other services. This centralized model is fraught with privacy and security risks. **On-chain identity verification** is a new paradigm, powered by [Web3](/what-is-web3), that aims to create a more secure, private, and user-centric way of managing our digital identities.

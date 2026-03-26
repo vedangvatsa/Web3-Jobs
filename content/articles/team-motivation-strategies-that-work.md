@@ -8,7 +8,7 @@ image: "/images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg"
 data-ai-hint: "team motivation strategy"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 What truly motivates people at work? For decades, the conventional wisdom was simple: reward good behavior with money (bonuses, raises) and punish bad behavior. This "carrots and sticks" approach, known as extrinsic motivation, can be effective for simple, mechanical tasks. But for the creative, problem-solving work that defines modern jobs, it often fails, and can even backfire.

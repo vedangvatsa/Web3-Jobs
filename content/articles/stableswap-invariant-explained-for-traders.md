@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/stableswap/1200/630"
 data-ai-hint: "stableswap invariant"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 ## The StableSwap Invariant Explained for Traders and LPs

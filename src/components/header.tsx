@@ -13,9 +13,7 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
 } from "@/components/ui/dropdown-menu"
-import dynamic from 'next/dynamic';
-
-const MobileNav = dynamic(() => import('./mobile-nav').then(m => m.MobileNav), { ssr: false });
+import { MobileNav } from './mobile-nav';
 
 const mainNavLinks = [
   { href: "/", label: "Jobs", icon: Briefcase },

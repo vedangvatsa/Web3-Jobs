@@ -2,12 +2,13 @@
 
 /**
  * Script to filter and send new job alerts from the past N days
- * Usage: npm run send-new-jobs -- --days 7 --limit 15
+ * Usage: npm run send-new-jobs -- --days 7 --limit 15 --batch-size 100
  *
  * This script:
- * 1. Fetches all jobs from jobs-cache.json
+ * 1. Fetches all jobs from RSS feeds
  * 2. Filters jobs published in the last N days
- * 3. Sends emails to subscribers with new jobs
+ * 3. Sends emails to a batch of subscribers (default 100/day)
+ * 4. Tracks which subscribers have been emailed this week in Firestore
  *
  * Requires FIREBASE_SERVICE_ACCOUNT_KEY env var (base64-encoded service account JSON)
  * or FIREBASE_SERVICE_ACCOUNT_JSON (raw JSON string).
@@ -73,6 +74,18 @@ async function cleanSuppressedEmails(db: admin.firestore.Firestore, resend: Rese
   }
 }
 
+/**
+ * Get a week identifier like "2026-W13" for batch tracking.
+ * Resets every Monday so the batch cycle starts fresh each week.
+ */
+function getWeekId(date: Date): string {
+  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7));
+  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+  const weekNo = Math.ceil((((d.getTime() - yearStart.getTime()) / 86400000) + 1) / 7);
+  return `${d.getUTCFullYear()}-W${weekNo.toString().padStart(2, '0')}`;
+}
+
 function initAdminFirestore(): admin.firestore.Firestore {
   if (admin.apps.length) {
     return admin.firestore();
@@ -109,10 +122,14 @@ async function sendNewJobAlerts() {
   const limitIndex = args.indexOf('--limit');
   const jobLimit = limitIndex >= 0 ? parseInt(args[limitIndex + 1]) : 15;
 
-  console.log('📅 New Job Alerts (Weekly)');
+  const batchSizeIndex = args.indexOf('--batch-size');
+  const batchSize = batchSizeIndex >= 0 ? parseInt(args[batchSizeIndex + 1]) : 0; // 0 = send to all
+
+  console.log('📅 Job Alerts (Daily Batched)');
   console.log(`Mode: ${isDryRun ? 'DRY RUN' : 'LIVE'}`);
   console.log(`Days back: ${daysBack}`);
   console.log(`Job limit: ${jobLimit}`);
+  console.log(`Batch size: ${batchSize > 0 ? batchSize : 'ALL (no batching)'}`);
   console.log('');
 
   if (!process.env.RESEND_API_KEY) {
@@ -147,7 +164,34 @@ async function sendNewJobAlerts() {
     const emails: string[] = snapshot.docs
       .map(doc => doc.data().email as string)
       .filter(Boolean);
-    console.log(`✅ Found ${emails.length} subscribers`);
+    console.log(`✅ Found ${emails.length} total subscribers`);
+
+    // Batch logic: pick the next unsent batch for this week
+    let emailsToSend = emails;
+    if (batchSize > 0 && emails.length > batchSize) {
+      // Get the weekly batch tracking doc
+      const now = new Date();
+      const weekId = getWeekId(now);
+      const batchDocRef = db.collection('emailBatches').doc(weekId);
+      const batchDoc = await batchDocRef.get();
+      
+      let sentEmails: string[] = [];
+      if (batchDoc.exists) {
+        sentEmails = batchDoc.data()?.sentEmails || [];
+      }
+      
+      // Filter out already-sent subscribers
+      const unsent = emails.filter(e => !sentEmails.includes(e.toLowerCase()));
+      console.log(`📊 Already sent this week: ${sentEmails.length}, remaining: ${unsent.length}`);
+      
+      if (unsent.length === 0) {
+        console.log('✅ All subscribers have been emailed this week. Nothing to do.');
+        process.exit(0);
+      }
+      
+      emailsToSend = unsent.slice(0, batchSize);
+      console.log(`📦 This batch: ${emailsToSend.length} subscribers`);
+    }
 
     // Fetch jobs and filter by date
     console.log(`📥 Fetching jobs from last ${daysBack} days...`);
@@ -168,7 +212,6 @@ async function sendNewJobAlerts() {
         company: job.company?.name || job.company || 'Unknown Company',
         location: job.location || 'Remote',
         salary: job.salary,
-        // Use job.link directly since job.id contains full external URLs, not internal IDs
         url: job.link || job.url || `${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/jobs/${job.id}`,
         tags: job.tags?.slice(0, 5) || [],
       }));
@@ -183,8 +226,8 @@ async function sendNewJobAlerts() {
 
     if (isDryRun) {
       console.log('📋 DRY RUN SUMMARY:');
-      console.log(`Would send to: ${emails.length} subscribers`);
-      console.log(`Sample emails: ${emails.slice(0, 3).join(', ')}`);
+      console.log(`Would send to: ${emailsToSend.length} subscribers (of ${emails.length} total)`);
+      console.log(`Sample emails: ${emailsToSend.slice(0, 3).join(', ')}`);
       console.log('');
       console.log('New jobs to include:');
       newJobs.forEach((job: any, i: number) => {
@@ -195,14 +238,15 @@ async function sendNewJobAlerts() {
       process.exit(0);
     }
 
-    // Send emails
-    console.log('📧 Sending emails...');
-    const result = await sendBatchJobAlerts(emails, newJobs);
+    // Send emails to this batch
+    console.log(`📧 Sending emails to ${emailsToSend.length} subscribers...`);
+    const result = await sendBatchJobAlerts(emailsToSend, newJobs);
 
     console.log('');
     console.log('✅ SUCCESS!');
     console.log(`Sent: ${result.sent}`);
     console.log(`Failed: ${result.failed}`);
+    console.log(`Batch size: ${emailsToSend.length}`);
     console.log(`Total subscribers: ${emails.length}`);
     console.log(`Jobs included: ${newJobs.length}`);
     
@@ -242,6 +286,27 @@ async function sendNewJobAlerts() {
     const fs = await import('fs');
     fs.writeFileSync(metricsFile, JSON.stringify(metrics, null, 2));
     console.log(`\n📁 Detailed metrics saved to: ${metricsFile}`);
+
+    // Update batch tracking in Firestore
+    if (batchSize > 0) {
+      const weekId = getWeekId(new Date());
+      const batchDocRef = db.collection('emailBatches').doc(weekId);
+      const batchDoc = await batchDocRef.get();
+      const previouslySent: string[] = batchDoc.exists ? (batchDoc.data()?.sentEmails || []) : [];
+      
+      // Add successfully sent emails to the tracking list
+      const newlySent = result.details
+        .filter(d => d.success)
+        .map(d => d.email.toLowerCase());
+      
+      await batchDocRef.set({
+        sentEmails: [...previouslySent, ...newlySent],
+        lastUpdated: new Date().toISOString(),
+        totalSubscribers: emails.length,
+      }, { merge: true });
+      
+      console.log(`📊 Batch tracking updated: ${previouslySent.length + newlySent.length}/${emails.length} sent this week`);
+    }
 
   } catch (error: any) {
     console.error('❌ Error:', error.message);

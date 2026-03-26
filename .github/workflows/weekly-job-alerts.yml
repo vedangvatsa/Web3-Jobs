@@ -1,13 +1,15 @@
-name: Send Weekly Job Alerts
+name: Send Daily Job Alerts
 
 on:
   schedule:
-    # Every Tuesday at 9:00 AM UTC
-    - cron: '0 9 * * 2'
+    # Run every day at 9:00 AM UTC
+    # Sends to a batch of up to 100 subscribers each day
+    # to stay within Resend's 100 emails/day free-tier limit
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 jobs:
-  send-weekly-alerts:
+  send-daily-alerts:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -25,8 +27,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Send new job alerts for the week
-        run: npm run send-new-jobs -- --days 7 --limit 15
+      - name: Send job alerts (batched, 100/day)
+        run: npm run send-new-jobs -- --days 7 --limit 15 --batch-size 100
         env:
           # Email service
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
@@ -34,8 +36,6 @@ jobs:
           CRON_SECRET: ${{ secrets.CRON_SECRET }}
 
           # Firebase Admin SDK (base64-encoded service account JSON)
-          # Generate: base64 -i service-account.json | tr -d '\n'
-          # Add to GitHub → Settings → Secrets → FIREBASE_SERVICE_ACCOUNT_KEY
           FIREBASE_SERVICE_ACCOUNT_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
 
           # Site configuration

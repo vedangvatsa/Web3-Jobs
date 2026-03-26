@@ -11,6 +11,10 @@ import { JobEmailCaptureDialog } from './job-email-capture-dialog';
 import { JobApplicationButton } from './tracking/job-application-button';
 import { SearchTracker } from './tracking/search-tracker';
 import { trackJobApplicationClick, trackJobView } from '@/lib/posthog';
+import { useDebounce } from '@/hooks/use-debounce';
+
+const INITIAL_JOBS_COUNT = 30;
+const LOAD_MORE_COUNT = 30;
 
 function JobCardSkeleton() {
   return (
@@ -55,24 +59,51 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
   const [searchQuery, setSearchQuery] = useState('');
   const [isPending, startTransition] = useTransition();
   const [selectedJob, setSelectedJob] = useState<Job | null>(null);
+  const [visibleCount, setVisibleCount] = useState(INITIAL_JOBS_COUNT);
+  const sentinelRef = useRef<HTMLDivElement>(null);
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     startTransition(() => {
       setSearchQuery(e.target.value);
+      setVisibleCount(INITIAL_JOBS_COUNT);
     });
   };
 
+  const debouncedQuery = useDebounce(searchQuery, 200);
+
   const filteredJobs = useMemo(() => {
-    if (!searchQuery) return initialJobs;
-    const lowercasedQuery = searchQuery.toLowerCase();
+    if (!debouncedQuery) return initialJobs;
+    const lowercasedQuery = debouncedQuery.toLowerCase();
     return initialJobs.filter(
       (job) =>
         job.title.toLowerCase().includes(lowercasedQuery) ||
         job.company.toLowerCase().includes(lowercasedQuery)
     );
-  }, [initialJobs, searchQuery]);
+  }, [initialJobs, debouncedQuery]);
 
-  const gridRef = useJobViewObserver(filteredJobs);
+  // When searching, show all results; otherwise paginate
+  const isSearching = searchQuery.length > 0;
+  const visibleJobs = isSearching ? filteredJobs : filteredJobs.slice(0, visibleCount);
+  const hasMore = !isSearching && visibleCount < filteredJobs.length;
+  // Infinite scroll via IntersectionObserver on sentinel div
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel || !hasMore) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0]?.isIntersecting) {
+          setVisibleCount((prev) => Math.min(prev + LOAD_MORE_COUNT, filteredJobs.length));
+        }
+      },
+      { rootMargin: '600px' }
+    );
+
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [hasMore, filteredJobs.length]);
+
+  const gridRef = useJobViewObserver(visibleJobs);
 
   return (
     <div>
@@ -87,6 +118,11 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
           />
           <Search className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
         </div>
+        {isSearching && (
+          <p className="text-center text-sm text-muted-foreground mt-3">
+            {filteredJobs.length} result{filteredJobs.length !== 1 ? 's' : ''} found
+          </p>
+        )}
       </div>
 
       <div className="transition-opacity duration-300 min-h-[500px]">
@@ -97,7 +133,7 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
         )}
 
         <div ref={gridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {!isPending && filteredJobs.map((job, i) => (
+          {!isPending && visibleJobs.map((job, i) => (
             captureEmail ? (
               <div
                 key={`${job.id}-${i}`}
@@ -134,6 +170,16 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
             )
           ))}
         </div>
+
+        {/* Sentinel for auto infinite scroll */}
+        {hasMore && (
+          <div ref={sentinelRef} className="flex justify-center py-8" aria-hidden="true">
+            <div className="flex items-center gap-2 text-sm text-muted-foreground">
+              <div className="h-4 w-4 border-2 border-muted-foreground/30 border-t-primary rounded-full animate-spin" />
+              Loading more jobs...
+            </div>
+          </div>
+        )}
 
         {!isPending && filteredJobs.length === 0 && (
           <div className="text-center py-20 border-2 border-dashed rounded-lg col-span-full mt-8">

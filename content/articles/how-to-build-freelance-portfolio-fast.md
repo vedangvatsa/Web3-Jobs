@@ -7,7 +7,7 @@ description: "Learn effective strategies to build a compelling freelance portfol
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 As a [freelancer](/how-to-start-freelancing-for-beginners), your [portfolio](/building-web3-portfolio) is your most powerful weapon. It's the proof that you can deliver on your promises. A strong portfolio can open doors to high-paying clients and exciting projects. But what do you do when you're just starting out and have no client work to show?

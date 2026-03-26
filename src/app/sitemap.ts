@@ -15,105 +15,155 @@ const CONTENT_FALLBACK_DATE = new Date('2025-01-15');
 const staticRoutes: MetadataRoute.Sitemap = [
   {
     url: siteUrl,
-    lastModified: new Date('2025-03-01'),
+    lastModified: new Date(),
+    changeFrequency: 'daily',
+    priority: 1.0,
   },
   {
     url: `${siteUrl}/jobs`,
-    lastModified: new Date('2025-03-01'),
+    lastModified: new Date(),
+    changeFrequency: 'daily',
+    priority: 0.9,
   },
   {
     url: `${siteUrl}/blog`,
     lastModified: CONTENT_FALLBACK_DATE,
+    changeFrequency: 'weekly',
+    priority: 0.8,
   },
   {
     url: `${siteUrl}/glossary`,
     lastModified: CONTENT_FALLBACK_DATE,
+    changeFrequency: 'weekly',
+    priority: 0.7,
   },
   {
     url: `${siteUrl}/companies`,
-    lastModified: new Date('2025-03-01'),
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.8,
   },
   {
     url: `${siteUrl}/community`,
-    lastModified: new Date('2025-03-01'),
+    lastModified: new Date(),
+    changeFrequency: 'monthly',
+    priority: 0.5,
   },
   {
     url: `${siteUrl}/news`,
-    lastModified: new Date('2025-03-01'),
+    lastModified: new Date(),
+    changeFrequency: 'daily',
+    priority: 0.7,
   },
   {
     url: `${siteUrl}/resources`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.6,
   },
   // Tool and utility pages
   {
     url: `${siteUrl}/salary-calculator`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.6,
   },
   {
     url: `${siteUrl}/resume-builder`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.6,
   },
   {
     url: `${siteUrl}/invoice-generator`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.5,
   },
   {
     url: `${siteUrl}/jd-builder`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.5,
   },
   {
     url: `${siteUrl}/web3-career-quiz`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.6,
   },
   {
     url: `${siteUrl}/interview-questions`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.6,
   },
   {
     url: `${siteUrl}/freelance-rates-by-industry`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.5,
   },
   {
     url: `${siteUrl}/digital-nomad-visas`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.5,
   },
   {
     url: `${siteUrl}/remote-work-checklist`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.5,
   },
   // HR / employer tool pages
   {
     url: `${siteUrl}/employee-onboarding-checklist`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.4,
   },
   {
     url: `${siteUrl}/offer-letter-customizer`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.4,
   },
   {
     url: `${siteUrl}/employee-exit-survey`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.4,
   },
   {
     url: `${siteUrl}/interview-feedback-template`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.4,
   },
   {
     url: `${siteUrl}/employee-milestones-tracker`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.4,
   },
   {
     url: `${siteUrl}/employee-engagement-survey`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.4,
   },
   {
     url: `${siteUrl}/work-life-balance-survey`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.4,
   },
   {
     url: `${siteUrl}/company-culture-guide`,
     lastModified: new Date('2025-01-01'),
+    changeFrequency: 'monthly',
+    priority: 0.4,
   },
 ];
 
@@ -131,6 +181,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articleRoutes: MetadataRoute.Sitemap = articles.map((article) => ({
     url: `${siteUrl}/${article.slug}`,
     lastModified: CONTENT_FALLBACK_DATE,
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
   }));
 
   // Company pages are derived from the live jobs cache. lastUpdated is set to
@@ -138,6 +190,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const companyRoutes: MetadataRoute.Sitemap = companies.map((company) => ({
     url: `${siteUrl}/companies/${company.slug}`,
     lastModified: new Date('2025-03-01'),
+    changeFrequency: 'weekly' as const,
+    priority: 0.6,
   }));
 
   // Glossary terms live at /<slug> (same [slug] route, resolved before articles).
@@ -147,12 +201,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: term.updatedDate
       ? new Date(term.updatedDate)
       : CONTENT_FALLBACK_DATE,
+    changeFrequency: 'monthly' as const,
+    priority: 0.6,
   }));
 
   // Glossary category index pages live at /glossary/<category-slug>.
   const glossaryCategoryRoutes: MetadataRoute.Sitemap = categorySlugs.map((category) => ({
     url: `${siteUrl}/glossary/${category}`,
     lastModified: CONTENT_FALLBACK_DATE,
+    changeFrequency: 'monthly' as const,
+    priority: 0.5,
   }));
 
   // pSEO resource pages live at /<slug> (root level).

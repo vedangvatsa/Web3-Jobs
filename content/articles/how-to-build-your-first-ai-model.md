@@ -7,7 +7,7 @@ description: "A beginner's, step-by-step guide to building a simple but complete
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-13"
+lastUpdated: "2026-03-15"
 ---
 
 The idea of "building an AI model" can sound incredibly intimidating. It brings to mind complex mathematics and rooms full of supercomputers. But the reality is, thanks to modern tools, anyone with a basic understanding of programming can build their first machine learning model in an afternoon.
