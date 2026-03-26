@@ -3,14 +3,23 @@ import type { Metadata } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
 import './globals.css';
-import { Analytics } from "@vercel/analytics/react"
 import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
 import type { WebSite, Organization } from 'schema-dts';
 import { TelegramPopupHandler } from '@/components/telegram-popup-handler';
-import { PostHogProvider, PostHogPageView } from '@/providers/posthog-provider';
 import { Suspense } from 'react';
+import dynamic from 'next/dynamic';
+
+// Lazy-load PostHog so the ~180KB bundle doesn't block initial page render
+const PostHogProvider = dynamic(
+  () => import('@/providers/posthog-provider').then(mod => ({ default: mod.PostHogProvider })),
+  { ssr: false }
+);
+const PostHogPageView = dynamic(
+  () => import('@/providers/posthog-provider').then(mod => ({ default: mod.PostHogPageView })),
+  { ssr: false }
+);
 
 const inter = Inter({
   subsets: ['latin'],
@@ -183,7 +192,6 @@ export default async function RootLayout({
           <Toaster />
           <TelegramPopupHandler />
           <Footer />
-          <Analytics />
         </PostHogProvider>
       </body>
     </html>
