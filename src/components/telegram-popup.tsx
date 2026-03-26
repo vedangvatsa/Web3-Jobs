@@ -8,7 +8,7 @@ import {
   DialogTitle,
 } from '@/components/ui/dialog';
 import { VisuallyHidden } from '@/components/ui/visually-hidden';
-import { Send } from 'lucide-react';
+import { Send, Zap, Users } from 'lucide-react';
 
 interface TelegramPopupProps {
   open: boolean;
@@ -18,27 +18,52 @@ interface TelegramPopupProps {
 export function TelegramPopup({ open, onOpenChange }: TelegramPopupProps) {
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="sm:max-w-md">
+      <DialogContent className="sm:max-w-sm p-0 overflow-hidden border-0 shadow-2xl">
         <VisuallyHidden>
           <DialogTitle>Telegram Channel Invitation</DialogTitle>
           <DialogDescription>
             Join our Telegram channel to get instant job alerts
           </DialogDescription>
         </VisuallyHidden>
-        <div className="flex flex-col items-center">
-          <div className="mx-auto flex items-center justify-center h-16 w-16 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 mb-4 shadow-lg">
-            <Send className="h-8 w-8 text-white" />
+
+        {/* Top accent bar */}
+        <div className="h-1 bg-primary w-full" />
+
+        <div className="px-6 pt-5 pb-6 space-y-5">
+          {/* Header */}
+          <div className="space-y-1">
+            <h2 className="text-lg font-semibold tracking-tight">Get jobs in your pocket</h2>
+            <p className="text-sm text-muted-foreground">
+              Real-time alerts from 60K+ subscribers.
+            </p>
           </div>
-          <h2 className="text-center text-2xl font-bold">Never Miss an Opportunity</h2>
-          <p className="text-center text-base pt-2 text-muted-foreground">
-            Join our Telegram channel with over 60,000 subscribers to get instant alerts for the latest Web3 jobs.
-          </p>
+
+          {/* Social proof row */}
+          <div className="flex items-center gap-4 text-xs text-muted-foreground">
+            <span className="flex items-center gap-1.5">
+              <Users className="h-3.5 w-3.5" />
+              60,000+ members
+            </span>
+            <span className="flex items-center gap-1.5">
+              <Zap className="h-3.5 w-3.5" />
+              Updated daily
+            </span>
+          </div>
+
+          {/* CTA */}
+          <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="block">
+            <Button size="default" className="w-full">
+              Join Telegram <Send className="ml-2 h-3.5 w-3.5" />
+            </Button>
+          </a>
+
+          <button
+            onClick={() => onOpenChange(false)}
+            className="w-full text-center text-xs text-muted-foreground hover:text-foreground transition-colors"
+          >
+            Maybe later
+          </button>
         </div>
-        <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="w-full">
-          <Button size="lg" className="w-full bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700">
-            Join Telegram Channel <Send className="ml-2 h-4 w-4" />
-          </Button>
-        </a>
       </DialogContent>
     </Dialog>
   );
