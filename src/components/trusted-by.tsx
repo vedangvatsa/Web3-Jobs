@@ -20,15 +20,15 @@ export function TrustedBy() {
                     </h2>
 
                     <div className="flow-root">
-                        <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center">
+                        <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
                             {logos.map((logo) => (
-                                <div key={logo.name} className="p-2">
+                                <div key={logo.name} className="flex items-center justify-center h-8 w-[100px]">
                                     <Image
                                           src={logo.src}
                                           alt={`Logo of ${logo.name}`}
-                                          width={128}
-                                          height={24}
-                                          className="object-contain"
+                                          width={100}
+                                          height={28}
+                                          className="object-contain max-h-7"
                                         />
                                     <span className="sr-only">{logo.name}</span>
                                 </div>
