@@ -8,16 +8,19 @@
     "posted": []
   },
   "twitter": {
-    "lastIndex": 3,
+    "lastIndex": 4,
     "posted": [
       "post_7_x402_2026-03-27T05:43:43.910Z",
       "post_8_ai_agents_2026-03-27T05:50:06.513Z",
       "post_9_rwa_2026-03-27T05:54:08.480Z",
-      "post_10_depin_2026-03-27T05:56:37.930Z"
+      "post_10_depin_2026-03-27T05:56:37.930Z",
+      "post_5_btc_etf_2026-03-27T07:18:50.605Z"
     ]
   },
   "bluesky": {
-    "lastIndex": -1,
-    "posted": []
+    "lastIndex": 0,
+    "posted": [
+      "post_12_zk_proofs_2026-03-27T07:18:53.968Z"
+    ]
   }
 }
