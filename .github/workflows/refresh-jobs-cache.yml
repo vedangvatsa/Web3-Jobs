@@ -40,6 +40,13 @@ jobs:
         run: npx tsx scripts/social/publish-social.ts --platform twitter
         continue-on-error: true
 
+      - name: Post to Bluesky
+        env:
+          BLUESKY_HANDLE: hashtagweb3.bsky.social
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: npx tsx scripts/social/publish-social.ts --platform bluesky
+        continue-on-error: true
+
       - name: Refill Buffer queue (LinkedIn + Instagram)
         env:
           BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
