@@ -55,6 +55,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes"
           else
+            git pull --rebase || true
             git commit -m "chore: social post state update [skip ci]"
             git push
           fi
