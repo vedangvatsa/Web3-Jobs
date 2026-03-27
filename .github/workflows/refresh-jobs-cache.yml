@@ -11,57 +11,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  # Fast job: posts to X and refills Buffer (~1-2 min)
-  social-post:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install only tsx (skip full npm ci)
-        run: npm install --no-save tsx
-
-      - name: Post to X
-        env:
-          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
-          X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
-        run: npx tsx scripts/social/publish-social.ts --platform twitter
-        continue-on-error: true
-
-      - name: Refill Buffer queue (LinkedIn + Instagram)
-        env:
-          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
-          BUFFER_ORG_ID: ${{ secrets.BUFFER_ORG_ID }}
-        run: npx tsx scripts/social/buffer-refill.ts
-        continue-on-error: true
-
-      - name: Commit and push social state
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add scripts/social/publish-state.json scripts/social/buffer-refill-state.json
-          if git diff --staged --quiet; then
-            echo "No changes"
-          else
-            git pull --rebase || true
-            git commit -m "chore: social post state update [skip ci]"
-            git push
-          fi
-
-  # Heavy job: refreshes jobs cache (~17-20 min, runs in parallel)
-  refresh-cache:
+  refresh-and-post:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -81,18 +31,33 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Post to X
+        env:
+          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
+          X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: npx tsx scripts/social/publish-social.ts --platform twitter
+        continue-on-error: true
+
+      - name: Refill Buffer queue (LinkedIn + Instagram)
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          BUFFER_ORG_ID: ${{ secrets.BUFFER_ORG_ID }}
+        run: npx tsx scripts/social/buffer-refill.ts
+        continue-on-error: true
+
       - name: Fetch RSS feeds and update cache
         run: npx tsx scripts/refresh-jobs-cache.ts
 
-      - name: Commit and push updated cache
+      - name: Commit and push updated cache and state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/jobs-cache.json
+          git add content/jobs-cache.json scripts/social/publish-state.json scripts/social/buffer-refill-state.json
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git pull --rebase || true
-            git commit -m "chore: refresh jobs cache [skip ci]"
+            git commit -m "chore: refresh jobs cache + social post [skip ci]"
             git push
           fi
