@@ -2,61 +2,141 @@
   {
     "id": "post_1_family_meme",
     "image": "scripts/social/output/generated/meme_family.png",
+    "imageUrl": "https://iili.io/qZY8H5F.jpg",
     "linkedin": {
       "text": "Every Web3 professional has had this conversation at least once.\n\nYou build decentralized infrastructure. You audit smart contracts. You design token economies for protocols managing billions in value.\n\nBut the moment you say \"crypto\" at a family dinner, the room goes quiet.\n\nThe reality is this industry employs tens of thousands of people across engineering, legal, design, research, and product. These are real roles at real companies solving real problems.\n\nIf you are one of those people, or want to be, we track 600+ open positions across 50+ companies. Updated daily.\n\nWeb3 Jobs: HashtagWeb3.com"
     },
     "instagram": {
       "text": "Every Web3 professional has had this exact conversation.\n\nYou audit smart contracts. You design token economies. You build protocols managing billions.\n\nBut the moment you say \"crypto\" the room goes quiet.\n\nThis industry employs tens of thousands of people in engineering, legal, design, and product.\n\nReal roles. Real companies. Real problems.\n\nIf you are looking for your next role in Web3, we track 600+ open positions daily.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #blockchain #web3 #technology #innovation #tech #startup #career #hiring #motivation"
+    },
+    "twitter": {
+      "text": "Every Web3 professional has had this conversation.\n\nYou build decentralized infrastructure. You audit smart contracts.\n\nBut the moment you say \"crypto\" at dinner, the room goes quiet.\n\nThis industry employs tens of thousands. Real roles. Real companies.\n\n600+ open positions: HashtagWeb3.com"
     }
   },
   {
     "id": "post_2_capital_chart",
     "image": "scripts/social/output/generated/chart_capital.png",
+    "imageUrl": "https://iili.io/qZYSqhb.jpg",
     "linkedin": {
       "text": "Three lines tell you everything about where Web3 is headed.\n\nDeFi TVL dominates. It dipped in 2023, recovered, and is now higher than ever. The protocols that survived the bear market are the ones actually generating revenue.\n\nNFT volume peaked in 2022 and has not recovered. The speculative phase is over. What remains is infrastructure. Digital identity, on-chain credentials, tokenized assets.\n\nDAO treasuries are the quiet story. Slow, steady growth. Organizations are accumulating capital and governance is maturing.\n\nThe capital flows tell you where the jobs will be. DeFi and infrastructure roles are growing. Pure NFT roles are shrinking. DAO operations is emerging as a real career path.\n\nFollow the capital. Find the careers.\n\nWeb3 Jobs: HashtagWeb3.com"
     },
     "instagram": {
       "text": "Three lines. The entire story of Web3 capital.\n\nDeFi TVL dominates. Dipped in 2023. Now higher than ever.\n\nNFT volume peaked in 2022 and never came back. The speculation is over. What is left is infrastructure.\n\nDAO treasuries are the quiet story. Slow growth. Real capital accumulation.\n\nWhere the money goes is where the jobs go.\n\nFollow the capital. Find the careers.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #bitcoin #ethereum #blockchain #defi #investing #finance #trading #technology #money"
+    },
+    "twitter": {
+      "text": "Three lines tell you everything about where Web3 capital flows.\n\nDeFi TVL is higher than ever. NFT volume peaked in 2022 and never recovered. DAO treasuries are quietly growing.\n\nWhere the money goes is where the jobs go.\n\nFollow the capital: HashtagWeb3.com"
     }
   },
   {
     "id": "post_3_l2_chart",
     "image": "scripts/social/output/generated/chart_l2.png",
+    "imageUrl": "https://iili.io/qZYS04p.jpg",
     "linkedin": {
       "text": "Ethereum Layer 2s now process more daily transactions than Ethereum itself.\n\nBase leads with 5.2 million transactions per day. Arbitrum follows at 2.8 million. Optimism sits at 1.1 million. Ethereum L1 also sits at 1.1 million.\n\nRead that again. Coinbase's Base alone processes nearly 5x the volume of Ethereum mainnet.\n\nThis is the infrastructure shift happening in plain sight. Developers are building on L2s because the economics make sense. Users are transacting on L2s because the fees make sense.\n\nThe teams building on these chains need engineers, product managers, and researchers. That is where the roles are opening up fastest.\n\nWeb3 Jobs: HashtagWeb3.com"
     },
     "instagram": {
       "text": "Ethereum Layer 2s now process more daily transactions than Ethereum itself.\n\nBase leads at 5.2M per day. Arbitrum at 2.8M. Optimism at 1.1M.\n\nEthereum L1 also sits at 1.1M.\n\nCoinbase's Base alone processes nearly 5x the volume of Ethereum mainnet.\n\nThe infrastructure shift is happening in plain sight. Developers and users are both moving to L2s.\n\nThat is where the roles are opening up fastest.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ethereum #crypto #blockchain #technology #web3 #tech #programming #coding #developer #innovation"
+    },
+    "twitter": {
+      "text": "Base processes 5.2M transactions per day. Ethereum L1 does 1.1M.\n\nCoinbase's L2 alone handles nearly 5x Ethereum mainnet volume.\n\nThe infrastructure shift already happened. The teams building on L2s are hiring.\n\nWeb3 Jobs: HashtagWeb3.com"
     }
   },
   {
     "id": "post_4_gas_meme",
     "image": "scripts/social/output/generated/meme_gas.png",
+    "imageUrl": "https://iili.io/qZYSOG4.jpg",
     "linkedin": {
       "text": "In 2021, you paid $300 in gas to mint a JPEG.\n\nIn 2026, you pay $0.001 on Base to deploy a smart contract.\n\nFive years of infrastructure work made that possible. Rollups, data availability layers, EIP-4844, proto-danksharding. The engineers who built this rarely get credit for it.\n\nThe gas fee chart going to near zero is not an accident. It is the result of thousands of engineers solving one of the hardest problems in distributed systems.\n\nThose same teams are still hiring. And the next wave of problems is just as hard.\n\nWeb3 Jobs: HashtagWeb3.com"
     },
     "instagram": {
       "text": "2021. Paid $300 in gas to mint a JPEG.\n\n2026. Paid $0.001 on Base to deploy a smart contract.\n\nFive years of infrastructure work made that possible.\n\nRollups. Data availability layers. EIP-4844. Proto-danksharding.\n\nThe engineers who built this rarely get credit.\n\nThose same teams are still hiring. The next wave of problems is just as hard.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ethereum #crypto #blockchain #programming #coding #developer #technology #web3 #tech #software"
+    },
+    "twitter": {
+      "text": "2021: $300 in gas to mint a JPEG.\n2026: $0.001 on Base to deploy a smart contract.\n\nFive years of infrastructure work. Rollups. EIP-4844. Proto-danksharding.\n\nThose same teams are still hiring.\n\nWeb3 Jobs: HashtagWeb3.com"
     }
   },
   {
     "id": "post_5_btc_etf",
     "image": "scripts/social/output/generated/chart_btc_etf.png",
+    "imageUrl": "https://iili.io/qZYSm91.jpg",
     "linkedin": {
       "text": "Bitcoin ETFs crossed $100 billion in assets under management.\n\nBlackRock iShares holds 48% of that. Fidelity holds 22%. ARK and 21Shares at 8%. Bitwise at 7%. The rest is spread across a dozen smaller issuers.\n\nTwo years ago, the idea of BlackRock managing a Bitcoin fund would have sounded absurd. Now they manage nearly half of all spot Bitcoin ETF assets.\n\nThis is not just a capital story. It is a talent story. Every one of these firms is hiring compliance teams, blockchain analysts, custody engineers, and fund operations specialists who understand both TradFi and crypto.\n\nThe bridge between Wall Street and Web3 is being built right now. And there are roles on both sides.\n\nWeb3 Jobs: HashtagWeb3.com"
     },
     "instagram": {
       "text": "Bitcoin ETFs crossed $100B in assets under management.\n\nBlackRock holds 48%. Fidelity holds 22%. ARK/21Shares at 8%. Bitwise at 7%.\n\nTwo years ago, BlackRock managing a Bitcoin fund sounded absurd.\n\nNow they manage nearly half of all spot Bitcoin ETF assets.\n\nThis is not just a capital story. It is a talent story.\n\nThese firms need compliance teams, blockchain analysts, and custody engineers who understand both TradFi and crypto.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#bitcoin #crypto #investing #finance #trading #blockchain #money #business #stockmarket #economy"
+    },
+    "twitter": {
+      "text": "Bitcoin ETFs crossed $100B in AUM.\n\nBlackRock holds 48%. Fidelity holds 22%.\n\nTwo years ago this sounded absurd. Now they need compliance teams, blockchain analysts, and custody engineers.\n\nThe bridge between Wall Street and Web3 is being built.\n\nWeb3 Jobs: HashtagWeb3.com"
     }
   },
   {
     "id": "post_6_stablecoin",
     "image": "scripts/social/output/generated/chart_stablecoin.png",
+    "imageUrl": "https://iili.io/qZYUaR9.jpg",
     "linkedin": {
       "text": "The stablecoin market went from $20 billion in 2020 to over $210 billion in 2026.\n\nSix years. 10x growth. And most people outside of crypto have no idea this happened.\n\nStablecoins are now the most used product in all of crypto. More than DeFi. More than NFTs. More than any L1 or L2 token. They are the payment rails, the settlement layer, and the unit of account for an entire parallel financial system.\n\nTether and Circle alone process more daily volume than most traditional payment networks.\n\nThe teams building stablecoin infrastructure, compliance frameworks, and cross-border payment products need people who understand both financial regulation and blockchain architecture.\n\nThose roles exist today.\n\nWeb3 Jobs: HashtagWeb3.com"
     },
     "instagram": {
       "text": "Stablecoins went from $20B in 2020 to $210B+ in 2026.\n\nSix years. 10x growth. Most people have no idea.\n\nThey are now the most used product in all of crypto. More than DeFi. More than NFTs. More than any L1 token.\n\nTether and Circle process more daily volume than most traditional payment networks.\n\nThe teams building this infrastructure need people who understand both finance and blockchain.\n\nThose roles exist today.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #bitcoin #finance #money #investing #trading #business #blockchain #technology #economy"
+    },
+    "twitter": {
+      "text": "Stablecoins went from $20B to $210B+ in six years.\n\nMost used product in all of crypto. More than DeFi. More than NFTs.\n\nTether and Circle process more daily volume than most payment networks.\n\nThe teams building this are hiring.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_7_x402",
+    "image": "scripts/social/output/generated/chart_x402.png",
+    "imageUrl": "https://iili.io/qZaxJvj.jpg",
+    "linkedin": {
+      "text": "The internet finally has a native payment layer. It is called x402.\n\nBuilt by Coinbase, x402 reactivates the HTTP 402 \"Payment Required\" status code that has been dormant since the web was created.\n\nHere is how it works. An AI agent requests an API or a piece of content. The server responds with HTTP 402 and payment instructions. The agent pays in stablecoins. Settlement happens in 2 seconds. No KYC. No payment gateway. No credit card form.\n\nThis is not theoretical. Cloudflare, Google, and Vercel already support it. The x402 Foundation now governs the standard.\n\nThe teams building on x402 need protocol engineers, integration developers, and product managers who understand both HTTP infrastructure and blockchain payments.\n\nThose roles are opening up now.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "The internet finally has a native payment layer. It is called x402.\n\nBuilt by Coinbase. Reactivates the HTTP 402 \"Payment Required\" status code.\n\nAn AI agent requests a resource. Server responds with 402 and payment instructions. Agent pays in stablecoins. 2-second settlement. No KYC. No gateway.\n\nCloudflare, Google, and Vercel already support it.\n\nThe teams building on x402 need protocol engineers and product managers who understand both HTTP and blockchain.\n\nThose roles are opening up now.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #blockchain #web3 #technology #innovation #tech #startup #ai #programming #coding"
+    },
+    "twitter": {
+      "text": "The internet finally has a native payment layer.\n\nx402 reactivates HTTP 402 \"Payment Required.\" AI agents pay in stablecoins. 2-second settlement. No KYC.\n\nCoinbase built it. Cloudflare, Google, and Vercel support it.\n\nThe teams behind x402 are hiring.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_8_ai_agents",
+    "image": "scripts/social/output/generated/chart_ai_agents.png",
+    "imageUrl": "https://iili.io/qZaxuuR.jpg",
+    "linkedin": {
+      "text": "The Solana Foundation projects that 99% of on-chain transactions will come from AI agents within two years.\n\nThat is not a typo. Ninety-nine percent.\n\nTRON DAO committed $100 million to build \"Agent Economy\" infrastructure. AI agent identity systems. Stablecoin payment channels. Autonomous treasury management.\n\nDappRadar estimates 30 to 50 percent of daily blockchain activity in 2026 is already driven by AI agents executing DeFi strategies, managing liquidity positions, and participating in governance votes.\n\nThis is the biggest shift in who uses blockchains since DeFi summer. The users are no longer human. They are software.\n\nThe teams building agent infrastructure need engineers who understand both ML systems and smart contract architecture. That intersection barely existed two years ago. Now it is one of the fastest growing role categories in Web3.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "The Solana Foundation projects 99% of on-chain transactions will come from AI agents within two years.\n\nTRON DAO committed $100M to build Agent Economy infrastructure.\n\n30 to 50 percent of daily blockchain activity is already driven by AI agents. Executing DeFi strategies. Managing liquidity. Participating in governance.\n\nThe users are no longer human. They are software.\n\nThe teams building this need engineers who understand both ML systems and smart contracts.\n\nThat intersection is one of the fastest growing role categories in Web3.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #bitcoin #ethereum #blockchain #ai #technology #web3 #programming #developer #innovation"
+    },
+    "twitter": {
+      "text": "Solana Foundation projects 99% of on-chain transactions will come from AI agents.\n\nTRON DAO committed $100M to Agent Economy infrastructure.\n\n30-50% of daily blockchain activity is already AI-driven.\n\nThe users are no longer human. They are software.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_9_rwa",
+    "image": "scripts/social/output/generated/chart_rwa.png",
+    "imageUrl": "https://iili.io/qZax89j.jpg",
+    "linkedin": {
+      "text": "Tokenized real-world assets crossed $16 billion in 2026.\n\nIn 2022, the total was barely $1 billion. Four years. 16x growth.\n\nBlackRock launched its BUIDL fund on Ethereum. Franklin Templeton tokenized US Treasuries on Stellar and Polygon. JPMorgan built Onyx for institutional asset settlement.\n\nThese are not crypto-native startups. These are the largest financial institutions in the world choosing blockchain rails for real assets.\n\nThe roles opening up sit at the intersection of traditional finance and blockchain engineering. Tokenization architects. Compliance engineers who understand both SEC regulations and smart contract auditing. Product managers who can translate between Wall Street and Web3.\n\nIf you work in finance and have been watching crypto from the sidelines, this is your entry point.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Tokenized real-world assets crossed $16B in 2026.\n\nIn 2022 it was barely $1B. Four years. 16x growth.\n\nBlackRock launched BUIDL on Ethereum. Franklin Templeton tokenized US Treasuries. JPMorgan built Onyx for institutional settlement.\n\nThese are not startups. These are the largest financial institutions choosing blockchain rails for real assets.\n\nThe roles sit at the intersection of traditional finance and blockchain. Tokenization architects. Compliance engineers. Product managers who translate between Wall Street and Web3.\n\nIf you work in finance and have been watching crypto from the sidelines, this is your entry point.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #bitcoin #finance #investing #trading #blockchain #money #business #technology #economy"
+    },
+    "twitter": {
+      "text": "Tokenized real-world assets went from $1B to $16B in four years.\n\nBlackRock. Franklin Templeton. JPMorgan. All building on blockchain rails.\n\nIf you work in finance and have been watching crypto from the sidelines, this is your entry point.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_10_depin",
+    "image": "scripts/social/output/generated/chart_depin.png",
+    "imageUrl": "https://iili.io/qZaz9VI.jpg",
+    "linkedin": {
+      "text": "DePIN is building physical infrastructure with token incentives. And it is working.\n\nHelium built a wireless network with 900,000+ hotspots deployed by everyday people. Render Network distributed GPU compute for AI model training. Filecoin stores data across a decentralized network of storage providers.\n\nThe model is simple. Instead of one company building infrastructure and owning all the hardware, you incentivize thousands of participants to deploy hardware and earn tokens for providing capacity.\n\nIt is working because the economics actually make sense. Deploying a Helium hotspot costs $300 and generates yield. Running a Render node earns tokens proportional to compute provided.\n\nThe teams behind these networks need hardware engineers, protocol designers, IoT specialists, and operations managers. These are not typical crypto roles. They require knowledge of physical systems and distributed networks.\n\nDePIN is where blockchain meets the real world.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "DePIN is building physical infrastructure with token incentives. And it is working.\n\nHelium built a wireless network with 900K+ hotspots. Render Network distributed GPU compute for AI training. Filecoin stores data across decentralized storage providers.\n\nInstead of one company owning all hardware, thousands of participants deploy hardware and earn tokens.\n\nThe economics make sense. A Helium hotspot costs $300 and generates yield. Render nodes earn tokens for compute provided.\n\nThese teams need hardware engineers, IoT specialists, and protocol designers. Not typical crypto roles.\n\nDePIN is where blockchain meets the real world.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #blockchain #technology #web3 #tech #innovation #startup #programming #developer #iot"
+    },
+    "twitter": {
+      "text": "DePIN is building physical infrastructure with token incentives.\n\nHelium: 900K+ wireless hotspots. Render: distributed GPU compute. Filecoin: decentralized storage.\n\nThe economics make sense. A Helium hotspot costs $300 and generates yield.\n\nBlockchain meets the real world.\n\nWeb3 Jobs: HashtagWeb3.com"
     }
   }
 ]
