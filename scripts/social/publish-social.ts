@@ -314,7 +314,7 @@ async function uploadMediaToTwitter(imagePath: string): Promise<string> {
 
   // INIT
   const initUrl = 'https://upload.twitter.com/1.1/media/upload.json';
-  const initParams = `command=INIT&total_bytes=${totalBytes}&media_type=${encodeURIComponent(mediaType)}`;
+  const initParams = `command=INIT&total_bytes=${totalBytes}&media_type=${encodeURIComponent(mediaType)}&media_category=TWEET_IMAGE`;
 
   const consumerKey = process.env.X_CONSUMER_KEY!;
   const consumerSecret = process.env.X_CONSUMER_SECRET!;
@@ -332,6 +332,7 @@ async function uploadMediaToTwitter(imagePath: string): Promise<string> {
     command: 'INIT',
     total_bytes: totalBytes.toString(),
     media_type: mediaType,
+    media_category: 'TWEET_IMAGE',
   };
 
   const initSig = generateOAuthSignature('POST', initUrl, initOauth, consumerSecret, accessTokenSecret);
@@ -505,19 +506,19 @@ async function main() {
 }
 async function scheduleToBuffer(token: string, orgId: string) {
   const baseUrl = 'https://raw.githubusercontent.com/vedangvatsa123/Web3-Jobs/main/';
-  const graphqlUrl = 'https://api.bufferapp.com/graphql';
+  const graphqlUrl = 'https://api.buffer.com/graphql';
 
   const query = `
-    query GetProfiles($orgId: String!) {
-      organization(id: $orgId) {
-        profiles {
-          id
-          service
-        }
+    query GetChannels(\$orgId: OrganizationId!) {
+      channels(input: { organizationId: \$orgId }) {
+        id
+        service
+        name
       }
     }
   `;
 
+  console.log('Fetching Buffer channels via GraphQL...');
   const pRes = await fetch(graphqlUrl, {
     method: 'POST',
     headers: {
@@ -528,13 +529,16 @@ async function scheduleToBuffer(token: string, orgId: string) {
   });
 
   const pData = await pRes.json();
-  if (pData.errors) throw new Error('GraphQL Errors: ' + JSON.stringify(pData.errors));
+  if (pData.errors) {
+    console.error('GraphQL Errors (Channels):', JSON.stringify(pData.errors, null, 2));
+    throw new Error('Could not fetch Buffer channels.');
+  }
 
-  const profiles = pData.data.organization.profiles;
-  const linkedinIds = profiles.filter((p: any) => p.service === 'linkedin').map((p: any) => p.id);
-  const instagramIds = profiles.filter((p: any) => p.service === 'instagram').map((p: any) => p.id);
+  const channels = pData.data.channels;
+  const linkedinIds = channels.filter((p: any) => p.service === 'linkedin').map((p: any) => p.id);
+  const instagramIds = channels.filter((p: any) => p.service === 'instagram').map((p: any) => p.id);
 
-  console.log('Buffer Profiles Found:', profiles.map((p: any) => `${p.service}:${p.id}`));
+  console.log('Buffer Channels Found:', channels.map((p: any) => `${p.service}:${p.id}`));
 
   const schedule = JSON.parse(fs.readFileSync(path.join(__dirname, 'content-schedule.json'), 'utf8'));
 
@@ -549,10 +553,14 @@ async function scheduleToBuffer(token: string, orgId: string) {
   ];
 
   const mutation = `
-    mutation CreatePost($input: CreatePostInput!) {
-      createPost(input: $input) {
-        id
-        scheduledAt
+    mutation CreatePost(\$input: CreatePostInput!) {
+      createPost(input: \$input) {
+        ... on PostActionSuccess {
+          id
+        }
+        ... on MutationError {
+          message
+        }
       }
     }
   `;
@@ -560,13 +568,13 @@ async function scheduleToBuffer(token: string, orgId: string) {
   for (let i = 0; i < schedule.length; i++) {
     const post = schedule[i];
     const imageUrl = baseUrl + post.image;
-    const scheduledAt = Math.floor(times[i].getTime() / 1000);
+    const scheduledAt = times[i].toISOString();
 
-    for (const pid of [...linkedinIds, ...instagramIds]) {
-      const isLI = profiles.find((p: any) => p.id === pid).service === 'linkedin';
+    for (const cid of [...linkedinIds, ...instagramIds]) {
+      const isLI = channels.find((p: any) => p.id === cid).service === 'linkedin';
       const text = isLI ? post.linkedin.text : post.instagram.text;
 
-      console.log(`Scheduling ${post.id} for ${pid} at ${times[i].toISOString()}`);
+      console.log(`Scheduling ${post.id} for ${cid} at ${scheduledAt}`);
       const res = await fetch(graphqlUrl, {
         method: 'POST',
         headers: {
@@ -578,21 +586,26 @@ async function scheduleToBuffer(token: string, orgId: string) {
           variables: {
             input: {
               organizationId: orgId,
-              profileIds: [pid],
-              content: {
-                text: text,
-                media: {
-                  picture: imageUrl,
-                  thumbnail: imageUrl
-                }
+              channelId: cid,
+              text: text,
+              media: {
+                picture: imageUrl,
+                thumbnail: imageUrl
               },
-              scheduledAt: scheduledAt
+              schedulingType: 'individual',
+              mode: 'customSchedule',
+              dueAt: scheduledAt
             }
           }
         })
       });
       const data = await res.json();
-      console.log('Result:', data.errors ? JSON.stringify(data.errors) : 'Success: ' + data.data.createPost.id);
+      if (data.errors) {
+        console.error('GraphQL Errors (CreatePost):', JSON.stringify(data.errors, null, 2));
+      } else {
+        const result = data.data.createPost;
+        console.log('Result:', result.id ? 'Success: ' + result.id : 'Error: ' + result.message);
+      }
     }
   }
 }
