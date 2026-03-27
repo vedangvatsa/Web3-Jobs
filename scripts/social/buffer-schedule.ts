@@ -5,7 +5,16 @@ const token = process.env.BUFFER_ACCESS_TOKEN || 'WLGVA8tQgQ6lHyM267pKDys4EEN5kl
 const orgId = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
 const linkedinId = '69c5b139af47dacb695b5feb';
 const instagramId = '69c5b180af47dacb695b611e';
-const baseUrl = 'https://raw.githubusercontent.com/vedangvatsa123/Web3-Jobs/main/';
+
+// Public image URLs hosted on freeimage.host (permanent, no auth needed)
+const imageUrls: Record<string, string> = {
+  'post_1_family_meme': 'https://iili.io/qZY8H5F.jpg',
+  'post_2_capital_chart': 'https://iili.io/qZYSqhb.jpg',
+  'post_3_l2_chart': 'https://iili.io/qZYS04p.jpg',
+  'post_4_gas_meme': 'https://iili.io/qZYSOG4.jpg',
+  'post_5_btc_etf': 'https://iili.io/qZYSm91.jpg',
+  'post_6_stablecoin': 'https://iili.io/qZYUaR9.jpg',
+};
 
 async function run() {
   const schedulePath = path.join(__dirname, 'content-schedule.json');
@@ -24,15 +33,44 @@ async function run() {
   console.log('--- Buffer GraphQL Scheduling ---');
   for (let i = 0; i < schedule.length; i++) {
     const post = schedule[i];
-    const imageUrl = baseUrl + post.image;
+    const imageUrl = imageUrls[post.id];
     const dueAt = times[i].toISOString();
 
     for (const cid of [linkedinId, instagramId]) {
       const isLI = cid === linkedinId;
       const text = isLI ? post.linkedin.text : post.instagram.text;
       
-      console.log(`Scheduling ${post.id} for ${isLI ? 'LinkedIn' : 'Instagram'} (${cid}) at ${dueAt}...`);
+      console.log(`\nScheduling ${post.id} for ${isLI ? 'LinkedIn' : 'Instagram'} at ${dueAt}...`);
       
+      // Build input — Instagram needs metadata.instagram.type
+      const input: any = {
+        channelId: cid,
+        text: text,
+        schedulingType: 'automatic',
+        mode: 'customScheduled',
+        dueAt: dueAt,
+      };
+
+      // Add image if we have a public URL
+      if (imageUrl) {
+        input.assets = {
+          images: [{
+            url: imageUrl,
+            thumbnailUrl: imageUrl,
+          }]
+        };
+      }
+
+      // Instagram requires post type metadata
+      if (!isLI) {
+        input.metadata = {
+          instagram: {
+            type: 'post',
+            shouldShareToFeed: true,
+          }
+        };
+      }
+
       const res = await fetch('https://api.buffer.com/graphql', {
         method: 'POST',
         headers: {
@@ -44,7 +82,9 @@ async function run() {
             mutation CreatePost($input: CreatePostInput!) {
               createPost(input: $input) {
                 ... on PostActionSuccess {
-                  id
+                  post {
+                    id
+                  }
                 }
                 ... on MutationError {
                   message
@@ -52,29 +92,22 @@ async function run() {
               }
             }
           `,
-          variables: {
-            input: {
-              organizationId: orgId,
-              channelId: cid,
-              text: text,
-              media: {
-                picture: imageUrl,
-                thumbnail: imageUrl
-              },
-              schedulingType: 'individual',
-              mode: 'customSchedule',
-              dueAt: dueAt
-            }
-          }
+          variables: { input }
         })
       });
 
-      const data = await res.json();
+      const data = await res.json() as any;
       if (data.errors) {
-        console.error('  Result: ERROR', JSON.stringify(data.errors));
+        console.error('  ERROR:', JSON.stringify(data.errors));
       } else {
-        const result = data.data.createPost;
-        console.log('  Result:', result.id ? `SUCCESS (ID: ${result.id})` : `FAILED (${result.message})`);
+        const result = data.data?.createPost;
+        if (result?.post?.id) {
+          console.log(`  ✅ SUCCESS (ID: ${result.post.id})`);
+        } else if (result?.message) {
+          console.log(`  ❌ FAILED: ${result.message}`);
+        } else {
+          console.log('  ⚠️ Unexpected:', JSON.stringify(data));
+        }
       }
     }
   }

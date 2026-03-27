@@ -21,6 +21,7 @@ const STATE_FILE = path.join(__dirname, 'publish-state.json');
 interface PostContent {
   id: string;
   image: string;
+  imageUrl?: string;
   linkedin: { text: string };
   instagram: { text: string };
   twitter?: { text: string };
@@ -469,17 +470,27 @@ async function main() {
   // Ensure state file exists for future runs
   saveState(state);
 
-  // Get next post index (round-robin)
+  // Get next post index with platform-specific offset for shuffling
+  // This ensures different platforms don't post the same content at the same time
   const platformState = state[platform as keyof PublishState];
-  const nextIndex = (platformState.lastIndex + 1) % schedule.length;
-  const post = schedule[nextIndex];
+  const offsets: Record<string, number> = { linkedin: 0, instagram: 3, twitter: 6 };
+  const offset = offsets[platform] || 0;
+  const baseIndex = (platformState.lastIndex + 1) % schedule.length;
+  const shuffledIndex = (baseIndex + offset) % schedule.length;
+  const post = schedule[shuffledIndex];
 
-  // LinkedIn and Instagram are now scheduled via Buffer API (if token provided) or directly
-  const textKey = platform === 'twitter' ? 'instagram' : platform;
-  const text = post[textKey as 'linkedin' | 'instagram'].text;
+  // Use platform-specific text: twitter has its own field, falls back to instagram
+  let text: string;
+  if (platform === 'twitter' && post.twitter?.text) {
+    text = post.twitter.text;
+  } else if (platform === 'instagram') {
+    text = post.instagram.text;
+  } else {
+    text = post.linkedin.text;
+  }
   const imagePath = path.resolve(__dirname, '../../', post.image);
 
-  console.log(`Publishing post ${nextIndex + 1}/${schedule.length} to ${platform}`);
+  console.log(`Publishing post ${shuffledIndex + 1}/${schedule.length} to ${platform}`);
   console.log(`Post ID: ${post.id}`);
   console.log(`Image: ${imagePath}`);
   console.log(`Text preview: ${text.substring(0, 80)}...`);
@@ -493,8 +504,8 @@ async function main() {
       await postToTwitter(text, imagePath);
     }
 
-    // Update state
-    platformState.lastIndex = nextIndex;
+    // Update state — track the base index for round-robin
+    platformState.lastIndex = baseIndex;
     platformState.posted.push(`${post.id}_${new Date().toISOString()}`);
     saveState(state);
 
