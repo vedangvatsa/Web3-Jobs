@@ -13,7 +13,6 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import * as crypto from 'crypto';
 
 const SCHEDULE_FILE = path.join(__dirname, 'content-schedule.json');
 const STATE_FILE = path.join(__dirname, 'publish-state.json');
@@ -218,216 +217,12 @@ async function postToInstagram(text: string, imagePath: string) {
   return mediaId;
 }
 
-// --- X/Twitter OAuth 1.0a helpers ---
-
-function generateOAuthNonce(): string {
-  return crypto.randomBytes(16).toString('hex');
-}
-
-function percentEncode(str: string): string {
-  return encodeURIComponent(str)
-    .replace(/!/g, '%21')
-    .replace(/\*/g, '%2A')
-    .replace(/'/g, '%27')
-    .replace(/\(/g, '%28')
-    .replace(/\)/g, '%29');
-}
-
-function generateOAuthSignature(
-  method: string,
-  url: string,
-  params: Record<string, string>,
-  consumerSecret: string,
-  tokenSecret: string
-): string {
-  const sortedKeys = Object.keys(params).sort();
-  const paramString = sortedKeys.map((k) => `${percentEncode(k)}=${percentEncode(params[k])}`).join('&');
-  const baseString = `${method.toUpperCase()}&${percentEncode(url)}&${percentEncode(paramString)}`;
-  const signingKey = `${percentEncode(consumerSecret)}&${percentEncode(tokenSecret)}`;
-  return crypto.createHmac('sha1', signingKey).update(baseString).digest('base64');
-}
-
-function buildOAuthHeader(params: Record<string, string>): string {
-  const entries = Object.keys(params)
-    .filter((k) => k.startsWith('oauth_'))
-    .sort()
-    .map((k) => `${percentEncode(k)}="${percentEncode(params[k])}"`);
-  return `OAuth ${entries.join(', ')}`;
-}
-
-async function twitterApiRequest(
-  method: string,
-  url: string,
-  body?: any,
-  extraParams?: Record<string, string>
-) {
-  const consumerKey = process.env.X_CONSUMER_KEY!;
-  const consumerSecret = process.env.X_CONSUMER_SECRET!;
-  const accessToken = process.env.X_ACCESS_TOKEN!;
-  const accessTokenSecret = process.env.X_ACCESS_TOKEN_SECRET!;
-
-  const oauthParams: Record<string, string> = {
-    oauth_consumer_key: consumerKey,
-    oauth_nonce: generateOAuthNonce(),
-    oauth_signature_method: 'HMAC-SHA1',
-    oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
-    oauth_token: accessToken,
-    oauth_version: '1.0',
-    ...(extraParams || {}),
-  };
-
-  const signature = generateOAuthSignature(method, url, oauthParams, consumerSecret, accessTokenSecret);
-  oauthParams.oauth_signature = signature;
-
-  const headers: Record<string, string> = {
-    Authorization: buildOAuthHeader(oauthParams),
-  };
-
-  const fetchOptions: any = { method, headers };
-
-  if (body) {
-    if (body instanceof Buffer) {
-      headers['Content-Type'] = 'application/octet-stream';
-      fetchOptions.body = body;
-    } else if (typeof body === 'string') {
-      headers['Content-Type'] = 'application/x-www-form-urlencoded';
-      fetchOptions.body = body;
-    } else {
-      headers['Content-Type'] = 'application/json';
-      fetchOptions.body = JSON.stringify(body);
-    }
-  }
-
-  const res = await fetch(url, fetchOptions);
-  const text = await res.text();
-
-  if (!res.ok) {
-    throw new Error(`X API error ${res.status}: ${text}`);
-  }
-
-  try {
-    return JSON.parse(text);
-  } catch {
-    return text;
-  }
-}
-
-async function uploadMediaToTwitter(imagePath: string): Promise<string> {
-  const imageBuffer = fs.readFileSync(imagePath);
-  const totalBytes = imageBuffer.length;
-  const mediaType = 'image/png';
-
-  // INIT
-  const initUrl = 'https://upload.twitter.com/1.1/media/upload.json';
-  const initParams = `command=INIT&total_bytes=${totalBytes}&media_type=${encodeURIComponent(mediaType)}&media_category=TWEET_IMAGE`;
-
-  const consumerKey = process.env.X_CONSUMER_KEY!;
-  const consumerSecret = process.env.X_CONSUMER_SECRET!;
-  const accessToken = process.env.X_ACCESS_TOKEN!;
-  const accessTokenSecret = process.env.X_ACCESS_TOKEN_SECRET!;
-
-  // For media upload we use form-encoded params
-  const initOauth: Record<string, string> = {
-    oauth_consumer_key: consumerKey,
-    oauth_nonce: generateOAuthNonce(),
-    oauth_signature_method: 'HMAC-SHA1',
-    oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
-    oauth_token: accessToken,
-    oauth_version: '1.0',
-    command: 'INIT',
-    total_bytes: totalBytes.toString(),
-    media_type: mediaType,
-    media_category: 'TWEET_IMAGE',
-  };
-
-  const initSig = generateOAuthSignature('POST', initUrl, initOauth, consumerSecret, accessTokenSecret);
-  initOauth.oauth_signature = initSig;
-
-  const initRes = await fetch(initUrl, {
-    method: 'POST',
-    headers: {
-      Authorization: buildOAuthHeader(initOauth),
-      'Content-Type': 'application/x-www-form-urlencoded',
-    },
-    body: initParams,
-  });
-
-  if (!initRes.ok) {
-    throw new Error(`Media INIT failed: ${await initRes.text()}`);
-  }
-
-  const initData = await initRes.json();
-  const mediaId = initData.media_id_string;
-  console.log('Media INIT:', mediaId);
-
-  // APPEND
-  const appendOauth: Record<string, string> = {
-    oauth_consumer_key: consumerKey,
-    oauth_nonce: generateOAuthNonce(),
-    oauth_signature_method: 'HMAC-SHA1',
-    oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
-    oauth_token: accessToken,
-    oauth_version: '1.0',
-  };
-
-  const appendSig = generateOAuthSignature('POST', initUrl, appendOauth, consumerSecret, accessTokenSecret);
-  appendOauth.oauth_signature = appendSig;
-
-  const formData = new FormData();
-  formData.append('command', 'APPEND');
-  formData.append('media_id', mediaId);
-  formData.append('segment_index', '0');
-  formData.append('media_data', imageBuffer.toString('base64'));
-
-  const appendRes = await fetch(initUrl, {
-    method: 'POST',
-    headers: {
-      Authorization: buildOAuthHeader(appendOauth),
-    },
-    body: formData,
-  });
-
-  if (!appendRes.ok && appendRes.status !== 204) {
-    throw new Error(`Media APPEND failed: ${await appendRes.text()}`);
-  }
-  console.log('Media APPEND done');
-
-  // FINALIZE
-  const finalizeParams = `command=FINALIZE&media_id=${mediaId}`;
-  const finalizeOauth: Record<string, string> = {
-    oauth_consumer_key: consumerKey,
-    oauth_nonce: generateOAuthNonce(),
-    oauth_signature_method: 'HMAC-SHA1',
-    oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
-    oauth_token: accessToken,
-    oauth_version: '1.0',
-    command: 'FINALIZE',
-    media_id: mediaId,
-  };
-
-  const finalizeSig = generateOAuthSignature('POST', initUrl, finalizeOauth, consumerSecret, accessTokenSecret);
-  finalizeOauth.oauth_signature = finalizeSig;
-
-  const finalizeRes = await fetch(initUrl, {
-    method: 'POST',
-    headers: {
-      Authorization: buildOAuthHeader(finalizeOauth),
-      'Content-Type': 'application/x-www-form-urlencoded',
-    },
-    body: finalizeParams,
-  });
-
-  if (!finalizeRes.ok) {
-    throw new Error(`Media FINALIZE failed: ${await finalizeRes.text()}`);
-  }
-  console.log('Media FINALIZE done');
-
-  return mediaId;
-}
+// --- X/Twitter OAuth 2.0 ---
 
 async function postToTwitter(text: string, imagePath: string) {
-  if (!process.env.X_CONSUMER_KEY || !process.env.X_ACCESS_TOKEN) {
-    throw new Error('X API credentials not set (X_CONSUMER_KEY, X_ACCESS_TOKEN)');
+  const accessToken = process.env.X_OAUTH2_ACCESS_TOKEN;
+  if (!accessToken) {
+    throw new Error('X_OAUTH2_ACCESS_TOKEN not set');
   }
 
   // Strip hashtags for X (keep it clean)
@@ -435,23 +230,24 @@ async function postToTwitter(text: string, imagePath: string) {
   // X has 280 char limit, truncate if needed
   const tweetText = cleanText.length > 275 ? cleanText.substring(0, 272) + '...' : cleanText;
 
-  let mediaId: string | null = null;
-  if (imagePath && fs.existsSync(imagePath)) {
-    console.log('Uploading media to X...');
-    try {
-      mediaId = await uploadMediaToTwitter(imagePath);
-    } catch (e) {
-      console.warn('Media upload failed, falling back to text-only:', (e as Error).message);
-    }
-  }
-
-  // Post tweet using v2 API
+  // Post tweet using v2 API with OAuth 2.0 Bearer token
   const tweetBody: any = { text: tweetText };
-  if (mediaId) {
-    tweetBody.media = { media_ids: [mediaId] };
+
+  const res = await fetch('https://api.twitter.com/2/tweets', {
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${accessToken}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(tweetBody),
+  });
+
+  const responseText = await res.text();
+  if (!res.ok) {
+    throw new Error(`X API error ${res.status}: ${responseText}`);
   }
 
-  const result = await twitterApiRequest('POST', 'https://api.twitter.com/2/tweets', tweetBody);
+  const result = JSON.parse(responseText);
   console.log(`Tweet published: ${result.data?.id}`);
   return result.data?.id;
 }
