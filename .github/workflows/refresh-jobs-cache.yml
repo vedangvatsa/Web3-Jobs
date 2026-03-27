@@ -62,15 +62,28 @@ jobs:
 
       - name: Fetch RSS feeds and update cache
         run: npx tsx scripts/refresh-jobs-cache.ts
+        continue-on-error: true
 
       - name: Commit and push updated cache and state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Pull latest to avoid push conflicts from concurrent runs
+          git pull --rebase origin main || true
+
+          # Stage all changed state/cache files (ignore missing ones)
           git add --ignore-errors content/jobs-cache.json scripts/social/publish-state.json scripts/social/buffer-refill-state.json 2>/dev/null || true
+
           if git diff --staged --quiet; then
-            echo "No changes"
+            echo "No changes to commit"
           else
             git commit -m "chore: refresh jobs cache + social post [skip ci]"
-            git push
+            # Retry push up to 3 times in case of race conditions
+            for i in 1 2 3; do
+              git push && break
+              echo "Push attempt $i failed, pulling and retrying..."
+              git pull --rebase origin main || true
+              sleep 2
+            done
           fi
