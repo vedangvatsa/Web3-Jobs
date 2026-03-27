@@ -432,7 +432,11 @@ async function postToTwitter(text: string, imagePath: string) {
   let mediaId: string | null = null;
   if (imagePath && fs.existsSync(imagePath)) {
     console.log('Uploading media to X...');
-    mediaId = await uploadMediaToTwitter(imagePath);
+    try {
+      mediaId = await uploadMediaToTwitter(imagePath);
+    } catch (e) {
+      console.warn('Media upload failed, falling back to text-only:', (e as Error).message);
+    }
   }
 
   // Post tweet using v2 API
@@ -461,12 +465,15 @@ async function main() {
   const schedule = loadSchedule();
   const state = loadState();
 
+  // Ensure state file exists for future runs
+  saveState(state);
+
   // Get next post index (round-robin)
   const platformState = state[platform as keyof PublishState];
   const nextIndex = (platformState.lastIndex + 1) % schedule.length;
   const post = schedule[nextIndex];
 
-  // Twitter reuses instagram text (short-form), fallback to instagram
+  // LinkedIn and Instagram are now scheduled via Buffer API (if token provided) or directly
   const textKey = platform === 'twitter' ? 'instagram' : platform;
   const text = post[textKey as 'linkedin' | 'instagram'].text;
   const imagePath = path.resolve(__dirname, '../../', post.image);
@@ -481,7 +488,7 @@ async function main() {
       await postToLinkedIn(text, imagePath);
     } else if (platform === 'instagram') {
       await postToInstagram(text, imagePath);
-    } else {
+    } else if (platform === 'twitter') {
       await postToTwitter(text, imagePath);
     }
 
@@ -496,5 +503,104 @@ async function main() {
     process.exit(1);
   }
 }
+async function scheduleToBuffer(token: string, orgId: string) {
+  const baseUrl = 'https://raw.githubusercontent.com/vedangvatsa123/Web3-Jobs/main/';
+  const graphqlUrl = 'https://api.bufferapp.com/graphql';
 
-main();
+  const query = `
+    query GetProfiles($orgId: String!) {
+      organization(id: $orgId) {
+        profiles {
+          id
+          service
+        }
+      }
+    }
+  `;
+
+  const pRes = await fetch(graphqlUrl, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify({ query, variables: { orgId } }),
+  });
+
+  const pData = await pRes.json();
+  if (pData.errors) throw new Error('GraphQL Errors: ' + JSON.stringify(pData.errors));
+
+  const profiles = pData.data.organization.profiles;
+  const linkedinIds = profiles.filter((p: any) => p.service === 'linkedin').map((p: any) => p.id);
+  const instagramIds = profiles.filter((p: any) => p.service === 'instagram').map((p: any) => p.id);
+
+  console.log('Buffer Profiles Found:', profiles.map((p: any) => `${p.service}:${p.id}`));
+
+  const schedule = JSON.parse(fs.readFileSync(path.join(__dirname, 'content-schedule.json'), 'utf8'));
+
+  // Slots: 1am, 9am, 5pm IST starting Mar 28
+  const times = [
+    new Date('2026-03-28T01:00:00+05:30'),
+    new Date('2026-03-28T09:00:00+05:30'),
+    new Date('2026-03-28T17:00:00+05:30'),
+    new Date('2026-03-29T01:00:00+05:30'),
+    new Date('2026-03-29T09:00:00+05:30'),
+    new Date('2026-03-29T17:00:00+05:30')
+  ];
+
+  const mutation = `
+    mutation CreatePost($input: CreatePostInput!) {
+      createPost(input: $input) {
+        id
+        scheduledAt
+      }
+    }
+  `;
+
+  for (let i = 0; i < schedule.length; i++) {
+    const post = schedule[i];
+    const imageUrl = baseUrl + post.image;
+    const scheduledAt = Math.floor(times[i].getTime() / 1000);
+
+    for (const pid of [...linkedinIds, ...instagramIds]) {
+      const isLI = profiles.find((p: any) => p.id === pid).service === 'linkedin';
+      const text = isLI ? post.linkedin.text : post.instagram.text;
+
+      console.log(`Scheduling ${post.id} for ${pid} at ${times[i].toISOString()}`);
+      const res = await fetch(graphqlUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${token}`,
+        },
+        body: JSON.stringify({
+          query: mutation,
+          variables: {
+            input: {
+              organizationId: orgId,
+              profileIds: [pid],
+              content: {
+                text: text,
+                media: {
+                  picture: imageUrl,
+                  thumbnail: imageUrl
+                }
+              },
+              scheduledAt: scheduledAt
+            }
+          }
+        })
+      });
+      const data = await res.json();
+      console.log('Result:', data.errors ? JSON.stringify(data.errors) : 'Success: ' + data.data.createPost.id);
+    }
+  }
+}
+
+if (process.argv.includes('--buffer')) {
+  const token = process.env.BUFFER_ACCESS_TOKEN || 'WLGVA8tQgQ6lHyM267pKDys4EEN5kls4SAVvO-TTFtB';
+  const orgId = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
+  scheduleToBuffer(token, orgId).catch(console.error);
+} else {
+  main();
+}
