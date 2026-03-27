@@ -31,10 +31,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch RSS feeds and update cache
-        run: npx tsx scripts/refresh-jobs-cache.ts
-
-      - name: Post to X
+      - name: Post to X (runs first so it posts on time)
         env:
           X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
           X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
@@ -49,6 +46,9 @@ jobs:
           BUFFER_ORG_ID: ${{ secrets.BUFFER_ORG_ID }}
         run: npx tsx scripts/social/buffer-refill.ts
         continue-on-error: true
+
+      - name: Fetch RSS feeds and update cache
+        run: npx tsx scripts/refresh-jobs-cache.ts
 
       - name: Commit and push updated cache and state
         run: |
