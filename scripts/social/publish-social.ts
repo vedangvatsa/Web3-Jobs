@@ -546,7 +546,7 @@ async function main() {
 
   // Use platform-specific text: twitter has its own field, falls back to instagram
   let text: string;
-  if (platform === 'twitter' && post.twitter?.text) {
+  if ((platform === 'twitter' || platform === 'bluesky') && post.twitter?.text) {
     text = post.twitter.text;
   } else if (platform === 'instagram') {
     text = post.instagram.text;
