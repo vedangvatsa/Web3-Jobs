@@ -538,7 +538,7 @@ async function main() {
   // Get next post index with platform-specific offset for shuffling
   // This ensures different platforms don't post the same content at the same time
   const platformState = state[platform as keyof PublishState];
-  const offsets: Record<string, number> = { linkedin: 0, instagram: 3, twitter: 6, bluesky: 4 };
+  const offsets: Record<string, number> = { twitter: 0, bluesky: 11, linkedin: 22, instagram: 33 };
   const offset = offsets[platform] || 0;
   const baseIndex = (platformState.lastIndex + 1) % schedule.length;
   const shuffledIndex = (baseIndex + offset) % schedule.length;
