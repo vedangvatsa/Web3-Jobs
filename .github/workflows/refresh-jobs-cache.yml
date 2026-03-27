@@ -1,16 +1,20 @@
-name: Refresh Jobs Cache
+name: Refresh Jobs Cache & Post Social
 
 on:
   schedule:
-    # Every 8 hours: midnight, 8am, 4pm UTC
-    - cron: '0 0,8,16 * * *'
+    # 1 AM IST = 7:30 PM UTC (previous day)
+    - cron: '30 19 * * *'
+    # 9 AM IST = 3:30 AM UTC
+    - cron: '30 3 * * *'
+    # 5 PM IST = 11:30 AM UTC
+    - cron: '30 11 * * *'
   workflow_dispatch:
 
 jobs:
-  refresh-cache:
+  refresh-and-post:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # needed to push updated cache
+      contents: write
 
     steps:
       - name: Checkout code
@@ -30,14 +34,38 @@ jobs:
       - name: Fetch RSS feeds and update cache
         run: npx tsx scripts/refresh-jobs-cache.ts
 
-      - name: Commit and push updated cache
+      - name: Post to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_ORG_ID: ${{ secrets.LINKEDIN_ORG_ID }}
+        run: npx tsx scripts/social/publish-social.ts --platform linkedin
+        continue-on-error: true
+
+      - name: Post to Instagram
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          SOCIAL_IMAGE_BASE_URL: ${{ secrets.SOCIAL_IMAGE_BASE_URL }}
+        run: npx tsx scripts/social/publish-social.ts --platform instagram
+        continue-on-error: true
+
+      - name: Post to X
+        env:
+          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
+          X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: npx tsx scripts/social/publish-social.ts --platform twitter
+        continue-on-error: true
+
+      - name: Commit and push updated cache and state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/jobs-cache.json
+          git add content/jobs-cache.json scripts/social/publish-state.json
           if git diff --staged --quiet; then
-            echo "No changes to jobs cache"
+            echo "No changes"
           else
-            git commit -m "chore: refresh jobs cache [skip ci]"
+            git commit -m "chore: refresh jobs cache + social post [skip ci]"
             git push
           fi
