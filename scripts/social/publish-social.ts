@@ -31,6 +31,7 @@ interface PublishState {
   linkedin: { lastIndex: number; posted: string[] };
   instagram: { lastIndex: number; posted: string[] };
   twitter: { lastIndex: number; posted: string[] };
+  bluesky: { lastIndex: number; posted: string[] };
 }
 
 function loadSchedule(): PostContent[] {
@@ -39,12 +40,15 @@ function loadSchedule(): PostContent[] {
 
 function loadState(): PublishState {
   if (fs.existsSync(STATE_FILE)) {
-    return JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8'));
+    const s = JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8'));
+    if (!s.bluesky) s.bluesky = { lastIndex: -1, posted: [] };
+    return s;
   }
   return {
     linkedin: { lastIndex: -1, posted: [] },
     instagram: { lastIndex: -1, posted: [] },
     twitter: { lastIndex: -1, posted: [] },
+    bluesky: { lastIndex: -1, posted: [] },
   };
 }
 
@@ -452,6 +456,105 @@ async function postToTwitter(text: string, imagePath: string) {
   return result.data?.id;
 }
 
+// --- Bluesky / AT Protocol ---
+
+async function postToBluesky(text: string, imagePath: string) {
+  const handle = process.env.BLUESKY_HANDLE || 'hashtagweb3.bsky.social';
+  const appPassword = process.env.BLUESKY_APP_PASSWORD;
+
+  if (!appPassword) {
+    throw new Error('BLUESKY_APP_PASSWORD not set');
+  }
+
+  // Create session
+  const sessionRes = await fetch('https://bsky.social/xrpc/com.atproto.server.createSession', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ identifier: handle, password: appPassword }),
+  });
+
+  if (!sessionRes.ok) {
+    throw new Error(`Bluesky auth failed: ${await sessionRes.text()}`);
+  }
+
+  const session = await sessionRes.json() as any;
+  const { accessJwt, did } = session;
+  console.log(`Bluesky authenticated as ${did}`);
+
+  // Upload image if exists
+  let imageBlob: any = null;
+  if (imagePath && fs.existsSync(imagePath)) {
+    console.log('Uploading image to Bluesky...');
+    const imageBuffer = fs.readFileSync(imagePath);
+    const uploadRes = await fetch('https://bsky.social/xrpc/com.atproto.repo.uploadBlob', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'image/png',
+        Authorization: `Bearer ${accessJwt}`,
+      },
+      body: new Uint8Array(imageBuffer),
+    });
+
+    if (uploadRes.ok) {
+      const uploadData = await uploadRes.json() as any;
+      imageBlob = uploadData.blob;
+      console.log('Image uploaded to Bluesky');
+    } else {
+      console.warn('Bluesky image upload failed:', await uploadRes.text());
+    }
+  }
+
+  // Parse facets for links
+  const facets: any[] = [];
+  const urlRegex = /(https?:\/\/[^\s]+)/g;
+  let match;
+  while ((match = urlRegex.exec(text)) !== null) {
+    const byteStart = new TextEncoder().encode(text.substring(0, match.index)).length;
+    const byteEnd = byteStart + new TextEncoder().encode(match[0]).length;
+    facets.push({
+      index: { byteStart, byteEnd },
+      features: [{ $type: 'app.bsky.richtext.facet#link', uri: match[0] }],
+    });
+  }
+
+  // Create post record
+  const record: any = {
+    $type: 'app.bsky.feed.post',
+    text,
+    createdAt: new Date().toISOString(),
+  };
+
+  if (facets.length > 0) record.facets = facets;
+
+  if (imageBlob) {
+    record.embed = {
+      $type: 'app.bsky.embed.images',
+      images: [{ alt: 'Web3 Jobs infographic', image: imageBlob }],
+    };
+  }
+
+  const postRes = await fetch('https://bsky.social/xrpc/com.atproto.repo.createRecord', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${accessJwt}`,
+    },
+    body: JSON.stringify({
+      repo: did,
+      collection: 'app.bsky.feed.post',
+      record,
+    }),
+  });
+
+  if (!postRes.ok) {
+    throw new Error(`Bluesky post failed: ${await postRes.text()}`);
+  }
+
+  const postData = await postRes.json() as any;
+  console.log(`Bluesky post published: ${postData.uri}`);
+  return postData.uri;
+}
+
 // --- Main ---
 
 async function main() {
@@ -459,8 +562,8 @@ async function main() {
     ? process.argv[process.argv.indexOf('--platform') + 1]
     : null;
 
-  if (!platform || !['linkedin', 'instagram', 'twitter'].includes(platform)) {
-    console.error('Usage: npx tsx publish-social.ts --platform linkedin|instagram|twitter');
+  if (!platform || !['linkedin', 'instagram', 'twitter', 'bluesky'].includes(platform)) {
+    console.error('Usage: npx tsx publish-social.ts --platform linkedin|instagram|twitter|bluesky');
     process.exit(1);
   }
 
@@ -473,7 +576,7 @@ async function main() {
   // Get next post index with platform-specific offset for shuffling
   // This ensures different platforms don't post the same content at the same time
   const platformState = state[platform as keyof PublishState];
-  const offsets: Record<string, number> = { linkedin: 0, instagram: 3, twitter: 6 };
+  const offsets: Record<string, number> = { linkedin: 0, instagram: 3, twitter: 6, bluesky: 4 };
   const offset = offsets[platform] || 0;
   const baseIndex = (platformState.lastIndex + 1) % schedule.length;
   const shuffledIndex = (baseIndex + offset) % schedule.length;
@@ -502,6 +605,8 @@ async function main() {
       await postToInstagram(text, imagePath);
     } else if (platform === 'twitter') {
       await postToTwitter(text, imagePath);
+    } else if (platform === 'bluesky') {
+      await postToBluesky(text, imagePath);
     }
 
     // Update state — track the base index for round-robin
