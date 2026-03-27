@@ -138,5 +138,75 @@
     "twitter": {
       "text": "DePIN is building physical infrastructure with token incentives.\n\nHelium: 900K+ wireless hotspots. Render: distributed GPU compute. Filecoin: decentralized storage.\n\nThe economics make sense. A Helium hotspot costs $300 and generates yield.\n\nBlockchain meets the real world.\n\nWeb3 Jobs: HashtagWeb3.com"
     }
+  },
+  {
+    "id": "post_11_account_abstraction",
+    "image": "scripts/social/output/generated/chart_account_abstraction.png",
+    "imageUrl": "https://iili.io/qZcXEzl.jpg",
+    "linkedin": {
+      "text": "Account abstraction is the biggest UX upgrade in Ethereum history.\n\nERC-4337 replaces seed phrases with social logins. It lets apps sponsor gas fees so users never see them. It enables multi-signature wallets as defaults, not afterthoughts.\n\nOne billion people are not going to write down 12 words on a piece of paper to use the internet. That was always the bottleneck.\n\nNow the onboarding looks like any other app. Sign in with Google. Spend without thinking about gas. Recover your account through trusted contacts.\n\nThe teams building smart account infrastructure need wallet engineers, SDK developers, and UX designers who understand both Web2 onboarding patterns and on-chain security models.\n\nThis is the bridge from 10 million crypto users to 1 billion.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Account abstraction is the biggest UX upgrade in Ethereum history.\n\nERC-4337 replaces seed phrases with social logins. Apps sponsor gas fees. Multi-sig wallets become the default.\n\nOne billion people are not going to write down 12 words to use the internet.\n\nNow onboarding looks like any other app. Sign in with Google. No gas visible. Account recovery through trusted contacts.\n\nThe teams building this need wallet engineers, SDK developers, and UX designers.\n\nThis is the bridge from 10M crypto users to 1 billion.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ethereum #crypto #blockchain #web3 #technology #tech #programming #developer #coding #innovation"
+    },
+    "twitter": {
+      "text": "Account abstraction is the biggest UX upgrade in Ethereum history.\n\nERC-4337 replaces seed phrases with social logins. Apps sponsor gas. Multi-sig by default.\n\n1 billion people are not writing down 12 words.\n\nThe bridge from 10M to 1B users.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_12_zk_proofs",
+    "image": "scripts/social/output/generated/chart_zk_proofs.png",
+    "imageUrl": "https://iili.io/qZcXSLB.jpg",
+    "linkedin": {
+      "text": "Zero-knowledge proofs are solving Ethereum scaling without compromising security.\n\nzkSync Era handles 2,000 transactions per second. StarkNet does 1,500. Polygon zkEVM does 1,200. Ethereum L1 still does 15.\n\nThat is a 100x difference. And it is increasing every quarter.\n\nZK proofs are mathematically elegant. You can prove you know something without revealing what you know. Applied to blockchains, you can prove thousands of transactions are valid in a single proof that takes seconds to verify.\n\nThe teams building ZK infrastructure need cryptographers, Rust engineers, and circuit designers. These are some of the hardest roles to fill in all of tech.\n\nIf you have a math or cryptography background, ZK is the highest-leverage career move in Web3.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Zero-knowledge proofs are solving Ethereum scaling.\n\nzkSync Era handles 2,000 TPS. StarkNet does 1,500. Polygon zkEVM does 1,200.\n\nEthereum L1 still does 15.\n\n100x difference. Increasing every quarter.\n\nZK proofs let you prove something is true without revealing what you know.\n\nThe teams building this need cryptographers, Rust engineers, and circuit designers.\n\nIf you have a math background, ZK is the highest-leverage move in Web3.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ethereum #crypto #blockchain #technology #web3 #coding #programming #developer #tech #innovation"
+    },
+    "twitter": {
+      "text": "ZK rollups do 2,000 TPS. Ethereum L1 does 15.\n\n100x difference. Increasing every quarter.\n\nProve everything. Reveal nothing.\n\nThe teams building ZK infrastructure need cryptographers and Rust engineers.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_13_restaking",
+    "image": "scripts/social/output/generated/chart_restaking.png",
+    "imageUrl": "https://iili.io/qZcXDLN.jpg",
+    "linkedin": {
+      "text": "EigenLayer went from zero to $25 billion in total value locked in under three years.\n\nRestaking lets you take ETH that is already staked securing Ethereum and use it to simultaneously secure other protocols. Oracle networks. Bridges. Data availability layers. All borrowing Ethereum security.\n\nThis is not double spending. It is double securing. One asset doing the work of many.\n\nNew protocols no longer need to bootstrap their own validator set from scratch. They can rent Ethereum security from day one.\n\nThe teams building restaking protocols need mechanism designers, smart contract engineers, and risk analysts who understand correlated slashing conditions.\n\nThis is the infrastructure layer that most people have not noticed yet.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "EigenLayer went from zero to $25B TVL in under three years.\n\nRestaking lets staked ETH simultaneously secure other protocols. Oracles. Bridges. Data availability layers.\n\nOne asset doing the work of many.\n\nNew protocols rent Ethereum security from day one.\n\nThe teams building this need mechanism designers, smart contract engineers, and risk analysts.\n\nThis is the infrastructure layer most people have not noticed yet.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ethereum #crypto #blockchain #defi #investing #finance #technology #web3 #tech #innovation"
+    },
+    "twitter": {
+      "text": "EigenLayer went from zero to $25B TVL in under 3 years.\n\nRestaking lets staked ETH secure multiple protocols at once. Oracles. Bridges. Data availability.\n\nStake once. Secure everything.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_14_web3_gaming",
+    "image": "scripts/social/output/generated/chart_web3_gaming.png",
+    "imageUrl": "https://iili.io/qZchfQ2.jpg",
+    "linkedin": {
+      "text": "The play-to-earn era is over. The play-and-own era is just beginning.\n\nAxie Infinity has 400,000 monthly active wallets. Illuvium has 250,000. Star Atlas has 180,000. Gods Unchained has 150,000.\n\nThese are not speculative numbers. These are people playing games because the games are actually good.\n\nThe difference from 2022 is that game quality caught up. Studios hired AAA developers. They built games people want to play, not just tokens people want to flip.\n\nWeb3 gaming studios need Unity and Unreal engineers, game economists, and backend developers who understand on-chain asset management.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Play-to-earn is over. Play-and-own is just beginning.\n\nAxie Infinity has 400K monthly active wallets. Illuvium has 250K. Star Atlas has 180K. Gods Unchained has 150K.\n\nThese are people playing because the games are actually good.\n\nStudios hired AAA developers. They built games people want to play.\n\nWeb3 gaming studios need Unity and Unreal engineers, game economists, and backend developers.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #blockchain #gaming #web3 #technology #tech #startup #developer #programming #innovation"
+    },
+    "twitter": {
+      "text": "Play-to-earn died. Play-and-own is thriving.\n\nAxie Infinity has 400K monthly active wallets. Illuvium 250K. Star Atlas 180K.\n\nThe games are actually good now. Studios hired AAA developers.\n\nWeb3 gaming is hiring.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_15_audit",
+    "image": "scripts/social/output/generated/chart_audit.png",
+    "imageUrl": "https://iili.io/qZchzYu.jpg",
+    "linkedin": {
+      "text": "$3.8 billion has been lost to smart contract exploits since 2020.\n\nDeFi hacks account for 52% of that. Bridge exploits are 28%. Rug pulls are 12%. The rest falls into miscellaneous categories.\n\nEvery single one of these was preventable with proper auditing.\n\nSmart contract auditors are now the most in-demand role in all of Web3. The supply is nowhere close to meeting the demand. There are protocols waiting months for an audit slot.\n\nThe path into auditing is straightforward. Learn Solidity. Study common vulnerabilities. Practice on CTF challenges like Ethernaut and Damn Vulnerable DeFi.\n\nSalaries for senior auditors range from $200,000 to $500,000.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "$3.8 billion lost to smart contract exploits since 2020.\n\nDeFi hacks account for 52%. Bridge exploits 28%. Rug pulls 12%.\n\nEvery single exploit was preventable with proper auditing.\n\nSmart contract auditors are now the most in-demand role in Web3. Protocols wait months for audit slots.\n\nLearn Solidity. Study vulnerabilities. Practice CTF challenges.\n\nSenior auditor salaries range from $200K to $500K.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #blockchain #web3 #technology #programming #coding #developer #cybersecurity #tech #software"
+    },
+    "twitter": {
+      "text": "$3.8B lost to smart contract exploits since 2020.\n\n52% DeFi hacks. 28% bridge exploits. 12% rug pulls.\n\nAll preventable with proper auditing.\n\nSmart contract auditors are the most in-demand role in Web3. $200K-$500K salaries.\n\nWeb3 Jobs: HashtagWeb3.com"
+    }
   }
 ]
