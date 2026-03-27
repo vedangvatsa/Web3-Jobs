@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://jobs.lever.co/binance/180831dc-3ea5-4f13-a365-20720d5e4bbc",
+    "title": "Senior Fullstack Engineer (NodeJs/Typescript)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/180831dc-3ea5-4f13-a365-20720d5e4bbc",
+    "date": "2026-03-27T06:22:03.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/d6b7db41-749d-4f14-80ea-3bad022e747e",
+    "title": "Senior iOS Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/d6b7db41-749d-4f14-80ea-3bad022e747e",
+    "date": "2026-03-27T06:10:50.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/5a34d855-b30f-4ff1-995e-bc8cae82d300",
+    "title": "Web3 Security Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5a34d855-b30f-4ff1-995e-bc8cae82d300",
+    "date": "2026-03-27T05:55:50.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/780ee52c-8595-4467-b4a6-394ac5887c67",
+    "title": "Strategy & Operations - LATAM",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/780ee52c-8595-4467-b4a6-394ac5887c67",
+    "date": "2026-03-27T03:28:58.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "7489930",
+    "title": "Senior Software Developer, Ops Platform and Fraud Investigations",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7489930?t=gh_src=&gh_jid=7489930",
+    "date": "2026-03-26T23:26:10-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
+    "title": "Lead Security Engineer (AI Security, DeFi, Self Custody)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
+    "date": "2026-03-27T03:10:44.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "7739577",
+    "title": "Staff Technical Program Manager",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7739577?t=gh_src=&gh_jid=7739577",
+    "date": "2026-03-26T21:04:53-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/4bc0318e-3687-4fbb-b12f-41d36b3492e7?lever-source%5B%5D=jobs.a16z.com",
+    "title": "GL Accounting Manager",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/4bc0318e-3687-4fbb-b12f-41d36b3492e7?lever-source%5B%5D=jobs.a16z.com",
+    "date": "2026-03-27T00:58:04.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.lever.co/Hivemapper/69b4f681-d6d5-4ebb-b059-fee83971ea80?lever-source%5B%5D=jobs.panteracapital.com",
+    "title": "Senior Software Engineer (San Francisco, CA)",
+    "company": "Hivemapper",
+    "link": "https://jobs.lever.co/Hivemapper/69b4f681-d6d5-4ebb-b059-fee83971ea80?lever-source%5B%5D=jobs.panteracapital.com",
+    "date": "2026-03-27T00:27:23.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/nexus.xyz/510ddf6d-4a55-449d-9a70-1e7297bba943?utm_source=jobs.panteracapital.com",
+    "title": "Backend Engineer (Contract - LATAM)",
+    "company": "Nexus",
+    "link": "https://jobs.ashbyhq.com/nexus.xyz/510ddf6d-4a55-449d-9a70-1e7297bba943?utm_source=jobs.panteracapital.com",
+    "date": "2026-03-27T00:12:23.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
     "id": "8482326002",
     "title": "Senior Software Engineer - Post Trade",
     "company": "BitGo",
@@ -10,6 +90,14 @@
   {
     "id": "4829946",
     "title": "Software Engineer - Infrastructure",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/4829946?t=gh_src=&gh_jid=4829946",
+    "date": "2026-03-26T19:12:18-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "4829946",
+    "title": "Software Developer, Infrastructure",
     "company": "Robinhood",
     "link": "https://boards.greenhouse.io/robinhood/jobs/4829946?t=gh_src=&gh_jid=4829946",
     "date": "2026-03-26T19:12:18-04:00",
@@ -742,6 +830,14 @@
     "link": "https://jobs.lever.co/binance/517f9531-86cc-4260-924f-6240e4bf8b36",
     "date": "2026-03-26T05:11:35.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "7750452",
+    "title": "Analyst, Global Investigations",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7750452?gh_jid=7750452",
+    "date": "2026-03-26T01:11:15-04:00",
+    "source": "Greenhouse: Ripple"
   },
   {
     "id": "https://jobs.lever.co/binance/d5591e60-0d81-4e51-9f7c-4f1f5c8709f0",
@@ -1509,6 +1605,14 @@
     "company": "Babylon Labs",
     "link": "https://babylonlabs.io/job-listings/devops-engineer",
     "date": "2026-03-24T06:35:39.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://babylonlabs.io/job-listings/lead-security-engineer",
+    "title": "Lead Security Engineer",
+    "company": "Babylon Labs",
+    "link": "https://babylonlabs.io/job-listings/lead-security-engineer",
+    "date": "2026-03-24T06:20:39.000Z",
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
@@ -2309,6 +2413,14 @@
     "company": "Uniswap",
     "link": "https://jobs.ashbyhq.com/uniswap/f475ea4a-b8be-442a-b8e2-9a6003d1a51a?utm_source=jobs.a16z.com",
     "date": "2026-03-19T09:16:16.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/uniswap/c9fe612e-7c29-47a4-b2a3-2a9d1185f5ef?utm_source=jobs.a16z.com",
+    "title": "Senior Frontend Infrastructure Engineer",
+    "company": "Uniswap",
+    "link": "https://jobs.ashbyhq.com/uniswap/c9fe612e-7c29-47a4-b2a3-2a9d1185f5ef?utm_source=jobs.a16z.com",
+    "date": "2026-03-19T09:01:16.000Z",
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
@@ -3581,6 +3693,14 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/f141da32-c606-420e-97c2-f3ad2948b8f6",
     "date": "2026-03-13T01:32:32.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/5c3e024d-99d6-4bb3-b63b-1dcf57a00bf2",
+    "title": "Graphic Designer, Europe",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5c3e024d-99d6-4bb3-b63b-1dcf57a00bf2",
+    "date": "2026-03-13T01:26:06.000Z",
     "source": "Binance"
   },
   {
@@ -5184,6 +5304,14 @@
     "source": "Greenhouse: Ripple"
   },
   {
+    "id": "7646353",
+    "title": "Senior Ecosystem Growth Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7646353?gh_jid=7646353",
+    "date": "2026-02-27T11:26:01-05:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
     "id": "7536920",
     "title": "Product Manager, Crypto Trading",
     "company": "Robinhood",
@@ -5358,29 +5486,5 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7637584?t=gh_src=&gh_jid=7637584",
     "date": "2026-02-25T08:18:55-05:00",
     "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7646320",
-    "title": "LATAM Communications Manager",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7646320?gh_jid=7646320",
-    "date": "2026-02-24T23:59:47-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7648536",
-    "title": "Vice President, Product Marketing",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7648536?gh_jid=7648536",
-    "date": "2026-02-24T21:04:26-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7603746",
-    "title": "Senior Software Engineer - Staking Orchestration",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7603746?gh_jid=7603746",
-    "date": "2026-02-24T20:52:04-05:00",
-    "source": "Greenhouse: Coinbase"
   }
 ]
