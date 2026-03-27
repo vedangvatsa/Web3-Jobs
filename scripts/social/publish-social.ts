@@ -356,20 +356,24 @@ async function uploadMediaToX(imagePath: string): Promise<string> {
   return mediaId;
 }
 
-// --- X/Twitter post (OAuth 2.0 for tweets, OAuth 1.0a for media) ---
+// --- X/Twitter post (OAuth 1.0a for both tweets and media) ---
 
 async function postToTwitter(text: string, imagePath: string) {
-  const accessToken = process.env.X_OAUTH2_ACCESS_TOKEN;
-  if (!accessToken) {
-    throw new Error('X_OAUTH2_ACCESS_TOKEN not set');
+  const consumerKey = process.env.X_CONSUMER_KEY;
+  const consumerSecret = process.env.X_CONSUMER_SECRET;
+  const oauthToken = process.env.X_ACCESS_TOKEN;
+  const oauthTokenSecret = process.env.X_ACCESS_TOKEN_SECRET;
+
+  if (!consumerKey || !consumerSecret || !oauthToken || !oauthTokenSecret) {
+    throw new Error('X API credentials not set (X_CONSUMER_KEY, X_CONSUMER_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET)');
   }
 
   // Strip hashtags for X (keep it clean)
   const tweetText = text.replace(/#\w+/g, '').trim();
 
-  // Upload image if available (uses OAuth 1.0a keys)
+  // Upload image if available
   let mediaId: string | null = null;
-  if (imagePath && fs.existsSync(imagePath) && process.env.X_CONSUMER_KEY) {
+  if (imagePath && fs.existsSync(imagePath)) {
     console.log('Uploading media to X...');
     try {
       mediaId = await uploadMediaToX(imagePath);
@@ -378,16 +382,27 @@ async function postToTwitter(text: string, imagePath: string) {
     }
   }
 
-  // Post tweet using v2 API with OAuth 2.0
+  // Post tweet using v2 API with OAuth 1.0a
   const tweetBody: any = { text: tweetText };
   if (mediaId) {
     tweetBody.media = { media_ids: [mediaId] };
   }
 
-  const res = await fetch('https://api.twitter.com/2/tweets', {
+  const tweetUrl = 'https://api.twitter.com/2/tweets';
+  const oauthParams: Record<string, string> = {
+    oauth_consumer_key: consumerKey,
+    oauth_nonce: generateOAuthNonce(),
+    oauth_signature_method: 'HMAC-SHA1',
+    oauth_timestamp: Math.floor(Date.now() / 1000).toString(),
+    oauth_token: oauthToken,
+    oauth_version: '1.0',
+  };
+  oauthParams.oauth_signature = generateOAuthSignature('POST', tweetUrl, oauthParams, consumerSecret, oauthTokenSecret);
+
+  const res = await fetch(tweetUrl, {
     method: 'POST',
     headers: {
-      'Authorization': `Bearer ${accessToken}`,
+      'Authorization': buildOAuthHeader(oauthParams),
       'Content-Type': 'application/json',
     },
     body: JSON.stringify(tweetBody),
