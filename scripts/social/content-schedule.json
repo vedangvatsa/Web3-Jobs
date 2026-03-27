@@ -351,5 +351,135 @@
     "twitter": {
       "text": "A billion people are not writing down 12 words on paper.\n\nAccount abstraction changes everything. Social recovery. Gas sponsorship.\n\nERC-4337 is the biggest UX upgrade in blockchain history.\n\nHashtagWeb3.com"
     }
+  },
+  {
+    "id": "post_27_regulation",
+    "image": "scripts/social/output/generated/post_regulation.png",
+    "linkedin": {
+      "text": "Crypto regulation is going global.\n\nUS: SEC finally providing clarity on token classification.\nEU: MiCA went live — the world's first comprehensive crypto framework.\nUAE: VARA is attracting builders from everywhere.\n\nRegulation is not the enemy. Ambiguity is.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Crypto regulation is going global.\n\nUS: SEC clarity. EU: MiCA live. UAE: VARA framework.\n\nRegulation is not the enemy. Ambiguity is.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#crypto #regulation #policy #web3 #blockchain"
+    },
+    "twitter": {
+      "text": "Crypto regulation is going global.\n\nUS: SEC clarity\nEU: MiCA live\nUAE: VARA framework\n\nRegulation is not the enemy. Ambiguity is.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_28_vc_funding",
+    "image": "scripts/social/output/generated/post_vc_funding.png",
+    "linkedin": {
+      "text": "Web3 VC funding is back.\n\n$10.2B was invested in Q1 2026 alone — the highest since Q2 2022.\n\nInfrastructure, AI agents, and DePIN are the hottest categories. The bear market culled the tourists. The builders stayed.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Web3 VC funding is back.\n\n$10.2B invested in Q1 2026 — highest since 2022.\n\nInfra, AI agents, and DePIN lead the way.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#web3 #vc #funding #startups #crypto"
+    },
+    "twitter": {
+      "text": "Web3 VC funding is back.\n\n$10.2B invested in Q1 2026 — highest since 2022.\n\nInfra, AI agents, and DePIN lead the way. The bear market culled the tourists.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_29_stablecoin_visa",
+    "image": "scripts/social/output/generated/post_stablecoin_visa.png",
+    "linkedin": {
+      "text": "Stablecoins settled $12 trillion in 2025.\n\nVisa processed $14 trillion.\n\nA permissionless network with no employees is about to overtake the largest payment company on earth. And nobody in traditional finance is talking about it.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Stablecoins: $12T annual volume.\nVisa: $14T annual volume.\n\nA permissionless network is catching the world's largest payment company.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#stablecoin #crypto #payments #finance #web3"
+    },
+    "twitter": {
+      "text": "Stablecoins: $12T settled in 2025.\nVisa: $14T.\n\nA permissionless network with zero employees is about to overtake the largest payment company on earth.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_30_tradfi",
+    "image": "scripts/social/output/generated/post_tradfi.png",
+    "linkedin": {
+      "text": "BlackRock. JPMorgan. Goldman Sachs. Franklin Templeton.\n\nTradFi is not just investing in crypto anymore. They are building on it. Tokenized funds. On-chain settlement. Smart contract infrastructure.\n\nThe question is no longer 'if blockchain' but 'which chain.'\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "BlackRock. JPMorgan. Goldman Sachs. Franklin Templeton.\n\nTradFi is building on blockchain now.\n\nThe question is no longer 'if' but 'which chain.'\n\nWeb3 Jobs: HashtagWeb3.com\n\n#tradfi #blockchain #crypto #finance #web3"
+    },
+    "twitter": {
+      "text": "BlackRock. JPMorgan. Goldman Sachs. Franklin Templeton.\n\nTradFi is building on blockchain now.\n\nThe question is no longer 'if' but 'which chain.'\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_31_dao_governance",
+    "image": "scripts/social/output/generated/post_dao_governance.png",
+    "linkedin": {
+      "text": "30,000 people governed Uniswap last week.\n\nNo board of directors. No CEO. No corporate office. Just token holders voting on protocol upgrades from New York, Mumbai, Tokyo, and everywhere in between.\n\nThis is what governance looks like in 2026.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "30,000 people governed Uniswap last week.\n\nNo board. No CEO. Just token holders voting worldwide.\n\nThis is governance in 2026.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#dao #governance #uniswap #web3 #decentralization"
+    },
+    "twitter": {
+      "text": "30,000 people governed Uniswap last week.\n\nNo board. No CEO. Just token holders.\n\nThis is governance in 2026.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_32_zk_privacy",
+    "image": "scripts/social/output/generated/post_zk_privacy.png",
+    "linkedin": {
+      "text": "Privacy is the next frontier of crypto.\n\nZK proofs prove everything. Reveal nothing. You can verify identity without exposing data. Prove solvency without showing balances. Confirm compliance without giving up privacy.\n\nThis is not about hiding. It is about control.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Privacy is the next frontier of crypto.\n\nZK proofs prove everything. Reveal nothing.\n\nThis is not about hiding. It is about control.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#privacy #zk #crypto #blockchain #web3"
+    },
+    "twitter": {
+      "text": "Privacy is the next frontier of crypto.\n\nZK proofs prove everything. Reveal nothing.\n\nThis is not about hiding. It is about control.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_33_web3_gaming",
+    "image": "scripts/social/output/generated/post_web3_gaming.png",
+    "linkedin": {
+      "text": "7 million gamers play on-chain every day.\n\nFor the first time, your in-game items are actually yours. Trade them across games. Sell them on marketplaces. Keep them forever.\n\nThe $200B gaming industry is being rebuilt with real ownership.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "7M gamers play on-chain every day.\n\nYour in-game items are finally yours. Trade them. Sell them. Keep them forever.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#gaming #web3 #nft #blockchain #gamers"
+    },
+    "twitter": {
+      "text": "7M gamers play on-chain every day.\n\nYour in-game items are finally yours. Trade them. Sell them. Keep them forever.\n\nThe $200B gaming industry is being rebuilt.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_34_digital_identity",
+    "image": "scripts/social/output/generated/post_digital_identity.png",
+    "linkedin": {
+      "text": "Your identity will live on-chain.\n\nOwn your credentials. Share what you choose. A verifiable resume that no recruiter can question. Education, employment, KYC — all portable, all sovereign.\n\nThis changes hiring forever.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Your identity will live on-chain.\n\nOwn your credentials. Share what you choose.\n\nVerifiable resumes. Portable KYC. Sovereign identity.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#identity #blockchain #web3 #credentials #future"
+    },
+    "twitter": {
+      "text": "Your identity will live on-chain.\n\nOwn your credentials. Share what you choose.\n\nVerifiable resumes. Portable KYC. Sovereign identity.\n\nThis changes hiring forever.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_35_depin_infra",
+    "image": "scripts/social/output/generated/post_depin_infra.png",
+    "linkedin": {
+      "text": "DePIN is a $25 billion network that no one owns.\n\nHelium provides wireless. Filecoin stores data. Render powers GPUs. Hivemapper builds maps. All tokenized. All decentralized.\n\nPhysical infrastructure built by the crowd, for the crowd.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "DePIN: The $25B network no one owns.\n\nHelium: wireless. Filecoin: storage. Render: GPUs. Hivemapper: maps.\n\nPhysical infrastructure, tokenized.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#depin #crypto #blockchain #infrastructure #web3"
+    },
+    "twitter": {
+      "text": "DePIN: The $25B network no one owns.\n\nHelium: wireless. Filecoin: storage. Render: GPUs. Hivemapper: maps.\n\nPhysical infrastructure, tokenized.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_36_founder_meme",
+    "image": "scripts/social/output/generated/post_founder_meme.png",
+    "linkedin": {
+      "text": "2022: 'It is like Uber but on blockchain.'\n2026: 'Our protocol generates $50M ARR.'\n\nThe Web3 founders who survived the bear market did not pivot. They shipped. Now they have revenue, users, and real products.\n\nThe best time to build in Web3 was 2022. The second-best time is now.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "2022: 'It's like Uber but on blockchain.'\n2026: 'Our protocol generates $50M ARR.'\n\nThe founders who survived the bear shipped real products.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#web3 #startup #founder #crypto #building"
+    },
+    "twitter": {
+      "text": "2022: 'It's like Uber but on blockchain.'\n2026: 'Our protocol generates $50M ARR.'\n\nThe founders who survived the bear shipped real products.\n\nHashtagWeb3.com"
+    }
   }
 ]
