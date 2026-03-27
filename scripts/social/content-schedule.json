@@ -208,5 +208,148 @@
     "twitter": {
       "text": "$3.8B lost to smart contract exploits since 2020.\n\n52% DeFi hacks. 28% bridge exploits. 12% rug pulls.\n\nAll preventable with proper auditing.\n\nSmart contract auditors are the most in-demand role in Web3. $200K-$500K salaries.\n\nWeb3 Jobs: HashtagWeb3.com"
     }
+  },
+  {
+    "id": "post_16_defi_tvl",
+    "image": "scripts/social/output/generated/post_defi_tvl.png",
+    "linkedin": {
+      "text": "DeFi TVL is back above $180 billion.\n\nLido leads with $33B. Aave at $18B. EigenLayer at $15B. Maker at $9B.\n\nThe protocols that survived the bear market are the ones generating real revenue now.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "DeFi TVL is back above $180 billion.\n\nLido leads with $33B. Aave at $18B. EigenLayer at $15B.\n\nThe protocols that survived the bear built real businesses.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#defi #crypto #blockchain #web3 #technology"
+    },
+    "twitter": {
+      "text": "DeFi TVL is back above $180B.\n\nLido $33B. Aave $18B. EigenLayer $15B.\n\nThe bear market survivors are now the revenue leaders.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_17_eth_staking",
+    "image": "scripts/social/output/generated/post_eth_staking.png",
+    "linkedin": {
+      "text": "28% of all ETH is now staked.\n\nThat is 34.2 million ETH locked by over 1 million validators.\n\nEthereum has become the most decentralized proof-of-stake network in existence. No other chain comes close.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "28% of all ETH is now staked.\n\n34.2M ETH locked. 1M+ validators.\n\nThe most decentralized PoS network in existence.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ethereum #crypto #staking #blockchain #web3"
+    },
+    "twitter": {
+      "text": "28% of all ETH is now staked.\n\n34.2M ETH locked. 1M+ validators.\n\nNo other chain comes close to this level of decentralization.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_18_web3_salaries",
+    "image": "scripts/social/output/generated/post_web3_salaries.png",
+    "linkedin": {
+      "text": "Web3 developer salaries remain 20-40% above Web2 equivalents.\n\nSecurity auditors lead at $200K. Solidity developers at $185K. Rust engineers at $175K. Full-stack developers at $155K.\n\nThe talent shortage is real. The premiums reflect it.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Web3 dev salaries are 20-40% above Web2.\n\nSecurity auditors: $200K. Solidity: $185K. Rust: $175K. Full-stack: $155K.\n\nThe talent shortage is real.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#web3 #crypto #developer #salaries #careers"
+    },
+    "twitter": {
+      "text": "Web3 dev salaries are 20-40% above Web2.\n\nSecurity auditors: $200K\nSolidity: $185K\nRust: $175K\nFull-stack: $155K\n\nThe talent shortage is real.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_19_btc_etf",
+    "image": "scripts/social/output/generated/post_btc_etf_aum.png",
+    "linkedin": {
+      "text": "Bitcoin ETFs now hold over $120 billion in assets.\n\nBlackRock controls 46%. Fidelity has 17%. Grayscale at 15%.\n\nTwo years ago, Wall Street managing Bitcoin funds was unthinkable. Now they manage more than most sovereign wealth funds.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Bitcoin ETFs crossed $120B in assets.\n\nBlackRock 46%. Fidelity 17%. Grayscale 15%.\n\nWall Street is fully in.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#bitcoin #crypto #etf #investing #finance"
+    },
+    "twitter": {
+      "text": "Bitcoin ETFs now hold $120B+ in assets.\n\nBlackRock: 46%. Fidelity: 17%. Grayscale: 15%.\n\nWall Street is fully in.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_20_ai_onchain",
+    "image": "scripts/social/output/generated/post_ai_onchain.png",
+    "linkedin": {
+      "text": "The Solana Foundation projects that 99% of on-chain transactions will come from AI agents within two years.\n\nThe blockchain users of tomorrow are not human. They are software.\n\nThe teams building agent infrastructure need engineers who understand both ML and smart contracts.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "99% of on-chain transactions will come from AI agents.\n\nThe blockchain users of tomorrow are not human. They are software.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ai #crypto #blockchain #web3 #technology"
+    },
+    "twitter": {
+      "text": "99% of on-chain transactions will come from AI agents.\n\nThe blockchain users of tomorrow are not human. They are software.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_21_future_work",
+    "image": "scripts/social/output/generated/post_future_work.png",
+    "linkedin": {
+      "text": "The future of work is on-chain.\n\nNo office. No borders. No middlemen. Smart contracts replace HR paperwork. DAOs pay contributors in real-time.\n\nThis is not a prediction. It is already happening at hundreds of Web3 organizations.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "The future of work is on-chain.\n\nNo office. No borders. No middlemen.\nSmart contracts replace HR paperwork.\nDAOs pay contributors in real-time.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#web3 #future #remote #dao #blockchain"
+    },
+    "twitter": {
+      "text": "The future of work is on-chain.\n\nNo office. No borders. No middlemen.\nSmart contracts replace HR.\nDAOs pay in real-time.\n\nThis is already happening.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_22_smart_contracts",
+    "image": "scripts/social/output/generated/post_smart_contract_jobs.png",
+    "linkedin": {
+      "text": "In 10 years, your employment contract will be a smart contract.\n\nPayments. Equity. Benefits. All programmable. All transparent. All enforceable without lawyers.\n\nThe future of work is being written in Solidity.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "In 10 years, your employment contract will be a smart contract.\n\nPayments. Equity. Benefits. All programmable.\n\nThe future of work is being written in Solidity.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#web3 #smartcontracts #future #blockchain #career"
+    },
+    "twitter": {
+      "text": "In 10 years, your employment contract will be a smart contract.\n\nPayments. Equity. Benefits. All programmable.\n\nThe future of work is being written in Solidity.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_23_ai_crypto",
+    "image": "scripts/social/output/generated/post_ai_crypto.png",
+    "linkedin": {
+      "text": "AI without crypto is surveillance. Crypto without AI is speculation.\n\nTogether, they build autonomous economies where agents transact, govern, and create value without human intervention.\n\nThis intersection is the fastest-growing career category in Web3.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "AI without crypto is surveillance.\nCrypto without AI is speculation.\n\nTogether, they build autonomous economies.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ai #crypto #blockchain #web3 #technology #future"
+    },
+    "twitter": {
+      "text": "AI without crypto is surveillance.\nCrypto without AI is speculation.\n\nTogether, they build autonomous economies.\n\nThis intersection is the fastest-growing career category in Web3.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_24_web2_web3_meme",
+    "image": "scripts/social/output/generated/post_web2_web3_meme.png",
+    "linkedin": {
+      "text": "Web2 developer at 3 AM: Debugging a serverless function on AWS while the on-call pager screams.\n\nWeb3 developer at 3 AM: Deploying a smart contract from a beach in Bali while staking rewards compound.\n\nThe lifestyle upgrade is real. The roles are open.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "Web2 dev: Debugging AWS at 3 AM.\nWeb3 dev: Deploying from Bali.\n\nThe lifestyle upgrade is real.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#web3 #developer #remotework #crypto #meme"
+    },
+    "twitter": {
+      "text": "Web2 dev: Debugging AWS at 3 AM.\nWeb3 dev: Deploying a smart contract from Bali.\n\nThe lifestyle upgrade is real. The roles are open.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_25_trustless",
+    "image": "scripts/social/output/generated/post_trustless_future.png",
+    "linkedin": {
+      "text": "The handshake of tomorrow is trustless.\n\nNo intermediaries. No counterparty risk. Just code executing exactly as written.\n\nSmart contracts do not take days off. They do not lose paperwork. They do not play favorites.\n\nThe teams building this need engineers who think in systems, not features.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "The handshake of tomorrow is trustless.\n\nNo intermediaries. No counterparty risk. Just code.\n\nSmart contracts do not take days off. They do not lose paperwork.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#web3 #smartcontracts #blockchain #future #tech"
+    },
+    "twitter": {
+      "text": "The handshake of tomorrow is trustless.\n\nNo intermediaries. No counterparty risk. Just code.\n\nSmart contracts don't take days off. They don't lose paperwork.\n\nHashtagWeb3.com"
+    }
+  },
+  {
+    "id": "post_26_seed_phrase",
+    "image": "scripts/social/output/generated/post_seed_phrase_meme.png",
+    "linkedin": {
+      "text": "We are not going to onboard a billion users by asking them to write down 12 words on a piece of paper.\n\nAccount abstraction changes everything. Social recovery. Gas sponsorship. One-click onboarding.\n\nERC-4337 is the most important UX upgrade in blockchain history.\n\nWeb3 Jobs: HashtagWeb3.com"
+    },
+    "instagram": {
+      "text": "A billion people are not going to write down seed phrases.\n\nAccount abstraction changes everything. Social recovery. Gas sponsorship.\n\nERC-4337 is the biggest UX upgrade in blockchain history.\n\nWeb3 Jobs: HashtagWeb3.com\n\n#ethereum #crypto #ux #blockchain #web3"
+    },
+    "twitter": {
+      "text": "A billion people are not writing down 12 words on paper.\n\nAccount abstraction changes everything. Social recovery. Gas sponsorship.\n\nERC-4337 is the biggest UX upgrade in blockchain history.\n\nHashtagWeb3.com"
+    }
   }
 ]
