@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://coinbase.getro.com/companies/certora/jobs/72574587-web3-security-researcher-est-to-gmt-4#content",
+    "title": "Web3 Security Researcher (EST to GMT+4)",
+    "company": "Certora",
+    "link": "https://coinbase.getro.com/companies/certora/jobs/72574587-web3-security-researcher-est-to-gmt-4#content",
+    "date": "2026-03-29T19:57:01.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/certora/jobs/72574586-senior-formal-verification-researcher-est-to-gmt-4#content",
+    "title": "Senior Formal Verification Researcher (EST to GMT+4)",
+    "company": "Certora",
+    "link": "https://coinbase.getro.com/companies/certora/jobs/72574586-senior-formal-verification-researcher-est-to-gmt-4#content",
+    "date": "2026-03-29T19:42:01.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/13cca503-9f07-43a1-a585-f372801399bc/",
+    "title": "Business Development Manager (Card Payments)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/13cca503-9f07-43a1-a585-f372801399bc/",
+    "date": "2026-03-29T15:43:14.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/4998a6bb-605e-4115-ba61-37ec7434ae11/",
+    "title": "Business Development Manager (New Bets)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/4998a6bb-605e-4115-ba61-37ec7434ae11/",
+    "date": "2026-03-29T15:28:14.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.gem.com/ondo-finance/am9icG9zdDpS5VU_TnKCc6ivTilqcLHB?utm_source=jobs.panteracapital.com",
+    "title": "QA Engineer, Web / Frontend",
+    "company": "Ondo Finance",
+    "link": "https://jobs.gem.com/ondo-finance/am9icG9zdDpS5VU_TnKCc6ivTilqcLHB?utm_source=jobs.panteracapital.com",
+    "date": "2026-03-29T06:47:49.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
     "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/72544669-product-manager#content",
     "title": "Product Manager",
     "company": "Coinflow Labs",
@@ -102,6 +142,14 @@
     "link": "https://jobs.ashbyhq.com/noise-labs/57a0a14a-5433-42cb-8a51-e2fc4ec07f11?utm_source=jobs.paradigm.xyz",
     "date": "2026-03-28T22:00:11.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.a16z.com/jobs/mem-protocol/278de380-5b2e-4b78-a86d-6cd03db0df4c",
+    "title": "Platform Engineer",
+    "company": "Mem Protocol",
+    "link": "https://jobs.a16z.com/jobs/mem-protocol/278de380-5b2e-4b78-a86d-6cd03db0df4c",
+    "date": "2026-03-28T21:53:15.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://www.revolut.com/en-US/careers/position/fb84cd09-2cd3-45c1-b260-8d4860542a83/",
@@ -438,6 +486,14 @@
     "link": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
     "date": "2026-03-27T03:10:44.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "7742944",
+    "title": "Senior Ecosystem Growth Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7742944?gh_jid=7742944",
+    "date": "2026-03-26T22:14:36-04:00",
+    "source": "Greenhouse: Ripple"
   },
   {
     "id": "7739577",
@@ -5734,45 +5790,5 @@
     "link": "https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231",
     "date": "2026-02-27T15:03:44-05:00",
     "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7659458",
-    "title": "Staff Software Engineer, Backend (Consumer- Retail Cash)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7659458?gh_jid=7659458",
-    "date": "2026-02-27T13:28:51-05:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7647372",
-    "title": "Lead Technical Recruiter (Quant Engineering)",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7647372?gh_jid=7647372",
-    "date": "2026-02-27T12:21:51-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7646353",
-    "title": "Senior Ecosystem Growth Manager",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7646353?gh_jid=7646353",
-    "date": "2026-02-27T11:26:01-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7536920",
-    "title": "Product Manager, Crypto Trading",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7536920?t=gh_src=&gh_jid=7536920",
-    "date": "2026-02-27T08:39:07-05:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7489246",
-    "title": "Engineering Manager",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246",
-    "date": "2026-02-27T08:32:44-05:00",
-    "source": "Greenhouse: Robinhood"
   }
 ]
