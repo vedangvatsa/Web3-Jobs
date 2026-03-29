@@ -88,6 +88,30 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
+    "id": "https://jobs.a16z.com/jobs/mem-protocol/53638975-fff4-499a-96c6-6761b93c29c8",
+    "title": "Researcher",
+    "company": "Mem Protocol",
+    "link": "https://jobs.a16z.com/jobs/mem-protocol/53638975-fff4-499a-96c6-6761b93c29c8",
+    "date": "2026-03-29T00:52:09.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/noise-labs/57a0a14a-5433-42cb-8a51-e2fc4ec07f11?utm_source=jobs.paradigm.xyz",
+    "title": "Content Swiss Army Knife",
+    "company": "Noise",
+    "link": "https://jobs.ashbyhq.com/noise-labs/57a0a14a-5433-42cb-8a51-e2fc4ec07f11?utm_source=jobs.paradigm.xyz",
+    "date": "2026-03-28T22:00:11.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/fb84cd09-2cd3-45c1-b260-8d4860542a83/",
+    "title": "Field Sales Representative (Irish Market)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/fb84cd09-2cd3-45c1-b260-8d4860542a83/",
+    "date": "2026-03-28T21:45:11.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/72460860-senior-product-manager-privacy#content",
     "title": "Senior Product Manager, Privacy",
     "company": "Spindl",
@@ -1974,6 +1998,14 @@
     "link": "https://jobs.lever.co/binance/d4cf3b07-df55-437a-9677-8e1f9de9724f",
     "date": "2026-03-24T07:09:51.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "https://babylonlabs.io/job-listings/senior-business-development-manager",
+    "title": "Senior Business Development Manager",
+    "company": "Babylon Labs",
+    "link": "https://babylonlabs.io/job-listings/senior-business-development-manager",
+    "date": "2026-03-24T06:50:39.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "http://veem.applytojob.com/apply/eFHYwPsQ7t/Senior-Fullstack-Developer",
@@ -5742,13 +5774,5 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7489246?t=gh_src=&gh_jid=7489246",
     "date": "2026-02-27T08:32:44-05:00",
     "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/monad.foundation/6366a8f2-34ca-426a-a456-c5f6fed91c80?utm_source=jobs.shima.capital",
-    "title": "DeFi Specialist",
-    "company": "Monad Foundation",
-    "link": "https://jobs.ashbyhq.com/monad.foundation/6366a8f2-34ca-426a-a456-c5f6fed91c80?utm_source=jobs.shima.capital",
-    "date": "2026-02-27T09:57:20.000Z",
-    "source": "Jobs at Shima Capital Companies | Shima Capital"
   }
 ]
