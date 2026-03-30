@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://coinbase.getro.com/companies/certora/jobs/72645179-cryptographic-security-researcher-est-to-gmt-4#content",
+    "title": "Cryptographic Security Researcher (EST to GMT+4)",
+    "company": "Certora",
+    "link": "https://coinbase.getro.com/companies/certora/jobs/72645179-cryptographic-security-researcher-est-to-gmt-4#content",
+    "date": "2026-03-30T20:07:09.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/li-fi-2/jobs/72674237-lead-security-architect#content",
+    "title": "Lead Security Architect",
+    "company": "LI.FI",
+    "link": "https://jobs.solana.com/companies/li-fi-2/jobs/72674237-lead-security-architect#content",
+    "date": "2026-03-30T20:07:07.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72622549-ai-security-engineer#content",
+    "title": "AI Security Engineer",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72622549-ai-security-engineer#content",
+    "date": "2026-03-30T19:52:09.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "7754299",
+    "title": "Staff Security Engineer, Application Security",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7754299?t=gh_src=&gh_jid=7754299",
+    "date": "2026-03-30T15:10:58-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/d0f2cada-8d1a-4655-bc18-486444475233",
+    "title": "Junior Business Development Payment Operations - LATAM Region",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/d0f2cada-8d1a-4655-bc18-486444475233",
+    "date": "2026-03-30T19:05:15.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://www.comeet.com/jobs/starkware/C6.00E/global-hr-director/F5.860",
+    "title": "Global HR Director",
+    "company": "StarkWare",
+    "link": "https://www.comeet.com/jobs/starkware/C6.00E/global-hr-director/F5.860",
+    "date": "2026-03-30T18:44:51.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/mesh/jobs/5169473008",
+    "title": "Security Operations Engineer",
+    "company": "Mesh",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5169473008",
+    "date": "2026-03-30T18:29:51.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTU5MCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "title": "Senior Software Engineer - 2 ( Frontend )",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTU5MCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+    "date": "2026-03-30T18:14:13.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7760680?gh_jid=7760680",
+    "title": "Payments Risk Analyst",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7760680?gh_jid=7760680",
+    "date": "2026-03-30T17:59:13.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "7743627",
+    "title": "Senior Application Security Engineer",
+    "company": "Consensys",
+    "link": "https://consensys.io/open-roles/7743627?gh_jid=7743627",
+    "date": "2026-03-30T10:55:23-04:00",
+    "source": "Greenhouse: Consensys"
+  },
+  {
     "id": "7135287",
     "title": "Software Engineer, Backend",
     "company": "Coinbase",
@@ -4938,6 +5018,14 @@
   {
     "id": "7685208",
     "title": "Staff Software Engineer (Platform - Product Foundations)",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7685208?gh_jid=7685208",
+    "date": "2026-03-09T13:33:56-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7685208",
+    "title": "Staff Software Engineer (Platform - Financial Engineering)",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/7685208?gh_jid=7685208",
     "date": "2026-03-09T13:33:56-04:00",
