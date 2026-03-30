@@ -1,5 +1,69 @@
 [
   {
+    "id": "7135287",
+    "title": "Software Engineer, Backend",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7135287?gh_jid=7135287",
+    "date": "2026-03-30T07:22:46-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7760683",
+    "title": "Customer Support Supervisor",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7760683?gh_jid=7760683",
+    "date": "2026-03-30T06:49:03-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/78284cca-96ca-4823-b5e0-7855f909d2e4",
+    "title": "Payments Project Manager – 6 Months Contract",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/78284cca-96ca-4823-b5e0-7855f909d2e4",
+    "date": "2026-03-30T10:08:44.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/58400df7-4a18-4c1c-a1d5-5f0e786e5193",
+    "title": "Compliance Monitoring and Testing Officer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/58400df7-4a18-4c1c-a1d5-5f0e786e5193",
+    "date": "2026-03-30T09:53:44.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7452593",
+    "title": "Accounts Receivable Analyst",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7452593",
+    "date": "2026-03-30T09:48:12.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Bastion/3fb2c3f2-4864-4a7c-bf35-c3f6b472974e?utm_source=jobs.a16z.com",
+    "title": "Account Executive",
+    "company": "Bastion",
+    "link": "https://jobs.ashbyhq.com/Bastion/3fb2c3f2-4864-4a7c-bf35-c3f6b472974e?utm_source=jobs.a16z.com",
+    "date": "2026-03-30T09:48:12.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/08deb184-b150-4e44-8cc2-4b9fb2c000c0",
+    "title": "Binance Accelerator Program - Frontend Engineer (.COM)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/08deb184-b150-4e44-8cc2-4b9fb2c000c0",
+    "date": "2026-03-30T08:56:01.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/19dcdea8-22c1-447d-9a84-1f1ee01c7dee",
+    "title": "EU Regional Partnerships Specialist/Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/19dcdea8-22c1-447d-9a84-1f1ee01c7dee",
+    "date": "2026-03-30T07:24:49.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.solana.com/companies/ondo-finance/jobs/72592917-executive-assistant-managing-director#content",
     "title": "Executive Assistant, Managing Director",
     "company": "Ondo Finance",
@@ -14,6 +78,22 @@
     "link": "https://jobs.lever.co/binance/0a785c66-1f25-4bcd-b40a-1dabdd8331d6",
     "date": "2026-03-30T01:56:25.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/a9481941-7d89-420e-8bed-75b773c5cbad/",
+    "title": "Infrastructure Operations Manager",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/a9481941-7d89-420e-8bed-75b773c5cbad/",
+    "date": "2026-03-30T00:40:24.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7587393",
+    "title": "Treasury & Reserve Operations Lead, Bridge",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7587393",
+    "date": "2026-03-30T00:25:24.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "7760206",
