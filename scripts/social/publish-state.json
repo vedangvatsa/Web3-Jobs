@@ -8,7 +8,7 @@
     "posted": []
   },
   "twitter": {
-    "lastIndex": 14,
+    "lastIndex": 15,
     "posted": [
       "post_7_x402_2026-03-27T05:43:43.910Z",
       "post_8_ai_agents_2026-03-27T05:50:06.513Z",
@@ -24,11 +24,12 @@
       "post_12_zk_proofs_2026-03-29T11:51:10.959Z",
       "post_13_restaking_2026-03-29T19:56:55.650Z",
       "post_14_web3_gaming_2026-03-30T05:38:07.829Z",
-      "post_15_audit_2026-03-30T12:08:58.625Z"
+      "post_15_audit_2026-03-30T12:08:58.625Z",
+      "post_16_defi_tvl_2026-03-30T20:07:02.204Z"
     ]
   },
   "bluesky": {
-    "lastIndex": 10,
+    "lastIndex": 11,
     "posted": [
       "post_12_zk_proofs_2026-03-27T07:18:53.968Z",
       "post_13_restaking_2026-03-27T12:02:00.566Z",
@@ -40,7 +41,8 @@
       "post_19_btc_etf_2026-03-29T11:51:14.708Z",
       "post_20_ai_onchain_2026-03-29T19:56:58.655Z",
       "post_21_future_work_2026-03-30T05:38:11.019Z",
-      "post_22_smart_contracts_2026-03-30T12:09:01.455Z"
+      "post_22_smart_contracts_2026-03-30T12:09:01.455Z",
+      "post_23_ai_crypto_2026-03-30T20:07:05.102Z"
     ]
   }
 }
