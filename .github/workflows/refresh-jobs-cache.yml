@@ -47,17 +47,11 @@ jobs:
         run: npx tsx scripts/social/publish-social.ts --platform bluesky
         continue-on-error: true
 
-      - name: Refill Buffer queue (LinkedIn + Instagram, every 3 days)
+      - name: Refill Buffer queue (LinkedIn + Instagram)
         env:
           BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
           BUFFER_ORG_ID: ${{ secrets.BUFFER_ORG_ID }}
-        run: |
-          DAY=$(date -u +%j)
-          if [ $((10#$DAY % 3)) -eq 0 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            npx tsx scripts/social/buffer-refill.ts
-          else
-            echo "Skipping buffer refill (runs every 3 days)"
-          fi
+        run: npx tsx scripts/social/buffer-refill.ts
         continue-on-error: true
 
       - name: Fetch RSS feeds and update cache
