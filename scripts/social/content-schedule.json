@@ -220,7 +220,8 @@
     },
     "twitter": {
       "text": "DeFi TVL is back above $180B.\n\nLido $33B. Aave $18B. EigenLayer $15B.\n\nThe bear market survivors are now the revenue leaders.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B3lNf6B.jpg"
   },
   {
     "id": "post_17_eth_staking",
@@ -233,7 +234,8 @@
     },
     "twitter": {
       "text": "28% of all ETH is now staked.\n\n34.2M ETH locked. 1M+ validators.\n\nNo other chain comes close to this level of decentralization.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31Y68l.jpg"
   },
   {
     "id": "post_18_web3_salaries",
@@ -246,7 +248,8 @@
     },
     "twitter": {
       "text": "Web3 dev salaries are 20-40% above Web2.\n\nSecurity auditors: $200K\nSolidity: $185K\nRust: $175K\nFull-stack: $155K\n\nThe talent shortage is real.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31a5Vn.jpg"
   },
   {
     "id": "post_19_btc_etf",
@@ -259,7 +262,8 @@
     },
     "twitter": {
       "text": "Bitcoin ETFs now hold $120B+ in assets.\n\nBlackRock: 46%. Fidelity: 17%. Grayscale: 15%.\n\nWall Street is fully in.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31apWX.jpg"
   },
   {
     "id": "post_20_ai_onchain",
@@ -272,7 +276,8 @@
     },
     "twitter": {
       "text": "99% of on-chain transactions will come from AI agents.\n\nThe blockchain users of tomorrow are not human. They are software.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31cU74.jpg"
   },
   {
     "id": "post_21_future_work",
@@ -285,7 +290,8 @@
     },
     "twitter": {
       "text": "The future of work is on-chain.\n\nNo office. No borders. No middlemen.\nSmart contracts replace HR.\nDAOs pay in real-time.\n\nThis is already happening.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31l1Z7.jpg"
   },
   {
     "id": "post_22_smart_contracts",
@@ -298,7 +304,8 @@
     },
     "twitter": {
       "text": "In 10 years, your employment contract will be a smart contract.\n\nPayments. Equity. Benefits. All programmable.\n\nThe future of work is being written in Solidity.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B310dAl.jpg"
   },
   {
     "id": "post_23_ai_crypto",
@@ -311,7 +318,8 @@
     },
     "twitter": {
       "text": "AI without crypto is surveillance.\nCrypto without AI is speculation.\n\nTogether, they build autonomous economies.\n\nThis intersection is the fastest-growing career category in Web3.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B310aKg.jpg"
   },
   {
     "id": "post_24_web2_web3_meme",
@@ -324,7 +332,8 @@
     },
     "twitter": {
       "text": "Web2 dev: Debugging AWS at 3 AM.\nWeb3 dev: Deploying a smart contract from Bali.\n\nThe lifestyle upgrade is real. The roles are open.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B310OUG.jpg"
   },
   {
     "id": "post_25_trustless",
@@ -337,7 +346,8 @@
     },
     "twitter": {
       "text": "The handshake of tomorrow is trustless.\n\nNo intermediaries. No counterparty risk. Just code.\n\nSmart contracts don't take days off. They don't lose paperwork.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B311dga.jpg"
   },
   {
     "id": "post_26_seed_phrase",
@@ -350,7 +360,8 @@
     },
     "twitter": {
       "text": "A billion people are not writing down 12 words on paper.\n\nAccount abstraction changes everything. Social recovery. Gas sponsorship.\n\nERC-4337 is the biggest UX upgrade in blockchain history.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B311Re4.jpg"
   },
   {
     "id": "post_27_regulation",
@@ -363,7 +374,8 @@
     },
     "twitter": {
       "text": "Crypto regulation is going global.\n\nUS: SEC clarity\nEU: MiCA live\nUAE: VARA framework\n\nRegulation is not the enemy. Ambiguity is.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B311rpR.jpg"
   },
   {
     "id": "post_28_vc_funding",
@@ -376,7 +388,8 @@
     },
     "twitter": {
       "text": "Web3 VC funding is back.\n\n$10.2B invested in Q1 2026 — highest since 2022.\n\nInfra, AI agents, and DePIN lead the way. The bear market culled the tourists.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31E2C7.jpg"
   },
   {
     "id": "post_29_stablecoin_visa",
@@ -389,7 +402,8 @@
     },
     "twitter": {
       "text": "Stablecoins: $12T settled in 2025.\nVisa: $14T.\n\nA permissionless network with zero employees is about to overtake the largest payment company on earth.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31EGnI.jpg"
   },
   {
     "id": "post_30_tradfi",
@@ -402,7 +416,8 @@
     },
     "twitter": {
       "text": "BlackRock. JPMorgan. Goldman Sachs. Franklin Templeton.\n\nTradFi is building on blockchain now.\n\nThe question is no longer 'if' but 'which chain.'\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31G2NR.jpg"
   },
   {
     "id": "post_31_dao_governance",
@@ -415,7 +430,8 @@
     },
     "twitter": {
       "text": "30,000 people governed Uniswap last week.\n\nNo board. No CEO. Just token holders.\n\nThis is governance in 2026.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31GXWB.jpg"
   },
   {
     "id": "post_32_zk_privacy",
@@ -428,7 +444,8 @@
     },
     "twitter": {
       "text": "Privacy is the next frontier of crypto.\n\nZK proofs prove everything. Reveal nothing.\n\nThis is not about hiding. It is about control.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31MKej.jpg"
   },
   {
     "id": "post_33_web3_gaming",
@@ -441,7 +458,8 @@
     },
     "twitter": {
       "text": "7M gamers play on-chain every day.\n\nYour in-game items are finally yours. Trade them. Sell them. Keep them forever.\n\nThe $200B gaming industry is being rebuilt.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31MNQ2.jpg"
   },
   {
     "id": "post_34_digital_identity",
@@ -454,7 +472,8 @@
     },
     "twitter": {
       "text": "Your identity will live on-chain.\n\nOwn your credentials. Share what you choose.\n\nVerifiable resumes. Portable KYC. Sovereign identity.\n\nThis changes hiring forever.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31VF4t.jpg"
   },
   {
     "id": "post_35_depin_infra",
@@ -467,7 +486,8 @@
     },
     "twitter": {
       "text": "DePIN: The $25B network no one owns.\n\nHelium: wireless. Filecoin: storage. Render: GPUs. Hivemapper: maps.\n\nPhysical infrastructure, tokenized.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31VrFt.jpg"
   },
   {
     "id": "post_36_founder_meme",
@@ -480,7 +500,8 @@
     },
     "twitter": {
       "text": "2022: 'It's like Uber but on blockchain.'\n2026: 'Our protocol generates $50M ARR.'\n\nThe founders who survived the bear shipped real products.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31WqiB.jpg"
   },
   {
     "id": "post_37_job_rebound",
@@ -493,7 +514,8 @@
     },
     "twitter": {
       "text": "Web3 job market: 47% rebound.\n\n66,494 new roles in 2025. Postings up another 45% in 2026.\n\nThe bear market is over. Hiring is back.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31Whs2.jpg"
   },
   {
     "id": "post_38_remote_stats",
@@ -506,7 +528,8 @@
     },
     "twitter": {
       "text": "78% of blockchain jobs are fully remote.\n\nvs 45% in traditional tech.\n\n87% of crypto companies are fully distributed. This isn't a perk — it's the default.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31X3dX.jpg"
   },
   {
     "id": "post_39_salary_guide",
@@ -519,7 +542,8 @@
     },
     "twitter": {
       "text": "Web3 Salary Guide 2026:\n\nSecurity: $180-300K\nRust: $130-260K\nSolidity: $120-250K\nFull-Stack: $100-200K\nEntry: $80-121K\n\n+ tokens and equity on top.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31Xv4I.jpg"
   },
   {
     "id": "post_40_demand_roles",
@@ -532,7 +556,8 @@
     },
     "twitter": {
       "text": "Fastest-growing Web3 roles in 2026:\n\nSecurity: +71%\nSmart Contracts: +58%\nProtocol Design: +52%\nBlockchain Dev: +45%\nCompliance: +40%\n\nDemand far exceeds supply.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31h0wG.jpg"
   },
   {
     "id": "post_41_talent_gap",
@@ -545,7 +570,8 @@
     },
     "twitter": {
       "text": "66,000+ open Web3 roles. Not enough qualified talent.\n\nThe gap between understanding crypto and building with it is your opportunity.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31jnlS.jpg"
   },
   {
     "id": "post_42_ai_premium",
@@ -558,7 +584,8 @@
     },
     "twitter": {
       "text": "AI + Web3 = 30% salary premium.\n\nWeb3 dev: $150K avg.\nAI + Web3 dev: $195K avg.\n\nIf you know both, you are in extreme demand.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31jPql.jpg"
   },
   {
     "id": "post_43_career_global",
@@ -571,6 +598,7 @@
     },
     "twitter": {
       "text": "1.6 million people work in crypto globally.\n\n100K new hires last year. US leads with 21,612 roles.\n\nThis is not a niche anymore. It is a global industry.\n\nHashtagWeb3.com"
-    }
+    },
+    "imageUrl": "https://iili.io/B31h0wG.jpg"
   }
 ]

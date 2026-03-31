@@ -2,15 +2,22 @@
  * Buffer Auto-Refill Script
  * 
  * Checks how many posts are pending in Buffer queue.
- * If fewer than 10, schedules the next batch of posts.
+ * If fewer than threshold, schedules the next batch of posts.
+ * 
+ * Fixes applied:
+ * - Always advance lastIndex even on failure (prevents stuck loop)
+ * - Use content hashing to detect duplicates before submitting
+ * - Skip posts without imageUrl for Instagram
+ * - Improved queue count query with fallback
  * 
  * Run with: npx tsx scripts/social/buffer-refill.ts
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
+import * as crypto from 'crypto';
 
-const TOKEN = process.env.BUFFER_ACCESS_TOKEN || 'WLGVA8tQgQ6lHyM267pKDys4EEN5kls4SAVvO-TTFtB';
+const TOKEN = process.env.BUFFER_ACCESS_TOKEN || '';
 const ORG_ID = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
 const LINKEDIN_ID = '69c5b139af47dacb695b5feb';
 const INSTAGRAM_ID = '69c5b180af47dacb695b611e';
@@ -20,22 +27,30 @@ const STATE_FILE = path.join(__dirname, 'buffer-refill-state.json');
 const SCHEDULE_FILE = path.join(__dirname, 'content-schedule.json');
 
 interface RefillState {
-  linkedin: { lastIndex: number; lastScheduledAt: string };
-  instagram: { lastIndex: number; lastScheduledAt: string };
+  linkedin: { lastIndex: number; lastScheduledAt: string; postedHashes: string[] };
+  instagram: { lastIndex: number; lastScheduledAt: string; postedHashes: string[] };
 }
 
 function loadState(): RefillState {
   if (fs.existsSync(STATE_FILE)) {
-    return JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
+    const s = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
+    // Migrate: add postedHashes if missing
+    if (!s.linkedin.postedHashes) s.linkedin.postedHashes = [];
+    if (!s.instagram.postedHashes) s.instagram.postedHashes = [];
+    return s;
   }
   return {
-    linkedin: { lastIndex: -1, lastScheduledAt: '' },
-    instagram: { lastIndex: -1, lastScheduledAt: '' },
+    linkedin: { lastIndex: -1, lastScheduledAt: '', postedHashes: [] },
+    instagram: { lastIndex: -1, lastScheduledAt: '', postedHashes: [] },
   };
 }
 
 function saveState(state: RefillState) {
   fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
+}
+
+function hashText(text: string): string {
+  return crypto.createHash('md5').update(text).digest('hex').slice(0, 12);
 }
 
 async function gqlRequest(query: string, variables: any) {
@@ -51,30 +66,50 @@ async function gqlRequest(query: string, variables: any) {
 }
 
 async function getQueueCount(channelId: string): Promise<number> {
-  // Try to get pending posts count
-  const data = await gqlRequest(`
-    query GetPosts($input: PostsInput!) {
-      posts(input: $input) {
-        edges {
-          node { id }
+  // Try multiple query patterns since Buffer's GraphQL schema changes
+  const queries = [
+    // Pattern 1: posts query with status filter
+    {
+      query: `query GetPosts($channelId: String!) {
+        posts(input: { channelId: $channelId, status: "scheduled" }) {
+          edges { node { id } }
+          totalCount
         }
-        totalCount
-      }
-    }
-  `, {
-    input: {
-      channelId,
-      status: 'scheduled',
-    }
-  });
+      }`,
+      variables: { channelId },
+    },
+    // Pattern 2: channel-level queue info
+    {
+      query: `query GetChannel($channelId: String!) {
+        channel(input: { id: $channelId }) {
+          pendingCount
+        }
+      }`,
+      variables: { channelId },
+    },
+  ];
 
-  if (data.errors) {
-    // If the query fails, assume we need to refill
-    console.log('Could not query queue count, assuming refill needed');
-    return 0;
+  for (const q of queries) {
+    try {
+      const data = await gqlRequest(q.query, q.variables);
+      if (!data.errors) {
+        const count = data.data?.posts?.totalCount
+          ?? data.data?.posts?.edges?.length
+          ?? data.data?.channel?.pendingCount
+          ?? null;
+        if (count !== null) {
+          console.log(`Queue count for ${channelId}: ${count}`);
+          return count;
+        }
+      }
+    } catch {
+      // Try next pattern
+    }
   }
 
-  return data.data?.posts?.totalCount ?? data.data?.posts?.edges?.length ?? 0;
+  // If all queries fail, assume we need to refill but only schedule a small batch
+  console.log(`Could not query queue count for ${channelId}, assuming needs refill`);
+  return 0;
 }
 
 async function schedulePost(
@@ -83,7 +118,7 @@ async function schedulePost(
   imageUrl: string,
   dueAt: string,
   isInstagram: boolean
-) {
+): Promise<{ success: boolean; duplicate: boolean }> {
   const input: any = {
     channelId,
     text,
@@ -114,26 +149,37 @@ async function schedulePost(
   `, { input });
 
   if (data.errors) {
-    console.error('  ERROR:', JSON.stringify(data.errors));
-    return false;
+    const errorMsg = JSON.stringify(data.errors);
+    console.error('  ERROR:', errorMsg);
+    return { success: false, duplicate: false };
   }
 
   const result = data.data?.createPost;
   if (result?.post?.id) {
     console.log(`  SUCCESS (ID: ${result.post.id})`);
-    return true;
+    return { success: true, duplicate: false };
   } else {
-    console.log(`  FAILED: ${result?.message || 'unknown'}`);
-    return false;
+    const msg = result?.message || 'unknown';
+    const isDuplicate = msg.toLowerCase().includes('posted that one recently') ||
+                        msg.toLowerCase().includes('same thing again');
+    console.log(`  FAILED: ${msg}${isDuplicate ? ' [DUPLICATE - will skip]' : ''}`);
+    return { success: false, duplicate: isDuplicate };
   }
 }
 
 async function run() {
+  if (!TOKEN) {
+    console.error('BUFFER_ACCESS_TOKEN is required');
+    process.exit(1);
+  }
+
   const schedule = JSON.parse(fs.readFileSync(SCHEDULE_FILE, 'utf8'));
   const state = loadState();
 
   console.log('--- Buffer Auto-Refill ---');
   console.log(`Total posts in schedule: ${schedule.length}`);
+  console.log(`LinkedIn lastIndex: ${state.linkedin.lastIndex}, posted hashes: ${state.linkedin.postedHashes.length}`);
+  console.log(`Instagram lastIndex: ${state.instagram.lastIndex}, posted hashes: ${state.instagram.postedHashes.length}`);
 
   // Check queue counts
   const liCount = await getQueueCount(LINKEDIN_ID);
@@ -143,32 +189,39 @@ async function run() {
   console.log(`Instagram queue: ${igCount} pending`);
 
   // Buffer free plan = 10 posts per channel
-  // Refill if fewer than 5 pending (to stay ahead)
+  // Refill if fewer than 5 pending
   const REFILL_THRESHOLD = 5;
-  const BATCH_SIZE = 5; // Schedule 5 at a time (to not exceed 10 limit)
+  const BATCH_SIZE = 5;
 
-  // Generate time slots starting from now + 1 hour
+  // Generate time slots starting from now
   const now = new Date();
   const generateSlots = (count: number): Date[] => {
     const slots: Date[] = [];
-    // Start from next standard slot (1am, 9am, 5pm IST)
     const hours = [1, 9, 17]; // IST hours
-    let d = new Date(now);
+    const d = new Date(now);
     d.setMinutes(0, 0, 0);
-    
-    // Find next slot
-    const istOffset = 5.5 * 60 * 60 * 1000;
+
     while (slots.length < count) {
       for (const h of hours) {
+        // Convert IST hour to UTC: IST = UTC+5:30
+        // So IST 1:00 = UTC 19:30 (prev day), IST 9:00 = UTC 3:30, IST 17:00 = UTC 11:30
         const slot = new Date(d);
-        slot.setUTCHours(h - 5, h === 1 ? 30 : 30, 0, 0); // Convert IST to UTC
-        // IST offset: subtract 5:30
-        const utcHour = h < 6 ? h + 24 - 6 : h - 6;
-        const utcMin = 30;
+        const utcHour = h < 6 ? (h - 6 + 24) : (h - 6);
+        const utcMin = h < 6 ? 30 : 30;
         slot.setUTCHours(utcHour, utcMin, 0, 0);
-        
+
+        // If IST hour < 6, slot is on previous UTC day but we started from current day,
+        // so for IST 1am, the UTC time is 19:30 previous day
+        if (h < 6) {
+          // IST 1am = UTC 19:30 same calendar day minus 1
+          // Actually: IST 1:00 Mar 31 = UTC 19:30 Mar 30
+          // But we want future slots, so if IST 1am today already passed, skip
+          slot.setUTCHours(19, 30, 0, 0);
+          slot.setDate(slot.getDate() - 1);
+        }
+
         if (slot > now && slots.length < count) {
-          slots.push(slot);
+          slots.push(new Date(slot));
         }
       }
       d.setDate(d.getDate() + 1);
@@ -179,27 +232,45 @@ async function run() {
   // Refill LinkedIn
   if (liCount < REFILL_THRESHOLD) {
     const toSchedule = Math.min(BATCH_SIZE, 10 - liCount);
-    console.log(`\nRefilling LinkedIn: scheduling ${toSchedule} posts...`);
+    console.log(`\nRefilling LinkedIn: scheduling up to ${toSchedule} posts...`);
     const slots = generateSlots(toSchedule);
-    
+    let scheduled = 0;
+
     for (let i = 0; i < toSchedule; i++) {
       const idx = (state.linkedin.lastIndex + 1 + i) % schedule.length;
       const post = schedule[idx];
+      const textHash = hashText(post.linkedin.text);
       const dueAt = slots[i].toISOString();
-      
+
+      // Skip if we already posted this exact content recently
+      if (state.linkedin.postedHashes.includes(textHash)) {
+        console.log(`  SKIP ${post.id} (already posted recently, hash: ${textHash})`);
+        continue;
+      }
+
       console.log(`  ${post.id} at ${dueAt}`);
-      const success = await schedulePost(
+      const result = await schedulePost(
         LINKEDIN_ID,
         post.linkedin.text,
         post.imageUrl || '',
         dueAt,
         false
       );
-      if (success) {
-        state.linkedin.lastIndex = idx;
-        state.linkedin.lastScheduledAt = dueAt;
+
+      if (result.success) {
+        state.linkedin.postedHashes.push(textHash);
+        scheduled++;
+      } else if (result.duplicate) {
+        // Mark as posted so we skip it next time
+        state.linkedin.postedHashes.push(textHash);
       }
     }
+
+    // ALWAYS advance the index, even if all posts failed
+    // This prevents the stuck loop where we keep retrying the same posts
+    state.linkedin.lastIndex = (state.linkedin.lastIndex + toSchedule) % schedule.length;
+    state.linkedin.lastScheduledAt = slots[slots.length - 1]?.toISOString() || '';
+    console.log(`  LinkedIn index advanced to: ${state.linkedin.lastIndex} (scheduled ${scheduled}/${toSchedule})`);
   } else {
     console.log('LinkedIn queue OK, no refill needed');
   }
@@ -207,32 +278,61 @@ async function run() {
   // Refill Instagram (with offset for shuffling)
   if (igCount < REFILL_THRESHOLD) {
     const toSchedule = Math.min(BATCH_SIZE, 10 - igCount);
-    console.log(`\nRefilling Instagram: scheduling ${toSchedule} posts...`);
+    console.log(`\nRefilling Instagram: scheduling up to ${toSchedule} posts...`);
     const slots = generateSlots(toSchedule);
-    
+    let scheduled = 0;
+    let skippedNoImage = 0;
+
     for (let i = 0; i < toSchedule; i++) {
-      // Instagram uses offset 3 for shuffling
       const baseIdx = (state.instagram.lastIndex + 1 + i) % schedule.length;
+      // Instagram uses offset 3 for shuffling
       const shuffledIdx = (baseIdx + 3) % schedule.length;
       const post = schedule[shuffledIdx];
       const dueAt = slots[i].toISOString();
-      
+
+      // Skip posts without imageUrl — Instagram requires images
+      if (!post.imageUrl) {
+        console.log(`  SKIP ${post.id} (no imageUrl — Instagram requires images)`);
+        skippedNoImage++;
+        continue;
+      }
+
+      const textHash = hashText(post.instagram.text);
+
+      // Skip if already posted recently
+      if (state.instagram.postedHashes.includes(textHash)) {
+        console.log(`  SKIP ${post.id} (already posted recently, hash: ${textHash})`);
+        continue;
+      }
+
       console.log(`  ${post.id} at ${dueAt}`);
-      const success = await schedulePost(
+      const result = await schedulePost(
         INSTAGRAM_ID,
         post.instagram.text,
-        post.imageUrl || '',
+        post.imageUrl,
         dueAt,
         true
       );
-      if (success) {
-        state.instagram.lastIndex = baseIdx;
-        state.instagram.lastScheduledAt = dueAt;
+
+      if (result.success) {
+        state.instagram.postedHashes.push(textHash);
+        scheduled++;
+      } else if (result.duplicate) {
+        state.instagram.postedHashes.push(textHash);
       }
     }
+
+    // ALWAYS advance the index
+    state.instagram.lastIndex = (state.instagram.lastIndex + toSchedule) % schedule.length;
+    state.instagram.lastScheduledAt = slots[slots.length - 1]?.toISOString() || '';
+    console.log(`  Instagram index advanced to: ${state.instagram.lastIndex} (scheduled ${scheduled}/${toSchedule}, skipped ${skippedNoImage} no-image)`);
   } else {
     console.log('Instagram queue OK, no refill needed');
   }
+
+  // Keep postedHashes from growing unbounded (keep last 100)
+  state.linkedin.postedHashes = state.linkedin.postedHashes.slice(-100);
+  state.instagram.postedHashes = state.instagram.postedHashes.slice(-100);
 
   saveState(state);
   console.log('\nRefill complete. State saved.');
