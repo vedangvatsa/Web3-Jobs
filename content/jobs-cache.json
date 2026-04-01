@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://fr.linkedin.com/jobs/view/gtm-strategy-execution-growth-at-merge-4392441087?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
+    "title": "GTM Strategy & Execution (Growth)",
+    "company": "Merge",
+    "link": "https://fr.linkedin.com/jobs/view/gtm-strategy-execution-growth-at-merge-4392441087?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
+    "date": "2026-04-01T05:05:34.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "8488547002",
+    "title": "Trading Technology Engineer (Java/Quant)",
+    "company": "BitMEX",
+    "link": "https://job-boards.greenhouse.io/bitmex/jobs/8488547002",
+    "date": "2026-04-01T01:02:02-04:00",
+    "source": "Greenhouse: BitMEX"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/merge-2-c7c09650-c1fc-495c-99e1-170c251e95cd/jobs/72863341-content-marketing-lead-stablecoin-fintech#content",
+    "title": "Content Marketing Lead - Stablecoin Fintech",
+    "company": "Merge",
+    "link": "https://coinbase.getro.com/companies/merge-2-c7c09650-c1fc-495c-99e1-170c251e95cd/jobs/72863341-content-marketing-lead-stablecoin-fintech#content",
+    "date": "2026-04-01T04:50:34.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "7739375",
+    "title": "Senior Software Engineer, Derivatives Team",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7739375?t=gh_src=&gh_jid=7739375",
+    "date": "2026-04-01T00:18:43-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/72855645-grc-information-security-compliance-engineer#content",
     "title": "GRC / Information Security Compliance Engineer",
     "company": "CoinSwitch",
@@ -5656,6 +5688,14 @@
     "source": "Binance"
   },
   {
+    "id": "https://jobs.lever.co/binance/bfe02d4b-f6bb-41db-b707-3202b26270d6",
+    "title": "Dispute Analyst - P2P",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/bfe02d4b-f6bb-41db-b707-3202b26270d6",
+    "date": "2026-03-13T06:16:10.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/ea5a4416-c454-45aa-81e1-71e8911d37dd",
     "title": "(Senior) Product Manager, Margin Systems",
     "company": "Binance",
@@ -7862,53 +7902,5 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7648695003",
     "date": "2026-03-02T01:50:40-05:00",
     "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7664254",
-    "title": "Senior Software Engineer, C++ / Rust",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7664254?gh_jid=7664254",
-    "date": "2026-03-01T23:01:14-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7661120",
-    "title": "Manager, Software Engineering",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7661120?gh_jid=7661120",
-    "date": "2026-03-01T22:54:00-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7664406",
-    "title": "Staff Software Engineer, Identity & Trust",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7664406?gh_jid=7664406",
-    "date": "2026-03-01T22:26:18-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7664173",
-    "title": "Senior Software Engineer, Identity & Trust",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7664173?gh_jid=7664173",
-    "date": "2026-03-01T22:22:07-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7664371",
-    "title": "Staff Software Engineer, Customer Onboarding Platform",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7664371?gh_jid=7664371",
-    "date": "2026-03-01T22:16:38-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "4652983006",
-    "title": "Sales Director, Dynamic",
-    "company": "Fireblocks",
-    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4652983006",
-    "date": "2026-03-01T20:55:59-05:00",
-    "source": "Greenhouse: Fireblocks"
   }
 ]
