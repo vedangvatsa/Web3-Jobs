@@ -219,6 +219,56 @@ async function refreshJobsCache() {
     }
   }
 
+  // --- Lever API Sources ---
+  const LEVER_BOARDS = [
+    { board: 'immutable', company: 'Immutable' },
+    { board: 'celestia', company: 'Celestia' },
+    { board: 'starknet', company: 'StarkNet' },
+    { board: 'kraken', company: 'Kraken' },
+    { board: 'anchorage', company: 'Anchorage Digital' },
+    { board: 'moonpay', company: 'MoonPay' },
+    { board: 'ledger', company: 'Ledger' },
+    { board: 'ethena', company: 'Ethena' },
+    { board: '1inch', company: '1inch' },
+    { board: 'zerion', company: 'Zerion' },
+  ];
+
+  for (const lv of LEVER_BOARDS) {
+    try {
+      const res = await fetch(`https://api.lever.co/v0/postings/${lv.board}?mode=json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const postings = await res.json() as Array<{ text: string; hostedUrl: string; id: string; createdAt: number; categories?: { team?: string; department?: string; location?: string } }>;
+
+      let added = 0;
+      for (const posting of postings) {
+        const title = cleanTitle(posting.text);
+        const company = normalizeCompany(lv.company);
+        const link = posting.hostedUrl;
+        const date = posting.createdAt ? new Date(posting.createdAt).toISOString() : new Date().toISOString();
+
+        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+          const key = createUniqueKey(title, company);
+          if (!jobMap.has(key)) {
+            jobMap.set(key, {
+              id: posting.id,
+              title,
+              company,
+              link,
+              date,
+              source: `Lever: ${lv.company}`,
+            });
+            added++;
+          }
+        }
+      }
+      feedsOk++;
+      console.log(`  ✅ Lever (${lv.company}): ${postings.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Lever (${lv.company}): ${error.message}`);
+    }
+  }
+
   const elapsed = Date.now() - fetchStart;
   console.log(`\n⏱️ Fetched in ${elapsed}ms (${feedsOk} ok, ${feedsFailed} failed)`);
 
