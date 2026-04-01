@@ -178,6 +178,11 @@ async function refreshJobsCache() {
     { board: 'digitalcurrencygroup', company: 'DCG' },
     { board: 'hashgraph', company: 'Hedera' },
     { board: 'jumpcrypto', company: 'Jump Crypto' },
+    // --- Crypto exchanges ---
+    { board: 'okx', company: 'OKX' },
+    { board: 'bybit', company: 'Bybit' },
+    { board: 'bitmex', company: 'BitMEX' },
+    { board: 'luno', company: 'Luno' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -231,6 +236,9 @@ async function refreshJobsCache() {
     { board: 'ethena', company: 'Ethena' },
     { board: '1inch', company: '1inch' },
     { board: 'zerion', company: 'Zerion' },
+    // --- Crypto exchanges ---
+    { board: 'gate', company: 'Gate.io' },
+    { board: 'swissborg', company: 'SwissBorg' },
   ];
 
   for (const lv of LEVER_BOARDS) {
