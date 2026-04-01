@@ -535,9 +535,28 @@ async function main() {
   // Ensure state file exists for future runs
   saveState(state);
 
+  // Cooldown check: prevent multiple posts within 4 hours on same platform
+  const platformState = state[platform as keyof PublishState];
+  const forcePost = process.argv.includes('--force');
+  const COOLDOWN_MS = 4 * 60 * 60 * 1000; // 4 hours
+
+  if (!forcePost && platformState.posted.length > 0) {
+    const lastEntry = platformState.posted[platformState.posted.length - 1];
+    // Extract ISO timestamp from "postId_timestamp" format
+    const lastTimestamp = lastEntry.substring(lastEntry.lastIndexOf('_') + 1);
+    const lastPostedAt = new Date(lastTimestamp).getTime();
+    const timeSince = Date.now() - lastPostedAt;
+
+    if (timeSince < COOLDOWN_MS) {
+      const hoursLeft = ((COOLDOWN_MS - timeSince) / (60 * 60 * 1000)).toFixed(1);
+      console.log(`⏳ Cooldown active for ${platform}. Last post was ${(timeSince / (60 * 60 * 1000)).toFixed(1)}h ago.`);
+      console.log(`   Next post allowed in ${hoursLeft}h. Use --force to override.`);
+      process.exit(0);
+    }
+  }
+
   // Get next post index with platform-specific offset for shuffling
   // This ensures different platforms don't post the same content at the same time
-  const platformState = state[platform as keyof PublishState];
   const offsets: Record<string, number> = { twitter: 0, bluesky: 11, linkedin: 22, instagram: 33 };
   const offset = offsets[platform] || 0;
   const baseIndex = (platformState.lastIndex + 1) % schedule.length;
