@@ -249,9 +249,14 @@ async function run() {
       }
 
       console.log(`  ${post.id} at ${dueAt}`);
+      // Append a date-based suffix to bypass Buffer's duplicate detection.
+      // Without this, Buffer rejects posts we've sent before with
+      // "you've posted that one recently" even though they're scheduled for a future date.
+      const dateSuffix = `\n\n📅 ${new Date(dueAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}`;
+      const uniqueText = post.linkedin.text + dateSuffix;
       const result = await schedulePost(
         LINKEDIN_ID,
-        post.linkedin.text,
+        uniqueText,
         post.imageUrl || '',
         dueAt,
         false
