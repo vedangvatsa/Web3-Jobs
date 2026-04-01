@@ -1,4 +1,4 @@
-import { collection, addDoc, serverTimestamp, query, where, getDocs, type Firestore } from 'firebase/firestore';
+import { doc, setDoc, serverTimestamp, type Firestore } from 'firebase/firestore';
 import { errorEmitter } from '@/firebase/error-emitter';
 import { FirestorePermissionError } from '@/firebase/errors';
 
@@ -12,28 +12,22 @@ export async function saveEmail(db: Firestore | null, email: string): Promise<vo
   }
 
   const normalizedEmail = email.toLowerCase().trim();
-  const subscribersCol = collection(db, 'subscribers');
+  // Use the email as the document ID to naturally prevent duplicates
+  // without requiring read access (which is blocked by security rules).
+  const subscriberRef = doc(db, 'subscribers', normalizedEmail);
 
   try {
-    // Check for duplicate before inserting
-    const existing = await getDocs(
-      query(subscribersCol, where('email', '==', normalizedEmail))
-    );
-
-    if (!existing.empty) {
-      // Already subscribed, skip silently
-      return;
-    }
-
-    await addDoc(subscribersCol, {
+    // merge: true ensures that if the document already exists,
+    // it updates the timestamp without overwriting other fields.
+    await setDoc(subscriberRef, {
         email: normalizedEmail,
         createdAt: serverTimestamp()
-    });
+    }, { merge: true });
   } catch (error: any) {
     console.error("Firestore 'saveEmail' Error:", error.code, error.message);
     if (error.code === 'permission-denied' || error.code === 'PERMISSION_DENIED') {
         const permissionError = new FirestorePermissionError({
-            path: subscribersCol.path,
+            path: subscriberRef.path,
             operation: 'create',
             requestResourceData: { email: normalizedEmail },
         });
