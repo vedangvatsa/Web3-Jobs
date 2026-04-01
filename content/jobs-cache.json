@@ -1,5 +1,13 @@
 [
   {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/72855645-grc-information-security-compliance-engineer#content",
+    "title": "GRC / Information Security Compliance Engineer",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/72855645-grc-information-security-compliance-engineer#content",
+    "date": "2026-04-01T00:50:04.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
     "id": "https://ats.rippling.com/n3xt-jobs/jobs/8e43a73d-2d4c-4904-aaf4-68ac1db2a0c5",
     "title": "DevOps Engineer (L2/L3)",
     "company": "N3XT",
@@ -14,6 +22,14 @@
     "link": "https://jobs.ashbyhq.com/Talos-Trading/297b4508-77c5-409b-b0cf-57b72cd169de?utm_source=jobs.a16z.com",
     "date": "2026-04-01T00:49:49.000Z",
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/72855647-quantitative-algo-options-strategist#content",
+    "title": "Quantitative Algo Options Strategist",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/72855647-quantitative-algo-options-strategist#content",
+    "date": "2026-04-01T00:35:04.000Z",
+    "source": "Jobs | Coinbase Job Board"
   },
   {
     "id": "https://www.revolut.com/en-US/careers/position/74536f0d-9455-45ed-b232-f5d1622c4425/",
@@ -40,6 +56,14 @@
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/72855646-business-associate#content",
+    "title": "Business Associate",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/72855646-business-associate#content",
+    "date": "2026-04-01T00:20:04.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
     "id": "https://www.revolut.com/en-US/careers/position/b6618bc5-6cd4-411e-b0f3-be1f9aafa180/",
     "title": "Mid-Market Account Executive (Hungarian Market)",
     "company": "Revolut",
@@ -62,6 +86,14 @@
     "link": "https://jobs.ashbyhq.com/mystenlabs/56c3834c-8c2e-4a10-87e5-2a24a25c40b8?utm_source=jobs.a16z.com",
     "date": "2026-04-01T00:19:49.000Z",
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72850756-training-administrator#content",
+    "title": "Training Administrator",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72850756-training-administrator#content",
+    "date": "2026-04-01T00:05:04.000Z",
+    "source": "Jobs | Coinbase Job Board"
   },
   {
     "id": "https://www.revolut.com/en-US/careers/position/380b714f-a588-4831-9e40-a45b1a8647b4/",
@@ -94,6 +126,14 @@
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768446&gh_jid=7768446",
     "date": "2026-03-31T19:54:17-04:00",
     "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72850751-premium-cash-officer#content",
+    "title": "Premium Cash Officer",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72850751-premium-cash-officer#content",
+    "date": "2026-03-31T23:50:04.000Z",
+    "source": "Jobs | Coinbase Job Board"
   },
   {
     "id": "https://www.revolut.com/en-US/careers/position/b1e50af8-9e6d-410d-a6dc-14fa1c7b22b7/",
@@ -1208,6 +1248,22 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "bc09255a-8975-492e-93e4-ecf2f16e8e45",
+    "title": "Cloud Security Engineer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/bc09255a-8975-492e-93e4-ecf2f16e8e45",
+    "date": "2026-03-27T13:53:09.830Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "28a287e0-1e9f-4002-9ae7-7d0e61e87669",
+    "title": "Product Security Manager",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/28a287e0-1e9f-4002-9ae7-7d0e61e87669",
+    "date": "2026-03-27T13:45:02.578Z",
+    "source": "Lever: MoonPay"
+  },
+  {
     "id": "https://jobs.lever.co/limitbreak/9248c64d-e512-40b5-9571-364767f57040?lever-source%5B%5D=jobs.paradigm.xyz",
     "title": "Technical Director, Games",
     "company": "Limit Break",
@@ -2104,6 +2160,14 @@
     "source": "Binance"
   },
   {
+    "id": "8f2c395a-27ac-4ea2-b5e1-94051c321a8c",
+    "title": "Legal Operations Manager",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/8f2c395a-27ac-4ea2-b5e1-94051c321a8c",
+    "date": "2026-03-26T02:25:21.849Z",
+    "source": "Lever: MoonPay"
+  },
+  {
     "id": "https://job-boards.greenhouse.io/fireblocks/jobs/4666635006",
     "title": "Staff Full Stack Engineer",
     "company": "Fireblocks",
@@ -2696,6 +2760,14 @@
     "source": "Jobs | Arbitrum Job Board"
   },
   {
+    "id": "79d212a8-8323-413b-b798-dd979535813b",
+    "title": "Analyst, Trust & Safety Ops",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/79d212a8-8323-413b-b798-dd979535813b",
+    "date": "2026-03-24T12:11:44.776Z",
+    "source": "Lever: MoonPay"
+  },
+  {
     "id": "https://jobs.lever.co/binance/d9fc2df7-f475-4c57-9bf9-2c979e761279",
     "title": "Growth Manager (Australia)",
     "company": "Binance",
@@ -2960,6 +3032,14 @@
     "source": "Greenhouse: Galaxy Digital"
   },
   {
+    "id": "16fb567c-3d1c-4bfc-a61a-4e35fbb46c28",
+    "title": "Head of Global Markets",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/16fb567c-3d1c-4bfc-a61a-4e35fbb46c28",
+    "date": "2026-03-23T17:33:08.905Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
     "id": "5834759004",
     "title": "2026 Product Internship - NYC",
     "company": "Galaxy Digital",
@@ -3062,6 +3142,14 @@
     "link": "https://job-boards.eu.greenhouse.io/nearfoundation/jobs/4815543101",
     "date": "2026-03-23T10:05:01-04:00",
     "source": "Greenhouse: NEAR"
+  },
+  {
+    "id": "d921c32e-7ad6-40f9-841a-3e4f11789af0",
+    "title": "Product Lead, Financial Infrastructure, Custody-as-a-Service",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/d921c32e-7ad6-40f9-841a-3e4f11789af0",
+    "date": "2026-03-23T13:47:09.940Z",
+    "source": "Lever: Anchorage Digital"
   },
   {
     "id": "https://ats.rippling.com/algorand-foundation/jobs/60bb9001-0d20-4c09-9307-433c09f4ff97",
@@ -3278,6 +3366,22 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7723234?t=gh_src=&gh_jid=7723234",
     "date": "2026-03-20T19:42:49-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "e228094e-3872-42ce-9c69-bc5b790978dc",
+    "title": "Senior Accounting Manager",
+    "company": "Ethena",
+    "link": "https://jobs.lever.co/ethena/e228094e-3872-42ce-9c69-bc5b790978dc",
+    "date": "2026-03-20T21:06:17.723Z",
+    "source": "Lever: Ethena"
+  },
+  {
+    "id": "0c03118b-b9a3-407d-ae4f-91287c146c2f",
+    "title": "Enterprise Account Executive",
+    "company": "Ethena",
+    "link": "https://jobs.lever.co/ethena/0c03118b-b9a3-407d-ae4f-91287c146c2f",
+    "date": "2026-03-20T20:57:32.199Z",
+    "source": "Lever: Ethena"
   },
   {
     "id": "7739523",
@@ -3600,12 +3704,28 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "7bc45597-8b61-4f36-be77-6d09e99bec25",
+    "title": "Member of Technical Staff, Atlas (Front-End Engineer)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/7bc45597-8b61-4f36-be77-6d09e99bec25",
+    "date": "2026-03-19T19:17:21.488Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
     "id": "7684757",
     "title": "Engineering Manager, Observability",
     "company": "Robinhood",
     "link": "https://boards.greenhouse.io/robinhood/jobs/7684757?t=gh_src=&gh_jid=7684757",
     "date": "2026-03-19T14:59:52-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "58ec94e7-2af5-4d3e-95d4-d7931f03be86",
+    "title": "Chief Risk Officer (CRO)",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/58ec94e7-2af5-4d3e-95d4-d7931f03be86",
+    "date": "2026-03-19T18:10:24.733Z",
+    "source": "Lever: MoonPay"
   },
   {
     "id": "7723227",
@@ -3718,6 +3838,14 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7697791?t=gh_src=&gh_jid=7697791",
     "date": "2026-03-19T10:37:47-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "f8ae8302-980b-41f5-a408-1f336c25b0fb",
+    "title": "Singapore Compliance Lead",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/f8ae8302-980b-41f5-a408-1f336c25b0fb",
+    "date": "2026-03-19T13:28:05.063Z",
+    "source": "Lever: Anchorage Digital"
   },
   {
     "id": "7592180",
@@ -4440,6 +4568,14 @@
     "source": "Greenhouse: Ripple"
   },
   {
+    "id": "0d93730a-fe32-474b-80eb-c7952486b514",
+    "title": "Senior Platform Engineer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/0d93730a-fe32-474b-80eb-c7952486b514",
+    "date": "2026-03-17T16:07:12.271Z",
+    "source": "Lever: MoonPay"
+  },
+  {
     "id": "7724625",
     "title": "Business Intelligence Manager",
     "company": "Ripple",
@@ -4470,6 +4606,14 @@
     "link": "https://jobs.lever.co/binance/97b01aae-f5dc-489a-9683-e9858adca807",
     "date": "2026-03-17T13:32:49.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "0e730f61-a2e4-4152-8277-3f6383cc69a6",
+    "title": "Member of Product, Data Platform",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/0e730f61-a2e4-4152-8277-3f6383cc69a6",
+    "date": "2026-03-17T13:32:20.208Z",
+    "source": "Lever: Anchorage Digital"
   },
   {
     "id": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/70878408-systems-engineer#content",
@@ -4606,6 +4750,14 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7676724?t=gh_src=&gh_jid=7676724",
     "date": "2026-03-16T18:33:58-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "1597e9da-46ca-4a62-81c6-5a2cb37cf4ac",
+    "title": "Payment Operations Analyst (Eastern Hours)",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/1597e9da-46ca-4a62-81c6-5a2cb37cf4ac",
+    "date": "2026-03-16T20:47:04.946Z",
+    "source": "Lever: MoonPay"
   },
   {
     "id": "7723537",
@@ -5160,6 +5312,14 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "1883f0d4-6d19-45e2-99d4-09f3cfbbb868",
+    "title": "Customer Operations Analyst (Mexico - 6 month FTC)",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/1883f0d4-6d19-45e2-99d4-09f3cfbbb868",
+    "date": "2026-03-12T20:29:24.740Z",
+    "source": "Lever: MoonPay"
+  },
+  {
     "id": "7228854",
     "title": "Engineering Manager - Payments Platform",
     "company": "Coinbase",
@@ -5214,6 +5374,14 @@
     "link": "https://www.coinbase.com/careers/positions/7711075?gh_jid=7711075",
     "date": "2026-03-12T09:38:22-04:00",
     "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "9b5c4fa0-fb2d-48a6-8b21-c5447a7f2f1f",
+    "title": "Customer Operations Analyst (SA - 6 month FTC)",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/9b5c4fa0-fb2d-48a6-8b21-c5447a7f2f1f",
+    "date": "2026-03-12T12:10:22.830Z",
+    "source": "Lever: MoonPay"
   },
   {
     "id": "https://jobs.lever.co/binance/e69a313b-0cf3-41a4-a026-856bbcce33ad",
@@ -5480,6 +5648,22 @@
     "source": "Greenhouse: BitGo"
   },
   {
+    "id": "116b705f-a922-4209-9238-4edf93a2116c",
+    "title": "Senior Data Platform Engineer",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/116b705f-a922-4209-9238-4edf93a2116c",
+    "date": "2026-03-11T16:54:18.829Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "cc0ae37a-0c44-4574-8c4c-ddaa0edefc47",
+    "title": "Member of Compliance, TPRM",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/cc0ae37a-0c44-4574-8c4c-ddaa0edefc47",
+    "date": "2026-03-11T16:49:21.284Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
     "id": "5823865004",
     "title": "Content Strategy Lead",
     "company": "LayerZero",
@@ -5712,12 +5896,36 @@
     "source": "Greenhouse: Blockchain.com"
   },
   {
+    "id": "3e25b920-1bc0-430c-8a85-47e6355e797f",
+    "title": "Member of People Operations",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/3e25b920-1bc0-430c-8a85-47e6355e797f",
+    "date": "2026-03-10T17:08:44.017Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
+    "id": "7947c37c-7fb4-4cd2-9269-e70e052179b3",
+    "title": "Member of Technical Staff, Banking Solutions",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/7947c37c-7fb4-4cd2-9269-e70e052179b3",
+    "date": "2026-03-10T16:33:50.469Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
     "id": "7700110",
     "title": "iOS Engineer",
     "company": "Blockchain.com",
     "link": "https://job-boards.greenhouse.io/blockchain/jobs/7700110",
     "date": "2026-03-10T11:55:17-04:00",
     "source": "Greenhouse: Blockchain.com"
+  },
+  {
+    "id": "fedcf647-fbf5-4036-8f95-f372920dd3de",
+    "title": "People Business Partner, Corporate",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/fedcf647-fbf5-4036-8f95-f372920dd3de",
+    "date": "2026-03-10T12:19:13.475Z",
+    "source": "Lever: Anchorage Digital"
   },
   {
     "id": "https://jobs.lever.co/binance/1942ddce-1ec9-4bb8-b49a-250498bfd8a7",
@@ -5854,6 +6062,22 @@
     "link": "https://consensys.io/open-roles/7660360?gh_jid=7660360",
     "date": "2026-03-09T11:31:47-04:00",
     "source": "Greenhouse: Consensys"
+  },
+  {
+    "id": "fdbcfca9-f134-4146-80db-3fa2ede30213",
+    "title": "Risk & Compliance Specialist",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/fdbcfca9-f134-4146-80db-3fa2ede30213",
+    "date": "2026-03-09T14:39:45.118Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "58ea3c0f-4347-43ca-a317-d07fed928f72",
+    "title": "Senior Designer - Otherlife",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/58ea3c0f-4347-43ca-a317-d07fed928f72",
+    "date": "2026-03-09T14:35:46.935Z",
+    "source": "Lever: MoonPay"
   },
   {
     "id": "7694499",
@@ -6416,6 +6640,14 @@
     "source": "Greenhouse: Ripple"
   },
   {
+    "id": "c487ec76-b911-471b-96ea-1224f6bef269",
+    "title": "Member of Global Risk Management, Financial Risk",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/c487ec76-b911-471b-96ea-1224f6bef269",
+    "date": "2026-03-05T14:18:19.234Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
     "id": "https://jobs.avax.network/companies/aave/jobs/69292127-senior-design-engineer#content",
     "title": "Senior Design Engineer",
     "company": "Aave",
@@ -6470,6 +6702,14 @@
     "link": "https://jobs.lever.co/binance/42aca12b-d26a-442c-9796-4055313ade4b",
     "date": "2026-03-05T06:43:15.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "d0a30cd8-de53-47b4-8637-3d70a1999e17",
+    "title": "Vibe and Experience Specialist",
+    "company": "Immutable",
+    "link": "https://jobs.lever.co/immutable/d0a30cd8-de53-47b4-8637-3d70a1999e17",
+    "date": "2026-03-05T03:43:35.937Z",
+    "source": "Lever: Immutable"
   },
   {
     "id": "https://jobs.lever.co/binance/ffdce96a-9f28-4aa3-8d5f-a110a87083fa",
@@ -6680,6 +6920,14 @@
     "source": "Greenhouse: Fireblocks"
   },
   {
+    "id": "03c5a87e-805e-41b8-bc16-acc140f176a7",
+    "title": "Member of Legal Operations",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/03c5a87e-805e-41b8-bc16-acc140f176a7",
+    "date": "2026-03-03T13:54:42.658Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
     "id": "7512231",
     "title": "Engineering Manager, Financial Crimes",
     "company": "Robinhood",
@@ -6736,6 +6984,22 @@
     "source": "Greenhouse: BitGo"
   },
   {
+    "id": "96ff9ab4-93c0-412e-a0ac-2c5ed4e076ed",
+    "title": "Member of Technical Staff, Foundation (Backend Engineer)",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/96ff9ab4-93c0-412e-a0ac-2c5ed4e076ed",
+    "date": "2026-03-02T21:38:03.010Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
+    "id": "51411fe3-d7be-417c-9e2b-770cb9235409",
+    "title": "Member of Product, Blockchain Researcher",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/51411fe3-d7be-417c-9e2b-770cb9235409",
+    "date": "2026-03-02T21:24:05.311Z",
+    "source": "Lever: Anchorage Digital"
+  },
+  {
     "id": "7652487",
     "title": "Crypto AML Investigator",
     "company": "Robinhood",
@@ -6766,6 +7030,14 @@
     "link": "https://www.coinbase.com/careers/positions/7300575?gh_jid=7300575",
     "date": "2026-03-02T11:09:24-05:00",
     "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "530eaa64-afc5-45f7-952f-af5476384ff3",
+    "title": "Member of People Operations, Benefits and Leave Management",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/530eaa64-afc5-45f7-952f-af5476384ff3",
+    "date": "2026-03-02T13:52:39.903Z",
+    "source": "Lever: Anchorage Digital"
   },
   {
     "id": "7664254",
