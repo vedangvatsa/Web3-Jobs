@@ -1,24 +1,34 @@
 {
   "linkedin": {
-    "lastIndex": 4,
+    "lastIndex": 9,
     "lastScheduledAt": "2026-04-02T11:30:00.000Z",
     "postedHashes": [
       "d46332d0e84d",
       "910b9dfbc5cb",
       "7e852187c2db",
       "bea1a8dc2b89",
-      "a10e65549f20"
+      "a10e65549f20",
+      "9f0e9ce9618f",
+      "b14be5b5dbae",
+      "9e546a0c5cca",
+      "a2c3db9e3556",
+      "d383bc0a6aff"
     ]
   },
   "instagram": {
-    "lastIndex": 4,
+    "lastIndex": 9,
     "lastScheduledAt": "2026-04-02T11:30:00.000Z",
     "postedHashes": [
       "85ee1f0639ce",
       "88d643c71cc9",
       "43195887cadc",
       "8c72be664eb0",
-      "6e0e2c652613"
+      "6e0e2c652613",
+      "97fb1c098c53",
+      "b26ffd097042",
+      "2d9bd04f3c0a",
+      "be61a97abe1b",
+      "62864ddeb25d"
     ]
   }
 }
