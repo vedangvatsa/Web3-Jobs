@@ -250,12 +250,14 @@ async function run() {
 
       console.log(`  ${post.id} at ${dueAt}`);
       // Buffer's duplicate detection is aggressive — even appended CTAs don't bypass it.
-      // Solution: PREPEND a unique date-based opener so the first characters are different.
-      const dueDate = new Date(dueAt);
-      const dayEmojis = ['🌅', '☀️', '🌤️', '⭐', '🔥', '💎', '🌊'];
-      const dayEmoji = dayEmojis[dueDate.getUTCDay()];
-      const dateStr = dueDate.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' });
-      const uniqueText = `${dayEmoji} ${dateStr}\n\n${post.linkedin.text}`;
+      // Solution: Append invisible zero-width characters to make each post unique
+      // without showing any visible date or prefix to readers.
+      const zwChars = ['\u200B', '\u200C', '\u200D', '\uFEFF']; // zero-width space, non-joiner, joiner, BOM
+      const uniqueIdx = (state.linkedin.lastIndex + 1 + i);
+      const uniqueSuffix = Array.from(uniqueIdx.toString(4).padStart(4, '0'))
+        .map(d => zwChars[parseInt(d)])
+        .join('');
+      const uniqueText = `${post.linkedin.text}${uniqueSuffix}`;
       const result = await schedulePost(
         LINKEDIN_ID,
         uniqueText,
