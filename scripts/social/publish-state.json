@@ -8,7 +8,7 @@
     "posted": []
   },
   "twitter": {
-    "lastIndex": 18,
+    "lastIndex": 19,
     "posted": [
       "post_7_x402_2026-03-27T05:43:43.910Z",
       "post_8_ai_agents_2026-03-27T05:50:06.513Z",
@@ -28,11 +28,12 @@
       "post_16_defi_tvl_2026-03-30T20:07:02.204Z",
       "post_17_eth_staking_2026-03-31T05:25:00.604Z",
       "post_18_web3_salaries_2026-03-31T12:06:01.053Z",
-      "post_19_btc_etf_2026-03-31T20:06:57.786Z"
+      "post_19_btc_etf_2026-03-31T20:06:57.786Z",
+      "post_20_ai_onchain_2026-04-01T01:16:41.124Z"
     ]
   },
   "bluesky": {
-    "lastIndex": 14,
+    "lastIndex": 15,
     "posted": [
       "post_12_zk_proofs_2026-03-27T07:18:53.968Z",
       "post_13_restaking_2026-03-27T12:02:00.566Z",
@@ -48,7 +49,8 @@
       "post_23_ai_crypto_2026-03-30T20:07:05.102Z",
       "post_24_web2_web3_meme_2026-03-31T05:25:03.346Z",
       "post_25_trustless_2026-03-31T12:06:04.828Z",
-      "post_26_seed_phrase_2026-03-31T20:07:00.306Z"
+      "post_26_seed_phrase_2026-03-31T20:07:00.306Z",
+      "post_27_regulation_2026-04-01T01:16:44.249Z"
     ]
   }
 }
