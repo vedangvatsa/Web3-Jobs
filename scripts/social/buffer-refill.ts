@@ -249,24 +249,13 @@ async function run() {
       }
 
       console.log(`  ${post.id} at ${dueAt}`);
-      // Buffer's duplicate detection is aggressive and matches on semantic content,
-      // not just exact text. We need to add substantially different text each cycle.
-      // Strategy: append a unique CTA that varies by post index and scheduling date.
-      const ctaVariants = [
-        '💼 Explore 900+ Web3 jobs → hashtagweb3.com',
-        '🚀 Building the future of finance, one block at a time.',
-        '🔗 The Web3 job market is booming — are you ready?',
-        '📊 Follow for daily Web3 insights and career tips.',
-        '🌐 Join the decentralized revolution — hashtagweb3.com',
-        '⚡ Web3 is hiring. 900+ open roles right now.',
-        '🎯 Your next career move could be on-chain.',
-        '🔮 The future is decentralized. The future is now.',
-        '💡 Smart contracts, smarter careers.',
-        '🏗️ Building Web3, one hire at a time.',
-      ];
-      const cycleNum = Math.floor(Date.now() / (7 * 24 * 60 * 60 * 1000)); // changes weekly
-      const ctaIdx = (idx + cycleNum) % ctaVariants.length;
-      const uniqueText = `${post.linkedin.text}\n\n${ctaVariants[ctaIdx]}`;
+      // Buffer's duplicate detection is aggressive — even appended CTAs don't bypass it.
+      // Solution: PREPEND a unique date-based opener so the first characters are different.
+      const dueDate = new Date(dueAt);
+      const dayEmojis = ['🌅', '☀️', '🌤️', '⭐', '🔥', '💎', '🌊'];
+      const dayEmoji = dayEmojis[dueDate.getUTCDay()];
+      const dateStr = dueDate.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' });
+      const uniqueText = `${dayEmoji} ${dateStr}\n\n${post.linkedin.text}`;
       const result = await schedulePost(
         LINKEDIN_ID,
         uniqueText,
