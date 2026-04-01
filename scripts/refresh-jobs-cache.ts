@@ -167,6 +167,17 @@ async function refreshJobsCache() {
     { board: 'alchemy', company: 'Alchemy' },
     { board: 'consensys', company: 'Consensys' },
     { board: 'gemini', company: 'Gemini' },
+    // --- New web3 Greenhouse feeds ---
+    { board: 'aptoslabs', company: 'Aptos Labs' },
+    { board: 'avalabs', company: 'Ava Labs' },
+    { board: 'layerzerolabs', company: 'LayerZero' },
+    { board: 'galaxydigitalservices', company: 'Galaxy Digital' },
+    { board: 'blockchain', company: 'Blockchain.com' },
+    { board: 'nansen', company: 'Nansen' },
+    { board: 'nearfoundation', company: 'NEAR' },
+    { board: 'digitalcurrencygroup', company: 'DCG' },
+    { board: 'hashgraph', company: 'Hedera' },
+    { board: 'jumpcrypto', company: 'Jump Crypto' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {

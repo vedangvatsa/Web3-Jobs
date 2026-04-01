@@ -1,5 +1,205 @@
 [
   {
+    "id": "https://ats.rippling.com/n3xt-jobs/jobs/8e43a73d-2d4c-4904-aaf4-68ac1db2a0c5",
+    "title": "DevOps Engineer (L2/L3)",
+    "company": "N3XT",
+    "link": "https://ats.rippling.com/n3xt-jobs/jobs/8e43a73d-2d4c-4904-aaf4-68ac1db2a0c5",
+    "date": "2026-04-01T00:49:57.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Talos-Trading/297b4508-77c5-409b-b0cf-57b72cd169de?utm_source=jobs.a16z.com",
+    "title": "Accounting Associate",
+    "company": "Talos",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/297b4508-77c5-409b-b0cf-57b72cd169de?utm_source=jobs.a16z.com",
+    "date": "2026-04-01T00:49:49.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/74536f0d-9455-45ed-b232-f5d1622c4425/",
+    "title": "Data Analyst (Engineer)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/74536f0d-9455-45ed-b232-f5d1622c4425/",
+    "date": "2026-04-01T00:34:57.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/injective-labs/28f7289b-51e9-4a2c-bf4d-bb5b64b00071?utm_source=jobs.panteracapital.com",
+    "title": "Infrastructure Engineer",
+    "company": "Injective Labs",
+    "link": "https://jobs.ashbyhq.com/injective-labs/28f7289b-51e9-4a2c-bf4d-bb5b64b00071?utm_source=jobs.panteracapital.com",
+    "date": "2026-04-01T00:34:56.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/walrus/96019791-29e0-4d97-bb57-27b227ea46d7?utm_source=jobs.a16z.com",
+    "title": "Technical Content Strategist (Contract)",
+    "company": "Walrus Foundation",
+    "link": "https://jobs.ashbyhq.com/walrus/96019791-29e0-4d97-bb57-27b227ea46d7?utm_source=jobs.a16z.com",
+    "date": "2026-04-01T00:34:49.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/b6618bc5-6cd4-411e-b0f3-be1f9aafa180/",
+    "title": "Mid-Market Account Executive (Hungarian Market)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/b6618bc5-6cd4-411e-b0f3-be1f9aafa180/",
+    "date": "2026-04-01T00:19:57.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/72859750-mid-market-customer-success-manager-emea#content",
+    "title": "Mid-Market Customer Success Manager - EMEA",
+    "company": "Ashby",
+    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/72859750-mid-market-customer-success-manager-emea#content",
+    "date": "2026-04-01T00:19:53.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/mystenlabs/56c3834c-8c2e-4a10-87e5-2a24a25c40b8?utm_source=jobs.a16z.com",
+    "title": "Technical Program Manager",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/56c3834c-8c2e-4a10-87e5-2a24a25c40b8?utm_source=jobs.a16z.com",
+    "date": "2026-04-01T00:19:49.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/380b714f-a588-4831-9e40-a45b1a8647b4/",
+    "title": "FinCrime Analyst (Acquiring Fraud Retail)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/380b714f-a588-4831-9e40-a45b1a8647b4/",
+    "date": "2026-04-01T00:04:57.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Talos-Trading/b0ec6d0e-7b13-4ba1-98bb-dc48aea760f6?utm_source=jobs.a16z.com",
+    "title": "Accounting Manager",
+    "company": "Talos",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/b0ec6d0e-7b13-4ba1-98bb-dc48aea760f6?utm_source=jobs.a16z.com",
+    "date": "2026-04-01T00:04:49.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "7768456",
+    "title": "Senior Software Engineer, Risk Engineering",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768456&gh_jid=7768456",
+    "date": "2026-03-31T19:54:27-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "7768446",
+    "title": "Software Engineering Manager, Risk Engineering",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768446&gh_jid=7768446",
+    "date": "2026-03-31T19:54:17-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/b1e50af8-9e6d-410d-a6dc-14fa1c7b22b7/",
+    "title": "Technology Continuity and Resilience Manager",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/b1e50af8-9e6d-410d-a6dc-14fa1c7b22b7/",
+    "date": "2026-03-31T23:49:57.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/21e96793-d1e1-4a93-a6f4-52d497d46263/",
+    "title": "Mid-Market Account Executive (Czech Market)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/21e96793-d1e1-4a93-a6f4-52d497d46263/",
+    "date": "2026-03-31T23:34:57.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "7767690",
+    "title": "Assistant Controller, Revenue",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7767690?gh_jid=7767690",
+    "date": "2026-03-31T19:31:38-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7761694",
+    "title": "Software Engineer, Product Security Data Platforms",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7761694",
+    "date": "2026-03-31T23:04:57.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72859094-office-manager#content",
+    "title": "Office Manager",
+    "company": "Polymarket",
+    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72859094-office-manager#content",
+    "date": "2026-03-31T23:02:34.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "7769989",
+    "title": "Base Social Lead",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7769989?gh_jid=7769989",
+    "date": "2026-03-31T18:56:08-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7767063",
+    "title": "Staff Software Engineer, Stream Compute",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7767063",
+    "date": "2026-03-31T22:49:57.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72859092-2026-internship-program#content",
+    "title": "2026 Internship Program",
+    "company": "Polymarket",
+    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72859092-2026-internship-program#content",
+    "date": "2026-03-31T22:47:34.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72859093-regulatory-attorney#content",
+    "title": "Regulatory Attorney",
+    "company": "Polymarket",
+    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72859093-regulatory-attorney#content",
+    "date": "2026-03-31T22:32:34.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72859091-ai-mobile-engineer#content",
+    "title": "AI Mobile Engineer",
+    "company": "Polymarket",
+    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72859091-ai-mobile-engineer#content",
+    "date": "2026-03-31T22:17:34.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://il.linkedin.com/jobs/view/global-human-resources-director-at-starkware-4395014180?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "title": "Global Human Resources Director",
+    "company": "StarkWare",
+    "link": "https://il.linkedin.com/jobs/view/global-human-resources-director-at-starkware-4395014180?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
+    "date": "2026-03-31T22:02:34.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/72851219-head-of-partner-success#content",
+    "title": "Head of Partner Success",
+    "company": "Polygon Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/72851219-head-of-partner-success#content",
+    "date": "2026-03-31T21:32:01.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "7747728",
+    "title": "Product Manager, Money Movement",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7747728?t=gh_src=&gh_jid=7747728",
+    "date": "2026-03-31T16:20:20-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
     "id": "https://jobs.solana.com/companies/veda/jobs/72807646-finance-lead#content",
     "title": "Finance Lead",
     "company": "Veda",
@@ -38,6 +238,14 @@
     "link": "https://careers.coindcx.com/careers?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMTU5MiwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
     "date": "2026-03-31T18:59:05.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "7768460",
+    "title": "Lead Product Manager",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7768460&gh_jid=7768460",
+    "date": "2026-03-31T14:57:20-04:00",
+    "source": "Greenhouse: Gemini"
   },
   {
     "id": "7722484",
@@ -134,6 +342,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7660568?gh_jid=7660568",
     "date": "2026-03-31T10:35:17-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "5840698004",
+    "title": "Director of Corporate Accounting & Public Reporting",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5840698004",
+    "date": "2026-03-31T10:25:59-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "https://jobs.solana.com/companies/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb/jobs/72766701-growth-lead-special-project#content",
@@ -438,6 +654,14 @@
     "link": "https://consensys.io/open-roles/7743627?gh_jid=7743627",
     "date": "2026-03-30T10:55:23-04:00",
     "source": "Greenhouse: Consensys"
+  },
+  {
+    "id": "5838231004",
+    "title": "Product Manager, Portfolio Margin and Risk",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5838231004",
+    "date": "2026-03-30T10:21:23-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "7135287",
@@ -832,6 +1056,14 @@
     "source": "Jobs | Coinbase Job Board"
   },
   {
+    "id": "7762354",
+    "title": "Senior Product Designer, Consumer",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7762354",
+    "date": "2026-03-27T14:46:02-04:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
     "id": "7762279",
     "title": "Base Senior Product Manager, Privacy",
     "company": "Coinbase",
@@ -918,6 +1150,22 @@
     "link": "https://www.coinbase.com/careers/positions/7755119?gh_jid=7755119",
     "date": "2026-03-27T13:20:00-04:00",
     "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "5834860004",
+    "title": "Senior Software Engineer, GalaxyOne Institutional",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834860004",
+    "date": "2026-03-27T13:10:03-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "5837010004",
+    "title": "Vice President, Tax Advisory",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5837010004",
+    "date": "2026-03-27T13:04:02-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "8483277002",
@@ -2320,6 +2568,22 @@
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
+    "id": "8465947002",
+    "title": "Developer Relations Engineer - Education Lead",
+    "company": "Hedera",
+    "link": "https://www.hashgraph.com/careers/8465947002?gh_jid=8465947002",
+    "date": "2026-03-24T17:56:02-04:00",
+    "source": "Greenhouse: Hedera"
+  },
+  {
+    "id": "5790669004",
+    "title": "Talent Acquisition Partner",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5790669004",
+    "date": "2026-03-24T15:30:05-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7746479",
     "title": "Staff Security Engineer, Threat Detection & Response",
     "company": "Gemini",
@@ -2656,6 +2920,14 @@
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
+    "id": "8476331002",
+    "title": "IT Operations Engineer - Corporate IT",
+    "company": "Hedera",
+    "link": "https://www.hashgraph.com/careers/8476331002?gh_jid=8476331002",
+    "date": "2026-03-23T18:53:45-04:00",
+    "source": "Greenhouse: Hedera"
+  },
+  {
     "id": "7740317",
     "title": "Manager, M&A Integration",
     "company": "Robinhood",
@@ -2664,12 +2936,36 @@
     "source": "Greenhouse: Robinhood"
   },
   {
+    "id": "7743591",
+    "title": "Marketing Analyst",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7743591",
+    "date": "2026-03-23T14:33:21-04:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
     "id": "8466338002",
     "title": "Senior Director Risk Management",
     "company": "BitGo",
     "link": "https://job-boards.greenhouse.io/bitgo/jobs/8466338002",
     "date": "2026-03-23T14:28:19-04:00",
     "source": "Greenhouse: BitGo"
+  },
+  {
+    "id": "5834742004",
+    "title": "Data Center Security Manager",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834742004",
+    "date": "2026-03-23T13:33:38-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "5834759004",
+    "title": "2026 Product Internship - NYC",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834759004",
+    "date": "2026-03-23T13:24:34-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "https://jobs.lever.co/binance/95f2b7e9-fb4b-4bc8-8f9d-eeb4eb3e4b7f",
@@ -2702,6 +2998,14 @@
     "link": "https://jobs.lever.co/binance/caa85420-1626-4f05-b202-4cb5cfaa6590",
     "date": "2026-03-23T16:13:45.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "5834629004",
+    "title": "Insurance Manager (Data Centers)",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834629004",
+    "date": "2026-03-23T12:12:28-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "https://jobs.lever.co/binance/1f5bdcbd-a60a-4b4c-8615-ec34f10ab821",
@@ -2750,6 +3054,14 @@
     "link": "https://jobs.lever.co/binance/acdab753-d58b-41c3-b9ee-f5e1328b4411",
     "date": "2026-03-23T15:35:32.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "4815543101",
+    "title": "Operations Manager",
+    "company": "NEAR",
+    "link": "https://job-boards.eu.greenhouse.io/nearfoundation/jobs/4815543101",
+    "date": "2026-03-23T10:05:01-04:00",
+    "source": "Greenhouse: NEAR"
   },
   {
     "id": "https://ats.rippling.com/algorand-foundation/jobs/60bb9001-0d20-4c09-9307-433c09f4ff97",
@@ -3024,6 +3336,14 @@
     "source": "Binance"
   },
   {
+    "id": "5833111004",
+    "title": "Associate, US Policy",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5833111004",
+    "date": "2026-03-20T10:20:14-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7731934",
     "title": "Engineering Manager (Platform - Identity)",
     "company": "Coinbase",
@@ -3112,6 +3432,14 @@
     "source": "Binance"
   },
   {
+    "id": "5832903004",
+    "title": "Vice President, Algo Trading / SOR – Developer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5832903004",
+    "date": "2026-03-20T03:59:06-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "https://jobs.lever.co/binance/eaccb2f6-b928-4772-a590-dd34da3d8c19",
     "title": "Binance Accelerator Program - QA Automation",
     "company": "Binance",
@@ -3142,6 +3470,14 @@
     "link": "https://jobs.lever.co/binance/c2087ac9-378e-4d5b-b38e-718f0d1640da",
     "date": "2026-03-20T07:34:05.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "5832900004",
+    "title": "Vice President, Quant Developer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5832900004",
+    "date": "2026-03-20T03:28:29-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "https://jobs.lever.co/binance/b0277810-87c3-4735-aa6a-0d60bec614b8",
@@ -3344,6 +3680,14 @@
     "source": "Greenhouse: Robinhood"
   },
   {
+    "id": "5832291004",
+    "title": "VP, Frontend React Developer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5832291004",
+    "date": "2026-03-19T11:50:09-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7706906",
     "title": "Market Risk Senior Analyst",
     "company": "Robinhood",
@@ -3390,6 +3734,14 @@
     "link": "https://jobs.lever.co/binance/87bdaff2-8c97-420f-8cbb-20ec0f6c38cb",
     "date": "2026-03-19T11:34:04.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "5832113004",
+    "title": "VP, Quantitative Developer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5832113004",
+    "date": "2026-03-19T07:22:33-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "https://jobs.lever.co/binance/98cb560f-9c6d-4c61-baa0-5814275a8c31",
@@ -3728,6 +4080,14 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "5831380004",
+    "title": "2026 Onboarding Internship - NYC",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5831380004",
+    "date": "2026-03-18T11:18:56-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7729808",
     "title": "Fraud Investigations Analyst",
     "company": "Robinhood",
@@ -3842,6 +4202,14 @@
   {
     "id": "7709773",
     "title": "Senior Software Engineer",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7709773?gh_jid=7709773",
+    "date": "2026-03-18T03:03:54-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7709773",
+    "title": "Senior Software Engineer, Backend (Consumer - International)",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/7709773?gh_jid=7709773",
     "date": "2026-03-18T03:03:54-04:00",
@@ -4216,6 +4584,14 @@
     "source": "Binance"
   },
   {
+    "id": "5829998004",
+    "title": "Vice President, Trading Systems Developer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5829998004",
+    "date": "2026-03-16T22:25:40-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7724710",
     "title": "Staff Software Engineer, Platform",
     "company": "Ripple",
@@ -4270,6 +4646,14 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7689814?t=gh_src=&gh_jid=7689814",
     "date": "2026-03-16T10:28:40-04:00",
     "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "5829045004",
+    "title": "Analyst, IT Support Engineer",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5829045004",
+    "date": "2026-03-16T09:53:41-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "https://jobs.lever.co/binance/c7915d47-0f24-40eb-bf55-80b0751b5b37",
@@ -4816,6 +5200,14 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "5825595004",
+    "title": "Senior Software Engineer, Custody & Staking",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5825595004",
+    "date": "2026-03-12T10:09:34-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7711075",
     "title": "Senior Machine Learning Engineer",
     "company": "Coinbase",
@@ -5088,6 +5480,14 @@
     "source": "Greenhouse: BitGo"
   },
   {
+    "id": "5823865004",
+    "title": "Content Strategy Lead",
+    "company": "LayerZero",
+    "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5823865004",
+    "date": "2026-03-11T12:48:29-04:00",
+    "source": "Greenhouse: LayerZero"
+  },
+  {
     "id": "7670186",
     "title": "International Communications Associate",
     "company": "Coinbase",
@@ -5264,6 +5664,22 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "5818861004",
+    "title": "Product Marketing Manager",
+    "company": "LayerZero",
+    "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5818861004",
+    "date": "2026-03-10T18:33:06-04:00",
+    "source": "Greenhouse: LayerZero"
+  },
+  {
+    "id": "5823528004",
+    "title": "Executive Assistant, Asset Management",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5823528004",
+    "date": "2026-03-10T18:03:09-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7701657",
     "title": "Blockchain Security Engineer",
     "company": "Coinbase",
@@ -5286,6 +5702,22 @@
     "link": "https://ripple.com/careers/all-jobs/job/7661155?gh_jid=7661155",
     "date": "2026-03-10T16:03:25-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7700625",
+    "title": "Android Engineer",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7700625",
+    "date": "2026-03-10T13:22:44-04:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
+    "id": "7700110",
+    "title": "iOS Engineer",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7700110",
+    "date": "2026-03-10T11:55:17-04:00",
+    "source": "Greenhouse: Blockchain.com"
   },
   {
     "id": "https://jobs.lever.co/binance/1942ddce-1ec9-4bb8-b49a-250498bfd8a7",
@@ -5368,6 +5800,22 @@
     "source": "Greenhouse: Robinhood"
   },
   {
+    "id": "5820316004",
+    "title": "Head of Developer Experience",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5820316004",
+    "date": "2026-03-09T15:51:01-04:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
+    "id": "7696382",
+    "title": "Consolidations Accountant",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7696382",
+    "date": "2026-03-09T14:27:35-04:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
     "id": "8130548002",
     "title": "Customer Success Manager (EMEA)",
     "company": "BitGo",
@@ -5430,6 +5878,14 @@
     "link": "https://jobs.lever.co/binance/e193349b-6064-41f5-aa19-64818a3abdef",
     "date": "2026-03-09T11:06:37.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "5821744004",
+    "title": "Vice President/Director, Exotic Derivatives Trader",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5821744004",
+    "date": "2026-03-09T04:55:23-04:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "https://jobs.lever.co/binance/0cb402ad-7715-4127-ad25-14ab4b142983",
@@ -5566,6 +6022,14 @@
     "link": "https://www.coinbase.com/careers/positions/7689445?gh_jid=7689445",
     "date": "2026-03-06T17:08:44-05:00",
     "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "8453489002",
+    "title": "Human Resources Generalist",
+    "company": "Hedera",
+    "link": "https://www.hashgraph.com/careers/8453489002?gh_jid=8453489002",
+    "date": "2026-03-06T16:21:01-05:00",
+    "source": "Greenhouse: Hedera"
   },
   {
     "id": "7685092",
@@ -5912,6 +6376,30 @@
     "source": "Jobs | Avalanche Job Board"
   },
   {
+    "id": "7683320",
+    "title": "Senior Accountant",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7683320",
+    "date": "2026-03-05T12:36:23-05:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
+    "id": "7683287",
+    "title": "Sales Trader",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7683287",
+    "date": "2026-03-05T12:29:34-05:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
+    "id": "5819930004",
+    "title": "Procurement Manager (Data Centers)",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5819930004",
+    "date": "2026-03-05T11:24:25-05:00",
+    "source": "Greenhouse: Galaxy Digital"
+  },
+  {
     "id": "7679070",
     "title": "Senior Product Manager, Sign-up, Sign-in, and Recovery",
     "company": "Coinbase",
@@ -6166,6 +6654,14 @@
     "link": "https://www.coinbase.com/careers/positions/7583642?gh_jid=7583642",
     "date": "2026-03-03T14:45:48-05:00",
     "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "5818102004",
+    "title": "Marketing Manager",
+    "company": "Galaxy Digital",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5818102004",
+    "date": "2026-03-03T14:36:07-05:00",
+    "source": "Greenhouse: Galaxy Digital"
   },
   {
     "id": "https://jobs.ashbyhq.com/monad.foundation/f047dfbe-9ef4-4132-9939-e0f3e9faa154?utm_source=jobs.shima.capital",
