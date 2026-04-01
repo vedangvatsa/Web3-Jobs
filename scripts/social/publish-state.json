@@ -8,7 +8,7 @@
     "posted": []
   },
   "twitter": {
-    "lastIndex": 22,
+    "lastIndex": 23,
     "posted": [
       "post_7_x402_2026-03-27T05:43:43.910Z",
       "post_8_ai_agents_2026-03-27T05:50:06.513Z",
@@ -32,11 +32,12 @@
       "post_20_ai_onchain_2026-04-01T01:16:41.124Z",
       "post_21_future_work_2026-04-01T01:21:02.394Z",
       "post_22_smart_contracts_2026-04-01T01:23:49.491Z",
-      "post_23_ai_crypto_2026-04-01T01:27:05.752Z"
+      "post_23_ai_crypto_2026-04-01T01:27:05.752Z",
+      "post_24_web2_web3_meme_2026-04-01T05:35:20.374Z"
     ]
   },
   "bluesky": {
-    "lastIndex": 18,
+    "lastIndex": 19,
     "posted": [
       "post_12_zk_proofs_2026-03-27T07:18:53.968Z",
       "post_13_restaking_2026-03-27T12:02:00.566Z",
@@ -56,7 +57,8 @@
       "post_27_regulation_2026-04-01T01:16:44.249Z",
       "post_28_vc_funding_2026-04-01T01:21:06.066Z",
       "post_29_stablecoin_visa_2026-04-01T01:23:52.057Z",
-      "post_30_tradfi_2026-04-01T01:27:08.790Z"
+      "post_30_tradfi_2026-04-01T01:27:08.790Z",
+      "post_31_dao_governance_2026-04-01T05:35:23.673Z"
     ]
   }
 }
