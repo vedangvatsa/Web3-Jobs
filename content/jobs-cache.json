@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/73032240-accountant-technical#content",
+    "title": "Accountant, Technical",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/73032240-accountant-technical#content",
+    "date": "2026-04-02T05:19:44.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/cointracker/jobs/73037018-tax-lead-frame#content",
+    "title": "Tax Lead, Frame",
+    "company": "CoinTracker",
+    "link": "https://coinbase.getro.com/companies/cointracker/jobs/73037018-tax-lead-frame#content",
+    "date": "2026-04-02T05:19:44.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/73032237-maintenance-facilities-manager#content",
+    "title": "Maintenance & Facilities Manager",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/73032237-maintenance-facilities-manager#content",
+    "date": "2026-04-02T05:04:44.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/relay-link/jobs/73020775-security-engineer#content",
+    "title": "Security Engineer",
+    "company": "relay.link",
+    "link": "https://coinbase.getro.com/companies/relay-link/jobs/73020775-security-engineer#content",
+    "date": "2026-04-02T05:04:44.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/paxos/jobs/72996421-software-engineer-brokerage#content",
+    "title": "Software Engineer, Brokerage",
+    "company": "Paxos",
+    "link": "https://jobs.multicoin.capital/companies/paxos/jobs/72996421-software-engineer-brokerage#content",
+    "date": "2026-04-02T04:49:44.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://boards.greenhouse.io/basejobs/jobs/7769894?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
+    "title": "Base Social Lead",
+    "company": "Spindl",
+    "link": "https://boards.greenhouse.io/basejobs/jobs/7769894?utm_source=Coinbase+job+board&utm_medium=getro.com&gh_src=Coinbase+job+board",
+    "date": "2026-04-02T04:49:44.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/8da73ff0-9bdb-47fb-ac7b-34ba38cf7d18",
+    "title": "Senior Post Listing Account Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/8da73ff0-9bdb-47fb-ac7b-34ba38cf7d18",
+    "date": "2026-04-02T04:11:49.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/1a8e02d6-0f04-4718-9dff-3130c66fc16a",
+    "title": "Merchant Management & Community Lead",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/1a8e02d6-0f04-4718-9dff-3130c66fc16a",
+    "date": "2026-04-02T03:17:11.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/anchorage/6c5c282a-6aac-4143-abcc-c4f7341e0a60?lever-source%5B%5D=jobs.a16z.com",
+    "title": "VP of Product, Stablecoin Issuance",
+    "company": "Anchorage Digital",
+    "link": "https://jobs.lever.co/anchorage/6c5c282a-6aac-4143-abcc-c4f7341e0a60?lever-source%5B%5D=jobs.a16z.com",
+    "date": "2026-04-02T00:41:09.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/658a3d43-c7b7-4772-b241-e151e5ab7e0d/",
+    "title": "FinCrime Subject Matter Expert (Screening)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/658a3d43-c7b7-4772-b241-e151e5ab7e0d/",
+    "date": "2026-04-02T00:39:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/9eda1035-3b7f-4433-86cb-e29cd51a61e0/",
+    "title": "Mid-Market Account Executive (Irish Market)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/9eda1035-3b7f-4433-86cb-e29cd51a61e0/",
+    "date": "2026-04-02T00:24:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/db136d1d-68de-4e14-b2ec-51b44cd6ed12/",
+    "title": "Graduate Sales Executive (Hungarian Market)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/db136d1d-68de-4e14-b2ec-51b44cd6ed12/",
+    "date": "2026-04-02T00:09:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/beab2935-3de6-4884-9b1b-f70b8932aa83/",
+    "title": "Mid-Market Account Executive (Portuguese Market)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/beab2935-3de6-4884-9b1b-f70b8932aa83/",
+    "date": "2026-04-01T23:54:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://bitso.com/jobs/7686619003?gh_jid=7686619003",
+    "title": "Tech Customer Support Analyst",
+    "company": "Bitso",
+    "link": "https://bitso.com/jobs/7686619003?gh_jid=7686619003",
+    "date": "2026-04-01T23:54:42.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/6c6dc3e9-8fd9-43c9-8c62-8779cd5b5f92/",
+    "title": "FinCrime Team Lead (Investigations)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/6c6dc3e9-8fd9-43c9-8c62-8779cd5b5f92/",
+    "date": "2026-04-01T23:39:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.coinbase.com/careers/positions/7769929?gh_jid=7769929",
+    "title": "Staff Software Engineer",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7769929?gh_jid=7769929",
+    "date": "2026-04-01T23:39:42.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/170d074f-b0bd-4090-8e17-a55b96159c5c/",
+    "title": "FinCrime Escalations Officer - Dutch and English",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/170d074f-b0bd-4090-8e17-a55b96159c5c/",
+    "date": "2026-04-01T23:24:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/30c9f47c-19e1-44cf-993c-4d0d8981b6ad/",
+    "title": "FinCrime Team Lead (Escalations)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/30c9f47c-19e1-44cf-993c-4d0d8981b6ad/",
+    "date": "2026-04-01T23:09:48.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://jobs.dragonfly.xyz/companies/lido-2/jobs/72989645-dao-ops-managerdao-ops#content",
     "title": "DAO Ops ManagerDAO ops",
     "company": "Lido",
@@ -1422,6 +1566,14 @@
     "link": "https://www.revolut.com/en-US/careers/position/fb84cd09-2cd3-45c1-b260-8d4860542a83/",
     "date": "2026-03-28T21:45:11.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/4d62852e-ec19-44ce-91b3-4b681f92d0e0",
+    "title": "Growth Product Manager - Campaign/User Journey",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/4d62852e-ec19-44ce-91b3-4b681f92d0e0",
+    "date": "2026-03-28T17:31:10.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.dragonfly.xyz/companies/spindl/jobs/72460860-senior-product-manager-privacy#content",
@@ -3560,6 +3712,14 @@
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
+    "id": "7676437003",
+    "title": "Senior Growth Manager, Performance Marketing",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7676437003",
+    "date": "2026-03-23T19:04:50-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "8476331002",
     "title": "IT Operations Engineer - Corporate IT",
     "company": "Hedera",
@@ -4434,6 +4594,14 @@
   {
     "id": "7732924",
     "title": "Engineering Manager - Simple Trade",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7732924?gh_jid=7732924",
+    "date": "2026-03-19T13:35:33-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7732924",
+    "title": "Senior Engineering Manager - Simple Trade",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/7732924?gh_jid=7732924",
     "date": "2026-03-19T13:35:33-04:00",
@@ -6552,6 +6720,14 @@
     "source": "Greenhouse: BitGo"
   },
   {
+    "id": "8459666002",
+    "title": "IT Engineer",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8459666002",
+    "date": "2026-03-11T16:35:43-04:00",
+    "source": "Greenhouse: BitGo"
+  },
+  {
     "id": "7700505",
     "title": "Customer Experience Representative, Core Services",
     "company": "Robinhood",
@@ -8182,45 +8358,5 @@
     "link": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
     "date": "2026-03-03T07:46:32.000Z",
     "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/4d62852e-ec19-44ce-91b3-4b681f92d0e0",
-    "title": "Growth Product Manager - Campaign/ User Journey",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/4d62852e-ec19-44ce-91b3-4b681f92d0e0",
-    "date": "2026-03-03T03:56:02.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7643820003",
-    "title": "Product Marketing Director, US",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7643820003",
-    "date": "2026-03-02T20:10:09-05:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "8436572002",
-    "title": "Financial Operations Manager",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8436572002",
-    "date": "2026-03-02T18:54:45-05:00",
-    "source": "Greenhouse: BitGo"
-  },
-  {
-    "id": "96ff9ab4-93c0-412e-a0ac-2c5ed4e076ed",
-    "title": "Member of Technical Staff, Foundation (Backend Engineer)",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/96ff9ab4-93c0-412e-a0ac-2c5ed4e076ed",
-    "date": "2026-03-02T21:38:03.010Z",
-    "source": "Lever: Anchorage Digital"
-  },
-  {
-    "id": "51411fe3-d7be-417c-9e2b-770cb9235409",
-    "title": "Member of Product, Blockchain Researcher",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/51411fe3-d7be-417c-9e2b-770cb9235409",
-    "date": "2026-03-02T21:24:05.311Z",
-    "source": "Lever: Anchorage Digital"
   }
 ]
