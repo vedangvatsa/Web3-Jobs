@@ -8,7 +8,7 @@
     "posted": []
   },
   "twitter": {
-    "lastIndex": 26,
+    "lastIndex": 27,
     "posted": [
       "post_7_x402_2026-03-27T05:43:43.910Z",
       "post_8_ai_agents_2026-03-27T05:50:06.513Z",
@@ -36,11 +36,12 @@
       "post_24_web2_web3_meme_2026-04-01T05:35:20.374Z",
       "post_25_trustless_2026-04-01T12:07:04.895Z",
       "post_26_seed_phrase_2026-04-01T20:08:58.364Z",
-      "post_27_regulation_2026-04-02T05:19:30.932Z"
+      "post_27_regulation_2026-04-02T05:19:30.932Z",
+      "post_28_vc_funding_2026-04-02T12:05:00.482Z"
     ]
   },
   "bluesky": {
-    "lastIndex": 22,
+    "lastIndex": 23,
     "posted": [
       "post_12_zk_proofs_2026-03-27T07:18:53.968Z",
       "post_13_restaking_2026-03-27T12:02:00.566Z",
@@ -64,7 +65,8 @@
       "post_31_dao_governance_2026-04-01T05:35:23.673Z",
       "post_32_zk_privacy_2026-04-01T12:07:07.545Z",
       "post_33_web3_gaming_2026-04-01T20:09:02.019Z",
-      "post_34_digital_identity_2026-04-02T05:19:34.047Z"
+      "post_34_digital_identity_2026-04-02T05:19:34.047Z",
+      "post_35_depin_infra_2026-04-02T12:05:03.474Z"
     ]
   }
 }
