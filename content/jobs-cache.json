@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://jobs.solana.com/companies/ondo-finance/jobs/73078660-senior-product-designer#content",
+    "title": "Senior Product Designer",
+    "company": "Ondo Finance",
+    "link": "https://jobs.solana.com/companies/ondo-finance/jobs/73078660-senior-product-designer#content",
+    "date": "2026-04-02T12:05:11.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/bvnk/jobs/73079635-response-management-analyst#content",
+    "title": "Response Management Analyst",
+    "company": "BVNK",
+    "link": "https://coinbase.getro.com/companies/bvnk/jobs/73079635-response-management-analyst#content",
+    "date": "2026-04-02T12:05:11.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/73084439-senior-accountant#content",
+    "title": "Senior Accountant",
+    "company": "Polygon Labs",
+    "link": "https://jobs.dragonfly.xyz/companies/polygon-labs/jobs/73084439-senior-accountant#content",
+    "date": "2026-04-02T11:57:58.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/ondo-finance/jobs/73078666-senior-event-manager-contract#content",
+    "title": "Senior Event Manager (Contract)",
+    "company": "Ondo Finance",
+    "link": "https://jobs.solana.com/companies/ondo-finance/jobs/73078666-senior-event-manager-contract#content",
+    "date": "2026-04-02T11:50:11.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/bvnk/jobs/73079633-regulatory-counsel-us#content",
+    "title": "Regulatory Counsel (US)",
+    "company": "BVNK",
+    "link": "https://coinbase.getro.com/companies/bvnk/jobs/73079633-regulatory-counsel-us#content",
+    "date": "2026-04-02T11:50:11.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "7687337003",
+    "title": "Senior Staff Algorithm Engineer, Recommendation",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7687337003",
+    "date": "2026-04-02T06:13:27-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7687326003",
+    "title": "Engineering Director, Frontend Business Lead",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7687326003",
+    "date": "2026-04-02T05:30:09-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7687308003",
+    "title": "Principal AIgorithm Engineer, Search and Recommendation",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7687308003",
+    "date": "2026-04-02T04:40:58-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/3d3d396d-cb2b-4bec-8f0f-77c232336d23",
+    "title": "P2P Marketplace Lead",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3d3d396d-cb2b-4bec-8f0f-77c232336d23",
+    "date": "2026-04-02T08:17:09.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/73032240-accountant-technical#content",
     "title": "Accountant, Technical",
     "company": "StreamingFast",
@@ -1936,11 +2008,35 @@
     "source": "Greenhouse: Robinhood"
   },
   {
+    "id": "https://jobs.lever.co/binance/6d2f8188-44fc-452d-b7f2-59564f4b6bef",
+    "title": "Global Affiliate Manager - LATAM",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/6d2f8188-44fc-452d-b7f2-59564f4b6bef",
+    "date": "2026-03-27T03:13:58.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
     "title": "Lead Security Engineer (AI Security, DeFi, Self Custody)",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
     "date": "2026-03-27T03:10:44.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/614d983f-57a4-4db3-bb30-48d7a0825221",
+    "title": "Senior Android Engineer, Futures",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/614d983f-57a4-4db3-bb30-48d7a0825221",
+    "date": "2026-03-27T02:34:15.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
+    "title": "Senior iOS Engineer, Futures",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
+    "date": "2026-03-27T02:16:05.000Z",
     "source": "Binance"
   },
   {
@@ -8334,29 +8430,5 @@
     "link": "https://ripple.com/careers/all-jobs/job/7664454?gh_jid=7664454",
     "date": "2026-03-03T08:17:20-05:00",
     "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/6d2f8188-44fc-452d-b7f2-59564f4b6bef",
-    "title": "Global Affiliate Manager - LATAM",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6d2f8188-44fc-452d-b7f2-59564f4b6bef",
-    "date": "2026-03-03T11:30:24.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/614d983f-57a4-4db3-bb30-48d7a0825221",
-    "title": "Senior Android Engineer, Futures",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/614d983f-57a4-4db3-bb30-48d7a0825221",
-    "date": "2026-03-03T08:01:32.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
-    "title": "Senior iOS Engineer, Futures",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
-    "date": "2026-03-03T07:46:32.000Z",
-    "source": "Binance"
   }
 ]
