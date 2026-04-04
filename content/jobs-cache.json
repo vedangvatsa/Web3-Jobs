@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/73392570-head-of-finance-payments#content",
+    "title": "Head of Finance - Payments",
+    "company": "Breeze",
+    "link": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/73392570-head-of-finance-payments#content",
+    "date": "2026-04-04T19:56:06.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/jito-labs/jobs/73365976-senior-software-engineer-special-projects#content",
+    "title": "Senior Software Engineer - Special Projects",
+    "company": "Jito Labs",
+    "link": "https://jobs.solana.com/companies/jito-labs/jobs/73365976-senior-software-engineer-special-projects#content",
+    "date": "2026-04-04T19:41:02.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7779497",
+    "title": "Enterprise Solutions Architecture Manager, AMER",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7779497",
+    "date": "2026-04-04T19:01:33.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/73352913-technical-account-manager#content",
+    "title": "Technical Account Manager",
+    "company": "Rain",
+    "link": "https://jobs.dragonfly.xyz/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/73352913-technical-account-manager#content",
+    "date": "2026-04-04T12:14:23.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
     "id": "https://www.linkedin.com/jobs/view/maintenance-engineer-at-hadrian-4397812377?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
     "title": "Maintenance Engineer",
     "company": "StreamingFast",
@@ -2640,11 +2672,27 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/e07b8f77-1d39-417e-b298-5b321a49ca5e",
+    "title": "Binance News Lead - Flash News",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/e07b8f77-1d39-417e-b298-5b321a49ca5e",
+    "date": "2026-03-27T09:06:05.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/129624fd-9858-4960-89b0-6f281d878feb",
     "title": "Senior Product Operations Manager, Binance Chat",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/129624fd-9858-4960-89b0-6f281d878feb",
     "date": "2026-03-27T08:51:05.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/3b61df5d-2fa6-4efc-ae9e-5e9af5f8e6df",
+    "title": "Database Administrator (DBA) - MongoDB/MySQL",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3b61df5d-2fa6-4efc-ae9e-5e9af5f8e6df",
+    "date": "2026-03-27T08:47:54.000Z",
     "source": "Binance"
   },
   {
@@ -8734,125 +8782,5 @@
     "link": "https://ripple.com/careers/all-jobs/job/7660806?gh_jid=7660806",
     "date": "2026-03-05T15:02:10-05:00",
     "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "4660357006",
-    "title": "Sales Director, Tres",
-    "company": "Fireblocks",
-    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4660357006",
-    "date": "2026-03-05T14:03:39-05:00",
-    "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "7652759003",
-    "title": "Principal Engineer, Agent Infrastructure & Memory Architecture",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7652759003",
-    "date": "2026-03-05T13:35:32-05:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7595047",
-    "title": "Senior Software Engineer, Backend - Consumer Foundations",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7595047?gh_jid=7595047",
-    "date": "2026-03-05T13:18:22-05:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/aave/jobs/69292124-senior-product-designer#content",
-    "title": "Senior Product Designer",
-    "company": "Aave",
-    "link": "https://jobs.avax.network/companies/aave/jobs/69292124-senior-product-designer#content",
-    "date": "2026-03-05T17:51:24.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/aave/jobs/69292122-head-of-compliance-and-financial-crime#content",
-    "title": "Head of Compliance and Financial Crime",
-    "company": "Aave",
-    "link": "https://jobs.avax.network/companies/aave/jobs/69292122-head-of-compliance-and-financial-crime#content",
-    "date": "2026-03-05T17:36:24.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "7683320",
-    "title": "Senior Accountant",
-    "company": "Blockchain.com",
-    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7683320",
-    "date": "2026-03-05T12:36:23-05:00",
-    "source": "Greenhouse: Blockchain.com"
-  },
-  {
-    "id": "7683287",
-    "title": "Sales Trader",
-    "company": "Blockchain.com",
-    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7683287",
-    "date": "2026-03-05T12:29:34-05:00",
-    "source": "Greenhouse: Blockchain.com"
-  },
-  {
-    "id": "5819930004",
-    "title": "Procurement Manager (Data Centers)",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5819930004",
-    "date": "2026-03-05T11:24:25-05:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "7679070",
-    "title": "Senior Product Manager, Sign-up, Sign-in, and Recovery",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7679070?gh_jid=7679070",
-    "date": "2026-03-05T11:20:05-05:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7677640",
-    "title": "Manager, Financial Risk",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7677640?gh_jid=7677640",
-    "date": "2026-03-05T10:47:00-05:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "c487ec76-b911-471b-96ea-1224f6bef269",
-    "title": "Member of Global Risk Management, Financial Risk",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/c487ec76-b911-471b-96ea-1224f6bef269",
-    "date": "2026-03-05T14:18:19.234Z",
-    "source": "Lever: Anchorage Digital"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/aave/jobs/69292127-senior-design-engineer#content",
-    "title": "Senior Design Engineer",
-    "company": "Aave",
-    "link": "https://jobs.avax.network/companies/aave/jobs/69292127-senior-design-engineer#content",
-    "date": "2026-03-05T13:10:15.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.avax.network/companies/aave/jobs/69292130-staff-design-engineer#content",
-    "title": "Staff Design Engineer",
-    "company": "Aave",
-    "link": "https://jobs.avax.network/companies/aave/jobs/69292130-staff-design-engineer#content",
-    "date": "2026-03-05T12:55:15.000Z",
-    "source": "Jobs | Avalanche Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/e07b8f77-1d39-417e-b298-5b321a49ca5e",
-    "title": "Binance News Lead - Flash News",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/e07b8f77-1d39-417e-b298-5b321a49ca5e",
-    "date": "2026-03-05T12:17:23.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/3b61df5d-2fa6-4efc-ae9e-5e9af5f8e6df",
-    "title": "Database Administrator (DBA) - MongoDB/MySQL",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/3b61df5d-2fa6-4efc-ae9e-5e9af5f8e6df",
-    "date": "2026-03-05T12:01:27.000Z",
-    "source": "Binance"
   }
 ]

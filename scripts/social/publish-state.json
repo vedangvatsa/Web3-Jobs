@@ -8,7 +8,7 @@
     "posted": []
   },
   "twitter": {
-    "lastIndex": 33,
+    "lastIndex": 34,
     "posted": [
       "post_7_x402_2026-03-27T05:43:43.910Z",
       "post_8_ai_agents_2026-03-27T05:50:06.513Z",
@@ -43,11 +43,12 @@
       "post_31_dao_governance_2026-04-03T11:58:23.519Z",
       "post_32_zk_privacy_2026-04-03T20:01:14.157Z",
       "post_33_web3_gaming_2026-04-04T05:09:27.084Z",
-      "post_34_digital_identity_2026-04-04T11:51:13.121Z"
+      "post_34_digital_identity_2026-04-04T11:51:13.121Z",
+      "post_35_depin_infra_2026-04-04T19:55:52.223Z"
     ]
   },
   "bluesky": {
-    "lastIndex": 29,
+    "lastIndex": 30,
     "posted": [
       "post_12_zk_proofs_2026-03-27T07:18:53.968Z",
       "post_13_restaking_2026-03-27T12:02:00.566Z",
@@ -78,7 +79,8 @@
       "post_38_remote_stats_2026-04-03T11:58:26.170Z",
       "post_39_salary_guide_2026-04-03T20:01:16.990Z",
       "post_40_demand_roles_2026-04-04T05:09:29.944Z",
-      "post_41_talent_gap_2026-04-04T11:51:16.448Z"
+      "post_41_talent_gap_2026-04-04T11:51:16.448Z",
+      "post_42_ai_premium_2026-04-04T19:55:54.786Z"
     ]
   }
 }
