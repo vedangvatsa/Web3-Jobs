@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://coinbase.getro.com/companies/button-2-243a7b79-e422-467b-aaac-a4f963bbb6f7/jobs/73447803-growth-lead#content",
+    "title": "Growth Lead",
+    "company": "Button",
+    "link": "https://coinbase.getro.com/companies/button-2-243a7b79-e422-467b-aaac-a4f963bbb6f7/jobs/73447803-growth-lead#content",
+    "date": "2026-04-05T19:57:21.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/sentient/ebbab895-1aa2-4234-a045-b3ec4d83520e?utm_source=jobs.panteracapital.com",
+    "title": "Director of Operations/Strategy",
+    "company": "Sentient",
+    "link": "https://jobs.ashbyhq.com/sentient/ebbab895-1aa2-4234-a045-b3ec4d83520e?utm_source=jobs.panteracapital.com",
+    "date": "2026-04-05T18:44:08.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/ffaefd63-770b-456c-8e8f-f3f3a2d84d2b/",
+    "title": "Regulatory Reporting Manager",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/ffaefd63-770b-456c-8e8f-f3f3a2d84d2b/",
+    "date": "2026-04-05T15:45:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/ca3e658a-6817-498a-8a5e-6fdfab49ed67/",
+    "title": "IT Support Engineer",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/ca3e658a-6817-498a-8a5e-6fdfab49ed67/",
+    "date": "2026-04-05T15:15:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/73403680-customer-support-team-lead#content",
     "title": "Customer Support Team Lead",
     "company": "Wave Mobile Money",
@@ -56,12 +88,28 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/73350639-product-manager-core-protocol#content",
+    "title": "Product Manager, Core Protocol",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/73350639-product-manager-core-protocol#content",
+    "date": "2026-04-04T11:21:37.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
     "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/73351415-accountant-revenue-special-projects#content",
     "title": "Accountant, Revenue & Special Projects",
     "company": "StreamingFast",
     "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/73351415-accountant-revenue-special-projects#content",
     "date": "2026-04-04T11:21:27.000Z",
     "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/73350638-solutions-architect-lead#content",
+    "title": "Solutions Architect Lead",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/73350638-solutions-architect-lead#content",
+    "date": "2026-04-04T11:06:37.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/73351413-analyst-technical-accounting#content",
@@ -2438,6 +2486,14 @@
     "link": "https://www.revolut.com/en-US/careers/position/fb84cd09-2cd3-45c1-b260-8d4860542a83/",
     "date": "2026-03-28T21:45:11.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/72518752-security-engineer#content",
+    "title": "Security Engineer",
+    "company": "Offchain Labs",
+    "link": "https://jobs.arbitrum.io/companies/offchain-labs/jobs/72518752-security-engineer#content",
+    "date": "2026-03-28T19:53:50.000Z",
+    "source": "Jobs | Arbitrum Job Board"
   },
   {
     "id": "https://jobs.lever.co/binance/3b6b27e7-9ede-4f54-bf88-3af0368222dc",
@@ -8614,93 +8670,5 @@
     "link": "https://www.hashgraph.com/careers/8453489002?gh_jid=8453489002",
     "date": "2026-03-06T16:21:01-05:00",
     "source": "Greenhouse: Hedera"
-  },
-  {
-    "id": "7685092",
-    "title": "Deal Lead, Robinhood Ventures",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7685092?t=gh_src=&gh_jid=7685092",
-    "date": "2026-03-06T10:59:21-05:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7253516",
-    "title": "Senior Software Engineer - Insitutional, Markets",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7253516?gh_jid=7253516",
-    "date": "2026-03-06T10:00:27-05:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455087-product-manager-core-protocol#content",
-    "title": "Product Manager, Core Protocol",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455087-product-manager-core-protocol#content",
-    "date": "2026-03-06T14:19:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455078-finance-manager-fp-a#content",
-    "title": "Finance Manager, FP&A",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455078-finance-manager-fp-a#content",
-    "date": "2026-03-06T13:49:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455081-solutions-architect-lead#content",
-    "title": "Solutions Architect Lead",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455081-solutions-architect-lead#content",
-    "date": "2026-03-06T13:34:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455084-head-of-finance#content",
-    "title": "Head of Finance",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455084-head-of-finance#content",
-    "date": "2026-03-06T13:19:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455056-security-engineer#content",
-    "title": "Security Engineer",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455056-security-engineer#content",
-    "date": "2026-03-06T13:04:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455061-data-center-engineer-nashville#content",
-    "title": "Data Center Engineer (Nashville)",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455061-data-center-engineer-nashville#content",
-    "date": "2026-03-06T12:49:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455067-research-scientist-engineer#content",
-    "title": "Research Scientist/Engineer",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455067-research-scientist-engineer#content",
-    "date": "2026-03-06T12:34:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455041-senior-quality-engineer-full-stack#content",
-    "title": "Senior Quality Engineer, Full Stack",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455041-senior-quality-engineer-full-stack#content",
-    "date": "2026-03-06T12:19:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455047-senior-quality-engineer-platform#content",
-    "title": "Senior Quality Engineer, Platform",
-    "company": "Offchain Labs",
-    "link": "https://jobs.spartangroup.io/companies/offchain-labs/jobs/69455047-senior-quality-engineer-platform#content",
-    "date": "2026-03-06T12:04:26.000Z",
-    "source": "Jobs | Spartan Group Job Board"
   }
 ]
