@@ -1,12 +1,18 @@
-import { Resend } from 'resend';
+import { SESv2Client, SendEmailCommand } from '@aws-sdk/client-sesv2';
 
-let resend: Resend | null = null;
+let sesClient: SESv2Client | null = null;
 
-function getResendClient(): Resend {
-  if (!resend) {
-    resend = new Resend(process.env.RESEND_API_KEY);
+function getSESClient(): SESv2Client {
+  if (!sesClient) {
+    sesClient = new SESv2Client({
+      region: process.env.AWS_SES_REGION || 'us-west-1',
+      credentials: {
+        accessKeyId: process.env.AWS_SES_ACCESS_KEY_ID!,
+        secretAccessKey: process.env.AWS_SES_SECRET_ACCESS_KEY!,
+      },
+    });
   }
-  return resend;
+  return sesClient;
 }
 
 export interface JobListing {
@@ -23,56 +29,59 @@ export async function sendJobAlertEmail(
   jobs: JobListing[]
 ): Promise<{ success: boolean; messageId?: string; error?: string; timestamp?: string }> {
   try {
-    if (!process.env.RESEND_API_KEY) {
-      console.error('RESEND_API_KEY is not configured');
+    if (!process.env.AWS_SES_ACCESS_KEY_ID || !process.env.AWS_SES_SECRET_ACCESS_KEY) {
+      console.error('AWS SES credentials are not configured');
       return { success: false, error: 'Email service not configured' };
     }
 
-    const fromEmail = process.env.EMAIL_FROM;
-    if (!fromEmail) {
-      console.error('EMAIL_FROM is not configured');
-      return { success: false, error: 'Sender email not configured' };
-    }
-    const fromName = process.env.EMAIL_FROM_NAME;
+    const fromEmail = process.env.EMAIL_FROM || 'hi@hashtagweb3.com';
+    const fromName = process.env.EMAIL_FROM_NAME || 'Hashtag Web3';
     const replyTo = process.env.EMAIL_REPLY_TO;
     const unsubscribeUrl = process.env.EMAIL_UNSUBSCRIBE_URL;
-    const listUnsubscribe = unsubscribeUrl ? `<${unsubscribeUrl}>` : undefined;
 
-    const hasDisplayName = fromEmail.includes('<') && fromEmail.includes('>');
-    const fromField = hasDisplayName
-      ? fromEmail
-      : (fromName ? `${fromName} <${fromEmail}>` : fromEmail);
+    const fromField = `${fromName} <${fromEmail}>`;
 
-    const client = getResendClient();
-    const { data, error } = await client.emails.send({
-      from: fromField,
-      to,
-      ...(replyTo ? { reply_to: replyTo } : {}),
-      subject: `New Web3 Jobs - ${jobs.length} New Positions Available`,
-      html: generateJobAlertHTML(jobs),
-      text: generateJobAlertText(jobs),
-      ...(listUnsubscribe
-        ? {
-            headers: {
-              'List-Unsubscribe': listUnsubscribe,
-              'List-Unsubscribe-Post': 'List-Unsubscribe=One-Click',
+    const client = getSESClient();
+    const command = new SendEmailCommand({
+      FromEmailAddress: fromField,
+      Destination: {
+        ToAddresses: [to],
+      },
+      ReplyToAddresses: replyTo ? [replyTo] : undefined,
+      Content: {
+        Simple: {
+          Subject: {
+            Data: `New Web3 Jobs - ${jobs.length} New Positions Available`,
+            Charset: 'UTF-8',
+          },
+          Body: {
+            Html: {
+              Data: generateJobAlertHTML(jobs),
+              Charset: 'UTF-8',
             },
+            Text: {
+              Data: generateJobAlertText(jobs),
+              Charset: 'UTF-8',
+            },
+          },
+        },
+      },
+      ...(unsubscribeUrl
+        ? {
+            ListManagementOptions: undefined,
           }
         : {}),
     });
 
-    if (error) {
-      console.error('Resend error:', error);
-      return { success: false, error: error.message, timestamp: new Date().toISOString() };
-    }
+    const response = await client.send(command);
 
-    return { 
-      success: true, 
-      messageId: data?.id,
-      timestamp: new Date().toISOString()
+    return {
+      success: true,
+      messageId: response.MessageId,
+      timestamp: new Date().toISOString(),
     };
   } catch (error: any) {
-    console.error('Failed to send email:', error);
+    console.error('Failed to send email:', error.message);
     return { success: false, error: error.message, timestamp: new Date().toISOString() };
   }
 }
@@ -101,25 +110,38 @@ export async function sendBatchJobAlerts(
     timestamp: string;
   }> = [];
 
-  // Send in batches to avoid rate limits
-  for (const email of emails) {
-    const result = await sendJobAlertEmail(email, jobs);
-    
-    details.push({
-      email,
-      success: result.success,
-      messageId: result.messageId,
-      error: result.error,
-      timestamp: result.timestamp || new Date().toISOString(),
-    });
+  // SES allows 14/sec — send with concurrency of 10 to be safe
+  const CONCURRENCY = 10;
 
-    if (result.success) {
-      sent++;
-    } else {
-      failed++;
+  for (let i = 0; i < emails.length; i += CONCURRENCY) {
+    const batch = emails.slice(i, i + CONCURRENCY);
+    const results = await Promise.all(
+      batch.map(async (email) => {
+        const result = await sendJobAlertEmail(email, jobs);
+        return { email, ...result };
+      })
+    );
+
+    for (const result of results) {
+      details.push({
+        email: result.email,
+        success: result.success,
+        messageId: result.messageId,
+        error: result.error,
+        timestamp: result.timestamp || new Date().toISOString(),
+      });
+
+      if (result.success) {
+        sent++;
+      } else {
+        failed++;
+      }
     }
-    // Rate limit: wait 100ms between emails
-    await new Promise(resolve => setTimeout(resolve, 100));
+
+    // Log progress every batch
+    if ((i + CONCURRENCY) % 100 === 0 || i + CONCURRENCY >= emails.length) {
+      console.log(`  Progress: ${Math.min(i + CONCURRENCY, emails.length)}/${emails.length} (sent: ${sent}, failed: ${failed})`);
+    }
   }
 
   return { sent, failed, details };
@@ -170,8 +192,8 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
             </div>
 
             <div style="margin-top: 18px; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 12px;">
-              <p style="margin: 6px 0;">You’re receiving this because you opted in to Hashtag Web3 job alerts.</p>
-              <p style="margin: 6px 0; font-size: 11px;">Prefer fewer emails? Reply with your preference and we’ll adjust.</p>
+              <p style="margin: 6px 0;">You're receiving this because you opted in to Hashtag Web3 job alerts.</p>
+              <p style="margin: 6px 0; font-size: 11px;">Prefer fewer emails? Reply with your preference and we'll adjust.</p>
               ${process.env.EMAIL_UNSUBSCRIBE_URL ? `
                 <p style="margin: 8px 0; font-size: 11px;">
                   <a href="${process.env.EMAIL_UNSUBSCRIBE_URL}" style="color: #9ca3af; text-decoration: underline;">Unsubscribe</a>
@@ -205,6 +227,6 @@ ${jobsText}
 View all jobs at: https://hashtagweb3.com/jobs
 
 ---
-You’re receiving this because you opted in to Hashtag Web3 job alerts.
+You're receiving this because you opted in to Hashtag Web3 job alerts.
   `;
 }

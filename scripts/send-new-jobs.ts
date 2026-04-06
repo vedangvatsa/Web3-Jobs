@@ -2,76 +2,46 @@
 
 /**
  * Script to filter and send new job alerts from the past N days
- * Usage: npm run send-new-jobs -- --days 7 --limit 15 --batch-size 100
+ * Usage: npm run send-new-jobs -- --days 7 --limit 15
  *
  * This script:
  * 1. Fetches all jobs from RSS feeds
  * 2. Filters jobs published in the last N days
- * 3. Sends emails to a batch of subscribers (default 100/day)
- * 4. Tracks which subscribers have been emailed this week in Firestore
+ * 3. Fetches subscribers from both 'subscribers' and 'manual_additions' collections
+ * 4. Sends emails to all unique subscribers via AWS SES (50k/day capacity)
  *
  * Requires FIREBASE_SERVICE_ACCOUNT_KEY env var (base64-encoded service account JSON)
  * or FIREBASE_SERVICE_ACCOUNT_JSON (raw JSON string).
+ * Requires AWS_SES_ACCESS_KEY_ID, AWS_SES_SECRET_ACCESS_KEY, AWS_SES_REGION.
  */
 
 import * as admin from 'firebase-admin';
 import { getJobs } from '@/lib/jobs';
 import { sendBatchJobAlerts, type JobListing } from '@/lib/email';
-import { Resend } from 'resend';
 
-async function cleanSuppressedEmails(db: admin.firestore.Firestore, resend: Resend): Promise<number> {
-  try {
-    console.log('🧹 Cleaning suppressed emails from subscriber list...');
+/**
+ * Fetch all unique emails from both 'subscribers' and 'manual_additions' collections.
+ */
+async function fetchAllSubscribers(db: admin.firestore.Firestore): Promise<string[]> {
+  console.log('📥 Fetching subscribers from all collections...');
 
-    // Fetch all emails from Resend
-    const resendResponse = await resend.emails.list({ limit: 500 });
+  const [subscribersSnap, manualSnap] = await Promise.all([
+    db.collection('subscribers').get(),
+    db.collection('manual_additions').get(),
+  ]);
 
-    if (!resendResponse.data || !resendResponse.data.data) {
-      console.log('ℹ️  No emails found in Resend to check');
-      return 0;
-    }
+  const allEmails = [
+    ...subscribersSnap.docs.map(doc => (doc.data().email as string)?.toLowerCase().trim()),
+    ...manualSnap.docs.map(doc => (doc.data().email as string)?.toLowerCase().trim()),
+  ].filter(Boolean);
 
-    // Identify suppressed emails
-    const suppressedEmails = new Set<string>();
-    resendResponse.data.data.forEach((email: any) => {
-      const lastEvent = email.last_event?.toLowerCase() || '';
-      const recipientEmail = Array.isArray(email.to) ? email.to[0] : email.to;
+  const uniqueEmails = [...new Set(allEmails)];
 
-      if (!recipientEmail) return;
+  console.log(`  subscribers: ${subscribersSnap.size} docs`);
+  console.log(`  manual_additions: ${manualSnap.size} docs`);
+  console.log(`  ✅ Total unique emails: ${uniqueEmails.length}`);
 
-      // Mark as suppressed if bounced, complained, or suppressed
-      if (lastEvent === 'bounced' || lastEvent === 'complained' || lastEvent === 'suppressed') {
-        suppressedEmails.add(recipientEmail.toLowerCase());
-      }
-    });
-
-    if (suppressedEmails.size === 0) {
-      console.log('✅ No suppressed emails found');
-      return 0;
-    }
-
-    // Find and delete suppressed subscribers
-    const snapshot = await db.collection('subscribers').get();
-    let deleted = 0;
-
-    for (const doc of snapshot.docs) {
-      const email = doc.data().email?.toLowerCase();
-      if (email && suppressedEmails.has(email)) {
-        await doc.ref.delete();
-        deleted++;
-      }
-    }
-
-    if (deleted > 0) {
-      console.log(`✅ Removed ${deleted} suppressed subscriber(s) from database`);
-    }
-
-    return deleted;
-  } catch (error: any) {
-    console.warn('⚠️  Failed to clean suppressed emails:', error.message);
-    console.log('Continuing with email send anyway...');
-    return 0;
-  }
+  return uniqueEmails;
 }
 
 /**
@@ -122,19 +92,15 @@ async function sendNewJobAlerts() {
   const limitIndex = args.indexOf('--limit');
   const jobLimit = limitIndex >= 0 ? parseInt(args[limitIndex + 1]) : 15;
 
-  const batchSizeIndex = args.indexOf('--batch-size');
-  const batchSize = batchSizeIndex >= 0 ? parseInt(args[batchSizeIndex + 1]) : 0; // 0 = send to all
-
-  console.log('📅 Job Alerts (Daily Batched)');
+  console.log('📅 Job Alerts (AWS SES)');
   console.log(`Mode: ${isDryRun ? 'DRY RUN' : 'LIVE'}`);
   console.log(`Days back: ${daysBack}`);
   console.log(`Job limit: ${jobLimit}`);
-  console.log(`Batch size: ${batchSize > 0 ? batchSize : 'ALL (no batching)'}`);
   console.log('');
 
-  if (!process.env.RESEND_API_KEY) {
-    console.error('❌ RESEND_API_KEY is missing');
-    console.log('Get your API key from https://resend.com/api-keys');
+  if (!process.env.AWS_SES_ACCESS_KEY_ID || !process.env.AWS_SES_SECRET_ACCESS_KEY) {
+    console.error('❌ AWS SES credentials are missing');
+    console.log('Set AWS_SES_ACCESS_KEY_ID and AWS_SES_SECRET_ACCESS_KEY');
     process.exit(1);
   }
 
@@ -147,53 +113,15 @@ async function sendNewJobAlerts() {
   }
 
   try {
-    // Clean suppressed emails first
-    const resend = new Resend(process.env.RESEND_API_KEY);
-    await cleanSuppressedEmails(db, resend);
-    console.log('');
+    // Fetch subscribers from both collections
+    const emails = await fetchAllSubscribers(db);
 
-    // Fetch subscribers via Admin SDK (bypasses Firestore security rules)
-    console.log('📥 Fetching subscribers...');
-    const snapshot = await db.collection('subscribers').get();
-
-    if (snapshot.empty) {
+    if (emails.length === 0) {
       console.log('⚠️  No subscribers found');
       process.exit(0);
     }
 
-    const emails: string[] = [...new Set(
-      snapshot.docs
-        .map(doc => (doc.data().email as string)?.toLowerCase().trim())
-        .filter(Boolean)
-    )];
-    console.log(`✅ Found ${emails.length} unique subscribers (${snapshot.size} total docs)`);
-
-    // Batch logic: pick the next unsent batch for this week
-    let emailsToSend = emails;
-    if (batchSize > 0 && emails.length > batchSize) {
-      // Get the weekly batch tracking doc
-      const now = new Date();
-      const weekId = getWeekId(now);
-      const batchDocRef = db.collection('emailBatches').doc(weekId);
-      const batchDoc = await batchDocRef.get();
-      
-      let sentEmails: string[] = [];
-      if (batchDoc.exists) {
-        sentEmails = batchDoc.data()?.sentEmails || [];
-      }
-      
-      // Filter out already-sent subscribers
-      const unsent = emails.filter(e => !sentEmails.includes(e.toLowerCase()));
-      console.log(`📊 Already sent this week: ${sentEmails.length}, remaining: ${unsent.length}`);
-      
-      if (unsent.length === 0) {
-        console.log('✅ All subscribers have been emailed this week. Nothing to do.');
-        process.exit(0);
-      }
-      
-      emailsToSend = unsent.slice(0, batchSize);
-      console.log(`📦 This batch: ${emailsToSend.length} subscribers`);
-    }
+    const emailsToSend = emails;
 
     // Fetch jobs and filter by date
     console.log(`📥 Fetching jobs from last ${daysBack} days...`);
@@ -246,8 +174,8 @@ async function sendNewJobAlerts() {
 
     if (isDryRun) {
       console.log('📋 DRY RUN SUMMARY:');
-      console.log(`Would send to: ${emailsToSend.length} subscribers (of ${emails.length} total)`);
-      console.log(`Sample emails: ${emailsToSend.slice(0, 3).join(', ')}`);
+      console.log(`Would send to: ${emailsToSend.length} subscribers`);
+      console.log(`Sample emails: ${emailsToSend.slice(0, 5).join(', ')}`);
       console.log('');
       console.log('New jobs to include:');
       newJobs.forEach((job: any, i: number) => {
@@ -286,47 +214,23 @@ async function sendNewJobAlerts() {
     const metricsFile = `delivery-metrics-${new Date().toISOString().split('T')[0]}.json`;
     const metrics = {
       timestamp: new Date().toISOString(),
+      provider: 'aws-ses',
       summary: {
         sent: result.sent,
         failed: result.failed,
-        total: emails.length,
+        total: emailsToSend.length,
         jobsIncluded: newJobs.length,
-        successRate: ((result.sent / emails.length) * 100).toFixed(2) + '%',
+        successRate: ((result.sent / emailsToSend.length) * 100).toFixed(2) + '%',
       },
       jobs: newJobs.map(j => ({ title: j.title, company: j.company })),
-      deliveries: result.details.map(d => ({
-        email: d.email,
-        success: d.success,
-        messageId: d.messageId,
-        error: d.error,
-        timestamp: d.timestamp,
-      })),
+      failures: result.details
+        .filter(d => !d.success)
+        .map(d => ({ email: d.email, error: d.error })),
     };
     
     const fs = await import('fs');
     fs.writeFileSync(metricsFile, JSON.stringify(metrics, null, 2));
     console.log(`\n📁 Detailed metrics saved to: ${metricsFile}`);
-
-    // Update batch tracking in Firestore
-    if (batchSize > 0) {
-      const weekId = getWeekId(new Date());
-      const batchDocRef = db.collection('emailBatches').doc(weekId);
-      const batchDoc = await batchDocRef.get();
-      const previouslySent: string[] = batchDoc.exists ? (batchDoc.data()?.sentEmails || []) : [];
-      
-      // Add successfully sent emails to the tracking list
-      const newlySent = result.details
-        .filter(d => d.success)
-        .map(d => d.email.toLowerCase());
-      
-      await batchDocRef.set({
-        sentEmails: [...previouslySent, ...newlySent],
-        lastUpdated: new Date().toISOString(),
-        totalSubscribers: emails.length,
-      }, { merge: true });
-      
-      console.log(`📊 Batch tracking updated: ${previouslySent.length + newlySent.length}/${emails.length} sent this week`);
-    }
 
   } catch (error: any) {
     console.error('❌ Error:', error.message);
