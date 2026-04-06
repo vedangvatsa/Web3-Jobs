@@ -54,7 +54,11 @@ export async function POST(request: NextRequest) {
       });
     }
 
-    const emails = snapshot.docs.map(doc => doc.data().email).filter(Boolean);
+    const emails = [...new Set(
+      snapshot.docs
+        .map(doc => (doc.data().email as string)?.toLowerCase().trim())
+        .filter(Boolean)
+    )];
 
     if (dryRun) {
       return NextResponse.json({

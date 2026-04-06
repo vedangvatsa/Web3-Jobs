@@ -1,15 +1,15 @@
-name: Send Daily Job Alerts
+name: Weekly Job Alerts
 
 on:
   schedule:
-    # Run every day at 9:00 AM UTC
-    # Sends to a batch of up to 100 subscribers each day
-    # to stay within Resend's 100 emails/day free-tier limit
-    - cron: '0 9 * * *'
+    # Run Mon, Tue, Wed at 9:00 AM UTC
+    # Batches ~211 subscribers across 3 days (100/day Resend free-tier limit)
+    # All subscribers receive the same weekly digest once
+    - cron: '0 9 * * 1,2,3'
   workflow_dispatch:
 
 jobs:
-  send-daily-alerts:
+  send-weekly-alerts:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Send job alerts (batched, 100/day)
+      - name: Send job alerts (weekly, batched 100/day)
         run: npm run send-new-jobs -- --days 7 --limit 15 --batch-size 100
         env:
           # Email service
