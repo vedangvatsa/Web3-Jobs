@@ -35,23 +35,32 @@ async function sendJobAlerts() {
     const allJobs = jobsCache.default || jobsCache;
     
     // Get latest jobs (sorted by date, limit to jobLimit)
-    const latestJobs = allJobs
-      .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
-      .reduce((acc: any[], job: any) => {
-        if (acc.length >= jobLimit) return acc;
-        const company = job.company || 'Unknown Company';
-        if (acc.some((item: any) => item.company === company)) return acc;
-        acc.push(job);
-        return acc;
-      }, [])
-      .map((job: any) => ({
+    const MAX_PER_COMPANY = 2;
+    const sorted = allJobs
+      .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+    const companyCounts = new Map<string, number>();
+    const latestJobs: any[] = [];
+
+    for (const job of sorted) {
+      if (latestJobs.length >= jobLimit) break;
+
+      const company = job.company || 'Unknown Company';
+      const key = company.toLowerCase();
+      const count = companyCounts.get(key) || 0;
+
+      if (count >= MAX_PER_COMPANY) continue;
+
+      companyCounts.set(key, count + 1);
+      latestJobs.push({
         title: job.title,
-        company: job.company || 'Unknown Company',
+        company,
         location: job.location || 'Remote',
         salary: job.salary,
         url: job.link,
         tags: job.tags?.slice(0, 5) || [],
-      }));
+      });
+    }
 
     if (latestJobs.length === 0) {
       console.log('No jobs found to send. Exiting.');

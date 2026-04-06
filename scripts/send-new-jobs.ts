@@ -161,10 +161,12 @@ async function sendNewJobAlerts() {
       process.exit(0);
     }
 
-    const emails: string[] = snapshot.docs
-      .map(doc => doc.data().email as string)
-      .filter(Boolean);
-    console.log(`✅ Found ${emails.length} total subscribers`);
+    const emails: string[] = [...new Set(
+      snapshot.docs
+        .map(doc => (doc.data().email as string)?.toLowerCase().trim())
+        .filter(Boolean)
+    )];
+    console.log(`✅ Found ${emails.length} unique subscribers (${snapshot.size} total docs)`);
 
     // Batch logic: pick the next unsent batch for this week
     let emailsToSend = emails;
@@ -200,21 +202,39 @@ async function sendNewJobAlerts() {
     const now = new Date();
     const thresholdDate = new Date(now.getTime() - daysBack * 24 * 60 * 60 * 1000);
 
-    const newJobs: JobListing[] = allJobs
+    const MAX_PER_COMPANY = 2;
+
+    // Filter by date and sort newest-first
+    const recentJobs = allJobs
       .filter((job: any) => {
         const jobDate = new Date(job.date);
         return jobDate >= thresholdDate;
       })
-      .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime())
-      .slice(0, jobLimit)
-      .map((job: any) => ({
+      .sort((a: any, b: any) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+    // Enforce per-company cap, then take top jobLimit
+    const companyCounts = new Map<string, number>();
+    const newJobs: JobListing[] = [];
+
+    for (const job of recentJobs) {
+      if (newJobs.length >= jobLimit) break;
+
+      const company = job.company?.name || job.company || 'Unknown Company';
+      const key = company.toLowerCase();
+      const count = companyCounts.get(key) || 0;
+
+      if (count >= MAX_PER_COMPANY) continue;
+
+      companyCounts.set(key, count + 1);
+      newJobs.push({
         title: job.title,
-        company: job.company?.name || job.company || 'Unknown Company',
+        company,
         location: job.location || 'Remote',
         salary: job.salary,
         url: job.link || job.url || `${process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com'}/jobs/${job.id}`,
         tags: job.tags?.slice(0, 5) || [],
-      }));
+      });
+    }
 
     console.log(`✅ Found ${newJobs.length} new jobs`);
     console.log('');
