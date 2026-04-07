@@ -1,7 +1,7 @@
 {
   "linkedin": {
-    "lastIndex": 19,
-    "lastScheduledAt": "2026-04-08T19:30:00.000Z",
+    "lastIndex": 24,
+    "lastScheduledAt": "2026-04-09T03:30:00.000Z",
     "postedHashes": [
       "d46332d0e84d",
       "910b9dfbc5cb",
@@ -17,12 +17,17 @@
       "7cf5400044ee",
       "a01e2b83f093",
       "6aae1d1c2b53",
-      "60562319e5ae"
+      "60562319e5ae",
+      "92a4f7d2ecb5",
+      "e000bc8c8bdc",
+      "fa33e05bd4d6",
+      "ef37618d27ee",
+      "8491496aa5bc"
     ]
   },
   "instagram": {
-    "lastIndex": 29,
-    "lastScheduledAt": "2026-04-08T19:30:00.000Z",
+    "lastIndex": 34,
+    "lastScheduledAt": "2026-04-09T03:30:00.000Z",
     "postedHashes": [
       "85ee1f0639ce",
       "88d643c71cc9",
@@ -38,7 +43,11 @@
       "d339162b1985",
       "c7d3dd46129b",
       "5baa8162584b",
-      "f6f4e3535c50"
+      "f6f4e3535c50",
+      "f70bdf4a62fe",
+      "beb6dec10006",
+      "017ffcdcdd99",
+      "84243c1e4f58"
     ]
   }
 }
