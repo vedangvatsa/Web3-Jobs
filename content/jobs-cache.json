@@ -1,5 +1,117 @@
 [
   {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/73544635-senior-recruiter#content",
+    "title": "Senior Recruiter",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/73544635-senior-recruiter#content",
+    "date": "2026-04-07T12:07:27.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "7691999003",
+    "title": "Vice President of Product, AI and Agent",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7691999003",
+    "date": "2026-04-07T06:57:53-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7691975003",
+    "title": "Compliance Analyst",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7691975003",
+    "date": "2026-04-07T06:25:51-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/e1592b21-71c6-4d18-a6ea-04aa3b5fb7eb?utm_source=jobs.a16z.com",
+    "title": "Senior Strategy & Operations Manager, Market Operations",
+    "company": "World",
+    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/e1592b21-71c6-4d18-a6ea-04aa3b5fb7eb?utm_source=jobs.a16z.com",
+    "date": "2026-04-07T09:57:08.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/73530434-head-of-kyc#content",
+    "title": "Head Of KYC",
+    "company": "Matrixport",
+    "link": "https://jobs.dragonfly.xyz/companies/matrixport/jobs/73530434-head-of-kyc#content",
+    "date": "2026-04-07T09:56:23.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/lightspark/800e2fcc-4f86-4068-aaa2-2990fea561d8?utm_source=jobs.paradigm.xyz",
+    "title": "Staff Product Manager, Payments Orchestration & Intelligence",
+    "company": "Lightspark",
+    "link": "https://jobs.ashbyhq.com/lightspark/800e2fcc-4f86-4068-aaa2-2990fea561d8?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-07T09:38:52.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7703911",
+    "title": "Integration Engineer (AUNZ)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7703911",
+    "date": "2026-04-07T09:23:52.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Analyst--Payment-Operations_JR100963",
+    "title": "Analyst, Payment Operations",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Analyst--Payment-Operations_JR100963",
+    "date": "2026-04-07T09:23:17.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/9f6b85d9-18bd-4247-92d9-6465ed1c6450",
+    "title": "Senior Frontend Engineer, Web Platform",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/9f6b85d9-18bd-4247-92d9-6465ed1c6450",
+    "date": "2026-04-07T09:19:44.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/288ac0f4-4148-40f4-9a55-1b1d5dc1f182",
+    "title": "Senior Android Developer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/288ac0f4-4148-40f4-9a55-1b1d5dc1f182",
+    "date": "2026-04-07T09:16:32.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://www.flyzipline.com/careers/open-roles?gh_jid=4110882003",
+    "title": "Staff Optomechanical Engineer",
+    "company": "Zipline",
+    "link": "https://www.flyzipline.com/careers/open-roles?gh_jid=4110882003",
+    "date": "2026-04-07T09:08:52.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/658",
+    "title": "Director",
+    "company": "CoinSwitch Kuber",
+    "link": "https://recruiterflow.com/coinswitch/jobs/658",
+    "date": "2026-04-07T08:53:52.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7780256",
+    "title": "Operations Associate, GTM Accelerate (Bangalore)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7780256",
+    "date": "2026-04-07T08:38:52.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/06124b56-fc53-47b7-85f7-d8d7df00eacb",
+    "title": "Binance Accelerator Program - Web & Mobile Engineering",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/06124b56-fc53-47b7-85f7-d8d7df00eacb",
+    "date": "2026-04-07T05:55:58.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://uk.linkedin.com/jobs/view/support-manager-emea-at-ashby-4394211834?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
     "title": "Support Manager - EMEA",
     "company": "Ashby",
@@ -6382,6 +6494,14 @@
     "link": "https://jobs.lever.co/binance/8da73ff0-9bdb-47fb-ac7b-34ba38cf7d18",
     "date": "2026-03-19T07:56:26.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "7671576003",
+    "title": "Principal Engineer, Agent Infrastructure & Memory Architecture",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7671576003",
+    "date": "2026-03-19T03:52:47-04:00",
+    "source": "Greenhouse: OKX"
   },
   {
     "id": "https://jobs.lever.co/binance/b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7",
