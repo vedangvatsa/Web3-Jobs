@@ -1,5 +1,189 @@
 [
   {
+    "id": "https://jobs.solana.com/companies/joyride-labs/jobs/73652828-founding-protocol-engineer#content",
+    "title": "Founding Protocol Engineer",
+    "company": "Joyride Labs",
+    "link": "https://jobs.solana.com/companies/joyride-labs/jobs/73652828-founding-protocol-engineer#content",
+    "date": "2026-04-08T05:26:43.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/73619620-iot-engineer#content",
+    "title": "IoT Engineer",
+    "company": "Fuse Energy",
+    "link": "https://jobs.multicoin.capital/companies/fuse-energy-2-8cc74c7e-aee2-4b0c-a976-d4157fc5f472/jobs/73619620-iot-engineer#content",
+    "date": "2026-04-08T05:26:43.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/render-foundation/jobs/73618787-ui-frontend-engineer#content",
+    "title": "UI Frontend Engineer",
+    "company": "Render Foundation",
+    "link": "https://jobs.solana.com/companies/render-foundation/jobs/73618787-ui-frontend-engineer#content",
+    "date": "2026-04-08T05:11:43.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/bvnk/jobs/73609526-merchant-support-analyst#content",
+    "title": "Merchant Support Analyst",
+    "company": "BVNK",
+    "link": "https://coinbase.getro.com/companies/bvnk/jobs/73609526-merchant-support-analyst#content",
+    "date": "2026-04-08T05:11:43.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/render-foundation/jobs/73618785-user-interface-and-user-experience-designer#content",
+    "title": "User Interface and User Experience Designer",
+    "company": "Render Foundation",
+    "link": "https://jobs.solana.com/companies/render-foundation/jobs/73618785-user-interface-and-user-experience-designer#content",
+    "date": "2026-04-08T04:56:43.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/73589405-director#content",
+    "title": "Director",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/73589405-director#content",
+    "date": "2026-04-08T04:56:43.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/73589401-lead#content",
+    "title": "Lead",
+    "company": "CoinSwitch",
+    "link": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/73589401-lead#content",
+    "date": "2026-04-08T04:41:43.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/73594399-forward-deployment-engineer-new-grad#content",
+    "title": "Forward Deployment Engineer - New Grad",
+    "company": "Breeze",
+    "link": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/73594399-forward-deployment-engineer-new-grad#content",
+    "date": "2026-04-08T04:26:43.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "7693024003",
+    "title": "Senior Manager, Voice of Customer (VOC)",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7693024003",
+    "date": "2026-04-07T23:11:10-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/860f5cd4-d415-4e1e-b10c-1a8854e75813",
+    "title": "Binance Accelerator Program - PR (APAC)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/860f5cd4-d415-4e1e-b10c-1a8854e75813",
+    "date": "2026-04-08T02:42:59.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/9391df63-4550-4fd6-8f57-51c08446e6ec",
+    "title": "Program Management Officer (PMO) – Binance Card",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/9391df63-4550-4fd6-8f57-51c08446e6ec",
+    "date": "2026-04-08T02:04:20.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/3fbacb86-5b41-44d5-9e43-e514cf711a32",
+    "title": "Accountant/ Financial Controller",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3fbacb86-5b41-44d5-9e43-e514cf711a32",
+    "date": "2026-04-08T01:49:20.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/6a3ac345-0b62-49b5-a61d-0b0e74058862",
+    "title": "HR & Admin - Gulf Binance",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/6a3ac345-0b62-49b5-a61d-0b0e74058862",
+    "date": "2026-04-08T01:45:59.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "7789395",
+    "title": "Staff Software Engineer, Backend - Platform (Payment Rails)",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7789395?gh_jid=7789395",
+    "date": "2026-04-07T21:37:11-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/7b77edcf-e084-4b8d-b6cf-ba75e2c3877f",
+    "title": "KOL Business Development Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/7b77edcf-e084-4b8d-b6cf-ba75e2c3877f",
+    "date": "2026-04-08T01:34:20.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/48006024-91a9-4d0f-a993-b687834cf9d9/",
+    "title": "FinCrime Risk Manager (Fraud)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/48006024-91a9-4d0f-a993-b687834cf9d9/",
+    "date": "2026-04-08T00:58:07.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://stripe.com/jobs/search?gh_jid=7788088",
+    "title": "Software Engineer",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7788088",
+    "date": "2026-04-08T00:43:07.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Senior-Accountant--APAC_JR100957",
+    "title": "Senior Accountant, APAC",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Senior-Accountant--APAC_JR100957",
+    "date": "2026-04-08T00:40:17.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/ellipsislabs/867f8f05-d423-43af-8c85-b6d63c3f57bd?utm_source=jobs.paradigm.xyz",
+    "title": "Marketing Associate",
+    "company": "Ellipsis Labs",
+    "link": "https://jobs.ashbyhq.com/ellipsislabs/867f8f05-d423-43af-8c85-b6d63c3f57bd?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-08T00:28:07.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/chainalysis-careers/f2dd6850-3bb9-4839-81ae-9c15dd052554?utm_source=jobs.paradigm.xyz",
+    "title": "Senior Field Marketing Manager",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/f2dd6850-3bb9-4839-81ae-9c15dd052554?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-08T00:13:07.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/43fc51c5-941a-47de-92bc-0c4824f0d610/",
+    "title": "Auditor (FinCrime)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/43fc51c5-941a-47de-92bc-0c4824f0d610/",
+    "date": "2026-04-07T23:58:07.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "4678597005",
+    "title": "Senior Product Manager, Growth",
+    "company": "Alchemy",
+    "link": "https://job-boards.greenhouse.io/alchemy/jobs/4678597005",
+    "date": "2026-04-07T19:22:21-04:00",
+    "source": "Greenhouse: Alchemy"
+  },
+  {
+    "id": "8497449002",
+    "title": "Director, Technical Accounting & Financial Reporting",
+    "company": "Hedera",
+    "link": "https://www.hashgraph.com/careers/8497449002?gh_jid=8497449002",
+    "date": "2026-04-07T18:03:26-04:00",
+    "source": "Greenhouse: Hedera"
+  },
+  {
     "id": "https://jobs.solana.com/companies/li-fi-2/jobs/73237220-mid-senior-web3-qa-engineer#content",
     "title": "Mid/Senior Web3 QA Engineer",
     "company": "LI.FI",
@@ -2664,12 +2848,44 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/a16e6e9c-54bc-4395-a7d7-297cb9ff25dc",
+    "title": "Marketing Manager Africa",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/a16e6e9c-54bc-4395-a7d7-297cb9ff25dc",
+    "date": "2026-03-30T21:30:52.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/cc8173c9-28b0-4d29-91ae-a717f9624d49",
+    "title": "Senior Business QA Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/cc8173c9-28b0-4d29-91ae-a717f9624d49",
+    "date": "2026-03-30T20:54:33.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/983edf6f-c4af-48d9-a156-187b7ab571b6",
+    "title": "MLRO - UK",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/983edf6f-c4af-48d9-a156-187b7ab571b6",
+    "date": "2026-03-30T20:36:08.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "7762866",
     "title": "Senior Software Engineering Manager, Credit Card",
     "company": "Gemini",
     "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7762866&gh_jid=7762866",
     "date": "2026-03-30T16:19:38-04:00",
     "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/d9f3e709-6560-44be-8ebf-1840663ecc64",
+    "title": "Senior Data Warehouse Engineer - Web3",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/d9f3e709-6560-44be-8ebf-1840663ecc64",
+    "date": "2026-03-30T20:17:57.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://coinbase.getro.com/companies/certora/jobs/72645179-cryptographic-security-researcher-est-to-gmt-4#content",
@@ -2688,12 +2904,28 @@
     "source": "Jobs | Solana Network Opportunities Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/27854477-0d7f-4f4c-989f-75309a59cf23",
+    "title": "SEO Regional Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/27854477-0d7f-4f4c-989f-75309a59cf23",
+    "date": "2026-03-30T19:59:48.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72622549-ai-security-engineer#content",
     "title": "AI Security Engineer",
     "company": "Wave Mobile Money",
     "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72622549-ai-security-engineer#content",
     "date": "2026-03-30T19:52:09.000Z",
     "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/2d8dae25-3bd6-4f72-8621-bea7d6a8f1fd",
+    "title": "SEO Technical Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/2d8dae25-3bd6-4f72-8621-bea7d6a8f1fd",
+    "date": "2026-03-30T19:41:39.000Z",
+    "source": "Binance"
   },
   {
     "id": "7754299",
@@ -9181,70 +9413,6 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/6639fca8-288a-434f-a4b4-e18454e4b6a8",
     "date": "2026-03-09T05:44:36.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/a16e6e9c-54bc-4395-a7d7-297cb9ff25dc",
-    "title": "Marketing Manager Africa",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/a16e6e9c-54bc-4395-a7d7-297cb9ff25dc",
-    "date": "2026-03-09T05:26:27.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/2f860de7-0cce-4185-bafb-f0e7c2b563dd",
-    "title": "Binance Accelerator Program - Marketing (Taiwan)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/2f860de7-0cce-4185-bafb-f0e7c2b563dd",
-    "date": "2026-03-09T05:10:46.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/cc8173c9-28b0-4d29-91ae-a717f9624d49",
-    "title": "Senior Business QA Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/cc8173c9-28b0-4d29-91ae-a717f9624d49",
-    "date": "2026-03-09T04:59:10.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/983edf6f-c4af-48d9-a156-187b7ab571b6",
-    "title": "MLRO - UK",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/983edf6f-c4af-48d9-a156-187b7ab571b6",
-    "date": "2026-03-09T04:40:59.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/d9f3e709-6560-44be-8ebf-1840663ecc64",
-    "title": "Senior Data Warehouse Engineer - Web3",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/d9f3e709-6560-44be-8ebf-1840663ecc64",
-    "date": "2026-03-09T04:22:51.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/27854477-0d7f-4f4c-989f-75309a59cf23",
-    "title": "SEO Regional Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/27854477-0d7f-4f4c-989f-75309a59cf23",
-    "date": "2026-03-09T04:04:39.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/2d8dae25-3bd6-4f72-8621-bea7d6a8f1fd",
-    "title": "SEO Technical Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/2d8dae25-3bd6-4f72-8621-bea7d6a8f1fd",
-    "date": "2026-03-09T03:51:40.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/7d0f2b3e-3322-46fa-9986-8403c06fab03",
-    "title": "Business Compliance Specialist",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/7d0f2b3e-3322-46fa-9986-8403c06fab03",
-    "date": "2026-03-09T03:37:19.000Z",
     "source": "Binance"
   }
 ]
