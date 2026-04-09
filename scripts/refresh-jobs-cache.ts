@@ -409,7 +409,7 @@ async function refreshJobsCache() {
 
   // --- Workable Public Search API ---
   // Searches Workable's global job board for web3-relevant keywords
-  const WORKABLE_QUERIES = ['web3', 'blockchain', 'crypto', 'DeFi', 'solidity', 'smart contract'];
+  const WORKABLE_QUERIES = ['web3', 'blockchain', 'crypto', 'DeFi', 'solidity', 'smart contract', 'ethereum', 'bitcoin', 'NFT', 'tokenomics'];
   
   for (const query of WORKABLE_QUERIES) {
     try {
