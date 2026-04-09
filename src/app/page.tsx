@@ -12,7 +12,8 @@ import type { WebPage, JobPosting } from 'schema-dts';
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
 export default async function JobsPage() {
-  const initialJobs = await getJobs();
+  const allJobs = await getJobs();
+  const initialJobs = allJobs.slice(0, 150);
   const headlines = [
       "Find Your Next Web3 Job",
       "Discover Top Crypto Roles",
@@ -74,7 +75,7 @@ export default async function JobsPage() {
                       <TransitioningHeadline phrases={headlines} />
                   </div>
               </section>
-              <div className="max-w-6xl mx-auto">
+              <article className="max-w-6xl mx-auto">
                   <TrustedBy />
                   <div className="text-center my-4 space-y-2">
                       <Link
@@ -90,7 +91,7 @@ export default async function JobsPage() {
                   <FirebaseClientProvider>
                     <JobBoard initialJobs={initialJobs} captureEmail={true} />
                   </FirebaseClientProvider>
-              </div>
+              </article>
           </div>
         </main>
       </div>
