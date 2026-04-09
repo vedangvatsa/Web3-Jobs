@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { Rss } from 'lucide-react';
 import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { FirebaseClientProvider } from '@/firebase/client-provider';
+import { SITE_STATS } from '@/lib/constants';
 import type { WebPage, JobPosting } from 'schema-dts';
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
@@ -85,7 +86,7 @@ export default async function JobsPage() {
                       className="text-sm text-muted-foreground hover:text-primary transition-colors group inline-flex items-center gap-2"
                       >
                       <Rss className="h-4 w-4 transition-transform group-hover:scale-110" />
-                      <span>Join our hiring feed with <strong className="text-primary">60,000+</strong> subscribers.</span>
+                      <span>Join our hiring feed with <strong className="text-primary">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
                       </Link>
                   </div>
                   <FirebaseClientProvider>
