@@ -148,6 +148,7 @@ export async function sendBatchJobAlerts(
 }
 
 function generateJobAlertHTML(jobs: JobListing[]): string {
+  const unsubscribeUrl = process.env.EMAIL_UNSUBSCRIBE_URL || 'https://hashtagweb3.com/unsubscribe';
   const jobsHTML = jobs.map(job => `
     <div style="padding: 14px 0; border-bottom: 1px solid #e5e7eb;">
       <a href="${job.url}" style="text-decoration: none; color: #111827; font-size: 16px; font-weight: 600;">
@@ -192,11 +193,12 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
             </div>
 
             <div style="margin-top: 18px; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; padding-top: 12px;">
+              <p style="margin: 6px 0;">Hashtag Web3 | Global Tech Recruitment</p>
               <p style="margin: 6px 0;">You're receiving this because you opted in to Hashtag Web3 job alerts.</p>
               <p style="margin: 6px 0; font-size: 11px;">Prefer fewer emails? Reply with your preference and we'll adjust.</p>
-              ${process.env.EMAIL_UNSUBSCRIBE_URL ? `
+              ${unsubscribeUrl ? `
                 <p style="margin: 8px 0; font-size: 11px;">
-                  <a href="${process.env.EMAIL_UNSUBSCRIBE_URL}" style="color: #9ca3af; text-decoration: underline;">Unsubscribe</a>
+                  <a href="${unsubscribeUrl}" style="color: #9ca3af; text-decoration: underline;">Unsubscribe</a>
                 </p>
               ` : ''}
             </div>
