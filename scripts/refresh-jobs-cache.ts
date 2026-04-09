@@ -407,57 +407,6 @@ async function refreshJobsCache() {
     }
   }
 
-  // --- Workable Public Search API ---
-  // Searches Workable's global job board for web3-relevant keywords
-  const WORKABLE_QUERIES = ['web3', 'blockchain', 'crypto', 'DeFi', 'solidity', 'smart contract', 'ethereum', 'bitcoin', 'NFT', 'tokenomics'];
-  
-  // Blocklist companies that appear in search results but aren't web3-relevant
-  const WORKABLE_COMPANY_BLOCKLIST = new Set([
-    'mira construction l.l.c', 'mira construction', 'unknown',
-  ]);
-
-  for (const query of WORKABLE_QUERIES) {
-    try {
-      const res = await fetch(`https://jobs.workable.com/api/v1/jobs?query=${encodeURIComponent(query)}&limit=50`);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json() as { jobs: Array<{ id: string; title: string; url: string; created: string; company?: { title?: string }; location?: { city?: string; countryName?: string } }> };
-
-      let added = 0;
-      for (const job of data.jobs) {
-        const title = cleanTitle(job.title);
-        const rawCompany = job.company?.title || '';
-        const company = normalizeCompany(rawCompany);
-        const link = job.url;
-        const date = job.created || new Date().toISOString();
-
-        // Skip if company is unknown or title is too long/short
-        if (!rawCompany || !link || !title || title.split(' ').length > 8) continue;
-        // Skip non-English titles (common on Workable global search)
-        if (/[^\x00-\x7F]/.test(title)) continue;
-        // Skip blocklisted companies
-        if (WORKABLE_COMPANY_BLOCKLIST.has(rawCompany.toLowerCase().trim())) continue;
-
-        const key = createUniqueKey(title, company);
-        if (!jobMap.has(key)) {
-          jobMap.set(key, {
-            id: job.id,
-            title,
-            company,
-            link,
-            date,
-            source: `Workable: ${company}`,
-          });
-          added++;
-        }
-      }
-      feedsOk++;
-      console.log(`  ✅ Workable ("${query}"): ${data.jobs.length} results, ${added} new`);
-    } catch (error: any) {
-      feedsFailed++;
-      console.warn(`  ❌ Workable ("${query}"): ${error.message}`);
-    }
-  }
-
   const elapsed = Date.now() - fetchStart;
   console.log(`\n⏱️ Fetched in ${elapsed}ms (${feedsOk} ok, ${feedsFailed} failed)`);
 
