@@ -202,6 +202,11 @@ async function refreshJobsCache() {
     { board: 'securitize', company: 'Securitize' },
     { board: 'copperco', company: 'Copper.co' },
     { board: 'figment', company: 'Figment' },
+    { board: 'eclipse', company: 'Eclipse' },
+    { board: 'nexus', company: 'Nexus' },
+    { board: 'openzeppelin', company: 'OpenZeppelin' },
+    { board: 'immunefi', company: 'Immunefi' },
+    { board: 'b2c2', company: 'B2C2' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -263,6 +268,9 @@ async function refreshJobsCache() {
     { board: 'arbitrumfoundation', company: 'Arbitrum Foundation' },
     { board: 'animocabrands', company: 'Animoca Brands' },
     { board: 'fuellabs', company: 'Fuel Labs' },
+    { board: 'ambergroup', company: 'Amber Group' },
+    { board: 'coingecko', company: 'CoinGecko' },
+    { board: 'coinmarketcap', company: 'CoinMarketCap' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -347,6 +355,13 @@ async function refreshJobsCache() {
     { board: 'Elliptic', company: 'Elliptic' },
     { board: 'Maple', company: 'Maple Finance' },
     { board: 'Blockdaemon', company: 'Blockdaemon' },
+    // L1 Chains
+    { board: 'Stacks', company: 'Stacks' },
+    { board: 'Stellar', company: 'Stellar' },
+    // Infra & Security
+    { board: 'nethermind', company: 'Nethermind' },
+    { board: 'cantina', company: 'Cantina' },
+    { board: 'cubist', company: 'Cubist' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
