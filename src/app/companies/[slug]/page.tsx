@@ -1,9 +1,8 @@
 import { Header } from '@/components/header';
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Button } from '@/components/ui/button';
-import { Building2, Briefcase, ExternalLink, Calendar, MapPin } from 'lucide-react';
+import { Building2, Briefcase, ExternalLink, Calendar, MapPin, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
@@ -12,7 +11,7 @@ import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
 import { CompanyApplyButton } from '@/components/tracking/company-apply-button';
 import { OutboundLink } from '@/components/tracking/outbound-link';
 
-export const revalidate = 3600; // Revalidate every hour
+export const revalidate = 3600;
 
 export async function generateStaticParams() {
   const companies = await getCompanies();
@@ -25,37 +24,29 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const company = await getCompanyBySlug(params.slug);
   
   if (!company) {
-    return {
-      title: 'Company Not Found',
-    };
+    return { title: 'Company Not Found' };
   }
 
   const siteUrl = 'https://hashtagweb3.com';
   const ogImageUrl = `${siteUrl}/api/og?type=company&title=${encodeURIComponent(company.name)}&count=${company.jobCount}`;
+  const desc = company.description 
+    ? `${company.description}. ${company.jobCount} open positions.`
+    : `${company.jobCount} open positions at ${company.name}. Browse Web3 and blockchain jobs.`;
 
   return {
-    title: `${company.name} Jobs & Careers - ${company.jobCount} Open Positions`,
-    description: `Find ${company.jobCount} current job openings at ${company.name}. Explore Web3, blockchain, and crypto career opportunities. Updated ${new Date(company.lastUpdated).toLocaleDateString()}.`,
-    alternates: {
-      canonical: `/companies/${company.slug}`,
-    },
+    title: `${company.name} Jobs — ${company.jobCount} Open Positions | Hashtag Web3`,
+    description: desc,
+    alternates: { canonical: `/companies/${company.slug}` },
     openGraph: {
-      title: `${company.name} Jobs & Careers - ${company.jobCount} Open Positions`,
-      description: `Find ${company.jobCount} current job openings at ${company.name}. Explore Web3 career opportunities.`,
+      title: `${company.name} — ${company.jobCount} Open Positions`,
+      description: desc,
       url: `${siteUrl}/companies/${company.slug}`,
-      images: [
-        {
-          url: ogImageUrl,
-          width: 1200,
-          height: 630,
-          alt: `${company.name} - ${company.jobCount} Jobs`,
-        },
-      ],
+      images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${company.name} Jobs` }],
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${company.name} Jobs - ${company.jobCount} Open Positions`,
-      description: `Find current job openings at ${company.name} in Web3 and blockchain.`,
+      title: `${company.name} — ${company.jobCount} Open Positions`,
+      description: desc,
       images: [ogImageUrl],
     },
   };
@@ -68,19 +59,20 @@ export default async function CompanyPage({ params }: { params: { slug: string }
     notFound();
   }
 
-  // Generate schema markup for organization and job postings
   const organizationSchema: WithContext<Organization> = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: company.name,
     ...(company.website && { url: company.website }),
+    ...(company.description && { description: company.description }),
+    ...(company.founded && { foundingDate: String(company.founded) }),
   };
 
   const jobPostingsSchema: WithContext<JobPosting>[] = company.jobs.slice(0, 10).map(job => ({
     '@context': 'https://schema.org',
     '@type': 'JobPosting',
     title: job.title,
-    description: `${job.title} position at ${company.name}`,
+    description: `${job.title} at ${company.name}`,
     datePosted: new Date(job.date).toISOString(),
     hiringOrganization: {
       '@type': 'Organization',
@@ -90,16 +82,13 @@ export default async function CompanyPage({ params }: { params: { slug: string }
     employmentType: 'FULL_TIME',
     jobLocation: {
       '@type': 'Place',
-      address: {
-        '@type': 'PostalAddress',
-        addressLocality: 'Remote'
-      }
+      address: { '@type': 'PostalAddress', addressLocality: company.headquarters || 'Remote' }
     },
     url: job.link,
     validThrough: new Date(new Date(job.date).setDate(new Date(job.date).getDate() + 30)).toISOString(),
   }));
 
-  // Group jobs by category (simple categorization based on title keywords)
+  // Simple job categorization
   const categorizeJob = (title: string): string => {
     const lower = title.toLowerCase();
     if (lower.includes('engineer') || lower.includes('developer') || lower.includes('software')) return 'Engineering';
@@ -136,9 +125,9 @@ export default async function CompanyPage({ params }: { params: { slug: string }
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">
-          <div className="container mx-auto px-4 py-8 md:py-16">
+          <div className="container mx-auto px-4 py-8 md:py-12 max-w-4xl">
             {/* Breadcrumbs */}
-            <nav className="text-sm text-muted-foreground mb-8">
+            <nav className="text-sm text-muted-foreground mb-6" aria-label="Breadcrumb">
               <Link href="/" className="hover:text-primary">Home</Link>
               {' / '}
               <Link href="/companies" className="hover:text-primary">Companies</Link>
@@ -146,193 +135,118 @@ export default async function CompanyPage({ params }: { params: { slug: string }
               <span className="text-foreground">{company.name}</span>
             </nav>
 
-            {/* Company Header */}
-            <div className="max-w-4xl mx-auto mb-12">
-              <div className="flex items-start gap-4 mb-6">
-                <div className="bg-primary/10 p-4 rounded-lg">
-                  <Building2 className="h-10 w-10 text-primary" />
+            {/* Company Header — Compact */}
+            <header className="mb-8">
+              <div className="flex items-start gap-4 mb-4">
+                <div className="bg-primary/10 p-3 rounded-lg shrink-0">
+                  <Building2 className="h-8 w-8 text-primary" />
                 </div>
-                <div className="flex-1">
-                  <h1 className="text-4xl font-bold mb-2">{company.name}</h1>
-                  <p className="text-xl text-muted-foreground">
-                    Jobs & Careers at {company.name}
-                  </p>
+                <div className="flex-1 min-w-0">
+                  <h1 className="text-3xl md:text-4xl font-bold mb-1">{company.name}</h1>
+                  {company.description && (
+                    <p className="text-muted-foreground">{company.description}</p>
+                  )}
                 </div>
               </div>
 
-              <Card className="bg-primary/5">
-                <CardContent className="pt-6">
-                  <div className="flex flex-wrap gap-6">
-                    <div className="flex items-center gap-2">
-                      <Briefcase className="h-5 w-5 text-primary" />
-                      <span className="font-semibold">{company.jobCount} Active Position{company.jobCount !== 1 ? 's' : ''}</span>
-                    </div>
-                    <div className="flex items-center gap-2">
-                      <Calendar className="h-5 w-5 text-primary" />
-                      <span className="text-sm text-muted-foreground">
-                        Updated {new Date(company.lastUpdated).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
-                      </span>
-                    </div>
-                    {company.website && (
-                      <div className="flex items-center gap-2">
-                        <ExternalLink className="h-5 w-5 text-primary" />
-                        <OutboundLink
-                          href={company.website}
-                          label={`${company.name} website`}
-                          className="text-sm hover:text-primary transition-colors"
-                        >
-                          Visit Website
-                        </OutboundLink>
-                      </div>
-                    )}
-                  </div>
-                </CardContent>
-              </Card>
-            </div>
+              {/* Meta row */}
+              <div className="flex flex-wrap items-center gap-4 text-sm">
+                <Badge variant="default" className="text-sm px-3 py-1">
+                  <Briefcase className="h-3.5 w-3.5 mr-1.5" />
+                  {company.jobCount} position{company.jobCount !== 1 ? 's' : ''}
+                </Badge>
+                {company.category && (
+                  <span className="flex items-center gap-1.5 text-muted-foreground">
+                    <Building2 className="h-3.5 w-3.5" />
+                    {company.category}
+                  </span>
+                )}
+                {company.headquarters && (
+                  <span className="flex items-center gap-1.5 text-muted-foreground">
+                    <MapPin className="h-3.5 w-3.5" />
+                    {company.headquarters}
+                  </span>
+                )}
+                {company.founded && (
+                  <span className="flex items-center gap-1.5 text-muted-foreground">
+                    <Calendar className="h-3.5 w-3.5" />
+                    Est. {company.founded}
+                  </span>
+                )}
+                {company.website && (
+                  <OutboundLink
+                    href={company.website}
+                    label={`${company.name} website`}
+                    className="flex items-center gap-1.5 text-primary hover:underline"
+                  >
+                    <ExternalLink className="h-3.5 w-3.5" />
+                    Website
+                  </OutboundLink>
+                )}
+              </div>
+            </header>
 
-            {/* About Section */}
-            <div className="max-w-4xl mx-auto mb-12">
-              <h2 className="text-2xl font-bold mb-4">About {company.name}</h2>
-              <Card>
-                <CardContent className="pt-6">
-                  {company.description && (
-                    <p className="text-lg font-medium mb-4">{company.description}</p>
-                  )}
-                  
-                  {(company.founded || company.category || company.headquarters) && (
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6 p-4 bg-muted/50 rounded-lg">
-                      {company.founded && (
-                        <div>
-                          <div className="text-sm text-muted-foreground mb-1">Founded</div>
-                          <div className="font-semibold">{company.founded}</div>
-                        </div>
-                      )}
-                      {company.category && (
-                        <div>
-                          <div className="text-sm text-muted-foreground mb-1">Category</div>
-                          <div className="font-semibold">{company.category}</div>
-                        </div>
-                      )}
-                      {company.headquarters && (
-                        <div className="flex items-start gap-2">
-                          <div>
-                            <div className="text-sm text-muted-foreground mb-1">Headquarters</div>
-                            <div className="font-semibold">{company.headquarters}</div>
-                          </div>
-                        </div>
-                      )}
-                    </div>
-                  )}
+            {/* About — Only if content exists, rendered inline */}
+            {company.about && (
+              <section className="mb-8">
+                <div 
+                  className="text-sm text-muted-foreground leading-relaxed prose prose-sm max-w-none"
+                  dangerouslySetInnerHTML={{ 
+                    __html: company.about
+                      .split('\n\n')
+                      .slice(0, 2) // Only first 2 paragraphs to keep it minimal
+                      .map(para => `<p class="mb-2">${para.replace(/\n/g, '<br />')}</p>`)
+                      .join('') 
+                  }} 
+                />
+              </section>
+            )}
 
-                  {company.about && (
-                    <div className="prose prose-sm max-w-none mb-4">
-                      <div 
-                        className="text-muted-foreground leading-relaxed"
-                        dangerouslySetInnerHTML={{ 
-                          __html: company.about
-                            .split('\n\n')
-                            .map(para => `<p class="mb-3">${para.replace(/\n/g, '<br />')}</p>`)
-                            .join('') 
-                        }} 
-                      />
-                    </div>
-                  )}
+            {/* Department breakdown — Inline badges */}
+            {Object.keys(jobsByCategory).length > 1 && (
+              <div className="flex flex-wrap gap-2 mb-8">
+                {Object.entries(jobsByCategory)
+                  .sort(([, a], [, b]) => b.length - a.length)
+                  .map(([category, jobs]) => (
+                    <Badge key={category} variant="secondary">
+                      {category}: {jobs.length}
+                    </Badge>
+                  ))}
+              </div>
+            )}
 
-                  {!company.about && (
-                    <p className="text-muted-foreground mb-4">
-                      {company.name} is actively hiring across multiple positions in the Web3 space. 
-                      This page lists all current job openings at {company.name}, updated in real-time 
-                      from our job aggregation system.
-                    </p>
-                  )}
-                  
-                  {Object.keys(jobsByCategory).length > 1 && (
-                    <div>
-                      <h3 className="font-semibold mb-2">Hiring by Department:</h3>
-                      <div className="flex flex-wrap gap-2">
-                        {Object.entries(jobsByCategory)
-                          .sort(([, a], [, b]) => b.length - a.length)
-                          .map(([category, jobs]) => (
-                            <Badge key={category} variant="secondary">
-                              {category}: {jobs.length}
-                            </Badge>
-                          ))}
-                      </div>
-                    </div>
-                  )}
-                </CardContent>
-              </Card>
-            </div>
-
-            {/* Job Listings */}
-            <div className="max-w-4xl mx-auto mb-12">
-              <h2 className="text-2xl font-bold mb-6">Open Positions ({company.jobCount})</h2>
-              <div className="space-y-4">
+            {/* Job Listings — Clean table-like layout */}
+            <section>
+              <h2 className="text-xl font-bold mb-4">
+                Open positions
+                <span className="text-muted-foreground font-normal ml-2">({company.jobCount})</span>
+              </h2>
+              <div className="divide-y border rounded-lg overflow-hidden">
                 {company.jobs.map((job) => (
-                  <Card key={job.id} className="hover:shadow-lg transition-all duration-300">
-                    <CardHeader>
-                      <div className="flex items-start justify-between gap-4">
-                        <div className="flex-1">
-                          <CardTitle className="text-xl mb-2">{job.title}</CardTitle>
-                          <CardDescription className="flex items-center gap-4 text-sm">
-                            <span className="flex items-center gap-1">
-                              <Building2 className="h-4 w-4" />
-                              {job.company}
-                            </span>
-                            <span className="flex items-center gap-1">
-                              <Calendar className="h-4 w-4" />
-                              {new Date(job.date).toLocaleDateString()}
-                            </span>
-                            <Badge variant="outline">{categorizeJob(job.title)}</Badge>
-                          </CardDescription>
-                        </div>
-                        <CompanyApplyButton
-                          jobId={job.id}
-                          jobTitle={job.title}
-                          companyName={company.name}
-                          jobUrl={job.link}
-                        />
+                  <div key={job.id} className="flex items-center justify-between gap-4 px-4 py-3 hover:bg-muted/50 transition-colors">
+                    <div className="flex-1 min-w-0">
+                      <div className="font-medium truncate">{job.title}</div>
+                      <div className="flex items-center gap-3 text-xs text-muted-foreground mt-0.5">
+                        <span>{new Date(job.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+                        <Badge variant="outline" className="text-xs py-0">{categorizeJob(job.title)}</Badge>
                       </div>
-                    </CardHeader>
-                  </Card>
+                    </div>
+                    <CompanyApplyButton
+                      jobId={job.id}
+                      jobTitle={job.title}
+                      companyName={company.name}
+                      jobUrl={job.link}
+                    />
+                  </div>
                 ))}
               </div>
-            </div>
+            </section>
 
-            {/* How to Apply Section */}
-            <div className="max-w-4xl mx-auto mb-12">
-              <h2 className="text-2xl font-bold mb-4">How to Apply to {company.name}</h2>
-              <Card>
-                <CardContent className="pt-6">
-                  <p className="text-muted-foreground mb-4">
-                    Click the "Apply Now" button on any position above to be redirected to the official 
-                    application page on {company.name}'s website or their hiring platform.
-                  </p>
-                  <p className="text-sm text-muted-foreground">
-                    💡 <strong>Tip:</strong> Make sure your resume highlights relevant Web3 experience 
-                    and includes links to your GitHub, portfolio, or previous blockchain projects.
-                  </p>
-                </CardContent>
-              </Card>
-            </div>
-
-            {/* About This Page */}
-            <div className="max-w-4xl mx-auto">
-              <Card className="bg-muted/50">
-                <CardContent className="pt-6">
-                  <h3 className="font-semibold mb-2">About This Page</h3>
-                  <p className="text-sm text-muted-foreground">
-                    This company page aggregates all current job openings at {company.name} from various 
-                    sources including official career pages and job boards. Information is updated regularly 
-                    to ensure accuracy. Last updated: {new Date(company.lastUpdated).toLocaleDateString('en-US', { 
-                      month: 'long', 
-                      day: 'numeric', 
-                      year: 'numeric' 
-                    })}.
-                  </p>
-                </CardContent>
-              </Card>
-            </div>
+            {/* Footer note */}
+            <p className="text-xs text-muted-foreground mt-6">
+              Updated {new Date(company.lastUpdated).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}. 
+              Jobs aggregated from {company.name}&apos;s career page.
+            </p>
           </div>
         </main>
       </div>
