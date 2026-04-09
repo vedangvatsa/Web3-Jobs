@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://jobs.lever.co/binance/272e94b7-f0f2-40e7-9bd9-30578106d8cd",
+    "title": "Compliance Team Lead - KYB",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/272e94b7-f0f2-40e7-9bd9-30578106d8cd",
+    "date": "2026-04-09T11:11:52.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "4670376006",
+    "title": "Senior DevOps Engineer",
+    "company": "Fireblocks",
+    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4670376006",
+    "date": "2026-04-09T06:56:36-04:00",
+    "source": "Greenhouse: Fireblocks"
+  },
+  {
+    "id": "7788653",
+    "title": "Senior Treasury Analyst, Global Treasury Operations",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7788653?gh_jid=7788653",
+    "date": "2026-04-09T06:10:31-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "https://recruiterflow.com/coinswitch/jobs/663",
+    "title": "Intern",
+    "company": "CoinSwitch Kuber",
+    "link": "https://recruiterflow.com/coinswitch/jobs/663",
+    "date": "2026-04-09T09:53:10.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/3d7a51a8-9e88-420d-a82e-8497c95f2ae9/",
+    "title": "Business Development Manager (Alternative Payment Methods)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/3d7a51a8-9e88-420d-a82e-8497c95f2ae9/",
+    "date": "2026-04-09T09:44:47.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/phantom/484c4522-40a5-450d-a31e-60f3e940cfa3?utm_source=jobs.a16z.com",
+    "title": "Senior Application Engineer, IT Engineering",
+    "company": "Phantom",
+    "link": "https://jobs.ashbyhq.com/phantom/484c4522-40a5-450d-a31e-60f3e940cfa3?utm_source=jobs.a16z.com",
+    "date": "2026-04-09T09:38:10.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/5f5f9070-aa99-4d2c-b5eb-df7cce680687/",
+    "title": "Support Specialist (Backoffice)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/5f5f9070-aa99-4d2c-b5eb-df7cce680687/",
+    "date": "2026-04-09T09:29:47.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://ripple.com/careers/all-jobs/job/7792368?gh_jid=7792368",
+    "title": "Sourcer - Hybrid (12-Month Contract)",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7792368?gh_jid=7792368",
+    "date": "2026-04-09T09:23:40.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/28baba93-ee8f-4d51-b373-e402d4bb96ff/",
+    "title": "FinCrime Analyst (KYC)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/28baba93-ee8f-4d51-b373-e402d4bb96ff/",
+    "date": "2026-04-09T09:14:47.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/c2fe112d-4081-4b6a-8af7-2456e174e23c",
+    "title": "Product Manager - OTC Business",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c2fe112d-4081-4b6a-8af7-2456e174e23c",
+    "date": "2026-04-09T07:35:54.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/2376dcd9-a881-48b0-a4ef-5da7dfbffc2d",
+    "title": "Creator Partnerships Manager, Binance Square",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/2376dcd9-a881-48b0-a4ef-5da7dfbffc2d",
+    "date": "2026-04-09T06:56:08.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/53357ba5-a562-4e82-b533-0f863bd71a52",
+    "title": "Regional Branding & Partnerships Manager - LATAM",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/53357ba5-a562-4e82-b533-0f863bd71a52",
+    "date": "2026-04-09T06:19:43.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/84955fa4-c377-4204-97c9-48bc1857b72d",
     "title": "Tech Lead (Content, Social & Live Streaming)",
     "company": "Binance",
@@ -14,6 +110,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7789499?gh_jid=7789499",
     "date": "2026-04-08T21:49:11-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Talos-Trading/add01889-5796-4331-8b00-aa3e7ee7b713?utm_source=jobs.a16z.com",
+    "title": "Sales Associate, New York",
+    "company": "Talos",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/add01889-5796-4331-8b00-aa3e7ee7b713?utm_source=jobs.a16z.com",
+    "date": "2026-04-09T00:39:47.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://jobs.ashbyhq.com/chainalysis-careers/7908b570-8cac-4d85-ba6e-88e82a10e6e9?utm_source=jobs.paradigm.xyz",
@@ -32,6 +136,14 @@
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
+    "id": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/fec4e715-0e4d-482c-97f8-cb0c26d72f36?utm_source=jobs.a16z.com",
+    "title": "Global Payroll and Tax Compliance Lead",
+    "company": "World",
+    "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/fec4e715-0e4d-482c-97f8-cb0c26d72f36?utm_source=jobs.a16z.com",
+    "date": "2026-04-09T00:24:47.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/lightspark/55206de4-a13e-4db9-8379-4519e456b22f?utm_source=jobs.paradigm.xyz",
     "title": "Lead Product Designer, Spark",
     "company": "Lightspark",
@@ -46,6 +158,14 @@
     "link": "https://jobs.ashbyhq.com/0x/6dbca8eb-0553-411d-b903-dfa5f73dfcd3?utm_source=jobs.panteracapital.com",
     "date": "2026-04-09T00:11:20.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/Talos-Trading/97cf0232-77d2-4285-be2a-e9bb56d5a41f?utm_source=jobs.a16z.com",
+    "title": "Sales Associate, Singapore",
+    "company": "Talos",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/97cf0232-77d2-4285-be2a-e9bb56d5a41f?utm_source=jobs.a16z.com",
+    "date": "2026-04-09T00:09:47.000Z",
+    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
     "id": "https://www.revolut.com/en-US/careers/position/e3263cad-b2e2-4a01-8e8c-c4ea29497501/",
@@ -830,6 +950,14 @@
     "link": "https://recruiterflow.com/coinswitch/jobs/658",
     "date": "2026-04-07T08:53:52.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "7783928",
+    "title": "Director, Sales",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7783928?gh_jid=7783928",
+    "date": "2026-04-07T04:46:37-04:00",
+    "source": "Greenhouse: Ripple"
   },
   {
     "id": "https://stripe.com/jobs/search?gh_jid=7780256",
@@ -9678,21 +9806,5 @@
     "link": "https://jobs.lever.co/anchorage/fedcf647-fbf5-4036-8f95-f372920dd3de",
     "date": "2026-03-10T12:19:13.475Z",
     "source": "Lever: Anchorage Digital"
-  },
-  {
-    "id": "7625655003",
-    "title": "Sr. VIP Relationship Manager, Western Europe & Benelux",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7625655003",
-    "date": "2026-03-10T03:49:59-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/1942ddce-1ec9-4bb8-b49a-250498bfd8a7",
-    "title": "Binance Accelerator Program - Frontend Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/1942ddce-1ec9-4bb8-b49a-250498bfd8a7",
-    "date": "2026-03-10T05:40:34.000Z",
-    "source": "Binance"
   }
 ]
