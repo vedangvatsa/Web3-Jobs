@@ -17,9 +17,7 @@ interface FeedSource {
 
 const FEEDS: FeedSource[] = [
   { url: 'https://politepol.com/fd/JEeZwG4KK7uT.xml', defaultCompany: 'Dragonfly' },
-  { url: 'https://politepol.com/fd/sDzglCq7RCpG.xml', defaultCompany: 'Paradigm' },
   { url: 'https://politepol.com/fd/bs9i34afSjHS.xml', defaultCompany: 'Arbitrum' },
-  { url: 'https://politepol.com/fd/oiXKHETnrDap.xml', defaultCompany: 'a16z' },
   { url: 'https://politepol.com/fd/Ane01VX84MOk.xml', defaultCompany: 'Pantera Capital' },
   { url: 'https://politepol.com/fd/HI6pMDlyEO7j.xml', defaultCompany: 'Avalanche' },
   { url: 'https://politepol.com/fd/uIQRejBOTRjO.xml', defaultCompany: 'Solana' },
@@ -183,6 +181,10 @@ async function refreshJobsCache() {
     { board: 'bybit', company: 'Bybit' },
     { board: 'bitmex', company: 'BitMEX' },
     { board: 'luno', company: 'Luno' },
+    // --- New Web3 companies ---
+    { board: 'a16z', company: 'a16z' },
+    { board: 'paradigm', company: 'Paradigm' },
+    { board: 'zora', company: 'Zora' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -239,6 +241,10 @@ async function refreshJobsCache() {
     // --- Crypto exchanges ---
     { board: 'gate', company: 'Gate.io' },
     { board: 'swissborg', company: 'SwissBorg' },
+    // --- New Web3 companies ---
+    { board: 'offchainlabs', company: 'Offchain Labs' },
+    { board: 'arbitrumfoundation', company: 'Arbitrum Foundation' },
+    { board: 'animocabrands', company: 'Animoca Brands' },
   ];
 
   for (const lv of LEVER_BOARDS) {
