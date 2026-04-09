@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://jobs.lever.co/binance/84955fa4-c377-4204-97c9-48bc1857b72d",
+    "title": "Tech Lead (Content, Social & Live Streaming)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/84955fa4-c377-4204-97c9-48bc1857b72d",
+    "date": "2026-04-09T05:25:02.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "7789499",
+    "title": "Regulatory Compliance Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7789499?gh_jid=7789499",
+    "date": "2026-04-08T21:49:11-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/chainalysis-careers/7908b570-8cac-4d85-ba6e-88e82a10e6e9?utm_source=jobs.paradigm.xyz",
+    "title": "Enterprise Account Executive, Crypto Native",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/7908b570-8cac-4d85-ba6e-88e82a10e6e9?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-09T00:37:13.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Lead-Product-Designer--Digital-Assets_JR100979",
+    "title": "Lead Product Designer, Digital Assets",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Lead-Product-Designer--Digital-Assets_JR100979",
+    "date": "2026-04-09T00:26:20.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/lightspark/55206de4-a13e-4db9-8379-4519e456b22f?utm_source=jobs.paradigm.xyz",
+    "title": "Lead Product Designer, Spark",
+    "company": "Lightspark",
+    "link": "https://jobs.ashbyhq.com/lightspark/55206de4-a13e-4db9-8379-4519e456b22f?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-09T00:22:13.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/0x/6dbca8eb-0553-411d-b903-dfa5f73dfcd3?utm_source=jobs.panteracapital.com",
+    "title": "Data Scientist (GTM)",
+    "company": "0x Labs",
+    "link": "https://jobs.ashbyhq.com/0x/6dbca8eb-0553-411d-b903-dfa5f73dfcd3?utm_source=jobs.panteracapital.com",
+    "date": "2026-04-09T00:11:20.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/e3263cad-b2e2-4a01-8e8c-c4ea29497501/",
+    "title": "Money Laundering Reporting Officer (MLRO)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/e3263cad-b2e2-4a01-8e8c-c4ea29497501/",
+    "date": "2026-04-09T00:07:13.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://bitso.com/jobs/7694027003?gh_jid=7694027003",
+    "title": "Sr. Specialist, Product FP&A",
+    "company": "Bitso",
+    "link": "https://bitso.com/jobs/7694027003?gh_jid=7694027003",
+    "date": "2026-04-08T23:56:20.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/f61158e0-970a-4968-a8fd-9168103d59ca/",
+    "title": "Collateral Manager",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/f61158e0-970a-4968-a8fd-9168103d59ca/",
+    "date": "2026-04-08T23:52:13.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "7779094",
+    "title": "Accounting Manager, GL Operations & Intercompany",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/7779094?gh_jid=7779094",
+    "date": "2026-04-08T19:19:12-04:00",
+    "source": "Greenhouse: Coinbase"
+  },
+  {
+    "id": "7773503",
+    "title": "Senior Technical Program Manager, Privacy",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7773503?t=gh_src=&gh_jid=7773503",
+    "date": "2026-04-08T18:53:18-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/73745830-accounting-manager-polymarket-us#content",
+    "title": "Accounting Manager, Polymarket US",
+    "company": "Polymarket",
+    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/73745830-accounting-manager-polymarket-us#content",
+    "date": "2026-04-08T21:18:59.000Z",
+    "source": "Jobs | Dragonfly Job Board"
+  },
+  {
     "id": "https://jobs.solana.com/companies/ergonia/jobs/73766540-head-of-product-crypto-binary-options-platform#content",
     "title": "Head of Product: Crypto Binary Options Platform",
     "company": "Ergonia",
@@ -3032,11 +3128,27 @@
     "source": "Greenhouse: OKX"
   },
   {
+    "id": "https://jobs.lever.co/binance/6ff02dfb-7dc9-4030-957e-19f12b46eb82",
+    "title": "Research BD Manager/Director",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/6ff02dfb-7dc9-4030-957e-19f12b46eb82",
+    "date": "2026-03-31T02:51:06.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/b4621ec3-f38c-47f6-bf16-971a56149e41",
     "title": "Senior Business Development Payment Operations - LATAM Region",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/b4621ec3-f38c-47f6-bf16-971a56149e41",
     "date": "2026-03-31T02:41:29.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/fd710f36-e9ee-4e9c-a72e-4dc6f4192c78",
+    "title": "Binance Accelerator Program - DevOps (Artificial Intelligence)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/fd710f36-e9ee-4e9c-a72e-4dc6f4192c78",
+    "date": "2026-03-31T02:36:06.000Z",
     "source": "Binance"
   },
   {
@@ -3053,6 +3165,14 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/bfa659fb-58bd-47f8-b872-55a23262f62c",
     "date": "2026-03-31T02:11:29.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/43d47b92-52ad-4e73-b076-88c6117dfca1",
+    "title": "Web3 Earn Product Operations Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/43d47b92-52ad-4e73-b076-88c6117dfca1",
+    "date": "2026-03-31T02:06:06.000Z",
     "source": "Binance"
   },
   {
@@ -6301,6 +6421,14 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/31d6ed82-6f2c-4601-95f3-0da29ed2549b",
     "date": "2026-03-23T07:05:27.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/ff0b2bae-a34f-4a31-b2c8-9c8d4b54677b",
+    "title": "Process Operations Manager, Derivatives",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/ff0b2bae-a34f-4a31-b2c8-9c8d4b54677b",
+    "date": "2026-03-23T06:50:27.000Z",
     "source": "Binance"
   },
   {
@@ -9566,85 +9694,5 @@
     "link": "https://jobs.lever.co/binance/1942ddce-1ec9-4bb8-b49a-250498bfd8a7",
     "date": "2026-03-10T05:40:34.000Z",
     "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/6ff02dfb-7dc9-4030-957e-19f12b46eb82",
-    "title": "Research BD Manager/Director",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6ff02dfb-7dc9-4030-957e-19f12b46eb82",
-    "date": "2026-03-10T05:25:45.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7697483",
-    "title": "Senior Software Engineer, Backend - Platform (Payments)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7697483?gh_jid=7697483",
-    "date": "2026-03-10T01:23:07-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/43d47b92-52ad-4e73-b076-88c6117dfca1",
-    "title": "Web3 Earn Product Operations Specialist",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/43d47b92-52ad-4e73-b076-88c6117dfca1",
-    "date": "2026-03-10T05:13:10.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7659465003",
-    "title": "Big Data Platform Engineer, AI Agent Platform",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7659465003",
-    "date": "2026-03-10T00:42:24-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/fd710f36-e9ee-4e9c-a72e-4dc6f4192c78",
-    "title": "Binance Accelerator Program - DevOps (Artificial Intelligence)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/fd710f36-e9ee-4e9c-a72e-4dc6f4192c78",
-    "date": "2026-03-10T04:38:32.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7683744",
-    "title": "Internal Audit Analyst",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7683744?gh_jid=7683744",
-    "date": "2026-03-09T19:28:48-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7670920",
-    "title": "Senior Software Engineer, Backend (Platform - Financial Eng)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7670920?gh_jid=7670920",
-    "date": "2026-03-09T18:01:56-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7697499",
-    "title": "Senior Software Engineer (Platform - AI Acceleration)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7697499?gh_jid=7697499",
-    "date": "2026-03-09T17:37:11-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "4670683005",
-    "title": "Head of GTM",
-    "company": "Alchemy",
-    "link": "https://job-boards.greenhouse.io/alchemy/jobs/4670683005",
-    "date": "2026-03-09T16:39:25-04:00",
-    "source": "Greenhouse: Alchemy"
-  },
-  {
-    "id": "7684768",
-    "title": "Disputes Investigator, Banking",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7684768?t=gh_src=&gh_jid=7684768",
-    "date": "2026-03-09T16:18:16-04:00",
-    "source": "Greenhouse: Robinhood"
   }
 ]
