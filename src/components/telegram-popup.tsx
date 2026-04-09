@@ -9,6 +9,7 @@ import {
   DialogTitle,
 } from '@/components/ui/dialog';
 import { Send, Zap, Users } from 'lucide-react';
+import { SITE_STATS } from '@/lib/constants';
 
 interface TelegramPopupProps {
   open: boolean;
@@ -30,7 +31,7 @@ export function TelegramPopup({ open, onOpenChange }: TelegramPopupProps) {
         <div className="flex items-center gap-4 text-xs text-muted-foreground">
           <span className="flex items-center gap-1.5">
             <Users className="h-3.5 w-3.5" />
-            60,000+ members
+            {SITE_STATS.telegramSubscribersFormatted} members
           </span>
           <span className="flex items-center gap-1.5">
             <Zap className="h-3.5 w-3.5" />
@@ -40,7 +41,7 @@ export function TelegramPopup({ open, onOpenChange }: TelegramPopupProps) {
 
         {/* CTA */}
         <div className="space-y-3 pt-1">
-          <a href="https://t.me/web3hiring" target="_blank" rel="noopener noreferrer" className="block">
+          <a href={SITE_STATS.telegramUrl} target="_blank" rel="noopener noreferrer" className="block">
             <Button className="w-full">
               Join Telegram <Send className="ml-2 h-3.5 w-3.5" />
             </Button>

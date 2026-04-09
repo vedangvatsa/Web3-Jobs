@@ -35,6 +35,7 @@ const FEED_TIMEOUT_MS = 8000;
 const COMPANY_ALIASES: Record<string, string> = {
   'anchorage': 'Anchorage Digital',
   'layerzero labs': 'LayerZero',
+  'layerzero': 'LayerZero',
   '1inch network': '1inch',
   '1inch': '1inch',
   'near protocol': 'NEAR',
@@ -45,6 +46,19 @@ const COMPANY_ALIASES: Record<string, string> = {
   'uniswap labs': 'Uniswap',
   'worldcoin': 'World',
   'world': 'World',
+  'dapper labs': 'Dapper Labs',
+  'dapper': 'Dapper Labs',
+  'offchain labs': 'Offchain Labs',
+  'arbitrum foundation': 'Arbitrum',
+  'arbitrum': 'Arbitrum',
+  'polygon labs': 'Polygon Labs',
+  'mysten labs': 'Mysten Labs',
+  'sky (makerdao)': 'Sky',
+  'maple finance': 'Maple Finance',
+  'magic eden': 'Magic Eden',
+  'lens protocol': 'Lens Protocol',
+  'espresso systems': 'Espresso Systems',
+  'pyth network': 'Pyth Network',
 };
 
 function normalizeCompany(company: string): string {
@@ -307,7 +321,6 @@ async function refreshJobsCache() {
     { board: 'Compound', company: 'Compound' },
     { board: 'Morpho', company: 'Morpho' },
     { board: 'Orca', company: 'Orca' },
-    { board: 'Paxos', company: 'Paxos' },
     // NFT & Social
     { board: 'OpenSea', company: 'OpenSea' },
     { board: 'MagicEden', company: 'Magic Eden' },
