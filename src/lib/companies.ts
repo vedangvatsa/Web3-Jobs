@@ -220,16 +220,43 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
 }
 
 /**
- * Get company statistics
+ * Get company statistics — all computed from real job data
  */
 export async function getCompanyStats() {
   const companies = await getCompanies();
   const totalJobs = companies.reduce((sum, c) => sum + c.jobCount, 0);
-  
+
+  // Category distribution (from enriched company profiles)
+  const categoryMap = new Map<string, number>();
+  companies.forEach(c => {
+    const cat = c.category || 'Other';
+    categoryMap.set(cat, (categoryMap.get(cat) || 0) + 1);
+  });
+  const categoryBreakdown = Array.from(categoryMap.entries())
+    .map(([category, count]) => ({ category, count, pct: Math.round((count / companies.length) * 100) }))
+    .sort((a, b) => b.count - a.count);
+
+  // Source distribution (RSS vs Greenhouse vs Lever vs Ashby)
+  const sourceMap = new Map<string, number>();
+  const jobs = await getJobs();
+  jobs.forEach(j => {
+    const src = j.source?.split(':')[0]?.trim() || 'RSS';
+    sourceMap.set(src, (sourceMap.get(src) || 0) + 1);
+  });
+  const sourceBreakdown = Array.from(sourceMap.entries())
+    .map(([source, count]) => ({ source, count, pct: Math.round((count / jobs.length) * 100) }))
+    .sort((a, b) => b.count - a.count);
+
+  // Companies with enriched profiles
+  const enrichedCount = companies.filter(c => c.description || c.about).length;
+
   return {
     totalCompanies: companies.length,
     totalJobs,
     averageJobsPerCompany: Math.round(totalJobs / companies.length),
     topCompanies: companies.slice(0, 10),
+    categoryBreakdown,
+    sourceBreakdown,
+    enrichedCount,
   };
 }
