@@ -51,7 +51,7 @@ export async function sendJobAlertEmail(
       Content: {
         Simple: {
           Subject: {
-            Data: `New Web3 Jobs - ${jobs.length} New Positions Available`,
+            Data: `New Web3 Jobs - ${jobs.length} Positions Available (${new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric' })})`,
             Charset: 'UTF-8',
           },
           Body: {
@@ -168,9 +168,6 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
       </head>
       <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.5; color: #111827; background-color: #ffffff; margin: 0; padding: 0;">
-        <div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent;">
-          Curated Web3 roles, handpicked for your next move.
-        </div>
         <div style="max-width: 640px; margin: 0 auto; padding: 24px;">
           <!-- Header -->
           <div style="padding: 8px 0 18px 0; border-bottom: 2px solid #111827;">
@@ -185,10 +182,14 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
 
             ${jobsHTML}
 
-            <div style="margin-top: 18px;">
-              <a href="https://hashtagweb3.com/jobs"
-                 style="display: inline-block; color: #111827; text-decoration: underline; font-weight: 600;">
-                Browse all jobs →
+            <!-- Prominent CTA Banner -->
+            <div style="margin: 32px 0; padding: 28px 20px; background-color: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; text-align: center;">
+              <h3 style="margin: 0 0 10px 0; font-size: 18px; color: #0f172a; font-weight: 700;">There's more where this came from.</h3>
+              <p style="margin: 0 0 20px 0; font-size: 14px; color: #64748b;">
+                We have hundreds of active roles across DeFi, Infrastructure, NFTs, and more. Come find your perfect match.
+              </p>
+              <a href="https://hashtagweb3.com/jobs" style="display: inline-block; background-color: #2563eb; color: #ffffff; padding: 14px 28px; text-decoration: none; font-weight: 600; border-radius: 8px; font-size: 15px; letter-spacing: 0.3px;">
+                Explore All Web3 Jobs
               </a>
             </div>
 
