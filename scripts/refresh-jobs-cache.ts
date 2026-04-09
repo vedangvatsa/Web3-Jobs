@@ -185,6 +185,9 @@ async function refreshJobsCache() {
     { board: 'a16z', company: 'a16z' },
     { board: 'paradigm', company: 'Paradigm' },
     { board: 'zora', company: 'Zora' },
+    { board: 'securitize', company: 'Securitize' },
+    { board: 'copperco', company: 'Copper.co' },
+    { board: 'figment', company: 'Figment' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -245,6 +248,7 @@ async function refreshJobsCache() {
     { board: 'offchainlabs', company: 'Offchain Labs' },
     { board: 'arbitrumfoundation', company: 'Arbitrum Foundation' },
     { board: 'animocabrands', company: 'Animoca Brands' },
+    { board: 'fuellabs', company: 'Fuel Labs' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -280,6 +284,91 @@ async function refreshJobsCache() {
     } catch (error: any) {
       feedsFailed++;
       console.warn(`  ❌ Lever (${lv.company}): ${error.message}`);
+    }
+  }
+
+  // --- Ashby API Sources ---
+  const ASHBY_BOARDS = [
+    // L1/L2 Chains
+    { board: 'polygon-labs', company: 'Polygon Labs' },
+    { board: 'mystenlabs', company: 'Mysten Labs' },
+    { board: 'Base', company: 'Base' },
+    { board: 'Cosmos', company: 'Cosmos' },
+    { board: 'Injective', company: 'Injective' },
+    { board: 'Conduit', company: 'Conduit' },
+    { board: 'Espresso', company: 'Espresso Systems' },
+    { board: 'Succinct', company: 'Succinct' },
+    { board: 'SkyEcosystem', company: 'Sky (MakerDAO)' },
+    // Exchanges & Trading
+    { board: 'Polymarket', company: 'Polymarket' },
+    { board: 'Backpack', company: 'Backpack' },
+    // DeFi
+    { board: 'Uniswap', company: 'Uniswap' },
+    { board: 'Compound', company: 'Compound' },
+    { board: 'Morpho', company: 'Morpho' },
+    { board: 'Orca', company: 'Orca' },
+    { board: 'Paxos', company: 'Paxos' },
+    // NFT & Social
+    { board: 'OpenSea', company: 'OpenSea' },
+    { board: 'MagicEden', company: 'Magic Eden' },
+    { board: 'Dapper', company: 'Dapper Labs' },
+    { board: 'Foundation', company: 'Foundation' },
+    { board: 'Lens', company: 'Lens Protocol' },
+    { board: 'Sorare', company: 'Sorare' },
+    // Wallets & Auth
+    { board: 'Phantom', company: 'Phantom' },
+    { board: 'Safe', company: 'Safe' },
+    { board: 'Turnkey', company: 'Turnkey' },
+    { board: 'SpruceID', company: 'Spruce' },
+    // Infra & Dev Tools
+    { board: 'Gelato', company: 'Gelato' },
+    { board: 'QuickNode', company: 'QuickNode' },
+    { board: 'Syndica', company: 'Syndica' },
+    { board: 'Helius', company: 'Helius' },
+    { board: '0x', company: '0x' },
+    { board: 'LI.FI', company: 'LI.FI' },
+    { board: 'Socket', company: 'Socket' },
+    { board: 'PythNetwork', company: 'Pyth Network' },
+    { board: 'Biconomy', company: 'Biconomy' },
+    // Analytics & Security
+    { board: 'Elliptic', company: 'Elliptic' },
+    { board: 'Maple', company: 'Maple Finance' },
+    { board: 'Blockdaemon', company: 'Blockdaemon' },
+  ];
+
+  for (const ab of ASHBY_BOARDS) {
+    try {
+      const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${ab.board}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json() as { jobs: Array<{ title: string; jobUrl: string; id: string; publishedAt: string; location: string; department: string }> };
+
+      let added = 0;
+      for (const job of data.jobs) {
+        const title = cleanTitle(job.title);
+        const company = normalizeCompany(ab.company);
+        const link = job.jobUrl;
+        const date = job.publishedAt || new Date().toISOString();
+
+        if (link && title && title.split(' ').length <= 8 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
+          const key = createUniqueKey(title, company);
+          if (!jobMap.has(key)) {
+            jobMap.set(key, {
+              id: job.id,
+              title,
+              company,
+              link,
+              date,
+              source: `Ashby: ${ab.company}`,
+            });
+            added++;
+          }
+        }
+      }
+      feedsOk++;
+      console.log(`  ✅ Ashby (${ab.company}): ${data.jobs.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Ashby (${ab.company}): ${error.message}`);
     }
   }
 
