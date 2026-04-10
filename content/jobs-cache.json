@@ -1,5 +1,69 @@
 [
   {
+    "id": "9d92f0f4-5ec3-4134-8c69-078b5357ec91",
+    "title": "Head of Trust & Safety (copy)",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/9d92f0f4-5ec3-4134-8c69-078b5357ec91",
+    "date": "2026-04-10T10:13:05.646Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "41c20f1b-db1f-49ae-a9d3-00df386a605f",
+    "title": "HR Admin (FTC)",
+    "company": "MoonPay",
+    "link": "https://jobs.lever.co/moonpay/41c20f1b-db1f-49ae-a9d3-00df386a605f",
+    "date": "2026-04-10T10:02:11.957Z",
+    "source": "Lever: MoonPay"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/2fda7b9d-5d79-44bb-a89a-e690a16f8bf8/",
+    "title": "Head of Wealth & Trading",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/2fda7b9d-5d79-44bb-a89a-e690a16f8bf8/",
+    "date": "2026-04-10T09:48:44.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "7695999003",
+    "title": "Head of Compliance & MLRO, Kazakhstan",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7695999003",
+    "date": "2026-04-10T05:03:18-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/794c927c-50f8-48c4-9d01-87b5436e81e5",
+    "title": "Growth Manager - Africa",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/794c927c-50f8-48c4-9d01-87b5436e81e5",
+    "date": "2026-04-10T08:00:54.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://trustswap.com/jobs/Head_of_Web3_Engineering_Architecture.pdf?utm_source=Avalanche+job+board&utm_medium=getro.com&gh_src=Avalanche+job+board",
+    "title": "Head of Web3 Engineering & Architecture",
+    "company": "TrustSwap",
+    "link": "https://trustswap.com/jobs/Head_of_Web3_Engineering_Architecture.pdf?utm_source=Avalanche+job+board&utm_medium=getro.com&gh_src=Avalanche+job+board",
+    "date": "2026-04-10T07:17:17.000Z",
+    "source": "Jobs | Avalanche Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/36f124e4-f715-41be-b5fb-4a002e588860/",
+    "title": "Localisation Specialist (Translator) - Finnish",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/36f124e4-f715-41be-b5fb-4a002e588860/",
+    "date": "2026-04-10T07:04:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/b195b9c7-b517-4068-b9a4-f816f1c8b1f9/",
+    "title": "Information Security Manager (Crypto)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/b195b9c7-b517-4068-b9a4-f816f1c8b1f9/",
+    "date": "2026-04-10T06:49:55.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://jobs.solana.com/companies/flipside-2-6790c3b8-90a0-436f-924c-be1514cfd654/jobs/73871025-enterprise-solutions-strategist#content",
     "title": "Enterprise Solutions Strategist",
     "company": "Flipside",
@@ -40,6 +104,14 @@
     "source": "Jobs | Avalanche Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/6cf5d920-36eb-4ebb-a789-4381461d8de3",
+    "title": "Binance Accelerator Program - AI Engineering",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/6cf5d920-36eb-4ebb-a789-4381461d8de3",
+    "date": "2026-04-10T04:31:18.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.avax.network/companies/aave/jobs/73888434-sales-engineer#content",
     "title": "Sales Engineer",
     "company": "Aave",
@@ -72,12 +144,28 @@
     "source": "Greenhouse: Coinbase"
   },
   {
+    "id": "https://jobs.lever.co/binance/e6c900a5-9dde-4b90-b6aa-b787a4cdd528",
+    "title": "Binance Accelerator Program - Post-Quantum Cryptography Researcher",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/e6c900a5-9dde-4b90-b6aa-b787a4cdd528",
+    "date": "2026-04-10T03:18:20.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "176c192e-500d-43dd-9936-1064c682cb08",
     "title": "Senior Enterprise Account Executive",
     "company": "Ethena",
     "link": "https://jobs.lever.co/ethena/176c192e-500d-43dd-9936-1064c682cb08",
     "date": "2026-04-10T00:48:07.207Z",
     "source": "Lever: Ethena"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/353e22f6-ed0a-4652-991d-202e15777a6e/",
+    "title": "Software Engineer (Python) - Credit",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/353e22f6-ed0a-4652-991d-202e15777a6e/",
+    "date": "2026-04-10T00:28:39.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "https://bitso.com/jobs/7695187003?gh_jid=7695187003",
@@ -2784,6 +2872,14 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/8ef9b0fb-19b8-4ca7-b457-f0ead04d6346",
+    "title": "Business Development - Payment (LATAM)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/8ef9b0fb-19b8-4ca7-b457-f0ead04d6346",
+    "date": "2026-04-02T00:22:51.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://www.revolut.com/en-US/careers/position/db136d1d-68de-4e14-b2ec-51b44cd6ed12/",
     "title": "Graduate Sales Executive (Hungarian Market)",
     "company": "Revolut",
@@ -3608,6 +3704,14 @@
     "source": "Greenhouse: Gemini"
   },
   {
+    "id": "https://jobs.lever.co/binance/520234e7-6556-487c-a779-23f59b24b9d3",
+    "title": "BA- Game Numerical Designer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/520234e7-6556-487c-a779-23f59b24b9d3",
+    "date": "2026-03-31T18:55:41.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "7722484",
     "title": "Senior Analytics Engineer",
     "company": "Consensys",
@@ -3622,6 +3726,22 @@
     "link": "https://recruiterflow.com/coinswitch/jobs/657",
     "date": "2026-03-31T18:41:34.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/81622e3a-ee21-4dca-8e99-5eb26469e254",
+    "title": "Senior Product Manager, KYC",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/81622e3a-ee21-4dca-8e99-5eb26469e254",
+    "date": "2026-03-31T18:40:41.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/f6e78b0c-f9a5-459b-ac09-d8951f9a47ba",
+    "title": "Android Engineer (Flutter, Kotlin)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/f6e78b0c-f9a5-459b-ac09-d8951f9a47ba",
+    "date": "2026-03-31T18:37:31.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.ashbyhq.com/skymavis/d17b0c55-f2a6-486d-85ad-8dda094132ae?utm_source=jobs.a16z.com",
@@ -3648,6 +3768,22 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/fcaef5ae-d16f-4fe0-b9db-f1824b3a33df",
+    "title": "iOS Engineer (Flutter, Swift)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/fcaef5ae-d16f-4fe0-b9db-f1824b3a33df",
+    "date": "2026-03-31T18:22:31.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/71f657c1-9e6e-4afe-b54f-6a5496f0a312",
+    "title": "Senior API Solutions Engineer (Python, Node.JS)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/71f657c1-9e6e-4afe-b54f-6a5496f0a312",
+    "date": "2026-03-31T18:19:21.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://recruiterflow.com/coinswitch/jobs/656",
     "title": "Business Associate",
     "company": "CoinSwitch Kuber",
@@ -3656,11 +3792,35 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/4cba8c12-a297-4036-84db-aef836169a36",
+    "title": "Senior Flutter Engineer (iOS, Android)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/4cba8c12-a297-4036-84db-aef836169a36",
+    "date": "2026-03-31T18:07:31.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/d06cced2-d8cc-4587-a747-64771019ec3c",
+    "title": "Frontend Engineer - Compliance Tech",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/d06cced2-d8cc-4587-a747-64771019ec3c",
+    "date": "2026-03-31T18:04:21.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/2a231328-8052-4e6b-8a69-d71037148e1b",
     "title": "Customer Service Representative (German & English)",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/2a231328-8052-4e6b-8a69-d71037148e1b",
     "date": "2026-03-31T18:01:06.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/3dd358c8-524d-4617-8b2c-476eb2ff4175",
+    "title": "Frontend Engineer Lead - KYC Tech",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3dd358c8-524d-4617-8b2c-476eb2ff4175",
+    "date": "2026-03-31T17:49:21.000Z",
     "source": "Binance"
   },
   {
@@ -3720,12 +3880,36 @@
     "source": "Greenhouse: Galaxy Digital"
   },
   {
+    "id": "https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354",
+    "title": "Quantitative Researcher",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354",
+    "date": "2026-03-31T12:33:21.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/74b46a59-997b-4e73-8002-a0ced88ebafb",
+    "title": "Senior Data Analyst (AI Compliance)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/74b46a59-997b-4e73-8002-a0ced88ebafb",
+    "date": "2026-03-31T12:15:09.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.solana.com/companies/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb/jobs/72766701-growth-lead-special-project#content",
     "title": "Growth Lead: Special Project",
     "company": "Jito Foundation",
     "link": "https://jobs.solana.com/companies/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb/jobs/72766701-growth-lead-special-project#content",
     "date": "2026-03-31T12:06:11.000Z",
     "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/31a86987-81b3-4719-9d93-fc80bd5584a5",
+    "title": "Blockchain Security Engineer (Smart Contract Auditing)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/31a86987-81b3-4719-9d93-fc80bd5584a5",
+    "date": "2026-03-31T11:56:59.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/f2e13d27-056b-4bb4-8ebe-f46d0f20df78",
@@ -3824,12 +4008,52 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/ec10bb42-4cbd-4db8-a38f-7ce1e549fcda",
+    "title": "Binance Accelerator Program - SEA Marketing",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/ec10bb42-4cbd-4db8-a38f-7ce1e549fcda",
+    "date": "2026-03-31T04:03:52.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/0477fd3b-581b-4b1a-a613-264e376d0401",
+    "title": "Smart Contract Security Engineer (Security Audit)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0477fd3b-581b-4b1a-a613-264e376d0401",
+    "date": "2026-03-31T03:45:40.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "7684587003",
     "title": "Senior Finance Manager, Intercompany",
     "company": "OKX",
     "link": "https://job-boards.greenhouse.io/okx/jobs/7684587003",
     "date": "2026-03-30T23:21:52-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/c5485dc7-b92f-46ac-8d74-958a415fa652",
+    "title": "Affiliate BD - Taiwan",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c5485dc7-b92f-46ac-8d74-958a415fa652",
+    "date": "2026-03-31T03:12:31.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/bbb1bb0c-9c3e-4183-bcd8-a6bfdc4a2c7c",
+    "title": "Institutional Sales Manager (APAC/SEA)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/bbb1bb0c-9c3e-4183-bcd8-a6bfdc4a2c7c",
+    "date": "2026-03-31T03:09:21.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/834478e8-854c-40d0-8093-7bc0a5e080d5",
+    "title": "LLM Applied Data Scientist (RAG/ NLP)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/834478e8-854c-40d0-8093-7bc0a5e080d5",
+    "date": "2026-03-31T02:54:21.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/6ff02dfb-7dc9-4030-957e-19f12b46eb82",
@@ -5686,6 +5910,14 @@
     "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188161-agent-operations-regional-lead#content",
     "date": "2026-03-26T13:26:43.000Z",
     "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "bb0b4fbe-a02a-4165-92fb-ab3a98767a39",
+    "title": "Chief Product Officer",
+    "company": "1inch",
+    "link": "https://jobs.lever.co/1inch/bb0b4fbe-a02a-4165-92fb-ab3a98767a39",
+    "date": "2026-03-26T13:26:08.274Z",
+    "source": "Lever: 1inch"
   },
   {
     "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202034-member-of-enterprise-technology-it-support#content",
@@ -10710,149 +10942,5 @@
     "link": "https://job-boards.greenhouse.io/luno/jobs/7704330",
     "date": "2026-03-11T09:06:59-04:00",
     "source": "Greenhouse: Luno"
-  },
-  {
-    "id": "0931c2bd-2401-452b-a834-120c76479f9c",
-    "title": "Senior Performance Marketer",
-    "company": "Dapper Labs",
-    "link": "https://jobs.ashbyhq.com/Dapper/0931c2bd-2401-452b-a834-120c76479f9c",
-    "date": "2026-03-11T11:51:19.255+00:00",
-    "source": "Ashby: Dapper Labs"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/81622e3a-ee21-4dca-8e99-5eb26469e254",
-    "title": "Senior Product Manager, KYC",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/81622e3a-ee21-4dca-8e99-5eb26469e254",
-    "date": "2026-03-11T11:26:37.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/520234e7-6556-487c-a779-23f59b24b9d3",
-    "title": "BA- Game Numerical Designer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/520234e7-6556-487c-a779-23f59b24b9d3",
-    "date": "2026-03-11T11:10:47.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/f6e78b0c-f9a5-459b-ac09-d8951f9a47ba",
-    "title": "Android Engineer (Flutter, Kotlin)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/f6e78b0c-f9a5-459b-ac09-d8951f9a47ba",
-    "date": "2026-03-11T10:40:08.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/fcaef5ae-d16f-4fe0-b9db-f1824b3a33df",
-    "title": "iOS Engineer (Flutter, Swift)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/fcaef5ae-d16f-4fe0-b9db-f1824b3a33df",
-    "date": "2026-03-11T10:29:22.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/4cba8c12-a297-4036-84db-aef836169a36",
-    "title": "Senior Flutter Engineer (iOS, Android)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/4cba8c12-a297-4036-84db-aef836169a36",
-    "date": "2026-03-11T10:14:52.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "5c2e7eab-b288-4daa-b94e-55057acff6c1",
-    "title": "Account Executive, German Speaking",
-    "company": "Gelato",
-    "link": "https://jobs.ashbyhq.com/Gelato/5c2e7eab-b288-4daa-b94e-55057acff6c1",
-    "date": "2026-03-11T10:06:16.052+00:00",
-    "source": "Ashby: Gelato"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/d06cced2-d8cc-4587-a747-64771019ec3c",
-    "title": "Frontend Engineer - Compliance Tech",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/d06cced2-d8cc-4587-a747-64771019ec3c",
-    "date": "2026-03-11T10:05:15.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/71f657c1-9e6e-4afe-b54f-6a5496f0a312",
-    "title": "Senior API Solutions Engineer (Python, Node.JS)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/71f657c1-9e6e-4afe-b54f-6a5496f0a312",
-    "date": "2026-03-11T09:53:00.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "f8a2f3b8-064b-4ad8-b288-8d606de5606a",
-    "title": "Account Executive, French Speaking",
-    "company": "Gelato",
-    "link": "https://jobs.ashbyhq.com/Gelato/f8a2f3b8-064b-4ad8-b288-8d606de5606a",
-    "date": "2026-03-11T09:48:17.959+00:00",
-    "source": "Ashby: Gelato"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/3dd358c8-524d-4617-8b2c-476eb2ff4175",
-    "title": "Frontend Engineer Lead - KYC Tech",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/3dd358c8-524d-4617-8b2c-476eb2ff4175",
-    "date": "2026-03-11T09:04:37.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354",
-    "title": "Quantitative Researcher",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354",
-    "date": "2026-03-11T08:13:03.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "4805292101",
-    "title": "IT Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4805292101",
-    "date": "2026-03-11T04:07:18-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/74b46a59-997b-4e73-8002-a0ced88ebafb",
-    "title": "Senior Data Analyst (AI Compliance)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/74b46a59-997b-4e73-8002-a0ced88ebafb",
-    "date": "2026-03-11T08:02:06.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/31a86987-81b3-4719-9d93-fc80bd5584a5",
-    "title": "Blockchain Security Engineer (Smart Contract Auditing)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/31a86987-81b3-4719-9d93-fc80bd5584a5",
-    "date": "2026-03-11T07:47:06.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/ec10bb42-4cbd-4db8-a38f-7ce1e549fcda",
-    "title": "Binance Accelerator Program - SEA Marketing",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/ec10bb42-4cbd-4db8-a38f-7ce1e549fcda",
-    "date": "2026-03-11T07:30:46.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/0477fd3b-581b-4b1a-a613-264e376d0401",
-    "title": "Smart Contract Security Engineer (Security Audit)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/0477fd3b-581b-4b1a-a613-264e376d0401",
-    "date": "2026-03-11T07:12:35.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/79781dcf-e943-4cfd-8284-ace0790b3024",
-    "title": "Business Development - Payment (LATAM)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/79781dcf-e943-4cfd-8284-ace0790b3024",
-    "date": "2026-03-11T07:09:24.000Z",
-    "source": "Binance"
   }
 ]
