@@ -1,5 +1,37 @@
 [
   {
+    "id": "https://jobs.multicoin.capital/companies/sei-labs-2/jobs/74076022-general-counsel#content",
+    "title": "General Counsel",
+    "company": "Sei Labs",
+    "link": "https://jobs.multicoin.capital/companies/sei-labs-2/jobs/74076022-general-counsel#content",
+    "date": "2026-04-12T11:55:13.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/range-2-e18be6f6-0793-4772-b997-4d572a379eb9/jobs/74083515-senior-full-stack-developer-typescript-frontend-focus#content",
+    "title": "Senior Full-Stack Developer (TypeScript) - Frontend Focus",
+    "company": "Range",
+    "link": "https://jobs.solana.com/companies/range-2-e18be6f6-0793-4772-b997-4d572a379eb9/jobs/74083515-senior-full-stack-developer-typescript-frontend-focus#content",
+    "date": "2026-04-12T11:40:14.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/range-2-e18be6f6-0793-4772-b997-4d572a379eb9/jobs/74083513-senior-backend-engineer#content",
+    "title": "Senior Backend Engineer",
+    "company": "Range",
+    "link": "https://jobs.solana.com/companies/range-2-e18be6f6-0793-4772-b997-4d572a379eb9/jobs/74083513-senior-backend-engineer#content",
+    "date": "2026-04-12T11:25:14.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Brand-Designer--Systems---Motion_JR100987-1",
+    "title": "Senior Brand Designer, Systems & Motion",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Brand-Designer--Systems---Motion_JR100987-1",
+    "date": "2026-04-12T09:41:47.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
     "id": "https://www.linkedin.com/jobs/view/associate-general-counsel-labor-employment-at-hadrian-4383116985?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
     "title": "Associate General Counsel, Labor & Employment",
     "company": "StreamingFast",
@@ -1728,6 +1760,62 @@
     "source": "Jobs | Dragonfly Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/fbb26eb6-699b-4e67-9289-8d4e48860081",
+    "title": "Ads Implementation Specialist - Social/Google",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/fbb26eb6-699b-4e67-9289-8d4e48860081",
+    "date": "2026-04-07T14:15:46.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/66e7f14c-d796-4c47-a10d-8b1123832fe0",
+    "title": "APAC Merchant Operations - P2P",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/66e7f14c-d796-4c47-a10d-8b1123832fe0",
+    "date": "2026-04-07T13:57:36.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/9512d474-c2b7-4a94-9bc8-1ea39c5d1b40",
+    "title": "Payment Integration Operation Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/9512d474-c2b7-4a94-9bc8-1ea39c5d1b40",
+    "date": "2026-04-07T13:39:25.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/bfe02d4b-f6bb-41db-b707-3202b26270d6",
+    "title": "Dispute Analyst - P2P",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/bfe02d4b-f6bb-41db-b707-3202b26270d6",
+    "date": "2026-04-07T13:21:16.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/ea5a4416-c454-45aa-81e1-71e8911d37dd",
+    "title": "(Senior) Product Manager, Margin Systems",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/ea5a4416-c454-45aa-81e1-71e8911d37dd",
+    "date": "2026-04-07T13:03:06.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/8916b15f-12ca-46e3-ae88-e62a85f14e1e",
+    "title": "(Senior) Product Manager, Futures backend",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/8916b15f-12ca-46e3-ae88-e62a85f14e1e",
+    "date": "2026-04-07T12:44:55.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/0c84b7c2-0dbb-4349-b012-028453dccb51",
+    "title": "(Senior) Product Manager, Trading Risk",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0c84b7c2-0dbb-4349-b012-028453dccb51",
+    "date": "2026-04-07T12:26:47.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/1e249db3-6818-4901-97ff-34fdacb62aad",
     "title": "VIP Sales (Mandarin Speaker)",
     "company": "Binance",
@@ -1776,12 +1864,28 @@
     "source": "Jobs | Dragonfly Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/c8bccd73-e4e2-4d40-bf3c-e6191c8d32a8",
+    "title": "Growth Manager, Binance Academy",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c8bccd73-e4e2-4d40-bf3c-e6191c8d32a8",
+    "date": "2026-04-07T09:53:01.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/lightspark/800e2fcc-4f86-4068-aaa2-2990fea561d8?utm_source=jobs.paradigm.xyz",
     "title": "Staff Product Manager, Payments Orchestration & Intelligence",
     "company": "Lightspark",
     "link": "https://jobs.ashbyhq.com/lightspark/800e2fcc-4f86-4068-aaa2-2990fea561d8?utm_source=jobs.paradigm.xyz",
     "date": "2026-04-07T09:38:52.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/7a7d4a7a-9c4a-4bd6-be32-86a8acfbafb0",
+    "title": "Senior Backend Engineer (Golang), AI Chat",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/7a7d4a7a-9c4a-4bd6-be32-86a8acfbafb0",
+    "date": "2026-04-07T09:34:44.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://stripe.com/jobs/search?gh_jid=7703911",
@@ -1824,6 +1928,22 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/7c084c74-a17f-4415-8637-c456f5e32445",
+    "title": "Quant Risk Analyst, Derivatives  (US Timezone)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/7c084c74-a17f-4415-8637-c456f5e32445",
+    "date": "2026-04-07T09:04:44.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/47312057-ebe1-46a6-a874-2d962e801aa5",
+    "title": "Talent Acquisition Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/47312057-ebe1-46a6-a874-2d962e801aa5",
+    "date": "2026-04-07T09:01:32.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://recruiterflow.com/coinswitch/jobs/658",
     "title": "Director",
     "company": "CoinSwitch Kuber",
@@ -1864,12 +1984,28 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/1f3997c4-01ee-42b2-8f94-2d8b23be2944",
+    "title": "Senior Product Manager, Margin Frontend",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/1f3997c4-01ee-42b2-8f94-2d8b23be2944",
+    "date": "2026-04-07T04:59:54.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.multicoin.capital/companies/ashby/jobs/73506376-renewal-manager-startup-emea#content",
     "title": "Renewal Manager, Startup - EMEA",
     "company": "Ashby",
     "link": "https://jobs.multicoin.capital/companies/ashby/jobs/73506376-renewal-manager-startup-emea#content",
     "date": "2026-04-07T04:55:49.000Z",
     "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/0d98c681-afa3-4c56-8f35-739f6ef83e58",
+    "title": "AI Growth Operations Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0d98c681-afa3-4c56-8f35-739f6ef83e58",
+    "date": "2026-04-07T04:41:29.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/be078bd8-60c6-4526-b110-670c11d83e5e",
@@ -2112,6 +2248,14 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/c140287a-cdcc-4e51-9dbb-a299509977a6",
+    "title": "Marketing Head- Tokocrypto",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c140287a-cdcc-4e51-9dbb-a299509977a6",
+    "date": "2026-04-06T09:31:05.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://www.revolut.com/en-US/careers/position/b5e2d7db-f2e5-4a29-b4c1-b1daf1ee3340/",
     "title": "Treasury Manager (Capital)",
     "company": "Revolut",
@@ -2120,12 +2264,28 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/814d7a77-1583-486f-869e-4619e2535256",
+    "title": "Binance Accelerator Program - Compliance Operations",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/814d7a77-1583-486f-869e-4619e2535256",
+    "date": "2026-04-06T09:12:55.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://www.revolut.com/en-US/careers/position/c8e584d6-0eac-4bee-b6d0-3cf748ce159f/",
     "title": "Technology Services Specialist (Network Engineer)",
     "company": "Revolut",
     "link": "https://www.revolut.com/en-US/careers/position/c8e584d6-0eac-4bee-b6d0-3cf748ce159f/",
     "date": "2026-04-06T09:01:41.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/2deb33c2-c43c-4cfd-8ef5-b351fcac0674",
+    "title": "Binance Accelerator Program - Operations (Dubai)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/2deb33c2-c43c-4cfd-8ef5-b351fcac0674",
+    "date": "2026-04-06T08:54:44.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/8b55f830-ec12-452a-8d6e-7c9e5c59ab04",
@@ -2160,12 +2320,36 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/5bdeb795-2c84-4245-a86f-c73c108c1bb9",
+    "title": "Frontend DevOps Engineer (EKS, K8s, Python, Terraform)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5bdeb795-2c84-4245-a86f-c73c108c1bb9",
+    "date": "2026-04-06T04:48:44.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.multicoin.capital/companies/genies/jobs/73469032-machine-learning-engineer-intern-image-generation#content",
     "title": "Machine Learning Engineer Intern - Image Generation",
     "company": "Genies",
     "link": "https://jobs.multicoin.capital/companies/genies/jobs/73469032-machine-learning-engineer-intern-image-generation#content",
     "date": "2026-04-06T04:38:05.000Z",
     "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/f141da32-c606-420e-97c2-f3ad2948b8f6",
+    "title": "SOC Security Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/f141da32-c606-420e-97c2-f3ad2948b8f6",
+    "date": "2026-04-06T04:33:44.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/1f800991-e2db-4b5f-9ce4-93ce1de00f46",
+    "title": "Senior QA Engineer - Earn",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/1f800991-e2db-4b5f-9ce4-93ce1de00f46",
+    "date": "2026-04-06T04:30:33.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.multicoin.capital/companies/genies/jobs/73469030-senior-machine-learning-engineer-ai-agent#content",
@@ -10686,93 +10870,5 @@
     "link": "https://jobs.ashbyhq.com/Dapper/5efee780-1cf3-4f23-86a4-538d2a37bfb1",
     "date": "2026-03-13T12:45:59.577+00:00",
     "source": "Ashby: Dapper Labs"
-  },
-  {
-    "id": "7663749003",
-    "title": "General Manager, X-Layer",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7663749003",
-    "date": "2026-03-13T07:03:47-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "4808788101",
-    "title": "VIP Relationship Manager, MENA",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4808788101",
-    "date": "2026-03-13T06:41:08-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "030db939-1519-4f64-901a-a4d801bc340e",
-    "title": "Senior Backend Engineer, Revenue Systems",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/030db939-1519-4f64-901a-a4d801bc340e",
-    "date": "2026-03-13T10:24:49.346+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "d888da9c-e228-48fc-b15f-0e4077de4482",
-    "title": "Head of Legal",
-    "company": "Sky",
-    "link": "https://jobs.ashbyhq.com/SkyEcosystem/d888da9c-e228-48fc-b15f-0e4077de4482",
-    "date": "2026-03-13T10:10:38.565+00:00",
-    "source": "Ashby: Sky (MakerDAO)"
-  },
-  {
-    "id": "4808500101",
-    "title": "Thailand Country Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4808500101",
-    "date": "2026-03-13T05:41:07-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/fbb26eb6-699b-4e67-9289-8d4e48860081",
-    "title": "Ads Implementation Specialist - Social/Google",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/fbb26eb6-699b-4e67-9289-8d4e48860081",
-    "date": "2026-03-13T09:18:03.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/66e7f14c-d796-4c47-a10d-8b1123832fe0",
-    "title": "APAC Merchant Operations - P2P",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/66e7f14c-d796-4c47-a10d-8b1123832fe0",
-    "date": "2026-03-13T07:28:51.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/9512d474-c2b7-4a94-9bc8-1ea39c5d1b40",
-    "title": "Payment Integration Operation Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/9512d474-c2b7-4a94-9bc8-1ea39c5d1b40",
-    "date": "2026-03-13T07:10:41.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/bfe02d4b-f6bb-41db-b707-3202b26270d6",
-    "title": "Dispute Analyst - P2P",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/bfe02d4b-f6bb-41db-b707-3202b26270d6",
-    "date": "2026-03-13T06:16:10.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/ea5a4416-c454-45aa-81e1-71e8911d37dd",
-    "title": "(Senior) Product Manager, Margin Systems",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/ea5a4416-c454-45aa-81e1-71e8911d37dd",
-    "date": "2026-03-13T06:06:30.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/8916b15f-12ca-46e3-ae88-e62a85f14e1e",
-    "title": "(Senior) Product Manager, Futures backend",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/8916b15f-12ca-46e3-ae88-e62a85f14e1e",
-    "date": "2026-03-13T05:48:19.000Z",
-    "source": "Binance"
   }
 ]
