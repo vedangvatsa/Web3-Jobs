@@ -226,7 +226,7 @@ async function main() {
     process.exit(1);
   }
 
-  // Live send
+  // Live send — SES rate limit is ~14/sec, so we send 5 at a time with delays
   const client = new SESv2Client({
     region: process.env.AWS_SES_REGION || 'us-west-1',
     credentials: {
@@ -235,20 +235,39 @@ async function main() {
     },
   });
 
+  const sleep = (ms: number) => new Promise(r => setTimeout(r, ms));
+
+  async function sendWithRetry(client: SESv2Client, email: string, maxRetries = 3): Promise<{ success: boolean; error?: string }> {
+    for (let attempt = 0; attempt <= maxRetries; attempt++) {
+      const result = await sendOneEmail(client, email);
+      if (result.success) return result;
+      if (result.error?.includes('Maximum sending rate exceeded') && attempt < maxRetries) {
+        await sleep(1000 * (attempt + 1)); // exponential backoff: 1s, 2s, 3s
+        continue;
+      }
+      return result;
+    }
+    return { success: false, error: 'Max retries exceeded' };
+  }
+
   let sent = 0, failed = 0;
-  const CONCURRENCY = 10;
+  const CONCURRENCY = 5; // Conservative to stay under SES rate limit
+  const BATCH_DELAY_MS = 1200; // 1.2s between batches
 
   for (let i = 0; i < emails.length; i += CONCURRENCY) {
     const batch = emails.slice(i, i + CONCURRENCY);
-    const results = await Promise.all(batch.map(e => sendOneEmail(client, e)));
+    const results = await Promise.all(batch.map(e => sendWithRetry(client, e)));
 
     for (const r of results) {
-      if (r.success) sent++; else { failed++; console.error(`  ❌ ${r.error}`); }
+      if (r.success) sent++; else { failed++; }
     }
 
     if ((i + CONCURRENCY) % 100 === 0 || i + CONCURRENCY >= emails.length) {
       console.log(`  Progress: ${Math.min(i + CONCURRENCY, emails.length)}/${emails.length} (sent: ${sent}, failed: ${failed})`);
     }
+
+    // Rate limit: wait between batches
+    await sleep(BATCH_DELAY_MS);
   }
 
   console.log(`\n✅ Done! Sent: ${sent}, Failed: ${failed}`);
