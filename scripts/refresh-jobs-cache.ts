@@ -419,29 +419,39 @@ async function refreshJobsCache() {
   allJobs = allJobs.filter(job => new Date(job.date) > thirtyDaysAgo);
 
   // Filter out unwanted companies and non-tech roles
+  const BLOCKED_COMPANIES = new Set([
+    'crusoe', 'florida street', 'wyoming stable token commission',
+    'katana',          // Restaurant chain, not web3
+    'fuse energy',     // Energy company, not web3
+  ]);
+
   const BLOCKED_TITLE_KEYWORDS = [
     'chef', 'cook', 'sous chef', 'pastry', 'barista', 'bartender', 'sommelier',
     'kitchen', 'food service', 'catering',
     'janitor', 'custodian', 'cleaner', 'housekeeper', 'housekeeping', 'laundry',
-    'driver', 'chauffeur', 'courier', 'delivery',
+    'driver', 'chauffeur', 'courier', 'delivery driver',
     'receptionist', 'front desk', 'concierge',
-    'waiter', 'waitress', 'server', 'busser', 'dishwasher',
+    'waiter', 'waitress', 'busser', 'dishwasher',
     'landscaper', 'groundskeeper', 'plumber', 'electrician', 'carpenter', 'hvac',
     'security guard', 'security officer', 'bouncer',
     'nurse', 'physician', 'dentist', 'pharmacist', 'veterinarian',
     'nanny', 'babysitter', 'childcare',
+    'robata', 'sushi', 'mixologist',
   ];
 
   allJobs = allJobs.filter(job => {
-    const titleLower = job.title.toLowerCase();
-    const companyLower = job.company.toLowerCase();
+    const titleLower = job.title.toLowerCase().trim();
+    const companyLower = job.company.toLowerCase().trim();
 
-    // Block specific companies
-    if (companyLower === 'crusoe') return false;
-    if (companyLower === 'florida street') return false;
-    if (companyLower === 'wyoming stable token commission') return false;
+    // Block specific companies entirely
+    if (BLOCKED_COMPANIES.has(companyLower)) return false;
+
+    // Block placeholder/generic entries
     if (companyLower === 'interop labs' && titleLower.includes('interested in working with us')) return false;
     if (job.title.includes('*')) return false;
+
+    // Block titles that are actually locations (e.g. "West Hollywood, CA")
+    if (/^[A-Z][a-z]+(\s[A-Z][a-z]+)?,\s*[A-Z]{2}$/.test(job.title.trim())) return false;
 
     // Block non-tech roles by title keyword
     if (BLOCKED_TITLE_KEYWORDS.some(kw => titleLower.includes(kw))) return false;
