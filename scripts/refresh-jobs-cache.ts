@@ -418,15 +418,36 @@ async function refreshJobsCache() {
   thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
   allJobs = allJobs.filter(job => new Date(job.date) > thirtyDaysAgo);
 
-  // Filter out unwanted companies
-  allJobs = allJobs.filter(job =>
-    job.company.toLowerCase() !== 'crusoe' &&
-    !(job.company.toLowerCase() === 'interop labs' && job.title.toLowerCase().includes('interested in working with us')) &&
-    job.company.toLowerCase() !== 'florida street' &&
-    !job.title.includes('*') &&
-    job.company.toLowerCase() !== 'wyoming stable token commission' &&
-    !(job.company.toLowerCase() === 'katana' && job.title.toLowerCase().includes('bartender'))
-  );
+  // Filter out unwanted companies and non-tech roles
+  const BLOCKED_TITLE_KEYWORDS = [
+    'chef', 'cook', 'sous chef', 'pastry', 'barista', 'bartender', 'sommelier',
+    'kitchen', 'food service', 'catering',
+    'janitor', 'custodian', 'cleaner', 'housekeeper', 'housekeeping', 'laundry',
+    'driver', 'chauffeur', 'courier', 'delivery',
+    'receptionist', 'front desk', 'concierge',
+    'waiter', 'waitress', 'server', 'busser', 'dishwasher',
+    'landscaper', 'groundskeeper', 'plumber', 'electrician', 'carpenter', 'hvac',
+    'security guard', 'security officer', 'bouncer',
+    'nurse', 'physician', 'dentist', 'pharmacist', 'veterinarian',
+    'nanny', 'babysitter', 'childcare',
+  ];
+
+  allJobs = allJobs.filter(job => {
+    const titleLower = job.title.toLowerCase();
+    const companyLower = job.company.toLowerCase();
+
+    // Block specific companies
+    if (companyLower === 'crusoe') return false;
+    if (companyLower === 'florida street') return false;
+    if (companyLower === 'wyoming stable token commission') return false;
+    if (companyLower === 'interop labs' && titleLower.includes('interested in working with us')) return false;
+    if (job.title.includes('*')) return false;
+
+    // Block non-tech roles by title keyword
+    if (BLOCKED_TITLE_KEYWORDS.some(kw => titleLower.includes(kw))) return false;
+
+    return true;
+  });
 
   // Sort newest first
   allJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
