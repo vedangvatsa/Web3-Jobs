@@ -166,13 +166,32 @@ async function fetchAllSubscribers(db: admin.firestore.Firestore): Promise<strin
     db.collection('manual_additions').get(),
   ]);
 
-  const all = [
+  const firestoreEmails = [
     ...subSnap.docs.map(d => (d.data().email as string)?.toLowerCase().trim()),
     ...manualSnap.docs.map(d => (d.data().email as string)?.toLowerCase().trim()),
   ].filter(Boolean);
 
+  // Also read all local JSON email files to catch any not yet imported to Firestore
+  const fs = await import('fs');
+  const path = await import('path');
+  const scriptsDir = path.dirname(new URL(import.meta.url).pathname);
+  const jsonFiles = ['manual-emails.json', 'manual-emails-2.json', 'manual-emails-3.json', 'manual-emails-4.json'];
+
+  let localEmails: string[] = [];
+  for (const file of jsonFiles) {
+    const filePath = path.join(scriptsDir, file);
+    try {
+      if (fs.existsSync(filePath)) {
+        const raw: string[] = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        localEmails.push(...raw.map(e => e.toLowerCase().trim()));
+        console.log(`  📁 ${file}: ${raw.length} emails`);
+      }
+    } catch {}
+  }
+
+  const all = [...firestoreEmails, ...localEmails];
   const unique = [...new Set(all)];
-  console.log(`✅ ${unique.length} unique subscribers (subscribers: ${subSnap.size}, manual: ${manualSnap.size})`);
+  console.log(`✅ ${unique.length} unique subscribers (Firestore: ${firestoreEmails.length}, local JSON: ${localEmails.length})`)
   return unique;
 }
 
