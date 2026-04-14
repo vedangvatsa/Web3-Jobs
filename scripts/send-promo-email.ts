@@ -29,7 +29,7 @@ function utm(baseUrl: string, content: string): string {
 
 const NS_APPLY_URL = utm('https://ns.com', 'ns-apply-cta');
 const HW3_URL = utm('https://hashtagweb3.com', 'hw3-link');
-const TELEGRAM_URL = utm('https://t.me/web3hiring', 'telegram-link');
+const TELEGRAM_URL = 'https://t.me/web3hiring';
 const CVIN_URL = utm('https://cvin.bio', 'cvin-cta');
 
 // ─── HTML TEMPLATE ───────────────────────────────────────────────────────────
