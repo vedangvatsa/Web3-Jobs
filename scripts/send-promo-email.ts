@@ -206,11 +206,6 @@ async function main() {
   console.log(`Mode: ${isDryRun ? 'DRY RUN' : 'LIVE'}`);
   console.log(`UTM: ${JSON.stringify(UTM)}\n`);
 
-  if (!process.env.AWS_SES_ACCESS_KEY_ID || !process.env.AWS_SES_SECRET_ACCESS_KEY) {
-    console.error('❌ AWS SES credentials missing');
-    process.exit(1);
-  }
-
   const db = initAdminFirestore();
   const emails = await fetchAllSubscribers(db);
 
@@ -224,6 +219,11 @@ async function main() {
     console.log(`CVin: ${CVIN_URL}`);
     console.log('\n✅ Dry run complete. Remove --dry-run to send.');
     process.exit(0);
+  }
+
+  if (!process.env.AWS_SES_ACCESS_KEY_ID || !process.env.AWS_SES_SECRET_ACCESS_KEY) {
+    console.error('❌ AWS SES credentials missing');
+    process.exit(1);
   }
 
   // Live send
