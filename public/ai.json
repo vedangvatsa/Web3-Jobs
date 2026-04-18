@@ -1,0 +1,9 @@
+{
+  "allow": {
+    "indexing": true,
+    "search": true,
+    "inference": true,
+    "citation": true,
+    "crawlers": ["GPTBot", "ClaudeBot", "PerplexityBot", "GoogleOther", "OAI-SearchBot", "ChatGPT-User", "Bingbot"]
+  }
+}
