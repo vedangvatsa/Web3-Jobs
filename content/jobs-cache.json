@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://www.revolut.com/en-US/careers/position/ba6e5fcd-85fe-4b54-8e8a-7894a8502a14/",
+    "title": "API Growth Account Executive",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/ba6e5fcd-85fe-4b54-8e8a-7894a8502a14/",
+    "date": "2026-04-18T09:49:19.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/0511488e-ef8f-42bf-adeb-c63438052687/",
+    "title": "Head of Strategy & Operations (Wealth & Trading)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/0511488e-ef8f-42bf-adeb-c63438052687/",
+    "date": "2026-04-18T09:34:19.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.paradigm.xyz/jobs/rift/17de9bfc-75cb-4c6d-ab08-90ce08fb9942",
+    "title": "Founding Protocol Engineer",
+    "company": "Rift",
+    "link": "https://jobs.paradigm.xyz/jobs/rift/17de9bfc-75cb-4c6d-ab08-90ce08fb9942",
+    "date": "2026-04-18T06:46:43.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://boards.greenhouse.io/breezecash/jobs/5190243008?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
     "title": "Regulatory Licensing & Reporting Specialist",
     "company": "Breeze",
@@ -872,11 +896,75 @@
     "source": "Lever: Anchorage Digital"
   },
   {
+    "id": "https://jobs.lever.co/binance/87bdaff2-8c97-420f-8cbb-20ec0f6c38cb",
+    "title": "Binance Accelerator Programm - Software Engineer Web3",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/87bdaff2-8c97-420f-8cbb-20ec0f6c38cb",
+    "date": "2026-04-15T08:00:34.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/98cb560f-9c6d-4c61-baa0-5814275a8c31",
+    "title": "Senior Frontend Architect",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/98cb560f-9c6d-4c61-baa0-5814275a8c31",
+    "date": "2026-04-15T07:45:34.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/0eb254e7-91a3-47d8-95b5-fcb8f184d974",
+    "title": "Senior PR Manager - Asia",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0eb254e7-91a3-47d8-95b5-fcb8f184d974",
+    "date": "2026-04-15T07:42:20.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/b4547adc-0a7b-4f98-b1bc-279ced60089d",
     "title": "FX Operations",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/b4547adc-0a7b-4f98-b1bc-279ced60089d",
     "date": "2026-04-15T07:27:20.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/070fb588-247a-495f-9d66-557dd9673cb8",
+    "title": "Earn Institutional BD & Growth",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/070fb588-247a-495f-9d66-557dd9673cb8",
+    "date": "2026-04-15T07:23:40.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/b42eee89-9ad8-4d13-a122-890ee3c8e0b4",
+    "title": "Wallet Product and Operations Manager - UAE",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/b42eee89-9ad8-4d13-a122-890ee3c8e0b4",
+    "date": "2026-04-15T07:12:20.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/81ee372e-2c14-44ef-aafe-ac6a9dda1a7d",
+    "title": "Operations Specialist (BPay)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/81ee372e-2c14-44ef-aafe-ac6a9dda1a7d",
+    "date": "2026-04-15T07:08:40.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/e8e13cc3-d502-4d3d-ba90-e1f5860a3f57",
+    "title": "Binance Accelerator Programm - Software Engineer Java",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/e8e13cc3-d502-4d3d-ba90-e1f5860a3f57",
+    "date": "2026-04-15T07:05:26.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/80a64970-528f-4d90-aada-84284bd6f1f3",
+    "title": "LLM Data Scientist/Algorithm Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/80a64970-528f-4d90-aada-84284bd6f1f3",
+    "date": "2026-04-15T06:50:26.000Z",
     "source": "Binance"
   },
   {
@@ -912,12 +1000,28 @@
     "source": "Jobs at Shima Capital Companies | Shima Capital"
   },
   {
+    "id": "https://jobs.lever.co/binance/39d13ee0-7421-4bc5-b106-cf730744d9ac",
+    "title": "Binance Accelerator Program – QA Automation Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/39d13ee0-7421-4bc5-b106-cf730744d9ac",
+    "date": "2026-04-15T05:37:11.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/74260862-staff-frontend-software-engineer-payments-and-checkout#content",
     "title": "Staff Frontend Software Engineer - Payments and Checkout",
     "company": "Breeze",
     "link": "https://jobs.multicoin.capital/companies/breeze-2-52bf00fb-a93c-4590-9635-bdc06a78f05e/jobs/74260862-staff-frontend-software-engineer-payments-and-checkout#content",
     "date": "2026-04-15T05:37:09.000Z",
     "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/2321c68a-bc00-4e63-b7fc-15d471f83bc2",
+    "title": "MENA Business Partnership Manager - Payment",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/2321c68a-bc00-4e63-b7fc-15d471f83bc2",
+    "date": "2026-04-15T05:25:09.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://coinbase.getro.com/companies/coinswitch-2-e7fef023-e99b-40f8-b63d-048fa3bbde6c/jobs/74264224-associate-company-secretary#content",
@@ -934,6 +1038,22 @@
     "link": "https://coinbase.getro.com/companies/certora/jobs/74253595-event-manager#content",
     "date": "2026-04-15T05:07:09.000Z",
     "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7",
+    "title": "Data ScientistLLM",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7",
+    "date": "2026-04-15T05:06:52.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/6ff9b296-2564-44fd-9c2e-907c3e541a9c",
+    "title": "Marketing Manager - Czech Republic & Slovakia",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/6ff9b296-2564-44fd-9c2e-907c3e541a9c",
+    "date": "2026-04-15T04:48:41.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/5a62ec38-ab34-4e2b-97a8-9f33bbc67110",
@@ -960,11 +1080,27 @@
     "source": "Greenhouse: Hedera"
   },
   {
+    "id": "https://jobs.lever.co/binance/fe2fc660-debd-4c4c-8bd7-0b999af1a3ac",
+    "title": "Research Data Analyst",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/fe2fc660-debd-4c4c-8bd7-0b999af1a3ac",
+    "date": "2026-04-15T04:12:13.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/0f99eda9-68ca-4a0a-8f14-59818639f067",
     "title": "Operations Specialist (Binance Pay & Card)",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/0f99eda9-68ca-4a0a-8f14-59818639f067",
     "date": "2026-04-15T03:54:00.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/0a5f9a8e-1895-4386-a7a6-f7fd2b46c6be",
+    "title": "Senior DevOps Engineer, Trading Technology",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0a5f9a8e-1895-4386-a7a6-f7fd2b46c6be",
+    "date": "2026-04-15T03:35:47.000Z",
     "source": "Binance"
   },
   {
@@ -974,6 +1110,46 @@
     "link": "https://a16z.com/about/jobs/?gh_jid=7698586003",
     "date": "2026-04-14T22:09:24-04:00",
     "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/477b713d-8951-400f-8dbe-516370145c9e",
+    "title": "Marketing Manager Kyrgyzstan",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/477b713d-8951-400f-8dbe-516370145c9e",
+    "date": "2026-04-15T01:53:48.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/d9c960a9-aa80-41e1-ad06-0e02bc844bea",
+    "title": "Africa Business Partnership Manager - Payment",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/d9c960a9-aa80-41e1-ad06-0e02bc844bea",
+    "date": "2026-04-15T01:35:35.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/fae62bf6-84c8-4730-aa51-66cf5761dd3e",
+    "title": "QA Engineer - Payment Tech",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/fae62bf6-84c8-4730-aa51-66cf5761dd3e",
+    "date": "2026-04-15T01:17:27.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/40cd4e38-abe8-4c9a-a704-51b0175dd772",
+    "title": "Machine Learning Engineer Lead (Feed/ Content Recommendation)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/40cd4e38-abe8-4c9a-a704-51b0175dd772",
+    "date": "2026-04-15T00:59:14.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/05a09ab1-e905-4af6-9aa3-5d2996c86d52",
+    "title": "Binance Accelerator Program - Security (AI & IAM)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/05a09ab1-e905-4af6-9aa3-5d2996c86d52",
+    "date": "2026-04-15T00:41:04.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/7deee48b-bc3a-454b-9224-953d3f65c244",
@@ -1208,6 +1384,22 @@
     "source": "Jobs | Coinbase Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/b342ec01-d3f9-4df7-bfeb-74d1c3561e77",
+    "title": "Business Partnership Manager - Payment",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/b342ec01-d3f9-4df7-bfeb-74d1c3561e77",
+    "date": "2026-04-14T11:58:24.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/03524158-e569-4b2e-80a6-f62910bd5f74",
+    "title": "Frontend Engineer - Web3 Wallet",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/03524158-e569-4b2e-80a6-f62910bd5f74",
+    "date": "2026-04-14T11:40:18.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/501e4296-d418-4128-b00a-334b8df98fca",
     "title": "Compliance Geofencing Team Lead",
     "company": "Binance",
@@ -1270,6 +1462,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7792084?gh_jid=7792084",
     "date": "2026-04-14T04:34:00-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/04abc163-08be-4d89-a817-36ea289c10f3",
+    "title": "DevOps Engineer (Security, ClawBot)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/04abc163-08be-4d89-a817-36ea289c10f3",
+    "date": "2026-04-14T08:20:07.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/8504380e-19f6-4c6f-a444-f89bfcbaaf6d",
@@ -7464,6 +7664,14 @@
     "source": "Greenhouse: OKX"
   },
   {
+    "id": "7680906003",
+    "title": "Director, Compliance Data Science & AI",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7680906003",
+    "date": "2026-03-29T15:20:00-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "https://www.revolut.com/en-US/careers/position/13cca503-9f07-43a1-a585-f372801399bc/",
     "title": "Business Development Manager (Card Payments)",
     "company": "Revolut",
@@ -11326,381 +11534,5 @@
     "link": "https://boards.greenhouse.io/robinhood/jobs/7592180?t=gh_src=&gh_jid=7592180",
     "date": "2026-03-19T08:18:23-04:00",
     "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/87bdaff2-8c97-420f-8cbb-20ec0f6c38cb",
-    "title": "Binance Accelerator Programm - Software Engineer Web3",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/87bdaff2-8c97-420f-8cbb-20ec0f6c38cb",
-    "date": "2026-03-19T11:34:04.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "5832113004",
-    "title": "VP, Quantitative Developer",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5832113004",
-    "date": "2026-03-19T07:22:33-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/98cb560f-9c6d-4c61-baa0-5814275a8c31",
-    "title": "Senior Frontend Architect",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/98cb560f-9c6d-4c61-baa0-5814275a8c31",
-    "date": "2026-03-19T11:15:51.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/b42eee89-9ad8-4d13-a122-890ee3c8e0b4",
-    "title": "Wallet Product and Operations Manager - UAE",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/b42eee89-9ad8-4d13-a122-890ee3c8e0b4",
-    "date": "2026-03-19T11:01:49.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/0eb254e7-91a3-47d8-95b5-fcb8f184d974",
-    "title": "Senior PR Manager - Asia",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/0eb254e7-91a3-47d8-95b5-fcb8f184d974",
-    "date": "2026-03-19T10:48:31.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/070fb588-247a-495f-9d66-557dd9673cb8",
-    "title": "Earn Institutional BD & Growth",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/070fb588-247a-495f-9d66-557dd9673cb8",
-    "date": "2026-03-19T10:33:31.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/uniswap/cfd492ff-dd07-432a-84b8-8aef0e8984ec?utm_source=jobs.a16z.com",
-    "title": "Senior Backend Engineer",
-    "company": "Uniswap",
-    "link": "https://jobs.ashbyhq.com/uniswap/cfd492ff-dd07-432a-84b8-8aef0e8984ec?utm_source=jobs.a16z.com",
-    "date": "2026-03-19T09:31:16.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "7671640003",
-    "title": "(Senior) Data Infra Product Manager, On Chain (Web3)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671640003",
-    "date": "2026-03-19T05:20:13-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/uniswap/f475ea4a-b8be-442a-b8e2-9a6003d1a51a?utm_source=jobs.a16z.com",
-    "title": "Senior Backend Engineer, Platform",
-    "company": "Uniswap",
-    "link": "https://jobs.ashbyhq.com/uniswap/f475ea4a-b8be-442a-b8e2-9a6003d1a51a?utm_source=jobs.a16z.com",
-    "date": "2026-03-19T09:16:16.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "7671627003",
-    "title": "(Senior/Principal) Product Manager_Web3 Growth",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671627003",
-    "date": "2026-03-19T05:02:10-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/uniswap/c9fe612e-7c29-47a4-b2a3-2a9d1185f5ef?utm_source=jobs.a16z.com",
-    "title": "Senior Frontend Infrastructure Engineer",
-    "company": "Uniswap",
-    "link": "https://jobs.ashbyhq.com/uniswap/c9fe612e-7c29-47a4-b2a3-2a9d1185f5ef?utm_source=jobs.a16z.com",
-    "date": "2026-03-19T09:01:16.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "903aa7f3-54b6-479f-b192-9f829820596b",
-    "title": "Data Engineer",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/903aa7f3-54b6-479f-b192-9f829820596b",
-    "date": "2026-03-19T08:50:42.851+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "7671614003",
-    "title": "Senior/Principal Product Manager, DEX Trading",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671614003",
-    "date": "2026-03-19T04:49:26-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/81ee372e-2c14-44ef-aafe-ac6a9dda1a7d",
-    "title": "Operations Specialist (BPay)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/81ee372e-2c14-44ef-aafe-ac6a9dda1a7d",
-    "date": "2026-03-19T08:48:45.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/uniswap/5a3eea2d-92c6-453d-9ff4-3e1393978232?utm_source=jobs.a16z.com",
-    "title": "Senior Frontend Engineer",
-    "company": "Uniswap",
-    "link": "https://jobs.ashbyhq.com/uniswap/5a3eea2d-92c6-453d-9ff4-3e1393978232?utm_source=jobs.a16z.com",
-    "date": "2026-03-19T08:46:16.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/e8e13cc3-d502-4d3d-ba90-e1f5860a3f57",
-    "title": "Binance Accelerator Programm - Software Engineer Java",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/e8e13cc3-d502-4d3d-ba90-e1f5860a3f57",
-    "date": "2026-03-19T08:35:05.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/a9ed9ba7-1d8d-4ea9-b4f8-65ae5851e941",
-    "title": "Institutional Sales Manager - Russian Speakers",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/a9ed9ba7-1d8d-4ea9-b4f8-65ae5851e941",
-    "date": "2026-03-19T08:23:17.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/80a64970-528f-4d90-aada-84284bd6f1f3",
-    "title": "LLM Data Scientist/Algorithm Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/80a64970-528f-4d90-aada-84284bd6f1f3",
-    "date": "2026-03-19T08:20:05.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7671583003",
-    "title": "Staff AI Engineer, Model Post-Training and Alignment",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671583003",
-    "date": "2026-03-19T04:13:21-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/39d13ee0-7421-4bc5-b106-cf730744d9ac",
-    "title": "Binance Accelerator Program – QA Automation Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/39d13ee0-7421-4bc5-b106-cf730744d9ac",
-    "date": "2026-03-19T08:08:17.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/2321c68a-bc00-4e63-b7fc-15d471f83bc2",
-    "title": "MENA Business Partnership Manager - Payment",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/2321c68a-bc00-4e63-b7fc-15d471f83bc2",
-    "date": "2026-03-19T08:06:52.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/8da73ff0-9bdb-47fb-ac7b-34ba38cf7d18",
-    "title": "Post Listing Account Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/8da73ff0-9bdb-47fb-ac7b-34ba38cf7d18",
-    "date": "2026-03-19T07:56:26.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7671576003",
-    "title": "Principal Engineer, Agent Infrastructure & Memory Architecture",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671576003",
-    "date": "2026-03-19T03:52:47-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7",
-    "title": "Data ScientistLLM",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7",
-    "date": "2026-03-19T07:51:52.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7671505003",
-    "title": "Director, Compliance Data Science & AI",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671505003",
-    "date": "2026-03-19T03:50:03-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7671571003",
-    "title": "Senior Engineer, AI Platform and Infrastructure",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671571003",
-    "date": "2026-03-19T03:48:05-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/0a5f9a8e-1895-4386-a7a6-f7fd2b46c6be",
-    "title": "Senior DevOps Engineer, Trading Technology",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/0a5f9a8e-1895-4386-a7a6-f7fd2b46c6be",
-    "date": "2026-03-19T07:46:54.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7671569003",
-    "title": "Principal AI Engineer, Chatbot Development",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671569003",
-    "date": "2026-03-19T03:44:41-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/fe2fc660-debd-4c4c-8bd7-0b999af1a3ac",
-    "title": "Research Data Analyst",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/fe2fc660-debd-4c4c-8bd7-0b999af1a3ac",
-    "date": "2026-03-19T07:41:26.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "4653827006",
-    "title": "Senior Software Engineer, Transaction Security",
-    "company": "Fireblocks",
-    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4653827006",
-    "date": "2026-03-19T03:37:40-04:00",
-    "source": "Greenhouse: Fireblocks"
-  },
-  {
-    "id": "7671567003",
-    "title": "Senior/Staff Frontend Developer, Growth",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671567003",
-    "date": "2026-03-19T03:37:22-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/d9c960a9-aa80-41e1-ad06-0e02bc844bea",
-    "title": "Africa Business Partnership Manager - Payment",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/d9c960a9-aa80-41e1-ad06-0e02bc844bea",
-    "date": "2026-03-19T07:37:18.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/6ff9b296-2564-44fd-9c2e-907c3e541a9c",
-    "title": "Marketing Manager - Czech Republic & Slovakia",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6ff9b296-2564-44fd-9c2e-907c3e541a9c",
-    "date": "2026-03-19T07:36:52.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/433869da-beb7-4c94-b4d4-c65ff732c496",
-    "title": "Binance Accelerator Program - Affiliate CIS",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/433869da-beb7-4c94-b4d4-c65ff732c496",
-    "date": "2026-03-19T07:31:54.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7671553003",
-    "title": "Engineering Director, Frontend",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671553003",
-    "date": "2026-03-19T03:27:07-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "4816298101",
-    "title": "IT Applications Manager",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4816298101",
-    "date": "2026-03-19T03:27:07-04:00",
-    "source": "Greenhouse: Bybit"
-  },
-  {
-    "id": "7671555003",
-    "title": "Principal AI Engineer, AI Agent Development",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671555003",
-    "date": "2026-03-19T03:26:56-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/ef3e2f17-61a2-42d1-a9e7-8cee86373a45",
-    "title": "Binance Accelerator Program - Affiliate Data",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/ef3e2f17-61a2-42d1-a9e7-8cee86373a45",
-    "date": "2026-03-19T07:26:26.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/fae62bf6-84c8-4730-aa51-66cf5761dd3e",
-    "title": "QA Engineer - Payment Tech",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/fae62bf6-84c8-4730-aa51-66cf5761dd3e",
-    "date": "2026-03-19T07:22:18.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/40cd4e38-abe8-4c9a-a704-51b0175dd772",
-    "title": "Machine Learning Engineer Lead (Feed/ Content Recommendation)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/40cd4e38-abe8-4c9a-a704-51b0175dd772",
-    "date": "2026-03-19T07:19:42.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/477b713d-8951-400f-8dbe-516370145c9e",
-    "title": "Marketing Manager Kyrgyzstan",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/477b713d-8951-400f-8dbe-516370145c9e",
-    "date": "2026-03-19T07:16:54.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/05a09ab1-e905-4af6-9aa3-5d2996c86d52",
-    "title": "Binance Accelerator Program - Security (AI & IAM)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/05a09ab1-e905-4af6-9aa3-5d2996c86d52",
-    "date": "2026-03-19T07:04:42.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/b342ec01-d3f9-4df7-bfeb-74d1c3561e77",
-    "title": "Business Partnership Manager - Payment",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/b342ec01-d3f9-4df7-bfeb-74d1c3561e77",
-    "date": "2026-03-19T06:25:10.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/03524158-e569-4b2e-80a6-f62910bd5f74",
-    "title": "Frontend Engineer - Web3 Wallet",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/03524158-e569-4b2e-80a6-f62910bd5f74",
-    "date": "2026-03-19T06:10:10.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7671509003",
-    "title": "Product Manager / Director, Structured Products",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671509003",
-    "date": "2026-03-19T02:02:54-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/8dac9092-f53d-4fad-9e9b-9d29b352447d",
-    "title": "Product Manager - Structured Products & Earn",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/8dac9092-f53d-4fad-9e9b-9d29b352447d",
-    "date": "2026-03-19T05:55:10.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/04abc163-08be-4d89-a817-36ea289c10f3",
-    "title": "DevOps Engineer (Security, ClawBot)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/04abc163-08be-4d89-a817-36ea289c10f3",
-    "date": "2026-03-19T05:37:01.000Z",
-    "source": "Binance"
   }
 ]
