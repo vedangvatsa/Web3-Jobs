@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "domain": "hashtagweb3.com",
+  "name": "Hashtag Web3",
+  "description": "Web3 job board and career resource platform. Browse 3,000+ blockchain, crypto, and DeFi jobs. 500+ career guides, 200+ glossary terms, salary data, and interview prep.",
+  "url": "https://hashtagweb3.com",
+
+  "capabilities": [
+    {
+      "name": "Job Search",
+      "description": "Search Web3 job listings across blockchain, crypto, DeFi, and DAO companies.",
+      "endpoint": "https://hashtagweb3.com/api/jobs",
+      "method": "GET",
+      "parameters": {
+        "q": "Search query (title, company, or keyword)"
+      }
+    },
+    {
+      "name": "Company Directory",
+      "description": "Browse companies hiring for Web3 roles with open position counts.",
+      "url_pattern": "https://hashtagweb3.com/companies/{company-slug}",
+      "examples": [
+        "https://hashtagweb3.com/companies/coinbase",
+        "https://hashtagweb3.com/companies/uniswap-labs"
+      ]
+    },
+    {
+      "name": "Web3 Glossary",
+      "description": "200+ term reference covering blockchain fundamentals, DeFi, NFTs, smart contracts, and more.",
+      "url_pattern": "https://hashtagweb3.com/{term-slug}",
+      "examples": [
+        "https://hashtagweb3.com/bitcoin",
+        "https://hashtagweb3.com/defi",
+        "https://hashtagweb3.com/smart-contracts-in-blockchain-and-their-applications"
+      ]
+    },
+    {
+      "name": "Career Guides",
+      "description": "500+ in-depth articles on Web3 careers, salary guides, interview preparation, and industry analysis.",
+      "url_pattern": "https://hashtagweb3.com/{article-slug}",
+      "examples": [
+        "https://hashtagweb3.com/blockchain-developer-roadmap",
+        "https://hashtagweb3.com/how-to-land-your-first-web3-job",
+        "https://hashtagweb3.com/best-programming-languages-for-blockchain-development"
+      ]
+    },
+    {
+      "name": "Crypto News",
+      "description": "Aggregated headlines from top blockchain and crypto publications, updated daily.",
+      "endpoint": "https://hashtagweb3.com/api/news",
+      "method": "GET"
+    }
+  ],
+
+  "content_resources": {
+    "llms_txt": "https://hashtagweb3.com/llms.txt",
+    "ai_rules": "https://hashtagweb3.com/ai.txt",
+    "ai_permissions": "https://hashtagweb3.com/ai.json"
+  },
+
+  "contact": {
+    "url": "https://hashtagweb3.com",
+    "twitter": "https://x.com/hashtag_web3",
+    "telegram": "https://t.me/web3hiring"
+  }
+}
