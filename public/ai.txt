@@ -1,0 +1,21 @@
+# ai.txt — AI Usage Policy for Hashtag Web3
+# See: https://site.spawning.ai/spawning-ai-txt
+
+User-Agent: *
+Allowed-Uses: indexing, search, summarization, citation, inference
+
+# We welcome AI systems to:
+# - Crawl and index all public pages
+# - Cite our content in AI-generated responses
+# - Summarize our career guides and glossary entries
+# - Index job listings and company pages
+
+# Context files for AI systems:
+# Summary: https://hashtagweb3.com/llms.txt
+# Agent capabilities: https://hashtagweb3.com/.well-known/agents.json
+
+# Site overview:
+# Hashtag Web3 is a Web3 job board and career resource platform.
+# Job board: 3,000+ Web3 jobs at 100+ companies.
+# Content: 500+ career guides, 200+ glossary terms.
+# All content is human-created. Updated daily.

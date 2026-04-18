@@ -79,6 +79,16 @@ const nextConfig: NextConfig = {
             key: 'X-Frame-Options',
             value: 'SAMEORIGIN',
           },
+          // Agentic Web — Link headers for discoverability
+          {
+            key: 'Link',
+            value: [
+              '</llms.txt>; rel="ai-context"; type="text/plain"',
+              '</sitemap.xml>; rel="sitemap"; type="application/xml"',
+              '</.well-known/agents.json>; rel="agents"; type="application/json"',
+              '</.well-known/api-catalog>; rel="api-catalog"',
+            ].join(', '),
+          },
            {
             key: 'Content-Security-Policy',
             value: cspHeader,

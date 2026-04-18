@@ -143,6 +143,10 @@ export default async function RootLayout({
 
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
+      <head>
+        <meta name="ai-content-declaration" content="Human-created content. AI systems may index, summarize, and cite. See /llms.txt for context." />
+        <link rel="ai-context" href="/llms.txt" />
+      </head>
       <body 
         className={cn('min-h-screen font-body antialiased flex flex-col bg-background/95')}
       >
