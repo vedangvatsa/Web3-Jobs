@@ -1,5 +1,37 @@
 [
   {
+    "id": "8be3690d-3a91-42ea-a98f-d9aec3c94fb6",
+    "title": "City Coordinator - Phoenix",
+    "company": "Base",
+    "link": "https://jobs.ashbyhq.com/Base/8be3690d-3a91-42ea-a98f-d9aec3c94fb6",
+    "date": "2026-04-19T19:49:50.012+00:00",
+    "source": "Ashby: Base"
+  },
+  {
+    "id": "c727ecf1-e1e7-49aa-a931-1a0deffef6af",
+    "title": "City Coordinator - DC",
+    "company": "Base",
+    "link": "https://jobs.ashbyhq.com/Base/c727ecf1-e1e7-49aa-a931-1a0deffef6af",
+    "date": "2026-04-19T19:44:05.992+00:00",
+    "source": "Ashby: Base"
+  },
+  {
+    "id": "4630ebdd-6eb4-49e7-bcd6-394b60cf10cf",
+    "title": "City Coordinator - Denver",
+    "company": "Base",
+    "link": "https://jobs.ashbyhq.com/Base/4630ebdd-6eb4-49e7-bcd6-394b60cf10cf",
+    "date": "2026-04-19T19:40:50.573+00:00",
+    "source": "Ashby: Base"
+  },
+  {
+    "id": "97194225-ee80-4543-9d75-954a9e0f9122",
+    "title": "City Coordinator - Austin",
+    "company": "Base",
+    "link": "https://jobs.ashbyhq.com/Base/97194225-ee80-4543-9d75-954a9e0f9122",
+    "date": "2026-04-19T18:40:04.061+00:00",
+    "source": "Ashby: Base"
+  },
+  {
     "id": "7792136",
     "title": "Senior Business Recruiter (12-Month Contract)",
     "company": "Ripple",
@@ -494,6 +526,22 @@
     "link": "https://jobs.multicoin.capital/companies/ashby/jobs/74665790-product-support-engineer-emea#content",
     "date": "2026-04-17T05:25:02.000Z",
     "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/474f79fb-153b-46b0-85a8-09d53b81a14c",
+    "title": "Senior Backend Engineer  - Java",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/474f79fb-153b-46b0-85a8-09d53b81a14c",
+    "date": "2026-04-17T03:43:22.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/a187fa38-bfdb-4fbf-b4a1-57dc14bc3aed",
+    "title": "Senior/Expert Frontend Architect, Mini Programs",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/a187fa38-bfdb-4fbf-b4a1-57dc14bc3aed",
+    "date": "2026-04-17T03:28:22.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/6549afd2-13db-4e1e-9cf3-16ffe4ddf45e",
@@ -11174,101 +11222,5 @@
     "link": "https://www.coinbase.com/careers/positions/7712133?gh_jid=7712133",
     "date": "2026-03-20T16:11:26-04:00",
     "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7739262",
-    "title": "Senior Software Engineer, Backend (Consumer - Retail Cash)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7739262?gh_jid=7739262",
-    "date": "2026-03-20T12:45:23-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "a9ad784b-af99-42e3-a98f-828a72e68239",
-    "title": "Technical Product Manager",
-    "company": "Safe",
-    "link": "https://jobs.ashbyhq.com/Safe/a9ad784b-af99-42e3-a98f-828a72e68239",
-    "date": "2026-03-20T15:46:32.256+00:00",
-    "source": "Ashby: Safe"
-  },
-  {
-    "id": "7661190",
-    "title": "Renewal Manager",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7661190?gh_jid=7661190",
-    "date": "2026-03-20T11:45:51-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/a187fa38-bfdb-4fbf-b4a1-57dc14bc3aed",
-    "title": "Senior/Expert Frontend Architect, Mini Programs",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/a187fa38-bfdb-4fbf-b4a1-57dc14bc3aed",
-    "date": "2026-03-20T14:41:27.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/474f79fb-153b-46b0-85a8-09d53b81a14c",
-    "title": "Senior Backend Engineer  - Java",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/474f79fb-153b-46b0-85a8-09d53b81a14c",
-    "date": "2026-03-20T14:23:15.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "5833111004",
-    "title": "Associate, US Policy",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5833111004",
-    "date": "2026-03-20T10:20:14-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "7731934",
-    "title": "Engineering Manager (Platform - Identity)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7731934?gh_jid=7731934",
-    "date": "2026-03-20T09:48:44-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/f98aec35-1853-47b4-957b-c7b29ac456b8",
-    "title": "Sanctions Escalations Analyst",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/f98aec35-1853-47b4-957b-c7b29ac456b8",
-    "date": "2026-03-20T13:46:47.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7736805",
-    "title": "Senior Security Engineer, IAM",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7736805?gh_jid=7736805",
-    "date": "2026-03-20T09:31:50-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "4815515101",
-    "title": "IT Infrastructure Engineer",
-    "company": "Copper.co",
-    "link": "https://job-boards.eu.greenhouse.io/copperco/jobs/4815515101",
-    "date": "2026-03-20T09:11:51-04:00",
-    "source": "Greenhouse: Copper.co"
-  },
-  {
-    "id": "4816594101",
-    "title": "Client Operations Associate",
-    "company": "Copper.co",
-    "link": "https://job-boards.eu.greenhouse.io/copperco/jobs/4816594101",
-    "date": "2026-03-20T09:11:34-04:00",
-    "source": "Greenhouse: Copper.co"
-  },
-  {
-    "id": "7673564003",
-    "title": "Senior/Staff Engineer, Liquidity Platform, Trading Service",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7673564003",
-    "date": "2026-03-20T08:58:31-04:00",
-    "source": "Greenhouse: OKX"
   }
 ]
