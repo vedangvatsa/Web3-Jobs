@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://jobs.ashbyhq.com/ashby/06408097-75e6-41d2-a431-94fd9f9b6822?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Legal Ops Manager",
+    "company": "Ashby",
+    "link": "https://jobs.ashbyhq.com/ashby/06408097-75e6-41d2-a431-94fd9f9b6822?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-04-20T06:01:13.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/chainalysis-careers/4a0910ba-fcda-4cec-9c9a-1a439100a0e1?utm_source=jobs.paradigm.xyz",
+    "title": "Client Account Director - NatSec/Intelligence",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/4a0910ba-fcda-4cec-9c9a-1a439100a0e1?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-20T00:49:09.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/chainalysis-careers/3ecbe3ba-4e10-4e07-9046-c2fa7f6e9b12?utm_source=jobs.paradigm.xyz",
+    "title": "Solutions Architect  - MECCA",
+    "company": "Chainalysis",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/3ecbe3ba-4e10-4e07-9046-c2fa7f6e9b12?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-20T00:34:09.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "2546da1e-f288-4744-b167-af5ecbfd6634",
+    "title": "City Coordinator - Dallas",
+    "company": "Base",
+    "link": "https://jobs.ashbyhq.com/Base/2546da1e-f288-4744-b167-af5ecbfd6634",
+    "date": "2026-04-19T22:57:01.095+00:00",
+    "source": "Ashby: Base"
+  },
+  {
+    "id": "00260fe4-aded-4700-a328-17de818eec63",
+    "title": "City Coordinator - Tampa",
+    "company": "Base",
+    "link": "https://jobs.ashbyhq.com/Base/00260fe4-aded-4700-a328-17de818eec63",
+    "date": "2026-04-19T22:54:38.441+00:00",
+    "source": "Ashby: Base"
+  },
+  {
     "id": "8be3690d-3a91-42ea-a98f-d9aec3c94fb6",
     "title": "City Coordinator - Phoenix",
     "company": "Base",
@@ -22,6 +62,14 @@
     "link": "https://jobs.ashbyhq.com/Base/4630ebdd-6eb4-49e7-bcd6-394b60cf10cf",
     "date": "2026-04-19T19:40:50.573+00:00",
     "source": "Ashby: Base"
+  },
+  {
+    "id": "https://www.fireblocks.com/careers/position/4674476006?gh_jid=4674476006",
+    "title": "Senior Software Engineer, Transaction Security",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position/4674476006?gh_jid=4674476006",
+    "date": "2026-04-19T18:55:06.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "97194225-ee80-4543-9d75-954a9e0f9122",
@@ -1477,6 +1525,14 @@
     "company": "VALR",
     "link": "https://valr.careers.hibob.com/jobs/606fac75-98b2-4b29-9b66-721b389de3d2",
     "date": "2026-04-14T23:43:13.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/bitgo/jobs/8506282002",
+    "title": "Senior Infrastructure Engineer",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8506282002",
+    "date": "2026-04-14T23:28:13.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
@@ -5909,6 +5965,14 @@
     "company": "OKX",
     "link": "https://job-boards.greenhouse.io/okx/jobs/7687326003",
     "date": "2026-04-02T05:30:09-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7687329003",
+    "title": "Engineering Director, Frontend",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7687329003",
+    "date": "2026-04-02T05:30:08-04:00",
     "source": "Greenhouse: OKX"
   },
   {
@@ -11142,85 +11206,5 @@
     "link": "https://job-boards.greenhouse.io/nansen/jobs/5834096004",
     "date": "2026-03-21T09:56:19.000Z",
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "8472710002",
-    "title": "Senior Infrastructure Engineer",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8472710002",
-    "date": "2026-03-20T20:36:41-04:00",
-    "source": "Greenhouse: BitGo"
-  },
-  {
-    "id": "7723234",
-    "title": "Manager of Corporate Accounting",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7723234?t=gh_src=&gh_jid=7723234",
-    "date": "2026-03-20T19:42:49-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "5833616004",
-    "title": "Marketing Lead",
-    "company": "Immunefi",
-    "link": "https://job-boards.greenhouse.io/immunefi/jobs/5833616004",
-    "date": "2026-03-20T17:49:44-04:00",
-    "source": "Greenhouse: Immunefi"
-  },
-  {
-    "id": "8454aeb0-fc8d-4fb0-9143-ea0d0a192efb",
-    "title": "Agentic Ops Intern",
-    "company": "Nascent",
-    "link": "https://jobs.ashbyhq.com/Nascent/8454aeb0-fc8d-4fb0-9143-ea0d0a192efb",
-    "date": "2026-03-20T21:43:08.440+00:00",
-    "source": "Ashby: Nascent"
-  },
-  {
-    "id": "8454aeb0-fc8d-4fb0-9143-ea0d0a192efb",
-    "title": "Agentic Operations Intern",
-    "company": "Nascent",
-    "link": "https://jobs.ashbyhq.com/Nascent/8454aeb0-fc8d-4fb0-9143-ea0d0a192efb",
-    "date": "2026-03-20T21:43:08.440+00:00",
-    "source": "Ashby: Nascent"
-  },
-  {
-    "id": "e228094e-3872-42ce-9c69-bc5b790978dc",
-    "title": "Senior Accounting Manager",
-    "company": "Ethena",
-    "link": "https://jobs.lever.co/ethena/e228094e-3872-42ce-9c69-bc5b790978dc",
-    "date": "2026-03-20T21:06:17.723Z",
-    "source": "Lever: Ethena"
-  },
-  {
-    "id": "0c03118b-b9a3-407d-ae4f-91287c146c2f",
-    "title": "Enterprise Account Executive",
-    "company": "Ethena",
-    "link": "https://jobs.lever.co/ethena/0c03118b-b9a3-407d-ae4f-91287c146c2f",
-    "date": "2026-03-20T20:57:32.199Z",
-    "source": "Lever: Ethena"
-  },
-  {
-    "id": "7739523",
-    "title": "Staff Software Engineer (Policies Platform - Identity)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7739523?gh_jid=7739523",
-    "date": "2026-03-20T16:37:39-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7719325",
-    "title": "Transitional Services Senior Specialist",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7719325?t=gh_src=&gh_jid=7719325",
-    "date": "2026-03-20T16:24:00-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7712133",
-    "title": "Head of Marketing Operations",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7712133?gh_jid=7712133",
-    "date": "2026-03-20T16:11:26-04:00",
-    "source": "Greenhouse: Coinbase"
   }
 ]
