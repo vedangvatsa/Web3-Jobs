@@ -1,5 +1,125 @@
 [
   {
+    "id": "https://ripple.com/careers/all-jobs/job/7836928?gh_jid=7836928",
+    "title": "Staff Security Engineer, Secure Digital Asset Operations",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7836928?gh_jid=7836928",
+    "date": "2026-04-21T18:49:21.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/xapo61/jobs/7693426003",
+    "title": "Software Engineer Intern",
+    "company": "Xapo Bank",
+    "link": "https://job-boards.greenhouse.io/xapo61/jobs/7693426003",
+    "date": "2026-04-21T18:34:21.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "7824574",
+    "title": "GTM Systems Architect, Ripple Treasury (AI & Automation)",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7824574?gh_jid=7824574",
+    "date": "2026-04-21T14:27:25-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "https://valr.careers.hibob.com/jobs/7e33ac35-db86-40bd-8514-1e5d069e8ca3",
+    "title": "Accounting Associate",
+    "company": "VALR",
+    "link": "https://valr.careers.hibob.com/jobs/7e33ac35-db86-40bd-8514-1e5d069e8ca3",
+    "date": "2026-04-21T18:04:21.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "7837970",
+    "title": "Senior Recruiting Coordinator",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7837970?gh_jid=7837970",
+    "date": "2026-04-21T13:55:37-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7838411",
+    "title": "Software Engineer, Institutional",
+    "company": "Blockchain.com",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7838411",
+    "date": "2026-04-21T12:40:46-04:00",
+    "source": "Greenhouse: Blockchain.com"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/0b78f793-4313-4a2a-a4cb-8cbeb2bc7d7b",
+    "title": "Binance Accelerator Program - Applied AI Agent Developer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/0b78f793-4313-4a2a-a4cb-8cbeb2bc7d7b",
+    "date": "2026-04-21T16:23:34.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "7821125",
+    "title": "Principal Mobile Engineer, Platform - MetaMask",
+    "company": "Consensys",
+    "link": "https://consensys.io/open-roles/7821125?gh_jid=7821125",
+    "date": "2026-04-21T11:59:17-04:00",
+    "source": "Greenhouse: Consensys"
+  },
+  {
+    "id": "39017126-f8a7-463c-ba5b-29675689db1e",
+    "title": "Interim Recruiter (Fulltime)",
+    "company": "Stacks",
+    "link": "https://jobs.ashbyhq.com/Stacks/39017126-f8a7-463c-ba5b-29675689db1e",
+    "date": "2026-04-21T15:44:02.658+00:00",
+    "source": "Ashby: Stacks"
+  },
+  {
+    "id": "7838044",
+    "title": "Project Manager",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7838044?gh_jid=7838044",
+    "date": "2026-04-21T11:39:12-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "31a3ebcf-066c-43c3-abfb-792d50e8c2fc",
+    "title": "Security Analyst",
+    "company": "Gelato",
+    "link": "https://jobs.ashbyhq.com/Gelato/31a3ebcf-066c-43c3-abfb-792d50e8c2fc",
+    "date": "2026-04-21T14:55:20.367+00:00",
+    "source": "Ashby: Gelato"
+  },
+  {
+    "id": "7837232",
+    "title": "Performance Development Partner",
+    "company": "Luno",
+    "link": "https://job-boards.greenhouse.io/luno/jobs/7837232",
+    "date": "2026-04-21T09:51:38-04:00",
+    "source": "Greenhouse: Luno"
+  },
+  {
+    "id": "7833599",
+    "title": "Senior Application Security Engineer",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7833599&gh_jid=7833599",
+    "date": "2026-04-21T09:40:20-04:00",
+    "source": "Greenhouse: Gemini"
+  },
+  {
+    "id": "7837102",
+    "title": "Head of People Operations",
+    "company": "Luno",
+    "link": "https://job-boards.greenhouse.io/luno/jobs/7837102",
+    "date": "2026-04-21T09:31:57-04:00",
+    "source": "Greenhouse: Luno"
+  },
+  {
+    "id": "7836985",
+    "title": "Head of Talent & Culture",
+    "company": "Luno",
+    "link": "https://job-boards.greenhouse.io/luno/jobs/7836985",
+    "date": "2026-04-21T09:15:32-04:00",
+    "source": "Greenhouse: Luno"
+  },
+  {
     "id": "https://jobs.lever.co/binance/3697f7d9-d1e8-4bf9-a21e-4abd7646896e",
     "title": "Pioneer Talent Program - AI Agent Engineer",
     "company": "Binance",
@@ -24,6 +144,14 @@
     "source": "Binance"
   },
   {
+    "id": "https://www.revolut.com/en-US/careers/position/a6acaf0d-61b7-429d-a085-a937aa38816a/",
+    "title": "FinCrime Risk Manager (Investigations)",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/a6acaf0d-61b7-429d-a085-a937aa38816a/",
+    "date": "2026-04-21T09:52:36.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "4846456101",
     "title": "Trading - Quant Trader - Tokyo",
     "company": "B2C2",
@@ -32,12 +160,36 @@
     "source": "Greenhouse: B2C2"
   },
   {
+    "id": "https://jobs.ashbyhq.com/kalshi/561300e4-6c2d-421b-b0a2-6df7463f0d12?utm_source=jobs.paradigm.xyz",
+    "title": "Litigator",
+    "company": "Kalshi",
+    "link": "https://jobs.ashbyhq.com/kalshi/561300e4-6c2d-421b-b0a2-6df7463f0d12?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-21T09:37:36.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/kalshi/85f63d5e-b8c3-41ae-b5ab-a0c84cf48d3d?utm_source=jobs.paradigm.xyz",
+    "title": "Sr IT Administrator",
+    "company": "Kalshi",
+    "link": "https://jobs.ashbyhq.com/kalshi/85f63d5e-b8c3-41ae-b5ab-a0c84cf48d3d?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-21T09:22:36.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "7832036",
     "title": "Group Treasury Manager",
     "company": "Luno",
     "link": "https://job-boards.greenhouse.io/luno/jobs/7832036",
     "date": "2026-04-21T05:21:12-04:00",
     "source": "Greenhouse: Luno"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/c4bf134a-be22-44f1-a817-16b98e5cbade/",
+    "title": "Employment Counsel",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/c4bf134a-be22-44f1-a817-16b98e5cbade/",
+    "date": "2026-04-21T09:07:36.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "7709347003",
@@ -120,12 +272,36 @@
     "source": "Binance"
   },
   {
+    "id": "https://job-boards.greenhouse.io/taxbit/jobs/5976934004",
+    "title": "Sales Development Representative",
+    "company": "TaxBit",
+    "link": "https://job-boards.greenhouse.io/taxbit/jobs/5976934004",
+    "date": "2026-04-21T00:09:04.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.ashbyhq.com/kalshi/130247b1-7e2c-4072-a1fb-86b7afa78cd8?utm_source=jobs.paradigm.xyz",
+    "title": "Commercial Counsel (Strategic Deals)",
+    "company": "Kalshi",
+    "link": "https://jobs.ashbyhq.com/kalshi/130247b1-7e2c-4072-a1fb-86b7afa78cd8?utm_source=jobs.paradigm.xyz",
+    "date": "2026-04-20T23:54:04.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "8515685002",
     "title": "Senior Software Engineer",
     "company": "Paradigm",
     "link": "https://job-boards.greenhouse.io/paradigm/jobs/8515685002",
     "date": "2026-04-20T19:52:16-04:00",
     "source": "Greenhouse: Paradigm"
+  },
+  {
+    "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Marketing-Manager_JR100984",
+    "title": "Principal Product Marketing Manager",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Marketing-Manager_JR100984",
+    "date": "2026-04-20T23:09:19.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
     "id": "7818910",
