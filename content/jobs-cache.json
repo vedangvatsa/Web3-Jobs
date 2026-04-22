@@ -1,5 +1,165 @@
 [
   {
+    "id": "https://jobs.multicoin.capital/companies/paxos/jobs/75713273-corporate-development-lead#content",
+    "title": "Corporate Development Lead",
+    "company": "Paxos",
+    "link": "https://jobs.multicoin.capital/companies/paxos/jobs/75713273-corporate-development-lead#content",
+    "date": "2026-04-22T20:32:26.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/tactic-2/jobs/75833007-sales-development-representative#content",
+    "title": "Sales Development Representative",
+    "company": "Tactic",
+    "link": "https://coinbase.getro.com/companies/tactic-2/jobs/75833007-sales-development-representative#content",
+    "date": "2026-04-22T20:32:20.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/75828517-senior-corporate-counsel-us#content",
+    "title": "Senior Corporate Counsel (US)",
+    "company": "Kast",
+    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/75828517-senior-corporate-counsel-us#content",
+    "date": "2026-04-22T20:32:19.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/75828513-senior-corporate-counsel#content",
+    "title": "Senior Corporate Counsel",
+    "company": "Kast",
+    "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/75828513-senior-corporate-counsel#content",
+    "date": "2026-04-22T20:17:19.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/yellow-card-2/jobs/75822260-product-manager-api-suite#content",
+    "title": "Product Manager, API Suite",
+    "company": "Yellow Card",
+    "link": "https://coinbase.getro.com/companies/yellow-card-2/jobs/75822260-product-manager-api-suite#content",
+    "date": "2026-04-22T20:02:20.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://www.ashbyhq.com/?utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
+    "title": "AI Engineer",
+    "company": "Refi Hub",
+    "link": "https://www.ashbyhq.com/?utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
+    "date": "2026-04-22T20:02:19.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/75725102-fraud-communications-officer#content",
+    "title": "Fraud Communications Officer",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/75725102-fraud-communications-officer#content",
+    "date": "2026-04-22T19:47:20.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/wormhole-2/jobs/75709713-trader#content",
+    "title": "Trader",
+    "company": "Wormhole",
+    "link": "https://jobs.solana.com/companies/wormhole-2/jobs/75709713-trader#content",
+    "date": "2026-04-22T19:47:19.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/75725098-business-development-manager-cote-d-ivoire#content",
+    "title": "Business Development Manager - Côte dIvoire",
+    "company": "Wave Mobile Money",
+    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/75725098-business-development-manager-cote-d-ivoire#content",
+    "date": "2026-04-22T19:32:20.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.solana.com/companies/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d/jobs/75705007-trader#content",
+    "title": "Trader",
+    "company": "Wormhole Labs",
+    "link": "https://jobs.solana.com/companies/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d/jobs/75705007-trader#content",
+    "date": "2026-04-22T19:32:19.000Z",
+    "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/blackbird-labs-2/jobs/75703459-junior-analyst#content",
+    "title": "Junior Analyst",
+    "company": "Blackbird Labs",
+    "link": "https://coinbase.getro.com/companies/blackbird-labs-2/jobs/75703459-junior-analyst#content",
+    "date": "2026-04-22T19:17:20.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/blackbird-labs-2/jobs/75703453-account-executive-denver-co#content",
+    "title": "Account Executive - Denver, CO",
+    "company": "Blackbird Labs",
+    "link": "https://coinbase.getro.com/companies/blackbird-labs-2/jobs/75703453-account-executive-denver-co#content",
+    "date": "2026-04-22T19:02:20.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "7768865",
+    "title": "Cashiering Support Associate",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7768865?t=gh_src=&gh_jid=7768865",
+    "date": "2026-04-22T14:55:01-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/certora/jobs/75669887-soc-analyst#content",
+    "title": "SOC Analyst",
+    "company": "Certora",
+    "link": "https://coinbase.getro.com/companies/certora/jobs/75669887-soc-analyst#content",
+    "date": "2026-04-22T18:47:20.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "b455db86-584f-4186-b69c-7a6cc6704d0e",
+    "title": "Product Manager Internship - Summer 2026",
+    "company": "Injective",
+    "link": "https://jobs.ashbyhq.com/Injective/b455db86-584f-4186-b69c-7a6cc6704d0e",
+    "date": "2026-04-22T17:28:19.169+00:00",
+    "source": "Ashby: Injective"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/04ebbe81-5a21-4b38-945f-441f75d754bd",
+    "title": "Binance Accelerator Program- VIP Middle Office",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/04ebbe81-5a21-4b38-945f-441f75d754bd",
+    "date": "2026-04-22T16:40:08.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/75808580-head-of-enterprise#content",
+    "title": "Head of Enterprise",
+    "company": "Arbitrum",
+    "link": "https://jobs.arbitrum.io/companies/arbitrum-2-257690d4-4404-495e-b8be-982cfb04bde0/jobs/75808580-head-of-enterprise#content",
+    "date": "2026-04-22T16:12:46.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "7824223",
+    "title": "Senior Data Scientist",
+    "company": "Luno",
+    "link": "https://job-boards.greenhouse.io/luno/jobs/7824223",
+    "date": "2026-04-22T11:22:15-04:00",
+    "source": "Greenhouse: Luno"
+  },
+  {
+    "id": "b6ebfb7b-165c-418f-b7a6-fd23f8f00da2",
+    "title": "Technical Support Engineer",
+    "company": "Socket",
+    "link": "https://jobs.ashbyhq.com/Socket/b6ebfb7b-165c-418f-b7a6-fd23f8f00da2",
+    "date": "2026-04-22T14:30:06.952+00:00",
+    "source": "Ashby: Socket"
+  },
+  {
+    "id": "7835713",
+    "title": "IT Support Specialist - Atlassian Administrator",
+    "company": "Luno",
+    "link": "https://job-boards.greenhouse.io/luno/jobs/7835713",
+    "date": "2026-04-22T09:49:10-04:00",
+    "source": "Greenhouse: Luno"
+  },
+  {
     "id": "7707468003",
     "title": "Lead Institutional Sales - APAC",
     "company": "OpenZeppelin",
@@ -888,12 +1048,36 @@
     "source": "Binance"
   },
   {
+    "id": "https://jobs.lever.co/binance/f40f4bf8-7d85-4fb6-a9d7-d369cf39a5b1",
+    "title": "Binance Accelerator Program - Compliance/Sanctions",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/f40f4bf8-7d85-4fb6-a9d7-d369cf39a5b1",
+    "date": "2026-04-20T10:12:15.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/609c2f81-3cb7-4705-9831-051a875867e6",
+    "title": "User Journey Operations Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/609c2f81-3cb7-4705-9831-051a875867e6",
+    "date": "2026-04-20T09:57:15.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/kalshi/524d21ba-0ad4-4a45-975a-9ba511d6e422?utm_source=jobs.paradigm.xyz",
     "title": "Compliance",
     "company": "Kalshi",
     "link": "https://jobs.ashbyhq.com/kalshi/524d21ba-0ad4-4a45-975a-9ba511d6e422?utm_source=jobs.paradigm.xyz",
     "date": "2026-04-20T09:48:52.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/1f5bdcbd-a60a-4b4c-8615-ec34f10ab821",
+    "title": "QA Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/1f5bdcbd-a60a-4b4c-8615-ec34f10ab821",
+    "date": "2026-04-20T09:39:05.000Z",
+    "source": "Binance"
   },
   {
     "id": "200ab306-f906-4a45-a834-05345019f087",
@@ -904,12 +1088,36 @@
     "source": "Ashby: Gelato"
   },
   {
+    "id": "https://jobs.lever.co/binance/3d0c1d44-3881-4a4a-87e2-53e3edb8f48f",
+    "title": "Growth Campaign Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/3d0c1d44-3881-4a4a-87e2-53e3edb8f48f",
+    "date": "2026-04-20T09:35:53.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://www.flyzipline.com/careers/open-roles?gh_jid=7701227003",
     "title": "Senior Mechanical Engineer, Long Range Platform",
     "company": "Zipline",
     "link": "https://www.flyzipline.com/careers/open-roles?gh_jid=7701227003",
     "date": "2026-04-20T09:33:52.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/caa85420-1626-4f05-b202-4cb5cfaa6590",
+    "title": "Binance Accelerator Program - Marketing (Baltics)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/caa85420-1626-4f05-b202-4cb5cfaa6590",
+    "date": "2026-04-20T09:24:05.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/5a2d51f9-883d-4f40-b7b9-9b51006f6e84",
+    "title": "Paid Social Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5a2d51f9-883d-4f40-b7b9-9b51006f6e84",
+    "date": "2026-04-20T09:20:53.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/fcaef5ae-d16f-4fe0-b9db-f1824b3a33df",
@@ -920,11 +1128,35 @@
     "source": "Binance"
   },
   {
+    "id": "https://jobs.lever.co/binance/d2bb27c5-a189-4531-ac8e-c80bab87ac45",
+    "title": "Programmatic Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/d2bb27c5-a189-4531-ac8e-c80bab87ac45",
+    "date": "2026-04-20T09:05:53.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/f6e78b0c-f9a5-459b-ac09-d8951f9a47ba",
     "title": "Pioneer Talent Program - AI Productivity Engineer",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/f6e78b0c-f9a5-459b-ac09-d8951f9a47ba",
     "date": "2026-04-20T09:02:42.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/2c4461fe-4bfd-401d-97dd-7d4ad0f287d5",
+    "title": "(Senior) Product Manager, Futures Frontend",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/2c4461fe-4bfd-401d-97dd-7d4ad0f287d5",
+    "date": "2026-04-20T08:50:53.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/acdab753-d58b-41c3-b9ee-f5e1328b4411",
+    "title": "Social Media & Content Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/acdab753-d58b-41c3-b9ee-f5e1328b4411",
+    "date": "2026-04-20T08:47:42.000Z",
     "source": "Binance"
   },
   {
@@ -1466,6 +1698,14 @@
   {
     "id": "7797729",
     "title": "Network & Strategic Partner Onboarding Associate",
+    "company": "Ripple",
+    "link": "https://ripple.com/careers/all-jobs/job/7797729?gh_jid=7797729",
+    "date": "2026-04-17T12:54:35-04:00",
+    "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7797729",
+    "title": "Network & Strategic Partner Onboarding Analyst",
     "company": "Ripple",
     "link": "https://ripple.com/careers/all-jobs/job/7797729?gh_jid=7797729",
     "date": "2026-04-17T12:54:35-04:00",
@@ -11838,197 +12078,5 @@
     "link": "https://jobs.ashbyhq.com/Stellar/64ebac30-4ec8-4088-a24f-fbd62e9e031a",
     "date": "2026-03-23T21:13:15.695+00:00",
     "source": "Ashby: Stellar"
-  },
-  {
-    "id": "7668646003",
-    "title": "Partner 18, HR Operations Generalist",
-    "company": "a16z",
-    "link": "https://a16z.com/about/jobs/?gh_jid=7668646003",
-    "date": "2026-03-23T16:26:11-04:00",
-    "source": "Greenhouse: a16z"
-  },
-  {
-    "id": "5ee0f73c-a24e-41fa-80e0-bb058bc233e4",
-    "title": "Senior Mobile Engineer - Remote",
-    "company": "Spruce",
-    "link": "https://jobs.ashbyhq.com/SpruceID/5ee0f73c-a24e-41fa-80e0-bb058bc233e4",
-    "date": "2026-03-23T20:20:36.568+00:00",
-    "source": "Ashby: Spruce"
-  },
-  {
-    "id": "7743591",
-    "title": "Marketing Analyst",
-    "company": "Blockchain.com",
-    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7743591",
-    "date": "2026-03-23T14:33:21-04:00",
-    "source": "Greenhouse: Blockchain.com"
-  },
-  {
-    "id": "8466338002",
-    "title": "Senior Director Risk Management",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8466338002",
-    "date": "2026-03-23T14:28:19-04:00",
-    "source": "Greenhouse: BitGo"
-  },
-  {
-    "id": "5834742004",
-    "title": "Data Center Security Manager",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834742004",
-    "date": "2026-03-23T13:33:38-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "16fb567c-3d1c-4bfc-a61a-4e35fbb46c28",
-    "title": "Head of Global Markets",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/16fb567c-3d1c-4bfc-a61a-4e35fbb46c28",
-    "date": "2026-03-23T17:33:08.905Z",
-    "source": "Lever: Anchorage Digital"
-  },
-  {
-    "id": "5834759004",
-    "title": "2026 Product Internship - NYC",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834759004",
-    "date": "2026-03-23T13:24:34-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/95f2b7e9-fb4b-4bc8-8f9d-eeb4eb3e4b7f",
-    "title": "Binance Accelerator Program - Data Scientist",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/95f2b7e9-fb4b-4bc8-8f9d-eeb4eb3e4b7f",
-    "date": "2026-03-23T16:56:25.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/609c2f81-3cb7-4705-9831-051a875867e6",
-    "title": "User Journey Operations Specialist",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/609c2f81-3cb7-4705-9831-051a875867e6",
-    "date": "2026-03-23T16:41:25.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "4488a763-e1bb-4b7f-bdc9-6e1245a5785f",
-    "title": "Solution Architect - Americas",
-    "company": "Morpho",
-    "link": "https://jobs.ashbyhq.com/Morpho/4488a763-e1bb-4b7f-bdc9-6e1245a5785f",
-    "date": "2026-03-23T16:40:07.363+00:00",
-    "source": "Ashby: Morpho"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/f40f4bf8-7d85-4fb6-a9d7-d369cf39a5b1",
-    "title": "Binance Accelerator Program - Compliance/Sanctions",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/f40f4bf8-7d85-4fb6-a9d7-d369cf39a5b1",
-    "date": "2026-03-23T16:38:14.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/6549afd2-13db-4e1e-9cf3-16ffe4ddf45e",
-    "title": "Institutional Sales Manager (APAC",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6549afd2-13db-4e1e-9cf3-16ffe4ddf45e",
-    "date": "2026-03-23T16:25:20.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/caa85420-1626-4f05-b202-4cb5cfaa6590",
-    "title": "Binance Accelerator Program - Marketing (Baltics)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/caa85420-1626-4f05-b202-4cb5cfaa6590",
-    "date": "2026-03-23T16:13:45.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "5834629004",
-    "title": "Insurance Manager (Data Centers)",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834629004",
-    "date": "2026-03-23T12:12:28-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/1f5bdcbd-a60a-4b4c-8615-ec34f10ab821",
-    "title": "QA Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/1f5bdcbd-a60a-4b4c-8615-ec34f10ab821",
-    "date": "2026-03-23T16:10:20.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/5a2d51f9-883d-4f40-b7b9-9b51006f6e84",
-    "title": "Paid Social Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/5a2d51f9-883d-4f40-b7b9-9b51006f6e84",
-    "date": "2026-03-23T16:01:52.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/2c4461fe-4bfd-401d-97dd-7d4ad0f287d5",
-    "title": "(Senior) Product Manager, Futures Frontend",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/2c4461fe-4bfd-401d-97dd-7d4ad0f287d5",
-    "date": "2026-03-23T15:58:45.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/3d0c1d44-3881-4a4a-87e2-53e3edb8f48f",
-    "title": "Growth Campaign Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/3d0c1d44-3881-4a4a-87e2-53e3edb8f48f",
-    "date": "2026-03-23T15:50:32.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/d2bb27c5-a189-4531-ac8e-c80bab87ac45",
-    "title": "Programmatic Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/d2bb27c5-a189-4531-ac8e-c80bab87ac45",
-    "date": "2026-03-23T15:46:52.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/acdab753-d58b-41c3-b9ee-f5e1328b4411",
-    "title": "Social Media & Content Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/acdab753-d58b-41c3-b9ee-f5e1328b4411",
-    "date": "2026-03-23T15:35:32.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "4815543101",
-    "title": "Operations Manager",
-    "company": "NEAR",
-    "link": "https://job-boards.eu.greenhouse.io/nearfoundation/jobs/4815543101",
-    "date": "2026-03-23T10:05:01-04:00",
-    "source": "Greenhouse: NEAR"
-  },
-  {
-    "id": "d921c32e-7ad6-40f9-841a-3e4f11789af0",
-    "title": "Product Lead, Financial Infrastructure, Custody-as-a-Service",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/d921c32e-7ad6-40f9-841a-3e4f11789af0",
-    "date": "2026-03-23T13:47:09.940Z",
-    "source": "Lever: Anchorage Digital"
-  },
-  {
-    "id": "c5177784-1fc8-4e39-829e-98b41c561625",
-    "title": "Senior Executive Assistant",
-    "company": "Morpho",
-    "link": "https://jobs.ashbyhq.com/Morpho/c5177784-1fc8-4e39-829e-98b41c561625",
-    "date": "2026-03-23T13:41:18.101+00:00",
-    "source": "Ashby: Morpho"
-  },
-  {
-    "id": "4193359009",
-    "title": "Data & AI Generalist",
-    "company": "Securitize",
-    "link": "https://job-boards.greenhouse.io/securitize/jobs/4193359009",
-    "date": "2026-03-23T08:48:18-04:00",
-    "source": "Greenhouse: Securitize"
   }
 ]
