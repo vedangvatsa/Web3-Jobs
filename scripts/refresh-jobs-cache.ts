@@ -212,6 +212,13 @@ async function refreshJobsCache() {
     { board: 'ritual', company: 'Ritual' },
     { board: 'flowtraders', company: 'Flow Traders' },
     { board: 'taxbit', company: 'TaxBit' },
+    // --- Apr 2026 expansion (wave 2) ---
+    { board: 'grayscaleinvestments', company: 'Grayscale' },
+    { board: 'zetachain', company: 'ZetaChain' },
+    { board: 'complyadvantage', company: 'ComplyAdvantage' },
+    { board: 'rampnetwork', company: 'Ramp Network' },
+    // --- Apr 2026 expansion (wave 3) ---
+    { board: 'orderly', company: 'Orderly Network' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -280,6 +287,15 @@ async function refreshJobsCache() {
     { board: 'jito', company: 'Jito' },
     // --- Apr 2026 expansion ---
     { board: 'centrifuge', company: 'Centrifuge' },
+    // --- Apr 2026 expansion (wave 2) ---
+    { board: 'certik', company: 'CertiK' },
+    { board: 'merklescience', company: 'Merkle Science' },
+    { board: 'harmony', company: 'Harmony' },
+    { board: 'infstones', company: 'InfStones' },
+    { board: 'aurora-dev', company: 'Aurora' },
+    // --- Apr 2026 expansion (wave 3) ---
+    { board: 'binance', company: 'Binance' },
+    { board: 'bigtime', company: 'Big Time' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -378,6 +394,21 @@ async function refreshJobsCache() {
     // --- Apr 2026 expansion ---
     { board: 'Paxos', company: 'Paxos' },
     { board: 'Blockworks', company: 'Blockworks' },
+    // --- Apr 2026 expansion (wave 2) ---
+    { board: 'Sardine', company: 'Sardine' },
+    { board: 'Notabene', company: 'Notabene' },
+    { board: 'Parity', company: 'Parity Technologies' },
+    { board: 'SkyMavis', company: 'Sky Mavis' },
+    { board: 'Dune', company: 'Dune' },
+    { board: 'Goldsky', company: 'Goldsky' },
+    { board: 'oplabs', company: 'OP Labs' },
+    { board: 'eigen-labs', company: 'Eigen Labs' },
+    { board: 'aztec-labs', company: 'Aztec' },
+    { board: 'provable', company: 'Provable (Aleo)' },
+    { board: 'Render', company: 'Render Network' },
+    // --- Apr 2026 expansion (wave 3) ---
+    { board: 'seifoundation', company: 'Sei' },
+    { board: 'artemis', company: 'Artemis' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
