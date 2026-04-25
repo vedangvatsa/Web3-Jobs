@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://pixiongames.teamtailor.com/jobs/7615994-game-data-analyst",
+    "title": "Game Data Analyst",
+    "company": "Pixion Games",
+    "link": "https://pixiongames.teamtailor.com/jobs/7615994-game-data-analyst",
+    "date": "2026-04-25T05:27:32.000Z",
+    "source": "Jobs at Shima Capital Companies | Shima Capital"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/staff-platform-engineer-americas-at-ashby-4403602810?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Staff Platform Engineer, Americas",
+    "company": "Ashby",
+    "link": "https://www.linkedin.com/jobs/view/staff-platform-engineer-americas-at-ashby-4403602810?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-04-25T05:27:29.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/salt-ai-2/jobs/76204474-financial-services-ai-automations-intern#content",
+    "title": "Financial Services AI Automations Intern",
+    "company": "Salt AI",
+    "link": "https://coinbase.getro.com/companies/salt-ai-2/jobs/76204474-financial-services-ai-automations-intern#content",
+    "date": "2026-04-25T05:27:29.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/76201861-senior-software-engineer-product-engineering-americas#content",
+    "title": "Senior Software Engineer, Product Engineering, Americas",
+    "company": "Ashby",
+    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/76201861-senior-software-engineer-product-engineering-americas#content",
+    "date": "2026-04-25T05:12:29.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/76201859-staff-software-engineer-product-engineering-americas#content",
+    "title": "Staff Software Engineer, Product Engineering, Americas",
+    "company": "Ashby",
+    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/76201859-staff-software-engineer-product-engineering-americas#content",
+    "date": "2026-04-25T04:57:29.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://fr.linkedin.com/jobs/view/staff-software-engineer-product-engineering-eu-at-ashby-4403336549?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Staff Software Engineer, Product Engineering, EU",
+    "company": "Ashby",
+    "link": "https://fr.linkedin.com/jobs/view/staff-software-engineer-product-engineering-eu-at-ashby-4403336549?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-04-25T03:42:29.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/76195755-lead-institutional-sales-europe#content",
+    "title": "Lead Institutional Sales - Europe",
+    "company": "OpenZeppelin",
+    "link": "https://jobs.arbitrum.io/companies/openzeppelin-2/jobs/76195755-lead-institutional-sales-europe#content",
+    "date": "2026-04-25T02:28:35.000Z",
+    "source": "Jobs | Arbitrum Job Board"
+  },
+  {
+    "id": "https://www.citadelsecurities.com/careers/details/senior-platform-infrastructure-engineer/",
+    "title": "Senior Platform Infrastructure Engineer",
+    "company": "Citadel Securities",
+    "link": "https://www.citadelsecurities.com/careers/details/senior-platform-infrastructure-engineer/",
+    "date": "2026-04-25T00:39:56.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.citadelsecurities.com/careers/details/software-engineer-in-test-sdet/",
+    "title": "Software Engineer in Test (SDET)",
+    "company": "Citadel Securities",
+    "link": "https://www.citadelsecurities.com/careers/details/software-engineer-in-test-sdet/",
+    "date": "2026-04-25T00:24:56.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "e109bb83-8831-4864-bab6-257175bf5b0b",
+    "title": "Senior Core Engineer, Walrus",
+    "company": "Mysten Labs",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/e109bb83-8831-4864-bab6-257175bf5b0b",
+    "date": "2026-04-24T20:53:03.764+00:00",
+    "source": "Ashby: Mysten Labs"
+  },
+  {
     "id": "https://jobs.solana.com/companies/crossmint-2/jobs/76140809-senior-account-executive-fintech-nyc-mia#content",
     "title": "Senior Account Executive - Fintech (NYC / MIA)",
     "company": "Crossmint",
@@ -62,6 +142,14 @@
     "link": "https://jobs.solana.com/companies/refi-hub/jobs/75753939-office-culture-coordinator#content",
     "date": "2026-04-24T19:09:58.000Z",
     "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "https://job-boards.greenhouse.io/mesh/jobs/5199190008",
+    "title": "Senior QA Automation Engineer",
+    "company": "Mesh",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5199190008",
+    "date": "2026-04-24T18:45:45.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "7819113",
@@ -1453,6 +1541,22 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/b22c54d5-5cc3-481e-ac60-7a0d783889c6",
     "date": "2026-04-21T01:43:59.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/5a7d3f18-977e-4644-a38b-39c7d35af361",
+    "title": "VIP and Institutional Sales",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5a7d3f18-977e-4644-a38b-39c7d35af361",
+    "date": "2026-04-21T00:46:17.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/517f9531-86cc-4260-924f-6240e4bf8b36",
+    "title": "Golang Developer, Binance Square",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/517f9531-86cc-4260-924f-6240e4bf8b36",
+    "date": "2026-04-21T00:28:06.000Z",
     "source": "Binance"
   },
   {
@@ -3246,6 +3350,14 @@
     "link": "https://jobs.ashbyhq.com/MagicEden/fc1d42f8-3b5c-49c5-a36f-c5ef555a42d4",
     "date": "2026-04-16T06:33:28.122+00:00",
     "source": "Ashby: Magic Eden"
+  },
+  {
+    "id": "7698735003",
+    "title": "Partner 6, Executive Assistant, Crypto",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7698735003",
+    "date": "2026-04-15T23:20:37-04:00",
+    "source": "Greenhouse: a16z"
   },
   {
     "id": "7702529003",
@@ -11974,157 +12086,5 @@
     "link": "https://jobs.lever.co/binance/5feb96e7-feda-4a53-8abc-fa02c0a61c07",
     "date": "2026-03-26T05:32:56.000Z",
     "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/5a7d3f18-977e-4644-a38b-39c7d35af361",
-    "title": "VIP and Institutional Sales",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/5a7d3f18-977e-4644-a38b-39c7d35af361",
-    "date": "2026-03-26T05:23:40.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/517f9531-86cc-4260-924f-6240e4bf8b36",
-    "title": "Golang Developer, Binance Square",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/517f9531-86cc-4260-924f-6240e4bf8b36",
-    "date": "2026-03-26T05:11:35.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7750452",
-    "title": "Analyst, Global Investigations",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7750452?gh_jid=7750452",
-    "date": "2026-03-26T01:11:15-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/d5591e60-0d81-4e51-9f7c-4f1f5c8709f0",
-    "title": "Binance Accelerator Program - Web Engineer (BigPay)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/d5591e60-0d81-4e51-9f7c-4f1f5c8709f0",
-    "date": "2026-03-26T04:59:28.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "eb713def-54d2-4eeb-bd1e-13f6800a86b1",
-    "title": "VIP Manager - iGaming",
-    "company": "Magic Eden",
-    "link": "https://jobs.ashbyhq.com/MagicEden/eb713def-54d2-4eeb-bd1e-13f6800a86b1",
-    "date": "2026-03-26T04:57:33.704+00:00",
-    "source": "Ashby: Magic Eden"
-  },
-  {
-    "id": "8f2c395a-27ac-4ea2-b5e1-94051c321a8c",
-    "title": "Legal Operations Manager",
-    "company": "MoonPay",
-    "link": "https://jobs.lever.co/moonpay/8f2c395a-27ac-4ea2-b5e1-94051c321a8c",
-    "date": "2026-03-26T02:25:21.849Z",
-    "source": "Lever: MoonPay"
-  },
-  {
-    "id": "https://job-boards.greenhouse.io/fireblocks/jobs/4666635006",
-    "title": "Staff Full Stack Engineer",
-    "company": "Fireblocks",
-    "link": "https://job-boards.greenhouse.io/fireblocks/jobs/4666635006",
-    "date": "2026-03-26T00:50:27.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://job-boards.greenhouse.io/bitgo/jobs/8464699002",
-    "title": "Managing Director, Head of EU Sales",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8464699002",
-    "date": "2026-03-26T00:21:28.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/walrus/ab061257-8cf3-4f75-8c44-02cd3d7688a7?utm_source=jobs.a16z.com",
-    "title": "Partner Marketing Lead",
-    "company": "Walrus Foundation",
-    "link": "https://jobs.ashbyhq.com/walrus/ab061257-8cf3-4f75-8c44-02cd3d7688a7?utm_source=jobs.a16z.com",
-    "date": "2026-03-26T00:08:33.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/mem/6b0ae565-5996-421e-bcb9-008847960bfd?utm_source=jobs.a16z.com",
-    "title": "Applied Cryptographer",
-    "company": "Mem Protocol",
-    "link": "https://jobs.ashbyhq.com/mem/6b0ae565-5996-421e-bcb9-008847960bfd?utm_source=jobs.a16z.com",
-    "date": "2026-03-25T23:53:33.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "7646816003",
-    "title": "Partner 6, Executive Assistant, Crypto",
-    "company": "a16z",
-    "link": "https://a16z.com/about/jobs/?gh_jid=7646816003",
-    "date": "2026-03-25T19:53:06-04:00",
-    "source": "Greenhouse: a16z"
-  },
-  {
-    "id": "https://www.revolut.com/en-US/careers/position/ca14854d-df1d-4eb3-8b0b-3df9b2b879b6/",
-    "title": "Payment Specialist (ACH)",
-    "company": "Revolut",
-    "link": "https://www.revolut.com/en-US/careers/position/ca14854d-df1d-4eb3-8b0b-3df9b2b879b6/",
-    "date": "2026-03-25T21:47:17.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://www.revolut.com/en-US/careers/position/ea0f3106-8966-48a4-8a81-f8b84457b148/",
-    "title": "Payment Specialist (Fedwire)",
-    "company": "Revolut",
-    "link": "https://www.revolut.com/en-US/careers/position/ea0f3106-8966-48a4-8a81-f8b84457b148/",
-    "date": "2026-03-25T21:32:17.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067530-payments-analyst#content",
-    "title": "Payments Analyst",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067530-payments-analyst#content",
-    "date": "2026-03-25T21:23:17.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067527-data-scientist#content",
-    "title": "Data Scientist",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067527-data-scientist#content",
-    "date": "2026-03-25T21:08:17.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "7752982",
-    "title": "Senior Software Engineer, Blockchain Data Storage",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7752982?gh_jid=7752982",
-    "date": "2026-03-25T16:58:23-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067522-card-operations-manager#content",
-    "title": "Card Operations Manager",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067522-card-operations-manager#content",
-    "date": "2026-03-25T20:53:17.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://www.molecule.xyz/careers?ashby_jid=aa419485-73ef-471a-a128-bfd683ca13b1&utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
-    "title": "Commercial Associate",
-    "company": "Molecule",
-    "link": "https://www.molecule.xyz/careers?ashby_jid=aa419485-73ef-471a-a128-bfd683ca13b1&utm_source=Solana+Network+Opportunities+job+board&utm_medium=getro.com&gh_src=Solana+Network+Opportunities+job+board",
-    "date": "2026-03-25T20:35:20.000Z",
-    "source": "Jobs | Solana Network Opportunities Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067512-software-engineer-compliance#content",
-    "title": "Software Engineer - Compliance",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067512-software-engineer-compliance#content",
-    "date": "2026-03-25T20:23:17.000Z",
-    "source": "Jobs | Coinbase Job Board"
   }
 ]
