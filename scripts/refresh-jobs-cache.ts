@@ -208,6 +208,10 @@ async function refreshJobsCache() {
     { board: 'immunefi', company: 'Immunefi' },
     { board: 'b2c2', company: 'B2C2' },
     { board: 'brave', company: 'Brave' },
+    // --- Apr 2026 expansion ---
+    { board: 'ritual', company: 'Ritual' },
+    { board: 'flowtraders', company: 'Flow Traders' },
+    { board: 'taxbit', company: 'TaxBit' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -274,6 +278,8 @@ async function refreshJobsCache() {
     { board: 'coinmarketcap', company: 'CoinMarketCap' },
     { board: 'gauntlet', company: 'Gauntlet' },
     { board: 'jito', company: 'Jito' },
+    // --- Apr 2026 expansion ---
+    { board: 'centrifuge', company: 'Centrifuge' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -369,6 +375,9 @@ async function refreshJobsCache() {
     { board: 'Sequence', company: 'Sequence' },
     // Crypto VC
     { board: 'Nascent', company: 'Nascent' },
+    // --- Apr 2026 expansion ---
+    { board: 'Paxos', company: 'Paxos' },
+    { board: 'Blockworks', company: 'Blockworks' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
