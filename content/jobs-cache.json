@@ -648,11 +648,27 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
+    "title": "Quantitative Research Engineer – PhD Graduate (US)",
+    "company": "Citadel Securities",
+    "link": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
+    "date": "2026-04-23T19:22:47.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://www.citadelsecurities.com/careers/details/quantitative-developer-research-engineer/",
     "title": "Quantitative Developer/Research Engineer",
     "company": "Citadel Securities",
     "link": "https://www.citadelsecurities.com/careers/details/quantitative-developer-research-engineer/",
     "date": "2026-04-23T19:07:47.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+    "title": "Quantitative Research Analyst Intern  - BS/MS (US)",
+    "company": "Citadel Securities",
+    "link": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+    "date": "2026-04-23T18:52:47.000Z",
     "source": "Jobs | Paradigm Job Board"
   },
   {
@@ -1144,6 +1160,14 @@
     "source": "Greenhouse: Luno"
   },
   {
+    "id": "https://jobs.ashbyhq.com/alchemy/826853a9-684d-4bcf-9510-e53e5e07ad54?utm_source=jobs.panteracapital.com",
+    "title": "Director of Engineering, Infrastructure & Platform",
+    "company": "Alchemy",
+    "link": "https://jobs.ashbyhq.com/alchemy/826853a9-684d-4bcf-9510-e53e5e07ad54?utm_source=jobs.panteracapital.com",
+    "date": "2026-04-22T13:00:37.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/monad.foundation/ab1c0cc2-399d-44a1-a5c7-c60e50e4efd9?utm_source=jobs.shima.capital",
     "title": "Institutional Marketing Lead",
     "company": "Monad Foundation",
@@ -1272,6 +1296,14 @@
     "source": "Greenhouse: Galaxy Digital"
   },
   {
+    "id": "https://jobs.lever.co/binance/c92271de-8ff8-450c-bf1b-b7741a641bb6",
+    "title": "Binance Accelerator Program - QA",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/c92271de-8ff8-450c-bf1b-b7741a641bb6",
+    "date": "2026-04-22T02:44:09.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/6e1b2cbf-037b-4095-b152-0e7c160593ca",
     "title": "Binance Accelerator Programme - Institutional Sales (SEA)",
     "company": "Binance",
@@ -1328,6 +1360,14 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://jobs.lever.co/binance/841124c2-2090-4e3d-8038-2b82d053b6f3",
+    "title": "Data Analyst - Financial/ Derivatives",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/841124c2-2090-4e3d-8038-2b82d053b6f3",
+    "date": "2026-04-22T00:41:28.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/kalshi/85f63d5e-b8c3-41ae-b5ab-a0c84cf48d3d?utm_source=jobs.paradigm.xyz",
     "title": "Sr IT Systems Engineer",
     "company": "Kalshi",
@@ -1342,6 +1382,22 @@
     "link": "https://jobs.lever.co/1inch/57b05305-94ff-46e8-b15c-62c6d0f1a682?lever-source%5B%5D=jobs.panteracapital.com",
     "date": "2026-04-22T00:37:40.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/1f8347ba-8cfe-4b57-952e-fa4191bf5feb",
+    "title": "DLP & Incident Response Engineer",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/1f8347ba-8cfe-4b57-952e-fa4191bf5feb",
+    "date": "2026-04-22T00:26:28.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/55d6104f-e7d9-4bab-93ff-e8bffea0ee8f",
+    "title": "Data Scientist, NLP & Trading Strategies (Quantitative)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/55d6104f-e7d9-4bab-93ff-e8bffea0ee8f",
+    "date": "2026-04-22T00:23:18.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://job-boards.eu.greenhouse.io/bcbgroup/jobs/4847017101",
@@ -4389,6 +4445,14 @@
     "company": "Robinhood",
     "link": "https://boards.greenhouse.io/robinhood/jobs/7815430?t=gh_src=&gh_jid=7815430",
     "date": "2026-04-14T19:10:09-04:00",
+    "source": "Greenhouse: Robinhood"
+  },
+  {
+    "id": "7815625",
+    "title": "Workplace Operations Specialist",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7815625?t=gh_src=&gh_jid=7815625",
+    "date": "2026-04-14T18:16:21-04:00",
     "source": "Greenhouse: Robinhood"
   },
   {
@@ -12078,181 +12142,5 @@
     "link": "https://job-boards.greenhouse.io/paradigm/jobs/8457003002",
     "date": "2026-03-26T16:14:20-04:00",
     "source": "Greenhouse: Paradigm"
-  },
-  {
-    "id": "7758474",
-    "title": "Software Engineer, Backend (Developer - Stablecoin)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7758474?gh_jid=7758474",
-    "date": "2026-03-26T15:59:33-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7654867",
-    "title": "Staff Software Engineer, Legend",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7654867?t=gh_src=&gh_jid=7654867",
-    "date": "2026-03-26T15:48:50-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "d6f3a571-dbdd-42a2-9f24-1722cfeb78ce",
-    "title": "Software Architect Consultant (CIAM) - Remote",
-    "company": "Spruce",
-    "link": "https://jobs.ashbyhq.com/SpruceID/d6f3a571-dbdd-42a2-9f24-1722cfeb78ce",
-    "date": "2026-03-26T19:29:47.105+00:00",
-    "source": "Ashby: Spruce"
-  },
-  {
-    "id": "7596426",
-    "title": "Senior Data Scientist, ML (Incentives)",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7596426?t=gh_src=&gh_jid=7596426",
-    "date": "2026-03-26T15:17:57-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7743508",
-    "title": "Workplace Operations Specialist",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7743508?t=gh_src=&gh_jid=7743508",
-    "date": "2026-03-26T15:12:15-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "https://stripe.com/jobs/search?gh_jid=7739211",
-    "title": "SOX Business Controls Specialist",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7739211",
-    "date": "2026-03-26T18:56:28.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://www.coinbase.com/careers/positions/7756951?gh_jid=7756951",
-    "title": "Social Support Agent I",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7756951?gh_jid=7756951",
-    "date": "2026-03-26T18:42:56.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/ashby/jobs/72238774-staff-it-engineer#content",
-    "title": "Staff IT Engineer",
-    "company": "Ashby",
-    "link": "https://jobs.multicoin.capital/companies/ashby/jobs/72238774-staff-it-engineer#content",
-    "date": "2026-03-26T18:13:24.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/c92271de-8ff8-450c-bf1b-b7741a641bb6",
-    "title": "Binance Accelerator Program - QA",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/c92271de-8ff8-450c-bf1b-b7741a641bb6",
-    "date": "2026-03-26T17:46:53.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72235110-trade-surveillance-analyst#content",
-    "title": "Trade Surveillance Analyst",
-    "company": "Polymarket",
-    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72235110-trade-surveillance-analyst#content",
-    "date": "2026-03-26T17:44:32.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72235108-aml-compliance-officer#content",
-    "title": "AML Compliance Officer",
-    "company": "Polymarket",
-    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72235108-aml-compliance-officer#content",
-    "date": "2026-03-26T17:29:32.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/fd9f4fc5-5a26-4d6e-b603-f481ea076e2d",
-    "title": "Community & Socials Manager - Kazakhstan",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/fd9f4fc5-5a26-4d6e-b603-f481ea076e2d",
-    "date": "2026-03-26T17:22:13.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72235111-vp-of-product#content",
-    "title": "VP of Product",
-    "company": "Polymarket",
-    "link": "https://jobs.dragonfly.xyz/companies/polymarket/jobs/72235111-vp-of-product#content",
-    "date": "2026-03-26T17:14:32.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/4ee03397-f28f-4d8e-999b-4a26a58ba0b8",
-    "title": "Affiliate BD- Korean Speaker",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/4ee03397-f28f-4d8e-999b-4a26a58ba0b8",
-    "date": "2026-03-26T17:10:30.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/72220916-senior-technical-recruiter#content",
-    "title": "Senior Technical Recruiter",
-    "company": "Mesh",
-    "link": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/72220916-senior-technical-recruiter#content",
-    "date": "2026-03-26T17:01:10.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "7660804",
-    "title": "Director, Banking Partnerships and Sales, Americas",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7660804?gh_jid=7660804",
-    "date": "2026-03-26T12:54:37-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/841124c2-2090-4e3d-8038-2b82d053b6f3",
-    "title": "Data Analyst - Financial/ Derivatives",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/841124c2-2090-4e3d-8038-2b82d053b6f3",
-    "date": "2026-03-26T16:52:10.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/72220917-senior-product-manager-core-infrastructure#content",
-    "title": "Senior Product Manager, Core Infrastructure",
-    "company": "Mesh",
-    "link": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/72220917-senior-product-manager-core-infrastructure#content",
-    "date": "2026-03-26T16:46:10.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/1f8347ba-8cfe-4b57-952e-fa4191bf5feb",
-    "title": "DLP & Incident Response Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/1f8347ba-8cfe-4b57-952e-fa4191bf5feb",
-    "date": "2026-03-26T16:40:37.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/bvnk/jobs/72216327-reconciliation-analyst#content",
-    "title": "Reconciliation Analyst",
-    "company": "BVNK",
-    "link": "https://coinbase.getro.com/companies/bvnk/jobs/72216327-reconciliation-analyst#content",
-    "date": "2026-03-26T16:40:36.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/72220915-project-manager#content",
-    "title": "Project Manager",
-    "company": "Mesh",
-    "link": "https://jobs.dragonfly.xyz/companies/mesh-3-4c0b4eec-edf3-4d43-a3fd-b9ad65e53b32/jobs/72220915-project-manager#content",
-    "date": "2026-03-26T16:31:10.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/55d6104f-e7d9-4bab-93ff-e8bffea0ee8f",
-    "title": "Data Scientist, NLP & Trading Strategies (Quantitative)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/55d6104f-e7d9-4bab-93ff-e8bffea0ee8f",
-    "date": "2026-03-26T16:30:05.000Z",
-    "source": "Binance"
   }
 ]
