@@ -1,5 +1,13 @@
 [
   {
+    "id": "https://jobs.ashbyhq.com/alchemy/8cf4441a-866a-4a1b-82b9-4df6901c703c?utm_source=jobs.panteracapital.com",
+    "title": "Senior Brand Designer",
+    "company": "Alchemy",
+    "link": "https://jobs.ashbyhq.com/alchemy/8cf4441a-866a-4a1b-82b9-4df6901c703c?utm_source=jobs.panteracapital.com",
+    "date": "2026-04-25T12:50:24.000Z",
+    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
     "id": "https://jobs.solana.com/companies/coinflow-labs/jobs/76207530-operations-support-analyst#content",
     "title": "Operations Support Analyst",
     "company": "Coinflow Labs",
@@ -536,6 +544,14 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+    "title": "Quantitative Research Analyst  - University Graduate (US)",
+    "company": "Citadel Securities",
+    "link": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+    "date": "2026-04-23T20:37:47.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://coinbase.getro.com/companies/monad-2-2aabaff9-3059-4cc9-a008-2acf2551089a/jobs/75970926-senior-devops-engineer#content",
     "title": "Senior DevOps Engineer",
     "company": "Monad Foundation",
@@ -654,6 +670,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7842893?gh_jid=7842893",
     "date": "2026-04-23T13:52:56-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "edfb63f9-5c81-428f-80ec-c19d5ad57cb7",
+    "title": "Senior Software Engineer, Assets Core",
+    "company": "Paxos",
+    "link": "https://jobs.ashbyhq.com/Paxos/edfb63f9-5c81-428f-80ec-c19d5ad57cb7",
+    "date": "2026-04-23T16:14:59.474+00:00",
+    "source": "Ashby: Paxos"
   },
   {
     "id": "7838644",
@@ -1488,11 +1512,35 @@
     "source": "Greenhouse: Luno"
   },
   {
+    "id": "https://jobs.lever.co/binance/6cba01a4-255b-49ed-8602-f0437ab4d130",
+    "title": "Android Developer - Cloud",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/6cba01a4-255b-49ed-8602-f0437ab4d130",
+    "date": "2026-04-21T12:13:26.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/4e1e4873-f239-4996-a42b-9b79596cfa6d",
+    "title": "AI Chatbot Product Manager",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/4e1e4873-f239-4996-a42b-9b79596cfa6d",
+    "date": "2026-04-21T12:00:58.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/3697f7d9-d1e8-4bf9-a21e-4abd7646896e",
     "title": "Pioneer Talent Program - AI Agent Engineer",
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/3697f7d9-d1e8-4bf9-a21e-4abd7646896e",
     "date": "2026-04-21T11:27:42.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/9dfd297d-d877-43b3-81b4-86c6d807cbcf",
+    "title": "Business Intelligence Data Analyst",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/9dfd297d-d877-43b3-81b4-86c6d807cbcf",
+    "date": "2026-04-21T11:06:23.000Z",
     "source": "Binance"
   },
   {
@@ -2926,6 +2974,14 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7702297003",
     "date": "2026-04-17T18:30:42-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "https://jobs.avax.network/companies/1inch-2/jobs/73946208-chief-product-technology-officer-cpto#content",
+    "title": "Chief Product & Technology Officer (CPTO)",
+    "company": "1inch",
+    "link": "https://jobs.avax.network/companies/1inch-2/jobs/73946208-chief-product-technology-officer-cpto#content",
+    "date": "2026-04-17T22:09:07.000Z",
+    "source": "Jobs | Avalanche Job Board"
   },
   {
     "id": "5973845004",
@@ -5990,6 +6046,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7788653?gh_jid=7788653",
     "date": "2026-04-09T06:10:31-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7791924",
+    "title": "Corporate Strategy Manager",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7791924",
+    "date": "2026-04-09T05:55:08-04:00",
+    "source": "Greenhouse: Flow Traders"
   },
   {
     "id": "https://recruiterflow.com/coinswitch/jobs/663",
@@ -9184,6 +9248,14 @@
     "source": "Binance"
   },
   {
+    "id": "7771770",
+    "title": "Group Accounting Policy & Advisory Lead",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7771770",
+    "date": "2026-04-01T07:08:18-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
     "id": "https://jobs.lever.co/binance/128627ab-ff90-4502-a7a7-7ff11c509c6a",
     "title": "Business Development Manager, VIP /Institutional Growth",
     "company": "Binance",
@@ -9278,6 +9350,14 @@
     "link": "https://my.linkedin.com/jobs/view/qa-engineer-at-b%C4%B1t-official-4360830680?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
     "date": "2026-04-01T07:16:08.000Z",
     "source": "Jobs | Dragonfly Job Board"
+  },
+  {
+    "id": "7770955",
+    "title": "Digital Assets Trader",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7770955",
+    "date": "2026-04-01T03:10:00-04:00",
+    "source": "Greenhouse: Flow Traders"
   },
   {
     "id": "https://my.linkedin.com/jobs/view/automation-test-engineer-at-b%C4%B1t-official-4376701658?utm_source=Dragonfly+job+board&utm_medium=getro.com&gh_src=Dragonfly+job+board",
@@ -9928,6 +10008,14 @@
     "source": "Greenhouse: Galaxy Digital"
   },
   {
+    "id": "7768001",
+    "title": "Institutional Sales",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7768001",
+    "date": "2026-03-31T08:58:19-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
     "id": "https://jobs.lever.co/binance/a13367b2-8bd9-41e1-878f-478cd1539354",
     "title": "Quantitative Researcher",
     "company": "Binance",
@@ -10176,6 +10264,14 @@
     "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
   },
   {
+    "id": "7760610",
+    "title": "Quant Trader",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7760610",
+    "date": "2026-03-30T20:54:01-04:00",
+    "source": "Greenhouse: Flow Traders"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/chainalysis-careers/5916350a-b06b-42c3-9bfe-7666fb3647f7?utm_source=jobs.paradigm.xyz",
     "title": "Senior Software Engineer, AI Core",
     "company": "Chainalysis",
@@ -10286,6 +10382,14 @@
     "link": "https://jobs.lever.co/binance/e193349b-6064-41f5-aa19-64818a3abdef",
     "date": "2026-03-30T22:43:41.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "7766983",
+    "title": "Network Engineer",
+    "company": "Flow Traders",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7766983",
+    "date": "2026-03-30T18:41:49-04:00",
+    "source": "Greenhouse: Flow Traders"
   },
   {
     "id": "https://www.revolut.com/en-US/careers/position/b2c766cc-5872-4dbf-b3fa-7721fc82e422/",
@@ -11837,222 +11941,6 @@
     "company": "Alchemy",
     "link": "https://jobs.arbitrum.io/companies/alchemy-2/jobs/72198257-solutions-engineer-apac#content",
     "date": "2026-03-26T15:17:29.000Z",
-    "source": "Jobs | Arbitrum Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/80395b1f-eaf2-4c7c-872d-8687ce870e5d",
-    "title": "Finance Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/80395b1f-eaf2-4c7c-872d-8687ce870e5d",
-    "date": "2026-03-26T15:04:36.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188177-territory-lead#content",
-    "title": "Territory Lead",
-    "company": "Wave Mobile Money",
-    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188177-territory-lead#content",
-    "date": "2026-03-26T14:41:43.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "7751222",
-    "title": "Regulatory Policy, Senior Associate",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7751222?gh_jid=7751222",
-    "date": "2026-03-26T10:31:41-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188167-business-development-manager-sierra-leone#content",
-    "title": "Business Development Manager - Sierra Leone",
-    "company": "Wave Mobile Money",
-    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188167-business-development-manager-sierra-leone#content",
-    "date": "2026-03-26T14:26:43.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202037-member-of-talent-research-and-sourcing#content",
-    "title": "Member of Talent, Research and Sourcing",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202037-member-of-talent-research-and-sourcing#content",
-    "date": "2026-03-26T14:25:41.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/paxos/jobs/72185789-compliance-associate-kyc#content",
-    "title": "Compliance Associate, KYC",
-    "company": "Paxos",
-    "link": "https://jobs.multicoin.capital/companies/paxos/jobs/72185789-compliance-associate-kyc#content",
-    "date": "2026-03-26T14:20:36.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188173-legal-counsel#content",
-    "title": "Legal Counsel",
-    "company": "Wave Mobile Money",
-    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188173-legal-counsel#content",
-    "date": "2026-03-26T14:11:43.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202038-member-of-total-rewards#content",
-    "title": "Member of Total Rewards",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202038-member-of-total-rewards#content",
-    "date": "2026-03-26T14:10:41.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188165-business-development-manager-cameroon#content",
-    "title": "Business Development Manager - Cameroon",
-    "company": "Wave Mobile Money",
-    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188165-business-development-manager-cameroon#content",
-    "date": "2026-03-26T13:56:43.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202030-global-markets-accounting-lead#content",
-    "title": "Global Markets Accounting Lead",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202030-global-markets-accounting-lead#content",
-    "date": "2026-03-26T13:55:41.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "7749557",
-    "title": "Senior UX Writer",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7749557?gh_jid=7749557",
-    "date": "2026-03-26T09:49:15-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188164-agent-operations-territory-lead#content",
-    "title": "Agent Operations Territory Lead",
-    "company": "Wave Mobile Money",
-    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188164-agent-operations-territory-lead#content",
-    "date": "2026-03-26T13:41:43.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202033-member-of-accounting-gl-accounting#content",
-    "title": "Member of Accounting, GL Accounting",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202033-member-of-accounting-gl-accounting#content",
-    "date": "2026-03-26T13:40:41.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/6cba01a4-255b-49ed-8602-f0437ab4d130",
-    "title": "Android Developer - Cloud",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6cba01a4-255b-49ed-8602-f0437ab4d130",
-    "date": "2026-03-26T13:35:13.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "e2f22f3a-1ae1-4788-9f5e-60cd5f7b5e22",
-    "title": "Product Manager - Real-time Risk",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/Elliptic/e2f22f3a-1ae1-4788-9f5e-60cd5f7b5e22",
-    "date": "2026-03-26T13:30:51.504+00:00",
-    "source": "Ashby: Elliptic"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067517-motion-designer#content",
-    "title": "Motion Designer",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067517-motion-designer#content",
-    "date": "2026-03-26T13:26:44.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188161-agent-operations-regional-lead#content",
-    "title": "Agent Operations Regional Lead",
-    "company": "Wave Mobile Money",
-    "link": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/72188161-agent-operations-regional-lead#content",
-    "date": "2026-03-26T13:26:43.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "bb0b4fbe-a02a-4165-92fb-ab3a98767a39",
-    "title": "Chief Product Officer",
-    "company": "1inch",
-    "link": "https://jobs.lever.co/1inch/bb0b4fbe-a02a-4165-92fb-ab3a98767a39",
-    "date": "2026-03-26T13:26:08.274Z",
-    "source": "Lever: 1inch"
-  },
-  {
-    "id": "bb0b4fbe-a02a-4165-92fb-ab3a98767a39",
-    "title": "Chief Product Technology Officer (CPTO)",
-    "company": "1inch",
-    "link": "https://jobs.lever.co/1inch/bb0b4fbe-a02a-4165-92fb-ab3a98767a39",
-    "date": "2026-03-26T13:26:08.274Z",
-    "source": "Lever: 1inch"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202034-member-of-enterprise-technology-it-support#content",
-    "title": "Member of Enterprise Technology, IT Support",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202034-member-of-enterprise-technology-it-support#content",
-    "date": "2026-03-26T13:25:41.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/65f08a71-1954-4ee0-a897-d656fb93b066",
-    "title": "Marketing Business Analyst",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/65f08a71-1954-4ee0-a897-d656fb93b066",
-    "date": "2026-03-26T13:22:52.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/4e1e4873-f239-4996-a42b-9b79596cfa6d",
-    "title": "AI Chatbot Product Manager",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/4e1e4873-f239-4996-a42b-9b79596cfa6d",
-    "date": "2026-03-26T13:12:43.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202036-member-of-enterprise-technology-it-systems#content",
-    "title": "Member of Enterprise Technology, IT Systems",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.dragonfly.xyz/companies/anchorage-digital/jobs/72202036-member-of-enterprise-technology-it-systems#content",
-    "date": "2026-03-26T13:10:41.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/8b55f830-ec12-452a-8d6e-7c9e5c59ab04",
-    "title": "Technical Support EngineerLATAM/US/EU",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/8b55f830-ec12-452a-8d6e-7c9e5c59ab04",
-    "date": "2026-03-26T12:55:31.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/9dfd297d-d877-43b3-81b4-86c6d807cbcf",
-    "title": "Business Intelligence Data Analyst",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/9dfd297d-d877-43b3-81b4-86c6d807cbcf",
-    "date": "2026-03-26T12:42:51.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/near-2-bb06657a-853b-4265-a9ec-5944cd94cbb2/jobs/72171055-product-marketing-manager#content",
-    "title": "Product Marketing Manager",
-    "company": "NEAR",
-    "link": "https://jobs.dragonfly.xyz/companies/near-2-bb06657a-853b-4265-a9ec-5944cd94cbb2/jobs/72171055-product-marketing-manager#content",
-    "date": "2026-03-26T12:25:43.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/72164822-institutional-business-development-intern#content",
-    "title": "Institutional Business Development Intern",
-    "company": "LayerZero",
-    "link": "https://jobs.arbitrum.io/companies/layerzero-2/jobs/72164822-institutional-business-development-intern#content",
-    "date": "2026-03-26T12:13:26.000Z",
     "source": "Jobs | Arbitrum Job Board"
   }
 ]
