@@ -1,5 +1,21 @@
 [
   {
+    "id": "17b97e8b-e25b-4352-be35-f770524a96b4",
+    "title": "Engineering Manager - DevX",
+    "company": "Phantom",
+    "link": "https://jobs.ashbyhq.com/Phantom/17b97e8b-e25b-4352-be35-f770524a96b4",
+    "date": "2026-04-26T18:47:38.545+00:00",
+    "source": "Ashby: Phantom"
+  },
+  {
+    "id": "7712780003",
+    "title": "Senior Engineer, Vulnerability Scanner",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7712780003",
+    "date": "2026-04-26T12:10:20-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
     "id": "https://coinbase.getro.com/companies/blackbird-labs-2/jobs/76268213-content-editor#content",
     "title": "Content Editor",
     "company": "Blackbird Labs",
@@ -1024,6 +1040,14 @@
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
+    "id": "https://jobs.lever.co/binance/f7b23016-a6a3-4c02-a2b0-3553c7a5f3a1",
+    "title": "Binance Accelerator Program - Infrastructure Security (Python/ LLM)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/f7b23016-a6a3-4c02-a2b0-3553c7a5f3a1",
+    "date": "2026-04-23T06:10:54.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://jobs.lever.co/binance/e07b8f77-1d39-417e-b298-5b321a49ca5e",
     "title": "Binance News Lead - Flash News",
     "company": "Binance",
@@ -1048,6 +1072,14 @@
     "source": "Binance"
   },
   {
+    "id": "https://jobs.lever.co/binance/eb7a9326-ed0b-4aec-9d36-5629e347827e",
+    "title": "SEO Automation Engineer, Global",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/eb7a9326-ed0b-4aec-9d36-5629e347827e",
+    "date": "2026-04-23T05:37:43.000Z",
+    "source": "Binance"
+  },
+  {
     "id": "https://pixiongames.teamtailor.com/jobs/7615994-data-analyst",
     "title": "Data Analyst",
     "company": "Pixion Games",
@@ -1069,6 +1101,14 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/ffdce96a-9f28-4aa3-8d5f-a110a87083fa",
     "date": "2026-04-23T05:25:28.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/e02ff46a-e6a9-4c1e-85dd-0b2a25fcd51f",
+    "title": "IT Support Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/e02ff46a-e6a9-4c1e-85dd-0b2a25fcd51f",
+    "date": "2026-04-23T05:22:43.000Z",
     "source": "Binance"
   },
   {
@@ -11990,301 +12030,5 @@
     "link": "https://jobs.dragonfly.xyz/companies/agora-2-76387f5c-6833-498f-b633-90b1f62fe59d/jobs/72402723-senior-infrastructure-engineer#content",
     "date": "2026-03-27T20:11:33.000Z",
     "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "https://jobs.multicoin.capital/companies/paxos/jobs/72355920-head-of-financial-crimes-compliance#content",
-    "title": "Head of Financial Crimes Compliance",
-    "company": "Paxos",
-    "link": "https://jobs.multicoin.capital/companies/paxos/jobs/72355920-head-of-financial-crimes-compliance#content",
-    "date": "2026-03-27T20:01:07.000Z",
-    "source": "Jobs | Multicoin Capital Job Board"
-  },
-  {
-    "id": "https://jobs.spartangroup.io/companies/optimum-2-164f8175-b452-4e89-b3ff-0cd824df53ae/jobs/72304538-technical-project-manager#content",
-    "title": "Technical Project Manager",
-    "company": "Optimum",
-    "link": "https://jobs.spartangroup.io/companies/optimum-2-164f8175-b452-4e89-b3ff-0cd824df53ae/jobs/72304538-technical-project-manager#content",
-    "date": "2026-03-27T20:01:06.000Z",
-    "source": "Jobs | Spartan Group Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72342551-agent-product-manager-new-york-ny-remote#content",
-    "title": "Agent Product Manager New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72342551-agent-product-manager-new-york-ny-remote#content",
-    "date": "2026-03-27T19:46:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067530-payments-analyst-san-juan-puerto-rico-remote#content",
-    "title": "Payments Analyst San Juan, Puerto Rico, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067530-payments-analyst-san-juan-puerto-rico-remote#content",
-    "date": "2026-03-27T19:31:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067527-data-scientist-new-york-ny-remote#content",
-    "title": "Data Scientist New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067527-data-scientist-new-york-ny-remote#content",
-    "date": "2026-03-27T19:16:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/f7b23016-a6a3-4c02-a2b0-3553c7a5f3a1",
-    "title": "Binance Accelerator Program - Infrastructure Security (Python/ LLM)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/f7b23016-a6a3-4c02-a2b0-3553c7a5f3a1",
-    "date": "2026-03-27T19:15:03.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067522-card-operations-manager-new-york-ny-remote#content",
-    "title": "Card Operations Manager New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067522-card-operations-manager-new-york-ny-remote#content",
-    "date": "2026-03-27T19:01:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/eb7a9326-ed0b-4aec-9d36-5629e347827e",
-    "title": "SEO Automation Engineer, Global",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/eb7a9326-ed0b-4aec-9d36-5629e347827e",
-    "date": "2026-03-27T18:56:51.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.ripio.com/jobs/7470039-software-engineer-ssr-sr",
-    "title": "Software Engineer SSR/SR",
-    "company": "Ripio",
-    "link": "https://jobs.ripio.com/jobs/7470039-software-engineer-ssr-sr",
-    "date": "2026-03-27T18:53:37.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "https://jobs.lever.co/moonpay/d6a87f18-47a3-4c8f-a75f-be28f6d2eff3?lever-source%5B%5D=jobs.paradigm.xyz",
-    "title": "Senior Security Engineer - Automation",
-    "company": "MoonPay",
-    "link": "https://jobs.lever.co/moonpay/d6a87f18-47a3-4c8f-a75f-be28f6d2eff3?lever-source%5B%5D=jobs.paradigm.xyz",
-    "date": "2026-03-27T18:52:17.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067517-motion-designer-new-york-ny-remote#content",
-    "title": "Motion Designer New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067517-motion-designer-new-york-ny-remote#content",
-    "date": "2026-03-27T18:46:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "7762354",
-    "title": "Senior Product Designer, Consumer",
-    "company": "Blockchain.com",
-    "link": "https://job-boards.greenhouse.io/blockchain/jobs/7762354",
-    "date": "2026-03-27T14:46:02-04:00",
-    "source": "Greenhouse: Blockchain.com"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/e02ff46a-e6a9-4c1e-85dd-0b2a25fcd51f",
-    "title": "IT Support Specialist",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/e02ff46a-e6a9-4c1e-85dd-0b2a25fcd51f",
-    "date": "2026-03-27T18:38:38.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7762279",
-    "title": "Base Senior Product Manager, Privacy",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7762279?gh_jid=7762279",
-    "date": "2026-03-27T14:35:39-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067512-software-engineer-compliance-new-york-ny-remote#content",
-    "title": "Software Engineer - Compliance New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067512-software-engineer-compliance-new-york-ny-remote#content",
-    "date": "2026-03-27T18:31:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/1e249db3-6818-4901-97ff-34fdacb62aad",
-    "title": "VIP Sales",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/1e249db3-6818-4901-97ff-34fdacb62aad",
-    "date": "2026-03-27T18:20:23.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067505-ios-engineer-new-york-ny-remote#content",
-    "title": "iOS Engineer New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067505-ios-engineer-new-york-ny-remote#content",
-    "date": "2026-03-27T18:16:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067501-customer-engineering-lead-new-york-ny-remote#content",
-    "title": "Customer Engineering Lead New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067501-customer-engineering-lead-new-york-ny-remote#content",
-    "date": "2026-03-27T18:01:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067496-backend-engineer-ai-new-york-ny-remote#content",
-    "title": "Backend Engineer, AI New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067496-backend-engineer-ai-new-york-ny-remote#content",
-    "date": "2026-03-27T17:46:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "7622031",
-    "title": "Software Developer, Fraud Investigations",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7622031?t=gh_src=&gh_jid=7622031",
-    "date": "2026-03-27T13:42:44-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067487-android-engineer-new-york-ny-remote#content",
-    "title": "Android Engineer New York, NY, Remote",
-    "company": "Rain",
-    "link": "https://coinbase.getro.com/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72067487-android-engineer-new-york-ny-remote#content",
-    "date": "2026-03-27T17:31:06.000Z",
-    "source": "Jobs | Coinbase Job Board"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/alliance-2/jobs/72357818-general-partner#content",
-    "title": "General Partner",
-    "company": "Alliance",
-    "link": "https://jobs.dragonfly.xyz/companies/alliance-2/jobs/72357818-general-partner#content",
-    "date": "2026-03-27T17:28:33.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "7755116",
-    "title": "Internal Audit IT Manager",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7755116?gh_jid=7755116",
-    "date": "2026-03-27T13:27:19-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "7755119",
-    "title": "Senior Manager, Internal Audit IT",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7755119?gh_jid=7755119",
-    "date": "2026-03-27T13:20:00-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "5834860004",
-    "title": "Senior Software Engineer, GalaxyOne Institutional",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5834860004",
-    "date": "2026-03-27T13:10:03-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "5837010004",
-    "title": "Vice President, Tax Advisory",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5837010004",
-    "date": "2026-03-27T13:04:02-04:00",
-    "source": "Greenhouse: Galaxy Digital"
-  },
-  {
-    "id": "8483277002",
-    "title": "Operations Associate",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8483277002",
-    "date": "2026-03-27T13:03:14-04:00",
-    "source": "Greenhouse: BitGo"
-  },
-  {
-    "id": "7759747",
-    "title": "Customer Success Specialist II (Remote - Cyprus)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7759747?gh_jid=7759747",
-    "date": "2026-03-27T12:44:17-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72342551-agent-product-manager#content",
-    "title": "Agent Product Manager",
-    "company": "Rain",
-    "link": "https://jobs.dragonfly.xyz/companies/rain-2-39e6e164-4dce-42b8-ad8a-e4bda2a0a071/jobs/72342551-agent-product-manager#content",
-    "date": "2026-03-27T16:01:09.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "7749232",
-    "title": "Manager, Enterprise Risk",
-    "company": "Gemini",
-    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7749232&gh_jid=7749232",
-    "date": "2026-03-27T11:58:48-04:00",
-    "source": "Greenhouse: Gemini"
-  },
-  {
-    "id": "7759744",
-    "title": "Supervisor, Customer Success Team (Remote-Cyprus)",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7759744?gh_jid=7759744",
-    "date": "2026-03-27T11:39:36-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "bc09255a-8975-492e-93e4-ecf2f16e8e45",
-    "title": "Cloud Security Engineer",
-    "company": "MoonPay",
-    "link": "https://jobs.lever.co/moonpay/bc09255a-8975-492e-93e4-ecf2f16e8e45",
-    "date": "2026-03-27T13:53:09.830Z",
-    "source": "Lever: MoonPay"
-  },
-  {
-    "id": "28a287e0-1e9f-4002-9ae7-7d0e61e87669",
-    "title": "Product Security Manager",
-    "company": "MoonPay",
-    "link": "https://jobs.lever.co/moonpay/28a287e0-1e9f-4002-9ae7-7d0e61e87669",
-    "date": "2026-03-27T13:45:02.578Z",
-    "source": "Lever: MoonPay"
-  },
-  {
-    "id": "362dfa56-52e9-4afc-8bbe-d873472c1ea5",
-    "title": "Director, GelatoConnect Logistics",
-    "company": "Gelato",
-    "link": "https://jobs.ashbyhq.com/Gelato/362dfa56-52e9-4afc-8bbe-d873472c1ea5",
-    "date": "2026-03-27T13:28:48.223+00:00",
-    "source": "Ashby: Gelato"
-  },
-  {
-    "id": "4824936101",
-    "title": "Software Engineer, Angular (B2C Web Platform)",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4824936101",
-    "date": "2026-03-27T09:20:55-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "4778778101",
-    "title": "Senior Software Engineer, Angular (B2C Web Platform)",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4778778101",
-    "date": "2026-03-27T09:20:54-04:00",
-    "source": "Greenhouse: Bitpanda"
-  },
-  {
-    "id": "7e0b7068-95c4-4faa-a0be-4cabc548be8f",
-    "title": "Founding Product Marketing Manager",
-    "company": "Stacks",
-    "link": "https://jobs.ashbyhq.com/Stacks/7e0b7068-95c4-4faa-a0be-4cabc548be8f",
-    "date": "2026-03-27T12:26:17.154+00:00",
-    "source": "Ashby: Stacks"
   }
 ]
