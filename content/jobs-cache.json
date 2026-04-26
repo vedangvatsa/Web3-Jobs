@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://coinbase.getro.com/companies/blackbird-labs-2/jobs/76268213-content-editor#content",
+    "title": "Content Editor",
+    "company": "Blackbird Labs",
+    "link": "https://coinbase.getro.com/companies/blackbird-labs-2/jobs/76268213-content-editor#content",
+    "date": "2026-04-26T04:53:02.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/world-2/jobs/76257848-tpm-software#content",
+    "title": "TPM, Software",
+    "company": "World",
+    "link": "https://coinbase.getro.com/companies/world-2/jobs/76257848-tpm-software#content",
+    "date": "2026-04-26T04:38:02.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266166-software-engineer-identity-access-management#content",
+    "title": "Software Engineer, Identity & Access Management",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266166-software-engineer-identity-access-management#content",
+    "date": "2026-04-26T04:38:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/software-engineer-builder-tools-at-hadrian-4401972877?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "title": "Software Engineer, Builder Tools",
+    "company": "StreamingFast",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-builder-tools-at-hadrian-4401972877?utm_source=Multicoin+Capital+job+board&utm_medium=getro.com&gh_src=Multicoin+Capital+job+board",
+    "date": "2026-04-26T04:23:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://coinbase.getro.com/companies/ashby/jobs/76253739-director-of-people#content",
+    "title": "Director of People",
+    "company": "Ashby",
+    "link": "https://coinbase.getro.com/companies/ashby/jobs/76253739-director-of-people#content",
+    "date": "2026-04-26T04:08:02.000Z",
+    "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266149-recruiting-coordinator#content",
+    "title": "Recruiting Coordinator",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266149-recruiting-coordinator#content",
+    "date": "2026-04-26T03:53:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266164-manufacturing-engineer-additive-lpbf#content",
+    "title": "Manufacturing Engineer, Additive (LPBF)",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266164-manufacturing-engineer-additive-lpbf#content",
+    "date": "2026-04-26T03:38:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266161-manufacturing-engineer-additive-ded#content",
+    "title": "Manufacturing Engineer, Additive (DED)",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266161-manufacturing-engineer-additive-ded#content",
+    "date": "2026-04-26T03:23:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266154-service-desk-manager#content",
+    "title": "Service Desk Manager",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266154-service-desk-manager#content",
+    "date": "2026-04-26T03:08:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
+    "id": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266152-recruiting-programs-manager#content",
+    "title": "Recruiting Programs Manager",
+    "company": "StreamingFast",
+    "link": "https://jobs.multicoin.capital/companies/streamingfast/jobs/76266152-recruiting-programs-manager#content",
+    "date": "2026-04-26T02:53:01.000Z",
+    "source": "Jobs | Multicoin Capital Job Board"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/alchemy/8cf4441a-866a-4a1b-82b9-4df6901c703c?utm_source=jobs.panteracapital.com",
     "title": "Senior Brand Designer",
     "company": "Alchemy",
@@ -328,6 +408,22 @@
     "source": "Lever: MoonPay"
   },
   {
+    "id": "4849999101",
+    "title": "iOS Engineer, Swift (Onboarding & Verification)",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4849999101",
+    "date": "2026-04-24T09:10:14-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "4849606101",
+    "title": "Offensive Security Engineer",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4849606101",
+    "date": "2026-04-24T08:38:23-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
     "id": "7850122",
     "title": "Business Development Manager",
     "company": "Luno",
@@ -366,6 +462,14 @@
     "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Senior-Analyst---Treasury-Shared-Services_JR101004",
     "date": "2026-04-24T09:44:02.000Z",
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
+  },
+  {
+    "id": "4844323101",
+    "title": "Associate, Customer Support - Live chat",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4844323101",
+    "date": "2026-04-24T05:39:07-04:00",
+    "source": "Greenhouse: Bitpanda"
   },
   {
     "id": "7712844003",
@@ -462,6 +566,14 @@
     "link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
     "date": "2026-04-23T23:42:35.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "7848821",
+    "title": "Senior Software Developer, Ops Platform and Fraud Investigations",
+    "company": "Robinhood",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/7848821?t=gh_src=&gh_jid=7848821",
+    "date": "2026-04-23T19:34:14-04:00",
+    "source": "Greenhouse: Robinhood"
   },
   {
     "id": "https://jobs.lever.co/binance/217a6c37-33ef-4a8e-b4fc-ddc43c710632",
@@ -712,6 +824,14 @@
     "source": "Greenhouse: Robinhood"
   },
   {
+    "id": "4674112101",
+    "title": "IT Audit Specialist",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4674112101",
+    "date": "2026-04-23T11:26:11-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
     "id": "7846840",
     "title": "Senior React Native Engineer",
     "company": "Blockchain.com",
@@ -766,6 +886,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7845963?gh_jid=7845963",
     "date": "2026-04-23T08:10:59-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "7891e33d-fd9b-4caf-8bb2-442dd4fc4466",
+    "title": "QE Engineer (Contractor)",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/7891e33d-fd9b-4caf-8bb2-442dd4fc4466",
+    "date": "2026-04-23T12:03:17.774+00:00",
+    "source": "Ashby: Trust Wallet"
   },
   {
     "id": "4453463006",
@@ -1184,6 +1312,14 @@
     "source": "Greenhouse: OpenZeppelin"
   },
   {
+    "id": "ddbeb186-0d04-4a01-8472-7d0c892399d6",
+    "title": "Senior Engineering Manager",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/ddbeb186-0d04-4a01-8472-7d0c892399d6",
+    "date": "2026-04-22T11:25:33.866+00:00",
+    "source": "Ashby: Trust Wallet"
+  },
+  {
     "id": "8511908002",
     "title": "Technical Support Manager",
     "company": "ComplyAdvantage",
@@ -1222,6 +1358,14 @@
     "link": "https://www.revolut.com/en-US/careers/position/a7279a71-84aa-48a0-afae-b8b2c1438068/",
     "date": "2026-04-22T09:49:25.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/1897d27e-c473-40ee-90b8-a3e5bfeeb68f",
+    "title": "Finance Manager (12-Month Contract)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/1897d27e-c473-40ee-90b8-a3e5bfeeb68f",
+    "date": "2026-04-22T08:36:34.000Z",
+    "source": "Binance"
   },
   {
     "id": "b8905760-47d0-4200-b07a-13ecc1f3b4a4",
@@ -1270,6 +1414,30 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7710505003",
     "date": "2026-04-22T01:55:24-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
+    "title": "Lead Security Engineer (AI Security, DeFi, Self Custody)",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
+    "date": "2026-04-22T05:38:49.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/614d983f-57a4-4db3-bb30-48d7a0825221",
+    "title": "Senior Android Engineer, Futures",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/614d983f-57a4-4db3-bb30-48d7a0825221",
+    "date": "2026-04-22T05:25:09.000Z",
+    "source": "Binance"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
+    "title": "Senior iOS Engineer, Futures",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
+    "date": "2026-04-22T05:06:57.000Z",
+    "source": "Binance"
   },
   {
     "id": "7710480003",
@@ -1590,6 +1758,14 @@
     "link": "https://ripple.com/careers/all-jobs/job/7838044?gh_jid=7838044",
     "date": "2026-04-21T11:39:12-04:00",
     "source": "Greenhouse: Ripple"
+  },
+  {
+    "id": "4846975101",
+    "title": "Senior Specialist, Partnerships - Europe",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4846975101",
+    "date": "2026-04-21T11:17:59-04:00",
+    "source": "Greenhouse: Bitpanda"
   },
   {
     "id": "31a3ebcf-066c-43c3-abfb-792d50e8c2fc",
@@ -2064,6 +2240,14 @@
     "source": "Greenhouse: Ripple"
   },
   {
+    "id": "4686972005",
+    "title": "Design Engineer",
+    "company": "Shakepay",
+    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4686972005",
+    "date": "2026-04-20T17:02:40-04:00",
+    "source": "Greenhouse: Shakepay"
+  },
+  {
     "id": "https://jobs.lever.co/binance/ef8538c5-387b-40af-beda-c2e76e1ad0e1",
     "title": "Marketing Manager - Poland",
     "company": "Binance",
@@ -2086,6 +2270,14 @@
     "link": "https://jobs.lever.co/binance/ecc1d85c-9ee4-461c-806b-cc5156cc2ce2",
     "date": "2026-04-20T20:31:19.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "4686542005",
+    "title": "Senior Product Designer",
+    "company": "Shakepay",
+    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4686542005",
+    "date": "2026-04-20T16:22:07-04:00",
+    "source": "Greenhouse: Shakepay"
   },
   {
     "id": "38630561-a8ef-4240-b3ec-aca1b51474e6",
@@ -2408,6 +2600,14 @@
     "source": "Ashby: Helius"
   },
   {
+    "id": "4660665005",
+    "title": "Staff Product Designer",
+    "company": "Shakepay",
+    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4660665005",
+    "date": "2026-04-20T12:24:31-04:00",
+    "source": "Greenhouse: Shakepay"
+  },
+  {
     "id": "7818279",
     "title": "Senior Product Manager",
     "company": "Gemini",
@@ -2710,6 +2910,14 @@
     "link": "https://jobs.lever.co/binance/ba663e18-e640-4368-af28-7cfe051aab61",
     "date": "2026-04-20T08:06:15.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "4835159101",
+    "title": "Senior Specialist, VIP Relationships",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4835159101",
+    "date": "2026-04-20T04:04:12-04:00",
+    "source": "Greenhouse: Bitpanda"
   },
   {
     "id": "https://jobs.lever.co/binance/af989f78-c76a-4656-a504-978133f8256a",
@@ -4070,6 +4278,14 @@
     "link": "https://coinbase.getro.com/companies/bvnk/jobs/74304811-senior-software-engineer-mxp#content",
     "date": "2026-04-15T11:11:08.000Z",
     "source": "Jobs | Coinbase Job Board"
+  },
+  {
+    "id": "4823555101",
+    "title": "Specialist, Strategic Finance",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4823555101",
+    "date": "2026-04-15T07:10:12-04:00",
+    "source": "Greenhouse: Bitpanda"
   },
   {
     "id": "https://coinbase.getro.com/companies/bvnk/jobs/74304810-head-of-operations#content",
@@ -5664,6 +5880,14 @@
     "source": "Greenhouse: Luno"
   },
   {
+    "id": "4838261101",
+    "title": "Senior Offensive Security Engineer",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4838261101",
+    "date": "2026-04-10T09:57:00-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
     "id": "7696290003",
     "title": "Overseas Operations Manager (P2P)",
     "company": "OKX",
@@ -5694,6 +5918,14 @@
     "link": "https://jobs.lever.co/moonpay/9d92f0f4-5ec3-4134-8c69-078b5357ec91",
     "date": "2026-04-10T10:13:05.646Z",
     "source": "Lever: MoonPay"
+  },
+  {
+    "id": "e1910730-eb4f-43f0-962b-97f8b26529d7",
+    "title": "Technical Customer Support Specialist",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/e1910730-eb4f-43f0-962b-97f8b26529d7",
+    "date": "2026-04-10T10:09:06.217+00:00",
+    "source": "Ashby: Trust Wallet"
   },
   {
     "id": "41c20f1b-db1f-49ae-a9d3-00df386a605f",
@@ -6040,6 +6272,14 @@
     "source": "Jobs at Pantera Capital Companies | Pantera Capital"
   },
   {
+    "id": "8500748002",
+    "title": "Senior Software Engineer - Post Trade",
+    "company": "BitGo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8500748002",
+    "date": "2026-04-09T14:32:58-04:00",
+    "source": "Greenhouse: BitGo"
+  },
+  {
     "id": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Senior-HR-Business-Partner_JR100975-1",
     "title": "Senior HR Business Partner",
     "company": "Circle",
@@ -6206,6 +6446,14 @@
     "link": "https://jobs.lever.co/binance/16965114-4ece-4838-80bc-ebc259253e6f",
     "date": "2026-04-09T13:41:42.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "4828187101",
+    "title": "Associate, AML Operations",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4828187101",
+    "date": "2026-04-09T09:36:03-04:00",
+    "source": "Greenhouse: Bitpanda"
   },
   {
     "id": "8393c469-012e-4fe7-9fca-08094b0ebd8d",
@@ -6686,6 +6934,14 @@
     "link": "https://jobs.solana.com/companies/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05/jobs/73729737-engineering-lead-crypto-and-defi#content",
     "date": "2026-04-08T19:54:34.000Z",
     "source": "Jobs | Solana Network Opportunities Job Board"
+  },
+  {
+    "id": "cb451e69-747f-42f5-b8ba-c8e421cda33c",
+    "title": "Enterprise Solutions Strategist",
+    "company": "Flipside Crypto",
+    "link": "https://jobs.ashbyhq.com/flipsidecrypto/cb451e69-747f-42f5-b8ba-c8e421cda33c",
+    "date": "2026-04-08T19:47:55.647+00:00",
+    "source": "Ashby: Flipside Crypto"
   },
   {
     "id": "https://coinbase.getro.com/companies/wave-mobile-money-2/jobs/73678574-support-group-lead#content",
@@ -7864,6 +8120,14 @@
     "source": "Greenhouse: Robinhood"
   },
   {
+    "id": "1506f9b0-e679-44d4-95cc-22f0ed139b85",
+    "title": "Forward Deployed Engineer",
+    "company": "Delphi Digital",
+    "link": "https://jobs.ashbyhq.com/delphi/1506f9b0-e679-44d4-95cc-22f0ed139b85",
+    "date": "2026-04-06T16:27:02.736+00:00",
+    "source": "Ashby: Delphi Digital"
+  },
+  {
     "id": "8491776002",
     "title": "Senior Data Scientist",
     "company": "ComplyAdvantage",
@@ -8614,6 +8878,14 @@
     "link": "https://stripe.com/jobs/search?gh_jid=7739361",
     "date": "2026-04-03T09:05:56.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "4831457101",
+    "title": "Senior Software Engineer, React (Websites & MarTech)",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4831457101",
+    "date": "2026-04-03T04:19:47-04:00",
+    "source": "Greenhouse: Bitpanda"
   },
   {
     "id": "da0bf312-9bfd-4f2d-9e0d-36e14dde0d11",
@@ -10416,6 +10688,14 @@
     "source": "Binance"
   },
   {
+    "id": "4821134101",
+    "title": "Team Lead, Customer Care",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4821134101",
+    "date": "2026-03-31T08:18:08-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
     "id": "https://jobs.lever.co/binance/74b46a59-997b-4e73-8002-a0ced88ebafb",
     "title": "Senior Data Analyst (AI Compliance)",
     "company": "Binance",
@@ -10510,6 +10790,14 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7683432003",
     "date": "2026-03-31T03:34:54-04:00",
     "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "bb177863-fd26-407f-9f4a-bf24586b7d02",
+    "title": "Senior Full Stack Engineer (Web3 Product Innovation)",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/bb177863-fd26-407f-9f4a-bf24586b7d02",
+    "date": "2026-03-31T07:32:18.903+00:00",
+    "source": "Ashby: Trust Wallet"
   },
   {
     "id": "7684887003",
@@ -10638,6 +10926,14 @@
     "link": "https://jobs.lever.co/binance/c7007aac-b5be-4c66-b941-22c09da9662b",
     "date": "2026-03-31T01:56:29.000Z",
     "source": "Binance"
+  },
+  {
+    "id": "5dcd87f3-9777-4790-b213-9ab0da45eb1f",
+    "title": "Operations Intern",
+    "company": "Delphi Digital",
+    "link": "https://jobs.ashbyhq.com/delphi/5dcd87f3-9777-4790-b213-9ab0da45eb1f",
+    "date": "2026-03-31T01:53:04.860+00:00",
+    "source": "Ashby: Delphi Digital"
   },
   {
     "id": "https://jobs.lever.co/binance/a68b42c6-939f-4a88-a2e1-339551b8fa3b",
@@ -11272,6 +11568,14 @@
     "source": "Jobs | Paradigm Job Board"
   },
   {
+    "id": "362af2bc-a01c-4399-acaf-c9e1eac80c01",
+    "title": "Growth Director (Web3)",
+    "company": "Trust Wallet",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/362af2bc-a01c-4399-acaf-c9e1eac80c01",
+    "date": "2026-03-29T08:50:39.632+00:00",
+    "source": "Ashby: Trust Wallet"
+  },
+  {
     "id": "https://jobs.gem.com/ondo-finance/am9icG9zdDpS5VU_TnKCc6ivTilqcLHB?utm_source=jobs.panteracapital.com",
     "title": "QA Engineer, Web / Frontend",
     "company": "Ondo Finance",
@@ -11808,6 +12112,22 @@
     "source": "Ashby: Gelato"
   },
   {
+    "id": "4824936101",
+    "title": "Software Engineer, Angular (B2C Web Platform)",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4824936101",
+    "date": "2026-03-27T09:20:55-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
+    "id": "4778778101",
+    "title": "Senior Software Engineer, Angular (B2C Web Platform)",
+    "company": "Bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4778778101",
+    "date": "2026-03-27T09:20:54-04:00",
+    "source": "Greenhouse: Bitpanda"
+  },
+  {
     "id": "7e0b7068-95c4-4faa-a0be-4cabc548be8f",
     "title": "Founding Product Marketing Manager",
     "company": "Stacks",
@@ -11950,197 +12270,5 @@
     "link": "https://jobs.lever.co/binance/5a34d855-b30f-4ff1-995e-bc8cae82d300",
     "date": "2026-03-27T05:55:50.000Z",
     "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/1897d27e-c473-40ee-90b8-a3e5bfeeb68f",
-    "title": "Finance Manager (12-Month Contract)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/1897d27e-c473-40ee-90b8-a3e5bfeeb68f",
-    "date": "2026-03-27T04:42:06.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/780ee52c-8595-4467-b4a6-394ac5887c67",
-    "title": "Strategy & Operations - LATAM",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/780ee52c-8595-4467-b4a6-394ac5887c67",
-    "date": "2026-03-27T03:28:58.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7489930",
-    "title": "Senior Software Developer, Ops Platform and Fraud Investigations",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7489930?t=gh_src=&gh_jid=7489930",
-    "date": "2026-03-26T23:26:10-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/6d2f8188-44fc-452d-b7f2-59564f4b6bef",
-    "title": "Global Affiliate Manager - LATAM",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/6d2f8188-44fc-452d-b7f2-59564f4b6bef",
-    "date": "2026-03-27T03:13:58.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
-    "title": "Lead Security Engineer (AI Security, DeFi, Self Custody)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/54269c13-24a3-4350-b4af-a432780e122e",
-    "date": "2026-03-27T03:10:44.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/614d983f-57a4-4db3-bb30-48d7a0825221",
-    "title": "Senior Android Engineer, Futures",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/614d983f-57a4-4db3-bb30-48d7a0825221",
-    "date": "2026-03-27T02:34:15.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
-    "title": "Senior iOS Engineer, Futures",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/fcde5d37-6ed1-4205-9bb2-34c6476eb872",
-    "date": "2026-03-27T02:16:05.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "7742944",
-    "title": "Senior Ecosystem Growth Manager",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/7742944?gh_jid=7742944",
-    "date": "2026-03-26T22:14:36-04:00",
-    "source": "Greenhouse: Ripple"
-  },
-  {
-    "id": "7739577",
-    "title": "Staff Technical Program Manager",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7739577?t=gh_src=&gh_jid=7739577",
-    "date": "2026-03-26T21:04:53-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7739577",
-    "title": "Staff Technical Program Manager - Reliability Engineering",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7739577?t=gh_src=&gh_jid=7739577",
-    "date": "2026-03-26T21:04:53-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "https://jobs.lever.co/anchorage/4bc0318e-3687-4fbb-b12f-41d36b3492e7?lever-source%5B%5D=jobs.a16z.com",
-    "title": "GL Accounting Manager",
-    "company": "Anchorage Digital",
-    "link": "https://jobs.lever.co/anchorage/4bc0318e-3687-4fbb-b12f-41d36b3492e7?lever-source%5B%5D=jobs.a16z.com",
-    "date": "2026-03-27T00:58:04.000Z",
-    "source": "Jobs at Andreessen Horowitz Companies | Andreessen Horowitz"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d?utm_source=jobs.paradigm.xyz",
-    "title": "Software Engineer - 2027 New Grads",
-    "company": "Ellipsis Labs",
-    "link": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d?utm_source=jobs.paradigm.xyz",
-    "date": "2026-03-27T00:43:37.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849?utm_source=jobs.paradigm.xyz",
-    "title": "Software Engineer - 2027 Interns",
-    "company": "Ellipsis Labs",
-    "link": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849?utm_source=jobs.paradigm.xyz",
-    "date": "2026-03-27T00:28:37.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "https://jobs.lever.co/Hivemapper/69b4f681-d6d5-4ebb-b059-fee83971ea80?lever-source%5B%5D=jobs.panteracapital.com",
-    "title": "Senior Software Engineer (San Francisco, CA)",
-    "company": "Hivemapper",
-    "link": "https://jobs.lever.co/Hivemapper/69b4f681-d6d5-4ebb-b059-fee83971ea80?lever-source%5B%5D=jobs.panteracapital.com",
-    "date": "2026-03-27T00:27:23.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "https://jobs.ashbyhq.com/nexus.xyz/510ddf6d-4a55-449d-9a70-1e7297bba943?utm_source=jobs.panteracapital.com",
-    "title": "Backend Engineer (Contract - LATAM)",
-    "company": "Nexus",
-    "link": "https://jobs.ashbyhq.com/nexus.xyz/510ddf6d-4a55-449d-9a70-1e7297bba943?utm_source=jobs.panteracapital.com",
-    "date": "2026-03-27T00:12:23.000Z",
-    "source": "Jobs at Pantera Capital Companies | Pantera Capital"
-  },
-  {
-    "id": "8482326002",
-    "title": "Senior Software Engineer - Post Trade",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8482326002",
-    "date": "2026-03-26T19:44:29-04:00",
-    "source": "Greenhouse: BitGo"
-  },
-  {
-    "id": "8482302002",
-    "title": "Digital Technology Admin",
-    "company": "BitGo",
-    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8482302002",
-    "date": "2026-03-26T19:15:30-04:00",
-    "source": "Greenhouse: BitGo"
-  },
-  {
-    "id": "4829946",
-    "title": "Software Engineer - Infrastructure",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/4829946?t=gh_src=&gh_jid=4829946",
-    "date": "2026-03-26T19:12:18-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "4829946",
-    "title": "Software Developer, Infrastructure",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/4829946?t=gh_src=&gh_jid=4829946",
-    "date": "2026-03-26T19:12:18-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7671221003",
-    "title": "Head of Strategic Institutions",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7671221003",
-    "date": "2026-03-26T18:54:09-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "7760212",
-    "title": "Technical Program Manager II",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7760212?gh_jid=7760212",
-    "date": "2026-03-26T18:52:32-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "6889390",
-    "title": "Senior Software Developer, Infrastructure",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/6889390?t=gh_src=&gh_jid=6889390",
-    "date": "2026-03-26T18:37:17-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7681001003",
-    "title": "Associate General Counsel, LATAM",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7681001003",
-    "date": "2026-03-26T16:24:08-04:00",
-    "source": "Greenhouse: OKX"
-  },
-  {
-    "id": "8457003002",
-    "title": "Senior Account Manager",
-    "company": "Paradigm",
-    "link": "https://job-boards.greenhouse.io/paradigm/jobs/8457003002",
-    "date": "2026-03-26T16:14:20-04:00",
-    "source": "Greenhouse: Paradigm"
   }
 ]
