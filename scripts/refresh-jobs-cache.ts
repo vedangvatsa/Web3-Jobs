@@ -219,6 +219,12 @@ async function refreshJobsCache() {
     { board: 'rampnetwork', company: 'Ramp Network' },
     // --- Apr 2026 expansion (wave 3) ---
     { board: 'orderly', company: 'Orderly Network' },
+    // --- Apr 2026 expansion (wave 4) ---
+    { board: 'bitpanda', company: 'Bitpanda' },
+    { board: 'bitso', company: 'Bitso' },
+    { board: 'woo', company: 'WOO Network' },
+    { board: 'shakepay', company: 'Shakepay' },
+    { board: 'polychaincapital', company: 'Polychain Capital' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -296,6 +302,8 @@ async function refreshJobsCache() {
     // --- Apr 2026 expansion (wave 3) ---
     { board: 'binance', company: 'Binance' },
     { board: 'bigtime', company: 'Big Time' },
+    // --- Apr 2026 expansion (wave 4) ---
+    { board: 'newton', company: 'Newton' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -409,6 +417,12 @@ async function refreshJobsCache() {
     // --- Apr 2026 expansion (wave 3) ---
     { board: 'seifoundation', company: 'Sei' },
     { board: 'artemis', company: 'Artemis' },
+    // --- Apr 2026 expansion (wave 4) ---
+    { board: 'trust-wallet', company: 'Trust Wallet' },
+    { board: 'bitvavo', company: 'Bitvavo' },
+    { board: 'delphi', company: 'Delphi Digital' },
+    { board: 'variant-fund', company: 'Variant Fund' },
+    { board: 'flipsidecrypto', company: 'Flipside Crypto' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
