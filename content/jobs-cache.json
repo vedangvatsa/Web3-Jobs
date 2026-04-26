@@ -80,6 +80,30 @@
     "source": "Jobs | Multicoin Capital Job Board"
   },
   {
+    "id": "https://www.fireblocks.com/careers/position/4601513006?gh_jid=4601513006",
+    "title": "Senior Blockchain Engineer",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position/4601513006?gh_jid=4601513006",
+    "date": "2026-04-26T00:50:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.zipline.com/careers?gh_jid=6567306003",
+    "title": "Senior Manufacturing Engineer",
+    "company": "Zipline",
+    "link": "https://www.zipline.com/careers?gh_jid=6567306003",
+    "date": "2026-04-26T00:35:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://www.zipline.com/careers?gh_jid=6684275003",
+    "title": "Fleet Commander (RPIC)",
+    "company": "Zipline",
+    "link": "https://www.zipline.com/careers?gh_jid=6684275003",
+    "date": "2026-04-26T00:20:01.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "https://jobs.ashbyhq.com/alchemy/8cf4441a-866a-4a1b-82b9-4df6901c703c?utm_source=jobs.panteracapital.com",
     "title": "Senior Brand Designer",
     "company": "Alchemy",
@@ -646,6 +670,14 @@
     "link": "https://jobs.ashbyhq.com/Nascent/50c25f13-72fc-4209-8297-662989aa6700",
     "date": "2026-04-23T21:49:59.909+00:00",
     "source": "Ashby: Nascent"
+  },
+  {
+    "id": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
+    "title": "Quantitative Researcher - PhD Graduate (US)",
+    "company": "Citadel Securities",
+    "link": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
+    "date": "2026-04-23T21:37:47.000Z",
+    "source": "Jobs | Paradigm Job Board"
   },
   {
     "id": "https://www.citadelsecurities.com/careers/details/recruiting-coordinator-contract/",
@@ -1358,6 +1390,14 @@
     "link": "https://www.revolut.com/en-US/careers/position/a7279a71-84aa-48a0-afae-b8b2c1438068/",
     "date": "2026-04-22T09:49:25.000Z",
     "source": "Jobs | Paradigm Job Board"
+  },
+  {
+    "id": "https://jobs.lever.co/binance/5a34d855-b30f-4ff1-995e-bc8cae82d300",
+    "title": "Web3 Security Specialist",
+    "company": "Binance",
+    "link": "https://jobs.lever.co/binance/5a34d855-b30f-4ff1-995e-bc8cae82d300",
+    "date": "2026-04-22T08:54:46.000Z",
+    "source": "Binance"
   },
   {
     "id": "https://jobs.lever.co/binance/1897d27e-c473-40ee-90b8-a3e5bfeeb68f",
@@ -12261,14 +12301,6 @@
     "company": "Binance",
     "link": "https://jobs.lever.co/binance/5f24d776-f02d-4300-a499-d877cac41f5e",
     "date": "2026-03-27T06:07:03.000Z",
-    "source": "Binance"
-  },
-  {
-    "id": "https://jobs.lever.co/binance/5a34d855-b30f-4ff1-995e-bc8cae82d300",
-    "title": "Web3 Security Specialist",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/5a34d855-b30f-4ff1-995e-bc8cae82d300",
-    "date": "2026-03-27T05:55:50.000Z",
     "source": "Binance"
   }
 ]
