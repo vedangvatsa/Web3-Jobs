@@ -602,7 +602,7 @@ async function main() {
   }
 }
 async function scheduleToBuffer(token: string, orgId: string) {
-  const baseUrl = 'https://raw.githubusercontent.com/vedangvatsa123/Web3-Jobs/main/';
+  const baseUrl = 'https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/main/';
   const graphqlUrl = 'https://api.buffer.com/graphql';
 
   const query = `
