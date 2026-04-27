@@ -70,15 +70,15 @@ Regularly track your progress to evaluate the effectiveness of your strategies. 
 
 | Name  | Role                  | Initial Challenge             | Strategy Implemented                              | Outcome                                |
 |-------|-----------------------|--------------------------------|--------------------------------------------------|----------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with task delegation | Adopted a MAS approach for project management    | Improved team efficiency by 30%       |
-| Juan  | Product Manager in DeFi | Difficulty analyzing market data | Deployed specialized agents for market analysis  | Increased trade accuracy by 25%       |
-| Maya  | Transitioning to Web3   | Adapting to new environment   | Employed collaborative tools and practices       | Successfully onboarded within 2 months |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with task delegation | Adopted a MAS approach for project management    | Improved team efficiency significantly  |
+| Juan  | Product Manager in DeFi | Difficulty analyzing market data | Deployed specialized agents for market analysis  | Increased trade accuracy significantly  |
+| Maya  | Transitioning to Web3   | Adapting to new environment   | Employed collaborative tools and practices       | Successfully onboarded within a short timeframe |
 
-1. **Sarah**: A developer at a blockchain startup, Sarah faced challenges in task delegation and project management. By implementing a multi-agent system approach, she streamlined workflows and improved team efficiency by 30% within a quarter.
+1. **Sarah**: A developer at a blockchain startup, Sarah faced challenges in task delegation and project management. By implementing a multi-agent system approach, she streamlined workflows and improved team efficiency significantly within a quarter.
 
-2. **Juan**: As a product manager in the DeFi space, Juan struggled with data analysis for trading strategies. By deploying specialized agents focused on different aspects of market analysis, he increased trade accuracy by 25%, enhancing overall performance.
+2. **Juan**: As a product manager in the DeFi space, Juan struggled with data analysis for trading strategies. By deploying specialized agents focused on different aspects of market analysis, he increased trade accuracy significantly, enhancing overall performance.
 
-3. **Maya**: Transitioning from Web2 to Web3, Maya faced the challenge of adapting to a new work environment. She utilized collaborative tools and practices tailored for multi-agent systems, successfully onboarding into her new role within two months.
+3. **Maya**: Transitioning from Web2 to Web3, Maya faced the challenge of adapting to a new work environment. She utilized collaborative tools and practices tailored for multi-agent systems, successfully onboarding into her new role within a short timeframe.
 
 ### Common Mistakes to Avoid
 
@@ -95,7 +95,7 @@ Regularly track your progress to evaluate the effectiveness of your strategies. 
 ### FAQ
 
 **Q: How long will it take to implement a multi-agent approach?**  
-A: Many individuals notice initial results within 2 to 4 weeks of consistent practice. Significant improvements typically become evident within 8 to 12 weeks. The exact timeline depends on your starting point, daily commitment, and willingness to seek feedback. Professionals who actively track their progress often advance faster than those who do not.
+A: Many individuals notice initial results within a few weeks of consistent practice. Significant improvements typically become evident within a couple of months. The exact timeline depends on your starting point, daily commitment, and willingness to seek feedback. Professionals who actively track their progress often advance faster than those who do not.
 
 **Q: What if my workplace environment doesn't support this change?**  
 A: In challenging environments, you often have more agency than you think. Start with small, self-contained actions that require minimal organizational buy-in. Focus on individual habits or personal projects that align with your goals. Gradually build momentum, documenting your progress and outcomes. If, after sustained effort, you find that the environment remains unsupportive, consider seeking a workplace that values professional development.

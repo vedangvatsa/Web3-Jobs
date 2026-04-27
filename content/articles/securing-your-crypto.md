@@ -94,7 +94,7 @@ For significant holdings, cold storage is worth the inconvenience.
 
 This is very secure. An attacker would need physical access to your hardware wallet to steal your assets. Even if your computer is compromised, your assets are safe because the private key is on the hardware wallet.
 
-Hardware wallets cost $50-$150. For holdings over $10,000, the cost is easily justified.
+Hardware wallets typically range in price. For holdings over a certain amount, the cost is easily justified.
 
 **Paper wallets** involve printing your private key or seed phrase on paper. You then store the paper in a safe place. This is extremely secure if done correctly but is inconvenient to use.
 
@@ -126,7 +126,7 @@ Here are security best practices to follow consistently.
 
 **Use 2FA**: Enable two-factor authentication everywhere it's available. Use an authenticator app (like Authy) rather than SMS for critical accounts.
 
-**Insurance options**: Platforms like Gemini and Coinbase offer some FDIC or similar protection. If security is your priority, storing assets on a regulated exchange might be worth the counterparty risk.
+**Insurance options**: Some platforms offer protection for assets. If security is your priority, storing assets on a regulated exchange might be worth the counterparty risk.
 
 ## Common Mistakes to Avoid
 
@@ -152,7 +152,7 @@ If you suspect your private key or account has been compromised:
 
 **Document everything**: Take screenshots of transactions, messages, anything that shows the compromise.
 
-**Report to authorities**: File a report with relevant authorities (FBI in the US, local police elsewhere). This helps track scammers.
+**Report to authorities**: File a report with relevant authorities. This helps track scammers.
 
 **Report to the platform**: If using an exchange, report compromised account immediately.
 
@@ -162,19 +162,19 @@ Unfortunately, there's usually no way to recover stolen cryptocurrency. It's typ
 
 ## Security for Different Scenarios
 
-**Casual holder** ($100-$1,000): Use a reputable hot wallet (MetaMask), strong password, enable 2FA, don't approve unnecessary smart contracts. Keep backup of seed phrase.
+**Casual holder**: Use a reputable hot wallet (MetaMask), strong password, enable 2FA, don't approve unnecessary smart contracts. Keep backup of seed phrase.
 
-**Active trader** ($1,000-$10,000): Multiple wallets for different purposes. Hot wallet for frequent trading, cold storage for holdings. Use 2FA. Regular smart contract approvals cleanup.
+**Active trader**: Multiple wallets for different purposes. Hot wallet for frequent trading, cold storage for holdings. Use 2FA. Regular smart contract approvals cleanup.
 
-**Serious investor** ($10,000+): Hardware wallet for most holdings. Multi-signature setup for maximum security. Only interact with audited smart contracts. Keep assets on secure platforms or hardware wallets.
+**Serious investor**: Hardware wallet for most holdings. Multi-signature setup for maximum security. Only interact with audited smart contracts. Keep assets on secure platforms or hardware wallets.
 
-**Institutional holdings** ($100,000+): Professional custody solutions, multi-signature, insurance, regular security audits, separate infrastructure, professional security team involvement.
+**Institutional holdings**: Professional custody solutions, multi-signature, insurance, regular security audits, separate infrastructure, professional security team involvement.
 
 ## The Bottom Line
 
 In Web3, security is your responsibility. You can't rely on a bank to protect you. You're in control, which is powerful, but requires vigilance.
 
-Following basic security practices (strong passwords, seed phrase backups, 2FA, careful with approvals, not falling for phishing) protects against 99% of attacks. More sophisticated attacks require more sophisticated defenses, but most people never face them.
+Following basic security practices (strong passwords, seed phrase backups, 2FA, careful with approvals, not falling for phishing) protects against most attacks. More sophisticated attacks require more sophisticated defenses, but most people never face them.
 
 Make security a habit. Check URLs before clicking. Verify addresses before sending. Keep backups safe. Use 2FA. Don't fall for social engineering. These practices take a few minutes but protect your assets from most attackers.
 

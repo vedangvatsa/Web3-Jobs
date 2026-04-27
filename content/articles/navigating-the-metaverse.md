@@ -103,10 +103,10 @@ Keep track of your progress. Are you achieving desired results? Modify your appr
 ## Real-World Examples
 
 ### Example 1
-Sarah, a developer at a blockchain startup, faced challenges in collaboration until she implemented these strategies. Within three months, she observed significant improvements in project delivery timelines.
+Sarah, a developer at a blockchain startup, faced challenges in collaboration until she implemented these strategies. Within three months, she observed improvements in project delivery timelines.
 
 ### Example 2
-Juan, a product manager in DeFi, encountered obstacles with team communication. By applying these methods, he achieved a 30% increase in project efficiency, showcasing the universal applicability of these principles.
+Juan, a product manager in DeFi, encountered obstacles with team communication. By applying these methods, he achieved an increase in project efficiency, showcasing the universal applicability of these principles.
 
 ### Example 3
 Maya, transitioning from Web2 to Web3, employed this approach to adapt quickly. Her success in integrating into her new role illustrates that these strategies benefit professionals across various backgrounds.
@@ -126,13 +126,13 @@ Maya, transitioning from Web2 to Web3, employed this approach to adapt quickly. 
 ## FAQ
 
 **Q: How long will it take to implement these strategies?**  
-A: Most individuals notice initial results within two to four weeks of consistent application. Significant improvements typically manifest within eight to twelve weeks. The timeline varies based on your starting point, daily practice commitment, and feedback-seeking efforts. Professionals who actively track progress generally advance faster than those who rely solely on passive observation.
+A: Most individuals notice initial results within a few weeks of consistent application. Significant improvements typically manifest within a couple of months. The timeline varies based on your starting point, daily practice commitment, and feedback-seeking efforts. Professionals who actively track progress generally advance faster than those who rely solely on passive observation.
 
 **Q: What if my workplace does not support these changes?**  
 A: You often have more agency than it seems, even in challenging environments. Start with small, self-contained actions that do not require organizational approval, such as individual habits or personal projects. Document your progress and results. If the environment still obstructs your development after sustained effort, consider seeking an organization that values employee growth.
 
 **Q: How does this specifically relate to Web3?**  
-A: Web3 organizations differ structurally from traditional firms, amplifying the importance of these skills. Hierarchies are flatter, granting direct access to decision-makers while increasing self-direction responsibility. Teams often work remotely and globally, making written communication and asynchronous collaboration more critical than in-office dynamics. The pace is faster; product cycles that take quarters in Web2 can occur within weeks in Web3 startups. Adapting to this environment is essential for professional success.
+A: Web3 organizations differ structurally from traditional firms, amplifying the importance of these skills. Hierarchies are flatter, granting direct access to decision-makers while increasing self-direction responsibility. Teams often work remotely and globally, making written communication and asynchronous collaboration more critical than in-office dynamics. The pace is faster; product cycles that take longer in Web2 can occur within weeks in Web3 startups. Adapting to this environment is essential for professional success.
 
 **Q: Can I implement this alongside my current role?**  
 A: Yes. This approach is advisable for most professionals. You rarely need extra hours; focus on intentionality within your existing time. Identify two or three practices applicable to your daily work and concentrate on them consistently. The cumulative effect of small, deliberate improvements typically surpasses sporadic large efforts.

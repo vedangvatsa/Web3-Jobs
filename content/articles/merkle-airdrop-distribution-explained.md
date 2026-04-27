@@ -16,7 +16,7 @@ The industry-standard solution for this issue is the **Merkle airdrop**, a gas-e
 
 ### The Problem with Naive Airdrops
 
-Consider the scenario of airdropping tokens to 100,000 eligible addresses. A straightforward approach might involve creating a [smart contract](/what-are-smart-contracts) that loops through each address, calling the `transfer` function for each recipient.
+Consider the scenario of airdropping tokens to a large number of eligible addresses. A straightforward approach might involve creating a [smart contract](/what-are-smart-contracts) that loops through each address, calling the `transfer` function for each recipient.
 
 ```solidity
 // Inefficient and will fail
@@ -27,11 +27,11 @@ function airdrop(address[] calldata recipients, uint256[] calldata amounts) exte
 }
 ```
 
-This method fails due to gas limits. Executing the loop for 100,000 addresses would exceed the block gas limit, resulting in a transaction failure.
+This method fails due to gas limits. Executing the loop for a large number of addresses would exceed the block gas limit, resulting in a transaction failure.
 
 ### The Merkle Tree Solution: A Pull-Based Approach
 
-A Merkle airdrop utilizes a "pull" mechanism rather than a "push" one. Instead of the contract distributing tokens to everyone, eligible users must come to the contract to "pull" or claim their tokens. The Merkle tree facilitates the contract's verification of a user's eligibility without requiring the entire list of 100,000 addresses.
+A Merkle airdrop utilizes a "pull" mechanism rather than a "push" one. Instead of the contract distributing tokens to everyone, eligible users must come to the contract to "pull" or claim their tokens. The Merkle tree facilitates the contract's verification of a user's eligibility without requiring the entire list of addresses.
 
 **The Process:**
 
@@ -90,8 +90,8 @@ The smart contract does not need the entire list of addresses. It only checks if
 
 ### Why It's So Efficient
 
-- **Minimal On-Chain Storage:** Only a single 32-byte hash is stored, regardless of whether there are 100 or 10 million eligible users.
-- **Shifts Gas Costs to Users:** The gas costs associated with claiming tokens fall on the individual users rather than the project, which avoids the expense of processing 100,000 separate transactions.
+- **Minimal On-Chain Storage:** Only a single 32-byte hash is stored, regardless of whether there are many eligible users.
+- **Shifts Gas Costs to Users:** The gas costs associated with claiming tokens fall on the individual users rather than the project, which avoids the expense of processing numerous separate transactions.
 
 The Merkle airdrop represents an intelligent cryptographic pattern essential for projects aiming for large-scale and gas-efficient token distribution on the [blockchain](/what-is-a-blockchain).
 
@@ -125,15 +125,15 @@ Continuously monitor your progress. Are you achieving your goals? Adjust your st
 
 ### Case Study 1: Sarah's Success in Blockchain Development
 
-Sarah, a developer at a blockchain startup, struggled with token distribution inefficiencies. After implementing a Merkle airdrop strategy, she streamlined the process, resulting in a 75% reduction in gas costs and successfully distributing tokens to over 150,000 users within three weeks.
+Sarah, a developer at a blockchain startup, struggled with token distribution inefficiencies. After implementing a Merkle airdrop strategy, she streamlined the process, resulting in a significant reduction in gas costs and successfully distributing tokens to a large number of users within a few weeks.
 
 ### Case Study 2: Juan's Achievement in Decentralized Finance (DeFi)
 
-Juan, a product manager in [DeFi](/what-is-defi), faced challenges with user engagement during a token launch. By adopting the Merkle airdrop method, he effectively engaged 100,000 users, increasing participation by 40%. His results underscored the effectiveness of the Merkle approach in driving user interaction.
+Juan, a product manager in [DeFi](/what-is-defi), faced challenges with user engagement during a token launch. By adopting the Merkle airdrop method, he effectively engaged a large number of users, increasing participation significantly. His results underscored the effectiveness of the Merkle approach in driving user interaction.
 
 ### Case Study 3: Maya's Transition from Web2 to Web3
 
-Maya shifted from a Web2 environment to a Web3 role. She quickly adapted by utilizing the Merkle airdrop method for her new project, facilitating token distribution to 50,000 users. This experience demonstrated that understanding efficient distribution mechanisms can lead to success, regardless of previous experience.
+Maya shifted from a Web2 environment to a Web3 role. She quickly adapted by utilizing the Merkle airdrop method for her new project, facilitating token distribution to a substantial number of users. This experience demonstrated that understanding efficient distribution mechanisms can lead to success, regardless of previous experience.
 
 ## Common Mistakes to Avoid
 
@@ -150,7 +150,7 @@ Maya shifted from a Web2 environment to a Web3 role. She quickly adapted by util
 ## FAQ
 
 **Q: How long will implementing a Merkle airdrop take?**
-A: Most projects see initial results within 4–6 weeks after adopting the Merkle airdrop strategy. Significant improvements often manifest within 8–12 weeks. The timeline depends on factors such as project scale and the team's experience with implementing blockchain solutions.
+A: Most projects see initial results within a few weeks after adopting the Merkle airdrop strategy. Significant improvements often manifest within a few months. The timeline depends on factors such as project scale and the team's experience with implementing blockchain solutions.
 
 **Q: What if my workplace environment lacks support for this method?**
 A: Even in challenging environments, you can take initiative. Start with small, independent actions that do not require organizational approval. Building momentum gradually can lead to broader acceptance over time. Documenting your results can provide the evidence needed to garner support.

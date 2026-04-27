@@ -65,7 +65,7 @@ These questions help you grasp the broader company vision, its values, and the w
 
 14. **How does the company foster transparency and handle feedback?** Look for specific practices, such as all-hands meetings, employee surveys, or open-door policies that signal a commitment to communication.
 
-15. **Where do you envision the company in five years?** This question evaluates the leadership's long-term vision and ambition.
+15. **Where do you envision the company in the next few years?** This question evaluates the leadership's long-term vision and ambition.
 
 ## Questions About Performance and Growth
 
@@ -145,7 +145,7 @@ Monitor your progress. Are you achieving results? Adjust your strategy based on 
 
 | Name  | Role                  | Initial Challenge                               | Outcome                                    |
 |-------|-----------------------|------------------------------------------------|--------------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project deadlines                | Improved time management within 3 months  |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project deadlines                | Improved time management within a few months  |
 | Juan  | Product Manager in [DeFi](/what-is-defi) | Faced challenges in aligning team goals        | Successfully increased team productivity    |
 | Maya  | Transitioning to Web3 | Difficulty adapting to remote work dynamics    | Quickly integrated into the new environment |
 

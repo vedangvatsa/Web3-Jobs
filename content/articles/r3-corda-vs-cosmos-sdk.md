@@ -32,7 +32,7 @@ The Cosmos SDK is an open-source framework, developed in Go, that allows for the
 
 The SDK abstracts the networking and consensus layers. By default, it utilizes **Tendermint BFT** (now known as CometBFT), a Byzantine Fault Tolerant consensus engine that provides instant finality and high throughput. Developers interact with the chain through the ABCI (Application BlockChain Interface), allowing them to define custom modules that manage state transitions.
 
-The standout feature of the Cosmos ecosystem is IBC. This protocol enables tokens, data, and arbitrary messages to move trustlessly between IBC-enabled chains. Unlike traditional bridges, IBC functions as a standardized protocol, similar to TCP/IP, and has processed hundreds of billions of dollars in cross-chain transfers without experiencing protocol-level exploits.
+The standout feature of the Cosmos ecosystem is IBC. This protocol enables tokens, data, and arbitrary messages to move trustlessly between IBC-enabled chains. Unlike traditional bridges, IBC functions as a standardized protocol, similar to TCP/IP, and has processed significant volume in cross-chain transfers without experiencing protocol-level exploits.
 
 Numerous production chains have been built using Cosmos SDK. Binance Chain (now BNB Chain) utilized an early fork of the SDK. The flagship chain, Cosmos Hub, is well-known, while Terra (prior to its collapse) and Osmosis, the largest decentralized exchange (DEX) in the ecosystem, demonstrate the SDK's capabilities. dYdX v4 migrated its entire derivatives exchange to a custom Cosmos SDK chain, achieving the necessary performance and control. Other recent examples include Celestia, Injective, and Sei.
 
@@ -45,7 +45,7 @@ Cosmos SDK can also be configured as a permissioned enterprise chain by limiting
 | **Privacy model**             | Point-to-point; only transaction parties see data     | Public by default; privacy requires add-ons or permissioned deployment |
 | **Consensus**                 | Notary services (pluggable; BFT or CFT options)       | Tendermint BFT (CometBFT); instant finality      |
 | **Programming language**      | Kotlin / Java (JVM)                                    | Go (chain logic); any language for clients       |
-| **Transaction throughput**     | ~170 TPS (open source); higher with Corda Enterprise   | 1,000–10,000+ TPS depending on configuration      |
+| **Transaction throughput**     | Varies by configuration; higher with Corda Enterprise   | Varies depending on configuration      |
 | **Permissioning**             | Permissioned by design; identity via X.509 certificates| Flexible; permissioned or public validator set    |
 | **Interoperability**          | Limited; Corda Network and bilateral integrations       | Native IBC protocol; broad cross-chain messaging  |
 | **Smart contract model**      | CorDapps (states + contracts + flows); legal prose support | SDK modules + optional CosmWasm smart contracts   |
@@ -94,12 +94,12 @@ In contrast, **Cosmos SDK** provides a more approachable experience for develope
 - **HQLAx**: Facilitates securities lending by connecting Deutsche Börse with major custodians.
 - **SWIFT**: Conducted a proof-of-concept for cross-border payments using Corda.
 
-These implementations are not mere pilots; many handle billions of dollars in notional value annually.
+These implementations are not mere pilots; many handle significant value annually.
 
 **Cosmos SDK's production applications** encompass:
 
 - **dYdX v4**: Manages perpetual trading at volumes comparable to major centralized exchanges.
-- **Osmosis DEX**: Facilitated over $20 billion in cumulative swap volume.
+- **Osmosis DEX**: Facilitated significant cumulative swap volume.
 - **Injective Protocol**: Operates a fully on-chain order book for derivatives.
 - **Celestia**: Innovates in modular blockchain data availability.
 

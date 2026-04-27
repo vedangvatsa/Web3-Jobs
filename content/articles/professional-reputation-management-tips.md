@@ -102,13 +102,13 @@ Track your progress over time. Are you seeing the desired results? Adjust your a
 ## Real-World Examples
 
 ### Example 1
-Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she faced challenges in project management and team collaboration. By implementing structured communication techniques and actively seeking feedback, she improved her project delivery times by 40% within three months.
+Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she faced challenges in project management and team collaboration. By implementing structured communication techniques and actively seeking feedback, she improved her project delivery times significantly within three months.
 
 ### Example 2
-Juan, a product manager in DeFi, struggled with stakeholder engagement. After adopting a strategy of regular updates and feedback sessions, he enhanced team collaboration, leading to a 30% increase in product feature adoption rates over a quarter.
+Juan, a product manager in DeFi, struggled with stakeholder engagement. After adopting a strategy of regular updates and feedback sessions, he enhanced team collaboration, leading to a notable increase in product feature adoption rates over a quarter.
 
 ### Example 3
-Maya transitioned from Web2 to Web3 and faced a steep learning curve. By applying reputation management strategies, she quickly adapted, resulting in her promotion to lead developer within six months.
+Maya transitioned from Web2 to Web3 and faced a steep learning curve. By applying reputation management strategies, she quickly adapted, resulting in her promotion to lead developer within a short timeframe.
 
 ## Common Mistakes to Avoid
 
