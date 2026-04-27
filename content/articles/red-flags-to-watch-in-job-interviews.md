@@ -104,11 +104,11 @@ Monitor your progress and outcomes. Are you experiencing desired changes? Adjust
 
 ### Example 1
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with team dynamics until she implemented strategies to improve communication and collaboration. Within three months, her team saw a 30% increase in productivity and a marked improvement in project delivery timelines.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with team dynamics until she implemented strategies to improve communication and collaboration. Within a few months, her team saw a notable increase in productivity and a marked improvement in project delivery timelines.
 
 ### Example 2
 
-Juan, a product manager in [DeFi](/what-is-defi), struggled with unclear expectations from leadership. By applying structured feedback mechanisms and establishing clearer goals, he was able to lead his team to successfully launch a product in half the expected time. His experience illustrates the effectiveness of these principles.
+Juan, a product manager in [DeFi](/what-is-defi), struggled with unclear expectations from leadership. By applying structured feedback mechanisms and establishing clearer goals, he was able to lead his team to successfully launch a product in a shorter timeframe than expected. His experience illustrates the effectiveness of these principles.
 
 ### Example 3
 
@@ -129,7 +129,7 @@ Maya transitioned from Web2 to Web3 and utilized these strategies to adapt quick
 ## FAQ
 
 **Q: How long will this take to implement?**
-A: Most individuals see initial results within 2 to 4 weeks of consistent application. Significant and measurable improvements typically manifest within 8 to 12 weeks. The timeline varies based on your starting point, daily commitment, and willingness to seek feedback. Professionals who actively track their progress tend to see quicker advancements.
+A: Most individuals see initial results within a few weeks of consistent application. Significant and measurable improvements typically manifest within a couple of months. The timeline varies based on your starting point, daily commitment, and willingness to seek feedback. Professionals who actively track their progress tend to see quicker advancements.
 
 **Q: What if my workplace environment doesn't support this?**
 A: Even challenging environments often allow for individual agency. Start with small, self-contained actions that don't require organizational approval. Build momentum gradually while documenting your progress. If obstacles persist despite your efforts, it may indicate that seeking a more supportive environment is the best course of action.

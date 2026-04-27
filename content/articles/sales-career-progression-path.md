@@ -106,11 +106,11 @@ Regularly monitor your progress. Are you achieving the desired results? Adjust y
 
 ### Example 1: Sarah's Transformation
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with lead generation. By implementing structured outreach strategies, she improved her lead conversion rate by 30% within three months, demonstrating the effectiveness of targeted prospecting.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with lead generation. By implementing structured outreach strategies, she improved her lead conversion rate significantly within three months, demonstrating the effectiveness of targeted prospecting.
 
 ### Example 2: Juan's Success in DeFi
 
-Juan, a product manager in [DeFi](/what-is-defi), faced challenges in managing client negotiations. By applying consultative selling techniques, he secured a major contract that increased his team’s revenue by 25%. His experience illustrates the significance of adaptive selling strategies.
+Juan, a product manager in [DeFi](/what-is-defi), faced challenges in managing client negotiations. By applying consultative selling techniques, he secured a major contract that increased his team’s revenue significantly. His experience illustrates the significance of adaptive selling strategies.
 
 ### Example 3: Maya's Transition to Web3
 
@@ -131,7 +131,7 @@ Maya, transitioning from Web2 to Web3, quickly adapted to her new role by levera
 ## FAQ
 
 **Q: How long will it take to see results from these strategies?**  
-A: Most professionals observe initial improvements within 2–4 weeks of consistent application. Significant results typically emerge within 8–12 weeks. The timeline varies based on your baseline, daily practice commitment, and openness to feedback. Professionals who actively track their progress through metrics or peer feedback tend to progress faster.
+A: Most professionals observe initial improvements within a few weeks of consistent application. Significant results typically emerge within a few months. The timeline varies based on your baseline, daily practice commitment, and openness to feedback. Professionals who actively track their progress through metrics or peer feedback tend to progress faster.
 
 **Q: What should I do if my workplace environment is unsupportive?**  
 A: Even in challenging environments, you often have more agency than you realize. Start with small, manageable actions that require little organizational buy-in, such as personal projects or internal discussions. Build momentum gradually, documenting your progress and results. If the environment ultimately hinders your development, it might be time to explore opportunities that better align with your career goals.

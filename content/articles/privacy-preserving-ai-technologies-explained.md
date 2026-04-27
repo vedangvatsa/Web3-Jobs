@@ -52,8 +52,8 @@ The evolution of AI necessitates a design that respects and protects user privac
 
 | Technology            | Description                                                    | Use Cases                                          | Current Adoption                |
 |----------------------|---------------------------------------------------------------|---------------------------------------------------|----------------------------------|
-| Federated Learning    | Trains models locally on devices without sharing raw data     | Smartphone keyboards, predictive text, healthcare | Used by Google, Apple, and more |
-| Differential Privacy  | Adds noise to data to protect individual contributions         | U.S. Census Bureau, Apple’s data collection       | Widely implemented in various sectors |
+| Federated Learning    | Trains models locally on devices without sharing raw data     | Smartphone keyboards, predictive text, healthcare | Used by various companies        |
+| Differential Privacy  | Adds noise to data to protect individual contributions         | U.S. Census Bureau, various data collection efforts | Widely implemented in various sectors |
 | Homomorphic Encryption | Allows calculations on encrypted data without decryption     | Secure financial transactions, private data analysis | Emerging in specialized applications |
 
 ### Frequently Asked Questions (FAQs)
@@ -62,7 +62,7 @@ The evolution of AI necessitates a design that respects and protects user privac
 Each technology addresses different privacy concerns. Federated Learning safeguards data by keeping it local. Differential Privacy ensures individuals remain statistically indistinguishable within datasets. Homomorphic Encryption secures data during processing. The most effective strategy often involves integrating these technologies.
 
 **2. Are these technologies commonly implemented today?**  
-Yes, Federated Learning is actively employed by companies such as Google and Apple to enhance smartphone AI models. Differential Privacy is utilized by the U.S. Census Bureau to publish statistics while protecting individual identities, and by Apple for privacy-conscious data collection. Homomorphic Encryption is still primarily in research, but it is beginning to find use in specialized scenarios.
+Yes, Federated Learning is actively employed by various companies to enhance smartphone AI models. Differential Privacy is utilized by the U.S. Census Bureau to publish statistics while protecting individual identities, and by companies for privacy-conscious data collection. Homomorphic Encryption is still primarily in research, but it is beginning to find use in specialized scenarios.
 
 **3. Does data anonymization effectively protect privacy?**  
 Data anonymization, which typically removes personally identifiable information, has proven to be largely ineffective. Studies have shown that individuals can often be re-identified in anonymized datasets through cross-referencing with public information. This reality underscores the shift towards more robust techniques like Differential Privacy.
@@ -90,9 +90,9 @@ Regularly monitor your progress and evaluate results. Be prepared to modify your
 
 ### Real-World Applications
 
-**Example 1:** Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges integrating AI while maintaining user privacy. After implementing Federated Learning and Differential Privacy, she improved user trust and saw a 30% increase in user engagement within three months.
+**Example 1:** Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges integrating AI while maintaining user privacy. After implementing Federated Learning and Differential Privacy, she improved user trust and saw an increase in user engagement within three months.
 
-**Example 2:** Juan, a product manager in [DeFi](/what-is-defi), encountered difficulties ensuring data privacy while analyzing user behavior. By utilizing Differential Privacy, he successfully anonymized data, leading to a 25% increase in customer satisfaction and retention.
+**Example 2:** Juan, a product manager in [DeFi](/what-is-defi), encountered difficulties ensuring data privacy while analyzing user behavior. By utilizing Differential Privacy, he successfully anonymized data, leading to an increase in customer satisfaction and retention.
 
 **Example 3:** Maya, transitioning from Web2 to Web3, adopted these privacy technologies to adapt her product management approach. Her success in aligning with privacy standards resulted in her promotion within six months.
 

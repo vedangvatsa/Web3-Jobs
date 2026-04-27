@@ -138,10 +138,10 @@ Monitor your progress. Are you achieving desired results? Adjust your approach b
 ## Real-World Examples
 
 ### Example 1
-Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with virtual meeting engagement. After implementing these strategies, her team's participation rates increased by 40% within three months.
+Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with virtual meeting engagement. After implementing these strategies, her team's participation rates increased significantly within three months.
 
 ### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), faced similar challenges with virtual meetings. By applying these guidelines, he improved meeting efficiency, leading to a 30% faster project completion rate. This showcases the universal applicability of these principles.
+Juan, a product manager in [DeFi](/what-is-defi), faced similar challenges with virtual meetings. By applying these guidelines, he improved meeting efficiency, leading to a faster project completion rate. This showcases the universal applicability of these principles.
 
 ### Example 3
 Maya, transitioning from a Web2 to a Web3 environment, utilized these techniques to adapt quickly. Her success underscores that these strategies work regardless of an individual's background or experience.

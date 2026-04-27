@@ -152,10 +152,10 @@ Monitor your progress diligently. Are you observing results? Adjust your strateg
 ## Real-World Examples
 
 ### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with public speaking until she implemented these strategies. Within three months, she saw a 40% increase in her presentation effectiveness, measured through audience feedback and self-assessment.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with public speaking until she implemented these strategies. Within three months, she saw a notable increase in her presentation effectiveness, measured through audience feedback and self-assessment.
 
 ### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered similar obstacles. By adopting this framework, he successfully improved his influence in meetings, leading to a 25% increase in project approvals. His experience illustrates the universality of these principles.
+Juan, a product manager in [DeFi](/what-is-defi), encountered similar obstacles. By adopting this framework, he successfully improved his influence in meetings, leading to more project approvals. His experience illustrates the universality of these principles.
 
 ### Example 3
 Maya, transitioning from Web2 to Web3, used this approach to adapt quickly. Her success highlights that these strategies apply across various backgrounds and experience levels.
@@ -172,7 +172,7 @@ Maya, transitioning from Web2 to Web3, used this approach to adapt quickly. Her 
 
 **Q: How long will this take to implement?**
 
-A: Most individuals observe initial improvements within 2-4 weeks of consistent practice, with significant advancements noticeable within 8-12 weeks. Variability exists based on your starting point, daily commitment, and proactive feedback-seeking. Professionals who actively track their progress—through metrics or peer reviews—generally progress faster than those relying on passive observation. Treating implementation as a structured initiative yields better results.
+A: Most individuals observe initial improvements within a few weeks of consistent practice, with significant advancements noticeable within a few months. Variability exists based on your starting point, daily commitment, and proactive feedback-seeking. Professionals who actively track their progress—through metrics or peer reviews—generally progress faster than those relying on passive observation. Treating implementation as a structured initiative yields better results.
 
 **Q: What if my workplace environment is unsupportive?**
 
@@ -180,7 +180,7 @@ A: You often have more agency than you realize, even in challenging environments
 
 **Q: How does this apply specifically to Web3?**
 
-A: Web3 organizations differ from traditional companies, amplifying the importance of strong communication skills. With flatter hierarchies, you gain direct access to decision-makers while also bearing more responsibility for self-direction. Remote and globally distributed teams necessitate written communication and asynchronous collaboration. The pace is quicker, with product cycles occurring in weeks rather than quarters. Adapting to this environment is a critical professional skill in the space.
+A: Web3 organizations differ from traditional companies, amplifying the importance of strong communication skills. With flatter hierarchies, you gain direct access to decision-makers while also bearing more responsibility for self-direction. Remote and globally distributed teams necessitate written communication and asynchronous collaboration. The pace is quicker, with product cycles occurring in shorter timeframes. Adapting to this environment is a critical professional skill in the space.
 
 **Q: Can I implement this alongside my current role?**
 

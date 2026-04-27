@@ -10,7 +10,7 @@ lastUpdated: "2026-04-27"
 
 Network School operates as a startup society, merging co-living, coworking, and community on an island near Singapore. This space caters specifically to remote workers, founders, and creators who seek a focused environment with essential infrastructure and peers.
 
-The cost structure includes **$1,500 per month** for a shared room and **$3,000 per month** for a private room. All utilities and services are included in these rates.
+The cost structure includes monthly rates for shared and private rooms, with all utilities and services included.
 
 ## What's Included
 
@@ -40,7 +40,7 @@ Network School addresses several key pain points often faced by remote workers:
 
 2. **All-inclusive infrastructure**: Traditional remote workers often juggle multiple locations for work, gym, and meals. Network School consolidates all these services in one location, minimizing decision fatigue and maximizing productivity.
 
-3. **Cost efficiency**: With prices ranging from $1,500 to $3,000 per month, members obtain accommodation, meals, workspace, and gym access, providing substantial value compared to typical living expenses in tech hubs, where rent alone could exceed these costs.
+3. **Cost efficiency**: With monthly rates for accommodation, meals, workspace, and gym access, members obtain substantial value compared to typical living expenses in tech hubs, where rent alone could exceed these costs.
 
 4. **Seamless onboarding**: New members do not need to establish teams or coordinate with multiple service providers. Everything is integrated, allowing for a smooth transition into the community.
 
@@ -48,14 +48,14 @@ Network School addresses several key pain points often faced by remote workers:
 
 | Room Type        | Monthly Cost         | Commitment          | Approval Time          |
 |------------------|---------------------|---------------------|------------------------|
-| Shared Room      | $1,500              | Month-to-month      | 2-3 weeks              |
-| Private Room     | $3,000              | Month-to-month      | 2-3 weeks              |
+| Shared Room      | Monthly rate        | Month-to-month      | 2-3 weeks              |
+| Private Room     | Monthly rate        | Month-to-month      | 2-3 weeks              |
 
 Network School utilizes a month-to-month commitment model, allowing flexibility. However, longer stays receive priority booking. Approval for membership typically takes 2-3 weeks, as applications undergo a review process to maintain community standards.
 
 ## Location Details
 
-Network School is strategically located on an island off Singapore, providing the perfect balance between accessibility and tranquility. The island is only a 30-minute commute to Singapore’s city center, making it convenient for investor meetings and market access. The lower cost of living on the island, combined with a favorable tax structure for business operations, creates an ideal environment for founders.
+Network School is strategically located on an island off Singapore, providing the perfect balance between accessibility and tranquility. The island is only a short commute to Singapore’s city center, making it convenient for investor meetings and market access. The lower cost of living on the island, combined with a favorable tax structure for business operations, creates an ideal environment for founders.
 
 ## Daily Life at Network School
 

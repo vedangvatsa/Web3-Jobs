@@ -75,7 +75,7 @@ The commonality among these roles is that they extend beyond mere information pr
 
 **Q1: Will AI eventually take over these jobs?**
 
-While it's conceivable that AI could develop more advanced capabilities in the distant future, the roles requiring deep emotional intelligence, creativity, and physical adaptability remain well beyond AI's current reach. For the next 10 to 20 years, these human-centric roles will retain high value.
+While it's conceivable that AI could develop more advanced capabilities in the distant future, the roles requiring deep emotional intelligence, creativity, and physical adaptability remain well beyond AI's current reach. For the next several years, these human-centric roles will retain high value.
 
 **Q2: As a student, what should I study for a secure career?**
 
@@ -113,9 +113,9 @@ Understanding these dynamics is essential for career advancement. Professionals 
 
 ### Real-World Applications
 
-- **Example 1**: Sarah, a developer in a [blockchain](/what-is-a-blockchain) startup, struggled with project deadlines. After applying a structured approach to her workflow, she improved her project completion rate by over 30% in three months.
+- **Example 1**: Sarah, a developer in a [blockchain](/what-is-a-blockchain) startup, struggled with project deadlines. After applying a structured approach to her workflow, she improved her project completion rate significantly in three months.
 
-- **Example 2**: Juan, a product manager in [DeFi](/what-is-defi), faced communication challenges within his team. By implementing regular feedback loops and enhancing his interpersonal skills, he saw a 25% increase in team productivity.
+- **Example 2**: Juan, a product manager in [DeFi](/what-is-defi), faced communication challenges within his team. By implementing regular feedback loops and enhancing his interpersonal skills, he saw a notable increase in team productivity.
 
 - **Example 3**: Maya transitioned from Web2 to Web3 using this framework. Her ability to adapt quickly showcased the relevance of human skills across different environments.
 

@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-Litecoin (LTC) stands as one of the oldest cryptocurrencies, often referred to as the "silver to [Bitcoin](/what-is-bitcoin)'s gold." Charlie Lee created Litecoin in 2011 by modifying the Bitcoin codebase, aiming for faster and cheaper transactions optimized for payments. For years, Litecoin maintained a position within the top 10 cryptocurrency assets, serving as a dependable alternative to Bitcoin. However, in the evolving realm of [Web3](/what-is-web3), developer activity has emerged as a critical metric for a project's long-term viability. Unfortunately, Litecoin's narrative serves as a warning regarding the consequences of declining developer engagement.
+Litecoin (LTC) stands as one of the oldest cryptocurrencies, often referred to as the "silver to [Bitcoin](/what-is-bitcoin)'s gold." Charlie Lee created Litecoin in 2011 by modifying the Bitcoin codebase, aiming for faster and cheaper transactions optimized for payments. For years, Litecoin maintained a position within the top cryptocurrency assets, serving as a dependable alternative to Bitcoin. However, in the evolving realm of [Web3](/what-is-web3), developer activity has emerged as a critical metric for a project's long-term viability. Unfortunately, Litecoin's narrative serves as a warning regarding the consequences of declining developer engagement.
 
 In contrast to vibrant ecosystems like [Ethereum](/what-is-ethereum), Solana, and the expanding Layer 2 space, which showcase continuous innovation, Litecoin has experienced a notable drop in developer activity and core protocol advancements. This stagnation illustrates the challenges faced by blockchain ecosystems that fail to foster a robust community of developers.
 
@@ -34,9 +34,9 @@ Several key metrics illustrate Litecoin's slowdown:
 
 | Metric                      | Litecoin         | Ethereum         |
 |-----------------------------|------------------|------------------|
-| Weekly GitHub Commits       | ~10              | ~600             |
-| Full-Time Developers         | ~5               | ~3000            |
-| Active dApps                | <10              | >3000            |
+| Weekly GitHub Commits       | Significantly fewer than Ethereum | Significantly more than Litecoin |
+| Full-Time Developers         | Few               | Many             |
+| Active dApps                | Very few          | Numerous         |
 
 - **[GitHub](/building-web3-portfolio) Commits:** Litecoin's core repository experiences significantly fewer weekly or monthly code commits compared to more active projects.
 - **Full-Time Developers:** The number of developers working full-time on the Litecoin protocol is minuscule relative to the hundreds involved with Ethereum and other prominent Layer 1 networks.

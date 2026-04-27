@@ -30,7 +30,7 @@ The Associate Product Manager role serves as the entry point into product manage
 
 ### Level 2: Product Manager (PM)
 
-After 1-2 years of experience as an APM, or with relevant experience from another domain, you can progress to the Product Manager position. Here, you take ownership of a specific product or a significant feature area.
+After gaining experience as an APM, or with relevant experience from another domain, you can progress to the Product Manager position. Here, you take ownership of a specific product or a significant feature area.
 
 - **Primary Role:** Manage a product or feature set.
 - **Key Responsibilities:**
@@ -115,7 +115,7 @@ Continuously monitor your progress. Are you achieving the desired outcomes? Adju
 
 | Name   | Role                                 | Challenge                                   | Result                                      |
 |--------|--------------------------------------|--------------------------------------------|---------------------------------------------|
-| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with feature prioritization       | Implemented strategies and improved feature delivery timelines by 30% within 3 months. |
+| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with feature prioritization       | Implemented strategies and improved feature delivery timelines significantly within 3 months. |
 | Juan   | Product Manager in [DeFi](/what-is-defi) | Faced difficulties in cross-team collaboration | Adopted a structured communication approach and successfully launched three major features in under six months. |
 | Maya   | Transitioning from Web2 to Web3      | Needed to adapt quickly to new frameworks   | Utilized targeted learning strategies, achieving proficiency in Web3 tools within two months. |
 
@@ -134,7 +134,7 @@ Continuously monitor your progress. Are you achieving the desired outcomes? Adju
 ## FAQ
 
 **Q: How long will it take to see results from implementing these strategies?**  
-A: Many professionals notice initial results within 2 to 4 weeks of consistent application. Significant improvements often become evident within 8 to 12 weeks. The variance in timelines depends on your starting point, daily practice commitment, and proactive feedback seeking. Individuals who actively track their progress generally advance more quickly.
+A: Many professionals notice initial results within a few weeks of consistent application. Significant improvements often become evident within a couple of months. The variance in timelines depends on your starting point, daily practice commitment, and proactive feedback seeking. Individuals who actively track their progress generally advance more quickly.
 
 **Q: What should I do if my workplace environment doesn't support these practices?**  
 A: Even in challenging environments, you can often find opportunities for agency. Begin with small, self-contained actions that require minimal organizational buy-in, such as personal projects or informal discussions with like-minded colleagues. Document your progress and results to build momentum.

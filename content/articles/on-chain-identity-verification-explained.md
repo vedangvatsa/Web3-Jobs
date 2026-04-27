@@ -96,15 +96,15 @@ Regularly monitor your progress. Assess whether your changes yield results and a
 
 #### Example 1: Sarah the Developer
 
-Sarah works at a blockchain startup and faced challenges with identity verification processes. After implementing on-chain identity strategies, she improved efficiency in her development workflow within three months, leading to a 40% increase in project delivery speed.
+Sarah works at a blockchain startup and faced challenges with identity verification processes. After implementing on-chain identity strategies, she improved efficiency in her development workflow, leading to a notable increase in project delivery speed.
 
 #### Example 2: Juan the Product Manager
 
-Juan, a product manager in DeFi, encountered similar hurdles. By adopting the on-chain identity framework, he streamlined user onboarding, which resulted in a 30% reduction in time spent on KYC processes, enhancing user satisfaction and retention.
+Juan, a product manager in DeFi, encountered similar hurdles. By adopting the on-chain identity framework, he streamlined user onboarding, which resulted in a reduction in time spent on KYC processes, enhancing user satisfaction and retention.
 
 #### Example 3: Maya's Transition to Web3
 
-Maya transitioned from Web2 to Web3 and effectively used on-chain identity verification strategies to adapt. Her successful integration into her new role underscored the effectiveness of her approach, leading to a promotion within six months.
+Maya transitioned from Web2 to Web3 and effectively used on-chain identity verification strategies to adapt. Her successful integration into her new role underscored the effectiveness of her approach, leading to a promotion within a few months.
 
 ### Common Mistakes to Avoid in On-Chain Identity Verification
 
@@ -121,7 +121,7 @@ Maya transitioned from Web2 to Web3 and effectively used on-chain identity verif
 ### Frequently Asked Questions
 
 **Q: How long will implementing on-chain identity verification take?**  
-A: Most individuals start seeing initial results within 2–4 weeks of consistent application. Significant improvements typically appear within 8–12 weeks. The timeline varies based on your baseline and the level of daily practice you commit to. Professionals who actively seek feedback often progress faster than those who rely solely on passive observation.
+A: Most individuals start seeing initial results within a few weeks of consistent application. Significant improvements typically appear within a couple of months. The timeline varies based on your baseline and the level of daily practice you commit to. Professionals who actively seek feedback often progress faster than those who rely solely on passive observation.
 
 **Q: What if my workplace environment doesn't support these practices?**  
 A: You often have more agency than it seems, even in challenging environments. Start with small, self-contained actions that don't require widespread organizational support. Gradually build momentum and document your progress. If the environment consistently hinders your development after sustained effort, consider seeking opportunities in organizations that prioritize employee growth.

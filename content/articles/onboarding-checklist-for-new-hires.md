@@ -57,7 +57,7 @@ A structured onboarding process benefits both the employee and the company. It l
 
 ## Importance of Effective Onboarding
 
-Effective onboarding significantly impacts employee retention and productivity. Research shows that companies with a structured onboarding process improve new hire retention by 82% and productivity by over 70%. In [Web3](/what-is-web3) organizations, where collaboration and communication are essential, an effective onboarding process can mean the difference between a successful transition and a frustrating experience.
+Effective onboarding significantly impacts employee retention and productivity. Research shows that companies with a structured onboarding process improve new hire retention and productivity. In [Web3](/what-is-web3) organizations, where collaboration and communication are essential, an effective onboarding process can mean the difference between a successful transition and a frustrating experience.
 
 ## Step-by-Step Guide to Mastering Your Onboarding Experience
 
@@ -85,11 +85,11 @@ Regularly monitor your progress. Identify if you are seeing the desired results 
 
 ### Example 1: Sarah's Transformation in a Blockchain Startup
 
-Sarah, a developer at a blockchain startup, faced challenges with project deadlines and team communication. After implementing the onboarding checklist, she actively participated in team meetings and completed small tasks to build her confidence. Within three months, her productivity improved by 40%, as evidenced by her ability to meet deadlines consistently.
+Sarah, a developer at a blockchain startup, faced challenges with project deadlines and team communication. After implementing the onboarding checklist, she actively participated in team meetings and completed small tasks to build her confidence. Within three months, her productivity improved, as evidenced by her ability to meet deadlines consistently.
 
 ### Example 2: Juan's Success in DeFi
 
-Juan, a product manager in the decentralized finance (DeFi) sector, initially struggled with cross-team collaboration. He utilized the onboarding framework to identify key stakeholders and schedule introductory meetings. This proactive approach enabled him to streamline communication and ultimately launch a successful product feature that increased user engagement by 25%.
+Juan, a product manager in the decentralized finance (DeFi) sector, initially struggled with cross-team collaboration. He utilized the onboarding framework to identify key stakeholders and schedule introductory meetings. This proactive approach enabled him to streamline communication and ultimately launch a successful product feature that increased user engagement.
 
 ### Example 3: Maya's Transition from Web2 to Web3
 
@@ -115,7 +115,7 @@ You cannot improve what you do not measure. Regularly track your progress using 
 ## Detailed FAQs
 
 **How long will this onboarding process take to yield results?**  
-Most new hires report seeing initial results within 2 to 4 weeks of consistent application of these practices. Significant improvements typically appear within 8 to 12 weeks. The timeline can vary based on your starting point, daily practice commitment, and how actively you seek feedback. Professionals who monitor their progress through metrics or peer feedback often advance faster than those who do not.
+Most new hires report seeing initial results within a few weeks of consistent application of these practices. Significant improvements typically appear within a couple of months. The timeline can vary based on your starting point, daily practice commitment, and how actively you seek feedback. Professionals who monitor their progress through metrics or peer feedback often advance faster than those who do not.
 
 **What if my workplace environment is not supportive of this approach?**  
 Even in challenging environments, you often possess more agency than you realize. Start with manageable, self-directed actions that do not require organizational approval. Focus on individual habits and engage in conversations with colleagues who share your goals. Document your progress and the tangible results you create. If your environment continues to hinder your development despite sustained effort, consider seeking a workplace that prioritizes employee growth.

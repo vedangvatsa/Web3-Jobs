@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 The phone [interview](/how-to-prepare-for-job-interview), or phone screen, is often the first real conversation you will have with a potential employer. While it might seem less formal than a face-to-face meeting, it is a critical step in the hiring process. It is your first opportunity to make a personal connection, showcase your qualifications, and prove that you are a serious contender for the role. Underestimating its importance is a common mistake that can prematurely end your candidacy.
 
-A successful phone interview requires a unique set of skills. Without the benefit of body language and visual cues, your voice-its tone, clarity, and confidence-becomes your primary tool for communication. This guide provides a comprehensive overview of best practices to help you navigate the phone interview process with professionalism and poise, ensuring you make a memorable impression and advance to the next stage.
+A successful phone interview requires a unique set of skills. Without the benefit of body language and visual cues, your voice, its tone, clarity, and confidence, becomes your primary tool for communication. This guide provides a comprehensive overview of best practices to help you navigate the phone interview process with professionalism and poise, ensuring you make a memorable impression and advance to the next stage.
 
 ### The Purpose of a Phone Interview
 
@@ -41,7 +41,7 @@ Do not go into the call planning to "wing it." Structure your thoughts around a 
 
 *   **Your "Elevator Pitch":** Prepare a concise, 60-90 second summary of who you are, what you have done, and why you are interested in this specific role and company. This is often the answer to the classic opening question, "Tell me about yourself."
 *   **Connect Your Experience to the Job:** For each major requirement in the job description, prepare a specific example using the **STAR method (Situation, Task, Action, Result)**. This structured approach makes your answers compelling and easy to follow.
-*   **Quantify Your Achievements:** Instead of saying "I improved efficiency," say "I implemented a new workflow that reduced project completion time by 15%." Numbers make your accomplishments tangible and impressive.
+*   **Quantify Your Achievements:** Instead of saying "I improved efficiency," say "I implemented a new workflow that reduced project completion time significantly." Numbers make your accomplishments tangible and impressive.
 
 #### Prepare Your Questions
 An interview is a two-way street. Asking thoughtful questions shows your engagement and helps you determine if the company is the right fit for you. Prepare at least 5-7 questions.
@@ -84,7 +84,7 @@ This is the core of the interview.
 *   **Listen Carefully:** Pay close attention to the question being asked. Do not interrupt. If you are unsure about a question, it is perfectly acceptable to ask for clarification.
 *   **Be Concise but Thorough:** Avoid rambling. Structure your answers clearly, especially when using the STAR method. However, avoid one-word answers. Provide enough detail to be compelling.
 *   **Stay Positive:** Do not speak negatively about past employers, colleagues, or experiences. Frame everything in a positive and professional light, focusing on what you learned from challenges.
-*   **Be Honest About Salary:** When asked about salary expectations, it is best to be prepared. Research the typical salary range for the role in your location. You can provide a range, stating that it is flexible based on the full compensation package (benefits, bonus, etc.). A good phrase is, "Based on my research for similar roles in this area and my experience level, I am seeking a range between $X and $Y. However, I am flexible and open to discussing the total compensation package."
+*   **Be Honest About Salary:** When asked about salary expectations, it is best to be prepared. Research the typical salary range for the role in your location. You can provide a range, stating that it is flexible based on the full compensation package (benefits, bonus, etc.). A good phrase is, "Based on my research for similar roles in this area and my experience level, I am seeking a range that reflects my qualifications. However, I am flexible and open to discussing the total compensation package."
 
 #### Mind Your Voice and Pacing
 Without visual cues, your voice is everything.

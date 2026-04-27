@@ -23,7 +23,7 @@ Proof-of-Work was first implemented by [Bitcoin](/what-is-bitcoin) and relies on
     - The first miner to solve the puzzle adds the next block of transactions to the [blockchain](/what-is-a-blockchain).
     - As a reward, the miner receives newly minted cryptocurrency along with transaction fees from the block. This process is referred to as **[mining](/blockchain-mining-explained-for-beginners)**.
 
-- **Security Model:** PoW's security hinges on physical energy and computational resources. To execute a successful attack (known as a "51% attack"), an attacker must control more than half of the network's computational power. For a large network like Bitcoin’s, this would necessitate billions of dollars in hardware and electricity, making such an attack economically and practically infeasible.
+- **Security Model:** PoW's security hinges on physical energy and computational resources. To execute a successful attack (known as a "51% attack"), an attacker must control more than half of the network's computational power. For a large network like Bitcoin’s, this would necessitate significant investment in hardware and electricity, making such an attack economically and practically infeasible.
 
 - **Pros:** PoW has demonstrated remarkable robustness and security over more than a decade.
 
@@ -41,10 +41,10 @@ Proof-of-Stake represents a more contemporary consensus mechanism that maintains
     - The protocol selects a validator to create the next block through a pseudo-random process; the greater the amount of cryptocurrency staked, the higher the chances of selection.
     - If a validator proposes a fraudulent block or behaves dishonestly, the protocol can "slash" (destroy) a portion or all of their staked collateral.
 
-- **Security Model:** PoS relies on economic incentives. The staked capital acts as a bond to ensure honest behavior. To mount an attack, an assailant would need to acquire and stake more than 50% of the total cryptocurrency, which would cost billions. Attempting such an attack would result in the loss of their own substantial stake, creating a self-destructive scenario.
+- **Security Model:** PoS relies on economic incentives. The staked capital acts as a bond to ensure honest behavior. To mount an attack, an assailant would need to acquire and stake more than 50% of the total cryptocurrency, which would require significant investment. Attempting such an attack would result in the loss of their own substantial stake, creating a self-destructive scenario.
 
 - **Pros:**
-    - **Energy Efficiency:** PoS is over 99.9% more energy-efficient than PoW, as it does not involve extensive computational puzzles.
+    - **Energy Efficiency:** PoS is significantly more energy-efficient than PoW, as it does not involve extensive computational puzzles.
     - **Accessibility:** PoS presents a lower barrier to entry compared to PoW mining, which requires expensive, specialized hardware.
     - **Scalability:** PoS facilitates advanced scalability solutions.
 
@@ -75,7 +75,7 @@ The Web3 sector is expanding rapidly, with demand for qualified talent far excee
 
 The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ significantly from those of Web2:
 
-- **Compensation:** Web3 roles typically offer salaries that are 20-40% higher than comparable Web2 positions, often including substantial bonuses and equity components.
+- **Compensation:** Web3 roles typically offer salaries that are higher than comparable Web2 positions, often including substantial bonuses and equity components.
   
 - **Remote-First Culture:** Most Web3 companies operate on a fully or primarily remote basis, providing a level of flexibility often absent in traditional tech roles.
 
@@ -136,7 +136,7 @@ Target positions that align with your existing skills and newly acquired Web3 kn
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his day job. His open-source contributions attracted the attention of a major DeFi project, allowing him to transition to a new role with a 50% salary increase and significant equity.
+Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his day job. His open-source contributions attracted the attention of a major DeFi project, allowing him to transition to a new role with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 
@@ -162,7 +162,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through dedicated
 No. The Web3 ecosystem requires much more than technical expertise. Roles in marketing, community management, product design, legal support, and operations are all in high demand. Your existing skills can transfer directly; you simply need to integrate Web3 context such as wallet functionality, the role of DAOs, and the importance of decentralization.
 
 **How much can I earn in Web3?**  
-Compensation in Web3 generally exceeds Web2 equivalents. Base salaries are typically 30-60% higher on average. Solidity engineers and smart contract auditors often receive the highest premiums due to limited talent availability. Total compensation packages may include signing bonuses, equity in early-stage protocols, and token allocations that could appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 in total compensation. Non-technical roles also receive substantial premiums compared to Web2 positions.
+Compensation in Web3 generally exceeds Web2 equivalents. Base salaries are typically higher on average. Solidity engineers and smart contract auditors often receive the highest premiums due to limited talent availability. Total compensation packages may include signing bonuses, equity in early-stage protocols, and token allocations that could appreciate significantly. Senior engineers at well-funded protocols can earn considerable total compensation. Non-technical roles also receive substantial premiums compared to Web2 positions.
 
 **Is it risky to transition to Web3?**  
 Any career transition carries risk, and Web3 is no exception due to market volatility and project lifecycles. However, you can manage this risk: target well-funded, established protocols with proven revenue rather than speculative early-stage projects; verify the team's track record; and ensure your base salary is in fiat currency rather than exclusively in tokens. Professionals who treat Web3 as a serious career move consistently find meaningful roles that endure through market fluctuations.
@@ -171,11 +171,11 @@ Any career transition carries risk, and Web3 is no exception due to market volat
 Most professionals achieve a significant transition to Web3 within 2 to 6 months of focused effort. Engineers and product managers typically move fastest as their core skills transfer directly, with the learning curve primarily related to tooling and protocol-specific knowledge. Non-technical roles such as marketing and community management can transition in as little as 4 to 8 weeks with dedicated self-study. Actively engaging in building a portfolio project or contributing to an open-source protocol can significantly accelerate this process.
 
 **What if the crypto market crashes?**  
-Bear markets historically provide excellent opportunities for entering Web3 professionally. As speculative hype diminishes, teams concentrate on building real products, prioritizing talent over token prices. Companies focused on infrastructure, security, and developer tools tend to maintain steady hiring regardless of market conditions. Engineers who developed during the 2018-2019 bear market are among the most sought-after professionals today. A downturn can reduce competition for roles and lead to better equity terms for new hires.
+Bear markets historically provide excellent opportunities for entering Web3 professionally. As speculative hype diminishes, teams concentrate on building real products, prioritizing talent over token prices. Companies focused on infrastructure, security, and developer tools tend to maintain steady hiring regardless of market conditions. Engineers who developed during previous bear markets are among the most sought-after professionals today. A downturn can reduce competition for roles and lead to better equity terms for new hires.
 
 ## Key Takeaways
 
-- Web3 presents significant compensation premiums (20-40% above Web2 equivalents), accelerated career growth trajectories, and opportunities to contribute to technology reshaping finance, governance, and digital ownership across diverse industries.
+- Web3 presents significant compensation premiums above Web2 equivalents, accelerated career growth trajectories, and opportunities to contribute to technology reshaping finance, governance, and digital ownership across diverse industries.
 - Most professionals can transition to Web3 meaningfully within 2-6 months of focused effort, with engineers and product managers typically moving the fastest.
 - Existing domain expertise holds substantial value in Web3. Rather than starting anew, focus on layering blockchain-specific knowledge (wallets, smart contracts, tokenomics, DAOs) onto your current skills.
 - Networking through Discord communities and engaging on Twitter, combined with visible portfolio projects on GitHub, consistently outperform formal certifications in securing Web3 roles.

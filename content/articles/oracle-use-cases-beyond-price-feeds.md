@@ -21,7 +21,7 @@ Traditional insurance processes often involve slow, cumbersome claims that can f
 - **Definition:** Parametric insurance provides payouts based on predetermined trigger events, or "parameters," rather than on the specific extent of an individual's loss. The policy functions as a straightforward "if X occurs, then pay Y" smart contract.
 - **Role of Oracles:**
     - **Crop Insurance Example:** A farmer in Kenya could secure a policy that pays out if rainfall drops below a specified threshold during the growing season. A trusted weather data oracle would report rainfall levels. If the oracle indicates a drought, the smart contract initiates an automatic payment, eliminating the need for an adjuster to assess the farm.
-    - **Flight Insurance Example:** A policy could automatically pay 0.1 [ETH](/what-is-ethereum) if a flight is delayed by over two hours. An oracle network can access real-time flight data APIs. Upon confirming the delay, the smart contract processes the payout instantly.
+    - **Flight Insurance Example:** A policy could automatically pay a specified amount if a flight is delayed by over two hours. An oracle network can access real-time flight data APIs. Upon confirming the delay, the smart contract processes the payout instantly.
 - **Importance:** This model enhances the efficiency and transparency of insurance, eliminating ambiguity and reducing human bias in the claims process. It also widens access to insurance products for underserved markets.
 
 ### 2. Dynamic NFTs (dNFTs)
@@ -54,7 +54,7 @@ Generating provably fair randomness poses a significant challenge for blockchain
 
 RWA tokenization represents one of the fastest-growing sectors in DeFi. This process involves creating a [token](/what-is-a-token) on the blockchain that symbolizes a traditional, real-world asset. Oracles are essential in facilitating this process.
 
-- **Definition:** Tokenizing assets such as real estate, private credit, or U.S. Treasury Bills.
+- **Definition:** Tokenizing assets such as real estate, private credit, or government bonds.
 - **Role of Oracles:**
     - **Proof of Reserve:** For a tokenized asset to hold value, there must be evidence that the underlying asset exists and is properly maintained. Oracles can access trusted custodial or banking databases to provide a "Proof of Reserve" on-chain, confirming the value of off-chain collateral.
     - **Valuation:** For assets like real estate, oracles can deliver regular valuation updates from external sources, which lending protocols can use when accepting the RWA token as collateral.
@@ -63,9 +63,9 @@ RWA tokenization represents one of the fastest-growing sectors in DeFi. This pro
 |---------------------|----------------------------|------------------------------------------|
 | Real Estate         | Tokenized properties       | Regular valuation updates                 |
 | Private Credit      | Tokenized loans            | Proof of collateral existence             |
-| Treasury Bills      | Tokenized government bonds | Proof of reserve from custodians          |
+| Government Bonds    | Tokenized government bonds | Proof of reserve from custodians          |
 
-- **Importance:** RWA tokenization has the potential to introduce trillions of dollars of real-world assets into the DeFi ecosystem. Oracles act as the vital connection that ensures the process is secure.
+- **Importance:** RWA tokenization has the potential to introduce significant value of real-world assets into the DeFi ecosystem. Oracles act as the vital connection that ensures the process is secure.
 
 ### 5. Decentralized Identity and Reputation
 
@@ -73,7 +73,7 @@ Oracles can function as attestation services, verifying real-world information t
 
 - **Concept:** An oracle can be utilized to produce a verifiable, on-chain credential.
 - **Role of Oracles:**
-    - **Social Graph Verification:** An oracle may confirm that a user’s Twitter account has over 10,000 followers or that their [GitHub](/building-web3-portfolio) account has contributed to a specific open-source project. This attestation can grant access to particular [DAOs](/what-is-a-dao) or decentralized applications (dApps).
+    - **Social Graph Verification:** An oracle may confirm that a user’s Twitter account has a significant number of followers or that their [GitHub](/building-web3-portfolio) account has contributed to a specific open-source project. This attestation can grant access to particular [DAOs](/what-is-a-dao) or decentralized applications (dApps).
     - **KYC/AML Attestation:** A regulated entity could conduct a KYC check off-chain. The oracle can then generate a simple on-chain attestation (a "yes/no") confirming the wallet's verification without disclosing personal data on the blockchain. [DeFi protocols](/what-is-defi) could use this information to offer compliant services.
 - **Importance:** This approach facilitates the creation of robust, portable reputation systems not controlled by any single entity, bridging real-world and on-chain identities.
 
@@ -99,9 +99,9 @@ Professionals in the blockchain space must grasp the significance of oracles for
 
 ### Real-World Success Stories
 
-- **Example 1:** Sarah, a developer at a blockchain startup, struggled with integrating oracle technology into her projects. After implementing a structured learning approach, she improved her projects' efficiency within three months, leading to a 25% increase in user engagement.
+- **Example 1:** Sarah, a developer at a blockchain startup, struggled with integrating oracle technology into her projects. After implementing a structured learning approach, she improved her projects' efficiency within three months, leading to increased user engagement.
 
-- **Example 2:** Juan, a product manager in the DeFi sector, faced challenges in understanding the role of oracles in smart contracts. By following a tailored learning strategy, he successfully integrated oracle solutions into his product offerings, resulting in a 15% increase in transaction volume.
+- **Example 2:** Juan, a product manager in the DeFi sector, faced challenges in understanding the role of oracles in smart contracts. By following a tailored learning strategy, he successfully integrated oracle solutions into his product offerings, resulting in increased transaction volume.
 
 - **Example 3:** Maya transitioned from Web2 to Web3, utilizing her knowledge of oracles to enhance her new role at a startup. Her ability to apply oracle technology led to her rapid advancement within the company.
 
@@ -120,7 +120,7 @@ Professionals in the blockchain space must grasp the significance of oracles for
 ### FAQ
 
 **Q: How long does it take to grasp oracle technology?**  
-A: Many professionals see initial results within 2-4 weeks of consistent practice, with significant progress visible within 8-12 weeks. This timeline varies based on your starting point, daily commitment, and active pursuit of feedback. Those who track their progress tend to advance faster.
+A: Many professionals see initial results within a few weeks of consistent practice, with significant progress visible within a few months. This timeline varies based on your starting point, daily commitment, and active pursuit of feedback. Those who track their progress tend to advance faster.
 
 **Q: What if my workplace isn't supportive of learning about oracles?**  
 A: You can often take small, individual steps that don't require managerial approval. Focus on personal projects or informal discussions with colleagues interested in the same topics. Gradually build momentum and document your results.
