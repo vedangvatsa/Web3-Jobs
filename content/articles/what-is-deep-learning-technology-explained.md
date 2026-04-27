@@ -32,7 +32,7 @@ Connections between neurons have associated weights, determining the strength of
 
 ### The Surge in Deep Learning Popularity
 
-Despite concepts behind neural networks existing for decades, deep learning has gained significant traction over the last ten years. This surge results from two primary factors:
+Despite concepts behind neural networks existing for decades, deep learning has gained significant traction over the last several years. This surge results from two primary factors:
 
 | Factor            | Explanation                                                                                                       |
 |-------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -82,7 +82,7 @@ A neural network is a computational system inspired by the human brain, composed
 
 ### Essential Skills for Success
 
-Mastering competencies related to deep learning and AI is vital for thriving in today's job market. These skills are crucial across various sectors, including [Web3](/what-is-web3) and traditional technology industries. Research indicates that these abilities provide a 10-15 year return on investment (ROI) of 300-500%.
+Mastering competencies related to deep learning and AI is vital for thriving in today's job market. These skills are crucial across various sectors, including [Web3](/what-is-web3) and traditional technology industries. Research indicates that these abilities provide a significant return on investment (ROI).
 
 ### Skill Breakdown
 
@@ -142,7 +142,7 @@ Distributed Web3 teams operate at a rapid pace. The skills you develop directly 
 The importance of these skills varies by career stage:
 - **Junior Level:** Technical skills dominate, but communication grows in significance.
 - **Mid Level:** A balance of technical and soft skills becomes essential as leadership potential emerges.
-- **Senior Level:** Soft skills account for 70% of your effectiveness.
+- **Senior Level:** Soft skills account for a significant portion of your effectiveness.
 - **Leadership:** Emotional intelligence and communication skills take precedence.
 
 ### Common Development Mistakes

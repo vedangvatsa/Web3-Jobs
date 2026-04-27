@@ -29,10 +29,10 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 
 | **Position** | **Description** | **Salary Range (ZAR/month)** | **Salary Range (USD/month)** |
 |--------------|----------------|-------------------------------|-------------------------------|
-| Legal & Policy Officer (Digital Assets) | Experts advising on blockchain policy and regulation for government and corporations | 90,000 - 180,000+ | 4,700 - 9,400 |
-| Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer) | Developers creating large-scale, permissioned blockchain solutions | 70,000 - 150,000+ | 3,650 - 7,800 |
-| GovTech Product Manager | Project managers delivering complex technology projects for public sector clients | 90,000 - 160,000+ | 4,700 - 8,300 |
-| Business Development (Public Sector & Enterprise) | Professionals building partnerships with government departments to implement blockchain solutions | 80,000 - 150,000+ | 4,150 - 7,800 + commission |
+| Legal & Policy Officer (Digital Assets) | Experts advising on blockchain policy and regulation for government and corporations | Competitive | Competitive |
+| Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer) | Developers creating large-scale, permissioned blockchain solutions | Competitive | Competitive |
+| GovTech Product Manager | Project managers delivering complex technology projects for public sector clients | Competitive | Competitive |
+| Business Development (Public Sector & Enterprise) | Professionals building partnerships with government departments to implement blockchain solutions | Competitive | Competitive |
 
 ### Building a Web3 Career in Pretoria
 
@@ -50,21 +50,21 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 
 | **Position** | **Salary (ZAR/month)** | **Salary (USD/month)** |
 |--------------|------------------------|-------------------------|
-| Legal & Policy Officer | 90,000 - 180,000+ | 4,700 - 9,400 |
-| Enterprise Blockchain Developer | 70,000 - 150,000+ | 3,650 - 7,800 |
-| GovTech Product Manager | 90,000 - 160,000+ | 4,700 - 8,300 |
-| Business Development (Public Sector) | 80,000 - 150,000+ | 4,150 - 7,800 + commission |
+| Legal & Policy Officer | Competitive | Competitive |
+| Enterprise Blockchain Developer | Competitive | Competitive |
+| GovTech Product Manager | Competitive | Competitive |
+| Business Development (Public Sector) | Competitive | Competitive |
 
 #### Remote Opportunities (Less Common Locally)
 
 | **Position** | **Salary (USD/month)** |
 |--------------|-------------------------|
-| Senior Developer | 4,500 - 8,000 |
-| Policy/Research Lead | 4,000 - 7,500 |
+| Senior Developer | Competitive |
+| Policy/Research Lead | Competitive |
 
 Salaries in Pretoria reflect the city's focus on government and enterprise, contributing to a favorable quality of life.
 
-### Career Paths to $8,000+/Month in Pretoria
+### Career Paths to Competitive Salaries in Pretoria
 
 #### Path 1: GovTech Blockchain Engineer (Public Sector Innovation) (10-18 Month Timeline)
 
@@ -77,19 +77,19 @@ Salaries in Pretoria reflect the city's focus on government and enterprise, cont
 
 - **Months 7-12: Secure a GovTech Role**
   - Apply to CSIR, government innovation departments, and corporate blockchain teams.
-  - Anticipated salary: ZAR 70,000 - 120,000/month (~$3,650 - $6,250).
+  - Anticipated salary: Competitive.
   - Lead a major government blockchain project.
-  - **Expected Compensation:** $3,700 - $6,500/month.
+  - **Expected Compensation:** Competitive.
 
 - **Months 13-17: Specialize & Lead**
   - Establish yourself as a leading GovTech blockchain engineer.
   - Oversee multiple government blockchain initiatives.
   - Potential for a senior engineer or technical director position.
-  - **Expected Compensation:** $5,000 - $8,000/month.
+  - **Expected Compensation:** Competitive.
 
 - **Month 18: Transition to Strategy/Leadership**
   - Aim for a Chief Technology Officer or director role in blockchain innovation.
-  - **Expected Compensation:** $6,500 - $12,000+/month.
+  - **Expected Compensation:** Competitive.
 
 #### Path 2: Digital Assets Policy Advisor (Regulatory Expert) (12-24 Month Timeline)
 
@@ -102,18 +102,18 @@ Salaries in Pretoria reflect the city's focus on government and enterprise, cont
 
 - **Months 7-12: Transition to Advisory Role**
   - Secure a consulting contract with the central bank, financial regulator, or government policy body.
-  - Expected salary: ZAR 60,000 - 100,000/month (~$3,100 - $5,200).
+  - Expected salary: Competitive.
   - Advise on regulatory strategies.
-  - **Expected Compensation:** $3,500 - $5,500/month from consulting.
+  - **Expected Compensation:** Competitive.
 
 - **Months 13-18: Full Advisory Role**
   - Move into a full-time policy advisor position.
-  - Expected salary: ZAR 90,000 - 150,000/month (~$4,700 - $7,800).
+  - Expected salary: Competitive.
 
 - **Months 19-24: Strategic Leadership**
   - Pursue a senior policy role within a central bank, regulator, or major corporation.
   - Lead national policy strategies on digital assets and CBDCs.
-  - **Expected Compensation:** $6,000 - $12,000+/month.
+  - **Expected Compensation:** Competitive.
 
 #### Path 3: Corporate Blockchain Program Lead (Enterprise Blockchain at Scale) (10-16 Month Timeline)
 
@@ -125,17 +125,17 @@ Salaries in Pretoria reflect the city's focus on government and enterprise, cont
 
 - **Months 6-10: Secure Corporate Role**
   - Apply to major South African banks, large enterprises, and consulting firms.
-  - Expected salary: ZAR 90,000 - 140,000/month (~$4,700 - $7,280).
+  - Expected salary: Competitive.
   - Lead an enterprise blockchain program.
-  - **Expected Compensation:** $4,800 - $7,500/month.
+  - **Expected Compensation:** Competitive.
 
 - **Months 11-15: Enhance Reputation**
   - Successfully deliver a blockchain implementation.
-  - **Expected Compensation:** $6,000 - $9,000/month.
+  - **Expected Compensation:** Competitive.
 
 - **Month 16: Aim for Executive Position**
   - Positions such as Chief Information Officer or Chief Strategy Officer.
-  - **Expected Compensation:** $7,500 - $15,000+/month + equity.
+  - **Expected Compensation:** Competitive.
 
 ### Challenges and Solutions
 
@@ -187,7 +187,7 @@ Salaries in Pretoria reflect the city's focus on government and enterprise, cont
 
 **Weeks 9-10:**
 - Publish a third article or research piece.
-- Secure your first consulting engagement ($2,000–$5,000) focused on blockchain strategy.
+- Secure your first consulting engagement focused on blockchain strategy.
 - Apply to think tanks, consulting firms, or government positions.
 - Aim for 1,000 followers on Twitter.
 
@@ -200,7 +200,7 @@ Salaries in Pretoria reflect the city's focus on government and enterprise, cont
 **Outputs after 90 Days:**
 - 2-3 completed projects showcased on GitHub.
 - 3 published articles to demonstrate expertise.
-- At least one consulting engagement ($2,000–$5,000).
+- At least one consulting engagement.
 - A strong network of over 20 government and corporate contacts.
 - 1,000+ followers on social media.
 - 1-2 serious job interviews lined up.
@@ -209,21 +209,21 @@ Salaries in Pretoria reflect the city's focus on government and enterprise, cont
 ### Frequently Asked Questions
 
 **Is crypto legal in South Africa?**
-Yes, crypto is legal but evolving. The Financial Sector Conduct Authority (FSCA) is currently regulating it. The South African Reserve Bank is researching CBDC options. Remote work is entirely legal, and clarity on policies is expected to develop between 2024 and 2025.
+Yes, crypto is legal but evolving. The Financial Sector Conduct Authority (FSCA) is currently regulating it. The South African Reserve Bank is researching CBDC options. Remote work is entirely legal, and clarity on policies is expected to develop in the coming years.
 
 **Do I need a government background to enter this field?**
 While a government background can be beneficial, it is not mandatory. Those with experience may find faster entry and credibility. For others, understanding government procurement and public sector processes is essential. Online education can support this learning.
 
-**What is the fastest way to earn $4,000/month in Pretoria?**
+**What is the fastest way to earn a competitive salary in Pretoria?**
 Consider these options in order:
-1. Consulting on GovTech/blockchain (Month 1-2; $2,000–$5,000 per engagement).
-2. Corporate blockchain roles (Month 3-5; $4,000–$6,000/month).
-3. Government positions (Month 4-8; $4,000–$8,000/month).
+1. Consulting on GovTech/blockchain.
+2. Corporate blockchain roles.
+3. Government positions.
 
-The quickest approach involves consulting while securing a full-time position, potentially reaching $4,500–$6,000/month in 3-4 months.
+The quickest approach involves consulting while securing a full-time position.
 
 **Should I focus on GovTech, policy, or corporate roles?**
-GovTech and corporate positions typically offer salaries ranging from $3,700 to $8,000/month and require technical skills combined with government knowledge, providing a faster path to income. Policy and regulatory roles can lead to higher salaries, from $3,500 to $12,000+/month, but may take longer to secure.
+GovTech and corporate positions typically offer competitive salaries and require technical skills combined with government knowledge, providing a faster path to income. Policy and regulatory roles can lead to higher salaries but may take longer to secure.
 
 **Should I relocate to Johannesburg or Cape Town?**
 Remain in Pretoria initially to take advantage of government roles based there and local enterprise opportunities. Pretoria generally has a lower cost of living than Johannesburg, and establishing your influence in the capital can be advantageous for future mobility.
@@ -239,9 +239,9 @@ Utilize LinkedIn to search for "Pretoria" + "blockchain" + "government." Check o
 
 **What can I expect regarding salary progression?**
 Expect realistic salary ranges as follows:
-- **Year 1:** ZAR 70,000 - 120,000/month ($3,650 - $6,250/month).
-- **Year 2:** ZAR 100,000 - 160,000/month ($5,200 - $8,300/month).
-- **Year 3+:** ZAR 140,000 - 280,000+/month ($7,280 - $14,600+/month).
+- **Year 1:** Competitive.
+- **Year 2:** Competitive.
+- **Year 3+:** Competitive.
 
 **Should I consider launching a startup?**
 Focus on gaining experience initially. Spend the first year or two working within government or corporate settings to build contacts. In years two to three, validate your startup idea and secure a government pilot. After establishing your network and revenue, you can launch your startup.

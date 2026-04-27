@@ -20,8 +20,8 @@ In the Web2 environment, control over digital identities remains fragmented and 
 
 | Identifier Type          | Controlled By        |
 |--------------------------|----------------------|
-| Email Address            | Google               |
-| Social Media Handle      | Twitter, Facebook     |
+| Email Address            | Major tech companies  |
+| Social Media Handle      | Social media platforms |
 
 These platforms can revoke access to your identifiers, impose censorship, or exploit your data. As a result, users lack true ownership over their online identities.
 
@@ -84,11 +84,11 @@ Keep track of your progress. Are you achieving desired results? Revise your stra
 
 ### Example 1: Sarah's Transformation
 
-Sarah, a developer at a blockchain startup, struggled with managing her digital identity until she implemented strategies centered around DIDs. Within three months, her efficiency in accessing and verifying credentials improved by over 30%.
+Sarah, a developer at a blockchain startup, struggled with managing her digital identity until she implemented strategies centered around DIDs. Within a few months, her efficiency in accessing and verifying credentials improved significantly.
 
 ### Example 2: Juan's Success
 
-Juan, a product manager in [DeFi](/what-is-defi), faced similar hurdles. After adopting a structured approach to DIDs, he successfully streamlined customer verification processes, resulting in a 25% reduction in onboarding time.
+Juan, a product manager in [DeFi](/what-is-defi), faced similar hurdles. After adopting a structured approach to DIDs, he successfully streamlined customer verification processes, resulting in a notable reduction in onboarding time.
 
 ### Example 3: Maya's Transition
 
@@ -109,7 +109,7 @@ Maya transitioned from Web2 to Web3 and utilized the principles of DIDs to adapt
 ## FAQ
 
 **How long will it take to implement DIDs effectively?**  
-Most individuals notice initial improvements within 2 to 4 weeks of consistent practice, with significant progress visible within 8 to 12 weeks. Results may vary based on your starting point, the frequency of practice, and whether you actively seek feedback. Professionals who document their progress and gather input from peers tend to advance faster.
+Most individuals notice initial improvements within a few weeks of consistent practice, with significant progress visible within a couple of months. Results may vary based on your starting point, the frequency of practice, and whether you actively seek feedback. Professionals who document their progress and gather input from peers tend to advance faster.
 
 **What should I do if my workplace doesn’t support DIDs?**  
 You typically have more agency than you might think, even in challenging environments. Start with small, independent actions that don't require organizational approval. Build momentum by documenting your achievements. If progress stalls due to structural barriers, recognize it as a signal to consider environments that prioritize professional development.
@@ -125,4 +125,4 @@ Explore related articles for targeted insights. Additionally, seek mentorship or
 
 ## Conclusion
 
-Decentralized Identifiers represent a transformative shift in how individuals manage their digital identities. By understanding and implementing DIDs, professionals position themselves at the forefront of a more secure and user-centric internet. Embracing this technology not only enhances personal digital security but also opens doors to innovative opportunities and career growth in the expanding Web3 ecosystem. As organizations increasingly prioritize self-sovereign identity solutions, the demand for skilled professionals proficient in DIDs will only continue to rise.
+Decentralized Identifiers represent a transformative shift in how individuals manage their digital identities. By understanding and implementing DIDs, professionals position themselves at the forefront of a more secure and user-centric internet. Embracing this technology not only enhances personal digital security but also opens doors to innovative opportunities and career growth in the expanding Web3 ecosystem. As organizations increasingly prioritize self-sovereign identity solutions, the demand for skilled professionals proficient in DIDs will continue to rise.

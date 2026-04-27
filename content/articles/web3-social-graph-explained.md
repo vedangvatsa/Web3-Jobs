@@ -53,11 +53,11 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 
 | Job Title                           | Salary Range               |
 |-------------------------------------|----------------------------|
-| Protocol Engineer (Farcaster/Lens)  | $100K–$250K/year           |
-| [Smart Contract](/what-are-smart-contracts) Developer (Lens) | $80K–$200K/year            |
-| Product Manager (Protocol)          | $90K–$200K+/year           |
-| Community Lead/Growth               | $60K–$150K/year            |
-| Social App Developer                | $70K–$180K/year            |
+| Protocol Engineer (Farcaster/Lens)  | Competitive salary range    |
+| [Smart Contract](/what-are-smart-contracts) Developer (Lens) | Competitive salary range    |
+| Product Manager (Protocol)          | Competitive salary range    |
+| Community Lead/Growth               | Competitive salary range    |
+| Social App Developer                | Competitive salary range    |
 
 ## Career Paths in Web3 Social Graph
 
@@ -75,16 +75,16 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 - Make substantial PR contributions to Farcaster or Lens.
 - Become a recognized contributor with a proven track record.
 - Expect offers from protocol teams or apply directly.
-- **Expected Compensation:** $100K–$150K/year, approximately $8,300–$12,500/month.
+- **Expected Compensation:** Competitive salary range.
 
 **Months 13-20: Ascend to Core Developer**
 - Lead technical enhancements to the protocol.
 - Transition to a senior engineer or protocol architect role.
-- **Expected Compensation:** $150K–$250K+/year, translating to $12,500–$20,800+/month.
+- **Expected Compensation:** Competitive salary range.
 
 **Quick Wins:**
 - Apply for protocol grants from Lens and Farcaster foundations.
-- Participate in bug bounty programs, earning $5K–$100K+ for security findings.
+- Participate in bug bounty programs, earning rewards for security findings.
 
 ### Path 2: Social App Developer (Building on Graph) (8-14 Month Timeline)
 
@@ -96,19 +96,19 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 - **Deliverable:** Developed apps and acquired technical skills.
 
 **Months 5-8: Launch Your App**
-- Deploy the app and attract over 500 users.
+- Deploy the app and attract users.
 - Monetize through tokens, NFTs, or subscriptions.
-- **Expected Revenue:** $500–$2,000/month plus potential funding.
+- **Expected Revenue:** Varies based on app success.
 
 **Months 9-12: Scale Your User Base**
-- Expand user base to over 5,000 and establish sustainable revenue.
+- Expand user base and establish sustainable revenue.
 - Seek investors for funding.
 - Alternatively, secure a position at a social app company.
-- **Expected Compensation:** $60K–$150K/year with equity.
+- **Expected Compensation:** Competitive salary range.
 
 **Months 13-14: Move into Leadership**
 - Ascend to CEO of your social app or VP of Product.
-- **Expected Compensation:** $100K–$300K+ with equity.
+- **Expected Compensation:** Competitive salary range.
 
 **Quick Wins:**
 - Access protocol grants available for app developers.
@@ -125,17 +125,17 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 
 **Months 4-6: Join a Community Role**
 - Take a leadership role in community management at a protocol or app.
-- **Expected Compensation:** $60K–$100K/year.
+- **Expected Compensation:** Competitive salary range.
 - Focus on growing users, builders, and partnerships.
 
 **Months 7-10: Strategize for Growth**
 - Become known for scaling community efforts and partnerships.
 - Transition to Head of Growth or Community.
-- **Expected Compensation:** $100K–$180K/year.
+- **Expected Compensation:** Competitive salary range.
 
 **Months 11-12: Attain Leadership Position**
 - Move into a Chief Community Officer or VP of Growth role.
-- **Expected Compensation:** $120K–$250K+/year.
+- **Expected Compensation:** Competitive salary range.
 
 **Quick Wins:**
 - Obtain grants for community-building programs.
@@ -207,7 +207,7 @@ The Web3 sector is experiencing rapid expansion, with demand for qualified talen
 
 The Web3 job market operates under different dynamics compared to Web2:
 
-**Compensation:** Web3 roles generally offer salaries that exceed their Web2 counterparts by 20-40%, often including substantial bonuses and equity options.
+**Compensation:** Web3 roles generally offer salaries that exceed their Web2 counterparts, often including substantial bonuses and equity options.
 
 **Remote-First Culture:** Most Web3 companies operate remotely or with flexible schedules, providing a rare level of flexibility in comparison to traditional sectors.
 
@@ -257,10 +257,10 @@ Target roles that align with your existing expertise while incorporating new Web
 ## Real-World Success Stories
 
 ### Developer to Smart Contract Engineer
-Alex transitioned from a five-year backend engineering role at a FAANG company. By dedicating three months to learn Solidity while continuing his job, he contributed to an open-source protocol. This caught the eye of a major DeFi project, leading to a successful transition with a 50% salary increase and significant equity.
+Alex transitioned from a five-year backend engineering role at a FAANG company. By dedicating three months to learn Solidity while continuing his job, he contributed to an open-source protocol. This caught the eye of a major DeFi project, leading to a successful transition with a significant salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her a valuable asset. She secured a position at a leading DeFi protocol within four weeks.
+Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her a valuable asset. She secured a position at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a prominent blockchain platform, with compensation exceeding his previous salary.
@@ -281,7 +281,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 No. The Web3 ecosystem requires various roles beyond engineering. Positions in marketing, community management, product design, legal, and operations are in high demand. You can transfer your existing skills directly while adding Web3 context, such as understanding wallets, DAOs, and the importance of decentralization.
 
 **How much can I earn in Web3?**
-Web3 compensation generally exceeds Web2 equivalents. Base salaries are 30-60% higher on average, with Solidity engineers and smart contract auditors receiving the largest premiums due to scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate substantially. Senior engineers at well-funded protocols can earn from $200,000 to $350,000 in total compensation. Even non-technical roles see meaningful increases compared to Web2 positions.
+Web3 compensation generally exceeds Web2 equivalents. Base salaries are often higher on average, with Solidity engineers and smart contract auditors receiving the largest premiums due to scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate substantially. Senior engineers at well-funded protocols can earn competitive compensation. Even non-technical roles see meaningful increases compared to Web2 positions.
 
 **Is it risky to transition to Web3?**
 Every career transition involves risk, and Web3 is no exception given market volatility and project lifecycles. You can mitigate this risk by targeting well-funded, established protocols with proven revenue. Verify that teams have strong track records and ensure your base salary is primarily in fiat rather than entirely in tokens. Professionals who approach Web3 as a career move rather than a speculative venture tend to build sustainable roles.
@@ -290,11 +290,11 @@ Every career transition involves risk, and Web3 is no exception given market vol
 Typically, professionals can complete a meaningful transition to Web3 within 2-6 months of focused effort. Engineers and product managers often transition quickly due to the direct transferability of their skills, while non-technical roles such as marketing and community management can transition within 4-8 weeks with targeted self-study. Engaging actively—by building portfolio projects or contributing to open-source protocols—can significantly accelerate the process.
 
 **What if the crypto market crashes?**
-Historically, bear markets present excellent opportunities for entering Web3. As speculative enthusiasm wanes, teams refocus on building tangible products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers typically maintain hiring regardless of market fluctuations. Engineers who developed during the 2018-2019 bear market are now among the most sought-after professionals. Economic downturns can lower competition for roles and improve equity terms for new hires.
+Historically, bear markets present excellent opportunities for entering Web3. As speculative enthusiasm wanes, teams refocus on building tangible products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers typically maintain hiring regardless of market fluctuations. Engineers who developed during previous bear markets are now among the most sought-after professionals. Economic downturns can lower competition for roles and improve equity terms for new hires.
 
 ## Key Takeaways
 
-- Web3 offers substantial compensation premiums (20-40% above Web2 equivalents), accelerated career growth trajectories, and opportunities to contribute to transformative technology reshaping finance, governance, and digital ownership.
+- Web3 offers substantial compensation premiums above Web2 equivalents, accelerated career growth trajectories, and opportunities to contribute to transformative technology reshaping finance, governance, and digital ownership.
 - Most professionals transition into meaningful Web3 roles within 2-6 months of targeted effort, with engineers and product managers usually moving fastest due to the direct applicability of their skills.
 - Your existing expertise is incredibly valuable within Web3. Instead of starting from scratch, focus on integrating blockchain-specific context such as wallets, smart contracts, tokenomics, and DAOs into your existing skill set.
 - Networking through Discord communities and engaging on Twitter, coupled with showcasing portfolio projects on GitHub, consistently proves more effective than formal certifications when pursuing Web3 roles.

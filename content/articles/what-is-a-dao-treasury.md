@@ -16,13 +16,13 @@ The state of the treasury reflects the overall success and sustainability of the
 
 ### Sources of Treasury Funds 
 
-DAO treasuries receive funds from multiple sources. For various protocols, fees generated from the protocol's activities contribute to the treasury. For example, a [decentralized exchange](/what-is-a-decentralized-exchange-dex) might allocate 0.05% of each trade fee directly to its treasury. Other funding sources include initial token allocations at launch, revenue from strategic partnerships, and earnings from products or services developed by the DAO.
+DAO treasuries receive funds from multiple sources. For various protocols, fees generated from the protocol's activities contribute to the treasury. For example, a [decentralized exchange](/what-is-a-decentralized-exchange-dex) might allocate a small percentage of each trade fee directly to its treasury. Other funding sources include initial token allocations at launch, revenue from strategic partnerships, and earnings from products or services developed by the DAO.
 
 ### Managing a DAO Treasury 
 
 Managing a DAO treasury requires balancing security, efficiency, and decentralization. The key challenge lies in enabling a decentralized community to oversee significant funds while avoiding slow processes that hamper operations or insecure systems that invite theft. Most DAOs utilize a mix of tools to achieve this.
 
-1. **Gnosis Safe (Multisig [Wallet](/how-to-choose-a-crypto-wallet)):** The Gnosis Safe is the most widely used multisig wallet for treasury management. A multisig wallet is a [smart contract](/what-are-smart-contracts) requiring a set number of approvals from a group of trusted signers before executing any transaction. For instance, a DAO might implement a 4-of-7 multisig setup, where seven trusted community members serve as signers, and at least four must approve any treasury expenditure.
+1. **Gnosis Safe (Multisig [Wallet](/how-to-choose-a-crypto-wallet)):** The Gnosis Safe is a widely used multisig wallet for treasury management. A multisig wallet is a [smart contract](/what-are-smart-contracts) requiring a set number of approvals from a group of trusted signers before executing any transaction. For instance, a DAO might implement a 4-of-7 multisig setup, where seven trusted community members serve as signers, and at least four must approve any treasury expenditure.
    - **Advantages:** This model enhances security by eliminating the risk associated with a single private key, reducing the potential for a single point of failure. It also streamlines operations compared to requiring a full DAO vote for every minor expense.
    - **Disadvantages:** Trust and centralization become factors. DAO members must rely on the multisig signers to act in good faith and remain available.
 
@@ -36,7 +36,7 @@ Managing a DAO treasury requires balancing security, efficiency, and decentraliz
 
 Effective treasury management encompasses both security and productive asset deployment. Here are some practical strategies:
 
-- **Diversification:** Relying entirely on the DAO's volatile governance token poses significant risks. A market downturn can drastically reduce the treasury's value. Best practices recommend diversifying a substantial portion into stablecoins, such as USDC or DAI, to cover operational costs, and investing in more stable blue-chip assets like [ETH](/what-is-ethereum) or [BTC](/what-is-bitcoin).
+- **Diversification:** Relying entirely on the DAO's volatile governance token poses significant risks. A market downturn can drastically reduce the treasury's value. Best practices recommend diversifying a substantial portion into stablecoins to cover operational costs, and investing in more stable blue-chip assets like [ETH](/what-is-ethereum) or [BTC](/what-is-bitcoin).
 
 - **Active Management vs. Passive Holding:** DAOs must decide whether to actively manage treasury assets in [DeFi](/what-is-defi) for yield generation or to hold them passively. While active management can yield additional revenue, it also introduces smart contract risks. Each DAO must assess its risk appetite when determining its strategy.
 
@@ -46,7 +46,7 @@ Effective treasury management encompasses both security and productive asset dep
 
 | Source of Funds               | Description                                      | Example                                    |
 |-------------------------------|--------------------------------------------------|--------------------------------------------|
-| Protocol Fees                 | Percentage of trade fees directed to the treasury | A decentralized exchange allocating 0.05% of trade fees |
+| Protocol Fees                 | Percentage of trade fees directed to the treasury | A decentralized exchange allocating a small percentage of trade fees |
 | Initial Token Allocation       | Tokens reserved at launch for treasury purposes  | Initial distribution of tokens to fund operations |
 | Revenue from Partnerships      | Earnings from strategic collaborations            | Revenue from integrating services with other projects |
 | Product and Service Revenue    | Income from products or services created by the DAO | Subscriptions or sales generated from a DAO-owned platform |

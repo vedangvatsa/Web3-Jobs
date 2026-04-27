@@ -27,14 +27,14 @@ Mumbai's crypto landscape is deeply intertwined with its robust financial indust
 
 The job market in Mumbai favors professionals with a blend of finance and technology skills. Salaries reflect the high demand for specialized expertise and the city's elevated cost of living.
 
-| Role                                    | Experience Level        | Salary Range (INR)                     |
-|-----------------------------------------|-------------------------|----------------------------------------|
-| DeFi Quantitative Analyst               | 3+ years                | ₹40 Lakhs - ₹80 Lakhs+ per annum      |
-| Smart Contract Developer (DeFi Focus)   | Mid-Level               | ₹30 Lakhs - ₹60 Lakhs per annum       |
-|                                         | Senior                  | ₹60 Lakhs - ₹1 Crore+ per annum      |
-| Institutional Sales & Business Development | Experienced Professional | ₹35 Lakhs - ₹75 Lakhs+ per annum, plus commission |
-| Legal & Compliance (Financial Regulation) | Experienced Professional | ₹30 Lakhs - ₹60 Lakhs+ per annum      |
-| Product Manager (FinTech/DeFi)         | Senior                  | ₹35 Lakhs - ₹70 Lakhs+ per annum      |
+| Role                                    | Experience Level        | Salary Range                     |
+|-----------------------------------------|-------------------------|----------------------------------|
+| DeFi Quantitative Analyst               | 3+ years                | Significant compensation per annum      |
+| Smart Contract Developer (DeFi Focus)   | Mid-Level               | Significant compensation per annum       |
+|                                         | Senior                  | Significant compensation per annum      |
+| Institutional Sales & Business Development | Experienced Professional | Significant compensation, plus commission |
+| Legal & Compliance (Financial Regulation) | Experienced Professional | Significant compensation per annum      |
+| Product Manager (FinTech/DeFi)         | Senior                  | Significant compensation per annum      |
 
 ### Building a Web3 Career in Mumbai
 
@@ -62,7 +62,7 @@ The demand for talent in Web3 is growing rapidly, significantly outpacing supply
 
 The dynamics of the Web3 job market differ markedly from Web2:
 
-- **Compensation**: Roles in Web3 generally offer salaries that are 20-40% higher than comparable Web2 positions, often supplemented with bonuses and equity.
+- **Compensation**: Roles in Web3 generally offer salaries that are higher than comparable Web2 positions, often supplemented with bonuses and equity.
   
 - **Remote Work Culture**: Most Web3 organizations operate in a remote-first environment, providing flexibility that is uncommon in traditional tech roles.
 
@@ -123,7 +123,7 @@ Focus on roles that combine your existing expertise with new Web3 knowledge:
 
 ### Transitioning from Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years at a FAANG company, learned Solidity over three months while maintaining his job. His contributions to an open-source protocol caught the attention of a major DeFi project, leading to a 50% salary increase and substantial equity upon his transition.
+Alex, a backend engineer with five years at a major tech company, learned Solidity over three months while maintaining his job. His contributions to an open-source protocol caught the attention of a major DeFi project, leading to a significant salary increase and substantial equity upon his transition.
 
 ### Product Manager in Web3
 
@@ -149,7 +149,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 A: No, Web3 requires diverse roles beyond engineering. Marketing managers, community leads, product designers, legal professionals, and business development specialists are in high demand. Your existing skills are applicable; you only need to understand the Web3 context, such as wallets, DAOs, and decentralization.
 
 **Q: What is the earning potential in Web3?**  
-A: Web3 compensation often exceeds equivalent Web2 roles by 30-60%. Solidity engineers and smart contract auditors see the most significant premiums due to high demand. Total compensation packages frequently include signing bonuses, equity in early-stage projects, and token allocations that can appreciate significantly.
+A: Web3 compensation often exceeds equivalent Web2 roles. Solidity engineers and smart contract auditors see the most significant premiums due to high demand. Total compensation packages frequently include signing bonuses, equity in early-stage projects, and token allocations that can appreciate significantly.
 
 **Q: Is transitioning to Web3 risky?**  
 A: Any career transition carries risk, including Web3 due to market volatility. Manage this risk by targeting established protocols with proven revenue, verifying team credentials, and ensuring base salaries are in fiat. Professionals who view Web3 as a long-term career move rather than a quick financial gain tend to build sustainable roles.
@@ -162,7 +162,7 @@ A: Historically, bear markets present excellent entry points into Web3. With spe
 
 ## Key Takeaways
 
-- Web3 offers significant compensation premiums, often 20-40% above Web2 equivalents, along with accelerated career advancement opportunities.
+- Web3 offers significant compensation premiums, often above Web2 equivalents, along with accelerated career advancement opportunities.
 - Most professionals can transition to Web3 within 2-6 months, with engineers and product managers typically moving fastest due to transferable skills.
 - Existing domain expertise is valuable in Web3. Focus on layering blockchain-specific knowledge onto your current skills.
 - Engaging with communities on Discord and Twitter, alongside a visible portfolio, often yields better results than formal certifications in landing Web3 roles.

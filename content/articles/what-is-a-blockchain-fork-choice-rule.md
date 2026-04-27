@@ -45,7 +45,7 @@ When a node sees two competing forks, it will simply continue to build on top of
 *   **Example**: Two miners, A and B, find a block at the same height. The network is split. Then, Miner C finds a new block and decides to build on top of Miner A's block. The A-C chain is now longer than the B chain. All nodes in the network that previously followed the B chain will now drop it and adopt the A-C chain as the canonical one.
 
 *   **Pros**: Simple, elegant, and has proven to be incredibly robust over more than a decade.
-*   **Cons**: It can be vulnerable to certain attacks like **[selfish mining](/selfish-mining-attack-explained-simply)**, where a miner secretly builds a longer chain to orphan the blocks of others. It also has a relatively high latency to finality; a block is only considered final after several more blocks are added on top of it (typically 6 confirmations in Bitcoin).
+*   **Cons**: It can be vulnerable to certain attacks like **[selfish mining](/selfish-mining-attack-explained-simply)**, where a miner secretly builds a longer chain to orphan the blocks of others. It also has a relatively high latency to finality; a block is only considered final after several more blocks are added on top of it.
 
 #### 2. LMD GHOST in Proof-of-Stake (e.g., Ethereum)
 
@@ -59,7 +59,7 @@ Instead of looking at which chain is the longest, LMD GHOST looks at which chain
 *   **GHOST (Greediest Heaviest Observed SubTree)**: To find the head of the chain, a node starts at the genesis block and recursively moves to the fork that has the most cumulative weight of votes. It continues this process until it reaches a block with no children, which it considers the head of the chain. It's "greedy" because at each fork, it chooses the "heaviest" (most voted-on) subtree.
 *   **LMD (Latest Message Driven)**: To prevent certain attacks, the "LMD" part adds a constraint: the only votes that are considered are the *latest* votes from each validator. If a validator votes for two different forks, only its most recent vote is counted. This makes the fork choice rule more stable and resistant to manipulation.
 
-*   **Example**: Imagine a fork. Fork A has attestations from validators representing 40% of the total stake. Fork B has attestations from validators representing 60% of the total stake. Under LMD GHOST, all nodes will choose Fork B as the canonical chain because it is the "heaviest."
+*   **Example**: Imagine a fork. Fork A has attestations from validators representing a significant portion of the total stake. Fork B has attestations from validators representing a larger portion of the total stake. Under LMD GHOST, all nodes will choose Fork B as the canonical chain because it is the "heaviest."
 
 *   **Pros**: Provides faster finality than Nakamoto Consensus. It is also more energy-efficient and better suited for the dynamics of a PoS system.
 *   **Cons**: More complex to implement and reason about than the simple longest chain rule.
@@ -70,7 +70,7 @@ The fork choice rule is directly tied to a blockchain's security and finality gu
 
 *   **Probabilistic Finality (PoW)**: In a system using the longest chain rule, finality is probabilistic. The longer a block has been in the chain, the more computationally difficult it becomes to create a longer, competing chain to "re-org" it out. This is why exchanges wait for multiple confirmations before crediting a deposit.
 
-*   **Economic Finality (PoS)**: In Ethereum's PoS, the fork choice rule works in concert with a finality gadget called Casper. While LMD GHOST determines the head of the chain on a moment-to-moment basis, Casper finalizes checkpoints (epochs). Once an epoch is finalized, it can only be reverted if an attacker is willing to destroy at least 1/3 of the total staked ETH in the network-an incredibly expensive attack. This provides a much stronger and faster guarantee of finality.
+*   **Economic Finality (PoS)**: In Ethereum's PoS, the fork choice rule works in concert with a finality gadget called Casper. While LMD GHOST determines the head of the chain on a moment-to-moment basis, Casper finalizes checkpoints (epochs). Once an epoch is finalized, it can only be reverted if an attacker is willing to destroy a significant portion of the total staked ETH in the network—an incredibly expensive attack. This provides a much stronger and faster guarantee of finality.
 
 ### Fork Choice Rules and Network Attacks
 
@@ -80,7 +80,7 @@ An attacker's goal is often to manipulate the fork choice rule.
 
 *   **Selfish Mining**: A more subtle attack where a minority miner can earn a disproportionate amount of revenue by strategically withholding their found blocks and only releasing them to orphan the blocks of other miners. This exploits the network latency inherent in the longest chain rule.
 
-*   **Liveness Attacks (PoS)**: In a PoS system, an attacker with a large amount of stake (e.g., 34%) could try to manipulate the fork choice by creating complex fork structures and withholding votes to prevent the network from finalizing. The LMD GHOST rule is designed with specific defenses against such scenarios.
+*   **Liveness Attacks (PoS)**: In a PoS system, an attacker with a large amount of stake could try to manipulate the fork choice by creating complex fork structures and withholding votes to prevent the network from finalizing. The LMD GHOST rule is designed with specific defenses against such scenarios.
 
 ### Frequently Asked Questions (FAQ)
 

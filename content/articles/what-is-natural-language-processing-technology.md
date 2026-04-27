@@ -111,8 +111,8 @@ Track your advancements. If results are not as expected, adjust your strategies 
 
 | Name  | Role                  | Initial Challenge                   | Outcome                           |
 |-------|-----------------------|-------------------------------------|-----------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Difficulty managing complex NLP tasks | Improved project efficiency by 30% within three months. |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Struggled with user feedback analysis | Enhanced product features and increased user satisfaction by 25%. |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Difficulty managing complex NLP tasks | Improved project efficiency within three months. |
+| Juan  | Product Manager in [DeFi](/what-is-defi) | Struggled with user feedback analysis | Enhanced product features and increased user satisfaction. |
 | Maya  | Transitioning from Web2 to Web3 | Adapting to a new tech environment | Successfully integrated into the team and contributed to key projects within two months. |
 
 ### Common Mistakes to Avoid

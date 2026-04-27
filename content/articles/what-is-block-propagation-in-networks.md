@@ -24,7 +24,7 @@ Understanding block propagation is essential for grasping the performance, secur
 | Goal                    | The objective is for all honest nodes to receive and accept the new block, maintaining a unified network state. |
 | Impact of Latency       | High latency can lead to increased forks and centralization risks, negatively affecting blockchain performance.|
 | Mechanism               | Propagation uses "gossip protocols," where nodes share new blocks with peers, propagating through the network. |
-| Innovations             | Solutions like compact blocks and specialized block relay networks (e.g., Falcon Network) enhance propagation speed. |
+| Innovations             | Solutions like compact blocks and specialized block relay networks enhance propagation speed. |
 
 ### The Block Propagation Process: A Step-by-Step Look
 
@@ -64,7 +64,7 @@ This advantage allows the large pool to start working on the next block earlier,
 
 ### Innovations to Improve Block Propagation
 
-Given the importance of propagation speed, developers have introduced several innovations to optimize the process. The primary challenge is that blocks can be large (up to 1MB or more), and transferring all that data takes time.
+Given the importance of propagation speed, developers have introduced several innovations to optimize the process. The primary challenge is that blocks can be large, and transferring all that data takes time.
 
 #### Compact Blocks (BIP 152)
 
@@ -107,12 +107,12 @@ Yes. An attacker might attempt an "eclipse attack," surrounding a specific node 
 
 The [Web3](/what-is-web3) sector is experiencing rapid growth, with demand for qualified talent significantly outpacing supply. Job postings for blockchain developers have increased steadily since 2021, even during market downturns when other tech sectors reduced hiring. Web3 offers unique advantages for career changers and experienced professionals, including:
 
-- Higher base compensation, typically 20-40% above Web2 equivalents.
+- Higher base compensation, typically above Web2 equivalents.
 - Meaningful equity and token allocations.
 - Fully remote roles with global teams.
 - Opportunities to work on technology reshaping finance, governance, and digital ownership.
 
-The talent shortage is particularly acute in areas such as smart contract development, protocol security, and tokenomics design. Qualified candidates often receive multiple competing offers shortly after entering the market. For professionals considering a career move, the combination of compensation premiums and career growth potential positions Web3 as a compelling sector to enter in 2026.
+The talent shortage is particularly acute in areas such as smart contract development, protocol security, and tokenomics design. Qualified candidates often receive multiple competing offers shortly after entering the market. For professionals considering a career move, the combination of compensation premiums and career growth potential positions Web3 as a compelling sector to enter.
 
 ### Market Context
 
@@ -120,7 +120,7 @@ The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamic
 
 | Factor                   | Web3 Dynamics                                                                                         |
 |--------------------------|-------------------------------------------------------------------------------------------------------|
-| Compensation             | Web3 roles typically pay 20-40% higher than equivalent Web2 positions, often with significant bonuses and equity. |
+| Compensation             | Web3 roles typically pay higher than equivalent Web2 positions, often with significant bonuses and equity. |
 | Remote-First Culture     | Most Web3 organizations function fully or primarily remote, offering greater flexibility than traditional tech. |
 | Growth Trajectory        | Career advancement occurs more rapidly in Web3 due to rapid company scaling and talent shortages.     |
 | Equity Upside            | [Token](/what-is-a-token) and equity packages are common, providing significant wealth-building potential. |
@@ -178,7 +178,7 @@ Target roles that utilize your existing expertise alongside your new Web3 knowle
 
 #### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol, which caught the attention of a major DeFi project. He transitioned into a smart contract engineering position with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol, which caught the attention of a major DeFi project. He transitioned into a smart contract engineering position with a significant salary increase and substantial equity.
 
 #### Product Manager in Web3
 
@@ -204,7 +204,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 No. The Web3 ecosystem requires more than just engineers. High demand exists for marketing managers, community leads, product designers, legal experts, operations specialists, and business development professionals. Your existing skills are valuable; you simply need to integrate Web3 context, such as understanding wallets, DAOs, and the importance of decentralization.
 
 **How much can I earn in Web3?**  
-Web3 compensation consistently exceeds Web2 equivalents. Base salaries average 30-60% higher, with Solidity engineers and smart contract auditors commanding the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn $200,000–$350,000 in total compensation, while non-technical roles also see meaningful premiums compared to Web2 positions.
+Web3 compensation consistently exceeds Web2 equivalents. Base salaries are often higher, with Solidity engineers and smart contract auditors commanding the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn significant total compensation, while non-technical roles also see meaningful premiums compared to Web2 positions.
 
 **Is it risky to transition to Web3?**  
 Every career transition carries some risk, and Web3 is no different, given market volatility and project lifecycles. Systematic risk management is essential: target well-funded, established protocols with proven revenue rather than speculative early-stage projects. Verify team track records and ensure your base salary is paid in fiat currency.
@@ -213,8 +213,8 @@ Every career transition carries some risk, and Web3 is no different, given marke
 Most professionals achieve a significant Web3 transition within 2-6 months of focused effort. Engineers and product managers typically progress quickly, as their core skills transfer directly. Non-technical roles like marketing and community management can transition in as little as 4-8 weeks with dedicated self-study.
 
 **What if the crypto market crashes?**  
-Historically, bear markets have been the best times to enter Web3 professionally. As speculative hype diminishes, teams focus on building real products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers tend to maintain steady hiring regardless of market conditions. Engineers who built during the 2018-2019 bear market are now among the most sought-after professionals.
+Historically, bear markets have been the best times to enter Web3 professionally. As speculative hype diminishes, teams focus on building real products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers tend to maintain steady hiring regardless of market conditions. Engineers who built during previous bear markets are now among the most sought-after professionals.
 
 ### Key Takeaways
 
-Web3 presents substantial compensation premiums (20-40% above Web2 equivalents), accelerated career growth opportunities, and the chance to contribute to technology reshaping finance, governance, and digital ownership globally. Most professionals complete meaningful transitions to Web3 within 2-6 months of concentrated effort, with engineers and product managers generally moving fastest due to the direct transferability of their core skills. Existing domain expertise remains valuable; layering blockchain-specific context onto pre-existing skills is crucial. Engaging with the Web3 community through Discord and Twitter, alongside visible portfolio projects on GitHub, consistently yields better results than formal certifications for securing Web3 roles. Joining well-funded, established protocols with proven revenue can mitigate the volatility risk inherent in the sector. The Web3 community is notably open and supportive, with numerous mentorship programs, educational resources, and active developer communities across major protocols.
+Web3 presents substantial compensation premiums, accelerated career growth opportunities, and the chance to contribute to technology reshaping finance, governance, and digital ownership globally. Most professionals complete meaningful transitions to Web3 within 2-6 months of concentrated effort, with engineers and product managers generally moving fastest due to the direct transferability of their core skills. Existing domain expertise remains valuable; layering blockchain-specific context onto pre-existing skills is crucial. Engaging with the Web3 community through Discord and Twitter, alongside visible portfolio projects on GitHub, consistently yields better results than formal certifications for securing Web3 roles. Joining well-funded, established protocols with proven revenue can mitigate the volatility risk inherent in the sector. The Web3 community is notably open and supportive, with numerous mentorship programs, educational resources, and active developer communities across major protocols.

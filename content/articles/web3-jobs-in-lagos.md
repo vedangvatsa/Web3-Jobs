@@ -34,26 +34,26 @@ Here is an overview of in-demand positions along with their salary ranges:
 
 | Role                                      | Skill Set Needed                  | Mid-Level Salary (NGN/month) | Senior Salary (NGN/month) |
 |-------------------------------------------|-----------------------------------|-------------------------------|----------------------------|
-| Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Secure and efficient DeFi applications | 1,800,000 - 3,500,000       | 3,500,000 - 6,000,000+     |
-| Full-Stack / Mobile Web3 Engineer        | React, React Native               | 1,200,000 - 2,800,000       | 2,800,000 - 5,000,000+     |
-| Product Manager (FinTech/Payments Focus) | Local market expertise             | N/A                           | 2,500,000 - 4,500,000+     |
-| Community and Growth Managers             | Market engagement                  | 1,000,000 - 2,500,000+      | N/A                        |
+| Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Secure and efficient DeFi applications | Competitive                   | Competitive                |
+| Full-Stack / Mobile Web3 Engineer        | React, React Native               | Competitive                   | Competitive                |
+| Product Manager (FinTech/Payments Focus) | Local market expertise             | N/A                           | Competitive                |
+| Community and Growth Managers             | Market engagement                  | Competitive                   | N/A                        |
 
 ### Salary Overview: Web3 Jobs in Lagos
 
 #### Local Opportunities
-- **Junior Developer (Local Startup):** NGN 1,200,000–2,000,000/month (~$830–$1,380 USD)
-- **Mid-Level Developer:** NGN 1,800,000–3,500,000/month (~$1,240–$2,410 USD)
-- **Community Manager (Growth-focused):** NGN 800,000–1,800,000/month (~$550–$1,240 USD)
-- **Business Development (Enterprise):** NGN 2,000,000–3,500,000/month (~$1,380–$2,410 USD)
+- **Junior Developer (Local Startup):** Competitive
+- **Mid-Level Developer:** Competitive
+- **Community Manager (Growth-focused):** Competitive
+- **Business Development (Enterprise):** Competitive
 
 #### Remote Opportunities
-- **Mid-Level Developer:** $3,000–$5,000/month
-- **Senior Developer:** $5,000–$9,000+/month
-- **Product Manager:** $3,500–$6,500/month
-- **Growth/Business Lead:** $2,500–$5,000/month
+- **Mid-Level Developer:** Competitive
+- **Senior Developer:** Competitive
+- **Product Manager:** Competitive
+- **Growth/Business Lead:** Competitive
 
-**Cost of Living Advantage:** Monthly expenses in Lagos range from $1,000 to $1,500. Earning a remote salary of $4,000 enables savings of 65–75%, providing a unique financial advantage.
+**Cost of Living Advantage:** Monthly expenses in Lagos are generally manageable. Earning a remote salary can enable significant savings, providing a unique financial advantage.
 
 ### Career Pathways to High Salaries
 
@@ -71,20 +71,20 @@ Here is an overview of in-demand positions along with their salary ranges:
 2. **Months 5-9: Develop a Commercial Portfolio**
    - Create a production remittance dApp.
    - Build a yield farming tool for Nigerian users.
-   - Obtain 1-2 freelance contracts on Upwork ($1,000–$3,000) from local startups.
+   - Obtain 1-2 freelance contracts on Upwork from local startups.
    - Publish research on the importance of DeFi for Nigeria.
    - **Deliverable:** Five projects, 1-2 paid contracts, and 2,000+ Twitter followers.
 
 3. **Months 10-14: Secure a Senior Remote Role**
    - Target DeFi protocols and FinTech companies focused on Africa.
-   - **Expected Offer:** $4,500–$7,000/month.
+   - **Expected Offer:** Competitive.
 
 4. **Months 15-16: Transition to Leadership**
    - Move into senior engineering or team lead roles, specializing in emerging markets FinTech.
-   - **Expected Compensation:** $6,000–$10,000+/month.
+   - **Expected Compensation:** Competitive.
 
 **Quick Wins:**
-- Consult for Nigerian startups at $100–$250/hour.
+- Consult for Nigerian startups at competitive rates.
 - Publish impactful content to gain visibility.
 - Secure grants for focused projects.
 
@@ -103,11 +103,11 @@ Here is an overview of in-demand positions along with their salary ranges:
 
 3. **Months 7-10: Monetize Leadership**
    - Approach protocols for leadership roles in Nigeria/West Africa.
-   - **Expected Offer:** $2,500–$4,000/month plus incentives.
+   - **Expected Offer:** Competitive.
 
 4. **Months 11-12: Formalize Your Role**
    - Secure a full-time growth/business development position.
-   - **Expected Compensation:** $3,500–$6,000/month or equity.
+   - **Expected Compensation:** Competitive or equity.
 
 **Quick Wins:**
 - Establish ambassador programs for major protocols.
@@ -121,18 +121,18 @@ Here is an overview of in-demand positions along with their salary ranges:
    - **Deliverable:** 30+ regular attendees and 1,000+ Twitter followers.
 
 2. **Months 4-6: Monetize Teaching**
-   - Start a paid bootcamp with a cohort of 50 students.
+   - Start a paid bootcamp with a cohort of students.
    - Explore freelance coaching opportunities.
-   - **Expected Income:** $1,000–$2,000/month from education.
+   - **Expected Income:** Competitive from education.
 
 3. **Months 7-10: Scale Your Education Business**
    - Transition to online bootcamps, reaching larger audiences.
    - Partner with protocols for sponsorships.
-   - **Expected Compensation:** $2,500–$4,500/month.
+   - **Expected Compensation:** Competitive.
 
 4. **Months 11-12: Formalize Your Role**
    - Shift to a full-time education or community lead position.
-   - **Expected Compensation:** $3,000–$6,000+/month or equity.
+   - **Expected Compensation:** Competitive or equity.
 
 **Quick Wins:**
 - Secure grants for educational initiatives.
@@ -208,7 +208,7 @@ Explore roles in community management, growth, or education that require minimal
 Attend local meetups, engage with the community on Twitter, and utilize platforms like Upwork for freelance opportunities.
 
 **What is the salary progression for someone starting today?**
-A realistic salary trajectory could start at $1,500–$3,000/month in Year 1, rising to $5,000–$12,000+/month in subsequent years through specialization and community involvement.
+A realistic salary trajectory could start at a competitive rate in Year 1, rising to a higher competitive rate in subsequent years through specialization and community involvement.
 
 **How do I network with top Web3 builders in Lagos?**
 Attend meetups and conferences, engage on Twitter, and consider starting your own events to build visibility and connections.
@@ -217,7 +217,7 @@ Attend meetups and conferences, engage on Twitter, and consider starting your ow
 Focus on building capital first. Accumulate savings while validating your startup idea before seeking external funding.
 
 **What Web3 companies are hiring from Lagos?**
-Major protocols like Aave, Compound, and many African-focused startups actively seek talent from Lagos.
+Major protocols and many African-focused startups actively seek talent from Lagos.
 
 **How do I avoid scams and rug pulls?**
 Focus on legitimate projects and educate others about safe practices in the crypto space.

@@ -23,7 +23,7 @@ Understanding wallets requires a grasp of private keys. Your private key is a lo
 
 ## Custodial Wallets: "Not Your Keys, Not Your Coins"
 
-A custodial wallet is one where a third party, known as the custodian, manages your private keys. Common examples include wallets provided by centralized exchanges like Coinbase, Binance, or Kraken.
+A custodial wallet is one where a third party, known as the custodian, manages your private keys. Common examples include wallets provided by centralized exchanges.
 
 When creating an account on these platforms and purchasing cryptocurrency, you do not directly hold the private keys. The exchange retains them for you, and you access your account using a username and password.
 
@@ -39,7 +39,7 @@ When creating an account on these platforms and purchasing cryptocurrency, you d
 | Disadvantages                             | Details                                               |
 |-------------------------------------------|-------------------------------------------------------|
 | **Lack of True Ownership**               | This significant drawback is encapsulated in the saying, "Not your keys, not your coins." You place your trust in the exchange to secure your assets. |
-| **Counterparty Risk**                    | If the exchange suffers a hack, faces bankruptcy (as seen with FTX), or undergoes government seizure, you risk losing your funds entirely. You are considered a creditor, not the direct owner of your assets. |
+| **Counterparty Risk**                    | If the exchange suffers a hack, faces bankruptcy, or undergoes government seizure, you risk losing your funds entirely. You are considered a creditor, not the direct owner of your assets. |
 | **Permissioned and Censorship-Prone**   | Exchanges can freeze accounts, block withdrawals, or reverse transactions if compelled by regulators. Access to your funds requires their permission. |
 | **Limited [Web3](/what-is-web3) Access** | Custodial wallets typically do not allow direct interaction with most [DeFi](/what-is-defi) protocols, [DAOs](/what-is-a-dao), or other decentralized applications (dApps). |
 
@@ -115,7 +115,7 @@ Regularly monitor your progress. Are you achieving desired outcomes? Adjust your
 
 ### Example 1: Sarah, the Developer
 
-Sarah works as a developer at a blockchain startup. Initially, she struggled with managing her private keys and securing her assets. After implementing effective strategies, she experienced significant improvements in her asset security and transaction efficiency within three months.
+Sarah works as a developer at a blockchain startup. Initially, she struggled with managing her private keys and securing her assets. After implementing effective strategies, she experienced improvements in her asset security and transaction efficiency within three months.
 
 ### Example 2: Juan, the Product Manager
 
@@ -140,7 +140,7 @@ Maya transitioned from Web2 to Web3, finding it challenging to adapt. By followi
 ## FAQ
 
 **Q: How long will it take to implement effective wallet management?**  
-A: Many users notice initial results within 2–4 weeks of consistent application. Significant improvements usually become apparent within 8–12 weeks. The timeline depends on your starting point, daily commitment, and openness to feedback. Professionals who actively track their progress tend to advance faster than those who observe passively.
+A: Many users notice initial results within a few weeks of consistent application. Significant improvements usually become apparent within a couple of months. The timeline depends on your starting point, daily commitment, and openness to feedback. Professionals who actively track their progress tend to advance faster than those who observe passively.
 
 **Q: What if my workplace environment does not support effective wallet management?**  
 A: Even in challenging environments, you often have more control than it appears. Start with small, self-contained actions that don't require wide organizational support, such as individual habits or personal projects. Gradually build momentum. If, after sustained effort, your environment remains unsupportive, this may indicate that seeking a more conducive workplace is necessary.

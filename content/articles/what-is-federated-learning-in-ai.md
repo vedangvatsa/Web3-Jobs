@@ -28,7 +28,7 @@ The process of federated learning involves a few key steps, coordinated by a cen
 
 4.  **Global Model Update**. The central server aggregates the updates from all the devices to create a new, improved global model. This is often done by averaging the parameters from all the updates. This new global model now contains the collective learnings from all the devices, without the server ever having seen the raw data.
 
-5.  **Repeat**. This process is repeated over many rounds, with the global model being sent out to different sets of devices for further training. Over time, the global model becomes more and more accurate, having learned from a vast and diverse dataset spread across millions of devices.
+5.  **Repeat**. This process is repeated over many rounds, with the global model being sent out to different sets of devices for further training. Over time, the global model becomes more accurate, having learned from a vast and diverse dataset spread across many devices.
 
 ### The Advantages of Federated Learning
 
@@ -68,7 +68,7 @@ No. To minimize the impact on your phone's battery life and performance, federat
 
 ## Why These Skills Matter
 
-These competencies are foundational for success in modern careers. Whether you're in [Web3](/what-is-web3), traditional tech, or any knowledge-intensive field, these skills determine your trajectory. Studies consistently show that these abilities have a 10-15 year ROI of 300-500%.
+These competencies are foundational for success in modern careers. Whether you're in [Web3](/what-is-web3), traditional tech, or any knowledge-intensive field, these skills determine your trajectory. Studies consistently show that these abilities have a significant return on investment.
 
 ## Comprehensive Skill Breakdown
 
@@ -126,9 +126,9 @@ Web3 teams are often distributed and move quickly. These skills directly impact 
 
 ### In Your Career Progression
 At each career level, these skills become more important:
-- **Junior Level:** Technical skills matter most, but communication increasingly important
+- **Junior Level:** Technical skills matter most, but communication becomes increasingly important
 - **Mid Level:** Balance of technical and soft skills; leadership potential emerges
-- **Senior Level:** Soft skills become 70% of your effectiveness
+- **Senior Level:** Soft skills become a significant portion of your effectiveness
 - **Leadership:** Emotional intelligence and communication dominate
 
 ## Common Development Mistakes
@@ -141,7 +141,7 @@ At each career level, these skills become more important:
 
 4. **Comparing to Others** - Your skill development is your unique journey. Focus on your own progression.
 
-5. **Expecting Quick Mastery** - Genuine skill development takes years. Enjoy the process.
+5. **Expecting Quick Mastery** - Genuine skill development takes time. Enjoy the process.
 
 ## Resources for Continued Learning
 
@@ -181,11 +181,11 @@ A: Absolutely. In fact, they're even more critical in Web3 due to distributed te
 
 ## Key Takeaways
 
-- These skills compound over years, providing massive ROI
+- These skills compound over years, providing significant return on investment
 - Development requires consistent practice, not just study
 - Soft skills become increasingly important as you progress
 - Feedback and mentorship accelerate learning
 - Build skills by applying them in real projects
 - Emotional intelligence is your hidden advantage
 
-The most successful professionals in Web3 and beyond aren't always the most technically brilliant-they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.
+The most successful professionals in Web3 and beyond aren't always the most technically brilliant; they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.

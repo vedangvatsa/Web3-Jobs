@@ -112,7 +112,7 @@ Track your progress and results. Be prepared to adapt your approach based on out
 ### Real-World Examples
 
 #### Example 1
-Consider Sarah, a blockchain developer at a startup. Initially struggling with understanding JIT liquidity, she implemented targeted strategies. Within three months, she significantly improved her trading performance metrics, particularly in fee generation.
+Consider Sarah, a blockchain developer at a startup. Initially struggling with understanding JIT liquidity, she implemented targeted strategies. Within a few months, she significantly improved her trading performance metrics, particularly in fee generation.
 
 #### Example 2
 Juan, a product manager in DeFi, faced challenges related to liquidity strategies. By applying the framework outlined here, he successfully enhanced his product's efficiency in capturing trading fees. His experience illustrates the effectiveness of these principles in practice.

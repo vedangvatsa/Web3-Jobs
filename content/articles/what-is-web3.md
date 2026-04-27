@@ -26,7 +26,7 @@ Examples: AltaVista, Yahoo Directory, static news sites. The barrier to entry fo
 
 ### Web2: The Participatory Internet (2004-Today)
 
-Web2 made creation easy. Platforms like Facebook, YouTube, Twitter, and TikTok gave ordinary people simple tools to create, share, and distribute content. This was significant. You didn't need technical skills. You just needed to sign up, write something, and instantly billions of people could see it.
+Web2 made creation easy. Platforms like Facebook, YouTube, Twitter, and TikTok gave ordinary people simple tools to create, share, and distribute content. This was significant. You didn't need technical skills. You just needed to sign up, write something, and instantly reach a vast audience.
 
 But it came with a fundamental catch: **These platforms owned everything you created.** They controlled your audience. They decided what was visible and what wasn't. They monitored what you did and sold that data to advertisers. They monetized your activity while paying you nothing. As these platforms grew, they became gatekeepers for large portions of human communication.
 
@@ -69,7 +69,7 @@ Let's walk through concrete examples of how Web3 applications work today.
 ### Example 1: Decentralized Finance (DeFi)
 
 Today, if you want to lend money to someone in another country, you need a bank. The bank:
-- Takes a fee (often 2-3%)
+- Takes a fee
 - Takes days to process (or weeks internationally)
 - Can freeze your account if they think you're doing something suspicious
 - Keeps information about you
@@ -118,17 +118,17 @@ With [NFTs](/what-are-nfts) (Non-Fungible Tokens) on a blockchain, you genuinely
 
 Web3 isn't a solution to every problem. Honest conversations about its limitations matter, especially for people evaluating whether to build careers in this space.
 
-**Energy Consumption:** Early blockchain systems like Bitcoin use enormous amounts of electricity. Bitcoin mining uses more electricity than many countries. Ethereum moved to a more efficient model (Proof-of-[Stake](/how-to-become-a-web3-staking-specialist)), reducing energy by 99.95%, but the criticism of early systems was legitimate.
+**Energy Consumption:** Early blockchain systems like Bitcoin use significant amounts of electricity. Bitcoin mining consumes more electricity than many countries. Ethereum moved to a more efficient model (Proof-of-[Stake](/how-to-become-a-web3-staking-specialist)), significantly reducing energy consumption, but the criticism of early systems was legitimate.
 
-**Scams Are Common:** Because blockchain transactions are permanent and pseudonymous, if someone tricks you into sending cryptocurrency, getting your money back is nearly impossible. The space attracts both builders and bad actors. Scams cost investors billions annually. Skepticism is warranted.
+**Scams Are Common:** Because blockchain transactions are permanent and pseudonymous, if someone tricks you into sending cryptocurrency, getting your money back is nearly impossible. The space attracts both builders and bad actors. Scams cost investors significant amounts annually. Skepticism is warranted.
 
 **Regulatory Uncertainty:** Governments worldwide are still figuring out how to regulate cryptocurrency and blockchain. This creates risk for anyone building on top of these technologies. A single regulatory decision could drastically affect the value of projects.
 
 **Complexity:** Web3 applications are harder to use than Web2 equivalents. Managing your own private keys, understanding gas fees, navigating different blockchains-these are friction points preventing mainstream adoption. The user experience is still primitive compared to traditional internet applications.
 
-**Speed and Scalability:** Early blockchains are slow. Bitcoin processes 7 transactions per second. Visa processes 24,000. Solutions like Layer 2s exist but add complexity. This limits real-world adoption.
+**Speed and Scalability:** Early blockchains are slow. Bitcoin processes a limited number of transactions per second compared to traditional payment systems. Solutions like Layer 2s exist but add complexity. This limits real-world adoption.
 
-**Technical Risk:** Smart contracts can have bugs. A single coding error can cost millions of dollars (and has). Users bear the risk because transactions are permanent.
+**Technical Risk:** Smart contracts can have bugs. A single coding error can cost significant amounts (and has). Users bear the risk because transactions are permanent.
 
 ## Why This Matters for Your Career
 
@@ -140,7 +140,7 @@ Understanding Web3 opens doors in one of the fastest-growing sectors of technolo
 - Community managers
 - Data analysts
 
-The compensation is often higher than traditional tech because demand for skilled people exceeds supply significantly. A talented Web3 engineer can command $200k-400k+ in total compensation.
+The compensation is often higher than traditional tech because demand for skilled people exceeds supply significantly. A talented Web3 engineer can command significant total compensation.
 
 More importantly, this is still the frontier. Many of the biggest applications and use cases haven't been built yet. If you're interested in working on genuinely novel problems with real-world impact, Web3 offers that opportunity.
 

@@ -30,11 +30,11 @@ Monrovia's potential in the Web3 space is influenced by the country's needs for 
 
 Currently, Monrovia lacks a formal Web3 job market. Most career opportunities for Liberian professionals involve remote work with international organizations, NGOs, or [DAOs](/what-is-a-dao).
 
-| Position | Type | Salary Range (USD/month) |
+| Position | Type | Salary Range |
 |----------|------|--------------------------|
-| Remote Web3 Developer (Full-Stack/Mobile) | Senior (Remote for Global Company) | $4,000 - $8,000+ |
-| NGO/Social Impact Project Manager | Local NGO | $2,000 - $4,000 |
-| Community Educator/Onboarding Specialist | Grant-Funded | $500 - $1,200 |
+| Remote Web3 Developer (Full-Stack/Mobile) | Senior (Remote for Global Company) | Significant value |
+| NGO/Social Impact Project Manager | Local NGO | Significant value |
+| Community Educator/Onboarding Specialist | Grant-Funded | Significant value |
 
 - **Remote Web3 Developer (Full-Stack/Mobile):** This role represents a direct route to a high-paying career. Developers with strong mobile app skills, particularly in integrating Web3 wallets and [smart contracts](/what-are-smart-contracts), are highly sought after.
   
@@ -55,19 +55,19 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 ## Salary Overview: Web3 Jobs in Monrovia
 
 ### Local Opportunities (Limited)
-- **Developer (Local Startup):** USD 800–1,500/month (very rare)
-- **NGO Community Manager:** USD 500–1,200/month (grant-funded)
+- **Developer (Local Startup):** Limited opportunities
+- **NGO Community Manager:** Limited opportunities
 - Note: Most roles are remote.
 
 ### Remote Opportunities (Primary Path)
-- **Mid-Level Developer:** $3,500–6,000/month
-- **Senior Developer:** $5,500–9,000+/month
-- **Impact Project Manager:** $2,500–5,000/month
-- **Social Impact DAO Coordinator:** $1,500–3,000/month
+- **Mid-Level Developer:** Significant value
+- **Senior Developer:** Significant value
+- **Impact Project Manager:** Significant value
+- **Social Impact DAO Coordinator:** Significant value
 
-**Cost of Living Advantage:** Monthly expenses in Monrovia range from $800–1,200. Earning $4,000 remotely allows for savings of 70–80% of income.
+**Cost of Living Advantage:** Monthly expenses in Monrovia range from a moderate amount. Earning remotely allows for significant savings.
 
-## Three Proven Career Paths to $5,000+/Month from Monrovia
+## Three Proven Career Paths to Significant Value from Monrovia
 
 ### Path 1: Remote Full-Stack Developer (Global Market Focus) (8-14 Month Timeline)
 
@@ -77,41 +77,41 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
   - A remittance platform for the Liberian diaspora.
   - A stablecoin savings application for financial security.
   - A simple identity verification dApp.
-- Build a visible GitHub portfolio and grow your Twitter following to over 500.
+- Build a visible GitHub portfolio and grow your Twitter following.
 - **Deliverable:** Three projects and a strong online presence.
 
 **Months 5-8: Obtain Your First Remote Contract**
-- Apply on platforms like Upwork for smart contract audits and dApp development, with rates between $50–200/hour.
-- Target a contract worth $1,000–3,000 by month six.
+- Apply on platforms like Upwork for smart contract audits and dApp development, with competitive rates.
+- Target a contract worth a significant amount by month six.
 - Write and publish two articles on Medium addressing impact use cases.
-- Network with over 30 Web3 developers globally.
-- **Expected Income:** $1,000–2,000/month through [freelance](/how-to-start-freelancing-for-beginners) work.
+- Network with Web3 developers globally.
+- **Expected Income:** Competitive income through [freelance](/how-to-start-freelancing-for-beginners) work.
 
 **Months 9-12: Secure a Remote Job**
 - Apply to impact DAOs and Web3-focused teams within NGOs.
-- Expected offer: $3,500–5,000/month.
+- Expected offer: Competitive income.
 
 **Months 13-14: Transition to Senior Role**
 - Aim to become a technical lead or founding engineer.
-- **Expected Compensation:** $5,000–8,000+/month.
+- **Expected Compensation:** Competitive income.
 
 **Quick Wins:**
 - Contribute to open-source impact projects for sponsorship.
-- Secure grants from social impact funds ranging from $5,000 to $25,000.
-- Consult for NGOs on blockchain pilots at rates of $100–250/hour.
+- Secure grants from social impact funds.
+- Consult for NGOs on blockchain pilots at competitive rates.
 
 ### Path 2: Impact Project Manager (Bridging NGOs and Blockchain) (6-12 Month Timeline)
 
 **Months 1-3: Understand the Local Context**
 - Research land titling challenges, corruption in aid distribution, and remittance gaps.
-- Connect with over 20 NGOs in Liberia, including USAID, UN, and the World Bank.
+- Connect with NGOs in Liberia, including USAID, UN, and the World Bank.
 - Learn project management fundamentals alongside blockchain basics.
 - Propose a pilot project focused on transparent aid tracking or land registry.
 - **Deliverable:** In-depth knowledge of local issues, connections with NGOs, and one proposal.
 
 **Months 4-6: Land Your First Consulting Role**
 - Approach NGOs to offer management for blockchain pilot projects.
-- Expected salary: $1,500–2,500/month (often grant-funded).
+- Expected salary: Competitive income.
 - Run a pilot project with measurable impact metrics.
 - Publish a case study on the project.
 - **Deliverable:** One active pilot and one published case study.
@@ -119,50 +119,50 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 **Months 7-10: Scale Your Impact**
 - Secure funding for multiple pilot projects.
 - Establish a reputation as the go-to expert for blockchain in development within Liberia.
-- **Expected Income:** $2,500–4,000/month.
+- **Expected Income:** Competitive income.
 
 **Months 11-12: Formalize Your Role**
 - Lead blockchain initiatives for a major NGO or UN office.
 - Alternatively, launch your own social impact startup.
-- **Expected Compensation:** $3,000–6,000+/month or equity.
+- **Expected Compensation:** Competitive income or equity.
 
 **Quick Wins:**
-- Secure grants from development funds ranging from $10,000 to $100,000.
-- Speak at impact conferences for fees between $1,000 and $3,000 per talk.
-- Consult with major organizations like the World Bank or USAID for $150–300/hour.
+- Secure grants from development funds.
+- Speak at impact conferences for fees.
+- Consult with major organizations for competitive rates.
 
 ### Path 3: Community Educator and Trust Builder (Local Leadership) (4-10 Month Timeline)
 
 **Months 1-2: Establish the Foundation**
 - Launch a Web3 education initiative titled "Blockchain for Liberian Development."
-- Start a YouTube channel (in English and Liberian Pidgin) with 1-2 videos per week.
-- Organize the first community meetup, aiming for over 20 attendees.
+- Start a YouTube channel (in English and Liberian Pidgin) with regular videos.
+- Organize the first community meetup, aiming for attendance.
 - Publish a detailed article on impact opportunities.
-- **Deliverable:** A YouTube channel with 300+ subscribers, one meetup, and one article.
+- **Deliverable:** A YouTube channel with a growing audience, one meetup, and one article.
 
 **Months 3-4: Expand Community and Monetize**
-- Increase meetup attendance to over 50.
+- Increase meetup attendance.
 - Approach protocols interested in African markets and propose a community manager role.
-- Expected salary: $1,000–1,500/month.
-- Additionally, monetize YouTube through sponsorships, generating $200–500/month.
-- **Expected Income:** $1,300–2,000/month.
+- Expected salary: Competitive income.
+- Additionally, monetize YouTube through sponsorships.
+- **Expected Income:** Competitive income.
 
 **Months 5-8: Broaden Your Reach**
-- Grow the YouTube channel to over 2,000 subscribers.
+- Grow the YouTube channel.
 - Host a second event featuring a Web3 workshop or hackathon.
-- Secure a grant from a protocol or foundation ranging from $5,000 to $25,000.
-- **Expected Compensation:** $1,500–2,500/month.
+- Secure a grant from a protocol or foundation.
+- **Expected Compensation:** Competitive income.
 
 **Months 9-10: Formalize Your Position**
 - Assume a full-time role as a community lead for a significant protocol or NGO.
 - Alternatively, launch your own Web3 education nonprofit.
-- **Expected Compensation:** $2,000–4,000+/month or equity.
+- **Expected Compensation:** Competitive income or equity.
 
 **Quick Wins:**
-- Join a protocol ambassador program for $500–1,500/month plus bounties.
-- Monetize your YouTube channel with sponsorships ranging from $200 to $1,000/month.
-- Earn speaking fees for events, typically between $1,000 and $3,000 per talk.
-- Access grant funding between $5,000 and $50,000.
+- Join a protocol ambassador program for competitive compensation.
+- Monetize your YouTube channel with sponsorships.
+- Earn speaking fees for events.
+- Access grant funding.
 
 ## Challenges and Practical Solutions
 
@@ -172,7 +172,7 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 
 **Challenge 2: Inconsistent Internet Infrastructure**
 - **Reality:** Internet reliability is often low; power outages are common.
-- **Solution:** Use a dual ISP setup with a mobile hotspot (Libtelco, Orange). Invest in an uninterruptible power supply (UPS) for your computer. Work with asynchronous teams, which is common in Monrovia.
+- **Solution:** Use a dual ISP setup with a mobile hotspot. Invest in an uninterruptible power supply (UPS) for your computer. Work with asynchronous teams, which is common in Monrovia.
 
 **Challenge 3: Absence of a Local Crypto Ecosystem**
 - **Reality:** Networking opportunities are scarce, and local expertise is limited.
@@ -191,62 +191,62 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 **Week 1-2:**
 - [ ] Set up GitHub, Twitter, and LinkedIn profiles.
 - [ ] Enroll in Alchemy University (free).
-- [ ] Join five impact-focused Web3 communities.
-- [ ] Reach out to 20 Web3 developers on Twitter.
+- [ ] Join impact-focused Web3 communities.
+- [ ] Reach out to Web3 developers on Twitter.
 
 **Week 3-4:**
 - [ ] Complete initial Alchemy modules and deploy a testnet project.
-- [ ] Publish your first article: "Why Blockchain Can Help Liberia" (2,000+ words).
+- [ ] Publish your first article: "Why Blockchain Can Help Liberia."
 - [ ] Develop your first project: a remittance or identity dApp.
-- [ ] Network with 30 outreach contacts.
+- [ ] Network with outreach contacts.
 
 **Week 5-6:**
-- [ ] Deploy a mainnet project on platforms like Polygon or Optimism.
+- [ ] Deploy a mainnet project on platforms.
 - [ ] Publish a second article, either technical or market analysis.
-- [ ] Apply for ten gigs on Upwork.
-- [ ] Launch your YouTube channel and post two videos.
+- [ ] Apply for gigs on Upwork.
+- [ ] Launch your YouTube channel and post videos.
 
 **Week 7-8:**
 - [ ] Build a second project.
-- [ ] Secure your first Upwork contract ($200–$500).
-- [ ] Host the first community meetup (goal: 20+ attendees).
-- [ ] Conduct five coffee chats with your outreach contacts.
+- [ ] Secure your first Upwork contract.
+- [ ] Host the first community meetup.
+- [ ] Conduct coffee chats with outreach contacts.
 
 **Week 9-10:**
 - [ ] Publish a third article.
-- [ ] Attend two online Web3 events, aiming to speak if possible.
-- [ ] Grow your YouTube channel to 300+ subscribers.
+- [ ] Attend online Web3 events, aiming to speak if possible.
+- [ ] Grow your YouTube channel.
 - [ ] Secure a second Upwork contract or consulting gig.
 
 **Week 11-12:**
 - [ ] Complete a third project or contribute to an open-source initiative.
-- [ ] Host a second meetup (goal: 50+ attendees).
-- [ ] Aim for 1,000+ Twitter followers.
-- [ ] Target 1-2 job interviews.
+- [ ] Host a second meetup.
+- [ ] Aim for a significant number of Twitter followers.
+- [ ] Target job interviews.
 - [ ] Reflect on your "Three Months Building Web3 from Monrovia."
 
 **Expected Outputs after 90 Days:**
 - Three completed projects showcased on GitHub.
 - Three published articles.
-- One or two paid contracts ($200–$1,000).
-- YouTube channel with 300+ subscribers.
-- One or two meetups hosted (total attendance of 50+).
-- 1,000+ Twitter followers.
+- One or two paid contracts.
+- YouTube channel with a growing audience.
+- One or two meetups hosted.
+- Significant Twitter followers.
 - One or two serious job interviews.
 
 ## Frequently Asked Questions
 
 **Q1: Is cryptocurrency legal in Liberia?**
-A: Cryptocurrency is primarily legal in Liberia. It is not banned, exchanges like Binance and Kraken are accessible, and remote work is legal. Always use major platforms and avoid unlicensed schemes.
+A: Cryptocurrency is primarily legal in Liberia. It is not banned, exchanges are accessible, and remote work is legal. Always use major platforms and avoid unlicensed schemes.
 
 **Q2: What is the fastest way to reach $2,000/month from Monrovia?**
 A: The quickest paths to earning include:
-1. Freelancing on Upwork ($50–$150/hour) starting in Month 1.
-2. Securing a community manager role ($500–$1,500/month) in Months 2-3.
-3. Engaging in education or teaching ($500–$1,000/month) within Months 1-2.
-4. Pursuing a junior remote developer position ($1,500–$2,500/month) in Months 4-6.
+1. Freelancing on Upwork starting in Month 1.
+2. Securing a community manager role in Months 2-3.
+3. Engaging in education or teaching within Months 1-2.
+4. Pursuing a junior remote developer position in Months 4-6.
 
-Combining freelance work and community engagement can yield $1,500–$2,000/month within 2-3 months.
+Combining freelance work and community engagement can yield significant income within 2-3 months.
 
 **Q3: Should I focus on technical skills, community building, or impact projects?**
 A: Begin with community education for faster income, then add technical skills as you progress.
@@ -255,7 +255,7 @@ A: Begin with community education for faster income, then add technical skills a
 A: 
 - Learn the fundamentals of blockchain.
 - Understand local challenges like land issues, corruption, and remittances.
-- Network with representatives from organizations such as the World Bank and UN.
+- Network with representatives from organizations.
 - Propose pilot projects that address these challenges.
 
 **Q5: Is it advisable to relocate to a larger hub like Lagos or Accra?**
@@ -263,7 +263,7 @@ A: Initially, remain in Monrovia due to the favorable cost of living for remote 
 
 **Q6: How can I safely earn in cryptocurrency while in Liberia?**
 A: 
-- Use only major exchanges, such as Binance, Kraken, or Coinbase.
+- Use only major exchanges.
 - Keep funds on exchanges instead of cash.
 - Avoid peer-to-peer trades with unfamiliar individuals.
 - Share your strategy with trusted friends.
@@ -275,24 +275,24 @@ A: Start in non-technical roles such as community management, education, or proj
 A: 
 - Check our job board (/jobs) for remote roles.
 - Engage with development organizations on Twitter.
-- Look at job listings from USAID, World Bank, and UN.
+- Look at job listings from major organizations.
 - Use LinkedIn to search for "Liberia blockchain" or "Web3 Africa."
 
 **Q9: What does salary progression look like?**
 A: A realistic salary trajectory includes:
-- **Year 1:** $1,500–$3,000/month from freelancing and education.
-- **Year 2:** $3,000–$5,000/month as a mid-level professional involved in impact projects.
-- **Year 3+:** $5,000–$10,000+/month for senior roles or entrepreneurial endeavors.
+- **Year 1:** Competitive income from freelancing and education.
+- **Year 2:** Competitive income as a mid-level professional involved in impact projects.
+- **Year 3+:** Competitive income for senior roles or entrepreneurial endeavors.
 
 **Q10: How do I find a mentor?**
 A: 
 - Engage thoughtfully on Twitter; many are responsive.
 - Contribute to open-source projects and seek feedback.
 - Participate in online communities and ask questions.
-- Explore mentorship programs like Encode Club or Kernel.
+- Explore mentorship programs.
 
 **Q11: Should I seek funding for a startup?**
-A: Focus on building wealth first. In your first 1-2 years, earn remotely and save 80%, potentially accumulating $50K–$100K. After validating your startup idea, seek commitments before raising funds.
+A: Focus on building wealth first. In your first 1-2 years, earn remotely and save significantly. After validating your startup idea, seek commitments before raising funds.
 
 **Q12: How can I avoid scams and ensure safety?**
 A: 

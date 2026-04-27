@@ -19,16 +19,16 @@ The Web3 ecosystem in Lome emphasizes mobile-first financial solutions and serve
 ### Togo's FinTech Leadership
 
 Lome is at the forefront of digital finance innovation within Togo, a country that has emerged as a leader on the continent:
-- **Mobile Money Penetration:** Approximately 50% of the population uses mobile money services, surpassing many other African nations.
+- **Mobile Money Penetration:** A significant portion of the population uses mobile money services, surpassing many other African nations.
 - **Government Digital Payments:** The successful deployment of a mobile-based cash transfer system during the pandemic showcased Togo's adaptability.
 - **Regulatory Support:** The creation of a regulatory sandbox for FinTech startups encourages innovation.
 - **International Recognition:** Togo has been selected by the World Bank and the IMF as a case study for FinTech innovation.
 
 **Blockchain Integration Potential:**
 Togo has demonstrated its capacity to implement digital financial solutions effectively. The next step involves decentralization:
-- Current mobile money services, such as those from MTN and Moov, impose fees ranging from 2% to 5%; blockchain technology could potentially reduce this to less than 0.5%.
+- Current mobile money services, such as those from MTN and Moov, impose fees; blockchain technology could potentially reduce this significantly.
 - Government cash transfers are currently processed in batches; blockchain technology could facilitate real-time transaction settlements.
-- International remittance costs range from 8% to 10%; stablecoins could lower this to 1% to 2%.
+- International remittance costs are relatively high; stablecoins could lower this considerably.
 - Existing financial inclusion infrastructure lays the groundwork for the addition of a Web3 layer.
 
 ### Strategic Location in Francophone Africa
@@ -36,7 +36,7 @@ Togo has demonstrated its capacity to implement digital financial solutions effe
 Lome is centrally located in Francophone West Africa:
 - It is part of the West African Economic and Monetary Union (WAEMU).
 - The city maintains strong economic ties to Senegal, Ivory Coast, Benin, and Burkina Faso.
-- Lome serves as a gateway to Anglophone Nigeria, with a population exceeding 200 million.
+- Lome serves as a gateway to Anglophone Nigeria, with a large population.
 - Historical and linguistic connections to France, Belgium, and Luxembourg enhance its appeal.
 
 **Implications:**
@@ -70,10 +70,10 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 ### Major Web3 Initiatives in Togo
 
 **Mobile Money Blockchain Integration:**
-Several startups are investigating how to layer blockchain technology on existing mobile money frameworks. The primary challenge is to replace the existing 2% to 5% transaction fees while adhering to regulatory compliance.
+Several startups are investigating how to layer blockchain technology on existing mobile money frameworks. The primary challenge is to replace the existing transaction fees while adhering to regulatory compliance.
 
 **Stablecoin Adoption:**
-USDC and other stablecoins are becoming popular for:
+Stablecoins are becoming popular for:
 - Cross-border remittances
 - International business transactions
 - Maintaining price stability compared to local currency fluctuations
@@ -97,13 +97,13 @@ The central bank of Togo is assessing options for a digital currency, which will
 - CBDC pilot applications
 
 **Compensation:**
-- **Entry Level (0-2 years):** $2,000 - $3,500/month (remote international)
-- **Mid-Level (2-5 years):** $3,500 - $6,000/month
-- **Senior (5+ years):** $6,000 - $10,000+/month
+- **Entry Level (0-2 years):** Competitive salary range (remote international)
+- **Mid-Level (2-5 years):** Competitive salary range
+- **Senior (5+ years):** Competitive salary range
 
 **Local vs. Remote:**
-- Local companies in Lome typically offer $800 - $2,000/month.
-- Remote positions with international companies command 3-5 times higher salaries (based on international market rates).
+- Local companies in Lome typically offer competitive salaries.
+- Remote positions with international companies command significantly higher salaries (based on international market rates).
 
 **Required Skills:**
 - Proficiency in React Native or Flutter for mobile development
@@ -123,9 +123,9 @@ The central bank of Togo is assessing options for a digital currency, which will
 - Basic knowledge of blockchain technology
 
 **Compensation:**
-- **Local roles:** $2,000 - $4,000/month
-- **Remote positions with international NGOs:** $4,000 - $8,000/month
-- **Startups offering equity:** $3,000 - $6,000/month plus 0.5-2% equity
+- **Local roles:** Competitive salary range
+- **Remote positions with international NGOs:** Competitive salary range
+- **Startups offering equity:** Competitive salary range plus equity
 
 **Key Value Proposition:**
 You possess expertise in payment systems, which many existing product managers lack, combined with knowledge of blockchain technology, making your skills both rare and valuable.
@@ -142,9 +142,9 @@ You possess expertise in payment systems, which many existing product managers l
 - Building trust to prevent scams
 
 **Compensation:**
-- **Self-initiated roles:** Start at $0; can increase to $500 - $2,000/month as credibility builds.
-- **NGO-funded positions:** $2,000 - $4,000/month
-- **Grants from DAOs:** $1,000 - $5,000/month for specific initiatives
+- **Self-initiated roles:** Start at a variable range; can increase as credibility builds.
+- **NGO-funded positions:** Competitive salary range
+- **Grants from DAOs:** Variable range for specific initiatives
 
 **Significance:**
 In Lome's evolving Web3 ecosystem, those who educate their communities often emerge as leaders. Community managers frequently transition into larger roles, such as product management or consulting.
@@ -154,9 +154,9 @@ In Lome's evolving Web3 ecosystem, those who educate their communities often eme
 **Opportunity:** As CBDC and digital payment initiatives expand, there is a growing need for developers who comprehend protocol-level blockchain architecture.
 
 **Compensation:**
-- **Junior Developers:** $3,000 - $5,000/month (remote)
-- **Mid-Level Developers:** $5,000 - $8,000/month
-- **Senior Developers:** $8,000 - $15,000+/month
+- **Junior Developers:** Competitive salary range (remote)
+- **Mid-Level Developers:** Competitive salary range
+- **Senior Developers:** Competitive salary range
 
 **Required Skills:**
 - Proficiency in Solidity or Rust
@@ -235,7 +235,7 @@ Unlike many African cities, Lome has successfully deployed large-scale digital p
 ### Historical Success: Cash Transfer Program
 
 During the COVID-19 pandemic, Togo effectively implemented emergency cash transfers to vulnerable populations via mobile money. Key statistics include:
-- **Scale:** Over 500,000 recipients reached.
+- **Scale:** A significant number of recipients reached.
 - **Speed:** Implementation completed in weeks.
 - **Cost Efficiency:** Operational costs were lower than traditional banking methods.
 - **Key Insights:** The government gained valuable experience in understanding digital payment infrastructure.
@@ -247,16 +247,16 @@ The government has demonstrated its ability to rapidly deploy digital financial 
 
 | Role                     | Local (Lome)         | Remote (International) | Notes                      |
 |--------------------------|----------------------|------------------------|----------------------------|
-| Mobile Developer          | $1,200 - $2,500/month | $3,500 - $6,000/month  | 2-3x salary difference     |
-| Product Manager           | $1,500 - $3,000/month | $4,000 - $8,000/month  | 2-3x salary difference     |
-| Community Lead            | $800 - $1,500/month   | $1,500 - $3,000/month  | Smaller salary disparity   |
-| Protocol Developer        | $2,500 - $4,000/month | $5,000 - $10,000+/month | 2-3x salary difference     |
+| Mobile Developer          | Competitive salary range | Competitive salary range  | 2-3x salary difference     |
+| Product Manager           | Competitive salary range | Competitive salary range  | 2-3x salary difference     |
+| Community Lead            | Competitive salary range   | Competitive salary range  | Smaller salary disparity   |
+| Protocol Developer        | Competitive salary range | Competitive salary range | 2-3x salary difference     |
 
 **Cost of Living in Lome:**
-- Rent for a decent apartment: $300 - $600/month
-- Average food expenses: $200 - $400/month
+- Rent for a decent apartment: Competitive range
+- Average food expenses: Competitive range
 - Overall living costs: Generally lower than in most global cities.
-- A $3,500/month [remote job](/remote-work-in-web3) significantly improves living standards.
+- A remote job significantly improves living standards.
 
 ## Challenges and Realistic Expectations
 
@@ -273,9 +273,9 @@ The formal Web3 job market in Lome is still in its infancy. Most opportunities c
 ### 2. Internet Infrastructure
 
 **Current Infrastructure:**
-- Average speeds range from 10-20 Mbps, sufficient for development.
+- Average speeds are sufficient for development.
 - Generally reliable internet connectivity in central Lome.
-- Monthly costs for decent connections range from $20 to $50.
+- Monthly costs for decent connections are reasonable.
 - Having a 4G mobile hotspot can provide necessary backup.
 
 **Implications:**
@@ -316,7 +316,7 @@ The formal Web3 job market in Lome is still in its infancy. Most opportunities c
 - Enroll in a blockchain fundamentals course.
 - Gain an understanding of Togo's FinTech ecosystem.
 - Research basic payment system mechanics.
-- Familiarize yourself with stablecoins like USDC and DAI.
+- Familiarize yourself with stablecoins.
 
 **Weeks 3-4: Local Exploration**
 - Connect with the Lome tech community via LinkedIn and relevant Facebook groups.
@@ -344,8 +344,8 @@ The formal Web3 job market in Lome is still in its infancy. Most opportunities c
 - Reach out to contacts within government agencies and NGOs.
 
 **Weeks 3-4: Initial Engagement**
-- Submit applications for 5-10 remote positions.
-- Contact three NGOs regarding blockchain opportunities.
+- Submit applications for remote positions.
+- Contact NGOs regarding blockchain opportunities.
 - Establish your community group via meetups or online platforms.
 - Secure your first paid engagement.
 
@@ -383,12 +383,12 @@ Focus on acquiring international-level skills to enhance your chances of securin
 
 **Q: Can I earn a competitive salary in Web3 from Lome?**
 
-Yes. A mid-level developer earning $5,000/month remotely ranks among the top 1% of local incomes, allowing for a comfortable lifestyle and the potential for rapid wealth accumulation.
+Yes. A mid-level developer earning a competitive salary remotely ranks among the top local incomes, allowing for a comfortable lifestyle and the potential for rapid wealth accumulation.
 
 **Q: What is the best initial project to undertake?**
 
 Select a project that addresses a specific challenge in Togo:
-1. A mobile stablecoin payment application for USDC transfers.
+1. A mobile stablecoin payment application for transfers.
 2. A transparent remittance tracker for the diaspora.
 3. A blockchain-based micro-loan platform.
 4. A digital ID system to enhance financial inclusion.
@@ -404,11 +404,11 @@ The competition is less intense compared to Europe or the U.S. due to a smaller 
 **Learn Solidity if you:**
 - Aim to develop DeFi protocols.
 - Have a strong interest in blockchain architecture.
-- Desire the highest-paying roles, which can range from $8,000 to $15,000+/month.
+- Desire the highest-paying roles.
 
 **Focus on Mobile Development if you:**
 - Already possess mobile development experience.
-- Prefer a quicker route to securing your first job (6-9 months).
+- Prefer a quicker route to securing your first job.
 - Enjoy creating user-facing applications.
 
 Ideally, pursue both avenues. A combination of mobile development skills and Solidity expertise will make you an exceptionally valuable asset.

@@ -22,7 +22,7 @@ Professional milestones present excellent opportunities to document achievements
 
 Completing a significant project, such as launching a product, finalizing an analysis, or leading a successful marketing campaign, should trigger an update. When the details are fresh, you can easily access the data that illustrates your impact.
 
-When documenting the project, focus on quantifying your achievement. Rather than simply stating, "Led a marketing campaign," specify the results, such as, "Led a marketing campaign that increased user sign-ups by 20% over three months." This approach transforms a responsibility into a measurable accomplishment. Recording these successes as they occur is essential for effective career management. For more guidance, refer to our article on How to Document Your Achievements.
+When documenting the project, focus on quantifying your achievement. Rather than simply stating, "Led a marketing campaign," specify the results, such as, "Led a marketing campaign that increased user sign-ups significantly over three months." This approach transforms a responsibility into a measurable accomplishment. Recording these successes as they occur is essential for effective career management. For more guidance, refer to our article on How to Document Your Achievements.
 
 #### Promotion or Role Change
 
@@ -34,7 +34,7 @@ When updating your title, revise the bullet points to reflect your current scope
 
 Upon completing an online course, obtaining a professional certification, or mastering a new software or [programming language](/best-programming-languages-for-blockchain-development), add it to your skills section immediately. In a fast-paced industry, your skills are critical. Keeping this section current demonstrates your commitment to continuous learning and relevance. Our article on [How to Stay Relevant in Your Industry](/how-to-stay-relevant-in-your-industry) discusses this further.
 
-Do not merely list the skill. If applicable, connect it to a project where you applied it. For instance, if you learned Python, include a project description like, "Automated weekly reporting process using Python scripts, saving 5 hours of manual work weekly."
+Do not merely list the skill. If applicable, connect it to a project where you applied it. For instance, if you learned Python, include a project description like, "Automated weekly reporting process using Python scripts, saving significant manual work weekly."
 
 #### Attendance at Networking Events or Conferences
 
@@ -100,8 +100,8 @@ Monitor your progress. Are you achieving the desired results? Adjust your approa
 
 | Name  | Role                                      | Initial Challenge                   | Outcome                                 |
 |-------|-------------------------------------------|-------------------------------------|-----------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project management   | Improved project delivery timelines by 30% within three months |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Faced challenges with cross-team collaboration | Enhanced team efficiency, resulting in 25% faster product launches |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project management   | Improved project delivery timelines significantly within three months |
+| Juan  | Product Manager in [DeFi](/what-is-defi) | Faced challenges with cross-team collaboration | Enhanced team efficiency, resulting in faster product launches |
 | Maya  | Transitioning from Web2 to Web3         | Needed to adapt to a new environment | Successfully onboarded into Web3, contributing to key projects within two months |
 
 ### Common Mistakes to Avoid
