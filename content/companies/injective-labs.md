@@ -1,5 +1,6 @@
 ---
 name: Injective Labs
+website: https://injective.com
 category: Blockchain Infrastructure
 description: Injective Labs develops a decentralized trading platform for derivatives and other assets.
 ---

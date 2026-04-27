@@ -1,5 +1,6 @@
 ---
 name: Revolut
+website: https://revolut.com
 category: FinTech
 description: Financial technology company offering banking services and cryptocurrency trading.
 ---

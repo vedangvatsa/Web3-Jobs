@@ -1,5 +1,6 @@
 ---
 name: Delphi Digital
+website: https://www.delphidigital.io
 category: Other
 description: Delphi Digital provides research and consulting services in the digital asset space.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Paradigm
+website: https://www.paradigm.xyz
 category: Other
 description: Paradigm is a technology company focused on digital assets and cryptocurrency.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Stripe
+website: https://stripe.com
 category: FinTech
 description: Stripe provides payment processing solutions for online businesses.
 ---

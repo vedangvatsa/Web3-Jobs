@@ -1,5 +1,6 @@
 ---
 name: Sardine
+website: https://sardine.ai
 category: Crypto Payments
 description: Sardine provides payment solutions for cryptocurrency transactions.
 ---

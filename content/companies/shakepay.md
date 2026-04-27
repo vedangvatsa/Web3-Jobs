@@ -1,5 +1,6 @@
 ---
 name: Shakepay
+website: https://shakepay.com
 category: Crypto Payments
 description: Shakepay allows users to buy, sell, and hold Bitcoin and Ethereum.
 ---

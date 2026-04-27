@@ -1,5 +1,6 @@
 ---
 name: Hedera
+website: https://hedera.com
 category: Blockchain Infrastructure
 description: Hedera is a public distributed ledger technology platform.
 ---

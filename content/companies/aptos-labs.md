@@ -1,5 +1,6 @@
 ---
 name: Aptos Labs
+website: https://aptoslabs.com
 category: Blockchain Infrastructure
 description: Aptos Labs develops a Layer 1 blockchain for decentralized applications.
 ---

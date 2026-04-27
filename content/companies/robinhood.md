@@ -1,5 +1,6 @@
 ---
 name: Robinhood
+website: https://robinhood.com
 founded: 2013
 category: Financial Services
 headquarters: Menlo Park, California, USA

@@ -1,5 +1,6 @@
 ---
 name: Elliptic
+website: https://elliptic.co
 category: Blockchain Analytics
 description: Provides blockchain analytics and compliance solutions for cryptocurrency businesses.
 ---

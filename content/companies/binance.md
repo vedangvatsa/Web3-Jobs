@@ -1,5 +1,6 @@
 ---
 name: Binance
+website: https://binance.com
 founded: 2017
 category: Cryptocurrency Exchange
 headquarters: Dubai, UAE

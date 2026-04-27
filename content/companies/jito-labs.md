@@ -1,5 +1,6 @@
 ---
 name: Jito Labs
+website: https://jito.network
 category: Other
 description: Jito Labs focuses on optimizing transaction processing for blockchain networks.
 ---

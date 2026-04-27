@@ -1,5 +1,6 @@
 ---
 name: EigenLayer
+website: https://eigenlayer.xyz
 category: Other
 description: EigenLayer is a protocol for re-staking Ethereum assets.
 ---

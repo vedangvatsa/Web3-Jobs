@@ -1,5 +1,6 @@
 ---
 name: Maple Finance
+website: https://maple.finance
 category: DeFi Protocol
 description: Maple Finance is a decentralized finance platform for institutional lending.
 ---

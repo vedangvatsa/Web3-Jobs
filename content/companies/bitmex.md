@@ -1,5 +1,6 @@
 ---
 name: BitMEX
+website: https://www.bitmex.com
 category: Cryptocurrency Exchange
 description: BitMEX is a cryptocurrency derivatives exchange offering leveraged trading.
 ---

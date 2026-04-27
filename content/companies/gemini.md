@@ -1,5 +1,6 @@
 ---
 name: Gemini
+website: https://gemini.com
 founded: 2014
 category: Cryptocurrency Exchange
 headquarters: New York, New York, USA

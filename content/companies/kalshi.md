@@ -1,5 +1,6 @@
 ---
 name: Kalshi
+website: https://kalshi.com
 category: Prediction Market
 description: Kalshi operates a regulated exchange for trading on event outcomes.
 ---

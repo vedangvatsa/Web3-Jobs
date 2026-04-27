@@ -1,5 +1,6 @@
 ---
 name: VALR
+website: https://valr.com
 category: Cryptocurrency Exchange
 description: VALR is a cryptocurrency exchange based in South Africa.
 ---
