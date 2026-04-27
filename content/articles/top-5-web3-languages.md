@@ -17,7 +17,7 @@ This article outlines the five most significant programming languages in the Web
 
 ## 1. Solidity: The Standard for Smart Contracts
 
-For developers aiming to create applications on [Ethereum](/what-is-ethereum) or any EVM-compatible blockchain, learning [Solidity](/best-programming-languages-for-blockchain-development) is essential. It remains the most sought-after language among Web3 application developers.
+For developers aiming to create applications on [Ethereum](/what-is-ethereum) or any EVM-compatible blockchain, learning [Solidity](/best-programming-languages-for-blockchain-development) is essential. It remains a highly sought-after language among Web3 application developers.
 
 - **Primary Use Case:** Writing smart contracts for the Ethereum Virtual Machine (EVM), which includes NFTs, DeFi protocols, DAOs, and gaming applications.
 - **Ecosystems:** Solidity is prevalent across Ethereum, Polygon, Avalanche, BNB Chain, Arbitrum, Optimism, and nearly every major smart contract platform.
@@ -31,7 +31,7 @@ For developers aiming to create applications on [Ethereum](/what-is-ethereum) or
 | High demand for developers     | EVM design limits performance       |
 | Relatively easy to learn       | Gas fees can be costly             |
 
-**Should you learn it?** Yes. For 90% of aspiring Web3 application developers, Solidity is a critical starting point. It opens doors to the largest segment of the [Web3 job](/web3-jobs-for-beginners) market.
+**Should you learn it?** Yes. For many aspiring Web3 application developers, Solidity is a critical starting point. It opens doors to a significant segment of the [Web3 job](/web3-jobs-for-beginners) market.
 
 ## 2. Rust: High-Performance Blockchain Development
 

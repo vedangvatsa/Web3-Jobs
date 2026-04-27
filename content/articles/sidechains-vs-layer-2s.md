@@ -76,10 +76,10 @@ Regularly evaluate your progress. Are you achieving your goals? Use feedback to 
 ## Real-World Illustrations
 
 ### Example 1
-Sarah, a developer at a blockchain startup, faced challenges in optimizing her workflow. By adopting a structured approach to her tasks, she improved her code efficiency by 30% within three months.
+Sarah, a developer at a blockchain startup, faced challenges in optimizing her workflow. By adopting a structured approach to her tasks, she improved her code efficiency significantly within three months.
 
 ### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered hurdles in project delivery timelines. By implementing a consistent feedback loop with his team, he shortened project cycles by 25%. His experience underscores the universality of effective strategies.
+Juan, a product manager in [DeFi](/what-is-defi), encountered hurdles in project delivery timelines. By implementing a consistent feedback loop with his team, he shortened project cycles. His experience underscores the universality of effective strategies.
 
 ### Example 3
 Maya transitioned from a Web2 to a Web3 role. By applying targeted learning techniques, she quickly adjusted to the new environment. Her success demonstrates that these strategies can be effective regardless of experience level.
@@ -99,7 +99,7 @@ Maya transitioned from a Web2 to a Web3 role. By applying targeted learning tech
 ## FAQ
 
 **Q: How long does it typically take to see results?**  
-A: Many individuals report seeing initial improvements within 2 to 4 weeks of consistent application, with substantial changes evident within 8 to 12 weeks. The timeline varies based on individual starting points, daily practice, and the degree of feedback sought. Professionals who actively track progress tend to accelerate their development.
+A: Many individuals report seeing initial improvements within a few weeks of consistent application, with substantial changes evident within a couple of months. The timeline varies based on individual starting points, daily practice, and the degree of feedback sought. Professionals who actively track progress tend to accelerate their development.
 
 **Q: What if my workplace does not support these changes?**  
 A: Even in challenging environments, you often have agency. Start with small, independent actions that do not require approval. Build momentum through personal projects or informal discussions with colleagues. If, after sustained effort, the environment remains unyielding, it may be time to consider opportunities that better align with your growth.

@@ -18,7 +18,7 @@ Following the collapse of its major backer, FTX, and a series of network outages
 
 ### The Great Filter: Separating Tourists from Builders
 
-The 2021 bull run saw a massive influx of developers into the Solana ecosystem, drawn by the hype, the low transaction fees, and the promise of building scalable applications. This period was a "Cambrian explosion" of new projects, but it also attracted a large number of "tourists"-developers who were experimenting or chasing short-term opportunities.
+The 2021 bull run saw a massive influx of developers into the Solana ecosystem, drawn by the hype, the low transaction fees, and the promise of building scalable applications. This period was a "Cambrian explosion" of new projects, but it also attracted a large number of "tourists"—developers who were experimenting or chasing short-term opportunities.
 
 The subsequent bear market acted as a "great filter." Projects without sustainable models failed, and part-time hobbyists moved on. The resulting decline in the total number of "monthly active developers" was not a sign of a dying ecosystem, but rather a healthy and predictable consolidation.
 
@@ -28,7 +28,7 @@ The crucial metric is not the total number of developers, but the **retention of
 
 The Solana of today is not the Solana of 2021. The ecosystem has learned from its challenges and has become significantly more robust.
 
-*   **Client Diversity:** The development of Firedancer, a new validator client built by Jump Crypto, enables for network stability. It diversifies the client software, reducing the risk of a single point of failure and making the network more resilient to bugs and outages.
+*   **Client Diversity:** The development of Firedancer, a new validator client built by Jump Crypto, enables network stability. It diversifies the client software, reducing the risk of a single point of failure and making the network more resilient to bugs and outages.
 *   **Improved Tooling:** The developer experience on Solana has improved dramatically. The maturation of the Anchor framework, better documentation, and more sophisticated testing tools have made it easier for developers to build secure and efficient applications.
 *   **The Rise of Rust:** Solana's use of Rust, a language known for its performance and safety, has a steep learning curve. This acts as a natural filter, attracting a higher caliber of systems-level engineers compared to easier-to-learn languages. The Rust community on Solana is known for being highly technical and collaborative.
 
@@ -57,11 +57,11 @@ For developers interested in building on Solana, the ecosystem offers exceptiona
 ### Complete Salary Guide: Solana Ecosystem Engineer Jobs
 
 **Remote Positions:**
-- **Rust Developer (Solana-focused):** $100K–$250K/year
-- **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) ([Solidity](/best-programming-languages-for-blockchain-development)/Anchor):** $90K–$200K/year
-- **Protocol Engineer:** $120K–$300K+/year
-- **DeFi Developer:** $100K–$250K/year
-- **Infrastructure Engineer:** $110K–$280K+/year
+- **Rust Developer (Solana-focused):** Competitive salary range
+- **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) ([Solidity](/best-programming-languages-for-blockchain-development)/Anchor):** Competitive salary range
+- **Protocol Engineer:** Competitive salary range
+- **DeFi Developer:** Competitive salary range
+- **Infrastructure Engineer:** Competitive salary range
 
 ## 3 Career Paths on Solana
 
@@ -78,20 +78,20 @@ For developers interested in building on Solana, the ecosystem offers exceptiona
 - Contribute to Solana validator client or core libraries
 - Publish: technical articles on Solana architecture
 - Get noticed by Jump Crypto, Anza, or other core teams
-- Expected: $100K–$150K/year offer
+- Expected: Competitive salary offer
 
 **Months 13-18: Senior Protocol Work**
 - Lead development on critical infrastructure components
-- **Expected Compensation:** $150K–$250K+/year
+- **Expected Compensation:** Competitive salary range
 
 **Months 19-24: Architect/Expert**
 - Chief architect of subsystem or leading protocol initiative
-- **Expected Compensation:** $250K–$400K+/year + grants/equity
+- **Expected Compensation:** Competitive salary range + grants/equity
 
 **Quick Wins:**
-- Solana Foundation grants: $10K–$500K
-- Bug bounties: $5K–$50K per critical find
-- Consulting: $200–$400/hour
+- Solana Foundation grants: Variable amounts
+- Bug bounties: Variable amounts per critical find
+- Consulting: Competitive hourly rate
 
 ### Path 2: DeFi/Application Developer (Anchor + Rust) (10-18 Month Timeline)
 
@@ -103,22 +103,22 @@ For developers interested in building on Solana, the ecosystem offers exceptiona
 - **Deliverable:** DeFi knowledge, 3 projects
 
 **Months 6-10: Build Innovative App**
-- Deploy 1 dApp with $1M+ TVL or 5,000+ users
+- Deploy 1 dApp with significant value or user engagement
 - Land job with DeFi protocol or startup
-- Expected: $90K–$150K/year
+- Expected: Competitive salary range
 
 **Months 11-16: Senior Developer + Leadership**
 - Lead development team or core feature
-- **Expected Compensation:** $150K–$250K+/year
+- **Expected Compensation:** Competitive salary range
 
 **Months 17-18: Founder or VP Engineering**
 - Start own DeFi venture or lead technical team
-- **Expected Compensation:** $150K–$300K+ with equity
+- **Expected Compensation:** Competitive salary range with equity
 
 **Quick Wins:**
-- Hackathon prizes: $5K–$50K
-- Protocol grants: $10K–$100K
-- Trading volume incentives: $5K–$20K/month
+- Hackathon prizes: Variable amounts
+- Protocol grants: Variable amounts
+- Trading volume incentives: Variable amounts
 
 ### Path 3: High-Performance Systems Developer (Payments/CLOBs) (12-20 Month Timeline)
 
@@ -137,17 +137,17 @@ For developers interested in building on Solana, the ecosystem offers exceptiona
 
 **Months 13-18: Senior/Lead Role**
 - Lead high-performance system development
-- Expected: $120K–$200K/year
+- Expected: Competitive salary range
 - Opportunities: Bonuses based on volume/performance
 
 **Months 19-20: Architect/Founding**
 - Chief architect or CTO of payments/trading platform
-- **Expected Compensation:** $200K–$400K+/year + equity
+- **Expected Compensation:** Competitive salary range + equity
 
 **Quick Wins:**
-- Consulting on Solana optimization: $200–$400/hour
-- Hackathons (high-frequency track): $10K–$100K
-- Protocol partnerships: $20K–$200K/project
+- Consulting on Solana optimization: Competitive hourly rate
+- Hackathons (high-frequency track): Variable amounts
+- Protocol partnerships: Variable amounts
 
 ## Why Solana Specifically?
 
@@ -157,7 +157,7 @@ For developers interested in building on Solana, the ecosystem offers exceptiona
 - Clear differentiation from Ethereum (not competing for same use cases)
 
 **Developer Experience:**
-- Rust = highest-caliber engineers attracted
+- Rust attracts high-caliber engineers
 - Strong technical community
 - Clear performance incentives
 
@@ -212,7 +212,7 @@ For developers interested in building on Solana, the ecosystem offers exceptiona
 
 **Week 9-10:**
 
-- [ ] Twitter: 1,000+ Solana community followers
+- [ ] Twitter: Build a following in the Solana community
 - [ ] Apply: Dream roles (Anza, Jump Crypto, top protocols)
 
 **Week 11-12:**
@@ -235,11 +235,11 @@ A: Not required but helpful. Most learn on the job with Anchor, but deep Rust op
 **Q2: Is Solana a good bet long-term?**
 A: Yes. Real use cases (DePIN, payments, high-frequency) that Solana dominates. Ecosystem maturing.
 
-**Q3: Fastest path to $100K+/year?**
+**Q3: Fastest path to a competitive salary?**
 A: Path 2 (DeFi developer) – 12-14 months with successful dApp.
 
 **Q4: Which path pays most?**
-A: Path 1 (protocol) or Path 3 (high-frequency) – $300K–$400K+ at senior level + grants.
+A: Path 1 (protocol) or Path 3 (high-frequency) – competitive salaries at senior level + grants.
 
 **Q5: Can I work on Solana part-time?**
 A: Yes. Start with grants/bounties, build to full-time.

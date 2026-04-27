@@ -33,8 +33,8 @@ Electric Capital's Developer Report remains one of the most referenced metrics, 
 
 | Metric                     | Solana's Performance                     | Description                                      |
 |----------------------------|-----------------------------------------|--------------------------------------------------|
-| **Full-Time Developers**    | Increased by 30% YoY                    | Developers making 10 or more commits per month. |
-| **New Developers**          | 25% increase during market rallies      | First-time commits to the Solana ecosystem.      |
+| **Full-Time Developers**    | Increased significantly                  | Developers making 10 or more commits per month. |
+| **New Developers**          | Increased during market rallies          | First-time commits to the Solana ecosystem.      |
 
 While [GitHub](/building-web3-portfolio) data has limitations—excluding private repositories and sometimes skewed by automated commits—it remains a valuable proxy for measuring developer engagement.
 
@@ -78,11 +78,11 @@ The successful launch of Firedancer could act as a catalyst for the Solana devel
 
 ### Conclusion
 
-The analysis reveals that Solana boasts one of the most vibrant and rapidly expanding developer ecosystems in [Web3](/what-is-web3). Supported by high performance, low costs, substantial institutional backing, and effective community-building initiatives like hackathons, Solana has attracted a large, committed community of developers. Challenges such as the learning curve associated with Rust and competition from EVM-compatible Layer 2 solutions persist. However, the overarching trend indicates robust growth. With significant infrastructure enhancements like Firedancer on the horizon, Solana appears well-positioned for continued development, reinforcing its status as a leading platform for the next generation of decentralized applications.
+The analysis reveals that Solana boasts one of the most vibrant and rapidly expanding developer ecosystems in [Web3](/what-is-web3). Supported by high performance, low costs, substantial institutional backing, and effective community-building initiatives like hackathons, Solana has attracted a committed community of developers. Challenges such as the learning curve associated with Rust and competition from EVM-compatible Layer 2 solutions persist. However, the overarching trend indicates robust growth. With significant infrastructure enhancements like Firedancer on the horizon, Solana appears well-positioned for continued development, reinforcing its status as a leading platform for the next generation of decentralized applications.
 
 ## Skills for Success in Developer Ecosystems
 
-The competencies necessary for success in modern tech environments, including Web3, extend beyond technical knowledge. These skills define career trajectories and influence long-term success. Research consistently shows that these abilities yield a return on investment (ROI) of 300-500% over a 10-15 year timeline.
+The competencies necessary for success in modern tech environments, including Web3, extend beyond technical knowledge. These skills define career trajectories and influence long-term success. Research consistently shows that these abilities yield a return on investment (ROI) over a 10-15 year timeline.
 
 ### Core Competencies
 
@@ -140,7 +140,7 @@ Web3 teams often operate in distributed environments and require rapid adaptatio
 As you progress through your career, these skills gain significance:
 - **Junior Level**: Technical skills hold primary importance, but communication increasingly matters.
 - **Mid Level**: A balance of technical and soft skills emerges; leadership potential becomes visible.
-- **Senior Level**: Soft skills account for 70% of effectiveness in roles.
+- **Senior Level**: Soft skills account for a significant portion of effectiveness in roles.
 - **Leadership**: Emotional intelligence and communication skills dominate leadership success.
 
 ### Common Development Pitfalls
