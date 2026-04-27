@@ -79,7 +79,7 @@ RWA tokenization involves creating digital representations of physical or tradit
 ### Why does it matter?
 Bringing real-world assets on-chain offers substantial benefits:
 -   **Liquidity:** Tokenization can convert illiquid assets, such as real estate or private company stakes, into liquid tokens that can be traded continuously in a global market.
--   **Fractionalization:** Tokenization allows for fractional ownership of high-value assets. For instance, an individual could own a $100 share of a commercial property in New York.
+-   **Fractionalization:** Tokenization allows for fractional ownership of high-value assets. For instance, an individual could own a share of a commercial property in New York.
 -   **Transparency:** Ownership and transaction history are recorded on a public ledger, enhancing transparency and reducing opportunities for fraud.
 -   **Efficiency:** The use of smart contracts automates and streamlines complex processes, such as settlement and dividend payments, reducing reliance on intermediaries.
 

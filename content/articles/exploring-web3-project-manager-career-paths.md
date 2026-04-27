@@ -51,13 +51,13 @@ For experienced project managers from the Web2 world, the transition is very ach
 ## Complete Salary Guide: Web3 Project Manager Roles
 
 ### Local/On-Site Opportunities (Rare)
-- **Project Manager:** $70K–$120K/year
-- **Senior PM:** $100K–$180K/year
+- **Project Manager:** Competitive salary range
+- **Senior PM:** Competitive salary range
 
 ### Remote Opportunities (Standard)
-- **Junior/Mid-Level PM:** $70K–$130K/year
-- **Senior PM:** $100K–$200K+/year
-- **Head of Operations/Product:** $120K–$300K+/year
+- **Junior/Mid-Level PM:** Competitive salary range
+- **Senior PM:** Competitive salary range
+- **Head of Operations/Product:** Competitive salary range
 
 ## 3 Proven Career Paths to $100K+/Year as Web3 PM
 
@@ -75,16 +75,16 @@ For experienced project managers from the Web2 world, the transition is very ach
 - Lead major initiative in DAO (governance proposal, product planning)
 - Publish: 2-3 articles on protocol strategy
 - Direct outreach to protocol teams (Uniswap, Aave, Curve, Optimism)
-- Expected offer: $80K–$130K/year (salary + grants)
+- Expected offer: Competitive salary range
 
 **Months 13-18: Senior Protocol PM**
 - Lead product for major protocol initiative
 - Known for: clear communication, smart prioritization
-- **Expected Compensation:** $120K–$200K+/year
+- **Expected Compensation:** Competitive salary range
 
 **Quick Wins:**
-- DAO grants: $10K–$100K for organizing working groups
-- Protocol bounties: $5K–$50K for governance work
+- DAO grants: Competitive range for organizing working groups
+- Protocol bounties: Competitive range for governance work
 
 ### Path 2: DAO Operations Manager (Community & Governance) (8-14 Month Timeline)
 
@@ -97,20 +97,20 @@ For experienced project managers from the Web2 world, the transition is very ach
 
 **Months 5-8: Lead DAO Initiative**
 - Organize: governance working group, budget planning, community processes
-- Get paid: $1,000–$5,000/month initially (consulting/grants)
+- Get paid: Competitive range initially (consulting/grants)
 - Publish: operations guides, process documentation
 
 **Months 9-12: Full-Time DAO Role**
 - Head of Operations at growing DAO
-- Expected: $60K–$120K/year + governance tokens
+- Expected: Competitive salary range + governance tokens
 - Manage: treasury, governance, community
 
 **Months 13-14: Leadership**
 - Chief Operations Officer or Executive Director
-- **Expected Compensation:** $100K–$250K+/year + equity
+- **Expected Compensation:** Competitive salary range + equity
 
 **Quick Wins:**
-- Grants for organizing: $5K–$50K
+- Grants for organizing: Competitive range
 - Governance participation: token rewards
 
 ### Path 3: Web3 Startup PM (Building Applications) (8-14 Month Timeline)
@@ -124,18 +124,18 @@ For experienced project managers from the Web2 world, the transition is very ach
 
 **Months 5-8: Land Startup Role**
 - Apply to Web3 startups (seed/Series A)
-- Expected: $70K–$120K/year
+- Expected: Competitive salary range
 - Lead product for young startup
 - Contribute: vision, roadmap, user research
 
 **Months 9-12: Proven Value**
 - Product reaching key milestones
 - Known for: clear strategy, user empathy
-- **Expected Compensation:** $90K–$150K/year + equity (0.5-2%)
+- **Expected Compensation:** Competitive salary range + equity
 
 **Months 13-14: Advancement**
 - Senior PM or head of product
-- **Expected Compensation:** $120K–$250K+/year + equity
+- **Expected Compensation:** Competitive salary range + equity
 
 **Quick Wins:**
 - Startup equity: potential massive upside
@@ -215,10 +215,10 @@ A: No. PM roles don't require technical background (though helpful).
 A: Path 2 (DAO ops) – 8 months, or Path 3 (startup) – 8-10 months.
 
 **Q4: Which path pays most?**
-A: Path 1 (protocol PM) → $200K+ with equity/grants at senior level.
+A: Path 1 (protocol PM) → Competitive range with equity/grants at senior level.
 
 **Q5: Can I work part-time initially?**
-A: YES. Start with DAO bounties/grants ($1K–$5K/month). Transition to full-time.
+A: YES. Start with DAO bounties/grants (competitive range). Transition to full-time.
 
 **Q6: How do I prove myself without Web3 experience?**
 A: Lead DAO initiatives. Document. Show: decision-making, communication, execution.

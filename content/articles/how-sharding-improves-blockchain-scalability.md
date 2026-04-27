@@ -14,7 +14,7 @@ The main obstacle to mainstream [blockchain](/what-is-a-blockchain) adoption is 
 
 ## The Scalability Crisis
 
-Understanding sharding requires recognizing the fundamental limitations of blockchain systems. For example, [Bitcoin](/what-is-bitcoin) can process approximately 7 transactions per second, while [Ethereum](/what-is-ethereum) historically managed about 15 transactions per second before optimizations. In contrast, traditional payment networks like Visa handle around 24,000 transactions per second.
+Understanding sharding requires recognizing the fundamental limitations of blockchain systems. For example, [Bitcoin](/what-is-bitcoin) can process approximately 7 transactions per second, while [Ethereum](/what-is-ethereum) historically managed about 15 transactions per second before optimizations. In contrast, traditional payment networks like Visa handle significantly more transactions per second.
 
 The crux of this limitation stems from a fundamental design choice: **every node must validate every transaction**. To maintain security and decentralization, a single authority cannot verify transactions. However, requiring every transaction to be independently verified by numerous nodes creates a significant bottleneck. This bottleneck illustrates the inherent cost of maintaining decentralization.
 
@@ -31,7 +31,7 @@ Sharding represents an ambitious Layer 1 solution, aiming to enhance scalability
 
 Sharding involves dividing a blockchain's state and transaction processing workload into multiple smaller, parallel chains called "shards." Instead of requiring every node in the network to process every transaction, the workload is distributed among the shards. This parallel processing significantly boosts the network's overall throughput, meaning it can handle more transactions per second.
 
-> **Mental Model:** Think of a traditional blockchain as a single, congested highway. In contrast, sharding resembles constructing 64 parallel highways, allowing traffic (transactions) to spread out and flow more efficiently. Special vehicles (cross-shard messages) enable communication between these highways.
+> **Mental Model:** Think of a traditional blockchain as a single, congested highway. In contrast, sharding resembles constructing multiple parallel highways, allowing traffic (transactions) to spread out and flow more efficiently. Special vehicles (cross-shard messages) enable communication between these highways.
 
 The essential insight is that not all nodes need to process all transactions. Sufficient nodes on each shard can ensure security through decentralization and redundancy.
 
@@ -56,7 +56,7 @@ Consider the scenario where Alice, within Shard 1, sends [tokens](/what-is-a-tok
 5. Validators in Shard 2 receive the cross-shard message and update Bob's balance.
 6. The transaction is successfully completed.
 
-This process requires coordination between shards, adding some complexity. However, Shards 3, 4, and 5 can process other transactions simultaneously. In theory, if there are 64 shards, this architecture could achieve a 64-fold increase in throughput.
+This process requires coordination between shards, adding some complexity. However, Shards 3, 4, and 5 can process other transactions simultaneously. In theory, if there are multiple shards, this architecture could achieve a significant increase in throughput.
 
 ## Sharding vs. Layer 2 Solutions
 
@@ -66,7 +66,7 @@ Sharding and Layer 2 solutions complement each other rather than compete:
 |-----------------------------|-----------------------------------------|--------------------------------------|
 | Modifies core blockchain     | Yes                                     | No                                   |
 | Complexity                   | High                                    | Lower                                |
-| Scalability potential        | Massive scalability gains               | Quick deployment                      |
+| Scalability potential        | Massive scalability gains               | Quick deployment                     |
 | Example solutions            | Ethereum's Danksharding                 | Rollups, Sidechains                  |
 
 Sharding modifies the core blockchain protocol to distribute work across shards, offering ambitious scalability gains but introducing significant complexity. In contrast, Layer 2 solutions, such as rollups, operate transactions off-chain and periodically settle them on the main chain. These solutions can be deployed independently and rapidly, making them a current focus for platforms like Ethereum.
@@ -97,7 +97,7 @@ Ethereum is implementing a sharding variation known as Danksharding, named after
 
 This approach is significant because Layer 2 rollups batch transactions off-chain and submit the batch data to Ethereum as a commitment. Currently, rollups must post all transaction data on-chain, which is costly for verification.
 
-With Danksharding, rollups can post data into sharded "blobs" on the Beacon Chain instead of the main blockchain. These blobs are temporarily stored, significantly reducing costs compared to permanent storage. This change can make Layer 2 transactions 10-100 times cheaper while retaining security and decentralization benefits.
+With Danksharding, rollups can post data into sharded "blobs" on the Beacon Chain instead of the main blockchain. These blobs are temporarily stored, significantly reducing costs compared to permanent storage. This change can make Layer 2 transactions considerably cheaper while retaining security and decentralization benefits.
 
 This pragmatic method prioritizes data availability sharding to support Layer 2 solutions, rather than attempting to shard all transaction processing, which would be considerably more complex.
 
@@ -123,7 +123,7 @@ Sharding introduces several challenges and limitations:
 
 - **Developer Complexity:** Building decentralized applications that function across shards is more complicated than building on a single-shard system.
 
-- **Practical Scalability Limits:** While sharding can significantly enhance scalability, it is not limitless. If each of 64 shards processes 100 transactions per second, the total throughput reaches 6,400 transactions per second—impressive but still below Visa's capabilities. When combined with Layer 2 solutions, the throughput becomes sufficient for mainstream adoption.
+- **Practical Scalability Limits:** While sharding can significantly enhance scalability, it is not limitless. If each of multiple shards processes a certain number of transactions per second, the total throughput reaches impressive levels but may still be below traditional payment network capabilities. When combined with Layer 2 solutions, the throughput becomes sufficient for mainstream adoption.
 
 ## Career Implications
 
@@ -145,6 +145,6 @@ Sharding offers one of the most ambitious technical solutions to the scalability
 
 The implementation of sharding is complex and requires sophisticated design and engineering. However, for platforms aiming to support global-scale applications while maintaining decentralization, sharding, in conjunction with Layer 2 solutions, may prove essential.
 
-Ethereum's approach to Danksharding demonstrates that addressing scalability does not necessitate solving every aspect of the problem through sharding alone. By focusing on data availability and enhancing the efficiency of Layer 2 rollups, the blockchain ecosystem can achieve significant scalability while managing complexity. This model is likely to be adopted by other major blockchains as they evolve. 
+Ethereum's approach to Danksharding demonstrates that addressing scalability does not necessitate solving every aspect of the problem through sharding alone. By focusing on data availability and enhancing the efficiency of Layer 2 rollups, the blockchain ecosystem can achieve significant scalability while managing complexity. This model is likely to be adopted by other major blockchains as they evolve.
 
 Professionals entering the Web3 sector should recognize the unique opportunities presented by this rapidly growing field. With the demand for skilled professionals outpacing supply, those who acquire relevant knowledge and skills in sharding and blockchain technology will be well-positioned for a rewarding career in shaping the future of decentralized applications.

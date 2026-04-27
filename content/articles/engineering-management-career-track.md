@@ -27,7 +27,7 @@ The shift often begins informally. As a senior engineer, you already mentor juni
     - Review code to uphold high technical standards.
     - Mentor junior and mid-level engineers within the project team.
     - Help the team overcome technical obstacles.
-- **The Shift:** You will start dedicating a notable portion of your time (20-30%) to activities outside of coding. Your focus will evolve from "my work" to "the team's work."
+- **The Shift:** You will start dedicating a notable portion of your time to activities outside of coding. Your focus will evolve from "my work" to "the team's work."
 
 ### Level 1: Engineering Manager (EM)
 
@@ -111,10 +111,10 @@ Regularly evaluate your progress. Are you achieving the desired outcomes? Be pre
 ### Real-World Examples of Successful Transitions
 
 #### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in transitioning to management. By applying targeted strategies over three months, she improved her team's productivity by 30% and enhanced engagement scores significantly.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in transitioning to management. By applying targeted strategies over three months, she improved her team's productivity and enhanced engagement scores significantly.
 
 #### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered similar hurdles. By following a structured framework, he was able to increase team output by 25% and improve project delivery timelines. His experience illustrates the effectiveness of these principles.
+Juan, a product manager in [DeFi](/what-is-defi), encountered similar hurdles. By following a structured framework, he was able to increase team output and improve project delivery timelines. His experience illustrates the effectiveness of these principles.
 
 #### Example 3
 Maya transitioned from Web2 to Web3 by employing this strategic approach. Within weeks, she adapted to the new environment, demonstrating that these strategies work across various backgrounds and levels of experience.
@@ -134,7 +134,7 @@ Maya transitioned from Web2 to Web3 by employing this strategic approach. Within
 ### Frequently Asked Questions
 
 **Q: How long will it take to implement these changes?**  
-A: Most professionals see initial results within 2-4 weeks of consistent application. Measurable improvements typically appear within 8-12 weeks, depending on your starting point and commitment. Those who actively track their progress often advance faster than those who rely on passive observation. Treating this transition as a structured project can lead to better outcomes.
+A: Most professionals see initial results within a few weeks of consistent application. Measurable improvements typically appear within a couple of months, depending on your starting point and commitment. Those who actively track their progress often advance faster than those who rely on passive observation. Treating this transition as a structured project can lead to better outcomes.
 
 **Q: What if my workplace environment doesn’t support this transition?**  
 A: Even in challenging environments, you often have more agency than you realize. Start with small, manageable actions that do not require organizational approval. Build momentum gradually, documenting your progress and results. If structural barriers persist, this information can guide your decision to seek a more supportive environment.

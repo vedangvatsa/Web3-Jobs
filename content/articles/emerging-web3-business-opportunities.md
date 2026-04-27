@@ -16,9 +16,9 @@ The [Web3](/what-is-web3) industry presents numerous entrepreneurial opportuniti
 
 DePIN represents a significant advancement in the Web3 sector, integrating crypto incentives to facilitate the development of real-world physical infrastructure.
 
-- **The Concept:** Rather than relying on a single entity to establish a network—like a telecom company constructing a 5G network—DePIN protocols motivate individuals and small businesses worldwide to contribute their hardware, creating a collaborative network.
+- **The Concept:** Rather than relying on a single entity to establish a network, like a telecom company constructing a 5G network, DePIN protocols motivate individuals and small businesses worldwide to contribute their hardware, creating a collaborative network.
 - **Examples:**
-    - **Decentralized Compute:** The Akash Network exemplifies this concept by creating a marketplace for unused computing resources, providing a cost-effective and censorship-resistant alternative to traditional cloud services like AWS.
+    - **Decentralized Compute:** The Akash Network exemplifies this concept by creating a marketplace for unused computing resources, providing a cost-effective and censorship-resistant alternative to traditional cloud services.
     - **Decentralized Wireless (DeWi):** Helium incentivizes individuals to set up hotspots, contributing to a globally accessible, community-owned wireless network.
 - **The Opportunity:** Entrepreneurs can develop new DePIN protocols for various resources, such as energy grids, data storage, and mapping solutions, or create applications that enhance existing DePIN networks.
 
@@ -49,7 +49,7 @@ The "Play-to-Earn" model has evolved; the focus now shifts toward creating high-
 
 - **The Concept:** Games where players truly own their in-game items as [NFTs](/what-are-nfts) and actively participate in the game's economy and development.
 - **The Opportunity:**
-    - **Gaming Studios:** Development of "AAA" titles in the Web3 space capable of attracting mainstream gamers.
+    - **Gaming Studios:** Development of high-quality titles in the Web3 space capable of attracting mainstream gamers.
     - **Infrastructure and Tooling:** Creation of tools that assist traditional game developers in integrating Web3 elements into their games.
     - **Creator Platforms:** Development of platforms that leverage NFTs and social [tokens](/what-is-a-token) to help artists, musicians, and writers monetize their work and foster direct relationships with their audience.
 
@@ -68,7 +68,7 @@ The Web3 job market operates under unique dynamics compared to Web2, resulting i
 
 | Factor                     | Web3 Dynamics                                    | Web2 Dynamics                                   |
 |---------------------------|--------------------------------------------------|------------------------------------------------|
-| **Compensation**          | Typically 20-40% higher than Web2 roles          | Standard market rates                           |
+| **Compensation**          | Typically higher than Web2 roles                 | Standard market rates                           |
 | **Remote-First Culture**  | Fully or primarily remote work opportunities     | Mostly office-based with some remote options   |
 | **Growth Trajectory**     | Rapid career progression due to scaling demand   | Slower, traditional promotion structures        |
 | **Equity Upside**         | Standard token and equity packages                | Limited stock options                           |
@@ -117,7 +117,7 @@ Target roles that align with your existing skills while incorporating new Web3 k
 ### Real-World Success Stories
 
 #### Developer to Smart Contract Engineer
-Alex worked for five years as a backend engineer at a major tech company. He dedicated three months to learning Solidity while still employed. His contributions to an open-source protocol caught the attention of a leading DeFi project, leading to a transition that resulted in a 50% salary increase along with substantial equity.
+Alex worked for five years as a backend engineer at a major tech company. He dedicated three months to learning Solidity while still employed. His contributions to an open-source protocol caught the attention of a leading DeFi project, leading to a transition that resulted in a significant salary increase along with substantial equity.
 
 #### Product Manager in Web3
 Jessica, a product manager with a background in traditional finance, leveraged her expertise in DeFi. Her combination of financial knowledge and Web3 understanding made her a valuable asset. She secured a role at a prominent DeFi protocol within four weeks.
@@ -141,7 +141,7 @@ Marcus left his corporate role to immerse himself in Web3 for six months. Throug
 A: No. The Web3 ecosystem requires a diverse range of skills beyond engineering. Marketing managers, community leads, product designers, legal counsel, and operations specialists are all in high demand. Existing skills in these areas can transition effectively; you only need to contextually layer in Web3 knowledge, such as wallet mechanics and DAO functions.
 
 **Q: How much can I earn in Web3?**  
-A: Compensation in Web3 consistently exceeds Web2 equivalents. Base salaries can be 30-60% higher on average, particularly for roles such as Solidity engineers and smart contract auditors, due to high demand. Total compensation packages often include bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded projects may earn total compensation ranging from $200,000 to $350,000.
+A: Compensation in Web3 consistently exceeds Web2 equivalents. Base salaries can be higher on average, particularly for roles such as Solidity engineers and smart contract auditors, due to high demand. Total compensation packages often include bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded projects may earn total compensation ranging from a substantial amount.
 
 **Q: Is it risky to transition to Web3?**  
 A: Transitioning to Web3 carries inherent risks, primarily due to market volatility and project lifecycles. You can minimize these risks by targeting established protocols with proven revenue and focusing on negotiating base salaries in fiat rather than entirely in tokens.

@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Introduction: The Blockchain Scalability Challenge
 
-Ethereum, the leading smart contract platform, faces significant scalability issues. Currently, the Ethereum mainnet can process approximately 15 to 30 transactions per second (TPS). This limited throughput results in high gas fees during network congestion, rendering many applications economically unfeasible. To realize its vision of serving as a global settlement layer for the decentralized internet, Ethereum must scale to handle thousands of transactions per second.
+Ethereum, the leading smart contract platform, faces significant scalability issues. Currently, the Ethereum mainnet can process a limited number of transactions per second (TPS). This limited throughput results in high gas fees during network congestion, rendering many applications economically unfeasible. To realize its vision of serving as a global settlement layer for the decentralized internet, Ethereum must scale to handle a much larger volume of transactions.
 
 Layer 2 scaling solutions address this challenge, with rollups being the most prominent and widely utilized. This article examines rollups, detailing their operation, significance, and the critical role they play in Ethereum's scaling strategy. We will focus on two primary types of rollups: Optimistic Rollups and Zero-Knowledge (ZK) Rollups, highlighting their fundamental differences in security models and trade-offs.
 
@@ -26,7 +26,7 @@ A rollup's central concept is straightforward: execute computation off-chain whi
 2. **Bundling Transactions**: The rollup's operator, known as a "sequencer," compiles hundreds or thousands of Layer 2 transactions into a single batch.
 3. **Posting Data On-Chain**: The sequencer posts a compressed version of this transaction data back to the Ethereum mainnet. This step is crucial; by submitting the data on-chain, the rollup ensures that its state can be independently verified while inheriting Ethereum's security and data availability. Anyone can check the posted data on Layer 1 and reconstruct the state of Layer 2.
 
-This model enables rollups to achieve remarkable scalability gains. By offloading the resource-intensive task of transaction execution, rollups can offer transaction fees that are 10 to 100 times lower than those on the Ethereum mainnet while remaining secured by it.
+This model enables rollups to achieve remarkable scalability gains. By offloading the resource-intensive task of transaction execution, rollups can offer transaction fees that are significantly lower than those on the Ethereum mainnet while remaining secured by it.
 
 The key question concerns how Layer 1 verifies the validity of transactions executed on Layer 2. This is where the two types of rollups diverge.
 
@@ -36,14 +36,14 @@ Optimistic Rollups, such as Arbitrum and Optimism, function under the principle 
 
 ### How They Work
 - The rollup's sequencer submits a batch of transaction data to Layer 1, claiming that the resulting state change is accurate without providing immediate proof.
-- This initiates a "challenge period," typically lasting seven days.
+- This initiates a "challenge period," typically lasting several days.
 - During this period, any verifier can inspect the transaction data on Layer 1 and re-execute the transactions to identify any fraudulent activity.
 - If a verifier detects a discrepancy, they can submit a "fraud proof" to Layer 1. Layer 1 then executes the disputed transaction to ascertain the truth. If fraud is validated, the erroneous batch is reverted, and the sequencer faces penalties, such as having their staked collateral slashed.
-- If no successful challenges occur during the seven-day window, the transaction batch is deemed final.
+- If no successful challenges occur during the challenge window, the transaction batch is deemed final.
 
 ### Trade-offs
 - **Pros**: Optimistic Rollups are generally compatible with the Ethereum Virtual Machine (EVM), allowing existing Ethereum decentralized applications (dApps) to transition to them with minimal adjustments. Their technology is also more mature and less complex compared to ZK-Rollups.
-- **Cons**: The primary drawback is the lengthy withdrawal period. Due to the seven-day challenge window, users must wait a week to retrieve their funds from Layer 2 back to Layer 1. Third-party "liquidity bridges" can expedite withdrawals, but these options often come with higher risks and costs.
+- **Cons**: The primary drawback is the lengthy withdrawal period. Due to the challenge window, users must wait several days to retrieve their funds from Layer 2 back to Layer 1. Third-party "liquidity bridges" can expedite withdrawals, but these options often come with higher risks and costs.
 
 ## ZK-Rollups: Guilty Until Proven Innocent
 
@@ -65,8 +65,8 @@ The Ethereum community has embraced a clear strategy: a rollup-centric roadmap f
 
 Recent and anticipated Ethereum upgrades align with this vision:
 - **The Merge (Proof-of-Stake)**: While not a direct scaling solution, transitioning to Proof-of-Stake establishes a foundation for future scaling upgrades.
-- **EIP-4844 (Proto-Danksharding)**: This major upgrade introduced a new transaction type tailored for rollup data, creating a separate "data blob" marketplace. This innovation drastically reduces costs for rollups to submit their data to Layer 1, resulting in a significant decrease in fees on Layer 2 platforms like Arbitrum and Optimism.
-- **Danksharding**: The full implementation of Danksharding will further enhance this dedicated data space, enabling massive scalability to accommodate thousands of rollups and millions of transactions per second.
+- **EIP-4844 (Proto-Danksharding)**: This major upgrade introduced a new transaction type tailored for rollup data, creating a separate "data blob" marketplace. This innovation drastically reduces costs for rollups to submit their data to Layer 1, resulting in a decrease in fees on Layer 2 platforms like Arbitrum and Optimism.
+- **Danksharding**: The full implementation of Danksharding will further enhance this dedicated data space, enabling massive scalability to accommodate numerous rollups and a high volume of transactions.
 
 ## Rollups: The Engine of Web3 Adoption
 
@@ -81,9 +81,9 @@ As rollup technology progresses and the costs associated with using Layer 2 solu
 | Feature                        | Optimistic Rollups                       | ZK-Rollups                             |
 |--------------------------------|-----------------------------------------|---------------------------------------|
 | **Transaction Confirmation**    | Challenges after submission             | Instant confirmation with validity proof |
-| **Withdrawal Time**            | 7 days (challenge period)              | Almost instant (minutes)              |
+| **Withdrawal Time**            | Several days (challenge period)        | Almost instant (minutes)              |
 | **Complexity**                 | Less complex, EVM-compatible            | Highly complex, advanced cryptography  |
-| **Cost Efficiency**            | 10-100x cheaper than Layer 1           | Comparable, depends on proof generation |
+| **Cost Efficiency**            | Significantly cheaper than Layer 1     | Comparable, depends on proof generation |
 | **Use Cases**                  | General dApps, DeFi                     | High-speed applications, gaming        |
 
 ## Conclusion
