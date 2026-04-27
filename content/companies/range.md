@@ -1,5 +1,6 @@
 ---
 name: Range
+website: https://range.org
 category: Other
 description: Range is a company focused on building tools for Web3 developers.
 ---

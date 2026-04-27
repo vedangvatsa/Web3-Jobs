@@ -1,5 +1,6 @@
 ---
 name: Merge
+website: https://merge.xyz
 category: FinTech
 description: Merge focuses on cross-border payments and stablecoin solutions.
 ---

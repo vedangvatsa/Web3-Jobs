@@ -1,5 +1,6 @@
 ---
 name: Nascent
+website: https://nascent.xyz
 category: Other
 description: Nascent is a company focused on market analysis and trading operations.
 ---

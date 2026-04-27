@@ -1,5 +1,6 @@
 ---
 name: Spindl
+website: https://spindl.xyz
 category: Other
 description: Spindl is a company focused on social and product management solutions.
 ---

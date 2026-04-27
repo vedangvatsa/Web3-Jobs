@@ -1,5 +1,6 @@
 ---
 name: Permian Labs
+website: https://permianlabs.xyz
 category: Other
 description: Permian Labs focuses on building decentralized applications and infrastructure.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Sec3
+website: https://sec3.dev
 category: Other
 description: Sec3 focuses on security solutions for blockchain technologies.
 ---

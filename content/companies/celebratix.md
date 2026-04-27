@@ -1,5 +1,6 @@
 ---
 name: Celebratix
+website: https://celebratix.com
 category: Other
 description: Celebratix is a platform focused on connecting fans with celebrities.
 ---

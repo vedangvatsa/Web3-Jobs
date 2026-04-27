@@ -1,5 +1,6 @@
 ---
 name: Wormhole Labs
+website: https://wormhole.com
 category: Other
 description: Wormhole Labs develops cross-chain messaging protocols for blockchain networks.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Walrus Foundation
+website: https://walrus.xyz
 category: Other
 description: Non-profit organization focused on supporting open-source projects in the blockchain space.
 ---

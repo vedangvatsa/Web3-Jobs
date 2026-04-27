@@ -1,5 +1,6 @@
 ---
 name: Kast
+website: https://kast.gg
 category: Other
 description: Kast provides tools for live streaming and virtual events.
 ---

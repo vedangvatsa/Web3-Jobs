@@ -1,5 +1,6 @@
 ---
 name: Sentient
+website: https://sentient.xyz
 category: Other
 description: Sentient is focused on developing AI-driven solutions for various industries.
 ---
