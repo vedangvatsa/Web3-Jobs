@@ -35,9 +35,9 @@ Simply stating that you want more money is insufficient. Develop a compelling, d
 - **Investigate Market Salaries**: Utilize platforms like Glassdoor and Payscale to determine average salaries for your position, experience, and geographic area. This information will help you establish a reasonable salary target.
 - **Keep Track of Your Achievements**: Document your accomplishments over several months. Focus on those that have resulted in measurable benefits for the company.
 - **Quantify Your Contributions**: Use specific metrics to underline your value. For instance:
-  - "I increased sales in my territory by 15%."
-  - "I optimized a process that saved the company 10 hours of work weekly."
-  - "I led a project that came in 10% under budget."
+  - "I increased sales in my territory significantly."
+  - "I optimized a process that saved the company considerable time."
+  - "I led a project that came in under budget."
 
 ### 3. Arrange a Dedicated Meeting
 
@@ -66,7 +66,7 @@ While spontaneity can be appealing, having a structured script or at least key t
 ### FAQs
 
 **What raise percentage should I request?**  
-A typical raise ranges between 3-5%. If your market research indicates you are underpaid or if you have significantly increased your responsibilities, you can reasonably request a 10-20% raise, provided you can substantiate your claim.
+A typical raise ranges between a few percent. If your market research indicates you are underpaid or if you have significantly increased your responsibilities, you can reasonably request a higher raise, provided you can substantiate your claim.
 
 **How should I respond if my manager reacts defensively?**  
 Remain calm and professional. Reinforce your commitment to the organization and clarify that your goal is to ensure your compensation reflects your contributions and the market value of your role.
@@ -103,10 +103,10 @@ Monitor your progress. Are you achieving the desired results? Adjust your strate
 ### Real-World Examples
 
 #### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with compensation discussions. After implementing researched strategies, she successfully secured a 15% salary increase within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with compensation discussions. After implementing researched strategies, she successfully secured a significant salary increase within a few months.
 
 #### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered similar hurdles. By applying the outlined framework, he negotiated a 20% salary increase after successfully launching a new product line. His experience illustrates the efficacy of these principles.
+Juan, a product manager in [DeFi](/what-is-defi), encountered similar hurdles. By applying the outlined framework, he negotiated a notable salary increase after successfully launching a new product line. His experience illustrates the efficacy of these principles.
 
 #### Example 3
 Maya transitioned from a Web2 role to Web3 and utilized these strategies to adapt quickly. Her success underscores that these methods are effective regardless of background or experience level.

@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Litecoin's Enduring Presence
 
-Litecoin (LTC) has maintained a significant role in the cryptocurrency sector since Charlie Lee created it in 2011. Often referred to as the "silver to [Bitcoin](/what-is-bitcoin)'s gold," Litecoin served as an alternative to Bitcoin, designed to facilitate faster and cheaper transactions. Historically, Litecoin ranked among the top cryptocurrencies by market capitalization, noted for its shorter block generation times and reliable performance. However, the emergence of [Web3](/what-is-web3) platforms, including [Ethereum](/what-is-ethereum), Solana, and Avalanche, raises questions about Litecoin's developer activity and its ongoing relevance in a space filled with advanced features and functionalities. Has Litecoin maintained its position as a center for innovation, or has it stagnated as newer blockchains have taken the lead?
+Litecoin (LTC) has maintained a significant role in the cryptocurrency sector since Charlie Lee created it in 2011. Often referred to as the "silver to [Bitcoin](/what-is-bitcoin)'s gold," Litecoin served as an alternative to Bitcoin, designed to facilitate faster and cheaper transactions. Historically, Litecoin ranked among the top cryptocurrencies, noted for its shorter block generation times and reliable performance. However, the emergence of [Web3](/what-is-web3) platforms, including [Ethereum](/what-is-ethereum), Solana, and Avalanche, raises questions about Litecoin's developer activity and its ongoing relevance in a space filled with advanced features and functionalities. Has Litecoin maintained its position as a center for innovation, or has it stagnated as newer blockchains have taken the lead?
 
 This article thoroughly examines Litecoin's development ecosystem. It explores current developer activity, analyzes key metrics, and reviews various projects built on the network. By evaluating core protocol development, community engagement, and the rise of second-layer solutions, this analysis offers a detailed assessment of Litecoin's current status. Does the narrative of a slowdown accurately reflect reality, or is there a resurgence of activity on this established blockchain?
 
@@ -25,7 +25,7 @@ To evaluate developer activity on a public blockchain, several metrics come into
 | Metric                          | Description                                                                                                           |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | **Core Protocol Commits**       | Frequency and significance of updates to the Litecoin codebase on repositories like [GitHub](/building-web3-portfolio). |
-| **Number of Active Developers** | Monthly active developers contributing to the ecosystem, as reported by firms like Electric Capital.                      |
+| **Number of Active Developers** | Monthly active developers contributing to the ecosystem, as reported by various industry sources.                      |
 | **Ecosystem Project Growth**    | Number and quality of new projects built on Litecoin, including wallets, payment processors, and second-layer solutions.  |
 | **Community and Grant Programs**| Activity level in grant programs from the Litecoin Foundation, alongside discussions in developer forums and channels.    |
 
@@ -49,7 +49,7 @@ While Litecoin's base layer emphasizes stability, significant innovation is occu
 
 The Lightning Network is a Layer-2 protocol for both Bitcoin and Litecoin, facilitating rapid and low-cost transactions. Transactions are settled off-chain, with only the final balance reported to the main blockchain. This mechanism is particularly advantageous for micropayments and routine commerce. Litecoin has been an active participant in the Lightning ecosystem, supported by a community of developers operating nodes and creating applications.
 
-The growth of Lightning channels and the total capacity locked on the Litecoin Lightning Network reflects a vibrant user and developer base taking advantage of this second layer to address the scalability challenges of the base chain. Projects built on Lightning often serve both Bitcoin and Litecoin, fostering a shared ecosystem of wallets, payment channels, and services. This collaboration allows Litecoin to benefit from broader innovations occurring within the Bitcoin ecosystem.
+The growth of Lightning channels and the total capacity on the Litecoin Lightning Network reflects a vibrant user and developer base taking advantage of this second layer to address the scalability challenges of the base chain. Projects built on Lightning often serve both Bitcoin and Litecoin, fostering a shared ecosystem of wallets, payment channels, and services. This collaboration allows Litecoin to benefit from broader innovations occurring within the Bitcoin ecosystem.
 
 ### The Emergence of LTC-20 and Ordinals
 

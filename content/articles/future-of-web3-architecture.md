@@ -12,19 +12,19 @@ publishedDate: "2026-03-15"
 lastUpdated: "2026-04-27"
 ---
 
-The blockchain infrastructure of 2026 represents a significant transformation from the systems developers faced five years earlier. The previous model, characterized by a monolithic design that attempted to manage execution, data availability, and settlement in a single chain, has evolved into a modular ecosystem. This modular approach addresses critical issues such as transaction throughput limitations, high gas fees, and the growing demand from billions of users and complex on-chain applications.
+The blockchain infrastructure of 2026 represents a significant transformation from the systems developers faced five years earlier. The previous model, characterized by a monolithic design that attempted to manage execution, data availability, and settlement in a single chain, has evolved into a modular ecosystem. This modular approach addresses critical issues such as transaction throughput limitations, high gas fees, and the growing demand from users and complex on-chain applications.
 
 This article outlines the key developments shaping this evolution: the transition to [modular blockchain](/modular-blockchain) architecture, the emergence of intent-centric protocols, the integration of AI with on-chain execution, and advancements in zero-knowledge proofs that redefine operational possibilities in 2026.
 
 ## The Shift from Monolithic to Modular Architecture
 
-Ethereum debuted in 2015 as a monolithic blockchain, where a single network managed execution, consensus, data availability, and settlement concurrently. While this design simplified understanding, it limited performance. Under standard conditions, Ethereum processes approximately **15 transactions per second (TPS)**. During peak demand, users often face exorbitant gas fees that can exclude retail users and smaller developers.
+Ethereum debuted in 2015 as a monolithic blockchain, where a single network managed execution, consensus, data availability, and settlement concurrently. While this design simplified understanding, it limited performance. Under standard conditions, Ethereum processes a relatively low number of transactions per second. During peak demand, users often face high gas fees that can exclude retail users and smaller developers.
 
-The Ethereum community responded with a rollup-centric roadmap, articulated by founder Vitalik Buterin in 2020. Instead of scaling the primary chain, this strategy delegates execution to [rollup](/optimistic-rollup) networks, which batch transactions and submit compressed proofs back to Ethereum. Current rollups, including Arbitrum, Optimism, zkSync, and Starknet, regularly achieve between **2,000 and 4,000 TPS** in production environments, with potential limits that are even higher.
+The Ethereum community responded with a rollup-centric roadmap, articulated by founder Vitalik Buterin in 2020. Instead of scaling the primary chain, this strategy delegates execution to [rollup](/optimistic-rollup) networks, which batch transactions and submit compressed proofs back to Ethereum. Current rollups, including Arbitrum, Optimism, zkSync, and Starknet, regularly achieve significant transaction throughput in production environments, with potential limits that are even higher.
 
 However, rollups raised a critical question regarding data storage. Ethereum's blob storage, introduced via EIP-4844, significantly improved the situation. Nevertheless, specialized [data availability layer](/data-availability-layer) networks have emerged to optimize data handling further. **Celestia** pioneered this area as the first modular DA network on mainnet, enabling rollups to publish their data affordably. Other contenders like **EigenDA**, based on EigenLayer's restaking framework, and **Avail**, from the Polygon team, offer alternative solutions.
 
-**EigenLayer** stands out as one of the most important architectural primitives of this cycle. It allows ETH stakers to "restake" their security to new protocols, enabling the creation of DA layers, bridges, oracles, and sequencers without needing to establish a new validator set. By early 2026, over $15 billion in restaked ETH was secured through EigenLayer, supporting a growing array of Actively Validated Services (AVS).
+**EigenLayer** stands out as one of the most important architectural primitives of this cycle. It allows ETH stakers to "restake" their security to new protocols, enabling the creation of DA layers, bridges, oracles, and sequencers without needing to establish a new validator set. By early 2026, a significant amount of restaked ETH was secured through EigenLayer, supporting a growing array of Actively Validated Services (AVS).
 
 As a result, the [modular blockchain](/modular-blockchain) stack has emerged, where each layer specializes in its function. Developers can select and combine components according to their needs. This setup is not theoretical; it has become the standard architecture for most new Layer 2 and Layer 3 deployments in 2025 and 2026.
 
@@ -34,7 +34,7 @@ Despite rollups managing millions of transactions daily, the Web3 user experienc
 
 **Intent-centric protocols** redefine this interaction model. Instead of users specifying exact transactions, such as “swap exactly 1 ETH for USDC using this route,” they express broader intents like, “I want at least 3,400 USDC for my 1 ETH.” A network of specialized actors called **solvers** then competes to fulfill that intent, relieving users from navigating the execution complexities.
 
-The **CoW Protocol** (Coincidence of Wants) pioneered this concept on Ethereum, facilitating peer-to-peer order matching before routing any remaining orders through automated market makers (AMMs). This protocol has processed over $30 billion in trading volume and consistently provides better pricing than conventional AMM routing. Meanwhile, **1inch Fusion** has built on this model by introducing a Dutch auction system where solvers bid to fulfill orders. **Anoma** is developing a protocol-level intent-centric architecture, establishing a unified platform where intents serve as the core primitive.
+The **CoW Protocol** (Coincidence of Wants) pioneered this concept on Ethereum, facilitating peer-to-peer order matching before routing any remaining orders through automated market makers (AMMs). This protocol has processed significant trading volume and consistently provides better pricing than conventional AMM routing. Meanwhile, **1inch Fusion** has built on this model by introducing a Dutch auction system where solvers bid to fulfill orders. **Anoma** is developing a protocol-level intent-centric architecture, establishing a unified platform where intents serve as the core primitive.
 
 For developers, this transition requires a focus on user goals rather than the mechanics of achieving them. The infrastructure for solvers—off-chain matching and simulation engines—becomes essential. Users benefit from a streamlined experience that resembles Web2: specify an outcome, pay a fee, and let the protocol manage the rest.
 
@@ -42,15 +42,15 @@ The [intent-centric protocol](/intent-centric-protocol) model also influences th
 
 ## AI + Web3: Convergence in 2026
 
-One of the most significant trends in Web3 architecture is the integration of artificial intelligence with on-chain execution. 
+One of the most significant trends in Web3 architecture is the integration of artificial intelligence with on-chain execution.
 
-**AI agents executing on-chain** transitioned from experimental projects to operational realities in 2025. Initial deployments featured basic automated bots executing yield strategies. By 2026, more advanced agents emerged, capable of formulating multi-step DeFi strategies, participating in governance votes, and managing cross-chain portfolios with minimal human intervention. Frameworks like ElizaOS (formerly ai16z) and Virtuals Protocol provide essential infrastructure for launching autonomous agents with on-chain wallets, representing hundreds of millions in monthly on-chain activity.
+**AI agents executing on-chain** transitioned from experimental projects to operational realities in 2025. Initial deployments featured basic automated bots executing yield strategies. By 2026, more advanced agents emerged, capable of formulating multi-step DeFi strategies, participating in governance votes, and managing cross-chain portfolios with minimal human intervention. Frameworks like ElizaOS (formerly ai16z) and Virtuals Protocol provide essential infrastructure for launching autonomous agents with on-chain wallets, representing significant monthly on-chain activity.
 
 However, trust poses a challenge: verifying that an AI made decisions based on the claimed model and inputs rather than a modified version. Enter **verifiable AI inference**. Projects like **Giza** and **Modulus Labs** (acquired by Aztec in 2024) are pioneering zero-knowledge proofs for machine learning models. These cryptographic proofs confirm that a specific model, when executed with specific inputs, yields a specific output. This process allows smart contracts to utilize AI outputs without needing a centralized oracle or trusted execution environment.
 
 The potential applications extend well beyond DeFi. Verifiable AI facilitates on-chain credit scoring models, fraud detection systems, and dynamic NFTs governed by AI logic that remains auditable. Although zkML (zero-knowledge machine learning) proof generation is currently expensive and limited to smaller models, the trend points toward increased viability.
 
-For instance, Giza's ONNX-to-Cairo compiler enables developers to convert trained machine learning models for operation inside ZK circuits. Modulus Labs successfully demonstrated verifiable inference for a ResNet-18 image classification model in 2023. By 2025, proof generation times for comparable models had decreased by over 90%.
+For instance, Giza's ONNX-to-Cairo compiler enables developers to convert trained machine learning models for operation inside ZK circuits. Modulus Labs successfully demonstrated verifiable inference for a ResNet-18 image classification model in 2023. By 2025, proof generation times for comparable models had decreased significantly.
 
 ## Modular Blockchain Stack: Real-World Deployments
 
@@ -63,7 +63,7 @@ The modular blockchain thesis has transitioned from theoretical discussions to r
 | **Settlement**           | Verify proofs, resolve disputes                       | Ethereum                                             |
 | **Sequencing**           | Order transactions, produce blocks                   | Centralized sequencers (current), shared sequencing (emerging) |
 
-**Arbitrum** currently leads in total value locked (TVL) and developer activity among optimistic [rollup](/optimistic-rollup) networks. Its Orbit stack allows teams to launch custom Layer 3 chains settled on Arbitrum. **Optimism's Superchain** initiative connects OP Stack chains—including Base (Coinbase), Mode, and Zora—through a shared messaging layer. **zkSync's ZK Stack** and **Starknet's Madara** framework provide ZK-rollup equivalents.
+**Arbitrum** currently leads in developer activity among optimistic [rollup](/optimistic-rollup) networks. Its Orbit stack allows teams to launch custom Layer 3 chains settled on Arbitrum. **Optimism's Superchain** initiative connects OP Stack chains—including Base (Coinbase), Mode, and Zora—through a shared messaging layer. **zkSync's ZK Stack** and **Starknet's Madara** framework provide ZK-rollup equivalents.
 
 In the domain of the [data availability layer](/data-availability-layer), Celestia's “data availability sampling” allows light nodes to verify data availability without downloading full blocks, an essential feature for scalability. EigenDA’s architecture leverages Ethereum’s existing validator set through restaking, resulting in a unique security profile that aligns closely with Ethereum's guarantees. Choosing between DA layers requires careful consideration of costs, security assumptions, and ecosystem alignment.
 
@@ -73,7 +73,7 @@ Practically, a developer building a new application-specific chain in 2026 can l
 
 Several specific technical milestones have significantly enhanced the capabilities of the modular stack over the past 18 months.
 
-**EIP-4844 (Proto-Danksharding)**, which activated on Ethereum mainnet in March 2024, introduced "blobs"—a new data format that is less expensive to publish than calldata and automatically pruned after approximately 18 days. This change resulted in a **~10x reduction in data posting costs for Layer 2 networks**. Following the upgrade, Arbitrum and Optimism users experienced average transaction fee reductions from tens of cents to fractions of a cent, dramatically improving the economic viability of the modular stack.
+**EIP-4844 (Proto-Danksharding)**, which activated on Ethereum mainnet in March 2024, introduced "blobs"—a new data format that is less expensive to publish than calldata and automatically pruned after approximately 18 days. This change resulted in a significant reduction in data posting costs for Layer 2 networks. Following the upgrade, Arbitrum and Optimism users experienced average transaction fee reductions, dramatically improving the economic viability of the modular stack.
 
 **Based sequencing** is an innovative approach where Ethereum validators sequence Layer 2 transactions directly instead of relying on separate centralized sequencers operated by rollup teams. This model, introduced by Justin Drake's "based rollup" proposal, mitigates centralization risks associated with current rollup architectures. Taiko has implemented a based ZK rollup on Ethereum mainnet since 2024.
 
@@ -85,7 +85,7 @@ Several specific technical milestones have significantly enhanced the capabiliti
 
 The architectural changes outlined above significantly impact the Web3 job market in 2026.
 
-**ZK engineering** has emerged as the most sought-after technical specialty in the field. Skills such as writing circuits in Circom, Cairo, Noir, or Halo2; optimizing constraint systems; and building proving infrastructure command top-tier compensation, with senior ZK engineers earning between $250,000 and $400,000+ annually at well-funded protocols. The supply of qualified engineers remains limited due to the advanced mathematical knowledge required, which is not typically included in standard computer science curricula.
+**ZK engineering** has emerged as the most sought-after technical specialty in the field. Skills such as writing circuits in Circom, Cairo, Noir, or Halo2; optimizing constraint systems; and building proving infrastructure command top-tier compensation, with senior ZK engineers earning high salaries at well-funded protocols. The supply of qualified engineers remains limited due to the advanced mathematical knowledge required, which is not typically included in standard computer science curricula.
 
 **Modular stack development**—creating applications using DA layers, rollup frameworks, and restaking primitives—represents another key growth area. Teams working on Celestia, EigenLayer, or various rollup SDKs seek engineers who understand the entire modular stack rather than just a single chain. Experience with cross-chain and interoperability enhances a candidate's value.
 

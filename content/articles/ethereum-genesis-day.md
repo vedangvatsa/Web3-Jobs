@@ -18,7 +18,7 @@ On July 30, 2015, Ethereum's Genesis Block was mined. This event marked the laun
 
 Ethereum's story began well before its first block. In late 2013, Vitalik Buterin, a programmer with a strong reputation in the [Bitcoin](/what-is-bitcoin) community, published the Ethereum whitepaper. He pointed out that while Bitcoin was a significant innovation in decentralized currency, its scripting language was too restrictive. Buterin envisioned a new blockchain platform equipped with a Turing-complete [programming language](/best-programming-languages-for-blockchain-development), enabling developers to build any dApp they could conceive.
 
-This ambition to create a global, decentralized computer resonated with developers worldwide. Buterin, working alongside co-founders Gavin Wood, Charles Hoskinson, Anthony Di Iorio, and Joseph Lubin, initiated a groundbreaking project to construct this platform. They funded the endeavor through one of the earliest initial coin offerings (ICOs), raising over $18 million in Bitcoin by selling Ether (ETH), Ethereum’s native token. This method of crowdfunding was innovative; it allowed a novel technology to receive financial backing directly from supporters rather than traditional venture capitalists, ensuring a decentralized distribution of tokens from the outset.
+This ambition to create a global, decentralized computer resonated with developers worldwide. Buterin, working alongside co-founders Gavin Wood, Charles Hoskinson, Anthony Di Iorio, and Joseph Lubin, initiated a groundbreaking project to construct this platform. They funded the endeavor through one of the earliest initial coin offerings (ICOs), raising significant value in Bitcoin by selling Ether (ETH), Ethereum’s native token. This method of crowdfunding was innovative; it allowed a novel technology to receive financial backing directly from supporters rather than traditional venture capitalists, ensuring a decentralized distribution of tokens from the outset.
 
 For the subsequent year, the core team worked relentlessly. They developed the protocol, refined the proof-of-work consensus mechanism, and built the initial software known as the Ethereum client. They launched a series of public testnets—Olympia, Morden, and others—permitting a burgeoning community of developers to experiment with smart contracts and dApps. This phase of intense development and community involvement was crucial for establishing a stable and successful launch. The public testnets helped identify bugs, stress-test the network, and instill confidence in developers that the platform would function as intended.
 
@@ -28,7 +28,7 @@ Ethereum's defining feature is its smart contracts—programmable code residing 
 
 | Capability                    | Description                                                                                          |
 |-------------------------------|------------------------------------------------------------------------------------------------------|
-| Conditional Transactions       | Transactions could be designed to execute only when specific conditions were satisfied (e.g., "execute this contract when 30 days have passed AND the price of ETH exceeds $100"). |
+| Conditional Transactions       | Transactions could be designed to execute only when specific conditions were satisfied (e.g., "execute this contract when 30 days have passed AND the price of ETH exceeds a certain amount"). |
 | Decentralized Logic           | Business logic could be enforced through code running on thousands of nodes, eliminating the need for trusted intermediaries. |
 | Programmable Money            | Developers could create novel financial instruments—such as bonds, derivatives, and lending protocols—without establishing a traditional company. |
 
@@ -44,15 +44,15 @@ To encourage widespread participation, the early mining difficulty was set low. 
 
 The initial phase of Ethereum was marked by experimentation. Developers created early dApps, including simple token contracts, prediction markets, and DAOs. The introduction of the ERC-20 token standard in 2015 laid the groundwork for thousands of projects. This standard provided a straightforward specification with key functions such as "transfer" and "approve," which sparked a wave of token-based projects.
 
-In 2016, The DAO demonstrated both the potential and security vulnerabilities of smart contract platforms. This decentralized venture capital fund, governed entirely by code, raised $150 million from token holders through community voting to fund projects.
+In 2016, The DAO demonstrated both the potential and security vulnerabilities of smart contract platforms. This decentralized venture capital fund, governed entirely by code, raised significant value from token holders through community voting to fund projects.
 
-However, a critical vulnerability allowed an attacker to withdraw all funds, resulting in a loss of $50 million. The Ethereum community faced a difficult decision: either "revert" the transaction (undo the attack, which would violate the principle of immutability) or accept the loss. They opted to fork the chain, creating a new version of Ethereum without the consequences of the attack. Ethereum Classic persisted on the original chain. This fork became a significant event in Ethereum's governance, prioritizing pragmatic solutions to issues over strict adherence to immutability.
+However, a critical vulnerability allowed an attacker to withdraw funds, resulting in a loss of a substantial amount. The Ethereum community faced a difficult decision: either "revert" the transaction (undo the attack, which would violate the principle of immutability) or accept the loss. They opted to fork the chain, creating a new version of Ethereum without the consequences of the attack. Ethereum Classic persisted on the original chain. This fork became a significant event in Ethereum's governance, prioritizing pragmatic solutions to issues over strict adherence to immutability.
 
 ### The Impact: From DeFi to NFTs and Beyond
 
 Since its inception, Ethereum's smart contracts have facilitated DeFi, NFTs, DAOs, and much more. Ethereum emerged as the primary settlement layer for decentralized applications, with Layer 2 scaling solutions—such as Arbitrum, Optimism, and Polygon—developed to accommodate the growing demand for block space.
 
-**Decentralized Finance ([DeFi](/what-is-defi))** originated on Ethereum. Protocols like MakerDAO (established in 2015 and creator of the first decentralized stablecoin, DAI), Compound (launched in 2018 for decentralized lending), and Uniswap (introduced in 2018 as a pioneering automated market maker) rebuilt essential financial services without intermediaries. These innovations established a transparent, open, and permissionless financial system accessible to anyone with an internet connection and a [wallet](/how-to-choose-a-crypto-wallet). By 2020, the DeFi sector had locked in billions in value, demonstrating its practical viability.
+**Decentralized Finance ([DeFi](/what-is-defi))** originated on Ethereum. Protocols like MakerDAO (established in 2015 and creator of the first decentralized stablecoin, DAI), Compound (launched in 2018 for decentralized lending), and Uniswap (introduced in 2018 as a pioneering automated market maker) rebuilt essential financial services without intermediaries. These innovations established a transparent, open, and permissionless financial system accessible to anyone with an internet connection and a [wallet](/how-to-choose-a-crypto-wallet). By 2020, the DeFi sector had locked in significant value, demonstrating its practical viability.
 
 **Stablecoins** like DAI, which is backed by cryptocurrency collateral instead of fiat currency, illustrated the potential for maintaining stable value within a decentralized network. This capability was economically significant because it showcased the feasibility of decentralized systems managing critical financial use cases, such as maintaining a stable unit of account.
 
@@ -68,8 +68,8 @@ Since its launch, Ethereum has experienced significant technical upgrades:
 
 - **Istanbul (2019)**: This upgrade improved efficiency and security, leading to reduced gas costs.
 - **London (2021) and EIP-1559**: Introduced a new fee mechanism that burns transaction fees, making Ether potentially deflationary. This transition marked a significant evolution in Ethereum's fee market, enhancing inflation control and incentivizing network participation.
-- **The Merge (2022)**: Ethereum transitioned from a proof-of-work consensus mechanism, which required substantial energy resources from miners, to proof-of-[stake](/how-to-become-a-web3-staking-specialist). This upgrade reduced Ethereum’s energy consumption by 99.95%, addressing major criticisms of blockchain technology. The successful upgrade of a $200 billion network without downtime was a remarkable achievement in blockchain engineering.
-- **Danksharding (2023-2024)**: This upcoming upgrade aims to implement a form of sharding that will substantially decrease data availability costs for Layer 2 solutions, making rollups 10 to 100 times cheaper.
+- **The Merge (2022)**: Ethereum transitioned from a proof-of-work consensus mechanism, which required substantial energy resources from miners, to proof-of-[stake](/how-to-become-a-web3-staking-specialist). This upgrade reduced Ethereum’s energy consumption significantly, addressing major criticisms of blockchain technology. The successful upgrade of a large network without downtime was a remarkable achievement in blockchain engineering.
+- **Danksharding (2023-2024)**: This upcoming upgrade aims to implement a form of sharding that will substantially decrease data availability costs for Layer 2 solutions, making rollups significantly cheaper.
 
 ### The Community and Culture
 
@@ -79,7 +79,7 @@ This decentralized development model ensures that no single individual or entity
 
 ### Looking Forward from Genesis
 
-Ethereum Genesis Day signifies more than just a historical milestone; it celebrates a bold vision and highlights the strength of decentralized collaboration. From a single block, Ethereum has grown into a global movement, attracting millions of users, hundreds of thousands of developers, and generating over a trillion dollars in economic activity at its peak.
+Ethereum Genesis Day signifies more than just a historical milestone; it celebrates a bold vision and highlights the strength of decentralized collaboration. From a single block, Ethereum has grown into a global movement, attracting a vast number of users, numerous developers, and generating significant economic activity at its peak.
 
 The journey is ongoing. Ethereum continues to evolve with upgrades focused on:
 

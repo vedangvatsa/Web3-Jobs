@@ -18,7 +18,7 @@ This article explains how DAGs differ from blockchains and examines their unique
 
 ### Limitations of Traditional Blockchain Architecture
 
-Traditional blockchains operate as **totally ordered systems**. Each transaction must fit into a linear sequence of blocks, with new blocks added only after the previous ones are confirmed. This results in significant bottlenecks, as the network can only process transactions based on the capacity of individual blocks within fixed time intervals. For instance, Bitcoin can process about **7 transactions per second (TPS)**, while [Ethereum](/what-is-ethereum) averages around **30 TPS**.
+Traditional blockchains operate as **totally ordered systems**. Each transaction must fit into a linear sequence of blocks, with new blocks added only after the previous ones are confirmed. This results in significant bottlenecks, as the network can only process transactions based on the capacity of individual blocks within fixed time intervals. For instance, Bitcoin can process a limited number of transactions per second, while [Ethereum](/what-is-ethereum) averages a higher rate.
 
 These limitations create substantial scalability challenges for networks that aim to handle a high volume of transactions. 
 
@@ -41,7 +41,7 @@ A DAG represents a fundamentally different data structure. Instead of a linear a
 
 DAGs offer distinct advantages over traditional blockchains:
 
-- **Enhanced Scalability:** DAGs can process transactions in parallel. This allows for significantly higher TPS as network activity increases, potentially enabling thousands of transactions to be confirmed in real time.
+- **Enhanced Scalability:** DAGs can process transactions in parallel. This allows for significantly higher transaction rates as network activity increases, potentially enabling thousands of transactions to be confirmed in real time.
 - **Low or Zero Transaction Fees:** Many DAG networks operate with no fees. Users "pay" for transaction processing by validating earlier transactions, making DAGs suitable for microtransactions.
 - **Energy Efficiency:** Most DAGs do not employ energy-intensive Proof-of-Work mining, making them far more energy-efficient than Bitcoin and similar blockchains.
 
@@ -50,7 +50,7 @@ DAGs offer distinct advantages over traditional blockchains:
 Despite their benefits, DAGs face notable challenges:
 
 - **Ordering Complexity:** Blockchains provide a clear, total order of transactions, whereas DAGs only provide a partial order. This complexity complicates the use of smart contracts, which depend on a clear sequence of events. Many DAG-based platforms must introduce additional layers for ordering, which can lead to centralization.
-- **Centralized Coordination Issues:** Some early DAG implementations, such as IOTA's Tangle, relied on a central "Coordinator" node to ensure finality and prevent certain attack vectors. This reliance introduces a point of centralization, making true decentralized consensus challenging.
+- **Centralized Coordination Issues:** Some early DAG implementations relied on a central "Coordinator" node to ensure finality and prevent certain attack vectors. This reliance introduces a point of centralization, making true decentralized consensus challenging.
 - **Security Concerns During Low Traffic:** The security of many DAG models relies on a high transaction volume to confirm each transaction quickly. In low-traffic scenarios, the network may become more susceptible to attacks compared to traditional blockchains.
 
 ### Notable DAG-Based Projects
@@ -80,7 +80,7 @@ The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamic
 
 | Factor              | Web2                                    | Web3                                     |
 |---------------------|----------------------------------------|------------------------------------------|
-| Compensation        | Standard salaries                       | 20-40% higher salaries, significant bonuses and equity |
+| Compensation        | Standard salaries                       | Higher salaries, significant bonuses and equity |
 | Work Culture        | Often in-office or hybrid              | Primarily remote-first                   |
 | Career Growth       | Slower, more hierarchical               | Fast-paced due to rapid scaling          |
 | Equity Opportunities | Limited                                | Common, including tokens and equity      |
@@ -133,11 +133,11 @@ Focus on roles that utilize your existing expertise along with new Web3 knowledg
 
 ### Transitioning from Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience in a FAANG company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a leading DeFi project. This transition resulted in a 50% salary increase along with equity shares.
+Alex, a backend engineer with five years of experience in a major tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a leading DeFi project. This transition resulted in a significant salary increase along with equity shares.
 
 ### Product Manager in Web3
 
-Jessica, a product manager from a traditional finance background, leveraged her expertise in DeFi. Her familiarity with financial products, combined with her understanding of Web3 technology, made her a strong candidate. She secured a role at a prominent DeFi protocol within four weeks.
+Jessica, a product manager from a traditional finance background, leveraged her expertise in DeFi. Her familiarity with financial products, combined with her understanding of Web3 technology, made her a strong candidate. She secured a role at a prominent DeFi protocol within a short period.
 
 ### Career Change Success
 
@@ -145,7 +145,7 @@ Marcus left his corporate job to pursue a career in Web3 over six months. With c
 
 ## Web3-Specific Challenges
 
-**Volatility Risk:** The crypto market's inherent volatility can pose risks to job stability, especially at early-stage startups. Professionals entering Web3 should maintain 6-12 months of living expenses as a buffer, negotiate base salaries in fiat currency instead of tokens, and prioritize projects with established revenue models or robust treasury reserves.
+**Volatility Risk:** The crypto market's inherent volatility can pose risks to job stability, especially at early-stage startups. Professionals entering Web3 should maintain several months of living expenses as a buffer, negotiate base salaries in fiat currency instead of tokens, and prioritize projects with established revenue models or robust treasury reserves.
 
 **Regulatory Uncertainty:** The regulatory environment for blockchain companies remains fluid across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators rather than operating in ambiguous legal spaces.
 
@@ -159,21 +159,21 @@ Marcus left his corporate job to pursue a career in Web3 over six months. With c
 A: No. Web3 requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal, operations, and business development are in high demand. Existing skills translate well; you only need to learn the Web3 context, such as wallet functionality, DAOs, and the significance of decentralization. Hiring managers often prioritize domain expertise combined with curiosity about the field.
 
 **Q: What is the earning potential in Web3?**  
-A: Compensation in Web3 consistently exceeds that of Web2. Base salaries typically range 30-60% higher on average, with Solidity engineers and smart contract auditors commanding premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations, sometimes leading to earnings of $200,000–$350,000 for senior engineers at well-funded protocols. Non-technical roles also see substantial compensation increases.
+A: Compensation in Web3 consistently exceeds that of Web2. Base salaries typically range higher on average, with Solidity engineers and smart contract auditors commanding premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations, sometimes leading to significant earnings for senior engineers at well-funded protocols. Non-technical roles also see substantial compensation increases.
 
 **Q: Is transitioning to Web3 risky?**  
 A: All career transitions carry risk, and Web3 is no exception due to market volatility and the lifecycle of projects. You can mitigate this risk by targeting well-funded, established protocols with proven revenue, ensuring you have a salary in fiat currency, and verifying the team's background. Those who treat Web3 as a serious career move rather than a speculative venture typically find stable roles that endure market fluctuations.
 
 **Q: How long does the transition to Web3 take?**  
-A: Most professionals achieve a meaningful transition to Web3 within 2-6 months of focused effort. Engineers and product managers often transition more quickly due to the direct applicability of their skills. Non-technical roles, such as marketing and community management, can transition within 4-8 weeks through dedicated self-study. Active engagement, such as working on portfolio projects or contributing to open-source protocols, accelerates this process.
+A: Most professionals achieve a meaningful transition to Web3 within a few months of focused effort. Engineers and product managers often transition more quickly due to the direct applicability of their skills. Non-technical roles, such as marketing and community management, can transition within a couple of months through dedicated self-study. Active engagement, such as working on portfolio projects or contributing to open-source protocols, accelerates this process.
 
 **Q: What happens if the crypto market crashes?**  
-A: Bear markets historically present excellent opportunities to enter the Web3 workforce. As speculative hype diminishes, teams concentrate on developing real products, prioritizing talent over token price. Infrastructure firms, security companies, and developer tooling providers maintain steady hiring regardless of market conditions. Engineers who built during the 2018-2019 bear market are among the most sought-after professionals today. Market downturns can reduce competition for roles and lead to favorable equity terms for new hires.
+A: Bear markets historically present excellent opportunities to enter the Web3 workforce. As speculative hype diminishes, teams concentrate on developing real products, prioritizing talent over token price. Infrastructure firms, security companies, and developer tooling providers maintain steady hiring regardless of market conditions. Engineers who built during previous bear markets are among the most sought-after professionals today. Market downturns can reduce competition for roles and lead to favorable equity terms for new hires.
 
 ## Key Takeaways
 
-- Web3 offers significant compensation premiums (20-40% above Web2 equivalents), accelerated career growth, and the chance to contribute to transformative technology reshaping various industries.
-- Most professionals can transition to Web3 within 2-6 months with focused effort, especially engineers and product managers whose skills transfer directly.
+- Web3 offers significant compensation premiums above Web2 equivalents, accelerated career growth, and the chance to contribute to transformative technology reshaping various industries.
+- Most professionals can transition to Web3 within a few months with focused effort, especially engineers and product managers whose skills transfer directly.
 - Existing domain expertise holds substantial value in Web3. Focus on incorporating blockchain-specific context into your current skill set rather than starting from scratch.
 - Networking through Discord communities and engaging on Twitter, along with showcasing portfolio projects on GitHub, often proves more effective for securing Web3 roles than formal qualifications.
 - Pursue opportunities with well-funded, established protocols to mitigate volatility risks. Ensure base salaries are negotiated in fiat currency.

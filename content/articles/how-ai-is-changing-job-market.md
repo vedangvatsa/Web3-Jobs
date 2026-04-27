@@ -102,8 +102,8 @@ Grasping the impact of AI on the job market is vital for professional success. I
 
 | Name   | Role                       | Challenge                   | Outcome                                 |
 |--------|----------------------------|-----------------------------|-----------------------------------------|
-| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with coding efficiency | Implemented AI strategies and improved coding speed by 30% within 3 months. |
-| Juan   | Product Manager in [DeFi](/what-is-defi) | Faced challenges in product development | Adopted AI tools, resulting in a 40% faster time to market for new features.|
+| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with coding efficiency | Implemented AI strategies and improved coding speed significantly within a few months. |
+| Juan   | Product Manager in [DeFi](/what-is-defi) | Faced challenges in product development | Adopted AI tools, resulting in a faster time to market for new features.|
 | Maya   | Transitioning from Web2 to Web3 | Needed to adapt to new technologies | Successfully leveraged new skills to enhance team collaboration and productivity. |
 
 ### Common Mistakes to Avoid

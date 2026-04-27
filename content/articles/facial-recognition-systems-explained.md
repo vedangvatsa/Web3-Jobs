@@ -49,7 +49,7 @@ Facial recognition technology finds applications across various fields:
 | Application Area         | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
 | **Security and Access Control** | Widely used for unlocking devices and providing secure access to buildings and airports. |
-| **Social Media**         | Platforms like Facebook employ facial recognition to suggest tags for users in photos. |
+| **Social Media**         | Platforms employ facial recognition to suggest tags for users in photos. |
 | **Law Enforcement and Surveillance** | Police departments utilize this technology to identify suspects in criminal investigations and monitor public spaces. |
 | **Retail**               | Retailers analyze customer demographics and shopping behaviors, using facial recognition to identify known shoplifters. |
 
@@ -103,10 +103,10 @@ Regularly assess your progress. Monitor what you learn and how effectively you c
 ### Real-World Examples of Facial Recognition Applications
 
 #### Example 1: Sarah's Experience in a Blockchain Startup  
-Sarah, a software engineer at a blockchain startup, faced challenges in implementing facial recognition for user authentication. After applying structured strategies, her team improved system accuracy by 30% over six months, significantly enhancing user experience and security.
+Sarah, a software engineer at a blockchain startup, faced challenges in implementing facial recognition for user authentication. After applying structured strategies, her team improved system accuracy significantly over six months, enhancing user experience and security.
 
 #### Example 2: Juan's Role in DeFi  
-Juan, a product manager in the decentralized finance (DeFi) sector, used facial recognition to streamline customer identity verification. By following best practices, he reduced processing time by 40%, leading to increased customer satisfaction and higher retention rates.
+Juan, a product manager in the decentralized finance (DeFi) sector, used facial recognition to streamline customer identity verification. By following best practices, he reduced processing time significantly, leading to increased customer satisfaction and higher retention rates.
 
 #### Example 3: Maya's Transition from Web2 to Web3  
 Maya, transitioning from a traditional Web2 company to a Web3 startup, leveraged her understanding of facial recognition to propose innovative security solutions. Her proactive approach positioned her as a valuable asset in her new role.
