@@ -9,7 +9,7 @@ relatedTerms: ["gas", "ethereum", "fee", "blockspace"]
 synonyms: ["fee market", "blockspace market", "transaction fees"]
 ---
 
-Gas Fee Market refers to the dynamic marketplace where users compete for limited block space by bidding transaction fees, with prices fluctuating based on network congestion and capacity. When demand exceeds available block space, users must offer higher fees to prioritize their transactions, creating an auction-like environment for network resources. Ethereum's EIP-1559 upgrade introduced a dual-fee structure combining an algorithmically adjusted base fee with optional priority tips, making fee estimation more predictable while still allowing users to expedite urgent transactions. During high-demand events like popular NFT launches on OpenSea, gas fees have historically surged by 500% or more within minutes, demonstrating the market's volatility. On average, Ethereum users paid approximately $2.3 billion in total gas fees during 2024 according to Token Terminal. Understanding gas fee market dynamics is increasingly valuable for blockchain developers, protocol economists, and operations specialists who optimize transaction costs and user experience across decentralized applications.
+Gas Fee Market refers to the dynamic marketplace where users compete for limited block space by bidding transaction fees, with prices fluctuating based on network congestion and capacity. When demand exceeds available block space, users must offer higher fees to prioritize their transactions, creating an auction-like environment for network resources. Ethereum's EIP-1559 upgrade introduced a dual-fee structure combining an algorithmically adjusted base fee with optional priority tips, making fee estimation more predictable while still allowing users to expedite urgent transactions. Understanding gas fee market dynamics is valuable for blockchain developers, protocol economists, and operations specialists who optimize transaction costs and user experience across decentralized applications.
 
 ## How the Fee Market Works
 
@@ -97,13 +97,13 @@ MEV influences fee markets significantly.
 
 Fee market roles:
 
-**Protocol Engineers** earn $130,000-$320,000+.
+**Protocol Engineers** earn competitive salaries.
 
-**MEV Researchers** earn $140,000-$340,000+.
+**MEV Researchers** earn competitive salaries.
 
-**Infra Engineers** building gas tools earn $120,000-$300,000+.
+**Infra Engineers** building gas tools earn competitive salaries.
 
-**Economists** modeling fee markets earn $120,000-$300,000+.
+**Economists** modeling fee markets earn competitive salaries.
 
 ## Best Practices
 

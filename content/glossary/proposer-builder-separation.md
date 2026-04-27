@@ -9,7 +9,7 @@ relatedTerms: ["mev", "sequencer", "validator", "block-production"]
 synonyms: ["PBS", "block builder separation", "builder-proposer split"]
 ---
 
-Proposer-Builder Separation is a blockchain architecture design that divides block production into two distinct roles, where specialized builders compete to assemble optimized blocks and validators simply propose the winning block without needing to understand transaction ordering strategies. This separation addresses maximum extractable value centralization concerns by preventing validators from directly manipulating transaction sequences for profit while enabling a competitive marketplace for block construction. Ethereum implemented this concept through MEV-Boost, developed by Flashbots, which as of 2024 processes over 90% of Ethereum blocks according to MEV-Boost dashboard data. The architecture creates a sealed-bid auction system where builders submit complete blocks with bids, and proposers select the highest-paying option without seeing internal transaction details, ensuring fair ordering and reducing harmful MEV extraction like sandwich attacks. Professionals who understand PBS mechanics find growing opportunities in protocol engineering, MEV research, and blockchain infrastructure roles as networks increasingly adopt builder-proposer market designs.
+Proposer-Builder Separation is a blockchain architecture design that divides block production into two distinct roles, where specialized builders compete to assemble optimized blocks and validators simply propose the winning block without needing to understand transaction ordering strategies. This separation addresses maximum extractable value centralization concerns by preventing validators from directly manipulating transaction sequences for profit while enabling a competitive marketplace for block construction. Ethereum implemented this concept through MEV-Boost, developed by Flashbots. The architecture creates a sealed-bid auction system where builders submit complete blocks with bids, and proposers select the highest-paying option without seeing internal transaction details, ensuring fair ordering and reducing harmful MEV extraction like sandwich attacks. Professionals who understand PBS mechanics find opportunities in protocol engineering, MEV research, and blockchain infrastructure roles as networks increasingly adopt builder-proposer market designs.
 
 ## PBS Mechanics
 
@@ -19,7 +19,7 @@ How it works:
 
 **Relays**: Relays receive blocks from builders, filter invalid blocks.
 
-**Proposers**: Validators choose best block from relay (highest bid).
+**Proposers**: Validators choose the best block from relay (highest bid).
 
 **Bids**: Builders bid to proposers for block inclusion rights.
 
@@ -53,7 +53,7 @@ Current implementation:
 
 **Centralization Risk**: Relays can become centralized choke points.
 
-MEV-Boost is early PBS implementation.
+MEV-Boost is an early PBS implementation.
 
 ## PBS Risks
 
@@ -81,19 +81,19 @@ Future design:
 
 **Economic Alignment**: Better alignment between proposers and builders.
 
-In-protocol PBS is long-term goal.
+In-protocol PBS is a long-term goal.
 
 ## Career Opportunities
 
 PBS ecosystem roles:
 
-**Protocol Engineers** earn $130,000-$320,000+.
+**Protocol Engineers**.
 
-**MEV Researchers** earn $140,000-$340,000+.
+**MEV Researchers**.
 
-**Block Builder Engineers** earn $140,000-$340,000+.
+**Block Builder Engineers**.
 
-**Relay Operators** earn $100,000-$260,000+.
+**Relay Operators**.
 
 ## Best Practices
 

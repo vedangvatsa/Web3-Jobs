@@ -9,7 +9,7 @@ relatedTerms: ["mev", "dex", "order-book", "solver"]
 synonyms: ["intent execution", "solver-based execution", "intent framework"]
 ---
 
-Intent-Based Architecture refers to a blockchain design paradigm where users declare their desired outcomes rather than specifying exact transaction steps, enabling specialized actors called solvers to compete for optimal execution paths. Instead of manually routing a token swap through multiple decentralized exchanges, a user simply states their goal, such as receiving a minimum amount of USDC for their ETH, and solvers handle the complexity of finding the best price across liquidity sources. UniswapX, launched in 2023, pioneered this approach for decentralized trading by allowing off-chain solvers to fill orders, with the protocol facilitating over $36 billion in cumulative trading volume by early 2025 (according to Dune Analytics). This architecture shifts value extraction away from validators and toward competitive solver networks, potentially eliminating much of the MEV that currently plagues DeFi users. Professionals with expertise in intent-based systems and solver infrastructure are increasingly sought after as major protocols transition toward this user-centric execution model.
+Intent-Based Architecture refers to a blockchain design where users declare their desired outcomes rather than specifying exact transaction steps. This enables specialized actors called solvers to compete for optimal execution paths. Instead of manually routing a token swap through multiple decentralized exchanges, a user simply states their goal, such as receiving a minimum amount of USDC for their ETH, and solvers handle the complexity of finding the best price across liquidity sources. UniswapX, launched in 2023, pioneered this approach for decentralized trading by allowing off-chain solvers to fill orders. This architecture shifts value extraction away from validators and toward competitive solver networks, potentially eliminating much of the MEV that currently affects DeFi users. Professionals with expertise in intent-based systems and solver infrastructure are increasingly sought after as major protocols transition toward this user-centric execution model.
 
 ## Intent Specification
 
@@ -25,23 +25,23 @@ What intents look like:
 
 **Composable**: Chain intents enabling complex strategies
 
-Intents are flexible way to express desires.
+Intents are a flexible way to express desires.
 
 ## Solver Mechanism
 
 How solvers work:
 
-**Intent Pooling**: Users submit intents to intent pool (like mempool).
+**Intent Pooling**: Users submit intents to an intent pool.
 
-**Solver Competition**: Multiple solvers observe intents, compete for fulfillment.
+**Solver Competition**: Multiple solvers observe intents and compete for fulfillment.
 
-**Optimization**: Each solver finds best execution path for intent.
+**Optimization**: Each solver finds the best execution path for the intent.
 
-**Bid Submission**: Solvers submit bids including execution path and value transfer to user.
+**Bid Submission**: Solvers submit bids including execution path and value transfer to the user.
 
-**Auction**: Intents allocated to highest bidder (most value for user).
+**Auction**: Intents are allocated to the highest bidder.
 
-**Execution**: Winning solver executes intent on-chain.
+**Execution**: The winning solver executes the intent on-chain.
 
 Solver competition drives value to users.
 
@@ -49,7 +49,7 @@ Solver competition drives value to users.
 
 Real implementations:
 
-**CoW Protocol**: Batch auction using intent-like orders (CoW = Coincidence of Wants).
+**CoW Protocol**: Batch auction using intent-like orders.
 
 **MEV Burn**: Fairness-driven solver selection burning MEV.
 
@@ -57,9 +57,9 @@ Real implementations:
 
 **Flashbots Threshold Encryption**: Private intent submission with decryption.
 
-**Anoma**: Protocol-level intent settlement (research stage).
+**Anoma**: Protocol-level intent settlement.
 
-Intent-based systems emerging across DeFi.
+Intent-based systems are emerging across DeFi.
 
 ## Benefits Over Traditional
 
@@ -68,57 +68,57 @@ Comparing approaches:
 | Aspect | Traditional | Intent-Based |
 |--------|-----------|--------------|
 | **Execution** | User chooses | Solvers optimize |
-| **MEV** | Validators extract | Solvers compete (burned) |
-| **Front-Running** | Possible | Prevented (solver picks) |
+| **MEV** | Validators extract | Solvers compete |
+| **Front-Running** | Possible | Prevented |
 | **UX** | Complex routing | Simple intent |
 | **Cost** | User pays slippage | Competition drives value |
 | **Customization** | Limited | Flexible |
 
-Intent-based offers significant advantages.
+Intent-based systems offer significant advantages.
 
 ## Intent Privacy
 
 Confidentiality considerations:
 
-**Private Intent Submission**: Encrypt intents preventing observation before solving.
+**Private Intent Submission**: Encrypt intents to prevent observation before solving.
 
-**Threshold Encryption**: Decrypt only after committed to solution.
+**Threshold Encryption**: Decrypt only after commitment to the solution.
 
-**Trusted Execution**: Use TEEs (Trusted Execution Environments) for confidential solving.
+**Trusted Execution**: Use Trusted Execution Environments for confidential solving.
 
 **Privacy Preservation**: Prevent MEV by hiding intents until commitment.
 
-Privacy critical for intent-based systems to prevent sniping.
+Privacy is critical for intent-based systems to prevent sniping.
 
 ## Challenges
 
 Obstacles:
 
-**Solver Centralization**: If few solvers, concentration risk.
+**Solver Centralization**: If few solvers exist, there is a concentration risk.
 
-**Intent Complexity**: Complex intents hard to express and solve.
+**Intent Complexity**: Complex intents are hard to express and solve.
 
-**Latency**: Solving intents adds latency vs immediate execution.
+**Latency**: Solving intents adds latency compared to immediate execution.
 
-**Solver Trust**: Must trust solvers execute intents as specified.
+**Solver Trust**: Users must trust solvers to execute intents as specified.
 
-**Standardization**: Need standards for expressing and comparing intents.
+**Standardization**: There is a need for standards for expressing and comparing intents.
 
-Intent-based architecture still research stage with open challenges.
+Intent-based architecture is still in the research stage with open challenges.
 
 ## Career Opportunities
 
 Intent-based systems create roles:
 
-**Protocol Designers** designing intent systems earn $140,000-$340,000+.
+**Protocol Designers** design intent systems.
 
-**Solver Engineers** building solvers earn $130,000-$320,000+.
+**Solver Engineers** build solvers.
 
-**Cryptographers** enabling privacy earn $150,000-$380,000+.
+**Cryptographers** enable privacy.
 
-**Researchers** studying intent systems earn $140,000-$340,000+.
+**Researchers** study intent systems.
 
-**Smart Contract Engineers** implementing intents earn $120,000-$300,000+.
+**Smart Contract Engineers** implement intents.
 
 ## Best Practices
 
@@ -130,7 +130,7 @@ Using intent systems:
 
 **Privacy**: Use encrypted submissions when available.
 
-**Fallbacks**: Have backup execution plan if intent unfulfilled.
+**Fallbacks**: Have a backup execution plan if the intent is unfulfilled.
 
 ## The Future of Intent-Based
 
@@ -148,4 +148,4 @@ Evolution:
 
 ## Express Desired Outcomes
 
-Intent-based architecture enables users to specify outcomes rather than execution paths. Solvers compete to optimize execution. Revolutionary potential for MEV elimination and UX improvement. If you're interested in solver infrastructure or MEV, explore [MEV careers](/) at solver teams and protocol research. These roles focus on next-generation execution infrastructure.
+Intent-based architecture enables users to specify outcomes rather than execution paths. Solvers compete to optimize execution. This approach has potential for MEV elimination and UX improvement. If you're interested in solver infrastructure or MEV, explore careers at solver teams and protocol research. These roles focus on next-generation execution infrastructure.

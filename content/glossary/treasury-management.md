@@ -9,7 +9,7 @@ relatedTerms: ["dao", "governance", "protocol", "token"]
 synonyms: ["treasury operations", "reserves management", "protocol funds"]
 ---
 
-Treasury Management refers to the strategic oversight of cryptocurrency reserves held by decentralized protocols, encompassing decisions around allocation, deployment, and preservation of digital assets to ensure long-term sustainability and growth. This discipline combines traditional finance principles with blockchain-native governance mechanisms, where token holders collectively vote on how funds should be utilized. Uniswap provides a prominent example, maintaining a treasury exceeding $2 billion in assets including UNI tokens, ETH, and stablecoins, with allocation decisions ranging from developer grants to liquidity provisioning and ecosystem incentives. According to DeepDAO, decentralized autonomous organizations collectively manage over $24 billion in treasury assets as of 2025, highlighting the scale of capital requiring professional oversight. Poor treasury management through misallocation, failed investments, or security breaches can devastate even well-established protocols, while effective stewardship enables sustained development and competitive positioning. As protocols increasingly professionalize their financial operations, demand for treasury analysts and DeFi finance specialists continues to grow across the Web3 job market.
+Treasury Management refers to the strategic oversight of cryptocurrency reserves held by decentralized protocols. It encompasses decisions around allocation, deployment, and preservation of digital assets to ensure long-term sustainability and growth. This discipline combines traditional finance principles with blockchain-native governance mechanisms, where token holders collectively vote on how funds should be utilized. Uniswap provides a prominent example, maintaining a treasury that includes UNI tokens, ETH, and stablecoins, with allocation decisions ranging from developer grants to liquidity provisioning and ecosystem incentives. Poor treasury management through misallocation, failed investments, or security breaches can devastate even well-established protocols. Effective stewardship enables sustained development and competitive positioning. As protocols increasingly professionalize their financial operations, demand for treasury analysts and DeFi finance specialists continues to grow across the Web3 job market.
 
 ## Treasury Components
 
@@ -23,7 +23,7 @@ What treasuries hold:
 
 **NFTs/Assets**: Some protocols hold collectible assets or digital assets.
 
-**Real Estate/Assets**: Some protocols planning real-world asset integration.
+**Real Estate/Assets**: Some protocols plan real-world asset integration.
 
 Diversified treasuries reduce risk through diversification.
 
@@ -41,7 +41,7 @@ Common uses:
 
 **Token Buyback**: Buying and burning own tokens, reducing supply and increasing price.
 
-**Real Estate**: Some DAOs buying property (MakerDAO buying RWA collateral).
+**Real Estate**: Some DAOs buy property for collateral.
 
 **Insurance Reserves**: Building reserves for insurance against exploits.
 
@@ -69,13 +69,13 @@ Careful treasury management is essential.
 
 Real treasures:
 
-**Uniswap**: ~$2B UNI + $500M+ stablecoins/ETH. Governance-controlled allocation.
+**Uniswap**: Governance-controlled allocation of UNI and stablecoins.
 
-**Aave**: ~$1.5B AAVE + substantial stablecoins. Active treasury management via Aave governance.
+**Aave**: Active treasury management via Aave governance.
 
-**MakerDAO**: $2B+ in ETH collateral, substantial DAI savings rates funded through treasury.
+**MakerDAO**: Significant ETH collateral, with savings rates funded through treasury.
 
-**Curve**: $1B+ in CRV plus other tokens. Treasury funding ecosystem incentives.
+**Curve**: Treasury funding ecosystem incentives.
 
 **Balancer**: BAL token treasury plus partner tokens. Funding ecosystem development.
 
@@ -87,9 +87,9 @@ Strategic approaches:
 
 **Conservative**: Hold mostly stablecoins and blue-chip cryptocurrencies. Minimize risk.
 
-**Growth**: Deploy treasury capital to promising protocols and token. Higher risk, higher potential reward.
+**Growth**: Deploy treasury capital to promising protocols and tokens. Higher risk, higher potential reward.
 
-**Diversified**: Hold mix of protocol token, stablecoins, other crypto, real assets. Balanced approach.
+**Diversified**: Hold a mix of protocol tokens, stablecoins, other crypto, and real assets. Balanced approach.
 
 **Income Generating**: Deploy treasury to yield farming or staking. Generate income to fund operations.
 
@@ -101,37 +101,37 @@ Different strategies align with protocol objectives and risk tolerance.
 
 How decisions are made:
 
-**Proposal Submission**: Community members propose treasury allocations. Some DAOs have proposal deposit (e.g., Aave requires 55k AAVE to propose) preventing spam.
+**Proposal Submission**: Community members propose treasury allocations. Some DAOs have proposal deposit requirements preventing spam.
 
-**Discussion**: Community discusses merits before voting. Discussion period typically 3-7 days.
+**Discussion**: Community discusses merits before voting. Discussion periods typically last 3-7 days.
 
-**Snapshot Voting**: Many DAOs use Snapshot (off-chain voting) for temperature checks before on-chain votes.
+**Snapshot Voting**: Many DAOs use Snapshot for temperature checks before on-chain votes.
 
-**On-Chain Voting**: Token holders vote on proposal. Multisig approval usually required for execution of high-value proposals.
+**On-Chain Voting**: Token holders vote on proposals. Multisig approval is usually required for execution of high-value proposals.
 
-**Timelock**: Approved proposals wait period before execution (typically 1-7 days), giving community time to react or challenge.
+**Timelock**: Approved proposals wait a period before execution, giving the community time to react or challenge.
 
 **Execution**: Approved proposals automatically execute after timelock through smart contracts.
 
-**Veto Powers**: Some DAOs have veto powers (e.g., Aave governance has guardian address) preventing catastrophic votes.
+**Veto Powers**: Some DAOs have veto powers preventing catastrophic votes.
 
-Transparency and multi-stage process improve treasury decisions while maintaining checks and balances.
+Transparency and multi-stage processes improve treasury decisions while maintaining checks and balances.
 
 ## Treasury Challenges
 
 Common issues:
 
-**Voter Apathy**: Governance participation often <5% of token holders. Decisions made by small group.
+**Voter Apathy**: Governance participation often low. Decisions made by a small group.
 
 **Delegation Concentration**: Voting power concentrated among few large delegates. Reduces true decentralization.
 
-**Proposal Spam**: Without deposit requirements, many low-quality proposals submitted.
+**Proposal Spam**: Without deposit requirements, many low-quality proposals are submitted.
 
 **Long Voting Periods**: Long voting periods slow down treasury response to market conditions.
 
-**Capital Inefficiency**: Large treasuries might not be optimally allocated. Dead capital risk.
+**Capital Inefficiency**: Large treasuries might not be optimally allocated.
 
-**Exit Scams**: Teams can proposal to send entire treasury to personal addresses. Treasury governance doesn't prevent this with sufficient voting power concentration.
+**Exit Scams**: Teams can propose to send entire treasury to personal addresses. Treasury governance doesn't prevent this with sufficient voting power concentration.
 
 Well-designed governance structures mitigate but don't eliminate these challenges.
 
@@ -139,21 +139,21 @@ Well-designed governance structures mitigate but don't eliminate these challenge
 
 Treasury management creates roles:
 
-**Treasury Managers** managing protocol reserves earn $120,000-$280,000+.
+**Treasury Managers** managing protocol reserves.
 
-**Protocol Economists** designing treasury allocation strategies earn $130,000-$300,000+.
+**Protocol Economists** designing treasury allocation strategies.
 
-**Governance Analysts** analyzing treasury proposals earn $90,000-$180,000+.
+**Governance Analysts** analyzing treasury proposals.
 
-**Risk Managers** assessing treasury risk earn $110,000-$220,000+.
+**Risk Managers** assessing treasury risk.
 
-**Fund Managers** deployed capital from treasury earn $100,000-$300,000+.
+**Fund Managers** deploying capital from treasury.
 
 ## Best Practices
 
 For treasury management:
 
-**Diversification**: Hold mix of assets reducing concentration risk.
+**Diversification**: Hold a mix of assets reducing concentration risk.
 
 **Clear Strategy**: Define treasury allocation strategy and stick to it.
 
@@ -181,4 +181,4 @@ Treasury evolution:
 
 ## Steward Protocol Resources
 
-Treasury management is critical function determining protocol sustainability. Good treasury management ensures sustainable operations and growth. If you're interested in protocol economics, governance, or finance, explore [DAO careers](/) at DAOs and protocol teams. These roles focus on managing collective resources for shared benefit.
+Treasury management is a critical function determining protocol sustainability. Good treasury management ensures sustainable operations and growth. If you're interested in protocol economics, governance, or finance, explore [DAO careers](/) at DAOs and protocol teams. These roles focus on managing collective resources for shared benefit.

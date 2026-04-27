@@ -9,7 +9,7 @@ relatedTerms: ["nft", "token", "identity", "credential"]
 synonyms: ["SBT", "non-transferable token", "identity token"]
 ---
 
-Soulbound Token refers to a non-transferable NFT permanently bound to a specific wallet address, representing credentials, achievements, or aspects of identity that cannot be sold, traded, or moved to another account. The concept, popularized by Ethereum co-founder Vitalik Buterin in a 2022 paper on "Decentralized Society," addresses the challenge of establishing verifiable reputation and credentials on-chain without the risk of purchased or fraudulent claims. Binance introduced one of the first large-scale implementations with Binance Account Bound tokens, which have been issued to over 15 million users for identity verification purposes (according to Binance, as of 2024). Practical applications include academic diplomas, professional certifications, proof of attendance at events, and on-chain reputation scores that follow a wallet permanently. As organizations explore decentralized identity solutions, professionals who understand soulbound token architecture and implementation are increasingly sought for roles in identity management, credentialing platforms, and Web3 human resources technology.
+Soulbound Token refers to a non-transferable NFT permanently bound to a specific wallet address, representing credentials, achievements, or aspects of identity that cannot be sold, traded, or moved to another account. The concept was popularized by Ethereum co-founder Vitalik Buterin in a 2022 paper on "Decentralized Society." It addresses the challenge of establishing verifiable reputation and credentials on-chain without the risk of purchased or fraudulent claims. Binance introduced one of the first large-scale implementations with Binance Account Bound tokens for identity verification purposes. Practical applications include academic diplomas, professional certifications, proof of attendance at events, and on-chain reputation scores that follow a wallet permanently. As organizations explore decentralized identity solutions, professionals who understand soulbound token architecture and implementation are increasingly sought for roles in identity management, credentialing platforms, and Web3 human resources technology.
 
 ## Soulbound Token Properties
 
@@ -19,7 +19,7 @@ Key characteristics:
 
 **Permanent**: Attached to address permanently (can be burned by owner).
 
-**Verifiable**: Cryptographically verifiable on chain.
+**Verifiable**: Cryptographically verifiable on-chain.
 
 **Metadata**: Can include metadata about credential (issuer, date, etc).
 
@@ -33,7 +33,7 @@ Real applications:
 
 **Education**: University issues soulbound diploma on graduation.
 
-**Professional Credentials**: Certifications verified on chain.
+**Professional Credentials**: Certifications verified on-chain.
 
 **Reputation**: Reputation tokens earned through participation.
 
@@ -57,7 +57,7 @@ Issues:
 
 **Revocation**: How to revoke invalid credentials.
 
-**Privacy**: Soulbound tokens publicly visible on chain (privacy concern).
+**Privacy**: Soulbound tokens publicly visible on-chain (privacy concern).
 
 Soulbound token design has challenges.
 
@@ -85,25 +85,25 @@ Challenges:
 
 **Doxxing**: Can reveal identity through soulbound tokens.
 
-**History**: Permanent record of all accomplishments/failures.
+**History**: Permanent record of all accomplishments and failures.
 
 **ZK Proofs**: Need zero-knowledge proofs for private credential verification.
 
 **Selective Disclosure**: Need mechanisms proving credential without revealing identity.
 
-Privacy critical for soulbound token adoption.
+Privacy is critical for soulbound token adoption.
 
 ## Career Opportunities
 
 Soulbound tokens create roles:
 
-**Identity Researchers** studying soulbound earn $120,000-$300,000+.
+**Identity Researchers** studying soulbound tokens.
 
-**Protocol Designers** designing credential systems earn $130,000-$320,000+.
+**Protocol Designers** designing credential systems.
 
-**Smart Contract Engineers** implementing soulbound earn $120,000-$300,000+.
+**Smart Contract Engineers** implementing soulbound tokens.
 
-**Privacy Experts** adding privacy to soulbound earn $150,000-$380,000+.
+**Privacy Experts** adding privacy to soulbound tokens.
 
 ## Best Practices
 
@@ -131,4 +131,4 @@ Evolution:
 
 ## Permanent Digital Credentials
 
-Soulbound tokens create permanent, verifiable credentials. Important for identity and reputation. If you're interested in identity, explore [identity careers](/) at identity protocol teams. These roles focus on decentralized identity infrastructure.
+Soulbound tokens create permanent, verifiable credentials. They are important for identity and reputation. If you're interested in identity, explore [identity careers](/) at identity protocol teams. These roles focus on decentralized identity infrastructure.

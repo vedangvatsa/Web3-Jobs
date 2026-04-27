@@ -9,7 +9,7 @@ relatedTerms: ["governance", "dao", "governance-token", "voting"]
 synonyms: ["protocol governance", "onchain voting", "smart contract governance"]
 ---
 
-On-Chain Governance refers to a governance model where protocol decisions are proposed, voted on, and executed directly through smart contracts on the blockchain, creating a transparent and enforceable system that eliminates the need for trusted intermediaries. Unlike traditional corporate governance or even off-chain crypto governance, every vote is recorded immutably on the blockchain, and approved proposals automatically execute after predetermined timelocks. Uniswap demonstrates this model effectively, allowing UNI token holders to vote on protocol parameters, treasury allocations, and fee structures with results enforced by code rather than human administrators. On-chain governance systems collectively manage over $25 billion in treasury assets across major DAOs (according to DeepDAO, as of 2025), representing significant economic coordination. While this approach reduces backroom deals and increases accountability, it introduces challenges including voter apathy and potential plutocratic control by large token holders. For professionals entering Web3, understanding on-chain governance mechanics is essential for roles in DAO operations, protocol development, and decentralized project management.
+On-Chain Governance refers to a governance model where protocol decisions are proposed, voted on, and executed directly through smart contracts on the blockchain. This creates a transparent and enforceable system that eliminates the need for trusted intermediaries. Unlike traditional corporate governance or off-chain crypto governance, every vote is recorded immutably on the blockchain, and approved proposals automatically execute after predetermined timelocks. Uniswap demonstrates this model effectively, allowing UNI token holders to vote on protocol parameters, treasury allocations, and fee structures with results enforced by code rather than human administrators. While this approach reduces backroom deals and increases accountability, it introduces challenges including voter apathy and potential control by large token holders. For professionals entering Web3, understanding on-chain governance mechanics is essential for roles in DAO operations, protocol development, and decentralized project management.
 
 ## How On-Chain Governance Works
 
@@ -31,13 +31,13 @@ On-chain governance is transparent and automated.
 
 Common models:
 
-**Token-Weighted Voting**: One token = one vote.
+**Token-Weighted Voting**: One token equals one vote.
 
-**Quadratic Voting**: Voting power = $\sqrt{tokens}$, reducing whale power.
+**Quadratic Voting**: Voting power equals the square root of tokens, reducing whale power.
 
 **Delegated Voting**: Holders delegate votes to representatives.
 
-**Time-Locked Voting**: Tokens must be locked to vote (prevents flash loan voting).
+**Time-Locked Voting**: Tokens must be locked to vote, preventing flash loan voting.
 
 **Snapshot Voting**: Off-chain signaling, then on-chain execution.
 
@@ -107,19 +107,19 @@ Protocols:
 
 **Compound**: Token-weighted governance with timelocks.
 
-On-chain governance widely adopted.
+On-chain governance is widely adopted.
 
 ## Career Opportunities
 
 Governance roles:
 
-**Governance Researchers** earn $120,000-$300,000+.
+**Governance Researchers**.
 
-**DAO Operations** roles earn $90,000-$220,000+.
+**DAO Operations** roles.
 
-**Protocol Designers** earn $130,000-$320,000+.
+**Protocol Designers**.
 
-**Community Managers** earn $80,000-$200,000+.
+**Community Managers**.
 
 ## Best Practices
 
@@ -147,4 +147,4 @@ Trends:
 
 ## Enforce Decisions Transparently
 
-On-chain governance makes decisions transparent and enforceable. It’s powerful but risky. If you’re interested in governance, explore [governance careers](/) at DAOs and protocol foundations.
+On-chain governance makes decisions transparent and enforceable. It is powerful but risky. If you are interested in governance, explore [governance careers](/) at DAOs and protocol foundations.

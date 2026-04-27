@@ -19,9 +19,7 @@ synonyms:
 
 The **MEV supply chain** (also called the **MEV pipeline** or **block production supply chain**) is the multi-stage value flow that begins with on-chain transaction opportunities and ends with validators/proposers receiving a share of the extracted MEV. This supply chain has evolved from a simple two-party system (searchers directly bribing miners) to a complex four-party ecosystem involving **searchers**, **builders**, **relays**, and **proposers**, each playing a specialized role in identifying, packaging, and capturing MEV opportunities.
 
-Understanding the MEV supply chain is critical for comprehending modern Ethereum block production, as MEV extraction now accounts for a substantial portion of validator revenue and significantly influences transaction ordering, gas prices, and user experience. The supply chain architecture, pioneered by Flashbots and formalized through proposer-builder separation (PBS), has become the de facto standard for Ethereum mainnet.
-
-As of 2026, over 90% of Ethereum blocks are built using the MEV supply chain, with billions of dollars flowing through this system annually.
+Understanding the MEV supply chain is critical for comprehending modern Ethereum block production, as MEV extraction influences transaction ordering, gas prices, and user experience. The supply chain architecture, pioneered by Flashbots and formalized through proposer-builder separation (PBS), has become the standard for Ethereum mainnet.
 
 ## The Four Parties of the MEV Supply Chain
 
@@ -29,7 +27,7 @@ The modern MEV supply chain consists of four distinct roles:
 
 ### 1. Searchers
 
-**Searchers** (also called "MEV searchers" or "bots") are sophisticated actors who continuously scan the mempool and blockchain state to identify profitable MEV opportunities. Searchers run algorithms to detect:
+**Searchers** (also called "MEV searchers" or "bots") are actors who continuously scan the mempool and blockchain state to identify profitable MEV opportunities. Searchers run algorithms to detect:
 
 - **Arbitrage opportunities**: Price discrepancies across DEXs that can be exploited for profit
 - **Liquidation opportunities**: Undercollateralized positions in lending protocols like Aave or Compound
@@ -38,23 +36,23 @@ The modern MEV supply chain consists of four distinct roles:
 
 When searchers identify an opportunity, they construct a **bundle** of transactions designed to extract the MEV (e.g., a flash loan to fund arbitrage, the arbitrage trades, and repayment). Searchers compete to submit the most profitable bundles to builders.
 
-Successful searchers use cutting-edge strategies: custom smart contracts, high-performance infrastructure (co-location near relays), private transaction pools, and advanced algorithms (reinforcement learning, game theory models).
+Successful searchers use advanced strategies: custom smart contracts, high-performance infrastructure (co-location near relays), private transaction pools, and algorithms (reinforcement learning, game theory models).
 
 ### 2. Builders
 
 **Builders** (also called "block builders") are specialized entities that construct full Ethereum blocks by assembling bundles from searchers with transactions from the public mempool. Builders compete to create the most valuable blocks (highest total fees + MEV) to maximize the payment they can offer to proposers.
 
-Builders receive bundles from dozens of searchers simultaneously and must:
+Builders receive bundles from multiple searchers simultaneously and must:
 - **Simulate bundle execution** to verify profitability and ensure they don't revert
 - **Solve the block packing problem**: optimally arrange bundles and transactions to maximize value within gas limits
 - **Balance searcher payments and proposer bids**: extract sufficient margin while remaining competitive
 - **Handle conflicts**: resolve situations where multiple bundles try to extract the same MEV opportunity
 
-Leading builders like Titan, Beaver Build, and Flashbots Builder dominate the market, building 70%+ of Ethereum blocks. Builder centralization is a major concern for censorship resistance.
+Leading builders like Titan, Beaver Build, and Flashbots Builder dominate the market. Builder centralization is a major concern for censorship resistance.
 
 ### 3. Relays
 
-**Relays** are trusted intermediaries that sit between builders and proposers, facilitating communication while preventing theft. Relays serve several critical functions:
+**Relays** are intermediaries that sit between builders and proposers, facilitating communication while preventing theft. Relays serve several critical functions:
 
 - **Receive sealed blocks** from builders with bid amounts (but not full block content)
 - **Validate blocks** for correctness (proper gas limits, valid transactions, accurate bid amounts)
@@ -91,7 +89,7 @@ Here's how value flows through the system:
 8. **Proposer Selection**: The proposer selects the highest bid
 9. **Commitment and Release**: Proposer commits, relay releases full block
 10. **Block Proposal**: Proposer includes the block in the blockchain
-11. **Value Distribution**: MEV flows from the victim → searcher → builder → relay (fees) → proposer
+11. **Value Distribution**: MEV flows from the victim to the searcher, then to the builder, relay (fees), and proposer
 
 The victim loses value to the sandwich, the searcher takes profit minus their builder payment, the builder takes margin minus their proposer bid, and the proposer receives the bid amount.
 
@@ -99,21 +97,21 @@ The victim loses value to the sandwich, the searcher takes profit minus their bu
 
 The MEV supply chain distributes value across its participants:
 
-**Searchers**: Capture 20-40% of gross MEV after paying builders, depending on competition and bundle quality. Elite searchers with proprietary strategies capture more; commodity arbitrage yields less.
+**Searchers**: Capture a portion of gross MEV after paying builders, depending on competition and bundle quality. Elite searchers with proprietary strategies capture more; commodity arbitrage yields less.
 
-**Builders**: Capture 5-15% margin between the value they receive from searchers and the bids they pay to proposers. Margins have compressed as builder competition intensified.
+**Builders**: Capture a margin between the value they receive from searchers and the bids they pay to proposers. Margins have compressed as builder competition intensified.
 
-**Relays**: Charge minimal fees (typically 0-1%) or operate as public goods. Some relays (like bloXroute) charge subscription fees instead.
+**Relays**: Charge minimal fees or operate as public goods. Some relays charge subscription fees instead.
 
-**Proposers**: Capture 50-70% of gross MEV through competitive builder bids, significantly boosting validator returns beyond base issuance and priority fees.
+**Proposers**: Capture a significant portion of gross MEV through competitive builder bids, boosting validator returns beyond base issuance and priority fees.
 
-**Users (Victims)**: Lose value to MEV extraction, especially in sandwich attacks. Estimated at $500M+ annually extracted from users.
+**Users (Victims)**: Lose value to MEV extraction, especially in sandwich attacks.
 
 ## Evolution of the MEV Supply Chain
 
 The MEV supply chain has evolved significantly:
 
-**2019-2020**: Simple two-party model—searchers directly bribe miners via gas auctions, leading to network congestion and inefficiency.
+**2019-2020**: Simple two-party model, searchers directly bribe miners via gas auctions, leading to network congestion and inefficiency.
 
 **2021**: Flashbots launches MEV-Geth, introducing bundles and off-chain auctions, significantly improving efficiency and reducing spam.
 
@@ -121,51 +119,51 @@ The MEV supply chain has evolved significantly:
 
 **2023-2024**: Builder market consolidates, relay diversity increases, and order flow auctions emerge. Privacy and censorship concerns intensify.
 
-**2025-2026**: In-protocol PBS proposals mature, enshrined builder selection moves on-chain, and cross-domain MEV (shared sequencing, cross-L2) emerges as a new frontier.
+**2025-2026**: In-protocol PBS proposals mature, enshrined builder selection moves on-chain, and cross-domain MEV emerges as a new frontier.
 
 ## Concerns and Criticisms
 
 The MEV supply chain faces several criticisms:
 
-**Builder Centralization**: Top 3 builders control 70%+ of blocks, creating censorship risks. OFAC-compliant builders may censor transactions from sanctioned addresses.
+**Builder Centralization**: A small number of builders control a significant portion of blocks, creating censorship risks. OFAC-compliant builders may censor transactions from sanctioned addresses.
 
 **Relay Trust Assumptions**: Relays are trusted intermediaries that could collude with builders or proposers, steal MEV, or censor transactions.
 
-**User Harm**: The supply chain efficiently extracts value from users (sandwich victims), socializing this extraction across all validators.
+**User Harm**: The supply chain efficiently extracts value from users, particularly in sandwich attacks.
 
-**Complexity and Opacity**: The multi-party system is opaque to regular users who don't understand why their transactions are being reordered or why they're receiving worse prices.
+**Complexity and Opacity**: The multi-party system is opaque to regular users who do not understand why their transactions are being reordered or why they are receiving worse prices.
 
 **Validator Inequality**: Sophisticated stakers can run their own builders/relays to capture more MEV, while home stakers rely on public infrastructure and capture less.
 
-**Systemic Risk**: The entire block production process depends on a small number of entities (builders + relays), creating single points of failure.
+**Systemic Risk**: The entire block production process depends on a small number of entities (builders and relays), creating single points of failure.
 
 ## Career Opportunities in the MEV Supply Chain
 
-The MEV ecosystem has created specialized, highly-compensated roles:
+The MEV ecosystem has created specialized roles:
 
-**MEV Searchers** ($150,000 - $500,000+, often profit-sharing): Build and operate MEV extraction bots, requiring deep DeFi knowledge, algorithmic trading skills, and smart contract expertise. Top searchers operate at hedge-fund-like margins.
+**MEV Searchers**: Build and operate MEV extraction bots, requiring deep DeFi knowledge, algorithmic trading skills, and smart contract expertise.
 
-**Block Builder Engineers** ($180,000 - $400,000+): Design and optimize block construction algorithms, manage searcher relationships, and operate high-performance infrastructure. Requires expertise in optimization, simulation, and low-latency systems.
+**Block Builder Engineers**: Design and optimize block construction algorithms, manage searcher relationships, and operate high-performance infrastructure.
 
-**Relay Operators** ($140,000 - $300,000+): Run and maintain relay infrastructure, implement validation logic, and ensure uptime and censorship resistance.
+**Relay Operators**: Run and maintain relay infrastructure, implement validation logic, and ensure uptime and censorship resistance.
 
-**MEV Researchers** ($150,000 - $350,000+): Study MEV markets, propose protocol improvements, model game-theoretic incentives, and design user protection mechanisms.
+**MEV Researchers**: Study MEV markets, propose protocol improvements, model game-theoretic incentives, and design user protection mechanisms.
 
-**Smart Contract Auditors (MEV Focus)** ($160,000 - $320,000+): Audit MEV-related smart contracts (builders, relays, searcher strategies) for security vulnerabilities and economic exploits.
+**Smart Contract Auditors (MEV Focus)**: Audit MEV-related smart contracts for security vulnerabilities and economic exploits.
 
-This field rewards deep technical knowledge, rapid execution, and cutting-edge research capabilities.
+This field rewards deep technical knowledge and rapid execution.
 
 ## Protecting Against MEV Extraction
 
 Users and protocols can take steps to reduce MEV exposure:
 
-**Use Private Mempools**: Submit transactions to Flashbots Protect, MEV Blocker, or other services that hide transactions from public searchers.
+**Use Private Mempools**: Submit transactions to services that hide transactions from public searchers.
 
 **Choose MEV-Protected RPCs**: Use RPC endpoints that route to MEV-protected builders or encrypt transaction content.
 
 **Avoid Large Public Market Orders**: Break large trades into smaller pieces or use TWAP execution to reduce sandwich profitability.
 
-**Use MEV-Resistant Protocols**: Use DEXs with built-in MEV protection (like CoW Swap's batch auctions or Rook's coordination protocol).
+**Use MEV-Resistant Protocols**: Use DEXs with built-in MEV protection.
 
 **Time Transactions Carefully**: Execute during low-volatility periods when arbitrage opportunities are smaller.
 
@@ -179,12 +177,12 @@ The MEV supply chain continues to evolve:
 
 **Inclusion Lists**: Allowing proposers to force inclusion of certain transactions, preventing builder censorship.
 
-**MEV Redistribution**: Protocols like MEV Smoothing that redistribute proposer MEV rewards across all validators to reduce inequality.
+**MEV Redistribution**: Protocols that redistribute proposer MEV rewards across all validators to reduce inequality.
 
-**Cross-Domain MEV**: Extending the supply chain to cover L2 rollups, app chains, and cross-chain MEV opportunities via shared sequencing.
+**Cross-Domain MEV**: Extending the supply chain to cover L2 rollups, app chains, and cross-chain MEV opportunities.
 
 **Encrypted Mempools**: Threshold encryption and time-lock puzzles to hide transaction content until after ordering, reducing front-running.
 
-The supply chain that emerges from these innovations will shape Ethereum's decentralization, censorship resistance, and fairness for years to come.
+The supply chain that emerges from these innovations will shape Ethereum's decentralization and fairness for years to come.
 
-**Want to participate in the MEV economy?** Start by running a searcher on testnets, study builder algorithms, or contribute to relay infrastructure—the MEV supply chain rewards technical excellence and strategic thinking.
+**Want to participate in the MEV economy?** Start by running a searcher on testnets, study builder algorithms, or contribute to relay infrastructure. The MEV supply chain rewards technical excellence and strategic thinking.

@@ -9,7 +9,7 @@ relatedTerms: ["smart-contract", "script", "bitcoin", "utxo"]
 synonyms: ["output constraint", "spending restriction", "conditional lock"]
 ---
 
-Covenant refers to a smart contract or Bitcoin script mechanism that restricts how an output can be spent, enabling more complex spending conditions than traditional transactions allow. While standard Bitcoin ownership permits unrestricted spending, covenants impose specific rules such as limiting funds to particular addresses, time-locked releases, or multi-step withdrawal processes. The most prominent proposed implementation is OP_CHECKTEMPLATEVERIFY (CTV), which would allow users to create vault structures where funds must pass through a waiting period before final withdrawal, dramatically reducing theft risk. Research into covenant designs has intensified, with over 15 distinct covenant proposals documented in Bitcoin development discussions as of early 2025 (according to Bitcoin Optech). These mechanisms would enable sophisticated applications including improved payment channels, inheritance protocols, and congestion control for high-fee environments. As Bitcoin's programmability expands, developers with expertise in covenant design and Script-level security are increasingly sought after by infrastructure teams building next-generation Bitcoin applications.
+Covenant refers to a smart contract or Bitcoin script mechanism that restricts how an output can be spent, enabling more complex spending conditions than traditional transactions allow. While standard Bitcoin ownership permits unrestricted spending, covenants impose specific rules such as limiting funds to particular addresses, time-locked releases, or multi-step withdrawal processes. The most prominent proposed implementation is OP_CHECKTEMPLATEVERIFY (CTV), which would allow users to create vault structures where funds must pass through a waiting period before final withdrawal, reducing theft risk. Research into covenant designs has intensified, with multiple distinct covenant proposals documented in Bitcoin development discussions. These mechanisms would enable applications including improved payment channels, inheritance protocols, and congestion control for high-fee environments. As Bitcoin's programmability expands, developers with expertise in covenant design and Script-level security are increasingly sought after by infrastructure teams building Bitcoin applications.
 
 ## Covenant Mechanics
 
@@ -60,22 +60,22 @@ Each proposal has different capabilities and tradeoffs.
 Community discussion:
 
 **Proponents' Arguments**:
-- Enable important protocols (vaults, channels) currently impossible
-- Improve Bitcoin flexibility for modern applications
-- Relatively simple addition to SCRIPT language
-- Successful precedent in other blockchains (Ethereum contracts)
+- Enable important protocols (vaults, channels) currently impossible.
+- Improve Bitcoin flexibility for modern applications.
+- Relatively simple addition to SCRIPT language.
+- Successful precedent in other blockchains (Ethereum contracts).
 
 **Critics' Arguments**:
-- Add complexity to SCRIPT language, potential for unintended consequences
-- Bitcoin philosophy is simplicity and battle-tested primitives
-- Potential privacy risks (covenants could enable surveillance)
-- Could enable unintended smart contract bugs at scale
-- Slippery slope—if covenants allowed, what next?
+- Add complexity to SCRIPT language, potential for unintended consequences.
+- Bitcoin philosophy is simplicity and battle-tested primitives.
+- Potential privacy risks (covenants could enable surveillance).
+- Could enable unintended smart contract bugs at scale.
+- If covenants allowed, what next?
 
 **Safety Concerns**:
 - Covenants enable powerful recursion. Infinite loops possible if not careful.
-- Must prevent Bitcoin from becoming too smart-contract-like
-- Each covenant proposal requires careful analysis of all implications
+- Must prevent Bitcoin from becoming too smart-contract-like.
+- Each covenant proposal requires careful analysis of all implications.
 
 Community consensus required for controversial features like covenants.
 
@@ -93,17 +93,17 @@ Technical requirements:
 
 **Community Education**: Community must understand covenants before voting.
 
-Covenant activation is multi-year effort requiring community consensus.
+Covenant activation is a multi-year effort requiring community consensus.
 
 ## Bitcoin Script Innovation
 
 Broader context:
 
-**Current Script**: Bitcoin SCRIPT language is deliberately limited. Most powerful opcodes disabled (Satoshi disabled them after OP_CAT used in exploit).
+**Current Script**: Bitcoin SCRIPT language is deliberately limited. Most powerful opcodes disabled.
 
 **Design Philosophy**: Restricted opcodes reduce attack surface. Safer than permissive scripting.
 
-**Covenant Impact**: Covenants would enable more general computation. More powerful = more risky.
+**Covenant Impact**: Covenants would enable more general computation. More powerful means more risk.
 
 **Smart Contract Risk**: Bitcoin philosophy resists becoming smart contract platform. Covenants push in that direction.
 
@@ -113,13 +113,13 @@ Covenants represent fundamental design direction for Bitcoin.
 
 Proposed use:
 
-**Bitcoin Vaults**: User creates covenant requiring 2-day delay for withdrawals, preventing immediate theft.
+**Bitcoin Vaults**: User creates covenant requiring a delay for withdrawals, preventing immediate theft.
 
 **Payment Channels**: Covenants enable recursive channels similar to Lightning.
 
-**Savings Accounts**: Create account where only N% per year can be withdrawn.
+**Savings Accounts**: Create account where only a percentage per year can be withdrawn.
 
-**Inheritance**: Create account where after fixed time, transfers to specified heirs.
+**Inheritance**: Create account where after a fixed time, transfers to specified heirs.
 
 Covenants enable creative Bitcoin protocols.
 
@@ -127,13 +127,13 @@ Covenants enable creative Bitcoin protocols.
 
 Bitcoin development creates roles:
 
-**Bitcoin Core Developers** working on protocol earn $120,000-$300,000+.
+**Bitcoin Core Developers** working on protocol.
 
-**Protocol Researchers** studying covenants earn $130,000-$320,000+.
+**Protocol Researchers** studying covenants.
 
-**Application Developers** building covenant applications earn $100,000-$250,000+.
+**Application Developers** building covenant applications.
 
-**Security Researchers** analyzing covenant safety earn $120,000-$300,000+.
+**Security Researchers** analyzing covenant safety.
 
 ## Best Practices
 
@@ -159,6 +159,4 @@ Covenant evolution:
 
 **Cross-Chain**: Covenants enabling trustless cross-chain protocols.
 
-## Enable Complex Bitcoin Protocols
-
-Covenants could dramatically expand Bitcoin programmability. Important proposed upgrade generating active debate. If you're interested in Bitcoin development, explore [Bitcoin careers](/) at Bitcoin teams. These roles focus on Bitcoin's evolution.
+Covenants could expand Bitcoin programmability. Important proposed upgrade generating active debate. If you're interested in Bitcoin development, explore [Bitcoin careers](/) at Bitcoin teams. These roles focus on Bitcoin's evolution.

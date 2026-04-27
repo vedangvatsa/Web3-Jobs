@@ -9,7 +9,7 @@ relatedTerms: ["vesting", "tokenomics", "governance-token", "supply"]
 synonyms: ["token release", "vesting schedule", "token vesting"]
 ---
 
-Token Unlock refers to the scheduled release of previously locked or vested tokens into circulating supply, typically following a predetermined timeline established at a project's launch. These unlocks commonly apply to tokens allocated to founding teams, early investors, advisors, and ecosystem development funds, with vesting periods ranging from one to four years. For example, Aptos released approximately 24.8 million APT tokens in a single unlock event in November 2023, representing over 4% of its circulating supply at the time. Token unlock events can significantly impact market dynamics, as increased supply often creates selling pressure, particularly when large stakeholders liquidate their newly accessible holdings. According to Token Unlocks data, over $500 million worth of tokens are released weekly across major cryptocurrency projects as of early 2025. Understanding unlock schedules is essential for tokenomics analysts, portfolio managers, and DeFi researchers, making this knowledge increasingly valuable for careers in crypto investment and protocol governance.
+Token Unlock refers to the scheduled release of previously locked or vested tokens into circulating supply, typically following a predetermined timeline established at a project's launch. These unlocks commonly apply to tokens allocated to founding teams, early investors, advisors, and ecosystem development funds, with vesting periods ranging from one to four years. Token unlock events can significantly impact market dynamics, as increased supply often creates selling pressure, particularly when large stakeholders liquidate their newly accessible holdings. Understanding unlock schedules is essential for tokenomics analysts, portfolio managers, and DeFi researchers, making this knowledge valuable for careers in crypto investment and protocol governance.
 
 ## Unlock Mechanics
 
@@ -39,7 +39,7 @@ Price implications:
 
 **Price Decline**: Large unlocks often precede price declines.
 
-**Recovery**: After unlock, prices often recover if fundamentals strong.
+**Recovery**: After unlock, prices often recover if fundamentals are strong.
 
 Unlocks create predictable supply shocks.
 
@@ -69,13 +69,13 @@ Considerations:
 
 **Governance**: Communities can vote to change unlock schedules.
 
-Strategic unlock planning important.
+Strategic unlock planning is important.
 
 ## Examples
 
 Real cases:
 
-**Arbitrum**: $1B+ locked. Staged unlocks affecting price.
+**Arbitrum**: Significant locked tokens with staged unlocks affecting price.
 
 **Optimism**: Large governance token unlocks affecting price.
 
@@ -87,13 +87,13 @@ Major unlocks often visible in price charts.
 
 Token economics creates roles:
 
-**Tokenomics Analysts** analyzing unlocks earn $100,000-$260,000+.
+**Tokenomics Analysts** analyzing unlocks.
 
-**Quantitative Traders** trading around unlocks earn $120,000-$350,000+.
+**Quantitative Traders** trading around unlocks.
 
-**Protocol Designers** designing unlock schedules earn $130,000-$320,000+.
+**Protocol Designers** designing unlock schedules.
 
-**Data Analysts** analyzing unlock data earn $100,000-$260,000+.
+**Data Analysts** analyzing unlock data.
 
 ## Best Practices
 

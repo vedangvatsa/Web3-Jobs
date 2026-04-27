@@ -9,19 +9,19 @@ relatedTerms: ["finality", "consensus", "proof-of-work", "fork"]
 synonyms: ["reorg", "chain reorg", "block reorganization"]
 ---
 
-Chain Reorganization refers to an event where a blockchain replaces a sequence of recent blocks with a different chain, effectively altering transaction history and potentially reversing transactions that users believed were confirmed. This phenomenon occurs when competing miners or validators simultaneously produce valid blocks, causing the network to temporarily split before converging on the chain with the most accumulated work. Bitcoin experiences shallow reorgs of one or two blocks regularly, while deeper reorgs are rare but consequential. In 2020, Ethereum Classic suffered a major reorg attack where attackers reversed over 7,000 blocks and double-spent millions of dollars worth of cryptocurrency. Research indicates that Bitcoin averages approximately 0.5 one-block reorgs per day under normal network conditions (according to BitMEX Research). Understanding chain reorganizations is essential for blockchain security engineers and protocol developers, as exchanges and DeFi platforms must implement appropriate confirmation thresholds to protect against reorg-based attacks.
+Chain Reorganization refers to an event where a blockchain replaces a sequence of recent blocks with a different chain, effectively altering transaction history and potentially reversing transactions that users believed were confirmed. This phenomenon occurs when competing miners or validators simultaneously produce valid blocks, causing the network to temporarily split before converging on the chain with the most accumulated work. Bitcoin experiences shallow reorgs of one or two blocks regularly, while deeper reorgs are rare but consequential. In 2020, Ethereum Classic suffered a major reorg attack where attackers reversed over 7,000 blocks and double-spent cryptocurrency. Understanding chain reorganizations is essential for blockchain security engineers and protocol developers, as exchanges and DeFi platforms must implement appropriate confirmation thresholds to protect against reorg-based attacks.
 
 ## How Reorgs Happen
 
 Process:
 
-**Competing Blocks**: Two blocks mined at same height.
+**Competing Blocks**: Two blocks mined at the same height.
 
 **Fork**: Network temporarily splits between branches.
 
-**Longest Chain Rule**: Chain with more work/weight becomes canonical.
+**Longest Chain Rule**: Chain with more work or weight becomes canonical.
 
-**Reorg**: Transactions from losing branch are removed.
+**Reorg**: Transactions from the losing branch are removed.
 
 Reorgs are consensus-driven.
 
@@ -45,7 +45,7 @@ Common causes:
 
 **Mining Competition**: Simultaneous block discoveries.
 
-**Attacks**: 51% attack can cause deliberate reorgs.
+**Attacks**: A 51% attack can cause deliberate reorgs.
 
 **Client Bugs**: Consensus client bugs causing divergence.
 
@@ -93,11 +93,11 @@ Reducing risk:
 
 Consensus roles:
 
-**Protocol Engineers** earn $130,000-$320,000+.
+**Protocol Engineers** earn competitive salaries.
 
-**Security Researchers** earn $120,000-$300,000+.
+**Security Researchers** earn competitive salaries.
 
-**Network Engineers** earn $120,000-$300,000+.
+**Network Engineers** earn competitive salaries.
 
 ## Best Practices
 
