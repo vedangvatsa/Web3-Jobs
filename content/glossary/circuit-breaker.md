@@ -9,7 +9,7 @@ relatedTerms: ["smart-contract", "security", "governance", "risk"]
 synonyms: ["pause mechanism", "emergency stop", "risk limit"]
 ---
 
-Circuit Breaker refers to a security mechanism embedded in smart contracts that automatically halts operations when predefined risk thresholds are breached, protecting protocols from cascading failures during periods of extreme market volatility. Similar to traditional stock market safeguards that pause trading during sharp declines, DeFi circuit breakers activate when conditions like rapid price drops or unusual withdrawal volumes exceed acceptable parameters. Aave, one of the largest lending protocols, implements circuit breakers that can freeze specific asset markets when oracle prices deviate significantly, preventing exploits during flash crashes. According to Chainalysis, protocols with active circuit breaker mechanisms experienced 60% fewer exploit-related losses during the 2022 market downturn compared to those without such safeguards. These defensive tools give development teams critical time to assess situations, update price feeds, or implement emergency measures before damage spreads. For professionals entering Web3 security roles, understanding circuit breaker design and implementation has become essential knowledge for smart contract auditing and risk management positions.
+Circuit Breaker refers to a security mechanism embedded in smart contracts that automatically halts operations when predefined risk thresholds are breached. This protects protocols from cascading failures during periods of extreme market volatility. Similar to traditional stock market safeguards that pause trading during sharp declines, DeFi circuit breakers activate when conditions like rapid price drops or unusual withdrawal volumes exceed acceptable parameters. Aave, one of the largest lending protocols, implements circuit breakers that can freeze specific asset markets when oracle prices deviate significantly, preventing exploits during flash crashes. These defensive tools give development teams critical time to assess situations, update price feeds, or implement emergency measures before damage spreads. For professionals entering Web3 security roles, understanding circuit breaker design and implementation has become essential knowledge for smart contract auditing and risk management positions.
 
 ## Circuit Breaker Mechanics
 
@@ -103,9 +103,9 @@ Historical examples:
 
 **Flash Loan Attacks**: Circuit breaker could have detected abnormal price movements and paused lending.
 
-**Luna Collapse**: LUNA crashed 99% in days. Circuit breaker on staking/lending could have slowed contagion.
+**Luna Collapse**: LUNA crashed significantly in days. Circuit breaker on staking/lending could have slowed contagion.
 
-**Crypto Market Crashes**: During 2022 bear market, circuit breakers would have protected protocols during cascading failures.
+**Crypto Market Crashes**: Circuit breakers would have protected protocols during cascading failures.
 
 Hindsight shows circuit breaker value.
 
@@ -113,15 +113,15 @@ Hindsight shows circuit breaker value.
 
 Circuit breakers create roles:
 
-**Risk Control Engineers** designing circuit breakers earn $120,000-$280,000+.
+**Risk Control Engineers** designing circuit breakers earn competitive salaries.
 
-**Smart Contract Security Engineers** implementing circuit breakers earn $130,000-$320,000+.
+**Smart Contract Security Engineers** implementing circuit breakers earn competitive salaries.
 
-**Protocol Risk Managers** setting circuit breaker thresholds earn $110,000-$250,000+.
+**Protocol Risk Managers** setting circuit breaker thresholds earn competitive salaries.
 
-**Simulation Engineers** testing circuit breaker performance earn $100,000-$240,000+.
+**Simulation Engineers** testing circuit breaker performance earn competitive salaries.
 
-**Governance Specialists** setting circuit breaker policies earn $90,000-$200,000+.
+**Governance Specialists** setting circuit breaker policies earn competitive salaries.
 
 ## Best Practices
 

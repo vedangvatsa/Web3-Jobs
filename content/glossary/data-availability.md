@@ -9,7 +9,7 @@ relatedTerms: ["rollup", "consensus", "data-availability-sampling", "scaling"]
 synonyms: ["DA", "data availability layer", "DA security"]
 ---
 
-Data Availability refers to the guarantee that all data required to verify blockchain state transitions remains publicly accessible, enabling any network participant to independently validate blocks and detect potential fraud. This property becomes especially critical in modular blockchain architectures and Layer 2 rollups, where execution happens off-chain but verification depends on data being posted to a base layer. For example, Ethereum's Dencun upgrade introduced proto-danksharding specifically to reduce data availability costs for rollups, cutting L2 transaction fees by up to 90 percent according to L2Beat. Dedicated data availability layers like Celestia and EigenDA have emerged to provide scalable, cost-effective alternatives to posting data directly on Ethereum, enabling rollups to achieve higher throughput without sacrificing security guarantees. Without proper data availability, a malicious sequencer could withhold transaction data, preventing users from proving ownership of assets or exiting the system. Engineers who understand data availability architecture are increasingly sought after as modular blockchain designs become the dominant scaling paradigm across the industry.
+Data Availability refers to the guarantee that all data required to verify blockchain state transitions remains publicly accessible, enabling any network participant to independently validate blocks and detect potential fraud. This property becomes especially critical in modular blockchain architectures and Layer 2 rollups, where execution happens off-chain but verification depends on data being posted to a base layer. Ethereum's Dencun upgrade introduced proto-danksharding specifically to reduce data availability costs for rollups. Dedicated data availability layers like Celestia and EigenDA have emerged to provide scalable, cost-effective alternatives to posting data directly on Ethereum, enabling rollups to achieve higher throughput without sacrificing security guarantees. Without proper data availability, a malicious sequencer could withhold transaction data, preventing users from proving ownership of assets or exiting the system. Engineers who understand data availability architecture are increasingly sought after as modular blockchain designs become the dominant scaling method across the industry.
 
 ## Why Data Availability Matters
 
@@ -23,21 +23,21 @@ Key reasons:
 
 **Censorship Resistance**: Hidden data enables censorship and theft.
 
-DA is fundamental for blockchain security.
+Data availability is fundamental for blockchain security.
 
 ## DA in Rollups
 
 Rollup model:
 
-**Transaction Data**: Rollups post transaction data to L1 (calldata) for DA.
+**Transaction Data**: Rollups post transaction data to L1 (calldata) for data availability.
 
 **State Roots**: Rollups publish state roots for verification.
 
-**Proofs**: ZK rollups provide validity proofs, but still need DA for full state.
+**Proofs**: ZK rollups provide validity proofs, but still need data availability for full state.
 
-**Optimistic Rollups**: Need DA to allow fraud proofs.
+**Optimistic Rollups**: Need data availability to allow fraud proofs.
 
-DA underpins rollup security.
+Data availability underpins rollup security.
 
 ## DA Sampling
 
@@ -49,75 +49,75 @@ Efficiency technique:
 
 **Scalability**: Allows large data without full download.
 
-**Celestia**: Uses DA sampling to scale.
+**Celestia**: Uses data availability sampling to scale.
 
-DA sampling improves scalability.
+Data availability sampling improves scalability.
 
 ## DA Layers
 
 Dedicated layers:
 
-**Celestia**: Modular DA layer using DA sampling.
+**Celestia**: Modular data availability layer using data availability sampling.
 
-**EigenDA**: Ethereum-based DA layer using restaking.
+**EigenDA**: Ethereum-based data availability layer using restaking.
 
-**Avail**: DA layer focusing on low-cost data.
+**Avail**: Data availability layer focusing on low-cost data.
 
-**Ethereum**: L1 provides DA via calldata.
+**Ethereum**: L1 provides data availability via calldata.
 
-DA layers provide scalable data availability.
+Data availability layers provide scalable data availability.
 
 ## DA Tradeoffs
 
 Considerations:
 
-**Cost**: Posting data to Ethereum is expensive.
+**Cost**: Posting data to Ethereum can be expensive.
 
-**Security**: DA layer security is critical for rollup safety.
+**Security**: Data availability layer security is critical for rollup safety.
 
-**Latency**: DA layers add latency to rollups.
+**Latency**: Data availability layers can add latency to rollups.
 
-**Censorship**: DA provider can censor data if centralized.
+**Censorship**: A centralized data availability provider can censor data.
 
-DA design has tradeoffs.
+Data availability design has tradeoffs.
 
 ## DA Attacks
 
 Threats:
 
-**Data Withholding**: Sequencer hides data to prevent exits.
+**Data Withholding**: A sequencer hides data to prevent exits.
 
-**Censorship**: DA provider refuses to publish data.
+**Censorship**: A data availability provider refuses to publish data.
 
-**Fraudulent State**: Without DA, attackers can create invalid states.
+**Fraudulent State**: Without data availability, attackers can create invalid states.
 
-**Availability Failure**: DA outage halts rollups.
+**Availability Failure**: A data availability outage halts rollups.
 
-DA security is critical.
+Data availability security is critical.
 
 ## Career Opportunities
 
-DA infrastructure roles:
+Data availability infrastructure roles:
 
-**Protocol Engineers** earn $130,000-$320,000+.
+**Protocol Engineers** earn competitive salaries.
 
-**Research Engineers** earn $140,000-$340,000+.
+**Research Engineers** earn competitive salaries.
 
-**Infrastructure Operators** earn $100,000-$260,000+.
+**Infrastructure Operators** earn competitive salaries.
 
-**Security Researchers** earn $120,000-$300,000+.
+**Security Researchers** earn competitive salaries.
 
 ## Best Practices
 
-Using DA layers:
+Using data availability layers:
 
-**Understand Trust**: Know DA layer security model.
+**Understand Trust**: Know the data availability layer security model.
 
-**Redundancy**: Consider multiple DA sources.
+**Redundancy**: Consider multiple data availability sources.
 
 **Monitor Availability**: Track uptime and data publication.
 
-**Audit**: Audit DA code and protocols.
+**Audit**: Audit data availability code and protocols.
 
 ## The Future of Data Availability
 
@@ -125,10 +125,10 @@ Trends:
 
 **Cheaper DA**: Proto-danksharding and blob data reduce costs.
 
-**Modular Stack**: More modular L2 stacks with dedicated DA.
+**Modular Stack**: More modular L2 stacks with dedicated data availability.
 
-**Cross-DA Bridging**: Interoperable DA layers.
+**Cross-DA Bridging**: Interoperable data availability layers.
 
 ## Ensure Verifiable State
 
-Data availability ensures users can verify state transitions. It is central to rollup security and modular blockchain design. If you’re interested in scaling infrastructure, explore [infrastructure careers](/) at DA-layer teams.
+Data availability ensures users can verify state transitions. It is central to rollup security and modular blockchain design. If you’re interested in scaling infrastructure, explore [infrastructure careers](/) at data availability layer teams.

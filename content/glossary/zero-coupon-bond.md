@@ -9,7 +9,7 @@ relatedTerms: ["fixed-income", "defi", "bonds", "yield"]
 synonyms: ["zero-coupon", "deep-discount bond", "bullet bond"]
 ---
 
-Zero-Coupon Bond refers to a financial instrument that pays no periodic interest but instead trades at a significant discount to its face value, with investors earning profit through the difference between purchase price and redemption value at maturity. For example, purchasing a bond for $90 that matures at $100 after one year yields approximately 11% return. In decentralized finance, protocols like Pendle Finance have pioneered zero-coupon bond mechanics by splitting yield-bearing tokens into principal and yield components, enabling users to lock in fixed returns or speculate on future yields. The protocol reached over $4.5 billion in total value locked during 2024 (according to DeFiLlama), demonstrating substantial market demand for fixed-income DeFi products. As traditional finance institutions increasingly explore blockchain-based bond issuance and DeFi protocols mature their fixed-income offerings, professionals who understand zero-coupon bond mechanics and their on-chain implementations are becoming increasingly valuable to both crypto-native treasuries and institutional investors entering the space.
+Zero-Coupon Bond refers to a financial instrument that pays no periodic interest but instead trades at a significant discount to its face value. Investors earn profit through the difference between purchase price and redemption value at maturity. For example, purchasing a bond for $90 that matures at $100 after one year yields an approximate return of 11%. In decentralized finance, protocols like Pendle Finance have pioneered zero-coupon bond mechanics by splitting yield-bearing tokens into principal and yield components. This enables users to lock in fixed returns or speculate on future yields. As traditional finance institutions explore blockchain-based bond issuance and DeFi protocols mature their fixed-income offerings, professionals who understand zero-coupon bond mechanics and their on-chain implementations are becoming valuable to both crypto-native treasuries and institutional investors.
 
 ## Zero-Coupon Bond Mechanics
 
@@ -31,7 +31,7 @@ Zero-coupon bonds are discounted instruments.
 
 Valuation:
 
-**Present Value**: Bond price = Face Value / (1 + yield) ^ time
+**Present Value**: Bond price = Face Value / (1 + yield) ^ time.
 
 **Time Value**: Longer maturity = lower price = higher yield.
 
@@ -81,8 +81,6 @@ Benefits:
 
 **Simplicity**: No coupon payments, simple cash flow.
 
-**Leveraged**: Can amplify returns through leverage.
-
 **Known Duration**: Predictable holding period.
 
 Zero-coupon bonds have advantages for certain strategies.
@@ -91,13 +89,13 @@ Zero-coupon bonds have advantages for certain strategies.
 
 Fixed-income creates roles:
 
-**Fixed-Income Traders** trading bonds earn $120,000-$350,000+.
+**Fixed-Income Traders** trading bonds earn competitive salaries.
 
-**Quantitative Analysts** modeling bonds earn $120,000-$300,000+.
+**Quantitative Analysts** modeling bonds earn competitive salaries.
 
-**Structurers** creating bond products earn $130,000-$320,000+.
+**Structurers** creating bond products earn competitive salaries.
 
-**Risk Analysts** analyzing bond risks earn $100,000-$260,000+.
+**Risk Analysts** analyzing bond risks earn competitive salaries.
 
 ## Best Practices
 
