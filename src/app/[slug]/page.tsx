@@ -23,6 +23,9 @@ type ArticlePageProps = {
   };
 };
 
+export const dynamicParams = true;
+export const revalidate = 3600; // ISR: revalidate every hour
+
 export async function generateStaticParams() {
   const articles = await getAllArticles();
   const resources = getAllResourcePages();
