@@ -26,10 +26,14 @@ type ArticlePageProps = {
 export async function generateStaticParams() {
   const articles = await getAllArticles();
   const resources = getAllResourcePages();
-  // Only pre-render articles + resources at build time.
-  // Glossary terms (157 pages) are generated on-demand via ISR.
+  // Pre-render only the 50 most recent articles + all resource pages at build time.
+  // Remaining ~716 articles are generated on-demand via ISR (built on first request, then cached).
+  // Glossary terms (157 pages) are also generated on-demand via ISR.
+  const topArticles = articles
+    .sort((a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime())
+    .slice(0, 50);
   return [
-    ...articles.map((article) => ({ slug: article.slug })),
+    ...topArticles.map((article) => ({ slug: article.slug })),
     ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
   ];
 }
