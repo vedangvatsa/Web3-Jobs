@@ -47,7 +47,7 @@ Training a neural network involves a systematic process called **training**, oft
 
 1. **Forward Pass**: You introduce an input from the training dataset (for example, a cat's image). This input progresses through the network layers, from the input to the output layer. Each neuron performs its computations, relaying outputs to the following layer. Ultimately, the output layer provides a prediction.
 
-2. **Calculate the Error**: The network assesses its prediction against the correct label from the training data. For instance, it may predict an 80% probability of being a cat and 20% for a dog. Knowing the correct label is "cat," you can calculate the "error" or "loss" in the prediction.
+2. **Calculate the Error**: The network assesses its prediction against the correct label from the training data. For instance, it may predict a high probability of being a cat and a lower probability for a dog. Knowing the correct label is "cat," you can calculate the "error" or "loss" in the prediction.
 
 3. **Backward Pass (Backpropagation)**: This essential learning step involves working backward from the output to the input layer. The network determines how much each neuron's weights and biases contributed to the final error.
 
@@ -88,7 +88,7 @@ A high-level understanding and programming skills are sufficient for practitione
 In Web3, neural networks are utilized for various applications. For instance, they analyze on-chain transaction data to spot fraudulent activities or predict market trends. Some initiatives aim to establish decentralized AI platforms where community-controlled neural network models supersede single-company ownership. This aligns with concepts like decentralized prediction markets and [DAOs](/what-is-a-dao).
 
 **5. What constitutes a "large language model"?**  
-A [large language model (LLM)](/large-language-models-explained-simply), such as GPT-4, represents a vast and deep neural network trained on extensive text and code datasets. Its specific architecture, known as a Transformer, excels at comprehending human language.
+A [large language model (LLM)](/large-language-models-explained-simply) represents a vast and deep neural network trained on extensive text and code datasets. Its specific architecture, known as a Transformer, excels at comprehending human language.
 
 ### Conclusion
 

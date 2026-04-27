@@ -106,7 +106,7 @@ Continuously monitor your progress. Are you achieving your desired outcomes? Be 
 
 | Name   | Background                     | Challenge                              | Outcome                               |
 |--------|--------------------------------|---------------------------------------|---------------------------------------|
-| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Lacked engagement in her role        | Implemented new strategies and saw a 40% increase in project satisfaction within three months. |
+| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Lacked engagement in her role        | Implemented new strategies and saw significant improvements in project satisfaction within a few months. |
 | Juan   | Product manager in [DeFi](/what-is-defi) | Faced stagnation in his career       | Adopted a structured approach and successfully transitioned to a higher-level role in product development. |
 | Maya   | Transitioning from Web2 to Web3 | Struggled with adapting to new technologies | Quickly acclimated using targeted learning and networking, leading to a position in a top Web3 firm. |
 

@@ -69,7 +69,7 @@ Despite their advantages, STOs face several challenges:
 
 - **Restricted Participation**: Many STOs are only available to accredited investors, reducing accessibility compared to the open nature of utility token sales.
 
-STOs create a vital connection between traditional finance (TradFi) and decentralized finance ([DeFi](/what-is-defi)). Although they limit the permissionless aspect of earlier crypto projects, they provide a compliant method for integrating real-world assets and financial instruments into the blockchain, potentially facilitating trillions of dollars in value for the Web3 ecosystem.
+STOs create a vital connection between traditional finance (TradFi) and decentralized finance ([DeFi](/what-is-defi)). Although they limit the permissionless aspect of earlier crypto projects, they provide a compliant method for integrating real-world assets and financial instruments into the blockchain, potentially facilitating significant value for the Web3 ecosystem.
 
 ## Importance of Understanding STOs
 
@@ -101,11 +101,11 @@ Regularly evaluate your results. If you see positive changes, continue on that p
 
 ### Example 1: Sarah's Journey
 
-Sarah, a developer in a blockchain startup, initially struggled with understanding the regulatory landscape governing STOs. After implementing structured learning strategies, she gained clarity and confidence. Within three months, she improved her project compliance metrics by 30%.
+Sarah, a developer in a blockchain startup, initially struggled with understanding the regulatory landscape governing STOs. After implementing structured learning strategies, she gained clarity and confidence. Within three months, she improved her project compliance metrics significantly.
 
 ### Example 2: Juan's Success
 
-Juan, a product manager in a DeFi company, faced challenges in integrating security tokens into his product offerings. By applying a systematic approach to understanding regulations, he successfully launched a compliant product that increased user engagement by 25%.
+Juan, a product manager in a DeFi company, faced challenges in integrating security tokens into his product offerings. By applying a systematic approach to understanding regulations, he successfully launched a compliant product that increased user engagement.
 
 ### Example 3: Maya's Transition
 
@@ -126,7 +126,7 @@ Maya transitioned from a Web2 role to a Web3 position. By embracing the principl
 ## FAQ
 
 **Q: How long will it take to see results from implementing these strategies?**  
-A: Most individuals notice initial outcomes within 2 to 4 weeks of consistent application. Significant improvements typically become apparent within 8 to 12 weeks. Your progress will depend on your starting point, daily practice commitment, and openness to feedback. Professionals who actively track their progress—through metrics, peer evaluations, or journaling—often achieve faster results than those who passively observe.
+A: Most individuals notice initial outcomes within a few weeks of consistent application. Significant improvements typically become apparent within a couple of months. Your progress will depend on your starting point, daily practice commitment, and openness to feedback. Professionals who actively track their progress—through metrics, peer evaluations, or journaling—often achieve faster results than those who passively observe.
 
 **Q: What if my workplace does not support these initiatives?**  
 A: Even in challenging environments, you usually possess more agency than it appears. Start with small, self-directed actions that do not require broad organizational approval. Focus on personal projects or conversations with like-minded colleagues. Gradually build momentum and document your achievements. If, after sustained efforts, the environment continues to hinder your development, it may be time to consider seeking opportunities elsewhere.

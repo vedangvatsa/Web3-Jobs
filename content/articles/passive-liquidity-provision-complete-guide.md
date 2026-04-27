@@ -35,7 +35,7 @@ To grasp passive liquidity provision, consider the traditional constant product 
 **The Process:**
 1. **Deposit**: Users deposit equal values of two tokens, such as 50% [ETH](/what-is-ethereum) and 50% DAI, into a liquidity pool.
 2. **Receive LP Tokens**: Users receive **[LP tokens](/what-is-a-liquidity-provider-token)** that represent their ownership share of the pool.
-3. **Earn Fees**: Holding LP tokens allows users to passively earn a share of the 0.3% trading fee from each trade executed in the pool.
+3. **Earn Fees**: Holding LP tokens allows users to passively earn a share of the trading fee from each trade executed in the pool.
 4. **Withdraw**: Users can withdraw their share plus accrued fees anytime by returning their LP tokens.
 
 This model requires no further action from the user. As long as the position remains active, it continues to generate fees, epitomizing a "set-and-forget" strategy.
@@ -85,7 +85,7 @@ For users, the process remains passive. They deposit funds into a vault, while t
 No, it carries risks, particularly impermanent loss with volatile assets. In some cases, impermanent loss can exceed earned fees, resulting in a net loss compared to holding the assets.
 
 **What is a good APR for a passive LP strategy?**  
-APR varies widely depending on the pool's risk profile. Low-risk stablecoin pools may offer APRs of 2-5%. In contrast, more volatile pairs managed by automated liquidity systems can yield APRs from 20% to over 100%, albeit with a higher risk of impermanent loss.
+APR varies widely depending on the pool's risk profile. Low-risk stablecoin pools may offer competitive returns, while more volatile pairs managed by automated liquidity systems can yield higher returns, albeit with a higher risk of impermanent loss.
 
 **Do I still own my funds when using an automated liquidity manager?**  
 Users receive a "vault token" representing their share of the managed funds, akin to an LP token. However, this adds a layer of smart contract risk, as users must trust both the underlying [DEX](/what-is-a-decentralized-exchange-dex) and the liquidity manager protocol.

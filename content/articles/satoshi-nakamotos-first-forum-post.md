@@ -84,9 +84,9 @@ Track your progress. Are you achieving desired results? Adjust your strategy bas
 
 | Professional | Role                              | Challenge               | Strategy Implemented                           | Outcome                                |
 |--------------|-----------------------------------|-------------------------|------------------------------------------------|----------------------------------------|
-| Sarah        | Developer at a [blockchain](/what-is-a-blockchain) startup | Adapting to new tech   | Adopted agile methodologies and collaborative tools | Enhanced team productivity by 40%     |
-| Juan         | Product Manager in [DeFi](/what-is-defi) | Managing remote teams   | Implemented regular check-ins and feedback loops | Improved project turnaround time by 30% |
-| Maya         | Transitioning from Web2 to Web3   | Understanding Web3 dynamics | Engaged in online communities and mentorship | Rapidly acclimated and contributed to projects within 3 months |
+| Sarah        | Developer at a [blockchain](/what-is-a-blockchain) startup | Adapting to new tech   | Adopted agile methodologies and collaborative tools | Enhanced team productivity significantly     |
+| Juan         | Product Manager in [DeFi](/what-is-defi) | Managing remote teams   | Implemented regular check-ins and feedback loops | Improved project turnaround time significantly |
+| Maya         | Transitioning from Web2 to Web3   | Understanding Web3 dynamics | Engaged in online communities and mentorship | Rapidly acclimated and contributed to projects within a few months |
 
 ### Common Mistakes to Avoid
 
@@ -103,7 +103,7 @@ Track your progress. Are you achieving desired results? Adjust your strategy bas
 ## FAQ
 
 **How long will this take to implement?**  
-Most individuals notice initial results within 2 to 4 weeks of consistent application. Significant improvements typically appear within 8 to 12 weeks. The timeline varies based on your starting baseline, daily practice commitment, and feedback-seeking efforts. Professionals who actively track their progress often advance more rapidly than those relying on passive observation. Treating implementation as a structured project enhances outcomes.
+Most individuals notice initial results within a few weeks of consistent application. Significant improvements typically appear within a few months. The timeline varies based on your starting baseline, daily practice commitment, and feedback-seeking efforts. Professionals who actively track their progress often advance more rapidly than those relying on passive observation. Treating implementation as a structured project enhances outcomes.
 
 **What if my workplace environment doesn't support this?**  
 You often have more agency than it initially appears, even in challenging environments. Begin with small, self-contained actions that do not require organizational approval, such as personal projects or internal conversations with like-minded colleagues. Gradually build momentum instead of waiting for permission. Document your progress and results. If, after sustained effort, the environment continues to hinder your development, consider seeking an organization that actively invests in people.

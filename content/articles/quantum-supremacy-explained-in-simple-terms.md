@@ -22,9 +22,9 @@ The term gained substantial visibility in 2019 when Google released a paper in t
 
 **The Task**: Google aimed to sample the output from a random quantum circuit. This involved sending energy through an intricate arrangement of quantum gates. Due to quantum phenomena, such as superposition and interference, the result is a complex probability distribution of various bitstrings. The quantum computer's mission was to execute this experiment and generate a sample set from that output distribution.
 
-**The Result**: The Sycamore processor accomplished this task in approximately 200 seconds. Google estimated that the most powerful classical supercomputer at the time, IBM's Summit, would require around 10,000 years to perform the same operation.
+**The Result**: The Sycamore processor accomplished this task in approximately 200 seconds. Google estimated that the most powerful classical supercomputer at the time would require an impractically long duration to perform the same operation.
 
-**The Controversy**: This assertion sparked debate. IBM contested Google's claim, proposing that with an alternative classical algorithm and leveraging the supercomputer's extensive storage, the task could be completed in just 2.5 days. While this duration is still significantly longer than 200 seconds, it raised questions about the precise definition of "supremacy."
+**The Controversy**: This assertion sparked debate. IBM contested Google's claim, proposing that with an alternative classical algorithm and leveraging the supercomputer's extensive storage, the task could be completed in a significantly shorter time. While this duration is still longer than 200 seconds, it raised questions about the precise definition of "supremacy."
 
 Regardless of the numerical specifics, the experiment represented a milestone achievement, showcasing a quantum computer executing a task far beyond the limitations of a classical machine.
 
@@ -57,7 +57,7 @@ Yes. In 2020, researchers from the University of Science and Technology of China
 The objective was not to find a useful solution. Instead, the focus was on selecting a computational task that perfectly aligned with the inherent strengths of a quantum processor, accentuating the exponential difference in how quantum and classical machines handle complexity. This was a scientific demonstration rather than a market-ready product.
 
 **3. When will quantum computers become practically useful?**  
-Predictions vary, but experts generally estimate that we are still 5 to 10 years away from quantum computers resolving commercially relevant challenges that classical machines cannot handle. This period is characterized as the era of "Noisy Intermediate-Scale Quantum" (NISQ) computers, where the technology is powerful enough to be intriguing but remains too small and error-prone for many promising applications.
+Predictions vary, but experts generally estimate that we are still several years away from quantum computers resolving commercially relevant challenges that classical machines cannot handle. This period is characterized as the era of "Noisy Intermediate-Scale Quantum" (NISQ) computers, where the technology is powerful enough to be intriguing but remains too small and error-prone for many promising applications.
 
 **4. What implications does this have for encryption?**  
 The demonstration of quantum supremacy does not imply that encryption is compromised today. The Sycamore chip cannot execute Shor's algorithm, the quantum algorithm capable of breaking modern encryption methods. Nonetheless, it serves as a critical reminder. It highlights the rapid advancement of quantum computation and underscores the urgent need to transition to new forms of "post-quantum cryptography" that withstand both classical and quantum attacks.

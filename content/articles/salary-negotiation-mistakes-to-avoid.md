@@ -105,10 +105,10 @@ Continuously evaluate your progress. Are you achieving desired outcomes? Adjust 
 ### Real-World Examples
 
 #### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced significant challenges during her salary negotiations. After implementing strategic negotiation techniques over a three-month period, she secured a 25% increase in her salary, reflecting her enhanced understanding of market value.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced significant challenges during her salary negotiations. After implementing strategic negotiation techniques over a three-month period, she secured a notable increase in her salary, reflecting her enhanced understanding of market value.
 
 #### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered difficulties with initial negotiation attempts. By applying the strategies outlined here, he successfully negotiated a salary increase of 15% along with additional vacation days. His experience illustrates the effectiveness of these principles across different roles.
+Juan, a product manager in [DeFi](/what-is-defi), encountered difficulties with initial negotiation attempts. By applying the strategies outlined here, he successfully negotiated a salary increase along with additional vacation days. His experience illustrates the effectiveness of these principles across different roles.
 
 #### Example 3
 Maya transitioned from Web2 to Web3 and applied these negotiation strategies to adapt swiftly to her new environment. She managed to negotiate not only a competitive salary but also stock options, demonstrating the applicability of these techniques regardless of industry background.

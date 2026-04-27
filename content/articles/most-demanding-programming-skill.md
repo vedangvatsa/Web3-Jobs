@@ -73,7 +73,7 @@ Mastering the craft of clear, precise, and creative communication with AI repres
 
 ### Why These Skills Matter
 
-In modern careers, these competencies prove foundational. Whether in Web3, traditional tech, or knowledge-intensive fields, these skills significantly influence your career trajectory. Research indicates that these abilities offer a return on investment (ROI) of 300-500% over 10-15 years.
+In modern careers, these competencies prove foundational. Whether in Web3, traditional tech, or knowledge-intensive fields, these skills significantly influence your career trajectory. Research indicates that these abilities offer a substantial return on investment (ROI) over time.
 
 ### Detailed Skill Breakdown
 
@@ -124,7 +124,7 @@ Web3 teams often operate in distributed environments and require agility. Skills
 Skills play differentiated roles at various career levels:
 - **Junior Level:** Technical skills hold the most value, while communication becomes increasingly relevant.
 - **Mid-Level:** A balance of technical and soft skills emerges; leadership potential begins to surface.
-- **Senior Level:** Soft skills account for approximately 70% of effectiveness.
+- **Senior Level:** Soft skills account for a significant portion of effectiveness.
 - **Leadership:** Emotional intelligence and communication become paramount.
 
 ### Common Development Mistakes

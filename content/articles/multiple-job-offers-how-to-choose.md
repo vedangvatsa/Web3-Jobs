@@ -28,12 +28,12 @@ While salary is crucial, it represents only one aspect of the overall package. A
 
 | Factor                   | Offer A                      | Offer B                      | Offer C                      |
 |-------------------------|-----------------------------|------------------------------|------------------------------|
-| Base Salary             | $80,000                     | $75,000                      | $85,000                      |
-| Bonus Potential          | 10%                          | 15% (average payout: $5,000) | 5% (average payout: $3,000)  |
-| Equity/Tokens           | 1,000 shares (4-year vesting) | 500 shares (3-year vesting)  | 1,500 tokens (2-year vesting) |
-| Health Insurance        | Premium coverage             | Standard coverage             | High-deductible plan         |
-| Retirement Contribution  | 5% match                    | 3% match                     | 6% match                     |
-| Paid Time Off           | 20 days                     | 15 days                      | 25 days                      |
+| Base Salary             | Competitive                  | Competitive                   | Competitive                   |
+| Bonus Potential          | Performance-based            | Performance-based             | Performance-based             |
+| Equity/Tokens           | Equity options available     | Equity options available      | Equity options available      |
+| Health Insurance        | Comprehensive coverage       | Standard coverage             | High-deductible plan         |
+| Retirement Contribution  | Competitive match            | Competitive match             | Competitive match             |
+| Paid Time Off           | Generous                     | Standard                     | Generous                     |
 
 **Total Compensation.** Look beyond base salary and assess the entire compensation package. Include:
 

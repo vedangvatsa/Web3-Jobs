@@ -90,9 +90,9 @@ Understanding how to manage former peers is essential for your professional grow
 
 ### Real-World Examples
 
-Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. After implementing clear strategies for managing her former peers, she saw a 50% improvement in team collaboration within three months.
+Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. After implementing clear strategies for managing her former peers, she saw significant improvement in team collaboration within a few months.
 
-Juan, a product manager in [DeFi](/what-is-defi), faced challenges when promoted over close colleagues. By adhering to best practices, he managed to foster a team environment that led to a 30% increase in project efficiency.
+Juan, a product manager in [DeFi](/what-is-defi), faced challenges when promoted over close colleagues. By adhering to best practices, he managed to foster a team environment that led to increased project efficiency.
 
 Maya, transitioning from Web2 to Web3, used these strategies to adapt quickly. Her experience demonstrates that effective management practices apply across various contexts, regardless of background.
 
