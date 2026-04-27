@@ -13,7 +13,7 @@ lastUpdated: "2026-04-27"
 
 Snoop Dogg, the legendary rapper and cultural phenomenon, has become one of the most influential figures in the Web3 space. He is not merely a passive investor; he has fully engaged with the world of [NFTs](/what-are-nfts) and the metaverse, launching innovative projects, constructing virtual realms, and redefining concepts in the music industry.
 
-This article outlines Snoop Dogg's journey into Web3, tracing his early adoption of NFTs under the pseudonym "Cozomo de' Medici" to his ambitious plans for transforming Death Row Records into the first major "NFT label."
+This article outlines Snoop Dogg's journey into Web3, tracing his early adoption of NFTs under the pseudonym "Cozomo de' Medici" to his ambitious plans for transforming Death Row Records into a major "NFT label."
 
 ### From Hip-Hop Legend to NFT King
 
@@ -42,13 +42,13 @@ Snoop Dogg was among the first major celebrities to collaborate with The Sandbox
 
 ### 3. The Cozomo de' Medici Reveal
 
-In 2021, Snoop Dogg disclosed his identity as the individual behind the pseudonymous NFT collector "Cozomo de' Medici." Under this alias, he had quietly amassed an impressive NFT collection valued in the millions. This collection includes notable pieces like CryptoPunks and Art Blocks.
+In 2021, Snoop Dogg disclosed his identity as the individual behind the pseudonymous NFT collector "Cozomo de' Medici." Under this alias, he had quietly amassed an impressive NFT collection valued significantly. This collection includes notable pieces like CryptoPunks and Art Blocks.
 
 This revelation marked a significant moment for the NFT community. It showcased that a prominent cultural figure had been actively participating in the space, building credibility and demonstrating genuine interest rather than a superficial marketing gimmick.
 
 ## Death Row Records: The First NFT Record Label
 
-Snoop's strategic vision in Web3 culminated in early 2022 with his acquisition of **Death Row Records**, the iconic label that launched his career. Shortly after the acquisition, he announced plans to transform Death Row into the first major **"NFT record label."**
+Snoop's strategic vision in Web3 culminated in early 2022 with his acquisition of **Death Row Records**, the iconic label that launched his career. Shortly after the acquisition, he announced plans to transform Death Row into a major **"NFT record label."**
 
 His vision encompasses:
 
@@ -60,12 +60,12 @@ This move represents one of the most ambitious attempts by a major artist to int
 
 ### 4. The Economic Opportunity in NFTs
 
-Snoop Dogg’s ventures into NFTs align with broader market trends indicating a robust economic opportunity for artists. According to data from NonFungible, the NFT market generated $25 billion in sales in 2021, a 21,000% increase from the previous year. This surge illustrates the potential for artists to monetize their work outside traditional frameworks.
+Snoop Dogg’s ventures into NFTs align with broader market trends indicating a robust economic opportunity for artists. The NFT market generated billions in sales in 2021, showcasing the potential for artists to monetize their work outside traditional frameworks.
 
 | Year        | NFT Market Sales (in billions) | Year-on-Year Growth (%) |
 |-------------|-------------------------------|-------------------------|
 | 2020        | 0.25                          | -                       |
-| 2021        | 25                            | 21,000                  |
+| 2021        | 25                            | -                       |
 | 2022        | 8.4                           | -66.4                   |
 | 2023 (est.) | 10                            | 19.05                   |
 

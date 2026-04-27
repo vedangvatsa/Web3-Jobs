@@ -37,7 +37,7 @@ This is the fundamental innovation that makes smart contracts useful for real-wo
 
 By bringing external data onto the blockchain, oracles introduce a new security risk: if the oracle is compromised or dishonest, the entire smart contract system built on top of it becomes unreliable.
 
-Consider a lending protocol that uses oracle data to determine if a loan should be liquidated. If the oracle reports that Bitcoin is worth $0 when it's actually worth $50,000, lenders could be wiped out or loans unfairly liquidated. The security of the smart contract is only as strong as the security of its oracle.
+Consider a lending protocol that uses oracle data to determine if a loan should be liquidated. If the oracle reports that Bitcoin is worth $0 when it's actually worth a significantly higher amount, lenders could be wiped out or loans unfairly liquidated. The security of the smart contract is only as strong as the security of its oracle.
 
 This is why oracle design is so critical. Oracles must balance several competing requirements:
 - **Decentralization:** Avoiding a single point of failure or control
@@ -60,7 +60,7 @@ Examples: A price feed from a single exchange, a single weather service providin
 
 ## How Decentralized Oracles Work: The Chainlink Model
 
-**Chainlink** is the most widely used decentralized oracle network in [Web3](/what-is-web3). Its architecture has become the industry standard and is worth understanding in detail.
+**Chainlink** is a widely used decentralized oracle network in [Web3](/what-is-web3). Its architecture has become the industry standard and is worth understanding in detail.
 
 **Architecture:**
 
@@ -124,7 +124,7 @@ Oracles are the essential infrastructure for a huge range of Web3 applications:
 
 **Oracle Delays:** If oracle updates are infrequent, smart contracts might act on stale data. Updating too frequently becomes expensive.
 
-**Economic Security:** The cost of attacking an oracle needs to be greater than the potential profit. If an oracle is protecting $100 million in value but only costs $1 million to attack, it's not economically secure.
+**Economic Security:** The cost of attacking an oracle needs to be greater than the potential profit. If an oracle is protecting a significant amount of value but only costs a small fraction to attack, it's not economically secure.
 
 ## Oracle Providers and Careers
 

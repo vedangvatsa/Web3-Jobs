@@ -19,7 +19,7 @@ This article explores Vitalik Buterin's philosophy, technical contributions, evo
 
 In 2013, at just 19 years old, Buterin, then a co-founder of [Bitcoin](/what-is-bitcoin) Magazine, released the Ethereum whitepaper. While he admired Bitcoin's potential as a decentralized currency, he recognized its limitations. He proposed a blockchain equipped with a Turing-complete [programming language](/best-programming-languages-for-blockchain-development), enabling developers to create any application they could envision.
 
-Buterin sought to extend Bitcoin's decentralized, censorship-resistant properties. Instead of a blockchain limited to one use case (money), Ethereum emerged as a blockchain for *all* applications. This foundational idea led to the development of [smart contracts](/what-are-smart-contracts), decentralized applications (dApps), decentralized finance ([DeFi](/what-is-defi)), and non-fungible tokens ([NFTs](/what-are-nfts)). The Ethereum crowdsale in 2014 raised over $18 million, culminating in the network's official launch in 2015.
+Buterin sought to extend Bitcoin's decentralized, censorship-resistant properties. Instead of a blockchain limited to one use case (money), Ethereum emerged as a blockchain for *all* applications. This foundational idea led to the development of [smart contracts](/what-are-smart-contracts), decentralized applications (dApps), decentralized finance ([DeFi](/what-is-defi)), and non-fungible tokens ([NFTs](/what-are-nfts)). The Ethereum crowdsale in 2014 raised significant value, culminating in the network's official launch in 2015.
 
 ### Core Philosophical Pillars
 
@@ -45,7 +45,7 @@ Vitalik combines philosophical insight with technical expertise, steering Ethere
 
 | **Aspect**               | **Details**                                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------|
-| **Energy Consumption**   | PoS reduces Ethereum's energy usage by over 99.95%, addressing one of blockchain technology's most substantial criticisms. |
+| **Energy Consumption**   | PoS reduces Ethereum's energy usage significantly, addressing one of blockchain technology's most substantial criticisms. |
 | **Security**            | PoS provides enhanced cryptoeconomic security for the same issuance cost. Securing the network through staking rewards is more cost-effective than through mining rewards. |
 | **Decentralization**     | PoS lowers the barrier for becoming a validator. Users can participate by staking ETH, which makes securing the network more accessible. |
 

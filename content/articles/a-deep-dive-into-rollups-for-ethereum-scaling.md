@@ -11,7 +11,7 @@ lastUpdated: "2026-04-27"
 
 Ethereum's rapid growth has made it the leading platform for [smart contracts](/what-are-smart-contracts) and decentralized applications. However, this success has resulted in network congestion and increased transaction fees, making it difficult for many users to interact with the platform. The long-term strategy to address these challenges includes [sharding the base layer](/how-sharding-improves-blockchain-scalability). Currently, the primary solution that has gained traction is **Layer 2 (L2) Rollups**.
 
-Rollups form the foundation of Ethereum's scaling strategy. They operate as secondary layers that execute transactions off-chain while posting transaction data back to the main Ethereum blockchain. This approach allows rollups to inherit Ethereum's security and decentralization. As a result, rollups can provide significantly higher transaction throughput and lower fees, often achieving reductions of 10 to 100 times compared to on-chain transactions. This capability makes Ethereum applications suitable for broader adoption.
+Rollups form the foundation of Ethereum's scaling strategy. They operate as secondary layers that execute transactions off-chain while posting transaction data back to the main Ethereum blockchain. This approach allows rollups to inherit Ethereum's security and decentralization. As a result, rollups can provide significantly higher transaction throughput and lower fees, often achieving reductions compared to on-chain transactions. This capability makes Ethereum applications suitable for broader adoption.
 
 This article explores rollups, detailing the two main types—Optimistic Rollups and Zero-Knowledge (ZK) Rollups—and their critical roles in creating a modular blockchain ecosystem.
 
@@ -30,16 +30,16 @@ Optimistic Rollups, including **Arbitrum** and **Optimism**, represent the most 
 - **How they work:**
     - A "sequencer" operator bundles transactions and posts them to Layer 1.
     - The sequencer optimistically asserts the validity of all transactions without providing initial proof.
-    - This action initiates a **challenge period**, typically lasting seven days.
+    - This action initiates a **challenge period**, typically lasting several days.
     - During this period, any honest node can review the posted data. If a fraudulent transaction is detected, the node can submit a **"fraud proof"** to the Layer 1 smart contract.
-    - If the fraud proof is validated, the fraudulent transaction is reversed, and the dishonest sequencer incurs a penalty by losing a portion of their staked ETH. If no challenges arise within the week, the transactions are deemed final.
+    - If the fraud proof is validated, the fraudulent transaction is reversed, and the dishonest sequencer incurs a penalty by losing a portion of their staked ETH. If no challenges arise within the challenge period, the transactions are deemed final.
 
 - **Advantages:**
     - **EVM Compatibility:** Optimistic Rollups are generally fully compatible with the Ethereum Virtual Machine (EVM), enabling existing Ethereum dApps to migrate easily.
     - **Proven Technology:** The technology behind Optimistic Rollups is well-established and has undergone extensive testing.
 
 - **Disadvantages:**
-    - **Withdrawal Delays:** Users must wait a week to withdraw funds back to the Ethereum mainnet due to the seven-day challenge period. Although third-party "fast bridges" can expedite withdrawals, they introduce additional costs and trust issues.
+    - **Withdrawal Delays:** Users must wait for a period to withdraw funds back to the Ethereum mainnet due to the challenge period. Although third-party "fast bridges" can expedite withdrawals, they introduce additional costs and trust issues.
 
 ### ZK-Rollups: Guilty Until Proven Innocent
 
@@ -71,8 +71,8 @@ This modular framework, where execution occurs on L2s and settlement on L1, perm
 | Feature                          | Optimistic Rollups                     | ZK-Rollups                             |
 |----------------------------------|----------------------------------------|----------------------------------------|
 | Validation Method                | Fraud proofs during challenge period   | Cryptographic validity proofs          |
-| Challenge Period                 | 7 days                                 | No challenge period                    |
-| Finality Time                    | Delayed (up to 7 days)                | Instant                                |
+| Challenge Period                 | Several days                           | No challenge period                    |
+| Finality Time                    | Delayed (up to several days)          | Instant                                |
 | Security Model                   | Economic incentives                     | Mathematical proof                     |
 | EVM Compatibility                | Fully compatible                       | Developing zkEVM compatibility         |
 | Complexity                       | Simpler technology                     | Advanced cryptographic techniques      |

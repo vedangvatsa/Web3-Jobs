@@ -13,7 +13,7 @@ lastUpdated: "2026-04-27"
 
 Mark Zuckerberg, founder and CEO of Meta (previously Facebook), plays a significant role in the discussions surrounding [Web3](/what-is-web3) and the metaverse. Unlike crypto-native innovators who advocate for decentralization, Zuckerberg approaches the metaverse as a Web2 incumbent. His ambition is to shape and dominate the next computing platform, similar to what Facebook achieved in the realm of social media.
 
-This analysis examines Zuckerberg's vision for the metaverse, the rationale behind Facebook's rebranding to Meta, the company’s substantial investments in virtual and augmented reality (VR/AR), and the notable differences between his centralized approach and the decentralized principles embraced by the Web3 community.
+This analysis examines Zuckerberg's vision for the metaverse, the rationale behind Facebook's rebranding to Meta, the company’s significant investments in virtual and augmented reality (VR/AR), and the notable differences between his centralized approach and the decentralized principles embraced by the Web3 community.
 
 ### The Pivot to Meta
 
@@ -33,7 +33,7 @@ Zuckerberg's metaverse vision diverges sharply from that of the Web3 community. 
 
 ### 1. The Primacy of Hardware
 
-Meta's strategy hinges on controlling the hardware that connects users to the metaverse. The company has committed tens of billions of dollars to its Reality Labs division, developing the Oculus (now Meta Quest) line of VR headsets and researching future AR glasses.
+Meta's strategy hinges on controlling the hardware that connects users to the metaverse. The company has committed significant resources to its Reality Labs division, developing the Oculus (now Meta Quest) line of VR headsets and researching future AR glasses.
 
 - **Why Hardware is Key**: Owning the hardware allows Meta to dictate the operating system, app store, and overall user experience. This control enables Meta to set platform rules and take a percentage of all transactions, akin to Apple's model with its App Store.
   
@@ -45,7 +45,7 @@ Horizon Worlds serves as Meta's primary social VR application. It allows users t
 
 - **A "Walled Garden"**: Horizon Worlds exemplifies a "walled garden." This proprietary platform is entirely under Meta's control. Assets created within the environment lack interoperability with other platforms, and Meta oversees content moderation and monetization.
 
-- **High Take Rates**: Meta's monetization strategy for Horizon Worlds has drawn significant criticism. The company announced it would take up to 47.5% from sales of digital assets—a rate that surpasses Apple's controversial 30% App Store fee. This contrasts sharply with the low single-digit royalty fees typically found in open [NFT](/what-are-nfts) marketplaces.
+- **High Take Rates**: Meta's monetization strategy for Horizon Worlds has drawn significant criticism. The company announced it would take a substantial percentage from sales of digital assets—a rate that surpasses Apple's controversial App Store fee. This contrasts sharply with the low single-digit royalty fees typically found in open [NFT](/what-are-nfts) marketplaces.
 
 ### 3. A Focus on Avatars and Social Presence
 
@@ -61,11 +61,11 @@ Meta's vision for the metaverse fundamentally contradicts the principles of the 
 | **Identity**       | Tied to a Meta account (e.g., Facebook or Instagram). | Based on a self-sovereign [wallet](/how-to-choose-a-crypto-wallet) address or decentralized ID (DID). |
 | **Interoperability** | "Walled Garden" - assets are confined to Meta's platform. | Open and permissionless; assets can move freely across different virtual worlds and marketplaces. |
 | **Governance**     | Centralized control by Meta, which establishes all rules. | Community governance often facilitated through [DAOs](/what-is-a-dao). |
-| **Economics**      | Elevated take rates (up to 47.5%) that favor the platform owner. | Minimal platform fees and royalties, benefiting creators and users. |
+| **Economics**      | Elevated take rates that favor the platform owner. | Minimal platform fees and royalties, benefiting creators and users. |
 
 ## Conclusion: An Attempt to Build the Next Walled Garden
 
-Mark Zuckerberg and Meta's foray into the metaverse signifies a crucial confrontation for the future of the internet. Zuckerberg is making a bold, multi-billion dollar investment to create a proprietary, integrated, and user-friendly metaverse that aims to capture a mainstream audience before a more chaotic, yet open and decentralized alternative can establish itself.
+Mark Zuckerberg and Meta's foray into the metaverse signifies a crucial confrontation for the future of the internet. Zuckerberg is making a bold investment to create a proprietary, integrated, and user-friendly metaverse that aims to capture a mainstream audience before a more chaotic, yet open and decentralized alternative can establish itself.
 
 Meta's substantial resources, extensive user base, and expertise in product design provide a solid foundation for this endeavor. However, this approach runs counter to the Web3 principles of user ownership, decentralization, and openness. The Web3 community largely regards Meta's initiatives with skepticism, viewing them as a strategy by a Web2 giant to dominate the metaverse narrative and construct a core "walled garden."
 
@@ -83,7 +83,7 @@ A2: Horizon Worlds is Meta's social VR platform, serving as its flagship metaver
 A3: Meta's metaverse is centralized, proprietary, and dominated by the company, whereas the Web3 vision promotes a decentralized, open, and interoperable environment where users genuinely own their digital assets as NFTs and have control over their identities.
 
 **Q4: How much has Meta invested in the metaverse?**  
-A4: Since late 2020, Meta's Reality Labs division has reported losses exceeding $45 billion, marking one of the largest corporate investments in future technology. This substantial financial commitment underscores the company's dedication to realizing its metaverse vision.
+A4: Since late 2020, Meta's Reality Labs division has reported significant financial losses, marking one of the largest corporate investments in future technology. This substantial financial commitment underscores the company's dedication to realizing its metaverse vision.
 
 **Q5: What are Meta's plans for NFTs?**  
 A5: Meta's strategy regarding NFTs has evolved. Initially, the company introduced features to showcase NFTs on Instagram and Facebook, but later scaled back these initiatives. Currently, the focus lies on the sale of digital goods within Horizon Worlds, where Meta retains control over the economic model rather than supporting open NFT standards.

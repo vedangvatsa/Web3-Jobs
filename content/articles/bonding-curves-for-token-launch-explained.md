@@ -18,9 +18,9 @@ A bonding curve is a smart contract pre-programmed with a mathematical formula t
 
 Traditional token launches often face obstacles that can hinder success:
 
-- **Order Book Exchanges:** Getting a new token listed on a centralized exchange incurs high costs and usually requires a market maker to provide liquidity. For instance, listing fees can range from $50,000 to over $500,000, depending on the exchange's reputation and trading volume.
+- **Order Book Exchanges:** Getting a new token listed on a centralized exchange incurs high costs and usually requires a market maker to provide liquidity. Listing fees can vary significantly, depending on the exchange's reputation and trading volume.
   
-- **DEX Liquidity Pools:** Launching on a decentralized exchange (DEX) like Uniswap necessitates providing a significant amount of collateral—often several hundred thousand dollars worth of ETH or USDC—to create a sufficiently deep liquidity pool.
+- **DEX Liquidity Pools:** Launching on a decentralized exchange (DEX) like Uniswap necessitates providing a substantial amount of collateral to create a sufficiently deep liquidity pool.
 
 Bonding curve launches offer a capital-efficient and transparent alternative that addresses these issues.
 
@@ -103,7 +103,7 @@ Grasping bonding curves is essential for professionals in the cryptocurrency spa
 ### FAQ
 
 **Q: How long will it take to see results from implementing bonding curves?**  
-A: Initial results typically appear within 2–4 weeks of consistent application. Significant improvements often manifest within 8–12 weeks, depending on your baseline and commitment. Actively seeking feedback and tracking progress accelerates this timeline.
+A: Initial results typically appear within a few weeks of consistent application. Significant improvements often manifest within a couple of months, depending on your baseline and commitment. Actively seeking feedback and tracking progress accelerates this timeline.
 
 **Q: What should I do if my workplace environment doesn't support this approach?**  
 A: Start with small, self-contained actions that require no organizational approval. Focus on individual habits or personal projects. Build momentum gradually. Document your progress and results to highlight your contributions. If after sustained effort the environment remains unsupportive, it may be beneficial to seek opportunities elsewhere.

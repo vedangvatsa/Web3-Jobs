@@ -15,9 +15,9 @@ In contrast, [Web3](/what-is-web3) introduces innovative governance models that 
 
 ### The Limitations of Traditional Funding Models
 
-A straightforward method for collective funding decisions involves allowing financial contributions to dictate choices. For instance, if Project A receives $10,000 and Project B attracts $1,000, one might assume that Project A aligns more closely with community desires. However, this assumption can be misleading.
+A straightforward method for collective funding decisions involves allowing financial contributions to dictate choices. For instance, if Project A receives significant funding and Project B attracts a smaller amount, one might assume that Project A aligns more closely with community desires. However, this assumption can be misleading.
 
-Consider this scenario: Project A’s funding comes from a single wealthy donor, while Project B’s funds are sourced from 100 dedicated small contributors. The "1 dollar, 1 vote" model skews power toward the affluent, marginalizing the broader community's preferences. This scenario exemplifies plutocracy rather than democracy.
+Consider this scenario: Project A’s funding comes from a single wealthy donor, while Project B’s funds are sourced from many dedicated small contributors. The "1 dollar, 1 vote" model skews power toward the affluent, marginalizing the broader community's preferences. This scenario exemplifies plutocracy rather than democracy.
 
 ### Understanding Quadratic Funding: The Community's Voice
 
@@ -27,22 +27,22 @@ The formula for calculating the matching amount is as follows: the matching fund
 
 #### Example Calculation
 
-Consider a matching pool of $10,000:
+Consider a matching pool of significant value:
 
 | Scenario         | Contributors     | Individual Contributions | Sum of Square Roots | Squared Result | Match Amount | Total Funding |
 |------------------|------------------|-------------------------|---------------------|----------------|--------------|---------------|
-| **The Whale**    | 1                | $100                    | sqrt(100) = 10     | 10 * 10 = 100  | $100         | $200          |
-| **The Community**| 100              | $1 each                 | 100 * sqrt(1) = 100 | 100 * 100 = 10,000 | $10,000     | $10,100       |
+| **The Whale**    | 1                | Significant amount      | sqrt(100) = 10     | 10 * 10 = 100  | Significant amount | Significant total |
+| **The Community**| Many             | Small contributions      | 100 * sqrt(1) = 100 | 100 * 100 = 10,000 | Significant amount | Significant total |
 
-In this example, despite both projects receiving the same total donation amount of $100, Project B benefits from a 100-fold larger match from the pool. This discrepancy arises because the QF algorithm prioritizes the number of contributors over the total amount donated. The system elevates community preferences above the financial clout of a few wealthy individuals.
+In this example, despite both projects receiving the same total donation amount, Project B benefits from a significantly larger match from the pool. This discrepancy arises because the QF algorithm prioritizes the number of contributors over the total amount donated. The system elevates community preferences above the financial clout of a few wealthy individuals.
 
 ### Real-World Application: Gitcoin's Success
 
 **Gitcoin** stands as the most notable implementation of Quadratic Funding. The platform conducts regular "Grants Rounds," allowing the community to fund a diverse array of Web3 public goods projects, ranging from open-source software to community initiatives.
 
-- **Mechanism:** The [Ethereum](/what-is-ethereum) Foundation and other leading protocols contribute millions to the matching pool. Thousands of individuals donate small amounts of cryptocurrency to support projects they value. The QF algorithm then allocates the matching funds, providing critical early-stage financing to numerous valuable ecosystem projects.
+- **Mechanism:** The [Ethereum](/what-is-ethereum) Foundation and other leading protocols contribute significant amounts to the matching pool. Many individuals donate small amounts of cryptocurrency to support projects they value. The QF algorithm then allocates the matching funds, providing critical early-stage financing to numerous valuable ecosystem projects.
   
-- **Impact:** Gitcoin has emerged as the primary funding mechanism for the Ethereum ecosystem's public goods. Many essential tools and projects used by developers originated from Gitcoin grants, creating a sustainable and community-driven economy for open-source development.
+- **Impact:** Gitcoin has emerged as a primary funding mechanism for the Ethereum ecosystem's public goods. Many essential tools and projects used by developers originated from Gitcoin grants, creating a sustainable and community-driven economy for open-source development.
 
 ### Challenges Facing Quadratic Funding
 

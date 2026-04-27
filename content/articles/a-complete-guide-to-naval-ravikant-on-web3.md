@@ -25,7 +25,7 @@ Ravikant's interpretation of Web3 is grounded in a profound grasp of markets, le
 
 Ravikant argues that Bitcoin introduced a form of money that exists independently of state or corporate control.
 
-- **Digital Scarcity:** He points out that Satoshi Nakamoto's innovation resolved the issue of digital scarcity. Prior to Bitcoin, digital assets could be replicated indefinitely. Bitcoin's finite supply—capped at 21 million coins—establishes it as a provably scarce asset, akin to gold, and positions it as a store of value.
+- **Digital Scarcity:** He points out that Satoshi Nakamoto's innovation resolved the issue of digital scarcity. Prior to Bitcoin, digital assets could be replicated indefinitely. Bitcoin's finite supply establishes it as a provably scarce asset, akin to gold, and positions it as a store of value.
   
 - **Separation of Money and State:** According to Ravikant, just as the printing press decentralized the production of information, Bitcoin decentralizes the production of money. This separation offers an alternative to government-controlled fiat currencies, which can lose value through inflation.
 
@@ -47,7 +47,7 @@ Ravikant's philosophy about Web3 intertwines with his broader views on wealth, h
 
 He categorizes leverage into three types: labor (others working for you), capital (money), and products with low or zero marginal cost of replication (software, code). He asserts that Web3 introduces a new form of leverage through code and tokens that can scale globally without requiring permission.
 
-- **Code as Permissionless Capital:** A [smart contract](/what-are-smart-contracts) operates autonomously, managing billions of dollars in assets without the need for a company, physical office, or employees. This financial robot functions continuously, enabling users to automate complex transactions.
+- **Code as Permissionless Capital:** A [smart contract](/what-are-smart-contracts) operates autonomously, managing significant value in assets without the need for a company, physical office, or employees. This financial robot functions continuously, enabling users to automate complex transactions.
 
 - **Tokens as Permissionless Equity:** Token launches empower founders to offer ownership to a global audience, aligning incentives and enhancing network effects. Previously, only accredited investors and venture capitalists could participate in early-stage funding; now, tokens democratize this access.
 

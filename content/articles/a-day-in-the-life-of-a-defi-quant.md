@@ -32,7 +32,7 @@ Our fictional Quant, Alex, works remotely for a leading DeFi lending protocol.
 
 The day doesn't start with a coffee, it starts with data. Alex's first hour is a systematic review of the overnight market action and the protocol's vital signs.
 
-- **On-Chain Metrics Dashboard:** Alex opens their custom Dune Analytics dashboard. They're not looking at [token](/what-is-a-token) prices, but at the protocol's core health metrics: Total Value Locked (TVL), borrowing volume, liquidation events, and the health of the insurance fund. Was there a large, unexpected withdrawal from a specific pool? Did any large positions get liquidated overnight?
+- **On-Chain Metrics Dashboard:** Alex opens their custom Dune Analytics dashboard. They're not looking at [token](/what-is-a-token) prices, but at the protocol's core health metrics: significant value locked, borrowing volume, liquidation events, and the health of the insurance fund. Was there a large, unexpected withdrawal from a specific pool? Did any large positions get liquidated overnight?
 - **Oracle & Price Feed Monitoring:** The protocol's solvency depends on accurate price oracles. Alex checks the status of their Chainlink feeds. Is there any significant deviation between the oracle price and the spot price on major exchanges? A large deviation could signal a manipulation attempt.
 - **Risk Parameter Review:** Alex reviews the current collateral factors and interest rate models. Are the dynamic rates responding correctly to changes in supply and demand? Is any collateral pool becoming too concentrated?
 
@@ -43,7 +43,7 @@ The governance community has proposed listing a new, long-tail asset as collater
 - **Data Gathering:** Alex pulls historical price data for the new asset from various sources (CoinGecko, on-chain DEX data, centralized exchange APIs). They need to understand its volatility, liquidity, and historical correlation with major assets like [ETH](/what-is-ethereum) and [BTC](/what-is-bitcoin).
 - **Liquidity Analysis:** Using on-chain data, Alex analyzes the asset's liquidity profile. Where does it trade? How deep are the pools? A low-liquidity asset is more susceptible to price manipulation, which is a major risk for a lending protocol.
 - **Volatility & Correlation Modeling:** Alex fires up a Python script in a Jupyter notebook. Using libraries like Pandas and NumPy, they calculate the asset's historical volatility. They run a correlation analysis to see how it behaves when the broader market moves. An asset that is highly correlated with existing collateral offers fewer diversification benefits.
-- **Initial Parameter Recommendation:** Based on the analysis, Alex begins to form a recommendation. Given the high volatility and low liquidity, they might suggest a very conservative loan-to-value (LTV) ratio (e.g., 25%) and a high liquidation penalty to protect the protocol.
+- **Initial Parameter Recommendation:** Based on the analysis, Alex begins to form a recommendation. Given the high volatility and low liquidity, they might suggest a very conservative loan-to-value (LTV) ratio and a high liquidation penalty to protect the protocol.
 
 **11:00 AM - 12:00 PM: Cross-Functional Sync with Engineering**
 
@@ -98,10 +98,10 @@ For a Quant, the line between work and passion is often blurry. After dinner and
   - **Dune Analytics:** The primary tool for querying and visualizing on-chain data.
   - **Jupyter Notebooks:** The standard environment for data analysis and model prototyping.
   - **Etherscan:** For drilling down into specific transactions and contracts.
-  - **DeFiLlama:** For high-level competitive analysis and TVL data.
+  - **DeFiLlama:** For high-level competitive analysis and significant value locked data.
 
 ### Is This the Role for You?
 
-The life of a DeFi Quant is not for everyone. It requires a rare blend of deep technical skill, financial acumen, and a relentless curiosity. It's a high-pressure role where a single modeling error could lead to the loss of millions of dollars.
+The life of a DeFi Quant is not for everyone. It requires a rare blend of deep technical skill, financial acumen, and a relentless curiosity. It's a high-pressure role where a single modeling error could lead to significant financial loss.
 
 However, for those who fit the profile, it is one of the most rewarding careers imaginable. You get to work at the absolute advanced of finance and technology, solve incredibly difficult and interesting problems, and have a direct and measurable impact on the future of a decentralized world. If you are the kind of person who sees the world as a system of interconnected variables and loves to model it, a career as a DeFi Quant might be your calling.

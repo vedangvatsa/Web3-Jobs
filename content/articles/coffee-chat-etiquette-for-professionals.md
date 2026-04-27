@@ -148,6 +148,6 @@ Respect their response. You can reply with an understanding message such as, "I 
 
 **Why does this matter for my career?**
 
-Understanding the nuances of coffee chats can significantly impact your professional trajectory. Building a solid network can lead to opportunities for advancement, higher salaries, and valuable mentorship. This is particularly relevant in [Web3](/what-is-web3) environments, where collaboration and communication are essential to success. 
+Understanding the nuances of coffee chats can significantly impact your professional trajectory. Building a solid network can lead to opportunities for advancement, higher salaries, and valuable mentorship. This is particularly relevant in Web3 environments, where collaboration and communication are essential to success. 
 
 By honing your coffee chat skills, you position yourself for greater opportunities and connections that can influence your career in meaningful ways.

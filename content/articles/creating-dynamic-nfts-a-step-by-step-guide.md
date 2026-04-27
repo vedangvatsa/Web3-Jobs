@@ -37,7 +37,7 @@ The smart contract governing a dNFT calls an oracle to fetch external data. Once
 The applications of dynamic NFTs are diverse and innovative:
 
 - **Living Avatar**: An NFT avatar that updates its clothing based on real-time weather conditions in the owner’s location.
-- **Sports Player NFT**: An NFT depicting a basketball player whose appearance and stats evolve in real-time according to their performance during a game. For example, if a player scores 20 points, their power attribute increases.
+- **Sports Player NFT**: An NFT depicting a basketball player whose appearance and stats evolve in real-time according to their performance during a game. For example, if a player scores points, their power attribute increases.
 - **Real Estate NFT**: An NFT that represents a physical property, continuously updating its metadata with current value estimates and maintenance history.
 - **RPG Character**: An NFT representing a character in a role-playing game that levels up, acquires new items, and visually transforms as the player progresses.
 
@@ -69,7 +69,7 @@ Dynamic NFTs transform static digital assets into interactive objects that can r
 
 ### Importance of Understanding Dynamic NFTs
 
-Grasping the concept of dynamic NFTs is essential for professionals aiming to excel in the evolving digital asset landscape. Mastery in this area can lead to higher salaries and faster career advancement, particularly in Web3 organizations where innovative communication and collaboration are vital.
+Grasping the concept of dynamic NFTs is essential for professionals aiming to excel in the evolving digital asset landscape. Mastery in this area can lead to better career opportunities, particularly in Web3 organizations where innovative communication and collaboration are vital.
 
 ### Step-by-Step Strategy for Building Dynamic NFTs
 
@@ -97,11 +97,11 @@ Continuously track your progress. Are you achieving your development goals? Adju
 
 #### Case Study 1: Sarah the Developer
 
-Sarah, a developer at a blockchain startup, struggled with implementing dynamic attributes in her NFTs. After applying structured strategies, she achieved a 50% increase in user engagement within three months.
+Sarah, a developer at a blockchain startup, struggled with implementing dynamic attributes in her NFTs. After applying structured strategies, she achieved a significant increase in user engagement within a few months.
 
 #### Case Study 2: Juan in DeFi
 
-Juan, a product manager in [DeFi](/what-is-defi), faced difficulties in integrating real-time data into his projects. By following the outlined framework, he successfully launched a dynamic NFT that improved user interaction by 30%. His experience highlights the versatility of dynamic NFT principles.
+Juan, a product manager in [DeFi](/what-is-defi), faced difficulties in integrating real-time data into his projects. By following the outlined framework, he successfully launched a dynamic NFT that improved user interaction. His experience highlights the versatility of dynamic NFT principles.
 
 #### Case Study 3: Maya's Transition
 
@@ -118,7 +118,7 @@ Maya transitioned from Web2 to Web3 and utilized a step-by-step approach to adap
 ### FAQ
 
 **How long will it take to see results?**  
-Most developers notice initial results within 2 to 4 weeks of consistent practice, with substantial improvements observable within 8 to 12 weeks. The timeline varies based on your starting point, daily commitment, and willingness to seek feedback.
+Most developers notice initial results within a few weeks of consistent practice, with substantial improvements observable within a few months. The timeline varies based on your starting point, daily commitment, and willingness to seek feedback.
 
 **What if my workplace doesn't support dynamic NFTs?**  
 Even in challenging environments, you can often initiate change independently. Start with small projects that don’t require organization-wide approval. Document your successes, which may lead to broader support.

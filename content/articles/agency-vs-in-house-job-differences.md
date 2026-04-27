@@ -82,8 +82,8 @@ Career progression in-house can be less predictable.
 | Aspect                      | Agency                                   | In-House                                |
 |-----------------------------|------------------------------------------|-----------------------------------------|
 | Client Focus                | Multiple clients, varied projects        | Single brand, focused product           |
-| Work Environment             | Fast-paced, dynamic                      | More stable, predictable                |
-| Skill Development            | Broad experience, adaptable skills       | Deep expertise, business acumen         |
+| Work Environment            | Fast-paced, dynamic                      | More stable, predictable                |
+| Skill Development           | Broad experience, adaptable skills       | Deep expertise, business acumen         |
 | Collaboration               | Cross-client teams, creative brainstorming| Cross-departmental teamwork              |
 | Career Progression          | Structured hierarchy, clear paths        | Varied paths, potential lateral moves   |
 | Work Ownership              | Project-based, client-driven             | Full ownership of long-term strategies   |

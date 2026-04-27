@@ -73,9 +73,9 @@ Web3 technical writers can expect competitive salaries. According to recent indu
 
 | Experience Level | Salary Range  |
 |------------------|---------------|
-| Entry Level      | $90,000 - $120,000 |
-| Mid-Level        | $120,000 - $150,000 |
-| Senior Level     | $150,000 - $180,000 |
+| Entry Level      | Competitive range |
+| Mid-Level        | Competitive range |
+| Senior Level     | Competitive range |
 
 ### Conclusion
 

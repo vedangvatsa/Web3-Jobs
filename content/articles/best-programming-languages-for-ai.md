@@ -83,7 +83,7 @@ In terms of performance, C++ stands out as the top choice. While full AI models 
    C++ is a low-level language that supports direct memory management, resulting in exceptional speed. Major libraries like TensorFlow and PyTorch utilize C++ to handle the demanding numerical computations intrinsic to deep learning.
 
 2. **Applications in Gaming and Robotics**  
-   C++ is commonly used in performance-critical applications, including game engines like Unreal Engine and robotics, where real-time performance is vital.
+   C++ is commonly used in performance-critical applications, including game engines and robotics, where real-time performance is vital.
 
 3. **Hardware Interaction**  
    C++ serves as the foundation for low-level code that enables AI frameworks to interface directly with GPUs and other specialized hardware, optimizing speed and efficiency.

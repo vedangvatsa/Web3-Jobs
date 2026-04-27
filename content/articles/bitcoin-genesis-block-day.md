@@ -35,7 +35,7 @@ Incorporating relevant keywords such as "decentralization," "peer-to-peer cash,"
 
 Bitcoin’s influence extends far beyond its initial creation. The trust model established by Bitcoin has inspired the development of decentralized finance (DeFi) protocols and smart-contract platforms like Ethereum. These platforms rely on the principles of transparency and security that Bitcoin pioneered.
 
-Institutional adoption of Bitcoin has also surged. Many hedge funds and corporations reference the Genesis Block when discussing the legitimacy of digital assets. Notable examples include Tesla, which invested $1.5 billion in Bitcoin, and MicroStrategy, which has made significant Bitcoin purchases, citing the Genesis Block's foundational significance in their investment strategies.
+Institutional adoption of Bitcoin has also surged. Many hedge funds and corporations reference the Genesis Block when discussing the legitimacy of digital assets. Notable examples include Tesla, which invested significantly in Bitcoin, and MicroStrategy, which has made substantial Bitcoin purchases, citing the Genesis Block's foundational significance in their investment strategies.
 
 Moreover, policymakers have used the Genesis Block as a reference point in discussions about central bank digital currencies (CBDCs). By examining the implications of Bitcoin's creation, they gain insights into the potential advantages and challenges of implementing government-backed digital currencies.
 

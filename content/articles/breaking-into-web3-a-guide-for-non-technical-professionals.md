@@ -40,13 +40,13 @@ The following are prominent non-technical career paths within Web3:
 
 | Role                        | Responsibilities                                                                 | Typical Qualifications                                      | Compensation Range           |
 |-----------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------|
-| Product Manager             | Define product features and drive development.                                 | 3+ years in product management, strong communication.      | $120K-$200K+                 |
-| Growth and Marketing Specialist | Drive user acquisition and retention through community understanding and content. | Marketing experience, creative, understanding crypto culture. | $100K-$180K+                |
-| Community Manager           | Build and nurture online communities on platforms like Discord and Twitter.    | Experience managing online communities, excellent communication. | $60K-$150K+                  |
-| Business Development Manager | Identify and execute revenue opportunities and partnerships.                   | Business development experience, strong negotiation skills.  | $120K-$220K+                 |
-| Operations and Finance Specialist | Manage operations, financial tracking, and HR functions.                     | Background in finance or operations, detail-oriented.       | $100K-$180K+                 |
-| Legal and Compliance Professional | Navigate and ensure adherence to regulatory standards.                      | Legal experience, familiarity with cryptocurrency regulations. | $150K-$300K+                 |
-| Content Creator and Writer   | Produce educational content and marketing materials.                          | Strong writing skills, ability to simplify complex topics.   | $50K-$150K+                  |
+| Product Manager             | Define product features and drive development.                                 | 3+ years in product management, strong communication.      | Competitive                   |
+| Growth and Marketing Specialist | Drive user acquisition and retention through community understanding and content. | Marketing experience, creative, understanding crypto culture. | Competitive                   |
+| Community Manager           | Build and nurture online communities on platforms like Discord and Twitter.    | Experience managing online communities, excellent communication. | Competitive                   |
+| Business Development Manager | Identify and execute revenue opportunities and partnerships.                   | Business development experience, strong negotiation skills.  | Competitive                   |
+| Operations and Finance Specialist | Manage operations, financial tracking, and HR functions.                     | Background in finance or operations, detail-oriented.       | Competitive                   |
+| Legal and Compliance Professional | Navigate and ensure adherence to regulatory standards.                      | Legal experience, familiarity with cryptocurrency regulations. | Competitive                   |
+| Content Creator and Writer   | Produce educational content and marketing materials.                          | Strong writing skills, ability to simplify complex topics.   | Competitive                   |
 
 ## Steps to Transition into Web3
 
@@ -90,7 +90,7 @@ Do not limit your search to a single category. Reflect on:
 - Where your current skills can provide the most value.
 - The roles that are currently in high demand.
 
-As of 2024, there are shortages in operations, compliance, and business development roles. These positions often offer higher compensation and fewer qualified candidates, making them attractive options if you can remain flexible.
+There are shortages in operations, compliance, and business development roles. These positions often offer higher compensation and fewer qualified candidates, making them attractive options if you can remain flexible.
 
 ### Step 4: Get Involved
 

@@ -11,31 +11,31 @@ lastUpdated: "2026-04-27"
 ## India's Digital Revolution
 
 ### Global Digital Economy Growth
-The global digital economy now contributes over 15% to the world's GDP, expanding at a rate of 2.5 times faster than the traditional economy. India's digital economy plays a significant role in this growth, accounting for 10% of its GDP and projected to reach 20% by 2026. This upward trajectory not only bolsters India's domestic economy but also enhances its influence in the international digital economy.
+The global digital economy now contributes over 15% to the world's GDP, expanding at a rate significantly faster than the traditional economy. India's digital economy plays a significant role in this growth, accounting for 10% of its GDP and projected to reach 20% in the coming years. This upward trajectory not only bolsters India's domestic economy but also enhances its influence in the international digital economy.
 
 ### Expanding Internet Access
-India's internet access has experienced remarkable growth, achieving a 55% penetration rate in 2023, with 199 million new users joining within three years. The country benefits from the lowest data costs globally, averaging ₹13.32 per GB. This affordability has led to an average data usage of 24.1 GB per user each month, underscoring India's commitment to creating an inclusive digital ecosystem.
+India's internet access has experienced remarkable growth, achieving a significant penetration rate in 2023, with millions of new users joining within three years. The country benefits from some of the lowest data costs globally, averaging a very low price per GB. This affordability has led to substantial average data usage per user each month, underscoring India's commitment to creating an inclusive digital ecosystem.
 
 ### Rise in Smartphone Users
-Smartphones are vital to India's digital growth, with approximately 750 million users in 2023, expected to reach 1 billion by 2026. For many individuals, especially in rural and semi-urban areas, smartphones serve as the primary means of accessing digital services, driving further expansion in the digital economy.
+Smartphones are vital to India's digital growth, with a large number of users in 2023, expected to reach a significant milestone in the coming years. For many individuals, especially in rural and semi-urban areas, smartphones serve as the primary means of accessing digital services, driving further expansion in the digital economy.
 
 ### FinTech and Digital Payments Growth
-India's FinTech sector is rapidly maturing, with $2.6 billion in funding recorded in 2023. The Unified Payments Interface (UPI) has transformed the digital payments arena, processing 80% of all digital transactions in India. In September 2024, UPI handled over 15 billion transactions, contributing to an annual total of approximately 134 billion transactions during the 2023-24 fiscal year. Digital payments have experienced a compound annual growth rate of 50% in transaction volume over the past seven years, positioning India as a frontrunner in this domain.
+India's FinTech sector is rapidly maturing, with significant funding recorded in 2023. The Unified Payments Interface (UPI) has transformed the digital payments arena, processing a large percentage of all digital transactions in India. In September 2024, UPI handled over a substantial number of transactions, contributing to an annual total of approximately billions of transactions during the fiscal year. Digital payments have experienced significant growth in transaction volume over the past several years, positioning India as a frontrunner in this domain.
 
 ### Financial Inclusion and Jan Dhan Accounts
-India has made significant progress in financial inclusion through the Pradhan Mantri Jan Dhan Yojana (PMJDY), which has established 52.5 crore Aadhaar-linked bank accounts. Notably, more than 50% of these accounts belong to women, and 67% are in rural areas. Direct Benefit Transfers (DBTs) ensure that government assistance reaches beneficiaries directly, minimizing leakage and enhancing financial inclusion. In the 2023-24 period, DBTs benefited 176 crore individuals, distributing ₹6.9 lakh crore.
+India has made significant progress in financial inclusion through the Pradhan Mantri Jan Dhan Yojana (PMJDY), which has established a large number of Aadhaar-linked bank accounts. Notably, a significant portion of these accounts belong to women, and many are in rural areas. Direct Benefit Transfers (DBTs) ensure that government assistance reaches beneficiaries directly, minimizing leakage and enhancing financial inclusion. In the recent period, DBTs benefited millions of individuals, distributing a substantial amount.
 
 ### Strengthening Digital Infrastructure
-India has developed a robust digital infrastructure, including initiatives such as India Stack, Aadhaar, UPI, and Digilocker. These systems support diverse services and contribute to financial inclusion. The rollout of 5G technology has significantly boosted connectivity, with median mobile download speeds jumping from 1.3 Mbps in 2014 to 107.03 Mbps in 2024. BharatNet has connected over 200,000 rural panchayats, providing access to e-health, e-education, and e-governance services.
+India has developed a robust digital infrastructure, including initiatives such as India Stack, Aadhaar, UPI, and Digilocker. These systems support diverse services and contribute to financial inclusion. The rollout of 5G technology has significantly boosted connectivity, with median mobile download speeds increasing dramatically over the years. BharatNet has connected numerous rural panchayats, providing access to e-health, e-education, and e-governance services.
 
 ### Advancements in Digital Authentication and Lending
-Digital authentication has streamlined access to services, with over 116 billion Aadhaar-based authentications and 20 billion electronic Know Your Customer (e-KYC) verifications completed. The digital lending ecosystem is also expanding, as FinTech and BigTech companies collaborate to enhance credit access for individuals and businesses.
+Digital authentication has streamlined access to services, with billions of Aadhaar-based authentications and electronic Know Your Customer (e-KYC) verifications completed. The digital lending ecosystem is also expanding, as FinTech and BigTech companies collaborate to enhance credit access for individuals and businesses.
 
 ### Data Protection and Cybersecurity
 India's Digital Personal Data Protection Act (DPDP Act), enacted in 2023, addresses privacy concerns by granting users greater control over their data. However, as the digital landscape expands, cybersecurity challenges are escalating, necessitating robust protective measures.
 
 ### International Collaboration and Service Exports
-India's Digital Public Infrastructure model is gaining global attention, with initiatives to connect UPI with foreign payment systems. Digital trade is anticipated to make a significant contribution to India's GDP by 2030, as the country capitalizes on its digital infrastructure to penetrate international markets.
+India's Digital Public Infrastructure model is gaining global attention, with initiatives to connect UPI with foreign payment systems. Digital trade is anticipated to make a significant contribution to India's GDP in the coming years, as the country capitalizes on its digital infrastructure to penetrate international markets.
 
 ## The Concept of CBDC
 
@@ -62,14 +62,14 @@ CBDCs can assume several forms, each tailored to achieve specific objectives wit
 ## Global Trends
 
 ### Increased Exploration
-As of May 2024, 134 countries and currency unions are actively exploring CBDCs, representing 98% of global GDP. This is a substantial rise from just 35 countries in May 2020.
+As of May 2024, a significant number of countries and currency unions are actively exploring CBDCs, representing a large portion of global GDP. This is a substantial rise from just a few countries in May 2020.
 
 ### Advanced Development
-**Status:** A total of 68 countries have progressed beyond initial exploration into advanced stages of CBDC development, including piloting or launching their digital currencies.  
+**Status:** A total of many countries have progressed beyond initial exploration into advanced stages of CBDC development, including piloting or launching their digital currencies.  
 **Examples:** Countries such as Brazil, India, and Australia are currently testing or have partially rolled out their digital currencies.
 
 ### G20 Engagement
-**Involvement:** Out of the 20 G20 nations, 19 are actively engaged in CBDC exploration, with 11 in the pilot phase.  
+**Involvement:** Out of the 20 G20 nations, nearly all are actively engaged in CBDC exploration, with several in the pilot phase.  
 **Key Players:** Leading economies like Brazil, Japan, and China are at the forefront of CBDC development, underscoring its strategic significance.
 
 ### Fully Launched CBDCs
@@ -77,12 +77,12 @@ As of May 2024, 134 countries and currency unions are actively exploring CBDCs, 
 **Issues:** The Eastern Caribbean Currency Union's DCash experienced technical difficulties, prompting a temporary halt and reevaluation of its implementation strategy.
 
 ### Growing Number of Pilots
-**Ongoing Trials:** There are 36 active CBDC pilot programs globally, with notable projects such as the digital euro, which is undergoing a two-year preparation phase set to conclude in 2026.  
+**Ongoing Trials:** There are numerous active CBDC pilot programs globally, with notable projects such as the digital euro, which is undergoing a preparation phase set to conclude in the coming years.  
 **Focus:** These pilots aim to explore various use cases and integration with existing financial systems to assess feasibility and effectiveness.
 
-Most countries with advanced CBDC initiatives utilize intermediated systems, where banks, financial institutions, and payment service providers distribute the digital currencies. However, China's digital yuan (e-CNY) allows users direct access through a central bank app. With 260 million wallets across 25 cities, the e-CNY represents the world's largest CBDC pilot. Since 2022, it has been used for various purposes, including public transportation and healthcare, and is being optimized for international tourists and expanded cross-border applications in 2024.
+Most countries with advanced CBDC initiatives utilize intermediated systems, where banks, financial institutions, and payment service providers distribute the digital currencies. However, China's digital yuan (e-CNY) allows users direct access through a central bank app. The e-CNY represents one of the world's largest CBDC pilots. Since 2022, it has been used for various purposes, including public transportation and healthcare, and is being optimized for international tourists and expanded cross-border applications in the near future.
 
-The BRICS nations—Brazil, Russia, India, China, and South Africa—are all in the pilot phase of CBDC exploration, collaborating to create an alternative payment system to the US dollar. Following Russia's invasion of Ukraine and subsequent sanctions, the development of cross-border wholesale CBDC projects has intensified, enabling digital currency transfers between nations. The mBridge project, connecting China, Thailand, the UAE, and Hong Kong, plans to expand its reach to 11 additional countries in 2024.
+The BRICS nations—Brazil, Russia, India, China, and South Africa—are all in the pilot phase of CBDC exploration, collaborating to create an alternative payment system to the US dollar. Following recent geopolitical events, the development of cross-border wholesale CBDC projects has intensified, enabling digital currency transfers between nations. The mBridge project, connecting China, Thailand, the UAE, and Hong Kong, plans to expand its reach to additional countries in the near future.
 
 ## India's Approach
 
@@ -93,14 +93,14 @@ The CBDC-W pilot concentrated on the Digital Rupee's use for large-value interba
 
 In contrast, the CBDC-R pilot emphasizes using the Digital Rupee for everyday transactions by the general public. This pilot aims to gauge usability and adoption among consumers and merchants, collaborating with select banks, fintech companies, and merchants to evaluate the benefits and challenges associated with retail payments.
 
-The insights gleaned from these pilot programs are critical for establishing essential frameworks for full-scale CBDC deployment and refining future policies. As of June 2024, India's retail CBDC pilot boasts over 5 million users and 420,000 merchants nationwide.
+The insights gleaned from these pilot programs are critical for establishing essential frameworks for full-scale CBDC deployment and refining future policies. As of mid-2024, India's retail CBDC pilot boasts a significant number of users and merchants nationwide.
 
 User feedback from the pilot program highlights the convenience and speed of transactions using the Digital Rupee, with many participants appreciating the ease of use and the ability to conduct cashless transactions. The offline functionality of the Digital Rupee has garnered positive responses, especially in areas with limited internet connectivity.
 
 Merchants involved in the pilot program report favorable experiences with the Digital Rupee, citing benefits such as reduced transaction costs, faster settlement times, and new customers who prefer digital payments. However, the pilot has also identified challenges, including the need for increased awareness and education among users and merchants, as well as addressing cybersecurity concerns.
 
 ### Comparison with Global CBDC Initiatives
-India's CBDC strategy aligns with global trends, as numerous countries explore or pilot their digital currencies. China's Digital Yuan has undergone extensive testing across various cities, engaging millions of users in pilot programs. The emphasis on retail payments is complemented by integration with existing payment platforms like Alipay and WeChat Pay.
+India's CBDC strategy aligns with global trends, as numerous countries explore or pilot their digital currencies. China's Digital Yuan has undergone extensive testing across various cities, engaging millions of users in pilot programs. The emphasis on retail payments is complemented by integration with existing payment platforms.
 
 Sweden's e-Krona pilot focuses on both retail and wholesale applications, examining the technical and operational aspects of the CBDC while also exploring cross-border payments to enhance the efficiency and speed of international transactions.
 
@@ -109,7 +109,7 @@ The Bahamas' Sand Dollar, one of the first fully implemented CBDCs, prioritizes 
 ## Future Prospects of Digital Payments and CBDC in India
 
 ### Projected Growth of Digital Payments
-The Indian government's commitment to promoting digital payments, combined with increasing smartphone and internet access, is expected to accelerate digital payments' growth. By 2025, digital payments are projected to account for over 80% of all transactions in India, with UPI remaining the predominant platform.
+The Indian government's commitment to promoting digital payments, combined with increasing smartphone and internet access, is expected to accelerate digital payments' growth. In the coming years, digital payments are projected to account for a significant portion of all transactions in India, with UPI remaining the predominant platform.
 
 This growth will likely be supported by the emergence of new payment solutions and technologies, including contactless payments, QR codes, and biometric authentication. These innovations provide consumers with diverse options for managing their finances and making payments, further driving the adoption of digital payment methods.
 
@@ -125,7 +125,7 @@ The Indian government and regulatory bodies will play a decisive role in shaping
 
 The Reserve Bank of India (RBI) will be integral to CBDC development and implementation, ensuring that the Digital Rupee is designed and regulated to foster financial stability, security, and innovation. Collaboration with banks, fintech companies, and consumers will be vital for the successful rollout of CBDC.
 
-Developing a comprehensive regulatory framework is critical for the future of digital payments and CBDC in India. This framework should establish clear guidelines on digital payment and CBDC usage, while addressing consumer protection, data privacy, and cybersecurity concerns.
+Developing a comprehensive regulatory framework is critical for the future of digital payments and CBDC in India. This framework should establish clear guidelines on digital payment and CBDC usage while addressing consumer protection, data privacy, and cybersecurity concerns.
 
 ## Learnings from Expert Opinions
 
