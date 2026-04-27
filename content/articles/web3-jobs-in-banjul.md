@@ -16,7 +16,7 @@ The budding Web3 community in Banjul combines government initiatives with a gras
 
 ### The Banjul Web3 Scene
 
-The Web3 environment in Banjul is influenced significantly by the government's digital aspirations and the economic landscape.
+The Web3 environment in Banjul is influenced significantly by the government's digital aspirations and the economic sector.
 
 - **Government Initiative:** The Gambian government is actively exploring blockchain technology. Discussions around a potential CBDC and collaborations with cryptocurrency projects aim to modernize financial systems. This governmental backing provides essential support for industry growth.
 - **Remittance Hub:** With a sizable diaspora, remittances constitute a significant part of The Gambia's GDP. This dynamic creates a compelling real-world application for blockchain-based payment solutions that can offer faster, cheaper, and more transparent transactions than traditional methods.
@@ -37,7 +37,7 @@ While the formal Web3 job market in Banjul is limited, several opportunities exi
 
 1. **Align with National Interests:** Tailor your learning and [portfolio](/building-web3-portfolio) projects to focus on national priorities. Create a proof-of-concept for a more efficient remittance system or a decentralized application (dApp) for public services. This approach increases your relevance for future government projects.
 2. **Educate Others:** In an emerging ecosystem, sharing knowledge is vital. Organize workshops, translate key Web3 materials into local languages, and help onboard new users. Establishing yourself as a community leader will enhance your profile.
-3. **Develop Valuable Remote Skills:** Access to top jobs will come from the global remote market. Create a robust GitHub portfolio and a professional online presence that highlights your expertise to attract international recruiters.
+3. **Develop Valuable Remote Skills:** Access to top jobs will come from the global remote market. Create a GitHub portfolio and a professional online presence that highlights your expertise to attract international recruiters.
 4. **Connect with Regional and Global Communities:** Engage with the larger African Web3 ecosystem online and attend regional events whenever possible. Building a network outside The Gambia is essential for discovering opportunities and keeping up with technological advancements.
 
 ### Your Next Step: Find a Web3 Job
@@ -85,7 +85,7 @@ While enhancing your local reputation, concurrently focus on:
 
 - **Mastering High-Demand Skills:** Invest time in learning Solidity, backend development, or another valuable skill.
 - **Creating a Portfolio:** Develop 3-4 open-source projects that showcase your expertise.
-- **Securing Remote Roles:** Leverage your growing reputation and strong portfolio to attract remote job offers.
+- **Securing Remote Roles:** Use your growing reputation and strong portfolio to attract remote job offers.
 - **Establishing Financial Independence:** Your international salary can provide the financial freedom to invest in local projects without the pressure of immediate returns.
 
 ### Create Your Desired Opportunity (Year 2+)
@@ -106,7 +106,7 @@ The Gambian Central Bank is investigating the possibility of Central Bank Digita
 A CBDC would:
 
 - Enhance financial inclusion by enabling every Gambian to have a digital [wallet](/how-to-choose-a-crypto-wallet).
-- Foster government transparency, thereby reducing corruption in fund management.
+- Support government transparency, thereby reducing corruption in fund management.
 - Modernize payment systems.
 - Elevate The Gambia's status as a fintech leader on the international stage.
 
@@ -161,7 +161,7 @@ Blockchain-based identity systems can:
 ### For Business or Policy Professionals
 
 1. **Learn Blockchain Fundamentals:** Take non-technical courses on blockchain (available on platforms like Coursera and edX).
-2. **Research the Local Context:** Produce a detailed report on Web3 opportunities aligned with The Gambia's economy and government initiatives.
+2. **Research the Local Context:** Produce a report on Web3 opportunities aligned with The Gambia's economy and government initiatives.
 3. **Network with Government Officials:** Attend conferences and official events to position yourself as a blockchain expert.
 4. **Engage Globally:** Join fintech policy groups and connect with central banks exploring CBDCs.
 5. **Propose Initiatives:** Develop actionable proposals for government blockchain pilot projects.

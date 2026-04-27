@@ -22,7 +22,7 @@ The process unfolds as follows:
 3. This combined data is then processed through a **[cryptographic hash function](/understanding-transaction-hashing-in-blockchain)**, such as SHA-256 for Bitcoin.
 4. The miner's objective is to find a hash that is below a specific target value set by the network's current **mining difficulty**. This usually requires the hash to start with a designated number of leading zeros.
 
-Since the output from a hash function is inherently unpredictable, there is no efficient way to find the correct hash. The only solution is to guess. This is where the nonce becomes vital. Miners can test significant numbers of different nonces each second, hashing the block data with each new nonce until they stumble upon one that creates a valid hash.
+Since the output from a hash function is inherently unpredictable, there is no efficient way to find the correct hash. The only solution is to guess. This is where the nonce becomes vital. Miners can test significant numbers of different nonces each second, hashing the block data with each new nonce until they find one that creates a valid hash.
 
 > **Mental Model:** Consider it akin to searching for a key that fits a specific lock. The nonce acts as the key, while the valid hash represents the open lock. Miners are attempting trillions of keys per second until they find one that works.
 

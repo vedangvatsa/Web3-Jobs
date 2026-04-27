@@ -12,11 +12,11 @@ lastUpdated: "2026-04-27"
 
 Deciding to quit your job stands as one of the most significant career decisions you will face. This choice often brings a mix of fear, excitement, and uncertainty. Sometimes, the decision is straightforward, especially when you have a better offer in hand. More frequently, it stems from a gradual sense of dissatisfaction that is difficult to articulate. Recognizing whether you are merely experiencing a rough patch or if it is genuinely time to move on can be challenging.
 
-While each situation is unique, certain signs indicate that your current role may no longer fit your career aspirations. Identifying these signs can empower you to make informed decisions about your career path instead of waiting until burnout sets in.
+While each situation is unique, certain signs indicate that your current role may no longer fit your career aspirations. Identifying these signs can help you make informed decisions about your career path instead of waiting until burnout sets in.
 
 ### 1. You've Stopped Learning and Growing
 
-Experiencing stagnation serves as one of the most significant indicators that it’s time to consider leaving your job. An engaging role should challenge you, provide opportunities for skill acquisition, and foster professional growth. If you feel you have plateaued without avenues for advancement, it suggests you may have outgrown your current position.
+Experiencing stagnation serves as one of the most significant indicators that it’s time to consider leaving your job. An engaging role should challenge you, provide opportunities for skill acquisition, and support professional growth. If you feel you have plateaued without avenues for advancement, it suggests you may have outgrown your current position.
 
 Reflect on the following questions:
 
@@ -62,7 +62,7 @@ Research industry salary benchmarks for your position. Websites like Glassdoor, 
 
 ### Making the Decision
 
-If you identify several of the signs mentioned, it strongly indicates that it might be time to begin your job search. However, this does not imply that you should quit impulsively. The best strategy involves starting your search while still employed. Doing so provides you with leverage and financial security, facilitating a transition to a role that better suits your needs.
+If you identify several of the signs mentioned, it strongly indicates that it might be time to begin your job search. However, this does not imply that you should quit impulsively. The best strategy involves starting your search while still employed. Doing so provides you with options and financial security, facilitating a transition to a role that better suits your needs.
 
 Leaving a job is a significant step. Staying in a position that contributes to your unhappiness, stagnation, or burnout poses a greater risk to your long-term career and well-being. Recognizing these signs is the first step toward finding a more fulfilling opportunity.
 

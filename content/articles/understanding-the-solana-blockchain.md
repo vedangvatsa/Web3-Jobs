@@ -48,7 +48,7 @@ Solana's **subnet architecture** allows for the creation of application-specific
 
 - **Use Case:** This feature is particularly beneficial for large-scale projects, such as [Web3](/what-is-web3) games or enterprise applications, that require dedicated throughput without competing for blockspace on the main C-Chain.
 
-Solana’s vision for scalability and customization positions it as a strong contender in the blockchain space. Its multi-chain architecture and innovative consensus mechanism cater to the demands of [DeFi](/what-is-defi), while the subnet model enables projects to launch their own sovereign blockchains.
+Solana’s vision for scalability and customization positions it as a strong contender in the blockchain sector. Its multi-chain architecture and innovative consensus mechanism cater to the demands of [DeFi](/what-is-defi), while the subnet model enables projects to launch their own sovereign blockchains.
 
 ### The Web3 Opportunity
 
@@ -153,7 +153,7 @@ Every career shift carries risks, and Web3 is no exception, particularly given m
 Most professionals can transition to Web3 within 2-6 months with focused effort. Engineers and product managers often adapt more quickly due to the direct transfer of core skills. Non-technical roles, such as marketing and community management, can transition in as little as 4-8 weeks with dedicated self-study. Active engagement, such as building a portfolio project or contributing to open-source initiatives, can accelerate this timeline.
 
 **What if the crypto market crashes?**  
-Historically, bear markets present the best opportunities to enter Web3. As speculative hype diminishes, teams focus on building robust products, prioritizing talent over token prices. Infrastructure companies, security firms, and developer tooling providers continue hiring regardless of market conditions. Those who built during previous downturns are among the most sought-after professionals today, as a market decline often reduces competition for roles and improves equity terms for new hires.
+Historically, bear markets present the best opportunities to enter Web3. As speculative hype diminishes, teams focus on building reliable products, prioritizing talent over token prices. Infrastructure companies, security firms, and developer tooling providers continue hiring regardless of market conditions. Those who built during previous downturns are among the most sought-after professionals today, as a market decline often reduces competition for roles and improves equity terms for new hires.
 
 ### Key Takeaways
 

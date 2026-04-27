@@ -42,7 +42,7 @@ A bear market presents a unique opportunity. The distractions of the bull market
 
 **2. Expand Your [Portfolio](/building-web3-portfolio):**
 - **Launch Personal Projects:** Use your newfound time to develop that side project you have considered. Whether it is building a new dApp, contributing to an open-source protocol, or creating a detailed Dune Analytics dashboard, these endeavors enhance your skills and provide concrete evidence of your work.
-- **GitHub as an Asset:** A robust portfolio of public contributions on GitHub makes you an attractive candidate for top jobs that still exist in well-funded projects.
+- **GitHub as an Asset:** A portfolio of public contributions on GitHub makes you an attractive candidate for top jobs that still exist in well-funded projects.
 
 **3. Network with Committed Professionals:**
 - The individuals who remain engaged during bear markets are often long-term builders. These connections are invaluable.
@@ -118,7 +118,7 @@ Target positions that align with your existing expertise and new Web3 knowledge:
 Alex, a backend engineer with five years at a major tech company, dedicated three months to learning Solidity while working full-time. His contributions to an open-source protocol attracted the attention of a major DeFi project. He transitioned to this role with a salary increase and substantial equity.
 
 #### Product Manager in Web3
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi to secure a role at a leading DeFi protocol within four weeks. Her understanding of financial products combined with Web3 technology rendered her an asset.
+Jessica, a product manager from traditional finance, used her expertise in DeFi to secure a role at a leading DeFi protocol within four weeks. Her understanding of financial products combined with Web3 technology rendered her an asset.
 
 #### Career Changer Success
 Marcus left his corporate job to focus entirely on Web3 for six months. Through consistent learning, networking, and portfolio development, he secured a role leading Developer Relations at a major blockchain platform, with compensation exceeding his previous earnings.

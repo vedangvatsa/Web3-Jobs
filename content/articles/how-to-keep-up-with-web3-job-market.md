@@ -31,7 +31,7 @@ While Twitter excels in delivering fast updates, newsletters and blogs provide i
 
 - **Must-Read Newsletters:**
   - **Bankless:** An essential guide to the DeFi ecosystem, featuring a weekly roundup that covers critical developments.
-  - **The Defiant:** Offers comprehensive coverage of DeFi, including trends and governance issues.
+  - **The Defiant:** Offers detailed coverage of DeFi, including trends and governance issues.
   - **Week in [Ethereum](/what-is-ethereum) News:** A respected, developer-focused summary of events in the Ethereum ecosystem.
 - **Identify Niche Experts:** Every area within Web3 has leading experts who publish newsletters. Find those authorities in your field of interest and subscribe to their updates.
 

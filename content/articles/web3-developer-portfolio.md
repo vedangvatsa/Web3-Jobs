@@ -16,7 +16,7 @@ A thoughtfully constructed portfolio of personal projects serves as the primary 
 ### Foundational Principles for Your Portfolio
 
 - **Quality Over Quantity:** Three high-quality, well-documented projects will significantly outweigh ten incomplete ones.
-- **Detailed READMEs are Essential:** Each project repository must include a comprehensive `README.md` file. Clearly describe the project, the technical challenges encountered, how to run the project locally, and include screenshots or links to live demos. An impressive README demonstrates strong communication skills.
+- **Detailed READMEs are Essential:** Each project repository must include a `README.md` file. Clearly describe the project, the technical challenges encountered, how to run the project locally, and include screenshots or links to live demos. An impressive README demonstrates strong communication skills.
 - **Implement Tests:** A thorough test suite signals professionalism. Tests indicate that you care about code quality and security. Utilize Hardhat or [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) to create extensive tests for every smart contract.
 - **Showcase Your Progress:** Your GitHub activity graph should remain active. Consistent commits reflect dedication and a passion for development.
 
@@ -66,13 +66,13 @@ Follow this structured progression to enhance your skills while building your po
 #### Project 5: Open-Source Contribution
 
 - **Description:** A significant contribution to an established, reputable open-source Web3 project.
-- **Significance:** This action serves as one of the strongest indicators of your capabilities to potential employers. It shows that you can comprehend and navigate a large, professional codebase, collaborate with fellow developers, and follow formal contribution processes, such as submitting a pull request.
+- **Significance:** This action serves as one of the strongest indicators of your capabilities to potential employers. It shows that you can comprehend and manage a large, professional codebase, collaborate with fellow developers, and follow formal contribution processes, such as submitting a pull request.
 - **How to Start:**
   - Identify a project you respect on GitHub.
   - Search for issues labeled "good first issue" or "help wanted."
   - Begin with smaller contributions, such as fixing typos in documentation or adding missing test cases.
 
-Your portfolio acts as a dynamic document reflecting your journey as a Web3 developer. By completing these projects, you not only enhance your coding skills but also create compelling evidence that can facilitate your entry into this burgeoning industry. Start building today.
+Your portfolio acts as a dynamic document reflecting your journey as a Web3 developer. By completing these projects, you not only enhance your coding skills but also create compelling evidence that can facilitate your entry into this growing industry. Start building today.
 
 ## The Web3 Opportunity
 

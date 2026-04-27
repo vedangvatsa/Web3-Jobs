@@ -20,7 +20,7 @@ Understanding the primary responsibilities of a technical writer is crucial befo
 
 **Key Responsibilities:**
 - Interviewing subject matter experts to collect pertinent information.
-- Conducting thorough research and using the product to gain a comprehensive understanding.
+- Conducting thorough research and using the product to gain a complete understanding.
 - Identifying the target audience and their specific needs.
 - Organizing and structuring complex information logically.
 - Producing clear, accurate, and concise documentation.
@@ -105,7 +105,7 @@ Track your progress. Are you achieving the desired results? Modify your strategy
 |-------|-------------------------------|--------------------------------------|---------------------------------------------|
 | Sarah | Developer at a blockchain startup | Struggled with documentation clarity | Improved documentation clarity within a few months through structured writing practices. |
 | Juan  | Product manager in [DeFi](/what-is-defi) | Faced challenges in internal communication | Enhanced team collaboration and documentation practices, leading to increased efficiency. |
-| Maya  | Transitioning from Web2 to Web3 | Needed to adapt to new technology   | Successfully navigated the transition by applying best practices in technical writing.   |
+| Maya  | Transitioning from Web2 to Web3 | Needed to adapt to new technology   | Successfully managed the transition by applying best practices in technical writing.   |
 
 ### Common Mistakes to Avoid
 
@@ -132,4 +132,4 @@ A: Yes, this is advisable for most professionals. You can make meaningful change
 **Q: What resources can help me deepen my knowledge?**  
 A: Explore articles that provide targeted insights on specific aspects of technical writing. Additionally, seeking a mentor or peer group can significantly enhance your understanding. Observing experienced professionals in your field can provide practical knowledge that written resources may not convey. Engaging with Web3 communities on platforms like Discord and Telegram can also facilitate learning and growth.
 
-In summary, pursuing a career in technical writing requires a combination of strong writing skills, technical knowledge, and effective networking. By following this structured guide and avoiding common pitfalls, you can position yourself as a proficient technical writer in a rapidly expanding field. Embrace the challenge and keep refining your skills to achieve success.
+In summary, pursuing a career in technical writing requires a combination of strong writing skills, technical knowledge, and effective networking. By following this structured guide and avoiding common pitfalls, you can position yourself as a proficient technical writer in a rapidly expanding field. Accept the challenge and keep refining your skills to achieve success.

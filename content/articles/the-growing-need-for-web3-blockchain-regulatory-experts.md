@@ -26,7 +26,7 @@ The demand for Web3 regulatory experts has surged due to several key factors:
 
 ### Core Competencies for Regulatory Experts
 
-To effectively navigate the complexities of Web3, regulatory experts must master various areas:
+To effectively manage the complexities of Web3, regulatory experts must master various areas:
 
 - **Securities Law:** A primary concern is determining whether a project's [token](/what-is-a-token) qualifies as an unregistered security. Experts must be well-versed in frameworks such as the [Howey Test](/how-to-become-a-web3-legal-consultant), which evaluates whether an investment contract exists.
 
@@ -158,7 +158,7 @@ Every career shift carries inherent risk, and Web3 is no different due to market
 Most professionals can transition to Web3 in a few months with focused effort. Engineers and product managers often adapt quickly, as their core skills are directly applicable. Non-technical roles, such as those in marketing and community management, can transition within weeks through dedicated self-study. Active engagement, such as building a portfolio or contributing to open-source projects, can expedite this process.
 
 **What happens if the crypto market experiences a downturn?**
-Historically, bear markets present excellent opportunities to enter Web3. As speculative hype diminishes, teams prioritize building robust products, leading to a focus on hiring talent rather than fluctuating token prices. During past bear markets, professionals who built their skills are now among the most sought-after in the industry. A downturn can reduce competition for roles and often results in better equity terms for new hires.
+Historically, bear markets present excellent opportunities to enter Web3. As speculative hype diminishes, teams prioritize building strong products, leading to a focus on hiring talent rather than fluctuating token prices. During past bear markets, professionals who built their skills are now among the most sought-after in the industry. A downturn can reduce competition for roles and often results in better equity terms for new hires.
 
 ## Key Takeaways
 

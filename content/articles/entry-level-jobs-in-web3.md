@@ -14,7 +14,7 @@ The [Web3](/what-is-web3) industry is expanding rapidly, creating a significant 
 
 To secure an entry-level job in Web3, focus on displaying enthusiasm, a proactive approach, and a commitment to learning rather than striving for a flawless [resume](/how-to-build-a-web3-resume-that-stands-out). This guide serves as a resource for those aiming to step into the decentralized environment. We will highlight accessible entry-level positions, both technical and non-technical, and outline a clear pathway for acquiring the necessary skills while capturing the attention of hiring managers.
 
-### Embracing a Proactive Mindset
+### A Proactive Mindset
 
 Understanding the required cultural shift is essential before exploring specific roles. In Web3, taking initiative is key. The most successful newcomers contribute to the ecosystem even before securing a formal job title. Your public contributions on platforms like Twitter, Discord, and [GitHub](/building-web3-portfolio) serve as valuable assets. Begin your journey not with a job application, but with your first insightful comment in a Discord channel or your initial question during a community call.
 
@@ -84,7 +84,7 @@ The high-stakes nature of smart contracts necessitates rigorous testing.
 
 ## Conclusion
 
-The journey to your first Web3 job hinges on taking initiative. The sector rewards those who actively learn, build, and contribute in public spaces. Do not let jargon or complexity discourage you. Choose a path that aligns with your skills and interests, immerse yourself in the community, and begin adding value today. Your proactive efforts will enhance your visibility and open doors to opportunities you may not have considered.
+The journey to your first Web3 job hinges on taking initiative. The sector rewards those who actively learn, build, and contribute in public spaces. Choose a path that aligns with your skills and interests, immerse yourself in the community, and begin adding value today. Your proactive efforts will enhance your visibility and open doors to opportunities you may not have considered.
 
 ### The Web3 Opportunity
 

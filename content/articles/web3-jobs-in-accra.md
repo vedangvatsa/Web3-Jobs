@@ -19,7 +19,7 @@ The Web3 community in Accra thrives on strong developer networks, a developing [
 Accra's Web3 ecosystem is rooted in creativity, technical education, and a vibrant community spirit.
 
 - **A Hub for Creative Talent:** Accra boasts a globally acclaimed music and arts scene. Local artists and musicians are increasingly using blockchain to monetize their work and engage directly with fans through NFTs.
-- **Strong Developer Communities:** The city hosts active developer communities, such as DevCongress, alongside various DAOs dedicated to training and supporting Web3 developers. These groups play a critical role in upskilling local talent and fostering collaboration.
+- **Strong Developer Communities:** The city hosts active developer communities, such as DevCongress, alongside various DAOs dedicated to training and supporting Web3 developers. These groups play a critical role in upskilling local talent and encouraging collaboration.
 - **Focus on Education:** The Accra community places a strong emphasis on education and knowledge sharing, creating a welcoming environment for newcomers eager to learn about blockchain technology and seek mentorship.
 - **A Stable and Connected Hub:** Ghana's political stability and its position as a key economic center in West Africa make Accra an appealing base for local startups and international projects targeting the regional market.
 
@@ -34,7 +34,7 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 | Frontend Web3 Engineer (React/Viem)      | Mid-Level     | Competitive                 |
 | Community Manager / Artist Relations       | Mid-Level     | Competitive                 |
 
-### Complete Salary Guide: Web3 Jobs in Accra
+### Salary Guide: Web3 Jobs in Accra
 
 #### Local Opportunities (Growing)
 - **Junior Developer (Web3 Startup):** Competitive monthly salary
@@ -247,7 +247,7 @@ Your location provides a unique advantage:
 - Build connections within Accra's music and art communities.
 - Create content that features Ghanaian artists and creators.
 - Position yourself as a bridge between local creatives and Web3.
-- Differentiate yourself by leveraging your understanding of the local market.
+- Differentiate yourself by using your understanding of the local market.
 
 **Should I consider relocating to another city (Lagos, Nairobi)?**
 No, unless a specific opportunity arises. Reasons include:

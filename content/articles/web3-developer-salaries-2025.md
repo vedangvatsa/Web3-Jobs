@@ -75,7 +75,7 @@ Despite the remote-first nature of the Web3 industry, geographic location still 
 | Tier 3    | Asia - Singapore, Hong Kong          | 70-85% of US benchmarks  |
 | Tier 4    | Remote - Global                       | $120,000 - $180,000 for senior roles in lower cost-of-living areas |
 
-The Web3 job market presents some of the most lucrative opportunities in technology. The demand for skilled developers, especially those with expertise in security and protocol architecture, significantly outweighs supply. By cultivating in-demand skills and establishing a strong public [portfolio](/building-web3-portfolio) of work, developers can position themselves for a rewarding career at the forefront of this evolving industry.
+The Web3 job market presents some of the most lucrative opportunities in technology. The demand for skilled developers, especially those with expertise in security and protocol architecture, significantly outweighs supply. By building in-demand skills and establishing a strong public [portfolio](/building-web3-portfolio) of work, developers can position themselves for a rewarding career at the forefront of this evolving industry.
 
 ### The Web3 Opportunity
 
@@ -108,7 +108,7 @@ Identify the skills pertinent to your target role:
 
 - **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Acquire skills in market analysis, partnership strategy, and navigating the regulatory landscape.
+- **Business Development:** Acquire skills in market analysis, partnership strategy, and understanding the regulatory landscape.
 - **Community/Operations:** Develop expertise in community building, Discord management, and governance processes.
 
 #### Step 3: Build Your Portfolio

@@ -44,7 +44,7 @@ Understanding the mechanics of [decentralized finance](/what-is-defi) is crucial
 
 Technical knowledge alone does not suffice in Web3. Community engagement and communication skills are paramount.
 
-- **Community Building**: Develop skills in growing and nurturing crypto communities to foster engagement and loyalty.
+- **Community Building**: Develop skills in growing and nurturing crypto communities to support engagement and loyalty.
 - **Technical Writing**: Learn to articulate complex concepts clearly, making them accessible to various audiences.
 - **Leadership**: Acquire skills to manage teams in distributed organizations, focusing on collaboration and accountability.
 - **Negotiation**: Master the art of negotiation for partnerships and business development roles.
@@ -140,7 +140,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Target roles that leverage your existing expertise while incorporating new Web3 knowledge:
+Target roles that use your existing expertise while incorporating new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles.
 - Product managers can look for protocol product management opportunities.
@@ -154,7 +154,7 @@ Alex, a backend engineer with five years of experience at a FAANG company, spent
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products, combined with her knowledge of Web3 technology, made her highly valuable. She landed a role at a leading DeFi protocol within a short period.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products, combined with her knowledge of Web3 technology, made her highly valuable. She landed a role at a leading DeFi protocol within a short period.
 
 ### Career Changer Success
 
@@ -162,7 +162,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 ## Web3-Specific Challenges
 
-**Volatility Risk**: The crypto market's volatility can affect job stability, particularly at early-stage startups with limited funding. Professionals entering Web3 should maintain a financial reserve covering several months of living expenses. They should also negotiate base salaries in fiat currency rather than tokens and join projects with established revenue models or robust treasury backing.
+**Volatility Risk**: The crypto market's volatility can affect job stability, particularly at early-stage startups with limited funding. Professionals entering Web3 should maintain a financial reserve covering several months of living expenses. They should also negotiate base salaries in fiat currency rather than tokens and join projects with established revenue models or reliable treasury backing.
 
 **Regulatory Uncertainty**: The regulatory landscape for blockchain companies is evolving across major jurisdictions. Before joining any project, confirm that the team has competent legal counsel and is actively engaging with regulators instead of operating in legal grey areas.
 

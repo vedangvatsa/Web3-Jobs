@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-## What is a Blockchain Fork Choice Rule? A Complete Guide
+## What is a Blockchain Fork Choice Rule? A Guide
 
 In the decentralized world of [blockchain](/what-is-a-blockchain), where thousands of nodes must agree on a single version of history, forks are a natural and frequent occurrence. A **fork choice rule** is the fundamental algorithm that allows a node to look at all the different versions (forks) of a blockchain it sees and unambiguously choose the one "correct" or "canonical" chain. It is one of the most critical components of any consensus mechanism, ensuring that the network eventually converges on a single, unified ledger.
 
@@ -44,7 +44,7 @@ When a node sees two competing forks, it will simply continue to build on top of
 
 *   **Example**: Two miners, A and B, find a block at the same height. The network is split. Then, Miner C finds a new block and decides to build on top of Miner A's block. The A-C chain is now longer than the B chain. All nodes in the network that previously followed the B chain will now drop it and adopt the A-C chain as the canonical one.
 
-*   **Pros**: Simple, elegant, and has proven to be incredibly robust over more than a decade.
+*   **Pros**: Simple, elegant, and has proven to be incredibly reliable over more than a decade.
 *   **Cons**: It can be vulnerable to certain attacks like **[selfish mining](/selfish-mining-attack-explained-simply)**, where a miner secretly builds a longer chain to orphan the blocks of others. It also has a relatively high latency to finality; a block is only considered final after several more blocks are added on top of it.
 
 #### 2. LMD GHOST in Proof-of-Stake (e.g., Ethereum)
@@ -84,17 +84,17 @@ An attacker's goal is often to manipulate the fork choice rule.
 
 ### Frequently Asked Questions (FAQ)
 
-**Q: What happens to the transactions on a fork that gets abandoned?**
+**Q: What happens to the transactions on a fork that gets abandoned?**  
 A: Transactions on an orphaned fork are not considered part of the canonical history. They are effectively "un-done." These transactions typically return to the mempool and are included in a later block on the canonical chain, provided they are still valid.
 
-**Q: Can a fork choice rule be changed?**
+**Q: Can a fork choice rule be changed?**  
 A: Yes, but it requires a hard fork. Changing the fork choice rule is a fundamental change to the consensus mechanism of a blockchain. Ethereum famously changed its fork choice rule when it transitioned from Proof-of-Work to Proof-of-Stake during The Merge.
 
-**Q: Why is it called "Greediest Heaviest Observed SubTree"?**
+**Q: Why is it called "Greediest Heaviest Observed SubTree"?**  
 A: The name describes the algorithm. When presented with a fork, the algorithm "greedily" chooses the path with the most votes (the "heaviest" subtree) based on the votes it has "observed" so far.
 
-**Q: How does a node learn about different forks?**
-A: Through the peer-to-peer network. Nodes are constantly gossiping and sharing new blocks they have seen. A node will maintain a view of all known blocks and chains and use the fork choice rule to determine which one it should be building on.
+**Q: How does a node learn about different forks?**  
+A: Through the peer-to-peer network. Nodes are constantly sharing new blocks they have seen. A node will maintain a view of all known blocks and chains and use the fork choice rule to determine which one it should be building on.
 
-**Q: Is the longest chain always the one with the most blocks?**
+**Q: Is the longest chain always the one with the most blocks?**  
 A: Not necessarily. Some PoW protocols use a measure of "total difficulty" rather than just chain length. A chain might be shorter but have blocks that were harder to find, giving it a higher total difficulty and making it the canonical chain. However, in practice, length is an excellent proxy for accumulated work.

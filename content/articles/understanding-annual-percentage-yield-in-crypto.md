@@ -74,7 +74,7 @@ The [Web3](/what-is-web3) sector is experiencing rapid growth, and the demand fo
 - Base compensation typically higher than Web2 equivalents.
 - Meaningful equity and token allocations.
 - Fully remote roles with global teams.
-- Opportunities to work on technology reshaping finance, governance, and digital ownership.
+- Opportunities to work on technology changing finance, governance, and digital ownership.
 
 The talent shortage is particularly acute in smart contract development, protocol security, and tokenomics design. Qualified candidates often receive multiple competing offers within weeks of entering the market. For professionals contemplating a career transition, the combination of compensation premiums and growth potential makes Web3 an appealing sector.
 
@@ -141,7 +141,7 @@ The Web3 community remains highly accessible. Engage through:
 
 ### Step 5: Apply Strategically
 
-Focus on roles that leverage your existing expertise alongside new Web3 knowledge:
+Focus on roles that use your existing expertise alongside new Web3 knowledge:
 
 - A backend engineer could pursue blockchain infrastructure roles.
 - A product manager should seek protocol-specific product roles.
@@ -198,7 +198,7 @@ A: Historically, bear markets present the best opportunities to enter Web3 profe
 
 ## Key Takeaways
 
-Web3 presents significant compensation premiums, typically higher than Web2 roles, along with accelerated career trajectories and the chance to contribute to technology reshaping finance, governance, and digital ownership globally. 
+Web3 presents significant compensation premiums, typically higher than Web2 roles, along with accelerated career trajectories and the chance to contribute to technology changing finance, governance, and digital ownership globally. 
 
 Most professionals can transition to Web3 within a few months of focused effort, with engineers and product managers often moving fastest due to the direct applicability of their skills. 
 

@@ -40,7 +40,7 @@ Avoid sending just a link to your GitHub profile. Create a central "hub" that or
 
 ### Your GitHub: The Source of Truth
 
-Your personal website acts as a brochure, while your GitHub serves as a detailed specification. Ensure it is professional and easy to navigate.
+Your personal website acts as a brochure, while your GitHub serves as a detailed specification. Ensure it is professional and easy to manage.
 
 1. **Pin Your Best Repositories:** GitHub allows you to pin up to six repositories at the top of your profile. Use this feature to highlight your best projects.
 
@@ -125,7 +125,7 @@ Target roles that utilize your existing expertise alongside your new Web3 knowle
 Alex, a backend engineer with five years of experience at a major tech company, spent three months learning Solidity while continuing his full-time job. He contributed to an open-source protocol, which attracted the attention of a major DeFi project. He successfully transitioned with a significant salary increase and substantial equity.
 
 #### Product Manager in Web3
-Jessica, previously a PM in traditional finance, leveraged her domain expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her a valuable asset. Within four weeks, she secured a role at a leading DeFi protocol.
+Jessica, previously a PM in traditional finance, used her domain expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her a valuable asset. Within four weeks, she secured a role at a leading DeFi protocol.
 
 #### Career Changer Success
 Marcus transitioned from his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio building, he obtained a position leading Developer Relations at a prominent blockchain platform, significantly surpassing his previous compensation.
@@ -166,4 +166,4 @@ A: Bear markets historically present excellent opportunities to enter Web3 profe
 - Pursue opportunities with well-funded, established protocols that demonstrate proven revenue to mitigate the inherent volatility risk. Negotiate base salaries in fiat currency to enhance financial stability.
 - The Web3 community is open and supportive, offering mentorship programs, free educational resources, and active developer communities across all major protocols. 
 
-The future of Web3 holds immense promise for those prepared to engage with its challenges and opportunities. By building a strong portfolio, effectively presenting your skills, and strategically navigating the transition, you can position yourself for success in this dynamic field.
+The future of Web3 holds immense promise for those prepared to engage with its challenges and opportunities. By building a strong portfolio, effectively presenting your skills, and strategically managing the transition, you can position yourself for success in this dynamic field.

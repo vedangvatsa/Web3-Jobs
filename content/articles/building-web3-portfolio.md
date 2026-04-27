@@ -13,7 +13,7 @@ In the [Web3](/what-is-web3) sector, your portfolio serves as concrete evidence 
 
 ## The Three Pillars of a Web3 Portfolio
 
-A robust Web3 portfolio is built on three essential pillars. Aim for substantial representation in each area.
+A strong Web3 portfolio is built on three essential pillars. Aim for substantial representation in each area.
 
 1. **Your GitHub: The Code**  
    This is the foundation for technical positions. Your GitHub account should reflect your coding abilities, familiarity with Web3 technologies, and project completion. Ensure it remains active, organized, and showcases a variety of projects.
@@ -49,7 +49,7 @@ To excel as a smart contract developer, you must showcase your understanding of 
 | Yield Farming Strategy               | Write a contract that optimally reallocates funds between lending protocols to maximize yield. |
 | Contribute to an Open-Source Protocol | Identify a prominent protocol on GitHub and submit a meaningful pull request. This signals strong engagement within the community. |
 
-> **Tip:** For every project, ensure you provide a detailed README.md file. Describe the project's purpose, technical challenges faced, and instructions for local deployment. Include comprehensive tests.
+> **Tip:** For every project, ensure you provide a detailed README.md file. Describe the project's purpose, technical challenges faced, and instructions for local deployment. Include tests.
 
 ## Portfolio Projects for Frontend Developers
 
@@ -68,9 +68,9 @@ For marketing, community, or operations positions, your portfolio should consist
 | Project Name                     | Description                                                                 |
 |----------------------------------|-----------------------------------------------------------------------------|
 | Content & Thought Leadership      | Produce a series of insightful blog posts or Twitter threads analyzing a specific sector of Web3, such as "The State of Decentralized Derivatives" or "A Deep Dive into NFT Financialization." |
-| Data Analysis Dashboards          | Build a comprehensive Dune Analytics dashboard for a protocol of interest, tracking metrics like daily active users, trading volume, and governance participation. Share your findings on social media. |
+| Data Analysis Dashboards          | Build a Dune Analytics dashboard for a protocol of interest, tracking metrics like daily active users, trading volume, and governance participation. Share your findings on social media. |
 | Community Building                | Establish yourself as a valued contributor within a DAO. Take on projects like updating onboarding documentation or coordinating community calls. Document your contributions and their impact. |
-| Go-to-Market Strategy             | Develop a detailed, publicly available marketing and growth strategy for a new, hypothetical Web3 project. This showcases your strategic acumen and understanding of the [Web3 marketing landscape](/web3-marketing). |
+| Go-to-Market Strategy             | Develop a detailed, publicly available marketing and growth strategy for a new, hypothetical Web3 project. This showcases your strategic acumen and understanding of the [Web3 marketing sector](/web3-marketing). |
 
 ## Presenting Your Portfolio
 
@@ -141,7 +141,7 @@ Target positions that align with your existing expertise and newly acquired Web3
 Alex, a backend engineer with five years of experience at a leading tech company, dedicated three months to learning Solidity while still employed. He contributed to an open-source protocol and caught the eye of a prominent DeFi project, facilitating his transition with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from the finance sector, leveraged her expertise in DeFi. Her understanding of financial products paired with Web3 technology made her a valuable asset. She secured a position at a top DeFi protocol within four weeks.
+Jessica, a product manager from the finance sector, used her expertise in DeFi. Her understanding of financial products paired with Web3 technology made her a valuable asset. She secured a position at a top DeFi protocol within four weeks.
 
 ### Career Changer Success
 Marcus transitioned from a corporate job to focus on Web3 for six months. Through persistent learning, networking, and portfolio development, he landed a leading role in Developer Relations at a significant blockchain platform, with compensation significantly exceeding his previous earnings.
@@ -171,7 +171,7 @@ Any career transition carries inherent risks, and Web3 is no exception due to ma
 Most professionals accomplish a meaningful transition to Web3 within 2-6 months of focused effort. Engineers and product managers typically transition fastest, as their core skills are directly applicable; the learning curve primarily involves mastering tools and protocol-specific knowledge. Non-technical roles, such as marketing and community management, can transition in as little as 4-8 weeks with concentrated self-study. Actively engaging through portfolio projects or contributions to open-source protocols can significantly accelerate this process.
 
 **What if the crypto market crashes?**  
-Bear markets historically present excellent opportunities to enter the Web3 field. When speculative enthusiasm wanes, companies often refocus on building robust products, prioritizing talent over token prices. Infrastructure firms, security companies, and developer tooling providers usually maintain steady hiring regardless of market conditions. Engineers who developed their skills during previous bear markets are among the most sought-after professionals today. A market downturn can reduce competition for roles and may yield better equity terms for new hires.
+Bear markets historically present excellent opportunities to enter the Web3 field. When speculative enthusiasm wanes, companies often refocus on building reliable products, prioritizing talent over token prices. Infrastructure firms, security companies, and developer tooling providers usually maintain steady hiring regardless of market conditions. Engineers who developed their skills during previous bear markets are among the most sought-after professionals today. A market downturn can reduce competition for roles and may yield better equity terms for new hires.
 
 ## Key Takeaways
 

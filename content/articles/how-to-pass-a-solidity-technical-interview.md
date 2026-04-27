@@ -22,7 +22,7 @@ A typical Solidity interview consists of multiple stages:
 
 2. **Technical Take-Home Assignment:** Many companies assign a small project for you to complete independently. This task evaluates your coding style, test-writing capabilities, and documentation standards. Review common [take-home assignments here](/common-take-home-assignments-for-web3-developer-roles).
 
-3. **Core Technical Interview:** This pivotal stage involves a live session with one or more engineers, featuring a mix of conceptual questions and a live coding challenge.
+3. **Core Technical Interview:** This key stage involves a live session with one or more engineers, featuring a mix of conceptual questions and a live coding challenge.
 
 4. **Systems Design/Architecture Interview:** For senior roles, you may be asked to design the architecture of a simple [DeFi](/what-is-defi) protocol or a decentralized application (dApp). This segment assesses your ability to think holistically about the system, encompassing both on-chain and off-chain components.
 
@@ -154,14 +154,14 @@ Target roles that utilize your existing expertise along with new Web3 knowledge:
 Alex worked as a backend engineer at a major tech company for five years. He dedicated three months to learning Solidity while maintaining his job. By contributing to an open-source protocol, he attracted the attention of a major DeFi project, resulting in a transition that included a significant salary increase and substantial equity.
 
 ### Product Manager in Web3  
-Jessica transitioned from traditional finance as a product manager, leveraging her expertise in DeFi. Her knowledge of financial products coupled with Web3 technology made her a valuable candidate. Within a short period, she secured a position at a leading DeFi protocol.
+Jessica transitioned from traditional finance as a product manager, using her expertise in DeFi. Her knowledge of financial products coupled with Web3 technology made her a valuable candidate. Within a short period, she secured a position at a leading DeFi protocol.
 
 ### Career Changer Success  
 Marcus left his corporate position to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous salary.
 
 ## Web3-Specific Challenges
 
-**Volatility Risk:** The crypto market's volatility can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain a financial cushion of several months of living expenses. Negotiate base salaries in fiat currency instead of tokens, and aim to join projects with established revenue models or robust treasury backing.
+**Volatility Risk:** The crypto market's volatility can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain a financial cushion of several months of living expenses. Negotiate base salaries in fiat currency instead of tokens, and aim to join projects with established revenue models or reliable treasury backing.
 
 **Regulatory Uncertainty:** The regulatory environment for blockchain companies remains fluid across major jurisdictions. Ensure that the team you join has competent legal counsel and engages proactively with regulators rather than operating in grey areas.
 

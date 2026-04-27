@@ -39,7 +39,7 @@ Compensation in Web3 frequently extends beyond salary alone. Token grants enable
 
 ### Understanding Total Compensation
 
-Discussions about Web3 compensation often focus solely on base salary. A comprehensive view of earning potential encompasses the entire compensation package.
+Discussions about Web3 compensation often focus solely on base salary. A complete view of earning potential encompasses the entire compensation package.
 
 | Component          | Description                                                  |
 |--------------------|--------------------------------------------------------------|

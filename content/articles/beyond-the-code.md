@@ -28,7 +28,7 @@ The Web3 environment features many talented individuals proficient in cryptograp
 #### 1. Community Manager
 This role is critical in any Web3 project. In a decentralized environment, the community encompasses the product, marketing team, and support system simultaneously.
 
-- **Responsibilities:** Community managers engage with users on platforms like Discord and Telegram, foster a positive atmosphere, address user inquiries, organize events, and serve as the key link between users and the development team.
+- **Responsibilities:** Community managers engage with users on platforms like Discord and Telegram, build a positive atmosphere, address user inquiries, organize events, and serve as the key link between users and the development team.
 - **Ideal Candidates:** Individuals with high emotional intelligence, strong written communication skills, and a genuine passion for relationship building.
 
 #### 2. Marketing Manager (Content, Growth, or Product Marketing)
@@ -38,7 +38,7 @@ Web3 marketing focuses on authentic storytelling and community engagement rather
 - **Ideal Candidates:** Marketing generalists, content strategists, and social media experts who excel in writing and comprehend the unique culture of crypto.
 
 #### 3. Product Manager
-The role of a Web3 product manager presents unique challenges. They must navigate product vision while garnering consensus among a decentralized community of [token](/what-is-a-token) holders who are also stakeholders.
+The role of a Web3 product manager presents unique challenges. They must manage product vision while garnering consensus among a decentralized community of [token](/what-is-a-token) holders who are also stakeholders.
 
 - **Responsibilities:** Product managers conduct user research with pseudonymous users, translate community feedback into actionable product roadmaps, and draft specifications for new features.
 - **Ideal Candidates:** Experienced product managers from Web2 who quickly adapt and understand complex technical and economic concepts.

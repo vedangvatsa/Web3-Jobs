@@ -28,7 +28,7 @@ The traditional marketing funnel, Awareness, Interest, Decision, Action, transfo
 
 The marketing team within a Web3 project consists of various specialized roles.
 
-1. **Community Manager:** This role is vital for fostering an engaged and welcoming environment on platforms like Discord and Telegram. Community Managers serve as the first line of defense and the heartbeat of the community.
+1. **Community Manager:** This role is vital for building an engaged and welcoming environment on platforms like Discord and Telegram. Community Managers serve as the first line of defense and the heartbeat of the community.
    
 2. **Content Marketer / Strategist:** These professionals craft blog posts, documentation, and Twitter threads that articulate the project’s vision and technology, simplifying complex concepts for the audience.
 
@@ -56,7 +56,7 @@ Your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary to your 
 
 - **Cultural Fluency:** Understanding the language, memes, and etiquette of Crypto Twitter is essential.
 
-- **Community-Building Instincts:** Strong emotional intelligence and the ability to foster community engagement are vital traits.
+- **Community-Building Instincts:** Strong emotional intelligence and the ability to support community engagement are vital traits.
 
 - **Resilience:** The volatility of the market and the demands of the community require thick skin and the ability to manage chaotic situations effectively.
 
@@ -140,7 +140,7 @@ Focus on roles that match your existing expertise with new Web3 knowledge:
 Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol, attracting the attention of a significant DeFi project. Alex transitioned with a notable salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products, combined with insights into Web3 technology, made her a sought-after candidate. She secured a role at a leading DeFi protocol within a short timeframe.
+Jessica, a PM from traditional finance, used her expertise in DeFi. Her knowledge of financial products, combined with insights into Web3 technology, made her a sought-after candidate. She secured a role at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 Marcus left his corporate job to immerse himself in Web3 for six months. Through dedicated learning, networking, and portfolio development, he obtained a position leading Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous role.

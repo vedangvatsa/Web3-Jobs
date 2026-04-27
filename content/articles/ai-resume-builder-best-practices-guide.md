@@ -25,13 +25,13 @@ To succeed, you must use AI resume builders to overcome the ATS hurdles.
 
 ### Best Practice 1: Start with a Strong Foundation (Your Master Resume)
 
-Before utilizing any AI tools, establish a strong foundation by creating a "master resume." This comprehensive document should encompass everything you've accomplished, detailing every job, project, skill, and achievement. While this master resume may be lengthy and intricate, it serves as your personal database and is not intended for distribution.
+Before utilizing any AI tools, establish a strong foundation by creating a "master resume." This document should encompass everything you've accomplished, detailing every job, project, skill, and achievement. While this master resume may be lengthy, it serves as your personal database and is not intended for distribution.
 
 Your master resume should include:
 
 - A chronological list of all your jobs, including dates, companies, and roles.
 - Detailed bullet points for each role that highlight your responsibilities and achievements. Use the STAR method (Situation, Task, Action, Result) to frame these accomplishments. Quantify results wherever possible, such as "Increased user engagement significantly by redesigning the onboarding flow."
-- A thorough list of both technical and soft skills.
+- A list of both technical and soft skills.
 - Information on your education, certifications, and personal projects.
 
 This master resume acts as the raw material you will input into the AI resume builder.
@@ -112,4 +112,4 @@ The most significant mistake is relying entirely on AI outputs. Always treat the
 
 ### Conclusion
 
-Using AI resume builders can significantly enhance your job application process. By following these best practices, starting with a strong master resume, tailoring your content, and ensuring a human touch in the final review, you increase your chances of creating a compelling resume that both ATS software and human recruiters will appreciate. Embrace the technology as a tool to amplify your efforts, but remember that personal insights and authenticity remain essential in every application.
+Using AI resume builders can significantly enhance your job application process. By following these best practices, starting with a strong master resume, tailoring your content, and ensuring a human touch in the final review, you increase your chances of creating a compelling resume that both ATS software and human recruiters will appreciate. Use the technology as a tool to amplify your efforts, but remember that personal insights and authenticity remain essential in every application.

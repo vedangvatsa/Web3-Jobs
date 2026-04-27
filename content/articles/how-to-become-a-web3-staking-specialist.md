@@ -40,7 +40,7 @@ Liquid staking represents a crucial sector in [DeFi](/what-is-defi). Protocols l
   - Manage off-chain infrastructure to coordinate stake delegation to validator nodes.
 
 - **Essential Skills:** 
-  - Advanced knowledge of [Solidity](/solidity-for-beginners) development, a comprehensive understanding of [DeFi](/what-is-defi) and tokenomics, and strong security practices.
+  - Advanced knowledge of [Solidity](/solidity-for-beginners) development, a detailed understanding of [DeFi](/what-is-defi) and tokenomics, and strong security practices.
 
 **3. Staking-as-a-Service (SaaS) Platform Engineer**
 
@@ -134,7 +134,7 @@ Target roles that combine your existing expertise with your newly acquired Web3 
 Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while keeping his day job. His contributions to an open-source protocol attracted the attention of a major DeFi project, resulting in a transition with a salary increase and significant equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, leveraged her domain expertise in DeFi. Her financial product knowledge combined with Web3 technology made her highly valuable. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her financial product knowledge combined with Web3 technology made her highly valuable. She secured a role at a leading DeFi protocol within four weeks.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, with compensation exceeding his previous role.

@@ -16,7 +16,7 @@ This guide outlines a structured approach for beginners, offering a clear pathwa
 
 ### Step 1: Foundational Immersion (The First 30 Days)
 
-Understanding Web3 culture and fundamental concepts is essential before pursuing a career in this space. Dedicate the first month to comprehensive learning.
+Understanding Web3 culture and fundamental concepts is essential before pursuing a career in this space. Dedicate the first month to detailed learning.
 
 **1. Learn the Language:**
 Familiarize yourself with key terminology relevant to Web3. You should be able to articulate the following concepts clearly:

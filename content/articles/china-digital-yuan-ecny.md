@@ -33,7 +33,7 @@ This structure enables the government to maintain control while utilizing the ex
 ### Key Features and Objectives of the e-CNY
 
 - **Programmable Money:** The e-CNY incorporates [smart contracts](/what-are-smart-contracts) governed by the central bank. This enables features like "programmable money," where the government can set conditions on funds, such as expiration dates or restrictions on spending categories.
-- **Transaction Traceability:** Every e-CNY transaction is traceable by the central bank, offering the government a comprehensive view of monetary flow in the economy. This contrasts with the pseudonymity present in most public blockchains.
+- **Transaction Traceability:** Every e-CNY transaction is traceable by the central bank, offering the government a detailed view of monetary flow in the economy. This contrasts with the pseudonymity present in most public blockchains.
 - **Mitigating Private Sector Dominance:** The e-CNY aims to reduce the influence of private payment platforms like Alipay and WeChat Pay, reinforcing state control over the financial ecosystem.
 - **Internationalization of the Yuan:** China envisions the digital yuan facilitating its use in international trade, potentially challenging the dominance of other major currencies.
 
@@ -95,7 +95,7 @@ Depending on your career aspirations, develop specific skills:
 
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and relevant Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and strategies for user acquisition in Web3.
-- **Business Development:** Focus on market analysis, partnership strategies, and navigating the regulatory environment.
+- **Business Development:** Focus on market analysis, partnership strategies, and understanding the regulatory environment.
 - **Community/Operations:** Gain expertise in community engagement, Discord management, and governance.
 
 ### Step 3: Create a Portfolio
@@ -169,4 +169,4 @@ Historically, bear markets present excellent opportunities for entering Web3. As
 
 ## Conclusion
 
-The emergence of the e-CNY illustrates a significant shift in how nations approach digital currencies, contrasting sharply with the decentralized ethos of Web3. As the demand for digital currencies increases, professionals should recognize the unique opportunities within the Web3 space. With higher compensation, flexible work arrangements, and rapid career advancement, Web3 offers an enticing landscape for those willing to adapt and learn. Engaging with the community, acquiring relevant skills, and strategically applying for roles can set the stage for a successful transition into this dynamic sector. As the financial ecosystem evolves, the interplay between CBDCs like the e-CNY and decentralized cryptocurrencies will continue to shape the future of money globally.
+The emergence of the e-CNY illustrates a significant shift in how nations approach digital currencies, contrasting sharply with the decentralized ethos of Web3. As the demand for digital currencies increases, professionals should recognize the unique opportunities within the Web3 space. With higher compensation, flexible work arrangements, and rapid career advancement, Web3 offers an enticing sector for those willing to adapt and learn. Engaging with the community, acquiring relevant skills, and strategically applying for roles can set the stage for a successful transition into this dynamic field. As the financial ecosystem evolves, the interplay between CBDCs like the e-CNY and decentralized cryptocurrencies will continue to shape the future of money globally.

@@ -25,7 +25,7 @@ The user's wallet serves as their account, marking the beginning of their journe
 Unlike Web2, where actions occur instantly, blockchain transactions incur costs (gas) and require time for confirmation. Designers face the challenge of clearly communicating these concepts without overwhelming users, ensuring they understand the implications of their actions.
 
 #### Security and Trust
-Users often manage their financial assets within dApps. Designs must foster trust and help users evade common scams and phishing attacks. This requirement entails clear communication, transparent data displays, and effective security warnings.
+Users often manage their financial assets within dApps. Designs must build trust and help users evade common scams and phishing attacks. This requirement entails clear communication, transparent data displays, and effective security warnings.
 
 For best practices, see our [Web3 UX Design Best Practices](/web3-ux-design).
 

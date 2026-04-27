@@ -50,7 +50,7 @@ Although the local market is developing, the global Web3 sector welcomes talent 
 
 ## The Supply Chain Opportunities in Guinea's Mining Sector
 
-Guinea's mining industry, pivotal to its economy, faces challenges related to transparency and efficiency. Blockchain technology presents a solution to these issues:
+Guinea's mining industry, key to its economy, faces challenges related to transparency and efficiency. Blockchain technology presents a solution to these issues:
 
 ### Current Challenges in Bauxite Mining
 
@@ -119,7 +119,7 @@ Conakry's French-speaking environment connects you to an advantageous network.
 
 | Hub                   | Description                                                                          |
 |-----------------------|--------------------------------------------------------------------------------------|
-| Dakar, Senegal        | A robust tech ecosystem with numerous blockchain and crypto companies, hosting regular Web3 conferences and networking events. |
+| Dakar, Senegal        | A strong tech ecosystem with numerous blockchain and crypto companies, hosting regular Web3 conferences and networking events. |
 | Abidjan, Côte d'Ivoire| An emerging fintech and blockchain hub with a growing startup ecosystem focused on mobile money and financial inclusion. |
 | Lagos, Nigeria        | Africa's largest tech hub, rich in Web3 and fintech opportunities, though primarily English-speaking. |
 | Cameroon and DRC      | Developing ecosystems within the Francophone region, offering localized opportunities. |

@@ -56,7 +56,7 @@ This arrangement, facilitated by infrastructure like **Flashbots**, seeks to dem
 
 ### MEV: A Double-Edged Sword
 
-The discussion surrounding MEV is intricate. On one hand, it poses as a predatory "invisible tax" on users. Sandwich attacks and front-running diminish the experience for everyday users and foster perceptions of a manipulated system.
+The discussion surrounding MEV is intricate. On one hand, it poses as a predatory "invisible tax" on users. Sandwich attacks and front-running diminish the experience for everyday users and create perceptions of a manipulated system.
 
 Conversely, some forms of MEV are crucial for market efficiency. DEX arbitrage enforces price uniformity across the DeFi ecosystem. Liquidations are essential for ensuring the solvency of lending protocols.
 
@@ -145,7 +145,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Target roles that leverage your existing expertise combined with new Web3 knowledge:
+Target roles that use your existing expertise combined with new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles.
 - Product managers can look for protocol product roles.

@@ -19,11 +19,11 @@ This article details the ten essential skills that hiring managers and technical
 Smart contract development is the cornerstone of Web3 engineering. Mastery of [Solidity](/best-programming-languages-for-blockchain-development) is essential, as it is the primary language for writing smart contracts.
 
 - **Key Concepts:** Understand the intricacies of the Ethereum Virtual Machine (EVM) beyond simple syntax. Familiarize yourself with the distinctions between `storage`, `memory`, and `calldata`, and the implications of each choice on performance and costs.
-- **Practical Steps:** Engage in hands-on projects. Utilize platforms like CryptoZombies and refer to our [beginner's guide to Solidity](/solidity-for-beginners) to build your own decentralized applications (dApps). A robust GitHub [portfolio](/building-web3-portfolio) showcasing your work is critical.
+- **Practical Steps:** Engage in hands-on projects. Utilize platforms like CryptoZombies and refer to our [beginner's guide to Solidity](/solidity-for-beginners) to build your own decentralized applications (dApps). A GitHub [portfolio](/building-web3-portfolio) showcasing your work is critical.
 
 ### 2. Smart Contract Security
 
-Security expertise differentiates junior developers from seasoned professionals. Given the irreversible nature of blockchain transactions, ensuring robust security is essential.
+Security expertise differentiates junior developers from seasoned professionals. Given the irreversible nature of blockchain transactions, ensuring security is essential.
 
 - **Key Concepts:** Acquire an extensive understanding of [common attack vectors](/common-smart-contract-vulnerabilities-explained) such as reentrancy, integer overflows, oracle manipulation, flash loan attacks, and access control vulnerabilities. Familiarity with the "Checks-Effects-Interactions" pattern is vital.
 - **Practical Steps:** Analyze past security breaches by reading post-mortems from firms like Trail of Bits and OpenZeppelin. Participate in "Capture the Flag" competitions, such as Ethernaut and Damn Vulnerable [DeFi](/what-is-defi), to sharpen your skills.
@@ -37,9 +37,9 @@ A commitment to thorough testing distinguishes a professional Web3 developer. Co
 
 ### 4. Gas Optimization
 
-Every operation on the blockchain incurs a cost. Writing gas-efficient code is a highly regarded skill in the Web3 domain.
+Every operation on the blockchain incurs a cost. Writing gas-efficient code is a highly regarded skill in the Web3 field.
 
-- **Key Concepts:** Familiarize yourself with the gas costs associated with various EVM opcodes. Employ strategies such as struct packing, reducing state writes, and effectively utilizing `calldata` to lower transaction costs for users. Explore our [gas optimization guide](/gas-optimization-techniques-for-solidity-developers) for comprehensive insights.
+- **Key Concepts:** Familiarize yourself with the gas costs associated with various EVM opcodes. Employ strategies such as struct packing, reducing state writes, and effectively utilizing `calldata` to lower transaction costs for users. Explore our [gas optimization guide](/gas-optimization-techniques-for-solidity-developers) for insights.
 - **Practical Steps:** Utilize tools like `foundry-gas-report` to evaluate the gas usage of your functions. Review articles and guides focusing specifically on gas optimization techniques.
 
 ### 5. Frontend Integration (Ethers.js / Viem)
@@ -154,7 +154,7 @@ Alex, a backend engineer with five years of experience at a major tech firm, com
 
 ### Product Manager in Web3
 
-Jessica, previously a PM in finance, leveraged her expertise in DeFi to transition into Web3. Her background in financial products made her an attractive candidate, allowing her to secure a role at a leading DeFi protocol within a short time.
+Jessica, previously a PM in finance, used her expertise in DeFi to transition into Web3. Her background in financial products made her an attractive candidate, allowing her to secure a role at a leading DeFi protocol within a short time.
 
 ### Career Changer Success
 

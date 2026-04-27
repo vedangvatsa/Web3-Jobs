@@ -71,7 +71,7 @@ Initially focused on scholarships, gaming guilds have significantly broadened th
 
 **Player Data Platforms**: Guilds are developing on-chain "resumes" for scholars, documenting gaming history and achievements. This data is valuable for assessing player skills, reliability, and earning potential. New games can utilize this information to better match players with suitable challenges and recruitment initiatives.
 
-**Community and Social Hubs**: Guilds serve as vibrant communities, fostering a sense of belonging and support among gamers. Scholars often express that the community aspect, connecting with fellow gamers for strategy sharing and encouragement, holds nearly as much value as the financial benefits.
+**Community and Social Hubs**: Guilds serve as vibrant communities, supporting a sense of belonging among gamers. Scholars often express that the community aspect, connecting with fellow gamers for strategy sharing and encouragement, holds nearly as much value as the financial benefits.
 
 **Research and Analytics**: Leading guilds are investing in analytics to assess game economics, sustainability, and resource allocation. Guilds like YGG produce research that shapes industry trends and provides insights into the viability of different games.
 
@@ -163,6 +163,6 @@ Compensation in these roles varies, with guild managers earning commission-based
 
 Web3 gaming guilds represent a unique intersection of gaming, finance, and community organization. They have created substantial economic opportunities for millions of players in developing nations, particularly during the peak of P2E earnings from 2020 to 2022.
 
-However, the sector is evolving rapidly. The volatility of individual games, regulatory scrutiny, and rising competition have made the landscape more challenging. Successful guilds will be those that implement rigorous game selection processes, maintain diversified portfolios, prioritize strong community management, and establish realistic expectations regarding sustainability.
+However, the sector is evolving rapidly. The volatility of individual games, regulatory scrutiny, and rising competition have made the field more challenging. Successful guilds will be those that implement rigorous game selection processes, maintain diversified portfolios, prioritize strong community management, and establish realistic expectations regarding sustainability.
 
 The scholarship model that connects players lacking capital with opportunities to earn through gaming is likely to endure. However, the specific games and tokens driving earnings will continue to change. The guilds that thrive will be those that adapt swiftly to market dynamics, uphold ethical practices, and emphasize community and long-term sustainability over transient hype.

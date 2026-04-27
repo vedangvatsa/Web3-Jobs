@@ -75,7 +75,7 @@ Oracles can function as attestation services, verifying real-world information t
 - **Role of Oracles:**
     - **Social Graph Verification:** An oracle may confirm that a user’s Twitter account has a significant number of followers or that their [GitHub](/building-web3-portfolio) account has contributed to a specific open-source project. This attestation can grant access to particular [DAOs](/what-is-a-dao) or decentralized applications (dApps).
     - **KYC/AML Attestation:** A regulated entity could conduct a KYC check off-chain. The oracle can then generate a simple on-chain attestation (a "yes/no") confirming the wallet's verification without disclosing personal data on the blockchain. [DeFi protocols](/what-is-defi) could use this information to offer compliant services.
-- **Importance:** This approach facilitates the creation of robust, portable reputation systems not controlled by any single entity, bridging real-world and on-chain identities.
+- **Importance:** This approach facilitates the creation of reliable, portable reputation systems not controlled by any single entity, bridging real-world and on-chain identities.
 
 ### Expanding the Role of Oracles
 
@@ -131,7 +131,7 @@ A: Web3 organizations often feature flatter hierarchies, demanding more self-dir
 **Q: Can I incorporate this learning into my current job?**  
 A: Yes, focus on applying two or three new practices consistently within your current role. Small, intentional improvements can yield significant results over time.
 
-**Q: What resources can help me delve deeper into oracle technology?**  
+**Q: What resources can help me explore deeper into oracle technology?**  
 A: Start with articles and case studies to build foundational knowledge. Seek mentorship from experienced professionals in Web3 communities. Structured accountability can accelerate your learning journey.
 
-Understanding the diverse applications of oracles can position you as a knowledgeable asset in the evolving Web3 landscape. As oracles continue to play a crucial role in bridging blockchains with real-world data, your expertise in this area will be invaluable. Embrace the learning journey and prepare to impact the future of decentralized technology.
+Understanding the diverse applications of oracles can position you as a knowledgeable asset in the evolving Web3 field. As oracles continue to play a crucial role in bridging blockchains with real-world data, your expertise in this area will be invaluable. Accept the learning journey and prepare to impact the future of decentralized technology.

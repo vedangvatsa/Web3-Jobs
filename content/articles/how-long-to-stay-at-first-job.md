@@ -53,7 +53,7 @@ You don't have to ignore a great opportunity just to hit an arbitrary tenure mil
 While there are good reasons to leave early, there are also risks to consider. Leaving a job after just a few months without a compelling reason can raise red flags for future employers.
 
 *   **It Can Look Like You're Unreliable:** Hiring managers might see a short stint on your [resume](/how-to-build-a-web3-resume-that-stands-out) and wonder if you're a "job hopper" who will leave their company just as quickly.
-*   **You Miss Out on Deeper Learning:** The first few months of any job are just about learning the ropes. The real, deep learning happens when you start to own projects and navigate more complex challenges, which usually comes after the six-month mark.
+*   **You Miss Out on Deeper Learning:** The first few months of any job are just about learning the ropes. The real, deep learning happens when you start to own projects and handle more complex challenges, which usually comes after the six-month mark.
 *   **You Haven't Built a Strong Network:** Leaving too soon means you haven’t had time to build strong relationships with colleagues and mentors who can support you throughout your career.
 
 If you do leave your first job in under a year, be prepared to explain your reasoning clearly and professionally in future interviews. Focus on what you learned and what you're looking for in your next role, rather than speaking negatively about your previous employer.

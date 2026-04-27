@@ -14,9 +14,9 @@ lastUpdated: "2026-04-27"
 
 Communicating effectively with senior leadership requires a distinct skill set compared to interactions with peers or direct reports. Executives prioritize multiple strategic objectives while managing significant time constraints. They focus on outcomes, risk management, and resource allocation. To engage them successfully, you must tailor your communication to fit this specific context.
 
-Ineffective executive communication often leads to the failure of sound ideas. A well-thought-out proposal can be misunderstood or dismissed if not presented properly. Conversely, mastering executive communication can significantly enhance your career. It establishes your credibility, showcases your strategic thinking abilities, and enables you to influence organizational direction.
+Ineffective executive communication often leads to the failure of sound ideas. A well-thought-out proposal can be misunderstood or dismissed if not presented properly. Conversely, mastering executive communication can enhance your career. It establishes your credibility, showcases your strategic thinking abilities, and allows you to influence organizational direction.
 
-This guide outlines key principles and practical techniques aimed at fostering communication characterized by clarity, brevity, and impact. By following these guidelines, you can ensure that your messages resonate and stimulate action.
+This guide outlines key principles and practical techniques aimed at building communication characterized by clarity, brevity, and impact. By following these guidelines, you can ensure that your messages resonate and stimulate action.
 
 ## The Three Pillars of Executive Communication
 
@@ -33,7 +33,7 @@ Executives face overwhelming amounts of information daily. Distilling complex to
 **Practical Techniques for Brevity:**
 
 - **Bottom Line Up Front (BLUF):** Begin with your main point or recommendation. Avoid lengthy introductions.
-    - *Instead of:* "I reviewed the Q2 sales data, analyzed the competitive landscape, and spoke with three customers. Based on this, I think we should..."
+    - *Instead of:* "I reviewed the Q2 sales data, analyzed the competitive market, and spoke with three customers. Based on this, I think we should..."
     - *Do this:* "I recommend focusing on the enterprise segment for Q3 to capture a growing market and increase average deal size."
 
 - **One-Pager Rule:** Challenge yourself to condense your proposal or update onto a single page. This encourages you to eliminate unnecessary details and focus on what truly matters. Amazon's six-page narrative memos exemplify this approach, promoting concise thinking.

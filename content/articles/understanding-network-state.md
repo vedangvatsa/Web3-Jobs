@@ -41,7 +41,7 @@ This updated state is then accepted by the entire network through a [consensus m
 
 The innovation of a single, shared, and trusted state machine, which is not controlled by any single entity, underpins the blockchain concept.
 
-- **Interoperability:** This feature empowers different applications (smart contracts) to interact with each other seamlessly on a shared backend. This capability enables the "money legos" of [DeFi](/what-is-defi), allowing one protocol to build directly on another.
+- **Interoperability:** This feature allows different applications (smart contracts) to interact with each other on a shared backend. This capability enables the "money legos" of [DeFi](/what-is-defi), allowing one protocol to build directly on another.
 
 - **Trustlessness:** Users can engage with one another and with applications without relying on a central intermediary. The state of the system is secured by the cryptographic and economic integrity of the entire network.
 
@@ -135,7 +135,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 ## Challenges in Web3
 
-**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly in early-stage startups with limited runway. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve. They should negotiate base salaries in fiat currency instead of tokens and ideally join projects with established revenue models or robust treasury backing.
+**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly in early-stage startups with limited runway. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve. They should negotiate base salaries in fiat currency instead of tokens and ideally join projects with established revenue models or reliable treasury backing.
 
 **Regulatory Uncertainty:** The regulatory environment for blockchain companies is evolving across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
 
@@ -146,7 +146,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**  
-A: No. Web3 encompasses a diverse range of roles beyond engineering. Positions in marketing, community management, product design, legal, and business development are in high demand. Existing skills can transfer directly , you need to incorporate Web3 context, such as understanding wallets, DAOs, and the significance of decentralization. Hiring managers often prioritize domain expertise coupled with genuine curiosity about the space over pure blockchain knowledge.
+A: No. Web3 encompasses a diverse range of roles beyond engineering. Positions in marketing, community management, product design, legal, and business development are in high demand. Existing skills can transfer directly; you need to incorporate Web3 context, such as understanding wallets, DAOs, and the significance of decentralization. Hiring managers often prioritize domain expertise coupled with genuine curiosity about the space over pure blockchain knowledge.
 
 **Q: How much can I earn in Web3?**  
 A: Web3 compensation consistently exceeds Web2 equivalents. Base salaries typically range higher on average, with Solidity engineers and smart contract auditors commanding the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols frequently earn substantial total compensation. Even non-technical roles see substantial pay premiums compared to similar Web2 positions.

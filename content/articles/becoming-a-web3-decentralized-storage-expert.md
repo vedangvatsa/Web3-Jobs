@@ -15,7 +15,7 @@ Engineers with expertise in distributed systems and backend development can find
 
 ### Overview of Decentralized Storage Protocols
 
-Two leading protocols drive the decentralized storage domain:
+Two leading protocols drive the decentralized storage sector:
 
 | Protocol | Description | Key Features | Challenges |
 |----------|-------------|---------------|------------|
@@ -28,7 +28,7 @@ Engineers can pursue several roles in the decentralized storage sector:
 
 - **Infrastructure Engineer:** These professionals focus on enhancing the underlying protocols, improving network efficiency, security, and scalability. Proficiency in programming languages such as **Go** or **Rust** is often required, as these languages are commonly used in the development of decentralized storage systems.
 
-- **dApp Developer:** Developers in this role utilize decentralized storage networks to create robust applications. For instance, an NFT developer might store an NFT's image and metadata on IPFS or Arweave, ensuring that the information remains accessible and impervious to deletion by centralized servers.
+- **dApp Developer:** Developers in this role utilize decentralized storage networks to create reliable applications. For instance, an NFT developer might store an NFT's image and metadata on IPFS or Arweave, ensuring that the information remains accessible and impervious to deletion by centralized servers.
 
 - **Tooling and API Developer:** This role involves creating tools that facilitate the use of decentralized storage for other developers. Examples include building "pinning services" that ensure data persists on IPFS or developing indexing services to streamline data queries on Arweave.
 
@@ -44,7 +44,7 @@ Engineers can pursue several roles in the decentralized storage sector:
 
 ### Essential Skills for Success
 
-To excel as a Web3 Storage Expert, certain skills are pivotal:
+To excel as a Web3 Storage Expert, certain skills are key:
 
 - **Understanding of Distributed Systems:** A strong foundation in distributed systems is essential. Familiarity with concepts like peer-to-peer networking, data replication, and fault tolerance will provide a competitive edge.
 

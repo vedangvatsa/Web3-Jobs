@@ -50,7 +50,7 @@ Analyzing on-chain data is a valuable skill in Web3.
 
 ### 5. Backend and Infrastructure Engineering
 
-Developing complex dApps requires robust infrastructure to handle off-chain tasks. 
+Developing complex dApps requires reliable infrastructure to handle off-chain tasks. 
 
 - **APIs and Indexers:** Backend services must index blockchain data into traditional databases and serve it via APIs to the frontend.
 - **Node Operation:** Knowing how to run and maintain a blockchain node is essential for reliability.
@@ -71,8 +71,8 @@ Tokenomics involves designing a crypto-native economic system. It can be a criti
 In Web3, community is crucial. Cultivating an engaged and positive community is a core business function.
 
 - **Communication Skills:** Clear and empathetic communication on platforms like Discord and Twitter is essential.
-- **Culture Building:** Fostering a strong sense of shared identity and purpose among community members enhances engagement.
-- **Crisis Management:** Navigating difficult situations, such as market downturns or security incidents, requires a calm and transparent approach.
+- **Culture Building:** Building a strong sense of shared identity and purpose among community members enhances engagement.
+- **Crisis Management:** Managing difficult situations, such as market downturns or security incidents, requires a calm and transparent approach.
 
 ### 8. Governance and Decentralized Coordination
 
@@ -84,7 +84,7 @@ Facilitating community governance has become increasingly important as protocols
 
 ### 9. Product Management for Web3
 
-Product management in Web3 blends traditional PM skills with an understanding of the crypto landscape.
+Product management in Web3 blends traditional PM skills with an understanding of the crypto sector.
 
 - **User Empathy:** Recognizing the unique needs of Web3 users, from experienced "degens" to newcomers, is vital.
 - **Technical Literacy:** A deeper technical understanding is necessary for Web3 PMs to collaborate effectively with smart contract engineers.
@@ -105,7 +105,7 @@ Transitioning to a career in Web3 requires continuous learning and practical exp
 - **Engage with the Community:** Immerse yourself in the Web3 culture by following thought leaders on Twitter, joining Discord servers for various projects, and participating in discussions.
 - **Start Learning:** Numerous free resources exist, including Ethereum documentation, Solidity by Example, and the Bankless podcast.
 
-The demand for talent in Web3 is vast, offering unprecedented opportunities to influence the future of the internet. By mastering these ten essential skills, you can lead rather than merely participate in the decentralized revolution.
+The demand for talent in Web3 is vast, offering new opportunities to influence the future of the internet. By mastering these ten essential skills, you can lead rather than merely participate in the decentralized revolution.
 
 ## The Web3 Opportunity
 
@@ -188,7 +188,7 @@ Alex worked as a backend engineer for five years at a leading tech company. He d
 
 ### Success Story of a Product Manager in Web3
 
-Jessica, a product manager in traditional finance, leveraged her finance expertise within the DeFi space. Her understanding of financial products paired with knowledge of Web3 technology made her highly valuable. She secured a role at a leading DeFi protocol within a short period.
+Jessica, a product manager in traditional finance, used her finance expertise within the DeFi space. Her understanding of financial products paired with knowledge of Web3 technology made her highly valuable. She secured a role at a leading DeFi protocol within a short period.
 
 ### Career Change Success
 

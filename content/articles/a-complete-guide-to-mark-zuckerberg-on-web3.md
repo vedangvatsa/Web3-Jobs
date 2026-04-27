@@ -11,9 +11,9 @@ lastUpdated: "2026-04-27"
 
 ## Introduction: The Incumbent's Gambit
 
-Mark Zuckerberg, founder and CEO of Meta (previously Facebook), plays a significant role in the discussions surrounding [Web3](/what-is-web3) and the metaverse. Unlike crypto-native innovators who advocate for decentralization, Zuckerberg approaches the metaverse as a Web2 incumbent. His ambition is to shape and dominate the next computing platform, similar to what Facebook achieved in the realm of social media.
+Mark Zuckerberg, founder and CEO of Meta (previously Facebook), plays a significant role in the discussions surrounding [Web3](/what-is-web3) and the metaverse. Unlike crypto-native innovators who advocate for decentralization, Zuckerberg approaches the metaverse as a Web2 incumbent. His ambition is to shape and dominate the next computing platform, similar to what Facebook achieved in social media.
 
-This analysis examines Zuckerberg's vision for the metaverse, the rationale behind Facebook's rebranding to Meta, the company’s significant investments in virtual and augmented reality (VR/AR), and the notable differences between his centralized approach and the decentralized principles embraced by the Web3 community.
+This analysis examines Zuckerberg's vision for the metaverse, the rationale behind Facebook's rebranding to Meta, the company’s significant investments in virtual and augmented reality (VR/AR), and the notable differences between his centralized approach and the decentralized principles used by the Web3 community.
 
 ### The Pivot to Meta
 
@@ -21,7 +21,7 @@ In October 2021, Zuckerberg announced Facebook's rebranding to **Meta**. This ch
 
 Several factors motivated this rebranding:
 
-1. **The Next Computing Platform**: Zuckerberg envisions the metaverse as an immersive, 3D version of the internet, positioning it as the successor to mobile technology. He aims for Meta to control both the hardware (VR/AR headsets) and software (key platforms) of this era, reducing reliance on tech giants like Apple and Google that dominate the mobile landscape.
+1. **The Next Computing Platform**: Zuckerberg envisions the metaverse as an immersive, 3D version of the internet, positioning it as the successor to mobile technology. He aims for Meta to control both the hardware (VR/AR headsets) and software (key platforms) of this era, reducing reliance on tech giants like Apple and Google that dominate the mobile sector.
    
 2. **Escaping the Social Media Trap**: Facebook faced increasing scrutiny and criticism regarding data privacy, misinformation, and content moderation. The rebranding serves to distance Meta from its controversial social media history and reframe its identity around future technological ambitions.
 

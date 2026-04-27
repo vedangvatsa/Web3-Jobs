@@ -72,7 +72,7 @@ With some experience and a small portfolio of work, you can begin searching for 
     -   [Technical Support Specialist](/web3-customer-support-careers)
     -   Junior Content Writer
 
-The process of securing your first [Web3 job](/web3-jobs-for-beginners) requires patience and active engagement. The barriers to entry are low compared to traditional industries, and the opportunities for growth are substantial. By immersing yourself in the culture, honing a valuable skill, and creating a public portfolio of your contributions, you can successfully embark on a rewarding career in the evolving digital landscape.
+The process of securing your first [Web3 job](/web3-jobs-for-beginners) requires patience and active engagement. The barriers to entry are low compared to traditional industries, and the opportunities for growth are substantial. By immersing yourself in the culture, honing a valuable skill, and creating a public portfolio of your contributions, you can successfully embark on a rewarding career in the evolving digital field.
 
 ### The Web3 Opportunity
 
@@ -174,4 +174,4 @@ A: Historically, bear markets present the best opportunities to enter Web3. When
 - Target well-funded, established protocols with proven revenue to minimize the risks associated with market volatility. Negotiate salaries in fiat currency where possible.
 - The Web3 community is open and supportive, with ample mentorship, free educational resources, and active developer communities in major protocols. 
 
-Embarking on a career in Web3 not only positions you at the forefront of technological innovation but also allows you to engage with a vibrant and rapidly evolving community. By following this roadmap, you can effectively navigate your path into this exciting field.
+Embarking on a career in Web3 not only positions you at the forefront of technological innovation but also allows you to engage with a vibrant and rapidly evolving community. By following this roadmap, you can effectively manage your path into this exciting field.

@@ -10,15 +10,15 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-Getting promoted is a significant milestone in your career. However, when that promotion places you in a management position over your former peers, the transition can be challenging. The shift in dynamics can create discomfort as you navigate new relationships. The friend you once confided in about work issues is now your direct report. How you approach this transition can greatly influence your effectiveness as a manager and the team's overall morale.
+Getting promoted is a significant milestone in your career. However, when that promotion places you in a management position over your former peers, the transition can be challenging. The shift in dynamics can create discomfort as you manage new relationships. The friend you once confided in about work issues is now your direct report. How you approach this transition can greatly influence your effectiveness as a manager and the team's overall morale.
 
 Addressing this change directly and professionally is essential. Acknowledge that the situation has transformed and that ignoring this reality will only exacerbate any awkwardness.
 
 ### Address the Change Head-On
 
-Start your new role by having one-on-one meetings with each team member. A group setting isn’t appropriate for this conversation; instead, meet privately and, if possible, face-to-face. 
+Start your new role by having one-on-one meetings with each team member. A group setting isn’t appropriate for this conversation; instead, meet privately and, if possible, face-to-face.
 
-Acknowledge the awkwardness of the situation. You might say, "I understand this may feel strange since we were peers last week. I want to discuss how we can work together effectively." This straightforward recognition can help ease tension and foster open communication.
+Acknowledge the awkwardness of the situation. You might say, "I understand this may feel strange since we were peers last week. I want to discuss how we can work together effectively." This straightforward recognition can help ease tension and encourage open communication.
 
 Express your respect for their skills and contributions. Remind them that while you were selected for the managerial role, their expertise remains invaluable. Acknowledge that you will rely on their insights to lead the team effectively.
 
@@ -32,9 +32,9 @@ Clearly outline your expectations for the new role. Discuss how you envision tea
 
 ### Listen and Understand Their Concerns
 
-In these initial conversations, provide space for team members to express their feelings. They may feel disappointed about not receiving the promotion or worry about potential favoritism. 
+In these initial conversations, provide space for team members to express their feelings. They may feel disappointed about not receiving the promotion or worry about potential favoritism.
 
-Listen actively without becoming defensive. Your role is to understand their perspectives. You can validate their feelings without needing to provide justifications for your promotion. For instance, if someone expresses disappointment, respond by saying, "I understand why you feel that way. Your contributions to the team are significant, and I know this is tough for you." 
+Listen actively without becoming defensive. Your role is to understand their perspectives. You can validate their feelings without needing to provide justifications for your promotion. For instance, if someone expresses disappointment, respond by saying, "I understand why you feel that way. Your contributions to the team are significant, and I know this is tough for you."
 
 ### Be Fair and Consistent
 
@@ -50,7 +50,7 @@ Establish a confidential space where you can discuss challenges, solicit advice,
 
 ### Focus on the Team's Success
 
-Shift your attention from individual relationships to the overall success of the team. Your primary goal is to enhance team performance and achieve collective objectives. 
+Shift your attention from individual relationships to the overall success of the team. Your primary goal is to enhance team performance and achieve collective objectives.
 
 In meetings, take on the role of a facilitator rather than just a participant. Guide discussions, ensure all voices are heard, and drive toward actionable decisions. This shift will help redefine your relationships with your former peers and clarify your managerial role.
 
@@ -76,7 +76,7 @@ Your behavior must change first. If your team invites you to informal gatherings
 
 ### Why This Matters
 
-Understanding how to manage former peers is essential for your professional growth. Mastering this skill can lead to increased visibility and opportunities for advancement, especially in environments like [Web3](/what-is-web3). Effective communication and collaboration are critical in this space. 
+Understanding how to manage former peers is essential for your professional growth. Mastering this skill can lead to increased visibility and opportunities for advancement, especially in environments like [Web3](/what-is-web3). Effective communication and collaboration are critical in this space.
 
 ### Step-by-Step Guide
 
@@ -92,7 +92,7 @@ Understanding how to manage former peers is essential for your professional grow
 
 Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. After implementing clear strategies for managing her former peers, she saw significant improvement in team collaboration within a few months.
 
-Juan, a product manager in [DeFi](/what-is-defi), faced challenges when promoted over close colleagues. By adhering to best practices, he managed to foster a team environment that led to increased project efficiency.
+Juan, a product manager in [DeFi](/what-is-defi), faced challenges when promoted over close colleagues. By adhering to best practices, he managed to build a team environment that led to increased project efficiency.
 
 Maya, transitioning from Web2 to Web3, used these strategies to adapt quickly. Her experience demonstrates that effective management practices apply across various contexts, regardless of background.
 
@@ -106,4 +106,4 @@ Maya, transitioning from Web2 to Web3, used these strategies to adapt quickly. H
 
 ### Conclusion
 
-Transitioning from peer to manager can be a complex journey. By addressing the change openly, setting clear expectations, and maintaining fairness, you can foster a positive team environment. Focus on collective success, seek support outside your team, and be patient as relationships evolve. Ultimately, effective management of former peers not only enhances your leadership skills but also strengthens your professional relationships, paving the way for future career advancement.
+Transitioning from peer to manager can be a complex journey. By addressing the change openly, setting clear expectations, and maintaining fairness, you can build a positive team environment. Focus on collective success, seek support outside your team, and be patient as relationships evolve. Ultimately, effective management of former peers not only enhances your leadership skills but also strengthens your professional relationships, paving the way for future career advancement.

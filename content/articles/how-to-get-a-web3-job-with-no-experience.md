@@ -32,7 +32,7 @@ After immersing yourself, start constructing your public portfolio. Tailor your 
 
 #### For Aspiring Non-Technical Professionals (Marketing, Community, Operations):
 
-- **Become a Scribe:** Join a DAO or project you admire and participate in their weekly community calls. Take comprehensive notes and post a well-crafted summary in their Discord and on Twitter. This contribution can significantly enhance your visibility.
+- **Become a Scribe:** Join a DAO or project you admire and participate in their weekly community calls. Take detailed notes and post a well-crafted summary in their Discord and on Twitter. This contribution can significantly enhance your visibility.
 - **Write Explanatory Content:** Select a complex topic you’ve recently learned about, such as "What is MEV?" and create a clear, concise blog post or Twitter thread. This will highlight your communication skills and learning capability.
 - **Conduct Project Analyses:** Write a thorough analysis of a project's marketing strategy, community engagement, or product design. Share it publicly to showcase your strategic thinking.
 
@@ -60,7 +60,7 @@ With a portfolio of contributions, you can now focus on refining your resume and
 - **Include a "Web3 Contributions" Section:** This is a crucial part of your new resume. Link directly to your Twitter threads, blog posts, DAO contributions, and GitHub projects.
 - **Network by Adding Value:** Avoid direct messages solely asking for job opportunities. Engage with others’ content on Twitter, ask thoughtful questions in their Discord, and when you reach out, mention a specific contribution you made to their ecosystem.
 
-Breaking into Web3 without direct experience requires a shift in thinking. By immersing yourself in the culture, contributing proactively, and documenting your journey, you can create a robust reputation. This approach will help you secure your first role in this dynamic industry.
+Breaking into Web3 without direct experience requires a shift in thinking. By immersing yourself in the culture, contributing proactively, and documenting your journey, you can create a strong reputation. This approach will help you secure your first role in this dynamic industry.
 
 ## The Web3 Opportunity
 
@@ -91,7 +91,7 @@ Depending on your target role, you should learn specific skills:
 
 - **For Engineers:** Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **For Product Managers:** Understand token economics, governance protocols, and user growth strategies in Web3.
-- **For Business Development:** Develop skills in market analysis, partnership strategies, and navigating the regulatory landscape.
+- **For Business Development:** Develop skills in market analysis, partnership strategies, and managing the regulatory environment.
 - **For Community/Operations:** Learn about community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio
@@ -130,7 +130,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager Shift to Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. She effectively combined her understanding of financial products with Web3 technology, making her highly valuable. Within a few weeks, she secured a role at a leading DeFi protocol.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. She effectively combined her understanding of financial products with Web3 technology, making her highly valuable. Within a few weeks, she secured a role at a leading DeFi protocol.
 
 ### Career Changer Success Story
 

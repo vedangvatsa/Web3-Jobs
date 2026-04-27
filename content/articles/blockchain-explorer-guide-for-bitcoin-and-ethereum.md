@@ -18,7 +18,7 @@ For any serious [Web3](/what-is-web3) user, investor, or developer, mastering th
 
 | Blockchain | Explorer                          | Features                                    |
 |------------|-----------------------------------|---------------------------------------------|
-| Ethereum   | [Etherscan.io](https://etherscan.io) | Comprehensive features for Ethereum and EVM-compatible chains |
+| Ethereum   | [Etherscan.io](https://etherscan.io) | Detailed features for Ethereum and EVM-compatible chains |
 | Bitcoin    | [Blockchain.com Explorer](https://www.blockchain.com/explorer) | User-friendly Bitcoin transaction tracking |
 |            | [mempool.space](https://mempool.space) | Visualizes Bitcoin's mempool and pending transactions |
 
@@ -156,7 +156,7 @@ Alex worked as a backend engineer at a FAANG company for five years. He spent th
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her highly sought after. She secured a position at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her highly sought after. She secured a position at a leading DeFi protocol within a few weeks.
 
 ### Career Changer Success
 
