@@ -72,7 +72,7 @@ Continuously monitor your progress in managing your seed phrase. Are you achievi
 
 #### Example 1: Sarah's Journey in Blockchain Development
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges related to seed phrase management. After implementing structured strategies, she experienced a 50% reduction in security-related issues within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges related to seed phrase management. After implementing structured strategies, she experienced a significant reduction in security-related issues within three months.
 
 #### Example 2: Juan's Success in DeFi
 
@@ -93,7 +93,7 @@ Maya successfully transitioned from Web2 to Web3 by adopting a disciplined appro
 ### FAQ
 
 **Q: How long does it take to implement effective seed phrase management?**  
-A: Many individuals notice initial outcomes within 2 to 4 weeks of consistent implementation. Significant and measurable improvements typically manifest within 8 to 12 weeks, depending on your starting point, daily practice commitment, and active feedback seeking. Those who document their progress through metrics and peer feedback tend to advance more quickly than those who passively observe.
+A: Many individuals notice initial outcomes within a few weeks of consistent implementation. Significant and measurable improvements typically manifest within a couple of months, depending on your starting point, daily practice commitment, and active feedback seeking. Those who document their progress through metrics and peer feedback tend to advance more quickly than those who passively observe.
 
 **Q: What if my workplace does not support effective seed phrase management?**  
 A: Even in challenging environments, you can often take small, self-contained actions that do not require organizational approval. Start by establishing individual habits or personal projects. Building momentum gradually can be more effective than waiting for formal permission. Document your achievements as they unfold. If you find that your environment consistently hinders your development, consider pursuing opportunities in organizations that prioritize employee growth.

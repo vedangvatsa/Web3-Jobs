@@ -49,23 +49,23 @@ The demand for Web3 talent in Nairobi is increasing rapidly, particularly for de
 
 | Experience Level           | Local Salary (KES/month) | USD Equivalent (approx.)    |
 |----------------------------|--------------------------|------------------------------|
-| Junior Developer (0-1 year) | 150,000 - 250,000       | $1,150 - $1,920             |
-| Mid-Level Developer (1-3 years) | 250,000 - 450,000   | $1,920 - $3,460             |
-| Senior Developer (3+ years) | 450,000 - 700,000+      | $3,460 - $5,380+            |
+| Junior Developer (0-1 year) | 150,000 - 250,000       | Varies                       |
+| Mid-Level Developer (1-3 years) | 250,000 - 450,000   | Varies                       |
+| Senior Developer (3+ years) | 450,000 - 700,000+      | Varies                       |
 
 **Remote (International):**
 
-- International Web3 companies typically offer salaries ranging from $3,000 to $7,000+ per month.
-- Freelance and consulting roles can pay between $60 and $140 per hour.
+- International Web3 companies typically offer salaries that can vary significantly based on experience and role.
+- Freelance and consulting roles can pay varying hourly rates.
 
 **Real Cost of Living Example:**
 
-A developer earning $5,000 per month remotely can expect the following expenses in Nairobi:
+A developer earning a competitive salary remotely can expect the following expenses in Nairobi:
 
-- Rent in a desirable area: $600 - $900/month
-- Living expenses: $400 - $600/month
-- Total monthly expenses: $1,000 - $1,500
-- Potential savings: 70-80% of income
+- Rent in a desirable area: Varies based on location
+- Living expenses: Varies based on lifestyle
+- Total monthly expenses: Varies based on individual circumstances
+- Potential savings: Varies based on income and expenses
 
 ### Career Paths: Detailed Roadmaps
 
@@ -84,13 +84,13 @@ A developer earning $5,000 per month remotely can expect the following expenses 
 - Time commitment: 25-35 hours/week.
 
 **Months 7-9: Market Entry**
-- Begin freelancing, earning between $2,000 and $3,500/month.
+- Begin freelancing, earning competitive rates.
 - Build a minimum viable product (MVP) with real Nairobi users.
 - Network with local startups.
 
 **Months 10-14: Full-Time Remote Role**
 - Secure a developer position at a major DeFi or fintech project.
-- Target salary: $3,500 - $5,500+/month.
+- Target salary: Competitive based on experience.
 
 **Path 2: Social Impact & ReFi Strategist (10-16 months)**
 
@@ -103,53 +103,53 @@ A developer earning $5,000 per month remotely can expect the following expenses 
 
 **Months 5-8: Strategic Positioning**
 - Publish thought leadership articles on Web3 for development.
-- Build a Twitter presence (aim for 2,000+ followers).
+- Build a Twitter presence.
 - Secure speaking engagements at relevant conferences.
-- Network with organizations like the World Bank and Gates Foundation.
+- Network with organizations focused on development.
 - Time commitment: 20-25 hours/week.
 
 **Months 9-12: Funding & Partnerships**
-- Apply for impact-focused grants from entities like Polygon and the World Bank.
+- Apply for impact-focused grants from various entities.
 - Pitch to development finance institutions.
-- Expected funding: between $30,000 and $100,000.
+- Expected funding: Varies based on project scope.
 
 **Months 13-16: Impact Leadership**
 - Lead initiatives focused on blockchain for social impact.
-- Expected salary: $4,000 - $7,000+/month.
+- Expected salary: Competitive based on experience.
 
 **Path 3: Ecosystem & Community Builder (6-12 months)**
 
 **Months 1-2: Strategy & Planning**
 - Choose a focus area: mobile-first, ReFi, or social impact.
 - Create a content calendar for articles and social media.
-- Set up profiles on Medium, Twitter, YouTube, Discord, and LinkedIn.
+- Set up profiles on various platforms.
 - Time commitment: 10-12 hours/week.
 
 **Months 3-6: Audience & Community Building**
 - Publish weekly content on Web3 opportunities in East Africa.
 - Initiate a Nairobi Web3 meetup and expand the local community.
-- Partner with iHub and local universities.
-- Aim for 2,000+ Twitter followers and 150+ local community members.
+- Partner with local organizations.
+- Aim for a growing social media presence and community engagement.
 - Time commitment: 15-20 hours/week.
 
 **Months 7-9: Monetization & Opportunities**
 - Launch educational courses or premium community initiatives.
 - Find employment as a community manager or ecosystem lead.
-- Expected salary: $1,500 - $2,500/month.
+- Expected salary: Competitive based on experience.
 
 **Months 10-12: Scale & Leadership**
 - Establish yourself as a key voice in East Africa's Web3 scene.
 - Lead regional initiatives to further Web3 adoption.
-- Expected salary: $2,500 - $4,500/month.
+- Expected salary: Competitive based on experience.
 
 ### Challenges and Strategic Solutions
 
 **Challenge: M-Pesa Dominance**
-- Over 90% of Kenyans use M-Pesa, making it a deeply entrenched service.
+- A significant portion of Kenyans use M-Pesa, making it a deeply entrenched service.
 - Solution: Rather than competing, integrate with M-Pesa and create complementary services focusing on unmet needs.
 
 **Challenge: Mobile Internet Quality**
-- Nairobi offers typical speeds of 15-30 Mbps, which may be slower in rural areas.
+- Nairobi offers typical speeds that may vary, which may be slower in rural areas.
 - Solution: Utilize tech hubs in the Central Business District (CBD) with excellent connectivity. Optimize applications for varying internet speeds and test with users.
 
 **Challenge: Competition for Talent**
@@ -166,7 +166,7 @@ A developer earning $5,000 per month remotely can expect the following expenses 
 
 **Days 11-30:** Focus on foundational skills through courses and begin your first project or article.
 
-**Days 31-60:** Build momentum by completing a second project, gaining 500 followers, securing one mentor, and connecting with startups.
+**Days 31-60:** Build momentum by completing a second project, gaining followers, securing one mentor, and connecting with startups.
 
 **Days 61-90:** Achieve traction by landing your first freelance contract, startup role, or community partnership.
 
@@ -178,8 +178,8 @@ Nairobi benefits from the legacy of M-Pesa, which fosters a strong fintech under
 **Should I focus on Nairobi or consider remote work?**  
 Building relationships and gaining insights in Nairobi offers valuable ground truth. A combination of local experience and remote work can maximize your income potential.
 
-**Can I realistically earn $4,000+/month?**  
-Yes, skilled professionals can earn between $3,500 and $7,000 remotely or command salaries of $4,000 to $6,000+ in senior local roles. This can be achieved within a timeline of 9-13 months.
+**Can I realistically earn a competitive salary?**  
+Yes, skilled professionals can earn competitive salaries in both remote and local roles. This can be achieved within a timeline of 9-13 months.
 
 **Is working on ReFi in Kenya feasible?**  
 Yes, significant needs exist in areas such as support for smallholder farmers, climate change, and conservation. There are funding opportunities, making this a viable market.
@@ -188,7 +188,7 @@ Yes, significant needs exist in areas such as support for smallholder farmers, c
 Start with a proof-of-concept that demonstrates how blockchain addresses specific problems, such as aid distribution or land rights. Use this to pitch your ideas effectively.
 
 **What about diaspora remittances?**  
-Kenyans abroad send over $8 billion annually to their home country. Leveraging crypto could significantly lower transaction costs from 5-10% to just 1-2%. The first solution to effectively address this challenge stands to gain a considerable market advantage.
+Kenyans abroad send significant amounts annually to their home country. Leveraging crypto could significantly lower transaction costs. The first solution to effectively address this challenge stands to gain a considerable market advantage.
 
 **Should I prioritize Solidity or mobile development?**  
 Begin with React Native, as it presents more job opportunities in Nairobi. Learn Solidity after acquiring foundational skills in mobile development.
@@ -199,11 +199,11 @@ Visit iHub in the Nairobi CBD to attend events and participate in bootcamps. The
 **Is there venture capital available for startups?**  
 Yes, Nairobi has more venture capital available compared to other parts of East Africa. If you develop a compelling product with traction, funding opportunities will arise.
 
-**What’s the timeline to achieve a salary of $2,500/month?**  
-Anticipate a timeline of 8-12 months. This includes 3-4 months for learning, followed by 2-3 months of freelancing ($1,000-$2,000 monthly), and an additional 2-3 months for a full-time role ($2,500+).
+**What’s the timeline to achieve a competitive salary?**  
+Anticipate a timeline of 8-12 months. This includes 3-4 months for learning, followed by 2-3 months of freelancing, and an additional 2-3 months for a full-time role.
 
 **Should I relocate to Nairobi or start working remotely?**  
-Remote work is a viable option. However, residing in Nairobi for 3-6 months can enhance your network and understanding of the local market, which can be beneficial regardless of your eventual choice.
+Remote work is a viable option. However, residing in Nairobi for a period can enhance your network and understanding of the local market, which can be beneficial regardless of your eventual choice.
 
 ### Conclusion
 

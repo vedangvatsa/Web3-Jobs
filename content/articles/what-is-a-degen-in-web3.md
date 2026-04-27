@@ -48,15 +48,15 @@ Degens engage in various activities that exemplify their high-risk approach:
 
 ### Yield Farming
 
-Degens supply liquidity to new DeFi protocols that promise exceptionally high yields. These yields, often unsustainable, are designed to attract early liquidity. For instance, a degen might provide liquidity to a new decentralized exchange (DEX) offering a staggering 10,000% APY, fully aware that the yield may plummet shortly after.
+Degens supply liquidity to new DeFi protocols that promise exceptionally high yields. These yields, often unsustainable, are designed to attract early liquidity. For instance, a degen might provide liquidity to a new decentralized exchange (DEX) offering an exceptionally high APY, fully aware that the yield may plummet shortly after.
 
 ### Leverage Trading
 
-Degens frequently trade on margin, employing leverage to amplify their positions. For example, they might take a 10x leveraged position on a token they anticipate will appreciate in value. If successful, the returns can be remarkable. However, if the market moves against them, they face immediate liquidation.
+Degens frequently trade on margin, employing leverage to amplify their positions. For example, they might take a leveraged position on a token they anticipate will appreciate in value. If successful, the returns can be remarkable. However, if the market moves against them, they face immediate liquidation.
 
 ### Aping Into New Tokens
 
-When a new token launches, degens are usually among the first buyers. This phenomenon, known as "aping in," involves making substantial investments in nascent, untested projects, often with hopes of achieving 100x returns. While most of these projects fail, a select few can yield extraordinary profits.
+When a new token launches, degens are usually among the first buyers. This phenomenon, known as "aping in," involves making substantial investments in nascent, untested projects, often with hopes of achieving significant returns. While most of these projects fail, a select few can yield extraordinary profits.
 
 ### Complex DeFi Strategies
 
@@ -64,7 +64,7 @@ Degens often devise intricate, multi-step trading strategies to exploit temporar
 
 ### NFT Speculation
 
-Degens actively participate in the NFT market, purchasing tokens from lesser-known projects in hopes of discovering the next big success story, akin to the Bored Ape Yacht Club. While most NFTs may lose value, a handful can become highly valuable.
+Degens actively participate in the NFT market, purchasing tokens from lesser-known projects in hopes of discovering the next big success story, akin to well-known NFT collections. While most NFTs may lose value, a handful can become highly valuable.
 
 ### Governance Gaming
 
@@ -83,11 +83,11 @@ Degens engage in [DAO](/what-is-a-dao) governance, not out of ideological commit
 
 The degen approach entails significant risks, with the majority of degens ultimately losing money.
 
-**Total Loss**: Many degen activities can result in complete capital loss. New protocols may contain smart contract vulnerabilities, token projects can be fraudulent, and yield farms can collapse. Degens might find themselves losing 100% of their investment.
+**Total Loss**: Many degen activities can result in complete capital loss. New protocols may contain smart contract vulnerabilities, token projects can be fraudulent, and yield farms can collapse. Degens might find themselves losing all of their investment.
 
 **Psychological Toll**: The emotional strain of engaging in degen activities is profound. Constantly monitoring prices, making swift decisions, and experiencing dramatic wins or losses can create significant stress, often leading to poor decision-making.
 
-**Leverage Risks**: Trading with leverage magnifies both gains and losses. For example, a 10x leveraged position that declines by 10% results in a total loss of the initial capital. Liquidation occurs instantly, leaving no room for strategic adjustments.
+**Leverage Risks**: Trading with leverage magnifies both gains and losses. For example, a leveraged position that declines can result in a total loss of the initial capital. Liquidation occurs instantly, leaving no room for strategic adjustments.
 
 **Scams and Rug Pulls**: New projects can sometimes be designed to defraud users. Developers may abscond with funds, or they may lack the expertise to deliver on their promises. Degens, as early adopters of untested projects, are especially vulnerable.
 
@@ -113,7 +113,7 @@ Despite the inherent risks, degens play crucial roles in the Web3 ecosystem.
 
 While the degen archetype holds significant cultural weight in the crypto community, the reality is often more sobering.
 
-**Survivorship Bias**: The stories of degens who achieve 100x returns are prominently featured, overshadowing the countless individuals who lose everything. The visible success stories often mask the silent failures.
+**Survivorship Bias**: The stories of degens who achieve significant returns are prominently featured, overshadowing the countless individuals who lose everything. The visible success stories often mask the silent failures.
 
 **Negative Expected Value**: Most degens operate with negative expected value on their trades. While they may believe they possess superior skills, the reality is that many degens struggle to achieve consistent profitability. The distribution of returns often reveals a small number of significant winners against a backdrop of many losses.
 

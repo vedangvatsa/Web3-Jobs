@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 A [smart contract](/what-are-smart-contracts) audit entails a detailed evaluation of a [blockchain](/what-is-a-blockchain) project's smart contract code. The main goal is to identify security vulnerabilities, design flaws, and economic exploits before the code goes live, where it will interact with actual user funds. This process resembles an extensive inspection by ethical hackers attempting to find weaknesses in a controlled environment, preventing malicious actors from exploiting them in the real world.
 
-In decentralized finance ([DeFi](/what-is-defi)), where protocols can handle billions of dollars, audits become essential for building trust and credibility. A single vulnerability can result in significant financial losses, as shown by numerous high-profile hacks. The audit process delivers independent validation, ensuring that the code operates as intended and remains free from various attack vectors.
+In decentralized finance ([DeFi](/what-is-defi)), where protocols can handle significant value, audits become essential for building trust and credibility. A single vulnerability can result in significant financial losses, as shown by numerous high-profile hacks. The audit process delivers independent validation, ensuring that the code operates as intended and remains free from various attack vectors.
 
 Auditing is not limited to automated scanning. While tools like Slither play a vital role, effective audits depend heavily on manual reviews conducted by experienced security researchers. These professionals adopt an adversarial perspective, continuously asking how they could exploit functions or break economic assumptions.
 
@@ -58,7 +58,7 @@ A: No. A thorough audit significantly lowers the risk of vulnerabilities but nev
 
 **Q: How much does a smart contract audit cost?**
 
-A: Costs vary based on codebase complexity and length. A simple [token](/what-is-a-token) contract may cost a few thousand dollars, while a sophisticated DeFi protocol could range from $50,000 to over $500,000 for an evaluation by a top-tier firm.
+A: Costs vary based on codebase complexity and length. A simple [token](/what-is-a-token) contract may cost a few thousand dollars, while a sophisticated DeFi protocol could range significantly for an evaluation by a top-tier firm.
 
 **Q: What is the difference between a manual audit and a bug bounty program?**
 

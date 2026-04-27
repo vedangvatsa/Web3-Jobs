@@ -48,11 +48,11 @@ Successful Web3 projects use specific channels and tactics.
 
 **YouTube**: Educational content performs well. Explainers, tutorials, and deep-dives on how to use projects resonate. Authentic personalities build audiences.
 
-**Newsletters**: Email newsletters building audiences directly. Substack and Mirror are popular for crypto writers. Building an email audience creates direct relationship with followers.
+**Newsletters**: Email newsletters build audiences directly. Substack and Mirror are popular for crypto writers. Building an email audience creates a direct relationship with followers.
 
 **Forums and blogs**: Community forums let members discuss. Project blogs with technical updates and insights build authority.
 
-**Podcasts**: Audio content is growing. Crypto podcasts reach audiences during commute and workout. Hosting and guesting on podcasts builds awareness.
+**Podcasts**: Audio content is growing. Crypto podcasts reach audiences during commutes and workouts. Hosting and guesting on podcasts builds awareness.
 
 **Events**: Virtual and in-person events create connection. Conferences, meetups, and virtual events help build community.
 
@@ -62,11 +62,11 @@ Successful Web3 projects use specific channels and tactics.
 
 Effective strategies in Web3 differ from traditional approaches.
 
-**Community first**: Build engaged community before rapid growth. Engage deeply with early adopters. Their advocacy becomes marketing. Community quality matters more than size.
+**Community first**: Build an engaged community before rapid growth. Engage deeply with early adopters. Their advocacy becomes marketing. Community quality matters more than size.
 
 **Authentic transparency**: Share openly about roadmap, challenges, and decisions. Transparency builds trust. Hiding problems breeds distrust.
 
-**Educational content**: Help audience understand your project and the broader space. Clear education removes barriers to adoption.
+**Educational content**: Help the audience understand your project and the broader space. Clear education removes barriers to adoption.
 
 **Influencer partnerships**: Work with respected voices in the space. Authentic endorsements matter. Paid promotions are ineffective and damage credibility.
 
@@ -104,7 +104,7 @@ Mistakes damage credibility faster in Web3 than traditional spaces.
 
 **Lack of transparency**: Hiding team identity, funding, or roadmap details breeds distrust. Transparency builds credibility.
 
-**Going quiet**: Disappearing from community or not communicating updates damages engagement. Regular communication matters.
+**Going quiet**: Disappearing from the community or not communicating updates damages engagement. Regular communication matters.
 
 ## Metrics That Matter in Web3 Marketing
 
@@ -120,7 +120,7 @@ Traditional marketing metrics don't apply. Focus on these instead.
 
 **Conversion metrics**: Do community members actually use the product? Buy tokens? Participate in governance? Usage indicates real engagement.
 
-**Sentiment analysis**: What's the overall sentiment in community? Positive sentiment indicates health. Negative sentiment indicates problems.
+**Sentiment analysis**: What's the overall sentiment in the community? Positive sentiment indicates health. Negative sentiment indicates problems.
 
 **Authority and credibility**: Is the project respected? Do experts reference your work? Credibility drives adoption.
 
@@ -130,55 +130,55 @@ Traditional marketing metrics don't apply. Focus on these instead.
 
 Several career paths exist in Web3 marketing.
 
-**Community managers** build and manage Discord, Telegram, Reddit communities. They moderate, engage, and coordinate community activities.
+**Community managers** build and manage Discord, Telegram, and Reddit communities. They moderate, engage, and coordinate community activities.
 
 Qualifications: Communication skills, understanding of crypto, comfort with online communities, conflict resolution.
 
-Compensation: $50K-$150K depending on community size and seniority.
+Compensation: Varies based on community size and seniority.
 
 **Growth marketers** focus on user acquisition and retention. They test strategies, measure results, and optimize for growth.
 
 Qualifications: Marketing background, data analysis, understanding of crypto communities, creativity.
 
-Compensation: $80K-$200K depending on success and experience.
+Compensation: Varies based on success and experience.
 
 **Content marketers** create blogs, articles, videos, and educational content. They build authority and help users understand the project.
 
 Qualifications: Writing skills, understanding of technical topics, ability to explain complex ideas simply.
 
-Compensation: $60K-$150K depending on specialization and experience.
+Compensation: Varies based on specialization and experience.
 
 **Social media managers** manage Twitter, Discord, and other social channels. They create engaging content and build community.
 
 Qualifications: Social media experience, understanding of crypto culture, creativity, authenticity.
 
-Compensation: $50K-$130K depending on experience.
+Compensation: Varies based on experience.
 
-**PR and communications specialists** manage external communications, press, and relationships. They shape narrative around the project.
+**PR and communications specialists** manage external communications, press, and relationships. They shape the narrative around the project.
 
 Qualifications: PR background, communication skills, understanding of crypto, relationships with media.
 
-Compensation: $80K-$180K depending on experience.
+Compensation: Varies based on experience.
 
 **Product marketers** understand the product deeply and communicate its value. They position the product and explain why people should use it.
 
 Qualifications: Product background, technical understanding, ability to position and communicate value.
 
-Compensation: $100K-$200K depending on experience.
+Compensation: Varies based on experience.
 
 **Partnership and business development**: Identify and execute partnerships with other projects and companies.
 
 Qualifications: Business development experience, relationships, negotiation skills.
 
-Compensation: $100K-$220K depending on experience and success.
+Compensation: Varies based on experience and success.
 
 ## How to Break Into Web3 Marketing
 
-If you have marketing background and want to transition to Web3:
+If you have a marketing background and want to transition to Web3:
 
 **Step 1: Build crypto knowledge**
 
-Understand the space. Learn basics of [blockchain](/what-is-a-blockchain), [DeFi](/what-is-defi), Web3. This takes 2-4 weeks.
+Understand the space. Learn the basics of [blockchain](/what-is-a-blockchain), [DeFi](/what-is-defi), and Web3. This takes a few weeks.
 
 Resources: CoinDesk, The Block, Bankless podcast, YouTube crypto channels, whitepapers.
 
@@ -190,7 +190,7 @@ Join Discord servers. Follow Twitter. Read Reddit. Comment and engage authentica
 
 **Step 3: Create a [portfolio](/building-web3-portfolio)**
 
-Build content demonstrating marketing skills in crypto context.
+Build content demonstrating marketing skills in a crypto context.
 
 - Write blog posts about crypto topics
 - Create videos explaining Web3 concepts
@@ -225,4 +225,4 @@ For marketers, Web3 offers opportunity. The space is growing. Marketing talent i
 
 Web3 marketing is different from traditional marketing. It requires authenticity, community building, transparency, and understanding of crypto culture. Traditional marketing tactics often don't work. New approaches tailored to Web3 are necessary.
 
-If you have marketing background and understand crypto culture, Web3 marketing is a great opportunity. The space is early, the talent is scarce, and the compensation is strong. Building marketing careers in Web3 is achievable and rewarding.
+If you have a marketing background and understand crypto culture, Web3 marketing is a great opportunity. The space is early, the talent is scarce, and compensation is strong. Building marketing careers in Web3 is achievable and rewarding.

@@ -46,7 +46,7 @@ While 3D printing will not entirely replace conventional manufacturing, it serve
 ### Frequently Asked Questions (FAQs)
 
 **1. Is 3D printing expensive?**  
-The cost varies significantly based on the technology and intended use. Entry-level FDM printers for home use can be acquired for a few hundred dollars. In contrast, industrial machines, particularly those designed for metal printing, can range from hundreds of thousands to millions of dollars. Material costs also vary, from inexpensive plastic filaments to premium metal powders.
+The cost varies significantly based on the technology and intended use. Entry-level FDM printers for home use can be acquired at relatively low prices. In contrast, industrial machines, particularly those designed for metal printing, can be quite expensive. Material costs also vary, from inexpensive plastic filaments to premium metal powders.
 
 **2. What materials are suitable for 3D printing?**  
 A diverse array of materials is available for 3D printing, and the options continue to expand. Common materials include plastics like PLA and ABS. Additionally, 3D printers can work with resins, nylon, metals (such as titanium and aluminum), carbon fiber composites, and even unconventional materials like wood-infused filament, ceramics, and food products.

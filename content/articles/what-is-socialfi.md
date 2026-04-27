@@ -32,7 +32,7 @@ SocialFi platforms integrate social networking functionalities with financial co
 
 SocialFi signifies a notable transformation in the relationship between creators, their audiences, and the platforms they utilize.
 
-**Creator economics evolve** when creators earn directly from their audience. For example, a creator with 100,000 fans who spend an average of $10 on their token or NFT generates $1 million in revenue. In comparison, a YouTube creator with the same number of subscribers typically earns between $10,000 and $30,000 annually from ad revenue. The financial potential for creators using SocialFi platforms is significantly greater.
+**Creator economics evolve** when creators earn directly from their audience. For example, a creator with a substantial number of fans who spend an average amount on their token or NFT can generate significant revenue. In comparison, a YouTube creator with the same number of subscribers typically earns a fraction of that from ad revenue. The financial potential for creators using SocialFi platforms is significantly greater.
 
 **Platform power dynamics shift** as creators gain ownership of their audience. On platforms like Instagram or TikTok, the platform controls the relationship with users. It can alter algorithms, adjust monetization policies, or ban creators without notice. In SocialFi, creators maintain ownership of their tokens and the community, enhancing their independence.
 
@@ -44,7 +44,7 @@ SocialFi signifies a notable transformation in the relationship between creators
 
 Several pioneering projects are constructing SocialFi platforms and tools.
 
-**Friend.tech** operates on Base and allows users to mint tokens representing their social profiles. Users can buy and sell "keys" to other people's accounts, establishing a financial marketplace centered on social influence. Highly engaged followers have paid thousands for a single key to a popular account.
+**Friend.tech** operates on Base and allows users to mint tokens representing their social profiles. Users can buy and sell "keys" to other people's accounts, establishing a financial marketplace centered on social influence. Highly engaged followers have paid significant amounts for a single key to a popular account.
 
 **Lens Protocol** is a decentralized social media protocol enabling users to own their content and followers. Instead of using Lens merely as a platform, creators can monetize directly through it. Lens provides the necessary infrastructure.
 

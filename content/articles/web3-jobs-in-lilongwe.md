@@ -17,9 +17,9 @@ The burgeoning Web3 landscape in Lilongwe emphasizes real-world applications, pa
 
 The future of the Web3 ecosystem in Lilongwe will likely reflect Malawi's unique economic and social circumstances.
 
-- **AgriTech Opportunities:** Agriculture employs over 40% of the population and remains the dominant economic sector. Blockchain technology can enhance supply chain transparency for vital exports such as tobacco and tea. It can also facilitate better financing options for smallholder farmers and create efficient agricultural markets.
+- **AgriTech Opportunities:** Agriculture employs a significant portion of the population and remains the dominant economic sector. Blockchain technology can enhance supply chain transparency for vital exports such as tobacco and tea. It can also facilitate better financing options for smallholder farmers and create efficient agricultural markets.
   
-- **Financial Inclusion Initiatives:** With approximately 80% of Malawians lacking access to traditional banking, there is a vast potential for mobile-first [DeFi](/what-is-defi) and stablecoin solutions. Blockchain can deliver essential financial services, including savings, credit, and insurance, to underserved rural communities.
+- **Financial Inclusion Initiatives:** With a large percentage of Malawians lacking access to traditional banking, there is vast potential for mobile-first [DeFi](/what-is-defi) and stablecoin solutions. Blockchain can deliver essential financial services, including savings, credit, and insurance, to underserved rural communities.
 
 - **Youthful Tech Community:** Lilongwe boasts several tech hubs and innovation centers that cultivate a new generation of technology professionals. These hubs serve as focal points for the grassroots Web3 community, hosting workshops and meetups to share knowledge and skills.
 
@@ -29,9 +29,9 @@ The future of the Web3 ecosystem in Lilongwe will likely reflect Malawi's unique
 
 Currently, the formal Web3 job market in Lilongwe is limited. Aspiring professionals should aim to develop globally competitive skills and pursue [remote work](/remote-work-in-web3) opportunities with international Web3 companies.
 
-| Role | Description | Salary Range (USD/Month) |
+| Role | Description | Salary Range |
 |------|-------------|---------------------------|
-| Remote Full-Stack / Mobile Developer | Developers skilled in mobile app creation with blockchain integration are well-positioned for high-paying remote roles. | $3,500 - $7,000+ |
+| Remote Full-Stack / Mobile Developer | Developers skilled in mobile app creation with blockchain integration are well-positioned for high-paying remote roles. | Varies |
 | AgriTech / FinTech Product Manager | Understanding the agricultural challenges in Malawi and the potential of Web3 can lead to valuable consulting roles or startups. | Varies |
 | Community Educator (Chichewa/English) | Local leaders are needed to educate communities about Web3 in their own language, driving adoption and reducing scams. | Varies |
 
@@ -51,25 +51,25 @@ Understanding the salary landscape and cost of living is essential for professio
 
 **Developer Compensation:**
 
-| Position | Local Salary (MWK/Month) | Equivalent USD/Month |
+| Position | Local Salary | Equivalent USD |
 |----------|--------------------------|-----------------------|
-| Junior Developer (0-1 year) | 150,000 - 250,000 | $900 - $1,500 |
-| Mid-Level Developer (1-3 years) | 250,000 - 450,000 | $1,500 - $2,700 |
-| Senior Developer (3+ years) | 450,000 - 700,000+ | $2,700 - $4,200+ |
+| Junior Developer (0-1 year) | Varies | Varies |
+| Mid-Level Developer (1-3 years) | Varies | Varies |
+| Senior Developer (3+ years) | Varies | Varies |
 
 **Remote (International):**
 
-- Compensation from international Web3 companies ranges from $2,500 to over $6,000 per month.
-- Freelance rates typically fall between $50 and $120 per hour.
+- Compensation from international Web3 companies varies widely.
+- Freelance rates typically fall within a broad range.
 
 **Cost of Living Analysis for Remote Workers:**
 
-For a developer earning $4,000 per month remotely:
+For a developer earning a competitive salary remotely:
 
-- Rent in a desirable area: $250 - $400
-- Living expenses: $200 - $350
-- Total monthly expenses: $450 - $750
-- Potential savings: 81% - 89% of income
+- Rent in a desirable area: Varies
+- Living expenses: Varies
+- Total monthly expenses: Varies
+- Potential savings: Significant percentage of income
 
 ### Career Pathways: Roadmaps for Success
 
@@ -132,7 +132,7 @@ For a developer earning $4,000 per month remotely:
 - **Solution:** Initiate educational programs; propose low-cost pilot projects and clearly demonstrate potential returns on investment.
 
 **Challenge: Internet Connectivity**
-- Average internet speeds in Lilongwe range from 4 to 12 Mbps, with rural areas significantly slower.
+- Average internet speeds in Lilongwe can be variable, with rural areas significantly slower.
 - **Solution:** Utilize tech hubs with better connectivity; develop applications that function efficiently under low bandwidth conditions.
 
 **Challenge: Limited Financial Infrastructure**
@@ -141,7 +141,7 @@ For a developer earning $4,000 per month remotely:
 
 **Challenge: Currency Instability**
 - The Malawi Kwacha (MWK) often faces devaluation.
-- **Solution:** Negotiate remote salaries in USD or stablecoins and maintain a cryptocurrency emergency fund.
+- **Solution:** Negotiate remote salaries in stable currencies and maintain a cryptocurrency emergency fund.
 
 ### Action Plan for the First 90 Days
 
@@ -149,20 +149,20 @@ For a developer earning $4,000 per month remotely:
 
 **Days 11-30:** Build a solid foundation through courses and your first project or article.
 
-**Days 31-60:** Network by connecting with farmers and NGOs, aiming for 300 followers on social media.
+**Days 31-60:** Network by connecting with farmers and NGOs, aiming for a growing social media presence.
 
-**Days 61-90:** Gain traction by securing your first contract, partnership, or achieving 500 followers.
+**Days 61-90:** Gain traction by securing your first contract, partnership, or achieving a notable social media following.
 
 ### FAQs
 
 **What makes Lilongwe unique in the Web3 space?**
-Lilongwe features a predominantly agriculture-based economy, with over 80% of the population unbanked. This creates substantial opportunities in AgriTech and DeFi.
+Lilongwe features a predominantly agriculture-based economy, with a large percentage of the population unbanked. This creates substantial opportunities in AgriTech and DeFi.
 
 **How can I engage with farming communities effectively?**
 Begin by reaching out to cooperatives and agricultural extension services, proposing targeted solutions for their challenges such as financing and market access.
 
-**Is it realistic to earn over $2,500 per month?**
-Yes, with a dedicated focus on learning and building skills, professionals can achieve this income within 8 to 12 months.
+**Is it realistic to earn a competitive salary?**
+Yes, with a dedicated focus on learning and building skills, professionals can achieve this income within a reasonable timeframe.
 
 **Should I prioritize local opportunities or remote jobs?**
 Develop skills for the remote job market while utilizing Lilongwe's lower cost of living as a base to maximize earnings.
@@ -171,7 +171,7 @@ Develop skills for the remote job market while utilizing Lilongwe's lower cost o
 Yes, with critical issues like climate change and deforestation, there is a global push for funding ReFi projects, making it viable in Malawi.
 
 **What is the expected timeline to secure a paying gig?**
-Most individuals can anticipate a timeline of 4 to 5 months of learning and building before landing their first freelance contract.
+Most individuals can anticipate a timeline of several months of learning and building before landing their first freelance contract.
 
 **What about opportunities with international NGOs?**
 International organizations such as the World Bank and USAID are active in Lilongwe. Presenting a proof-of-concept can help secure contracts.

@@ -84,8 +84,8 @@ Track your progress over time. If you are not achieving desired results, modify 
 
 | Name   | Role                     | Challenge Faced            | Solution Implemented                                      | Outcome                         |
 |--------|--------------------------|----------------------------|----------------------------------------------------------|---------------------------------|
-| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project timelines | Implemented structured project management techniques | Completed projects 30% faster  |
-| Juan   | Product Manager in [DeFi](/what-is-defi) | Faced user engagement issues | Used drone delivery data to refine product features     | Increased user engagement by 25%|
+| Sarah  | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with project timelines | Implemented structured project management techniques | Completed projects more efficiently  |
+| Juan   | Product Manager in [DeFi](/what-is-defi) | Faced user engagement issues | Used drone delivery data to refine product features     | Increased user engagement significantly |
 | Maya   | Transitioning from Web2 to Web3 | Difficulty adapting to new tech | Engaged in hands-on drone workshops                     | Gained confidence and expertise |
 
 ### Common Mistakes to Avoid

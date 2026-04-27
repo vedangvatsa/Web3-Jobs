@@ -32,8 +32,8 @@ The Web3 job market in Luanda is still limited, with opportunities primarily for
 
 | Role                                          | Salary Range (AOA/Month)         | Salary Range (USD/Month)       |
 |-----------------------------------------------|----------------------------------|--------------------------------|
-| Backend/FinTech Developer (Local)             | 800,000 - 1,500,000+             | 1,500 - 3,000+                 |
-| Backend/FinTech Developer (Remote)            | Varies significantly              | 2,500 - 8,000+                 |
+| Backend/FinTech Developer (Local)             | Competitive                      | Competitive                    |
+| Backend/FinTech Developer (Remote)            | Varies significantly              | Competitive                    |
 | Community Educators and Organizers            | Voluntary/Grant-funded            | N/A                            |
 | Business Development (Enterprise Focus)       | Negotiable                       | N/A                            |
 
@@ -61,20 +61,20 @@ The Web3 job market in Luanda is still limited, with opportunities primarily for
 
 | Role                                          | Salary Range (AOA/Month)        | Salary Range (USD/Month)       |
 |-----------------------------------------------|---------------------------------|--------------------------------|
-| Junior [Blockchain Developer](/how-to-become-a-blockchain-developer) | 1,000,000–2,000,000            | 1,200–2,400                    |
-| Community Manager (Crypto Education)         | 500,000–1,000,000               | 600–1,200                      |
-| Tech Consultant (FinTech Background)         | 1,500,000–3,000,000             | 1,800–3,600                    |
+| Junior [Blockchain Developer](/how-to-become-a-blockchain-developer) | Competitive                      | Competitive                    |
+| Community Manager (Crypto Education)         | Competitive                      | Competitive                    |
+| Tech Consultant (FinTech Background)         | Competitive                      | Competitive                    |
 
 #### Remote Opportunities
 
 | Role                                          | Salary Range (USD/Month)       |
 |-----------------------------------------------|--------------------------------|
-| Mid-Level Developer                           | 2,500–4,500                    |
-| Senior Developer                              | 4,500–8,000+                   |
-| FinTech/Product Manager                       | 3,000–6,000                    |
-| Community Lead                                | 1,500–3,500                    |
+| Mid-Level Developer                           | Competitive                    |
+| Senior Developer                              | Competitive                    |
+| FinTech/Product Manager                       | Competitive                    |
+| Community Lead                                | Competitive                    |
 
-The cost of living in Luanda is among the highest in Africa, with estimates of $1,200–$1,800 per month. However, a remote salary of $3,500 allows for substantial savings, ranging from 57% to 71% compared to many developed countries.
+The cost of living in Luanda is among the highest in Africa, with estimates of significant monthly expenses. However, a remote salary allows for substantial savings compared to many developed countries.
 
 ### Pathways to Earning Over $5,000/Month in Luanda
 
@@ -98,7 +98,7 @@ The cost of living in Luanda is among the highest in Africa, with estimates of $
 **Months 10-14: Secure an Enterprise Role**
 - Apply to FinTech firms entering Angola and enterprise blockchain projects.
 - Expect interviews and potential job offers.
-- **Expected Compensation:** $4,000–$6,500/month.
+- **Expected Compensation:** Competitive.
 
 **Months 15-16: Scale Your Impact**
 - Position yourself as a leading FinTech expert in Angola, opening opportunities for consulting or senior roles.
@@ -118,7 +118,7 @@ The cost of living in Luanda is among the highest in Africa, with estimates of $
 **Months 8-11: Network and Pitch Solutions**
 - Connect with local businesses and international supply chain stakeholders.
 - Pitch blockchain solutions to companies, aiming for pilot projects.
-- **Expected Transition:** Secure a full-time role with compensation of $5,000–$8,000/month.
+- **Expected Transition:** Secure a full-time role with competitive compensation.
 
 #### Path 3: Community Leader & Web3 Advocate (6-12 Month Timeline)
 
@@ -129,17 +129,17 @@ The cost of living in Luanda is among the highest in Africa, with estimates of $
 
 **Months 4-6: Monetize Your Influence**
 - Collaborate with protocols seeking Portuguese-speaking community managers or grant recipients.
-- Expect initial offers ranging from $1,500–$2,500/month.
+- Expect initial offers of competitive compensation.
 - **Deliverable:** Paid roles and an income stream.
 
 **Months 7-10: Emerge as a Thought Leader**
 - Expand your content and host events to engage your audience.
 - Seek partnerships with crypto brands to enhance visibility and impact.
-- **Expected Compensation:** $2,500–$4,500/month.
+- **Expected Compensation:** Competitive.
 
 **Months 11-12: Transition to Strategic Roles**
 - Pursue higher-level roles in protocols or consider launching your own project.
-- **Expected Compensation:** $3,500–$6,000+/month or potential equity.
+- **Expected Compensation:** Competitive or potential equity.
 
 ### Challenges and Solutions
 
@@ -192,8 +192,8 @@ The cost of living in Luanda is among the highest in Africa, with estimates of $
 
 **Weeks 11-12:**
 - [ ] Ship a third project or contribute to an open-source initiative.
-- [ ] Aim for 1,000+ Twitter followers and 2,000+ LinkedIn connections.
-- [ ] Target 1-2 job interviews scheduled.
+- [ ] Aim for a growing social media following and professional connections.
+- [ ] Target job interviews scheduled.
 - [ ] Reflect on your first three months in Web3 and outline next steps.
 
 ### Frequently Asked Questions
@@ -202,7 +202,7 @@ The cost of living in Luanda is among the highest in Africa, with estimates of $
 A: Yes, it is safe if you adhere to legal guidelines. Working for international companies is legal and using major cryptocurrency exchanges is secure. Avoid promoting unlicensed schemes to mitigate risks.
 
 **Q2: Should I keep my earnings in USD, AOA, or crypto?**
-A: A balanced approach is advisable: maintain 70% in USD or stablecoins, 20% in crypto, and a minimum of 10% in AOA for local expenses. This diversification strategy protects against currency volatility.
+A: A balanced approach is advisable: maintain a significant portion in USD or stablecoins, a portion in crypto, and a minimum for local expenses. This diversification strategy protects against currency volatility.
 
 **Q3: What's the fastest way to earn $2,000/month from Angola?**
 A: The quickest methods include freelancing on platforms like Upwork, seeking community management roles, or obtaining remote junior developer positions. Combining these efforts can expedite your income growth.
@@ -214,7 +214,7 @@ A: Emphasize your lower cost of living, determination, and unique understanding 
 A: Initially, focus on enterprise or FinTech, as these sectors present immediate local opportunities and job security. You can consider specializing in DeFi after gaining experience.
 
 **Q6: Is there a demand for Portuguese-speaking Web3 educators?**
-A: There is a significant need for content in Portuguese, with a vast audience of 300 million speakers. Many protocols are actively funding community education in this language.
+A: There is a significant need for content in Portuguese, with a vast audience of Portuguese speakers. Many protocols are actively funding community education in this language.
 
 **Q7: What if I want to build a Web3 startup in Angola?**
 A: Focus on building your skills and wealth first. After establishing a solid foundation, you can validate your startup idea and seek funding from regional investors.
@@ -229,10 +229,10 @@ A: Prioritize building your portfolio over perfecting your language skills. Star
 A: Look for red flags such as unrealistic promises or unclear business models. Verify the company's online presence and ensure there is a multi-stage interview process.
 
 **Q11: What salary progression can I expect starting today in Angola?**
-A: A realistic progression could start at $2,000–$4,000/month in your first year, advancing to $3,500–$6,000/month by the second year, and exceeding $5,000/month by the third year.
+A: A realistic progression could start at competitive compensation in your first year, advancing to higher competitive compensation by the second year, and exceeding competitive compensation by the third year.
 
 **Q12: Should I reinvest my earnings or save them?**
-A: Aim to save 60% for emergencies, invest 20% in cryptocurrencies, and allocate 20% for living expenses and enjoyment. Adjust your strategy as your financial situation evolves.
+A: Aim to save a portion for emergencies, invest a portion in cryptocurrencies, and allocate a portion for living expenses and enjoyment. Adjust your strategy as your financial situation evolves.
 
 ### Final Thoughts
 

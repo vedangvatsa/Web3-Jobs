@@ -49,9 +49,9 @@ The Web3 job market in Kigali is in its infancy but is expected to grow rapidly 
 ### Salary & Compensation Insights
 
 **Developer Track:**
-- **Junior Developer (0-1 year)**: RWF 1,000,000 - 1,500,000/month (~$950 - $1,425 USD)
-- **Mid-Level Developer (1-3 years)**: RWF 1,800,000 - 3,200,000/month (~$1,710 - $3,050 USD)
-- **Senior Developer (3+ years)**: RWF 3,500,000 - 5,500,000+/month (~$3,325 - $5,225+ USD)
+- **Junior Developer (0-1 year)**: RWF 1,000,000 - 1,500,000/month
+- **Mid-Level Developer (1-3 years)**: RWF 1,800,000 - 3,200,000/month
+- **Senior Developer (3+ years)**: RWF 3,500,000 - 5,500,000+/month
 
 **Product & Strategy:**
 - **Product Manager**: RWF 2,500,000 - 4,500,000/month
@@ -59,15 +59,15 @@ The Web3 job market in Kigali is in its infancy but is expected to grow rapidly 
 - **Enterprise Solutions Architect**: RWF 3,500,000 - 5,500,000+/month
 
 **Remote Opportunities:**
-- International Web3 companies: $2,500 - $6,000+/month
-- Consulting: $60 - $130/hour
+- International Web3 companies: significant monthly compensation
+- Consulting: competitive hourly rates
 
 **Cost of Living Insights**
-A developer earning $4,000/month remotely can expect the following expenses:
-- Rent (nice area): $400 - $700/month
-- Living expenses: $300 - $500/month
-- Total: $700 - $1,200/month
-- Potential savings: 70% - 82% of income
+A developer earning a competitive salary can expect the following expenses:
+- Rent (nice area): variable
+- Living expenses: variable
+- Total: variable
+- Potential savings: significant percentage of income
 
 ### Career Paths and Timelines
 
@@ -75,22 +75,22 @@ A developer earning $4,000/month remotely can expect the following expenses:
 
 - **Months 1-3**: Build a foundation in Solidity and Hyperledger, completing a relevant course (20-25 hours/week).
 - **Months 4-6**: Develop two projects centered on governance and supply chain tracking while studying Rwanda's digital transformation (25-30 hours/week).
-- **Months 7-10**: Network extensively within Kigali Innovation City and propose pilot projects (1-2 consulting contracts, earning $1,500 - $3,000/month).
-- **Months 11-16**: Secure a full-time role in a startup or international company in Kigali, aiming for a salary of $3,000 - $5,000+/month.
+- **Months 7-10**: Network extensively within Kigali Innovation City and propose pilot projects (1-2 consulting contracts).
+- **Months 11-16**: Secure a full-time role in a startup or international company in Kigali, aiming for a competitive salary.
 
 **Path 2: Pan-African GovTech Strategist (12-18 months)**
 
 - **Months 1-4**: Conduct research on blockchain governance initiatives across Africa, interviewing officials and studying relevant systems (15-20 hours/week).
 - **Months 5-8**: Publish a framework on "Blockchain for African Governance" and build a social media presence (20-25 hours/week).
-- **Months 9-12**: Secure funding through grants and partnerships (expected funding: $20,000 - $75,000).
-- **Months 13-18**: Lead a government blockchain project, building a regional team (salary expectations: $4,000 - $7,000+/month).
+- **Months 9-12**: Secure funding through grants and partnerships.
+- **Months 13-18**: Lead a government blockchain project, building a regional team.
 
 **Path 3: Ecosystem Builder & Education Leader (6-12 months)**
 
 - **Months 1-2**: Establish a strategy focusing on enterprise blockchain or pan-African tech (10-12 hours/week).
 - **Months 3-6**: Build a community around blockchain for development and organize meetups (15-20 hours/week).
-- **Months 7-9**: Monetize your efforts through masterclasses or community roles (expected earnings: $1,000 - $2,000/month).
-- **Months 10-12**: Expand your influence and become a recognized voice in the African Web3 space (salary potential: $2,500 - $4,000/month).
+- **Months 7-9**: Monetize your efforts through masterclasses or community roles.
+- **Months 10-12**: Expand your influence and become a recognized voice in the African Web3 space.
 
 ### Unique Advantages of Kigali
 
@@ -113,14 +113,14 @@ Access to early-stage funding from local sources is restricted. Pursuing global 
 English predominates in the tech sector, while Kinyarwanda is less common. Many tech jobs, however, require English proficiency.
 
 **Challenge: Internet Infrastructure**
-Kigali's internet speeds range from 15-30 Mbps, which is competitive for the region. Some tech hubs offer fiber connectivity for enhanced reliability.
+Kigali's internet speeds are competitive for the region. Some tech hubs offer fiber connectivity for enhanced reliability.
 
 ### 90-Day Quick-Start Plan
 
 - **Days 1-10**: Set up profiles on GitHub and Twitter, and select a career path.
 - **Days 11-30**: Establish foundational knowledge through courses and initiate your first project or article.
 - **Days 31-60**: Network by visiting Innovation City and connecting with at least ten individuals.
-- **Days 61-90**: Gain traction by securing your first contract or achieving 400 followers on social media.
+- **Days 61-90**: Gain traction by securing your first contract or achieving a significant social media following.
 
 ### FAQs
 
@@ -130,8 +130,8 @@ You can visit in person or email them about available programs. They offer resid
 **What is the primary opportunity in Kigali?**
 The combination of government support and a focus on enterprise projects creates a more stable environment for blockchain opportunities compared to purely decentralized finance ventures.
 
-**Is earning $3,000+/month achievable here?**
-Yes, positions with international companies or senior roles in local firms can yield salaries in this range, typically within a 9-13 month timeline.
+**Is earning a competitive salary achievable here?**
+Yes, positions with international companies or senior roles in local firms can yield salaries in this range, typically within a reasonable timeline.
 
 **Should I relocate to Kigali?**
 While not essential, being on the ground can facilitate government partnerships and enterprise sales. Remote work is still a viable option.

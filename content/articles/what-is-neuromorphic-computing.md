@@ -14,9 +14,9 @@ Neuromorphic computing is an innovative field of computer engineering that draws
 
 ### The von Neumann Bottleneck
 
-Traditional computers separate the central processing unit (CPU) from memory, which necessitates constant data transfer between the two. This creates the "von Neumann bottleneck," a limitation that hinders energy efficiency and computational speed. While this architecture excels in sequential tasks, such as executing spreadsheet calculations, it struggles with the massively parallel and data-intensive workloads required by modern AI systems. 
+Traditional computers separate the central processing unit (CPU) from memory, which necessitates constant data transfer between the two. This creates the "von Neumann bottleneck," a limitation that hinders energy efficiency and computational speed. While this architecture excels in sequential tasks, such as executing spreadsheet calculations, it struggles with the massively parallel and data-intensive workloads required by modern AI systems.
 
-In contrast, neuromorphic systems aim to eliminate this bottleneck. By co-locating memory and processing, these systems can store and process information simultaneously, much like the human brain. A synapse, which connects two neurons, stores information about the strength of that connection while also participating in the processing of information. This design allows the brain to perform complex tasks, such as facial recognition, with remarkable speed and minimal energy consumption—approximately 20 watts, which is significantly less than the energy used by conventional computers.
+In contrast, neuromorphic systems aim to eliminate this bottleneck. By co-locating memory and processing, these systems can store and process information simultaneously, much like the human brain. A synapse, which connects two neurons, stores information about the strength of that connection while also participating in the processing of information. This design allows the brain to perform complex tasks, such as facial recognition, with remarkable speed and minimal energy consumption, which is significantly less than the energy used by conventional computers.
 
 ### The Brain's Approach
 
@@ -27,7 +27,7 @@ Neuromorphic computing replicates the brain's architecture through specialized c
 
 ### Spiking Neural Networks
 
-A distinctive characteristic of neuromorphic computing is its use of "spiking neural networks" (SNNs). Unlike traditional artificial neural networks where all neurons communicate continuously, SNNs activate neurons only when they detect significant input, sending out a "spike." This mechanism mirrors brain activity and enhances energy efficiency, as only the neurons involved in active information processing consume power. 
+A distinctive characteristic of neuromorphic computing is its use of "spiking neural networks" (SNNs). Unlike traditional artificial neural networks where all neurons communicate continuously, SNNs activate neurons only when they detect significant input, sending out a "spike." This mechanism mirrors brain activity and enhances energy efficiency, as only the neurons involved in active information processing consume power.
 
 This event-driven architecture is particularly effective for handling data from sensors that operate on an event-driven basis, such as cameras that report changes only when a pixel’s state alters.
 

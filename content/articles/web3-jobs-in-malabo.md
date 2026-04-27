@@ -30,7 +30,7 @@ Malabo currently lacks a formal Web3 job market. Local professionals can conside
 1. **Entrepreneurship:** Founders can establish the first Web3 startups in Equatorial Guinea, likely targeting FinTech or enterprise solutions for the energy sector. Securing funding from international or regional venture capitalists will be crucial for these ventures.
 
 2. **[Remote Work](/remote-work-in-web3):** Individual professionals can acquire globally sought-after skills to secure remote positions with international Web3 companies.
-   - **Senior Remote Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Go):** Expected salaries range from $5,000 to $10,000+ USD per month.
+   - **Senior Remote Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Go):** Expected salaries can vary significantly based on experience and location.
    - **Enterprise Blockchain Consultant:** Professionals with oil and gas backgrounds who can consult on blockchain implementation may find lucrative international consulting roles.
 
 ### Building a Web3 Career in Malabo
@@ -156,10 +156,10 @@ As a remote Web3 professional based in Malabo, salary expectations can vary sign
 
 | Role Type                       | Salary Range (USD/month)                      |
 |---------------------------------|-----------------------------------------------|
-| **Junior Developer (1-2 years)**| $2,000 - $4,000                              |
-| **Mid-Level Developer (3-5 years)**| $4,000 - $8,000                          |
-| **Senior Developer (5+ years)**| $8,000 - $15,000+                           |
-| **Blockchain Consultant**       | $5,000 - $20,000+ (project-based)          |
+| **Junior Developer (1-2 years)**| Varies based on experience and location.     |
+| **Mid-Level Developer (3-5 years)**| Varies based on experience and location.  |
+| **Senior Developer (5+ years)**| Varies based on experience and location.     |
+| **Blockchain Consultant**       | Varies based on project scope and expertise. |
 
 These figures represent a substantial increase compared to the average salary in Equatorial Guinea, making remote Web3 roles a powerful avenue for wealth creation and funding local initiatives.
 

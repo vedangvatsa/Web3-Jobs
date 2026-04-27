@@ -33,7 +33,7 @@ This article explains what LP tokens are, how you acquire them, their primary fu
 Acquiring LP tokens involves a straightforward process:
 
 1. **Select a Pool**: Choose a liquidity pool on a DEX, such as the ETH/USDC pool on Uniswap.
-2. **Deposit Assets**: You must deposit an equal value of both assets into the pool. For instance, if 1 ETH is valued at $3,500, you would deposit 1 ETH and 3,500 USDC.
+2. **Deposit Assets**: You must deposit an equal value of both assets into the pool. For instance, if 1 ETH is valued at a significant amount, you would deposit 1 ETH and the equivalent value in USDC.
 3. **Receive LP Tokens**: After your deposit, the DEX's [smart contract](/what-are-smart-contracts) mints and transfers LP tokens to you. The tokens typically reflect the pool's name, for example, UNI-V2 ETH/USDC.
 
 The number of LP tokens you receive is proportional to your contribution relative to the total liquidity in the pool. If you add 1% of the total liquidity, you'll hold 1% of the LP tokens.
@@ -71,7 +71,7 @@ The most significant risk associated with providing liquidity and holding LP tok
 - **Trigger**: This loss occurs when the price ratio of the two tokens changes. The greater the divergence in prices, the larger the impermanent loss.
 - **Compensation**: Liquidity providers earn trading fees to offset this risk, with the expectation that total fees will exceed any impermanent loss.
 
-Impermanent loss represents an opportunity cost. Although your assets may appreciate in USD, they would have increased even more had you simply held them instead of providing liquidity.
+Impermanent loss represents an opportunity cost. Although your assets may appreciate in value, they would have increased even more had you simply held them instead of providing liquidity.
 
 ### The Evolution: LP Tokens as NFTs (Uniswap v3)
 
@@ -127,7 +127,7 @@ Monitor your progress regularly. Are you achieving your goals? Use feedback and 
 Sarah, a developer at a blockchain startup, faced challenges in understanding liquidity provision. After implementing targeted strategies over three months, she significantly improved her knowledge of LP tokens and their applications, leading to a promotion.
 
 ### Example 2: Juan's Success
-Juan, a product manager in DeFi, initially struggled with efficiently managing LP tokens. By following a structured approach, he learned to optimize his yield farming strategies, resulting in a 40% increase in his overall returns.
+Juan, a product manager in DeFi, initially struggled with efficiently managing LP tokens. By following a structured approach, he learned to optimize his yield farming strategies, resulting in a notable increase in his overall returns.
 
 ### Example 3: Maya's Transition
 Maya transitioned from Web2 to Web3 and had limited experience with DeFi. Through focused learning and practical application of LP tokens and yield farming, she quickly adapted and started contributing meaningfully to her new team.
@@ -143,7 +143,7 @@ Maya transitioned from Web2 to Web3 and had limited experience with DeFi. Throug
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Most individuals observe initial results within 2 to 4 weeks of consistent application. Significant improvements typically manifest within 8 to 12 weeks, depending on your starting point, daily commitment, and willingness to seek feedback.
+A: Most individuals observe initial results within a few weeks of consistent application. Significant improvements typically manifest within a couple of months, depending on your starting point, daily commitment, and willingness to seek feedback.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: You often have more control than you realize, even in challenging environments. Start with small, self-directed actions that don't require organizational approval. Gradually build momentum and document your achievements.

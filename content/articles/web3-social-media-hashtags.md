@@ -98,13 +98,13 @@ The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamic
 
 ### Compensation
 
-Web3 roles generally offer salaries 20-40% higher than comparable Web2 positions. For instance:
+Web3 roles generally offer salaries significantly higher than comparable Web2 positions. For instance:
 
 | Role                       | Average Salary Range        |
 |----------------------------|-----------------------------|
-| Senior Solidity Engineer    | $200,000 - $350,000        |
-| Product Manager             | $150,000 - $250,000        |
-| Business Development Lead    | $150,000 - $250,000        |
+| Senior Solidity Engineer    | High six figures            |
+| Product Manager             | High six figures            |
+| Business Development Lead    | High six figures            |
 
 Compensation packages often include token allocations along with traditional equity.
 
@@ -114,7 +114,7 @@ Most Web3 organizations operate fully or primarily remote, with teams spread acr
 
 ### Growth Trajectory
 
-Career advancement occurs more rapidly in Web3 due to rapid scaling and a persistent talent shortage. Mid-level professionals often attain senior or lead positions within 18 to 24 months of entering the field.
+Career advancement occurs more rapidly in Web3 due to rapid scaling and a persistent talent shortage. Mid-level professionals often attain senior or lead positions within a couple of years of entering the field.
 
 ### Equity Upside
 
@@ -173,11 +173,11 @@ Target roles that combine your existing expertise with your newly acquired Web3 
 
 ### Developer to Smart Contract Engineer
 
-Alex spent five years as a backend engineer at a FAANG company. He dedicated three months to learning Solidity while working full-time. After contributing to an open-source protocol, he caught the attention of a notable DeFi project, resulting in a 50% salary increase and significant equity upon transition.
+Alex spent five years as a backend engineer at a FAANG company. He dedicated three months to learning Solidity while working full-time. After contributing to an open-source protocol, he caught the attention of a notable DeFi project, resulting in a significant salary increase and substantial equity upon transition.
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her domain knowledge in DeFi. Her financial product expertise combined with an understanding of Web3 technology made her a valuable candidate. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a product manager from traditional finance, leveraged her domain knowledge in DeFi. Her financial product expertise combined with an understanding of Web3 technology made her a valuable candidate. She secured a role at a leading DeFi protocol within a month.
 
 ### Career Changer Success
 
@@ -207,7 +207,7 @@ The technical learning curve can be steep, particularly for non-developers. Howe
 No. Web3 requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal counsel, operations, and business development are in high demand. Your existing skills are transferable; you simply need to understand the Web3 context, such as how wallets function, what DAOs are, and why decentralization matters.
 
 **How much can I earn in Web3?**  
-Web3 compensation consistently exceeds Web2 equivalents. Base salaries are typically 30-60% higher on average, with Solidity engineers and smart contract auditors earning the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that appreciate significantly.
+Web3 compensation consistently exceeds Web2 equivalents. Base salaries are typically significantly higher on average, with Solidity engineers and smart contract auditors earning the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that appreciate significantly.
 
 **Is it risky to transition to Web3?**  
 Every career transition involves risk, and Web3 is not exempt due to market volatility and project lifecycles. You can mitigate risk by targeting well-funded, established protocols with proven revenue, verifying team track records, and ensuring your base salary includes fiat compensation as opposed to solely tokens. Professionals who approach Web3 as a career move, rather than a speculative opportunity, tend to establish resilient roles.
@@ -216,7 +216,7 @@ Every career transition involves risk, and Web3 is not exempt due to market vola
 Most professionals successfully transition to Web3 within 2 to 6 months of focused effort. Engineers and product managers typically move faster due to the direct transfer of skills. Non-technical roles, such as marketing and community management, can transition in as little as 4 to 8 weeks with dedicated self-study. Actively engaging in portfolio projects or contributing to open-source protocols significantly accelerates the process.
 
 **What if the crypto market crashes?**  
-Bear markets often present the best opportunities for entering Web3. As speculative hype diminishes, teams refocus on building functional products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers maintain steady hiring regardless of market conditions. Engineers who built during the 2018–2019 bear market are now among the most sought-after professionals. Market downturns can reduce competition for roles and yield better equity terms for new hires.
+Bear markets often present the best opportunities for entering Web3. As speculative hype diminishes, teams refocus on building functional products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers maintain steady hiring regardless of market conditions. Engineers who built during previous bear markets are now among the most sought-after professionals. Market downturns can reduce competition for roles and yield better equity terms for new hires.
 
 ## Conclusion
 

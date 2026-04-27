@@ -112,11 +112,11 @@ Keep track of your progress. Are you achieving the desired results? Modify your 
 
 ### Real-World Examples of Successful Implementation
 
-**Example 1:** Sarah, a developer at a blockchain startup, faced challenges with version control in her smart contracts. After implementing the Transparent Proxy Pattern, she resolved issues swiftly. Within three months, her team's bug-fix turnaround time decreased by 40%.
+**Example 1:** Sarah, a developer at a blockchain startup, faced challenges with version control in her smart contracts. After implementing the Transparent Proxy Pattern, she resolved issues swiftly. Within a few months, her team's bug-fix turnaround time decreased significantly.
 
-**Example 2:** Juan, a product manager in [DeFi](/what-is-defi), encountered obstacles when trying to introduce new features. By adopting the upgradability model, he streamlined the process, which led to a 50% increase in user engagement within two months.
+**Example 2:** Juan, a product manager in [DeFi](/what-is-defi), encountered obstacles when trying to introduce new features. By adopting the upgradability model, he streamlined the process, which led to a notable increase in user engagement within a short period.
 
-**Example 3:** Maya transitioned from a traditional tech role to Web3. She applied the principles of the Transparent Proxy Pattern to her new projects and saw a 30% improvement in her deployment efficiency. Her success underscores the relevance of these strategies across diverse backgrounds.
+**Example 3:** Maya transitioned from a traditional tech role to Web3. She applied the principles of the Transparent Proxy Pattern to her new projects and saw a marked improvement in her deployment efficiency. Her success underscores the relevance of these strategies across diverse backgrounds.
 
 ### Common Mistakes to Avoid
 
@@ -133,7 +133,7 @@ Keep track of your progress. Are you achieving the desired results? Modify your 
 ### FAQ
 
 **Q: How long will it take to implement upgradable contracts?**  
-A: Many developers see initial results within 2 to 4 weeks of consistent application. Significant improvements often manifest within 8 to 12 weeks, depending on factors such as prior knowledge and feedback loops.
+A: Many developers see initial results within a few weeks of consistent application. Significant improvements often manifest within a few months, depending on factors such as prior knowledge and feedback loops.
 
 **Q: What if my workplace does not support this approach?**  
 A: Even in challenging environments, you can initiate small, self-contained actions that do not require broad organizational approval. Focus on personal projects or informal discussions with willing colleagues to create momentum.

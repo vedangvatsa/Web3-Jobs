@@ -18,7 +18,7 @@ The regulatory framework in Hong Kong serves as the backbone of its Web3 strateg
 
 Hong Kong seeks to establish itself as the foremost "TradFi-to-DeFi" bridge in Asia, drawing in institutional investors and established financial firms into the crypto sector.
 
-- **A Regulated Hub for Digital Assets:** The approval of spot [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) ETFs in 2024 marked a significant milestone, showcasing Hong Kong's ambition to compete with other global financial centers by offering regulated crypto investment products. This development has prompted increased activity from asset managers and financial institutions.
+- **A Regulated Hub for Digital Assets:** The approval of spot [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) ETFs marked a significant milestone, showcasing Hong Kong's ambition to compete with other global financial centers by offering regulated crypto investment products. This development has prompted increased activity from asset managers and financial institutions.
 - **Gateway to Capital:** The city's robust capital markets and its direct link to mainland China through programs like Stock Connect facilitate substantial capital flows within the region.
 - **Emphasis on Compliance and Institutions:** The market focuses on creating secure and compliant infrastructure for institutional investors, including regulated exchanges, custody solutions, and asset management platforms.
 - **Active Conference Scene:** Hong Kong hosts numerous major Web3 events, such as the Hong Kong Web3 Festival and various high-profile summits, attracting leading experts from across Asia and beyond.
@@ -61,11 +61,11 @@ To explore the latest Web3 job opportunities in Hong Kong, visit our [Web3 job b
 
 | Role                           | Monthly Salary Range (HKD)   | Monthly Salary Range (USD)      |
 |--------------------------------|-------------------------------|----------------------------------|
-| Legal & Compliance Officer      | 80,000 - 180,000             | 10,300 - 23,100                  |
-| Smart Contract Engineer         | 60,000 - 140,000             | 7,700 - 18,000                   |
-| Institutional Sales            | 70,000 - 160,000+            | 9,000 - 20,500+                  |
-| Quantitative Researcher/Trader  | 100,000 - 250,000+           | 12,800 - 32,000+                 |
-| Product Manager                | 75,000 - 150,000             | 9,600 - 19,200                   |
+| Legal & Compliance Officer      | 80,000 - 180,000             | Competitive                      |
+| Smart Contract Engineer         | 60,000 - 140,000             | Competitive                      |
+| Institutional Sales            | 70,000 - 160,000+            | Competitive                      |
+| Quantitative Researcher/Trader  | 100,000 - 250,000+           | Competitive                      |
+| Product Manager                | 75,000 - 150,000             | Competitive                      |
 
 ## Career Paths in Hong Kong Web3
 
@@ -79,7 +79,7 @@ To explore the latest Web3 job opportunities in Hong Kong, visit our [Web3 job b
 - **Deliverable:** Develop regulatory expertise and credentials.
 
 **Months 6-10: Get Hired**
-- Consult for early-stage crypto companies with fees ranging from HKD 50,000 to HKD 200,000 per engagement.
+- Consult for early-stage crypto companies with fees varying based on engagement.
 - Apply for compliance roles at exchanges or custody services.
 - Anticipated salary: HKD 80,000 to HKD 120,000 per month.
 
@@ -124,10 +124,10 @@ To explore the latest Web3 job opportunities in Hong Kong, visit our [Web3 job b
 
 **Months 5-8: First Deals**
 - Secure your first institutional client for custody, trading, or ETF products.
-- Expected salary: HKD 70,000 to HKD 100,000 per month, plus 10-20% commission.
+- Expected salary: HKD 70,000 to HKD 100,000 per month, plus commission.
 
 **Months 9-14: Proven Sales Record**
-- Achieve $50 million+ in assets under management (AUM) or secure 5+ institutional clients.
+- Achieve significant assets under management (AUM) or secure multiple institutional clients.
 - Anticipated salary: HKD 120,000 to HKD 200,000+ per month, with a higher commission structure.
 
 **Months 15-16: Leadership Role**
@@ -140,7 +140,7 @@ To explore the latest Web3 job opportunities in Hong Kong, visit our [Web3 job b
 The SFC's licensing framework is clear and effectively implemented. Institutions trust Hong Kong's regulatory environment, and the city enjoys a first-mover advantage in establishing itself as a regulated hub in Asia.
 
 ### Capital Gateway
-Hong Kong hosts over $50 billion in family offices, with strong connections to mainland Chinese capital. This concentration of wealth presents lucrative opportunities for Web3 professionals.
+Hong Kong hosts significant family offices, with strong connections to mainland Chinese capital. This concentration of wealth presents lucrative opportunities for Web3 professionals.
 
 ### Talent Premium
 The high cost of living in Hong Kong translates into premium salaries, making compensation competitive with cities like London and New York. The city attracts top global talent looking for opportunities in the Web3 sector.
@@ -154,7 +154,7 @@ Hong Kong is known for its high living costs, including rent and transportation.
 The SFC's framework is still developing, which can create uncertainty. However, professionals with compliance expertise are in high demand and can turn this uncertainty into a competitive advantage.
 
 ### Challenge 3: Market Size Compared to the U.S.
-While the number of Web3 jobs may be fewer than in San Francisco, many firms operate regional headquarters in Hong Kong, driving rapid growth in the sector.
+While the number of Web3 jobs may be fewer than in some leading tech hubs, many firms operate regional headquarters in Hong Kong, driving rapid growth in the sector.
 
 ### Challenge 4: Language Barrier
 While Mandarin or Cantonese fluency can be beneficial, English proficiency is sufficient for many technical and institutional roles, making it less of a barrier.
@@ -187,7 +187,7 @@ While Mandarin or Cantonese fluency can be beneficial, English proficiency is su
 
 **Week 9-10:**
 - [ ] Finalize your consulting engagement or secure a full-time role.
-- [ ] Aim for 1,000+ Twitter followers in the Hong Kong crypto space.
+- [ ] Aim for a strong following in the Hong Kong crypto space.
 - [ ] Plan your next three months strategically.
 
 **Week 11-12:**
@@ -199,7 +199,6 @@ While Mandarin or Cantonese fluency can be beneficial, English proficiency is su
 - At least one published article.
 - A strong professional network in Hong Kong.
 - At least one paid opportunity, whether a role or consulting.
-- Over 1,000 LinkedIn followers.
 - Recognition within the industry.
 
 ## Career FAQs for Hong Kong
@@ -210,7 +209,7 @@ A: While not essential for technical or institutional roles, Mandarin can be hel
 **Q2: Is compliance work stable?**  
 A: Yes, expertise in SFC regulations is in high demand and difficult to outsource, commanding a premium.
 
-**Q3: What is the fastest path to earning HKD 150K+ per month?**  
+**Q3: What is the fastest path to earning a competitive salary?**  
 A: Institutional sales (for those with sales skills) or quantitative trading (for those strong in math and coding) typically take 8-12 months.
 
 **Q4: How does Hong Kong compare to Singapore for Web3 careers?**  
@@ -226,7 +225,7 @@ A: The chance to connect traditional finance with decentralized finance. Asia's 
 A: The ecosystem is growing but is smaller than in leading tech hubs. Hong Kong is better suited for corporate and institutional focus.
 
 **Q8: How does compensation in Hong Kong compare globally?**  
-A: Compensation is competitive globally. Positions offering HKD 150K+ equate to approximately $19K+ USD, making it on par with top roles in New York and London.
+A: Compensation is competitive globally. Positions offering competitive salaries are on par with top roles in New York and London.
 
 ## Essential Resources
 

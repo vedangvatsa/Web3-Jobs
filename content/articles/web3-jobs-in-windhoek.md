@@ -18,7 +18,7 @@ Windhoek's Web3 scene is still developing but presents significant potential, pa
 
 Windhoek's Web3 ecosystem benefits from Namibia's distinctive economic and environmental factors.
 
-- **Conservation and ReFi (Regenerative Finance):** Namibia is a global leader in conservation, with over 40% of its land under conservation management. This creates substantial opportunities for Web3 initiatives focused on ReFi, including the use of blockchain for transparent carbon credit markets, monitoring conservation efforts, and funding community-based projects through [DAOs](/what-is-a-dao).
+- **Conservation and ReFi (Regenerative Finance):** Namibia is a global leader in conservation, with a significant portion of its land under conservation management. This creates substantial opportunities for Web3 initiatives focused on ReFi, including the use of blockchain for transparent carbon credit markets, monitoring conservation efforts, and funding community-based projects through [DAOs](/what-is-a-dao).
   
 - **Tourism and Digital Collectibles:** Tourism significantly contributes to Namibia's economy. Opportunities exist for projects utilizing [NFTs](/what-are-nfts) to represent unique travel experiences, create digital souvenirs, or raise funds for preserving cultural and natural heritage sites.
 
@@ -32,14 +32,14 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 
 | Role                                   | Salary Range (USD)               | Salary Range (NAD)               |
 |----------------------------------------|----------------------------------|----------------------------------|
-| Web3 Developer (Remote)                | $4,000 - $8,000+                 | —                                |
-| Web3 Developer (Local Startup)         | —                                | NAD 30,000 - 60,000+            |
-| Project Manager (Conservation/ReFi)    | —                                | NAD 40,000 - 80,000             |
+| Web3 Developer (Remote)                | Significant range                | —                                |
+| Web3 Developer (Local Startup)         | —                                | Variable                         |
+| Project Manager (Conservation/ReFi)    | —                                | Variable                         |
 | Community and Ecosystem Builders        | —                                | Variable, depends on projects    |
 
 * **Web3 Developer (Full-Stack / [Solidity](/best-programming-languages-for-blockchain-development))**: Developers skilled in building practical applications are in high demand.
-    - **Remote for Global Company**: Can earn global salaries ranging from $4,000 to $8,000+ per month, allowing for a high quality of life in Windhoek.
-    - **Local Startup**: Salaries are still emerging, likely between NAD 30,000 and 60,000+ per month for experienced developers.
+    - **Remote for Global Company**: Can earn competitive salaries, allowing for a high quality of life in Windhoek.
+    - **Local Startup**: Salaries are still emerging, likely within a variable range for experienced developers.
 
 * **Project Manager (Conservation/ReFi Focus)**: Professionals managing blockchain-based conservation projects are uniquely positioned for growth.
     - **Grant-funded or NGO roles**: Compensation varies significantly based on the funding organization.
@@ -62,29 +62,29 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 
 | Experience Level                         | Remote Salary Range (USD)               |
 |------------------------------------------|-----------------------------------------|
-| Junior Web3 Developer (0-1 year)        | $2,000 - $3,500                        |
-| Mid-Level Developer (1-3 years)         | $4,000 - $6,500                        |
-| Senior Developer (3+ years)             | $7,000 - $12,000+                      |
+| Junior Web3 Developer (0-1 year)        | Competitive range                       |
+| Mid-Level Developer (1-3 years)         | Competitive range                       |
+| Senior Developer (3+ years)             | Competitive range                       |
 
 **Local Options:**
 
 | Role                                          | Salary Range (NAD)                     |
 |-----------------------------------------------|----------------------------------------|
-| Local Startup Developer                        | NAD 30,000 - 50,000                   |
-| Conservation/ReFi Project Manager             | NAD 40,000 - 80,000                   |
-| Consulting                                    | $60 - $120/hour                        |
+| Local Startup Developer                        | Variable                               |
+| Conservation/ReFi Project Manager             | Variable                               |
+| Consulting                                    | Variable                               |
 
 **Real Numbers: Cost of Living in Windhoek**
 
-For a remote developer earning $5,000 per month, the estimated monthly expenses are as follows:
+For a remote developer earning a competitive salary, the estimated monthly expenses are as follows:
 
 | Expense Category               | Cost (USD)          |
 |--------------------------------|---------------------|
-| Rent (nice area)               | $800 - $1,200       |
-| Food & Living                  | $400 - $600         |
-| Recreation                     | $200 - $400         |
-| **Total**                      | **$1,400 - $2,200** |
-| **Savings**                    | **56 - 72% of income** |
+| Rent (nice area)               | Variable            |
+| Food & Living                  | Variable            |
+| Recreation                     | Variable            |
+| **Total**                      | **Variable**        |
+| **Savings**                    | **Variable**        |
 
 Windhoek offers an exceptional quality of life with safety, beautiful nature, and solid infrastructure.
 
@@ -109,11 +109,11 @@ Windhoek offers an exceptional quality of life with safety, beautiful nature, an
 - Network with conservation NGOs in Namibia.
 - Propose pilot projects to organizations like WWF and NACSO.
 - Complete initial consulting contracts.
-- Anticipated income: $1,000 - $2,500/month.
+- Anticipated income: Variable.
 
 **Months 10-16: Full-Time ReFi Role**
 - Secure a position with a ReFi-focused organization or DAO.
-- Target salary: $4,000 - $7,000/month.
+- Target salary: Variable.
 - Aim to establish Windhoek as a ReFi hub for Southern Africa.
 
 **Path 2: The Ecosystem Builder & Community Leader (8-14 months)**
@@ -129,19 +129,19 @@ Windhoek offers an exceptional quality of life with safety, beautiful nature, an
 - Publish weekly content on Web3, ReFi, and the Namibian economy.
 - Initiate the Windhoek Web3 Meetup (hybrid format).
 - Network with tech hubs, universities, and government entities.
-- Target: 1,000+ Twitter followers and 50+ consistent community members.
+- Target: Build a community.
 - Expected time: 15-20 hours/week.
 
 **Months 7-9: Monetization & Partnerships**
 - Launch an educational course or an exclusive community.
 - Seek employment as a community manager or ecosystem lead.
-- Anticipated income: $1,500 - $2,500/month.
+- Anticipated income: Variable.
 
 **Months 10-14: Scale & Leadership**
 - Become a leading voice for Web3 in Windhoek/Namibia.
 - Spearhead ecosystem development initiatives.
 - Establish partnerships with international organizations.
-- Expected salary: $3,000 - $5,000+/month.
+- Expected salary: Variable.
 
 **Path 3: The Digital Nomad Entrepreneur (12-18 months)**
 
@@ -161,13 +161,13 @@ Windhoek offers an exceptional quality of life with safety, beautiful nature, an
 **Months 9-12: Funding & Validation**
 - Apply for Web3 grants from organizations like Polygon and Gitcoin.
 - Pitch to impact investors and venture capitalists.
-- Expected funding: $10,000 - $50,000.
+- Expected funding: Variable.
 
 **Months 13-18: Scaling**
 - Hire initial team members, potentially from the local talent pool.
 - Expand your user base.
-- Plan for Series A or further funding.
-- Expected salary: $4,000 - $8,000/month plus equity.
+- Plan for further funding.
+- Expected salary: Variable.
 
 ### Unique Challenges & Solutions
 
@@ -180,11 +180,11 @@ Windhoek offers an exceptional quality of life with safety, beautiful nature, an
 - **Solution**: Start with educational initiatives; propose pilot projects; demonstrate clear returns on investment.
 
 **Challenge: Internet Reliability**
-- Windhoek has reasonable internet speeds (10-50 Mbps), but rural areas may face limitations.
+- Windhoek has reasonable internet speeds, but rural areas may face limitations.
 - **Solution**: Base yourself in Windhoek; have a backup mobile hotspot; work asynchronously.
 
 **Challenge: Small Population**
-- Windhoek has about 400,000 residents, limiting local hiring options.
+- Windhoek has a small population, limiting local hiring options.
 - **Advantage**: The small community means higher visibility and an early-mover advantage.
 
 **Challenge: Visa & Tax Considerations**
@@ -206,15 +206,15 @@ Windhoek offers an exceptional quality of life with safety, beautiful nature, an
 - Network with conservation NGOs.
 
 **Days 31-60: Momentum & Network**
-- Complete a second project or publish eight or more articles.
-- Attend local events; connect with ten or more relevant individuals.
-- Apply for 2-3 opportunities.
-- Aim for 300+ Twitter followers.
+- Complete a second project or publish additional articles.
+- Attend local events; connect with relevant individuals.
+- Apply for opportunities.
+- Aim for community growth.
 
 **Days 61-90: Traction**
 - Secure your first contract or role.
 - Alternatively, establish a partnership with a conservation organization.
-- Expected outcome: $300 - $1,200 earned or a significant partnership formed.
+- Expected outcome: Variable.
 - Plan your objectives for the next 90 days.
 
 ### Frequently Asked Questions
@@ -226,16 +226,16 @@ Windhoek offers advantages such as the Digital Nomad Visa, stability, safety, an
 Yes, remote work is the prevailing model. By enhancing your global skills and reputation, you can work from Windhoek while enjoying an excellent quality of life and saving aggressively.
 
 **What are the requirements for obtaining the Digital Nomad Visa?**
-To qualify, you need a steady income of at least USD $2,000 per month, a valid passport, and health insurance. The application process occurs online, with a fee of NAD 8,000 (approximately $430). The visa is valid for 12 months and can be renewed.
+To qualify, you need a steady income, a valid passport, and health insurance. The application process occurs online, with a fee. The visa is valid for 12 months and can be renewed.
 
 **Is conservation a viable niche for blockchain?**
-Yes, global conservation budgets reach billions, with a substantial need for transparency and fund tracking. The carbon market is expanding, making this a real-world issue that Web3 can address effectively.
+Yes, global conservation budgets reach significant amounts, with a substantial need for transparency and fund tracking. The carbon market is expanding, making this a real-world issue that Web3 can address effectively.
 
 **How can I partner with conservation organizations?**
-Start by creating a proof-of-concept project. Then, approach organizations like WWF Namibia and Gondwana Collection with a clear value proposition.
+Start by creating a proof-of-concept project. Then, approach organizations with a clear value proposition.
 
-**Is earning $3,000+ per month feasible?**
-Yes, with a timeline of 8-12 months, you can follow a structured path: spend 3-4 months learning, then transition into freelancing (earning $1,000-$2,000), and finally secure a full-time role earning $3,000 or more.
+**Is earning a competitive salary feasible?**
+Yes, with a timeline of 8-12 months, you can follow a structured path: spend time learning, then transition into freelancing, and finally secure a full-time role.
 
 **Should I relocate to Windhoek or secure a job first?**
 Both approaches can work. You can either move on the visa, build your network, and then find a job or secure a remote role before relocating. The first option carries more risk but offers the freedom to establish yourself.
@@ -247,7 +247,7 @@ The co-working scene is developing, with spaces available in Windhoek's central 
 The community is small but growing. Use platforms like Twitter to connect with others. As one of the early Web3 builders, your presence can be a significant advantage.
 
 **What about living costs?**
-Monthly expenses for a comfortable lifestyle range from $1,200 to $1,800 (including rent and living costs). The visa costs around $430 annually, and internet access ranges from $40 to $80 per month, making it manageable on any Web3 salary.
+Monthly expenses for a comfortable lifestyle vary. The visa costs annually, and internet access ranges, making it manageable on any Web3 salary.
 
 ### Conclusion
 

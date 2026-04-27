@@ -28,10 +28,10 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 | Role | Experience Level | Salary Range (UGX/Month) | Salary Range (USD/Month) |
 |------|------------------|-------------------------|---------------------------|
-| Full-Stack / Mobile Web3 Developer | Mid-Level | 3,000,000 - 6,000,000 | 800 - 1,600 |
-| Full-Stack / Mobile Web3 Developer | Senior | 6,000,000 - 10,000,000+ | 1,600 - 2,600+ |
-| [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level (often remote) | 10,000,000+ | 2,500 - 4,500+ |
-| Community Manager & Educator | Mid-Level | 2,000,000 - 4,000,000 | 530 - 1,060 |
+| Full-Stack / Mobile Web3 Developer | Mid-Level | 3,000,000 - 6,000,000 | Competitive |
+| Full-Stack / Mobile Web3 Developer | Senior | 6,000,000 - 10,000,000+ | Competitive |
+| [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level (often remote) | 10,000,000+ | Competitive |
+| Community Manager & Educator | Mid-Level | 2,000,000 - 4,000,000 | Competitive |
 
 - **Full-Stack / Mobile Web3 Developer:** These developers are in high demand for their ability to create user-friendly mobile dApps.
 - **[Smart Contract](/what-are-smart-contracts) Developer:** As local projects proliferate, the need for Solidity expertise is increasing.
@@ -53,23 +53,23 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 | Experience Level | Salary Range (UGX/Month) | Salary Range (USD/Month) |
 |------------------|-------------------------|---------------------------|
-| Junior Developer (0-1 year) | 2,000,000 - 3,500,000 | 530 - 930 |
-| Mid-Level Developer (1-3 years) | 3,500,000 - 6,500,000 | 930 - 1,730 |
-| Senior Developer (3+ years) | 6,500,000 - 10,000,000+ | 1,730 - 2,660+ |
+| Junior Developer (0-1 year) | 2,000,000 - 3,500,000 | Competitive |
+| Mid-Level Developer (1-3 years) | 3,500,000 - 6,500,000 | Competitive |
+| Senior Developer (3+ years) | 6,500,000 - 10,000,000+ | Competitive |
 
 **Remote (International):**
 
-- International Web3 roles offer salaries from $2,500 to $6,000+ per month.
-- Freelance opportunities range from $50 to $120 per hour.
+- International Web3 roles offer salaries from significant amounts per month.
+- Freelance opportunities range from competitive hourly rates.
 
-**Cost of Living Analysis for a Remote Developer Earning $4,000/Month:**
+**Cost of Living Analysis for a Remote Developer Earning a Competitive Salary:**
 
 | Expense Category | Monthly Cost (USD) |
 |------------------|---------------------|
-| Rent (nice area) | 300 - 500           |
-| Living Expenses   | 250 - 400           |
-| **Total**        | **550 - 900**       |
-| **Savings**      | **78 - 86% of income** |
+| Rent (nice area) | Competitive         |
+| Living Expenses   | Competitive         |
+| **Total**        | **Competitive**     |
+| **Savings**      | **Significant portion of income** |
 
 ### Three Career Paths: Detailed Roadmaps
 
@@ -86,12 +86,12 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
   - Ensure optimization for low-bandwidth environments (25-35 hours/week).
 
 - **Months 7-9: Local and Freelance Work**
-  - Start freelancing with an expected income of $1,500-$2,500/month.
+  - Start freelancing with an expected income of a competitive range.
   - Build a minimum viable product (MVP) with real users.
   - Network actively with tech hubs.
 
 - **Months 10-15: Full-Time Remote Role**
-  - Aim for a developer position in fintech or DeFi, targeting $2,500-$4,000+/month.
+  - Aim for a developer position in fintech or DeFi, targeting a competitive salary.
 
 **Path 2: The Fintech & Community Growth Lead (10-16 months)**
 
@@ -106,10 +106,10 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
   - Grow a Twitter following (1,500+ followers) (20-25 hours/week).
 
 - **Months 9-12: Monetization**
-  - Secure a position as a community manager or growth lead, earning $1,500-$2,500/month.
+  - Secure a position as a community manager or growth lead, earning a competitive salary.
 
 - **Months 13-16: Scaling Up**
-  - Lead efforts for regional expansion, with earnings expected to reach $2,500-$4,000+/month.
+  - Lead efforts for regional expansion, with earnings expected to reach a competitive range.
 
 **Path 3: The Innovation Hub Collaborator (8-14 months)**
 
@@ -122,10 +122,10 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
   - Gain practical experience in the ecosystem (25-30 hours/week).
 
 - **Months 7-10: Startup or Remote Role**
-  - Co-found a Web3 startup or secure a developer role, earning $1,500-$3,000+/month.
+  - Co-found a Web3 startup or secure a developer role, earning a competitive salary.
 
 - **Months 11-14: Growth**
-  - Scale the startup or lead a tech team, targeting $2,500-$5,000+/month.
+  - Scale the startup or lead a tech team, targeting a competitive salary.
 
 ### Challenges and Practical Solutions
 
@@ -134,12 +134,12 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 - **Solution:** Apply for international grants, seek foreign investors, and bootstrap through [remote work](/remote-work-in-web3).
 
 **Challenge: Mobile Internet Reliability**
-- Typical speeds in Kampala range from 5 to 15 Mbps, with occasional outages.
+- Typical speeds in Kampala range from moderate to decent, with occasional outages.
 - **Solution:** Utilize tech hubs with better connectivity, have mobile hotspot backups, and optimize applications for low bandwidth.
 
 **Challenge: Currency Volatility**
 - The Uganda Shilling (UGX) often fluctuates.
-- **Solution:** Negotiate contracts in USD or stablecoins, maintain savings in cryptocurrency, and use remittance-friendly platforms.
+- **Solution:** Negotiate contracts in stable currencies, maintain savings in cryptocurrency, and use remittance-friendly platforms.
 
 **Challenge: Small Formal Sector**
 - The formal Web3 job market in Uganda is limited.
@@ -151,7 +151,7 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 
 **Days 11-30:** Build foundational skills through bootcamps and complete your first project.
 
-**Days 31-60:** Gain traction by developing a second project, reaching 300+ followers, and finding a mentor.
+**Days 31-60:** Gain traction by developing a second project, reaching a competitive number of followers, and finding a mentor.
 
 **Days 61-90:** Generate income through freelance contracts, startup roles, or partnerships.
 
@@ -161,9 +161,9 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 Join Innovation Village or Outbox Hub. Participate in a blockchain bootcamp to learn while networking effectively.
 
 **Is it better to work locally or remotely?**
-Focusing on remote skills increases your chances of landing an international role that pays between $2,500 and $4,000. Living in Kampala allows for greater savings due to a lower cost of living.
+Focusing on remote skills increases your chances of landing an international role that pays a competitive salary. Living in Kampala allows for greater savings due to a lower cost of living.
 
-**Can I really earn $2,500+/month?**
+**Can I really earn a competitive salary?**
 Yes, with a timeline of approximately 8-12 months, combining learning, freelancing, and securing a full-time role.
 
 **Should I co-found a startup or get a job first?**

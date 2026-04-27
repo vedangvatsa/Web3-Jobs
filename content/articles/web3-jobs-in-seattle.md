@@ -20,7 +20,7 @@ Seattle’s Web3 scene thrives on its core industries: cloud computing and gamin
 
 | Industry                     | Key Players and Contributions                                 |
 |------------------------------|--------------------------------------------------------------|
-| **Cloud Computing**          | Home to Amazon Web Services (AWS) and Microsoft Azure, Seattle hosts the highest concentration of cloud engineers globally. These professionals possess the skills necessary for developing complex backend systems required by Web3 protocols, including node management and Layer 2 scaling solutions. |
+| **Cloud Computing**          | Home to Amazon Web Services (AWS) and Microsoft Azure, Seattle hosts a significant concentration of cloud engineers. These professionals possess the skills necessary for developing complex backend systems required by Web3 protocols, including node management and Layer 2 scaling solutions. |
 | **Gaming**                   | With major companies like Nintendo of America and Valve, Seattle is a central hub for the video game industry. This ecosystem includes game developers, designers, and artists who are now venturing into the realms of Web3 gaming and [NFTs](/what-are-nfts). |
 | **Corporate Blockchain Adoption** | Companies such as Microsoft and Starbucks are actively exploring enterprise [blockchain](/what-is-a-blockchain) applications and NFT-based loyalty programs, enhancing the Web3 landscape. |
 | **Community Dynamics**       | The Seattle Web3 community prioritizes substance over hype. It is characterized by a mature, engineering-focused environment that emphasizes technical skill and sustainable project development. |
@@ -29,13 +29,13 @@ Seattle’s Web3 scene thrives on its core industries: cloud computing and gamin
 
 Seattle's competitive job market for technical talent offers salaries comparable to other major technology hubs in the U.S. The demand for engineers skilled in distributed systems and gaming is particularly pronounced.
 
-| Role                                  | Experience Level      | Salary Range (USD)               |
-|---------------------------------------|-----------------------|----------------------------------|
-| **Infrastructure / Backend Engineer** | Mid-Level (3-5 years) | $150,000 - $190,000              |
-|                                       | Senior (5+ years)     | $190,000 - $260,000+             |
-| **Game Developer**                    | Senior                 | $160,000 - $220,000+             |
-| **[Smart Contract](/what-are-smart-contracts) Developer** | Senior                 | $180,000 - $240,000+             |
-| **Product Manager**                   | Senior                 | $170,000 - $230,000+             |
+| Role                                  | Experience Level      | Salary Range               |
+|---------------------------------------|-----------------------|-----------------------------|
+| **Infrastructure / Backend Engineer** | Mid-Level (3-5 years) | Competitive                 |
+|                                       | Senior (5+ years)     | Competitive                 |
+| **Game Developer**                    | Senior                 | Competitive                 |
+| **[Smart Contract](/what-are-smart-contracts) Developer** | Senior                 | Competitive                 |
+| **Product Manager**                   | Senior                 | Competitive                 |
 
 ### Building a Web3 Career in Seattle
 
@@ -55,13 +55,13 @@ Seattle offers a wealth of opportunities for technical professionals. The city c
 
 ### Complete Salary Guide: Web3 Jobs in Seattle
 
-| Role                                  | Salary Range (USD)                       |
-|---------------------------------------|------------------------------------------|
-| **Infrastructure Engineer**           | $150,000 - $260,000+                    |
-| **Backend Developer**                 | $140,000 - $240,000+                    |
-| **Game Developer**                    | $160,000 - $280,000+                    |
-| **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer)** | $180,000 - $320,000+                    |
-| **Product Manager**                   | $170,000 - $300,000+                    |
+| Role                                  | Salary Range                       |
+|---------------------------------------|------------------------------------|
+| **Infrastructure Engineer**           | Competitive                         |
+| **Backend Developer**                 | Competitive                         |
+| **Game Developer**                    | Competitive                         |
+| **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer)** | Competitive                         |
+| **Product Manager**                   | Competitive                         |
 
 ### Career Paths in Seattle Web3
 
@@ -73,27 +73,27 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
   - Master Go, Rust, and distributed systems.
   - Learn blockchain node architecture and Layer 2 solutions.
   - Develop 2-3 infrastructure projects (e.g., indexers, relayers).
-  - Network with 30+ infrastructure engineers and protocol teams.
+  - Network with infrastructure engineers and protocol teams.
   - **Deliverable:** Demonstrated systems expertise and portfolio projects.
 
 - **Months 7-12: Gain Visibility**
   - Contribute to a prominent protocol like Ethereum or Solana.
   - Publish technical articles focusing on infrastructure.
   - Apply for roles within major infrastructure companies.
-  - **Expected Salary:** $150,000 - $190,000/year.
+  - **Expected Salary:** Competitive.
 
 - **Months 13-18: Move to Senior/Architect Roles**
   - Lead an infrastructure team or oversee a major system.
-  - **Expected Salary:** $210,000 - $280,000+/year.
+  - **Expected Salary:** Competitive.
 
 - **Months 19-20: Aim for Principal/CTO Roles**
   - Target positions as chief architect or CTO.
-  - **Expected Compensation:** $280,000 - $400,000+/year plus equity.
+  - **Expected Compensation:** Competitive plus equity.
 
 **Quick Wins:**
-- Infrastructure grants range from $20,000 to $200,000.
-- Consulting rates can reach $200 to $400/hour.
-- Form partnerships with protocols for revenue between $50,000 and $500,000.
+- Infrastructure grants vary.
+- Consulting rates can be substantial.
+- Form partnerships with protocols for revenue opportunities.
 
 #### Path 2: Game Developer/Engineer (14-24 Month Timeline)
 
@@ -101,26 +101,26 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
   - Master Unity or Unreal with Web3 integration.
   - Learn NFT mechanics, tokenomics, and game loops.
   - Create 2-3 playable Web3 game prototypes.
-  - Network with 30+ game developers and blockchain engineers.
+  - Network with game developers and blockchain engineers.
   - **Deliverable:** Established game development expertise.
 
 - **Months 7-12: Build and Launch**
   - Deploy one playable Web3 game.
-  - Aim for over 5,000 active players or critical acclaim for your game.
+  - Aim for a significant player base or critical acclaim for your game.
   - Apply for senior roles at gaming studios.
-  - **Expected Salary:** $180,000 - $220,000/year.
+  - **Expected Salary:** Competitive.
 
 - **Months 13-20: Transition to Lead Developer/Director**
   - Take a leadership role in game development or creative direction.
-  - **Expected Salary:** $240,000 - $320,000+/year.
+  - **Expected Salary:** Competitive.
 
 - **Months 21-24: Become a Creative Director/Founder**
   - Assume the position of creative director or co-founder of a studio.
-  - **Expected Compensation:** $280,000 - $400,000+/year plus equity.
+  - **Expected Compensation:** Competitive plus equity.
 
 **Quick Wins:**
-- Participate in game hackathons with rewards of $10,000 to $100,000.
-- Seek studio grants ranging from $50,000 to $500,000.
+- Participate in game hackathons with rewards.
+- Seek studio grants.
 - Explore revenue-sharing opportunities from NFT launches.
 
 #### Path 3: Full-Stack Web3 Engineer (10-18 Month Timeline)
@@ -129,34 +129,34 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
   - Master smart contracts, backend, and frontend development.
   - Learn Web3 architecture and security best practices.
   - Build 2-3 complete dApps, from frontend to smart contracts.
-  - Network with 25+ full-stack developers.
+  - Network with full-stack developers.
   - **Deliverable:** Expertise in full-stack development and completed projects.
 
 - **Months 6-10: Create a Product**
   - Deploy one production dApp with real users.
-  - Achieve over $500,000 Total Value Locked (TVL) or 10,000 active users.
+  - Achieve significant user engagement.
   - Apply for full-stack roles at protocols or platforms.
-  - **Expected Salary:** $160,000 - $220,000/year.
+  - **Expected Salary:** Competitive.
 
 - **Months 11-16: Ascend to Senior/Tech Lead**
   - Lead a technical team or oversee a major product.
-  - **Expected Salary:** $220,000 - $300,000+/year.
+  - **Expected Salary:** Competitive.
 
 - **Months 17-18: Transition to VP Engineering/Founder**
   - Aim for a role as VP engineering or co-founder.
-  - **Expected Compensation:** $250,000 - $400,000+/year plus equity.
+  - **Expected Compensation:** Competitive plus equity.
 
 **Quick Wins:**
-- Compete in hackathons for awards ranging from $5,000 to $50,000.
-- Apply for grants between $20,000 and $200,000.
-- Explore partnerships with protocols for revenue of $25,000 to $250,000.
+- Compete in hackathons for awards.
+- Apply for grants.
+- Explore partnerships with protocols for revenue opportunities.
 
 ### Why Seattle?
 
 Seattle offers several advantages for professionals in the Web3 sector:
 
 - **Technical Excellence**: The city's AWS and Azure talent pool fosters infrastructure expertise. Its gaming heritage contributes to experienced game developers, creating an engineering-first culture that emphasizes quality.
-- **Market Dynamics**: Seattle's market is less saturated than San Francisco or New York City, offering high salaries for quality work and unique opportunities at the intersection of gaming and Web3.
+- **Market Dynamics**: Seattle's market is less saturated than other major tech cities, offering high salaries for quality work and unique opportunities at the intersection of gaming and Web3.
   
 ### Challenges and Solutions
 
@@ -180,7 +180,7 @@ Seattle offers several advantages for professionals in the Web3 sector:
 - [ ] Complete fundamentals in chosen focus area.
 - [ ] Deploy your first project on a testnet.
 - [ ] Study three leading protocols or games.
-- [ ] Network with 20+ Seattle Web3 engineers.
+- [ ] Network with Seattle Web3 engineers.
 
 **Week 5-6**:
 - [ ] Build your first major project and make it public on GitHub.
@@ -191,12 +191,12 @@ Seattle offers several advantages for professionals in the Web3 sector:
 **Week 7-8**:
 - [ ] Develop your second project with production quality.
 - [ ] Apply for five roles in your chosen field.
-- [ ] Network through five informal meetings.
+- [ ] Network through informal meetings.
 - [ ] Publish a technical deep dive.
 
 **Week 9-10**:
 - [ ] Land your first freelance or consulting opportunity.
-- [ ] Grow your Twitter following to over 1,000.
+- [ ] Grow your Twitter following.
 - [ ] Apply for your dream roles.
 
 **Week 11-12**:
@@ -210,7 +210,7 @@ Seattle offers several advantages for professionals in the Web3 sector:
 A: Both sectors are strong, with a slight edge in infrastructure due to the AWS talent pool, although gaming is rapidly gaining traction.
 
 **Q2: Can I work remotely while living in Seattle?**  
-A: Yes, many roles offer remote options. The cost of living in Seattle is reasonable compared to cities like San Francisco and New York.
+A: Yes, many roles offer remote options. The cost of living in Seattle is reasonable compared to other major tech cities.
 
 **Q3: What is the fastest path to earning over $200,000 per year?**  
 A: Specializing in infrastructure is often the quickest route, typically taking 12-16 months with strong skills and project delivery.
@@ -222,7 +222,7 @@ A: While beneficial, it is not mandatory. Developers focused on Web3 can quickly
 A: Both options have their merits. Startups offer faster learning and potential upside, while larger tech firms provide stability and resources.
 
 **Q6: Are game studios in Seattle developing Web3 games?**  
-A: Yes, studios like Axis Games are actively working on Web3 projects, along with larger studios exploring this space.
+A: Yes, studios are actively working on Web3 projects, along with larger studios exploring this space.
 
 **Q7: What is Seattle's biggest advantage?**  
 A: The city’s emphasis on reliable infrastructure leads to higher compensation for solid engineering talent.
