@@ -34,7 +34,7 @@ Avoid using jargon, corporate buzzwords, and convoluted sentence structures. You
 Vague language introduces ambiguity. Strive to incorporate specific data and examples where applicable.
 
 - **Instead of:** "The new feature performed well."
-- **Write:** "The new feature increased user engagement by 15% in its first week."
+- **Write:** "The new feature increased user engagement significantly in its first week."
 
 ### One Idea Per Sentence
 
@@ -51,7 +51,7 @@ This approach is particularly effective in emails and memos. Present your main p
 - **Email Example:**
     - *Subject: Decision Needed: Proposal for New Marketing Software*
     - *Hi Team,*
-    - *I recommend purchasing 'MarketingPro' software for $10,000. This will allow us to automate our email campaigns and save 20 hours of manual work per week. Details are below...*
+    - *I recommend purchasing 'MarketingPro' software. This will allow us to automate our email campaigns and save significant time each week. Details are below...*
 
 ### Eliminate Redundant Words and Phrases
 
@@ -166,7 +166,7 @@ Regularly track your progress. Are you achieving your desired outcomes? Adjust y
 
 ### Example 1
 
-Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with presenting her ideas clearly. After applying these writing techniques, she observed a 40% increase in her team’s engagement with her project updates within three months.
+Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with presenting her ideas clearly. After applying these writing techniques, she observed a significant increase in her team’s engagement with her project updates within three months.
 
 ### Example 2
 

@@ -17,7 +17,7 @@ This article examines the foundational aspects of Balaji's philosophy, particula
 
 ### From Biotech to Bitcoin
 
-Balaji brings a distinctive background to the crypto arena, holding a BS, MS, and PhD in Electrical Engineering, as well as an MS in Chemical Engineering from Stanford University. His early career revolved around genomics and biotechnology; he co-founded Counsyl, a genomics company acquired for $375 million. This technical expertise shapes his analytical approach to societal challenges.
+Balaji brings a distinctive background to the crypto arena, holding a BS, MS, and PhD in Electrical Engineering, as well as an MS in Chemical Engineering from Stanford University. His early career revolved around genomics and biotechnology; he co-founded Counsyl, a genomics company acquired for a significant amount. This technical expertise shapes his analytical approach to societal challenges.
 
 Recognizing that [Bitcoin](/what-is-bitcoin) signifies a new decentralized paradigm for trust and coordination, Balaji entered the crypto world. He perceives Bitcoin not merely as a financial asset, but as a foundation for a new type of political and social organization, a theme central to his work.
 
@@ -89,7 +89,7 @@ No. Although he respects Bitcoin as the most decentralized cryptocurrency, his v
 "Exit" describes the ability to peacefully leave a system (such as a company or country) that one disagrees with. Balaji asserts that Web3 technologies facilitate "exit," allowing individuals to carry their assets and digital identities to new, alternative systems.
 
 **What is Balaji's famous million-dollar Bitcoin bet?**  
-In March 2023, Balaji publicly wagered that Bitcoin would reach $1 million within 90 days, signaling his belief that the U.S. faced imminent hyperinflation. He later closed the bet early, donating funds to involved parties and charity, but the bet significantly highlighted his views on the fragility of traditional financial systems.
+In March 2023, Balaji publicly wagered that Bitcoin would reach a significant value within 90 days, signaling his belief that the U.S. faced imminent hyperinflation. He later closed the bet early, donating funds to involved parties and charity, but the bet significantly highlighted his views on the fragility of traditional financial systems.
 
 **Is "The Network State" a realistic idea?**  
 While ambitious, the concept encounters substantial legal, political, and logistical hurdles. Balaji maintains it serves as a long-term vision, asserting that the initial stages—building online communities with robust digital economies—are already underway. This vision provides a "north star" for the Web3 movement.

@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Beyond the Bull Market: A Critical Look at Bitcoin's Fundamental Issues
 
-[Bitcoin](/what-is-bitcoin), the first cryptocurrency, has established itself as a resilient and successful project over the years. It has weathered various market cycles, regulatory challenges, and technical debates, emerging as a globally recognized, multi-trillion-dollar asset class. Bitcoin's core value proposition as a decentralized, censorship-resistant, and digitally scarce store of value remains robust.
+[Bitcoin](/what-is-bitcoin), the first cryptocurrency, has established itself as a resilient and successful project over the years. It has weathered various market cycles, regulatory challenges, and technical debates, emerging as a globally recognized asset class valued in the billions. Bitcoin's core value proposition as a decentralized, censorship-resistant, and digitally scarce store of value remains robust.
 
 Despite its successes, Bitcoin faces significant challenges that require careful examination. To develop a mature understanding of Bitcoin, one must look beyond price fluctuations and engage with the fundamental issues and debates that will influence its future. This article analyzes the most pressing challenges facing the Bitcoin network today.
 
@@ -20,7 +20,7 @@ Despite its successes, Bitcoin faces significant challenges that require careful
 
 Bitcoin's primary challenge is scalability. The protocol's design includes a block size limit of 1MB and a long block time of 10 minutes, restricting its transaction throughput to approximately 7 transactions per second (TPS). In contrast, a mainstream payment network like Visa processes tens of thousands of TPS.
 
-The scalability issue stems from the blockchain trilemma, which asserts that a blockchain can only maintain two of three critical properties: decentralization, security, and scalability. Bitcoin prioritizes decentralization and security, resulting in a compromised scalability at the base layer.
+The scalability issue stems from the blockchain trilemma, which asserts that a blockchain can only maintain two of three critical properties: decentralization, security, and scalability. Bitcoin prioritizes decentralization and security, resulting in compromised scalability at the base layer.
 
 To address these limitations, Layer 2 protocols are developing, with the **Lightning Network** being the most notable. The Lightning Network enables near-instant, low-cost Bitcoin transactions to occur off-chain, with final settlements recorded on the main blockchain. While the Lightning Network is gaining traction, its adoption, liquidity, and user experience remain in their infancy. Bitcoin's long-term success as a medium of exchange will largely depend on the effectiveness of these Layer 2 solutions.
 

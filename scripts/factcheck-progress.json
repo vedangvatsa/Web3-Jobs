@@ -1,0 +1,482 @@
+{
+  "ai-accountability-governance-models.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:09.820Z"
+  },
+  "a-fairer-way-to-make-collective-decisions.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:09.831Z"
+  },
+  "agency-vs-in-house-job-differences.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:10.142Z"
+  },
+  "a-complete-guide-to-jack-dorsey-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:10.212Z"
+  },
+  "additive-manufacturing-complete-guide.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:10.236Z"
+  },
+  "ai-and-web3-engineering-careers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:11.478Z"
+  },
+  "ai-for-freelancers-complete-guide.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:11.983Z"
+  },
+  "a-complete-guide-to-tim-draper-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:12.023Z"
+  },
+  "a-deep-dive-into-rollups-for-ethereum-scaling.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:12.175Z"
+  },
+  "a-guide-to-verifiable-credentials-in-decentralized-identity.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:12.317Z"
+  },
+  "ai-bias-and-fairness-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:12.576Z"
+  },
+  "ai-ethics-and-responsible-ai-guide.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:13.137Z"
+  },
+  "ai-career-opportunities-and-salaries.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:13.855Z"
+  },
+  "account-abstraction-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:13.899Z"
+  },
+  "a-complete-guide-to-balaji-srinivasan-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:14.585Z"
+  },
+  "a-complete-guide-to-vitalik-buterin-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:14.775Z"
+  },
+  "10-dos-and-donts-for-web3-resume.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:15.047Z"
+  },
+  "a-complete-guide-to-chris-dixon-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:15.274Z"
+  },
+  "a-complete-guide-to-mark-zuckerberg-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:16.446Z"
+  },
+  "ai-resume-builder-best-practices-guide.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:17.166Z"
+  },
+  "a-complete-guide-to-snoop-dogg-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:17.791Z"
+  },
+  "a-complete-guide-to-naval-ravikant-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:18.111Z"
+  },
+  "a-complete-guide-to-gary-vaynerchuk-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:21.599Z"
+  },
+  "10-big-ideas-in-web3-for-2025.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:24.748Z"
+  },
+  "10-essential-skills-for-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:24.787Z"
+  },
+  "ai-driven-agency-from-automation-to-autonomy.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:24.940Z"
+  },
+  "a-day-in-the-life-of-a-defi-quant.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:25.809Z"
+  },
+  "a-complete-guide-to-sbf-on-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:28.318Z"
+  },
+  "becoming-a-web3-digital-content-monetization-specialist.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:30.413Z"
+  },
+  "avalanche-blockchain-platform-and-its-unique-features.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:30.579Z"
+  },
+  "battery-technology-advances-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:30.763Z"
+  },
+  "an-introduction-to-foundry-the-modern-solidity-toolkit.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:31.663Z"
+  },
+  "becoming-a-web3-decentralized-storage-expert.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:34.574Z"
+  },
+  "answering-why-web3-crafting-your-personal-narrative-for-interviews.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:34.605Z"
+  },
+  "becoming-a-web3-technical-writer.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:34.889Z"
+  },
+  "ai-and-web3-hybrid-careers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:35.493Z"
+  },
+  "10-big-ideas-in-web3-for-2026.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:39.244Z"
+  },
+  "best-ai-courses-for-beginners-online.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:39.523Z"
+  },
+  "bitcoin-genesis-block-day.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:40.137Z"
+  },
+  "best-programming-languages-for-ai.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:40.244Z"
+  },
+  "beyond-the-code.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:41.541Z"
+  },
+  "arbitrage-opportunities-in-defi-markets.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:41.583Z"
+  },
+  "ai-vs-human-intelligence-complete-comparison.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:43.604Z"
+  },
+  "best-web3-job-boards-for-crypto-careers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:43.642Z"
+  },
+  "bitcoin-pizza-day.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:44.122Z"
+  },
+  "best-ai-writing-tools-for-students.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:46.588Z"
+  },
+  "best-smart-contract-ide-for-beginners.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:47.558Z"
+  },
+  "best-cities-for-remote-workers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:50.518Z"
+  },
+  "best-programming-languages-for-blockchain-development.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:52.175Z"
+  },
+  "blockchain-in-healthcare-projects-and-implementations.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:09:59.404Z"
+  },
+  "bitcoin-whitepaper-day.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:02.351Z"
+  },
+  "argentina-web3-marketing-landscape.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:03.842Z"
+  },
+  "blockchain-based-voting-systems-and-their-real-world-impact.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:06.827Z"
+  },
+  "best-web3-jobs-for-non-developers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:10.570Z"
+  },
+  "asking-smart-questions-as-new-employee.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:10.654Z"
+  },
+  "blockchain-features-that-make-it-revolutionary.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:11.687Z"
+  },
+  "blockchain-immutability-explained-for-beginners.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:12.444Z"
+  },
+  "blockchain-developer-salary-trends.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:12.536Z"
+  },
+  "bleisure-destinations-perfect-for-remote-workers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:13.091Z"
+  },
+  "blockchain-technology-explained-in-simple-words.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:13.730Z"
+  },
+  "blockchain-engineering-career-path-and-requirements.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:13.974Z"
+  },
+  "bonding-curves-for-token-launch-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:14.908Z"
+  },
+  "blockchain-in-banking-and-financial-services-revolution.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:17.017Z"
+  },
+  "blockchain-explorer-guide-for-bitcoin-and-ethereum.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:17.224Z"
+  },
+  "blockchain-based-certificate-verification-systems.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:19.420Z"
+  },
+  "blockchain-security-and-why-it-cannot-be-hacked.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:19.682Z"
+  },
+  "blockchain-hackathon-preparation-and-winning-strategies.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:19.685Z"
+  },
+  "blockchain-oracle-networks-and-data-integration.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:20.398Z"
+  },
+  "blockchain-use-cases-beyond-cryptocurrency.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:22.309Z"
+  },
+  "blockchain-remote-jobs-and-salary-expectations.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:22.700Z"
+  },
+  "blockchain-qa-jobs-and-testing-methodologies.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:23.133Z"
+  },
+  "blockchain-yield-farming-and-passive-income-strategies.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:24.379Z"
+  },
+  "blockchain-wallet-security-and-best-practices.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:25.006Z"
+  },
+  "blockchain-transaction-verification-process-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:27.297Z"
+  },
+  "brain-computer-interface-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:27.530Z"
+  },
+  "blockchain-developer-roadmap.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:30.161Z"
+  },
+  "blockchain-mining-explained-for-beginners.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:36.146Z"
+  },
+  "building-trust-in-virtual-teams.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:37.937Z"
+  },
+  "building-a-career-as-a-web3-blockchain-infrastructure-engineer.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:40.898Z"
+  },
+  "breaking-into-web3-game-development-jobs.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:41.768Z"
+  },
+  "breaking-into-web3-a-guide-for-non-technical-professionals.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:44.669Z"
+  },
+  "career-gap-explanation-for-resume.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:45.226Z"
+  },
+  "breaking-into-blockchain-devops.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:45.259Z"
+  },
+  "building-career-paths-for-web3-privacy-engineers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:46.677Z"
+  },
+  "career-break-benefits-and-drawbacks.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:48.408Z"
+  },
+  "career-change-guide-for-professionals.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:49.742Z"
+  },
+  "brazil-web3-marketing-strategies.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:49.991Z"
+  },
+  "career-plateau-how-to-break-through.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:51.212Z"
+  },
+  "building-a-network-for-web3-career-opportunities.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:54.118Z"
+  },
+  "career-development-plan-template-guide.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:54.219Z"
+  },
+  "building-blockchain-applications-using-python.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:55.122Z"
+  },
+  "business-writing-tips-for-professionals.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:10:58.172Z"
+  },
+  "career-opportunities-for-web3-blockchain-networking-engineers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:00.235Z"
+  },
+  "building-relationships-in-web3.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:02.999Z"
+  },
+  "common-job-interview-questions-answers.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:03.034Z"
+  },
+  "challenges-in-agentic-ai-governance.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:03.149Z"
+  },
+  "china-digital-yuan-ecny.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:04.636Z"
+  },
+  "building-web3-portfolio.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:04.818Z"
+  },
+  "coffee-chat-etiquette-for-professionals.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:04.871Z"
+  },
+  "combining-business-and-leisure-while-working-globally.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:07.951Z"
+  },
+  "business-development-bd-strategy-for-web3-projects.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:10.892Z"
+  },
+  "closing-the-web3-talent-gap.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:12.315Z"
+  },
+  "building-relationships-with-new-team.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:12.462Z"
+  },
+  "crispr-technology-explained-for-beginners.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:13.703Z"
+  },
+  "building-your-first-dapp-on-solana-with-rust.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:14.156Z"
+  },
+  "building-responsible-ai-systems.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:16.363Z"
+  },
+  "cover-letter-writing-best-practices.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:16.832Z"
+  },
+  "coworking-spaces-vs-home-office.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:16.871Z"
+  },
+  "cbdc.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:19.434Z"
+  },
+  "consulting-career-path-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:19.922Z"
+  },
+  "common-smart-contract-vulnerabilities-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:21.868Z"
+  },
+  "creating-dynamic-nfts-a-step-by-step-guide.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:25.197Z"
+  },
+  "cross-functional-collaboration-tips.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:26.972Z"
+  },
+  "content-strategy-for-web3-projects.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:30.290Z"
+  },
+  "core-blockchain-development-and-infrastructure.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:30.736Z"
+  },
+  "consensus-mechanisms-in-blockchain-networks-demystified.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:33.806Z"
+  },
+  "common-take-home-assignments-for-web3-developer-roles.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:36.598Z"
+  },
+  "crypto-etfs-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:37.218Z"
+  },
+  "decentralized-identity-explained.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:37.384Z"
+  },
+  "crypto-developer-exodus.md": {
+    "status": "done",
+    "timestamp": "2026-04-27T11:11:37.422Z"
+  }
+}

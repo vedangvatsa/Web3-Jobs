@@ -77,7 +77,7 @@ Smart contracts enable a range of applications:
 - **Decentralized Finance (DeFi)**: Constructing an alternative financial ecosystem for lending, borrowing, and trading without traditional banks.
 - **Supply Chain Management**: Monitoring goods from production to sale, establishing authenticity, and preventing fraud through an unchangeable product journey record.
 - **Voting Systems**: Facilitating secure voting platforms where each vote is recorded on the blockchain, ensuring verifiable and tamper-proof results.
-- **Digital Identity**: Empowering individuals to control their digital identities instead of relying on third-party providers like Google or Facebook. This concept, known as Self-Sovereign Identity (SSI), allows users to determine what information to share and with whom.
+- **Digital Identity**: Empowering individuals to control their digital identities instead of relying on third-party providers. This concept, known as Self-Sovereign Identity (SSI), allows users to determine what information to share and with whom.
 - **Non-Fungible Tokens (NFTs)**: Allowing the creation of verifiable, unique digital items. NFTs can represent ownership of various assets, including art, music, in-game items, and real estate.
 
 ## Challenges Facing Blockchain Technology

@@ -84,7 +84,7 @@ Commitment is essential in this learning journey. Allocate specific hours weekly
 For the non-technical track, advanced math skills are not required. However, for the technical track, a solid understanding of high school-level math, including algebra and basic calculus, is advantageous. Courses by Andrew Ng effectively teach the necessary mathematical concepts, so a university-level background is not mandatory for beginners.
 
 **2. How long will it take to learn AI?**  
-Completing a course like "Elements of AI" can take a few weeks for a basic understanding. However, becoming a proficient machine learning engineer requires a longer commitment. Completing a full specialization on Coursera may take 3 to 6 months of consistent study. Mastery in AI is a gradual process rather than a quick endeavor.
+Completing a course like "Elements of AI" can take a few weeks for a basic understanding. However, becoming a proficient machine learning engineer requires a longer commitment. Completing a full specialization on Coursera may take several months of consistent study. Mastery in AI is a gradual process rather than a quick endeavor.
 
 **3. What is the best programming language for AI?**  
 Python reigns supreme in AI and machine learning due to its straightforward syntax and comprehensive libraries such as TensorFlow, PyTorch, and scikit-learn. If you plan to learn coding for AI, start with Python.

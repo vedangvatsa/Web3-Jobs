@@ -54,7 +54,7 @@ The Web3 job market differs significantly from Web2, characterized by distinct d
 
 | **Aspect**              | **Web2**                           | **Web3**                              |
 |------------------------|------------------------------------|---------------------------------------|
-| **Compensation**       | Standard salaries                   | 20-40% higher than Web2 roles         |
+| **Compensation**       | Standard salaries                   | Typically higher than Web2 roles      |
 | **Remote Culture**     | Hybrid or in-office                 | Fully remote positions prevalent       |
 | **Career Growth**      | Slower progression                  | Rapid advancement opportunities       |
 | **Equity Potential**   | Limited stock options               | Token and equity packages standard     |
@@ -114,7 +114,7 @@ Apply for roles that align with your current skills and newly acquired Web3 know
 
 ### Transitioning from Developer to Smart Contract Engineer
 
-Alex worked as a backend engineer for five years at a major tech company. He dedicated three months to learning Solidity while continuing his job. His contributions to an open-source protocol caught the attention of a leading DeFi project, resulting in a transition that included a 50% salary increase and substantial equity.
+Alex worked as a backend engineer for five years at a major tech company. He dedicated three months to learning Solidity while continuing his job. His contributions to an open-source protocol caught the attention of a leading DeFi project, resulting in a transition that included a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 
@@ -148,7 +148,7 @@ The technical learning curve can be steep for those new to blockchain. However, 
 No. Web3 requires a diverse skill set beyond engineering. Roles in marketing, community management, product design, legal counsel, and operations are in high demand. Existing skills can translate well; focus on understanding Web3 context, such as how wallets function and the significance of decentralization.
 
 **What is the earning potential in Web3?**  
-Web3 compensation consistently exceeds Web2 salaries. Base salaries are typically 30-60% higher, with significant premiums for Solidity engineers and smart contract auditors due to limited talent availability. Total compensation packages often include bonuses and equity, with senior engineers earning between $200,000 and $350,000 annually.
+Web3 compensation consistently exceeds Web2 salaries. Base salaries are typically higher, with significant premiums for Solidity engineers and smart contract auditors due to limited talent availability. Total compensation packages often include bonuses and equity, with senior engineers earning substantial annual compensation.
 
 **Is transitioning to Web3 risky?**  
 Every career change involves risk, and Web3 is no exception due to market fluctuations. To mitigate risks, target well-funded protocols with proven revenue. Ensure your base salary is in fiat, and focus on established teams rather than speculative projects.

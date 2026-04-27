@@ -25,7 +25,7 @@ AI bias can infiltrate the development process at various stages.
 
 #### 1. Data Bias
 
-Data bias represents the most significant source of AI bias. If the training data is not representative of the real world or reflects historical inequalities, bias will emerge.
+Data bias represents a significant source of AI bias. If the training data is not representative of the real world or reflects historical inequalities, bias will emerge.
 
 - **Historical Bias**: The data mirrors past injustices.
   - **Example**: An AI model trained on historical hiring data from a company that favored male engineers might falsely learn that being male predicts success. Consequently, it may disadvantage female applicants, even if explicit gender data is omitted, due to proxy variables such as attendance at male-dominated colleges.

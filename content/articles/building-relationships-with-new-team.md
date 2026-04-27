@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Building Strong Relationships with Your New Team
 
-Success in a new role hinges on your ability to collaborate effectively with your team. Research indicates that employees with strong workplace relationships are 50% more engaged and ten times more likely to stay with their organization. Building these relationships requires intentionality and authenticity. 
+Success in a new role hinges on your ability to collaborate effectively with your team. Research indicates that employees with strong workplace relationships are significantly more engaged and more likely to stay with their organization. Building these relationships requires intentionality and authenticity. 
 
 ### The Importance of Team Relationships
 
@@ -238,7 +238,7 @@ Different individuals have varying styles. Some take longer to open up. Your app
 2. Avoid forcing intimacy; some may prefer a more professional distance.
 3. Seek common ground through work initially.
 4. Don’t take it personally; everyone has personal matters influencing their behavior.
-5. Give it 3-6 months before concluding they reject you.
+5. Give it time before concluding they reject you.
 
 Often, distant colleagues will warm up as they see your trustworthiness and competence.
 

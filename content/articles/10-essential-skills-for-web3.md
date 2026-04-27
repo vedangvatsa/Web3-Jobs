@@ -64,7 +64,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 
 **Key Learning Areas:**
 - **SQL:** Master this language for querying decoded blockchain data.
-- **Analytics Platforms:** Use tools like Dune Analytics and Flipside Crypto to build dashboards that monitor key performance indicators such as daily active users, trading volumes, and total value locked (TVL).
+- **Analytics Platforms:** Use tools like Dune Analytics and Flipside Crypto to build dashboards that monitor key performance indicators.
 - **Data Analysis:** Develop skills to interpret data beyond surface-level metrics, revealing insights about protocol health and user behavior.
 
 | Metric                  | Definition                                          | Importance                              |

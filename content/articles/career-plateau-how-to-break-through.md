@@ -87,7 +87,7 @@ Yes, some organizations value stability and expertise in specific roles over upw
 
 **3. How long is too long to remain in the same role without a promotion?**
 
-The timeline varies by industry and position. However, if you have spent over three to four years in the same role without significant changes in responsibilities or compensation, you might be experiencing a plateau. More crucial is whether you are still learning and evolving, regardless of your title.
+The timeline varies by industry and position. However, if you have spent several years in the same role without significant changes in responsibilities or compensation, you might be experiencing a plateau. More crucial is whether you are still learning and evolving, regardless of your title.
 
 **4. What if I am content being plateaued?**
 

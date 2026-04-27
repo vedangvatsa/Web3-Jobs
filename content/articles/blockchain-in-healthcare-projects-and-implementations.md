@@ -67,7 +67,7 @@ The convergence of blockchain and healthcare creates numerous specialized roles:
 
 ### Current State of Blockchain Adoption in Healthcare
 
-While blockchain adoption in healthcare remains in its nascent stages, the potential for transformation is significant. A study by Accenture estimated that blockchain could save the healthcare industry $100 billion annually by reducing inefficiencies and improving data accuracy.
+While blockchain adoption in healthcare remains in its nascent stages, the potential for transformation is significant. A study by Accenture estimated that blockchain could save the healthcare industry billions annually by reducing inefficiencies and improving data accuracy.
 
 Healthcare entities increasingly recognize the advantages of blockchain, including:
 

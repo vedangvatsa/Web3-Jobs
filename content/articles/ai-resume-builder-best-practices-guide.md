@@ -30,7 +30,7 @@ Before utilizing any AI tools, establish a strong foundation by creating a "mast
 Your master resume should include:
 
 - A chronological list of all your jobs, including dates, companies, and roles.
-- Detailed bullet points for each role that highlight your responsibilities and achievements. Use the STAR method (Situation, Task, Action, Result) to frame these accomplishments. Quantify results wherever possible, such as "Increased user engagement by 15% by redesigning the onboarding flow."
+- Detailed bullet points for each role that highlight your responsibilities and achievements. Use the STAR method (Situation, Task, Action, Result) to frame these accomplishments. Quantify results wherever possible, such as "Increased user engagement significantly by redesigning the onboarding flow."
 - A thorough list of both technical and soft skills.
 - Information on your education, certifications, and personal projects.
 
@@ -43,7 +43,7 @@ One common mistake is asking an AI to draft your resume from scratch. An AI cann
 Follow this workflow:
 
 1. **Identify a Desired Job**: Copy the entire job description for the role you are targeting.
-2. **Utilize the AI Tailoring Feature**: Most AI resume builders, such as Kickresume or Rezi, include a feature for pasting in job descriptions.
+2. **Utilize the AI Tailoring Feature**: Most AI resume builders include a feature for pasting in job descriptions.
 3. **Analyze the Job Description**: The AI will compare the job description to your master resume, identifying key skills and keywords the employer seeks.
 4. **Receive Suggestions**: The AI will recommend relevant bullet points from your master resume and suggest ways to rephrase them to align with the job description.
 5. **Review and Edit**: This human step is critical. Do not accept every suggestion blindly. Evaluate each one for accuracy, ensuring it reflects your voice and makes sense. Treat the AI as a suggestion engine; you are the editor.
@@ -57,13 +57,13 @@ Transforming responsibilities into impactful bullet points can be challenging. T
 Instead of saying, "Responsible for social media," use AI to frame it more compellingly. 
 
 Consider this prompt: 
-> "I was a social media manager for a small e-commerce brand. My responsibilities included posting daily on Instagram and Facebook and running ad campaigns. Rewrite this into three professional resume bullet points that focus on achievements. I grew the Instagram account from 1,000 to 15,000 followers and managed a $5,000 monthly ad budget."
+> "I was a social media manager for a small e-commerce brand. My responsibilities included posting daily on Instagram and Facebook and running ad campaigns. Rewrite this into three professional resume bullet points that focus on achievements. I grew the Instagram account significantly and managed a monthly ad budget."
 
 The AI might produce bullet points like these:
 
-- Boosted Instagram follower count by 1,400% (from 1,000 to 15,000) through consistent content creation and community engagement strategies.
-- Managed a $5,000 monthly advertising budget on Facebook and Instagram, optimizing campaigns to achieve a 20% lower cost-per-acquisition than the industry average.
-- Developed and executed a content calendar that increased user engagement rates by an average of 50% across all platforms.
+- Boosted Instagram follower count significantly through consistent content creation and community engagement strategies.
+- Managed a monthly advertising budget on Facebook and Instagram, optimizing campaigns to achieve a lower cost-per-acquisition than the industry average.
+- Developed and executed a content calendar that increased user engagement rates across all platforms.
 
 The AI takes your raw input and translates it into the achievement-driven language recruiters seek.
 
@@ -72,10 +72,10 @@ The AI takes your raw input and translates it into the achievement-driven langua
 Crafting a compelling professional summary or cover letter can be a daunting task. AI can generate a strong first draft that you can personalize.
 
 **Summary Prompt**: 
-> "I am a software developer with 5 years of experience in JavaScript and React, and I have a new passion for [Web3](/what-is-web3) and [Solidity](/best-programming-languages-for-blockchain-development). Write a 2-3 sentence professional summary for my resume that highlights my solid Web2 foundation and my enthusiasm for transitioning into the [blockchain](/what-is-a-blockchain) space."
+> "I am a software developer with experience in JavaScript and React, and I have a new passion for [Web3](/what-is-web3) and [Solidity](/best-programming-languages-for-blockchain-development). Write a 2-3 sentence professional summary for my resume that highlights my solid Web2 foundation and my enthusiasm for transitioning into the [blockchain](/what-is-a-blockchain) space."
 
 **Cover Letter Prompt**: 
-> "Write a cover letter for a Product Manager role at Spotify. My experience includes 4 years as a PM at a music tech startup where I launched a feature that increased user retention by 10%. I am passionate about music discovery and have been a Spotify user for over a decade. The job description emphasizes data-driven decision-making and cross-functional collaboration. The tone should be professional but enthusiastic."
+> "Write a cover letter for a Product Manager role at Spotify. My experience includes several years as a PM at a music tech startup where I launched a feature that increased user retention. I am passionate about music discovery and have been a Spotify user for many years. The job description emphasizes data-driven decision-making and cross-functional collaboration. The tone should be professional but enthusiastic."
 
 Always remember to infuse your personality into the final drafts. For the cover letter, reference a specific Spotify feature that resonates with you. This personalization shows that a human crafted the content.
 
@@ -105,7 +105,7 @@ You can incorporate ChatGPT for specific elements, such as crafting bullet point
 No. Utilizing tools to assist with writing and formatting your resume is not cheating; it demonstrates resourcefulness. Recruiters expect candidates to present the best version of themselves. As long as your resume content is truthful and accurately reflects your experiences, using AI to articulate that information is acceptable.
 
 **3. How much do AI resume builders cost?**  
-Most AI resume builders offer free versions that allow the creation of one or two resumes with limited features. Paid plans typically range from $10 to $30 per month, unlocking premium templates, unlimited resume creation, and advanced AI features like in-depth analysis and tailoring.
+Most AI resume builders offer free versions that allow the creation of one or two resumes with limited features. Paid plans typically unlock premium templates, unlimited resume creation, and advanced AI features like in-depth analysis and tailoring.
 
 **4. What is the biggest mistake to avoid?**  
 The most significant mistake is relying entirely on AI outputs. Always treat these outputs as first drafts. Review, edit, and personalize all content to ensure it accurately reflects your unique voice and experiences.

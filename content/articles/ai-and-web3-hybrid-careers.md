@@ -29,18 +29,18 @@ The need for professionals who can connect AI and Web3 is rapidly increasing. Th
 
 #### 1. Decentralized AI Developer
 
-Decentralized AI Developers focus on building and deploying AI models within decentralized environments. Instead of utilizing a centralized server like AWS, they deploy models across a network of nodes, leverage blockchains to verify outputs, or create systems where the models are governed by a DAO.
+Decentralized AI Developers focus on building and deploying AI models within decentralized environments. Instead of utilizing a centralized server, they deploy models across a network of nodes, leverage blockchains to verify outputs, or create systems where the models are governed by a DAO.
 
-* **Daily Responsibilities:** A typical day might include optimizing a machine learning model to predict NFT market trends or writing [smart contracts](/what-are-smart-contracts) to facilitate user payments for model inferences using cryptocurrency. They may also design systems that run models across decentralized computing networks like Akash or Bittensor to ensure resistance to censorship.
-* **Essential Tools & Technologies:** Proficiency in Python (using frameworks like PyTorch or TensorFlow), [Solidity](/best-programming-languages-for-blockchain-development), Rust, decentralized computing platforms (Akash, Render Network, Bittensor), Oracle networks (Chainlink), and containerization knowledge (Docker) is vital.
+* **Daily Responsibilities:** A typical day might include optimizing a machine learning model to predict NFT market trends or writing [smart contracts](/what-are-smart-contracts) to facilitate user payments for model inferences using cryptocurrency. They may also design systems that run models across decentralized computing networks to ensure resistance to censorship.
+* **Essential Tools & Technologies:** Proficiency in Python (using frameworks like PyTorch or TensorFlow), [Solidity](/best-programming-languages-for-blockchain-development), Rust, decentralized computing platforms, Oracle networks (Chainlink), and containerization knowledge (Docker) is vital.
 * **Career Path:** This role is inherently senior. Progression can lead to positions such as Lead or Principal AI Architect in a Web3 organization, founding a startup that focuses on decentralized AI infrastructure, or becoming a key researcher in the field.
 
 #### 2. ZKML (Zero-Knowledge Machine Learning) Engineer
 
 ZKML Engineers specialize in crafting zero-knowledge proofs for machine learning models. This expertise enables them to verify that an AI model operated correctly and produced a specific output without disclosing the proprietary weights of the model or the private data used.
 
-* **Daily Responsibilities:** A day might involve transforming a trained neural network into an arithmetic circuit, a mathematical representation for generating a zero-knowledge proof. They utilize specialized languages like Circom or Cairo to construct these circuits and optimize them for performance and cost, as proof generation can be computationally intensive.
-* **Essential Tools & Technologies:** Familiarity with ZK-proof frameworks (ezkl, Giza, Risc0, Axiom), circuit-building languages (Circom, Leo, Cairo), and a robust foundation in cryptography, linear algebra, and advanced mathematics is crucial.
+* **Daily Responsibilities:** A day might involve transforming a trained neural network into an arithmetic circuit, a mathematical representation for generating a zero-knowledge proof. They utilize specialized languages to construct these circuits and optimize them for performance and cost, as proof generation can be computationally intensive.
+* **Essential Tools & Technologies:** Familiarity with ZK-proof frameworks, circuit-building languages, and a robust foundation in cryptography, linear algebra, and advanced mathematics is crucial.
 * **Career Path:** ZKML is a highly specialized area. Experienced ZKML Engineers are rare and may advance to roles such as Head of Research, Chief Cryptographer, or co-founder of a ZK-focused protocol. Compensation for these roles ranks among the highest in the tech sector due to the scarcity of talent.
 
 #### 3. AI Agent Economist / Mechanism Designer
@@ -48,7 +48,7 @@ ZKML Engineers specialize in crafting zero-knowledge proofs for machine learning
 AI agents, as they become more autonomous and operate on-chain, will require their own economic frameworks. AI Agent Economists design the incentive structures and tokenomics that dictate how these agents interact, collaborate, and compete in a decentralized ecosystem.
 
 * **Daily Responsibilities:** Responsibilities may include designing a [token](/what-is-a-token)-based reward system that encourages AI agents to share valuable data or contribute computational resources to a network. They would run simulations to model agent behavior, identify potential exploits like collusion, and ensure the long-term sustainability of the economic model.
-* **Essential Tools & Technologies:** Expertise in game theory, mechanism design, statistical modeling tools (using Python with libraries like `cadCAD`), and a comprehensive understanding of [DeFi](/what-is-defi) primitives and tokenomics is essential.
+* **Essential Tools & Technologies:** Expertise in game theory, mechanism design, statistical modeling tools (using Python with libraries), and a comprehensive understanding of [DeFi](/what-is-defi) primitives and tokenomics is essential.
 * **Career Path:** This role often transitions from backgrounds in traditional economics, quantitative finance, or tokenomics. Advancement can lead to positions such as Head of Tokenomics, Chief Economist for a DAO, or a consultant specializing in designing economies for autonomous agents.
 
 #### 4. On-Chain Data Scientist (with AI Focus)
@@ -56,7 +56,7 @@ AI agents, as they become more autonomous and operate on-chain, will require the
 On-chain data presents vast opportunities for analysis. On-Chain Data Scientists utilize AI and machine learning techniques to extract actionable insights from this data. Their work goes beyond simple dashboards to include predictive modeling and behavioral analysis.
 
 * **Daily Responsibilities:** Activities may involve building models to predict which wallets are likely to adopt new protocols early, clustering transaction patterns to identify sophisticated MEV bot strategies, or generating real-time "market sentiment" scores based on on-chain activity combined with social media data.
-* **Essential Tools & Technologies:** Skills in SQL (for querying indexed data from platforms like Dune Analytics or The Graph), Python (for advanced analysis and ML), BigQuery, and a solid understanding of blockchain data structures (transactions, events, traces) are crucial.
+* **Essential Tools & Technologies:** Skills in SQL (for querying indexed data from platforms), Python (for advanced analysis and ML), BigQuery, and a solid understanding of blockchain data structures (transactions, events, traces) are crucial.
 * **Career Path:** This role represents an evolution of the traditional data scientist position. Senior practitioners can advance to roles such as Head of Data Science, Head of Quant Research, or transition into on-chain venture capital, using their analytical expertise to identify new investment opportunities.
 
 #### 5. Decentralized AI Ethicist
@@ -91,7 +91,7 @@ Entering this hybrid field requires a proactive, multidisciplinary approach to s
 
 3. **Engage with the Community:** The AI-Web3 ecosystem is evolving in an open environment.
    * Follow and interact with leading researchers and projects on platforms like X (Twitter) and Farcaster.
-   * Join Discord communities for projects like Axiom, Modulus Labs, and Bittensor. Participate in discussions, ask insightful questions, and contribute where possible.
+   * Join Discord communities for projects and participate in discussions, ask insightful questions, and contribute where possible.
    * Keep abreast of research papers, as many significant advancements occur in academia before transitioning into practical applications. Monitoring papers on arXiv is essential.
 
 ### The Next Five Years: Anticipated Developments
@@ -106,13 +106,13 @@ The AI-Web3 revolution is unfolding. For professionals willing to embrace comple
 
 ### Career Comparison Table
 
-| Role                               | Key Skills Needed                                          | Average Salary (USD)      | Job Market Demand       |
+| Role                               | Key Skills Needed                                          | Average Salary Range      | Job Market Demand       |
 |------------------------------------|----------------------------------------------------------|---------------------------|--------------------------|
-| Decentralized AI Developer          | Python, Solidity, Rust, decentralized computing          | $120,000 - $180,000      | High                     |
-| ZKML Engineer                       | ZK-proof frameworks, cryptography, circuit-building      | $150,000 - $250,000      | Very High                |
-| AI Agent Economist                  | Game theory, statistical modeling, DeFi knowledge        | $100,000 - $160,000      | Growing                  |
-| On-Chain Data Scientist             | SQL, Python, blockchain data structures                   | $110,000 - $170,000      | High                     |
-| Decentralized AI Ethicist           | AI principles, Web3 governance, communication             | $90,000 - $150,000       | Moderate                 |
-| AI Agent Product Manager            | Product management, data analysis, API design             | $100,000 - $160,000      | Increasing                |
+| Decentralized AI Developer          | Python, Solidity, Rust, decentralized computing          | Competitive               | High                     |
+| ZKML Engineer                       | ZK-proof frameworks, cryptography, circuit-building      | Competitive               | Very High                |
+| AI Agent Economist                  | Game theory, statistical modeling, DeFi knowledge        | Competitive               | Growing                  |
+| On-Chain Data Scientist             | SQL, Python, blockchain data structures                   | Competitive               | High                     |
+| Decentralized AI Ethicist           | AI principles, Web3 governance, communication             | Competitive               | Moderate                 |
+| AI Agent Product Manager            | Product management, data analysis, API design             | Competitive               | Increasing                |
 
 In this evolving landscape, the roles that merge AI and Web3 will define the future of technology. The potential for growth, innovation, and career development in this space is substantial. Embrace the journey.

@@ -66,7 +66,7 @@ A well-structured career development plan is essential for gaining control over 
 
 ## Why These Skills Matter
 
-Core competencies are essential for success in various fields, including [Web3](/what-is-web3) and traditional tech sectors. These skills shape your career trajectory. Research indicates that investing in skill development can yield a 300-500% return on investment over 10-15 years.
+Core competencies are essential for success in various fields, including [Web3](/what-is-web3) and traditional tech sectors. These skills shape your career trajectory. Research indicates that investing in skill development can yield significant returns over time.
 
 ## Skill Breakdown
 
@@ -129,7 +129,7 @@ The importance of these competencies evolves with your career level:
 |----------------|------------------------------------------------------|
 | **Junior Level** | Technical skills are crucial, but communication also gains importance. |
 | **Mid Level**    | A balance of technical and soft skills is essential; leadership potential emerges. |
-| **Senior Level**  | Soft skills become 70% of your effectiveness in roles requiring collaboration and influence. |
+| **Senior Level**  | Soft skills become increasingly vital in roles requiring collaboration and influence. |
 | **Leadership**    | Emotional intelligence and communication skills dominate, impacting team dynamics and project success. |
 
 ## Common Development Mistakes

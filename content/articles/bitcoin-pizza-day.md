@@ -19,7 +19,7 @@ In early 2010, Bitcoin remained an experiment among a small group of cryptograph
 
 On May 18, 2010, Laszlo Hanyecz, a programmer from Florida, made a historic post on the Bitcointalk.org forum. He offered 10,000 bitcoins for two pizzas, specifically requesting large ones to enjoy leftovers. His detailed request included preferences for toppings like onions, peppers, sausage, mushrooms, tomatoes, and pepperoni, while explicitly noting he wanted to avoid unusual toppings.
 
-For four days, Hanyecz's offer remained unanswered. Some forum members expressed curiosity, while others remained skeptical. At that time, the 10,000 bitcoins were worth approximately $41.
+For four days, Hanyecz's offer remained unanswered. Some forum members expressed curiosity, while others remained skeptical. At that time, the 10,000 bitcoins were worth a small amount.
 
 ### The Transaction That Made History
 
@@ -27,17 +27,17 @@ On May 22, 2010, Jeremy Sturdivant, a 19-year-old student in California, accepte
 
 This moment marked a critical milestone. Bitcoin successfully bridged the gap between the digital and physical realms, establishing its potential as a medium of exchange. Hanyecz later shared a photo of the pizzas with his family, declaring the transaction a success. He stated, "I just want to report that I successfully traded 10,000 bitcoins for pizza."
 
-### The Legacy of the $300 Million Pizzas
+### The Legacy of the Pizzas
 
-The significance of this transaction grew as Bitcoin's value skyrocketed in subsequent years. Below is a table illustrating the increasing value of those 10,000 bitcoins over the years:
+The significance of this transaction grew as Bitcoin's value increased in subsequent years. Below is a table illustrating the increasing value of those 10,000 bitcoins over the years:
 
 | Year | Value of 10,000 BTC         |
 |------|-----------------------------|
-| 2010 | $41                         |
-| 2011 | $10,000                     |
-| 2015 | $2.4 million                |
-| 2021 | $690 million                |
-| 2023 | Approximately $300 million*  |
+| 2010 | A small amount              |
+| 2011 | Significant value            |
+| 2015 | A notable amount             |
+| 2021 | Substantial value            |
+| 2023 | Hundreds of millions of dollars*  |
 
 *Value fluctuates based on market conditions.
 
@@ -59,7 +59,7 @@ The Bitcoin pizza story encapsulates the crypto journey. It illustrates vision, 
 
 The implications of Bitcoin Pizza Day extend beyond nostalgia. This event has sparked discussions about the future of cryptocurrency and its role in everyday transactions. As Bitcoin continues to gain acceptance among merchants and consumers, the desire for practical applications remains strong.
 
-In recent years, major brands have started to accept Bitcoin as payment. For example, in 2021, various companies, including Tesla and Microsoft, began exploring cryptocurrency transactions. This shift signals a growing recognition of Bitcoin's potential as a legitimate currency, spurred by moments like the pizza purchase that demonstrated its feasibility.
+In recent years, major brands have started to accept Bitcoin as payment. For example, various companies began exploring cryptocurrency transactions. This shift signals a growing recognition of Bitcoin's potential as a legitimate currency, spurred by moments like the pizza purchase that demonstrated its feasibility.
 
 Furthermore, Bitcoin Pizza Day serves as a catalyst for educational initiatives within the crypto community. Organizations often use this occasion to raise awareness about the technology behind Bitcoin and the broader cryptocurrency landscape. Workshops, webinars, and community events take place worldwide, focusing on educating individuals about blockchain technology, security, and investment strategies.
 

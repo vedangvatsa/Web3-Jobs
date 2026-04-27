@@ -33,7 +33,7 @@ This question assesses your research and genuine interest in the position. The i
 * **Align your skills with the job description.** Identify one or two key requirements from the job listing and illustrate how your skills and experiences match.
 * **Express enthusiasm for the company's mission.** Share what excites you about the company.
 
-*Example:* "I am particularly drawn to this role because it emphasizes building your new data analytics platform. In my previous position, I led a similar initiative, developing an analytics dashboard that boosted user engagement by 30%. Additionally, I admire [Company Name]'s mission to enhance educational accessibility, and I would love to contribute to that goal."
+*Example:* "I am particularly drawn to this role because it emphasizes building your new data analytics platform. In my previous position, I led a similar initiative, developing an analytics dashboard that boosted user engagement significantly. Additionally, I admire [Company Name]'s mission to enhance educational accessibility, and I would love to contribute to that goal."
 
 ### 3. "What are your strengths and weaknesses?"
 
@@ -110,8 +110,8 @@ Track your progress. Are you achieving the desired results? Be prepared to adjus
 
 | Name  | Position        | Challenge                        | Outcome                                    |
 |-------|----------------|----------------------------------|--------------------------------------------|
-| Sarah | Developer      | Struggled with project deadlines | Improved time management; met deadlines 90% of the time after 3 months. |
-| Juan  | Product Manager | Difficulty engaging users        | Launched a new feature that increased user retention by 25% within 6 months. |
+| Sarah | Developer      | Struggled with project deadlines | Improved time management; met deadlines consistently after 3 months. |
+| Juan  | Product Manager | Difficulty engaging users        | Launched a new feature that increased user retention significantly within 6 months. |
 | Maya  | Transitioning  | Adapting to a new industry      | Successfully led a project within 4 months, demonstrating adaptability.       |
 
 ### Common Mistakes to Avoid
@@ -125,7 +125,7 @@ Track your progress. Are you achieving the desired results? Be prepared to adjus
 ### Additional Considerations
 
 **Q: How long will this take to implement?**  
-Most individuals observe initial results within 2 to 4 weeks of consistent application. Significant improvements typically become visible within 8 to 12 weeks. The timeline depends on your starting point, commitment level, and feedback engagement. Actively tracking your progress through metrics or peer feedback accelerates development.
+Most individuals observe initial results within a few weeks of consistent application. Significant improvements typically become visible within a couple of months. The timeline depends on your starting point, commitment level, and feedback engagement. Actively tracking your progress through metrics or peer feedback accelerates development.
 
 **Q: What if my workplace environment doesn't support this?**  
 Even in challenging environments, you often have more control than you realize. Start with small, self-contained actions that do not require organizational approval. Focus on individual habits and personal projects while gradually building momentum. If, after persistent effort, the environment hinders your growth, this information is valuable for career decisions.

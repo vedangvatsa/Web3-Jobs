@@ -20,7 +20,7 @@ Two leading protocols drive the decentralized storage domain:
 | Protocol | Description | Key Features | Challenges |
 |----------|-------------|---------------|------------|
 | **IPFS (InterPlanetary File System)** | A peer-to-peer hypermedia protocol designed to create a faster, safer, and more open web. | - Content-addressed file storage<br>- Unique Content Identifier (CID) for retrieval<br>- Distributed network | - Files not pinned by nodes can be garbage collected, leading to potential data loss. |
-| **Arweave** | A protocol that enables permanent data storage with a one-time fee. | - Uses "Proof of Access" consensus mechanism<br>- Economic incentives for long-term data storage<br>- Aims to build a permanent, collectively-owned "permaweb" | - Reliance on miners to maintain data permanence over centuries. |
+| **Arweave** | A protocol that enables permanent data storage with a one-time fee. | - Uses "Proof of Access" consensus mechanism<br>- Economic incentives for long-term data storage<br>- Aims to build a permanent, collectively-owned "permaweb" | - Reliance on miners to maintain data permanence over time. |
 
 ### Roles for a Decentralized Storage Expert
 

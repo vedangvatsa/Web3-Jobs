@@ -23,7 +23,7 @@ Solid-state batteries replace this liquid electrolyte with a solid alternative, 
 - **Energy Density**: Solid-state batteries can employ pure lithium metal for the anode, allowing for greater energy storage compared to the graphite anodes in conventional batteries. This improvement could lead to electric vehicles with longer ranges and smartphones that can last several days on a single charge.
 - **Faster Charging**: Solid-state batteries have the potential to charge significantly quicker than traditional lithium-ion batteries.
 
-The primary challenge with solid-state batteries is scaling production. Ensuring perfect contact between solid electrodes and the electrolyte is complex, and the materials often display brittleness. Major automotive companies and startups are actively addressing these engineering challenges, with high-end electric vehicles expected to feature solid-state batteries in the coming years.
+The primary challenge with solid-state batteries is scaling production. Ensuring perfect contact between solid electrodes and the electrolyte is complex, and the materials often display brittleness. Major automotive companies and startups are actively addressing these engineering challenges, with high-end electric vehicles expected to feature solid-state batteries in the future.
 
 ### Exploring New Battery Chemistries
 
@@ -53,7 +53,7 @@ Flow batteries store energy in large tanks filled with liquid electrolyte. This 
 
 ### Current and Future Market Dynamics
 
-The global battery market is experiencing rapid growth. According to recent data, the lithium-ion battery market alone is expected to reach $129.3 billion by 2027, growing at a compound annual growth rate (CAGR) of 17.2% from 2020. The demand for batteries in electric vehicles and renewable energy systems drives this expansion.
+The global battery market is experiencing rapid growth. The lithium-ion battery market is expected to continue expanding, driven by the demand for batteries in electric vehicles and renewable energy systems.
 
 | Year       | Lithium-Ion Market Value (in Billion USD) | CAGR (%) |
 |------------|--------------------------------------------|----------|

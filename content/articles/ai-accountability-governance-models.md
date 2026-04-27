@@ -29,7 +29,7 @@ Decentralized governance leveraging blockchain and smart contracts has several a
 
 2. **Distributed Decision-Making**: Instead of a single internal team evaluating the safety of an AI system, diverse stakeholders—including independent auditors, affected users, regulatory representatives, and industry experts—can participate in the decision-making process. This inclusion of varied perspectives reduces the likelihood of capture by any single party.
 
-3. **Scalable Accountability**: Blockchain-based voting mechanisms create a framework for accountability at scale. When thousands of token holders vote on AI system deployments and their votes are permanently recorded on-chain, evading responsibility becomes significantly more challenging. Voters understand that their decisions will be permanently visible.
+3. **Scalable Accountability**: Blockchain-based voting mechanisms create a framework for accountability at scale. When numerous token holders vote on AI system deployments and their votes are permanently recorded on-chain, evading responsibility becomes significantly more challenging. Voters understand that their decisions will be permanently visible.
 
 ### Comparison of Traditional vs. Web3 AI Governance Models
 
@@ -43,7 +43,7 @@ Decentralized governance leveraging blockchain and smart contracts has several a
 
 ## Current Implementations of Web3 Governance
 
-Several blockchain projects are already testing these governance models. Uniswap, a decentralized exchange with billions in assets under management, employs a DAO governance structure. Token holders vote on system updates, ensuring that deployments of new features are both transparent and auditable.
+Several blockchain projects are already testing these governance models. Uniswap, a decentralized exchange with significant assets under management, employs a DAO governance structure. Token holders vote on system updates, ensuring that deployments of new features are both transparent and auditable.
 
 AI companies are beginning to adopt similar frameworks. Some blockchain-based oracle systems, which supply external data to smart contracts, have established governance structures that require collective voting on updates. This process enhances accountability for the data provided.
 
