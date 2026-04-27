@@ -20,14 +20,14 @@ Data from Artemis Terminal and several on-chain analytics platforms shows a decl
 
 The decline manifests not only in the total number of developers but also in retention rates. Fewer new developers remain involved with Solana compared to previous years. The following table illustrates the trend in developer activity over recent months:
 
-| Month       | Weekly Active Developers | SOL Price (USD) |
-|-------------|--------------------------|------------------|
-| December 2022 | 1,200                    | $11.50           |
-| January 2023  | 1,150                    | $12.00           |
-| February 2023 | 1,050                    | $10.00           |
-| March 2023    | 900                      | $9.50            |
-| April 2023    | 800                      | $10.20           |
-| May 2023      | 700                      | $8.00            |
+| Month       | Weekly Active Developers | SOL Price |
+|-------------|--------------------------|-----------|
+| December 2022 | 1,200                    | Significant value |
+| January 2023  | 1,150                    | Significant value |
+| February 2023 | 1,050                    | Significant value |
+| March 2023    | 900                      | Significant value |
+| April 2023    | 800                      | Significant value |
+| May 2023      | 700                      | Significant value |
 
 ### Potential Causes for the Decline
 

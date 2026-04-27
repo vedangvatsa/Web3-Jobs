@@ -62,7 +62,7 @@ Corporations usually provide more predictable schedules and comprehensive compen
 
 - **Defined Hours:** Working hours are often more standardized (e.g., 9-to-5), leading to clearer separation between work and personal life.
 - **Higher Base Salary:** Corporations typically offer competitive base salaries and consistent annual bonuses.
-- **Comprehensive Benefits:** Benefits packages are usually extensive, including health insurance, retirement plans (like a 401(k) match), and other perks. Equity is generally reserved for more senior employees and forms a smaller part of overall compensation.
+- **Comprehensive Benefits:** Benefits packages are usually extensive, including health insurance, retirement plans, and other perks. Equity is generally reserved for more senior employees and forms a smaller part of overall compensation.
 
 ### Evaluating Which Path is Right for You
 
@@ -104,9 +104,9 @@ Monitor your progress and adjust your strategy based on outcomes and feedback. M
 
 ### Real-World Examples
 
-**Example 1:** Sarah, a developer at a blockchain startup, faced challenges with time management. After implementing structured work habits, she improved her productivity by 30% within three months.
+**Example 1:** Sarah, a developer at a blockchain startup, faced challenges with time management. After implementing structured work habits, she improved her productivity significantly within three months.
 
-**Example 2:** Juan, a product manager in DeFi, struggled with team collaboration. By adopting a framework to enhance communication, he streamlined processes and increased team efficiency by 25%.
+**Example 2:** Juan, a product manager in DeFi, struggled with team collaboration. By adopting a framework to enhance communication, he streamlined processes and increased team efficiency.
 
 **Example 3:** Maya transitioned from Web2 to Web3 and used adaptive strategies to navigate her new environment. Her successful integration illustrates the effectiveness of personalized approaches in diverse workplaces.
 
@@ -121,7 +121,7 @@ Monitor your progress and adjust your strategy based on outcomes and feedback. M
 ### FAQ
 
 **Q: How long will this take to implement?**  
-A: Initial results typically appear within 2–4 weeks of consistent application. Significant improvements usually manifest within 8–12 weeks. The timeline varies based on your starting point and the effort you invest. Actively seeking feedback accelerates the process.
+A: Initial results typically appear within a few weeks of consistent application. Significant improvements usually manifest within a few months. The timeline varies based on your starting point and the effort you invest. Actively seeking feedback accelerates the process.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often have agency. Start with small actions that don’t require organizational buy-in. Document your results, and if the environment hinders your growth, consider seeking opportunities elsewhere.

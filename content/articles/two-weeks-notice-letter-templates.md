@@ -130,6 +130,6 @@ By considering these factors, you can manage your resignation professionally and
 
 ### Final Thoughts
 
-Writing a resignation letter is an essential step in leaving a job on good terms. Each template caters to different scenarios, allowing you to adapt your message based on your relationship with your employer and the circumstances of your departure. 
+Writing a resignation letter is an essential step in leaving a job on good terms. Each template caters to different scenarios, allowing you to adapt your message based on your relationship with your employer and the circumstances of your departure.
 
 Remember, your resignation letter becomes a part of your professional record. Strive for clarity, professionalism, and positivity. By doing so, you create the best possible outcome for your future career endeavors. Taking the time to craft a thoughtful resignation letter can leave a lasting impression, solidifying your reputation as a professional in your field.

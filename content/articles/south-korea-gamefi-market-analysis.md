@@ -66,22 +66,22 @@ The South Korean GameFi market is not only about gaming; it also intersects with
 
 | Metric                         | Value                          |
 |--------------------------------|--------------------------------|
-| Total Gaming Revenue (2023)   | $13.4 billion                  |
-| Mobile Gaming Revenue          | $8.2 billion                   |
-| Estimated eSports Viewership   | 20 million viewers per event   |
-| Number of Active Gamers        | 30 million                     |
-| Growth Rate (2022-2023)       | 8.5%                           |
+| Total Gaming Revenue           | Billions in value              |
+| Mobile Gaming Revenue          | Billions in value              |
+| Estimated eSports Viewership   | Significant volume per event    |
+| Number of Active Gamers        | Millions                       |
+| Growth Rate                    | Significant growth              |
 
 ### Real-World Examples
 
 **Example 1**  
-Sarah, a developer at a blockchain startup, faced challenges in engaging local players. By partnering with a South Korean publisher, she adapted her game's mechanics and narrative to local preferences. Within three months, player engagement metrics improved by 40 percent.
+Sarah, a developer at a blockchain startup, faced challenges in engaging local players. By partnering with a South Korean publisher, she adapted her game's mechanics and narrative to local preferences. Within three months, player engagement metrics improved significantly.
 
 **Example 2**  
-Juan, a product manager in [DeFi](/what-is-defi), encountered difficulties launching a P2E game. By shifting focus to a "Play-and-Own" model and enhancing community interactions, he successfully increased user retention by 50 percent over six months.
+Juan, a product manager in [DeFi](/what-is-defi), encountered difficulties launching a P2E game. By shifting focus to a "Play-and-Own" model and enhancing community interactions, he successfully increased user retention over six months.
 
 **Example 3**  
-Maya transitioned from Web2 to Web3, applying hyper-localization strategies in her game design. Her approach led to a 60 percent increase in active users within the first quarter of launch, demonstrating that targeted strategies can yield rapid results.
+Maya transitioned from Web2 to Web3, applying hyper-localization strategies in her game design. Her approach led to a notable increase in active users within the first quarter of launch, demonstrating that targeted strategies can yield rapid results.
 
 ### Common Mistakes to Avoid
 
@@ -98,7 +98,7 @@ Maya transitioned from Web2 to Web3, applying hyper-localization strategies in h
 ### FAQ
 
 **Q: How long will it take to see results in the South Korean market?**  
-A: Typically, initial results appear within 2–4 weeks of consistent effort, with measurable improvements seen within 8–12 weeks. The timeline varies based on your starting point, daily commitment, and feedback engagement. Professionals who actively monitor their progress often advance more quickly than those who do not.
+A: Typically, initial results appear within a few weeks of consistent effort, with measurable improvements seen within a couple of months. The timeline varies based on your starting point, daily commitment, and feedback engagement. Professionals who actively monitor their progress often advance more quickly than those who do not.
 
 **Q: What if my workplace does not support GameFi initiatives?**  
 A: Even in challenging environments, you can take action. Start with small changes that don't require broad approval. Focus on individual habits or small projects that align with your interests. Document your successes to build momentum.

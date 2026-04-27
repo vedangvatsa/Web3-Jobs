@@ -43,7 +43,7 @@ For trading two equally valued assets, the **constant sum formula** (`x + y = k`
 - This formula represents a straight line.
 - It allows for a 1:1 exchange rate with **zero slippage**, regardless of trade size.
 
-However, a pool based on this formula is highly fragile. If one stablecoin, such as USDC, de-pegs and trades at $0.99 on other exchanges, arbitrage bots would quickly drain all DAI from the pool, leaving only the de-pegged USDC. This scenario leads to significant losses for liquidity providers.
+However, a pool based on this formula is highly fragile. If one stablecoin, such as USDC, de-pegs and trades at a significantly lower value on other exchanges, arbitrage bots would quickly drain all DAI from the pool, leaving only the de-pegged USDC. This scenario leads to significant losses for liquidity providers.
 
 ### The StableSwap Invariant: The Best of Both Worlds
 
@@ -120,10 +120,10 @@ Continuously monitor your understanding and application of the StableSwap invari
 ## Real-World Examples of StableSwap Applications
 
 ### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with stablecoin trades until she applied StableSwap principles. Within three months, her trading efficiency improved, and she reduced slippage by 15%.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with stablecoin trades until she applied StableSwap principles. Within three months, her trading efficiency improved, and she reduced slippage.
 
 ### Example 2
-Juan, a product manager in DeFi, encountered challenges with liquidity provisioning. After implementing StableSwap strategies, he increased his pool's capital efficiency by 30%. His results underscore the utility of the StableSwap invariant.
+Juan, a product manager in DeFi, encountered challenges with liquidity provisioning. After implementing StableSwap strategies, he increased his pool's capital efficiency. His results underscore the utility of the StableSwap invariant.
 
 ### Example 3
 Maya transitioned from Web2 to Web3 and quickly adapted her trading strategies by understanding the StableSwap invariant. Her success demonstrates that this knowledge amplifies performance, regardless of prior experience.

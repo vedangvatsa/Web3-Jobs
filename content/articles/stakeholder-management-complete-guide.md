@@ -108,7 +108,7 @@ Some stakeholders will resist change or have competing priorities.
 
 **How much time should I dedicate to stakeholder management?**
 
-The time required varies based on project size and complexity. Generally, project managers might allocate 20-30% of their time to communication and stakeholder engagement. For large, politically complex projects, this percentage could increase. The focus should be on proactive management rather than reactive responses.
+The time required varies based on project size and complexity. Generally, project managers might allocate a portion of their time to communication and stakeholder engagement. For large, politically complex projects, this percentage could increase. The focus should be on proactive management rather than reactive responses.
 
 **What is the difference between a stakeholder and a shareholder?**
 

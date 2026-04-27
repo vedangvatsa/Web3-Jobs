@@ -20,7 +20,7 @@ Centralized cloud computing faces several critical issues:
 
 - **Single Point of Failure:** An outage in one AWS region can disrupt a large segment of the internet. For instance, AWS experienced major outages in 2020 that impacted services like Netflix and Disney+.
 - **Censorship Risk:** Centralized providers hold the authority to de-platform applications or users at their discretion, which raises concerns about freedom of expression.
-- **High Costs:** The lack of competition often leads to inflated, opaque pricing structures for cloud services. For example, AWS and Azure can charge up to 70% more than decentralized alternatives for similar computational tasks.
+- **High Costs:** The lack of competition often leads to inflated, opaque pricing structures for cloud services. For example, AWS and Azure can charge significantly more than decentralized alternatives for similar computational tasks.
 
 ### How Decentralized Compute Works
 
@@ -72,11 +72,11 @@ Keep track of your progress. Are you achieving the desired outcomes? Modify your
 
 #### Example 1: Sarah's Journey
 
-Sarah, a developer at a blockchain startup, faced challenges in efficiently managing computational tasks. After applying decentralized compute strategies, she improved her processing time by 40% within three months. This improvement allowed her to take on more complex projects.
+Sarah, a developer at a blockchain startup, faced challenges in efficiently managing computational tasks. After applying decentralized compute strategies, she improved her processing time significantly within three months. This improvement allowed her to take on more complex projects.
 
 #### Example 2: Juan’s Experience
 
-Juan, a product manager in [DeFi](/what-is-defi), encountered hurdles in resource allocation. By implementing decentralized compute principles, he reduced operational costs by 25% and improved project turnaround times. His experience highlights the universality of these strategies.
+Juan, a product manager in [DeFi](/what-is-defi), encountered hurdles in resource allocation. By implementing decentralized compute principles, he reduced operational costs and improved project turnaround times. His experience highlights the universality of these strategies.
 
 #### Example 3: Maya's Transition
 
@@ -93,7 +93,7 @@ Maya transitioned from a Web2 environment to Web3 and adopted decentralized comp
 ### Frequently Asked Questions
 
 **Q: How long will it take to see results from implementing decentralized compute strategies?**  
-A: Individuals often notice initial results within 2 to 4 weeks of consistent application. Significant improvements typically manifest within 8 to 12 weeks. Factors influencing this timeline include your starting point, commitment to daily practice, and active feedback-seeking. Those who track their progress through metrics or peer feedback usually advance more quickly than those relying on passive observation.
+A: Individuals often notice initial results within a few weeks of consistent application. Significant improvements typically manifest within a couple of months. Factors influencing this timeline include your starting point, commitment to daily practice, and active feedback-seeking. Those who track their progress through metrics or peer feedback usually advance more quickly than those relying on passive observation.
 
 **Q: What if my workplace environment doesn't support decentralized compute practices?**  
 A: Even in challenging environments, you often possess more agency than you might think. Begin with small, self-contained actions that require minimal organizational buy-in, such as personal projects or discussions with like-minded colleagues. Gradually build momentum and document your achievements. If, after sustained effort, structural barriers remain, it may signal that you should seek a more supportive environment.

@@ -25,7 +25,7 @@ This article clarifies the mechanics of selfish mining, its implications for blo
 | **Core Idea**                | A selfish miner keeps their discovered blocks private to gain a head start on constructing a longer secret chain.      |
 | **The Goal**                 | To force honest miners to waste their efforts on a public chain that will later be orphaned, thus increasing the selfish miner's relative share of rewards. |
 | **Key Exploit**              | This attack exploits the **[fork choice rule](/what-is-a-blockchain-fork-choice-rule)** and the inherent delays in block propagation in distributed networks. |
-| **Threat Level**             | Although theoretically possible, executing a successful selfish mining attack is challenging and typically requires a significant portion of the network's hash rate, though not necessarily a full 51%. It poses a threat to the fairness and security of blockchains. |
+| **Threat Level**             | Although theoretically possible, executing a successful selfish mining attack is challenging and typically requires a significant portion of the network's hash rate. It poses a threat to the fairness and security of blockchains. |
 
 ### The Honest Mining Process
 
@@ -83,7 +83,7 @@ In highly decentralized networks like Bitcoin, executing a successful selfish mi
 ### Frequently Asked Questions (FAQ)
 
 **Q: How much hash power is needed for a selfish mining attack to be profitable?**  
-A: Research indicates that selfish mining could theoretically become profitable with as little as 25-33% of the network's hash rate, contingent on network conditions. However, this estimate is theoretical; actual required hash power is likely higher in practice.
+A: Research indicates that selfish mining could theoretically become profitable with a minority of the network's hash rate, contingent on network conditions. However, this estimate is theoretical; actual required hash power is likely higher in practice.
 
 **Q: Is selfish mining the same as a 51% attack?**  
 A: No. A 51% attack necessitates a majority of hash power, granting the attacker full control to double-spend and censor transactions. Selfish mining focuses on maximizing revenue and can (theoretically) be executed by a minority miner. Nevertheless, a successful selfish mining strategy can pave the way to a 51% attack if it attracts additional miners to the selfish pool.
@@ -124,8 +124,8 @@ Continuously track your progress in mitigating selfish mining risks. Use metrics
 
 | Name           | Role                  | Improvement Achieved                                        | Metrics Used          |
 |----------------|-----------------------|-----------------------------------------------------------|-----------------------|
-| Sarah          | Developer             | Improved block validation time by implementing efficient algorithms.         | Block validation time decreased by 30%. |
-| Juan           | Product Manager       | Enhanced team collaboration leading to faster project delivery. | Project delivery time reduced by 25%.   |
+| Sarah          | Developer             | Improved block validation time by implementing efficient algorithms.         | Block validation time decreased significantly. |
+| Juan           | Product Manager       | Enhanced team collaboration leading to faster project delivery. | Project delivery time reduced significantly.   |
 | Maya           | Transitioning to Web3 | Adapted quickly to Web3 protocols and practices.          | Successfully completed two Web3 projects within three months. |
 
 ### Common Mistakes to Avoid
