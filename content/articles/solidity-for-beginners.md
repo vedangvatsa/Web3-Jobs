@@ -133,7 +133,7 @@ Compiling the code is just the first step. To use it, we need to deploy it to a 
 
 1.  On the left-hand side, click the "Deploy & run transactions" icon (it looks like the Ethereum logo).
 2.  **Environment:** Make sure the environment is set to "Remix VM (London)". This is your personal, in-browser blockchain.
-3.  **Account:** You'll see a list of accounts, each pre-loaded with 100 fake Ether. This is the account you'll use to deploy the contract.
+3.  **Account:** You'll see a list of accounts, each pre-loaded with fake Ether. This is the account you'll use to deploy the contract.
 4.  **Deploy:** Ensure your `SimpleStorage` contract is selected in the "Contract" dropdown. Click the orange "Deploy" button.
 
 You should see some activity in the Remix terminal at the bottom, and then under "Deployed Contracts," you will see your `SimpleStorage` contract.

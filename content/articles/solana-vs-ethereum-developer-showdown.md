@@ -25,13 +25,13 @@ To evaluate developer activity, we utilize several key metrics, each offering un
 | Monthly Active Developers     | Distinct developers who made at least one commit to a public crypto repository in a month.       |
 | Full-Time vs. Part-Time Developers | Differentiates between consistently active developers and occasional contributors.                 |
 | Developer Retention          | Percentage of developers active a year ago who remain active today, indicating ecosystem stickiness. |
-| Ecosystem Value and dApp Count | Total number of decentralized applications and the total value locked (TVL) within them.           |
+| Ecosystem Value and dApp Count | Total number of decentralized applications and the total value locked within them.           |
 
 ### Ethereum: The Incumbent Behemoth
 
 Ethereum continues to lead as the largest and most active developer ecosystem in [Web3](/what-is-web3).
 
-- **Developer Engagement**: Ethereum boasts the highest number of monthly active developers. Its ecosystem, filled with decentralized applications (dApps), Layer 2 scaling solutions, and developer tools, creates a network effect that attracts new talent continuously.
+- **Developer Engagement**: Ethereum boasts a high number of monthly active developers. Its ecosystem, filled with decentralized applications (dApps), Layer 2 scaling solutions, and developer tools, creates a network effect that attracts new talent continuously.
 - **Mature Tooling**: Established in 2015, Ethereum offers the most developed tooling, including Hardhat and Foundry, along with extensive documentation and community support. This maturity simplifies onboarding for new developers.
 - **EVM Standardization**: The Ethereum Virtual Machine (EVM) has become the industry standard for [smart contract](/what-are-smart-contracts) development. Skills acquired in Ethereum translate directly to many EVM-compatible chains like Polygon, Avalanche, and Base.
 
@@ -41,7 +41,7 @@ Despite its strengths, Ethereum’s developer activity reveals a nuanced picture
 
 Solana has positioned itself as a primary alternative to the EVM ecosystem, attracting developers who prioritize speed and low transaction costs.
 
-- **Core Talent Retention**: Although Solana has fewer monthly active developers compared to Ethereum, its retention of full-time, experienced developers is notably high. Those who persevered through the bear market and the FTX collapse have shown strong commitment to the ecosystem.
+- **Core Talent Retention**: Although Solana has fewer monthly active developers compared to Ethereum, its retention of full-time, experienced developers is notably high. Those who persevered through market challenges have shown strong commitment to the ecosystem.
 - **Distinct Tech Stack**: Solana employs Rust for smart contract development, which presents a steeper learning curve than [Solidity](/best-programming-languages-for-blockchain-development). This technical requirement often attracts seasoned systems-level engineers, enhancing the quality of its developer pool.
 - **Niche Ecosystems**: Solana has emerged as the leading platform for specific use cases demanding high throughput, including Decentralized Physical Infrastructure (DePIN), high-frequency trading on decentralized exchanges (DEXs), and micropayments.
 
@@ -60,10 +60,10 @@ In recent months, developer activity has exhibited varying trends on both platfo
 
 | Month         | Ethereum Monthly Active Developers | Solana Monthly Active Developers |
 |---------------|-----------------------------------|----------------------------------|
-| January 2026  | 4,200                             | 1,200                            |
-| February 2026 | 4,300                             | 1,000                            |
-| March 2026    | 4,500                             | 1,150                            |
-| April 2026    | 4,600                             | 1,300                            |
+| January 2026  | Significant number                | Significant number               |
+| February 2026 | Significant number                | Significant number               |
+| March 2026    | Significant number                | Significant number               |
+| April 2026    | Significant number                | Significant number               |
 
 This table indicates that while Ethereum maintains a significant lead in total developer activity, Solana is witnessing growth in its own right, particularly as it attracts specialized talent.
 
@@ -77,25 +77,25 @@ The future of Web3 will likely feature multiple thriving ecosystems. Ethereum an
 
 ## Why These Skills Matter
 
-Understanding key competencies is essential for success across modern careers, including Web3 and traditional technology sectors. Proficiency in these areas contributes significantly to career trajectories. Research indicates that developing these skills can yield a 300-500% return on investment over a 10-15 year period.
+Understanding key competencies is essential for success across modern careers, including Web3 and traditional technology sectors. Proficiency in these areas contributes significantly to career trajectories. Research indicates that developing these skills can yield a significant return on investment over a long-term period.
 
 ## Skill Breakdown
 
 ### Core Competencies
 
-**Technical Foundation**
+**Technical Foundation**  
 Basic knowledge of relevant technical concepts is essential. While expertise is not mandatory, foundational understanding helps prevent costly errors.
 
-**Communication Excellence**
+**Communication Excellence**  
 The ability to articulate complex ideas clearly is a valuable asset. Regular practice in writing emails, documentation, and presentations enhances clarity over time.
 
-**Problem-Solving Methodology**
+**Problem-Solving Methodology**  
 Adopting a systematic approach to problem-solving involves defining problems, researching solutions, evaluating options, implementing them, and measuring outcomes. This framework applies to both technical and non-technical challenges.
 
-**Learning Agility**
+**Learning Agility**  
 In dynamic fields, being able to acquire new skills quickly is invaluable. Engaging in hands-on learning, rather than passive consumption of content, fosters this agility.
 
-**Emotional Intelligence**
+**Emotional Intelligence**  
 Being aware of and managing your emotions, as well as understanding others' emotions, significantly influences effectiveness in teamwork and negotiations.
 
 ## Development Roadmap
@@ -137,7 +137,7 @@ Web3 teams are often decentralized and move at a rapid pace. These skills direct
 At various career stages, the importance of these skills evolves:
 - **Junior Level**: Technical skills dominate, but communication becomes increasingly vital.
 - **Mid Level**: A balance of technical and soft skills is necessary; leadership potential becomes apparent.
-- **Senior Level**: Soft skills play a critical role, contributing to 70% of effectiveness.
+- **Senior Level**: Soft skills play a critical role, contributing to a significant portion of effectiveness.
 - **Leadership**: Emotional intelligence and communication skills take precedence.
 
 ## Common Development Mistakes
@@ -154,19 +154,19 @@ At various career stages, the importance of these skills evolves:
 
 ## FAQ
 
-**Can these skills be taught or are they innate?**
+**Can these skills be taught or are they innate?**  
 All these skills can be developed through deliberate practice. While some individuals may have natural strengths, training and experience play a more significant role in skill acquisition.
 
-**How do I know I'm improving?**
+**How do I know I'm improving?**  
 Establish specific, measurable goals to track your progress. Use projects, feedback from others, and increasing successes in your work to assess improvement. Progress compounds over time.
 
-**What's the time commitment?**
+**What's the time commitment?**  
 Aim to dedicate 5-10 hours weekly for skill development. With consistent effort, meaningful improvement can be seen within 6-12 months.
 
-**How do I apply these skills in my current role?**
+**How do I apply these skills in my current role?**  
 Start by focusing on one skill each month. Integrate it into your daily work, seek feedback, and iterate based on your experiences.
 
-**Are these skills relevant in Web3?**
+**Are these skills relevant in Web3?**  
 Yes, these skills are particularly critical in Web3 due to the fast-paced and distributed nature of teams, along with the complexities of communication in technical environments.
 
 ## Key Takeaways

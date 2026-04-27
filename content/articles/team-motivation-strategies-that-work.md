@@ -25,7 +25,7 @@ Autonomy focuses on granting individuals control over their work rather than iso
 
 | Strategy                        | Implementation Example                                                                                                                                  |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Focus on Outcomes, Not Process  | Define goals and objectives but allow teams the flexibility to determine their approach. <br>*Instead of:* "First, you need to create a ticket..." <br>*Try:* "Our goal is to reduce login errors by 50%. I trust you to find the best approach." |
+| Focus on Outcomes, Not Process  | Define goals and objectives but allow teams the flexibility to determine their approach. <br>*Instead of:* "First, you need to create a ticket..." <br>*Try:* "Our goal is to reduce login errors significantly. I trust you to find the best approach." |
 | Flexible Work Hours             | Allow team members to choose their working hours. Flexibility shows respect for individual productivity patterns.                                       |
 | Encourage 20% Time              | Implement policies similar to Google's 20% time, allowing employees to pursue projects of their choice that benefit the company.                       |
 | Choice of Tools                 | Allow team members to select the tools and technologies they find most effective, fostering ownership and pride in their work.                           |
@@ -81,13 +81,13 @@ Understanding these concepts significantly impacts professional success. In dyna
 ### Real-World Examples of Successful Implementation
 
 #### Example 1: Sarah in Blockchain Development
-Sarah, a developer at a blockchain startup, struggled with motivation until she implemented strategies focused on autonomy and mastery. After three months, she reported a 40% increase in project completion rates and a marked improvement in team collaboration.
+Sarah, a developer at a blockchain startup, struggled with motivation until she implemented strategies focused on autonomy and mastery. After three months, she reported a significant increase in project completion rates and a marked improvement in team collaboration.
 
 #### Example 2: Juan in DeFi Product Management
-Juan, a product manager in the DeFi space, faced challenges in team engagement. By applying purpose-driven strategies, he improved team morale and productivity, leading to a 30% reduction in project delivery times.
+Juan, a product manager in the DeFi space, faced challenges in team engagement. By applying purpose-driven strategies, he improved team morale and productivity, leading to a notable reduction in project delivery times.
 
 #### Example 3: Maya's Transition from Web2 to Web3
-Maya transitioned from a Web2 company to a Web3 startup, applying intrinsic motivation principles. Her proactive approach to fostering autonomy and purpose enabled her to excel quickly, resulting in a promotion within six months.
+Maya transitioned from a Web2 company to a Web3 startup, applying intrinsic motivation principles. Her proactive approach to fostering autonomy and purpose enabled her to excel quickly, resulting in a promotion within a few months.
 
 ### Common Mistakes to Avoid
 
@@ -104,7 +104,7 @@ Maya transitioned from a Web2 company to a Web3 startup, applying intrinsic moti
 ### FAQ
 
 **Q: How long will this take to implement?**  
-A: Initial results often appear within 2–4 weeks of consistent application, with significant improvements recognized within 8–12 weeks. Variability depends on your starting point and commitment levels. Active progress tracking accelerates results.
+A: Initial results often appear within a few weeks of consistent application, with significant improvements recognized within a couple of months. Variability depends on your starting point and commitment levels. Active progress tracking accelerates results.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you can initiate small changes independently. Start with personal projects or conversations with like-minded colleagues to build momentum. If structural barriers persist, consider seeking a more supportive environment.

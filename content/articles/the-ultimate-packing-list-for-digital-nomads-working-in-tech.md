@@ -292,7 +292,7 @@ How to actually pack:
 
 ## Pro Tips
 
-**Minimize": Less stuff means:
+**Minimize**: Less stuff means:
 - Easier airport security
 - Faster movement between locations
 - Less mental overhead
@@ -311,7 +311,7 @@ How to actually pack:
 
 ## When You're Settled
 
-Once you've been somewhere 1+ months:
+Once you've been somewhere for a while:
 - Upgrade your chair and desk setup
 - Use local furniture, return when you leave
 - Set up a real workspace in accommodation
@@ -322,6 +322,6 @@ Successful digital nomad tech careers require proper equipment investment. Your 
 
 Ergonomics and backup matter more than most nomads realize initially. You only notice this after weeks of bad ergonomics or losing work.
 
-Start minimal, add gear as you figure out what you actually need. Most digital nomads discover they packed too much and use only 60% of what they brought.
+Start minimal, add gear as you figure out what you actually need. Most digital nomads discover they packed too much and use only a fraction of what they brought.
 
 Investing in quality equipment and redundancy pays dividends. You work more productively, stay healthier, and avoid catastrophes from lost data or equipment failure.

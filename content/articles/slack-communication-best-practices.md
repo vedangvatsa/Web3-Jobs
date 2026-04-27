@@ -137,10 +137,10 @@ Monitor your progress. Are you seeing results? Adjust your approach based on fee
 ## Real-World Examples
 
 ### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with communication chaos until implementing these strategies. Within three months, she saw a 40% reduction in response time and improved team collaboration.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with communication chaos until implementing these strategies. Within a few months, she saw a notable reduction in response time and improved team collaboration.
 
 ### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), faced similar communication challenges. Following this framework allowed him to streamline project updates, resulting in a 30% faster decision-making process. His experience underscores the universal applicability of these principles.
+Juan, a product manager in [DeFi](/what-is-defi), faced similar communication challenges. Following this framework allowed him to streamline project updates, resulting in a faster decision-making process. His experience underscores the universal applicability of these principles.
 
 ### Example 3
 Maya, transitioning from Web2 to Web3, adopted this approach to quickly acclimate to her new environment. Her success illustrates that these strategies are effective regardless of one's background or experience level.
@@ -156,7 +156,7 @@ Maya, transitioning from Web2 to Web3, adopted this approach to quickly acclimat
 ## FAQ
 
 **Q: How long will this take to implement?**
-A: Many individuals notice initial results within 2–4 weeks of consistent application, with significant improvements observable within 8–12 weeks. The timeline depends on your starting point, commitment to daily practice, and active feedback-seeking. Those who track their progress through metrics or peer feedback often advance more rapidly than those relying solely on passive observation.
+A: Many individuals notice initial results within a few weeks of consistent application, with significant improvements observable within a couple of months. The timeline depends on your starting point, commitment to daily practice, and active feedback-seeking. Those who track their progress through metrics or peer feedback often advance more rapidly than those relying solely on passive observation.
 
 **Q: What if my workplace environment does not support this?**
 A: Even challenging environments often allow for more agency than initially perceived. Begin with small, self-contained actions that do not require organizational approval. Establish individual habits, work on personal projects, or engage in conversations with aligned colleagues. Gradually build momentum and document your progress. If after sustained effort the environment remains obstructive, this information is valuable for career decisions.

@@ -28,7 +28,7 @@ Before we start building, it's crucial to understand Solana's unique account mod
 *   **Everything is an Account**: In Solana, there are no separate concepts of "storage" and "accounts." Everything is an "account." A smart contract is an account marked as "executable." The data that a smart contract uses is stored in separate data accounts. Even a user's [wallet](/how-to-choose-a-crypto-wallet) is an account.
 *   **Programs are Stateless**: The smart contract code itself (the "program") is stateless. It does not store any data. All data is stored in separate accounts that are passed into the program as arguments during a transaction. This is a key difference from Ethereum, where a contract can have its own internal state variables.
 *   **Ownership**: Every account on Solana has an "owner." By default, your wallet owns your wallet account. When you create a data account to be used by a program, you must assign ownership of that data account to the program. Only the owner of an account can modify its data.
-*   **Rent**: To prevent the blockchain from being filled with unused data forever, accounts on Solana must pay "rent." You can either pay rent periodically or deposit a minimum balance (currently equivalent to about two years' worth of rent) to make the account "rent-exempt." Most of the time, you will want to make your accounts rent-exempt.
+*   **Rent**: To prevent the blockchain from being filled with unused data forever, accounts on Solana must pay "rent." You can either pay rent periodically or deposit a minimum balance to make the account "rent-exempt." Most of the time, you will want to make your accounts rent-exempt.
 
 ### Setting Up Your Development Environment
 
@@ -140,7 +140,7 @@ describe("my-counter-dapp", () => {
   const program = anchor.workspace.MyCounterDapp as Program<MyCounterDapp>;
 
   // Create a keypair for our counter account
-  const counterAccount = anchor.[web3](/what-is-web3).Keypair.generate();
+  const counterAccount = anchor.web3.Keypair.generate();
 
   it("Is initialized!", async () => {
     // Call the initialize function
@@ -207,7 +207,7 @@ The Solana ecosystem is evolving rapidly, and tools like Anchor are making it mo
 
 ## Why These Skills Matter
 
-These competencies are foundational for success in modern careers. Whether you're in Web3, traditional tech, or any knowledge-intensive field, these skills determine your trajectory. Studies consistently show that these abilities have a 10-15 year ROI of 300-500%.
+These competencies are foundational for success in modern careers. Whether you're in Web3, traditional tech, or any knowledge-intensive field, these skills determine your trajectory. Studies consistently show that these abilities have a significant return on investment.
 
 ## Comprehensive Skill Breakdown
 
@@ -267,7 +267,7 @@ Web3 teams are often distributed and move quickly. These skills directly impact 
 At each career level, these skills become more important:
 - **Junior Level:** Technical skills matter most, but communication increasingly important
 - **Mid Level:** Balance of technical and soft skills; leadership potential emerges
-- **Senior Level:** Soft skills become 70% of your effectiveness
+- **Senior Level:** Soft skills become a significant portion of your effectiveness
 - **Leadership:** Emotional intelligence and communication dominate
 
 ## Common Development Mistakes
@@ -320,11 +320,11 @@ A: Absolutely. In fact, they're even more critical in Web3 due to distributed te
 
 ## Key Takeaways
 
-- These skills compound over years, providing massive ROI
+- These skills compound over years, providing significant return on investment
 - Development requires consistent practice, not just study
 - Soft skills become increasingly important as you progress
 - Feedback and mentorship accelerate learning
 - Build skills by applying them in real projects
 - Emotional intelligence is your hidden advantage
 
-The most successful professionals in Web3 and beyond aren't always the most technically brilliant-they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.
+The most successful professionals in Web3 and beyond aren't always the most technically brilliant; they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.

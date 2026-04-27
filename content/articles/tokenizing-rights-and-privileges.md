@@ -32,7 +32,7 @@ By representing rights or privileges as NFTs or other blockchain tokens, we can 
 Token-gated access stands as the most prevalent and powerful use case today. A [smart contract](/what-are-smart-contracts) can verify whether a user's [wallet](/how-to-choose-a-crypto-wallet) contains a specific NFT before granting access to a service, content, or community.
 
 - **Mechanism:** Rather than using a username and password, you "sign in with your wallet." The application checks for the required token in your wallet. If present, access is granted; if not, entry is denied.
-- **Case Study: Social Clubs & [DAOs](/what-is-a-dao):** Social DAOs like Friends with Benefits (FWB) exemplify this model. To join their exclusive Discord server and attend events, you must hold a certain number of `$FWB` tokens in your wallet. The token serves as your membership card.
+- **Case Study: Social Clubs & [DAOs](/what-is-a-dao):** Social DAOs exemplify this model. To join their exclusive Discord server and attend events, you must hold a certain number of tokens in your wallet. The token serves as your membership card.
 - **Case Study: Exclusive Content:** Musicians can release albums where each track is accessible only to holders of their "Fan Club NFT." Writers can restrict premium newsletter articles to those holding a "Subscriber NFT."
 
 The innovation lies in the fact that the membership card is a tradable asset. If you choose to exit the social club, you can sell your token on the open market to someone else who wishes to join.
@@ -101,8 +101,8 @@ Regularly track your progress. Are you achieving desired results? Adjust your me
 
 | Name   | Role                      | Challenge                            | Outcome                                  |
 |--------|---------------------------|-------------------------------------|------------------------------------------|
-| Sarah  | Developer at a blockchain startup | Struggled to implement tokenized rights | Achieved a 50% increase in project efficiency within 3 months |
-| Juan   | Product Manager in DeFi   | Faced governance participation issues | Increased community engagement by 40% through effective token-based voting systems |
+| Sarah  | Developer at a blockchain startup | Struggled to implement tokenized rights | Achieved a significant increase in project efficiency within a few months |
+| Juan   | Product Manager in DeFi   | Faced governance participation issues | Increased community engagement through effective token-based voting systems |
 | Maya   | Transitioned from Web2 to Web3 | Difficulty adapting to new ecosystem | Rapidly adapted using tokenization strategies, leading to a successful role transition |
 
 ### Common Pitfalls to Avoid
@@ -116,7 +116,7 @@ Regularly track your progress. Are you achieving desired results? Adjust your me
 ### Frequently Asked Questions
 
 **How long will it take to see results?**  
-Most individuals notice initial improvements within 2 to 4 weeks of consistent application. Significant changes typically manifest within 8 to 12 weeks, depending on your starting point and commitment level. Professionals who actively track their progress—through metrics, peer feedback, or journaling—often advance more quickly than those relying on passive observation.
+Most individuals notice initial improvements within a few weeks of consistent application. Significant changes typically manifest within a few months, depending on your starting point and commitment level. Professionals who actively track their progress—through metrics, peer feedback, or journaling—often advance more quickly than those relying on passive observation.
 
 **What if my workplace does not support tokenized rights?**  
 In challenging environments, you often have more control than it seems. Start with small, self-contained initiatives that require no organizational approval, such as personal projects or conversations with aligned colleagues. Gradually build momentum while documenting your achievements. If, after sustained effort, the environment continually obstructs your growth, it may signal the need to seek an organization that values development.

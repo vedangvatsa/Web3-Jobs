@@ -27,7 +27,7 @@ The role of a BizDev professional in Web3 diverges significantly from traditiona
 1. **Ecosystem Mapping and Strategic Planning**: A BizDev manager must thoroughly understand their ecosystem. This includes mapping out existing projects and identifying potential high-impact partners.
 2. **Building Relationships**: Establishing authentic, long-term connections with teams at other protocols is central to this role. Engagement occurs through platforms like Twitter, Discord, and industry events.
 3. **Spotting Integration Opportunities**: The BizDev professional actively seeks creative ways for protocols to collaborate.
-   - **Example ([DeFi](/what-is-defi))**: A lending protocol could collaborate with a liquid [staking](/how-to-become-a-web3-staking-specialist) protocol to allow their Liquid Staking [Token](/what-is-a-token) (LST) to be used as collateral. This partnership benefits both parties: the lending protocol increases total value locked (TVL), while the LST gains a new application.
+   - **Example ([DeFi](/what-is-defi))**: A lending protocol could collaborate with a liquid [staking](/how-to-become-a-web3-staking-specialist) protocol to allow their Liquid Staking [Token](/what-is-a-token) (LST) to be used as collateral. This partnership benefits both parties: the lending protocol increases its total value locked, while the LST gains a new application.
    - **Example (Gaming)**: A Web3 gaming platform might join forces with an [NFT](/what-are-nfts) marketplace to feature their collection, attracting new users to the game.
 4. **Executing Deals**: This responsibility involves negotiating partnership terms, which may include co-marketing agreements, token swaps, or technical integration support.
 
@@ -50,23 +50,23 @@ A career in Web3 BizDev suits individuals who possess strong social skills and s
 
 ## The Web3 Opportunity
 
-The Web3 sector is witnessing unparalleled growth, with demand for qualified talent significantly surpassing supply. Compared to traditional tech roles, Web3 offers distinct advantages, including higher compensation, equity opportunities, remote work options, and the chance to contribute to transformative technology.
+The Web3 sector is witnessing significant growth, with demand for qualified talent significantly surpassing supply. Compared to traditional tech roles, Web3 offers distinct advantages, including higher compensation, equity opportunities, remote work options, and the chance to contribute to transformative technology.
 
 ### Market Context
 
 The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ fundamentally from Web2, shaped by the decentralized nature of blockchain organizations and an ongoing global talent shortage.
 
-| Role Type             | Average Compensation (USD)   | Example Positions                  |
-|----------------------|------------------------------|------------------------------------|
-| Senior Solidity Engineer | $200,000 - $350,000         | Smart Contract Developer           |
-| Product Manager      | $150,000 - $250,000         | Product Lead, Protocol Manager     |
-| Business Development Lead | $150,000 - $250,000         | Partnership Manager, BizDev Lead   |
+| Role Type             | Average Compensation   | Example Positions                  |
+|----------------------|-----------------------|------------------------------------|
+| Senior Solidity Engineer | Significant value      | Smart Contract Developer           |
+| Product Manager      | Significant value      | Product Lead, Protocol Manager     |
+| Business Development Lead | Significant value      | Partnership Manager, BizDev Lead   |
 
-- **Compensation**: Web3 roles generally offer compensation that is 20-40% higher than their Web2 counterparts. Senior Solidity engineers can command total compensation ranging from $200,000 to $350,000, while product managers and business development leads typically earn between $150,000 and $250,000. Many packages include token allocations in addition to traditional equity.
+- **Compensation**: Web3 roles generally offer compensation that is higher than their Web2 counterparts. Senior Solidity engineers can command total compensation that reflects significant value, while product managers and business development leads typically earn within a similar range. Many packages include token allocations in addition to traditional equity.
   
 - **Remote Work Culture**: Most Web3 organizations function on a fully remote or primarily remote basis. Teams are often spread across various time zones, providing opportunities for talent from regions that are typically underserved by tech hiring, including Southeast Asia, Latin America, and Africa.
 
-- **Career Advancement**: Professionals in Web3 experience rapid career growth due to the swift scaling of companies and a persistent talent shortage. It is common for mid-level professionals to transition into senior or lead roles within 18-24 months of entering the industry.
+- **Career Advancement**: Professionals in Web3 experience rapid career growth due to the swift scaling of companies and a persistent talent shortage. It is common for mid-level professionals to transition into senior or lead roles within a relatively short timeframe after entering the industry.
 
 - **Equity Opportunities**: Token and equity packages are standard in Web3, presenting substantial wealth-building potential for early team members at successful protocols.
 
@@ -112,10 +112,10 @@ Focus on roles that leverage your existing skills alongside your new Web3 knowle
 ## Real-World Success Stories
 
 ### Transition from Developer to Smart Contract Engineer
-Alex, a backend engineer with five years of experience in a FAANG company, dedicated three months to learning Solidity while continuing his full-time job. His contributions to an open-source protocol caught the eye of a leading DeFi project, enabling him to transition with a 50% salary increase and significant equity.
+Alex, a backend engineer with five years of experience in a FAANG company, dedicated three months to learning Solidity while continuing his full-time job. His contributions to an open-source protocol caught the eye of a leading DeFi project, enabling him to transition with a significant salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a product manager transitioning from traditional finance, utilized her domain knowledge in DeFi. By combining her expertise in financial products with an understanding of Web3 technology, she secured a position at a prominent DeFi protocol within four weeks.
+Jessica, a product manager transitioning from traditional finance, utilized her domain knowledge in DeFi. By combining her expertise in financial products with an understanding of Web3 technology, she secured a position at a prominent DeFi protocol within a short timeframe.
 
 ### Career Changer Success Story
 Marcus left his corporate job to concentrate on Web3 for six months. Through diligent learning, networking, and building a [portfolio](/building-web3-portfolio), he landed a role as the head of Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous salary.
@@ -136,7 +136,7 @@ Marcus left his corporate job to concentrate on Web3 for six months. Through dil
 A: No. The Web3 ecosystem requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal support, operations, and business development are all in high demand. Your existing skills are relevant; you just need to add the Web3 context, such as understanding wallets, DAOs, and the significance of decentralization. Hiring managers often prioritize domain expertise and a genuine interest in the space over specific blockchain knowledge.
 
 **Q: How much can I earn in Web3?**
-A: Compensation in Web3 consistently exceeds that of Web2 roles. Base salaries can range from 30% to 60% higher on average, with Solidity engineers and smart contract auditors receiving the largest premiums due to limited talent availability. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations with the potential for significant appreciation. Senior engineers at well-funded protocols can earn between $200,000 and $350,000, while even non-technical roles see substantial compensation increases compared to Web2 equivalents.
+A: Compensation in Web3 consistently exceeds that of Web2 roles. Base salaries can be significantly higher on average, with Solidity engineers and smart contract auditors receiving the largest premiums due to limited talent availability. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations with the potential for significant appreciation. Senior engineers at well-funded protocols can earn total compensation that reflects significant value, while even non-technical roles see substantial compensation increases compared to Web2 equivalents.
 
 **Q: Is transitioning to Web3 risky?**
 A: Every career transition entails risk, and Web3 is no different, given market volatility and project lifecycles. However, you can manage this risk by targeting well-funded protocols with proven revenue rather than speculative early-stage projects. Verify the team's track record and ensure that your base salary is in fiat rather than entirely in tokens. Professionals who view Web3 as a long-term career move rather than a quick profit opportunity tend to thrive.
@@ -149,7 +149,7 @@ A: Historically, bear markets provide excellent opportunities to enter Web3. As 
 
 ## Key Takeaways
 
-- Web3 presents significant compensation benefits, typically 20-40% above Web2 roles, with accelerated career trajectories and the chance to influence technology that is reshaping finance, governance, and digital ownership.
+- Web3 presents significant compensation benefits, typically above Web2 roles, with accelerated career trajectories and the chance to influence technology that is reshaping finance, governance, and digital ownership.
 - Most professionals complete a significant transition to Web3 in 2-6 months of dedicated effort, with engineers and product managers usually moving the fastest due to their transferable skills.
 - Your existing domain expertise is valuable in Web3. Layering blockchain-specific knowledge onto your current skills will enhance your marketability.
 - Networking through Discord and Twitter, along with showcasing portfolio projects, tends to be more effective than formal certifications for securing Web3 positions.
