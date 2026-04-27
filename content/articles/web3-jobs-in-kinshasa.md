@@ -6,7 +6,7 @@ data-ai-hint: "kinshasa drc city"
 description: "A career guide to the emerging Web3 job market in Kinshasa. Explore how the capital of the Democratic Republic of Congo is leveraging its vast resources."
 category: "Career Guides"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 Kinshasa, the vibrant and sprawling megacity capital of the Democratic Republic of Congo (DRC), is a place of immense potential for [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology. As one of the largest cities in Africa, with a massive and youthful population, Kinshasa is a frontier market where decentralized technologies can have a improving how impact. The country's vast mineral wealth, crucial for the global technology supply chain, also presents a powerful and specific use case for blockchain in ensuring supply chain transparency and ethical sourcing.

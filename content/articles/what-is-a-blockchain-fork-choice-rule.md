@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/bcrule/1200/630"
 data-ai-hint: "fork choice"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 ## What is a Blockchain Fork Choice Rule? A Complete Guide
