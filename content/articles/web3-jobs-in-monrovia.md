@@ -7,7 +7,7 @@ description: "A career guide to the emerging Web3 job market in Monrovia. Explor
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 Monrovia, the capital of Liberia, is a city defined by its resilience and its ongoing journey of recovery and development. In this context, the nascent world of [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology presents a powerful set of tools to address some of the country's most fundamental challenges. While the local crypto ecosystem is in its very earliest stages, there is a small but growing interest from entrepreneurs, NGOs, and the international community in leveraging blockchain for social and economic impact.

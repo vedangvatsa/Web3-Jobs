@@ -7,7 +7,7 @@ description: "A simple explanation of what a 'protocol' means in the context of 
 category: "Technology Deep Dives"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 In the world of [Web3](/what-is-web3), the word **"protocol"** is used constantly. You'll hear about "lending protocols," "liquid [staking](/how-to-become-a-web3-staking-specialist) protocols," or "[decentralized exchange](/what-is-a-decentralized-exchange-dex) protocols." But what does it actually mean?

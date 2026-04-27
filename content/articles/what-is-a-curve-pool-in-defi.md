@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/curvepool/1200/630"
 data-ai-hint: "curve pool"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 ## What is a Curve Pool in DeFi? A Complete Guide

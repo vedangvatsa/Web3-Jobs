@@ -7,7 +7,7 @@ category: "Industry Insights"
 data-ai-hint: "defi explained"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 DeFi stands for Decentralized Finance. It's an attempt to rebuild financial services-lending, borrowing, trading, insurance-on top of [blockchain](/what-is-a-blockchain) networks instead of relying on banks and traditional financial institutions.

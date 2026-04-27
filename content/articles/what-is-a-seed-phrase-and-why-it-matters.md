@@ -7,7 +7,7 @@ description: "Your seed phrase is the master key to your crypto wallet. This gui
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 If you've ever set up a **[non-custodial crypto wallet](/what-is-a-custodial-vs-non-custodial-wallet)** like MetaMask, you will have been given a **seed phrase**. It's a list of 12 or 24 simple words that you are instructed to write down and keep safe. It is, without exaggeration, the most important piece of information you own in the [Web3](/what-is-web3) world.

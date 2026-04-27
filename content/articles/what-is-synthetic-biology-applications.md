@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/synbio/1200/630"
 data-ai-hint: "biology lab"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 Synthetic biology is an exciting and rapidly advancing field that takes genetic engineering to a whole new level. If traditional genetic engineering is like editing a sentence in a book, synthetic biology is like writing entirely new chapters or even new books from scratch. It involves the design and construction of new biological parts, devices, and systems that don't exist in the natural world, or the re-design of existing biological systems for useful purposes.

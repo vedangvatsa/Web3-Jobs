@@ -7,7 +7,7 @@ description: "A guide to the various career paths for developers in Web3, from s
 category: "Career Guides"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 The demand for [Web3](/what-is-web3) developers is at an all-time high, but the term "Web3 developer" is incredibly broad. The reality is that the field has matured and specialized. A developer working on the core of a Layer 1 [blockchain](/what-is-a-blockchain) has a very different skillset from someone building the frontend of an [NFT](/what-are-nfts) marketplace. Understanding these different career paths is crucial for any developer looking to enter or navigate the space.
