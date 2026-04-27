@@ -43,8 +43,9 @@ const CATEGORY_CONTENT: Record<string, { description: string }> = {
 };
 
 export async function generateStaticParams() {
-  const categorySlugs = await getAllCategorySlugs();
-  return categorySlugs.map(slug => ({ category: slug }));
+  // All 157 glossary categories are generated on-demand via ISR.
+  // They are low-traffic SEO pages that don't need to be pre-rendered.
+  return [];
 }
 
 export async function generateMetadata({ params }: { params: { category: string } }): Promise<Metadata> {

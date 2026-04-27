@@ -1,0 +1,6036 @@
+{
+  "a-complete-guide-to-gary-vaynerchuk-on-web3.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1507,
+    "slopScore": 0
+  },
+  "a-complete-guide-to-sbf-on-web3.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1726,
+    "slopScore": 0
+  },
+  "a-day-in-the-life-of-a-defi-quant.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1657,
+    "slopScore": 0
+  },
+  "ai-driven-agency-from-automation-to-autonomy.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1597,
+    "slopScore": 0
+  },
+  "additive-manufacturing-complete-guide.md": {
+    "status": "done",
+    "oldWordCount": 1094,
+    "newWordCount": 991,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:23.145Z"
+  },
+  "ai-vs-human-intelligence-complete-comparison.md": {
+    "status": "done",
+    "oldWordCount": 1057,
+    "newWordCount": 956,
+    "oldSlopScore": 0,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:28.039Z"
+  },
+  "asking-smart-questions-as-new-employee.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2647,
+    "slopScore": 0
+  },
+  "a-fairer-way-to-make-collective-decisions.md": {
+    "status": "done",
+    "oldWordCount": 909,
+    "newWordCount": 912,
+    "oldSlopScore": 1,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:50:28.280Z"
+  },
+  "an-introduction-to-foundry-the-modern-solidity-toolkit.md": {
+    "status": "done",
+    "oldWordCount": 717,
+    "newWordCount": 872,
+    "oldSlopScore": 0,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:50:28.365Z"
+  },
+  "agency-vs-in-house-job-differences.md": {
+    "status": "done",
+    "oldWordCount": 806,
+    "newWordCount": 960,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:28.867Z"
+  },
+  "ai-accountability-governance-models.md": {
+    "status": "done",
+    "oldWordCount": 950,
+    "newWordCount": 1072,
+    "oldSlopScore": 0,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:28.890Z"
+  },
+  "answering-why-web3-crafting-your-personal-narrative-for-interviews.md": {
+    "status": "done",
+    "oldWordCount": 783,
+    "newWordCount": 1011,
+    "oldSlopScore": 0,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:50:30.106Z"
+  },
+  "a-guide-to-verifiable-credentials-in-decentralized-identity.md": {
+    "status": "done",
+    "oldWordCount": 1060,
+    "newWordCount": 964,
+    "oldSlopScore": 0,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:50:30.338Z"
+  },
+  "ai-and-web3-engineering-careers.md": {
+    "status": "done",
+    "oldWordCount": 984,
+    "newWordCount": 918,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:30.478Z"
+  },
+  "best-cities-for-remote-workers.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1538,
+    "slopScore": 0
+  },
+  "a-complete-guide-to-jack-dorsey-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1291,
+    "newWordCount": 968,
+    "oldSlopScore": 0,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:50:30.664Z"
+  },
+  "ai-for-freelancers-complete-guide.md": {
+    "status": "done",
+    "oldWordCount": 1288,
+    "newWordCount": 1064,
+    "oldSlopScore": 2,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:31.389Z"
+  },
+  "a-complete-guide-to-tim-draper-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1136,
+    "newWordCount": 1091,
+    "oldSlopScore": 1,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:32.059Z"
+  },
+  "a-deep-dive-into-rollups-for-ethereum-scaling.md": {
+    "status": "done",
+    "oldWordCount": 865,
+    "newWordCount": 1002,
+    "oldSlopScore": 0,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:32.237Z"
+  },
+  "ai-bias-and-fairness-explained.md": {
+    "status": "done",
+    "oldWordCount": 1400,
+    "newWordCount": 1180,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:32.663Z"
+  },
+  "ai-ethics-and-responsible-ai-guide.md": {
+    "status": "done",
+    "oldWordCount": 1293,
+    "newWordCount": 1122,
+    "oldSlopScore": 1,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:50:33.575Z"
+  },
+  "ai-career-opportunities-and-salaries.md": {
+    "status": "done",
+    "oldWordCount": 1413,
+    "newWordCount": 1112,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:34.312Z"
+  },
+  "a-complete-guide-to-balaji-srinivasan-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1446,
+    "newWordCount": 1173,
+    "oldSlopScore": 0,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:50:35.612Z"
+  },
+  "10-dos-and-donts-for-web3-resume.md": {
+    "status": "done",
+    "oldWordCount": 1060,
+    "newWordCount": 1142,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:35.731Z"
+  },
+  "a-complete-guide-to-vitalik-buterin-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1468,
+    "newWordCount": 1076,
+    "oldSlopScore": 0,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:36.337Z"
+  },
+  "account-abstraction-explained.md": {
+    "status": "done",
+    "oldWordCount": 1190,
+    "newWordCount": 1070,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:36.546Z"
+  },
+  "a-complete-guide-to-naval-ravikant-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1241,
+    "newWordCount": 1179,
+    "oldSlopScore": 5,
+    "newSlopScore": 15,
+    "timestamp": "2026-04-27T10:50:36.576Z"
+  },
+  "arbitrage-opportunities-in-defi-markets.md": {
+    "status": "done",
+    "oldWordCount": 1149,
+    "newWordCount": 1131,
+    "oldSlopScore": 0,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:50:37.221Z"
+  },
+  "a-complete-guide-to-mark-zuckerberg-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1354,
+    "newWordCount": 1248,
+    "oldSlopScore": 0,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:50:37.441Z"
+  },
+  "a-complete-guide-to-snoop-dogg-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1258,
+    "newWordCount": 1286,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:38.348Z"
+  },
+  "ai-resume-builder-best-practices-guide.md": {
+    "status": "done",
+    "oldWordCount": 1473,
+    "newWordCount": 1398,
+    "oldSlopScore": 1,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:38.388Z"
+  },
+  "a-complete-guide-to-chris-dixon-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1422,
+    "newWordCount": 1161,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:50:42.542Z"
+  },
+  "10-essential-skills-for-web3.md": {
+    "status": "done",
+    "oldWordCount": 1499,
+    "newWordCount": 1490,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:50:44.476Z"
+  },
+  "10-big-ideas-in-web3-for-2025.md": {
+    "status": "done",
+    "oldWordCount": 1531,
+    "newWordCount": 1613,
+    "oldSlopScore": 1,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:50:45.575Z"
+  },
+  "becoming-a-web3-digital-content-monetization-specialist.md": {
+    "status": "done",
+    "oldWordCount": 629,
+    "newWordCount": 679,
+    "oldSlopScore": 2,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:45.873Z"
+  },
+  "avalanche-blockchain-platform-and-its-unique-features.md": {
+    "status": "done",
+    "oldWordCount": 501,
+    "newWordCount": 751,
+    "oldSlopScore": 0,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:50:46.751Z"
+  },
+  "battery-technology-advances-explained.md": {
+    "status": "done",
+    "oldWordCount": 953,
+    "newWordCount": 837,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:47.147Z"
+  },
+  "blockchain-oracle-networks-and-data-integration.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1729,
+    "slopScore": 0
+  },
+  "becoming-a-web3-decentralized-storage-expert.md": {
+    "status": "done",
+    "oldWordCount": 542,
+    "newWordCount": 936,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:50:49.122Z"
+  },
+  "becoming-a-web3-technical-writer.md": {
+    "status": "done",
+    "oldWordCount": 853,
+    "newWordCount": 854,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:49.967Z"
+  },
+  "best-programming-languages-for-ai.md": {
+    "status": "done",
+    "oldWordCount": 1365,
+    "newWordCount": 1011,
+    "oldSlopScore": 0,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:50:52.914Z"
+  },
+  "bitcoin-genesis-block-day.md": {
+    "status": "done",
+    "oldWordCount": 365,
+    "newWordCount": 957,
+    "oldSlopScore": 1,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:55.725Z"
+  },
+  "best-ai-courses-for-beginners-online.md": {
+    "status": "done",
+    "oldWordCount": 1273,
+    "newWordCount": 1069,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:50:55.927Z"
+  },
+  "ai-and-web3-hybrid-careers.md": {
+    "status": "done",
+    "oldWordCount": 2044,
+    "newWordCount": 2018,
+    "oldSlopScore": 2,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:50:56.237Z"
+  },
+  "bitcoin-pizza-day.md": {
+    "status": "done",
+    "oldWordCount": 857,
+    "newWordCount": 1102,
+    "oldSlopScore": 1,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:50:59.995Z"
+  },
+  "beyond-the-code.md": {
+    "status": "done",
+    "oldWordCount": 987,
+    "newWordCount": 1047,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:00.748Z"
+  },
+  "best-ai-writing-tools-for-students.md": {
+    "status": "done",
+    "oldWordCount": 1452,
+    "newWordCount": 1321,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:03.175Z"
+  },
+  "best-web3-job-boards-for-crypto-careers.md": {
+    "status": "done",
+    "oldWordCount": 1206,
+    "newWordCount": 1159,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:03.873Z"
+  },
+  "best-programming-languages-for-blockchain-development.md": {
+    "status": "done",
+    "oldWordCount": 1542,
+    "newWordCount": 1320,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:04.582Z"
+  },
+  "10-big-ideas-in-web3-for-2026.md": {
+    "status": "done",
+    "oldWordCount": 2138,
+    "newWordCount": 2242,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:51:05.227Z"
+  },
+  "best-smart-contract-ide-for-beginners.md": {
+    "status": "done",
+    "oldWordCount": 1476,
+    "newWordCount": 1413,
+    "oldSlopScore": 22,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:51:06.895Z"
+  },
+  "blockchain-in-healthcare-projects-and-implementations.md": {
+    "status": "done",
+    "oldWordCount": 2169,
+    "newWordCount": 1042,
+    "oldSlopScore": 11,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:51:12.442Z"
+  },
+  "bitcoin-whitepaper-day.md": {
+    "status": "done",
+    "oldWordCount": 1739,
+    "newWordCount": 1734,
+    "oldSlopScore": 11,
+    "newSlopScore": 8,
+    "timestamp": "2026-04-27T10:51:17.191Z"
+  },
+  "bleisure-destinations-perfect-for-remote-workers.md": {
+    "status": "done",
+    "oldWordCount": 1891,
+    "newWordCount": 1733,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:17.544Z"
+  },
+  "blockchain-based-voting-systems-and-their-real-world-impact.md": {
+    "status": "done",
+    "oldWordCount": 2342,
+    "newWordCount": 1968,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:24.350Z"
+  },
+  "blockchain-engineering-career-path-and-requirements.md": {
+    "status": "done",
+    "oldWordCount": 1773,
+    "newWordCount": 1741,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:25.476Z"
+  },
+  "blockchain-based-certificate-verification-systems.md": {
+    "status": "done",
+    "oldWordCount": 1893,
+    "newWordCount": 1949,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:51:26.820Z"
+  },
+  "blockchain-features-that-make-it-revolutionary.md": {
+    "status": "done",
+    "oldWordCount": 1781,
+    "newWordCount": 1840,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:27.305Z"
+  },
+  "blockchain-technology-explained-in-simple-words.md": {
+    "status": "done",
+    "oldWordCount": 1864,
+    "newWordCount": 1356,
+    "oldSlopScore": 1,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:51:28.069Z"
+  },
+  "blockchain-immutability-explained-for-beginners.md": {
+    "status": "done",
+    "oldWordCount": 1750,
+    "newWordCount": 1733,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:29.207Z"
+  },
+  "blockchain-developer-salary-trends.md": {
+    "status": "done",
+    "oldWordCount": 2016,
+    "newWordCount": 1953,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:31.574Z"
+  },
+  "blockchain-explorer-guide-for-bitcoin-and-ethereum.md": {
+    "status": "done",
+    "oldWordCount": 2142,
+    "newWordCount": 1989,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:33.476Z"
+  },
+  "best-web3-jobs-for-non-developers.md": {
+    "status": "done",
+    "oldWordCount": 2455,
+    "newWordCount": 2183,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:33.825Z"
+  },
+  "blockchain-security-and-why-it-cannot-be-hacked.md": {
+    "status": "done",
+    "oldWordCount": 2022,
+    "newWordCount": 1811,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:34.293Z"
+  },
+  "bonding-curves-for-token-launch-explained.md": {
+    "status": "done",
+    "oldWordCount": 1418,
+    "newWordCount": 1293,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:51:34.365Z"
+  },
+  "argentina-web3-marketing-landscape.md": {
+    "status": "done",
+    "oldWordCount": 2016,
+    "newWordCount": 2396,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:34.872Z"
+  },
+  "blockchain-qa-jobs-and-testing-methodologies.md": {
+    "status": "done",
+    "oldWordCount": 2059,
+    "newWordCount": 1893,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:51:35.445Z"
+  },
+  "blockchain-hackathon-preparation-and-winning-strategies.md": {
+    "status": "done",
+    "oldWordCount": 2082,
+    "newWordCount": 1969,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:36.154Z"
+  },
+  "blockchain-mining-explained-for-beginners.md": {
+    "status": "done",
+    "oldWordCount": 2123,
+    "newWordCount": 2006,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:51:36.169Z"
+  },
+  "blockchain-developer-roadmap.md": {
+    "status": "done",
+    "oldWordCount": 2369,
+    "newWordCount": 2234,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:36.363Z"
+  },
+  "blockchain-in-banking-and-financial-services-revolution.md": {
+    "status": "done",
+    "oldWordCount": 2253,
+    "newWordCount": 1773,
+    "oldSlopScore": 10,
+    "newSlopScore": 7,
+    "timestamp": "2026-04-27T10:51:37.260Z"
+  },
+  "brain-computer-interface-explained.md": {
+    "status": "done",
+    "oldWordCount": 1912,
+    "newWordCount": 1570,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:43.417Z"
+  },
+  "blockchain-transaction-verification-process-explained.md": {
+    "status": "done",
+    "oldWordCount": 1983,
+    "newWordCount": 1937,
+    "oldSlopScore": 9,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:51:46.861Z"
+  },
+  "blockchain-remote-jobs-and-salary-expectations.md": {
+    "status": "done",
+    "oldWordCount": 1801,
+    "newWordCount": 1839,
+    "oldSlopScore": 9,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:51:47.178Z"
+  },
+  "blockchain-wallet-security-and-best-practices.md": {
+    "status": "done",
+    "oldWordCount": 2063,
+    "newWordCount": 2012,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:48.765Z"
+  },
+  "breaking-into-web3-game-development-jobs.md": {
+    "status": "done",
+    "oldWordCount": 1823,
+    "newWordCount": 1618,
+    "oldSlopScore": 9,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:51:49.681Z"
+  },
+  "blockchain-yield-farming-and-passive-income-strategies.md": {
+    "status": "done",
+    "oldWordCount": 2003,
+    "newWordCount": 1994,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:51.313Z"
+  },
+  "breaking-into-web3-a-guide-for-non-technical-professionals.md": {
+    "status": "done",
+    "oldWordCount": 1692,
+    "newWordCount": 1798,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:51:51.741Z"
+  },
+  "blockchain-use-cases-beyond-cryptocurrency.md": {
+    "status": "done",
+    "oldWordCount": 2086,
+    "newWordCount": 1782,
+    "oldSlopScore": 9,
+    "newSlopScore": 9,
+    "timestamp": "2026-04-27T10:51:52.759Z"
+  },
+  "building-a-career-as-a-web3-blockchain-infrastructure-engineer.md": {
+    "status": "done",
+    "oldWordCount": 1756,
+    "newWordCount": 1636,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:51:53.762Z"
+  },
+  "building-trust-in-virtual-teams.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 1032,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:56.643Z"
+  },
+  "breaking-into-blockchain-devops.md": {
+    "status": "done",
+    "oldWordCount": 2079,
+    "newWordCount": 1909,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:51:57.155Z"
+  },
+  "building-a-network-for-web3-career-opportunities.md": {
+    "status": "done",
+    "oldWordCount": 2012,
+    "newWordCount": 1858,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:57.420Z"
+  },
+  "career-gap-explanation-for-resume.md": {
+    "status": "done",
+    "oldWordCount": 1821,
+    "newWordCount": 1031,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:51:59.339Z"
+  },
+  "career-break-benefits-and-drawbacks.md": {
+    "status": "done",
+    "oldWordCount": 1892,
+    "newWordCount": 1175,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:01.585Z"
+  },
+  "career-change-guide-for-professionals.md": {
+    "status": "done",
+    "oldWordCount": 1734,
+    "newWordCount": 1211,
+    "oldSlopScore": 13,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:02.662Z"
+  },
+  "building-career-paths-for-web3-privacy-engineers.md": {
+    "status": "done",
+    "oldWordCount": 1602,
+    "newWordCount": 1505,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:52:03.957Z"
+  },
+  "career-plateau-how-to-break-through.md": {
+    "status": "done",
+    "oldWordCount": 2331,
+    "newWordCount": 1314,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:04.795Z"
+  },
+  "business-writing-tips-for-professionals.md": {
+    "status": "done",
+    "oldWordCount": 2303,
+    "newWordCount": 1715,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:10.583Z"
+  },
+  "career-development-plan-template-guide.md": {
+    "status": "done",
+    "oldWordCount": 1173,
+    "newWordCount": 1585,
+    "oldSlopScore": 0,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:11.116Z"
+  },
+  "career-opportunities-for-web3-blockchain-networking-engineers.md": {
+    "status": "done",
+    "oldWordCount": 1736,
+    "newWordCount": 1468,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:11.587Z"
+  },
+  "challenges-in-agentic-ai-governance.md": {
+    "status": "done",
+    "oldWordCount": 1404,
+    "newWordCount": 1416,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:13.559Z"
+  },
+  "building-your-first-dapp-on-solana-with-rust.md": {
+    "status": "done",
+    "oldWordCount": 1855,
+    "newWordCount": 1578,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:13.923Z"
+  },
+  "building-blockchain-applications-using-python.md": {
+    "status": "done",
+    "oldWordCount": 2071,
+    "newWordCount": 1786,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:14.359Z"
+  },
+  "coffee-chat-etiquette-for-professionals.md": {
+    "status": "done",
+    "oldWordCount": 2297,
+    "newWordCount": 1356,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:17.208Z"
+  },
+  "building-relationships-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2058,
+    "newWordCount": 2270,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:17.407Z"
+  },
+  "building-relationships-with-new-team.md": {
+    "status": "done",
+    "oldWordCount": 2812,
+    "newWordCount": 2257,
+    "oldSlopScore": 2,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:21.704Z"
+  },
+  "crispr-technology-explained-for-beginners.md": {
+    "status": "done",
+    "oldWordCount": 1841,
+    "newWordCount": 892,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:25.962Z"
+  },
+  "data-science-vs-ai-engineer-comparison.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1536,
+    "slopScore": 0
+  },
+  "common-job-interview-questions-answers.md": {
+    "status": "done",
+    "oldWordCount": 1763,
+    "newWordCount": 1468,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:26.656Z"
+  },
+  "business-development-bd-strategy-for-web3-projects.md": {
+    "status": "done",
+    "oldWordCount": 2302,
+    "newWordCount": 2100,
+    "oldSlopScore": 10,
+    "newSlopScore": 9,
+    "timestamp": "2026-04-27T10:52:26.987Z"
+  },
+  "coworking-spaces-vs-home-office.md": {
+    "status": "done",
+    "oldWordCount": 1763,
+    "newWordCount": 1109,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:28.688Z"
+  },
+  "china-digital-yuan-ecny.md": {
+    "status": "done",
+    "oldWordCount": 1837,
+    "newWordCount": 1772,
+    "oldSlopScore": 8,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:52:28.985Z"
+  },
+  "building-web3-portfolio.md": {
+    "status": "done",
+    "oldWordCount": 2119,
+    "newWordCount": 2280,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:31.683Z"
+  },
+  "closing-the-web3-talent-gap.md": {
+    "status": "done",
+    "oldWordCount": 2091,
+    "newWordCount": 1937,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:32.712Z"
+  },
+  "cover-letter-writing-best-practices.md": {
+    "status": "done",
+    "oldWordCount": 1664,
+    "newWordCount": 1198,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:32.811Z"
+  },
+  "brazil-web3-marketing-strategies.md": {
+    "status": "done",
+    "oldWordCount": 2685,
+    "newWordCount": 2662,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:33.786Z"
+  },
+  "combining-business-and-leisure-while-working-globally.md": {
+    "status": "done",
+    "oldWordCount": 1903,
+    "newWordCount": 1627,
+    "oldSlopScore": 10,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:52:34.700Z"
+  },
+  "consulting-career-path-explained.md": {
+    "status": "done",
+    "oldWordCount": 1808,
+    "newWordCount": 1707,
+    "oldSlopScore": 10,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:52:35.811Z"
+  },
+  "core-blockchain-development-and-infrastructure.md": {
+    "status": "done",
+    "oldWordCount": 1774,
+    "newWordCount": 1857,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:36.361Z"
+  },
+  "creating-dynamic-nfts-a-step-by-step-guide.md": {
+    "status": "done",
+    "oldWordCount": 1663,
+    "newWordCount": 1450,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:38.225Z"
+  },
+  "building-responsible-ai-systems.md": {
+    "status": "done",
+    "oldWordCount": 2653,
+    "newWordCount": 2729,
+    "oldSlopScore": 8,
+    "newSlopScore": 9,
+    "timestamp": "2026-04-27T10:52:40.216Z"
+  },
+  "cbdc.md": {
+    "status": "done",
+    "oldWordCount": 3054,
+    "newWordCount": 2697,
+    "oldSlopScore": 5,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:52:40.945Z"
+  },
+  "common-take-home-assignments-for-web3-developer-roles.md": {
+    "status": "done",
+    "oldWordCount": 2016,
+    "newWordCount": 1973,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:41.571Z"
+  },
+  "common-smart-contract-vulnerabilities-explained.md": {
+    "status": "done",
+    "oldWordCount": 2041,
+    "newWordCount": 1816,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:43.298Z"
+  },
+  "content-strategy-for-web3-projects.md": {
+    "status": "done",
+    "oldWordCount": 2262,
+    "newWordCount": 1861,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:43.553Z"
+  },
+  "cross-functional-collaboration-tips.md": {
+    "status": "done",
+    "oldWordCount": 1627,
+    "newWordCount": 1351,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:44.282Z"
+  },
+  "consensus-mechanisms-in-blockchain-networks-demystified.md": {
+    "status": "done",
+    "oldWordCount": 2108,
+    "newWordCount": 2095,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:46.707Z"
+  },
+  "cosmos-blockchain-and-inter-blockchain-communication.md": {
+    "status": "done",
+    "oldWordCount": 2091,
+    "newWordCount": 1990,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:49.035Z"
+  },
+  "crypto-etfs-explained.md": {
+    "status": "done",
+    "oldWordCount": 1799,
+    "newWordCount": 1694,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:52:49.895Z"
+  },
+  "decentralized-identity-explained.md": {
+    "status": "done",
+    "oldWordCount": 1479,
+    "newWordCount": 1290,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:53.316Z"
+  },
+  "cryptocurrency-halving-events-explained.md": {
+    "status": "done",
+    "oldWordCount": 1962,
+    "newWordCount": 1875,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:52:54.959Z"
+  },
+  "deconstructing-bitcoin-fundamental-issues.md": {
+    "status": "done",
+    "oldWordCount": 1725,
+    "newWordCount": 1143,
+    "oldSlopScore": 12,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:52:57.122Z"
+  },
+  "crypto-developer-exodus.md": {
+    "status": "done",
+    "oldWordCount": 2118,
+    "newWordCount": 1723,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:52:58.113Z"
+  },
+  "comprehensive-web3-go-to-market-strategy.md": {
+    "status": "done",
+    "oldWordCount": 2573,
+    "newWordCount": 2541,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:53:00.739Z"
+  },
+  "difficult-conversations-at-work-guide.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 1014,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:03.174Z"
+  },
+  "crypto-journalist-career-guide.md": {
+    "status": "done",
+    "oldWordCount": 2270,
+    "newWordCount": 1938,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:53:03.318Z"
+  },
+  "decentralized-social-graphs-and-the-future-of-online-identity.md": {
+    "status": "done",
+    "oldWordCount": 1894,
+    "newWordCount": 1477,
+    "oldSlopScore": 14,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:53:06.461Z"
+  },
+  "crypto-taxes-guide.md": {
+    "status": "done",
+    "oldWordCount": 2161,
+    "newWordCount": 2149,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:08.281Z"
+  },
+  "decentralized-blockchain-systems-and-their-advantages.md": {
+    "status": "done",
+    "oldWordCount": 1922,
+    "newWordCount": 1739,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:53:10.096Z"
+  },
+  "crypto-guide-for-digital-nomads.md": {
+    "status": "done",
+    "oldWordCount": 2285,
+    "newWordCount": 2045,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:53:11.719Z"
+  },
+  "cryptocurrency-market-cap-explained-simply.md": {
+    "status": "done",
+    "oldWordCount": 1918,
+    "newWordCount": 1895,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:12.626Z"
+  },
+  "crypto-marketing-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2052,
+    "newWordCount": 2058,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:53:14.647Z"
+  },
+  "elon-musk-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 2151,
+    "newWordCount": 1944,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:53:19.047Z"
+  },
+  "emerging-career-opportunities-in-web3-real-estate.md": {
+    "status": "done",
+    "oldWordCount": 2229,
+    "newWordCount": 1989,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:53:22.389Z"
+  },
+  "decoding-web3-salary.md": {
+    "status": "done",
+    "oldWordCount": 2000,
+    "newWordCount": 2051,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:53:22.846Z"
+  },
+  "ethereum-scaling-rollups-deep-dive.md": {
+    "status": "done",
+    "oldWordCount": 2079,
+    "newWordCount": 1371,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:53:23.983Z"
+  },
+  "deconstructing-crypto-shilling.md": {
+    "status": "done",
+    "oldWordCount": 2159,
+    "newWordCount": 2102,
+    "oldSlopScore": 11,
+    "newSlopScore": 9,
+    "timestamp": "2026-04-27T10:53:27.284Z"
+  },
+  "exploring-web3-gaming.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1500,
+    "slopScore": 0
+  },
+  "exit-interview-questions-and-answers.md": {
+    "status": "done",
+    "oldWordCount": 1925,
+    "newWordCount": 1128,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:28.439Z"
+  },
+  "engineering-management-career-track.md": {
+    "status": "done",
+    "oldWordCount": 1748,
+    "newWordCount": 1694,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:29.846Z"
+  },
+  "exploring-web3-project-manager-career-paths.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1705,
+    "slopScore": 0
+  },
+  "developer-activity-slowdown.md": {
+    "status": "done",
+    "oldWordCount": 2186,
+    "newWordCount": 2040,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:53:30.900Z"
+  },
+  "everything-about-externships.md": {
+    "status": "done",
+    "oldWordCount": 1892,
+    "newWordCount": 1454,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:31.406Z"
+  },
+  "emerging-web3-business-opportunities.md": {
+    "status": "done",
+    "oldWordCount": 2086,
+    "newWordCount": 1717,
+    "oldSlopScore": 10,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:53:32.412Z"
+  },
+  "does-web3-pay-well.md": {
+    "status": "done",
+    "oldWordCount": 2053,
+    "newWordCount": 1925,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:53:33.073Z"
+  },
+  "exploring-south-koreas-gamefi-market.md": {
+    "status": "done",
+    "oldWordCount": 1927,
+    "newWordCount": 911,
+    "oldSlopScore": 13,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:53:35.207Z"
+  },
+  "deconstructing-web3-elon-musk.md": {
+    "status": "done",
+    "oldWordCount": 2805,
+    "newWordCount": 2488,
+    "oldSlopScore": 8,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:53:36.412Z"
+  },
+  "foundry-ethereum-toolkit-explained.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1522,
+    "slopScore": 0
+  },
+  "demystifying-web3-coding-languages.md": {
+    "status": "done",
+    "oldWordCount": 2149,
+    "newWordCount": 2116,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:53:36.951Z"
+  },
+  "ethereum-genesis-day.md": {
+    "status": "done",
+    "oldWordCount": 1649,
+    "newWordCount": 1710,
+    "oldSlopScore": 2,
+    "newSlopScore": 15,
+    "timestamp": "2026-04-27T10:53:37.228Z"
+  },
+  "essential-skills-for-web3-developers.md": {
+    "status": "done",
+    "oldWordCount": 2099,
+    "newWordCount": 1923,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:53:38.580Z"
+  },
+  "ethereum-whitepaper-release-day.md": {
+    "status": "done",
+    "oldWordCount": 1975,
+    "newWordCount": 1799,
+    "oldSlopScore": 11,
+    "newSlopScore": 8,
+    "timestamp": "2026-04-27T10:53:39.564Z"
+  },
+  "deep-dive-into-account-abstraction.md": {
+    "status": "done",
+    "oldWordCount": 2507,
+    "newWordCount": 2543,
+    "oldSlopScore": 10,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:53:41.462Z"
+  },
+  "entry-level-jobs-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2422,
+    "newWordCount": 1856,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:42.340Z"
+  },
+  "demystifying-web3-jobs-in-south-korea.md": {
+    "status": "done",
+    "oldWordCount": 2519,
+    "newWordCount": 2638,
+    "oldSlopScore": 9,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:53:42.402Z"
+  },
+  "essential-web3-developer-tools.md": {
+    "status": "done",
+    "oldWordCount": 2095,
+    "newWordCount": 2173,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:53:44.394Z"
+  },
+  "defi-careers.md": {
+    "status": "done",
+    "oldWordCount": 2721,
+    "newWordCount": 2773,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:44.568Z"
+  },
+  "exploring-litecoins-development-ecosystem.md": {
+    "status": "done",
+    "oldWordCount": 1531,
+    "newWordCount": 1300,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:46.378Z"
+  },
+  "executive-communication-skills-guide.md": {
+    "status": "done",
+    "oldWordCount": 2116,
+    "newWordCount": 1902,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:53:48.905Z"
+  },
+  "double-spending-problem-in-cryptocurrency.md": {
+    "status": "done",
+    "oldWordCount": 2643,
+    "newWordCount": 2644,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:53:49.263Z"
+  },
+  "exploring-career-opportunities-as-a-web3-blockchain-validator.md": {
+    "status": "done",
+    "oldWordCount": 1841,
+    "newWordCount": 1832,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:53:50.073Z"
+  },
+  "exploring-career-paths-for-web3-compliance-officers.md": {
+    "status": "done",
+    "oldWordCount": 2001,
+    "newWordCount": 1962,
+    "oldSlopScore": 12,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:53:52.296Z"
+  },
+  "exploring-careers-in-web3-oracles-and-data-feeds.md": {
+    "status": "done",
+    "oldWordCount": 1967,
+    "newWordCount": 1843,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:53:52.824Z"
+  },
+  "freelance-vs-full-time-job-comparison.md": {
+    "status": "done",
+    "oldWordCount": 1731,
+    "newWordCount": 1011,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:53:58.837Z"
+  },
+  "exploring-opportunities-in-web3-real-estate-tokenization.md": {
+    "status": "done",
+    "oldWordCount": 1815,
+    "newWordCount": 1842,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:53:58.873Z"
+  },
+  "facial-recognition-systems-explained.md": {
+    "status": "done",
+    "oldWordCount": 1825,
+    "newWordCount": 1344,
+    "oldSlopScore": 13,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:00.171Z"
+  },
+  "exploring-web3-careers-in-decentralized-autonomous-finance.md": {
+    "status": "done",
+    "oldWordCount": 1834,
+    "newWordCount": 1636,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:04.187Z"
+  },
+  "exploring-cosmos-sdk-for-web3-development.md": {
+    "status": "done",
+    "oldWordCount": 2171,
+    "newWordCount": 2150,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:04.329Z"
+  },
+  "first-time-manager-complete-survival-guide.md": {
+    "status": "done",
+    "oldWordCount": 1922,
+    "newWordCount": 1393,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:05.166Z"
+  },
+  "exploring-web3-job-opportunities-in-indonesia.md": {
+    "status": "done",
+    "oldWordCount": 1971,
+    "newWordCount": 1542,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:05.726Z"
+  },
+  "first-90-days-in-new-job-strategy.md": {
+    "status": "done",
+    "oldWordCount": 1539,
+    "newWordCount": 1630,
+    "oldSlopScore": 2,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:07.599Z"
+  },
+  "exploring-web3-career-paths.md": {
+    "status": "done",
+    "oldWordCount": 2057,
+    "newWordCount": 1958,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:11.594Z"
+  },
+  "first-bitcoin-transaction-day.md": {
+    "status": "done",
+    "oldWordCount": 1982,
+    "newWordCount": 1721,
+    "oldSlopScore": 12,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:54:11.867Z"
+  },
+  "exploring-the-future-of-web3-jobs.md": {
+    "status": "done",
+    "oldWordCount": 1997,
+    "newWordCount": 1996,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:14.166Z"
+  },
+  "exploring-web3-developer-activity-slowdown.md": {
+    "status": "done",
+    "oldWordCount": 2176,
+    "newWordCount": 2118,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:15.391Z"
+  },
+  "freelance-rates-guide-by-industry.md": {
+    "status": "done",
+    "oldWordCount": 1771,
+    "newWordCount": 1334,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:16.482Z"
+  },
+  "generational-differences-in-workplace.md": {
+    "status": "done",
+    "oldWordCount": 861,
+    "newWordCount": 1093,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:54:16.742Z"
+  },
+  "finding-the-best-web3-job-boards.md": {
+    "status": "done",
+    "oldWordCount": 1996,
+    "newWordCount": 1901,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:54:16.902Z"
+  },
+  "how-long-to-stay-at-first-job.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1557,
+    "slopScore": 0
+  },
+  "formal-verification-smart-contract-security.md": {
+    "status": "done",
+    "oldWordCount": 2265,
+    "newWordCount": 1466,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:18.405Z"
+  },
+  "future-of-work-in-the-metaverse.md": {
+    "status": "done",
+    "oldWordCount": 1685,
+    "newWordCount": 1359,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:19.330Z"
+  },
+  "exploring-web3-marketing-opportunities-in-brazil.md": {
+    "status": "done",
+    "oldWordCount": 2270,
+    "newWordCount": 1901,
+    "oldSlopScore": 13,
+    "newSlopScore": 7,
+    "timestamp": "2026-04-27T10:54:20.681Z"
+  },
+  "future-of-web3-key-trends.md": {
+    "status": "done",
+    "oldWordCount": 1772,
+    "newWordCount": 1745,
+    "oldSlopScore": 3,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:26.600Z"
+  },
+  "from-web2-to-web3-developer-career-guide.md": {
+    "status": "done",
+    "oldWordCount": 2499,
+    "newWordCount": 1986,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:28.004Z"
+  },
+  "future-of-blockchain-interoperability-with-polkadot.md": {
+    "status": "done",
+    "oldWordCount": 2211,
+    "newWordCount": 1962,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:54:28.465Z"
+  },
+  "governing-agentic-ai-systems.md": {
+    "status": "done",
+    "oldWordCount": 1878,
+    "newWordCount": 1723,
+    "oldSlopScore": 10,
+    "newSlopScore": 7,
+    "timestamp": "2026-04-27T10:54:29.204Z"
+  },
+  "future-of-web3-architecture.md": {
+    "status": "done",
+    "oldWordCount": 2077,
+    "newWordCount": 1923,
+    "oldSlopScore": 34,
+    "newSlopScore": 14,
+    "timestamp": "2026-04-27T10:54:31.328Z"
+  },
+  "guide-to-layer-2s.md": {
+    "status": "done",
+    "oldWordCount": 1938,
+    "newWordCount": 1628,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:31.805Z"
+  },
+  "from-attention-economy-to-intention-economy.md": {
+    "status": "done",
+    "oldWordCount": 2519,
+    "newWordCount": 2247,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:54:32.512Z"
+  },
+  "future-of-web3-key-trends-for-2025.md": {
+    "status": "done",
+    "oldWordCount": 2568,
+    "newWordCount": 2509,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:33.920Z"
+  },
+  "future-of-work-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2156,
+    "newWordCount": 1927,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:35.234Z"
+  },
+  "fresh-graduates-guide-to-crypto-and-web3-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2400,
+    "newWordCount": 2072,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:54:35.925Z"
+  },
+  "how-to-become-a-web3-smart-contract-developer.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1676,
+    "slopScore": 0
+  },
+  "guide-to-stablecoins.md": {
+    "status": "done",
+    "oldWordCount": 2003,
+    "newWordCount": 1635,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:36.415Z"
+  },
+  "how-ai-is-changing-job-market.md": {
+    "status": "done",
+    "oldWordCount": 2213,
+    "newWordCount": 1461,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:36.425Z"
+  },
+  "gtm-strategy-for-web3-projects.md": {
+    "status": "done",
+    "oldWordCount": 2315,
+    "newWordCount": 1881,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:37.601Z"
+  },
+  "hiring-for-a-dao.md": {
+    "status": "done",
+    "oldWordCount": 1656,
+    "newWordCount": 1633,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:54:41.066Z"
+  },
+  "hidden-freelance-jobs-that-pay-you-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2111,
+    "newWordCount": 1976,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:42.284Z"
+  },
+  "how-crypto-atms-are-evolving-with-web3.md": {
+    "status": "done",
+    "oldWordCount": 1914,
+    "newWordCount": 1919,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:54:48.982Z"
+  },
+  "gas-optimization-techniques-for-solidity-developers.md": {
+    "status": "done",
+    "oldWordCount": 2083,
+    "newWordCount": 2031,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:49.307Z"
+  },
+  "how-to-build-a-career-as-a-web3-decentralized-exchange-developer.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1627,
+    "slopScore": 0
+  },
+  "highest-paying-web3-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2114,
+    "newWordCount": 2025,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:50.198Z"
+  },
+  "how-blockchain-technology-powers-web3.md": {
+    "status": "done",
+    "oldWordCount": 2027,
+    "newWordCount": 1922,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:50.555Z"
+  },
+  "how-formal-verification-improves-smart-contract-security.md": {
+    "status": "done",
+    "oldWordCount": 1741,
+    "newWordCount": 1601,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:52.498Z"
+  },
+  "how-to-ask-for-raise-at-work.md": {
+    "status": "done",
+    "oldWordCount": 1776,
+    "newWordCount": 1231,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:55.889Z"
+  },
+  "how-crypto-is-changing-the-way-we-use-the-internet.md": {
+    "status": "done",
+    "oldWordCount": 2032,
+    "newWordCount": 1996,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:54:56.429Z"
+  },
+  "hiring-strategy.md": {
+    "status": "done",
+    "oldWordCount": 2284,
+    "newWordCount": 2278,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:56.710Z"
+  },
+  "how-sharding-improves-blockchain-scalability.md": {
+    "status": "done",
+    "oldWordCount": 2811,
+    "newWordCount": 1664,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:54:57.670Z"
+  },
+  "how-homomorphic-encryption-powers-web3-privacy.md": {
+    "status": "done",
+    "oldWordCount": 2173,
+    "newWordCount": 1988,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:58.667Z"
+  },
+  "how-crypto-shilling-impacts-web3-trust.md": {
+    "status": "done",
+    "oldWordCount": 2025,
+    "newWordCount": 1950,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:58.770Z"
+  },
+  "how-regulations-are-changing-the-game.md": {
+    "status": "done",
+    "oldWordCount": 2033,
+    "newWordCount": 1656,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:54:59.350Z"
+  },
+  "how-dag-based-blockchains-differ-from-traditional-chains.md": {
+    "status": "done",
+    "oldWordCount": 2236,
+    "newWordCount": 2029,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:54:59.590Z"
+  },
+  "how-to-ai-proof-your-career.md": {
+    "status": "done",
+    "oldWordCount": 2171,
+    "newWordCount": 1751,
+    "oldSlopScore": 12,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:03.900Z"
+  },
+  "how-mev-impacts-web3-networks-and-developers.md": {
+    "status": "done",
+    "oldWordCount": 2359,
+    "newWordCount": 2182,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:05.573Z"
+  },
+  "how-decentralized-finance-is-changing-the-world-of-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2144,
+    "newWordCount": 2130,
+    "oldSlopScore": 8,
+    "newSlopScore": 10,
+    "timestamp": "2026-04-27T10:55:06.926Z"
+  },
+  "how-to-become-an-ai-engineer.md": {
+    "status": "done",
+    "oldWordCount": 2203,
+    "newWordCount": 1350,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:08.739Z"
+  },
+  "how-solana-crypto-supports-the-growth-of-web3.md": {
+    "status": "done",
+    "oldWordCount": 1984,
+    "newWordCount": 1951,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:08.947Z"
+  },
+  "how-to-become-a-web3-liquidity-provider-in-decentralized-finance.md": {
+    "status": "done",
+    "oldWordCount": 1920,
+    "newWordCount": 1724,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:55:12.931Z"
+  },
+  "how-to-break-into-web3-dao-governance-consulting.md": {
+    "status": "done",
+    "oldWordCount": 2813,
+    "newWordCount": 1364,
+    "oldSlopScore": 8,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:55:14.481Z"
+  },
+  "how-to-become-a-web3-legal-consultant.md": {
+    "status": "done",
+    "oldWordCount": 2066,
+    "newWordCount": 1751,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:55:16.886Z"
+  },
+  "how-to-become-a-blockchain-developer.md": {
+    "status": "done",
+    "oldWordCount": 2114,
+    "newWordCount": 2055,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:17.556Z"
+  },
+  "how-to-avoid-crypto-shilling.md": {
+    "status": "done",
+    "oldWordCount": 2028,
+    "newWordCount": 2059,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:55:18.557Z"
+  },
+  "how-to-find-mentor-at-new-company.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2959,
+    "slopScore": 0
+  },
+  "how-to-become-a-web3-blockchain-marketing-strategist.md": {
+    "status": "done",
+    "oldWordCount": 1747,
+    "newWordCount": 1914,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:20.167Z"
+  },
+  "how-to-become-a-web3-blockchain-patent-and-ip-expert.md": {
+    "status": "done",
+    "oldWordCount": 1759,
+    "newWordCount": 1852,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:55:20.234Z"
+  },
+  "how-to-become-a-web3-nft-artist.md": {
+    "status": "done",
+    "oldWordCount": 2178,
+    "newWordCount": 1988,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:21.052Z"
+  },
+  "how-to-build-credibility-in-new-role.md": {
+    "status": "done",
+    "oldWordCount": 1223,
+    "newWordCount": 1136,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:21.629Z"
+  },
+  "how-to-break-into-web3-cryptographic-research-and-development.md": {
+    "status": "done",
+    "oldWordCount": 1692,
+    "newWordCount": 1731,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:22.265Z"
+  },
+  "how-to-become-technical-writer.md": {
+    "status": "done",
+    "oldWordCount": 1785,
+    "newWordCount": 1584,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:23.189Z"
+  },
+  "how-to-build-executive-presence-at-work.md": {
+    "status": "done",
+    "oldWordCount": 1137,
+    "newWordCount": 1245,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:23.810Z"
+  },
+  "how-to-build-a-long-term-future-in-the-decentralized-world.md": {
+    "status": "done",
+    "oldWordCount": 1624,
+    "newWordCount": 1435,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:25.345Z"
+  },
+  "how-to-become-a-web3-yield-farming-analyst.md": {
+    "status": "done",
+    "oldWordCount": 2105,
+    "newWordCount": 2099,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:26.358Z"
+  },
+  "how-to-build-freelance-portfolio-fast.md": {
+    "status": "done",
+    "oldWordCount": 1813,
+    "newWordCount": 1300,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:27.364Z"
+  },
+  "how-to-build-your-first-ai-model.md": {
+    "status": "done",
+    "oldWordCount": 1179,
+    "newWordCount": 1222,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:29.790Z"
+  },
+  "how-to-handle-job-interview-nerves.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1572,
+    "slopScore": 0
+  },
+  "how-to-build-a-public-on-chain-developer-brand.md": {
+    "status": "done",
+    "oldWordCount": 1840,
+    "newWordCount": 1841,
+    "oldSlopScore": 1,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:31.836Z"
+  },
+  "how-to-choose-a-smart-contract-auditor.md": {
+    "status": "done",
+    "oldWordCount": 1623,
+    "newWordCount": 1360,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:31.975Z"
+  },
+  "how-to-become-a-web3-staking-specialist.md": {
+    "status": "done",
+    "oldWordCount": 1977,
+    "newWordCount": 1954,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:32.156Z"
+  },
+  "how-to-conduct-effective-one-on-ones.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 1005,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:33.675Z"
+  },
+  "how-to-build-a-simple-amm-on-an-l2.md": {
+    "status": "done",
+    "oldWordCount": 1746,
+    "newWordCount": 1678,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:34.034Z"
+  },
+  "how-to-break-into-web3-smart-contract-auditing.md": {
+    "status": "done",
+    "oldWordCount": 1676,
+    "newWordCount": 1672,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:35.650Z"
+  },
+  "how-to-delegate-tasks-effectively.md": {
+    "status": "done",
+    "oldWordCount": 1943,
+    "newWordCount": 1124,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:37.955Z"
+  },
+  "how-to-create-ai-art-step-by-step.md": {
+    "status": "done",
+    "oldWordCount": 1560,
+    "newWordCount": 1412,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:38.727Z"
+  },
+  "how-to-build-professional-network-fast.md": {
+    "status": "done",
+    "oldWordCount": 2264,
+    "newWordCount": 1733,
+    "oldSlopScore": 12,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:41.396Z"
+  },
+  "how-to-cold-contact-and-get-a-response.md": {
+    "status": "done",
+    "oldWordCount": 1729,
+    "newWordCount": 1573,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:41.558Z"
+  },
+  "how-to-make-good-first-impression-at-work.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2461,
+    "slopScore": 0
+  },
+  "how-to-build-a-web3-resume-that-stands-out.md": {
+    "status": "done",
+    "oldWordCount": 2042,
+    "newWordCount": 1957,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:41.581Z"
+  },
+  "how-to-choose-a-crypto-wallet.md": {
+    "status": "done",
+    "oldWordCount": 2046,
+    "newWordCount": 1966,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:55:41.936Z"
+  },
+  "how-to-fire-someone-professionally.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 1006,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:43.498Z"
+  },
+  "how-to-create-and-deploy-your-first-smart-contract.md": {
+    "status": "done",
+    "oldWordCount": 1537,
+    "newWordCount": 1351,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:44.281Z"
+  },
+  "how-to-follow-up-after-job-interview.md": {
+    "status": "done",
+    "oldWordCount": 1859,
+    "newWordCount": 1116,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:44.339Z"
+  },
+  "how-to-contribute-to-daos-and-get-paid.md": {
+    "status": "done",
+    "oldWordCount": 1808,
+    "newWordCount": 1597,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:45.831Z"
+  },
+  "how-to-give-constructive-feedback.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 1042,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:55:48.978Z"
+  },
+  "how-to-get-first-freelance-client.md": {
+    "status": "done",
+    "oldWordCount": 1752,
+    "newWordCount": 1242,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:51.053Z"
+  },
+  "how-to-explain-employment-gaps-successfully.md": {
+    "status": "done",
+    "oldWordCount": 1876,
+    "newWordCount": 1425,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:51.409Z"
+  },
+  "how-to-evaluate-company-culture.md": {
+    "status": "done",
+    "oldWordCount": 2035,
+    "newWordCount": 1734,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:55:52.751Z"
+  },
+  "how-to-handle-job-rejection-gracefully.md": {
+    "status": "done",
+    "oldWordCount": 1882,
+    "newWordCount": 1142,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:52.823Z"
+  },
+  "how-to-handle-underperforming-employees.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 1023,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:55:53.037Z"
+  },
+  "how-to-recover-from-career-mistakes.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1883,
+    "slopScore": 0
+  },
+  "how-to-leave-job-on-good-terms.md": {
+    "status": "done",
+    "oldWordCount": 1770,
+    "newWordCount": 1005,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:01.972Z"
+  },
+  "how-to-influence-without-authority.md": {
+    "status": "done",
+    "oldWordCount": 1808,
+    "newWordCount": 1501,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:02.178Z"
+  },
+  "how-to-find-a-mentor-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 1767,
+    "newWordCount": 2175,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:03.094Z"
+  },
+  "how-to-get-a-high-paying-job-in-web3-as-a-developer.md": {
+    "status": "done",
+    "oldWordCount": 2183,
+    "newWordCount": 1929,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:04.490Z"
+  },
+  "how-to-run-effective-team-meetings.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1550,
+    "slopScore": 0
+  },
+  "how-to-get-started-as-a-web3-cryptocurrency-venture-capital-analyst.md": {
+    "status": "done",
+    "oldWordCount": 1930,
+    "newWordCount": 1843,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:07.346Z"
+  },
+  "how-to-get-started-as-a-web3-ux-designer.md": {
+    "status": "done",
+    "oldWordCount": 1838,
+    "newWordCount": 1881,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:08.533Z"
+  },
+  "how-to-get-a-job-in-defi-with-no-experience.md": {
+    "status": "done",
+    "oldWordCount": 2099,
+    "newWordCount": 2134,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:11.230Z"
+  },
+  "how-to-negotiate-salary-successfully.md": {
+    "status": "done",
+    "oldWordCount": 1620,
+    "newWordCount": 1301,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:12.171Z"
+  },
+  "how-to-manage-remote-team-successfully.md": {
+    "status": "done",
+    "oldWordCount": 1789,
+    "newWordCount": 1328,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:13.334Z"
+  },
+  "how-to-learn-ai-without-coding.md": {
+    "status": "done",
+    "oldWordCount": 2188,
+    "newWordCount": 1617,
+    "oldSlopScore": 1,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:13.869Z"
+  },
+  "how-to-make-money-with-ai-technology.md": {
+    "status": "done",
+    "oldWordCount": 1592,
+    "newWordCount": 1621,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:16.285Z"
+  },
+  "how-to-land-first-web3-job.md": {
+    "status": "done",
+    "oldWordCount": 2226,
+    "newWordCount": 1989,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:17.303Z"
+  },
+  "how-to-prepare-for-job-interview.md": {
+    "status": "done",
+    "oldWordCount": 1710,
+    "newWordCount": 1281,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:17.839Z"
+  },
+  "how-to-keep-up-with-web3-job-market.md": {
+    "status": "done",
+    "oldWordCount": 1998,
+    "newWordCount": 1949,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:17.844Z"
+  },
+  "how-to-land-high-paying-gigs.md": {
+    "status": "done",
+    "oldWordCount": 2309,
+    "newWordCount": 2218,
+    "oldSlopScore": 9,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:56:18.485Z"
+  },
+  "how-to-get-started-as-a-web3-nft-marketplace-developer.md": {
+    "status": "done",
+    "oldWordCount": 1937,
+    "newWordCount": 2002,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:19.271Z"
+  },
+  "how-to-land-your-first-web3-job.md": {
+    "status": "done",
+    "oldWordCount": 2226,
+    "newWordCount": 2064,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:20.241Z"
+  },
+  "how-to-return-to-work-after-break.md": {
+    "status": "done",
+    "oldWordCount": 1921,
+    "newWordCount": 1070,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:21.769Z"
+  },
+  "how-to-use-chatgpt-for-beginners-guide.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1786,
+    "slopScore": 0
+  },
+  "how-to-resign-professionally-and-gracefully.md": {
+    "status": "done",
+    "oldWordCount": 1913,
+    "newWordCount": 1230,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:22.531Z"
+  },
+  "how-to-navigate-a-career-in-web3-socialfi-development.md": {
+    "status": "done",
+    "oldWordCount": 1717,
+    "newWordCount": 1581,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:23.150Z"
+  },
+  "how-to-learn-company-culture-fast.md": {
+    "status": "done",
+    "oldWordCount": 1236,
+    "newWordCount": 1681,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:23.220Z"
+  },
+  "how-to-pivot-your-career-direction.md": {
+    "status": "done",
+    "oldWordCount": 2215,
+    "newWordCount": 1519,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:23.237Z"
+  },
+  "how-to-make-money-with-web3.md": {
+    "status": "done",
+    "oldWordCount": 2119,
+    "newWordCount": 1981,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:25.228Z"
+  },
+  "how-to-write-cold-emails-that-get-responses.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1562,
+    "slopScore": 0
+  },
+  "how-to-price-your-services-as-a-freelancer-or-employee.md": {
+    "status": "done",
+    "oldWordCount": 2191,
+    "newWordCount": 1433,
+    "oldSlopScore": 12,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:26.672Z"
+  },
+  "how-to-spot-toxic-work-environment.md": {
+    "status": "done",
+    "oldWordCount": 1876,
+    "newWordCount": 1014,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:29.611Z"
+  },
+  "how-to-present-ideas-to-leadership.md": {
+    "status": "done",
+    "oldWordCount": 2346,
+    "newWordCount": 1976,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:56:33.867Z"
+  },
+  "how-to-read-smart-contracts-before-you-ape.md": {
+    "status": "done",
+    "oldWordCount": 1939,
+    "newWordCount": 1793,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:56:33.897Z"
+  },
+  "how-to-pass-a-solidity-technical-interview.md": {
+    "status": "done",
+    "oldWordCount": 2352,
+    "newWordCount": 2176,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:34.036Z"
+  },
+  "how-to-research-a-blockchain-startup.md": {
+    "status": "done",
+    "oldWordCount": 2098,
+    "newWordCount": 1730,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:34.724Z"
+  },
+  "how-to-build-a-strong-web3-portfolio.md": {
+    "status": "done",
+    "oldWordCount": 2125,
+    "newWordCount": 1982,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:35.640Z"
+  },
+  "how-to-start-freelancing-for-beginners.md": {
+    "status": "done",
+    "oldWordCount": 1830,
+    "newWordCount": 1354,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:41.423Z"
+  },
+  "how-to-recruit-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2131,
+    "newWordCount": 2042,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:56:42.326Z"
+  },
+  "how-to-stay-productive-working-remotely.md": {
+    "status": "done",
+    "oldWordCount": 1696,
+    "newWordCount": 1242,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:43.624Z"
+  },
+  "how-to-get-into-web3-cryptocurrency-taxation-and-accounting.md": {
+    "status": "done",
+    "oldWordCount": 1865,
+    "newWordCount": 1678,
+    "oldSlopScore": 2,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:44.109Z"
+  },
+  "how-to-switch-industries-successfully.md": {
+    "status": "done",
+    "oldWordCount": 1710,
+    "newWordCount": 1252,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:45.313Z"
+  },
+  "how-to-work-and-travel-simultaneously.md": {
+    "status": "done",
+    "oldWordCount": 1785,
+    "newWordCount": 1253,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:49.494Z"
+  },
+  "how-to-get-a-web3-job-with-no-experience.md": {
+    "status": "done",
+    "oldWordCount": 2154,
+    "newWordCount": 2009,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:51.314Z"
+  },
+  "how-to-work-with-different-personality-types.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 1195,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:51.676Z"
+  },
+  "how-to-present-your-web3-portfolio-to-get-noticed.md": {
+    "status": "done",
+    "oldWordCount": 1888,
+    "newWordCount": 1862,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:52.540Z"
+  },
+  "how-to-showcase-skills-without-experience.md": {
+    "status": "done",
+    "oldWordCount": 1905,
+    "newWordCount": 2033,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:52.617Z"
+  },
+  "how-to-write-a-professional-resume.md": {
+    "status": "done",
+    "oldWordCount": 1693,
+    "newWordCount": 1321,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:53.871Z"
+  },
+  "how-to-write-professional-resume.md": {
+    "status": "done",
+    "oldWordCount": 1693,
+    "newWordCount": 1242,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:56:55.316Z"
+  },
+  "how-to-stay-relevant-in-your-industry.md": {
+    "status": "done",
+    "oldWordCount": 2229,
+    "newWordCount": 1635,
+    "oldSlopScore": 12,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:56:56.237Z"
+  },
+  "how-to-work-from-anywhere-in-the-decentralized-economy.md": {
+    "status": "done",
+    "oldWordCount": 1725,
+    "newWordCount": 1563,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:56:57.668Z"
+  },
+  "how-to-stay-anonymous-as-a-developer-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2235,
+    "newWordCount": 1926,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:56:58.951Z"
+  },
+  "how-to-transition-from-web2-to-web3-developer-transition.md": {
+    "status": "done",
+    "oldWordCount": 1620,
+    "newWordCount": 1748,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:56:59.410Z"
+  },
+  "how-to-transition-into-web3-with-a-legal-or-compliance-background.md": {
+    "status": "done",
+    "oldWordCount": 1854,
+    "newWordCount": 1722,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:00.908Z"
+  },
+  "how-to-transition-from-web2-to-web3-cybersecurity-specialist.md": {
+    "status": "done",
+    "oldWordCount": 1853,
+    "newWordCount": 1829,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:01.193Z"
+  },
+  "litecoin-founder-charlie-lee-and-developer-activity.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1715,
+    "slopScore": 0
+  },
+  "machine-learning-engineer-salary-guide.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2254,
+    "slopScore": 0
+  },
+  "how-to-transition-from-traditional-hr-to-web3-talent-acquisition.md": {
+    "status": "done",
+    "oldWordCount": 1853,
+    "newWordCount": 1889,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:01.343Z"
+  },
+  "how-to-write-a-web3-cover-letter.md": {
+    "status": "done",
+    "oldWordCount": 1902,
+    "newWordCount": 1781,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:03.784Z"
+  },
+  "how-to-start-a-web3-career.md": {
+    "status": "done",
+    "oldWordCount": 2253,
+    "newWordCount": 2065,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:05.364Z"
+  },
+  "how-to-survive-a-crypto-bear-market.md": {
+    "status": "done",
+    "oldWordCount": 2259,
+    "newWordCount": 2021,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:05.669Z"
+  },
+  "how-to-stand-out-in-crypto-job-interviews.md": {
+    "status": "done",
+    "oldWordCount": 2315,
+    "newWordCount": 2262,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:05.816Z"
+  },
+  "how-web3-and-cryptocurrency-are-connected.md": {
+    "status": "done",
+    "oldWordCount": 2063,
+    "newWordCount": 1964,
+    "oldSlopScore": 8,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:57:12.290Z"
+  },
+  "job-hopping-good-or-bad-for-career.md": {
+    "status": "done",
+    "oldWordCount": 1935,
+    "newWordCount": 1149,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:15.169Z"
+  },
+  "how-web3-is-helping-to-build-a-more-secure-internet.md": {
+    "status": "done",
+    "oldWordCount": 1992,
+    "newWordCount": 1740,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:16.974Z"
+  },
+  "initial-dex-offering-complete-guide.md": {
+    "status": "done",
+    "oldWordCount": 1475,
+    "newWordCount": 1406,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:57:17.530Z"
+  },
+  "how-web3-can-improve-online-privacy-and-security.md": {
+    "status": "done",
+    "oldWordCount": 2020,
+    "newWordCount": 1700,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:57:18.069Z"
+  },
+  "how-web3-is-shaping-the-future-of-online-transactions.md": {
+    "status": "done",
+    "oldWordCount": 2035,
+    "newWordCount": 1868,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:57:18.309Z"
+  },
+  "how-web3-could-change-the-future-of-online-shopping.md": {
+    "status": "done",
+    "oldWordCount": 2093,
+    "newWordCount": 1872,
+    "oldSlopScore": 12,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:20.037Z"
+  },
+  "how-zkevm-brings-zero-knowledge-proofs-to-ethereum.md": {
+    "status": "done",
+    "oldWordCount": 1761,
+    "newWordCount": 1634,
+    "oldSlopScore": 11,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:57:22.043Z"
+  },
+  "how-web3-is-changing-the-digital-economy.md": {
+    "status": "done",
+    "oldWordCount": 1987,
+    "newWordCount": 2045,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:57:23.663Z"
+  },
+  "how-web3-is-changing-product-management.md": {
+    "status": "done",
+    "oldWordCount": 2120,
+    "newWordCount": 2118,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:24.572Z"
+  },
+  "large-language-models-explained-simply.md": {
+    "status": "done",
+    "oldWordCount": 1991,
+    "newWordCount": 1315,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:25.972Z"
+  },
+  "how-web3-will-change-the-future-of-digital-advertising.md": {
+    "status": "done",
+    "oldWordCount": 2080,
+    "newWordCount": 1667,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:26.153Z"
+  },
+  "litecoin-developer-activity-slowdown.md": {
+    "status": "done",
+    "oldWordCount": 1599,
+    "newWordCount": 1053,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:57:26.861Z"
+  },
+  "managing-up-strategies-for-success.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 1168,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:27.729Z"
+  },
+  "is-web3-dead.md": {
+    "status": "done",
+    "oldWordCount": 2223,
+    "newWordCount": 2085,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:57:29.502Z"
+  },
+  "jobs-ai-cannot-replace-in-future.md": {
+    "status": "done",
+    "oldWordCount": 2196,
+    "newWordCount": 1535,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:57:29.654Z"
+  },
+  "managing-former-peers-after-promotion.md": {
+    "status": "done",
+    "oldWordCount": 2026,
+    "newWordCount": 1318,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:57:31.115Z"
+  },
+  "how-web3-is-shaping-the-future-of-the-music-industry.md": {
+    "status": "done",
+    "oldWordCount": 2408,
+    "newWordCount": 2190,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:33.618Z"
+  },
+  "leadership-skills-for-new-managers.md": {
+    "status": "done",
+    "oldWordCount": 1982,
+    "newWordCount": 1622,
+    "oldSlopScore": 3,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:41.269Z"
+  },
+  "is-a-career-in-web3-right-for-you.md": {
+    "status": "done",
+    "oldWordCount": 2220,
+    "newWordCount": 1973,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:43.429Z"
+  },
+  "layer-1-vs-layer-2-blockchain-platforms-compared.md": {
+    "status": "done",
+    "oldWordCount": 2051,
+    "newWordCount": 1946,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:57:43.628Z"
+  },
+  "multiple-job-offers-how-to-choose.md": {
+    "status": "done",
+    "oldWordCount": 1944,
+    "newWordCount": 1108,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:46.800Z"
+  },
+  "merkle-airdrop-distribution-explained.md": {
+    "status": "done",
+    "oldWordCount": 1621,
+    "newWordCount": 1459,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:57:51.528Z"
+  },
+  "marc-andreessen-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 2401,
+    "newWordCount": 2234,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:57:52.535Z"
+  },
+  "international-blockchain-day.md": {
+    "status": "done",
+    "oldWordCount": 2819,
+    "newWordCount": 2706,
+    "oldSlopScore": 9,
+    "newSlopScore": 7,
+    "timestamp": "2026-04-27T10:57:53.398Z"
+  },
+  "jack-dorsey-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 2602,
+    "newWordCount": 2470,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:57:53.448Z"
+  },
+  "multi-agent-systems-and-ai.md": {
+    "status": "done",
+    "oldWordCount": 1369,
+    "newWordCount": 1433,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:53.496Z"
+  },
+  "meeting-etiquette-for-remote-workers.md": {
+    "status": "done",
+    "oldWordCount": 2152,
+    "newWordCount": 1610,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:53.522Z"
+  },
+  "legal-careers-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2252,
+    "newWordCount": 2213,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:57:55.676Z"
+  },
+  "key-strategies-to-succeed-in-web3-career-interviews.md": {
+    "status": "done",
+    "oldWordCount": 2088,
+    "newWordCount": 2184,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:57:55.805Z"
+  },
+  "phone-interview-best-practices-guide.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1668,
+    "slopScore": 0
+  },
+  "mark-zuckerberg-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 2718,
+    "newWordCount": 2271,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:57:57.169Z"
+  },
+  "presentation-skills-for-nervous-speakers.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1512,
+    "slopScore": 0
+  },
+  "meaning-of-crypto-and-web3-slangs-and-acronyms.md": {
+    "status": "done",
+    "oldWordCount": 2025,
+    "newWordCount": 1702,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:57.409Z"
+  },
+  "most-demanding-programming-skill.md": {
+    "status": "done",
+    "oldWordCount": 1725,
+    "newWordCount": 1653,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:57:57.414Z"
+  },
+  "neural-networks-complete-guide-for-newcomers.md": {
+    "status": "done",
+    "oldWordCount": 2216,
+    "newWordCount": 1321,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:57:59.286Z"
+  },
+  "mid-career-crisis-survival-guide.md": {
+    "status": "done",
+    "oldWordCount": 2258,
+    "newWordCount": 1608,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:00.115Z"
+  },
+  "networking-strategies-for-introverts.md": {
+    "status": "done",
+    "oldWordCount": 2269,
+    "newWordCount": 1519,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:05.144Z"
+  },
+  "next-generation-connectivity-explained.md": {
+    "status": "done",
+    "oldWordCount": 1901,
+    "newWordCount": 1668,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:58:05.287Z"
+  },
+  "ns.md": {
+    "status": "done",
+    "oldWordCount": 557,
+    "newWordCount": 991,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:06.606Z"
+  },
+  "mastering-web3-essential-skills.md": {
+    "status": "done",
+    "oldWordCount": 2570,
+    "newWordCount": 2343,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:58:07.235Z"
+  },
+  "indian-web3-communities.md": {
+    "status": "done",
+    "oldWordCount": 1855,
+    "newWordCount": 2278,
+    "oldSlopScore": 9,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:58:08.139Z"
+  },
+  "navigating-the-metaverse.md": {
+    "status": "done",
+    "oldWordCount": 1900,
+    "newWordCount": 1706,
+    "oldSlopScore": 10,
+    "newSlopScore": 7,
+    "timestamp": "2026-04-27T10:58:09.577Z"
+  },
+  "marketing-strategy.md": {
+    "status": "done",
+    "oldWordCount": 2438,
+    "newWordCount": 2476,
+    "oldSlopScore": 9,
+    "newSlopScore": 8,
+    "timestamp": "2026-04-27T10:58:10.160Z"
+  },
+  "navigating-web3-job-boards-effectively.md": {
+    "status": "done",
+    "oldWordCount": 2060,
+    "newWordCount": 1761,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:11.586Z"
+  },
+  "performance-management-best-practices.md": {
+    "status": "done",
+    "oldWordCount": 862,
+    "newWordCount": 995,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:15.386Z"
+  },
+  "navigating-web3-jobs-and-careers.md": {
+    "status": "done",
+    "oldWordCount": 2008,
+    "newWordCount": 1856,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:58:15.852Z"
+  },
+  "navigating-web3-job-boards.md": {
+    "status": "done",
+    "oldWordCount": 2568,
+    "newWordCount": 2378,
+    "oldSlopScore": 12,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:58:18.480Z"
+  },
+  "navigating-the-web3-investment-analyst-career-path.md": {
+    "status": "done",
+    "oldWordCount": 2074,
+    "newWordCount": 2054,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:58:18.923Z"
+  },
+  "onboarding-checklist-for-new-hires.md": {
+    "status": "done",
+    "oldWordCount": 1199,
+    "newWordCount": 1513,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:19.727Z"
+  },
+  "on-chain-identity-verification-explained.md": {
+    "status": "done",
+    "oldWordCount": 1447,
+    "newWordCount": 1416,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:58:19.828Z"
+  },
+  "most-in-demand-web3-careers.md": {
+    "status": "done",
+    "oldWordCount": 2418,
+    "newWordCount": 2679,
+    "oldSlopScore": 9,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:58:19.885Z"
+  },
+  "nft-jobs-explained.md": {
+    "status": "done",
+    "oldWordCount": 2043,
+    "newWordCount": 1996,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:58:20.614Z"
+  },
+  "nft-artist-royalties.md": {
+    "status": "done",
+    "oldWordCount": 2246,
+    "newWordCount": 2078,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:58:22.436Z"
+  },
+  "on-chain-analyst-job.md": {
+    "status": "done",
+    "oldWordCount": 1794,
+    "newWordCount": 1603,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:24.012Z"
+  },
+  "passive-liquidity-provision-complete-guide.md": {
+    "status": "done",
+    "oldWordCount": 1994,
+    "newWordCount": 1476,
+    "oldSlopScore": 13,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:58:24.610Z"
+  },
+  "securing-your-crypto.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1841,
+    "slopScore": 0
+  },
+  "on-chain-resume.md": {
+    "status": "done",
+    "oldWordCount": 2137,
+    "newWordCount": 1601,
+    "oldSlopScore": 9,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:58:28.099Z"
+  },
+  "privacy-preserving-ai-technologies-explained.md": {
+    "status": "done",
+    "oldWordCount": 1839,
+    "newWordCount": 1385,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:58:29.644Z"
+  },
+  "product-management-career-guide.md": {
+    "status": "done",
+    "oldWordCount": 1732,
+    "newWordCount": 1523,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:58:35.485Z"
+  },
+  "oracle-use-cases-beyond-price-feeds.md": {
+    "status": "done",
+    "oldWordCount": 2096,
+    "newWordCount": 1801,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:58:36.693Z"
+  },
+  "setting-career-goals-that-actually-work.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2033,
+    "slopScore": 0
+  },
+  "professional-reputation-management-tips.md": {
+    "status": "done",
+    "oldWordCount": 2195,
+    "newWordCount": 1685,
+    "oldSlopScore": 12,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:37.804Z"
+  },
+  "polygon-blockchain-scaling-solutions-for-ethereum.md": {
+    "status": "done",
+    "oldWordCount": 1832,
+    "newWordCount": 1809,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:58:39.592Z"
+  },
+  "partnership-strategy-for-web3-projects.md": {
+    "status": "done",
+    "oldWordCount": 2424,
+    "newWordCount": 2085,
+    "oldSlopScore": 9,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:58:40.510Z"
+  },
+  "onboarding-non-technical-talent-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2125,
+    "newWordCount": 2055,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:58:41.177Z"
+  },
+  "quantum-supremacy-explained-in-simple-terms.md": {
+    "status": "done",
+    "oldWordCount": 2002,
+    "newWordCount": 1651,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:58:42.332Z"
+  },
+  "python-for-ai-complete-tutorial.md": {
+    "status": "done",
+    "oldWordCount": 1558,
+    "newWordCount": 1403,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:58:43.100Z"
+  },
+  "smart-contract-jobs.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2022,
+    "slopScore": 0
+  },
+  "opportunities-in-argentinas-web3-marketing-market.md": {
+    "status": "done",
+    "oldWordCount": 2531,
+    "newWordCount": 2253,
+    "oldSlopScore": 10,
+    "newSlopScore": 9,
+    "timestamp": "2026-04-27T10:58:43.184Z"
+  },
+  "solana-dapp-development-guide-with-rust.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2282,
+    "slopScore": 0
+  },
+  "red-flags-to-watch-in-job-interviews.md": {
+    "status": "done",
+    "oldWordCount": 1891,
+    "newWordCount": 1600,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:44.744Z"
+  },
+  "solana-developer-activity-fundamental-analysis.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1884,
+    "slopScore": 0
+  },
+  "sabbatical-leave-complete-planning-guide.md": {
+    "status": "done",
+    "oldWordCount": 2000,
+    "newWordCount": 1078,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:46.035Z"
+  },
+  "questions-to-ask-hiring-manager.md": {
+    "status": "done",
+    "oldWordCount": 2348,
+    "newWordCount": 1849,
+    "oldSlopScore": 12,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:58:48.256Z"
+  },
+  "solidity-for-beginners.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1634,
+    "slopScore": 0
+  },
+  "resume-writing-tips-that-get-interviews.md": {
+    "status": "done",
+    "oldWordCount": 1742,
+    "newWordCount": 1309,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:48.586Z"
+  },
+  "professional-email-etiquette-rules.md": {
+    "status": "done",
+    "oldWordCount": 2184,
+    "newWordCount": 2011,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:58:48.783Z"
+  },
+  "salary-negotiation-mistakes-to-avoid.md": {
+    "status": "done",
+    "oldWordCount": 1715,
+    "newWordCount": 1301,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:48.975Z"
+  },
+  "private-vs-public-vs-consortium-blockchain-explained.md": {
+    "status": "done",
+    "oldWordCount": 2056,
+    "newWordCount": 2039,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:58:50.063Z"
+  },
+  "sandwich-attack-in-dex-explained.md": {
+    "status": "done",
+    "oldWordCount": 1466,
+    "newWordCount": 1237,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:50.870Z"
+  },
+  "proof-of-stake-vs-proof-of-work-in-blockchain.md": {
+    "status": "done",
+    "oldWordCount": 1918,
+    "newWordCount": 1940,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:51.145Z"
+  },
+  "remote-work-strategies-every-digital-nomad-should-know.md": {
+    "status": "done",
+    "oldWordCount": 1851,
+    "newWordCount": 1585,
+    "oldSlopScore": 10,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:58:51.557Z"
+  },
+  "r3-corda-vs-cosmos-sdk.md": {
+    "status": "done",
+    "oldWordCount": 1843,
+    "newWordCount": 1871,
+    "oldSlopScore": 19,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:58:52.333Z"
+  },
+  "public-speaking-tips-for-professionals.md": {
+    "status": "done",
+    "oldWordCount": 2243,
+    "newWordCount": 1930,
+    "oldSlopScore": 10,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:58:55.043Z"
+  },
+  "sales-career-progression-path.md": {
+    "status": "done",
+    "oldWordCount": 1696,
+    "newWordCount": 1576,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:58:55.469Z"
+  },
+  "security-token-offering-explained-for-investors.md": {
+    "status": "done",
+    "oldWordCount": 1515,
+    "newWordCount": 1457,
+    "oldSlopScore": 10,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:58:57.600Z"
+  },
+  "remote-work-tools-powered-by-ai.md": {
+    "status": "done",
+    "oldWordCount": 1932,
+    "newWordCount": 1693,
+    "oldSlopScore": 17,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:00.271Z"
+  },
+  "signs-you-should-quit-your-job.md": {
+    "status": "done",
+    "oldWordCount": 1932,
+    "newWordCount": 1135,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:00.676Z"
+  },
+  "remote-work-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2240,
+    "newWordCount": 1979,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:01.242Z"
+  },
+  "satoshi-nakamotos-first-forum-post.md": {
+    "status": "done",
+    "oldWordCount": 2025,
+    "newWordCount": 1891,
+    "oldSlopScore": 11,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T10:59:01.778Z"
+  },
+  "remote-web3-team-playbook.md": {
+    "status": "done",
+    "oldWordCount": 1984,
+    "newWordCount": 1893,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:01.806Z"
+  },
+  "sidechains-vs-layer-2s.md": {
+    "status": "done",
+    "oldWordCount": 1442,
+    "newWordCount": 1316,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:06.955Z"
+  },
+  "solanas-developer-activity-decline.md": {
+    "status": "done",
+    "oldWordCount": 1877,
+    "newWordCount": 896,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:07.030Z"
+  },
+  "self-sovereign-identity-in-web3-explained.md": {
+    "status": "done",
+    "oldWordCount": 1937,
+    "newWordCount": 1668,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:59:09.682Z"
+  },
+  "smart-agents-in-ai.md": {
+    "status": "done",
+    "oldWordCount": 1318,
+    "newWordCount": 1339,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:10.063Z"
+  },
+  "selfish-mining-attack-explained-simply.md": {
+    "status": "done",
+    "oldWordCount": 2190,
+    "newWordCount": 1672,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:59:12.903Z"
+  },
+  "solana-vs-ethereum-developer-showdown.md": {
+    "status": "done",
+    "oldWordCount": 1602,
+    "newWordCount": 1640,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:17.534Z"
+  },
+  "scaling-regenerative-economies-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2259,
+    "newWordCount": 2168,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:59:19.464Z"
+  },
+  "south-korea-gamefi-market-analysis.md": {
+    "status": "done",
+    "oldWordCount": 1676,
+    "newWordCount": 1404,
+    "oldSlopScore": 12,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:59:19.944Z"
+  },
+  "startup-vs-corporate-career-comparison.md": {
+    "status": "done",
+    "oldWordCount": 1737,
+    "newWordCount": 1344,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:20.399Z"
+  },
+  "the-rise-of-the-crypto-native-hr-professional.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1712,
+    "slopScore": 0
+  },
+  "stakeholder-management-complete-guide.md": {
+    "status": "done",
+    "oldWordCount": 1612,
+    "newWordCount": 1388,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:20.462Z"
+  },
+  "smart-contract-auditor-career.md": {
+    "status": "done",
+    "oldWordCount": 1923,
+    "newWordCount": 1646,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:59:20.483Z"
+  },
+  "team-motivation-strategies-that-work.md": {
+    "status": "done",
+    "oldWordCount": 1825,
+    "newWordCount": 1286,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:59:22.383Z"
+  },
+  "thank-you-email-templates-for-interviews.md": {
+    "status": "done",
+    "oldWordCount": 1852,
+    "newWordCount": 1198,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:22.646Z"
+  },
+  "self-driving-cars-complete-guide.md": {
+    "status": "done",
+    "oldWordCount": 2146,
+    "newWordCount": 2315,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:22.694Z"
+  },
+  "slack-communication-best-practices.md": {
+    "status": "done",
+    "oldWordCount": 2186,
+    "newWordCount": 1971,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:24.812Z"
+  },
+  "solana-developer-activity-analysis.md": {
+    "status": "done",
+    "oldWordCount": 2005,
+    "newWordCount": 1832,
+    "oldSlopScore": 1,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:27.456Z"
+  },
+  "smart-contracts-in-blockchain-and-their-applications.md": {
+    "status": "done",
+    "oldWordCount": 2186,
+    "newWordCount": 2024,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:59:27.463Z"
+  },
+  "simple-trick-to-get-crypto-job.md": {
+    "status": "done",
+    "oldWordCount": 2390,
+    "newWordCount": 2107,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:59:28.934Z"
+  },
+  "synchronizing-real-and-virtual-economies.md": {
+    "status": "done",
+    "oldWordCount": 1975,
+    "newWordCount": 1666,
+    "oldSlopScore": 11,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:59:29.755Z"
+  },
+  "stableswap-invariant-explained-for-traders.md": {
+    "status": "done",
+    "oldWordCount": 1931,
+    "newWordCount": 1419,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:33.940Z"
+  },
+  "sui-blockchain-technology-and-developer-ecosystem.md": {
+    "status": "done",
+    "oldWordCount": 1922,
+    "newWordCount": 1806,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T10:59:35.731Z"
+  },
+  "the-future-of-web3-cross-border-payment-systems-and-jobs.md": {
+    "status": "done",
+    "oldWordCount": 1823,
+    "newWordCount": 1625,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:38.083Z"
+  },
+  "the-slowdown-in-developer-activity-a-critical-analysis.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2182,
+    "slopScore": 0
+  },
+  "the-ultimate-packing-list-for-digital-nomads-working-in-tech.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1672,
+    "slopScore": 0
+  },
+  "the-comprehensive-guide-to-ethereum-rollups.md": {
+    "status": "done",
+    "oldWordCount": 2002,
+    "newWordCount": 1832,
+    "oldSlopScore": 12,
+    "newSlopScore": 8,
+    "timestamp": "2026-04-27T10:59:39.037Z"
+  },
+  "solving-token-compensation-for-web3-employment.md": {
+    "status": "done",
+    "oldWordCount": 2367,
+    "newWordCount": 2298,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:59:39.276Z"
+  },
+  "the-best-web3-job-boards-to-kickstart-your-crypto-career.md": {
+    "status": "done",
+    "oldWordCount": 2143,
+    "newWordCount": 2093,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:41.212Z"
+  },
+  "the-future-of-web3-in-digital-rights-and-copyright-protection-jobs.md": {
+    "status": "done",
+    "oldWordCount": 1699,
+    "newWordCount": 1604,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:41.541Z"
+  },
+  "the-future-of-decentralized-compute.md": {
+    "status": "done",
+    "oldWordCount": 1268,
+    "newWordCount": 1352,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T10:59:45.289Z"
+  },
+  "the-current-state-of-litecoin-development.md": {
+    "status": "done",
+    "oldWordCount": 2155,
+    "newWordCount": 2106,
+    "oldSlopScore": 4,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T10:59:48.651Z"
+  },
+  "the-growing-demand-for-web3-qa-engineers.md": {
+    "status": "done",
+    "oldWordCount": 2059,
+    "newWordCount": 1772,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:49.849Z"
+  },
+  "the-growing-need-for-web3-blockchain-regulatory-experts.md": {
+    "status": "done",
+    "oldWordCount": 1855,
+    "newWordCount": 1896,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:59:54.356Z"
+  },
+  "the-future-of-web3-in-2026-and-beyond.md": {
+    "status": "done",
+    "oldWordCount": 2457,
+    "newWordCount": 2251,
+    "oldSlopScore": 12,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T10:59:54.596Z"
+  },
+  "the-role-of-a-tokenomics-designer.md": {
+    "status": "done",
+    "oldWordCount": 1503,
+    "newWordCount": 1354,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T10:59:56.495Z"
+  },
+  "the-rise-of-daos.md": {
+    "status": "done",
+    "oldWordCount": 2338,
+    "newWordCount": 1553,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T10:59:58.703Z"
+  },
+  "the-future-of-web3-insurance-and-risk-management-jobs.md": {
+    "status": "done",
+    "oldWordCount": 1788,
+    "newWordCount": 1645,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:00.159Z"
+  },
+  "the-rise-of-the-smart-contract-auditor.md": {
+    "status": "done",
+    "oldWordCount": 1992,
+    "newWordCount": 1773,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:00:00.241Z"
+  },
+  "the-rise-of-web3-governance-and-voting-system-engineers.md": {
+    "status": "done",
+    "oldWordCount": 1824,
+    "newWordCount": 1876,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:04.537Z"
+  },
+  "the-role-of-web3-blockchain-performance-optimization-engineers.md": {
+    "status": "done",
+    "oldWordCount": 1788,
+    "newWordCount": 1811,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:00:06.025Z"
+  },
+  "the-rise-of-the-web3-content-creator.md": {
+    "status": "done",
+    "oldWordCount": 2117,
+    "newWordCount": 1948,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:06.189Z"
+  },
+  "the-rise-of-web3-and-its-impact-on-digital-ownership.md": {
+    "status": "done",
+    "oldWordCount": 2053,
+    "newWordCount": 2002,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:00:06.396Z"
+  },
+  "the-most-rewarding-web3-careers.md": {
+    "status": "done",
+    "oldWordCount": 2085,
+    "newWordCount": 2025,
+    "oldSlopScore": 10,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:00:06.784Z"
+  },
+  "the-rise-of-web3-gaming-guilds.md": {
+    "status": "done",
+    "oldWordCount": 2614,
+    "newWordCount": 2195,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:00:12.078Z"
+  },
+  "tokenizing-property-ownership.md": {
+    "status": "done",
+    "oldWordCount": 1692,
+    "newWordCount": 1617,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:00:12.928Z"
+  },
+  "the-legal-landscape-of-web3.md": {
+    "status": "done",
+    "oldWordCount": 2222,
+    "newWordCount": 2113,
+    "oldSlopScore": 11,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:00:13.580Z"
+  },
+  "the-role-of-a-web3-financial-product-manager.md": {
+    "status": "done",
+    "oldWordCount": 1821,
+    "newWordCount": 1757,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:00:13.947Z"
+  },
+  "the-role-of-web3-developer-advocates-in-community-building.md": {
+    "status": "done",
+    "oldWordCount": 1930,
+    "newWordCount": 1909,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:14.775Z"
+  },
+  "tokenizing-rights-and-privileges.md": {
+    "status": "done",
+    "oldWordCount": 1923,
+    "newWordCount": 1727,
+    "oldSlopScore": 10,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:00:15.679Z"
+  },
+  "the-role-of-web3-business-development-professionals.md": {
+    "status": "done",
+    "oldWordCount": 2044,
+    "newWordCount": 2131,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:00:16.519Z"
+  },
+  "technical-writer-web3-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2090,
+    "newWordCount": 1761,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:00:17.208Z"
+  },
+  "the-role-of-web3-technical-writers-in-blockchain-projects.md": {
+    "status": "done",
+    "oldWordCount": 2095,
+    "newWordCount": 1874,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:00:18.940Z"
+  },
+  "the-convergence-of-ai-and-web3-careers.md": {
+    "status": "done",
+    "oldWordCount": 2427,
+    "newWordCount": 1824,
+    "oldSlopScore": 11,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:00:24.508Z"
+  },
+  "top-10-crypto-friendly-countries.md": {
+    "status": "done",
+    "oldWordCount": 2278,
+    "newWordCount": 1932,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:00:27.455Z"
+  },
+  "top-5-web3-languages.md": {
+    "status": "done",
+    "oldWordCount": 1542,
+    "newWordCount": 1166,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:00:27.726Z"
+  },
+  "top-ai-productivity-tools-you-need.md": {
+    "status": "done",
+    "oldWordCount": 2149,
+    "newWordCount": 1380,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:00:29.327Z"
+  },
+  "two-weeks-notice-letter-templates.md": {
+    "status": "done",
+    "oldWordCount": 1844,
+    "newWordCount": 1031,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:00:33.542Z"
+  },
+  "the-rise-of-web3-in-south-korea.md": {
+    "status": "done",
+    "oldWordCount": 2471,
+    "newWordCount": 2268,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:34.708Z"
+  },
+  "understanding-litecoin-developer-slowdown.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1621,
+    "slopScore": 0
+  },
+  "understanding-litecoin-development-trends.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1983,
+    "slopScore": 0
+  },
+  "top-10-skills-for-a-web3-career.md": {
+    "status": "done",
+    "oldWordCount": 2663,
+    "newWordCount": 2348,
+    "oldSlopScore": 8,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:00:40.562Z"
+  },
+  "understanding-machine-learning-for-beginners.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2192,
+    "slopScore": 0
+  },
+  "the-slow-path-to-web3-mass-adoption.md": {
+    "status": "done",
+    "oldWordCount": 2547,
+    "newWordCount": 2482,
+    "oldSlopScore": 10,
+    "newSlopScore": 10,
+    "timestamp": "2026-04-27T11:00:43.046Z"
+  },
+  "top-web3-hashtags-and-how-to-use-them.md": {
+    "status": "done",
+    "oldWordCount": 1864,
+    "newWordCount": 1879,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:43.345Z"
+  },
+  "tokenomics-for-compensation.md": {
+    "status": "done",
+    "oldWordCount": 2253,
+    "newWordCount": 2390,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:43.774Z"
+  },
+  "the-web3-go-to-market-handbook.md": {
+    "status": "done",
+    "oldWordCount": 2558,
+    "newWordCount": 2343,
+    "oldSlopScore": 12,
+    "newSlopScore": 8,
+    "timestamp": "2026-04-27T11:00:44.195Z"
+  },
+  "the-fundamentals-of-web3-real-estate.md": {
+    "status": "done",
+    "oldWordCount": 2080,
+    "newWordCount": 2053,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:00:45.033Z"
+  },
+  "top-skills-employers-are-looking-for-in-web3-developers.md": {
+    "status": "done",
+    "oldWordCount": 2305,
+    "newWordCount": 1909,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:00:45.321Z"
+  },
+  "understanding-biotechnology-innovations.md": {
+    "status": "done",
+    "oldWordCount": 1688,
+    "newWordCount": 1314,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:00:45.930Z"
+  },
+  "understanding-edge-ai-technology.md": {
+    "status": "done",
+    "oldWordCount": 1920,
+    "newWordCount": 1083,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:00:47.354Z"
+  },
+  "top-10-web3-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2705,
+    "newWordCount": 2417,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:47.761Z"
+  },
+  "top-companies-hiring-for-web3-roles.md": {
+    "status": "done",
+    "oldWordCount": 2240,
+    "newWordCount": 2118,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:48.271Z"
+  },
+  "top-10-web3-developer-skills.md": {
+    "status": "done",
+    "oldWordCount": 2293,
+    "newWordCount": 2322,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:00:51.336Z"
+  },
+  "understanding-concentrated-liquidity-in-uniswap.md": {
+    "status": "done",
+    "oldWordCount": 2050,
+    "newWordCount": 1259,
+    "oldSlopScore": 13,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:52.381Z"
+  },
+  "understanding-airdrop-campaigns-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 1889,
+    "newWordCount": 1808,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:56.414Z"
+  },
+  "understanding-cloud-computing-basics-2025.md": {
+    "status": "done",
+    "oldWordCount": 2073,
+    "newWordCount": 1665,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:00:57.030Z"
+  },
+  "understanding-constant-product-formula.md": {
+    "status": "done",
+    "oldWordCount": 2059,
+    "newWordCount": 1508,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:00:58.150Z"
+  },
+  "top-opportunities-in-web3-for-crypto-native-talent.md": {
+    "status": "done",
+    "oldWordCount": 2276,
+    "newWordCount": 2052,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:00:58.387Z"
+  },
+  "transferable-skills-every-professional-has.md": {
+    "status": "done",
+    "oldWordCount": 2223,
+    "newWordCount": 1948,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:00.024Z"
+  },
+  "understanding-ens-domains-in-ethereum.md": {
+    "status": "done",
+    "oldWordCount": 1406,
+    "newWordCount": 1481,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:00.093Z"
+  },
+  "understanding-computer-vision-in-ai-systems.md": {
+    "status": "done",
+    "oldWordCount": 2129,
+    "newWordCount": 1521,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:00.438Z"
+  },
+  "understanding-web3-consensus-mechanism-architects.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2151,
+    "slopScore": 0
+  },
+  "understanding-nanotechnology-basics.md": {
+    "status": "done",
+    "oldWordCount": 1862,
+    "newWordCount": 924,
+    "oldSlopScore": 11,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:01:05.128Z"
+  },
+  "ultimate-guide-to-web3-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2090,
+    "newWordCount": 2044,
+    "oldSlopScore": 9,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:01:06.128Z"
+  },
+  "understanding-gas-fees-and-optimization-in-ethereum.md": {
+    "status": "done",
+    "oldWordCount": 1780,
+    "newWordCount": 1498,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:06.906Z"
+  },
+  "understanding-account-abstraction.md": {
+    "status": "done",
+    "oldWordCount": 2552,
+    "newWordCount": 2505,
+    "oldSlopScore": 8,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:01:10.359Z"
+  },
+  "understanding-coin-developer-activity-slowdown.md": {
+    "status": "done",
+    "oldWordCount": 2037,
+    "newWordCount": 2163,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:11.860Z"
+  },
+  "top-web3-job-opportunities-for-non-developers.md": {
+    "status": "done",
+    "oldWordCount": 2442,
+    "newWordCount": 2271,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:01:12.262Z"
+  },
+  "understanding-mark-price-vs-last-price.md": {
+    "status": "done",
+    "oldWordCount": 1760,
+    "newWordCount": 1215,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:13.950Z"
+  },
+  "understanding-annual-percentage-yield-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2114,
+    "newWordCount": 2043,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:01:14.050Z"
+  },
+  "understanding-solar-power-innovations.md": {
+    "status": "done",
+    "oldWordCount": 1780,
+    "newWordCount": 1071,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:16.688Z"
+  },
+  "understanding-lp-rewards-and-fees.md": {
+    "status": "done",
+    "oldWordCount": 1964,
+    "newWordCount": 1611,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:17.099Z"
+  },
+  "understanding-smart-home-devices-and-iot.md": {
+    "status": "done",
+    "oldWordCount": 2138,
+    "newWordCount": 1375,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:17.277Z"
+  },
+  "understanding-hardware-wallets-for-crypto-security.md": {
+    "status": "done",
+    "oldWordCount": 2042,
+    "newWordCount": 1739,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:01:18.717Z"
+  },
+  "understanding-elon-musks-web3-stance.md": {
+    "status": "done",
+    "oldWordCount": 2438,
+    "newWordCount": 2245,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:20.366Z"
+  },
+  "understanding-natural-user-interfaces.md": {
+    "status": "done",
+    "oldWordCount": 1816,
+    "newWordCount": 1369,
+    "oldSlopScore": 12,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:01:22.187Z"
+  },
+  "understanding-uncle-blocks-in-ethereum.md": {
+    "status": "done",
+    "oldWordCount": 2091,
+    "newWordCount": 1151,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:23.730Z"
+  },
+  "understanding-reentrancy-attacks-in-web3-smart-contracts.md": {
+    "status": "done",
+    "oldWordCount": 1973,
+    "newWordCount": 1755,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:31.940Z"
+  },
+  "understanding-block-time-in-different-blockchains.md": {
+    "status": "done",
+    "oldWordCount": 1877,
+    "newWordCount": 1813,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:32.982Z"
+  },
+  "understanding-the-40-decline-in-blockchain-builder-activity.md": {
+    "status": "done",
+    "oldWordCount": 1980,
+    "newWordCount": 2024,
+    "oldSlopScore": 2,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:01:35.364Z"
+  },
+  "upwork-vs-fiverr-for-freelancers.md": {
+    "status": "done",
+    "oldWordCount": 1924,
+    "newWordCount": 1235,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:39.096Z"
+  },
+  "understanding-tokenomics.md": {
+    "status": "done",
+    "oldWordCount": 2215,
+    "newWordCount": 1978,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:01:43.404Z"
+  },
+  "understanding-multi-party-computation-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2218,
+    "newWordCount": 2175,
+    "oldSlopScore": 9,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:01:44.029Z"
+  },
+  "virtual-interview-tips-and-tricks.md": {
+    "status": "done",
+    "oldWordCount": 1664,
+    "newWordCount": 1174,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:01:44.680Z"
+  },
+  "video-interview-setup-and-lighting.md": {
+    "status": "done",
+    "oldWordCount": 1517,
+    "newWordCount": 1350,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:44.926Z"
+  },
+  "understanding-zero-trust-security-model.md": {
+    "status": "done",
+    "oldWordCount": 1845,
+    "newWordCount": 1504,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:01:45.678Z"
+  },
+  "understanding-network-state.md": {
+    "status": "done",
+    "oldWordCount": 1700,
+    "newWordCount": 1812,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:01:47.450Z"
+  },
+  "web3-go-to-market-playbook.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2014,
+    "slopScore": 0
+  },
+  "vitalik-buterin-on-web3.md": {
+    "status": "done",
+    "oldWordCount": 1791,
+    "newWordCount": 1295,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:48.353Z"
+  },
+  "understanding-the-line-between-marketing-and-manipulation.md": {
+    "status": "done",
+    "oldWordCount": 2072,
+    "newWordCount": 1937,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:48.770Z"
+  },
+  "web3-interview-questions.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1668,
+    "slopScore": 0
+  },
+  "understanding-tokenomics-and-supply-models.md": {
+    "status": "done",
+    "oldWordCount": 1727,
+    "newWordCount": 1640,
+    "oldSlopScore": 11,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:01:49.376Z"
+  },
+  "understanding-transaction-hashing-in-blockchain.md": {
+    "status": "done",
+    "oldWordCount": 2145,
+    "newWordCount": 1969,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:50.294Z"
+  },
+  "understanding-stealth-launch-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2070,
+    "newWordCount": 2086,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:01:50.976Z"
+  },
+  "ux-design-career-transition-guide.md": {
+    "status": "done",
+    "oldWordCount": 1805,
+    "newWordCount": 1480,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:52.419Z"
+  },
+  "understanding-web3-company-culture.md": {
+    "status": "done",
+    "oldWordCount": 2070,
+    "newWordCount": 1976,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:56.884Z"
+  },
+  "understanding-web3-developer-career-paths.md": {
+    "status": "done",
+    "oldWordCount": 1773,
+    "newWordCount": 1798,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:01:57.401Z"
+  },
+  "understanding-web3-job-salaries-and-negotiation.md": {
+    "status": "done",
+    "oldWordCount": 1971,
+    "newWordCount": 1785,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:01:58.069Z"
+  },
+  "understanding-verifiable-credentials-in-blockchain.md": {
+    "status": "done",
+    "oldWordCount": 2275,
+    "newWordCount": 2025,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:02:00.008Z"
+  },
+  "web3-community-manager-career.md": {
+    "status": "done",
+    "oldWordCount": 1640,
+    "newWordCount": 1340,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:02:00.106Z"
+  },
+  "web3-and-ai.md": {
+    "status": "done",
+    "oldWordCount": 2202,
+    "newWordCount": 1847,
+    "oldSlopScore": 8,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:02:03.416Z"
+  },
+  "vesting-schedules-in-crypto-projects-explained.md": {
+    "status": "done",
+    "oldWordCount": 2051,
+    "newWordCount": 1996,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:02:06.387Z"
+  },
+  "web3-business-development-career-guide.md": {
+    "status": "done",
+    "oldWordCount": 2316,
+    "newWordCount": 2021,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:02:08.671Z"
+  },
+  "web3-career-legitimacy.md": {
+    "status": "done",
+    "oldWordCount": 2203,
+    "newWordCount": 2091,
+    "oldSlopScore": 9,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:02:11.470Z"
+  },
+  "understanding-slashing-in-proof-of-stake-networks.md": {
+    "status": "done",
+    "oldWordCount": 1795,
+    "newWordCount": 1613,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:02:13.123Z"
+  },
+  "web3-certifications-and-career-growth.md": {
+    "status": "done",
+    "oldWordCount": 2067,
+    "newWordCount": 2003,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:02:14.721Z"
+  },
+  "web3-customer-support-careers.md": {
+    "status": "done",
+    "oldWordCount": 2091,
+    "newWordCount": 1896,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:02:20.260Z"
+  },
+  "web3-careers-explained.md": {
+    "status": "done",
+    "oldWordCount": 2280,
+    "newWordCount": 2099,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:02:20.989Z"
+  },
+  "web3-developer-activity-slowdown-explained.md": {
+    "status": "done",
+    "oldWordCount": 1993,
+    "newWordCount": 1787,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:02:23.410Z"
+  },
+  "understanding-the-solana-blockchain.md": {
+    "status": "done",
+    "oldWordCount": 1810,
+    "newWordCount": 1695,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:02:25.015Z"
+  },
+  "web3-data-analyst-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2063,
+    "newWordCount": 1912,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:02:27.387Z"
+  },
+  "web3-for-good-careers-in-social-impact-daos.md": {
+    "status": "done",
+    "oldWordCount": 1945,
+    "newWordCount": 1778,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:02:32.224Z"
+  },
+  "web3-corporate-structures.md": {
+    "status": "done",
+    "oldWordCount": 2215,
+    "newWordCount": 2022,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:02:33.685Z"
+  },
+  "web3-career-growth-and-development.md": {
+    "status": "done",
+    "oldWordCount": 2748,
+    "newWordCount": 2722,
+    "oldSlopScore": 1,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:02:35.722Z"
+  },
+  "web3-developer-salaries-2025.md": {
+    "status": "done",
+    "oldWordCount": 2021,
+    "newWordCount": 1865,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:02:37.997Z"
+  },
+  "web3-internship-101.md": {
+    "status": "done",
+    "oldWordCount": 2258,
+    "newWordCount": 2007,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:02:40.245Z"
+  },
+  "web3-gaming-guilds.md": {
+    "status": "done",
+    "oldWordCount": 2121,
+    "newWordCount": 2197,
+    "oldSlopScore": 2,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:02:40.971Z"
+  },
+  "web3-jobs-in-abidjan.md": {
+    "status": "done",
+    "oldWordCount": 1489,
+    "newWordCount": 1672,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:02:41.127Z"
+  },
+  "web3-developer-portfolio.md": {
+    "status": "done",
+    "oldWordCount": 2170,
+    "newWordCount": 2094,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:02:45.061Z"
+  },
+  "web3-in-real-estate-tokenization.md": {
+    "status": "done",
+    "oldWordCount": 2181,
+    "newWordCount": 2058,
+    "oldSlopScore": 13,
+    "newSlopScore": 7,
+    "timestamp": "2026-04-27T11:02:45.226Z"
+  },
+  "web3-forensics-and-blockchain-investigators-career-insights.md": {
+    "status": "done",
+    "oldWordCount": 2572,
+    "newWordCount": 2636,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:02:47.753Z"
+  },
+  "web3-jobs-in-atlanta.md": {
+    "status": "done",
+    "oldWordCount": 2091,
+    "newWordCount": 1863,
+    "oldSlopScore": 11,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:02:49.704Z"
+  },
+  "web3-jobs-in-antananarivo.md": {
+    "status": "done",
+    "oldWordCount": 2019,
+    "newWordCount": 1702,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:02:49.940Z"
+  },
+  "web3-jobs-in-addis-ababa.md": {
+    "status": "done",
+    "oldWordCount": 1865,
+    "newWordCount": 1873,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:02:50.828Z"
+  },
+  "web3-jobs-and-regulatory-unknown.md": {
+    "status": "done",
+    "oldWordCount": 2211,
+    "newWordCount": 2221,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:02:51.922Z"
+  },
+  "web3-jobs-in-bangui.md": {
+    "status": "done",
+    "oldWordCount": 1669,
+    "newWordCount": 1397,
+    "oldSlopScore": 4,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:02:54.096Z"
+  },
+  "web3-jobs-in-australia.md": {
+    "status": "done",
+    "oldWordCount": 2103,
+    "newWordCount": 1800,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:02:55.584Z"
+  },
+  "web3-jobs-in-algiers.md": {
+    "status": "done",
+    "oldWordCount": 3404,
+    "newWordCount": 1905,
+    "oldSlopScore": 4,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:02:55.670Z"
+  },
+  "web3-jobs-in-ahmedabad.md": {
+    "status": "done",
+    "oldWordCount": 2491,
+    "newWordCount": 2237,
+    "oldSlopScore": 5,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:04.587Z"
+  },
+  "web3-jobs-in-argentina.md": {
+    "status": "done",
+    "oldWordCount": 1603,
+    "newWordCount": 2218,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:03:06.550Z"
+  },
+  "web3-jobs-for-beginners.md": {
+    "status": "done",
+    "oldWordCount": 2125,
+    "newWordCount": 2050,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:03:13.195Z"
+  },
+  "web3-jobs-in-austin.md": {
+    "status": "done",
+    "oldWordCount": 2394,
+    "newWordCount": 2435,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:03:13.991Z"
+  },
+  "web3-jobs-in-boston.md": {
+    "status": "done",
+    "oldWordCount": 2023,
+    "newWordCount": 1798,
+    "oldSlopScore": 12,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:14.440Z"
+  },
+  "web3-jobs-in-banjul.md": {
+    "status": "done",
+    "oldWordCount": 2244,
+    "newWordCount": 2185,
+    "oldSlopScore": 3,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:03:18.394Z"
+  },
+  "web3-jobs-in-cairo.md": {
+    "status": "done",
+    "oldWordCount": 2050,
+    "newWordCount": 2007,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:03:19.916Z"
+  },
+  "web3-jobs-in-bamako.md": {
+    "status": "done",
+    "oldWordCount": 2124,
+    "newWordCount": 2273,
+    "oldSlopScore": 3,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:03:20.179Z"
+  },
+  "web3-jobs-in-brazzaville.md": {
+    "status": "done",
+    "oldWordCount": 1702,
+    "newWordCount": 1860,
+    "oldSlopScore": 2,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:20.185Z"
+  },
+  "web3-jobs-in-accra.md": {
+    "status": "done",
+    "oldWordCount": 2494,
+    "newWordCount": 2790,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:03:21.371Z"
+  },
+  "web3-jobs-in-brazil.md": {
+    "status": "done",
+    "oldWordCount": 1961,
+    "newWordCount": 1909,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:03:26.503Z"
+  },
+  "web3-jobs-in-chicago.md": {
+    "status": "done",
+    "oldWordCount": 2045,
+    "newWordCount": 1770,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:27.204Z"
+  },
+  "web3-jobs-in-canada.md": {
+    "status": "done",
+    "oldWordCount": 1940,
+    "newWordCount": 1928,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:27.289Z"
+  },
+  "web3-jobs-in-casablanca.md": {
+    "status": "done",
+    "oldWordCount": 1537,
+    "newWordCount": 1704,
+    "oldSlopScore": 2,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:28.786Z"
+  },
+  "web3-jobs-in-chennai.md": {
+    "status": "done",
+    "oldWordCount": 2005,
+    "newWordCount": 1825,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:03:30.237Z"
+  },
+  "web3-jobs-in-bangalore.md": {
+    "status": "done",
+    "oldWordCount": 2195,
+    "newWordCount": 1987,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:03:30.437Z"
+  },
+  "web3-jobs-in-gaborone.md": {
+    "status": "done",
+    "oldWordCount": 1502,
+    "newWordCount": 1547,
+    "oldSlopScore": 3,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:36.295Z"
+  },
+  "web3-jobs-in-denver.md": {
+    "status": "done",
+    "oldWordCount": 2038,
+    "newWordCount": 2004,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:37.257Z"
+  },
+  "web3-jobs-in-france.md": {
+    "status": "done",
+    "oldWordCount": 1920,
+    "newWordCount": 1931,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:03:37.263Z"
+  },
+  "web3-jobs-in-cape-town.md": {
+    "status": "done",
+    "oldWordCount": 2046,
+    "newWordCount": 2038,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:03:37.301Z"
+  },
+  "web3-jobs-in-delhi-ncr.md": {
+    "status": "done",
+    "oldWordCount": 2064,
+    "newWordCount": 2016,
+    "oldSlopScore": 13,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:39.102Z"
+  },
+  "web3-jobs-in-freetown.md": {
+    "status": "done",
+    "oldWordCount": 1903,
+    "newWordCount": 1832,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:03:41.959Z"
+  },
+  "web3-jobs-in-germany.md": {
+    "status": "done",
+    "oldWordCount": 2074,
+    "newWordCount": 1960,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:03:43.601Z"
+  },
+  "web3-jobs-in-dar-es-salaam.md": {
+    "status": "done",
+    "oldWordCount": 1819,
+    "newWordCount": 2172,
+    "oldSlopScore": 2,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:03:44.115Z"
+  },
+  "web3-jobs-in-india.md": {
+    "status": "done",
+    "oldWordCount": 2036,
+    "newWordCount": 1996,
+    "oldSlopScore": 12,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:50.033Z"
+  },
+  "web3-jobs-in-hyderabad.md": {
+    "status": "done",
+    "oldWordCount": 2041,
+    "newWordCount": 1878,
+    "oldSlopScore": 11,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:03:50.038Z"
+  },
+  "web3-jobs-in-conakry.md": {
+    "status": "done",
+    "oldWordCount": 2629,
+    "newWordCount": 2464,
+    "oldSlopScore": 3,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:03:51.426Z"
+  },
+  "web3-jobs-in-harare.md": {
+    "status": "done",
+    "oldWordCount": 1927,
+    "newWordCount": 1870,
+    "oldSlopScore": 2,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:52.011Z"
+  },
+  "web3-jobs-in-indonesia.md": {
+    "status": "done",
+    "oldWordCount": 1918,
+    "newWordCount": 1654,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:54.402Z"
+  },
+  "web3-jobs-in-hong-kong.md": {
+    "status": "done",
+    "oldWordCount": 1678,
+    "newWordCount": 2309,
+    "oldSlopScore": 4,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:03:56.738Z"
+  },
+  "web3-jobs-in-kinshasa.md": {
+    "status": "done",
+    "oldWordCount": 1520,
+    "newWordCount": 1438,
+    "oldSlopScore": 3,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:03:58.467Z"
+  },
+  "web3-jobs-in-kigali.md": {
+    "status": "done",
+    "oldWordCount": 1668,
+    "newWordCount": 1491,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:04:00.901Z"
+  },
+  "web3-jobs-in-bissau.md": {
+    "status": "done",
+    "oldWordCount": 2519,
+    "newWordCount": 1743,
+    "oldSlopScore": 1,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:04:01.644Z"
+  },
+  "web3-jobs-in-kampala.md": {
+    "status": "done",
+    "oldWordCount": 1491,
+    "newWordCount": 1588,
+    "oldSlopScore": 2,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:01.655Z"
+  },
+  "web3-jobs-in-jaipur.md": {
+    "status": "done",
+    "oldWordCount": 2022,
+    "newWordCount": 1959,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:04:05.829Z"
+  },
+  "web3-jobs-in-lilongwe.md": {
+    "status": "done",
+    "oldWordCount": 1565,
+    "newWordCount": 1587,
+    "oldSlopScore": 2,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:04:09.724Z"
+  },
+  "web3-jobs-in-kolkata.md": {
+    "status": "done",
+    "oldWordCount": 2020,
+    "newWordCount": 1748,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:04:10.844Z"
+  },
+  "web3-jobs-in-johannesburg.md": {
+    "status": "done",
+    "oldWordCount": 1822,
+    "newWordCount": 2023,
+    "oldSlopScore": 4,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:04:12.167Z"
+  },
+  "web3-jobs-in-djibouti.md": {
+    "status": "done",
+    "oldWordCount": 2875,
+    "newWordCount": 2920,
+    "oldSlopScore": 5,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:04:16.216Z"
+  },
+  "web3-jobs-in-libreville.md": {
+    "status": "done",
+    "oldWordCount": 3304,
+    "newWordCount": 1740,
+    "oldSlopScore": 3,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:04:16.980Z"
+  },
+  "web3-jobs-in-los-angeles.md": {
+    "status": "done",
+    "oldWordCount": 2071,
+    "newWordCount": 1935,
+    "oldSlopScore": 11,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:04:17.865Z"
+  },
+  "web3-jobs-in-lagos.md": {
+    "status": "done",
+    "oldWordCount": 3043,
+    "newWordCount": 1794,
+    "oldSlopScore": 4,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:04:18.305Z"
+  },
+  "web3-jobs-in-malabo.md": {
+    "status": "done",
+    "oldWordCount": 1913,
+    "newWordCount": 1780,
+    "oldSlopScore": 4,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:04:21.628Z"
+  },
+  "web3-jobs-in-mumbai.md": {
+    "status": "done",
+    "oldWordCount": 2089,
+    "newWordCount": 1758,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:24.029Z"
+  },
+  "web3-jobs-in-kochi.md": {
+    "status": "done",
+    "oldWordCount": 2442,
+    "newWordCount": 2341,
+    "oldSlopScore": 3,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:25.104Z"
+  },
+  "web3-jobs-in-lusaka.md": {
+    "status": "done",
+    "oldWordCount": 2932,
+    "newWordCount": 1957,
+    "oldSlopScore": 6,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:04:27.059Z"
+  },
+  "web3-jobs-in-japan.md": {
+    "status": "done",
+    "oldWordCount": 2462,
+    "newWordCount": 2663,
+    "oldSlopScore": 2,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:04:28.231Z"
+  },
+  "web3-jobs-in-luanda.md": {
+    "status": "done",
+    "oldWordCount": 3284,
+    "newWordCount": 2227,
+    "oldSlopScore": 4,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:28.960Z"
+  },
+  "web3-jobs-in-miami.md": {
+    "status": "done",
+    "oldWordCount": 3084,
+    "newWordCount": 2270,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:33.064Z"
+  },
+  "web3-marketing.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1515,
+    "slopScore": 0
+  },
+  "web3-jobs-in-new-york.md": {
+    "status": "done",
+    "oldWordCount": 2125,
+    "newWordCount": 1677,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:04:36.222Z"
+  },
+  "web3-jobs-in-nairobi.md": {
+    "status": "done",
+    "oldWordCount": 1854,
+    "newWordCount": 1763,
+    "oldSlopScore": 4,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:04:37.420Z"
+  },
+  "web3-jobs-in-pune.md": {
+    "status": "done",
+    "oldWordCount": 2045,
+    "newWordCount": 1878,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:04:40.711Z"
+  },
+  "web3-jobs-in-nigeria.md": {
+    "status": "done",
+    "oldWordCount": 2007,
+    "newWordCount": 1920,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:41.656Z"
+  },
+  "web3-jobs-in-singapore.md": {
+    "status": "done",
+    "oldWordCount": 2354,
+    "newWordCount": 1730,
+    "oldSlopScore": 7,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:04:43.408Z"
+  },
+  "web3-jobs-in-san-francisco.md": {
+    "status": "done",
+    "oldWordCount": 2112,
+    "newWordCount": 1976,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:04:44.652Z"
+  },
+  "web3-jobs-in-south-africa.md": {
+    "status": "done",
+    "oldWordCount": 2035,
+    "newWordCount": 1662,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:04:49.646Z"
+  },
+  "web3-jobs-in-seattle.md": {
+    "status": "done",
+    "oldWordCount": 1531,
+    "newWordCount": 1916,
+    "oldSlopScore": 3,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:49.893Z"
+  },
+  "web3-jobs-in-pretoria.md": {
+    "status": "done",
+    "oldWordCount": 2546,
+    "newWordCount": 2344,
+    "oldSlopScore": 7,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:50.673Z"
+  },
+  "web3-jobs-in-monrovia.md": {
+    "status": "done",
+    "oldWordCount": 2394,
+    "newWordCount": 2543,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:04:53.598Z"
+  },
+  "web3-jobs-in-turkey.md": {
+    "status": "done",
+    "oldWordCount": 1945,
+    "newWordCount": 1706,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:04:55.041Z"
+  },
+  "web3-jobs-in-maputo.md": {
+    "status": "done",
+    "oldWordCount": 2346,
+    "newWordCount": 2651,
+    "oldSlopScore": 5,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:55.432Z"
+  },
+  "web3-jobs-in-port-louis.md": {
+    "status": "done",
+    "oldWordCount": 2525,
+    "newWordCount": 2637,
+    "oldSlopScore": 4,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:04:58.334Z"
+  },
+  "web3-jobs-in-philippines.md": {
+    "status": "done",
+    "oldWordCount": 1680,
+    "newWordCount": 2030,
+    "oldSlopScore": 3,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:04:59.873Z"
+  },
+  "web3-jobs-in-rabat.md": {
+    "status": "done",
+    "oldWordCount": 2393,
+    "newWordCount": 2512,
+    "oldSlopScore": 6,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:05:00.340Z"
+  },
+  "web3-jobs-in-russia.md": {
+    "status": "done",
+    "oldWordCount": 2293,
+    "newWordCount": 2284,
+    "oldSlopScore": 4,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:05:00.928Z"
+  },
+  "web3-jobs-in-uae.md": {
+    "status": "done",
+    "oldWordCount": 1480,
+    "newWordCount": 1790,
+    "oldSlopScore": 2,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:05:06.184Z"
+  },
+  "what-are-oracles.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 2254,
+    "slopScore": 0
+  },
+  "web3-jobs-in-lome.md": {
+    "status": "done",
+    "oldWordCount": 2546,
+    "newWordCount": 2966,
+    "oldSlopScore": 2,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:05:06.997Z"
+  },
+  "web3-jobs-in-uk.md": {
+    "status": "done",
+    "oldWordCount": 1967,
+    "newWordCount": 1866,
+    "oldSlopScore": 11,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:05:08.225Z"
+  },
+  "web3-market-maturation.md": {
+    "status": "done",
+    "oldWordCount": 2072,
+    "newWordCount": 1685,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:05:09.144Z"
+  },
+  "web3-jobs-in-usa.md": {
+    "status": "done",
+    "oldWordCount": 2022,
+    "newWordCount": 1932,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:05:12.387Z"
+  },
+  "web3-logistics.md": {
+    "status": "done",
+    "oldWordCount": 2294,
+    "newWordCount": 2021,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:05:16.779Z"
+  },
+  "what-is-a-blockchain-fork-choice-rule.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1523,
+    "slopScore": 0
+  },
+  "web3-marketing-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2052,
+    "newWordCount": 1959,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:05:19.080Z"
+  },
+  "web3-jobs-in-dakar.md": {
+    "status": "done",
+    "oldWordCount": 2590,
+    "newWordCount": 2729,
+    "oldSlopScore": 5,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:05:20.564Z"
+  },
+  "web3-jobs-in-tripoli.md": {
+    "status": "done",
+    "oldWordCount": 2404,
+    "newWordCount": 2600,
+    "oldSlopScore": 4,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:05:20.568Z"
+  },
+  "web3-jobs-in-windhoek.md": {
+    "status": "done",
+    "oldWordCount": 1988,
+    "newWordCount": 2103,
+    "oldSlopScore": 4,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:05:21.973Z"
+  },
+  "web3-product-design-careers-for-blockchain-based-apps.md": {
+    "status": "done",
+    "oldWordCount": 1851,
+    "newWordCount": 1704,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:05:23.210Z"
+  },
+  "web3-recruiter-tips.md": {
+    "status": "done",
+    "oldWordCount": 2055,
+    "newWordCount": 2008,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:05:25.533Z"
+  },
+  "web3-salary-negotiation.md": {
+    "status": "done",
+    "oldWordCount": 2133,
+    "newWordCount": 2027,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:05:25.969Z"
+  },
+  "web3-product-manager-roadmap.md": {
+    "status": "done",
+    "oldWordCount": 2260,
+    "newWordCount": 2253,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:05:27.003Z"
+  },
+  "web3-product-manager-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2158,
+    "newWordCount": 2147,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:05:28.522Z"
+  },
+  "what-is-a-dao.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1608,
+    "slopScore": 0
+  },
+  "web3-jobs-in-tunis.md": {
+    "status": "done",
+    "oldWordCount": 2711,
+    "newWordCount": 2181,
+    "oldSlopScore": 4,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:05:29.192Z"
+  },
+  "web3-jobs-in-south-korea.md": {
+    "status": "done",
+    "oldWordCount": 2085,
+    "newWordCount": 2341,
+    "oldSlopScore": 6,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:05:29.770Z"
+  },
+  "web3-supply-chain-experts-navigating-blockchain-solutions.md": {
+    "status": "done",
+    "oldWordCount": 1681,
+    "newWordCount": 1700,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:05:32.691Z"
+  },
+  "web3-skills-guide.md": {
+    "status": "done",
+    "oldWordCount": 1641,
+    "newWordCount": 1911,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:05:32.823Z"
+  },
+  "what-is-a-distributed-ledger-technology.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1694,
+    "slopScore": 0
+  },
+  "web3-real-estate.md": {
+    "status": "done",
+    "oldWordCount": 2277,
+    "newWordCount": 2006,
+    "oldSlopScore": 9,
+    "newSlopScore": 10,
+    "timestamp": "2026-04-27T11:05:36.293Z"
+  },
+  "what-is-3d-printing-technology.md": {
+    "status": "done",
+    "oldWordCount": 1821,
+    "newWordCount": 1379,
+    "oldSlopScore": 11,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:05:36.610Z"
+  },
+  "what-is-5g-network-technology.md": {
+    "status": "done",
+    "oldWordCount": 1864,
+    "newWordCount": 1354,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:05:39.631Z"
+  },
+  "what-are-smart-contracts.md": {
+    "status": "done",
+    "oldWordCount": 1798,
+    "newWordCount": 1705,
+    "oldSlopScore": 12,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:05:40.813Z"
+  },
+  "what-are-crypto-faucets-and-how-to-use-them.md": {
+    "status": "done",
+    "oldWordCount": 1730,
+    "newWordCount": 1689,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:05:43.588Z"
+  },
+  "web3-security-best-practices.md": {
+    "status": "done",
+    "oldWordCount": 2109,
+    "newWordCount": 1994,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:05:44.489Z"
+  },
+  "web3-trends-2025.md": {
+    "status": "done",
+    "oldWordCount": 2082,
+    "newWordCount": 2029,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:05:46.027Z"
+  },
+  "web3-vc-jobs.md": {
+    "status": "done",
+    "oldWordCount": 2325,
+    "newWordCount": 1859,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:05:48.161Z"
+  },
+  "what-is-a-cliff-period-in-token-vesting.md": {
+    "status": "done",
+    "oldWordCount": 1339,
+    "newWordCount": 1383,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:05:48.324Z"
+  },
+  "what-is-a-dao-treasury.md": {
+    "status": "done",
+    "oldWordCount": 1862,
+    "newWordCount": 1060,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:05:49.286Z"
+  },
+  "what-is-a-balancer-weighted-pool.md": {
+    "status": "done",
+    "oldWordCount": 1872,
+    "newWordCount": 1301,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:05:51.243Z"
+  },
+  "what-is-a-blockchain.md": {
+    "status": "done",
+    "oldWordCount": 1888,
+    "newWordCount": 1673,
+    "oldSlopScore": 1,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:05:52.952Z"
+  },
+  "what-are-nfts.md": {
+    "status": "done",
+    "oldWordCount": 1998,
+    "newWordCount": 1787,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:05:52.991Z"
+  },
+  "what-is-a-browser-extension-wallet.md": {
+    "status": "done",
+    "oldWordCount": 1642,
+    "newWordCount": 1699,
+    "oldSlopScore": 1,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:05:55.048Z"
+  },
+  "web3-ux-design.md": {
+    "status": "done",
+    "oldWordCount": 2090,
+    "newWordCount": 1906,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:05:55.947Z"
+  },
+  "what-is-a-decentralized-exchange-dex.md": {
+    "status": "done",
+    "oldWordCount": 1695,
+    "newWordCount": 1289,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:05:57.285Z"
+  },
+  "what-is-a-decentralized-identifier.md": {
+    "status": "done",
+    "oldWordCount": 1398,
+    "newWordCount": 1248,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:05:59.782Z"
+  },
+  "web3-jobs-in-vietnam.md": {
+    "status": "done",
+    "oldWordCount": 1551,
+    "newWordCount": 1917,
+    "oldSlopScore": 1,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:06:02.068Z"
+  },
+  "what-is-a-bonding-curve-in-token-economics.md": {
+    "status": "done",
+    "oldWordCount": 1550,
+    "newWordCount": 1409,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:03.060Z"
+  },
+  "what-is-a-custodial-vs-non-custodial-wallet.md": {
+    "status": "done",
+    "oldWordCount": 1773,
+    "newWordCount": 1657,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:06:04.740Z"
+  },
+  "what-are-nfts-and-why-are-they-important-for-web3.md": {
+    "status": "done",
+    "oldWordCount": 2313,
+    "newWordCount": 2085,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:05.834Z"
+  },
+  "what-is-a-decentralized-physical-infrastructure-network-depin.md": {
+    "status": "done",
+    "oldWordCount": 1914,
+    "newWordCount": 1782,
+    "oldSlopScore": 12,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:06:08.385Z"
+  },
+  "what-is-a-cryptocurrency-exchange-and-how-it-works.md": {
+    "status": "done",
+    "oldWordCount": 2099,
+    "newWordCount": 2080,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:09.367Z"
+  },
+  "web3-social-graph-explained.md": {
+    "status": "done",
+    "oldWordCount": 2574,
+    "newWordCount": 2740,
+    "oldSlopScore": 11,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:06:10.428Z"
+  },
+  "what-is-a-bull-market-vs-bear-market-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2027,
+    "newWordCount": 2048,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:06:11.532Z"
+  },
+  "what-is-a-degen-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 1579,
+    "newWordCount": 1707,
+    "oldSlopScore": 5,
+    "newSlopScore": 7,
+    "timestamp": "2026-04-27T11:06:11.901Z"
+  },
+  "what-is-a-liquidity-bootstrapping-pool.md": {
+    "status": "done",
+    "oldWordCount": 1424,
+    "newWordCount": 1297,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:12.719Z"
+  },
+  "what-is-a-fair-launch-in-cryptocurrency.md": {
+    "status": "done",
+    "oldWordCount": 1974,
+    "newWordCount": 1877,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:06:17.214Z"
+  },
+  "what-is-a-launchpad-in-crypto-projects.md": {
+    "status": "done",
+    "oldWordCount": 1892,
+    "newWordCount": 1670,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:06:20.062Z"
+  },
+  "what-is-a-genesis-block-in-cryptocurrency.md": {
+    "status": "done",
+    "oldWordCount": 1827,
+    "newWordCount": 1692,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:20.824Z"
+  },
+  "what-is-a-smart-contract-audit.md": {
+    "status": "done",
+    "oldWordCount": 2016,
+    "newWordCount": 1440,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:06:23.900Z"
+  },
+  "what-is-a-liquidity-provider-token.md": {
+    "status": "done",
+    "oldWordCount": 2019,
+    "newWordCount": 1732,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:25.509Z"
+  },
+  "what-is-a-nonce-in-blockchain-mining.md": {
+    "status": "done",
+    "oldWordCount": 1817,
+    "newWordCount": 1841,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:06:28.175Z"
+  },
+  "web3-social-media-hashtags.md": {
+    "status": "done",
+    "oldWordCount": 2066,
+    "newWordCount": 1985,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:29.018Z"
+  },
+  "what-is-a-honeypot-scam-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2091,
+    "newWordCount": 1972,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:29.153Z"
+  },
+  "what-is-a-reputation-system-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 1858,
+    "newWordCount": 1624,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:06:29.469Z"
+  },
+  "what-is-a-token-swap-in-cryptocurrency.md": {
+    "status": "done",
+    "oldWordCount": 1964,
+    "newWordCount": 1793,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:30.184Z"
+  },
+  "what-is-a-paper-wallet-for-cryptocurrency.md": {
+    "status": "done",
+    "oldWordCount": 2078,
+    "newWordCount": 1984,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:30.270Z"
+  },
+  "what-is-a-51-percent-attack-in-blockchain.md": {
+    "status": "done",
+    "oldWordCount": 2698,
+    "newWordCount": 2650,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:06:31.844Z"
+  },
+  "what-is-a-layer-3-in-blockchain.md": {
+    "status": "done",
+    "oldWordCount": 2906,
+    "newWordCount": 2170,
+    "oldSlopScore": 9,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:06:33.261Z"
+  },
+  "what-is-a-seed-phrase-and-why-it-matters.md": {
+    "status": "done",
+    "oldWordCount": 1428,
+    "newWordCount": 1457,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:06:34.139Z"
+  },
+  "what-is-a-virtual-automated-market-maker.md": {
+    "status": "done",
+    "oldWordCount": 2106,
+    "newWordCount": 1686,
+    "oldSlopScore": 14,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:06:36.034Z"
+  },
+  "what-is-federated-learning-in-ai.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1812,
+    "slopScore": 0
+  },
+  "what-is-a-web3-academy.md": {
+    "status": "done",
+    "oldWordCount": 1985,
+    "newWordCount": 1595,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:06:36.053Z"
+  },
+  "what-is-an-initial-coin-offering.md": {
+    "status": "done",
+    "oldWordCount": 1502,
+    "newWordCount": 1322,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:06:38.388Z"
+  },
+  "what-is-a-protocol.md": {
+    "status": "done",
+    "oldWordCount": 1824,
+    "newWordCount": 1860,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:40.408Z"
+  },
+  "what-is-arbitrum-one.md": {
+    "status": "done",
+    "oldWordCount": 1371,
+    "newWordCount": 1337,
+    "oldSlopScore": 10,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:06:41.648Z"
+  },
+  "what-is-a-web3-qa-engineer.md": {
+    "status": "done",
+    "oldWordCount": 2078,
+    "newWordCount": 1755,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:45.192Z"
+  },
+  "what-is-a-snapshot-in-cryptocurrency-airdrops.md": {
+    "status": "done",
+    "oldWordCount": 1969,
+    "newWordCount": 1914,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:45.330Z"
+  },
+  "what-is-augmented-reality-technology.md": {
+    "status": "done",
+    "oldWordCount": 1985,
+    "newWordCount": 1458,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:06:46.898Z"
+  },
+  "what-is-a-web3-governance-lead.md": {
+    "status": "done",
+    "oldWordCount": 2103,
+    "newWordCount": 2074,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:47.390Z"
+  },
+  "what-is-edge-computing-technology.md": {
+    "status": "done",
+    "oldWordCount": 2068,
+    "newWordCount": 1101,
+    "oldSlopScore": 10,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:06:49.620Z"
+  },
+  "what-is-biometric-authentication-technology.md": {
+    "status": "done",
+    "oldWordCount": 1870,
+    "newWordCount": 1392,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:50.952Z"
+  },
+  "what-is-a-layer-1-blockchain.md": {
+    "status": "done",
+    "oldWordCount": 2523,
+    "newWordCount": 2596,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:06:53.032Z"
+  },
+  "what-is-a-whitepaper-in-blockchain-projects.md": {
+    "status": "done",
+    "oldWordCount": 2142,
+    "newWordCount": 2059,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:06:54.344Z"
+  },
+  "what-is-a-web3-devrel-engineer.md": {
+    "status": "done",
+    "oldWordCount": 1903,
+    "newWordCount": 1783,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:06:54.599Z"
+  },
+  "what-is-apeing-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 1619,
+    "newWordCount": 1642,
+    "oldSlopScore": 6,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:06:56.026Z"
+  },
+  "what-is-drone-technology-and-applications.md": {
+    "status": "done",
+    "oldWordCount": 1691,
+    "newWordCount": 1242,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:06:56.121Z"
+  },
+  "what-is-avalanche.md": {
+    "status": "done",
+    "oldWordCount": 1819,
+    "newWordCount": 1776,
+    "oldSlopScore": 8,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:06:59.602Z"
+  },
+  "what-is-artificial-intelligence-and-how-it-works.md": {
+    "status": "done",
+    "oldWordCount": 2186,
+    "newWordCount": 1707,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:07:00.308Z"
+  },
+  "what-is-haptic-feedback-technology.md": {
+    "status": "done",
+    "oldWordCount": 1783,
+    "newWordCount": 912,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:00.850Z"
+  },
+  "what-is-desci.md": {
+    "status": "done",
+    "oldWordCount": 2135,
+    "newWordCount": 1706,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:07:01.947Z"
+  },
+  "what-is-apeing-in-the-crypto-world.md": {
+    "status": "done",
+    "oldWordCount": 2546,
+    "newWordCount": 2377,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:02.599Z"
+  },
+  "what-is-apeing-in-crypto-explained.md": {
+    "status": "done",
+    "oldWordCount": 2770,
+    "newWordCount": 2363,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:03.477Z"
+  },
+  "what-is-energy-storage-technology.md": {
+    "status": "done",
+    "oldWordCount": 1821,
+    "newWordCount": 1404,
+    "oldSlopScore": 11,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:05.367Z"
+  },
+  "what-is-deep-learning-technology-explained.md": {
+    "status": "done",
+    "oldWordCount": 2033,
+    "newWordCount": 1796,
+    "oldSlopScore": 1,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:05.605Z"
+  },
+  "what-is-cybersecurity-in-modern-era.md": {
+    "status": "done",
+    "oldWordCount": 1870,
+    "newWordCount": 1332,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:06.583Z"
+  },
+  "what-is-generative-ai-and-its-applications.md": {
+    "status": "done",
+    "oldWordCount": 2041,
+    "newWordCount": 1384,
+    "oldSlopScore": 10,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:07:07.816Z"
+  },
+  "what-is-gene-editing-technology.md": {
+    "status": "done",
+    "oldWordCount": 1827,
+    "newWordCount": 1443,
+    "oldSlopScore": 11,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:11.665Z"
+  },
+  "what-is-internet-of-things-technology.md": {
+    "status": "done",
+    "oldWordCount": 1986,
+    "newWordCount": 1412,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:14.244Z"
+  },
+  "what-is-ethereum.md": {
+    "status": "done",
+    "oldWordCount": 2099,
+    "newWordCount": 1989,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:07:15.935Z"
+  },
+  "what-is-defi.md": {
+    "status": "done",
+    "oldWordCount": 2635,
+    "newWordCount": 2370,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:16.254Z"
+  },
+  "what-is-web3.md": {
+    "status": "done",
+    "reason": "already clean",
+    "wordCount": 1910,
+    "slopScore": 0
+  },
+  "what-is-neuromorphic-computing.md": {
+    "status": "done",
+    "oldWordCount": 1746,
+    "newWordCount": 951,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:07:17.157Z"
+  },
+  "what-is-renewable-energy-technology.md": {
+    "status": "done",
+    "oldWordCount": 1866,
+    "newWordCount": 1052,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:07:18.164Z"
+  },
+  "what-is-frontrunning-in-defi-trading.md": {
+    "status": "done",
+    "oldWordCount": 2628,
+    "newWordCount": 1878,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:18.697Z"
+  },
+  "what-is-natural-language-processing-technology.md": {
+    "status": "done",
+    "oldWordCount": 2079,
+    "newWordCount": 1482,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:20.589Z"
+  },
+  "what-is-hodl-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2759,
+    "newWordCount": 1455,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:21.609Z"
+  },
+  "what-is-proof-of-humanity-protocol.md": {
+    "status": "done",
+    "oldWordCount": 1491,
+    "newWordCount": 1403,
+    "oldSlopScore": 10,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:07:22.640Z"
+  },
+  "what-is-synthetic-biology-applications.md": {
+    "status": "done",
+    "oldWordCount": 1849,
+    "newWordCount": 1016,
+    "oldSlopScore": 11,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:07:23.224Z"
+  },
+  "what-is-dyor-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2539,
+    "newWordCount": 2607,
+    "oldSlopScore": 9,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:07:24.269Z"
+  },
+  "what-is-price-impact-in-dex-trading.md": {
+    "status": "done",
+    "oldWordCount": 2078,
+    "newWordCount": 1440,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:25.231Z"
+  },
+  "what-is-socialfi.md": {
+    "status": "done",
+    "oldWordCount": 2066,
+    "newWordCount": 1338,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:27.070Z"
+  },
+  "what-is-gm-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2220,
+    "newWordCount": 2226,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:27.272Z"
+  },
+  "what-is-quantum-computing-for-beginners.md": {
+    "status": "done",
+    "oldWordCount": 2163,
+    "newWordCount": 1614,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:07:28.720Z"
+  },
+  "what-is-block-propagation-in-networks.md": {
+    "status": "done",
+    "oldWordCount": 2639,
+    "newWordCount": 2345,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:29.000Z"
+  },
+  "what-is-a-curve-pool-in-defi.md": {
+    "status": "done",
+    "oldWordCount": 2655,
+    "newWordCount": 2616,
+    "oldSlopScore": 8,
+    "newSlopScore": 4,
+    "timestamp": "2026-04-27T11:07:29.256Z"
+  },
+  "what-is-soulbound-token-technology.md": {
+    "status": "done",
+    "oldWordCount": 1496,
+    "newWordCount": 1418,
+    "oldSlopScore": 11,
+    "newSlopScore": 6,
+    "timestamp": "2026-04-27T11:07:32.379Z"
+  },
+  "what-is-mev.md": {
+    "status": "done",
+    "oldWordCount": 2588,
+    "newWordCount": 2271,
+    "oldSlopScore": 10,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:07:33.827Z"
+  },
+  "what-is-just-in-time-liquidity.md": {
+    "status": "done",
+    "oldWordCount": 2037,
+    "newWordCount": 1494,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:34.007Z"
+  },
+  "what-is-solana.md": {
+    "status": "done",
+    "oldWordCount": 1711,
+    "newWordCount": 1592,
+    "oldSlopScore": 9,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:35.180Z"
+  },
+  "what-is-shilling-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 1787,
+    "newWordCount": 1685,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:35.268Z"
+  },
+  "what-is-unstoppable-domains-service.md": {
+    "status": "done",
+    "oldWordCount": 1371,
+    "newWordCount": 1237,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:35.318Z"
+  },
+  "what-is-voice-recognition-technology.md": {
+    "status": "done",
+    "oldWordCount": 1785,
+    "newWordCount": 1282,
+    "oldSlopScore": 10,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:37.157Z"
+  },
+  "what-is-rug-pull-in-cryptocurrency-scams.md": {
+    "status": "done",
+    "oldWordCount": 2034,
+    "newWordCount": 1903,
+    "oldSlopScore": 8,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:07:37.184Z"
+  },
+  "what-is-shilling-in-the-world-of-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2608,
+    "newWordCount": 2137,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:43.218Z"
+  },
+  "what-is-total-value-locked-in-defi.md": {
+    "status": "done",
+    "oldWordCount": 2011,
+    "newWordCount": 1704,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:43.382Z"
+  },
+  "what-is-the-connection-between-web3-and-digital-currencies.md": {
+    "status": "done",
+    "oldWordCount": 1858,
+    "newWordCount": 1869,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:43.633Z"
+  },
+  "what-is-wagmi-and-ngmi.md": {
+    "status": "done",
+    "oldWordCount": 1546,
+    "newWordCount": 1429,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:45.140Z"
+  },
+  "what-is-burning-tokens-in-cryptocurrency.md": {
+    "status": "done",
+    "oldWordCount": 1950,
+    "newWordCount": 2012,
+    "oldSlopScore": 8,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:45.441Z"
+  },
+  "what-is-the-role-of-smart-contracts-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 2109,
+    "newWordCount": 1642,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:07:49.626Z"
+  },
+  "when-to-update-your-resume.md": {
+    "status": "done",
+    "oldWordCount": 1883,
+    "newWordCount": 1459,
+    "oldSlopScore": 10,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:54.056Z"
+  },
+  "why-bleisure-travel-is-the-future-of-work-flexibility.md": {
+    "status": "done",
+    "oldWordCount": 1720,
+    "newWordCount": 1451,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:07:54.883Z"
+  },
+  "work-from-home-jobs-that-pay-well.md": {
+    "status": "done",
+    "oldWordCount": 1861,
+    "newWordCount": 1042,
+    "oldSlopScore": 12,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:07:55.706Z"
+  },
+  "what-is-yield-farming.md": {
+    "status": "done",
+    "oldWordCount": 2097,
+    "newWordCount": 2053,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:07:56.897Z"
+  },
+  "what-role-does-blockchain-play-in-web3.md": {
+    "status": "done",
+    "oldWordCount": 1776,
+    "newWordCount": 1753,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:07:59.488Z"
+  },
+  "what-makes-crypto-a-key-part-of-web3.md": {
+    "status": "done",
+    "oldWordCount": 2047,
+    "newWordCount": 1967,
+    "oldSlopScore": 8,
+    "newSlopScore": 8,
+    "timestamp": "2026-04-27T11:07:59.679Z"
+  },
+  "writing-upgradable-smart-contracts-proxies-explained.md": {
+    "status": "done",
+    "oldWordCount": 1638,
+    "newWordCount": 1435,
+    "oldSlopScore": 10,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:08:01.899Z"
+  },
+  "what-web3-means-for-the-future-of-digital-communities.md": {
+    "status": "done",
+    "oldWordCount": 2012,
+    "newWordCount": 1958,
+    "oldSlopScore": 9,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:08:03.397Z"
+  },
+  "what-web3-skills-will-matter-in-2026.md": {
+    "status": "done",
+    "oldWordCount": 2081,
+    "newWordCount": 1777,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:08:03.494Z"
+  },
+  "what-is-web3-and-how-will-it-change-the-internet.md": {
+    "status": "done",
+    "oldWordCount": 2230,
+    "newWordCount": 2055,
+    "oldSlopScore": 9,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:08:03.669Z"
+  },
+  "why-web3-has-fastest-growing-job-market.md": {
+    "status": "done",
+    "oldWordCount": 2111,
+    "newWordCount": 1765,
+    "oldSlopScore": 12,
+    "newSlopScore": 0,
+    "timestamp": "2026-04-27T11:08:06.801Z"
+  },
+  "why-now-is-the-best-time-to-jobseek-in-crypto.md": {
+    "status": "done",
+    "oldWordCount": 2180,
+    "newWordCount": 1908,
+    "oldSlopScore": 9,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:08:07.457Z"
+  },
+  "what-you-need-to-know-about-web3-and-decentralized-apps.md": {
+    "status": "done",
+    "oldWordCount": 2049,
+    "newWordCount": 1986,
+    "oldSlopScore": 8,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:08:08.217Z"
+  },
+  "what-makes-web3-different-from-web2.md": {
+    "status": "done",
+    "oldWordCount": 2101,
+    "newWordCount": 2162,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:08:10.663Z"
+  },
+  "why-web3-adoption-is-slow.md": {
+    "status": "done",
+    "oldWordCount": 1549,
+    "newWordCount": 1712,
+    "oldSlopScore": 1,
+    "newSlopScore": 5,
+    "timestamp": "2026-04-27T11:08:11.266Z"
+  },
+  "why-web3-is-important-for-the-future-of-finance.md": {
+    "status": "done",
+    "oldWordCount": 2038,
+    "newWordCount": 1852,
+    "oldSlopScore": 11,
+    "newSlopScore": 2,
+    "timestamp": "2026-04-27T11:08:11.942Z"
+  },
+  "zero-knowledge-proofs-explained.md": {
+    "status": "done",
+    "oldWordCount": 1849,
+    "newWordCount": 1414,
+    "oldSlopScore": 11,
+    "newSlopScore": 3,
+    "timestamp": "2026-04-27T11:08:17.683Z"
+  },
+  "your-first-subgraph-indexing-blockchain-data-with-the-graph.md": {
+    "status": "done",
+    "oldWordCount": 2235,
+    "newWordCount": 2258,
+    "oldSlopScore": 8,
+    "newSlopScore": 1,
+    "timestamp": "2026-04-27T11:08:27.516Z"
+  }
+}

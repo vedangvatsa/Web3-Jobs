@@ -46,7 +46,7 @@ Your daily tasks involve engaging on Discord and Telegram, welcoming newcomers, 
 Engage actively with a project you admire. Answer questions in Discord, provide constructive feedback, and establish yourself as a positive presence. Many Community Managers have been recruited directly from the community they supported.
 
 **Typical Compensation:**
-Compensation typically includes a base salary ranging from $70,000 to over $150,000 plus a substantial token allocation, linking the CM's success to the community's health and the protocol's growth.
+Compensation typically includes a base salary that can vary widely, plus a substantial token allocation, linking the CM's success to the community's health and the protocol's growth.
 
 ### 2. Marketing & Growth Lead
 
@@ -59,7 +59,7 @@ Your responsibilities may include co-marketing with partner protocols, preparing
 
 | Metric                  | Description                                                               |
 |-------------------------|---------------------------------------------------------------------------|
-| Organic Growth          | Growth in relevant metrics (e.g., users, Total Value Locked (TVL), transaction volume) not driven by paid incentives. |
+| Organic Growth          | Growth in relevant metrics not driven by paid incentives. |
 | Brand Narrative Strength | Recognition of the project's story within the ecosystem, indicated by mentions by key figures and media outlets. |
 | Partnership ROI         | Impact assessment of co-marketing campaigns and integrations. |
 
@@ -67,7 +67,7 @@ Your responsibilities may include co-marketing with partner protocols, preparing
 Cultivate a personal brand on Twitter by analyzing different protocols, sharing insights on market trends, and interacting with industry leaders. Your Twitter presence becomes your marketing portfolio.
 
 **Typical Compensation:**
-Roles often offer competitive salaries ranging from $100,000 to $200,000 plus a token package that aligns with protocol growth.
+Roles often offer competitive salaries that can vary widely, plus a token package that aligns with protocol growth.
 
 ### 3. Content Creator / Technical Writer
 
@@ -88,7 +88,7 @@ You may write blog posts explaining new features, draft developer documentation,
 Start a blog or newsletter on platforms like Mirror.xyz or Substack. Choose a protocol of interest and write about its functionalities, tokenomics, or comparisons with competitors. Your public writing serves as your resume.
 
 **Typical Compensation:**
-Compensation can vary from freelance rates to full-time salaries ranging from $80,000 to $160,000, often including token incentives.
+Compensation can vary from freelance rates to full-time salaries that can range widely, often including token incentives.
 
 ### 4. Business Development & Partnerships
 
@@ -109,7 +109,7 @@ You spend your time in discussions with other teams to brainstorm integration id
 Attend virtual and in-person conferences to network extensively. Develop a reputation for understanding the ecosystem and connecting different projects.
 
 **Typical Compensation:**
-Compensation is variable but often includes a strong base salary ranging from $120,000 to $250,000, along with a performance component tied to partnership success.
+Compensation is variable but often includes a strong base salary that can vary widely, along with a performance component tied to partnership success.
 
 ### 5. Product Manager
 
@@ -130,7 +130,7 @@ Your daily tasks include analyzing on-chain data to understand user behavior, wr
 Develop expertise in a specific protocol by using, analyzing, and writing improvement proposals on its governance forum. Showcase your product sense publicly.
 
 **Typical Compensation:**
-Compensation is competitive, often aligning with senior engineering roles, including a significant token allocation. Salaries can range from $150,000 to over $300,000.
+Compensation is competitive, often aligning with senior engineering roles, including a significant token allocation. Salaries can vary widely.
 
 ### 6. DAO Facilitator / Governance Manager
 
@@ -151,7 +151,7 @@ You organize weekly governance calls, support proposal authors, summarize comple
 Become a governance delegate for a significant protocol, voting and publicly explaining your rationale for each vote on platforms like Sybil. Establish a reputation for being a thoughtful governance participant.
 
 **Typical Compensation:**
-Compensation may be structured as grants from the DAO treasury, ranging from part-time stipends to full-time salaries comparable to other senior operational roles.
+Compensation may be structured as grants from the DAO treasury, which can vary widely, ranging from part-time stipends to full-time salaries comparable to other senior operational roles.
 
 ### 7. Web3 Recruiter / Talent Lead
 
@@ -172,7 +172,7 @@ You source candidates through diverse channels, including hackathon submissions 
 If you come from a Web2 recruitment background, immerse yourself in the Web3 culture. Engage in Discord communities, follow influential figures on Twitter, and build a network through genuine participation.
 
 **Typical Compensation:**
-Recruiter compensation typically includes a base salary ranging from $90,000 to $180,000 plus bonuses for successful placements, occasionally paid in the project's native token.
+Recruiter compensation typically includes a base salary that can vary widely, plus bonuses for successful placements, occasionally paid in the project's native token.
 
 ### 8. Operations Manager
 
@@ -193,7 +193,7 @@ You may execute DAO-approved payments from a Gnosis Safe multisig, coordinate le
 This role suits individuals with strong organizational skills from traditional business. Demonstrate your capabilities by contributing to a DAO’s operations, such as managing a grant program or organizing community events.
 
 **Typical Compensation:**
-Compensation is often reflective of the high level of trust and responsibility associated with the role, typically including a base salary ranging from $100,000 to $200,000, along with token incentives.
+Compensation is often reflective of the high level of trust and responsibility associated with the role, typically including a base salary that can vary widely, along with token incentives.
 
 ## How to Get Started: Your Action Plan
 
@@ -219,7 +219,7 @@ Traditional job boards may not yield the best results. Instead, seek opportuniti
 * **Crypto-Native Job Boards:** Websites like this one ([hashtagweb3.com/jobs](https://hashtagweb3.com/jobs)) specialize in Web3 roles.
 
 **Is the compensation always in volatile tokens?**  
-Not necessarily. Most full-time roles offer a competitive base salary in stablecoins (like USDC) or fiat (USD/EUR), along with a token component as a long-term incentive. This structure provides stability while allowing for potential upside as the project succeeds.
+Not necessarily. Most full-time roles offer a competitive base salary in stablecoins or fiat, along with a token component as a long-term incentive. This structure provides stability while allowing for potential upside as the project succeeds.
 
 **How do I stand out if I don't have direct crypto experience?**  
 Showcase your "Proof of Work." A portfolio of insightful blog posts, a history of active governance participation, or a reputation as a helpful community member often outweighs a traditional resume with extensive Web2 experience. Demonstrating your passion and capacity for rapid learning is key.

@@ -23,7 +23,7 @@ Personalizing your salutation demonstrates genuine interest and effort. This sma
 Your opening paragraph must capture attention. Avoid starting with clichéd phrases such as "I am writing to apply for the [Job Title] position I saw on [Platform]."
 
 Instead, consider these engaging alternatives:
-* **Highlight a significant achievement:** "As a Marketing Manager, I increased organic traffic by 200% within a year. I look forward to bringing similar results to [Company Name]."
+* **Highlight a significant achievement:** "As a Marketing Manager, I increased organic traffic significantly within a year. I look forward to bringing similar results to [Company Name]."
 * **Express passion for the company:** "I have admired [Company Name]'s commitment to sustainable energy for years and was excited to see the opening for a Project Manager."
 * **Mention a personal connection:** "My former colleague, [Name of Connection], encouraged me to apply for the Senior Engineer position."
 
@@ -77,7 +77,7 @@ Maintain a professional tone while allowing your personality to shine through. C
 
 ### Why This Matters
 
-Understanding the significance of a well-written cover letter can enhance your professional success. Candidates who excel in this area often stand out, secure higher salaries, and advance more quickly in their careers. This is particularly true in [Web3](/what-is-web3) where effective communication and collaboration are essential.
+Understanding the significance of a well-written cover letter can enhance your professional success. Candidates who excel in this area often stand out, secure better opportunities, and advance more quickly in their careers. This is particularly true in [Web3](/what-is-web3) where effective communication and collaboration are essential.
 
 ### Step-by-Step Guide
 
@@ -104,10 +104,10 @@ Track your progress over time. Are you receiving more positive responses? Adjust
 ### Real-World Examples
 
 #### Example 1
-Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled to convey her skills in a cover letter. After applying targeted strategies, her cover letters led to interviews, and she secured a position where she improved team project delivery by 30% within three months.
+Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled to convey her skills in a cover letter. After applying targeted strategies, her cover letters led to interviews, and she secured a position where she improved team project delivery significantly within three months.
 
 #### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), faced challenges in articulating his value. By applying these techniques, he highlighted specific projects that contributed to a 25% increase in user engagement. His focused approach resulted in multiple job offers.
+Juan, a product manager in [DeFi](/what-is-defi), faced challenges in articulating his value. By applying these techniques, he highlighted specific projects that contributed to a notable increase in user engagement. His focused approach resulted in multiple job offers.
 
 #### Example 3
 Maya transitioned from Web2 to Web3. By implementing the strategies discussed, she effectively communicated her adaptability and secured a role that aligned with her passion for innovative technology.

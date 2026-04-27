@@ -21,7 +21,7 @@ Failure in cross-functional collaboration can result in blame-shifting, missed d
 
 A lack of clarity regarding the primary goal and ownership often leads to project failures.
 
-* **Define the "North Star":** The team must agree on one clear, measurable goal. This goal serves as the guiding principle for all decisions. For instance, "Increase the new user activation rate from 40% to 60% by the end of Q3" provides a specific target.
+* **Define the "North Star":** The team must agree on one clear, measurable goal. This goal serves as the guiding principle for all decisions. For instance, "Increase the new user activation rate by a significant percentage by the end of Q3" provides a specific target.
 * **Appoint a Directly Responsible Individual (DRI):** One person must take ownership of the project. This DRI is responsible for organizing the project, communicating updates, and ensuring the team meets its goal. This avoids confusion and provides a single point of contact.
 
 ### 2. Kick Off with a Charter and a Plan
@@ -63,7 +63,7 @@ When a project succeeds, it’s a success for the entire team. The DRI should en
 
 ### Importance of These Skills
 
-Mastering cross-functional collaboration is essential in modern professional settings. Regardless of whether you work in [Web3](/what-is-web3), traditional tech, or other knowledge-intensive industries, these abilities can shape your career trajectory. Research indicates that these skills can yield a 300-500% return on investment over 10-15 years.
+Mastering cross-functional collaboration is essential in modern professional settings. Regardless of whether you work in [Web3](/what-is-web3), traditional tech, or other knowledge-intensive industries, these abilities can shape your career trajectory. Research indicates that these skills can yield significant returns on investment over time.
 
 ### Core Competencies
 
@@ -112,7 +112,7 @@ Web3 teams are often distributed and operate at a rapid pace. Skills in cross-fu
 The relevance of these skills increases at each career level:
 - **Junior Level:** Technical skills are critical, but communication becomes increasingly important.
 - **Mid Level:** Balancing technical and soft skills is essential; leadership potential often emerges.
-- **Senior Level:** Soft skills account for 70% of your effectiveness.
+- **Senior Level:** Soft skills account for a significant portion of your effectiveness.
 - **Leadership:** Emotional intelligence and communication become paramount.
 
 ### Common Development Mistakes
@@ -132,7 +132,7 @@ All of these skills can be cultivated through intentional practice. While some i
 Set specific, measurable goals. Assess your progress through projects, feedback from peers, and your success rate in various tasks.
 
 **What time commitment is necessary?**  
-Allocate 5-10 hours weekly for skill development. With consistent effort, you can achieve noticeable improvement within 6-12 months.
+Allocate 5-10 hours weekly for skill development. With consistent effort, you can achieve noticeable improvement within a few months.
 
 **How do I apply these skills in my current role?**  
 Start small by focusing on one skill each month. Integrate it into your daily work routine and seek feedback for improvement.

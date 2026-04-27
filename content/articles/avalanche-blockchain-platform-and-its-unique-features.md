@@ -56,9 +56,9 @@ The following table illustrates key performance metrics of Avalanche compared to
 | Metric                  | Avalanche          | Ethereum          | Bitcoin           |
 |-------------------------|--------------------|--------------------|--------------------|
 | Transaction Speed       | < 1 second         | 15 seconds         | 10 minutes         |
-| Transaction Fees        | $0.01 - $0.03      | $0.50 - $2.00      | $2.00 - $20.00     |
+| Transaction Fees        | Low fees           | Higher fees        | Higher fees        |
 | Consensus Mechanism     | Avalanche Consensus  | Proof of Work      | Proof of Work      |
-| Number of Validators     | 1,000+             | 10,000+            | 1,000+             |
+| Number of Validators     | Significant number  | Significant number  | Significant number  |
 | Smart Contract Language  | Solidity, others    | Solidity           | N/A                |
 
 ### The Future of Avalanche

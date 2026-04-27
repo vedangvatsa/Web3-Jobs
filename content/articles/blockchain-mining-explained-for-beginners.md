@@ -20,7 +20,7 @@ Miners act as decentralized auditors for a PoW blockchain. Their responsibilitie
 
 1. **Transaction Verification:** Miners monitor the network for new transactions, assess their validity (for instance, confirming the sender's account has sufficient funds), and compile these transactions into a "candidate block."
 2. **Network Security:** They engage in competition to solve complex mathematical problems. The miner who succeeds gets to attach their candidate block to the blockchain.
-3. **Coin Generation:** The miner who wins receives a "block reward," comprising newly minted cryptocurrency (for example, 6.25 BTC for Bitcoin) along with transaction fees from the transactions in their block.
+3. **Coin Generation:** The miner who wins receives a "block reward," comprising newly minted cryptocurrency along with transaction fees from the transactions in their block.
 
 This mechanism is vital because it secures and decentralizes the blockchain. No central authority oversees the ledger; it is upheld by a competitive network of miners worldwide.
 
@@ -49,7 +49,7 @@ Accomplishing this would require more computational power than the entire networ
 
 ### Transitioning to Proof-of-Stake
 
-Despite its robust security, Proof-of-Work's high energy consumption poses significant challenges. This reality has spurred the adoption of **[Proof-of-Stake (PoS)](/proof-of-stake-vs-proof-of-work-in-blockchain)**, a consensus mechanism utilized by networks like [Ethereum](/what-is-ethereum). In PoS, validators "stake" their cryptocurrency as collateral to gain the right to create new blocks, achieving over 99% energy efficiency compared to PoW.
+Despite its robust security, Proof-of-Work's high energy consumption poses significant challenges. This reality has spurred the adoption of **[Proof-of-Stake (PoS)](/proof-of-stake-vs-proof-of-work-in-blockchain)**, a consensus mechanism utilized by networks like [Ethereum](/what-is-ethereum). In PoS, validators "stake" their cryptocurrency as collateral to gain the right to create new blocks, achieving significant energy efficiency compared to PoW.
 
 While blockchain's future may favor PoS, comprehending mining and Proof-of-Work remains essential for grasping the historical context of cryptocurrency and the foundational principles of blockchain security. This innovation facilitated the advent of decentralized digital currencies for the first time.
 
@@ -57,12 +57,12 @@ While blockchain's future may favor PoS, comprehending mining and Proof-of-Work 
 
 The [Web3](/what-is-web3) sector is witnessing rapid expansion, with demand for skilled professionals exceeding supply. Reports indicate that blockchain developer job postings have consistently increased since 2021, even amid market downturns when other sectors have scaled back hiring. Web3 presents unique advantages for career changers and seasoned professionals, including:
 
-- Higher base salaries, typically between 20-40% above Web2 counterparts.
+- Higher base salaries, typically above Web2 counterparts.
 - Meaningful equity and token allocations.
 - Fully remote roles with global teams.
 - Opportunities to work on technology reshaping finance, governance, and digital ownership.
 
-The demand is particularly high for expertise in smart contract development, protocol security, and tokenomics design. Candidates in these areas often receive multiple competing offers shortly after entering the market. For professionals contemplating a transition, the combination of compensation premiums and career growth potential positions Web3 as one of the most enticing fields in 2026.
+The demand is particularly high for expertise in smart contract development, protocol security, and tokenomics design. Candidates in these areas often receive multiple competing offers shortly after entering the market. For professionals contemplating a transition, the combination of compensation premiums and career growth potential positions Web3 as one of the most enticing fields in the coming years.
 
 ## Market Dynamics
 
@@ -70,7 +70,7 @@ The [Web3 job](/web3-jobs-for-beginners) market exhibits distinct characteristic
 
 | **Aspect**               | **Web2**                      | **Web3**                      |
 |-------------------------|-------------------------------|-------------------------------|
-| **Compensation**        | Standard salaries             | 20-40% higher than Web2       |
+| **Compensation**        | Standard salaries             | Higher than Web2              |
 | **Work Culture**        | Hybrid or in-office           | Fully remote                   |
 | **Career Growth**       | Slower progression             | Rapid advancement due to demand |
 | **Equity Potential**    | Limited stock options         | Token and equity packages common |
@@ -122,7 +122,7 @@ Target positions that blend your existing expertise with your new Web3 knowledge
 ## Success Stories
 
 ### Transitioning to Smart Contract Engineering
-Alex, a backend engineer with five years of experience at a leading tech company, dedicated three months to learning Solidity while continuing his full-time job. His contributions to an open-source protocol caught the attention of a prominent DeFi project, leading to a transition with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a leading tech company, dedicated three months to learning Solidity while continuing his full-time job. His contributions to an open-source protocol caught the attention of a prominent DeFi project, leading to a transition with a significant salary increase and substantial equity.
 
 ### Product Manager's Move to Web3
 Jessica, a product manager from traditional finance, applied her knowledge of DeFi. Her expertise in financial products, combined with a grasp of Web3 technology, made her an attractive candidate. She secured a position at a leading DeFi protocol within four weeks.
@@ -146,7 +146,7 @@ Marcus shifted his focus to Web3 after leaving his corporate role. Through consi
 A: No. The Web3 ecosystem requires a diverse array of roles beyond engineering. Marketing managers, community leaders, product designers, legal experts, operations specialists, and business development professionals are all in high demand. Existing skills are transferrable; you just need to layer on Web3 context, such as understanding wallets, DAOs, and the importance of decentralization. Most hiring managers prioritize domain expertise combined with a genuine interest in the field over pure blockchain knowledge.
 
 **Q: What is the earning potential in Web3?**  
-A: Web3 compensation consistently exceeds Web2 levels. Base salaries typically range 30-60% higher on average, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Beyond base pay, total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 in total compensation. Even non-technical roles see significant compensation increases compared to equivalent Web2 positions.
+A: Web3 compensation consistently exceeds Web2 levels. Base salaries typically range higher on average, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Beyond base pay, total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols can earn substantial total compensation. Even non-technical roles see significant compensation increases compared to equivalent Web2 positions.
 
 **Q: Is there risk involved in transitioning to Web3?**  
 A: Every career transition carries risks, and Web3 is no exception, given its market volatility and the lifecycle of projects. However, you can systematically manage this risk by targeting established, well-funded protocols with proven revenue and ensuring your base salary is primarily in fiat currency rather than tokens. Professionals who approach Web3 as a legitimate career move rather than a speculative venture consistently establish enduring roles that withstand market fluctuations.

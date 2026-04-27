@@ -95,7 +95,7 @@ The practical implications of Decentralized Identity can be illustrated through 
 ### FAQ
 
 **Q: How long will implementing Decentralized Identity take?**  
-A: Initial results typically appear within 2 to 4 weeks of consistent application. Significant improvements often manifest within 8 to 12 weeks. The timeline depends on your starting point, daily practice commitment, and how actively you seek feedback. Professionals who track their progress through metrics or peer input usually advance more rapidly than those who do not.
+A: Initial results typically appear within a few weeks of consistent application. Significant improvements often manifest within a couple of months. The timeline depends on your starting point, daily practice commitment, and how actively you seek feedback. Professionals who track their progress through metrics or peer input usually advance more rapidly than those who do not.
 
 **Q: What if my workplace doesn't support this?**  
 A: You often have more control than it seems in challenging environments. Begin with small, personal initiatives that require no organizational approval. Gradually build momentum and document your progress. If your environment remains unyielding after repeated efforts, consider seeking opportunities elsewhere that prioritize employee development.

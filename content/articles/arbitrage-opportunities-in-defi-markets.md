@@ -40,7 +40,7 @@ An arbitrage bot would quickly identify this price difference and execute the fo
 
 1. **Buy Low**: The bot purchases 1 ETH on DEX A for 3,500 USDC.
 2. **Sell High**: The bot then sells that 1 ETH on DEX B for 3,505 USDC.
-3. **Profit**: The bot secures a profit of 5 USDC, after deducting gas and trading fees.
+3. **Profit**: The bot secures a profit after deducting gas and trading fees.
 
 This transaction has immediate market implications:
 
@@ -72,10 +72,10 @@ An arbitrage bot could:
 
 1. Start with 1 ETH.
 2. Sell 1 ETH for 3,500 USDC.
-3. Convert 3,500 USDC to 3.15 WBTC.
-4. Sell 3.15 WBTC for 1.05 ETH.
+3. Convert 3,500 USDC to a certain amount of WBTC.
+4. Sell that WBTC for more ETH.
 
-In this scenario, the bot started with 1 ETH and ended with 1.05 ETH, yielding a profit of 0.05 ETH. Such arbitrage opportunities help maintain consistent cross-rates between different [tokens](/what-is-a-token).
+In this scenario, the bot would end with more ETH than it started with, yielding a profit. Such arbitrage opportunities help maintain consistent cross-rates between different [tokens](/what-is-a-token).
 
 ### The Role of Flash Loans in Arbitrage
 
@@ -83,7 +83,7 @@ Flash loans are one of the most powerful instruments for executing DeFi arbitrag
 
 #### Advantages for Arbitrageurs
 
-- **Massive Capital Access**: Arbitrage becomes more lucrative when executed at scale. Flash loans enable traders to borrow substantial amounts temporarily, often reaching millions of dollars for mere seconds.
+- **Massive Capital Access**: Arbitrage becomes more lucrative when executed at scale. Flash loans enable traders to borrow substantial amounts temporarily, often reaching significant sums for mere seconds.
 - **Risk-Free Execution**: The entire arbitrage process, including borrowing, buying, selling, and repaying, occurs in one atomic transaction. If the trade proves unprofitable by the transaction's conclusion (for example, due to price movement), the entire transaction reverts. The loan isn't issued, and the trader incurs no loss, aside from the gas fee.
 
 This functionality allows bots to conduct sizeable arbitrage trades without capital risk.
@@ -110,7 +110,7 @@ When utilizing a flash loan, the capital risk is minimal, as the transaction rev
 - **Execution Risk**: Transactions may fail for various reasons, like inadequate gas, resulting in lost gas fees.
 
 **Does arbitrage occur on centralized exchanges (CEXs) as well?**  
-Yes, arbitrage opportunities also exist between centralized exchanges (for instance, comparing the price of [BTC](/what-is-bitcoin) on Coinbase versus Binance) and between a CEX and a DEX. However, this process is more intricate since it involves transferring funds between distinct platforms, leading to a lack of atomicity and increased risk.
+Yes, arbitrage opportunities also exist between centralized exchanges (for instance, comparing the price of [BTC](/what-is-bitcoin) on different platforms) and between a CEX and a DEX. However, this process is more intricate since it involves transferring funds between distinct platforms, leading to a lack of atomicity and increased risk.
 
 **How do arbitrage bots identify opportunities?**  
 They connect directly to a [blockchain](/what-is-a-blockchain) node (via an "RPC endpoint") to monitor mempool activity and new blocks in real-time. Utilizing complex algorithms, they simulate various trade paths, pinpointing profitable opportunities at speeds unattainable by humans.

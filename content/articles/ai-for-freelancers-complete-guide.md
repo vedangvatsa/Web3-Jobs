@@ -27,16 +27,16 @@ Acquiring clients often proves challenging for freelancers. AI can simplify lead
   
 - **Proposal Writing**: Customizing proposals for each client can be labor-intensive. AI writing assistants can help you create a strong proposal template. Input the project details into ChatGPT to generate personalized introductions that address the client's specific needs.
   
-- **Pricing Strategy**: Determining appropriate pricing can be daunting. AI can assist by providing insights into typical rates within your industry. For instance, if you are a graphic designer in the U.S. with five years of experience, you might find that hourly rates typically range from $50 to $150, depending on the complexity of the work.
+- **Pricing Strategy**: Determining appropriate pricing can be daunting. AI can assist by providing insights into typical rates within your industry. For instance, if you are a graphic designer in the U.S. with five years of experience, you might find that hourly rates typically vary significantly based on the complexity of the work.
 
 | Industry          | Experience Level | Typical Hourly Rate |
 |-------------------|------------------|----------------------|
-| Graphic Design     | Entry-Level      | $25 - $50            |
-| Graphic Design     | Mid-Level        | $50 - $100           |
-| Graphic Design     | Senior-Level     | $100 - $150          |
-| Writing            | Entry-Level      | $15 - $30            |
-| Writing            | Mid-Level        | $30 - $70            |
-| Writing            | Senior-Level     | $70 - $150           |
+| Graphic Design     | Entry-Level      | Varies               |
+| Graphic Design     | Mid-Level        | Varies               |
+| Graphic Design     | Senior-Level     | Varies               |
+| Writing            | Entry-Level      | Varies               |
+| Writing            | Mid-Level        | Varies               |
+| Writing            | Senior-Level     | Varies               |
 
 Internal Link: Learn how to use AI for business growth more broadly.
 

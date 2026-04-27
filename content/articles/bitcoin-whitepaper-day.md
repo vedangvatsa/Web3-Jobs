@@ -55,7 +55,7 @@ The network must agree on the validity of transactions and determine the next bl
 
 * **Mining:** Participants, known as miners, compete to solve complex mathematical problems.
 * **Winning the Block:** The first miner to solve the problem creates the next block of transactions and receives a reward in newly minted bitcoin.
-* **Security:** This process demands substantial computational power, making it prohibitively costly for any single actor to dominate the network. An attacker would need to control over 51% of the entire network's computational capacity—an exceptionally challenging endeavor.
+* **Security:** This process demands substantial computational power, making it prohibitively costly for any single actor to dominate the network. An attacker would need to control a significant portion of the entire network's computational capacity—an exceptionally challenging endeavor.
 
 Proof-of-Work was a critical advancement that facilitated a decentralized, trustless network. It provided a method for the network to reach consensus without a central authority.
 
@@ -103,11 +103,11 @@ Regularly review your progress. Are you achieving your desired outcomes? Adapt y
 
 ### Example 1: Developer's Transformation
 
-Sarah, a developer at a blockchain startup, struggled with project timelines until she implemented structured planning strategies. Within three months, she reduced project completion times by 30%, leading to improved team efficiency and client satisfaction.
+Sarah, a developer at a blockchain startup, struggled with project timelines until she implemented structured planning strategies. Within a few months, she reduced project completion times significantly, leading to improved team efficiency and client satisfaction.
 
 ### Example 2: Product Manager's Success
 
-Juan, a product manager in DeFi, faced challenges in stakeholder communication. By adopting transparent reporting methods and regular updates, he improved team alignment and project outcomes. His efforts resulted in a 25% increase in project delivery speed, demonstrating the effectiveness of structured communication.
+Juan, a product manager in DeFi, faced challenges in stakeholder communication. By adopting transparent reporting methods and regular updates, he improved team alignment and project outcomes. His efforts resulted in a noticeable increase in project delivery speed, demonstrating the effectiveness of structured communication.
 
 ### Example 3: Transitioning to Web3
 
@@ -128,7 +128,7 @@ Maya, transitioning from a Web2 to a Web3 role, applied the principles from her 
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Initial results typically appear within 2 to 4 weeks of consistent application. Significant improvements may become evident within 8 to 12 weeks, depending on your baseline, daily practice, and feedback seeking. Professionals who actively track their progress—through metrics, peer feedback, or journaling—often achieve results more quickly than those who do not.
+A: Initial results typically appear within a few weeks of consistent application. Significant improvements may become evident within a couple of months, depending on your baseline, daily practice, and feedback seeking. Professionals who actively track their progress—through metrics, peer feedback, or journaling—often achieve results more quickly than those who do not.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you usually have more agency than it seems. Begin with small, self-contained actions that do not require organizational approval. Focus on individual habits, personal projects, or discussions with interested colleagues. If, after sustained effort, the environment continues to hinder your growth, that information is crucial for your career path; seeking a more supportive environment may be beneficial.
