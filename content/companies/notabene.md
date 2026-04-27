@@ -1,6 +1,6 @@
 ---
 name: Notabene
-website: https://notabene.com
+website: https://notabene.id
 category: Other
 description: Notabene provides compliance solutions for cryptocurrency businesses.
 ---

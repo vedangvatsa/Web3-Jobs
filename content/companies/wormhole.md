@@ -1,6 +1,6 @@
 ---
 name: Wormhole
-website: https://wormholenetwork.com
+website: https://wormhole.com
 category: Blockchain Infrastructure
 description: Wormhole is a cross-chain messaging protocol for decentralized applications.
 ---

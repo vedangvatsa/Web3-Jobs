@@ -1,6 +1,6 @@
 ---
 name: Galaxy Digital
-website: https://galaxydigital.io
+website: https://galaxy.com
 founded: 2018
 category: Digital Asset Financial Services
 headquarters: New York, New York, USA
