@@ -25,10 +25,10 @@ type ArticlePageProps = {
 
 export async function generateStaticParams() {
   const articles = await getAllArticles();
-  const terms = await getAllTerms();
   const resources = getAllResourcePages();
+  // Only pre-render articles + resources at build time.
+  // Glossary terms (157 pages) are generated on-demand via ISR.
   return [
-    ...terms.map((term) => ({ slug: term.slug })),
     ...articles.map((article) => ({ slug: article.slug })),
     ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
   ];
