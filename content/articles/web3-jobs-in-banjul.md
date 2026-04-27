@@ -27,10 +27,10 @@ The Web3 environment in Banjul is influenced significantly by the government's d
 
 While the formal Web3 job market in Banjul is limited, several opportunities exist across three primary sectors:
 
-| Role Type                             | Description                                                                                           | Salary Range (USD/month)           |
-|---------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------|
-| Government & NGO Pilot Projects       | Positions for consultants, project managers, and developers on blockchain initiatives funded by international partners. | $2,000 - $5,000                    |
-| Remote Work                           | For local talent, acquiring globally sought-after skills, such as [Solidity](/best-programming-languages-for-blockchain-development), allows for remote work with international firms. | $4,000 - $8,000+                   |
+| Role Type                             | Description                                                                                           | Salary Range           |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------|
+| Government & NGO Pilot Projects       | Positions for consultants, project managers, and developers on blockchain initiatives funded by international partners. | Significant range based on project funding |
+| Remote Work                           | For local talent, acquiring globally sought-after skills, such as [Solidity](/best-programming-languages-for-blockchain-development), allows for remote work with international firms. | Significant range based on experience |
 | Entrepreneurship                       | Founders can establish the first Gambian Web3 startups, particularly in FinTech and remittance.       | Highly variable; potential for significant earnings based on success. |
 
 ### Building a Web3 Career in Banjul
@@ -46,13 +46,13 @@ If you are ready to take part in a country with a clear digital vision, our [Web
 
 ## The Remittance Revolution: Banjul's Key Opportunity
 
-The Gambian diaspora, estimated at over 200,000 citizens living abroad, sends substantial remittances home to support families. Traditional remittance services incur fees of 5-10% and can take several days. Blockchain solutions could reduce these costs to below 1% and facilitate transfers within minutes.
+The Gambian diaspora sends substantial remittances home to support families. Traditional remittance services incur fees and can take several days. Blockchain solutions could reduce these costs significantly and facilitate transfers within minutes.
 
 ### Why This Matters for Your Career
 
 For developers, financial engineers, or entrepreneurs in Banjul, the remittance infrastructure presents a significant opportunity:
 
-- **Market Size:** The Gambia receives approximately $300 million annually in remittances. Capturing even 1% of this market represents millions in transaction volume.
+- **Market Size:** The Gambia receives substantial remittances annually. Capturing even a small percentage of this market represents millions in transaction volume.
 - **Immediate Need:** The demand for faster, cheaper remittance solutions is real. Every Gambian with family abroad stands to benefit financially.
 - **Government Support:** The government recognizes the challenges in remittance and may be eager to support homegrown solutions through potential partnerships and regulatory assistance.
 - **Global Investment Potential:** A successful remittance protocol established in Banjul could attract venture capital from global fintech investors.
@@ -169,7 +169,7 @@ Blockchain-based identity systems can:
 ### For Entrepreneurs
 
 1. **Identify a Specific Problem:** Focus on areas such as remittances, CBDC infrastructure, or digital identity.
-2. **Validate Market Needs:** Conduct interviews with over 20 potential users (e.g., diaspora members, government officials, bankers) to confirm the problem's significance.
+2. **Validate Market Needs:** Conduct interviews with potential users (e.g., diaspora members, government officials, bankers) to confirm the problem's significance.
 3. **Build an MVP:** Create a prototype that effectively demonstrates your proposed solution.
 4. **Seek Mentorship:** Connect with experienced mentors in the fintech sector to learn from their experiences.
 5. **Pursue Funding:** Once you have validation and traction, present your ideas to accelerators and venture capitalists interested in African fintech.
@@ -178,15 +178,15 @@ Blockchain-based identity systems can:
 
 As a Web3 professional in Banjul, consider the following realistic salary ranges:
 
-| Role                                     | Salary Range (USD/month)           |
-|------------------------------------------|------------------------------------|
-| Junior Remote Developer (0-2 years)     | $2,000 - $4,000                    |
-| Mid-Level Remote Developer (2-5 years)   | $4,000 - $7,000                    |
-| Senior Remote Developer (5+ years)      | $7,000 - $15,000+                  |
-| Blockchain Consultant (specialized)     | $5,000 - $20,000+ (project-based) |
-| Startup Founder                          | Highly variable; from $0 to $100,000+ depending on stage. |
+| Role                                     | Salary Range           |
+|------------------------------------------|------------------------|
+| Junior Remote Developer (0-2 years)     | Significant range based on experience |
+| Mid-Level Remote Developer (2-5 years)   | Significant range based on experience |
+| Senior Remote Developer (5+ years)      | Significant range based on experience |
+| Blockchain Consultant (specialized)     | Significant range based on project-based work |
+| Startup Founder                          | Highly variable; from $0 to significant amounts depending on stage. |
 
-For context, the average salary in The Gambia is approximately $300-$500 USD/month. A remote Web3 role paying $5,000/month presents a significant increase, offering exceptional wealth-building potential.
+For context, the average salary in The Gambia is relatively low. A remote Web3 role paying significantly more presents a considerable increase, offering exceptional wealth-building potential.
 
 ## Anticipated Challenges
 
@@ -203,7 +203,7 @@ Banjul has relatively stable internet access compared to other cities in Africa,
 Receiving international payments can be difficult. Consider these options:
 
 - Utilize stablecoins or cryptocurrency payments from employers.
-- Use services like Wise (formerly TransferWise) for currency conversion.
+- Use services for currency conversion.
 - Build relationships with banks that are familiar with Web3 professionals.
 
 ### Competition from Larger Hubs
@@ -228,7 +228,7 @@ While being in a smaller ecosystem presents challenges, it also has distinct adv
 **This week:**
 
 1. Identify a specific Web3 opportunity that excites you, such as remittances, CBDC, or digital identity.
-2. Research five individuals already working in that area and analyze their career paths.
+2. Research individuals already working in that area and analyze their career paths.
 3. Join an online community related to your interest (e.g., Discord, Telegram, Twitter) and begin participating.
 
 **This month:**

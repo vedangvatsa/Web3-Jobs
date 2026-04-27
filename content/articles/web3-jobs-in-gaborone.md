@@ -48,22 +48,22 @@ The formal Web3 job market in Gaborone remains small, with opportunities primari
 
 | **Role**                                 | **Salary Range (BWP/month)**           | **USD Equivalent**                       |
 |------------------------------------------|----------------------------------------|------------------------------------------|
-| **Junior Developer (0-1 year)**         | 15,000 - 25,000                        | $1,125 - $1,875                         |
-| **Mid-Level Developer (1-3 years)**     | 25,000 - 45,000                        | $1,875 - $3,375                         |
-| **Senior Developer (3+ years)**          | 45,000 - 70,000+                       | $3,375 - $5,250+                        |
+| **Junior Developer (0-1 year)**         | 15,000 - 25,000                        | Varies                                   |
+| **Mid-Level Developer (1-3 years)**     | 25,000 - 45,000                        | Varies                                   |
+| **Senior Developer (3+ years)**          | 45,000 - 70,000+                       | Varies                                   |
 | **Enterprise Blockchain Developer**      | 30,000 - 55,000                        | N/A                                      |
 | **FinTech Product Manager**              | 35,000 - 60,000                        | N/A                                      |
 | **Business Development**                  | 25,000 - 50,000                        | N/A                                      |
-| **Remote Roles (International)**         | $2,500 - $6,000+                       | N/A                                      |
-| **Consulting**                           | $60 - $130/hour                        | N/A                                      |
+| **Remote Roles (International)**         | Significant range                      | N/A                                      |
+| **Consulting**                           | Varies                                 | N/A                                      |
 
 **Cost of Living Example:**
-A mid-level developer earning $4,000/month in a remote role might face the following expenses:
+A mid-level developer earning a competitive salary in a remote role might face the following expenses:
 
-- Rent in a desirable area: $600 - $900/month
-- Living expenses: $400 - $600/month
-- Total monthly expenses: $1,000 - $1,500
-- Potential savings: 63-75% of income
+- Rent in a desirable area: Varies
+- Living expenses: Varies
+- Total monthly expenses: Varies
+- Potential savings: Significant percentage of income
 
 ### Career Paths: Timelines & Milestones
 
@@ -85,11 +85,11 @@ A mid-level developer earning $4,000/month in a remote role might face the follo
   - Network with the Botswana Digital & Innovation Hub.
   - Propose pilot projects to mining and finance companies.
   - Complete 1-2 consulting contracts.
-  - Expected income: $1,500 - $3,000/month.
+  - Expected income: Varies.
 
 - **Months 11-16: Enterprise Role**
   - Secure a position with a major corporation or a hub-based startup.
-  - Target salary: $3,000 - $5,000+/month.
+  - Target salary: Varies.
 
 **Path 2: FinTech/Digital Asset Product Manager (12-18 months)**
 
@@ -113,7 +113,7 @@ A mid-level developer earning $4,000/month in a remote role might face the follo
 
 - **Months 13-18: Product Leadership**
   - Lead product development at a fintech startup or hub.
-  - Expected salary: $3,500 - $5,500+/month.
+  - Expected salary: Varies.
 
 **Path 3: Community & Ecosystem Builder (6-12 months)**
 
@@ -126,16 +126,16 @@ A mid-level developer earning $4,000/month in a remote role might face the follo
 - **Months 3-6: Content & Community**
   - Publish weekly content on Web3 or enterprise blockchain topics.
   - Establish a Gaborone Web3/blockchain study group.
-  - Goal: Achieve 800+ Twitter followers and 50+ community members.
+  - Goal: Achieve significant social media following and community members.
   - Time: 15-20 hours/week.
 
 - **Months 7-9: Partnerships & Income**
   - Secure a position as a community manager or ecosystem lead.
-  - Expected income: $1,200 - $2,000/month.
+  - Expected income: Varies.
 
 - **Months 10-12: Scale**
   - Expand the community and establish yourself as a leading voice in local Web3.
-  - Expected salary: $2,000 - $3,500/month.
+  - Expected salary: Varies.
 
 ### Challenges and Solutions
 
@@ -160,7 +160,7 @@ A mid-level developer earning $4,000/month in a remote role might face the follo
 1. **Days 1-10:** Set up accounts on GitHub and Twitter, and choose your career path.
 2. **Days 11-30:** Build a foundation by completing courses and initiating your first project.
 3. **Days 31-60:** Network with the Botswana Digital & Innovation Hub, attend meetups, and connect with companies.
-4. **Days 61-90:** Gain traction by securing your first contract, reaching 500 followers, or establishing a partnership.
+4. **Days 61-90:** Gain traction by securing your first contract, reaching a significant social media following, or establishing a partnership.
 
 ### FAQs
 
@@ -171,7 +171,7 @@ Visit their Gaborone office, email their innovation team, or attend their startu
 The emphasis lies in enterprise solutions and regulated finance. While DeFi exists, the city’s strengths revolve around enterprise applications, supply chains, and regulated assets.
 
 **Can I earn a good living pursuing Web3 in Gaborone?**
-Yes. Local roles start at BWP 25,000 (approximately $1,875/month), while remote roles can yield $3,000 or more. The potential savings rate exceeds that of many countries.
+Yes. Local roles start at a competitive salary, while remote roles can yield significantly more. The potential savings rate exceeds that of many countries.
 
 **What about competition with South Africa?**
 South Africa has a more developed market, but Gaborone's emerging status presents fewer competitors, offering greater opportunities for leadership and innovation.
@@ -179,7 +179,7 @@ South Africa has a more developed market, but Gaborone's emerging status present
 **Can I start a blockchain company in Gaborone?**
 Yes, the government supports tech startups. Apply to hub programs and aim to develop products that serve the Southern African market. Funding opportunities are available.
 
-**What is the timeline to earn over $2,500/month?**
+**What is the timeline to earn a competitive salary?**
 Anticipate 8-12 months, which includes 4 months of learning, 3 months of freelance or local work, followed by 3-4 months to transition to a full-time remote position.
 
 **Should I prioritize local or remote opportunities?**

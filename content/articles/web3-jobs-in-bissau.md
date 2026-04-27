@@ -22,7 +22,7 @@ The potential for Web3 in Bissau emerges from the country's development challeng
   
 - **Social Impact Applications:** The most significant uses of [blockchain](/what-is-a-blockchain) technology involve social impact initiatives. Examples include creating transparent systems for delivering aid, securing land rights, and establishing verifiable identity systems for marginalized populations.
 
-- **Role of NGOs and International Organizations:** Initial Web3 projects in Bissau will likely stem from pilot programs launched by international NGOs, development banks like the World Bank and African Development Bank, and UN agencies.
+- **Role of NGOs and International Organizations:** Initial Web3 projects in Bissau will likely stem from pilot programs launched by international NGOs, development banks, and UN agencies.
 
 - **Lusophone Connections:** Guinea-Bissau's ties to the Portuguese-speaking world link it to more developed Web3 ecosystems in Brazil and Portugal. These connections can foster collaboration and knowledge sharing.
 
@@ -30,9 +30,9 @@ The potential for Web3 in Bissau emerges from the country's development challeng
 
 Currently, Bissau lacks a formal job market for Web3 positions. Career opportunities for professionals in Guinea-Bissau primarily involve remote work or entrepreneurship.
 
-| Role | Description | Salary Range (USD) |
+| Role | Description | Salary Range |
 |------|-------------|---------------------|
-| Remote Web3 Developer | Developers skilled in [Solidity](/best-programming-languages-for-blockchain-development) or full-stack development can work for global Web3 companies. | $3,000 - $7,000+ per month (mid-to-senior level) |
+| Remote Web3 Developer | Developers skilled in [Solidity](/best-programming-languages-for-blockchain-development) or full-stack development can work for global Web3 companies. | Significant monthly compensation (mid-to-senior level) |
 | Impact Project Manager / Consultant | Professionals with international development backgrounds can help organizations implement Web3 solutions. | Project-based compensation, varies by organization |
 | Community Educator (Portuguese/Creole) | Local leaders educate communities about Web3, driving grassroots adoption. Often self-started or grant-funded. | Varies based on funding |
 
@@ -49,46 +49,46 @@ Currently, Bissau lacks a formal job market for Web3 positions. Career opportuni
 ### Salary Expectations: What You Can Earn
 
 **Developer Roles:**
-- **Junior Web3 Developer (0-1 year):** $2,000 - $3,500/month (remote)
-- **Mid-Level Developer (1-3 years):** $3,500 - $6,000/month (remote)
-- **Senior Developer (3+ years):** $6,500 - $12,000+/month (remote)
+- **Junior Web3 Developer (0-1 year):** Significant monthly compensation (remote)
+- **Mid-Level Developer (1-3 years):** Significant monthly compensation (remote)
+- **Senior Developer (3+ years):** Significant monthly compensation (remote)
 
 **Impact & Consulting Roles:**
-- **Impact Project Manager:** $2,500 - $5,000/month (contract)
-- **Development Consultant:** $60 - $120/hour
-- **Education/Community Manager:** $1,500 - $2,500/month (remote)
+- **Impact Project Manager:** Significant monthly compensation (contract)
+- **Development Consultant:** Hourly rates vary
+- **Education/Community Manager:** Significant monthly compensation (remote)
 
 **Opportunities in Lisbon/Portugal:**
-Consider relocating to Lisbon, where Web3 salaries are higher ($4,000 - $8,000/month for mid-level positions). Being a Portuguese speaker provides a competitive advantage in Lusophone Web3 projects.
+Consider relocating to Lisbon, where Web3 salaries are generally higher for mid-level positions. Being a Portuguese speaker provides a competitive advantage in Lusophone Web3 projects.
 
 **Real Impact: Living on a [Web3 Salary](/web3-developer-salaries-2025) in Bissau**
-For a junior developer earning $2,500/month in Bissau-Guinean Pesos (XOF):
+For a junior developer earning a competitive salary in Bissau-Guinean Pesos (XOF):
 
 | Expense Category | Monthly Cost (XOF) |
 |------------------|---------------------|
-| Rent             | 90,000 - 180,000    |
-| Food & Essentials| 120,000 - 180,000   |
-| Transport        | 12,000 - 24,000     |
-| **Total Basic Living** | **222,000 - 384,000** |
-| **Savings**      | **1,200,000 - 1,300,000** |
+| Rent             | Varies              |
+| Food & Essentials| Varies              |
+| Transport        | Varies              |
+| **Total Basic Living** | **Varies** |
+| **Savings**      | **Varies** |
 
-You can expect to save 74% to 85% of your income, allowing for investments or impact initiatives.
+You can expect to save a significant portion of your income, allowing for investments or impact initiatives.
 
 ### Three Proven Career Paths
 
 **Path 1: Specialized Developer (8-14 months to full-time role)**
 
 - **Months 1-3: Foundation & Exposure**  
-Study blockchain fundamentals, complete the Cryptozombies Solidity course, and establish a GitHub presence. Dedicate 20-25 hours/week and aim for 2-3 projects demonstrating blockchain basics.
+Study blockchain fundamentals, complete the Cryptozombies Solidity course, and establish a GitHub presence. Dedicate time weekly and aim for projects demonstrating blockchain basics.
 
 - **Months 4-6: Specialization & Initial Gigs**  
-Choose a specialization in DeFi, [NFT](/what-are-nfts) infrastructure, or payment systems. Build projects that showcase your specialization and apply for entry-level developer roles. Complete initial freelance gigs on platforms like Upwork, earning $1,500 - $3,000 total. 
+Choose a specialization in DeFi, [NFT](/what-are-nfts) infrastructure, or payment systems. Build projects that showcase your specialization and apply for entry-level developer roles. Complete initial freelance gigs on platforms like Upwork, earning a competitive total.
 
 - **Months 7-9: Job Placement**  
-Intensify your job search, targeting Web3 companies such as Celo and smaller DAOs. Expected entry-level salaries range from $2,000 - $4,000/month.
+Intensify your job search, targeting Web3 companies and smaller DAOs. Expected entry-level salaries vary.
 
 - **Months 10-14: Growth & Advancement**  
-Develop expertise through real projects and open-source contributions. Anticipate salary growth to $4,000 - $6,000+/month by the end of this phase.
+Develop expertise through real projects and open-source contributions. Anticipate salary growth by the end of this phase.
 
 **Path 2: Impact-Focused Consultant (10-18 months)**
 
@@ -99,10 +99,10 @@ Investigate how blockchain addresses Guinea-Bissau's specific challenges. Networ
 Design a blockchain solution for a local problem, such as transparent payment distribution for aid. Develop a prototype and gather user feedback.
 
 - **Months 9-12: Funding & Partnerships**  
-Apply for impact grants and pitch to potential partners, aiming for $15,000 - $100,000 in funding or partnership agreements.
+Apply for impact grants and pitch to potential partners, aiming for funding or partnership agreements.
 
 - **Months 13-18: Scale & Sustainability**  
-Build a small team and launch a pilot program. Expected salaries can range from $4,000 - $8,000/month depending on the success of the project.
+Build a small team and launch a pilot program. Expected salaries can vary depending on the success of the project.
 
 **Path 3: Educator & Community Builder (6-12 months)**
 
@@ -116,12 +116,12 @@ Publish consistently and engage with the community. Aim for measurable growth in
 Launch educational products or services, establishing yourself as a trusted expert in Guinea-Bissau.
 
 - **Months 10-12: Impact & Partnership**  
-Secure a position with an international organization, with expected salaries ranging from $2,000 - $4,500/month.
+Secure a position with an international organization, with expected salaries varying.
 
 ### Challenges Specific to Bissau & Solutions
 
 **Challenge 1: Internet Connectivity**  
-Guinea-Bissau has average internet speeds of 3-8 Mbps, which can impede video calls and large file transfers. Solutions include scheduling work during times of stable connectivity, using mobile hotspots, and focusing on asynchronous tasks.
+Guinea-Bissau has average internet speeds that can impede video calls and large file transfers. Solutions include scheduling work during times of stable connectivity, using mobile hotspots, and focusing on asynchronous tasks.
 
 **Challenge 2: Political & Economic Instability**  
 Frequent political upheaval can introduce uncertainty. Maintaining an emergency fund in cryptocurrency and negotiating salaries in stablecoins can mitigate risks.
@@ -164,7 +164,7 @@ A: Not for international roles, but it is valuable for engaging with Lusophone c
 A: Yes. The growing Web3 scenes in Brazil and Portugal create opportunities for Portuguese-speaking professionals.
 
 **Q: How much money do I need to get started?**  
-A: You can start with minimal costs. Basic expenses for internet and learning resources can range from $100 to $500.
+A: You can start with minimal costs. Basic expenses for internet and learning resources can vary.
 
 **Q: Can I do this while working another job?**  
 A: Yes. You can balance initial Web3 efforts with a current job, transitioning to full-time work as your freelance income grows.
@@ -181,7 +181,7 @@ A: Build a foundation in programming fundamentals before focusing on Solidity, a
 **Q: How do I find a mentor?**  
 A: Reach out in communities, expressing your commitment and willingness to offer value in return for mentorship.
 
-**Q: Is it possible to earn $2,000+/month?**  
+**Q: Is it possible to earn a competitive salary?**  
 A: Yes, with a focused approach, it is achievable within 8-12 months through learning, freelancing, and securing full-time roles.
 
 **Q: What's the biggest risk?**  

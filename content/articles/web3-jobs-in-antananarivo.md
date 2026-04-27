@@ -27,10 +27,10 @@ Antananarivo's Web3 ecosystem is in its early stages, with growth potential driv
 
 The formal Web3 job market in Antananarivo remains limited. The most feasible career path involves acquiring globally sought-after skills to work remotely for international companies or becoming an entrepreneur focused on local niches.
 
-| Role | Description | Salary Range (USD/month) |
-|------|-------------|--------------------------|
-| **Remote Web3 Developer** | Primary opportunity for developers is remote work. | $3,000 - $7,000+ (Mid-Level to Senior) |
-| **Community Manager** | Trilingual managers engaging local and global communities are highly valuable. | $1,500 - $2,500+ (Mid-Level) |
+| Role | Description | Salary Range |
+|------|-------------|--------------|
+| **Remote Web3 Developer** | Primary opportunity for developers is remote work. | Significant range based on experience |
+| **Community Manager** | Trilingual managers engaging local and global communities are highly valuable. | Significant range based on experience |
 | **ReFi Project Manager/Founder** | Professionals combining conservation passion with Web3 knowledge can lead impactful projects. | Varies based on project funding |
 
 ### Pursuing a Web3 Career in Antananarivo
@@ -45,50 +45,50 @@ The formal Web3 job market in Antananarivo remains limited. The most feasible ca
 
 ### Detailed Salary Expectations by Role
 
-| Role Track | Level | Salary Range (USD/month) |
-|------------|-------|--------------------------|
-| **Web3 Developer** | Entry Level (0-1 year) | $2,000 - $3,500 |
-| | Mid Level (1-3 years) | $4,000 - $6,500 |
-| | Senior Level (3+ years) | $7,000 - $12,000+ |
-| **Community & Operations** | Community Manager | $1,500 - $2,500 |
-| | Operations Manager | $2,000 - $3,500 |
-| | Project Coordinator | $1,000 - $1,800 |
+| Role Track | Level | Salary Range |
+|------------|-------|--------------|
+| **Web3 Developer** | Entry Level (0-1 year) | Significant range based on experience |
+| | Mid Level (1-3 years) | Significant range based on experience |
+| | Senior Level (3+ years) | Significant range based on experience |
+| **Community & Operations** | Community Manager | Significant range based on experience |
+| | Operations Manager | Significant range based on experience |
+| | Project Coordinator | Significant range based on experience |
 
 ### Local vs. Remote Work Comparison
 
-A mid-level developer earning $5,000/month remotely can maintain a comfortable lifestyle in Antananarivo as outlined below:
+A mid-level developer earning a competitive salary remotely can maintain a comfortable lifestyle in Antananarivo as outlined below:
 
-| Expense Category | Cost (USD/month) |
-|------------------|------------------|
-| Comfortable apartment | $500 - $800 |
-| Living expenses (food, transport, utilities) | $400 - $600 |
-| Total monthly expenses | $900 - $1,400 |
-| Remaining income for savings/investments | $3,600 - $4,100 |
+| Expense Category | Cost |
+|------------------|------|
+| Comfortable apartment | Significant range |
+| Living expenses (food, transport, utilities) | Significant range |
+| Total monthly expenses | Significant range |
+| Remaining income for savings/investments | Significant range |
 
 ### Career Path Strategies
 
 **Path 1: Developer Route (9-15 months)**
 - **Months 1-3:** Learn Solidity basics through platforms like Cryptozombies and Buildspace. Expected outcome: Basic contract understanding and initial GitHub portfolio.
 - **Months 4-6:** Build 2-3 real projects and contribute to open-source Web3 initiatives. Expected outcome: Solid GitHub projects and first freelance gig.
-- **Months 7-9:** Focus on a specialization (e.g., [DeFi](/what-is-defi) protocols, NFTs, or Layer 2 solutions). Expected outcome: 5-10 freelance clients, generating $2,000-$5,000/month.
-- **Months 10-15:** Apply for junior developer roles in companies like Polygon or Solana. Target salary: $3,000-$5,000/month.
+- **Months 7-9:** Focus on a specialization (e.g., [DeFi](/what-is-defi) protocols, NFTs, or Layer 2 solutions). Expected outcome: 5-10 freelance clients, generating competitive income.
+- **Months 10-15:** Apply for junior developer roles in companies like Polygon or Solana. Target salary: Competitive range.
 
 **Path 2: ReFi/Impact Specialist Route (12-18 months)**
 - **Months 1-4:** Conduct deep research on regenerative finance and conservation. Join relevant communities. Expected outcome: Key knowledge base and networking.
 - **Months 5-8:** Develop a proof-of-concept project related to conservation. Expected outcome: A published project and social media following.
 - **Months 9-12:** Reach out to NGOs for partnerships. Expected outcome: Secure funding or collaboration.
-- **Months 13-18:** Launch the first real ReFi project. Expected outcome: Active project with users and a salary of $3,000-$8,000/month.
+- **Months 13-18:** Launch the first real ReFi project. Expected outcome: Active project with users and a competitive salary.
 
 **Path 3: Educator/Community Leader Route (6-12 months)**
-- **Months 1-2:** Plan your content strategy focusing on a niche (e.g., Web3 education). Expected outcome: 10-15 articles/videos.
-- **Months 3-6:** Build your audience and establish a local Web3 meetup. Expected outcome: 1,000+ Twitter followers and 500+ YouTube subscribers.
-- **Months 7-9:** Monetize your content through courses or consulting. Expected income: $500-$2,000/month.
-- **Months 10-12:** Scale your impact by partnering with international projects. Expected salary: $2,000-$4,000/month.
+- **Months 1-2:** Plan your content strategy focusing on a niche (e.g., Web3 education). Expected outcome: Initial content creation.
+- **Months 3-6:** Build your audience and establish a local Web3 meetup. Expected outcome: Growing online presence.
+- **Months 7-9:** Monetize your content through courses or consulting. Expected income: Competitive range.
+- **Months 10-12:** Scale your impact by partnering with international projects. Expected salary: Competitive range.
 
 ### Challenges and Realistic Expectations
 
 **Internet Infrastructure**
-- Typical speeds range from 5-15 Mbps, often slower during peak hours.
+- Typical speeds can vary, often slower during peak hours.
 - Solution: Utilize backup mobile hotspots and optimize workflows for offline work.
 
 **Education Gap**
@@ -131,16 +131,16 @@ A mid-level developer earning $5,000/month remotely can maintain a comfortable l
 No. Web3 prioritizes skills and portfolio over formal education. A strong GitHub portfolio demonstrating your projects holds more weight than a degree.
 
 **How much does it cost to get started?**
-Starting costs are minimal. Most learning resources are free. Internet costs around $10-20/month, and you may need a laptop if you do not already own one. Total startup costs can be anywhere from $0 to $500.
+Starting costs are minimal. Most learning resources are free. Internet costs can vary, and you may need a laptop if you do not already own one. Total startup costs can be anywhere from minimal to moderate.
 
 **Can I earn while learning?**
-Yes. After a few months of learning, you can undertake small freelance tasks on platforms like Upwork or Fiverr, earning $100-$300 per project to support your learning.
+Yes. After a few months of learning, you can undertake small freelance tasks on platforms like Upwork or Fiverr, earning competitive amounts per project to support your learning.
 
 **Is it safe to work in crypto given the risks of scams?**
 Yes, as long as you work with reputable companies and check their backgrounds. Ensure contracts are in writing and use escrow services for freelance work.
 
-**What is the timeline to earn $3,000/month from Web3?**
-A realistic timeline is 8-12 months of dedicated learning and building. Some may achieve this in 6 months, while others may take up to 15 months based on prior experience and effort invested.
+**What is the timeline to earn a competitive salary from Web3?**
+A realistic timeline is 8-12 months of dedicated learning and building. Some may achieve this in 6 months, while others may take longer based on prior experience and effort invested.
 
 **Should I focus on Solidity or full-stack development?**
 Start with full-stack development as it offers broader applicability and more job opportunities. Once you grasp blockchain fundamentals, you can transition to learning Solidity.
@@ -161,7 +161,7 @@ Consider launching a Web3 startup that partners with conservation NGOs or intern
 Yes, professional English proficiency is essential. Commit daily to improving your language skills through practice and involvement in English-speaking communities.
 
 **What Web3 jobs are best for non-technical individuals?**
-Roles such as Community Manager, Project Manager, Operations, Content Writer, Designer, and Researcher are suitable for non-technical professionals. These positions offer salaries ranging from $1,500 to $4,000/month, depending on experience and role.
+Roles such as Community Manager, Project Manager, Operations, Content Writer, Designer, and Researcher are suitable for non-technical professionals. These positions offer competitive salaries depending on experience and role.
 
 ### Conclusion
 

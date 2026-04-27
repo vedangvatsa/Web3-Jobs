@@ -29,14 +29,14 @@ Atlanta's Web3 environment builds on the city’s traditional economic strengths
 
 The demand for Web3 talent in Atlanta is steadily increasing, particularly for professionals who can bridge traditional FinTech and decentralized protocols. Competitive salaries reflect the quality of life in this affordable city.
 
-| Role                                           | Experience Level      | Salary Range (USD)                      |
+| Role                                           | Experience Level      | Salary Range                      |
 |------------------------------------------------|-----------------------|------------------------------------------|
-| Smart Contract / Backend Developer (Solidity, Go, Rust) | Mid-Level (3-5 years) | $120,000 - $160,000                      |
-|                                                | Senior (5+ years)     | $160,000 - $210,000+                     |
-| Full-Stack Web3 Engineer (React/Viem)         | Mid-Level              | $110,000 - $150,000                      |
-|                                                | Senior                 | $150,000 - $190,000+                     |
-| Product Manager (FinTech/Payments Focus)      | Senior                 | $140,000 - $190,000+                     |
-| Business Development & Enterprise Sales        | Experienced Professional| $130,000 - $180,000+, plus commission    |
+| Smart Contract / Backend Developer (Solidity, Go, Rust) | Mid-Level (3-5 years) | Competitive                          |
+|                                                | Senior (5+ years)     | Competitive                          |
+| Full-Stack Web3 Engineer (React/Vue)         | Mid-Level              | Competitive                          |
+|                                                | Senior                 | Competitive                          |
+| Product Manager (FinTech/Payments Focus)      | Senior                 | Competitive                          |
+| Business Development & Enterprise Sales        | Experienced Professional| Competitive, plus commission          |
 
 ### Building a Web3 Career in Atlanta
 
@@ -58,7 +58,7 @@ If you are ready to advance your career in a vibrant ecosystem, explore our [Web
 
 The Web3 sector is experiencing rapid growth, with demand for qualified talent outpacing supply. Unlike traditional tech, Web3 offers unique advantages such as:
 
-- **Higher Compensation**: Web3 roles often pay 20-40% more than equivalent Web2 positions, with significant bonuses and equity.
+- **Higher Compensation**: Web3 roles often pay significantly more than equivalent Web2 positions, with potential bonuses and equity.
 - **Remote-First Culture**: Many Web3 organizations operate fully or primarily remote, providing flexibility uncommon in traditional tech.
 - **Accelerated Career Growth**: Rapid scaling of companies and talent shortages lead to faster career progression.
 - **Equity Potential**: Standard token and equity packages present significant wealth-building opportunities.
@@ -69,7 +69,7 @@ The dynamics of the Web3 job market differ significantly from those of Web2:
 
 | Factor                | Web2 Dynamics                       | Web3 Dynamics                        |
 |----------------------|-------------------------------------|--------------------------------------|
-| Compensation         | Standard salary ranges              | 20-40% higher than equivalent Web2   |
+| Compensation         | Standard salary ranges              | Often higher than equivalent Web2   |
 | Work Environment      | Office-based or hybrid              | Primarily remote                     |
 | Career Progression   | Slower, linear                      | Rapid due to scaling and shortages    |
 | Equity Opportunities  | Limited stock options               | Common token and equity packages      |
@@ -129,11 +129,11 @@ Target roles that align with your existing expertise while incorporating new Web
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity. He contributed to an open-source protocol, which led to an offer from a prominent DeFi project. His transition resulted in a 50% salary increase along with substantial equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity. He contributed to an open-source protocol, which led to an offer from a prominent DeFi project. His transition resulted in a significant salary increase along with substantial equity.
 
 ### Product Manager in Web3
 
-Jessica, a PM from traditional finance, successfully leveraged her expertise in DeFi. Her deep understanding of financial products paired with Web3 technology made her a valuable asset. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a PM from traditional finance, successfully leveraged her expertise in DeFi. Her deep understanding of financial products paired with Web3 technology made her a valuable asset. She secured a role at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 
@@ -163,7 +163,7 @@ The technical learning curve can be steep, particularly for non-developers. Howe
 No. The Web3 ecosystem requires a variety of skills beyond engineering. Marketing managers, community leads, product designers, legal counsel, and operations specialists are all in high demand. Your existing skills can transfer directly; you only need to add Web3 context, such as understanding wallets, DAOs, and the significance of decentralization.
 
 **How much can I earn in Web3?**  
-Web3 compensation consistently exceeds Web2 equivalents. Base salaries range from 30-60% higher on average. Solidity engineers and smart contract auditors often command the largest premiums. Total compensation packages frequently include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 in total compensation, while even non-technical roles see meaningful premiums.
+Web3 compensation consistently exceeds Web2 equivalents. Base salaries are often higher on average. Solidity engineers and smart contract auditors often command the largest premiums. Total compensation packages frequently include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols can earn substantial total compensation, while even non-technical roles see meaningful premiums.
 
 **Is it risky to transition to Web3?**  
 Every career transition carries risk, including Web3 due to market volatility. You can manage this risk by targeting well-funded, established protocols with proven revenue. Ensure your base salary is paid in fiat rather than entirely in tokens. Professionals who approach Web3 as a sustainable career move, rather than a quick profit scheme, often establish durable roles that withstand market cycles.

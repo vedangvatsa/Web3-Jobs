@@ -30,13 +30,13 @@ Ahmedabad's Web3 scene reflects its traditional business strengths and an evolvi
 
 The job market in Ahmedabad currently favors developers with a solid foundation in traditional software engineering who are willing to transition into blockchain roles. As the ecosystem evolves, the demand for specialized Web3 positions is expected to rise significantly.
 
-| Role                          | Experience Level      | Salary Range (INR)         |
-|-------------------------------|----------------------|-----------------------------|
-| Full-Stack Developer           | Mid-Level (3-5 years)| ₹15 Lakhs - ₹30 Lakhs       |
-|                               | Senior (5+ years)    | ₹30 Lakhs - ₹55 Lakhs+      |
-| Blockchain Developer (Solidity)| Mid-Level             | ₹18 Lakhs - ₹35 Lakhs       |
-|                               | Senior                | ₹35 Lakhs - ₹60 Lakhs+      |
-| Business Development & Sales   | Mid-Level             | ₹12 Lakhs - ₹25 Lakhs       |
+| Role                          | Experience Level      | Salary Range         |
+|-------------------------------|----------------------|----------------------|
+| Full-Stack Developer           | Mid-Level (3-5 years)| Competitive           |
+|                               | Senior (5+ years)    | Competitive           |
+| Blockchain Developer (Solidity)| Mid-Level             | Competitive           |
+|                               | Senior                | Competitive           |
+| Business Development & Sales   | Mid-Level             | Competitive           |
 
 ### Building a Web3 Career in Ahmedabad
 
@@ -52,20 +52,20 @@ The job market in Ahmedabad currently favors developers with a solid foundation 
 
 #### Local Opportunities
 
-- **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer):** ₹15 Lakhs - ₹35 Lakhs/year (~$1,800–$4,200/month)
-- **Full-Stack Developer:** ₹12 Lakhs - ₹30 Lakhs/year (~$1,450–$3,600/month)
-- **Community Manager (English):** ₹8 Lakhs - ₹20 Lakhs/year (~$960–$2,400/month)
+- **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer):** Competitive
+- **Full-Stack Developer:** Competitive
+- **Community Manager (English):** Competitive
 
 #### Remote Opportunities
 
-- **Mid-Level Developer:** $2,500–$4,500/month
-- **Senior Developer:** $4,500–$8,000+/month
-- **Product Manager:** $3,500–$6,500/month
-- **Startup Founder Role:** $2,000–$5,000/month (including equity)
+- **Mid-Level Developer:** Competitive
+- **Senior Developer:** Competitive
+- **Product Manager:** Competitive
+- **Startup Founder Role:** Competitive
 
-**Cost of Living Advantage:** Monthly expenses in Ahmedabad typically range from $500–$800. Earning a remote salary of $3,500 allows for significant savings, often exceeding 75% of income.
+**Cost of Living Advantage:** Monthly expenses in Ahmedabad typically allow for significant savings, often exceeding a substantial percentage of income.
 
-### Proven Career Paths to Achieve $5,000+/Month in Ahmedabad
+### Proven Career Paths to Achieve Competitive Salaries in Ahmedabad
 
 #### Path 1: Enterprise Blockchain Specialist (B2B & FinTech)
 
@@ -75,20 +75,20 @@ The job market in Ahmedabad currently favors developers with a solid foundation 
 - Focus on enterprise blockchain use cases, especially in FinTech and supply chain.
 - Learn about Hyperledger, enterprise [Ethereum](/what-is-ethereum), and permissioned networks.
 - Develop three projects: a supply chain tracking dApp, an enterprise identity system, and a trade finance platform.
-- Build a network of over 25 enterprise architects and companies in GIFT City.
+- Build a network of enterprise architects and companies in GIFT City.
   
 **Months 6-10: Securing Enterprise Contracts**
 - Obtain a consulting position with a local enterprise or IT service firm.
-- Expected offer: ₹20 Lakhs - ₹30 Lakhs/year (~$2,400–$3,600/month).
+- Expected offer: Competitive.
 - Lead one or two blockchain pilots and publish articles on enterprise use cases.
   
 **Months 11-15: Transitioning to Full-Time Role**
 - Move to a full-time enterprise blockchain engineering position at a major corporation.
-- Anticipated salary: ₹30 Lakhs - ₹50 Lakhs/year (~$3,600–$6,000/month).
+- Anticipated salary: Competitive.
   
 **Month 16: Advancing to Senior/Lead Role**
 - Aim for a principal architect or tech lead position.
-- Expected compensation: $4,000–$8,000+/month.
+- Expected compensation: Competitive.
 
 #### Path 2: Web3 Startup Founder
 
@@ -96,20 +96,20 @@ The job market in Ahmedabad currently favors developers with a solid foundation 
 
 **Months 1-6: Market and Product Validation**
 - Identify a specific problem in supply chain, FinTech, or enterprise use cases relevant to India.
-- Validate demand with over 20 potential customers.
+- Validate demand with potential customers.
 - Develop a minimum viable product (MVP) and network with founders and investors in GIFT City.
   
 **Months 7-12: Fundraising and Building**
-- Pitch to angel investors and VCs to raise between $100K–$500K.
-- Target a company valuation of $500K–$2M, retaining 40-50% ownership.
+- Pitch to angel investors and VCs to raise funds.
+- Target a company valuation, retaining ownership.
   
 **Months 13-18: Scaling the Product**
-- Transition the MVP to production, hiring 3-5 engineers.
-- Aim for 100–500 active users, with modest revenue of $1K–$5K/month.
+- Transition the MVP to production, hiring engineers.
+- Aim for active users, with modest revenue.
   
 **Months 19-24: Profitability or Series A**
 - Choose to reach profitability or pursue a Series A funding round.
-- Expected compensation during this phase: $3,000–$6,000/month plus equity.
+- Expected compensation during this phase: Competitive.
 
 #### Path 3: Web3 Educator and Community Builder
 
@@ -120,16 +120,16 @@ The job market in Ahmedabad currently favors developers with a solid foundation 
 - Produce beginner-friendly articles and engage on Twitter.
   
 **Months 4-6: Monetizing Teaching Efforts**
-- Launch a paid bootcamp, "12-Week Solidity for Beginners," targeting 20-30 students.
+- Launch a paid bootcamp targeting students.
 - Explore freelance tutoring and protocol ambassador roles to generate income.
   
 **Months 7-10: Scaling Educational Efforts**
-- Run multiple bootcamp cohorts each year and grow the community engagement.
+- Run multiple bootcamp cohorts each year and grow community engagement.
 - Pursue sponsorships from protocols or related organizations.
   
 **Months 11-12: Formalizing Your Role**
 - Consider launching a Web3 education startup or transitioning to a full-time community role.
-- Expected compensation at this stage can range from $2,500–$5,000+/month or include equity.
+- Expected compensation at this stage can range from competitive or include equity.
 
 ### Challenges and Solutions
 
@@ -158,38 +158,38 @@ The job market in Ahmedabad currently favors developers with a solid foundation 
 **Weeks 1-2:**
 - [ ] Establish a professional GitHub, Twitter, and LinkedIn.
 - [ ] Enroll in free courses like Alchemy University.
-- [ ] Become a member of at least five Web3 and local developer communities.
-- [ ] Connect with 20 professionals in Ahmedabad's tech sector.
+- [ ] Become a member of Web3 and local developer communities.
+- [ ] Connect with professionals in Ahmedabad's tech sector.
 
 **Weeks 3-4:**
 - [ ] Complete initial Alchemy modules and deploy a testnet project.
 - [ ] Publish the first article titled "Why Ahmedabad Can Be India's Web3 Hub."
-- [ ] Network by reaching out to 30 Web3 builders.
+- [ ] Network by reaching out to Web3 builders.
 - [ ] Attend a local tech or startup event.
 
 **Weeks 5-6:**
 - [ ] Launch your first mainnet project using platforms like Polygon or Optimism.
 - [ ] Write a second article that provides a technical deep-dive or use case analysis.
-- [ ] Apply for ten remote Web3 roles.
+- [ ] Apply for remote Web3 roles.
 - [ ] Begin planning an Ahmedabad meetup.
 
 **Weeks 7-8:**
 - [ ] Complete a second project.
-- [ ] Apply for five roles at local startups or enterprises.
-- [ ] Host the first meetup, aiming for at least 30 attendees.
-- [ ] Conduct five coffee chats with individuals you have reached out to.
+- [ ] Apply for roles at local startups or enterprises.
+- [ ] Host the first meetup, aiming for attendees.
+- [ ] Conduct coffee chats with individuals you have reached out to.
 
 **Weeks 9-10:**
 - [ ] Publish a third article.
 - [ ] Land your first consulting gig or Upwork contract.
 - [ ] Plan a bootcamp or course offering.
-- [ ] Attend two online Web3 events and aim to speak at one.
+- [ ] Attend online Web3 events and aim to speak at one.
 
 **Weeks 11-12:**
 - [ ] Finalize a third project.
-- [ ] Host a second meetup, targeting 50 attendees.
-- [ ] Aim for 1,000+ Twitter followers.
-- [ ] Secure 1-2 serious job interviews or prepare to launch your bootcamp.
+- [ ] Host a second meetup, targeting attendees.
+- [ ] Aim for a substantial number of Twitter followers.
+- [ ] Secure serious job interviews or prepare to launch your bootcamp.
 - [ ] Reflect on your progress over the past three months.
 
 ### Frequently Asked Questions
@@ -197,20 +197,20 @@ The job market in Ahmedabad currently favors developers with a solid foundation 
 **Is crypto legal in India/Gujarat?**
 The legal status of crypto in India is evolving. While trading and holding crypto are not banned, the government is working on establishing regulations. Remote work for crypto companies remains permissible, so staying informed on regulatory developments is crucial.
 
-**What is the fastest way to earn $2,000/month from Ahmedabad?**
+**What is the fastest way to earn a competitive income from Ahmedabad?**
 In order of speed:
-1. Upwork freelance work ($50–$150/hour): 1-2 months.
-2. Local startup position: 3-4 months.
-3. Remote junior developer role: 3-6 months.
-4. Teaching bootcamp and serving as an ambassador: 2-3 months.
+1. Upwork freelance work: Short-term.
+2. Local startup position: Medium-term.
+3. Remote junior developer role: Medium-term.
+4. Teaching bootcamp and serving as an ambassador: Short-term.
 
-Combining Upwork with a local role can yield $1,500–$2,500/month within 2-3 months.
+Combining Upwork with a local role can yield a competitive income within a few months.
 
 **Should I focus on enterprise, startup, or education?**
 The decision depends on your career goals:
-- **Enterprise:** Offers stability and good salaries ($3,000–$6,000/month) but may lack excitement.
-- **Startup:** Presents equity potential ($2,000–$5,000 salary plus equity), with inherent risks.
-- **Education:** Provides quick income ($1,500–$2,500/month in 2 months) and impacts the community positively.
+- **Enterprise:** Offers stability and good salaries but may lack excitement.
+- **Startup:** Presents equity potential, with inherent risks.
+- **Education:** Provides quick income and impacts the community positively.
 
 Starting with education or freelance work can provide fast income, allowing for a later transition to startup or enterprise roles.
 
@@ -227,26 +227,26 @@ Staying in Ahmedabad initially can be beneficial. Remote work allows access to b
 Raising funds locally is feasible, particularly for angel or seed investments. However, Series A funding may require outreach to Bangalore or Mumbai or seeking international investors. A hybrid strategy of raising seed funds locally and pursuing Series A internationally can work effectively.
 
 **What if I want to work in GIFT City?**
-GIFT City, located near Ahmedabad, presents viable opportunities. Apply for roles with startups based there, which may offer flexible on-site and remote work arrangements. Salaries in GIFT City can be 20-30% higher than standard Ahmedabad rates.
+GIFT City, located near Ahmedabad, presents viable opportunities. Apply for roles with startups based there, which may offer flexible on-site and remote work arrangements. Salaries in GIFT City can be higher than standard Ahmedabad rates.
 
 **How can I find Ahmedabad-specific job opportunities?**
 Utilize the following resources:
 - LinkedIn: Search for "Ahmedabad" alongside "blockchain" and "GIFT City."
 - Our job board (/jobs): Filter for remote and India-specific roles.
-- Engage with local startup ecosystems: Explore platforms like Nasscom and connect with local VCs.
+- Engage with local startup ecosystems: Explore platforms and connect with local VCs.
 - Twitter: Actively participate in discussions within the Indian tech community.
 
 **What is the expected salary progression?**
 The salary trajectory may look like this:
-- **Year 1:** $1,500–$3,000/month (from freelance work or local startups).
-- **Year 2:** $3,000–$5,000/month (mid-level remote or local positions).
-- **Year 3+:** $4,500–$10,000+/month (senior roles, founding positions, or remote leads).
+- **Year 1:** Competitive (from freelance work or local startups).
+- **Year 2:** Competitive (mid-level remote or local positions).
+- **Year 3+:** Competitive (senior roles, founding positions, or remote leads).
 
 **Should I pursue an MBA or advanced degree?**
-An advanced degree is not necessary for success in Web3. Self-education and experience can lead to incomes of $2,000–$4,000/month. While an MBA may assist in fundraising efforts, it also requires significant time and financial investment. Building a strong track record over 2-3 years can provide a better foundation before considering further academic pursuits.
+An advanced degree is not necessary for success in Web3. Self-education and experience can lead to competitive incomes. While an MBA may assist in fundraising efforts, it also requires significant time and financial investment. Building a strong track record over a few years can provide a better foundation before considering further academic pursuits.
 
 **Should I consider launching a startup?**
-It is advisable to establish a financial runway before launching a startup. Aim to save ₹30-50 Lakhs ($3,600–$6,000) in the first one to two years. Validate your startup idea and secure customer commitments before launching from a position of strength.
+It is advisable to establish a financial runway before launching a startup. Aim to save a substantial amount in the first one to two years. Validate your startup idea and secure customer commitments before launching from a position of strength.
 
 **How can I avoid scams and maintain professionalism?**
 - Work only with established companies and protocols.

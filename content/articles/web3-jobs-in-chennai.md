@@ -27,15 +27,15 @@ Chennai's Web3 landscape benefits from its strong SaaS foundation.
 
 Chennai's job market shows a particularly strong demand for experienced full-stack and backend developers capable of creating off-chain components for Web3 applications. Salaries are competitive and are on the rise as global companies expand their presence in the region.
 
-| Role                                     | Experience Level | Salary Range (INR)              |
-|------------------------------------------|------------------|----------------------------------|
-| Full-Stack Web3 Engineer (React, Node.js)| Mid-Level (3-5 years) | ₹20 Lakhs - ₹40 Lakhs per annum |
-|                                          | Senior (5+ years)     | ₹40 Lakhs - ₹70 Lakhs+ per annum |
-| Blockchain Developer ([Solidity](/best-programming-languages-for-blockchain-development) / Hyperledger) | Mid-Level           | ₹25 Lakhs - ₹50 Lakhs per annum |
-|                                          | Senior              | ₹50 Lakhs - ₹85 Lakhs+ per annum |
-| Web3 Product Manager                     | Mid-Level           | ₹22 Lakhs - ₹45 Lakhs per annum |
-|                                          | Senior              | ₹45 Lakhs - ₹75 Lakhs+ per annum |
-| Web3 QA and DevOps Engineers             | Experienced Professionals | ₹18 Lakhs - ₹40 Lakhs+ per annum |
+| Role                                     | Experience Level | Salary Range              |
+|------------------------------------------|------------------|---------------------------|
+| Full-Stack Web3 Engineer (React, Node.js)| Mid-Level (3-5 years) | Competitive               |
+|                                          | Senior (5+ years)     | Competitive               |
+| Blockchain Developer ([Solidity](/best-programming-languages-for-blockchain-development) / Hyperledger) | Mid-Level           | Competitive               |
+|                                          | Senior              | Competitive               |
+| Web3 Product Manager                     | Mid-Level           | Competitive               |
+|                                          | Senior              | Competitive               |
+| Web3 QA and DevOps Engineers             | Experienced Professionals | Competitive               |
 
 ### Building a Web3 Career in Chennai
 
@@ -59,7 +59,7 @@ The Web3 sector is experiencing rapid growth, with demand for qualified talent s
 
 The dynamics of the Web3 job market differ fundamentally from those of Web2:
 
-- **Compensation:** Web3 roles typically offer salaries that are 20-40% higher than comparable Web2 positions, often supplemented by substantial bonuses and equity.
+- **Compensation:** Web3 roles typically offer salaries that are higher than comparable Web2 positions, often supplemented by substantial bonuses and equity.
   
 - **Remote-First Culture:** Most Web3 organizations operate primarily or entirely remotely, providing a level of flexibility that is rare in traditional tech environments.
 
@@ -108,10 +108,10 @@ Pursue roles that allow you to leverage your existing expertise along with your 
 ### Real-World Success Stories
 
 #### From Developer to Smart Contract Engineer
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while continuing his job. His contributions to an open-source protocol attracted a major DeFi project, enabling him to transition with a 50% salary increase and significant equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while continuing his job. His contributions to an open-source protocol attracted a major DeFi project, enabling him to transition with a significant salary increase and equity.
 
 #### Product Manager in Web3
-Jessica, a product manager with a background in traditional finance, capitalized on her expertise in DeFi. Her grasp of financial products combined with Web3 technology made her an asset. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a product manager with a background in traditional finance, capitalized on her expertise in DeFi. Her grasp of financial products combined with Web3 technology made her an asset. She secured a role at a leading DeFi protocol within a short timeframe.
 
 #### Career Changer Success
 Marcus transitioned from his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he accepted a position leading Developer Relations at a major blockchain platform, with compensation that exceeded his prior salary.
@@ -132,7 +132,7 @@ Marcus transitioned from his corporate job to focus on Web3 for six months. Thro
 A: No. The Web3 ecosystem requires more than just engineers. Roles in marketing, community management, product design, legal, operations, and business development are all in high demand. Your existing skills can transition smoothly; you only need to incorporate Web3 context, such as understanding wallets, DAOs, and the importance of decentralization. Hiring managers often prioritize domain expertise combined with a genuine interest in the field.
 
 **Q: How much can I earn in Web3?**
-A: Compensation in Web3 typically exceeds that of Web2 positions. Base salaries are generally 30-60% higher, with Solidity engineers and smart contract auditors earning the highest premiums due to talent scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers in well-funded protocols can earn between $200,000 and $350,000 annually.
+A: Compensation in Web3 typically exceeds that of Web2 positions. Base salaries are generally higher, with Solidity engineers and smart contract auditors earning the highest premiums due to talent scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers in well-funded protocols can earn competitive salaries.
 
 **Q: Is transitioning to Web3 risky?**
 A: Career transitions always carry risk, and Web3 is no different, especially given market volatility and project lifecycles. To mitigate this risk, target established protocols with solid funding and proven revenue, verify team backgrounds, and ensure base salaries are offered in fiat currency.
@@ -145,7 +145,7 @@ A: Historically, bear markets provide excellent opportunities to enter Web3. Whe
 
 ## Key Takeaways
 
-- Web3 offers significant compensation premiums, typically 20-40% above Web2 equivalents, with accelerated career growth and the chance to impact technology reshaping finance, governance, and digital ownership.
+- Web3 offers significant compensation premiums, typically above Web2 equivalents, with accelerated career growth and the chance to impact technology reshaping finance, governance, and digital ownership.
 - Professionals can achieve a meaningful transition to Web3 within 2-6 months of focused effort, with engineers and product managers generally moving the fastest.
 - Your existing domain expertise is valuable in Web3. Focus on layering blockchain-specific knowledge onto your current skills.
 - Networking through Discord communities, engaging on Twitter, and showcasing portfolio projects on GitHub often yield better results than formal certifications for securing Web3 roles.

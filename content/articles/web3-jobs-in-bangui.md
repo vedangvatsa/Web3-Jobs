@@ -138,7 +138,7 @@ To succeed in Bangui:
 The Central African Republic faces security challenges. Many professionals opt for remote work from Bangui, visiting periodically rather than relocating permanently. Others may base themselves in neighboring countries with better security while maintaining connections to the CAR ecosystem.
 
 **What is the earning potential?**  
-Top-tier developers or consultants working remotely while based in Bangui can earn between $5,000 and $15,000+ USD monthly. This level of income can be transformative in the local context, although building the necessary skill set takes time.
+Top-tier developers or consultants working remotely while based in Bangui can earn significant amounts monthly. This level of income can be transformative in the local context, although building the necessary skill set takes time.
 
 **Can I make a meaningful impact in a small ecosystem?**  
 Absolutely. The barriers to becoming a recognized figure in the Bangui Web3 scene are lower than in established hubs. Your contributions can be quickly acknowledged and valued.
