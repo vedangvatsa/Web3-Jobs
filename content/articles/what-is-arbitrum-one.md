@@ -34,7 +34,7 @@ Arbitrum's design focuses on executing transactions off the primary Ethereum cha
 
 One significant drawback of the Optimistic Rollup model is the **extended withdrawal time**. Users wishing to transfer funds from Arbitrum back to the Ethereum mainnet must wait for the completion of the seven-day challenge period. However, third-party "bridges" have surfaced, enabling users to bypass this waiting period for a nominal fee.
 
-Arbitrum One has solidified its position as a frontrunner in Ethereum scaling efforts. By providing a fast, cost-effective, and EVM-compatible environment, it has attracted millions of users and facilitated billions of dollars in value, making the decentralized internet more accessible to a wider audience.
+Arbitrum One has solidified its position as a frontrunner in Ethereum scaling efforts. By providing a fast, cost-effective, and EVM-compatible environment, it has attracted a significant number of users and facilitated billions in value, making the decentralized internet more accessible to a wider audience.
 
 ### Understanding the Implications
 
@@ -66,13 +66,13 @@ Continuously evaluate your progress. Are you achieving the desired outcomes? Adj
 
 | Case Study          | Role                      | Challenge Faced               | Outcome Achieved                            |
 |---------------------|---------------------------|-------------------------------|---------------------------------------------|
-| Sarah, Developer     | Blockchain Startup        | Limited transaction throughput | Improved processing speed by 200%          |
-| Juan, Product Manager| DeFi Project              | High transaction costs        | Reduced costs by 75% using Arbitrum        |
+| Sarah, Developer     | Blockchain Startup        | Limited transaction throughput | Improved processing speed significantly     |
+| Juan, Product Manager| DeFi Project              | High transaction costs        | Reduced costs substantially using Arbitrum  |
 | Maya, Web2 Transition| Web3 Developer            | Adapting to new environment  | Successfully onboarded within two months   |
 
-**Example 1:** Sarah, a developer at a blockchain startup, struggled with transaction throughput until she implemented Arbitrum. Within three months, she improved transaction speeds by 200%.
+**Example 1:** Sarah, a developer at a blockchain startup, struggled with transaction throughput until she implemented Arbitrum. Within three months, she improved transaction speeds significantly.
 
-**Example 2:** Juan, a product manager in the DeFi space, faced high transaction costs. By integrating Arbitrum into his project, he managed to reduce costs by 75%, significantly enhancing user engagement.
+**Example 2:** Juan, a product manager in the DeFi space, faced high transaction costs. By integrating Arbitrum into his project, he managed to reduce costs substantially, significantly enhancing user engagement.
 
 **Example 3:** Maya, transitioning from a Web2 to a Web3 environment, utilized Arbitrum to adapt quickly. She successfully onboarded and contributed to her new team within two months, demonstrating the effectiveness of the platform.
 
@@ -87,7 +87,7 @@ Continuously evaluate your progress. Are you achieving the desired outcomes? Adj
 ### Frequently Asked Questions
 
 **Q: How much time will it take to see results from using Arbitrum?**  
-A: Users typically notice initial results within 2–4 weeks of consistent application, with significant improvements visible within 8–12 weeks. The timeline varies based on your baseline, daily commitment, and active feedback efforts. Professionals who systematically track their progress—through metrics, peer feedback, or journaling—often advance more quickly than those who rely on passive observation.
+A: Users typically notice initial results within a few weeks of consistent application, with significant improvements visible within a couple of months. The timeline varies based on your baseline, daily commitment, and active feedback efforts. Professionals who systematically track their progress—through metrics, peer feedback, or journaling—often advance more quickly than those who rely on passive observation.
 
 **Q: What if my workplace environment does not support Arbitrum integration?**  
 A: Even in challenging environments, you often have more agency than it seems. Start with small initiatives that require no organizational buy-in—personal projects or internal discussions with aligned colleagues. Build momentum gradually rather than waiting for permission. Documenting your progress and outcomes can provide compelling evidence for future initiatives.

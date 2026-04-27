@@ -76,8 +76,8 @@ Monitor your progress consistently. Are you observing positive results? Be prepa
 
 | Name  | Role                          | Challenge Faced                              | Outcome Achieved                              |
 |-------|-------------------------------|----------------------------------------------|-----------------------------------------------|
-| Sarah | Developer at a blockchain startup | Struggled with identity verification processes | Implemented PoH strategies, resulting in a 50% reduction in duplicate accounts within three months. |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Faced difficulty in ensuring fair governance | Adopted PoH for governance, leading to a successful implementation of "one person, one vote," enhancing engagement by 30%. |
+| Sarah | Developer at a blockchain startup | Struggled with identity verification processes | Implemented PoH strategies, resulting in a significant reduction in duplicate accounts within three months. |
+| Juan  | Product Manager in [DeFi](/what-is-defi) | Faced difficulty in ensuring fair governance | Adopted PoH for governance, leading to a successful implementation of "one person, one vote," enhancing engagement significantly. |
 | Maya  | Transitioning from Web2 to Web3 | Difficulty adapting to decentralized identity frameworks | Leveraged PoH processes, successfully integrating within her new role, and contributing to improved project outcomes. |
 
 ### Common Mistakes to Avoid
@@ -91,7 +91,7 @@ Monitor your progress consistently. Are you observing positive results? Be prepa
 ### FAQ
 
 **Q: How long will it take to implement Proof of Humanity?**  
-A: Most individuals see initial results within 2–4 weeks of consistent application, with significant improvements typically observable within 8–12 weeks. The timeline varies based on individual starting points, daily practice commitment, and active feedback-seeking. Professionals who track their progress—through metrics, peer feedback, or journaling—often achieve results more quickly than those who rely on passive observation.
+A: Most individuals see initial results within a few weeks of consistent application, with significant improvements typically observable within a couple of months. The timeline varies based on individual starting points, daily practice commitment, and active feedback-seeking. Professionals who track their progress—through metrics, peer feedback, or journaling—often achieve results more quickly than those who rely on passive observation.
 
 **Q: What if my workplace environment does not support these initiatives?**  
 A: You can still find ways to implement changes. Start with small, self-contained actions that do not require organizational approval, such as personal projects or informal discussions with supportive colleagues. Document your progress and results to build momentum. If, after sustained effort, the environment remains unsupportive, consider seeking opportunities in organizations that prioritize employee development.

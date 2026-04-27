@@ -30,12 +30,12 @@ Rabat's Web3 ecosystem thrives due to its proximity to decision-makers and its s
 
 Rabat's job market shows a strong demand for professionals with expertise in technology policy, public sector consulting, and research-oriented engineering.
 
-| Role | Description | Experience Level | Salary Range (MAD/month) |
+| Role | Description | Experience Level | Salary Range |
 |------|-------------|------------------|-------------------------|
-| Legal & Policy Officer (Digital Assets) | Advise government, banks, and corporations on regulatory matters | Experienced | 30,000 - 60,000+ |
-| Blockchain Researcher / R&D Engineer | Work in university labs, government centers, or corporate R&D departments | Mid-Level to Senior | 25,000 - 50,000+ |
-| GovTech Product Manager | Manage technology projects for public sector clients, focusing on government requirements | Senior | 35,000 - 65,000+ |
-| Business Development (Public Sector) | Build relationships with government entities to pilot blockchain solutions | Varies | 20,000 - 45,000+ |
+| Legal & Policy Officer (Digital Assets) | Advise government, banks, and corporations on regulatory matters | Experienced | Competitive |
+| Blockchain Researcher / R&D Engineer | Work in university labs, government centers, or corporate R&D departments | Mid-Level to Senior | Competitive |
+| GovTech Product Manager | Manage technology projects for public sector clients, focusing on government requirements | Senior | Competitive |
+| Business Development (Public Sector) | Build relationships with government entities to pilot blockchain solutions | Varies | Competitive |
 
 ### Building a Web3 Career in Rabat
 
@@ -50,120 +50,117 @@ Rabat's job market shows a strong demand for professionals with expertise in tec
 ## Salary Overview: Web3 Jobs in Rabat
 
 ### Local Opportunities (Policy & R&D Growth)
-- **Policy/Legal Expert:** MAD 40,000–70,000/month (~$4,000–$7,000 USD equivalent)
-- **R&D Engineer:** MAD 30,000–60,000/month (~$3,000–$6,000 USD equivalent)
-- **GovTech PM:** MAD 35,000–65,000/month (~$3,500–$6,500 USD equivalent)
+- **Policy/Legal Expert:** Competitive salary
+- **R&D Engineer:** Competitive salary
+- **GovTech PM:** Competitive salary
 
 ### Remote Opportunities (For Comparison)
-- **Mid-Level Developer:** $3,500–$5,500/month
-- **Senior Developer:** $5,500–$9,000+/month
-- **Policy/Research Lead:** $4,000–$8,000+/month
-- **Product Manager:** $4,000–$7,000/month
+- **Mid-Level Developer:** Competitive salary
+- **Senior Developer:** Competitive salary
+- **Policy/Research Lead:** Competitive salary
+- **Product Manager:** Competitive salary
 
 **Note:** Rabat salaries remain competitive with remote roles due to a government and policy premium.
 
-## Career Paths to $6,000+/Month in Rabat
+## Career Paths to Competitive Salaries in Rabat
 
 ### Path 1: Digital Assets Policy Expert (Government Advisor) (12-24 Month Timeline)
 
 **Months 1-6: Build Regulatory Knowledge**
 - Engage with Bank Al-Maghrib communications and assess Morocco's crypto stance.
 - Acquire foundational legal knowledge in blockchain law and FATF recommendations.
-- Establish connections with over 30 decision-makers in government, central banks, and corporations.
-- Publish two research reports analyzing Morocco's regulatory direction.
+- Establish connections with decision-makers in government, central banks, and corporations.
+- Publish research reports analyzing Morocco's regulatory direction.
 - Attend international policy conferences.
-- **Deliverable:** Expertise, relationships, published research, 2,000+ Twitter followers in policy circles.
+- **Deliverable:** Expertise, relationships, published research, and a growing professional network.
 
 **Months 7-12: Secure an Advisory Role**
 - Obtain a consulting contract with Bank Al-Maghrib or a government ministry.
-- Anticipate an offer of MAD 20,000–40,000/month (~$2,000–$4,000 USD).
-- Advise private firms on compliance, charging $150–$300/hour.
+- Anticipate an offer within the competitive salary range.
+- Advise private firms on compliance, charging competitive rates.
 - Publish additional research pieces.
-- **Expected Income:** $2,500–$3,500/month from consulting.
+- **Expected Income:** Competitive from consulting.
 
 **Months 13-18: Transition to Full-Time Advisory Role**
 - Shift to a full-time policy advisor position for a government entity or major corporation.
-- Expected salary: MAD 40,000–70,000/month (~$4,000–$7,000 USD).
+- Expected salary: Competitive.
 
 **Months 19-24: Leadership Position**
 - Aim for a role as Head of Digital Assets for Bank Al-Maghrib or a leading FinTech company.
 - Lead national CBDC strategies.
-- **Expected Compensation:** $5,000–$10,000+/month plus influence.
+- **Expected Compensation:** Competitive plus influence.
 
 #### Quick Wins:
-- Speaking engagements at policy conferences can yield $1,000–$3,000 per talk.
-- Consulting for multinational banks can offer $200–$400/hour.
+- Speaking engagements at policy conferences can yield competitive fees.
+- Consulting for multinational banks can offer competitive hourly rates.
 - Publishing in prestigious outlets enhances your reputation, leading to direct hiring offers.
 
 ### Path 2: GovTech Product Engineer (Public Sector Blockchain Systems) (10-18 Month Timeline)
 
 **Months 1-5: Acquire Public Sector Tech Expertise**
 - Learn about government procurement processes, regulatory compliance, and enterprise blockchain applications.
-- Develop three projects:
-  - A proof-of-concept for a digital identity system.
-  - A blockchain-based government document verification system.
-  - A simple CBDC-ready payment solution.
-- Network with over 20 government CTOs and innovation teams.
-- **Deliverable:** Three projects showcasing public sector understanding and relationships.
+- Develop projects that showcase your skills and understanding of public sector needs.
+- Network with government CTOs and innovation teams.
+- **Deliverable:** Projects showcasing public sector understanding and relationships.
 
 **Months 6-10: Land a Government Project**
 - Propose and secure a role in a government blockchain pilot.
-- Expected offer: MAD 30,000–50,000/month (~$3,000–$5,000 USD).
+- Expected offer within the competitive salary range.
 - Lead the technical implementation of one major project.
-- **Expected Income:** $3,000–$5,000/month.
+- **Expected Income:** Competitive.
 
 **Months 11-15: Establish Yourself as a Go-To Engineer**
 - Lead multiple blockchain implementations for government and corporate clients.
 - Build a reputation as a top GovTech engineer in Morocco.
-- **Expected Compensation:** $4,500–$7,000+/month.
+- **Expected Compensation:** Competitive.
 
 **Months 16-18: Scale Your Impact**
 - Transition to a full-time technical director role for a significant GovTech initiative or as a lead engineer in a public sector technology firm.
-- **Expected Compensation:** $5,000–$9,000+/month.
+- **Expected Compensation:** Competitive.
 
 #### Quick Wins:
 - Publish case studies on government blockchain projects to enhance your reputation.
-- Consult for organizations like the World Bank or IMF regarding Morocco's CBDC, earning $150–$300/hour.
-- Speak at international government tech conferences for $1,500–$3,000 per engagement.
+- Consult for organizations regarding Morocco's CBDC, earning competitive rates.
+- Speak at international government tech conferences for competitive fees.
 
 ### Path 3: Blockchain R&D Researcher (Academic/Corporate Innovation) (12-20 Month Timeline)
 
 **Months 1-6: Establish a Strong Research Foundation**
 - Enroll in advanced blockchain courses or engage in self-study.
-- Conduct original research on topics such as "Blockchain Applications for Morocco" or "CBDC Design Patterns."
-- Connect with over 20 researchers in universities, government labs, or corporations.
-- Publish one to two papers in blockchain journals or conferences.
+- Conduct original research on relevant topics.
+- Connect with researchers in universities, government labs, or corporations.
+- Publish papers in blockchain journals or conferences.
 - **Deliverable:** Research output, academic network, published works.
 
 **Months 7-12: Secure a Research Role**
 - Obtain a position at a university blockchain lab, government research center, or corporate R&D department.
-- Expected offer: MAD 25,000–45,000/month (~$2,500–$4,500 USD).
-- Lead one to two research projects and publish additional papers.
-- **Expected Income:** $2,500–$4,500/month.
+- Expected offer within the competitive salary range.
+- Lead research projects and publish additional papers.
+- **Expected Income:** Competitive.
 
 **Months 13-18: Gain Recognition and Scale**
 - Become recognized as a researcher in blockchain applications for developing economies.
 - Lead a major research initiative.
-- Expected salary: MAD 40,000–70,000/month (~$4,000–$7,000 USD).
+- Expected salary: Competitive.
 
 **Months 19-20: Achieve Thought Leadership**
 - Attain a principal researcher or chief scientist position for a major initiative.
-- **Expected Compensation:** $5,000–$10,000+/month.
+- **Expected Compensation:** Competitive.
 
 #### Quick Wins:
-- Secure grant funding for research projects ranging from $50,000 to $500,000.
-- Speak at research conferences, earning $1,000–$3,000 per talk.
-- Consult for international organizations for $150–$300/hour.
-- Explore patents or IP licensing opportunities that can yield $5,000–$50,000.
+- Secure grant funding for research projects.
+- Speak at research conferences, earning competitive fees.
+- Consult for international organizations for competitive rates.
+- Explore patents or IP licensing opportunities.
 
 ## Challenges and Solutions
 
 **Challenge 1: Slow Policy Progress**
-- **Reality:** Government decisions often take months or years to solidify.
+- **Reality:** Government decisions often take time to solidify.
 - **Solution:** Be patient. Those who understand bureaucratic processes hold a rare advantage. Specialize in navigating government timelines.
 
 **Challenge 2: Limited Local Industry**
-- **Reality:** Morocco's crypto sector is nascent compared to cities like Lagos or Accra.
+- **Reality:** Morocco's crypto sector is still developing.
 - **Solution:** Target policy or R&D roles that align with Rabat's strengths. These positions tend to offer competitive salaries.
 
 **Challenge 3: Language Barriers**
@@ -175,7 +172,7 @@ Rabat's job market shows a strong demand for professionals with expertise in tec
 - **Solution:** Develop expertise in the nuances of this uncertainty. Your insights will be invaluable once policies are clarified.
 
 **Challenge 5: Talent Drain to Europe**
-- **Reality:** Many skilled Moroccans relocate to cities like Paris or Brussels.
+- **Reality:** Many skilled Moroccans relocate to other countries.
 - **Solution:** Focus on government roles that cannot be performed remotely. Build influence and wealth within Morocco first.
 
 ## 90-Day Quick-Start Action Plan
@@ -184,45 +181,45 @@ Rabat's job market shows a strong demand for professionals with expertise in tec
 - [ ] Establish professional profiles on GitHub, Twitter, and LinkedIn.
 - [ ] Enroll in a blockchain and law course (Coursera, edX).
 - [ ] Follow Bank Al-Maghrib communications and FATF guidelines.
-- [ ] Connect with 20 individuals in government and policy roles.
+- [ ] Connect with individuals in government and policy roles.
 
 **Weeks 3-4:**
-- [ ] Publish your inaugural article: "Morocco's Crypto Regulatory Path" (2,000+ words).
-- [ ] Network: Reach out to 30 policy and government contacts.
+- [ ] Publish your inaugural article: "Morocco's Crypto Regulatory Path."
+- [ ] Network: Reach out to policy and government contacts.
 - [ ] Attend one policy or government technology event.
 - [ ] Enroll in Alchemy University for a free Web3 course.
 
 **Weeks 5-6:**
 - [ ] Develop your first project: a digital identity or payment system demo.
-- [ ] Publish a second article: "CBDC Design Considerations" or similar.
-- [ ] Apply to five government tech or innovation roles.
-- [ ] Connect with ten blockchain academics.
+- [ ] Publish a second article on relevant topics.
+- [ ] Apply to government tech or innovation roles.
+- [ ] Connect with blockchain academics.
 
 **Weeks 7-8:**
 - [ ] Build a second project focused on document verification or a similar GovTech application.
 - [ ] Publish a third article or speak at one event.
-- [ ] Meet five key government or policy contacts for coffee.
+- [ ] Meet key government or policy contacts for coffee.
 - [ ] Attend one international policy conference (virtual or in-person).
 
 **Weeks 9-10:**
 - [ ] Complete projects with thorough documentation.
 - [ ] Apply to consulting firms engaged with government projects.
-- [ ] Secure your first consulting contract ($1,000–$2,500).
-- [ ] Grow your Twitter following to 1,000+ in policy circles.
+- [ ] Secure your first consulting contract.
+- [ ] Grow your Twitter following in policy circles.
 
 **Weeks 11-12:**
 - [ ] Finalize your third project (infrastructure or research-focused).
 - [ ] Host an event or speak publicly on policy matters.
-- [ ] Aim for one to two serious consulting or advisory contracts.
+- [ ] Aim for serious consulting or advisory contracts.
 - [ ] Reflect on your journey: "Three Months Building Policy Expertise in Rabat."
 
 **Outputs After 90 Days:**
-- Three completed projects on GitHub.
-- Three to four published articles.
-- One or more consulting contracts ($1,000–$3,000).
-- A strong network of over 50 government and policy contacts.
-- A Twitter following of 1,000+.
-- One or two speaking engagements.
+- Completed projects on GitHub.
+- Published articles.
+- Consulting contracts.
+- A strong network of government and policy contacts.
+- A growing Twitter following.
+- Speaking engagements.
 - Clear positioning as a policy and GovTech expert.
 
 ## Frequently Asked Questions
@@ -232,15 +229,15 @@ The legal environment is evolving, with a focus on regulation:
 - Crypto is not banned; regulations are developing.
 - The central bank is actively researching digital assets.
 - [Remote work](/remote-work-in-web3) is completely legal.
-- Expect policy clarity within two to three years.
+- Expect policy clarity in the coming years.
 
-**What is the fastest path to earning $3,000 per month from Rabat?**  
+**What is the fastest path to earning a competitive salary from Rabat?**  
 The most efficient route involves:  
-1. Consulting on regulatory questions ($150–$300/hour) within the first two to three months.
-2. Landing a corporate advisory role within four to six months.
-3. Securing a full-time government position within six to twelve months.
+1. Consulting on regulatory questions within the first few months.
+2. Landing a corporate advisory role within several months.
+3. Securing a full-time government position within a year.
 
-The quickest approach combines consulting while pursuing a full-time opportunity, potentially yielding $2,000–$3,000 within three to four months.
+The quickest approach combines consulting while pursuing a full-time opportunity.
 
 **Should I focus on policy or technical engineering?**  
 Focusing on policy and regulatory aspects provides a distinct advantage. Rabat's government-centric focus favors deep expertise in policy, with technical skills being a secondary asset.
@@ -252,7 +249,7 @@ Establish credibility by:
 - Networking with officials from ministries and central banks.
 - Speaking at government-related events.
 
-**Is it advisable to move to Brussels or Paris?**  
+**Is it advisable to move to another country?**  
 Staying in Rabat is preferable:  
 - Government roles are concentrated in Rabat, providing a political power base.
 - Salaries in Rabat remain competitive due to the government premium.
@@ -281,21 +278,21 @@ Explore several avenues:
 
 **What does salary progression look like?**  
 Here’s a realistic salary progression:  
-- **Year 1:** $2,000–$3,500/month (consulting).
-- **Year 2:** $3,500–$5,000/month (advisory role).
-- **Year 3+:** $5,000–$10,000+/month (government or corporate leadership).
+- **Year 1:** Competitive (consulting).
+- **Year 2:** Competitive (advisory role).
+- **Year 3+:** Competitive (government or corporate leadership).
 
 **Is obtaining an advanced degree necessary?**  
 While not essential, an advanced degree can be beneficial:  
-- Self-study and consulting can yield $2,000–$4,000/month.
-- A graduate degree (in law, policy, or technology) can enhance your earning potential to $4,000–$8,000+/month.
+- Self-study and consulting can yield competitive salaries.
+- A graduate degree (in law, policy, or technology) can enhance your earning potential.
 - Consider working while pursuing a part-time graduate program.
 
 **Should I consider launching a startup?**  
 Beginning in government is a more strategic choice:  
 - Build invaluable policy relationships.
 - Gain insights into the regulatory landscape.
-- Accumulate capital over two to three years.
+- Accumulate capital over time.
 - Launch a venture from a position of strength.
 
 **How can I maintain professionalism and avoid scams?**  

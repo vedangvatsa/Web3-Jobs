@@ -38,15 +38,15 @@ Standard AMMs primarily facilitate spot trading, where real assets are exchanged
 
 A vAMM addresses these limitations by dissociating the price-setting mechanism from the actual assets involved. The core components include:
 
-1. **The Virtual Pool**: A smart contract initializes with a *virtual* quantity of [tokens](/what-is-a-token). For instance, a vETH/vUSDC pool may be set up with a fictional 100 vETH and 350,000 vUSDC. These tokens exist only as numbers for the purpose of initializing the `x * y = k` curve.
+1. **The Virtual Pool**: A smart contract initializes with a *virtual* quantity of [tokens](/what-is-a-token). For instance, a vETH/vUSDC pool may be set up with a fictional quantity of vETH and vUSDC. These tokens exist only as numbers for the purpose of initializing the `x * y = k` curve.
 
 2. **The Collateral Vault**: This smart contract gathers all traders' real collateral, usually in a stablecoin like USDC. All profits and losses are reconciled through this vault.
 
 3. **The Trading Process**:
-   - A trader, say Alice, decides to take a 10x long position on 1 [ETH](/what-is-ethereum) and deposits 350 USDC as collateral into the vault.
+   - A trader, say Alice, decides to take a 10x long position on 1 [ETH](/what-is-ethereum) and deposits collateral into the vault.
    - She conducts a "trade" on the vAMM, with the smart contract registering her purchase of 10 vETH (1 ETH * 10x leverage).
    - The vAMM adjusts its virtual reserves according to the `x * y = k` formula, affecting the price of vETH on the curve.
-   - Importantly, no actual tokens change hands. The vAMM simply updates its internal numbers, confirming Alice's 10x long position while her 350 USDC collateral remains in the vault for potential loss coverage.
+   - Importantly, no actual tokens change hands. The vAMM simply updates its internal numbers, confirming Alice's 10x long position while her collateral remains in the vault for potential loss coverage.
 
 4. **Funding Payments**: To align the vAMM's price with real-world asset prices (from a price oracle), perpetual protocols implement a funding payment system. If the vAMM price exceeds the oracle price, traders holding long positions pay those holding short positions. Conversely, if the vAMM price is lower, shorts pay longs. This mechanism encourages traders to execute trades that realign the vAMM price with the index price.
 
@@ -78,7 +78,7 @@ A vAMM addresses these limitations by dissociating the price-setting mechanism f
 ### Frequently Asked Questions (FAQ)
 
 **Where do the profits from successful trades originate?**  
-Profits derive directly from the collateral of losing traders. The central collateral vault reconciles all profits and losses. For example, if longs achieve a collective profit of $1 million, shorts must collectively incur a loss of $1 million.
+Profits derive directly from the collateral of losing traders. The central collateral vault reconciles all profits and losses. For example, if longs achieve a collective profit, shorts must collectively incur a corresponding loss.
 
 **What if the collateral vault lacks sufficient funds for payouts?**  
 This scenario represents a critical risk for vAMM systems. To mitigate this, protocols often maintain an "insurance fund" supported by liquidation fees or protocol revenue. This fund serves as a backup to cover winners if the losing side cannot fulfill their losses.
@@ -119,11 +119,11 @@ Track your development closely. Are you achieving your learning objectives? Adju
 
 ### Example 1: Sarah's Success in Trading
 
-Sarah, a developer at a blockchain startup, initially struggled with understanding derivatives trading. After applying vAMM strategies, she improved her trading accuracy significantly, resulting in a 40% increase in her profit margins within just three months.
+Sarah, a developer at a blockchain startup, initially struggled with understanding derivatives trading. After applying vAMM strategies, she improved her trading accuracy significantly, resulting in a notable increase in her profit margins within just three months.
 
 ### Example 2: Juan’s Product Management Journey
 
-Juan, a product manager in the DeFi sector, faced challenges with market volatility. By utilizing vAMM principles, he effectively managed his trading risk and achieved a 25% increase in overall trading performance over six months.
+Juan, a product manager in the DeFi sector, faced challenges with market volatility. By utilizing vAMM principles, he effectively managed his trading risk and achieved a significant increase in overall trading performance over six months.
 
 ### Example 3: Maya's Transition to Web3
 

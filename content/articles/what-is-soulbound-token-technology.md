@@ -81,11 +81,11 @@ Monitor your progress regularly. Are you achieving your goals? Adjust your metho
 
 #### Example 1: Developer Success Story
 
-Sarah, a developer at a blockchain startup, faced challenges in establishing her professional identity online. After applying principles of SBTs, she received SBTs from her university and employers. Within three months, her visibility in the industry increased significantly, leading to a 30% rise in job offers.
+Sarah, a developer at a blockchain startup, faced challenges in establishing her professional identity online. After applying principles of SBTs, she received SBTs from her university and employers. Within a few months, her visibility in the industry increased significantly, leading to a rise in job offers.
 
 #### Example 2: Product Manager Achievement
 
-Juan, a product manager in the DeFi sector, struggled with credibility in a competitive environment. By strategically obtaining SBTs from reputable organizations, he improved his professional standing. This led to a promotion within six months, showcasing the effectiveness of leveraging SBTs for career growth.
+Juan, a product manager in the DeFi sector, struggled with credibility in a competitive environment. By strategically obtaining SBTs from reputable organizations, he improved his professional standing. This led to a promotion within a few months, showcasing the effectiveness of leveraging SBTs for career growth.
 
 #### Example 3: Transitioning from Web2 to Web3
 
@@ -102,7 +102,7 @@ Maya transitioned from a traditional Web2 role to a Web3 environment. By utilizi
 ### FAQ
 
 **Q: How long will it take to implement SBT strategies?**  
-A: Initial results typically appear within 2–4 weeks of consistent application. Significant improvements often become visible within 8–12 weeks. The timeline depends on your starting point, daily practice commitment, and willingness to seek feedback. Professionals who actively track their progress through metrics or peer feedback usually achieve faster results than those who passively observe.
+A: Initial results typically appear within a few weeks of consistent application. Significant improvements often become visible within a few months. The timeline depends on your starting point, daily practice commitment, and willingness to seek feedback. Professionals who actively track their progress through metrics or peer feedback usually achieve faster results than those who passively observe.
 
 **Q: What if my workplace doesn’t support SBT implementation?**  
 A: You usually have more agency than it seems, even in challenging environments. Start with small, manageable actions that don’t require organizational approval. Focus on individual habits or personal projects to gradually build momentum. Document your progress; if the environment ultimately hinders your development, this information can guide your next career move.

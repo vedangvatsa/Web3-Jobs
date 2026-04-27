@@ -49,7 +49,7 @@ The advantages of bleisure extend beyond employees; companies that embrace this 
 **For Companies:**
 - **Talent Attraction and Retention:** A flexible bleisure-friendly policy acts as a powerful tool for attracting and retaining top talent in competitive markets.
 - **Enhanced Productivity and Creativity:** Employees who feel happy and fulfilled, and who enjoy a sense of autonomy, tend to be more productive and creative.
-- **Global Presence:** A distributed global team allows companies to understand diverse markets and maintain 24/7 operational capabilities.
+- **Global Presence:** A distributed global team allows companies to understand diverse markets and maintain operational capabilities.
 
 ### Challenges and Future Outlook
 
@@ -87,8 +87,8 @@ Regularly track your progress. Are you achieving results? Adjust your methods ba
 
 | Name  | Role               | Company                     | Outcome                                                    |
 |-------|--------------------|-----------------------------|-----------------------------------------------------------|
-| Sarah | Developer          | Blockchain Startup          | Improved productivity by 30% within 3 months.             |
-| Juan  | Product Manager     | DeFi Platform               | Achieved a 25% increase in team engagement after implementing bleisure. |
+| Sarah | Developer          | Blockchain Startup          | Improved productivity within 3 months.                    |
+| Juan  | Product Manager     | DeFi Platform               | Achieved an increase in team engagement after implementing bleisure. |
 | Maya  | Transitioning to Web3 | Web2 Tech Company         | Adapted to Web3 culture in just 6 weeks by embracing flexible work arrangements. |
 
 ### Common Mistakes to Avoid
@@ -102,13 +102,13 @@ Regularly track your progress. Are you achieving results? Adjust your methods ba
 ### FAQ
 
 **Q: How long will this take to implement?**  
-A: Many individuals observe initial results within 2 to 4 weeks of consistent application. Significant improvements generally appear within 8 to 12 weeks. The timeline varies based on your starting point, daily practice commitment, and active feedback solicitation. Professionals who track their progress through metrics or peer feedback typically advance more quickly than those who rely on passive observation.
+A: Many individuals observe initial results within a few weeks of consistent application. Significant improvements generally appear within a couple of months. The timeline varies based on your starting point, daily practice commitment, and active feedback solicitation. Professionals who track their progress through metrics or peer feedback typically advance more quickly than those who rely on passive observation.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you likely have more agency than you think. Start with small, self-contained actions that don't require organizational approval, such as developing personal habits or engaging in internal conversations. Build momentum gradually instead of waiting for permission. Document your successes. If, after sustained effort, the environment still hinders your growth, consider seeking opportunities in organizations that prioritize employee development.
 
 **Q: How does this apply specifically to Web3?**  
-A: Web3 organizations differ structurally from traditional companies, emphasizing the importance of these skills. Flatter hierarchies allow more direct access to decision-makers, but they also require greater self-direction. Distributed, remote teams necessitate effective written communication and asynchronous collaboration. The pace of work is often faster, with product cycles occurring in weeks instead of quarters. Adapting to this environment is a core professional skill in Web3.
+A: Web3 organizations differ structurally from traditional companies, emphasizing the importance of these skills. Flatter hierarchies allow more direct access to decision-makers, but they also require greater self-direction. Distributed, remote teams necessitate effective written communication and asynchronous collaboration. The pace of work is often faster, with product cycles occurring in shorter timeframes. Adapting to this environment is a core professional skill in Web3.
 
 **Q: Can I implement this alongside my current role?**  
 A: Yes, this approach is recommended for most professionals. Additional hours are rarely necessary; instead, focus on intentionality during the hours you already have. Identify two or three practices that align with your daily responsibilities and apply them consistently. The cumulative effect of small, deliberate improvements typically outperforms sporadic large efforts.

@@ -88,13 +88,13 @@ Track your progress consistently. Are you achieving desired outcomes? Use feedba
 ### Real-World Applications
 
 #### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with project funding and liquidity. After implementing bonding curves in her tokenomics strategy, she achieved a 40% increase in liquidity within three months, facilitating smoother transactions and greater investor confidence.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with project funding and liquidity. After implementing bonding curves in her tokenomics strategy, she achieved a significant increase in liquidity within three months, facilitating smoother transactions and greater investor confidence.
 
 #### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), struggled with user acquisition. He introduced a bonding curve to his project's token model, which resulted in a 25% increase in early adopters and improved community engagement. By leveraging predictable pricing, he enhanced the project’s visibility and attractiveness.
+Juan, a product manager in [DeFi](/what-is-defi), struggled with user acquisition. He introduced a bonding curve to his project's token model, which resulted in a notable increase in early adopters and improved community engagement. By leveraging predictable pricing, he enhanced the project’s visibility and attractiveness.
 
 #### Example 3
-Maya transitioned from a traditional Web2 role to Web3. By applying bonding curve principles, she quickly adapted to the new ecosystem, launching a community token that raised $100,000 in its first week. Her success highlights the effectiveness of bonding curves regardless of background.
+Maya transitioned from a traditional Web2 role to Web3. By applying bonding curve principles, she quickly adapted to the new ecosystem, launching a community token that raised significant funds in its first week. Her success highlights the effectiveness of bonding curves regardless of background.
 
 ### Common Pitfalls to Avoid
 
@@ -111,7 +111,7 @@ Maya transitioned from a traditional Web2 role to Web3. By applying bonding curv
 ### FAQ
 
 **Q: How long will it take to see results from implementing bonding curves?**  
-A: Initial results often appear within 2–4 weeks of consistent application, with significant improvements visible in 8–12 weeks. The timeline may vary based on your starting point and the extent of daily practice. Professionals who actively seek feedback typically accelerate their progress.
+A: Initial results often appear within a few weeks of consistent application, with significant improvements visible in a couple of months. The timeline may vary based on your starting point and the extent of daily practice. Professionals who actively seek feedback typically accelerate their progress.
 
 **Q: What if my workplace environment lacks support for bonding curves?**  
 A: Even in challenging environments, you may possess more agency than you realize. Begin with small, self-contained actions that don’t require widespread buy-in. Gradually build momentum and document your results. If structural barriers persist, consider that information when evaluating your career trajectory.

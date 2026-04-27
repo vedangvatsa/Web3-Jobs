@@ -86,9 +86,9 @@ To discover the latest community, support, and development roles within the Phil
 - Manage the entire community ecosystem.
 
 **Quick Wins:**
-- Apply for community grants ($2K - $10K) for gaming projects.
+- Apply for community grants for gaming projects.
 - Lead a guild to earn game rewards and tips.
-- Offer consulting services ($25 - $75/hour).
+- Offer consulting services.
 
 ### Path 2: GameFi Developer/Game Engineer (12-20 Month Timeline)
 
@@ -114,9 +114,9 @@ To discover the latest community, support, and development roles within the Phil
 - **Expected Compensation:** PHP 150,000 - 300,000+/month plus equity.
 
 **Quick Wins:**
-- Participate in game hackathons with prize pools ranging from PHP 50K to 500K.
-- Seek grants for game development totaling $10K to $100K.
-- Offer consulting on game tokenomics at $50 to $150/hour.
+- Participate in game hackathons with prize pools.
+- Seek grants for game development.
+- Offer consulting on game tokenomics.
 
 ### Path 3: P2E Specialist/Gaming Economy Designer (10-18 Month Timeline)
 
@@ -142,9 +142,9 @@ To discover the latest community, support, and development roles within the Phil
 - **Expected Compensation:** PHP 120,000 - 300,000/month plus equity.
 
 **Quick Wins:**
-- Offer game advisory services at $50 to $150/hour.
-- Provide tokenomics consulting at $2K to $20K per project.
-- Speak at gaming conferences for PHP 20K to 100K.
+- Offer game advisory services.
+- Provide tokenomics consulting.
+- Speak at gaming conferences.
 
 ## Advantages of the Philippines in GameFi
 
@@ -162,7 +162,7 @@ The Philippines presents a unique opportunity for talent in GameFi:
 - *Solution:* Focus on creating high-quality, sustainable games rather than speculative projects.
 
 **Challenge 2: Lower Local Salaries**
-- *Reality:* PHP 100K translates to approximately $1,700, which is lower than Western counterparts.
+- *Reality:* Local salaries may be lower than those in Western counterparts.
 - *Solution:* Target international companies for remote roles to earn salaries in USD.
 
 **Challenge 3: Saturation in Community Roles**
@@ -237,7 +237,7 @@ Yes, you can engage in gaming, earn rewards, and build your [portfolio](/buildin
 This remains a risk. Focus on projects with proven sustainable models and avoid untested experimental games.
 
 **Which path is better—gaming or development?**  
-Development roles generally offer higher salaries (PHP 150K+), while gaming and community roles are more accessible for entry-level candidates.
+Development roles generally offer higher salaries, while gaming and community roles are more accessible for entry-level candidates.
 
 **Is there a long-term career path in this field?**  
 Yes, as the industry matures, roles will become more specialized and stable, offering promising career growth.

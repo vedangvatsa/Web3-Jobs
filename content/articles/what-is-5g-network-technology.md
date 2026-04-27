@@ -20,7 +20,7 @@ The transition from 3G to 4G prioritized bringing high-speed internet to mobile 
 
 **1. Enhanced Mobile Broadband (eMBB) - Faster Speeds**
 
-Most users will notice 5G’s superior speed first. While 4G typically delivers speeds around 20-100 Mbps, 5G can achieve speeds exceeding 1 Gbps, with some networks reaching up to 10 Gbps. This allows users to download a full-length HD movie in seconds instead of minutes. Enhanced speeds also support high-quality 4K streaming and immersive experiences in [augmented reality (AR)](/what-is-augmented-reality-technology) and virtual reality (VR) applications.
+Most users will notice 5G’s superior speed first. While 4G typically delivers speeds around 20-100 Mbps, 5G can achieve speeds exceeding 1 Gbps, with some networks reaching even higher. This allows users to download a full-length HD movie in seconds instead of minutes. Enhanced speeds also support high-quality 4K streaming and immersive experiences in [augmented reality (AR)](/what-is-augmented-reality-technology) and virtual reality (VR) applications.
 
 **2. Ultra-Reliable Low-Latency Communications (URLLC) - Less Lag**
 
@@ -28,7 +28,7 @@ Latency, the time delay between sending and receiving a signal, drops dramatical
 
 **3. Massive Machine-Type Communications (mMTC) - More Connections**
 
-5G networks can support up to 1 million connected devices per square kilometer, a substantial increase from 4G's capacity. This capability is crucial for the IoT, allowing thousands of sensors in smart cities, factories, or agricultural settings to connect without overwhelming the network. This infrastructure will drive the development of smart homes and automated industries.
+5G networks can support a significantly larger number of connected devices per square kilometer compared to 4G's capacity. This capability is crucial for the IoT, allowing thousands of sensors in smart cities, factories, or agricultural settings to connect without overwhelming the network. This infrastructure will drive the development of smart homes and automated industries.
 
 ### How Does 5G Work?
 
@@ -104,9 +104,9 @@ Track your progress and analyze outcomes. Adjust your strategy based on feedback
 
 ### Real-World Examples of 5G Applications
 
-- **Example 1**: Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with network latency that hindered her project deadlines. After adopting 5G, she experienced reduced latency and improved collaboration with her remote team, leading to project completion two weeks ahead of schedule.
+- **Example 1**: Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with network latency that hindered her project deadlines. After adopting 5G, she experienced reduced latency and improved collaboration with her remote team, leading to project completion ahead of schedule.
 
-- **Example 2**: Juan, a product manager in [DeFi](/what-is-defi), struggled with real-time data analysis for his applications. Transitioning to a 5G-enabled environment allowed him to implement real-time analytics, resulting in a 30% increase in user engagement.
+- **Example 2**: Juan, a product manager in [DeFi](/what-is-defi), struggled with real-time data analysis for his applications. Transitioning to a 5G-enabled environment allowed him to implement real-time analytics, resulting in increased user engagement.
 
 - **Example 3**: Maya, transitioning from Web2 to Web3, leveraged 5G's capabilities to enhance her workflow. The speed and reliability of 5G enabled her to manage multiple online meetings and collaborative sessions efficiently, significantly improving her productivity.
 

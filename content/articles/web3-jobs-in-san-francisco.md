@@ -18,8 +18,8 @@ The Bay Area's Web3 ecosystem reflects its Silicon Valley heritage, characterize
 
 The Bay Area's leadership in Web3 stems from its rich talent pool, significant capital, and an unwavering commitment to innovation.
 
-- **Epicenter of Protocol Engineering:** The region boasts the highest number of protocol-level engineers worldwide. Core development for new Layer 1 blockchains, Layer 2 scaling solutions, and intricate cryptographic systems occurs here. The emphasis is on deep, systems-level thinking.
-- **Venture Capital Powerhouse:** Sand Hill Road stands as the historical center for venture capital, extending its influence into Web3. The Bay Area houses crypto-native giants such as a16z Crypto, Paradigm, and Pantera Capital. This close proximity to capital provides a significant advantage for entrepreneurs and fosters the emergence of well-funded companies.
+- **Epicenter of Protocol Engineering:** The region boasts a high number of protocol-level engineers worldwide. Core development for new Layer 1 blockchains, Layer 2 scaling solutions, and intricate cryptographic systems occurs here. The emphasis is on deep, systems-level thinking.
+- **Venture Capital Powerhouse:** Sand Hill Road stands as the historical center for venture capital, extending its influence into Web3. The Bay Area houses crypto-native giants and numerous venture capital firms. This close proximity to capital provides a significant advantage for entrepreneurs and fosters the emergence of well-funded companies.
 - **Research-Driven Culture:** The region is a nexus for research in cryptography, distributed systems, and game theory, bolstered by connections to elite institutions like Stanford and UC Berkeley. This synergy translates academic research into practical applications for new protocols and startups.
 - **Established Community:** The Bay Area hosts one of the oldest and most vibrant crypto communities, featuring high-quality technical meetups, workshops, and significant events like SF Blockchain Week.
 
@@ -27,13 +27,13 @@ The Bay Area's leadership in Web3 stems from its rich talent pool, significant c
 
 The San Francisco Bay Area commands some of the highest salaries for Web3 positions, reflecting the region's high cost of living and intense competition for top technical talent.
 
-| Role                                         | Experience Level         | Base Salary (USD)          |
+| Role                                         | Experience Level         | Base Salary Range          |
 |----------------------------------------------|--------------------------|-----------------------------|
-| Protocol Engineer (Rust, Go, C++)            | Senior (5+ years)       | $250,000 - $400,000+       |
-| Smart Contract Security Auditor / Researcher  | Senior                   | $250,000 - $350,000+       |
-| Zero-Knowledge (ZK) Cryptography Engineer    | PhD or equivalent        | $220,000 - $350,000+       |
-| Senior Smart Contract Developer (Solidity)   | Senior                   | $200,000 - $280,000+       |
-| Technical Product Manager (Protocol-level)   | Senior                   | $200,000 - $260,000+       |
+| Protocol Engineer (Rust, Go, C++)            | Senior (5+ years)       | Significant compensation     |
+| Smart Contract Security Auditor / Researcher  | Senior                   | Significant compensation     |
+| Zero-Knowledge (ZK) Cryptography Engineer    | PhD or equivalent        | Significant compensation     |
+| Senior Smart Contract Developer (Solidity)   | Senior                   | Significant compensation     |
+| Technical Product Manager (Protocol-level)   | Senior                   | Significant compensation     |
 
 *Note: The figures represent base salary estimates and do not include bonuses, token grants, or equity packages, which can significantly increase total compensation for senior roles.*
 
@@ -63,7 +63,7 @@ The Web3 sector is experiencing remarkable growth, with demand for qualified tal
 
 The dynamics of the Web3 job market differ markedly from its Web2 predecessor:
 
-- **Compensation:** Web3 roles generally offer 20-40% higher pay than equivalent Web2 positions, with considerable bonus and equity components.
+- **Compensation:** Web3 roles generally offer higher pay than equivalent Web2 positions, with considerable bonus and equity components.
 - **Remote-First Culture:** Many Web3 organizations operate fully or primarily remote, offering flexibility not commonly found in traditional tech.
 - **Rapid Growth:** Career advancement occurs more swiftly in Web3 due to rapid scaling and a shortage of qualified talent.
 - **Equity Potential:** Token and equity packages are standard, providing significant wealth-building opportunities.
@@ -110,7 +110,7 @@ Focus on roles that align with your existing expertise and new Web3 knowledge:
 ## Real-World Success Stories
 
 ### Developer to Smart Contract Engineer
-Alex, a backend engineer with five years of experience at a FAANG company, spent three months learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a prominent DeFi project, leading to a transition with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a major tech company, spent three months learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a prominent DeFi project, leading to a transition with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products, combined with an understanding of Web3 technology, made her a valuable asset. She secured a role at a leading DeFi protocol within four weeks.
@@ -134,7 +134,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through diligent 
 A: No. The Web3 ecosystem encompasses various roles beyond engineering. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in high demand. Your existing skills are applicable, and you only need to understand the Web3 context, including wallets, DAOs, and the importance of decentralization.
 
 **Q: How much can I earn in Web3?**  
-A: Web3 compensation consistently exceeds that of Web2 roles. Base salaries are typically 30-60% higher, especially for Solidity engineers and smart contract auditors due to talent scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 yearly.
+A: Web3 compensation consistently exceeds that of Web2 roles. Base salaries are typically higher, especially for Solidity engineers and smart contract auditors due to talent scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn significant compensation yearly.
 
 **Q: Is it risky to transition to Web3?**  
 A: Every career change carries risk, and Web3 is no exception, given market volatility and project lifecycle challenges. However, you can mitigate this risk by targeting well-funded protocols with proven revenue. Verify team backgrounds and ensure your base salary is in fiat, not solely in tokens. Professionals who approach Web3 as a long-term career move rather than a quick financial gain tend to establish sustainable roles that withstand market fluctuations.
@@ -143,11 +143,11 @@ A: Every career change carries risk, and Web3 is no exception, given market vola
 A: Most professionals make a significant transition to Web3 within 2-6 months of focused effort. Engineers and product managers often transition quickly, as their core skills are directly applicable. Non-technical roles, such as marketing and community management, can transition in as little as 4-8 weeks with concentrated self-study. Actively engaging in projects or contributing to open-source protocols can significantly expedite the process.
 
 **Q: What if the crypto market crashes?**  
-A: Historically, bear markets provide excellent opportunities to enter Web3. When speculative hype diminishes, teams focus on building tangible products and prioritize talent over token value. Infrastructure companies, security firms, and developer tool providers typically maintain steady hiring regardless of market conditions. Those who actively developed during the 2018-2019 bear market are now among the most sought-after professionals.
+A: Historically, bear markets provide excellent opportunities to enter Web3. When speculative hype diminishes, teams focus on building tangible products and prioritize talent over token value. Infrastructure companies, security firms, and developer tool providers typically maintain steady hiring regardless of market conditions. Those who actively developed during previous bear markets are now among the most sought-after professionals.
 
 ## Key Takeaways
 
-- Web3 offers substantial compensation premiums (20-40% above Web2 roles), rapid career growth, and the chance to contribute to transformative technology in finance, governance, and digital ownership across various industries.
+- Web3 offers substantial compensation premiums, rapid career growth, and the chance to contribute to transformative technology in finance, governance, and digital ownership across various industries.
 - Most professionals complete a meaningful transition to Web3 within 2-6 months of focused effort, with engineers and product managers typically moving the fastest due to directly transferable skills.
 - Existing domain expertise is immensely valuable in Web3. Rather than starting from scratch, emphasize adding blockchain-specific context to your current skills, such as wallets and tokenomics.
 - Networking through Discord communities and Twitter engagement, combined with demonstrable portfolio projects on GitHub, consistently leads to better outcomes than formal certifications in securing Web3 roles.

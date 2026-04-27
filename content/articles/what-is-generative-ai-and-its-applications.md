@@ -27,7 +27,7 @@ GANs have revolutionized the generation of realistic images. Each GAN comprises 
 * **The Generator**: This network generates fake data, such as images of human faces. It starts with random noise and learns to refine its output to produce increasingly realistic images.
 * **The Discriminator**: This network acts as a critic, trained on authentic data. It learns to differentiate between genuine images and those crafted by the Generator.
 
-During training, the Generator strives to outsmart the Discriminator, while the Discriminator enhances its ability to detect fakes. Through millions of iterations, the Generator becomes adept at creating images indistinguishable from real photographs.
+During training, the Generator strives to outsmart the Discriminator, while the Discriminator enhances its ability to detect fakes. Through many iterations, the Generator becomes adept at creating images indistinguishable from real photographs.
 
 **2. Transformer Models and LLMs**
 
@@ -98,10 +98,10 @@ Regularly monitor your advancements. Are you achieving your goals? Be prepared t
 ### Real-World Case Studies
 
 **Example 1**  
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with project timelines. After implementing a structured approach to utilize generative AI tools, she improved her workflow efficiency by 30% within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with project timelines. After implementing a structured approach to utilize generative AI tools, she improved her workflow efficiency significantly within a few months.
 
 **Example 2**  
-Juan, a product manager in [DeFi](/what-is-defi), struggled with generating product ideas. By integrating AI into his brainstorming sessions, he was able to produce five new product concepts that received positive feedback from stakeholders, demonstrating the effectiveness of this technology.
+Juan, a product manager in [DeFi](/what-is-defi), struggled with generating product ideas. By integrating AI into his brainstorming sessions, he was able to produce several new product concepts that received positive feedback from stakeholders, demonstrating the effectiveness of this technology.
 
 **Example 3**  
 Maya transitioned from Web2 to Web3 and embraced generative AI as part of her adaptation strategy. Her proactive approach led to securing a new role in a Web3 firm, showcasing the technology's potential to facilitate career transitions.

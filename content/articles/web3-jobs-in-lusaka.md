@@ -27,15 +27,15 @@ Lusaka's Web3 community is characterized by a collaborative spirit and a focus o
 
 The Web3 job market in Lusaka is small but expanding. Significant roles often involve remote positions with international companies eager to hire African talent or roles within local FinTech startups integrating blockchain.
 
-| Role | Local Monthly Salary (ZMW) | Remote Monthly Salary (USD) |
-|------|---------------------------|-----------------------------|
-| Full-Stack / Mobile Developer | 25,000 - 45,000 | 3,000 - 6,000+ |
-| Community Manager / Educator | 15,000 - 30,000 | N/A |
-| Product/Project Manager (AgriTech/FinTech) | 20,000 - 40,000+ | N/A |
+| Role | Local Monthly Salary | Remote Monthly Salary |
+|------|----------------------|-----------------------|
+| Full-Stack / Mobile Developer | Competitive | Competitive |
+| Community Manager / Educator | Competitive | N/A |
+| Product/Project Manager (AgriTech/FinTech) | Competitive | N/A |
 
-- **Full-Stack / Mobile Developer:** Developers skilled in creating mobile-first applications are in high demand. Mid-level developers can expect salaries ranging from ZMW 25,000 to 45,000, while senior developers working remotely for global companies can earn $3,000 to $6,000 or more.
-- **Community Manager / Educator:** Professionals who can foster local communities, create educational content, and connect with the global Web3 ecosystem are essential. Mid-level community managers can earn between ZMW 15,000 and 30,000 monthly.
-- **Product/Project Manager in AgriTech/FinTech:** Individuals skilled in managing blockchain pilot projects in critical local industries can expect salaries of ZMW 20,000 to 40,000 or more.
+- **Full-Stack / Mobile Developer:** Developers skilled in creating mobile-first applications are in high demand. Mid-level developers can expect competitive salaries, while senior developers working remotely for global companies can earn significant compensation.
+- **Community Manager / Educator:** Professionals who can foster local communities, create educational content, and connect with the global Web3 ecosystem are essential. Mid-level community managers can earn competitive monthly salaries.
+- **Product/Project Manager in AgriTech/FinTech:** Individuals skilled in managing blockchain pilot projects in critical local industries can expect competitive salaries.
 
 ### Building a Web3 Career in Lusaka
 
@@ -50,42 +50,42 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 ## Salary Overview: Web3 Jobs in Lusaka
 
 ### Local Opportunities (Expanding)
-- **Junior Developer (Local Startup):** ZMW 30,000 – 50,000/month (~$1,450 – $2,410 USD)
-- **Community Manager:** ZMW 20,000 – 40,000/month (~$970 – $1,940 USD)
-- **AgriTech Developer (NGO or startup):** ZMW 40,000 – 70,000/month (~$1,940 – $3,400 USD)
+- **Junior Developer (Local Startup):** Competitive
+- **Community Manager:** Competitive
+- **AgriTech Developer (NGO or startup):** Competitive
 
 ### Remote Opportunities (Highly Recommended)
-- **Mid-Level Developer:** $2,500 – $4,500/month
-- **Senior Developer:** $4,500 – $8,000+/month
-- **Product Manager:** $3,000 – $6,000/month
-- **Community Lead:** $1,500 – $3,500/month
+- **Mid-Level Developer:** Competitive
+- **Senior Developer:** Competitive
+- **Product Manager:** Competitive
+- **Community Lead:** Competitive
 
-**Cost of Living Advantage:** Monthly expenses in Lusaka range from $600 to $900. A remote salary of $3,500 allows for significant savings, enabling wealth accumulation through Web3 initiatives.
+**Cost of Living Advantage:** Monthly expenses in Lusaka are generally manageable. A remote salary allows for significant savings, enabling wealth accumulation through Web3 initiatives.
 
-## Career Paths to $5,000+/Month in Lusaka
+## Career Paths to Competitive Salaries in Lusaka
 
 **Path 1: Mobile-First DeFi Developer (Financial Inclusion Focus)** (8-16 Month Timeline)
 
 **Months 1-4: Foundation and Context**
 - Research Zambia's mobile money landscape, focusing on USSD, mobile banking, and financial inclusion challenges.
-- Set up professional profiles on GitHub, Twitter, and LinkedIn. Complete the Alchemy University Web3 developer course.
+- Set up professional profiles on GitHub, Twitter, and LinkedIn. Complete relevant Web3 developer courses.
 - Build your first project: a simple mobile wallet interface optimized for mobile devices.
-- Study mobile-first DeFi projects like Celo and Hedera, which target mobile users.
+- Study mobile-first DeFi projects that target mobile users.
 
 **Months 5-9: Specialization and Portfolio Development**
-- Immerse yourself in the Celo ecosystem, which is designed for emerging markets.
+- Immerse yourself in ecosystems designed for emerging markets.
 - Develop a dApp optimized for low-bandwidth users.
 - Secure freelance contracts on platforms like Upwork and publish technical articles to build your reputation.
 
 **Months 10-14: Secure a Remote Senior Role**
 - Apply to mobile-first protocols and prepare for interviews.
-- Transition to a full-time role with an expected compensation of $4,000 to $6,500 monthly.
+- Transition to a full-time role with competitive compensation.
 
 **Months 15-16: Scaling and Thought Leadership**
 - Establish yourself as a mobile-first DeFi expert in Africa, with potential for senior roles or co-founding a startup.
 
 **Quick Wins:**
-- Consult for Zambian fintech startups at $50 to $150 per hour.
+- Consult for Zambian fintech startups at competitive rates.
 - Create an open-source mobile DeFi library and seek sponsorship.
 - Speak at tech conferences to increase visibility.
 
@@ -101,7 +101,7 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 
 **Months 9-15: Networking and Full-Time Role**
 - Pitch blockchain solutions to local agricultural companies and international organizations.
-- Transition to a role specializing in AgriTech and DeFi, earning $5,000 to $8,000 or more monthly.
+- Transition to a role specializing in AgriTech and DeFi, earning competitive salaries.
 
 **Quick Wins:**
 - Publish research papers on blockchain's impact on agriculture.
@@ -145,15 +145,15 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 
 **Weeks 1-2:**
 - Set up professional profiles on GitHub, Twitter, and LinkedIn.
-- Enroll in the Alchemy University Web3 Developer course.
+- Enroll in relevant Web3 developer courses.
 - Join five Web3 Discord communities to network.
 
 **Weeks 3-4:**
-- Complete initial modules of the Alchemy course and deploy testnet projects.
+- Complete initial modules of the course and deploy testnet projects.
 - Start writing articles on the relevance of Web3 for Zambia.
 
 **Weeks 5-6:**
-- Finish the Alchemy course and launch your first mainnet project.
+- Finish the course and launch your first mainnet project.
 - Apply for entry-level remote Web3 roles.
 
 **Weeks 7-8:**
@@ -163,7 +163,7 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 - Publish articles and attend online Web3 events to broaden your network.
 
 **Weeks 11-12:**
-- Ship additional projects, aim for 1,000 Twitter followers, and prepare for job interviews.
+- Ship additional projects, aim for a significant social media following, and prepare for job interviews.
 
 **Outputs after 90 days:**
 - Three completed projects on GitHub.
@@ -173,10 +173,10 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 ## Frequently Asked Questions
 
 **Is Web3 legal in Zambia?**
-Yes, with some caveats. Cryptocurrency is not banned, and exchanges like Binance and Kraken are accessible. However, it's important to avoid unlicensed schemes and comply with tax regulations.
+Yes, with some caveats. Cryptocurrency is not banned, and exchanges are accessible. However, it's important to avoid unlicensed schemes and comply with tax regulations.
 
-**What is the quickest way to earn $2,000/month from Web3 in Zambia?**
-Freelancing on platforms like Upwork can yield $50 to $150/hour for blockchain consulting. Combining freelance work with community management or a junior developer role can help reach this target quickly.
+**What is the quickest way to earn from Web3 in Zambia?**
+Freelancing on platforms can yield competitive hourly rates for blockchain consulting. Combining freelance work with community management or a junior developer role can help reach income targets quickly.
 
 **Should I focus on DeFi, AgriTech, or community building?**
 Your choice depends on your skills and interests. DeFi offers higher earning potential but faces intense competition. AgriTech presents a unique advantage in Zambia with less competition. Community building can provide quicker income opportunities.
@@ -194,12 +194,12 @@ Staying in Lusaka allows you to save substantially while working remotely. This 
 Engage with developers on Twitter, contribute to open-source projects, and participate in local and online communities to find mentorship opportunities.
 
 **What is the salary progression for someone starting today?**
-- Year 1: $2,000 – $4,000/month (freelance and junior roles)
-- Year 2: $3,500 – $6,000/month (mid-level roles)
-- Year 3+: $5,000 – $10,000+/month (senior roles or entrepreneurial ventures)
+- Year 1: Competitive (freelance and junior roles)
+- Year 2: Competitive (mid-level roles)
+- Year 3+: Competitive (senior roles or entrepreneurial ventures)
 
 **Should I invest my earnings in crypto or save?**
-Prioritize saving to build an emergency fund. Aim to invest a portion of your income in established cryptocurrencies like Bitcoin and Ethereum once you've achieved financial stability.
+Prioritize saving to build an emergency fund. Aim to invest a portion of your income in established cryptocurrencies once you've achieved financial stability.
 
 **How can I verify the legitimacy of a Web3 job?**
 Look for roles posted on reputable job boards, ensure the company has a verifiable online presence, and be wary of positions that promise guaranteed returns or require upfront payments.

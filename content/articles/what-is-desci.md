@@ -20,27 +20,27 @@ This movement represents not just a technological shift but a fundamental rethin
 
 ### Funding Bottlenecks
 
-Scientific funding is largely concentrated within prestigious institutions, leaving out many capable researchers. This centralization fosters groupthink, stifling diverse ideas and slowing innovation. According to a 2021 study, 70% of research funding went to only 10% of institutions, leaving a vast pool of talent underfunded.
+Scientific funding is largely concentrated within prestigious institutions, leaving out many capable researchers. This centralization fosters groupthink, stifling diverse ideas and slowing innovation. Research indicates that a significant portion of research funding is allocated to a small number of institutions, leaving a vast pool of talent underfunded.
 
 ### Access Barriers
 
-Access to scientific literature is often restricted by high paywalls. For example, the average cost for accessing a single journal article can exceed $30, making it difficult for researchers at less-resourced institutions and the general public to access knowledge. A report from the International Association of Scientific, Technical and Medical Publishers estimated that nearly 50% of research articles are locked behind paywalls.
+Access to scientific literature is often restricted by high paywalls. For example, the average cost for accessing a single journal article can exceed a substantial amount, making it difficult for researchers at less-resourced institutions and the general public to access knowledge. Reports suggest that a considerable percentage of research articles are locked behind paywalls.
 
 ### Slow Peer Review Process
 
-The traditional peer review process can take several months to years. Reviewers, often unpaid, face heavy workloads that delay the dissemination of important findings. A study by the National Academy of Sciences found that the average time from submission to publication can exceed 12 months, potentially delaying critical advancements in various fields.
+The traditional peer review process can take several months to years. Reviewers, often unpaid, face heavy workloads that delay the dissemination of important findings. Studies have shown that the average time from submission to publication can exceed a year, potentially delaying critical advancements in various fields.
 
 ### Reproducibility Crisis
 
-The reproducibility crisis highlights the inability to replicate many published findings. A 2016 study demonstrated that more than 70% of researchers have tried and failed to reproduce another scientist's experiments. This issue often stems from inadequate sharing of methodologies and raw data, which are vital for validating results.
+The reproducibility crisis highlights the inability to replicate many published findings. Research has demonstrated that a significant number of researchers have tried and failed to reproduce another scientist's experiments. This issue often stems from inadequate sharing of methodologies and raw data, which are vital for validating results.
 
 ### Misaligned Incentives
 
-Current academic incentives encourage quantity over quality in research outputs. The "publish or perish" mentality prioritizes the number of publications rather than the significance of findings. A survey by Nature in 2017 revealed that 60% of scientists believed that the pressure to publish affected the quality of their research.
+Current academic incentives encourage quantity over quality in research outputs. The "publish or perish" mentality prioritizes the number of publications rather than the significance of findings. Surveys have revealed that many scientists believe that the pressure to publish affects the quality of their research.
 
 ### Limited Collaboration
 
-Institutional competition often prevents effective collaboration across research teams. A 2020 survey found that 65% of researchers reported duplicated efforts due to a lack of communication with scientists from other institutions. This fragmentation hinders the development of comprehensive solutions to complex problems.
+Institutional competition often prevents effective collaboration across research teams. Surveys indicate that many researchers report duplicated efforts due to a lack of communication with scientists from other institutions. This fragmentation hinders the development of comprehensive solutions to complex problems.
 
 ## Core Solutions Offered by DeSci
 

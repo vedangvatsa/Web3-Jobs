@@ -32,10 +32,10 @@ Japan's job market for Web3 professionals is robust, particularly for those with
 
 | Role                                          | Experience Level     | Salary Range (JPY)          | Salary Range (USD)              |
 |-----------------------------------------------|---------------------|-----------------------------|---------------------------------|
-| Game Developer / Producer                     | Mid-Level (3-5 years) | ¥8,000,000 - ¥12,000,000   | ~$5,300 - $8,000/month          |
-|                                               | Senior/Lead (5+ years) | ¥12,000,000 - ¥20,000,000+  | ~$8,000 - $13,300+/month        |
-| [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust) | Senior                | ¥11,000,000 - ¥18,000,000+  | ~$7,300 - $12,000+/month        |
-| Business Development Manager (IP & Partnerships) | Experienced Professional | ¥9,000,000 - ¥16,000,000+  | ~$6,000 - $10,700/month         |
+| Game Developer / Producer                     | Mid-Level (3-5 years) | ¥8,000,000 - ¥12,000,000   | Competitive                     |
+|                                               | Senior/Lead (5+ years) | ¥12,000,000 - ¥20,000,000+  | Competitive                     |
+| [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust) | Senior                | ¥11,000,000 - ¥18,000,000+  | Competitive                     |
+| Business Development Manager (IP & Partnerships) | Experienced Professional | ¥9,000,000 - ¥16,000,000+  | Competitive                     |
 
 ### How to Get a Web3 Job in Japan
 
@@ -51,18 +51,18 @@ Japan's job market for Web3 professionals is robust, particularly for those with
 
 ### Local Opportunities (Corporate-Focused)
 
-- **Game Developer:** JPY ¥8,000,000 - ¥12,000,000/year (~$5,300 - $8,000/month)
-- **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer):** JPY ¥11,000,000 - ¥18,000,000/year (~$7,300 - $12,000/month)
-- **Business Development Manager:** JPY ¥9,000,000 - ¥16,000,000/year (~$6,000 - $10,700/month)
+- **Game Developer:** JPY ¥8,000,000 - ¥12,000,000/year
+- **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer):** JPY ¥11,000,000 - ¥18,000,000/year
+- **Business Development Manager:** JPY ¥9,000,000 - ¥16,000,000/year
 
 ### Remote Opportunities (Less Common But Possible)
 
-- **Senior Developer:** $5,000 - $8,000/month (typically for international companies)
-- **Product Manager:** $4,500 - $7,500/month
+- **Senior Developer:** Competitive (typically for international companies)
+- **Product Manager:** Competitive
 
 **Note:** While salaries in Japan are competitive, the geographic premium is lower than in the US. However, the quality of life remains exceptional.
 
-## Proven Career Paths to ¥15M+/Year ($10,000+/Month) in Japan
+## Proven Career Paths to High Earnings in Japan
 
 ### Path 1: Web3 Game Developer (Corporate Gaming Studio) (12-20 Month Timeline)
 
@@ -79,20 +79,20 @@ Japan's job market for Web3 professionals is robust, particularly for those with
 
 **Months 7-12: Target Major Gaming Studios**
 - Apply to major firms such as Square Enix, Bandai Namco, and Sega.
-- Anticipate an offer of JPY ¥8M–12M/year (~$5,300–$8,000/month).
+- Anticipate an offer of competitive salary.
 - Lead 1-2 Web3 game projects as a core engineer.
 - Build internal reputation within the company.
-- **Expected Compensation:** JPY ¥8M–12M/year.
+- **Expected Compensation:** Competitive salary.
 
 **Months 13-20: Specialize & Advance**
 - Become a recognized Web3 game specialist within the company.
 - Potential for a senior engineer or tech lead position.
-- **Expected Compensation:** JPY ¥12M–18M+/year (~$8,000–$12,000+/month).
+- **Expected Compensation:** Competitive salary.
 
 **Quick Wins:**
 - Publish a game on itch.io or a major platform to gain visibility.
 - Speak at Japan Blockchain Week or WebX to enhance recognition.
-- Consult for indie game developers, earning ¥500K–¥2M per project.
+- Consult for indie game developers, earning competitive fees per project.
 
 ### Path 2: Corporate FinTech + Blockchain Liaison (Finance Sector Bridge) (10-18 Month Timeline)
 
@@ -108,20 +108,20 @@ Japan's job market for Web3 professionals is robust, particularly for those with
 
 **Months 6-12: Secure Role at Major Bank or FinTech**
 - Target companies like MUFG, Nomura, Sony Financial, or GMO for Web3 expertise.
-- Anticipate an offer of JPY ¥9M–14M/year (~$6,000–$9,300/month).
+- Anticipate an offer of competitive salary.
 - Lead blockchain R&D or fintech initiatives within the company.
 - Build internal expertise and relationships.
-- **Expected Compensation:** JPY ¥9M–14M/year.
+- **Expected Compensation:** Competitive salary.
 
 **Months 13-18: Thought Leadership**
 - Position yourself as the key bridge between traditional finance and crypto.
 - Potential for senior roles or blockchain head position.
-- **Expected Compensation:** JPY ¥14M–22M+/year (~$9,300–$14,700+/month).
+- **Expected Compensation:** Competitive salary.
 
 **Quick Wins:**
 - Publish research on digital assets within Japanese finance to build reputation.
 - Speak at financial industry events to gain visibility and authority.
-- Consult for corporations, earning ¥2M–¥5M per engagement.
+- Consult for corporations, earning competitive fees per engagement.
 
 ### Path 3: International Web3 Company (Tokyo-Based Global Team) (6-12 Month Timeline)
 
@@ -134,18 +134,18 @@ Japan's job market for Web3 professionals is robust, particularly for those with
 
 **Months 4-6: Secure Position at International Company**
 - Target major protocols establishing Tokyo offices or international FinTech and gaming firms.
-- Expect an offer of $4,500–$6,500/month (often slightly lower than US salaries but comparable to local rates).
+- Expect an offer of competitive salary.
 - Relocate to Tokyo if not already based there.
 - Collaborate with an international team that has a Tokyo presence.
 
 **Months 7-10: Build Reputation + Specialize**
 - Gain recognition for specific expertise within the organization.
 - Expand your professional network in Tokyo's international Web3 community.
-- **Expected Compensation:** $5,500–$8,000/month.
+- **Expected Compensation:** Competitive salary.
 
 **Months 11-12: Potential Advancement**
 - Pursue a senior role, founding team opportunity, or position with a better company.
-- **Expected Compensation:** $6,500–$10,000+/month or equity.
+- **Expected Compensation:** Competitive salary.
 
 **Quick Wins:**
 - Attract attention from major protocols for direct hiring or acquisition.
@@ -171,7 +171,7 @@ Japan's job market for Web3 professionals is robust, particularly for those with
 - **Solution:** For those seeking startup energy, consider international remote roles. If stability is a priority, pursue corporate roles in Japan.
 
 **Challenge 5: Geographic Concentration in Tokyo**
-- **Reality:** Approximately 90% of Web3 jobs are located in Tokyo.
+- **Reality:** A significant majority of Web3 jobs are located in Tokyo.
 - **Solution:** Relocate to Tokyo if committed to a Web3 career. Tokyo serves as Japan's tech center, and the cost of living is reasonable compared to global hubs.
 
 ## 90-Day Quick-Start Action Plan
@@ -215,7 +215,7 @@ Japan's job market for Web3 professionals is robust, particularly for those with
 **Outputs after 90 days:**
 - 3 completed projects (available on GitHub).
 - 3 published articles.
-- 1+ freelance/consulting gigs ($1,000–$3,000).
+- 1+ freelance/consulting gigs (competitive fees).
 - 1,000+ Twitter followers.
 - A robust professional network in Japan.
 - 1-2 serious interviews.
@@ -230,44 +230,41 @@ A: Yes, with well-defined regulations:
 - Businesses must adhere to compliance regulations.
 
 **Q2: Do I need to speak Japanese?**
-A: For 90% of roles, the answer is YES. For international companies, it may vary. However, learning Japanese:
+A: For a majority of roles, the answer is YES. For international companies, it may vary. However, learning Japanese:
 - Increases your value significantly.
 - Opens more opportunities.
 - Aligns with cultural expectations (respect for effort).
 - Requires 6-12 months of intensive study.
 
-**Q3: What is the fastest path to ¥10M/year ($6,700/month)?**
+**Q3: What is the fastest path to high earnings?**
 A: The quickest routes include:
-1. Land a corporate job at a major bank or gaming studio: ¥9M–14M/year (4-8 months).
-2. Secure a role at an international company: $4,500–$6,500/month (2-4 months).
-3. Pursue freelance or consulting opportunities: ¥500K–¥1M/month (2-3 months to reach $5K/month).
+1. Land a corporate job at a major bank or gaming studio.
+2. Secure a role at an international company.
+3. Pursue freelance or consulting opportunities.
 
-The fastest option combines freelance work with a corporate role, potentially leading to ¥12M+/year in 6-8 months.
+The fastest option combines freelance work with a corporate role, potentially leading to high earnings in a short time.
 
 **Q4: Should I focus on gaming, finance, or general Web3?**
 A: **Gaming:**
 - Offers the highest growth potential in Japan.
 - Major firms are heavily investing in this area.
 - Background in game development enhances your prospects.
-- Path to ¥12M–18M/year.
 
 **Finance:**
 - More conservative but stable.
 - Requires knowledge of regulatory frameworks.
 - Higher potential compensation.
-- Path to ¥14M–22M+/year.
 
 **General Web3:**
 - Provides the most flexibility.
 - Opportunities with international firms and local startups.
-- Path to ¥10M–16M/year.
 
 **Q5: Should I relocate to Tokyo?**
 A: YES, if you are serious about a career in Web3:
-- 90% of opportunities are located in Tokyo.
+- A significant majority of opportunities are located in Tokyo.
 - Networking is crucial for success.
 - The quality of life is exceptional.
-- Rent is reasonable (¥50K–100K/$330–$670 for a studio).
+- Rent is reasonable compared to global standards.
 
 **Q6: How do I network in Japan?**
 A: 
@@ -278,9 +275,9 @@ A:
 
 **Q7: What if I lack a technical background?**
 A: Non-technical career paths are available:
-- Business development: ¥6M–12M/year.
-- Legal/compliance: ¥7M–14M/year.
-- Product management: ¥8M–15M/year.
+- Business development.
+- Legal/compliance.
+- Product management.
 
 Focus on earning income first; consider learning technical skills later if interested.
 
@@ -293,23 +290,23 @@ A:
 
 **Q9: What does salary progression look like?**
 A: A realistic progression is as follows:
-- **Year 1:** ¥8M–12M/year ($5,300–$8,000/month).
-- **Year 2:** ¥12M–18M/year ($8,000–$12,000/month).
-- **Year 3+:** ¥18M–28M+/year ($12,000–$18,700+/month) plus potential equity.
+- **Year 1:** Competitive salary.
+- **Year 2:** Competitive salary.
+- **Year 3+:** Competitive salary plus potential equity.
 
 **Q10: How can I avoid cultural missteps?**
 A: Familiarize yourself with Japanese business culture:
 - Respect hierarchical structures.
 - Highlight teamwork over individual achievements.
 - Embrace long-term thinking rather than quick victories.
-- Prioritize quality (monozukuri) over hype.
+- Prioritize quality over hype.
 - Build trust through consistent and reliable work.
 
 **Q11: Should I attempt to raise funding?**
 A: Focus on establishing yourself first:
-- Years 1-2: Build expertise and network.
-- Years 2-3: Validate your ideas through customer feedback and partnerships.
-- Year 3+: Seek funding from Japanese VCs or international investors.
+- Build expertise and network.
+- Validate your ideas through customer feedback and partnerships.
+- Seek funding from Japanese VCs or international investors when ready.
 
 Japanese VCs are becoming increasingly active in the Web3 space.
 
@@ -328,12 +325,11 @@ A:
 - CryptoZombies (interactive Solidity training).
 - OpenZeppelin (security best practices).
 - [Ethereum](/what-is-ethereum).org (technical documentation).
-- Local blockchain courses (Schoo, Udemy).
+- Local blockchain courses.
 
 ### Language Learning
 - Utilize Duolingo and Busuu for basic to intermediate skills.
-- Consider intensive programs like Rosetta Stone and Immersion Intensive.
-- Explore language schools in Tokyo for in-country learning.
+- Consider intensive programs for in-country learning.
 - Engage in online tutoring through platforms like italki or Preply.
 
 ### Communities & Networking
@@ -346,14 +342,14 @@ A:
 - Check our Web3 Job Board (/jobs) for opportunities in Japan.
 - Use LinkedIn to search for positions in Japan related to Web3.
 - Explore sites like Daijob and GaijinPot for job listings.
-- Review company websites for career opportunities at major firms like Square Enix, Bandai Namco, MUFG, and Nomura.
+- Review company websites for career opportunities at major firms.
 
 ### Reading & Research
 - Read "Mastering Ethereum" for in-depth knowledge.
 - Familiarize yourself with the FSA's Digital Assets Guidelines (official).
 - Review Japanese blockchain whitepapers for insights.
 - Subscribe to the Bankless newsletter for updates.
-- Stay informed through Japanese crypto news sources like CoinPost.
+- Stay informed through Japanese crypto news sources.
 
 ### Your Next Step: Find a Web3 Job
 

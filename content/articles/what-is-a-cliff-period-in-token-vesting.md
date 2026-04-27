@@ -18,13 +18,13 @@ A **cliff** represents a designated period at the start of a vesting schedule du
 
 ### Example of Cliff Vesting
 
-Consider a typical vesting schedule for a Web3 startup: a **"4-year vest with a 1-year cliff."** Let's illustrate this with an employee, Bob, who receives a grant of 48,000 tokens.
+Consider a typical vesting schedule for a Web3 startup: a **"4-year vest with a 1-year cliff."** Let's illustrate this with an employee, Bob, who receives a grant of tokens.
 
-- **Cliff Period (First Year):** For the initial 364 days of Bob's tenure, none of his 48,000 tokens vest. If he decides to leave the company on day 360, he walks away with 0 tokens.
+- **Cliff Period (First Year):** For the initial 364 days of Bob's tenure, none of his tokens vest. If he decides to leave the company on day 360, he walks away with 0 tokens.
   
-- **Cliff Event (1-Year Anniversary):** On day 365, Bob reaches his 1-year cliff. On this day, 25% of his total allocation (12,000 tokens) vests immediately. He now owns these tokens and can use them as per the project’s policies.
+- **Cliff Event (1-Year Anniversary):** On day 365, Bob reaches his 1-year cliff. On this day, a portion of his total allocation vests immediately. He now owns these tokens and can use them as per the project’s policies.
 
-- **Linear Vesting Post-Cliff:** The remaining 75% of his tokens (36,000 tokens) then vest on a linear schedule, typically monthly, over the next three years. Starting from month 13, Bob will earn `36,000 / 36 = 1,000` tokens each month until the end of the fourth year.
+- **Linear Vesting Post-Cliff:** The remaining tokens then vest on a linear schedule, typically monthly, over the next three years. Starting from month 13, Bob will earn tokens each month until the end of the fourth year.
 
 ### Importance of the Cliff
 
@@ -68,7 +68,7 @@ Regularly assess your progress in understanding vesting schedules. Are you achie
 
 ### Case Study 1: Developer Success
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with her understanding of vesting schedules. After implementing structured learning strategies, she experienced significant improvements within three months, increasing her understanding from basic concepts to advanced applications, which enhanced her negotiation skills during job offers.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with her understanding of vesting schedules. After implementing structured learning strategies, she experienced significant improvements within a few months, increasing her understanding from basic concepts to advanced applications, which enhanced her negotiation skills during job offers.
 
 ### Case Study 2: Product Manager Transformation
 
@@ -93,7 +93,7 @@ Maya successfully transitioned from Web2 to Web3 by embracing the strategies dis
 ## FAQ
 
 **Q: How long will it take to see results?**  
-A: Initial results typically appear within 2 to 4 weeks of consistent application, while significant improvements may be visible within 8 to 12 weeks. The timeline varies based on your starting point, daily practice, and engagement with feedback. Professionals who actively track their progress through metrics or peer feedback tend to advance faster than those who passively observe.
+A: Initial results typically appear within a few weeks of consistent application, while significant improvements may be visible within a few months. The timeline varies based on your starting point, daily practice, and engagement with feedback. Professionals who actively track their progress through metrics or peer feedback tend to advance faster than those who passively observe.
 
 **Q: What if my workplace lacks support for this learning?**  
 A: Even in challenging environments, you often have more control than you think. Start with small, self-contained actions that require minimal organizational buy-in, such as developing personal habits or initiating conversations with like-minded colleagues. Gradually build momentum rather than waiting for formal approval. If, after sustained effort, the environment hinders your growth, consider seeking a more supportive workplace.

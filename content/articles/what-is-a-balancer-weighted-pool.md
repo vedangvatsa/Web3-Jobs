@@ -114,10 +114,10 @@ Evaluate your progress consistently. Are you achieving your goals? Modify your s
 ### Real-World Examples
 
 #### Example 1
-Sarah, a developer at a blockchain startup, faced challenges in managing her portfolio effectively. By implementing a Weighted Pool strategy, she improved her asset allocation and saw a 30% increase in her portfolio value within three months.
+Sarah, a developer at a blockchain startup, faced challenges in managing her portfolio effectively. By implementing a Weighted Pool strategy, she improved her asset allocation and saw an increase in her portfolio value within three months.
 
 #### Example 2
-Juan, a product manager in the DeFi sector, had difficulties balancing his liquidity provision and portfolio exposure. After adopting a customized Weighted Pool approach, he achieved a 25% reduction in impermanent loss while maintaining the desired risk profile.
+Juan, a product manager in the DeFi sector, had difficulties balancing his liquidity provision and portfolio exposure. After adopting a customized Weighted Pool approach, he achieved a reduction in impermanent loss while maintaining the desired risk profile.
 
 #### Example 3
 Maya transitioned from Web2 to Web3 and faced a steep learning curve. By applying the principles of Weighted Pools, she quickly adapted to the new environment, allowing her to contribute effectively and increase her project impact significantly.

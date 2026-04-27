@@ -25,7 +25,7 @@ The story of Ali Baba's cave serves as a compelling analogy to illustrate how Ze
   5. If she does not know the phrase, she faces a 50% chance of guessing the correct path to exit.
 
 ### The Proof:
-Repeating this process multiple times reduces the likelihood that Peggy is merely lucky. For example, if Peggy successfully emerges from the correct path 20 times, Victor can statistically conclude that she knows the phrase, despite never learning it.
+Repeating this process multiple times reduces the likelihood that Peggy is merely lucky. For example, if Peggy successfully emerges from the correct path multiple times, Victor can statistically conclude that she knows the phrase, despite never learning it.
 
 ## Essential Properties of Zero-Knowledge Proofs
 
@@ -106,11 +106,11 @@ Regularly track your advancement. Are you achieving your learning objectives? Ad
 
 ### Example 1: Developer in Blockchain
 
-Sarah, a developer at a blockchain startup, faced challenges with transaction validation. After implementing ZKPs, her team reduced transaction processing time by 30% within three months, enhancing overall throughput.
+Sarah, a developer at a blockchain startup, faced challenges with transaction validation. After implementing ZKPs, her team reduced transaction processing time significantly within three months, enhancing overall throughput.
 
 ### Example 2: DeFi Product Manager
 
-Juan, a product manager in [DeFi](/what-is-defi), encountered inefficiencies in user transactions. By integrating ZKPs into their platform, he improved transaction security and user satisfaction, leading to a 25% increase in user retention.
+Juan, a product manager in [DeFi](/what-is-defi), encountered inefficiencies in user transactions. By integrating ZKPs into their platform, he improved transaction security and user satisfaction, leading to a notable increase in user retention.
 
 ### Example 3: Transitioning from Web2 to Web3
 
@@ -131,7 +131,7 @@ Maya, moving from Web2 to Web3, adopted ZKPs to streamline her digital identity 
 ## FAQ
 
 **Q: How long does it take to see results from implementing ZKPs?**  
-A: Initial outcomes can often be observed within 2 to 4 weeks, with significant improvements typically manifesting within 8 to 12 weeks. The timeline may vary based on your baseline knowledge, daily practice commitment, and proactive feedback collection.
+A: Initial outcomes can often be observed within a few weeks, with significant improvements typically manifesting within a couple of months. The timeline may vary based on your baseline knowledge, daily practice commitment, and proactive feedback collection.
 
 **Q: How can I adapt to a workplace that may not support this learning?**  
 A: Start by engaging in small, self-driven initiatives that don't require broad organizational approval. Focus on personal projects or conversations with supportive colleagues. Gradually build momentum while documenting your achievements.

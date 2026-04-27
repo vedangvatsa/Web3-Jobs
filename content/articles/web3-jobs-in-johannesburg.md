@@ -29,10 +29,10 @@ The job market in Johannesburg favors professionals with backgrounds in finance,
 
 | Role                                   | Experience Level         | Salary Range (ZAR/month)       |
 |----------------------------------------|--------------------------|---------------------------------|
-| Legal & Compliance Officer             | Experienced Professional  | 80,000 - 160,000+              |
-| Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer) | Mid-Level to Senior      | 70,000 - 140,000+              |
-| Institutional Sales & Business Development | Experienced Professional  | 70,000 - 150,000+ (plus commission) |
-| Product Manager (FinTech/Institutional) | Senior                  | 85,000 - 150,000+              |
+| Legal & Compliance Officer             | Experienced Professional  | Competitive                     |
+| Enterprise [Blockchain Developer](/how-to-become-a-blockchain-developer) | Mid-Level to Senior      | Competitive                     |
+| Institutional Sales & Business Development | Experienced Professional  | Competitive (plus commission)   |
+| Product Manager (FinTech/Institutional) | Senior                  | Competitive                     |
 
 ### Building a Web3 Career in Johannesburg
 
@@ -54,11 +54,11 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 
 | Role                                   | Salary Range (ZAR/month)            | Salary Range (USD/month)       |
 |----------------------------------------|-------------------------------------|---------------------------------|
-| Legal & Compliance Officer             | 70,000 – 180,000                    | ~3,850 – 9,900                  |
-| Enterprise Blockchain Developer        | 60,000 – 140,000                    | ~3,300 – 7,700                  |
-| Business Development/Sales             | 70,000 – 180,000+ (plus commission) | ~3,850 – 9,900+                 |
-| Product Manager (FinTech)             | 80,000 – 160,000                    | ~4,400 – 8,800                  |
-| CTO/VP Engineering                     | 150,000 – 300,000+                  | ~8,250 – 16,500+                |
+| Legal & Compliance Officer             | Competitive                         | Competitive                     |
+| Enterprise Blockchain Developer        | Competitive                         | Competitive                     |
+| Business Development/Sales             | Competitive (plus commission)       | Competitive                     |
+| Product Manager (FinTech)             | Competitive                         | Competitive                     |
+| CTO/VP Engineering                     | Competitive                         | Competitive                     |
 
 ## Career Paths in Johannesburg Web3
 
@@ -67,80 +67,80 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 **Months 1-5: Build Regulatory Expertise**
 - Study the FSCA licensing framework and AML/KYC requirements.
 - Learn about blockchain compliance and institutional needs.
-- Network with over 20 regulatory professionals and crypto compliance specialists.
+- Network with regulatory professionals and crypto compliance specialists.
 - Obtain relevant compliance certifications.
 - **Deliverable:** Regulatory knowledge and credentials.
 
 **Months 6-10: Visibility**
-- Consult for blockchain startups (ZAR 50K–200K per engagement).
+- Consult for blockchain startups.
 - Publish articles on South African crypto regulation.
 - Apply for compliance positions at crypto exchanges or fintech firms.
-- Expected salary: ZAR 80,000–120,000/month.
+- Expected salary: Competitive.
 
 **Months 11-16: Move to Senior Roles**
 - Lead a compliance team or serve as head of legal at a major crypto firm.
-- Expected salary: ZAR 120,000–200,000+/month.
+- Expected salary: Competitive.
 
 **Months 17-18: Transition to Leadership**
 - Aim for a Chief Compliance Officer or advisory role.
-- **Expected Compensation:** ZAR 180,000–350,000+/month plus equity.
+- **Expected Compensation:** Competitive plus equity.
 
 **Quick Wins:**
-- Consulting opportunities: ZAR 5,000–50,000/hour.
-- Speaking engagements at fintech/crypto conferences: ZAR 20K–100K.
-- Advisory roles: ZAR 10K–50K/month retainer.
+- Consulting opportunities.
+- Speaking engagements at fintech/crypto conferences.
+- Advisory roles.
 
 ### Path 2: Enterprise Blockchain Architect (12-20 Month Timeline)
 
 **Months 1-6: Master Required Skills**
 - Gain proficiency in Java, Hyperledger, and permissioned blockchains.
 - Learn about enterprise architecture and banking systems.
-- Develop 2-3 enterprise blockchain proofs-of-concept.
-- Network with over 20 enterprise architects and banking technologists.
+- Develop enterprise blockchain proofs-of-concept.
+- Network with enterprise architects and banking technologists.
 - **Deliverable:** Expertise in enterprise and blockchain projects.
 
 **Months 7-12: Focus on Enterprise Projects**
 - Work on enterprise blockchain initiatives in banking or supply chain.
 - Publish technical articles on enterprise blockchain solutions.
-- Expected salary: ZAR 90,000–140,000/month.
+- Expected salary: Competitive.
 
 **Months 13-18: Leadership Opportunities**
 - Lead enterprise blockchain initiatives at a major bank or corporation.
-- Expected salary: ZAR 140,000–220,000+/month.
+- Expected salary: Competitive.
 
 **Months 19-20: Ascend to Chief Architect/CTO**
 - Become the chief architect of an enterprise blockchain division.
-- **Expected Compensation:** ZAR 200,000–400,000+/month.
+- **Expected Compensation:** Competitive.
 
 **Quick Wins:**
-- Consulting on enterprise solutions: ZAR 5,000–50,000/hour.
-- Engaging in enterprise blockchain projects: ZAR 500K–5M per engagement.
-- Speaking or training: ZAR 20K–100K.
+- Consulting on enterprise solutions.
+- Engaging in enterprise blockchain projects.
+- Speaking or training.
 
 ### Path 3: Institutional Sales & Business Development (8-16 Month Timeline)
 
 **Months 1-4: Learn About Crypto Products**
 - Study crypto products, custody solutions, trading, and DeFi.
 - Understand the needs and pain points of institutional buyers.
-- Build a network of over 30 bankers, fund managers, and corporate treasurers.
+- Build a network of bankers, fund managers, and corporate treasurers.
 - **Deliverable:** Knowledge of products and institutional connections.
 
 **Months 5-8: Achieve Initial Sales**
 - Secure your first institutional client (custody or trading platform).
-- Expected salary: ZAR 70,000–100,000/month plus 10-20% commission.
+- Expected salary: Competitive plus commission.
 
 **Months 9-14: Demonstrate Proven Sales Success**
-- Manage $10M+ AUM or multiple institutional clients.
-- Expected salary: ZAR 100,000–180,000+/month with higher commissions.
+- Manage multiple institutional clients.
+- Expected salary: Competitive with higher commissions.
 
 **Months 15-16: Move into Leadership**
 - Aim for a position as Head of Institutional Sales or VP of Business Development.
-- **Expected Compensation:** ZAR 150,000–300,000+/month along with significant commissions.
+- **Expected Compensation:** Competitive along with significant commissions.
 
 **Quick Wins:**
-- Earn sales commissions on institutional deals at 5-20% of fees.
-- Speak at institutional events: ZAR 25K–150K.
-- Advisory roles: ZAR 15K–50K/month.
+- Earn sales commissions on institutional deals.
+- Speak at institutional events.
+- Advisory roles.
 
 ## Why Choose Johannesburg?
 
@@ -183,25 +183,25 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 
 **Weeks 3-4:**
 - [ ] Complete one compliance or enterprise blockchain course.
-- [ ] Network with 20+ professionals in banking, law, or technology.
-- [ ] Research five major enterprises focusing on blockchain initiatives.
+- [ ] Network with professionals in banking, law, or technology.
+- [ ] Research major enterprises focusing on blockchain initiatives.
 - [ ] Subscribe to updates on FinTech and crypto regulations.
 
 **Weeks 5-6:**
 - [ ] Publish an article on South African blockchain regulation or enterprise solutions.
-- [ ] Arrange five coffee meetings with bankers or CTOs.
-- [ ] Apply for five entry-level positions.
+- [ ] Arrange meetings with bankers or CTOs.
+- [ ] Apply for entry-level positions.
 - [ ] Create one proof-of-concept if pursuing the architect path.
 
 **Weeks 7-8:**
 - [ ] Secure one consulting engagement or contract role.
 - [ ] Publish a technical or regulatory analysis.
-- [ ] Connect with five additional industry professionals.
+- [ ] Connect with additional industry professionals.
 - [ ] Target dream roles in major enterprises or fintechs.
 
 **Weeks 9-10:**
 - [ ] Finalize one consulting engagement or secure a role.
-- [ ] Grow Twitter following to over 1,000 in the crypto and enterprise space.
+- [ ] Grow Twitter following in the crypto and enterprise space.
 - [ ] Plan for the next three months of career development.
 
 **Weeks 11-12:**
@@ -213,7 +213,6 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 - One or more published articles or regulatory analyses.
 - A strong network within traditional finance and enterprise sectors.
 - One or more consulting or full-time opportunities.
-- Over 1,000 LinkedIn followers.
 - Recognition within the industry.
 
 ## Career FAQs for Johannesburg
@@ -224,8 +223,8 @@ A: While helpful, it is not mandatory. A willingness to learn about institutiona
 **Q2: Is compliance work more stable than development roles?**  
 A: Yes, regulatory expertise is essential and typically in high demand, making these roles less likely to be outsourced.
 
-**Q3: What is the fastest path to ZAR 100K+/month?**  
-A: Institutional sales roles (if you have sales experience) or compliance roles (if you come from a legal background) can lead to salaries in this range within 8-12 months.
+**Q3: What is the fastest path to a competitive salary?**  
+A: Institutional sales roles (if you have sales experience) or compliance roles (if you come from a legal background) can lead to competitive salaries within 8-12 months.
 
 **Q4: What represents the biggest opportunity in Johannesburg's Web3 space?**  
 A: Opportunities exist in enterprise blockchain applications for supply chain management, custody solutions for institutions, and fintech partnerships.

@@ -18,9 +18,9 @@ The Web3 ecosystem in Tunis is marked by strong technical skills, an emphasis on
 
 Tunis’s emergence as a Web3 talent hub rests on a solid educational foundation and technical expertise.
 
-- **Engineering Talent:** Tunisia produces approximately 15,000 engineering graduates annually, many specializing in software development and computer science. These graduates are known for their strong fundamentals and adaptability, positioning them well for the complexities of Web3 development.
+- **Engineering Talent:** Tunisia produces a significant number of engineering graduates annually, many specializing in software development and computer science. These graduates are known for their strong fundamentals and adaptability, positioning them well for the complexities of Web3 development.
   
-- **FinTech Innovations:** The FinTech sector in Tunis is expanding rapidly, with a focus on digital payments and improving financial infrastructure. This aligns with key applications of blockchain technology. The e-dinar initiative, an early digital currency experiment, reflects the country's commitment to financial innovation.
+- **FinTech Innovations:** The FinTech sector in Tunis is expanding, with a focus on digital payments and improving financial infrastructure. This aligns with key applications of blockchain technology. The e-dinar initiative, an early digital currency experiment, reflects the country's commitment to financial innovation.
 
 - **Remote Work Opportunities:** Due to the abundance of skilled talent and a lower cost of living compared to Europe, Tunis has become an attractive location for international Web3 companies hiring remote engineers. Many top career opportunities for Tunisian professionals are found within these global, remote-first teams.
 
@@ -28,32 +28,32 @@ Tunis’s emergence as a Web3 talent hub rests on a solid educational foundation
 
 ### In-Demand Roles and Salary Expectations
 
-The job market for Tunisian Web3 professionals primarily targets global and remote positions. As a result, top talent can secure salaries significantly higher than the local average, especially when compensated in USD or Euros.
+The job market for Tunisian Web3 professionals primarily targets global and remote positions. As a result, top talent can secure salaries significantly higher than the local average, especially when compensated in major currencies.
 
 | Role                                  | Mid-Level Salary (Remote)         | Senior Salary (Remote)          |
 |---------------------------------------|-----------------------------------|---------------------------------|
-| Smart Contract & Backend Developer     | $4,000 - $6,000 USD per month     | $6,000 - $10,000+ USD per month |
-| Full-Stack Web3 Engineer              | $3,500 - $5,500 USD per month     | $5,500 - $9,000+ USD per month  |
+| Smart Contract & Backend Developer     | Competitive compensation           | Higher-end compensation          |
+| Full-Stack Web3 Engineer              | Competitive compensation           | Higher-end compensation          |
 | Local Roles                           |                                   |                                 |
-| Mid-Level Developer                   | TND 4,000 - 7,000 per month       |                                 |
-| Community Manager (Arabic/French)     | TND 2,500 - 5,000 per month       |                                 |
+| Mid-Level Developer                   | Competitive local compensation     |                                 |
+| Community Manager (Arabic/French)     | Competitive local compensation     |                                 |
 
 **Complete Salary Guide: Web3 Jobs in Tunis**
 
 ### Local Opportunities
-- **Mid-Level Backend Developer:** TND 4,000–7,000/month (~$1,270–$2,230 USD)
-- **Smart Contract Developer (Solidity):** TND 5,500–9,000/month (~$1,750–$2,860 USD)
-- **Community Manager (French/Arabic):** TND 2,500–5,000/month (~$800–$1,590 USD)
+- **Mid-Level Backend Developer:** Competitive local compensation
+- **Smart Contract Developer (Solidity):** Competitive local compensation
+- **Community Manager (French/Arabic):** Competitive local compensation
 
 ### Remote Opportunities
-- **Mid-Level Developer:** $4,000–$6,000/month
-- **Senior Developer:** $6,000–$10,000+/month
-- **Senior Solidity Engineer:** $7,000–$12,000+/month
-- **Product Manager:** $4,000–$7,000/month
+- **Mid-Level Developer:** Competitive remote compensation
+- **Senior Developer:** Higher-end remote compensation
+- **Senior Solidity Engineer:** Higher-end remote compensation
+- **Product Manager:** Competitive remote compensation
 
-**Cost of Living Advantage:** Monthly expenses in Tunis range from $500 to $800. A remote salary of $5,000 allows for savings of 83–90% of income, creating exceptional opportunities for wealth accumulation in the Web3 space.
+**Cost of Living Advantage:** Monthly expenses in Tunis are relatively low. A remote salary allows for significant savings, creating exceptional opportunities for wealth accumulation in the Web3 space.
 
-### Career Paths to $6,000+/Month in Tunis
+### Career Paths to Competitive Salaries in Tunis
 
 #### Path 1: Senior Smart Contract Developer (DeFi Specialist) (10-18 Month Timeline)
 
@@ -68,7 +68,7 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 
 **Months 5-9: Specialization in DeFi Architecture**
 - Build two sophisticated projects: an AMM protocol and a lending protocol.
-- Audit 3-5 public smart contracts on Code4rena; earn $2,000–$5,000.
+- Audit 3-5 public smart contracts on Code4rena; earn competitive compensation.
 - Publish a technical article: "Designing Gas-Efficient DeFi Contracts."
 - Network with over 30 DeFi developers on Twitter.
 
@@ -79,14 +79,14 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 - Conduct interviews with top teams; anticipate an offer.
 - Transition to a full-time senior developer role.
 
-**Expected Compensation:** $6,500–$9,000+/month.
+**Expected Compensation:** Competitive salary.
 
 **Months 15-18: Establish Thought Leadership**
 - Become recognized as a top DeFi developer.
-- Pursue senior engineer or tech lead roles with salaries of $8,000–$12,000+/month.
+- Pursue senior engineer or tech lead roles with higher-end compensation.
 
 **Quick Wins:**
-- Identify security vulnerabilities on Immunefi; earn $5,000–$50,000+ in bounties.
+- Identify security vulnerabilities on Immunefi; earn competitive bounties.
 - Publish a viral Twitter thread on "The 10 Most Critical DeFi Security Flaws."
 
 #### Path 2: Full-Stack Web3 Engineer (Frontend + Smart Contracts) (8-14 Month Timeline)
@@ -108,12 +108,12 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 **Months 9-12: Land a Full-Time Role**
 - Target protocols seeking strong frontend engineers.
 
-**Expected Salary:** $4,500–$7,000/month.
+**Expected Salary:** Competitive compensation.
 
 **Months 13-14: Specialize Further**
 - Gain deep expertise in specific protocol architecture.
 
-**Expected Compensation:** $5,500–$9,000+/month.
+**Expected Compensation:** Competitive salary.
 
 **Quick Wins:**
 - Create an open-source Web3 UI library and attract sponsorship from major protocols.
@@ -135,13 +135,13 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 **Months 13-18: Secure a Core Team Role**
 - Apply to leading organizations like the Ethereum Foundation.
 
-**Expected Salary:** $7,000–$12,000+/month plus equity.
+**Expected Salary:** Competitive compensation plus equity.
 
 **Months 19-20: Achieve Thought Leadership**
 - Gain recognition as a core protocol engineer.
 
 **Quick Wins:**
-- Report bugs in major Layer 2 projects and earn significant bounties.
+- Report bugs in major Layer 2 projects and earn competitive bounties.
 
 ### Challenges & Solutions
 
@@ -189,7 +189,7 @@ Top Web3 positions often require fluency in English. Improve your language skill
 **Week 9-10:**
 - Publish a third article focused on technical research or market analysis.
 - Complete your first Code4rena audit and submit your findings.
-- Aim for one paid Upwork contract, targeting $200–$500.
+- Aim for one paid Upwork contract, targeting competitive compensation.
 - Attend two online Web3 events and ask insightful questions.
 
 **Week 11-12:**
@@ -202,7 +202,7 @@ Top Web3 positions often require fluency in English. Improve your language skill
 **Outputs after 90 days:**
 - 3-4 deployed projects on GitHub.
 - 3 published technical articles.
-- 1-2 paid contracts ranging from $200–$1,000.
+- 1-2 paid contracts ranging from competitive compensation.
 - 1 Code4rena audit submitted.
 - 1-2 open-source contributions.
 - 1,000+ Twitter followers.
@@ -217,12 +217,12 @@ Working for international companies is legal. Holding crypto is permissible but 
 **Should I learn Solidity or React first?**
 If your goal is high pay and prestige, start with Solidity. For a quicker entry into the job market, learn React first. Ultimately, mastering both will be beneficial.
 
-**How quickly can I earn $3,000/month?**
+**How quickly can I earn a competitive salary?**
 A realistic timeline includes:
 - **Months 1-2:** Zero earnings as you focus on learning.
-- **Months 3-4:** Earnings of $500–$1,000 from freelance projects.
-- **Months 5-6:** Earnings of $1,500–$2,500 from junior roles or freelance work.
-- **Months 7-12:** Achieving $3,000–$5,000/month through mid-level roles.
+- **Months 3-4:** Earnings from freelance projects.
+- **Months 5-6:** Earnings from junior roles or freelance work.
+- **Months 7-12:** Achieving a competitive salary through mid-level roles.
 
 **Is Tunisia a good place to be a Web3 engineer?**
 Yes, especially for remote work. The advantages include a high talent pool, a low cost of living, and a strong internet infrastructure. However, the local market is limited, making remote opportunities more viable.
@@ -244,9 +244,9 @@ Numerous protocols and startups are actively hiring, including Aave, Uniswap, an
 
 **What does salary progression look like?**
 A realistic salary trajectory may be:
-- **Year 1:** $2,000–$4,000/month (junior roles and freelance work).
-- **Year 2:** $4,000–$7,000/month (mid-level specialist positions).
-- **Year 3+:** $6,000–$15,000+/month (senior roles and leadership opportunities).
+- **Year 1:** Competitive compensation (junior roles and freelance work).
+- **Year 2:** Competitive compensation (mid-level specialist positions).
+- **Year 3+:** Higher-end compensation (senior roles and leadership opportunities).
 
 **Should I seek funding for a startup?**
 Focus on building personal wealth first. Accumulate savings before considering startup ventures.

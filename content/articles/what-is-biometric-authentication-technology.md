@@ -56,13 +56,13 @@ As technology progresses and privacy issues are addressed, biometric authenticat
 
 ### Frequently Asked Questions (FAQs)
 
-**1. Can my fingerprint or face be stolen from a photo?**
+**1. Can my fingerprint or face be stolen from a photo?**  
 Modern high-security systems make this scenario highly unlikely. Basic optical fingerprint scanners might be deceived by a high-quality replica, but advanced ultrasonic scanners used in many new devices provide superior security. Similarly, sophisticated 3D facial recognition systems like Face ID cannot be fooled by 2D photographs, as they evaluate both depth and geometry.
 
-**2. Where is my biometric data stored?**
+**2. Where is my biometric data stored?**  
 In most consumer devices, such as smartphones, biometric data resides in a secure, encrypted chip known as a secure enclave. The raw data is not uploaded to the cloud or shared with app developers. Instead, when an app requires biometric authentication, the device's operating system simply confirms whether access should be granted without revealing the underlying biometric data.
 
-**3. What happens if the system doesn’t recognize me?**
+**3. What happens if the system doesn’t recognize me?**  
 All biometric systems incorporate fallback authentication methods. If a fingerprint fails to register after multiple attempts, or if facial recognition is hindered by a mask, the system prompts users to enter a PIN or password.
 
 ### The Importance of Biometric Authentication in Cybersecurity
@@ -73,11 +73,11 @@ The table below illustrates the growing adoption of biometric authentication acr
 
 | Industry         | Adoption Rate (%) | Key Applications                     |
 |------------------|-------------------|--------------------------------------|
-| Banking          | 70                | Secure transactions, fraud prevention |
-| Healthcare       | 65                | Patient identification, access control |
-| Retail           | 50                | Payment processing, customer loyalty  |
-| Government       | 80                | National ID systems, border control   |
-| Education        | 40                | Campus access, examination integrity   |
+| Banking          | Significant       | Secure transactions, fraud prevention |
+| Healthcare       | Significant       | Patient identification, access control |
+| Retail           | Significant       | Payment processing, customer loyalty  |
+| Government       | Significant       | National ID systems, border control   |
+| Education        | Significant       | Campus access, examination integrity   |
 
 The data indicates a notable trend towards biometric authentication across various sectors, underscoring its significance in enhancing security protocols.
 

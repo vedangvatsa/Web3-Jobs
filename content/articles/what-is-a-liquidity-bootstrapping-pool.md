@@ -14,14 +14,14 @@ A **Liquidity Bootstrapping Pool (LBP)** serves as an innovative token launch me
 
 ### Challenges with Standard IDOs
 
-Standard IDOs, particularly on platforms such as Uniswap, typically initiate with a 50/50 liquidity pool comprising equal parts of the project token and a stablecoin like USDC. This model presents two prominent issues:
+Standard IDOs, particularly on platforms such as Uniswap, typically initiate with a liquidity pool comprising equal parts of the project token and a stablecoin like USDC. This model presents two prominent issues:
 
-1. **High Capital Requirement:** Projects must provide substantial collateral to ensure adequate liquidity. For example, if a project aims to raise $1 million, they might need to supply $500,000 worth of USDC.
+1. **High Capital Requirement:** Projects must provide substantial collateral to ensure adequate liquidity. For example, if a project aims to raise a significant amount, they might need to supply a considerable value of USDC.
 2. **Vulnerability to Front-Running:** As soon as a liquidity pool goes live, bots often exploit the opportunity to acquire tokens at a lower price, leading to potential price dumping. This behavior causes extreme volatility and unfair token distribution.
 
 ### The LBP Mechanism: Dynamic Pool Weighting
 
-An LBP effectively addresses these challenges through a structure that employs **dynamic weights**. Rather than maintaining a static 50/50 allocation, the LBP starts with a heavily skewed allocation favoring the project’s new token.
+An LBP effectively addresses these challenges through a structure that employs **dynamic weights**. Rather than maintaining a static allocation, the LBP starts with a heavily skewed allocation favoring the project’s new token.
 
 **A typical LBP launch can be illustrated as follows:**
 
@@ -31,9 +31,9 @@ An LBP effectively addresses these challenges through a structure that employs *
 | Weight Shift (Over 72h) | Decreasing               | Increasing                                | Price gradually decreases         |
 | Final State             | 10%                      | 90%                                       | Price stabilizes at a market level|
 
-1. **Initial State:** At launch, the Balancer pool may start with 90% project tokens and 10% USDC. This structure significantly reduces the capital required upfront for the project team.
+1. **Initial State:** At launch, the Balancer pool may start with a high percentage of project tokens and a low percentage of USDC. This structure significantly reduces the capital required upfront for the project team.
 2. **Weight Shift:** The smart contract automatically adjusts the pool’s weights over a designated time frame, such as 72 hours. The project token's weight decreases while the USDC weight increases.
-3. **Final State:** By the conclusion of the 72-hour period, the weights might shift to 10% project tokens and 90% USDC. This gradual adjustment creates downward pressure on the token price.
+3. **Final State:** By the conclusion of the 72-hour period, the weights might shift to a low percentage of project tokens and a high percentage of USDC. This gradual adjustment creates downward pressure on the token price.
 
 ### Advantages of an LBP
 
@@ -77,15 +77,15 @@ Consider professionals who have successfully implemented LBP strategies in their
 
 #### Example 1: Sarah the Developer
 
-Sarah, a developer at a blockchain startup, faced challenges in managing project expectations and delivering timely updates. After applying LBP principles, she improved her team's communication strategy. Within three months, her team's project completion rate increased by 30%.
+Sarah, a developer at a blockchain startup, faced challenges in managing project expectations and delivering timely updates. After applying LBP principles, she improved her team's communication strategy. Within a few months, her team's project completion rate increased significantly.
 
 #### Example 2: Juan the Product Manager
 
-Juan worked as a product manager in [DeFi](/what-is-defi) and encountered hurdles in product launches. By incorporating LBP methodologies, he structured his launch process to enhance community engagement. As a result, his last two product launches exceeded user adoption targets by 25%.
+Juan worked as a product manager in [DeFi](/what-is-defi) and encountered hurdles in product launches. By incorporating LBP methodologies, he structured his launch process to enhance community engagement. As a result, his last two product launches exceeded user adoption targets.
 
 #### Example 3: Maya Transitioning to Web3
 
-Maya transitioned from a Web2 role to a Web3 environment. By leveraging LBP strategies, she adapted to the faster pace and decentralized nature of her new workplace. Her proactive approach led to recognition as a top performer within her first six months.
+Maya transitioned from a Web2 role to a Web3 environment. By leveraging LBP strategies, she adapted to the faster pace and decentralized nature of her new workplace. Her proactive approach led to recognition as a top performer within her first few months.
 
 ### Common Pitfalls to Avoid
 
@@ -98,7 +98,7 @@ Maya transitioned from a Web2 role to a Web3 environment. By leveraging LBP stra
 ### Frequently Asked Questions
 
 **How long does it take to see results from implementing LBP strategies?**  
-Most individuals can expect to observe initial changes within 2 to 4 weeks of consistent application. Significant improvements typically materialize within 8 to 12 weeks, depending on individual circumstances and the level of engagement. Those who actively track their progress often notice faster advancements.
+Most individuals can expect to observe initial changes within a few weeks of consistent application. Significant improvements typically materialize within a couple of months, depending on individual circumstances and the level of engagement. Those who actively track their progress often notice faster advancements.
 
 **What if my workplace does not support LBP practices?**  
 Even in challenging environments, you can take initiative. Start with small, self-directed actions that require minimal organizational buy-in. As you document your progress and successes, you may inspire others to engage with your methods.

@@ -56,7 +56,7 @@ Singapore serves as a significant center for venture capital investment:
 
 - Temasek, Singapore's sovereign wealth fund, actively invests in crypto and fintech.
 - Numerous regional and global venture capital firms have offices in Singapore.
-- Hundreds of funds specifically focus on investing in crypto startups.
+- Many funds specifically focus on investing in crypto startups.
 - An active secondary market supports growth equity investments.
 
 #### Strategic Position in Asia
@@ -78,19 +78,19 @@ The job market in Singapore is sophisticated and demands highly skilled professi
 
 1. **Smart Contract & Protocol Engineers:** 
    - **Requirements:** 3-5 years of software development experience, in-depth knowledge of Solidity or Rust, and a security-focused mindset.
-   - **Compensation:** Mid-level positions range from SGD $120,000 to $180,000 annually, while senior roles can command between SGD $180,000 and SGD $280,000+. Lead positions often exceed SGD $300,000.
+   - **Compensation:** Mid-level positions range from SGD 120,000 to 180,000 annually, while senior roles can command between SGD 180,000 and SGD 280,000+. Lead positions often exceed SGD 300,000.
 
 2. **Quantitative Analysts & Researchers (DeFi):** 
    - **Requirements:** Strong mathematical and statistical skills, experience in financial modeling, and proficiency in programming languages like Python or C++.
-   - **Compensation:** Mid-level salaries range from SGD $150,000 to $220,000, while senior positions can reach SGD $220,000 to SGD $350,000+, with potential performance bonuses adding an additional 30% to 100% based on fund performance.
+   - **Compensation:** Mid-level salaries range from SGD 150,000 to 220,000, while senior positions can reach SGD 220,000 to SGD 350,000+, with potential performance bonuses based on fund performance.
 
 3. **Legal & Compliance Officers:** 
    - **Requirements:** Legal or compliance background, familiarity with MAS regulations, and experience in international financial services.
-   - **Compensation:** Experienced professionals can earn between SGD $140,000 and SGD $250,000, with upper-level compliance roles potentially exceeding SGD $280,000.
+   - **Compensation:** Experienced professionals can earn between SGD 140,000 and 250,000, with upper-level compliance roles potentially exceeding SGD 280,000.
 
 4. **Business Development & Institutional Sales:** 
    - **Requirements:** Strong sales background, experience in the financial sector, and understanding of institutional client needs.
-   - **Compensation:** Salaries for experienced professionals range from SGD $130,000 to SGD $220,000+, with commissions or bonuses frequently enhancing overall compensation.
+   - **Compensation:** Salaries for experienced professionals range from SGD 130,000 to 220,000+, with commissions or bonuses frequently enhancing overall compensation.
 
 ### Pathway to Securing a Web3 Job in Singapore
 
@@ -102,7 +102,7 @@ The job market in Singapore is sophisticated and demands highly skilled professi
 
 4. **Understand Nuances of Asian Markets:** Knowledge of the Southeast Asian market dynamics is a valuable asset, especially for roles in business development and strategy. Familiarity with regional payment preferences and regulatory environments can set you apart.
 
-5. **Visa Options:** Singapore offers accessible pathways for international talent. The Employment Pass (EP) is available for professionals earning above SGD $3,600 per month. The Tech.Pass and Tech Internship Pass cater to tech professionals and interns, respectively. Many Web3 companies are willing to sponsor visas for skilled candidates.
+5. **Visa Options:** Singapore offers accessible pathways for international talent. The Employment Pass (EP) is available for professionals earning above a certain monthly threshold. The Tech.Pass and Tech Internship Pass cater to tech professionals and interns, respectively. Many Web3 companies are willing to sponsor visas for skilled candidates.
 
 ### Comparing Singapore to Other Crypto Hubs
 
@@ -139,9 +139,9 @@ The job market in Singapore is sophisticated and demands highly skilled professi
 | **Total**                    | **2,700 - 5,100/month**  |
 
 **Salary vs. Cost of Living:**
-- A junior role with a salary of SGD $120,000 translates to SGD $10,000 monthly gross, allowing for a comfortable living.
-- A mid-level position earning SGD $200,000 results in SGD $16,667 monthly gross, enabling significant savings.
-- Senior roles commanding over SGD $300,000 provide a very high standard of living with potential for major savings.
+- A junior role with a salary of SGD 120,000 translates to SGD 10,000 monthly gross, allowing for a comfortable living.
+- A mid-level position earning SGD 200,000 results in SGD 16,667 monthly gross, enabling significant savings.
+- Senior roles commanding over SGD 300,000 provide a very high standard of living with potential for major savings.
 
 **Comparison with US Salaries:**
 - Salaries in Singapore may be slightly lower than in the US. However, the cost of living is lower, and there is no state income tax. Thus, the effective purchasing power can be higher in Singapore compared to cities like San Francisco or New York.

@@ -39,7 +39,7 @@ Miami has become a magnet for venture capital:
 ### Gateway to Latin America
 
 Miami's geographical and cultural position offers a unique advantage:
-- Over 40% of Florida's population identifies as Hispanic or Latin American.
+- A significant portion of Florida's population identifies as Hispanic or Latin American.
 - The city maintains deep cultural, linguistic, and business connections to Central America, South America, and the Caribbean.
 - Latin America ranks as one of the fastest-growing regions for crypto adoption globally.
 - Companies targeting Latin American markets often choose Miami as their headquarters.
@@ -47,7 +47,7 @@ Miami's geographical and cultural position offers a unique advantage:
 ### Major Conferences and Events
 
 Hosting some of the world's largest crypto conferences, Miami serves as an essential hub for networking:
-- The **Bitcoin Miami Conference** attracts over 30,000 attendees, making it the largest Bitcoin conference globally.
+- The **Bitcoin Miami Conference** attracts a large number of attendees, making it one of the largest Bitcoin conferences globally.
 - Miami previously hosted the significant **Consensus** conference.
 - **TOKEN2049**, Asia's largest crypto conference, occasionally takes place in Miami.
 - Monthly crypto meetups, seminars, and networking dinners foster community engagement.
@@ -59,66 +59,66 @@ These events connect the global crypto community, creating unmatched networking 
 Florida's lack of a state income tax presents considerable financial benefits:
 - Professionals retain a higher percentage of their earnings compared to states like New York and California.
 - Companies face lower operational costs.
-- High earners find Miami particularly appealing, saving over 10% of their income compared to other states.
+- High earners find Miami particularly appealing, saving a significant portion of their income compared to other states.
 
 ## In-Demand Roles and Salary Expectations
 
 The Miami job market exhibits a robust demand for finance, business development, and marketing roles, with rapidly growing interest in technical talent. Salaries are competitive with other major tech hubs in the United States.
 
-| Role                                      | Salary Range (USD)                   | Notes                                                    |
-|-------------------------------------------|--------------------------------------|----------------------------------------------------------|
-| Business Development & Institutional Sales | $160,000 - $230,000+                 | Substantial commission and bonus potential               |
-| VC / Investment Analyst                   | $120,000 - $180,000+                 | Plus carry                                               |
-| Marketing & Community Lead                | $150,000 - $200,000+                 | Involves high-energy campaigns                            |
-| [Smart Contract](/what-are-smart-contracts) Developer (DeFi Focus) | $180,000 - $250,000+                 | High demand for skilled developers                        |
+| Role                                      | Salary Range                   | Notes                                                    |
+|-------------------------------------------|--------------------------------|----------------------------------------------------------|
+| Business Development & Institutional Sales | Competitive                     | Substantial commission and bonus potential               |
+| VC / Investment Analyst                   | Competitive                     | Plus carry                                               |
+| Marketing & Community Lead                | Competitive                     | Involves high-energy campaigns                            |
+| [Smart Contract](/what-are-smart-contracts) Developer (DeFi Focus) | Competitive                     | High demand for skilled developers                        |
 
 ### Finance and Business Roles
 
 **Business Development & Institutional Sales:**
 This is a leading role in Miami focused on capital raising and partnerships.
-- **Director/Head of BD:** $160,000 - $250,000+ per year base salary.
-- **Commission/Bonus Potential:** Often equals 20-100% of the base salary.
-- **Equity:** Startups may offer significant equity packages, ranging from 0.1% to over 1%.
+- **Director/Head of BD:** Competitive base salary.
+- **Commission/Bonus Potential:** Often equals a significant percentage of the base salary.
+- **Equity:** Startups may offer significant equity packages.
 
 **Venture Capital / Investment Analyst:**
 Numerous crypto funds in Miami are continually hiring.
-- **Analyst:** $100,000 - $150,000.
-- **Associate:** $120,000 - $180,000+.
-- **Carry:** Often 10-20% of fund performance.
+- **Analyst:** Competitive salary.
+- **Associate:** Competitive salary.
+- **Carry:** Often a percentage of fund performance.
 
 **Treasury / Financial Operations:**
 This growing specialty involves managing crypto treasuries and assets.
-- **Treasury Manager:** $130,000 - $200,000+.
-- **Finance Director:** $150,000 - $250,000+.
+- **Treasury Manager:** Competitive salary.
+- **Finance Director:** Competitive salary.
 
 ### Marketing, Community & Operations Roles
 
 **Marketing & Growth Lead:**
 These professionals build brands and communities for crypto projects.
-- **Manager:** $100,000 - $150,000.
-- **Senior/Lead:** $150,000 - $250,000+.
-- **CMO Level:** $200,000 - $350,000+.
+- **Manager:** Competitive salary.
+- **Senior/Lead:** Competitive salary.
+- **CMO Level:** Competitive salary.
 
 **Community Manager / Community Lead:**
 Engaging communities is critical for Web3 projects.
-- **Manager:** $80,000 - $130,000.
-- **Senior:** $120,000 - $180,000+.
+- **Manager:** Competitive salary.
+- **Senior:** Competitive salary.
 
 **Operations / Project Management:**
-- **Operations Manager:** $90,000 - $150,000.
-- **Program Manager:** $100,000 - $170,000.
+- **Operations Manager:** Competitive salary.
+- **Program Manager:** Competitive salary.
 
 ### Technical Roles
 
 **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) (DeFi Focus):**
-- **Mid-Level:** $140,000 - $180,000.
-- **Senior:** $180,000 - $280,000+.
+- **Mid-Level:** Competitive salary.
+- **Senior:** Competitive salary.
 
 **Full-Stack Web3 Engineer:**
-- **Senior:** $160,000 - $240,000+.
+- **Senior:** Competitive salary.
 
 **Infrastructure Engineer:**
-- **Senior:** $150,000 - $250,000+.
+- **Senior:** Competitive salary.
 
 Technical roles may offer slightly lower salaries than those in Austin or San Francisco, but business and finance roles generally pay more. Miami attracts technical talent through its appealing lifestyle, culture, and the chance to work on impactful finance projects.
 
@@ -137,7 +137,7 @@ Miami's culture thrives on social connections and events. Your ability to build 
 - Demonstrate your community-building and personal branding skills.
 
 **Network Strategically:**
-- Identify 20 key individuals to connect with (founders, VCs, operators).
+- Identify key individuals to connect with (founders, VCs, operators).
 - Seek mutual introductions or attend events where they will be present.
 - Follow up consistently and provide value first to build genuine relationships.
 
@@ -289,7 +289,7 @@ Miami offers competitive salaries for business and finance roles. While technica
 
 - Research salary benchmarks on platforms like Levels.fyi, Blind, and Glassdoor for Web3 roles.
 - Factor in equity options and potential signing bonuses.
-- Remember that the lack of a state income tax means that a salary of $150,000 in Miami can equate to $170,000 or more in California.
+- Remember that the lack of a state income tax means that a salary in Miami can equate to a higher effective salary in other states.
 - Leverage your Latin American experience, as roles focused on this region often pay a premium.
 
 ## FAQs

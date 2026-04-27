@@ -30,9 +30,9 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 | **Role**                          | **Description**                                                                                                | **Salary Range**                  |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| **Remote Blockchain Developer**    | Skilled developers from the DRC are highly sought after for remote positions.                                | $5,000 - $10,000+ per month       |
-| **Supply Chain/Enterprise Consultant** | Experts in mining who can implement blockchain solutions are valuable for corporate and NGO projects.           | $80 - $150 per hour                |
-| **Community Manager**              | Bilingual professionals who can engage local communities in French, Lingala, or Swahili.                     | $1,500 - $3,000+ per month        |
+| **Remote Blockchain Developer**    | Skilled developers from the DRC are highly sought after for remote positions.                                | Competitive compensation            |
+| **Supply Chain/Enterprise Consultant** | Experts in mining who can implement blockchain solutions are valuable for corporate and NGO projects.           | Competitive compensation            |
+| **Community Manager**              | Bilingual professionals who can engage local communities in French, Lingala, or Swahili.                     | Competitive compensation            |
 | **NFT Artists and Curators**       | Creative individuals who assist local artists in navigating the NFT space and connecting with global buyers. | Variable, depending on projects    |
 
 ### Building a Web3 Career in Kinshasa
@@ -49,12 +49,12 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 | **Career Track**                  | **Position**                   | **Salary Range**                  |
 |-----------------------------------|--------------------------------|-----------------------------------|
-| **Developer Track**               | Junior Developer               | $1,500 - $2,500 per month (remote) |
-|                                   | Mid-Level Developer            | $3,000 - $5,000 per month (remote) |
-|                                   | Senior Developer               | $6,000 - $12,000+ per month (remote) |
-| **Supply Chain & Consulting**     | Supply Chain Consultant        | $80 - $150 per hour                |
-|                                   | Enterprise Blockchain Architect | $4,000 - $8,000 per month         |
-|                                   | NFT Community Manager          | $1,500 - $3,000 per month         |
+| **Developer Track**               | Junior Developer               | Competitive compensation            |
+|                                   | Mid-Level Developer            | Competitive compensation            |
+|                                   | Senior Developer               | Competitive compensation            |
+| **Supply Chain & Consulting**     | Supply Chain Consultant        | Competitive compensation            |
+|                                   | Enterprise Blockchain Architect | Competitive compensation            |
+|                                   | NFT Community Manager          | Competitive compensation            |
 
 ### Career Path Roadmaps
 
@@ -111,7 +111,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 **Political and Economic Instability**: The DRC faces periodic unrest and currency fluctuations. Adopting remote work and receiving payment in stablecoins can mitigate risks. Maintaining an emergency fund in stable assets is advisable.
 
-**Infrastructure Limitations**: Internet connectivity can be unreliable, with typical speeds between 3-8 Mbps. Working from tech hubs with better infrastructure or utilizing mobile hotspots can alleviate some challenges.
+**Infrastructure Limitations**: Internet connectivity can be unreliable. Working from tech hubs with better infrastructure or utilizing mobile hotspots can alleviate some challenges.
 
 **Cobalt Supply Chain Complexity**: Accessibility to mining operations and political sensitivities complicate supply chain projects. Collaborating with NGOs and international buyers can provide essential support.
 
@@ -129,10 +129,10 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 ### FAQs
 
 **What are the key opportunities in Kinshasa?**
-The DRC's cobalt supply chain requires blockchain for transparency, representing a multi-billion-dollar opportunity. Additionally, local artists need platforms for their work, and there are millions of unbanked individuals who can benefit from DeFi solutions.
+The DRC's cobalt supply chain requires blockchain for transparency, representing a significant opportunity. Additionally, local artists need platforms for their work, and there are millions of unbanked individuals who can benefit from DeFi solutions.
 
 **How can I connect with the mining industry?**
-Engage with NGOs such as Global Witness and Amnesty International, which focus on responsible sourcing. These organizations have established relationships with mines and international buyers.
+Engage with NGOs that focus on responsible sourcing. These organizations have established relationships with mines and international buyers.
 
 **Can I assist local artists with NFTs?**
 Absolutely. Kinshasa's rich artistic scene is filled with talent eager to reach a global audience. By helping artists navigate the NFT landscape, you can create mutually beneficial connections.
@@ -140,7 +140,7 @@ Absolutely. Kinshasa's rich artistic scene is filled with talent eager to reach 
 **Is it safe to work in Web3 in the DRC?**
 Remote work offers the safest approach. Building an online presence and keeping funds in secure wallets can mitigate risks. Many professionals thrive in this environment.
 
-**What is the expected timeline to earn $3,000+ per month?**
+**What is the expected timeline to earn a competitive salary?**
 Typically, the timeline ranges from 9 to 13 months, including 3-4 months of learning, 2-3 months of freelance work, and 3-4 months in a full-time position.
 
 **Should I relocate to Kinshasa?**
