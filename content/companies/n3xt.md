@@ -1,5 +1,6 @@
 ---
 name: N3XT
+website: https://n3xt.io
 category: Other
 description: N3XT offers job listings in the tech industry, including DevOps roles.
 ---

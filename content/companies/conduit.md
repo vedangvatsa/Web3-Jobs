@@ -1,5 +1,6 @@
 ---
 name: Conduit
+website: https://conduit.xyz
 category: Developer Tools
 description: Conduit provides tools for developers in the blockchain space.
 ---

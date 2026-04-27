@@ -1,5 +1,6 @@
 ---
 name: Tactic
+website: https://tactic.so
 category: Other
 description: Tactic focuses on providing solutions for Web3 and blockchain projects.
 ---

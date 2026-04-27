@@ -1,5 +1,6 @@
 ---
 name: Joyride Labs
+website: https://joyride.games
 category: Other
 description: Joyride Labs focuses on building infrastructure for Web3 gaming.
 ---

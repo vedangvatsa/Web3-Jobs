@@ -1,5 +1,6 @@
 ---
 name: Ellipsis Labs
+website: https://ellipsislabs.xyz
 category: Other
 description: Ellipsis Labs focuses on building decentralized applications and tools for Web3.
 ---

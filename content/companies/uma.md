@@ -1,5 +1,6 @@
 ---
 name: Uma
+website: https://uma.xyz
 category: DeFi Protocol
 description: Uma builds decentralized financial contracts on Ethereum.
 ---

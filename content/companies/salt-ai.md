@@ -1,5 +1,6 @@
 ---
 name: Salt AI
+website: https://salt.ai
 category: Other
 description: Salt AI specializes in AI solutions for financial services.
 ---

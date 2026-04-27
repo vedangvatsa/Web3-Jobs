@@ -1,5 +1,6 @@
 ---
 name: Render Foundation
+website: https://rendernetwork.com
 category: Other
 description: Render Foundation focuses on decentralized GPU rendering solutions.
 ---
