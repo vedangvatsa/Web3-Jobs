@@ -12,6 +12,7 @@ import { CompanyApplyButton } from '@/components/tracking/company-apply-button';
 import { OutboundLink } from '@/components/tracking/outbound-link';
 
 export const revalidate = 3600;
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const companies = await getCompanies();
@@ -263,11 +264,7 @@ export default async function CompanyPage({ params }: { params: { slug: string }
               ))}
             </div>
 
-            {/* Footer note */}
-            <p className="text-xs text-muted-foreground mt-8">
-              Updated {new Date(company.lastUpdated).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}. 
-              Jobs aggregated from {company.name}&apos;s career page.
-            </p>
+
           </div>
         </main>
       </div>

@@ -1,6 +1,6 @@
 ---
 name: Render Network
-website: https://render.com
+website: https://rendernetwork.com
 category: Other
 description: Decentralized GPU rendering network for 3D content creators.
 ---
