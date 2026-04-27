@@ -22,7 +22,7 @@ A conventional crypto [wallet](/how-to-choose-a-crypto-wallet) relies on a singl
 
 Institutions have addressed this issue with **multisig wallets**. A multisig wallet operates via a [smart contract](/what-are-smart-contracts) that requires M-of-N signatures to authorize a transaction (for instance, 3 out of 5 designated signers must give their approval). This setup significantly mitigates the single point of failure. However, multisigs introduce their own challenges:
 - **On-Chain and Inflexible:** Multisig transactions are enforced by smart contracts on the [blockchain](/what-is-a-blockchain), where each signature requires a separate on-chain transaction. This can be both slow and costly. Furthermore, multisigs do not function on non-smart contract blockchains like [Bitcoin](/what-is-bitcoin).
-- **Lack of Privacy:** The on-chain nature of multisigs exposes the security policy—such as the identities of the signers and the number required for approval—to public scrutiny.
+- **Lack of Privacy:** The on-chain nature of multisigs exposes the security policy, such as the identities of the signers and the number required for approval, to public scrutiny.
 
 ### The MPC Solution: Distributing the Key Itself
 
@@ -173,7 +173,7 @@ A: Historically, bear markets present the best opportunities to enter Web3 profe
 
 - Web3 offers substantial compensation premiums, typically above Web2 equivalents, along with accelerated career growth and the chance to contribute to transformative technology across various industries.
 - Most professionals complete a significant transition to Web3 within 2–6 months of focused effort, with engineers and product managers generally moving the fastest due to the direct applicability of their skills.
-- Existing domain expertise remains invaluable in Web3. Instead of starting anew, concentrate on embedding blockchain-specific context—such as wallets, smart contracts, tokenomics, and DAOs—into your existing skill set.
+- Existing domain expertise remains invaluable in Web3. Instead of starting anew, concentrate on embedding blockchain-specific context, such as wallets, smart contracts, tokenomics, and DAOs, into your existing skill set.
 - Networking within Discord communities and engaging on Twitter alongside visible portfolio projects on GitHub tends to outperform formal certifications in securing Web3 roles.
 - Aim to join well-funded, established protocols with proven revenue to mitigate the inherent volatility in the sector. Negotiate base salaries in fiat currency.
 - The Web3 community is notably supportive, providing mentorship opportunities, free educational resources, and active developer communities across all major protocols.

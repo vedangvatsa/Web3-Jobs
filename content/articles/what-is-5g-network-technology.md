@@ -66,7 +66,7 @@ Yes. To access a 5G network, you need a device equipped with a 5G-compatible mod
 
 **2. Is 5G available everywhere?**
 
-Availability varies. Although many urban and suburban regions have some form of 5G—often low-band or mid-band—it will take several years for comprehensive coverage akin to that of 4G to materialize. High-band mmWave coverage remains limited to specific locations.
+Availability varies. Although many urban and suburban regions have some form of 5G, often low-band or mid-band, it will take several years for comprehensive coverage akin to that of 4G to materialize. High-band mmWave coverage remains limited to specific locations.
 
 **3. Is 5G safe?**
 

@@ -43,7 +43,7 @@ Central Bank Digital Currency (CBDC) represents a digital version of a country's
 
 CBDCs cater to various use cases, such as retail payments for the general public and wholesale payments for financial institutions. The design and implementation of CBDCs differ among countries, reflecting each central bank's unique goals and requirements.
 
-In a traditional financial system, physical cash—bills and coins—constitutes currency issued by the central bank. A CBDC serves as a digital counterpart, facilitating transactions and payments similar to physical cash or debit/credit cards.
+In a traditional financial system, physical cash, bills and coins, constitutes currency issued by the central bank. A CBDC serves as a digital counterpart, facilitating transactions and payments similar to physical cash or debit/credit cards.
 
 Possessing a CBDC equates to holding a direct claim on the central bank, akin to having physical cash. The central bank is tasked with issuing the CBDC and maintaining its value, mirroring its management of paper currency.
 
@@ -82,7 +82,7 @@ As of May 2024, a significant number of countries and currency unions are active
 
 Most countries with advanced CBDC initiatives utilize intermediated systems, where banks, financial institutions, and payment service providers distribute the digital currencies. However, China's digital yuan (e-CNY) allows users direct access through a central bank app. The e-CNY represents one of the world's largest CBDC pilots. Since 2022, it has been used for various purposes, including public transportation and healthcare, and is being optimized for international tourists and expanded cross-border applications in the near future.
 
-The BRICS nations—Brazil, Russia, India, China, and South Africa—are all in the pilot phase of CBDC exploration, collaborating to create an alternative payment system to the US dollar. Following recent geopolitical events, the development of cross-border wholesale CBDC projects has intensified, enabling digital currency transfers between nations. The mBridge project, connecting China, Thailand, the UAE, and Hong Kong, plans to expand its reach to additional countries in the near future.
+The BRICS nations, Brazil, Russia, India, China, and South Africa, are all in the pilot phase of CBDC exploration, collaborating to create an alternative payment system to the US dollar. Following recent geopolitical events, the development of cross-border wholesale CBDC projects has intensified, enabling digital currency transfers between nations. The mBridge project, connecting China, Thailand, the UAE, and Hong Kong, plans to expand its reach to additional countries in the near future.
 
 ## India's Approach
 

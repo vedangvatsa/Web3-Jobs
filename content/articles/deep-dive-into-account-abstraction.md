@@ -35,7 +35,7 @@ This strict separation contributes to Web3's UX challenges. Users must manage al
 
 ## EIP-4337: Account Abstraction Without Consensus Changes
 
-Previous Account Abstraction proposals necessitated a "hard fork," which requires substantial changes to Ethereum's consensus rules—a process that is slow and complex. EIP-4337, co-authored by Vitalik Buterin, innovatively achieves Account Abstraction without altering the consensus layer.
+Previous Account Abstraction proposals necessitated a "hard fork," which requires substantial changes to Ethereum's consensus rules, a process that is slow and complex. EIP-4337, co-authored by Vitalik Buterin, innovatively achieves Account Abstraction without altering the consensus layer.
 
 EIP-4337 introduces a separate, higher-level transaction mempool. Instead of standard transactions, users submit "UserOperation" objects to this alternate mempool. Specialized nodes, known as "Bundlers," aggregate these UserOperations into a single standard transaction and submit it to a global "EntryPoint" smart contract on the blockchain.
 
@@ -86,7 +86,7 @@ A Smart Account can be programmed to execute multiple operations within a single
 
 Account Abstraction transforms Web3 user accounts from simple seed-phrase-controlled wallets to programmable smart contracts. This shift reduces user complexity and allocates more responsibility to developers. Features such as social recovery, gasless transactions, and session keys become feasible, enhancing user experience.
 
-EIP-4337's capabilities allow dApps to compete with the usability of leading Web2 applications. It smooths out the harshest aspects of the crypto experience—seed phrases and gas fees—that have long deterred average internet users from engaging.
+EIP-4337's capabilities allow dApps to compete with the usability of leading Web2 applications. It smooths out the harshest aspects of the crypto experience, seed phrases and gas fees, that have long deterred average internet users from engaging.
 
 As the infrastructure for bundlers and paymasters develops, and with increasing adoption of the EIP-4337 standard by wallet providers, Account Abstraction is poised to become the norm for a new generation of Web3 users. It represents a critical advancement necessary for onboarding the next billion users to the decentralized web.
 

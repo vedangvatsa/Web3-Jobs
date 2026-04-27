@@ -71,7 +71,7 @@ Sharding and Layer 2 solutions complement each other rather than compete:
 
 Sharding modifies the core blockchain protocol to distribute work across shards, offering ambitious scalability gains but introducing significant complexity. In contrast, Layer 2 solutions, such as rollups, operate transactions off-chain and periodically settle them on the main chain. These solutions can be deployed independently and rapidly, making them a current focus for platforms like Ethereum.
 
-Ethereum's strategy emphasizes Layer 2 solutions as the primary scaling method, with Danksharding—focused on data availability—being implemented to enhance Layer 2 efficiency through cost-effective on-chain data storage.
+Ethereum's strategy emphasizes Layer 2 solutions as the primary scaling method, with Danksharding, focused on data availability, being implemented to enhance Layer 2 efficiency through cost-effective on-chain data storage.
 
 ## Security Considerations
 
@@ -93,7 +93,7 @@ Balancing security and scalability presents a complex engineering challenge. Exc
 
 ## Current State: Ethereum's Danksharding
 
-Ethereum is implementing a sharding variation known as Danksharding, named after researcher Dankrad Feist. Rather than sharding transaction processing—which is complex—Danksharding focuses on **data availability sharding**, which involves partitioning the data required by Layer 2 systems.
+Ethereum is implementing a sharding variation known as Danksharding, named after researcher Dankrad Feist. Rather than sharding transaction processing, which is complex, Danksharding focuses on **data availability sharding**, which involves partitioning the data required by Layer 2 systems.
 
 This approach is significant because Layer 2 rollups batch transactions off-chain and submit the batch data to Ethereum as a commitment. Currently, rollups must post all transaction data on-chain, which is costly for verification.
 

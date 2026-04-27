@@ -46,7 +46,7 @@ To excel as a Web3 technical writer, a unique combination of skills is necessary
 
 - **Technical Curiosity:** A genuine interest in understanding the intricacies of technology is essential. Engaging with complex systems and dissecting them to grasp their workings should be appealing.
 
-- **Coding Proficiency:** While you don't need to be a professional developer, familiarity with code—especially [Solidity](/solidity-for-beginners) and JavaScript/TypeScript—is crucial for accurately documenting smart contracts and SDKs.
+- **Coding Proficiency:** While you don't need to be a professional developer, familiarity with code, especially [Solidity](/solidity-for-beginners) and JavaScript/TypeScript, is crucial for accurately documenting smart contracts and SDKs.
 
 - **Explanatory Skillset:** The ability to distill complex information into clear, concise, and comprehensible language is vital.
 

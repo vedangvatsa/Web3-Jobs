@@ -18,7 +18,7 @@ In contrast to traditional game development, which relies on centralized servers
 
 #### Economy Design
 
-Creating a Web3 game involves designing a functional micro-economy rather than just a game. Developers must collaborate with economy designers to establish balanced, sustainable systems resistant to inflation. This includes developing mechanisms for token "sinks"—methods to remove currency from the game—and "faucets"—ways to introduce currency.
+Creating a Web3 game involves designing a functional micro-economy rather than just a game. Developers must collaborate with economy designers to establish balanced, sustainable systems resistant to inflation. This includes developing mechanisms for token "sinks", methods to remove currency from the game, and "faucets", ways to introduce currency.
 
 #### On-Chain vs. Off-Chain Logic
 

@@ -24,7 +24,7 @@ CRISPR gene editing stands out as one of the most notable innovations in biotech
 
 ### Transforming Agriculture
 
-Biotechnology is revolutionizing food production by enhancing agricultural practices. Genetically modified (GM) crops are engineered to exhibit beneficial traits, including pest resistance, herbicide tolerance, and improved nutritional profiles. One prominent example is "Golden Rice," a rice variety modified to synthesize beta-carotene, a precursor of Vitamin A, addressing Vitamin A deficiency—a critical public health issue in many regions.
+Biotechnology is revolutionizing food production by enhancing agricultural practices. Genetically modified (GM) crops are engineered to exhibit beneficial traits, including pest resistance, herbicide tolerance, and improved nutritional profiles. One prominent example is "Golden Rice," a rice variety modified to synthesize beta-carotene, a precursor of Vitamin A, addressing Vitamin A deficiency, a critical public health issue in many regions.
 
 In addition to genetic modification, biotechnology facilitates sustainable agricultural practices. Innovative companies are developing microbial solutions that serve as natural fertilizers, thereby minimizing reliance on chemical inputs. Other initiatives involve using gene editing techniques to cultivate crops that are more resilient to drought and disease, which is increasingly vital in light of climate change.
 

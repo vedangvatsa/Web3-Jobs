@@ -19,7 +19,7 @@ With proper preparation, you can excel in a virtual [interview](/how-to-prepare-
 Technical issues can disrupt a virtual interview and detract from your professionalism. Testing your equipment ahead of time is essential.
 
 * **Internet Connection:** Ensure you have a stable internet connection. If your Wi-Fi signal fluctuates, switch to a wired Ethernet connection to avoid interruptions.
-* **Video Conferencing Software:** Download and familiarize yourself with the video conferencing platform—be it Zoom, Google Meet, or Microsoft Teams—well in advance. Understanding how to use the software will help minimize surprises during the interview.
+* **Video Conferencing Software:** Download and familiarize yourself with the video conferencing platform, be it Zoom, Google Meet, or Microsoft Teams, well in advance. Understanding how to use the software will help minimize surprises during the interview.
 * **Camera and Microphone:** Verify that your camera and microphone are functioning correctly. An external webcam and a headset with a microphone can enhance audio and video quality.
 
 Conduct a test call with a friend or family member to ensure everything works smoothly.

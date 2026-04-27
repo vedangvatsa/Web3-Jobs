@@ -16,7 +16,7 @@ Maximal Extractable Value (MEV) has gained significance in cryptocurrency and de
 
 ### The Mempool and the Role of Block Producers
 
-Understanding MEV requires knowledge of transaction processing. When you submit a transaction on a blockchain like [Ethereum](/what-is-ethereum) (for instance, swapping [tokens](/what-is-a-token) on Uniswap), it first enters the **mempool**. This area contains pending, unconfirmed transactions waiting for selection by a block producer—either a miner in Proof-of-Work systems or a validator in Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) systems.
+Understanding MEV requires knowledge of transaction processing. When you submit a transaction on a blockchain like [Ethereum](/what-is-ethereum) (for instance, swapping [tokens](/what-is-a-token) on Uniswap), it first enters the **mempool**. This area contains pending, unconfirmed transactions waiting for selection by a block producer, either a miner in Proof-of-Work systems or a validator in Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) systems.
 
 Block producers choose transactions from the mempool to assemble the next block. Their incentive lies in selecting transactions with the highest gas fees, but they also have the discretion to choose which transactions to include and their order. This ability to reorder transactions provides a pathway for MEV extraction. A rational block producer will prioritize transactions that maximize their profit, leading to MEV opportunities.
 

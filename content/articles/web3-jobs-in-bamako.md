@@ -221,13 +221,13 @@ A: In the first three months, focus on learning. In months 4-6, balance your eff
 A: Yes, it is advantageous. You possess deep insights into local challenges, you are addressing a large, underserved market, and global funding for impactful projects is available. Your barrier is execution, not location.
 
 **Q: How do I protect myself from scams?**
-A: (1) Work only with companies listed on reputable platforms, (2) secure written contracts, (3) utilize escrow services for freelance projects, (4) trust your instincts—if something feels off, it likely is, (5) seek referrals from verified community members.
+A: (1) Work only with companies listed on reputable platforms, (2) secure written contracts, (3) utilize escrow services for freelance projects, (4) trust your instincts, if something feels off, it likely is, (5) seek referrals from verified community members.
 
 **Q: Can I work full-time while studying?**
 A: Yes. Many individuals balance work and study. A suggested strategy involves studying during flexible hours. The initial months may be intense, but the investment pays off.
 
 **Q: When is the best time to apply for jobs?**
-A: After several months of consistent learning and completing projects. Avoid waiting until you feel "ready"—the fastest learning occurs while working. Start applying even if you feel nervous.
+A: After several months of consistent learning and completing projects. Avoid waiting until you feel "ready", the fastest learning occurs while working. Start applying even if you feel nervous.
 
 **Q: Should I focus on Solidity or full-stack development?**
 A: Begin with full-stack development, which presents more job opportunities. After a few months, once you grasp blockchain basics, start learning Solidity. Most entry-level positions prefer candidates with full-stack experience.
@@ -239,7 +239,7 @@ A: Engage through meetups, Twitter, Discord, and tech hubs. Post requests like "
 A: Persistence significantly reduces the likelihood of failure. Even if you do not secure a Web3 role, the skills you've acquired in JavaScript and blockchain are globally valuable and well-compensated. There are no losses, only learning.
 
 **Q: How often should I network?**
-A: Aim to network weekly. Post on Twitter regularly, engage in Discord conversations daily, and attend local meetups or mentor calls weekly. Networking is essential—the benefits compound over time.
+A: Aim to network weekly. Post on Twitter regularly, engage in Discord conversations daily, and attend local meetups or mentor calls weekly. Networking is essential, the benefits compound over time.
 
 ### Conclusion
 

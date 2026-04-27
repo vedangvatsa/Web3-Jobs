@@ -40,7 +40,7 @@ The demand for Web3 professionals in Vietnam is high, particularly for roles in 
 
 ### How to Secure a Web3 Job in Vietnam
 
-1. **Emphasize Your Gaming Passion and Experience:** This is your strongest asset. A thorough understanding of gaming—whether through playing, modding, managing guilds, or professional development—is invaluable. Tailor your [resume](/how-to-build-a-web3-resume-that-stands-out) and [portfolio](/building-web3-portfolio) to highlight this experience.
+1. **Emphasize Your Gaming Passion and Experience:** This is your strongest asset. A thorough understanding of gaming, whether through playing, modding, managing guilds, or professional development, is invaluable. Tailor your [resume](/how-to-build-a-web3-resume-that-stands-out) and [portfolio](/building-web3-portfolio) to highlight this experience.
 
 2. **Engage with Local Gaming Guilds and Communities:** The guild community holds substantial influence in Vietnam. Joining these groups or even establishing your own can be a strategic move for networking, learning, and uncovering job opportunities.
 

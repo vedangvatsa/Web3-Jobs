@@ -252,7 +252,7 @@ Either Path 2 (freelancer) or Path 3 (employee) typically takes about six months
 Path 1 (core protocol developer) can yield competitive salaries at a senior level. Path 2 (auditor) offers competitive earnings, while Path 3 (employee) ranges from competitive salaries.
 
 **Can I combine paths?**  
-Yes. Combining Path 1 with Path 2—contributing to a protocol while participating in Code4rena—is effective. Alternatively, pursue Path 3 alongside side projects in Code4rena.
+Yes. Combining Path 1 with Path 2, contributing to a protocol while participating in Code4rena, is effective. Alternatively, pursue Path 3 alongside side projects in Code4rena.
 
 **What if I don't have a computer science degree?**  
 A degree is not a necessity. A public portfolio showcasing your work is more important. Many self-taught developers thrive in Web3.

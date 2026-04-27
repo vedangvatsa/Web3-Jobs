@@ -68,7 +68,7 @@ A career break can greatly enhance your skills and perspectives, but it requires
 The duration of a career break varies. It can range from a few months to several years. The right length depends on your personal goals and financial situation. Generally, planning for a shorter break allows for adjustments later if needed.
 
 **Will a career break hurt my [resume](/how-to-build-a-web3-resume-that-stands-out)?**  
-A well-framed career break can enhance your resume. If you engage in productive activities—such as learning new skills or gaining valuable experiences—this time can be presented as a meaningful part of your career journey.
+A well-framed career break can enhance your resume. If you engage in productive activities, such as learning new skills or gaining valuable experiences, this time can be presented as a meaningful part of your career journey.
 
 **How do I save enough money for a career break?**  
 Start by outlining a detailed budget of your current and anticipated expenses during your break. Set a savings goal and identify strategies to reach it, such as reducing discretionary spending, pursuing side jobs, or setting up automatic transfers to a dedicated savings account.

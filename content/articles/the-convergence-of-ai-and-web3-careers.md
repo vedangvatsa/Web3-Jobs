@@ -56,7 +56,7 @@ AI integration into Web3 products results in the creation of several hybrid role
 
 ## The Hybrid Skill Set: Essential Learning Path
 
-To thrive in a career that merges AI and [Web3 careers](/web3-jobs-for-beginners), professionals must develop a T-shaped skill set—deep expertise in one area combined with a broad understanding of the other.
+To thrive in a career that merges AI and [Web3 careers](/web3-jobs-for-beginners), professionals must develop a T-shaped skill set, deep expertise in one area combined with a broad understanding of the other.
 
 - **For AI Professionals**: Acquire foundational knowledge of Web3. Understand blockchain mechanics, smart contracts, and tokenomics. Engage with practical applications by creating a [wallet](/how-to-choose-a-crypto-wallet), using various dApps, and experimenting with simple smart contracts.
   

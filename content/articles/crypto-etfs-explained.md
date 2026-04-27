@@ -18,7 +18,7 @@ An **Exchange-Traded Fund (ETF)** is an investment fund traded on stock exchange
 
 ### Defining a Spot Crypto ETF
 
-A **spot crypto ETF**, such as the iShares Bitcoin Trust (IBIT) from BlackRock, directly holds the underlying cryptocurrency—in this case, Bitcoin.
+A **spot crypto ETF**, such as the iShares Bitcoin Trust (IBIT) from BlackRock, directly holds the underlying cryptocurrency, in this case, Bitcoin.
 
 - **Operational Mechanics:** The issuer of the ETF acquires and securely holds a substantial quantity of Bitcoin. They then issue shares of the fund, which trade on recognized stock exchanges like Nasdaq. The value of these shares is intended to reflect the real-time “spot” price of Bitcoin.
 - **Primary Advantage:** Investors can access cryptocurrency price movements using familiar, regulated brokerage accounts, bypassing the complexities of purchasing and self-custodying digital assets.
@@ -33,7 +33,7 @@ A spot ETF differs significantly from a **futures ETF**. Futures ETFs, which hav
 2. **Regulatory Endorsement:** The U.S. Securities and Exchange Commission (SEC) approving spot ETFs lends substantial legitimacy to cryptocurrencies. This approval serves as a signal to cautious investors that the asset class has matured and is a viable investment option.
 3. **Institutional Investment Influx:** Large institutional investors, such as pension funds and endowments, often cannot hold cryptocurrencies directly due to internal mandates. However, they can invest in regulated products like ETFs, creating a significant opportunity for new capital to enter the crypto market.
 
-While self-custody remains a foundational principle in cryptocurrency—illustrated by the phrase “not your keys, not your coins”—crypto ETFs bridge the gap between traditional finance and [Decentralized Finance (DeFi)](/what-is-defi). They offer a secure entry point for millions of new users and significant capital, which is essential for fostering the long-term growth and acceptance of the entire [Web3](/what-is-web3) ecosystem.
+While self-custody remains a foundational principle in cryptocurrency, illustrated by the phrase “not your keys, not your coins”, crypto ETFs bridge the gap between traditional finance and [Decentralized Finance (DeFi)](/what-is-defi). They offer a secure entry point for millions of new users and significant capital, which is essential for fostering the long-term growth and acceptance of the entire [Web3](/what-is-web3) ecosystem.
 
 ## The Web3 Opportunity
 

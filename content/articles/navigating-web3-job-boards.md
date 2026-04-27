@@ -69,7 +69,7 @@ Make your public [wallet](/how-to-choose-a-crypto-wallet) address or ENS name (e
 
 ### 3. Speak the Language
 
-Showcase your understanding of Web3 culture and terminology. Your summary should narrate your "rabbit hole story"—how you became interested in Web3 and what drives your passion. Correctly use terms like "DeFi," "DAOs," "NFTs," and "L2s" to indicate your familiarity with the space.
+Showcase your understanding of Web3 culture and terminology. Your summary should narrate your "rabbit hole story", how you became interested in Web3 and what drives your passion. Correctly use terms like "DeFi," "DAOs," "NFTs," and "L2s" to indicate your familiarity with the space.
 
 ### 4. Emphasize Remote and Asynchronous Work Skills
 

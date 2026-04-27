@@ -47,7 +47,7 @@ A: Not necessarily. A mentor from a different department can often provide a val
 
 ## How to Find a Mentor at a New Company
 
-A mentor can provide guidance, support, and advocacy as you navigate a new role and plan your career path. In fact, mentorship is one of the most underrated accelerators of career growth—studies show that people with mentors are promoted significantly more often than those without.
+A mentor can provide guidance, support, and advocacy as you navigate a new role and plan your career path. In fact, mentorship is one of the most underrated accelerators of career growth, studies show that people with mentors are promoted significantly more often than those without.
 
 ### The Power of Mentorship
 
@@ -90,14 +90,14 @@ Finding the right mentor starts before you even approach anyone. Be strategic ab
 
 ### Step 2: Build an Initial Connection
 
-This is the critical step where many people falter. You're not asking someone to commit to a formal mentorship—you're asking for a small favor.
+This is the critical step where many people falter. You're not asking someone to commit to a formal mentorship, you're asking for a small favor.
 
 **Don't Ask "Will You Be My Mentor?":** 
 This creates several problems:
 - It's intimidating and feels like a big commitment.
 - It puts them on the spot for an immediate decision.
 - It implies a formal, ongoing relationship they may not be ready for.
-- It's actually unnecessary—most mentorships develop naturally over time.
+- It's actually unnecessary, most mentorships develop naturally over time.
 
 **Request an Informational Interview Instead:** 
 This is much easier to say yes to. Here's a template:
@@ -169,7 +169,7 @@ Within 24 hours, send a note that:
 - Leaves the door open for future conversation.
 
 Example:
-> Thanks so much for taking the time to meet with me yesterday. Your point about the importance of building relationships across departments before taking on a leadership role really resonated—I'm already planning how to increase my cross-functional collaboration. I'd love to share updates on how that goes when we chat next.
+> Thanks so much for taking the time to meet with me yesterday. Your point about the importance of building relationships across departments before taking on a leadership role really resonated, I'm already planning how to increase my cross-functional collaboration. I'd love to share updates on how that goes when we chat next.
 
 **Stay in Touch:**
 After the first meeting, don't just disappear. Regular (but not excessive) contact keeps the relationship warm:
@@ -184,7 +184,7 @@ Over time, if the relationship is working, it will naturally deepen:
 - You'll graduate from 20-minute coffee chats to longer conversations.
 - They may begin suggesting opportunities or introductions.
 - It may become a more formal, ongoing mentorship.
-- Or it may remain a valuable but occasional connection—both are fine.
+- Or it may remain a valuable but occasional connection, both are fine.
 
 **Frequency Matters:**
 The "right" frequency varies, but generally:
@@ -224,7 +224,7 @@ Mentorship doesn't have to be the same for everyone. Consider the relationship t
 - Best for: Technical skill development or domain expertise.
 - Example: A data scientist who teaches you machine learning techniques.
 
-Most people benefit from multiple mentorship relationships simultaneously—a career mentor, a technical mentor, perhaps a peer mentor.
+Most people benefit from multiple mentorship relationships simultaneously, a career mentor, a technical mentor, perhaps a peer mentor.
 
 ### Mentorship Across Different Settings
 

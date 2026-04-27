@@ -40,7 +40,7 @@ The San Francisco Bay Area commands some of the highest salaries for Web3 positi
 ### Building a Web3 Career in the Bay Area
 
 1. **Develop Technical Expertise:** Exceptional technical skills are essential for success in the Bay Area. Your contributions to core protocols serve as powerful indicators of your capability.
-   - **Contribute to Core Protocols:** Demonstrating a history of significant contributions to major open-source Web3 projects—such as an L1/L2 client or a core [DeFi](/what-is-defi) protocol—will enhance your profile.
+   - **Contribute to Core Protocols:** Demonstrating a history of significant contributions to major open-source Web3 projects, such as an L1/L2 client or a core [DeFi](/what-is-defi) protocol, will enhance your profile.
    - **Publish Research:** Writing and sharing in-depth technical articles or academic papers on topics like consensus mechanisms or ZK-proofs showcases your expertise.
 
 2. **Engage with the Community:** The Bay Area's Web3 scene is interconnected. Establishing relationships with key researchers and developers at leading protocols and VC firms is vital.

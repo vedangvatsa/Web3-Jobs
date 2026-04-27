@@ -45,7 +45,7 @@ Bitcoin functions on a decentralized network of computers, known as nodes, distr
 
 ### 2. The Blockchain: A Public Ledger
 
-To address the problem of double-spending—where a digital coin could be spent more than once—Satoshi proposed a public ledger, known as the "[blockchain](/what-is-a-blockchain)." Transactions are grouped into "blocks," which are linked together cryptographically.
+To address the problem of double-spending, where a digital coin could be spent more than once, Satoshi proposed a public ledger, known as the "[blockchain](/what-is-a-blockchain)." Transactions are grouped into "blocks," which are linked together cryptographically.
 
 Once a transaction is recorded on the blockchain, altering it becomes nearly impossible. Any modification to a previous block would change its cryptographic hash, breaking the chain and leading to its immediate rejection by the network. This immutability ensures the finality that traditional systems lack.
 
@@ -55,7 +55,7 @@ The network must agree on the validity of transactions and determine the next bl
 
 * **Mining:** Participants, known as miners, compete to solve complex mathematical problems.
 * **Winning the Block:** The first miner to solve the problem creates the next block of transactions and receives a reward in newly minted bitcoin.
-* **Security:** This process demands substantial computational power, making it prohibitively costly for any single actor to dominate the network. An attacker would need to control a significant portion of the entire network's computational capacity—an exceptionally challenging endeavor.
+* **Security:** This process demands substantial computational power, making it prohibitively costly for any single actor to dominate the network. An attacker would need to control a significant portion of the entire network's computational capacity, an exceptionally challenging endeavor.
 
 Proof-of-Work was a critical advancement that facilitated a decentralized, trustless network. It provided a method for the network to reach consensus without a central authority.
 
@@ -128,13 +128,13 @@ Maya, transitioning from a Web2 to a Web3 role, applied the principles from her 
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Initial results typically appear within a few weeks of consistent application. Significant improvements may become evident within a couple of months, depending on your baseline, daily practice, and feedback seeking. Professionals who actively track their progress—through metrics, peer feedback, or journaling—often achieve results more quickly than those who do not.
+A: Initial results typically appear within a few weeks of consistent application. Significant improvements may become evident within a couple of months, depending on your baseline, daily practice, and feedback seeking. Professionals who actively track their progress, through metrics, peer feedback, or journaling, often achieve results more quickly than those who do not.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you usually have more agency than it seems. Begin with small, self-contained actions that do not require organizational approval. Focus on individual habits, personal projects, or discussions with interested colleagues. If, after sustained effort, the environment continues to hinder your growth, that information is crucial for your career path; seeking a more supportive environment may be beneficial.
 
 **Q: How does this apply specifically to Web3?**  
-A: Web3 organizations differ from traditional companies in ways that amplify the importance of these skills. Hierarchies are generally flatter, allowing for greater access to decision-makers and increased responsibility for self-direction. Remote and globally distributed teams place a premium on written communication and asynchronous collaboration. The faster pace in Web3—where product cycles that take months in traditional companies can occur in weeks—demands adaptability and quick learning.
+A: Web3 organizations differ from traditional companies in ways that amplify the importance of these skills. Hierarchies are generally flatter, allowing for greater access to decision-makers and increased responsibility for self-direction. Remote and globally distributed teams place a premium on written communication and asynchronous collaboration. The faster pace in Web3, where product cycles that take months in traditional companies can occur in weeks, demands adaptability and quick learning.
 
 **Q: Can I implement this alongside my current role?**  
 A: Yes, this approach is advisable for most professionals. You do not need extra hours; you need intentionality within your existing hours. Identify two or three practices that align with your current work and concentrate on applying them consistently rather than attempting to overhaul everything at once. The cumulative effect of small, deliberate improvements can significantly outweigh sporadic large efforts.

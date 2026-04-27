@@ -54,7 +54,7 @@ The demand for skilled professionals in these areas continues to grow. For insta
 
 ## Limitations and Risks
 
-Smart contracts, despite their advantages, come with inherent risks. Their greatest strength—immutability—can also lead to significant vulnerabilities. Bugs or security flaws in the contract code become permanent and can be exploited, resulting in substantial financial losses. The infamous DAO hack of 2016 is a prime example, where a vulnerability led to a loss of $60 million in Ether.
+Smart contracts, despite their advantages, come with inherent risks. Their greatest strength, immutability, can also lead to significant vulnerabilities. Bugs or security flaws in the contract code become permanent and can be exploited, resulting in substantial financial losses. The infamous DAO hack of 2016 is a prime example, where a vulnerability led to a loss of $60 million in Ether.
 
 Consequently, the role of smart contract security auditor has become crucial. Security auditors meticulously examine code for potential flaws, and this position has grown increasingly in demand within the Web3 ecosystem. Additionally, connecting smart contracts to real-world data often relies on oracles. While oracles provide necessary data, they can introduce points of centralization and become vectors for potential attacks.
 

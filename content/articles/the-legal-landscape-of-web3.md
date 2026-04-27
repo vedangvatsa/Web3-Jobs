@@ -31,7 +31,7 @@ The most pressing legal concern within the Web3 space, especially in the United 
 Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) introduce a novel model for governance but occupy a precarious legal position.
 
 - **Risks Involved:** Without formal legal recognition, regulators might categorize a DAO as an "unincorporated general partnership." This designation carries significant implications, including the potential for all DAO members to face personal, joint, and several liabilities for the organization's debts and actions.
-- **Mitigating Risks: Legal Wrappers:** To address this issue, many DAOs are creating "legal wrappers." This process involves the DAO voting to form a formal legal entity—such as a foundation in the Cayman Islands, a Swiss association, or a limited liability company (LLC) in a crypto-friendly U.S. state. Such entities can enter contracts, hire staff, and crucially, shield DAO members from personal liability.
+- **Mitigating Risks: Legal Wrappers:** To address this issue, many DAOs are creating "legal wrappers." This process involves the DAO voting to form a formal legal entity, such as a foundation in the Cayman Islands, a Swiss association, or a limited liability company (LLC) in a crypto-friendly U.S. state. Such entities can enter contracts, hire staff, and crucially, shield DAO members from personal liability.
 
 **Advisory:** DAOs should seriously consider establishing a legal wrapper to protect members and facilitate interactions with traditional legal and financial systems.
 

@@ -105,7 +105,7 @@ A: Web3 organizations generally feature flatter hierarchies, granting more direc
 A: Yes. This approach is advisable for most professionals. You do not need additional hours; rather, you need intentionality within your existing schedule. Identify a few practices that align with your daily tasks and apply them consistently. Small, deliberate improvements yield better results than sporadic large efforts. Most individuals who successfully cultivate new professional habits do so without changing their total work hours.
 
 **Q: What resources can assist me in further learning?**  
-A: Starting with the related articles section can provide deeper insights into specific aspects. Beyond written resources, connecting with a mentor or peer group with expertise in this area can enhance your understanding. Observing their practices can offer insights that written materials cannot. Engaging with Web3 communities on platforms like Discord and Telegram can also connect you with practitioners willing to share their experiences. Additionally, structured accountability—committing to goals with someone who checks in—can accelerate your development.
+A: Starting with the related articles section can provide deeper insights into specific aspects. Beyond written resources, connecting with a mentor or peer group with expertise in this area can enhance your understanding. Observing their practices can offer insights that written materials cannot. Engaging with Web3 communities on platforms like Discord and Telegram can also connect you with practitioners willing to share their experiences. Additionally, structured accountability, committing to goals with someone who checks in, can accelerate your development.
 
 ## Conclusion
 

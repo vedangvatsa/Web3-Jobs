@@ -88,7 +88,7 @@ The same research skills that help you sidestep poor investments also prevent yo
 
 DYOR serves as a philosophical reminder that in crypto, reliance on institutions is unwise. You must take responsibility for your decisions, which requires thorough research, critical thinking, and skepticism.
 
-For anyone engaged in Web3—whether as an investor, employee, or builder—applying DYOR principles to your choices will prove advantageous. Always verify claims and form your own understanding, rather than succumbing to external opinions.
+For anyone engaged in Web3, whether as an investor, employee, or builder, applying DYOR principles to your choices will prove advantageous. Always verify claims and form your own understanding, rather than succumbing to external opinions.
 
 ## The Web3 Opportunity
 
@@ -181,7 +181,7 @@ A: No. The Web3 ecosystem requires skills beyond just engineering. Roles in mark
 A: Compensation in Web3 frequently surpasses Web2 salaries. Base salaries are often significantly higher, particularly for Solidity engineers and smart contract auditors who command significant premiums due to talent scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations that can appreciate. Senior engineers at well-funded protocols can earn significant total compensation, while even non-technical roles see meaningful pay increases compared to equivalent positions in Web2.
 
 **Q: Is it risky to transition to Web3?**  
-A: Every career transition carries inherent risks, and Web3 is no exception given market volatility and project lifecycles. However, you can manage this risk systematically by targeting well-funded, established protocols with proven revenue. Ensure that teams have solid track records, and negotiate base salaries in fiat rather than relying solely on tokens. Those who approach Web3 as a career move—rather than a get-rich-quick scheme—can consistently build sustainable roles that endure market fluctuations.
+A: Every career transition carries inherent risks, and Web3 is no exception given market volatility and project lifecycles. However, you can manage this risk systematically by targeting well-funded, established protocols with proven revenue. Ensure that teams have solid track records, and negotiate base salaries in fiat rather than relying solely on tokens. Those who approach Web3 as a career move, rather than a get-rich-quick scheme, can consistently build sustainable roles that endure market fluctuations.
 
 **Q: How long does the transition take?**  
 A: Most professionals can achieve a meaningful transition to Web3 within a few months of focused effort. Engineers and product managers often progress quickly, as their core skills directly apply. Non-technical roles, such as marketing and community management, can transition in a short period with dedicated self-study. Actively engaging in portfolio projects or contributing to open-source protocols can significantly accelerate the process.

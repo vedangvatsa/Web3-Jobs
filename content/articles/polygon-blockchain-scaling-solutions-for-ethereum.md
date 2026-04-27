@@ -48,7 +48,7 @@ The MATIC token serves as the native cryptocurrency within the Polygon ecosystem
 - Staking to become a validator and secure the PoS network.
 - Participating in governance decisions regarding the protocol.
 
-Polygon has positioned itself as a leader in scaling Ethereum. Its practical and multi-faceted approach—offering a widely adopted sidechain for immediate solutions and developing next-generation ZK-Rollups for the future—has made it an essential infrastructure component for numerous decentralized applications (dApps) and a crucial element of the broader [Web3](/what-is-web3) ecosystem.
+Polygon has positioned itself as a leader in scaling Ethereum. Its practical and multi-faceted approach, offering a widely adopted sidechain for immediate solutions and developing next-generation ZK-Rollups for the future, has made it an essential infrastructure component for numerous decentralized applications (dApps) and a crucial element of the broader [Web3](/what-is-web3) ecosystem.
 
 ## The Opportunities in Web3
 
@@ -162,7 +162,7 @@ Compensation in Web3 generally exceeds Web2 equivalents. Base salaries are typic
 Every career transition carries some risk, and Web3 is no exception because of market volatility and project lifecycles. However, you can manage this risk by targeting established protocols with strong funding and proven revenue. It's advisable to verify the team's track record and ensure that your base salary is paid in fiat rather than solely in tokens. Professionals who treat Web3 as a legitimate career move rather than a speculative endeavor tend to build more sustainable roles.
 
 **How long does the transition take?**  
-Most professionals can complete a meaningful transition to Web3 in a few months with focused effort. Engineers and product managers often progress most quickly since their core skills transfer easily, while non-technical roles like marketing and community management can transition in a shorter timeframe with concentrated study. Active engagement—through portfolio projects or contributions to open-source protocols—can significantly accelerate the process.
+Most professionals can complete a meaningful transition to Web3 in a few months with focused effort. Engineers and product managers often progress most quickly since their core skills transfer easily, while non-technical roles like marketing and community management can transition in a shorter timeframe with concentrated study. Active engagement, through portfolio projects or contributions to open-source protocols, can significantly accelerate the process.
 
 **What if the crypto market crashes?**  
 Bear markets often present the best opportunities to enter Web3 professionally. As speculative hype diminishes, teams focus on developing real products, prioritizing talent over token valuations. Companies in infrastructure, security, and developer tooling typically maintain steady hiring regardless of market conditions. Professionals who built during downturns are among the most sought-after today. A market downturn can reduce competition for roles and improve equity terms for new hires.

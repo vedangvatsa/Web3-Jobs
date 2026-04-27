@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 Computer vision is a critical area of [artificial intelligence](/what-is-artificial-intelligence-and-how-it-works) that enables computers to interpret and understand the visual world. By utilizing digital images from cameras and videos, deep learning models can identify and classify objects with impressive accuracy. This technology equips machines with a form of sight, allowing them to analyze visual data similarly to how humans do.
 
-When you view a photograph, your brain effortlessly identifies people, objects, and their spatial relationships. For a computer, however, an image consists merely of a grid of pixels—numbers that represent color and brightness. Computer vision seeks to transform this low-level representation into a high-level interpretation, mimicking human visual comprehension.
+When you view a photograph, your brain effortlessly identifies people, objects, and their spatial relationships. For a computer, however, an image consists merely of a grid of pixels, numbers that represent color and brightness. Computer vision seeks to transform this low-level representation into a high-level interpretation, mimicking human visual comprehension.
 
 The field aims to automate visual tasks that humans perform instinctively. While this has been a long-term objective in AI, advancements in [deep learning](/what-is-deep-learning-technology-explained) and the availability of extensive datasets over the past decade have made computer vision robust enough for widespread application.
 
