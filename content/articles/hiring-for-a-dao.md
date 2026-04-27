@@ -48,7 +48,7 @@ At this stage, the participant begins contributing to discussions, while the bou
 Core contributors are individuals who have successfully completed multiple bounties and are trusted members of the community.
 - **DAO's Goal:** Retain this talent and enhance their ownership within the organization. This is the stage where longer-term roles may be offered.
 - **Options for Engagement:**
-    - **Grant-Funded Project:** Contributors can submit proposals for 3-6 month grants to work on larger projects.
+    - **Grant-Funded Project:** Contributors can submit proposals for projects to work on larger initiatives.
     - **Joining a Guild:** They can take on leadership roles within specific working groups (e.g., the Marketing Guild) and receive regular stipends.
     - **Full-Time Role:** As the DAO evolves, it may establish a core team with more traditional full-time roles, making these proven contributors ideal candidates.
 
@@ -92,7 +92,7 @@ Monitor your progress consistently. Are you achieving desired results? Adapt you
 
 | Name   | Role            | Organization       | Challenge                             | Outcome                                       |
 |--------|-----------------|--------------------|---------------------------------------|-----------------------------------------------|
-| Sarah  | Developer       | [Blockchain](/what-is-a-blockchain) Startup | Difficulty in completing tasks on time | Implemented structured time management; improved productivity by 30% within 3 months |
+| Sarah  | Developer       | [Blockchain](/what-is-a-blockchain) Startup | Difficulty in completing tasks on time | Implemented structured time management; improved productivity within 3 months |
 | Juan   | Product Manager  | [DeFi](/what-is-defi) Company | Ineffective communication with stakeholders | Adopted transparent communication practices; resulted in faster decision-making and improved project outcomes |
 | Maya   | Transitioner    | Various Web3 Roles | Adapting to a decentralized work environment | Engaged in community discussions and completed bounties; gained confidence and secured a full-time position |
 
@@ -111,7 +111,7 @@ Monitor your progress consistently. Are you achieving desired results? Adapt you
 ### FAQ
 
 **Q: How long will this take to implement?**  
-A: Initial results typically appear within 2-4 weeks of consistent application, with significant improvements visible within 8-12 weeks. The timeline varies based on your starting point, daily practice commitment, and whether you actively seek feedback. Professionals who track their progress through metrics, peer feedback, or journaling tend to accelerate their growth compared to those who passively observe. Treating implementation as a structured project consistently yields better outcomes.
+A: Initial results typically appear within a few weeks of consistent application, with significant improvements visible within a couple of months. The timeline varies based on your starting point, daily practice commitment, and whether you actively seek feedback. Professionals who track their progress through metrics, peer feedback, or journaling tend to accelerate their growth compared to those who passively observe. Treating implementation as a structured project consistently yields better outcomes.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: You often have more agency than it seems, even in challenging environments. Begin with small, self-contained actions that do not require organizational buy-in, such as individual habits or internal conversations with supportive colleagues. Gradually build momentum instead of waiting for permission. Document your progress and results. If after sustained effort the environment hinders your growth, consider seeking opportunities that prioritize employee development.

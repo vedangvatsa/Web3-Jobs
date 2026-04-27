@@ -47,7 +47,7 @@ Crypto-collateralized stablecoins strive for stability and decentralization by u
 |-------------|------------|------------------|
 | Dai (DAI) | MakerDAO | U.S. Dollar |
 
-**Mechanism**: To create these stablecoins, users must lock a cryptocurrency asset (such as [ETH](/what-is-ethereum) or WBTC) in a [smart contract](/what-are-smart-contracts) vault. The system operates on an **over-collateralization** model, requiring users to deposit collateral worth more than the stablecoins they mint. For example, to mint $100 worth of DAI, a user might need to lock up $150 worth of ETH. This extra collateral serves as a buffer against underlying asset price volatility.
+**Mechanism**: To create these stablecoins, users must lock a cryptocurrency asset (such as [ETH](/what-is-ethereum) or WBTC) in a [smart contract](/what-are-smart-contracts) vault. The system operates on an **over-collateralization** model, requiring users to deposit collateral worth more than the stablecoins they mint. For example, to mint a certain amount of DAI, a user might need to lock up more than that amount in collateral. This extra collateral serves as a buffer against underlying asset price volatility.
 
 **Peg Maintenance**: The peg is upheld through economic incentives and automated liquidations. If a user's collateral value drops below a specified threshold (the "liquidation ratio"), the system automatically sells the collateral in an auction to repay the borrowed stablecoins, maintaining system solvency.
 
@@ -89,7 +89,7 @@ Stablecoins play an essential role in the Web3 economy, offering a necessary ref
 ### Real-World Examples
 
 #### Example 1: Sarah's Success
-Sarah, a developer at a blockchain startup, faced challenges in managing her investments. By integrating crypto-collateralized stablecoins into her strategy, she mitigated risks associated with volatility. Within three months, she observed a 30% increase in her portfolio's stability, demonstrating the effectiveness of this approach.
+Sarah, a developer at a blockchain startup, faced challenges in managing her investments. By integrating crypto-collateralized stablecoins into her strategy, she mitigated risks associated with volatility. Within a few months, she observed an increase in her portfolio's stability, demonstrating the effectiveness of this approach.
 
 #### Example 2: Juan's Transition
 Juan, a product manager in DeFi, encountered similar hurdles. By employing fiat-collateralized stablecoins for operational expenses, he streamlined transactions and improved cash flow. His experience showcases the practicality of stablecoins in enhancing financial efficiency.
@@ -108,7 +108,7 @@ Maya transitioned from Web2 to Web3 and adopted a strategy that utilized both fi
 ### FAQ
 
 **Q: How long will it take to see results from stablecoins?**  
-A: Initial results often appear within 2 to 4 weeks of consistent engagement with stablecoins. Significant improvements can be observed within 8 to 12 weeks, depending on factors such as your starting position, daily practice, and active feedback solicitation. Professionals who monitor their progress through metrics or peer feedback typically advance more quickly than those who rely solely on observation.
+A: Initial results often appear within a few weeks of consistent engagement with stablecoins. Significant improvements can be observed within a couple of months, depending on factors such as your starting position, daily practice, and active feedback solicitation. Professionals who monitor their progress through metrics or peer feedback typically advance more quickly than those who rely solely on observation.
 
 **Q: What if my workplace does not support stablecoin strategies?**  
 A: Even in challenging environments, you often have more autonomy than you think. Start with small, self-contained actions that do not depend on organizational approval, such as developing personal habits or engaging in discussions with supportive colleagues. Gradually build momentum and document your progress. If, after sustained effort, structural barriers persist, it may indicate a need to seek a more supportive environment for your professional growth.

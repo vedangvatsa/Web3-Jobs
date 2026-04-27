@@ -18,25 +18,25 @@ A full-time job typically involves working for a single employer on a predetermi
 
 #### Advantages of Full-Time Employment
 
-- **Stable Income**: Employees receive a predictable paycheck, simplifying financial planning. For example, according to the U.S. Bureau of Labor Statistics (BLS), the average annual salary for full-time workers in the U.S. is approximately $55,000.
+- **Stable Income**: Employees receive a predictable paycheck, simplifying financial planning. For example, according to the U.S. Bureau of Labor Statistics (BLS), the average annual salary for full-time workers in the U.S. is around the mid-$50,000 range.
   
-- **Benefits**: Full-time positions often come with health insurance, retirement plans, and paid leave. A report from the Kaiser Family Foundation indicates that 55% of employers offer health insurance to their employees.
+- **Benefits**: Full-time positions often come with health insurance, retirement plans, and paid leave. A report from the Kaiser Family Foundation indicates that a significant percentage of employers offer health insurance to their employees.
 
 - **Structured Environment**: Many individuals appreciate the routine and clarity of full-time work. This structure can contribute to a sense of security and predictability.
 
-- **Career Advancement**: Many companies offer pathways for promotions and raises. According to LinkedIn, employees who stay with a company for over two years are 30% more likely to receive a promotion compared to those who change jobs frequently.
+- **Career Advancement**: Many companies offer pathways for promotions and raises. According to LinkedIn, employees who stay with a company for over two years are more likely to receive a promotion compared to those who change jobs frequently.
 
 - **Team Collaboration**: Being part of a team fosters a sense of community. Employees benefit from shared experiences and networking opportunities.
 
 #### Disadvantages of Full-Time Employment
 
-- **Limited Flexibility**: Employees often have fixed schedules, which can restrict personal freedom. A study from FlexJobs shows that 82% of professionals prefer flexible work arrangements over salary increases.
+- **Limited Flexibility**: Employees often have fixed schedules, which can restrict personal freedom. A study from FlexJobs shows that a large percentage of professionals prefer flexible work arrangements over salary increases.
 
 - **Office Dynamics**: Navigating office politics can be challenging and time-consuming, impacting job satisfaction.
 
 - **Reduced Autonomy**: Employees often work towards the goals set by their employers, which may not align with their personal aspirations or values.
 
-- **Commute**: Daily commuting can be both costly and time-consuming. According to the U.S. Census Bureau, the average commute time in the U.S. is approximately 27.6 minutes each way, adding up to nearly an hour of lost time daily.
+- **Commute**: Daily commuting can be both costly and time-consuming. According to the U.S. Census Bureau, the average commute time in the U.S. is around 27 minutes each way, adding up to nearly an hour of lost time daily.
 
 ### Freelancing: Freedom and Flexibility 
 
@@ -44,17 +44,17 @@ Freelancing offers self-employment opportunities, allowing individuals to work o
 
 #### Advantages of Freelancing
 
-- **Flexibility**: Freelancers can choose their working hours and locations, which can greatly enhance work-life balance. According to Upwork, 73% of freelancers cite flexibility as their primary reason for choosing this career path.
+- **Flexibility**: Freelancers can choose their working hours and locations, which can greatly enhance work-life balance. According to Upwork, a significant percentage of freelancers cite flexibility as their primary reason for choosing this career path.
 
 - **Autonomy**: Freelancers are their own bosses, selecting the projects and clients that interest them. This control can lead to more fulfilling work experiences.
 
-- **Higher Earning Potential**: Successful freelancers can set their own rates and take on multiple projects simultaneously, often resulting in higher income. A report from Payoneer indicates that top freelancers earn around $100,000 annually.
+- **Higher Earning Potential**: Successful freelancers can set their own rates and take on multiple projects simultaneously, often resulting in higher income. A report from Payoneer indicates that top freelancers can earn substantial annual incomes.
 
 - **Diverse Work**: Freelancers frequently engage in different tasks across industries, helping them develop new skills and maintain variety in their work.
 
 #### Disadvantages of Freelancing
 
-- **Irregular Income**: Freelancers often face income fluctuations, particularly during slow periods. A survey from Freelancers Union shows that 54% of freelancers experience feast-or-famine cycles.
+- **Irregular Income**: Freelancers often face income fluctuations, particularly during slow periods. A survey from Freelancers Union shows that many freelancers experience feast-or-famine cycles.
 
 - **Lack of Benefits**: Freelancers must procure their own health insurance, retirement savings, and time off. This responsibility can be burdensome and costly.
 

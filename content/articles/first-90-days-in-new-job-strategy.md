@@ -47,8 +47,8 @@ The primary objective for the first 30 days is to absorb information and foster 
 
 ### Success Metrics for Phase 1:
 - You can articulate the company's business model and current priorities in your own words.
-- You have engaged in meaningful conversations with at least five to ten key stakeholders.
-- You have completed at least two to three small assignments on time and to a high standard.
+- You have engaged in meaningful conversations with several key stakeholders.
+- You have completed a few small assignments on time and to a high standard.
 - Your manager provides positive feedback regarding your attitude and reliability.
 - You have begun to understand the company culture and its unwritten rules.
 
@@ -66,7 +66,7 @@ Transition from pure learning to actively demonstrating your value. With a found
 
 ### Weeks 9-12: Establishing Patterns
 - Take on a stretch project that challenges you to learn something new while demonstrating ambition.
-- Foster strong working relationships with two to three key colleagues you will interact with frequently.
+- Foster strong working relationships with a few key colleagues you will interact with frequently.
 - Begin saying "no" strategically to tasks that do not align with your core responsibilities.
 - Shape your role based on your strengths and the team's needs, making adjustments as necessary.
 
@@ -74,7 +74,7 @@ Transition from pure learning to actively demonstrating your value. With a found
 - You have completed at least one significant project or initiative.
 - Your manager explicitly expresses satisfaction with your progress.
 - Colleagues seek you out for your specific expertise or perspective.
-- You have developed two to three solid working relationships that feel genuine.
+- You have developed solid working relationships that feel genuine.
 - You contribute ideas actively rather than merely executing tasks.
 
 ## Phase 3: Days 61-90 (Initiating and Planning)

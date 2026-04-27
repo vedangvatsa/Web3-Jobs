@@ -64,7 +64,7 @@ There’s no perfect answer, but a good rule of thumb in today’s market is to 
 
 *   **Under 1 year:** This can be a red flag unless you have a very strong reason (like a toxic environment or a major bait-and-switch).
 *   **12-18 months:** This is often seen as an acceptable tenure. It shows you’ve had time to get up to speed, contribute to the team, and see at least one or two project cycles through.
-*   **2+ years:** This is the gold standard. It demonstrates stability, loyalty, and the ability to grow within a role. Staying for two or more years at your first job will never look bad on a resume.
+*   **2+ years:** This is the gold standard. It demonstrates stability, loyalty, and the ability to grow within a role. Staying for two or more years at your first job will generally look favorable on a resume.
 
 Ultimately, the decision is personal. It's about weighing the benefits of staying against the opportunities that might come from leaving.
 

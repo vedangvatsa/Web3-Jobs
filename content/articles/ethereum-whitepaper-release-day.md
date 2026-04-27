@@ -34,7 +34,7 @@ At the heart of Buterin's proposal lies the concept of "smart contracts." Althou
 
 A smart contract is essentially a computer program that operates on the blockchain. It is a self-executing agreement where the terms between buyer and seller are embedded in code. The code and agreements exist across a distributed, decentralized blockchain network. The smart contract governs execution, ensuring transactions are both trackable and irreversible.
 
-The whitepaper detailed various potential applications for smart contracts, many of which have since evolved into multi-billion dollar industries:
+The whitepaper detailed various potential applications for smart contracts, many of which have since evolved into significant industries:
 
 | Use Case                          | Description                                                                |
 |-----------------------------------|----------------------------------------------------------------------------|
@@ -91,15 +91,15 @@ Continuously monitor your progress. Seek feedback to evaluate your results. Adap
 
 ### Example 1
 
-Sarah, a developer at a blockchain startup, faced challenges in smart contract development. After implementing structured strategies from the Ethereum framework, she achieved a 30% increase in development efficiency within three months.
+Sarah, a developer at a blockchain startup, faced challenges in smart contract development. After implementing structured strategies from the Ethereum framework, she achieved a significant increase in development efficiency within three months.
 
 ### Example 2
 
-Juan, a product manager in the DeFi sector, struggled with team collaboration. By applying decentralized principles from the Ethereum whitepaper, he improved project delivery times by 25%. His experience illustrates the applicability of these concepts across various roles.
+Juan, a product manager in the DeFi sector, struggled with team collaboration. By applying decentralized principles from the Ethereum whitepaper, he improved project delivery times. His experience illustrates the applicability of these concepts across various roles.
 
 ### Example 3
 
-Maya transitioned from Web2 to Web3 and utilized these strategies to adapt to her new environment. She reported a 50% improvement in her ability to contribute to her team’s projects, showcasing the effectiveness of the approach regardless of prior experience.
+Maya transitioned from Web2 to Web3 and utilized these strategies to adapt to her new environment. She reported a notable improvement in her ability to contribute to her team’s projects, showcasing the effectiveness of the approach regardless of prior experience.
 
 ## Common Mistakes to Avoid
 
@@ -116,7 +116,7 @@ Maya transitioned from Web2 to Web3 and utilized these strategies to adapt to he
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Most individuals see initial results within 2 to 4 weeks of consistent application. Significant improvements typically manifest within 8 to 12 weeks. The timeline can vary based on your starting point, daily practice commitment, and active feedback engagement. Professionals who track their progress—using metrics, peer feedback, or journaling—generally experience faster growth than those who observe passively.
+A: Most individuals see initial results within a few weeks of consistent application. Significant improvements typically manifest within a couple of months. The timeline can vary based on your starting point, daily practice commitment, and active feedback engagement. Professionals who track their progress—using metrics, peer feedback, or journaling—generally experience faster growth than those who observe passively.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often have more control than it seems. Begin with small, self-contained actions that require minimal organizational buy-in. Focus on individual habits or personal projects. Build momentum gradually, documenting your progress and results. If prolonged efforts reveal structural barriers to your development, consider seeking an environment that values employee growth.

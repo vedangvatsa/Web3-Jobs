@@ -34,13 +34,13 @@ Executives face overwhelming amounts of information daily. Distilling complex to
 
 - **Bottom Line Up Front (BLUF):** Begin with your main point or recommendation. Avoid lengthy introductions.
     - *Instead of:* "I reviewed the Q2 sales data, analyzed the competitive landscape, and spoke with three customers. Based on this, I think we should..."
-    - *Do this:* "I recommend focusing on the enterprise segment for Q3 to capture a growing market and increase average deal size by 20%."
+    - *Do this:* "I recommend focusing on the enterprise segment for Q3 to capture a growing market and increase average deal size."
 
 - **One-Pager Rule:** Challenge yourself to condense your proposal or update onto a single page. This encourages you to eliminate unnecessary details and focus on what truly matters. Amazon's six-page narrative memos exemplify this approach, promoting concise thinking.
 
 - **Eliminate Adjectives and Adverbs:** These often add length without enhancing meaning.
     - *Instead of:* "This is a really amazing opportunity that could potentially generate a lot of revenue."
-    - *Do this:* "This opportunity is projected to generate $2M in revenue."
+    - *Do this:* "This opportunity is projected to generate significant revenue."
 
 ### Pillar 2: Clarity - Simplify Without Oversimplifying
 
@@ -64,7 +64,7 @@ Even the best ideas compete for a leader's attention. You must explicitly connec
 
 - **Use Business Metrics:** Frame your proposals in terms of metrics that matter to executives: Revenue, Cost, Risk, and Customer Satisfaction.
     - *Instead of:* "This project will improve our database query speed."
-    - *Do this:* "This project will reduce our page load time by 500 ms, likely decreasing our user bounce rate by 5% and improving conversion."
+    - *Do this:* "This project will reduce our page load time, likely decreasing our user bounce rate and improving conversion."
 
 - **Align with Strategic Goals:** Clearly link your initiative to company objectives.
     - *Example:* "As we aim to expand into the European market, this proposal outlines a path to achieving regulatory compliance in the EU."
@@ -117,7 +117,7 @@ A4: This largely depends on company culture and your relationship with the execu
 
 ## Why Executive Communication Skills Matter
 
-Mastering these communication competencies is crucial for success across various sectors, including [Web3](/what-is-web3). Research consistently shows that strong communication skills can yield a 10-15 year ROI of 300-500%.
+Mastering these communication competencies is crucial for success across various sectors, including [Web3](/what-is-web3). Research consistently shows that strong communication skills can yield significant returns on investment.
 
 ## Skill Competency Breakdown
 
@@ -170,7 +170,7 @@ Web3 teams often work remotely and rapidly adapt to changes. These skills direct
 The importance of these skills increases at each career level:
 - **Junior Level:** Technical skills are paramount, but communication becomes increasingly significant.
 - **Mid Level:** A balance of technical and interpersonal skills emerges; leadership potential becomes evident.
-- **Senior Level:** Soft skills account for 70% of effectiveness.
+- **Senior Level:** Soft skills account for a significant portion of effectiveness.
 - **Leadership:** Emotional intelligence and communication dominate.
 
 ## Common Development Mistakes
