@@ -79,11 +79,11 @@ Regularly review your progress. Are you achieving your intended outcomes? Adjust
 
 #### Example 1: Developer Transformation
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with token liquidity. After applying strategic tokenomics principles, she observed a 35% increase in liquidity within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with token liquidity. After applying strategic tokenomics principles, she observed a significant increase in liquidity within three months.
 
 #### Example 2: Product Management Success
 
-Juan, a product manager in [DeFi](/what-is-defi), struggled with user engagement. By integrating effective token incentives, he enhanced user participation by 50% over two months, demonstrating the universal applicability of these concepts.
+Juan, a product manager in [DeFi](/what-is-defi), struggled with user engagement. By integrating effective token incentives, he enhanced user participation significantly over two months, demonstrating the universal applicability of these concepts.
 
 #### Example 3: Transitioning from Web2 to Web3
 
@@ -100,7 +100,7 @@ Maya successfully transitioned from a Web2 role to Web3 by employing a structure
 ### FAQ
 
 **How long will implementation take?**
-Most individuals notice initial improvements within 2 to 4 weeks of consistent application. Significant changes typically manifest within 8 to 12 weeks. The timeline depends on your starting point, daily commitment, and active feedback utilization. Professionals who track their progress through metrics or peer feedback usually advance more quickly than those who engage passively. Treating implementation as a structured project yields better results.
+Most individuals notice initial improvements within a few weeks of consistent application. Significant changes typically manifest within a couple of months. The timeline depends on your starting point, daily commitment, and active feedback utilization. Professionals who track their progress through metrics or peer feedback usually advance more quickly than those who engage passively. Treating implementation as a structured project yields better results.
 
 **What if my workplace lacks support?**
 In challenging environments, you often have more agency than you think. Start with small actions that require minimal organizational buy-in, such as individual habits or discussions with aligned colleagues. Gradually build momentum without waiting for formal approval. Document your progress and outcomes. If sustained effort reveals structural barriers, it may indicate the need to seek a more supportive environment.

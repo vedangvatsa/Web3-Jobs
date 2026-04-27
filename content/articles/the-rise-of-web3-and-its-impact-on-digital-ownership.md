@@ -72,11 +72,11 @@ The [Web3 job](/web3-jobs-for-beginners) market operates under dynamics that dif
 
 | Role                      | Web3 Compensation Range     | Web2 Compensation Range     | Difference      |
 |---------------------------|-----------------------------|-----------------------------|------------------|
-| Senior Solidity Engineer   | $200,000 - $350,000        | $150,000 - $250,000        | 20-40% higher    |
-| Product Manager            | $150,000 - $250,000        | $120,000 - $200,000        | 25-30% higher    |
-| Business Development Lead   | $150,000 - $250,000        | $110,000 - $180,000        | 30-40% higher    |
+| Senior Solidity Engineer   | Significant compensation     | Significant compensation     | Higher           |
+| Product Manager            | Significant compensation     | Significant compensation     | Higher           |
+| Business Development Lead   | Significant compensation     | Significant compensation     | Higher           |
 
-**Compensation:** Web3 roles typically offer 20-40% greater pay than equivalent Web2 positions. Senior Solidity engineers can earn between $200,000 and $350,000 in total compensation, while product managers and business development leads can expect between $150,000 and $250,000. Many packages also include token allocations alongside traditional equity.
+**Compensation:** Web3 roles typically offer greater pay than equivalent Web2 positions. Senior Solidity engineers can earn significant compensation, while product managers and business development leads can expect significant compensation as well. Many packages also include token allocations alongside traditional equity.
 
 **Remote-First Culture:** Most Web3 organizations operate fully remote or primarily remote, with teams distributed across multiple time zones. This structure facilitates talent acquisition from regions traditionally underserved by tech hiring, including Southeast Asia, Latin America, and Africa.
 
@@ -137,7 +137,7 @@ Focus on roles that align with your existing expertise while integrating new Web
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years at a FAANG company, spent three months learning Solidity while keeping his job. He contributed to an open-source protocol, attracting the attention of a leading DeFi project. He transitioned with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years at a FAANG company, spent three months learning Solidity while keeping his job. He contributed to an open-source protocol, attracting the attention of a leading DeFi project. He transitioned with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 
@@ -163,7 +163,7 @@ Marcus left his corporate job to focus entirely on Web3 for six months. Through 
 A: No. The Web3 ecosystem requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal, operations, and business development are in high demand. Existing skills are applicable; you simply need to add Web3 context, such as understanding wallets, DAOs, and the significance of decentralization. Most hiring managers prioritize domain expertise and genuine curiosity about the field over strict blockchain knowledge.
 
 **Q: How much can I earn in Web3?**  
-A: Compensation in Web3 consistently surpasses Web2 equivalents. Base salaries are typically 30-60% higher on average, with Solidity engineers and smart contract auditors commanding the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols frequently earn between $200,000 and $350,000 in total compensation, while even non-technical roles see substantial premiums compared to Web2 counterparts.
+A: Compensation in Web3 consistently surpasses Web2 equivalents. Base salaries are typically higher on average, with Solidity engineers and smart contract auditors commanding the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols frequently earn significant compensation, while even non-technical roles see substantial premiums compared to Web2 counterparts.
 
 **Q: Is it risky to transition to Web3?**  
 A: Every transition carries risk, and Web3 is no exception, given market volatility and varying project lifecycles. Mitigate this risk by targeting established protocols with strong funding and revenue; verify the team's credentials; and negotiate base salaries in fiat rather than relying entirely on tokens. Professionals who approach Web3 as a career move rather than a speculative venture tend to build sustainable roles that endure through market fluctuations.
@@ -172,7 +172,7 @@ A: Every transition carries risk, and Web3 is no exception, given market volatil
 A: Most professionals achieve a meaningful transition to Web3 within 2 to 6 months of dedicated effort. Engineers and product managers typically transition the fastest due to the direct applicability of their core skills. Non-technical roles, such as marketing and community management, may transition in as little as 4 to 8 weeks with focused self-study. Active engagement, such as building a portfolio project or contributing to an open-source protocol, accelerates the process significantly.
 
 **Q: What if the crypto market crashes?**  
-A: Historically, bear markets present excellent opportunities to enter Web3 professionally. As speculative hype diminishes, teams concentrate on developing practical products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers continue hiring regardless of market conditions. Engineers who contributed during the 2018-2019 bear market are among the most sought-after professionals today. A market downturn can reduce competition for roles and often results in better equity terms for new hires.
+A: Historically, bear markets present excellent opportunities to enter Web3 professionally. As speculative hype diminishes, teams concentrate on developing practical products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers continue hiring regardless of market conditions. Engineers who contributed during previous bear markets are among the most sought-after professionals today. A market downturn can reduce competition for roles and often results in better equity terms for new hires.
 
 ## Conclusion
 

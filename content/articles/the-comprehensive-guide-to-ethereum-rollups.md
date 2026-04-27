@@ -35,13 +35,13 @@ Optimistic Rollups, such as **Arbitrum** and **Optimism**, function under a secu
 
 ### How They Work
 
-When an Optimistic Rollup sequencer submits a batch of transactions to Layer 1, it optimistically assumes that all transactions are valid. This triggers a **"challenge period,"** typically lasting seven days. During this period, any independent validator can scrutinize the transactions. If a validator identifies an invalid transaction, they can submit a **"fraud proof"** to Layer 1. A [smart contract](/what-are-smart-contracts) on Ethereum acts as a referee, re-executing the transaction to verify the fraud. If the challenge succeeds, the fraudulent batch is reverted, and the sequencer faces penalties. If no valid fraud proof is submitted within the challenge period, the batch is deemed final.
+When an Optimistic Rollup sequencer submits a batch of transactions to Layer 1, it optimistically assumes that all transactions are valid. This triggers a **"challenge period,"** typically lasting several days. During this period, any independent validator can scrutinize the transactions. If a validator identifies an invalid transaction, they can submit a **"fraud proof"** to Layer 1. A [smart contract](/what-are-smart-contracts) on Ethereum acts as a referee, re-executing the transaction to verify the fraud. If the challenge succeeds, the fraudulent batch is reverted, and the sequencer faces penalties. If no valid fraud proof is submitted within the challenge period, the batch is deemed final.
 
 ### Pros and Cons
 
 | **Pros**                       | **Cons**                           |
 |--------------------------------|------------------------------------|
-| EVM Compatibility: Optimistic Rollups generally ensure full compatibility with the Ethereum Virtual Machine (EVM). This makes it easy for existing Ethereum dApps to migrate to an Optimistic L2 with minimal code adjustments. | Long Withdrawal Times: The seven-day challenge period poses a significant drawback for user experience. Users must wait for this period to end to withdraw funds from an Optimistic Rollup back to Ethereum. This has led to the emergence of third-party "liquidity bridges" that offer instant withdrawals for a fee, introducing their own trust assumptions. |
+| EVM Compatibility: Optimistic Rollups generally ensure full compatibility with the Ethereum Virtual Machine (EVM). This makes it easy for existing Ethereum dApps to migrate to an Optimistic L2 with minimal code adjustments. | Long Withdrawal Times: The challenge period poses a significant drawback for user experience. Users must wait for this period to end to withdraw funds from an Optimistic Rollup back to Ethereum. This has led to the emergence of third-party "liquidity bridges" that offer instant withdrawals for a fee, introducing their own trust assumptions. |
 
 ## ZK-Rollups: The Mathematical Proof Model
 
@@ -61,7 +61,7 @@ For each batch of transactions, the ZK-Rollup's operator (referred to as a "prov
 
 The Ethereum core development community has adopted a "rollup-centric roadmap." This strategy means that future upgrades to the Ethereum protocol will focus on making the mainnet a more efficient and cost-effective environment for rollups to post their data.
 
-A landmark upgrade in this context was **EIP-4844 (Proto-Danksharding)**. Implemented during the Dencun upgrade, EIP-4844 introduced a new transaction type for "blobs" of data. This created a separate fee market for rollup data, significantly lowering the costs associated with posting transaction batches to Layer 1. Early results indicate a 10-100x reduction in fees on major L2s.
+A landmark upgrade in this context was **EIP-4844 (Proto-Danksharding)**. Implemented during a recent upgrade, EIP-4844 introduced a new transaction type for "blobs" of data. This created a separate fee market for rollup data, significantly lowering the costs associated with posting transaction batches to Layer 1. Early results indicate a substantial reduction in fees on major L2s.
 
 The long-term vision includes full **Danksharding**, which will further enhance the dedicated data space for rollups, potentially enabling the Ethereum ecosystem to scale to millions of transactions per second across a vibrant ecosystem of thousands of rollups.
 
@@ -101,8 +101,8 @@ Regularly monitor your progress. Are you seeing results? Adapt your strategies b
 
 | **Name** | **Role**                    | **Challenge**                       | **Outcome**                                         |
 |----------|-----------------------------|-------------------------------------|-----------------------------------------------------|
-| Sarah    | Developer at Blockchain Co. | Struggled with transaction speeds    | Improved throughput by 50% after adopting rollup strategies in 3 months. |
-| Juan     | Product Manager in DeFi     | Faced user retention issues         | Increased user satisfaction by implementing Optimistic Rollups, resulting in a 30% growth in active users.  |
+| Sarah    | Developer at Blockchain Co. | Struggled with transaction speeds    | Improved throughput significantly after adopting rollup strategies in a few months. |
+| Juan     | Product Manager in DeFi     | Faced user retention issues         | Increased user satisfaction by implementing Optimistic Rollups, resulting in growth in active users.  |
 | Maya     | Transitioning from Web2     | Needed to adapt quickly to Web3    | Successfully integrated ZK-Rollups into her project, leading to a smoother transition and enhanced performance metrics.  |
 
 ## Common Mistakes to Avoid
@@ -116,7 +116,7 @@ Regularly monitor your progress. Are you seeing results? Adapt your strategies b
 ## FAQ
 
 **Q: How long will it take to see results from implementing rollups?**  
-A: Initial results typically emerge within 2 to 4 weeks of consistent application. More substantial and measurable improvements usually become evident within 8 to 12 weeks. The timeline depends on your starting point, daily practice commitment, and the extent to which you actively seek feedback. Professionals who monitor their progress—through metrics, peer reviews, or journaling—tend to advance more quickly than those relying on passive observation.
+A: Initial results typically emerge within a few weeks of consistent application. More substantial and measurable improvements usually become evident within a couple of months. The timeline depends on your starting point, daily practice commitment, and the extent to which you actively seek feedback. Professionals who monitor their progress—through metrics, peer reviews, or journaling—tend to advance more quickly than those relying on passive observation.
 
 **Q: What if my workplace environment doesn't support rollup implementation?**  
 A: You often have more agency than it seems, even in challenging environments. Start with small, self-contained actions that require no organizational approval—individual habits, personal projects, or discussions with like-minded colleagues. Build momentum gradually and document your progress. If structural barriers persist, this information can guide your career decisions, indicating a potential need to seek out more supportive environments.

@@ -18,11 +18,11 @@ The demand for crypto-native People Ops leaders is surging as Web3 startups and 
 
 ### 1. Global, Remote, and Asynchronous Work
 
-**The Challenge:** How do you build a cohesive company culture when your team is spread across 20 different time zones and rarely meets in person? Traditional HR tools like town halls and office social events don't work. Employees might be in significantly different countries with different labor laws, different currencies, and different cultural expectations.
+**The Challenge:** How do you build a cohesive company culture when your team is spread across many different time zones and rarely meets in person? Traditional HR tools like town halls and office social events don't work. Employees might be in significantly different countries with different labor laws, different currencies, and different cultural expectations.
 
 How do you handle payroll when your team spans the globe? What's your backup plan if payment systems in one region go down? How do you ensure compliance with labor laws in countries you've never physically been to?
 
-**The Solution:** Web3 HR leaders must be experts in remote-first organizational design. They build culture through written communication in tools like Discord, Slack, and Notion. They create detailed onboarding documentation that works asynchronously-a new hire from Singapore can get fully onboarded without waiting for their US-based manager to wake up.
+**The Solution:** Web3 HR leaders must be experts in remote-first organizational design. They build culture through written communication in tools like Discord, Slack, and Notion. They create detailed onboarding documentation that works asynchronously—a new hire from Singapore can get fully onboarded without waiting for their US-based manager to wake up.
 
 They partner with global employment platforms (like Deel, Remote.com, or Guidepoint) to handle international payroll and compliance. Many Web3 companies also use crypto payments (stablecoins) for a portion of compensation, which streamlines cross-border payments and reduces currency conversion costs. But this introduces new complexity: employees need to understand how to receive crypto, convert it if needed, and handle the tax implications.
 
@@ -36,15 +36,15 @@ They partner with global employment platforms (like Deel, Remote.com, or Guidepo
 ### 2. Complex, Token-Based Compensation
 
 **The Challenge:** A typical compensation package for a Web3 employee might look like:
-- $120K fiat salary (in stablecoins or their local currency)
-- $50K in stock/equity options (if a startup)
-- $200K in native [token](/what-is-a-token) grants vesting over 4 years
+- A competitive fiat salary (in stablecoins or their local currency)
+- Equity options (if a startup)
+- Native [token](/what-is-a-token) grants vesting over a period of time
 
-How do you communicate the value of this complex package to a potential hire? A token worth $1 today might be $10 next year or $0.10. How do you set expectations without overpromising based on speculative valuations?
+How do you communicate the value of this complex package to a potential hire? A token worth a certain amount today might fluctuate significantly in the future. How do you set expectations without overpromising based on speculative valuations?
 
-How do you handle the tax implications? In most countries, token grants are taxable events. The employee needs to understand they might owe taxes on token value they haven't actually received in fiat. This is a significant source of confusion and conflict if not handled well.
+How do you handle the tax implications? In many countries, token grants are taxable events. The employee needs to understand they might owe taxes on token value they haven't actually received in fiat. This is a significant source of confusion and conflict if not handled well.
 
-How do you structure vesting to align incentives but also be fair to employees who might face significant downside if the token crashes?
+How do you structure vesting to align incentives but also be fair to employees who might face significant downside if the token value decreases?
 
 **The Solution:** Crypto-native HR professionals must have a deep understanding of tokenomics, [DeFi](/what-is-defi) incentives, and crypto tax implications. They create clear, detailed documentation explaining:
 - Exactly when tokens vest and under what conditions
@@ -52,7 +52,7 @@ How do you structure vesting to align incentives but also be fair to employees w
 - Tax implications and resources for crypto-specific tax professionals
 - What happens to unvested tokens if the person leaves or is terminated
 
-They work with crypto-specialized accounting firms (like CoinLedger or Zoë) to ensure tax compliance. They educate employees on how to evaluate token compensation as part of their total package.
+They work with crypto-specialized accounting firms to ensure tax compliance. They educate employees on how to evaluate token compensation as part of their total package.
 
 Many Web3 HR leaders also advocate for better token design that reduces tax complexity and improves employee experience. Some projects are experimenting with holding the tokens in trust or other structures to defer taxable events.
 
@@ -65,15 +65,15 @@ Many Web3 HR leaders also advocate for better token design that reduces tax comp
 
 ### 3. From Employees to Contributors
 
-**The Challenge:** Many DAOs don't have "employees" in the traditional sense. They have a fluid network of part-time, pseudonymous "contributors" who are paid on a per-project basis via bounties and grants. Some might contribute 5 hours a week, others 50. Some are part of other DAOs simultaneously. 
+**The Challenge:** Many DAOs don't have "employees" in the traditional sense. They have a fluid network of part-time, pseudonymous "contributors" who are paid on a per-project basis via bounties and grants. Some might contribute a few hours a week, others significantly more. Some are part of other DAOs simultaneously. 
 
 How do you recruit talent in this fluid environment? How do you retain people when there's no employment contract and they could leave anytime? How do you onboard someone pseudonymously when you can't verify their identity?
 
 How do you manage performance and coordinate work across a global, decentralized network of contributors?
 
-**The Solution:** Web3 People Ops focuses on building a "contributor funnel." They create clear pathways for community members to start contributing to the DAO, beginning with small bounties (worth $100-500) and progressing to larger, grant-funded projects (worth $5K-$50K+).
+**The Solution:** Web3 People Ops focuses on building a "contributor funnel." They create clear pathways for community members to start contributing to the DAO, beginning with small bounties and progressing to larger, grant-funded projects.
 
-The focus shifts from traditional hiring criteria ([resume](/how-to-build-a-web3-resume-that-stands-out), [interview](/how-to-prepare-for-job-interview) performance, credentials) to "proof of work"-what have you actually built? What have you contributed? Reputation becomes the primary currency. Many Web3 projects use platforms like Dework, Bounties Network, or their own Discord bots to track contributions and reputation.
+The focus shifts from traditional hiring criteria ([resume](/how-to-build-a-web3-resume-that-stands-out), [interview](/how-to-prepare-for-job-interview) performance, credentials) to "proof of work"—what have you actually built? What have you contributed? Reputation becomes the primary currency. Many Web3 projects use platforms like Dework, Bounties Network, or their own Discord bots to track contributions and reputation.
 
 Onboarding is different: instead of HR sending a welcome package, the DAO provides documentation on getting started, available bounties, and how to join Discord channels. Contributors often self-organize into working groups and propose new work directly.
 
@@ -135,7 +135,7 @@ Traditional HR often operates within constraints: "This is how we've always done
 
 The answers are still being figured out. That means early People Ops leaders in Web3 are essentially writing the playbook for how work, compensation, and organizations can function in a decentralized future.
 
-That's both the challenge and the opportunity of crypto-native People Ops roles. The companies and DAOs that get this right-that attract and retain great talent while maintaining culture and alignment-will win in the long run.
+That's both the challenge and the opportunity of crypto-native People Ops roles. The companies and DAOs that get this right—that attract and retain great talent while maintaining culture and alignment—will win in the long run.
 
 ## The Bottom Line
 
@@ -143,4 +143,4 @@ As Web3 organizations grow and mature, they increasingly need experienced People
 
 The role combines the startup energy of building something new with the complexity of managing global, remote, crypto-native teams. It requires a combination of empathy, systems thinking, crypto knowledge, and a willingness to experiment with new models of work and organization.
 
-For HR professionals ready for the challenge, Web3 People Ops is one of the most interesting frontiers in the industry-an opportunity to shape how the future of work actually functions.
+For HR professionals ready for the challenge, Web3 People Ops is one of the most interesting frontiers in the industry—an opportunity to shape how the future of work actually functions.

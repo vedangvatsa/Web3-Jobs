@@ -66,7 +66,7 @@ CTF competitions are integral to the security community, featuring gamified hack
 **5. Secure Employment**
 - **Join Audit Firms**: The most common path involves employment at reputable audit firms such as Trail of Bits, OpenZeppelin, ConsenSys Diligence, or Spearbit.
 - **In-House Security Teams**: Large protocols often maintain internal security teams.
-- **Independent/[Freelance](/how-to-start-freelancing-for-beginners)**: The top auditors can work independently, commanding high fees for their services.
+- **Independent/[Freelance](/how-to-start-freelancing-for-beginners)**: The top auditors can work independently, commanding significant fees for their services.
 
 A career as a smart contract auditor is among the most respected and challenging in Web3. It demands a commitment to lifelong learning and a dedication to securing the decentralized economy's future. For those equipped with the right mindset and technical skills, this role provides the opportunity to protect users and contribute to a safer Web3 ecosystem.
 
@@ -94,10 +94,10 @@ Keep track of your development. Are you achieving desired results? Modify your s
 ## Real-World Examples of Success
 
 ### Example 1
-Sarah, a developer at a blockchain startup, struggled with vulnerabilities until she adopted these strategies. Within three months, she improved her code security significantly, reducing critical vulnerabilities by 40%.
+Sarah, a developer at a blockchain startup, struggled with vulnerabilities until she adopted these strategies. Within three months, she improved her code security significantly, reducing critical vulnerabilities.
 
 ### Example 2
-Juan, a product manager in DeFi, faced challenges related to economic exploits. By applying the outlined framework, he enhanced his protocol's security, successfully eliminating risks that previously led to a 15% loss in user funds.
+Juan, a product manager in DeFi, faced challenges related to economic exploits. By applying the outlined framework, he enhanced his protocol's security, successfully eliminating risks that previously led to a loss in user funds.
 
 ### Example 3
 Maya transitioned from Web2 to Web3 and used this approach to adapt quickly. Her successful integration demonstrates that these principles apply regardless of background or experience level.
@@ -113,7 +113,7 @@ Maya transitioned from Web2 to Web3 and used this approach to adapt quickly. Her
 ## FAQ
 
 **Q: How long does it take to see results from implementing these strategies?**
-A: Many individuals notice initial results within 2 to 4 weeks of consistent application. Significant improvements typically become evident within 8 to 12 weeks. The timeline can vary based on your starting point, daily commitment, and proactivity in seeking feedback. Professionals who track their progress through metrics or peer feedback often advance more rapidly.
+A: Many individuals notice initial results within a few weeks of consistent application. Significant improvements typically become evident within a couple of months. The timeline can vary based on your starting point, daily commitment, and proactivity in seeking feedback. Professionals who track their progress through metrics or peer feedback often advance more rapidly.
 
 **Q: What if my workplace environment is unsupportive?**
 A: You usually have more agency in challenging environments than it may seem. Begin with small, independent actions that do not require organizational approval. Focus on personal habits, projects, or discussions with colleagues who share your goals. If, after sustained effort, the environment hinders your development, consider seeking opportunities in a more supportive setting.

@@ -86,7 +86,7 @@ This method requires dedication, initiative, and a genuine desire to provide val
 
 ## The Web3 Opportunity
 
-The Web3 sector is witnessing unprecedented growth, with demand vastly surpassing the supply of qualified professionals. Unlike traditional technology sectors, Web3 presents unique benefits: higher salaries, equity opportunities, fully remote positions, and the chance to participate in reshaping technological frameworks.
+The Web3 sector is witnessing significant growth, with demand vastly surpassing the supply of qualified professionals. Unlike traditional technology sectors, Web3 presents unique benefits: higher salaries, equity opportunities, fully remote positions, and the chance to participate in reshaping technological frameworks.
 
 ### Market Context
 
@@ -94,7 +94,7 @@ The dynamics of the Web3 job market differ significantly from those of Web2:
 
 | **Aspect**               | **Web3**                               | **Web2**                             |
 |-------------------------|----------------------------------------|--------------------------------------|
-| **Compensation**        | 20-40% higher than Web2 positions     | Lower average salaries                |
+| **Compensation**        | Generally higher than Web2 positions   | Lower average salaries                |
 | **Work Culture**        | Primarily remote                       | Hybrid or in-office                  |
 | **Career Growth**       | Rapid progression due to scaling       | Slower, more traditional pathways     |
 | **Equity Opportunities**| Token and equity packages common       | Rare in many sectors                 |
@@ -147,11 +147,11 @@ Target roles that utilize your existing skills alongside your new Web3 knowledge
 
 ### Transition from Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while keeping his job. He contributed to an open-source protocol, which caught the attention of a prominent DeFi project. He successfully transitioned with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while keeping his job. He contributed to an open-source protocol, which caught the attention of a prominent DeFi project. He successfully transitioned with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 
-Jessica, a PM from traditional finance, leveraged her expertise in DeFi. Her deep understanding of financial products combined with Web3 technology made her a highly sought-after candidate. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a PM from traditional finance, leveraged her expertise in DeFi. Her deep understanding of financial products combined with Web3 technology made her a highly sought-after candidate. She secured a role at a leading DeFi protocol within a month.
 
 ### Career Changer Success
 
@@ -173,7 +173,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 A: No. The Web3 ecosystem requires various roles beyond engineering. Positions in marketing management, community leadership, product design, legal counsel, operations, and business development are all in high demand. Your existing skills will transfer directly; you just need to add Web3 context, such as understanding wallets, DAOs, and the significance of decentralization. Most hiring managers prioritize domain expertise paired with genuine curiosity about the field over pure blockchain knowledge.
 
 **Q: How much can I earn in Web3?**  
-A: Compensation in Web3 consistently outstrips Web2 equivalents. Base salaries generally range 30-60% higher than traditional roles, with Solidity engineers and smart contract auditors earning the most due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn $200,000-$350,000 in total compensation. Even non-technical roles see substantial premiums compared to Web2 positions.
+A: Compensation in Web3 consistently outstrips Web2 equivalents. Base salaries generally range higher than traditional roles, with Solidity engineers and smart contract auditors earning the most due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn significant total compensation. Even non-technical roles see substantial premiums compared to Web2 positions.
 
 **Q: Is transitioning to Web3 risky?**  
 A: All career transitions come with risk, and Web3 is no exception due to market volatility and project lifecycles. However, you can manage this risk systematically. Focus on well-funded protocols with proven revenue, verify teams’ backgrounds, and negotiate base salaries in fiat currency instead of relying solely on tokens. Professionals who approach Web3 as a serious career move, rather than a speculative play, often establish sustainable roles that endure market fluctuations.
@@ -186,7 +186,7 @@ A: Historically, bear markets present excellent opportunities to enter Web3 prof
 
 ## Key Takeaways
 
-- Web3 offers substantial compensation premiums (20-40% above Web2 equivalents), accelerated career growth, and the chance to contribute to transformative technology across various industries.
+- Web3 offers substantial compensation premiums above Web2 equivalents, accelerated career growth, and the chance to contribute to transformative technology across various industries.
 - Most professionals can transition to Web3 within 2-6 months of focused effort, with engineers and product managers often moving the fastest due to directly transferable skills.
 - Your existing domain expertise holds significant value in Web3. Instead of starting from scratch, focus on integrating blockchain-specific knowledge into your current skill set.
 - Networking through Discord communities and engaging on Twitter, along with showcasing portfolio projects on GitHub, consistently yield better results than formal certifications when seeking Web3 roles.

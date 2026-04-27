@@ -78,7 +78,7 @@ The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ significa
 
 | Aspect                  | Web2 Dynamics                          | Web3 Dynamics                          |
 |------------------------|----------------------------------------|----------------------------------------|
-| Compensation           | Standard salaries                      | 20-40% higher salaries, plus bonuses and equity |
+| Compensation           | Standard salaries                      | Generally higher salaries, plus bonuses and equity |
 | Work Environment        | Hybrid or in-office                    | Predominantly remote                   |
 | Career Growth          | Gradual progression                    | Rapid advancement due to scaling needs |
 | Equity Opportunities    | Limited options                        | Token and equity packages common       |
@@ -130,10 +130,10 @@ Target roles that align your existing skills with new Web3 knowledge:
 ## Success Stories in Web3
 
 ### From Developer to Smart Contract Engineer
-Alex spent five years as a backend engineer at a leading tech company. After three months of learning Solidity while maintaining his job, he contributed to an open-source protocol. This caught the attention of a major DeFi project, resulting in a successful transition with a 50% salary increase and significant equity.
+Alex spent five years as a backend engineer at a leading tech company. After three months of learning Solidity while maintaining his job, he contributed to an open-source protocol. This caught the attention of a major DeFi project, resulting in a successful transition with a significant salary increase and equity.
 
 ### Transitioning a Product Manager to Web3
-Jessica, a product manager from traditional finance, capitalized on her industry knowledge in DeFi. Her grasp of financial products, combined with Web3 technology, made her highly sought after. Within four weeks, she secured a position at a top DeFi protocol.
+Jessica, a product manager from traditional finance, capitalized on her industry knowledge in DeFi. Her grasp of financial products, combined with Web3 technology, made her highly sought after. Within a short period, she secured a position at a top DeFi protocol.
 
 ### Career Change Success
 Marcus transitioned from a corporate role to focus entirely on Web3 for six months. Through dedicated learning, networking, and portfolio development, he landed a position leading Developer Relations at a major blockchain platform, with compensation significantly higher than his previous job.
@@ -141,7 +141,7 @@ Marcus transitioned from a corporate role to focus entirely on Web3 for six mont
 ## Challenges Unique to Web3
 
 ### Volatility Risk
-The inherent volatility of the crypto market can pose risks to job stability, especially within early-stage startups. It is advisable for professionals entering Web3 to maintain 6-12 months of living expenses in reserve. Additionally, negotiate base salaries in fiat currency rather than tokens and seek projects with established revenue models or strong treasury backing.
+The inherent volatility of the crypto market can pose risks to job stability, especially within early-stage startups. It is advisable for professionals entering Web3 to maintain several months of living expenses in reserve. Additionally, negotiate base salaries in fiat currency rather than tokens and seek projects with established revenue models or strong treasury backing.
 
 ### Regulatory Uncertainty
 The regulatory environment surrounding blockchain companies continues to evolve. Before joining any project, ensure the team has competent legal counsel and proactively engages with regulators rather than operating in uncertain legal territories.
@@ -158,13 +158,13 @@ The technical learning curve can be steep, particularly for those without a deve
 A: No. The Web3 ecosystem requires a diverse range of roles beyond engineering. Marketing managers, community leads, product designers, legal professionals, and operations specialists are all in demand. Your existing skills are transferable; you simply need to understand the Web3 context, such as how wallets work and the importance of decentralization.
 
 **Q: What are the earning potentials in Web3?**  
-A: Compensation in Web3 consistently exceeds that of Web2. Base salaries average 30-60% higher, with Solidity engineers and smart contract auditors commanding the highest premiums due to their rarity. Total compensation often includes signing bonuses, equity in emerging protocols, and token allocations. Senior engineers at well-funded protocols can earn total compensation between $200,000 and $350,000.
+A: Compensation in Web3 consistently exceeds that of Web2. Base salaries are generally higher, with Solidity engineers and smart contract auditors commanding the highest premiums due to their rarity. Total compensation often includes signing bonuses, equity in emerging protocols, and token allocations. Senior engineers at well-funded protocols can earn total compensation significantly higher than traditional roles.
 
 **Q: Is transitioning to Web3 risky?**  
 A: Every career shift carries some risk, and Web3 is no different, given market fluctuations. Manage this risk by targeting well-funded, established protocols with proven revenue, checking team backgrounds, and ensuring your base salary is in fiat currency.
 
 **Q: How long does it take to transition to Web3?**  
-A: Most professionals can make a meaningful transition within 2-6 months of focused effort. Engineers and product managers often move quickly due to the direct transfer of their core skills, while non-technical roles may require 4-8 weeks of self-study.
+A: Most professionals can make a meaningful transition within a few months of focused effort. Engineers and product managers often move quickly due to the direct transfer of their core skills, while non-technical roles may require several weeks of self-study.
 
 **Q: What happens if the crypto market crashes?**  
 A: Historically, bear markets present the best opportunities to enter Web3. Focus shifts from speculative hype to building tangible products, leading to a greater demand for talent. Infrastructure companies and security firms continue hiring regardless of market conditions, and those who built during past downturns are now highly sought after.
