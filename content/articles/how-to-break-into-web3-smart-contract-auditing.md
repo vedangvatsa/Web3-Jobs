@@ -53,12 +53,12 @@ The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamic
 
 | **Aspect**                | **Web2**                     | **Web3**                     |
 |--------------------------|-----------------------------|------------------------------|
-| **Compensation**         | Standard salaries            | 20-40% higher than Web2     |
+| **Compensation**         | Standard salaries            | Typically higher than Web2   |
 | **Remote Culture**       | Hybrid or in-office         | Primarily remote             |
 | **Growth Trajectory**    | Slower progression           | Rapid advancement             |
 | **Equity Upside**        | Limited                      | Commonly includes tokens and equity |
 
-**Compensation:** Web3 roles typically pay 20-40% above Web2 positions, often with significant bonuses and equity components.
+**Compensation:** Web3 roles typically pay more than Web2 positions, often with significant bonuses and equity components.
 
 **Remote-First Culture:** Most Web3 organizations operate fully or primarily remote, enabling a flexible work environment not commonly found in traditional tech.
 
@@ -119,7 +119,7 @@ Target roles that align your existing expertise with new Web3 knowledge:
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his day job. He contributed to an open-source protocol, catching the attention of a major DeFi project, which led to a transition with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his day job. He contributed to an open-source protocol, catching the attention of a major DeFi project, which led to a transition with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 
@@ -145,7 +145,7 @@ Marcus left his corporate job to focus on Web3 for six months. By consistently l
 A: No, the Web3 ecosystem requires more than just engineers. Roles for marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are in high demand. Your existing skills can transfer directly. You will need to layer on Web3 context, such as understanding wallets, DAOs, and the importance of decentralization. Most hiring managers value domain expertise combined with genuine curiosity about the space over strict blockchain knowledge.
 
 **Q: How much can I earn in Web3?**  
-A: Web3 compensation consistently exceeds Web2 equivalents. Base salaries are typically 30-60% higher on average, especially for Solidity engineers and smart contract auditors due to talent scarcity. In addition to base pay, total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols often earn between $200,000 and $350,000 in total compensation. Even non-technical roles see considerable premiums compared to equivalent Web2 positions.
+A: Web3 compensation consistently exceeds Web2 equivalents. Base salaries are typically higher on average, especially for Solidity engineers and smart contract auditors due to talent scarcity. In addition to base pay, total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols often earn substantial total compensation. Even non-technical roles see considerable premiums compared to equivalent Web2 positions.
 
 **Q: Is it risky to transition to Web3?**  
 A: All career transitions carry risks, and Web3 is no exception due to market volatility and project lifecycles. You can manage this risk systematically by targeting well-funded, established protocols with proven revenue, verifying team track records, and ensuring your base salary is paid in fiat rather than entirely in tokens. Professionals who approach Web3 as a career move rather than a quick profit opportunity tend to build sustainable roles that endure market fluctuations.
@@ -154,7 +154,7 @@ A: All career transitions carry risks, and Web3 is no exception due to market vo
 A: Most professionals can achieve a significant transition to Web3 within 2-6 months of dedicated effort. Engineers and product managers often progress more quickly due to their directly transferable skills, while non-technical roles like marketing and community management can transition in as little as 4-8 weeks with focused self-study. The key variable is your level of engagement; building a portfolio project or contributing to an open-source protocol can significantly accelerate the process.
 
 **Q: What if the crypto market crashes?**  
-A: Historically, bear markets have been the best time to enter Web3 professionally. When speculative excitement declines, teams concentrate on building real products, prioritizing talent over token prices. Companies focused on infrastructure, security, and developer tools continue to hire steadily regardless of market conditions. Professionals who built during the 2018-2019 bear market are now among the most sought-after in the field. A downturn reduces competition for roles and often leads to improved equity terms for new hires.
+A: Historically, bear markets have been the best time to enter Web3 professionally. When speculative excitement declines, teams concentrate on building real products, prioritizing talent over token prices. Companies focused on infrastructure, security, and developer tools continue to hire steadily regardless of market conditions. Professionals who built during previous bear markets are now among the most sought-after in the field. A downturn reduces competition for roles and often leads to improved equity terms for new hires.
 
 ## Conclusion
 

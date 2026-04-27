@@ -39,10 +39,10 @@ Regularly assess your progress. Are you achieving the desired outcomes? Gather f
 ## Real-World Examples
 
 ### Example 1: Sarah's Journey
-Sarah, a software developer at a blockchain startup, struggled to communicate effectively with her product team. After applying personality assessment techniques, she realized that her analytical nature clashed with her teammates' more creative approaches. By adjusting her communication style to include more visual aids and collaborative brainstorming sessions, she improved her team’s output. Within three months, her team’s project delivery time decreased by 25%, demonstrating the effectiveness of adapting to different personalities.
+Sarah, a software developer at a blockchain startup, struggled to communicate effectively with her product team. After applying personality assessment techniques, she realized that her analytical nature clashed with her teammates' more creative approaches. By adjusting her communication style to include more visual aids and collaborative brainstorming sessions, she improved her team’s output. Within a few months, her team’s project delivery time decreased significantly, demonstrating the effectiveness of adapting to different personalities.
 
 ### Example 2: Juan's Experience
-Juan serves as a product manager in the decentralized finance (DeFi) sector. He faced challenges in team meetings where his assertive style overshadowed quieter colleagues. After implementing techniques to encourage input from all team members, including structured turn-taking during discussions, Juan noticed a 40% increase in team engagement and creativity. His experience illustrates how adapting to various personality types can enhance team collaboration.
+Juan serves as a product manager in the decentralized finance (DeFi) sector. He faced challenges in team meetings where his assertive style overshadowed quieter colleagues. After implementing techniques to encourage input from all team members, including structured turn-taking during discussions, Juan noticed a marked increase in team engagement and creativity. His experience illustrates how adapting to various personality types can enhance team collaboration.
 
 ### Example 3: Maya's Transition
 Maya transitioned from a Web2 company to a Web3 startup. She initially found it challenging to adjust to the fast-paced, decentralized work environment. By employing strategies tailored to understanding her colleagues' diverse work styles, she quickly adapted. Her willingness to seek feedback and adjust her methods helped her integrate smoothly into her new role, showcasing that adaptability is crucial regardless of background.
@@ -77,7 +77,7 @@ By recognizing these traits, teams can adjust their workflows and communication 
 ## FAQ
 
 **How long will this take to implement?**  
-Most individuals notice initial improvements within 2–4 weeks of consistent application. Significant changes typically appear within 8–12 weeks, depending on your starting point, daily commitment, and feedback engagement. Those who actively track their progress through metrics, peer feedback, or journaling often see faster results.
+Most individuals notice initial improvements within a few weeks of consistent application. Significant changes typically appear within a few months, depending on your starting point, daily commitment, and feedback engagement. Those who actively track their progress through metrics, peer feedback, or journaling often see faster results.
 
 **What if my workplace environment doesn't support this?**  
 Even in challenging environments, you can take proactive steps. Start with small, self-directed actions like developing personal habits or initiating internal discussions with supportive colleagues. Gradually build momentum without waiting for broad organizational support. If sustained efforts reveal structural barriers, consider seeking opportunities in environments that prioritize employee development.

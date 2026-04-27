@@ -138,7 +138,7 @@ function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amoun
 }
 ```
 
-**Practical Insight**: The inclusion of `* 997` and `* 1000` implements a 0.3% trading fee. This fee accumulates in the pool, enhancing the value of the reserves and rewarding liquidity providers.
+**Practical Insight**: The inclusion of `* 997` and `* 1000` implements a trading fee. This fee accumulates in the pool, enhancing the value of the reserves and rewarding liquidity providers.
 
 ### Step 4: Testing and Deployment Process
 
@@ -182,8 +182,8 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 
 | Name   | Role                     | Outcome                                 |
 |--------|--------------------------|-----------------------------------------|
-| Sarah  | Developer at a startup   | Enhanced efficiency in code deployment. Within three months, she reduced deployment times by 30%. |
-| Juan   | Product Manager in DeFi  | Improved product delivery speed. By adopting a structured framework, he cut time-to-market for new features by 40%. |
+| Sarah  | Developer at a startup   | Enhanced efficiency in code deployment. Within three months, she reduced deployment times significantly. |
+| Juan   | Product Manager in DeFi  | Improved product delivery speed. By adopting a structured framework, he cut time-to-market for new features significantly. |
 | Maya   | Transitioning from Web2  | Successfully adapted to Web3. By applying these strategies, she secured a role at a leading blockchain firm within two months. |
 
 ### Common Mistakes to Avoid
@@ -201,7 +201,7 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 ## FAQ
 
 **Q: How long will it take to see results from implementing these strategies?**  
-A: Many individuals notice initial results within 2 to 4 weeks of consistent application. Significant improvements usually become evident within 8 to 12 weeks. The timeline varies based on your starting point, your daily practice commitment, and whether you actively seek feedback. Those who monitor their progress—through metrics, peer assessments, or journaling—typically advance more quickly than those who passively observe.
+A: Many individuals notice initial results within a few weeks of consistent application. Significant improvements usually become evident within a couple of months. The timeline varies based on your starting point, your daily practice commitment, and whether you actively seek feedback. Those who monitor their progress—through metrics, peer assessments, or journaling—typically advance more quickly than those who passively observe.
 
 **Q: What if my workplace doesn’t support this type of initiative?**  
 A: Even in challenging environments, you often have more agency than initially perceived. Start by making small, self-contained actions that do not require broad organizational support. Focus on personal projects or initiate conversations with like-minded colleagues. As you gain momentum, document your progress and results. If, after sustained effort, the environment continues to hinder your development, it may be time to consider a role at an organization that values employee growth.

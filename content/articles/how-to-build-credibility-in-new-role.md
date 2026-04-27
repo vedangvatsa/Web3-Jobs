@@ -53,7 +53,7 @@ Credibility is built on trust and strong interpersonal skills.
 ### FAQs
 
 **How long does it typically take to build credibility in a new role?**  
-Building a strong reputation can take anywhere from six months to a year, but you can make a positive impression within the first 90 days.
+Building a strong reputation can take several months, but you can make a positive impression within the first 90 days.
 
 **What is the biggest mistake people make when trying to build credibility?**  
 Many professionals attempt to take on too much too quickly. Start by focusing on listening and completing small tasks effectively rather than overcommitting.
@@ -88,9 +88,9 @@ Monitor your progress closely. Are you seeing the desired results? Adjust your a
 
 | **Professional** | **Industry** | **Challenge** | **Outcome** |
 |------------------|--------------|----------------|--------------|
-| Sarah            | [Blockchain](/what-is-a-blockchain) | Struggled with initial integration | Implemented active listening strategies; improved team collaboration within 3 months |
+| Sarah            | [Blockchain](/what-is-a-blockchain) | Struggled with initial integration | Implemented active listening strategies; improved team collaboration within a few months |
 | Juan             | [DeFi](/what-is-defi) | Faced project delays due to communication gaps | Adopted proactive problem-solving; completed his project ahead of schedule |
-| Maya             | Web2 to Web3 transition | Difficulty adapting to new work culture | Utilized networking and knowledge-sharing; built a strong reputation within 6 months |
+| Maya             | Web2 to Web3 transition | Difficulty adapting to new work culture | Utilized networking and knowledge-sharing; built a strong reputation within several months |
 
 ### Common Mistakes to Avoid
 
@@ -103,7 +103,7 @@ Monitor your progress closely. Are you seeing the desired results? Adjust your a
 ### FAQ
 
 **How long will this take to implement?**  
-Most professionals see initial results within 2 to 4 weeks of consistent application. Significant improvements often manifest within 8 to 12 weeks, depending on your starting point and your commitment to practice. Actively seeking feedback can accelerate this process.
+Most professionals see initial results within a few weeks of consistent application. Significant improvements often manifest within a couple of months, depending on your starting point and your commitment to practice. Actively seeking feedback can accelerate this process.
 
 **What if my workplace environment doesn't support this?**  
 You typically have more agency than it seems. Start with small, self-contained actions that don't require organizational buy-in. Document your progress, and gradually build momentum.

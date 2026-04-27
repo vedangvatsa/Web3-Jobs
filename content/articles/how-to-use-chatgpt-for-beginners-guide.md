@@ -69,7 +69,7 @@ The persona prompt will result in a much simpler, more accessible explanation. Y
 Tell the model exactly what you want the output to look like.
 
 *   `"Write three different headlines for a blog post about the benefits of [remote work](/remote-work-in-web3). Each headline should be under 10 words and evoke a sense of freedom."`
-*   `"Create a table comparing the pros and cons of solar energy versus wind energy. The table should have three columns. Feature, Pros, and Cons."`
+*   `"Create a table comparing the pros and cons of solar energy versus wind energy. The table should have three columns: Feature, Pros, and Cons."`
 *   `"Generate a list of 10 [interview](/how-to-prepare-for-job-interview) questions for a junior software [developer role](/entry-level-jobs-in-web3). Focus on questions that test problem-solving skills rather than specific language syntax."`
 
 By defining the format (headlines, table, list) and setting constraints (under 10 words), you get a structured output that’s ready to use.
@@ -119,10 +119,10 @@ Learning to use ChatGPT effectively is a skill that will become increasingly val
 ### Frequently Asked Questions (FAQs)
 
 **1. Is ChatGPT free to use?**
-Yes, there is a free version of ChatGPT that is very capable. There is also a paid subscription version, like ChatGPT Plus, which provides access to more advanced models (like GPT-4), faster response times, and new features.
+Yes, there is a free version of ChatGPT that is very capable. There is also a paid subscription version, which provides access to more advanced models, faster response times, and new features.
 
 **2. Can ChatGPT access the internet in real-time?**
-The standard models do not have live access to the internet. Their knowledge is frozen at the time of their training. However, some versions, particularly those integrated into search engines like Bing, can access live information.
+The standard models do not have live access to the internet. Their knowledge is frozen at the time of their training. However, some versions, particularly those integrated into search engines, can access live information.
 
 **3. How is ChatGPT different from a search engine like Google?**
 A search engine finds and links you to existing information on the internet. ChatGPT generates new text based on the patterns it has learned. It synthesizes information to create a response rather than just pointing to it. This makes it great for creative tasks and explanations but less reliable for finding the original source of a fact.

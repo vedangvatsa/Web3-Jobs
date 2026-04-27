@@ -71,11 +71,11 @@ Continuously monitor your progress. Are you seeing the desired outcomes? Be will
 
 ### Example 1: Sarah's Journey in a Blockchain Startup
 
-Sarah, a software developer at a blockchain startup, faced challenges in her machine learning projects. By applying the strategies outlined above, she improved her model accuracy by 40 percent within three months. Her enhanced performance led to a promotion and recognition from her peers for her contributions to the team.
+Sarah, a software developer at a blockchain startup, faced challenges in her machine learning projects. By applying the strategies outlined above, she improved her model accuracy significantly within three months. Her enhanced performance led to a promotion and recognition from her peers for her contributions to the team.
 
 ### Example 2: Juan's Success in DeFi
 
-Juan, a product manager in decentralized finance (DeFi), struggled with data analysis. After implementing a structured approach to learning, he successfully reduced the time taken to deliver product insights by 30 percent. His ability to leverage data effectively resulted in enhanced product features and increased user engagement.
+Juan, a product manager in decentralized finance (DeFi), struggled with data analysis. After implementing a structured approach to learning, he successfully reduced the time taken to deliver product insights significantly. His ability to leverage data effectively resulted in enhanced product features and increased user engagement.
 
 ### Example 3: Maya's Transition from Web2 to Web3
 
@@ -96,13 +96,13 @@ Maya transitioned from a traditional Web2 company to a Web3 startup. By followin
 ## FAQ
 
 **Q: How long will it take to see results?**  
-A: Most individuals see initial improvements within 2 to 4 weeks of consistent application. Significant results typically manifest within 8 to 12 weeks, depending on your baseline, daily practice commitment, and the extent to which you seek feedback. Active tracking of progress, whether through metrics or peer feedback, accelerates improvement.
+A: Most individuals see initial improvements within a few weeks of consistent application. Significant results typically manifest within a couple of months, depending on your baseline, daily practice commitment, and the extent to which you seek feedback. Active tracking of progress, whether through metrics or peer feedback, accelerates improvement.
 
 **Q: What if my workplace does not support this learning?**  
 A: Even in challenging environments, you often retain more agency than you realize. Start with small, independent actions that don’t require organizational approval. Focus on personal projects or engage in discussions with supportive colleagues. Gradually build momentum rather than waiting for formal permission. Document your progress, as this can serve as a valuable record of your development.
 
 **Q: How does this apply specifically to Web3?**  
-A: Web3 organizations often feature flatter hierarchies, granting you more direct access to decision-makers but requiring greater self-direction. Teams are usually remote and globally distributed, emphasizing written communication and asynchronous collaboration. The pace of work tends to be faster, with product cycles occurring in weeks rather than quarters. Adapting to this environment is a critical professional skill.
+A: Web3 organizations often feature flatter hierarchies, granting you more direct access to decision-makers but requiring greater self-direction. Teams are usually remote and globally distributed, emphasizing written communication and asynchronous collaboration. The pace of work tends to be faster, with product cycles occurring in shorter timeframes. Adapting to this environment is a critical professional skill.
 
 **Q: Can I implement this alongside my current job?**  
 A: Yes. This approach is advisable for most professionals. You don't need to allocate additional hours; instead, focus on being intentional within your existing schedule. Identify two or three practices that align with your daily tasks and apply them consistently. Small, deliberate improvements compound over time, often yielding greater results than sporadic, large efforts.

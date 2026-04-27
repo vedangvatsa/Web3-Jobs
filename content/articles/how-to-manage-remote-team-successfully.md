@@ -19,7 +19,7 @@ This guide outlines essential principles and practices for successfully leading 
 
 ### Principle 1: Embrace Asynchronous Communication
 
-In a traditional office, synchronous communication is the norm—think meetings and casual conversations. However, remote teams, often spread across different time zones, need to prioritize **asynchronous communication**.
+In a traditional office, synchronous communication is the norm, think meetings and casual conversations. However, remote teams, often spread across different time zones, need to prioritize **asynchronous communication**.
 
 An async-first approach means designing communication methods that do not require simultaneous presence.
 
@@ -107,11 +107,11 @@ Track your progress. If you achieve results, adapt your methods based on feedbac
 
 ### Example 1
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with communication inefficiencies. After implementing the outlined strategies, she experienced a 30% increase in project completion speed within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with communication inefficiencies. After implementing the outlined strategies, she experienced a notable increase in project completion speed within three months.
 
 ### Example 2
 
-Juan, a product manager in [DeFi](/what-is-defi), faced similar challenges. By applying the framework, he improved team collaboration and achieved a 25% reduction in product launch times.
+Juan, a product manager in [DeFi](/what-is-defi), faced similar challenges. By applying the framework, he improved team collaboration and achieved a reduction in product launch times.
 
 ### Example 3
 
@@ -128,7 +128,7 @@ Maya transitioned from Web2 to Web3 and successfully adapted by implementing the
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Initial results often appear within 2 to 4 weeks of consistent application. Significant and measurable improvements usually manifest within 8 to 12 weeks. The timeline varies based on your starting point, daily practice commitment, and the feedback you seek. Actively tracking progress enhances speed.
+A: Initial results often appear within a few weeks of consistent application. Significant and measurable improvements usually manifest within a few months. The timeline varies based on your starting point, daily practice commitment, and the feedback you seek. Actively tracking progress enhances speed.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: You often have more agency than you realize, even in challenging environments. Begin with small, independent actions that require no organizational support. Build momentum gradually and document your progress. If substantial barriers persist, consider seeking a more supportive environment.

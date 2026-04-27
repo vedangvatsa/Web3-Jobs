@@ -80,7 +80,7 @@ Your rates will vary based on your industry and skills. A good starting point in
 Always use a freelance contract. This document protects both you and your client by outlining the scope of work, deliverables, payment terms, and deadlines. Numerous free templates are available online for customization.
 
 **How do I handle taxes?**  
-As a freelancer, you bear the responsibility for your own taxes. This differs from traditional employment. It is wise to set aside approximately 25-30% of every payment for tax purposes. Consulting with an accountant can help ensure you comply with regulations.
+As a freelancer, you bear the responsibility for your own taxes. This differs from traditional employment. It is wise to set aside a portion of every payment for tax purposes. Consulting with an accountant can help ensure you comply with regulations.
 
 ### Why This Matters
 
@@ -111,10 +111,10 @@ Track your progress and adjust your strategy as needed. This mindset fosters con
 ### Real-World Examples
 
 #### Example 1: Sarah, the Developer
-Sarah is a developer at a [blockchain](/what-is-a-blockchain) startup. She struggled with client acquisition until she adopted specific strategies. Within three months, her client base expanded by 50%, demonstrating the effectiveness of these methods.
+Sarah is a developer at a [blockchain](/what-is-a-blockchain) startup. She struggled with client acquisition until she adopted specific strategies. Within a few months, her client base expanded significantly, demonstrating the effectiveness of these methods.
 
 #### Example 2: Juan, the Product Manager
-Juan, a product manager in [DeFi](/what-is-defi), faced difficulties in securing projects. By following a structured approach, he successfully increased his client list by 40%. His experience highlights the universal applicability of these strategies.
+Juan, a product manager in [DeFi](/what-is-defi), faced difficulties in securing projects. By following a structured approach, he successfully increased his client list. His experience highlights the universal applicability of these strategies.
 
 #### Example 3: Maya's Transition
 Maya transitioned from a Web2 to a Web3 environment and utilized these strategies to adapt rapidly. Her success story illustrates that anyone, regardless of background or experience, can thrive in freelancing.

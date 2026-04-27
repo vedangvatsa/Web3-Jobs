@@ -84,41 +84,41 @@ Mastering technical writing skills can significantly impact your career trajecto
 
 ### Step-by-Step Guide
 
-**Step 1: Understand the Fundamentals**
+**Step 1: Understand the Fundamentals**  
 Grasping the core principles of technical writing is essential. Read about best practices from industry experts to build a solid foundation.
 
-**Step 2: Assess Your Current Situation**
+**Step 2: Assess Your Current Situation**  
 Evaluate your strengths and weaknesses in writing and technical knowledge. Identifying specific challenges will help you focus your efforts.
 
-**Step 3: Develop Your Personal Strategy**
+**Step 3: Develop Your Personal Strategy**  
 Create a tailored plan that aligns with your circumstances. Consider your current role, team dynamics, organizational culture, and personal goals.
 
-**Step 4: Implement Gradually**
+**Step 4: Implement Gradually**  
 Avoid attempting to change everything at once. Make small, incremental changes and monitor their effectiveness. This approach encourages sustainable improvement.
 
-**Step 5: Measure and Adjust**
+**Step 5: Measure and Adjust**  
 Track your progress. Are you achieving the desired results? Modify your strategy based on feedback and outcomes. This mindset fosters continuous improvement.
 
 ### Real-World Examples
 
 | Name  | Role                          | Challenge                             | Outcome                                     |
 |-------|-------------------------------|--------------------------------------|---------------------------------------------|
-| Sarah | Developer at a blockchain startup | Struggled with documentation clarity | Improved documentation clarity within 3 months through structured writing practices. |
+| Sarah | Developer at a blockchain startup | Struggled with documentation clarity | Improved documentation clarity within a few months through structured writing practices. |
 | Juan  | Product manager in [DeFi](/what-is-defi) | Faced challenges in internal communication | Enhanced team collaboration and documentation practices, leading to increased efficiency. |
 | Maya  | Transitioning from Web2 to Web3 | Needed to adapt to new technology   | Successfully navigated the transition by applying best practices in technical writing.   |
 
 ### Common Mistakes to Avoid
 
-1. **Rushing the Process**: Sustainable improvement takes time and cannot be achieved overnight.
-2. **Ignoring Feedback**: Colleagues and mentors can provide insights that you might overlook. Value their input.
-3. **One-Size-Fits-All Approach**: Adapt strategies to fit your unique circumstances rather than applying a generic solution.
-4. **Giving Up Too Soon**: Change can be uncomfortable. Persist through initial difficulties to achieve better results.
-5. **Not Tracking Progress**: Regularly monitor your progress. You need metrics to evaluate improvement accurately.
+1. **Rushing the Process:** Sustainable improvement takes time and cannot be achieved overnight.
+2. **Ignoring Feedback:** Colleagues and mentors can provide insights that you might overlook. Value their input.
+3. **One-Size-Fits-All Approach:** Adapt strategies to fit your unique circumstances rather than applying a generic solution.
+4. **Giving Up Too Soon:** Change can be uncomfortable. Persist through initial difficulties to achieve better results.
+5. **Not Tracking Progress:** Regularly monitor your progress. You need metrics to evaluate improvement accurately.
 
 ### FAQ
 
 **Q: How long will it take to see results?**  
-A: Many individuals notice initial results within 2 to 4 weeks of consistent effort, with substantial improvements typically visible within 8 to 12 weeks. The timeline is influenced by your starting position, commitment to daily practice, and willingness to seek feedback. Those who actively track their progress often advance more swiftly than those who do not.
+A: Many individuals notice initial results within a few weeks of consistent effort, with substantial improvements typically visible within a few months. The timeline is influenced by your starting position, commitment to daily practice, and willingness to seek feedback. Those who actively track their progress often advance more swiftly than those who do not.
 
 **Q: What should I do if my workplace doesn't support this?**  
 A: Even in challenging environments, you can find ways to take initiative. Start with small, self-directed actions that do not require organizational approval. Build momentum gradually, documenting your progress and the results you achieve. If sustained efforts reveal a lack of support for your development, consider seeking opportunities in environments that prioritize professional growth.

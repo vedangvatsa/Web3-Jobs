@@ -36,7 +36,7 @@ By knowing your audience, you can tailor your presentation to address their inte
 Articulate the purpose of your presentation succinctly. This "why" should answer the question, "Why are we here?"
 
 - **Bad "Why":** "I want to present my idea for a new feature."
-- **Good "Why":** "I propose a new feature that will reduce customer churn by 15% in the next quarter by addressing our top customer complaint."
+- **Good "Why":** "I propose a new feature that will reduce customer churn by a significant percentage in the next quarter by addressing our top customer complaint."
 
 A strong "why" connects your idea to a tangible business outcome.
 
@@ -47,16 +47,16 @@ Attention from executives is limited. Therefore, structure your presentation to 
 ### The Executive-Friendly Structure
 
 1. **The Recommendation (1 Minute):** Start with your conclusion. Clearly state your core recommendation and its expected business outcome.
-   - *Example: "I recommend investing $50,000 to develop a self-service onboarding flow, which we project will reduce support ticket volume by 30% and increase new user activation by 10% within six months."*
+   - *Example: "I recommend investing in developing a self-service onboarding flow, which we project will reduce support ticket volume significantly and increase new user activation within six months."*
 
 2. **The Business Case & Alignment (3-5 Minutes):** Describe the problem you aim to solve and how your solution aligns with the company's strategic objectives. Support your claims with data.
-   - *Example: "Our support team currently spends 200 hours monthly onboarding new enterprise clients. This process is not scalable and contributes to our second-highest customer complaints. Enhancing the onboarding experience directly supports our goal of increasing product-led growth."*
+   - *Example: "Our support team currently spends a considerable amount of time onboarding new enterprise clients. This process is not scalable and contributes to our second-highest customer complaints. Enhancing the onboarding experience directly supports our goal of increasing product-led growth."*
 
 3. **The Proposed Solution & Alternatives (3-5 Minutes):** Outline your proposed solution while also addressing other options you considered. Explain why your recommendation is the most viable.
    - *Example: "We evaluated hiring more support staff, which is financially impractical, and acquiring a third-party tool, which poses security risks. Our in-house solution strikes the best balance between cost, security, and user experience."*
 
 4. **The Ask & The Plan (2-3 Minutes):** Clearly specify what you need from the executives. Detail the budget, headcount, or approval required, along with a high-level timeline.
-   - *Example: "To proceed, we need a budget of $50,000 for Q3 and the assignment of one backend engineer. We aim to deliver Phase 1 within six weeks."*
+   - *Example: "To proceed, we need a budget for the upcoming quarter and the assignment of one backend engineer. We aim to deliver Phase 1 within six weeks."*
 
 5. **Appendix/Deep Dive (For Q&A):** Prepare detailed slides as an appendix for specific questions regarding technical architecture, financial models, or user research. Present these only if asked.
 
@@ -66,7 +66,7 @@ Effective presentations combine compelling data with a strong narrative. Both el
 
 ### Quantify Everything
 
-Always use precise figures instead of vague terms. For example, instead of saying "many," specify "3,000." Avoid saying "better"; instead, express "a 15% improvement." Quantifying both the issue and the potential impact of your solution enhances the credibility of your argument.
+Always use precise figures instead of vague terms. For example, instead of saying "many," specify a clear number. Avoid saying "better"; instead, express a specific improvement. Quantifying both the issue and the potential impact of your solution enhances the credibility of your argument.
 
 | Data Source           | Example Metrics                                   |
 |-----------------------|---------------------------------------------------|
@@ -162,13 +162,13 @@ Track your progress. Are you achieving desired results? Adjust your approach bas
 ## Real-World Examples
 
 ### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in communicating her ideas effectively. After implementing these strategies, she saw a 40% increase in her team's support for her proposals within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in communicating her ideas effectively. After implementing these strategies, she saw a significant increase in her team's support for her proposals within a few months.
 
 ### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), struggled with leadership engagement. By following the outlined framework, he successfully secured funding for a new project, resulting in a 25% increase in user retention.
+Juan, a product manager in [DeFi](/what-is-defi), struggled with leadership engagement. By following the outlined framework, he successfully secured funding for a new project, resulting in an increase in user retention.
 
 ### Example 3
-Maya transitioned from Web2 to Web3 and used these techniques to adapt quickly. Her ability to present ideas effectively led to a promotion within six months, demonstrating the universal applicability of these principles.
+Maya transitioned from Web2 to Web3 and used these techniques to adapt quickly. Her ability to present ideas effectively led to a promotion within a few months, demonstrating the universal applicability of these principles.
 
 ## Common Mistakes to Avoid
 
@@ -181,7 +181,7 @@ Maya transitioned from Web2 to Web3 and used these techniques to adapt quickly. 
 ## FAQ
 
 **Q: How long will this take to implement?**
-A: Initial results can appear within 2-4 weeks of consistent application, with significant improvements observable within 8-12 weeks. The timeline depends on your starting point, daily practice, and active feedback solicitation. Professionals who track their progress, whether through metrics, peer feedback, or journaling, typically advance faster than those who rely solely on observation.
+A: Initial results can appear within a few weeks of consistent application, with significant improvements observable within a couple of months. The timeline depends on your starting point, daily practice, and active feedback solicitation. Professionals who track their progress, whether through metrics, peer feedback, or journaling, typically advance faster than those who rely solely on observation.
 
 **Q: What if my workplace environment doesn't support this?**
 A: Even in challenging environments, you often have more autonomy than you realize. Start small with self-contained actions that require no organizational approval—such as personal projects or conversations with supportive colleagues. Gradually build momentum. If, after sustained effort, you find structural barriers, consider seeking an organization that invests in employee development.

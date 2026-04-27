@@ -39,7 +39,7 @@ Handling an employment gap on your resume can be done effectively through a coup
 Example:
 
 **Professional Sabbatical** | 2022 - 2023  
-- Focused on professional development, completing over 200 hours of coursework in data science and machine learning.  
+- Focused on professional development, completing significant coursework in data science and machine learning.  
 - Developed and launched a personal project analyzing on-chain data, utilizing Python and SQL.  
 
 This approach maintains honesty and reframes the gap as a proactive period of skill acquisition.
@@ -50,7 +50,7 @@ Your cover letter provides an excellent opportunity to explain your career break
 
 For instance:
 
-"After a rewarding period dedicated to [e.g., raising young children / pursuing a personal project], I am enthusiastic about bringing my [Number] years of experience in [Your Field] to a mission-driven organization like [Company Name]."
+"After a rewarding period dedicated to [e.g., raising young children / pursuing a personal project], I am enthusiastic about bringing my experience in [Your Field] to a mission-driven organization like [Company Name]."
 
 This statement acknowledges the gap while redirecting the focus to your eagerness for the role.
 
