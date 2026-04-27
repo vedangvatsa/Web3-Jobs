@@ -20,7 +20,7 @@ Understanding the Intention Economy’s potential requires an examination of the
 
 1. **Misaligned Incentives**: In the attention economy, platforms prioritize maximizing ad revenue, which often contradicts users' goals of completing tasks efficiently. For example, recipe websites cluttered with ads prioritize keeping users on the page longer rather than helping them prepare meals.
 
-2. **Data Exploitation**: Platforms extract significant value from personal data—such as search history and location—without adequately compensating users. This data serves as the backbone of their advertising strategies, turning users into resources for profit.
+2. **Data Exploitation**: Platforms extract significant value from personal data, such as search history and location, without adequately compensating users. This data serves as the backbone of their advertising strategies, turning users into resources for profit.
 
 3. **Centralized Control and Censorship**: A select few companies control the flow of information online. They can alter algorithms, shadowban creators, or de-platform users, effectively erasing their digital identities and voices.
 

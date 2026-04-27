@@ -20,7 +20,7 @@ Real-World Assets are tangible assets that exist physically and hold verifiable 
 
 **Current Examples of Tokenized RWAs:**
 - **U.S. Treasury Bills:** This use case has gained significant traction. Projects are generating stablecoin-like tokens fully backed by short-term U.S. government bonds, offering a direct link to the "risk-free rate."
-- **Private Credit:** Tokenization of pools of real-world loans—such as those for small businesses, invoice financing, or auto loans—allows DeFi investors to access reliable, uncorrelated yield sources.
+- **Private Credit:** Tokenization of pools of real-world loans, such as those for small businesses, invoice financing, or auto loans, allows DeFi investors to access reliable, uncorrelated yield sources.
 - **Real Estate:** Fractional ownership tokens for commercial office buildings, rental properties, or entire property portfolios are becoming common.
 - **Art & Collectibles:** Ownership of high-value physical art pieces, like Picassos or rare collectibles, is being fractionalized through tokenization.
 

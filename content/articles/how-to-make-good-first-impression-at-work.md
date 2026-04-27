@@ -103,7 +103,7 @@ This is perhaps the most underrated aspect of making a good first impression.
 **How to Listen Actively:**
 - **Focus completely:** Put away your phone. Make eye contact. Let your mind focus on understanding, not planning your response.
 - **Don't interrupt:** Even if you have something to add, wait. Let them finish. Most people find this remarkable and appreciate it.
-- **Take notes:** This serves multiple purposes—shows engagement, helps you remember, gives you something to reference later.
+- **Take notes:** This serves multiple purposes, shows engagement, helps you remember, gives you something to reference later.
 - **Pause before responding:** Count to a few moments after someone finishes. This gives them space to add more and shows you're thoughtful.
 - **Ask follow-up questions:** "Tell me more about that" or "How did you handle that?" shows genuine interest.
 - **Summarize back:** "So if I'm understanding correctly..." confirms understanding and shows you're tracking.
@@ -162,7 +162,7 @@ Your first impression is largely about the relationships you start building.
 
 **With Your Teammates:**
 - Introduce yourself to each teammate in the first few days.
-- Don't wait to be approached—take initiative.
+- Don't wait to be approached, take initiative.
 - Remember names and basic facts about them.
 - Find something interesting about each person.
 
@@ -254,7 +254,7 @@ This is surprisingly rare and incredibly impactful.
 
 **How to Master This:**
 - Write down names immediately after meeting someone.
-- Add a detail: "Sarah—working on [blockchain](/what-is-a-blockchain) security, has a dog named Max."
+- Add a detail: "Sarah, working on [blockchain](/what-is-a-blockchain) security, has a dog named Max."
 - Review your notes before meetings.
 - Reference the detail later: "How's Max doing?"
 
@@ -295,7 +295,7 @@ People are willing to revise first impressions if they see genuine change.
 
 **Q: Should I try to be friends with everyone immediately?**
 
-A: Focus on being friendly, professional, and genuine. Friendships will develop naturally over time. The initial goal is to build respectful working relationships and show you're someone people want to work with. Authentic friendship can't be forced—it develops through shared experience over time.
+A: Focus on being friendly, professional, and genuine. Friendships will develop naturally over time. The initial goal is to build respectful working relationships and show you're someone people want to work with. Authentic friendship can't be forced, it develops through shared experience over time.
 
 **Q: Is it OK to be yourself, or should I be more formal?**
 

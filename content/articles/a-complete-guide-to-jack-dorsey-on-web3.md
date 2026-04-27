@@ -41,7 +41,7 @@ Dorsey envisions a genuinely decentralized internet built on what he considers t
 
 ### 1. Bitcoin as the Internet's Native Currency
 
-Dorsey believes the internet requires a native currency—one that is not subject to the control of any single country or corporation. He identifies Bitcoin as the only contender for this role due to several key attributes:
+Dorsey believes the internet requires a native currency, one that is not subject to the control of any single country or corporation. He identifies Bitcoin as the only contender for this role due to several key attributes:
 
 | Attribute                | Description                                                                                       |
 |--------------------------|---------------------------------------------------------------------------------------------------|
@@ -65,4 +65,4 @@ Web5 aims to establish a web where users retain ownership of their identity and 
 
 Jack Dorsey occupies a distinctive position in the Web3 discussion as a resolute advocate for Bitcoin. He serves as a counterweight to the hype and commercialization surrounding the broader "Web3" ecosystem. His critiques, particularly those targeting the role of venture capital, compel the industry to confront challenging questions about the authenticity of decentralization.
 
-While some may dismiss his views as overly restrictive, his influence is significant. Through his efforts at Block and TBD, Dorsey actively invests in and develops an alternative vision for a decentralized future—one firmly anchored in Bitcoin's principles and protocols. His unwavering philosophy positions him as a key figure influencing the internet's trajectory, prompting conversations about the true meaning of decentralization and the potential of Bitcoin in shaping the digital landscape.
+While some may dismiss his views as overly restrictive, his influence is significant. Through his efforts at Block and TBD, Dorsey actively invests in and develops an alternative vision for a decentralized future, one firmly anchored in Bitcoin's principles and protocols. His unwavering philosophy positions him as a key figure influencing the internet's trajectory, prompting conversations about the true meaning of decentralization and the potential of Bitcoin in shaping the digital landscape.

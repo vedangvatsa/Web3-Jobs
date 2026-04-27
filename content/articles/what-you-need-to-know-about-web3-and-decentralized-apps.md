@@ -41,7 +41,7 @@ Using a dApp can feel different from traditional applications, primarily due to 
 
 2. **Connect Your Wallet:** Upon visiting a dApp's website, you'll find a "Connect Wallet" button instead of a typical "Log In" option. Clicking this initiates a connection between your wallet and the dApp.
 
-3. **Engage and Sign Transactions:** After connecting, you can access the dApp's features. Any action that alters the blockchain state—such as swapping a [token](/what-is-a-token), purchasing an [NFT](/what-are-nfts), or voting on a proposal—requires signing a transaction in your wallet. This transaction is sent to the blockchain for processing and incurs a "gas fee," which compensates the network's validators.
+3. **Engage and Sign Transactions:** After connecting, you can access the dApp's features. Any action that alters the blockchain state, such as swapping a [token](/what-is-a-token), purchasing an [NFT](/what-are-nfts), or voting on a proposal, requires signing a transaction in your wallet. This transaction is sent to the blockchain for processing and incurs a "gas fee," which compensates the network's validators.
 
 ### Prominent dApp Examples
 
@@ -148,7 +148,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 ## FAQ
 
 **Q: Is blockchain expertise necessary to work in Web3?**  
-A: No, Web3 requires diverse roles beyond engineering. Marketing managers, community leads, product designers, legal experts, operations specialists, and business development professionals are all in high demand. Existing skills transfer effectively—you need to understand how wallets function, what DAOs entail, and the significance of decentralization. Hiring managers often prioritize domain knowledge combined with curiosity about Web3 over pure blockchain expertise.
+A: No, Web3 requires diverse roles beyond engineering. Marketing managers, community leads, product designers, legal experts, operations specialists, and business development professionals are all in high demand. Existing skills transfer effectively, you need to understand how wallets function, what DAOs entail, and the significance of decentralization. Hiring managers often prioritize domain knowledge combined with curiosity about Web3 over pure blockchain expertise.
 
 **Q: What can I expect to earn in Web3?**  
 A: Compensation in Web3 consistently exceeds Web2 levels. Base salaries typically run higher on average, with Solidity engineers and smart contract auditors commanding the highest premiums due to talent scarcity. In addition to salaries, total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols often earn substantial total compensation, while even non-technical roles enjoy meaningful pay increases compared to Web2 counterparts.

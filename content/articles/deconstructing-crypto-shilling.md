@@ -56,7 +56,7 @@ Recognizing the difference between genuine support and malicious shilling requir
 
 ### The Reality of Shilling
 
-Shilling represents a significant challenge within the crypto environment. It thrives on the hope and excitement that define this sector. By learning to recognize the warning signs—urgency, price fixation, and a lack of substance—you can develop a critical perspective to differentiate between genuine innovation and malicious hype.
+Shilling represents a significant challenge within the crypto environment. It thrives on the hope and excitement that define this sector. By learning to recognize the warning signs, urgency, price fixation, and a lack of substance, you can develop a critical perspective to differentiate between genuine innovation and malicious hype.
 
 Successful investors and participants in the [Web3](/what-is-web3) sphere do not chase the latest "100x gem." Instead, they adopt a disciplined, research-focused approach. Always prioritize thorough research, challenge assumptions, and resist the influence of FOMO in financial decisions.
 
@@ -167,7 +167,7 @@ A: Compensation in Web3 typically exceeds Web2 equivalents. Average base salarie
 A: Every career transition involves risk, and Web3 is no exception given market volatility and project lifecycles. To manage this risk, target well-funded, established protocols with proven revenue rather than speculative early-stage projects. Verify teams have established track records and ensure your base salary is in fiat currency instead of entirely in tokens. Professionals who approach Web3 as a serious career move rather than a quick profit opportunity consistently build sustainable roles.
 
 **Q: How long does the transition take?**  
-A: Most professionals can achieve a meaningful transition to Web3 within 2 to 6 months of focused effort. Engineers and product managers often transition the fastest due to the direct applicability of their core skills, with the learning curve primarily requiring familiarity with tools and protocols. Non-technical roles in marketing and community management can transition in as little as 4 to 8 weeks with concentrated self-study. Engaging actively—by building portfolio projects or contributing to open-source protocols—accelerates this process significantly.
+A: Most professionals can achieve a meaningful transition to Web3 within 2 to 6 months of focused effort. Engineers and product managers often transition the fastest due to the direct applicability of their core skills, with the learning curve primarily requiring familiarity with tools and protocols. Non-technical roles in marketing and community management can transition in as little as 4 to 8 weeks with concentrated self-study. Engaging actively, by building portfolio projects or contributing to open-source protocols, accelerates this process significantly.
 
 **Q: What happens if the crypto market crashes?**  
 A: Historically, bear markets provide excellent opportunities to enter the Web3 industry. During downturns, teams refocus on building real products, prioritizing talent over token prices. Infrastructure companies, security firms, and developer tooling providers continue to hire regardless of market conditions. Engineers who built during previous bear markets are among the most sought-after professionals today. Market downturns diminish job competition and often lead to better equity terms for new hires.

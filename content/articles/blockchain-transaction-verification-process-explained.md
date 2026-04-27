@@ -52,7 +52,7 @@ With the new block incorporated, miners and validators immediately begin work on
 
 The term "confirmed" signifies that your transaction is now officially part of the blockchain. However, it is not yet considered completely secure.
 
-As new blocks are added on top of the block containing your transaction, the difficulty of altering it increases. Each new block adds a "confirmation." After receiving a predetermined number of confirmations—typically six blocks for Bitcoin—the transaction is deemed irreversible or "final." The process concludes here.
+As new blocks are added on top of the block containing your transaction, the difficulty of altering it increases. Each new block adds a "confirmation." After receiving a predetermined number of confirmations, typically six blocks for Bitcoin, the transaction is deemed irreversible or "final." The process concludes here.
 
 This entire decentralized process relies on cryptography and economic incentives, allowing a global network of participants to agree on a shared record without needing trust in one another or a central authority. This verification approach empowers blockchain technology significantly.
 

@@ -27,7 +27,7 @@ Preparation begins long before the event.
 - **Finding a Team:** Use the hackathon's official Discord server to connect with others. Look for team members a week or two before the event.
 
 **2. Study the Sponsors and Bounties:**
-- Each hackathon features sponsors, often comprising Layer 1s, Layer 2s, or [DeFi](/what-is-defi) protocols. They provide bounties—prizes for projects that effectively utilize their technology.
+- Each hackathon features sponsors, often comprising Layer 1s, Layer 2s, or [DeFi](/what-is-defi) protocols. They provide bounties, prizes for projects that effectively utilize their technology.
 - **Strategy:** Visit the hackathon website to review sponsors and their respective bounties. Tailor your project idea to address one or more sponsor challenges.
 
 **3. Set Up Your Development Environment:**

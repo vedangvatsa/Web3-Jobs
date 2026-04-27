@@ -11,7 +11,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-What truly motivates individuals at work extends beyond traditional rewards. The common belief that financial incentives—such as bonuses and raises—are sufficient to drive performance has proven limited. While this "carrots and sticks" model can work for simple tasks, it often fails in creative and complex environments, which define the modern workplace. Excessive emphasis on external rewards can undermine intrinsic motivation, leading to disengagement and burnout.
+What truly motivates individuals at work extends beyond traditional rewards. The common belief that financial incentives, such as bonuses and raises, are sufficient to drive performance has proven limited. While this "carrots and sticks" model can work for simple tasks, it often fails in creative and complex environments, which define the modern workplace. Excessive emphasis on external rewards can undermine intrinsic motivation, leading to disengagement and burnout.
 
 Intrinsic motivation arises from a deep-seated desire for meaningful work. It flourishes in environments that foster autonomy, mastery, and purpose. Leaders play a crucial role in cultivating these conditions to enhance employee motivation and performance.
 
@@ -38,7 +38,7 @@ Individuals naturally desire to enhance their skills and master their craft. Job
 
 | Strategy                        | Implementation Example                                                                                                                                  |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Assign "Goldilocks" Tasks      | Assign tasks that are appropriately challenging—neither too hard nor too easy. This balance encourages skill development without overwhelming individuals. |
+| Assign "Goldilocks" Tasks      | Assign tasks that are appropriately challenging, neither too hard nor too easy. This balance encourages skill development without overwhelming individuals. |
 | Learning and Development Budget  | Allocate an annual budget for each employee to spend on books, courses, or conferences, showcasing your commitment to their growth.                     |
 | Mentorship Opportunities         | Establish mentorship programs pairing junior employees with experienced mentors to facilitate learning and development through shared experiences.       |
 | Celebrate Skill Growth          | Acknowledge skill development alongside project completion. <br>*Instead of:* "Great job finishing the project." <br>*Try:* "Your refactoring of that code was impressive." |

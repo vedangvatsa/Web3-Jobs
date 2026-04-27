@@ -123,7 +123,7 @@ A: Web3 organizations differ from traditional companies in ways that enhance the
 A: Yes. This approach is advisable for most professionals. You do not need extra hours; you need to be intentional within your existing schedule. Identify two or three practices that align with your daily work and apply them consistently. Small, deliberate changes compound effectively, leading to substantial improvements over time. Many people successfully develop new professional habits without changing their overall work hours.
 
 **Q: What resources can help me go deeper?**  
-A: The related articles section below details specific topics extensively. In addition to written resources, the most impactful move is finding a mentor or peer group excelling in this area. Observing their practices reveals insights that articles cannot convey. Engaging in Web3-specific communities on platforms like Discord and Telegram can connect you with practitioners willing to share their experiences. Establishing structured accountability—committing to a timeline with someone who will check in—also accelerates progress significantly.
+A: The related articles section below details specific topics extensively. In addition to written resources, the most impactful move is finding a mentor or peer group excelling in this area. Observing their practices reveals insights that articles cannot convey. Engaging in Web3-specific communities on platforms like Discord and Telegram can connect you with practitioners willing to share their experiences. Establishing structured accountability, committing to a timeline with someone who will check in, also accelerates progress significantly.
 
 ### Conclusion
 

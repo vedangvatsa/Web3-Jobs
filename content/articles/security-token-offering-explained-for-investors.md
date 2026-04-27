@@ -126,7 +126,7 @@ Maya transitioned from a Web2 role to a Web3 position. By embracing the principl
 ## FAQ
 
 **Q: How long will it take to see results from implementing these strategies?**  
-A: Most individuals notice initial outcomes within a few weeks of consistent application. Significant improvements typically become apparent within a couple of months. Your progress will depend on your starting point, daily practice commitment, and openness to feedback. Professionals who actively track their progress—through metrics, peer evaluations, or journaling—often achieve faster results than those who passively observe.
+A: Most individuals notice initial outcomes within a few weeks of consistent application. Significant improvements typically become apparent within a couple of months. Your progress will depend on your starting point, daily practice commitment, and openness to feedback. Professionals who actively track their progress, through metrics, peer evaluations, or journaling, often achieve faster results than those who passively observe.
 
 **Q: What if my workplace does not support these initiatives?**  
 A: Even in challenging environments, you usually possess more agency than it appears. Start with small, self-directed actions that do not require broad organizational approval. Focus on personal projects or conversations with like-minded colleagues. Gradually build momentum and document your achievements. If, after sustained efforts, the environment continues to hinder your development, it may be time to consider seeking opportunities elsewhere.

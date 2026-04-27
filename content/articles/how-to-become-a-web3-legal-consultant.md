@@ -40,7 +40,7 @@ Web3 lawyers address unique legal challenges that often lack established precede
 
 ### Transitioning to Web3: A Strategic Roadmap for Lawyers
 
-For lawyers from traditional backgrounds—such as corporate law, finance, or IP—pivoting to Web3 involves several critical steps.
+For lawyers from traditional backgrounds, such as corporate law, finance, or IP, pivoting to Web3 involves several critical steps.
 
 **1. Immerse Yourself in Web3:**
 - **Actionable Step:** Become an active participant in the Web3 ecosystem. Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet), engage with a DeFi protocol, vote in a DAO, and purchase an NFT. Document your experiences to better understand user perspectives.

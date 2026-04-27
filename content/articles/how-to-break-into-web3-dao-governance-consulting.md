@@ -74,7 +74,7 @@ Prominent examples illustrate this point. Aave's governance system, which includ
 
 - **Communication:** Clearly convey complex governance concepts to both technical and non-technical audiences. Writing clear proposal summaries and facilitating productive discussions is key to building consensus.
 
-- **Comparative Thinking:** Recognize how various governance systems function—traditional corporate boards, political democracies, and cooperatives—and apply those lessons to DAOs.
+- **Comparative Thinking:** Recognize how various governance systems function, traditional corporate boards, political democracies, and cooperatives, and apply those lessons to DAOs.
 
 ### Common Pitfalls to Avoid
 
@@ -101,7 +101,7 @@ The market currently lacks experienced governance consultants, particularly thos
 
 ## Conclusion
 
-A career in DAO governance consulting invites individuals passionate about designing new models for human coordination at scale. You will shape the political frameworks of the emerging internet. As this field is still developing, early practitioners can quickly establish authority. The combination of skills required—political science, game theory, and organizational design—limits competition.
+A career in DAO governance consulting invites individuals passionate about designing new models for human coordination at scale. You will shape the political frameworks of the emerging internet. As this field is still developing, early practitioners can quickly establish authority. The combination of skills required, political science, game theory, and organizational design, limits competition.
 
 If you are interested in fostering decision-making among large groups or preventing the domination of wealthy minorities, governance consulting offers a path forward. Engage deeply with several DAOs, share your insights publicly, and cultivate a reputation for sound decision-making. The protocols will seek you out, recognizing the value you bring to their governance structures. 
 

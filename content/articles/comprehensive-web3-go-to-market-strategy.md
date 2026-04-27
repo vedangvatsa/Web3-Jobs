@@ -51,7 +51,7 @@ Token distribution is a vital GTM decision. It indicates who the project serves 
 
 - **The [Airdrop](/understanding-airdrop-campaigns-in-web3):** Airdropping tokens to early users or those engaged with related protocols effectively builds a community of owners. A well-designed airdrop targets users likely to be active participants, not mere speculators.
 - **Vesting Schedules:** Tokens allocated to the core team and investors must have a long vesting schedule, such as a four-year vest with a one-year cliff. This demonstrates a commitment to the project's long-term success and prevents insiders from dumping tokens on the community.
-- **Community Treasury:** Allocate a significant portion of the token supply—typically 50% or more—to a community-governed treasury. This treasury funds future development and ecosystem initiatives.
+- **Community Treasury:** Allocate a significant portion of the token supply, typically 50% or more, to a community-governed treasury. This treasury funds future development and ecosystem initiatives.
 
 ### 2. The Minting Mechanic (for NFTs)
 
@@ -215,7 +215,7 @@ A: Historically, bear markets represent the best time to enter the Web3 job mark
 
 - Web3 presents significant compensation advantages, offering pay that is higher than comparable Web2 roles, alongside accelerated career growth and opportunities to impact technology that reshapes finance, governance, and digital ownership globally.
 - Most professionals transition to Web3 within a few months of focused effort, with engineers and product managers typically progressing the fastest due to the direct relevance of their existing skills.
-- Existing domain expertise holds considerable value in Web3. Instead of starting from scratch, concentrate on integrating blockchain-specific context—such as wallets, smart contracts, tokenomics, and DAOs—into your current skill set.
+- Existing domain expertise holds considerable value in Web3. Instead of starting from scratch, concentrate on integrating blockchain-specific context, such as wallets, smart contracts, tokenomics, and DAOs, into your current skill set.
 - Networking through Discord communities and Twitter engagement, combined with visible portfolio projects on GitHub, consistently yields better results than formal certifications when pursuing Web3 roles.
 - Target well-funded, established protocols with proven revenue to mitigate the volatility risks associated with the sector. Negotiate base salaries in fiat currency for added security.
 - The Web3 community remains welcoming and supportive, offering mentorship programs, free educational resources, and active developer communities across all major protocols.

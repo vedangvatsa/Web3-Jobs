@@ -49,7 +49,7 @@ When creating an account on these platforms and purchasing cryptocurrency, you d
 
 A non-custodial wallet, also known as a self-custodial wallet, grants you complete control over your private keys. This model aligns with the Web3 principle of self-sovereignty.
 
-Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-seed-phrase-and-why-it-matters)**—a list of 12 or 24 random words. This seed phrase serves as the master key, generating all private keys associated with your wallet.
+Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-seed-phrase-and-why-it-matters)**, a list of 12 or 24 random words. This seed phrase serves as the master key, generating all private keys associated with your wallet.
 
 ### Pros of Non-Custodial Wallets
 

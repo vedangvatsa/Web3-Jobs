@@ -49,7 +49,7 @@ While transferable skills will help you, gaining industry-specific knowledge is 
 Building a network is essential when transitioning to a new industry. Relationships can lead to valuable insights and job opportunities.
 
 * **Conduct Informational Interviews:** Reach out to professionals in your desired industry via LinkedIn. Request short, 15-minute conversations to learn about their experiences and gather advice.
-* **Attend Industry Events:** Participate in meetups, webinars, and conferences—both online and in-person. These events provide opportunities to learn and connect with industry insiders.
+* **Attend Industry Events:** Participate in meetups, webinars, and conferences, both online and in-person. These events provide opportunities to learn and connect with industry insiders.
 * **Identify a Mentor:** A mentor who has successfully transitioned to your target industry can provide invaluable guidance and support throughout your journey.
 
 ### 5. Craft a Compelling Career Change Narrative

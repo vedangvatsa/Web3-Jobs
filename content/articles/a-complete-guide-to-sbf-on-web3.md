@@ -69,7 +69,7 @@ The rise and fall of Sam Bankman-Fried offers critical, if painful, lessons for 
 
 ## Conclusion
 
-Sam Bankman-Fried's story is a defining chapter in the history of Web3. It is a tale of incredible ambition, innovation, and hubris. While his vision for a more efficient and open financial system was compelling, the alleged fraud and catastrophic risk management that occurred behind the scenes led to one of the most devastating collapses the industry has ever seen. The lessons from FTX's failure—the importance of self-custody, transparency, and decentralization—are more relevant than ever as the industry seeks to rebuild trust and create a more resilient future.
+Sam Bankman-Fried's story is a defining chapter in the history of Web3. It is a tale of incredible ambition, innovation, and hubris. While his vision for a more efficient and open financial system was compelling, the alleged fraud and catastrophic risk management that occurred behind the scenes led to one of the most devastating collapses the industry has ever seen. The lessons from FTX's failure, the importance of self-custody, transparency, and decentralization, are more relevant than ever as the industry seeks to rebuild trust and create a more resilient future.
 
 ### Frequently Asked Questions (FAQ)
 

@@ -45,11 +45,11 @@ Horizon Worlds serves as Meta's primary social VR application. It allows users t
 
 - **A "Walled Garden"**: Horizon Worlds exemplifies a "walled garden." This proprietary platform is entirely under Meta's control. Assets created within the environment lack interoperability with other platforms, and Meta oversees content moderation and monetization.
 
-- **High Take Rates**: Meta's monetization strategy for Horizon Worlds has drawn significant criticism. The company announced it would take a substantial percentage from sales of digital assets—a rate that surpasses Apple's controversial App Store fee. This contrasts sharply with the low single-digit royalty fees typically found in open [NFT](/what-are-nfts) marketplaces.
+- **High Take Rates**: Meta's monetization strategy for Horizon Worlds has drawn significant criticism. The company announced it would take a substantial percentage from sales of digital assets, a rate that surpasses Apple's controversial App Store fee. This contrasts sharply with the low single-digit royalty fees typically found in open [NFT](/what-are-nfts) marketplaces.
 
 ### 3. A Focus on Avatars and Social Presence
 
-Zuckerberg emphasizes the concept of "social presence"—the sensation of truly being with others in a virtual space. Significant investments have gone into developing realistic avatars and crafting engaging virtual environments for work and leisure. An initial demonstration of a leg-equipped avatar in Horizon Worlds, though ultimately revealed to be motion-captured, illustrates Meta's commitment to delivering a polished user experience, despite current technological limitations.
+Zuckerberg emphasizes the concept of "social presence", the sensation of truly being with others in a virtual space. Significant investments have gone into developing realistic avatars and crafting engaging virtual environments for work and leisure. An initial demonstration of a leg-equipped avatar in Horizon Worlds, though ultimately revealed to be motion-captured, illustrates Meta's commitment to delivering a polished user experience, despite current technological limitations.
 
 ## The Clash with Web3 Ethos
 

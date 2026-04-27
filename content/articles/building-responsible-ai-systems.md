@@ -80,7 +80,7 @@ A DAO could oversee an AI system, allowing token holders to vote on parameters s
 Web3 identity solutions facilitate user control over identity data. Users can manage their identity without relying on centralized verification services, enhancing privacy and ownership.
 
 ### Verifiable AI Properties  
-Zero-knowledge proofs could demonstrate that an AI system adheres to specific standards—such as impartiality or privacy compliance—without disclosing the underlying system.
+Zero-knowledge proofs could demonstrate that an AI system adheres to specific standards, such as impartiality or privacy compliance, without disclosing the underlying system.
 
 ## Challenges with This Approach
 
@@ -152,11 +152,11 @@ Roles in managing decentralized AI governance DAOs are also emerging, requiring 
 
 Current centralized AI systems face significant accountability issues. Corporations often make AI governance decisions without transparency, leaving users with minimal visibility or control.
 
-Web3 principles—transparency, decentralization, and community governance—provide a robust framework for developing responsible AI systems. While integrating Web3 with AI presents complexities and tradeoffs, it also offers substantial improvements.
+Web3 principles, transparency, decentralization, and community governance, provide a robust framework for developing responsible AI systems. While integrating Web3 with AI presents complexities and tradeoffs, it also offers substantial improvements.
 
 In practice, the future will likely consist of hybrid systems. Some AI systems will operate in decentralized, transparent manners, while others may remain centralized yet adopt enhanced transparency and oversight measures. The appropriate approach will depend on the specific context and application.
 
-For professionals engaged in AI or Web3, prioritizing responsibility and focusing on systems that serve users—rather than merely maximizing metrics—remains essential. Web3 tools present viable options for those committed to building with responsibility in mind.
+For professionals engaged in AI or Web3, prioritizing responsibility and focusing on systems that serve users, rather than merely maximizing metrics, remains essential. Web3 tools present viable options for those committed to building with responsibility in mind.
 
 ## The Web3 Opportunity
 

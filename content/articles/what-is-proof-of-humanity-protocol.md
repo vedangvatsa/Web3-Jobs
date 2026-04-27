@@ -44,7 +44,7 @@ Several challenges and criticisms surrounding Proof of Humanity exist, including
 - **Accessibility Issues**: The registration process can be complex, and the ETH deposit requirement may present a barrier for some individuals.
 - **Subjectivity in Vouching**: The social vouching and challenge processes can be subjective, leading to potential disputes.
 
-Proof of Humanity represents an ambitious experiment in decentralized identity. It seeks to tackle one of the most formidable challenges in the space—sybil resistance—by creating a system that incorporates elements of a social network, a decentralized court, and an economic model. Despite its challenges, PoH offers a vision for a future where digital identities are verifiably human and self-sovereign.
+Proof of Humanity represents an ambitious experiment in decentralized identity. It seeks to tackle one of the most formidable challenges in the space, sybil resistance, by creating a system that incorporates elements of a social network, a decentralized court, and an economic model. Despite its challenges, PoH offers a vision for a future where digital identities are verifiably human and self-sovereign.
 
 ### Why This Matters
 
@@ -91,7 +91,7 @@ Monitor your progress consistently. Are you observing positive results? Be prepa
 ### FAQ
 
 **Q: How long will it take to implement Proof of Humanity?**  
-A: Most individuals see initial results within a few weeks of consistent application, with significant improvements typically observable within a couple of months. The timeline varies based on individual starting points, daily practice commitment, and active feedback-seeking. Professionals who track their progress—through metrics, peer feedback, or journaling—often achieve results more quickly than those who rely on passive observation.
+A: Most individuals see initial results within a few weeks of consistent application, with significant improvements typically observable within a couple of months. The timeline varies based on individual starting points, daily practice commitment, and active feedback-seeking. Professionals who track their progress, through metrics, peer feedback, or journaling, often achieve results more quickly than those who rely on passive observation.
 
 **Q: What if my workplace environment does not support these initiatives?**  
 A: You can still find ways to implement changes. Start with small, self-contained actions that do not require organizational approval, such as personal projects or informal discussions with supportive colleagues. Document your progress and results to build momentum. If, after sustained effort, the environment remains unsupportive, consider seeking opportunities in organizations that prioritize employee development.

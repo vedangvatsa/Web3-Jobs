@@ -22,7 +22,7 @@ Continuing with the city analogy:
 
 - **Layer 1 (Ethereum):** Represents the foundational infrastructure, providing security but lacking the speed and cost-efficiency needed for rapid applications.
 - **Layer 2 (Arbitrum, Optimism):** Functions as a tall skyscraper, accommodating numerous applications (dApps) that manage transactions internally. This skyscraper periodically sends a summary of its activities to the L1 foundation for security, enhancing efficiency.
-- **Layer 3 (Appchain):** Acts as a customized penthouse or dedicated floor on the L2 skyscraper, allowing single large applications—such as games or trading platforms—to design their environment. They can customize layouts and security features, managing their transactions internally before providing a summary to the L2.
+- **Layer 3 (Appchain):** Acts as a customized penthouse or dedicated floor on the L2 skyscraper, allowing single large applications, such as games or trading platforms, to design their environment. They can customize layouts and security features, managing their transactions internally before providing a summary to the L2.
 
 Technically, an L3 processes its transactions and submits a compressed proof to the underlying L2. The L2 then aggregates this proof and submits it to the L1. This creates a nested hierarchy that enhances scalability and security, limiting the L1’s concerns to the L2's proof rather than every L3's individual proof.
 

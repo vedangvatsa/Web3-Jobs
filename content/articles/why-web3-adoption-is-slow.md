@@ -20,7 +20,7 @@ User experience serves as the primary barrier to Web3 adoption. Interacting with
 
 **Wallet management** poses confusion for non-technical users. Cryptocurrencies require a digital wallet to store assets and engage with [blockchain](/what-is-a-blockchain) applications. Managing a wallet necessitates understanding private keys, seed phrases, and backup processes. A lost private key results in the permanent loss of funds, unlike traditional services that offer password recovery options.
 
-**Transaction complexity** can intimidate newcomers. Sending Bitcoin requires knowledge of the recipient's address format, network fees, and confirmation times. Engaging with a [DEX](/what-is-a-decentralized-exchange-dex) demands a grasp of gas fees, slippage, and liquidity—technical concepts that often confuse average users.
+**Transaction complexity** can intimidate newcomers. Sending Bitcoin requires knowledge of the recipient's address format, network fees, and confirmation times. Engaging with a [DEX](/what-is-a-decentralized-exchange-dex) demands a grasp of gas fees, slippage, and liquidity, technical concepts that often confuse average users.
 
 **Mistakes carry irreversible consequences.** Sending cryptocurrency to the wrong address results in the permanent loss of funds. Approving a malicious [smart contract](/what-are-smart-contracts) can lead to stolen assets. With no customer service to reverse transactions, users must exercise extreme caution, creating additional friction.
 
@@ -64,7 +64,7 @@ Such incidents have fostered skepticism. When people hear the term "decentralize
 
 **Technology verification** poses difficulties. Most individuals lack the expertise to audit smart contracts. Users often cannot verify whether a blockchain application is genuinely decentralized or secure, creating trust requirements despite the branding.
 
-**Vendor lock-in** is another issue. Using most Web3 applications necessitates trusting the wallet provider, exchange, or application developer. True decentralization—where users rely solely on the code—is rare. Consequently, users often find themselves trusting various intermediaries.
+**Vendor lock-in** is another issue. Using most Web3 applications necessitates trusting the wallet provider, exchange, or application developer. True decentralization, where users rely solely on the code, is rare. Consequently, users often find themselves trusting various intermediaries.
 
 ## Lack of Real-World Use Cases
 
@@ -96,7 +96,7 @@ Web3 projects often create economic incentives that do not align with user benef
 
 Understanding blockchain and cryptocurrency remains a challenge for many, leading to slow adoption rates.
 
-The **steep learning curve** presents difficulties. Grasping blockchain technology requires knowledge of cryptography, distributed systems, economics, and finance—fields in which most individuals lack expertise.
+The **steep learning curve** presents difficulties. Grasping blockchain technology requires knowledge of cryptography, distributed systems, economics, and finance, fields in which most individuals lack expertise.
 
 **Misinformation** proliferates. Media coverage often sensationalizes events, while Crypto Twitter is rife with individuals promoting their own tokens. Newcomers frequently struggle to distinguish between valuable information and hype.
 

@@ -36,7 +36,7 @@ Electric Capital's Developer Report remains one of the most referenced metrics, 
 | **Full-Time Developers**    | Increased significantly                  | Developers making 10 or more commits per month. |
 | **New Developers**          | Increased during market rallies          | First-time commits to the Solana ecosystem.      |
 
-While [GitHub](/building-web3-portfolio) data has limitations—excluding private repositories and sometimes skewed by automated commits—it remains a valuable proxy for measuring developer engagement.
+While [GitHub](/building-web3-portfolio) data has limitations, excluding private repositories and sometimes skewed by automated commits, it remains a valuable proxy for measuring developer engagement.
 
 #### 2. On-Chain Program Deployments
 

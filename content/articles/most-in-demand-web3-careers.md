@@ -110,7 +110,7 @@ Technical roles in Web3 often provide higher salaries and greater demand. A [sma
 
 Nevertheless, non-technical positions are essential and expected to grow. Every product requires someone focused on user experience, and every organization needs operations and administration.
 
-For non-technical professionals, the pathway into Web3 involves selecting a relevant role—such as product management, operations, marketing, or business development—excelling in that field within traditional tech, and then transitioning to Web3 with your acquired expertise.
+For non-technical professionals, the pathway into Web3 involves selecting a relevant role, such as product management, operations, marketing, or business development, excelling in that field within traditional tech, and then transitioning to Web3 with your acquired expertise.
 
 ## The Reality of Web3 Hiring
 

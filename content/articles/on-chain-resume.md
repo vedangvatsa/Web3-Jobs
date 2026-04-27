@@ -16,7 +16,7 @@ An on-chain resume is not merely a document; it represents a public record of yo
 
 ### Understanding the On-Chain Resume
 
-Your on-chain resume tells a story through your public wallet address, ideally represented by a human-readable ENS name like `yourname.eth`(/what-is-ethereum). Using a block explorer such as Etherscan, anyone—including recruiters—can access the following information:
+Your on-chain resume tells a story through your public wallet address, ideally represented by a human-readable ENS name like `yourname.eth`(/what-is-ethereum). Using a block explorer such as Etherscan, anyone, including recruiters, can access the following information:
 
 - **Interaction History:** This reveals which protocols you have engaged with. Have you merely used Uniswap once, or are you actively involved in complex [DeFi](/what-is-defi) strategies? This indicates your practical experience level.
   

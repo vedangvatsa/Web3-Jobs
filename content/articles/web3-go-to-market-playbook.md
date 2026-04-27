@@ -148,7 +148,7 @@ Growth in Web3 often comes from integration:
 - Cross-protocol liquidity sharing
 - Building on top of existing protocols
 
-These partnerships drive adoption through composability—the ability to combine protocols together.
+These partnerships drive adoption through composability, the ability to combine protocols together.
 
 **Governance-First Growth:**
 Projects like Uniswap and Aave prove that active governance can be a GTM strategy:

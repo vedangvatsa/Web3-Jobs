@@ -12,9 +12,9 @@ lastUpdated: "2026-04-27"
 
 The evolution of artificial intelligence is driving us away from simple automation towards systems that exhibit autonomous agency. These advanced systems do not merely serve as tools; they act as independent agents capable of setting their own sub-goals, accessing capital, and executing complex tasks to achieve overarching objectives. This advancement raises a significant challenge: how do we govern systems that possess the ability to govern themselves?
 
-When an AI agent makes autonomous decisions with substantial real-world consequences—such as executing significant trades or managing critical infrastructure—determining accountability becomes complex. Questions arise regarding who is responsible: the developer who wrote the code, the user who deployed the agent, the company that owns the model, or the agent itself? This ambiguity defines the "accountability gap," a critical issue at the center of AI governance.
+When an AI agent makes autonomous decisions with substantial real-world consequences, such as executing significant trades or managing critical infrastructure, determining accountability becomes complex. Questions arise regarding who is responsible: the developer who wrote the code, the user who deployed the agent, the company that owns the model, or the agent itself? This ambiguity defines the "accountability gap," a critical issue at the center of AI governance.
 
-This guide explores the intricate world of governing agentic AI systems. We will examine the primary challenges, emerging governance models, and the potential of Web3 principles—decentralization, transparency, and cryptography—as viable solutions.
+This guide explores the intricate world of governing agentic AI systems. We will examine the primary challenges, emerging governance models, and the potential of Web3 principles, decentralization, transparency, and cryptography, as viable solutions.
 
 ### Core Challenges of AI Governance
 
@@ -69,7 +69,7 @@ Consider an AI trading agent managing a [DeFi](/what-is-defi) protocol's treasur
 
 The pace of agentic AI development is accelerating rapidly. Establishing robust governance and control systems is vital to ensuring these advancements align with human values. Relying solely on centralized corporations for oversight poses significant risks.
 
-Web3 principles—decentralization, transparency, and cryptographic verification—provide a promising toolkit for developing accountable AI systems. By implementing on-chain guardrails and subjecting autonomous agents to public scrutiny, we can create a future where these influential systems align with societal values and support the public good. The convergence of AI and Web3 is not merely a technological trend; it may be essential for fostering a safe and beneficial future in artificial intelligence.
+Web3 principles, decentralization, transparency, and cryptographic verification, provide a promising toolkit for developing accountable AI systems. By implementing on-chain guardrails and subjecting autonomous agents to public scrutiny, we can create a future where these influential systems align with societal values and support the public good. The convergence of AI and Web3 is not merely a technological trend; it may be essential for fostering a safe and beneficial future in artificial intelligence.
 
 ### Why This Matters
 

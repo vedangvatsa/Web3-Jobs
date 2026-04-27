@@ -24,7 +24,7 @@ Understanding the key principles that underpin blockchain technology reveals its
 
 ### 1. Decentralization
 
-Decentralization forms the backbone of blockchain technology. In traditional centralized systems, such as bank ledgers, data resides on a single server controlled by one entity, creating vulnerabilities. A breach or failure at that server compromises the entire system. In contrast, blockchain operates as a distributed ledger, where data is replicated across a global network of computers (nodes). This structure eliminates central control, resulting in a system that is resilient against attacks or censorship. To alter the ledger, an attacker would need to compromise over half of the network's nodes simultaneously—a near-impossible task for large networks like Bitcoin or [Ethereum](/what-is-ethereum).
+Decentralization forms the backbone of blockchain technology. In traditional centralized systems, such as bank ledgers, data resides on a single server controlled by one entity, creating vulnerabilities. A breach or failure at that server compromises the entire system. In contrast, blockchain operates as a distributed ledger, where data is replicated across a global network of computers (nodes). This structure eliminates central control, resulting in a system that is resilient against attacks or censorship. To alter the ledger, an attacker would need to compromise over half of the network's nodes simultaneously, a near-impossible task for large networks like Bitcoin or [Ethereum](/what-is-ethereum).
 
 ### 2. Immutability
 
@@ -44,7 +44,7 @@ Bitcoin introduced blockchain to the world, but the technology's potential exten
 
 Smart contracts have spurred the development of entirely new sectors:
 
-- **Decentralized Finance (DeFi):** DeFi aims to reconstruct the financial system—including lending, borrowing, trading, and insurance—on open, permissionless platforms. Protocols such as Uniswap, Aave, and Compound enable users to access financial services without relying on banks.
+- **Decentralized Finance (DeFi):** DeFi aims to reconstruct the financial system, including lending, borrowing, trading, and insurance, on open, permissionless platforms. Protocols such as Uniswap, Aave, and Compound enable users to access financial services without relying on banks.
 - **Non-Fungible [Tokens](/what-is-a-token) (NFTs):** NFTs represent distinct digital assets, signifying ownership of items such as digital art, collectibles, or real-world assets. They have generated new economies for creators and redefined digital ownership.
 - **Decentralized Autonomous Organizations (DAOs):** DAOs are entities governed collectively by their members, utilizing smart contracts to enforce rules and execute decisions. They enable innovative forms of coordination and governance on a global scale.
 
@@ -54,7 +54,7 @@ The evolution continues, as transaction fees and scalability issues with Ethereu
 
 International Blockchain Day encourages a realistic outlook on the challenges ahead. Blockchain technology is still maturing, and several obstacles must be addressed to achieve widespread adoption.
 
-- **Scalability:** Major blockchains like Ethereum can process only a limited number of transactions per second, resulting in high fees during periods of congestion. While Layer 2 solutions offer some relief, the "scalability trilemma"—the challenge of balancing scalability, security, and decentralization—remains a critical area for ongoing research.
+- **Scalability:** Major blockchains like Ethereum can process only a limited number of transactions per second, resulting in high fees during periods of congestion. While Layer 2 solutions offer some relief, the "scalability trilemma", the challenge of balancing scalability, security, and decentralization, remains a critical area for ongoing research.
 - **User Experience (UX):** Engaging with decentralized applications (dApps) can be cumbersome for non-technical users. Managing private keys, understanding gas fees, and navigating complex protocols pose significant barriers to entry. Enhancing UX is essential for attracting a broader audience.
 - **Regulatory Uncertainty:** Governments worldwide are still determining how to regulate blockchain technology. The ambiguity surrounding regulations creates uncertainty for developers and investors, potentially stifling innovation.
 - **Education:** A substantial knowledge gap exists among the general public regarding blockchain technology and its implications. Comprehensive education initiatives are necessary to dispel myths and emphasize the technology's genuine potential.

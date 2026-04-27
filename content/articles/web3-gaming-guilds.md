@@ -67,11 +67,11 @@ Other significant guilds have emerged, such as **Gamer Guild**, **Fomo Guild**, 
 
 Initially focused on scholarships, gaming guilds have significantly broadened their roles. They now encompass:
 
-**Decentralized Investment Funds**: Guilds have transformed into key players in the GameFi venture capital arena. They deploy their treasuries to invest in promising new Web3 games, gaining early access to NFT assets for their members before public launches. This early access can yield substantial financial benefits—acquiring valuable Axies or land plots can lead to higher profitability.
+**Decentralized Investment Funds**: Guilds have transformed into key players in the GameFi venture capital arena. They deploy their treasuries to invest in promising new Web3 games, gaining early access to NFT assets for their members before public launches. This early access can yield substantial financial benefits, acquiring valuable Axies or land plots can lead to higher profitability.
 
 **Player Data Platforms**: Guilds are developing on-chain "resumes" for scholars, documenting gaming history and achievements. This data is valuable for assessing player skills, reliability, and earning potential. New games can utilize this information to better match players with suitable challenges and recruitment initiatives.
 
-**Community and Social Hubs**: Guilds serve as vibrant communities, fostering a sense of belonging and support among gamers. Scholars often express that the community aspect—connecting with fellow gamers for strategy sharing and encouragement—holds nearly as much value as the financial benefits.
+**Community and Social Hubs**: Guilds serve as vibrant communities, fostering a sense of belonging and support among gamers. Scholars often express that the community aspect, connecting with fellow gamers for strategy sharing and encouragement, holds nearly as much value as the financial benefits.
 
 **Research and Analytics**: Leading guilds are investing in analytics to assess game economics, sustainability, and resource allocation. Guilds like YGG produce research that shapes industry trends and provides insights into the viability of different games.
 

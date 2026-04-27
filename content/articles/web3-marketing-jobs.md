@@ -15,7 +15,7 @@ This article outlines the Web3 marketing career path. It details various roles, 
 
 ### The Web3 Marketing Funnel: A Different Approach
 
-The traditional marketing funnel—Awareness, Interest, Decision, Action—transforms in the Web3 context. The focus shifts from converting customers to nurturing a community.
+The traditional marketing funnel, Awareness, Interest, Decision, Action, transforms in the Web3 context. The focus shifts from converting customers to nurturing a community.
 
 | Stage                   | Description                                                                                       |
 |-------------------------|---------------------------------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ The marketing team within a Web3 project consists of various specialized roles.
 
 5. **Product Marketing Manager (PMM):** PMMs bridge product and engineering teams with the market. They define messaging, positioning, and go-to-market strategies for new features and products.
 
-6. **Head of Marketing / CMO:** The CMO orchestrates all marketing efforts, defining the brand narrative, managing the budget—often sourced from a [DAO](/what-is-a-dao)-governed treasury—and ensuring alignment across initiatives.
+6. **Head of Marketing / CMO:** The CMO orchestrates all marketing efforts, defining the brand narrative, managing the budget, often sourced from a [DAO](/what-is-a-dao)-governed treasury, and ensuring alignment across initiatives.
 
 ### How to Get Hired: Your Proof-of-Work Portfolio
 

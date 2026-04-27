@@ -59,7 +59,7 @@ Drawing from economist Albert Hirschman's work, Balaji highlights the significan
 Balaji identifies the [blockchain](/what-is-a-blockchain) as the "ledger of record" for the 21st century, representing a source of immutable, verifiable truth independent of any single corporation or government.
 
 - **Truth Machine:** Blockchains can cryptographically verify transactions or data recordings, establishing a shared, objective reality.
-- **From Financial to Social Data:** While initially focused on financial transactions (like Bitcoin), Balaji envisions a future where various information types—including academic credentials, property titles, and journalistic sources—are recorded on-chain, enhancing public trust and transparency.
+- **From Financial to Social Data:** While initially focused on financial transactions (like Bitcoin), Balaji envisions a future where various information types, including academic credentials, property titles, and journalistic sources, are recorded on-chain, enhancing public trust and transparency.
 
 ### 4. Transhumanism and Radical Life Extension
 
@@ -92,4 +92,4 @@ No. Although he respects Bitcoin as the most decentralized cryptocurrency, his v
 In March 2023, Balaji publicly wagered that Bitcoin would reach a significant value within 90 days, signaling his belief that the U.S. faced imminent hyperinflation. He later closed the bet early, donating funds to involved parties and charity, but the bet significantly highlighted his views on the fragility of traditional financial systems.
 
 **Is "The Network State" a realistic idea?**  
-While ambitious, the concept encounters substantial legal, political, and logistical hurdles. Balaji maintains it serves as a long-term vision, asserting that the initial stages—building online communities with robust digital economies—are already underway. This vision provides a "north star" for the Web3 movement.
+While ambitious, the concept encounters substantial legal, political, and logistical hurdles. Balaji maintains it serves as a long-term vision, asserting that the initial stages, building online communities with robust digital economies, are already underway. This vision provides a "north star" for the Web3 movement.

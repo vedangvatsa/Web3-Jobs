@@ -49,7 +49,7 @@ As the regulatory landscape improves, the EU's MiCA framework is establishing a 
 
 The appeal of stablecoins stems from their utility. A freelancer in Nigeria can receive stablecoins for design work, allowing them to hold dollars without needing a US bank account. A manufacturer in Vietnam can pay a supplier in Shenzhen within minutes, bypassing lengthy processes.
 
-**Career signal:** Fintech companies focused on building stablecoin infrastructure—like on/off ramps and compliance tools—are among the most active recruiters in Web3 today.
+**Career signal:** Fintech companies focused on building stablecoin infrastructure, like on/off ramps and compliance tools, are among the most active recruiters in Web3 today.
 
 ## 5. Rollups Consolidate Around Shared Sequencing
 

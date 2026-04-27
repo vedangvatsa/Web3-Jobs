@@ -26,7 +26,7 @@ The primary distinction between wallets lies in who possesses the "private keys.
   - **Pros:** You maintain full control and self-sovereignty over your funds. No third party can freeze your assets or censor transactions, placing you in the role of your own bank.
   - **Cons:** You bear significant personal responsibility. **If you lose your seed phrase, your funds are unrecoverable.** There is no support system available.
 
-For those wishing to engage deeply in Web3—whether through [DeFi](/what-is-defi), collecting [NFTs](/what-are-nfts), or participating in [DAOs](/what-is-a-dao)—a non-custodial wallet is essential.
+For those wishing to engage deeply in Web3, whether through [DeFi](/what-is-defi), collecting [NFTs](/what-are-nfts), or participating in [DAOs](/what-is-a-dao), a non-custodial wallet is essential.
 
 ### Hot Wallets vs. Cold Wallets: The Internet Connection
 

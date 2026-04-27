@@ -31,7 +31,7 @@ This shift instills a sense of alignment and responsibility. As an owner, you co
 
 2. **Transparency as a Standard:** On-chain data ensures transparency. Information such as protocol revenue and governance decisions is often publicly accessible, establishing a culture of accountability uncommon in traditional corporate environments.
 
-3. **Community at the Core:** In Web3, the community serves as a vital component of the organization rather than a target market. Roles like "Community Manager" are strategic positions responsible for nurturing the project's most critical asset—its community.
+3. **Community at the Core:** In Web3, the community serves as a vital component of the organization rather than a target market. Roles like "Community Manager" are strategic positions responsible for nurturing the project's most critical asset, its community.
 
 4. **"Proof of Work" Over Credentials:** The Web3 ecosystem prioritizes demonstrated abilities over traditional resumes. Your contributions on platforms like GitHub, Dune dashboards, or governance forums often matter more than your CV. Initiative and passion are highly regarded.
 

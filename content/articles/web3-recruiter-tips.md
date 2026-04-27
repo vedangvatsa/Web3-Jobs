@@ -41,7 +41,7 @@ For technical positions, recruiters look for a blend of strong foundational skil
 
 ### Qualities Sought in Non-Technical Candidates
 
-For roles in marketing, product management, or community engagement, we seek "T-shaped" individuals—those with deep expertise in one area and a broad understanding of the Web3 ecosystem.
+For roles in marketing, product management, or community engagement, we seek "T-shaped" individuals, those with deep expertise in one area and a broad understanding of the Web3 ecosystem.
 
 - **User experience is essential:** If you are applying for a product manager position at a [DeFi](/what-is-defi) protocol, firsthand experience using DeFi systems is critical. Your insights should come from personal interaction with the product.
 - **Public demonstration of expertise:** A successful marketer should actively analyze other projects on Twitter. A product manager might maintain a blog critiquing the user experience of various dApps. We need to see your thought process publicly expressed.
@@ -134,7 +134,7 @@ Marcus made a bold move, leaving his corporate job to focus exclusively on Web3 
 ### FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**  
-A: No. The Web3 sector requires more than just engineers. Positions exist for marketing managers, community leads, product designers, legal advisors, operations specialists, and business development professionals. Your existing skills transfer well; you simply need to acquire the Web3 context—understanding wallets, DAOs, and the importance of decentralization. Most hiring managers prioritize domain expertise paired with genuine curiosity about the field over pure blockchain knowledge.
+A: No. The Web3 sector requires more than just engineers. Positions exist for marketing managers, community leads, product designers, legal advisors, operations specialists, and business development professionals. Your existing skills transfer well; you simply need to acquire the Web3 context, understanding wallets, DAOs, and the importance of decentralization. Most hiring managers prioritize domain expertise paired with genuine curiosity about the field over pure blockchain knowledge.
 
 **Q: How much can I expect to earn in Web3?**  
 A: Compensation in Web3 consistently surpasses Web2 levels. Base salaries are typically higher, with Solidity engineers and smart contract auditors commanding the most significant premiums due to scarcity of talent. In addition to base pay, total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations capable of substantial appreciation. Senior engineers at well-funded protocols can earn total compensation that reflects the competitive nature of the market. Non-technical roles also see notable salary increases compared to equivalents in Web2.

@@ -57,7 +57,7 @@ The way you discuss your career gap often holds more weight than the gap itself.
 
 ### Understanding the Importance of Career Gaps
 
-Career gaps can be integral to your professional narrative. By effectively framing your experiences, you can showcase resilience, initiative, and a dedication to growth—all qualities that employers value.
+Career gaps can be integral to your professional narrative. By effectively framing your experiences, you can showcase resilience, initiative, and a dedication to growth, all qualities that employers value.
 
 ### Frequently Asked Questions (FAQs)
 

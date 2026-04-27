@@ -34,7 +34,7 @@ Every transaction on a [smart contract](/what-are-smart-contracts) platform like
 Web3 aims to transition from a "renter's internet" to an "owner's internet." Cryptocurrency serves as the native asset class for this new economic model.
 
 - **Fungible [Tokens](/what-is-a-token) (e.g., ERC-20 tokens):** These tokens function as currencies and governance tokens within the Web3 ecosystem. They enable users to not only use a protocol but also to own a share and influence its future directions.
-- **Non-Fungible Tokens (NFTs):** **[NFTs](/what-are-nfts)** leverage blockchain technology to establish unique, verifiable digital assets. This innovation enables true ownership of digital items—art, music, in-game items—and represents an ownership model that was previously unattainable.
+- **Non-Fungible Tokens (NFTs):** **[NFTs](/what-are-nfts)** leverage blockchain technology to establish unique, verifiable digital assets. This innovation enables true ownership of digital items, art, music, in-game items, and represents an ownership model that was previously unattainable.
 
 Without crypto tokens, the concept of a user-owned internet loses its relevance. Cryptocurrency embodies the tangible representation of digital ownership.
 
@@ -155,7 +155,7 @@ Web3 compensation consistently exceeds that of Web2 positions. Base salaries typ
 Every career transition carries risk, and Web3 is no exception, given market volatility and project lifecycles. To mitigate this risk, target well-funded, established protocols with proven revenue rather than speculative early-stage projects. Verify the team's track record and ensure your base salary is paid in fiat currency rather than entirely in tokens. Professionals who approach Web3 as a career move rather than a quick profit opportunity often establish sustainable roles that endure market fluctuations.
 
 **How long does the transition take?**
-Most professionals complete a meaningful transition to Web3 within a few months of focused effort. Engineers and product managers typically move the quickest due to their directly transferable skills, while non-technical roles like marketing and community management can transition in a relatively short timeframe with targeted self-study. Active engagement—such as building a portfolio project or contributing to an open-source protocol—significantly accelerates the process.
+Most professionals complete a meaningful transition to Web3 within a few months of focused effort. Engineers and product managers typically move the quickest due to their directly transferable skills, while non-technical roles like marketing and community management can transition in a relatively short timeframe with targeted self-study. Active engagement, such as building a portfolio project or contributing to an open-source protocol, significantly accelerates the process.
 
 **What if the crypto market crashes?**
 Bear markets often present the best opportunities to enter Web3 professionally. As speculative hype diminishes, teams refocus on building real products, prioritizing talent over token price. Infrastructure firms, security companies, and developer tooling providers maintain steady hiring regardless of market conditions. Those who developed skills during past bear markets are among the most sought-after professionals today. A market downturn reduces competition for roles and may yield better equity terms for new hires.

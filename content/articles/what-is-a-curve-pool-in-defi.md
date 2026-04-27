@@ -43,7 +43,7 @@ Curve was specifically designed to address the inefficiencies present in traditi
 1.  **Constant Sum Formula (`x + y = k`)**: This linear model allows for trading with zero slippage. However, it is unsustainable because a pool utilizing this formula would rapidly deplete one asset if the price deviates from the peg.
 2.  **Constant Product Formula (`x * y = k`)**: This standard AMM curve provides liquidity across all prices but lacks capital efficiency.
 
-The StableSwap invariant integrates these two models. When the pool remains balanced—meaning the prices are close to the peg—it behaves like a constant sum formula, allowing for an almost flat curve and minimal slippage. If the pool becomes unbalanced, the curve gradually transitions to resemble a constant product formula, ensuring that liquidity remains available even if one asset diverges significantly from its pegged price.
+The StableSwap invariant integrates these two models. When the pool remains balanced, meaning the prices are close to the peg, it behaves like a constant sum formula, allowing for an almost flat curve and minimal slippage. If the pool becomes unbalanced, the curve gradually transitions to resemble a constant product formula, ensuring that liquidity remains available even if one asset diverges significantly from its pegged price.
 
 This design concentrates the majority of the pool's liquidity within a narrow range around the peg price (for instance, $0.99 to $1.01).
 
