@@ -52,7 +52,7 @@ Effective communication on camera requires practice and awareness.
 
 * **Have Your Materials Ready:** Keep a copy of your [resume](/how-to-build-a-web3-resume-that-stands-out), the job description, and your prepared questions within easy reach.
 * **Be an Active Listener:** Engaging in a virtual interview can be challenging due to the lack of physical cues. Show you're involved by nodding and using verbal affirmations such as "I see" or "That makes sense."
-* **Handle Interruptions Gracefully:** If an interruption occurs—like a barking dog or a family member walking in—remain calm. Briefly apologize and quickly refocus on the interview. Interviewers generally understand that such occurrences are common when working from home.
+* **Handle Interruptions Gracefully:** If an interruption occurs, like a barking dog or a family member walking in, remain calm. Briefly apologize and quickly refocus on the interview. Interviewers generally understand that such occurrences are common when working from home.
 
 ### FAQs
 
@@ -90,7 +90,7 @@ Regularly monitor your progress. If you're not seeing the desired results, modif
 
 | Name  | Role                  | Challenge Encountered                       | Outcome Achieved                              |
 |-------|-----------------------|--------------------------------------------|-----------------------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with virtual communication skills | Improved clarity and confidence within 3 months |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with virtual communication skills | Improved clarity and confidence within a few months |
 | Juan  | Product Manager in [DeFi](/what-is-defi) | Faced challenges in remote team collaboration | Enhanced team dynamics and project outcomes   |
 | Maya  | Transitioning to Web3 | Needed to adapt quickly to new technologies | Successfully integrated into the new environment |
 

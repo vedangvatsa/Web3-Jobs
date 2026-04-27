@@ -78,7 +78,7 @@ Track your progress closely. Are you seeing the desired results? Adapt your stra
 
 ### Example 1: Sarah's Journey
 
-Sarah, a developer at a blockchain startup, faced challenges in managing her online identity. After implementing an ENS-based strategy, she improved her visibility in the community. Within three months, her network expanded significantly, leading to new job opportunities and collaborations.
+Sarah, a developer at a blockchain startup, faced challenges in managing her online identity. After implementing an ENS-based strategy, she improved her visibility in the community. Within a few months, her network expanded significantly, leading to new job opportunities and collaborations.
 
 ### Example 2: Juan's Transformation
 
@@ -103,7 +103,7 @@ Maya transitioned from Web2 to Web3 and utilized her ENS knowledge to adapt quic
 ## FAQ
 
 **Q: How long does it take to see results from implementing ENS?**  
-A: Users typically notice initial benefits within 2 to 4 weeks of consistent use, with significant improvements visible in 8 to 12 weeks. The timeline varies based on your starting point, daily practice level, and willingness to seek feedback. Professionals who actively track their progress through metrics or peer reviews usually advance faster than those who rely on passive observation.
+A: Users typically notice initial benefits within a few weeks of consistent use, with significant improvements visible in a couple of months. The timeline varies based on your starting point, daily practice level, and willingness to seek feedback. Professionals who actively track their progress through metrics or peer reviews usually advance faster than those who rely on passive observation.
 
 **Q: What if my workplace doesn't support the adoption of ENS?**  
 A: Even in challenging environments, you often have more agency than it seems. Begin with small, self-contained actions that don’t require organizational approval. Focus on personal projects or engage in conversations with like-minded colleagues. Document your achievements and results to build momentum. If, despite continuous effort, the environment hinders your growth, consider seeking a workplace that supports employee development.

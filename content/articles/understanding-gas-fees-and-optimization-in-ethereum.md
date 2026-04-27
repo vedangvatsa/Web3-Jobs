@@ -18,7 +18,7 @@ This article outlines the mechanics behind Ethereum gas fees, how they are calcu
 
 Gas functions as the fuel for the Ethereum network. Every operation on the Ethereum Virtual Machine (EVM) requires a specific amount of computational effort, measured in gas. This measurement encompasses everything from simple token transfers to complex decentralized finance (DeFi) transactions.
 
-- **`gasUsed`**: This metric indicates the total computational effort for a specific operation. For instance, an `ADD` operation may cost 3 gas, while writing to storage (`SSTORE`) can exceed 20,000 gas.
+- **`gasUsed`**: This metric indicates the total computational effort for a specific operation. For instance, an `ADD` operation may cost a small amount of gas, while writing to storage (`SSTORE`) can require a significantly larger amount.
 - **`gasPrice`**: This is the price per unit of gas that users are willing to pay. It is generally expressed in "gwei," a fraction of Ether (1 ETH = 1,000,000,000 gwei).
 
 The formula for the total transaction fee is: **`Transaction Fee = gasUsed * gasPrice`**.
@@ -62,7 +62,7 @@ Since Solidity 0.8.0, arithmetic operations include overflow checks that add gas
 
 ### The Role of Layer 2
 
-The most effective gas optimization strategy is to avoid using the Ethereum mainnet for transactions altogether. [Layer 2 scaling solutions](/guide-to-layer-2s) such as Arbitrum, Optimism, and Polygon zkEVM provide transaction fees that are 10 to 100 times lower than those on Layer 1. For many applications, building on Layer 2 has become the standard, resulting in user experiences comparable to those of traditional web applications.
+The most effective gas optimization strategy is to avoid using the Ethereum mainnet for transactions altogether. [Layer 2 scaling solutions](/guide-to-layer-2s) such as Arbitrum, Optimism, and Polygon zkEVM provide transaction fees that are significantly lower than those on Layer 1. For many applications, building on Layer 2 has become the standard, resulting in user experiences comparable to those of traditional web applications.
 
 Understanding gas mechanics is essential for effective engagement with Ethereum. Users benefit from more efficient transaction submissions, while developers face design constraints that encourage them to create smart contracts that are functional, secure, and efficient.
 
@@ -91,13 +91,13 @@ Monitor your progress regularly. Assess whether you are achieving desired result
 
 | Name  | Role                 | Challenge                      | Result                            |
 |-------|----------------------|--------------------------------|-----------------------------------|
-| Sarah | Blockchain Developer  | High gas costs in contracts    | Reduced costs by 30% using optimization techniques |
-| Juan  | DeFi Product Manager  | Inefficient transaction processes | Improved transaction speed by 50% with Layer 2 solutions |
-| Maya  | Transitioning Developer | Adapting from Web2 to Web3     | Successfully integrated into Web3 in 3 months |
+| Sarah | Blockchain Developer  | High gas costs in contracts    | Reduced costs significantly using optimization techniques |
+| Juan  | DeFi Product Manager  | Inefficient transaction processes | Improved transaction speed with Layer 2 solutions |
+| Maya  | Transitioning Developer | Adapting from Web2 to Web3     | Successfully integrated into Web3 in a few months |
 
-**Example 1**: Sarah, a developer at a blockchain startup, faced high gas costs until she adopted gas optimization strategies. Within three months, she reduced costs by 30%.
+**Example 1**: Sarah, a developer at a blockchain startup, faced high gas costs until she adopted gas optimization strategies. Within a few months, she reduced costs significantly.
 
-**Example 2**: Juan, a product manager in the DeFi space, encountered inefficient transaction processing. After implementing Layer 2 solutions, he achieved a 50% improvement in transaction speed.
+**Example 2**: Juan, a product manager in the DeFi space, encountered inefficient transaction processing. After implementing Layer 2 solutions, he achieved a notable improvement in transaction speed.
 
 **Example 3**: Maya transitioned from Web2 to Web3, effectively adapting her skills to the new environment. Her success demonstrates that these strategies can benefit professionals from various backgrounds.
 
@@ -116,7 +116,7 @@ Monitor your progress regularly. Assess whether you are achieving desired result
 ### FAQ
 
 **Q: How long will this take to implement?**  
-A: Many individuals notice early results within 2 to 4 weeks, with significant improvements seen within 8 to 12 weeks. Progress depends on your starting point, daily practice commitment, and feedback engagement. Those who actively track their progress often achieve faster results than those who rely on observation alone.
+A: Many individuals notice early results within a few weeks, with significant improvements seen within a couple of months. Progress depends on your starting point, daily practice commitment, and feedback engagement. Those who actively track their progress often achieve faster results than those who rely on observation alone.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: You often have more agency than it seems. Initiate small, self-contained actions that do not need organizational approval. These can include personal projects or conversations with supportive colleagues. Build momentum and document your results. If, after significant effort, your environment remains unsupportive, consider seeking opportunities in organizations that prioritize professional development.

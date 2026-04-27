@@ -82,13 +82,13 @@ Track your progress over time. Are you achieving the desired outcomes? Adjust yo
 
 | Name | Role | Organization Type | Outcome |
 |------|------|------------------|---------|
-| Sarah | Developer | Blockchain Startup | Implemented Zero Trust strategies, resulting in a 40% reduction in security incidents within three months. |
-| Juan | Product Manager | DeFi | Adopted Zero Trust principles, leading to a 30% increase in project delivery speed and a 25% reduction in security vulnerabilities. |
-| Maya | Web3 Transitioner | Tech Startup | Successfully adapted to a Zero Trust environment, achieving a seamless transition and contributing to a 50% improvement in team collaboration and communication. |
+| Sarah | Developer | Blockchain Startup | Implemented Zero Trust strategies, resulting in a significant reduction in security incidents within three months. |
+| Juan | Product Manager | DeFi | Adopted Zero Trust principles, leading to an increase in project delivery speed and a reduction in security vulnerabilities. |
+| Maya | Web3 Transitioner | Tech Startup | Successfully adapted to a Zero Trust environment, achieving a seamless transition and contributing to an improvement in team collaboration and communication. |
 
-**Example 1**: Sarah, a developer at a blockchain startup, struggled with security breaches until she integrated Zero Trust strategies into her workflow. Within three months, she observed a 40% reduction in security incidents.
+**Example 1**: Sarah, a developer at a blockchain startup, struggled with security breaches until she integrated Zero Trust strategies into her workflow. Within three months, she observed a significant reduction in security incidents.
 
-**Example 2**: Juan, a product manager in DeFi, faced challenges related to security vulnerabilities. By implementing Zero Trust principles, he increased project delivery speed by 30% and reduced vulnerabilities by 25%.
+**Example 2**: Juan, a product manager in DeFi, faced challenges related to security vulnerabilities. By implementing Zero Trust principles, he increased project delivery speed and reduced vulnerabilities.
 
 **Example 3**: Maya transitioned from Web2 to Web3, employing Zero Trust approaches to adapt quickly. Her success illustrates that these strategies can be effective regardless of experience or background.
 

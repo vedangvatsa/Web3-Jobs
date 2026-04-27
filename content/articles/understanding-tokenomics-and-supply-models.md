@@ -119,7 +119,7 @@ Maya transitioned from a Web2 company to a Web3 startup. By utilizing the strate
 
 **How long does it take to see results from applying these principles?**
 
-Most individuals notice initial changes within 2 to 4 weeks of consistent application, with significant improvements appearing within 8 to 12 weeks. The timeline varies based on your starting point, daily commitment, and feedback-seeking actions. Individuals who actively track their progress—through metrics, peer insights, or journaling—often advance faster than those who passively observe. Treating implementation as a structured project consistently yields better results.
+Most individuals notice initial changes within a few weeks of consistent application, with significant improvements appearing within a couple of months. The timeline varies based on your starting point, daily commitment, and feedback-seeking actions. Individuals who actively track their progress—through metrics, peer insights, or journaling—often advance faster than those who passively observe. Treating implementation as a structured project consistently yields better results.
 
 **What if my workplace isn't supportive of these changes?**
 
