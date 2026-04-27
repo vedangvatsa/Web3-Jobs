@@ -53,10 +53,10 @@ The decline in surface-level metrics reflects:
 
 Contrary to fears of market contraction, developer compensation in Web3 has remained resilient:
 
-- **[Smart Contract](/what-are-smart-contracts) Engineer:** $100K–$300K+ USD/year (unchanged)
-- **Senior Protocol Engineer:** $150K–$400K+ USD/year (possibly increased)
-- **Security Researcher:** $100K–$250K+ USD/year (higher demand)
-- **Full-Stack Developer:** $80K–$200K+ USD/year (unchanged)
+- **[Smart Contract](/what-are-smart-contracts) Engineer:** Significant range based on experience and location
+- **Senior Protocol Engineer:** Significant range based on experience and location
+- **Security Researcher:** Significant range based on experience and location
+- **Full-Stack Developer:** Significant range based on experience and location
 
 Why? The bar is higher. You must be among the best 10-20% of developers. Tourist developers are gone; remaining positions demand excellence.
 
@@ -80,7 +80,7 @@ Why? The bar is higher. You must be among the best 10-20% of developers. Tourist
 
 **Why This Path Now:**
 - **Demand:** Extremely high; every project needs audits
-- **Salary:** $150K–$400K+ USD/year (consulting) or $120K–$250K+ salary
+- **Salary:** Significant range based on experience and location
 - **Barrier:** Medium-high; requires deep security knowledge
 - **Timeline:** 12-24 months to competency
 
@@ -91,20 +91,20 @@ Why? The bar is higher. You must be among the best 10-20% of developers. Tourist
 4. Land auditing role or start consulting (month 12+)
 
 **Compensation:**
-- Year 1: $50K–$100K (learning + contract audits)
-- Year 2: $100K–$200K (established auditor)
-- Year 3+: $200K–$500K+ (senior/independent auditor)
+- Year 1: Significant range based on experience and location
+- Year 2: Significant range based on experience and location
+- Year 3+: Significant range based on experience and location
 
 **Why It Works Now:**
 - Security is bottleneck; shortage of experts
 - Bear market increases caution; audit demand stays high
-- Consulting upside: $200K–$500K/year at senior level
+- Consulting upside: significant potential at senior level
 
 #### Path 2: Application Layer Developer (DeFi/Gaming/SocialFi Specialist) (10-18 Month Timeline)
 
 **Why This Path Now:**
 - **Demand:** High; but consolidating around Ethereum + L2s
-- **Salary:** $80K–$250K+ USD/year
+- **Salary:** Significant range based on experience and location
 - **Barrier:** Medium; requires Solidity + web3 UX knowledge
 - **Timeline:** 10-18 months to competency
 
@@ -121,9 +121,9 @@ Why? The bar is higher. You must be among the best 10-20% of developers. Tourist
 - **Physical Infrastructure (DePIN):** IoT, energy, telecom (high growth)
 
 **Compensation:**
-- Year 1: $40K–$80K (junior developer)
-- Year 2: $80K–$150K (mid-level)
-- Year 3+: $150K–$250K+ (senior/lead)
+- Year 1: Significant range based on experience and location
+- Year 2: Significant range based on experience and location
+- Year 3+: Significant range based on experience and location
 
 **Why It Works Now:**
 - Base-layer infrastructure mature; opportunity moves to applications
@@ -134,8 +134,8 @@ Why? The bar is higher. You must be among the best 10-20% of developers. Tourist
 
 **Why This Path Now:**
 - **Demand:** Steady but competitive; top-tier positions
-- **Salary:** $120K–$400K+ USD/year (often plus equity/grants)
-- **Barrier:** Very high; requires PhD-level knowledge
+- **Salary:** Significant range based on experience and location
+- **Barrier:** Very high; requires advanced knowledge
 - **Timeline:** 18-36 months (or years) to competency
 
 **How to Build:**
@@ -151,9 +151,9 @@ Why? The bar is higher. You must be among the best 10-20% of developers. Tourist
 - **Consensus algorithms:** New mechanisms, improvements
 
 **Compensation:**
-- Year 1-2: $50K–$100K (learning) + potential grants
-- Year 2-3: $120K–$200K (core contributor)
-- Year 4+: $200K–$500K+ (senior contributor/researcher) + grants/equity
+- Year 1-2: Significant range based on experience and location
+- Year 2-3: Significant range based on experience and location
+- Year 4+: Significant range based on experience and location
 
 **Why It Works Now:**
 - Infrastructure is maturing; few people can do this work
@@ -247,7 +247,7 @@ A: YES, if you're willing to invest 12-24 months in deep learning. The bar is hi
 A: Application developer (Path 2): fastest to first role (10-18 months).
 
 **Q4: Which path pays most?**
-A: Protocol/Infrastructure (Path 3) or Security (Path 1): both $200K-$500K+ at senior level.
+A: Protocol/Infrastructure (Path 3) or Security (Path 1): both have significant potential at senior level.
 
 **Q5: Can I switch paths later?**
 A: Yes. Security expertise is most transferable. You can do any path; switching takes 3-6 months.
@@ -262,7 +262,7 @@ A: Helpful but not required. Self-teaching + public portfolio is increasingly ac
 A: Alchemy University (free), Ethernaut (gamified learning), Cryptozombies (Solidity), Paradigm research (advanced).
 
 **Q9: How competitive is Code4rena?**
-A: Very, but fair. If you're skilled, you'll win money. Start with smaller contests ($1K-$10K), work up to large ones.
+A: Very, but fair. If you're skilled, you'll win money. Start with smaller contests, work up to large ones.
 
 **Q10: Should I try to start a protocol?**
 A: Build expertise first (2-3 years); then validate with users; then raise funding (if you want).

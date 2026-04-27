@@ -96,10 +96,10 @@ Track your progress. Are you achieving desired results? Adjust your strategy bas
 ### Real-World Examples
 
 #### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with resource management. After implementing these strategies, she achieved a 30% increase in application performance within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with resource management. After implementing these strategies, she achieved a notable increase in application performance within three months.
 
 #### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), struggled with meeting project deadlines. By adopting this framework, he improved project delivery times by 25%, demonstrating the effectiveness of these principles.
+Juan, a product manager in [DeFi](/what-is-defi), struggled with meeting project deadlines. By adopting this framework, he improved project delivery times significantly, demonstrating the effectiveness of these principles.
 
 #### Example 3
 Maya transitioned from Web2 to Web3 and utilized this approach to adapt quickly. Her success illustrates that these strategies can be effective regardless of one’s background or experience level.
@@ -119,7 +119,7 @@ Maya transitioned from Web2 to Web3 and utilized this approach to adapt quickly.
 ### FAQ
 
 **Q: How long will this take to implement?**  
-A: Many individuals see initial results within 2 to 4 weeks of consistent application. Significant improvements typically become evident within 8 to 12 weeks. The timeline can vary based on your baseline, daily practice commitment, and the extent of feedback you seek. Professionals who actively track their progress often advance faster than those who do not.
+A: Many individuals see initial results within a few weeks of consistent application. Significant improvements typically become evident within a couple of months. The timeline can vary based on your baseline, daily practice commitment, and the extent of feedback you seek. Professionals who actively track their progress often advance faster than those who do not.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often have more agency than you might think. Start with small, self-contained actions that require no organizational approval, such as developing individual habits or initiating conversations with like-minded colleagues. Gradually build momentum rather than waiting for permission. Document your achievements; if a toxic environment persists, that information may clarify your next career move.

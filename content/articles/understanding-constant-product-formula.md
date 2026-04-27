@@ -81,7 +81,7 @@ The formula `x * y = k` generates a hyperbolic graph. This shape has critical im
 
 ### Beyond the Basic Formula: Fees
 
-In practice, AMMs incorporate trading fees into the formula. For instance, Uniswap v2 applies a 0.3% fee. The modified formulas are as follows:
+In practice, AMMs incorporate trading fees into the formula. For instance, Uniswap v2 applies a trading fee. The modified formulas are as follows:
 
 - Before the trade: `x * y = k`
 - After the trade: `(x + Δx) * (y - Δy) = k'`
@@ -139,13 +139,13 @@ Track your progress. Are you achieving desired results? Adjust your strategy bas
 ## Real-World Examples
 
 ### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with liquidity management. After implementing strategies based on the constant product formula, she improved her liquidity provisioning efficiency by 30% within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with liquidity management. After implementing strategies based on the constant product formula, she improved her liquidity provisioning efficiency significantly within three months.
 
 ### Example 2
-Juan, a product manager in DeFi, struggled with slippage in trades. By applying insights from the constant product model, he reduced slippage by 25%, enhancing overall trading efficiency.
+Juan, a product manager in DeFi, struggled with slippage in trades. By applying insights from the constant product model, he reduced slippage, enhancing overall trading efficiency.
 
 ### Example 3
-Maya transitioned from Web2 to Web3 and rapidly adapted by applying the principles of the constant product formula. Her successful implementation led to a smoother onboarding process and increased her team's trading volume by 40% in two months.
+Maya transitioned from Web2 to Web3 and rapidly adapted by applying the principles of the constant product formula. Her successful implementation led to a smoother onboarding process and increased her team's trading volume significantly in two months.
 
 ## Common Mistakes to Avoid
 

@@ -48,11 +48,11 @@ The Mark Price plays a vital role in protecting traders from adverse market cond
 
 ### Practical Example
 
-Consider a scenario where you hold a long position on [ETH](/what-is-ethereum) with a liquidation price set at $2,950.
+Consider a scenario where you hold a long position on [ETH](/what-is-ethereum) with a liquidation price set at a certain level.
 
-- The **Index Price** across major exchanges remains stable at $3,000.
-- However, the **Last Price** on your chosen derivative exchange experiences a flash crash, momentarily dropping to $2,940 due to a substantial sell order, before quickly rebounding to $3,000.
-- During this event, the **Mark Price**, influenced primarily by the stable Index Price, might only decrease to $2,995.
+- The **Index Price** across major exchanges remains stable.
+- However, the **Last Price** on your chosen derivative exchange experiences a flash crash, momentarily dropping due to a substantial sell order, before quickly rebounding.
+- During this event, the **Mark Price**, influenced primarily by the stable Index Price, might only decrease slightly.
 
 **Outcome**: Because your liquidation is based on the **Mark Price**, your position remains intact. If liquidations were determined by the Last Price, your position would have been unfairly liquidated due to the temporary price anomaly.
 

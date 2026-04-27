@@ -101,7 +101,7 @@ Engagement with the UX/UI community can significantly enhance your opportunities
 
 ## Importance of Networking
 
-Networking plays a crucial role in career advancement. Research indicates that approximately 70% of job openings are not publicly advertised. Building relationships within the industry can provide access to hidden opportunities. 
+Networking plays a crucial role in career advancement. Research indicates that a significant portion of job openings are not publicly advertised. Building relationships within the industry can provide access to hidden opportunities. 
 
 ### Step-by-Step Guide
 
@@ -123,10 +123,10 @@ Monitor progress and adapt as necessary. Continuous improvement requires an open
 ## Real-World Examples
 
 ### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with user experience issues. After applying structured strategies, she achieved a 40% increase in user satisfaction scores over three months by improving the onboarding process.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with user experience issues. After applying structured strategies, she achieved a notable increase in user satisfaction scores over three months by improving the onboarding process.
 
 ### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), faced challenges with user engagement. By implementing a user feedback loop and redesigning the user interface, he increased user retention by 25% within two months.
+Juan, a product manager in [DeFi](/what-is-defi), faced challenges with user engagement. By implementing a user feedback loop and redesigning the user interface, he increased user retention within two months.
 
 ### Example 3
 Maya transitioned from Web2 to Web3, applying her UX skills to adapt quickly to the new environment. Her proactive approach led to a promotion within six months, showcasing the effectiveness of a solid strategy.
@@ -142,7 +142,7 @@ Maya transitioned from Web2 to Web3, applying her UX skills to adapt quickly to 
 ## FAQ
 
 **Q: How long will this transition take?**
-A: Initial improvements often appear within 2–4 weeks of consistent practice. Significant changes usually become evident within 8–12 weeks. The timeline varies based on your starting point, daily commitment, and feedback engagement. Professionals who actively track their progress tend to advance more quickly.
+A: Initial improvements often appear within a few weeks of consistent practice. Significant changes usually become evident within a couple of months. The timeline varies based on your starting point, daily commitment, and feedback engagement. Professionals who actively track their progress tend to advance more quickly.
 
 **Q: What if my workplace is unsupportive?**
 A: In challenging environments, you often possess more agency than you realize. Start by implementing small, self-directed actions that don’t require organizational approval. Document your achievements and, if necessary, consider seeking a more supportive environment.

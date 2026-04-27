@@ -30,9 +30,9 @@ Optimizing these elements is vital for projecting confidence and competence.
 The camera serves as your interviewer's primary view into your presentation. A clear, well-framed image is essential.
 
 #### Choosing a Camera
-- **External Webcam (Recommended):** Invest in a 1080p external webcam from reputable brands like Logitech, Razer, or Anker. These provide superior image quality, color accuracy, and low-light performance compared to built-in options.
+- **External Webcam (Recommended):** Invest in a 1080p external webcam from reputable brands. These provide superior image quality, color accuracy, and low-light performance compared to built-in options.
 - **Built-in Laptop Webcam:** If using your laptop’s camera, clean it thoroughly. A microfiber cloth can significantly enhance image clarity.
-- **Smartphone Camera:** Many modern smartphones offer better quality than laptop webcams. Utilize apps like Camo or DroidCam to connect your phone as a webcam. Ensure you use a tripod or stand for stability.
+- **Smartphone Camera:** Many modern smartphones offer better quality than laptop webcams. Utilize apps to connect your phone as a webcam. Ensure you use a tripod or stand for stability.
 
 #### Camera Position and Angle
 The camera angle affects your perceived engagement during the interview.
@@ -46,9 +46,9 @@ The camera angle affects your perceived engagement during the interview.
 Audio quality significantly impacts the interview experience. Poor audio can frustrate interviewers and detract from your message.
 
 #### Choosing a Microphone
-- **Headset with Boom Mic (Best):** A USB headset with a boom mic provides excellent sound isolation, minimizing background noise. Brands like Logitech, Jabra, and Sennheiser offer reliable options.
-- **USB Condenser Microphone:** For those who prefer not to wear a headset, standalone USB microphones, such as the Blue Yeti or Rode NT-USB, deliver high quality. Ensure you are in a quiet room to avoid capturing ambient noise.
-- **Earbuds with In-line Mic (Good):** Wired earbuds like Apple EarPods enhance audio quality over built-in laptop mics.
+- **Headset with Boom Mic (Best):** A USB headset with a boom mic provides excellent sound isolation, minimizing background noise. Reliable brands offer good options.
+- **USB Condenser Microphone:** For those who prefer not to wear a headset, standalone USB microphones deliver high quality. Ensure you are in a quiet room to avoid capturing ambient noise.
+- **Earbuds with In-line Mic (Good):** Wired earbuds enhance audio quality over built-in laptop mics.
 - **Built-in Laptop Microphone (Avoid):** Relying on your laptop’s microphone is a last resort, as they tend to pick up keyboard noise and room echoes.
 
 #### The Audio Environment
@@ -88,10 +88,10 @@ Your background contributes to your personal brand. It should be clean, unclutte
 
 Before your interview, conduct a final checklist to ensure everything is in order:
 
-1. **Test Your Tech:** At least 30 minutes before the interview, open the video platform (Zoom, Google Meet, Teams, etc.) to test the camera, microphone, and internet connection. Use the settings area to preview your video and audio.
+1. **Test Your Tech:** At least 30 minutes before the interview, open the video platform to test the camera, microphone, and internet connection. Use the settings area to preview your video and audio.
 2. **Check Your Name and Profile Picture:** Confirm your display name is your full, professional name and that your profile picture is appropriate.
 3. **Dress Professionally:** Dress as you would for an in-person interview, at least from the waist up. Solid colors typically look best on camera, while busy patterns can be distracting.
-4. **Prepare Your Digital Materials:** Close all unnecessary tabs and applications. Have your [resume](/how-to-build-a-web3-resume-that-stands-out), job description, and questions ready in a separate window for easy access.
+4. **Prepare Your Digital Materials:** Close all unnecessary tabs and applications. Have your resume, job description, and questions ready in a separate window for easy access.
 5. **Do a Final Environment Scan:** Review your video preview for correct framing, a clean background, and any potential distractions.
 
 By dedicating time to your video interview setup, you can minimize distractions and present yourself as a polished and professional candidate. This preparation allows your skills, experience, and personality to shine, significantly improving your chances of success in the interview. 

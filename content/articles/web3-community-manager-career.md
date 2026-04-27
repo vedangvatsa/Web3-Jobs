@@ -22,23 +22,23 @@ The CM's role is dynamic and varied. Specific responsibilities may differ daily,
 
 The CM sets and maintains the community's environment.
 
-- **Welcoming Newcomers:** A warm and inviting atmosphere on platforms like Discord and Telegram is essential for user retention. For example, a friendly greeting can increase a new user's likelihood of engagement by over 30%.
-- **Facilitating Discussion:** The CM encourages productive, positive, and on-topic conversations. Regular engagement can lead to a 20% increase in active members.
-- **Organizing Events:** Hosting community events such as AMAs, game nights, and educational workshops is critical for maintaining engagement. Projects that host monthly events typically see a 15% increase in user activity.
+- **Welcoming Newcomers:** A warm and inviting atmosphere on platforms like Discord and Telegram is essential for user retention. For example, a friendly greeting can increase a new user's likelihood of engagement significantly.
+- **Facilitating Discussion:** The CM encourages productive, positive, and on-topic conversations. Regular engagement can lead to an increase in active members.
+- **Organizing Events:** Hosting community events such as AMAs, game nights, and educational workshops is critical for maintaining engagement. Projects that host monthly events typically see an increase in user activity.
 
 #### 2. Education and Support
 
 Users often have many questions due to the complexity of Web3.
 
 - **Answering Questions:** The CM serves as the primary source for inquiries regarding protocol functionality, dApp usage, and project roadmaps. A responsive CM can reduce user frustration significantly, improving overall satisfaction.
-- **Creating Educational Content:** Producing "how-to" guides, FAQs, and straightforward explanations of intricate topics helps users navigate the ecosystem effectively. Data shows that projects with comprehensive educational resources see a 25% reduction in support queries.
-- **Fighting Scams:** Monitoring for phishing links and fake support accounts is vital. CMs who actively communicate about potential scams can reduce incidents by up to 40%.
+- **Creating Educational Content:** Producing "how-to" guides, FAQs, and straightforward explanations of intricate topics helps users navigate the ecosystem effectively. Projects with comprehensive educational resources often see a reduction in support queries.
+- **Fighting Scams:** Monitoring for phishing links and fake support accounts is vital. CMs who actively communicate about potential scams can reduce incidents significantly.
 
 #### 3. Moderation and Crisis Management
 
 Crypto communities can exhibit volatility and chaos.
 
-- **Enforcing Rules:** The CM upholds the community's code of conduct, ensuring a respectful environment. Establishing clear guidelines can lead to a 50% decrease in rule violations.
+- **Enforcing Rules:** The CM upholds the community's code of conduct, ensuring a respectful environment. Establishing clear guidelines can lead to a decrease in rule violations.
 - **De-escalating Conflict:** Skillful conflict management prevents discussions from becoming toxic. Training in conflict resolution techniques can enhance a CM's effectiveness in this area.
 - **Managing FUD:** During downturns or negative news cycles, CMs must address "Fear, Uncertainty, and Doubt" (FUD) through transparent communication. Projects that communicate clearly during crises maintain user trust better than those that do not.
 
@@ -47,7 +47,7 @@ Crypto communities can exhibit volatility and chaos.
 The CM connects users with the core development team.
 
 - **Synthesizing Feedback:** Gathering and presenting user feedback to the product and engineering teams is essential for development. CMs who effectively communicate user sentiment can influence product improvements significantly.
-- **Communicating Updates:** Translating technical updates into clear announcements helps users stay informed. Well-structured communication can lead to a 30% increase in user understanding of project developments.
+- **Communicating Updates:** Translating technical updates into clear announcements helps users stay informed. Well-structured communication can lead to an increase in user understanding of project developments.
 
 ### Essential Skills of a Great Community Manager
 
@@ -101,8 +101,8 @@ Monitor progress to gauge results. Adjust your methods based on feedback and out
 
 | Name  | Role          | Challenge Faced          | Outcome Achieved                                      |
 |-------|---------------|--------------------------|------------------------------------------------------|
-| Sarah | Developer     | Struggled with user engagement | Implemented community feedback strategies, leading to a 40% increase in active users. |
-| Juan  | Product Manager | Faced communication issues with users | Established regular updates, resulting in a 30% improvement in user satisfaction scores. |
+| Sarah | Developer     | Struggled with user engagement | Implemented community feedback strategies, leading to an increase in active users. |
+| Juan  | Product Manager | Faced communication issues with users | Established regular updates, resulting in an improvement in user satisfaction scores. |
 | Maya  | Transitioning to Web3 | Difficulty in adapting to new protocols | Joined community discussions, enhancing her knowledge and leading to a successful project role. |
 
 ### Common Mistakes to Avoid
@@ -116,7 +116,7 @@ Monitor progress to gauge results. Adjust your methods based on feedback and out
 ### FAQ
 
 **Q: How long will it take to see results?**  
-A: Many individuals notice initial outcomes within 2 to 4 weeks of consistent application. Significant improvements typically become visible within 8 to 12 weeks, depending on your starting point and commitment to daily practice.
+A: Many individuals notice initial outcomes within a few weeks of consistent application. Significant improvements typically become visible within a few months, depending on your starting point and commitment to daily practice.
 
 **Q: What if my workplace doesn't support community engagement?**  
 A: Begin with small, self-contained actions that don’t require organizational approval. Focus on individual habits and internal conversations with supportive colleagues to build momentum.

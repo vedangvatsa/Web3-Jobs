@@ -51,16 +51,16 @@ While this code seems logical initially, it contains a significant flaw: the use
 Here’s how the attack unfolds:
 
 1. **The Attacker's Contract**: The attacker deploys a contract (`AttackContract`) containing a special fallback function that executes whenever the contract receives Ether without a specified function call. This fallback function invokes the `withdraw` function on `InsecureBank` again.
-2. **Initial Deposit**: The attacker deposits 1 ETH by calling the `deposit` function on `InsecureBank`. The `AttackContract`'s balance in `InsecureBank` now stands at 1 ETH.
-3. **The First Withdrawal**: The attacker then calls `withdraw(1 ETH)` on `InsecureBank` from `AttackContract`.
+2. **Initial Deposit**: The attacker deposits Ether by calling the `deposit` function on `InsecureBank`. The `AttackContract`'s balance in `InsecureBank` now stands at a certain amount of Ether.
+3. **The First Withdrawal**: The attacker then calls `withdraw` on `InsecureBank` from `AttackContract`.
 4. **The Trap is Sprung**:
-    *   `InsecureBank` verifies the balance. The `AttackContract` has 1 ETH, allowing the `require` statement to pass.
-    *   `InsecureBank` transfers 1 ETH to `AttackContract` through the `.call{value: 1 ETH}` function.
+    *   `InsecureBank` verifies the balance. The `AttackContract` has a sufficient balance, allowing the `require` statement to pass.
+    *   `InsecureBank` transfers Ether to `AttackContract` through the `.call{value: amount}` function.
     *   This Ether transfer activates the fallback function in `AttackContract`.
-    *   **The Re-entry**: The fallback function instantly calls the `withdraw(1 ETH)` function *again* on `InsecureBank`.
-5. **The Loop**: Now, `withdraw` executes a second time without updating `InsecureBank`'s state. The `AttackContract` still holds a balance of 1 ETH.
+    *   **The Re-entry**: The fallback function instantly calls the `withdraw` function *again* on `InsecureBank`.
+5. **The Loop**: Now, `withdraw` executes a second time without updating `InsecureBank`'s state. The `AttackContract` still holds a balance.
     *   The `require` check passes again.
-    *   `InsecureBank` sends another 1 ETH to `AttackContract`.
+    *   `InsecureBank` sends another amount of Ether to `AttackContract`.
     *   This process continues recursively until `InsecureBank` runs out of Ether. Once the gas limit is reached or the funds are depleted, the calls begin to unwind, but it is too late. The bank has been emptied.
 
 ### Preventing Reentrancy: The Checks-Effects-Interactions Pattern
@@ -89,7 +89,7 @@ function withdraw(uint _amount) public {
 }
 ```
 
-When the attacker’s contract attempts to re-enter the `withdraw` function, the balance has already been adjusted to zero. Consequently, the `require(balance >= _amount)` check will fail, thwarting the recursive call and the attack.
+When the attacker’s contract attempts to re-enter the `withdraw` function, the balance has already been adjusted. Consequently, the `require(balance >= _amount)` check will fail, thwarting the recursive call and the attack.
 
 ### Another Layer of Defense: Reentrancy Guards
 
@@ -152,8 +152,8 @@ Regularly assess your progress. Are you achieving desired results? Adjust your s
 
 | Name   | Role                      | Challenge Faced                                 | Outcome Achieved                             |
 |--------|---------------------------|------------------------------------------------|---------------------------------------------|
-| Sarah  | Developer at a blockchain startup | Struggled with security vulnerabilities in contracts | Achieved a 60% reduction in security issues within 3 months |
-| Juan   | Product Manager in [DeFi](/what-is-defi) | Encountered frequent bugs in smart contracts   | Streamlined deployment processes, reducing errors by 40% |
+| Sarah  | Developer at a blockchain startup | Struggled with security vulnerabilities in contracts | Achieved a significant reduction in security issues within a few months |
+| Juan   | Product Manager in [DeFi](/what-is-defi) | Encountered frequent bugs in smart contracts   | Streamlined deployment processes, reducing errors significantly |
 | Maya   | Transitioning from Web2 to Web3 | Needed to adapt to decentralized methodologies | Successfully integrated into Web3 teams, enhancing productivity |
 
 ### Common Mistakes to Avoid
@@ -167,7 +167,7 @@ Regularly assess your progress. Are you achieving desired results? Adjust your s
 ### FAQ
 
 **Q: How long will it take to implement these practices?**  
-A: Initial results typically appear within 2 to 4 weeks of consistent application, with significant improvements becoming noticeable within 8 to 12 weeks. The timeline varies depending on your starting point, commitment to daily practice, and willingness to seek feedback. Professionals who actively track their progress tend to see faster advancements.
+A: Initial results typically appear within a few weeks of consistent application, with significant improvements becoming noticeable within a couple of months. The timeline varies depending on your starting point, commitment to daily practice, and willingness to seek feedback. Professionals who actively track their progress tend to see faster advancements.
 
 **Q: What if my workplace environment does not support these practices?**  
 A: Many times, you possess more agency in challenging environments than you may realize. Start with small, self-contained actions that require no institutional approval. Focus on individual habits or internal discussions with like-minded colleagues. Gradually build momentum. If sustained efforts reveal a lack of support, it may indicate the need to seek an environment that values professional development.
