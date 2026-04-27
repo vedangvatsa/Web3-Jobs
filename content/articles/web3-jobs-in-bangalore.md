@@ -32,37 +32,37 @@ The city boasts a mature startup culture supported by an extensive network of ve
 
 #### Community and Collaboration
 
-Bangalore's Web3 community is among the most active and cooperative worldwide. The city hosts countless high-quality meetups, workshops, and hackathons, including the flagship ETHIndia event. This event attracts thousands of builders globally and serves as a primary recruiting ground for top protocols.
+Bangalore's Web3 community is among the most active and cooperative worldwide. The city hosts countless high-quality meetups, workshops, and hackathons, including the flagship ETHIndia event. This event attracts builders globally and serves as a primary recruiting ground for top protocols.
 
 ### In-Demand Roles and Salary Expectations
 
 Bangalore's competition for elite Web3 talent drives salaries significantly higher than those in the traditional tech sector. The following table outlines some of the most in-demand roles along with their corresponding salary ranges:
 
-| Role                                   | Level            | Salary Range (INR)             |
+| Role                                   | Level            | Salary Range             |
 |----------------------------------------|------------------|---------------------------------|
-| Smart Contract / Protocol Engineer      | Mid-Level (3-5 years) | ₹40 Lakhs - ₹70 Lakhs         |
-|                                        | Senior (5+ years)    | ₹70 Lakhs - ₹1.2 Crore+       |
-| Full-Stack Web3 Engineer               | Mid-Level          | ₹30 Lakhs - ₹55 Lakhs         |
-|                                        | Senior             | ₹55 Lakhs - ₹90 Lakhs+        |
-| Developer Relations (DevRel) Engineer  | Experienced        | ₹35 Lakhs - ₹70 Lakhs+        |
-| Product Manager (Technical)            |                    | ₹30 Lakhs - ₹65 Lakhs+        |
-| Growth & Marketing Manager             |                    | ₹25 Lakhs - ₹50 Lakhs+        |
+| Smart Contract / Protocol Engineer      | Mid-Level (3-5 years) | Significant range         |
+|                                        | Senior (5+ years)    | Significant range       |
+| Full-Stack Web3 Engineer               | Mid-Level          | Significant range         |
+|                                        | Senior             | Significant range        |
+| Developer Relations (DevRel) Engineer  | Experienced        | Significant range        |
+| Product Manager (Technical)            |                    | Significant range        |
+| Growth & Marketing Manager             |                    | Significant range        |
 
 #### Smart Contract and Protocol Engineers
 
-Smart contract engineers specializing in languages like Solidity and Rust are the most sought-after professionals in Bangalore. Mid-level engineers can expect salaries between ₹40 Lakhs and ₹70 Lakhs per annum, while senior engineers command salaries from ₹70 Lakhs to ₹1.2 Crore or more. Highly regarded protocol architects or security researchers may receive even higher compensation, often with substantial [token](/what-is-a-token) grants included.
+Smart contract engineers specializing in languages like Solidity and Rust are the most sought-after professionals in Bangalore. Mid-level engineers can expect salaries in a significant range, while senior engineers command salaries from a significant range or more. Highly regarded protocol architects or security researchers may receive even higher compensation, often with substantial [token](/what-is-a-token) grants included.
 
 #### Full-Stack Web3 Engineers
 
-Full-stack Web3 engineers proficient in frameworks like React and Next.js earn competitive salaries. Mid-level professionals typically earn between ₹30 Lakhs and ₹55 Lakhs per annum, while senior roles can exceed ₹90 Lakhs.
+Full-stack Web3 engineers proficient in frameworks like React and Next.js earn competitive salaries. Mid-level professionals typically earn in a significant range, while senior roles can exceed a significant range.
 
 #### Developer Relations Engineers
 
-As Bangalore is a hub for infrastructure projects, there is considerable demand for Developer Relations professionals. Experienced DevRel engineers earn between ₹35 Lakhs and ₹70 Lakhs or more annually.
+As Bangalore is a hub for infrastructure projects, there is considerable demand for Developer Relations professionals. Experienced DevRel engineers earn in a significant range or more annually.
 
 #### Non-Technical Roles
 
-Product managers with a technical background can expect salaries ranging from ₹30 Lakhs to ₹65 Lakhs or more. Growth and marketing managers earn between ₹25 Lakhs and ₹50 Lakhs.
+Product managers with a technical background can expect salaries ranging from a significant range or more. Growth and marketing managers earn in a significant range.
 
 ### Strategies for Building a Web3 Career in Bangalore
 
@@ -100,7 +100,7 @@ The Web3 sector is experiencing remarkable growth, with demand for qualified tal
 
 The dynamics of the Web3 job market differ significantly from Web2:
 
-- **Compensation:** Web3 roles generally offer 20-40% higher salaries compared to Web2 positions, with substantial bonus and equity components.
+- **Compensation:** Web3 roles generally offer higher salaries compared to Web2 positions, with substantial bonus and equity components.
 - **Remote-First Culture:** Many Web3 organizations operate primarily or fully remotely, providing flexibility that is uncommon in traditional tech.
 - **Growth Trajectory:** Career progression is often faster in Web3 due to rapid scaling and talent shortages.
 - **Equity Upside:** Token and equity packages are standard, creating significant wealth-building opportunities.
@@ -158,11 +158,11 @@ Focus on roles that leverage your existing skill set alongside your new Web3 kno
 
 ### Transition from Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a leading DeFi project, allowing him to transition with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a leading DeFi project, allowing him to transition with a significant salary increase and substantial equity.
 
 ### Product Manager Transitioning to Web3
 
-Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her understanding of financial products, combined with Web3 technology knowledge, made her highly sought after. She secured a position at a leading DeFi protocol within four weeks.
+Jessica, a product manager from traditional finance, utilized her domain expertise in DeFi. Her understanding of financial products, combined with Web3 technology knowledge, made her highly sought after. She secured a position at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 
@@ -192,13 +192,13 @@ For non-developers, the technical learning curve can be steep. Nevertheless, the
 No, Web3 requires various professionals beyond engineers. Roles in marketing, community management, product design, legal, operations, and business development are in high demand. Existing skills are valuable; you need to add Web3 context to your expertise.
 
 **How much can I earn in Web3?**  
-Web3 compensation frequently surpasses Web2 equivalents. Base salaries can be 30-60% higher, especially for Solidity engineers and smart contract auditors. Total compensation packages often include signing bonuses, equity, and token allocations. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 annually.
+Web3 compensation frequently surpasses Web2 equivalents. Base salaries can be significantly higher, especially for Solidity engineers and smart contract auditors. Total compensation packages often include signing bonuses, equity, and token allocations. Senior engineers at well-funded protocols can earn competitive salaries.
 
 **Is it risky to transition to Web3?**  
 Transitioning to Web3 carries inherent risks due to market volatility. However, you can mitigate risks by targeting established protocols with proven revenue streams and negotiating base salaries in fiat. Professionals who view Web3 as a career path, rather than a quick financial gain, tend to build sustainable roles.
 
 **How long does the transition take?**  
-Most professionals achieve a meaningful transition in 2-6 months. Engineers and product managers often adapt quickly, while non-technical roles can transition in 4-8 weeks with focused self-study. Actively engaging in projects or contributing to open-source initiatives can significantly speed up the process.
+Most professionals achieve a meaningful transition in a few months. Engineers and product managers often adapt quickly, while non-technical roles can transition in a shorter timeframe with focused self-study. Actively engaging in projects or contributing to open-source initiatives can significantly speed up the process.
 
 **What happens if the crypto market crashes?**  
 Bear markets often provide ideal entry points into Web3. As speculative hype diminishes, teams concentrate on building solid products, prioritizing talent over token value. Companies focused on infrastructure and development continue hiring irrespective of market conditions.

@@ -30,10 +30,10 @@ The job market for Argentinian talent operates on a global scale. Although local
 
 | Role                                 | Salary (Remote, Global Company) | Salary (Local Companies)         |
 |--------------------------------------|----------------------------------|----------------------------------|
-| Smart Contract Developer / Security Researcher | $120,000 - $200,000+ USD/year   | ARS 4,000,000 - ARS 7,000,000/month |
-| Full-Stack Web3 Engineer             | $90,000 - $160,000+ USD/year    | ARS 3,500,000 - ARS 6,000,000/month |
-| Mid-Level Developer                  | N/A                              | ARS 2,000,000 - ARS 4,000,000/month |
-| Community/Marketing Manager          | N/A                              | ARS 1,000,000 - ARS 2,500,000/month |
+| Smart Contract Developer / Security Researcher | Competitive                     | Competitive                       |
+| Full-Stack Web3 Engineer             | Competitive                     | Competitive                       |
+| Mid-Level Developer                  | N/A                              | Competitive                       |
+| Community/Marketing Manager          | N/A                              | Competitive                       |
 
 ### Steps to Secure a Web3 Job in Argentina
 
@@ -57,11 +57,11 @@ To find the latest remote and local job openings in Argentina’s robust Web3 ec
 
 | Role                                 | Remote Salary Range              | Local Salary Range               |
 |--------------------------------------|----------------------------------|----------------------------------|
-| Smart Contract Developer              | $80,000 - $180,000/year          | ARS 4,000,000 - ARS 7,000,000/month |
-| Security Researcher/Auditor          | $100,000 - $200,000+/year        | ARS 5,000,000 - ARS 8,000,000/month |
-| Full-Stack Web3 Engineer             | $70,000 - $150,000/year          | ARS 3,500,000 - ARS 6,000,000/month |
-| Protocol Engineer                     | $120,000 - $280,000+/year        | ARS 6,000,000 - ARS 10,000,000/month |
-| Community/Marketing Manager          | $20,000 - $60,000/year           | ARS 1,000,000 - ARS 3,000,000/month |
+| Smart Contract Developer              | Competitive                      | Competitive                       |
+| Security Researcher/Auditor          | Competitive                      | Competitive                       |
+| Full-Stack Web3 Engineer             | Competitive                      | Competitive                       |
+| Protocol Engineer                     | Competitive                      | Competitive                       |
+| Community/Marketing Manager          | Competitive                      | Competitive                       |
 
 ## Career Paths in Argentine Web3
 
@@ -76,23 +76,23 @@ To find the latest remote and local job openings in Argentina’s robust Web3 ec
 - **Deliverable:** A strong portfolio and a solid reputation.
 
 **Months 7-12: Gain Recognition**
-- Participate in Code4rena audits (earning $1,000 to $50,000 per contest).
+- Participate in Code4rena audits.
 - Publish two security research articles.
 - Apply for roles at leading protocols and security firms.
-- **Expected Salary:** $80,000 to $120,000/year.
+- **Expected Salary:** Competitive.
 
 **Months 13-18: Advance to Senior/Specialized Role**
 - Lead smart contract development or security initiatives.
-- **Expected Salary:** $150,000 to $200,000+/year.
+- **Expected Salary:** Competitive.
 
 **Months 19-20: Transition to Expert/Founding Role**
 - Aim for chief architect or founding engineer positions.
-- **Expected Compensation:** $180,000 to $400,000+/year plus equity or grants.
+- **Expected Compensation:** Competitive plus equity or grants.
 
 **Quick Wins:**
-- Code4rena audits can yield $1,000 to $50,000 per contest.
-- Bug bounties offer $5,000 to $100,000+ per vulnerability.
-- Consulting roles can pay $200 to $500/hour.
+- Code4rena audits can yield competitive rewards.
+- Bug bounties offer significant compensation per vulnerability.
+- Consulting roles can pay competitively.
 
 ### Path 2: Protocol Researcher/Contributor (Timeline: 14-24 Months)
 
@@ -110,16 +110,16 @@ To find the latest remote and local job openings in Argentina’s robust Web3 ec
 
 **Months 13-18: Become a Core Contributor**
 - Work as a core developer or researcher at a protocol.
-- **Expected Salary:** $120,000 to $200,000/year plus grants.
+- **Expected Salary:** Competitive plus grants.
 
 **Months 19-24: Lead Protocol Initiatives**
 - Take charge of protocol development or research projects.
-- **Expected Compensation:** $200,000 to $350,000/year plus grants.
+- **Expected Compensation:** Competitive plus grants.
 
 **Quick Wins:**
-- Obtain protocol grants ranging from $10,000 to $500,000.
-- Speaking engagements at conferences can yield $5,000 to $20,000 plus visibility.
-- Research funding can vary between $50,000 and $200,000.
+- Obtain protocol grants.
+- Speaking engagements at conferences can yield visibility.
+- Research funding can vary.
 
 ### Path 3: Founder/CTO of an Argentine Web3 Startup (Timeline: 12-24 Months)
 
@@ -127,34 +127,34 @@ To find the latest remote and local job openings in Argentina’s robust Web3 ec
 - Identify a local problem that Web3 can address.
 - Develop a minimum viable product (MVP) to solve it (DeFi, P2P, identity, etc.).
 - Network with local founders, investors, and users.
-- Achieve traction with over 500 users or $10,000+ in monthly volume.
+- Achieve traction with a growing user base.
 - **Deliverable:** A functional product with user traction and a team.
 
 **Months 7-12: Fundraising**
-- Secure a seed round of $500,000 to $2 million.
+- Secure a seed round.
 - Acquire your first enterprise or user customer.
-- **Expected Salary:** $0 to $50,000 plus equity and runway.
+- **Expected Salary:** Competitive plus equity and runway.
 
 **Months 13-20: Scale Operations**
-- Aim for Series A funding between $2 million and $10 million.
+- Aim for Series A funding.
 - Expand your team, user base, and revenue.
-- **Expected Salary:** $100,000 to $250,000 plus equity potential.
+- **Expected Salary:** Competitive plus equity potential.
 
 **Months 21-24: Assume Leadership Role**
 - Lead the funded company as CEO or CTO.
-- **Expected Compensation:** $150,000 to $500,000+ plus equity.
+- **Expected Compensation:** Competitive plus equity.
 
 **Quick Wins:**
-- Accelerator programs like Y Combinator can provide $125,000 to $500,000 in funding.
-- Grants can range from $10,000 to $100,000.
-- Angel investors may contribute between $100,000 and $1 million.
+- Accelerator programs can provide funding.
+- Grants can vary.
+- Angel investors may contribute.
 
 ## Why Argentina Stands Out
 
 **Global Talent Hub:**
 - Home to OpenZeppelin, Decentraland, and many esteemed developers.
 - A proven track record of successful founders with exits and expertise in the field.
-- Cost-effective talent that remains productive at a lower cost than in the United States.
+- Cost-effective talent that remains productive at a lower cost than in many other regions.
 
 **Real-World Application:**
 - In Argentina, cryptocurrency is not speculative; it serves as a necessity amid capital controls and inflation.
@@ -177,7 +177,7 @@ To find the latest remote and local job openings in Argentina’s robust Web3 ec
 - *Solution:* Crypto payments and borderless hiring practices have addressed many of these challenges.
 
 **Challenge 3: Limited Local Capital**
-- *Reality:* Local venture capital funding is less prevalent compared to the US or EU.
+- *Reality:* Local venture capital funding is less prevalent compared to other regions.
 - *Solution:* Seek international investors, grants, and pitch to a global audience.
 
 **Challenge 4: Brain Drain**
@@ -212,7 +212,7 @@ To find the latest remote and local job openings in Argentina’s robust Web3 ec
 
 **Weeks 9-10:**
 - [ ] Secure one consulting or freelance role.
-- [ ] Grow your Twitter following to over 1,000.
+- [ ] Grow your Twitter following.
 - [ ] Develop a plan for the next three months.
 
 **Weeks 11-12:**
@@ -225,11 +225,11 @@ To find the latest remote and local job openings in Argentina’s robust Web3 ec
 - 2+ published articles.
 - Participation in at least one Code4rena or hackathon event.
 - One job or consulting opportunity.
-- A Twitter following of over 1,000.
+- A Twitter following.
 
 ## Career FAQs for Argentina
 
-**What is the most effective path to earning $150,000 or more per year?**
+**What is the most effective path to earning a competitive salary?**
 Smart contract development roles (remote) or protocol contributions combined with grants can lead to this income within 12 to 18 months.
 
 **Should I remain in Argentina or relocate?**

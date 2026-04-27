@@ -29,26 +29,26 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 
 | Role                                      | Level         | Salary Range (GHS)          |
 |-------------------------------------------|---------------|-----------------------------|
-| Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level     | GHS 15,000 - 25,000        |
-|                                           | Senior        | GHS 30,000 - 50,000+       |
-| Frontend Web3 Engineer (React/Viem)      | Mid-Level     | GHS 12,000 - 20,000        |
-| Community Manager / Artist Relations       | Mid-Level     | GHS 8,000 - 15,000+        |
+| Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Mid-Level     | Competitive                 |
+|                                           | Senior        | Competitive                 |
+| Frontend Web3 Engineer (React/Viem)      | Mid-Level     | Competitive                 |
+| Community Manager / Artist Relations       | Mid-Level     | Competitive                 |
 
 ### Complete Salary Guide: Web3 Jobs in Accra
 
 #### Local Opportunities (Growing)
-- **Junior Developer (Web3 Startup):** GHS 12,000–20,000/month (~$1,040–$1,740 USD)
-- **Mid-Level Developer:** GHS 20,000–35,000/month (~$1,740–$3,040 USD)
-- **Community Manager (NFT/Creative Focus):** GHS 8,000–15,000/month (~$690–$1,300 USD)
-- **Artist/Creator (NFT Sales):** Earnings vary; 10–50% of sales
+- **Junior Developer (Web3 Startup):** Competitive monthly salary
+- **Mid-Level Developer:** Competitive monthly salary
+- **Community Manager (NFT/Creative Focus):** Competitive monthly salary
+- **Artist/Creator (NFT Sales):** Earnings vary; percentage of sales
 
 #### Remote Opportunities (Recommended)
-- **Mid-Level Developer:** $2,500–$4,500/month
-- **Senior Developer:** $4,500–$8,000+/month
-- **Product Manager:** $3,000–$6,000/month
-- **Community Lead:** $1,500–$3,500/month
+- **Mid-Level Developer:** Competitive monthly salary
+- **Senior Developer:** Competitive monthly salary
+- **Product Manager:** Competitive monthly salary
+- **Community Lead:** Competitive monthly salary
 
-**Cost of Living Advantage:** Monthly expenses in Accra typically range from $700 to $1,100. Earning a remote salary of $3,500 allows for significant savings, enabling wealth building at a pace not easily achievable in other locations.
+**Cost of Living Advantage:** Monthly expenses in Accra typically range from $700 to $1,100. Earning a remote salary allows for significant savings, enabling wealth building at a pace not easily achievable in other locations.
 
 ## 3 Proven Career Paths to $5,000+/Month in Accra
 
@@ -69,18 +69,18 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 - **Deliverables:** 2-3 completed projects, at least one launched NFT collection, over 1,500 Twitter followers, and artist collaborations.
 
 **Months 9-10: Monetize Reputation**
-- Offer consulting services to Ghanaian artists, charging $50–$150/hour for NFT launch strategies.
+- Offer consulting services to Ghanaian artists, charging competitive rates for NFT launch strategies.
 - Sell NFT tools as services.
-- Secure sponsorships from protocols interested in the African market, aiming for $1,000–$2,500/month.
-- **Expected Income:** $1,500–$3,000/month from consulting and sponsorships.
+- Secure sponsorships from protocols interested in the African market, aiming for competitive monthly income.
+- **Expected Income:** Competitive monthly income from consulting and sponsorships.
 
 **Months 11-12: Scale & Formalize**
 - Obtain a full-time position at a protocol, platform, or NFT marketplace, with an expected salary of $3,000–$5,000/month.
 - Alternatively, continue freelancing and securing sponsorships, with potential earnings of $2,500–$5,000/month.
 
 **Quick Wins:**
-- Launch your own NFT collection and sell it for $500–$5,000+.
-- Conduct NFT workshops for artists, charging $300–$1,000 per session.
+- Launch your own NFT collection and sell it for a competitive price.
+- Conduct NFT workshops for artists, charging competitive rates per session.
 - Create open-source tools for NFT creators and seek sponsorships from protocols.
 
 ### Path 2: Smart Contract & DeFi Developer (Technical Focus) (8-16 Month Timeline)
@@ -100,17 +100,17 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 
 **Months 10-14: Land Role**
 - Apply to DeFi protocols such as Aave, Curve, Uniswap, Balancer, and Lido.
-- Anticipate offers in the range of $4,000–$6,500/month.
+- Anticipate offers in the competitive salary range.
 - Transition to a full-time position.
 
 **Months 15-16: Specialize**
 - Establish yourself in a specific domain, such as security, gas optimization, or innovative mechanisms.
 - This specialization can lead to a senior or founding role.
-- **Expected Compensation:** $5,000–$8,000+/month.
+- **Expected Compensation:** Competitive monthly income.
 
 **Quick Wins:**
-- Win Code4rena audits and earn between $1,000 and $10,000 per win.
-- Provide consulting services for Web3 startups at rates of $100–$250/hour.
+- Win Code4rena audits and earn competitive rewards per win.
+- Provide consulting services for Web3 startups at competitive rates.
 - Publish security research to increase visibility and job prospects.
 
 ### Path 3: Community Leader & Growth Manager (Accra Ecosystem Focus) (6-12 Month Timeline)
@@ -125,9 +125,9 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 **Months 4-6: Monetize**
 - Reach out to protocols like Aave, Uniswap, Lido, and Celo that seek to expand in West Africa.
 - Propose a community manager or ambassador role.
-- Expect your first offer to range from $1,500–$2,500/month.
-- Additional income can come from YouTube sponsorships and newsletter sponsors, totaling $200–$500/month.
-- **Deliverables:** 1-2 paid roles and an income of $1,800–$3,000/month.
+- Expect your first offer to be competitive.
+- Additional income can come from YouTube sponsorships and newsletter sponsors, totaling competitive monthly income.
+- **Deliverables:** 1-2 paid roles and an income of competitive monthly income.
 
 **Months 7-10: Expand & Network**
 - Grow the meetup to over 100 regular attendees.
@@ -135,17 +135,17 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 - Build your Twitter following to exceed 5,000.
 - Host a Web3 hackathon in Accra.
 - Network with pan-African Web3 leaders.
-- **Expected Compensation:** $2,500–$4,500/month.
+- **Expected Compensation:** Competitive monthly income.
 
 **Months 11-12: Strategic Role**
 - Secure a full-time position at a protocol or Web3 education startup.
-- **Expected Compensation:** $3,000–$6,000+/month or equity.
+- **Expected Compensation:** Competitive monthly income or equity.
 
 **Quick Wins:**
-- Generate YouTube sponsorships ranging from $200 to $1,000/month.
-- Establish an ambassador program for major protocols, earning $500–$1,500/month plus bonuses.
-- Command speaking fees at conferences, ranging from $1,000 to $3,000 per talk.
-- Launch a Substack newsletter with 5,000 subscribers at $5/month, totaling $25,000/year.
+- Generate YouTube sponsorships ranging from competitive amounts.
+- Establish an ambassador program for major protocols, earning competitive amounts plus bonuses.
+- Command speaking fees at conferences, ranging from competitive amounts per talk.
+- Launch a Substack newsletter with a significant subscriber base.
 
 ## Challenges & Real Solutions
 
@@ -198,7 +198,7 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 **Week 9-10:**
 - [ ] Publish your third article.
 - [ ] Attend two online Web3 events.
-- [ ] Secure your first Upwork contract ($200–$500).
+- [ ] Secure your first Upwork contract (competitive amount).
 - [ ] Host your second meetup, aiming for 30+ attendees.
 
 **Week 11-12:**
@@ -211,7 +211,7 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 **Outputs after 90 days:**
 - Three completed projects on GitHub.
 - Three published articles.
-- 1-2 paid contracts worth $200–$1,000.
+- 1-2 paid contracts worth competitive amounts.
 - A Twitter following exceeding 1,000.
 - One active meetup with at least 10 attendees.
 - 1-2 job interviews.
@@ -230,17 +230,17 @@ Exercise caution and avoid unlicensed schemes.
 
 **Should I focus on creative (NFT/art) or technical (DeFi)?**
 Your choice should depend on your strengths:
-- **Creative:** Faster monetization potential ($1,000–$3,000/month within 3-4 months); lower technical barriers; less competition.
-- **Technical:** Higher earning potential ($5,000–$10,000+/month); stable employment opportunities; greater global demand.
+- **Creative:** Faster monetization potential; lower technical barriers; less competition.
+- **Technical:** Higher earning potential; stable employment opportunities; greater global demand.
 
 Starting with the creative aspect may offer quicker income, with the option to add technical skills later.
 
 **What's the fastest way to earn $2,000/month?**
 In order of speed:
-1. **Community management:** $500–$1,500/month (Months 1-2).
-2. **NFT creator/artist:** $500–$2,000/month (Months 1-3, if you have existing art).
-3. **Freelance (Upwork):** $50–$150/hour (Months 1-2).
-4. **Remote junior developer:** $1,500–$2,500/month (Months 4-6).
+1. **Community management:** Competitive monthly income.
+2. **NFT creator/artist:** Competitive monthly income (if you have existing art).
+3. **Freelance (Upwork):** Competitive hourly rates.
+4. **Remote junior developer:** Competitive monthly income.
 
 **How do I stand out as an Accra creator?**
 Your location provides a unique advantage:
@@ -265,20 +265,20 @@ No, unless a specific opportunity arises. Reasons include:
 **What if I lack coding skills?**
 You can still begin your Web3 journey:
 - Roles in community management, marketing, and artist relations do not require coding.
-- Start in these areas to earn $1,500–$2,500/month, then consider learning to code if it interests you.
+- Start in these areas to earn competitive monthly income, then consider learning to code if it interests you.
 
 **How can I monetize a YouTube channel focused on Web3?**
 - Join the YouTube Partner Program (1,000 subscribers and 4,000 watch hours needed for ad revenue).
-- Seek brand sponsorships from companies like Brave and Crypto.com, earning $500–$3,000 per video.
-- Utilize affiliate marketing with exchanges and wallets, earning 5–30% per referral.
-- Consider Patreon or Substack for premium content, charging $5–$20 per subscriber monthly.
+- Seek brand sponsorships from companies, earning competitive amounts per video.
+- Utilize affiliate marketing with exchanges and wallets, earning a percentage per referral.
+- Consider Patreon or Substack for premium content, charging a monthly fee.
 
-Realistically, achieving 5,000 subscribers can yield $1,000–$3,000 monthly from various income streams.
+Realistically, achieving a significant subscriber base can yield competitive monthly income from various income streams.
 
 **What does salary progression look like?**
-- **Year 1:** $1,500–$3,000/month (freelancing and community roles).
-- **Year 2:** $3,000–$5,000/month (mid-level positions).
-- **Year 3+:** $5,000–$10,000+/month (senior roles or entrepreneurship).
+- **Year 1:** Competitive monthly income (freelancing and community roles).
+- **Year 2:** Competitive monthly income (mid-level positions).
+- **Year 3+:** Competitive monthly income (senior roles or entrepreneurship).
 
 **How do I find a mentor?**
 - Engage with developers you admire on Twitter.
@@ -288,15 +288,15 @@ Realistically, achieving 5,000 subscribers can yield $1,000–$3,000 monthly fro
 
 **Should I pursue funding for a startup?**
 Focus on building your wealth first:
-- In the first one to two years, earn a remote salary and save 80% of your income.
-- Accumulate savings of $100,000–$200,000 over two to three years before considering startup funding.
+- In the first one to two years, earn a remote salary and save a significant portion of your income.
+- Accumulate savings before considering startup funding.
 
 Personal wealth acts as a safety net and enables better entrepreneurship.
 
 **What if I want to stay local and build in Accra?**
 This is possible but may present challenges:
 - The local job market is limited.
-- Earnings will generally be lower (GHS 12,000–35,000/month versus $3,000–$8,000 for remote roles).
+- Earnings will generally be lower compared to remote roles.
 - Building a community role can be valuable locally.
 - The recommendation is to pursue remote opportunities initially, then return locally after accruing wealth and connections.
 
@@ -309,10 +309,10 @@ This is possible but may present challenges:
 - **Ethereum.org:** Official technical documentation.
 
 ### Communities & Networking
-- **Twitter:** Follow influential figures like @VitalikButerin, @austingriffith, @balajis, and @cdixon.
+- **Twitter:** Follow influential figures.
 - **Discord:** Join communities such as Ethereum Research, Aave, Uniswap, and Celo.
 - **Accra:** Participate in DevCongress, local DAOs, and meetups.
-- **Conferences:** Attend events like EthDubai, EthCC, and the Africa Blockchain Summit.
+- **Conferences:** Attend events relevant to Web3.
 
 ### Job Boards & Applications
 - **Our Web3 Job Board** (/jobs): A resource for remote roles.
@@ -335,8 +335,8 @@ This is possible but may present challenges:
 ### Deep-Dive Reading
 - "Mastering Ethereum" by Andreas M. Antonopoulos and Gavin Wood.
 - "The Age of Cryptocurrency" by Paul Vigna and Michael J. Casey.
-- Subscribe to the Bankless newsletter.
-- Explore research from Paradigm.
+- Subscribe to relevant newsletters.
+- Explore research from reputable sources.
 
 ### Your Next Step: Find a Web3 Job
 

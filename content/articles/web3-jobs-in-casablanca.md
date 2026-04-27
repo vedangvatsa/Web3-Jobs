@@ -35,7 +35,7 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 - **FinTech / Blockchain Developer (Java, Python, [Solidity](/best-programming-languages-for-blockchain-development)):** There is a demand for skilled software engineers, especially those with financial services backgrounds who can apply their knowledge to blockchain applications.
   
 - **Product Manager (FinTech):** Professionals who understand financial products and can design compliant, user-friendly digital asset solutions are in high demand. 
-- 
+
 - **Business Development (Cross-Border Partnerships):** Individuals who can forge partnerships with European and African firms to enhance trade and payment solutions using blockchain technology are well-positioned in the job market.
 
 ### Building a Web3 Career in Casablanca
@@ -49,11 +49,11 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 
 **Developer Compensation:**
 
-| Role                   | Salary Range (MAD/month)    | Approx. USD Equivalent     |
-|------------------------|------------------------------|-----------------------------|
-| Junior Developer (0-1 year) | 12,000 - 20,000            | $1,200 - $2,000           |
-| Mid-Level Developer (1-3 years) | 22,000 - 40,000            | $2,200 - $4,000           |
-| Senior Developer (3+ years) | 40,000 - 65,000+           | $4,000 - $6,500+          |
+| Role                   | Salary Range (MAD/month)    |
+|------------------------|------------------------------|
+| Junior Developer (0-1 year) | 12,000 - 20,000            |
+| Mid-Level Developer (1-3 years) | 22,000 - 40,000            |
+| Senior Developer (3+ years) | 40,000 - 65,000+           |
 
 **Finance & Product:**
 
@@ -70,8 +70,8 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 | International Web3 roles      | $2,500 - $6,000+            |
 | Consulting                    | $60 - $130/hour              |
 
-**Cost of Living Analysis**
-For a remote developer earning $4,500 per month:
+**Cost of Living Analysis**  
+For a remote developer earning a competitive salary:
 - Rent in a desirable area: $500 - $800 per month
 - Living expenses: $300 - $500 per month
 - Total monthly expenses: $800 - $1,300
@@ -117,8 +117,8 @@ For a remote developer earning $4,500 per month:
 
 **Months 9-12: Partnerships & Funding**
 - Seek trade finance grants.
-- Present proposals to the World Bank, African Development Bank, and ITC.
-- Expected funding or partnership: $20,000 - $50,000.
+- Present proposals to relevant financial institutions.
+- Expected funding or partnership: significant value.
 
 **Months 13-18: Implementation**
 - Launch a pilot with a port or customs authority.
@@ -136,7 +136,7 @@ For a remote developer earning $4,500 per month:
 **Months 3-6: Audience Engagement**
 - Publish consistently about Web3 and local opportunities.
 - Organize a Casablanca Web3 meetup and online community for the MENA region.
-- Target: 1,000+ followers, 80+ local members.
+- Target: significant follower growth and local membership.
 - Commitment: 15-20 hours/week.
 
 **Months 7-9: Monetization**
@@ -160,14 +160,14 @@ Banks are slow to adopt blockchain technology. Start with pilot projects that de
 Customs and port authorities can be resistant to change. First movers have the chance to capture a significant market share.
 
 **Internet Stability**  
-Internet speeds in Casablanca typically range from 10 to 30 Mbps. Utilize tech hubs with better infrastructure and maintain a backup mobile hotspot.
+Internet speeds in Casablanca typically range from moderate to good. Utilize tech hubs with better infrastructure and maintain a backup mobile hotspot.
 
 ### 90-Day Action Plan
 
 **Days 1-10:** Set up accounts on GitHub and Twitter, and choose a career path.  
 **Days 11-30:** Build foundational knowledge through courses and initiate your first project.  
-**Days 31-60:** Expand your network by meeting banks and traders, aiming for 300 followers on social media.  
-**Days 61-90:** Achieve traction by securing your first contract, partnership, or reaching 500 followers.
+**Days 31-60:** Expand your network by meeting banks and traders, aiming for significant social media engagement.  
+**Days 61-90:** Achieve traction by securing your first contract, partnership, or reaching a notable follower milestone.
 
 ### FAQs
 
@@ -180,19 +180,19 @@ For business roles, Arabic is highly beneficial. For technical positions, profic
 **How should I approach banks for Web3 projects?**  
 Initiate contact with the innovation labs of banks. Reach out to the CTO or innovation director via email, presenting a specific use case to secure a meeting.
 
-**Can I earn $3,000 or more in Casablanca?**  
-Yes, you can achieve this through remote Web3 roles, which typically pay between $3,000 and $6,000, or through senior local positions that offer $3,500 to $5,000+. This can be accomplished within a timeline of 9 to 13 months.
+**Can I earn a competitive salary in Casablanca?**  
+Yes, you can achieve this through remote Web3 roles, which typically pay well, or through senior local positions that offer competitive salaries. This can be accomplished within a timeline of 9 to 13 months.
 
 **Which is a better strategy: working for a bank or a startup?**  
 A bank job offers more stability, while startups present greater upside potential. Consider combining both by securing a position in a bank's innovation lab focused on FinTech projects.
 
 **Should I prioritize remittances in my career?**  
-Yes, remittances present a significant opportunity. With over $7 billion in annual remittances to Morocco, there is a prime opportunity for innovation, particularly in stablecoin applications.
+Yes, remittances present a significant opportunity. With substantial annual remittances to Morocco, there is a prime opportunity for innovation, particularly in stablecoin applications.
 
 **How significant is trade finance in this context?**  
-Trade finance is equally important. The Port of Casablanca handles vast volumes, and blockchain technology can simplify paperwork by up to 40%, which is appealing to banks.
+Trade finance is equally important. The Port of Casablanca handles vast volumes, and blockchain technology can simplify paperwork significantly, which is appealing to banks.
 
-**What is the expected timeline to reach $2,500/month?**  
+**What is the expected timeline to reach a competitive salary?**  
 You can achieve this within 8 to 12 months, which includes approximately four months of learning, two to three months of freelancing, and an additional two to three months to secure a full-time role.
 
 ### Conclusion

@@ -30,10 +30,10 @@ Harare's crypto ecosystem is pragmatic and utility-focused.
 
 The formal Web3 job market in Harare is limited, but it presents lucrative remote opportunities with international companies seeking local talent with real-world crypto expertise.
 
-| Role | Description | Salary Range (USD/month) |
-|------|-------------|---------------------------|
-| **Smart Contract / DeFi Developer** | Highly sought after for building secure financial protocols | $4,000 - $8,000+ |
-| **Community Manager / Growth Lead** | Focuses on authentic user engagement across Africa | $1,500 - $3,000+ |
+| Role | Description | Salary Range |
+|------|-------------|--------------|
+| **Smart Contract / DeFi Developer** | Highly sought after for building secure financial protocols | Competitive |
+| **Community Manager / Growth Lead** | Focuses on authentic user engagement across Africa | Competitive |
 | **FinTech Product Manager** | Designs Web3 products that address local financial pain points | Varies based on experience |
 
 The most promising opportunities for Zimbabwean professionals lie in remote positions with companies that appreciate their unique insights and resilience.
@@ -51,29 +51,29 @@ The most promising opportunities for Zimbabwean professionals lie in remote posi
 ### Salary Breakdown
 
 - **Developer Compensation:**
-  - Junior DeFi Developer (0-1 year): $2,000-$3,500/month (remote)
-  - Mid-Level Developer (1-3 years): $4,000-$7,000/month (remote)
-  - Senior Developer (3+ years): $7,000-$13,000+/month (remote)
+  - Junior DeFi Developer (0-1 year): Competitive (remote)
+  - Mid-Level Developer (1-3 years): Competitive (remote)
+  - Senior Developer (3+ years): Competitive (remote)
 
 - **Growth & Community Roles:**
-  - Community Manager (Africa Focus): $1,500-$3,000/month (remote)
-  - Growth Lead: $2,500-$4,500/month (remote)
-  - Product Manager: $3,500-$6,500/month (remote)
+  - Community Manager (Africa Focus): Competitive (remote)
+  - Growth Lead: Competitive (remote)
+  - Product Manager: Competitive (remote)
 
 - **[Freelance](/how-to-start-freelancing-for-beginners)/Consulting Rates:**
-  - Smart contract audit: $1,500-$3,500 per contract
-  - DeFi consulting: $75-$150/hour
-  - On-chain analysis: $50-$100/hour
+  - Smart contract audit: Competitive per contract
+  - DeFi consulting: Competitive per hour
+  - On-chain analysis: Competitive per hour
 
 **Real-World Impact of Web3 Salaries in Harare**
-A mid-level developer earning $5,000/month in stablecoins can expect to have substantial purchasing power. Here’s a breakdown of typical living expenses:
+A mid-level developer earning a competitive salary in stablecoins can expect to have substantial purchasing power. Here’s a breakdown of typical living expenses:
 
-| Expense Category | Estimated Cost (USD/month) |
-|------------------|-----------------------------|
-| Rent (nice apartment) | $200-$400 |
-| Food & Living | $200-$350 |
-| **Total Expenses** | **$400-$750** |
-| **Savings Rate** | **85-92%** |
+| Expense Category | Estimated Cost |
+|------------------|-----------------|
+| Rent (nice apartment) | Competitive |
+| Food & Living | Competitive |
+| **Total Expenses** | **Competitive** |
+| **Savings Rate** | **High** |
 
 Maintaining savings in crypto is essential to counteract the effects of inflation on the Zimbabwean Dollar (ZWL).
 
@@ -97,12 +97,12 @@ Maintaining savings in crypto is essential to counteract the effects of inflatio
   - Complete three to four freelance DeFi contracts.
   - Audit smart contracts.
   - Build a reputation in DeFi communities (e.g., Discord, Twitter).
-  - Expected income: $1,500-$3,000/month.
+  - Expected income: Competitive.
 
 - **Months 10-14: Full-Time Role**
   - Aim for a mid-level developer position.
   - Apply to projects like Aave or Compound.
-  - Expected salary: $4,000-$7,000/month.
+  - Expected salary: Competitive.
 
 #### Path 2: Africa-Focused Growth & Community Lead (10-16 months)
 
@@ -122,17 +122,17 @@ Maintaining savings in crypto is essential to counteract the effects of inflatio
 - **Months 9-12: Commercial Opportunities**
   - Receive offers from DAOs/companies seeking a growth lead focused on Africa.
   - Negotiate initial retainer or contract.
-  - Expected income: $2,000-$3,500/month.
+  - Expected income: Competitive.
 
 - **Months 13-16: Full-Time Position**
   - Secure a community manager or growth lead role.
-  - Expected salary: $3,000-$5,000+/month.
+  - Expected salary: Competitive.
 
 #### Path 3: On-Chain Data & Research Specialist (9-15 months)
 
 - **Months 1-3: Blockchain Data Fundamentals**
   - Learn to use tools like The Graph and Dune Analytics.
-  - Understand on-chain data analysis and key metrics (e.g., TVL, gas prices).
+  - Understand on-chain data analysis and key metrics.
   - Time commitment: 15-20 hours/week.
 
 - **Months 4-6: Research & Analysis**
@@ -143,11 +143,11 @@ Maintaining savings in crypto is essential to counteract the effects of inflatio
 
 - **Months 7-9: Consulting & Income**
   - Begin receiving consulting offers from projects needing African market insights.
-  - Expected income: $1,000-$2,500/month.
+  - Expected income: Competitive.
 
 - **Months 10-15: Full-Time Research Role**
   - Target a research analyst or strategist position.
-  - Expected salary: $3,500-$6,000/month.
+  - Expected salary: Competitive.
 
 ### Challenges and Solutions
 
@@ -155,7 +155,7 @@ Maintaining savings in crypto is essential to counteract the effects of inflatio
 
 - **Banking System Limitations:** Moving money in and out of the country is difficult. Use crypto as an alternative and familiarize yourself with local off-ramps.
 
-- **Internet Reliability:** Internet speeds fluctuate between 5-20 Mbps, with occasional outages. Have a reliable backup (like a mobile hotspot) and schedule critical work during stable hours.
+- **Internet Reliability:** Internet speeds fluctuate, with occasional outages. Have a reliable backup (like a mobile hotspot) and schedule critical work during stable hours.
 
 - **Limited Local Opportunities:** With few local Web3 companies, focus on remote work. Your understanding of Zimbabwe’s market can be a unique asset for international projects.
 
@@ -178,24 +178,24 @@ Maintaining savings in crypto is essential to counteract the effects of inflatio
 - Complete a second significant project or analysis.
 - Find a mentor in your chosen field.
 - Apply for three entry-level roles or consulting opportunities.
-- Aim for 300+ Twitter followers.
+- Aim for a competitive number of Twitter followers.
 
 **Days 61-90: Achieve Your First Income**
 - Secure your first freelance contract or part-time role.
-- Expected earnings: $300-$1,500 for the quarter.
+- Expected earnings: Competitive for the quarter.
 - Alternatively, negotiate a full-time offer.
 - Plan the next 90-day phase to continue your growth.
 
 ### Frequently Asked Questions
 
 **What is the earning potential for remote work from Zimbabwe?**
-Many remote Web3 roles can pay upwards of $5,000/month. With dedicated learning and building, this can be achievable within 8-12 months.
+Many remote Web3 roles can pay competitively. With dedicated learning and building, this can be achievable within 8-12 months.
 
 **What methods can I use to transfer money out of Zimbabwe?**
-Negotiate contracts in cryptocurrency or stablecoins. Utilize peer-to-peer exchanges like LocalBitcoins or authorized dealers for transactions.
+Negotiate contracts in cryptocurrency or stablecoins. Utilize peer-to-peer exchanges or authorized dealers for transactions.
 
 **Is cryptocurrency legal in Zimbabwe?**
-Yes, cryptocurrency is legal but regulated. The central bank has established guidelines. Use compliant platforms such as Coinbase or Kraken and avoid unregistered exchanges.
+Yes, cryptocurrency is legal but regulated. The central bank has established guidelines. Use compliant platforms and avoid unregistered exchanges.
 
 **Which cryptocurrencies should I focus on?**
 Start with Bitcoin as it serves best as a store of value. Next, focus on Ethereum due to its extensive job opportunities. Delay exploring altcoins until you have a solid understanding of the fundamentals.

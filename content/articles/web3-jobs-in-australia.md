@@ -39,16 +39,16 @@ Australia hosts several globally recognized Web3 firms and innovative startups:
 
 The demand for Web3 talent in Australia remains robust, particularly for experienced technical professionals. Salaries in this sector frequently exceed those in traditional tech roles.
 
-| **Role**                             | **Experience Level** | **Salary Range (AUD)**         |
-|--------------------------------------|----------------------|---------------------------------|
-| **[Smart Contract](/what-are-smart-contracts) Developer (Solidity/Rust)** | Mid-Level (2-4 years)   | $120,000 - $160,000            |
-|                                      | Senior (5+ years)    | $160,000 - $220,000+           |
+| **Role**                             | **Experience Level** | **Salary Range**                 |
+|--------------------------------------|----------------------|----------------------------------|
+| **[Smart Contract](/what-are-smart-contracts) Developer (Solidity/Rust)** | Mid-Level (2-4 years)   | Competitive                      |
+|                                      | Senior (5+ years)    | Competitive                      |
 |                                      | *Note: Token allocations can significantly increase total compensation.* |
-| **Frontend/Full-Stack Web3 Engineer (React, Ethers.js/Viem)** | Mid-Level               | $110,000 - $150,000            |
-|                                      | Senior                | $150,000 - $200,000+           |
-| **Non-Technical Roles**              | Product Manager       | $130,000 - $190,000+           |
-|                                      | Marketing Manager     | $90,000 - $150,000+            |
-|                                      | Community Manager     | $80,000 - $120,000+            |
+| **Frontend/Full-Stack Web3 Engineer (React, Ethers.js/Viem)** | Mid-Level               | Competitive                      |
+|                                      | Senior                | Competitive                      |
+| **Non-Technical Roles**              | Product Manager       | Competitive                      |
+|                                      | Marketing Manager     | Competitive                      |
+|                                      | Community Manager     | Competitive                      |
 
 ### Strategies for Securing a Web3 Job in Australia
 
@@ -72,7 +72,7 @@ The Web3 sector is experiencing rapid growth, with demand for qualified talent s
 
 The Web3 job market operates under different dynamics than Web2:
 
-- **Compensation**: Web3 roles typically offer salaries 20-40% higher than comparable Web2 positions, often including bonuses and equity components.
+- **Compensation**: Web3 roles typically offer salaries higher than comparable Web2 positions, often including bonuses and equity components.
 - **Remote-First Culture**: Many Web3 organizations operate primarily or entirely remotely, providing a level of flexibility that is less common in traditional tech environments.
 - **Growth Trajectory**: Rapid company scaling and talent shortages enable faster career progression in Web3.
 - **Equity Upside**: Token and equity packages are standard, creating substantial wealth-building potential.
@@ -122,7 +122,7 @@ Pursue roles that align your existing expertise with your newfound Web3 knowledg
 
 ### Real-World Success Stories
 
-**Developer to Smart Contract Engineer**: Alex, a backend engineer with five years of experience at a top tech company, dedicated three months to learning Solidity while working full-time. His contributions to an open-source protocol attracted a major DeFi project, allowing him to transition with a 50% salary increase and substantial equity.
+**Developer to Smart Contract Engineer**: Alex, a backend engineer with five years of experience at a top tech company, dedicated three months to learning Solidity while working full-time. His contributions to an open-source protocol attracted a major DeFi project, allowing him to transition with a significant salary increase and substantial equity.
 
 **Product Manager in Web3**: Jessica, a product manager from traditional finance, combined her knowledge of financial products with Web3 technology. She secured a role at a leading DeFi protocol within four weeks, demonstrating the value of her domain expertise.
 
@@ -144,7 +144,7 @@ Pursue roles that align your existing expertise with your newfound Web3 knowledg
 A: No. The Web3 ecosystem requires diverse roles beyond engineering, such as marketing managers, community leaders, product designers, legal counsel, operations specialists, and business development professionals. Your existing skills are transferable; you will need to understand the Web3 context, including wallets, DAOs, and the significance of decentralization.
 
 **Q: How much can I earn in Web3?**
-A: Web3 compensation consistently exceeds Web2 salaries. Base salaries are typically 30-60% higher on average, particularly for Solidity engineers and smart contract auditors due to high demand. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols regularly earn between $200,000 and $350,000 in total compensation, while non-technical roles also command meaningful premiums over comparable Web2 positions.
+A: Web3 compensation consistently exceeds Web2 salaries. Base salaries are typically higher on average, particularly for Solidity engineers and smart contract auditors due to high demand. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols regularly earn competitive total compensation, while non-technical roles also command meaningful premiums over comparable Web2 positions.
 
 **Q: Is it risky to transition to Web3?**
 A: All career transitions carry risks, and Web3 is no different, particularly given market volatility. You can mitigate this risk by targeting established protocols with proven revenue, verifying team credentials, and negotiating base salaries in fiat. Approaching Web3 as a long-term career move rather than a speculative opportunity can lead to stable roles that endure market fluctuations.
@@ -157,7 +157,7 @@ A: Bear markets often present the best opportunities to enter Web3. As speculati
 
 ## Key Takeaways
 
-- Web3 offers substantial compensation premiums (20-40% above Web2 equivalents), accelerated career growth, and the chance to contribute to transformative technology.
+- Web3 offers substantial compensation premiums above Web2 equivalents, accelerated career growth, and the chance to contribute to transformative technology.
 - Transitioning to Web3 can typically take 2-6 months, with engineers and product managers often moving fastest due to their transferable skills.
 - Your existing expertise is valuable in Web3. Focus on layering blockchain-specific knowledge onto your current skill set rather than starting from scratch.
 - Networking through Discord and Twitter, alongside visible portfolio projects on platforms like GitHub, is more effective than formal certifications for securing Web3 roles.
