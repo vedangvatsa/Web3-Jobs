@@ -1,0 +1,9 @@
+---
+name: Talos
+category: Other
+description: Talos provides institutional-grade trading and settlement solutions for digital assets.
+---
+
+Talos offers a platform that enables institutional investors to trade, settle, and manage digital assets. Their solutions are designed to streamline the trading process and enhance operational efficiency for financial institutions. The company focuses on providing a comprehensive suite of tools for trading, risk management, and compliance in the digital asset space.
+
+Talos currently has job openings for various roles, including Sales Associates in New York, Singapore, and EMEA, as well as positions in financial operations and accounting. The company aims to attract talent that can contribute to its mission of facilitating digital asset trading for institutions.
