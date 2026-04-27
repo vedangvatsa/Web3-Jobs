@@ -1,5 +1,6 @@
 ---
 name: Bybit
+website: https://bybit.com
 category: Cryptocurrency Exchange
 description: Bybit is a cryptocurrency exchange offering trading services for various digital assets.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Sei Labs
+website: https://seilabs.com
 category: Blockchain Infrastructure
 description: Sei Labs develops a blockchain optimized for decentralized finance applications.
 ---

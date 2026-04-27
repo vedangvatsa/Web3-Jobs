@@ -1,5 +1,6 @@
 ---
 name: OpenZeppelin
+website: https://openzeppelin.com
 category: Developer Tools
 description: OpenZeppelin provides security solutions for blockchain applications.
 ---

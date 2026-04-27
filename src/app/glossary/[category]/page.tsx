@@ -42,9 +42,10 @@ const CATEGORY_CONTENT: Record<string, { description: string }> = {
   },
 };
 
+export const dynamicParams = true;
+
 export async function generateStaticParams() {
-  // All 157 glossary categories are generated on-demand via ISR.
-  // They are low-traffic SEO pages that don't need to be pre-rendered.
+  // All glossary categories are generated on-demand via ISR.
   return [];
 }
 

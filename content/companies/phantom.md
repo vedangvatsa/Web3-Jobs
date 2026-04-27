@@ -1,5 +1,6 @@
 ---
 name: Phantom
+website: https://phantom.app
 founded: 2021
 category: Crypto Wallet
 headquarters: San Francisco, California, USA

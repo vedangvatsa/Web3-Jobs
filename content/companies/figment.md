@@ -1,5 +1,6 @@
 ---
 name: Figment
+website: https://figment.io
 category: Blockchain Infrastructure
 description: Figment provides infrastructure and tools for blockchain networks and Web3 applications.
 ---

@@ -1,5 +1,6 @@
 ---
 name: OKX
+website: https://www.okx.com
 founded: 2017
 category: Cryptocurrency Exchange
 headquarters: Seychelles

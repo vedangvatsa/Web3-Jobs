@@ -1,5 +1,6 @@
 ---
 name: Securitize
+website: https://securitize.com
 category: Other
 description: Securitize provides a platform for digital securities and compliance solutions.
 ---

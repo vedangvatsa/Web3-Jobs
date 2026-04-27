@@ -1,5 +1,6 @@
 ---
 name: Gate.io
+website: https://www.gate.io
 category: Cryptocurrency Exchange
 description: Gate.io is a cryptocurrency exchange offering trading services for various digital assets.
 ---

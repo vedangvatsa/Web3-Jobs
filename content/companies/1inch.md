@@ -1,5 +1,6 @@
 ---
 name: 1inch
+website: https://1inch.io
 category: DeFi Protocol
 description: 1inch is a decentralized exchange aggregator.
 ---

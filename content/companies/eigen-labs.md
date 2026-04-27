@@ -1,5 +1,6 @@
 ---
 name: Eigen Labs
+website: https://eigenlabs.xyz
 category: Other
 description: Eigen Labs focuses on AI and blockchain technology solutions.
 ---

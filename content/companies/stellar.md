@@ -1,5 +1,6 @@
 ---
 name: Stellar
+website: https://stellar.org
 category: Blockchain Infrastructure
 description: Stellar is a platform for cross-border payments and financial services.
 ---

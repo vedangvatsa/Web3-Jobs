@@ -1,5 +1,6 @@
 ---
 name: Aave
+website: https://aave.com
 founded: 2017
 category: DeFi Protocol
 headquarters: London, United Kingdom

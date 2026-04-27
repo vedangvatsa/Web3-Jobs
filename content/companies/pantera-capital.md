@@ -1,5 +1,6 @@
 ---
 name: Pantera Capital
+website: https://www.panteracapital.com
 category: Other
 description: Investment firm focused on blockchain technology and digital currencies.
 ---

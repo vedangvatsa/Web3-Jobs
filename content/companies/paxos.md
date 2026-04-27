@@ -1,5 +1,6 @@
 ---
 name: Paxos
+website: https://paxos.com
 category: Crypto Payments
 description: Paxos provides blockchain-based solutions for financial institutions and digital assets.
 ---

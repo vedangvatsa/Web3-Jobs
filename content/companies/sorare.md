@@ -1,5 +1,6 @@
 ---
 name: Sorare
+website: https://sorare.com
 category: NFT Platform
 description: Sorare is a fantasy sports platform using blockchain technology for digital collectibles.
 ---
