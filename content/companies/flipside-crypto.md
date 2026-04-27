@@ -1,5 +1,6 @@
 ---
 name: Flipside Crypto
+website: https://flipsidecrypto.com
 category: Blockchain Analytics
 description: Flipside Crypto provides blockchain data analytics and insights for businesses.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Bitpanda
+website: https://bitpanda.com
 category: Cryptocurrency Exchange
 description: Bitpanda is a European cryptocurrency exchange offering trading and investment services.
 ---

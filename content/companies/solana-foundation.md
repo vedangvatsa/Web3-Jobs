@@ -1,5 +1,6 @@
 ---
 name: Solana Foundation
+website: https://solana.foundation
 category: Other
 description: Supports the Solana blockchain ecosystem through grants and community initiatives.
 ---

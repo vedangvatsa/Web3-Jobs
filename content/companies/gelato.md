@@ -1,5 +1,6 @@
 ---
 name: Gelato
+website: https://gelato.network
 category: Developer Tools
 description: Gelato provides automated transaction execution for decentralized applications.
 ---

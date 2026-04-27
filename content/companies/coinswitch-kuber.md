@@ -1,5 +1,6 @@
 ---
 name: CoinSwitch Kuber
+website: https://coinswitch.co
 category: Cryptocurrency Exchange
 description: A cryptocurrency exchange platform for buying and selling digital assets in India.
 ---

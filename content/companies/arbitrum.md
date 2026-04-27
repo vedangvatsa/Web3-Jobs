@@ -1,5 +1,6 @@
 ---
 name: Arbitrum
+website: https://arbitrum.org
 category: Layer 1/Layer 2
 description: Arbitrum is a Layer 2 scaling solution for Ethereum.
 ---

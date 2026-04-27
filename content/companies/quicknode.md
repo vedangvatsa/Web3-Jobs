@@ -1,5 +1,6 @@
 ---
 name: QuickNode
+website: https://quicknode.com
 category: Blockchain Infrastructure
 description: QuickNode provides infrastructure solutions for blockchain applications.
 ---

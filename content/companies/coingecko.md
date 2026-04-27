@@ -1,5 +1,6 @@
 ---
 name: CoinGecko
+website: https://www.coingecko.com
 category: Blockchain Analytics
 description: CoinGecko provides cryptocurrency market data and analytics.
 ---

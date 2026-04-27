@@ -1,5 +1,6 @@
 ---
 name: BitGo
+website: https://www.bitgo.com
 founded: 2013
 category: Digital Asset Infrastructure
 headquarters: Palo Alto, California, USA

@@ -1,5 +1,6 @@
 ---
 name: TrustSwap
+website: https://trustswap.org
 category: DeFi Protocol
 description: TrustSwap provides smart contract solutions for decentralized finance applications.
 ---

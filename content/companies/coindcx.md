@@ -1,5 +1,6 @@
 ---
 name: CoinDCX
+website: https://coindcx.com
 category: Cryptocurrency Exchange
 description: CoinDCX is a cryptocurrency exchange offering a wide range of digital assets.
 ---

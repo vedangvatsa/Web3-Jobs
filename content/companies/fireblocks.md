@@ -1,5 +1,6 @@
 ---
 name: Fireblocks
+website: https://fireblocks.com
 founded: 2018
 category: Digital Asset Infrastructure
 headquarters: New York, New York, USA

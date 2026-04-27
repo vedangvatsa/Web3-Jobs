@@ -1,5 +1,6 @@
 ---
 name: 0x Labs
+website: https://0x.org
 category: DeFi Protocol
 description: 0x Labs develops decentralized exchange protocols for Ethereum and other blockchains.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Stacks
+website: https://stacks.co
 category: Blockchain Infrastructure
 description: Stacks enables smart contracts and decentralized applications on Bitcoin.
 ---

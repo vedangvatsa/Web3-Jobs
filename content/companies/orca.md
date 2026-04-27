@@ -1,5 +1,6 @@
 ---
 name: Orca
+website: https://orca.so
 category: DeFi Protocol
 description: Orca is a decentralized exchange focused on providing efficient trading solutions.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Bitso
+website: https://bitso.com
 category: Cryptocurrency Exchange
 description: Bitso is a cryptocurrency exchange operating in Latin America.
 ---

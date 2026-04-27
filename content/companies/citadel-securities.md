@@ -1,5 +1,6 @@
 ---
 name: Citadel Securities
+website: https://www.citadelsecurities.com
 category: Other
 description: Citadel Securities is a leading global market maker in financial products.
 ---

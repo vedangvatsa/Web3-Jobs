@@ -1,5 +1,6 @@
 ---
 name: Uniswap
+website: https://uniswap.org
 founded: 2018
 category: DeFi Protocol
 headquarters: New York, New York, USA

@@ -1,5 +1,6 @@
 ---
 name: Astar Foundation
+website: https://astar.network
 category: Other
 description: Astar Foundation supports the Astar Network for decentralized applications.
 ---

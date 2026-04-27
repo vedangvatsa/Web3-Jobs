@@ -1,5 +1,6 @@
 ---
 name: Lightspark
+website: https://lightspark.com
 category: Other
 description: Lightspark focuses on payments solutions in the Bitcoin ecosystem.
 ---

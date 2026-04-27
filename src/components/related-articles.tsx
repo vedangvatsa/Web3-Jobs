@@ -28,24 +28,24 @@ export function RelatedArticles({ allArticles, currentCategory, currentSlug }: R
   }
 
   return (
-    <div className="my-16">
-      <h2 className="text-3xl font-bold text-center mb-8 flex items-center justify-center gap-3"><BookOpen className="h-8 w-8"/> Related Reading</h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+    <div className="my-16 max-w-4xl mx-auto px-4">
+      <h2 className="text-2xl font-bold text-center mb-8 flex items-center justify-center gap-3"><BookOpen className="h-6 w-6"/> Related Reading</h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         {related.map(article => (
-          <Card key={article.slug} className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-xl">
+          <Card key={article.slug} className="flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-lg">
             <Link href={`/${article.slug}`} className="block h-full flex flex-col">
-              <div className="relative w-full h-40">
+              <div className="relative w-full h-36">
                 <Image
                   src={article.image}
                   alt={article.title}
                   fill
                   className="object-cover rounded-t-lg"
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                   data-ai-hint={article['data-ai-hint'] || ''}
                 />
               </div>
-              <CardHeader className="flex-grow">
-                <CardTitle className="text-md leading-tight">{article.title}</CardTitle>
+              <CardHeader className="flex-grow p-3">
+                <CardTitle className="text-sm leading-snug line-clamp-2">{article.title}</CardTitle>
               </CardHeader>
             </Link>
           </Card>

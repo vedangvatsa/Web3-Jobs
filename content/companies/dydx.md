@@ -1,5 +1,6 @@
 ---
 name: dYdX
+website: https://dydx.exchange
 category: Cryptocurrency Exchange
 description: dYdX is a decentralized exchange for trading cryptocurrencies.
 ---

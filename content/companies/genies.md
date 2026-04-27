@@ -1,5 +1,6 @@
 ---
 name: Genies
+website: https://genies.com
 category: Other
 description: Genies creates customizable digital avatars for users and brands.
 ---
