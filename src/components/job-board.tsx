@@ -7,7 +7,7 @@ import { Input } from '@/components/ui/input';
 import { JobCard } from './job-card';
 import { Search } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
-import { JobEmailCaptureDialog } from './job-email-capture-dialog';
+
 import { JobApplicationButton } from './tracking/job-application-button';
 import { SearchTracker } from './tracking/search-tracker';
 import { trackJobApplicationClick, trackJobView } from '@/lib/posthog';
@@ -55,10 +55,9 @@ function useJobViewObserver(jobs: Job[]) {
   return gridRef;
 }
 
-export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: Job[], captureEmail?: boolean }) {
+export function JobBoard({ initialJobs }: { initialJobs: Job[] }) {
   const [searchQuery, setSearchQuery] = useState('');
   const [isPending, startTransition] = useTransition();
-  const [selectedJob, setSelectedJob] = useState<Job | null>(null);
   const [visibleCount, setVisibleCount] = useState(INITIAL_JOBS_COUNT);
   const sentinelRef = useRef<HTMLDivElement>(null);
 
@@ -134,20 +133,6 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
 
         <div ref={gridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {!isPending && visibleJobs.map((job, i) => (
-            captureEmail ? (
-              <div
-                key={`${job.id}-${i}`}
-                data-job-id={job.id}
-                data-job-title={job.title}
-                data-company={job.company}
-                data-source={job.source}
-                data-date={job.date}
-                onClick={() => { trackJobApplicationClick(job.id, job.title, job.company, job.source, job.date); setSelectedJob(job); }}
-                className="block h-full cursor-pointer transform transition-all duration-200 hover:-translate-y-1"
-              >
-                <JobCard job={job} />
-              </div>
-            ) : (
               <div
                 key={`${job.id}-${i}`}
                 data-job-id={job.id}
@@ -167,7 +152,6 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
                   <JobCard job={job} />
                 </JobApplicationButton>
               </div>
-            )
           ))}
         </div>
 
@@ -189,13 +173,7 @@ export function JobBoard({ initialJobs, captureEmail = false }: { initialJobs: J
         )}
       </div>
 
-      {captureEmail && (
-        <JobEmailCaptureDialog
-          job={selectedJob}
-          open={!!selectedJob}
-          onOpenChange={(open) => !open && setSelectedJob(null)}
-        />
-      )}
+
     </div>
   );
 }
