@@ -84,7 +84,7 @@ Devote time weekly to keep abreast of developments:
 
 #### Staying Current:
 - **Research Papers:** Access resources like ArXiv.org for the latest blockchain research and read whitepapers from emerging protocols.
-- **Newsletters:** Subscribe to The Block Research, Messari Pro, and Consensys reports for insights.
+- **Newsletters:** Subscribe to reputable sources for insights.
 - **Social Media:** Use platforms like Twitter and Farcaster to follow thought leaders and engage in discussions.
 - **Hackathons:** Participate in events like Ethereum and Solana hackathons to gain hands-on experience and network.
 - **Online Communities:** Engage in forums such as Ethereum Research Discord and Bankless Academy.
@@ -282,7 +282,7 @@ Someone you assisted years ago may invite you to collaborate on their next proje
 - Mentoring skills, even without formal titles.
 - Significant impact on product or protocol.
 
-**Compensation:** $200,000 to $500,000+ for senior roles.
+**Compensation:** Varies widely for senior roles.
 
 **Best Suited For:** Individuals who prefer building over managing teams.
 
@@ -301,7 +301,7 @@ Someone you assisted years ago may invite you to collaborate on their next proje
 - Strategic thinking capabilities.
 - Strong communication and judgment.
 
-**Compensation:** $200,000 to $600,000+ for director-level positions.
+**Compensation:** Varies widely for director-level positions.
 
 **Best Suited For:** Individuals energized by developing others and forming strategies.
 

@@ -29,10 +29,10 @@ The Web3 job market in Dar es Salaam is growing, with a significant demand for m
 
 | Job Title | Role Description | Salary Range (TZS) | Salary Range (USD) |
 |-----------|------------------|---------------------|---------------------|
-| Mobile Web3 Developer (Android, React Native) | Create mobile dApps | Mid-Level: 2,500,000 - 4,500,000 | ~850 - 1,900 |
-| | | Senior: 4,500,000 - 7,000,000+ | ~1,500 - 2,900+ |
-| Community Manager / Educator (Swahili Speaking) | Develop educational content and manage communities | Mid-Level: 1,500,000 - 3,000,000 | ~650 - 1,300 |
-| Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Develop smart contracts, often remote | Mid-Level (Remote): 3,000,000 - 6,000,000 | $1,250 - 2,500+ |
+| Mobile Web3 Developer (Android, React Native) | Create mobile dApps | Mid-Level: 2,500,000 - 4,500,000 | Significant value |
+| | | Senior: 4,500,000 - 7,000,000+ | Significant value |
+| Community Manager / Educator (Swahili Speaking) | Develop educational content and manage communities | Mid-Level: 1,500,000 - 3,000,000 | Significant value |
+| Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Develop smart contracts, often remote | Mid-Level (Remote): 3,000,000 - 6,000,000 | Significant value |
 
 ### Building a Web3 Career in Dar es Salaam
 
@@ -53,11 +53,11 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 
 | Job Title | Salary Range (TZS) | Salary Range (USD) |
 |-----------|---------------------|---------------------|
-| Mobile Developer (Web3) | 2,000,000 - 4,500,000 | ~$850 - $1,900 |
-| [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) | 3,000,000 - 6,000,000 or $2,500 - $5,000+ (remote) | |
-| Community Manager (Swahili) | 1,500,000 - 3,500,000 | ~$650 - $1,500 |
-| Project Manager | 2,500,000 - 5,000,000 | ~$1,100 - $2,100 |
-| Full-Time Remote (International) | $2,500 - $8,000+ | |
+| Mobile Developer (Web3) | 2,000,000 - 4,500,000 | Significant value |
+| [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) | 3,000,000 - 6,000,000 or significant value (remote) | |
+| Community Manager (Swahili) | 1,500,000 - 3,500,000 | Significant value |
+| Project Manager | 2,500,000 - 5,000,000 | Significant value |
+| Full-Time Remote (International) | Significant value | |
 
 ## Career Paths in Dar es Salaam Web3
 
@@ -71,22 +71,22 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 - **Deliverable:** Expertise in mobile dApps with 3 projects.
 
 **Months 6-10: Gain Traction**
-- Deploy 1 dApp that attracts over 1,000 users in Tanzania.
+- Deploy 1 dApp that attracts a significant number of users in Tanzania.
 - Apply for remote roles with DeFi projects.
-- Expected salary: $2,500 - $4,000 per month for remote work.
+- Expected salary: Significant value for remote work.
 
 **Months 11-16: Advance to Senior Developer and Leadership**
 - Lead a mobile development team or oversee a major feature.
-- Expected salary: $4,000 - $6,000+ per month.
+- Expected salary: Significant value per month.
 
 **Months 17-18: Transition to Founder or VP of Mobile**
 - Start your own mobile DeFi venture or lead a team.
-- **Expected compensation:** $4,000 - $8,000+ per month, with equity options.
+- **Expected compensation:** Significant value per month, with equity options.
 
 **Quick Wins:**
-- Hackathon prizes ranging from $5,000 to $25,000.
-- Protocol grants between $10,000 and $100,000.
-- [Freelance](/how-to-start-freelancing-for-beginners) or consulting fees of $50 to $150 per hour.
+- Hackathon prizes ranging from significant value.
+- Protocol grants between significant values.
+- [Freelance](/how-to-start-freelancing-for-beginners) or consulting fees of significant value.
 
 ### Path 2: Community Educator and Swahili Content Creator (Timeline: 6-12 Months)
 
@@ -95,22 +95,22 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 - Write blog posts on platforms like Medium and Substack.
 - Host local meetups and workshops.
 - Network with over 30 local tech and finance professionals.
-- **Deliverable:** YouTube channel with 500+ subscribers, a blog, and a community base.
+- **Deliverable:** YouTube channel with a growing subscriber base, a blog, and a community base.
 
 **Months 4-6: Monetize Your Efforts**
 - Secure a community manager role through protocol grants.
-- Expected salary: TZS 1,500,000 - 2,500,000 per month or $500 - $1,500 per month in grants.
+- Expected salary: Significant value per month in grants.
 - Scale your workshops and online courses.
 
 **Months 7-12: Scale to Leadership**
 - Transition to a full-time community lead or educator role.
-- Expected salary: TZS 3,000,000 - 5,000,000+ per month or $1,500 - $2,500+ per month.
+- Expected salary: Significant value per month.
 - Launch an educational platform or course.
 
 **Quick Wins:**
-- Protocol education grants from $5,000 to $15,000.
-- Speaking fees from TZS 500,000 to 2,000,000 per talk.
-- Consulting fees of $75 to $150 per hour.
+- Protocol education grants from significant value.
+- Speaking fees from significant value per talk.
+- Consulting fees of significant value.
 
 ### Path 3: On-Ramp Specialist (Fiat-to-Crypto + UX Focus) (Timeline: 10-18 Months)
 
@@ -122,23 +122,23 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 - **Deliverable:** Expertise in on-ramp solutions with prototypes.
 
 **Months 6-10: Develop an App or Product**
-- Deploy an on-ramp application that attracts over 5,000 users.
+- Deploy an on-ramp application that attracts a significant number of users.
 - Apply for roles at payment platforms and DeFi projects.
-- Expected salary: $2,500 - $4,000 per month.
+- Expected salary: Significant value per month.
 
 **Months 11-16: Leadership and Growth**
-- Achieve 25,000+ users or secure significant partnerships.
+- Achieve a significant user base or secure partnerships.
 - Lead a product or business development team.
-- Expected salary: $4,000 - $6,000+ per month.
+- Expected salary: Significant value per month.
 
 **Months 17-18: Transition to Founder or CTO**
 - Start an on-ramp company or lead a division.
-- **Expected compensation:** $4,000 - $10,000+ per month, plus equity.
+- **Expected compensation:** Significant value per month, plus equity.
 
 **Quick Wins:**
-- Fintech grants ranging from $10,000 to $100,000.
-- Protocol partnerships valued at $25,000 to $100,000.
-- Consulting fees of $100 to $250 per hour.
+- Fintech grants ranging from significant value.
+- Protocol partnerships valued at significant value.
+- Consulting fees of significant value.
 
 ## The Advantages of Dar es Salaam
 
@@ -194,7 +194,7 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 
 **Weeks 7-8:**
 - [ ] Build a second, more ambitious project.
-- [ ] Grow your audience to 500+ followers (if on the educator path).
+- [ ] Grow your audience (if on the educator path).
 - [ ] Schedule five coffee chats with tech leads.
 - [ ] Apply for five remote Web3 roles.
 
@@ -204,13 +204,13 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 - [ ] Plan your next three months of activities.
 
 **Weeks 11-12:**
-- [ ] Aim for one paid role or 100+ attendees at a workshop.
+- [ ] Aim for one paid role or significant attendees at a workshop.
 - [ ] Reflect on "Building Web3 in Dar."
 - [ ] Create a plan for the next phase of your career.
 
 ### Expected Outcomes After 90 Days
 - 2-3 projects showcased on GitHub.
-- 1,000+ followers (if pursuing education).
+- A growing follower base (if pursuing education).
 - A robust local and remote network.
 - At least one paid opportunity.
 - Recognition within the community.
@@ -221,7 +221,7 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 Yes, the path involves building locally while earning remote USD and reinvesting in the local ecosystem.
 
 **What is the fastest way to generate income?**
-Community management or education roles can yield income within 1-2 months. Freelance development can start generating revenue in 2-3 months.
+Community management or education roles can yield income within a short timeframe. Freelance development can start generating revenue in a few months.
 
 **Should I focus on Swahili or English?**
 Both languages are beneficial. Swahili is essential for the local market, while English is crucial for remote opportunities and online presence.

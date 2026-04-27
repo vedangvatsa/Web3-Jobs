@@ -20,7 +20,7 @@ Austin's crypto scene is marked by its rapid growth, multifaceted interests, and
 
 ### A Growing Tech Hub
 
-Austin has become the primary destination for tech talent and companies relocating from Silicon Valley, Seattle, and other established tech centers. This migration has brought thousands of experienced engineers, product managers, and entrepreneurs to the city. Major tech companies like Oracle, Apple, and Google maintain significant offices in Austin, contributing to a vast technical talent pool.
+Austin has become a primary destination for tech talent and companies relocating from Silicon Valley, Seattle, and other established tech centers. This migration has brought many experienced engineers, product managers, and entrepreneurs to the city. Major tech companies like Oracle, Apple, and Google maintain significant offices in Austin, contributing to a vast technical talent pool.
 
 ### Pro-Crypto Culture
 
@@ -52,7 +52,7 @@ Web3 professionals should consider several advantages specific to Austin.
 
 - **Lower Cost:** Living expenses in Austin are significantly lower than in San Francisco, New York City, or even Miami.
 - **Competitive Salaries:** Web3 companies offer salaries comparable to those in SF and NYC while benefiting from a lower cost of living.
-- **Wealth Multiplication:** A $200,000 salary in Austin provides greater purchasing power than the same salary in San Francisco.
+- **Wealth Multiplication:** A salary in Austin provides greater purchasing power than the same salary in San Francisco.
 - **Buying Power:** Homeownership is feasible in Austin, while it is increasingly difficult in the Bay Area.
 
 ### Culture
@@ -81,57 +81,57 @@ The competition for tech talent in Austin has led to salaries that rival those i
 ### Technical Roles
 
 **[Smart Contract](/what-are-smart-contracts) & Protocol Engineers ([Solidity](/best-programming-languages-for-blockchain-development), Rust):**
-- **Mid-Level (3-5 years):** $150,000 - $190,000 USD/year + equity
-- **Senior (5+ years):** $190,000 - $260,000+ USD/year + substantial [token](/what-is-a-token)/equity packages
-- **Market Leaders:** Exceptional candidates can command salaries of $250,000-$350,000+ based on proven experience.
+- **Mid-Level (3-5 years):** Competitive salary range + equity
+- **Senior (5+ years):** Competitive salary range + substantial [token](/what-is-a-token)/equity packages
+- **Market Leaders:** Exceptional candidates can command salaries based on proven experience.
 
 **Full-Stack Web3 Engineer (React/Next.js + Web3 Libraries):**
-- **Mid-Level:** $140,000 - $170,000 USD/year + equity
-- **Senior:** $170,000 - $220,000+ USD/year + equity
+- **Mid-Level:** Competitive salary range + equity
+- **Senior:** Competitive salary range + equity
 
 **[Blockchain](/what-is-a-blockchain) Infrastructure/DevOps:**
-- **Mid-Level:** $140,000 - $170,000 USD/year
-- **Senior:** $160,000 - $250,000 USD/year
+- **Mid-Level:** Competitive salary range
+- **Senior:** Competitive salary range
 
 **Security/Auditing Roles:**
-- **Smart Contract Auditor:** $150,000 - $300,000+ (varies by project)
-- **Security Engineer:** $150,000 - $220,000 USD/year
+- **Smart Contract Auditor:** Competitive salary range (varies by project)
+- **Security Engineer:** Competitive salary range
 
 ### Product & Strategy Roles
 
 **Product Manager (Technical):**
-- **Mid-Level:** $140,000 - $180,000 USD/year
-- **Senior:** $170,000 - $250,000+ USD/year
+- **Mid-Level:** Competitive salary range
+- **Senior:** Competitive salary range
 
 **Strategy/Partnerships:**
-- **Senior Level:** $150,000 - $220,000+ USD/year
+- **Senior Level:** Competitive salary range
 
 **Business Development:**
-- **Mid-Level:** $100,000 - $150,000 USD/year
-- **Senior:** $150,000 - $250,000+ USD/year
+- **Mid-Level:** Competitive salary range
+- **Senior:** Competitive salary range
 
 ### Marketing & Community Roles
 
 Austin's media and culture scene allows for competitive salaries in marketing roles:
 
 **Marketing/Growth Lead:**
-- **Manager Level:** $120,000 - $180,000 USD/year
-- **Senior Level:** $150,000 - $250,000+ USD/year
+- **Manager Level:** Competitive salary range
+- **Senior Level:** Competitive salary range
 
 **Community Manager:**
-- **Mid-Level:** $80,000 - $120,000 USD/year
-- **Senior:** $120,000 - $180,000 USD/year
+- **Mid-Level:** Competitive salary range
+- **Senior:** Competitive salary range
 
 **Content Creator/Writer:**
-- **[Freelance](/how-to-start-freelancing-for-beginners)/Contract:** $5,000 - $20,000+ per project
-- **Full-Time:** $80,000 - $150,000 USD/year
+- **[Freelance](/how-to-start-freelancing-for-beginners)/Contract:** Competitive project rates
+- **Full-Time:** Competitive salary range
 
 ### Equity & Compensation Structure
 
 Equity is a standard component of compensation in Austin's Web3 companies:
 
-- **Early-stage startups:** 0.1% - 1%+ for early employees.
-- **Series A/B:** 0.05% - 0.3% based on seniority.
+- **Early-stage startups:** Equity for early employees.
+- **Series A/B:** Equity based on seniority.
 - **Mature companies:** Cash bonuses combined with smaller equity grants.
 
 Token-based incentives frequently accompany technical roles.
@@ -174,7 +174,7 @@ Consensus is the premier crypto conference held annually in Austin, usually in M
 **Maximizing Your Experience:**
 
 **Before the Conference (3 months out):**
-- Identify 15-20 companies of interest.
+- Identify companies of interest.
 - Research their leadership and open roles.
 - Prepare concise pitches for various audiences.
 
@@ -310,7 +310,7 @@ Austin's salaries are competitive but slightly lower than those in San Francisco
 
 **Negotiation Tips:**
 - Research compensation on platforms like Levels.fyi and blind.com.
-- Factor in equity or tokens, which can constitute 30-50% of total compensation.
+- Factor in equity or tokens, which can constitute a significant portion of total compensation.
 - Consider signing bonuses, frequently offered in competitive markets.
 - Remember that your salary stretches further in Austin.
 - Focus negotiations on the Austin market rather than anchoring to San Francisco salaries.

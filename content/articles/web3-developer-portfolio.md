@@ -40,7 +40,7 @@ Follow this structured progression to enhance your skills while building your po
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, IPFS (for metadata storage), Hardhat/Foundry.
 - **Bonus Steps:**
   - Create generative art and host the images on IPFS.
-  - Implement a minting function with a set price (e.g., 0.01 [ETH](/what-is-ethereum)).
+  - Implement a minting function with a set price.
   - Build a frontend that enables users to connect their wallet and mint one of your NFTs.
 
 #### Project 3: A Staking DApp (Your First Full-Stack Project)
@@ -84,7 +84,7 @@ The dynamics of the Web3 job market differ fundamentally from Web2. Here are som
 
 | **Aspect**               | **Web2**                      | **Web3**                             |
 |-------------------------|------------------------------|--------------------------------------|
-| **Compensation**        | Lower, with less equity      | 20-40% higher salaries, significant bonuses and equity components |
+| **Compensation**        | Lower, with less equity      | Higher salaries, significant bonuses and equity components |
 | **Work Environment**    | Office-centric               | Primarily remote, offering greater flexibility |
 | **Career Progression**  | Slower due to hierarchy      | Faster due to rapid scaling and talent shortages |
 | **Equity Potential**    | Limited                       | Token and equity packages standard, offering wealth-building prospects |
@@ -131,7 +131,7 @@ Target roles that utilize your existing skills alongside new Web3 knowledge:
 ## Real-World Success Stories
 
 ### Developer to Smart Contract Engineer
-Alex spent three months learning Solidity while working as a backend engineer at a FAANG company. He contributed to an open-source protocol, which attracted the attention of a major DeFi project. Alex transitioned into a smart contract engineer with a 50% salary increase and significant equity.
+Alex spent three months learning Solidity while working as a backend engineer at a major tech company. He contributed to an open-source protocol, which attracted the attention of a major DeFi project. Alex transitioned into a smart contract engineer with a significant salary increase and equity.
 
 ### Product Manager in Web3
 Jessica, a PM from traditional finance, utilized her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol within four weeks.
@@ -155,7 +155,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 No. The Web3 ecosystem requires more than just engineers. Roles in marketing, community management, product design, legal counsel, operations, and business development are in high demand. Existing skills are transferable; you need to add Web3 context, such as understanding wallets, DAOs, and the importance of decentralization. Most hiring managers prefer domain expertise combined with genuine curiosity over pure blockchain knowledge.
 
 **How much can I earn in Web3?**
-Web3 compensation consistently exceeds Web2 benchmarks. Base salaries typically range 30-60% higher, especially for Solidity engineers and smart contract auditors due to talent scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 in total compensation, while non-technical roles also see considerable financial advantages compared to equivalent Web2 positions.
+Web3 compensation consistently exceeds Web2 benchmarks. Base salaries typically range higher, especially for Solidity engineers and smart contract auditors due to talent scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols can earn substantial total compensation, while non-technical roles also see considerable financial advantages compared to equivalent Web2 positions.
 
 **Is it risky to transition to Web3?**
 Every career transition carries inherent risks, and Web3 is no different, particularly given market volatility and project lifecycles. You can mitigate this risk by targeting well-funded, established protocols with proven revenue rather than speculative early-stage projects. Verify that teams possess strong track records and ensure your base salary is predominantly in fiat currency.
@@ -164,11 +164,11 @@ Every career transition carries inherent risks, and Web3 is no different, partic
 Most professionals achieve a meaningful Web3 transition within 2-6 months of dedicated effort. Engineers and product managers often progress more quickly due to the direct transfer of core skills, with the learning curve primarily involving tooling and protocol-specific knowledge. Non-technical roles, such as marketing and community management, can transition within 4-8 weeks through focused self-study. Actively engaging in portfolio projects or contributing to open-source protocols significantly accelerates this process.
 
 **What if the crypto market crashes?**
-Bear markets historically present the best opportunities to enter Web3 professionally. As speculative hype diminishes, teams refocus on developing authentic products, valuing talent over token prices. Infrastructure firms, security companies, and developer tooling providers maintain steady hiring regardless of market conditions. Those engineers who built during the 2018-2019 bear market are now among the most sought-after professionals. A downturn can reduce competition for roles and often leads to better equity terms for new hires.
+Bear markets historically present the best opportunities to enter Web3 professionally. As speculative hype diminishes, teams refocus on developing authentic products, valuing talent over token prices. Infrastructure firms, security companies, and developer tooling providers maintain steady hiring regardless of market conditions. Those engineers who built during previous bear markets are now among the most sought-after professionals. A downturn can reduce competition for roles and often leads to better equity terms for new hires.
 
 ## Key Takeaways
 
-- Web3 offers substantial compensation premiums (20-40% above Web2 equivalents), accelerated career growth, and the chance to contribute to transformative technology across various industries.
+- Web3 offers substantial compensation premiums above Web2 equivalents, accelerated career growth, and the chance to contribute to transformative technology across various industries.
 - Most professionals complete a meaningful transition to Web3 within 2-6 months of focused effort, with engineers and product managers generally moving fastest.
 - Your existing domain expertise holds significant value in Web3. Instead of starting from scratch, concentrate on integrating blockchain-specific context (wallets, smart contracts, tokenomics, DAOs) with your current skills.
 - Engaging in Discord communities and Twitter, combined with visible portfolio projects on GitHub, often yields better results in securing Web3 roles than formal certifications.
