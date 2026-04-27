@@ -25,7 +25,7 @@ An AI Engineer primarily functions as a software engineer specializing in machin
 
 ### The Roadmap: A Step-by-Step Guide
 
-Embarking on this journey requires commitment. Expect a learning timeline of 6 to 18 months, depending on your starting point and available time for study.
+Embarking on this journey requires commitment. Expect a learning timeline of several months, depending on your starting point and available time for study.
 
 #### Step 1: Establish a Strong Programming Foundation in Python
 
@@ -104,7 +104,7 @@ This knowledge differentiates a Machine Learning Engineer from a Data Scientist.
 |---------------------------|-----------------------------------------------------------------------------------------|
 | APIs                      | Learn to wrap your model in a simple API using frameworks like Flask or FastAPI.       |
 | Containerization          | Understand how to use Docker to package your application and its dependencies into containers. |
-| Cloud Platforms           | Familiarize yourself with AI/ML services from major cloud providers like AWS (SageMaker), Google Cloud (Vertex AI), or Azure (Azure Machine Learning). |
+| Cloud Platforms           | Familiarize yourself with AI/ML services from major cloud providers like AWS, Google Cloud, or Azure. |
 | Monitoring                | Learn to monitor deployed models for performance degradation or data drift.            |
 
 ### Integrating Your Knowledge

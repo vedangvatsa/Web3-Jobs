@@ -47,8 +47,8 @@ Succeeding as a remote professional in Web3 requires skills beyond your core com
 
 - **Visas:** Visa navigation poses significant challenges. Many countries now offer "digital nomad visas." Research these options to determine the best fit for your situation. A comprehensive Digital Nomad Visa List can guide your exploration.
 - **Taxes:** The tax obligations for digital nomads can be complex. Engaging an accountant specializing in expatriate and cryptocurrency tax law is essential to ensure compliance.
-- **Compensation:** Many remote positions in Web3 offer payment in cryptocurrency, often stablecoins like USDC. Familiarity with this payment method and a reliable system for converting to your local currency is necessary.
-- **Workspace:** A stable internet connection is crucial for remote work. Always have both a primary and a backup option, such as a mobile hotspot or satellite internet like Starlink.
+- **Compensation:** Many remote positions in Web3 offer payment in cryptocurrency, often stablecoins. Familiarity with this payment method and a reliable system for converting to your local currency is necessary.
+- **Workspace:** A stable internet connection is crucial for remote work. Always have both a primary and a backup option, such as a mobile hotspot or satellite internet.
 
 Building a career that enables remote work is challenging, yet the Web3 sector provides fertile ground for achieving this goal. By honing remote-first skills, embracing asynchronous work culture, and strategically selecting roles, you can cultivate a high-impact, well-compensated career that is not tied to any single location.
 
@@ -82,11 +82,11 @@ Regularly assess your progress. Are you achieving desired outcomes? Adapt your a
 
 #### Example 1
 
-Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with team communication. After applying structured communication techniques, she observed a 40% reduction in misunderstandings within three months.
+Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with team communication. After applying structured communication techniques, she observed a significant reduction in misunderstandings within three months.
 
 #### Example 2
 
-Juan, a product manager in [DeFi](/what-is-defi), faced similar challenges in project management. By implementing a documentation-first approach, he improved project visibility and accountability, leading to a 30% increase in team productivity.
+Juan, a product manager in [DeFi](/what-is-defi), faced similar challenges in project management. By implementing a documentation-first approach, he improved project visibility and accountability, leading to a noticeable increase in team productivity.
 
 #### Example 3
 
@@ -103,13 +103,13 @@ Maya transitioned from Web2 to Web3 and adopted these strategies to acclimate sw
 ### Frequently Asked Questions
 
 **How long will implementation take?**  
-Most individuals notice initial results within 2 to 4 weeks of consistent application, with significant improvements visible within 8 to 12 weeks. The timeline varies based on your starting point, the level of daily practice, and active feedback-seeking. Professionals who track their progress, whether through metrics or peer feedback, tend to advance more quickly than those relying on passive observation. Treating implementation as a structured project yields better outcomes.
+Most individuals notice initial results within a few weeks of consistent application, with significant improvements visible within a couple of months. The timeline varies based on your starting point, the level of daily practice, and active feedback-seeking. Professionals who track their progress, whether through metrics or peer feedback, tend to advance more quickly than those relying on passive observation. Treating implementation as a structured project yields better outcomes.
 
 **What if my workplace does not support remote work?**  
 In challenging environments, you often possess more agency than you realize. Start with small, independent actions that do not require organizational approval. Build momentum gradually, and document your progress. If, after sustained effort, the environment continues to hinder your growth, this information is crucial for your career path. Seeking a company that values professional development may be the best option.
 
 **How do these skills apply specifically to Web3?**  
-Web3 organizations differ significantly from traditional companies, emphasizing the importance of these skills. With flatter hierarchies, you gain direct access to decision-makers, increasing the need for self-direction. Remote, globally distributed teams prioritize written communication and asynchronous collaboration, making these skills central to success. The pace is also faster, with project cycles often occurring in weeks rather than quarters.
+Web3 organizations differ significantly from traditional companies, emphasizing the importance of these skills. With flatter hierarchies, you gain direct access to decision-makers, increasing the need for self-direction. Remote, globally distributed teams prioritize written communication and asynchronous collaboration, making these skills central to success. The pace is also faster, with project cycles often occurring in shorter timeframes.
 
 **Can I implement these strategies alongside my current role?**  
 Yes, this is the advisable approach for most professionals. You typically do not need to extend your working hours; instead, focus on being intentional within your existing time. Identify a few practices relevant to your daily tasks and apply them consistently. The compounding effect of small, deliberate improvements is often more effective than sporadic large efforts. Many individuals successfully develop new professional habits without changing their overall work hours.

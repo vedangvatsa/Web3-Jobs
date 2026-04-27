@@ -32,7 +32,7 @@ Before initiating a pivot, clarify your intended direction. This phase is focuse
 
 Committing to a full-blown career change is significant. Before diving in, explore low-risk ways to assess your new career path.
 
-- **Start a Personal Project:** This is a chance to [showcase skills without direct experience](/how-to-showcase-skills-without-experience). For example, if your goal is to become a web developer, create a personal website. If you aspire to be a content marketer, launch a blog. This exercise not only hones your skills and builds your [portfolio](/building-web3-portfolio) but also provides a firsthand experience of the work involved. If you discover you dislike coding after dedicating 20 hours to it, you save yourself from a misguided pivot.
+- **Start a Personal Project:** This is a chance to [showcase skills without direct experience](/how-to-showcase-skills-without-experience). For example, if your goal is to become a web developer, create a personal website. If you aspire to be a content marketer, launch a blog. This exercise not only hones your skills and builds your [portfolio](/building-web3-portfolio) but also provides firsthand experience of the work involved. If you discover you dislike coding after dedicating time to it, you save yourself from a misguided pivot.
 
 - **Take an Online Course:** Platforms like Coursera or Udemy offer low-cost courses that can provide foundational knowledge and help validate your interest in a subject. Completing a certification enhances your credibility and demonstrates initiative on your [resume](/how-to-build-a-web3-resume-that-stands-out).
 

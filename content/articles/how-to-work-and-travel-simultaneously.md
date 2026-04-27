@@ -31,7 +31,7 @@ If you currently work in an office, discuss the possibility of transitioning to 
 
 Creating a financial strategy is essential for a successful work-and-travel lifestyle.
 
-- **Build a Safety Net**: Aim to save at least 3-6 months’ worth of living expenses before making the transition. This financial cushion will protect you during slow work periods or unexpected expenses.
+- **Build a Safety Net**: Aim to save several months’ worth of living expenses before making the transition. This financial cushion will protect you during slow work periods or unexpected expenses.
   
 - **Create a Budget**: Research the cost of living in your intended destinations. Utilize resources like Nomad List to gauge accommodation, food, and transportation expenses. Establish a realistic monthly budget and consistently track your spending.
 
@@ -107,7 +107,7 @@ Regularly evaluate your progress. Make adjustments based on results and feedback
 
 ### Real-World Examples
 
-Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with time management while balancing work and travel. By implementing a structured routine and utilizing co-working spaces, she improved her productivity within three months, significantly enhancing her work-life balance.
+Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with time management while balancing work and travel. By implementing a structured routine and utilizing co-working spaces, she improved her productivity within a few months, significantly enhancing her work-life balance.
 
 Juan, a product manager in [DeFi](/what-is-defi), faced similar challenges. By adopting specific strategies to manage his workload, he achieved a more efficient workflow, allowing him to fully enjoy his travel experiences without compromising his professional responsibilities.
 

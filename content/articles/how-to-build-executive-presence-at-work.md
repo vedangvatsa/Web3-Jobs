@@ -62,15 +62,15 @@ Monitor your progress regularly. Are you achieving the desired outcomes? Be will
 
 ### Example 1: Sarah, the Developer
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her communication skills. After applying the strategies outlined in this guide, she saw a 30% increase in her team's engagement during meetings within three months. Her ability to articulate technical concepts clearly improved her visibility within the organization.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her communication skills. After applying the strategies outlined in this guide, she saw an increase in her team's engagement during meetings within three months. Her ability to articulate technical concepts clearly improved her visibility within the organization.
 
 ### Example 2: Juan, the Product Manager
 
-Juan, a product manager in [DeFi](/what-is-defi), struggled with team dynamics and influencing stakeholders. By adopting the framework in this guide, he successfully secured a 25% increase in project approvals over four months. His experience illustrates the adaptability of these principles across different roles.
+Juan, a product manager in [DeFi](/what-is-defi), struggled with team dynamics and influencing stakeholders. By adopting the framework in this guide, he successfully secured an increase in project approvals over four months. His experience illustrates the adaptability of these principles across different roles.
 
 ### Example 3: Maya, the Transitioner
 
-Maya transitioned from Web2 to Web3 and needed to adapt to a new environment. She utilized this approach to enhance her executive presence, quickly gaining the respect of her peers and superiors. Within six months, she led a successful project that increased user engagement by 40%, showcasing the effectiveness of these strategies regardless of background.
+Maya transitioned from Web2 to Web3 and needed to adapt to a new environment. She utilized this approach to enhance her executive presence, quickly gaining the respect of her peers and superiors. Within six months, she led a successful project that increased user engagement, showcasing the effectiveness of these strategies regardless of background.
 
 ## Common Mistakes to Avoid
 
@@ -87,7 +87,7 @@ Maya transitioned from Web2 to Web3 and needed to adapt to a new environment. Sh
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Many individuals notice initial improvements within 2 to 4 weeks of consistent practice. Significant changes typically manifest within 8 to 12 weeks. The timeline can vary based on your starting point, daily practice commitment, and active feedback solicitation. Those who track their progress—through metrics, peer feedback, or journaling—often advance more rapidly than those who do not.
+A: Many individuals notice initial improvements within a few weeks of consistent practice. Significant changes typically manifest within a couple of months. The timeline can vary based on your starting point, daily practice commitment, and active feedback solicitation. Those who track their progress—through metrics, peer feedback, or journaling—often advance more rapidly than those who do not.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often have more control than it seems. Begin with small actions that do not require organizational approval, such as personal habits or informal discussions with colleagues who share your goals. Create momentum gradually and document your achievements. If sustained efforts fail to foster growth, it may indicate a need to find a more supportive environment.

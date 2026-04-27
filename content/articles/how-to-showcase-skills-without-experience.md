@@ -55,7 +55,7 @@ Your education section should encompass more than just the name of your universi
 A well-crafted resume summary or objective, typically consisting of 2-3 sentences at the top of your resume, should frame your career goals while highlighting key qualifications.
 
 * **Objective:** This is best suited for individuals with minimal experience. It emphasizes career aspirations and enthusiasm. For example, "Highly motivated and detail-oriented Computer Science graduate seeking an entry-level software engineering role where I can apply my skills in Python and machine learning to build innovative products."
-* **Summary:** This option is preferable for those with some experience, even if non-traditional, or for individuals changing careers. It focuses on top skills and accomplishments. For instance, "Creative marketing professional with over three years of experience in content creation and social media management through [freelance](/how-to-start-freelancing-for-beginners) projects. Proven ability to grow online communities and drive engagement, now seeking to apply these skills in a full-time digital marketing role."
+* **Summary:** This option is preferable for those with some experience, even if non-traditional, or for individuals changing careers. It focuses on top skills and accomplishments. For instance, "Creative marketing professional with experience in content creation and social media management through [freelance](/how-to-start-freelancing-for-beginners) projects. Proven ability to grow online communities and drive engagement, now seeking to apply these skills in a full-time digital marketing role."
 
 ### 5. Focus on Transferable Skills
 
@@ -83,7 +83,7 @@ A: Numerous options exist. You can contribute to open-source projects on GitHub,
 
 ## Why These Skills Matter
 
-Competencies such as communication, problem-solving, and emotional intelligence are foundational for success in modern careers. In fields like [Web3](/what-is-web3), these skills can significantly influence your career trajectory. Studies show that professionals who excel in these areas can expect a 10-15 year ROI of 300-500%.
+Competencies such as communication, problem-solving, and emotional intelligence are foundational for success in modern careers. In fields like [Web3](/what-is-web3), these skills can significantly influence your career trajectory. Professionals who excel in these areas can expect substantial returns on their investment in skill development.
 
 ## Comprehensive Skill Breakdown
 
@@ -143,7 +143,7 @@ Web3 teams often operate in distributed environments and move at a rapid pace. T
 The importance of these skills varies by career level:
 - **Junior Level:** Technical skills are paramount, but communication becomes increasingly important.
 - **Mid Level:** A balance of technical and soft skills emerges; leadership potential becomes evident.
-- **Senior Level:** Soft skills account for approximately 70% of your effectiveness.
+- **Senior Level:** Soft skills account for a significant portion of your effectiveness.
 - **Leadership:** Emotional intelligence and communication dominate.
 
 ## Common Development Mistakes

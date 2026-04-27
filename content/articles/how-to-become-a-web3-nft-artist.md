@@ -19,8 +19,8 @@ Transitioning from a digital artist to a successful [NFT](/what-are-nfts) artist
 Before you mint your first piece, grasp the essential technology connected to NFTs.
 
 - **Learn about Wallets:** Your crypto [wallet](/how-to-choose-a-crypto-wallet), such as MetaMask, serves as your digital identity and bank account in [Web3](/what-is-web3). Set up your wallet securely, and prioritize protecting your seed phrase.
-- **Get Some Crypto:** Purchase a small amount of cryptocurrency, typically [ETH](/what-is-ethereum), to cover the gas fees for minting your NFT on the [blockchain](/what-is-a-blockchain). Use reputable exchanges like Coinbase for transactions, then transfer the cryptocurrency to your MetaMask wallet.
-- **Understand Gas Fees:** Gas fees are charges paid to the blockchain network for processing your transactions. These fees can vary based on network congestion. Utilize a gas tracker, such as Etherscan Gas Tracker, to identify optimal times for minting when fees are lower.
+- **Get Some Crypto:** Purchase a small amount of cryptocurrency, typically [ETH](/what-is-ethereum), to cover the gas fees for minting your NFT on the [blockchain](/what-is-a-blockchain). Use reputable exchanges for transactions, then transfer the cryptocurrency to your MetaMask wallet.
+- **Understand Gas Fees:** Gas fees are charges paid to the blockchain network for processing your transactions. These fees can vary based on network congestion. Utilize a gas tracker to identify optimal times for minting when fees are lower.
 
 ### Step 2: Create Your Art
 
@@ -59,7 +59,7 @@ Minting involves publishing your artwork to the blockchain, effectively transfor
     1. Connect your MetaMask wallet to the marketplace.
     2. Upload your art file (e.g., PNG or MP4).
     3. Fill in the metadata, including the title, detailed description, and any properties.
-    4. Set your [royalty percentage](/nft-artist-royalties) (e.g., 10%), which represents the percentage of future secondary sales you will receive.
+    4. Set your [royalty percentage](/nft-artist-royalties), which represents the percentage of future secondary sales you will receive.
     5. Click "Mint" and authorize the transaction through your wallet, which incurs a gas fee.
 
 Congratulations! Your artwork is now part of the blockchain.
@@ -87,7 +87,7 @@ The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ significa
 
 | Factor                   | Web2                           | Web3                           |
 |-------------------------|--------------------------------|--------------------------------|
-| Compensation            | Lower base salaries            | 20-40% higher than equivalent Web2 roles, with bonuses and equity |
+| Compensation            | Lower base salaries            | Generally higher than equivalent Web2 roles, with bonuses and equity |
 | Work Culture            | In-office or hybrid models     | Primarily remote, offering more flexibility |
 | Career Growth           | Slower progression             | Rapid advancement due to high demand and fast scaling |
 | Equity Opportunities     | Rarely offered                 | Common, with significant wealth-building potential through [tokens](/what-is-a-token) |
@@ -145,7 +145,7 @@ Target opportunities that align with your existing expertise supplemented by new
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while continuing his job. He contributed to an open-source protocol, which led to an opportunity with a prominent DeFi project, resulting in a 50% salary increase along with equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while continuing his job. He contributed to an open-source protocol, which led to an opportunity with a prominent DeFi project, resulting in a significant salary increase along with equity.
 
 ### Product Manager in Web3
 
@@ -173,7 +173,7 @@ No, the Web3 ecosystem requires various roles beyond engineering. Marketing mana
 
 **How much can I earn in Web3?**
 
-Web3 compensation typically surpasses Web2 equivalents. Base salaries average 30-60% higher, particularly for Solidity developers and smart contract auditors due to their scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations. Senior engineers at well-funded protocols can earn total compensation ranging from $200,000 to $350,000.
+Web3 compensation typically surpasses Web2 equivalents. Base salaries are generally higher, particularly for Solidity developers and smart contract auditors due to their scarcity. Total compensation often includes signing bonuses, equity in early-stage protocols, and token allocations. Senior engineers at well-funded protocols can earn total compensation significantly above traditional roles.
 
 **Is it risky to transition to Web3?**
 
@@ -185,11 +185,11 @@ Most professionals can achieve a meaningful transition to Web3 within 2-6 months
 
 **What if the crypto market crashes?**
 
-Bear markets often present the best opportunities for entering Web3. As speculative hype diminishes, teams refocus on developing real products, prioritizing talent over token price. Companies involved in infrastructure, security, and developer tools continue to hire regardless of market conditions. Engineers who built during the 2018-2019 bear market are now among the most sought-after professionals. A downturn can reduce competition for roles and lead to better equity terms for new hires.
+Bear markets often present the best opportunities for entering Web3. As speculative hype diminishes, teams refocus on developing real products, prioritizing talent over token price. Companies involved in infrastructure, security, and developer tools continue to hire regardless of market conditions. Engineers who built during previous bear markets are now among the most sought-after professionals. A downturn can reduce competition for roles and lead to better equity terms for new hires.
 
 ## Key Takeaways
 
-- Web3 offers significant compensation premiums (20-40% above Web2 equivalents), accelerated career growth trajectories, and the opportunity to contribute to technology reshaping various industries globally.
+- Web3 offers significant compensation premiums above Web2 equivalents, accelerated career growth trajectories, and the opportunity to contribute to technology reshaping various industries globally.
 - Most professionals transition to Web3 within 2-6 months of focused effort, with engineers and product managers typically moving fastest.
 - Existing domain expertise is invaluable in Web3. Focus on layering blockchain-specific knowledge onto your current skill set.
 - Networking through Discord communities and active Twitter engagement, combined with visible portfolio projects, can effectively facilitate landing Web3 roles.

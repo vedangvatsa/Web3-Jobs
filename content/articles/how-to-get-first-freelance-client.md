@@ -37,7 +37,7 @@ Websites like Upwork and Fiverr connect freelancers with potential clients. Whil
 Demonstrating your value upfront can attract clients without working for free.
 
 - **Content Marketing:** Produce informative content that showcases your expertise. Write blog posts, create video tutorials, or share actionable tips on social media. This builds trust and establishes you as an authority in your niche.
-- **Offer a Free Audit:** If you're a web designer, propose a free, 10-minute video audit of a potential client's website, highlighting areas for improvement. This demonstrates your expertise and provides a rationale for them to hire you for further work.
+- **Offer a Free Audit:** If you're a web designer, propose a free, brief video audit of a potential client's website, highlighting areas for improvement. This demonstrates your expertise and provides a rationale for them to hire you for further work.
 
 ### 4. Strategic Cold Outreach
 
@@ -45,7 +45,7 @@ Cold emailing can be effective when executed properly. Be strategic and personal
 
 - **Identify Your Ideal Client:** Focus your efforts on companies you genuinely want to work with and that would benefit from your services.
 - **Do Your Research:** Investigate the company and the individual you plan to contact. Find a specific reason to reach out, such as mentioning a typo on their website or proposing a relevant blog post idea.
-- **Write a Personalized Email:** Keep your email concise and focused on the recipient. Start by mentioning something specific you admire about their company. Then, briefly explain how you can assist them. Conclude with a clear, low-friction call to action, such as, "Would you be open to a brief 15-minute chat next week?"
+- **Write a Personalized Email:** Keep your email concise and focused on the recipient. Start by mentioning something specific you admire about their company. Then, briefly explain how you can assist them. Conclude with a clear, low-friction call to action, such as, "Would you be open to a brief chat next week?"
 
 ### 5. Network in Online Communities
 
@@ -96,8 +96,8 @@ Regularly monitor your progress. Are you achieving your goals? Adjust your strat
 
 | Name   | Background                | Outcome                                     | Timeframe          |
 |--------|---------------------------|---------------------------------------------|--------------------|
-| Sarah  | Developer at a blockchain startup | Increased client inquiries by 50%         | 3 months           |
-| Juan   | Product manager in DeFi   | Secured two new clients and increased revenue by 30% | 6 weeks            |
+| Sarah  | Developer at a blockchain startup | Increased client inquiries significantly  | 3 months           |
+| Juan   | Product manager in DeFi   | Secured two new clients and increased revenue | 6 weeks            |
 | Maya   | Transitioning from Web2 to Web3 | Built a solid client base within her first month | 1 month            |
 
 ### Common Mistakes to Avoid

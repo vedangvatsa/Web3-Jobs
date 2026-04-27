@@ -28,9 +28,9 @@ This group comprises the most respected and sought-after audit firms in the indu
 
 | Firm Name            | Specialization                                                                                         | Notable Clients                                   |
 |----------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| **Trail of Bits**    | Comprehensive security research, expertise in both Web3 and traditional cybersecurity                 | Ethereum, Filecoin                               |
-| **OpenZeppelin**     | Developers of the most widely used library of secure smart contracts                                  | Aave, Compound                                   |
-| **ConsenSys Diligence** | Long history in Web3 security, part of the ConsenSys ecosystem (MetaMask, Infura)                   | ConsenSys protocols, various DeFi projects       |
+| **Trail of Bits**    | Comprehensive security research, expertise in both Web3 and traditional cybersecurity                 | Various notable blockchain projects               |
+| **OpenZeppelin**     | Developers of the most widely used library of secure smart contracts                                  | Various notable blockchain projects               |
+| **ConsenSys Diligence** | Long history in Web3 security, part of the ConsenSys ecosystem (MetaMask, Infura)                   | Various notable blockchain projects               |
 | **Spearbit**         | Decentralized model connecting projects with top independent security researchers                     | Various new and established Web3 projects        |
 
 ### Tier 2: Reputable and Established Firms
@@ -39,8 +39,8 @@ This tier includes a diverse array of capable and professional audit firms.
 
 | Firm Name            | Specialization                                                | Notable Clients                                   |
 |----------------------|--------------------------------------------------------------|--------------------------------------------------|
-| **CertiK**           | Large firm known for detailed reports and formal verification | Binance Smart Chain, Polygon                      |
-| **Quantstamp**       | Strong track record in the DeFi sector                       | 1inch, Kyber Network                              |
+| **CertiK**           | Large firm known for detailed reports and formal verification | Various notable blockchain projects               |
+| **Quantstamp**       | Strong track record in the DeFi sector                       | Various notable blockchain projects               |
 | **Halborn**          | Focus on a broad range of security services                  | Various DeFi projects, NFT platforms              |
 
 ### Tier 3: Competitive Auditing Platforms and Independent Researchers
@@ -67,7 +67,7 @@ To maximize the value of your audit, effective preparation is essential.
 
 1. **Code Freeze**: Ensure your code is complete and frozen. An audit should not serve as a debugging session.
 2. **Documentation**: Provide auditors with comprehensive documentation that details your protocol's architecture and intended behavior.
-3. **Testing**: Maintain a thorough internal testing process. High test coverage (95%+) is crucial for a successful audit.
+3. **Testing**: Maintain a thorough internal testing process. High test coverage is crucial for a successful audit.
 
 ### The Importance of Security Audits
 
@@ -85,15 +85,15 @@ Understanding the significance of security audits is vital for professional succ
 
 #### Example 1: Sarah's Experience
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, previously struggled with code vulnerabilities. After implementing a structured audit process, she observed a 50% reduction in bugs reported by users within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, previously struggled with code vulnerabilities. After implementing a structured audit process, she observed a significant reduction in bugs reported by users within three months.
 
 #### Example 2: Juan's Transformation
 
-Juan, managing products in the DeFi sector, encountered significant issues with exploit attempts. By employing a multi-firm audit strategy, he reduced exploit incidents by 70% over six months, demonstrating the effectiveness of thorough reviews.
+Juan, managing products in the DeFi sector, encountered significant issues with exploit attempts. By employing a multi-firm audit strategy, he reduced exploit incidents over six months, demonstrating the effectiveness of thorough reviews.
 
 #### Example 3: Maya's Transition
 
-Maya transitioned from Web2 to Web3, focusing on security protocols. Her structured approach to audits facilitated her rapid adaptation, leading to a 40% improvement in project delivery times.
+Maya transitioned from Web2 to Web3, focusing on security protocols. Her structured approach to audits facilitated her rapid adaptation, leading to an improvement in project delivery times.
 
 ### Common Pitfalls to Avoid
 
@@ -106,7 +106,7 @@ Maya transitioned from Web2 to Web3, focusing on security protocols. Her structu
 ### FAQ
 
 **Q: How long will the audit process take?**  
-A: The duration of an audit depends on various factors, including the complexity of your codebase and the auditor's workload. Typically, you can expect an initial report within 2–4 weeks, with comprehensive feedback following shortly after. 
+A: The duration of an audit depends on various factors, including the complexity of your codebase and the auditor's workload. Typically, you can expect an initial report within a few weeks, with comprehensive feedback following shortly after. 
 
 **Q: What if my organization lacks support for security audits?**  
 A: Even in less supportive environments, you have options. Start with small-scale audits or assessments that require minimal organizational buy-in. Gradually build momentum by documenting your findings and sharing results with stakeholders.

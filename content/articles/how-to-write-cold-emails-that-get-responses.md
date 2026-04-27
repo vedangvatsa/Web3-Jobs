@@ -33,7 +33,7 @@ What is the single action you want the recipient to take? Your entire email shou
 
 This is the most critical step. Generic, untargeted emails are spam. Your goal is to send a message that is so relevant to the recipient that it does not feel "cold" at all.
 
--   **Create a Highly Targeted List:** Do not buy a list of 10,000 random email addresses. It is far more effective to build a list of 50 highly qualified, well-researched contacts.
+-   **Create a Highly Targeted List:** Do not buy a list of random email addresses. It is far more effective to build a list of highly qualified, well-researched contacts.
 -   **Find the Right Person:** Do not email `info@company.com`. Use tools like LinkedIn Sales Navigator or Apollo.io to find the specific person whose role aligns with your goal (e.g., the Head of Marketing, a specific hiring manager).
 -   **Research Each Individual:** Spend at least 5-10 minutes researching each person before you email them. Look for a "hook" or a point of connection.
     -   Did they recently post something interesting on LinkedIn or Twitter?
@@ -75,7 +75,7 @@ Now that you have their attention, you have a very short window to explain why y
 
 -   **Focus on Their Problem:** Clearly and concisely state a problem that you know they likely have (based on their role and your research) and hint at your solution.
 -   **Use Social Proof:** If you have it, briefly mention a well-known client or an impressive result.
-    -   *Example:* "We help marketing leaders like you reduce their customer acquisition costs. We recently helped [Well-Known Company] decrease their CAC by 25% in three months by optimizing their ad spend."
+    -   *Example:* "We help marketing leaders like you reduce their customer acquisition costs. We recently helped a well-known company decrease their CAC significantly in three months by optimizing their ad spend."
 
 ### 4. The Call to Action (CTA): Make it Easy to Say "Yes"
 
@@ -100,7 +100,7 @@ Hi [Name],
 
 [Personalized opening line based on your research. E.g., "I saw your comment on LinkedIn about the difficulty of hiring senior engineers..."]
 
-I'm writing because we help tech leaders like you solve this exact problem. We recently built a sourcing platform that helped [Impressive Company] hire three senior engineers in under a month.
+I'm writing because we help tech leaders like you solve this exact problem. We recently built a sourcing platform that helped an impressive company hire three senior engineers in under a month.
 
 Is improving your hiring pipeline a priority for you in Q3?
 

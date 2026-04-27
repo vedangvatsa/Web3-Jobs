@@ -23,7 +23,7 @@ The foundational principle of branding in Web3 is "Show, Don't Tell." Every asse
 | Web2 Claim | Web3 Proof |
 |------------|------------|
 | I am a skilled project manager. | I successfully facilitated a contentious governance proposal in the Uniswap [DAO](/what-is-a-dao), leading to a consensus. [Link to the forum discussion]. |
-| I am a proficient [Solidity](/best-programming-languages-for-blockchain-development) developer. | I wrote a gas-optimized [staking](/how-to-become-a-web3-staking-specialist) contract that was forked 50 times on [GitHub](/building-web3-portfolio) and holds a small amount of real value on a testnet. [Link to GitHub repo] [Link to Etherscan]. |
+| I am a proficient [Solidity](/best-programming-languages-for-blockchain-development) developer. | I wrote a gas-optimized [staking](/how-to-become-a-web3-staking-specialist) contract that was forked multiple times on [GitHub](/building-web3-portfolio) and holds a small amount of real value on a testnet. [Link to GitHub repo] [Link to Etherscan]. |
 
 This verifiable "proof of work" serves as the bedrock of your brand. It is authentic, credible, and impossible to fabricate. For insights on securing a [Web3 job](/web3-jobs-for-beginners) with no experience, refer to our guide.
 
@@ -69,7 +69,7 @@ Building a public brand as a Web3 developer is a long-term commitment. It requir
 
 ## Why These Skills Matter
 
-The competencies outlined here are essential for success in any modern career. Regardless of whether you work in Web3, traditional tech, or any knowledge-intensive field, these skills significantly influence your career trajectory. Research shows that these abilities consistently yield a return on investment of 300-500% over a 10-15 year period.
+The competencies outlined here are essential for success in any modern career. Regardless of whether you work in Web3, traditional tech, or any knowledge-intensive field, these skills significantly influence your career trajectory. Research shows that these abilities consistently yield a return on investment over a long period.
 
 ## Comprehensive Skill Breakdown
 
@@ -129,7 +129,7 @@ Web3 teams often operate in distributed environments and move quickly. These ski
 The importance of these skills grows at each career level:
 - **Junior Level:** Technical skills take precedence, but communication becomes increasingly important.
 - **Mid Level:** A balance of technical and soft skills emerges; leadership potential begins to show.
-- **Senior Level:** Soft skills account for 70% of your effectiveness.
+- **Senior Level:** Soft skills account for a significant portion of your effectiveness.
 - **Leadership:** Emotional intelligence and communication dominate.
 
 ## Common Development Mistakes
@@ -147,7 +147,7 @@ Blind spots hinder improvement. Seek feedback from mentors and colleagues to gai
 Skill development is a unique journey. Concentrate on your own progress.
 
 5. **Expecting Quick Mastery**  
-Genuine skill development takes years. Embrace the process.
+Genuine skill development takes time. Embrace the process.
 
 ## Resources for Continued Learning
 
@@ -177,7 +177,7 @@ All these skills can be developed through deliberate practice. While some indivi
 Establish specific, measurable goals. Track your progress through projects, feedback from others, and increasing success in your work. Over time, progress compounds.
 
 **What's the time commitment?**  
-Aim for 5-10 hours weekly dedicated to skill development. With consistent effort, you can expect significant improvement within 6-12 months.
+Aim for 5-10 hours weekly dedicated to skill development. With consistent effort, you can expect significant improvement within a few months.
 
 **How do I apply these skills in my current role?**  
 Start small by focusing on one skill each month. Apply it to your daily work, seek feedback, and iterate on your approach.
@@ -187,7 +187,7 @@ Yes, they are even more critical in Web3 due to the distributed nature of teams,
 
 ## Key Takeaways
 
-- Skill development compounds over years, providing substantial returns on investment.
+- Skill development compounds over time, providing substantial returns on investment.
 - Consistent practice is essential; simply studying is insufficient.
 - Soft skills become increasingly important as you advance in your career.
 - Feedback and mentorship accelerate the learning process.

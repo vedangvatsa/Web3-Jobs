@@ -184,7 +184,7 @@ Maya transitioned from Web2 to Web3 and utilized these strategies to quickly ada
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Many people see initial results within 2-4 weeks of consistent application, with significant improvements visible within 8-12 weeks. The timeline depends on your starting point, daily practice commitment, and active pursuit of feedback. Those who track their progress typically see faster results.
+A: Many people see initial results within a few weeks of consistent application, with significant improvements visible within a few months. The timeline depends on your starting point, daily practice commitment, and active pursuit of feedback. Those who track their progress typically see faster results.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often have more agency than you think. Start with small actions that do not require organizational approval, such as individual projects or conversations with supportive colleagues. Document your progress to showcase results.

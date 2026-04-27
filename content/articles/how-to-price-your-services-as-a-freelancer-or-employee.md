@@ -37,7 +37,7 @@ To price your services accurately, first, you must understand the value you crea
    - **Non-Billable Hours:** Anticipate significant time spent on non-billable tasks like client acquisition, proposal writing, and administration. Your billable rate must compensate for this time.
 
    **Freelancer Pricing Rule of Thumb:**
-   Start with the annual salary you desire for a full-time role. Add 30-50% to cover additional costs, then divide that number by your expected billable hours (e.g., 1,500 hours, accounting for vacation and non-billable time) to determine your target hourly rate.
+   Start with the annual salary you desire for a full-time role. Add a percentage to cover additional costs, then divide that number by your expected billable hours (e.g., 1,500 hours, accounting for vacation and non-billable time) to determine your target hourly rate.
 
 ### Part 2: Pricing Models - Hourly, Project-Based, or Retainer?
 
@@ -51,7 +51,7 @@ Once you understand your value, select the appropriate pricing model for your en
 
 #### 2. Project-Based (Flat Rate)
 - **Definition:** Quote a single, fixed price for the entire project.
-- **Calculation:** Estimate the total hours required, multiply by your target hourly rate, and add a buffer (15-25%) for unforeseen issues or scope changes.
+- **Calculation:** Estimate the total hours required, multiply by your target hourly rate, and add a buffer for unforeseen issues or scope changes.
 - **Pros:** Rewards efficiency; completing the project faster increases your effective hourly rate. Clients appreciate having a clear, upfront cost.
 - **Cons:** High risk if time is underestimated. Requires clearly defined scope in the contract to prevent "scope creep."
 - **Best for:** Well-defined projects where you understand deliverables and processes, such as developing a specific feature, conducting an audit, or creating marketing materials.
@@ -68,7 +68,7 @@ Negotiating your salary or freelance rate follows similar principles.
 
 1. **Never Give the First Number:** When asked for salary expectations, deflect by saying, "I'm flexible and open to discussing a rate that aligns with the market and the value I can provide. Could you share your budget for this role/project?" This tactic shifts the conversation to their number.
    
-2. **Anchor High:** If you must provide a number, start with the high end of your target range. This tactic gives you room to negotiate downward. For example, if your target is $120,000, begin with an ask of $130,000.
+2. **Anchor High:** If you must provide a number, start with the high end of your target range. This tactic gives you room to negotiate downward. For example, if your target is a certain figure, begin with an ask that is higher.
 
 3. **Justify Your Price:** Clearly explain the value behind your rate. For example, "My rate is X, and for that, you receive my expertise in Y, which will help you achieve Z outcome."
 
@@ -92,14 +92,14 @@ Pricing your services improves through practice. By conducting thorough research
 
 | Name  | Role                     | Industry     | Outcome                                     |
 |-------|--------------------------|--------------|---------------------------------------------|
-| Sarah | Developer                | Blockchain   | Implemented pricing strategies, increased project efficiency by 20%. |
-| Juan  | Product Manager          | DeFi         | Restructured pricing model, improved client retention by 30%. |
-| Maya  | Transitioning from Web2  | Web3         | Adapted pricing to fit new market standards, increased income by 25%. |
+| Sarah | Developer                | Blockchain   | Implemented pricing strategies, increased project efficiency. |
+| Juan  | Product Manager          | DeFi         | Restructured pricing model, improved client retention. |
+| Maya  | Transitioning from Web2  | Web3         | Adapted pricing to fit new market standards, increased income. |
 
 ### FAQ
 
 **Q: How long will this take to implement?**  
-A: Initial results typically appear within 2-4 weeks of consistent application. Significant improvements are often visible within 8-12 weeks. Your timeline may vary based on your starting point, daily practice commitment, and whether you actively seek feedback.
+A: Initial results typically appear within a few weeks of consistent application. Significant improvements are often visible within a few months. Your timeline may vary based on your starting point, daily practice commitment, and whether you actively seek feedback.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Start with small, self-contained actions that don't require organizational buy-in. Focus on individual habits, personal projects, or conversations with like-minded colleagues. Document your progress to demonstrate results. If the environment remains unhelpful after sustained effort, it may be time to seek an organization that invests in its people.

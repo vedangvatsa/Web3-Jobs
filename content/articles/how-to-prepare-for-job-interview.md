@@ -137,7 +137,7 @@ Regularly assess your progress. Are you observing results? Adapt your strategy b
 
 #### Example 1: Sarah's Journey
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her interview preparation. After implementing structured strategies, she noted a 50% increase in her interview success rate within three months. 
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her interview preparation. After implementing structured strategies, she noted a significant increase in her interview success rate within three months. 
 
 #### Example 2: Juan's Experience
 
