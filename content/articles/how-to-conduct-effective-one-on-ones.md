@@ -40,11 +40,11 @@ Track your progress through metrics that matter. Are your meetings becoming more
 
 ### Example 1: Sarah in a Blockchain Startup
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her one-on-ones. She struggled to keep discussions focused and actionable. After implementing a structured agenda and inviting more input from her colleagues, she saw a 40% increase in project completion rates within three months. This change not only enhanced her productivity but also improved team morale.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her one-on-ones. She struggled to keep discussions focused and actionable. After implementing a structured agenda and inviting more input from her colleagues, she saw a notable increase in project completion rates within a few months. This change not only enhanced her productivity but also improved team morale.
 
 ### Example 2: Juan in DeFi
 
-Juan, a product manager in [DeFi](/what-is-defi), encountered similar obstacles. He realized that his meetings often became status updates rather than strategic discussions. By incorporating a problem-solving framework, he facilitated deeper conversations about product challenges and solutions. As a result, his team reduced time-to-market for new features by 30%, demonstrating the effectiveness of his revised approach.
+Juan, a product manager in [DeFi](/what-is-defi), encountered similar obstacles. He realized that his meetings often became status updates rather than strategic discussions. By incorporating a problem-solving framework, he facilitated deeper conversations about product challenges and solutions. As a result, his team reduced time-to-market for new features, demonstrating the effectiveness of his revised approach.
 
 ### Example 3: Maya Transitioning to Web3
 
@@ -78,7 +78,7 @@ Implementing a structured format can significantly enhance the effectiveness of 
 ## FAQ
 
 **How long will this take to implement?**  
-Most professionals notice initial improvements within 2 to 4 weeks. Significant changes often appear within 8 to 12 weeks, depending on your starting point and commitment level. Actively seeking feedback accelerates your progress. Treat the implementation process like a structured project, which consistently yields better results.
+Most professionals notice initial improvements within a few weeks. Significant changes often appear within a couple of months, depending on your starting point and commitment level. Actively seeking feedback accelerates your progress. Treat the implementation process like a structured project, which consistently yields better results.
 
 **What if my workplace environment doesn't support this?**  
 You often have more control than you realize. Begin with small, self-contained actions that don’t require organizational support. Focus on individual habits or personal projects. If, after sustained effort, you find the environment remains unyielding, consider this information when evaluating your career path.

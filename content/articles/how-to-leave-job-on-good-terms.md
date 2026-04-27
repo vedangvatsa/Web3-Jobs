@@ -16,7 +16,7 @@ Your reputation holds immense value in your professional life. By managing your 
 
 ### 1. Provide Sufficient Notice
 
-The standard notice period in most industries is two weeks. This duration allows your employer to begin searching for a replacement and facilitates a smoother transition of your responsibilities. 
+The standard notice period in most industries is typically two weeks. This duration allows your employer to begin searching for a replacement and facilitates a smoother transition of your responsibilities. 
 
 Review your employment contract, as some senior positions may stipulate a longer notice period. Unless you are in a genuinely detrimental work environment, aim to fulfill your entire notice period. Leaving without notice can disrupt your team and may be perceived as unprofessional.
 

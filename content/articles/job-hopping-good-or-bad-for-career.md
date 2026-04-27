@@ -16,13 +16,13 @@ The practice of "job hopping," which involves changing jobs every one to two yea
 
 **1. Faster Salary Growth**
 
-One of the most compelling reasons for job hopping is the potential for increased salary. Data from the Bureau of Labor Statistics shows that employees who change jobs can see salary increases of 10-20% or more, while those who stay with their current employer typically receive raises of 3-5% annually. For example, a software engineer earning $100,000 could potentially increase their salary to $120,000 simply by changing companies, rather than waiting for internal promotions. This trend is particularly pronounced in high-demand fields like tech and Web3, where talent shortages drive up offers.
+One of the most compelling reasons for job hopping is the potential for increased salary. Data from the Bureau of Labor Statistics shows that employees who change jobs can see salary increases of significant percentages, while those who stay with their current employer typically receive raises of smaller percentages annually. For example, a software engineer earning a competitive salary could potentially increase their earnings significantly simply by changing companies, rather than waiting for internal promotions. This trend is particularly pronounced in high-demand fields like tech and Web3, where talent shortages drive up offers.
 
 | Job Change Type         | Average Salary Increase |
 |-------------------------|-------------------------|
-| Internal Promotion      | 3-5%                    |
-| Job Change              | 10-20%                  |
-| Industry-Switching Move | 20-30%                  |
+| Internal Promotion      | Smaller percentages      |
+| Job Change              | Significant percentages  |
+| Industry-Switching Move | Higher percentages       |
 
 **2. Broader Skill Development**
 
@@ -60,7 +60,7 @@ Adopting a strategic approach to job hopping can maximize the benefits while min
 
 *   **Have a Good Reason for Each Move**: Clearly articulate why you left each role. Frame your decisions around seeking new challenges, developing specific skills, or aligning with your long-term career goals. Avoid negative comments about previous employers.
 
-*   **Show Accomplishments, Not Just Tenure**: Focus your resume on accomplishments rather than the duration of employment. Use quantifiable metrics to showcase your impact. For example, if you increased a team’s efficiency by 30% or led a project that generated $500,000 in revenue, highlight these achievements.
+*   **Show Accomplishments, Not Just Tenure**: Focus your resume on accomplishments rather than the duration of employment. Use quantifiable metrics to showcase your impact. For example, if you increased a team’s efficiency significantly or led a project that generated substantial revenue, highlight these achievements.
 
 *   **Don't Burn Bridges**: Leave each job professionally. Provide notice, assist with transitions, and maintain a positive attitude. The tech industry is interconnected, and preserving relationships can benefit you later in your career.
 

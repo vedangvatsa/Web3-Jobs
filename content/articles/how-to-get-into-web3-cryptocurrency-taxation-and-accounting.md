@@ -75,32 +75,32 @@ Several career opportunities exist in the realm of cryptocurrency taxation and a
 **Crypto Tax Accountants**: These professionals assist individuals and businesses in tracking and reporting crypto activities. Their responsibilities include maintaining records, calculating gains and losses, and preparing tax returns.
 
 - **Qualifications**: CPA or equivalent, knowledge of crypto taxation, attention to detail.
-- **Compensation**: Ranges from $80,000 to over $200,000, depending on specialization and experience.
+- **Compensation**: Varies based on specialization and experience.
 
 **Forensic Accountants**: They investigate fraud, theft, and misuse of cryptocurrencies. Their work entails tracing blockchain transactions, identifying stolen assets, and supporting law enforcement.
 
 - **Qualifications**: Accounting background, forensic investigation skills, blockchain expertise.
-- **Compensation**: Typically between $100,000 and $250,000, influenced by specialization.
+- **Compensation**: Typically influenced by specialization.
 
 **Project Accountants**: These professionals manage finances for cryptocurrency projects, ensuring proper accounting, token distributions, and financial reporting.
 
 - **Qualifications**: Accounting background, understanding of crypto and tokenomics.
-- **Compensation**: Ranges from $100,000 to $200,000, depending on project stage and size.
+- **Compensation**: Varies depending on project stage and size.
 
 **Internal Auditors**: They audit a company's crypto holdings and trading practices, ensuring compliance and proper controls.
 
 - **Qualifications**: Background in auditing, knowledge of crypto, understanding of internal controls.
-- **Compensation**: Generally from $90,000 to $180,000.
+- **Compensation**: Generally varies based on experience.
 
 **Regulatory and Compliance Specialists**: These experts help projects comply with regulatory requirements concerning crypto taxation and reporting.
 
 - **Qualifications**: Background in tax or regulatory compliance, knowledge of varying jurisdictions, and understanding of cryptocurrencies.
-- **Compensation**: Typically between $120,000 and $250,000.
+- **Compensation**: Typically varies based on experience.
 
 **Bookkeepers**: They maintain detailed records of crypto transactions, assisting in tax preparation and financial reporting.
 
 - **Qualifications**: Experience in bookkeeping, attention to detail, familiarity with crypto concepts.
-- **Compensation**: Generally between $50,000 and $120,000 based on experience.
+- **Compensation**: Generally varies based on experience.
 
 ## Breaking Into Crypto Accounting
 

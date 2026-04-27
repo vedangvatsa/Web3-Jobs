@@ -40,15 +40,15 @@ After the termination, reflect on the process. Did you adhere to your strategy? 
 
 ### Example 1: Sarah's Journey
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her role. After thorough performance reviews and feedback, it became clear that she struggled with meeting project deadlines consistently. Over a three-month period, Sarah engaged in targeted training and mentorship, ultimately improving her project delivery time by 50%. By adopting a structured approach, she transitioned her performance and became a valuable asset to her team.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her role. After thorough performance reviews and feedback, it became clear that she struggled with meeting project deadlines consistently. Over a period of time, Sarah engaged in targeted training and mentorship, ultimately improving her project delivery time significantly. By adopting a structured approach, she transitioned her performance and became a valuable asset to her team.
 
 ### Example 2: Juan's Experience
 
-Juan worked as a product manager in [DeFi](/what-is-defi) and encountered difficulties in aligning his team with project goals. After implementing a feedback loop involving regular check-ins and direct communication with team members, his team improved their project completion rates by 40%. Juan’s experience illustrates the effectiveness of a systematic approach to addressing performance issues.
+Juan worked as a product manager in [DeFi](/what-is-defi) and encountered difficulties in aligning his team with project goals. After implementing a feedback loop involving regular check-ins and direct communication with team members, his team improved their project completion rates significantly. Juan’s experience illustrates the effectiveness of a systematic approach to addressing performance issues.
 
 ### Example 3: Maya’s Transition
 
-Maya transitioned from a Web2 to a Web3 environment. Initially overwhelmed by the fast-paced, decentralized structure, she quickly adapted by seeking mentorship and participating in community forums. Within six months, she not only acclimated but also took on leadership roles within her team, demonstrating that a proactive approach to professional development can yield significant results.
+Maya transitioned from a Web2 to a Web3 environment. Initially overwhelmed by the fast-paced, decentralized structure, she quickly adapted by seeking mentorship and participating in community forums. Within a few months, she not only acclimated but also took on leadership roles within her team, demonstrating that a proactive approach to professional development can yield significant results.
 
 ### Performance Improvement Metrics Table
 

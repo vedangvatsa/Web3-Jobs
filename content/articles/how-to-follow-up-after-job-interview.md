@@ -49,7 +49,7 @@ If an internal recruiter or a designated contact has not responded to your email
 
 Occasionally, companies do not provide a clear timeline. In such cases, wait about a week to ten business days after your interview before sending your initial check-in email.
 
-If you still receive no response after that, send one final follow-up about a week later. After this point, it is generally best to shift your focus to other opportunities. While it can be frustrating when companies do not communicate, continued emails may come across as desperate. 
+If you still receive no response after that, send one final follow-up about a week later. After this point, it is generally best to shift your focus to other opportunities. While it can be frustrating when companies do not communicate, continued emails may come across as desperate.
 
 The key to effective follow-up is persistence without being pushy. Your goal is to showcase professionalism and enthusiasm for the role. A well-timed, well-crafted follow-up can distinguish you from other qualified candidates and improve your chances of landing the job.
 
@@ -82,6 +82,6 @@ If you recognize that you made an error during the interview, use your thank-you
 
 ### Conclusion
 
-Following up after a job interview is a critical step in the hiring process. A well-crafted thank-you email, coupled with appropriate follow-ups, can significantly enhance your candidacy. By maintaining professionalism, demonstrating genuine interest, and being respectful of the hiring timeline, you position yourself favorably in a competitive job market. 
+Following up after a job interview is a critical step in the hiring process. A well-crafted thank-you email, coupled with appropriate follow-ups, can significantly enhance your candidacy. By maintaining professionalism, demonstrating genuine interest, and being respectful of the hiring timeline, you position yourself favorably in a competitive job market.
 
 Focus on creating meaningful connections and expressing appreciation for the opportunity. This approach not only leaves a positive impression but also emphasizes your commitment to the role. As you move forward in your job search, remember that follow-up communication is an essential skill that can set you apart from other candidates in any industry, especially in dynamic sectors like [Web3](/what-is-web3).

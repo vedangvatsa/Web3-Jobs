@@ -82,7 +82,7 @@ Contract analysis is only one component of your due diligence.
 
 - **Team Transparency:** Investigate whether the team members are identifiable. Anonymity is common in crypto, but reputable projects typically feature a transparent team.
 - **Community Engagement:** Join the project's Discord. Assess whether discussions are authentic and vibrant or dominated by bots and hype. A healthy, engaged community often indicates a trustworthy project.
-- **Security Audits:** Determine if the project has undergone a security audit by a reputable firm such as Trail of Bits, OpenZeppelin, or CertiK. While an audit does not guarantee safety, it reflects a commitment to security.
+- **Security Audits:** Determine if the project has undergone a security audit by a reputable firm. While an audit does not guarantee safety, it reflects a commitment to security.
 
 ### Trust, but Verify
 
@@ -117,7 +117,7 @@ Regularly monitor your advancement. Adjust your approach based on feedback and o
 ### Real-World Applications of Smart Contract Literacy
 
 **Example 1**  
-Sarah, a developer at a blockchain startup, faced challenges with smart contract audits. After applying the strategies discussed, she improved her assessment skills significantly, leading to a 30% reduction in security vulnerabilities in her team's contracts over three months.
+Sarah, a developer at a blockchain startup, faced challenges with smart contract audits. After applying the strategies discussed, she improved her assessment skills significantly, leading to a notable reduction in security vulnerabilities in her team's contracts over three months.
 
 **Example 2**  
 Juan, a product manager in DeFi, struggled with understanding smart contracts, which impeded his decision-making. By implementing a structured evaluation framework, he successfully identified key risks, leading to the launch of a more secure product that increased user trust and engagement.
@@ -145,7 +145,7 @@ Maintain records of your assessments and improvements. Without metrics, it is ch
 ### FAQ
 
 **Q: How long will it take to become proficient in reading smart contracts?**  
-A: Initial results typically appear within 2–4 weeks of consistent practice, with more substantial improvements visible within 8–12 weeks. The timeframe depends on your starting point, daily practice commitment, and willingness to seek feedback. Individuals who actively track their progress through metrics or peer evaluations usually advance more quickly than those relying on passive observation.
+A: Initial results typically appear within a few weeks of consistent practice, with more substantial improvements visible within a couple of months. The timeframe depends on your starting point, daily practice commitment, and willingness to seek feedback. Individuals who actively track their progress through metrics or peer evaluations usually advance more quickly than those relying on passive observation.
 
 **Q: What if my workplace lacks support for this learning?**  
 A: Even in challenging environments, you can take initiative. Begin with small, self-directed actions that do not require organizational approval. Focus on personal projects or discussions with like-minded colleagues to build momentum. If structural barriers persist, consider seeking opportunities in environments that prioritize employee development.

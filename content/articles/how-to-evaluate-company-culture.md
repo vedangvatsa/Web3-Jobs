@@ -79,7 +79,7 @@ Approach the interview as a two-way evaluation. Ask direct, insightful questions
 
 - "How do you ensure the company’s values are integrated into daily operations?"
 - "What is the company's biggest challenge currently, and how is the team addressing it?"
-- "Where do you envision the company in three to five years, and what role does this department play in that vision?"
+- "Where do you envision the company in the coming years, and what role does this department play in that vision?"
 
 ### Beyond the Q&A: Observing the Clues
 
@@ -144,7 +144,7 @@ Monitor your progress. Are you achieving desired results? Adjust your approach b
 ### FAQ
 
 **Q: How long will this take to implement?**  
-A: Most individuals notice initial improvements within 2 to 4 weeks of consistent application, with significant changes often visible within 8 to 12 weeks. Variability is present based on individual starting points and commitment levels. Those who actively seek feedback and track their progress tend to see quicker results.
+A: Most individuals notice initial improvements within a few weeks of consistent application, with significant changes often visible within a few months. Variability is present based on individual starting points and commitment levels. Those who actively seek feedback and track their progress tend to see quicker results.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often possess more agency than you realize. Start with small actions that require no organizational approval, like developing personal habits or initiating conversations with colleagues. Gradual momentum can lead to larger changes.

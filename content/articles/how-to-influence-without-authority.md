@@ -38,7 +38,7 @@ Arguments grounded in data carry more weight than opinions alone. While personal
 
 - **Quantify the Problem**: Clearly articulate the issues your solution addresses.
     - **Instead of**: "Our onboarding process is confusing."
-    - **Try**: "Data analysis shows that 40% of new users drop off at a specific step in the onboarding flow, resulting in an estimated loss of 200 new users weekly."
+    - **Try**: "Data analysis shows that a significant percentage of new users drop off at a specific step in the onboarding flow, resulting in an estimated loss of new users weekly."
 - **Tell a Data-Driven Story**: Present your data in a narrative format. Create clear charts and visualizations that highlight key insights.
 - **Prototype Solutions**: When proposing new processes or tools, develop a small-scale experiment or prototype to demonstrate its effectiveness. A tangible demo often proves more compelling than extensive presentations.
 
@@ -93,13 +93,13 @@ Mastering the art of influence is vital for career advancement. Professionals sk
 ### FAQ
 
 **Q: How long will it take to see results?**  
-A: Most individuals notice initial progress within 2 to 4 weeks of consistent application. Significant improvements usually become evident within 8 to 12 weeks. The timeline varies based on your starting point, daily practice, and feedback-seeking efforts. Professionals who actively track their progress through metrics or peer feedback tend to achieve faster results than those relying solely on passive reflection.
+A: Most individuals notice initial progress within a few weeks of consistent application. Significant improvements usually become evident within a couple of months. The timeline varies based on your starting point, daily practice, and feedback-seeking efforts. Professionals who actively track their progress through metrics or peer feedback tend to achieve faster results than those relying solely on passive reflection.
 
 **Q: What if my workplace does not support this approach?**  
 A: You often have more agency than you realize, even in challenging environments. Start with small actions that require no organizational approval, such as personal projects or conversations with supportive colleagues. Gradually build momentum, documenting your progress and outcomes. If, after sustained effort, you find that your environment remains obstructive, consider exploring opportunities in organizations that prioritize employee development.
 
 **Q: How does this apply specifically to Web3?**  
-A: Web3 organizations typically have flatter hierarchies, providing you with direct access to decision-makers while also increasing your responsibility for self-direction. Remote and globally distributed teams emphasize written communication and asynchronous collaboration more than traditional office environments. The pace of work is often faster, with product cycles occurring in weeks instead of months. Adapting to this environment is a critical professional skill in the space.
+A: Web3 organizations typically have flatter hierarchies, providing you with direct access to decision-makers while also increasing your responsibility for self-direction. Remote and globally distributed teams emphasize written communication and asynchronous collaboration more than traditional office environments. The pace of work is often faster, with product cycles occurring in shorter timeframes. Adapting to this environment is a critical professional skill in the space.
 
 **Q: Can I implement these strategies alongside my current role?**  
 A: Yes, and this is the recommended approach for most professionals. You do not need to invest extra hours; you need to be intentional during the time you already have. Identify two or three practices that align with your daily work and focus on applying them consistently. The cumulative effect of small, deliberate improvements often yields better results than sporadic, large-scale efforts.
