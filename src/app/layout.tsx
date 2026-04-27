@@ -7,7 +7,7 @@ import { Inter } from 'next/font/google';
 import { Footer } from '@/components/footer';
 import Script from 'next/script';
 import type { WebSite, Organization } from 'schema-dts';
-import { TelegramPopupHandler } from '@/components/telegram-popup-handler';
+
 import { Suspense } from 'react';
 import dynamic from 'next/dynamic';
 
@@ -194,7 +194,7 @@ export default async function RootLayout({
             {children}
           </div>
           <Toaster />
-          <TelegramPopupHandler />
+
           <Footer />
         </PostHogProvider>
       </body>
