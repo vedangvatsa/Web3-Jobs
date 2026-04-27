@@ -93,7 +93,7 @@ Emphasize your motivations for the change and what excites you about the new ind
 
 ### The Importance of Transferable Skills
 
-Transferable skills serve as a foundation for success in various career paths. Whether you work in [Web3](/what-is-web3), traditional technology, or any knowledge-intensive industry, these skills significantly impact your career trajectory. Research consistently shows that investing in these abilities yields an impressive return on investment over a decade, with estimates ranging from 300% to 500%.
+Transferable skills serve as a foundation for success in various career paths. Whether you work in [Web3](/what-is-web3), traditional technology, or any knowledge-intensive industry, these skills significantly impact your career trajectory. Research consistently shows that investing in these abilities yields an impressive return on investment over time.
 
 ### Detailed Skill Breakdown
 
@@ -138,7 +138,7 @@ As you advance in your career, the importance of these skills increases:
 
 - **Junior Level:** Technical abilities take precedence, yet communication skills become more critical.
 - **Mid Level:** A balance of technical and soft skills emerges, along with leadership potential.
-- **Senior Level:** Soft skills account for 70% of your effectiveness.
+- **Senior Level:** Soft skills account for a significant portion of your effectiveness.
 - **Leadership:** Emotional intelligence and communication become dominant.
 
 ### Common Development Mistakes

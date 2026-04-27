@@ -22,7 +22,7 @@ Silicon has long dominated the solar cell market due to its abundance, stability
 
 The primary challenge facing perovskites is their durability. Current formulations degrade when exposed to moisture and high temperatures. Researchers are developing more stable perovskite compositions and effective encapsulation techniques to enhance their longevity.
 
-A particularly promising development is the **perovskite-silicon tandem solar cell**. This design stacks a semi-transparent perovskite cell atop a traditional silicon cell. The perovskite layer captures high-energy blue light, while the silicon layer absorbs lower-energy red light. Together, these tandem cells can surpass silicon's efficiency limits. Laboratory prototypes have already achieved efficiency rates exceeding 33%, indicating significant potential for increased power generation from a given surface area.
+A particularly promising development is the **perovskite-silicon tandem solar cell**. This design stacks a semi-transparent perovskite cell atop a traditional silicon cell. The perovskite layer captures high-energy blue light, while the silicon layer absorbs lower-energy red light. Together, these tandem cells can surpass silicon's efficiency limits. Laboratory prototypes have already achieved efficiency rates exceeding 30%, indicating significant potential for increased power generation from a given surface area.
 
 ### Integrating Solar into Everyday Life
 
@@ -58,11 +58,11 @@ Current solar window technologies do not yet achieve full transparency. There is
 | Technology Type               | Efficiency Range     | Key Advantages                                   | Challenges                      |
 |-------------------------------|----------------------|-------------------------------------------------|---------------------------------|
 | Silicon PV Panels             | 15% - 22%            | Well-established, affordable, stable             | Approaching efficiency limits    |
-| Perovskite Solar Cells        | 20% - 33% (lab)      | High efficiency, low production cost, flexible   | Durability issues                |
+| Perovskite Solar Cells        | 20% - 30% (lab)      | High efficiency, low production cost, flexible   | Durability issues                |
 | BIPV (Building-Integrated)    | 10% - 15%            | Aesthetic integration, dual functionality        | Lower efficiency compared to traditional panels |
 | Flexible/Printed Solar Cells   | 10% - 15%            | Lightweight, versatile, potential for new applications | Lower efficiency, limited commercial viability |
-| Flow Batteries                | Varies (up to 80%)   | Long-duration storage, scalable                   | Higher upfront costs             |
-| Thermal Storage               | Varies (up to 90%)   | Cost-effective for large solar installations      | Requires specific infrastructure  |
+| Flow Batteries                | Varies               | Long-duration storage, scalable                   | Higher upfront costs             |
+| Thermal Storage               | Varies               | Cost-effective for large solar installations      | Requires specific infrastructure  |
 
 ### Conclusion
 

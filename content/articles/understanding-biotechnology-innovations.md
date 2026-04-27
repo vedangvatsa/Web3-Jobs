@@ -85,11 +85,11 @@ Regularly assess your progress. Are you achieving the desired outcomes? Use feed
 
 #### Example 1: Sarah's Transformation in a Blockchain Startup
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with integrating biotechnology into her projects. By applying the strategies outlined above, she experienced notable improvements within three months, significantly enhancing her team's project efficiency by 30%.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with integrating biotechnology into her projects. By applying the strategies outlined above, she experienced notable improvements within a few months, significantly enhancing her team's project efficiency.
 
 #### Example 2: Juan's Success in the DeFi Sector
 
-Juan, a product manager in [DeFi](/what-is-defi), faced challenges related to biotechnology integration in product development. By implementing the structured learning framework, he successfully launched a new product line that increased user engagement by 25%, showcasing the value of biotechnology in financial technology.
+Juan, a product manager in [DeFi](/what-is-defi), faced challenges related to biotechnology integration in product development. By implementing the structured learning framework, he successfully launched a new product line that increased user engagement, showcasing the value of biotechnology in financial technology.
 
 #### Example 3: Maya's Transition to Web3
 

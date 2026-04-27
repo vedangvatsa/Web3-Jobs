@@ -28,7 +28,7 @@ Training a computer vision model involves several key steps:
 
 3. **Feature Learning**: A significant advantage of deep learning is that the model autonomously learns critical features. Developers do not need to specify what constitutes a wheel; the model identifies relevant patterns through analysis of the extensive dataset.
 
-4. **Prediction and Refinement**: After training, the model can analyze new, unseen images. The input image passes through the network, and the output layer generates a prediction, such as "there is an 85% probability that this image contains a car." As the model processes more diverse data, its accuracy improves.
+4. **Prediction and Refinement**: After training, the model can analyze new, unseen images. The input image passes through the network, and the output layer generates a prediction, such as "there is a high probability that this image contains a car." As the model processes more diverse data, its accuracy improves.
 
 ### Principal Tasks in Computer Vision
 
@@ -64,7 +64,7 @@ Computer vision has found utility across numerous industries:
 No, while related, they differ significantly. Image processing focuses on transforming images, such as enhancing sharpness or adjusting contrast. It operates directly on the pixels. In contrast, computer vision aims to understand the content of images, extracting meaning and making decisions based on visual input. Image processing often serves as a preliminary step within a broader computer vision framework.
 
 **2. How accurate are computer vision models?**  
-Modern computer vision models can achieve accuracy levels that meet or exceed human performance in specific, well-defined tasks. For instance, certain models for image classification can exceed 90% accuracy in controlled environments. However, their performance hinges on the quality and diversity of the training data. These models can still exhibit weaknesses and make errors when faced with unfamiliar scenarios or objects.
+Modern computer vision models can achieve accuracy levels that meet or exceed human performance in specific, well-defined tasks. For instance, certain models for image classification can achieve high accuracy in controlled environments. However, their performance hinges on the quality and diversity of the training data. These models can still exhibit weaknesses and make errors when faced with unfamiliar scenarios or objects.
 
 **3. What challenges does computer vision face?**  
 Despite remarkable advancements, challenges persist. Models often struggle with adverse conditions such as poor lighting or occluded objects. They require extensive labeled data for training, which can be both costly and time-consuming to produce. Additionally, addressing rare events in training data remains a significant hurdle. For example, a self-driving car may have extensive driving data but might not be prepared for a rare occurrence like a deer crossing the road at night in inclement weather.
@@ -104,10 +104,10 @@ Continuously track your advancements. Are you achieving the expected results? Ad
 ## Real-World Examples
 
 ### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with implementing computer vision algorithms. After adopting the outlined strategies, she experienced a 40% reduction in error rates in her model outcomes within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with implementing computer vision algorithms. After adopting the outlined strategies, she experienced a significant reduction in error rates in her model outcomes within three months.
 
 ### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered obstacles in integrating computer vision into his product line. By following the same framework, he achieved a 25% increase in user engagement within two quarters, demonstrating the effectiveness of these methods.
+Juan, a product manager in [DeFi](/what-is-defi), encountered obstacles in integrating computer vision into his product line. By following the same framework, he achieved a notable increase in user engagement within two quarters, demonstrating the effectiveness of these methods.
 
 ### Example 3
 Maya, transitioning from Web2 to Web3, applied these principles to adapt swiftly. Her experience illustrates that these strategies are applicable regardless of background or experience level.

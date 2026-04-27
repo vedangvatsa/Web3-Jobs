@@ -34,33 +34,33 @@ This article provides a thorough breakdown of LP rewards, detailing how trading 
 
 The fundamental reward for providing liquidity comes from trading fees.
 
-**How it Works**: Each time a trader executes a swap using the liquidity pool, they incur a small fee. For example, on Uniswap v2, this fee is a fixed 0.30%. In contrast, Uniswap v3 offers fee tiers that can vary from 0.05% to 1.00%, depending on the pool.
+**How it Works**: Each time a trader executes a swap using the liquidity pool, they incur a small fee. For example, on Uniswap v2, this fee is a fixed percentage. In contrast, Uniswap v3 offers fee tiers that can vary, depending on the pool.
 
 **Distribution**: Collected fees are automatically reinvested into the liquidity pool, resulting in an increase in the total value of assets held in the pool over time.
 
-**Your Share**: As an LP, you own a percentage of the pool. Fees are distributed proportional to your ownership. For instance, if you contribute 10% of the pool's liquidity, you receive 10% of the trading fees generated.
+**Your Share**: As an LP, you own a percentage of the pool. Fees are distributed proportional to your ownership. For instance, if you contribute a certain percentage of the pool's liquidity, you receive the same percentage of the trading fees generated.
 
 The formula for estimating your daily fee income is:
 ```
 Daily Fees = (Daily Pool Volume * Fee Tier) * Your Share of the Pool
 ```
 
-For example, if a pool has $1,000,000 in daily trading volume with a 0.30% fee tier, and you own 1% of the pool:
-- Total daily fees = $1,000,000 * 0.003 = $3,000
-- Your share of fees = $3,000 * 0.01 = $30 per day
+For example, if a pool has significant daily trading volume with a certain fee tier, and you own a small percentage of the pool:
+- Total daily fees = Daily Pool Volume * Fee Tier
+- Your share of fees = Total daily fees * Your Share of the Pool
 
 ### 2. Yield Farming Rewards (Liquidity Mining)
 
 Trading fees alone often fall short in attracting the liquidity necessary for a protocol's success. To enhance attractiveness, many projects implement **liquidity mining** or **yield farming** incentives.
 
 **How it Works**:
-1. A project aims to enhance liquidity for its native token, "PROJ," against [ETH](/what-is-ethereum).
-2. A liquidity pool is created for the PROJ/ETH pair.
-3. LPs providing liquidity on a DEX receive PROJ/ETH LP tokens.
+1. A project aims to enhance liquidity for its native token against another asset.
+2. A liquidity pool is created for the token pair.
+3. LPs providing liquidity on a DEX receive LP tokens.
 4. LPs stake these LP tokens in the farm contract.
-5. The farm contract distributes a set amount of PROJ tokens as rewards to stakers over time, based on the number of LP tokens staked.
+5. The farm contract distributes a set amount of tokens as rewards to stakers over time, based on the number of LP tokens staked.
 
-This mechanism enables LPs to accumulate both trading fees from the DEX and PROJ token rewards from the farm.
+This mechanism enables LPs to accumulate both trading fees from the DEX and token rewards from the farm.
 
 #### Understanding APR/APY in Yield Farming
 
@@ -76,12 +76,12 @@ Success as an LP relies on finding pools where the rewards earned exceed the ris
 
 | Pool Type        | Example Assets         | Risk of Impermanent Loss | Expected Returns       |
 |------------------|-----------------------|--------------------------|------------------------|
-| Stable Pairs     | USDC/DAI              | Near zero                | Low (predominantly fees) |
+| Stable Pairs     | Stablecoins           | Near zero                | Low (predominantly fees) |
 | Volatile Pairs   | New altcoin/ETH       | High                     | High (fees + yield)    |
 
-- **Stable Pairs**: In pools containing two stable assets, such as USDC and DAI, the risk of impermanent loss is minimal. Returns are primarily driven by trading fees, which typically remain low, making this a low-risk, low-reward strategy.
+- **Stable Pairs**: In pools containing two stable assets, the risk of impermanent loss is minimal. Returns are primarily driven by trading fees, which typically remain low, making this a low-risk, low-reward strategy.
 
-- **Volatile Pairs**: Pools featuring two volatile assets, like a new altcoin against ETH, carry a significant risk of impermanent loss. The price of the altcoin can fluctuate dramatically. To attract LPs to these pools, projects often offer substantial yield farming rewards, resulting in a high-risk, high-reward scenario.
+- **Volatile Pairs**: Pools featuring two volatile assets carry a significant risk of impermanent loss. The price of the altcoin can fluctuate dramatically. To attract LPs to these pools, projects often offer substantial yield farming rewards, resulting in a high-risk, high-reward scenario.
 
 - **The Goal**: As an LP, aim for a position where `(Trading Fees + Yield Farming Rewards) > Impermanent Loss`.
 
@@ -94,7 +94,7 @@ LPs do not claim trading fees separately. Instead, fees are automatically reinve
 Yield farming rewards usually come from the project’s treasury or ecosystem fund. A percentage of the total token supply is often allocated for liquidity mining to incentivize early participation in the protocol.
 
 **Are high APYs a warning sign?**  
-High APYs are not inherently negative, but they warrant caution. An exorbitant APY (e.g., over 1000%) is often unsustainable, indicating a new farm with high token emission rates. While such opportunities may yield short-term gains, the value of the reward token can rapidly decline, negating profits.
+High APYs are not inherently negative, but they warrant caution. An exorbitant APY is often unsustainable, indicating a new farm with high token emission rates. While such opportunities may yield short-term gains, the value of the reward token can rapidly decline, negating profits.
 
 **How does [concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap) (Uniswap v3) affect LP fees?**  
 Concentrated liquidity allows LPs to capture a larger share of fees with the same capital investment, provided their liquidity remains within the active trading range. This can enhance fee revenue but also increases exposure to impermanent loss.
@@ -128,10 +128,10 @@ Regularly monitor your progress. Are you achieving intended results? Adjust your
 ## Real-World Examples
 
 ### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in optimizing her liquidity provision strategies. After applying structured methods to assess potential pools and implement yield farming, she observed a 30% increase in her annual returns within six months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in optimizing her liquidity provision strategies. After applying structured methods to assess potential pools and implement yield farming, she observed an increase in her annual returns within six months.
 
 ### Example 2
-Juan, a product manager in DeFi, struggled with attracting liquidity to his project. By utilizing a targeted strategy for incentivizing LPs, he successfully increased the liquidity in his token's pool by 150%. His experience highlights the effectiveness of calculated approaches in yield farming.
+Juan, a product manager in DeFi, struggled with attracting liquidity to his project. By utilizing a targeted strategy for incentivizing LPs, he successfully increased the liquidity in his token's pool. His experience highlights the effectiveness of calculated approaches in yield farming.
 
 ### Example 3
 Maya transitioned from Web2 to Web3, initially feeling overwhelmed by the complexities of liquidity provision. By following a structured approach to learning and applying best practices, she adapted swiftly, achieving significant success in her new role within three months.

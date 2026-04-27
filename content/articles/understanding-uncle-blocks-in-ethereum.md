@@ -82,7 +82,7 @@ A: No, Bitcoin does not utilize Uncle blocks. In Bitcoin, a stale block is simpl
 A: "Ommer" serves as a gender-neutral term for the sibling of a parent in Ethereum’s terminology, avoiding the gendered term "Uncle." While "Uncle" is often used informally, technical specifications primarily refer to them as Omers.
 
 **Q: How much was the reward for an Uncle block?**  
-A: The reward structure for Uncle blocks varied over time. Typically, an Uncle miner received a substantial fraction of the base block reward, such as 7/8ths or 87.5%. The miner who included the Uncle received a small bonus, often 1/32nd of the block reward for each Uncle included.
+A: The reward structure for Uncle blocks varied over time. Typically, an Uncle miner received a significant fraction of the base block reward. The miner who included the Uncle received a small bonus, often a fraction of the block reward for each Uncle included.
 
 **Q: Could a block be both an Uncle and a main chain block?**  
 A: No, by definition, an Uncle block is not part of the canonical chain. It is a valid block that was not included in the main history but is still acknowledged.

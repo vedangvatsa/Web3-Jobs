@@ -33,7 +33,7 @@ Security expertise differentiates junior developers from seasoned professionals.
 A commitment to thorough testing distinguishes a professional Web3 developer. Contracts lacking adequate testing signal risk to potential employers.
 
 - **Key Concepts:** Gain proficiency in at least one leading testing framework, such as [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) or Hardhat. Ensure your test suite encompasses unit tests, integration tests, and fork tests.
-- **Practical Steps:** Aim for over 95% test coverage on personal projects. Learn to write fuzz tests in Foundry to automatically identify edge cases.
+- **Practical Steps:** Aim for high test coverage on personal projects. Learn to write fuzz tests in Foundry to automatically identify edge cases.
 
 ### 4. Gas Optimization
 
@@ -92,7 +92,7 @@ The demand for talent in the Web3 sector is surging, with many roles offering co
 
 | **Aspect**                | **Web3**                     | **Web2**                   |
 |--------------------------|------------------------------|----------------------------|
-| **Compensation**          | 20-40% higher                 | Standard industry rates     |
+| **Compensation**          | Generally higher than Web2   | Standard industry rates     |
 | **Remote Work Flexibility** | Fully remote roles          | Limited remote options      |
 | **Growth Potential**      | Rapid advancement             | Slower progression          |
 | **Equity Opportunities**  | Standard token/equity packages | Less common in tech roles   |
@@ -150,11 +150,11 @@ Target roles that blend your existing skills with newly acquired Web3 knowledge:
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a major tech firm, committed three months to learning Solidity while retaining his job. His contributions to an open-source project caught the attention of a prominent DeFi initiative, leading to a transition with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a major tech firm, committed three months to learning Solidity while retaining his job. His contributions to an open-source project caught the attention of a prominent DeFi initiative, leading to a transition with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 
-Jessica, previously a PM in finance, leveraged her expertise in DeFi to transition into Web3. Her background in financial products made her an attractive candidate, allowing her to secure a role at a leading DeFi protocol within four weeks.
+Jessica, previously a PM in finance, leveraged her expertise in DeFi to transition into Web3. Her background in financial products made her an attractive candidate, allowing her to secure a role at a leading DeFi protocol within a short time.
 
 ### Career Changer Success
 
@@ -176,7 +176,7 @@ Marcus left his corporate role to focus on Web3 for six months. Through dedicate
 No. The Web3 ecosystem requires diverse roles beyond engineering, including marketing, community management, product design, legal, and operations. Your existing skills are valuable; you just need to understand the Web3 context.
 
 **How much can I earn in Web3?**  
-Compensation in Web3 often exceeds Web2 salaries by 30 to 60%. Roles like Solidity engineers and smart contract auditors command the highest premiums due to demand. Total compensation packages can range from $200,000 to $350,000 for senior positions.
+Compensation in Web3 often exceeds Web2 salaries. Roles like Solidity engineers and smart contract auditors command the highest premiums due to demand. Total compensation packages can vary widely for senior positions.
 
 **Is it risky to transition to Web3?**  
 Transitions always carry risk, and Web3 is no exception. You can mitigate this by targeting established protocols with proven revenue and negotiating base salaries in fiat.

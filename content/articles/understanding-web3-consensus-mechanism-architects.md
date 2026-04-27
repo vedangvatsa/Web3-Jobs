@@ -28,7 +28,7 @@ This is the **Byzantine Generals Problem**, formulated by Leslie Lamport in 1982
 - Traitors = Malicious nodes or attackers
 - Messengers = Network communication
 
-A consensus mechanism must work correctly even if up to 1/3 of participants are malicious (the theoretical limit for certain algorithms).
+A consensus mechanism must work correctly even if up to one-third of participants are malicious (the theoretical limit for certain algorithms).
 
 ### The CAP Theorem
 
@@ -97,7 +97,7 @@ They use mathematical proofs and simulation to verify security properties:
 - Model realistic network conditions (delays, packet loss)
 - Test for edge cases and failure modes
 
-**Example:** A researcher might prove: "Given assumptions A, B, and C, this mechanism guarantees that an attacker with less than 1/3 of the stake cannot rewrite history."
+**Example:** A researcher might prove: "Given assumptions A, B, and C, this mechanism guarantees that an attacker with less than one-third of the stake cannot rewrite history."
 
 ### 4. Whitepaper Authoring
 
@@ -152,7 +152,7 @@ Many consensus mechanisms rely on cryptographic assumptions (e.g., "if an attack
 - Incentive compatibility
 
 **Example Application:**
-Design a system where a rational participant prefers to validate honestly rather than attack the network. This isn't about trusting humans to be good-it's about making dishonesty economically irrational.
+Design a system where a rational participant prefers to validate honestly rather than attack the network. This isn't about trusting humans to be good; it's about making dishonesty economically irrational.
 
 ### 4. Academic Research Methodology
 
@@ -175,11 +175,11 @@ Most professionals in this role have advanced degrees (Master's or PhD) in relat
 **Key Innovation:** Use computational work to prove security.
 **How:** Miners solve computational puzzles (hash-finding) to earn the right to add the next block.
 **Trade-off:** Uses significant energy but highly secure against 51% attacks.
-**Security:** ~1-2 hours for irreversible finality.
+**Security:** Takes a certain amount of time for irreversible finality.
 
 ### Ethereum 1.0: Proof-of-Work (2015)
 
-**Key Innovation:** Same PoW, but faster block times (15 seconds vs. Bitcoin's 10 minutes).
+**Key Innovation:** Same PoW, but faster block times compared to Bitcoin.
 **Challenge:** Makes 51% attacks easier on shorter time horizons.
 **Evolution:** Ethereum added uncle/aunt rewards to protect shorter-term security.
 
@@ -245,7 +245,7 @@ Related: **[A Deep Dive into Rollups for Ethereum Scaling](a-deep-dive-into-roll
 
 Work for Ethereum, Solana, Polygon, or other Layer-1s on core consensus improvements.
 
-**Salary:** $150,000 - $350,000+ depending on experience and location
+**Salary:** Varies significantly depending on experience and location
 
 **Requirements:**
 - PhD or Master's in CS/Math
@@ -256,7 +256,7 @@ Work for Ethereum, Solana, Polygon, or other Layer-1s on core consensus improvem
 
 Organizations like Ethereum Foundation, Protocol Labs (Filecoin), or Cardano Foundation have dedicated research teams.
 
-**Salary:** $120,000 - $280,000+
+**Salary:** Varies based on organization and experience
 
 **Advantage:** Focus on fundamental research without product pressure
 
@@ -264,7 +264,7 @@ Organizations like Ethereum Foundation, Protocol Labs (Filecoin), or Cardano Fou
 
 New blockchain projects hire architects to design novel consensus.
 
-**Compensation:** Salary + significant equity (0.5-3%+)
+**Compensation:** Salary + potential equity
 
 **Risk:** Startups may fail, but successful ones create substantial wealth
 
@@ -272,7 +272,7 @@ New blockchain projects hire architects to design novel consensus.
 
 Established tech companies hiring blockchain/consensus experts as they enter the space.
 
-**Salary:** Often highest ($200,000-$400,000+)
+**Salary:** Often competitive with industry standards
 
 **Advantage:** Stability + high compensation
 
@@ -348,11 +348,11 @@ Centralization creates a single point of failure. The whole point of blockchains
 **Q: What's the difference between Proof-of-Work and Proof-of-Stake?**
 
 - **PoW:** Miners solve computational puzzles; most work wins the right to add the next block. Uses significant energy.
-- **PoS:** Validators stake coins; those with stake are chosen to validate. Loser: energy efficient but potentially less secure.
+- **PoS:** Validators stake coins; those with stake are chosen to validate. More energy efficient but potentially less secure.
 
 **Q: Is Proof-of-Stake really secure?**
 
-Ethereum moved to PoS in 2022, and it's working well. Security comes from slashing conditions (losing stake for bad behavior). Research has validated the approach, but some argue PoW remains theoretically more proven.
+Ethereum transitioned to PoS in 2022, and it's functioning as intended. Security comes from slashing conditions (losing stake for bad behavior). Research has validated the approach, but some argue PoW remains theoretically more proven.
 
 **Q: What makes a consensus mechanism "good"?**
 
@@ -371,7 +371,7 @@ Often they don't code the implementation themselves. They design the algorithm, 
 
 ## The Bottom Line
 
-Consensus Mechanism Architects are among the most highly respected and intellectually demanding roles in [Web3](/what-is-web3). They sit at the intersection of mathematics, computer science, game theory, and economics, solving problems that have profound implications for billions of dollars in value.
+Consensus Mechanism Architects are among the most highly respected and intellectually demanding roles in [Web3](/what-is-web3). They sit at the intersection of mathematics, computer science, game theory, and economics, solving problems that have profound implications for billions in value.
 
 If you have deep expertise in distributed systems, cryptography, or game theory, and you're interested in fundamentally important problems, this career path offers intellectual challenge, substantial compensation, and the opportunity to shape the infrastructure of the decentralized internet.
 
