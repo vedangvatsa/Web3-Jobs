@@ -15,9 +15,13 @@ export const revalidate = 3600;
 
 export async function generateStaticParams() {
   const companies = await getCompanies();
-  return companies.map((company) => ({
-    slug: company.slug,
-  }));
+  // Only pre-render top 20 companies; rest are built on-demand via ISR
+  return companies
+    .sort((a, b) => b.jobCount - a.jobCount)
+    .slice(0, 20)
+    .map((company) => ({
+      slug: company.slug,
+    }));
 }
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
