@@ -1,0 +1,199 @@
+{
+  "timestamp": "2026-04-22T17:43:42",
+  "input_count": 724446,
+  "final_verified_count": 724254,
+  "total_rejected": 192,
+  "phase1_rejections": {
+    "junk_pattern": 185,
+    "too_short": 7
+  },
+  "smtp_verified": 0,
+  "smtp_rejected": 0,
+  "smtp_inconclusive": 0,
+  "domain_smtp_results": {
+    "gmail.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 310700
+    },
+    "yahoo.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 143727
+    },
+    "yahoo.co.in": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 114256
+    },
+    "rediffmail.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 104628
+    },
+    "hotmail.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 34503
+    },
+    "yahoo.in": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 4631
+    },
+    "rediff.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 3677
+    },
+    "ymail.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 2671
+    },
+    "yahoo.co.uk": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 2520
+    },
+    "live.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 1054
+    },
+    "msn.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 454
+    },
+    "live.in": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 420
+    },
+    "mail.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 341
+    },
+    "aol.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 152
+    },
+    "inbox.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 140
+    },
+    "yahoo.ca": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 103
+    },
+    "googlemail.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 99
+    },
+    "yahoo.com.au": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 93
+    },
+    "gmx.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 24
+    },
+    "gmx.net": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 19
+    },
+    "mail.ru": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 14
+    },
+    "mac.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 9
+    },
+    "zoho.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 8
+    },
+    "me.com": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 5
+    },
+    "hotmail.co.in": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 4
+    },
+    "yandex.ru": {
+      "smtp_works": false,
+      "catch_all": false,
+      "reason": "SMTP error: Server disconnected (likely blocking verification)",
+      "email_count": 2
+    }
+  },
+  "final_domain_breakdown": {
+    "gmail.com": 310700,
+    "yahoo.com": 143727,
+    "yahoo.co.in": 114256,
+    "rediffmail.com": 104628,
+    "hotmail.com": 34503,
+    "yahoo.in": 4631,
+    "rediff.com": 3677,
+    "ymail.com": 2671,
+    "yahoo.co.uk": 2520,
+    "live.com": 1054,
+    "msn.com": 454,
+    "live.in": 420,
+    "mail.com": 341,
+    "aol.com": 152,
+    "inbox.com": 140,
+    "yahoo.ca": 103,
+    "googlemail.com": 99,
+    "yahoo.com.au": 93,
+    "gmx.com": 24,
+    "gmx.net": 19,
+    "mail.ru": 14,
+    "mac.com": 9,
+    "zoho.com": 8,
+    "me.com": 5,
+    "hotmail.co.in": 4,
+    "yandex.ru": 2
+  }
+}
