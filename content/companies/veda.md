@@ -1,5 +1,6 @@
 ---
 name: Veda
+website: https://veda.tech
 category: Other
 description: Veda is a company focused on financial solutions in the Web3 space.
 ---

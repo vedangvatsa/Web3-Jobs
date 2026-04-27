@@ -1,5 +1,6 @@
 ---
 name: Sei
+website: https://sei.io
 category: Layer 1/Layer 2
 description: Sei is a blockchain designed for decentralized finance applications.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Rain
+website: https://rain.fi
 category: Crypto Payments
 description: Rain is a cryptocurrency exchange and payment platform.
 ---

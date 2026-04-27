@@ -1,5 +1,6 @@
 ---
 name: Braavos
+website: https://braavos.app
 category: Other
 description: Braavos is a platform focused on enhancing user experience in Web3 applications.
 ---

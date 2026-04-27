@@ -1,5 +1,6 @@
 ---
 name: Safe
+website: https://safe.global
 category: Other
 description: Safe provides a platform for managing digital assets securely.
 ---

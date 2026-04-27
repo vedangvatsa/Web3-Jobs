@@ -1,5 +1,6 @@
 ---
 name: Nous Research
+website: https://nousresearch.com
 category: Other
 description: Nous Research focuses on blockchain technology and decentralized applications.
 ---
