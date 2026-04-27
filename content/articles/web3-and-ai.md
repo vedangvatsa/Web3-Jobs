@@ -30,7 +30,7 @@ The quality of an AI model hinges on the integrity of its training data. Web3 ca
 AI models rely on vast datasets currently controlled by major technology firms. Web3 can shift this paradigm.
 
 - **Implementation:** Users can retain ownership of their data within their own [crypto wallets](/how-to-choose-a-crypto-wallet) and choose to share it for AI training in exchange for cryptocurrency.
-- **Outcome:** This model fosters a more equitable data economy, compensating users for their contributions. Notable projects like **Worldcoin** are working to build decentralized networks for identity and data sharing.
+- **Outcome:** This model fosters a more equitable data economy, compensating users for their contributions. Notable projects are working to build decentralized networks for identity and data sharing.
 
 #### 3. On-Chain Model Verification and Integrity
 
@@ -81,7 +81,7 @@ By enhancing AI's transparency and accountability while simultaneously making We
 
 The Web3 sector is expanding rapidly, with demand for qualified talent significantly exceeding supply. Unlike conventional tech roles, Web3 positions come with unique benefits. These include:
 
-- Higher compensation, often exceeding traditional tech roles by 20-40%.
+- Higher compensation, often exceeding traditional tech roles.
 - Opportunities for equity in emerging projects.
 - Fully remote work arrangements.
 - The chance to contribute to transformative technologies.
@@ -92,7 +92,7 @@ The [Web3 job](/web3-jobs-for-beginners) market differs substantially from Web2 
 
 | Factor                       | Web3                                 | Web2                               |
 |------------------------------|--------------------------------------|------------------------------------|
-| **Compensation**             | 20-40% higher on average             | Standard industry rates            |
+| **Compensation**             | Generally higher on average          | Standard industry rates            |
 | **Remote Work Culture**      | Fully or primarily remote            | Often office-based                  |
 | **Career Growth**            | Rapid advancement due to scaling     | Slower progression                  |
 | **Equity Opportunities**     | Token and equity packages standard    | Limited equity options              |
@@ -150,7 +150,7 @@ Target roles that build on your existing expertise while incorporating your newf
 
 ### From Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while working full-time. His contributions to an open-source protocol caught the attention of a major DeFi project, leading to a transition with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while working full-time. His contributions to an open-source protocol caught the attention of a major DeFi project, leading to a transition with a significant salary increase and substantial equity.
 
 ### Transitioning Product Managers
 
@@ -158,7 +158,7 @@ Jessica, a product manager from a traditional finance background, utilized her e
 
 ### Career Changer Triumph
 
-Marcus opted to leave his corporate job to focus on Web3 for six months. Through dedicated learning, networking, and portfolio development, he landed a position leading Developer Relations at a significant blockchain platform, with compensation far exceeding his previous salary.
+Marcus opted to leave his corporate job to focus on Web3 for six months. Through dedicated learning, networking, and portfolio development, he landed a position leading Developer Relations at a notable blockchain platform, with compensation far exceeding his previous salary.
 
 ## Challenges in Web3
 
@@ -176,7 +176,7 @@ Marcus opted to leave his corporate job to focus on Web3 for six months. Through
 A: No. The Web3 ecosystem requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal, and business development are all in demand. Existing skills are transferable; you just need to layer in Web3 concepts such as wallet functionality, DAO structures, and the importance of decentralization.
 
 **Q: What is the earning potential in Web3?**  
-A: Compensation in Web3 generally exceeds that of Web2 roles. Base salaries can be 30-60% higher on average, with roles in Solidity development and smart contract auditing commanding the highest premiums. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate over time. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 annually.
+A: Compensation in Web3 generally exceeds that of Web2 roles. Base salaries can be higher on average, with roles in Solidity development and smart contract auditing commanding the highest premiums. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that may appreciate over time. Senior engineers at well-funded protocols can earn significant salaries.
 
 **Q: Is transitioning to Web3 risky?**  
 A: Like any career shift, moving into Web3 carries risks, particularly due to market volatility and project lifecycles. You can mitigate these risks by targeting well-funded protocols with established revenue, verifying team backgrounds, and ensuring your base salary is set in fiat currency.

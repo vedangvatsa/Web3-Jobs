@@ -22,7 +22,7 @@ Although the Web3 ecosystem in Addis Ababa is still developing, it possesses sev
 |--------------------------|----------------------------------------------------------------------------------------------|
 | **Youth Population**     | Ethiopia has one of the youngest demographics globally, eager to adopt new technologies.    |
 | **Use Case Focus**       | The community emphasizes practical applications, such as decentralized identity systems and transparent supply chains for coffee. |
-| **Government Interest**   | The Ethiopian government has committed to blockchain initiatives, including a digital identity system for students. |
+| **Government Interest**   | The Ethiopian government has shown interest in blockchain initiatives, including a digital identity system for students. |
 | **Developer Community**   | While small, the local developer community is enthusiastic. Hubs like IceAddis nurture tech entrepreneurship and collaboration. |
 
 ### In-Demand Roles and Salary Expectations
@@ -30,14 +30,14 @@ Although the Web3 ecosystem in Addis Ababa is still developing, it possesses sev
 The formal Web3 job market in Addis Ababa is small but growing. Opportunities primarily exist within local startups, NGOs conducting blockchain pilot projects, and remote positions with international companies.
 
 * **[Blockchain Developer](/how-to-become-a-blockchain-developer) (focus on practical applications):** There is a rising demand for developers capable of creating solutions, particularly in digital identity and supply chain management.
-    - **Mid-Level:** ETB 50,000 - 90,000 per month
+    - **Mid-Level:** Competitive local salaries.
     - **Senior / Remote:** Potential for significantly higher, USD-denominated salaries.
 
 * **Community Educators and Organizers:** These roles are vital in a developing market. Professionals who can run workshops, organize meetups, and create educational content in local languages (such as Amharic) are crucial for ecosystem growth.
     - **Stipends and Grants:** Often provided by international organizations entering the Ethiopian market.
 
 * **Project Managers (experience in NGOs or Agribusiness):** Individuals who can effectively manage blockchain pilot implementations in agriculture or humanitarian sectors are highly sought after.
-    - **Experienced Professionals:** ETB 60,000 - 120,000+ per month
+    - **Experienced Professionals:** Competitive local salaries.
 
 ### Building a Web3 Career in Addis Ababa
 
@@ -56,9 +56,9 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 
 | Role                          | Local/Remote Hybrid Salary Range                | Full-Time Remote Salary Range         |
 |-------------------------------|------------------------------------------------|---------------------------------------|
-| **Blockchain Developer**      | ETB 40,000–100,000/month (~$300–$750 USD)     | $1,500–$5,000+/month                 |
-| **Community Manager**         | ETB 30,000–70,000/month (~$225–$525 USD)      |                                       |
-| **Project Manager**           | ETB 60,000–120,000/month (~$450–$900 USD)     |                                       |
+| **Blockchain Developer**      | Competitive local salaries                      | Competitive remote salaries           |
+| **Community Manager**         | Competitive local salaries                      |                                       |
+| **Project Manager**           | Competitive local salaries                      |                                       |
 
 ## Career Paths in Addis Ababa Web3
 
@@ -68,38 +68,38 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 - Launch a YouTube channel (in English and Amharic) focused on Web3.
 - Start a blog on platforms like Medium or Substack.
 - Organize 2-3 meetups in Addis Ababa.
-- Connect with over 50 local tech professionals.
-- **Deliverable:** YouTube channel with 500+ subscribers, a blog, and a community base.
+- Connect with local tech professionals.
+- **Deliverable:** YouTube channel with a growing audience, a blog, and a community base.
 
 **Months 4-6: Monetize & Build**
 - Secure a role as a community manager (often supported by grants from protocols).
-- Expected Compensation: ETB 30,000–50,000/month.
+- Expected Compensation: Competitive local salaries.
 - Lead weekly workshops or meetups.
 
 **Months 7-12: Scale**
 - Transition to a full-time community lead or educational role.
-- Expected Compensation: ETB 60,000–100,000+/month or startup equity.
+- Expected Compensation: Competitive local salaries or startup equity.
 - Launch an educational platform or course.
 
 ### Path 2: Real-World Problem Solver (Blockchain Developer) (9-18 Month Timeline)
 
 **Months 1-5: Build Portfolio**
 - Learn essential skills: [Solidity](/best-programming-languages-for-blockchain-development), smart contracts, and dApp development.
-- Develop 2-3 projects that solve Ethiopian issues:
+- Develop projects that solve Ethiopian issues:
   - Digital identity proof-of-concept.
   - Coffee supply chain tracker.
   - Community savings group (Ekub) dApp.
-- Network with over 30 developers, NGOs, and government tech leads.
-- **Deliverable:** Three projects and a strong portfolio.
+- Network with developers, NGOs, and government tech leads.
+- **Deliverable:** Several projects and a strong portfolio.
 
 **Months 6-10: Gain International Attention**
 - Publish technical articles detailing your projects and experiences.
 - Apply for remote positions with blockchain NGOs, protocols, or startups.
-- Expected Compensation: $1,500–$3,000/month for remote roles.
+- Expected Compensation: Competitive remote salaries.
 
 **Months 11-18: Leadership**
 - Assume a leadership role, such as leading a technical team or becoming a CTO at a local startup or NGO.
-- Expected Compensation: $2,500–$5,000+/month plus equity.
+- Expected Compensation: Competitive remote salaries plus equity.
 
 ### Path 3: Government/Policy Bridge (Technical + Policy) (12-24 Month Timeline)
 
@@ -112,15 +112,15 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 
 **Months 7-12: Engagement with Government**
 - Consult on blockchain initiatives for government projects.
-- Expected Compensation: ETB 100,000–200,000/project or ETB 50,000–100,000+/month retainer.
+- Expected Compensation: Competitive local project-based compensation.
 
 **Months 13-20: Leadership Role**
 - Lead blockchain initiatives within a government agency or large NGO.
-- Expected Compensation: ETB 80,000–150,000+/month.
+- Expected Compensation: Competitive local salaries.
 
 **Months 21-24: Consultancy or Major Initiative Leader**
 - Establish a consultancy or spearhead a significant national project.
-- **Expected Compensation:** ETB 150,000–300,000+/month plus equity.
+- **Expected Compensation:** Competitive local salaries plus equity.
 
 ## Why Addis Ababa?
 
@@ -166,7 +166,7 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 - [ ] Complete the blockchain fundamentals course.
 - [ ] Deploy your first smart contract (on testnet).
 - [ ] Conduct research on Ethiopian problems that blockchain can address.
-- [ ] Network with over 20 local tech professionals.
+- [ ] Network with local tech professionals.
 
 **Week 5-6:**
 - [ ] Build your first project and make it public on GitHub.
@@ -176,24 +176,24 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 
 **Week 7-8:**
 - [ ] Develop your second project (aim for something more ambitious).
-- [ ] Grow your audience to over 500 followers on YouTube/Twitter.
-- [ ] Schedule five coffee chats with government, NGO, and tech leads.
-- [ ] Apply for five remote Web3 roles.
+- [ ] Grow your audience on YouTube/Twitter.
+- [ ] Schedule coffee chats with government, NGO, and tech leads.
+- [ ] Apply for remote Web3 roles.
 
 **Week 9-10:**
 - [ ] Secure your first consulting engagement or grant.
 - [ ] Publish a technical deep-dive article.
 - [ ] Plan for scaling your efforts over the next three months.
-- [ ] Connect with 20+ additional professionals.
+- [ ] Connect with additional professionals.
 
 **Week 11-12:**
-- [ ] Target securing either a paid role/grant or over 100 attendees at weekly workshops.
+- [ ] Target securing either a paid role/grant or a significant number of attendees at weekly workshops.
 - [ ] Reflect on your journey: "Pioneering Web3 in Ethiopia."
 - [ ] Outline your next phase.
 
 **Expected Outputs after 90 Days:**
-- 2-3 projects showcased on GitHub.
-- 1,000+ followers (if you chose the educator path).
+- Several projects showcased on GitHub.
+- A growing audience (if you chose the educator path).
 - A robust local and international network.
 - At least one paid opportunity (role, grant, or consulting).
 - Recognition in media or within the community.
@@ -204,7 +204,7 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 A: Yes, you can earn through two main avenues: (1) Building remote skills for USD compensation or (2) Leading the local ecosystem, which can yield equity or grants.
 
 **Q2: What's the fastest way to generate income?**
-A: Engaging in consulting or education is often quickest. Community management roles funded by grants from protocols can also provide income within 1-3 months.
+A: Engaging in consulting or education is often quickest. Community management roles funded by grants from protocols can also provide income within a few months.
 
 **Q3: Should I focus on local opportunities or remote work?**
 A: Both approaches are viable. Start locally to build community and reputation, then transition to remote work for better compensation, and eventually consider returning to lead or found a local initiative.
@@ -216,7 +216,7 @@ A: Yes, there is significant interest. A major digital identity project is under
 A: Lack of awareness. Position yourself as an educator, founder, or expert in your niche to overcome this.
 
 **Q6: Can I pursue this career while maintaining another job?**
-A: Yes, consider dedicating weekends for 3-6 months to build your skills before transitioning to full-time.
+A: Yes, consider dedicating weekends for a few months to build your skills before transitioning to full-time.
 
 **Q7: What if I lack a technical background?**
 A: Opportunities in community management, education, or policy do not require extensive technical knowledge.

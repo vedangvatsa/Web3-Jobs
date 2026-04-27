@@ -90,7 +90,7 @@ Bad answer: Listing random security buzzwords without depth, or missing major vu
 
 Tests blockchain knowledge.
 
-Good answer: Explain how each works. PoW requires computational work, energy-intensive, secure but slow. PoS requires stake, more efficient, has different security assumptions. Discuss tradeoffs.
+Good answer: Explain how each works. PoW requires computational work, is energy-intensive, secure but slow. PoS requires stake, is more efficient, and has different security assumptions. Discuss tradeoffs.
 
 Bad answer: Confusing the two, or not explaining why they have different properties.
 
@@ -216,7 +216,7 @@ Bad answer: Generic answer, or answer that suggests you'll leave immediately.
 
 ## How to Prepare for Web3 Interviews
 
-**Understand the project**: Research the company deeply. Read whitepaper, understand their product, know their mission. Be able to discuss why you want to work there.
+**Understand the project**: Research the company deeply. Read the whitepaper, understand their product, know their mission. Be able to discuss why you want to work there.
 
 **Know the technology**: For technical roles, deep knowledge of relevant tech is essential. For non-technical roles, understanding Web3 concepts is necessary.
 
@@ -228,7 +228,7 @@ Bad answer: Generic answer, or answer that suggests you'll leave immediately.
 
 **Practice with peers**: Mock interviews with friends or mentors. Get feedback on your answers.
 
-**Be authentic**: Don't pretend to know more than you do. Interviewers respect honesty and learning mindset.
+**Be authentic**: Don't pretend to know more than you do. Interviewers respect honesty and a learning mindset.
 
 **Ask good questions**: Prepare thoughtful questions about the role, company, and culture. This shows genuine interest.
 
@@ -236,7 +236,7 @@ Bad answer: Generic answer, or answer that suggests you'll leave immediately.
 
 **Listen fully**: Understand the question before answering. Ask clarifying questions if needed.
 
-**Structure your answer**: Start with clear answer, then provide supporting details and examples.
+**Structure your answer**: Start with a clear answer, then provide supporting details and examples.
 
 **Be concise**: Long rambling answers lose interviewers. Get to the point.
 
@@ -244,11 +244,11 @@ Bad answer: Generic answer, or answer that suggests you'll leave immediately.
 
 **Show enthusiasm**: Genuine interest in Web3 and the project comes through. Let it show.
 
-**Admit what you don't know**: It's better to admit knowledge gaps than to BS. Most interviewers respect this.
+**Admit what you don't know**: It's better to admit knowledge gaps than to provide inaccurate information. Most interviewers respect this.
 
-**Prepare thoughtful questions**: Ask about team, technical challenges, culture, roadmap. Show genuine interest.
+**Prepare thoughtful questions**: Ask about the team, technical challenges, culture, and roadmap. Show genuine interest.
 
-**Follow up**: Thank interviewer after interview. Reiterate interest in the role.
+**Follow up**: Thank the interviewer after the interview. Reiterate interest in the role.
 
 ## Common Mistakes to Avoid
 
@@ -264,7 +264,7 @@ Bad answer: Generic answer, or answer that suggests you'll leave immediately.
 
 **Not asking questions**: Not asking questions about the role or company makes you seem disengaged.
 
-**Disappearing after interview**: Following up is important. Not following up makes you seem not interested.
+**Disappearing after the interview**: Following up is important. Not following up makes you seem not interested.
 
 ## The Bottom Line
 

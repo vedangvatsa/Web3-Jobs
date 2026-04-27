@@ -27,11 +27,11 @@ Brazzaville's Web3 ecosystem is beginning to take shape, with growth opportuniti
 
 While the formal Web3 job market in Brazzaville remains limited, professionals can enhance their prospects by developing globally relevant skills and pursuing [remote work](/remote-work-in-web3) opportunities with international companies.
 
-| Role | Description | Salary Range (USD) |
+| Role | Description | Salary Range |
 |------|-------------|---------------------|
-| **Remote Backend/Full-Stack Developer** | Experienced software engineers with a focus on blockchain development. | Senior: $4,000 - $8,000+ |
-| **Enterprise Blockchain Consultant** | Professionals with expertise in oil & gas or logistics and blockchain knowledge can advise corporations and government bodies. | High-value consulting fees typically range from $80 - $150/hour. |
-| **Community Manager (French/Lingala)** | Web3 projects need local leaders to build and manage communities in regional languages. | Mid-Level: $1,500 - $3,000+ |
+| **Remote Backend/Full-Stack Developer** | Experienced software engineers with a focus on blockchain development. | Senior: Competitive |
+| **Enterprise Blockchain Consultant** | Professionals with expertise in oil & gas or logistics and blockchain knowledge can advise corporations and government bodies. | High-value consulting fees typically apply. |
+| **Community Manager (French/Lingala)** | Web3 projects need local leaders to build and manage communities in regional languages. | Mid-Level: Competitive |
 
 ### Building a Web3 Career in Brazzaville
 
@@ -46,26 +46,26 @@ While the formal Web3 job market in Brazzaville remains limited, professionals c
 
 | Level | Monthly Salary Range (Remote) |
 |-------|-------------------------------|
-| Junior Developer (0-1 year) | $2,000 - $3,500 |
-| Mid-Level Developer (1-3 years) | $4,000 - $6,500 |
-| Senior Developer (3+ years) | $7,000 - $12,000+ |
+| Junior Developer (0-1 year) | Competitive |
+| Mid-Level Developer (1-3 years) | Competitive |
+| Senior Developer (3+ years) | Competitive |
 
 **Enterprise & Consulting Track:**
 
 | Role | Monthly/Hourly Salary Range |
 |------|-----------------------------|
-| Enterprise Blockchain Consultant | $80 - $150/hour (contract) |
-| Project Manager | $2,500 - $4,500/month (remote) |
-| Supply Chain Specialist | $3,000 - $6,000/month (remote) |
+| Enterprise Blockchain Consultant | Competitive |
+| Project Manager | Competitive |
+| Supply Chain Specialist | Competitive |
 
 **Living on a Web3 Salary in Brazzaville**
 
-A mid-level developer earning $5,000 per month can expect the following living expenses:
+A mid-level developer earning a competitive salary can expect the following living expenses:
 
-- Comfortable housing: $400 - $700 per month
-- Living expenses: $300 - $500 per month
-- Total basic expenses: $700 - $1,200 per month
-- Potential savings: 76 - 86% of income
+- Comfortable housing: Competitive
+- Living expenses: Competitive
+- Total basic expenses: Competitive
+- Potential savings: Significant percentage of income
 
 ### Career Paths: Month-by-Month Breakdown
 
@@ -90,11 +90,11 @@ A mid-level developer earning $5,000 per month can expect the following living e
 - Create case studies documenting blockchain solutions.
 - Network with corporations and government entities.
 - Commitment: 30-35 hours per week.
-- Expected income: $1,500 - $3,000 per month.
+- Expected income: Competitive.
 
 **Months 11-16: Securing an Enterprise Role**
 - Aim for a mid-level enterprise [developer role](/entry-level-jobs-in-web3).
-- Target salary: $4,000 - $6,500 per month.
+- Target salary: Competitive.
 - Focus areas: Oil/gas, logistics, or government contracts.
 
 **Path 2: ReFi & Governance Specialist (12-18 months)**
@@ -115,12 +115,12 @@ A mid-level developer earning $5,000 per month can expect the following living e
 **Months 9-12: Securing Funding and Partnerships**
 - Apply for ReFi grants from platforms like Polygon, Optimism, and Gitcoin.
 - Pitch proposals to organizations such as the World Bank and African Development Bank.
-- Expected funding: $15,000 - $50,000.
+- Expected funding: Competitive.
 
 **Months 13-18: Scaling Initiatives**
 - Launch a pilot program with government or corporate partners.
 - Build a team to support growth.
-- Expected salary: $4,000 - $8,000 per month.
+- Expected salary: Competitive.
 
 **Path 3: Community Organizer & Educator (6-12 months)**
 
@@ -133,16 +133,16 @@ A mid-level developer earning $5,000 per month can expect the following living e
 **Months 3-6: Content Creation and Community Engagement**
 - Publish weekly content including articles, videos, and tutorials.
 - Organize the Brazzaville Web3 meetup.
-- Set a follower target of 1,000+ on Twitter and 500+ subscribers.
+- Set a follower target of competitive numbers.
 - Commitment: 15-20 hours per week.
 
 **Months 7-9: Monetization Strategies**
 - Launch a course or consulting service.
-- Expected income: $500 - $1,500 per month.
+- Expected income: Competitive.
 
 **Months 10-12: Scaling Operations**
 - Obtain a retainer with an international organization.
-- Expected salary: $2,000 - $3,500 per month.
+- Expected salary: Competitive.
 
 ### Challenges and Solutions
 
@@ -151,7 +151,7 @@ A mid-level developer earning $5,000 per month can expect the following living e
 - Solution: Target international companies operating in Congo and position yourself as a bridge to the local market.
 
 **Challenge: Infrastructure Reliability**
-- Typical internet speeds range from 5-10 Mbps with occasional outages.
+- Typical internet speeds may vary with occasional outages.
 - Solution: Offer hybrid on-site/remote services for enterprise clients and ensure a robust backup internet plan.
 
 **Challenge: Limited Tech Talent Pool**
@@ -159,8 +159,8 @@ A mid-level developer earning $5,000 per month can expect the following living e
 - Advantage: Less competition for skilled builders creates high demand.
 
 **Challenge: Economic Volatility**
-- Currency fluctuations pose risks with the CFA Franc (XOF).
-- Solution: Negotiate contracts in USD or stablecoins and maintain an emergency fund.
+- Currency fluctuations pose risks with local currency.
+- Solution: Negotiate contracts in stable currencies and maintain an emergency fund.
 
 **Challenge: Language Barriers**
 - English proficiency varies, though it is essential for international roles.
@@ -179,7 +179,7 @@ A mid-level developer earning $5,000 per month can expect the following living e
 - Week 4: Seek mentorship for feedback.
 
 **Month 3: Entering the Market**
-- Weeks 1-2: Finalize your project or achieve 500 followers.
+- Weeks 1-2: Finalize your project or achieve follower goals.
 - Week 3: Apply for roles or gigs and network with enterprises.
 - Week 4: Secure your first paid engagement.
 
@@ -195,13 +195,13 @@ Research their specific challenges. Engage with logistics managers, government o
 Yes. Identify a pressing problem, such as inefficiencies in supply chains or government processes. Consider applying for global grants and targeting international clients initially.
 
 **Is proficiency in French necessary?**
-For international roles, French is not essential. However, to make a local impact, it is beneficial. Learning French typically requires 6-12 months, providing a competitive advantage.
+For international roles, French is not essential. However, to make a local impact, it is beneficial. Learning French typically requires a commitment of time, providing a competitive advantage.
 
-**How long will it take to earn $3,000 monthly?**
-With consistent effort, you can achieve this in 8-12 months. The recommended path involves learning for 3-4 months, freelancing for 2-3 months (earning $500-1,000), and then transitioning to a full-time role over 3+ months.
+**How long will it take to earn a competitive salary?**
+With consistent effort, you can achieve this in a reasonable timeframe. The recommended path involves learning for a few months, freelancing for a period, and then transitioning to a full-time role.
 
 **Which offers better pay: consultancy or full-time roles?**
-Consultancy tends to pay more per hour ($80-150) but lacks stability. Full-time positions generally offer more reliable income ($4,000-6,500).
+Consultancy tends to pay more per hour but lacks stability. Full-time positions generally offer more reliable income.
 
 **How can I find enterprise clients?**
 Utilize platforms like LinkedIn, attend industry events, and connect with trade ministries, chambers of commerce, and corporations focused on digital transformation.
@@ -213,7 +213,7 @@ Yes, there is increasing interest. Compliance, transparency, and operational eff
 Yes, but it typically requires grant funding. Apply to organizations like the World Bank and African Development Bank, focusing on clear problems and solutions.
 
 **Should I stay in Brazzaville or relocate for better opportunities?**
-Remote work is a viable option from Brazzaville. If your goal is to gain experience in enterprise sales or community building, being on-site may be advantageous. Consider starting with six to twelve months of remote work before deciding.
+Remote work is a viable option from Brazzaville. If your goal is to gain experience in enterprise sales or community building, being on-site may be advantageous. Consider starting with remote work before deciding.
 
 ### Conclusion
 

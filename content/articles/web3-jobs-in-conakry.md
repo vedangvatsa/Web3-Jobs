@@ -21,7 +21,7 @@ The developing Web3 scene in Conakry reflects the country's economic realities a
 | Sector                       | Opportunity                                                                                                                     |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Natural Resource Sector       | Guinea ranks among the largest global producers of bauxite, providing a strong case for blockchain in supply chain management. A transparent ledger can track minerals from mine to port, ensuring ethical sourcing and streamlining trade finance. |
-| Financial Inclusion           | With over 60% of the population unbanked, there is a significant demand for mobile-first [DeFi](/what-is-defi) and stablecoin solutions, enabling access to savings and payment services for those excluded from traditional banking. |
+| Financial Inclusion           | With a significant portion of the population unbanked, there is a considerable demand for mobile-first [DeFi](/what-is-defi) and stablecoin solutions, enabling access to savings and payment services for those excluded from traditional banking. |
 | Growing Tech Community        | Conakry hosts several tech hubs and training centers, nurturing a new generation of software developers. These groups are critical in developing future Web3 talent. |
 | Francophone Connections       | Guinea's location in Francophone West Africa links it to more established tech hubs like Dakar and Abidjan, enhancing knowledge sharing and collaboration opportunities. |
 
@@ -29,13 +29,13 @@ The developing Web3 scene in Conakry reflects the country's economic realities a
 
 Currently, Conakry lacks a formal Web3 job market. Guinean professionals interested in this field primarily pursue [remote work](/remote-work-in-web3) or entrepreneurship. Acquiring globally relevant skills is essential.
 
-| Role                                   | Salary Range (USD/month)                       | Key Skills Required                                   |
-|----------------------------------------|------------------------------------------------|------------------------------------------------------|
-| Remote Full-Stack/[Blockchain Developer](/how-to-become-a-blockchain-developer) | $3,500 - $7,000+                              | Strong English proficiency, GitHub portfolio         |
-| Enterprise Blockchain Consultant        | $4,000 - $8,000                               | Experience in mining or logistics, blockchain knowledge |
-| Community Educator (French/Local Languages) | $1,500 - $3,000                               | Local language fluency, educational outreach skills   |
+| Role                                   | Salary Range                       | Key Skills Required                                   |
+|----------------------------------------|------------------------------------|------------------------------------------------------|
+| Remote Full-Stack/[Blockchain Developer](/how-to-become-a-blockchain-developer) | Competitive                         | Strong English proficiency, GitHub portfolio         |
+| Enterprise Blockchain Consultant        | Competitive                         | Experience in mining or logistics, blockchain knowledge |
+| Community Educator (French/Local Languages) | Competitive                         | Local language fluency, educational outreach skills   |
 
-Developers, particularly full-stack and blockchain developers, occupy the most lucrative positions in the Web3 space. Mid-to-senior level developers can earn $3,500 to over $7,000 per month, significantly above the average Guinean salary, which hovers around $200 to $400 monthly.
+Developers, particularly full-stack and blockchain developers, occupy the most lucrative positions in the Web3 space. Mid-to-senior level developers can earn significantly above the average Guinean salary, which hovers around $200 to $400 monthly.
 
 ### Steps to Build a Web3 Career in Conakry
 
@@ -46,7 +46,7 @@ Developers, particularly full-stack and blockchain developers, occupy the most l
 
 ### Finding a Web3 Job
 
-Although the local market is developing, the global Web3 sector welcomes talent from all regions. Our [Web3 job board](/jobs) lists thousands of remote roles with international companies seeking skilled professionals. For ambitious individuals in Conakry, these opportunities can lead to impactful careers in the decentralized economy.
+Although the local market is developing, the global Web3 sector welcomes talent from all regions. Our [Web3 job board](/jobs) lists numerous remote roles with international companies seeking skilled professionals. For ambitious individuals in Conakry, these opportunities can lead to impactful careers in the decentralized economy.
 
 ## The Supply Chain Opportunities in Guinea's Mining Sector
 
@@ -70,12 +70,12 @@ Implementing a distributed ledger system could:
 
 ### Career Opportunities in Mining Blockchain
 
-| Role                                   | Salary Expectation (USD/month)                    | Key Skills Needed                                         |
-|----------------------------------------|--------------------------------------------------|----------------------------------------------------------|
-| [Smart Contract](/what-are-smart-contracts) Developer | $4,000 - $8,000                                  | Solidity, Ethereum/Hyperledger expertise, supply chain knowledge |
-| Supply Chain Engineers                 | $5,000 - $10,000                                 | IoT, RFID, database design, supply chain management      |
-| Government Technology Consultants       | $3,000 - $7,000                                  | Policy knowledge, technical communication skills          |
-| Compliance and Audit Specialists       | $4,000 - $9,000                                  | Regulatory compliance, auditing expertise, blockchain integration |
+| Role                                   | Salary Expectation                    | Key Skills Needed                                         |
+|----------------------------------------|--------------------------------------|----------------------------------------------------------|
+| [Smart Contract](/what-are-smart-contracts) Developer | Competitive                          | Solidity, Ethereum/Hyperledger expertise, supply chain knowledge |
+| Supply Chain Engineers                 | Competitive                          | IoT, RFID, database design, supply chain management      |
+| Government Technology Consultants       | Competitive                          | Policy knowledge, technical communication skills          |
+| Compliance and Audit Specialists       | Competitive                          | Regulatory compliance, auditing expertise, blockchain integration |
 
 ### Building Expertise in Supply Chain Blockchain
 
@@ -138,9 +138,9 @@ Beyond the mining sector, Guinea's market presents significant opportunities for
 
 ### Market Dynamics
 
-- **Unbanked Population**: More than 60% of Guineans lack access to formal banking services.
+- **Unbanked Population**: A considerable portion of Guineans lack access to formal banking services.
 - **Mobile Money Adoption**: Existing platforms like Orange Money and MTN Money highlight the demand for digital finance solutions.
-- **Remittance Flows**: Diaspora remittances to Guinea surpass $200 million annually, often incurring high transfer costs.
+- **Remittance Flows**: Diaspora remittances to Guinea are substantial, often incurring high transfer costs.
 
 ### DeFi Applications for Guinea
 
@@ -174,7 +174,7 @@ Government support is vital for influencing Guinea's Web3 trajectory.
 
 1. **Educate**: Create reports and hold briefings that communicate blockchain benefits in accessible terms.
 2. **Demonstrate**: Develop prototypes that showcase how blockchain technology addresses real governmental issues.
-3. **Highlight Success Stories**: Share examples of blockchain use in other African countries, such as El Salvador or Senegal's digital currency pilot.
+3. **Highlight Success Stories**: Share examples of blockchain use in other African countries, such as Senegal's digital currency pilot.
 4. **Partner with Development Banks**: Collaborate with organizations like the World Bank or the African Development Bank, as their endorsements can significantly influence adoption.
 5. **Economic Incentives**: Illustrate how blockchain could enhance mining revenues, generate employment, and attract foreign investment.
 
@@ -200,7 +200,7 @@ Focus on high-demand competencies:
 
 - Target Web3 companies hiring remote developers globally.
 - Focus on companies aligned with your specialization, whether in supply chain, DeFi, or infrastructure.
-- Negotiate salaries based on experience: junior roles ($2,000-$4,000), mid-level positions ($4,000-$7,000), and senior roles ($7,000-$15,000+).
+- Negotiate salaries based on experience: junior roles, mid-level positions, and senior roles.
 
 ## Building Your Personal Brand in Conakry
 
@@ -239,7 +239,7 @@ Position yourself as a leading expert in blockchain for Guinea by:
 ### Currency and Banking Complications
 
 **Solution**:
-- Negotiate payments in USD or stablecoins (USDC, USDT).
+- Negotiate payments in USD or stablecoins.
 - Use services like Wise or PayPal for currency conversion.
 - Maintain an emergency fund in USD and consider holding crypto assets to mitigate local currency devaluation.
 
@@ -261,15 +261,15 @@ Position yourself as a leading expert in blockchain for Guinea by:
 
 As a Web3 professional in Conakry, you can expect the following salary ranges:
 
-| Role                                   | Salary Expectation (USD/month)                    |
-|----------------------------------------|--------------------------------------------------|
-| Junior Developer (remote, 0-2 years)  | $2,000 - $4,000                                  |
-| Mid-Level Developer (remote, 2-5 years)| $4,000 - $7,000                                  |
-| Senior Developer/Specialist (remote, 5+ years)| $7,000 - $15,000+                          |
-| Consultant (specialized expertise)     | $5,000 - $20,000+ (project-based)                |
-| Founder (startup revenue-based)        | Highly variable; potential earnings from $0 to $100,000+/month |
+| Role                                   | Salary Expectation                    |
+|----------------------------------------|--------------------------------------|
+| Junior Developer (remote, 0-2 years)  | Competitive                          |
+| Mid-Level Developer (remote, 2-5 years)| Competitive                          |
+| Senior Developer/Specialist (remote, 5+ years)| Competitive                      |
+| Consultant (specialized expertise)     | Highly variable (project-based)      |
+| Founder (startup revenue-based)        | Highly variable; potential earnings can vary significantly |
 
-In context, the average salary in Guinea is approximately $200 to $400 monthly. A position offering $5,000 monthly represents a substantial increase in earning potential, allowing for both personal advancement and contributions to your community.
+In context, the average salary in Guinea is approximately $200 to $400 monthly. A position offering significantly more represents a substantial increase in earning potential, allowing for both personal advancement and contributions to your community.
 
 ## Your Immediate Action Plan
 

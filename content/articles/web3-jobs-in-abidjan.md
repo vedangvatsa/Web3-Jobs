@@ -21,7 +21,7 @@ Abidjan's Web3 ecosystem derives strength from its established foundations in mo
   
 - **FinTech Innovation Hub:** The city hosts a growing number of FinTech startups and serves as the regional headquarters for key banks and financial institutions. These entities are increasingly interested in blockchain and digital assets, generating opportunities for business-to-business solutions and collaborations.
 
-- **Economic Engine for Francophone West Africa:** As the largest economy within the West African Economic and Monetary Union (UEMOA), Abidjan serves as a strategic platform for Web3 projects targeting the 120 million people in the Francophone market.
+- **Economic Engine for Francophone West Africa:** As a significant economy within the West African Economic and Monetary Union (UEMOA), Abidjan serves as a strategic platform for Web3 projects targeting the Francophone market.
 
 - **Expanding Developer Community:** The local tech community is thriving, with a rising number of developers engaging with blockchain technology and participating in various training programs to enhance their skills.
 
@@ -50,23 +50,23 @@ The formal Web3 job market in Abidjan is still emerging, with lucrative opportun
 **Developer Compensation:**
 | Role                     | Experience Level     | Salary Range (XOF/month)                      | USD Equivalent                    |
 |--------------------------|----------------------|-----------------------------------------------|-----------------------------------|
-| Junior Developer          | 0-1 year             | 800,000 - 1,300,000                          | ~$1,350 - $2,200                  |
-| Mid-Level Developer       | 1-3 years            | 1,400,000 - 2,200,000                        | ~$2,350 - $3,700                  |
-| Senior Developer          | 3+ years             | 2,200,000 - 3,800,000+                       | ~$3,700 - $6,400+                 |
+| Junior Developer          | 0-1 year             | 800,000 - 1,300,000                          | Varies based on exchange rates    |
+| Mid-Level Developer       | 1-3 years            | 1,400,000 - 2,200,000                        | Varies based on exchange rates    |
+| Senior Developer          | 3+ years             | 2,200,000 - 3,800,000+                       | Varies based on exchange rates    |
 
 **Remote (International):**
 | Role                     | Salary Range                           |
 |--------------------------|----------------------------------------|
-| International Web3 Companies | $2,500 - $6,000+ per month         |
-| Consulting/Contract      | $50 - $120 per hour                   |
+| International Web3 Companies | Significant monthly compensation     |
+| Consulting/Contract      | Varies based on project and expertise  |
 
-**Cost of Living Analysis for a Mid-Level Developer Earning $4,000/month Remotely:**
+**Cost of Living Analysis for a Mid-Level Developer Earning Remotely:**
 | Expense Type            | Estimated Cost (XOF/month) |
 |-------------------------|-----------------------------|
 | Rent (nice area)       | 300,000 - 500,000           |
 | Living Expenses         | 250,000 - 400,000           |
 | **Total**              | **550,000 - 900,000**       |
-| **Savings**            | **78% - 86% of income**     |
+| **Savings**            | **Significant percentage of income** |
 
 ### Career Paths: Detailed Roadmaps
 
@@ -85,36 +85,36 @@ The formal Web3 job market in Abidjan is still emerging, with lucrative opportun
 - Outcome: A portfolio that showcases mobile-first thinking.
 
 **Months 7-9: Market Entry**
-- Begin freelancing, aiming for $1,500-$3,000/month in income.
+- Begin freelancing, aiming for competitive income.
 - Create a minimum viable product (MVP) addressing a regional fintech problem.
 - Network with local FinTech startups.
 
 **Months 10-15: Full-Time Role**
 - Secure a development role at a FinTech startup or international project.
-- Target salary: $2,500-$4,000+/month.
+- Target salary: Competitive based on experience.
 
 **Path 2: West African Expansion Strategist (12-18 months)**
 
 **Months 1-4: Market Research**
 - Investigate the West African financial ecosystem.
 - Conduct interviews with merchants, traders, and money transfer operators.
-- Research UEMOA regulations and market size (over 120 million people).
+- Research UEMOA regulations and market size.
 - Engage with regional fintech communities.
 - Time commitment: 15-20 hours/week.
 
 **Months 5-8: Strategic Content & Visibility**
 - Publish a market analysis titled "Blockchain Opportunity in West Africa."
-- Build a Twitter presence as a regional Web3 expert, targeting 1,500+ followers and 10,000+ newsletter subscribers.
+- Build a Twitter presence as a regional Web3 expert.
 - Time commitment: 20-25 hours/week.
 
 **Months 9-12: Commercial Opportunities**
 - Receive offers from [DAOs](/what-is-a-dao) and companies seeking to expand into West Africa.
 - Secure consulting or partnership deals.
-- Expected income: $1,500-$2,500/month.
+- Expected income: Competitive based on experience.
 
 **Months 13-18: Leadership Role**
 - Aim for positions like regional director or head of West Africa in a global company.
-- Expected salary: $3,500-$5,500+/month.
+- Expected salary: Competitive based on experience.
 
 **Path 3: Community Builder & Educator (6-12 months)**
 
@@ -127,17 +127,17 @@ The formal Web3 job market in Abidjan is still emerging, with lucrative opportun
 **Months 3-6: Audience Building**
 - Publish regularly in French and English.
 - Initiate a Web3 meetup in Abidjan and an online community across UEMOA.
-- Target: 1,200+ followers and 100+ local community members.
+- Target: Build a following and local community engagement.
 - Time commitment: 15-20 hours/week.
 
 **Months 7-9: Monetization**
 - Launch an educational course or community membership.
 - Seek employment as a community manager for a regional project.
-- Expected income: $800-$1,500/month.
+- Expected income: Competitive based on role.
 
 **Months 10-12: Scale**
 - Establish yourself as a leading voice in the West African Web3 space.
-- Expected income: $2,000-$3,500/month.
+- Expected income: Competitive based on role.
 
 ### Challenges & Practical Solutions
 
@@ -154,7 +154,7 @@ The formal Web3 job market in Abidjan is still emerging, with lucrative opportun
 - Advantage: Bilingual proficiency in French and English is highly sought after.
 
 **Challenge: Infrastructure Limitations**
-- Average internet speeds range from 8 to 20 Mbps.
+- Average internet speeds vary.
 - Solution: Maintain a backup mobile hotspot and work from tech hubs.
 
 ### 90-Day Quick Start
@@ -163,9 +163,9 @@ The formal Web3 job market in Abidjan is still emerging, with lucrative opportun
 
 **Days 11-30:** Complete your first project, such as deploying a [smart contract](/what-are-smart-contracts) or publishing your initial article.
 
-**Days 31-60:** Build momentum by launching a second project, gaining over 300 followers, and finding a mentor.
+**Days 31-60:** Build momentum by launching a second project, gaining followers, and finding a mentor.
 
-**Days 61-90:** Generate your first income, ranging from $200 to $1,000, or secure a partnership.
+**Days 61-90:** Generate your first income or secure a partnership.
 
 ### FAQs
 
@@ -181,8 +181,8 @@ Start by developing a small proof of concept that demonstrates how blockchain ca
 **Is cryptocurrency legal in Ivory Coast?**
 Cryptocurrency is regulated but legal. Use compliant exchanges, as the government is cautious yet not hostile toward digital currencies.
 
-**Can I earn $3,000+/month in Abidjan?**
-Yes, through remote [Web3 salary](/web3-developer-salaries-2025) opportunities ranging from $3,000 to $6,000, or by securing a senior local role. This timeline typically spans 8 to 12 months.
+**Can I earn competitive income in Abidjan?**
+Yes, through remote [Web3 salary](/web3-developer-salaries-2025) opportunities or by securing a senior local role. This timeline typically spans several months.
 
 **Should I target local or international opportunities?**
 Initially build remote skills and aim for an international role while living and working in Abidjan for a favorable return on investment. Alternatively, establish local fintech partnerships.

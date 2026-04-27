@@ -18,7 +18,7 @@ The focus in Freetown's Web3 sector goes beyond speculation. The emphasis lies o
 
 Freetown's Web3 environment is characterized by a commitment to practical applications related to governance.
 
-- **Leading in Blockchain for Governance (GovTech):** Sierra Leone's implementation of blockchain in its electoral process has set a global standard. The National Digital Identity Project aims to create a secure, decentralized identity for every citizen. This ambitious initiative generates substantial demand for talent in the GovTech sector.
+- **Leading in Blockchain for Governance (GovTech):** Sierra Leone's implementation of blockchain in its electoral process has set a global standard. The National Digital Identity Project aims to create a secure, decentralized identity for every citizen. This ambitious initiative generates significant demand for talent in the GovTech sector.
   
 - **Emphasis on Digital Identity:** Developing a national digital identity system is central to the country's Web3 strategy. This initiative opens up opportunities for developers, cryptographers, and product managers specializing in decentralized identity (DID) and self-sovereign identity (SSI) solutions.
 
@@ -32,10 +32,10 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 
 | Role                               | Experience Level      | Salary Range (Monthly)       |
 |------------------------------------|-----------------------|------------------------------|
-| Blockchain Developer (DID experience) | Mid-Level to Senior    | $4,000 - $12,000             |
-| Project Manager (GovTech)          | Experienced Professional | $3,000 - $6,000              |
-| Cryptographer/Security Expert       | All Levels            | $5,000 - $10,000+            |
-| Remote Work (International roles)   | Varies                | $2,000 - $6,000              |
+| Blockchain Developer (DID experience) | Mid-Level to Senior    | Competitive                   |
+| Project Manager (GovTech)          | Experienced Professional | Competitive                   |
+| Cryptographer/Security Expert       | All Levels            | Competitive                   |
+| Remote Work (International roles)   | Varies                | Competitive                   |
 
 * **Blockchain Developer (with Identity/DID experience):** Developers skilled in decentralized identity standards and capable of creating secure, scalable identity solutions are in high demand. Most roles are contract positions with competitive compensation.
 
@@ -58,28 +58,28 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 ### Salary and Compensation Overview
 
 **Developer Compensation:**
-- **Junior DID Developer (0-1 year):** $2,000 - $3,500/month (remote or contract)
-- **Mid-Level Identity/Security Developer (1-3 years):** $4,000 - $7,000/month (remote or contract)
-- **Senior/Lead Developer (3+ years):** $6,500 - $12,000+/month (contract)
+- **Junior DID Developer (0-1 year):** Competitive
+- **Mid-Level Identity/Security Developer (1-3 years):** Competitive
+- **Senior/Lead Developer (3+ years):** Competitive
 
 **GovTech and Project Management:**
-- **Project Manager:** $3,000 - $6,000/month (contract)
-- **Product Manager (Identity):** $4,000 - $7,000/month (contract)
-- **Security/Cryptography Expert:** $5,000 - $10,000+/month (contract)
+- **Project Manager:** Competitive
+- **Product Manager (Identity):** Competitive
+- **Security/Cryptography Expert:** Competitive
 
 **Remote Work:**
-- International company roles: $2,000 - $6,000/month (based on seniority)
-- Consulting/contract: $60 - $150/hour
+- International company roles: Competitive
+- Consulting/contract: Competitive
 
 **Cost of Living Insight**
-A mid-level developer earning $5,000/month in Freetown can expect the following expenses:
+A mid-level developer earning a competitive salary in Freetown can expect the following expenses:
 
 | Expense Category           | Monthly Cost        |
 |----------------------------|---------------------|
-| Rent (nice area)           | $400 - $600         |
-| Living Expenses             | $300 - $500         |
-| **Total Monthly Expenses**  | **$700 - $1,100**   |
-| **Potential Savings**       | **78% - 86% of income** |
+| Rent (nice area)           | Competitive         |
+| Living Expenses             | Competitive         |
+| **Total Monthly Expenses**  | **Competitive**     |
+| **Potential Savings**       | **Significant portion of income** |
 
 ### Career Paths to Success
 
@@ -100,11 +100,11 @@ A mid-level developer earning $5,000/month in Freetown can expect the following 
 - **Months 7-9: Specialization** 
   - Focus on privacy-preserving identity solutions and complete freelance contracts.
   - Time Commitment: 30-35 hours/week.
-  - Expected Income: $1,500 - $3,000/month.
+  - Expected Income: Competitive.
 
 - **Months 10-16: Job Acquisition** 
   - Target organizations working on Sierra Leone's national ID project.
-  - Expected Salary: $4,000 - $7,000/month (contract work).
+  - Expected Salary: Competitive.
   - Impact: Directly influence Sierra Leone's digital future.
 
 #### Path 2: GovTech Project Leadership (12-18 months)
@@ -120,11 +120,11 @@ A mid-level developer earning $5,000/month in Freetown can expect the following 
 
 - **Months 9-12: Funding & Partnerships** 
   - Pursue grants and secure partnerships with tech providers.
-  - Expected: $20,000 - $100,000 in funding.
+  - Expected: Competitive funding.
 
 - **Months 13-18: Implementation** 
   - Lead the project team and establish governance structures.
-  - Expected Salary: $5,000 - $9,000/month.
+  - Expected Salary: Competitive.
 
 #### Path 3: Community Educator & Identity Advocate (6-12 months)
 
@@ -136,15 +136,15 @@ A mid-level developer earning $5,000/month in Freetown can expect the following 
 - **Months 3-6: Audience Building** 
   - Publish consistently and start a discussion group on Web3 and identity.
   - Time Commitment: 15-20 hours/week.
-  - Target: Build a following of 1,500+ on Twitter and 800+ subscribers.
+  - Target: Build a following.
 
 - **Months 7-9: Monetization** 
   - Offer workshops and launch educational courses.
-  - Expected Income: $800 - $2,000/month.
+  - Expected Income: Competitive.
 
 - **Months 10-12: Scaling Efforts** 
   - Establish yourself as a thought leader on identity issues.
-  - Expected Salary: $2,500 - $4,500/month.
+  - Expected Salary: Competitive.
 
 ### Challenges and Strategies
 
@@ -155,7 +155,7 @@ The national ID project may face long-term delays. Build a diverse skill set and
 GovTech projects necessitate high-level security knowledge. Pursue certifications such as Security+ or OSCP and focus on code audits.
 
 **Challenge: Infrastructure Limitations**  
-Internet speeds typically range from 5 to 15 Mbps, with occasional outages. Remote roles or hybrid arrangements can mitigate this.
+Internet speeds typically vary, with occasional outages. Remote roles or hybrid arrangements can mitigate this.
 
 **Challenge: Limited Local Developer Expertise**  
 Few local developers possess relevant skills, leading to less competition. Position yourself as an expert for greater visibility.
@@ -202,7 +202,7 @@ Initiate contact through LinkedIn with individuals from the National Civil Regis
 Yes, many contract roles offer remote work opportunities. GovTech project manager roles may require a hybrid approach, but being based in Freetown is advantageous for leadership positions.
 
 **What is the typical timeframe to secure a role in the national project?**  
-The process can take 6 to 14 months, typically involving three months of learning, followed by portfolio development and freelance work, and concluding with interviews.
+The process can take several months, typically involving three months of learning, followed by portfolio development and freelance work, and concluding with interviews.
 
 **What does a long-term career in this field look like?**  
 You can evolve into a GovTech or identity expert, eventually consulting with other African governments, international organizations, or launching your own impact-driven startup.
