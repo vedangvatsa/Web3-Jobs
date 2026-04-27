@@ -32,7 +32,7 @@ A blockchain serves as a record for various transactions, including cryptocurren
 
 Cryptographic hashing underpins blockchain security. A "hash" is a unique string of characters derived from digital data. The SHA-256 (Secure Hash Algorithm 256-bit) is the most prevalent hashing algorithm in blockchain applications.
 
-This process acts like a digital fingerprint. Any input data produces a unique 256-bit output. Even minor alterations to the original data—such as changing a single character—generate entirely different hashes. This feature prevents tampering, as alterations become immediately apparent. Each block links to its own data hash and the hash of the previous block, establishing a secure connection.
+This process acts like a digital fingerprint. Any input data produces a unique 256-bit output. Even minor alterations to the original data, such as changing a single character, generate entirely different hashes. This feature prevents tampering, as alterations become immediately apparent. Each block links to its own data hash and the hash of the previous block, establishing a secure connection.
 
 ### 3. The Unbreakable Chain
 

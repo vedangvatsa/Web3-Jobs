@@ -87,7 +87,7 @@ Maya transitioned from Web2 to Web3 and needed to adapt to a new environment. Sh
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Many individuals notice initial improvements within a few weeks of consistent practice. Significant changes typically manifest within a couple of months. The timeline can vary based on your starting point, daily practice commitment, and active feedback solicitation. Those who track their progress—through metrics, peer feedback, or journaling—often advance more rapidly than those who do not.
+A: Many individuals notice initial improvements within a few weeks of consistent practice. Significant changes typically manifest within a couple of months. The timeline can vary based on your starting point, daily practice commitment, and active feedback solicitation. Those who track their progress, through metrics, peer feedback, or journaling, often advance more rapidly than those who do not.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often have more control than it seems. Begin with small actions that do not require organizational approval, such as personal habits or informal discussions with colleagues who share your goals. Create momentum gradually and document your achievements. If sustained efforts fail to foster growth, it may indicate a need to find a more supportive environment.

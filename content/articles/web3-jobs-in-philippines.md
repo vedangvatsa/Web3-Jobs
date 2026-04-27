@@ -236,7 +236,7 @@ Yes, you can engage in gaming, earn rewards, and build your [portfolio](/buildin
 **What about uncertainties in game monetization?**  
 This remains a risk. Focus on projects with proven sustainable models and avoid untested experimental games.
 
-**Which path is better—gaming or development?**  
+**Which path is better, gaming or development?**  
 Development roles generally offer higher salaries, while gaming and community roles are more accessible for entry-level candidates.
 
 **Is there a long-term career path in this field?**  

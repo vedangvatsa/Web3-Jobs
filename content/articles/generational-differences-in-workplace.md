@@ -74,7 +74,7 @@ Maya transitioned from Web2 to Web3 and faced challenges in adapting her communi
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Most individuals notice initial results within a few weeks of consistent practice. Significant improvements typically manifest within a couple of months. The timeline varies based on your starting point, daily commitment, and engagement with feedback. Professionals who actively track progress — through metrics, peer feedback, or journaling — generally advance faster than those who observe passively. Treating implementation as a structured project enhances outcomes.
+A: Most individuals notice initial results within a few weeks of consistent practice. Significant improvements typically manifest within a couple of months. The timeline varies based on your starting point, daily commitment, and engagement with feedback. Professionals who actively track progress , through metrics, peer feedback, or journaling , generally advance faster than those who observe passively. Treating implementation as a structured project enhances outcomes.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often have more agency than you realize. Start with small, self-contained actions such as individual habits or personal projects that don’t require organizational approval. Build momentum gradually. If persistent efforts yield no results due to structural barriers, consider seeking a workplace that prioritizes employee development.
@@ -86,7 +86,7 @@ A: Web3 organizations differ fundamentally from traditional companies, heighteni
 A: Yes, this approach is advisable for most professionals. You often do not need extra hours; rather, you need to be intentional with your existing time. Identify two or three practices that align with your daily responsibilities and focus on applying them consistently. The compounding effect of small, deliberate improvements significantly outperforms sporadic large efforts.
 
 **Q: What resources can help me go deeper?**  
-A: Explore targeted reading materials related to generational differences. Beyond written resources, finding a mentor or joining a peer group of individuals excelling in this area can be invaluable. Observing their practices offers insights that articles cannot provide. Engage with Web3-specific communities on platforms such as Discord and Telegram, where experienced practitioners share their processes. Establishing structured accountability — committing to a timeline with someone who will check in — can also accelerate your progress.
+A: Explore targeted reading materials related to generational differences. Beyond written resources, finding a mentor or joining a peer group of individuals excelling in this area can be invaluable. Observing their practices offers insights that articles cannot provide. Engage with Web3-specific communities on platforms such as Discord and Telegram, where experienced practitioners share their processes. Establishing structured accountability , committing to a timeline with someone who will check in , can also accelerate your progress.
 
 ## Conclusion
 

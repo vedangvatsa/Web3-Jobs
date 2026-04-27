@@ -16,7 +16,7 @@ This article outlines the Web3 marketing career path, detailing various roles, t
 
 ### The Web3 Marketing Funnel: A Different Approach
 
-The traditional marketing funnel—Awareness, Interest, Decision, Action—undergoes a significant transformation in Web3. The focus shifts from customer conversion to community cultivation.
+The traditional marketing funnel, Awareness, Interest, Decision, Action, undergoes a significant transformation in Web3. The focus shifts from customer conversion to community cultivation.
 
 | Stage         | Description                                                                                                                        |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------|

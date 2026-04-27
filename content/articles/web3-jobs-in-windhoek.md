@@ -32,10 +32,10 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 
 | Role                                   | Salary Range (USD)               | Salary Range (NAD)               |
 |----------------------------------------|----------------------------------|----------------------------------|
-| Web3 Developer (Remote)                | Significant range                | —                                |
-| Web3 Developer (Local Startup)         | —                                | Variable                         |
-| Project Manager (Conservation/ReFi)    | —                                | Variable                         |
-| Community and Ecosystem Builders        | —                                | Variable, depends on projects    |
+| Web3 Developer (Remote)                | Significant range                | ,                                |
+| Web3 Developer (Local Startup)         | ,                                | Variable                         |
+| Project Manager (Conservation/ReFi)    | ,                                | Variable                         |
+| Community and Ecosystem Builders        | ,                                | Variable, depends on projects    |
 
 * **Web3 Developer (Full-Stack / [Solidity](/best-programming-languages-for-blockchain-development))**: Developers skilled in building practical applications are in high demand.
     - **Remote for Global Company**: Can earn competitive salaries, allowing for a high quality of life in Windhoek.

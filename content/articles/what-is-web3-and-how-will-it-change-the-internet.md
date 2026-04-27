@@ -63,7 +63,7 @@ Web3 operates on the principle of "don't trust, verify." Blockchains function as
 
 ### What Can You Build on Web3? (Web3 Examples)
 
-The principles of Web3—decentralization, ownership, and verifiability—facilitate a new category of applications previously unattainable. Here are some noteworthy **Web3 examples**:
+The principles of Web3, decentralization, ownership, and verifiability, facilitate a new category of applications previously unattainable. Here are some noteworthy **Web3 examples**:
 
 - **Decentralized Finance ([DeFi](/what-is-defi)):** A fully alternative financial system enabling lending, borrowing, and trading independent of traditional banks. This sector has generated numerous **[job in cryptocurrency](/defi-careers)** roles.
 - **Non-Fungible [Tokens](/what-is-a-token) (NFTs):** A mechanism for creating unique and provably scarce digital items, granting true ownership of digital art, music, collectibles, and in-game assets to creators and users.
@@ -171,7 +171,7 @@ Marcus transitioned from his corporate job to focus exclusively on Web3 for six 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**  
-A: No. The Web3 ecosystem requires more than just engineers. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in high demand. Your existing skills are transferable—you only need to layer Web3 context, such as understanding wallets, DAOs, and the importance of decentralization.
+A: No. The Web3 ecosystem requires more than just engineers. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in high demand. Your existing skills are transferable, you only need to layer Web3 context, such as understanding wallets, DAOs, and the importance of decentralization.
 
 **Q: How much can I earn in Web3?**  
 A: Web3 compensation consistently surpasses Web2 equivalents. Base salaries typically run higher than those in Web2, with Solidity engineers and smart contract auditors commanding the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly.

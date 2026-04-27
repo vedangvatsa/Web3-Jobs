@@ -18,7 +18,7 @@ To assemble a world-class team, you must adopt a crypto-native hiring strategy. 
 
 Recruiting in Web3 is not a task to activate only when a position opens. It represents an ongoing, around-the-clock effort of relationship-building and reputation management. The most desirable candidates might not be actively seeking new opportunities; they often emerge from your network and are attracted to your project due to its mission and culture.
 
-**Key Principle:** Your project's visibility—through your [GitHub](/building-web3-portfolio), Discord, and team members’ Twitter accounts—serves as your most effective recruitment tool.
+**Key Principle:** Your project's visibility, through your [GitHub](/building-web3-portfolio), Discord, and team members’ Twitter accounts, serves as your most effective recruitment tool.
 
 ### Phase 1: Sourcing - Identify Talent Hotspots
 

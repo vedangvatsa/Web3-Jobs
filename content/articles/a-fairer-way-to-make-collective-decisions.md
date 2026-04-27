@@ -9,7 +9,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-How does a society determine its development priorities? Traditional funding mechanisms for public goods—such as parks, scientific research, and open-source software—face significant challenges. These goods are essential for societal welfare, yet they are non-excludable and non-rivalrous. The absence of a direct profit motive often leads to underfunding, relying heavily on government grants or philanthropy. These sources can be slow, bureaucratic, and influenced by a limited number of decision-makers.
+How does a society determine its development priorities? Traditional funding mechanisms for public goods, such as parks, scientific research, and open-source software, face significant challenges. These goods are essential for societal welfare, yet they are non-excludable and non-rivalrous. The absence of a direct profit motive often leads to underfunding, relying heavily on government grants or philanthropy. These sources can be slow, bureaucratic, and influenced by a limited number of decision-makers.
 
 In contrast, [Web3](/what-is-web3) introduces innovative governance models that tackle these issues head-on. One of the standout solutions is **Quadratic Funding (QF)**. Developed by Vitalik Buterin, Zoe Hitzig, and Glen Weyl, QF amplifies community voices, ensuring that funding reflects collective preferences rather than the wealth of a few. This mechanism plays a pivotal role in the **[Web3 for Good](/web3-for-good-careers-in-social-impact-daos)** movement, presenting a transformative approach to making collective funding decisions. This article outlines how Quadratic Funding operates, its significance, and its real-world applications.
 
@@ -46,7 +46,7 @@ In this example, despite both projects receiving the same total donation amount,
 
 ### Challenges Facing Quadratic Funding
 
-Quadratic Funding encounters several challenges, with **sybil resistance** being the most pressing issue. The design incentivizes unique contributions, prompting individuals to create multiple fake accounts—known as "sybil attacks"—to appear as though a project has broader support than it truly does. This manipulation can skew the allocation of matching funds.
+Quadratic Funding encounters several challenges, with **sybil resistance** being the most pressing issue. The design incentivizes unique contributions, prompting individuals to create multiple fake accounts, known as "sybil attacks", to appear as though a project has broader support than it truly does. This manipulation can skew the allocation of matching funds.
 
 To combat this issue, Gitcoin employs various strategies, including on-chain analytics, social verification, and decentralized identity solutions such as Gitcoin Passport. These measures aim to confirm the authenticity and uniqueness of contributors.
 

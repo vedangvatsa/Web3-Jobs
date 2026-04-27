@@ -64,7 +64,7 @@ Tokenomics involves designing a crypto-native economic system. It can be a criti
 
 - **Game Theory:** This knowledge assists in creating systems that encourage rational actors to behave beneficially toward the protocol.
 - **Monetary Policy:** Understanding supply, inflation, and deflation is essential for creating sustainable [token](/what-is-a-token) models.
-- **Mechanism Design:** Designing governance, staking, and reward systems that align interests among all stakeholders—users, developers, and investors—is key.
+- **Mechanism Design:** Designing governance, staking, and reward systems that align interests among all stakeholders, users, developers, and investors, is key.
 
 ### 7. Community Management and Building
 

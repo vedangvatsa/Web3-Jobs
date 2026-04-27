@@ -45,7 +45,7 @@ The potential applications of CRISPR are vast and include:
 
 ### Ethical Considerations
 
-CRISPR's capabilities raise critical ethical considerations, particularly regarding germline editing—alterations made to human embryos or reproductive cells that can be passed to future generations. While germline editing presents opportunities to eliminate hereditary diseases, it also stirs concerns over the potential for non-medical enhancements and the emergence of "designer babies." A consensus among scientists and ethicists suggests that, due to safety concerns and far-reaching societal implications, germline editing for reproductive purposes should be approached cautiously.
+CRISPR's capabilities raise critical ethical considerations, particularly regarding germline editing, alterations made to human embryos or reproductive cells that can be passed to future generations. While germline editing presents opportunities to eliminate hereditary diseases, it also stirs concerns over the potential for non-medical enhancements and the emergence of "designer babies." A consensus among scientists and ethicists suggests that, due to safety concerns and far-reaching societal implications, germline editing for reproductive purposes should be approached cautiously.
 
 CRISPR offers humanity unprecedented control over genetic material. As a powerful tool, it has the potential to address significant challenges in health and agriculture. However, its application requires careful consideration and responsible governance.
 

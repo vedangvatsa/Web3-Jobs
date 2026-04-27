@@ -165,6 +165,6 @@ These figures represent a substantial increase compared to the average salary in
 
 ## Your Path Forward
 
-Equatorial Guinea's Web3 future is unfolding now. By developing robust skills, fostering a global network, and focusing on high-impact applications—particularly within energy and fintech—you can position yourself to capitalize on forthcoming opportunities.
+Equatorial Guinea's Web3 future is unfolding now. By developing robust skills, fostering a global network, and focusing on high-impact applications, particularly within energy and fintech, you can position yourself to capitalize on forthcoming opportunities.
 
 The emergence of a Web3 ecosystem in Malabo is inevitable. Your role could be pivotal in shaping its development. Start today by selecting a skill to master, committing to six months of focused learning, and initiating your first project. Your journey in Web3 begins now.

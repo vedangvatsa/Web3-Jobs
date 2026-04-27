@@ -36,7 +36,7 @@ In a tragic turn of events, Finney was diagnosed with ALS in 2009, the year Bitc
 
 ## The Transaction Itself: Block 170
 
-The inaugural transaction is etched permanently in the Bitcoin blockchain at block height 170. While the transaction itself is straightforward—an input from Satoshi's address and an output to Hal Finney's address—it signifies a monumental technical achievement.
+The inaugural transaction is etched permanently in the Bitcoin blockchain at block height 170. While the transaction itself is straightforward, an input from Satoshi's address and an output to Hal Finney's address, it signifies a monumental technical achievement.
 
 This transaction was the first practical test of the core components of the Bitcoin protocol in a live, peer-to-peer environment:
 - **Public Key Cryptography**: Hal Finney generated a Bitcoin address (public key) and shared it with Satoshi, who used this address to send the funds.

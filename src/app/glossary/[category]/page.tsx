@@ -42,6 +42,7 @@ const CATEGORY_CONTENT: Record<string, { description: string }> = {
   },
 };
 
+export const revalidate = 3600;
 export const dynamicParams = true;
 
 export async function generateStaticParams() {

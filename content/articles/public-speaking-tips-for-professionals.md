@@ -43,7 +43,7 @@ Identify the single most critical idea you want your audience to remember. Artic
 
 People are naturally drawn to stories. A narrative format enhances engagement and memorability compared to a list of facts. A straightforward structure includes:
 
-- **The Hook (Opening):** Start with an attention-grabbing element—this could be a surprising statistic, a provocative question, or a relatable anecdote. Clearly articulate the problem you will address and its significance.
+- **The Hook (Opening):** Start with an attention-grabbing element, this could be a surprising statistic, a provocative question, or a relatable anecdote. Clearly articulate the problem you will address and its significance.
 - **The Body (Journey):** This section builds your case. Organize your main points logically. Aim for three primary points, employing the "What? So What? Now What?" framework:
     - **What?** Present your point or data.
     - **So What?** Clarify its importance.
@@ -172,11 +172,11 @@ Maya, transitioning from Web2 to Web3, used this approach to adapt quickly. Her 
 
 **Q: How long will this take to implement?**
 
-A: Most individuals observe initial improvements within a few weeks of consistent practice, with significant advancements noticeable within a few months. Variability exists based on your starting point, daily commitment, and proactive feedback-seeking. Professionals who actively track their progress—through metrics or peer reviews—generally progress faster than those relying on passive observation. Treating implementation as a structured initiative yields better results.
+A: Most individuals observe initial improvements within a few weeks of consistent practice, with significant advancements noticeable within a few months. Variability exists based on your starting point, daily commitment, and proactive feedback-seeking. Professionals who actively track their progress, through metrics or peer reviews, generally progress faster than those relying on passive observation. Treating implementation as a structured initiative yields better results.
 
 **Q: What if my workplace environment is unsupportive?**
 
-A: You often have more agency than you realize, even in challenging environments. Start with small, self-contained actions that require no organizational endorsement—such as personal projects or conversations with aligned colleagues. Gradually build momentum without waiting for permission. If, after sustained effort, the environment stifles your development, consider this a crucial factor in your career trajectory—seeking a more nurturing environment may be the right choice.
+A: You often have more agency than you realize, even in challenging environments. Start with small, self-contained actions that require no organizational endorsement, such as personal projects or conversations with aligned colleagues. Gradually build momentum without waiting for permission. If, after sustained effort, the environment stifles your development, consider this a crucial factor in your career trajectory, seeking a more nurturing environment may be the right choice.
 
 **Q: How does this apply specifically to Web3?**
 

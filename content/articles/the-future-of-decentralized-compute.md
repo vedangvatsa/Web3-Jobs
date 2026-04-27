@@ -27,7 +27,7 @@ Centralized cloud computing faces several critical issues:
 Decentralized compute networks employ [blockchain](/what-is-a-blockchain) technology alongside a native token to create a trustless marketplace for computation. 
 
 1. **Providers:** Individuals or data centers with idle CPU or GPU capacity connect their machines to the network. These providers act as the "miners" of the compute network, earning tokens in exchange for their resources.
-2. **Users:** Developers or researchers needing to execute computational tasks—such as rendering a 3D model, training an AI model, or hosting a web server—submit their jobs to the network.
+2. **Users:** Developers or researchers needing to execute computational tasks, such as rendering a 3D model, training an AI model, or hosting a web server, submit their jobs to the network.
 3. **The Marketplace:** A [smart contract](/what-are-smart-contracts)-based marketplace matches users with providers. Users pay for computational resources using the network's native token.
 4. **Verification:** A significant challenge is authenticating that computations have been performed correctly. Many networks utilize cryptographic methods, such as [Zero-Knowledge Proofs](/zero-knowledge-proofs-explained), allowing providers to verify job execution without requiring a full re-computation.
 

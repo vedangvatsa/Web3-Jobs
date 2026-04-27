@@ -33,7 +33,7 @@ Ravikant argues that Bitcoin introduced a form of money that exists independentl
 
 Beyond their monetary function, Ravikant views blockchains as platforms for creating new, open markets that operate without permission.
 
-- **From Money to Any Asset:** [Ethereum](/what-is-ethereum) expanded the concept of blockchains. Rather than serving solely as a ledger for a single asset, it introduced a programmable ledger that tracks ownership of diverse assets—such as stocks, real estate, art, and collectibles—in the form of [tokens](/what-is-a-token).
+- **From Money to Any Asset:** [Ethereum](/what-is-ethereum) expanded the concept of blockchains. Rather than serving solely as a ledger for a single asset, it introduced a programmable ledger that tracks ownership of diverse assets, such as stocks, real estate, art, and collectibles, in the form of [tokens](/what-is-a-token).
 
 - **Permissionless Capital Formation:** The crypto space allows anyone to raise capital without needing approval from venture capitalists or banks. Previously, securing funding required convincing gatekeepers. Now, projects can raise funds directly from their community through token sales, minimizing barriers to capital formation.
 
@@ -53,7 +53,7 @@ He categorizes leverage into three types: labor (others working for you), capita
 
 ### 2. The Pursuit of Individual Sovereignty
 
-Ravikant emphasizes that the fundamental promise of Web3 lies in individual sovereignty—the ability to control one's assets, identity, and economic future independently of external institutions.
+Ravikant emphasizes that the fundamental promise of Web3 lies in individual sovereignty, the ability to control one's assets, identity, and economic future independently of external institutions.
 
 - **Self-Custody as Freedom:** The principle of "not your keys, not your coins" encapsulates this concept. When individuals hold their private keys, they maintain complete control over their digital assets. This self-custody guarantees that banks cannot freeze accounts or governments confiscate wealth without consent.
 
@@ -63,7 +63,7 @@ Ravikant emphasizes that the fundamental promise of Web3 lies in individual sove
 
 ### 3. Blockchains vs. "Blockchain Technology"
 
-Ravikant differentiates between **blockchains**—public, open, and permissionless networks like Bitcoin and Ethereum—and **"blockchain technology"**—private, permissioned databases utilized by corporations.
+Ravikant differentiates between **blockchains**, public, open, and permissionless networks like Bitcoin and Ethereum, and **"blockchain technology"**, private, permissioned databases utilized by corporations.
 
 He expresses skepticism towards corporate or consortium blockchains, arguing that they fail to capture the true essence of blockchain technology. For him, the value of a blockchain lies in its decentralization and capacity to create neutral, open platforms. Private blockchains merely function as slow, inefficient databases, while true innovation thrives on public chains.
 
@@ -88,4 +88,4 @@ A3: Although he has a background in venture capital, Ravikant acknowledges the i
 A4: *The Almanack of Naval Ravikant*, compiled by Eric Jorgenson, summarizes Ravikant's wisdom drawn from his tweets, essays, and podcast discussions. While it does not focus solely on Web3, it encompasses his core ideas about wealth, happiness, and philosophy, which underpin his views on cryptocurrency.
 
 **Q5: What is Naval's view on [NFTs](/what-are-nfts)?**  
-A5: Ravikant considers NFTs an integral component of the "blockchains as markets" thesis. He views them as the technology enabling verifiable ownership and trade of unique digital items—such as art, music, game assets, and domain names—within an open market, a capability that did not exist prior to their introduction.
+A5: Ravikant considers NFTs an integral component of the "blockchains as markets" thesis. He views them as the technology enabling verifiable ownership and trade of unique digital items, such as art, music, game assets, and domain names, within an open market, a capability that did not exist prior to their introduction.

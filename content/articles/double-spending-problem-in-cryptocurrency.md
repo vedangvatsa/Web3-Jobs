@@ -66,7 +66,7 @@ A transaction is deemed confirmed only when included in a valid block that forms
 
 Once a block is added to the blockchain, it is cryptographically linked to the previous block, creating a chain. Each new block reinforces its predecessor.
 
-To reverse a transaction, an attacker must "un-do" the block containing it and all subsequent blocks, then reconstruct a new, longer chain featuring their double-spend transaction. Accomplishing this requires an enormous amount of computational power—more than the entire network combined. This scenario illustrates what is known as a **[51% attack](/what-is-a-51-percent-attack-in-blockchain)**.
+To reverse a transaction, an attacker must "un-do" the block containing it and all subsequent blocks, then reconstruct a new, longer chain featuring their double-spend transaction. Accomplishing this requires an enormous amount of computational power, more than the entire network combined. This scenario illustrates what is known as a **[51% attack](/what-is-a-51-percent-attack-in-blockchain)**.
 
 #### How This Prevents Mallory's Attack
 

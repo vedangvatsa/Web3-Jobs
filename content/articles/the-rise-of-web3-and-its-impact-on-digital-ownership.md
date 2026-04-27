@@ -31,7 +31,7 @@ Web3 introduces a new model for digital ownership, utilizing **[Non-Fungible Tok
 ### NFT Basics
 
 - **Definition:** An NFT is a unique [token](/what-is-a-token) on a public **[blockchain](/what-is-a-blockchain)** that serves as a verifiable deed or title for a digital item. It provides public proof that you are the sole owner of that specific item.
-- **Ownership Transfer:** When you purchase an NFT—whether it is digital art, an in-game asset, or virtual land—ownership transfers to your personal **[crypto wallet](/how-to-choose-a-crypto-wallet)**. You hold the private keys to this wallet, which grants you self-custody of the asset.
+- **Ownership Transfer:** When you purchase an NFT, whether it is digital art, an in-game asset, or virtual land, ownership transfers to your personal **[crypto wallet](/how-to-choose-a-crypto-wallet)**. You hold the private keys to this wallet, which grants you self-custody of the asset.
 - **Key Difference:** Unlike Web2, game developers or platform creators cannot revoke ownership. Even if their website goes offline, the blockchain records your ownership, and the asset remains in your [wallet](/how-to-choose-a-crypto-wallet).
 
 ## The Impact of True Digital Ownership

@@ -60,7 +60,7 @@ This segment connects your personal journey to the specific position for which y
 * **Show alignment with the company's goals**:
     * "What excites me most about this role is the chance to work on [specific feature on their roadmap]. I believe this aspect is vital for attracting a mainstream audience, and my background in [your experience] will be directly applicable."
 
-Structuring your answer around The Spark, The Journey, and The Vision allows you to create a powerful narrative that reflects your authenticity and aligns with the role. This approach establishes that you are not merely seeking employment but are on a mission—one where this company represents the next logical step in your journey.
+Structuring your answer around The Spark, The Journey, and The Vision allows you to create a powerful narrative that reflects your authenticity and aligns with the role. This approach establishes that you are not merely seeking employment but are on a mission, one where this company represents the next logical step in your journey.
 
 ### Building Your Narrative: A Practical Table
 

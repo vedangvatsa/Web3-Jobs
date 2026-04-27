@@ -43,7 +43,7 @@ Establish a clear understanding of your environment and formulate a strategy bef
 With a well-defined thesis, begin constructing your partnership pipeline.
 
 1. **Build a Target List:** Prioritize protocols according to your thesis.
-2. **Utilize Warm Introductions:** The Web3 ecosystem thrives on trusted networks. A warm intro from a mutual contact—such as a venture capitalist, another founder, or a respected community member—can significantly enhance your outreach success.
+2. **Utilize Warm Introductions:** The Web3 ecosystem thrives on trusted networks. A warm intro from a mutual contact, such as a venture capitalist, another founder, or a respected community member, can significantly enhance your outreach success.
 3. **Craft High-Impact Cold Outreach:** If a warm introduction isn't feasible, your cold outreach must stand out.
    - **Conduct Thorough Research:** Understand the protocol and the individual you are contacting.
    - **Provide Value Upfront:** Your initial message should present a specific idea for collaboration that benefits both parties, rather than a generic partnership request. For more details, see our guide on **[how to cold contact and get a response](/how-to-cold-contact-and-get-a-response)**.
@@ -64,7 +64,7 @@ With a well-defined thesis, begin constructing your partnership pipeline.
 
 Signing the agreement is just the beginning; successful execution is critical.
 
-1. **Project Management:** The BD professional must coordinate with internal teams—engineering, product, and marketing—to ensure smooth integration and launch.
+1. **Project Management:** The BD professional must coordinate with internal teams, engineering, product, and marketing, to ensure smooth integration and launch.
 2. **Joint Launch Campaign:** Plan a coordinated marketing push with your partner to announce the integration to both communities.
 3. **Ongoing Relationship Management:** Strong partnerships are long-term commitments. Schedule regular check-ins, share success metrics, and continually explore new collaborative opportunities.
 

@@ -14,13 +14,13 @@ lastUpdated: "2026-04-27"
 
 Real estate represents the largest asset class globally, yet it suffers from illiquidity and accessibility issues. High capital requirements, intricate legal processes, and dependence on intermediaries make property transactions slow and costly. As a result, only affluent investors typically engage in buying and selling real estate.
 
-A wave of innovation, driven by [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology, aims to dismantle these barriers. The tokenization of real estate—representing ownership of physical properties as digital [tokens](/what-is-a-token) on a blockchain—has the potential to revolutionize the industry. This process democratizes access and unlocks significant value in previously illiquid assets.
+A wave of innovation, driven by [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology, aims to dismantle these barriers. The tokenization of real estate, representing ownership of physical properties as digital [tokens](/what-is-a-token) on a blockchain, has the potential to revolutionize the industry. This process democratizes access and unlocks significant value in previously illiquid assets.
 
 This article examines real estate tokenization, its mechanics, and the significant implications for property investment.
 
 ### What is Real Estate Tokenization?
 
-Tokenization involves creating a digital representation of a real-world asset on a blockchain. In real estate, this means dividing properties—such as office buildings, apartment complexes, or single-family homes—into thousands or millions of digital tokens. Each token corresponds to a fractional share of ownership in the property.
+Tokenization involves creating a digital representation of a real-world asset on a blockchain. In real estate, this means dividing properties, such as office buildings, apartment complexes, or single-family homes, into thousands or millions of digital tokens. Each token corresponds to a fractional share of ownership in the property.
 
 These tokens typically utilize standards like ERC-20 for fungible shares or ERC-721 for unique property titles. Investors can buy, sell, and trade these tokens on secondary markets akin to stocks or cryptocurrencies.
 

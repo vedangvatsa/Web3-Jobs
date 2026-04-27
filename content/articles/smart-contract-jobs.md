@@ -36,7 +36,7 @@ Not all smart contract jobs are identical. Different roles emphasize different a
 
 ### DeFi Protocol Developer
 
-These developers build the core financial protocols—lending platforms, decentralized exchanges, derivatives. The work is mathematically complex. You need to understand financial mechanics, incentive structures, and how users might exploit the system.
+These developers build the core financial protocols, lending platforms, decentralized exchanges, derivatives. The work is mathematically complex. You need to understand financial mechanics, incentive structures, and how users might exploit the system.
 
 Compensation is premium, depending on seniority and the project's funding.
 
@@ -48,7 +48,7 @@ Compensation varies depending on seniority.
 
 ### Infrastructure Developer
 
-Some developers work on infrastructure—bridges between blockchains, oracles that provide external data, or systems that monitor and facilitate smart contract interactions. This requires strong systems thinking and understanding of complex distributed systems.
+Some developers work on infrastructure, bridges between blockchains, oracles that provide external data, or systems that monitor and facilitate smart contract interactions. This requires strong systems thinking and understanding of complex distributed systems.
 
 Compensation varies depending on seniority.
 

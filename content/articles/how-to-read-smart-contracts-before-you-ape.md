@@ -86,7 +86,7 @@ Contract analysis is only one component of your due diligence.
 
 ### Trust, but Verify
 
-You do not need to be a security expert to mitigate the risk of common scams. By mastering these fundamental checks—contract verification, keyword searches for potential threats, and community assessment—you can enhance your ability to identify risky projects. In the decentralized realm of Web3, the principle is clear: do not trust blindly; verify thoroughly. Learning to read smart contracts represents your first crucial step toward informed decision-making in this evolving landscape.
+You do not need to be a security expert to mitigate the risk of common scams. By mastering these fundamental checks, contract verification, keyword searches for potential threats, and community assessment, you can enhance your ability to identify risky projects. In the decentralized realm of Web3, the principle is clear: do not trust blindly; verify thoroughly. Learning to read smart contracts represents your first crucial step toward informed decision-making in this evolving landscape.
 
 ### Importance of Smart Contract Literacy
 

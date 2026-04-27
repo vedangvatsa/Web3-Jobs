@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-In an environment where innovation is critical, the cryptocurrency sector is currently grappling with a significant challenge: a decline in developer activity over the past year. This drop raises concerns about the long-term health and innovation capacity of the entire [blockchain](/what-is-a-blockchain) ecosystem. As institutional adoption rises, the departure of builders—those responsible for creating and maintaining the technology—creates a troubling scenario.
+In an environment where innovation is critical, the cryptocurrency sector is currently grappling with a significant challenge: a decline in developer activity over the past year. This drop raises concerns about the long-term health and innovation capacity of the entire [blockchain](/what-is-a-blockchain) ecosystem. As institutional adoption rises, the departure of builders, those responsible for creating and maintaining the technology, creates a troubling scenario.
 
 The loss of developer talent from crypto projects occurs at a pivotal moment, marked by shifting venture capital trends and the increasing allure of artificial intelligence (AI) for investors. This article explores the reasons behind the decline in developer activity, examines the changing venture capital landscape, and assesses the implications for the future of blockchain technology.
 
@@ -42,7 +42,7 @@ When examining early-stage funding, including angel, pre-seed, and seed rounds, 
 
 ### AI vs. Crypto
 
-As crypto struggles to attract venture funding, AI has emerged as the preferred investment destination. In early 2025, U.S. crypto venture funding reached a respectable figure—a notable amount until compared to AI’s significantly larger funding during the same period.
+As crypto struggles to attract venture funding, AI has emerged as the preferred investment destination. In early 2025, U.S. crypto venture funding reached a respectable figure, a notable amount until compared to AI’s significantly larger funding during the same period.
 
 The disparity in funding portrays a clear narrative. Crypto’s largest deal was a major investment into Binance, while AI celebrated substantial rounds, including significant raises by leading AI startups. AI startups attracted a vast amount in 2024 across numerous deals, vastly outpacing crypto’s funding across a smaller number of deals.
 

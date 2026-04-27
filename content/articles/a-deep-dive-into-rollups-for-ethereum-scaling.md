@@ -13,7 +13,7 @@ Ethereum's rapid growth has made it the leading platform for [smart contracts](/
 
 Rollups form the foundation of Ethereum's scaling strategy. They operate as secondary layers that execute transactions off-chain while posting transaction data back to the main Ethereum blockchain. This approach allows rollups to inherit Ethereum's security and decentralization. As a result, rollups can provide significantly higher transaction throughput and lower fees, often achieving reductions compared to on-chain transactions. This capability makes Ethereum applications suitable for broader adoption.
 
-This article explores rollups, detailing the two main types—Optimistic Rollups and Zero-Knowledge (ZK) Rollups—and their critical roles in creating a modular blockchain ecosystem.
+This article explores rollups, detailing the two main types, Optimistic Rollups and Zero-Knowledge (ZK) Rollups, and their critical roles in creating a modular blockchain ecosystem.
 
 ### Off-Chain Execution and On-Chain Data
 

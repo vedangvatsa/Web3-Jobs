@@ -41,7 +41,7 @@ If you are focused on AI, Python should be your first programming language. Its 
 
 #### Ideal Candidates for Learning Python
 
-Individuals pursuing careers in AI or machine learning—engineers, data scientists, and researchers—should prioritize Python as their primary programming language.
+Individuals pursuing careers in AI or machine learning, engineers, data scientists, and researchers, should prioritize Python as their primary programming language.
 
 ### R: The Statistician’s Tool
 
@@ -99,7 +99,7 @@ Java remains a primary language for large enterprise applications. While it lack
 #### Role of Java in AI
 
 1. **Integration with Existing Infrastructure**  
-   Many large organizations—banks, insurance companies, and others—build their technology stacks on Java. For these entities, incorporating AI capabilities through Java-based libraries is generally more feasible than adopting a new language like Python.
+   Many large organizations, banks, insurance companies, and others, build their technology stacks on Java. For these entities, incorporating AI capabilities through Java-based libraries is generally more feasible than adopting a new language like Python.
 
 2. **Scalability and Security**  
    Java is renowned for its robustness, security, and ability to scale effectively to complex applications, all of which are crucial for enterprise-level AI solutions.

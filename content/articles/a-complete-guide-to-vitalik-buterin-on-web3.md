@@ -74,7 +74,7 @@ Vitalik has emerged as a notable critic of simplistic "1 [token](/what-is-a-toke
 
 ### Soulbound Tokens (SBTs)
 
-In a 2022 paper co-authored with Glen Weyl and Puja Ohlhaver, Vitalik introduced "Soulbound Tokens" (SBTs). These non-transferable NFTs represent an individual's commitments, credentials, and affiliations—essentially functioning like a [resume](/how-to-build-a-web3-resume-that-stands-out) on the blockchain.
+In a 2022 paper co-authored with Glen Weyl and Puja Ohlhaver, Vitalik introduced "Soulbound Tokens" (SBTs). These non-transferable NFTs represent an individual's commitments, credentials, and affiliations, essentially functioning like a [resume](/how-to-build-a-web3-resume-that-stands-out) on the blockchain.
 
 Vitalik envisions SBTs as foundational elements for a "Decentralized Society" (DeSoc), where reputation and social relationships hold equal importance to financial capital. For instance, a university could issue an SBT to a graduate, or a [DAO](/what-is-a-dao) might distribute them to its members. Their non-transferable nature ensures authenticity, as they cannot be bought or sold.
 

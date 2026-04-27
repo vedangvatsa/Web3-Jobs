@@ -153,7 +153,7 @@ Marcus decided to shift his focus to Web3 full-time. After six months of dedicat
 ## FAQ
 
 **Do I need to be a blockchain expert to work in Web3?**  
-No, the Web3 ecosystem requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal, and operations are all in high demand. Existing skills are transferable; understanding the context of Web3—such as wallets, DAOs, and the importance of decentralization—will enhance your employability.
+No, the Web3 ecosystem requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal, and operations are all in high demand. Existing skills are transferable; understanding the context of Web3, such as wallets, DAOs, and the importance of decentralization, will enhance your employability.
 
 **How much can I earn in Web3?**  
 Compensation in Web3 consistently surpasses Web2. Base salaries are typically significantly higher, particularly for roles like Solidity engineers and smart contract auditors, who command attractive premiums due to their scarcity. Total compensation packages often include bonuses, equity in emerging protocols, and potentially lucrative token allocations. Senior engineers at well-capitalized projects can earn significant total compensation.
@@ -162,7 +162,7 @@ Compensation in Web3 consistently surpasses Web2. Base salaries are typically si
 Every career change involves risks, and Web3 is no different due to market volatility and project lifecycles. Manage this risk by targeting established protocols with solid revenue, researching team backgrounds, and ensuring base salaries are in fiat currency. Professionals who approach Web3 as a career move rather than a speculative endeavor tend to build sustainable roles that can withstand market fluctuations.
 
 **How long does the transition take?**  
-A successful transition to Web3 typically takes 2-6 months of focused effort. Engineers and product managers often progress quickly due to the direct applicability of their skills. Non-technical roles, such as marketing and community management, can transition in 4-8 weeks with targeted self-study. Active engagement—through portfolio projects or contributions to open-source protocols—can significantly expedite the process.
+A successful transition to Web3 typically takes 2-6 months of focused effort. Engineers and product managers often progress quickly due to the direct applicability of their skills. Non-technical roles, such as marketing and community management, can transition in 4-8 weeks with targeted self-study. Active engagement, through portfolio projects or contributions to open-source protocols, can significantly expedite the process.
 
 **What if the crypto market crashes?**  
 Historically, bear markets present excellent opportunities for entering Web3. As speculative excitement diminishes, teams focus on building substantial products, prioritizing talent over token price. Established infrastructure firms and security companies tend to continue hiring regardless of market trends. Engineers who developed their skills during downturns became some of the most sought-after professionals today. A downturn can lower competition for roles and often lead to more favorable equity terms for new hires.

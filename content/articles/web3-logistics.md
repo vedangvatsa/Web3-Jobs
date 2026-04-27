@@ -76,7 +76,7 @@ Although Web3 applications in logistics show promise, several hurdles remain.
 
 - **The Oracle Problem:** Reliably connecting real-world events, such as the arrival of a container, to the blockchain requires a dependable network of oracles and IoT devices.
 - **Scalability:** Global supply chains produce vast amounts of data. The underlying blockchain must handle this volume efficiently and cost-effectively.
-- **Industry Adoption:** Convincing a fragmented and often conservative industry—comprising thousands of stakeholders—to agree on and adopt common standards presents a significant challenge.
+- **Industry Adoption:** Convincing a fragmented and often conservative industry, comprising thousands of stakeholders, to agree on and adopt common standards presents a significant challenge.
 
 Despite these obstacles, the potential for Web3 to enhance efficiency, transparency, and trust in global logistics is substantial. As technology matures and business cases become clearer, the demand for professionals skilled in both supply chain management and decentralized technology will grow, creating exciting career opportunities within global commerce.
 

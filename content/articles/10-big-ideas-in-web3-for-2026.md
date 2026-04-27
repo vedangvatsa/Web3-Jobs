@@ -37,7 +37,7 @@ DePIN networks are tokenizing physical infrastructure, including broadband and e
 
 ## 3. Real-World Asset (RWA) Tokenization Hits Critical Mass
 
-The tokenization of real-world assets—such as real estate, bonds, commodities, and fine art—is transitioning from theory to practice. Key developments to expect include:
+The tokenization of real-world assets, such as real estate, bonds, commodities, and fine art, is transitioning from theory to practice. Key developments to expect include:
 
 - Increased regulatory clarity in major markets.
 - Adoption by enterprises, including property management firms and financial institutions.

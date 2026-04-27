@@ -20,7 +20,7 @@ Applying traditional IP law in the Web3 context presents several challenges. The
 
 - **Patents:** The question arises whether one can patent a novel consensus mechanism or a new [DeFi](/what-is-defi) primitive. Many projects pursue patents for their technology, yet debates continue regarding whether this approach contradicts the collaborative ethos of the industry. An IP expert guides projects on their patent strategies and assists in the patent application process.
   
-- **Copyright:** Ownership issues complicate matters in Web3. For instance, who holds the copyright for an AI-generated [NFT](/what-are-nfts)? What rights does the NFT owner possess concerning the underlying artwork? Web3 IP lawyers are drafting innovative licensing agreements—such as the "Can't Be Evil" licenses developed by a16z—that cater to the distinct characteristics of NFTs.
+- **Copyright:** Ownership issues complicate matters in Web3. For instance, who holds the copyright for an AI-generated [NFT](/what-are-nfts)? What rights does the NFT owner possess concerning the underlying artwork? Web3 IP lawyers are drafting innovative licensing agreements, such as the "Can't Be Evil" licenses developed by a16z, that cater to the distinct characteristics of NFTs.
 
 - **Trademarks:** Protecting a brand associated with a decentralized [DAO](/what-is-a-dao) presents additional challenges. IP experts aid DAOs and projects in registering trademarks and safeguarding their brand identities from misuse.
 

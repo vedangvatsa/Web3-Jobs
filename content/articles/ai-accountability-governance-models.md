@@ -27,7 +27,7 @@ Decentralized governance leveraging blockchain and smart contracts has several a
 
 1. **Transparency**: Every decision, update, and incident report related to an AI system can be recorded on an immutable ledger. This approach does not require exposing proprietary algorithms but ensures that processes remain transparent and outcomes verifiable.
 
-2. **Distributed Decision-Making**: Instead of a single internal team evaluating the safety of an AI system, diverse stakeholders—including independent auditors, affected users, regulatory representatives, and industry experts—can participate in the decision-making process. This inclusion of varied perspectives reduces the likelihood of capture by any single party.
+2. **Distributed Decision-Making**: Instead of a single internal team evaluating the safety of an AI system, diverse stakeholders, including independent auditors, affected users, regulatory representatives, and industry experts, can participate in the decision-making process. This inclusion of varied perspectives reduces the likelihood of capture by any single party.
 
 3. **Scalable Accountability**: Blockchain-based voting mechanisms create a framework for accountability at scale. When numerous token holders vote on AI system deployments and their votes are permanently recorded on-chain, evading responsibility becomes significantly more challenging. Voters understand that their decisions will be permanently visible.
 

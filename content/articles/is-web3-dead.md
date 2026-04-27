@@ -47,7 +47,7 @@ The last bull market attracted substantial talent and funding that remains in th
 - **Long-term Capital Commitment:** Venture capitalists typically adopt a long-term perspective. Billions invested in Web3 projects during the bull market continue to fuel development, irrespective of short-term market fluctuations.
 
 **3. Increasing Relevance of the Vision**  
-Challenges in the centralized internet—such as data monopolies and censorship—have intensified. The core value proposition of Web3 addresses these issues directly.
+Challenges in the centralized internet, such as data monopolies and censorship, have intensified. The core value proposition of Web3 addresses these issues directly.
 
 - **Digital Ownership:** The demand for genuine ownership of digital assets and identities grows as our lives become more digital. This trend underscores the urgency for decentralized solutions.
 - **Permissionless Innovation:** Allowing anyone to build on an open, neutral platform fosters innovation akin to the early days of the internet. This principle remains a cornerstone of Web3.
