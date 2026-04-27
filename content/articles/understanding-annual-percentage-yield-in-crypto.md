@@ -7,7 +7,7 @@ description: "APY is a crucial metric in DeFi, but what does it really mean? Thi
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 In the world of Decentralized Finance ([DeFi](/what-is-defi)), you'll constantly see projects advertising incredibly high yields, often expressed as APY. Understanding what Annual Percentage Yield (APY) represents, and how it differs from Annual Percentage Rate (APR), is critical for anyone looking to earn returns on their crypto assets safely and effectively. It's a concept that can mean the difference between understanding your real returns and being misled by inflated marketing numbers.

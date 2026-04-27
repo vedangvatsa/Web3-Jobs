@@ -7,152 +7,166 @@ description: "Launching in Web3 is different. This guide outlines the modern go-
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
-Launching a new project in the [Web3](/what-is-web3) space requires a go-to-market (GTM) strategy that is fundamentally different from the playbook used by traditional Web2 startups. In a world defined by decentralization, community ownership, and open-source code, the old tactics of paid advertising, sales-driven funnels, and proprietary moats are not just ineffective-they can be actively harmful to a project's credibility and long-term success.
+Launching a project in the [Web3](/what-is-web3) space necessitates a go-to-market (GTM) strategy that diverges significantly from those utilized by traditional Web2 startups. In an environment characterized by decentralization, community ownership, and open-source code, conventional tactics such as paid advertising and sales-driven funnels are not only ineffective; they can also undermine a project's credibility and long-term viability.
 
-A modern Web3 GTM strategy is a delicate art. It's a bottom-up approach that prioritizes community building, authentic communication, and the clever design of economic incentives. This guide provides a comprehensive playbook for launching and scaling a Web3 project, focusing on the strategies and metrics that matter in a decentralized ecosystem.
+A modern Web3 GTM strategy embodies a bottom-up approach that emphasizes community building, authentic communication, and the strategic design of economic incentives. This article presents a detailed playbook for launching and scaling a Web3 project, highlighting the strategies and metrics that genuinely matter within a decentralized ecosystem.
 
-### The Core Principle: Community-Led Growth
+### Community-Led Growth as the Foundation
 
-In Web3, your community is not a marketing channel; it is the product. They are your co-owners, your most passionate evangelists, and your most valuable source of early feedback. A GTM strategy that doesn't place community at its absolute center is doomed to fail.
+In Web3, the community serves as the product. Community members are co-owners, passionate advocates, and invaluable sources of early feedback. A GTM strategy that fails to prioritize community engagement risks failure.
 
--   **Pre-Launch Phase: The Seed of Community:** The GTM process starts months before you write a single line of [smart contract](/what-are-smart-contracts) code. It begins with building a small, dedicated community of believers around a shared mission or a novel idea. This is achieved through high-quality content, active participation in broader ecosystem discussions, and building a reputation for expertise and authenticity. Your initial goal is not to gain thousands of users, but to attract a core group of 100 true fans who will become the foundation of your community.
--   **Launch Phase: Rewarding the True Believers:** The launch of your protocol or [NFT](/what-are-nfts) collection should be an event designed *for* your community. This is where you reward your earliest and most dedicated members. The primary mechanism for this is the **[airdrop](/understanding-airdrop-campaigns-in-web3)** or an **allowlist**. By giving these early supporters a significant ownership [stake](/how-to-become-a-web3-staking-specialist) in the network, you improving how them from users into owners, deeply aligning their incentives with the project's long-term success.
--   **Post-Launch Phase: The Community as the Engine:** A well-designed protocol has incentive mechanisms that empower the community to become the engine of growth. This can include rewards for providing liquidity, referral programs that benefit both parties, or grants from a [DAO](/what-is-a-dao)-controlled treasury to fund community-led growth initiatives.
+- **Pre-Launch Phase: Cultivating Community:** The GTM process begins well before any [smart contract](/what-are-smart-contracts) code is written. Initially, focus on building a dedicated community around a shared mission or innovative idea. Achieve this through high-quality content, participation in ecosystem discussions, and establishing a reputation for expertise. The primary objective is not to attract thousands but to cultivate a core group of 100 true fans who will form the foundation of your community.
+  
+- **Launch Phase: Rewarding Early Supporters:** The protocol or [NFT](/what-are-nfts) collection launch should center on community members. This phase rewards your earliest supporters through mechanisms such as **[airdrops](/understanding-airdrop-campaigns-in-web3)** or **allowlists**. By granting these early supporters a substantial ownership [stake](/how-to-become-a-web3-staking-specialist) in the network, you transform them from mere users into invested owners, aligning their incentives with the project's long-term success.
 
-### Measuring What Matters: Web3 KPIs
+- **Post-Launch Phase: Empowering Community Growth:** A well-designed protocol incorporates incentive mechanisms that empower the community to drive growth. This may include rewards for liquidity provision, referral programs benefiting participants, or grants from a [DAO](/what-is-a-dao)-controlled treasury to fund community-led initiatives.
 
-Web2 companies are obsessed with metrics like Monthly Active Users (MAUs), Customer Acquisition Cost (CAC), and Lifetime Value (LTV). While these concepts have their place, Web3 provides a much richer and more meaningful set of on-chain metrics that measure real economic activity and community health.
+### Key Performance Indicators for Web3
 
--   **On-Chain Active Wallets:** This is the Web3 equivalent of DAUs/MAUs. How many unique wallets are interacting with your smart contracts on a daily, weekly, or monthly basis? This is a transparent and verifiable measure of real usage.
--   **Protocol Revenue:** How much in fees is your protocol generating from its core activity (e.g., trading fees for a [DEX](/what-is-a-decentralized-exchange-dex), interest for a lending protocol)? This is the purest signal of product-market fit.
--   **Governance Participation Rate:** What percentage of your [token](/what-is-a-token) holders are actively voting on governance proposals? This is a key metric for measuring community engagement and the true decentralization of your project.
--   **User Retention Cohorts:** Of the users who first used your protocol in January, what percentage are still active in March? This can be tracked with precision using on-chain data and is the core test of long-term value and stickiness.
--   **Sybil Resistance in Metrics:** A sophisticated analyst will also focus on filtering out "sybil" activity (one person using many wallets) to get a true picture of the unique user base.
+While Web2 companies focus heavily on metrics like Monthly Active Users (MAUs) and Customer Acquisition Cost (CAC), Web3 offers richer on-chain metrics that reflect real economic activity and community health.
 
-**[On-chain data analysts](/on-chain-analyst-job)**, using tools like Dune Analytics, are critical for tracking these metrics and providing the insights that shape a successful GTM strategy.
+| Metric                          | Description                                                                                                         |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| On-Chain Active Wallets         | The number of unique wallets interacting with smart contracts on a daily, weekly, or monthly basis.                |
+| Protocol Revenue                 | Total fees generated from core activities, such as trading fees for a [DEX](/what-is-a-decentralized-exchange-dex). |
+| Governance Participation Rate    | Percentage of [token](/what-is-a-token) holders voting on governance proposals, indicating community engagement.    |
+| User Retention Cohorts          | Percentage of users active over time, tracked using on-chain data to measure long-term stickiness.                 |
+| Sybil Resistance                 | Analysis to filter out "sybil" activity, ensuring an accurate picture of the unique user base.                     |
 
-### Modern Web3 GTM Strategies and Tactics
+**[On-chain data analysts](/on-chain-analyst-job)** using tools like Dune Analytics are essential for tracking these metrics and providing insights that inform a successful GTM strategy.
 
-**1. The Airdrop: Decentralizing Ownership**
-The airdrop has become the dominant GTM strategy in Web3. It is a powerful tool for bootstrapping a community and decentralizing the network's ownership from day one.
--   **How it Works:** The project takes a "snapshot" of a specific [blockchain](/what-is-a-blockchain) at a past date and distributes its new governance token to the wallets that have performed certain actions (e.g., used a competing protocol, donated to public goods on Gitcoin, etc.).
--   **Practical Insight:** A well-designed airdrop is not just a marketing expense; it's a strategic distribution. The goal is to get the token into the hands of the users who are most likely to become active, long-term participants in your protocol's governance. This requires careful analysis to filter out short-term farmers.
+### Effective Web3 GTM Strategies and Tactics
 
-**2. Content and Thought Leadership as Marketing**
-In a complex and rapidly evolving space, education is marketing.
--   **Strategy:** Projects that do the best job of explaining complex topics to the market build immense trust and authority. High-quality content-deep-dive blog posts, data-driven research reports, and insightful Twitter threads-is one of the most effective ways to build a brand.
+**1. Airdrop Strategy: Decentralizing Ownership**
+The airdrop has emerged as a prominent GTM strategy in Web3. It effectively builds community and decentralizes ownership from the outset.
 
-**3. Building a Defensible Moat**
-In a world where code can be forked overnight, how do you build a lasting competitive advantage?
--   **Liquidity as a Moat:** For [DeFi](/what-is-defi) protocols, having the deepest liquidity is a powerful network effect.
--   **Community as a Moat:** A passionate, engaged, and culturally vibrant community is an intangible asset that cannot be copied.
--   **Integrations as a Moat:** The more other protocols build on top of your protocol, the higher the switching costs become.
+- **Implementation:** Projects take a "snapshot" of a specific [blockchain](/what-is-a-blockchain) at a past date and distribute governance tokens to wallets that have performed particular actions, such as using a competing protocol or supporting public goods on Gitcoin.
 
-### Conclusion
+- **Strategic Insight:** A well-executed airdrop is not merely a marketing tactic; it serves as a strategic distribution mechanism. The aim is to distribute tokens to those most likely to become active, long-term participants in governance. This requires careful analysis to filter out short-term opportunists.
 
-A successful Web3 go-to-market strategy is a departure from the growth-hacking tactics of Web2. It's a more organic, community-centric process that requires patience, authenticity, and a long-term vision. It's less about loud advertising and more about building a quiet, competent reputation. In Web3, you don't find your users; you build a community, and they find you. By focusing on creating real value, fostering a genuine sense of ownership, and empowering your community to become your growth engine, you can build a sustainable and defensible protocol in the new, decentralized economy.
+**2. Content and Thought Leadership as a Marketing Tool**
+In an intricate and evolving environment, education serves as a marketing strategy.
 
-## The Web3 Opportunity
+- **Approach:** Projects that effectively explain complex topics build trust and authority. High-quality content, including in-depth blog posts, data-driven research reports, and insightful Twitter threads, can significantly enhance brand perception.
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
+**3. Establishing a Competitive Moat**
+In an environment where code can be easily forked, creating a lasting competitive advantage is crucial.
 
-## Market Context
+- **Liquidity as a Moat:** For [DeFi](/what-is-defi) protocols, deep liquidity serves as a powerful network effect.
+  
+- **Community as a Moat:** A passionate and engaged community is an intangible asset that cannot be replicated.
 
-The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2, shaped by the decentralized nature of blockchain organizations and the global talent shortage that continues to define the industry.
+- **Integrations as a Moat:** The more protocols build upon your protocol, the higher the switching costs for users.
 
-**Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions. Senior Solidity engineers regularly command $200,000-$350,000 in total compensation, while product managers and business development leads earn $150,000-$250,000. Packages frequently include token allocations alongside traditional equity.
+### Crafting a Sustainable Web3 Project
 
-**Remote-First Culture:** Most Web3 organizations operate fully or primarily remote, with teams distributed across multiple time zones. This structure opens opportunities for talent in regions traditionally underserved by tech hiring, from Southeast Asia to Latin America and Africa.
+A successful Web3 GTM strategy departs from the aggressive growth tactics of Web2. It requires patience, authenticity, and a long-term vision. Focus on building a credible reputation rather than employing aggressive advertising. In Web3, community building is paramount; users will naturally gravitate towards you.
 
-**Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and persistent talent shortage. It is common for mid-level professionals to reach senior or lead positions within 18-24 months of entering the space.
+### The Web3 Opportunity
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential for early team members at successful protocols.
+The Web3 sector is experiencing rapid growth, with demand for qualified talent far exceeding supply. This environment offers unique advantages over traditional tech industries.
 
-## Step-by-Step Transition Strategy
+### Market Context
 
-### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
-- How blockchain technology works
-- Different blockchain architectures
-- Smart contracts and their use cases
+The dynamics of the [Web3 job](/web3-jobs-for-beginners) market significantly differ from Web2, shaped by the decentralized nature of blockchain organizations and a persistent talent shortage.
+
+**Compensation:** Web3 roles often pay 20-40% more than equivalent Web2 positions. For instance, senior Solidity engineers typically earn between $200,000 and $350,000 in total compensation, while product managers and business development leads can expect $150,000 to $250,000, often including token allocations alongside traditional equity.
+
+**Remote-First Culture:** Most Web3 organizations operate fully or primarily remote, with teams distributed across various time zones. This structure enhances opportunities for talent in regions historically underserved by tech hiring, including Southeast Asia, Latin America, and Africa.
+
+**Growth Trajectory:** Career progression in Web3 tends to be faster due to the rapid scaling of companies and an ongoing talent shortage. Mid-level professionals can often ascend to senior roles within 18-24 months.
+
+**Equity Upside:** Token and equity packages offer significant wealth-building potential for early team members in successful protocols.
+
+### Transitioning to Web3: A Step-by-Step Strategy
+
+**Step 1: Build a Foundation of Knowledge**
+Devote 4-8 weeks to learning blockchain fundamentals, including:
+
+- The mechanics of blockchain technology
+- Various blockchain architectures
+- Smart contracts and their applications
 - DeFi, NFTs, and DAOs
-- Current Web3 ecosystem and key players
+- The current Web3 ecosystem and its key players
 
-### Step 2: Learn Relevant Skills
-Depending on your target role:
-- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
-- **Product Managers:** Token economics, protocol governance, user growth in Web3
-- **Business Development:** Market analysis, partnership strategy, regulatory landscape
-- **Community/Operations:** Community building, Discord management, governance
+**Step 2: Acquire Relevant Skills**
+Depending on your target role, focus on the following:
 
-### Step 3: Build Your Portfolio
-Create tangible proof of your Web3 expertise:
-- Complete open-source contributions to Web3 projects
-- Build a small DApp or smart contract
-- Write about Web3 topics on Medium or Twitter
-- Contribute to DAOs or community projects
-- Participate in hackathons
+- **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
+- **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Community/Operations:** Focus on community building, Discord management, and governance processes.
 
-### Step 4: Network in Web3
-The Web3 community is incredibly accessible:
-- Join Discord communities of projects you're interested in
-- Attend Web3 conferences (Consensus, Devcon, ETHDenver)
-- Engage on Twitter/X with Web3 builders and thought leaders
-- Participate in governance forums
-- Join local Web3 meetups
+**Step 3: Build Your Portfolio**
+Create concrete proof of your Web3 expertise through:
 
-### Step 5: Apply Strategically
-Target roles that leverage your existing expertise plus new Web3 knowledge:
-- If you're a backend engineer, look for blockchain infrastructure roles
-- If you're a PM, look for protocol product roles
-- If you're in sales/business, look for Web3 business development
+- Contributions to open-source Web3 projects
+- Developing a small DApp or smart contract
+- Writing about Web3 topics on platforms like Medium or Twitter
+- Participating in DAOs or community projects
+- Engaging in hackathons
 
-## Real-World Success Stories
+**Step 4: Network Within the Web3 Community**
+The Web3 community is highly accessible:
 
-### Developer to Smart Contract Engineer
-Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Solidity while maintaining his day job. He contributed to an open-source protocol, caught the attention of a major DeFi project, and transitioned with a 50% salary increase and significant equity.
+- Join Discord communities related to projects of interest.
+- Attend Web3 conferences such as Consensus, Devcon, and ETHDenver.
+- Engage on Twitter/X with Web3 builders and thought leaders.
+- Participate in governance forums and local Web3 meetups.
 
-### Product Manager in Web3
-Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
+**Step 5: Apply for Roles Strategically**
+Target positions that leverage your existing expertise combined with new Web3 knowledge:
 
-### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+- Backend engineers should seek blockchain infrastructure roles.
+- Product managers should apply for protocol product positions.
+- Sales and business professionals should look for roles in Web3 business development.
 
-## Web3-Specific Challenges
+### Real-World Success Stories
 
-**Volatility Risk:** The crypto market's inherent volatility can impact job stability, especially at early-stage startups with limited runway. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve, negotiate base salaries in fiat currency rather than tokens, and ideally join projects with established revenue models or significant treasury backing.
+**From Developer to Smart Contract Engineer**
+Alex, a backend engineer with five years of experience at a major tech company, spent three months learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a leading DeFi project, resulting in a transition that included a 50% salary increase and substantial equity.
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is still evolving across major jurisdictions. Before joining a project, verify that the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
+**Product Manager Transition**
+Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products paired with Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol in just four weeks.
 
-**Due Diligence:** Not all Web3 projects are legitimate. Research the founding team's track record, check audit reports for smart contracts, verify treasury holdings on-chain, and speak with current or former team members before accepting an offer.
+**Career Change Success**
+Marcus left his corporate job to focus on Web3 for six months. Through dedicated learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous salary.
 
-**Learning Curve:** The technical learning curve can be steep, particularly for non-developers learning blockchain concepts for the first time. However, the Web3 community is remarkably open and supportive, with active Discord channels, free educational resources, and mentorship programs available across most major protocols.
+### Challenges in Web3
 
-## FAQ
+**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain 6-12 months of living expenses and negotiate base salaries in fiat currency rather than tokens, seeking projects with established revenue models or strong treasury backing.
+
+**Regulatory Uncertainty:** The regulatory environment for blockchain companies is continually evolving across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators rather than navigating grey areas.
+
+**Due Diligence:** Not every Web3 project is legitimate. Investigate the founding team's track record, review audit reports for smart contracts, verify on-chain treasury holdings, and consult with current or former team members before accepting an offer.
+
+**Learning Curve:** The technical learning curve can be steep, especially for non-developers. However, the Web3 community is notably open and supportive, offering active Discord channels, free educational resources, and mentorship programs across major protocols.
+
+### FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. The Web3 ecosystem needs far more than engineers. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in high demand. Your existing skills transfer directly — you simply need to layer on the Web3 context: how wallets work, what DAOs are, why decentralization matters. Most hiring managers value domain expertise combined with genuine curiosity about the space over pure blockchain knowledge.
+A: No. The Web3 ecosystem requires diverse roles beyond engineering, including marketing managers, community leads, product designers, legal counsel, and operations specialists. Your existing skills are transferrable; you just need to understand the Web3 context, such as how wallets function and the significance of DAOs.
 
 **Q: How much can I earn in Web3?**
-A: Web3 compensation consistently outpaces Web2 equivalents. Base salaries run 30–60% higher on average, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Beyond base pay, total packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols regularly earn $200,000–$350,000 in total compensation. Even non-technical roles see meaningful premiums compared to equivalent Web2 positions.
+A: Compensation in Web3 generally exceeds Web2 equivalents. Base salaries are typically 30-60% higher, with Solidity engineers and smart contract auditors earning the highest premiums. Total compensation packages often include signing bonuses, equity, and token allocations that can appreciate significantly.
 
-**Q: Is it risky to transition to Web3?**
-A: Every career transition carries risk, and Web3 is no exception given market volatility and project lifecycles. You can manage this risk systematically: target well-funded, established protocols with proven revenue rather than early-stage speculation; verify teams have track records; ensure your base salary is paid in fiat rather than entirely in tokens. Professionals who treat Web3 as a career move — not a get-rich-quick play — consistently build durable roles that survive market cycles.
+**Q: Is transitioning to Web3 risky?**
+A: Every career transition carries risks, and Web3 is no exception, especially given market volatility. To mitigate risk, target established protocols with proven revenue, ensure your base salary is in fiat, and verify the team's track record.
 
 **Q: How long does the transition take?**
-A: Most professionals complete a meaningful Web3 transition in 2–6 months of deliberate effort. Engineers and product managers often move fastest because their core skills transfer directly — the learning curve is mainly tooling and protocol-specific knowledge. Non-technical roles like marketing and community management can transition in as little as 4–8 weeks with focused self-study. The key variable is how actively you engage: building a portfolio project or contributing to an open-source protocol accelerates the process significantly.
+A: Most professionals achieve a meaningful transition to Web3 within 2-6 months of focused effort. Engineers and product managers often transition faster due to directly transferrable skills, while non-technical roles can transition in 4-8 weeks with dedicated self-study.
 
 **Q: What if the crypto market crashes?**
-A: Bear markets are historically the best time to enter Web3 professionally. When speculative hype recedes, teams refocus on building real products — meaning they prioritize talent over token price. Infrastructure companies, security firms, and developer tooling providers maintain steady hiring regardless of market conditions. The engineers who built during the 2018–2019 bear market are among the most sought-after professionals today. A market downturn reduces competition for roles and often produces better equity terms for new hires.
+A: Bear markets often present the best opportunities to enter Web3. As speculative hype wanes, companies refocus on building real products, prioritizing talent over token price. Professionals who built during previous downturns are now among the most sought-after in the industry.
 
-## Key Takeaways
+### Key Takeaways
 
-- Web3 offers significant compensation premiums (20-40% above Web2 equivalents), accelerated career growth trajectories, and the opportunity to contribute to technology that is reshaping finance, governance, and digital ownership across industries globally.
-- Most professionals complete a meaningful transition to Web3 within 2-6 months of focused effort, with engineers and product managers typically moving fastest because their core skills transfer directly.
-- Your existing domain expertise is highly valuable in Web3. Rather than starting from scratch, focus on layering blockchain-specific context (wallets, smart contracts, tokenomics, DAOs) onto the skills you already have.
-- Networking through Discord communities and Twitter engagement, combined with visible portfolio projects on GitHub, consistently outperforms formal certifications when it comes to landing Web3 roles.
-- Join well-funded, established protocols with proven revenue to mitigate the volatility risk inherent in the sector. Negotiate base salaries in fiat currency.
-- The Web3 community is remarkably open and supportive, with mentorship programs, free educational resources, and active developer communities across all major protocols.
+- Web3 offers significant compensation premiums, career growth opportunities, and a chance to contribute to transformative technology across various industries.
+- A meaningful transition to Web3 typically occurs within 2-6 months of focused effort, with engineering and product management roles transitioning most quickly.
+- Existing domain expertise remains valuable in Web3. Instead of starting from scratch, layer blockchain knowledge onto your current skills.
+- Networking through Discord and Twitter, along with visible portfolio projects, is often more effective than formal certifications for securing Web3 roles.
+- Prioritize joining well-funded protocols with proven revenue to mitigate the inherent volatility risks of the sector.
+- The Web3 community is open and supportive, with numerous resources for learning and mentorship available across major protocols.

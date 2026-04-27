@@ -7,158 +7,181 @@ category: "Career Guides"
 data-ai-hint: "person working on computer"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 ## Introduction: The Two Revolutions
 
-The 2020s are being defined by two parallel technological revolutions: the rise of generative Artificial Intelligence (AI) and the maturation of [Web3](/what-is-web3). On the surface, they may seem like separate domains. AI is about creating intelligent systems that can learn and reason, while Web3 is about building decentralized systems based on blockchains and user ownership. However, these two powerful forces are beginning to converge, creating a new and exciting frontier for technology, finance, and careers.
+The 2020s are marked by two significant technological advancements: the rise of generative Artificial Intelligence (AI) and the evolution of [Web3](/what-is-web3). While these domains may appear distinct—AI focuses on intelligent systems that can learn and reason, and Web3 emphasizes decentralized systems built on blockchain technology—the convergence of these two fields presents new opportunities for professionals across multiple sectors.
 
-This article explores the emerging career opportunities at the intersection of AI and Web3. This hybrid domain, often referred to as "Decentralized AI" or "Crypto-AI," is poised to become one of the most dynamic and impactful sectors in the tech industry. We will delve into the problems that Web3 can solve for AI, the problems that AI can solve for Web3, and the new roles that are being created at this fascinating intersection.
+This article examines career opportunities arising from the intersection of AI and Web3. This hybrid area, sometimes referred to as "Decentralized AI," is expected to become one of the most influential sectors in technology. We will analyze the specific challenges that Web3 can address for AI, how AI can benefit Web3, and the emerging roles created within this dynamic environment.
 
-For professionals in both the AI and Web3 fields, this convergence represents a massive opportunity. AI experts can find new ways to build more transparent and user-owned models, while Web3 experts can leverage AI to create more intelligent and user-friendly decentralized applications. Understanding the skills required to operate in this hybrid space is key to positioning yourself for a career at the advanced of technological innovation.
+For professionals in AI and Web3, this convergence represents a significant opportunity. AI specialists can develop more transparent and user-owned models, while Web3 experts can implement AI to enhance decentralized applications. Acquiring the necessary skills to thrive in this hybrid space will be essential for anyone aiming to advance in a rapidly changing technological landscape.
 
-## Web3's Solution for AI: Solving the Centralization Problem
+## Web3's Solution for AI: Addressing Centralization Challenges
 
-The current landscape of AI is dominated by a handful of large tech corporations. These companies control the massive datasets and computational resources required to train large language models (LLMs) and other advanced AI systems. This centralization creates several problems that Web3 is uniquely positioned to solve.
+The current AI ecosystem is predominantly controlled by a few major tech companies. These corporations manage the vast datasets and computational resources needed to train advanced AI systems, leading to several drawbacks that Web3 can uniquely address:
 
-1.  **Censorship and Bias:** Centralized AI models can be censored or can reflect the biases of the company that created them.
-2.  **Lack of Ownership:** Users who contribute the data that trains these models (i.e., all of us who use the internet) do not have any ownership or control over them.
-3.  **Data Privacy:** Users must entrust their data to centralized companies, with little transparency into how it is being used.
+1. **Censorship and Bias**: Centralized AI models are susceptible to censorship and may reflect the biases of their creators.
+2. **Lack of Ownership**: Users contributing data for training these models do not possess ownership or control over their contributions.
+3. **Data Privacy**: Users must trust centralized companies with their data, often lacking transparency regarding its usage.
 
-### New Career Roles:
-This has given rise to a new category of "Decentralized AI" projects and the roles needed to build them:
+### New Career Roles
 
--   **Protocol Engineer for Decentralized Compute:** These engineers work on building decentralized networks (often called DePIN, or Decentralized Physical Infrastructure Networks) that allow individuals to rent out their spare GPU capacity. This creates a more open and competitive market for the computational resources needed for AI training. **Skills:** Distributed systems, cryptography, experience with Go or Rust.
--   **Cryptoeconomic Designer for AI:** These professionals design the [token](/what-is-a-token) incentive systems that encourage people to contribute data and compute power to a decentralized AI network. They must answer questions like: How do you reward high-quality data contributions? How do you create a fair marketplace for computational resources? **Skills:** Game theory, economics, tokenomics design.
--   **[DAO](/what-is-a-dao) Manager for AI Models:** As AI models become owned and governed by DAOs, there will be a need for managers who can facilitate the governance process. This involves managing proposals to update the model, fine-tune its parameters, or decide how to distribute the revenue it generates. **Skills:** Community management, governance facilitation, basic understanding of AI concepts.
+This situation has led to the emergence of "Decentralized AI" projects, creating the following roles:
 
-## AI's Solution for Web3: Solving the User Experience Problem
+| Role                                             | Description                                                                                       | Key Skills                                    |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| **Protocol Engineer for Decentralized Compute**  | Engineers develop decentralized networks (DePIN) that allow users to rent out spare GPU capacity. | Distributed systems, cryptography, Go or Rust |
+| **Cryptoeconomic Designer for AI**               | Professionals design token incentive systems to encourage contributions to decentralized AI networks. | Game theory, economics, tokenomics design     |
+| **[DAO](/what-is-a-dao) Manager for AI Models** | Managers facilitate governance of AI models owned by DAOs, overseeing proposals and revenue distribution. | Community management, governance facilitation, basic AI knowledge |
 
-While Web3 can solve AI's centralization problem, AI can solve Web3's biggest problem: its notoriously poor user experience. Interacting with dApps, managing wallets, and understanding complex [DeFi](/what-is-defi) protocols is still far too difficult for the average user.
+## AI's Solution for Web3: Enhancing User Experience
 
-1.  **Complexity:** Interacting with [smart contracts](/what-are-smart-contracts) often requires understanding technical concepts and signing multiple, often unreadable, transactions.
-2.  **Onboarding Friction:** The need to acquire a native token to pay for gas fees before you can do anything is a massive hurdle for new users.
-3.  **Data Accessibility:** On-chain data is public, but it is not human-readable. It requires specialized tools and expertise to analyze and understand.
+While Web3 addresses AI's centralization issues, AI can significantly improve the user experience within Web3. Interacting with decentralized applications (dApps), managing wallets, and understanding complex [DeFi](/what-is-defi) protocols remain challenging for average users.
 
-### New Career Roles:
-AI is being integrated into Web3 products to solve these problems, creating a new set of hybrid roles:
+1. **Complexity**: Engaging with [smart contracts](/what-are-smart-contracts) often requires technical knowledge and entails signing multiple transactions.
+2. **Onboarding Friction**: Users must acquire native tokens to cover gas fees, creating a barrier to entry.
+3. **Data Accessibility**: Although on-chain data is public, it is often not user-friendly, requiring specialized tools for analysis.
 
--   **AI-focused dApp Developer:** These developers build dApps that use AI to create a more intuitive user experience. This could involve creating a natural language interface where a user can simply type what they want to do (e.g., "[stake](/how-to-become-a-web3-staking-specialist) my [ETH](/what-is-ethereum) with the validator that has the highest yield and the lowest commission") and an AI agent translates this into the necessary on-chain transactions. **Skills:** Frontend development (React), Web3 libraries (Ethers.js/Viem), experience with LLM APIs (OpenAI, Gemini).
--   **On-Chain Data Scientist (AI/ML):** This role goes beyond standard on-chain analysis. It involves using machine learning models to analyze on-chain data for more complex tasks, such as fraud detection, MEV (Maximal Extractable Value) pattern recognition, or predictive analytics for DeFi yields. **Skills:** SQL, Python, machine learning frameworks (TensorFlow/PyTorch), deep understanding of [blockchain](/what-is-a-blockchain) data structures.
--   **Smart Contract Auditor (AI-assisted):** AI is becoming a powerful tool for smart contract auditors. AI models can be trained to detect common vulnerability patterns in code, allowing human auditors to focus on more complex economic logic and design flaws. This creates a need for auditors who are skilled in using and fine-tuning these AI tools. **Skills:** Smart contract auditing, [Solidity](/best-programming-languages-for-blockchain-development), experience with AI-powered code analysis tools.
+### New Career Roles
 
-## The Hybrid Skill Set: What You Need to Learn
+AI integration into Web3 products results in the creation of several hybrid roles aimed at enhancing user experience:
 
-To succeed in a hybrid AI + [Web3 career](/web3-jobs-for-beginners), you cannot be a pure specialist in just one domain. You need to be a "T-shaped" individual with deep expertise in one area and a broad understanding of the other.
+| Role                                         | Description                                                                                         | Key Skills                                         |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| **AI-focused dApp Developer**                | Developers create dApps that utilize AI for intuitive user interfaces, such as natural language processing. | Frontend development (React), Web3 libraries (Ethers.js/Viem), LLM APIs (OpenAI, Gemini) |
+| **On-Chain Data Scientist (AI/ML)**         | This role involves applying machine learning models to analyze on-chain data for tasks like fraud detection. | SQL, Python, machine learning frameworks (TensorFlow/PyTorch), blockchain data structures |
+| **Smart Contract Auditor (AI-assisted)**     | Auditors use AI tools to detect vulnerabilities, allowing them to concentrate on complex economic logic. | Smart contract auditing, [Solidity](/best-programming-languages-for-blockchain-development), AI code analysis tools |
 
--   **If you are an AI professional:** Start by learning the fundamentals of Web3. Understand what a blockchain is, how smart contracts work, and the principles of tokenomics. The best way to learn is by doing: get a [wallet](/how-to-choose-a-crypto-wallet), use some dApps, and maybe even try building a simple smart contract.
--   **If you are a Web3 professional:** Start by learning the fundamentals of AI and machine learning. You don't need to be able to build a large language model from scratch, but you should understand the different types of models, their capabilities, and their limitations. Take an online course in machine learning and start experimenting with APIs from providers like OpenAI or Gemini.
+## The Hybrid Skill Set: Essential Learning Path
 
-## Conclusion: The Dawn of a New Era
+To thrive in a career that merges AI and [Web3 careers](/web3-jobs-for-beginners), professionals must develop a T-shaped skill set—deep expertise in one area combined with a broad understanding of the other.
 
-The convergence of AI and Web3 is not a distant future; it is happening now. The projects being built today are laying the groundwork for a new internet that is both intelligent and decentralized. This fusion is creating a new and exciting job market for professionals who are willing to step outside their comfort zones and master a hybrid skill set.
+- **For AI Professionals**: Acquire foundational knowledge of Web3. Understand blockchain mechanics, smart contracts, and tokenomics. Engage with practical applications by creating a [wallet](/how-to-choose-a-crypto-wallet), using various dApps, and experimenting with simple smart contracts.
+  
+- **For Web3 Professionals**: Learn the basics of AI and machine learning. While you do not need to create a large language model from scratch, understanding various models, their capabilities, and limitations is vital. Enroll in online courses for machine learning and experiment with APIs from providers like OpenAI or Gemini.
 
-The careers at the intersection of AI and Web3 will be some of the most challenging, creative, and financially rewarding of the next decade. They offer the opportunity to work on solving some of the most important problems in technology, from creating more transparent and democratic AI systems to making the decentralized web accessible to everyone. For those who are passionate about both of these a significant technologies, the future is incredibly bright. The time to start learning and building is now.
+## The Current Web3 Opportunity
 
-## The Web3 Opportunity
+The Web3 sector is experiencing remarkable growth, with demand for qualified talent significantly exceeding supply. Many unique advantages come with a career in Web3 compared to traditional tech roles:
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
+### Market Context
 
-## Market Context
+The dynamics of the Web3 job market differ considerably from Web2:
 
-The Web3 job market has fundamentally different dynamics than Web2:
-
-**Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
-
-**Remote-First Culture:** Most Web3 organizations operate fully or primarily remote, offering flexibility that's rare in traditional tech.
-
-**Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
-
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential.
+| Aspect                        | Web2 Roles                                          | Web3 Roles                                          |
+|-------------------------------|----------------------------------------------------|-----------------------------------------------------|
+| **Compensation**              | Standard salary ranges                             | 20-40% higher base salaries, with bonuses and equity |
+| **Work Environment**          | Office-centric or hybrid models                    | Predominantly remote, offering flexibility           |
+| **Career Advancement**        | Slower progression                                 | Rapid career growth due to scaling and talent shortages |
+| **Equity Potential**          | Limited or no equity opportunities                 | Standard token and equity packages available        |
 
 ## Step-by-Step Transition Strategy
 
-### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
+Transitioning into Web3 involves deliberate steps to build relevant knowledge and skills:
+
+### Step 1: Build Your Web3 Knowledge Foundation
+
+Dedicate 4-8 weeks to learning blockchain fundamentals, including:
+
 - How blockchain technology works
 - Different blockchain architectures
-- Smart contracts and their use cases
+- Smart contracts and their applications
 - DeFi, [NFTs](/what-are-nfts), and DAOs
-- Current Web3 ecosystem and key players
+- The current Web3 ecosystem and key players
 
 ### Step 2: Learn Relevant Skills
-Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
-- **Product Managers:** Token economics, protocol governance, user growth in Web3
-- **Business Development:** Market analysis, partnership strategy, regulatory landscape
-- **Community/Operations:** Community building, Discord management, governance
+
+Tailor your learning to your desired role:
+
+- **Engineers**: Focus on Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
+- **Product Managers**: Study token economics, protocol governance, and user growth strategies in Web3.
+- **Business Development**: Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Community/Operations**: Learn community-building techniques, Discord management, and governance practices.
 
 ### Step 3: Build Your Portfolio
-Create tangible proof of your Web3 expertise:
-- Complete open-source contributions to Web3 projects
-- Build a small DApp or smart contract
-- Write about Web3 topics on Medium or Twitter
-- Contribute to DAOs or community projects
-- Participate in hackathons
 
-### Step 4: Network in Web3
-The Web3 community is incredibly accessible:
-- Join Discord communities of projects you're interested in
-- Attend Web3 conferences (Consensus, Devcon, ETHDenver)
-- Engage on Twitter/X with Web3 builders and thought leaders
-- Participate in governance forums
-- Join local Web3 meetups
+Demonstrate your Web3 expertise by creating tangible projects:
+
+- Contribute to open-source Web3 projects
+- Develop a small dApp or smart contract
+- Write articles on Web3 topics on platforms like Medium or Twitter
+- Participate in DAOs or community initiatives
+- Engage in hackathons to showcase technical skills
+
+### Step 4: Network in the Web3 Community
+
+The Web3 community is highly accessible. To establish connections:
+
+- Join Discord communities related to your interests
+- Attend Web3 conferences such as Consensus, Devcon, or ETHDenver
+- Engage with Web3 builders and thought leaders on Twitter/X
+- Participate actively in governance forums
+- Attend local Web3 meetups for networking opportunities
 
 ### Step 5: Apply Strategically
-Target roles that leverage your existing expertise plus new Web3 knowledge:
-- If you're a backend engineer, look for blockchain infrastructure roles
-- If you're a PM, look for protocol product roles
-- If you're in sales/business, look for Web3 business development
+
+Target roles that utilize your existing expertise combined with your new Web3 knowledge:
+
+- Backend engineers should seek blockchain infrastructure positions
+- Product managers can find protocol product roles
+- Sales or business professionals should explore opportunities in Web3 business development
 
 ## Real-World Success Stories
 
 ### Developer to Smart Contract Engineer
-Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Solidity while maintaining his day job. He contributed to an open-source protocol, caught the attention of a major DeFi project, and transitioned with a 50% salary increase and significant equity.
+
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol, attracting the attention of a significant DeFi project. He transitioned into the role with a 50% salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
+
+Jessica, a product manager from traditional finance, capitalized on her domain knowledge in DeFi. Her familiarity with financial products, coupled with Web3 technology, made her a sought-after candidate. She secured a position at a leading DeFi protocol in just four weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and portfolio building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+
+Marcus shifted from a corporate role to focus exclusively on Web3 for six months. Through consistent learning, networking, and portfolio development, he secured a position in Developer Relations at a major blockchain platform with compensation exceeding his prior salary.
 
 ## Web3-Specific Challenges
 
-**Volatility Risk:** The crypto market's inherent volatility can impact job stability, especially at early-stage startups with limited runway. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve, negotiate base salaries in fiat currency rather than tokens, and ideally join projects with established revenue models or significant treasury backing.
+### Volatility Risk
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is still evolving across major jurisdictions. Before joining a project, verify that the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
+The inherent volatility of the crypto market can affect job stability, particularly in early-stage startups. Professionals entering Web3 should maintain a reserve of 6-12 months of living expenses, negotiate base salaries in fiat currency, and select projects with established revenue models or strong treasury backing.
 
-**Due Diligence:** Not all Web3 projects are legitimate. Research the founding team's track record, check audit reports for smart contracts, verify treasury holdings on-chain, and speak with current or former team members before accepting an offer.
+### Regulatory Uncertainty
 
-**Learning Curve:** The technical learning curve can be steep, particularly for non-developers learning blockchain concepts for the first time. However, the Web3 community is remarkably open and supportive, with active Discord channels, free educational resources, and mentorship programs available across most major protocols.
+The regulatory environment for blockchain companies continues to evolve across various jurisdictions. Before joining any project, confirm that the team has competent legal counsel and engages proactively with regulators.
+
+### Due Diligence
+
+Not all Web3 projects are legitimate. Conduct thorough research on the founding team’s background, audit reports for smart contracts, on-chain treasury holdings, and gather insights from current or former team members before accepting an offer.
+
+### Learning Curve
+
+For non-developers, the technical learning curve can be steep. However, the Web3 community offers ample support through active Discord channels, free educational resources, and mentorship programs across major protocols.
 
 ## FAQ
 
-**Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. The Web3 ecosystem needs far more than engineers. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in high demand. Your existing skills transfer directly — you simply need to layer on the Web3 context: how wallets work, what DAOs are, why decentralization matters. Most hiring managers value domain expertise combined with genuine curiosity about the space over pure blockchain knowledge.
+**Q: Do I need to be a blockchain expert to work in Web3?**  
+A: No. The Web3 ecosystem requires diverse roles, including marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals. Your existing skills can transfer directly; you simply need to adapt them to the Web3 context.
 
-**Q: How much can I earn in Web3?**
-A: Web3 compensation consistently outpaces Web2 equivalents. Base salaries run 30–60% higher on average, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Beyond base pay, total packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols regularly earn $200,000–$350,000 in total compensation. Even non-technical roles see meaningful premiums compared to equivalent Web2 positions.
+**Q: How much can I earn in Web3?**  
+A: Compensation in Web3 often surpasses that of Web2 roles. Base salaries typically range 30-60% higher on average, especially for Solidity engineers and smart contract auditors. Total compensation can include signing bonuses, equity in early-stage protocols, and significant token allocations that may appreciate over time.
 
-**Q: Is it risky to transition to Web3?**
-A: Every career transition carries risk, and Web3 is no exception given market volatility and project lifecycles. You can manage this risk systematically: target well-funded, established protocols with proven revenue rather than early-stage speculation; verify teams have track records; ensure your base salary is paid in fiat rather than entirely in tokens. Professionals who treat Web3 as a career move — not a get-rich-quick play — consistently build durable roles that survive market cycles.
+**Q: Is transitioning to Web3 risky?**  
+A: As with any career transition, risks exist, particularly due to market volatility. However, you can mitigate risks by targeting well-funded projects with proven revenue, ensuring your base salary is in fiat currency, and focusing on established protocols.
 
-**Q: How long does the transition take?**
-A: Most professionals complete a meaningful Web3 transition in 2–6 months of deliberate effort. Engineers and product managers often move fastest because their core skills transfer directly — the learning curve is mainly tooling and protocol-specific knowledge. Non-technical roles like marketing and community management can transition in as little as 4–8 weeks with focused self-study. The key variable is how actively you engage: building a portfolio project or contributing to an open-source protocol accelerates the process significantly.
+**Q: How long does the transition take?**  
+A: Most professionals can transition into Web3 within 2-6 months of dedicated effort. Engineers and product managers often adapt quickly due to the direct transferability of their skills, while non-technical roles may take as little as 4-8 weeks with focused self-study.
 
-**Q: What if the crypto market crashes?**
-A: Bear markets are historically the best time to enter Web3 professionally. When speculative hype recedes, teams refocus on building real products — meaning they prioritize talent over token price. Infrastructure companies, security firms, and developer tooling providers maintain steady hiring regardless of market conditions. The engineers who built during the 2018–2019 bear market are among the most sought-after professionals today. A market downturn reduces competition for roles and often produces better equity terms for new hires.
+**Q: What if the crypto market crashes?**  
+A: Historically, bear markets present excellent opportunities to enter Web3. As speculative hype diminishes, teams often prioritize building real products, leading to a focus on hiring talent rather than maintaining token prices. Professionals who build during downturns frequently become the most sought-after candidates in the recovery phase.
 
 ## Key Takeaways
 
-- Web3 offers significant compensation premiums (20-40% above Web2 equivalents), accelerated career growth trajectories, and the opportunity to contribute to technology that is reshaping finance, governance, and digital ownership across industries globally.
-- Most professionals complete a meaningful transition to Web3 within 2-6 months of focused effort, with engineers and product managers typically moving fastest because their core skills transfer directly.
-- Your existing domain expertise is highly valuable in Web3. Rather than starting from scratch, focus on layering blockchain-specific context (wallets, smart contracts, tokenomics, DAOs) onto the skills you already have.
-- Networking through Discord communities and Twitter engagement, combined with visible portfolio projects on GitHub, consistently outperforms formal certifications when it comes to landing Web3 roles.
-- Join well-funded, established protocols with proven revenue to mitigate the volatility risk inherent in the sector. Negotiate base salaries in fiat currency.
-- The Web3 community is remarkably open and supportive, with mentorship programs, free educational resources, and active developer communities across all major protocols.
+- Web3 offers compelling compensation premiums (20-40% above Web2 equivalents), accelerated career growth, and the chance to contribute to transformative technology affecting finance, governance, and digital ownership.
+- Transitioning to Web3 typically requires 2-6 months of focused effort, with engineers and product managers often moving the fastest due to the direct applicability of their skills.
+- Existing domain expertise holds significant value in Web3. Rather than starting anew, focus on integrating blockchain-specific knowledge into your skill set.
+- Networking through community channels and visible portfolio projects consistently yields better employment outcomes than formal certifications.
+- Seek established protocols with proven revenue for stability in a volatile sector and negotiate salaries in fiat currency.
+- The Web3 community is open and supportive, offering mentorship, educational resources, and collaborative initiatives across major protocols.

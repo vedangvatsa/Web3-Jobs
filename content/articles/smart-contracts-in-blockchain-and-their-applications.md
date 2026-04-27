@@ -7,145 +7,187 @@ description: "Discover how smart contracts work, why they are the essential buil
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
-If the **[blockchain](/what-is-a-blockchain)** is the foundation of [Web3](/what-is-web3), then smart contracts are the engines that power it. They are arguably one of the most improving how concepts to emerge from the crypto space, enabling the creation of everything from Decentralized Finance ([DeFi](/what-is-defi)) protocols to complex governance systems. A [smart contract](/what-are-smart-contracts) is not a legal document in the traditional sense; it’s a computer program stored on a blockchain that automatically executes when predetermined conditions are met. Think of it as a digital vending machine: you insert money (input), and the machine automatically dispenses your chosen snack (output). There are no intermediaries, no paperwork, and no need to trust the machine’s owner-the rules are coded into the machine itself. This guide delves into the mechanics of smart contracts, their a significant properties, and their potential to automate and redefine industries.
+Smart contracts serve as the engines driving the [Web3](/what-is-web3) ecosystem, enabling a wide range of applications from Decentralized Finance ([DeFi](/what-is-defi)) protocols to intricate governance systems. Unlike traditional legal documents, a [smart contract](/what-are-smart-contracts) is a self-executing program stored on a blockchain. This program automatically executes actions when specific conditions are met. Imagine a digital vending machine: you insert money (input), and the machine dispenses your selected snack (output). No intermediaries, no paperwork, and trust in the code itself replace reliance on a third party. This discussion explores how smart contracts work, their essential characteristics, and their transformative potential across various industries.
 
-## How Smart Contracts Work
+## How Smart Contracts Operate
 
-The concept of smart contracts was first described by computer scientist and cryptographer Nick Szabo in the 1990s, long before [Bitcoin](/what-is-bitcoin) was created. However, they only became practical with the advent of [blockchain](/what-is-a-blockchain) technology, which provided the ideal environment for them to operate. Here’s how they function:
+Nick Szabo, a computer scientist and cryptographer, first introduced the concept of smart contracts in the 1990s, long before the launch of [Bitcoin](/what-is-bitcoin). However, smart contracts became feasible only with the emergence of [blockchain](/what-is-a-blockchain) technology, which provided a secure environment for their operation. Here’s a breakdown of their functionality:
 
-- **Coded Logic:** Developers write the logic of the contract in a programming language like **[Solidity](/solidity-for-beginners)** (for [Ethereum](/what-is-ethereum)). This code defines the rules, conditions, and outcomes of an agreement. For example, a contract could be coded with the logic: "IF Party A pays 1 Ether to the contract, THEN release the digital art file to Party A."
-- **Blockchain Deployment:** Once written, the contract is deployed to a blockchain. This means it is uploaded and stored at a unique address on the distributed ledger. From this moment on, the code is immutable-it cannot be changed or deleted, not even by its original creator.
-- **Automatic Execution:** The smart contract lies dormant on the blockchain until it is called upon. When a user sends a transaction to the contract’s address that meets the specified conditions, the contract’s code is executed by every computer (node) in the network. If the nodes agree on the outcome, the blockchain’s state is updated, and the transaction is finalized.
+- **Coded Logic:** Developers use programming languages like **[Solidity](/solidity-for-beginners)** (for [Ethereum](/what-is-ethereum)) to write the logic of the contract. This code outlines the rules, conditions, and outcomes of the agreement. For instance, a contract might encode the logic: "IF Party A pays 1 Ether, THEN release the digital art file to Party A."
+  
+- **Blockchain Deployment:** After coding, the contract is deployed to a blockchain, meaning it is uploaded and stored at a unique address on the distributed ledger. Once deployed, the smart contract is immutable; it cannot be altered or deleted, not even by its creator.
 
-## The Defining Properties of Smart Contracts
+- **Automatic Execution:** The smart contract remains idle on the blockchain until activated. When a user sends a transaction to the contract’s address that meets the defined conditions, the network of computers (nodes) executes the contract’s code. If the nodes agree on the outcome, the blockchain’s state updates, finalizing the transaction.
 
-The power of smart contracts comes from the properties they inherit from the underlying blockchain:
+## Key Characteristics of Smart Contracts
 
-- **Deterministic:** They produce the same result every time they are executed with the same input. Their behavior is predictable and reliable, free from ambiguity.
-- **Transparent:** The code of a smart contract is typically open-source and visible to anyone on the blockchain. This allows users to audit the logic and verify the rules of the agreement before they interact with it.
-- **Immutable:** Once deployed, the code cannot be altered. This prevents malicious changes and ensures that the terms of the agreement will be honored exactly as written.
-- **Autonomous & Self-Executing:** They operate without the need for any human or third-party intervention. This removes the risk of censorship or manipulation by a central administrator and dramatically reduces operational costs.
+The strength of smart contracts derives from their intrinsic properties, which come from the underlying blockchain:
 
-> Smart contracts replace trust in institutions with trust in code. The agreement is enforced by the mathematical certainty of the network, not the discretion of a middleman.
+- **Deterministic:** Smart contracts yield the same result every time they run with identical inputs. Their predictable behavior eliminates ambiguity.
 
-## Real-World Applications & Career Paths
+- **Transparent:** Smart contract code is typically open-source and accessible to anyone on the blockchain. This transparency enables users to audit the logic and validate the rules of the agreement before interaction.
 
-Smart contracts are the core component of almost all decentralized applications (dApps). Their ability to automate complex processes opens up a vast landscape of career opportunities for those with the right skills.
+- **Immutable:** Once deployed, the code cannot be modified. This feature prevents malicious alterations and guarantees the agreement's terms will be honored precisely as written.
 
-- **Decentralized Finance (DeFi):** The entire DeFi ecosystem is built on smart contracts. They power decentralized exchanges, lending protocols, and stablecoins. This requires skilled **[Solidity developers](/smart-contract-jobs)**, security auditors, and financial engineers.
-- **Supply Chain Management:** Smart contracts can automatically track goods as they move through a supply chain. For example, a contract could automatically release payment to a farmer once a shipment of goods is verified by GPS and sensor data at a port. This creates jobs for logisticians and IoT specialists.
-- **Insurance:** Parametric insurance products can be built with smart contracts. A flight insurance contract could automatically pay out a claim if a public data source reports that a flight was delayed by more than three hours, eliminating the need for a lengthy claims process. This needs insurance analysts and data scientists.
-- **Governance (DAOs):** **[DAOs](/what-is-a-dao)** use smart contracts to manage voting, treasury funds, and membership. This field requires community managers, governance experts, and DAO tooling developers.
+- **Autonomous & Self-Executing:** Smart contracts function without requiring human or third-party intervention, reducing the risk of censorship or manipulation and significantly lowering operational costs.
+
+> Smart contracts shift trust from institutions to code. The network’s mathematical certainty enforces the agreement, eliminating reliance on a middleman.
+
+## Real-World Applications and Career Paths
+
+Smart contracts underpin almost all decentralized applications (dApps). Their capacity to automate complex processes creates numerous career opportunities for skilled professionals.
+
+| Industry                     | Application Example                                            | Required Roles                               |
+|------------------------------|--------------------------------------------------------------|---------------------------------------------|
+| Decentralized Finance (DeFi) | Supports decentralized exchanges, lending protocols, stablecoins. | Solidity developers, security auditors, financial engineers. |
+| Supply Chain Management       | Tracks goods in transit; automates payments upon verification. | Logisticians, IoT specialists.              |
+| Insurance                     | Parametric insurance products that automate claims based on data. | Insurance analysts, data scientists.        |
+| Governance (DAOs)            | Manages voting and treasury funds for decentralized organizations. | Community managers, governance experts, DAO tooling developers. |
+
+### Decentralized Finance (DeFi)
+
+The entire DeFi ecosystem relies on smart contracts. They enable decentralized exchanges, lending protocols, and stablecoins. This sector demands skilled **[Solidity developers](/smart-contract-jobs)**, security auditors, and financial engineers.
+
+### Supply Chain Management
+
+Smart contracts automate the tracking of goods within supply chains. For example, a contract could release payment to a farmer once a shipment is verified through GPS and sensor data at a port. This innovation opens up roles for logisticians and IoT specialists.
+
+### Insurance
+
+Smart contracts facilitate parametric insurance products. A flight insurance contract might automatically pay a claim if a public data source indicates a flight was delayed by over three hours. This automation simplifies claims processes and requires insurance analysts and data scientists.
+
+### Governance (DAOs)
+
+**[DAOs](/what-is-a-dao)** utilize smart contracts to manage voting, treasury funds, and membership. Jobs in this area include community managers, governance experts, and DAO tooling developers.
 
 ## Limitations and Risks
 
-Despite their potential, smart contracts are not a panacea. Their greatest strength-immutability-is also their greatest weakness. A bug or security vulnerability coded into a smart contract is permanent and can be exploited by hackers, often leading to a catastrophic and irreversible loss of funds. The infamous [DAO](/what-is-a-dao) hack of 2016 is a stark reminder of this risk. Consequently, the role of the **[smart contract security auditor](/smart-contract-auditor-career)**, who meticulously reviews code for potential flaws, has become one of the most critical and in-demand jobs in the Web3 space. Furthermore, connecting smart contracts to real-world data (e.g., weather, price feeds) requires trusted **[oracles](/what-are-oracles)**, which can introduce a point of centralization and a potential vector for attack.
+Despite their advantages, smart contracts pose significant challenges. Their greatest asset—immutability—can also be a liability. A bug or vulnerability in the code is permanent and can be exploited by hackers, leading to catastrophic and irreversible financial losses. The infamous [DAO](/what-is-a-dao) hack of 2016 exemplifies this risk. Consequently, the role of the **[smart contract security auditor](/smart-contract-auditor-career)** has emerged as one of the most critical and sought-after positions in the Web3 sector. Additionally, integrating smart contracts with real-world data (e.g., weather conditions, price feeds) requires trusted **[oracles](/what-are-oracles)**, introducing potential centralization risks and attack vectors.
 
-## The Future is Programmatic
+## The Future of Smart Contracts
 
-Smart contracts represent a fundamental shift in how we create and enforce agreements. They enable the creation of systems that are more transparent, efficient, and equitable. While the technology is still maturing and the risks are significant, the ability to automate complex multi-party workflows without relying on a trusted intermediary is a profound innovation. As development tools improve and security best practices become more standardized, smart contracts will become the invisible, programmatic glue that holds together the next generation of the internet, creating a new digital economy and a wealth of opportunities for those who can build and secure it.
+Smart contracts signify a significant evolution in creating and enforcing agreements. They facilitate systems that are more transparent, efficient, and equitable. While the technology is still developing and associated risks are considerable, the ability to automate complex multi-party workflows without relying on a trusted intermediary represents a substantial advancement. As development tools improve and security practices become more standardized, smart contracts will become the programmatic backbone of the next generation of the internet, fostering a new digital economy and generating opportunities for skilled professionals.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
+The Web3 sector is witnessing explosive growth, with demand for qualified talent significantly outpacing supply. Unique advantages of Web3 roles include:
 
-## Market Context
+### Compensation
 
-The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2:
+Web3 positions typically offer salaries 20-40% higher than comparable Web2 roles, with substantial bonus and equity packages.
 
-**Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions, with significant bonus and equity components.
+### Remote-First Culture
 
-**Remote-First Culture:** Most Web3 organizations operate fully or primarily remote, offering flexibility that's rare in traditional tech.
+Most Web3 companies operate remotely or in hybrid models, providing flexibility often absent in traditional tech jobs.
 
-**Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and talent shortage.
+### Growth Trajectory
 
-**Equity Upside:** [Token](/what-is-a-token) and equity packages are standard, offering significant wealth-building potential.
+Career advancement occurs more rapidly in Web3 due to the fast-paced scaling of companies and a shortage of talent.
 
-## Step-by-Step Transition Strategy
+### Equity Upside
 
-### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
-- How blockchain technology works
-- Different blockchain architectures
-- Smart contracts and their use cases
-- DeFi, [NFTs](/what-are-nfts), and DAOs
-- Current Web3 ecosystem and key players
+Compensation packages often include [tokens](/what-is-a-token) and equity, offering significant wealth-building potential.
 
-### Step 2: Learn Relevant Skills
-Depending on your target role:
-- **Engineers:** Solidity, JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
-- **Product Managers:** Token economics, protocol governance, user growth in Web3
-- **Business Development:** Market analysis, partnership strategy, regulatory landscape
-- **Community/Operations:** Community building, Discord management, governance
+## Transitioning to a Web3 Career
 
-### Step 3: Build Your Portfolio
-Create tangible proof of your Web3 expertise:
-- Complete open-source contributions to Web3 projects
-- Build a small DApp or smart contract
-- Write about Web3 topics on Medium or Twitter
-- Contribute to DAOs or community projects
-- Participate in hackathons
+### Step 1: Build a Knowledge Foundation
 
-### Step 4: Network in Web3
-The Web3 community is incredibly accessible:
-- Join Discord communities of projects you're interested in
-- Attend Web3 conferences (Consensus, Devcon, ETHDenver)
-- Engage on Twitter/X with Web3 builders and thought leaders
-- Participate in governance forums
-- Join local Web3 meetups
+Invest 4-8 weeks in learning blockchain fundamentals. Key areas include:
+
+- Understanding blockchain technology and architectures.
+- Familiarizing yourself with smart contracts and their applications.
+- Learning about DeFi, [NFTs](/what-are-nfts), and DAOs.
+- Exploring the current Web3 ecosystem and key players.
+
+### Step 2: Acquire Relevant Skills
+
+Depending on your targeted role:
+
+- **Engineers:** Learn Solidity, JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
+- **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
+- **Business Development:** Gain insights into market analysis, partnership strategies, and the regulatory landscape.
+- **Community/Operations:** Focus on community building, Discord management, and governance processes.
+
+### Step 3: Develop Your Portfolio
+
+Create tangible evidence of your Web3 expertise:
+
+- Contribute to open-source Web3 projects.
+- Develop a small DApp or smart contract.
+- Write articles on Web3 topics on Medium or Twitter.
+- Participate in DAOs or community initiatives.
+- Engage in hackathons.
+
+### Step 4: Network in the Web3 Space
+
+The Web3 community is highly accessible:
+
+- Join Discord groups related to your interests.
+- Attend Web3 conferences such as Consensus, Devcon, and ETHDenver.
+- Engage on Twitter/X with influential Web3 figures.
+- Participate in governance forums.
+- Attend local Web3 meetups.
 
 ### Step 5: Apply Strategically
-Target roles that leverage your existing expertise plus new Web3 knowledge:
-- If you're a backend engineer, look for blockchain infrastructure roles
-- If you're a PM, look for protocol product roles
-- If you're in sales/business, look for Web3 business development
 
-## Real-World Success Stories
+Target roles that capitalize on your existing expertise while incorporating new Web3 knowledge:
+
+- Backend engineers should seek blockchain infrastructure roles.
+- Project managers should consider protocol product roles.
+- Sales and business professionals should explore Web3 business development positions.
+
+## Success Stories in Web3
 
 ### Developer to Smart Contract Engineer
-Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Solidity while maintaining his day job. He contributed to an open-source protocol, caught the attention of a major DeFi project, and transitioned with a 50% salary increase and significant equity.
+
+Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while balancing his job. His contributions to an open-source protocol attracted attention from a major DeFi project, leading to a transition with a 50% salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
+
+Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. She secured a role at a leading DeFi protocol within four weeks.
 
 ### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+
+Marcus left his corporate position to immerse himself in Web3 for six months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) development, he secured a role leading Developer Relations at a prominent blockchain platform, achieving compensation significantly above his previous salary.
 
 ## Web3-Specific Challenges
 
-**Volatility Risk:** The crypto market's inherent volatility can impact job stability, especially at early-stage startups with limited runway. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve, negotiate base salaries in fiat currency rather than tokens, and ideally join projects with established revenue models or significant treasury backing.
+### Volatility Risk
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is still evolving across major jurisdictions. Before joining a project, verify that the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
+The inherent volatility of the crypto market can affect job stability, especially at early-stage startups. Professionals entering Web3 should maintain 6-12 months of living expenses as a buffer, negotiate base salaries in fiat currency, and consider joining projects with established revenue models or significant treasury backing.
 
-**Due Diligence:** Not all Web3 projects are legitimate. Research the founding team's track record, check audit reports for smart contracts, verify treasury holdings on-chain, and speak with current or former team members before accepting an offer.
+### Regulatory Uncertainty
 
-**Learning Curve:** The technical learning curve can be steep, particularly for non-developers learning blockchain concepts for the first time. However, the Web3 community is remarkably open and supportive, with active Discord channels, free educational resources, and mentorship programs available across most major protocols.
+The regulatory environment for blockchain companies is still evolving across major jurisdictions. Before joining a project, ensure the team has competent legal counsel and actively engages with regulators.
+
+### Due Diligence
+
+Not all Web3 projects are legitimate. Research the founding team's background, review smart contract audit reports, confirm treasury holdings on-chain, and speak with current or former team members before accepting an offer.
+
+### Learning Curve
+
+For non-developers, grasping blockchain concepts can be challenging. However, the Web3 community is welcoming and supportive, with active Discord channels, free educational resources, and mentorship programs available across major protocols.
 
 ## FAQ
 
-**Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. The Web3 ecosystem needs far more than engineers. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in high demand. Your existing skills transfer directly — you simply need to layer on the Web3 context: how wallets work, what DAOs are, why decentralization matters. Most hiring managers value domain expertise combined with genuine curiosity about the space over pure blockchain knowledge.
+**Q: Do I need to be a blockchain expert to work in Web3?**  
+A: No. The Web3 ecosystem requires more than just engineers. Roles like marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are in high demand. Your existing skills transfer directly; you simply need to incorporate Web3 context, such as understanding wallets, DAOs, and the importance of decentralization. Most hiring managers prioritize domain expertise combined with genuine curiosity about the space.
 
-**Q: How much can I earn in Web3?**
-A: Web3 compensation consistently outpaces Web2 equivalents. Base salaries run 30–60% higher on average, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Beyond base pay, total packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols regularly earn $200,000–$350,000 in total compensation. Even non-technical roles see meaningful premiums compared to equivalent Web2 positions.
+**Q: How much can I earn in Web3?**  
+A: Web3 compensation consistently exceeds Web2 equivalents. Base salaries are typically 30-60% higher on average, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols regularly earn between $200,000 and $350,000 in total compensation. Even non-technical roles see meaningful premiums compared to equivalent Web2 positions.
 
-**Q: Is it risky to transition to Web3?**
-A: Every career transition carries risk, and Web3 is no exception given market volatility and project lifecycles. You can manage this risk systematically: target well-funded, established protocols with proven revenue rather than early-stage speculation; verify teams have track records; ensure your base salary is paid in fiat rather than entirely in tokens. Professionals who treat Web3 as a career move — not a get-rich-quick play — consistently build durable roles that survive market cycles.
+**Q: Is it risky to transition to Web3?**  
+A: Every career transition carries some risk, and Web3 is no exception given market volatility. You can manage this risk systematically by targeting well-funded, established protocols with proven revenue, verifying team track records, and securing base salaries in fiat currency. Professionals who view Web3 as a career move rather than a speculative opportunity consistently establish durable roles that withstand market fluctuations.
 
-**Q: How long does the transition take?**
-A: Most professionals complete a meaningful Web3 transition in 2–6 months of deliberate effort. Engineers and product managers often move fastest because their core skills transfer directly — the learning curve is mainly tooling and protocol-specific knowledge. Non-technical roles like marketing and community management can transition in as little as 4–8 weeks with focused self-study. The key variable is how actively you engage: building a portfolio project or contributing to an open-source protocol accelerates the process significantly.
+**Q: How long does the transition take?**  
+A: Most professionals complete a substantial Web3 transition within 2-6 months of focused effort. Engineers and product managers often transition quickly due to the direct transferability of their skills, while non-technical roles like marketing and community management can transition in as little as 4-8 weeks with dedicated self-study. Actively engaging in building a portfolio project or contributing to an open-source protocol can significantly accelerate the process.
 
-**Q: What if the crypto market crashes?**
-A: Bear markets are historically the best time to enter Web3 professionally. When speculative hype recedes, teams refocus on building real products — meaning they prioritize talent over token price. Infrastructure companies, security firms, and developer tooling providers maintain steady hiring regardless of market conditions. The engineers who built during the 2018–2019 bear market are among the most sought-after professionals today. A market downturn reduces competition for roles and often produces better equity terms for new hires.
+**Q: What if the crypto market crashes?**  
+A: Historically, bear markets present the best opportunities to enter Web3. As speculative hype diminishes, teams prioritize building substantive products, focusing on talent rather than token prices. Companies in infrastructure, security, and developer tooling maintain stable hiring regardless of market conditions. Engineers who built during the 2018-2019 bear market are among the most sought-after professionals today. A downturn can decrease competition for roles and often results in better equity terms for new hires.
 
-## Key Takeaways
+## Conclusion
 
-- Web3 offers significant compensation premiums (20-40% above Web2 equivalents), accelerated career growth trajectories, and the opportunity to contribute to technology that is reshaping finance, governance, and digital ownership across industries globally.
-- Most professionals complete a meaningful transition to Web3 within 2-6 months of focused effort, with engineers and product managers typically moving fastest because their core skills transfer directly.
-- Your existing domain expertise is highly valuable in Web3. Rather than starting from scratch, focus on layering blockchain-specific context (wallets, smart contracts, tokenomics, DAOs) onto the skills you already have.
-- Networking through Discord communities and Twitter engagement, combined with visible portfolio projects on GitHub, consistently outperforms formal certifications when it comes to landing Web3 roles.
-- Join well-funded, established protocols with proven revenue to mitigate the volatility risk inherent in the sector. Negotiate base salaries in fiat currency.
-- The Web3 community is remarkably open and supportive, with mentorship programs, free educational resources, and active developer communities across all major protocols.
+Smart contracts represent a significant advancement in how agreements are formed and executed. They streamline processes across various industries, from finance to supply chain management. As the Web3 sector continues to grow, professionals equipped with the right skills and knowledge will find ample opportunities to engage in this transformative landscape. The effective integration of smart contracts into various systems promises to redefine traditional business practices, paving the way for a more automated, transparent, and equitable digital economy. Embrace this opportunity, build your expertise, and position yourself for success in the evolving world of Web3.

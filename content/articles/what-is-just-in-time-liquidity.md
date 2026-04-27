@@ -7,7 +7,7 @@ image: "https://picsum.photos/seed/jit/1200/630"
 data-ai-hint: "just in time"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 ## What is Just-In-Time (JIT) Liquidity? A Complete Guide

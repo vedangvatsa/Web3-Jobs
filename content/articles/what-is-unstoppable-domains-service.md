@@ -7,7 +7,7 @@ description: "Unstoppable Domains is a service that provides NFT-based domain na
 category: "Educational"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 **Unstoppable Domains** is a popular service that provides human-readable, [blockchain](/what-is-a-blockchain)-based domain names for the decentralized web. Similar to the **[[Ethereum](/what-is-ethereum) Name Service (ENS)](/understanding-ens-domains-in-ethereum)**, its goal is to replace long, complex cryptocurrency [wallet](/how-to-choose-a-crypto-wallet) addresses with simple, memorable names.
