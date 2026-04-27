@@ -8,7 +8,7 @@ const siteUrl = 'https://hashtagweb3.com';
 
 // Stable fallback date used when content files carry no explicit date field.
 // Update this when a significant batch of content is published or revised.
-const CONTENT_FALLBACK_DATE = new Date('2025-01-15');
+const CONTENT_FALLBACK_DATE = new Date('2026-04-27');
 
 // Static routes that change on a known schedule. lastModified reflects the
 // last time the page layout or copy was meaningfully updated.
