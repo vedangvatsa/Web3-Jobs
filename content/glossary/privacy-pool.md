@@ -9,7 +9,7 @@ relatedTerms: ["zk", "zero-knowledge-proof", "privacy", "mixer"]
 synonyms: ["mixer", "anonymity pool", "privacy mixer"]
 ---
 
-Privacy Pool refers to a cryptographic system that allows users to deposit funds into a shared pool and later withdraw them to a different address without creating a traceable on-chain link between sender and receiver. These systems use zero-knowledge proofs to verify that a withdrawal is legitimate without revealing which specific deposit it corresponds to, effectively breaking the transaction graph that blockchain explorers typically use to trace fund flows. Tornado Cash, before its 2022 sanctions, processed over $7 billion in deposits according to Chainalysis, demonstrating both the demand for financial privacy and the regulatory challenges these tools face. Privacy pools typically require fixed deposit amounts, such as 0.1 or 1 ETH, to create uniformity that prevents amount-based tracking. While legitimate uses include salary privacy and protecting business transactions from competitors, the potential for misuse has prompted significant regulatory attention and the development of compliant alternatives. Professionals who understand privacy-preserving technologies are increasingly sought after by compliance teams, protocol developers, and blockchain analytics firms navigating this complex landscape.
+Privacy Pool refers to a cryptographic system that allows users to deposit funds into a shared pool and later withdraw them to a different address without creating a traceable on-chain link between sender and receiver. These systems use zero-knowledge proofs to verify that a withdrawal is legitimate without revealing which specific deposit it corresponds to, effectively breaking the transaction graph that blockchain explorers typically use to trace fund flows. Privacy pools typically require fixed deposit amounts, such as 0.1 or 1 ETH, to create uniformity that prevents amount-based tracking. While legitimate uses include salary privacy and protecting business transactions from competitors, the potential for misuse has prompted significant regulatory attention and the development of compliant alternatives. Professionals who understand privacy-preserving technologies are increasingly sought after by compliance teams, protocol developers, and blockchain analytics firms.
 
 ## How Privacy Pools Work
 
@@ -23,7 +23,7 @@ Mechanics:
 
 **Relayer**: Optional relayer submits withdrawal to avoid linking IP.
 
-**Anonymity Set**: Larger pool = stronger anonymity.
+**Anonymity Set**: Larger pool equals stronger anonymity.
 
 Privacy pools rely on ZK proofs and anonymity sets.
 
@@ -33,7 +33,7 @@ Key concept:
 
 **Size**: Number of deposits in pool.
 
-**Strength**: Larger anonymity set = stronger privacy.
+**Strength**: Larger anonymity set equals stronger privacy.
 
 **Timing Correlation**: Withdrawal timing can reduce anonymity.
 
@@ -51,7 +51,7 @@ Deployments:
 
 **Aztec**: Privacy-focused rollup with private transactions.
 
-Privacy pools used for privacy in DeFi.
+Privacy pools are used for privacy in DeFi.
 
 ## Risks and Regulation
 
@@ -85,13 +85,13 @@ Design choices affect privacy and compliance.
 
 Privacy roles:
 
-**Cryptography Engineers** earn $150,000-$380,000+.
+**Cryptography Engineers**.
 
-**Protocol Developers** earn $130,000-$320,000+.
+**Protocol Developers**.
 
-**Privacy Researchers** earn $140,000-$340,000+.
+**Privacy Researchers**.
 
-**Compliance Experts** earn $120,000-$300,000+.
+**Compliance Experts**.
 
 ## Best Practices
 

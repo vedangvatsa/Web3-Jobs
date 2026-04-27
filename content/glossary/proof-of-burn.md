@@ -9,7 +9,7 @@ relatedTerms: ["consensus", "proof-of-work", "proof-of-stake", "blockchain"]
 synonyms: ["PoB", "burn mechanism", "token burning"]
 ---
 
-Proof of Burn is a consensus mechanism where participants permanently destroy cryptocurrency tokens to demonstrate commitment and earn the right to validate transactions or mine new blocks. Unlike Proof of Work, which requires expensive hardware and electricity, Proof of Burn converts economic sacrifice into mining power by sending coins to an unspendable address from which they can never be recovered. Slimcoin, launched in 2014, pioneered this approach by allowing users to burn coins in exchange for long-term mining privileges that decay over time. While innovative, Proof of Burn remains niche, with fewer than 10 active blockchain projects using it as their primary consensus mechanism (according to CoinGecko, as of 2024), as most networks have favored Proof of Stake for its capital efficiency. Professionals who understand alternative consensus mechanisms like Proof of Burn demonstrate valuable expertise in blockchain architecture, making them attractive candidates for protocol development and research roles at emerging Layer 1 projects.
+Proof of Burn is a consensus mechanism where participants permanently destroy cryptocurrency tokens to demonstrate commitment and earn the right to validate transactions or mine new blocks. Unlike Proof of Work, which requires expensive hardware and electricity, Proof of Burn converts economic sacrifice into mining power by sending coins to an unspendable address from which they can never be recovered. Slimcoin, launched in 2014, pioneered this approach by allowing users to burn coins in exchange for long-term mining privileges that decay over time. Proof of Burn remains niche, with few active blockchain projects using it as their primary consensus mechanism, as most networks have favored Proof of Stake for its capital efficiency. Professionals who understand alternative consensus mechanisms like Proof of Burn demonstrate valuable expertise in blockchain architecture, making them attractive candidates for protocol development and research roles at emerging Layer 1 projects.
 
 ## Proof of Burn Mechanics
 
@@ -19,7 +19,7 @@ How it works:
 
 **Proof**: Burning is cryptographic proof of commitment. Cost is real destruction.
 
-**Weight**: Participants with more burned coins get more influence/rewards.
+**Weight**: Participants with more burned coins get more influence and rewards.
 
 **Voting**: Can use burn weight for voting on protocol changes.
 
@@ -39,7 +39,7 @@ Comparing mechanisms:
 | **Irreversibility** | Yes | Yes | Slashing risk |
 | **Finality** | Yes | Probabilistic | Absolute |
 
-PoB balanced between security and cost.
+PoB balances security and cost.
 
 ## Slimcoin Implementation
 
@@ -49,7 +49,7 @@ Historical example:
 
 **Blocks**: Validators burn coins to earn block rewards.
 
-**Weight**: More burned = higher chance of block.
+**Weight**: More burned equals higher chance of block.
 
 **Sustainability**: Reduced coin supply through burning.
 
@@ -93,19 +93,19 @@ Proof of Burn finds niche applications.
 
 Proof of Burn creates roles:
 
-**Consensus Researchers** studying PoB earn $140,000-$340,000+.
+**Consensus Researchers** studying PoB.
 
-**Protocol Designers** designing PoB mechanisms earn $130,000-$320,000+.
+**Protocol Designers** designing PoB mechanisms.
 
-**Economists** analyzing burn incentives earn $120,000-$300,000+.
+**Economists** analyzing burn incentives.
 
-**Smart Contract Engineers** implementing burn earn $120,000-$300,000+.
+**Smart Contract Engineers** implementing burn.
 
 ## Best Practices
 
 Using Proof of Burn:
 
-**Incentives**: Ensure burn incentives properly aligned.
+**Incentives**: Ensure burn incentives are properly aligned.
 
 **Economics**: Analyze long-term economic implications of burning.
 
@@ -127,4 +127,4 @@ Evolution:
 
 ## Prove Commitment Through Destruction
 
-Proof of Burn enables consensus through economic commitment. Alternative to PoW and PoS. Limited adoption but interesting mechanism. If you're interested in consensus mechanisms, explore [consensus careers](/) at protocol research. These roles focus on designing novel consensus systems.
+Proof of Burn enables consensus through economic commitment. It is an alternative to PoW and PoS. Limited adoption but an interesting mechanism. If you're interested in consensus mechanisms, explore [consensus careers](/) at protocol research. These roles focus on designing novel consensus systems.

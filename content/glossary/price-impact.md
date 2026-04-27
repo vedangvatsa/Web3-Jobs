@@ -9,17 +9,17 @@ relatedTerms: ["slippage", "dex", "liquidity", "amm"]
 synonyms: ["price slippage", "market impact", "execution cost"]
 ---
 
-Price impact refers to the percentage change in an asset's price that occurs as a direct result of executing a trade, where larger transactions move prices more significantly than smaller ones due to the finite liquidity available in any given market. This phenomenon is particularly visible on decentralized exchanges like Uniswap, where automated market makers use mathematical formulas to determine prices based on the ratio of assets in liquidity pools. For example, swapping a small amount of tokens might result in less than 0.1% price impact, while a large institutional trade could move prices by several percentage points. According to Chainalysis, price impact costs traders billions of dollars annually across decentralized finance protocols, making it one of the most significant hidden costs in crypto trading. Professionals who understand price impact mechanics and can develop strategies to minimize these costs are highly sought after by trading firms, market makers, and DeFi protocols building next-generation liquidity solutions.
+Price impact refers to the percentage change in an asset's price that occurs as a direct result of executing a trade. Larger transactions move prices more significantly than smaller ones due to the finite liquidity available in any given market. This phenomenon is particularly visible on decentralized exchanges like Uniswap, where automated market makers use mathematical formulas to determine prices based on the ratio of assets in liquidity pools. For example, swapping a small amount of tokens might result in less than 0.1% price impact, while a large institutional trade could move prices by several percentage points. Professionals who understand price impact mechanics and can develop strategies to minimize these costs are highly sought after by trading firms, market makers, and DeFi protocols building liquidity solutions.
 
 ## How Price Impact Works
 
 Mechanics:
 
-**Liquidity Depth**: Pool size determines impact. 1,000 ETH pool has greater impact than 100,000 ETH pool.
+**Liquidity Depth**: Pool size determines impact. A 1,000 ETH pool has greater impact than a 100,000 ETH pool.
 
-**Trade Size**: Larger trades have larger impact. Trading 1 ETH vs 100 ETH in same pool has vastly different impact.
+**Trade Size**: Larger trades have larger impact. Trading 1 ETH vs 100 ETH in the same pool has vastly different impact.
 
-**Constant Product Formula**: AMMs use formula x*y=k. Trades adjust x and y values, moving price.
+**Constant Product Formula**: AMMs use the formula x*y=k. Trades adjust x and y values, moving price.
 
 Example: ETH/USDC pool with 100 ETH and 200,000 USDC.
 - Price: 200,000/100 = $2,000/ETH
@@ -36,31 +36,29 @@ Related but distinct:
 
 **Price Impact**: Change in asset price due to your trade. Market-level metric.
 
-**Slippage**: Difference between expected price when submitting order and actual execution price. User-level metric.
+**Slippage**: Difference between expected price when submitting an order and actual execution price. User-level metric.
 
-Example: You submit 10 ETH buy order expecting $2,000/ETH execution.
+Example: You submit a 10 ETH buy order expecting $2,000/ETH execution.
 - Expected cost: 10 × $2,000 = $20,000
 - Actual execution: 10 ETH at $2,222/ETH = $22,220
-- Price impact: 11% (caused by your trade moving market)
+- Price impact: 11% (caused by your trade moving the market)
 - Slippage: 11% (difference you experienced)
 
-In this case, price impact and slippage are same. But slippage includes fees and other costs.
+In this case, price impact and slippage are the same. But slippage includes fees and other costs.
 
 ## Minimizing Price Impact
 
 Strategies:
 
-**Split Orders**: Instead of 100 ETH trade, split into 10 separate 10 ETH trades over time.
-- Reduces immediate impact
-- But spreads out timing risk (price might move against you)
+**Split Orders**: Instead of a 100 ETH trade, split into 10 separate 10 ETH trades over time. This reduces immediate impact but spreads out timing risk.
 
-**Liquidation Protocol Trading**: Order book protocols enable matching against existing orders without price impact (if liquidity exists at your price).
+**Liquidation Protocol Trading**: Order book protocols enable matching against existing orders without price impact if liquidity exists at your price.
 
 **Time Averaging**: Trading over time rather than immediately reduces impact.
 
-**Better Liquidity**: Deeper pools have lower impact. Use most liquid trading pairs.
+**Better Liquidity**: Deeper pools have lower impact. Use the most liquid trading pairs.
 
-**Limit Orders**: On order book exchanges, limit orders avoid impact (market orders have impact).
+**Limit Orders**: On order book exchanges, limit orders avoid impact while market orders have impact.
 
 Different strategies balance impact reduction with other risks.
 
@@ -68,15 +66,15 @@ Different strategies balance impact reduction with other risks.
 
 Comparing impact:
 
-**Uniswap V2**: Impact based on pool size. 1,000 ETH pool has ~2x impact of 2,000 ETH pool.
+**Uniswap V2**: Impact based on pool size. A 1,000 ETH pool has approximately double the impact of a 2,000 ETH pool.
 
 **Uniswap V3**: Concentrated liquidity enables different impact profiles. Tight ranges have high impact but allow capital efficiency.
 
-**Curve**: Stablecoin pools designed for low impact. Different curve formula reduces impact compared to constant product.
+**Curve**: Stablecoin pools are designed for low impact. Different curve formulas reduce impact compared to constant product.
 
 **Balancer**: Larger pools with multiple tokens reduce impact.
 
-**DEX Aggregators**: Route across multiple DEXs finding lowest impact path.
+**DEX Aggregators**: Route across multiple DEXs to find the lowest impact path.
 
 Protocol design significantly impacts price impact.
 
@@ -84,29 +82,29 @@ Protocol design significantly impacts price impact.
 
 Financial implications:
 
-**For Traders**: Price impact reduces returns on trades. 1% impact on $100 trade = $1 cost.
+**For Traders**: Price impact reduces returns on trades.
 
-**For Arbitrageurs**: Price impact limits arbitrage. If impact > arbitrage spread, not profitable.
+**For Arbitrageurs**: Price impact limits arbitrage. If impact exceeds arbitrage spread, it is not profitable.
 
-**For Liquidators**: Price impact on liquidations can make position unprofitable.
+**For Liquidators**: Price impact on liquidations can make a position unprofitable.
 
 **For LPs**: Price impact creates revenue. MEV searchers pay for good execution.
 
-Price impact is major component of trading economics.
+Price impact is a major component of trading economics.
 
 ## Career Opportunities
 
 Price impact creates roles:
 
-**Quantitative Traders** analyzing impact earn $130,000-$300,000+.
+**Quantitative Traders** analyzing impact earn competitive salaries.
 
-**Protocol Designers** optimizing price impact earn $120,000-$300,000+.
+**Protocol Designers** optimizing price impact earn competitive salaries.
 
-**DEX Builders** creating more capital-efficient protocols earn $110,000-$280,000+.
+**DEX Builders** creating more capital-efficient protocols earn competitive salaries.
 
-**Algorithmic Traders** exploiting impact inefficiencies earn $140,000-$350,000+.
+**Algorithmic Traders** exploiting impact inefficiencies earn competitive salaries.
 
-**Market Microstructure Researchers** studying impact mechanics earn $120,000-$280,000+.
+**Market Microstructure Researchers** studying impact mechanics earn competitive salaries.
 
 ## Best Practices
 
@@ -116,26 +114,26 @@ For traders:
 
 **Small Trades**: If possible, split large trades to reduce impact.
 
-**Time Awareness**: Trade during high liquidity periods (major pairs, active hours).
+**Time Awareness**: Trade during high liquidity periods.
 
 **Limit Orders**: Use limit orders when possible to avoid slippage.
 
-**Liquidity Research**: Find deepest pools for your trading pair.
+**Liquidity Research**: Find the deepest pools for your trading pair.
 
 ## The Future of Price Impact
 
 Impact reduction:
 
-**Better Liquidity Infrastructure**: More sophisticated AMM designs reducing impact.
+**Better Liquidity Infrastructure**: More sophisticated AMM designs reduce impact.
 
-**Cross-Protocol Liquidity**: Protocols sharing liquidity reducing impact system-wide.
+**Cross-Protocol Liquidity**: Protocols sharing liquidity reduce impact system-wide.
 
-**Intent-Based Architectures**: Solvers competing to provide best execution reducing impact.
+**Intent-Based Architectures**: Solvers compete to provide the best execution, reducing impact.
 
-**On-Chain Order Books**: Layer 2 order books enabling impact-free matching.
+**On-Chain Order Books**: Layer 2 order books enable impact-free matching.
 
-**Private Mempools**: Encrypted execution preventing frontrunning and sandwich attacks (which increase impact).
+**Private Mempools**: Encrypted execution prevents frontrunning and sandwich attacks.
 
 ## Understand Your Costs
 
-Price impact is unavoidable cost of trading in liquidity-constrained markets. Understanding impact helps traders minimize costs and make better trading decisions. If you're interested in trading, market microstructure, or protocol design, explore [DeFi trading careers](/) at DEXs, trading firms, and protocol teams. These roles focus on building better execution infrastructure.
+Price impact is an unavoidable cost of trading in liquidity-constrained markets. Understanding impact helps traders minimize costs and make better trading decisions. If you're interested in trading, market microstructure, or protocol design, explore [DeFi trading careers](/) at DEXs, trading firms, and protocol teams. These roles focus on building better execution infrastructure.

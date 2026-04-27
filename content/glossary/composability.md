@@ -9,21 +9,21 @@ relatedTerms: ["defi", "smart-contract", "protocol", "lego"]
 synonyms: ["smart contract composability", "DeFi composability", "protocol layering"]
 ---
 
-Composability refers to the ability of smart contracts and DeFi protocols to interact and combine seamlessly, enabling developers to build complex financial applications from modular, interoperable pieces. Often described as "money legos," composability allows the output of one protocol to serve as the input for another without requiring custom integration work. For example, a user can swap tokens on Uniswap, deposit the output into Aave as collateral, borrow stablecoins, and deploy those into a yield farming strategy—all in a single transaction. This interconnectedness has driven significant growth, with composable DeFi protocols collectively managing over $80 billion in total value locked across major networks (according to DeFiLlama, as of early 2025). However, composability also introduces systemic risk, as vulnerabilities in one protocol can cascade through dependent applications. Professionals who understand composable architecture are highly sought after for roles in protocol development, smart contract auditing, and DeFi product management.
+Composability refers to the ability of smart contracts and DeFi protocols to interact and combine seamlessly, enabling developers to build complex financial applications from modular, interoperable pieces. Often described as "money legos," composability allows the output of one protocol to serve as the input for another without requiring custom integration work. For example, a user can swap tokens on Uniswap, deposit the output into Aave as collateral, borrow stablecoins, and deploy those into a yield farming strategy, all in a single transaction. However, composability also introduces systemic risk, as vulnerabilities in one protocol can cascade through dependent applications. Professionals who understand composable architecture are highly sought after for roles in protocol development, smart contract auditing, and DeFi product management.
 
 ## Composability Examples
 
 Real combinations:
 
-**Yield Farming**: Combine staking + AMM farming + lending. Earn fees + yields + incentives.
+**Yield Farming**: Combine staking, AMM farming, and lending. Earn fees, yields, and incentives.
 
-**Flash Loans**: Borrow, use in multiple protocols, repay. All in one transaction. Enables arbitrage and attacks.
+**Flash Loans**: Borrow, use in multiple protocols, repay, all in one transaction. Enables arbitrage and attacks.
 
-**Liquidity Aggregation**: Route trades through multiple DEXes to find best price.
+**Liquidity Aggregation**: Route trades through multiple DEXes to find the best price.
 
-**Leveraged Trading**: Borrow, buy, deposit as collateral, repeat. Amplify returns (and losses).
+**Leveraged Trading**: Borrow, buy, deposit as collateral, repeat. Amplify returns and losses.
 
-**Cross-Protocol Positions**: Use position in one protocol as collateral in another.
+**Cross-Protocol Positions**: Use a position in one protocol as collateral in another.
 
 Composability enables complex strategies.
 
@@ -31,15 +31,15 @@ Composability enables complex strategies.
 
 Special case:
 
-**Atomic Execution**: Borrow, use, repay in single transaction.
+**Atomic Execution**: Borrow, use, repay in a single transaction.
 
-**No Collateral**: No collateral needed for flash loan.
+**No Collateral**: No collateral needed for flash loans.
 
-**Complex Strategies**: Use loan in multiple protocols, repay atomically.
+**Complex Strategies**: Use loans in multiple protocols, repay atomically.
 
-**Arbitrage**: Massive arbitrage opportunities without capital.
+**Arbitrage**: Opportunities without capital.
 
-**Attacks**: Flash loans enabling attacks (bZx $350k, Pancakebunny $45M).
+**Attacks**: Flash loans can enable attacks.
 
 Flash loans exemplify composability power and danger.
 
@@ -47,15 +47,15 @@ Flash loans exemplify composability power and danger.
 
 Downsides:
 
-**Cascade Failures**: One protocol failure cascades to dependent protocols.
+**Cascade Failures**: One protocol failure can affect dependent protocols.
 
 **Flash Loan Attacks**: Using composed protocols for attacks.
 
 **Complex Risk**: Hard to understand all dependencies and risks.
 
-**Smart Contract Risk**: Bug in one protocol affects all dependents.
+**Smart Contract Risk**: A bug in one protocol can affect all dependents.
 
-**Contagion**: Crisis in one protocol spreads systemically.
+**Contagion**: A crisis in one protocol can spread systemically.
 
 Composability amplifies risks.
 
@@ -65,15 +65,15 @@ Reducing risks:
 
 **Risk Monitoring**: Monitor dependencies and risks.
 
-**Price Oracles**: Better oracles preventing flash loan attacks.
+**Price Oracles**: Better oracles can help prevent flash loan attacks.
 
-**Circuit Breakers**: Pause when abnormal activity.
+**Circuit Breakers**: Pause operations during abnormal activity.
 
-**Insurance**: Insurance against cascade failures.
+**Insurance**: Insurance can protect against cascade failures.
 
-**Isolation**: Some protocols in isolated markets preventing contagion.
+**Isolation**: Some protocols can operate in isolated markets to prevent contagion.
 
-**Audits**: Comprehensive audits understanding all interactions.
+**Audits**: Comprehensive audits help understand all interactions.
 
 Risk management is critical with composability.
 
@@ -83,11 +83,11 @@ Enabling composability:
 
 **Standards**: ERC-20 for tokens, ERC-4626 for vaults. Standards enable composition.
 
-**Open Interfaces**: Public, well-documented interfaces enabling integration.
+**Open Interfaces**: Public, well-documented interfaces enable integration.
 
 **Interoperability**: Protocols designed for combination.
 
-**Shared Assumptions**: Compatible assumptions (price oracles, safety levels).
+**Shared Assumptions**: Compatible assumptions, such as price oracles and safety levels.
 
 Good design enables composability.
 
@@ -95,15 +95,15 @@ Good design enables composability.
 
 Composability creates roles:
 
-**Protocol Designers** designing composable protocols earn $130,000-$320,000+.
+**Protocol Designers** design composable protocols.
 
-**Integration Engineers** integrating protocols earn $110,000-$260,000+.
+**Integration Engineers** integrate protocols.
 
-**Risk Analysts** analyzing composition risks earn $100,000-$260,000+.
+**Risk Analysts** analyze composition risks.
 
-**Smart Contract Engineers** enabling composition earn $120,000-$300,000+.
+**Smart Contract Engineers** enable composition.
 
-**Researchers** studying composability earn $120,000-$300,000+.
+**Researchers** study composability.
 
 ## Best Practices
 
@@ -113,11 +113,11 @@ Using composability:
 
 **Risk Limits**: Don't over-compose. Maintain risk limits.
 
-**Audits**: Ensure all composed protocols audited.
+**Audits**: Ensure all composed protocols are audited.
 
 **Monitoring**: Monitor all dependent protocols.
 
-**Diversification**: Don't put all capital in single composition.
+**Diversification**: Don't put all capital in a single composition.
 
 ## The Future of Composability
 
@@ -129,8 +129,8 @@ Evolution:
 
 **Intent-Based Composition**: Protocols compose automatically for users.
 
-**Insurance**: Insurance covering composition risks.
+**Insurance**: Insurance can cover composition risks.
 
 ## Build Complex From Simple Pieces
 
-Composability enables building complex DeFi from simple building blocks. Powerful but risky. Understanding and managing composability risk is critical. If you're interested in DeFi architecture, explore [DeFi careers](/) at protocol teams. These roles focus on building safe, composable DeFi.
+Composability enables building complex DeFi from simple building blocks. Understanding and managing composability risk is critical. If you're interested in DeFi architecture, explore [DeFi careers](/) at protocol teams. These roles focus on building safe, composable DeFi.

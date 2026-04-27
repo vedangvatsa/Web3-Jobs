@@ -9,7 +9,7 @@ relatedTerms: ["staking", "validator", "restaking", "liquid-staking"]
 synonyms: ["LST", "staked token", "liquid staking asset"]
 ---
 
-Liquid Staking Token refers to a derivative token that represents staked cryptocurrency assets, allowing holders to maintain liquidity and participate in DeFi activities while their underlying tokens continue earning staking rewards. When users deposit assets into liquid staking protocols like Lido Finance, they receive corresponding tokens such as stETH that can be freely traded, used as collateral for borrowing, or deployed in yield farming strategies across multiple protocols. This innovation solves the fundamental trade-off between earning staking rewards and maintaining capital efficiency. Liquid staking has grown to become one of the largest DeFi categories, with over $35 billion in total value locked across protocols (according to DeFiLlama, as of early 2025). The mechanism enables users to compound returns by simultaneously earning base staking yields and additional DeFi rewards. As liquid staking protocols continue expanding across blockchain ecosystems, professionals with expertise in LST mechanics, smart contract integration, and risk assessment are increasingly sought after by DeFi protocols, institutional asset managers, and Web3 investment firms.
+Liquid Staking Token refers to a derivative token that represents staked cryptocurrency assets, allowing holders to maintain liquidity and participate in DeFi activities while their underlying tokens continue earning staking rewards. When users deposit assets into liquid staking protocols like Lido Finance, they receive corresponding tokens such as stETH that can be freely traded, used as collateral for borrowing, or deployed in yield farming strategies across multiple protocols. This innovation solves the fundamental trade-off between earning staking rewards and maintaining capital efficiency. Liquid staking has become a significant category in DeFi. The mechanism enables users to compound returns by simultaneously earning base staking yields and additional DeFi rewards. As liquid staking protocols continue expanding across blockchain ecosystems, professionals with expertise in LST mechanics, smart contract integration, and risk assessment are increasingly sought after by DeFi protocols, institutional asset managers, and Web3 investment firms.
 
 ## How LSTs Work
 
@@ -79,8 +79,6 @@ Real LSTs:
 
 **frxETH (Frax)**: Hybrid LST model.
 
-LST market is large and growing.
-
 ## LST vs Native Staking
 
 Tradeoffs:
@@ -89,7 +87,7 @@ Tradeoffs:
 
 **Security**: LSTs add smart contract risk.
 
-**Rewards**: LSTs may charge fees (lower rewards).
+**Rewards**: LSTs may charge fees, affecting rewards.
 
 **Composability**: LSTs are composable in DeFi.
 
@@ -99,13 +97,13 @@ LSTs trade simplicity for flexibility.
 
 LST ecosystem roles:
 
-**Protocol Engineers** earn $130,000-$320,000+.
+**Protocol Engineers**.
 
-**Staking Infrastructure** roles earn $120,000-$300,000+.
+**Staking Infrastructure** roles.
 
-**Risk Analysts** earn $110,000-$260,000+.
+**Risk Analysts**.
 
-**DeFi Strategists** earn $120,000-$300,000+.
+**DeFi Strategists**.
 
 ## Best Practices
 

@@ -9,7 +9,7 @@ relatedTerms: ["smart-contract", "security", "exploit", "vulnerability"]
 synonyms: ["recursive call attack", "function reentrancy", "state attack"]
 ---
 
-Reentrancy is a smart contract vulnerability that occurs when a function can be called repeatedly before its internal state updates are complete, enabling attackers to drain funds through recursive calls. The most infamous example is the 2016 DAO hack on Ethereum, where an attacker exploited a reentrancy flaw in the withdraw function to siphon approximately 3.6 million ETH, worth $50 million at the time and triggering a contentious hard fork that created Ethereum Classic. Reentrancy attacks have accounted for over $100 million in losses across DeFi protocols since 2020 (according to Immunefi). The attack works by having a malicious contract's receive function repeatedly call back into the vulnerable withdraw function before the victim contract can update the sender's balance to zero. Modern developers prevent reentrancy using the checks-effects-interactions pattern or reentrancy guard modifiers that block recursive calls. Security auditors and smart contract developers who understand reentrancy vulnerabilities remain highly sought after as protocols prioritize protecting user funds.
+Reentrancy is a smart contract vulnerability that occurs when a function can be called repeatedly before its internal state updates are complete, enabling attackers to drain funds through recursive calls. The most infamous example is the 2016 DAO hack on Ethereum, where an attacker exploited a reentrancy flaw in the withdraw function to siphon 3.6 million ETH, triggering a contentious hard fork that created Ethereum Classic. The attack works by having a malicious contract's receive function repeatedly call back into the vulnerable withdraw function before the victim contract can update the sender's balance to zero. Modern developers prevent reentrancy using the checks-effects-interactions pattern or reentrancy guard modifiers that block recursive calls. Security auditors and smart contract developers who understand reentrancy vulnerabilities remain highly sought after as protocols prioritize protecting user funds.
 
 ## Reentrancy Mechanics
 
@@ -33,17 +33,17 @@ Recursive calls exploit delayed state updates.
 
 Historical example:
 
-**Setup**: DAO held $50M in ETH. Users could withdraw funds by calling withdraw() function.
+**Setup**: DAO held ETH. Users could withdraw funds by calling withdraw() function.
 
-**Vulnerability**: Withdraw function sent funds BEFORE updating balance ledger.
+**Vulnerability**: Withdraw function sent funds before updating balance ledger.
 
-**Attack**: Attacker called withdraw(). Contract sent 1 ETH. Attacker's fallback function called withdraw() again. Got sent 1 ETH again. Repeated ~36 times.
+**Attack**: Attacker called withdraw(). Contract sent 1 ETH. Attacker's fallback function called withdraw() again. Got sent 1 ETH again. Repeated multiple times.
 
-**Result**: Attacker drained 3.6M ETH ($50M) exploiting reentrancy.
+**Result**: Attacker drained 3.6M ETH exploiting reentrancy.
 
 **Impact**: Hard fork required to recover funds. Spawned Ethereum Classic.
 
-The DAO hack was watershed moment for smart contract security.
+The DAO hack was a significant moment for smart contract security.
 
 ## Reentrancy Prevention
 
@@ -69,7 +69,7 @@ function withdraw() {
 }
 ```
 
-State should update BEFORE sending funds.
+State should update before sending funds.
 
 ## Reentrancy Guards
 
@@ -112,27 +112,27 @@ Modern guard patterns protect against most variants.
 
 Modern examples:
 
-**Pancakebunny** (May 2021): Reentrancy across multiple pools drained $45M.
+**Pancakebunny**: Reentrancy across multiple pools drained funds.
 
-**Cream Finance** (August 2021): Cross-contract reentrancy via flash loans drained $29M.
+**Cream Finance**: Cross-contract reentrancy via flash loans drained funds.
 
-**bZx** (2020): Multiple reentrancy vulnerabilities in DeFi protocols.
+**bZx**: Multiple reentrancy vulnerabilities in DeFi protocols.
 
-Even modern protocols vulnerable if not careful.
+Even modern protocols are vulnerable if not careful.
 
 ## Career Opportunities
 
 Security creates roles:
 
-**Smart Contract Auditors** finding reentrancy vulnerabilities earn $120,000-$280,000+.
+**Smart Contract Auditors** finding reentrancy vulnerabilities earn competitive salaries.
 
-**Security Researchers** studying exploit patterns earn $130,000-$320,000+.
+**Security Researchers** studying exploit patterns earn competitive salaries.
 
-**Protocol Security Engineers** preventing exploits earn $120,000-$300,000+.
+**Protocol Security Engineers** preventing exploits earn competitive salaries.
 
-**Formal Verification Engineers** proving contract safety earn $140,000-$340,000+.
+**Formal Verification Engineers** proving contract safety earn competitive salaries.
 
-**Incident Response Teams** responding to exploits earn $110,000-$250,000+.
+**Incident Response Teams** responding to exploits earn competitive salaries.
 
 ## Best Practices
 
@@ -156,9 +156,9 @@ Security evolution:
 
 **Formal Verification**: Proving contract correctness mathematically.
 
-**Automated Auditing**: AI tools automatically finding vulnerabilities.
+**Automated Auditing**: Tools automatically finding vulnerabilities.
 
-**Safer Languages**: Languages (Rust-based) with built-in safety.
+**Safer Languages**: Languages with built-in safety.
 
 **Staged Rollouts**: More protocols doing careful staged rollouts.
 
@@ -166,4 +166,4 @@ Security evolution:
 
 ## Prevent Recursive Attacks
 
-Reentrancy is serious vulnerability but preventable with proper patterns. Understanding reentrancy is critical for smart contract developers. If you're interested in smart contract security, explore [security careers](/) at audit firms and protocol teams. These roles focus on keeping DeFi safe.
+Reentrancy is a serious vulnerability but preventable with proper patterns. Understanding reentrancy is critical for smart contract developers. If you're interested in smart contract security, explore [security careers](/) at audit firms and protocol teams. These roles focus on keeping DeFi safe.

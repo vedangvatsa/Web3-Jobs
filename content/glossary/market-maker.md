@@ -9,7 +9,7 @@ relatedTerms: ["trading", "liquidity", "spread", "arbitrage"]
 synonyms: ["liquidity provider", "market participant", "dealer"]
 ---
 
-Market Maker refers to a trader or automated system that provides liquidity by simultaneously posting buy and sell orders for an asset, profiting from the difference between these prices known as the bid-ask spread. In traditional finance, firms like Citadel Securities and Virtu Financial dominate this space, while in Web3, automated market makers like Uniswap have revolutionized the concept by replacing human traders with algorithmic liquidity pools governed by smart contracts. Uniswap alone has facilitated over $2 trillion in cumulative trading volume since its launch (according to Dune Analytics, as of 2024), demonstrating the massive scale of decentralized market making. By continuously offering to buy and sell assets, market makers reduce price volatility and enable instant trades for other participants. The demand for professionals who understand both traditional and DeFi market making strategies has grown substantially, with quantitative trading firms and crypto protocols actively recruiting developers and traders skilled in liquidity provision algorithms.
+Market Maker refers to a trader or automated system that provides liquidity by simultaneously posting buy and sell orders for an asset, profiting from the difference between these prices known as the bid-ask spread. In traditional finance, firms like Citadel Securities and Virtu Financial dominate this space, while in Web3, automated market makers like Uniswap have transformed the concept by replacing human traders with algorithmic liquidity pools governed by smart contracts. By continuously offering to buy and sell assets, market makers reduce price volatility and enable instant trades for other participants. The demand for professionals who understand both traditional and DeFi market making strategies has grown, with quantitative trading firms and crypto protocols actively recruiting developers and traders skilled in liquidity provision algorithms.
 
 ## Market Making Economics
 
@@ -21,9 +21,9 @@ How profits work:
 
 **Spread**: $10 per trade × 100 trades/day = $1,000 daily profit from spread.
 
-**Volume**: More volume = more spread collection. High-volume market makers earn significant revenue.
+**Volume**: More volume equals more spread collection. High-volume market makers earn significant revenue.
 
-**Holding Risk**: If price moves >spread while holding, loses money. Market making has risk.
+**Holding Risk**: If price moves beyond the spread while holding, losses occur. Market making has risk.
 
 Market making profits from spread capture.
 
@@ -31,13 +31,13 @@ Market making profits from spread capture.
 
 Different approaches:
 
-**Passive Liquidity Provision**: Provide liquidity, accept whatever trades come. Lower profit but simpler.
+**Passive Liquidity Provision**: Provide liquidity and accept whatever trades come. Lower profit but simpler.
 
 **Active Quoting**: Quote aggressive prices to attract trades. Higher profit but more capital.
 
 **Algorithmic MM**: Use algorithms adjusting prices based on market conditions. Most sophisticated.
 
-**Statistical Arbitrage**: Identify mispricings, provide liquidity exploiting them. High skill.
+**Statistical Arbitrage**: Identify mispricings and provide liquidity exploiting them. High skill.
 
 **Order Flow**: Try to identify and profit from order flow patterns. Most advanced.
 
@@ -47,11 +47,11 @@ Different strategies have different risk/reward profiles.
 
 DeFi market making:
 
-**AMM Pools**: Uniswap, Balancer pools are market makers. Capture trading fees.
+**AMM Pools**: Uniswap and Balancer pools are market makers. They capture trading fees.
 
-**LP Returns**: LPs earn from trading volume. ETH/USDC pool with $100M trading daily @ 0.3% fees = $300k daily revenue split among LPs.
+**LP Returns**: LPs earn from trading volume. 
 
-**Impermanent Loss**: LPs suffer IL when prices move dramatically. IL can exceed fee revenue.
+**Impermanent Loss**: LPs suffer impermanent loss when prices move dramatically. Impermanent loss can exceed fee revenue.
 
 **Capital Efficiency**: Modern pools use concentrated liquidity (Uniswap V3) improving capital efficiency.
 
@@ -61,17 +61,17 @@ DeFi market making is accessible to anyone with capital.
 
 Institutional approaches:
 
-**Trading Firms**: Firms with billions in capital running market making operations.
+**Trading Firms**: Firms with significant capital running market making operations.
 
 **Prime Brokerage**: Access to leverage, financing, and sophisticated tools.
 
 **High Frequency**: Exploit microsecond advantages through speed and algorithms.
 
-**Statistical**: Use statistical methods identifying profitable opportunities.
+**Statistical**: Use statistical methods to identify profitable opportunities.
 
-**Proprietary**: Firms develop proprietary algorithms giving edge.
+**Proprietary**: Firms develop proprietary algorithms for a competitive edge.
 
-Professional market making is sophisticated industry.
+Professional market making is a sophisticated industry.
 
 ## Market Making Risks
 
@@ -81,11 +81,11 @@ Potential downsides:
 
 **Model Risk**: Market making algorithms might malfunction.
 
-**Liquidity Risk**: Can't exit position fast enough, forced to realize loss.
+**Liquidity Risk**: Inability to exit a position quickly may force realization of a loss.
 
 **Competition**: Tight spreads in competitive markets reduce profits.
 
-**Regulatory**: Market making subject to regulatory scrutiny.
+**Regulatory**: Market making is subject to regulatory scrutiny.
 
 Market making is risky despite seeming simple.
 
@@ -93,15 +93,15 @@ Market making is risky despite seeming simple.
 
 Market making creates roles:
 
-**Quantitative Traders** developing strategies earn $150,000-$500,000+.
+**Quantitative Traders** developing strategies earn competitive salaries.
 
-**Algorithmic Traders** coding implementations earn $130,000-$350,000+.
+**Algorithmic Traders** coding implementations earn competitive salaries.
 
-**Risk Managers** monitoring risk earn $110,000-$250,000+.
+**Risk Managers** monitoring risk earn competitive salaries.
 
-**Systems Engineers** building infrastructure earn $120,000-$300,000+.
+**Systems Engineers** building infrastructure earn competitive salaries.
 
-**Data Scientists** analyzing markets earn $120,000-$300,000+.
+**Data Scientists** analyzing markets earn competitive salaries.
 
 ## Best Practices
 
@@ -111,9 +111,9 @@ Market making guidance:
 
 **Understand Inventory**: Monitor inventory risk constantly.
 
-**Automated Hedging**: Use algorithms protecting against adverse price moves.
+**Automated Hedging**: Use algorithms to protect against adverse price moves.
 
-**Diversify**: Don't concentrate on single pair or exchange.
+**Diversify**: Avoid concentration on a single pair or exchange.
 
 **Stay Informed**: Keep up with market structure changes.
 
@@ -121,13 +121,13 @@ Market making guidance:
 
 Market making evolution:
 
-**More Automation**: AI and sophisticated algorithms taking larger role.
+**More Automation**: Advanced algorithms are taking a larger role.
 
-**Retail Participation**: Better tools enabling retail market making.
+**Retail Participation**: Better tools are enabling retail market making.
 
-**Cross-Chain**: Market making spanning multiple chains.
+**Cross-Chain**: Market making is expanding across multiple chains.
 
-**AMM Dominance**: DeFi market making through AMMs becoming more significant.
+**AMM Dominance**: DeFi market making through AMMs is becoming more significant.
 
 ## Profit From Price Differences
 

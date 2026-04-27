@@ -9,7 +9,7 @@ relatedTerms: ["smart-contract-wallet", "eip-4337", "wallet", "user-experience"]
 synonyms: ["AA", "account abstraction", "programmable accounts"]
 ---
 
-Account Abstraction is a framework that allows smart contracts to function as user accounts, replacing the traditional externally-owned accounts controlled by private keys with programmable wallets that support features like multi-signature authorization, social recovery, gas sponsorship, and transaction batching. Enabled primarily through EIP-4337, this approach works without requiring changes to the underlying Ethereum protocol by introducing UserOperations, Bundlers, and Paymasters as intermediary components. Safe, formerly Gnosis Safe, exemplifies account abstraction in practice, securing over $100 billion in digital assets across its smart contract wallets as of early 2025 according to Safe's official statistics. The technology dramatically improves both security and user experience by eliminating seed phrase dependency and enabling features like spending limits and automated transactions. As wallet infrastructure evolves beyond simple key management, developers with account abstraction expertise are increasingly sought after for roles in wallet development, security engineering, and Web3 product design.
+Account Abstraction is a framework that allows smart contracts to function as user accounts, replacing traditional externally-owned accounts controlled by private keys with programmable wallets that support features like multi-signature authorization, social recovery, gas sponsorship, and transaction batching. Enabled primarily through EIP-4337, this approach works without requiring changes to the underlying Ethereum protocol by introducing UserOperations, Bundlers, and Paymasters as intermediary components. Safe, formerly Gnosis Safe, exemplifies account abstraction in practice, securing digital assets across its smart contract wallets. The technology improves both security and user experience by eliminating seed phrase dependency and enabling features like spending limits and automated transactions. As wallet infrastructure evolves beyond simple key management, developers with account abstraction expertise are increasingly sought after for roles in wallet development, security engineering, and Web3 product design.
 
 ## EIP-4337 Architecture
 
@@ -53,8 +53,6 @@ Advantages:
 
 **Onboarding**: Easier onboarding for new users.
 
-AA transforms user experience.
-
 ## AA Adoption
 
 Current state:
@@ -67,19 +65,17 @@ Current state:
 
 **Standards**: Ongoing standardization efforts.
 
-AA adoption is accelerating.
-
 ## Career Opportunities
 
 AA ecosystem roles:
 
-**Wallet Engineers** earn $120,000-$300,000+.
+**Wallet Engineers**.
 
-**Smart Contract Engineers** earn $120,000-$300,000+.
+**Smart Contract Engineers**.
 
-**UX Designers** earn $100,000-$260,000+.
+**UX Designers**.
 
-**Infrastructure Engineers** earn $130,000-$320,000+.
+**Infrastructure Engineers**.
 
 ## Best Practices
 
@@ -105,4 +101,4 @@ Trends:
 
 ## Programmable Accounts for Everyone
 
-Account abstraction enables programmable, user-friendly wallets. It's transforming Web3 UX. If you're interested in wallet infrastructure, explore [wallet careers](/) at AA wallet teams.
+Account abstraction enables programmable, user-friendly wallets. If you're interested in wallet infrastructure, explore [wallet careers](/) at AA wallet teams.

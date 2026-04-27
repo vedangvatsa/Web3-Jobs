@@ -9,7 +9,7 @@ relatedTerms: ["bonding-curve", "amm", "token-pricing", "defi"]
 synonyms: ["bonding-curve", "automated token pricing", "curve pricing"]
 ---
 
-Curve bonding is a DeFi mechanism where tokens are minted and burned according to a mathematical pricing function, enabling continuous price discovery and automatic market making without requiring traditional liquidity pools. When users purchase tokens, they send reserve currency to a smart contract that mints new tokens at a price determined by the current position on the bonding curve, with prices increasing as supply grows. Conversely, selling burns tokens and returns reserve currency at the curve-determined rate. This creates predictable, algorithmic pricing that adjusts automatically based on demand. Pump.fun popularized bonding curves for memecoin launches on Solana, processing over $2.5 billion in trading volume during its first year of operation (according to Dune Analytics, 2024). The mechanism also powers continuous fundraising models and token distribution systems across various protocols. Understanding bonding curve mathematics has become increasingly valuable for tokenomics designers, smart contract developers, and DeFi analysts building next-generation financial primitives.
+Curve bonding is a DeFi mechanism where tokens are minted and burned according to a mathematical pricing function. This enables continuous price discovery and automatic market making without requiring traditional liquidity pools. When users purchase tokens, they send reserve currency to a smart contract that mints new tokens at a price determined by the current position on the bonding curve, with prices increasing as supply grows. Conversely, selling burns tokens and returns reserve currency at the curve-determined rate. This creates predictable, algorithmic pricing that adjusts automatically based on demand. The mechanism also powers continuous fundraising models and token distribution systems across various protocols. Understanding bonding curve mathematics has become increasingly valuable for tokenomics designers, smart contract developers, and DeFi analysts.
 
 ## Bonding Curve Mechanics
 
@@ -53,7 +53,7 @@ Use cases:
 
 **Polkadot Parachains**: Parachain slots bonded through curves.
 
-Bonding curves suitable for certain applications.
+Bonding curves are suitable for certain applications.
 
 ## Advantages
 
@@ -67,7 +67,7 @@ Benefits:
 
 **Alignment**: Early supporters incentivized. Early = cheaper tokens.
 
-Bonding curves have nice properties.
+Bonding curves have beneficial properties.
 
 ## Challenges
 
@@ -81,21 +81,21 @@ Issues:
 
 **Liquidity**: Limited liquidity. Large orders face slippage.
 
-**Abandonment Risk**: If community abandons token, price drops to 0.
+**Abandonment Risk**: If community abandons token, price drops.
 
-Bonding curves have risks.
+Bonding curves have associated risks.
 
 ## Career Opportunities
 
 Token economics creates roles:
 
-**Tokenomics Designers** designing curves earn $120,000-$300,000+.
+**Tokenomics Designers** designing curves.
 
-**Protocol Engineers** implementing curves earn $120,000-$300,000+.
+**Protocol Engineers** implementing curves.
 
-**Economists** analyzing token dynamics earn $120,000-$300,000+.
+**Economists** analyzing token dynamics.
 
-**Smart Contract Engineers** building curves earn $120,000-$300,000+.
+**Smart Contract Engineers** building curves.
 
 ## Best Practices
 
@@ -103,7 +103,7 @@ Designing bonding curves:
 
 **Test Extensively**: Simulate curve behavior under various conditions.
 
-**Pricing**: Ensure curve pricing reasonable for token value.
+**Pricing**: Ensure curve pricing is reasonable for token value.
 
 **Community Alignment**: Align curve incentives with community.
 
@@ -125,4 +125,4 @@ Evolution:
 
 ## Token Economics Through Curves
 
-Bonding curves enable continuous token pricing and market making. Useful for certain applications but have tradeoffs. Understanding bonding curves helps with token design. If you're interested in tokenomics, explore [tokenomics careers](/) at protocol teams. These roles focus on token economy design.
+Bonding curves enable continuous token pricing and market making. They are useful for certain applications but have tradeoffs. Understanding bonding curves helps with token design. If you're interested in tokenomics, explore [tokenomics careers](/) at protocol teams. These roles focus on token economy design.
