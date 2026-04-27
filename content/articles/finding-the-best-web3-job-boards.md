@@ -21,7 +21,7 @@ Searching for a job in this environment can be overwhelming. Identifying legitim
 1. **Curation**: The best Web3 job boards filter out scams and irrelevant listings. They focus on verified, often well-funded projects, which saves you time and energy.
 2. **Unique Roles**: Many positions in Web3 do not exist in Web2. Careers such as "[Smart Contract](/what-are-smart-contracts) Auditor," "Tokenomics Designer," and "[DAO](/what-is-a-dao) Community Manager" are specific to this ecosystem.
 3. **Direct Access**: These job boards often feature listings from individuals embedded in the crypto community, leading to a more transparent and direct application process.
-4. **Indication of Intent**: Utilizing a Web3 job board signals to employers that you are a serious candidate familiar with the crypto culture, distinguishing you from those who primarily operate in Web2.
+4. **Indication of Intent**: Using a Web3 job board signals to employers that you are a serious candidate familiar with the crypto culture, distinguishing you from those who primarily operate in Web2.
 
 ### Top Web3 Job Boards to Kickstart Your Search
 
@@ -49,9 +49,9 @@ Venture capital (VC) firms play a significant role in funding Web3 startups. The
 
 - **Be Proactive**: Take initiative in your job search. Engage with the community by joining Discord groups of projects that interest you. Participate in discussions and make your presence known. Many positions in Web3 are filled through active community members.
 - **Build in Public**: Your GitHub, Dune dashboard, or blog serves as your [resume](/how-to-build-a-web3-resume-that-stands-out). Showcase your work; a portfolio demonstrating your skills is often more impactful than a traditional CV.
-- **Network**: The Web3 community is smaller than it appears. Attend local meetups, participate in online AMAs, and foster genuine relationships.
+- **Network**: The Web3 community is smaller than it appears. Attend local meetups, participate in online AMAs, and build genuine relationships.
 
-The Web3 job search departs from the traditional corporate approach, rewarding passion, initiative, and authentic contributions. By concentrating your efforts on the right platforms and embracing the culture of transparency and public building, you can rise above the noise of mainstream job sites and secure a role that allows you to impact the future of the internet.
+The Web3 job search departs from the traditional corporate approach, rewarding passion, initiative, and authentic contributions. By concentrating your efforts on the right platforms and accepting the culture of transparency and public building, you can rise above the noise of mainstream job sites and secure a role that allows you to impact the future of the internet.
 
 ## Understanding the Web3 Opportunity
 

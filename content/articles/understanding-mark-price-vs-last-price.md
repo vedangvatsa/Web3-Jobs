@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ### Introduction
 
-In the realm of crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the **Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is crucial for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A solid grasp of these concepts is essential for effective risk management.
+In the field of crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the **Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is crucial for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A strong grasp of these concepts is essential for effective risk management.
 
 ### Index Price
 
@@ -36,7 +36,7 @@ The Mark Price serves as the benchmark for margin and liquidation calculations w
   Mark Price = Index Price + Moving Average (Last Price - Index Price)
   ```
 
-- **Objective**: The primary role of the Mark Price is to **prevent unfair liquidations**. In volatile markets, the Last Price on an exchange can spike or plummet due to significant market orders or liquidity shortages. If liquidations were based solely on this Last Price, it could lead to unjust losses for traders. The Mark Price, anchored to the more reliable Index Price, ensures that liquidations occur only in response to genuine market movements rather than temporary fluctuations on a single platform.
+- **Objective**: The primary role of the Mark Price is to prevent unfair liquidations. In volatile markets, the Last Price on an exchange can spike or plummet due to significant market orders or liquidity shortages. If liquidations were based solely on this Last Price, it could lead to unjust losses for traders. The Mark Price, anchored to the more reliable Index Price, ensures that liquidations occur only in response to genuine market movements rather than temporary fluctuations on a single platform.
 
 ### Importance of Mark Price
 
@@ -78,7 +78,7 @@ While your position is active, the unrealized PnL is computed using the Mark Pri
 
 ## Common Mistakes to Avoid
 
-1. **Neglecting Price Sources**: Traders often focus on the Last Price alone. Understanding both the Index and Mark Prices offers a comprehensive view of market conditions and risk.
+1. **Neglecting Price Sources**: Traders often focus on the Last Price alone. Understanding both the Index and Mark Prices offers a complete view of market conditions and risk.
 
 2. **Ignoring Market Trends**: Failing to consider broader market movements can lead to unexpected liquidations. Always analyze market trends along with price metrics.
 

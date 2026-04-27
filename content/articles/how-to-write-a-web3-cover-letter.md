@@ -128,7 +128,7 @@ Alex, a backend engineer with five years at a major tech company, dedicated thre
 
 ### Product Manager in Web3
 
-Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products paired with Web3 technology made her highly valuable. She secured a role at a leading DeFi protocol within a few weeks.
+Jessica, a PM from traditional finance, used her domain expertise in DeFi. Her understanding of financial products paired with Web3 technology made her highly valuable. She secured a role at a leading DeFi protocol within a few weeks.
 
 ### Career Changer Success
 

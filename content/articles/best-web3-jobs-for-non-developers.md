@@ -15,15 +15,15 @@ This article explores the most significant non-developer roles in Web3. It outli
 
 ## The Web3 Mindset: Shifting Your Perspective
 
-Understanding the cultural transition from Web2 to Web3 is essential. Success in this arena hinges on your mindset rather than solely on your [resume](/how-to-build-a-web3-resume-that-stands-out).
+Understanding the cultural transition from Web2 to Web3 is essential. Success in this area hinges on your mindset rather than solely on your [resume](/how-to-build-a-web3-resume-that-stands-out).
 
-* **From Centralized to Decentralized:** In Web2, decisions emanate from the top. Web3 disperses power across the community. You must embrace [community governance](/how-to-break-into-web3-dao-governance-consulting), transparent processes, and consensus-building over directives.
+* **From Centralized to Decentralized:** In Web2, decisions emanate from the top. Web3 disperses power across the community. You must adopt [community governance](/how-to-break-into-web3-dao-governance-consulting), transparent processes, and consensus-building over directives.
 * **From Users to Owners:** In Web3, your "users" often hold [tokens](/what-is-a-token) and possess both a financial stake and a voice in shaping the protocol's future. This ownership mentality shifts your focus from customer service to community stewardship.
 * **Embrace of Pseudonymity:** Expect to collaborate with individuals who may only be known through an ENS name and an avatar. Building trust in this context involves evaluating contributions rather than real-world identities.
 * **Default to Transparency:** Most discussions and decisions are public. Conversations occur in open Discord channels, governance proposals are debated on public forums, and all transactions are recorded on-chain. This transparency underpins Web3's ethos.
 * **A Bias for Action & "Proof of Work":** The pace of the industry is swift. Procrastination can lead to missed opportunities. The most respected individuals are those who actively contribute, building a "Proof of Work" portfolio through analyses, DAO contributions, event organization, or developing useful tools. Public contributions now serve as your resume.
 
-Fostering these principles is crucial for establishing a successful career in Web3.
+Building these principles is crucial for establishing a successful career in Web3.
 
 ## Top Non-Technical Roles in Web3
 
@@ -224,4 +224,4 @@ Not necessarily. Most full-time roles offer a competitive base salary in stablec
 **How do I stand out if I don't have direct crypto experience?**  
 Showcase your "Proof of Work." A portfolio of insightful blog posts, a history of active governance participation, or a reputation as a helpful community member often outweighs a traditional resume with extensive Web2 experience. Demonstrating your passion and capacity for rapid learning is key.
 
-The Web3 space welcomes talented individuals from diverse backgrounds. The essential step is to immerse yourself, learn, and contribute. Your future in this decentralized landscape awaits.
+The Web3 space welcomes talented individuals from diverse backgrounds. The essential step is to immerse yourself, learn, and contribute. Your future in this decentralized sector awaits.

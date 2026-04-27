@@ -16,9 +16,9 @@ This article examines how Solana and SOL contribute to the growth of the Web3 ec
 
 ### 1. Enhancing DeFi and Payment Solutions
 
-Ethereum's limitations, particularly regarding transaction speed and high gas fees, hinder its performance in decentralized finance (DeFi) and payment systems. Solana addresses these challenges head-on.
+Ethereum's limitations, particularly regarding transaction speed and high gas fees, hinder its performance in decentralized finance (DeFi) and payment systems. Solana addresses these challenges.
 
-- **Technology Overview:** Solana utilizes **Proof-of-History (PoH)**, enabling it to process a high number of transactions per second with fees that are minimal.
+- **Technology Overview:** Solana utilizes **Proof-of-History (PoH)**, enabling it to process a high number of transactions per second with minimal fees.
 - **Implications for Web3:** This capability makes Solana ideal for applications that require rapid transaction processing.
     - **Central Limit Order Books (CLOBs):** Solana hosts multiple decentralized exchanges that operate on-chain order books, which necessitate swift transaction processing.
     - **Micropayments:** The network's minimal fees allow for innovative solutions such as per-second streaming payments and affordable global remittances. Solana Pay exemplifies this initiative, facilitating easy payment solutions for merchants.
@@ -43,7 +43,7 @@ The SOL [token](/what-is-a-token) is fundamental to the Solana blockchain's ecos
 While the Ethereum Virtual Machine (EVM) is prevalent, a diverse ecosystem enhances the Web3 environment.
 
 - **Distinct Technology:** Solana employs a different architecture and utilizes the **[Rust](/top-5-web3-languages)** programming language, distinguishing it from EVM-based platforms.
-- **Web3 Innovation:** This uniqueness fosters a parallel ecosystem that encourages innovation. Developers who find the EVM limiting can explore Solana's architecture, which advances the industry by testing new scalability and security approaches. Despite fluctuations in developer activity, the core community remains engaged, creating products that would not thrive within the confines of the EVM.
+- **Web3 Innovation:** This uniqueness supports a parallel ecosystem that encourages innovation. Developers who find the EVM limiting can explore Solana's architecture, which advances the industry by testing new scalability and security approaches. Despite fluctuations in developer activity, the core community remains engaged, creating products that would not thrive within the confines of the EVM.
 
 Solana's performance focus positions it as a crucial component in the Web3 ecosystem. It provides a platform for efficient financial applications, accessible NFTs, and scalable gaming environments, ultimately expanding the potential of public blockchains and facilitating the onboarding of new Web3 users.
 
@@ -92,7 +92,7 @@ Focus on skills pertinent to your desired role:
 
 - **Engineers:** Proficiency in [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Familiarity with token economics, protocol governance, and user growth strategies in Web3
-- **Business Development:** Skills in market analysis, partnership strategies, and navigating the regulatory landscape
+- **Business Development:** Skills in market analysis, partnership strategies, and understanding the regulatory landscape
 - **Community/Operations:** Expertise in community building, Discord management, and governance participation
 
 ### Step 3: Develop Your Portfolio

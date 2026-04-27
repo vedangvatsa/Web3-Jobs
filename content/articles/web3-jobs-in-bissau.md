@@ -24,7 +24,7 @@ The potential for Web3 in Bissau emerges from the country's development challeng
 
 - **Role of NGOs and International Organizations:** Initial Web3 projects in Bissau will likely stem from pilot programs launched by international NGOs, development banks, and UN agencies.
 
-- **Lusophone Connections:** Guinea-Bissau's ties to the Portuguese-speaking world link it to more developed Web3 ecosystems in Brazil and Portugal. These connections can foster collaboration and knowledge sharing.
+- **Lusophone Connections:** Guinea-Bissau's ties to the Portuguese-speaking world link it to more developed Web3 ecosystems in Brazil and Portugal. These connections can support collaboration and knowledge sharing.
 
 ### In-Demand Roles and Salary Expectations
 

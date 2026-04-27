@@ -16,7 +16,7 @@ Ethereum's success has created significant challenges. As the leading platform f
 
 This article examines Ethereum rollups in detail. It discusses the fundamental principles underlying this vital scaling technology, contrasts the two primary types, **Optimistic Rollups** and **Zero-Knowledge (ZK) Rollups**, and evaluates their impact on the [Web3](/what-is-web3) ecosystem.
 
-For developers, users, and investors, understanding rollups is essential. They serve as the engine that will empower Ethereum to manage global-scale activities, facilitating new functionalities and use cases for decentralized applications. This analysis provides the necessary insights to navigate the L2 landscape and grasp the architectural shifts securing Ethereum's future.
+For developers, users, and investors, understanding rollups is essential. They serve as the engine that will enable Ethereum to manage global-scale activities, facilitating new functionalities and use cases for decentralized applications. This analysis provides the necessary insights to understand the L2 sector and grasp the architectural shifts securing Ethereum's future.
 
 ## The Core Principle of Rollups: Off-Chain Execution, On-Chain Data
 
@@ -67,9 +67,9 @@ The long-term vision includes full **Danksharding**, which will further enhance 
 
 ## Conclusion: The Foundation for a Scalable Future
 
-Rollups represent not just a temporary solution; they are integral to Ethereum’s future scalability. By decoupling execution from data availability, rollups empower dApps to achieve the low fees and high throughput necessary for widespread adoption while remaining anchored to the robust security and decentralization of the Ethereum mainnet.
+Rollups represent not just a temporary solution; they are integral to Ethereum’s future scalability. By decoupling execution from data availability, rollups enable dApps to achieve the low fees and high throughput necessary for widespread adoption while remaining anchored to the reliable security and decentralization of the Ethereum mainnet.
 
-The ongoing competition between Optimistic and ZK-Rollups fosters innovation, with each method presenting distinct trade-offs. As the technology matures and Layer 1 becomes an even more powerful settlement and data availability layer, the aspiration for a truly global, scalable, and decentralized application platform is increasingly attainable. For anyone engaged in Web3, the future lies on Layer 2.
+The ongoing competition between Optimistic and ZK-Rollups supports innovation, with each method presenting distinct trade-offs. As the technology matures and Layer 1 becomes an even more powerful settlement and data availability layer, the aspiration for a truly global, scalable, and decentralized application platform is increasingly attainable. For anyone engaged in Web3, the future lies on Layer 2.
 
 ## Why This Matters
 

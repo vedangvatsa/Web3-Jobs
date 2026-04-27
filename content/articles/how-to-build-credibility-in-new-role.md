@@ -44,7 +44,7 @@ Credibility is built on trust and strong interpersonal skills.
 
 #### Connect with Colleagues
 - **One-on-Ones**: Schedule introductory meetings with your new colleagues. Use these meetings to learn about their roles and how you can collaborate effectively.
-- **Offer Help**: Be available to assist others when you have the capacity. Helping colleagues fosters goodwill and builds rapport.
+- **Offer Help**: Be available to assist others when you have the capacity. Helping colleagues builds rapport.
 
 #### Communicate Effectively
 - **Clarity and Conciseness**: Ensure that your communication is clear and to the point. Avoid jargon unless it is well understood by your audience.
@@ -82,7 +82,7 @@ Avoid trying to change everything at once. Start with one small change and build
 
 #### Step 5: Measure and Adjust
 
-Monitor your progress closely. Are you seeing the desired results? Adjust your approach based on feedback and outcomes. Embrace a continuous improvement mindset.
+Monitor your progress closely. Are you seeing the desired results? Adjust your approach based on feedback and outcomes. Accept a continuous improvement mindset.
 
 ### Real-World Examples
 
@@ -112,11 +112,11 @@ You typically have more agency than it seems. Start with small, self-contained a
 Web3 organizations often have flatter hierarchies, providing direct access to decision-makers. This structure requires self-direction and strong communication skills. Teams are frequently remote, emphasizing the importance of written communication and asynchronous collaboration.
 
 **Can I implement this alongside my current role?**  
-Yes, and this is the recommended approach. Focus on applying two or three practices that integrate seamlessly into your daily tasks. Small, consistent improvements yield better results than sporadic large efforts.
+Yes, and this is the recommended approach. Focus on applying two or three practices that integrate into your daily tasks. Small, consistent improvements yield better results than sporadic large efforts.
 
 **What resources can help me go deeper?**  
 Seek out articles that delve into specific aspects of building credibility. Finding a mentor or joining a peer group can also provide insights not found in written resources. Engaging with communities in platforms like Discord or Telegram can offer additional support.
 
 ### Conclusion
 
-Building credibility in a new role requires intentional effort and a strategic approach. By actively listening, delivering quality work, and fostering relationships, you can establish a solid reputation. Remember that credibility is earned over time through consistent action and integrity. This commitment not only enhances your professional standing but also contributes to the overall success of your team and organization.
+Building credibility in a new role requires intentional effort and a strategic approach. By actively listening, delivering quality work, and building relationships, you can establish a solid reputation. Remember that credibility is earned over time through consistent action and integrity. This commitment not only enhances your professional standing but also contributes to the overall success of your team and organization.

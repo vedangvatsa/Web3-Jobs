@@ -58,7 +58,7 @@ Web3 academies play a vital role in shaping the future of the crypto industry:
 
 ### The Web3 Opportunity
 
-The Web3 sector is witnessing significant growth, with demand for qualified talent vastly outstripping supply. This landscape offers distinct advantages compared to traditional tech roles:
+The Web3 sector is witnessing significant growth, with demand for qualified talent vastly outstripping supply. This sector offers distinct advantages compared to traditional tech roles:
 
 - **Compensation:** Web3 positions typically offer salaries that are higher than equivalent roles in Web2, along with bonuses and equity opportunities.
 - **Remote-First Culture:** Many Web3 companies operate fully remote, providing flexibility that is often lacking in traditional tech environments.
@@ -122,7 +122,7 @@ Target roles that align with your existing expertise and new Web3 knowledge:
 Alex, a backend engineer with five years at a major tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted a major DeFi project's attention, leading to a transition with a significant salary increase and equity.
 
 **Product Manager Transition:**  
-Jessica, a product manager from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology positioned her as a valuable candidate. She secured a role at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from traditional finance, used her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology positioned her as a valuable candidate. She secured a role at a leading DeFi protocol within a few weeks.
 
 **Career Change Success:**  
 Marcus left his corporate job to focus on Web3 full-time for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform, with compensation exceeding his previous salary.
@@ -156,6 +156,6 @@ Historically, bear markets present prime opportunities to enter Web3. As specula
 
 ### Key Takeaways
 
-The Web3 sector presents numerous advantages, including substantial compensation premiums, accelerated career growth, and the chance to contribute to transformative technologies. Most professionals can transition effectively into Web3 within a few months, leveraging existing skills while gaining blockchain-specific knowledge.
+The Web3 sector presents numerous advantages, including substantial compensation premiums, accelerated career growth, and the chance to contribute to transformative technologies. Most professionals can transition effectively into Web3 within a few months, using existing skills while gaining blockchain-specific knowledge.
 
 Networking through community engagement and showcasing a portfolio of work often surpass formal certifications in importance for securing roles. Professionals should seek well-established protocols with proven revenue to mitigate inherent market volatility risks. The Web3 community offers extensive support, including mentorship and educational resources, which can significantly enhance your journey into this dynamic field.

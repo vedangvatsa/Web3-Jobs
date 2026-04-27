@@ -61,7 +61,7 @@ The free version offers useful features, but the Premium version provides advanc
 
 ### Best Tool for Research and Citations: QuillBot
 
-QuillBot began as a paraphrasing tool but has developed into a comprehensive writing suite especially beneficial for research-intensive assignments.
+QuillBot began as a paraphrasing tool but has developed into a writing suite especially beneficial for research-intensive assignments.
 
 **Using QuillBot Effectively**
 

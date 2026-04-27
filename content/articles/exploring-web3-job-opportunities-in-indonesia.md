@@ -20,7 +20,7 @@ Indonesia's crypto ecosystem prioritizes user-facing applications that cater to 
 
 - **High Adoption Rates:** Indonesia ranks among the top countries for cryptocurrency adoption, driven by a quest for alternative investment opportunities and a strong interest in digital trends.
 - **Mobile-First Approach:** Centralized exchanges (CEXs) and mobile [wallet](/how-to-choose-a-crypto-wallet) applications dominate the market, serving as the main entry points for new users. Local companies like Indodax and Tokocrypto lead the way.
-- **GameFi Growth:** The "Play-to-Earn" (P2E) model has gained significant traction, fostering a skilled community of Web3 gamers. This positions Indonesia as a favored location for Web3 gaming studios and [NFT](/what-are-nfts) projects seeking audience engagement and support.
+- **GameFi Growth:** The "Play-to-Earn" (P2E) model has gained significant traction, building a skilled community of Web3 gamers. This positions Indonesia as a favored location for Web3 gaming studios and [NFT](/what-are-nfts) projects seeking audience engagement and support.
 - **Key Locations:** Though the workforce is spread across the country, **Jakarta** functions as the primary business hub while **Bali** has developed into a popular destination for crypto nomads, entrepreneurs, and remote workers.
 
 ### In-Demand Roles and Salary Expectations
@@ -150,4 +150,4 @@ A: Bear markets often represent the best entry points into Web3. As speculative 
 
 ## Final Thoughts
 
-Indonesia's Web3 job market presents substantial opportunities for skilled professionals. The competitive compensation, accelerated career growth, and the chance to contribute to transformative technology make Web3 an appealing career choice. Professionals can effectively transition into this sector by leveraging existing skills, networking within the community, and staying informed about industry developments. As Web3 continues to evolve, Indonesia stands at the forefront of this digital revolution, making it an exciting place to build a career.
+Indonesia's Web3 job market presents substantial opportunities for skilled professionals. The competitive compensation, accelerated career growth, and the chance to contribute to transformative technology make Web3 an appealing career choice. Professionals can effectively transition into this sector by using existing skills, networking within the community, and staying informed about industry developments. As Web3 continues to evolve, Indonesia stands at the forefront of this digital revolution, making it an exciting place to build a career.

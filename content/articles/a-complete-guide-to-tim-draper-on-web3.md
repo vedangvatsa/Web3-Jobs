@@ -17,13 +17,13 @@ Draper has played a foundational role in the cryptocurrency sector. His unwaveri
 
 ### A Legacy of Disruptive Investing
 
-Understanding Draper's perspective on Web3 requires an examination of his investment philosophy. Throughout his career, he has gravitated towards technologies that disrupt established norms and empower individuals. For example, Hotmail's viral marketing strategy transformed the ISP model, while Skype's peer-to-peer technology revolutionized telecommunications. Draper's consistent focus on decentralization and network effects has been a hallmark of his investment strategy.
+Understanding Draper's perspective on Web3 requires an examination of his investment philosophy. Throughout his career, he has gravitated towards technologies that disrupt established norms and support individuals. For example, Hotmail's viral marketing strategy transformed the ISP model, while Skype's peer-to-peer technology changed telecommunications. Draper's consistent focus on decentralization and network effects has been a hallmark of his investment strategy.
 
 Upon discovering Bitcoin, Draper recognized a similar pattern. He viewed it not merely as a digital currency but as a technology capable of decentralizing traditional power structures, particularly the financial system and government.
 
 ## Core Thesis: Bitcoin as the Future of Money and Governance
 
-Draper’s philosophy surrounding Web3 can be distilled into a single, impactful belief: **Bitcoin is the future of money and governance.** While many investors diversify their portfolios across various [crypto assets](/building-web3-portfolio), Draper identifies as a Bitcoin maximalist. He argues that Bitcoin's unique attributes position it as the long-term winner in the cryptocurrency arena.
+Draper’s philosophy surrounding Web3 can be distilled into a single, impactful belief: **Bitcoin is the future of money and governance.** While many investors diversify their portfolios across various [crypto assets](/building-web3-portfolio), Draper identifies as a Bitcoin maximalist. He argues that Bitcoin's unique attributes position it as the long-term winner in the cryptocurrency sector.
 
 ### 1. The Silk Road Bitcoin Auction
 
@@ -61,7 +61,7 @@ Tim Draper is known for his bold and specific price predictions for Bitcoin. He 
 
 Tim Draper embodies the role of a "true believer" in the cryptocurrency space and serves as a foundational figure in the Web3 ecosystem. His early and public investment in the Silk Road bitcoins marked a significant moment that helped legitimize cryptocurrency in the eyes of traditional investors.
 
-Draper's unwavering focus on Bitcoin, despite differing perspectives from other venture capitalists who advocate for multi-chain strategies, presents a clear and consistent thesis. He envisions a transition from tribal, geographic organization to a global, interconnected society, with Bitcoin serving as the native currency. For Draper, Bitcoin represents more than just an investment; it signifies a pivotal technology for freedom and a catalyst for the next transformation of global society.
+Draper's unwavering focus on Bitcoin, despite differing perspectives from other venture capitalists who advocate for multi-chain strategies, presents a clear and consistent thesis. He envisions a transition from tribal, geographic organization to a global, interconnected society, with Bitcoin serving as the native currency. For Draper, Bitcoin represents more than just an investment; it signifies a key technology for freedom and a catalyst for the next transformation of global society.
 
 ### Frequently Asked Questions (FAQ)
 

@@ -19,7 +19,7 @@ The regulatory framework in Hong Kong serves as the backbone of its Web3 strateg
 Hong Kong seeks to establish itself as the foremost "TradFi-to-DeFi" bridge in Asia, drawing in institutional investors and established financial firms into the crypto sector.
 
 - **A Regulated Hub for Digital Assets:** The approval of spot [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) ETFs marked a significant milestone, showcasing Hong Kong's ambition to compete with other global financial centers by offering regulated crypto investment products. This development has prompted increased activity from asset managers and financial institutions.
-- **Gateway to Capital:** The city's robust capital markets and its direct link to mainland China through programs like Stock Connect facilitate substantial capital flows within the region.
+- **Gateway to Capital:** The city's strong capital markets and its direct link to mainland China through programs like Stock Connect facilitate substantial capital flows within the region.
 - **Emphasis on Compliance and Institutions:** The market focuses on creating secure and compliant infrastructure for institutional investors, including regulated exchanges, custody solutions, and asset management platforms.
 - **Active Conference Scene:** Hong Kong hosts numerous major Web3 events, such as the Hong Kong Web3 Festival and various high-profile summits, attracting leading experts from across Asia and beyond.
 
@@ -35,7 +35,7 @@ The demand for Web3 professionals with expertise in finance and crypto is except
 | Quantitative Traders & Researchers              | Varies                   | 100,000 - 200,000+              |
 | Institutional Sales & Business Development      | Experienced              | 70,000 - 130,000+               |
 
-- **Legal & Compliance Officers:** This role is crucial in Hong Kong's regulated environment. Professionals who can adeptly navigate the SFC's licensing requirements are highly sought after. Experienced individuals can expect salaries ranging from HKD 80,000 to over HKD 150,000 per month.
+- **Legal & Compliance Officers:** This role is crucial in Hong Kong's regulated environment. Professionals who can adeptly manage the SFC's licensing requirements are highly sought after. Experienced individuals can expect salaries ranging from HKD 80,000 to over HKD 150,000 per month.
   
 - **Smart Contract & Backend Engineers:** Demand remains strong for developers proficient in blockchain technologies, particularly those familiar with Solidity, Rust, or Go. Mid-level engineers can earn between HKD 60,000 and HKD 90,000 monthly, while senior engineers command salaries from HKD 90,000 to HKD 140,000 or more.
 
@@ -51,7 +51,7 @@ The demand for Web3 professionals with expertise in finance and crypto is except
 
 3. **Networking at Industry Events:** The Hong Kong Web3 community is vibrant and event-driven. Participating in gatherings like the Hong Kong Web3 Festival, WOW Summit, and local meetups is essential for expanding your professional network and discovering job opportunities.
 
-4. **Understanding the Regulatory Landscape:** Familiarize yourself with the SFC's framework for Virtual Asset Service Providers (VASPs). Demonstrating knowledge in this area shows commitment and professionalism, which can differentiate you from other candidates.
+4. **Understanding the Regulatory Framework:** Familiarize yourself with the SFC's framework for Virtual Asset Service Providers (VASPs). Demonstrating knowledge in this area shows commitment and professionalism, which can differentiate you from other candidates.
 
 ### Finding Your Hong Kong Web3 Job
 
@@ -250,4 +250,4 @@ A: Compensation is competitive globally. Positions offering competitive salaries
 - LinkedIn for institutional roles.
 - AngelList for startup opportunities.
 
-Hong Kong's Web3 job market is expanding rapidly, driven by regulatory clarity and a significant focus on institutional investment. As the city evolves into a central hub for digital assets, professionals who align their skills with market demands will find ample opportunities. Embracing the challenges and leveraging the resources available will be key to success in this thriving environment.
+Hong Kong's Web3 job market is expanding rapidly, driven by regulatory clarity and a significant focus on institutional investment. As the city evolves into a central hub for digital assets, professionals who align their skills with market demands will find ample opportunities. Accepting the challenges and using the resources available will be key to success in this thriving environment.

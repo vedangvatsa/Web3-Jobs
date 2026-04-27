@@ -26,7 +26,7 @@ This path represents one of the most common entry points for Web3 developers. Sm
 
 #### 2. Frontend / Full-Stack dApp Developer
 
-These developers focus on building the user interface that connects to on-chain smart contracts, ensuring a seamless user experience.
+These developers focus on building the user interface that connects to on-chain smart contracts, ensuring a smooth user experience.
 
 - **Responsibilities:** They design and implement user-friendly interfaces for dApps, utilizing frameworks like React and libraries such as Ethers.js to facilitate communication with the blockchain.
 - **Core Skills:** Mastery of **JavaScript/TypeScript**, **React/Next.js**, and various Web3 libraries is essential for this role.
@@ -37,7 +37,7 @@ These developers focus on building the user interface that connects to on-chain 
 This elite role involves building the foundational blockchains themselves, encompassing Layer 1 and Layer 2 networks upon which dApps operate.
 
 - **Responsibilities:** Protocol engineers develop consensus mechanisms, the virtual machine (EVM), peer-to-peer networking systems, and other critical infrastructure components.
-- **Core Skills:** Expertise in systems programming languages like **Rust** or **Go** is vital. A robust academic foundation in computer science, particularly in distributed systems and cryptography, is usually necessary.
+- **Core Skills:** Expertise in systems programming languages like **Rust** or **Go** is vital. A solid academic foundation in computer science, particularly in distributed systems and cryptography, is usually necessary.
 - **Resources:** Learn more in [Building a Career as a Blockchain Infrastructure Engineer](/building-a-career-as-a-web3-blockchain-infrastructure-engineer).
 
 #### 4. Security Researcher / Auditor
@@ -137,7 +137,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 #### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products, combined with an understanding of Web3 technology, made her a sought-after candidate. She secured a role at a leading DeFi protocol within a short period.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her knowledge of financial products, combined with an understanding of Web3 technology, made her a sought-after candidate. She secured a role at a leading DeFi protocol within a short period.
 
 #### Career Changer Success
 
@@ -147,7 +147,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 Transitioning to Web3 presents unique challenges:
 
-- **Volatility Risk:** The crypto market's instability can affect job security, especially at early-stage startups. Professionals should maintain a financial cushion of several months of living expenses, negotiate salaries in fiat currency, and ideally join projects with established revenue or robust treasury reserves.
+- **Volatility Risk:** The crypto market's instability can affect job security, especially at early-stage startups. Professionals should maintain a financial cushion of several months of living expenses, negotiate salaries in fiat currency, and ideally join projects with established revenue or reliable treasury reserves.
 - **Regulatory Uncertainty:** The evolving regulatory environment for blockchain companies necessitates due diligence. Verify that your potential employer has competent legal counsel and is actively engaging with regulators.
 - **Due Diligence:** Not every Web3 project is legitimate. Research the founding team, check audit reports for smart contracts, verify on-chain treasury holdings, and consult current or former team members before accepting offers.
 - **Learning Curve:** Non-developers may find the technical learning curve steep. However, the Web3 community is open and supportive, with numerous Discord channels, free educational resources, and mentorship opportunities available across major protocols.

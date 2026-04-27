@@ -14,7 +14,7 @@ A common misconception about opportunities in [Web3](/what-is-web3) is that they
 
 For professionals in these fields, Web3 offers a unique career opportunity. Your existing skill set holds significant value in an industry that often lacks the strategic and operational depth seen in traditional tech sectors. The challenge lies in adapting your expertise to the decentralized environment.
 
-This article outlines the most sought-after non-technical roles in Web3. It details what these positions involve, the specific skills necessary for success, and how to leverage your Web2 experience for a successful [transition into this exciting industry](/breaking-into-web3-a-guide-for-non-technical-professionals).
+This article outlines the most sought-after non-technical roles in Web3. It details what these positions involve, the specific skills necessary for success, and how to apply your Web2 experience for a successful [transition into this exciting industry](/breaking-into-web3-a-guide-for-non-technical-professionals).
 
 ### Key Non-Technical Roles in Web3
 
@@ -26,7 +26,7 @@ The Community Manager role is vital in any Web3 project. In a decentralized fram
 
 - **Responsibilities:** 
   - Engage with users on platforms like Discord and Telegram
-  - Foster a positive community culture
+  - Build a positive community culture
   - Organize events such as AMAs and contests
   - Serve as a liaison between users and the development team
 
@@ -70,7 +70,7 @@ The [Product Manager's role](/web3-product-manager-jobs) in Web3 is particularly
 
 - **Crypto-Specific Skills:**
   - Utilize on-chain analytics tools to analyze user behavior
-  - Navigate public governance votes for major roadmap decisions requires strong persuasion skills
+  - Manage public governance votes for major roadmap decisions requires strong persuasion skills
 
 #### 4. UX/UI Designer
 
@@ -190,7 +190,7 @@ Marcus transitioned from a corporate job to focus on Web3 over several months. T
 
 ## Web3-Specific Challenges
 
-**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups with limited resources. Professionals entering this space should maintain a financial reserve for several months of living expenses, negotiate base salaries in fiat currency, and ideally join projects with established revenue models or robust treasury backing.
+**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups with limited resources. Professionals entering this space should maintain a financial reserve for several months of living expenses, negotiate base salaries in fiat currency, and ideally join projects with established revenue models or reliable treasury backing.
 
 **Regulatory Uncertainty:** The regulatory landscape for blockchain companies continues to evolve in various jurisdictions. Before joining any project, ensure that the team has competent legal counsel and is proactively engaging with regulators instead of operating in legal grey areas.
 

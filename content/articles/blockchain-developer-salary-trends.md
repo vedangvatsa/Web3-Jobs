@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 The [Web3](/what-is-web3) industry consistently delivers competitive compensation packages within the technology sector. A combination of substantial venture capital investments and a critical shortage of qualified talent leads Web3 companies to offer attractive salaries for engineers capable of constructing secure and scalable infrastructures for the new internet. Understanding what developers can expect to earn in this sector is essential.
 
-This article provides an in-depth analysis of [blockchain](/what-is-a-blockchain) developer salaries for the coming years. It considers role specialization, experience levels, and geographic locations to offer general salary bands. These insights assist in benchmarking your market value. For further details, refer to our complete **[Web3 Developer Salary Guide](/web3-developer-salaries-2025)**.
+This article provides a detailed analysis of [blockchain](/what-is-a-blockchain) developer salaries for the coming years. It considers role specialization, experience levels, and geographic locations to offer general salary bands. These insights assist in benchmarking your market value. For further details, refer to our complete **[Web3 Developer Salary Guide](/web3-developer-salaries-2025)**.
 
 ### Web3 Compensation Overview
 
@@ -77,7 +77,7 @@ While the Web3 industry embraces remote work, geographic location still influenc
 | Tier 3       | Asia - Singapore, Hong Kong                | Strong salaries; typically somewhat lower than US benchmarks. |
 | Tier 4       | Remote - Global                            | Salaries standardize, but can vary; senior developers in lower cost-of-living areas may earn competitive salaries. |
 
-The Web3 job market presents some of the most lucrative opportunities in technology. The demand for skilled developers, particularly those well-versed in security and protocol architecture, significantly outpaces the supply. By cultivating valuable skills and maintaining a strong public [portfolio](/building-web3-portfolio) of work, developers can position themselves for rewarding careers at the forefront of technological innovation.
+The Web3 job market presents some of the most lucrative opportunities in technology. The demand for skilled developers, particularly those well-versed in security and protocol architecture, significantly outpaces the supply. By building valuable skills and maintaining a strong public [portfolio](/building-web3-portfolio) of work, developers can position themselves for rewarding careers at the forefront of technological innovation.
 
 ## The Web3 Opportunity
 

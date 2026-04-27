@@ -10,9 +10,9 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-Freetown, the resilient capital of Sierra Leone, is establishing itself as a significant player in the [Web3](/what-is-web3) movement. The city is transforming into a case study for the use of [blockchain](/what-is-a-blockchain) technology in governance and identity verification. Notably, Sierra Leone was among the first countries to implement blockchain for verifying national election results. Additionally, the nation is developing a blockchain-based digital identity system, reflecting a governmental commitment to harnessing technology for social good. This proactive approach has fostered a unique and impactful Web3 ecosystem.
+Freetown, the resilient capital of Sierra Leone, is establishing itself as a significant player in the [Web3](/what-is-web3) movement. The city is transforming into a case study for the use of [blockchain](/what-is-a-blockchain) technology in governance and identity verification. Notably, Sierra Leone was among the first countries to implement blockchain for verifying national election results. Additionally, the nation is developing a blockchain-based digital identity system, reflecting a governmental commitment to using technology for social good. This proactive approach has built a unique and impactful Web3 ecosystem.
 
-The focus in Freetown's Web3 sector goes beyond speculation. The emphasis lies on using blockchain to address core issues in governance, finance, and identity verification. This focus has generated a demand for professionals who are dedicated to "Web3 for Good" and capable of creating systems that deliver measurable social benefits. This guide offers an in-depth analysis of the [Web3 career](/web3-jobs-for-beginners) opportunities in Freetown, detailing the city's unique emphasis, available roles, and strategies for building a career that merges technology with social innovation.
+The focus in Freetown's Web3 sector goes beyond speculation. The emphasis lies on using blockchain to address core issues in governance, finance, and identity verification. This focus has generated a demand for professionals who are dedicated to "Web3 for Good" and capable of creating systems that deliver measurable social benefits. This guide offers a detailed analysis of the [Web3 career](/web3-jobs-for-beginners) opportunities in Freetown, detailing the city's unique emphasis, available roles, and strategies for building a career that merges technology with social innovation.
 
 ### The Freetown Web3 Ecosystem
 
@@ -114,7 +114,7 @@ A mid-level developer earning a competitive salary in Freetown can expect the fo
   - Time Commitment: 15-20 hours/week.
 
 - **Months 5-8: Strategic Planning** 
-  - Create a comprehensive blockchain governance solution and develop a detailed project plan.
+  - Create a blockchain governance solution and develop a project plan.
   - Time Commitment: 20-25 hours/week.
   - Outcome: A professional project proposal.
 

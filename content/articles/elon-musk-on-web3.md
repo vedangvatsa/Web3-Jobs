@@ -91,7 +91,7 @@ Invest 4-8 weeks in learning blockchain fundamentals. Focus on:
 Determine skills based on your desired role:
 - **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
 - **Product Managers:** Understand token economics, protocol governance, and user growth in Web3
-- **Business Development:** Analyze markets, develop partnership strategies, and navigate the regulatory landscape
+- **Business Development:** Analyze markets, develop partnership strategies, and manage the regulatory environment
 - **Community/Operations:** Focus on community engagement, Discord management, and governance practices
 
 #### Step 3: Build Your Portfolio
@@ -111,7 +111,7 @@ The Web3 community is highly accessible:
 - Attend local Web3 meetups
 
 #### Step 5: Apply Strategically
-Target positions that leverage your existing skills along with new Web3 knowledge:
+Target positions that use your existing skills along with new Web3 knowledge:
 - As a backend engineer, look for blockchain infrastructure roles
 - As a PM, seek opportunities in protocol product management
 - In sales/business, pursue roles in Web3 business development
@@ -129,7 +129,7 @@ Marcus transitioned from a corporate job to focus on Web3 for six months. Throug
 
 ### Web3-Specific Challenges
 
-**Volatility Risk:** The inherent volatility in the crypto market can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain a financial reserve covering 6-12 months of living expenses, negotiate base salaries in fiat, and ideally join projects with established revenue models or robust treasury support.
+**Volatility Risk:** The inherent volatility in the crypto market can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain a financial reserve covering 6-12 months of living expenses, negotiate base salaries in fiat, and ideally join projects with established revenue models or reliable treasury support.
 
 **Regulatory Uncertainty:** The regulatory environment for blockchain companies is still developing across various jurisdictions. Before joining a project, ensure the team has competent legal counsel and is proactive in engaging with regulators rather than operating in grey areas.
 

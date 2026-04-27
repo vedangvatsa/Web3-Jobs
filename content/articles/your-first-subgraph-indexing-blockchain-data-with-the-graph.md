@@ -251,4 +251,4 @@ A: Historically, bear markets have provided prime opportunities to enter the Web
 - Join well-funded, established protocols with proven revenue streams to navigate the volatility risk associated with the sector. Negotiate base salaries in fiat currency to further mitigate risk.
 - The Web3 community remains remarkably open and supportive, providing access to mentorship programs, educational resources, and active developer networks across all major protocols. 
 
-By approaching your career transition into Web3 with a strategic mindset and leveraging your existing skills, you can thrive in this rapidly evolving industry.
+By approaching your career transition into Web3 with a strategic mindset and using your existing skills, you can thrive in this rapidly evolving industry.

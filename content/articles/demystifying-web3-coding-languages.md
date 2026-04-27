@@ -40,7 +40,7 @@ While Solidity leads in the EVM domain, Rust has gained traction as the preferre
 **Key Characteristics:**
 - Prioritizes memory safety without a garbage collector, achieved via its unique ownership and borrowing system.
 - High performance, comparable to C++.
-- Robust type system and a powerful compiler that identifies many errors at compile time.
+- Strong type system and a powerful compiler that identifies many errors at compile time.
 
 ### The Front-End Foundation: JavaScript/TypeScript
 
@@ -128,7 +128,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Target roles that leverage your existing expertise alongside new Web3 knowledge:
+Target roles that use your existing expertise alongside new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure positions.
 - Product managers should look for protocol product roles.
 - Sales and business professionals should pursue Web3 business development opportunities.

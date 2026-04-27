@@ -65,7 +65,7 @@ Account Abstraction transforms wallets into programmable smart contracts, introd
 
 Despite the advancements presented by EIP-4337, several challenges remain for widespread adoption:
 
-- **Bundler Infrastructure**: Establishing a robust and decentralized network of bundlers is essential for the success of this system.
+- **Bundler Infrastructure**: Establishing a reliable and decentralized network of bundlers is essential for the success of this system.
 
 - **Wallet Adoption**: Users will need to transition from existing EOA wallets to new smart contract wallets. This process will likely unfold gradually, with wallet providers like MetaMask integrating smart account features alongside traditional EOAs.
 
@@ -73,7 +73,7 @@ Despite the advancements presented by EIP-4337, several challenges remain for wi
 
 ### Conclusion
 
-Account Abstraction, particularly through EIP-4337, marks a significant evolution in the Ethereum user experience. By moving past the constraints of EOAs and embracing the flexibility of smart contract wallets, it sets the stage for a new generation of dApps that are more secure, adaptable, and user-friendly. This transformation will take time, but the smart account is on track to become the new standard, simplifying the complexities of blockchain technology and paving the way for the next billion users in the Web3 ecosystem.
+Account Abstraction, particularly through EIP-4337, marks an important evolution in the Ethereum user experience. By moving past the constraints of EOAs and applying the flexibility of smart contract wallets, it sets the stage for a new generation of dApps that are more secure, adaptable, and user-friendly. This transformation will take time, but the smart account is on track to become the new standard, simplifying the complexities of blockchain technology and paving the way for the next billion users in the Web3 ecosystem.
 
 ### Comparison of Wallet Types
 

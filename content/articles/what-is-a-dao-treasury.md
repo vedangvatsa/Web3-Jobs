@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 A [DAO](/what-is-a-dao) treasury represents the combined funds and digital assets owned and managed by a Decentralized Autonomous Organization (DAO). This treasury serves as the financial backbone that supports the DAO's operations, funds its projects, and compensates its contributors. Unlike traditional corporate bank accounts controlled by a select group of executives, a DAO treasury relies on community governance through on-chain mechanisms, allowing all [token](/what-is-a-token) holders to participate in decision-making.
 
-The state of the treasury reflects the overall success and sustainability of the DAO. Its main objective is to secure the project's long-term growth by financing development and other vital operations. Effective treasury management is a critical factor that reveals a DAO's priorities, risk tolerance, and degree of decentralization.
+The state of the treasury reflects the overall success and sustainability of the DAO. Its main objective is to secure the project's long-term growth by financing development and other vital operations. Effective treasury management is a key factor that reveals a DAO's priorities, risk tolerance, and degree of decentralization.
 
 ### Sources of Treasury Funds 
 
@@ -36,7 +36,7 @@ Managing a DAO treasury requires balancing security, efficiency, and decentraliz
 
 Effective treasury management encompasses both security and productive asset deployment. Here are some practical strategies:
 
-- **Diversification:** Relying entirely on the DAO's volatile governance token poses significant risks. A market downturn can drastically reduce the treasury's value. Best practices recommend diversifying a substantial portion into stablecoins to cover operational costs, and investing in more stable blue-chip assets like [ETH](/what-is-ethereum) or [BTC](/what-is-bitcoin).
+- **Diversification:** Relying entirely on the DAO's volatile governance token poses significant risks. A market downturn can drastically reduce the treasury's value. Best practices recommend diversifying a substantial portion into stablecoins to cover operational costs and investing in more stable blue-chip assets like [ETH](/what-is-ethereum) or [BTC](/what-is-bitcoin).
 
 - **Active Management vs. Passive Holding:** DAOs must decide whether to actively manage treasury assets in [DeFi](/what-is-defi) for yield generation or to hold them passively. While active management can yield additional revenue, it also introduces smart contract risks. Each DAO must assess its risk appetite when determining its strategy.
 
@@ -63,7 +63,7 @@ The multisig model carries risks if signers collude or act maliciously. Typicall
 
 **Are DAO treasuries subject to taxes?**
 
-Tax obligations for a DAO depend on various factors. DAOs with a "legal wrapper," such as a foundation, are taxed according to their jurisdiction. DAOs without legal entities face ambiguous tax responsibilities, which can differ based on jurisdiction and activities. Many large DAOs consult legal experts to navigate these regulations.
+Tax obligations for a DAO depend on various factors. DAOs with a "legal wrapper," such as a foundation, are taxed according to their jurisdiction. DAOs without legal entities face ambiguous tax responsibilities, which can differ based on jurisdiction and activities. Many large DAOs consult legal experts to manage these regulations.
 
 **What distinguishes a DAO treasury from the project's market cap?**
 
@@ -71,4 +71,4 @@ Market cap measures the total value of all tokens in circulation (circulating su
 
 ### Conclusion 
 
-Understanding DAO treasury management is essential for professionals in the Web3 space. Effective treasury management not only secures a DAO's financial resources but also ensures that funds are deployed strategically to foster growth and sustainability. By implementing sound practices, such as diversification, transparency, and well-structured governance, DAOs can effectively manage their treasuries. As the Web3 ecosystem continues to evolve, mastering these treasury management skills will enhance your professional standing and contribute to the success of the organization you belong to.
+Understanding DAO treasury management is essential for professionals in the Web3 space. Effective treasury management not only secures a DAO's financial resources but also ensures that funds are deployed strategically to support growth and sustainability. By implementing sound practices, such as diversification, transparency, and well-structured governance, DAOs can effectively manage their treasuries. As the Web3 ecosystem continues to evolve, mastering these treasury management skills will enhance your professional standing and contribute to the success of the organization you belong to.

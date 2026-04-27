@@ -129,7 +129,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 ### Volatility Risk
 
-The crypto market's volatility can threaten job stability, especially within early-stage startups. Professionals entering Web3 should maintain several months of living expenses in reserve. Negotiate base salaries in fiat rather than tokens, and prioritize projects with solid revenue models or robust treasury backing.
+The crypto market's volatility can threaten job stability, especially within early-stage startups. Professionals entering Web3 should maintain several months of living expenses in reserve. Negotiate base salaries in fiat rather than tokens, and prioritize projects with solid revenue models or reliable treasury backing.
 
 ### Regulatory Uncertainty
 

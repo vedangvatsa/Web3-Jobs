@@ -60,7 +60,7 @@ Creating the ideal prompt rarely succeeds on the first attempt. It's an iterativ
 
 Practical experience is the most effective way to learn.
 
-1. **Access a Robust LLM:** Utilize web interfaces for models like ChatGPT, Claude, or Gemini. Familiarize yourself with their responses to various prompts.
+1. **Access a Reliable LLM:** Utilize web interfaces for models like ChatGPT, Claude, or Gemini. Familiarize yourself with their responses to various prompts.
 2. **Assign a Specific Task:** Engage with the model beyond casual conversation. Use it to achieve concrete tasks such as refactoring code, composing marketing emails, or organizing travel plans.
 3. **Iterate Relentlessly:** When outputs fall short, reflect on how you could enhance specificity, identify missing context, or provide better examples.
 4. **Study Advanced Techniques:** Explore advanced prompting methods such as "Chain of Thought" (CoT), which prompts the model to "think step by step," and "ReAct" (Reasoning and Acting), which allows models to utilize external tools.
@@ -117,7 +117,7 @@ In modern careers, these competencies prove foundational. Whether in Web3, tradi
 Web3 teams often operate in distributed environments and require agility. Skills in prompt engineering and communication are vital for:
 - Accelerating product delivery (technical and communication).
 - Effectively addressing ambiguity (problem-solving and learning agility).
-- Fostering trust among colleagues (emotional intelligence).
+- Building trust among colleagues (emotional intelligence).
 - Influencing without formal authority (communication and emotional intelligence).
 
 #### In Your Career Progression
@@ -180,4 +180,4 @@ Yes, they are even more critical within Web3 due to the fast-paced environment, 
 - Applying skills through real projects solidifies understanding.
 - Emotional intelligence serves as a hidden advantage.
 
-Successful professionals in Web3 and other sectors often excel not due to technical brilliance alone but through a commitment to comprehensive skill development. Begin today, maintain consistency, and observe your career flourish.
+Successful professionals in Web3 and other sectors often excel not due to technical brilliance alone but through a commitment to skill development. Begin today, maintain consistency, and observe your career flourish.

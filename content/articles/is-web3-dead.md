@@ -22,7 +22,7 @@ Ignoring the valid criticisms of Web3 would be unwise. The industry faces real c
 
 | Challenge                     | Description                                                                                     |
 |-------------------------------|-------------------------------------------------------------------------------------------------|
-| **User Experience (UX)**      | The experience of interacting with Web3 remains cumbersome. Setting up a [wallet](/how-to-choose-a-crypto-wallet), managing seed phrases, and navigating gas fees complicate the process, deterring mainstream users. Without improvements in UX comparable to top Web2 applications, widespread adoption will remain elusive. |
+| **User Experience (UX)**      | The experience of interacting with Web3 remains cumbersome. Setting up a [wallet](/how-to-choose-a-crypto-wallet), managing seed phrases, and understanding gas fees complicate the process, deterring mainstream users. Without improvements in UX comparable to top Web2 applications, widespread adoption will remain elusive. |
 | **Scalability Issues**        | Despite advancements in [Layer 2 scaling solutions](/guide-to-layer-2s), core blockchains still struggle with speed and cost. These systems aren't yet equipped to handle significant user bases effectively. |
 | **Speculation vs. Utility**   | The last bull market was marked by rampant speculation, particularly in [NFTs](/what-are-nfts) and meme coins, which detracted from genuine utility. This environment has made serious builders and users hesitant to engage. |
 | **Fraud and Exploits**       | The ongoing prevalence of hacks, scams, and protocol exploits has led to substantial losses, exceeding billions in value. Establishing user trust in a "trustless" environment poses a significant challenge. |
@@ -31,7 +31,7 @@ These issues are far from minor; they represent critical barriers the industry m
 
 ### The Bull Case: Recognizing Positive Signals
 
-Despite these challenges, the foundational aspects of the Web3 movement remain robust. The narrative claiming "Web3 is dead" fails to hold up under scrutiny.
+Despite these challenges, the foundational aspects of the Web3 movement remain strong. The narrative claiming "Web3 is dead" fails to hold up under scrutiny.
 
 **1. Rapid Technological Maturation**  
 During market downturns, developers continued to innovate. The pace of core technological advancements over recent years has been remarkable.
@@ -133,7 +133,7 @@ Target roles that align with your existing skills while incorporating your new W
 Alex, a backend engineer with five years of experience at a top tech company, spent three months learning Solidity while working full-time. His contributions to an open-source protocol led to an offer from a major DeFi project, resulting in a substantial salary increase along with significant equity.
 
 ### Product Manager in Web3
-Jessica, a product manager with a background in traditional finance, leveraged her expertise in DeFi. Her understanding of financial products and Web3 technology made her a valuable candidate. Within four weeks, she secured a position at a leading DeFi protocol.
+Jessica, a product manager with a background in traditional finance, used her expertise in DeFi. Her understanding of financial products and Web3 technology made her a valuable candidate. Within four weeks, she secured a position at a leading DeFi protocol.
 
 ### Career Changer Success
 Marcus transitioned from a corporate job to focus on Web3 for six months. Through dedicated learning, networking, and portfolio development, he landed a role leading Developer Relations at a prominent blockchain platform, earning far more than in his previous position.

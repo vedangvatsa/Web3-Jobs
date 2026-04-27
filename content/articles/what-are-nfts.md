@@ -66,7 +66,7 @@ Utility differentiates NFTs that will endure from those that are merely trends. 
 
 ## Implications for Your Career
 
-NFTs offer career opportunities within the [Web3](/what-is-web3) ecosystem. Artists profit by creating NFTs, developers build platforms for minting and trading, marketers promote projects, and community managers foster connections among NFT collectors.
+NFTs offer career opportunities within the [Web3](/what-is-web3) ecosystem. Artists profit by creating NFTs, developers build platforms for minting and trading, marketers promote projects, and community managers support connections among NFT collectors.
 
 While the compensation can be attractive, many NFT projects are speculative or scams. When considering a career in NFTs, assess each project carefully. Ask if the NFT offers genuine utility or if it merely serves as a speculative asset with little long-term value. Consider whether reasonable individuals would want to own the NFT five years down the line or if it is merely a product of temporary hype.
 

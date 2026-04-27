@@ -28,7 +28,7 @@ Understanding how Web3 addresses these issues requires an examination of the key
 
 4. **High Transaction Costs**: Numerous intermediaries, such as brokers, lawyers, banks, and title insurers, participate in property transactions, leading to elevated fees.
 
-5. **Geographic Barriers**: Investing in international properties involves navigating complex legal and logistical challenges, deterring many potential investors.
+5. **Geographic Barriers**: Investing in international properties involves managing complex legal and logistical challenges, deterring many potential investors.
 
 ### The Web3 Solution: Tokenization and Fractional Ownership
 
@@ -50,7 +50,7 @@ This innovative approach yields significant advantages.
 | Enhanced Liquidity        | Tokenized properties can be traded on secondary markets, facilitating quick transactions and immediate liquidity. |
 | Increased Transparency     | Every transaction is recorded on an immutable public blockchain, providing a reliable source of truth for ownership. |
 | Reduced Costs             | Smart contracts automate processes, reducing the need for intermediaries and lowering transaction fees.   |
-| Global Markets            | Tokenization allows for seamless investment across borders, making it easy to invest in properties worldwide. |
+| Global Markets            | Tokenization allows for easy investment across borders, making it simple to invest in properties worldwide. |
 
 1. **Democratized Access**: Web3 eliminates the significant financial barriers that have historically restricted access to real estate investing. Now, anyone can invest in lucrative properties with limited capital.
 
@@ -178,7 +178,7 @@ Bear markets typically present the best opportunities to enter Web3 professional
 
 ### Key Takeaways
 
-- Web3 offers significant compensation premiums, accelerated career growth trajectories, and the chance to contribute to technology reshaping finance, governance, and digital ownership globally.
+- Web3 offers significant compensation premiums, accelerated career growth trajectories, and the chance to contribute to technology changing finance, governance, and digital ownership globally.
 - Most professionals complete a meaningful transition to Web3 within a few months of focused effort. Engineers and product managers typically transition fastest due to the direct applicability of their core skills.
 - Existing domain expertise remains valuable in Web3. Rather than starting from scratch, focus on layering blockchain-specific context onto your established skills.
 - Networking through Discord communities and active engagement on Twitter, combined with visible portfolio projects on GitHub, consistently outperforms formal certifications in securing Web3 roles.

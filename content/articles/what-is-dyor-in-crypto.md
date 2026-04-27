@@ -32,7 +32,7 @@ For professionals pursuing careers in [Web3](/what-is-web3), grasping the concep
 
 Begin with the basics. Identify the problem the project addresses. If it is a DeFi protocol, understand its operational mechanics. For an [NFT](/what-are-nfts) project, clarify the utility of the NFTs involved. If the sole selling point is the promise of rising prices, that signals a potential red flag.
 
-Review the whitepaper or project documentation. Most credible projects provide thorough documentation detailing their functioning. Analyze it critically. Does the information make logical sense? Are claims backed by data or merely hype? Are there clear explanations as to why their methodology is superior to alternatives?
+Review the whitepaper or project documentation. Most credible projects provide detailed documentation detailing their functioning. Analyze it critically. Does the information make logical sense? Are claims backed by data or merely hype? Are there clear explanations as to why their methodology is superior to alternatives?
 
 Investigate the project team. Who are the individuals behind the initiative? What is their professional history? Have they successfully launched products in the past? Do they possess pertinent expertise? Look for concrete evidence of capability. While pseudonymous teams are not inherently problematic, they warrant additional scrutiny.
 
@@ -164,7 +164,7 @@ Marcus left his corporate job and focused exclusively on Web3 for six months. Th
 
 ## Web3-Specific Challenges
 
-**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain a safety net and negotiate base salaries in fiat currency, prioritizing projects with established revenue models or robust treasury backing.
+**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain a safety net and negotiate base salaries in fiat currency, prioritizing projects with established revenue models or reliable treasury backing.
 
 **Regulatory Uncertainty:** The regulatory environment for blockchain companies remains fluid. Before joining a project, ensure the team employs competent legal counsel and actively engages with regulators, rather than operating in ambiguous legal territories.
 

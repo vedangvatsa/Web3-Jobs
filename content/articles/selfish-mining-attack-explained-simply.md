@@ -63,7 +63,7 @@ This creates a "delta" of one block between the secret and public chains. The ou
 * Their secret chain (S1 -> S2) is now two blocks ahead of the public chain (delta = 2).
 * The selfish miner has a guaranteed advantage. Even if the honest miners find a block now, their chain remains only one block long, while the selfish chain is two blocks long.
 * The selfish miner can wait and reveal their longer chain whenever the honest miners publish a block. This invalidates the honest miners' work while allowing the selfish miner to claim rewards for both S1 and S2.
-* By leveraging this strategy, the selfish miner can consistently orphan honest miners' blocks, increasing their revenue beyond what their hash power alone would typically yield.
+* By using this strategy, the selfish miner can consistently orphan honest miners' blocks, increasing their revenue beyond what their hash power alone would typically yield.
 
 ### Why is Selfish Mining a Threat?
 
@@ -96,7 +96,7 @@ A: PoS systems do not face the same risks as PoW in terms of selfish mining sinc
 
 ### Why This Matters 
 
-Understanding selfish mining is vital for professionals in the blockchain space. Grasping the intricacies of this attack enables better decision-making and strategic planning in blockchain projects. Knowledge of these mechanisms can improve security measures and enhance overall project integrity.
+Understanding selfish mining is vital for professionals in the blockchain field. Grasping the intricacies of this attack enables better decision-making and strategic planning in blockchain projects. Knowledge of these mechanisms can improve security measures and enhance overall project integrity.
 
 ### Step-by-Step Guide for Addressing Selfish Mining Risks
 
@@ -138,4 +138,4 @@ Continuously track your progress in mitigating selfish mining risks. Use metrics
 
 ### Conclusion
 
-Selfish mining represents a significant threat to the integrity of blockchain networks. Understanding its mechanics and implications is crucial for professionals in the field. By implementing effective mitigation strategies, miners and blockchain developers can safeguard their networks from this attack. Greater awareness and proactive measures can contribute to a more secure and fair blockchain environment. As you navigate the complexities of the blockchain industry, ensure your knowledge remains current and comprehensive, empowering you to make informed decisions and contribute meaningfully to your projects.
+Selfish mining represents a significant threat to the integrity of blockchain networks. Understanding its mechanics and implications is crucial for professionals in the field. By implementing effective mitigation strategies, miners and blockchain developers can safeguard their networks from this attack. Greater awareness and proactive measures can contribute to a more secure and fair blockchain environment. As you manage the complexities of the blockchain industry, ensure your knowledge remains current and detailed, enabling you to make informed decisions and contribute meaningfully to your projects.

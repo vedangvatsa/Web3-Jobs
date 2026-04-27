@@ -82,7 +82,7 @@ The verifier learns only the essential information (that you are over 18) withou
 
 - **Interoperability:** Ensuring that VCs from one entity can be understood and verified by others requires adherence to universal standards.
 - **Key Management:** The system's security hinges on the holder's ability to manage private keys safely. Improving the user experience related to key management is vital for broader adoption.
-- **Revocation:** Establishing a robust and standardized mechanism for credential revocation is essential for cases where credentials are lost or issued in error.
+- **Revocation:** Establishing a reliable and standardized mechanism for credential revocation is essential for cases where credentials are lost or issued in error.
 
 Verifiable Credentials serve as a foundational technology for a more user-centric internet. They shift identity control from centralized providers to individuals, allowing claims to be verified while preserving privacy. VCs are critical for creating a secure, trustworthy, and equitable digital future.
 
@@ -119,7 +119,7 @@ Tailor your learning based on your desired role:
 
 - **Engineers:** Focus on [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js).
 - **Product Managers:** Understand token economics, protocol governance, and user growth strategies in Web3.
-- **Business Development:** Learn market analysis techniques, partnership strategies, and navigate the regulatory landscape.
+- **Business Development:** Learn market analysis techniques, partnership strategies, and manage the regulatory landscape.
 - **Community/Operations:** Develop skills in community building, Discord management, and governance.
 
 ### Step 3: Build Your Portfolio

@@ -18,7 +18,7 @@ Some patterns of slowdown in developer activity are not only harmless but also i
 
 Bitcoin serves as the most prominent example of this phenomenon.
 
-- The Bitcoin Core codebase exhibits extraordinary stability. 
+- The Bitcoin Core codebase exhibits stability. 
 - Rapid commits could pose risks to the protocol's integrity. 
 - Development priorities include:
   - Strengthening security
@@ -39,7 +39,7 @@ Ecosystems often evolve in a predictable manner:
 
 **Phase 1:** Establish the core protocol  
 **Phase 2:** Harden and stabilize the protocol  
-**Phase 3:** Foster innovation at the application layer
+**Phase 3:** Encourage innovation at the application layer
 
 Ethereum exemplifies this transition:
 

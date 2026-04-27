@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## The First 90 Days: A Strategic Plan
 
-Your first 90 days in a new role can significantly impact your overall success within the organization. This period is essential for forming first impressions, understanding the company culture, and establishing your credibility as a valuable team member. 
+Your first 90 days in a new role can significantly impact your overall success within the organization. This period is essential for forming first impressions, understanding the company culture, and establishing your credibility as a valuable team member.
 
 You benefit from a "learning period" where asking questions and making mistakes is expected. This grace period typically spans 30 to 90 days. Use this time wisely to gather information and build relationships.
 
@@ -20,7 +20,7 @@ A structured approach will help you maximize this time. Below is a detailed brea
 
 ## Phase 1: Days 1-30 (Learning and Orientation)
 
-The primary objective for the first 30 days is to absorb information and foster foundational relationships. You should view yourself as a sponge, ready to soak in everything around you.
+The primary objective for the first 30 days is to absorb information and build foundational relationships. You should view yourself as a sponge, ready to soak in everything around you.
 
 ### Week 1: Orientation and Setup
 - Set up essential systems and tools, including your computer, email, and required software access.
@@ -35,7 +35,7 @@ The primary objective for the first 30 days is to absorb information and foster 
 - Arrange one-on-ones with key team members and cross-functional partners.
 - Ask about expectations, success metrics, current priorities, working styles, and team dynamics during these meetings.
 - Take detailed notes to capture insights.
-- Begin mapping out the organizational structure and understanding the political landscape.
+- Begin mapping out the organizational structure and understanding the political environment.
 
 ### Weeks 3-4: Initial Contributions
 - Volunteer for small, well-defined tasks that allow you to contribute without creating bottlenecks.
@@ -66,7 +66,7 @@ Transition from pure learning to actively demonstrating your value. With a found
 
 ### Weeks 9-12: Establishing Patterns
 - Take on a stretch project that challenges you to learn something new while demonstrating ambition.
-- Foster strong working relationships with a few key colleagues you will interact with frequently.
+- Build strong working relationships with a few key colleagues you will interact with frequently.
 - Begin saying "no" strategically to tasks that do not align with your core responsibilities.
 - Shape your role based on your strengths and the team's needs, making adjustments as necessary.
 
@@ -151,6 +151,6 @@ Feeling ramped up around the 120-day mark is typical. Continue on your current t
 
 Your first 90 days are crucial for setting the tone of your tenure within the organization. These days offer an opportunity to invest in your long-term success, relationship building, and overall contribution.
 
-Approach this period with a strategic mindset. Focus on building trust, learning continuously, contributing thoughtfully, observing the culture, and fostering relationships. Remember that this grace period allows for learning and mistakes. Use it wisely to establish a solid foundation for your future at the company. 
+Approach this period with a strategic mindset. Focus on building trust, learning continuously, contributing thoughtfully, observing the culture, and building relationships. Remember that this grace period allows for learning and mistakes. Use it wisely to establish a solid foundation for your future at the company. 
 
 The framework provided serves as a guideline, but flexibility is key. Adapt your approach based on your company's culture and pace. Whether you are in a fast-moving startup or a more established enterprise, these principles can guide you in making a meaningful impact from day one.

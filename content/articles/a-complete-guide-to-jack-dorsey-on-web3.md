@@ -17,9 +17,9 @@ This article examines Jack Dorsey's views, focusing on his unwavering support fo
 
 ### From Twitter to Block: A Path Toward Decentralization
 
-Dorsey's professional journey emphasizes his commitment to open communication and financial networks. At Twitter, he created a platform for global dialogue. At Block, he developed tools designed to empower small businesses and individuals in the digital economy.
+Dorsey's professional journey emphasizes his commitment to open communication and financial networks. At Twitter, he created a platform for global dialogue. At Block, he developed tools designed to help small businesses and individuals in the digital economy.
 
-His foray into cryptocurrency aligns seamlessly with his previous work. Dorsey perceives Bitcoin as the next logical evolution: a global, open, permissionless monetary network not controlled by any single entity or nation. This conviction prompted him to resign from his role as CEO of Twitter in 2021, allowing him to dedicate more resources to Block and its Bitcoin-centric projects. The rebranding of Square to Block underscores this commitment.
+His foray into cryptocurrency aligns with his previous work. Dorsey perceives Bitcoin as the next logical evolution: a global, open, permissionless monetary network not controlled by any single entity or nation. This conviction prompted him to resign from his role as CEO of Twitter in 2021, allowing him to dedicate more resources to Block and its Bitcoin-centric projects. The rebranding of Square to Block underscores this commitment.
 
 ## Core Thesis: Bitcoin as the Foundation of Web3
 
@@ -31,7 +31,7 @@ He asserts that much of what is labeled "Web3" lacks true decentralization. Inst
 
 1. **Venture Capital (VC) Influence:** Dorsey’s foremost critique points to the dominance of venture capital firms in the "Web3" ecosystem, particularly Andreessen Horowitz (a16z). He famously stated, "You don't own 'web3.' The VCs and their LPs do. It will never escape their incentives." He argues that since VCs hold significant equity stakes in the companies building "Web3" infrastructure and control substantial amounts of their [tokens](/what-is-a-token), these networks do not genuinely serve users' interests and instead cater to their financial backers.
 
-2. **A Different Kind of Control:** Dorsey believes that "Web3" does not represent a new paradigm but merely rebrands the existing one. Users transition from being governed by corporations like Facebook and Google to being subject to the control of VCs. This shift does not liberate users; they simply find themselves under the influence of a different centralized authority.
+2. **A Different Kind of Control:** Dorsey believes that "Web3" does not represent a new model but merely rebrands the existing one. Users transition from being governed by corporations like Facebook and Google to being subject to the control of VCs. This shift does not liberate users; they simply find themselves under the influence of a different centralized authority.
 
 3. **Complexity and New Centralization:** He contends that the intricate nature of technologies such as Ethereum and its various Layer 2 solutions introduces new points of centralization. The complexity of these systems complicates verification for average users, compelling them to rely on a select group of expert developers and infrastructure providers.
 
@@ -46,7 +46,7 @@ Dorsey believes the internet requires a native currency, one that is not subject
 | Attribute                | Description                                                                                       |
 |--------------------------|---------------------------------------------------------------------------------------------------|
 | **Immaculate Origins**   | Bitcoin had no pre-mine or ICO, and its creator, Satoshi Nakamoto, remains anonymous. This neutrality contrasts sharply with many other tokens, where insiders received substantial allocations. |
-| **True Decentralization**| Bitcoin boasts the most decentralized and robust mining network, ensuring security and resistance to censorship. |
+| **True Decentralization**| Bitcoin boasts the most decentralized and reliable mining network, ensuring security and resistance to censorship. |
 | **Simplicity and Stability** | The Bitcoin protocol is straightforward, resilient, and evolves slowly, making it a reliable foundation for future developments. |
 
 ### 2. "Web5": A Decentralized Identity and Data Layer Built on Bitcoin
@@ -65,4 +65,4 @@ Web5 aims to establish a web where users retain ownership of their identity and 
 
 Jack Dorsey occupies a distinctive position in the Web3 discussion as a resolute advocate for Bitcoin. He serves as a counterweight to the hype and commercialization surrounding the broader "Web3" ecosystem. His critiques, particularly those targeting the role of venture capital, compel the industry to confront challenging questions about the authenticity of decentralization.
 
-While some may dismiss his views as overly restrictive, his influence is significant. Through his efforts at Block and TBD, Dorsey actively invests in and develops an alternative vision for a decentralized future, one firmly anchored in Bitcoin's principles and protocols. His unwavering philosophy positions him as a key figure influencing the internet's trajectory, prompting conversations about the true meaning of decentralization and the potential of Bitcoin in shaping the digital landscape.
+While some may dismiss his views as overly restrictive, his influence is significant. Through his efforts at Block and TBD, Dorsey actively invests in and develops an alternative vision for a decentralized future, one firmly anchored in Bitcoin's principles and protocols. His unwavering philosophy positions him as a key figure influencing the internet's trajectory, prompting conversations about the true meaning of decentralization and the potential of Bitcoin in shaping the digital field.

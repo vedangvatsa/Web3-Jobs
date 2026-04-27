@@ -83,7 +83,7 @@ Focus on developing core human skills rather than a specific major perceived as 
 
 **Q3: My job contains repetitive tasks. Should I be concerned?**
 
-Most jobs include some repetitive elements. Instead of worrying, view AI as a tool to automate those tasks, allowing you to concentrate on more strategic and fulfilling work. Identify tasks that can be automated and consider how to leverage that time to add value elsewhere.
+Most jobs include some repetitive elements. Instead of worrying, view AI as a tool to automate those tasks, allowing you to concentrate on more strategic and fulfilling work. Identify tasks that can be automated and consider how to use that time to add value elsewhere.
 
 **Q4: What distinguishes automation from augmentation?**
 
@@ -133,4 +133,4 @@ Understanding these dynamics is essential for career advancement. Professionals 
 
 ### Conclusion
 
-Professionals equipped with essential human skills will thrive in the evolving job market. Emphasizing these abilities will not only ensure job security but also lead to more fulfilling career paths. The partnership between humans and AI represents an opportunity to harness the strengths of both, paving the way for innovation and growth in the workplace. By prioritizing these skills, you can position yourself for long-term success in your career.
+Professionals equipped with essential human skills will thrive in the evolving job market. Emphasizing these abilities will not only ensure job security but also lead to more fulfilling career paths. The partnership between humans and AI represents an opportunity to use the strengths of both, paving the way for innovation and growth in the workplace. By prioritizing these skills, you can position yourself for long-term success in your career.
