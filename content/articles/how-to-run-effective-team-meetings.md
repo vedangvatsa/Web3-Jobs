@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Introduction: The High Cost of Bad Meetings
 
-Meetings are one of the most expensive activities a company undertakes. When you gather eight people in a room for an hour, you are not just spending one hour of company time; you are spending eight hours. If those meetings are unproductive, unfocused, or unnecessary, the cost to the organization is enormous, both in termss of wasted salary and lost productivity.
+Meetings are one of the most expensive activities a company undertakes. When you gather eight people in a room for an hour, you are not just spending one hour of company time; you are spending eight hours. If those meetings are unproductive, unfocused, or unnecessary, the cost to the organization is enormous, both in terms of wasted salary and lost productivity.
 
 Bad meetings are a plague on the modern workplace. They are energy vampires that leave attendees feeling drained and wondering what the point was. On the other hand, a well-run meeting can be a powerful tool. It can create alignment, solve complex problems, build morale, and accelerate progress.
 
@@ -102,7 +102,7 @@ The meeting leader is responsible for ensuring that the action items are complet
 
 ## Conclusion
 
-Running effective team meetings is a hallmark of a great leader and a highly effective professional. It requires a disciplined approach to preparation, active facilitation during the meeting, and diligent follow-up afterward. By treating meetings as the expensive and valuable tool that they are, you can improving how them from a source of frustration into a powerful engine for progress and alignment within your team.
+Running effective team meetings is a hallmark of a great leader and a highly effective professional. It requires a disciplined approach to preparation, active facilitation during the meeting, and diligent follow-up afterward. By treating meetings as the expensive and valuable tool that they are, you can improve how they function from a source of frustration into a powerful engine for progress and alignment within your team.
 
 ### Frequently Asked Questions (FAQ)
 
@@ -112,7 +112,7 @@ A1: This is a delicate situation. The best approach is to respectfully acknowled
 
 **Q2: What is a good length for a meeting?**
 
-A2: The default meeting length in most calendar software is 60 minutes. This is usually too long. Challenge yourself to schedule 25-minute or 50-minute meetings. This shorter duration forces you to be more focused and also gives attendees a small buffer to get to their next meeting.
+A2: The default meeting length in most calendar software is 60 minutes. This is usually too long. Challenge yourself to schedule shorter meetings. This shorter duration forces you to be more focused and also gives attendees a small buffer to get to their next meeting.
 
 **Q3: How do you run a brainstorming meeting effectively?**
 

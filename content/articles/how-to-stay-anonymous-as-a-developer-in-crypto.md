@@ -35,8 +35,8 @@ Your [blockchain](/what-is-a-blockchain) transactions are publicly accessible, m
 
 - **Fresh Wallets:** Set up new [crypto wallets](/how-to-choose-a-crypto-wallet) (e.g., on MetaMask) dedicated to your pseudonymous endeavors.
 - **Anonymous Wallet Funding:** Funding your new wallet anonymously is challenging. Consider these methods:
-  - **Avoid Centralized Exchanges:** Do not transfer crypto from accounts at centralized exchanges (like Coinbase or Binance) that associate with your real name. This creates a permanent link.
-  - **Utilize Privacy Protocols (Mixers):** Employ a mixer such as Tornado Cash (be aware of legal implications) to break the on-chain link. Withdraw crypto from an exchange to a "burner" wallet, send it through the mixer, then withdraw to your anonymous wallet.
+  - **Avoid Centralized Exchanges:** Do not transfer crypto from accounts at centralized exchanges that associate with your real name. This creates a permanent link.
+  - **Utilize Privacy Protocols (Mixers):** Employ a mixer (be aware of legal implications) to break the on-chain link. Withdraw crypto from an exchange to a "burner" wallet, send it through the mixer, then withdraw to your anonymous wallet.
   - **Compensation for Anonymous Work:** A straightforward method to fund an anonymous wallet is to receive payment for pseudonymous contributions, such as completing a [DAO](/what-is-a-dao) bounty.
 
 - **Separate Wallets:** Maintain distinct wallets for "doxxed" and "anon" activities. Never transfer funds directly between wallets tied to your real name and your anonymous wallet.
@@ -57,7 +57,7 @@ Off-chain activities can also expose your identity.
 
 High-profile anonymous founders often use more advanced privacy techniques.
 
-- **Anonymous LLCs:** Forming legal entities, such as a Wyoming LLC, can afford greater privacy in project ownership. This requires legal expertise.
+- **Anonymous LLCs:** Forming legal entities can afford greater privacy in project ownership. This requires legal expertise.
 - **DAOs and Multisigs:** Projects can operate through a DAO with pseudonymous multi-signature wallet holders managing finances, distributing control and minimizing risks.
 
 ### The Trade-offs of Anonymity
@@ -80,7 +80,7 @@ The dynamics of the Web3 job market differ markedly from Web2:
 
 | **Aspect**                  | **Web2**                     | **Web3**                        |
 |-----------------------------|-------------------------------|----------------------------------|
-| **Compensation**            | Standard salaries              | 20-40% higher than Web2 roles    |
+| **Compensation**            | Standard salaries              | Generally higher than Web2 roles    |
 | **Work Environment**        | Often in-office               | Primarily remote, offering flexibility |
 | **Career Progression**      | Slower, structured             | Rapid, due to scaling and talent shortages |
 | **Equity Opportunities**    | Limited                        | Common, with significant growth potential |
@@ -140,7 +140,7 @@ Target roles that utilize your existing expertise alongside your new Web3 knowle
 
 #### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while continuing his job. His contributions to an open-source protocol attracted a major DeFi project, resulting in a transition that included a 50% salary increase and equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while continuing his job. His contributions to an open-source protocol attracted a major DeFi project, resulting in a transition that included a significant salary increase and equity.
 
 #### Product Manager in Web3
 
@@ -148,13 +148,13 @@ Jessica, a product manager from traditional finance, leveraged her expertise in 
 
 #### Career Changer Success
 
-Marcus transitioned from a corporate role to focus on Web3 for six months. Through consistent learning, networking, and portfolio building, he secured a position leading Developer Relations at a significant blockchain platform, with compensation significantly higher than his previous job.
+Marcus transitioned from a corporate role to focus on Web3 for six months. Through consistent learning, networking, and portfolio building, he secured a position leading Developer Relations at a notable blockchain platform, with compensation significantly higher than his previous job.
 
 ### Web3-Specific Challenges
 
 Professionals in Web3 face unique challenges:
 
-- **Volatility Risk:** The crypto market's volatility can affect job stability, particularly at early-stage startups. Maintain 6-12 months of living expenses in reserve, negotiate base salaries in fiat currency, and target projects with established revenue models.
+- **Volatility Risk:** The crypto market's volatility can affect job stability, particularly at early-stage startups. Maintain several months of living expenses in reserve, negotiate base salaries in fiat currency, and target projects with established revenue models.
   
 - **Regulatory Uncertainty:** The evolving regulatory landscape for blockchain companies necessitates due diligence. Ensure that the project team has competent legal counsel and engages proactively with regulators.
 
@@ -168,7 +168,7 @@ Professionals in Web3 face unique challenges:
 A: No. The Web3 ecosystem demands a variety of roles beyond engineering. Marketing managers, community leads, product designers, legal experts, operations specialists, and business development professionals are all in high demand. Existing skills translate well; you simply need to add Web3 context, such as understanding wallets, DAOs, and the importance of decentralization.
 
 **Q: How much can I earn in Web3?**  
-A: Compensation in Web3 consistently exceeds that of Web2. Base salaries generally run 30-60% higher on average, especially for Solidity engineers and smart contract auditors, who command significant premiums due to talent shortages. Total compensation packages often include signing bonuses, equity, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 annually.
+A: Compensation in Web3 consistently exceeds that of Web2. Base salaries generally run higher on average, especially for Solidity engineers and smart contract auditors, who command significant premiums due to talent shortages. Total compensation packages often include signing bonuses, equity, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn substantial annual salaries.
 
 **Q: Is it risky to transition to Web3?**  
 A: Transitioning careers always carries risk, and Web3 is no exception due to market volatility and project lifecycles. Manage this risk by targeting well-funded, established protocols with proven revenue, verifying team credibility, and ensuring your base salary is in fiat currency rather than solely in tokens. Professionals who approach Web3 as a legitimate career move, rather than a quick wealth scheme, tend to build sustainable roles that endure market fluctuations.
@@ -181,7 +181,7 @@ A: Historical trends show that bear markets present excellent opportunities for 
 
 ### Key Takeaways
 
-- Web3 offers significant compensation advantages (20-40% above Web2 roles), accelerated career growth, and the chance to contribute to technology that transforms finance, governance, and digital ownership globally.
+- Web3 offers significant compensation advantages above Web2 roles, accelerated career growth, and the chance to contribute to technology that transforms finance, governance, and digital ownership globally.
 - Most professionals can make a successful transition to Web3 within 2-6 months of focused effort, particularly those in engineering and product management.
 - Existing domain expertise is invaluable in Web3. Rather than starting anew, layer blockchain-specific knowledge onto your current skill set.
 - Networking through Discord and Twitter, coupled with visible projects on GitHub, typically proves more effective than formal certifications for securing Web3 roles.

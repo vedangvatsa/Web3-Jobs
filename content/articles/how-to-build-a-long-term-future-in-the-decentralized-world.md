@@ -79,8 +79,8 @@ Monitor your progress. Are you achieving your desired results? Adapt your strate
 
 | Name  | Role                   | Challenge                     | Solution                          | Outcome                         |
 |-------|------------------------|-------------------------------|-----------------------------------|----------------------------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with smart contract security | Implemented best practices and advanced learning | Improved contract security metrics by 40% in 3 months |
-| Juan  | DeFi Product Manager   | Faced challenges in project management | Adopted agile methodologies and community feedback | Increased project delivery speed by 30% |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Struggled with smart contract security | Implemented best practices and advanced learning | Improved contract security metrics significantly in 3 months |
+| Juan  | DeFi Product Manager   | Faced challenges in project management | Adopted agile methodologies and community feedback | Increased project delivery speed significantly |
 | Maya  | Transitioning from Web2 to Web3 | Adjusting to new technology | Engaged in community learning and mentorship | Successfully launched a Web3 product within 6 months |
 
 ### Common Mistakes to Avoid
@@ -94,7 +94,7 @@ Monitor your progress. Are you achieving your desired results? Adapt your strate
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Most individuals see initial results within 2 to 4 weeks of consistent application. Significant improvements typically manifest within 8 to 12 weeks. The timeline varies based on your starting point, daily practice commitment, and feedback-seeking efforts. Professionals who actively track their progress often advance more quickly than those who rely on passive observation. Treating implementation as a structured project yields better outcomes.
+A: Most individuals see initial results within a few weeks of consistent application. Significant improvements typically manifest within a couple of months. The timeline varies based on your starting point, daily practice commitment, and feedback-seeking efforts. Professionals who actively track their progress often advance more quickly than those who rely on passive observation. Treating implementation as a structured project yields better outcomes.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often possess more agency than it appears. Start with self-contained actions that do not require organizational approval, such as personal projects or individual habits. Build momentum gradually instead of waiting for permission. Document your progress and the results you generate. If, after sustained efforts, the environment still hinders your development, consider seeking opportunities in a more supportive setting.

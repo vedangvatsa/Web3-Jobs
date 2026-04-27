@@ -28,7 +28,7 @@ Begin by identifying a DAO that aligns with your interests and passions. You'll 
     - **[DeFi](/what-is-defi):** Investigate governance forums for protocols like Aave, Uniswap, or MakerDAO.
     - **Media:** Consider DAOs like BanklessDAO or Forefront.
     - **Investing:** Look into investment DAOs such as FlamingoDAO or MetaCartel.
-- **Use DAO Discovery Tools:** Websites like DeepDAO and DAOlist.io provide extensive directories of DAOs, including statistics about their treasury size and member activity.
+- **Use DAO Discovery Tools:** Websites like DeepDAO and DAOlist.io provide extensive directories of DAOs, including information about their treasury size and member activity.
 - **Start with One or Two:** Focus on one or two DAOs initially. Engage deeply with these communities to maximize your contributions.
 
 ### Step 2: Lurk, Listen, and Learn
@@ -59,8 +59,8 @@ After establishing your presence through initial contributions, consider taking 
 
 As you consistently provide value through bounties and community engagement, you will gain trust within the DAO, opening doors to larger opportunities.
 
-- **Join a Guild or Working Group:** Many DAOs have semi-formal working groups focused on specific functions, such as Marketing or Treasury. Your proven track record will increase your chances of joining one of these teams, which often come with a monthly stipend for ongoing contributions.
-- **Write a Grant Proposal:** If you identify a significant problem needing resolution, draft a formal proposal to the DAO's governance requesting a grant for 3-6 months to address the issue. A successful grant proposal marks a major achievement.
+- **Join a Guild or Working Group:** Many DAOs have semi-formal working groups focused on specific functions, such as Marketing or Treasury. Your proven track record will increase your chances of joining one of these teams, which often come with a stipend for ongoing contributions.
+- **Write a Grant Proposal:** If you identify a significant problem needing resolution, draft a formal proposal to the DAO's governance requesting a grant for a few months to address the issue. A successful grant proposal marks a major achievement.
 - **Get Hired Full-Time:** As DAOs mature, many are offering full-time, salaried roles for their most critical functions. Your history as a trusted contributor makes you an ideal candidate for these positions. For more information on this transition, refer to our guide on [freelance](/how-to-start-freelancing-for-beginners) versus full-time Web3 career paths.
 
 The career path within a DAO involves progressively increasing engagement. It starts with a simple contribution and can culminate in a full-time role that shapes the future of a decentralized protocol. This meritocratic system welcomes anyone willing to put in the effort and demonstrate their value.
@@ -95,8 +95,8 @@ Regularly evaluate your progress. Are you achieving your desired results? Adapt 
 
 | Name | Role | Challenge | Outcome |
 |------|------|-----------|---------|
-| Sarah | Developer at a blockchain startup | Struggled with project deadlines | Implemented effective time management strategies and improved delivery times by 40% in three months |
-| Juan | Product Manager in DeFi | Faced difficulties in stakeholder communication | Adopted structured communication methods, resulting in a 30% increase in project alignment |
+| Sarah | Developer at a blockchain startup | Struggled with project deadlines | Implemented effective time management strategies and improved delivery times significantly in three months |
+| Juan | Product Manager in DeFi | Faced difficulties in stakeholder communication | Adopted structured communication methods, resulting in increased project alignment |
 | Maya | Transitioned from Web2 to Web3 | Encountered challenges adapting to decentralized work culture | Leveraged community resources and mentorship, achieving a smooth transition within two months |
 
 ### Common Mistakes to Avoid
@@ -114,7 +114,7 @@ Regularly evaluate your progress. Are you achieving your desired results? Adapt 
 ### FAQ
 
 **Q: How long will it take to see results?**  
-A: Initial results often appear within two to four weeks. Significant improvements typically materialize within eight to twelve weeks, depending on your starting position, commitment to practice, and feedback engagement. Individuals who actively monitor their progress using metrics or peer feedback usually advance faster.
+A: Initial results often appear within a few weeks. Significant improvements typically materialize within a couple of months, depending on your starting position, commitment to practice, and feedback engagement. Individuals who actively monitor their progress using metrics or peer feedback usually advance faster.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: You often have more agency than it seems, even in challenging environments. Start with small, self-contained actions that require no external approval. Gradually build momentum, documenting your progress and achievements. If your environment continues to hinder development, it may be time to explore opportunities that better support growth.

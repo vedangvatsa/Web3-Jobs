@@ -32,19 +32,19 @@ A DAO Governance Consultant performs several key functions:
 
 - **Research and Analysis:** Utilizing on-chain data analysis, consultants assess the effectiveness of a DAO's governance model. They examine metrics such as participation rates, alignment of proposals with prior discussions, and concentration of voting power. These insights inform ongoing improvements to governance structures.
 
-- **Crisis Management:** When governance disputes arise—such as disagreements over significant treasury allocations or contested proposals—consultants mediate to help the community reach a consensus on the next steps.
+- **Crisis Management:** When governance disputes arise, such as disagreements over significant treasury allocations or contested proposals, consultants mediate to help the community reach a consensus on the next steps.
 
 ### Importance of Governance Consulting
 
 Effective governance distinguishes between a thriving DAO that remains decentralized and resilient, and one that falls prey to a small group of wealthy holders or becomes neglected by the community. As DAOs manage larger treasuries and make more impactful decisions, the need for expert governance design has surged.
 
-Prominent examples illustrate this point. Aave's governance system, which includes a representative token (AAVE) and intricate voting mechanics, was developed by governance specialists. Likewise, Curve's emphasis on delegation and active community governance demonstrates how sophisticated design enhances community engagement.
+Prominent examples illustrate this point. Aave's governance system, which includes a representative token and intricate voting mechanics, was developed by governance specialists. Likewise, Curve's emphasis on delegation and active community governance demonstrates how sophisticated design enhances community engagement.
 
 ### Getting Started: A 7-Step Roadmap
 
 1. **Study the Theory:** A strong grasp of political science, economics, and game theory is essential. Key readings include "A Citizen's Guide to Distributed Consensus." Familiarize yourself with various voting systems, their strengths, and weaknesses.
 
-2. **Participate Actively:** Join 5-10 established DAOs with active governance. Aave, Curve, Compound, Uniswap, and Arbitrum are good starting points. Engage with every proposal, follow the discussions, and contribute thoughtful comments. Analyze voting patterns and understand the motivations behind decisions.
+2. **Participate Actively:** Join several established DAOs with active governance. Engaging with every proposal, following discussions, and contributing thoughtful comments is crucial. Analyze voting patterns and understand the motivations behind decisions.
 
 3. **Run for Delegate:** Seek a governance delegate role within a protocol you deeply understand. This public position establishes your reputation for informed decision-making. Most DAOs have formal delegate programs that provide onboarding materials. Clearly articulate your delegate platform, outlining your voting philosophy and alignment with the protocol's values.
 
@@ -58,14 +58,11 @@ Prominent examples illustrate this point. Aave's governance system, which includ
 
 ### Effective Governance Models
 
-**Aave's Multi-Tiered Governance:**
-Aave employs a tiered governance system in which proposals must meet specific quorum thresholds and undergo cooling-off periods before on-chain voting. This structure prevents impulsive decisions and encourages community participation.
+**Aave's Multi-Tiered Governance:** Aave employs a tiered governance system in which proposals must meet specific quorum thresholds and undergo cooling-off periods before on-chain voting. This structure prevents impulsive decisions and encourages community participation.
 
-**Curve's Gauge Voting:**
-Curve allows token holders to continuously vote on which liquidity pools receive rewards. This sophisticated mechanism requires governance expertise for both implementation and maintenance, and it has become a standard for other protocols.
+**Curve's Gauge Voting:** Curve allows token holders to continuously vote on which liquidity pools receive rewards. This sophisticated mechanism requires governance expertise for both implementation and maintenance, and it has become a standard for other protocols.
 
-**Arbitrum's Three-Tier System:**
-Arbitrum's governance blends security council oversight with DAO voting and a constitutional framework to protect core values. This hybrid model was designed to prevent governance attacks while sustaining decentralization.
+**Arbitrum's Three-Tier System:** Arbitrum's governance blends security council oversight with DAO voting and a constitutional framework to protect core values. This hybrid model was designed to prevent governance attacks while sustaining decentralization.
 
 ### Essential Skills for Success
 
@@ -85,7 +82,7 @@ Arbitrum's governance blends security council oversight with DAO voting and a co
 
 **Plutocratic Design:** Default 1-token-1-vote systems often concentrate power among affluent holders. Advanced governance designs like quadratic voting or delegation-based systems can mitigate this issue.
 
-**Low Participation:** If only 10% of token holders vote on significant decisions, you do not have effective DAO governance; you have low civic engagement. Consultants must enhance participation through improved communication and a culture of governance involvement.
+**Low Participation:** If only a small percentage of token holders vote on significant decisions, you do not have effective DAO governance; you have low civic engagement. Consultants must enhance participation through improved communication and a culture of governance involvement.
 
 **Ignoring Game Theory:** Voting systems come with incentive structures. Poorly designed voting mechanisms can be exploited, leading to vote buying or manipulation. The most effective governance designs consider these incentives upfront.
 
@@ -95,10 +92,10 @@ DAO governance consulting is a burgeoning field, with compensation varying widel
 
 | Role Description                  | Compensation Range                |
 |-----------------------------------|-----------------------------------|
-| Independent Consultants            | $500 - $3,000 per day            |
-| Protocol Governance Leads          | $150,000 - $250,000 + token allocation |
-| Governance Research (Think Tanks) | $100,000 - $180,000              |
-| DAO Treasury/Operations            | $120,000 - $200,000              |
+| Independent Consultants            | Varies significantly              |
+| Protocol Governance Leads          | Varies significantly              |
+| Governance Research (Think Tanks) | Varies significantly              |
+| DAO Treasury/Operations            | Varies significantly              |
 
 The market currently lacks experienced governance consultants, particularly those with strong backgrounds in political science and game theory.
 

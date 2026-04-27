@@ -53,16 +53,16 @@ A: Focus on being friendly and professional. Genuine friendships will develop ov
 
 ## Making a Great First Impression at Work
 
-Your first impression can set the tone for your entire career at a new company. Research shows that people form judgments about others within the first 7 seconds of meeting them, and that these initial impressions are remarkably persistent. But the good news is that a first impression isn't just one moment-it's built over your first days and weeks. Here's how to make it count strategically.
+Your first impression can set the tone for your entire career at a new company. Research shows that people form judgments about others within the first few seconds of meeting them, and that these initial impressions are remarkably persistent. But the good news is that a first impression isn't just one moment; it's built over your first days and weeks. Here's how to make it count strategically.
 
 ### Why First Impressions Matter So Much
 
 Before we dive into tactics, understand why this matters:
 
-- **Halo Effect:** If people like you initially, they're more forgiving of mistakes
-- **Network Effect:** Your early reputation spreads through the organization
-- **Opportunity Access:** People take chances on those they like and trust
-- **Self-Fulfilling Prophecy:** If people see you as competent and positive, they'll give you opportunities to prove it
+- **Halo Effect:** If people like you initially, they're more forgiving of mistakes.
+- **Network Effect:** Your early reputation spreads through the organization.
+- **Opportunity Access:** People take chances on those they like and trust.
+- **Self-Fulfilling Prophecy:** If people see you as competent and positive, they'll give you opportunities to prove it.
 
 Conversely, a bad first impression is hard to overcome. Someone who decides you're careless or difficult will look for evidence confirming that belief.
 
@@ -73,23 +73,23 @@ See also: **[Building Relationships with Your New Team](building-relationships-w
 Punctuality is the non-negotiable foundation of professionalism.
 
 **For In-Person Roles:**
-- Arrive 5-10 minutes early on your first day
-- Find the office 24 hours in advance to know the traffic/parking situation
-- Dress professionally (match the observed dress code, but slightly more formal)
-- Bring notebook and pen; have your manager's name and direct line
+- Arrive a few minutes early on your first day.
+- Find the office in advance to know the traffic/parking situation.
+- Dress professionally (match the observed dress code, but slightly more formal).
+- Bring a notebook and pen; have your manager's name and direct line.
 
 **For Remote Roles:**
-- Log in 5 minutes before any video call
-- Test your tech setup 30 minutes early (audio, video, internet)
-- Use a professional background or position your desk carefully
-- Eliminate notifications and distractions
+- Log in a few minutes before any video call.
+- Test your tech setup in advance (audio, video, internet).
+- Use a professional background or position your desk carefully.
+- Eliminate notifications and distractions.
 
 **Prepare Before You Start:**
-- Understand what the company does in one sentence
-- Know your manager's name, role, and recent work
-- Research the organizational structure
-- Know 3-5 questions you want answered
-- Identify the team members you'll be working with closely
+- Understand what the company does in one sentence.
+- Know your manager's name, role, and recent work.
+- Research the organizational structure.
+- Know a few questions you want answered.
+- Identify the team members you'll be working with closely.
 
 **Why This Works:**
 When people see you're prepared and punctual, it signals respect and professionalism. You're not asking others to pick up slack because you didn't prepare. This creates immediate trust.
@@ -98,22 +98,22 @@ When people see you're prepared and punctual, it signals respect and professiona
 
 This is perhaps the most underrated aspect of making a good first impression.
 
-**The Ratio:** Aim for 70% listening, 30% speaking in your first weeks.
+**The Ratio:** Aim for a balance of listening and speaking in your first weeks.
 
 **How to Listen Actively:**
 - **Focus completely:** Put away your phone. Make eye contact. Let your mind focus on understanding, not planning your response.
 - **Don't interrupt:** Even if you have something to add, wait. Let them finish. Most people find this remarkable and appreciate it.
-- **Take notes:** This serves multiple purposes-shows engagement, helps you remember, gives you something to reference later.
-- **Pause before responding:** Count to 2 after someone finishes. This gives them space to add more and shows you're thoughtful.
+- **Take notes:** This serves multiple purposes—shows engagement, helps you remember, gives you something to reference later.
+- **Pause before responding:** Count to a few moments after someone finishes. This gives them space to add more and shows you're thoughtful.
 - **Ask follow-up questions:** "Tell me more about that" or "How did you handle that?" shows genuine interest.
 - **Summarize back:** "So if I'm understanding correctly..." confirms understanding and shows you're tracking.
 
 **What NOT to Do:**
-- Don't launch into stories about previous jobs or accomplishments
-- Don't offer unsolicited opinions or criticism
-- Don't try to solve every problem immediately
-- Don't appear bored or distracted
-- Don't interrupt or finish people's sentences
+- Don't launch into stories about previous jobs or accomplishments.
+- Don't offer unsolicited opinions or criticism.
+- Don't try to solve every problem immediately.
+- Don't appear bored or distracted.
+- Don't interrupt or finish people's sentences.
 
 **Why This Works:**
 Most people are desperate to be heard. When you listen genuinely, people feel seen and respected. They open up to you. They decide you're someone worth helping and investing in.
@@ -131,7 +131,7 @@ On your first day:
 - "What's the best way to communicate questions or concerns?"
 
 In your first week:
-- "What does success look like in this role for the first 90 days?"
+- "What does success look like in this role for the first few months?"
 - "Are there specific projects I should get up to speed on first?"
 - "What are the unwritten rules or cultural norms I should know about?"
 - "Who's been in this role before? What did they do well?"
@@ -141,12 +141,12 @@ In your first week:
 - "Why do you do it that way?" (sounds critical)
 - "At my old company, we did..." (sounds like you're comparing negatively)
 - "What's the compensation/benefits policy?" (too transactional too early)
-- Asking the same person the same question twice
+- Asking the same person the same question twice.
 
 **How to Frame Questions:**
-- Do 10 minutes of research first, then ask: "I looked at X and I'm still unclear about Y. Could you help me understand?"
-- Batch related questions: "I have a few questions about the project"
-- Acknowledge their time: "I know you're busy, but when you have 5 minutes..."
+- Do some research first, then ask: "I looked at X and I'm still unclear about Y. Could you help me understand?"
+- Batch related questions: "I have a few questions about the project."
+- Acknowledge their time: "I know you're busy, but when you have a moment..."
 
 Related: **[Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee)** – Deep dive on asking questions strategically.
 
@@ -155,27 +155,27 @@ Related: **[Asking Smart Questions as a New Employee](asking-smart-questions-as-
 Your first impression is largely about the relationships you start building.
 
 **With Your Manager:**
-- Schedule a one-on-one in your first week (if they don't schedule it)
-- Be clear about your goals and desires to improve
-- Ask for feedback regularly
-- Show you're coachable
+- Schedule a one-on-one in your first week (if they don't schedule it).
+- Be clear about your goals and desires to improve.
+- Ask for feedback regularly.
+- Show you're coachable.
 
 **With Your Teammates:**
-- Introduce yourself to each teammate in the first few days
-- Don't wait to be approached-take initiative
-- Remember names and basic facts about them
-- Find something interesting about each person
+- Introduce yourself to each teammate in the first few days.
+- Don't wait to be approached—take initiative.
+- Remember names and basic facts about them.
+- Find something interesting about each person.
 
 **With Adjacent Teams:**
-- Make a list of people you'll need to work with
-- Introduce yourself early, before you need their help
-- Help them understand what you're working on
+- Make a list of people you'll need to work with.
+- Introduce yourself early, before you need their help.
+- Help them understand what you're working on.
 
 **Building Through Action:**
-- Offer genuine help when you see someone struggling
-- Give credit freely
-- Follow through on small commitments
-- Show genuine interest in people's work and lives
+- Offer genuine help when you see someone struggling.
+- Give credit freely.
+- Follow through on small commitments.
+- Show genuine interest in people's work and lives.
 
 **Template for Introduction:**
 > "Hi [Name], I'm [You], the new [role]. I'll be working on [general area]. I wanted to introduce myself and learn a bit about what you do. Do you have a few minutes for a quick chat?"
@@ -186,17 +186,17 @@ Your energy and attitude are immediately noticeable.
 
 **Practical Ways to Show Positivity:**
 - **Smile:** Genuine smiles are infectious. They make you more approachable.
-- **Express Enthusiasm:** Show interest and excitement about the work
-- **Don't Complain:** Everyone has frustrations, but your first days aren't the time to vent
-- **Be Helpful:** Offer to help, volunteer, show you're not waiting to be told what to do
-- **Avoid Negativity:** Don't trash talk previous employers, colleagues, or the industry
+- **Express Enthusiasm:** Show interest and excitement about the work.
+- **Don't Complain:** Everyone has frustrations, but your first days aren't the time to vent.
+- **Be Helpful:** Offer to help, volunteer, show you're not waiting to be told what to do.
+- **Avoid Negativity:** Don't trash talk previous employers, colleagues, or the industry.
 
 **Approachability Tips:**
-- Keep your door/calendar open
-- Use open body language (not crossed arms)
-- Be responsive to messages quickly
-- Participate in optional social events
-- Eat lunch with others rather than alone
+- Keep your door/calendar open.
+- Use open body language (not crossed arms).
+- Be responsive to messages quickly.
+- Participate in optional social events.
+- Eat lunch with others rather than alone.
 
 **Why This Matters:**
 People want to work with people they like. If you're positive and helpful, people will want to include you, help you, and advocate for you. If you're negative or closed-off, they'll keep distance.
@@ -206,17 +206,17 @@ People want to work with people they like. If you're positive and helpful, peopl
 Your appearance is part of your first impression, especially in the first days.
 
 **How to Get It Right:**
-- **Observe Before Day One:** If possible, visit the office or ask about dress code
+- **Observe Before Day One:** If possible, visit the office or ask about dress code.
 - **Dress Slightly More Formal:** On Day 1, err on the side of more formal. You can always dress down after you've established rapport.
-- **Match Your Team:** Understand the team's style and match it (while being one notch more formal initially)
+- **Match Your Team:** Understand the team's style and match it (while being one notch more formal initially).
 - **Industry Matters:** Finance = more formal. Startup = more casual. Adjust accordingly.
 
 **General Guidelines:**
-- Clean, well-fitting clothes
-- Minimal logos or graphics
-- Neat hair and grooming
-- Professional shoes
-- Minimal jewelry/accessories
+- Clean, well-fitting clothes.
+- Minimal logos or graphics.
+- Neat hair and grooming.
+- Professional shoes.
+- Minimal jewelry/accessories.
 
 **After Your First Week:**
 Once you've observed the culture, adjust to match the team's actual norms. The goal is to show you respect the culture, not to be overdressed or underdressed permanently.
@@ -226,36 +226,36 @@ Once you've observed the culture, adjust to match the team's actual norms. The g
 First impressions also come from your work quality.
 
 **From Day One:**
-- Deliver on small commitments exactly as promised
-- Document your work and decisions (shows organization)
-- Ask clarifying questions before starting (shows you understand importance of accuracy)
-- Follow through on action items from conversations
-- Proactively update people on progress
+- Deliver on small commitments exactly as promised.
+- Document your work and decisions (shows organization).
+- Ask clarifying questions before starting (shows you understand importance of accuracy).
+- Follow through on action items from conversations.
+- Proactively update people on progress.
 
 **Create a Positive Track Record:**
-- First task: Get it done well and on time
-- Second task: Ditto
-- Build credibility through consistent small wins
-- Then tackle harder projects
+- First task: Get it done well and on time.
+- Second task: Ditto.
+- Build credibility through consistent small wins.
+- Then tackle harder projects.
 
 ### 8. Respect Boundaries and Hierarchy
 
-Early days, be respectful of rank and boundaries.
+In your early days, be respectful of rank and boundaries.
 
 **What This Means:**
-- Don't skip hierarchy (don't go to the head of department with questions meant for your manager)
-- Don't overstep into other people's domains
-- Respect people's time (don't take 30 minutes when 10 would suffice)
-- Be formal until invited to be casual (you can loosen up later)
+- Don't skip hierarchy (don't go to the head of department with questions meant for your manager).
+- Don't overstep into other people's domains.
+- Respect people's time (don't take more time than necessary).
+- Be formal until invited to be casual (you can loosen up later).
 
 ### 9. Remember Names and Personal Details
 
 This is surprisingly rare and incredibly impactful.
 
 **How to Master This:**
-- Write down names immediately after meeting someone
-- Add a detail: "Sarah-working on [blockchain](/what-is-a-blockchain) security, has a dog named Max"
-- Review your notes before meetings
+- Write down names immediately after meeting someone.
+- Add a detail: "Sarah—working on [blockchain](/what-is-a-blockchain) security, has a dog named Max."
+- Review your notes before meetings.
 - Reference the detail later: "How's Max doing?"
 
 **Why It Works:**
@@ -266,12 +266,12 @@ When someone remembers your name and details about you, they feel significant. T
 Remote makes first impressions harder but not impossible:
 
 **Be Extra Intentional:**
-- Use video in all calls (not just audio)
-- Be more responsive on Slack/Teams
-- Over-communicate about what you're working on
-- Schedule one-on-one video calls, not just group meetings
-- Show up early and stay engaged in virtual meetings
-- Participate in optional social calls
+- Use video in all calls (not just audio).
+- Be more responsive on Slack/Teams.
+- Over-communicate about what you're working on.
+- Schedule one-on-one video calls, not just group meetings.
+- Show up early and stay engaged in virtual meetings.
+- Participate in optional social calls.
 
 **The Advantage:**
 People can't see your outfit or physical mannerisms, so what matters more is your communication, responsiveness, and engagement. You have to be extra intentional, but it's absolutely possible.
@@ -286,16 +286,16 @@ A: Be proactive in communication, keep your camera on during video calls, respon
 
 A: Yes, first impressions aren't final. Recovery strategy:
 1. Acknowledge if appropriate ("I realize I came across as defensive yesterday. That wasn't fair to you.")
-2. Change behavior immediately
-3. Be consistent over time
-4. Get a win or two under your belt
-5. Let time pass (2-3 months of positive behavior shifts perception)
+2. Change behavior immediately.
+3. Be consistent over time.
+4. Get a win or two under your belt.
+5. Let time pass (a few months of positive behavior shifts perception).
 
 People are willing to revise first impressions if they see genuine change.
 
 **Q: Should I try to be friends with everyone immediately?**
 
-A: Focus on being friendly, professional, and genuine. Friendships will develop naturally over time. The initial goal is to build respectful working relationships and show you're someone people want to work with. Authentic friendship can't be forced-it develops through shared experience over time.
+A: Focus on being friendly, professional, and genuine. Friendships will develop naturally over time. The initial goal is to build respectful working relationships and show you're someone people want to work with. Authentic friendship can't be forced—it develops through shared experience over time.
 
 **Q: Is it OK to be yourself, or should I be more formal?**
 
@@ -303,39 +303,39 @@ A: Be a professional version of yourself. You don't need to be someone you're no
 
 **Q: How long does a first impression last?**
 
-A: The initial impression can last months or even years. However, you can shift it with consistent, intentional behavior over 2-4 weeks of interaction. Bad impressions are more sticky than good ones, so it's worth investing in getting it right.
+A: The initial impression can last months or even years. However, you can shift it with consistent, intentional behavior over a few weeks of interaction. Bad impressions are more sticky than good ones, so it's worth investing in getting it right.
 
 ### Your Action Plan for Your First Week
 
 **Day 1:**
-- Arrive early
-- Dress professionally
-- Get organized (notebook, pen, list of questions)
-- Meet your manager
-- Take notes on everything
-- Smile and listen more than you speak
-- Go home and review your notes
+- Arrive early.
+- Dress professionally.
+- Get organized (notebook, pen, list of questions).
+- Meet your manager.
+- Take notes on everything.
+- Smile and listen more than you speak.
+- Go home and review your notes.
 
 **Days 2-5:**
-- Be punctual each day
-- Ask thoughtful questions
-- Listen actively in meetings
-- Introduce yourself to 3-5 teammates
-- Complete your first assignment well and on time
-- Participate in at least one team activity or meeting
-- Follow up with people you met (brief message)
+- Be punctual each day.
+- Ask thoughtful questions.
+- Listen actively in meetings.
+- Introduce yourself to a few teammates.
+- Complete your first assignment well and on time.
+- Participate in at least one team activity or meeting.
+- Follow up with people you met (brief message).
 
 **Week 2:**
-- Schedule one-on-ones with key teammates
-- Get more involved, but still mostly in "learning mode"
-- Deliver on commitments
-- Build on the relationships started in week 1
-- Start building your track record
+- Schedule one-on-ones with key teammates.
+- Get more involved, but still mostly in "learning mode."
+- Deliver on commitments.
+- Build on the relationships started in week 1.
+- Start building your track record.
 
 **By Week 4:**
-- You should have met most key people
-- You should have completed 3-5 meaningful tasks well
-- People should see you as competent, positive, and reliable
-- You should be building toward deeper relationships
+- You should have met most key people.
+- You should have completed a few meaningful tasks well.
+- People should see you as competent, positive, and reliable.
+- You should be building toward deeper relationships.
 
 **Remember:** Your first impression isn't permanent, but it's important. Spend the first month being the best, most professional, most engaged version of yourself. Once people trust and like you, you can relax and be more authentic. The goal is to start strong, then be consistently strong over time.

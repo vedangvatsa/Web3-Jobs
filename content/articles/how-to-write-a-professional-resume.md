@@ -31,7 +31,7 @@ Most professionals benefit from the reverse-chronological format, as it clearly 
 Include a brief summary or objective statement at the top of your resume. This section should encapsulate your skills and career aspirations.
 
 - **Summary Statement:** A 2-3 sentence overview of your skills and experience, ideal for those with work history.
-  - *Example:* "Detail-oriented project manager with over 7 years of experience leading cross-functional teams and delivering projects on time and within budget. Proficient in Agile methodologies and stakeholder engagement."
+  - *Example:* "Detail-oriented project manager with significant experience leading cross-functional teams and delivering projects on time and within budget. Proficient in Agile methodologies and stakeholder engagement."
   
 - **Objective Statement:** A declaration of your career goals, suitable for recent graduates or individuals transitioning careers.
   - *Example:* "Aspiring marketing professional with a Bachelor’s degree in Communications seeking an entry-level marketing role, eager to apply skills in digital marketing and content creation."
@@ -42,8 +42,8 @@ Highlighting achievements rather than just listing job duties is crucial for cre
 
 | Instead of…                                       | Try…                                                                                           |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------|
-| "Responsible for managing the sales team."        | "Increased sales by 30% over one year by implementing a targeted training program for the sales team." |
-| "Conducted customer service training."            | "Improved customer satisfaction ratings from 75% to 90% by developing and executing a new service training module." |
+| "Responsible for managing the sales team."        | "Increased sales significantly over one year by implementing a targeted training program for the sales team." |
+| "Conducted customer service training."            | "Improved customer satisfaction ratings by developing and executing a new service training module." |
 
 Start bullet points with action verbs such as "developed," "managed," or "achieved" to convey a sense of initiative and accomplishment.
 
@@ -113,10 +113,10 @@ Continuously monitor your progress. Are you achieving the desired results? Be pr
 ### Real-World Examples
 
 #### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with her resume until she applied these strategies. Within three months, she saw a 40% increase in interview invitations, leading to a job offer at a leading tech company.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with her resume until she applied these strategies. Within a few months, she saw a significant increase in interview invitations, leading to a job offer at a leading tech company.
 
 #### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), encountered similar issues with his resume. By implementing targeted changes, he successfully landed interviews that resulted in two job offers within one month. His experience illustrates the effectiveness of focusing on achievements.
+Juan, a product manager in [DeFi](/what-is-defi), encountered similar issues with his resume. By implementing targeted changes, he successfully landed interviews that resulted in multiple job offers within a short period. His experience illustrates the effectiveness of focusing on achievements.
 
 #### Example 3
 Maya transitioned from Web2 to Web3, utilizing the outlined approach to adapt her resume. Her success in securing interviews and job offers demonstrates that these strategies apply regardless of background or experience level.

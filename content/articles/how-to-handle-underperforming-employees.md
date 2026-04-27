@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Importance of Addressing Underperformance
 
-Effectively managing underperforming employees is essential for maintaining team morale, productivity, and overall organizational success. Research from Gallup shows that organizations with engaged employees can see up to 21% higher profitability. In [Web3](/what-is-web3) environments, where innovation and collaboration are critical, addressing performance issues can significantly impact project outcomes and team dynamics.
+Effectively managing underperforming employees is essential for maintaining team morale, productivity, and overall organizational success. Research from Gallup shows that organizations with engaged employees can see significantly higher profitability. In [Web3](/what-is-web3) environments, where innovation and collaboration are critical, addressing performance issues can significantly impact project outcomes and team dynamics.
 
 ## Step-by-Step Approach to Manage Underperformance
 
@@ -46,11 +46,11 @@ Regularly evaluate the employee's progress against the goals set in their improv
 
 ### Example 1: Sarah's Transformation in a Blockchain Startup
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in meeting project deadlines. After implementing a structured performance improvement plan, which included setting clear milestones and weekly check-ins, she improved her project completion rate from 60% to 85% within three months. This not only boosted her confidence but also positively impacted the team's overall productivity.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in meeting project deadlines. After implementing a structured performance improvement plan, which included setting clear milestones and weekly check-ins, she improved her project completion rate significantly within three months. This not only boosted her confidence but also positively impacted the team's overall productivity.
 
 ### Example 2: Juan's Achievement as a Product Manager
 
-Juan, a product manager in [DeFi](/what-is-defi), struggled with stakeholder communication. By adopting a feedback-driven approach to his interactions, he gained clarity on project expectations. As a result, his stakeholder satisfaction scores improved from 3.5 to 4.8 within two quarters. His experience highlights the effectiveness of a structured approach to performance management.
+Juan, a product manager in [DeFi](/what-is-defi), struggled with stakeholder communication. By adopting a feedback-driven approach to his interactions, he gained clarity on project expectations. As a result, his stakeholder satisfaction scores improved significantly within two quarters. His experience highlights the effectiveness of a structured approach to performance management.
 
 ### Example 3: Maya's Transition from Web2 to Web3
 
@@ -67,7 +67,7 @@ Maya transitioned from a traditional Web2 environment to a fast-paced Web3 start
 ## Frequently Asked Questions
 
 **Q: How long does it take to see improvement?**  
-A: Initial results often appear within 2 to 4 weeks, with more significant changes typically visible within 8 to 12 weeks. The timeline varies based on the employee's starting point, the intensity of the efforts, and the feedback received. Employees who actively track their progress with metrics and peer input generally achieve faster outcomes.
+A: Initial results often appear within a few weeks, with more significant changes typically visible within a couple of months. The timeline varies based on the employee's starting point, the intensity of the efforts, and the feedback received. Employees who actively track their progress with metrics and peer input generally achieve faster outcomes.
 
 **Q: What if my workplace is resistant to change?**  
 A: In challenging environments, you often have more influence than you realize. Start by making small adjustments that don't require organizational approval, such as refining your personal workflow or initiating informal discussions with coworkers. Build momentum over time, and document your successes. If systemic barriers persist, it may be time to consider a workplace that prioritizes employee development.

@@ -130,7 +130,7 @@ At each career level, the importance of these skills evolves:
 
 - **Junior Level**: Technical skills are crucial; communication begins to gain importance.
 - **Mid Level**: A balance of technical and soft skills is necessary; leadership potential starts to emerge.
-- **Senior Level**: Soft skills account for 70% of effectiveness.
+- **Senior Level**: Soft skills account for a significant portion of effectiveness.
 - **Leadership**: Emotional intelligence and communication dominate.
 
 ### Common Missteps in Skill Development

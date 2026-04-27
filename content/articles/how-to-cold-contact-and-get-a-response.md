@@ -109,11 +109,11 @@ Regularly monitor your outreach efforts. Are you achieving desired results? Modi
 
 **Example 1: Sarah's Transformation**
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with cold outreach until she adopted these strategies. Within three months, she experienced a 50% increase in positive responses to her outreach efforts, leading to new collaborations that enhanced her skill set.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, struggled with cold outreach until she adopted these strategies. Within a few months, she experienced a noticeable increase in positive responses to her outreach efforts, leading to new collaborations that enhanced her skill set.
 
 **Example 2: Juan's Success Story**
 
-Juan, a product manager in DeFi, faced challenges in connecting with key stakeholders. By following this structured outreach framework, he secured a project partnership that resulted in a 30% increase in product adoption within just two months.
+Juan, a product manager in DeFi, faced challenges in connecting with key stakeholders. By following this structured outreach framework, he secured a project partnership that resulted in a significant increase in product adoption within a short period.
 
 **Example 3: Maya's Transition**
 
@@ -134,7 +134,7 @@ Maya, transitioning from Web2 to Web3, effectively applied this outreach approac
 ### FAQ
 
 **Q: How long will it take to see results from these strategies?**  
-A: Most professionals notice initial improvements within 2 to 4 weeks of consistent application. Significant changes typically emerge within 8 to 12 weeks. The timeline depends on your starting point, daily practice, and how actively you seek feedback. Individuals who monitor their progress through metrics or peer feedback generally experience quicker advancements than those who observe passively.
+A: Most professionals notice initial improvements within a few weeks of consistent application. Significant changes typically emerge within a few months. The timeline depends on your starting point, daily practice, and how actively you seek feedback. Individuals who monitor their progress through metrics or peer feedback generally experience quicker advancements than those who observe passively.
 
 **Q: What if my workplace environment doesn't support outreach efforts?**  
 A: Even in challenging environments, you usually have more agency than it seems. Start with small, self-contained actions that don’t require broad organizational support. Focus on individual habits, personal projects, or discussions with like-minded colleagues. Gradually build momentum, documenting your progress and results. If after sustained efforts, the environment hinders your development, that information can guide your career decisions.

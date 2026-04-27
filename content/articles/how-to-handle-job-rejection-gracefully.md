@@ -76,9 +76,9 @@ Every "no" brings you closer to the right "yes." By handling rejection gracefull
 
 To illustrate the impact of handling rejection well, consider these examples:
 
-1. **Sarah, a Developer at a Blockchain Startup**: After receiving a rejection, Sarah responded positively and expressed her interest in future roles. Six months later, the company reached out to her for a different position that was a perfect match. Her professional demeanor left a lasting impression.
+1. **Sarah, a Developer at a Blockchain Startup**: After receiving a rejection, Sarah responded positively and expressed her interest in future roles. Months later, the company reached out to her for a different position that was a perfect match. Her professional demeanor left a lasting impression.
 
-2. **Juan, a Product Manager in DeFi**: Juan faced rejection but maintained a positive outlook. He used the experience to refine his interview skills. When he reapplied months later, he secured a position, demonstrating the value of resilience and continuous improvement.
+2. **Juan, a Product Manager in DeFi**: Juan faced rejection but maintained a positive outlook. He used the experience to refine his interview skills. When he reapplied later, he secured a position, demonstrating the value of resilience and continuous improvement.
 
 3. **Maya, Transitioning from Web2 to Web3**: Maya received a rejection after her first interview in the Web3 space. Instead of giving up, she sought feedback and refined her approach. She successfully landed a role shortly after, showcasing the importance of persistence and adaptability.
 

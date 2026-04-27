@@ -31,7 +31,7 @@ The reverse-chronological format is generally the best choice. Recruiters are ac
 Your resume should include a brief summary or objective statement at the top.
 
 - **Summary Statement**: A 2-3 sentence overview of your skills and experience, ideal for individuals with work experience.  
-  *Example*: "Highly motivated software engineer with over five years of experience in building and scaling web applications. Proficient in JavaScript, React, and Node.js."
+  *Example*: "Highly motivated software engineer with significant experience in building and scaling web applications. Proficient in JavaScript, React, and Node.js."
 
 - **Objective Statement**: A statement that outlines your career goals, suitable for recent graduates or those changing careers.  
   *Example*: "Recent computer science graduate seeking a junior software [developer position](/entry-level-jobs-in-web3) to apply skills in Python and machine learning."
@@ -41,7 +41,7 @@ Your resume should include a brief summary or objective statement at the top.
 Highlighting your accomplishments instead of merely listing job duties is crucial. Quantify your achievements with specific metrics whenever possible.
 
 - **Instead of**: "Responsible for managing the company's social media accounts."
-- **Try**: "Increased the company's Twitter following by 50% in six months and boosted engagement by 25% through an innovative content strategy."
+- **Try**: "Increased the company's Twitter following significantly in six months and boosted engagement through an innovative content strategy."
 
 Start bullet points with strong action verbs such as "developed," "managed," "achieved," and "improved."
 
@@ -113,9 +113,9 @@ Track your progress. Are you achieving desired outcomes? Modify your strategy ba
 
 | Name  | Role             | Achievement                                  | Timeframe       |
 |-------|------------------|----------------------------------------------|-----------------|
-| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Improved application performance by 30% | 3 months         |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Successfully launched a new feature, increasing user retention by 15% | 6 months         |
-| Maya  | Transitioning from Web2 to Web3 | Adapted to new technologies, resulting in a 20% increase in productivity | 4 months         |
+| Sarah | Developer at a [blockchain](/what-is-a-blockchain) startup | Improved application performance significantly | 3 months         |
+| Juan  | Product Manager in [DeFi](/what-is-defi) | Successfully launched a new feature, increasing user retention | 6 months         |
+| Maya  | Transitioning from Web2 to Web3 | Adapted to new technologies, resulting in increased productivity | 4 months         |
 
 These examples illustrate the effectiveness of applying tailored strategies in various roles within the Web3 space.
 
