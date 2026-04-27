@@ -26,13 +26,13 @@ A comprehensive token grant typically includes the following components:
 
 | Component               | Description                                                                                                                                     |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Grant Size**          | The total number of tokens allocated, expressed as a percentage of the total token supply and a USD value at the time of the grant.            |
+| **Grant Size**          | The total number of tokens allocated, expressed as a percentage of the total token supply and a relative value at the time of the grant.            |
 | **Vesting Schedule**    | The timeline over which the employee earns the right to their tokens, usually spanning **four years**.                                         |
 | **Cliff**               | A designated period at the start of the vesting schedule during which no tokens vest, typically a **one-year** cliff.                          |
 
 #### 1. The Grant Size
 
-- **Definition**: The total number of tokens allocated to an individual, often expressed as a percentage of the total token supply and as a USD value at the time of the grant.
+- **Definition**: The total number of tokens allocated to an individual, often expressed as a percentage of the total token supply and as a relative value at the time of the grant.
 - **Considerations**: The grant size must be competitive, reflecting the individual's role, experience, and potential impact on the project. Senior positions, such as engineering leads, generally receive larger grants. Implementing a clear leveling framework ensures fairness and consistency.
 
 #### 2. The Vesting Schedule
@@ -50,15 +50,15 @@ A comprehensive token grant typically includes the following components:
 
 Consider a scenario in which Alice, a senior engineer, joins a new [DeFi](/what-is-defi) protocol. Her offer includes:
 
-- **Base Salary**: $180,000 USD
-- **Token Grant**: 1,000,000 project tokens (valued at $0.40 each, totaling $400,000)
+- **Base Salary**: A competitive salary
+- **Token Grant**: A significant number of project tokens
 - **Vesting Schedule**: Four years with a one-year cliff
 
 **Vesting Breakdown**:
 
 - **Day 1 to Day 364**: Alice's tokens are in the vesting phase; she cannot claim any. If she leaves, she receives nothing.
-- **Day 365 (one-year anniversary)**: The cliff is reached. 250,000 tokens (25% of her grant) immediately vest and become hers.
-- **Month 13 Onwards**: The remaining 750,000 tokens vest linearly over the next 36 months, resulting in a monthly vesting of `750,000 / 36 = 20,833.33` tokens.
+- **Day 365 (one-year anniversary)**: The cliff is reached. A portion of her tokens immediately vest and become hers.
+- **Month 13 Onwards**: The remaining tokens vest linearly over the next 36 months, resulting in a monthly vesting of a calculated amount.
 
 ### Compensation for Part-Time DAO Contributors
 
@@ -71,7 +71,7 @@ For [DAOs that rely on freelance contributors](/hiring-for-a-dao), the compensat
 
 Transparency in communicating token compensation details to candidates and employees is essential.
 
-- **Emphasize the Upside and Risks**: Clarify that the USD value of the grant is contingent on the current price and is subject to high volatility. The real potential lies in the token's value growth alongside the network's success, though this is not guaranteed.
+- **Emphasize the Upside and Risks**: Clarify that the value of the grant is contingent on the current price and is subject to high volatility. The real potential lies in the token's value growth alongside the network's success, though this is not guaranteed.
 - **Explain Tokenomics**: Provide clear documentation about the token's utility, supply schedule, and mechanisms for value accrual. Informed team members tend to be more motivated.
 - **Provide Tax Guidance**: The receipt and sale of tokens carry significant tax implications. While providing tax advice is not feasible, offer resources and encourage employees to consult with a knowledgeable tax professional.
 
@@ -85,15 +85,15 @@ The Web3 sector is undergoing rapid growth, with demand for qualified talent far
 
 The [Web3 job](/web3-jobs-for-beginners) market operates under dynamics distinct from Web2, influenced by the decentralized nature of blockchain organizations and the persistent talent shortage.
 
-| Role Type              | Average Total Compensation (USD) | Notes                                                                                 |
-|------------------------|----------------------------------|---------------------------------------------------------------------------------------|
-| Senior Solidity Engineer| $200,000 - $350,000              | High demand due to scarcity of qualified talent.                                      |
-| Product Manager        | $150,000 - $250,000              | Increasingly essential as protocols scale and require effective product strategies.   |
-| Business Development Lead| $150,000 - $250,000              | Key for forging partnerships and driving growth in Web3 ecosystems.                   |
+| Role Type              | Average Total Compensation | Notes                                                                                 |
+|------------------------|---------------------------|---------------------------------------------------------------------------------------|
+| Senior Solidity Engineer| Competitive compensation   | High demand due to scarcity of qualified talent.                                      |
+| Product Manager        | Competitive compensation   | Increasingly essential as protocols scale and require effective product strategies.   |
+| Business Development Lead| Competitive compensation   | Key for forging partnerships and driving growth in Web3 ecosystems.                   |
 
 ### Compensation
 
-Web3 roles typically offer salaries 20% to 40% higher than their Web2 counterparts. Senior Solidity engineers can earn between $200,000 and $350,000 in total compensation. Product managers and business development leads often see salaries ranging from $150,000 to $250,000. Many compensation packages also include token allocations alongside traditional equity.
+Web3 roles typically offer salaries significantly higher than their Web2 counterparts. Senior Solidity engineers can earn competitive compensation. Product managers and business development leads often see salaries in a similar competitive range. Many compensation packages also include token allocations alongside traditional equity.
 
 ### Remote-First Culture
 
@@ -101,7 +101,7 @@ Most Web3 organizations operate fully or primarily remote, allowing teams to spa
 
 ### Growth Trajectory
 
-Career progression occurs more rapidly in Web3 due to fast-paced company scaling and ongoing talent shortages. Many mid-level professionals find themselves in senior or lead positions within 18 to 24 months of entering the field.
+Career progression occurs more rapidly in Web3 due to fast-paced company scaling and ongoing talent shortages. Many mid-level professionals find themselves in senior or lead positions within a relatively short time of entering the field.
 
 ### Equity Upside
 
@@ -160,11 +160,11 @@ Seek roles that utilize your existing expertise alongside your new Web3 knowledg
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while continuing his day job. He contributed to an open-source protocol, attracting the attention of a major DeFi project. Alex transitioned into a smart contract engineering role with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while continuing his day job. He contributed to an open-source protocol, attracting the attention of a major DeFi project. Alex transitioned into a smart contract engineering role with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 
-Jessica, a product manager with a background in traditional finance, leveraged her expertise in DeFi. Her understanding of financial products, combined with Web3 technology, rendered her highly valuable. Within four weeks, she secured a position at a leading DeFi protocol.
+Jessica, a product manager with a background in traditional finance, leveraged her expertise in DeFi. Her understanding of financial products, combined with Web3 technology, rendered her highly valuable. Within a short time, she secured a position at a leading DeFi protocol.
 
 ### Career Changer Success
 
@@ -194,7 +194,7 @@ The technical learning curve may be steep, especially for non-developers without
 No. The Web3 ecosystem requires more than just engineers. Marketing managers, community leads, product designers, legal professionals, operations specialists, and business development experts are all in high demand. Your existing skills are transferable; you only need to add the Web3 context, such as understanding wallets, DAOs, and the importance of decentralization. Most hiring managers prioritize domain expertise and curiosity about the space over strict blockchain knowledge.
 
 **How much can I earn in Web3?**  
-Web3 compensation consistently exceeds that of Web2 roles. Base salaries are typically 30% to 60% higher on average, with Solidity engineers and smart contract auditors earning the largest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations, which can appreciate significantly. Senior engineers at well-funded protocols regularly earn between $200,000 and $350,000.
+Web3 compensation consistently exceeds that of Web2 roles. Base salaries are typically significantly higher on average, with Solidity engineers and smart contract auditors earning the largest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations, which can appreciate significantly. Senior engineers at well-funded protocols regularly earn competitive compensation.
 
 **Is it risky to transition to Web3?**  
 Every career transition involves risk, and Web3 is no different, given market volatility and project lifecycles. However, you can systematically manage this risk by targeting well-funded, established protocols with proven revenue rather than speculative early-stage projects. Verify that teams have solid track records and ensure your base salary is paid in fiat rather than entirely in tokens. Professionals who approach Web3 as a legitimate career move, rather than a quick financial gain, often build durable roles that withstand market fluctuations.
@@ -203,11 +203,11 @@ Every career transition involves risk, and Web3 is no different, given market vo
 Most professionals can achieve a meaningful transition to Web3 within 2 to 6 months of focused effort. Engineers and product managers typically transition more quickly, as their core skills transfer directly, with the learning curve primarily involving tooling and protocol-specific knowledge. Non-technical roles, such as marketing and community management, can transition in as little as 4 to 8 weeks with concentrated self-study. Engaging actively, such as building a portfolio project or contributing to an open-source protocol, can significantly accelerate the process.
 
 **What if the crypto market crashes?**  
-Bear markets often represent the best time to enter Web3 professionally. As speculative hype diminishes, teams shift their focus back to building real products, which means they prioritize talent over token prices. Infrastructure companies, security firms, and developer tooling providers typically continue hiring regardless of market conditions. Many engineers who built during the 2018–2019 bear market are now among the most sought-after professionals. A market downturn can reduce competition for roles and lead to better equity terms for new hires.
+Bear markets often represent the best time to enter Web3 professionally. As speculative hype diminishes, teams shift their focus back to building real products, which means they prioritize talent over token prices. Infrastructure companies, security firms, and developer tooling providers typically continue hiring regardless of market conditions. Many engineers who built during previous bear markets are now among the most sought-after professionals. A market downturn can reduce competition for roles and lead to better equity terms for new hires.
 
 ## Key Takeaways
 
-- Web3 offers significant compensation premiums, often 20% to 40% above Web2 equivalents, along with accelerated career growth trajectories and opportunities to contribute to transformative technology.
+- Web3 offers significant compensation premiums, often above Web2 equivalents, along with accelerated career growth trajectories and opportunities to contribute to transformative technology.
 - Many professionals can complete a meaningful transition to Web3 within 2 to 6 months of focused effort, with engineers and product managers usually moving fastest due to transferable skills.
 - Existing domain expertise holds high value in Web3. Instead of starting from scratch, focus on integrating blockchain-specific knowledge (wallets, smart contracts, tokenomics, DAOs) into your existing skill set.
 - Networking through Discord communities and engaging on Twitter, combined with visible portfolio projects on GitHub, consistently outperform formal certifications when securing Web3 roles.

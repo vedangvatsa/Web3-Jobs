@@ -23,10 +23,10 @@ This article explains concentrated liquidity, compares it to traditional Automat
 | Aspect                       | Uniswap v2                          | Uniswap v3                               |
 |------------------------------|-------------------------------------|------------------------------------------|
 | Liquidity Distribution       | Uniform across all prices           | Concentrated in specific price ranges    |
-| Capital Efficiency           | Low, much capital sits idle         | High, potential for up to 4000x efficiency |
+| Capital Efficiency           | Low, much capital sits idle         | High, potential for significant efficiency |
 | Management Style             | Passive, set-and-forget             | Active, requires constant monitoring      |
 | Risk Profile                 | Standard impermanent loss           | Increased impermanent loss with tight ranges |
-| Fee Tiers                    | Single fee tier                     | Multiple fee tiers (0.05%, 0.30%, 1.00%) |
+| Fee Tiers                    | Single fee tier                     | Multiple fee tiers (e.g., 0.05%, 0.30%, 1.00%) |
 
 1. **Core Concept**: Concentrated liquidity allows LPs to provide liquidity within specific price ranges of their choice, enhancing capital efficiency.
 2. **Capital Efficiency**: LPs can earn significantly higher fees by concentrating capital around the current price, improving returns on investment.
@@ -38,9 +38,9 @@ This article explains concentrated liquidity, compares it to traditional Automat
 
 To fully appreciate the advantages of concentrated liquidity, we must first examine the traditional model used by Uniswap v2, which is based on the **[constant product formula](/understanding-constant-product-formula)** (`x * y = k`).
 
-In this model, liquidity is uniformly distributed along an infinite price curve. Consequently, LPs’ capital supports trades across all prices, from $0 to infinity. 
+In this model, liquidity is uniformly distributed along an infinite price curve. Consequently, LPs’ capital supports trades across all prices, from zero to infinity. 
 
-However, much of this capital remains unused. For instance, in a stablecoin pair like USDC/DAI, the price typically hovers around $1.00. Funds allocated to support trades at $0.50 or $2.00 do not contribute to fee generation, leading to inefficiency.
+However, much of this capital remains unused. For instance, in a stablecoin pair like USDC/DAI, the price typically hovers around one dollar. Funds allocated to support trades at lower or higher prices do not contribute to fee generation, leading to inefficiency.
 
 ### The Uniswap v3 Solution: Concentrated Liquidity
 
@@ -48,8 +48,8 @@ Uniswap v3 enables LPs to choose the price ranges where their capital will be de
 
 **How it Works:**
 Instead of receiving a standard LP [token](/what-is-a-token) after depositing assets, v3 LPs specify their desired price range.
-*   **Example**: In an [ETH](/what-is-ethereum)/USDC pool with ETH priced at $3,500, an LP might select a range of $3,000 to $4,000 for their liquidity provision.
-*   **Efficiency Gain**: By concentrating their capital in this active trading range, the LP can achieve the same liquidity depth as a v2 LP with significantly less capital. Uniswap estimates that a v3 LP can attain up to **4000x** the capital efficiency of a v2 LP.
+*   **Example**: In an [ETH](/what-is-ethereum)/USDC pool with ETH priced at around $3,500, an LP might select a range of $3,000 to $4,000 for their liquidity provision.
+*   **Efficiency Gain**: By concentrating their capital in this active trading range, the LP can achieve the same liquidity depth as a v2 LP with significantly less capital. Uniswap estimates that a v3 LP can attain up to significant capital efficiency compared to a v2 LP.
 
 When the asset price moves within the specified range, the LP's position remains active and generates trading fees.
 
@@ -58,7 +58,7 @@ This situation presents a significant risk. If the price of ETH falls below $3,0
 *   If the price exceeds $4,000, the entire position converts to the "cheaper" asset, USDC.
 *   If the price falls below $3,000, the LP's position converts entirely to the "more expensive" asset, ETH.
 
-During this inactive period, the position earns **zero fees**. The LP must either wait for the price to return to their selected range or "re-range" their position by withdrawing liquidity and creating a new position based on the current price.
+During this inactive period, the position earns zero fees. The LP must either wait for the price to return to their selected range or "re-range" their position by withdrawing liquidity and creating a new position based on the current price.
 
 ### The Trade-Off: Higher Fees vs. Higher Impermanent Loss
 
@@ -72,7 +72,7 @@ This shift transforms liquidity provision from a passive activity into an active
 
 Concentrated liquidity allows for a new type of order. LPs can establish narrow liquidity positions in ranges that exist entirely above or below the current market price.
 
-*   **Example**: If ETH is priced at $3,500, an LP could provide liquidity in the range of $4,000 to $4,010, using only USDC.
+*   **Example**: If ETH is priced at around $3,500, an LP could provide liquidity in the range of $4,000 to $4,010, using only USDC.
 *   **Functionality**: This position functions as a "limit order." If the price of ETH crosses $4,000, the position becomes active, selling USDC for ETH. The LP can then withdraw the ETH, effectively executing a limit sell order while simultaneously earning fees.
 
 ### Implications for the DeFi Ecosystem

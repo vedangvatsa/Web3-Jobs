@@ -67,7 +67,7 @@ In Web3, your non-technical skills often hold equal importance to your technical
 - **Objective:** A well-structured tokenomic system aligns the incentives of all stakeholders (users, developers, investors) to foster long-term growth and sustainability. Conversely, a poorly designed system can lead to detrimental outcomes.
 - **Required Knowledge:** This competency combines aspects of economics, game theory, and behavioral psychology.
 
-**Learning Resources:** Analyze the token models of successful projects like Ethereum (fee burning) and Curve (vote-escrowed tokens). Consult insights from firms such as Messari and The Tie.
+**Learning Resources:** Analyze the token models of successful projects and consult insights from firms that specialize in blockchain analysis.
 
 ### 6. Technical Writing & Communication
 
@@ -82,7 +82,7 @@ In Web3, your non-technical skills often hold equal importance to your technical
 
 **Importance:** Blockchains serve as open, public databases, presenting opportunities for data analysis.
 
-- **Tools:** Dune Analytics is the primary platform for querying and visualizing on-chain data using SQL.
+- **Tools:** Dune Analytics is a platform for querying and visualizing on-chain data using SQL.
 - **Applications:** Analysts utilize Dune to create dashboards that track key metrics, analyze user behavior, and identify market trends. This data informs product and governance decisions.
 
 **Learning Resources:** Dune offers numerous public dashboards. Begin by forking existing queries and modifying them. Learning SQL will greatly enhance your data manipulation skills.
@@ -94,7 +94,7 @@ In Web3, your non-technical skills often hold equal importance to your technical
 - **Beyond Traditional Marketing:** Paid advertisements often yield minimal results. Successful Web3 marketing focuses on crafting an engaging story and disseminating it organically through the community.
 - **Skill Development:** This requires an innate understanding of internet culture, including how to create memes, write viral tweets, and build a brand that resonates with users.
 
-**Learning Resources:** Engage with Crypto Twitter to observe which narratives succeed and which falter. Examine projects known for their strong meme culture, such as Dogecoin and other recent examples.
+**Learning Resources:** Engage with Crypto Twitter to observe which narratives succeed and which falter. Examine projects known for their strong meme culture.
 
 ### 9. Adaptability & A Hunger for Learning
 
@@ -124,7 +124,7 @@ The dynamics of the Web3 job market differ fundamentally from those of Web2:
 
 | **Aspect**               | **Web2**                         | **Web3**                         |
 |-------------------------|----------------------------------|----------------------------------|
-| **Compensation**        | Base salaries typical             | 20-40% higher than Web2 roles   |
+| **Compensation**        | Base salaries typical             | Generally higher than Web2 roles   |
 | **Remote Culture**      | Hybrid or office-centric          | Fully remote                     |
 | **Career Growth**       | Slower progression                | Rapid advancement due to talent shortages |
 | **Equity Opportunities** | Limited stock options            | Common token and equity packages |
@@ -181,7 +181,7 @@ Target roles that utilize your existing expertise alongside your new Web3 knowle
 
 ### Developer Transitioning to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a leading DeFi project, resulting in a transition that offered a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol attracted the attention of a leading DeFi project, resulting in a transition that offered a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
 
@@ -207,7 +207,7 @@ Marcus transitioned from his corporate job to focus on Web3 for six months. Thro
 A: No. The Web3 ecosystem requires diverse roles beyond engineering, including marketing managers, community leads, product designers, legal counsel, and operations specialists. Your existing skills can transfer; you only need to add Web3 context, such as understanding wallets, DAOs, and the importance of decentralization.
 
 **Q: How much can I earn in Web3?**  
-A: Web3 compensation often exceeds Web2 equivalents. Base salaries are typically 30-60% higher, especially for Solidity engineers and smart contract auditors due to talent scarcity. Total compensation packages frequently include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000.
+A: Web3 compensation often exceeds Web2 equivalents. Base salaries are typically higher, especially for Solidity engineers and smart contract auditors due to talent scarcity. Total compensation packages frequently include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn substantial salaries.
 
 **Q: Is it risky to transition to Web3?**  
 A: Any career transition carries risks; Web3 is no exception due to market volatility and project lifecycles. To mitigate risk, target well-funded, established protocols with proven revenue; verify team credentials; and ensure base salaries are paid in fiat rather than tokens. Professionals who approach Web3 as a career path rather than a speculative play typically build sustainable roles.
@@ -220,7 +220,7 @@ A: Historically, bear markets present excellent opportunities to enter Web3. As 
 
 ## Key Takeaways
 
-- Web3 offers significant compensation premiums, often 20-40% above Web2 equivalents, accelerated career growth, and the chance to contribute to transformative technology.
+- Web3 offers significant compensation premiums, often above Web2 equivalents, accelerated career growth, and the chance to contribute to transformative technology.
 - Most professionals can transition to Web3 within 2-6 months with focused effort, particularly engineers and product managers whose skills transfer easily.
 - Your existing domain expertise is valuable. Instead of starting anew, layer blockchain-specific knowledge onto your current skills.
 - Networking through Discord communities and engaging on Twitter, coupled with visible portfolio projects on GitHub, is often more effective than formal certifications for securing Web3 roles.

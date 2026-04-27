@@ -24,7 +24,7 @@ Typically, a smart home system consists of three key components:
 
 1. **The Device**: The physical item, such as a smart lightbulb or thermostat, that performs its primary function and connects to a network.
   
-2. **The Hub or Controller**: This device acts as the central communication point for your smart devices and links them to the internet. While dedicated hubs like the Samsung SmartThings Hub exist, many users opt for smart speakers with integrated virtual assistants, such as the Amazon Echo (Alexa) or Google Home/Nest (Google Assistant).
+2. **The Hub or Controller**: This device acts as the central communication point for your smart devices and links them to the internet. While dedicated hubs exist, many users opt for smart speakers with integrated virtual assistants, such as the Amazon Echo (Alexa) or Google Home/Nest (Google Assistant).
   
 3. **The App/Interface**: This application allows users to control their devices. Most commonly, it's a smartphone app or web interface where users can turn devices on and off, modify settings, create schedules, and access device information, such as a live video feed from a security camera.
 
@@ -70,7 +70,7 @@ Smart homes provide numerous benefits, but they also present challenges.
 A dedicated hub is not always essential. Many simple setups with Wi-Fi-enabled devices, such as smart plugs or lightbulbs, can be managed directly through their respective apps. A hub becomes vital when you want to control multiple brands or create complex automations.
 
 **2. Are smart homes costly?**
-Costs can vary widely. Starting small with a few smart plugs or a single smart speaker can be affordable, usually under $50. You can expand your system gradually without needing to automate everything at once.
+Costs can vary widely. Starting small with a few smart plugs or a single smart speaker can be affordable. You can expand your system gradually without needing to automate everything at once.
 
 **3. Do smart homes provide financial savings?**
 Smart homes can save money, especially with smart thermostats, which can lower heating and cooling costs. Smart lighting can help reduce electricity bills by ensuring lights are off when not in use. However, many users prioritize convenience over cost savings.
@@ -106,9 +106,9 @@ Regularly evaluate the effectiveness of your smart home setup. Are automations f
 
 ### Real-World Applications
 
-**Example 1**: Sarah, a product developer at a tech startup, struggled with managing her time effectively until she integrated smart home systems. After three months of using smart routines to automate her schedule, she noted a 30% increase in productivity.
+**Example 1**: Sarah, a product developer at a tech startup, struggled with managing her time effectively until she integrated smart home systems. After three months of using smart routines to automate her schedule, she noted a significant increase in productivity.
 
-**Example 2**: Juan, a project manager in a growing startup, faced challenges coordinating team schedules. By implementing smart calendar integrations with his smart home devices, he streamlined his workflow, leading to a 25% improvement in project delivery times.
+**Example 2**: Juan, a project manager in a growing startup, faced challenges coordinating team schedules. By implementing smart calendar integrations with his smart home devices, he streamlined his workflow, leading to a notable improvement in project delivery times.
 
 **Example 3**: Maya, transitioning from traditional to smart home technology, quickly adapted by implementing basic automations. She reported enhanced comfort and efficiency, demonstrating the effectiveness of incremental changes.
 

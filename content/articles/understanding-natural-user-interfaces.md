@@ -23,15 +23,15 @@ Several technologies form the backbone of contemporary NUIs:
 | Technology              | Description                                                                                                           | Key Examples                             |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 | Touch and Gestures     | Users interact directly with devices using touch, implementing gestures like pinching and swiping.                    | Smartphones, tablets, smart appliances   |
-| Voice                  | Allows users to control devices and execute tasks through spoken commands, utilizing Natural Language Processing.       | Amazon Alexa, Google Assistant, Siri     |
-| Gesture Recognition     | Utilizes cameras and sensors to interpret body movements for interaction.                                             | Microsoft Kinect, smart TVs, AR glasses  |
+| Voice                  | Allows users to control devices and execute tasks through spoken commands, utilizing Natural Language Processing.       | Virtual assistants                        |
+| Gesture Recognition     | Utilizes cameras and sensors to interpret body movements for interaction.                                             | Various gaming and smart devices         |
 | Gaze and Eye Tracking   | Tracks a user's eye movements to facilitate interaction, such as selecting objects or controlling a cursor.            | Emerging technology in various devices   |
 
 **Touch and Gestures:** This is the most prevalent form of NUI. From smartphones and tablets to touchscreens in various devices, touch interaction has become standard. Multitouch gestures allow users to manipulate digital content intuitively.
 
-**Voice:** Voice user interfaces (VUIs) represent a significant aspect of NUIs. Virtual assistants like Amazon's Alexa and Google Assistant enable hands-free control of devices and information retrieval. Advanced Natural Language Processing technology helps understand user intent, enhancing the interaction experience.
+**Voice:** Voice user interfaces (VUIs) represent a significant aspect of NUIs. Virtual assistants enable hands-free control of devices and information retrieval. Advanced Natural Language Processing technology helps understand user intent, enhancing the interaction experience.
 
-**Gesture Recognition:** This technology employs cameras or sensors to detect user movements. The Microsoft Kinect exemplified this concept by enabling users to control games through physical gestures. Modern applications include smart TVs and augmented reality systems that utilize hand gestures to interact with virtual elements.
+**Gesture Recognition:** This technology employs cameras or sensors to detect user movements. Various devices exemplify this concept by enabling users to control applications through physical gestures. Modern applications include smart TVs and augmented reality systems that utilize hand gestures to interact with virtual elements.
 
 **Gaze and Eye Tracking:** This emerging technology monitors where users focus their gaze, allowing for swift interactions. It has potential applications in creating interfaces that are especially beneficial for users with mobility challenges.
 
@@ -88,10 +88,10 @@ Track your progress consistently. Assess whether you are achieving desired resul
 ### Real-World Examples of NUI Implementation
 
 **Example 1: Sarah, a Developer in a Blockchain Startup**
-Sarah struggled with application navigation and user experience design until she applied NUI principles. Within three months of focusing on direct manipulation and immediate feedback, her team's user engagement metrics improved by 25%.
+Sarah struggled with application navigation and user experience design until she applied NUI principles. Within three months of focusing on direct manipulation and immediate feedback, her team's user engagement metrics improved significantly.
 
 **Example 2: Juan, a Product Manager in DeFi**
-Juan faced challenges in guiding users through a complex application interface. By integrating voice commands and gesture support, he enhanced user satisfaction and reduced onboarding time by 40%.
+Juan faced challenges in guiding users through a complex application interface. By integrating voice commands and gesture support, he enhanced user satisfaction and reduced onboarding time significantly.
 
 **Example 3: Maya, Transitioning from Web2 to Web3**
 Maya adopted NUI strategies to adapt to a new work environment. By emphasizing progressive learning and immediate feedback, she increased her team’s productivity and collaboration, demonstrating the effectiveness of these principles across different backgrounds.
