@@ -41,7 +41,7 @@ These developers create the user interface for dApps, acting as a bridge between
 
 ### 3. Protocol Engineer
 
-Protocol engineers play a crucial role in building the blockchains themselves—Layer 1 and Layer 2 networks that support dApps.
+Protocol engineers play a crucial role in building the blockchains themselves, Layer 1 and Layer 2 networks that support dApps.
 
 - **Primary Skills:** Expertise in low-level systems languages like **Rust** or **Go**. A strong academic background in computer science, particularly in distributed systems and cryptography, is often required.
 - **Core Focus:** Enhancing the performance, security, and decentralization of core blockchain infrastructure.

@@ -146,7 +146,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**  
-A: No. Web3 encompasses a diverse range of roles beyond engineering. Positions in marketing, community management, product design, legal, and business development are in high demand. Existing skills can transfer directly — you need to incorporate Web3 context, such as understanding wallets, DAOs, and the significance of decentralization. Hiring managers often prioritize domain expertise coupled with genuine curiosity about the space over pure blockchain knowledge.
+A: No. Web3 encompasses a diverse range of roles beyond engineering. Positions in marketing, community management, product design, legal, and business development are in high demand. Existing skills can transfer directly , you need to incorporate Web3 context, such as understanding wallets, DAOs, and the significance of decentralization. Hiring managers often prioritize domain expertise coupled with genuine curiosity about the space over pure blockchain knowledge.
 
 **Q: How much can I earn in Web3?**  
 A: Web3 compensation consistently exceeds Web2 equivalents. Base salaries typically range higher on average, with Solidity engineers and smart contract auditors commanding the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols frequently earn substantial total compensation. Even non-technical roles see substantial pay premiums compared to similar Web2 positions.

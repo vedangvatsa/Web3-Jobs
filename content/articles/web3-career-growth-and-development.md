@@ -92,7 +92,7 @@ Devote time weekly to keep abreast of developments:
 
 ### Explore Related Fields
 
-A "T-shaped" skill set—deep expertise in one area alongside broad knowledge in others—grows increasingly valuable:
+A "T-shaped" skill set, deep expertise in one area alongside broad knowledge in others, grows increasingly valuable:
 
 #### Examples:
 A smart contract developer with insights into:

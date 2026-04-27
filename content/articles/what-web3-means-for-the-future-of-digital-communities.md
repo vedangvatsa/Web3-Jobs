@@ -51,7 +51,7 @@ Web3 empowers communities to build their internal economies.
 
 ### The Shift Towards Community Ownership
 
-The transition to Web3 communities is nascent, with tools still maturing and governance structures evolving. However, the implications are significant. We are shifting from passive users of corporate platforms to active owners of digital communities. This transformation creates a new model for human collaboration—one that emphasizes equity, transparency, and alignment with members' interests. The future of online communities will see users not as mere audiences but as crucial stakeholders.
+The transition to Web3 communities is nascent, with tools still maturing and governance structures evolving. However, the implications are significant. We are shifting from passive users of corporate platforms to active owners of digital communities. This transformation creates a new model for human collaboration, one that emphasizes equity, transparency, and alignment with members' interests. The future of online communities will see users not as mere audiences but as crucial stakeholders.
 
 ## The Web3 Opportunity
 

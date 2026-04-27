@@ -186,7 +186,7 @@ Marcus decided to leave his corporate job to focus exclusively on Web3 for six m
 
 **Do I need to be a blockchain expert to work in Web3?**
 
-No. The Web3 ecosystem requires more than just engineers. Roles in marketing, community management, product design, legal, and operations are in high demand. Existing skills transfer well; adding Web3 context—such as understanding wallets, DAOs, and the importance of decentralization—will enhance your qualifications. Hiring managers often prefer domain expertise combined with genuine curiosity about the space over pure blockchain knowledge.
+No. The Web3 ecosystem requires more than just engineers. Roles in marketing, community management, product design, legal, and operations are in high demand. Existing skills transfer well; adding Web3 context, such as understanding wallets, DAOs, and the importance of decentralization, will enhance your qualifications. Hiring managers often prefer domain expertise combined with genuine curiosity about the space over pure blockchain knowledge.
 
 **How much can I earn in Web3?**
 

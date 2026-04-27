@@ -18,7 +18,7 @@ Understanding the nonce requires grasping the fundamentals of **[Proof-of-Work (
 
 The process unfolds as follows:
 1. A miner collects a set of transactions into a "candidate block."
-2. They combine this block's data—transactions, a timestamp, and the previous block's hash—with a nonce.
+2. They combine this block's data, transactions, a timestamp, and the previous block's hash, with a nonce.
 3. This combined data is then processed through a **[cryptographic hash function](/understanding-transaction-hashing-in-blockchain)**, such as SHA-256 for Bitcoin.
 4. The miner's objective is to find a hash that is below a specific target value set by the network's current **mining difficulty**. This usually requires the hash to start with a designated number of leading zeros.
 

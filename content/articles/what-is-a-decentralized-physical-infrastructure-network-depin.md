@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 Decentralized Physical Infrastructure Networks (DePINs) fundamentally change how we construct and manage real-world infrastructure. They shift reliance from centralized corporations to individuals and small businesses. By using [token](/what-is-a-token) incentives, DePINs motivate participants globally to contribute resources, enabling a more resilient, efficient, and open infrastructure model.
 
-A DePIN operates on a [blockchain](/what-is-a-blockchain)-based network that coordinates the deployment and management of physical hardware. Participants contribute hardware—such as Wi-Fi hotspots, hard drives, or solar panels—and receive rewards in the form of the network's native cryptocurrency. This model generates a self-reinforcing cycle: token incentives attract more hardware deployments, which enhances network capacity and coverage, subsequently drawing more users, increasing token value, and spurring further hardware contributions.
+A DePIN operates on a [blockchain](/what-is-a-blockchain)-based network that coordinates the deployment and management of physical hardware. Participants contribute hardware, such as Wi-Fi hotspots, hard drives, or solar panels, and receive rewards in the form of the network's native cryptocurrency. This model generates a self-reinforcing cycle: token incentives attract more hardware deployments, which enhances network capacity and coverage, subsequently drawing more users, increasing token value, and spurring further hardware contributions.
 
 ### How DePINs Work: The Flywheel Effect
 

@@ -53,7 +53,7 @@ Reach out to your teammates through your manager or directly, depending on your 
 - "Can you share details about your role and current projects?"
 - "How has your experience on this team been so far?"
 - "What advice would you give someone new to the team?"
-- "What’s your preferred communication method—Slack, email, or in-person?"
+- "What’s your preferred communication method, Slack, email, or in-person?"
 - "What challenges is the team currently facing?"
 - "What do you enjoy doing outside of work?" (This helps build rapport.)
 
@@ -113,7 +113,7 @@ Reciprocal support is essential for building solid relationships. Strive to be a
 - **Follow Through**: Deliver on your offers. Unmet promises can damage trust.
 
 #### Example of Offering Help
-> "I noticed you are managing both the presentation and client feedback. I have some bandwidth—would it help if I consolidated that feedback spreadsheet for you?"
+> "I noticed you are managing both the presentation and client feedback. I have some bandwidth, would it help if I consolidated that feedback spreadsheet for you?"
 
 #### Asking for Help
 - **Don’t Hesitate**: Requesting help can strengthen relationships.

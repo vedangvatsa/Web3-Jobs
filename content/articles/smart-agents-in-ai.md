@@ -30,7 +30,7 @@ Smart agents exhibit several distinct traits that differentiate them from tradit
 Smart agents typically function through a process known as the Sense-Think-Act loop:
 
 1. **Sense:** The agent gathers information from its environment. This may involve reading a web page, analyzing financial data, or checking the status of a [smart contract](/what-are-smart-contracts).
-2. **Think:** Based on the information it has collected and its overall objectives, the agent utilizes its AI model—often a Large Language Model—to determine the most effective course of action. This process can involve breaking down larger tasks into smaller, manageable steps.
+2. **Think:** Based on the information it has collected and its overall objectives, the agent utilizes its AI model, often a Large Language Model, to determine the most effective course of action. This process can involve breaking down larger tasks into smaller, manageable steps.
 3. **Act:** After deliberation, the agent executes an action. This could entail clicking a button, executing a script, sending an email, or submitting a transaction to a [blockchain](/what-is-a-blockchain).
 
 Following the action, the agent re-enters the loop, reassessing the environment and planning its next steps.

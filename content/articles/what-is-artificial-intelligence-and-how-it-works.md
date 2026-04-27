@@ -56,7 +56,7 @@ AI is not a distant technology; it is actively transforming industries and influ
 ### Frequently Asked Questions
 
 **1. Will AI eliminate jobs?**  
-AI will reshape the job market, akin to the impacts of the internet and automation. While some roles will become automated, new positions will emerge, particularly in areas requiring creativity, critical thinking, and emotional intelligence—skills AI cannot easily replicate. Many jobs will also see augmentation through AI tools, enhancing productivity and effectiveness.
+AI will reshape the job market, akin to the impacts of the internet and automation. While some roles will become automated, new positions will emerge, particularly in areas requiring creativity, critical thinking, and emotional intelligence, skills AI cannot easily replicate. Many jobs will also see augmentation through AI tools, enhancing productivity and effectiveness.
 
 **2. Can AI exhibit creativity?**  
 AI can generate original art, music, and text through generative models. However, this creativity stems from extensive training on existing human-created content. AI excels at remixing and reinterpreting learned patterns, but whether this constitutes true creativity remains a philosophical debate.

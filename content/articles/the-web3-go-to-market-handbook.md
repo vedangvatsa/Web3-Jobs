@@ -38,7 +38,7 @@ Initiate the GTM strategy from day zero. Transparency from the first line of cod
 
 ### The Airdrop: Your Most Powerful GTM Tool
 
-An airdrop—distributing your project's native token to early users and community members—serves as a vital go-to-market strategy in Web3. A well-structured airdrop achieves two objectives:
+An airdrop, distributing your project's native token to early users and community members, serves as a vital go-to-market strategy in Web3. A well-structured airdrop achieves two objectives:
 
 1. **Kickstarting Decentralization:** It distributes ownership among a diverse group of stakeholders.
 2. **Rewarding Early Adopters:** It creates a viral marketing loop as users engage with your protocol to qualify for the airdrop.
@@ -51,7 +51,7 @@ An airdrop—distributing your project's native token to early users and communi
 
 ## Pillar 2: Tokenomics and Launch Strategy
 
-The design of your token—including its utility, supply, and distribution—forms a cornerstone of your GTM strategy.
+The design of your token, including its utility, supply, and distribution, forms a cornerstone of your GTM strategy.
 
 ### Token Utility: Giving it a Purpose
 
@@ -93,7 +93,7 @@ Traditional marketing avenues, such as Google and Facebook ads, often fall short
 
 ### Composability and Integrations
 
-- **The "Money Lego" Effect:** Composability—the ability for developers to create applications on top of your protocol without permission—represents Web3's unique advantage. Your GTM strategy should promote this.
+- **The "Money Lego" Effect:** Composability, the ability for developers to create applications on top of your protocol without permission, represents Web3's unique advantage. Your GTM strategy should promote this.
 - **Grants Program:** Implement a grants program to support developers interested in building on your protocol.
 - **Integrations:** Pursue partnerships with prominent [DeFi](/what-is-defi) protocols. If your stablecoin gains traction as a collateral type on Aave or if your oracle is integrated by multiple projects, you enhance your project's defensibility.
 

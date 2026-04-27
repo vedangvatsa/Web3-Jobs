@@ -37,7 +37,7 @@ One of the most impactful applications of blockchain is the enhancement of elect
 #### 2. Pharmaceutical Supply Chain Integrity
 
 - **The Solution**: Blockchain technology can establish a transparent and auditable "track and trace" system for pharmaceuticals.
-- **How it Works**: Each drug batch receives a unique serial number, tracked on the blockchain throughout its journey—from manufacturer to distributor, to pharmacy, and finally to the patient. Each transition logs a new entry on the immutable ledger.
+- **How it Works**: Each drug batch receives a unique serial number, tracked on the blockchain throughout its journey, from manufacturer to distributor, to pharmacy, and finally to the patient. Each transition logs a new entry on the immutable ledger.
 - **Impact**: This system verifies drug authenticity and provenance instantly, significantly reducing counterfeit risks within the supply chain. This application exemplifies **[[Web3](/what-is-web3) for logistics](/web3-logistics)**.
 
 #### 3. Clinical Trial Management

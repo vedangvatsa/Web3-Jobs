@@ -37,7 +37,7 @@ Choose a project that genuinely excites you and shows promise for the future. Au
 
 #### Step 2: Identify a Small, Solvable Problem
 
-Your objective is to discover a "pebble in the shoe" — a minor annoyance or gap that persists but may not be prioritized by the core team.
+Your objective is to discover a "pebble in the shoe" , a minor annoyance or gap that persists but may not be prioritized by the core team.
 
 **Ways to Identify Problems:**
 - **Examine the Documentation:** Look for confusing sections, typos, or missing tutorials.

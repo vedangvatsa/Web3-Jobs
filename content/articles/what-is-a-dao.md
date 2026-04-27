@@ -27,7 +27,7 @@ Start with a simple example. Imagine you and some friends want to invest in real
 
 This costs money and time and requires ongoing legal maintenance.
 
-With a DAO, you create a [smart contract](/what-are-smart-contracts) that represents ownership. Each person deposits money and receives tokens proportional to their contribution. These tokens represent voting power. When a decision comes up—like which property to buy—everyone votes. If the majority votes yes, the smart contract automatically executes the purchase.
+With a DAO, you create a [smart contract](/what-are-smart-contracts) that represents ownership. Each person deposits money and receives tokens proportional to their contribution. These tokens represent voting power. When a decision comes up, like which property to buy, everyone votes. If the majority votes yes, the smart contract automatically executes the purchase.
 
 No lawyer needed. No bank needed. No CEO making unilateral decisions. The code handles everything automatically.
 
@@ -90,7 +90,7 @@ This doesn't solve every problem. But it creates fundamentally different incenti
 DAOs depend on smart contracts to function. A smart contract is code that:
 - Automatically executes agreements without intermediaries
 - Cannot be stopped, censored, or modified once deployed
-- Is transparent—everyone can verify the code
+- Is transparent, everyone can verify the code
 - Runs exactly as written
 
 A DAO smart contract might:
@@ -99,21 +99,21 @@ A DAO smart contract might:
 - Automatically execute winning proposals (like transferring treasury funds)
 - Keep a permanent, public record of all governance decisions
 
-This removes human discretion and corruption from decision execution. You don't need to trust a CEO to execute your decision—the code does it automatically.
+This removes human discretion and corruption from decision execution. You don't need to trust a CEO to execute your decision, the code does it automatically.
 
 ## The Challenges and Limitations
 
 DAOs have serious limitations that most discussions gloss over.
 
-**Voter Apathy:** Getting regular people to vote on complex governance decisions is hard. Even in traditional companies with millions of shares outstanding, most shareholders don't vote. DAOs face the same problem. With low voter turnout, a small group can control outcomes. Some DAOs have low participation rates—effectively oligarchies despite being structured as democracies.
+**Voter Apathy:** Getting regular people to vote on complex governance decisions is hard. Even in traditional companies with millions of shares outstanding, most shareholders don't vote. DAOs face the same problem. With low voter turnout, a small group can control outcomes. Some DAOs have low participation rates, effectively oligarchies despite being structured as democracies.
 
 **Whale Concentration:** If a few people hold most of the tokens, they control the DAO regardless of voting percentages. This recreates the power concentration problem that DAOs were supposed to solve. One person with a significant percentage of tokens can often determine outcomes. This is the opposite of decentralization.
 
-**Governance Complexity:** Complex decisions don't benefit from majority voting. Should a software project integrate protocol X or protocol Y? This requires technical judgment and deep expertise. A vote by token holders—many of whom may be pure investors with no technical background—might produce worse outcomes than an expert making the decision.
+**Governance Complexity:** Complex decisions don't benefit from majority voting. Should a software project integrate protocol X or protocol Y? This requires technical judgment and deep expertise. A vote by token holders, many of whom may be pure investors with no technical background, might produce worse outcomes than an expert making the decision.
 
 **Irreversibility:** Once the [blockchain](/what-is-a-blockchain) records a transaction, it's permanent. If a DAO votes to make a bad decision, and the decision gets executed, getting your money back requires another vote and consensus to undo it. This is intentional (immutability = security), but it means DAO decisions have permanence that traditional corporate decisions don't.
 
-**Technical Risk:** Smart contracts can have bugs. A single coding error can cost significant value (and has, repeatedly—the DAO hack in 2016 lost $50 million). Users of DAOs bear this technical risk because blockchain transactions are permanent.
+**Technical Risk:** Smart contracts can have bugs. A single coding error can cost significant value (and has, repeatedly, the DAO hack in 2016 lost $50 million). Users of DAOs bear this technical risk because blockchain transactions are permanent.
 
 **Coordination Problems:** When decisions affect different stakeholders differently, getting consensus is hard. Some token holders might benefit from a decision while others lose. Coordination at scale is genuinely difficult.
 
@@ -134,7 +134,7 @@ Some DAOs are more genuine experiments in distributed decision-making. But even 
 - Off-chain discussions matter more than on-chain votes
 - Core teams retain veto power over major decisions
 
-The most interesting DAOs aren't fully decentralized—they're hybrid structures where some decisions go through governance and others stay with core teams based on what makes sense.
+The most interesting DAOs aren't fully decentralized, they're hybrid structures where some decisions go through governance and others stay with core teams based on what makes sense.
 
 ## Career Opportunities in DAOs
 
@@ -200,4 +200,4 @@ Finding the right balance for each situation is the actual challenge, not pure d
 
 If you're interested in how organizations can work differently, or fascinated by questions of governance and coordination at scale, DAOs offer genuine intellectual challenges. The space is still early, so you'll be working on unsolved problems. That's the appeal and the risk.
 
-A career in DAOs means accepting that most current experiments are imperfect. But the willingness to experiment with how humans coordinate and make decisions is what makes this space compelling. For the right person—someone who enjoys ambiguity, complexity, and working on frontier problems—DAO-focused roles offer unique opportunities to shape how organizations might work in a decentralized future.
+A career in DAOs means accepting that most current experiments are imperfect. But the willingness to experiment with how humans coordinate and make decisions is what makes this space compelling. For the right person, someone who enjoys ambiguity, complexity, and working on frontier problems, DAO-focused roles offer unique opportunities to shape how organizations might work in a decentralized future.

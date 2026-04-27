@@ -54,7 +54,7 @@ You do not need to be a prolific writer, but producing content is an effective w
 
 - **Write What You Know (or Are Learning):** Launch a blog on a Web3-native platform like Mirror or Paragraph.
   - **Project Deep Dives:** Provide detailed breakdowns of your portfolio projects. Discuss the technical challenges faced and the design decisions made.
-  - **Explain a Concept:** As you learn complex topics—such as the EVM's memory model or specific MEV strategies—write posts that simplify the concepts. This reinforces your understanding and offers value to others.
+  - **Explain a Concept:** As you learn complex topics, such as the EVM's memory model or specific MEV strategies, write posts that simplify the concepts. This reinforces your understanding and offers value to others.
 - **Master the Twitter Thread:** Twitter serves as the public square for Web3. Use it to share your work, engage in technical discussions, and build relationships. A well-crafted thread dissecting a complex topic can reach a large audience.
 
 ### Step 4: Network Through Value, Not Asks

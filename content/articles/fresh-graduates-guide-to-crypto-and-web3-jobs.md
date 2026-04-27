@@ -32,7 +32,7 @@ Salaries in the Web3 space are generally higher than those in traditional tech r
 
 ### Transitioning Your Mindset: Focus on Contributions
 
-In the Web3 ecosystem, what you have accomplished holds more weight than what appears on your resume. While a university degree is a strong foundation, it is crucial to create a public portfolio showcasing your "proof of work"—verifiable evidence of your skills and commitment to the industry.
+In the Web3 ecosystem, what you have accomplished holds more weight than what appears on your resume. While a university degree is a strong foundation, it is crucial to create a public portfolio showcasing your "proof of work", verifiable evidence of your skills and commitment to the industry.
 
 ### Step 1: Immerse Yourself in Web3 (The First 30 Days)
 

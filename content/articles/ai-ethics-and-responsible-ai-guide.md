@@ -59,7 +59,7 @@ As AI systems increasingly control critical infrastructure, ensuring their safet
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | **The Problem**      | AI systems can be susceptible to adversarial attacks, where slight modifications to input data can lead to incorrect outputs. For example, a small alteration to an image can mislead a computer vision system. |
 | **The Impact**       | In high-stakes applications, such as autonomous vehicles or medical diagnostics, these failures can have disastrous consequences.     |
-| **The Solution**     | Rigorous testing and red teaming—where teams actively seek vulnerabilities—are essential. Building robust systems that can gracefully handle failures is necessary for safety. |
+| **The Solution**     | Rigorous testing and red teaming, where teams actively seek vulnerabilities, are essential. Building robust systems that can gracefully handle failures is necessary for safety. |
 
 ### Principles of Responsible AI
 
@@ -84,7 +84,7 @@ Users and creators of AI must remain vigilant and ask critical questions. Consid
 Programming AI to be ethical is complex. Ethics vary across cultures and often involve trade-offs among competing values, such as fairness versus accuracy. Developing ethical AI is an ongoing process that requires human oversight throughout design, testing, and implementation.
 
 **2. Who is responsible for AI ethics?**  
-Responsibility for AI ethics is collective. While some organizations appoint dedicated AI ethicists, all individuals involved in AI development—from engineers and product managers to executives—play a role. Additionally, societal factors such as regulation and public discourse shape ethical considerations.
+Responsibility for AI ethics is collective. While some organizations appoint dedicated AI ethicists, all individuals involved in AI development, from engineers and product managers to executives, play a role. Additionally, societal factors such as regulation and public discourse shape ethical considerations.
 
 **3. Are there government regulations for AI?**  
 Governments worldwide are actively working on AI regulations. The European Union has established a comprehensive legal framework governing AI. In the United States, an executive order on AI safety has been issued, with ongoing discussions about further legislation. This area of law is rapidly evolving.

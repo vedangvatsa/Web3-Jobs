@@ -26,7 +26,7 @@ Critics of Litecoin often cite a perceived lack of activity on its GitHub reposi
 
 Litecoin advocates argue for the intentional stability of the protocol. Like Bitcoin, Litecoin prioritizes security, reliability, and predictability over rapid feature implementation. A well-functioning monetary network should maintain a stable foundation, as unnecessary changes can introduce vulnerabilities and consensus issues.
 
-Litecoin has operated for over a decade with exceptional uptime. Fewer commits to the core client can indicate maturity and stability rather than neglect. The focus has shifted from building new features to maintaining and optimizing the existing framework. Analyzing the current commits reveals a focus on security patches, performance enhancements, and minor bug fixes—hallmarks of a mature software project.
+Litecoin has operated for over a decade with exceptional uptime. Fewer commits to the core client can indicate maturity and stability rather than neglect. The focus has shifted from building new features to maintaining and optimizing the existing framework. Analyzing the current commits reveals a focus on security patches, performance enhancements, and minor bug fixes, hallmarks of a mature software project.
 
 ### Core vs. Ecosystem Development
 
@@ -46,7 +46,7 @@ The launch of MWEB in May 2022 represented a substantial milestone for Litecoin.
 
 MWEB operates as an "extension block" alongside the primary Litecoin chain. Users can transfer their LTC into MWEB, where transactions remain confidential. This opt-in approach allows for privacy for users who require it, while not imposing it on all users. This balance supports user choice and regulatory compliance.
 
-The technical implementation includes transaction "cut-through," allowing the removal of intermediate transactions in a block. This feature enhances scalability and reduces data intensity over time, combining privacy with efficiency—an uncommon advantage in the cryptocurrency space.
+The technical implementation includes transaction "cut-through," allowing the removal of intermediate transactions in a block. This feature enhances scalability and reduces data intensity over time, combining privacy with efficiency, an uncommon advantage in the cryptocurrency space.
 
 ### MWEB Adoption and Challenges
 

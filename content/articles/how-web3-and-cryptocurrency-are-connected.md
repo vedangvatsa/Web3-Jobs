@@ -40,7 +40,7 @@ Every transaction on a [smart contract](/what-are-smart-contracts) platform such
 A fundamental promise of Web3 involves shifting from a "renter's internet" to an "owner's internet." Cryptocurrency establishes the native asset class for this new economy.
 
 - **Fungible [Tokens](/what-is-a-token):** These tokens represent currencies and governance within the Web3 ecosystem. They empower users to not only utilize a protocol but also own a stake in its future, akin to shares in a company.
-- **Non-Fungible Tokens (NFTs):** **[NFTs](/what-are-nfts)** utilize blockchain technology to create unique, verifiable digital assets. This innovation allows for authentic ownership of digital items—art, music, in-game items—in ways previously unattainable.
+- **Non-Fungible Tokens (NFTs):** **[NFTs](/what-are-nfts)** utilize blockchain technology to create unique, verifiable digital assets. This innovation allows for authentic ownership of digital items, art, music, in-game items, in ways previously unattainable.
 
 Without cryptocurrency tokens, the concept of a user-owned internet would lack substance. Crypto provides the tangible representation of digital ownership.
 
@@ -143,7 +143,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. The Web3 ecosystem requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal counsel, and business development are in high demand. Your existing skills are relevant—you simply need to integrate Web3 context, such as understanding wallets, DAOs, and the importance of decentralization. Hiring managers often prioritize domain expertise coupled with curiosity about the space.
+A: No. The Web3 ecosystem requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal counsel, and business development are in high demand. Your existing skills are relevant, you simply need to integrate Web3 context, such as understanding wallets, DAOs, and the importance of decentralization. Hiring managers often prioritize domain expertise coupled with curiosity about the space.
 
 **Q: How much can I earn in Web3?**
 A: Web3 compensation consistently surpasses Web2 equivalents. Base salaries typically run higher, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols frequently earn substantial total compensation, while non-technical roles also see significant pay premiums.
@@ -152,7 +152,7 @@ A: Web3 compensation consistently surpasses Web2 equivalents. Base salaries typi
 A: Every career transition carries risk, and Web3 is no different due to market volatility and varying project life cycles. You can systematically manage this risk by aiming for well-funded, established protocols with proven revenue, verifying team backgrounds, and ensuring your base salary is in fiat currency. Professionals who view Web3 as a long-term career move rather than a speculative endeavor often secure stable roles that withstand market fluctuations.
 
 **Q: How long does the transition take?**
-A: Most professionals complete a meaningful transition to Web3 within a few months of dedicated effort. Engineers and product managers tend to transition quickly due to the direct applicability of their core skills. Non-technical roles, such as marketing and community management, can also transition within a couple of months with focused self-study. Active engagement—such as contributing to open-source projects or developing a portfolio—can significantly accelerate the process.
+A: Most professionals complete a meaningful transition to Web3 within a few months of dedicated effort. Engineers and product managers tend to transition quickly due to the direct applicability of their core skills. Non-technical roles, such as marketing and community management, can also transition within a couple of months with focused self-study. Active engagement, such as contributing to open-source projects or developing a portfolio, can significantly accelerate the process.
 
 **Q: What if the crypto market crashes?**
 A: Bear markets often serve as optimal entry points into Web3. As speculative excitement wanes, teams shift focus to developing real products, prioritizing talent over token prices. Companies involved in infrastructure, security, and developer tooling often continue hiring regardless of market conditions. Engineers who built during previous bear markets are now among the most sought-after professionals. Economic downturns reduce competition for roles and can lead to more favorable equity terms for new hires.

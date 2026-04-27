@@ -201,7 +201,7 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 ## FAQ
 
 **Q: How long will it take to see results from implementing these strategies?**  
-A: Many individuals notice initial results within a few weeks of consistent application. Significant improvements usually become evident within a couple of months. The timeline varies based on your starting point, your daily practice commitment, and whether you actively seek feedback. Those who monitor their progress—through metrics, peer assessments, or journaling—typically advance more quickly than those who passively observe.
+A: Many individuals notice initial results within a few weeks of consistent application. Significant improvements usually become evident within a couple of months. The timeline varies based on your starting point, your daily practice commitment, and whether you actively seek feedback. Those who monitor their progress, through metrics, peer assessments, or journaling, typically advance more quickly than those who passively observe.
 
 **Q: What if my workplace doesn’t support this type of initiative?**  
 A: Even in challenging environments, you often have more agency than initially perceived. Start by making small, self-contained actions that do not require broad organizational support. Focus on personal projects or initiate conversations with like-minded colleagues. As you gain momentum, document your progress and results. If, after sustained effort, the environment continues to hinder your development, it may be time to consider a role at an organization that values employee growth.

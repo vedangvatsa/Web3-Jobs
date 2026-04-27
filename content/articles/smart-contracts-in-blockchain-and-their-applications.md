@@ -65,7 +65,7 @@ Smart contracts facilitate parametric insurance products. A flight insurance con
 
 ## Limitations and Risks
 
-Despite their advantages, smart contracts pose significant challenges. Their greatest asset—immutability—can also be a liability. A bug or vulnerability in the code is permanent and can be exploited by hackers, leading to catastrophic and irreversible financial losses. The infamous [DAO](/what-is-a-dao) hack of 2016 exemplifies this risk. Consequently, the role of the **[smart contract security auditor](/smart-contract-auditor-career)** has emerged as one of the most critical and sought-after positions in the Web3 sector. Additionally, integrating smart contracts with real-world data (e.g., weather conditions, price feeds) requires trusted **[oracles](/what-are-oracles)**, introducing potential centralization risks and attack vectors.
+Despite their advantages, smart contracts pose significant challenges. Their greatest asset, immutability, can also be a liability. A bug or vulnerability in the code is permanent and can be exploited by hackers, leading to catastrophic and irreversible financial losses. The infamous [DAO](/what-is-a-dao) hack of 2016 exemplifies this risk. Consequently, the role of the **[smart contract security auditor](/smart-contract-auditor-career)** has emerged as one of the most critical and sought-after positions in the Web3 sector. Additionally, integrating smart contracts with real-world data (e.g., weather conditions, price feeds) requires trusted **[oracles](/what-are-oracles)**, introducing potential centralization risks and attack vectors.
 
 ## The Future of Smart Contracts
 

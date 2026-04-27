@@ -56,7 +56,7 @@ The most effective way to learn is through hands-on experience. No-code tools al
 - **RunwayML**: Ideal for creative applications, it features tools for converting text to images, generating videos from images, and training custom image generators using a drag-and-drop interface.
 - **Teachable Machine by Google**: A user-friendly tool that enables you to train models for image, sound, or pose recognition directly in your browser. It helps illustrate the training process effectively.
 - **ChatGPT and Other LLMs**: Using tools like ChatGPT, Claude, and Gemini allows you to experiment with prompts and observe how different inputs yield varying outputs, offering a practical lesson in model behavior.
-- **Zapier or Make.com**: Automation platforms that integrate deeply with AI. You can create workflows that connect apps using AI—for example, analyzing customer email sentiment and logging the results in a Google Sheet.
+- **Zapier or Make.com**: Automation platforms that integrate deeply with AI. You can create workflows that connect apps using AI, for example, analyzing customer email sentiment and logging the results in a Google Sheet.
 
 **A Simple Project to Kick Off Your Learning**
 

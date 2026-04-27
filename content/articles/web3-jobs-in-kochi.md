@@ -223,7 +223,7 @@ Combining freelance work with KBA projects can yield a competitive salary within
 **Should I focus on technical or non-technical roles?**
 Technical roles, such as Solidity programming or full-stack development, typically offer higher earning potential. While they may take longer to master, the global demand is strong.
 
-Non-technical roles, including research, community management, or product management, allow for quicker entry but generally have lower salary ceilings. A balanced approach is recommended—starting non-technical and transitioning to technical roles as you gain experience.
+Non-technical roles, including research, community management, or product management, allow for quicker entry but generally have lower salary ceilings. A balanced approach is recommended, starting non-technical and transitioning to technical roles as you gain experience.
 
 **Should I consider relocating to Bangalore or Mumbai?**
 It's advisable to remain in Kochi initially. The cost of living is favorable, allowing for substantial savings, and remote work provides access to a broader range of opportunities. Building a local reputation can be beneficial, with relocation as a future option.

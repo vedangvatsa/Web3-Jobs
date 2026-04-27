@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-As [Web3](/what-is-web3) evolves, the initial focus on radical transparency now encounters a pressing need for user privacy. This shift has led to the emergence of a specialized career path known as the **Web3 Privacy Engineer**. These professionals—cryptographers and developers—create systems that ensure confidentiality on public blockchains.
+As [Web3](/what-is-web3) evolves, the initial focus on radical transparency now encounters a pressing need for user privacy. This shift has led to the emergence of a specialized career path known as the **Web3 Privacy Engineer**. These professionals, cryptographers and developers, create systems that ensure confidentiality on public blockchains.
 
 ### The Privacy Engineer's Toolkit
 

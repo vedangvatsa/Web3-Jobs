@@ -82,6 +82,6 @@ Change can be intimidating, but remaining in an unsatisfactory situation is ofte
 
 ### Conclusion
 
-Recognizing the signs that indicate it might be time to leave your job is essential for your career advancement and personal well-being. Each sign highlights a fundamental aspect of job satisfaction—growth, energy, cultural fit, alignment with values, and fair compensation. 
+Recognizing the signs that indicate it might be time to leave your job is essential for your career advancement and personal well-being. Each sign highlights a fundamental aspect of job satisfaction, growth, energy, cultural fit, alignment with values, and fair compensation. 
 
 Take the time to assess your current situation against these criteria. If you find yourself consistently facing these challenges, it may be time to initiate a thoughtful job search. This proactive approach allows you to move toward opportunities that align with your professional goals and personal values, ultimately leading to a more fulfilling career.

@@ -27,7 +27,7 @@ The most significant transition occurring within corporate structures is the mov
 
 In traditional corporations, board meetings are typically private, and strategic decisions remain undisclosed. In contrast, DAOs operate with complete transparency.
 
-- **Implementation:** In protocol DAOs such as Uniswap or Aave, any major decision—whether a software upgrade or fee structure change—must be presented as a public proposal on a governance forum. The community openly debates these proposals, and final decisions occur through public, on-chain votes where each token holder's input is recorded.
+- **Implementation:** In protocol DAOs such as Uniswap or Aave, any major decision, whether a software upgrade or fee structure change, must be presented as a public proposal on a governance forum. The community openly debates these proposals, and final decisions occur through public, on-chain votes where each token holder's input is recorded.
 - **Effect:** This transparency fosters accountability, transforming governance from a secretive process to an open dialogue.
 
 #### 2. Flexible Workforce

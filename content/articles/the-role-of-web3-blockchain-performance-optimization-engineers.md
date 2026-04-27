@@ -41,7 +41,7 @@ To ensure a dApp's frontend operates swiftly, its off-chain backend must functio
 ### How to Get Started
 
 1. **Master the Fundamentals:** A solid foundation in computer science is crucial.
-2. **Specialize:** Choose a specific layer of the blockchain stack—smart contracts, core protocol, or networking—and delve deeply into that area.
+2. **Specialize:** Choose a specific layer of the blockchain stack, smart contracts, core protocol, or networking, and delve deeply into that area.
 3. **Profile and Measure:** Become adept with profiling tools (e.g., `pprof` for Go or `perf` for Rust) and gas reporting tools available in Foundry. You cannot optimize what you cannot measure.
 4. **Contribute to Open Source:** Identify a performance-related issue in an open-source project and submit a pull request with your solution. This practical experience validates your skills effectively.
 

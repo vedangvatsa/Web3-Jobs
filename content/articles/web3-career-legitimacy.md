@@ -51,7 +51,7 @@ While market prices fluctuate, substantial venture capital investment into Web3 
 **4. Transparent and Meritocratic Work Environment**  
 The open-source ethos of Web3 fosters a meritocratic culture.
 
-- **Proof of Work:** Your public contributions—whether code on [GitHub](/building-web3-portfolio), blog analyses, or governance proposals in a DAO—often hold more weight than your [resume](/how-to-build-a-web3-resume-that-stands-out). This enables talented individuals to establish their reputations and seize opportunities without regard to their backgrounds.
+- **Proof of Work:** Your public contributions, whether code on [GitHub](/building-web3-portfolio), blog analyses, or governance proposals in a DAO, often hold more weight than your [resume](/how-to-build-a-web3-resume-that-stands-out). This enables talented individuals to establish their reputations and seize opportunities without regard to their backgrounds.
 - **Ownership Stake:** Token-based compensation means you are not solely an employee but a co-owner of the network you are helping to build. This ownership fosters a strong sense of alignment and mission often absent in traditional corporate roles.
 
 ### A Balanced Perspective on Career Risks and Opportunities

@@ -30,7 +30,7 @@ Several careers will likely remain human-centric for the foreseeable future. Her
 
 #### Healthcare and Personal Care
 
-- **Doctors, Nurses, and Therapists**: The essence of healthcare lies in human interaction. While AI can assist with diagnostics, it cannot replace the empathy and ethical judgment required in patient care. A doctor must convey difficult news compassionately, while a nurse builds trust with families, and a therapist decodes subtle emotional cues—skills beyond programming.
+- **Doctors, Nurses, and Therapists**: The essence of healthcare lies in human interaction. While AI can assist with diagnostics, it cannot replace the empathy and ethical judgment required in patient care. A doctor must convey difficult news compassionately, while a nurse builds trust with families, and a therapist decodes subtle emotional cues, skills beyond programming.
 
 - **Caregivers for Children and the Elderly**: Caring for vulnerable individuals necessitates patience, empathy, and a profound sense of responsibility. This role hinges on human connection, which algorithms cannot replicate.
 
