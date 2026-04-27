@@ -1,5 +1,6 @@
 ---
 name: Trojan Trading
+website: https://trojan.trade
 category: Other
 description: Trojan Trading specializes in trading technology and market-making solutions.
 ---

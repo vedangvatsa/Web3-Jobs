@@ -1,5 +1,6 @@
 ---
 name: Breeze
+website: https://breeze.trade
 category: FinTech
 description: Breeze provides payment solutions for businesses and consumers.
 ---

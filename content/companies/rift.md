@@ -1,5 +1,6 @@
 ---
 name: Rift
+website: https://rift.finance
 category: Developer Tools
 description: Rift develops tools for building decentralized applications.
 ---
