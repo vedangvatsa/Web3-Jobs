@@ -129,7 +129,7 @@ export default async function CompanyPage({ params }: { params: { slug: string }
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">
-          <div className="container mx-auto px-4 py-8 md:py-12 max-w-4xl">
+          <div className="container mx-auto px-4 py-8 md:py-12 max-w-5xl">
             {/* Breadcrumbs */}
             <nav className="text-sm text-muted-foreground mb-6" aria-label="Breadcrumb">
               <Link href="/" className="hover:text-primary">Home</Link>
@@ -139,115 +139,132 @@ export default async function CompanyPage({ params }: { params: { slug: string }
               <span className="text-foreground">{company.name}</span>
             </nav>
 
-            {/* Company Header — Compact */}
+            {/* Company Header */}
             <header className="mb-8">
-              <div className="flex items-start gap-4 mb-4">
-                <div className="bg-primary/10 p-3 rounded-lg shrink-0">
-                  <Building2 className="h-8 w-8 text-primary" />
+              <div className="flex items-start gap-4 mb-2">
+                <div className="bg-primary/10 p-3 rounded-xl shrink-0">
+                  <Building2 className="h-10 w-10 text-primary" />
                 </div>
                 <div className="flex-1 min-w-0">
-                  <h1 className="text-3xl md:text-4xl font-bold mb-1">{company.name}</h1>
-                  {company.description && (
-                    <p className="text-muted-foreground">{company.description}</p>
-                  )}
+                  <h1 className="text-3xl md:text-4xl font-bold">{company.name} Careers</h1>
+                  <div className="flex items-center gap-3 text-sm text-muted-foreground mt-1">
+                    <span className="flex items-center gap-1">
+                      <Briefcase className="h-3.5 w-3.5" />
+                      {company.jobCount} Active Role{company.jobCount !== 1 ? 's' : ''}
+                    </span>
+                    {company.website && (
+                      <OutboundLink
+                        href={company.website}
+                        label={`${company.name} website`}
+                        className="flex items-center gap-1 text-primary hover:underline"
+                      >
+                        <ExternalLink className="h-3.5 w-3.5" />
+                        Website
+                      </OutboundLink>
+                    )}
+                  </div>
                 </div>
-              </div>
-
-              {/* Meta row */}
-              <div className="flex flex-wrap items-center gap-4 text-sm">
-                <Badge variant="default" className="text-sm px-3 py-1">
-                  <Briefcase className="h-3.5 w-3.5 mr-1.5" />
-                  {company.jobCount} position{company.jobCount !== 1 ? 's' : ''}
-                </Badge>
-                {company.category && (
-                  <span className="flex items-center gap-1.5 text-muted-foreground">
-                    <Building2 className="h-3.5 w-3.5" />
-                    {company.category}
-                  </span>
-                )}
-                {company.headquarters && (
-                  <span className="flex items-center gap-1.5 text-muted-foreground">
-                    <MapPin className="h-3.5 w-3.5" />
-                    {company.headquarters}
-                  </span>
-                )}
-                {company.founded && (
-                  <span className="flex items-center gap-1.5 text-muted-foreground">
-                    <Calendar className="h-3.5 w-3.5" />
-                    Est. {company.founded}
-                  </span>
-                )}
-                {company.website && (
-                  <OutboundLink
-                    href={company.website}
-                    label={`${company.name} website`}
-                    className="flex items-center gap-1.5 text-primary hover:underline"
-                  >
-                    <ExternalLink className="h-3.5 w-3.5" />
-                    Website
-                  </OutboundLink>
-                )}
               </div>
             </header>
 
-            {/* About — Only if content exists, rendered inline */}
+            {/* About Card */}
             {company.about && (
-              <section className="mb-8">
+              <div className="border rounded-xl p-5 mb-8 bg-muted/30">
                 <div 
-                  className="text-sm text-muted-foreground leading-relaxed prose prose-sm max-w-none"
+                  className="text-sm text-muted-foreground leading-relaxed"
                   dangerouslySetInnerHTML={{ 
                     __html: company.about
                       .split('\n\n')
-                      .slice(0, 2) // Only first 2 paragraphs to keep it minimal
-                      .map(para => `<p class="mb-2">${para.replace(/\n/g, '<br />')}</p>`)
+                      .slice(0, 3)
+                      .map(para => `<p class="mb-2 last:mb-0">${para.replace(/\n/g, '<br />')}</p>`)
                       .join('') 
                   }} 
                 />
-              </section>
+              </div>
             )}
 
-            {/* Department breakdown — Inline badges */}
+            {/* Stats Bar */}
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8 border rounded-xl p-5">
+              <div>
+                <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Active Roles</div>
+                <div className="text-lg font-bold mt-0.5">{company.jobCount}</div>
+              </div>
+              {company.headquarters && (
+                <div>
+                  <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">HQ</div>
+                  <div className="text-lg font-bold mt-0.5 flex items-center gap-1.5">
+                    <MapPin className="h-4 w-4 text-muted-foreground" />
+                    {company.headquarters}
+                  </div>
+                </div>
+              )}
+              {company.category && (
+                <div>
+                  <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Category</div>
+                  <div className="text-lg font-bold mt-0.5">{company.category}</div>
+                </div>
+              )}
+              {company.founded && (
+                <div>
+                  <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Founded</div>
+                  <div className="text-lg font-bold mt-0.5 flex items-center gap-1.5">
+                    <Calendar className="h-4 w-4 text-muted-foreground" />
+                    {company.founded}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Department breakdown */}
             {Object.keys(jobsByCategory).length > 1 && (
-              <div className="flex flex-wrap gap-2 mb-8">
+              <div className="flex flex-wrap gap-2 mb-6">
                 {Object.entries(jobsByCategory)
                   .sort(([, a], [, b]) => b.length - a.length)
                   .map(([category, jobs]) => (
-                    <Badge key={category} variant="secondary">
+                    <Badge key={category} variant="secondary" className="text-xs">
                       {category}: {jobs.length}
                     </Badge>
                   ))}
               </div>
             )}
 
-            {/* Job Listings — Clean table-like layout */}
-            <section>
-              <h2 className="text-xl font-bold mb-4">
-                Open positions
-                <span className="text-muted-foreground font-normal ml-2">({company.jobCount})</span>
-              </h2>
-              <div className="divide-y border rounded-lg overflow-hidden">
-                {company.jobs.map((job) => (
-                  <div key={job.id} className="flex items-center justify-between gap-4 px-4 py-3 hover:bg-muted/50 transition-colors">
+            {/* Open Roles Header */}
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="text-xl font-bold">Open Roles</h2>
+              <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">
+                {company.jobCount} Job{company.jobCount !== 1 ? 's' : ''} Found
+              </span>
+            </div>
+
+            {/* 2-Column Job Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+              {company.jobs.map((job) => (
+                <div key={job.id} className="border rounded-lg p-4 hover:bg-muted/40 transition-colors flex items-start justify-between gap-3">
+                  <div className="flex items-start gap-3 flex-1 min-w-0">
+                    <div className="bg-primary/10 p-2 rounded-md shrink-0 mt-0.5">
+                      <Briefcase className="h-4 w-4 text-primary" />
+                    </div>
                     <div className="flex-1 min-w-0">
-                      <div className="font-medium truncate">{job.title}</div>
-                      <div className="flex items-center gap-3 text-xs text-muted-foreground mt-0.5">
+                      <div className="font-medium text-sm truncate">{job.title}</div>
+                      <div className="flex items-center gap-2 text-xs text-muted-foreground mt-1">
+                        <span>{company.name}</span>
+                        <span>·</span>
                         <span>{new Date(job.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
-                        <Badge variant="outline" className="text-xs py-0">{categorizeJob(job.title)}</Badge>
                       </div>
                     </div>
-                    <CompanyApplyButton
-                      jobId={job.id}
-                      jobTitle={job.title}
-                      companyName={company.name}
-                      jobUrl={job.link}
-                    />
                   </div>
-                ))}
-              </div>
-            </section>
+                  <CompanyApplyButton
+                    jobId={job.id}
+                    jobTitle={job.title}
+                    companyName={company.name}
+                    jobUrl={job.link}
+                  />
+                </div>
+              ))}
+            </div>
 
             {/* Footer note */}
-            <p className="text-xs text-muted-foreground mt-6">
+            <p className="text-xs text-muted-foreground mt-8">
               Updated {new Date(company.lastUpdated).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}. 
               Jobs aggregated from {company.name}&apos;s career page.
             </p>
