@@ -1,6 +1,6 @@
 ---
 name: Crossmint
-website: https://crossmint.io
+website: https://crossmint.com
 category: Other
 description: Crossmint provides tools for businesses to integrate NFTs into their operations.
 ---

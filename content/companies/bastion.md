@@ -1,6 +1,6 @@
 ---
 name: Bastion
-website: https://bastion.cool
+website: https://bastion.com
 category: Other
 description: Bastion provides a decentralized finance platform for users to manage their assets.
 ---
