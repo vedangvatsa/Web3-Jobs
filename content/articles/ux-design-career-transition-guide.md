@@ -79,7 +79,7 @@ Your [portfolio](/building-web3-portfolio) serves as your most important asset i
 
 Your portfolio should consist of case studies, not just visual showcases. Each project must tell a story, explaining the problem, your process, challenges encountered, and the rationale behind your design choices.
 
-### Step 5: Leverage Your Previous Experience
+### Step 5: Use Your Previous Experience
 
 Your prior career experience can be an asset during your transition. Frame your existing skills within the context of UX.
 
@@ -156,4 +156,4 @@ A: Yes. Focus on integrating two or three practices into your daily routine rath
 **Q: What resources can deepen my understanding?**
 A: Beyond written materials, connecting with a mentor or joining a peer group can provide practical insights that articles cannot convey. Engaging in Web3-specific communities on platforms like Discord can also accelerate your learning.
 
-Transitioning to a career in UX/UI design offers exciting opportunities for those willing to learn and adapt. With a structured approach and a commitment to growth, you can successfully navigate this transition and thrive in the dynamic world of design. Embrace your unique background and perspective, as they can provide valuable insights in your new career path.
+Transitioning to a career in UX/UI design offers exciting opportunities for those willing to learn and adapt. With a structured approach and a commitment to growth, you can successfully manage this transition and thrive in the dynamic world of design. Use your unique background and perspective, as they can provide valuable insights in your new career path.

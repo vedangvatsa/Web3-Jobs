@@ -95,7 +95,7 @@ However, the risks are considerable. Many DeFi projects may fail, and market dyn
 
 DeFi serves as a viable alternative to traditional finance in certain situations. It excels in areas where traditional systems struggle, such as providing services to unbanked populations, facilitating cross-border transactions without intermediaries, and offering transparency about financial operations.
 
-The DeFi ecosystem is evolving. As infrastructure improves, auditing practices become more robust, and regulatory frameworks become clearer, the risks associated with fraud and hacks may diminish. However, DeFi is unlikely to completely replace traditional finance. Instead, it will coexist, catering to use cases where decentralization adds significant value.
+The DeFi ecosystem is evolving. As infrastructure improves, auditing practices become more thorough, and regulatory frameworks become clearer, the risks associated with fraud and hacks may diminish. However, DeFi is unlikely to completely replace traditional finance. Instead, it will coexist, catering to use cases where decentralization adds significant value.
 
 ## The Web3 Opportunity
 
@@ -175,7 +175,7 @@ Alex worked as a backend engineer for five years at a FAANG company. He dedicate
 
 ### Transitioning from Product Manager to Web3
 
-Jessica, a product manager with a background in traditional finance, leveraged her financial expertise in DeFi. Her blend of knowledge about financial products and Web3 technology made her a valuable candidate. Within weeks, she secured a position at a leading DeFi protocol.
+Jessica, a product manager with a background in traditional finance, used her financial expertise in DeFi. Her blend of knowledge about financial products and Web3 technology made her a valuable candidate. Within weeks, she secured a position at a leading DeFi protocol.
 
 ### Career Shifts to Web3
 

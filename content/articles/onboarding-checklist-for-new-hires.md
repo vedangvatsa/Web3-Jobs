@@ -41,7 +41,7 @@ This checklist serves as a structured guide for new employees, ensuring they hav
 ### First 90 Days: Autonomy and Growth
 
 - [ ] Begin to work more autonomously on your core responsibilities, demonstrating your ability to manage your tasks independently.
-- [ ] Identify a mentor within the company, someone who can provide guidance and support as you navigate your new role.
+- [ ] Identify a mentor within the company, someone who can provide guidance and support as you manage your new role.
 - [ ] Start contributing ideas and suggestions during team discussions, showcasing your initiative and creativity.
 - [ ] Collaborate with your manager to create a personalized professional development plan, outlining your goals for the next six months and identifying resources for skill enhancement.
 
@@ -131,4 +131,4 @@ Start with articles that address specific aspects of onboarding in greater depth
 
 ## Conclusion
 
-A well-structured onboarding process is essential for both new hires and organizations. By following this checklist, new employees can ensure a smooth transition into their roles, boosting both their productivity and job satisfaction. Companies that prioritize effective onboarding foster a culture of engagement and retention. With the right strategies in place, new hires can secure a successful start that propels their careers forward.
+A well-structured onboarding process is essential for both new hires and organizations. By following this checklist, new employees can ensure a smooth transition into their roles, boosting both their productivity and job satisfaction. Companies that prioritize effective onboarding support a culture of engagement and retention. With the right strategies in place, new hires can secure a successful start that propels their careers forward.

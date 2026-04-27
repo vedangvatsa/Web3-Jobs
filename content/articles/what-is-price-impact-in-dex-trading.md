@@ -14,7 +14,7 @@ lastUpdated: "2026-04-27"
 
 Price impact represents the difference between the current market price of an asset and the effective price you pay when executing a trade on a [Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX) employing an Automated Market Maker (AMM). This discrepancy arises because the size of your trade influences the asset's price, particularly in low liquidity environments.
 
-When you execute a trade, especially a large one, it alters the price based on the existing liquidity in the pool. A fundamental understanding of price impact is essential for any [DeFi](/what-is-defi) user aiming to minimize unexpected losses and optimize trade execution.
+When you execute a trade, especially a large one, it alters the price based on the existing liquidity in the pool. Understanding price impact is essential for any [DeFi](/what-is-defi) user aiming to minimize unexpected losses and optimize trade execution.
 
 This article details the nature of price impact, its causes, differences from slippage, and effective management strategies.
 
@@ -69,13 +69,13 @@ Executing large trades in pools with substantial liquidity mitigates adverse pri
 
 Price impact and slippage are often conflated, yet they differ significantly.
 
-- **Price Impact**: This is a **known** factor. It quantifies the anticipated price change attributable to your trade. DEX interfaces provide calculations for expected price impact prior to transaction submission.
-- **Price Slippage**: This is an **unknown** factor. It refers to the potential price change occurring between the transaction submission and its confirmation on the [blockchain](/what-is-a-blockchain). Slippage is influenced by other trades executing ahead of yours.
+- **Price Impact**: This is a known factor. It quantifies the anticipated price change attributable to your trade. DEX interfaces provide calculations for expected price impact prior to transaction submission.
+- **Price Slippage**: This is an unknown factor. It refers to the potential price change occurring between the transaction submission and its confirmation on the [blockchain](/what-is-a-blockchain). Slippage is influenced by other trades executing ahead of yours.
 
 **Illustrative Scenario**:
 
 1. You observe a price of significant amount of USDC for ETH. You initiate a large trade with a calculated **1% price impact**, anticipating an average price of approximately a slightly higher amount of USDC.
-2. Meanwhile, another significant trade executes, increasing the price by an additional small percentage. This movement represents **slippage**.
+2. Meanwhile, another significant trade executes, increasing the price by an additional small percentage. This movement represents slippage.
 3. Your final execution price reflects both the 1% price impact and the additional slippage.
 
 To manage price impact, traders can adjust their trade size, while slippage risk can be mitigated by configuring a "slippage tolerance" in the DEX interface. This setting causes the transaction to fail if price shifts exceed the specified percentage before execution.
@@ -139,4 +139,4 @@ Grasping price impact is vital for professionals in the Web3 space. Mastering th
 
 ### Conclusion
 
-Understanding price impact is essential for successful trading on DEXs. By comprehending its mechanisms, distinguishing it from slippage, and employing effective management strategies, traders can significantly enhance their trading experiences. Mastery of price impact not only protects against unexpected losses but also fosters more strategic trading practices. As professionals in the Web3 space continue to evolve, those who prioritize education and adaptability will thrive in this dynamic environment.
+Understanding price impact is essential for successful trading on DEXs. By comprehending its mechanisms, distinguishing it from slippage, and employing effective management strategies, traders can significantly enhance their trading experiences. Mastery of price impact not only protects against unexpected losses but also supports more strategic trading practices. As professionals in the Web3 space continue to evolve, those who prioritize education and adaptability will thrive in this dynamic environment.

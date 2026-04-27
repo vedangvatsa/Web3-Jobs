@@ -40,7 +40,7 @@ Externships, despite being unpaid, provide numerous benefits that can significan
 
 1. **Career Clarity:** Externships offer a low-risk opportunity to explore potential careers. Shadowing a professional can provide a clearer perspective on job responsibilities, helping individuals determine if a career aligns with their interests and skills. For instance, a day spent with a financial analyst can reveal the job's realities compared to reading about it online.
 
-2. **Networking Opportunities:** Externships foster valuable connections within the industry. Meeting professionals can lead to future internships or job opportunities. An extern you shadow may be more inclined to assist you later than a random LinkedIn contact.
+2. **Networking Opportunities:** Externships build valuable connections within the industry. Meeting professionals can lead to future internships or job opportunities. An extern you shadow may be more inclined to assist you later than a random LinkedIn contact.
 
 3. **Resume Enhancement:** An externship adds value to a resume, showcasing initiative and a proactive approach to career exploration. It indicates a commitment to gaining real-world exposure beyond academic studies.
 
@@ -125,4 +125,4 @@ A: Yes, integrating externship experiences into your current role is feasible. F
 **Q: What resources can help me further my externship experience?**  
 A: Look for mentorship opportunities or peer groups within your field. Engaging with experienced professionals can provide insights that articles may not cover.
 
-In summary, externships present an effective means for individuals to explore career paths and gain vital experience. They facilitate networking, enhance resumes, and provide clarity on professional goals. By approaching externships with intentionality and professionalism, you can unlock new career opportunities and set the stage for future success in your chosen field.
+In summary, externships present an effective means for individuals to explore career paths and gain vital experience. They facilitate networking, enhance resumes, and provide clarity on professional goals. By approaching externships with intentionality and professionalism, you can create new career opportunities and set the stage for future success in your chosen field.

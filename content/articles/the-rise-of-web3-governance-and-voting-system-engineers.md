@@ -28,7 +28,7 @@ A Governance Engineer contributes significantly to the functioning of a DAO's "o
 
 ### Essential Skills and Expertise
 
-- **Advanced [Solidity](/best-programming-languages-for-blockchain-development):** Governance contracts involve high stakes, requiring a comprehensive understanding of security best practices, particularly concerning access control and upgradeability.
+- **Advanced [Solidity](/best-programming-languages-for-blockchain-development):** Governance contracts involve high stakes, requiring a thorough understanding of security best practices, particularly concerning access control and upgradeability.
 - **DAO Frameworks:** Familiarity with standard governance frameworks like **OpenZeppelin Governor** and **Tally** is crucial.
 - **Off-Chain Integration:** Proficiency with tools such as Snapshot and Discourse, along with the capability to integrate these with on-chain systems.
 - **Mechanism Design:** Knowledge of various voting systems (e.g., 1-token-1-vote, quadratic voting) and their respective advantages and disadvantages.
@@ -41,7 +41,7 @@ A Governance Engineer contributes significantly to the functioning of a DAO's "o
    - *Project Idea:* Create a simple DAO from scratch using OpenZeppelin Governor contracts. Include a basic frontend for proposal creation and voting.
 4. **Contribute to Governance Tooling:** Engage with open-source projects like Snapshot or Tally to showcase your skills and contribute to the tools used by DAOs.
 
-The Governance Engineer role is for those intrigued by the intersection of technology, economics, and political science. This position offers an opportunity to help build the democratic infrastructure for the new internet, establishing systems that empower decentralized communities.
+The Governance Engineer role is for those intrigued by the intersection of technology, economics, and political science. This position offers an opportunity to help build the democratic infrastructure for the new internet, establishing systems that enable decentralized communities.
 
 ### The Web3 Opportunity
 
@@ -143,7 +143,7 @@ Historically, bear markets represent the optimal time to enter Web3 professional
 
 ### Key Takeaways
 
-- Web3 offers substantial compensation premiums (20-40% above Web2 equivalents), accelerated career growth, and the chance to contribute to technology reshaping finance, governance, and digital ownership across various industries.
+- Web3 offers substantial compensation premiums (20-40% above Web2 equivalents), accelerated career growth, and the chance to contribute to technology changing finance, governance, and digital ownership across various industries.
 - Most professionals experience a meaningful transition to Web3 within 2-6 months of dedicated effort, with engineers and product managers typically advancing more quickly due to transferable core skills.
 - Your existing domain expertise holds significant value in Web3. Rather than starting from scratch, focus on integrating blockchain-specific context (wallets, smart contracts, tokenomics, DAOs) with your current skill set.
 - Networking through Discord communities and engaging on Twitter, combined with visible portfolio projects on GitHub, consistently yields better results than formal certifications when pursuing Web3 roles.

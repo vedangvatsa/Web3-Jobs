@@ -78,7 +78,7 @@ Monitor your progress consistently. Are you observing positive results? Be prepa
 |-------|-------------------------------|----------------------------------------------|-----------------------------------------------|
 | Sarah | Developer at a blockchain startup | Struggled with identity verification processes | Implemented PoH strategies, resulting in a significant reduction in duplicate accounts within three months. |
 | Juan  | Product Manager in [DeFi](/what-is-defi) | Faced difficulty in ensuring fair governance | Adopted PoH for governance, leading to a successful implementation of "one person, one vote," enhancing engagement significantly. |
-| Maya  | Transitioning from Web2 to Web3 | Difficulty adapting to decentralized identity frameworks | Leveraged PoH processes, successfully integrating within her new role, and contributing to improved project outcomes. |
+| Maya  | Transitioning from Web2 to Web3 | Difficulty adapting to decentralized identity frameworks | Used PoH processes, successfully integrating within her new role, and contributing to improved project outcomes. |
 
 ### Common Mistakes to Avoid
 
@@ -107,4 +107,4 @@ A: Engage with related articles for targeted insights, and consider finding ment
 
 ### Conclusion
 
-Proof of Humanity represents a significant advancement in solving the sybil attack problem and establishing a framework for verified digital identities. By understanding its mechanisms and implications, professionals can position themselves favorably in the evolving Web3 landscape. Embracing these principles enhances career opportunities and fosters a more equitable digital environment. As the demand for fair governance and identity verification continues to grow, expertise in these areas will become increasingly valuable.
+Proof of Humanity represents a significant advancement in solving the sybil attack problem and establishing a framework for verified digital identities. By understanding its mechanisms and implications, professionals can position themselves favorably in the evolving Web3 sector. Applying these principles enhances career opportunities and supports a more equitable digital environment. As the demand for fair governance and identity verification continues to grow, expertise in these areas will become increasingly valuable.

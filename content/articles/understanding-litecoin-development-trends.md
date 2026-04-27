@@ -81,7 +81,7 @@ The main takeaway is that judging a blockchain's health by raw GitHub commit cou
 
 These competencies are foundational for success in modern careers. Whether you're in Web3, traditional tech, or any knowledge-intensive field, these skills determine your trajectory. Studies consistently show that these abilities have a significant return on investment over time.
 
-## Comprehensive Skill Breakdown
+## Skill Breakdown
 
 ### Core Competencies
 
@@ -131,7 +131,7 @@ Understanding and managing your emotions, and reading others, determines your ef
 ### In Web3 Organizations
 Web3 teams are often distributed and move quickly. These skills directly impact your ability to:
 - Ship products faster (technical + communication)
-- Navigate ambiguity (problem-solving + learning agility)
+- Manage ambiguity (problem-solving + learning agility)
 - Build trust with colleagues (emotional intelligence)
 - Influence without authority (communication + EI)
 
@@ -199,4 +199,4 @@ A: Absolutely. In fact, they're even more critical in Web3 due to distributed te
 - Build skills by applying them in real projects
 - Emotional intelligence is your hidden advantage
 
-The most successful professionals in Web3 and beyond aren't always the most technically brilliant; they're the ones who've invested in comprehensive skill development. Start today, be consistent, and watch your career accelerate.
+The most successful professionals in Web3 and beyond aren't always the most technically brilliant; they're the ones who've invested in skill development. Start today, be consistent, and watch your career accelerate.

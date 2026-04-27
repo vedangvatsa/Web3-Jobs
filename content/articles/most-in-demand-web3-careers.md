@@ -89,7 +89,7 @@ Most hiring in Web3 occurs through referrals rather than traditional job applica
 
 This insight shapes a strategic approach to job acquisition. To enhance your chances of being hired:
 
-1. Develop a robust portfolio showcasing your work.
+1. Develop a strong portfolio showcasing your work.
 2. Contribute to open-source projects.
 3. Network within the Web3 community.
 4. Maintain an active presence on social media, particularly Twitter.
@@ -137,9 +137,9 @@ The primary barrier to entry involves your willingness to work hard and persist 
 
 ## The Importance of Web3 Careers
 
-Compensation in Web3 is robust, and the work is intellectually stimulating. Professionals tackle challenges that traditional tech has yet to address.
+Compensation in Web3 is strong, and the work is intellectually stimulating. Professionals tackle challenges that traditional tech has yet to address.
 
-For developers, Web3 remains one of the last frontiers. You can join a small team building a protocol that impacts millions, allowing for significant contributions to the tech landscape.
+For developers, Web3 remains one of the last frontiers. You can join a small team building a protocol that impacts millions, allowing for significant contributions to the tech industry.
 
 While volatility, risk, and the uncertainty of mainstream crypto adoption exist, those passionate about the potential and able to accept the risks will find ample opportunities in Web3.
 
@@ -223,7 +223,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her deep understanding of financial products within the DeFi space. Her unique blend of financial knowledge and Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a short period.
+Jessica, a product manager from traditional finance, used her deep understanding of financial products within the DeFi space. Her unique blend of financial knowledge and Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a short period.
 
 ### Career Changer Triumph
 
@@ -265,4 +265,4 @@ Bear markets historically represent the best opportunities to enter Web3 profess
 - Aim to join well-funded, established protocols with proven revenue to reduce the volatility risk inherent in the sector. Negotiate base salaries in fiat currency for added security.
 - The Web3 community is welcoming and supportive, offering mentorship programs, free educational resources, and active developer communities across all major protocols. 
 
-Web3 represents a significant shift in how technology interfaces with finance and governance. For those willing to embrace the challenges and uncertainties, it offers the opportunity to shape the future.
+Web3 represents a significant shift in how technology interfaces with finance and governance. For those willing to accept the challenges and uncertainties, it offers the opportunity to shape the future.

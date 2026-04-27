@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 The [Web3](/what-is-web3) industry attracts many ambitious professionals with promises of innovative technology, participation in a financial and cultural shift, and compensation packages that significantly exceed those in conventional tech. However, beneath the surface lies a challenging reality. A career in Web3 demands resilience, adaptability, and a passion for the mission of decentralization.
 
-Before leaving a stable Web2 position, conduct a thorough self-assessment. Are you ready for the volatility that characterizes the sector? Do you possess the mindset to succeed in a decentralized, remote-first environment? Are your motivations aligned with the fundamental values of Web3?
+Before leaving a stable Web2 position, conduct a self-assessment. Are you ready for the volatility that characterizes the sector? Do you possess the mindset to succeed in a decentralized, remote-first environment? Are your motivations aligned with the fundamental values of Web3?
 
 This guide provides a practical examination of the pros and cons of pursuing a [Web3 career](/web3-jobs-for-beginners). It offers a framework to help you determine whether this path suits you. You can also take our interactive [Web3 Archetype Assessment](/web3-career-quiz) to discover roles that align with your personality.
 

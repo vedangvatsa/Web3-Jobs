@@ -20,7 +20,7 @@ ENS functions similarly to the **Decentralized Name System (DNS)** used on the i
 
 ENS relies on a series of smart contracts operating on the Ethereum blockchain. The two key components of ENS are:
 
-1. **The ENS Registry:** This central contract maintains a comprehensive list of all registered domains and their respective owners.
+1. **The ENS Registry:** This central contract maintains a list of all registered domains and their respective owners.
 2. **Resolvers:** These smart contracts facilitate the translation process. An ENS name owner can configure their resolver to direct the name to various types of information.
 
 When you enter `vitalik.eth` into a Web3-enabled wallet or decentralized application (dApp), the application queries the ENS registry to obtain the resolver associated with that name. It then asks the resolver for the Ethereum address corresponding to `vitalik.eth`. The resolver retrieves and returns the relevant `0x...` address.
@@ -41,7 +41,7 @@ This makes your `.eth` name a central hub for your **[decentralized identity](/d
 Every ENS name functions as an **[NFT (Non-Fungible Token)](/what-are-nfts)** that adheres to the ERC-721 standard. This status brings several important implications:
 
 - **True Ownership:** Registering an ENS name grants you full ownership of that NFT. It resides in your wallet, and you maintain complete control over it.
-- **Tradability:** As an NFT, you can buy, sell, or trade your ENS name on any NFT marketplace, similar to digital art. This capability has fostered a vibrant secondary market for rare or desirable `.eth` names.
+- **Tradability:** As an NFT, you can buy, sell, or trade your ENS name on any NFT marketplace, similar to digital art. This capability has created a vibrant secondary market for rare or desirable `.eth` names.
 - **Registration and Renewal:** To obtain an ENS name, you register it for a specified duration (typically one year or more) by paying a fee in ETH. To retain the name, you must renew your registration before it expires. This fee structure discourages indefinite squatting on names.
 
 ### The Role of ENS in Facilitating Web3 Adoption
@@ -119,4 +119,4 @@ A: Look for articles that explore specific aspects of ENS more thoroughly. Beyon
 
 ## Conclusion
 
-Understanding and utilizing ENS is vital for professionals in the blockchain and cryptocurrency sectors. By simplifying digital identities and enhancing user experience, ENS contributes to a more accessible Web3. As organizations continue to evolve in this space, mastering ENS can position you for success in your career. The ability to communicate effectively and manage your decentralized identity will set you apart in an increasingly digital world. Embrace the opportunities that ENS offers, and leverage it to enhance your professional journey in Web3.
+Understanding and utilizing ENS is vital for professionals in the blockchain and cryptocurrency sectors. By simplifying digital identities and enhancing user experience, ENS contributes to a more accessible Web3. As organizations continue to evolve in this space, mastering ENS can position you for success in your career. The ability to communicate effectively and manage your decentralized identity will set you apart in an increasingly digital world. Use the opportunities that ENS offers to enhance your professional journey in Web3.

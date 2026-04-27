@@ -77,7 +77,7 @@ Organize your skills into relevant subcategories.
 | Web3 / [Blockchain](/what-is-a-blockchain)  | [Solidity](/best-programming-languages-for-blockchain-development), Foundry, Ethers.js, The Graph, EIP-712, Tokenomics, DAO Governance, Dune Analytics. |
 | Technical & General      | JavaScript, React, Next.js, Python, SQL, Figma, Project Management.                    |
 
-By centering your resume around verifiable proof of work and aligning your language with industry culture, you transition from simply stating your capabilities to demonstrating them. In the transparent and meritocratic realm of Web3, this strategy makes you stand out.
+By centering your resume around verifiable proof of work and aligning your language with industry culture, you transition from simply stating your capabilities to demonstrating them. In the transparent and meritocratic field of Web3, this strategy makes you stand out.
 
 ## The Web3 Opportunity
 
@@ -137,7 +137,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Target roles that leverage your existing expertise alongside new Web3 knowledge:
+Target roles that use your existing expertise alongside new Web3 knowledge:
 
 - If you are a backend engineer, pursue blockchain infrastructure roles
 - If you are a PM, seek protocol product roles

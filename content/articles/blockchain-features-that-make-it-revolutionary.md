@@ -48,7 +48,7 @@ Smart contracts, introduced by **[Ethereum](/what-is-ethereum)**, automate proce
 
 ### A New System for Trust
 
-These features, when combined, create a new paradigm for trust. Instead of relying on a central institution, blockchain enables trust in open-source code and cryptographic principles. The architecture of digital systems shifts from centralized control to code-based governance, allowing users to verify transactions and data independently. This change forms the foundation of [Web3](/what-is-web3).
+These features, when combined, create a new model for trust. Instead of relying on a central institution, blockchain enables trust in open-source code and cryptographic principles. The architecture of digital systems shifts from centralized control to code-based governance, allowing users to verify transactions and data independently. This change forms the foundation of [Web3](/what-is-web3).
 
 ## The Web3 Opportunity
 

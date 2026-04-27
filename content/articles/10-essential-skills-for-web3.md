@@ -55,7 +55,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 
 **Key Learning Areas:**
 - **Platform Proficiency:** Master key platforms like Discord and Twitter, which serve as primary communication channels in Web3.
-- **Content Creation:** Develop engaging content such as memes, articles, and Twitter Spaces that foster community culture.
+- **Content Creation:** Develop engaging content such as memes, articles, and Twitter Spaces that support community culture.
 - **Moderation Skills:** Learn to manage misinformation (FUD) and maintain a supportive environment.
 
 ### 6. Data Analysis with On-Chain Data
@@ -107,7 +107,7 @@ The [Web3](/what-is-web3) sector is rapidly expanding, resulting in a wave of ne
 **Key Learning Areas:**
 - **Information Consumption:** Build a regimen of high-quality information sources, including Twitter accounts, newsletters, and podcasts.
 - **Practical Experience:** Engage actively in the ecosystem by using new protocols, joining DAOs, and working on personal projects.
-- **Embrace Flexibility:** Stay open to learning and unlearning as the field progresses.
+- **Flexibility:** Stay open to learning and unlearning as the field progresses.
 
 ## Frequently Asked Questions (FAQ)
 
@@ -139,4 +139,4 @@ The Web3 job market is diverse and often fragmented. While traditional job board
 - **Discord:** Join Discord channels of projects that interest you, as many frequently post job opportunities.
 - **Hackathons:** Participating in hackathons is an excellent way to gain visibility and potentially secure a job.
 
-The skills outlined above are essential for building a successful career in Web3. The evolving nature of this field presents both challenges and opportunities. By cultivating these ten skills and remaining adaptable, you can position yourself for success in a growing and dynamic landscape. Embrace continuous learning and actively engage with the community to make the most of your Web3 career journey.
+The skills outlined above are essential for building a successful career in Web3. The evolving nature of this field presents both challenges and opportunities. By cultivating these ten skills and remaining adaptable, you can position yourself for success in a growing and dynamic sector. Embrace continuous learning and actively engage with the community to make the most of your Web3 career journey.

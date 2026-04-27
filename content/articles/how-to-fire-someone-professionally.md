@@ -22,7 +22,7 @@ Start by familiarizing yourself with the key principles of employee termination.
 
 ### Step 2: Assess Your Current Situation
 
-Evaluate your current employment situation. Assess the employee’s performance metrics, feedback from peers, and any prior disciplinary actions. For example, if an employee consistently fails to meet performance targets, gather specific data points, such as missed deadlines or incomplete projects. Understanding the complete context informs your decision-making process.
+Evaluate your current employment situation. Assess the employee’s performance metrics, feedback from peers, and any prior disciplinary actions. For example, if an employee consistently fails to meet performance targets, gather specific data points, such as missed deadlines or incomplete projects. Understanding the context informs your decision-making process.
 
 ### Step 3: Develop Your Personal Strategy
 
@@ -40,7 +40,7 @@ After the termination, reflect on the process. Did you adhere to your strategy? 
 
 ### Example 1: Sarah's Journey
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her role. After thorough performance reviews and feedback, it became clear that she struggled with meeting project deadlines consistently. Over a period of time, Sarah engaged in targeted training and mentorship, ultimately improving her project delivery time significantly. By adopting a structured approach, she transitioned her performance and became a valuable asset to her team.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in her role. After performance reviews and feedback, it became clear that she struggled with meeting project deadlines consistently. Over time, Sarah engaged in targeted training and mentorship, ultimately improving her project delivery time significantly. By adopting a structured approach, she transitioned her performance and became a valuable asset to her team.
 
 ### Example 2: Juan's Experience
 
@@ -85,8 +85,8 @@ A: Consider providing severance packages or outplacement services to assist the 
 A: In Web3 organizations, the emphasis on transparency and collaboration may require additional sensitivity to team dynamics. Communicate openly about the reasons for termination while ensuring respect for the individual’s contributions.
 
 **Q: Can I consult HR during the termination process?**  
-A: Absolutely. HR can provide valuable guidance on legal considerations and best practices. Engaging HR early in the process can ensure compliance and help you navigate difficult conversations.
+A: Absolutely. HR can provide valuable guidance on legal considerations and best practices. Engaging HR early in the process can ensure compliance and help you manage difficult conversations.
 
 ## Conclusion
 
-Managing the termination of an employee is complex but essential for maintaining a healthy workplace culture. By understanding the principles of effective communication, assessing individual circumstances, and refining your approach, you can navigate this challenging task with professionalism and compassion. Focus on clarity, respect, and support throughout the process to foster a positive environment even in difficult situations. Ultimately, how you handle terminations reflects on your leadership style and can significantly impact your team's morale and performance. As you develop your skills in this area, remember that every experience, whether positive or negative, contributes to your growth as a manager.
+Managing the termination of an employee is complex but essential for maintaining a healthy workplace culture. By understanding the principles of effective communication, assessing individual circumstances, and refining your approach, you can handle this challenging task with professionalism and compassion. Focus on clarity, respect, and support throughout the process to build a positive environment even in difficult situations. Ultimately, how you handle terminations reflects on your leadership style and can significantly impact your team's morale and performance. As you develop your skills in this area, remember that every experience, whether positive or negative, contributes to your growth as a manager.

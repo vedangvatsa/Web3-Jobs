@@ -59,7 +59,7 @@ Establishing an online presence is essential for attracting potential clients an
 
 * **Portfolio Website:** Develop a professional website that includes the services you offer, your portfolio, personal information, and contact details for clients.
 * **LinkedIn Profile:** Optimize your LinkedIn profile for freelancing. Use a professional photo, craft a compelling headline, and seek recommendations from former colleagues or clients.
-* **Freelance Platforms:** Platforms like Upwork, Fiverr, and Toptal can help you find your first clients. Create a robust profile emphasizing your skills and portfolio.
+* **Freelance Platforms:** Platforms like Upwork, Fiverr, and Toptal can help you find your first clients. Create a strong profile emphasizing your skills and portfolio.
 
 ### 5. Find Your First Client
 
@@ -140,4 +140,4 @@ To improve, you must measure your progress. Keep detailed metrics to assess your
 
 Starting a freelancing career involves more than just offering your skills to clients. It requires strategic planning, proactive networking, and continuous improvement. By identifying your niche, building a solid portfolio, setting appropriate rates, creating an online presence, and actively seeking clients, you can lay a strong foundation for your freelance business.
 
-As you embark on this journey, remember that every freelancer starts somewhere. Embrace the learning process, adapt to the challenges, and focus on delivering quality work. The freelance world offers immense opportunities for growth and success, provided you approach it with the right mindset and strategy.
+As you embark on this journey, remember that every freelancer starts somewhere. Accept the learning process, adapt to the challenges, and focus on delivering quality work. The freelance world offers immense opportunities for growth and success, provided you approach it with the right mindset and strategy.

@@ -15,11 +15,11 @@ Naval Ravikant stands out as an influential entrepreneur, investor, and philosop
 
 Ravikant approaches Web3 through first-principles thinking. He articulates that blockchains establish new forms of money that are decentralized and not state-controlled, as well as new markets that facilitate permissionless capital formation. He envisions a shift from traditional top-down organizations to decentralized networks where individuals collaborate via open protocols.
 
-This article examines Ravikant's key concepts regarding Web3, emphasizing his views on blockchains as novel forms of money and markets, the significance of permissionless leverage, and the quest for individual sovereignty.
+This article examines Ravikant's key concepts regarding Web3, emphasizing his views on blockchains as novel forms of money and markets, the significance of permissionless capital formation, and the quest for individual sovereignty.
 
 ## Core Thesis: Blockchains as Money and Markets
 
-Ravikant's interpretation of Web3 is grounded in a profound grasp of markets, leverage, and networks. He succinctly summarizes the functions of blockchains: **they serve as new mechanisms for creating money and establishing markets.**
+Ravikant's interpretation of Web3 is grounded in a profound grasp of markets, capital, and networks. He succinctly summarizes the functions of blockchains: **they serve as new mechanisms for creating money and establishing markets.**
 
 ### 1. Blockchains as Money
 
@@ -27,7 +27,7 @@ Ravikant argues that Bitcoin introduced a form of money that exists independentl
 
 - **Digital Scarcity:** He points out that Satoshi Nakamoto's innovation resolved the issue of digital scarcity. Prior to Bitcoin, digital assets could be replicated indefinitely. Bitcoin's finite supply establishes it as a provably scarce asset, akin to gold, and positions it as a store of value.
   
-- **Separation of Money and State:** According to Ravikant, just as the printing press decentralized the production of information, Bitcoin decentralizes the production of money. This separation offers an alternative to government-controlled fiat currencies, which can lose value through inflation.
+- **Separation of Money and State:** Ravikant states that just as the printing press decentralized the production of information, Bitcoin decentralizes the production of money. This separation offers an alternative to government-controlled fiat currencies, which can lose value through inflation.
 
 ### 2. Blockchains as Markets
 
@@ -43,9 +43,9 @@ Beyond their monetary function, Ravikant views blockchains as platforms for crea
 
 Ravikant's philosophy about Web3 intertwines with his broader views on wealth, happiness, and the human experience.
 
-### 1. The Power of Permissionless Leverage
+### 1. The Power of Permissionless Capital
 
-He categorizes leverage into three types: labor (others working for you), capital (money), and products with low or zero marginal cost of replication (software, code). He asserts that Web3 introduces a new form of leverage through code and tokens that can scale globally without requiring permission.
+He categorizes capital into three types: labor (others working for you), money, and products with low or zero marginal cost of replication (software, code). He asserts that Web3 introduces a new form of capital through code and tokens that can scale globally without requiring permission.
 
 - **Code as Permissionless Capital:** A [smart contract](/what-are-smart-contracts) operates autonomously, managing significant value in assets without the need for a company, physical office, or employees. This financial robot functions continuously, enabling users to automate complex transactions.
 
@@ -71,7 +71,7 @@ He expresses skepticism towards corporate or consortium blockchains, arguing tha
 
 Naval Ravikant's insights into Web3 reflect his commitment to first-principles thinking. He argues that blockchains facilitate new monetary systems and market structures, transferring power from centralized institutions to individuals. By focusing on the fundamental changes enabled by blockchains, he avoids the distractions of hype and speculation.
 
-Ravikant's framework illustrates how Web3 fosters new monetary forms and market opportunities that empower individuals. By utilizing code and networks, it allows for permissionless value creation, granting individuals control over their economic identity and assets. His philosophical contributions provide a solid foundation for understanding Web3's structural significance.
+Ravikant's framework illustrates how Web3 supports new monetary forms and market opportunities that enable individuals. By using code and networks, it allows for permissionless value creation, granting individuals control over their economic identity and assets. His philosophical contributions provide a solid foundation for understanding Web3's structural significance.
 
 ### Frequently Asked Questions (FAQ)
 

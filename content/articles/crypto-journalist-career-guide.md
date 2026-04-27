@@ -24,7 +24,7 @@ Reporting on Web3 comes with distinct challenges and opportunities that set it a
   
 - **Skeptical and Technical Audience:** Crypto enthusiasts often possess a deep understanding of technology and harbor skepticism toward traditional media. To gain their trust, your reporting must be precise, nuanced, and demonstrate a clear grasp of the technology. A single inaccuracy can severely damage your credibility.
   
-- **Pseudonymity Challenge:** Many key figures in the crypto space operate under pseudonyms. Establishing a network of reliable sources requires navigating this cultural landscape while building a reputation for integrity.
+- **Pseudonymity Challenge:** Many key figures in the crypto space operate under pseudonyms. Establishing a network of reliable sources requires managing this cultural area while building a reputation for integrity.
 
 ### Essential Skills for Crypto Journalists
 
@@ -118,7 +118,7 @@ The Web3 community is highly accessible.
 - Attend local Web3 meetups
 
 #### Step 5: Apply Strategically
-Target roles that leverage your existing skills alongside new Web3 knowledge:
+Target roles that use your existing skills alongside new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles.
 - Product managers should look for protocol product positions.

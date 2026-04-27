@@ -37,7 +37,7 @@ A PhD in data science is not a prerequisite for this career. Mastering the right
    
 2. **Dune Analytics:** This platform is essential for on-chain analysis. It enables users to write SQL queries against data from various blockchains, allowing the creation of powerful, shareable dashboards. Developing high-quality Dune dashboards serves as an excellent way to build your portfolio.
 
-3. **Python:** For advanced or customized analyses, Python is the preferred language. Libraries such as Pandas for data manipulation, Matplotlib for visualization, and Web3.py for direct blockchain interaction provide a robust toolkit for in-depth research.
+3. **Python:** For advanced or customized analyses, Python is the preferred language. Libraries such as Pandas for data manipulation, Matplotlib for visualization, and Web3.py for direct blockchain interaction provide a strong toolkit for in-depth research.
 
 4. **Block Explorers (e.g., Etherscan):** Analysts must be adept at using block explorers to investigate individual transactions, understand [smart contract](/what-are-smart-contracts) interactions, and trace fund flows between wallets.
 
@@ -67,7 +67,7 @@ This role is accessible since you can build a portfolio independently.
    - Begin by forking existing queries from popular dashboards to understand their structure. Consult Dune’s documentation and tutorials.
    - Study the queries of established "Dune wizards" to enhance your skills.
 
-4. **Build a Portfolio of Dashboards:** This portfolio acts as your [resume](/how-to-build-a-web3-resume-that-stands-out). Choose an interesting protocol and construct a comprehensive dashboard that tracks its key metrics.
+4. **Build a Portfolio of Dashboards:** This portfolio acts as your [resume](/how-to-build-a-web3-resume-that-stands-out). Choose an interesting protocol and construct a dashboard that tracks its key metrics.
    - *Good first project:* A dashboard for a new NFT collection.
    - *Intermediate project:* A dashboard comparing user growth across two competing [DeFi](/what-is-defi) protocols.
    - *Advanced project:* An analysis of MEV (Maximal Extractable Value) activity on a specific DEX.
@@ -106,7 +106,7 @@ Regularly assess your progress. Are you achieving your desired outcomes? Adapt y
 
 | Example       | Background                                           | Outcome                         |
 |---------------|-----------------------------------------------------|---------------------------------|
-| Sarah         | Developer at a blockchain startup                   | Dramatic improvements in user retention within a few months after adopting structured data analysis strategies. |
+| Sarah         | Developer at a blockchain startup                   | Improvements in user retention within a few months after adopting structured data analysis strategies. |
 | Juan          | Product manager in DeFi                             | Successfully increased product adoption by following a strategic analysis framework. |
 | Maya          | Transitioned from Web2 to Web3                      | Quickly adapted and excelled in her new role, demonstrating the effectiveness of structured learning. |
 
@@ -143,4 +143,4 @@ A: Explore various written resources, particularly those listed in related artic
 
 ### Conclusion
 
-The role of the Web3 Data Analyst is not only vital for the success of projects within the decentralized ecosystem but also offers a rewarding career path for those who enjoy engaging with data. By mastering the necessary tools and skills, building a strong portfolio, and navigating the unique challenges of the Web3 environment, you can position yourself as an indispensable asset in this innovative field. The growing demand for on-chain analysts underscores the significance of this role, making it an excellent opportunity for professionals eager to contribute to the future of blockchain technology.
+The role of the Web3 Data Analyst is vital for the success of projects within the decentralized ecosystem and offers a rewarding career path for those who enjoy engaging with data. By mastering the necessary tools and skills, building a strong portfolio, and managing the unique challenges of the Web3 environment, you can position yourself as an indispensable asset in this innovative field. The growing demand for on-chain analysts underscores the significance of this role, making it an excellent opportunity for professionals eager to contribute to the future of blockchain technology.

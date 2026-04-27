@@ -23,7 +23,7 @@ Transitioning from an individual contributor to a manager represents a significa
    - “What challenges are you facing this week?”
    - “What ideas do you have to improve our current project?”
 
-   After asking, pause to genuinely absorb their responses. This practice fosters trust and reveals underlying issues. When you do share your thoughts, ensure your messages are concise and directly aligned with team objectives and the company’s mission.
+   After asking, pause to genuinely absorb their responses. This practice builds trust and reveals underlying issues. When you do share your thoughts, ensure your messages are concise and directly aligned with team objectives and the company’s mission.
 
    | Communication Techniques | Description |
    |--------------------------|-------------|
@@ -33,9 +33,9 @@ Transitioning from an individual contributor to a manager represents a significa
 
    For more on refining your public speaking and presentation skills, refer to **[How to Build Executive Presence at Work](how-to-build-executive-presence-at-work)**.
 
-2. **Delegation – Empowering Your Team**
+2. **Delegation – Enabling Your Team**
 
-   Delegation is not merely assigning tasks; it is about empowering your team to grow. Follow this framework:
+   Delegation is not merely assigning tasks; it is about enabling your team to grow. Follow this framework:
 
    1. **Define the outcome** – Clearly articulate what success looks like.
    2. **Provide context** – Explain the significance of the task.
@@ -43,7 +43,7 @@ Transitioning from an individual contributor to a manager represents a significa
    4. **Give autonomy** – Allow team members to decide on the execution method.
    5. **Check-in lightly** – Use brief status updates to avoid micromanagement.
 
-   Effective delegation allows you to focus on strategic initiatives while fostering the development of future leaders within your team.
+   Effective delegation allows you to focus on strategic initiatives while supporting the development of future leaders within your team.
 
 3. **Feedback – A Two-Way Gift**
 
@@ -65,11 +65,11 @@ Transitioning from an individual contributor to a manager represents a significa
 
    High EQ fosters a psychologically safe environment, enabling team members to take risks and share their ideas freely.
 
-5. **Prioritization & Time Management – Protecting Your High-Leverage Hours**
+5. **Prioritization & Time Management – Protecting Your High-Impact Hours**
 
    Managers often juggle various responsibilities, including meetings and strategic planning. Implement a **time-boxing** strategy:
 
-   - **High-Leverage Block:** Dedicate a portion of your day to deep work such as strategy development and coaching.
+   - **High-Impact Block:** Dedicate a portion of your day to deep work such as strategy development and coaching.
    - **Meeting Hygiene:** Limit meetings to a set duration, with clear agendas and defined outcomes.
    - **Say No:** Politely decline low-impact requests to maintain focus.
 
@@ -109,7 +109,7 @@ Transitioning from an individual contributor to a manager represents a significa
 
 **What’s the biggest mistake new managers make?**
 
-The primary error is failing to transition from a “doer” mindset to a “leader” mindset. New managers often attempt to solve every problem themselves, which leads to burnout and disempowers the team. Instead, focus on empowering your team to take ownership of their work.
+The primary error is failing to transition from a “doer” mindset to a “leader” mindset. New managers often attempt to solve every problem themselves, which leads to burnout and disempowers the team. Instead, focus on enabling your team to take ownership of their work.
 
 **How do I build trust with my new team?**
 
@@ -169,7 +169,7 @@ Mastering these leadership skills is vital for success across various industries
 Web3 teams often operate in distributed settings and require agility. These skills directly influence:
 
 - **Productivity:** Enhanced communication and technical skills lead to faster product delivery.
-- **Adaptability:** Strong problem-solving and learning agility facilitate navigation through ambiguity.
+- **Adaptability:** Strong problem-solving and learning agility facilitate understanding through ambiguity.
 - **Relationship Building:** Emotional intelligence fosters trust among remote colleagues.
 - **Influence:** Effective communication paired with emotional intelligence allows for influence without formal authority.
 
@@ -212,4 +212,4 @@ The importance of these skills evolves as you advance in your career:
 
 ## Conclusion
 
-Strong leadership in the tech industry demands a combination of technical skills and people-centric competencies. By focusing on communication, delegation, feedback, emotional intelligence, prioritization, and coaching, you can cultivate a high-performing team that drives results. This journey requires commitment to personal growth and a willingness to learn from mistakes. Embrace the process, seek feedback, and invest in your team. The most successful professionals are those who prioritize skill development and foster a culture of continuous improvement within their organizations.
+Strong leadership in the tech industry demands a combination of technical skills and people-centric competencies. By focusing on communication, delegation, feedback, emotional intelligence, prioritization, and coaching, you can cultivate a high-performing team that drives results. This journey requires commitment to personal growth and a willingness to learn from mistakes. Accept the process, seek feedback, and invest in your team. The most successful professionals are those who prioritize skill development and support a culture of continuous improvement within their organizations.

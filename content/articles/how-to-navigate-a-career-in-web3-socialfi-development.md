@@ -34,7 +34,7 @@ A SocialFi developer is responsible for creating the protocols and applications 
     - *Project Idea:* Create a tool that visualizes user social graphs.
 3. **Contribute to the Ecosystem:** Both Farcaster and Lens are open-source protocols. Contributing to their core infrastructure on [GitHub](/building-web3-portfolio) or developing useful tools for the community can enhance visibility.
 
-A career in SocialFi appeals to developers committed to fostering open and equitable social systems. This field allows professionals to work at the intersection of technology and human-centered design, shaping platforms that will influence future connections in a decentralized environment.
+A career in SocialFi appeals to developers committed to building open and equitable social systems. This field allows professionals to work at the intersection of technology and human-centered design, shaping platforms that will influence future connections in a decentralized environment.
 
 ### The Web3 Opportunity
 
@@ -104,7 +104,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 #### Successful Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products merged with Web3 technology made her highly sought after. Within four weeks, she secured a position at a leading DeFi protocol.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her knowledge of financial products merged with Web3 technology made her highly sought after. Within four weeks, she secured a position at a leading DeFi protocol.
 
 #### Career Changer Success Story
 
@@ -112,7 +112,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 
 ### Challenges Specific to Web3
 
-**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups. Professionals entering this space should maintain several months of living expenses in reserve. Negotiate base salaries in fiat currency to mitigate risk, and consider joining projects with established revenue models or robust treasury backing.
+**Volatility Risk:** The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups. Professionals entering this space should maintain several months of living expenses in reserve. Negotiate base salaries in fiat currency to mitigate risk, and consider joining projects with established revenue models or reliable treasury backing.
 
 **Regulatory Uncertainty:** The regulatory framework for blockchain companies is still developing globally. Prior to joining a project, ensure the team has competent legal counsel and is actively engaging with regulators, rather than operating in grey areas.
 

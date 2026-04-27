@@ -20,7 +20,7 @@ These assignments differ from abstract algorithm challenges; they mimic actual t
 *   **Code Evaluation:** These assignments provide insight into your coding style, documentation practices, and, critically, your testing approach.
 *   **Security Focus:** For smart contract roles, firms seek evidence that you prioritize secure coding practices.
 
-**Pro Tip:** A project that includes thorough documentation and a robust test suite will shine. Ensure you write tests.
+**Pro Tip:** A project that includes thorough documentation and a strong test suite will shine. Ensure you write tests.
 
 ### Common Smart Contract Developer Assignments
 

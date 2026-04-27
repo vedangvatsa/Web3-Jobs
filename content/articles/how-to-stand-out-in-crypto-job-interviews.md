@@ -16,18 +16,18 @@ Hiring managers in Web3 seek candidates who exhibit a genuine commitment to the 
 
 ### 1. Nail Your "Rabbit Hole" Story
 
-The first question typically asked is, "What got you into Web3? What's your story?" This question serves as a litmus test for your passion and authenticity. A vague response about "believing in the technology" can raise red flags. You must craft a specific, personal narrative that highlights your journey.
+The first question typically asked is, "What got you into Web3? What's your story?" This question serves as a test for your passion and authenticity. A vague response about "believing in the technology" can raise red flags. You must craft a specific, personal narrative that highlights your journey.
 
 **How to Prepare:**
 - **Pinpoint the Moment:** Identify the exact experience or concept that sparked your interest in Web3. This could involve using a [DeFi](/what-is-defi) protocol for the first time, reading the [Bitcoin](/what-is-bitcoin) whitepaper, or learning about [NFTs](/what-are-nfts) and their impact on artists.
 - **Structure Your Narrative:**
   - **The Spark:** "While working in traditional finance, I became frustrated with slow settlement times. The first time I witnessed a cross-border stablecoin payment settle in seconds, I realized this was the future."
   - **The Journey:** "This experience led me to explore DeFi extensively. I started with resources from Bankless and eventually provided liquidity on Uniswap to gain hands-on experience."
-  - **The Vision:** "Now, I aim to use my product management background to develop accessible financial tools that empower users."
+  - **The Vision:** "Now, I aim to use my product management background to develop accessible financial tools that help users."
 
 ### 2. Present a Strong, Justified Opinion
 
-The Web3 arena is rife with complex discussions and trade-offs. Interviewers seek evidence of your critical thinking skills and engagement with these discussions.
+The Web3 field is rife with complex discussions and trade-offs. Interviewers seek evidence of your critical thinking skills and engagement with these discussions.
 
 **The Question:** "What do you think is the biggest challenge facing [Ethereum](/what-is-ethereum) today?" or "What's an underrated project you find exciting?"
 
@@ -41,7 +41,7 @@ The Web3 arena is rife with complex discussions and trade-offs. Interviewers see
 Your resume may secure the interview, but your public "proof of work" will earn you the job. Throughout the interview, look for chances to reference your contributions to the field.
 
 **How to Do It:**
-- When discussing your marketing skills, say, "I've been analyzing go-to-market strategies in Web3. For instance, I wrote an in-depth analysis of [Project X]'s launch strategy on my blog, highlighting key takeaways like..."
+- When discussing your marketing skills, say, "I've been analyzing go-to-market strategies in Web3. For instance, I wrote an analysis of [Project X]'s launch strategy on my blog, highlighting key takeaways like..."
 - In response to questions about your technical skills, you could say, "I'm passionate about gas optimization. In a recent project where I created a [staking](/how-to-become-a-web3-staking-specialist) contract, I successfully reduced gas costs by a significant amount by..." (and provide a link to your GitHub repository).
 
 ### 4. Ask Insightful, Specific Questions
@@ -138,7 +138,7 @@ Apply for roles that align with your existing skills while incorporating your ne
 Alex, a backend engineer with five years of experience at a major tech company, took three months to learn Solidity while continuing his day job. He contributed to an open-source protocol, which attracted the attention of a major DeFi project. He successfully transitioned to a new role with a significant salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly sought after. She secured a position at a leading DeFi protocol within a few weeks.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he secured a role leading Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous job.

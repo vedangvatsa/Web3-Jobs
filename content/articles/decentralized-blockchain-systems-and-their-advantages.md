@@ -22,18 +22,18 @@ Grasping the concept of decentralization begins with examining its counterpart: 
 
 ### Advantages of a Decentralized System
 
-Constructing a system on a decentralized network provides numerous advantages over a centralized framework.
+Building a system on a decentralized network provides numerous advantages over a centralized framework.
 
 **1. Censorship Resistance**
 - **Advantage:** Decentralized networks lack a central authority capable of deleting data, blocking transactions, or shutting down services unilaterally. For instance, to censor a transaction on a blockchain like [Ethereum](/what-is-ethereum), one would need the agreement of numerous independent node operators worldwide, a feat that is virtually unachievable.
-- **Impact:** This structure fosters a genuinely neutral and permissionless platform, where governance derives from code rather than corporate policies.
+- **Impact:** This structure supports a genuinely neutral and permissionless platform, where governance derives from code rather than corporate policies.
 
 **2. Enhanced Security and Resilience**
 - **Advantage:** Decentralization removes single points of failure. In a centralized system, a hack or server failure can incapacitate the entire service. However, in a decentralized system, if one node goes offline, the network remains operational, supported by countless other nodes.
-- **Impact:** Blockchain networks are thus exceptionally robust and resilient, designed for continuous operation. The **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** further enhances security, making network attacks prohibitively expensive.
+- **Impact:** Blockchain networks are thus exceptionally reliable and resilient, designed for continuous operation. The **[consensus mechanism](/consensus-mechanisms-in-blockchain-networks-demystified)** further enhances security, making network attacks prohibitively expensive.
 
 **3. User Ownership and Control**
-- **Advantage:** Decentralized systems empower users to own their data and digital assets fully. Through a **[crypto wallet](/how-to-choose-a-crypto-wallet)**, individuals maintain self-custody of their assets, governed by their private keys.
+- **Advantage:** Decentralized systems enable users to own their data and digital assets fully. Through a **[crypto wallet](/how-to-choose-a-crypto-wallet)**, individuals maintain self-custody of their assets, governed by their private keys.
 - **Impact:** This shift underpins the "ownership economy," where digital assets are genuinely owned by users instead of being mere entries in a company's database, as seen in Web2.
 
 **4. Transparency and Auditability**
@@ -147,4 +147,4 @@ Bear markets present excellent opportunities for entering Web3. As speculative h
 
 ## Conclusion
 
-Decentralization remains the fundamental innovation of blockchain technology. It offers a new architectural model for the internet that enhances security, resilience, censorship resistance, and equity. Despite challenges, particularly in scalability, the benefits of a system without a single point of failure or control are significant. This principle underpins the entire vision of Web3 and the creation of a user-owned internet, paving the way for a more equitable digital future. The growth of Web3 presents unprecedented career opportunities for professionals willing to adapt and engage with this transformative technology.
+Decentralization remains the fundamental innovation of blockchain technology. It offers a new architectural model for the internet that enhances security, resilience, censorship resistance, and equity. Despite challenges, particularly in scalability, the benefits of a system without a single point of failure or control are significant. This principle underpins the entire vision of Web3 and the creation of a user-owned internet, paving the way for a more equitable digital future. The growth of Web3 presents new career opportunities for professionals willing to adapt and engage with this transformative technology.

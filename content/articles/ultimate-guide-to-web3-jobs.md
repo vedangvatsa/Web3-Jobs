@@ -26,7 +26,7 @@ The Web3 ecosystem is diverse, encompassing roles in engineering, product manage
 | **Frontend / dApp Engineer** | Responsible for user interfaces that connect to smart contracts. Engineers create intuitive user experiences, a crucial challenge in Web3. Mastery of React, Next.js, and Web3 libraries like Ethers.js or Viem is key. | React, Next.js, Ethers.js, Viem        |
 | **On-Chain Data Analyst**    | Analysts query and analyze on-chain data using tools like Dune Analytics and Nansen to derive insights about user behavior, protocol health, and market trends. Strong SQL skills are required. | SQL, data analytics tools               |
 | **Web3 Product Manager**      | PMs guide the "what" and "why" of decentralized products, balancing user needs, technical constraints, and community governance. A deep understanding of tokenomics and crypto-native user behavior is critical. | Product management, tokenomics         |
-| **Community Manager**         | They manage Discord and Telegram channels, foster positive culture, and bridge users and core teams. Exceptional communication skills and empathy are essential. | Communication, community engagement     |
+| **Community Manager**         | They manage Discord and Telegram channels, build positive culture, and bridge users and core teams. Exceptional communication skills and empathy are essential. | Communication, community engagement     |
 | **Smart Contract Auditor**    | Auditors specialize in identifying security vulnerabilities in smart contract code before deployment. This role requires an adversarial mindset and in-depth knowledge of common attack vectors. | Security analysis, audit processes      |
 
 ### Essential Skills for a Web3 Career
@@ -59,7 +59,7 @@ The Web3 job market represents more than just a new sector; it offers a chance t
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing significant growth, with demand significantly outpacing supply for qualified talent. Compared to traditional tech, Web3 provides unique advantages, including higher compensation, equity opportunities, fully remote roles, and the chance to enhance technology.
+The Web3 sector is experiencing significant growth, with demand outpacing supply for qualified talent. Compared to traditional tech, Web3 provides unique advantages, including higher compensation, equity opportunities, fully remote roles, and the chance to enhance technology.
 
 ## Market Context
 
@@ -124,7 +124,7 @@ Target roles that utilize your existing expertise along with new Web3 knowledge:
 Alex, a backend engineer with five years at a major tech company, dedicated three months to learning Solidity while maintaining his position. His contributions to an open-source protocol attracted the attention of a major DeFi project, resulting in a transition that included a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her highly valuable. She secured a role at a leading DeFi protocol within a few weeks.
+Jessica, a PM from traditional finance, used her expertise in DeFi. Her knowledge of financial products combined with Web3 technology made her highly valuable. She secured a role at a leading DeFi protocol within a few weeks.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio building, he landed a position leading Developer Relations at a major blockchain platform, earning compensation far exceeding his previous role.
@@ -148,7 +148,7 @@ A: No. The Web3 ecosystem requires more than engineers. Roles in marketing, comm
 A: Web3 compensation generally exceeds Web2 equivalents. Base salaries are often higher, especially for Solidity engineers and smart contract auditors, who command the highest premiums due to talent scarcity. Total compensation packages frequently include signing bonuses, equity in early-stage protocols, and token allocations, which can appreciate significantly. Senior engineers at well-funded protocols commonly earn substantial total compensation, with non-technical roles also seeing significant premiums compared to Web2.
 
 **Q: Is it risky to transition to Web3?**
-A: Every career transition carries inherent risk, and Web3 is no exception given market volatility and project lifecycles. To manage this risk effectively, focus on well-funded protocols with established revenue, verify teams' track records, and ensure your base salary is paid in fiat rather than solely in tokens. Professionals who approach Web3 as a serious career move , rather than a speculative venture , often secure stable, rewarding roles that weather market fluctuations.
+A: Every career transition carries inherent risk, and Web3 is no exception given market volatility and project lifecycles. To manage this risk effectively, focus on well-funded protocols with established revenue, verify teams' track records, and ensure your base salary is paid in fiat rather than solely in tokens. Professionals who approach Web3 as a serious career move, rather than a speculative venture, often secure stable, rewarding roles that weather market fluctuations.
 
 **Q: How long does the transition take?**
 A: Most professionals can complete a meaningful transition to Web3 within a few months of focused effort. Engineers and product managers tend to transition most quickly, as their core skills transfer directly. Non-technical roles, such as marketing and community management, can transition in as little as a few weeks with concentrated self-study. The key factor is your level of engagement; developing a portfolio project or contributing to open-source protocols significantly accelerates the process.
@@ -165,4 +165,4 @@ A: Historically, bear markets represent the best opportunities for entering Web3
 - Joining well-funded, established protocols with proven revenue can mitigate the volatility risks inherent in the sector. Negotiate base salaries in fiat.
 - The Web3 community is notably open and supportive, providing mentorship programs, free educational resources, and active developer communities across all major protocols.
 
-By understanding the unique dynamics of the Web3 job market, honing the necessary skills, and actively participating in the community, you can effectively position yourself for a successful career in this evolving landscape. The future of work is here, and now is the time to engage with it meaningfully.
+By understanding the unique dynamics of the Web3 job market, honing the necessary skills, and actively participating in the community, you can effectively position yourself for a successful career in this evolving field. The future of work is here, and now is the time to engage with it meaningfully.

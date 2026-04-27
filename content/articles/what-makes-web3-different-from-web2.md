@@ -28,7 +28,7 @@ This shift in architectural design leads to a significant change in data ownersh
 
 - **Web2: The Platform Owns Your Data.** When users upload content, such as photos or posts, they transfer ownership of that data to the platform. These platforms monetize user data by selling ads and using it to enhance their algorithms, often without the user's explicit consent. This dynamic positions users as products rather than owners.
 
-- **Web3: You Own Your Data.** In the Web3 environment, data and digital assets reside in personal **[crypto wallets](/how-to-choose-a-crypto-wallet)**, controlled solely by the user. Applications may request permission to access or utilize data, but the user retains ownership and can revoke access at any time. This relationship empowers users, transforming platforms into services that users can choose to engage with.
+- **Web3: You Own Your Data.** In the Web3 environment, data and digital assets reside in personal **[crypto wallets](/how-to-choose-a-crypto-wallet)**, controlled solely by the user. Applications may request permission to access or utilize data, but the user retains ownership and can revoke access at any time. This relationship allows users to transform platforms into services that users can choose to engage with.
 
 ### Economic Models: Attention Economy vs. Ownership Economy
 
@@ -60,7 +60,7 @@ Online identity represents another significant battleground between Web2 and Web
 
 ### A More Equitable Internet
 
-Web3 encompasses more than just technological advancements; it represents a philosophical and political movement. It responds to the challenges of a centralized internet, such as data monopolies, censorship, and misaligned incentives within the attention economy. By utilizing blockchain technology to establish a decentralized foundation, Web3 seeks to create a more open, equitable, and user-owned internet. This transition is complex, yet the fundamental differences in architecture and values signal one of the most significant shifts in internet history.
+Web3 encompasses more than just technological advancements; it represents a philosophical and political movement. It responds to the challenges of a centralized internet, such as data monopolies, censorship, and misaligned incentives within the attention economy. By using blockchain technology to establish a decentralized foundation, Web3 seeks to create a more open, equitable, and user-owned internet. This transition is complex, yet the fundamental differences in architecture and values signal one of the most significant shifts in internet history.
 
 ## The Web3 Opportunity
 
@@ -135,7 +135,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly valuable. She secured a role at a prominent DeFi protocol in just four weeks.
+Jessica, a product manager from traditional finance, applied her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her highly valuable. She secured a role at a prominent DeFi protocol in just four weeks.
 
 ### Career Changer Success
 

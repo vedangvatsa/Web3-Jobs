@@ -27,7 +27,7 @@ Building, testing, and deploying decentralized applications (dApps) requires fam
 | Framework | Description |
 |-----------|-------------|
 | **Foundry** | A Rust-based toolkit gaining traction due to its speed and effective fuzz testing capabilities. |
-| **Hardhat** | A JavaScript-based development environment that remains popular, supported by a robust ecosystem of plugins. |
+| **Hardhat** | A JavaScript-based development environment that remains popular, supported by a reliable ecosystem of plugins. |
 
 Proficiency in at least one of these frameworks is crucial, with knowledge of both being advantageous.
 
@@ -142,7 +142,7 @@ Target roles that align with your existing expertise and new Web3 knowledge:
 Alex worked as a backend engineer at a major tech company for five years. He dedicated three months to learning Solidity while holding his job. His contributions to an open-source protocol attracted attention from a major DeFi project, leading to a successful transition with a notable salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica transitioned from traditional finance to Web3 by leveraging her expertise in DeFi. Her background in financial products, combined with her understanding of Web3 technology, made her highly desirable. She secured a role at a leading DeFi protocol within a short period.
+Jessica transitioned from traditional finance to Web3 by using her expertise in DeFi. Her background in financial products, combined with her understanding of Web3 technology, made her highly desirable. She secured a role at a leading DeFi protocol within a short period.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) development, he landed a position leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous salary.

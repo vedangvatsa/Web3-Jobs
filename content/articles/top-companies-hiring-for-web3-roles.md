@@ -26,7 +26,7 @@ These blue-chip projects create the foundational infrastructure of Web3. Governe
 **2. Aave / GHO**
 - **What they do:** Aave is a leading decentralized lending and borrowing protocol in [DeFi](/what-is-defi). They continuously innovate with features like a native stablecoin (GHO) and a focus on institutional adoption.
 - **Typical Roles:** [Smart Contract](/what-are-smart-contracts) Engineers, Protocol Engineers, Frontend Engineers, Risk Managers.
-- **Why work here:** Engage with cutting-edge DeFi technology that manages significant volume of assets.
+- **Why work here:** Engage with advanced DeFi technology that manages significant volume of assets.
 
 **3. Uniswap Labs**
 - **What they do:** The team behind Uniswap, a top [decentralized exchange](/what-is-a-decentralized-exchange-dex) (DEX). They focus on enhancing the protocol and developing user-facing applications.
@@ -138,7 +138,7 @@ Focus on roles that align with your existing expertise while incorporating new W
 Alex, a backend engineer with five years of experience at a major tech firm, dedicated three months to learning Solidity while maintaining his job. His contributions to an open-source protocol drew attention from a leading DeFi project, resulting in a transition that provided a significant salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her a valuable asset. She secured a position at a prominent DeFi protocol within four weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products combined with Web3 technology made her a valuable asset. She secured a position at a prominent DeFi protocol within four weeks.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform, enjoying compensation significantly higher than his previous position.

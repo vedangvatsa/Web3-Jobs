@@ -32,7 +32,7 @@ A QA Engineer formulates the overall testing strategy for new features or protoc
 Manual testing requires interacting with the dApp creatively to uncover vulnerabilities. QA engineers test complex user flows, identify UI bugs, and investigate edge cases that automated tests may overlook. For instance, they may assess the implications of a user submitting a transaction with an inadequate gas fee.
 
 **3. Automated Test Development**  
-Building and maintaining a robust suite of automated tests is central to the role.
+Building and maintaining a suite of automated tests is central to the role.
 | **Type of Testing**          | **Tools/Technologies**                                                                                 |
 |------------------------------|-------------------------------------------------------------------------------------------------------|
 | Unit & Integration Tests      | Scripts in JavaScript/TypeScript using frameworks like Hardhat; Solidity tests via [Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit) |
@@ -121,7 +121,7 @@ Target roles that utilize your existing expertise alongside new Web3 knowledge:
 Alex, a backend engineer with five years at a major tech company, dedicated time to learning Solidity while maintaining his job. His contributions to an open-source protocol caught the attention of a major DeFi project, leading to a transition with a significant salary increase and substantial equity.
 
 ### Product Manager Moving to Web3  
-Jessica, a product manager from traditional finance, leveraged her financial domain expertise in DeFi. Her knowledge of financial products combined with Web3 technologies made her invaluable. She secured a role at a leading DeFi protocol within weeks.
+Jessica, a product manager from traditional finance, used her financial domain expertise in DeFi. Her knowledge of financial products combined with Web3 technologies made her invaluable. She secured a role at a leading DeFi protocol within weeks.
 
 ### Career Changer's Journey  
 Marcus left his corporate position to focus entirely on Web3 for several months. Through consistent learning, networking, and portfolio building, he secured a Developer Relations lead role at a major blockchain platform, with compensation significantly exceeding his previous salary.
@@ -151,7 +151,7 @@ A: Transitioning to any new sector carries risk, and Web3 is no different due to
 A: Most professionals can achieve a meaningful transition to Web3 within a few months of focused effort. Engineers and product managers generally move more quickly, as their skills are directly transferable. Non-technical roles, such as marketing and community management, can transition in a matter of weeks with concentrated self-study. Active engagement, such as building a portfolio project or contributing to open-source protocols, significantly accelerates the process.
 
 **Q: What if the crypto market experiences a downturn?**  
-A: Historically, bear markets present excellent opportunities to enter Web3. As speculative hype diminishes, teams concentrate on building robust products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers continue to hire regardless of market conditions. Professionals who built during past downturns are now among the most sought-after in the field. A market decline often leads to reduced competition for roles and improved equity terms for new hires.
+A: Historically, bear markets present excellent opportunities to enter Web3. As speculative hype diminishes, teams concentrate on building reliable products, prioritizing talent over token price. Infrastructure companies, security firms, and developer tooling providers continue to hire regardless of market conditions. Professionals who built during past downturns are now among the most sought-after in the field. A market decline often leads to reduced competition for roles and improved equity terms for new hires.
 
 ## Key Takeaways
 

@@ -20,7 +20,7 @@ Dorsey's commitment to decentralization is unwavering. He sees Bitcoin as a mean
 
 Dorsey's critique of Web3 gained significant attention in December 2021 when he tweeted, "You don’t own 'web3.' The VCs and their LPs do. It will never escape their incentives. It’s ultimately a centralized entity with a different label." This statement sparked extensive debate. Dorsey argues that the Web3 ecosystem, heavily reliant on Ethereum and bolstered by venture capital funding, replicates the centralized power structures of Web2. He contends that venture capital firms invest in projects, acquire considerable [token](/what-is-a-token) allocations, and use their influence to promote their investments, often to the detriment of retail users.
 
-In contrast, Dorsey champions “Web5: The Decentralized Web Platform,” announced in June 2022. This ambitious project seeks to empower individuals with true ownership of their data and identity. It utilizes Bitcoin as its foundational trust layer, foregoing the creation of a new token.
+In contrast, Dorsey champions “Web5: The Decentralized Web Platform,” announced in June 2022. This ambitious project seeks to enable individuals with true ownership of their data and identity. It utilizes Bitcoin as its foundational trust layer, foregoing the creation of a new token.
 
 The main components of Web5 are:
 
@@ -47,7 +47,7 @@ Block has embraced this vision through various initiatives:
 
 Dorsey’s commitment to decentralization extends into social media. While serving as CEO of Twitter, he launched Bluesky, an independent initiative focused on developing a decentralized social media protocol.
 
-The project, known as the AT Protocol, envisions a landscape where users can transfer their identities, followers, and content across different social media platforms, similar to how emails can be moved between providers. This concept of "account portability" directly challenges the closed ecosystems of major social media firms, including Twitter.
+The project, known as the AT Protocol, envisions a field where users can transfer their identities, followers, and content across different social media platforms, similar to how emails can be moved between providers. This concept of "account portability" directly challenges the closed ecosystems of major social media firms, including Twitter.
 
 Although Bluesky operates independently of Block and does not directly integrate Bitcoin, it embodies the same principles: returning control and ownership to the individual.
 
@@ -71,7 +71,7 @@ Dorsey and Musk share a mutual respect and a focus on promoting free speech and 
 
 **Q3: Is "Web5" a real project?**
 
-Yes, Web5 is an active, open-source project developed by TBD, a subsidiary of Block. It comprises standards and protocols for developers to build decentralized applications. The objective is to offer decentralized identity and data storage solutions leveraging the Bitcoin blockchain.
+Yes, Web5 is an active, open-source project developed by TBD, a subsidiary of Block. It comprises standards and protocols for developers to build decentralized applications. The objective is to offer decentralized identity and data storage solutions using the Bitcoin blockchain.
 
 **Q4: Does Web5 have a token to invest in?**
 

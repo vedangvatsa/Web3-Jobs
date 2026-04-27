@@ -24,7 +24,7 @@ Poor communication is a hallmark of toxicity. Here are some patterns to identify
 | Gossip and Cliques             | Information circulates through rumors and exclusive social groups rather than open dialogues. This breeds distrust and alienation. |
 | Passive-Aggressive Behavior     | Employees avoid direct confrontations, opting instead for sarcasm, silence, or backchanneling. This creates a strained work atmosphere. |
 
-In contrast, a healthy work environment fosters clear, open, and respectful communication. Constructive feedback flows freely, and employees share information willingly.
+In contrast, a healthy work environment supports clear, open, and respectful communication. Constructive feedback flows freely, and employees share information willingly.
 
 ### Unhealthy Competition and Insufficient Collaboration
 
@@ -58,7 +58,7 @@ Indicators of micromanagement include:
 | Prescriptive Task Management    | They dictate every step of a task, leaving no room for personal input or creativity.         |
 | Frequent Check-Ins             | They regularly demand detailed updates on your work, which can feel intrusive.                |
 
-Effective managers empower their teams, providing support and guidance without excessive oversight.
+Effective managers enable their teams, providing support and guidance without excessive oversight.
 
 ### Burnout Culture
 
@@ -80,7 +80,7 @@ If you identify these signs in your current role, taking proactive measures is v
 
 If you have an approachable manager or HR representative, consider discussing your concerns. However, recognizing that ingrained toxicity is often difficult to address from within is crucial. Preparing to exit may be the best long-term solution. Update your [resume](/how-to-build-a-web3-resume-that-stands-out), network strategically, and seek opportunities at organizations with healthier cultures.
 
-Prioritizing your well-being is essential. No job should come at the expense of your mental or physical health. By developing the ability to identify and avoid toxic work environments, you can foster a career that is both successful and fulfilling.
+Prioritizing your well-being is essential. No job should come at the expense of your mental or physical health. By developing the ability to identify and avoid toxic work environments, you can build a career that is both successful and fulfilling.
 
 ### Frequently Asked Questions (FAQs)
 

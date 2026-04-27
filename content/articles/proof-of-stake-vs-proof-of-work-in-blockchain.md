@@ -25,7 +25,7 @@ Proof-of-Work was first implemented by [Bitcoin](/what-is-bitcoin) and relies on
 
 - **Security Model:** PoW's security hinges on physical energy and computational resources. To execute a successful attack (known as a "51% attack"), an attacker must control more than half of the network's computational power. For a large network like Bitcoin’s, this would necessitate significant investment in hardware and electricity, making such an attack economically and practically infeasible.
 
-- **Pros:** PoW has demonstrated remarkable robustness and security over more than a decade.
+- **Pros:** PoW has demonstrated strong security over more than a decade.
 
 - **Cons:** This mechanism consumes vast amounts of energy, raising significant environmental concerns and experiencing inherent scalability challenges.
 
@@ -48,7 +48,7 @@ Proof-of-Stake represents a more contemporary consensus mechanism that maintains
     - **Accessibility:** PoS presents a lower barrier to entry compared to PoW mining, which requires expensive, specialized hardware.
     - **Scalability:** PoS facilitates advanced scalability solutions.
 
-- **Cons:** This mechanism may foster a "rich get richer" dynamic, where larger stakers gain disproportionate influence over the network.
+- **Cons:** This mechanism may create a "rich get richer" dynamic, where larger stakers gain disproportionate influence over the network.
 
 - **Examples:** Notable cryptocurrencies using PoS include Ethereum, Solana, Avalanche, and Cardano.
 
@@ -140,7 +140,7 @@ Alex, a backend engineer with five years of experience at a FAANG company, dedic
 
 ### Product Manager in Web3
 
-Jessica transitioned from traditional finance to Web3 by leveraging her knowledge of financial products in the DeFi space. Her combination of financial expertise and understanding of Web3 technology made her a valuable candidate. She secured a position at a leading DeFi protocol within four weeks.
+Jessica transitioned from traditional finance to Web3 by using her knowledge of financial products in the DeFi space. Her combination of financial expertise and understanding of Web3 technology made her a valuable candidate. She secured a position at a leading DeFi protocol within four weeks.
 
 ### Career Changer Success
 

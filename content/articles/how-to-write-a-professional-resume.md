@@ -31,7 +31,7 @@ Most professionals benefit from the reverse-chronological format, as it clearly 
 Include a brief summary or objective statement at the top of your resume. This section should encapsulate your skills and career aspirations.
 
 - **Summary Statement:** A 2-3 sentence overview of your skills and experience, ideal for those with work history.
-  - *Example:* "Detail-oriented project manager with significant experience leading cross-functional teams and delivering projects on time and within budget. Proficient in Agile methodologies and stakeholder engagement."
+  - *Example:* "Detail-oriented project manager with experience leading cross-functional teams and delivering projects on time and within budget. Proficient in Agile methodologies and stakeholder engagement."
   
 - **Objective Statement:** A declaration of your career goals, suitable for recent graduates or individuals transitioning careers.
   - *Example:* "Aspiring marketing professional with a Bachelor’s degree in Communications seeking an entry-level marketing role, eager to apply skills in digital marketing and content creation."
@@ -135,4 +135,4 @@ Maya transitioned from Web2 to Web3, utilizing the outlined approach to adapt he
 
 ### Conclusion
 
-Writing a professional resume is a vital step in advancing your career. By selecting the right format, crafting compelling summaries, showcasing achievements, tailoring your content, and ensuring clarity, you can create a resume that resonates with employers. Avoid common pitfalls and continuously refine your approach based on feedback and results. Your resume should reflect not only your qualifications but also your potential contributions to prospective employers. Investing the time and effort into developing a robust resume will pay dividends in your career trajectory.
+Writing a professional resume is a vital step in advancing your career. By selecting the right format, crafting compelling summaries, showcasing achievements, tailoring your content, and ensuring clarity, you can create a resume that resonates with employers. Avoid common pitfalls and continuously refine your approach based on feedback and results. Your resume should reflect not only your qualifications but also your potential contributions to prospective employers. Investing the time and effort into developing a strong resume will pay dividends in your career trajectory.

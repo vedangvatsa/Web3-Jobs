@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 For the last fifteen years, digital identities have resided within closed systems, often referred to as walled gardens. Your social graph, which encompasses your friends, followers, posts, and interactions, represents a significant digital asset. However, you don't own it; major platforms like Facebook, Twitter, and TikTok retain that ownership. If you choose to leave a platform, your entire social graph vanishes. Furthermore, if the platform alters its algorithm, your reach can diminish dramatically.
 
-The **[Web3](/what-is-web3) Social Graph** movement aims to change this paradigm. It seeks to establish a decentralized foundation for social media, allowing users to own and control their data rather than being at the mercy of platforms. By using open and permissionless protocols, Web3 is creating a more resilient and user-centric social media environment.
+The **[Web3](/what-is-web3) Social Graph** movement aims to change this model. It seeks to establish a decentralized foundation for social media, allowing users to own and control their data rather than being at the mercy of platforms. By using open and permissionless protocols, Web3 is creating a more reliable and user-centric social media environment.
 
 ### The Problems with Web2 Social Graphs
 
@@ -25,7 +25,7 @@ The **[Web3](/what-is-web3) Social Graph** movement aims to change this paradigm
 A Web3 social graph protocol distinguishes between the data layer and the application layer.
 
 - **The Protocol Layer (The Graph):** This layer consists of an open, decentralized network where core social data is stored. Your identity, content, and connections are recorded on a [blockchain](/what-is-a-blockchain) or a decentralized network.
-- **The Application Layer (The Clients):** Developers can create frontend applications or "clients" on top of this communal social graph, fostering a diverse ecosystem of applications that utilize the same underlying data. This is akin to various Twitter clients like TweetDeck, but within a decentralized framework.
+- **The Application Layer (The Clients):** Developers can create frontend applications or "clients" on top of this communal social graph, supporting a diverse ecosystem of applications that utilize the same underlying data. This is akin to various Twitter clients like TweetDeck, but within a decentralized framework.
 
 ### Leading Web3 Social Protocols
 
@@ -45,7 +45,7 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 
 - **User Ownership:** You own your identity, content, and audience, ensuring that no one can take them away.
 - **Censorship Resistance:** The absence of a central server makes it nearly impossible for a single entity to censor content.
-- **Innovation:** By establishing a shared, open data layer, Web3 reduces barriers for new developers to create innovative social applications, fostering competition and enhancing user experience.
+- **Innovation:** By establishing a shared, open data layer, Web3 reduces barriers for new developers to create innovative social applications, enhancing user experience.
 
 ## Web3 Social Graph: Career Opportunities
 
@@ -197,7 +197,7 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 
 The social graph represents a new frontier within Web3. Opportunities abound for those interested in building protocols, applications, or communities. Engage with our [job board](/jobs) to explore available roles.
 
-The journey towards a fully decentralized social media ecosystem is still underway. Building a robust, open social graph is a significant step towards creating a more equitable, user-owned internet.
+The journey towards a fully decentralized social media ecosystem is still underway. Building an open social graph is a significant step towards creating a more equitable, user-owned internet.
 
 ## The Web3 Opportunity
 
@@ -260,7 +260,7 @@ Target roles that align with your existing expertise while incorporating new Web
 Alex transitioned from a five-year backend engineering role at a FAANG company. By dedicating three months to learn Solidity while continuing his job, he contributed to an open-source protocol. This caught the eye of a major DeFi project, leading to a successful transition with a significant salary increase and equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her a valuable asset. She secured a position at a leading DeFi protocol within a short timeframe.
+Jessica, a PM from traditional finance, used her domain expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her a valuable asset. She secured a position at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a prominent blockchain platform, with compensation exceeding his previous salary.

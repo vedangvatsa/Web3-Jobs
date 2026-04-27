@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-In the realm of [Web3](/what-is-web3), the safeguarding of digital assets relies heavily on the protection of private keys. A compromised private key leads to permanent loss of access to the associated assets. Traditionally, individuals have utilized hardware wallets for key security, while institutions have favored multi-signature (multisig) wallets. However, a more sophisticated method, known as **Multi-Party Computation (MPC)**, is becoming increasingly popular.
+In the [Web3](/what-is-web3), the safeguarding of digital assets relies heavily on the protection of private keys. A compromised private key leads to permanent loss of access to the associated assets. Traditionally, individuals have used hardware wallets for key security, while institutions have favored multi-signature (multisig) wallets. However, a more sophisticated method, known as **Multi-Party Computation (MPC)**, is becoming increasingly popular.
 
 MPC is a specialized area within cryptography that enables a group of untrusting parties to compute a function collaboratively without disclosing their private inputs to one another. In Web3, one of MPC's most compelling applications is through **Threshold Signature Schemes (TSS)**, which provide a more refined method for managing private keys.
 
@@ -60,7 +60,7 @@ To execute a transaction, approval from two of these three entities is required.
 
 **3. Private Computation**  
 Beyond signatures, MPC can enable multiple parties to compute results based on their private data without disclosing that data.
-- **Example: Salary Benchmarking:** A consortium of companies could leverage MPC to determine the average salary for a specific role, ensuring that no individual company discloses its salary information to others.
+- **Example: Salary Benchmarking:** A consortium of companies could use MPC to determine the average salary for a specific role, ensuring that no individual company discloses its salary information to others.
 
 ### Challenges and Conclusion
 

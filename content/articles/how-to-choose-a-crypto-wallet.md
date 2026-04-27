@@ -23,7 +23,7 @@ The primary distinction between wallets lies in who possesses the "private keys.
   - **Cons:** You do not fully own your crypto. Trusting the exchange to secure your assets is necessary. If the exchange suffers a security breach or goes bankrupt, you risk losing your funds. This principle is encapsulated in the saying: **"Not your keys, not your coins."**
 
 - **Non-Custodial Wallets:** You alone control your private keys. Upon creating the wallet, you receive a "seed phrase," a series of 12-24 words serving as the master key for your assets.
-  - **Pros:** You maintain full control and self-sovereignty over your funds. No third party can freeze your assets or censor transactions, placing you in the role of your own bank.
+  - **Pros:** You maintain full control over your funds. No third party can freeze your assets or censor transactions, placing you in the role of your own bank.
   - **Cons:** You bear significant personal responsibility. **If you lose your seed phrase, your funds are unrecoverable.** There is no support system available.
 
 For those wishing to engage deeply in Web3, whether through [DeFi](/what-is-defi), collecting [NFTs](/what-are-nfts), or participating in [DAOs](/what-is-a-dao), a non-custodial wallet is essential.

@@ -44,7 +44,7 @@ While Musk engages with cryptocurrencies, he expresses skepticism about the term
 
 In late 2021, Musk questioned the decentralization of the current Web3 ecosystem, famously tweeting, "Has anyone seen web3? I can’t find it." He pointed out that many Web3 applications still rely on centralized services, particularly cloud providers. This critique, while sharp, resonates with others in the industry. Musk's engineering mindset prioritizes tangible technology over marketing narratives, focusing on whether the technology fulfills its decentralization promises.
 
-His skepticism implies he believes the current Web3 iteration has not achieved the genuine decentralization it claims. He appears to be waiting for a more robust infrastructure to emerge before fully embracing the "Web3" label.
+His skepticism implies he believes the current Web3 iteration has not achieved the genuine decentralization it claims. He appears to be waiting for a more thorough infrastructure to emerge before fully adopting the "Web3" label.
 
 ## X, The "Everything App": A Centralized Approach to a Web3 Vision
 
@@ -54,11 +54,11 @@ This vision shares some commonalities with Web3 ideals:
 
 | **Web3 Ideal**             | **X Vision Element**                  |
 |----------------------------|---------------------------------------|
-| Creator Monetization        | Empowering creators to monetize content directly |
+| Creator Monetization        | Helping creators to monetize content directly |
 | Freedom of Speech          | Advocating for "free speech absolutism" |
 | Payments Integration        | Integrating payments into the app     |
 
-However, Musk's approach remains fundamentally centralized. The "everything app" would be under the control of X Corp, contrasting sharply with the Web3 ideal of a decentralized ecosystem composed of interoperable protocols. Musk appears to believe that a centralized approach can deliver a superior user experience and foster faster innovation, even if it incorporates features reminiscent of Web3. Essentially, he is creating a walled garden with some decentralized elements.
+However, Musk's approach remains fundamentally centralized. The "everything app" would be under the control of X Corp, contrasting sharply with the Web3 ideal of a decentralized ecosystem composed of interoperable protocols. Musk appears to believe that a centralized approach can deliver a superior user experience and support faster innovation, even if it incorporates features reminiscent of Web3. Essentially, he is creating a walled garden with some decentralized elements.
 
 ## A Pragmatic Skeptic with Decentralized Interests
 
@@ -148,7 +148,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a PM from traditional finance, leveraged her knowledge in DeFi. Her expertise in financial products combined with Web3 technology made her highly sought after. Within four weeks, she secured a position at a prominent DeFi protocol.
+Jessica, a PM from traditional finance, applied her knowledge in DeFi. Her expertise in financial products combined with Web3 technology made her highly sought after. Within four weeks, she secured a position at a prominent DeFi protocol.
 
 ### Career Changer Success
 
