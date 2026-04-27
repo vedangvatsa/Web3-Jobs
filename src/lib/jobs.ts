@@ -12,10 +12,28 @@ const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
  * The cache is refreshed every 8 hours by GitHub Actions (refresh-jobs-cache.yml).
  * No RSS fetching happens at runtime.
  */
+/**
+ * Cleans job titles by removing parenthesized/bracketed suffixes
+ * and everything after " - " dashes.
+ * e.g. "Business Development Manager (Acquiring)" → "Business Development Manager"
+ *      "Engineering Manager - DevX" → "Engineering Manager"
+ */
+function cleanJobTitle(title: string): string {
+  return title
+    .replace(/\s*\(.*?\)\s*/g, ' ')  // Remove (anything)
+    .replace(/\s*\[.*?\]\s*/g, ' ')   // Remove [anything]
+    .replace(/\s*-\s+.*$/, '')        // Remove " - anything" at end
+    .replace(/\s+/g, ' ')            // Collapse whitespace
+    .trim();
+}
+
 export async function getJobs(): Promise<Job[]> {
   try {
     const data = fs.readFileSync(CACHE_PATH, 'utf-8');
-    const jobs: Job[] = JSON.parse(data);
+    const jobs: Job[] = JSON.parse(data).map((job: Job) => ({
+      ...job,
+      title: cleanJobTitle(job.title),
+    }));
 
     // Apply 30-day freshness filter
     const thirtyDaysAgo = new Date();
