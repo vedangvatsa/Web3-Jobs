@@ -9,7 +9,7 @@ relatedTerms: ["staking", "validator", "yield", "eigenlayer"]
 synonyms: ["dual staking", "multi-protocol staking", "yield staking"]
 ---
 
-Restaking is the practice of using already-staked cryptocurrency to secure additional protocols simultaneously, multiplying yield opportunities without deploying more capital. When a validator stakes 32 ETH to participate in Ethereum consensus, they can then restake that same collateral through platforms like EigenLayer to provide security for other decentralized services, earning rewards from multiple sources at once. This capital efficiency has proven enormously popular, with EigenLayer accumulating over $15 billion in total value locked by early 2024, making it one of the fastest-growing protocols in DeFi history (according to DeFiLlama). However, restaking introduces correlated slashing risks, meaning that if any of the secured protocols experiences a fault or attack, the validator's entire stake can be penalized across all commitments. The rapid growth of restaking protocols has created strong demand for professionals who understand validator economics, risk modeling, and the technical architecture of shared security systems across Web3 organizations.
+Restaking is the practice of using already-staked cryptocurrency to secure additional protocols simultaneously, multiplying yield opportunities without deploying more capital. When a validator stakes 32 ETH to participate in Ethereum consensus, they can then restake that same collateral through platforms like EigenLayer to provide security for other decentralized services, earning rewards from multiple sources at once. However, restaking introduces correlated slashing risks, meaning that if any of the secured protocols experiences a fault or attack, the validator's entire stake can be penalized across all commitments. The growth of restaking protocols has created strong demand for professionals who understand validator economics, risk modeling, and the technical architecture of shared security systems across Web3 organizations.
 
 ## How Restaking Works
 
@@ -19,16 +19,16 @@ Restaking mechanisms vary by protocol:
 
 **Delegation**: Eigenlayer coordinates between validators and protocols requesting security. Protocols post collateral and security requirements; validators accept risk in exchange for rewards.
 
-**Multi-Protocol Security**: Same validator stake securing Ethereum consensus (earning base APY) + protecting Eigenlayer AVS (Active Validator Sets) like rollups, data availability services, or other protocols (earning additional AVS APY).
+**Multi-Protocol Security**: Same validator stake securing Ethereum consensus (earning base APY) plus protecting Eigenlayer AVS (Active Validator Sets) like rollups, data availability services, or other protocols (earning additional AVS APY).
 
-**Slashing Mechanism**: If validator misbehaves on secured protocol, both Ethereum and the AVS can slash. Creates compounded slashing risk.
+**Slashing Mechanism**: If a validator misbehaves on a secured protocol, both Ethereum and the AVS can slash. This creates compounded slashing risk.
 
 **Reward Distribution**: Validator earns:
 - Ethereum staking rewards (base)
 - Eigenlayer and AVS rewards (additional)
 - Risks slashing from any protocol
 
-This multiplies potential returns at cost of multiplied slashing risk.
+This multiplies potential returns at the cost of multiplied slashing risk.
 
 ## Restaking Opportunities
 
@@ -46,23 +46,23 @@ Eigenlayer and similar protocols are securing:
 
 **Custom Applications**: Any protocol needing strong security could use restaking.
 
-The versatility of restaking infrastructure creates ecosystem of additional yields.
+The versatility of restaking infrastructure creates an ecosystem of additional yields.
 
 ## Restaking Economics
 
 Restaking creates interesting economic dynamics:
 
-**Yield Stacking**: Base Ethereum yield (3-5% APY) + AVS yields (2-20% APY depending on demand) = 5-25% total potential APY. Significant returns vs. traditional finance.
+**Yield Stacking**: Base Ethereum yield plus AVS yields equals total potential APY. Significant returns compared to traditional finance.
 
 **Capital Efficiency**: Single ETH earning multiple yields. No need to deploy different capital to different chains.
 
-**Competition Dynamics**: As more validators restake, individual validator yield decreases (dilution). Market finds equilibrium.
+**Competition Dynamics**: As more validators restake, individual validator yield decreases. The market finds equilibrium.
 
-**Risk-Adjusted Returns**: Higher yields reflect higher risks. 15% APY on restaking implies 15% slashing risk if it occurs.
+**Risk-Adjusted Returns**: Higher yields reflect higher risks. A higher APY on restaking implies a corresponding slashing risk if it occurs.
 
-**Economic Security**: Protocols can buy security by rewarding restaking. They pay validators, validators bear slashing risk.
+**Economic Security**: Protocols can buy security by rewarding restaking. They pay validators, who bear slashing risk.
 
-**TVL Metrics**: Eigenlayer TVL (total value restaked) indicates how much security market believes is needed and how attractive yields are.
+**TVL Metrics**: Eigenlayer TVL indicates how much security the market believes is needed and how attractive yields are.
 
 Restaking enables protocols to bootstrap security without building validator networks themselves.
 
@@ -70,21 +70,21 @@ Restaking enables protocols to bootstrap security without building validator net
 
 Restaking introduces risks absent in single-protocol staking:
 
-**Correlated Slashing**: If multiple protocols restaking validators are compromised simultaneously, validators face slashing from multiple sources simultaneously. Worst case: multiple protocols slash, losing 100% of stake.
+**Correlated Slashing**: If multiple protocols restaking validators are compromised simultaneously, validators face slashing from multiple sources. In the worst case, multiple protocols could slash, losing the entire stake.
 
-**Compounding Slashing**: Some proposals suggest slashing could scale nonlinearly—more simultaneous slashing = worse penalties per incident.
+**Compounding Slashing**: Some proposals suggest slashing could scale nonlinearly; more simultaneous slashing results in worse penalties per incident.
 
-**Protocol Risk**: Each additional protocol increases attack surface. New protocol security might be worse than Ethereum's.
+**Protocol Risk**: Each additional protocol increases the attack surface. New protocol security might be worse than Ethereum's.
 
-**Coordination Risk**: Restaking requires third parties (Eigenlayer) to coordinate between protocols. Third party could be compromised or make mistakes.
+**Coordination Risk**: Restaking requires third parties (Eigenlayer) to coordinate between protocols. A third party could be compromised or make mistakes.
 
 **Validator Overextension**: Validators might accept more risk than they understand, building up slashing exposure beyond reasonable levels.
 
-**Liquidity Risk**: If massive slashing occurs, cannot instantly exit. Restaked capital is locked.
+**Liquidity Risk**: If massive slashing occurs, validators cannot instantly exit. Restaked capital is locked.
 
 **Regulatory Risk**: Additional protocols might face regulatory issues. Validators could be implicated.
 
-Current restaking (Eigenlayer) is experimental and carries substantial unquantified risks.
+Current restaking is experimental and carries substantial unquantified risks.
 
 ## Eigenlayer's Role
 
@@ -98,9 +98,9 @@ Eigenlayer Protocol is the primary restaking infrastructure:
 
 **Slashing Execution**: Executes slashing from AVS protocols if validators misbehave.
 
-**Governance**: Early decisions centralized, longer-term decentralization planned.
+**Governance**: Early decisions are centralized, with longer-term decentralization planned.
 
-Eigenlayer is essentially a marketplace for validator security where security buyers (protocols) can purchase security from validators.
+Eigenlayer is a marketplace for validator security where security buyers (protocols) can purchase security from validators.
 
 ## Restaking Strategies
 
@@ -108,9 +108,9 @@ Validators approach restaking with different strategies:
 
 **Conservative**: Minimal restaking, only accept security for proven protocols. Lower yields but lower risk.
 
-**Moderate**: Restake to 2-3 established AVS, accepting reasonable risk for 8-12% additional APY.
+**Moderate**: Restake to 2-3 established AVS, accepting reasonable risk for additional APY.
 
-**Aggressive**: Restake to many protocols, chasing maximum yields. Accept high slashing risk for 15-20%+ APY.
+**Aggressive**: Restake to many protocols, chasing maximum yields. Accept high slashing risk for higher APY.
 
 **Hedged**: Diversify across many protocols to reduce single-protocol slashing impact.
 
@@ -121,50 +121,50 @@ Different risk tolerances lead to different strategies.
 Comparing approaches:
 
 **Solo Staking ETH**:
-- Earn ~3-5% APY in staking rewards
+- Earn staking rewards
 - Single slashing risk
 - Simple and straightforward
 - Requires running validator infrastructure
 
 **Staking with Service (Lido)**:
-- Earn ~3.5-4% APY, split with service
-- Lido manages validator, you get liquid staking token
+- Earn staking rewards, split with service
+- Lido manages validator, you receive a liquid staking token
 - Relying on Lido's validator security
 - Easy onboarding
 
 **Restaking to AVS**:
-- Earn ~5-25% APY depending on AVS
+- Earn APY depending on AVS
 - Multiple slashing risks
 - Experiment-stage infrastructure
 - Potential for larger gains but unproven
 
-For risk-averse, solo or service staking makes sense. For sophisticated validators comfortable with risk, restaking offers better returns.
+For risk-averse individuals, solo or service staking makes sense. For sophisticated validators comfortable with risk, restaking offers better returns.
 
 ## Historical Context and Future
 
 Restaking is nascent:
 
-**Eigenlayer**: Launched early 2024 on mainnet after extensive testnet. First meaningful restaking infrastructure.
+**Eigenlayer**: Launched on mainnet after extensive testnet. First meaningful restaking infrastructure.
 
-**Early Validators**: Those staking in Eigenlayer early are either maximally risk-tolerant or FOMO-driven.
+**Early Validators**: Those staking in Eigenlayer early are either maximally risk-tolerant or driven by market trends.
 
-**Potential Catalysts**: As major protocols (rollups, DA layers) begin requesting restaking for security, demand increases and restaking becomes more mainstream.
+**Potential Catalysts**: As major protocols begin requesting restaking for security, demand increases and restaking becomes more mainstream.
 
-**Risk Evolution**: As protocols request restaking, market will learn what reasonable slashing rates are. Economics will mature.
+**Risk Evolution**: As protocols request restaking, the market will learn what reasonable slashing rates are. Economics will mature.
 
 ## Career Opportunities
 
 Restaking creates sophisticated roles:
 
-**Risk Managers** evaluating restaking protocols and slashing risk earn $120,000-$250,000+.
+**Risk Managers** evaluating restaking protocols and slashing risk.
 
-**Validator Operators** running sophisticated restaking strategies earn $100,000-$300,000+ depending on capital and performance.
+**Validator Operators** running sophisticated restaking strategies.
 
-**Protocol Engineers** building restaking infrastructure and AVS earn $150,000-$350,000+.
+**Protocol Engineers** building restaking infrastructure and AVS.
 
-**Researchers** studying slashing economics and protocol security earn $130,000-$300,000+.
+**Researchers** studying slashing economics and protocol security.
 
-**Smart Contract Auditors** specializing in restaking security earn $150,000-$350,000+.
+**Smart Contract Auditors** specializing in restaking security.
 
 ## Best Practices
 
@@ -176,9 +176,9 @@ Approaching restaking safely:
 
 **Risk Assessment**: Evaluate each AVS security model independently before restaking.
 
-**Diversification**: Don't concentrate all stake in single AVS. Diversify across multiple protocols.
+**Diversification**: Don't concentrate all stake in a single AVS. Diversify across multiple protocols.
 
-**Insurance**: Consider insurance/hedging if major slashing scenarios concern you.
+**Insurance**: Consider insurance or hedging if major slashing scenarios concern you.
 
 **Monitoring**: Actively monitor restaking positions and AVS for any signs of issues.
 
@@ -190,7 +190,7 @@ Restaking evolution:
 
 **AVS Proliferation**: More protocols requesting restaking as infrastructure matures.
 
-**Slashing Events**: Market will test slashing mechanics. Early slashing events will educate market on real risks.
+**Slashing Events**: The market will test slashing mechanics. Early slashing events will educate the market on real risks.
 
 **Derivatives**: Restaking derivatives enabling exposure to yields without validator operation.
 
@@ -198,7 +198,7 @@ Restaking evolution:
 
 **Protocol Evolution**: Protocols might improve slashing mechanisms to be more granular and fair.
 
-**Mainstream Adoption**: If risks prove manageable, restaking becomes standard validator revenue source.
+**Mainstream Adoption**: If risks prove manageable, restaking may become a standard validator revenue source.
 
 ## Maximize Validator Yield
 

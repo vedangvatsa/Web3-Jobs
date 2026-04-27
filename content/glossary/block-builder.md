@@ -9,7 +9,7 @@ relatedTerms: ["mev", "proposer-builder-separation", "sequencer", "flashbots"]
 synonyms: ["builder", "block constructor", "MEV builder"]
 ---
 
-Block Builder refers to a specialized entity in blockchain infrastructure that constructs optimized blocks by strategically ordering and bundling transactions, then bidding to have these blocks proposed by validators in Proposer-Builder Separation systems. Block builders collect transactions from both the public mempool and private order flow sources, arranging them to maximize value extraction while competing with other builders for block inclusion rights. Flashbots, the company that pioneered this role through its MEV-Boost software, enabled a builder ecosystem that now processes the majority of Ethereum blocks, with builders constructing over 90 percent of all Ethereum blocks as of early 2024 according to MEV-Boost dashboard data. The builder role emerged as protocols sought to separate block construction from block proposal to reduce validator centralization pressures and create more efficient MEV markets. Professionals who understand block builder mechanics are increasingly sought after for roles in MEV research, protocol development, and blockchain infrastructure engineering.
+Block Builder refers to a specialized entity in blockchain infrastructure that constructs optimized blocks by strategically ordering and bundling transactions, then bidding to have these blocks proposed by validators in Proposer-Builder Separation systems. Block builders collect transactions from both the public mempool and private order flow sources, arranging them to maximize value extraction while competing with other builders for block inclusion rights. Flashbots, the company that pioneered this role through its MEV-Boost software, enabled a builder ecosystem that processes a significant portion of Ethereum blocks. The builder role emerged as protocols sought to separate block construction from block proposal to reduce validator centralization pressures and create more efficient MEV markets. Professionals who understand block builder mechanics are increasingly sought after for roles in MEV research, protocol development, and blockchain infrastructure engineering.
 
 ## Block Builder Role
 
@@ -17,7 +17,7 @@ What builders do:
 
 **Transaction Collection**: Gather transactions from public mempool and private sources.
 
-**MEV Extraction**: Order transactions to capture arbitrage, liquidations, sandwiches.
+**MEV Extraction**: Order transactions to capture arbitrage, liquidations, and sandwiches.
 
 **Block Construction**: Bundle transactions into optimized blocks.
 
@@ -61,9 +61,9 @@ Current system:
 
 **Block Submission**: Builders submit blocks to relays.
 
-**Proposer Selection**: Validators choose highest-paying block.
+**Proposer Selection**: Validators choose the highest-paying block.
 
-**Revenue Share**: Builders pay validators, keep remaining MEV.
+**Revenue Share**: Builders pay validators and keep the remaining MEV.
 
 MEV-Boost enables builder-proposer separation.
 
@@ -71,11 +71,11 @@ MEV-Boost enables builder-proposer separation.
 
 Economics:
 
-**MEV Capture**: Builders capture arbitrage, liquidations, etc.
+**MEV Capture**: Builders capture arbitrage, liquidations, and other opportunities.
 
 **Validator Payments**: Pay validators for inclusion rights.
 
-**Profit Margin**: Keep difference as profit.
+**Profit Margin**: Keep the difference as profit.
 
 **Competition**: High competition compresses margins.
 
@@ -85,13 +85,13 @@ Builder profitability depends on MEV capture and competition.
 
 Builder ecosystem roles:
 
-**Block Builder Engineers** earn $140,000-$340,000+.
+**Block Builder Engineers**.
 
-**MEV Researchers** earn $140,000-$340,000+.
+**MEV Researchers**.
 
-**Infrastructure Engineers** earn $130,000-$320,000+.
+**Infrastructure Engineers**.
 
-**Quant Traders** earn $150,000-$400,000+.
+**Quant Traders**.
 
 ## Best Practices
 

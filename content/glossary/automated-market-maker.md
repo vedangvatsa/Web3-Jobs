@@ -19,9 +19,9 @@ synonyms:
 
 An **Automated Market Maker (AMM)** is a **smart contract that enables trading by maintaining liquidity pools and using mathematical formulas to determine asset prices automatically**. Instead of traditional order books where buyers and sellers directly match, AMMs allow anyone to trade against a pool of assets, with prices determined algorithmically based on the ratio of assets in the pool.
 
-Uniswap popularized AMMs in 2018, launching with the constant-product formula (x × y = k). This simple innovation enabled decentralized trading without order books, market makers, or centralized intermediaries. As of 2026, AMMs process hundreds of billions in annual trading volume and represent the dominant trading mechanism in DeFi.
+Uniswap popularized AMMs in 2018, launching with the constant-product formula (x × y = k). This innovation enabled decentralized trading without order books, market makers, or centralized intermediaries. AMMs process significant trading volume and represent a dominant trading mechanism in DeFi.
 
-AMMs are elegant, efficient, and accessible to anyone—but they also introduce unique challenges (impermanent loss, slippage) that traditional order book exchanges don't have. Understanding how AMMs work is fundamental to DeFi.
+AMMs introduce unique challenges, such as impermanent loss and slippage, that traditional order book exchanges do not have. Understanding how AMMs work is fundamental to DeFi.
 
 ## How AMMs Work
 
@@ -56,7 +56,7 @@ Starting state: 1000 ETH, 2,000,000 USDC
 5. User receives: 1000 - 999.95 = 0.05 ETH
 6. Price: 100 USDC ÷ 0.05 ETH = 2000 USDC/ETH (market price)
 
-**Key Insight**: As the pool becomes less balanced, prices become worse for traders (increasing slippage).
+**Key Insight**: As the pool becomes less balanced, prices become worse for traders, increasing slippage.
 
 ### Liquidity Providers
 
@@ -68,7 +68,7 @@ Starting state: 1000 ETH, 2,000,000 USDC
 3. LP earns a percentage of all trading fees (typically 0.3%-1%)
 4. LP can withdraw anytime by burning pool tokens
 
-**Risk**: If prices diverge significantly, LPs suffer **impermanent loss**—they would have been better off just holding the assets.
+**Risk**: If prices diverge significantly, LPs suffer **impermanent loss**; they would have been better off just holding the assets.
 
 ## Types of AMMs
 
@@ -77,11 +77,9 @@ Starting state: 1000 ETH, 2,000,000 USDC
 **Formula**: x × y = k
 
 **Characteristics**:
-- Simple, elegant formula
+- Simple formula
 - Requires large trades to move prices significantly
 - Works well for all token pairs
-
-**Popularity**: Most common AMM design.
 
 ### Constant Sum (Curve Finance, in a simplified form)
 
@@ -92,8 +90,6 @@ Starting state: 1000 ETH, 2,000,000 USDC
 - Much lower slippage for similar-valued assets
 - Can become unbalanced (price at boundary = infinity)
 
-**Usage**: Curve dominates stablecoin trading ($10B+ daily volume).
-
 ### Constant Mean (Balancer)
 
 **Formula**: (x^w1) × (y^w2) = k (weighted product)
@@ -103,8 +99,6 @@ Starting state: 1000 ETH, 2,000,000 USDC
 - Example: 80% USDC / 20% ETH pool
 - More complex but more flexible
 
-**Usage**: Balancer enables multi-token pools.
-
 ### Hybrid (Curve V2, Solidly)
 
 **Formula**: Combines constant-product and constant-sum properties
@@ -113,8 +107,6 @@ Starting state: 1000 ETH, 2,000,000 USDC
 - Low slippage for similar-valued assets
 - Works well across price ranges
 - More complex math, higher gas costs
-
-**Usage**: Next-generation AMMs with improved capital efficiency.
 
 ## AMM Design Comparison
 
@@ -127,9 +119,9 @@ Starting state: 1000 ETH, 2,000,000 USDC
 
 ## Slippage and Price Impact
 
-**Slippage** = difference between expected price and actual execution price.
+**Slippage** is the difference between expected price and actual execution price.
 
-**Cause**: Large trades move the price (pool becomes less balanced).
+**Cause**: Large trades move the price, causing the pool to become less balanced.
 
 **Formula**: Price Impact = (Input / (Input + Pool Balance))
 
@@ -140,9 +132,9 @@ Starting state: 1000 ETH, 2,000,000 USDC
 - You get worse than market price due to slippage
 
 **Implications**:
-- Large trades = higher slippage = worse execution
-- Slippage increases as pools become imbalanced
-- Slippage decreases as pool liquidity increases
+- Large trades result in higher slippage and worse execution.
+- Slippage increases as pools become imbalanced.
+- Slippage decreases as pool liquidity increases.
 
 ## Liquidity Provider Rewards and Risks
 
@@ -152,8 +144,6 @@ LPs earn:
 1. **Trading Fees**: Percentage of every swap (0.01%-1%)
 2. **Incentive Tokens**: Governance/protocol tokens as incentives
 3. **Fee Compounding**: Fees automatically reinvested, earning yields on yields
-
-**Annual Yields**: 1%-100%+ depending on trading volume, volatility, and incentives.
 
 ### Risks
 
@@ -167,51 +157,43 @@ LPs earn:
 5. If they held: 1 × 4000 + 2000 = 6000 USDC
 6. IL = 5656 - 6000 = -344 USDC loss
 
-**Why IL Happens**: AMM requires 50/50 balance. As price moves, the pool sells the appreciating asset and buys the depreciating one, causing the LP to have less of the winner.
+**Why IL Happens**: AMM requires a 50/50 balance. As price moves, the pool sells the appreciating asset and buys the depreciating one, causing the LP to have less of the winning asset.
 
-**IL is "Impermanent"**: If price returns to original ratio, IL disappears. Only permanent if you withdraw at higher price divergence.
+**IL is "Impermanent"**: If price returns to the original ratio, IL disappears. It becomes permanent only if you withdraw at a higher price divergence.
 
 **IL vs Fees**: Low-volatility pairs (stablecoin pairs) have low IL but lower fees. High-volatility pairs have high IL but potentially higher fees.
 
 ## Concentrated Liquidity (Uniswap V3)
 
-**Innovation**: Instead of providing liquidity across all price ranges, provide within a specific range.
+**Innovation**: Instead of providing liquidity across all price ranges, LPs provide within a specific range.
 
 **Benefits**:
-- Lower impermanent loss (if price stays in range)
-- Higher fee earnings (same volume, less capital)
+- Lower impermanent loss if price stays in range
+- Higher fee earnings with the same volume and less capital
 - More capital efficient
 
 **Drawbacks**:
-- More complex (requires managing price ranges)
+- More complex, requiring management of price ranges
 - Risk if price moves outside range (0% fees until price returns)
 - Requires active management
-
-**Impact**: Uniswap V3 enables 4000x+ capital efficiency for stablecoins.
 
 ## Popular AMM Platforms
 
 ### Uniswap
-
-**Market Share**: ~25% of all DeFi trading volume
 
 **Features**:
 - Constant product (V2) and concentrated (V3)
 - Multi-chain deployment
 - Strong ecosystem
 
-**Volume**: $1T+ annually
-
 ### Curve Finance
 
 **Specialization**: Stablecoin trading
 
 **Features**:
-- Constant-sum formula (optimized for stablecoins)
+- Constant-sum formula optimized for stablecoins
 - Extremely low slippage
 - High trading volume
-
-**Volume**: $500B+ annually (mostly stablecoins)
 
 ### Balancer
 
@@ -222,15 +204,13 @@ LPs earn:
 - Liquidity as a Service platform
 - Self-balancing portfolios
 
-**Volume**: $50B+ annually
-
 ### PancakeSwap (BSC), Raydium (Solana)
 
 **Specialization**: L2/alternative chain AMMs
 
 **Features**:
 - Similar to Uniswap but on different chains
-- Lower fees, lower security (higher risk)
+- Lower fees, lower security
 
 ### Astroport (Terra), Thruster (Blast)
 
@@ -244,17 +224,15 @@ LPs earn:
 
 The AMM ecosystem offers diverse roles:
 
-**AMM Protocol Developer** ($150,000 - $380,000+): Design and implement AMM smart contracts, optimize formulas.
+**AMM Protocol Developer**: Design and implement AMM smart contracts, optimize formulas.
 
-**Liquidity Strategy Manager** ($120,000 - $350,000+): Develop strategies for LP capital allocation across pools.
+**Liquidity Strategy Manager**: Develop strategies for LP capital allocation across pools.
 
-**AMM Arbitrage Developer** ($130,000 - $340,000+): Build bots detecting and executing AMM arbitrage.
+**AMM Arbitrage Developer**: Build bots detecting and executing AMM arbitrage.
 
-**Market Maker** ($100,000 - $500,000+ depending on profitability): Provide liquidity and manage LP positions for profit.
+**Market Maker**: Provide liquidity and manage LP positions for profit.
 
-**Research Economists** ($140,000 - $320,000+): Study AMM design tradeoffs and optimal formula development.
-
-Top LPs managing $10M+ in liquidity can earn $500k-$2M+ annually.
+**Research Economists**: Study AMM design tradeoffs and optimal formula development.
 
 ## The Future of AMMs
 
@@ -262,7 +240,7 @@ AMMs continue to evolve:
 
 **Hybrid Designs**: Combining multiple formulas for different asset types in single pools.
 
-**Intent-Based**: Users specify trading intent, solvers find optimal routing across multiple AMMs.
+**Intent-Based**: Users specify trading intent, and solvers find optimal routing across multiple AMMs.
 
 **Privacy**: Private AMMs hiding trading information from other participants.
 
@@ -272,6 +250,6 @@ AMMs continue to evolve:
 
 **Cross-Chain AMMs**: AMMs operating across multiple blockchains simultaneously.
 
-AMMs have completely transformed trading, enabling billions in daily volume without centralized intermediaries. As they evolve, AMMs will likely become even more efficient, capital-friendly, and user-accessible.
+AMMs have transformed trading, enabling significant daily volume without centralized intermediaries. As they evolve, AMMs will likely become more efficient and user-accessible.
 
 **Providing liquidity to AMMs?** Understand impermanent loss, start with stablecoin pools if risk-averse, or volatile pairs if seeking high yields. Active management or delegating to professional LPs will likely generate better returns than passive LP positions.

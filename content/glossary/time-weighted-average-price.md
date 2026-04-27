@@ -9,7 +9,7 @@ relatedTerms: ["price-impact", "slippage", "order-book", "trading"]
 synonyms: ["TWAP", "time-weighted execution", "time-sliced execution"]
 ---
 
-Time-Weighted Average Price is an execution strategy that spreads large trades across multiple time intervals to minimize market impact and achieve a more favorable average entry or exit price. Rather than executing a substantial order all at once, which can cause significant slippage and move the market against the trader, TWAP algorithms break the order into smaller chunks executed at regular intervals. Uniswap V3 popularized on-chain TWAP oracles, which sample prices over time to provide manipulation-resistant price feeds for DeFi protocols. This approach has proven effective, with TWAP-based oracle implementations now securing over $50 billion in total value locked across lending and derivatives protocols (according to DeFiLlama, 2024). Beyond oracles, institutional traders and DEX aggregators like CoW Protocol use TWAP execution to handle large orders without disrupting thin liquidity pools. Professionals who understand TWAP mechanics are increasingly sought after for roles in algorithmic trading, protocol development, and DeFi infrastructure engineering.
+Time-Weighted Average Price is an execution strategy that spreads large trades across multiple time intervals to minimize market impact and achieve a more favorable average entry or exit price. Rather than executing a substantial order all at once, which can cause significant slippage and move the market against the trader, TWAP algorithms break the order into smaller chunks executed at regular intervals. Uniswap V3 popularized on-chain TWAP oracles, which sample prices over time to provide manipulation-resistant price feeds for DeFi protocols. Beyond oracles, institutional traders and DEX aggregators like CoW Protocol use TWAP execution to handle large orders without disrupting thin liquidity pools. Professionals who understand TWAP mechanics are increasingly sought after for roles in algorithmic trading, protocol development, and DeFi infrastructure engineering.
 
 ## How TWAP Works
 
@@ -71,17 +71,17 @@ Examples:
 
 **Treasury Rebalancing**: DAOs use TWAP to rebalance treasury.
 
-TWAP is standard tool for large execution.
+TWAP is a standard tool for large execution.
 
 ## Career Opportunities
 
 Execution roles:
 
-**Execution Engineers** earn $120,000-$300,000+.
+**Execution Engineers** earn competitive salaries.
 
-**Quant Traders** earn $150,000-$400,000+.
+**Quant Traders** earn competitive salaries.
 
-**Oracle Engineers** earn $130,000-$320,000+.
+**Oracle Engineers** earn competitive salaries.
 
 ## Best Practices
 

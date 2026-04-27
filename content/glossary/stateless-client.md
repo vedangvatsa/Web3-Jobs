@@ -9,7 +9,7 @@ relatedTerms: ["verkle-tree", "merkle-tree", "scaling", "ethereum"]
 synonyms: ["witness-based client", "stateless verification", "zero-state client"]
 ---
 
-Stateless Client refers to a blockchain node implementation that can verify blocks and validate transactions without storing the entire blockchain state locally, instead relying on cryptographic witnesses or proofs provided alongside each block. Traditional full nodes must store gigabytes of state data, but stateless clients receive compact proofs that mathematically demonstrate the validity of state transitions, dramatically reducing storage requirements. Ethereum's roadmap prominently features stateless clients as part of "The Verge" upgrade phase, utilizing Verkle trees to generate efficient witnesses that could reduce node storage requirements by over ninety percent compared to current full nodes (according to Ethereum Foundation research, 2024). This approach enables blockchain validation on consumer-grade hardware, including smartphones and embedded devices, significantly lowering barriers to network participation and enhancing decentralization. Projects like Portal Network are already building stateless client infrastructure for Ethereum. As blockchain networks prioritize scalability and accessibility, engineers with expertise in stateless client architecture, witness generation, and cryptographic proof systems are increasingly sought after by protocol development teams and infrastructure companies.
+Stateless Client refers to a blockchain node implementation that can verify blocks and validate transactions without storing the entire blockchain state locally, instead relying on cryptographic witnesses or proofs provided alongside each block. Traditional full nodes must store gigabytes of state data, but stateless clients receive compact proofs that mathematically demonstrate the validity of state transitions, reducing storage requirements. Ethereum's roadmap features stateless clients as part of "The Verge" upgrade phase, utilizing Verkle trees to generate efficient witnesses that could reduce node storage requirements compared to current full nodes. This approach enables blockchain validation on consumer-grade hardware, including smartphones and embedded devices, lowering barriers to network participation and enhancing decentralization. Projects like Portal Network are building stateless client infrastructure for Ethereum. As blockchain networks prioritize scalability and accessibility, engineers with expertise in stateless client architecture, witness generation, and cryptographic proof systems are increasingly sought after by protocol development teams and infrastructure companies.
 
 ## How Stateless Clients Work
 
@@ -75,17 +75,17 @@ Roadmap:
 
 **Client Diversity**: Multiple stateless client implementations.
 
-Stateless clients are long-term goal.
+Stateless clients are a long-term goal.
 
 ## Career Opportunities
 
 Stateless client roles:
 
-**Protocol Engineers** earn $130,000-$320,000+.
+**Protocol Engineers** earn competitive salaries.
 
-**Cryptography Researchers** earn $150,000-$380,000+.
+**Cryptography Researchers** earn competitive salaries.
 
-**Client Developers** earn $120,000-$300,000+.
+**Client Developers** earn competitive salaries.
 
 ## Best Practices
 

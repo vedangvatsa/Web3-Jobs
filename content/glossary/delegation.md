@@ -9,7 +9,7 @@ relatedTerms: ["governance", "voting", "staking", "governance-token"]
 synonyms: ["vote delegation", "stake delegation", "proxy voting"]
 ---
 
-Delegation is the process of transferring voting or staking power to another address without giving up token ownership, allowing token holders to participate in blockchain governance indirectly. When you hold governance tokens like UNI or COMP but lack the time or expertise to evaluate every proposal, you can delegate your voting power to a trusted representative who votes on your behalf. For example, Uniswap's governance system allows any UNI holder to delegate to community researchers or protocol politicians who specialize in analyzing proposals. As of early 2025, over 85% of delegated UNI voting power is concentrated among the top 20 delegates, according to Tally governance data. You retain full ownership of your tokens and can revoke delegation at any time, reclaiming your voting rights instantly. This mechanism is critical for achieving practical decentralized governance at scale, and professionals who understand delegation dynamics are increasingly sought after for roles in protocol governance, DAO operations, and token economics design.
+Delegation is the process of transferring voting or staking power to another address without giving up token ownership. This allows token holders to participate in blockchain governance indirectly. When you hold governance tokens like UNI or COMP but lack the time or expertise to evaluate every proposal, you can delegate your voting power to a trusted representative who votes on your behalf. Uniswap's governance system allows any UNI holder to delegate to community researchers or protocol politicians who specialize in analyzing proposals. You retain full ownership of your tokens and can revoke delegation at any time, reclaiming your voting rights instantly. This mechanism is critical for achieving practical decentralized governance at scale. Professionals who understand delegation dynamics are increasingly sought after for roles in protocol governance, DAO operations, and token economics design.
 
 ## How Delegation Works
 
@@ -19,9 +19,9 @@ The mechanism:
 
 **Smart Contract Delegation**: User calls smart contract: `delegate(recipient_address)`. Voting power transfers.
 
-**Accumulated Power**: Delegatee's total voting power = own tokens + delegated tokens.
+**Accumulated Power**: Delegatee's total voting power equals own tokens plus delegated tokens.
 
-**Voting with Delegated Power**: Delegatee votes using delegated power. Token holder can't vote while delegated.
+**Voting with Delegated Power**: Delegatee votes using delegated power. Token holder cannot vote while delegated.
 
 **Undelegation**: Delegator reclaims power anytime: `delegate(self_address)`. Voting power transfers back.
 
@@ -35,13 +35,13 @@ Uses:
 
 **Governance Participation**: Active governance participants accumulate delegation, gaining power to represent stakeholders.
 
-**Institutional Participation**: Institutions delegate to specialists understanding protocols.
+**Institutional Participation**: Institutions delegate to specialists who understand protocols.
 
 **Lazy Governance**: Token holders not interested in governance delegate to trusted parties.
 
 **Expertise Representation**: Researchers delegate to domain experts they trust.
 
-**Protocol Alignment**: Delegating to core developers/teams aligns incentives.
+**Protocol Alignment**: Delegating to core developers or teams aligns incentives.
 
 Delegation enables diverse participation models.
 
@@ -63,7 +63,7 @@ Delegation introduces governance complexity that must be managed.
 
 ## Delegate Incentives
 
-Why become delegate:
+Why become a delegate:
 
 **Governance Influence**: Delegates have power to influence protocol direction.
 
@@ -81,13 +81,13 @@ Delegates are motivated by influence, reputation, or compensation.
 
 Observed behaviors:
 
-**Power Concentration**: Few delegates accumulate large voting power. Uniswap has ~11 delegates controlling ~60% of voting power.
+**Power Concentration**: Few delegates accumulate large voting power. Uniswap has a small number of delegates controlling a significant portion of voting power.
 
-**Founder Delegation**: Core teams/founders often receive substantial delegation.
+**Founder Delegation**: Core teams or founders often receive substantial delegation.
 
 **Active Participants**: Users actively participating in governance accumulate delegation over time.
 
-**Sleeping Delegates**: Many token holders delegate to founders/core teams and don't reassess.
+**Sleeping Delegates**: Many token holders delegate to founders or core teams and do not reassess.
 
 Real delegation often shows concentration rather than distributed power.
 
@@ -95,13 +95,13 @@ Real delegation often shows concentration rather than distributed power.
 
 Delegation creates roles:
 
-**Governance Delegates** earning fees or compensation for representing stakeholders earn $50,000-$500,000+ depending on power and fees.
+**Governance Delegates** earning fees or compensation for representing stakeholders.
 
-**Governance Service Providers** operating delegation platforms earn $100,000-$300,000+.
+**Governance Service Providers** operating delegation platforms.
 
-**Governance Researchers** analyzing delegation patterns earn $100,000-$250,000+.
+**Governance Researchers** analyzing delegation patterns.
 
-**Protocol Economists** designing delegation mechanisms earn $130,000-$300,000+.
+**Protocol Economists** designing delegation mechanisms.
 
 ## Best Practices
 
@@ -113,11 +113,11 @@ Using delegation:
 
 **Monitor Voting**: Check how delegatee votes with your power.
 
-**Diversify**: Don't delegate all tokens to single party.
+**Diversify**: Do not delegate all tokens to a single party.
 
 **Reassess**: Periodically review delegation. Redelegate if needed.
 
-**Active Option**: If particularly interested, don't delegate—vote yourself.
+**Active Option**: If particularly interested, do not delegate; vote yourself.
 
 ## Improving Delegation
 
@@ -141,7 +141,7 @@ Delegation evolution:
 
 **Automated Delegation**: Protocols auto-assigning delegation based on stakeholder preferences.
 
-**Dynamic Delegation**: Changing delegation based on proposal type (parameter changes → different delegate than upgrades).
+**Dynamic Delegation**: Changing delegation based on proposal type.
 
 **Cross-Protocol Delegation**: Delegating voting power across multiple protocols simultaneously.
 
@@ -149,4 +149,4 @@ Delegation evolution:
 
 ## Represent Stakeholders
 
-Delegation enables realistic governance where not all token holders actively participate but can delegate to trusted representatives. This improves governance quality by having specialists make decisions. If you're interested in governance, protocol design, or decentralized coordination, explore [governance careers](/) at governance protocols and governance service providers. These roles focus on improving decentralized decision-making.
+Delegation enables realistic governance where not all token holders actively participate but can delegate to trusted representatives. This improves governance quality by having specialists make decisions. If you're interested in governance, protocol design, or decentralized coordination, explore governance careers at governance protocols and governance service providers. These roles focus on improving decentralized decision-making.

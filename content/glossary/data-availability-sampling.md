@@ -9,7 +9,7 @@ relatedTerms: ["data-availability", "rollup", "scaling", "celestia"]
 synonyms: ["DAS", "data sampling", "availability sampling"]
 ---
 
-Data Availability Sampling refers to a technique where nodes randomly sample small pieces of block data to probabilistically verify that the full data is available, enabling scalable block sizes without requiring every participant to download complete blocks. Rather than downloading entire blocks that could be gigabytes in size, nodes request only a handful of random chunks and use mathematical proofs to confirm data integrity with extremely high confidence. Celestia, a modular blockchain launched in 2023, pioneered this approach as its core scaling mechanism, allowing light clients to verify data availability using minimal bandwidth and storage. According to Messari's 2024 modular blockchain report, Celestia processed over 50 million data availability transactions within its first year of operation. DAS preserves decentralization by keeping hardware requirements low enough for ordinary users to run validating nodes. As modular blockchain architectures gain adoption, professionals who understand data availability sampling are increasingly sought after for roles in protocol development, infrastructure engineering, and blockchain scaling research.
+Data Availability Sampling refers to a technique where nodes randomly sample small pieces of block data to probabilistically verify that the full data is available. This enables scalable block sizes without requiring every participant to download complete blocks. Rather than downloading entire blocks that could be gigabytes in size, nodes request only a handful of random chunks and use mathematical proofs to confirm data integrity with high confidence. Celestia, a modular blockchain launched in 2023, pioneered this approach as its core scaling mechanism, allowing light clients to verify data availability using minimal bandwidth and storage. DAS preserves decentralization by keeping hardware requirements low enough for ordinary users to run validating nodes. As modular blockchain architectures gain adoption, professionals who understand data availability sampling are increasingly sought after for roles in protocol development, infrastructure engineering, and blockchain scaling research.
 
 ## How DAS Works
 
@@ -19,7 +19,7 @@ Mechanics:
 
 **Sampling**: Nodes randomly request small pieces of data.
 
-**Verification**: If samples available, data likely available.
+**Verification**: If samples are available, data is likely available.
 
 **Probability**: Missing data becomes exponentially unlikely with more samples.
 
@@ -43,7 +43,7 @@ Real deployment:
 
 **Light Nodes**: Celestia uses DAS for light nodes.
 
-**Erasure Codes**: Data encoded into larger square.
+**Erasure Codes**: Data encoded into larger squares.
 
 **Sampling**: Light nodes sample random shares.
 
@@ -67,11 +67,11 @@ DAS has complexity and probabilistic guarantees.
 
 DAS roles:
 
-**Protocol Engineers** earn $130,000-$320,000+.
+**Protocol Engineers** earn competitive salaries.
 
-**Research Engineers** earn $140,000-$340,000+.
+**Research Engineers** earn competitive salaries.
 
-**Distributed Systems Engineers** earn $120,000-$300,000+.
+**Distributed Systems Engineers** earn competitive salaries.
 
 ## Best Practices
 
@@ -95,4 +95,4 @@ Trends:
 
 ## Scale Without Full Data Downloads
 
-DAS is key to scalable, decentralized data availability. It enables light nodes to verify availability cheaply. If you’re interested in scaling, explore [infrastructure careers](/) at DA-layer teams.
+DAS is key to scalable, decentralized data availability. It enables light nodes to verify availability efficiently. If you’re interested in scaling, explore [infrastructure careers](/) at DA-layer teams.
