@@ -5,6 +5,7 @@ import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound } from 'next/navigation';
 import { Header } from '@/components/header';
 import { GlossaryCTA } from '@/components/glossary-cta';
+import { GlossaryCharts } from '@/components/glossary-charts';
 import Image from 'next/image';
 import { Metadata } from 'next';
 import type { Article as ArticleSchema, ScholarlyArticle, BreadcrumbList } from 'schema-dts';
@@ -303,6 +304,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     className="prose prose-lg dark:prose-invert max-w-none prose-headings:font-bold prose-a:text-primary prose-a:underline"
                     dangerouslySetInnerHTML={{ __html: enhancedContent }}
                   />
+                  
+                  <GlossaryCharts termSlug={term.slug} />
                   
                   <GlossaryCTA termName={term.term} />
                 </div>
