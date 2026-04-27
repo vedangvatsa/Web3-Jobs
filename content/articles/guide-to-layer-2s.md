@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Ethereum Layer 2 Scaling Solutions
 
-Ethereum users have faced significant challenges during periods of high network congestion, marked by soaring gas fees and sluggish transaction speeds. The Ethereum blockchain, while offering robust security and decentralization, processes only around 15 transactions per second, which limits its scalability. Layer 2 (L2) scaling solutions aim to address these limitations.
+Ethereum users have faced significant challenges during periods of high network congestion, marked by soaring gas fees and sluggish transaction speeds. The Ethereum blockchain, while offering robust security and decentralization, processes only a limited number of transactions per second, which limits its scalability. Layer 2 (L2) scaling solutions aim to address these limitations.
 
 L2s enhance Ethereum's transaction capacity and lower costs without compromising the main Ethereum blockchain's security and decentralization. These solutions represent a vital area of innovation within the blockchain sector. This article will clarify what L2s are, explain their operational mechanisms, and highlight the key differences among the prominent types.
 
@@ -45,7 +45,7 @@ Most contemporary L2 solutions fall under the category of **Rollups**. Two prima
 Optimistic Rollups adopt an "innocent until proven guilty" approach. They function as follows:
 
 1. **Assume Validity**: The rollup aggregates numerous off-chain transactions and assumes, without initial proof, that they are valid.
-2. **Challenge Period**: After posting the batch to the Ethereum mainnet, a challenge period opens, typically lasting about seven days.
+2. **Challenge Period**: After posting the batch to the Ethereum mainnet, a challenge period opens, typically lasting several days.
 3. **Fraud Proofs**: During this timeframe, anyone can contest the validity of the transactions. If a challenge arises, the transaction in question undergoes re-execution on the mainnet to verify its legitimacy.
 4. **Penalties**: If a fraud proof is validated, the incorrect transaction gets reversed, and the party submitting the invalid block faces financial penalties. If no challenges occur, the block is deemed final.
 
@@ -105,9 +105,9 @@ Regularly monitor your development. Are you achieving the desired results? Modif
 
 | Name   | Role                        | Challenge                  | Solution Implemented                     | Result                                |
 |--------|-----------------------------|----------------------------|-----------------------------------------|---------------------------------------|
-| Sarah  | Developer at Blockchain Co. | High transaction costs     | Adopted Optimistic Rollups              | Reduced costs by 50%                 |
-| Juan   | Product Manager in DeFi     | Slow transaction times     | Integrated ZK-Rollups                   | Improved transaction speed by 90%     |
-| Maya   | Web2 to Web3 Transitioner   | Learning curve in Web3    | Followed step-by-step integration plan | Successfully launched a dApp within 3 months |
+| Sarah  | Developer at Blockchain Co. | High transaction costs     | Adopted Optimistic Rollups              | Reduced costs significantly            |
+| Juan   | Product Manager in DeFi     | Slow transaction times     | Integrated ZK-Rollups                   | Improved transaction speed significantly |
+| Maya   | Web2 to Web3 Transitioner   | Learning curve in Web3    | Followed step-by-step integration plan | Successfully launched a dApp within a few months |
 
 ### Common Mistakes to Avoid
 
@@ -129,7 +129,7 @@ Consistent measurement is essential for growth. Maintain metrics to assess your 
 ### FAQ
 
 **Q: How long will it take to implement Layer 2 solutions?**  
-A: Initial results often appear within 2–4 weeks of consistent application, with significant improvements observable within 8–12 weeks. The timeline varies based on your starting point, daily commitment, and feedback engagement. Professionals who actively track progress tend to advance faster than those who rely on passive observation.
+A: Initial results often appear within a few weeks of consistent application, with significant improvements observable within a couple of months. The timeline varies based on your starting point, daily commitment, and feedback engagement. Professionals who actively track progress tend to advance faster than those who rely on passive observation.
 
 **Q: What if my workplace doesn't support this?**  
 A: Even in challenging environments, you typically have more control than it may seem. Begin with small, self-contained actions that require minimal organizational buy-in. Build momentum gradually and document your outcomes. If structural barriers persist after sustained effort, consider exploring environments that prioritize employee development.

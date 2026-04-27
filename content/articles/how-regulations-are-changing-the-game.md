@@ -65,17 +65,17 @@ The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ significa
 
 | **Role**                   | **Web2 Compensation**     | **Web3 Compensation**       |
 |----------------------------|---------------------------|------------------------------|
-| **Senior Solidity Engineer**| $150,000 - $250,000     | $200,000 - $350,000          |
-| **Product Manager**        | $100,000 - $175,000      | $150,000 - $250,000          |
-| **Business Development Lead**| $90,000 - $150,000     | $120,000 - $200,000          |
+| **Senior Solidity Engineer**| Significant value        | Significant value             |
+| **Product Manager**        | Significant value         | Significant value             |
+| **Business Development Lead**| Significant value       | Significant value             |
 
 ### Career Growth Trajectory
 
-Career advancement in Web3 often occurs more quickly than in traditional sectors due to rapid company scaling and ongoing talent shortages. Mid-level professionals can achieve senior roles within 18 to 24 months.
+Career advancement in Web3 often occurs more quickly than in traditional sectors due to rapid company scaling and ongoing talent shortages. Mid-level professionals can achieve senior roles within a relatively short timeframe.
 
 #### Equity and Token Upside
 
-Token and equity packages are common, providing significant wealth-building potential for early team members in successful protocols.
+Token and equity packages are common, providing wealth-building potential for early team members in successful protocols.
 
 ## Step-by-Step Transition Strategy
 
@@ -129,11 +129,11 @@ Target roles that capitalize on your existing expertise and your new Web3 knowle
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a leading tech company, learned Solidity over three months while maintaining his job. His contributions to an open-source protocol attracted a major DeFi project, resulting in a 50% salary increase with substantial equity.
+Alex, a backend engineer with five years of experience at a leading tech company, learned Solidity over three months while maintaining his job. His contributions to an open-source protocol attracted a major DeFi project, resulting in a significant salary increase with substantial equity.
 
 ### Product Manager in Web3
 
-Jessica transitioned from traditional finance to Web3 by leveraging her domain expertise in DeFi. Her knowledge of financial products combined with an understanding of Web3 technology made her a valuable asset. She secured a position at a top DeFi protocol within four weeks.
+Jessica transitioned from traditional finance to Web3 by leveraging her domain expertise in DeFi. Her knowledge of financial products combined with an understanding of Web3 technology made her a valuable asset. She secured a position at a top DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 
@@ -163,7 +163,7 @@ The technical learning curve can be steep, particularly for non-developers. Howe
 A: No. The Web3 ecosystem requires a diverse range of skills beyond engineering. Roles in marketing, community management, product design, legal counsel, and operations are also in high demand. Existing skills easily translate with additional knowledge about wallets, DAOs, and decentralization principles. Hiring managers prioritize domain expertise and curiosity about the space.
 
 **Q: How much can I earn in Web3?**  
-A: Compensation in Web3 generally surpasses that of Web2 roles. Base salaries are 30-60% higher on average, with Solidity engineers and smart contract auditors receiving the highest premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations with significant appreciation potential.
+A: Compensation in Web3 generally surpasses that of Web2 roles. Base salaries are often higher on average, with Solidity engineers and smart contract auditors receiving significant premiums due to talent scarcity. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations with significant appreciation potential.
 
 **Q: Is it risky to transition to Web3?**  
 A: All career transitions involve risk, and Web3 is no different due to market volatility and project lifecycle uncertainties. Manage this risk by targeting well-funded, established protocols with proven revenue, verifying team backgrounds, and ensuring base salaries are paid in fiat currency.
@@ -176,4 +176,4 @@ A: Historically, bear markets provide excellent opportunities to enter Web3. As 
 
 ## Key Takeaways
 
-Web3 presents substantial compensation benefits, with salary premiums averaging 20-40% above Web2 roles. Career growth typically accelerates within 2-6 months of dedicated effort, particularly for engineers and product managers. Existing domain expertise provides a strong foundation for transitioning into Web3; professionals should focus on integrating blockchain-specific knowledge into their skill sets. Networking through community engagement and visible project contributions consistently proves more effective than formal certifications in securing Web3 roles. To mitigate volatility risks, aim for well-established protocols and negotiate base salaries in fiat. The supportive nature of the Web3 community fosters learning and collaboration, making it an appealing sector for career advancement.
+Web3 presents substantial compensation benefits, with salary premiums generally above Web2 roles. Career growth typically accelerates within 2-6 months of dedicated effort, particularly for engineers and product managers. Existing domain expertise provides a strong foundation for transitioning into Web3; professionals should focus on integrating blockchain-specific knowledge into their skill sets. Networking through community engagement and visible project contributions consistently proves more effective than formal certifications in securing Web3 roles. To mitigate volatility risks, aim for well-established protocols and negotiate base salaries in fiat. The supportive nature of the Web3 community fosters learning and collaboration, making it an appealing sector for career advancement.
