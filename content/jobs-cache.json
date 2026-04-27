@@ -1,5 +1,21 @@
 [
   {
+    "id": "7714551003",
+    "title": "Contractor, GTM Strategy & Ops, Speedrun",
+    "company": "a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7714551003",
+    "date": "2026-04-26T22:38:46-04:00",
+    "source": "Greenhouse: a16z"
+  },
+  {
+    "id": "https://www.revolut.com/en-US/careers/position/a45f8fd9-91d1-4261-83b6-c98651492e8d/",
+    "title": "Strategy & Operations Manager",
+    "company": "Revolut",
+    "link": "https://www.revolut.com/en-US/careers/position/a45f8fd9-91d1-4261-83b6-c98651492e8d/",
+    "date": "2026-04-26T22:11:51.000Z",
+    "source": "Jobs | Paradigm Job Board"
+  },
+  {
     "id": "17b97e8b-e25b-4352-be35-f770524a96b4",
     "title": "Engineering Manager - DevX",
     "company": "Phantom",
@@ -1002,6 +1018,14 @@
   {
     "id": "7711722003",
     "title": "Senior Strategic Partnership Manager, OKX Wallet",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7711722003",
+    "date": "2026-04-23T03:53:08-04:00",
+    "source": "Greenhouse: OKX"
+  },
+  {
+    "id": "7711722003",
+    "title": "Senior Strategic Growth Manager, OKX Wallet",
     "company": "OKX",
     "link": "https://job-boards.greenhouse.io/okx/jobs/7711722003",
     "date": "2026-04-23T03:53:08-04:00",
@@ -11965,70 +11989,6 @@
     "company": "Spindl",
     "link": "https://jobs.dragonfly.xyz/companies/spindl/jobs/72460860-senior-product-manager-privacy#content",
     "date": "2026-03-28T14:10:06.000Z",
-    "source": "Jobs | Dragonfly Job Board"
-  },
-  {
-    "id": "f63d8298-2797-4a56-a086-56b1befcd4a4",
-    "title": "DevOps II",
-    "company": "Safe",
-    "link": "https://jobs.ashbyhq.com/Safe/f63d8298-2797-4a56-a086-56b1befcd4a4",
-    "date": "2026-03-27T23:28:48.206+00:00",
-    "source": "Ashby: Safe"
-  },
-  {
-    "id": "7759805",
-    "title": "Finance & Strategy Senior Analyst",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7759805?t=gh_src=&gh_jid=7759805",
-    "date": "2026-03-27T17:52:27-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "7736809",
-    "title": "Manager of Learning & Development",
-    "company": "Robinhood",
-    "link": "https://boards.greenhouse.io/robinhood/jobs/7736809?t=gh_src=&gh_jid=7736809",
-    "date": "2026-03-27T17:49:41-04:00",
-    "source": "Greenhouse: Robinhood"
-  },
-  {
-    "id": "https://www.revolut.com/en-US/careers/position/e4031a13-1dc2-43b3-868b-40beae84bfea/",
-    "title": "Field Sales Representative (UK Market)",
-    "company": "Revolut",
-    "link": "https://www.revolut.com/en-US/careers/position/e4031a13-1dc2-43b3-868b-40beae84bfea/",
-    "date": "2026-03-27T21:44:46.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "7763274",
-    "title": "Staff Security Engineer, IAM",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7763274?gh_jid=7763274",
-    "date": "2026-03-27T17:30:30-04:00",
-    "source": "Greenhouse: Coinbase"
-  },
-  {
-    "id": "https://www.revolut.com/en-US/careers/position/364a570e-89c3-471e-9868-f53c4e86f902/",
-    "title": "Field Sales Representative (French Market)",
-    "company": "Revolut",
-    "link": "https://www.revolut.com/en-US/careers/position/364a570e-89c3-471e-9868-f53c4e86f902/",
-    "date": "2026-03-27T21:29:46.000Z",
-    "source": "Jobs | Paradigm Job Board"
-  },
-  {
-    "id": "5168849008",
-    "title": "Social Media Manager",
-    "company": "ZetaChain",
-    "link": "https://job-boards.greenhouse.io/zetachain/jobs/5168849008",
-    "date": "2026-03-27T16:32:40-04:00",
-    "source": "Greenhouse: ZetaChain"
-  },
-  {
-    "id": "https://jobs.dragonfly.xyz/companies/agora-2-76387f5c-6833-498f-b633-90b1f62fe59d/jobs/72402723-senior-infrastructure-engineer#content",
-    "title": "Senior Infrastructure Engineer",
-    "company": "Agora",
-    "link": "https://jobs.dragonfly.xyz/companies/agora-2-76387f5c-6833-498f-b633-90b1f62fe59d/jobs/72402723-senior-infrastructure-engineer#content",
-    "date": "2026-03-27T20:11:33.000Z",
     "source": "Jobs | Dragonfly Job Board"
   }
 ]
