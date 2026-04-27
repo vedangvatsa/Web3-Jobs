@@ -26,7 +26,7 @@ Ethereum currently operates with two primary account types:
 The primary issue is that only EOAs can initiate transactions. Users must manage private keys and maintain ETH for gas fees, creating several user experience challenges:
 
 - **Seed Phrase Anxiety**: The risk of losing a 12 or 24-word seed phrase deters many potential users.
-- **Gas Fee Headaches**: Users must keep ETH in their wallets to interact with decentralized applications (dApps), even if they only intend to use stablecoins like USDC.
+- **Gas Fee Headaches**: Users must keep ETH in their wallets to interact with decentralized applications (dApps), even if they only intend to use stablecoins.
 - **Transaction Overload**: Many dApps require multiple signatures for a single action (e.g., approval and then swapping), leading to confusion.
 
 Account Abstraction seeks to merge EOAs and contract accounts, enabling users to utilize a smart contract as their primary account.
@@ -45,13 +45,13 @@ This proposal introduces a separate mempool for a new object type called `UserOp
 
 4. **EntryPoint Contract**: This singleton contract manages the entire process. It receives and verifies the bundle of `UserOperations` from the bundler and executes them.
 
-5. **Paymasters**: This optional component can sponsor users' gas fees. For instance, a dApp can set up a Paymaster to cover gas costs for users engaging with its application, creating a "gasless" experience. The Paymaster can implement specific logic, such as reimbursing gas costs in USDC.
+5. **Paymasters**: This optional component can sponsor users' gas fees. For instance, a dApp can set up a Paymaster to cover gas costs for users engaging with its application, creating a "gasless" experience. The Paymaster can implement specific logic, such as reimbursing gas costs in stablecoins.
 
 ### What Account Abstraction Enables: The UX Revolution
 
 Account Abstraction transforms wallets into programmable smart contracts, introducing features that significantly enhance the Web3 user experience:
 
-- **Gasless Transactions**: With Paymasters, dApps can sponsor transaction fees, removing the need for users to hold ETH for interactions. Users could pay gas in the token they are using (e.g., USDC) or not at all.
+- **Gasless Transactions**: With Paymasters, dApps can sponsor transaction fees, removing the need for users to hold ETH for interactions. Users could pay gas in the token they are using or not at all.
 
 - **Social Recovery**: Instead of relying on a single seed phrase, users can design wallets recoverable by a network of trusted "guardians." If a user loses their primary device, they can enlist guardians to assist in account recovery, offering a more intuitive security model.
 

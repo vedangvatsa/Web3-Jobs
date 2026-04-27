@@ -25,7 +25,7 @@ This is a spectrum, not a binary. Systems exist across a range.
 
 **Machine learning models** add predictive capability. Models can make predictions based on data. Email spam filters using ML are common. These systems can adapt to new data but don't have goals. They output predictions, not actions.
 
-**AI agents** can perceive their environment, set goals, plan actions to achieve those goals, and execute those actions. An AI agent can decide what to do based on understanding of its environment and goals.
+**AI agents** can perceive their environment, set goals, plan actions to achieve those goals, and execute those actions. An AI agent can decide what to do based on its understanding of its environment and goals.
 
 **Autonomous AI systems** are AI agents that can operate independently for extended periods without human oversight. They can handle unexpected situations, learn, adapt, and achieve complex objectives.
 
@@ -51,7 +51,7 @@ Not all AI systems have all these characteristics. Traditional ML models are mis
 
 Web3 creates particularly interesting possibilities for AI agents because of blockchain's transparency and programmability.
 
-**Current state (2024)**: AI agents in Web3 are mostly in the planning and execution phase. Agents can:
+**Current state**: AI agents in Web3 are mostly in the planning and execution phase. Agents can:
 - Analyze blockchain data
 - Estimate transaction outcomes
 - Plan transaction sequences
@@ -59,23 +59,23 @@ Web3 creates particularly interesting possibilities for AI agents because of blo
 
 Examples include MEV bots that find profitable trading opportunities and execute them. Or [portfolio](/building-web3-portfolio) management bots that rebalance holdings based on market conditions.
 
-**Near term (2024-2025)**: Fully autonomous agents will emerge. These will:
+**Near term**: Fully autonomous agents will emerge. These will:
 - Execute complex trading strategies without human oversight
 - Manage [DeFi](/what-is-defi) positions automatically
 - Provide liquidity and capture arbitrage
-- Operate validators and validators
+- Operate validators
 - Manage [smart contract](/what-are-smart-contracts) upgrades and governance
 
 These agents will have human-set parameters but will operate autonomously within those bounds.
 
-**Medium term (2025-2027)**: Agents become more sophisticated.
+**Medium term**: Agents become more sophisticated.
 - Multi-agent coordination where agents cooperate or compete
 - Agents that learn and improve their strategies over time
 - Agents that participate in decentralized governance
 - Agents that own assets and participate in the economy
-- Agents that can handle situations
+- Agents that can handle unexpected situations
 
-**Long term**: AI agents become economic participants in their own right. They own assets, participate in contracts, and interact with human economy as independent entities.
+**Long term**: AI agents become economic participants in their own right. They own assets, participate in contracts, and interact with the human economy as independent entities.
 
 ## Challenges with Autonomous AI Agents
 
@@ -87,7 +87,7 @@ Creating truly autonomous AI agents is challenging.
 
 **Failure modes**: What happens when an agent encounters a situation it wasn't trained for? How does it fail safely?
 
-**Security**: Autonomous agents control assets. If compromised, they could lose enormous value. Security is critical.
+**Security**: Autonomous agents control assets. If compromised, they could lose significant value. Security is critical.
 
 **Accountability**: If an agent causes harm, who's responsible? The developers? The operator? The AI system itself? Legal and ethical accountability is unclear.
 
@@ -123,7 +123,7 @@ Several use cases show the potential.
 
 **Bridge operators**: Autonomously operate bridges between blockchains. Execute cross-chain transactions. Manage liquidity.
 
-**Validator infrastructure**: Run validators for blockchain networks. Manage stakes and rewards. Optimize for profitability while supporting network.
+**Validator infrastructure**: Run validators for blockchain networks. Manage stakes and rewards. Optimize for profitability while supporting the network.
 
 **Portfolio management**: Autonomously rebalance portfolios. Execute trades based on risk models. Manage complex positions.
 
@@ -147,7 +147,7 @@ As agents become autonomous, economic implications are significant.
 
 **Efficiency**: Markets become more efficient. Pricing becomes more accurate. Arbitrage opportunities disappear.
 
-**Systemic risk**: Coordinated agent behavior could create systematic risks. If many agents pursue the same strategy, it could destabilize markets.
+**Systemic risk**: Coordinated agent behavior could create systemic risks. If many agents pursue the same strategy, it could destabilize markets.
 
 ## Building AI Agents for Web3
 
@@ -171,7 +171,7 @@ If you're interested in building AI agents for Web3, here are relevant skills.
 
 AI agents create several types of career opportunities.
 
-**Agent developers** who build AI agents for specific applications. Build trading bots, portfolio managers, yield farmers. High demand, high compensation ($150K-$400K+).
+**Agent developers** who build AI agents for specific applications. Build trading bots, portfolio managers, yield farmers. High demand, high compensation.
 
 **Agent infrastructure** builders who build frameworks and tools for running agents. Orchestration, monitoring, execution infrastructure.
 
@@ -197,7 +197,7 @@ The move toward autonomous agents has real risks.
 
 **Unemployment**: If agents can do most work, what happens to human workers?
 
-**Security risks**: Compromised agents could cause enormous harm at machine speeds.
+**Security risks**: Compromised agents could cause significant harm at machine speeds.
 
 These risks require careful thought about agent design, governance, and oversight.
 

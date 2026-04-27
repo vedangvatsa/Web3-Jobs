@@ -27,7 +27,7 @@ Solidity reigns supreme for developers looking to build applications on [Ethereu
 | **Pros**                    | - **Largest Ecosystem:** Strong community, extensive documentation, and mature tools like Hardhat and Foundry. <br> - **High Demand:** The need for skilled Solidity developers consistently exceeds supply. <br> - **Familiar Syntax:** Its resemblance to JavaScript and C++ eases learning for many developers. |
 | **Cons**                    | - **Security Issues:** Solidity has known vulnerabilities that can be exploited, necessitating a disciplined approach to security. <br> - **EVM Constraints:** Development is limited by the EVM’s design, which impacts performance and gas fees. |
 
-**Should you learn it?** Absolutely. For 90% of aspiring Web3 developers, Solidity is the essential starting point. It provides access to the largest segment of the [Web3 job](/web3-jobs-for-beginners) market.
+**Should you learn it?** Absolutely. For many aspiring Web3 developers, Solidity is the essential starting point. It provides access to a significant segment of the [Web3 job](/web3-jobs-for-beginners) market.
 
 ## 2. Rust: The Choice for High-Performance Blockchains
 
@@ -38,7 +38,7 @@ While Solidity governs the application layer, Rust emerges as the preferred lang
 | **Primary Use Case**        | Developing high-performance, secure Layer 1 blockchains and their core protocols.         |
 | **Ecosystems**              | Solana, Polkadot, Near Protocol, Celestia.                                                |
 | **Popularity Factors**      | Rust emphasizes safety and performance. Its compiler enforces strict memory safety rules, eliminating many potential bugs critical in a [blockchain](/what-is-a-blockchain) context. |
-| **Pros**                    | - **Exceptional Performance:** Rust offers C-like performance, essential for blockchains processing thousands of transactions per second. <br> - **Memory Safety:** Its ownership model reduces common vulnerabilities, enhancing security. <br> - **High Salaries:** Experienced Rust developers command some of the highest salaries in the tech industry. |
+| **Pros**                    | - **Exceptional Performance:** Rust offers C-like performance, essential for blockchains processing significant transactions per second. <br> - **Memory Safety:** Its ownership model reduces common vulnerabilities, enhancing security. <br> - **High Salaries:** Experienced Rust developers command some of the highest salaries in the tech industry. |
 | **Cons**                    | - **Steep Learning Curve:** Rust's concepts, such as ownership and borrowing, can be challenging for beginners. <br> - **Growing Ecosystem:** While expanding, Rust's community and tooling in Web3 are not as developed as Solidity's. |
 
 **Should you learn it?** If you have a solid computer science foundation, are interested in systems programming, and want to work on core blockchain infrastructure, Rust is a valuable long-term career investment.

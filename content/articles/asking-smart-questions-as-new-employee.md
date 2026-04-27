@@ -39,15 +39,15 @@ As a new hire, you're expected to have questions. Asking them intelligently will
 
 ### FAQs
 
-**Q: What if I'm afraid of looking stupid?**
+**Q: What if I'm afraid of looking stupid?**  
 A: It's more foolish to make a mistake because you were afraid to ask a question. As a new employee, you are given a grace period where asking basic questions is expected and encouraged.
 
-**Q: Is it possible to ask too many questions?**
+**Q: Is it possible to ask too many questions?**  
 A: It can be, especially if you are not doing your own research first. Following the tips above, like batching questions and doing your homework, will ensure you are being respectful of your team's time.
 
 ## Asking Smart Questions as a New Employee
 
-As a new hire, you're expected to have questions. Asking them intelligently will help you learn faster and impress your new colleagues. In fact, research shows that new employees who ask high-quality questions adapt 3x faster than those who don't. The key is asking the *right* questions in the *right way*.
+As a new hire, you're expected to have questions. Asking them intelligently will help you learn faster and impress your new colleagues. In fact, research shows that new employees who ask high-quality questions adapt significantly faster than those who don't. The key is asking the *right* questions in the *right way*.
 
 ### The Psychology Behind Why Questions Matter
 
@@ -59,13 +59,13 @@ Before diving into technique, understand why questions are so powerful in a prof
 - **Critical Thinking:** You're not just accepting information passively
 - **Strategic Mindset:** You want to understand the "why," not just the "how"
 
-Managers and senior colleagues generally appreciate thoughtful questions. They signal that you're serious about getting up to speed and contributing meaningfully. Bad questions-or asking the same question twice-signal carelessness or lack of attention.
+Managers and senior colleagues generally appreciate thoughtful questions. They signal that you're serious about getting up to speed and contributing meaningfully. Bad questions or asking the same question twice signal carelessness or lack of attention.
 
 Related reading: **[First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy)** – Strategic framework for your onboarding period.
 
 ### 1. Do Your Homework First
 
-This is the most critical principle. Before asking any question, invest 10-15 minutes trying to find the answer yourself.
+This is the most critical principle. Before asking any question, invest some time trying to find the answer yourself.
 
 **Where to Look:**
 - **Internal documentation:** Wikis, shared drives, Notion pages, knowledge bases
@@ -95,7 +95,7 @@ This approach:
 
 One of the most common mistakes new employees make is asking transactional "how" questions without understanding the broader context.
 
-**Weak Question:** "How do I deploy this code?"
+**Weak Question:** "How do I deploy this code?"  
 **Better Question:** "I see we deploy using this process. Could you help me understand why we chose this approach over [alternative]? Are there specific trade-offs we're making?"
 
 **Why "Why" Questions Are Better:**
@@ -107,13 +107,13 @@ One of the most common mistakes new employees make is asking transactional "how"
 
 **Examples of Strong "Why" Questions:**
 
-Instead of: "How do we format this report?"
+Instead of: "How do we format this report?"  
 Ask: "I notice we format reports this way. Is there a specific reason, or is this something we've inherited? Are there any plans to standardize this differently?"
 
-Instead of: "What does this function do?"
+Instead of: "What does this function do?"  
 Ask: "I'm looking at this function and I understand what it does, but I'm not clear on why we need it given that [related function] seems to do something similar. What problem is each solving?"
 
-Instead of: "How long should this project take?"
+Instead of: "How long should this project take?"  
 Ask: "I've estimated this will take about X weeks. I want to check my assumptions about complexity-are there particular edge cases or dependencies I'm not considering?"
 
 ### 3. Batch Your Questions
@@ -231,10 +231,10 @@ Asked: Sarah, backend lead
 
 As you become more confident, start framing some of your questions as contributions to the team:
 
-**Instead of:** "I don't understand why we do X"
+**Instead of:** "I don't understand why we do X"  
 **Frame it as:** "I was confused about X. I think better documentation would help future team members. Would you be open to me updating the wiki with an explanation?"
 
-**Instead of:** "What does this code do?"
+**Instead of:** "What does this code do?"  
 **Frame it as:** "This function is a bit unclear to me. Would it be valuable to add comments explaining the logic? I'd be happy to draft them."
 
 This approach:
@@ -245,34 +245,32 @@ This approach:
 
 ### Common Question-Asking Mistakes
 
-**Mistake 1: Asking Before Reading**
-*Wrong:* "What does the README say?" (when there's a README)
+**Mistake 1: Asking Before Reading**  
+*Wrong:* "What does the README say?" (when there's a README)  
 *Right:* Read it first, then ask clarifying questions
 
-**Mistake 2: Asking Vague Questions**
-*Wrong:* "How does the system work?"
+**Mistake 2: Asking Vague Questions**  
+*Wrong:* "How does the system work?"  
 *Right:* "I understand the flow up to step 3, but I'm unclear on how the caching layer integrates. Could you walk me through that?"
 
-**Mistake 3: Asking Defensively**
-*Wrong:* "Why would anyone ever use this approach?" (sounds critical)
+**Mistake 3: Asking Defensively**  
+*Wrong:* "Why would anyone ever use this approach?" (sounds critical)  
 *Right:* "I'm curious about the trade-offs we're making with this approach. What advantages does it provide?"
 
-**Mistake 4: Not Following Up**
-*Wrong:* Someone answers your question and you never mention it again
+**Mistake 4: Not Following Up**  
+*Wrong:* Someone answers your question and you never mention it again  
 *Right:* Later, "Hey, I applied that advice you gave me about X, and it really helped"
 
-**Mistake 5: Interrupting**
-*Wrong:* Poking someone on Slack in the middle of their deep work
+**Mistake 5: Interrupting**  
+*Wrong:* Poking someone on Slack in the middle of their deep work  
 *Right:* Using office hours or batching questions for one-on-ones
 
 ### FAQs
 
-**Q: What if I'm afraid of looking stupid?**
-
+**Q: What if I'm afraid of looking stupid?**  
 A: First, remember that asking questions is how you learn. Second, you have a grace period as a new employee where basic questions are not only expected but encouraged. Third, the alternatives (making mistakes without understanding context, or working inefficiently) are far worse. Most senior professionals have deep respect for people who ask thoughtful questions. They have contempt for people who guess or make avoidable mistakes.
 
-**Q: Is it possible to ask too many questions?**
-
+**Q: Is it possible to ask too many questions?**  
 A: Yes, but it's usually not about the number-it's about the quality and timing. If you're asking:
 - Questions you could have answered yourself
 - The same question repeatedly
@@ -283,8 +281,7 @@ A: Yes, but it's usually not about the number-it's about the quality and timing.
 
 If you're asking thoughtful, well-researched questions at appropriate times, most managers will never think you ask "too many."
 
-**Q: Should I ask questions in public (team channels) or private (1-on-1)?**
-
+**Q: Should I ask questions in public (team channels) or private (1-on-1)?**  
 A: It depends:
 - **Public:** If the question and answer would benefit the whole team
 - **Public:** If you're asking for general knowledge the team should probably document
@@ -293,8 +290,7 @@ A: It depends:
 
 In the first weeks, lean toward private channels until you understand the team culture.
 
-**Q: What if someone seems annoyed by my question?**
-
+**Q: What if someone seems annoyed by my question?**  
 A: Take it as a sign to adjust your approach (not a sign to stop asking). Maybe:
 - You didn't do your homework
 - You interrupted at a bad time
@@ -303,8 +299,7 @@ A: Take it as a sign to adjust your approach (not a sign to stop asking). Maybe:
 
 Don't let one negative interaction stop you from asking good questions.
 
-**Q: How do I transition from asking basic questions to more strategic ones?**
-
+**Q: How do I transition from asking basic questions to more strategic ones?**  
 A: As you ramp up:
 - **Weeks 1-4:** Focus on understanding how things work
 - **Weeks 5-12:** Understand the "why" behind decisions
@@ -314,31 +309,31 @@ By month 4, you should be in a position to ask, "I notice we do X. Have we consi
 
 ### Advanced Question Techniques
 
-**The Clarifying Question:**
-When someone's answer is unclear, ask for clarification:
+**The Clarifying Question:**  
+When someone's answer is unclear, ask for clarification:  
 > "I want to make sure I understand-are you saying we should do X, or that we should do X only when Y condition is met?"
 
-**The Comparative Question:**
-Deepen understanding by asking about alternatives:
+**The Comparative Question:**  
+Deepen understanding by asking about alternatives:  
 > "I see we use approach A. What would approach B give us? What are the trade-offs?"
 
-**The Confirming Question:**
-Verify your understanding:
+**The Confirming Question:**  
+Verify your understanding:  
 > "So if I'm understanding correctly, the reason we do this is [your understanding]. Is that accurate?"
 
-**The Probing Question:**
-Go deeper into implications:
+**The Probing Question:**  
+Go deeper into implications:  
 > "That makes sense. Does that mean we should also change how we handle [related situation]?"
 
-**The Hypothetical Question:**
-Explore edge cases:
+**The Hypothetical Question:**  
+Explore edge cases:  
 > "What would happen if we had [different scenario]? Would the same approach still work?"
 
 ### Your Action Plan
 
 **This Week:**
 1. Identify 5-10 questions you have about your new role
-2. For each, spend 15 minutes trying to find the answer yourself
+2. For each, spend some time trying to find the answer yourself
 3. For the ones you can't answer, batch them for a one-on-one or team meeting
 
 **This Month:**

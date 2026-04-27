@@ -36,7 +36,7 @@ Foundry provides several advantages, making it a compelling choice for Ethereum 
    - **Fuzz Testing:** Foundry supports fuzz testing, an automated process that generates random inputs to identify edge cases that could lead to failures. This capability strengthens security by rigorously testing smart contracts.
 
 2. **Speed and Efficiency**  
-   Built in Rust, Foundry is engineered for performance. The speed of compiling contracts and executing tests often surpasses that of JavaScript-based frameworks by considerable margins. For example, benchmarks show that Foundry can compile contracts up to 10 times faster than Hardhat under similar conditions.
+   Built in Rust, Foundry is engineered for performance. The speed of compiling contracts and executing tests often surpasses that of JavaScript-based frameworks by considerable margins. Benchmarks indicate that Foundry can compile contracts significantly faster than Hardhat under similar conditions.
 
 3. **Portability and Simplicity**  
    Foundry's command-line interface avoids the complexities associated with extensive JavaScript dependencies. As a result, it is easy to install and use across various development environments.
@@ -105,7 +105,7 @@ The following table summarizes the performance differences between Foundry and H
 
 | Feature                   | Foundry                     | Hardhat                   |
 |---------------------------|----------------------------|---------------------------|
-| Compilation Speed         | Up to 10x faster           | Variable (depends on setup) |
+| Compilation Speed         | Significantly faster       | Variable (depends on setup) |
 | Testing Speed             | Runs directly in the EVM   | Runs in a JavaScript runtime |
 | Fuzz Testing Support      | Built-in support           | Requires additional plugins |
 | Command-Line Interface     | Simple and intuitive       | More complex due to dependencies |

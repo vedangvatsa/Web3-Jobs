@@ -17,8 +17,8 @@ Understanding the fundamental differences between Ethereum and Solana is vital f
 | Feature               | Ethereum                                   | Solana                                     |
 |-----------------------|--------------------------------------------|-------------------------------------------|
 | Consensus Mechanism   | Proof of Work transitioning to Proof of Stake | Proof of History combined with Proof of Stake |
-| Transaction Speed      | ~15 transactions per second                | ~65,000 transactions per second            |
-| Transaction Fees      | Average fees often exceed $1               | Average fees typically below $0.01        |
+| Transaction Speed      | Generally supports a moderate number of transactions per second                | Capable of processing a high number of transactions per second            |
+| Transaction Fees      | Average fees can vary significantly               | Average fees are typically very low        |
 | Programming Model     | Code and state are combined in contracts   | Separates code and state into accounts     |
 | Popular Languages     | Solidity                                   | Rust, C, C++                             |
 
@@ -235,13 +235,13 @@ John, who shifted from Web2 to Web3, utilized the skills gained from his previou
 ### FAQ
 
 **Q: What is the expected timeline for becoming proficient in Solana development?**  
-A: Many developers report feeling comfortable with the basics within 4–8 weeks of dedicated practice, while achieving proficiency can take several months. Consistency and engagement with real-world projects can accelerate this timeline.
+A: Many developers report feeling comfortable with the basics within a few weeks of dedicated practice, while achieving proficiency can take several months. Consistency and engagement with real-world projects can accelerate this timeline.
 
 **Q: How do I find opportunities in the Web3 space?**  
 A: Utilize platforms like GitHub to contribute to open-source projects, attend blockchain meetups, and join online communities such as Discord or Telegram. Engaging with other developers can lead to job opportunities and collaborations.
 
 **Q: How does Solana compare with other high-performance blockchains?**  
-A: Solana's unique architecture, including its use of Proof of History, allows for exceptional transaction speeds and lower fees compared to other blockchains like Avalanche or Polkadot. This makes it attractive for developers focused on scalability.
+A: Solana's unique architecture, including its use of Proof of History, allows for exceptional transaction speeds and lower fees compared to other blockchains. This makes it attractive for developers focused on scalability.
 
 **Q: Can I transition from a non-technical role to a technical one in Web3?**  
 A: Yes, many professionals transition into technical roles by learning programming languages and blockchain concepts through online courses and hands-on experience. Start with foundational knowledge and gradually build your skills.

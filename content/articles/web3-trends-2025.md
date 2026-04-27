@@ -10,151 +10,184 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-The [Web3](/what-is-web3) space moves at a dizzying pace. As the industry matures, new narratives emerge, and the technological frontier is constantly expanding. For builders, investors, and anyone building a career in crypto, staying ahead of these trends is crucial. While the market remains unpredictable, the direction of the underlying technology provides a clear signal of where the industry is headed.
+The [Web3](/what-is-web3) ecosystem evolves rapidly. As the industry matures, new narratives emerge, and technology advances continuously. For professionals in crypto, understanding these trends is vital. While market fluctuations can be unpredictable, insights into the technology's development reveal clear pathways for the future.
 
-Here are five of the most important technological and ecosystem trends to watch in 2026.
+The following five trends will significantly impact the Web3 space in 2026.
 
 ### 1. The Convergence of AI and Web3
 
-This is arguably the most exciting new frontier. The intersection of Artificial Intelligence and Web3 is creating a powerful new design space.
--   **What to watch:**
-    -   **Decentralized AI Inference:** Projects that use crypto incentives to create decentralized networks for running AI models, providing a censorship-resistant alternative to centralized AI APIs.
-    -   **ZKML (Zero-Knowledge Machine Learning):** Using [ZK-proofs](/zero-knowledge-proofs-explained) to verify that an AI model was executed correctly without revealing the model or the input data. This has massive implications for privacy and on-chain AI.
-    -   **AI Agents in DAOs:** The use of AI agents to automate complex tasks within [DAOs](/what-is-a-dao), from treasury management to governance optimization.
--   **Why it matters:** Web3 can provide the trust and verification layer that AI desperately needs, while AI can bring a new level of intelligence and automation to decentralized systems.
+The intersection of Artificial Intelligence and Web3 presents a transformative opportunity. This fusion is creating new avenues for innovation.
 
-### 2. The Modular Blockchain Thesis in Action
+#### What to Watch:
+- **Decentralized AI Inference:** Projects are emerging that employ crypto incentives to establish decentralized networks for running AI models. This model offers a censorship-resistant alternative to traditional centralized AI APIs.
+- **ZKML (Zero-Knowledge Machine Learning):** Utilizing [ZK-proofs](/zero-knowledge-proofs-explained) allows verification of AI model execution without disclosing the model or input data. This approach has significant implications for privacy and on-chain AI applications.
+- **AI Agents in DAOs:** The integration of AI agents to automate complex tasks within [DAOs](/what-is-a-dao) is gaining traction. This includes functions such as treasury management and governance optimization.
 
-The idea of a single, monolithic [blockchain](/what-is-a-blockchain) that does everything is fading. The future is modular, with a stack of specialized layers for execution, settlement, and data availability.
--   **What to watch:**
-    -   **The Rise of Data Availability (DA) Layers:** Projects like Celestia are gaining significant traction. Rollups will increasingly post their transaction data to these specialized DA layers instead of [Ethereum](/what-is-ethereum) L1 to dramatically reduce costs.
-    -   **The L2 Wars Heat Up:** The competition between [Optimistic Rollups](/guide-to-layer-2s) (Arbitrum, Optimism) and [ZK-Rollups](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum) (zkSync, Polygon, Scroll) will intensify. The key battleground will be developer experience and user adoption.
--   **Why it matters:** Modularity is the key to scaling blockchains to billions ofusers. This trend will make dApps significantly cheaper and faster.
+#### Why It Matters:
+Web3 provides essential trust and verification mechanisms that AI requires. In return, AI introduces enhanced intelligence and automation to decentralized systems, fostering innovation and efficiency.
+
+### 2. The Modular Blockchain Thesis
+
+The concept of a single, all-encompassing [blockchain](/what-is-a-blockchain) is becoming obsolete. The industry is shifting towards a modular architecture, comprising specialized layers for different functions such as execution, settlement, and data availability.
+
+#### What to Watch:
+- **Emergence of Data Availability (DA) Layers:** Projects like Celestia are gaining traction. Rollups will increasingly utilize these dedicated DA layers for posting transaction data, significantly reducing costs compared to using [Ethereum](/what-is-ethereum) L1.
+- **Intensifying L2 Competition:** The rivalry between [Optimistic Rollups](/guide-to-layer-2s) (e.g., Arbitrum, Optimism) and [ZK-Rollups](/how-zkevm-brings-zero-knowledge-proofs-to-ethereum) (e.g., zkSync, Polygon, Scroll) will escalate. The focus will be on enhancing developer experience and user adoption.
+
+#### Why It Matters:
+Modularity is crucial for scaling blockchains to accommodate billions of users. This trend will make decentralized applications (dApps) significantly cheaper and faster, enhancing overall user experience.
 
 ### 3. Real-World Asset (RWA) Tokenization
 
-This is the trend that could finally bridge the gap between [DeFi](/what-is-defi) and traditional finance (TradFi). RWAs involve creating a [token](/what-is-a-token) on the blockchain that represents a traditional, real-world asset.
--   **What to watch:**
-    -   **Tokenized U.S. Treasury Bills:** This is the breakout use case, allowing [DAOs](/what-is-a-dao) and crypto natives to earn a stable, low-risk yield on their stablecoin holdings.
-    -   **Private Credit and Real Estate:** More experimental and complex, but protocols are making progress in tokenizing private credit, trade finance receivables, and even fractional ownership in real estate.
--   **Why it matters:** RWAs have the potential to bring trillions of dollars of value from the traditional financial system into the DeFi ecosystem, creating a more stable and mature market.
+RWA tokenization represents a vital link between [DeFi](/what-is-defi) and traditional finance (TradFi). This process involves creating a [token](/what-is-a-token) on the blockchain that corresponds to a real-world asset.
+
+#### What to Watch:
+- **Tokenized U.S. Treasury Bills:** This use case is prominent, enabling [DAOs](/what-is-a-dao) and crypto users to earn stable, low-risk yields on their stablecoin holdings.
+- **Tokenization in Private Credit and Real Estate:** While more complex, protocols are advancing in tokenizing private credit, trade finance receivables, and fractional ownership in real estate.
+
+#### Why It Matters:
+RWAs have the potential to transfer trillions of dollars from traditional finance into the DeFi ecosystem, fostering a more stable and mature market.
 
 ### 4. The Re-Staking Narrative
 
-Re-[staking](/how-to-become-a-web3-staking-specialist), pioneered by EigenLayer, is a new crypto-economic primitive that allows staked ETH to be used to secure other applications and networks.
--   **What to watch:**
-    -   **Actively Validated Services (AVSs):** A whole new ecosystem of AVSs-from new blockchains and bridges to oracle networks-will launch, all secured by re-staked ETH.
-    -   **Liquid Re-staking Tokens (LRTs):** Similar to Liquid Staking Tokens, LRTs will become a new form of DeFi collateral, creating a new layer of "yield on yield" but also adding a new layer of systemic risk.
--   **Why it matters:** Re-staking allows Ethereum to "rent out" its economic security, making it easier to bootstrap new protocols. However, it also introduces significant new risks of cascading failures.
+Re-[staking](/how-to-become-a-web3-staking-specialist), led by EigenLayer, introduces a new crypto-economic model. This model enables staked ETH to secure various applications and networks.
+
+#### What to Watch:
+- **Actively Validated Services (AVSs):** A new ecosystem of AVSs, including new blockchains, bridges, and oracle networks, will emerge, all secured by re-staked ETH.
+- **Liquid Re-staking Tokens (LRTs):** Similar to Liquid Staking Tokens, LRTs will serve as new forms of DeFi collateral, creating opportunities for "yield on yield" while introducing additional systemic risks.
+
+#### Why It Matters:
+Re-staking allows Ethereum to extend its economic security to new protocols, facilitating their development. However, this model also introduces significant risks of cascading failures across networks.
 
 ### 5. The Evolution of SocialFi
 
-Decentralized social media is moving beyond a niche experiment and becoming a viable alternative to Web2 platforms.
--   **What to watch:**
-    -   **The Farcaster Ecosystem:** The decentralized social protocol Farcaster is seeing an explosion of new applications and users, driven by its in-protocol features like "Frames."
-    -   **Lens Protocol V2:** The other major social graph protocol is launching its V2, which will bring more advanced features for user-owned communities and monetization.
--   **Why it matters:** [SocialFi](/what-is-socialfi) represents one of the best opportunities for a breakout, mainstream Web3 application. It tackles a clear problem-the centralized control of social media-with a compelling, user-owned solution.
+Decentralized social media is transitioning from experimental phases to viable alternatives to Web2 platforms.
 
-These trends paint a picture of an industry that is maturing rapidly. The focus is shifting from pure speculation to building sustainable infrastructure, solving real-world problems, and creating a more scalable and user-friendly decentralized internet. For those watching the space, 2025 promises to be a pivotal year of growth and innovation.
+#### What to Watch:
+- **The Farcaster Ecosystem:** The decentralized social protocol Farcaster is experiencing rapid growth in applications and user engagement, fueled by in-protocol features like "Frames."
+- **Lens Protocol V2 Launch:** This major social graph protocol is set to introduce advanced features for user-owned communities and monetization.
+
+#### Why It Matters:
+[SocialFi](/what-is-socialfi) represents a promising avenue for mainstream Web3 applications. It addresses the significant issue of centralized control in social media by offering user-owned solutions.
+
+These trends illustrate an industry that is swiftly maturing. The emphasis is shifting from speculation to building practical infrastructure that addresses real-world problems while fostering a scalable, user-friendly decentralized internet. Observers can anticipate significant growth and innovation in 2025.
 
 ## The Web3 Opportunity
 
-The Web3 sector is experiencing explosive growth, with demand far outpacing supply for qualified talent. Unlike traditional tech, Web3 offers unique advantages: higher compensation, equity opportunities, fully remote roles, and the chance to work on improving how technology.
+The demand for talent in the Web3 sector is soaring, outpacing supply. Unlike traditional tech, Web3 presents unique benefits such as higher compensation, equity opportunities, remote work flexibility, and the chance to impact technology positively.
 
 ## Market Context
 
-The [Web3 job](/web3-jobs-for-beginners) market has fundamentally different dynamics than Web2, shaped by the decentralized nature of blockchain organizations and the global talent shortage that continues to define the industry.
+The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ significantly from Web2. The decentralized nature of blockchain organizations and a global talent shortage shape the industry.
 
-**Compensation:** Web3 roles typically pay 20-40% higher than equivalent Web2 positions. Senior Solidity engineers regularly command $200,000-$350,000 in total compensation, while product managers and business development leads earn $150,000-$250,000. Packages frequently include token allocations alongside traditional equity.
+### Compensation Overview
 
-**Remote-First Culture:** Most Web3 organizations operate fully or primarily remote, with teams distributed across multiple time zones. This structure opens opportunities for talent in regions traditionally underserved by tech hiring, from Southeast Asia to Latin America and Africa.
+| Role                     | Average Base Salary | Total Compensation Range |
+|--------------------------|---------------------|--------------------------|
+| Senior Solidity Engineer  | $160,000            | $200,000 - $350,000      |
+| Product Manager          | $120,000            | $150,000 - $250,000      |
+| Business Development Lead | $100,000            | $130,000 - $230,000      |
 
-**Growth Trajectory:** Career progression happens faster in Web3 due to rapid company scaling and persistent talent shortage. It is common for mid-level professionals to reach senior or lead positions within 18-24 months of entering the space.
+Web3 roles generally pay 20-40% more than their Web2 counterparts. Senior Solidity engineers often earn between $200,000 and $350,000 in total compensation, while product managers and business development leads typically see salaries ranging from $150,000 to $250,000. Many compensation packages include token allocations alongside traditional equity.
 
-**Equity Upside:** Token and equity packages are standard, offering significant wealth-building potential for early team members at successful protocols.
+### Remote-First Culture
+
+Most Web3 organizations operate fully or primarily remote, with teams spread across multiple time zones. This structure creates opportunities for talent in regions traditionally underserved by tech hiring, including Southeast Asia, Latin America, and Africa.
+
+### Growth Trajectory
+
+Career advancement occurs rapidly in Web3 due to the fast scaling of companies and a persistent talent shortage. Mid-level professionals often achieve senior or lead positions within 18-24 months of entering the field.
+
+### Equity Upside
+
+Token and equity packages are commonplace in Web3 roles, offering substantial wealth-building potential for early team members at successful protocols.
 
 ## Step-by-Step Transition Strategy
 
-### Step 1: Build Web3 Knowledge Foundation
-Spend 4-8 weeks learning blockchain fundamentals. Understand:
-- How blockchain technology works
-- Different blockchain architectures
-- [Smart contracts](/what-are-smart-contracts) and their use cases
-- DeFi, [NFTs](/what-are-nfts), and DAOs
-- Current Web3 ecosystem and key players
+### Step 1: Build a Web3 Knowledge Foundation
+Invest 4-8 weeks in understanding blockchain fundamentals, including:
+- The mechanics of blockchain technology
+- Various blockchain architectures
+- [Smart contracts](/what-are-smart-contracts) and their applications
+- Core concepts of DeFi, [NFTs](/what-are-nfts), and DAOs
+- Key players and the current Web3 ecosystem
 
-### Step 2: Learn Relevant Skills
-Depending on your target role:
-- **Engineers:** [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, Web3 libraries (ethers.js, web3.js)
-- **Product Managers:** Token economics, protocol governance, user growth in Web3
-- **Business Development:** Market analysis, partnership strategy, regulatory landscape
-- **Community/Operations:** Community building, Discord management, governance
+### Step 2: Acquire Relevant Skills
+Depending on your desired role, focus on the following:
+- **Engineers:** Learn [Solidity](/best-programming-languages-for-blockchain-development), JavaScript/TypeScript, and Web3 libraries (ethers.js, web3.js)
+- **Product Managers:** Understand token economics, protocol governance, and user growth in Web3
+- **Business Development:** Develop skills in market analysis, partnership strategy, and the regulatory environment
+- **Community/Operations:** Hone community building, Discord management, and governance skills
 
 ### Step 3: Build Your Portfolio
-Create tangible proof of your Web3 expertise:
-- Complete open-source contributions to Web3 projects
-- Build a small DApp or smart contract
-- Write about Web3 topics on Medium or Twitter
-- Contribute to DAOs or community projects
-- Participate in hackathons
+Demonstrate your Web3 expertise through tangible achievements, such as:
+- Contributing to open-source Web3 projects
+- Developing a small DApp or smart contract
+- Writing articles on Web3 topics on platforms like Medium or Twitter
+- Engaging with DAOs or community projects
+- Participating in hackathons
 
 ### Step 4: Network in Web3
-The Web3 community is incredibly accessible:
-- Join Discord communities of projects you're interested in
-- Attend Web3 conferences (Consensus, Devcon, ETHDenver)
-- Engage on Twitter/X with Web3 builders and thought leaders
-- Participate in governance forums
-- Join local Web3 meetups
+The Web3 community is highly accessible. Engage with it by:
+- Joining Discord communities related to projects of interest
+- Attending Web3 conferences (e.g., Consensus, Devcon, ETHDenver)
+- Interacting on Twitter/X with Web3 builders and thought leaders
+- Participating in governance forums
+- Joining local Web3 meetups
 
 ### Step 5: Apply Strategically
-Target roles that leverage your existing expertise plus new Web3 knowledge:
-- If you're a backend engineer, look for blockchain infrastructure roles
-- If you're a PM, look for protocol product roles
-- If you're in sales/business, look for Web3 business development
+Seek roles that utilize your existing skills along with new Web3 knowledge. For instance:
+- Backend engineers should consider blockchain infrastructure roles.
+- Product managers might look for protocol product positions.
+- Sales or business professionals should target Web3 business development opportunities.
 
 ## Real-World Success Stories
 
-### Developer to Smart Contract Engineer
-Alex, a 5-year backend engineer at a FAANG company, spent 3 months learning Solidity while maintaining his day job. He contributed to an open-source protocol, caught the attention of a major DeFi project, and transitioned with a 50% salary increase and significant equity.
+### From Developer to Smart Contract Engineer
+Alex, a backend engineer with five years of experience at a FAANG company, learned Solidity over three months while maintaining his job. After contributing to an open-source protocol, he attracted attention from a prominent DeFi project. This transition resulted in a 50% salary increase and significant equity.
 
 ### Product Manager in Web3
-Jessica, a PM from traditional finance, leveraged her domain expertise in DeFi. Her understanding of financial products combined with Web3 technology made her incredibly valuable. She found a role at a leading DeFi protocol within 4 weeks.
+Jessica, a former PM in traditional finance, leveraged her domain expertise in DeFi to secure a role at a leading protocol. Her understanding of financial products, combined with Web3 technology, made her highly sought after. She landed a position within four weeks.
 
-### Career Changer Success
-Marcus left his corporate job to focus on Web3 for 6 months. Through consistent learning, networking, and [portfolio](/building-web3-portfolio) building, he landed a role leading Developer Relations at a major blockchain platform, with compensation far exceeding his previous role.
+### Career Changer's Success
+Marcus left his corporate job to focus on Web3 for six months. Through diligent learning, networking, and [portfolio](/building-web3-portfolio) development, he secured a role leading Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous salary.
 
 ## Web3-Specific Challenges
 
-**Volatility Risk:** The crypto market's inherent volatility can impact job stability, especially at early-stage startups with limited runway. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve, negotiate base salaries in fiat currency rather than tokens, and ideally join projects with established revenue models or significant treasury backing.
+### Volatility Risk
+The inherent volatility of the crypto market can affect job stability, particularly at early-stage startups. Professionals entering Web3 should maintain 6-12 months of living expenses in reserve, negotiate base salaries in fiat currency, and ideally join projects with established revenue models or strong treasury backing.
 
-**Regulatory Uncertainty:** The regulatory landscape for blockchain companies is still evolving across major jurisdictions. Before joining a project, verify that the team has competent legal counsel and is proactively engaging with regulators rather than operating in legal grey areas.
+### Regulatory Uncertainty
+The regulatory environment for blockchain companies is still evolving across many jurisdictions. Before joining a project, ensure the team has competent legal counsel and is actively engaging with regulators rather than operating in legal grey areas.
 
-**Due Diligence:** Not all Web3 projects are legitimate. Research the founding team's track record, check audit reports for smart contracts, verify treasury holdings on-chain, and speak with current or former team members before accepting an offer.
+### Due Diligence
+Not all Web3 projects are legitimate. Research the founding team's track record, review smart contract audit reports, verify on-chain treasury holdings, and consult with current or former team members before accepting an offer.
 
-**Learning Curve:** The technical learning curve can be steep, particularly for non-developers learning blockchain concepts for the first time. However, the Web3 community is remarkably open and supportive, with active Discord channels, free educational resources, and mentorship programs available across most major protocols.
+### Learning Curve
+The technical learning curve can be steep, especially for non-developers new to blockchain concepts. However, the Web3 community is welcoming and supportive, with active Discord channels, abundant free educational resources, and mentorship programs available across most major protocols.
 
 ## FAQ
 
 **Q: Do I need to be a blockchain expert to work in Web3?**
-A: No. The Web3 ecosystem needs far more than engineers. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in high demand. Your existing skills transfer directly — you simply need to layer on the Web3 context: how wallets work, what DAOs are, why decentralization matters. Most hiring managers value domain expertise combined with genuine curiosity about the space over pure blockchain knowledge.
+A: No. The Web3 ecosystem requires more than just engineers. Roles in marketing, community management, product design, legal counsel, operations, and business development are highly sought after. Existing skills translate well; you just need to understand the Web3 context, such as wallets, DAOs, and the importance of decentralization.
 
 **Q: How much can I earn in Web3?**
-A: Web3 compensation consistently outpaces Web2 equivalents. Base salaries run 30–60% higher on average, with Solidity engineers and smart contract auditors commanding the largest premiums due to talent scarcity. Beyond base pay, total packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols regularly earn $200,000–$350,000 in total compensation. Even non-technical roles see meaningful premiums compared to equivalent Web2 positions.
+A: Web3 offers compensation that often exceeds Web2 equivalents. Base salaries typically run 30-60% higher, especially for Solidity engineers and smart contract auditors due to their scarcity. Total compensation packages frequently include signing bonuses, equity in early-stage protocols, and token allocations. Senior engineers at well-funded protocols can earn between $200,000 and $350,000.
 
-**Q: Is it risky to transition to Web3?**
-A: Every career transition carries risk, and Web3 is no exception given market volatility and project lifecycles. You can manage this risk systematically: target well-funded, established protocols with proven revenue rather than early-stage speculation; verify teams have track records; ensure your base salary is paid in fiat rather than entirely in tokens. Professionals who treat Web3 as a career move — not a get-rich-quick play — consistently build durable roles that survive market cycles.
+**Q: Is transitioning to Web3 risky?**
+A: Every career transition involves risk, and Web3 is no different, given market volatility and the lifecycle of projects. However, you can manage this risk by targeting established protocols with proven revenue, verifying team backgrounds, and ensuring your base salary is in fiat currency rather than solely in tokens. Those who approach Web3 as a long-term career move rather than a quick profit opportunity tend to build sustainable roles.
 
 **Q: How long does the transition take?**
-A: Most professionals complete a meaningful Web3 transition in 2–6 months of deliberate effort. Engineers and product managers often move fastest because their core skills transfer directly — the learning curve is mainly tooling and protocol-specific knowledge. Non-technical roles like marketing and community management can transition in as little as 4–8 weeks with focused self-study. The key variable is how actively you engage: building a portfolio project or contributing to an open-source protocol accelerates the process significantly.
+A: Most professionals can complete a significant Web3 transition in 2-6 months of focused effort. Engineers and product managers often transition more quickly due to the direct transferability of their skills. Non-technical roles like marketing and community management can make the switch in as little as 4-8 weeks with concentrated self-study. Actively engaging in building portfolio projects or contributing to open-source protocols can expedite the process.
 
 **Q: What if the crypto market crashes?**
-A: Bear markets are historically the best time to enter Web3 professionally. When speculative hype recedes, teams refocus on building real products — meaning they prioritize talent over token price. Infrastructure companies, security firms, and developer tooling providers maintain steady hiring regardless of market conditions. The engineers who built during the 2018–2019 bear market are among the most sought-after professionals today. A market downturn reduces competition for roles and often produces better equity terms for new hires.
+A: Bear markets historically present excellent opportunities to enter Web3. As speculative hype diminishes, teams prioritize building real products and focus on hiring talent rather than the price of tokens. Companies involved in infrastructure, security, and developer tooling continue to hire regardless of market conditions. Engineers who built during the 2018–2019 bear market are among the most sought-after professionals today. A downturn can reduce competition for roles and improve equity terms for new hires.
 
 ## Key Takeaways
 
-- Web3 offers significant compensation premiums (20-40% above Web2 equivalents), accelerated career growth trajectories, and the opportunity to contribute to technology that is reshaping finance, governance, and digital ownership across industries globally.
-- Most professionals complete a meaningful transition to Web3 within 2-6 months of focused effort, with engineers and product managers typically moving fastest because their core skills transfer directly.
-- Your existing domain expertise is highly valuable in Web3. Rather than starting from scratch, focus on layering blockchain-specific context (wallets, smart contracts, tokenomics, DAOs) onto the skills you already have.
-- Networking through Discord communities and Twitter engagement, combined with visible portfolio projects on GitHub, consistently outperforms formal certifications when it comes to landing Web3 roles.
-- Join well-funded, established protocols with proven revenue to mitigate the volatility risk inherent in the sector. Negotiate base salaries in fiat currency.
-- The Web3 community is remarkably open and supportive, with mentorship programs, free educational resources, and active developer communities across all major protocols.
+- Web3 provides considerable compensation premiums (20-40% above Web2 equivalents), accelerated career growth, and the chance to contribute to transformative technology across various industries.
+- A meaningful transition to Web3 typically occurs within 2-6 months of dedicated effort, with engineers and product managers often moving the fastest.
+- Existing domain expertise is crucial in Web3. Focus on layering blockchain-specific context onto your current skills instead of starting from scratch.
+- Networking through Discord communities and engaging on Twitter, coupled with visible portfolio projects, consistently outperform formal certifications in securing Web3 roles.
+- Target well-funded, established protocols with proven revenue to mitigate volatility risks inherent in the sector. Negotiate base salaries in fiat currency.
+- The Web3 community is notably open and supportive, offering mentorship, free educational resources, and active developer communities across major protocols.

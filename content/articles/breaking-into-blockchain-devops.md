@@ -79,7 +79,7 @@ The Web3 sector is witnessing rapid growth, with demand significantly outpacing 
 
 The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamics compared to Web2:
 
-- **Compensation:** Web3 positions generally offer salaries that are 20-40% higher than their Web2 counterparts, often with substantial bonus and equity components.
+- **Compensation:** Web3 positions generally offer salaries that are higher than their Web2 counterparts, often with substantial bonus and equity components.
 - **Remote-First Culture:** Most Web3 organizations are primarily or fully remote, providing a level of flexibility that traditional tech rarely offers.
 - **Growth Trajectory:** Career advancement occurs more rapidly in Web3 due to quick company scaling and a talent shortage.
 - **Equity Upside:** [Token](/what-is-a-token) and equity packages are common, providing significant wealth-building potential.
@@ -126,10 +126,10 @@ Target positions that align with your existing expertise and new Web3 knowledge:
 ### Real-World Success Stories
 
 #### Developer to Smart Contract Engineer
-Alex, who worked for five years as a backend engineer at a FAANG company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol and caught the attention of a major DeFi project. This effort led to a successful transition with a 50% salary increase and notable equity.
+Alex, who worked for five years as a backend engineer at a major tech company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol and caught the attention of a major DeFi project. This effort led to a successful transition with a significant salary increase and notable equity.
 
 #### Product Manager in Web3
-Jessica, a former PM in traditional finance, leveraged her expertise in DeFi. Her deep understanding of financial products and their integration with Web3 technology made her an attractive candidate. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a former PM in traditional finance, leveraged her expertise in DeFi. Her deep understanding of financial products and their integration with Web3 technology made her an attractive candidate. She secured a role at a leading DeFi protocol within a short period.
 
 #### Career Changer Success
 Marcus left his corporate job to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a major blockchain platform. His compensation far exceeded his previous salary.
@@ -150,7 +150,7 @@ Marcus left his corporate job to focus on Web3 for six months. Through consisten
 A: No. The Web3 ecosystem requires a diverse range of roles beyond engineering. Positions for marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are in high demand. Existing skills transfer well; you only need to add Web3 context, such as understanding wallets, DAOs, and the significance of decentralization.
 
 **Q: How much can I earn in Web3?**  
-A: Web3 compensation generally exceeds Web2 equivalents. Base salaries are typically 30-60% higher on average, with Solidity engineers and smart contract auditors receiving the highest premiums. Total compensation packages often include bonuses, equity in emerging protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 in total compensation. Even non-technical roles enjoy considerable premiums compared to Web2 positions.
+A: Web3 compensation generally exceeds Web2 equivalents. Base salaries are typically higher on average, with Solidity engineers and smart contract auditors receiving the highest premiums. Total compensation packages often include bonuses, equity in emerging protocols, and token allocations that may appreciate significantly. Senior engineers at well-funded protocols can earn significant total compensation. Even non-technical roles enjoy considerable premiums compared to Web2 positions.
 
 **Q: Is transitioning to Web3 risky?**  
 A: Any career transition carries inherent risks, and Web3 is no exception due to market volatility and project lifecycles. To manage this risk, target established protocols with solid funding and revenue rather than speculative projects. Verify the team’s experience and negotiate base salaries in fiat currency.
@@ -159,7 +159,7 @@ A: Any career transition carries inherent risks, and Web3 is no exception due to
 A: Most professionals achieve a meaningful transition to Web3 within 2-6 months of focused effort. Engineers and product managers often transition quickly due to the direct applicability of their skills. Non-technical roles like marketing and community management can transition in as little as 4-8 weeks with targeted self-study. Engaging in portfolio projects or contributing to open-source protocols can expedite the process.
 
 **Q: What if the crypto market crashes?**  
-A: Historically, bear markets offer the best opportunities for entering Web3. As speculative excitement wanes, teams refocus on building robust products and prioritize talent over token prices. Infrastructure companies, security firms, and developer tooling providers continue hiring regardless of market conditions. Engineers who developed during the 2018-2019 bear market are now highly sought after. Market downturns often result in less competition for roles and better equity terms for new hires.
+A: Historically, bear markets offer the best opportunities for entering Web3. As speculative excitement wanes, teams refocus on building robust products and prioritize talent over token prices. Infrastructure companies, security firms, and developer tooling providers continue hiring regardless of market conditions. Engineers who developed during previous bear markets are now highly sought after. Market downturns often result in less competition for roles and better equity terms for new hires.
 
 ### Conclusion
 

@@ -33,8 +33,8 @@ Public blockchains operate on a decentralized model, meaning they are not stored
 For a block to be added to the blockchain, all nodes must agree on its validity, achieved through consensus mechanisms such as Proof-of-Work (PoW) or Proof-of-Stake (PoS).
 
 - **Security Mechanism (The 51% Attack):** To successfully add a fraudulent block or alter the blockchain's history, an attacker would need to control over 50% of the network's total power. 
-    - In PoW systems like Bitcoin, this would require surpassing the combined computational power of the entire network, costing billions in specialized hardware and electricity.
-    - In PoS systems like [Ethereum](/what-is-ethereum), an attacker would need to acquire and stake more than 50% of the total cryptocurrency, also costing billions.
+    - In PoW systems like Bitcoin, this would require surpassing the combined computational power of the entire network, costing significant resources in specialized hardware and electricity.
+    - In PoS systems like [Ethereum](/what-is-ethereum), an attacker would need to acquire and stake more than 50% of the total cryptocurrency, also costing significant resources.
   
 - **Economic Disincentive:** Even if an attacker could afford a 51% attack, the resulting loss of public confidence would likely cause the cryptocurrency's value to plummet, rendering the attack economically irrational.
 
@@ -45,7 +45,7 @@ Despite the robust security of blockchains, news of crypto hacks is prevalent. T
 - **Smart Contract Bugs:** Flawed smart contracts can introduce vulnerabilities. While the blockchain securely executes the code, any mistakes in the code can lead to exploits. This source is common in major [DeFi](/what-is-defi) hacks.
 - **Frontend / Website Hacks:** Attackers may compromise the websites that enable interaction with decentralized applications (dApps), tricking users into signing malicious transactions.
 - **Private Key Theft:** Phishing scams or malware can target users' personal wallets, allowing attackers access to their private keys and, consequently, their funds.
-- **Centralized Exchange Hacks:** Large centralized exchanges, such as Coinbase or Binance, face traditional cybersecurity risks. A breach of their servers can result in stolen crypto assets held in custody.
+- **Centralized Exchange Hacks:** Large centralized exchanges face traditional cybersecurity risks. A breach of their servers can result in stolen crypto assets held in custody.
 
 ### A New Model of Trust
 
@@ -57,7 +57,7 @@ The Web3 sector is growing rapidly, with demand for qualified talent significant
 
 | **Factor**                    | **Web3**                          | **Web2**                          |
 |-------------------------------|-----------------------------------|-----------------------------------|
-| **Compensation**              | 20-40% higher than Web2           | Standard market rates             |
+| **Compensation**              | Generally higher than Web2        | Standard market rates             |
 | **Remote Work Culture**       | Fully remote or primarily remote   | Often requires on-site presence   |
 | **Career Growth**             | Faster due to rapid scaling        | Slower, often requires years      |
 | **Equity Opportunities**      | Token and equity packages common   | Primarily salary-focused          |
@@ -117,11 +117,11 @@ Target roles that utilize your existing skills along with your new Web3 knowledg
 
 #### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while working full-time. His contributions to an open-source protocol caught the attention of a major DeFi project. He transitioned to this new role with a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a major tech company, dedicated three months to learning Solidity while working full-time. His contributions to an open-source protocol caught the attention of a major DeFi project. He transitioned to this new role with a significant salary increase and substantial equity.
 
 #### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, utilized her expertise in DeFi. Her understanding of financial products paired with Web3 technology made her a valuable candidate. She secured a position at a leading DeFi protocol within four weeks.
+Jessica, a product manager from traditional finance, utilized her expertise in DeFi. Her understanding of financial products paired with Web3 technology made her a valuable candidate. She secured a position at a leading DeFi protocol within a short timeframe.
 
 #### Career Changer Success
 
@@ -153,7 +153,7 @@ No. The Web3 ecosystem requires a variety of roles beyond engineering. Marketing
 
 **How much can I earn in Web3?**
 
-Web3 compensation generally exceeds Web2 equivalents. Base salaries typically run 30-60% higher, with Solidity engineers and smart contract auditors earning the most due to talent scarcity. Compensation packages often include signing bonuses, equity in early-stage projects, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols commonly earn $200,000-$350,000 in total compensation. Even non-technical roles offer substantial premiums compared to equivalent Web2 positions.
+Web3 compensation generally exceeds Web2 equivalents. Base salaries typically run higher, with Solidity engineers and smart contract auditors earning the most due to talent scarcity. Compensation packages often include signing bonuses, equity in early-stage projects, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols commonly earn substantial total compensation. Even non-technical roles offer premiums compared to equivalent Web2 positions.
 
 **Is it risky to transition to Web3?**
 
@@ -165,11 +165,11 @@ Most professionals complete a significant Web3 transition within 2-6 months of d
 
 **What if the crypto market crashes?**
 
-Historically, bear markets are favorable times to enter Web3 professionally. As speculative hype diminishes, teams focus on building real products, prioritizing talent over token price. Companies in infrastructure, security, and developer tooling continue hiring regardless of market conditions. Engineers who built during the 2018-2019 bear market are among the most sought-after professionals today. A market downturn can reduce competition for roles and often yield better equity terms for new hires.
+Historically, bear markets are favorable times to enter Web3 professionally. As speculative hype diminishes, teams focus on building real products, prioritizing talent over token price. Companies in infrastructure, security, and developer tooling continue hiring regardless of market conditions. Engineers who built during previous bear markets are among the most sought-after professionals today. A market downturn can reduce competition for roles and often yield better equity terms for new hires.
 
 ### Key Takeaways
 
-- Web3 offers substantial compensation premiums (20-40% above Web2 equivalents), rapid career progression, and the chance to contribute to transformative technology in finance, governance, and digital ownership.
+- Web3 offers substantial compensation premiums, rapid career progression, and the chance to contribute to transformative technology in finance, governance, and digital ownership.
 - Most professionals can transition to Web3 within 2-6 months with focused effort, especially engineers and product managers whose skills transfer directly.
 - Existing domain expertise is valuable in Web3. Focus on integrating blockchain-specific knowledge into your current skill set, including wallets, smart contracts, tokenomics, and DAOs.
 - Networking through Discord and social media, combined with visible portfolio projects, tends to be more effective than formal certifications in landing Web3 roles.

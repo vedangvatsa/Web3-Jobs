@@ -15,10 +15,10 @@ Web3 hiring differs significantly from traditional tech hiring. Recruiters in th
 
 ### 1. Do: Lead with Onchain Work, Not Credentials
 
-Top Web3 resumes prioritize links to deployed smart contracts, GitHub repositories, or contributions to protocols. For instance, a Solidity developer who has deployed a contract on the mainnet with over 1,000 transactions presents a more compelling case than one with a Stanford CS degree but no crypto experience.
+Top Web3 resumes prioritize links to deployed smart contracts, GitHub repositories, or contributions to protocols. For instance, a Solidity developer who has deployed a contract on the mainnet with a significant number of transactions presents a more compelling case than one with a Stanford CS degree but no crypto experience.
 
 **Practical examples include:**
-- "Developed and deployed an ERC-4626 vault on Ethereum mainnet, audited by Trail of Bits, achieving $2M TVL within 30 days."
+- "Developed and deployed an ERC-4626 vault on Ethereum mainnet, audited by Trail of Bits, achieving significant value within 30 days."
 - Include links to Etherscan, GitHub, or a live product.
 
 Hiring managers at crypto companies typically spend less than 15 seconds on initial resume screenings. An Etherscan link provides credibility more effectively than any bullet point can.
@@ -29,9 +29,9 @@ Web3 companies operate based on data. Transform vague descriptions into specific
 
 | Weak Statement | Strong Statement |
 |----------------|------------------|
-| "Managed social media for a DeFi protocol" | "Grew protocol Twitter from 2K to 45K followers in 6 months, generating 1,200 waitlist signups from a single thread." |
-| "Worked on smart contract security" | "Identified 3 critical vulnerabilities in an audit of a $50M TVL protocol and filed 12 bug bounties, totaling $85K in rewards." |
-| "Built frontend for crypto project" | "Developed a trading interface that handles over 500 daily active users and $2M in daily volume on Arbitrum." |
+| "Managed social media for a DeFi protocol" | "Grew protocol Twitter from a small following to a significant number in 6 months, generating a notable number of waitlist signups from a single thread." |
+| "Worked on smart contract security" | "Identified critical vulnerabilities in an audit of a protocol with significant value and filed multiple bug bounties, totaling substantial rewards." |
+| "Built frontend for crypto project" | "Developed a trading interface that handles a significant number of daily active users and substantial daily volume on Arbitrum." |
 
 Quantifiable achievements speak volumes about competence. If you cannot measure a contribution, reconsider its relevance on your resume.
 
@@ -43,7 +43,7 @@ For non-technical roles, the same approach applies. A marketing professional sho
 
 ### 4. Do: Include Your Web3 Community Activity
 
-Engagement in governance proposals, forum discussions, grant applications, and hackathon entries demonstrates genuine involvement in the ecosystem. A product manager who authored three Uniswap governance proposals showcases domain knowledge that certifications cannot match.
+Engagement in governance proposals, forum discussions, grant applications, and hackathon entries demonstrates genuine involvement in the ecosystem. A product manager who authored governance proposals showcases domain knowledge that certifications cannot match.
 
 Create a dedicated "Web3 Community" section listing:
 - Hackathon placements (ETHGlobal, Chainlink hackathons)
@@ -73,13 +73,13 @@ Substitute each with a specific accomplishment that highlights your contribution
 
 ### 7. Don't: Include Every Crypto Token You've Traded
 
-Listing personal trading history does not qualify as professional experience. A statement like "experienced with Bitcoin, Ethereum, Solana, Cardano, Polkadot, Avalanche..." resembles a portfolio disclosure rather than a skill set.
+Listing personal trading history does not qualify as professional experience. A statement like "experienced with various cryptocurrencies" resembles a portfolio disclosure rather than a skill set.
 
 The only exception is if you have worked professionally in trading, market-making, or portfolio management at a fund or exchange. In that case, include specific strategies and performance metrics.
 
 ### 8. Don't: Hide Employment Gaps Behind Vague Crypto Projects
 
-Hiring managers in Web3 can easily identify fictional projects. If you spent six months learning Solidity independently, state it clearly: "Self-directed study, completed CryptoZombies, built three practice contracts, and contributed to two open-source repositories." Honesty about your learning journey garners more respect than fabricating project names.
+Hiring managers in Web3 can easily identify fictional projects. If you spent time learning Solidity independently, state it clearly: "Self-directed study, completed CryptoZombies, built practice contracts, and contributed to open-source repositories." Honesty about your learning journey garners more respect than fabricating project names.
 
 If you contributed to a DAO, provide the DAO's name, your specific role, and verifiable on-chain evidence of your participation.
 
@@ -91,7 +91,7 @@ Ensure each line justifies its presence on your resume. If a bullet point does n
 
 ### 10. Don't: Ignore the Cover Letter (or Application Note)
 
-Many Web3 applications include a short text field or request a cover letter. Leaving this section blank is a missed opportunity. A two-paragraph note explaining your motivation to work for a specific protocol and referencing details about their product or a recent governance decision can differentiate you from 90% of applicants who overlook this step.
+Many Web3 applications include a short text field or request a cover letter. Leaving this section blank is a missed opportunity. A two-paragraph note explaining your motivation to work for a specific protocol and referencing details about their product or a recent governance decision can differentiate you from many applicants who overlook this step.
 
 ## Resume Structure Template
 
@@ -108,9 +108,9 @@ For a Web3 role, organize your resume as follows:
 
 **Developers:** Avoid listing languages without demonstrating shipped code. Always include links to live deployments or significant GitHub contributions.
 
-**Marketers:** Refrain from focusing solely on brand names without attribution. "Managed marketing at Uniswap" is weaker than "Led Uniswap v3 launch campaign, resulting in 50K new users within the first week and $1B TVL within 48 hours."
+**Marketers:** Refrain from focusing solely on brand names without attribution. "Managed marketing at a well-known protocol" is weaker than "Led a major launch campaign, resulting in a significant increase in users and value."
 
-**Product Managers:** Do not overemphasize processes like "ran sprints, wrote PRDs." Instead, focus on outcomes, such as "shipped feature that increased daily active users by 30%."
+**Product Managers:** Do not overemphasize processes like "ran sprints, wrote PRDs." Instead, focus on outcomes, such as "shipped feature that increased daily active users significantly."
 
 **Business Development:** Avoid listing partnership names without deal terms. Highlight revenue generated, users acquired, or integrations completed to showcase your impact.
 

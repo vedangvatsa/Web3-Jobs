@@ -78,7 +78,7 @@ The Web3 ecosystem thrives on collaboration. A robust business development strat
 
 ## The Web3 Opportunity
 
-The Web3 sector is witnessing explosive growth, with demand for qualified talent dramatically exceeding supply. Compared to traditional tech roles, Web3 positions offer several advantages: higher compensation, equity opportunities, fully remote work environments, and the chance to improve technology.
+The Web3 sector is witnessing significant growth, with demand for qualified talent dramatically exceeding supply. Compared to traditional tech roles, Web3 positions offer several advantages: higher compensation, equity opportunities, fully remote work environments, and the chance to improve technology.
 
 ## Market Context
 
@@ -86,11 +86,11 @@ The [Web3 job](/web3-jobs-for-beginners) market operates under different dynamic
 
 | Role                          | Web3 Average Salary | Web2 Average Salary | Salary Difference |
 |-------------------------------|---------------------|---------------------|-------------------|
-| Senior Solidity Engineer      | $200,000 - $350,000 | $150,000 - $250,000 | +30% to +60%      |
-| Product Manager               | $150,000 - $250,000 | $100,000 - $180,000 | +50% to +75%      |
-| Business Development Lead      | $150,000 - $220,000 | $90,000 - $160,000  | +50% to +60%      |
+| Senior Solidity Engineer      | Significant value    | Significant value    | +30% to +60%      |
+| Product Manager               | Significant value    | Significant value    | +50% to +75%      |
+| Business Development Lead      | Significant value    | Significant value    | +50% to +60%      |
 
-**Compensation:** Web3 roles often pay 20-40% more than equivalent Web2 positions. Senior Solidity engineers can earn total compensation ranging from $200,000 to $350,000, while product managers and business development leads typically earn between $150,000 and $250,000. Compensation packages frequently include token allocations alongside traditional equity.
+**Compensation:** Web3 roles often pay more than equivalent Web2 positions. Senior Solidity engineers can earn total compensation ranging from significant value, while product managers and business development leads typically earn significant value. Compensation packages frequently include token allocations alongside traditional equity.
 
 **Remote-First Culture:** Most Web3 organizations operate remotely or in a hybrid model, allowing teams to work across diverse time zones. This structure benefits talent in traditionally underserved regions, including Southeast Asia, Latin America, and Africa.
 
@@ -146,7 +146,7 @@ Target positions that utilize your existing skills along with your new Web3 know
 
 ### Transition from Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol, which attracted the attention of a major DeFi project. His transition resulted in a 50% salary increase and substantial equity.
+Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his job. He contributed to an open-source protocol, which attracted the attention of a major DeFi project. His transition resulted in a significant salary increase and substantial equity.
 
 ### Product Manager in the Web3 Space
 
@@ -172,7 +172,7 @@ Marcus left his corporate job to focus exclusively on Web3 for six months. Throu
 A: No. The Web3 ecosystem requires a wide range of skills beyond engineering. Roles in marketing, community management, product design, legal, operations, and business development are all in high demand. Existing skills can be adapted by gaining an understanding of Web3 concepts like wallets, DAOs, and decentralization.
 
 **Q: How much can I earn in Web3?**  
-A: Web3 compensation consistently surpasses Web2 equivalents. Base salaries are typically 30-60% higher, with Solidity engineers and smart contract auditors receiving the most significant premiums. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000.
+A: Web3 compensation consistently surpasses Web2 equivalents. Base salaries are typically higher, with Solidity engineers and smart contract auditors receiving the most significant premiums. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn significant value.
 
 **Q: Is it risky to transition to Web3?**  
 A: Transitioning to Web3 carries inherent risks, including market volatility and project lifecycles. However, professionals can mitigate these risks by targeting well-funded, established teams, verifying backgrounds, and negotiating base salaries in fiat. Those who view Web3 as a long-term career move rather than a speculative opportunity tend to build sustainable roles.
