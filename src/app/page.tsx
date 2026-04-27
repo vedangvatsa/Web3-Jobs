@@ -14,7 +14,7 @@ export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
 export default async function JobsPage() {
   const allJobs = await getJobs();
-  const initialJobs = allJobs.slice(0, 150);
+  const initialJobs = allJobs; // Pass all jobs; JobBoard handles pagination client-side
   const headlines = [
       "Find Your Next Web3 Job",
       "Discover Top Crypto Roles",
