@@ -90,7 +90,7 @@ export default async function JobsPage() {
                       </Link>
                   </div>
                   <FirebaseClientProvider>
-                    <JobBoard initialJobs={initialJobs} captureEmail={false} />
+                    <JobBoard initialJobs={initialJobs} />
                   </FirebaseClientProvider>
               </article>
           </div>
