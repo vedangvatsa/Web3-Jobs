@@ -16,7 +16,7 @@ Securing your first client marks a crucial milestone in your freelance journey. 
 
 ### 1. Tap Into Your Existing Network
 
-Your initial client often comes from your existing connections. Leverage your network effectively.
+Your initial client often comes from your existing connections. Use your network effectively.
 
 - **Friends and Family:** Inform your close circle that you are starting a freelance business. Someone may require your services or know others who do.
 - **Past Colleagues:** Reach out to former colleagues and supervisors. They can vouch for your skills and work ethic.

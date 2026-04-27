@@ -84,7 +84,7 @@ Keep your message positive. Thank your colleagues for their support and collabor
 
 Avoid negativity or complaints about the company in your farewell message. Focus on the positive relationships you’ve cultivated.
 
-Resigning from a job represents a natural progression in your career. Handling it professionally, with gratitude and a forward-looking perspective, allows you to leave on good terms and maintain a robust professional network.
+Resigning from a job represents a natural progression in your career. Handling it professionally, with gratitude and a forward-looking perspective, allows you to leave on good terms and maintain a reliable professional network.
 
 ### Frequently Asked Questions (FAQs)
 

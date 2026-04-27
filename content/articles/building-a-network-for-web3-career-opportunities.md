@@ -10,9 +10,9 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-In the [Web3](/what-is-web3) job market, the saying "it's not what you know, it's who you know" holds significant truth. Your skills and ["proof of work"](/how-to-build-a-public-on-chain-developer-brand) serve as your entry ticket, but your network opens doors to the best opportunities, often before they appear on job boards. The Web3 industry is small, interconnected, and driven by trust. Establishing a robust, authentic network is essential for a successful [Web3 career](/web3-jobs-for-beginners).
+In the [Web3](/what-is-web3) job market, the saying "it's not what you know, it's who you know" holds significant truth. Your skills and ["proof of work"](/how-to-build-a-public-on-chain-developer-brand) serve as your entry ticket, but your network opens doors to the best opportunities, often before they appear on job boards. The Web3 industry is small, interconnected, and driven by trust. Establishing an authentic network is essential for a successful [Web3 career](/web3-jobs-for-beginners).
 
-Building a network in a global, remote-first industry can seem daunting, especially when many key players operate under pseudonyms. The solution lies in moving away from traditional, transactional networking. Instead, adopt the Web3 ethos of permissionless contribution and focus on fostering relationships through mutual benefit. This framework outlines effective strategies for creating a strong Web3 network.
+Building a network in a global, remote-first industry can seem daunting, especially when many key players operate under pseudonyms. The solution lies in moving away from traditional, transactional networking. Instead, adopt the Web3 ethos of permissionless contribution and focus on building relationships through mutual benefit. This framework outlines effective strategies for creating a strong Web3 network.
 
 ### Principle 1: Provide Value Before You Ask for Value
 

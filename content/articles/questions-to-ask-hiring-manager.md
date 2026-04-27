@@ -43,7 +43,7 @@ These questions will help you understand the daily responsibilities, immediate p
 
 Your immediate team and direct manager will significantly impact your job satisfaction and success. These questions focus on that dynamic.
 
-6. **How would you describe your leadership style?** This question is vital for understanding the kind of environment your potential manager fosters. Look for responses that resonate with your ideal work atmosphere, whether that’s hands-off, collaborative, or mentoring.
+6. **How would you describe your leadership style?** This question is vital for understanding the kind of environment your potential manager creates. Look for responses that resonate with your ideal work atmosphere, whether that’s hands-off, collaborative, or mentoring.
 
 7. **What strengths and weaknesses does the current team possess, and where do you see me fitting in?** This question indicates your consideration for team dynamics and helps you gauge how your skills can complement the existing group.
 
@@ -61,9 +61,9 @@ These questions help you grasp the broader company vision, its values, and the w
 
 12. **If you had to describe the company culture in three words, what would they be?** This question prompts a concise and revealing response. You can follow up with examples that illustrate those words.
 
-13. **What is the company's stance on [remote work](/remote-work-in-web3) and flexibility?** Understanding policies regarding in-office requirements, flexible hours, and asynchronous work is crucial in the current employment landscape.
+13. **What is the company's stance on [remote work](/remote-work-in-web3) and flexibility?** Understanding policies regarding in-office requirements, flexible hours, and asynchronous work is crucial in the current employment market.
 
-14. **How does the company foster transparency and handle feedback?** Look for specific practices, such as all-hands meetings, employee surveys, or open-door policies that signal a commitment to communication.
+14. **How does the company support transparency and handle feedback?** Look for specific practices, such as all-hands meetings, employee surveys, or open-door policies that signal a commitment to communication.
 
 15. **Where do you envision the company in the next few years?** This question evaluates the leadership's long-term vision and ambition.
 

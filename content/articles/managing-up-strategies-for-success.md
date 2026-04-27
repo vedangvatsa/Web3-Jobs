@@ -12,13 +12,13 @@ lastUpdated: "2026-04-27"
 
 ## Why This Matters
 
-Mastering the art of managing up is critical for career advancement. Professionals who excel in this skill often experience faster promotions and higher salaries. A recent study by LinkedIn indicated that employees who effectively manage their relationships with supervisors report increased job satisfaction and a rise in performance ratings. This competency becomes even more vital in [Web3](/what-is-web3) organizations, where collaboration and clear communication drive success.
+Mastering the art of managing up is critical for career advancement. Professionals who excel in this skill often experience faster promotions and higher salaries. Employees who effectively manage their relationships with supervisors report increased job satisfaction and a rise in performance ratings. This competency becomes even more vital in [Web3](/what-is-web3) organizations, where collaboration and clear communication drive success.
 
 ## Step-by-Step Guide
 
 ### Step 1: Understand the Fundamentals
 
-Grasping the core principles of managing up lays the groundwork for effective implementation. Research best practices from industry leaders and gather insights through articles, webinars, and networking events. Familiarize yourself with concepts like proactive communication, alignment of goals, and understanding your manager’s priorities. For instance, knowing your manager's preferred communication style can enhance interaction.
+Grasping the core principles of managing up lays the groundwork for effective implementation. Research best practices from industry leaders and gather insights through articles, webinars, and networking events. Familiarize yourself with concepts like proactive communication, alignment of goals, and understanding your manager’s priorities. Knowing your manager's preferred communication style can enhance interaction.
 
 ### Step 2: Assess Your Current Situation
 
@@ -35,11 +35,11 @@ Understanding your baseline enables you to tailor your approach effectively.
 
 ### Step 3: Develop Your Personal Strategy
 
-Create a personalized strategy based on your assessment. Consider factors such as your role, team dynamics, organizational culture, and your professional aspirations. Set specific goals, such as scheduling regular check-ins with your supervisor or preparing updates on your projects. For example, if you aim to improve your visibility, plan to present your work in team meetings or share updates via email.
+Create a personalized strategy based on your assessment. Consider factors such as your role, team dynamics, organizational culture, and your professional aspirations. Set specific goals, such as scheduling regular check-ins with your supervisor or preparing updates on your projects. If you aim to improve your visibility, plan to present your work in team meetings or share updates via email.
 
 ### Step 4: Implement Gradually
 
-Avoid overwhelming yourself with drastic changes. Start with one small, manageable adjustment. For example, if your manager prefers weekly updates, begin by sending a concise email each Friday summarizing your accomplishments and plans for the next week. Use feedback to understand what works. This incremental approach fosters sustainable improvement.
+Avoid overwhelming yourself with drastic changes. Start with one small, manageable adjustment. If your manager prefers weekly updates, begin by sending a concise email each Friday summarizing your accomplishments and plans for the next week. Use feedback to understand what works. This incremental approach supports sustainable improvement.
 
 ### Step 5: Measure and Adjust
 
@@ -53,7 +53,7 @@ Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced chall
 
 ### Juan's Transformation
 
-Juan, a product manager in [DeFi](/what-is-defi), initially struggled with aligning his team's goals with those of senior leadership. By adopting a regular feedback loop and conducting one-on-one sessions with his manager, he gained clarity on strategic priorities. Consequently, he launched a successful feature that increased customer engagement. His experience underscores the universal applicability of these strategies.
+Juan, a product manager in [DeFi](/what-is-defi), initially struggled with aligning his team's goals with those of senior leadership. By adopting a regular feedback loop and conducting one-on-one sessions with his manager, he gained clarity on strategic priorities. Consequently, he launched a successful feature that increased customer engagement. His experience underscores the applicability of these strategies.
 
 ### Maya's Transition
 

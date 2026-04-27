@@ -14,7 +14,7 @@ lastUpdated: "2026-04-27"
 
 Passive liquidity provision serves as a "set-and-forget" strategy within Decentralized Finance ([DeFi](/what-is-defi)). Users deposit their assets into Automated Market Maker (AMM) liquidity pools to earn trading fees without actively managing their positions. This method became popular with the advent of protocols like Uniswap v2, allowing users to efficiently utilize idle assets.
 
-As DeFi has evolved, the distinction between passive and active liquidity provision has blurred, particularly with the introduction of more sophisticated protocols like Uniswap v3. Today, true passive provision often requires leveraging additional layers of protocols designed to manage the inherent complexities of modern AMMs for the user.
+As DeFi has evolved, the distinction between passive and active liquidity provision has blurred, particularly with the introduction of more sophisticated protocols like Uniswap v3. Today, true passive provision often requires using additional layers of protocols designed to manage the inherent complexities of modern AMMs for the user.
 
 This guide outlines passive liquidity provision, including its advantages, inherent risks, such as impermanent loss, and the tools that facilitate a truly hands-off approach in the current DeFi framework.
 
@@ -125,7 +125,7 @@ Regularly track your results. Are you achieving your desired outcomes? Adjust yo
 Consider Sarah, a developer at a blockchain startup. Initially overwhelmed by liquidity provision, she implemented a structured approach. Within three months, she improved her returns significantly, demonstrating the effectiveness of a well-planned strategy.
 
 ### Example 2
-Juan, a product manager in DeFi, faced challenges similar to Sarah. By following the outlined framework, he successfully navigated market volatility and increased his returns. His experience highlights the universal applicability of these principles.
+Juan, a product manager in DeFi, faced challenges similar to Sarah. By following the outlined framework, he successfully managed market volatility and increased his returns. His experience highlights the universal applicability of these principles.
 
 ### Example 3
 Maya, transitioning from Web2 to Web3, adopted the method discussed. Her swift adaptation to the new environment underscores the relevance of a personalized strategy in achieving professional success.
@@ -140,6 +140,6 @@ Maya, transitioning from Web2 to Web3, adopted the method discussed. Her swift a
 
 ## Conclusion
 
-Passive liquidity provision represents a valuable strategy within DeFi, allowing users to earn fees with minimal management. While risks like impermanent loss remain, understanding the dynamics of various liquidity pools can lead to informed decisions and improved financial outcomes. As DeFi continues to evolve, leveraging automated solutions can enhance the passive experience, enabling users to optimize their asset utilization effectively. 
+Passive liquidity provision represents a valuable strategy within DeFi, allowing users to earn fees with minimal management. While risks like impermanent loss remain, understanding the dynamics of various liquidity pools can lead to informed decisions and improved financial outcomes. As DeFi continues to evolve, using automated solutions can enhance the passive experience, enabling users to optimize their asset utilization effectively. 
 
-Understanding these concepts not only equips you with the knowledge to navigate passive liquidity provision but also positions you competitively in the fast-paced world of Web3 and decentralized finance.
+Understanding these concepts not only equips you with the knowledge to manage passive liquidity provision but also positions you competitively in the fast-paced world of Web3 and decentralized finance.

@@ -60,7 +60,7 @@ Re-entering the job market may take time, and you might face rejection along the
 * **Celebrate Small Wins**: Acknowledge minor victories, such as receiving positive feedback on a networking email or completing an informational interview. These moments can help sustain your motivation.
 * **Maintain Confidence**: Your career break does not diminish your past achievements or future potential. You possess valuable skills and experiences. Own your journey and articulate your value confidently.
 
-Returning to work after a break involves a strategic approach. By being proactive and focused, you can successfully navigate the job market and secure a role that excites you.
+Returning to work after a break involves a strategic approach. By being proactive and focused, you can successfully manage the job market and secure a role that excites you.
 
 ### Key Components of a Successful Job Search
 
@@ -90,4 +90,4 @@ These options can facilitate a smoother transition back into the workforce. A re
 
 Returning to work after a career break can be challenging, but it also presents an opportunity for growth and realignment with your career goals. By reflecting on your priorities, updating your professional materials, reconnecting with your network, and crafting a compelling narrative around your break, you can position yourself effectively for your job search. 
 
-Stay patient and persistent throughout this process. Celebrate small victories and remember that your unique experiences contribute to your value as a candidate. Embrace this journey as you re-enter the workforce with renewed confidence and purpose.
+Stay patient and persistent throughout this process. Celebrate small victories and remember that your unique experiences contribute to your value as a candidate. Accept this journey as you re-enter the workforce with renewed confidence and purpose.

@@ -32,7 +32,7 @@ An entity that controls more than half of the hashrate can statistically build a
 
 #### Double-Spend Scenario Explained
 
-Here’s a detailed example of how an attacker could leverage a 51% attack to double-spend their coins:
+Here’s a detailed example of how an attacker could apply a 51% attack to double-spend their coins:
 
 1. **Setup**: The attacker secures a majority of the network's hashrate and possesses a significant amount of cryptocurrency they wish to spend twice.
 
@@ -142,7 +142,7 @@ The Web3 community is remarkably accessible. Consider:
 - Attending local Web3 meetups.
 
 #### Step 5: Strategic Job Applications
-Target positions that leverage your existing expertise along with new Web3 knowledge:
+Target positions that use your existing expertise along with new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles.
 - Product managers should explore protocol product roles.
@@ -172,13 +172,13 @@ Marcus chose to leave his corporate position to focus on Web3 for six months. Th
 ### FAQ
 
 **Do I need to be a blockchain expert to work in Web3?**  
-No. The Web3 ecosystem requires far more than engineers. Roles for marketing managers, community leads, product designers, legal experts, operations specialists, and business development professionals are all in high demand. Existing skills transfer directly , the key is layering on Web3 context, such as wallet functionality, DAO understanding, and the significance of decentralization. Most hiring managers prioritize domain expertise coupled with genuine curiosity about the space over pure blockchain knowledge.
+No. The Web3 ecosystem requires far more than engineers. Roles for marketing managers, community leads, product designers, legal experts, operations specialists, and business development professionals are all in high demand. Existing skills transfer directly; the key is layering on Web3 context, such as wallet functionality, DAO understanding, and the significance of decentralization. Most hiring managers prioritize domain expertise coupled with genuine curiosity about the space over pure blockchain knowledge.
 
 **How much can I earn in Web3?**  
 Compensation in Web3 consistently surpasses Web2 equivalents. Base salaries typically run higher on average, with Solidity engineers and smart contract auditors commanding the largest premiums due to scarce talent. In addition to base compensation, total packages frequently include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols often earn substantial total compensation. Even non-technical roles receive meaningful premiums compared to their Web2 counterparts.
 
 **Is transitioning to Web3 risky?**  
-Every career transition carries inherent risks, and Web3 is no exception, given market volatility and project lifecycles. However, you can systematically manage this risk by targeting well-funded, established protocols with proven revenue rather than speculative early-stage projects. Verify the teams' backgrounds and ensure your base salary is primarily in fiat currency rather than tokens. Professionals who view Web3 as a career move instead of a quick cash grab consistently build robust roles that endure through market cycles.
+Every career transition carries inherent risks, and Web3 is no exception, given market volatility and project lifecycles. However, you can systematically manage this risk by targeting well-funded, established protocols with proven revenue rather than speculative early-stage projects. Verify the teams' backgrounds and ensure your base salary is primarily in fiat currency rather than tokens. Professionals who view Web3 as a career move instead of a quick cash grab consistently build strong roles that endure through market cycles.
 
 **How long does the transition take?**  
 Most professionals complete a meaningful transition to Web3 within 2 to 6 months of focused effort. Engineers and product managers tend to move fastest since their core skills transfer directly, with the learning curve primarily involving tooling and protocol-specific knowledge. Non-technical roles, such as marketing and community management, can transition in as little as 4 to 8 weeks with concentrated self-study. The key factor is the level of engagement: building a portfolio project or contributing to an open-source protocol can significantly accelerate the process.

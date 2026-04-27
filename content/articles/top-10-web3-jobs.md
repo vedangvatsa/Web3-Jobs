@@ -31,7 +31,7 @@ A strong understanding of [blockchain](/what-is-a-blockchain) principles is cruc
 Community managers are vital in Web3, where community engagement is integral to project success. They build and nurture the user base, often across platforms like Discord and Twitter, serving as the link between the development team and the users.
 
 ### Key Responsibilities
-- Manage Discord and Telegram channels to foster positive discussions.
+- Manage Discord and Telegram channels to encourage positive discussions.
 - Organize online and offline events, AMAs (Ask Me Anything), and contests.
 - Gather user feedback and relay insights to product and development teams.
 - Create content (memes, tutorials, updates) to keep the community informed and engaged.
@@ -121,7 +121,7 @@ Web3's adoption faces challenges due to its often-clunky user experience. UX/UI 
 - Simplify complex interactions, such as transaction signing and gas fees.
 
 ### Essential Skills
-Proficiency in design tools like Figma, a robust [portfolio](/building-web3-portfolio), and empathy for users are essential. Understanding the unique challenges of [Web3 UX](/web3-ux-design) is also critical.
+Proficiency in design tools like Figma, a strong [portfolio](/building-web3-portfolio), and empathy for users are essential. Understanding the unique challenges of [Web3 UX](/web3-ux-design) is also critical.
 
 ## 9. Data Analyst / Scientist
 *The detectives who find insights in on-chain data.*
@@ -140,7 +140,7 @@ Strong SQL skills, experience with data visualization tools like Looker or Table
 ## 10. Technical Writer / Content Creator
 *The educators who make complex topics understandable.*
 
-Clear documentation is vital in Web3. Technical writers create tutorials, guides, and documentation that help users and developers understand projects, fostering a healthy ecosystem.
+Clear documentation is vital in Web3. Technical writers create tutorials, guides, and documentation that help users and developers understand projects, supporting a healthy ecosystem.
 
 ### Key Responsibilities
 - Write clear documentation for APIs and smart contracts.
@@ -220,7 +220,7 @@ Target roles that match your existing expertise alongside your new Web3 knowledg
 Alex, a backend engineer with five years of experience at a major tech firm, spent three months learning Solidity while working full-time. His contributions to an open-source project caught the attention of a prominent DeFi company, leading to a transition with a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her familiarity with financial products, coupled with knowledge of Web3 technology, made her highly desirable. She secured a role at a major DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her familiarity with financial products, coupled with knowledge of Web3 technology, made her highly desirable. She secured a role at a major DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 Marcus left a corporate position to focus on Web3 for six months. Through consistent learning, networking, and portfolio development, he landed a role leading Developer Relations at a significant blockchain platform, earning compensation exceeding his previous salary.

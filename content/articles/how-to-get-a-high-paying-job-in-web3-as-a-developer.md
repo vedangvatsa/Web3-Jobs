@@ -16,7 +16,7 @@ This guide is intended for developers seeking to transition from entry-level rol
 
 ### The Mindset: Transition from Application Builder to Systems Architect
 
-Transitioning to a high-paying role involves a significant shift in mindset. You must move from simply building applications *on* a [blockchain](/what-is-a-blockchain) to comprehending the blockchain as a complex system with adversarial elements. Your focus should extend beyond writing functional code; you need to prioritize security, efficiency, and economic incentives at a foundational level. Aim to produce code that is not only functional but also secure, cost-effective, and elegantly designed.
+Transitioning to a high-paying role involves a significant shift in mindset. You must move from simply building applications *on* a [blockchain](/what-is-a-blockchain) to understanding the blockchain as a complex system with adversarial elements. Your focus should extend beyond writing functional code; you need to prioritize security, efficiency, and economic incentives at a foundational level. Aim to produce code that is not only functional but also secure, cost-effective, and elegantly designed.
 
 ### The Elite Skillset: What Commands a Premium?
 

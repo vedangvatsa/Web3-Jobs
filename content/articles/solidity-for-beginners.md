@@ -9,9 +9,9 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-So, you want to become a [Web3](/what-is-web3) developer. You've heard about the exciting world of decentralized applications (dApps), [DeFi](/what-is-defi), and [NFTs](/what-are-nfts), and you're ready to start building. The journey for most aspiring [blockchain](/what-is-a-blockchain) developers begins with one language: [Solidity](/best-programming-languages-for-blockchain-development). As the primary language for programming [smart contracts](/what-are-smart-contracts) on [Ethereum](/what-is-ethereum) and other EVM-compatible blockchains, Solidity is the key that unlocks the door to Web3 development.
+So, you want to become a [Web3](/what-is-web3) developer. You've heard about the exciting world of decentralized applications (dApps), [DeFi](/what-is-defi), and [NFTs](/what-are-nfts), and you're ready to start building. The journey for most aspiring [blockchain](/what-is-a-blockchain) developers begins with one language: [Solidity](/best-programming-languages-for-blockchain-development). As the primary language for programming [smart contracts](/what-are-smart-contracts) on [Ethereum](/what-is-ethereum) and other EVM-compatible blockchains, Solidity is the key that opens the door to Web3 development.
 
-But where do you start? The world of smart contracts can seem intimidating, with its talk of gas fees, immutability, and the Ethereum Virtual Machine (EVM). This guide is designed to cut through the complexity and provide a gentle, step-by-step introduction to Solidity. We'll walk you through the process of setting up your development environment, explain the core concepts of the language, and guide you in writing, compiling, and deploying your very first, simple smart contract. By the end of this tutorial, you'll have a foundational understanding of Solidity and a tangible project to show for it.
+But where do you start? The world of smart contracts can seem intimidating, with its talk of gas fees, immutability, and the Ethereum Virtual Machine (EVM). This guide is designed to cut through the complexity and provide a step-by-step introduction to Solidity. We'll walk you through the process of setting up your development environment, explain the core concepts of the language, and guide you in writing, compiling, and deploying your very first, simple smart contract. By the end of this tutorial, you'll have a foundational understanding of Solidity and a tangible project to show for it.
 
 ## What You'll Need Your Development Environment
 
@@ -57,11 +57,11 @@ The next line tells the compiler which version of Solidity we're using. This is 
 pragma solidity ^0.8.20;
 ```
 -   `pragma` is a directive to the compiler.
--   `solidity ^0.8.20` means this code is compatible with Solidity version 0.8.20 and any newer *patch* versions (e.g., 0.8.21), but not with a new *minor* version (like 0.9.0). The caret `^` is what specifies this rule.
+-   `solidity ^0.8.20` means this code is compatible with Solidity version 0.8.20 and any newer patch versions (e.g., 0.8.21), but not with a new minor version (like 0.9.0). The caret `^` specifies this rule.
 
 ### 3. The Contract Keyword
 
-Now, we define the contract itself. A contract is a collection of code (its *functions*) and data (its *state*) that resides at a specific address on the blockchain. We use the `contract` keyword, followed by the name of our contract.
+Now, we define the contract itself. A contract is a collection of code (its functions) and data (its state) that resides at a specific address on the blockchain. We use the `contract` keyword, followed by the name of our contract.
 
 ```solidity
 contract SimpleStorage {
@@ -93,7 +93,7 @@ contract SimpleStorage {
 ```
 Let's break this down:
 -   `uint256`: This is the data type. `uint` stands for "unsigned integer," meaning it cannot be negative. `256` refers to the number of bits it takes up in storage. This is the standard type for numbers in Solidity.
--   `public`: This is a visibility keyword. Making a variable `public` tells the Solidity compiler to automatically create a *getter function* for it. This means other contracts (and us!) can read the value of this variable without us having to write a specific function for it.
+-   `public`: This is a visibility keyword. Making a variable `public` tells the Solidity compiler to automatically create a getter function for it. This means other contracts (and us!) can read the value of this variable without us having to write a specific function for it.
 -   `favoriteNumber`: This is the name of our variable.
 
 ## Step 4: Writing Functions to Modify State
@@ -140,7 +140,7 @@ You should see some activity in the Remix terminal at the bottom, and then under
 
 ### Interacting with Your Deployed Contract
 
-Click the small arrow next to your `SimpleStorage` contract to expand it. You will see buttons corresponding to the `public` parts of your contract.
+Click the small arrow next to your `SimpleStorage` contract to expand it. You will see buttons corresponding to the public parts of your contract.
 
 -   **`favoriteNumber` (blue button):** This is the public getter function for our state variable. Click it now. It will instantly return the value `0`, which is the default value for a `uint256`.
 -   **`store` (orange button):** This is our function for changing the state.

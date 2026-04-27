@@ -69,8 +69,8 @@ The NFT ecosystem now exists in a fragmented state. There is no universally acce
 |----------------------|-----------------------------------------------------------------------------|---------------------------------------------------|-----------------------------------------------------|
 | Voluntary            | Collectors decide whether to honor creator royalties.                      | Upholds ownership principles; lower fees for traders. | Detrimental impact on creator income; unreliable.   |
 | Allowlist Enforcement | NFT contracts restrict transfers to marketplaces on a royalty-honoring allowlist. | Increased creator control; effective royalty enforcement. | Seen as anti-decentralization; requires list maintenance. |
-| Community and Brand  | Creators foster a loyal community that voluntarily supports royalties.     | Aligns incentives; builds long-term value.       | Challenging to establish; relies on social pressure.  |
-| Evolving Standards    | New token standards aim to enforce royalties more effectively.            | Potential for robust technical solutions.        | Requires broad adoption by wallets and marketplaces.  |
+| Community and Brand  | Creators build a loyal community that voluntarily supports royalties.     | Aligns incentives; builds long-term value.       | Challenging to establish; relies on social pressure.  |
+| Evolving Standards    | New token standards aim to enforce royalties more effectively.            | Potential for strong technical solutions.        | Requires broad adoption by wallets and marketplaces.  |
 
 ### Voluntary Model
 
@@ -110,7 +110,7 @@ Artists planning an NFT launch must move beyond the outdated "set it and forget 
 4. **Offer Utility:** Provide NFT holders with benefits beyond the artwork itself, such as access to exclusive content or private forums. When NFTs offer ongoing utility, collectors are more likely to prioritize the creator's ecosystem.
 5. **Educate Your Collectors:** Clearly communicate your royalty policy and explain its importance for your sustainability as a creator.
 
-The debate over NFT royalties continues, reflecting the growing pains of the Web3 ecosystem as it seeks to balance absolute ownership with sustainable creator economies. While the initial vision of automatically enforced royalties faces challenges, the ongoing conversation prompts a more mature and nuanced approach. Creators can navigate this landscape by combining technical standards, community engagement, and transparent communication.
+The debate over NFT royalties continues, reflecting the growing pains of the Web3 ecosystem as it seeks to balance absolute ownership with sustainable creator economies. While the initial vision of automatically enforced royalties faces challenges, the ongoing conversation prompts a more mature and nuanced approach. Creators can manage this field by combining technical standards, community engagement, and transparent communication.
 
 ## Importance of Understanding NFT Royalties
 
@@ -137,7 +137,7 @@ Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced chall
 Juan, a product manager in [DeFi](/what-is-defi), experienced difficulties with royalty enforcement. By applying a combination of community building and transparent communication, he successfully increased creator support, leading to a rise in royalties over six months.
 
 ### Example 3
-Maya, transitioning from Web2 to Web3, utilized these strategies to adapt quickly. Her proactive approach to understanding and implementing NFT royalties allowed her to establish a robust network and gain traction in the new environment.
+Maya, transitioning from Web2 to Web3, utilized these strategies to adapt quickly. Her proactive approach to understanding and implementing NFT royalties allowed her to establish a strong network and gain traction in the new environment.
 
 ## Common Pitfalls to Avoid
 

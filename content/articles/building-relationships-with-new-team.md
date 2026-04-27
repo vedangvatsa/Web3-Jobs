@@ -193,7 +193,7 @@ Strong relationships often stem from shared values and interests. Identify these
 - **Integrity**: A shared desire to act ethically and transparently.
 - **Innovation**: Both wishing to push boundaries and explore new ideas.
 
-#### Leveraging Shared Values
+#### Using Shared Values
 Once you identify shared values, acknowledge them:
 
 > "I appreciate how you always focus on maintainable code. Your feedback on my PR helped me improve my code quality."
@@ -207,7 +207,7 @@ Or: "I respect your commitment to mentoring junior developers. I’d like to dev
 - **Utilize Video**: Always turn on your camera during meetings.
 - **Engage Actively**: Use Slack to build connections.
 - **Establish Regular 1-on-1s**: Create a consistent rhythm for your interactions.
-- **Embrace Asynchronous Communication**: Share interesting articles or insights to prompt engagement.
+- **Use Asynchronous Communication**: Share interesting articles or insights to prompt engagement.
 
 #### Hybrid Teams
 - **Be Present on In-Office Days**: Attend when your team gathers.

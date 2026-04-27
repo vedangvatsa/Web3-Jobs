@@ -18,7 +18,7 @@ This roadmap provides you with a clear, step-by-step path to becoming a blockcha
 
 Understanding the environment in which you will work is critical before writing any code. Skipping this foundational step often leads to the creation of insecure or inefficient applications.
 
-- **Understanding Blockchain:** Familiarize yourself with key concepts such as decentralization, immutability, and consensus mechanisms, including Proof of Work and Proof of [Stake](/how-to-become-a-web3-staking-specialist). Start with our [guide to blockchain technology](/what-is-a-blockchain) for a comprehensive overview.
+- **Understanding Blockchain:** Familiarize yourself with key concepts such as decentralization, immutability, and consensus mechanisms, including Proof of Work and Proof of [Stake](/how-to-become-a-web3-staking-specialist). Start with our [guide to blockchain technology](/what-is-a-blockchain) for a complete overview.
 - **Public Key Cryptography:** Grasp how public and private keys function, what a digital signature entails, and its significance in securing transactions.
 - **Ethereum Architecture:** Study the architecture of the Ethereum blockchain. Learn about the roles of nodes, the Ethereum Virtual Machine (EVM), and the concept of "state."
 
@@ -27,7 +27,7 @@ Understanding the environment in which you will work is critical before writing 
 Your choice of programming language will influence the applications you can develop. Most dApp developers begin with [Solidity](/best-programming-languages-for-blockchain-development).
 
 - **Solidity:** This language is the standard for writing [smart contracts](/what-are-smart-contracts) on Ethereum and EVM-compatible blockchains. Its syntax resembles that of JavaScript and C++, making it accessible for many developers. Prioritize mastering Solidity.
-- **JavaScript/TypeScript:** These languages are essential for developing the front-end of your dApps. Utilize libraries like Ethers.js or Viem to enable interactions with your smart contracts.
+- **JavaScript/TypeScript:** These languages are essential for developing the front end of your dApps. Utilize libraries like Ethers.js or Viem to enable interactions with your smart contracts.
 - **Rust (Advanced):** For those interested in building foundational blockchain infrastructure (Layer 1s), Rust is the preferred language for high-performance chains such as Solana and Polkadot. While it presents a steep learning curve, proficiency in Rust can lead to advanced career opportunities.
 
 Explore our [breakdown of the top 5 Web3 languages](/top-5-web3-languages) to help you make an informed choice.
@@ -57,7 +57,7 @@ Hands-on experience is vital for mastering blockchain development. Progress thro
 
 ### Step 5: Build Your Web3 Presence
 
-- **Maintain an Active GitHub:** Your GitHub profile acts as your [resume](/how-to-build-a-web3-resume-that-stands-out). Ensure it is well-organized, thoroughly documented, and frequently updated.
+- **Maintain an Active GitHub:** Your GitHub profile acts as your [resume](/how-to-build-a-web3-resume-that-stands-out). Ensure it is well-organized, documented, and frequently updated.
 - **Engage on Twitter & Farcaster:** Follow and interact with influential figures in the Web3 space. Share insights about your learning journey.
 - **Participate in Hackathons:** Join events like those organized by ETHGlobal. Hackathons provide opportunities to learn rapidly, network, and potentially secure funding for projects.
 
@@ -135,7 +135,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### From Product Manager to Web3
 
-Jessica, a product manager with a background in traditional finance, leveraged her expertise in DeFi. Her understanding of financial products, combined with her knowledge of Web3 technology, made her a valuable candidate. She secured a position at a leading DeFi protocol within four weeks.
+Jessica, a product manager with a background in traditional finance, used her expertise in DeFi. Her understanding of financial products, combined with her knowledge of Web3 technology, made her a valuable candidate. She secured a position at a leading DeFi protocol within four weeks.
 
 ### Career Change Success
 

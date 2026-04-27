@@ -10,7 +10,7 @@ publishedDate: "2026-03-11"
 lastUpdated: "2026-04-27"
 ---
 
-The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund ranks among the most intellectually rewarding positions in the cryptocurrency sector. Analysts focus on identifying promising founders and protocols that will influence the future of the decentralized internet. 
+The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund ranks among the most intellectually rewarding positions in the cryptocurrency sector. Analysts focus on identifying promising founders and protocols that will influence the future of the decentralized internet.
 
 In contrast to traditional finance, where analysis relies on private company data and financial statements, Web3 analysts operate in an environment defined by open-source code and transparent on-chain metrics. This guide outlines the responsibilities of a Web3 Investment Analyst and the essential skills needed to excel in this competitive space. For a broader overview of VC jobs, see our guide on [how to get a job in Web3 venture capital](/web3-vc-jobs).
 
@@ -45,7 +45,7 @@ Entering the crypto VC space often involves demonstrating passion and analytical
 2. **Develop a Public Profile**: Establish yourself as an expert in a niche area. Start a blog, newsletter, or Twitter account to publish high-quality research in subjects like zero-knowledge proofs, MEV, or specific L1 ecosystems.
 3. **Build a [Portfolio](/building-web3-portfolio) of Public Work**: Your public analyses serve as your resume.
    - Create insightful [Dune dashboards](/on-chain-analyst-job).
-   - Write a comprehensive investment thesis on a project you admire and share it publicly.
+   - Write an investment thesis on a project you admire and share it publicly.
    - Actively contribute to a [DAO](/what-is-a-dao)'s governance forum.
 4. **Network Strategically**: Cultivate relationships with analysts and associates at funds you admire. Instead of merely asking for a job, request feedback on your analyses.
 
@@ -118,7 +118,7 @@ Target roles that maximize your existing skills while integrating new Web3 knowl
 Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learn Solidity while working. His contributions to an open-source protocol led to recognition from a prominent DeFi project, resulting in a career transition that included a significant salary increase and substantial equity.
 
 ### Product Manager in Web3
-Jessica, a product manager from traditional finance, successfully leveraged her expertise in DeFi. Her background in financial products, combined with knowledge of Web3 technology, made her highly valuable. She secured a position at a leading DeFi protocol within a short timeframe.
+Jessica, a product manager from traditional finance, successfully applied her expertise in DeFi. Her background in financial products, combined with knowledge of Web3 technology, made her highly valuable. She secured a position at a leading DeFi protocol within a short timeframe.
 
 ### Career Changer Success
 Marcus transitioned from a corporate job to focus on Web3 for six months. Through persistent learning, networking, and building a portfolio, he landed a role in Developer Relations at a major blockchain platform, with compensation surpassing his previous position.
@@ -152,4 +152,4 @@ Bear markets often present the best opportunities to enter the Web3 space. As sp
 
 ## Conclusion
 
-The Web3 sector offers significant advantages, including higher compensation, rapid career advancement, and the chance to contribute to transformative technology. Professionals can transition into this field within a few months of dedicated effort, leveraging existing skills while acquiring new blockchain-specific knowledge. Engaging with the community through networking and visible portfolio projects proves more effective than formal certifications in securing roles. As the industry continues to evolve, opportunities abound for those willing to embrace the challenges and rewards of a career in Web3.
+The Web3 sector offers significant advantages, including higher compensation, rapid career advancement, and the chance to contribute to transformative technology. Professionals can transition into this field within a few months of dedicated effort, using existing skills while acquiring new blockchain-specific knowledge. Engaging with the community through networking and visible portfolio projects proves more effective than formal certifications in securing roles. As the industry continues to evolve, opportunities abound for those willing to accept the challenges and rewards of a career in Web3.

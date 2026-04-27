@@ -113,7 +113,7 @@ The Web3 community is highly accessible:
 - Attend local Web3 meetups.
 
 **Step 5: Apply Strategically**
-Target roles that leverage your existing skills alongside your new Web3 knowledge:
+Target roles that use your existing skills alongside your new Web3 knowledge:
 - Backend engineers should explore blockchain infrastructure roles.
 - Product managers can look for protocol product positions.
 - Sales and business professionals should seek Web3 business development opportunities.
@@ -158,4 +158,4 @@ A: Bear markets often present the best opportunities to enter Web3. During downt
 
 ### Conclusion
 
-The emergence of the on-chain resume signifies a transformative shift in how professionals establish their reputations in Web3. By actively participating in the ecosystem, building a robust on-chain presence, and strategically transitioning into Web3 roles, individuals can capitalize on the significant growth and opportunities within this sector. With the right approach, Web3 can offer not just career advancement but a chance to contribute meaningfully to the technological future.
+The emergence of the on-chain resume signifies a transformative shift in how professionals establish their reputations in Web3. By actively participating in the ecosystem, building an on-chain presence, and strategically transitioning into Web3 roles, individuals can capitalize on the significant growth and opportunities within this sector. With the right approach, Web3 can offer not just career advancement but a chance to contribute meaningfully to the technological future.

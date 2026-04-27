@@ -45,7 +45,7 @@ Investigate the expectations regarding working hours. Determine whether the comp
 
 Assess how leaders interact with their teams. Are they supportive mentors, or do they micromanage?
 
-- **What to look for:** Inquire about the management style of your potential manager. How do they foster team growth? How do they approach mistakes?
+- **What to look for:** Inquire about the management style of your potential manager. How do they support team growth? How do they approach mistakes?
 - **Red Flags:** A manager who appears indifferent or who cannot clearly articulate success metrics for the role.
 
 #### 5. Growth and Development
@@ -131,7 +131,7 @@ Monitor your progress. Are you achieving desired results? Adjust your approach b
 |------|------|---------|-----------|---------|
 | Sarah | Developer | Blockchain Startup | Struggled with team collaboration | Improved teamwork within 3 months by applying structured feedback loops |
 | Juan | Product Manager | DeFi | Difficulty in managing stakeholder expectations | Achieved alignment across teams by instituting regular check-ins, leading to enhanced project success |
-| Maya | Transitioning Professional | Web3 | Adapting to a new industry | Successfully integrated into Web3 culture by leveraging mentorship and networking |
+| Maya | Transitioning Professional | Web3 | Adapting to a new industry | Successfully integrated into Web3 culture by using mentorship and networking |
 
 ### Common Mistakes to Avoid
 
@@ -160,4 +160,4 @@ A: Consider seeking mentorship or joining peer groups focused on professional de
 
 ### Conclusion
 
-Evaluating company culture before accepting a job offer is essential for ensuring a fulfilling and productive work experience. By asking targeted questions, observing non-verbal cues, and conducting thorough independent research, you can gain a clear understanding of a company's culture. This evaluation not only aids in making an informed career decision but also enhances the likelihood of long-term job satisfaction and success. Prioritizing cultural fit alongside professional goals is critical, especially in dynamic environments like Web3, where collaboration and communication play pivotal roles in achieving success.
+Evaluating company culture before accepting a job offer is essential for ensuring a fulfilling and productive work experience. By asking targeted questions, observing non-verbal cues, and conducting thorough independent research, you can gain a clear understanding of a company's culture. This evaluation not only aids in making an informed career decision but also enhances the likelihood of long-term job satisfaction and success. Prioritizing cultural fit alongside professional goals is critical, especially in dynamic environments like Web3, where collaboration and communication play key roles in achieving success.

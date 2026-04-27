@@ -137,7 +137,7 @@ Alex, a backend engineer with five years of experience in a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from a traditional finance background, leveraged her expertise in DeFi. Her familiarity with financial products, combined with her understanding of Web3 technology, made her a strong candidate. She secured a role at a prominent DeFi protocol within a short period.
+Jessica, a product manager from a traditional finance background, used her expertise in DeFi. Her familiarity with financial products, combined with her understanding of Web3 technology, made her a strong candidate. She secured a role at a prominent DeFi protocol within a short period.
 
 ### Career Change Success
 
@@ -145,7 +145,7 @@ Marcus left his corporate job to pursue a career in Web3 over six months. With c
 
 ## Web3-Specific Challenges
 
-**Volatility Risk:** The crypto market's inherent volatility can pose risks to job stability, especially at early-stage startups. Professionals entering Web3 should maintain several months of living expenses as a buffer, negotiate base salaries in fiat currency instead of tokens, and prioritize projects with established revenue models or robust treasury reserves.
+**Volatility Risk:** The crypto market's inherent volatility can pose risks to job stability, especially at early-stage startups. Professionals entering Web3 should maintain several months of living expenses as a buffer, negotiate base salaries in fiat currency instead of tokens, and prioritize projects with established revenue models or reliable treasury reserves.
 
 **Regulatory Uncertainty:** The regulatory environment for blockchain companies remains fluid across major jurisdictions. Before joining a project, confirm that the team has competent legal counsel and is proactively engaging with regulators rather than operating in ambiguous legal spaces.
 

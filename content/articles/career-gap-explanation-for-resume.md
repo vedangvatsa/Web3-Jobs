@@ -28,7 +28,7 @@ For longer gaps, address them directly by adding a dedicated section to your res
 
 | Duration           | Description                                                                                                            |
 |--------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Professional Development Sabbatical (2022 - 2023)** | Completed a comprehensive online bootcamp in [Web3](/what-is-web3) development, focusing on [Solidity](/best-programming-languages-for-blockchain-development) and React.<br>Built and deployed three personal projects, including a decentralized voting application.<br>Actively contributed to open-source [DeFi](/what-is-defi) protocols. |
+| **Professional Development Sabbatical (2022 - 2023)** | Completed an online bootcamp in [Web3](/what-is-web3) development, focusing on [Solidity](/best-programming-languages-for-blockchain-development) and React.<br>Built and deployed three personal projects, including a decentralized voting application.<br>Actively contributed to open-source [DeFi](/what-is-defi) protocols. |
 
 This approach transforms a potential concern into a demonstration of your initiative and commitment to learning.
 

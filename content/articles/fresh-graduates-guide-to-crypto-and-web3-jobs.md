@@ -16,7 +16,7 @@ As a fresh graduate, you are entering one of the most dynamic job markets in his
 
 #### High Demand and Low Supply
 
-The demand for talent in Web3 far exceeds the available supply. According to a report by LinkedIn, job postings related to blockchain technology increased significantly from 2017 to 2021. This disparity gives skilled candidates, even those without formal experience, a competitive edge in securing positions.
+The demand for talent in Web3 far exceeds the available supply. Job postings related to blockchain technology increased significantly from 2017 to 2021. This disparity gives skilled candidates, even those without formal experience, a competitive edge in securing positions.
 
 #### Real Responsibility from Day One
 
@@ -89,7 +89,7 @@ Creating a portfolio that demonstrates your skills is critical.
 
 A [Web3 internship](/web3-internship-101) serves as a crucial bridge from academic life to a full-time position.
 
-- **Where to Look:** Leverage your portfolio to apply for internships on job boards. Additionally, active contributions to a DAO or on GitHub can lead to internship offers.
+- **Where to Look:** Use your portfolio to apply for internships on job boards. Additionally, active contributions to a DAO or on GitHub can lead to internship offers.
 - **Prioritize Learning Over Compensation:** Your focus should be on gaining experience and expanding your network. Even a short, unpaid internship can provide valuable insights and add a real project to your resume.
 
 ### Step 4: Tailor Your Resume and Prepare for Interviews
@@ -166,7 +166,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her a valuable asset. She secured a role at a leading DeFi protocol within a few weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her understanding of financial products, combined with Web3 technology, made her a valuable asset. She secured a role at a leading DeFi protocol within a few weeks.
 
 ### Career Changer Success
 

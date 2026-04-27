@@ -16,7 +16,7 @@ This article outlines the [essential skills](/mastering-web3-essential-skills) a
 
 ### The NFT Developer's Tech Stack
 
-To build an NFT marketplace, developers require a comprehensive skill set that encompasses both on-chain and off-chain components.
+To build an NFT marketplace, developers require a skill set that encompasses both on-chain and off-chain components.
 
 **On-Chain (Smart Contracts):**
 
@@ -31,7 +31,7 @@ To build an NFT marketplace, developers require a comprehensive skill set that e
 - **React/Next.js:** These technologies are the industry standard for building the user interface of the marketplace.
 - **Ethers.js / Viem:** JavaScript libraries for interacting with the [blockchain](/what-is-a-blockchain) from the frontend, enabling users to connect their [wallet](/how-to-choose-a-crypto-wallet) and sign transactions.
 - **Data Indexing:** Directly reading NFT data from the blockchain is inefficient. Developers should implement an indexing solution to provide a fast and reliable API for the frontend.
-    - **Third-Party APIs:** Services such as Reservoir, SimpleHash, and Alchemy’s NFT API offer comprehensive data for numerous NFT collections.
+    - **Third-Party APIs:** Services such as Reservoir, SimpleHash, and Alchemy’s NFT API offer data for numerous NFT collections.
     - **The Graph:** For specialized data requirements, developers may need to create their own "subgraph" to index specific marketplace events. More details are available in our [guide to The Graph](/your-first-subgraph-indexing-blockchain-data-with-the-graph).
 
 ### Your Portfolio Project Roadmap
@@ -47,7 +47,7 @@ A career as an NFT Marketplace Developer places you at the intersection of techn
 
 ## The Web3 Opportunity
 
-The [Web3](/what-is-web3) sector is witnessing remarkable growth, with demand for talent significantly outpacing supply. According to industry reports, job postings for blockchain developers have increased consistently since 2021, even during market downturns when other tech sectors reduced hiring. Web3 presents unique advantages that appeal to career changers and experienced professionals alike:
+The [Web3](/what-is-web3) sector is witnessing growth, with demand for talent significantly outpacing supply. Job postings for blockchain developers have increased consistently since 2021, even during market downturns when other tech sectors reduced hiring. Web3 presents unique advantages that appeal to career changers and experienced professionals alike:
 
 - Higher base salaries, generally above Web2 equivalents.
 - Meaningful equity and token allocations.
@@ -108,7 +108,7 @@ The Web3 community is highly accessible:
 - Attend local Web3 meetups.
 
 ### Step 5: Apply Strategically
-Target positions that leverage your current expertise along with your new Web3 knowledge:
+Target positions that use your current expertise along with your new Web3 knowledge:
 - Backend engineers should seek blockchain infrastructure roles.
 - Product managers may find opportunities in protocol product management.
 - Those in sales or business roles should explore Web3 business development positions.

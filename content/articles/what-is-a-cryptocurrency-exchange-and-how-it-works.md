@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 A cryptocurrency exchange serves as a digital marketplace where users can buy, sell, and trade various cryptocurrencies. For many, it marks the initial entry point from traditional finance, such as fiat currencies like USD or EUR, into the evolving world of [Web3](/what-is-web3). Similar to a stock exchange, these platforms facilitate transactions for assets including [Bitcoin](/what-is-bitcoin), [Ethereum](/what-is-ethereum), and thousands of other [tokens](/what-is-a-token).
 
-Exchanges play a critical role in the cryptocurrency ecosystem by providing the necessary liquidity and accessibility for market operations. This article outlines the functionalities of exchanges, their operational mechanisms, and the significant distinctions between the primary exchange types.
+Exchanges play a key role in the cryptocurrency ecosystem by providing the necessary liquidity and accessibility for market operations. This article outlines the functionalities of exchanges, their operational mechanisms, and the significant distinctions between the primary exchange types.
 
 ### Functionality of an Exchange
 

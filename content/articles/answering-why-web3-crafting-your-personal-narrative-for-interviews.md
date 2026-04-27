@@ -38,8 +38,8 @@ This section represents your origin story. Identify the moment or concept that m
     * "I was intrigued by the investment potential."
 * **Focus on a powerful, specific concept**:
     * **Example for a DeFi enthusiast**: "Having a background in traditional finance, my first experience using Aave to secure an instant, permissionless loan against my assets was transformative. This moment illuminated the potential to reconstruct the financial system to be more accessible and efficient."
-    * **Example for a creator-focused individual**: "The notion of [NFTs](/what-are-nfts) granting true digital ownership to artists captivated me. The idea of on-chain royalties, enabling creators to earn from the secondary market of their work indefinitely, struck me as a significant way to empower artists."
-    * **Example for a privacy advocate**: "Learning about decentralized identity and the concept of using zero-knowledge proofs to verify information without disclosing personal data was eye-opening. This realization highlighted that Web3 is about more than just financial transactions; it’s about fostering a more private and user-centered internet."
+    * **Example for a creator-focused individual**: "The notion of [NFTs](/what-are-nfts) granting true digital ownership to artists captivated me. The idea of on-chain royalties, enabling creators to earn from the secondary market of their work indefinitely, struck me as a significant way to support artists."
+    * **Example for a privacy advocate**: "Learning about decentralized identity and the concept of using zero-knowledge proofs to verify information without disclosing personal data was eye-opening. This realization highlighted that Web3 is about more than just financial transactions; it’s about building a more private and user-centered internet."
 
 **Part 2: The Journey (Your "Proof of Work")**
 
@@ -55,7 +55,7 @@ The spark ignites your interest, but your subsequent actions demonstrate your de
 
 This segment connects your personal journey to the specific position for which you are interviewing.
 
-* **Demonstrate thorough research**:
+* **Demonstrate detailed research**:
     * "My experiences have fueled my passion for addressing [specific problem]. I have closely followed how [The Company] tackles this issue with [their specific approach], which I find to be the most compelling solution available. I am eager to apply my skills in [your skill] to contribute to this vision."
 * **Show alignment with the company's goals**:
     * "What excites me most about this role is the chance to work on [specific feature on their roadmap]. I believe this aspect is vital for attracting a mainstream audience, and my background in [your experience] will be directly applicable."

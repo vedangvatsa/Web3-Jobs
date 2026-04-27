@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 In the [Web3](/what-is-web3) ecosystem, the terms "Layer 1" and "Layer 2" frequently arise. Understanding the distinction between these layers is crucial for grasping how blockchains scale and evolve. A Layer 1 (L1) [blockchain](/what-is-a-blockchain) serves as the main infrastructure in a decentralized ecosystem, forming the foundational layer upon which all other applications and networks are built.
 
-Visualize the Web3 space as a city; the Layer 1 blockchain represents the ground, the primary roads, and essential utility grids, such as power and water. It establishes the fundamental rules, security protocols, and economic policies of the entire ecosystem.
+Visualize the Web3 field as a city; the Layer 1 blockchain represents the ground, the primary roads, and essential utility grids, such as power and water. It establishes the fundamental rules, security protocols, and economic policies of the entire ecosystem.
 
 ## Key Characteristics of a Layer 1
 
@@ -108,7 +108,7 @@ The Web3 sector is experiencing rapid growth, with demand for qualified talent s
 
 ### Market Context
 
-The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ fundamentally from those of Web2. The decentralized nature of blockchain organizations and a persistent talent shortage shape this new landscape.
+The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ fundamentally from those of Web2. The decentralized nature of blockchain organizations and a persistent talent shortage shape this new field.
 
 | **Role**               | **Web2 Salary** | **Web3 Salary**        | **Compensation Premium** |
 |------------------------|------------------|-------------------------|---------------------------|
@@ -167,7 +167,7 @@ The Web3 community is highly accessible:
 
 ### Step 5: Apply Strategically
 
-Identify roles that leverage your existing skills alongside your new Web3 knowledge:
+Identify roles that use your existing skills alongside your new Web3 knowledge:
 
 - Backend engineers should seek blockchain infrastructure roles.
 - Product Managers should look for protocol-focused roles.

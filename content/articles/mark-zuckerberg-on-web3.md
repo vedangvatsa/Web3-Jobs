@@ -26,7 +26,7 @@ Zuckerberg's public statements illustrate a nuanced, often contradictory stance 
 
 * **On Interoperability:** He stated, "You’ll be able to bring your digital items from one app to another... You'll want your avatar to be the same in different places." Critics argue that this interoperability will likely be confined to Meta's ecosystem rather than extending to the broader web.
 * **On Creator Monetization:** He mentioned, "We need to build the connective tissue between different digital spaces to remove the friction for creators so they can have a bigger market." While Meta plans to create tools for creators to sell virtual goods, the company has faced backlash over proposed high commission rates, seen by many in the Web3 community as extractive.
-* **On Decentralization:** Zuckerberg acknowledges decentralization as a trend but frames it primarily as a technological shift rather than a philosophical one. His goal seems to be utilizing decentralized technologies to enhance a centralized platform for greater engagement and profitability.
+* **On Decentralization:** Zuckerberg acknowledges decentralization as a trend but frames it primarily as a technological shift rather than a philosophical one. His goal seems to be using decentralized technologies to enhance a centralized platform for greater engagement and profitability.
 
 ### Meta's Web3 Initiatives and Projects
 

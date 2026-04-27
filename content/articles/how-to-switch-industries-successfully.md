@@ -42,7 +42,7 @@ While transferable skills will help you, gaining industry-specific knowledge is 
 
 * **Enroll in Online Courses:** Utilize platforms such as Coursera and edX to take courses that build foundational knowledge in your new industry. For example, if you are moving into blockchain technology, look for courses on blockchain fundamentals or smart contracts.
 * **Follow Industry Publications:** Stay current by subscribing to industry blogs, newsletters, and publications. This will help you understand the latest trends and terminology.
-* **Volunteer or [Freelance](/how-to-start-freelancing-for-beginners):** Seek opportunities to volunteer or take on freelance projects within your target industry. This hands-on experience will not only enhance your skills but also provide tangible examples to include in your [portfolio](/building-web3-portfolio).
+* **Volunteer or [Freelance](/how-to-start-freelancing-for-beginners):** Seek opportunities to volunteer or take on freelance projects within your target industry. This hands-on experience will enhance your skills and provide tangible examples to include in your [portfolio](/building-web3-portfolio).
 
 ### 4. Network Strategically
 
@@ -77,7 +77,7 @@ Imposter syndrome is common during transitions. Focus on recognizing your transf
 
 ### Why This Matters
 
-Mastering the skills and strategies for switching industries can significantly impact your professional trajectory. Professionals adept at navigating such transitions often stand out, secure higher salaries, and advance more quickly in their careers. This is especially relevant in [Web3](/what-is-web3) organizations, where adaptability and effective communication are critical.
+Mastering the skills and strategies for switching industries can significantly impact your professional trajectory. Professionals adept at managing such transitions often stand out, secure higher salaries, and advance more quickly in their careers. This is especially relevant in [Web3](/what-is-web3) organizations, where adaptability and effective communication are critical.
 
 ### Step-by-Step Guide to Transitioning
 

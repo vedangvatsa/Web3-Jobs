@@ -23,7 +23,7 @@ To identify flaws in a system, you must first grasp its inner workings. Becoming
 
 The mindset of an auditor differs significantly from that of a developer. While a developer focuses on "How can I make this work?" an auditor asks, "How can I break this?"
 
-- **Study Past Hacks:** This is critical. Familiarize yourself with the history of Web3 exploits. Read detailed post-mortems from major hacks on platforms like Rekt News. For each incident, analyze the specific vulnerability, its exploitation, and potential prevention methods.
+- **Study Past Hacks:** Familiarize yourself with the history of Web3 exploits. Read detailed post-mortems from major hacks on platforms like Rekt News. For each incident, analyze the specific vulnerability, its exploitation, and potential prevention methods.
 - **Learn Common Vulnerabilities:** Develop an encyclopedic knowledge of common attack vectors. Familiarize yourself with issues like [reentrancy](/understanding-reentrancy-attacks-in-web3-smart-contracts), integer overflows, oracle manipulation, and access control problems.
 
 ### Step 3: Master the Auditor's Toolkit
@@ -123,7 +123,7 @@ Alex, a backend engineer with five years of experience at a major tech company, 
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, leveraged her expertise in DeFi. Her knowledge of financial products, combined with an understanding of Web3 technology, made her a valuable candidate. She secured a position at a leading DeFi protocol within four weeks.
+Jessica, a product manager from traditional finance, used her expertise in DeFi. Her knowledge of financial products, combined with an understanding of Web3 technology, made her a valuable candidate. She secured a position at a leading DeFi protocol within four weeks.
 
 ### Career Changer Success
 
