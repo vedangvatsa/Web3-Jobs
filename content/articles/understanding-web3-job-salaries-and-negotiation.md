@@ -7,7 +7,7 @@ description: "A practical guide to negotiating your Web3 job offer. Learn how to
 category: "Getting Started"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 You've aced the interviews, you've received an offer from your dream [Web3](/what-is-web3) company, and now comes the final, crucial step: negotiating your compensation. In the world of Web3, this conversation is far more complex than in a traditional tech job. Your total compensation is often a multifaceted package that includes not just a base salary, but also equity in the company and, most uniquely, a grant of the project's native [tokens](/what-is-a-token).

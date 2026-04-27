@@ -7,7 +7,7 @@ description: "Web3 is changing how online communities are formed and governed. E
 category: "Industry Insights"
 
 publishedDate: "2026-03-11"
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-04-27"
 ---
 
 For the last 15 years, our digital communities have lived inside walled gardens. Facebook Groups, subreddits, Discord servers, and WhatsApp chats have become the de facto public squares of the internet, but they are all built on rented land. The platform owns the infrastructure, controls the data, and can change the rules or shut down a community at any moment. **[Web3](/what-is-web3)** is pioneering a new model for digital communities, one where the members are not just users, but co-owners of their digital nation.
