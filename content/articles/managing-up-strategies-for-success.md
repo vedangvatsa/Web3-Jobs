@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 ## Why This Matters
 
-Mastering the art of managing up is critical for career advancement. Professionals who excel in this skill often experience faster promotions and higher salaries. A recent study by LinkedIn indicated that employees who effectively manage their relationships with supervisors report a 20% increase in job satisfaction and a 30% rise in performance ratings. This competency becomes even more vital in [Web3](/what-is-web3) organizations, where collaboration and clear communication drive success.
+Mastering the art of managing up is critical for career advancement. Professionals who excel in this skill often experience faster promotions and higher salaries. A recent study by LinkedIn indicated that employees who effectively manage their relationships with supervisors report increased job satisfaction and a rise in performance ratings. This competency becomes even more vital in [Web3](/what-is-web3) organizations, where collaboration and clear communication drive success.
 
 ## Step-by-Step Guide
 
@@ -49,11 +49,11 @@ Continually monitor your progress. Use key performance indicators (KPIs) to eval
 
 ### Sarah's Success Story
 
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in communicating her ideas effectively. After implementing a structured update system and actively seeking feedback from her manager, she improved her project visibility. Within three months, her contributions were recognized in team meetings, leading to a promotion and a 15% salary increase.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges in communicating her ideas effectively. After implementing a structured update system and actively seeking feedback from her manager, she improved her project visibility. Within three months, her contributions were recognized in team meetings, leading to a promotion and an increase in her salary.
 
 ### Juan's Transformation
 
-Juan, a product manager in [DeFi](/what-is-defi), initially struggled with aligning his team's goals with those of senior leadership. By adopting a regular feedback loop and conducting one-on-one sessions with his manager, he gained clarity on strategic priorities. Consequently, he launched a successful feature that increased customer engagement by 25%. His experience underscores the universal applicability of these strategies.
+Juan, a product manager in [DeFi](/what-is-defi), initially struggled with aligning his team's goals with those of senior leadership. By adopting a regular feedback loop and conducting one-on-one sessions with his manager, he gained clarity on strategic priorities. Consequently, he launched a successful feature that increased customer engagement. His experience underscores the universal applicability of these strategies.
 
 ### Maya's Transition
 
@@ -74,7 +74,7 @@ Maya transitioned from Web2 to Web3 and faced a steep learning curve. By using a
 ## FAQ
 
 **Q: How long will this take to implement?**  
-A: Many professionals notice initial improvements within 2 to 4 weeks of consistently applying these strategies. Significant results typically emerge within 8 to 12 weeks. Factors influencing this timeline include your starting point, daily practice commitment, and proactive feedback solicitation. Those who track their progress through metrics or journaling generally achieve faster results compared to passive observers. Treating implementation as a structured project rather than a vague goal enhances success.
+A: Many professionals notice initial improvements within a few weeks of consistently applying these strategies. Significant results typically emerge within a couple of months. Factors influencing this timeline include your starting point, daily practice commitment, and proactive feedback solicitation. Those who track their progress through metrics or journaling generally achieve faster results compared to passive observers. Treating implementation as a structured project rather than a vague goal enhances success.
 
 **Q: What if my workplace environment doesn't support this?**  
 A: Even in challenging environments, you often have more control than it seems. Start with small, self-contained actions that don’t require organizational approval, such as cultivating individual habits or initiating discussions with supportive colleagues. Gradually build momentum to showcase your capabilities. If, after sustained effort, the environment stifles your growth, it may signal that seeking a more supportive workplace is the right move.

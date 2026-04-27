@@ -30,12 +30,12 @@ This article details the mechanics of sandwich attacks, explores the reasons beh
 
 ### Dissecting a Sandwich Attack
 
-To illustrate a sandwich attack, consider the following three-step process. Bob intends to swap 100 [ETH](/what-is-ethereum) for a token named "CAT" on a DEX such as Uniswap.
+To illustrate a sandwich attack, consider the following three-step process. Bob intends to swap a significant amount of [ETH](/what-is-ethereum) for a token named "CAT" on a DEX such as Uniswap.
 
 #### Step 1: The Front-Run (Initial Trade)
 
 1. **Transaction Submission**: Bob submits his trade to the Ethereum mempool, a public space where transactions await inclusion in a block by miners or validators.
-2. **Bot Activity**: An attacker's bot continuously scans the mempool, identifying significant, lucrative trades. It notices Bob's 100 ETH buy order for CAT.
+2. **Bot Activity**: An attacker's bot continuously scans the mempool, identifying significant, lucrative trades. It notices Bob's buy order for CAT.
 3. **Order Placement**: The bot anticipates that Bob's trade will elevate the price of CAT. To capitalize, the bot promptly submits its own buy transaction for CAT, offering a higher gas fee to guarantee its execution before Bob's trade.
 
 The block is now forming with the bot's transaction prioritized ahead of Bob's.
@@ -43,7 +43,7 @@ The block is now forming with the bot's transaction prioritized ahead of Bob's.
 #### Step 2: Victim's Trade (The Filling)
 
 1. **Execution of the Bot's Trade**: The block gets mined, allowing the bot's buy order to execute first, resulting in a slight price increase for CAT.
-2. **Execution of Bob's Trade**: Bob’s trade for 100 ETH executes, but now at a higher average price than initially expected due to the price fluctuation caused by his large trade.
+2. **Execution of Bob's Trade**: Bob’s trade executes, but now at a higher average price than initially expected due to the price fluctuation caused by his large trade.
 
 #### Step 3: The Back-Run (Final Trade)
 
@@ -51,7 +51,7 @@ The block is now forming with the bot's transaction prioritized ahead of Bob's.
 2. **Realization of Profit**: The bot sells its CAT tokens at the elevated price resulting from Bob's significant purchase.
 
 **Outcome:**
-- Bob receives fewer CAT tokens for his 100 ETH because the bot's initial transaction increased the price, forcing him to purchase at a less favorable rate. The difference between the expected and actual amount received constitutes Bob's **slippage**.
+- Bob receives fewer CAT tokens for his trade because the bot's initial transaction increased the price, forcing him to purchase at a less favorable rate. The difference between the expected and actual amount received constitutes Bob's **slippage**.
 - The attacker profits from capturing this slippage, effectively executing a perfect sandwich.
 
 ### Why Sandwich Attacks Occur
@@ -65,10 +65,10 @@ Sandwich attacks exploit specific characteristics of public blockchains:
 
 DeFi users can take proactive measures to mitigate the risk of sandwich attacks:
 
-1. **Set Low Slippage Tolerance**: This is the most effective method of protection. Slippage represents the allowable price change for a trade to execute. Many DEX interfaces default to 1-3%, inviting sandwich bots. Adjust your slippage to a lower value, such as **0.5% or 0.1%**. If a bot attempts a sandwich and shifts the price beyond your slippage, your transaction will fail, preserving your investment.
+1. **Set Low Slippage Tolerance**: This is the most effective method of protection. Slippage represents the allowable price change for a trade to execute. Many DEX interfaces default to higher percentages, inviting sandwich bots. Adjust your slippage to a lower value. If a bot attempts a sandwich and shifts the price beyond your slippage, your transaction will fail, preserving your investment.
 
 2. **Utilize MEV Protection Services**:
-   - **Flashbots**: This service lets you send transactions to a private relay, directly to miners. If bots cannot see your transaction, they cannot front-run it. Popular wallets like MetaMask and DEX aggregators typically integrate Flashbots or similar MEV protection RPCs.
+   - **Flashbots**: This service lets you send transactions to a private relay, directly to miners. If bots cannot see your transaction, they cannot front-run it. Popular wallets and DEX aggregators typically integrate Flashbots or similar MEV protection RPCs.
    - **DEX Aggregators**: Platforms like 1inch or CowSwap include mechanisms to shield against sandwich attacks by routing trades through private liquidity or employing batch auctions.
 
 3. **Trade on Less Popular DEXs**: Bots often target high-volume DEXs like Uniswap. Trading on less frequented platforms may lower the risk of sandwich attacks but can involve different risks and potentially higher fees.
@@ -84,7 +84,7 @@ A: Typically, no. Sandwich bots seek trades large enough to move prices signific
 A: Using an MEV protection service like Flashbots comes closest to guaranteeing this, as it completely conceals your transaction from the public mempool where bots operate.
 
 **Q: Will I lose all my money in a sandwich attack?**  
-A: No. You do not lose your principal investment. Instead, you lose value due to slippage. For example, you may expect 1000 CAT tokens but only receive 980, with the value of the missing tokens representing the bot's profit.
+A: No. You do not lose your principal investment. Instead, you lose value due to slippage. For example, you may expect a certain number of CAT tokens but receive fewer, with the value of the missing tokens representing the bot's profit.
 
 **Q: Why don't DEXs implement protection by default?**  
 A: Some protocols are beginning to integrate protective measures. For instance, CowSwap employs batch auctions to mitigate risks. However, standard AMMs like Uniswap face challenges in preventing MEV without significant changes to their architecture.
@@ -101,6 +101,6 @@ Not all decentralized exchanges possess the same vulnerability to sandwich attac
 | **Paraswap Delta**    | Offers private transaction routing through its order-flow system, providing equivalent protection against mempool visibility. |
 | **Uniswap v4 hooks**  | Introduces a programmable layer to AMM logic, allowing the implementation of MEV protection mechanisms directly at the protocol level. |
 
-For effective MEV protection, maintain slippage tolerance at 0.5% or lower, utilize a private RPC endpoint, and choose DEX aggregators that route trades through protected channels when trading larger amounts. 
+For effective MEV protection, maintain slippage tolerance at a low percentage, utilize a private RPC endpoint, and choose DEX aggregators that route trades through protected channels when trading larger amounts. 
 
 In the evolving DeFi ecosystem, understanding and mitigating sandwich attacks is essential. By adopting these strategies, traders can safeguard their transactions and enhance their trading outcomes.

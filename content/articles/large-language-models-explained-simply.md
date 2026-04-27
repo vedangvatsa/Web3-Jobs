@@ -14,7 +14,7 @@ A Large Language Model (LLM) is a sophisticated type of [artificial intelligence
 
 LLMs operate primarily as advanced pattern-matching systems. They do not possess understanding in the human sense but excel at predicting subsequent words in a sequence. When a user inputs a prompt, the model analyzes the text and calculates the statistically most probable next word based on patterns learned during training. This process repeats, generating coherent text one word at a time.
 
-The apparent intelligence of LLM outputs stems from the scale of their training. By processing trillions of words, these models learn intricate patterns related to grammar, syntax, factual knowledge, reasoning styles, and various programming languages.
+The apparent intelligence of LLM outputs stems from the scale of their training. By processing vast amounts of text, these models learn intricate patterns related to grammar, syntax, factual knowledge, reasoning styles, and various programming languages.
 
 ### Construction and Training of LLMs
 
@@ -22,7 +22,7 @@ Creating a leading-edge LLM involves several critical steps:
 
 1. **Data Collection**: The initial phase requires assembling a vast dataset of text and code. This dataset typically includes web crawls, books, articles, scientific papers, and code repositories like [GitHub](/building-web3-portfolio). The diversity and quality of this data play a vital role in enhancing the model's performance.
 
-2. **Training the Base Model**: The gathered text data is used to train a base model through an unsupervised learning methodology. The model receives text with certain words omitted and must predict these missing words. This process is repeated billions of times, enabling the model to grasp statistical relationships between words and concepts. This pre-training is computationally demanding, often taking months and costing millions of dollars to complete using specialized GPU clusters. The outcome is a robust base model with a general comprehension of language, albeit lacking proficiency in instruction adherence.
+2. **Training the Base Model**: The gathered text data is used to train a base model through an unsupervised learning methodology. The model receives text with certain words omitted and must predict these missing words. This process is repeated many times, enabling the model to grasp statistical relationships between words and concepts. This pre-training is computationally demanding, often taking months and requiring significant resources to complete using specialized GPU clusters. The outcome is a robust base model with a general comprehension of language, albeit lacking proficiency in instruction adherence.
 
 3. **Fine-Tuning for Instruction Adherence**: Fine-tuning enhances the model's ability to function as an effective assistant through supervised learning.
    - **Supervised Fine-Tuning (SFT)**: Humans compile high-quality datasets consisting of instruction-response pairs. The model trains on this data to learn to follow instructions correctly.
@@ -59,7 +59,7 @@ LLMs represent a subset of [generative AI](/what-is-generative-ai-and-its-applic
 The Transformer is the [neural network](/neural-networks-complete-guide-for-newcomers) architecture that enabled the development of modern LLMs. Introduced in a 2017 paper by Google researchers, it features an "attention" mechanism that allows the model to evaluate the significance of different words in the input text, improving its ability to manage context and long-range dependencies.
 
 **4. What does "parameter" mean in relation to an LLM?**  
-A parameter is a variable within the model that is adjusted during training. These parameters act as the model's tuning mechanisms, enabling it to minimize prediction errors. Modern LLMs can contain billions to trillions of parameters, which enhance their capacity to learn complex patterns.
+A parameter is a variable within the model that is adjusted during training. These parameters act as the model's tuning mechanisms, enabling it to minimize prediction errors. Modern LLMs can contain a vast number of parameters, which enhance their capacity to learn complex patterns.
 
 **5. How might LLMs evolve in the future?**  
 The field is rapidly advancing. Future models are likely to become more efficient, requiring less data and computational power. There will be an increased focus on "multimodal" models capable of processing text, images, audio, and video simultaneously.
@@ -94,8 +94,8 @@ Regularly assess your development. Are you achieving your goals? Modify your app
 
 | Name      | Role                        | Initial Challenge                     | Outcome                                    |
 |-----------|-----------------------------|---------------------------------------|--------------------------------------------|
-| Sarah     | Developer at a [blockchain](/what-is-a-blockchain) startup | Difficulty with coding efficiency      | Improved code quality within 3 months    |
-| Juan      | Product Manager in [DeFi](/what-is-defi) | Struggled with project deadlines      | Met all deadlines consistently after 2 months |
+| Sarah     | Developer at a [blockchain](/what-is-a-blockchain) startup | Difficulty with coding efficiency      | Improved code quality within a few months    |
+| Juan      | Product Manager in [DeFi](/what-is-defi) | Struggled with project deadlines      | Met all deadlines consistently after a couple of months |
 | Maya      | Transitioning from Web2 to Web3 | Adapting to a new work environment   | Successfully integrated into Web3 culture |
 
 ### Common Mistakes to Avoid

@@ -106,7 +106,7 @@ Regularly assess your progress. Are you achieving your desired outcomes? Adapt y
 
 | Example       | Background                                           | Outcome                         |
 |---------------|-----------------------------------------------------|---------------------------------|
-| Sarah         | Developer at a blockchain startup                   | Dramatic improvements in user retention within 3 months after adopting structured data analysis strategies. |
+| Sarah         | Developer at a blockchain startup                   | Dramatic improvements in user retention within a few months after adopting structured data analysis strategies. |
 | Juan          | Product manager in DeFi                             | Successfully increased product adoption by following a strategic analysis framework. |
 | Maya          | Transitioned from Web2 to Web3                      | Quickly adapted and excelled in her new role, demonstrating the effectiveness of structured learning. |
 
@@ -127,7 +127,7 @@ These examples illustrate how applying structured strategies can lead to signifi
 ### FAQ
 
 **Q: How long will it take to see results from these strategies?**  
-A: Initial results typically appear within 2 to 4 weeks of consistent application, with more substantial improvements evident in 8 to 12 weeks. The timeline depends on your starting point, daily practice commitment, and feedback engagement. Professionals who actively track their progress tend to advance faster than those who observe passively.
+A: Initial results typically appear within a few weeks of consistent application, with more substantial improvements evident in a couple of months. The timeline depends on your starting point, daily practice commitment, and feedback engagement. Professionals who actively track their progress tend to advance faster than those who observe passively.
 
 **Q: What if my workplace lacks support for these initiatives?**  
 A: You often have more agency than you may realize, even in challenging environments. Start with small, self-contained actions that don’t require organizational approval. Build momentum gradually, and document your progress. If you find that structural barriers persist despite your efforts, this information is valuable for your career decisions.

@@ -69,8 +69,8 @@ Transitioning from an individual contributor to a manager represents a significa
 
    Managers often juggle various responsibilities, including meetings and strategic planning. Implement a **time-boxing** strategy:
 
-   - **High-Leverage Block:** Dedicate 2-3 hours daily to deep work such as strategy development and coaching.
-   - **Meeting Hygiene:** Limit meetings to 30 minutes, with clear agendas and defined outcomes.
+   - **High-Leverage Block:** Dedicate a portion of your day to deep work such as strategy development and coaching.
+   - **Meeting Hygiene:** Limit meetings to a set duration, with clear agendas and defined outcomes.
    - **Say No:** Politely decline low-impact requests to maintain focus.
 
    Your ability to manage time effectively sets a precedent for your team.
@@ -125,7 +125,7 @@ Approach the relationship with humility and respect. Acknowledge their expertise
 
 ## Why These Skills Matter
 
-Mastering these leadership skills is vital for success across various industries, including [Web3](/what-is-web3) and traditional tech. Research shows that effective leadership significantly impacts team performance and satisfaction. A 2022 study found that strong leadership correlates with a 22% increase in employee engagement and a 15% rise in productivity.
+Mastering these leadership skills is vital for success across various industries, including [Web3](/what-is-web3) and traditional tech. Research shows that effective leadership significantly impacts team performance and satisfaction. A recent study found that strong leadership correlates with increased employee engagement and productivity.
 
 ### Core Competencies Breakdown
 
@@ -142,7 +142,7 @@ Mastering these leadership skills is vital for success across various industries
 ### Month 1: Assessment & Foundation
 - Evaluate your current skills.
 - Identify gaps for improvement.
-- Commit to 5-10 hours per week for practice.
+- Commit to time for practice.
 - Engage with foundational literature or courses.
 
 ### Months 2-3: Active Development
@@ -180,7 +180,7 @@ The importance of these skills evolves as you advance in your career:
 |---------------|-----------------------------------------------|
 | **Junior**    | Emphasize technical skills, while developing communication abilities. |
 | **Mid-Level** | Balance technical and soft skills; leadership potential begins to surface. |
-| **Senior**    | Soft skills become 70% of your effectiveness. |
+| **Senior**    | Soft skills become a significant part of your effectiveness. |
 | **Leadership**| Prioritize emotional intelligence and communication for team success. |
 
 ## Common Development Mistakes

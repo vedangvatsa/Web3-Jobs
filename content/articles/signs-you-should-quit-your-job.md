@@ -54,9 +54,9 @@ Feeling disconnected from your company's mission or leadership can demotivate yo
 
 You do not need to agree with every decision made by leadership. However, a fundamental misalignment between your personal values and those of the organization can prevent you from feeling fulfilled in your role. Working for a company that you do not respect often results in cynicism and detachment from your daily tasks.
 
-### 5. Your Compensation is Significantly Below Market Rate
+### 5. Your Compensation is Below Market Rate
 
-Fair compensation is a crucial aspect of job satisfaction. If your salary falls significantly below the market rate for your role and experience level, this is a valid reason to consider a change.
+Fair compensation is a crucial aspect of job satisfaction. If your salary falls below the market rate for your role and experience level, this is a valid reason to consider a change.
 
 Research industry salary benchmarks for your position. Websites like Glassdoor, PayScale, and LinkedIn Salary Insights can provide valuable data. If you find yourself earning considerably less than your peers, consider negotiating a raise. Present your case based on your accomplishments and market data. If your employer cannot or will not meet your compensation expectations, it may indicate that they do not value your contributions. This scenario often suggests you can find better opportunities elsewhere.
 

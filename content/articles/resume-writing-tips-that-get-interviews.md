@@ -24,7 +24,7 @@ Replace the traditional "Objective" statement with a "Professional Summary" or "
 - Your primary areas of expertise.
 - What you seek in your next role.
 
-*Example:* "Dynamic Digital Marketing Manager with over 8 years of experience in developing successful SEO and content strategies for SaaS companies. Increased organic traffic by 200% for a Series B startup, resulting in a 50% rise in qualified leads. Aiming to apply my growth marketing expertise to enhance user acquisition at a values-driven tech organization."
+*Example:* "Dynamic Digital Marketing Manager with over 8 years of experience in developing successful SEO and content strategies for SaaS companies. Increased organic traffic significantly for a Series B startup, resulting in a notable rise in qualified leads. Aiming to apply my growth marketing expertise to enhance user acquisition at a values-driven tech organization."
 
 ### 2. Quantify Your Achievements
 
@@ -32,8 +32,8 @@ Incorporating numbers into your resume significantly strengthens your claims. Nu
 
 | Original Statement                           | Enhanced Statement                                           |
 |----------------------------------------------|-------------------------------------------------------------|
-| Managed a team of software engineers.        | Managed a team of 8 software engineers, boosting productivity by 25% through a new agile workflow. |
-| Wrote blog posts for the company blog.      | Authored over 50 blog posts, with one article becoming the most-read piece, garnering over 100,000 views. |
+| Managed a team of software engineers.        | Managed a team of 8 software engineers, boosting productivity through a new agile workflow. |
+| Wrote blog posts for the company blog.      | Authored over 50 blog posts, with one article becoming the most-read piece, garnering significant views. |
 
 Think about metrics such as revenue generated, costs minimized, processes optimized, and user growth.
 
@@ -67,7 +67,7 @@ The CAR (Challenge, Action, Result) framework provides a structured method for w
 - **Action:** Describe the specific actions you took to address it.
 - **Result:** Highlight the positive outcomes that resulted from your actions.
 
-*Example:* "Increased user retention by 15% (Result) by designing a new user onboarding process (Action) to tackle high initial drop-off rates (Challenge)."
+*Example:* "Increased user retention by a notable percentage (Result) by designing a new user onboarding process (Action) to tackle high initial drop-off rates (Challenge)."
 
 ### FAQs
 
@@ -109,7 +109,7 @@ Regularly evaluate your progress. Are your changes yielding results? Adjust your
 ### Real-World Examples
 
 #### Example 1
-Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with her resume's effectiveness. By implementing the strategies mentioned, she saw a 40% increase in interview invitations within three months.
+Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup, faced challenges with her resume's effectiveness. By implementing the strategies mentioned, she saw a significant increase in interview invitations within three months.
 
 #### Example 2
 Juan, a product manager in [DeFi](/what-is-defi), encountered similar difficulties. By applying the CAR framework and optimizing his resume for ATS, he secured a role that aligned with his career aspirations, demonstrating the universality of these principles.
