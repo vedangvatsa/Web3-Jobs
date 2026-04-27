@@ -1,5 +1,6 @@
 ---
 name: Animoca Brands
+website: https://animocabrands.com
 category: Gaming/Metaverse
 description: Animoca Brands develops and publishes blockchain-based games and digital entertainment.
 ---

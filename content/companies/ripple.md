@@ -1,5 +1,6 @@
 ---
 name: Ripple
+website: https://ripple.com
 founded: 2012
 category: Blockchain Infrastructure
 headquarters: San Francisco, California, USA

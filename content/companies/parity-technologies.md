@@ -1,5 +1,6 @@
 ---
 name: Parity Technologies
+website: https://www.parity.io
 category: Blockchain Infrastructure
 description: Parity Technologies develops blockchain solutions and tools for decentralized applications.
 ---

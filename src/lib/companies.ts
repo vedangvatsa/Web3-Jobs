@@ -11,6 +11,7 @@ import matter from 'gray-matter';
  */
 interface CompanyContent {
   name: string;
+  website?: string;
   description?: string;
   founded?: string;
   category?: string;
@@ -21,6 +22,17 @@ interface CompanyContent {
   benefits?: string[];
   techStack?: string[];
 }
+
+/**
+ * Known ATS/job board hostnames that should NOT be used as company websites
+ */
+const ATS_HOSTNAMES = new Set([
+  'jobs.lever.co', 'jobs.ashbyhq.com', 'job-boards.greenhouse.io',
+  'boards.greenhouse.io', 'coinbase.getro.com', 'jobs.multicoin.capital',
+  'jobs.solana.com', 'jobs.dragonfly.xyz', 'www.linkedin.com',
+  'circle.wd1.myworkdayjobs.com', 'apply.workable.com',
+  'jobs.smartrecruiters.com', 'getro.com',
+]);
 
 /**
  * Create a URL-safe slug from company name
@@ -97,12 +109,14 @@ export async function getCompanies(): Promise<Company[]> {
   companyMap.forEach((companyJobs, companyName) => {
     const slug = createSlug(companyName);
     
-    // Extract website from job links (if available)
+    // Extract website from job links, filtering out ATS platforms
     const firstJobLink = companyJobs[0]?.link || '';
     let website = '';
     try {
       const url = new URL(firstJobLink);
-      website = `${url.protocol}//${url.hostname}`;
+      if (!ATS_HOSTNAMES.has(url.hostname)) {
+        website = `${url.protocol}//${url.hostname}`;
+      }
     } catch (e) {
       // Invalid URL, leave empty
     }
@@ -128,6 +142,7 @@ export async function getCompanies(): Promise<Company[]> {
       const content = await loadCompanyContent(company.slug);
       if (content) {
         Object.assign(company, {
+          ...(content.website && { website: content.website }),
           description: content.description,
           founded: content.founded,
           category: content.category,
@@ -183,7 +198,9 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   let website = '';
   try {
     const url = new URL(firstJobLink);
-    website = `${url.protocol}//${url.hostname}`;
+    if (!ATS_HOSTNAMES.has(url.hostname)) {
+      website = `${url.protocol}//${url.hostname}`;
+    }
   } catch (e) {}
 
   const latestJobDate = companyJobs.reduce((latest, j) => {
@@ -204,6 +221,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const content = await loadCompanyContent(slug);
   if (content) {
     Object.assign(company, {
+      ...(content.website && { website: content.website }),
       description: content.description,
       founded: content.founded,
       category: content.category,

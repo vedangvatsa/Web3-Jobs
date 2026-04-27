@@ -1,5 +1,6 @@
 ---
 name: CoinTracker
+website: https://cointracker.io
 category: Other
 description: CoinTracker provides cryptocurrency portfolio tracking and tax reporting solutions.
 ---

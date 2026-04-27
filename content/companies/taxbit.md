@@ -1,5 +1,6 @@
 ---
 name: TaxBit
+website: https://taxbit.com
 category: Crypto Payments
 description: TaxBit provides tax compliance solutions for cryptocurrency transactions.
 ---

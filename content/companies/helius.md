@@ -1,5 +1,6 @@
 ---
 name: Helius
+website: https://helius.xyz
 category: Developer Tools
 description: Helius provides tools for developers building on blockchain technology.
 ---

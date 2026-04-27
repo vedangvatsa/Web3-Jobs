@@ -1,5 +1,6 @@
 ---
 name: Mysten Labs
+website: https://mystenlabs.com
 founded: 2021
 category: Blockchain Infrastructure
 headquarters: Palo Alto, California, USA

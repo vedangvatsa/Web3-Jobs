@@ -1,5 +1,6 @@
 ---
 name: Wave Mobile Money
+website: https://www.wavemoney.com
 category: Crypto Payments
 description: Mobile money service facilitating financial transactions in Africa.
 ---

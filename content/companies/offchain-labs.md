@@ -1,5 +1,6 @@
 ---
 name: Offchain Labs
+website: https://offchainlabs.com
 founded: 2018
 category: Blockchain Infrastructure
 headquarters: New York, New York, USA

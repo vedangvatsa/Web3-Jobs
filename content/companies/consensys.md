@@ -1,5 +1,6 @@
 ---
 name: Consensys
+website: https://consensys.net
 founded: 2014
 category: Blockchain Infrastructure
 headquarters: Brooklyn, New York, USA

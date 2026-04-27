@@ -1,5 +1,6 @@
 ---
 name: Chainalysis
+website: https://chainalysis.com
 category: Blockchain Analytics
 description: Chainalysis provides blockchain data and analysis for compliance and investigation.
 ---

@@ -1,5 +1,6 @@
 ---
 name: Xapo Bank
+website: https://xapo.com
 category: Crypto Custody
 description: Xapo Bank provides banking services and crypto custody solutions.
 ---

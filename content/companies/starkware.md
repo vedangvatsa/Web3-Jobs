@@ -1,5 +1,6 @@
 ---
 name: StarkWare
+website: https://starkware.co
 category: Layer 1/Layer 2
 description: StarkWare develops solutions for scaling Ethereum using zero-knowledge proofs.
 ---

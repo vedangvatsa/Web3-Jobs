@@ -1,5 +1,6 @@
 ---
 name: Grayscale
+website: https://grayscale.com
 category: Crypto Custody
 description: Grayscale is a digital asset investment firm offering cryptocurrency investment products.
 ---
