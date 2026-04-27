@@ -24,7 +24,7 @@ Solana achieves its impressive speed through several unique architectural featur
 
 - **Parallel Transaction Processing:** Thanks to PoH, Solana can handle multiple transactions simultaneously, provided they do not alter the same state. This contrasts with the sequential processing typical of most other blockchains.
 
-These features enable Solana to theoretically manage tens of thousands of transactions per second, with transaction fees often less than a fraction of a cent.
+These features enable Solana to theoretically manage a high volume of transactions per second, with transaction fees often less than a fraction of a cent.
 
 ### The Solana Ecosystem
 
@@ -52,7 +52,7 @@ The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ fundament
 
 | **Aspect**       | **Web2**                      | **Web3**                     |
 |------------------|-------------------------------|------------------------------|
-| **Compensation**  | Standard salaries             | 20-40% higher than Web2 roles |
+| **Compensation**  | Standard salaries             | Generally higher than Web2 roles |
 | **Work Culture**  | Office-centric                | Primarily remote             |
 | **Career Growth** | Slower progression            | Rapid advancement             |
 | **Equity**        | Limited opportunities          | Token and equity packages standard |
@@ -104,13 +104,13 @@ Target roles that utilize your existing skills alongside new Web3 knowledge:
 ### Real-World Success Stories
 
 #### Developer to Smart Contract Engineer
-Alex spent five years as a backend engineer at a prominent tech company. He dedicated three months to learning Solidity while continuing his day job. His contributions to an open-source protocol attracted the attention of a leading DeFi project. He transitioned into a new role with a 50% salary increase and substantial equity.
+Alex spent five years as a backend engineer at a prominent tech company. He dedicated three months to learning Solidity while continuing his day job. His contributions to an open-source protocol attracted the attention of a leading DeFi project. He transitioned into a new role with a significant salary increase and substantial equity.
 
 #### From Product Manager to Web3
 Jessica, a product manager with a background in traditional finance, leveraged her expertise in DeFi. Her understanding of financial products, combined with knowledge of Web3 technology, made her an attractive candidate. Within four weeks, she secured a position at a top DeFi protocol.
 
 #### Transitioning to Web3 Career
-Marcus transitioned from a corporate role to Web3 after six months of focused learning and networking. He successfully landed a position leading Developer Relations at a major blockchain platform, with compensation significantly exceeding his previous salary.
+Marcus transitioned from a corporate role to Web3 after six months of focused learning and networking. He successfully landed a position leading Developer Relations at a major blockchain platform, with compensation exceeding his previous salary.
 
 ### Web3-Specific Challenges
 
@@ -128,7 +128,7 @@ Marcus transitioned from a corporate role to Web3 after six months of focused le
 A: No. The Web3 ecosystem encompasses a variety of roles beyond engineering. Marketing managers, community leaders, product designers, legal advisors, and operations specialists are also in high demand. Focus on enhancing your existing skills with Web3 context, including understanding wallets, DAOs, and the importance of decentralization. Many hiring managers prioritize domain expertise coupled with enthusiasm for the space over technical blockchain knowledge.
 
 **Q: How much can I earn in Web3?**
-A: Compensation in Web3 generally exceeds that of Web2 roles. Base salaries typically run 30-60% higher on average, especially for Solidity engineers and smart contract auditors due to the scarcity of talent. Total compensation packages often include signing bonuses, equity in early-stage projects, and token allocations with potential for significant appreciation. Senior engineers at well-funded protocols can earn total compensation ranging from $200,000 to $350,000.
+A: Compensation in Web3 generally exceeds that of Web2 roles. Base salaries typically run higher on average, especially for Solidity engineers and smart contract auditors due to the scarcity of talent. Total compensation packages often include signing bonuses, equity in early-stage projects, and token allocations with potential for significant appreciation. Senior engineers at well-funded protocols can earn total compensation in the high six figures.
 
 **Q: Is it risky to transition to Web3?**
 A: Transitioning careers always involves risk, and Web3 is no exception due to market volatility. You can mitigate this risk by targeting established protocols with proven revenue rather than speculative early-stage projects. Ensure that your salary is negotiated in fiat and verify the credibility of the team.
@@ -137,7 +137,7 @@ A: Transitioning careers always involves risk, and Web3 is no exception due to m
 A: Most professionals can complete a meaningful transition to Web3 within 2-6 months of dedicated effort. Engineers and product managers often move quickly due to the direct applicability of their skills. Non-technical roles like marketing and community management can transition in as little as 4-8 weeks with focused self-study. Actively engaging in portfolio projects or contributing to open-source protocols can accelerate this process.
 
 **Q: What if the crypto market crashes?**
-A: Historically, bear markets provide excellent opportunities to enter Web3. As speculative hype diminishes, teams refocus on building tangible products, prioritizing talent over token price. Companies providing infrastructure, security, and developer tools continue hiring regardless of market conditions. Engineers who built during the 2018-2019 bear market are now among the most sought-after professionals.
+A: Historically, bear markets provide excellent opportunities to enter Web3. As speculative hype diminishes, teams refocus on building tangible products, prioritizing talent over token price. Companies providing infrastructure, security, and developer tools continue hiring regardless of market conditions. Engineers who built during previous bear markets are now among the most sought-after professionals.
 
 ### Key Takeaways
 

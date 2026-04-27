@@ -27,16 +27,16 @@ Maputo's Web3 environment is influenced by its distinct cultural and economic fa
 
 The formal Web3 job market in Maputo is still nascent. Local talent should focus on acquiring globally sought-after skills to secure [remote work](/remote-work-in-web3) with international companies.
 
-| Role                        | Employment Type | Salary Range (USD)         |
-|-----------------------------|-----------------|-----------------------------|
-| Remote Full-Stack / Mobile Developer | Remote          | $3,500 - $7,000+           |
-| Community Manager (Portuguese/English) | Remote          | $1,500 - $3,000+           |
+| Role                        | Employment Type | Salary Range         |
+|-----------------------------|-----------------|-----------------------|
+| Remote Full-Stack / Mobile Developer | Remote          | Competitive           |
+| Community Manager (Portuguese/English) | Remote          | Competitive           |
 | NFT Artist / Curator        | Local / Freelance | Varies (often entrepreneurial or grant-funded) |
 | Entrepreneur                 | Local / Freelance | Varies (startup potential) |
 
-- **Remote Full-Stack / Mobile Developer:** Building user-friendly mobile dApps is one of the most valuable technical skills. Mid-to-senior level developers can earn between $3,500 and $7,000+ per month, significantly enhancing their quality of life in Maputo.
+- **Remote Full-Stack / Mobile Developer:** Building user-friendly mobile dApps is one of the most valuable technical skills. Mid-to-senior level developers can earn competitive salaries, significantly enhancing their quality of life in Maputo.
   
-- **Community Manager (Portuguese/English):** Bilingual community managers who can engage with both local Lusophone audiences and the global English-speaking crypto community are highly sought after. Mid-level positions typically offer salaries ranging from $1,500 to $3,000+ monthly.
+- **Community Manager (Portuguese/English):** Bilingual community managers who can engage with both local Lusophone audiences and the global English-speaking crypto community are highly sought after. Mid-level positions typically offer competitive salaries.
 
 - **NFT Artist / Curator:** Opportunities abound for individuals to serve as curators, assisting local Mozambican artists in entering the global NFT market. These roles often rely on entrepreneurial spirit or grants.
 
@@ -56,24 +56,24 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 
 #### Local Opportunities (Growing)
 
-| Role                        | Salary Range (MZN)       | Salary Range (USD)        |
-|-----------------------------|---------------------------|----------------------------|
-| Developer (Local Startup)   | MZN 100,000–200,000/month | ~$1,550–$3,100 USD        |
-| Creative Manager             | MZN 70,000–150,000/month  | ~$1,100–$2,330 USD        |
-| Community Manager            | MZN 50,000–100,000/month  | ~$775–$1,550 USD          |
+| Role                        | Salary Range (MZN)       | Salary Range         |
+|-----------------------------|---------------------------|-----------------------|
+| Developer (Local Startup)   | MZN 100,000–200,000/month | Competitive           |
+| Creative Manager             | MZN 70,000–150,000/month  | Competitive           |
+| Community Manager            | MZN 50,000–100,000/month  | Competitive           |
 
 #### Remote Opportunities (Highly Recommended)
 
-| Role                        | Salary Range (USD)       |
-|-----------------------------|---------------------------|
-| Mid-Level Developer         | $3,000–$5,000/month      |
-| Senior Developer            | $5,000–$8,500+/month     |
-| Creative Lead/Curator       | $2,000–$4,000/month      |
-| Product Manager             | $3,000–$6,000/month      |
+| Role                        | Salary Range         |
+|-----------------------------|-----------------------|
+| Mid-Level Developer         | Competitive           |
+| Senior Developer            | Competitive           |
+| Creative Lead/Curator       | Competitive           |
+| Product Manager             | Competitive           |
 
-**Cost of Living Advantage:** Monthly expenses in Maputo range from $600 to $1,000. A remote salary of $3,500 enables individuals to save over 75% of their income.
+**Cost of Living Advantage:** Monthly expenses in Maputo range from a few hundred to around a thousand dollars. A remote salary allows individuals to save a significant portion of their income.
 
-### Proven Career Paths to $4,000+/Month from Maputo
+### Proven Career Paths to Competitive Salaries from Maputo
 
 #### Path 1: Mobile-First Web3 Developer (8-14 Month Timeline)
 
@@ -84,28 +84,28 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
   - Gaming dApp with minimal data requirements.
   - Social/music monetization application.
 - Network with at least 30 mobile and blockchain developers.
-- **Deliverable:** Three mobile projects and 500+ Twitter followers.
+- **Deliverable:** Three mobile projects and a growing social media presence.
 
 **Months 5-9: Build Production Apps**
 - Create a production gaming or social app on Polygon.
 - Develop a music/NFT platform for African artists.
-- Secure 1-2 Upwork contracts worth $1,000–$3,000.
+- Secure 1-2 freelance contracts worth competitive rates.
 - Network with 20+ Lusophone Web3 builders.
 - Publish research titled "Building Web3 Apps for African Mobile."
-- **Expected Income:** $1,500–$2,500/month from [freelance](/how-to-start-freelancing-for-beginners).
+- **Expected Income:** Competitive earnings from [freelance](/how-to-start-freelancing-for-beginners).
 
 **Months 10-13: Land Remote Developer Role**
 - Target protocols interested in Africa, such as Celo or Polygon.
-- **Expected Offer:** $3,500–$5,500/month.
+- **Expected Offer:** Competitive salary.
 
 **Month 14: Scale & Specialize**
 - Become a mobile-specific expert for a major protocol.
-- **Expected Compensation:** $4,500–$8,000+/month.
+- **Expected Compensation:** Competitive salary.
 
 **Quick Wins:**
-- Consult for Mozambican startups at $100–$200/hour.
+- Consult for Mozambican startups at competitive hourly rates.
 - Publish mobile development guides with sponsorship.
-- Secure grants from protocols focused on Africa, ranging from $5,000 to $25,000.
+- Secure grants from protocols focused on Africa.
 
 #### Path 2: Creative Curator & NFT Bridge (6-12 Month Timeline)
 
@@ -113,31 +113,31 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 - Network with over 50 local artists from various disciplines.
 - Familiarize yourself with NFT platforms, minting processes, and royalty structures.
 - Publish two articles: "Why Mozambican Artists Need Web3" and "NFT Tutorial for Creatives."
-- Establish a curator Twitter account to highlight local artists.
-- **Deliverable:** Established artist network, 1,000+ Twitter followers, and two published articles.
+- Establish a curator social media account to highlight local artists.
+- **Deliverable:** Established artist network and published articles.
 
 **Months 4-6: Monetize the Creative Bridge**
 - Launch a DAO or collective titled "Maputo Artists on Web3."
 - Approach protocols to propose a community or curator role.
-- **Expected Offer:** $1,500–$2,500/month, plus platform royalties and sponsorships of $300–$700/month.
-- Assist over 10 artists in launching NFT collections, earning a 5-10% revenue share.
-- **Expected Income:** $2,000–$3,200/month.
+- **Expected Offer:** Competitive salary, plus platform royalties and sponsorships.
+- Assist over 10 artists in launching NFT collections, earning a revenue share.
+- **Expected Income:** Competitive earnings.
 
 **Months 7-10: Scale Curation**
 - Expand the network to include Lusophone artists from Brazil, Portugal, Angola, and Cape Verde.
 - Feature 50+ artists on your platform.
 - Create an NFT marketplace or DAO for Lusophone creators.
-- **Expected Compensation:** $2,500–$4,000/month from various revenue streams.
+- **Expected Compensation:** Competitive earnings from various revenue streams.
 
 **Months 11-12: Formalize the Role**
 - Establish a full-time creative Web3 platform or become the Chief Community Officer for an NFT protocol.
-- **Expected Compensation:** $3,000–$6,000+/month, or potential equity.
+- **Expected Compensation:** Competitive salary or potential equity.
 
 **Quick Wins:**
-- Earn revenue shares from artist NFT sales, ranging from 5-10% on sales of $1,000 to $50,000 per artist.
-- Develop an ambassador program for creative protocols, earning $500–$1,500/month.
-- Speak at art and tech conferences, earning $1,000–$3,000 per talk.
-- Pursue grant funding for the creative DAO, potentially ranging from $10,000 to $100,000.
+- Earn revenue shares from artist NFT sales.
+- Develop an ambassador program for creative protocols.
+- Speak at art and tech conferences, earning competitive fees.
+- Pursue grant funding for the creative DAO.
 
 #### Path 3: Regional Growth Lead (Lusophone Web3 Expansion) (8-14 Month Timeline)
 
@@ -146,30 +146,30 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 - Analyze the Web3 ecosystems in Brazil and Portugal.
 - Network with over 40 Web3 builders across the region.
 - Publish a research report titled "The Lusophone Web3 Opportunity."
-- **Deliverable:** In-depth market knowledge, 40+ relationships, and published research.
+- **Deliverable:** In-depth market knowledge and published research.
 
 **Months 5-8: Build Proof of Work**
 - Launch the "Web3 Lusophone" community through Discord, Twitter, and meetups.
-- Host 2-3 online events, attracting over 100 attendees each.
-- Publish two more research reports.
-- Attend events like EthCC and EthDubai for networking.
-- **Deliverable:** Growing community of 2,000+ followers, three research reports, and expanded network.
+- Host online events, attracting a growing audience.
+- Publish additional research reports.
+- Attend events for networking.
+- **Deliverable:** Growing community and expanded network.
 
 **Months 9-12: Monetize Leadership**
 - Present proposals to major protocols for a "Lusophone Regional Lead" role.
-- **Expected Offer:** $2,500–$4,000/month plus incentives.
-- Additional revenue from sponsorships and grants, ranging from $500 to $1,500/month.
-- **Expected Compensation:** $3,000–$5,500/month.
+- **Expected Offer:** Competitive salary plus incentives.
+- Additional revenue from sponsorships and grants.
+- **Expected Compensation:** Competitive salary.
 
 **Months 13-14: Scale Impact**
 - Secure a full-time regional lead position with a major protocol.
-- **Expected Compensation:** $4,000–$7,000+/month or equity.
+- **Expected Compensation:** Competitive salary or equity.
 
 **Quick Wins:**
-- Speak at regional conferences for $1,000–$3,000 per talk.
-- Start a newsletter or Substack with 5,000 subscribers, generating $25,000+ annually.
-- Obtain YouTube sponsorships, earning $500–$2,000/month.
-- Pursue grant funding between $10,000 and $100,000.
+- Speak at regional conferences for competitive fees.
+- Start a newsletter or Substack with a growing subscriber base.
+- Obtain sponsorships for content creation.
+- Pursue grant funding.
 
 ### Challenges and Real Solutions
 
@@ -187,58 +187,58 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 
 **Challenge 4: Limited Tech Education**  
 - *Reality:* Few advanced tech courses are available locally; self-learning is essential.  
-- *Solution:* Utilize online education platforms like Alchemy, CryptoZombies, and YouTube for high-quality learning.
+- *Solution:* Utilize online education platforms for high-quality learning.
 
 **Challenge 5: Brain Drain Pressure**  
 - *Reality:* Skilled individuals often migrate to Portugal, Brazil, or South Africa.  
-- *Solution:* Work remotely from Maputo to build local wealth over 2-3 years before considering relocation.
+- *Solution:* Work remotely from Maputo to build local wealth before considering relocation.
 
 ### 90-Day Quick-Start Action Plan
 
 **Week 1-2:**  
 - [ ] Set up GitHub, Twitter, and LinkedIn accounts.  
-- [ ] Enroll in Alchemy University (free).  
+- [ ] Enroll in online courses.  
 - [ ] Join five Web3 and creative communities.  
-- [ ] Connect with 20 Lusophone Web3 professionals.  
+- [ ] Connect with Lusophone Web3 professionals.  
 
 **Week 3-4:**  
-- [ ] Complete Alchemy modules and deploy a testnet project.  
-- [ ] Publish the first article titled "Why Maputo Should Lead Lusophone Web3" (2,000+ words).  
-- [ ] Conduct 30 warm outreach efforts to Web3 builders.  
-- [ ] Connect with 10 local creatives in Maputo.  
+- [ ] Complete online modules and deploy a testnet project.  
+- [ ] Publish the first article titled "Why Maputo Should Lead Lusophone Web3."  
+- [ ] Conduct outreach to Web3 builders.  
+- [ ] Connect with local creatives in Maputo.  
 
 **Week 5-6:**  
-- [ ] Deploy the first mainnet project using Polygon or Optimism.  
+- [ ] Deploy the first mainnet project.  
 - [ ] Publish a second article, focusing on a technical or market analysis.  
-- [ ] Apply for 10 Upwork gigs related to mobile and Web3.  
+- [ ] Apply for freelance gigs related to mobile and Web3.  
 - [ ] Start outreach to creators for NFT education workshops.  
 
 **Week 7-8:**  
 - [ ] Build a second project focusing on mobile or creative aspects.  
-- [ ] Acquire the first Upwork contract worth $200–$500.  
-- [ ] Host the first meetup or online event, aiming for 30+ attendees.  
-- [ ] Conduct five coffee chats with contacts from outreach efforts.  
+- [ ] Secure the first freelance contract.  
+- [ ] Host the first meetup or online event.  
+- [ ] Conduct networking chats with contacts from outreach efforts.  
 
 **Week 9-10:**  
 - [ ] Publish a third article.  
-- [ ] Attend two online Web3 events, aiming to speak if possible.  
-- [ ] Secure a second Upwork contract or consulting gig.  
-- [ ] Assist three local artists in minting NFTs.  
+- [ ] Attend online Web3 events, aiming to speak if possible.  
+- [ ] Secure a second freelance contract or consulting gig.  
+- [ ] Assist local artists in minting NFTs.  
 
 **Week 11-12:**  
 - [ ] Deliver the third project.  
-- [ ] Host a second event, targeting 50+ attendees.  
-- [ ] Achieve a goal of 1,000+ followers on Twitter.  
-- [ ] Target 1-2 serious job interviews.  
+- [ ] Host a second event, targeting a larger audience.  
+- [ ] Achieve a goal of a growing social media following.  
+- [ ] Target serious job interviews.  
 - [ ] Reflect on the experience with a piece titled "Three Months Building Web3 in Maputo."  
 
 ### Outputs after 90 Days
 
 - Three completed projects showcased on GitHub.  
 - Three published articles enhancing your visibility.  
-- One to two paid contracts ranging from $200 to $1,000.  
+- One to two paid contracts.  
 - One to two meetups hosted, with a total of over 50 attendees.  
-- A follower count exceeding 1,000 on Twitter.  
+- A growing social media following.  
 - Assistance given to three or more local artists with NFTs.  
 - One to two job interviews secured.
 
@@ -249,34 +249,34 @@ A: Yes, crypto is mostly legal. Exchanges are accessible, and remote work is ful
 
 **Q2: What is the fastest way to earn $2,000/month from Maputo?**  
 A: Prioritize these steps:  
-1. Freelancing on Upwork ($50–$150/hour) in Month 1.  
-2. Creative curation (10 artists at $100 each = $1,000) in Months 2-3.  
-3. Community manager role ($500–$1,500) in Months 2-3.  
-4. Junior developer position ($1,500–$2,500) in Months 4-6.  
+1. Freelancing on platforms in Month 1.  
+2. Creative curation in Months 2-3.  
+3. Community manager role in Months 2-3.  
+4. Junior developer position in Months 4-6.  
 
-Combining freelancing and curation can yield $1,500–$2,000/month in 2-3 months.
+Combining freelancing and curation can yield competitive earnings in a few months.
 
 **Q3: Should I focus on tech or creative roles?**  
 A: Your choice depends on your interests.  
-- **Tech:** Higher earning potential ($5,000–$8,000+), but requires more time and has global demand.  
-- **Creative:** Faster income ($1,000–$2,000/month in 2 months), with unique positioning and lower barriers.  
+- **Tech:** Higher earning potential, but requires more time and has global demand.  
+- **Creative:** Faster income, with unique positioning and lower barriers.  
 
 If you have connections in the creative sector, start there and transition to tech later.
 
 **Q4: How do I position myself to protocols?**  
 A: 
 - Build a robust portfolio (for tech) or curator proof (for creative roles).  
-- Network on Twitter with protocol teams.  
+- Network on social media with protocol teams.  
 - Propose a specific regional strategy.  
 - Publish research that demonstrates your market knowledge.  
 
 **Q5: Should I move to Lisbon or São Paulo?**  
-A: Initially, stay in Maputo for its favorable cost of living. Remote work offers extensive opportunities. Build wealth first; consider relocating after 2-3 years with adequate resources.
+A: Initially, stay in Maputo for its favorable cost of living. Remote work offers extensive opportunities. Build wealth first; consider relocating after a few years with adequate resources.
 
 **Q6: How can I stay safe with crypto in Mozambique?**  
 A: 
-- Use reputable exchanges such as Binance or Kraken.  
-- Avoid cash transfers and store funds on exchanges.  
+- Use reputable exchanges.  
+- Avoid cash transfers and store funds securely.  
 - Educate friends about scam avoidance.  
 - Build a reputation based on trust and integrity.
 
@@ -290,29 +290,28 @@ Focus on earning income first; learn tech skills later if desired.
 
 **Q8: How do I find Lusophone opportunities?**  
 A: 
-- Explore our job board (/jobs) for remote roles.  
-- Use Twitter to engage with Brazilian and Portuguese Web3 communities.  
-- Search on LinkedIn using terms like "Lusophone" and "Web3."  
-- Check GitHub for Portuguese-language projects.  
+- Explore job boards for remote roles.  
+- Use social media to engage with Brazilian and Portuguese Web3 communities.  
+- Search on professional networks using relevant terms.  
+- Check repositories for Portuguese-language projects.  
 
 **Q9: What is the expected salary progression?**  
 A: Realistic expectations are as follows:  
-- **Year 1:** $1,500–$3,000/month (freelance + creative roles).  
-- **Year 2:** $3,000–$5,000/month (mid-level specialist).  
-- **Year 3+:** $4,000–$8,000+/month (senior positions or entrepreneurs).  
+- **Year 1:** Competitive earnings (freelance + creative roles).  
+- **Year 2:** Competitive earnings (mid-level specialist).  
+- **Year 3+:** Competitive earnings (senior positions or entrepreneurs).  
 
 **Q10: How do I find a mentor?**  
 A: 
-- Use Twitter to connect with Brazilian and Portuguese developers.  
+- Use social media to connect with developers.  
 - Contribute to open-source projects to receive feedback.  
-- Join mentorship programs such as Encode or Kernel.  
-- Engage with communities in the Lusophone Web3 Discord.  
+- Join mentorship programs.  
+- Engage with communities in the Lusophone Web3 space.  
 
 **Q11: Should I launch a startup?**  
 A: Focus on building wealth initially.  
-- In Years 1-2, earn and save 75% of your income (aim for $50K-$100K).  
-- In Years 2-3, validate your business idea and secure commitments.  
-- In Year 3+, consider raising funds with personal capital and proof of concept.
+- In the first few years, earn and save a significant portion of your income.  
+- Validate your business idea and secure commitments before considering launching a startup.
 
 **Q12: How can I avoid scams?**  
 A: 

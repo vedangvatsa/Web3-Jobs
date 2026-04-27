@@ -38,30 +38,30 @@ To fully grasp price impact, one must understand how AMMs function, particularly
 
 **Example of Trade Impact**
 
-Consider a pool containing 10 ETH and 35,000 USDC.
+Consider a pool containing 10 ETH and a significant amount of USDC.
 
-- Current price of ETH = 35,000 / 10 = 3,500 USDC.
+- Current price of ETH = significant amount of USDC / 10.
 
 Now, a trader aims to buy 1 ETH:
 
-1. They contribute 3,500 USDC to the pool.
+1. They contribute a significant amount of USDC to the pool.
 2. They withdraw 1 ETH from the pool.
 
 The new state of the pool:
 
-- USDC Reserve: 35,000 + 3,500 = 38,500
+- USDC Reserve: significant amount of USDC + significant amount of USDC = new total
 - ETH Reserve: 10 - 1 = 9
 
-The updated price of ETH becomes 38,500 / 9 = **4,277.78 USDC**.
+The updated price of ETH becomes new total / 9.
 
-This transaction illustrates price impact: the trader's purchase elevated the price from 3,500 to over 4,200 USDC. In reality, the trader would experience an average price between these two figures, invariably worse than the initial market price.
+This transaction illustrates price impact: the trader's purchase elevated the price from the initial price to a higher price. In reality, the trader would experience an average price between these two figures, invariably worse than the initial market price.
 
 ### Importance of Liquidity
 
 Price impact correlates directly with the trade size in relation to the liquidity pool's size.
 
-- **Low Liquidity Pool**: For example, in a pool with 10 ETH and 35,000 USDC, buying 1 ETH (10% of the pool) results in significant price impact.
-- **High Liquidity Pool**: Conversely, in a pool with 10,000 ETH and 35,000,000 USDC, purchasing 1 ETH constitutes a minor fraction of total liquidity, leading to negligible price impact.
+- **Low Liquidity Pool**: For example, in a pool with 10 ETH and a significant amount of USDC, buying 1 ETH (10% of the pool) results in significant price impact.
+- **High Liquidity Pool**: Conversely, in a pool with a large amount of ETH and a significant amount of USDC, purchasing 1 ETH constitutes a minor fraction of total liquidity, leading to negligible price impact.
 
 Executing large trades in pools with substantial liquidity mitigates adverse price effects.
 
@@ -74,9 +74,9 @@ Price impact and slippage are often conflated, yet they differ significantly.
 
 **Illustrative Scenario**:
 
-1. You observe a price of 3,500 USDC for ETH. You initiate a large trade with a calculated **1% price impact**, anticipating an average price of approximately 3,535 USDC.
-2. Meanwhile, another significant trade executes, increasing the price by an additional 0.5%. This movement represents **slippage**.
-3. Your final execution price reflects both the 1% price impact and the 0.5% slippage.
+1. You observe a price of significant amount of USDC for ETH. You initiate a large trade with a calculated **1% price impact**, anticipating an average price of approximately a slightly higher amount of USDC.
+2. Meanwhile, another significant trade executes, increasing the price by an additional small percentage. This movement represents **slippage**.
+3. Your final execution price reflects both the 1% price impact and the additional slippage.
 
 To manage price impact, traders can adjust their trade size, while slippage risk can be mitigated by configuring a "slippage tolerance" in the DEX interface. This setting causes the transaction to fail if price shifts exceed the specified percentage before execution.
 
@@ -85,7 +85,7 @@ To manage price impact, traders can adjust their trade size, while slippage risk
 1. **Review DEX Interface**: Major DEXs display price impact warnings before confirming a trade. If the impact exceeds 1%, reconsider proceeding with the transaction.
 2. **Prioritize High-Liquidity Pools**: Seek out pools with deep liquidity for your asset pair. Larger pools can absorb substantial trades with minimal price impact.
 3. **Utilize DEX Aggregators**: Platforms like 1inch or Matcha serve as DEX aggregators, automatically distributing large trades across multiple liquidity pools to minimize overall price impact.
-4. **Manually Split Trades**: In the absence of an aggregator, consider breaking large trades into smaller portions. Executing five trades of 2 ETH each will incur less total price impact than a single trade of 10 ETH.
+4. **Manually Split Trades**: In the absence of an aggregator, consider breaking large trades into smaller portions. Executing five trades of smaller amounts will incur less total price impact than a single large trade.
 
 ### Frequently Asked Questions (FAQ)
 
@@ -99,7 +99,7 @@ These warnings serve to protect users from poor trade execution. A high price im
 No, price impact is inherently negative. A significant buy order increases the price, while a large sell order decreases it, both leading to unfavorable conditions for the trader.
 
 **How does Concentrated Liquidity (Uniswap v3) affect price impact?**  
-**[Concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap)** allows for deeper liquidity around the current market price. This results in significantly lower price impact for trades within the active liquidity range compared to prior versions like v2.
+**[Concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap)** allows for deeper liquidity around the current market price. This results in significantly lower price impact for trades within the active liquidity range compared to prior versions.
 
 ### Importance of Understanding Price Impact
 
@@ -119,7 +119,7 @@ Grasping price impact is vital for professionals in the Web3 space. Mastering th
 
 ### Real-World Trading Scenarios
 
-- **Scenario 1**: Sarah, a developer at a blockchain startup, faced challenges with price impact when trading significant amounts of ETH. After implementing strategies to focus on high liquidity pools and using DEX aggregators, she reduced her price impact from 3% to under 1% within two months.
+- **Scenario 1**: Sarah, a developer at a blockchain startup, faced challenges with price impact when trading significant amounts of ETH. After implementing strategies to focus on high liquidity pools and using DEX aggregators, she reduced her price impact significantly within two months.
 
 - **Scenario 2**: Juan, a product manager in DeFi, encountered difficulties executing large trades without incurring high price impact. By breaking his trades into smaller segments and prioritizing liquid pools, he achieved favorable execution prices, demonstrating the effectiveness of these strategies.
 

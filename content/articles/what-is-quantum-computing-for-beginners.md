@@ -67,7 +67,7 @@ Developing a practical and scalable quantum computer poses significant scientifi
 
 * **Qubit Construction**: Various methods exist for constructing qubits, including superconducting circuits, trapped ions, and photons. The most scalable and reliable approach remains uncertain, and ongoing research aims to identify the most effective solution.
 
-Currently, we are in the nascent stages of quantum computing, often likened to the 1950s of classical computing. Today’s quantum machines are small, noisy, and limited to solving basic problems. However, advancements in the field occur rapidly, indicating a promising future.
+Currently, we are in the nascent stages of quantum computing, often likened to the early days of classical computing. Today’s quantum machines are small, noisy, and limited to solving basic problems. However, advancements in the field occur rapidly, indicating a promising future.
 
 ### Frequently Asked Questions
 

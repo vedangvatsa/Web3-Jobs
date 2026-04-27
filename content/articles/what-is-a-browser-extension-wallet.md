@@ -16,7 +16,7 @@ If you have engaged with a Web3 application, you likely encountered a request to
 
 ## What Is a Browser Extension Wallet?
 
-A browser extension wallet is software that integrates directly into your web browser—such as Chrome, Firefox, or Brave. This software performs several critical functions.
+A browser extension wallet is software that integrates directly into your web browser, such as Chrome, Firefox, or Brave. This software performs several critical functions.
 
 ### Key Management
 
@@ -24,7 +24,7 @@ Browser extension wallets securely store your private keys. These cryptographic 
 
 ### Transaction Signing
 
-When a dApp requests an action—such as sending [tokens](/what-is-a-token), minting an NFT, or voting in a [DAO](/what-is-a-dao)—it sends a transaction request to your wallet. The wallet then presents a summary of the request. You review the details before using your private key to "sign" and approve the transaction. The wallet does not share your private key with the dApp; it only transmits the signature that verifies your approval.
+When a dApp requests an action, such as sending [tokens](/what-is-a-token), minting an NFT, or voting in a [DAO](/what-is-a-dao), it sends a transaction request to your wallet. The wallet then presents a summary of the request. You review the details before using your private key to "sign" and approve the transaction. The wallet does not share your private key with the dApp; it only transmits the signature that verifies your approval.
 
 ### Blockchain Connection
 
@@ -94,9 +94,9 @@ Several wallets dominate the browser extension space, each with distinct feature
 
 | Wallet           | Users          | Supported Blockchains                  | Key Features                                   |
 |------------------|----------------|----------------------------------------|------------------------------------------------|
-| MetaMask         | 30+ million    | Ethereum, Binance Smart Chain, others | User-friendly interface, extensive community    |
+| MetaMask         | Significant user base | Ethereum, Binance Smart Chain, others | User-friendly interface, extensive community    |
 | Brave Wallet     | Growing        | Ethereum, Bitcoin, others              | Integrated with Brave browser, strong privacy focus |
-| Coinbase Wallet   | Over 100 million | Ethereum, Bitcoin, and others        | Backed by Coinbase, user-friendly design        |
+| Coinbase Wallet   | Significant user base | Ethereum, Bitcoin, and others        | Backed by Coinbase, user-friendly design        |
 | Rainbow          | Growing         | Ethereum                              | Beautiful UI, focuses on NFT collectors         |
 | Rabby Wallet     | Growing         | Ethereum, Binance Smart Chain, others | Open source, feature-rich, advanced user options |
 
@@ -172,7 +172,7 @@ Product managers and designers must comprehend the user experience surrounding w
 
 Browser extension wallets, such as MetaMask, serve as the primary entry point for most individuals into Web3. They provide an accessible method for managing cryptographic keys and interacting with decentralized applications.
 
-Grasping how these wallets operate—such as local key storage, transaction signing without exposing keys, and blockchain connectivity—is fundamental for safe and effective Web3 usage.
+Grasping how these wallets operate, such as local key storage, transaction signing without exposing keys, and blockchain connectivity, is fundamental for safe and effective Web3 usage.
 
 The benefits of self-custody come with obligations. Protect your seed phrase, understand what you are signing, and adhere to security best practices. When used responsibly, browser extension wallets empower you with complete control over your digital assets. Neglecting these practices can expose you to risks from scammers eager to steal your assets. 
 

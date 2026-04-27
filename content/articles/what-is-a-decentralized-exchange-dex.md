@@ -18,7 +18,7 @@ This system facilitates instant trades and allows anyone to serve as a market ma
 
 ### How DEXs Operate
 
-Consider a liquidity pool for [ETH](/what-is-ethereum) and USDC on a DEX like Uniswap. Imagine this pool contains 10 ETH and 30,000 USDC. The constant product formula (`x * y = k`) ensures that the product of the quantities of the two tokens remains unchanged.
+Consider a liquidity pool for [ETH](/what-is-ethereum) and USDC on a DEX like Uniswap. Imagine this pool contains a certain amount of ETH and USDC. The constant product formula (`x * y = k`) ensures that the product of the quantities of the two tokens remains unchanged.
 
 | Tokens | Quantity |
 | :--- | :--- |
@@ -57,7 +57,7 @@ DEXs are not completely anonymous; they function on a pseudonymous basis. While 
 
 ### Revenue Generation for DEXs
 
-DEXs generate revenue by charging small fees on each transaction, typically ranging from 0.05% to 0.3%. These fees are distributed to liquidity providers as compensation for supplying capital to the pools. Some DEXs may also implement a protocol fee that contributes to the [DAO](/what-is-a-dao) treasury.
+DEXs generate revenue by charging small fees on each transaction, typically ranging from a low percentage to a moderate percentage. These fees are distributed to liquidity providers as compensation for supplying capital to the pools. Some DEXs may also implement a protocol fee that contributes to the [DAO](/what-is-a-dao) treasury.
 
 ### Token Listings on DEXs
 
@@ -79,9 +79,9 @@ Understanding how DEXs function can enhance your professional expertise in the W
 
 ### Real-World Examples of DEX Success
 
-1. **Sarah, a Blockchain Developer**: Sarah worked at a blockchain startup and struggled with liquidity management until she engaged with DEXs. By integrating AMMs into her strategy, she optimized her asset allocation and increased her trading efficiency, resulting in a 30% improvement in her returns over six months.
+1. **Sarah, a Blockchain Developer**: Sarah worked at a blockchain startup and struggled with liquidity management until she engaged with DEXs. By integrating AMMs into her strategy, she optimized her asset allocation and increased her trading efficiency.
 
-2. **Juan, a DeFi Product Manager**: Juan faced challenges with traditional trading methods and transitioned to DEXs. By leveraging AMMs for liquidity provision, he increased his portfolio diversity and achieved a 50% increase in overall asset value in under a year.
+2. **Juan, a DeFi Product Manager**: Juan faced challenges with traditional trading methods and transitioned to DEXs. By leveraging AMMs for liquidity provision, he increased his portfolio diversity and achieved significant growth in overall asset value.
 
 3. **Maya, Transitioning from Web2 to Web3**: Maya adapted her skills to the DEX environment, focusing on user experience and community engagement. Her ability to quickly learn and implement DEX strategies led to her securing a key role in a prominent Web3 project.
 

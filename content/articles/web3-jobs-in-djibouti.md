@@ -18,21 +18,21 @@ While the consumer-oriented Web3 scene in Djibouti City is still developing, sig
 
 ### Geographic and Economic Positioning
 
-Djibouti's location is its most significant asset in the Web3 landscape. Positioned at the intersection of the Red Sea and the Indian Ocean, it controls one of the most critical shipping lanes worldwide. Approximately **12% of global trade** traverses the waters near Djibouti. The Port of Djibouti itself manages over 400,000 containers each year, establishing it as one of Africa's busiest ports.
+Djibouti's location is its most significant asset in the Web3 landscape. Positioned at the intersection of the Red Sea and the Indian Ocean, it controls one of the most critical shipping lanes worldwide. A significant portion of global trade traverses the waters near Djibouti. The Port of Djibouti itself manages a substantial number of containers each year, establishing it as one of Africa's busiest ports.
 
 **The Blockchain Opportunity:**
 Traditional maritime trade often involves numerous intermediaries, extensive paperwork, and manual verification processes. A shipment from Shanghai to Ethiopia may necessitate:
 - More than 10 different parties (including shippers, customs agents, port authorities, insurance companies, and banks)
 - Over 50 documents (such as bills of lading, customs forms, and certificates of origin)
 - Processing times of 2-3 weeks
-- Billions of dollars in annual friction costs
+- Billions in annual friction costs
 
 Blockchain technology can streamline this entire process. An immutable ledger can track containers, verify documentation, and facilitate automatic payments via [smart contracts](/what-are-smart-contracts). For a port city like Djibouti, these factors create immediate and high-value use cases.
 
 ### Regional Financial Hub Ambitions
 
 Djibouti's banking sector remains stable, and the nation actively strives to position itself as a regional financial center. The country:
-- Maintains bilateral trade relationships with China, Saudi Arabia, India, and the UAE
+- Maintains bilateral trade relationships with various countries
 - Hosts the African Development Bank's regional office
 - Keeps currency parity with the euro, with the Djiboutian Franc pegged to the USD
 - Develops free zones and special economic areas
@@ -85,8 +85,8 @@ However, interest from enterprises and government sectors is increasing:
 - Maintain and upgrade existing blockchain systems
 
 **Compensation:**
-- **Local Hire (Djibouti-based):** $40,000 - $70,000 annually
-- **International Consultant/Senior Developer:** Project-based contracts often exceed $150,000 for multi-month engagements
+- **Local Hire (Djibouti-based):** Competitive annual salary
+- **International Consultant/Senior Developer:** Project-based contracts often exceed typical rates for multi-month engagements
 - **Typical Structure:** Short-term pilot projects (3-6 months) rather than permanent roles
 
 **Required Skills:**
@@ -105,7 +105,7 @@ However, interest from enterprises and government sectors is increasing:
 - Awareness of current challenges in maritime trade
 - Willingness to learn blockchain fundamentals
 
-**Compensation:** $50,000 - $90,000 annually
+**Compensation:** Competitive annual salary
 
 **Importance of This Role:** This individual bridges the gap between technologists and domain experts, understanding the specific problems that blockchain can address.
 
@@ -119,13 +119,13 @@ However, interest from enterprises and government sectors is increasing:
 - Design regulatory-compliant financial products
 - Oversee product launches in this emerging market
 
-**Compensation:** $60,000 - $100,000 annually
+**Compensation:** Competitive annual salary
 
 ### Regional Web3 Developer (Remote-First)
 
 **The Opportunity:** For local developers in Djibouti, building a globally competitive skill set and securing a [remote job](/remote-work-in-web3) with an international Web3 company presents a viable path.
 
-**Salary Range:** $30,000 - $80,000 annually, depending on experience and specialization
+**Salary Range:** Competitive annual salary, depending on experience and specialization
 
 **Advantages:**
 - Access to the global Web3 job market
@@ -149,7 +149,7 @@ However, interest from enterprises and government sectors is increasing:
 4. Allocating storage
 5. Issuing release authorization
 
-This process typically takes 2-5 days and involves over 15 personnel from various agencies.
+This process typically takes several days and involves multiple personnel from various agencies.
 
 **Blockchain Vision:**
 - Shippers submit digitized cargo information and certificates of origin via a blockchain interface
@@ -159,7 +159,7 @@ This process typically takes 2-5 days and involves over 15 personnel from variou
 - Storage allocations trigger automatically
 - Port authority approvals occur via blockchain signatures
 
-**Result:** Processing time reduces to hours, eliminating corruption risks and cutting costs by 20-30%.
+**Result:** Processing time reduces significantly, eliminating corruption risks and cutting costs.
 
 **Jobs This Creates:**
 - Blockchain architects (design the system)
@@ -173,11 +173,11 @@ This process typically takes 2-5 days and involves over 15 personnel from variou
 1. The exporter issues an invoice.
 2. The importer’s bank issues a letter of credit.
 3. The exporter presents documents to the bank.
-4. Banks coordinate globally, taking 3-5 days.
+4. Banks coordinate globally, taking several days.
 5. Funds settle.
 6. Goods are released.
 
-This process incurs banking fees of 1-2% of the transaction value.
+This process incurs banking fees based on the transaction value.
 
 **Blockchain Vision:**
 - The letter of credit is issued as a blockchain [token](/what-is-a-token).
@@ -289,11 +289,11 @@ The Web3 community is global; connect with the broader network while focusing on
 
 | Role | Experience | Annual Salary (USD) |
 |------|------------|-------------------|
-| Junior Developer | 0-2 years | $25,000 - $40,000 |
-| Mid-Level Developer | 2-5 years | $40,000 - $70,000 |
-| Senior Developer / Architect | 5+ years | $70,000 - $120,000 |
-| Product Manager | 3+ years | $60,000 - $100,000 |
-| International Consultant | Varies | $150,000 - $500,000+ (project-based) |
+| Junior Developer | 0-2 years | Competitive |
+| Mid-Level Developer | 2-5 years | Competitive |
+| Senior Developer / Architect | 5+ years | Competitive |
+| Product Manager | 3+ years | Competitive |
+| International Consultant | Varies | Project-based |
 
 **Factors That Increase Salary:**
 - Hyperledger certification
@@ -305,9 +305,9 @@ The Web3 community is global; connect with the broader network while focusing on
 ### International Market (Remote)
 
 For remote positions with international Web3 companies:
-- **Junior:** $40,000 - $80,000
-- **Mid-Level:** $80,000 - $150,000
-- **Senior:** $150,000 - $300,000+
+- **Junior:** Competitive
+- **Mid-Level:** Competitive
+- **Senior:** Competitive
 
 **Additional Compensation:**
 - Equity or token allocation (especially in startups)
@@ -334,7 +334,7 @@ The number of actual Web3 jobs in Djibouti remains small. Most opportunities ari
 ### Internet and Infrastructure
 
 While Djibouti's capital boasts modern infrastructure, internet reliability can be inconsistent:
-- Average speed: 20-30 Mbps (sufficient for development).
+- Average speed: Sufficient for development.
 - Uptime: Generally reliable but may occasionally experience outages.
 - Cost: Moderate.
 
@@ -342,12 +342,12 @@ While Djibouti's capital boasts modern infrastructure, internet reliability can 
 
 ### Cost of Living
 
-Djibouti is one of Africa's most expensive nations:
-- Rent: $500 - $1,500/month for decent accommodation.
+Djibouti is one of Africa's more expensive nations:
+- Rent: Varies for decent accommodation.
 - Food: Prices are high due to imports.
 - Overall cost: Comparable to some developed countries.
 
-**Why This Matters:** A $50,000 annual salary in Djibouti translates to about $30,000 in many other African nations.
+**Why This Matters:** A salary in Djibouti may translate differently in other African nations.
 
 ### Language Considerations
 
@@ -399,8 +399,8 @@ The local consumer Web3 market is minimal, but enterprise blockchain is growing.
 **Q: What is the long-term salary potential?**
 
 A senior consultant focusing on trade finance blockchain for East African ports could earn:
-- $100,000 - $200,000+ annually
-- Consulting project fees of $50,000 - $200,000+ per project
+- Competitive annual salary
+- Consulting project fees based on project scope
 - Equity stakes if founding a company in this space
 
 **Q: How does Djibouti compare to other African hubs for Web3?**

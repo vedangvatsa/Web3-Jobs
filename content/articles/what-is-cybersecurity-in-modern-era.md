@@ -97,10 +97,10 @@ Monitor your progress closely. Are you achieving the desired outcomes? Adjust yo
 ### Real-World Examples
 
 #### Example 1
-Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with cybersecurity protocols until she implemented these strategies. Within three months, her team observed a 40% reduction in phishing incidents.
+Consider Sarah, a developer at a [blockchain](/what-is-a-blockchain) startup. Initially, she struggled with cybersecurity protocols until she implemented these strategies. Within a few months, her team observed a significant reduction in phishing incidents.
 
 #### Example 2
-Juan, a product manager in [DeFi](/what-is-defi), faced similar cybersecurity challenges. By following this framework, he successfully reduced security breaches by 30% within six months. His experience illustrates the universal applicability of these principles.
+Juan, a product manager in [DeFi](/what-is-defi), faced similar cybersecurity challenges. By following this framework, he successfully reduced security breaches within six months. His experience illustrates the universal applicability of these principles.
 
 #### Example 3
 Maya, transitioning from Web2 to Web3, utilized this approach to adapt quickly. Her success demonstrates that these strategies can be effective regardless of background or experience level.

@@ -48,8 +48,8 @@ IoT is not a distant concept; it is actively transforming various sectors today.
 
 | Application       | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
-| **Smart Homes**    | Devices like smart thermostats (Nest), speakers (Amazon Echo), and lights (Philips Hue) connect to the internet, enhancing convenience and security. |
-| **Wearables**      | Smartwatches and fitness trackers (e.g., Apple Watch, Fitbit) monitor physical activity and health metrics, relaying data to mobile applications. |
+| **Smart Homes**    | Devices like smart thermostats, speakers, and lights connect to the internet, enhancing convenience and security. |
+| **Wearables**      | Smartwatches and fitness trackers monitor physical activity and health metrics, relaying data to mobile applications. |
 | **Smart Cities**   | Urban areas implement IoT technologies for improved efficiency, including adaptive traffic lights, smart parking solutions, and waste management systems. |
 | **Connected Cars**  | Modern vehicles incorporate sensors to transmit performance data to manufacturers, enabling predictive maintenance and features like remote start. |
 | **Industrial IoT (IIoT)** | In manufacturing, sensors on machinery monitor performance and facilitate predictive maintenance. In agriculture, IoT devices optimize irrigation and crop management. |
@@ -72,7 +72,7 @@ Machine-to-Machine (M2M) communication refers to direct interactions between two
 
 ### Scale of IoT Devices
 
-Estimates regarding the number of active IoT devices vary, but the figures are substantial and increasing rapidly. As of now, there are over 15 billion active IoT devices, with projections suggesting that this number could exceed 75 billion by 2030.
+Estimates regarding the number of active IoT devices vary, but the figures are substantial and increasing rapidly. Currently, there are billions of active IoT devices, with projections suggesting that this number could reach significantly higher levels in the coming years.
 
 ### Importance of IoT Knowledge
 
@@ -124,7 +124,7 @@ IoT devices accumulate extensive data, raising privacy concerns. Consumers shoul
 M2M refers to direct communication between machines without human input. IoT encompasses M2M but also includes cloud processing and user interface elements that enhance data usability for people. M2M focuses on machine connectivity, while IoT emphasizes the broader implications of that connectivity.
 
 **How many IoT devices exist?**
-Current estimates suggest over 15 billion active IoT devices, with projections indicating that this number could surpass 75 billion by 2030.
+Current estimates suggest billions of active IoT devices, with projections indicating that this number could reach significantly higher levels in the coming years.
 
 ### Conclusion
 

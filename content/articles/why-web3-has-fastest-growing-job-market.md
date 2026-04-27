@@ -23,7 +23,7 @@ The influx of venture capital serves as the primary driver for job creation in W
 
 ### Driver 2: The Emergence of DAOs and Protocol Treasuries
 
-Decentralized Autonomous Organizations (DAOs) represent a unique aspect of the Web3 ecosystem. Many leading [DeFi](/what-is-defi) protocols are governed by DAOs that manage treasuries worth millions or even billions of dollars.
+Decentralized Autonomous Organizations (DAOs) represent a unique aspect of the Web3 ecosystem. Many leading [DeFi](/what-is-defi) protocols are governed by DAOs that manage treasuries worth significant value.
 
 - **Innovative Organizational Structure:** DAOs operate like traditional companies but with a twist: their "shareholders" are global token holders. This structure creates a persistent need for talent to build, maintain, and expand the protocol.
 - **Funding for Contributors:** DAOs utilize their treasuries to finance development and operations through grants and bounties. This model fosters a vibrant freelance economy. Skilled contributors can sustain themselves by working on multiple DAO projects, a work style that is uncommon in traditional tech environments.
@@ -58,7 +58,7 @@ The dynamics of the Web3 job market differ significantly from those of Web2:
 
 | **Factor**             | **Web2**                 | **Web3**                             |
 |-----------------------|-------------------------|-------------------------------------|
-| Compensation          | Standard market rates   | 20-40% higher than Web2 equivalents |
+| Compensation          | Standard market rates   | Generally higher than Web2 equivalents |
 | Work Environment       | Hybrid/office-based     | Primarily remote                    |
 | Career Growth          | Slower progression      | Rapid advancement                   |
 | Equity Opportunities    | Limited                 | Standard in roles                   |
@@ -115,11 +115,11 @@ Target roles that utilize your existing expertise while incorporating new Web3 k
 
 ### Developer to Smart Contract Engineer
 
-Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his full-time job. His contributions to an open-source protocol caught the attention of a major DeFi project, resulting in a transition that provided a 50% salary increase plus significant equity.
+Alex, a backend engineer with five years of experience at a FAANG company, dedicated three months to learning Solidity while maintaining his full-time job. His contributions to an open-source protocol caught the attention of a major DeFi project, resulting in a transition that provided a significant salary increase plus equity.
 
 ### Product Manager in Web3
 
-Jessica, a product manager from traditional finance, capitalized on her domain expertise in DeFi. Her comprehension of financial products, combined with knowledge of Web3 technology, made her a highly sought-after candidate. She secured a role at a leading DeFi protocol within four weeks.
+Jessica, a product manager from traditional finance, capitalized on her domain expertise in DeFi. Her comprehension of financial products, combined with knowledge of Web3 technology, made her a highly sought-after candidate. She secured a role at a leading DeFi protocol within a few weeks.
 
 ### Career Changer Success
 
@@ -141,7 +141,7 @@ Marcus transitioned from a corporate job to focus on Web3 for six months. Throug
 No, the Web3 ecosystem requires a diverse set of skills beyond engineering. Marketing managers, community leads, product designers, legal counsel, operations specialists, and business development professionals are all in demand. Your existing skills can transfer; you simply need to understand the Web3 context.
 
 **How much can I earn in Web3?**  
-Web3 compensation consistently exceeds Web2 salaries. Base salaries typically range 30-60% higher, particularly for Solidity engineers and smart contract auditors. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn between $200,000 and $350,000 in total compensation.
+Web3 compensation consistently exceeds Web2 salaries. Base salaries typically range higher, particularly for Solidity engineers and smart contract auditors. Total compensation packages often include signing bonuses, equity in early-stage protocols, and token allocations that can appreciate significantly. Senior engineers at well-funded protocols can earn substantial total compensation.
 
 **Is it risky to transition to Web3?**  
 Every career transition carries risk, and Web3 is no exception due to market volatility. However, you can systematically manage this risk by targeting established protocols with proven revenue and negotiating base salaries in fiat.

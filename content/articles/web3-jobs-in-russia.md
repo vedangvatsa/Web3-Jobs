@@ -27,13 +27,13 @@ The Russian crypto scene is characterized by profound technical expertise and a 
 
 The global demand for Russian developers is exceptionally high, particularly for senior technical positions. These professionals are recognized for their robust problem-solving abilities and deep engineering knowledge.
 
-| Role | Experience Level | Salary Range (USD) |
+| Role | Experience Level | Salary Range |
 |------|------------------|---------------------|
-| Smart Contract & Protocol Engineers ([Solidity](/best-programming-languages-for-blockchain-development)/Rust/Go) | Senior (Remote, Global Company) | $120,000 - $200,000+ |
-| Security Researchers & Auditors | Senior (Remote, Global Company) | $150,000 - $250,000+ |
-| Quantitative Developers & Analysts | Senior (Remote, Global Company) | $140,000 - $220,000+ plus bonus |
+| Smart Contract & Protocol Engineers ([Solidity](/best-programming-languages-for-blockchain-development)/Rust/Go) | Senior (Remote, Global Company) | Competitive |
+| Security Researchers & Auditors | Senior (Remote, Global Company) | Competitive |
+| Quantitative Developers & Analysts | Senior (Remote, Global Company) | Competitive |
 
-The most lucrative opportunities arise with international, remote-first companies that offer competitive salaries in USD or stablecoins. The local job market is limited, offering considerably lower compensation.
+The most lucrative opportunities arise with international, remote-first companies that offer competitive salaries. The local job market is limited, offering considerably lower compensation.
 
 ### Building a Web3 Career as a Russian Professional
 
@@ -48,18 +48,18 @@ The most lucrative opportunities arise with international, remote-first companie
 ## Salary Overview: Web3 Jobs for Russian Professionals
 
 ### Local Opportunities (Minimal)
-- **Rare/Limited**: RUB 500K–1M/month (~$5,000–$10,000 USD): extremely limited
+- **Rare/Limited**: Extremely limited
 - **Context**: The local market is small; most professionals work remotely for international companies.
 
 ### Remote Opportunities (Recommended Path)
-- **Mid-Level Developer**: $80K–$150K/year ($6,700–$12,500/month)
-- **Senior Developer**: $120K–$250K+/year ($10K–$20,800+/month)
-- **Security Researcher**: $100K–$300K+/year ($8,300–$25,000+/month)
-- **Protocol Engineer**: $150K–$400K+/year ($12,500–$33,300+/month)
+- **Mid-Level Developer**: Competitive
+- **Senior Developer**: Competitive
+- **Security Researcher**: Competitive
+- **Protocol Engineer**: Competitive
 
-**Cost of Living Advantage**: Outside major cities, living expenses range from $800 to $1,200 per month. With a $10K remote salary, you can save over 80% locally.
+**Cost of Living Advantage**: Outside major cities, living expenses are generally lower. With a remote salary, you can save significantly locally.
 
-## Proven Career Paths to $10,000+/Month for Russian Developers
+## Proven Career Paths to Competitive Salaries for Russian Developers
 
 ### Path 1: Open-Source Contributor (Rewarded Protocol Developer) (12-24 Month Timeline)
 
@@ -76,24 +76,24 @@ The most lucrative opportunities arise with international, remote-first companie
 - Become a recognized contributor to major protocols.
 - Get approached by protocol teams with freelance or full-time offers.
 - Alternatively, apply directly to core team roles (Ethereum Foundation, L2 teams).
-- Expected offer: $80K–$150K/year.
+- Expected offer: Competitive.
 - Potential grants from protocol foundations (Ethereum Foundation, Optimism PGF).
-- **Expected Compensation**: $6,700–$12,500/month base + grants.
+- **Expected Compensation**: Competitive.
 
 **Months 13-18: Specialist Contributor**
 - Gain recognition as an expert in specific areas: consensus, scaling, security.
 - Lead significant protocol improvement projects.
-- **Expected Compensation**: $120K–$200K/year ($10K–$16,700/month).
+- **Expected Compensation**: Competitive.
 
 **Months 19-24: Senior Protocol Researcher**
 - Become a core protocol researcher or lead protocol improvement proposals.
-- **Expected Compensation**: $200K–$400K+/year ($16,700–$33,300+/month) + grants.
+- **Expected Compensation**: Competitive.
 
 **Quick Wins**:
-- Hackathons: ETHGlobal prizes ranging from $5K to $50K+.
-- Grant funding: Opportunities from Ethereum Foundation, Optimism, Arbitrum grants ($10K–$500K).
-- Bug bounties: Immunefi submissions can yield $5K–$100K+ for critical bugs.
-- Consulting: Charge $100–$300/hour for protocol design reviews.
+- Hackathons: ETHGlobal prizes can be substantial.
+- Grant funding: Opportunities from Ethereum Foundation, Optimism, Arbitrum grants.
+- Bug bounties: Immunefi submissions can yield significant rewards for critical bugs.
+- Consulting: Charge competitive rates for protocol design reviews.
 
 ### Path 2: High-Skill Freelancer (Code4rena Auditor/Competitive Coder) (6-18 Month Timeline)
 
@@ -109,26 +109,25 @@ The most lucrative opportunities arise with international, remote-first companie
 - Participate in Code4rena smart contract auditing contests.
 - Hunt for high-value bugs on Immunefi.
 - Engage in CTF competitions to showcase security skills.
-- Target earnings: $500–$5,000/month (variable).
-- **Expected Income**: $2,000–$8,000/month (top 5% earners on Code4rena).
+- Target earnings: Variable.
+- **Expected Income**: Competitive.
 
 **Months 7-12: Top Competitor**
 - Establish yourself as a known auditor, winning significant contests.
 - Get approached by protocols for private audits.
-- Charge $10,000–$50,000 per private audit engagement.
-- **Expected Income**: $8,000–$15,000+/month from a mix of contests and private audits.
+- Charge competitive rates per private audit engagement.
+- **Expected Income**: Competitive.
 
 **Months 13-18: Consultant/Advisor**
 - Start an audit firm or consult independently.
-- Charge $150–$300/hour for security consulting.
-- 20 hours/month = $3,000–$6,000/month base income.
+- Charge competitive rates for security consulting.
 - Combine competition earnings with private audits.
-- **Expected Compensation**: $10,000–$25,000+/month.
+- **Expected Compensation**: Competitive.
 
 **Quick Wins**:
-- First Code4rena contest: potential earnings of $100–$5,000.
-- High-value bug bounty: rewards range from $5,000 to $100,000+.
-- Private audit: fees can range from $10,000 to $50,000.
+- First Code4rena contest: potential earnings can vary.
+- High-value bug bounty: rewards can be substantial.
+- Private audit: fees can vary widely.
 
 ### Path 3: Full-Stack Developer at an International Company (Remote Employee) (6-14 Month Timeline)
 
@@ -143,33 +142,33 @@ The most lucrative opportunities arise with international, remote-first companie
 **Months 4-6: Secure First Role**
 - Apply to major protocols, DeFi projects, and Web3 companies that employ Russian engineers.
 - Capitalize on the strong reputation of Russian developers for quality work.
-- Expected offer: $80K–$120K/year.
+- Expected offer: Competitive.
 - Remote, fully remote (location-independent).
-- **Expected Compensation**: $6,700–$10,000/month.
+- **Expected Compensation**: Competitive.
 
 **Months 7-10: Shift to Specialist/Senior Roles**
 - Become an expert in a specific area: security, DeFi, infrastructure.
 - Lead technical projects or manage junior developers.
-- **Expected Compensation**: $120K–$200K/year ($10K–$16,700/month).
+- **Expected Compensation**: Competitive.
 
 **Months 11-14: Move into Leadership**
 - Attain roles such as principal engineer, tech lead, or architect.
-- **Expected Compensation**: $200K–$350K+/year ($16,700–$29,200+/month).
+- **Expected Compensation**: Competitive.
 
 **Quick Wins**:
-- First-month earnings: $5,000–$8,000.
-- Equity: Most companies offer stock options (2-4% for senior hires).
-- Signing bonus: Common for experienced hires, ranging from $5K to $30K.
+- First-month earnings: Competitive.
+- Equity: Most companies offer stock options.
+- Signing bonus: Common for experienced hires.
 
 ## Challenges and Solutions
 
 **Challenge 1: Geopolitical Uncertainty**
 - *Reality*: The political landscape complicates visa approvals and payment processes.
-- *Solution*: Secure fully remote roles with international companies that pay in crypto (USD/stablecoins). This approach neutralizes location issues.
+- *Solution*: Secure fully remote roles with international companies that pay in crypto. This approach neutralizes location issues.
 
 **Challenge 2: Banking and Payment Complexities**
 - *Reality*: International wire transfers are limited, and traditional banking presents challenges.
-- *Solution*: Favor payments in crypto (USDC, USDT, ETH). Most Web3 companies prefer this method.
+- *Solution*: Favor payments in crypto. Most Web3 companies prefer this method.
 
 **Challenge 3: Limited Local Ecosystem**
 - *Reality*: The local market lacks Web3 companies; the community is small.
@@ -225,7 +224,7 @@ The most lucrative opportunities arise with international, remote-first companie
 
 **Week 11-12:**
 - [ ] If Path 1: Engage with protocol teams about potential opportunities.
-- [ ] If Path 2: Generate consistent Code4rena income; target $500+ per contest.
+- [ ] If Path 2: Generate consistent Code4rena income; target competitive earnings per contest.
 - [ ] If Path 3: Participate in 1-2 serious interviews.
 - [ ] Reflect on your progress: "3 Months Building My Web3 Engineering Career."
 - [ ] Plan your next phase.
@@ -246,11 +245,11 @@ Yes. The crypto field is borderless, and many Web3 companies actively hire Russi
 **Is it safe to work for international companies?**  
 Yes. Remote work is legal. Opting for crypto payments mitigates banking issues, as crypto transactions are borderless.
 
-**Which path is the fastest to $5,000/month?**  
+**Which path is the fastest to competitive earnings?**  
 Either Path 2 (freelancer) or Path 3 (employee) typically takes about six months. Path 1 may take over 12 months.
 
 **Which path offers the highest potential earnings?**  
-Path 1 (core protocol developer) can yield $15K–$33K+/month plus grants at a senior level. Path 2 (auditor) offers $15K–$25K+/month, while Path 3 (employee) ranges from $10K–$25K+/month.
+Path 1 (core protocol developer) can yield competitive salaries at a senior level. Path 2 (auditor) offers competitive earnings, while Path 3 (employee) ranges from competitive salaries.
 
 **Can I combine paths?**  
 Yes. Combining Path 1 with Path 2—contributing to a protocol while participating in Code4rena—is effective. Alternatively, pursue Path 3 alongside side projects in Code4rena.
@@ -268,7 +267,7 @@ Focus on building your expertise for at least two years, validating your product
 Local communities exist, but global forums (like Ethereum and Polygon Discord) offer more opportunities. Smaller Russian-speaking groups remain active on Telegram.
 
 **Can I pursue this part-time while employed?**  
-Yes. Start with part-time freelancing through platforms like Code4rena and bug bounties. Build up to a $2,000–$3,000/month freelance income before considering full-time work.
+Yes. Start with part-time freelancing through platforms like Code4rena and bug bounties. Build up to a competitive freelance income before considering full-time work.
 
 **What is the biggest risk?**  
 Changes in the geopolitical situation represent a significant risk. Mitigate this by diversifying your income across multiple platforms, maintaining current skills, and building a global network.

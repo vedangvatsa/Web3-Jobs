@@ -14,7 +14,7 @@ The language of the crypto world contains vibrant, animal-themed slang, with "ap
 
 ## Defining Apeing In
 
-"Apeing in" refers to the act of investing in a cryptocurrency or [NFT](/what-are-nfts) project with great conviction, often accompanied by a substantial financial commitment, without conducting thorough research. This decision typically arises from gut feelings, community enthusiasm, social media buzz, and a pronounced sense of FOMO (Fear of Missing Out), rather than from detailed analysis or due diligence.
+"Apeing in" refers to the act of investing in a cryptocurrency or [NFT](/what-are-nfts) project with great conviction, often accompanied by a significant financial commitment, without conducting thorough research. This decision typically arises from gut feelings, community enthusiasm, social media buzz, and a pronounced sense of FOMO (Fear of Missing Out), rather than from detailed analysis or due diligence.
 
 The imagery associated with the term suggests impulsiveness, reflecting an instinctual approach. Investors act with enthusiasm, often disregarding the need for methodical evaluation.
 
@@ -34,7 +34,7 @@ Investors who ape in tend to place their bets on the strength of the community s
 
 ### High-Risk, High-Reward Calculation
 
-The strategy behind aping in involves entering a project early, before it gains mainstream traction. Successful projects can yield extraordinary returns, ranging from 10x to 1000x on the initial investment. For example, an investment of $1,000 can potentially grow to $100,000 with a 100x return. Such alluring returns often captivate investors.
+The strategy behind aping in involves entering a project early, before it gains mainstream traction. Successful projects can yield extraordinary returns, ranging from significant multiples on the initial investment. Such alluring returns often captivate investors.
 
 ### Speed Advantage
 
@@ -66,7 +66,7 @@ When prominent crypto influencers endorse a project, their followers may quickly
 
 ### Following Success of Similar Projects
 
-The monumental rise of [Bitcoin](/what-is-bitcoin) from $0.01 to $1,000+ spurred many investors to ape into every new cryptocurrency, hoping to replicate that success. Similarly, after certain NFT projects reached multi-billion dollar valuations, degens began to invest in every NFT project available.
+The monumental rise of [Bitcoin](/what-is-bitcoin) spurred many investors to ape into every new cryptocurrency, hoping to replicate that success. Similarly, after certain NFT projects reached significant valuations, degens began to invest in every NFT project available.
 
 ## Outcomes of Apeing In
 
@@ -74,19 +74,19 @@ The results of apeing in can vary significantly.
 
 ### Spectacular Wins
 
-In some instances, aping in can yield substantial returns. For example, an investor who allocates $1,000 into a project at the right moment may see their investment skyrocket to $100,000 or more within a year. These success stories often circulate on social media, amplifying the allure of aping in.
+In some instances, aping in can yield substantial returns. For example, an investor who allocates capital into a project at the right moment may see their investment skyrocket within a year. These success stories often circulate on social media, amplifying the allure of aping in.
 
 ### Substantial Losses
 
-More frequently, however, aping in leads to losses. An investment of $1,000 may vanish if project founders engage in a rug pull or if a bug in the [smart contracts](/what-are-smart-contracts) allows hackers to steal funds. Additionally, if community interest wanes, the token price may plummet to zero, resulting in total loss.
+More frequently, however, aping in leads to losses. An investment may vanish if project founders engage in a rug pull or if a bug in the [smart contracts](/what-are-smart-contracts) allows hackers to steal funds. Additionally, if community interest wanes, the token price may plummet, resulting in total loss.
 
 ### Mediocre Returns or Losses
 
-Often, investors find themselves in scenarios where the project underperforms. Although they may not lose their entire investment, the returns can fall short of the anticipated 100x, leaving them with a small profit or breaking even. Such outcomes receive less attention than dramatic wins or losses.
+Often, investors find themselves in scenarios where the project underperforms. Although they may not lose their entire investment, the returns can fall short of expectations, leaving them with a small profit or breaking even. Such outcomes receive less attention than dramatic wins or losses.
 
 ### Liquidation Through Leverage
 
-Investors who ape in using leverage face heightened risk. A 10-20% decline in the asset's price can lead to liquidation, resulting in losses that exceed the initial capital. 
+Investors who ape in using leverage face heightened risk. A decline in the asset's price can lead to liquidation, resulting in losses that exceed the initial capital.
 
 ## Understanding the Reality of Apeing In
 
@@ -94,7 +94,7 @@ Comprehending the statistical dynamics of apeing in is essential.
 
 ### Survivorship Bias
 
-Success stories, such as those of individuals who invested in Bitcoin at $100 and sold at $10,000, dominate discussions. However, the multitude of investors who lost money on the 10,000 cryptocurrencies that failed remains largely unheard. This bias skews perceptions of what constitutes a winning strategy.
+Success stories, such as those of individuals who invested in Bitcoin at a low price and sold at a high price, dominate discussions. However, the multitude of investors who lost money on the many cryptocurrencies that failed remains largely unheard. This bias skews perceptions of what constitutes a winning strategy.
 
 ### Mathematical Disadvantages
 
@@ -114,7 +114,7 @@ Several factors amplify risks associated with apeing in.
 
 ### Leverage
 
-Using borrowed funds to invest increases both potential profits and losses. A 10x leveraged position can lead to total liquidation if the asset depreciates by just 20%.
+Using borrowed funds to invest increases both potential profits and losses. A leveraged position can lead to total liquidation if the asset depreciates significantly.
 
 ### Rug Pulls
 

@@ -18,7 +18,7 @@ Edge computing alters this traditional model. Instead of transmitting unprocesse
 
 ### The Need for Edge Computing
 
-The surge in connected devices, commonly referred to as the [Internet of Things (IoT)](/what-is-internet-of-things-technology), drives the adoption of edge computing. As more devices—from smartwatches to industrial sensors—connect to the internet, the volume of generated data becomes unmanageable for centralized cloud systems. Edge computing effectively addresses several key issues.
+The surge in connected devices, commonly referred to as the [Internet of Things (IoT)](/what-is-internet-of-things-technology), drives the adoption of edge computing. As more devices—from smartwatches to industrial sensors—connect to the internet, the volume of generated data becomes challenging for centralized cloud systems. Edge computing effectively addresses several key issues.
 
 **1. Reduced Latency**
 

@@ -18,7 +18,7 @@ The Web3 ecosystem in Tripoli thrives on a problem-solving ethos. This peer-to-p
 
 Tripoli's crypto landscape illustrates the technology's value in challenging conditions.
 
-- **A Lifeline for Financial Access:** The local banking system struggles with liquidity issues, and international transfers are fraught with difficulty. Cryptocurrencies, particularly stablecoins like USDT and [Bitcoin](/what-is-bitcoin), have become essential for many. Peer-to-peer (P2P) trading flourishes, enabling individuals to safeguard their savings against inflation and engage in commerce.
+- **A Lifeline for Financial Access:** The local banking system struggles with liquidity issues, and international transfers are fraught with difficulty. Cryptocurrencies, particularly stablecoins and [Bitcoin](/what-is-bitcoin), have become essential for many. Peer-to-peer (P2P) trading flourishes, enabling individuals to safeguard their savings against inflation and engage in commerce.
 - **E-commerce and International Payments:** Small businesses and freelancers in Tripoli frequently rely on cryptocurrencies to purchase goods from abroad or receive payments from international clients. Crypto often emerges as the only viable payment method, allowing users to sidestep a financial system lacking global integration.
 - **A Resilient, Self-Taught Community:** Despite the absence of formal institutions, Tripoli has cultivated a passionate community of self-taught developers, traders, and crypto enthusiasts. They connect and learn through online forums and local Telegram and WhatsApp groups.
 - **A Frontier for Growth:** The combination of grassroots adoption and the urgent need for improved financial tools positions Libya as a significant, untapped market for Web3 companies. These companies can create user-friendly and compliant on-ramps and off-ramps.
@@ -75,9 +75,9 @@ Tripoli's crypto market stands out for several reasons:
 **Compensation:**
 | Level | Monthly Salary (Remote International) |
 |-------|---------------------------------------|
-| Entry Level (0-2 years) | $2,500 - $4,000 |
-| Mid-Level (2-5 years) | $4,000 - $7,000 |
-| Senior (5+ years) | $7,000 - $15,000+ |
+| Entry Level (0-2 years) | Significant income potential |
+| Mid-Level (2-5 years) | Significant income potential |
+| Senior (5+ years) | Significant income potential |
 
 **Reasons for High Compensation:**
 1. **Authentic Market Knowledge:** You possess firsthand experience in P2P trading.
@@ -109,9 +109,9 @@ Tripoli's crypto market stands out for several reasons:
 **Compensation:**
 | Level | Monthly Salary | Commission |
 |-------|----------------|------------|
-| Entry Level | $3,000 - $5,000 + trading commission | Varies |
-| Mid-Level | $5,000 - $10,000 + 0.5-2% on volume | Varies |
-| Senior | $10,000 - $20,000+ + commission | Varies |
+| Entry Level | Significant income potential | Varies |
+| Mid-Level | Significant income potential | Varies |
+| Senior | Significant income potential | Varies |
 
 **Your Unique Advantage:**
 Your intimate understanding of the Libyan P2P market is invaluable. International firms require someone who:
@@ -119,9 +119,6 @@ Your intimate understanding of the Libyan P2P market is invaluable. Internationa
 - Understands regulatory nuances.
 - Can navigate local challenges.
 - Maintains authentic relationships.
-
-**Commission Example:**
-Facilitating $10 million/month in trades at a 0.5% commission results in earnings of $50,000/month.
 
 ### Community Manager (Arabic)
 
@@ -139,12 +136,12 @@ Facilitating $10 million/month in trades at a 0.5% commission results in earning
 **Compensation:**
 | Level | Monthly Salary |
 |-------|----------------|
-| Entry Level | $1,500 - $2,500 |
-| Mid-Level | $2,500 - $4,000 |
-| Senior | $4,000 - $6,000+ |
+| Entry Level | Significant income potential |
+| Mid-Level | Significant income potential |
+| Senior | Significant income potential |
 
 **Importance of Arabic Speakers:**
-Most Web3 projects target English-speaking markets. The MENA region, with over 400 million people and high crypto adoption, presents an opportunity for Arabic-speaking professionals, especially given the scarcity of such teams.
+Most Web3 projects target English-speaking markets. The MENA region, with a large population and high crypto adoption, presents an opportunity for Arabic-speaking professionals, especially given the scarcity of such teams.
 
 ## Building a Web3 Career in Tripoli
 
@@ -201,7 +198,7 @@ Most Web3 projects target English-speaking markets. The MENA region, with over 4
 - Host weekly discussions in Arabic.
 
 **Month 3-6: Build Credibility**
-- Grow the community to 500-1,000 members.
+- Grow the community to a significant number of members.
 - Position yourself as a trusted voice.
 - Produce Arabic educational content.
 - Identify and mitigate scams.
@@ -231,7 +228,7 @@ This experience is:
 ### Market Arbitrage Opportunities
 
 Tripoli's P2P market offers numerous opportunities:
-- **Large Spreads:** USDT can trade 5-10% higher than global prices.
+- **Large Spreads:** Local prices can differ significantly from global prices.
 - **Low Liquidity:** Large orders can significantly impact prices.
 - **Information Gaps:** Traders may lack access to global market data.
 - **Regulatory Arbitrage:** Different regulations apply compared to centralized exchanges.
@@ -247,18 +244,18 @@ Companies are looking for professionals to:
 
 | Role                   | Local Salary          | Remote Salary         | Multiple    |
 |------------------------|-----------------------|-----------------------|-------------|
-| Developer              | $1,500 - $2,500/mo    | $4,000 - $7,000/mo    | 2.5 - 3x    |
-| OTC Manager            | $3,000 - $5,000/mo    | $5,000 - $10,000+/mo  | 1.5 - 3x    |
-| Community Manager       | $1,000 - $2,000/mo    | $2,500 - $4,000/mo    | 2.5 - 4x    |
-| Trader/Specialist      | Varies                 | $5,000 - $20,000+/mo  | 3 - 10x     |
+| Developer              | Significant income potential | Significant income potential |
+| OTC Manager            | Significant income potential | Significant income potential |
+| Community Manager       | Significant income potential | Significant income potential |
+| Trader/Specialist      | Varies                 | Significant income potential |
 
 **Cost of Living in Tripoli:**
-- Rent: $300 - $600/month
-- Food: $400 - $700/month (prices have increased due to instability)
+- Rent: Variable
+- Food: Variable (prices have increased due to instability)
 - Overall: Moderate cost of living, albeit unstable.
 
 **Salary Implications:**
-A remote salary of $4,000/month allows for a comfortable lifestyle, enabling savings of over 70% of income. This financial freedom also opens possibilities for relocation.
+A remote salary allows for a comfortable lifestyle, enabling significant savings. This financial freedom also opens possibilities for relocation.
 
 ## Challenges and Realistic Expectations
 
@@ -279,9 +276,9 @@ A remote salary of $4,000/month allows for a comfortable lifestyle, enabling sav
 ### 2. Internet Infrastructure
 
 **Current Status:**
-- Internet speeds range from 10-30 Mbps, adequate but inconsistent.
+- Internet speeds are adequate but inconsistent.
 - Uptime is variable due to power issues.
-- Monthly costs range from $30 to $80.
+- Monthly costs are variable.
 - Backup options like mobile 4G are available.
 
 **Workarounds:**
@@ -346,7 +343,7 @@ A remote salary of $4,000/month allows for a comfortable lifestyle, enabling sav
 - Write a detailed analysis of the Libyan crypto market.
 - Create trading spreadsheets or tools.
 - Network with international traders and companies.
-- Apply to 5-10 job openings.
+- Apply to job openings.
 
 ### Month 3: Market Entry
 
@@ -389,7 +386,7 @@ Moving may be advisable if:
 **Q: How can I receive payments given banking difficulties?**
 
 Several options exist:
-1. **Crypto payments:** Use stablecoins like USDC or USDT directly to your [wallet](/how-to-choose-a-crypto-wallet).
+1. **Crypto payments:** Use stablecoins directly to your [wallet](/how-to-choose-a-crypto-wallet).
 2. **Payment processors:** Wise, PayPal (occasionally), and Remitly.
 3. **Crypto exchanges:** Convert cryptocurrencies to local currency through OTC.
 4. **[Freelance](/how-to-start-freelancing-for-beginners) platforms:** Upwork, Fiverr (may have restrictions).
@@ -408,7 +405,7 @@ This insight is invaluable for companies targeting emerging markets.
 
 **Q: What is the fastest path to a good income?**
 
-1. **OTC/Trading:** 6-12 months; potential to earn $5,000-$10,000+/month quickly.
+1. **OTC/Trading:** 6-12 months; potential to earn significant income quickly.
 2. **Developer:** 9-15 months; more stable but slower progression.
 3. **Community Management:** 6-12 months to monetization; unlimited earning potential.
 
@@ -445,6 +442,6 @@ By combining:
 - A global perspective (recognizing international opportunities).
 - Resilience (thriving in challenging conditions).
 
-You can establish a successful Web3 career, earning $5,000-$15,000+/month while creating impactful solutions in a region that needs them.
+You can establish a successful Web3 career, earning significant income while creating impactful solutions in a region that needs them.
 
 The future of Web3 is unfolding in places like Tripoli. Your lived experience qualifies you to contribute meaningfully to that future.

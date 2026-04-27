@@ -21,7 +21,7 @@ Haptic systems primarily work through small motors or actuators that produce vib
 | Type of Actuator          | Description                                                                                                                                               | Example Application                                    |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 | **Eccentric Rotating Mass (ERM) Actuators** | These basic motors feature an unbalanced weight that spins, generating a rumbling vibration. Often found in older game controllers and budget smartphones.  | Traditional game controllers, low-end phones          |
-| **Linear Resonant Actuators (LRA)**          | More advanced, LRAs utilize magnets and springs, allowing for rapid movement and precise vibrations. They can produce a wider range of effects.               | Apple’s Taptic Engine in iPhones and Apple Watches    |
+| **Linear Resonant Actuators (LRA)**          | More advanced, LRAs utilize magnets and springs, allowing for rapid movement and precise vibrations. They can produce a wider range of effects.               | Apple's Taptic Engine in iPhones and Apple Watches    |
 
 The Taptic Engine, for example, uses LRA technology to provide a variety of feedback sensations, from soft taps to sharp clicks. This capability creates a more realistic interaction compared to basic vibrations.
 
@@ -35,7 +35,7 @@ Haptics also convey essential information without requiring users to divert thei
 
 ### Applications of Haptics in Gaming and Virtual Reality
 
-Gaming has been a significant catalyst for advancements in haptic technology. The rumble feature in game controllers adds immersion, allowing players to feel in-game events like explosions or engine vibrations. Technologies like the DualSense controller from Sony’s PlayStation 5 take this immersion further, offering detailed sensations such as walking on various surfaces or the tension of a bowstring being pulled.
+Gaming has been a significant catalyst for advancements in haptic technology. The rumble feature in game controllers adds immersion, allowing players to feel in-game events like explosions or engine vibrations. Technologies like the DualSense controller from Sony's PlayStation 5 take this immersion further, offering detailed sensations such as walking on various surfaces or the tension of a bowstring being pulled.
 
 In virtual reality (VR), haptic feedback is crucial for establishing a sense of presence. When users reach out to "touch" a virtual object, haptic feedback from controllers or specialized gloves provides the sensation of contact. This technology is vital for making VR interactions feel authentic. Researchers are developing advanced systems capable of simulating texture, shape, and even temperature, further bridging the gap between virtual and physical experiences.
 

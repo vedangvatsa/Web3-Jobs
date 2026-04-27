@@ -12,7 +12,7 @@ lastUpdated: "2026-04-27"
 
 An **Initial Coin Offering (ICO)** serves as a fundraising mechanism for emerging cryptocurrency projects. It parallels an Initial Public Offering (IPO) in the stock market. During an ICO, a project creates a new cryptocurrency [token](/what-is-a-token) and sells it to early investors. This process generates the necessary capital for development, marketing, and operational expenses.
 
-The ICO boom of 2017 marked a significant period for the cryptocurrency sector. Thousands of projects raised billions of dollars, igniting speculation and innovation but also attracting fraudulent activities and regulatory attention. Although the term "ICO" has become less prevalent, it laid the groundwork for more refined token launch strategies that have developed since.
+The ICO boom of 2017 marked a significant period for the cryptocurrency sector. Thousands of projects raised billions in value, igniting speculation and innovation but also attracting fraudulent activities and regulatory attention. Although the term "ICO" has become less prevalent, it laid the groundwork for more refined token launch strategies that have developed since.
 
 ### How an ICO Works
 
@@ -28,7 +28,7 @@ The traditional ICO model from 2017 typically adhered to these steps:
 
 The ICO boom of 2017 created a chaotic environment marked by several significant issues:
 
-- **Lack of Investor Protection:** The majority of ICOs operated without regulation. Numerous projects were scams, raising millions without any intention of delivering a viable product. These projects often disappeared, leaving investors with worthless tokens.
+- **Lack of Investor Protection:** The majority of ICOs operated without regulation. Numerous projects were scams, raising significant amounts without any intention of delivering a viable product. These projects often disappeared, leaving investors with worthless tokens.
 - **Illiquidity:** Tokens frequently remained illiquid after the ICO. Investors could not sell their tokens until the project successfully listed them on an exchange, which was not guaranteed.
 - **Extreme Hype and FOMO:** Market dynamics were heavily influenced by hype and Fear Of Missing Out (FOMO). Many investors invested in projects without adequate research, resulting in substantial losses when these projects failed.
 - **Regulatory Scrutiny:** Regulatory bodies, such as the U.S. Securities and Exchange Commission (SEC), began to scrutinize the ICO market. They determined that many tokens were unregistered securities, leading to lawsuits and a decline in the attractiveness of the ICO model.
@@ -74,8 +74,8 @@ Regularly evaluate your progress. Are you achieving desired results? Modify your
 
 | Name  | Role                        | Initial Challenge                | Outcome                              |
 |-------|-----------------------------|----------------------------------|--------------------------------------|
-| Sarah | Developer at a blockchain startup | Struggled with project deadlines | Achieved a 50% reduction in time-to-market within 3 months by implementing agile practices. |
-| Juan  | Product Manager in [DeFi](/what-is-defi) | Faced difficulties in user engagement | Increased user retention by 30% after applying customer feedback loops to product development. |
+| Sarah | Developer at a blockchain startup | Struggled with project deadlines | Achieved a significant reduction in time-to-market within 3 months by implementing agile practices. |
+| Juan  | Product Manager in [DeFi](/what-is-defi) | Faced difficulties in user engagement | Increased user retention after applying customer feedback loops to product development. |
 | Maya  | Transitioning from Web2 to Web3 | Needed to adapt to a new environment | Successfully integrated into a Web3 team, showcasing adaptability and securing a promotion within six months. |
 
 ### Common Mistakes to Avoid
@@ -93,7 +93,7 @@ Regularly evaluate your progress. Are you achieving desired results? Modify your
 ### FAQ
 
 **Q: How long will it take to implement these strategies?**  
-A: Initial results typically appear within 2 to 4 weeks of consistent application, with significant improvements visible in 8 to 12 weeks. The timeline can vary based on your starting point, daily practice, and active feedback seeking. Professionals who monitor their progress tend to advance faster.
+A: Initial results typically appear within a few weeks of consistent application, with significant improvements visible in a couple of months. The timeline can vary based on your starting point, daily practice, and active feedback seeking. Professionals who monitor their progress tend to advance faster.
 
 **Q: What if my workplace does not support this?**  
 A: You often have more agency than it seems, even in challenging environments. Start with small, self-contained actions that do not require organizational approval. Document your progress and results. If, after sustained effort, the environment remains unyielding, consider seeking a workplace that prioritizes employee development.

@@ -73,7 +73,7 @@ While HODLing appears straightforward, it presents psychological challenges.
 
 - **Extended Losses**: HODLers sometimes endure prolonged periods of losses before their investments recover. Staying committed during such downturns tests resolve.
 
-- **Risk of Permanent Loss**: Not all cryptocurrencies succeed. Some HODLers have watched their investments decline to zero, leading to irretrievable losses.
+- **Risk of Permanent Loss**: Not all cryptocurrencies succeed. Some HODLers have watched their investments decline significantly, leading to irretrievable losses.
 
 - **Tax Implications**: In various jurisdictions, HODLing can complicate tax filings. While long-term holdings may benefit from lower capital gains taxes, they also create an accounting burden.
 
@@ -115,7 +115,7 @@ HODLing can be detrimental in certain situations.
 
 ### Scenarios Where HODLing Fails
 
-- **Weak Projects**: Holding assets associated with poorly managed projects or flawed technology is unlikely to yield positive returns. Such assets can decline to zero.
+- **Weak Projects**: Holding assets associated with poorly managed projects or flawed technology is unlikely to yield positive returns. Such assets can decline significantly.
 
 - **Short Time Horizons**: If you need liquidity within a few years, HODLing volatile assets poses considerable risk.
 
