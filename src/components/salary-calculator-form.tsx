@@ -32,7 +32,6 @@ import {
 import { Slider } from '@/components/ui/slider';
 import { Calculator, Sparkles, Briefcase, ArrowRight } from 'lucide-react';
 import { useState, useEffect } from 'react';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
 
 const salarySchema = z.object({
  role: z.string().min(1, 'Please select a role'),
@@ -149,7 +148,7 @@ export function SalaryCalculatorForm() {
     <div className="container mx-auto px-4 py-8 md:py-16">
      <section className="text-center mb-12 max-w-4xl mx-auto">
       <h1 className="sr-only">Web3 Salary Calculator</h1>
-      <TransitioningHeadline phrases={headlines} />
+      <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
      </section>
 
      <div className="max-w-4xl mx-auto">
@@ -396,9 +395,7 @@ export function SalaryCalculatorForm() {
       </div>
        <Card className="mt-12 col-span-full bg-primary/5 border-primary/20 ">
         <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-          <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-            <Briefcase className="h-8 w-8 text-primary"/>
-          </div>
+          
           <div>
             <h3 className="text-xl font-bold text-primary mb-1">Ready to Apply?</h3>
             <p className="text-muted-foreground">Now that you know your worth, find the perfect remote Web3 job to match.</p>

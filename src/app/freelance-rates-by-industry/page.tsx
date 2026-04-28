@@ -16,7 +16,6 @@ import {
 import { Slider } from '@/components/ui/slider';
 import { ArrowRight, DollarSign, FileText } from 'lucide-react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
-import { TransitioningHeadline } from '@/components/transitioning-headline';
 import { useMemo, useState } from 'react';
 
 const rateRows = [
@@ -166,11 +165,9 @@ export default function FreelanceRatesByIndustryPage() {
 
     <div className="container mx-auto px-4 py-8 md:py-16">
      <section className="text-center mb-12 max-w-4xl mx-auto">
-      <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-       <DollarSign className="h-10 w-10 text-primary" />
-      </div>
+      
       <h1 className="sr-only">Freelance Rates by Industry</h1>
-      <TransitioningHeadline phrases={headlines} />
+      <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
       <p className="mt-4 text-muted-foreground">
        Compare benchmark ranges by industry and estimate your pricing by experience,
        region, and project scope.

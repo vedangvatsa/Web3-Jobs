@@ -118,9 +118,7 @@ export function EmployeeExitSurveyForm() {
   <div className="container mx-auto py-12">
     <Card className="max-w-4xl mx-auto">
       <CardHeader className="text-center">
-         <div className="mx-auto bg-primary/10 p-4 rounded-full w-fit mb-4">
-         <UserMinus className="h-10 w-10 text-primary" />
-        </div>
+         
         <CardTitle className="text-3xl">Employee Exit Survey Tool</CardTitle>
         <CardDescription>Gather valuable feedback from departing employees.</CardDescription>
       </CardHeader>
@@ -155,9 +153,7 @@ export function EmployeeExitSurveyForm() {
     </div>
      <Card className="mt-12 max-w-4xl mx-auto bg-primary/5 border-primary/20">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-        <div className="flex-shrink-0 bg-primary/10 p-3 rounded-full hidden md:block">
-          <Rss className="h-8 w-8 text-primary"/>
-        </div>
+        
         <div>
           <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3>
           <p className="text-muted-foreground">Post your job on the #1 Web3 job board to reach over 60,000 qualified professionals.</p>
