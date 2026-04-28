@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/freelance-rates-by-industry',
   images: [
    {
-    url: 'https://hashtagweb3.com/og-image-tools.png',
+    url: '/api/og?type=default&title=Freelance%20Rates%20by%20Industry',
     width: 1200,
     height: 630,
     alt: 'Freelance Rates by Industry',
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
   title: 'Freelance Rates by Industry (2026) | Hourly & Project Benchmarks',
   description:
    'Benchmark freelance hourly and project rates across major industries and roles.',
-  images: ['https://hashtagweb3.com/og-image-tools.png'],
+  images: ['/api/og?type=default&title=Freelance%20Rates%20by%20Industry'],
  },
 };
 

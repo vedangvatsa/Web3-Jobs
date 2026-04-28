@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/work-life-balance-survey',
   images: [
    {
-    url: 'https://hashtagweb3.com/og-image-tools.png',
+    url: '/api/og?type=default&title=Work-Life%20Balance%20Survey%20Builder',
     width: 1200,
     height: 630,
     alt: 'Work-Life Balance Survey Builder',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Work-Life Balance Survey Builder | Free Template',
   description: "Create a survey to assess and improve your team's work-life balance.",
-  images: ['https://hashtagweb3.com/og-image-tools.png'],
+  images: ['/api/og?type=default&title=Work-Life%20Balance%20Survey%20Builder'],
  },
 };
 
