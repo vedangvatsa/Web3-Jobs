@@ -54,6 +54,36 @@ When you deploy a smart contract, the code is public and immutable. If there is 
 
 Security must be the primary focus of every Solidity developer. 
 
+<div class="diagram">
+<svg viewBox="0 0 800 130" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+  <text x="400" y="20" text-anchor="middle" font-size="13" font-weight="bold" fill="#374151">Top Smart Contract Vulnerabilities</text>
+
+  <rect x="20" y="35" width="175" height="80" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="107" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#991b1b">Reentrancy</text>
+  <text x="107" y="75" text-anchor="middle" font-size="9" fill="#ef4444">External call before</text>
+  <text x="107" y="88" text-anchor="middle" font-size="9" fill="#ef4444">state update</text>
+  <text x="107" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: CEI pattern</text>
+
+  <rect x="215" y="35" width="175" height="80" rx="8" fill="#fefce8" stroke="#eab308" stroke-width="1.5"/>
+  <text x="302" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#854d0e">Access Control</text>
+  <text x="302" y="75" text-anchor="middle" font-size="9" fill="#eab308">Missing onlyOwner</text>
+  <text x="302" y="88" text-anchor="middle" font-size="9" fill="#eab308">on admin functions</text>
+  <text x="302" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: OpenZeppelin</text>
+
+  <rect x="410" y="35" width="175" height="80" rx="8" fill="#f0f9ff" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="497" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e40af">Integer Overflow</text>
+  <text x="497" y="75" text-anchor="middle" font-size="9" fill="#3b82f6">Math wraps around</text>
+  <text x="497" y="88" text-anchor="middle" font-size="9" fill="#3b82f6">to max/min values</text>
+  <text x="497" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: Solidity 0.8+</text>
+
+  <rect x="605" y="35" width="175" height="80" rx="8" fill="#faf5ff" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="692" y="58" text-anchor="middle" font-size="11" font-weight="bold" fill="#7c3aed">Front-Running</text>
+  <text x="692" y="75" text-anchor="middle" font-size="9" fill="#a855f7">Bots see pending TX</text>
+  <text x="692" y="88" text-anchor="middle" font-size="9" fill="#a855f7">and trade ahead</text>
+  <text x="692" y="105" text-anchor="middle" font-size="9" fill="#64748b">Fix: Slippage checks</text>
+</svg>
+</div>
+
 ## 1. The Reentrancy Attack
 
 This is the most famous vulnerability in Ethereum history (it caused the 2016 DAO hack that split the Ethereum network).
