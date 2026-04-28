@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   url: 'https://hashtagweb3.com/interview-questions',
   images: [
    {
-    url: 'https://hashtagweb3.com/og-image.png',
+    url: '/api/og?type=default&title=Web3%20Interview%20Questions',
     width: 1200,
     height: 630,
     alt: 'Web3 Interview Question Bank',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 Interview Question Bank | 200+ Questions',
   description: 'Prepare for Web3 interviews with a structured bank of 200+ role-based questions.',
-  images: ['https://hashtagweb3.com/og-image.png'],
+  images: ['/api/og?type=default&title=Web3%20Interview%20Questions'],
  },
 };
 
