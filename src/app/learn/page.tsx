@@ -65,7 +65,7 @@ export default function LearnPage() {
          <CardContent className="p-6 md:p-8">
           <div className="flex items-start justify-between gap-4 mb-3">
            <div>
-            <h2 className="text-2xl font-bold group-hover:text-primary transition-colors mb-2">
+            <h2 className="text-2xl font-bold group-hover:text-foreground transition-colors mb-2">
              {coreCategory.title}
             </h2>
             <p className="text-muted-foreground">
@@ -106,7 +106,7 @@ export default function LearnPage() {
            <Card className="group hover:border-primary transition-all h-full">
             <CardContent className="p-5">
              <IconComponent className="h-5 w-5 text-muted-foreground group-hover:text-primary transition-colors mb-3" />
-             <h3 className="font-semibold mb-1 group-hover:text-primary transition-colors">
+             <h3 className="font-semibold mb-1 group-hover:text-foreground transition-colors">
               {category.title}
              </h3>
              <p className="text-sm text-muted-foreground mb-3 line-clamp-2">

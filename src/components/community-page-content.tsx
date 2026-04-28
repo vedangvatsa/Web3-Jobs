@@ -457,7 +457,7 @@ export function CommunityPageContent({
          <CardContent className="p-6">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-center">
             <div className="lg:col-span-1 text-center md:text-left">
-              <h3 className="text-xl font-bold text-primary mb-2">Join Our Regional Whatsapp Groups</h3>
+              <h3 className="text-xl font-bold text-foreground mb-2">Join Our Regional Whatsapp Groups</h3>
               <p className="text-muted-foreground text-sm">Connect with Web3 professionals in your region. Approval is based on your WhataApp number's country code.</p>
             </div>
             <div className="lg:col-span-2 grid grid-cols-2 sm:grid-cols-3 gap-2">

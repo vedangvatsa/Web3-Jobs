@@ -154,11 +154,11 @@ export function EmployeeEngagementSurveyForm() {
     <div className="flex justify-center mt-8">
       <Button size="lg" onClick={handleDownload}><Download className="mr-2 h-4 w-4"/> Download Survey as PDF</Button>
     </div>
-    <Card className="mt-12 max-w-4xl mx-auto bg-primary/5 border-primary/20">
+    <Card className="mt-12 max-w-4xl mx-auto bg-muted/30 border shadow-none">
       <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
         
         <div>
-          <h3 className="text-xl font-bold text-primary mb-1">Looking to Hire?</h3>
+          <h3 className="text-xl font-bold text-foreground mb-1">Looking to Hire?</h3>
           <p className="text-muted-foreground">Find candidates who are passionate and engaged by posting on the #1 Web3 job board.</p>
         </div>
         <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer" className="flex-shrink-0 mt-4 md:mt-0">
